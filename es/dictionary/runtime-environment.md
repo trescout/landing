@@ -1,27 +1,40 @@
 # ¿Qué es Runtime Environment?
 
-El entorno de soporte básico que un software necesita para ejecutarse en una computadora.
+El entorno de ejecución (runtime environment) es la capa de bibliotecas y recursos sobre la que se ejecuta el código.
 
-## Definición
-Si piensa en el código de software como una receta, este entorno es la cocina donde se cocina esa receta. Proporciona las bibliotecas y los recursos del sistema necesarios para que se ejecute el código.
+## Definición y origen de la palabra
+Una receta necesita una cocina: el código también necesita bibliotecas, un intérprete y recursos del sistema para funcionar. Esta capa es invisible, pero brinda soporte cada vez que se ejecuta el programa. Está presente en todas partes, a nivel de navegador, servidor y sistema operativo.
 
-## Cómo funciona
-Cuando instala un programa, el entorno que necesita ese programa generalmente se instala en segundo plano. No lo ves, pero el programa recibe soporte de este entorno cada vez que se ejecuta.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Web: JavaScript ejecutándose en el navegador.Presentador: Servicio de Node o Python.Juego: Controladores y archivos del sistema.
 
-## Dónde se usa
-Se encuentra en navegadores web, servidores de aplicaciones y todo el software a nivel de sistema operativo.
+## Profundidad técnica y arquitectura
+Capas:
 
-## Suele confundirse con
-No confundir con el software en sí; Este entorno es la casa en la que vive el software.
+## Cosas frecuentemente mezcladas
+Se suele pensar que es el software en sí. Sin embargo, el entorno es la casa donde vive el software. Si la casa cambia, el mismo software puede comportarse de manera diferente.
+
+## Uso en diferentes disciplinas
+Cocina: El horno y los recipientes donde se cocina la receta.Acuario: El agua y la temperatura en la que vive el pez.Escenario: El sistema de iluminación y sonido.
 
 ## Preguntas frecuentes
 **¿Por qué da error?**
-Por lo general, da un error porque faltan los archivos multimedia requeridos o tienen una versión incorrecta.
+Generalmente, falta el archivo de entorno o la versión es incorrecta. Se consulta la nota de versión y se instala lo que falta.
+
+**¿Cómo se averigua la versión?**
+Con la bandera de versión del ejecutable. En el equipo, se escribe una única versión en el archivo.
+
+**¿Docker lo resuelve?**
+La diferencia de entorno sí: todos ejecutan en la misma caja. No resuelve errores de código.
+
+**¿Es el navegador también un entorno?**
+Sí. Con su motor de JavaScript y conjunto de API, es un entorno de ejecución por sí mismo.
 
 
 ## Términos relacionados
 - [Runtime](/es/dictionary/runtime/)
 - [Compiler](/es/dictionary/compiler/)
+- [Virtual Machines](/es/dictionary/virtual-machines/)
 
 ## Herramientas relacionadas
 - [Node](/es/discover/node/)

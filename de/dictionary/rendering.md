@@ -1,19 +1,31 @@
 # Was ist Rendering?
 
-Der Prozess, bei dem ein Computer Rohdaten verarbeitet und sie in ein Bild oder eine Grafik umwandelt, die wir auf dem Bildschirm sehen.
+Rendering ist der Prozess, bei dem Rohdaten in das Bild umgewandelt werden, das Sie auf dem Bildschirm sehen.
 
-## Definition
-Computer speichern Daten in Zahlen. Beim Rendern werden die Eigenschaften dieser digitalen Daten wie Licht, Farbe und Form berechnet und in ein für uns sichtbares Bild umgewandelt. Dieser Prozess erfordert komplexe mathematische Berechnungen.
+## Definition und Wortherkunft
+Render bedeutet im Englischen wiedergeben oder zeichnen. Computer speichern Daten in Form von Zahlen. Rendering berechnet die Licht-, Farb- und Formeigenschaften dieser numerischen Daten und wandelt sie in ein sichtbares Bild um. Dieser Prozess erfordert intensive mathematische Berechnungen, weshalb er in der Regel von der Grafikkarte (GPU) übernommen wird.
 
-## So funktioniert es
-Der Prozessor bzw. die Grafikkarte empfängt die Daten, verarbeitet sie nach Regeln und färbt die Pixel des Bildschirms ein.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Webseiten: Das Zeichnen von HTML- und CSS-Code durch Ihren Browser Pixel für Pixel auf den Bildschirm.Spiele: Die Erzeugung neuer Frames 30- oder 60-mal pro Sekunde.Videobearbeitung: Konvertierung der Zeitleiste mit Effekten in ein abspielbares Video (Export).Karten: Zeichnen neuer Details beim Heranzoomen.
 
-## Wo es eingesetzt wird
-Es wird in Spielen, Videobearbeitungsprogrammen und beim Anzeigen von Webseiten im Browser verwendet.
+## Technische Tiefe und Architektur
+Es gibt zwei Hauptwege der Bilderzeugung:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Druckerei: Umwandlung des Seitendesigns in eine Druckplatte.Architektur: Realistische dreidimensionale Visualisierung des Projekts (Lagesituation).Kino: Bildbasierte Berechnung von Post-Production-Effekten.
+
+## Häufig gestellte Fragen
 **Warum kann das Rendern langsam sein?**
-Wenn die zu verarbeitende Datenmenge zu groß ist oder die Hardware des Computers mit diesen Berechnungen nicht mithalten kann, verlangsamt sich der Prozess.
+Wenn die zu verarbeitende Datenmenge die Kapazität der Hardware übersteigt, verlangsamt sich der Prozess. Die Lösung besteht meist darin, Details zu reduzieren, die Hardware aufzurüsten oder die Arbeit in Teile zu zerlegen.
+
+**Was ist Raytracing?**
+Es ist eine Methode, die Reflexionen und Schatten realistisch berechnet, indem sie den Weg von Lichtstrahlen in der Szene verfolgt. Sie ist qualitativ hochwertig, erfordert jedoch im Vergleich zur Rasterisierung viel mehr Rechenleistung.
+
+**Was ist der Unterschied zwischen SSR und CSR?**
+SSR rendert die Seite auf dem Server und sendet sie fertig, das erste Laden ist schnell. CSR überlässt das Rendern dem Browser, das erste Laden ist langsam, aber danach läuft es flüssig.
+
+**Ist für das Rendering eine leistungsstarke Grafikkarte zwingend erforderlich?**
+Nicht immer. Für Webseiten und Büroarbeiten reicht der Prozessor aus. Spiele, 3D-Design und Videobearbeitung erfordern jedoch eine leistungsstarke Grafikkarte.
 
 
 ## Verwandte Begriffe

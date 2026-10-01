@@ -2,26 +2,35 @@
 
 > Web User Interface
 
-Una interfaz visual que le permite utilizar un software a través de un navegador de Internet en lugar de instalarlo en su computadora.
+La Web UI (interfaz de usuario web) es la superficie de control de la aplicación que se visualiza en el navegador.
 
-## Definición
-La interfaz de usuario web le permite ver los botones, menús y gráficos de una aplicación dentro de su navegador. Puedes acceder a la aplicación sin ninguna instalación especial, como entrar a un sitio web. Esto garantiza que las actualizaciones del software se administren en el lado del servidor, y no en usted.
+## Definición y origen de la palabra
+Los botones, menús y gráficos se dibujan en el navegador. No se requiere instalación, solo acceder a la dirección. Las actualizaciones se realizan en el servidor y el lado del usuario se refresca.
 
-## Cómo funciona
-Abres tu navegador, vas a la dirección correspondiente y comienzas a usar el panel visual que aparece. Los códigos que se ejecutan en segundo plano están en el servidor, solo manipulas los elementos interactivos en la pantalla.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Correo electrónico: Buzón de correo en el navegador.Conversación: Pantalla del bot de inteligencia artificial.Edición: Herramientas de diseño en línea.
 
-## Dónde se usa
-Se utiliza en casi todos los servicios de correo electrónico, chatbots de IA y herramientas de edición en línea.
+## Profundidad técnica y arquitectura
+Capas:
 
-## Suele confundirse con
-Puede confundirse con el sitio web; Sin embargo, la interfaz de usuario web se refiere al panel de control de una aplicación y no al contenido de un sitio.
+## Cosas frecuentemente mezcladas
+Se confunde con un sitio web. El sitio ofrece contenido, la interfaz web (Web UI) gestiona la aplicación. Uno es un folleto, el otro es un panel de control.
+
+## Uso en diferentes disciplinas
+Menú de restaurante: Interfaz de selección y pedido.Carlinga: Disposición de indicadores y botones.Control: Panel de control del dispositivo.
 
 ## Preguntas frecuentes
-**¿Se requiere Internet para utilizar la interfaz de usuario web?**
-Sí, porque las funciones de la interfaz suelen estar conectadas a un servidor remoto.
+**¿Es necesaria la conexión a Internet?**
+Generalmente sí. Las funciones dependen de un servidor remoto, el modo sin conexión es limitado.
 
-**¿Funciona en cualquier navegador?**
-Es compatible con la mayoría de los navegadores modernos, pero puede variar según las preferencias del desarrollador.
+**¿Funciona en todos los navegadores?**
+En navegadores modernos sí. En versiones antiguas, la apariencia puede verse afectada.
+
+**¿Funciona sin conexión?**
+Parcialmente. Las secciones almacenadas en caché se abren, pero se requiere conexión para las operaciones en tiempo real.
+
+**¿Cuál es la diferencia de la API?**
+La API proporciona datos a la máquina, la interfaz web (Web UI) proporciona una interfaz al humano. Ambos trabajan juntos.
 
 
 ## Términos relacionados

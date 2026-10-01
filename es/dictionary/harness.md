@@ -1,25 +1,34 @@
 # ¿Qué es Harness?
 
-Es un mecanismo de control que verifica si un software o sistema opera con los estándares esperados.
+Harness, el marco que automatiza las pruebas de código.
 
-## Definición
-En el mundo del software, el arnés es generalmente un marco que automatiza los procesos de prueba. Una vez que se escribe un fragmento de código, verifica constantemente si este código reacciona correctamente en diferentes escenarios. Es como una red de seguridad que realiza un "control de salud" del sistema.
+## Definición y origen de la palabra
+Harness significa arnés. Cada vez que se actualiza el código, se ejecutan pruebas y se emite una alerta en caso de fallo. Es la red de seguridad que realiza el control de salud del sistema.
 
-## Cómo funciona
-Los desarrolladores escriben escenarios de prueba para sus códigos y los colocan en un arnés. El sistema ejecuta automáticamente estas pruebas cada vez que se actualiza el código y avisa si hay errores.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Desarrollo: Prueba después de cada commit.CI: Puerta automática en la línea.Calidad: Escaneo previo a la versión.
 
-## Dónde se usa
-Se utiliza en procesos de desarrollo de software, líneas de integración continua (CI) y etapas de control de calidad.
+## Profundidad técnica y arquitectura
+Regiones:
 
-## Suele confundirse con
-No es sólo el software en sí, es el "entorno" o la "infraestructura" lo que prueba el software.
+## Cosas frecuentemente mezcladas
+Se confunde con el software mismo. Sin embargo, el harness no es el código, sino el entorno que supervisa el código. Uno es el jugador, el otro es el árbitro.
+
+## Uso en diferentes disciplinas
+Línea de fábrica: Inspección de frenos y faros de cada vehículo.Cinturón de seguridad: Mecanismo que sujeta en caso de colisión.Entrenamiento: Pista de medición de rendimiento.
 
 ## Preguntas frecuentes
-**¿Por qué es necesario un arnés de prueba?**
-Para reducir el error humano y asegurarse de que el código no se rompa con cada cambio.
+**¿Por qué es necesario?**
+Reduce el error humano y detecta el deterioro en cada cambio.
 
-**¿Se requiere un arnés para cada software?**
-Es una práctica habitual garantizar la fiabilidad en proyectos profesionales.
+**¿Es obligatorio en todo software?**
+Es un estándar en el trabajo profesional. En el código de prueba es una exageración.
+
+**¿Cuándo se escribe?**
+Junto con el código, preferiblemente antes. Las pruebas que se dejan para después quedan incompletas.
+
+**¿Cuál es el objetivo de cobertura?**
+Se determina en equipo. Se mantiene alto en la ruta crítica y bajo en los márgenes.
 
 
 ## Términos relacionados
@@ -30,6 +39,7 @@ Es una práctica habitual garantizar la fiabilidad en proyectos profesionales.
 ## Herramientas relacionadas
 - [Jcode](/es/discover/jcode/)
 - [Harness · Ajan Ekip Fabrikası](/es/discover/harness/)
+- [Harness SDK](/es/discover/harness-sdk/)
 - [Munder Difflin](/es/discover/munder-difflin/)
 - [Claude Code Harness](/es/discover/claude-code-harness/)
 

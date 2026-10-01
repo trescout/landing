@@ -30,12 +30,12 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 ## Ferramentas relacionadas
 - [Ponytail](/pt/discover/ponytail/)
 - [Caveman](/pt/discover/caveman/)
+- [Codegraph](/pt/discover/codegraph/)
 - [OmniRoute](/pt/discover/omniroute/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
 - [Open Code Review](/pt/discover/open-code-review/)
 - [Airllm](/pt/discover/airllm/)
 - [Book to Skill](/pt/discover/book-to-skill/)
-- [Code Review Graph](/pt/discover/code-review-graph/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/token/

@@ -1,25 +1,34 @@
 # Was ist Indie Hacking?
 
-Es ist die Kultur, digitale Produkte allein oder mit sehr kleinen Teams zu entwickeln und auf den Markt zu bringen, ohne die Unterstützung großer Unternehmen.
+Indie Hacking (auf Türkisch bağımsız girişimcilik) ist die Kultur, allein oder in einem kleinen Team Produkte zu entwickeln und Einnahmen zu erzielen.
 
-## Definition
-Indie-Hacking ist ein Arbeitsmodell, bei dem Sie Ihre eigene Software oder Ihr eigenes digitales Produkt von Grund auf erstellen und es unabhängig verwalten. Dabei schreiben Sie nicht nur Code, sondern kümmern sich auch um Marketing, Vertrieb und Kundensupport des Produkts. Das Hauptziel besteht darin, eine eigene Einnahmequelle zu schaffen, ohne an ein Unternehmen gebunden zu sein.
+## Definition und Wortherkunft
+Indie bedeutet unabhängig und Hacking steht für cleveres Problemlösen. Man baut sein eigenes Produkt von Grund auf auf und übernimmt auch gleich Marketing und Support. Das Hauptziel besteht darin, eine eigene Einnahmequelle zu schaffen, ohne von einem Unternehmen abhängig zu sein. Neben dem Code gehört die gesamte Arbeit Ihnen.
 
-## So funktioniert es
-Zuerst finden Sie ein kleines Problem, das Sie lösen möchten, und entwickeln dann ein einfaches Produkt. Sie bieten Benutzern dieses Produkt über das Internet an und verbessern es anhand von Feedback. Bei Erfolg wird dieses Produkt für Sie zu einer passiven oder aktiven Einnahmequelle.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Mikro-SaaS: Ein kleines Abo-Produkt, das sich auf ein einzelnes Problem konzentriert.Inhalt: Newsletter, E-Book, Kurs.Vorlage: Design- und Code-Pakete.Fahrzeug: Webanwendungen mit nur einer Funktion.
 
-## Wo es eingesetzt wird
-Sie begegnen ihm häufig in persönlichen Projekten, kleinen Unternehmergemeinschaften und unabhängigen Softwareentwicklungsprozessen.
+## Technische Tiefe und Architektur
+Arbeitsablauf:
 
-## Häufig verwechselt mit
-Man kann es vielleicht mit einem bloßen Hobbyprojekt verwechseln, aber beim Indie-Hacking geht es vor allem um die Kommerzialisierung des Produkts und die Generierung von Einnahmen.
+## Häufig gemischte Dinge
+Wird oft für ein Hobby-Projekt gehalten. Ein Hobby hat kein Umsatzziel, aber beim Indie Hacking ist die Kommerzialisierung Pflicht. Man verwechselt es auch mit Freelancing: Freelancer verkaufen Stunden, Indie Hacker verkaufen Produkte.
 
-## Häufige Fragen
-**Ist es notwendig, sehr guten Code zu kennen, um ein Indie-Hacker zu sein?**
-Nein, grundlegende Codekenntnisse sind ausreichend. Viele Indie-Hacker nutzen auch handelsübliche Tools und Low-Code-Plattformen zum Erfolg.
+## Einsatz in verschiedenen Disziplinen
+Foodtruck: Kleine Küche, eigenes Menü, eigene Kunden.Straßenmusiker: Repertoire und Trinkgeldökonomie.Boutique-Bäckerei: Wenige Sorten, treue Kunden.
+
+## Häufig gestellte Fragen
+**Ist es zwingend erforderlich, sehr gut programmieren zu können?**
+Nein. Grundkenntnisse reichen aus, fertige Tools schließen die Lücke. Die eigentliche Arbeit besteht darin, das richtige Problem zu finden.
 
 **Was ist das Wichtigste in diesem Prozess?**
-Anstatt Code zu schreiben, geht es darum, ein Problem zu finden, das die Leute wirklich brauchen, und dieses Problem zu lösen.
+Es geht darum, zahlende Nutzer zu finden. Vor dem Code kommen das Problem und der Vertriebskanal.
+
+**Wie viel Kapital wird benötigt?**
+Die Meisten starten als Bootstrap: Ein kleines Budget für Domain, Hosting und Tools reicht aus.
+
+**Wie hoch ist die Ausfallrate?**
+Sie ist hoch, die meisten Versuche schlagen fehl. Klein anzufangen und schnell aufzugeben ist Teil der Methode.
 
 
 ## Verwandte Begriffe

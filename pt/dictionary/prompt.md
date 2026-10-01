@@ -1,22 +1,34 @@
 # O que é Prompt?
 
-É uma instrução escrita usada para pedir à IA que execute uma tarefa específica ou responda a uma pergunta.
+Prompt (equivalente a instrução em turco) é a instrução escrita dada ao modelo.
 
-## Definição
-O prompt é a base da sua comunicação com a inteligência artificial. Quando você diz “Conte-me sobre isso” para um modelo de inteligência artificial, esta frase se torna um aviso. A qualidade da solicitação afeta diretamente a precisão e adequação da resposta dada pela inteligência artificial.
+## Definição e origem da palavra
+"Prompt" significa comando. É a base da comunicação: uma instrução clara traz uma resposta clara. É escrito com a tríade de papel, contexto e formato.
 
-## Como funciona
-Você pode fazer uma pergunta direta, contextualizar ou adicionar restrições como 'resposta neste formato'. Um bom aviso esclarece o que a IA deve ou não fazer.
+## Como conhecer e usar no dia a dia?
+Chat: Fazer perguntas e atribuir tarefas.Visual: Descrição de cena.Código: Descrição de cargo.
 
-## Onde é usado
-É usado em todas as interfaces produtivas de inteligência artificial, como ChatGPT, Claude, Midjourney.
+## Profundidade Técnica e Arquitetura
+Padrão:
 
-## Costuma ser confundido com
-Pode ser confundido com Prompt Engineering; Embora o prompt seja uma instrução única, a engenharia do prompt é a arte de otimizar essas instruções.
+## Coisas frequentemente misturadas
+Pensa-se que é engenharia. O prompt é uma única instrução, a engenharia é a arte da otimização. Um é uma frase, o outro é um ofício.
 
-## Perguntas frequentes
-**O que é uma solicitação ruim?**
-São instruções muito curtas, vagas ou sem contexto. Por exemplo, apenas dizer ‘escrever’ fará com que a IA não saiba o que escrever.
+## Use em diferentes disciplinas
+Lista: Ordem de serviço.Pedido: Comanda de cozinha.Receita: Instrução medida.
+
+## Perguntas Frequentes
+**O que é um prompt ruim?**
+É aquele que é curto, ambíguo e sem contexto. Um pedido sem critérios estabelecidos acaba sem rumo.
+
+**Deve ser longo ou curto?**
+O que for suficiente. O contexto e os limites necessários são definidos, sem enrolação.
+
+**Pode ser em turco?**
+Sim. O modelo entende turco, e a consistência dos termos é respeitada.
+
+**Fica salvo?**
+Depende do serviço. Consulte a política antes de inserir dados sensíveis.
 
 
 ## Termos relacionados
@@ -25,9 +37,11 @@ São instruções muito curtas, vagas ou sem contexto. Por exemplo, apenas dizer
 - [AI Agent](/pt/dictionary/ai-agent/)
 
 ## Ferramentas relacionadas
+- [OmniRoute](/pt/discover/omniroute/)
 - [AI Engineering from Scratch](/pt/discover/ai-engineering-from-scratch/)
 - [Awesome Gpt Image 2](/pt/discover/awesome-gpt-image-2/)
 - [Flue](/pt/discover/flue/)
+- [Codex-X](/pt/discover/codex-x/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/prompt/

@@ -2,26 +2,35 @@
 
 > Web User Interface
 
-Uma interface visual que permite usar um software por meio de um navegador da Internet em vez de instalá-lo no computador.
+A Web UI (Web User Interface, interface de usuário web) é a superfície de controle da aplicação que aparece no navegador.
 
-## Definição
-A UI da Web permite que você veja os botões, menus e gráficos de um aplicativo dentro do seu navegador. Você pode acessar o aplicativo sem qualquer instalação especial, assim como entrar em um site. Isso garante que as atualizações do software sejam gerenciadas no lado do servidor, e não por você.
+## Definição e origem da palavra
+Botões, menus e gráficos são desenhados no navegador. Nenhuma instalação é necessária, basta acessar o endereço. As atualizações são feitas no servidor e o lado do usuário é atualizado.
 
-## Como funciona
-Você abre seu navegador, vai até o endereço relevante e começa a usar o painel visual que aparece. Os códigos rodando em segundo plano ficam no servidor, você apenas manipula os elementos interativos na tela.
+## Como conhecer e usar no dia a dia?
+E-mail: Caixa de correio no navegador.Chat: Tela do bot de inteligência artificial.Edição: Ferramentas de design online.
 
-## Onde é usado
-É usado em quase todos os serviços de e-mail, chatbots de IA e ferramentas de edição online.
+## Profundidade Técnica e Arquitetura
+Camadas:
 
-## Costuma ser confundido com
-Pode ser confundido com o site; No entanto, a UI da Web refere-se ao painel de controle de um aplicativo e não ao conteúdo de um site.
+## Coisas frequentemente misturadas
+Pensa-se que é um site. O site oferece conteúdo, a Web UI gerencia a aplicação. Um é um folheto, o outro é um painel de controle.
 
-## Perguntas frequentes
-**A Internet é necessária para usar a UI da Web?**
-Sim, porque as funções da interface geralmente estão conectadas a um servidor remoto.
+## Use em diferentes disciplinas
+Menu do restaurante: Interface de seleção e pedido.Cabine de pilotagem: Layout de indicadores e botões.Controle: Painel de controle do dispositivo.
+
+## Perguntas Frequentes
+**A internet é necessária?**
+Geralmente sim. As funções dependem de um servidor remoto, o modo offline é limitado.
 
 **Funciona em qualquer navegador?**
-É compatível com a maioria dos navegadores modernos, mas pode variar de acordo com a preferência do desenvolvedor.
+Em navegadores modernos, sim. Em versões antigas, a aparência pode ser comprometida.
+
+**Funciona offline?**
+Parcialmente. Partes armazenadas em cache abrem, mas a conexão é necessária para transações em tempo real.
+
+**Qual é a diferença da API?**
+A API fornece dados para a máquina, a Web UI fornece uma interface para o ser humano. Ambas trabalham juntas.
 
 
 ## Termos relacionados

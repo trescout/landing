@@ -1,19 +1,31 @@
 # O que é Binary?
 
-É a linguagem de máquina mais básica que o computador entende usando apenas 0 e 1.
+Binary (com o equivalente em turco ikili), é a linguagem de máquina que funciona com 0 e 1.
 
-## Definição
-Os computadores possuem corrente elétrica dentro deles ou não. Representamos esses estados “presente” e “ausente” como 1 e 0. Todos os programas complexos que você escreve são finalmente convertidos neste sistema binário e executados pelo computador.
+## Definição e origem da palavra
+No circuito, há corrente ou não há corrente, correspondendo a 1 e 0. Todos os programas são traduzidos para essa linguagem em seu nível mais profundo. As pessoas não escrevem em binário; as linguagens o traduzem por meio de um compilador.
 
-## Como funciona
-As pessoas não escrevem binários diretamente; As linguagens de programação convertem os textos que escrevemos em formato binário por meio de compiladores.
+## Como conhecer e usar no dia a dia?
+Processador: Execução de comandos.Memória: Valores das células.Arquivo: A camada mais profunda.
 
-## Onde é usado
-Ele reside nas camadas mais profundas de processadores, gerenciamento de memória e formatos de arquivo.
+## Profundidade Técnica e Arquitetura
+Unidades:
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Lâmpada: Ligada e desligada.Morse: Ponto e traço.Interruptor: Para frente e para trás.
+
+## Perguntas Frequentes
 **Por que apenas 0 e 1?**
-Porque distinguir dois estados (tensão presente/ausente) em circuitos eletrônicos é muito mais estável e rápido do que distinguir mais estados.
+Distinguir dois estados é estável e rápido. Mais do que isso gera erros e custos.
+
+**O que é um byte?**
+É um grupo de 8 bits. É a unidade de caracteres e números pequenos.
+
+**As pessoas leem isso?**
+Raramente. Na depuração, usa-se a visualização hexadecimal, não se desce para o binário.
+
+**Não pode ser um sistema ternário?**
+Foi tentado, não pegou. A simplicidade binária venceu.
 
 
 ## Termos relacionados
@@ -22,8 +34,11 @@ Porque distinguir dois estados (tensão presente/ausente) em circuitos eletrôni
 - [System Programming Language](/pt/dictionary/system-programming-language/)
 
 ## Ferramentas relacionadas
+- [Ghidra](/pt/discover/ghidra/)
 - [Protobuf](/pt/discover/protobuf/)
+- [Trivy](/pt/discover/trivy/)
 - [OfficeCLI](/pt/discover/officecli/)
+- [Ipatool](/pt/discover/ipatool/)
 - [Hister](/pt/discover/hister/)
 
 ---

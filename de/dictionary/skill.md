@@ -1,25 +1,34 @@
 # Was ist Skill?
 
-Dabei handelt es sich um eine Reihe spezialisierter Fähigkeiten, die Assistenten mit künstlicher Intelligenz nutzen, um eine bestimmte Arbeit oder Aufgabe auszuführen.
+Ein Skill (auf Türkisch „yetenek“) ist eine definierte Einheit, die es einem KI-Assistenten ermöglicht, Aufgaben mithilfe eines externen Tools auszuführen.
 
-## Definition
-In der Welt der künstlichen Intelligenz reicht es nicht aus, dass ein Assistent nur allgemein spricht; Manchmal muss er eine Datei lesen oder im Internet suchen. Wir nennen jede dieser speziellen Funktionen Fähigkeiten. Diese Fähigkeiten ermöglichen es dem Assistenten, mit der Außenwelt zu interagieren, indem sie über die Standardsprachfähigkeiten hinausgehen.
+## Definition und Wortherkunft
+Die allgemeine Unterhaltung des Assistenten reicht nicht aus; manchmal muss er Dateien lesen oder Suchen durchführen. Jede dieser speziellen Funktionen wird als Skill definiert. Das Konzept wurde von der Ära der Sprachassistenten in die Ära der Agenten übertragen: von Alexa-Skills zu heutigen Agentenfähigkeiten.
 
-## So funktioniert es
-Wenn Sie eine Fähigkeit für ein KI-System definieren, geben Sie ihm Regeln und Werkzeuge, die beschreiben, wie eine Aufgabe ausgeführt wird. Der Assistent analysiert einen empfangenen Befehl und wählt automatisch die entsprechende Fertigkeit für diesen Job aus und führt sie aus.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Datei: Dokumente lesen und zusammenfassen.Kalender: Besprechungen vereinbaren.Suche: Aktuelle Informationen abrufen.
 
-## Wo es eingesetzt wird
-Es wird häufig in KI-Assistentenplattformen, Automatisierungstools und Multiagentensystemen verwendet, die komplexe Aufgaben verwalten.
+## Technische Tiefe und Architektur
+Eine Fähigkeit wird aus drei Teilen geschrieben:
 
-## Häufig verwechselt mit
-Es kann mit allgemeinen Fähigkeiten der künstlichen Intelligenz verwechselt werden, gemeint ist hier jedoch die Fähigkeit des Assistenten, ein externes Tool zu nutzen.
+## Häufig gemischte Dinge
+Es wird oft für eine allgemeine Modellfähigkeit gehalten. Gemeint ist hier jedoch die Fähigkeit des Assistenten, externe Werkzeuge zu nutzen. Das Modell versteht die Sprache, die Skill erledigt die Arbeit.
 
-## Häufige Fragen
-**Verfügt jedes Modell der künstlichen Intelligenz über Fähigkeiten?**
-Basismodelle erzeugen lediglich Text, Assistenten erhalten jedoch Funktionen, indem sie diesen Modellen externe Tools hinzufügen.
+## Einsatz in verschiedenen Disziplinen
+Küche: Das Messer in den Händen des Kochs und die Saucentechniken.Bohrmaschine: Je nach Aufsatz unterschiedliche Funktion.Telefon: Jede installierte Anwendung.
+
+## Häufig gestellte Fragen
+**Verfügt jedes Modell über eine Fähigkeit?**
+Nein. Basismodelle generieren Text, Fähigkeiten werden erst erworben, wenn dem Assistenten ein externes Werkzeug hinzugefügt wird.
 
 **Wie entwickelt man Fähigkeiten?**
-Normalerweise werden API-Verbindungen oder spezielle Codeblöcke geschrieben, um dem Assistenten die Ausführung einer bestimmten Aufgabe zu ermöglichen.
+Sie werden über eine API-Verbindung oder einen Codeblock definiert. Die Beschreibung wird klar verfasst, und das Modell wählt das richtige aus.
+
+**Ist es sicher?**
+Lesefähigkeiten bergen ein geringes Risiko. Bei Aktionen wie Schreiben und Bezahlen sind eine Bestätigung und eine Umfangsbegrenzung zwingend erforderlich.
+
+**Wer schreibt Fähigkeiten?**
+Entwickler schreiben sie, Plattformen vertreiben sie im Store. Eine gute Beschreibung zu verfassen ist die halbe Miete.
 
 
 ## Verwandte Begriffe
@@ -31,13 +40,13 @@ Normalerweise werden API-Verbindungen oder spezielle Codeblöcke geschrieben, um
 
 ## Verwandte Werkzeuge
 - [Anthropic Skills](/de/discover/anthropic-skills/)
-- [Browser Use](/de/discover/browser-use/)
 - [Taste Skill](/de/discover/taste-skill/)
 - [Awesome Claude Skills](/de/discover/awesome-claude-skills/)
 - [Archify](/de/discover/archify/)
 - [Last30days Skill](/de/discover/last30days-skill/)
 - [I Have Adhd](/de/discover/i-have-adhd/)
 - [Reverse Skill](/de/discover/reverse-skill/)
+- [Book to Skill](/de/discover/book-to-skill/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/skill/

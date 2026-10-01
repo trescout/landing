@@ -2,26 +2,35 @@
 
 > E2EE
 
-É um método de segurança em que as mensagens só podem ser lidas pelo remetente e pelo destinatário, e ninguém entre eles pode ver o conteúdo.
+A criptografia de ponta a ponta é um sistema de segurança que só pode ser lido pelas extremidades.
 
-## Definição
-A criptografia ponta a ponta é o processo de bloqueio de dados assim que eles saem do dispositivo e só podem ser abertos com a chave da pessoa alvo. Graças a este método, os prestadores de serviços ou terceiros que transportam os dados nunca poderão ver o seu conteúdo. É um dos escudos mais básicos que protegem a sua privacidade no mundo digital.
+## Definição e origem da palavra
+Os dados são bloqueados no dispositivo e desbloqueados no destino. O transportador e o servidor não conseguem ver o conteúdo. É o escudo fundamental da privacidade. WhatsApp e Signal são exemplos conhecidos.
 
-## Como funciona
-Quando você escreve uma mensagem, seu dispositivo a converte em um código complexo. Este código permanece criptografado enquanto passa pela Internet. Quando chega ao dispositivo do destinatário, ele é convertido novamente em texto legível com uma chave especial que somente o destinatário possui.
+## Como conhecer e usar no dia a dia?
+Mensagem: Conversas privadas.Arquivo: Transferência segura.Backup: Cópia criptografada.
 
-## Onde é usado
-Ele é usado em aplicativos de mensagens como WhatsApp ou Signal, transferências seguras de arquivos e serviços de armazenamento em nuvem com foco na privacidade.
+## Profundidade Técnica e Arquitetura
+Layout:
 
-## Costuma ser confundido com
-Difere apenas da criptografia entre você e o servidor; Aqui nem o servidor consegue ver o conteúdo.
+## Coisas frequentemente misturadas
+Pensa-se que é TLS. O TLS protege no caminho, o servidor vê. Na criptografia de ponta a ponta, nem o servidor consegue ver. Um é uma armadura de correio, o outro é um envelope selado.
 
-## Perguntas frequentes
-**Minhas mensagens podem ser lidas se forem roubadas?**
-Não, como apenas você e o destinatário possuem a chave, para outros essas mensagens são apenas pilhas de caracteres sem sentido.
+## Use em diferentes disciplinas
+Caixa trancada: O transportador não consegue ver o conteúdo.Selo: Envelope que revela se foi aberto.Circuito fechado: Linha fechada para o exterior.
+
+## Perguntas Frequentes
+**Se for roubado, pode ser lido?**
+Não. A chave está nas pontas, o que foi roubado é um amontoado sem sentido.
 
 **Está disponível em todos os aplicativos?**
-Não, nem todo aplicativo oferece esse recurso; Você precisa verificar nas configurações antes de usá-lo.
+Não. É verificado nas configurações, não se fazem suposições.
+
+**Como funciona o backup?**
+É necessário um backup criptografado e um código de recuperação. Não há restauração sem o código.
+
+**É adequado para empresas?**
+É equilibrado com a necessidade de registro e auditoria. A política é definida.
 
 
 ## Termos relacionados

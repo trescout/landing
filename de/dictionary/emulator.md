@@ -1,47 +1,44 @@
-# Was ist ein Emulator?
+# Was ist Emulator?
 
-> Englisch: Emulator · Wortherkunft: lateinisch aemulari (nachahmen, wetteifern)
+Ein Emulator ist eine Systemschicht, die die physische Hardwarearchitektur eines Computers, Mobilgeräts oder einer Spielekonsole softwarebasiert nachbildet, sodass Sie Software von fremden Plattformen auf Ihrem eigenen Gerät ausführen können.
 
-**Kategorie:** Dev  
-**Letzte Aktualisierung:** 2026-09-19
+## Konzeptioneller Rahmen, Etymologie und der Unterschied zum Simulator
+Der Begriff Emulator stammt vom lateinischen Verb „aemulari“ (nachahmen, wetteifern, versuchen gleichzukommen) ab. Im Türkischen wird er technisch als „Öykünücü“ oder „Donanım taklitçisi“ bezeichnet.
 
-Ein Emulator ist eine Software, welche die Hardware-Architektur, Registerstrukturen und den Befehlssatz eines fremden Computersystems nachbildet, sodass darauf ausgelegte Gastprogramme unverändert auf moderner Host-Hardware laufen.
+## Computerarchitektur und der Kernzyklus: Fetch-Decode-Execute
+Im Herzen eines Emulators befindet sich eine softwaremodellierte virtuelle CPU. Dieser virtuelle Prozessor führt in jedem Taktzyklus drei Schritte aus:
 
-## Konzeptioneller Rahmen, Wortherkunft und Simulator-Abgrenzung
-Das Wort leitet sich vom lateinischen aemulari ab, was nachahmen bedeutet. Während ein Simulator lediglich das äußere Verhalten eines Systems abbildet (wie ein Flugsimulator die Flugphysik nachahmt, ohne den Bordcomputer nachzubilden), rekonstruiert der Emulator die inneren elektronischen Schaltkreise: CPU-Register, Speicherverwaltung und Grafik-Chipsätze.
+## Entwickler-, Sicherheits- und Unternehmensanwendungsbereiche
+Emulatoren bringen nicht nur Retro-Konsolenspiele auf moderne Bildschirme; sie sind auch entscheidende Werkzeuge der modernen Softwaretechnik:
 
-## Rechnerarchitektur und der Befehlszyklus: Fetch-Decode-Execute
-Im Zentrum jedes Emulators arbeitet eine virtuelle CPU mit Befehlsübersetzung:
-- **Interpreter-Emulation:** Jeder Befehl des Gastsystems wird einzeln eingelesen, dekodiert und ausgeführt. Sehr präzise, jedoch rechenintensiv.- **Dynamische Übersetzung (JIT-Recompiler):** Ganze Befehlsblöcke einer fremden Architektur (z. B. ARM oder MIPS) werden zur Laufzeit in nativen Host-Code (x86-64) übersetzt und im Cache gehalten.- **Zyklengenaue Emulation (Cycle-Accurate):** Taktgenaue Synchronisation aller Chips, um zeitkritische Hardware-Effekte historischer Konsolen originalgetreu zu erhalten.
-
-## Einsatzgebiete in Entwicklung, IT-Sicherheit und Unternehmen
-Wichtige Einsatzbereiche von Emulatoren:
-- **App-Entwicklung:** Testen von Android- und iOS-Apps auf Desktop-Rechnern ohne physische Smartphones.- **Schadsoftware-Analyse:** Gefahrlose Ausführung verdächtiger Dateien in abgeschirmten virtuellen QEMU-Umgebungen.- **Altsystem-Erhalt:** Weiterbetrieb historischer Kernbankensysteme auf moderner Cloud-Hardware.
-
-## Rechtliche Aspekte und Urheberrecht
-Historische Gerichtsentscheidungen (wie Sony vs. Connectix) haben bestätigt, dass die Entwicklung von Emulatoren durch sauberes Reverse Engineering legal ist. Urheberrechtsverletzungen entstehen erst durch die unbefugte Weitergabe geschützter BIOS-Dateien oder urheberrechtlich geschützter Spiele-ROMs.
-
-## Als Analogie
-Das Lesen eines Buchs in einer Fremdsprache: Ein Simulator ist eine grobe Zusammenfassung der Handlung; ein Interpreter-Emulator schlägt jedes Wort mühsam im Wörterbuch nach; ein JIT-Recompiler übersetzt ganze Kapitel vorab in Ihre Muttersprache, sodass Sie flüssig lesen können.
+## Rechtlicher Aspekt und Urheberrechte
+Die Legalität der Emulatorenentwicklung wurde weltweit durch Präzedenzfälle anerkannt:
 
 ## Häufige Fragen
+**Was bedeutet Emulator und wie lautet die türkische Entsprechung?**
+Der vom englischen Wort „Emulator“ abgeleitete Begriff bedeutet im Türkischen Emulator oder Hardware-Nachahmer. Es handelt sich um ein System, das die Hardware-Komponenten eines Geräts durch Software nachahmt, um Software fremder Plattformen auszuführen.
 
-**Worin unterscheidet sich ein Emulator von einer virtuellen Maschine?**  
-Eine virtuelle Maschine führt Code direkt auf derselben CPU-Architektur aus; ein Emulator übersetzt Befehle einer völlig fremden Prozessorarchitektur vollständig per Software.
+**Was ist der Hauptunterschied zwischen einem Emulator und einem Simulator?**
+Während ein Simulator lediglich das Verhalten und die Logik des Systems nachahmt, kopiert ein Emulator den Prozessor, den Speicherbus und den Maschinencode der Zielhardware auf Befehlsebene eins zu eins in Software.
 
-**Ist die Programmierung von Emulatoren legal?**  
-Ja; das Nachbauen von Hardwarefunktionen mittels Clean-Room-Verfahren ist rechtlich zulässig, solange kein herstellereigener BIOS-Code mitgeliefert wird.
+**Wie funktioniert ein JIT-Compiler (Just-In-Time) bei der Emulation?**
+Er übersetzt die Maschinencodeblöcke des fremden Prozessors zur Laufzeit in den lokalen Maschinencode des eigenen Computers und speichert sie im Cache. Dadurch wird der Code bei der zweiten Ausführung mit nativer Geschwindigkeit ausgeführt.
 
-**Warum erfordert die Emulation alter Konsolen oft schnelle PCs?**  
-Weil zyklengenaue Emulatoren Millionen Rechenschritte des Host-PCs benötigen, um einen einzigen Taktzyklus historischer Spezialbausteine exakt abzubilden.
+**Ist die Entwicklung und Nutzung von Emulatoren legal?**
+Ja, Emulatoren, die nach dem Prinzip des Clean-Room-Reverse-Engineering geschrieben wurden, sind völlig legal. Das unbefugte Verteilen urheberrechtlich geschützter BIOS-Dateien des Geräts oder urheberrechtlich geschützter ROM-Kopien von Spielen stellt jedoch eine Urheberrechtsverletzung dar.
 
-**Was ist QEMU?**  
-Ein weltweit etablierter Open-Source-Maschinenemulator, der vollständige PC- und Serverarchitekturen für ARM, x86 und RISC-V nachbildet.
 
 ## Verwandte Begriffe
 - [ROM](/de/dictionary/rom/)
+- [Sandbox](/de/dictionary/sandbox/)
 - [Virtual Machines](/de/dictionary/virtual-machines/)
+- [Assembly](/de/dictionary/assembly/)
+- [Runtime](/de/dictionary/runtime/)
 - [Apple Silicon](/de/dictionary/apple-silicon/)
 
+## Verwandte Werkzeuge
+- [Cool Retro Term](/de/discover/cool-retro-term/)
+- [Sharpemu](/de/discover/sharpemu/)
+
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/emulator/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/emulator/

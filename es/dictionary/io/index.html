@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es I/O? · Glosario · TreScout</title>
-<meta name="description" content="El proceso por el cual un sistema informático recibe y envía datos del mundo exterior.">
+<meta name="description" content="I/O (Input/Output, entrada/salida) es el intercambio de datos de un sistema con el mundo exterior.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/io/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/io/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/io/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/io.md">
 <meta property="og:title" content="¿Qué es I/O?">
-<meta property="og:description" content="El proceso por el cual un sistema informático recibe y envía datos del mundo exterior.">
+<meta property="og:description" content="I/O (Input/Output, entrada/salida) es el intercambio de datos de un sistema con el mundo exterior.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/io/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es I/O?">
-<meta name="twitter:description" content="El proceso por el cual un sistema informático recibe y envía datos del mundo exterior.">
+<meta name="twitter:description" content="I/O (Input/Output, entrada/salida) es el intercambio de datos de un sistema con el mundo exterior.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "I/O",
-  "description": "El proceso por el cual un sistema informático recibe y envía datos del mundo exterior.",
+  "description": "I/O (Input/Output, entrada/salida) es el intercambio de datos de un sistema con el mundo exterior.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/io/",
   "inDefinedTermSet": {
@@ -55,15 +55,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-07-12">Última actualización: 12 de julio de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
 <h1 class="disc-title">¿Qué es <span class="disc-accent">I/O</span>?</h1>
 <p class="dict-en">Input/Output</p>
-<p class="disc-lead">El proceso por el cual un sistema informático recibe y envía datos del mundo exterior.</p>
-<section class="disc-sec"><h2>Definición</h2><p>La E/S es un proceso de E/S cuando una computadora recibe texto del teclado, descarga datos de Internet o imprime algo en la pantalla. El sistema establece todo tipo de comunicación con el exterior a través de este canal. Es como los &quot;sentidos y las manos&quot; de la computadora.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Es como una persona que recibe información del mundo exterior (ojos, oídos) y reacciona ante el mundo exterior (habla, se mueve).</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Los datos ingresan al sistema desde los dispositivos de entrada (teclado, sensor), son procesados ​​por el procesador y enviados a los dispositivos de salida (pantalla, parlantes).</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Es un concepto fundamental en todos los programas informáticos y las interacciones de hardware.</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué la E/S es un cuello de botella?</p><p class="dict-faq-a">Incluso si el procesador funciona muy rápido, si la velocidad de entrada o salida de datos (por ejemplo, la velocidad del disco) es lenta, el sistema tiene que esperar.</p></div></div></section>
+<p class="disc-lead">I/O (Input/Output, entrada/salida) es el intercambio de datos de un sistema con el mundo exterior.</p>
+<section class="disc-sec"><h2>Definición y origen de la palabra</h2><p>La entrada de teclado, un archivo descargado, el resultado impreso en pantalla: todo es una operación de E/S. El sistema se comunica con el mundo exterior a través de este canal. Es como los sentidos y las manos de la computadora.</p></section>
+<div class="dict-analogy"><strong>Analogía:</strong> Es como que una persona reciba información del mundo exterior y responda a él; los ojos son la entrada y el habla es la salida.</div>
+<section class="disc-sec"><h2>¿Cómo saberlo y utilizarlo en la vida diaria?</h2><p><strong>Teclado:</strong> Entrada de texto.<br><strong>Red:</strong> Descarga de archivos.<br><strong>Pantalla:</strong> Mostrar resultados.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Conceptos:</p><p><strong>Bloqueante (Blocking):</strong> Esperar hasta que finalice la operación.<br><strong>No bloqueante (Non-blocking):</strong> Continuar sin esperar, avísame cuando llegue el resultado.<br><strong>Búfer:</strong> Almacenamiento intermedio que equilibra la diferencia de velocidad.<br><strong>Cuello de botella:</strong> El eslabón más lento ralentiza toda la línea, por lo general es el disco o la red.</p><p>Ejemplo de lectura de archivos:</p><pre><code>const veri = await fs.readFile("not.txt", "utf8");</code></pre><p>Esta línea no espera a que llegue el archivo, las demás tareas continúan. Se continúa cuando el resultado está listo.</p></section>
+<section class="disc-sec"><h2>Uso en diferentes disciplinas</h2><p><strong>Humano:</strong> Entrada por ojos y oídos, salida por voz.<br><strong>Restaurante:</strong> Entrada de pedidos, salida de servicio.<br><strong>Fábrica:</strong> Entrada de materia prima, salida de producto.</p></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué la E/S es un cuello de botella?</p><p class="dict-faq-a">El procesador es rápido, el disco y la red son lentos. Cuando los datos no llegan a tiempo, el sistema espera, aquí es donde se forma el cuello de botella.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué es el bloqueo (blocking)?</p><p class="dict-faq-a">Es una llamada que espera hasta que llega el resultado. Bloquea la interfaz y desperdicia trabajo en el servidor.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo se acelera?</p><p class="dict-faq-a">Con caché, lectura por lotes y llamadas asíncronas. Primero se mide, luego se corrige el eslabón más débil.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué tiene que ver el asíncrono?</p><p class="dict-faq-a">Es el mecanismo para hacer otros trabajos durante la espera. Se manejan muchas tareas con un solo hilo.</p></div></div></section>
 <section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/api/">API</a><a href="/es/dictionary/data-pipeline/">Data Pipeline</a><a href="/es/dictionary/streaming-applications/">Streaming Applications</a></div></section>
 <section class="disc-sec"><h2>Herramientas relacionadas</h2><div class="dict-related"><a href="/es/discover/asio/">Asio</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="io" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>

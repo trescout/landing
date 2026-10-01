@@ -31,6 +31,7 @@ Oui, MCP dispose d'une structure qui maintient les autorisations d'accès aux do
 - [API](/fr/dictionary/api/)
 
 ## Outils liés
+- [Servers](/fr/discover/servers/)
 - [Goose](/fr/discover/goose/)
 - [Chrome Devtools MCP](/fr/discover/chrome-devtools-mcp/)
 - [Openclaude](/fr/discover/openclaude/)
@@ -38,7 +39,6 @@ Oui, MCP dispose d'une structure qui maintient les autorisations d'accès aux do
 - [Context Mode](/fr/discover/context-mode/)
 - [Unity MCP](/fr/discover/unity-mcp/)
 - [DesktopCommanderMCP](/fr/discover/desktopcommandermcp/)
-- [Mobile MCP](/fr/discover/mobile-mcp/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/model-context-protocol/

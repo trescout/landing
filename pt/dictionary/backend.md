@@ -27,6 +27,7 @@ Porque é necessário garantir a segurança dos dados e realizar cálculos compl
 ## Ferramentas relacionadas
 - [Supabase](/pt/discover/supabase/)
 - [iii](/pt/discover/iii/)
+- [Firebase Ios SDK](/pt/discover/firebase-ios-sdk/)
 - [RLM](/pt/discover/rlm/)
 
 ---

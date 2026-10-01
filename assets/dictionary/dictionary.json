@@ -8721,5 +8721,31 @@
     "kisa_pt": "Dispositivos que medem o consumo de eletricidade ou água instantaneamente e enviam os dados para a central por meios digitais.",
     "kisa_es": "Dispositivos que miden el consumo de electricidad o agua en tiempo real y envían los datos al centro de forma digital.",
     "kisa_de": "Geräte, die den Strom- oder Wasserverbrauch in Echtzeit messen und die Daten digital an eine Zentrale übermitteln."
+  },
+  {
+    "slug": "apache-bench-ab",
+    "en": "ab (ApacheBench)",
+    "full": "ApacheBench",
+    "cat": "dev",
+    "kisa": "Bir web sunucusunun aynı anda kaç kişiyi kaldırabileceğini ölçmeye yarayan basit bir performans test aracı.",
+    "date": "2026-10-01",
+    "kisa_en": "A simple performance testing tool used to measure how many concurrent users a web server can handle.",
+    "kisa_fr": "Outil de test de performance simple utilisé pour mesurer combien d'utilisateurs un serveur web peut gérer simultanément.",
+    "kisa_pt": "Uma ferramenta simples de teste de desempenho usada para medir quantas pessoas um servidor web pode suportar ao mesmo tempo.",
+    "kisa_es": "Una herramienta sencilla de prueba de rendimiento que sirve para medir cuántas personas puede soportar un servidor web al mismo tiempo.",
+    "kisa_de": "Ein einfaches Leistungstest-Tool, mit dem gemessen werden kann, wie viele Personen ein Webserver gleichzeitig bewältigen kann."
+  },
+  {
+    "slug": "stable-marriage-algorithm",
+    "en": "Stable Marriage Algorithm",
+    "full": "",
+    "cat": "data",
+    "kisa": "İki farklı gruptaki öğeleri, birbirleri için en uygun eşleşmeyi sağlayacak şekilde bir araya getiren matematiksel yöntem.",
+    "date": "2026-10-01",
+    "kisa_en": "A mathematical method that brings together elements from two different groups to achieve the most optimal match for each other.",
+    "kisa_fr": "Méthode mathématique qui rassemble des éléments de deux groupes différents de manière à garantir l'appariement le plus optimal entre eux.",
+    "kisa_pt": "Método matemático que reúne elementos de dois grupos diferentes de modo a proporcionar a correspondência mais adequada entre si.",
+    "kisa_es": "Método matemático que reúne elementos de dos grupos diferentes para lograr el emparejamiento óptimo entre ellos.",
+    "kisa_de": "Ein mathematisches Verfahren, das Elemente aus zwei verschiedenen Gruppen so zusammenbringt, dass die am besten geeignete Zuordnung füreinander gewährleistet wird."
   }
 ]

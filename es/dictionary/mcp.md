@@ -40,13 +40,13 @@ Su diseño se basa en permisos, pero es necesario mantener el alcance de acceso 
 
 ## Herramientas relacionadas
 - [Langflow](/es/discover/langflow/)
+- [Servers](/es/discover/servers/)
 - [OpenCut](/es/discover/opencut/)
 - [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
 - [Goose](/es/discover/goose/)
 - [Chrome Devtools MCP](/es/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
 - [Claude Howto](/es/discover/claude-howto/)
-- [Openclaude](/es/discover/openclaude/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/mcp/

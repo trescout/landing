@@ -1,36 +1,40 @@
 # What is Phased Array Radar?
 
-It is an advanced radar system that tracks targets by changing their direction with electronic signals, without using moving parts.
+A phased array radar is a stationary radar system that steers its beam electronically.
 
-## Overview
-While traditional radars scan by physically rotating the antenna, this technology uses a fixed antenna array. It deflects radar beams in different directions by changing the timing of electronic signals. In this way, it provides much faster and more precise tracking.
+## Definition and Word Origin
+A classic radar antenna scans by rotating, while this system is stationary: the timing (phase) of the signal going to each transmitter in the array is adjusted, and the waves combine in the desired direction. The beam changes direction within seconds, and there are no mechanical parts.
 
-*Analogy: It's like looking without moving your eyes, just changing your focus point within seconds, instead of constantly turning your head left and right when looking for someone in a crowd.*
+## How to Know and Use in Daily Life?
+Defense: Airspace surveillance.Air traffic: Approach control.Autonomous vehicle: Perimeter sensors.Meteorology: Precipitation tracking.
 
-## How it works
-The phase (timing) of the signal to each transmitter in the antenna array is precisely adjusted. These phase differences allow radio waves to converge in a particular direction.
+## Technical Depth and Architecture
+Parts:
 
-## Where it is used
-It is used in military defense systems, air traffic control, and sensors for modern autonomous vehicles.
+## Frequently Mixed Things
+It is thought to be a classical radar with a rotating antenna. In the classical one, the reflector rotates; here, the signal rotates. There are no moving parts, the scanning is electronic.
 
-## Commonly confused with
-It can be confused with conventional radars with rotating antennas; The biggest difference is that it contains no moving parts.
+## Use in Different Disciplines
+Eye: Changing focus without turning the head.Speaker: Array that directs sound.Flashlight: Steer the beam without turning it physically.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why is it more advantageous?**
-It responds much faster and the risk of mechanical failure is low.
+It reacts quickly, tracks multiple targets, and has a low risk of mechanical failure.
 
 **Is it just military?**
-No, it is also common in weather forecasting and autonomous vehicle technologies.
+No. It is also used in air traffic control, meteorology, and autonomous vehicles.
+
+**What does it cost?**
+It is high compared to a traditional radar. There is an array and processor cost, which is paid for critical tasks.
+
+**Is civilian use widespread?**
+It is increasing. As costs decrease, airport and meteorological installations are multiplying.
 
 
 ## Related terms
 - [Autonomous Robotics](/en/dictionary/autonomous-robotics/)
 - [Physical AI](/en/dictionary/physical-ai/)
 - [Driver Assistance System](/en/dictionary/driver-assistance-system/)
-
-## Related tools
-- [PLFM RADAR](/en/discover/plfm-radar/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/phased-array-radar/

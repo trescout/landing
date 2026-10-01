@@ -1,25 +1,34 @@
 # Was ist Harness?
 
-Dabei handelt es sich um einen Kontrollmechanismus, der überprüft, ob eine Software oder ein System den erwarteten Standards entspricht.
+Harness, Code automatisch testet, ist ein Framework für automatisierte Tests.
 
-## Definition
-In der Softwarewelt ist Harness im Allgemeinen ein Framework, das Testprozesse automatisiert. Sobald ein Code geschrieben ist, wird ständig überprüft, ob dieser Code in verschiedenen Szenarien korrekt reagiert. Es ist wie ein Sicherheitsnetz, das einen „Gesundheitscheck“ des Systems durchführt.
+## Definition und Wortherkunft
+Harness bedeutet Geschirr. Bei jeder Code-Aktualisierung werden Tests ausgeführt, die bei Fehlern warnen. Es ist ein Sicherheitsnetz, das den Systemzustand überwacht.
 
-## So funktioniert es
-Entwickler schreiben Testszenarien für ihre Codes und platzieren diese Szenarien in einem Kabelbaum. Das System führt diese Tests automatisch bei jeder Aktualisierung des Codes durch und warnt bei Fehlern.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Entwicklung: Test nach jedem Commit.CI: Die automatische Tür in der Fertigungslinie.Qualität: Scan vor der Veröffentlichung.
 
-## Wo es eingesetzt wird
-Es wird in Softwareentwicklungsprozessen, kontinuierlichen Integrationslinien (CI) und Qualitätskontrollphasen eingesetzt.
+## Technische Tiefe und Architektur
+Teile:
 
-## Häufig verwechselt mit
-Es ist nicht nur die Software selbst, es ist die „Umgebung“ oder „Infrastruktur“, die die Software testet.
+## Häufig gemischte Dinge
+Es wird oft für die Software selbst gehalten. Dabei ist das Harness nicht der Code, sondern die Umgebung, die den Code überwacht. Das eine ist der Spieler, das andere der Schiedsrichter.
 
-## Häufige Fragen
-**Warum ist ein Prüfgeschirr notwendig?**
-Um menschliches Versagen zu reduzieren und sicherzustellen, dass der Code nicht bei jeder Änderung kaputt geht.
+## Einsatz in verschiedenen Disziplinen
+Fertigungsstraße: Bremsen- und Scheinwerferprüfung jedes Fahrzeugs.Sicherheitsgurt: Vorrichtung, die bei einem Aufprall hält.Training: Parcours zur Leistungsmessung.
 
-**Ist für jede Software ein Kabelbaum erforderlich?**
-Es ist gängige Praxis, in professionellen Projekten für Zuverlässigkeit zu sorgen.
+## Häufig gestellte Fragen
+**Warum ist es notwendig?**
+Es reduziert menschliche Fehler und erkennt Verschlechterungen bei jeder Änderung.
+
+**Ist es bei jeder Software erforderlich?**
+In professionellen Projekten ist es Standard. Bei Testcode wäre es übertrieben.
+
+**Wann wird es geschrieben?**
+Zusammen mit dem Code, vorzugsweise davor. Tests, die auf später verschoben werden, bleiben oft unvollständig.
+
+**Was ist das Abdeckungsziel?**
+Es wird vom Team festgelegt. Auf kritischen Pfaden wird es hoch, an den Rändern niedrig gehalten.
 
 
 ## Verwandte Begriffe
@@ -30,6 +39,7 @@ Es ist gängige Praxis, in professionellen Projekten für Zuverlässigkeit zu so
 ## Verwandte Werkzeuge
 - [Jcode](/de/discover/jcode/)
 - [Harness · Ajan Ekip Fabrikası](/de/discover/harness/)
+- [Harness SDK](/de/discover/harness-sdk/)
 - [Munder Difflin](/de/discover/munder-difflin/)
 - [Claude Code Harness](/de/discover/claude-code-harness/)
 

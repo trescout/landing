@@ -33,6 +33,7 @@ Some technical knowledge may be required during the installation phase, but once
 - [Context Window](/en/dictionary/context-window/)
 
 ## Related tools
+- [Servers](/en/discover/servers/)
 - [Goose](/en/discover/goose/)
 - [Chrome Devtools MCP](/en/discover/chrome-devtools-mcp/)
 - [Openclaude](/en/discover/openclaude/)
@@ -40,7 +41,6 @@ Some technical knowledge may be required during the installation phase, but once
 - [Context Mode](/en/discover/context-mode/)
 - [Unity MCP](/en/discover/unity-mcp/)
 - [DesktopCommanderMCP](/en/discover/desktopcommandermcp/)
-- [Mobile MCP](/en/discover/mobile-mcp/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/model-context-protocol-mcp/

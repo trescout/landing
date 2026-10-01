@@ -1,25 +1,34 @@
 # O que é Skill?
 
-É um conjunto de habilidades especializadas que os assistentes de inteligência artificial utilizam para realizar um trabalho ou tarefa específica.
+Skill (com a equivalência em turco de yetenek), é uma unidade definida que permite a um assistente de inteligência artificial realizar tarefas utilizando uma ferramenta externa.
 
-## Definição
-No mundo da inteligência artificial, não basta um assistente apenas falar de maneira geral; às vezes ele precisa ler um arquivo ou pesquisar na internet. Chamamos cada uma dessas funções especiais de habilidades. Estas capacidades permitem ao assistente interagir com o mundo exterior, indo além das capacidades linguísticas padrão.
+## Definição e origem da palavra
+A conversa geral do assistente não é suficiente; às vezes ele precisa ler arquivos ou fazer pesquisas. Cada uma dessas funções especiais é definida como uma skill. O conceito passou da era dos assistentes de voz para a era dos agentes: das habilidades da Alexa às atuais capacidades dos agentes.
 
-## Como funciona
-Ao definir uma capacidade para um sistema de IA, você fornece regras e ferramentas que descrevem como realizar um trabalho. O assistente analisa um comando que recebe e seleciona e executa automaticamente a habilidade apropriada para aquele trabalho.
+## Como conhecer e usar no dia a dia?
+Arquivo: Leitura e resumo de documentos.Calendário: Agendamento de reuniões.Pesquisa: Recuperação de informações atualizadas.
 
-## Onde é usado
-É frequentemente usado em plataformas de assistentes de IA, ferramentas de automação e sistemas multiagentes que gerenciam tarefas complexas.
+## Profundidade Técnica e Arquitetura
+A habilidade é escrita a partir de três partes:
 
-## Costuma ser confundido com
-Pode ser confundido com capacidades gerais de inteligência artificial, mas o que se entende aqui é a capacidade do assistente de usar uma ferramenta externa.
+## Coisas frequentemente misturadas
+Pensa-se que seja uma capacidade geral do modelo. No entanto, o que se quer dizer aqui é a habilidade do assistente de usar ferramentas externas. O modelo entende a linguagem, a skill executa o trabalho.
 
-## Perguntas frequentes
-**Todo modelo de inteligência artificial possui habilidades?**
-Os modelos básicos produzem apenas texto, mas os assistentes recebem recursos adicionando ferramentas externas a esses modelos.
+## Use em diferentes disciplinas
+Culinária: A faca e as técnicas de molho nas mãos do chef.Broca: Função que varia de acordo com a ponta.Telefone: Cada aplicativo instalado.
+
+## Perguntas Frequentes
+**Cada modelo tem uma habilidade?**
+Não. Os modelos básicos geram texto, a habilidade é adquirida quando uma ferramenta externa é adicionada ao assistente.
 
 **Como desenvolver habilidades?**
-Normalmente, conexões API ou blocos de código especiais são escritos para permitir que o assistente execute uma tarefa específica.
+É definido por uma conexão de API ou bloco de código. A descrição é escrita claramente e o modelo escolhe corretamente.
+
+**É seguro?**
+As habilidades de leitura têm baixo risco. Em operações como escrita e pagamento, a aprovação e a limitação de escopo são essenciais.
+
+**Quem escreve as habilidades?**
+Os desenvolvedores escrevem, as plataformas distribuem na loja. Escrever uma boa descrição é metade do trabalho.
 
 
 ## Termos relacionados
@@ -31,13 +40,13 @@ Normalmente, conexões API ou blocos de código especiais são escritos para per
 
 ## Ferramentas relacionadas
 - [Anthropic Skills](/pt/discover/anthropic-skills/)
-- [Browser Use](/pt/discover/browser-use/)
 - [Taste Skill](/pt/discover/taste-skill/)
 - [Awesome Claude Skills](/pt/discover/awesome-claude-skills/)
 - [Archify](/pt/discover/archify/)
 - [Last30days Skill](/pt/discover/last30days-skill/)
 - [I Have Adhd](/pt/discover/i-have-adhd/)
 - [Reverse Skill](/pt/discover/reverse-skill/)
+- [Book to Skill](/pt/discover/book-to-skill/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/skill/

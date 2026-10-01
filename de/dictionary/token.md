@@ -30,12 +30,12 @@ Da Computer Zahlen und keine Wörter verstehen, müssen wir den Text in ein math
 ## Verwandte Werkzeuge
 - [Ponytail](/de/discover/ponytail/)
 - [Caveman](/de/discover/caveman/)
+- [Codegraph](/de/discover/codegraph/)
 - [OmniRoute](/de/discover/omniroute/)
 - [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
 - [Open Code Review](/de/discover/open-code-review/)
 - [Airllm](/de/discover/airllm/)
 - [Book to Skill](/de/discover/book-to-skill/)
-- [Code Review Graph](/de/discover/code-review-graph/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/token/

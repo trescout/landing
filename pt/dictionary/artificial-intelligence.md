@@ -32,13 +32,13 @@ A inteligência artificial mudará a forma como muitos trabalhos são realizados
 
 ## Ferramentas relacionadas
 - [Build Your Own X](/pt/discover/build-your-own-x/)
+- [Openclaw](/pt/discover/openclaw/)
 - [Coding Interview University](/pt/discover/coding-interview-university/)
 - [Superpowers](/pt/discover/superpowers/)
 - [ECC](/pt/discover/ecc/)
 - [Hermes Agent](/pt/discover/hermes-agent/)
 - [Opencode](/pt/discover/opencode/)
 - [Tensorflow](/pt/discover/tensorflow/)
-- [FreeDomain](/pt/discover/free-domain/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/artificial-intelligence/

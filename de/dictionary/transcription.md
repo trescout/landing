@@ -1,22 +1,34 @@
 # Was ist Transcription?
 
-Dabei handelt es sich um den Prozess, Sprachgespräche oder Aufzeichnungen durch künstliche Intelligenz zu analysieren und in geschriebenen Text umzuwandeln.
+Transkription ist der Prozess der Umwandlung von Audioaufnahmen in geschriebenen Text.
 
-## Definition
-Transkription ist ein Prozess, der Schallwellen in digitale Zeichen umwandelt. Dank künstlicher Intelligenz werden heute sehr hohe Genauigkeitsraten erreicht. Unverzichtbar für die Erstellung von Besprechungsnotizen oder die Transkription von Interviews.
+## Definition und Wortherkunft
+Transkribieren bedeutet in Text umwandeln. Die Aufnahme wird hochgeladen, Frequenzen werden analysiert, Wörter werden erkannt, Interpunktion wird hinzugefügt. Das Ergebnis ist ein Dokument, ein Untertitel oder ein Protokoll. Es ist Dokumentationsarbeit.
 
-## So funktioniert es
-Die Audiodatei wird in das System geladen, die KI analysiert die Tonfrequenzen, erkennt die Wörter und erstellt den Text durch das Hinzufügen von Satzzeichen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Untertitel: Videotext.Protokoll: Sitzungsaufzeichnung.Archiv: Sprachnotizindex.
 
-## Wo es eingesetzt wird
-Es wird für Videountertitel, Besprechungsprotokolle und Sprachnotizanwendungen verwendet.
+## Technische Tiefe und Architektur
+Schritte:
 
-## Häufig verwechselt mit
-Es handelt sich um das gleiche Konzept wie Speech-to-Text, nur dass es hinsichtlich der Verwendung stärker dokumentationsorientiert ist.
+## Häufig gemischte Dinge
+Wird oft für Speech-to-Text gehalten. Die Technologie ist dieselbe, die Arbeit ist anders: STT übersetzt in Echtzeit, Transkription erstellt ein Dokument. Das eine ist der Motor, das andere die Arbeit.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Sekretär: Das Aufschreiben des Gesagten.Protokollführer: Sitzungsprotokoll.Archivar: Aufnahmeverzeichnis.
+
+## Häufig gestellte Fragen
 **Funktioniert es in allen Sprachen?**
-Moderne KI-Modelle unterstützen Dutzende Sprachen, die Erfolgsquote kann jedoch je nach akzentuierter Sprache variieren.
+Dutzende Sprachen werden unterstützt, Akzente und Fachjargon wirken sich auf die Genauigkeit aus.
+
+**Wie hoch ist die Genauigkeit?**
+Bei einer sauberen Aufnahme ist sie hoch. Namen und Begriffe werden im letzten Korrekturdurchgang korrigiert.
+
+**Wie lange dauert es?**
+Dies variiert je nach Länge der Aufnahme und Modell. Kurze Notizen sind in wenigen Minuten fertig.
+
+**Ist es bezahlt?**
+Open-Source-Modelle laufen kostenlos, Cloud-Dienste werden nach Dauer abgerechnet.
 
 
 ## Verwandte Begriffe

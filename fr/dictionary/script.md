@@ -1,27 +1,40 @@
 # Qu'est-ce que Script ?
 
-Il s'agit d'une séquence courte et directe de commandes écrites pour permettre à l'ordinateur d'effectuer automatiquement un certain travail.
+Un script (dont l'équivalent en turc est betik) est une courte suite de commandes qui exécute automatiquement une seule tâche.
 
-## Définition
-Les scripts sont généralement écrits pour résoudre rapidement une tâche unique, plutôt que pour des structures complexes telles que de grands projets logiciels. Il peut être utilisé pour renommer un fichier, effacer des données ou lancer un programme. Dans le monde de TreScout, ce sont vos petits assistants numériques qui vous facilitent la tâche.
+## Définition et origine du mot
+Au lieu d'un grand projet, une seule tâche est résolue : renommer des fichiers, nettoyer des données, lancer un programme. Les commandes sont écrites dans un fichier texte et exécutées par un interpréteur. Aucune compilation n'est nécessaire, c'est un mode écriture-exécution.
 
-## Comment ça marche
-Les commandes sont écrites dans un simple fichier texte et ce fichier est exécuté par un interpréteur.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Système : Sauvegarde et nettoyage.Données : Opérations de fichiers par lot.Navigateur : Extensions d'automatisation de pages.
 
-## Où est-ce utilisé
-Il est utilisé dans les automatisations du système d'exploitation, les tâches de nettoyage de données et les plug-ins de navigateur Web.
+## Profondeur technique et architecture
+Mode de travail :
 
-## Souvent confondu avec
-À ne pas confondre avec les grandes applications logicielles ; les scripts sont plus légers et plus rapides.
+## Choses fréquemment mélangées
+On le prend pour une application. L'application est grande et doit être compilée, le script est léger et instantané. Ce sont des outils d'échelles différentes.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Liste : Description de tâche étape par étape.Fiche de recette : Instruction courte et mesurée.Automate : Mécanisme fonctionnant par insertion de jeton.
+
+## Foire aux questions
 **Est-ce que n'importe qui peut écrire ?**
-Oui, il est assez facile d’écrire des scripts simples une fois que vous avez appris la logique de base.
+Oui. Des scripts simples sont écrits selon la logique de base, et les tâches complexes viennent avec la pratique.
+
+**Quel langage faut-il choisir ?**
+Bash pour les tâches système et Python pour les tâches générales constituent des points de départ pratiques.
+
+**Comment les exécuter ?**
+Soit avec le nom de l'interpréteur, soit directement avec les permissions d'exécution. Sous Windows, on utilise WSL ou PowerShell.
+
+**Est-ce sécuritaire?**
+Les scripts dont la source est sûre, oui. Un script récupéré sur Internet ne s'exécute pas sans avoir été lu.
 
 
 ## Termes liés
 - [CLI](/fr/dictionary/cli/)
 - [Tools](/fr/dictionary/tools/)
+- [Shell](/fr/dictionary/shell/)
 
 ## Outils liés
 - [NVM](/fr/discover/nvm/)

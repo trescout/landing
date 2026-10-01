@@ -30,6 +30,7 @@ Cela peut être écrit, mais il faut tout coder à partir de zéro, ce qui prend
 - [Bindings](/fr/dictionary/bindings/)
 
 ## Outils liés
+- [Servers](/fr/discover/servers/)
 - [Cline](/fr/discover/cline/)
 - [OmniRoute](/fr/discover/omniroute/)
 - [Freellmapi](/fr/discover/freellmapi/)
@@ -37,7 +38,6 @@ Cela peut être écrit, mais il faut tout coder à partir de zéro, ce qui prend
 - [CUA](/fr/discover/cua/)
 - [iii](/fr/discover/iii/)
 - [Logto](/fr/discover/logto/)
-- [CubeSandbox](/fr/discover/cubesandbox/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/sdk/

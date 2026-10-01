@@ -1,25 +1,34 @@
 # Was ist Automatic Tagging?
 
-Der Inhalt von Daten oder Dateien wird vom System analysiert und automatisch kategorisiert.
+Automatisches Tagging (auf Türkisch Otomatik Etiketleme) ist der Prozess, bei dem Inhalte gelesen und mit Tags versehen werden.
 
-## Definition
-Beim automatischen Tagging liest künstliche Intelligenz den Inhalt und fügt entsprechende Tags ein, anstatt große Datenmengen manuell zu klassifizieren. Wenn Sie beispielsweise ein Foto hochladen, erkennt das System die darin enthaltenen Objekte und kennzeichnet sie als „Natur“, „Meer“ oder „Menschen“. Diese Methode stellt sicher, dass die Daten organisiert und leicht auffindbar bleiben.
+## Definition und Wortherkunft
+Tag bedeutet Kennzeichnung. Das Modell scannt die Daten, erkennt Objekte und Konzepte und verarbeitet das passende Label aus einer definierten Liste in die Datei. Das Archiv wird dadurch durchsuchbar.
 
-## So funktioniert es
-Das Modell der künstlichen Intelligenz scannt die Daten, identifiziert wichtige Schlüsselwörter oder visuelle Merkmale, gleicht diese Merkmale mit vordefinierten Tags ab und weist sie der Datei zu.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Foto: Objekt- und Gesichtsetiketten.Dokument: Themenklassifikation.Sozial: Inhaltsorganisation.
 
-## Wo es eingesetzt wird
-Es wird in digitalen Fotobibliotheken, Unternehmensdokumentenverwaltungssystemen und Social-Media-Plattformen verwendet.
+## Technische Tiefe und Architektur
+Layout:
 
-## Häufig verwechselt mit
-Es kann mit manuellem Tagging verwechselt werden, hier erfolgt jedoch kein menschliches Eingreifen.
+## Häufig gemischte Dinge
+Es wird oft für manuelle Kennzeichnung gehalten. Das ist Menschenhand, dies ist die Modellausgabe. Die Geschwindigkeit liegt bei der Maschine, das Urteil beim Menschen.
 
-## Häufige Fragen
-**Immer die richtigen Etiketten?**
-Es kommt auf die Qualität des Trainings der künstlichen Intelligenz an; Manchmal kann es zu einer falschen Kennzeichnung kommen.
+## Einsatz in verschiedenen Disziplinen
+Bibliothekar: Keine Umschlagkategorie schreiben.Postamt: Keinen Stempel setzen.Siegel: Dokumentenmarkierung.
+
+## Häufig gestellte Fragen
+**Ist es immer richtig?**
+Es hängt vom Training ab. Wenn es falsch ist, wird es durch Schwellenwert und Kontrolle gesteuert.
 
 **Warum ist es wichtig?**
-Es ermöglicht Ihnen, in Sekundenschnelle das Gesuchte in Datenbergen zu finden.
+Es bietet sekundenschnelle Funde im Stapel. Das Archiv bringt einen Mehrwert.
+
+**Was ist sein Schwellenwert?**
+Es ist der Akzeptanzwert. Ein hoher Wert reduziert, ein niedriger verschmutzt.
+
+**Wie hoch sind die Kosten?**
+Es gibt Modell- und Kontrollkosten. Das Volumen bestimmt dies.
 
 
 ## Verwandte Begriffe

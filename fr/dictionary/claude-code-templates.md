@@ -1,19 +1,31 @@
 # Qu'est-ce que Claude Code Templates ?
 
-Des brouillons prêts à l'emploi fournis par les outils de codage pris en charge par l'IA pour lancer rapidement certains projets.
+Les modèles Claude Code sont des squelettes de fichiers prêts à l'emploi qui accélèrent le lancement de projets avec Claude Code.
 
-## Définition
-Ces modèles créent automatiquement la structure de fichiers de base et les paramètres nécessaires au démarrage d'un projet. Cela permet à l'assistant IA de comprendre plus facilement de quel type d'application il s'agit. Ainsi, au lieu de partir d’une page blanche, vous partez d’un squelette tout fait.
+## Définition et origine du mot
+Un "template" signifie un modèle. Au lieu de partir d'une page blanche, on prend une structure de base : l'arborescence des dossiers, les paramètres et le fichier de consignes sont fournis prêts à l'emploi. L'assistant comprend le type de projet grâce à cette structure de base, et ses suggestions sont pertinentes.
 
-## Comment ça marche
-Vous indiquez à votre outil d'IA le type de projet et il prépare pour vous les fichiers nécessaires à l'aide du modèle correspondant.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Prototype : Tester rapidement une idée.Standard : Le même squelette au sein de l'équipe.Apprentissage : Apprendre les règles à partir d'exemples.
 
-## Où est-ce utilisé
-Il est utilisé lors du démarrage d’un nouveau projet logiciel, notamment dans les étapes de prototypage rapide.
+## Profondeur technique et architecture
+Squelette typique :
 
-## Questions fréquentes
-**Ces modèles peuvent-ils être personnalisés ?**
-Oui, la plupart des modèles peuvent être modifiés ultérieurement pour répondre aux besoins du projet.
+## Utilisation dans différentes disciplines
+Préfabriqué : Structure aux fondations prêtes.Patron de couture : Modèle de coupe adapté à la morphologie.Recette de cuisine : Kit de démarrage dosé.
+
+## Foire aux questions
+**Les modèles sont-ils personnalisables ?**
+Oui. Le squelette est le point de départ ; il est élagué et étendu selon le projet.
+
+**Où le trouve-t-on ?**
+Dans les dépôts de la communauté et la documentation des outils. Sa source et son actualité sont vérifiées.
+
+**Est-ce fiable ?**
+Cela dépend de sa source. Un squelette inconnu ne s'exécute pas aveuglément, son contenu doit être lu.
+
+**Puis-je l'écrire moi-même ?**
+Oui. Le squelette de l'équipe est le plus précieux, il renaît de ses cendres.
 
 
 ## Termes liés

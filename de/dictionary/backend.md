@@ -27,6 +27,7 @@ Weil es notwendig ist, die Sicherheit der Daten zu gewährleisten und komplexe B
 ## Verwandte Werkzeuge
 - [Supabase](/de/discover/supabase/)
 - [iii](/de/discover/iii/)
+- [Firebase Ios SDK](/de/discover/firebase-ios-sdk/)
 - [RLM](/de/discover/rlm/)
 
 ---

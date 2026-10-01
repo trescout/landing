@@ -1,22 +1,34 @@
 # ¿Qué es Transcription?
 
-Es el proceso de analizar conversaciones o grabaciones de voz mediante inteligencia artificial y convertirlas en texto escrito.
+La transcripción es el proceso de convertir una grabación de audio en texto escrito.
 
-## Definición
-La transcripción es un proceso que convierte ondas sonoras en caracteres digitales. Hoy en día, gracias a la inteligencia artificial, se han alcanzado índices de precisión altísimos. Indispensable para tomar notas de reuniones o transcribir entrevistas.
+## Definición y origen de la palabra
+Transcribir significa pasar a texto. Se carga la grabación, se analizan las frecuencias, se reconocen las palabras, se añade la puntuación. El resultado es un documento, un subtítulo o un acta. Es labor de documentación.
 
-## Cómo funciona
-El archivo de audio se carga en el sistema, la IA analiza las frecuencias del sonido, reconoce las palabras y crea el texto añadiendo signos de puntuación.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Subtitular: Texto de vídeo.Acta: Registro de reunión.Archivo: Índice de notas de voz.
 
-## Dónde se usa
-Se utiliza en aplicaciones de subtítulos de vídeo, actas de reuniones y notas de voz.
+## Profundidad técnica y arquitectura
+Pasos:
 
-## Suele confundirse con
-Es el mismo concepto que Speech-to-Text, sólo que está más orientado a la documentación en términos de uso.
+## Cosas frecuentemente mezcladas
+Se cree que es lo mismo que el speech-to-text. La tecnología es la misma, pero el trabajo es diferente: STT traduce al instante, la transcripción produce un documento. Uno es el motor, el otro es el trabajo.
+
+## Uso en diferentes disciplinas
+Secretario: Escribir lo que se dice.Funcionario de actas: Acta de la vista oral.Archivero: Directorio de registros.
 
 ## Preguntas frecuentes
 **¿Funciona en todos los idiomas?**
-Los modelos de IA modernos admiten docenas de idiomas, pero la tasa de éxito puede variar según el habla con acento.
+Se admiten decenas de idiomas; la precisión varía según el acento y la jerga.
+
+**¿Cuál es su precisión?**
+Es alta en grabaciones limpias. Los nombres y términos se corrigen en la revisión final.
+
+**¿Cuánto tiempo se tarda?**
+Varía según la duración de la grabación y el modelo. Las notas cortas terminan en cuestión de minutos.
+
+**¿Se paga?**
+Los modelos abiertos se ejecutan gratis, los servicios en la nube cobran por tiempo.
 
 
 ## Términos relacionados

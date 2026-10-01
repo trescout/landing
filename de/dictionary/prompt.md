@@ -1,22 +1,34 @@
 # Was ist Prompt?
 
-Dabei handelt es sich um eine schriftliche Anweisung, mit der die KI aufgefordert wird, eine bestimmte Aufgabe auszuführen oder eine Frage zu beantworten.
+Ein Prompt (mit seiner türkischen Entsprechung istem) ist eine schriftliche Anweisung, die dem Modell gegeben wird.
 
-## Definition
-Schnelligkeit ist die Basis Ihrer Kommunikation mit künstlicher Intelligenz. Wenn Sie zu einem Modell der künstlichen Intelligenz „Erzählen Sie mir davon“ sagen, wird dieser Satz zu einer Aufforderung. Die Qualität der Eingabeaufforderung wirkt sich direkt auf die Genauigkeit und Angemessenheit der von der künstlichen Intelligenz gegebenen Antwort aus.
+## Definition und Wortherkunft
+Prompt bedeutet Befehl. Er ist die Grundlage der Kommunikation: Klare Instruktion bringt klare Antwort. Er wird mit dem Dreiklang aus Rolle, Kontext und Format geschrieben.
 
-## So funktioniert es
-Sie können eine direkte Frage stellen, Kontext angeben oder Einschränkungen wie „Antwort in diesem Format“ hinzufügen. Eine gute Eingabeaufforderung verdeutlicht, was die KI tun soll und was nicht.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Chat: Fragen stellen und Aufgaben erteilen.Bild: Szenenbeschreibung.Code: Stellenbeschreibung.
 
-## Wo es eingesetzt wird
-Es wird in allen produktiven Schnittstellen für künstliche Intelligenz wie ChatGPT, Claude, Midjourney verwendet.
+## Technische Tiefe und Architektur
+Muster:
 
-## Häufig verwechselt mit
-Es kann mit Prompt Engineering verwechselt werden; Während es sich bei Prompt um eine einzelne Anweisung handelt, ist Prompt Engineering die Kunst, diese Anweisungen zu optimieren.
+## Häufig gemischte Dinge
+Es wird für Ingenieurskunst gehalten. Ein Prompt ist eine einzelne Anweisung, Ingenieurskunst ist die Kunst der Optimierung. Das eine ist ein Satz, das andere ein Handwerk.
 
-## Häufige Fragen
-**Was ist eine schlechte Eingabeaufforderung?**
-Es handelt sich um Anweisungen, die sehr kurz, vage oder ohne Kontext sind. Wenn Sie beispielsweise nur „Schreiben“ sagen, weiß die KI nicht, was sie schreiben soll.
+## Einsatz in verschiedenen Disziplinen
+Liste: Aufgabenzettel.Bestellung: Küchenbon.Rezept: Bemessene Anweisung.
+
+## Häufig gestellte Fragen
+**Was ist ein schlechter Prompt?**
+Einer, der kurz, unklar und ohne Kontext ist. Wünsche ohne Vorgaben drifte ab.
+
+**Lang oder kurz?**
+Genau richtig. Der nötige Kontext und die Grenzen werden gesetzt, ohne unnötiges Bla-Bla.
+
+**Geht es auf Türkisch?**
+Ja. Das Modell versteht Türkisch, auf Terminologiekonsistenz wird geachtet.
+
+**Wird es gespeichert?**
+Das hängt vom Dienst ab. Lesen Sie die Richtlinie, bevor Sie sensible Daten eingeben.
 
 
 ## Verwandte Begriffe
@@ -25,9 +37,11 @@ Es handelt sich um Anweisungen, die sehr kurz, vage oder ohne Kontext sind. Wenn
 - [AI Agent](/de/dictionary/ai-agent/)
 
 ## Verwandte Werkzeuge
+- [OmniRoute](/de/discover/omniroute/)
 - [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
 - [Awesome Gpt Image 2](/de/discover/awesome-gpt-image-2/)
 - [Flue](/de/discover/flue/)
+- [Codex-X](/de/discover/codex-x/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/prompt/

@@ -24,7 +24,7 @@ Projeyi kullanmak için GitHub sayfasındaki 'Releases' sekmesinden hazır dosya
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Emulator SDK CPU
+Emulator CPU SDK
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sharpemu/

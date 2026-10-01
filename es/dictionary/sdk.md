@@ -30,6 +30,7 @@ Se puede escribir, pero hay que codificar todo desde cero, lo que lleva demasiad
 - [Bindings](/es/dictionary/bindings/)
 
 ## Herramientas relacionadas
+- [Servers](/es/discover/servers/)
 - [Cline](/es/discover/cline/)
 - [OmniRoute](/es/discover/omniroute/)
 - [Freellmapi](/es/discover/freellmapi/)
@@ -37,7 +38,6 @@ Se puede escribir, pero hay que codificar todo desde cero, lo que lleva demasiad
 - [CUA](/es/discover/cua/)
 - [iii](/es/discover/iii/)
 - [Logto](/es/discover/logto/)
-- [CubeSandbox](/es/discover/cubesandbox/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sdk/

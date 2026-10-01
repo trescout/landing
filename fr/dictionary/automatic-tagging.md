@@ -1,25 +1,34 @@
 # Qu'est-ce que Automatic Tagging ?
 
-Le contenu des données ou des fichiers est analysé et automatiquement catégorisé par le système.
+Le taggage automatique (ou étiquetage automatique en français) est le processus qui consiste à lire le contenu et à y apposer des étiquettes.
 
-## Définition
-Le marquage automatique se produit lorsque l'intelligence artificielle lit le contenu et colle les balises appropriées au lieu de classer manuellement de grandes quantités de données. Par exemple, lorsque vous téléchargez une photo, le système reconnaît les objets qu'elle contient et les étiquete comme « nature », « mer » ou « personnes ». Cette méthode garantit que les données restent organisées et faciles à trouver.
+## Définition et origine du mot
+Un tag signifie une étiquette. Le modèle analyse les données, reconnaît les objets et les concepts, et applique l'étiquette appropriée d'une liste prédéfinie au fichier. Les archives deviennent ainsi interrogeables.
 
-## Comment ça marche
-Le modèle d'intelligence artificielle analyse les données, identifie les mots-clés ou les caractéristiques visuelles importants, fait correspondre ces fonctionnalités avec des balises prédéfinies et les attribue au fichier.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Photographier: Étiquettes d'objets et de visages.Document : Classification par sujet.Social : Organisation du contenu.
 
-## Où est-ce utilisé
-Il est utilisé dans les photothèques numériques, les systèmes de gestion de documents d'entreprise et les plateformes de médias sociaux.
+## Profondeur technique et architecture
+Disposition :
 
-## Souvent confondu avec
-Cela peut être confondu avec le marquage manuel, mais il n’y a ici aucune intervention humaine.
+## Choses fréquemment mélangées
+On pense qu'il s'agit d'un étiquetage manuel. Ceci est fait par l'homme, cela est la sortie du modèle. La vitesse appartient à la machine, le jugement à l'homme.
 
-## Questions fréquentes
-**Toujours les bonnes étiquettes ?**
-Cela dépend de la qualité de la formation à l’intelligence artificielle ; Parfois, cela peut entraîner un étiquetage incorrect.
+## Utilisation dans différentes disciplines
+Bibliothécaire : N'écris pas la catégorie de la couverture.Bureau de poste : Ne pas tamponner.Sceau : Marquage de document.
+
+## Foire aux questions
+**Est-ce toujours exact ?**
+Cela dépend de l'entraînement. S'il y a des erreurs, elles sont gérées par le seuil et le contrôle.
 
 **Pourquoi est-ce important ?**
-Il vous permet de trouver ce que vous recherchez parmi des tas de données en quelques secondes.
+Il offre une trouvaille en une fraction de seconde au milieu de la pile. L'archive apporte de la valeur.
+
+**Quel est son seuil ?**
+C'est le score d'acceptation. Un score élevé réduit, un score bas pollue.
+
+**Qu'est-ce que ça coûte ?**
+Il y a un coût de modèle et de contrôle. Le volume détermine cela.
 
 
 ## Termes liés

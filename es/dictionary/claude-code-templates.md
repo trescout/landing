@@ -1,19 +1,31 @@
 # ¿Qué es Claude Code Templates?
 
-Borradores listos para usar que proporcionan las herramientas de codificación impulsadas por IA para lanzar rápidamente ciertos proyectos.
+Las plantillas de Claude Code son esqueletos de archivos predefinidos que aceleran el inicio de un proyecto con Claude Code.
 
-## Definición
-Estas plantillas crean automáticamente la estructura de archivos básica y la configuración necesaria al iniciar un proyecto. Facilita que el asistente de IA comprenda qué tipo de aplicación es el proyecto. Así, en lugar de empezar desde una página en blanco, se parte de un esqueleto ya preparado.
+## Definición y origen de la palabra
+Template significa plantilla. En lugar de empezar desde una página en blanco, se toma una estructura base: la estructura de directorios, la configuración y el archivo de instrucciones vienen listos. El asistente comprende el tipo de proyecto a partir de la estructura y sus sugerencias son precisas.
 
-## Cómo funciona
-Usted le indica a su herramienta de inteligencia artificial el tipo de proyecto y ésta prepara los archivos necesarios utilizando la plantilla correspondiente.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Prototipo: Prueba rápida de una idea.Estándar: El mismo esqueleto dentro del equipo.Aprendiendo: Aprender las reglas a través de un ejemplo.
 
-## Dónde se usa
-Se utiliza al iniciar un nuevo proyecto de software, especialmente en las etapas de creación rápida de prototipos.
+## Profundidad técnica y arquitectura
+Esqueleto típico:
+
+## Uso en diferentes disciplinas
+Prefabricado: Estructura con cimientos listos.Patrón de sastre: Plantilla de corte según la medida.Receta de cocina: Kit de inicio con medidas.
 
 ## Preguntas frecuentes
-**¿Se pueden personalizar estas plantillas?**
-Sí, la mayoría de las plantillas se pueden modificar más adelante para adaptarlas a las necesidades del proyecto.
+**¿Se pueden personalizar las plantillas?**
+Sí. El esqueleto es el punto de partida; se poda y se amplía según el proyecto.
+
+**¿Dónde se encuentra?**
+En los repositorios de la comunidad y en la documentación de las herramientas. Se verifica su origen y vigencia.
+
+**¿Son fiables?**
+Depende de su origen. Un esqueleto desconocido no se ejecuta a ciegas, se lee su contenido.
+
+**¿Puedo escribir el mío propio?**
+Sí. El esqueleto del equipo es el más valioso; renace de nuevo.
 
 
 ## Términos relacionados

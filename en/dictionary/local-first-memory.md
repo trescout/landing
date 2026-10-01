@@ -1,54 +1,40 @@
 # What is Local-first Memory?
 
-> Local-First State Architecture
+Local-first memory is an approach where data resides on the device.
 
-**Category:** Data  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+Local-first means local-first. It prioritizes the device over the cloud. It works offline and protects privacy. Note-taking apps and local AI are part of this paradigm.
 
-Local-first memory is a software design pattern where an application's primary state and data storage reside directly on the user's local device, with cloud synchronization acting merely as an optional background replication layer.
-
-## Definition and Etymology
-Contrasting with traditional thin-client cloud architectures where apps stop functioning without an active network, local-first memory guarantees zero-latency responsiveness and full offline autonomy. User data is owned locally in native sqlite or indexeddb databases before synchronizing changes via conflict-free replicated data types (CRDTs).
-
-## Everyday Context and Practical Usage
-- **Note Taking & Knowledge Bases:** Tools like Obsidian and Logseq preserving all markdown files directly on the local filesystem.
-- **Collaborative Canvas Apps:** Drawing and diagram tools that function offline and merge concurrent edits when reconnected.
-- **Local AI Agent Memory:** Vector databases and chat history stored on-device to protect sensitive personal context.
+## How to Know and Use in Daily Life?
+Notes: Offline notebook.Task: Local list.Media: Device archive.
 
 ## Technical Depth and Architecture
-Architectural Building Blocks:- **Local Primary Storage:** SQLite (via WASM or native bindings) and IndexedDB providing instantaneous local read/write execution.
-- **Conflict-Free Replicated Data Types (CRDTs):** Algorithms (Automerge, Yjs) resolving multi-device data merge conflicts deterministically without central locking.
-- **Peer-to-Peer Replication:** Secure end-to-end encrypted synchronization pipelines communicating over WebRTC or WebSocket relays.
+Order:
 
-## Commonly Confused With
-Often confused with simple offline caching. Offline caching is a temporary fallback that treats the remote server as the sole source of truth; local-first memory treats the user's device as the definitive primary owner of data.
+## Frequently Mixed Things
+It is mistaken for offline mode. That is a temporary state; this is an ownership arrangement. The data is yours, not rented.
 
-## Cross-Disciplinary Perspectives
-- **Finance:** Keeping paper cash in a home safe vs keeping digital balances exclusively inside an online bank account.
-- **Art:** Sketching in a personal physical notebook vs drawing on a shared cloud whiteboard.
-- **Logistics:** Storing inventory in your own private warehouse vs relying on remote third-party dropshipping.
-
-## Analogy
-It is akin to keeping valuable documents in a locked drawer at home rather than renting a remote bank deposit box: you can access them instantly without anyone's permission.
+## Use in Different Disciplines
+Drawer: Locked home drawer.Till: Personal trust.Wallet: Value carried in the pocket.
 
 ## Frequently Asked Questions
+**What happens if the device breaks?**
+Data is lost. Backups are kept in a separate location; the cloud is not assumed to be automatic.
 
-**Why is local-first architecture gaining popularity?**  
-It eliminates cloud vendor lock-in, guarantees instantaneous user interfaces, and provides uncompromising digital privacy.
+**How does synchronization work?**
+It merges without conflicts using CRDT. Devices synchronize when they connect.
 
-**How does local-first handle collaboration between multiple users?**  
-Through CRDTs (Conflict-free Replicated Data Types), which allow concurrent offline edits to merge cleanly without losing data.
+**When to use the cloud?**
+When sharing and backups are needed. Local is primary, cloud is a copy.
 
-**Does local-first mean no cloud servers are used?**  
-No, servers can still assist with encrypted peer discovery, backup storage, and relaying changes across devices.
+**Is it safe?**
+Yes, with device encryption. A lock is essential against lost devices.
 
-**What databases are commonly used for local-first apps?**  
-SQLite, ElectricSQL, PGlite, RxDB, and browser IndexedDB coupled with CRDT libraries like Yjs and Automerge.
 
 ## Related terms
-- [Personal Cloud](/en/dictionary/personal-cloud/)
-- [Runtime](/en/dictionary/runtime/)
-- [Digital Privacy](/en/dictionary/digital-privacy/)
+- [Local-first](/en/dictionary/local-first/)
+- [Memory System](/en/dictionary/memory-system/)
+- [Self-hosting](/en/dictionary/self-hosting/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/local-first-memory/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/local-first-memory/

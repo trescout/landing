@@ -1,47 +1,44 @@
-# Qu'est-ce qu'un Émulateur (Emulator) ?
+# Qu'est-ce que Emulator ?
 
-> Anglais : Emulator · Étymologie : latin aemulari (rivaliser avec, imiter)
+Un émulateur est une couche système qui imite par logiciel l'architecture matérielle physique d'un ordinateur, d'un appareil mobile ou d'une console de jeux, vous permettant ainsi d'exécuter sur votre propre appareil des logiciels appartenant à des plates-formes étrangères.
 
-**Catégorie:** Dev  
-**Dernière mise à jour:** 2026-09-19
+## Cadre conceptuel, étymologie et différence avec le simulateur
+Le terme émulateur vient du verbe latin « aemulari » (imiter, rivaliser, chercher à égaler). En turc, il est techniquement appelé « öykünücü » (imitateur) ou « donanım taklitçisi » (imitateur de matériel).
 
-Un émulateur (emulator) est un logiciel qui reproduit fidèlement le comportement matériel, le jeu d'instructions et les registres d'une machine étrangère, permettant d'exécuter ses programmes d'origine sur un autre ordinateur.
+## Architecture informatique et cycle du noyau : Fetch-Decode-Execute (Recherche-Décodage-Exécution)
+Au cœur d'un émulateur se trouve un UC (CPU) virtuel modélisé par logiciel. Ce processeur virtuel exécute trois étapes à chaque cycle d'horloge :
 
-## Cadre conceptuel, étymologie et distinction avec le simulateur
-Le terme vient du latin aemulari, signifiant imiter avec rivalité. Alors qu'un simulateur reproduit le comportement extérieur d'un système sans modéliser ses rouages internes (comme un simulateur de vol), l'émulateur recrée chaque circuit électronique virtuel : registres processeur, puces sonores et gestion de mémoire vive.
+## Domaines d'utilisation pour les développeurs, la sécurité et les entreprises
+Les émulateurs ne se contentent pas de porter des jeux de consoles rétro sur des écrans modernes ; ils constituent également des outils essentiels de l'ingénierie logicielle moderne :
 
-## Architecture informatique et cycle Fetch-Decode-Execute
-Au cœur de l'émulateur tourne un processeur virtuel traduisant le code binaire invité :
-- **Émulation par interpréteur :** Chaque instruction machine est lue, décodée et exécutée séquentiellement. Précise mais consommatrice de calcul.- **Recompilation dynamique (JIT) :** Les blocs d'instructions étrangers (ARM, MIPS) sont convertis à la volée en code machine natif (x86-64) et mis en cache pour une exécution ultra-rapide.- **Émulation au cycle près (Cycle-Accurate) :** Synchronisation temporelle à l'horloge près garantissant un respect parfait des cadences matérielles d'origine.
-
-## Usages en développement, cybersécurité et entreprise
-Domaines d'application essentiels des émulateurs :
-- **Développement mobile :** Tester des applications Android ou iOS sur des postes de travail grâce à des émulateurs intégrés aux IDEs.- **Analyse de logiciels malveillants :** Exécuter des virus dans des environnements émulés isolés (comme QEMU) pour observer leur comportement sans risque.- **Préservation du patrimoine informatique :** Faire tourner des systèmes bancaires patrimoniaux sur des serveurs Cloud actuels.
-
-## Aspects juridiques et propriété intellectuelle
-La légalité du développement d'émulateurs a été confirmée par de grands arrêts judiciaires (notamment Sony v. Connectix) : la rétro-ingénierie en salle blanche du matériel est licite, à condition de ne pas distribuer de code propriétaire sous copyright (fichiers BIOS ou ROMs de jeux).
-
-## Par analogie
-Pour lire un manuel écrit en langue étrangère : le simulateur est un résumé expliquant le sujet général ; l'émulateur interpréteur traduit chaque mot un à un au dictionnaire ; le recompilateur JIT traduit des chapitres entiers dans votre langue à l'avance pour une lecture fluide.
+## Dimension juridique et droits d'auteur
+La légalité du développement d'émulateurs a été consacrée par des affaires jurisprudentielles dans le monde entier :
 
 ## Questions fréquentes
+**Qu'est-ce qu'un émulateur et quel est son équivalent en turc ?**
+Dérivé du mot anglais 'emulator', ce terme signifie émulateur en français. Il s'agit d'un système qui exécute des logiciels de plateformes étrangères en imitant les composants matériels d'un appareil par le biais de logiciels.
 
-**Quelle est la différence entre émulateur et machine virtuelle ?**  
-La machine virtuelle exécute le code directement sur le même processeur physique ; l'émulateur traduit logiciellement un jeu d'instructions pour un processeur d'architecture totalement différente.
+**Quelle est la différence fondamentale entre un émulateur et un simulateur ?**
+Alors que le simulateur imite uniquement le comportement et la logique du système, l'émulateur copie à l'identique et par logiciel le processeur, le bus mémoire et les codes machine du matériel cible au niveau des instructions.
 
-**Créer un émulateur est-il légal ?**  
-Oui ; la rétro-ingénierie d'une architecture matérielle est autorisée dès lors qu'aucun BIOS protégé par le droit d'auteur n'est incorporé illégalement.
+**Comment fonctionne le compilateur dynamique JIT (Just-In-Time) dans l'émulation ?**
+Il convertit les blocs de code machine du processeur étranger en code machine natif du processeur de votre propre ordinateur au moment de l'exécution et les met en cache. Ainsi, lorsque le code est exécuté une seconde fois, il s'exécute à vitesse native.
 
-**Pourquoi émuler d'anciennes consoles demande-t-il parfois des processeurs puissants ?**  
-Parce qu'une émulation au cycle près exige des milliers de cycles d'horloge de votre PC moderne pour reproduire fidèlement une seule fraction de seconde de l'horloge originale.
+**Est-il légal de développer et d'utiliser un émulateur ?**
+Oui, les logiciels d'émulation écrits selon les principes de l'ingénierie inverse en salle propre sont tout à fait légaux. Cependant, distribuer sans autorisation les fichiers BIOS propriétaires de l'appareil ou des copies ROM protégées par des droits d'auteur constitue une violation du droit d'auteur.
 
-**Qu'est-ce que QEMU ?**  
-Un émulateur et virtualiseur open source de référence capable de modéliser des architectures complètes (ARM, x86, RISC-V, MIPS).
 
 ## Termes liés
 - [ROM](/fr/dictionary/rom/)
+- [Sandbox](/fr/dictionary/sandbox/)
 - [Virtual Machines](/fr/dictionary/virtual-machines/)
+- [Assembly](/fr/dictionary/assembly/)
+- [Runtime](/fr/dictionary/runtime/)
 - [Apple Silicon](/fr/dictionary/apple-silicon/)
 
+## Outils liés
+- [Cool Retro Term](/fr/discover/cool-retro-term/)
+- [Sharpemu](/fr/discover/sharpemu/)
+
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/emulator/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/emulator/

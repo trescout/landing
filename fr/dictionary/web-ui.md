@@ -2,26 +2,35 @@
 
 > Web User Interface
 
-Une interface visuelle qui permet d'utiliser un logiciel via un navigateur internet au lieu de l'installer sur votre ordinateur.
+L'interface utilisateur web (Web UI) est la surface de contrôle de l'application visible dans le navigateur.
 
-## Définition
-L'interface utilisateur Web vous permet de voir les boutons, les menus et les graphiques d'une application dans votre navigateur. Vous pouvez accéder à l'application sans aucune installation particulière, tout comme accéder à un site Web. Cela garantit que les mises à jour du logiciel sont gérées côté serveur plutôt que par vous.
+## Définition et origine du mot
+Les boutons, les menus et les graphiques sont dessinés dans le navigateur. Aucune installation n'est requise, il suffit de se rendre à l'adresse. Les mises à jour sont effectuées sur le serveur et le côté utilisateur est actualisé.
 
-## Comment ça marche
-Vous ouvrez votre navigateur, accédez à l'adresse correspondante et commencez à utiliser le panneau visuel qui apparaît. Les codes exécutés en arrière-plan sont sur le serveur, vous manipulez uniquement les éléments interactifs à l'écran.
+## Comment connaître et utiliser dans la vie quotidienne ?
+E-mail: Boîte aux lettres dans le navigateur.Discussion : Écran du bot d'intelligence artificielle.Édition : Outils de conception en ligne.
 
-## Où est-ce utilisé
-Il est utilisé dans presque tous les services de messagerie, les chatbots IA et les outils d'édition en ligne.
+## Profondeur technique et architecture
+Couches :
 
-## Souvent confondu avec
-Il peut être confondu avec le site Web ; Cependant, Web UI fait référence au panneau de contrôle d’une application plutôt qu’au contenu d’un site.
+## Choses fréquemment mélangées
+On pense qu'il s'agit d'un site web. Le site propose du contenu, l'interface utilisateur Web gère l'application. L'un est une brochure, l'autre est un panneau de contrôle.
 
-## Questions fréquentes
-**Internet est-il requis pour utiliser l'interface utilisateur Web ?**
-Oui, car les fonctions de l'interface sont souvent connectées à un serveur distant.
+## Utilisation dans différentes disciplines
+Menu du restaurant : Interface de sélection et de commande.Poste de pilotage : Disposition des indicateurs et des boutons.Contrôle : Panneau de contrôle de l'appareil.
 
-**Est-ce que ça marche dans n'importe quel navigateur ?**
-Il est compatible avec la plupart des navigateurs modernes, mais peut varier en fonction des préférences du développeur.
+## Foire aux questions
+**Internet est-il nécessaire ?**
+Généralement oui. Les fonctions dépendent d'un serveur distant, le mode hors ligne est limité.
+
+**Fonctionne-t-il sur tous les navigateurs ?**
+Sur les navigateurs modernes, oui. Sur les anciennes versions, l'affichage peut être altéré.
+
+**Fonctionne-t-il hors ligne ?**
+Partiellement. Les sections mises en cache s'ouvrent, mais une connexion est nécessaire pour les transactions en direct.
+
+**Quelle est la différence avec une API ?**
+L'API fournit des données à la machine, l'interface Web fournit une interface à l'humain. Les deux fonctionnent ensemble.
 
 
 ## Termes liés

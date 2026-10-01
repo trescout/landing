@@ -1,22 +1,34 @@
 # O que é Output?
 
-São os dados produzidos por um programa de computador ou sistema de inteligência artificial como resultado do processo.
+Output (Türkçe karşılığıyla çıktı), işlem sonucu üretilen veridir.
 
-## Definição
-Saída é o resultado que o sistema produz ao processar a entrada que lhe é fornecida. Pode ser um texto, uma imagem, um arquivo de áudio ou apenas uma mensagem de confirmação. Como TreScout, definimos saída como o produto que o sistema “termina seu trabalho e apresenta a você”.
+## Definição e origem da palavra
+A entrada é processada e o resultado é gerado: Texto, imagem, áudio ou mensagem de confirmação. Desde a resposta da API até a resposta do modelo, cada resultado é uma saída. A entrada é o início, a saída é o resultado.
 
-## Como funciona
-O sistema processa os dados, transforma-os de acordo com regras ou modelos e transmite-os ao utilizador ou a outro sistema.
+## Como conhecer e usar no dia a dia?
+API: Corpo da resposta JSON.Linha de comando: Texto impresso na tela.Modelo: Resposta gerada.
 
-## Onde é usado
-Ele aparece em todos os tipos de software, respostas de API e respostas de modelos de inteligência artificial.
+## Profundidade Técnica e Arquitetura
+Canais de saída:
 
-## Costuma ser confundido com
-Não deve ser confundido com entrada; a entrada é o começo e a saída é o resultado.
+## Coisas frequentemente misturadas
+Não deve ser confundido com entrada. A entrada é o início, a saída é o resultado. Também se confunde com log: o log é um rastro intermediário, a saída é a entrega.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Forno: A massa entra, o pão sai.Fábrica: A peça entra, o produto sai.Exame: A pergunta entra, a pontuação sai.
+
+## Perguntas Frequentes
 **Por que a saída estaria incorreta?**
-Normalmente, se a entrada estiver defeituosa ou a capacidade de processamento do sistema não for suficiente, será produzida uma saída defeituosa.
+Geralmente a entrada está incorreta ou a capacidade é insuficiente. Primeiro a entrada, depois o processo é inspecionado.
+
+**O que é stdout?**
+É o canal onde o programa grava os resultados normais. Os erros vão para um canal separado (stderr), os dois não são misturados.
+
+**A saída do modelo é confiável?**
+Condicional. É útil para rascunhos e sugestões, mas a supervisão humana é essencial para decisões críticas.
+
+**Como o formato de saída é escolhido?**
+Depende do consumidor: JSON para máquinas, texto para humanos. Se ambos forem necessários, são fornecidos endpoints separados.
 
 
 ## Termos relacionados

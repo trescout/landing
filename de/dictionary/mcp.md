@@ -40,13 +40,13 @@ Sein Design ist berechtigungsbasiert, Sie müssen jedoch den Zugriffsbereich des
 
 ## Verwandte Werkzeuge
 - [Langflow](/de/discover/langflow/)
+- [Servers](/de/discover/servers/)
 - [OpenCut](/de/discover/opencut/)
 - [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
 - [Goose](/de/discover/goose/)
 - [Chrome Devtools MCP](/de/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
 - [Claude Howto](/de/discover/claude-howto/)
-- [Openclaude](/de/discover/openclaude/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/mcp/

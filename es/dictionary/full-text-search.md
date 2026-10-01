@@ -1,25 +1,34 @@
 # ¿Qué es Full Text Search?
 
-Es un método de búsqueda detallada que se realiza escaneando todo el contenido de texto de un documento o base de datos, no solo los títulos.
+La búsqueda de texto completo (tam metin arama en su equivalente turco) es un método de búsqueda que encuentra palabras que aparecen en todo el contenido de los documentos.
 
-## Definición
-La búsqueda de texto completo garantiza que la palabra que busca se encuentre dondequiera que aparezca en el documento. Si bien los métodos de búsqueda simples generalmente solo analizan los nombres de archivos, este método analiza cada oración y palabra dentro del documento. Es la forma más eficaz de acceder a la información que buscas, especialmente en archivos de gran tamaño.
+## Definición y origen de la palabra
+Mientras que la búsqueda simple revisa el nombre del archivo, la búsqueda de texto completo escanea cada oración dentro del documento. Es la forma más eficaz de acceder a la información en archivos grandes. Su infraestructura moderna se basa en una estructura llamada índice invertido (inverted index).
 
-## Cómo funciona
-El sistema convierte previamente todo el texto en un índice. Cuando escribe una palabra, este índice enumera instantáneamente en qué documento y dónde se encuentra la información que está buscando.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Búsqueda en el sitio: Buscar un tema en el blog.Correo electrónico: Encontrar un mensaje de hace años.Código: Buscar una función en el repositorio.Derecho: Escanear el archivo de jurisprudencia.
 
-## Dónde se usa
-Se utiliza en motores de búsqueda, sistemas de gestión de bases de datos y archivos de documentos de gran tamaño.
+## Profundidad técnica y arquitectura
+La ruta es la siguiente:
 
-## Suele confundirse con
-Puede confundirse con una búsqueda de metadatos; Mientras que los metadatos solo analizan la información del archivo, este método analiza el contenido.
+## Cosas frecuentemente mezcladas
+Se puede confundir con la búsqueda de metadatos. Los metadatos miran la información del archivo (nombre, fecha, tamaño), la búsqueda de texto completo mira el contenido. Por su parte, la búsqueda vectorial no mira la palabra, sino el significado.
+
+## Uso en diferentes disciplinas
+Biblioteca: Búsqueda de texto completo en lugar de catálogo de fichas.Libro: La sección de índice al final.Archivo: Buscar un tema en una colección de recortes de periódicos.
 
 ## Preguntas frecuentes
 **¿No irá demasiado lento?**
-Da resultados muy rápidos gracias a la indexación creada previamente.
+Da resultados en segundos gracias al índice preestablecido. El escaneo sin índice es lento, por lo que el índice es esencial.
 
 **¿Funciona en todo tipo de archivos?**
-Normalmente funciona con archivos de texto, pero también se puede utilizar en documentos escaneados con OCR.
+Sí, en archivos de los que se puede extraer texto. En documentos escaneados, el texto se obtiene primero mediante OCR.
+
+**¿Los sufijos turcos causan problemas?**
+En el análisis cualitativo, los sufijos se reducen a la raíz. En un motor con poco soporte de idiomas, la precisión disminuye, se requiere una configuración compatible con turco.
+
+**¿Cuándo se necesita la búsqueda vectorial?**
+Cuando se buscan sinónimos y conceptos. Si no se encuentra la palabra clave, entra en juego el vector, ambos juntos son poderosos.
 
 
 ## Términos relacionados

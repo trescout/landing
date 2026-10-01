@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Emulator? · Glossar · TreScout</title>
-<meta name="description" content="Ein Emulator ist eine Software, welche die Hardware-Architektur, Registerstrukturen und den Befehlssatz eines fremden Computersystems nachbildet, sodass darauf ausgelegte Gastprogramme unverändert auf moderner Host-Hardware laufen.">
+<meta name="description" content="Ein Emulator ist eine Systemschicht, die die physische Hardwarearchitektur eines Computers, Mobilgeräts oder einer Spielekonsole softwarebasiert nachbildet">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/emulator/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/emulator/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/emulator/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/emulator.md">
 <meta property="og:title" content="Was ist Emulator?">
-<meta property="og:description" content="Ein Emulator ist eine Software, welche die Hardware-Architektur, Registerstrukturen und den Befehlssatz eines fremden Computersystems nachbildet, sodass darauf ausgelegte Gastprogramme unverändert auf moderner Host-Hardware laufen.">
+<meta property="og:description" content="Ein Emulator ist eine Systemschicht, die die physische Hardwarearchitektur eines Computers, Mobilgeräts oder einer Spielekonsole softwarebasiert nachbildet">
 <meta property="og:url" content="https://trescout.com/de/dictionary/emulator/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,61 +27,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Emulator?">
-<meta name="twitter:description" content="Ein Emulator ist eine Software, welche die Hardware-Architektur, Registerstrukturen und den Befehlssatz eines fremden Computersystems nachbildet, sodass darauf ausgelegte Gastprogramme unverändert auf moderner Host-Hardware laufen.">
+<meta name="twitter:description" content="Ein Emulator ist eine Systemschicht, die die physische Hardwarearchitektur eines Computers, Mobilgeräts oder einer Spielekonsole softwarebasiert nachbildet">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Emulator",
-  "description": "Ein Emulator ist eine Software, welche die Hardware-Architektur, Registerstrukturen und den Befehlssatz eines fremden Computersystems nachbildet, sodass darauf ausgelegte Gastprogramme unverändert auf moderner Host-Hardware laufen.",
+  "description": "Ein Emulator ist eine Systemschicht, die die physische Hardwarearchitektur eines Computers, Mobilgeräts oder einer Spielekonsole softwarebasiert nachbildet, sodass Sie Software von fremden Plattformen auf Ihrem eigenen Gerät ausführen können.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/emulator/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech-Glossar",
+    "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/de/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Worin unterscheidet sich ein Emulator von einer virtuellen Maschine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Eine virtuelle Maschine führt Code direkt auf derselben CPU-Architektur aus; ein Emulator übersetzt Befehle einer völlig fremden Prozessorarchitektur vollständig per Software."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Ist die Programmierung von Emulatoren legal?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ja; das Nachbauen von Hardwarefunktionen mittels Clean-Room-Verfahren ist rechtlich zulässig, solange kein herstellereigener BIOS-Code mitgeliefert wird."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Warum erfordert die Emulation alter Konsolen oft schnelle PCs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Weil zyklengenaue Emulatoren Millionen Rechenschritte des Host-PCs benötigen, um einen einzigen Taktzyklus historischer Spezialbausteine exakt abzubilden."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Was ist QEMU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ein weltweit etablierter Open-Source-Maschinenemulator, der vollständige PC- und Serverarchitekturen für ARM, x86 und RISC-V nachbildet."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,16 +56,16 @@
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
 <div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-19">Zuletzt aktualisiert: 19. September 2026</time></div>
-<h1 class="disc-title">Was ist ein Emulator?</h1>
-<p class="dict-en">Englisch: Emulator · Wortherkunft: lateinisch aemulari (nachahmen, wetteifern)</p>
-<p class="disc-lead">Ein Emulator ist eine Software, welche die Hardware-Architektur, Registerstrukturen und den Befehlssatz eines fremden Computersystems nachbildet, sodass darauf ausgelegte Gastprogramme unverändert auf moderner Host-Hardware laufen.</p>
-<section class="disc-sec"><h2>Konzeptioneller Rahmen, Wortherkunft und Simulator-Abgrenzung</h2><p>Das Wort leitet sich vom lateinischen aemulari ab, was nachahmen bedeutet. Während ein Simulator lediglich das äußere Verhalten eines Systems abbildet (wie ein Flugsimulator die Flugphysik nachahmt, ohne den Bordcomputer nachzubilden), rekonstruiert der Emulator die inneren elektronischen Schaltkreise: CPU-Register, Speicherverwaltung und Grafik-Chipsätze.</p></section>
-<section class="disc-sec"><h2>Rechnerarchitektur und der Befehlszyklus: Fetch-Decode-Execute</h2><p>Im Zentrum jedes Emulators arbeitet eine virtuelle CPU mit Befehlsübersetzung:</p><ul><li><strong>Interpreter-Emulation:</strong> Jeder Befehl des Gastsystems wird einzeln eingelesen, dekodiert und ausgeführt. Sehr präzise, jedoch rechenintensiv.</li><li><strong>Dynamische Übersetzung (JIT-Recompiler):</strong> Ganze Befehlsblöcke einer fremden Architektur (z. B. ARM oder MIPS) werden zur Laufzeit in nativen Host-Code (x86-64) übersetzt und im Cache gehalten.</li><li><strong>Zyklengenaue Emulation (Cycle-Accurate):</strong> Taktgenaue Synchronisation aller Chips, um zeitkritische Hardware-Effekte historischer Konsolen originalgetreu zu erhalten.</li></ul></section>
-<section class="disc-sec"><h2>Einsatzgebiete in Entwicklung, IT-Sicherheit und Unternehmen</h2><p>Wichtige Einsatzbereiche von Emulatoren:</p><ul><li><strong>App-Entwicklung:</strong> Testen von Android- und iOS-Apps auf Desktop-Rechnern ohne physische Smartphones.</li><li><strong>Schadsoftware-Analyse:</strong> Gefahrlose Ausführung verdächtiger Dateien in abgeschirmten virtuellen QEMU-Umgebungen.</li><li><strong>Altsystem-Erhalt:</strong> Weiterbetrieb historischer Kernbankensysteme auf moderner Cloud-Hardware.</li></ul></section>
-<section class="disc-sec"><h2>Rechtliche Aspekte und Urheberrecht</h2><p>Historische Gerichtsentscheidungen (wie Sony vs. Connectix) haben bestätigt, dass die Entwicklung von Emulatoren durch sauberes Reverse Engineering legal ist. Urheberrechtsverletzungen entstehen erst durch die unbefugte Weitergabe geschützter BIOS-Dateien oder urheberrechtlich geschützter Spiele-ROMs.</p></section>
-<div class="dict-analogy">Das Lesen eines Buchs in einer Fremdsprache: Ein Simulator ist eine grobe Zusammenfassung der Handlung; ein Interpreter-Emulator schlägt jedes Wort mühsam im Wörterbuch nach; ein JIT-Recompiler übersetzt ganze Kapitel vorab in Ihre Muttersprache, sodass Sie flüssig lesen können.</div>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Worin unterscheidet sich ein Emulator von einer virtuellen Maschine?</p><p class="dict-faq-a">Eine virtuelle Maschine führt Code direkt auf derselben CPU-Architektur aus; ein Emulator übersetzt Befehle einer völlig fremden Prozessorarchitektur vollständig per Software.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ist die Programmierung von Emulatoren legal?</p><p class="dict-faq-a">Ja; das Nachbauen von Hardwarefunktionen mittels Clean-Room-Verfahren ist rechtlich zulässig, solange kein herstellereigener BIOS-Code mitgeliefert wird.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Warum erfordert die Emulation alter Konsolen oft schnelle PCs?</p><p class="dict-faq-a">Weil zyklengenaue Emulatoren Millionen Rechenschritte des Host-PCs benötigen, um einen einzigen Taktzyklus historischer Spezialbausteine exakt abzubilden.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist QEMU?</p><p class="dict-faq-a">Ein weltweit etablierter Open-Source-Maschinenemulator, der vollständige PC- und Serverarchitekturen für ARM, x86 und RISC-V nachbildet.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/rom/">ROM</a><a href="/de/dictionary/virtual-machines/">Virtual Machines</a><a href="/de/dictionary/apple-silicon/">Apple Silicon</a></div></section>
+<h1 class="disc-title">Was ist <span class="disc-accent">Emulator</span>?</h1>
+<p class="disc-lead">Ein Emulator ist eine Systemschicht, die die physische Hardwarearchitektur eines Computers, Mobilgeräts oder einer Spielekonsole softwarebasiert nachbildet, sodass Sie Software von fremden Plattformen auf Ihrem eigenen Gerät ausführen können.</p>
+<section class="disc-sec"><h2>Konzeptioneller Rahmen, Etymologie und der Unterschied zum Simulator</h2><p>Der Begriff Emulator stammt vom lateinischen Verb „aemulari“ (nachahmen, wetteifern, versuchen gleichzukommen) ab. Im Türkischen wird er technisch als „Öykünücü“ oder „Donanım taklitçisi“ bezeichnet.</p><p>Um Begriffsverwirrungen in der IT-Welt zu vermeiden, muss man drei Begriffe voneinander unterscheiden:</p><ul><li>Simulator (Simulator): Modelliert lediglich das äußere Verhalten, physikalische Gesetze oder API-Aufrufe eines Systems; die zugrunde liegende Hardware wird nicht imitiert. Beispielsweise führt der iOS Simulator in Apple Xcode iOS-Code direkt nativ auf dem x86- oder Apple Silicon-Prozessor Ihres Computers aus; er imitiert keine Hardware-Chips.</li><li>Emulator: Bildet den Prozessor (CPU), den Grafikchip (GPU), die Speicherbusse und die Hardwareregister (Register) des Zielsystems auf Befehlsebene (Instruction-Level) eins zu eins nach. Er übersetzt für eine fremde Architektur kompilierten binären Maschinencode (Binary) Zeile für Zeile in seine eigene Sprache.</li><li>Virtualisierer (Virtualizer): Führt Systeme mit der gleichen Prozessorarchitektur wie der Host in isolierten Partitionen direkt auf der Hardware aus (KVM, VMware ESXi). Da keine Befehlsübersetzung stattfindet, ist er um ein Vielfaches schneller als Emulatoren.</li></ul></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Das ist vergleichbar mit dem Lesen eines technischen Handbuchs, das in einer Fremdsprache verfasst ist. Ein Simulator ist ein Leitfaden, der zusammenfasst, worum es in dem Buch geht; ein interpreterbasierter Emulator ist ein Schüler, der ein Wörterbuch zur Hand nimmt und jeden Satz Wort für Wort langsam übersetzt; ein JIT-Emulator hingegen ist ein Simultandolmetscher, der die Kapitel des Buches professionell von vornherein in seine eigene Sprache übersetzt, Notizen macht und bei den folgenden Lesungen diesen deutschen Text direkt und fließend liest.</div>
+<section class="disc-sec"><h2>Computerarchitektur und der Kernzyklus: Fetch-Decode-Execute</h2><p>Im Herzen eines Emulators befindet sich eine softwaremodellierte virtuelle CPU. Dieser virtuelle Prozessor führt in jedem Taktzyklus drei Schritte aus:</p><ol><li>Holen (Fetch): Liest den nächsten Maschinenbefehl von der virtuellen Speicheradresse, auf die der virtuelle Programmzähler (Program Counter · PC) zeigt.</li><li>Dekodieren: Analysiert den Opcode und die Parameter des Befehls (zum Beispiel MOV RAX, 0x1 oder ADD R1, R2).</li><li>Ausführen (Execute): Simuliert die Logik der Zielhardware auf dem Host-Computer und aktualisiert die virtuellen Register und Flags.</li></ol><p>Befehlsausführungsmethoden:</p><ul><li>Interpreter: Jeder Maschinenbefehl wird einzeln innerhalb einer switch-case-Schleife gelesen und der entsprechende C/Rust-Code aufgerufen. Die Entwicklung ist einfach und die Taktzyklusgenauigkeit ist hoch, jedoch wird die CPU übermäßig beansprucht (langsam).</li><li>Dynamische Rekompilierung (JIT · Just-In-Time Recompiler): Das Geheimnis der hohen Leistung moderner Emulatoren (Dolphin, RPCS3, QEMU). Fremde Maschinencode-Blöcke werden zur Laufzeit analysiert, in einem Durchgang in den nativen Maschinencode der Haupt-CPU (Host-CPU) übersetzt und im Arbeitsspeicher zwischengespeichert. Dadurch sinken die Übersetzungskosten auf null, wenn dieselbe Schleife erneut ausgeführt wird.</li><li>Taktgenauigkeit (Cycle Accuracy): Bei einigen Retro-Konsolen (Game Boy, SNES) haben Spieleentwickler den Sound-Chip und die Rasterzeilen auf Nanosekundenebene mit dem Hardware-Takt synchronisiert. Um diese Geräte fehlerfrei zu emulieren, muss jeder von einem Befehl verbrauchte CPU-Taktzyklus ohne Verzögerung berechnet werden.</li></ul></section>
+<section class="disc-sec"><h2>Entwickler-, Sicherheits- und Unternehmensanwendungsbereiche</h2><p>Emulatoren bringen nicht nur Retro-Konsolenspiele auf moderne Bildschirme; sie sind auch entscheidende Werkzeuge der modernen Softwaretechnik:</p><ul><li>Mobile App-Entwicklung: Der Android Studio Emulator nutzt im Hintergrund den QEMU-Hypervisor und ermöglicht es Entwicklern, ihren Code auf Hunderten verschiedener Hardware- und Bildschirmkonfigurationen zu testen, ohne ein echtes Telefon kaufen zu müssen.</li><li>Cross-Architektur-Übergänge (Binary Translation): Rosetta 2, das Apple beim Wechsel von Intel-Prozessoren auf die ARM-Architektur eingeführt hat, ist im Grunde eine hochentwickelte AOT- (Ahead-of-Time) und JIT-Binärübersetzungs-Engine. Sie führt für Intel geschriebene x86_64-Anwendungen auf Apple Silicon mit nahezu verlustfreier Geschwindigkeit aus.</li><li>Cybersicherheit und Schadsoftware-Analyse (Sandbox-Emulation): Sicherheitsanalysten führen eine verdächtige Ransomware auf einer emulierten virtuellen CPU aus, anstatt sie direkt auf einem physischen Computer zu öffnen. Speicherzugriffe und Systemaufrufe (Syscalls) werden dabei Schritt für Schritt überwacht.</li><li>Legacy-Modernisierung: In den Bereichen Bankwesen, Verteidigung und öffentliche Infrastruktur werden IBM-Mainframes oder DEC-VAX-Systeme aus den 1980er-Jahren mithilfe von Emulatoren auf modernen Linux-Servern ohne Betriebsunterbrechung weiterbetrieben.</li></ul></section>
+<section class="disc-sec"><h2>Rechtlicher Aspekt und Urheberrechte</h2><p>Die Legalität der Emulatorenentwicklung wurde weltweit durch Präzedenzfälle anerkannt:</p><ul><li>Sony v. Connectix (2000) und Sony v. Bleem!: Die Gerichte entschieden, dass es rechtmäßig ist und unter den Begriff der fairen Verwendung (Fair Use) fällt, die Funktionsweise einer Hardware durch Reverse Engineering mittels Clean-Room-Verfahren in Software zu übertragen.</li><li>Urheberrechtlicher Hinweis: Die Emulationssoftware selbst ist legal. Das unbefugte Kopieren oder Herunterladen von urheberrechtlich geschützten BIOS-Dateien des Zielgeräts oder von urheberrechtlich geschützten Spiel- bzw. Software-ROMs aus dem Internet stellt jedoch eine Urheberrechtsverletzung dar.</li></ul></section>
+<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Was bedeutet Emulator und wie lautet die türkische Entsprechung?</p><p class="dict-faq-a">Der vom englischen Wort „Emulator“ abgeleitete Begriff bedeutet im Türkischen Emulator oder Hardware-Nachahmer. Es handelt sich um ein System, das die Hardware-Komponenten eines Geräts durch Software nachahmt, um Software fremder Plattformen auszuführen.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist der Hauptunterschied zwischen einem Emulator und einem Simulator?</p><p class="dict-faq-a">Während ein Simulator lediglich das Verhalten und die Logik des Systems nachahmt, kopiert ein Emulator den Prozessor, den Speicherbus und den Maschinencode der Zielhardware auf Befehlsebene eins zu eins in Software.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie funktioniert ein JIT-Compiler (Just-In-Time) bei der Emulation?</p><p class="dict-faq-a">Er übersetzt die Maschinencodeblöcke des fremden Prozessors zur Laufzeit in den lokalen Maschinencode des eigenen Computers und speichert sie im Cache. Dadurch wird der Code bei der zweiten Ausführung mit nativer Geschwindigkeit ausgeführt.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ist die Entwicklung und Nutzung von Emulatoren legal?</p><p class="dict-faq-a">Ja, Emulatoren, die nach dem Prinzip des Clean-Room-Reverse-Engineering geschrieben wurden, sind völlig legal. Das unbefugte Verteilen urheberrechtlich geschützter BIOS-Dateien des Geräts oder urheberrechtlich geschützter ROM-Kopien von Spielen stellt jedoch eine Urheberrechtsverletzung dar.</p></div></div></section>
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/rom/">ROM</a><a href="/de/dictionary/sandbox/">Sandbox</a><a href="/de/dictionary/virtual-machines/">Virtual Machines</a><a href="/de/dictionary/assembly/">Assembly</a><a href="/de/dictionary/runtime/">Runtime</a><a href="/de/dictionary/apple-silicon/">Apple Silicon</a></div></section>
+<section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/cool-retro-term/">Cool Retro Term</a><a href="/de/discover/sharpemu/">Sharpemu</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="emulator" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/emulator/">Auf Türkisch lesen →</a></p>
 </article>

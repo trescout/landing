@@ -2,20 +2,32 @@
 
 > Input/Output
 
-O processo pelo qual um sistema de computador recebe e envia dados para o mundo exterior.
+I/O (Input/Output, entrada/saída) é a troca de dados do sistema com o mundo exterior.
 
-## Definição
-E/S é um processo de E/S quando um computador recebe texto do teclado, baixa dados da Internet ou imprime algo na tela. O sistema estabelece todos os tipos de comunicação com o mundo exterior através deste canal. É como os “sentidos e as mãos” do computador.
+## Definição e origem da palavra
+Digitação no teclado, arquivo baixado, resultado exibido na tela: Tudo isso é operação de E/S. O sistema conversa com o mundo exterior através deste canal. É como os sentidos e as mãos do computador.
 
-## Como funciona
-Os dados entram no sistema a partir de dispositivos de entrada (teclado, sensor), são processados ​​pelo processador e enviados para dispositivos de saída (visor, alto-falantes).
+## Como conhecer e usar no dia a dia?
+Teclado: Entrada de texto.Rede: Download de arquivo.Tela: Exibição de resultado.
 
-## Onde é usado
-É um conceito fundamental em todos os programas de computador e interações de hardware.
+## Profundidade Técnica e Arquitetura
+Conceitos:
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Humano: Entrada por olhos e ouvidos, saída por fala.Restaurante: Entrada de pedido, saída de atendimento.Fábrica: Entrada de matéria-prima, saída de produto.
+
+## Perguntas Frequentes
 **Por que a E/S é um gargalo?**
-Mesmo que o processador funcione muito rápido, se a velocidade de entrada ou saída de dados (por exemplo, velocidade do disco) for lenta, o sistema terá que esperar.
+O processador é rápido, o disco e a rede são lentos. Quando os dados não chegam a tempo, o sistema espera e o gargalo surge aqui.
+
+**O que é bloqueio (blocking)?**
+É uma chamada que aguarda até que o resultado chegue. Ela trava a interface e desperdiça trabalho no servidor.
+
+**Como acelerar?**
+Com cache, leitura em lote e chamadas assíncronas. Primeiro mede-se, depois conserta-se o elo mais fraco.
+
+**O que o Async tem a ver com isso?**
+É um mecanismo para realizar outro trabalho durante a espera. Permite lidar com muitas tarefas usando uma única thread.
 
 
 ## Termos relacionados

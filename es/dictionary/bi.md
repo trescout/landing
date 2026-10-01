@@ -2,26 +2,35 @@
 
 > Business Intelligence
 
-Son herramientas de análisis que respaldan las decisiones comerciales al transformar datos sin procesar en informes significativos.
+BI (Business Intelligence, inteligencia de negocios) es la disciplina que transforma datos brutos en informes que sirven de apoyo a la toma de decisiones.
 
-## Definición
-La inteligencia empresarial transforma sus datos complejos y masivos en gráficos visuales e informes resumidos. De esta forma, las empresas ven con mayor claridad lo que ha pasado en el pasado y lo que puede pasar en el futuro. No es sólo una herramienta de recopilación de datos, sino también una guía para la toma de decisiones estratégicas.
+## Definición y origen de la palabra
+Los montones de datos complejos se convierten en gráficos y resúmenes. La contabilidad del pasado y la previsión del futuro se leen desde estas pantallas. No es una herramienta de recolección, sino una guía para la toma de decisiones.
 
-## Cómo funciona
-Primero, los datos se recopilan de diferentes fuentes y luego se limpian y organizan. En la etapa final, las herramientas de BI visualizan estos datos en las pantallas que llamamos paneles de control. Puede optimizar sus ventas u operaciones mirando estas pantallas.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Finanzas: Informes de cierre mensual.Ventas: Desglose por región y producto.Operaciones: Seguimiento de inventario y entregas.
 
-## Dónde se usa
-Se utiliza con frecuencia en los informes financieros de las empresas, en las previsiones de ventas y en los análisis del comportamiento de los clientes.
+## Profundidad técnica y arquitectura
+Línea:
 
-## Suele confundirse con
-Es similar al análisis de datos, pero BI se centra más en gestionar el estado pasado y actual.
+## Cosas frecuentemente mezcladas
+Se confunde con el análisis de datos. La analítica hace preguntas, el BI da respuestas regulares. Uno es descubrimiento, el otro es orden de informes.
+
+## Uso en diferentes disciplinas
+Chef: Crear un menú a partir de los ingredientes.Panel de control: Información de velocidad y combustible.Pronóstico del tiempo: Generar predicciones a partir de mediciones.
 
 ## Preguntas frecuentes
 **¿Por qué es importante la BI?**
-Le permite tomar decisiones basadas en datos, no en conjeturas.
+Permite tomar decisiones basadas en datos en lugar de suposiciones. Hace que el pasado sea visible y el futuro planificable.
 
 **¿Cualquiera puede utilizar BI?**
-Sí, hoy en día existen herramientas de BI muy sencillas que funcionan con el método de arrastrar y soltar.
+Sí. Con herramientas de arrastrar y soltar, las unidades de negocio crean sus propios informes.
+
+**¿Qué herramientas se utilizan?**
+Power BI, Tableau, Metabase y Looker son comunes. La elección se hace según la fuente de datos y el presupuesto.
+
+**¿Es necesario para una empresa pequeña?**
+En su forma más simple, sí. Incluso un solo informe de hoja de cálculo es un comienzo para el BI.
 
 
 ## Términos relacionados

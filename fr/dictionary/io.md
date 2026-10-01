@@ -2,20 +2,32 @@
 
 > Input/Output
 
-Processus par lequel un système informatique reçoit et envoie des données au monde extérieur.
+I/O (Input/Output, entrée/sortie) correspond aux échanges de données entre le système et le monde extérieur.
 
-## Définition
-Les E/S sont un processus d'E/S lorsqu'un ordinateur reçoit du texte du clavier, télécharge des données depuis Internet ou imprime quelque chose à l'écran. Le système établit toutes sortes de communications avec le monde extérieur via ce canal. C'est comme les « sens et les mains » de l'ordinateur.
+## Définition et origine du mot
+Saisie au clavier, téléchargement de fichier, résultat affiché à l'écran : tout cela relève des E/S. Le système communique avec le monde extérieur par ce canal. C'est comme les sens et les mains de l'ordinateur.
 
-## Comment ça marche
-Les données pénètrent dans le système à partir des périphériques d'entrée (clavier, capteur), sont traitées par le processeur et envoyées aux périphériques de sortie (écran, haut-parleurs).
+## Comment connaître et utiliser dans la vie quotidienne ?
+Clavier : Saisie de texte.Réseau : Téléchargement de fichier.Écran : Affichage des résultats.
 
-## Où est-ce utilisé
-Il s’agit d’un concept fondamental dans tous les programmes informatiques et interactions matérielles.
+## Profondeur technique et architecture
+Concepts :
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Humain : Entrée par les yeux et les oreilles, sortie par la parole.Restaurant : Prise de commande à l'entrée, service à la sortie.Usine : Entrée de matières premières, sortie de produits finis.
+
+## Foire aux questions
 **Pourquoi les E/S constituent-elles un goulot d'étranglement ?**
-Même si le processeur fonctionne très vite, si la vitesse d'entrée ou de sortie des données (par exemple la vitesse du disque) est lente, le système doit attendre.
+Le processeur est rapide, le disque et le réseau sont lents. Lorsque les données ne suivent pas, le système attend, c'est là que le goulot d'étranglement se produit.
+
+**Qu'est-ce que le blocage ?**
+C'est un appel qui attend qu'un résultat arrive. Il bloque l'interface et gaspille des ressources sur le serveur.
+
+**Comment l'accélérer ?**
+Grâce au cache, à la lecture par lots et aux appels asynchrones. On mesure d'abord, puis on corrige le maillon le plus faible.
+
+**Quel est le rapport avec l'asynchrone ?**
+C'est un système qui permet d'effectuer d'autres tâches pendant l'attente. Il permet de gérer de multiples tâches avec un seul thread.
 
 
 ## Termes liés

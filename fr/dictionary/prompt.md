@@ -1,22 +1,34 @@
 # Qu'est-ce que Prompt ?
 
-Il s’agit d’une instruction écrite utilisée pour demander à l’IA d’effectuer une tâche précise ou de répondre à une question.
+Un prompt (avec son équivalent turc istem) est une instruction écrite donnée au modèle.
 
-## Définition
-L'invite est la base de votre communication avec l'intelligence artificielle. Lorsque vous dites « Parlez-moi de ça » à un modèle d’intelligence artificielle, cette phrase devient une invite. La qualité de l’invite affecte directement l’exactitude et la pertinence de la réponse donnée par l’intelligence artificielle.
+## Définition et origine du mot
+Un « prompt » signifie une instruction. C'est la base de la communication : une instruction claire génère une réponse claire. Il s'écrit avec le trio rôle, contexte et format.
 
-## Comment ça marche
-Vous pouvez poser une question directe, donner un contexte ou ajouter des contraintes telles que « réponse dans ce format ». Une bonne invite clarifie ce que l'IA devrait et ne devrait pas faire.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Discussion : Poser des questions et attribuer des tâches.Visuel : Description de la scène.Code: Description du poste.
 
-## Où est-ce utilisé
-Il est utilisé dans toutes les interfaces d'intelligence artificielle productives telles que ChatGPT, Claude, Midjourney.
+## Profondeur technique et architecture
+Modèle :
 
-## Souvent confondu avec
-Il peut être confondu avec Prompt Engineering ; Bien que l'invite soit une instruction unique, l'ingénierie rapide est l'art d'optimiser ces instructions.
+## Choses fréquemment mélangées
+On croit que c'est de l'ingénierie. Un prompt est une instruction unique, l'ingénierie est l'art de l'optimisation. L'un est une phrase, l'autre est un métier.
 
-## Questions fréquentes
-**Qu'est-ce qu'une mauvaise invite ?**
-Ce sont des instructions très courtes, vagues ou manquant de contexte. Par exemple, le simple fait de dire « écrire » empêchera l'IA de savoir quoi écrire.
+## Utilisation dans différentes disciplines
+Liste : Bon de travail.Commande : Ticket de cuisine.Recette : Instruction mesurée.
+
+## Foire aux questions
+**Qu'est-ce qu'une mauvaise instruction ?**
+C'est celle qui est courte, ambiguë et sans contexte. Une requête sans mesure part dans tous les sens.
+
+**Longue ou courte ?**
+Juste ce qu'il faut. Le contexte et les limites nécessaires sont fournis, sans verbiage inutile.
+
+**Est-ce possible en français ?**
+Oui. Le modèle comprend le français et une attention particulière est portée à la cohérence des termes.
+
+**Est-ce enregistré ?**
+Cela dépend du service. Il convient de lire la politique avant de saisir des données sensibles.
 
 
 ## Termes liés
@@ -25,9 +37,11 @@ Ce sont des instructions très courtes, vagues ou manquant de contexte. Par exem
 - [AI Agent](/fr/dictionary/ai-agent/)
 
 ## Outils liés
+- [OmniRoute](/fr/discover/omniroute/)
 - [AI Engineering from Scratch](/fr/discover/ai-engineering-from-scratch/)
 - [Awesome Gpt Image 2](/fr/discover/awesome-gpt-image-2/)
 - [Flue](/fr/discover/flue/)
+- [Codex-X](/fr/discover/codex-x/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/prompt/

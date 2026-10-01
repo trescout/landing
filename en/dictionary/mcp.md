@@ -40,13 +40,13 @@ Its design is permission-based, but you need to keep the server's access scope n
 
 ## Related tools
 - [Langflow](/en/discover/langflow/)
+- [Servers](/en/discover/servers/)
 - [OpenCut](/en/discover/opencut/)
 - [AI Engineering from Scratch](/en/discover/ai-engineering-from-scratch/)
 - [Goose](/en/discover/goose/)
 - [Chrome Devtools MCP](/en/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
 - [Claude Howto](/en/discover/claude-howto/)
-- [Openclaude](/en/discover/openclaude/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mcp/

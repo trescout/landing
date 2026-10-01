@@ -1,19 +1,31 @@
 # O que é Claude Code Templates?
 
-Rascunhos prontos que as ferramentas de codificação com tecnologia de IA fornecem para lançar rapidamente determinados projetos.
+Os modelos do Claude Code são esqueletos de arquivos prontos que aceleram a inicialização de projetos com o Claude Code.
 
-## Definição
-Esses modelos criam automaticamente a estrutura básica de arquivos e as configurações necessárias ao iniciar um projeto. Torna mais fácil para o assistente de IA entender que tipo de aplicação é o projeto. Assim, em vez de partir de uma página em branco, você parte de um esqueleto pronto.
+## Definição e origem da palavra
+Template significa modelo. Em vez de começar a partir de uma página em branco, usa-se uma estrutura base: a estrutura de diretórios, as configurações e o arquivo de diretrizes vêm prontos. O assistente compreende o tipo de projeto a partir dessa estrutura, tornando as suas recomendações mais precisas.
 
-## Como funciona
-Você informa à sua ferramenta de IA o tipo de projeto e ela prepara os arquivos necessários para você usando o modelo relevante.
+## Como conhecer e usar no dia a dia?
+Protótipo: Teste rápido de ideias.Padrão: Mesmo esqueleto dentro da equipe.Aprendizado: Aprender regras através de exemplos.
 
-## Onde é usado
-É utilizado no início de um novo projeto de software, principalmente nas etapas de prototipagem rápida.
+## Profundidade Técnica e Arquitetura
+Esqueleto típico:
 
-## Perguntas frequentes
-**Esses modelos podem ser personalizados?**
-Sim, a maioria dos modelos pode ser modificada posteriormente para atender às necessidades do projeto.
+## Use em diferentes disciplinas
+Pré-fabricado: Estrutura com fundação pronta.Molde de alfaiate: Modelo de corte para o corpo.Receita culinária: Kit inicial com medidas.
+
+## Perguntas Frequentes
+**Os modelos podem ser personalizados?**
+Sim. O esqueleto é o ponto de partida; ele é podado e expandido de acordo com o projeto.
+
+**Onde ele é encontrado?**
+Nos repositórios da comunidade e na documentação das ferramentas. A origem e a atualidade são verificadas.
+
+**São confiáveis?**
+Depende da origem. Um esqueleto desconhecido não é executado cegamente; seu conteúdo é lido.
+
+**Posso escrever o meu próprio?**
+Sim. O esqueleto da equipe é o mais valioso, ele renasce.
 
 
 ## Termos relacionados

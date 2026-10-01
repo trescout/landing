@@ -1084,7 +1084,7 @@
     "tagline_pt": "Insira um tópico e a IA produzirá vídeos curtos com legendas com um clique.",
     "tagline_es": "Ingrese un tema y la IA producirá videos cortos con subtítulos con un solo clic.",
     "tagline_de": "Geben Sie ein Thema ein und die KI erstellt mit einem Klick kurze Videos mit Untertiteln.",
-    "last_seen": "2026-08-22",
+    "last_seen": "2026-10-01",
     "cmds": {
       "kurulum": [
         {
@@ -1109,13 +1109,13 @@
     "slug": "heretic",
     "title": "Heretic",
     "tagline": "Dil modellerindeki güvenlik kısıtlarını kaldıran ileri düzey araç.",
-    "meta": "★ 31.068 · AGPL-3.0",
+    "meta": "★ 32.626 · AGPL-3.0",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 31068,
+    "stars": 32626,
     "image": "/assets/discover/og/heretic.webp",
     "headline": "Dil Modellerinde Güvenlik Sınırlarını Aşın",
     "last_review": "2026-10-01",
@@ -1138,6 +1138,13 @@
         "tarih": "2026-09-10",
         "yildiz": 31068,
         "onceki_yildiz": 29513,
+        "surum": "v1.4.0",
+        "surum_tarihi": "2026-06-14"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 32626,
+        "onceki_yildiz": 31068,
         "surum": "v1.4.0",
         "surum_tarihi": "2026-06-14"
       }
@@ -12683,7 +12690,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 54.919 · TypeScript",
+    "meta": "★ 54.998 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -12691,7 +12698,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 54919,
+    "stars": 54998,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-01",
@@ -13017,6 +13024,13 @@
         "onceki_yildiz": 54828,
         "surum": "v0.8.103",
         "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 54998,
+        "onceki_yildiz": 54919,
+        "surum": "v0.8.104",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -13024,7 +13038,7 @@
     "tagline_pt": "Desenvolvido pela Heygen, o Hyperframes oferece uma estrutura que converte códigos HTML diretamente em vídeo.",
     "tagline_es": "Desarrollado por Heygen, Hyperframes ofrece un marco que convierte códigos HTML directamente en video.",
     "tagline_de": "Hyperframes wurde von Heygen entwickelt und bietet ein Framework, das HTML-Codes direkt in Videos umwandelt.",
-    "last_seen": "2026-09-09"
+    "last_seen": "2026-10-01"
   },
   {
     "slug": "firecrawl",
@@ -23980,7 +23994,7 @@
         "onceki_yildiz": 72557
       }
     ],
-    "last_seen": "2026-08-27"
+    "last_seen": "2026-10-01"
   },
   {
     "slug": "cloudflare-temp-email",
@@ -31887,7 +31901,7 @@
         "surum_tarihi": "2026-04-20"
       }
     ],
-    "last_seen": "2026-09-28"
+    "last_seen": "2026-10-01"
   },
   {
     "slug": "omlx",
@@ -34766,7 +34780,7 @@
         }
       }
     },
-    "last_seen": "2026-09-07",
+    "last_seen": "2026-10-01",
     "guncellemeler": [
       {
         "tarih": "2026-08-27",
@@ -36501,7 +36515,7 @@
     "tagline_pt": "VoiceStudio é uma ferramenta de código aberto que realiza processos como clonagem de voz, dublagem e transcrição sem a necessidade de internet...",
     "tagline_es": "VoiceStudio es una herramienta de código abierto que realiza procesos como clonación de voz, doblaje y transcripción sin necesidad de internet...",
     "tagline_de": "VoiceStudio ist eine Open-Source-Anwendung, die Aufgaben wie Stimmenklonen, Synchronisation und Transkription ohne Internetverbindung durchführt...",
-    "last_seen": "2026-09-30"
+    "last_seen": "2026-10-01"
   },
   {
     "slug": "sequoia-x",
@@ -37400,7 +37414,7 @@
     "tagline_pt": "Context-mode é uma ferramenta que fornece otimização da janela de contexto para agentes de codificação de inteligência artificial...",
     "tagline_es": "Context-mode es una herramienta que proporciona optimización de la ventana de contexto para agentes de codificación de inteligencia artificial...",
     "tagline_de": "Context-mode ist ein Tool, das eine Optimierung des Kontextfensters (context window optimization) für KI-Codierungs-Agenten bietet...",
-    "last_seen": "2026-09-09"
+    "last_seen": "2026-10-01"
   },
   {
     "slug": "camofox-browser",
@@ -40589,7 +40603,7 @@
       "Geliştirici aracı"
     ],
     "stars": 64308,
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-01",
     "summary": "byoungd/up, yazılım geliştirme süreçlerinden dil öğrenimine kadar geniş bir yelpazede kişisel gelişim kaynakları sunan kapsamlı bir rehberdir. Özellikle yapay zekâ (artificial intelligence) araçlarını verimli kullanma ve İngilizce öğrenme yöntemleri üzerine odaklanan pratik ipuçları içerir.",
     "lite": false,
     "headline": "Yapay zekâ çağında öğrenme rehberi",
@@ -40615,7 +40629,7 @@
       "Geliştirici aracı"
     ],
     "stars": 3117,
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
     "headline": "Yapay zekâ ajanlarını tek sistemde yönetin",
@@ -40676,7 +40690,7 @@
       "Geliştirici aracı"
     ],
     "stars": 12978,
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "summary": "NVIDIA tarafından geliştirilen OpenShell, otonom yapay zekâ ajanları için güvenli ve gizlilik odaklı bir çalışma zamanı (runtime) ortamı sunuyor. Rust diliyle yazılan bu altyapı, ajanların sistem kaynaklarına erişimini izole ederek güvenli bir yürütme alanı oluşturmayı amaçlıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için güvenli ortam",
@@ -40723,7 +40737,7 @@
       "Geliştirici aracı"
     ],
     "stars": 22868,
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "summary": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.",
     "lite": false,
     "headline": "Hafif veritabanı istemcisi",
@@ -40769,7 +40783,7 @@
       "Geliştirici aracı"
     ],
     "stars": 36716,
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
     "summary": "PageIndex, vektör tabanlı arama yöntemlerine ihtiyaç duymadan akıl yürütme yeteneğiyle çalışan bir belge indeksleme aracıdır. Geleneksel vektör veritabanları (Vector Databases) yerine metin tabanlı mantıksal çıkarım kullanarak RAG (Geri Getirme Destekli Üretim) süreçlerini optimize eder.",
     "lite": false,
     "headline": "Vektör tabanlı olmayan yapay zekâ belge arama motoru",
@@ -40854,5 +40868,138 @@
     "tagline_pt": "Desenvolvido na linguagem Go, o hey é uma ferramenta de teste de carga usada para medir o desempenho de servidores web.",
     "tagline_es": "Desarrollado en el lenguaje Go, hey es una herramienta de prueba de carga utilizada para medir el rendimiento de los servidores web.",
     "tagline_de": "Das in der Go-Programmiersprache entwickelte hey ist ein Lasttest-Tool, das zur Messung der Leistung von Webservern verwendet wird."
+  },
+  {
+    "slug": "openclaw",
+    "title": "Openclaw",
+    "tagline": "Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır.",
+    "meta": "★ 391.115 · TypeScript",
+    "image": "/assets/discover/og/openclaw.webp",
+    "source": "GitHub",
+    "date": "2026-10-01",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 391115,
+    "last_seen": "2026-10-01",
+    "summary": "Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır. TypeScript ile geliştirilen bu yazılım, kullanıcıların bilgisayar üzerindeki işlemleri standartlaştırmasını ve otomatize etmesini sağlar.",
+    "lite": false,
+    "headline": "Cihazınızda çalışan kişisel yapay zekâ asistanı",
+    "last_review": "2026-10-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 391115,
+        "onceki_yildiz": 391111,
+        "surum": "v2026.9.7",
+        "surum_tarihi": "2026-09-30"
+      }
+    ],
+    "tagline_en": "Openclaw is an AI-based automation tool that can perform tasks across different operating systems and platforms.",
+    "tagline_fr": "Openclaw est un outil d'automatisation basé sur l'intelligence artificielle capable d'exécuter des tâches sur différents systèmes d'exploitation et plateformes.",
+    "tagline_pt": "O Openclaw é uma ferramenta de automação baseada em inteligência artificial capaz de executar tarefas em diferentes sistemas operacionais e plataformas.",
+    "tagline_es": "Openclaw es una herramienta de automatización basada en inteligencia artificial capaz de realizar tareas en diferentes sistemas operativos y plataformas.",
+    "tagline_de": "Openclaw ist ein KI-basiertes Automatisierungstool, das Aufgaben auf verschiedenen Betriebssystemen und Plattformen ausführen kann."
+  },
+  {
+    "slug": "firebase-ios-sdk",
+    "title": "Firebase Ios SDK",
+    "tagline": "Google tarafından sunulan mobil geliştirme platformu Firebase, Apple cihazları için hazırlanan uygulamalara veri tabanı ve…",
+    "meta": "★ 6.801 · C++",
+    "image": "/assets/discover/og/firebase-ios-sdk.webp",
+    "source": "GitHub",
+    "date": "2026-10-01",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 6801,
+    "last_seen": "2026-10-01",
+    "summary": "Google tarafından sunulan mobil geliştirme platformu Firebase, Apple cihazları için hazırlanan uygulamalara veri tabanı ve kimlik doğrulama gibi bulut hizmetleri eklemeyi sağlayan bir yazılım geliştirme kiti (SDK) sunuyor. Bu araç, geliştiricilerin Apple ekosistemi üzerinde çalışan uygulamalarında arka uç (backend) süreçlerini yönetmelerini kolaylaştırıyor.",
+    "lite": false,
+    "headline": "Apple uygulamaları için firebase kütüphaneleri",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-10-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 6801,
+        "onceki_yildiz": 6801,
+        "surum": "12.19.2",
+        "surum_tarihi": "2026-09-15"
+      }
+    ],
+    "tagline_en": "Firebase, the mobile development platform offered by Google, provides database and… for applications built for Apple devices.",
+    "tagline_fr": "Firebase, la plateforme de développement mobile proposée par Google, fournit une base de données et… aux applications préparées pour les appareils Apple.",
+    "tagline_pt": "O Firebase, uma plataforma de desenvolvimento móvel oferecida pelo Google, oferece banco de dados e… para aplicativos desenvolvidos para dispositivos Apple.",
+    "tagline_es": "Firebase, la plataforma de desarrollo móvil ofrecida por Google, proporciona a las aplicaciones preparadas para dispositivos Apple bases de datos y...",
+    "tagline_de": "Firebase, die von Google angebotene mobile Entwicklungsplattform, bietet für Apple-Geräte entwickelte Anwendungen Datenbank- und..."
+  },
+  {
+    "slug": "servers",
+    "title": "Servers",
+    "tagline": "Model Context Protocol (MCP) sunucuları, üretken yapay zekâ modellerinin harici veri kaynaklarına ve araçlara standart bir…",
+    "meta": "★ 90.905 · TypeScript",
+    "image": "/assets/discover/og/servers.webp",
+    "source": "GitHub",
+    "date": "2026-10-01",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 90905,
+    "last_seen": "2026-10-01",
+    "summary": "Model Context Protocol (MCP) sunucuları, üretken yapay zekâ modellerinin harici veri kaynaklarına ve araçlara standart bir arayüz üzerinden erişmesini sağlıyor. Bu protokol, farklı yapay zekâ uygulamalarının veri tabanları veya yazılım araçlarıyla güvenli ve tutarlı bir şekilde bağlantı kurmasına olanak tanıyor.",
+    "lite": false,
+    "headline": "Yapay zekâ ajanları için örnek sunucular",
+    "last_review": "2026-10-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 90905,
+        "onceki_yildiz": 90906,
+        "surum": "2026.8.31",
+        "surum_tarihi": "2026-08-31"
+      }
+    ],
+    "tagline_en": "Model Context Protocol (MCP) servers provide generative AI models with a standard… to external data sources and tools.",
+    "tagline_fr": "Les serveurs Model Context Protocol (MCP) offrent aux modèles d'intelligence artificielle générative un accès standardisé aux sources de données externes et aux outils…",
+    "tagline_pt": "Os servidores do Model Context Protocol (MCP) oferecem aos modelos de inteligência artificial generativa um… padrão para fontes de dados e ferramentas externas.",
+    "tagline_es": "Los servidores del Model Context Protocol (MCP) proporcionan un estándar para conectar modelos de inteligencia artificial generativa con fuentes de datos externas y...",
+    "tagline_de": "Model Context Protocol (MCP)-Server bieten generativen KI-Modellen einen standardisierten... für externe Datenquellen und Tools."
+  },
+  {
+    "slug": "codegraph",
+    "title": "Codegraph",
+    "tagline": "Codegraph, kod tabanlarını önceden dizinleyerek yapay zekâ modellerine sunan yerel bir bilgi grafiği (knowledge graph) aracıdır.",
+    "meta": "★ 72.721 · C",
+    "image": "/assets/discover/og/codegraph.webp",
+    "source": "GitHub",
+    "date": "2026-10-01",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 72721,
+    "last_seen": "2026-10-01",
+    "summary": "Codegraph, kod tabanlarını önceden dizinleyerek yapay zekâ modellerine sunan yerel bir bilgi grafiği (knowledge graph) aracıdır. Kod değişikliklerini otomatik eşitleyerek Claude Code veya Cursor gibi kodlama asistanlarının daha az belirteç (token) ve araç çağrısı kullanmasını sağlar.",
+    "lite": false,
+    "headline": "Kod tabanınızı yapay zekâya haritalandırın",
+    "last_review": "2026-10-01",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 72721,
+        "onceki_yildiz": 72718,
+        "surum": "v1.6.1",
+        "surum_tarihi": "2026-09-29"
+      }
+    ],
+    "tagline_en": "Codegraph is a local knowledge graph tool that pre-indexes codebases and presents them to AI models.",
+    "tagline_fr": "Codegraph est un outil de graphe de connaissances (knowledge graph) local qui indexe préalablement les bases de code pour les présenter aux modèles d'intelligence artificielle.",
+    "tagline_pt": "O Codegraph é uma ferramenta local de grafo de conhecimento (knowledge graph) que pré-indexa bases de código e as fornece a modelos de inteligência artificial.",
+    "tagline_es": "Codegraph es una herramienta de grafo de conocimiento local que indexa previamente las bases de código para ponerlas a disposición de los modelos de inteligencia artificial.",
+    "tagline_de": "Codegraph ist ein lokales Wissensgraph-Tool (Knowledge Graph), das Codebasen vorab indiziert und KI-Modellen bereitstellt."
   }
 ]

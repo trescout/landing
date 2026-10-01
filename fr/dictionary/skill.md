@@ -1,25 +1,34 @@
 # Qu'est-ce que Skill ?
 
-Il s’agit d’un ensemble de compétences spécialisées que les assistants en intelligence artificielle utilisent pour effectuer un travail ou une tâche spécifique.
+Une compétence (skill en anglais), dans sa correspondance turque, est une unité définie qui permet à un assistant d'intelligence artificielle d'accomplir des tâches à l'aide d'un outil externe.
 
-## Définition
-Dans le monde de l’intelligence artificielle, un assistant ne suffit pas pour parler d’une manière générale ; parfois, il a besoin de lire un fichier ou de rechercher sur Internet. Nous appelons chacune de ces fonctions spéciales compétences. Ces capacités permettent à l'assistant d'interagir avec le monde extérieur en allant au-delà des capacités linguistiques standard.
+## Définition et origine du mot
+La conversation générale de l'assistant ne suffit pas ; il doit parfois lire des fichiers ou effectuer des recherches. Chacune de ces fonctions spécifiques est définie comme une compétence. Le concept est passé de l'ère des assistants vocaux à celle des agents : des compétences d'Alexa aux capacités des agents d'aujourd'hui.
 
-## Comment ça marche
-Lorsque vous définissez une capacité pour un système d'IA, vous lui donnez des règles et des outils qui décrivent comment effectuer un travail. L'assistant analyse une commande qu'il reçoit et sélectionne et exécute automatiquement la compétence appropriée pour ce travail.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Fichier : Lecture et résumé de documents.Calendrier : Planification de réunions.Recherche : Récupération d'informations actualisées.
 
-## Où est-ce utilisé
-Il est fréquemment utilisé dans les plateformes d’assistants IA, les outils d’automatisation et les systèmes multi-agents qui gèrent des tâches complexes.
+## Profondeur technique et architecture
+Une compétence est écrite en trois parties :
 
-## Souvent confondu avec
-Cela peut être confondu avec les capacités générales de l’intelligence artificielle, mais il s’agit ici de la capacité de l’assistant à utiliser un outil externe.
+## Choses fréquemment mélangées
+On pense souvent qu'il s'agit d'une capacité générale du modèle. Pourtant, ce qui est visé ici, c'est la capacité de l'assistant à utiliser un outil externe. Le modèle comprend la langue, la compétence s'occupe de la tâche.
 
-## Questions fréquentes
-**Chaque modèle d’intelligence artificielle a-t-il des capacités ?**
-Les modèles de base ne produisent que du texte, mais les assistants disposent de fonctionnalités en ajoutant des outils externes à ces modèles.
+## Utilisation dans différentes disciplines
+Cuisine : Le couteau et les techniques de sauce entre les mains du chef.Perceuse : Fonction qui varie selon l'embout.Téléphone : Chaque application installée.
+
+## Foire aux questions
+**Chaque modèle a-t-il une capacité ?**
+Non. Les modèles de base génèrent du texte, la capacité est acquise lorsqu'un outil externe est ajouté à l'assistant.
 
 **Comment développer les compétences ?**
-Habituellement, des connexions API ou des blocs de code spéciaux sont écrits pour permettre à l'assistant d'effectuer une tâche spécifique.
+Il est défini par une connexion API ou un bloc de code. La description est rédigée clairement, le modèle choisit correctement.
+
+**Est-ce sécuritaire?**
+Les capacités de lecture présentent un faible risque. Pour les opérations telles que l'écriture et le paiement, une validation et une limite de portée sont indispensables.
+
+**Qui écrit les capacités ?**
+Les développeurs les écrivent, les plates-formes les distribuent dans le store. Rédiger une bonne description représente la moitié du travail.
 
 
 ## Termes liés
@@ -31,13 +40,13 @@ Habituellement, des connexions API ou des blocs de code spéciaux sont écrits p
 
 ## Outils liés
 - [Anthropic Skills](/fr/discover/anthropic-skills/)
-- [Browser Use](/fr/discover/browser-use/)
 - [Taste Skill](/fr/discover/taste-skill/)
 - [Awesome Claude Skills](/fr/discover/awesome-claude-skills/)
 - [Archify](/fr/discover/archify/)
 - [Last30days Skill](/fr/discover/last30days-skill/)
 - [I Have Adhd](/fr/discover/i-have-adhd/)
 - [Reverse Skill](/fr/discover/reverse-skill/)
+- [Book to Skill](/fr/discover/book-to-skill/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/skill/

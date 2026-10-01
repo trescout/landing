@@ -1,53 +1,37 @@
-# What is AWS?
+# What is Amazon Web Services?
 
 > Amazon Web Services
 
-**Category:** Dev  
-**Last updated:** 2026-09-22
+AWS (Amazon Web Services) is a cloud platform where you rent computing services such as servers, storage, and databases over the internet.
 
-AWS (Amazon Web Services) is a comprehensive cloud computing platform offering on-demand compute power, database storage, content delivery, and scalable infrastructure via the internet.
+## Definition and Word Origin
+Instead of setting up your own physical server, you rent Amazon data centers. Capacity grows when demand increases and shrinks when the work is done. It operates on a pay-as-you-go model. Almost all modern applications have this type of cloud infrastructure in the background.
 
-## Definition and Etymology
-Instead of investing capital into physical on-premise data centers, organizations lease elastic computing resources from Amazon. Capacity scales elastically with incoming user traffic and contracts when demand subsides. Operating on a pay-as-you-go utility model, AWS underpins the backend architecture of modern enterprise software and consumer services.
-
-## Everyday Context and Practical Usage
-- **Web & Mobile Applications:** Auto-scaling application servers dynamically handling traffic spikes.
-- **Disaster Recovery & Archival:** Highly durable, globally distributed object storage for backups.
-- **Streaming Media:** Edge caching networks distributing high-definition video with minimal latency.
-- **Early-Stage Startups:** Launching global enterprise-grade products without physical server room capital.
+## How to Know and Use in Daily Life?
+Website: Servers that scale based on traffic.Backup: A file vault that seems limitless.Video: Content distributed as it is watched.Startup: Go live without setting up a server room.
 
 ## Technical Depth and Architecture
-Foundational Infrastructure Services:- **EC2 (Elastic Compute Cloud):** Resizable virtual machine instances running Linux and Windows.
-- **S3 (Simple Storage Service):** Industry-standard object storage boasting 99.999999999% durability.
-- **RDS (Relational Database Service):** Managed databases supporting PostgreSQL, MySQL, and Aurora.
-- **Lambda:** Event-driven serverless compute executing microservices in response to real-time events.
+Core services:
 
-Core operational concepts include geographic Regions and multi-datacenter Availability Zones (AZs) for high availability, alongside the Shared Responsibility Model: Amazon secures the cloud infrastructure, while customers secure the operating systems, data, and access policies deployed within.<div class="disc-cmd"><div class="disc-cmd-head"><span>List running EC2 instances via AWS CLI</span></div><pre><code>aws ec2 describe-instances --query "Reservations[].Instances[].State.Name"</code></pre></div>
+## Frequently Mixed Things
+It is often thought to be just a site hosting service. However, it is a complete infrastructure platform covering database, artificial intelligence, network, and security layers with over 200 services.
 
-## Commonly Confused With
-Commonly confused with basic web hosting. Basic web hosts simply serve static HTML and PHP scripts; AWS is a comprehensive catalog of over 200 managed primitives spanning networking, artificial intelligence, quantum computing, and enterprise security.
-
-## Cross-Disciplinary Perspectives
-- **Electrical Grid:** Drawing electricity from wall outlets instead of building a private power station.
-- **Storage Lockers:** Renting modular storage space only when household inventory expands.
-- **Ridesharing:** Accessing transportation instantly per mile without purchasing vehicle fleets.
-
-## Analogy
-Rather than building and maintaining your own private power plant, AWS is like plugging into the municipal electrical grid: you consume energy on demand and pay strictly for what you use.
+## Use in Different Disciplines
+Electrical network: Unplugging instead of setting up a switchboard.Rental storage: Renting as many shelves as needed.Taxi: Traveling without owning a vehicle.
 
 ## Frequently Asked Questions
+**Why should I use AWS?**
+You gain instant access to enterprise infrastructure without making hardware investments. If traffic is volatile, scaling and ready-to-use services save time.
 
-**Why choose AWS over on-premise hardware?**  
-AWS removes upfront capital expenses, offers instant global scaling across dozens of countries, and provides managed automated maintenance for databases and servers.
+**Can I start for free?**
+Yes. The free plan, credit, and duration conditions for new accounts may change over time; you should check the current limits on the AWS Free Tier page before starting.
 
-**Can I use AWS for free?**  
-Yes. AWS provides a Free Tier offering limited monthly allowances for EC2, S3, and Lambda; review current quota thresholds to prevent unintended billable usage.
+**Where is my data stored?**
+It is kept in the region you select. For regulations such as KVKK, you need to make your region selection and encryption according to your policy.
 
-**Where is customer data physically located?**  
-Data resides strictly within the geographic Region selected during provisioning, enabling adherence to data residency regulations such as GDPR.
+**How is the invoice kept under control?**
+With budget alarms, cleanup of unused resources, and right-sizing. Tagging discipline is essential for small teams.
 
-**How do teams avoid unexpected cloud bills?**  
-Through automated AWS Budget alerts, CloudWatch metric monitors, automated tagging conventions, and regular deletion of unattached storage volumes.
 
 ## Related terms
 - [Cloud Computing](/en/dictionary/cloud-computing/)
@@ -55,4 +39,4 @@ Through automated AWS Budget alerts, CloudWatch metric monitors, automated taggi
 - [PaaS](/en/dictionary/paas/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/aws/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/aws/

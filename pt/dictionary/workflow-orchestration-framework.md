@@ -1,22 +1,34 @@
 # O que é Workflow Orchestration Framework?
 
-É uma infraestrutura regulatória que gerencia como e em que ordem tarefas complexas são realizadas.
+Uma estrutura de orquestração de fluxo de trabalho é a infraestrutura que enfileira tarefas dependentes e gerencia erros.
 
-## Definição
-Em processos onde existem muitas tarefas interligadas, é um sistema de gestão que determina qual trabalho será finalizado primeiro e qual será tentado novamente em caso de erro. Quando uma tarefa termina, outra é iniciada automaticamente. Dessa forma, processos complexos são executados de forma ordenada e sem erros.
+## Definição e origem da palavra
+Orchestration significa gestão de orquestração. Quando uma tarefa termina, a seguinte começa; se houver um erro, ela é tentada novamente ou é enviada uma notificação. Tarefas multipartes que não podem ser monitoradas manualmente são confiadas a esta ordem.
 
-## Como funciona
-Você define o processo; Por exemplo, você diz 'primeiro baixe os dados, depois limpe-os e por último analise-os'. A estrutura segue estas etapas e, se o download falhar, interrompe o processo e notifica você.
+## Como conhecer e usar no dia a dia?
+Dados: Pipelines que executam à noite.Agente: Cadeias de tarefas.Institucional: Processos aprovados.
 
-## Onde é usado
-É usado em processos de processamento de big data, gerenciamento de tarefas de agentes de inteligência artificial e sistemas de software corporativos.
+## Profundidade Técnica e Arquitetura
+Peças:
 
-## Costuma ser confundido com
-Não é apenas um aplicativo de ‘lista’ ou ‘tarefas’; esses sistemas podem gerenciar erros no processo e tomar decisões automáticas.
+## Coisas frequentemente misturadas
+É confundido com uma lista de tarefas. A lista é passiva, o framework gerencia erros e toma decisões automáticas.
 
-## Perguntas frequentes
-**Por que precisamos disso?**
-É utilizado para evitar erros nos casos em que há muitas tarefas interligadas para serem executadas manualmente.
+## Use em diferentes disciplinas
+Orquestra: Regra de entrada e silêncio.Tráfego aéreo: Ordem de decolagem.Ferrovia: Horário dos trens.
+
+## Perguntas Frequentes
+**Por que é necessário?**
+Quando os trabalhos dependentes se tornam impossíveis de monitorar manualmente, o erro torna-se inevitável. A ordem absorve o erro e o trabalho repetido.
+
+**Quando é necessário?**
+Quando o número de tarefas e a dependência aumentam. Configurar para um trabalho de três etapas pode ser excessivo.
+
+**Qual é a diferença do Cron?**
+O Cron agenda, a orquestração gerencia dependências e erros também. O Cron dispara, o framework executa.
+
+**Qual escolher?**
+De acordo com o ecossistema e o conhecimento da equipe. Prefere-se algo leve para trabalhos pequenos e totalmente equipado para trabalhos de grande escala.
 
 
 ## Termos relacionados

@@ -1,22 +1,34 @@
 # Was ist Whisper?
 
-Dabei handelt es sich um eine auf künstlicher Intelligenz basierende Spracherkennungstechnologie, die gesprochene Sprache mit hoher Genauigkeit in Text umwandelt.
+Whisper ist ein von OpenAI entwickeltes Open-Source-Spracherkennungsmodell.
 
-## Definition
-Whisper ist ein mehrsprachiges und vielseitiges Spracherkennungsmodell, das von OpenAI entwickelt wurde. Es kann Sprache auch bei Hintergrundgeräuschen recht erfolgreich transkribieren. Es verfügt außerdem über die Fähigkeit zur Übersetzung, das heißt, es kann Töne in Text in verschiedenen Sprachen umwandeln.
+## Definition und Wortherkunft
+Whisper bedeutet Flüstern. Es ist mehrsprachig und robust gegenüber Lärm, zudem übersetzt es. Es nimmt einem die Last von Spracharbeiten ab, von Meetings bis hin zu Untertiteln.
 
-## So funktioniert es
-Es zerlegt den Klang in kleine Stücke, ordnet diese Stücke Sprachmodellen zu und wandelt sie in bedeutungsvolle Sätze und Texte um.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Untertitel: Videotext.Protokoll: Sitzungsaufzeichnung.Befehl: Sprachschnittstelle.
 
-## Wo es eingesetzt wird
-Es wird in Video-Untertitelungstools, Anwendungen zum Notieren von Besprechungen und Sprachbefehlssystemen verwendet.
+## Technische Tiefe und Architektur
+Linie:
 
-## Häufig verwechselt mit
-Es unterscheidet sich von anderen Spracherkennungstools durch seine umfassende Sprachunterstützung und hohe Genauigkeitsrate.
+## Häufig gemischte Dinge
+Es wird mit allgemeiner Transkription verwechselt. Whisper ist ein Modell, Transkription ist die Aufgabe. Das eine ist das Werkzeug, das andere das Handwerk.
 
-## Häufige Fragen
-**Kann ich Whisper in meiner eigenen Anwendung verwenden?**
-Ja, da es sich bei Whisper um ein Open-Source-Modell handelt, können Entwickler es in ihre eigenen Projekte integrieren.
+## Einsatz in verschiedenen Disziplinen
+Sekretär: Notizen machen beim Sprechen.Interpreter: Übertragung von Sprache zu Sprache.Schreibmaschine: Schreiben Sie nicht, was gesagt wird.
+
+## Häufig gestellte Fragen
+**Kann ich es in meiner eigenen Anwendung verwenden?**
+Ja. Es kann unter einer Open-Source-Lizenz in das Projekt integriert werden, und die kommerzielle Nutzung erfolgt unter Berücksichtigung des Lizenztextes.
+
+**Unterstützt es Türkisch?**
+Ja. Bei klaren Aufnahmen ist die Genauigkeit hoch, Fachjargon wird überprüft.
+
+**Übersetzt es?**
+Ja. Es kann Audio in Text in einer anderen Sprache umwandeln, bei kritischen Aufgaben wird es redigiert.
+
+**Wird Hardware benötigt?**
+Das kleine Modell läuft auf der CPU, das große Modell benötigt eine GPU.
 
 
 ## Verwandte Begriffe
@@ -28,6 +40,7 @@ Ja, da es sich bei Whisper um ein Open-Source-Modell handelt, können Entwickler
 - [Whisper](/de/discover/whisper/)
 - [Claude Video](/de/discover/claude-video/)
 - [Openwhispr](/de/discover/openwhispr/)
+- [ODS](/de/discover/ods/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/whisper/

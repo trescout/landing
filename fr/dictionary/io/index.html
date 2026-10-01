@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que I/O ? · Glossaire · TreScout</title>
-<meta name="description" content="Processus par lequel un système informatique reçoit et envoie des données au monde extérieur.">
+<meta name="description" content="I/O (Input/Output, entrée/sortie) correspond aux échanges de données entre le système et le monde extérieur.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/io/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/io/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/io/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/io.md">
 <meta property="og:title" content="Qu'est-ce que I/O ?">
-<meta property="og:description" content="Processus par lequel un système informatique reçoit et envoie des données au monde extérieur.">
+<meta property="og:description" content="I/O (Input/Output, entrée/sortie) correspond aux échanges de données entre le système et le monde extérieur.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/io/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que I/O ?">
-<meta name="twitter:description" content="Processus par lequel un système informatique reçoit et envoie des données au monde extérieur.">
+<meta name="twitter:description" content="I/O (Input/Output, entrée/sortie) correspond aux échanges de données entre le système et le monde extérieur.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "I/O",
-  "description": "Processus par lequel un système informatique reçoit et envoie des données au monde extérieur.",
+  "description": "I/O (Input/Output, entrée/sortie) correspond aux échanges de données entre le système et le monde extérieur.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/io/",
   "inDefinedTermSet": {
@@ -55,15 +55,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-07-12">Dernière mise à jour : 12 juillet 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
 <h1 class="disc-title">Qu'est-ce que <span class="disc-accent">I/O</span> ?</h1>
 <p class="dict-en">Input/Output</p>
-<p class="disc-lead">Processus par lequel un système informatique reçoit et envoie des données au monde extérieur.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Les E/S sont un processus d&#39;E/S lorsqu&#39;un ordinateur reçoit du texte du clavier, télécharge des données depuis Internet ou imprime quelque chose à l&#39;écran. Le système établit toutes sortes de communications avec le monde extérieur via ce canal. C&#39;est comme les « sens et les mains » de l&#39;ordinateur.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme une personne recevant des informations du monde extérieur (yeux, oreilles) et réagissant au monde extérieur (parlant, bougeant).</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Les données pénètrent dans le système à partir des périphériques d&#39;entrée (clavier, capteur), sont traitées par le processeur et envoyées aux périphériques de sortie (écran, haut-parleurs).</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il s’agit d’un concept fondamental dans tous les programmes informatiques et interactions matérielles.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi les E/S constituent-elles un goulot d&#39;étranglement ?</p><p class="dict-faq-a">Même si le processeur fonctionne très vite, si la vitesse d&#39;entrée ou de sortie des données (par exemple la vitesse du disque) est lente, le système doit attendre.</p></div></div></section>
+<p class="disc-lead">I/O (Input/Output, entrée/sortie) correspond aux échanges de données entre le système et le monde extérieur.</p>
+<section class="disc-sec"><h2>Définition et origine du mot</h2><p>Saisie au clavier, téléchargement de fichier, résultat affiché à l&#39;écran : tout cela relève des E/S. Le système communique avec le monde extérieur par ce canal. C&#39;est comme les sens et les mains de l&#39;ordinateur.</p></section>
+<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme si un être humain recevait des informations du monde extérieur et y réagissait ; les yeux sont l&#39;entrée, la parole est la sortie.</div>
+<section class="disc-sec"><h2>Comment connaître et utiliser dans la vie quotidienne ?</h2><p><strong>Clavier :</strong> Saisie de texte.<br><strong>Réseau :</strong> Téléchargement de fichier.<br><strong>Écran :</strong> Affichage des résultats.</p></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Concepts :</p><p><strong>Bloquant (Blocking) :</strong> Attendre jusqu&#39;à ce que l&#39;opération soit terminée.<br><strong>Non bloquant (Non-blocking) :</strong> Continuer sans attendre, prévenir dès que le résultat arrive.<br><strong>Tampon (Buffer) :</strong> Mémoire tampon qui équilibre la différence de vitesse.<br><strong>Goulot d&#39;étranglement :</strong> Le maillon le plus lent ralentit toute la chaîne, il s&#39;agit généralement du disque ou du réseau.</p><p>Exemple de lecture de fichier :</p><pre><code>const veri = await fs.readFile("not.txt", "utf8");</code></pre><p>Cette ligne n&#39;attend pas que le fichier arrive, les autres tâches continuent. On reprend quand le résultat est prêt.</p></section>
+<section class="disc-sec"><h2>Utilisation dans différentes disciplines</h2><p><strong>Humain :</strong> Entrée par les yeux et les oreilles, sortie par la parole.<br><strong>Restaurant :</strong> Prise de commande à l&#39;entrée, service à la sortie.<br><strong>Usine :</strong> Entrée de matières premières, sortie de produits finis.</p></section>
+<section class="disc-sec"><h2>Foire aux questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi les E/S constituent-elles un goulot d&#39;étranglement ?</p><p class="dict-faq-a">Le processeur est rapide, le disque et le réseau sont lents. Lorsque les données ne suivent pas, le système attend, c&#39;est là que le goulot d&#39;étranglement se produit.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qu&#39;est-ce que le blocage ?</p><p class="dict-faq-a">C&#39;est un appel qui attend qu&#39;un résultat arrive. Il bloque l&#39;interface et gaspille des ressources sur le serveur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Comment l&#39;accélérer ?</p><p class="dict-faq-a">Grâce au cache, à la lecture par lots et aux appels asynchrones. On mesure d&#39;abord, puis on corrige le maillon le plus faible.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quel est le rapport avec l&#39;asynchrone ?</p><p class="dict-faq-a">C&#39;est un système qui permet d&#39;effectuer d&#39;autres tâches pendant l&#39;attente. Il permet de gérer de multiples tâches avec un seul thread.</p></div></div></section>
 <section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/api/">API</a><a href="/fr/dictionary/data-pipeline/">Data Pipeline</a><a href="/fr/dictionary/streaming-applications/">Streaming Applications</a></div></section>
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/asio/">Asio</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="io" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>

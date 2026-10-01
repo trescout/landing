@@ -1,22 +1,34 @@
 # Was ist Output?
 
-Dabei handelt es sich um Daten, die von einem Computerprogramm oder einem System der künstlichen Intelligenz als Ergebnis des Prozesses erzeugt werden.
+Output (Türkçe karşılığıyla çıktı), işlem sonucu üretilen veridir.
 
-## Definition
-Ausgabe ist das Ergebnis, das das System durch die Verarbeitung der ihm gegebenen Eingabe erzeugt. Dies kann Text, ein Bild, eine Audiodatei oder einfach nur eine Bestätigungsnachricht sein. Als TreScout definieren wir Ausgabe als das Produkt, das das System „seine Arbeit beendet und Ihnen präsentiert“.
+## Definition und Wortherkunft
+Die Eingabe wird verarbeitet, das Ergebnis wird ausgegeben: Text, Bild, Ton oder Bestätigungsnachricht. Jedes Resultat, von der API-Antwort bis zur Modellantwort, ist eine Ausgabe. Die Eingabe ist der Anfang, die Ausgabe ist das Resultat.
 
-## So funktioniert es
-Das System verarbeitet die Daten, wandelt sie nach Regeln oder Modellen um und übermittelt sie an den Benutzer oder ein anderes System.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+API: JSON-Antworttext.Befehlszeile: Der auf dem Bildschirm ausgegebene Text.Modell: Die generierte Antwort.
 
-## Wo es eingesetzt wird
-Es kommt in allen Arten von Software, API-Antworten und Antworten von Modellen der künstlichen Intelligenz vor.
+## Technische Tiefe und Architektur
+Ausgabekanäle:
 
-## Häufig verwechselt mit
-Nicht zu verwechseln mit Eingabe; Eingabe ist der Anfang und Ausgabe ist das Ergebnis.
+## Häufig gemischte Dinge
+Nicht mit der Eingabe zu verwechseln. Die Eingabe ist der Start, die Ausgabe ist das Ergebnis. Es wird auch mit Logs verwechselt: Ein Log ist eine Zwischenspur, die Ausgabe ist die Lieferung.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Ofen: Teig geht hinein, Brot kommt heraus.Fabrik: Teile gehen hinein, ein Produkt kommt heraus.Prüfung: Eine Frage geht hinein, Punkte kommen heraus.
+
+## Häufig gestellte Fragen
 **Warum sollte die Ausgabe falsch sein?**
-Wenn die Eingabe fehlerhaft ist oder die Verarbeitungskapazität des Systems nicht ausreicht, wird normalerweise eine fehlerhafte Ausgabe erzeugt.
+Gewöhnlich ist die Eingabe fehlerhaft oder die Kapazität reicht nicht aus. Zuerst wird die Eingabe, dann der Prozess überprüft.
+
+**Was ist stdout?**
+Es ist der Kanal, über den das Programm normale Ergebnisse ausgibt. Fehler gehen an einen separaten Kanal (stderr), beide werden nicht vermischt.
+
+**Ist die Modellausgabe zuverlässig?**
+Bedingt. Sie ist nützlich für Entwürfe und Vorschläge; bei kritischen Entscheidungen ist menschliche Kontrolle unerlässlich.
+
+**Wie wird das Ausgabeformat ausgewählt?**
+Je nach Konsument: JSON für Maschinen, Text für Menschen. Wenn beides erforderlich ist, werden separate Endpunkte bereitgestellt.
 
 
 ## Verwandte Begriffe

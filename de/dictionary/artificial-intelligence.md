@@ -32,13 +32,13 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 
 ## Verwandte Werkzeuge
 - [Build Your Own X](/de/discover/build-your-own-x/)
+- [Openclaw](/de/discover/openclaw/)
 - [Coding Interview University](/de/discover/coding-interview-university/)
 - [Superpowers](/de/discover/superpowers/)
 - [ECC](/de/discover/ecc/)
 - [Hermes Agent](/de/discover/hermes-agent/)
 - [Opencode](/de/discover/opencode/)
 - [Tensorflow](/de/discover/tensorflow/)
-- [FreeDomain](/de/discover/free-domain/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/artificial-intelligence/

@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-10-01 · 600 araç · 671 terim
+Son güncelleme: 2026-10-01 · 604 araç · 673 terim
 
 ---
 
@@ -42,6 +42,47 @@ Genel uluslararası hisse senedi kavramlarından farklı olarak coğrafi ve yasa
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/a-share/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# ab (ApacheBench) nedir?
+
+> ApacheBench
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-10-01
+
+Bir web sunucusunun aynı anda kaç kişiyi kaldırabileceğini ölçmeye yarayan basit bir performans test aracı.
+
+## Tanım
+Siz bir web sitesi kurduğunuzda, bu sitenin aynı anda kaç ziyaretçiyi taşıyabileceğini merak edersiniz. ApacheBench veya kısaca ab, komut satırından çalışarak sunucunuza aynı anda yüzlerce sahte istek gönderir. Böylece sunucunuzun ne zaman çökeceğini veya yavaşlayacağını önceden görürsünüz.
+
+## Bir benzetmeyle
+Yeni açtığınız bir kafenin kapısına aynı anda yüz kişi yığıldığında kapının dayanıp dayanmayacağını anlamak için içeri aynı anda girme testi yapmak gibidir.
+
+## Nasıl çalışır?
+Terminal ekranını açıp test etmek istediğiniz web adresini ve kaç istek göndereceğinizi belirten komutları yazarsınız. Araç saniyede kaç işlem yapabildiğinizi size sayısal rapor olarak verir.
+
+## Nerede kullanılır?
+Sunucu performansını ölçerken, büyük bir trafik dalgası beklenmeden hemen önce veya sistem optimizasyonu sonrasında hız testi yapmak için kullanılır.
+
+## Sıkça sorulanlar
+
+**Gerçek kullanıcıyı taklit eder mi?**  
+Tam olarak etmez, sadece hedefe çok hızlı şekilde arka arkaya istek yağdırır.
+
+**Sadece Apache sunucularda mı çalışır?**  
+Hayır, adı ApacheBench olsa da internete açık herhangi bir web adresini test edebilir.
+
+## İlgili terimler
+- [Benchmark](/dictionary/benchmark/)
+- [Load Generator](/dictionary/load-generator/)
+- [CLI](/dictionary/cli/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/apache-bench-ab/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -27388,6 +27429,44 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Stable Marriage Algorithm nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-10-01
+
+İki farklı gruptaki öğeleri, birbirleri için en uygun eşleşmeyi sağlayacak şekilde bir araya getiren matematiksel yöntem.
+
+## Tanım
+Hayatta bazı eşleştirme problemleri vardır ki herkesin favori bir adayı vardır ancak herkes en iyisini alamaz. Kararlı evlilik problemi olarak bilinen bu algoritma, iki taraflı tercihler kümesini inceleyerek hiç kimsenin 'Keşke diğerini seçseydim' demeyeceği dengeli bir uzlaşma noktası bulur.
+
+## Bir benzetmeyle
+Okula yeni başlayan öğrencileri istedikleri kulüplere yerleştirirken kimsenin mutsuz olmayacağı en adil dağılımı bulmaya benzer.
+
+## Nasıl çalışır?
+Gruplardaki herkesin diğer gruba ait adayları kendi kafasına göre sıralamasıyla başlar. Adım adım teklif verme ve reddetme turları yapılarak sistem kararlı duruma gelene kadar eşleşmeler güncellenir.
+
+## Nerede kullanılır?
+Organ bağışı eşleştirmelerinde, üniversite kontenjan yerleştirmelerinde ve işe alım süreçlerinde aday ile pozisyonu en uygun şekilde buluşturmak için kullanılır.
+
+## Sıkça sorulanlar
+
+**Herkes için mükemmel sonuç mu verir?**  
+Mükemmel değil, tarafların tercihlerine göre en kararlı ve bozulması en zor dengeli sonucu verir.
+
+**Sadece insanları mı eşleştirir?**  
+Hayır, bilgisayar bilimlerinde sunucu ile veri paketleri gibi nesneleri eşleştirmekte de kullanılır.
+
+## İlgili terimler
+- [Data Processing](/dictionary/data-processing/)
+- [Computer Science](/dictionary/computer-science/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/stable-marriage-algorithm/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Stacked Pull Requests nedir?
 
 **Kategori:** Geliştirme  
@@ -33061,6 +33140,58 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Cihazınızda çalışan kişisel yapay zekâ asistanı
+
+Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır. TypeScript ile geliştirilen bu yazılım, kullanıcıların bilgisayar üzerindeki işlemleri standartlaştırmasını ve otomatize etmesini sağlar.
+
+- ★ 391.115
+- TypeScript
+- GitHub Trending · 2026-10-01
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 391.111 → 391.115, son sürüm v2026.9.7 (30 Eylül 2026).
+
+## Ne kazandırır?
+- Verilerinizi, hafızanızı ve hesap bilgilerinizi tamamen kendi bilgisayarınızda güvenle tutarsınız.
+- Mesajlaşma uygulamaları WhatsApp, Telegram, Discord ve iş iletişim aracı Slack üzerinden asistanınızla sohbet edebilirsiniz.
+- Farklı yapay zekâ modellerini ve yerel sistem araçlarını tek bir merkezden kolayca yönetebilirsiniz.
+
+## Kurulum
+
+**Otomatik yükleme betiğini çalıştırma (ma**
+
+```
+# macOS / Linux / WSL2
+curl -fsSL https://openclaw.ai/install.sh | bash
+```
+
+**Node.js paket yöneticisi npm ile küresel**
+
+```
+npm install -g openclaw@latest --allow-scripts=openclaw
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bilgisayarıma OpenClaw yapay zekâ asistanını kurmak istiyorum. İşletim sistemime uygun olarak curl indirme betiğini ya da npm üzerinden global kurulum komutunu çalıştırarak kurulumu tamamlamama ve ardından ilk yapılandırma sihirbazını başlatmama adım adım yardımcı olur musun?
+
+- **Kimin için:** Verilerini kendi cihazında tutarak sohbet uygulamaları üzerinden çalışan kişisel bir yapay zekâ asistanı kurmak isteyen herkes içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/openclaw/openclaw)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openclaw/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Büyük ölçekli sistem tasarımı rehberi
 
 System Design Primer, büyük ölçekli yazılım sistemleri tasarlamak isteyenler için kapsamlı bir öğrenme kaynağı sunuyor. Teknik mülakatlara hazırlanan yazılımcılar için sistem tasarımı (system design) prensiplerini ve pratik çalışma kartlarını bir araya getiriyor.
@@ -37118,6 +37249,64 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanları için örnek sunucular
+
+Model Context Protocol (MCP) sunucuları, üretken yapay zekâ modellerinin harici veri kaynaklarına ve araçlara standart bir arayüz üzerinden erişmesini sağlıyor. Bu protokol, farklı yapay zekâ uygulamalarının veri tabanları veya yazılım araçlarıyla güvenli ve tutarlı bir şekilde bağlantı kurmasına olanak tanıyor.
+
+- ★ 90.905
+- TypeScript
+- GitHub Trending · 2026-10-01
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 90.906 → 90.905, son sürüm 2026.8.31 (31 Ağustos 2026).
+
+## Ne kazandırır?
+- Büyük dil modellerinizin (LLM) yerel dosyalara, veri depolarına ve kalıcı hafızaya güvenle erişmesini sağlarsınız.
+- Referans sunucu örneklerini inceleyerek yapay zekâ uygulamalarınızı harici veri kaynaklarıyla buluşturabilirsiniz.
+- Farklı yazılım geliştirme kitleri (SDK) kullanarak kendi sunucularınızı geliştirmek için hazır şablonlara ulaşırsınız.
+
+## Kurulum
+
+**Git sunucusunu yükleme ve başlatma**
+
+```
+# With uvx
+uvx mcp-server-git
+
+# With pip
+pip install mcp-server-git
+python -m mcp_server_git
+```
+
+## Çalıştırma
+
+**Hafıza sunucusunu çalıştırma**
+
+```
+npx -y @modelcontextprotocol/server-memory
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Model Bağlam Protokolü (MCP) referans sunucularını kullanarak yapay zekâ modelimi dış veri kaynaklarına bağlamak istiyorum. Öncelikle npx -y @modelcontextprotocol/server-memory komutuyla bellek sunucusunu başlatmamda ve masaüstü istemcisi konfigürasyonunu yapılandırmamda bana rehberlik edin. Ayrıca uvx mcp-server-git komutunu kullanarak kod depolarına erişim sağlama adımlarını açıklayın.
+
+- **Kimin için:** Yapay zekâ modellerini yerel dosyalar, hafıza ve kod depoları gibi dış araçlarla güvenli bir şekilde entegre etmek isteyen geliştiriciler içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/modelcontextprotocol/servers)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Model Context Protocol Model Context Protocol SDK Context MCP LLM
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/servers/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Açıklayıcı Matematik Animasyonlarını Programlayın
 
 Matematik videoları için kesin ve programatik animasyonlar üretmenize yardımcı olan bir animasyon motorudur. Animasyonları Python ile tanımlayabilir ve örnek sahneler üzerinden başlayabilirsiniz.
@@ -38871,6 +39060,60 @@ Design Language Generative AI CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/impeccable/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Kod tabanınızı yapay zekâya haritalandırın
+
+Codegraph, kod tabanlarını önceden dizinleyerek yapay zekâ modellerine sunan yerel bir bilgi grafiği (knowledge graph) aracıdır. Kod değişikliklerini otomatik eşitleyerek Claude Code veya Cursor gibi kodlama asistanlarının daha az belirteç (token) ve araç çağrısı kullanmasını sağlar.
+
+- ★ 72.721
+- C
+- GitHub Trending · 2026-10-01
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 72.718 → 72.721, son sürüm v1.6.1 (29 Eylül 2026).
+
+## Ne kazandırır?
+- Kodlama yaparken yapay zekâ modellerinin daha az belirteç tüketmesini sağlayan yerel bilgi grafiği oluşturur.
+- Kod değişikliklerini arka planda otomatik eşitleyerek indeksi her zaman güncel tutar.
+- Kodlama asistanı Cursor gibi araçları doğrudan projenizin mimarisiyle bağlar.
+
+## Kurulum
+
+**Paket yöneticisi npm ile küresel kurulum**
+
+```
+npm i -g @colbymchenry/codegraph
+```
+
+## Çalıştırma
+
+**Aracı doğrudan npx ile çalıştırma ve bağ**
+
+```
+npx @colbymchenry/codegraph
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Projemde paket yöneticisi npm aracılığıyla `npm i -g @colbymchenry/codegraph` komutunu çalıştırarak Codegraph aracını kurun. Ardından yapay zekâ asistanlarını yapılandırmak için `npx @colbymchenry/codegraph` komutunu çalıştırarak işlemi tamamlayın.
+
+- **Kimin için:** Yapay zekâ destekli kodlama asistanlarının karmaşık kod tabanlarını daha az belirteç harcayarak hızlıca anlamasını isteyen geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/colbymchenry/codegraph)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Knowledge Graph Token Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/codegraph/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -41091,15 +41334,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.
 
-- ★ 54.919
+- ★ 54.998
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 54.919 → 54.998, son sürüm v0.8.104 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 54.828 → 54.919, son sürüm v0.8.103 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 54.381 → 54.828, son sürüm v0.8.101 (1 Ekim 2026).
 - 30 Eylül 2026: Yıldız 54.244 → 54.381, son sürüm v0.8.96 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 54.058 → 54.244, son sürüm v0.8.93 (29 Eylül 2026).
 
 ## Ne kazandırır?
 - HTML ve CSS ile video üretimi
@@ -46549,6 +46792,64 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Dil Modellerinde Güvenlik Sınırlarını Aşın
+
+Heretic , transformer tabanlı dil modellerinden güvenlik hizalaması (safety alignment) kısıtlarını, pahalı yeniden eğitim süreçlerine gerek kalmadan kaldıran teknik bir araçtır. 'Abliteration' tekniğini kullanan bu çözüm, ileri düzey ve araştırma odaklı bir yapıdadır.
+
+- ★ 32.626
+- Python
+- AGPL-3.0
+- GitHub Trending · 28 May 2026
+
+## Kurulum
+
+**Resmî depoyu klonla**
+
+```
+git clone https://github.com/p-e-w/heretic.git
+```
+
+Kaynak: Resmî kaynak: https://github.com/p-e-w/heretic
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 31.068 → 32.626, son sürüm v1.4.0 (14 Haziran 2026).
+- 10 Eylül 2026: Yıldız 29.513 → 31.068, son sürüm v1.4.0 (14 Haziran 2026).
+- 31 Ağustos 2026: Yıldız 27.018 → 29.513, son sürüm v1.4.0 (14 Haziran 2026).
+- 2 Ağustos 2026: Yıldız 22.018 → 27.018, son sürüm v1.4.0 (14 Haziran 2026).
+
+- **Kimin için:** ML araştırmacıları / ileri düzey kullanıcılar 
+- **Zorluk:** İleri · model ağırlıklarıyla çalışma bilgisi 
+- **Ne yapar:** Modelden güvenlik kısıtlarını kaldırma 
+- **Ücret:** Ücretsiz · açık kaynak (AGPL-3.0) 
+- **Lisans:** AGPL-3.0 · ayrıntı aşağıda 
+
+## Ne yapar?
+- 'Abliteration' tekniğiyle modeldeki kısıtları kaldırır.
+- Pahalı yeniden eğitim gerektirmez.
+- Yöntem açık kaynak ve otomatiktir.
+
+## Sorumluluk notu
+
+Bu araç modelin güvenlik korumalarını kaldırır. Üretilecek çıktıların yasal ve etik sorumluluğu tamamen kullanıcıya aittir; zararlı veya yasa dışı kullanım önerilmez. Araştırma/ileri düzey amaçlıdır.
+
+Lisans: AGPL-3.0 · kullanımı serbest; ancak kodu değiştirip dağıtır ya da bir servis olarak sunarsanız kendi kaynağınızı da açmanız gerekir (copyleft).
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/p-e-w/heretic)
+- [Proje sayfası →](https://heretic-project.org)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Transformer Open Source
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/heretic/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Claude Code için yapay zekâ destekli kod inceleme
 
 OpenAI tarafından geliştirilen Codex eklentisi, Claude Code üzerinde kod inceleme süreçlerini otomatize etmek ve görev delegasyonu sağlamak için kullanılıyor. Bu araç, yazılım geliştirme iş akışlarında farklı yapay zekâ modellerinin (large language models) entegre çalışmasına olanak tanıyor.
@@ -46999,63 +47300,6 @@ Knowledge Graph Engine Long-term Memory Knowledge Graph Memory Artificial Intell
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cognee/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Dil Modellerinde Güvenlik Sınırlarını Aşın
-
-Heretic , transformer tabanlı dil modellerinden güvenlik hizalaması (safety alignment) kısıtlarını, pahalı yeniden eğitim süreçlerine gerek kalmadan kaldıran teknik bir araçtır. 'Abliteration' tekniğini kullanan bu çözüm, ileri düzey ve araştırma odaklı bir yapıdadır.
-
-- ★ 31.068
-- Python
-- AGPL-3.0
-- GitHub Trending · 28 May 2026
-
-## Kurulum
-
-**Resmî depoyu klonla**
-
-```
-git clone https://github.com/p-e-w/heretic.git
-```
-
-Kaynak: Resmî kaynak: https://github.com/p-e-w/heretic
-
-## Güncelleme
-- 10 Eylül 2026: Yıldız 29.513 → 31.068, son sürüm v1.4.0 (14 Haziran 2026).
-- 31 Ağustos 2026: Yıldız 27.018 → 29.513, son sürüm v1.4.0 (14 Haziran 2026).
-- 2 Ağustos 2026: Yıldız 22.018 → 27.018, son sürüm v1.4.0 (14 Haziran 2026).
-
-- **Kimin için:** ML araştırmacıları / ileri düzey kullanıcılar 
-- **Zorluk:** İleri · model ağırlıklarıyla çalışma bilgisi 
-- **Ne yapar:** Modelden güvenlik kısıtlarını kaldırma 
-- **Ücret:** Ücretsiz · açık kaynak (AGPL-3.0) 
-- **Lisans:** AGPL-3.0 · ayrıntı aşağıda 
-
-## Ne yapar?
-- 'Abliteration' tekniğiyle modeldeki kısıtları kaldırır.
-- Pahalı yeniden eğitim gerektirmez.
-- Yöntem açık kaynak ve otomatiktir.
-
-## Sorumluluk notu
-
-Bu araç modelin güvenlik korumalarını kaldırır. Üretilecek çıktıların yasal ve etik sorumluluğu tamamen kullanıcıya aittir; zararlı veya yasa dışı kullanım önerilmez. Araştırma/ileri düzey amaçlıdır.
-
-Lisans: AGPL-3.0 · kullanımı serbest; ancak kodu değiştirip dağıtır ya da bir servis olarak sunarsanız kendi kaynağınızı da açmanız gerekir (copyleft).
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/p-e-w/heretic)
-- [Proje sayfası →](https://heretic-project.org)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Transformer Open Source
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/heretic/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -50865,7 +51109,7 @@ Kurulum için Linux, macOS veya Windows işletim sisteminize uygun indirme bağl
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-ApacheBench (ab)
+ApacheBench (ab) ab (ApacheBench)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hey/
@@ -58786,7 +59030,7 @@ Stitch Skills kütüphanesini kullanarak mevcut arayüz kodumu analiz et ve bunu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Native Agent Skills MCP AI Skills Agent CLI
+Native Agent Skills AI Skills MCP Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stitch-skills/
@@ -60019,6 +60263,45 @@ Multimodal Vector Database GGUF Whisper CPU RAG
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ods/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Apple uygulamaları için firebase kütüphaneleri
+
+Google tarafından sunulan mobil geliştirme platformu Firebase, Apple cihazları için hazırlanan uygulamalara veri tabanı ve kimlik doğrulama gibi bulut hizmetleri eklemeyi sağlayan bir yazılım geliştirme kiti (SDK) sunuyor. Bu araç, geliştiricilerin Apple ekosistemi üzerinde çalışan uygulamalarında arka uç (backend) süreçlerini yönetmelerini kolaylaştırıyor.
+
+- ★ 6.801
+- C++
+- GitHub Trending · 2026-10-01
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 6.801 → 6.801, son sürüm 12.19.2 (15 Eylül 2026).
+
+## Ne kazandırır?
+- apple platformları için açık kaynaklı firebase kütüphanelerini barındırır
+- veri tabanı ve kimlik doğrulama gibi bulut hizmetleri eklemeyi sağlar
+- farklı kurulum yöntemleriyle projelere entegre edilebilir
+
+## Nasıl başlanır?
+
+Kurulum için resmi Firebase get started dokümanını inceleyebilir, Swift Package Manager veya CocoaPods yöntemlerini kullanabilirsiniz. Detaylı yönergeler için Firebase web sitesindeki kurulum ve başlangıç rehberlerine göz atabilirsiniz.
+- [Resmî kaynak →](https://firebase.google.com)
+
+- **Kimin için:** Apple ekosistemi için mobil uygulama geliştiren ve uygulamalarına bulut tabanlı servisler eklemek isteyen yazılımcılar. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/firebase/firebase-ios-sdk)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Backend SDK
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/firebase-ios-sdk/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -64924,7 +65207,7 @@ AWS üzerinde uygulama geliştirme, dağıtma ve yönetme süreçlerimde bana ya
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol Context MCP AI Skills Agent
+Model Context Protocol Model Context Protocol Context AI Skills MCP Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-toolkit-for-aws/
@@ -65752,7 +66035,7 @@ Projeyi kullanmak için GitHub sayfasındaki 'Releases' sekmesinden hazır dosya
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Emulator SDK CPU
+Emulator CPU SDK
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sharpemu/

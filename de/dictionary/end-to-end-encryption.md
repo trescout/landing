@@ -2,26 +2,35 @@
 
 > E2EE
 
-Es handelt sich um eine Sicherheitsmethode, bei der Nachrichten nur vom Absender und vom Empfänger gelesen werden können und niemand dazwischen den Inhalt sehen kann.
+End-to-End-Verschlüsselung ist ein Sicherheitsverfahren, bei dem nur die Endpunkte die Daten lesen können.
 
-## Definition
-Bei der Ende-zu-Ende-Verschlüsselung werden Daten gesperrt, sobald sie Ihr Gerät verlassen, und können nur mit dem Schlüssel der Zielperson geöffnet werden. Dank dieser Methode können Dienstanbieter oder Dritte, die die Daten übertragen, Ihre Inhalte niemals sehen. Es ist einer der grundlegendsten Schutzschilde, die Ihre Privatsphäre in der digitalen Welt schützen.
+## Definition und Wortherkunft
+Die Daten werden auf dem Gerät verschlüsselt und am Zielort entschlüsselt. Der Übermittler und der Server können den Inhalt nicht sehen. Es ist der grundlegende Schutz der Privatsphäre. WhatsApp und Signal sind bekannte Beispiele.
 
-## So funktioniert es
-Wenn Sie eine Nachricht schreiben, wandelt Ihr Gerät diese in einen komplexen Code um. Dieser Code bleibt bei der Übertragung über das Internet verschlüsselt. Wenn es das Gerät des Empfängers erreicht, wird es mit einem speziellen Schlüssel, den nur der Empfänger hat, wieder in lesbaren Text umgewandelt.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Nachricht: Private Chats.Datei: Sichere Übertragung.Backup: Verschlüsselte Kopie.
 
-## Wo es eingesetzt wird
-Es wird in Messaging-Anwendungen wie WhatsApp oder Signal, sicheren Dateiübertragungen und datenschutzorientierten Cloud-Speicherdiensten verwendet.
+## Technische Tiefe und Architektur
+Layout:
 
-## Häufig verwechselt mit
-Es unterscheidet sich nur von der Verschlüsselung zwischen Ihnen und dem Server; Hier kann selbst der Server den Inhalt nicht sehen.
+## Häufig gemischte Dinge
+Man hält es für TLS. TLS schützt auf dem Transportweg, der Server kann es sehen. Bei Ende-zu-Ende kann nicht einmal der Server es sehen. Das eine ist eine gepanzerte Kurierbox, das andere ein versiegelter Umschlag.
 
-## Häufige Fragen
-**Können meine Nachrichten gelesen werden, wenn sie gestohlen werden?**
-Nein, da nur Sie und der Empfänger den Schlüssel haben, sind diese Nachrichten für andere nur bedeutungslose Zeichenhaufen.
+## Einsatz in verschiedenen Disziplinen
+Verschlossene Box: Der Transporteur kann den Inhalt nicht sehen.Siegel: Ein Umschlag, bei dem man sieht, wenn er geöffnet wurde.Geschlossener Kreislauf: Nach außen abgeschottete Leitung.
+
+## Häufig gestellte Fragen
+**Kann es gelesen werden, wenn es gestohlen wird?**
+Nein. Die Schlüssel befinden sich an den Endpunkten, der gestohlene Datenhaufen ist bedeutungslos.
 
 **Ist es in jeder Anwendung verfügbar?**
-Nein, nicht jede App bietet diese Funktion; Sie müssen es in den Einstellungen überprüfen, bevor Sie es verwenden.
+Nein. Es wird über die Einstellungen geprüft, es werden keine Annahmen getroffen.
+
+**Wie funktioniert die Sicherung?**
+Ein verschlüsseltes Backup und ein Wiederherstellungscode sind erforderlich. Ohne den Code gibt es keine Wiederherstellung.
+
+**Ist es für Unternehmen geeignet?**
+Es wird mit dem Bedarf an Protokollierung und Überprüfung in Einklang gebracht. Eine Richtlinie wird festgelegt.
 
 
 ## Verwandte Begriffe

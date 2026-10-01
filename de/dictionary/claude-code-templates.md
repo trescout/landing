@@ -1,19 +1,31 @@
 # Was ist Claude Code Templates?
 
-Vorgefertigte Entwürfe, die KI-gestützte Codierungstools bereitstellen, um bestimmte Projekte schnell zu starten.
+Claude Code-Templates sind vorgefertigte Dateigerüste, die den Projektstart mit Claude Code beschleunigen.
 
-## Definition
-Diese Vorlagen erstellen automatisch die grundlegende Dateistruktur und die Einstellungen, die beim Starten eines Projekts erforderlich sind. Dadurch kann der KI-Assistent leichter verstehen, um welche Art von Anwendung es sich bei dem Projekt handelt. Anstatt also mit einer leeren Seite zu beginnen, gehen Sie von einem vorgefertigten Grundgerüst aus.
+## Definition und Wortherkunft
+"Template" bedeutet Vorlage. Statt bei einer leeren Seite zu beginnen, wird ein Grundgerüst übernommen: Verzeichnisstruktur, Einstellungen und Konfigurationsdatei werden direkt mitgeliefert. Der Assistent erkennt den Projekttyp anhand des Grundgerüsts, wodurch seine Vorschläge treffsicherer ausfallen.
 
-## So funktioniert es
-Sie teilen Ihrem KI-Tool die Art des Projekts mit und es bereitet anhand der entsprechenden Vorlage die erforderlichen Dateien für Sie vor.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Prototyp: Schnelles Testen einer Idee.Standard: Gleiches Gerüst im gesamten Team.Lernen: Regeln anhand von Beispielen lernen.
 
-## Wo es eingesetzt wird
-Es wird beim Start eines neuen Softwareprojekts verwendet, insbesondere in der Rapid-Prototyping-Phase.
+## Technische Tiefe und Architektur
+Typisches Gerüst:
 
-## Häufige Fragen
-**Können diese Vorlagen angepasst werden?**
-Ja, die meisten Vorlagen können später an die Anforderungen des Projekts angepasst werden.
+## Einsatz in verschiedenen Disziplinen
+Fertigteil: Struktur mit fertigem Fundament.Maßschnitt: Schablone zum Zuschneiden nach Körpermaßen.Rezept: Abgemessenes Starterset.
+
+## Häufig gestellte Fragen
+**Können die Vorlagen angepasst werden?**
+Ja. Das Skelett ist der Ausgangspunkt, es wird je nach Projekt beschnitten und erweitert.
+
+**Wo ist es zu finden?**
+In den Community-Repositories und der Dokumentation der Tools. Herkunft und Aktualität werden überprüft.
+
+**Sind sie zuverlässig?**
+Das hängt von der Herkunft ab. Ein unbekanntes Skelett wird nicht blind ausgeführt, sondern sein Inhalt wird gelesen.
+
+**Kann ich es selbst schreiben?**
+Ja. Das Team-Skelett ist das wertvollste, es wird wiedergeboren.
 
 
 ## Verwandte Begriffe

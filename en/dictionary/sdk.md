@@ -32,6 +32,7 @@ It can be written, but you have to code everything from scratch, which takes too
 - [Bindings](/en/dictionary/bindings/)
 
 ## Related tools
+- [Servers](/en/discover/servers/)
 - [Cline](/en/discover/cline/)
 - [OmniRoute](/en/discover/omniroute/)
 - [Freellmapi](/en/discover/freellmapi/)
@@ -39,7 +40,6 @@ It can be written, but you have to code everything from scratch, which takes too
 - [CUA](/en/discover/cua/)
 - [iii](/en/discover/iii/)
 - [Logto](/en/discover/logto/)
-- [CubeSandbox](/en/discover/cubesandbox/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sdk/

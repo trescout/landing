@@ -31,6 +31,7 @@ Ja, MCP verfügt über eine Struktur, die die Datenzugriffsberechtigungen unter 
 - [API](/de/dictionary/api/)
 
 ## Verwandte Werkzeuge
+- [Servers](/de/discover/servers/)
 - [Goose](/de/discover/goose/)
 - [Chrome Devtools MCP](/de/discover/chrome-devtools-mcp/)
 - [Openclaude](/de/discover/openclaude/)
@@ -38,7 +39,6 @@ Ja, MCP verfügt über eine Struktur, die die Datenzugriffsberechtigungen unter 
 - [Context Mode](/de/discover/context-mode/)
 - [Unity MCP](/de/discover/unity-mcp/)
 - [DesktopCommanderMCP](/de/discover/desktopcommandermcp/)
-- [Mobile MCP](/de/discover/mobile-mcp/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/model-context-protocol/

@@ -2,20 +2,32 @@
 
 > Input/Output
 
-Der Prozess, durch den ein Computersystem Daten von der Außenwelt empfängt und an diese sendet.
+I/O (Input/Output, Eingabe/Ausgabe) ist der Datenaustausch eines Systems mit der Außenwelt.
 
-## Definition
-E/A ist ein E/A-Prozess, bei dem ein Computer Text von der Tastatur empfängt, Daten aus dem Internet herunterlädt oder etwas auf dem Bildschirm ausgibt. Über diesen Kanal stellt das System alle Arten der Kommunikation mit der Außenwelt her. Es ist wie die „Sinne und Hände“ des Computers.
+## Definition und Wortherkunft
+Tastatureingabe, heruntergeladene Datei, auf dem Bildschirm ausgegebenes Ergebnis: Alles sind I/O-Operationen. Das System kommuniziert über diesen Kanal mit der Außenwelt. Es ist wie die Sinne und Hände des Computers.
 
-## So funktioniert es
-Daten gelangen über Eingabegeräte (Tastatur, Sensor) in das System, werden vom Prozessor verarbeitet und an Ausgabegeräte (Display, Lautsprecher) gesendet.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Tastatur: Texteingabe.Netzwerk: Datei-Download.Bildschirm: Ergebnis anzeigen.
 
-## Wo es eingesetzt wird
-Es ist ein grundlegendes Konzept in allen Computerprogrammen und Hardware-Interaktionen.
+## Technische Tiefe und Architektur
+Konzepte:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Mensch: Eingabe über Augen und Ohren, Ausgabe über Sprache.Restaurant: Bestellannahme, Serviceausgabe.Fabrik: Rohmaterialeingang, Produkt Ausgang.
+
+## Häufig gestellte Fragen
 **Warum ist E/A ein Engpass?**
-Auch wenn der Prozessor sehr schnell arbeitet, muss das System warten, wenn die Dateneingabe- oder -ausgabegeschwindigkeit (zum Beispiel die Festplattengeschwindigkeit) langsam ist.
+Der Prozessor ist schnell, Festplatte und Netzwerk sind langsam. Wenn die Daten nicht nachkommen, wartet das System, hier entsteht der Engpass.
+
+**Was ist Blocking?**
+Es ist ein Aufruf, der wartet, bis das Ergebnis da ist. Er blockiert die Benutzeroberfläche und verschwendet Arbeit auf dem Server.
+
+**Wie wird es beschleunigt?**
+Durch Caching, Batch-Lesen und asynchrone Aufrufe. Zuerst wird gemessen, dann wird das schwächste Glied behoben.
+
+**Was hat das mit Async zu tun?**
+Es ist ein System, bei dem während des Wartens andere Arbeit erledigt wird. Mit einem einzigen Thread wird viel Arbeit bewältigt.
 
 
 ## Verwandte Begriffe

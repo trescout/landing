@@ -1,19 +1,31 @@
 # O que é Rendering?
 
-O processo de um computador processar dados brutos e transformá-los em um elemento visual ou gráfico que vemos na tela.
+Rendering (ou renderização) é o processo de transformar dados brutos na imagem que você vê na tela.
 
-## Definição
-Os computadores mantêm os dados em números. A renderização calcula as propriedades desses dados digitais, como luz, cor e forma, e os transforma em uma imagem que podemos ver. Este processo requer cálculos matemáticos complexos.
+## Definição e origem da palavra
+Render significa entregar ou desenhar em inglês. Os computadores armazenam dados com números. O rendering converte esses dados numéricos na imagem que você pode ver, calculando as propriedades de luz, cor e forma. Este processo exige cálculos matemáticos intensos, por isso geralmente é realizado pela placa gráfica (GPU).
 
-## Como funciona
-O processador ou placa de vídeo recebe os dados, processa-os de acordo com regras e colore os pixels da tela.
+## Como conhecer e usar no dia a dia?
+Páginas da Web: O seu navegador desenhando o código HTML e CSS pixel por pixel na tela.Jogos: A geração de novos quadros 30 ou 60 vezes por segundo.Edição de vídeo: Conversão da linha do tempo com efeitos em um vídeo rastreável (exportação).Mapas: Renderização de novos detalhes conforme o zoom é aproximado.
 
-## Onde é usado
-Ele é usado em jogos, programas de edição de vídeo e visualização de páginas da web no navegador.
+## Profundidade Técnica e Arquitetura
+Existem duas maneiras principais de criar imagens:
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Impressão: Conversão do design da página em chapa de impressão.Arquitetura: Visualização tridimensional realista do projeto (implantação).Cinema: Cálculo quadro a quadro dos efeitos pós-produção.
+
+## Perguntas Frequentes
 **Por que a renderização pode ser lenta?**
-Se a quantidade de dados a serem processados ​​for muito grande ou o hardware do computador não conseguir acompanhar esses cálculos, o processo fica mais lento.
+Se a quantidade de dados a ser processada exceder a capacidade do hardware, o processo fica lento. A solução geralmente é reduzir os detalhes, fazer um upgrade no hardware ou dividir o trabalho em partes.
+
+**O que é ray tracing?**
+É um método que calcula de forma realista reflexos e sombras, seguindo o caminho dos raios de luz na cena. É de alta qualidade, mas exige muito mais poder de processamento do que a rasterização.
+
+**Qual é a diferença entre SSR e CSR?**
+O SSR renderiza a página no servidor e a envia pronta, tornando o carregamento inicial rápido. O CSR deixa a renderização para o navegador, o carregamento inicial é lento, mas o restante é fluido.
+
+**Uma placa gráfica potente é obrigatória para renderização?**
+Nem sempre. Para páginas web e trabalhos de escritório, o processador é suficiente. Já jogos, design 3D e edição de vídeo exigem uma placa gráfica potente.
 
 
 ## Termos relacionados

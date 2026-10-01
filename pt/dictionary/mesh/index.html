@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Mesh? · Glossário · TreScout</title>
-<meta name="description" content="Vários dispositivos ou serviços interconectados trocam dados sem a necessidade de um ponto central.">
+<meta name="description" content="Mesh (em português, rede em malha) é uma estrutura de rede em que dispositivos ou serviços se conectam e transferem dados entre si sem depender de um servi">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/mesh/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/mesh/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/mesh/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/mesh.md">
 <meta property="og:title" content="O que é Mesh?">
-<meta property="og:description" content="Vários dispositivos ou serviços interconectados trocam dados sem a necessidade de um ponto central.">
+<meta property="og:description" content="Mesh (em português, rede em malha) é uma estrutura de rede em que dispositivos ou serviços se conectam e transferem dados entre si sem depender de um servi">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/mesh/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Mesh?">
-<meta name="twitter:description" content="Vários dispositivos ou serviços interconectados trocam dados sem a necessidade de um ponto central.">
+<meta name="twitter:description" content="Mesh (em português, rede em malha) é uma estrutura de rede em que dispositivos ou serviços se conectam e transferem dados entre si sem depender de um servi">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Mesh",
-  "description": "Vários dispositivos ou serviços interconectados trocam dados sem a necessidade de um ponto central.",
+  "description": "Mesh (em português, rede em malha) é uma estrutura de rede em que dispositivos ou serviços se conectam e transferem dados entre si sem depender de um servidor central.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/mesh/",
   "inDefinedTermSet": {
@@ -55,16 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-07-12">Última atualização: 12 de julho de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Mesh</span>?</h1>
-<p class="disc-lead">Vários dispositivos ou serviços interconectados trocam dados sem a necessidade de um ponto central.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Na estrutura mesh, cada nó pode se comunicar diretamente entre si. O sistema é mais durável porque não depende de um servidor central. Mesmo que um nó fique inativo, os dados continuam a ser transmitidos por outras rotas.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como se todos os músicos se ouvissem e tocassem em harmonia sem maestro.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Dispositivos ou serviços descobrem uns aos outros e estabelecem uma rede entre eles.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em redes sem fio, sistemas domésticos inteligentes e arquiteturas de microsserviços.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Qual é a vantagem das redes mesh?</p><p class="dict-faq-a">Como não estão conectados a um único ponto, o risco de colapso do sistema é muito menor.</p></div></div></section>
+<p class="disc-lead">Mesh (em português, rede em malha) é uma estrutura de rede em que dispositivos ou serviços se conectam e transferem dados entre si sem depender de um servidor central.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>Mesh em inglês significa malha ou rede. Assim como os nós de uma rede de pesca são conectados entre si, cada nó em uma rede mesh está conectado aos seus vizinhos. Em redes sem fio, o Wi-Fi mesh, e em arquiteturas de microsserviços, o service mesh (ex. Istio, Linkerd) são dois usos comuns desse conceito.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como todos os músicos tocarem em harmonia, ouvindo uns aos outros, sem um maestro.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Mesh Wi-Fi em casa:</strong> Enquanto um único modem fica fraco em um cômodo, 2 a 3 unidades mesh colocadas pela casa fornecem cobertura contínua sob um único nome de rede. Sua conexão não cai ao passar de um cômodo para outro.<br><strong>Casa inteligente:</strong> A lâmpada, o termostato e os sensores são conectados entre si; se um deles for desativado, o sinal continua seu caminho através do dispositivo vizinho.<br><strong>Redes de emergência:</strong> Em áreas onde a infraestrutura foi danificada, os telefones se conectam uns aos outros para transmitir mensagens.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Existem três mecanismos que sustentam a estrutura de malha (mesh):</p><p><strong>Descoberta de nós (Discovery):</strong> Cada nó descobre os nós ao seu redor e mantém sua lista de conexões atualizada.<br><strong>Roteamento:</strong> Os dados são transferidos de nó para nó, da origem ao destino. Alguns protocolos transmitem a mensagem para todos, enquanto outros calculam o caminho mais curto.<br><strong>Auto-recuperação:</strong> Se um nó ficar inativo, o tráfego é automaticamente redirecionado para outro caminho. Não há um único ponto de falha.</p><p>Essa resiliência tem um preço: cada salto (hop) adiciona latência e, como os nós transportam o tráfego uns dos outros, a largura de banda total é compartilhada. É por isso que as redes mesh são preferidas onde a cobertura e a resiliência são mais importantes do que a velocidade.</p><p>O service mesh em microsserviços é um pouco diferente: um pequeno proxy chamado sidecar é colocado ao lado dos serviços. O tráfego flui através desses proxies, de modo que políticas de observabilidade, segurança e novas tentativas são aplicadas a cada serviço sem a necessidade de escrever código separado.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Urbanismo:</strong> Ruas em grade. Se uma rua for fechada, o tráfego flui pelas ruas vizinhas.<br><strong>Têxtil:</strong> Trama do tecido. Mesmo se um único fio se romper, o tecido mantém sua integridade estrutural.<br><strong>Biologia:</strong> Redes neurais. O sinal pode contornar a região danificada.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Para que serve o Mesh Wi-Fi?</p><p class="dict-faq-a">Ele fornece um sinal forte em todos os cômodos da casa sob um único nome de rede. A diferença em relação aos repetidores de alcance é que ele tenta não perder a conexão ao alternar entre os cômodos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Service mesh e rede mesh são a mesma coisa?</p><p class="dict-faq-a">Não. Uma rede mesh é a forma como os dispositivos se conectam. Um service mesh, por outro lado, é a camada de software que gerencia o tráfego entre microsserviços. Ambos se alimentam da ideia de conectividade descentralizada.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Mesh é sempre melhor?</p><p class="dict-faq-a">Não. Em casas pequenas ou ambientes com poucos dispositivos, um único modem potente pode ser mais simples e rápido. O Mesh faz sentido para problemas de cobertura ou estruturas com vários nós.</p></div><div class="dict-faq-item"><p class="dict-faq-q">É difícil de instalar?</p><p class="dict-faq-a">Os kits mesh residenciais geralmente são configurados em minutos com um aplicativo móvel. Já a instalação de rede mesh corporativa ou de serviço exige planejamento.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/service-mesh/">Service Mesh</a><a href="/pt/dictionary/network-stack/">Network Stack</a><a href="/pt/dictionary/distributed/">Distributed</a></div></section>
-<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/bitchat/">Bitchat</a><a href="/pt/discover/meshery/">Meshery</a><a href="/pt/discover/meshoptimizer/">Meshoptimizer</a><a href="/pt/discover/bitchat-android/">Bitchat Android</a><a href="/pt/discover/modly/">Modly</a></div></section>
+<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/bitchat/">Bitchat</a><a href="/pt/discover/meshery/">Meshery</a><a href="/pt/discover/meshoptimizer/">Meshoptimizer</a><a href="/pt/discover/tailcat/">Tailcat</a><a href="/pt/discover/bitchat-android/">Bitchat Android</a><a href="/pt/discover/modly/">Modly</a><a href="/pt/discover/spirula-studio/">Spirula Studio</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="mesh" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/mesh/">Ler em turco →</a></p>
 </article>

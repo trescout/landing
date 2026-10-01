@@ -1,19 +1,31 @@
 # Was ist Binary?
 
-Es ist die grundlegendste Maschinensprache, die der Computer nur mit 0 und 1 versteht.
+Binary (auf Türkisch ikili genannt) ist die Maschinensprache, die mit 0 und 1 arbeitet.
 
-## Definition
-Computer verfügen entweder über elektrischen Strom oder nicht. Wir stellen diese „anwesenden“ und „abwesenden“ Zustände als 1 und 0 dar. Alle komplexen Programme, die Sie schreiben, werden letztendlich in dieses Binärsystem umgewandelt und vom Computer ausgeführt.
+## Definition und Wortherkunft
+Entweder fließt Strom im Stromkreis oder nicht, was 1 und 0 entspricht. Alle Programme werden letztendlich in diese Sprache übersetzt. Menschen schreiben kein Binär, Sprachen werden durch einen Compiler übersetzt.
 
-## So funktioniert es
-Die Leute schreiben Binärdateien nicht direkt; Programmiersprachen wandeln die von uns geschriebenen Texte durch Compiler in ein Binärformat um.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Prozessor: Befehlsausführung.Speicher: Zellenwerte.Datei: Tiefste Schicht.
 
-## Wo es eingesetzt wird
-Es befindet sich in den tiefsten Schichten von Prozessoren, Speicherverwaltung und Dateiformaten.
+## Technische Tiefe und Architektur
+Einheiten:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Lampe: Ein und aus.Morsezeichen: Punkt und Strich.Schalter: Vor und zurück.
+
+## Häufig gestellte Fragen
 **Warum nur 0 und 1?**
-Denn die Unterscheidung zweier Zustände (Spannung vorhanden/nicht vorhanden) in elektronischen Schaltkreisen ist viel stabiler und schneller als die Unterscheidung mehrerer Zustände.
+Zwei Zustände zu unterscheiden ist stabil und schnell. Mehr führt zu Fehlern und Kosten.
+
+**Was ist ein Byte?**
+Es ist eine Gruppe von 8 Bit. Es ist die Einheit für Zeichen und kleine Zahlen.
+
+**Lesen Menschen das?**
+Selten. Bei der Fehlerbehebung wird die Hexadezimalansicht verwendet, nicht die binäre.
+
+**Gibt es kein ternäres System?**
+Es wurde versucht, hat sich aber nicht durchgesetzt. Das binäre hat durch seine Einfachheit gewonnen.
 
 
 ## Verwandte Begriffe
@@ -22,8 +34,11 @@ Denn die Unterscheidung zweier Zustände (Spannung vorhanden/nicht vorhanden) in
 - [System Programming Language](/de/dictionary/system-programming-language/)
 
 ## Verwandte Werkzeuge
+- [Ghidra](/de/discover/ghidra/)
 - [Protobuf](/de/discover/protobuf/)
+- [Trivy](/de/discover/trivy/)
 - [OfficeCLI](/de/discover/officecli/)
+- [Ipatool](/de/discover/ipatool/)
 - [Hister](/de/discover/hister/)
 
 ---

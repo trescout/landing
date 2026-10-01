@@ -1,27 +1,40 @@
 # O que é Script?
 
-É uma sequência curta e direta de comandos escritos para fazer com que o computador execute determinado trabalho automaticamente.
+Um script (com equivalente em turco betik) é uma breve sequência de comandos cuja única função é executar tarefas automaticamente.
 
-## Definição
-Os scripts geralmente são escritos para resolver rapidamente uma única tarefa, em vez de estruturas complexas, como grandes projetos de software. Ele pode ser usado para renomear um arquivo, limpar dados ou iniciar um programa. No mundo do TreScout, estes são os seus pequenos assistentes digitais que facilitam o seu trabalho.
+## Definição e origem da palavra
+Em vez de um grande projeto, resolve-se uma única tarefa: renomear arquivos, limpar dados, iniciar programas. Os comandos são escritos em um arquivo de texto e executados pelo interpretador. Não é necessária compilação, é o formato escreve-e-executa.
 
-## Como funciona
-Os comandos são escritos em um arquivo de texto simples e este arquivo é executado por um interpretador.
+## Como conhecer e usar no dia a dia?
+Sistema: Backup e limpeza.Dados: Operações de arquivos em lote.Navegador: Extensões de automação de páginas.
 
-## Onde é usado
-Ele é usado em automações de sistemas operacionais, trabalhos de limpeza de dados e plug-ins de navegadores da web.
+## Profundidade Técnica e Arquitetura
+Fluxo de trabalho:
 
-## Costuma ser confundido com
-Não deve ser confundido com grandes aplicativos de software; os scripts são mais leves e rápidos.
+## Coisas frequentemente misturadas
+Acha-se que é uma aplicação. A aplicação é grande e precisa ser compilada, enquanto o script é leve e instantâneo. Ambos são ferramentas de escalas diferentes.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Lista: Descrição de trabalho passo a passo.Cartão de receita: Instrução curta e medida.Autômato: Mecanismo que funciona ao inserir uma ficha.
+
+## Perguntas Frequentes
 **Alguém pode escrever?**
-Sim, é muito fácil escrever scripts simples depois de aprender a lógica básica.
+Sim. Com a lógica básica, escrevem-se scripts simples; tarefas complexas vêm com a prática.
+
+**Qual idioma deve ser escolhido?**
+Bash é um começo prático para tarefas de sistema, e Python para tarefas gerais.
+
+**Como é executado?**
+Pelo nome do interpretador ou diretamente com permissão de execução. No Windows, usa-se WSL ou PowerShell.
+
+**É seguro?**
+Scripts de fontes confiáveis, sim. Um script obtido da internet não deve ser executado sem ser lido.
 
 
 ## Termos relacionados
 - [CLI](/pt/dictionary/cli/)
 - [Tools](/pt/dictionary/tools/)
+- [Shell](/pt/dictionary/shell/)
 
 ## Ferramentas relacionadas
 - [NVM](/pt/discover/nvm/)

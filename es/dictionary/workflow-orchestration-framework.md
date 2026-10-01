@@ -1,22 +1,34 @@
 # ¿Qué es Workflow Orchestration Framework?
 
-Es una infraestructura regulatoria que gestiona cómo y en qué orden se realizan tareas complejas.
+Un marco de orquestación de flujos de trabajo es la infraestructura que pone en cola las tareas dependientes y gestiona los errores.
 
-## Definición
-En procesos donde hay muchas tareas interconectadas, es un sistema de gestión el que determina qué trabajo se terminará primero y cuál se intentará nuevamente en caso de error. Cuando finaliza una tarea, automáticamente comienza otra. De esta manera, los procesos complejos se ejecutan de forma ordenada y sin errores.
+## Definición y origen de la palabra
+La orquestación significa la gestión de una orquesta. Cuando una tarea termina, comienza la siguiente; si ocurre un error, se vuelve a intentar o se envía una notificación. Las tareas de múltiples partes que no se pueden seguir manualmente se confían a este sistema.
 
-## Cómo funciona
-Tú defines el proceso; Por ejemplo, dice "primero descargue los datos, luego límpielos y finalmente analícelos". El marco sigue estos pasos y, si la descarga falla, detiene el proceso y le notifica.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Datos: Canales que funcionan por la noche.Agente: Cadenas de tareas.Institucional: Procesos aprobados.
 
-## Dónde se usa
-Se utiliza en procesos de procesamiento de big data, gestión de tareas de agentes de inteligencia artificial y sistemas de software empresarial.
+## Profundidad técnica y arquitectura
+Regiones:
 
-## Suele confundirse con
-No es sólo una aplicación de "lista" o "tareas pendientes"; Estos sistemas pueden gestionar errores en el proceso y tomar decisiones automáticas.
+## Cosas frecuentemente mezcladas
+Se confunde con una lista de tareas pendientes. Una lista es pasiva, el framework gestiona el manejo de errores y toma decisiones automáticas.
+
+## Uso en diferentes disciplinas
+Orquesta: Entrada y orden de silencio.Tráfico aéreo: Orden de despegue.Ferrocarril: Horario de trenes.
 
 ## Preguntas frecuentes
-**¿Por qué necesitamos esto?**
-Se utiliza para evitar cometer errores en los casos en los que hay demasiadas tareas interconectadas que deben seguirse manualmente.
+**¿Por qué es necesario?**
+Cuando los trabajos dependientes se vuelven imposibles de monitorear manualmente, el error es inevitable. El orquestador absorbe el error y el trabajo repetido.
+
+**¿Cuándo es necesario?**
+Cuando aumenta el número de tareas y las dependencias. Configurar un orquestador para un trabajo de tres pasos puede ser excesivo.
+
+**¿Cuál es la diferencia con Cron?**
+Cron programa horarios, el orquestador también gestiona las dependencias y los errores. Cron activa, el framework ejecuta.
+
+**¿Cuál se debe elegir?**
+Dependiendo del ecosistema y del conocimiento del equipo. Se prefiere algo ligero para trabajos pequeños y con todas las funciones para trabajos grandes.
 
 
 ## Términos relacionados

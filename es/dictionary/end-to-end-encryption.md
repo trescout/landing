@@ -2,26 +2,35 @@
 
 > E2EE
 
-Es un método de seguridad en el que los mensajes sólo pueden ser leídos por el remitente y el destinatario, y nadie en el medio puede ver el contenido.
+El cifrado de extremo a extremo (end-to-end encryption) es un sistema de seguridad que solo permite la lectura a los extremos.
 
-## Definición
-El cifrado de extremo a extremo es el proceso de bloquear datos tan pronto como salen de su dispositivo y solo se pueden abrir con la clave de la persona objetivo. Gracias a este método, los proveedores de servicios o terceros que posean los datos nunca podrán ver su contenido. Es uno de los escudos más básicos que protegen tu privacidad en el mundo digital.
+## Definición y origen de la palabra
+Los datos se bloquean en el dispositivo y se desbloquean en el destino. El transportista y el servidor no pueden ver el contenido. Es el escudo fundamental de la privacidad. WhatsApp y Signal son ejemplos conocidos.
 
-## Cómo funciona
-Cuando escribes un mensaje, tu dispositivo lo convierte en un código complejo. Este código permanece cifrado a medida que pasa por Internet. Cuando llega al dispositivo del destinatario, se vuelve a convertir en texto legible con una clave especial que solo tiene el destinatario.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Mensaje: Chats privados.Archivo: Transferencia segura.Respaldo: Copia cifrada.
 
-## Dónde se usa
-Se utiliza en aplicaciones de mensajería como WhatsApp o Signal, transferencias seguras de archivos y servicios de almacenamiento en la nube orientados a la privacidad.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-Sólo difiere del cifrado entre usted y el servidor; Aquí ni siquiera el servidor puede ver el contenido.
+## Cosas frecuentemente mezcladas
+Se confunde con TLS. TLS protege en tránsito, el servidor puede ver el contenido. En el cifrado de extremo a extremo, ni siquiera el servidor puede verlo. Uno es como una armadura de mensajero, el otro es un sobre sellado.
+
+## Uso en diferentes disciplinas
+Caja cerrada con llave: El transportista no puede ver el contenido.Sello: Un sobre que se nota si ha sido abierto.Circuito cerrado: Línea cerrada al exterior.
 
 ## Preguntas frecuentes
-**¿Se pueden leer mis mensajes si son robados?**
-No, dado que sólo usted y el destinatario tienen la clave, para los demás estos mensajes son sólo montones de caracteres sin sentido.
+**¿Se puede leer si es robado?**
+No. La clave está en los extremos, lo robado es un montón de datos sin sentido.
 
 **¿Está disponible en todas las aplicaciones?**
-No, no todas las aplicaciones ofrecen esta función; Debes verificarlo en la configuración antes de usarlo.
+No. Se verifica en la configuración, no se hacen suposiciones.
+
+**¿Cómo se realiza la copia de seguridad?**
+Se requiere una copia de seguridad cifrada y un código de recuperación. No hay forma de restaurar sin el código.
+
+**¿Es adecuado para empresas?**
+Se equilibra con la necesidad de registro y auditoría. Se establece la política.
 
 
 ## Términos relacionados

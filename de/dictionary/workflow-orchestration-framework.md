@@ -1,22 +1,34 @@
 # Was ist Workflow Orchestration Framework?
 
-Dabei handelt es sich um eine regulatorische Infrastruktur, die verwaltet, wie und in welcher Reihenfolge komplexe Aufgaben erledigt werden.
+Ein Workflow-Orchestration-Framework ist die Infrastruktur, die abhängige Aufgaben in eine Reihenfolge bringt und Fehler verwaltet.
 
-## Definition
-In Prozessen, in denen es viele miteinander verbundene Aufgaben gibt, ist es ein Managementsystem, das bestimmt, welcher Job zuerst abgeschlossen wird und welcher im Fehlerfall erneut versucht wird. Wenn eine Aufgabe abgeschlossen ist, wird automatisch eine andere gestartet. Auf diese Weise laufen komplexe Prozesse fehlerfrei und geordnet ab.
+## Definition und Wortherkunft
+Orchestration bedeutet Orchesterleitung. Ist eine Aufgabe erledigt, beginnt die nächste; tritt ein Fehler auf, wird es erneut versucht oder eine Benachrichtigung gesendet. Komplexe, mehrstufige Abläufe, die sich nicht manuell nachhalten lassen, werden diesem System anvertraut.
 
-## So funktioniert es
-Sie definieren den Prozess; Sie sagen beispielsweise: „Laden Sie zuerst die Daten herunter, bereinigen Sie sie und analysieren Sie sie zuletzt.“ Das Framework befolgt diese Schritte. Wenn der Download fehlschlägt, stoppt es den Vorgang und benachrichtigt Sie.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Daten: Nachts laufende Pipelines.Agent: Aufgabenketten.Institutionell: Freigegebene Prozesse.
 
-## Wo es eingesetzt wird
-Es wird in Big-Data-Verarbeitungsprozessen, im Aufgabenmanagement von Agenten für künstliche Intelligenz und in Unternehmenssoftwaresystemen eingesetzt.
+## Technische Tiefe und Architektur
+Teile:
 
-## Häufig verwechselt mit
-Es handelt sich nicht nur um eine „Listen“- oder „To-Do“-App; Diese Systeme können Fehler im Prozess verwalten und automatische Entscheidungen treffen.
+## Häufig gemischte Dinge
+Man hält es für eine To-Do-Liste. Eine Liste ist passiv, das Framework handhabt Fehler und trifft automatische Entscheidungen.
 
-## Häufige Fragen
-**Warum brauchen wir das?**
-Es wird verwendet, um Fehler zu vermeiden, wenn zu viele miteinander verbundene Aufgaben vorhanden sind, als dass sie manuell ausgeführt werden könnten.
+## Einsatz in verschiedenen Disziplinen
+Orchester: Eingangs- und Ruhezeitenregelung.Flugverkehr: Startreihenfolge.Eisenbahn: Zugfahrplan.
+
+## Häufig gestellte Fragen
+**Warum wird es benötigt?**
+Wenn voneinander abhängige Aufgaben nicht mehr manuell nachverfolgt werden können, sind Fehler unvermeidlich. Ordnung bewältigt Fehler und redundante Arbeit.
+
+**Wann ist das erforderlich?**
+Wenn die Anzahl der Aufgaben und die Abhängigkeiten zunehmen. Bei einem Prozess mit drei Schritten kann die Einrichtung zu viel des Guten sein.
+
+**Worin besteht der Unterschied zu Cron?**
+Cron plant Zeiten, während Orchestrierung auch Abhängigkeiten und Fehler verwaltet. Cron löst aus, das Framework führt aus.
+
+**Welches soll gewählt werden?**
+Basierend auf dem Ökosystem und dem Teamwissen. Bei kleinen Aufgaben wird eine leichte Lösung bevorzugt, bei großen oder fehleranfälligen eine voll ausgestattete.
 
 
 ## Verwandte Begriffe

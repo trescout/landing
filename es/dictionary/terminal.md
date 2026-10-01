@@ -1,22 +1,34 @@
 # ¿Qué es Terminal?
 
-Es una interfaz de pantalla negra que le permite comunicarse directamente con su computadora sin usar un mouse, simplemente escribiendo comandos de texto.
+La terminal es la interfaz a través de la cual se comunica con el ordenador mediante comandos de texto.
 
-## Definición
-El terminal es la puerta al 'capó' de la computadora. Es útil para realizar configuraciones profundas del sistema, desarrollo de software y administración de archivos que las interfaces gráficas (GUI) no pueden realizar. Es el área de trabajo más básica de los desarrolladores de software.
+## Definición y origen de la palabra
+Proviene de los antiguos terminales de teletipo. Se escribe un comando, se presiona la tecla Enter y el resultado se devuelve en forma de texto. Desde aquí se realizan configuraciones avanzadas, operaciones por lotes y gestión de servidores que la interfaz gráfica no puede hacer. Es el espacio de trabajo diario del programador.
 
-## Cómo funciona
-Escribe comandos en su teclado y presiona 'Entrar'. La computadora procesa este comando instantáneamente y le devuelve el resultado como texto.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Desarrollo: Instalación de paquetes, compilación, pruebas.Presentador: Gestión de máquinas remotas.Automatización: Tareas repetitivas con scripts.
 
-## Dónde se usa
-Se utiliza en procesos de desarrollo de software, gestión de servidores y trabajos de automatización.
+## Profundidad técnica y arquitectura
+La distinción es importante:
 
-## Suele confundirse con
-Está mezclado con GUI; La terminal es completamente de texto mientras que la GUI es completamente visual.
+## Cosas frecuentemente mezcladas
+Se confunde con la GUI. La GUI es visual, el terminal es textual. También se confunde con el shell: el terminal es la ventana, el shell es el intérprete.
+
+## Uso en diferentes disciplinas
+Cocina de un restaurante: Ingredientes directos en lugar de un menú.Carlinga: Control directo con un botón.Sala de máquinas: Girar las válvulas a mano.
 
 ## Preguntas frecuentes
 **¿Es necesario aprender la terminal?**
-Si quieres adentrarte en el mundo del software, sí, porque muchas herramientas sólo funcionan a través del terminal.
+Si vas por el camino del software, sí. Muchas herramientas solo funcionan desde el terminal, los fundamentos se aprenden en días.
+
+**¿Cuál es la diferencia con el shell?**
+El terminal es la ventana, el shell es el intérprete. Puedes cambiar de shell sin cambiar de ventana.
+
+**¿Con cuál se debe empezar?**
+Con los comandos de archivos: Dónde, listar, entrar, salir. El resto llega según la necesidad.
+
+**¿Un comando incorrecto causa daños?**
+Los comandos de lectura no causan daños. En los comandos que borran y escriben, la ruta y los comodines se verifican dos veces.
 
 
 ## Términos relacionados
@@ -29,8 +41,8 @@ Si quieres adentrarte en el mundo del software, sí, porque muchas herramientas 
 - [Codex](/es/discover/codex/)
 - [PI](/es/discover/pi/)
 - [Terminal](/es/discover/terminal/)
-- [Career Ops](/es/discover/career-ops/)
 - [Cline](/es/discover/cline/)
+- [Career Ops](/es/discover/career-ops/)
 - [Openinterpreter](/es/discover/openinterpreter/)
 - [Free Claude Code](/es/discover/free-claude-code/)
 

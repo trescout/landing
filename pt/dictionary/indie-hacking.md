@@ -1,25 +1,34 @@
 # O que é Indie Hacking?
 
-É a cultura de desenvolver e lançar produtos digitais sozinho ou com equipes muito pequenas, sem o apoio de grandes empresas.
+Indie hacking (com o equivalente em turco, empreendedorismo independente), é a cultura de desenvolver produtos e gerar receita sozinho ou com uma pequena equipe.
 
-## Definição
-O hacking independente é um modelo de trabalho onde você cria seu próprio software ou produto digital do zero e o gerencia de forma independente. Nesse processo, você não apenas escreve o código, mas também cuida do marketing, das vendas e do suporte ao cliente do produto. O objetivo principal é criar sua própria fonte de renda sem estar vinculado a uma empresa.
+## Definição e origem da palavra
+"Indie" significa independente, e "hacking" significa solução engenhosa. Você constrói o seu próprio produto do zero e também assume o marketing e o suporte. O objetivo principal é criar sua própria fonte de renda sem ficar preso a uma empresa. Além do código, todo o negócio pertence a você.
 
-## Como funciona
-Primeiro você encontra um pequeno problema que deseja resolver e depois desenvolve um produto simples. Você oferece este produto aos usuários pela Internet e o aprimora com base no feedback. Uma vez bem-sucedido, este produto se torna uma fonte de renda passiva ou ativa para você.
+## Como conhecer e usar no dia a dia?
+Micro SaaS: Pequeno produto de assinatura focado em um único problema.Conteúdo: Boletim informativo, e-book, curso.Modelo: Pacotes de design e código.Veículo: Aplicações web de funcionalidade única.
 
-## Onde é usado
-Você frequentemente encontra isso em projetos pessoais, pequenas comunidades empresariais e processos independentes de desenvolvimento de software.
+## Profundidade Técnica e Arquitetura
+Fluxo de trabalho:
 
-## Costuma ser confundido com
-Pode ser confundido apenas com um projeto de hobby, mas o hacking independente tem tudo a ver com a comercialização do produto e a geração de receita.
+## Coisas frequentemente misturadas
+Pensa-se que é um projeto de hobby. Em um hobby não há meta de receita, mas no indie hacking a comercialização é obrigatória. Também se confunde com freela: Freela vende horas, o indie vende produtos.
 
-## Perguntas frequentes
-**É necessário conhecer um código muito bom para ser um hacker independente?**
-Não, o conhecimento básico de código é suficiente. Muitos hackers independentes também obtêm sucesso usando ferramentas prontas para uso e plataformas de baixo código.
+## Use em diferentes disciplinas
+Food truck: Cozinha pequena, menu próprio, clientes próprios.Músico de rua: Repertório e economia de gorjetas.Padaria artesanal: Pouca variedade, clientes fiéis.
+
+## Perguntas Frequentes
+**É obrigatório saber programar muito bem?**
+Não. O nível básico é suficiente, ferramentas prontas cobrem a lacuna. O trabalho real é encontrar o problema certo.
 
 **Qual é a coisa mais importante neste processo?**
-Em vez de escrever código, trata-se de encontrar um problema que as pessoas realmente precisam e resolvê-lo.
+É encontrar um usuário pagante. O problema e o canal de distribuição vêm antes do código.
+
+**Quanto capital é necessário?**
+A maioria dos negócios começa com bootstrap: um pequeno orçamento para domínio, hospedagem e ferramentas é suficiente.
+
+**Qual é a taxa de falha?**
+É alta, a maioria das tentativas não dá certo. Começar pequeno e desistir rapidamente faz parte do método.
 
 
 ## Termos relacionados

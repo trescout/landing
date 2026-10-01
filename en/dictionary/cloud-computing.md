@@ -1,27 +1,33 @@
 # What is Cloud Computing?
 
-It is the provision of computing services via remote servers over the internet.
+Cloud Computing is the provision of computing resources such as servers, storage, databases, networks and software on-demand from remote data centers over the Internet instead of physical local infrastructures.
 
-## Overview
-It allows you to perform transactions not on your own computer, but on powerful servers at the other end of the internet. In this way, you can process large data or run applications even if your hardware capacity is low. It is a kind of digital rental warehouse and processing power service.
+## Definition, etymology and conceptual genesis
+Cloud computing allows companies and engineers to build their own server rooms instead of purchasing physical hardware; It is a modern computing model that allows users to rent computing power, memory, storage and artificial intelligence GPU clusters over the internet in seconds.
 
-*Analogy: It's like getting electricity from the grid instead of having a generator in your own home; You use what you need and pay for what you use.*
+## Basic service and distribution models (IaaS, PaaS, SaaS, Serverless)
+Cloud computing architecture is divided into four main service models based on their level of abstraction:
 
-## How it works
-You upload your applications or data to remote servers accessible over the internet. The service provider manages this infrastructure, and you focus only on your software or data.
+## Computer science and system architecture: Hypervisor, container and CAP
+The technical miracle underlying cloud computing is the software abstraction of hardware (virtualization):
 
-## Where it is used
-It is used when hosting websites, big data analysis and backup systems.
+## Economic, ecological and geopolitical dimension
+Cloud computing is not only a technical revolution, but also a massive disruption in global resource allocation:
 
 ## Commonly confused with
-It may be confused with internet storage, but it is not just storage but also processing power service.
 
 ## Frequently asked questions
-**Why don't I use my own computer?**
-Because it saves you from the huge hardware costs required for professional work and provides access from anywhere.
+**What does cloud computing mean and what is its Turkish equivalent?**
+It means 'cloud computing' in Turkish. It is a model where computing power, servers, and storage resources are rented on-demand via the internet backbone rather than local computers.
 
-**Is it safe?**
-When configured correctly, it is generally more secure than personal computers.
+**What is the main difference between the 3 main cloud computing service models (IaaS, PaaS, SaaS)?**
+IaaS is raw hardware and virtual server rental (AWS EC2), PaaS is a direct code execution and hosting environment (Vercel), and SaaS is turnkey software delivered to the end user over the web (Google Docs).
+
+**What does the Shared Responsibility Model mean?**
+It is a security division where the cloud provider is responsible for protecting the physical infrastructure, data center, and hardware, while the user is responsible for their own application security, user permissions (IAM), and data encryption.
+
+**How can vendor lock-in be prevented?**
+By using open-source standards (Docker containers, Kubernetes), independent database engines (PostgreSQL), and Infrastructure as Code (Terraform / OpenTofu) tools, software is isolated from provider-specific proprietary APIs.
 
 
 ## Related terms
@@ -29,6 +35,9 @@ When configured correctly, it is generally more secure than personal computers.
 - [PaaS](/en/dictionary/paas/)
 - [IaaS](/en/dictionary/iaas/)
 - [Personal Cloud](/en/dictionary/personal-cloud/)
+- [Runtime](/en/dictionary/runtime/)
+- [Network Stack](/en/dictionary/network-stack/)
+- [Memory Management](/en/dictionary/memory-management/)
 
 ## Related tools
 - [DevOps-Interview-Guide](/en/discover/devops-interview-guide/)

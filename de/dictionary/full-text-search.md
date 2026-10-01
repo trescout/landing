@@ -1,25 +1,34 @@
 # Was ist Full Text Search?
 
-Dabei handelt es sich um eine detaillierte Suchmethode, bei der der gesamte Textinhalt eines Dokuments oder einer Datenbank gescannt wird, nicht nur die Titel.
+Full-Text-Suche ist die Suchmethode, mit der Wörter gefunden werden, die im gesamten Inhalt von Dokumenten vorkommen.
 
-## Definition
-Die Volltextsuche stellt sicher, dass ein gesuchtes Wort überall dort gefunden wird, wo es im Dokument vorkommt. Während einfache Suchmethoden normalerweise nur nach Dateinamen suchen, analysiert diese Methode jeden Satz und jedes Wort innerhalb des Dokuments. Dies ist die effektivste Möglichkeit, auf die gesuchten Informationen zuzugreifen, insbesondere in großen Archiven.
+## Definition und Wortherkunft
+Während die einfache Suche den Dateinamen prüft, durchsucht die Volltextsuche jeden Satz im Dokument. Sie ist der effektivste Weg, um in großen Archiven an Informationen zu gelangen. Ihre moderne Infrastruktur basiert auf einer Struktur namens invertierter Index (inverted index).
 
-## So funktioniert es
-Das System wandelt den gesamten Text vorab in einen Index um. Wenn Sie ein Wort eingeben, listet dieser Index sofort auf, in welchem ​​Dokument und wo sich die gesuchten Informationen befinden.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Internetsuche: Nach einem Thema im Blog suchen.E-Mail: Einen Beitrag von vor Jahren finden.Code: Nach einer Funktion im Repository suchen.Recht: Ein Rechtsprechungarchiv durchsuchen.
 
-## Wo es eingesetzt wird
-Es wird in Suchmaschinen, Datenbankverwaltungssystemen und großen Dokumentenarchiven verwendet.
+## Technische Tiefe und Architektur
+Die Zeile lautet wie folgt:
 
-## Häufig verwechselt mit
-Es kann mit einer Metadatensuche verwechselt werden; Während Metadaten nur Dateiinformationen betrachten, betrachtet diese Methode den Inhalt.
+## Häufig gemischte Dinge
+Kann mit Metadatensuche verwechselt werden. Die Metadatensuche betrachtet Dateidateien (Name, Datum, Größe), während die Volltextsuche den Inhalt betrachtet. Die Vektorsuche hingegen betrachtet nicht das Wort, sondern die Bedeutung.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Bibliothek: Volltextsuche anstelle von Zettelkatalogen.Buch: Das Register (Index) am Ende.Archiv: Suche nach einem Thema in einer Zeitungsausschnittsammlung.
+
+## Häufig gestellte Fragen
 **Wird es nicht zu langsam laufen?**
-Dank der vorab erstellten Indizierung liefert es sehr schnelle Ergebnisse.
+Dank des vorab erstellten Index liefert es innerhalb von Sekunden Ergebnisse. Eine Suche ohne Index ist langsam, daher ist ein Index unerlässlich.
 
 **Funktioniert es bei allen Dateitypen?**
-Es funktioniert normalerweise bei textbasierten Dateien, kann aber auch bei OCR-gescannten Dokumenten verwendet werden.
+Ja, bei Dateien, aus denen Text extrahiert werden kann. Bei gescannten Dokumenten wird der Text zunächst mittels OCR ermittelt.
+
+**Bereiten türkische Suffixe Probleme?**
+Bei der qualifizierten Analyse werden Suffixe auf den Wortstamm zurückgeführt. Bei einer Engine mit schwacher Sprachunterstützung sinkt die Trefferquote, daher ist eine türkisch unterstützte Konfiguration erforderlich.
+
+**Wann ist eine Vektorsuche erforderlich?**
+Wenn Synonyme und Konzepte gesucht werden. Wenn keine Schlüsselwörter gefunden werden können, greift die Vektorsuche; beide zusammen sind leistungsstark.
 
 
 ## Verwandte Begriffe

@@ -1,19 +1,31 @@
 # Qu'est-ce que Binary ?
 
-Il s’agit du langage machine le plus élémentaire que l’ordinateur comprend en utilisant uniquement 0 et 1.
+Le binaire (Binary en anglais) est un langage machine qui fonctionne avec des 0 et des 1.
 
-## Définition
-Soit les ordinateurs contiennent du courant électrique, soit ils n'en ont pas. Nous représentons ces états « présent » et « absent » par 1 et 0. Tous les programmes complexes que vous écrivez sont finalement convertis dans ce système binaire et exécutés par l'ordinateur.
+## Définition et origine du mot
+Dans le circuit, le courant est soit présent, soit absent, ce qui correspond à 1 et 0. Au plus profond, tous les programmes sont traduits dans ce langage. Les humains n'écrivent pas en binaire, les langages le traduisent à l'aide d'un compilateur.
 
-## Comment ça marche
-Les gens n’écrivent pas directement du binaire ; Les langages de programmation convertissent les textes que nous écrivons au format binaire via des compilateurs.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Processeur : Exécution des commandes.Mémoire : Valeurs des cellules.Fichier : La couche la plus profonde.
 
-## Où est-ce utilisé
-Il réside dans les couches les plus profondes des processeurs, de la gestion de la mémoire et des formats de fichiers.
+## Profondeur technique et architecture
+Unités :
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Ampoule : Allumée et éteinte.Morse : Point et trait.Interrupteur : En avant et en arrière.
+
+## Foire aux questions
 **Pourquoi seulement 0 et 1 ?**
-Parce que distinguer deux états (tension présente/absente) dans les circuits électroniques est beaucoup plus stable et plus rapide que distinguer plusieurs états.
+Distinguer deux états est stable et rapide. Plus que cela engendre des erreurs et des coûts.
+
+**Qu'est-ce qu'un octet ?**
+C'est un groupe de 8 bits. C'est l'unité des caractères et des petits nombres.
+
+**Les humains lisent-ils cela ?**
+Rarement. En débogage, la vue hexadécimale est utilisée, on ne descend pas au binaire.
+
+**Ne peut-on pas avoir un système ternaire ?**
+Ça a été essayé, sans succès. Le binaire a gagné grâce à sa simplicité.
 
 
 ## Termes liés
@@ -22,8 +34,11 @@ Parce que distinguer deux états (tension présente/absente) dans les circuits �
 - [System Programming Language](/fr/dictionary/system-programming-language/)
 
 ## Outils liés
+- [Ghidra](/fr/discover/ghidra/)
 - [Protobuf](/fr/discover/protobuf/)
+- [Trivy](/fr/discover/trivy/)
 - [OfficeCLI](/fr/discover/officecli/)
+- [Ipatool](/fr/discover/ipatool/)
 - [Hister](/fr/discover/hister/)
 
 ---

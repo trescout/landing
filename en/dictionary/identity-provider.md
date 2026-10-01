@@ -1,54 +1,40 @@
-# What is an Identity Provider?
+# What is Identity Provider?
 
-> Identity & Access Management Service
+An identity provider is a centralized service that authenticates logins.
 
-**Category:** Dev  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+Instead of a separate password for each application, sign-in is done from a single center. The application asks who you are to the service and gets approval. Your password is not distributed to applications, it stays at the center.
 
-An Identity Provider (IdP) is a centralized authentication system that creates, maintains, and verifies digital user identities across multiple distributed web applications and services.
-
-## Definition and Etymology
-In modern software architectures, applications should not manage passwords individually. An Identity Provider decouples authentication logic from business applications, allowing users to verify their credentials once and access multiple independent services securely via Single Sign-On (SSO).
-
-## Everyday Context and Practical Usage
-- **Social Login:** 'Sign in with Google, GitHub, or Apple' buttons embedded into consumer applications.
-- **Enterprise Access:** Managing workforce permissions and MFA policies across company tools using Okta or Microsoft Entra ID.
-- **Developer Platforms:** Self-hosted identity servers like Keycloak and Authentik powering microservice ecosystems.
+## How to Know and Use in Daily Life?
+Company: All systems with a single sign-on.Web: Sign in with a social account.Institutional: Employee lifecycle.
 
 ## Technical Depth and Architecture
-Core Security Protocols:- **OpenID Connect (OIDC):** Identity layer built on top of OAuth 2.0 delivering cryptographically signed JSON Web Tokens (JWT / ID Tokens).
-- **SAML 2.0:** XML-based federation standard widely used in legacy and enterprise corporate environments.
-- **Multi-Factor Authentication (MFA):** Enforcing TOTP, hardware security keys (FIDO2/WebAuthn), and biometric verification at the identity boundary.
+Flow:
 
-## Commonly Confused With
-Often confused with a Service Provider (SP) or authorization server. The Identity Provider answers 'Who are you?' (authentication); the authorization layer determines 'What are you allowed to do?' (authorization).
+## Frequently Mixed Things
+Mistaken for a password manager. One stores the password, the other verifies the identity. One is a safe, the other is a notary.
 
-## Cross-Disciplinary Perspectives
-- **Travel:** A government passport issuing office verifying identity vs border control checking travel visas.
-- **Hospitality:** A hotel reception desk verifying your identification and issuing a keycard vs room door locks.
-- **Banking:** A centralized bank issuing an authentication token vs individual automated teller machines.
-
-## Analogy
-It functions like a hotel reception: you show identification once at check-in, receive an encoded keycard, and use that card to enter your room without presenting passport documents at every doorway.
+## Use in Different Disciplines
+Reception: Key card versus passport.Notary: Identity verification.Passport control: Passage with a stamp.
 
 ## Frequently Asked Questions
+**Is it safe?**
+Yes. Since the password is not distributed to every application, the attack surface is reduced.
 
-**What is the primary benefit of an Identity Provider?**  
-It eliminates the security risk of storing passwords across dozens of disparate databases while offering Single Sign-On convenience.
+**What happens if the system crashes?**
+Connected applications are affected. Redundancy and an emergency access plan are essential.
 
-**How does an IdP communicate with applications?**  
-Through open standards like OpenID Connect and SAML, transmitting signed cryptographic tokens containing user claims.
+**What is the difference of SSO?**
+SSO is a single sign-on experience and provider infrastructure. One is the face, the other is the backbone.
 
-**Can developers self-host an Identity Provider?**  
-Yes, popular open-source platforms like Keycloak, Authentik, and Authelia enable full on-premises identity management.
+**Can I set it up myself?**
+Yes, there are open-source options. Patching and backup discipline belong to you.
 
-**What happens if an Identity Provider experiences downtime?**  
-Users cannot authenticate into connected services; high-availability clustering and robust token caching are vital architectural prerequisites.
 
 ## Related terms
-- [Cloud Computing](/en/dictionary/cloud-computing/)
-- [Endpoint](/en/dictionary/endpoint/)
-- [Application](/en/dictionary/application/)
+- [SSO](/en/dictionary/sso/)
+- [OIDC](/en/dictionary/oidc/)
+- [RBAC](/en/dictionary/rbac/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/identity-provider/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/identity-provider/

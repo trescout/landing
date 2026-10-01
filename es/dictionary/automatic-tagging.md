@@ -1,25 +1,34 @@
 # ¿Qué es Automatic Tagging?
 
-El contenido de los datos o archivos es analizado y categorizado automáticamente por el sistema.
+El etiquetado automático es el proceso que consiste en leer el contenido y aplicarle etiquetas.
 
-## Definición
-El etiquetado automático ocurre cuando la inteligencia artificial lee el contenido y pega las etiquetas apropiadas en lugar de clasificar manualmente grandes cantidades de datos. Por ejemplo, cuando subes una foto, el sistema reconoce los objetos que contiene y los etiqueta como "naturaleza", "mar" o "personas". Este método garantiza que los datos permanezcan organizados y sean fáciles de encontrar.
+## Definición y origen de la palabra
+"Tag" significa etiqueta. El modelo escanea los datos, reconoce objetos y conceptos, y procesa la etiqueta adecuada de una lista predefinida en el archivo. El archivo se vuelve searchable.
 
-## Cómo funciona
-El modelo de inteligencia artificial escanea los datos, identifica palabras clave importantes o características visuales, relaciona estas características con etiquetas predefinidas y las asigna al archivo.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Fotografía: Etiquetas de objetos y rostros.Documento: Clasificación de temas.Social: Organización del contenido.
 
-## Dónde se usa
-Se utiliza en fototecas digitales, sistemas de gestión de documentos corporativos y plataformas de redes sociales.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-Se puede confundir con el etiquetado manual, pero aquí no hay intervención humana.
+## Cosas frecuentemente mezcladas
+Se cree que es etiquetado manual. Eso es obra humana, esto es salida del modelo. La velocidad es de la máquina, el juicio es del humano.
+
+## Uso en diferentes disciplinas
+Bibliotecario: No escribas la categoría de la portada.Oficina de correos: No pongas sello.Sello: Marcado de documentos.
 
 ## Preguntas frecuentes
-**¿Siempre las etiquetas correctas?**
-Depende de la calidad del entrenamiento de la inteligencia artificial; En ocasiones puede provocar un etiquetado incorrecto.
+**¿Es siempre correcto?**
+Depende de la formación. Si sale mal, se gestiona con un umbral y supervisión.
 
 **¿Por qué es importante?**
-Te permite encontrar lo que buscas en montones de datos en segundos.
+Proporciona hallazgos en cuestión de segundos dentro del montón. El archivo aporta valor.
+
+**¿Cuál es su umbral?**
+Es la puntuación de aceptación. Un valor alto reduce los falsos positivos, uno bajo ensucia los resultados.
+
+**¿Cuánto cuesta?**
+Hay un costo de modelo y supervisión. El volumen lo determina.
 
 
 ## Términos relacionados

@@ -1,25 +1,34 @@
 # Qu'est-ce que Full Text Search ?
 
-Il s'agit d'une méthode de recherche détaillée effectuée en analysant l'intégralité du contenu textuel d'un document ou d'une base de données, et pas seulement les titres.
+La recherche textuelle complète (ou recherche en texte intégral en turc) est une méthode de recherche qui trouve les mots présents dans l'ensemble du contenu des documents.
 
-## Définition
-La recherche en texte intégral garantit qu'un mot que vous recherchez est trouvé partout où il apparaît dans le document. Alors que les méthodes de recherche simples ne portent généralement que sur les noms de fichiers, cette méthode analyse chaque phrase et chaque mot du document. C’est le moyen le plus efficace d’accéder aux informations que vous recherchez, notamment dans les grandes archives.
+## Définition et origine du mot
+Alors que la recherche simple examine le nom du fichier, la recherche en texte intégral analyse chaque phrase à l'intérieur du document. C'est le moyen le plus efficace d'accéder à l'information dans les grands archives. Son infrastructure moderne repose sur une structure appelée index inversé (inverted index).
 
-## Comment ça marche
-Le système pré-convertit tout le texte en index. Lorsque vous tapez un mot, cet index répertorie instantanément dans quel document et où se trouve l'information que vous recherchez.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Recherche sur le site : Rechercher un sujet sur le blog.E-mail: Trouver un message d'il y a des années.Code: Rechercher une fonction dans le dépôt.Juridique : Parcourir les archives de jurisprudence.
 
-## Où est-ce utilisé
-Il est utilisé dans les moteurs de recherche, les systèmes de gestion de bases de données et les grandes archives de documents.
+## Profondeur technique et architecture
+La ligne est la suivante :
 
-## Souvent confondu avec
-Cela peut être confondu avec une recherche de métadonnées ; Alors que les métadonnées examinent uniquement les informations sur le fichier, cette méthode examine le contenu.
+## Choses fréquemment mélangées
+Il peut être confondu avec la recherche de métadonnées. Les métadonnées examinent les informations du fichier (nom, date, taille), tandis que la recherche en texte intégral examine le contenu. La recherche vectorielle, quant à elle, examine le sens et non le mot.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Bibliothèque : Recherche textuelle complète au lieu d'un catalogue sur fiches.Livre : La section d'index à la fin.Archive: Rechercher un sujet dans une collection de coupures de presse.
+
+## Foire aux questions
 **Ne va-t-il pas fonctionner trop lentement ?**
-Il donne des résultats très rapides grâce à une indexation pré-créée.
+Il donne des résultats en quelques secondes grâce à l'index préalablement établi. Une recherche sans index serait lente, l'index est donc indispensable.
 
 **Est-ce que ça marche sur tous les types de fichiers ?**
-Il fonctionne généralement sur des fichiers texte, mais peut également être utilisé sur des documents numérisés par OCR.
+Oui, pour les fichiers dont le texte est extractible. Dans le cas de documents numérisés, le texte est d'abord obtenu par OCR.
+
+**Est-ce que les suffixes turcs posent problème ?**
+Dans l'analyse qualitative, les suffixes sont ramenés à la racine. La précision baisse dans un moteur à faible support linguistique, une configuration avec support du turc est nécessaire.
+
+**Quand a-t-on besoin d'une recherche vectorielle ?**
+Lorsqu'on recherche des synonymes et des concepts. Si le mot-clé ne peut pas être trouvé, le vecteur entre en jeu, les deux combinés sont puissants.
 
 
 ## Termes liés

@@ -31,6 +31,7 @@ Certaines connaissances techniques peuvent être requises lors de la phase d’i
 - [Context Window](/fr/dictionary/context-window/)
 
 ## Outils liés
+- [Servers](/fr/discover/servers/)
 - [Goose](/fr/discover/goose/)
 - [Chrome Devtools MCP](/fr/discover/chrome-devtools-mcp/)
 - [Openclaude](/fr/discover/openclaude/)
@@ -38,7 +39,6 @@ Certaines connaissances techniques peuvent être requises lors de la phase d’i
 - [Context Mode](/fr/discover/context-mode/)
 - [Unity MCP](/fr/discover/unity-mcp/)
 - [DesktopCommanderMCP](/fr/discover/desktopcommandermcp/)
-- [Mobile MCP](/fr/discover/mobile-mcp/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/model-context-protocol-mcp/

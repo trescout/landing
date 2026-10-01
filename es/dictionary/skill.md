@@ -1,25 +1,34 @@
 # ¿Qué es Skill?
 
-Es un conjunto de habilidades especializadas que utilizan los asistentes de inteligencia artificial para realizar un trabajo o tarea específica.
+Una habilidad (Skill en su equivalente en turco) es una unidad definida que permite a un asistente de inteligencia artificial realizar tareas utilizando una herramienta externa.
 
-## Definición
-En el mundo de la inteligencia artificial, un asistente no basta con hablar en general; a veces necesita leer un archivo o buscar en Internet. A cada una de estas funciones especiales las llamamos habilidades. Estas capacidades permiten al asistente interactuar con el mundo exterior yendo más allá de las capacidades del lenguaje estándar.
+## Definición y origen de la palabra
+La conversación general del asistente no es suficiente; a veces necesita leer archivos o realizar búsquedas. Cada una de estas funciones específicas se define como una habilidad (skill). El concepto ha evolucionado desde la era de los asistentes de voz hasta la era de los agentes: desde las habilidades de Alexa hasta las capacidades de los agentes actuales.
 
-## Cómo funciona
-Cuando defines una capacidad para un sistema de IA, le proporcionas reglas y herramientas que describen cómo hacer un trabajo. El asistente analiza un comando que recibe y automáticamente selecciona y ejecuta la habilidad adecuada para ese trabajo.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Archivo: Lectura y resumen de documentos.Calendario: Programación de reuniones.Búsqueda: Recuperación de información actualizada.
 
-## Dónde se usa
-Se utiliza con frecuencia en plataformas de asistentes de IA, herramientas de automatización y sistemas multiagente que gestionan tareas complejas.
+## Profundidad técnica y arquitectura
+Una habilidad se compone de tres partes:
 
-## Suele confundirse con
-Puede confundirse con las capacidades generales de inteligencia artificial, pero lo que aquí se entiende es la capacidad del asistente para utilizar una herramienta externa.
+## Cosas frecuentemente mezcladas
+Se suele pensar que es una capacidad general del modelo. Sin embargo, aquí nos referimos a la habilidad del asistente para utilizar una herramienta externa. El modelo entiende el idioma, la habilidad hace el trabajo.
+
+## Uso en diferentes disciplinas
+Cocina: El cuchillo y las técnicas de salsa en manos del chef.Taladro: Función que cambia según la broca.Teléfono: Cada aplicación instalada.
 
 ## Preguntas frecuentes
-**¿Todos los modelos de inteligencia artificial tienen capacidades?**
-Los modelos básicos solo producen texto, pero los asistentes reciben capacidades al agregar herramientas externas a estos modelos.
+**¿Tiene cada modelo una capacidad?**
+No. Los modelos básicos generan texto, la capacidad se adquiere cuando se añade una herramienta externa al asistente.
 
 **¿Cómo desarrollar habilidades?**
-Por lo general, las conexiones API o bloques de código especiales se escriben para permitir que el asistente realice una tarea específica.
+Se define mediante una conexión API o un bloque de código. La descripción se escribe con claridad y el modelo la selecciona correctamente.
+
+**¿Es seguro?**
+Las capacidades de lectura son de bajo riesgo. En operaciones como escritura y pagos, la aprobación y el límite de alcance son obligatorios.
+
+**¿Quiénes escriben las capacidades?**
+Los desarrolladores las escriben y las plataformas las distribuyen en la tienda. Escribir una buena descripción es la mitad del trabajo.
 
 
 ## Términos relacionados
@@ -31,13 +40,13 @@ Por lo general, las conexiones API o bloques de código especiales se escriben p
 
 ## Herramientas relacionadas
 - [Anthropic Skills](/es/discover/anthropic-skills/)
-- [Browser Use](/es/discover/browser-use/)
 - [Taste Skill](/es/discover/taste-skill/)
 - [Awesome Claude Skills](/es/discover/awesome-claude-skills/)
 - [Archify](/es/discover/archify/)
 - [Last30days Skill](/es/discover/last30days-skill/)
 - [I Have Adhd](/es/discover/i-have-adhd/)
 - [Reverse Skill](/es/discover/reverse-skill/)
+- [Book to Skill](/es/discover/book-to-skill/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/skill/

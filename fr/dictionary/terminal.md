@@ -1,22 +1,34 @@
 # Qu'est-ce que Terminal ?
 
-Il s'agit d'une interface à écran noir qui vous permet de communiquer directement avec votre ordinateur sans utiliser de souris, simplement en tapant des commandes de texte.
+Le terminal est l'interface où vous parlez à l'ordinateur avec des commandes textuelles.
 
-## Définition
-Le terminal est la porte d'accès au « capot » de l'ordinateur. Il est utile pour effectuer des réglages système approfondis, le développement de logiciels et la gestion de fichiers que les interfaces graphiques (GUI) ne peuvent pas faire. C'est le domaine de travail le plus basique des développeurs de logiciels.
+## Définition et origine du mot
+Il provient d'anciens terminaux de machines à écrire. Vous tapez une commande, appuyez sur Entrée et le résultat est renvoyé sous forme de texte. Des paramètres approfondis, des opérations par lots et une gestion de serveur que l'interface graphique ne peut pas faire sont effectués ici. C'est l'espace de travail quotidien du développeur de logiciels.
 
-## Comment ça marche
-Vous tapez des commandes sur votre clavier et appuyez sur « Entrée ». L'ordinateur traite cette commande instantanément et vous renvoie le résultat sous forme de texte.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Développement: Installation des packages, compilation, tests.Présentateur: Gestion des machines à distance.Automatisation : Travail répétitif avec des scripts.
 
-## Où est-ce utilisé
-Il est utilisé dans les processus de développement de logiciels, la gestion de serveurs et les travaux d'automatisation.
+## Profondeur technique et architecture
+La distinction est importante :
 
-## Souvent confondu avec
-Il est mélangé avec une interface graphique ; Le terminal est entièrement textuel tandis que l'interface graphique est entièrement visuelle.
+## Choses fréquemment mélangées
+On le confond avec l'UI graphique. L'UI graphique est visuelle, le terminal est textuel. Il se confond aussi avec le shell : le terminal est la fenêtre, le shell est l'interpréteur.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Cuisine de restaurant : Des ingrédients directs au lieu du menu.Poste de pilotage : Contrôle direct par bouton.Salle des machines : Tourner les vannes à la main.
+
+## Foire aux questions
 **Est-il nécessaire d'apprendre le terminal ?**
-Si vous souhaitez vous lancer dans le monde du logiciel, oui, car de nombreux outils ne fonctionnent que via le terminal.
+Oui, si vous vous orientez vers le développement logiciel. De nombreux outils ne fonctionnent qu'à partir du terminal, et les bases s'apprennent en quelques jours.
+
+**Quelle est la différence avec le shell ?**
+Le terminal est la fenêtre, le shell est l'interpréteur. Vous pouvez changer de shell sans changer de fenêtre.
+
+**Par lequel faut-il commencer ?**
+Avec les commandes de fichiers : où suis-je, lister, entrer, sortir. Le reste vient selon les besoins.
+
+**Une mauvaise commande peut-elle causer des dommages ?**
+Les commandes de lecture n'en causent pas. Pour les commandes de suppression et d'écriture, le chemin et les caractères génériques sont vérifiés deux fois.
 
 
 ## Termes liés
@@ -29,8 +41,8 @@ Si vous souhaitez vous lancer dans le monde du logiciel, oui, car de nombreux ou
 - [Codex](/fr/discover/codex/)
 - [PI](/fr/discover/pi/)
 - [Terminal](/fr/discover/terminal/)
-- [Career Ops](/fr/discover/career-ops/)
 - [Cline](/fr/discover/cline/)
+- [Career Ops](/fr/discover/career-ops/)
 - [Openinterpreter](/fr/discover/openinterpreter/)
 - [Free Claude Code](/fr/discover/free-claude-code/)
 

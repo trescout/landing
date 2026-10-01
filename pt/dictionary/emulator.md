@@ -1,47 +1,44 @@
-# O que é um Emulador (Emulator)?
+# O que é Emulator?
 
-> Inglês: Emulator · Etimologia: latim aemulari (imitar, rivalizar)
+Um emulador é uma camada de sistema que imita por software a arquitetura de hardware física de um computador, dispositivo móvel ou console de jogos, permitindo que você execute softwares de plataformas estrangeiras no seu próprio dispositivo.
 
-**Categoria:** Dev  
-**Última atualização:** 2026-09-19
+## Estrutura conceitual, etimologia e a diferença para o simulador
+O termo emulador deriva do latim "aemulari" (emular, competir, tentar igualar). Em turco, é tecnicamente chamado de "emulador" ou "imitador de hardware".
 
-Um emulador (emulator) é um software que reproduz virtualmente a arquitetura de hardware, barramentos, registradorez e conjunto de instruções de uma máquina específica, permitindo rodar seus softwares originais em outro computador.
+## Arquitetura de computadores e o ciclo do núcleo: Fetch-Decode-Execute (Buscar-Decodificar-Executar)
+No coração de um emulador está uma CPU virtual modelada por software. Este processador virtual executa três etapas a cada ciclo de clock:
 
-## Conceito, etimologia e diferença para simulador
-A palavra deriva do latim aemulari, que traduz o ato de imitar com perfeição. Enquanto um simulador reproduz o comportamento externo de um sistema (como um simulador de vôo imitando a física do avião), o emulador recria a mecânica eletrônica interna: ciclo de registradores, chips de áudio e memória de vídeo.
+## Casos de uso para desenvolvedores, segurança e corporativos
+Os emuladores não servem apenas para levar jogos de consoles retrô para telas modernas; eles também são ferramentas críticas da engenharia de software moderna:
 
-## Arquitetura do emulador e o ciclo Fetch-Decode-Execute
-A espinha dorsal do emulador é uma CPU virtual que traduz instruções :
-- **Emulação por Interpretador:** Lê cada instrução convidada, decodifica seu significado e a executa no processador hospedeiro. Fiel, porém consome muita CPU.- **Tradução Binária Dinâmica (JIT):** Recompila blocos inteiros de código estrangeiro em instruções nativas do computador atual, armazenando-as em cache para ganho de velocidade.- **Emulação com Precisão de Ciclo:** Sincroniza cada componente eletrônico ciclo a ciclo para preservar efeitos de hardware originais.
-
-## Aplicações em desenvolvimento e segurança
-Usos fundamentais da emulação na tecnologia :
-- **Testes Mobile:** Emuladores de Android no computador para verificar layouts e funcionalidades em dezenas de aparelhos.- **Pesquisa de Malware:** Executar códigos maliciosos dentro de máquinas QEMU isoladas para estudar suas táticas sem contaminar o sistema real.- **Preservação Digital:** Manter softwares históricos de bancos ou consoles antigos acessíveis em servidores modernos.
-
-## Legislação e direitos autorais
-A jurisprudência internacional (como no processo histórico Sony vs. Connectix) consagrou que desenvolver emuladores via engenharia reversa limpa é perfeitamente legal. A ilegalidade reside apenas na pirataria de BIOS protegidas e cópias não autorizadas de jogos (ROMs).
-
-## Por analogia
-Para ler um livro em idioma estrangeiro: o simulador é um guia que resume a história; o emulador interpretador traduz palavra por palavra com dicionário; o recompilador JIT traduz capítulos inteiros para o seu idioma antes da leitura, permitindo ler com máxima velocidade.
+## Dimensão jurídica e direitos autorais
+A legalidade do desenvolvimento de emuladores foi estabelecida em todo o mundo por meio de casos precedentes:
 
 ## Perguntas frequentes
+**O que significa emulador e qual é a sua tradução em turco?**
+Derivado da palavra em inglês 'emulator', o termo significa emulador ou imitador de hardware em turco. É um sistema que executa softwares de plataformas estrangeiras simulando os componentes de hardware de um dispositivo por meio de software.
 
-**Qual a diferença entre emulador e máquina virtual?**  
-A máquina virtual executa código nativo na mesma arquitetura de processador; o emulador traduz comandos de uma arquitetura de CPU totalmente diferente através de software.
+**Qual é a principal diferença entre um emulador e um simulador?**
+Enquanto um simulador apenas imita o comportamento e a lógica do sistema, um emulador copia com precisão o processador, o barramento de memória e os códigos de máquina do hardware de destino a nível de instrução por meio de software.
 
-**Desenvolver emuladores é uma prática legal perante a lei?**  
-Sim; recriar o funcionamento de um hardware por engenharia reversa é permitido, desde que o código de BIOS original da fabricante não seja redistribuído.
+**Como funciona o compilador dinâmico JIT (Just-In-Time) na emulação?**
+Ele converte blocos de código de máquina do processador estrangeiro em código de máquina nativo do processador do seu próprio computador em tempo de execução e os armazena em cache. Assim, quando o código é executado pela segunda vez, ele roda a velocidade nativa.
 
-**Por que emular consoles antigos às vezes exige computadores potentes?**  
-Porque emuladores com precisão de ciclo exigem milhões de ciclos da CPU moderna para reproduzir com exatidão matemática cada microssegundo do hardware clássico.
+**É legal desenvolver e usar um emulador?**
+Sim, os softwares emuladores escritos com princípios de engenharia reversa em sala limpa são totalmente legais. No entanto, distribuir arquivos BIOS proprietários do dispositivo ou cópias de ROM protegidas por direitos autorais de jogos sem permissão constitui violação de direitos autorais.
 
-**O que é o QEMU?**  
-Uma ferramenta clássica de código aberto capaz de emular sistemas inteiros para arquiteturas como ARM, MIPS, RISC-V e x86.
 
 ## Termos relacionados
 - [ROM](/pt/dictionary/rom/)
+- [Sandbox](/pt/dictionary/sandbox/)
 - [Virtual Machines](/pt/dictionary/virtual-machines/)
+- [Assembly](/pt/dictionary/assembly/)
+- [Runtime](/pt/dictionary/runtime/)
 - [Apple Silicon](/pt/dictionary/apple-silicon/)
 
+## Ferramentas relacionadas
+- [Cool Retro Term](/pt/discover/cool-retro-term/)
+- [Sharpemu](/pt/discover/sharpemu/)
+
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/emulator/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/emulator/

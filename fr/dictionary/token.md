@@ -30,12 +30,12 @@ Puisque les ordinateurs comprennent les nombres et non les mots, nous devons con
 ## Outils liés
 - [Ponytail](/fr/discover/ponytail/)
 - [Caveman](/fr/discover/caveman/)
+- [Codegraph](/fr/discover/codegraph/)
 - [OmniRoute](/fr/discover/omniroute/)
 - [Codebase Memory MCP](/fr/discover/codebase-memory-mcp/)
 - [Open Code Review](/fr/discover/open-code-review/)
 - [Airllm](/fr/discover/airllm/)
 - [Book to Skill](/fr/discover/book-to-skill/)
-- [Code Review Graph](/fr/discover/code-review-graph/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/token/
