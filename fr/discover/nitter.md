@@ -1,6 +1,6 @@
 # Interface Twitter alternative axée sur la confidentialité
 
-C'est le produit le plus important possible. Consultez ce lien de la source pour obtenir des détails.
+Interface Twitter alternative axée sur la confidentialité : affiche les contenus Twitter sans exécuter de JavaScript, l'adresse IP et le navigateur…
 
 - ★ 13 705
 - Nim

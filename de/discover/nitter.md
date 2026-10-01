@@ -1,6 +1,6 @@
 # Datenschutzorientierte alternative Twitter-Schnittstelle
 
-Dies ist das wichtigste Produkt überhaupt. Konsultieren Sie diesen Link als Quelle, um Einzelheiten zu erfahren.
+Datenschutzorientierte alternative Twitter-Oberfläche: Zeigt Twitter-Inhalte an, ohne JavaScript auszuführen, und schützt Ihre IP-Adresse und Ihren Browser...
 
 - ★ 13.705
 - Nim

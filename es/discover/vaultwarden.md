@@ -1,6 +1,6 @@
 # Gestión de contraseñas en tu propio servidor
 
-No se pudo producir un resumen de este artículo hoy; consulte el enlace fuente para obtener más detalles.
+Vaultwarden es un software de servidor de código abierto desarrollado en Rust que funciona de manera compatible con la herramienta de gestión de contraseñas Bitwarden.
 
 - ★ 67.398
 - Rust

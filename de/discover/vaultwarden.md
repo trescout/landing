@@ -1,6 +1,6 @@
 # Passwortverwaltung auf Ihrem eigenen Server
 
-Eine Zusammenfassung für diesen Artikel konnte heute nicht erstellt werden. Einzelheiten finden Sie im Quelllink.
+Vaultwarden ist eine in Rust entwickelte Open-Source-Serversoftware, die mit dem Passwort-Management-Tool Bitwarden kompatibel ist.
 
 - ★ 67.398
 - Rust

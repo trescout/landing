@@ -1,6 +1,6 @@
 # Interfaz de Twitter alternativa centrada en la privacidad
 
-Este es el producto más importante posible. Consulte ese enlace de la fuente para obtener más detalles.
+Interfaz alternativa de Twitter centrada en la privacidad: muestra el contenido de Twitter sin ejecutar JavaScript, ocultando la dirección IP y el navegador…
 
 - ★ 13.705
 - Nim

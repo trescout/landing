@@ -1,6 +1,6 @@
 # Passez aux directives modernes
 
-C'est le produit le plus important possible. Consultez ce lien de la source pour obtenir des détails.
+Publié par JetBrains, go-modern-guidelines permet aux assistants de codage par intelligence artificielle de créer des logiciels conformes aux standards Go actuels…
 
 - ★ 3 010
 - Go

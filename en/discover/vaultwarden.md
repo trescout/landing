@@ -1,6 +1,6 @@
 # Password management on your own server
 
-An abstract for this item could not be produced today · see the source link for details.
+Vaultwarden is an open-source server software compatible with the password management tool Bitwarden and developed in Rust.
 
 - ★ 67,398
 - Rust

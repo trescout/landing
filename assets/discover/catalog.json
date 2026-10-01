@@ -6388,14 +6388,14 @@
     "slug": "vite",
     "title": "Vite",
     "tagline": "Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor.",
-    "meta": "★ 83.027",
+    "meta": "★ 83.091",
     "image": "/assets/discover/og/vite.webp",
     "source": "GitHub",
     "date": "2026-06-07",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 83027,
+    "stars": 83091,
     "lite": false,
     "headline": "Web projeleri için hızlı geliştirme ortamı",
     "cmds": {
@@ -6457,6 +6457,13 @@
         "onceki_yildiz": 82787,
         "surum": "v8.3.1",
         "surum_tarihi": "2026-09-24"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 83091,
+        "onceki_yildiz": 83027,
+        "surum": "v8.3.2",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Vite offers a fast development environment and build tool for modern web projects.",
@@ -10303,14 +10310,14 @@
     "slug": "penpot",
     "title": "Penpot",
     "tagline": "Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır.",
-    "meta": "★ 60.423 · Clojure",
+    "meta": "★ 60.568 · Clojure",
     "image": "/assets/discover/og/penpot.webp",
     "source": "GitHub",
     "date": "2026-06-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 60423,
+    "stars": 60568,
     "lite": false,
     "headline": "Tasarım ve yazılımı birleştiren platform",
     "last_review": "2026-10-01",
@@ -10342,6 +10349,13 @@
         "onceki_yildiz": 59235,
         "surum": "2.18.0",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 60568,
+        "onceki_yildiz": 60423,
+        "surum": "2.18.1",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Penpot is an open source design tool that strengthens collaboration between designers and developers.",
@@ -10370,14 +10384,14 @@
     "slug": "unciv",
     "title": "Unciv",
     "tagline": "Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uyarlamasıdır.",
-    "meta": "★ 11.364 · Kotlin",
+    "meta": "★ 11.376 · Kotlin",
     "image": "/assets/discover/og/unciv.webp",
     "source": "GitHub",
     "date": "2026-06-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 11364,
+    "stars": 11376,
     "lite": false,
     "headline": "Hafif ve açık kaynaklı strateji oyunu",
     "last_review": "2026-10-01",
@@ -10535,6 +10549,13 @@
         "onceki_yildiz": 11319,
         "surum": "4.22.5",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 11376,
+        "onceki_yildiz": 11364,
+        "surum": "4.22.6",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Unciv is an open source desktop and Android adaptation of the Civilization V game.",
@@ -16873,7 +16894,7 @@
     "slug": "maven",
     "title": "Maven",
     "tagline": "Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build…",
-    "meta": "★ 5.334 · Java",
+    "meta": "★ 5.361 · Java",
     "image": "/assets/discover/og/maven.webp",
     "source": "GitHub",
     "date": "2026-07-04",
@@ -16881,7 +16902,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5334,
+    "stars": 5361,
     "lite": false,
     "headline": "Java projeleri için proje yönetimi",
     "last_review": "2026-10-01",
@@ -16899,6 +16920,13 @@
         "onceki_yildiz": 5292,
         "surum": "maven-3.9.16",
         "surum_tarihi": "2026-05-17"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 5361,
+        "onceki_yildiz": 5334,
+        "surum": "maven-3.10.0",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Apache Maven is a project management and understanding tool that manages software creation processes in Java-based projects (build…",
@@ -27404,7 +27432,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 56.296 · Python",
+    "meta": "★ 56.313 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -27412,7 +27440,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 56296,
+    "stars": 56313,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-10-01",
@@ -27485,6 +27513,13 @@
         "yildiz": 56296,
         "onceki_yildiz": 56255,
         "surum": "v6.6.0",
+        "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 56313,
+        "onceki_yildiz": 56296,
+        "surum": "v6.7.0",
         "surum_tarihi": "2026-10-01"
       }
     ]
@@ -37302,7 +37337,7 @@
     "slug": "context-mode",
     "title": "Context Mode",
     "tagline": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir…",
-    "meta": "★ 23.449 · TypeScript",
+    "meta": "★ 24.627 · TypeScript",
     "image": "/assets/discover/og/context-mode.webp",
     "source": "GitHub",
     "date": "2026-09-08",
@@ -37310,7 +37345,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 23449,
+    "stars": 24627,
     "summary": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript kütüphanesi. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltıyor, oturum hafızasını koruyor ve Model Bağlantı Protokolü (Model Context Protocol) üzerinden 17 farklı platforma yönlendirme yapıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
@@ -37334,6 +37369,13 @@
         "tarih": "2026-09-18",
         "yildiz": 23449,
         "onceki_yildiz": 22253,
+        "surum": "v1.0.169",
+        "surum_tarihi": "2026-06-29"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 24627,
+        "onceki_yildiz": 23449,
         "surum": "v1.0.169",
         "surum_tarihi": "2026-06-29"
       }
@@ -40736,14 +40778,14 @@
     "slug": "madeira",
     "title": "Madeira",
     "tagline": "Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı…",
-    "meta": "★ 1.016 · C",
+    "meta": "★ 1.196 · C",
     "image": "/assets/discover/og/madeira.webp",
     "source": "GitHub",
     "date": "2026-09-29",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1016,
+    "stars": 1196,
     "last_seen": "2026-09-30",
     "summary": "Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı projesi. Yazılım, işlemci emülasyonu yapan FEX-Emu, Windows uygulama katmanı Wine ve grafik dönüştürücü DXMT araçlarını birleştirerek çalışıyor.",
     "lite": false,
@@ -40753,7 +40795,16 @@
     "tagline_fr": "Madeira est une couche de compatibilité permettant d'exécuter des jeux Windows d'architecture x86-64 sur des appareils iOS verrouillés (jailed)…",
     "tagline_pt": "Madeira é uma camada de compatibilidade que permite executar jogos do Windows com arquitetura x86-64 em dispositivos iOS com acesso restrito (jailbroken/jailed)...",
     "tagline_es": "Madeira es una capa de compatibilidad que permite ejecutar juegos de Windows con arquitectura x86-64 en dispositivos iOS con restricciones (jailed)...",
-    "tagline_de": "Madeira ist eine Kompatibilitätsschicht, mit der Windows-Spiele mit x86-64-Architektur auf geschlossenen (jailed) iOS-Geräten ausgeführt werden können…"
+    "tagline_de": "Madeira ist eine Kompatibilitätsschicht, mit der Windows-Spiele mit x86-64-Architektur auf geschlossenen (jailed) iOS-Geräten ausgeführt werden können…",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 1196,
+        "onceki_yildiz": 1016,
+        "surum": "v0.1.0",
+        "surum_tarihi": "2026-10-01"
+      }
+    ]
   },
   {
     "slug": "hey",

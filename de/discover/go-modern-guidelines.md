@@ -1,6 +1,6 @@
 # Go Modern-Richtlinien
 
-Dies ist das wichtigste Produkt überhaupt. Konsultieren Sie diesen Link als Quelle, um Einzelheiten zu erfahren.
+Die von JetBrains veröffentlichten go-modern-guidelines unterstützen KI-Codierungsassistenten dabei, Software gemäß aktuellen Go-Standards zu schreiben…
 
 - ★ 3.010
 - Go

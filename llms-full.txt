@@ -37751,16 +37751,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor. Yerel ES modüllerini kullanarak geliştirme sürecindeki bekleme sürelerini azaltan bir ön yüz araç seti (frontend tooling) işlevi görüyor.
 
-- ★ 83.027
+- ★ 83.091
 - GitHub Trending · 2026-06-07
 
 TreScout notu: Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 83.027 → 83.091, son sürüm v8.3.2 (1 Ekim 2026).
 - 27 Eylül 2026: Yıldız 82.787 → 83.027, son sürüm v8.3.1 (24 Eylül 2026).
 - 11 Eylül 2026: Yıldız 82.502 → 82.787, son sürüm create-vite@9.2.1 (10 Eylül 2026).
 - 24 Ağustos 2026: Yıldız 82.419 → 82.502, son sürüm create-vite@9.2.0 (24 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 82.245 → 82.419, son sürüm v8.2.2 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yerel ES modülleri sayesinde anında sunucu başlatma
@@ -39319,7 +39319,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Kendi sunucunuzda parola yönetimi
 
-Bu öğenin özeti bugün üretilemedi · detaylar için kaynak bağlantısını inceleyebilirsiniz.
+Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust diliyle geliştirilmiş açık kaynaklı bir sunucu yazılımıdır.
 
 - ★ 67.398
 - Rust
@@ -40305,15 +40305,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır. Vektör tabanlı arayüzü sayesinde tasarım süreçlerini kodlama aşamasıyla bütünleşik bir şekilde yönetmeyi sağlar.
 
-- ★ 60.423
+- ★ 60.568
 - Clojure
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 60.423 → 60.568, son sürüm 2.18.1 (1 Ekim 2026).
 - 27 Eylül 2026: Yıldız 59.235 → 60.423, son sürüm 2.18.0 (23 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 58.822 → 59.235, son sürüm 2.17.2 (27 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 57.989 → 58.822, son sürüm 2.17.1 (17 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 50.242 → 57.989, son sürüm 2.17.0 (22 Temmuz 2026).
 
 ## Ne kazandırır?
 - Tasarım süreçlerini kodla bütünleştirir
@@ -40856,15 +40856,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama veya geliştirme ortamı (IDE) üzerinden ücretsiz erişim sağlıyor. Bu açık kaynaklı araç, OpenClaw gibi sesli komut desteği sunan platformlarla entegre çalışarak kullanıcıların yapay zekâ yeteneklerini farklı cihazlarda kullanmasına imkân tanıyor.
 
-- ★ 56.296
+- ★ 56.313
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 56.296 → 56.313, son sürüm v6.7.0 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 56.255 → 56.296, son sürüm v6.6.0 (1 Ekim 2026).
 - 30 Eylül 2026: Yıldız 56.227 → 56.255, son sürüm v6.5.11 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 56.187 → 56.227, son sürüm v6.5.7 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 56.090 → 56.187, son sürüm v6.5.4 (29 Eylül 2026).
 
 ## Ne kazandırır?
 - Claude Code ve Codex gibi kodlama ajanlarını tek merkezden yönetin
@@ -49292,6 +49292,68 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanınıza kalıcı hafıza
+
+Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript kütüphanesi. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltıyor, oturum hafızasını koruyor ve Model Bağlantı Protokolü (Model Context Protocol) üzerinden 17 farklı platforma yönlendirme yapıyor.
+
+- ★ 24.627
+- TypeScript
+- GitHub Trending · 2026-09-08
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 23.449 → 24.627, son sürüm v1.0.169 (29 Haziran 2026).
+- 18 Eylül 2026: Yıldız 22.253 → 23.449, son sürüm v1.0.169 (29 Haziran 2026).
+- 12 Eylül 2026: Yıldız 21.116 → 22.253, son sürüm v1.0.169 (29 Haziran 2026).
+- 8 Eylül 2026: Yıldız 21.109 → 21.116, son sürüm v1.0.169 (29 Haziran 2026).
+
+## Ne kazandırır?
+- Veri boyutunu yüzde 98 oranında azaltarak bağlam penceresini boşaltır
+- Dosya düzenlemeleri ve görevleri SQLite veritabanında izleyerek oturum sürekliliği sağlar
+- Veri işlemek yerine kod yazdıran yapısıyla modelin işlem kapasitesini artırır
+
+## Kurulum
+
+**Claude Code üzerinden kurulum**
+
+```
+/plugin marketplace add mksglu/context-mode
+```
+
+**Eklenti kurulumunu tamamlama**
+
+```
+/plugin install context-mode@context-mode
+```
+
+## Çalıştırma
+
+**Kurulumu doğrulama**
+
+```
+/context-mode:ctx-doctor
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Yapay zekâ ajanım, bundan sonra veri işleme görevlerini doğrudan yapmak yerine, bu veriyi analiz edecek kodu yazıp çalıştırmanı istiyorum. Veri boyutunu minimize etmek için context-mode araçlarını kullan, oturum geçmişimi SQLite üzerinde tut ve sadece gerekli olan sonuçları bana raporla. Gereksiz açıklamalardan kaçınarak sadece kod üretimine ve verimli bağlam yönetimine odaklan.
+
+- **Kimin için:** Yapay zekâ kodlama ajanlarını yoğun kullanan ve uzun süreli projelerde bağlam penceresi dolması sorunu yaşayan yazılımcılar içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/mksglu/context-mode)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Context Window Optimization Context Window Model Context Protocol Model Context Protocol Context MCP
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/context-mode/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # SQLite uyumlu süreç içi veritabanı
 
 Turso, SQLite ile uyumlu çalışan ve süreç içi (in-process) bir SQL veritabanı sunuyor. Rust diliyle geliştirilen bu sistem, uygulama süreçlerine entegre edilerek veri yönetimi süreçlerini basitleştiriyor.
@@ -49690,67 +49752,6 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openwork/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanınıza kalıcı hafıza
-
-Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript kütüphanesi. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltıyor, oturum hafızasını koruyor ve Model Bağlantı Protokolü (Model Context Protocol) üzerinden 17 farklı platforma yönlendirme yapıyor.
-
-- ★ 23.449
-- TypeScript
-- GitHub Trending · 2026-09-08
-
-## Güncelleme
-- 18 Eylül 2026: Yıldız 22.253 → 23.449, son sürüm v1.0.169 (29 Haziran 2026).
-- 12 Eylül 2026: Yıldız 21.116 → 22.253, son sürüm v1.0.169 (29 Haziran 2026).
-- 8 Eylül 2026: Yıldız 21.109 → 21.116, son sürüm v1.0.169 (29 Haziran 2026).
-
-## Ne kazandırır?
-- Veri boyutunu yüzde 98 oranında azaltarak bağlam penceresini boşaltır
-- Dosya düzenlemeleri ve görevleri SQLite veritabanında izleyerek oturum sürekliliği sağlar
-- Veri işlemek yerine kod yazdıran yapısıyla modelin işlem kapasitesini artırır
-
-## Kurulum
-
-**Claude Code üzerinden kurulum**
-
-```
-/plugin marketplace add mksglu/context-mode
-```
-
-**Eklenti kurulumunu tamamlama**
-
-```
-/plugin install context-mode@context-mode
-```
-
-## Çalıştırma
-
-**Kurulumu doğrulama**
-
-```
-/context-mode:ctx-doctor
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Yapay zekâ ajanım, bundan sonra veri işleme görevlerini doğrudan yapmak yerine, bu veriyi analiz edecek kodu yazıp çalıştırmanı istiyorum. Veri boyutunu minimize etmek için context-mode araçlarını kullan, oturum geçmişimi SQLite üzerinde tut ve sadece gerekli olan sonuçları bana raporla. Gereksiz açıklamalardan kaçınarak sadece kod üretimine ve verimli bağlam yönetimine odaklan.
-
-- **Kimin için:** Yapay zekâ kodlama ajanlarını yoğun kullanan ve uzun süreli projelerde bağlam penceresi dolması sorunu yaşayan yazılımcılar içindir. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/mksglu/context-mode)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Context Window Optimization Context Window Model Context Protocol Model Context Protocol Context MCP
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/context-mode/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -54038,7 +54039,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Gizlilik odaklı alternatif Twitter arayüzü
 
-Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
+Gizlilik odaklı alternatif Twitter arayüzü: JavaScript çalıştırmadan Twitter içeriklerini görüntüler, IP adresini ve tarayıcı…
 
 - ★ 13.705
 - Nim
@@ -55663,68 +55664,19 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# MacOS için gizlilik odaklı sesli dikte
-
-FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır. Swift diliyle geliştirilen bu araç, verileri yerel olarak işleyerek gizlilik odaklı bir ses dönüştürme deneyimi sunar.
-
-- ★ 11.369
-- Swift
-- GitHub Trending · 2026-06-29
-
-## Güncelleme
-- 10 Eylül 2026: Yıldız 11.318 → 11.369, son sürüm v1.6.9 (18 Ağustos 2026).
-- 8 Eylül 2026: Yıldız 10.618 → 11.318, son sürüm windows-v0.0.10 (8 Eylül 2026).
-- 18 Ağustos 2026: Yıldız 10.516 → 10.618, son sürüm v1.6.9 (18 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 9.494 → 10.516, son sürüm v1.6.8 (11 Ağustos 2026).
-
-## Ne kazandırır?
-- Tamamen yerel ve çevrim dışı ses dönüştürme
-- Her uygulamada metin yazma ve düzenleme
-- Sesli komutlarla sistem kontrolü ve otomasyon
-
-## Kurulum
-
-**Homebrew ile kurulum**
-
-```
-brew install --cask fluidvoice
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-FluidVoice uygulamasını kullanarak sesli dikte deneyimimi optimize etmek istiyorum. Uygulamanın sunduğu yerel yapay zekâ destekli metin düzenleme, bağlama duyarlı büyük harf kullanımı ve akıllı biçimlendirme özelliklerini en verimli şekilde nasıl yapılandırabilirim? Ayrıca, farklı uygulamalar için özelleştirilmiş istem setleri oluşturarak dikte performansımı nasıl artırabilirim?
-
-- **Kimin için:** Verilerinin gizliliğini koruyarak macOS üzerinde hızlı ve yerel bir sesli dikte aracı kullanmak isteyen herkes için uygundur. 
-- **Lisans:** GPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/altic-dev/FluidVoice)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Voice to Text Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/fluidvoice/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Hafif ve açık kaynaklı strateji oyunu
 
 Unciv, Civilization V oyununun açık kaynak kodlu, minimalist ve çapraz platformlu bir masaüstü ve Android uyarlamasıdır. Kotlin ve LibGDX altyapısıyla geliştirilen proje, orijinal 4X strateji mekaniklerini sıfır donanım yükü ve yüksek mod desteğiyle sunar.
 
-- ★ 11.364
+- ★ 11.376
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 11.364 → 11.376, son sürüm 4.22.6 (1 Ekim 2026).
 - 29 Eylül 2026: Yıldız 11.319 → 11.364, son sürüm 4.22.5 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 11.285 → 11.319, son sürüm 4.22.4 (26 Eylül 2026).
 - 18 Eylül 2026: Yıldız 11.276 → 11.285, son sürüm 4.22.1 (17 Eylül 2026).
-- 15 Eylül 2026: Yıldız 11.257 → 11.276, son sürüm 4.22.0 (14 Eylül 2026).
 
 ## Ne kazandırır?
 - Düşük donanım ve batarya dostu mimari: Ağır 3D render motorları yerine 2D vektörel ve piksel grafikler kullanarak en temel mobil cihazlarda dahi sıfır ısınma ile çalışır.
@@ -55781,6 +55733,55 @@ Runtime Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/unciv/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# MacOS için gizlilik odaklı sesli dikte
+
+FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan hızlı bir sesli dikte (voice to text) uygulamasıdır. Swift diliyle geliştirilen bu araç, verileri yerel olarak işleyerek gizlilik odaklı bir ses dönüştürme deneyimi sunar.
+
+- ★ 11.369
+- Swift
+- GitHub Trending · 2026-06-29
+
+## Güncelleme
+- 10 Eylül 2026: Yıldız 11.318 → 11.369, son sürüm v1.6.9 (18 Ağustos 2026).
+- 8 Eylül 2026: Yıldız 10.618 → 11.318, son sürüm windows-v0.0.10 (8 Eylül 2026).
+- 18 Ağustos 2026: Yıldız 10.516 → 10.618, son sürüm v1.6.9 (18 Ağustos 2026).
+- 17 Ağustos 2026: Yıldız 9.494 → 10.516, son sürüm v1.6.8 (11 Ağustos 2026).
+
+## Ne kazandırır?
+- Tamamen yerel ve çevrim dışı ses dönüştürme
+- Her uygulamada metin yazma ve düzenleme
+- Sesli komutlarla sistem kontrolü ve otomasyon
+
+## Kurulum
+
+**Homebrew ile kurulum**
+
+```
+brew install --cask fluidvoice
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+FluidVoice uygulamasını kullanarak sesli dikte deneyimimi optimize etmek istiyorum. Uygulamanın sunduğu yerel yapay zekâ destekli metin düzenleme, bağlama duyarlı büyük harf kullanımı ve akıllı biçimlendirme özelliklerini en verimli şekilde nasıl yapılandırabilirim? Ayrıca, farklı uygulamalar için özelleştirilmiş istem setleri oluşturarak dikte performansımı nasıl artırabilirim?
+
+- **Kimin için:** Verilerinin gizliliğini koruyarak macOS üzerinde hızlı ve yerel bir sesli dikte aracı kullanmak isteyen herkes için uygundur. 
+- **Lisans:** GPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/altic-dev/FluidVoice)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Voice to Text Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/fluidvoice/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -61459,6 +61460,68 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Java projeleri için proje yönetimi
+
+Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build automation tool). Yazılım geliştirme yaşam döngüsünü standartlaştırmak için proje nesne modeli (project object model) yapısını kullanır.
+
+- ★ 5.361
+- Java
+- GitHub Trending · 2026-07-04
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 5.334 → 5.361, son sürüm maven-3.10.0 (1 Ekim 2026).
+- 31 Ağustos 2026: Yıldız 5.292 → 5.334, son sürüm maven-3.9.16 (17 Mayıs 2026).
+- 2 Ağustos 2026: Yıldız 5.250 → 5.292, son sürüm maven-3.10.0-rc-1 (13 Temmuz 2026).
+
+## Ne kazandırır?
+- Yazılım oluşturma süreçlerini standartlaştırır
+- Proje nesne modeli ile merkezi yönetim sağlar
+- Raporlama ve dokümantasyon süreçlerini yönetir
+
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install maven
+```
+
+**Docker imajı**
+
+```
+docker pull maven
+```
+
+## Çalıştırma
+
+**Projeyi derle**
+
+```
+mvn package
+```
+
+Kaynak: Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı
+
+## Nasıl başlanır?
+
+Apache Maven kullanmaya başlamak için resmî Apache Maven ana sayfasını ziyaret edebilir ve indirme sayfasından güncel sürümü temin edebilirsiniz. Kurulum ve kullanım detayları için yine aynı sayfadaki dokümantasyon bölümünü incelemeniz önerilir.
+- [Resmî kaynak →](https://maven.apache.org/ref/current)
+
+- **Kimin için:** Java tabanlı yazılım projelerinde geliştirme, derleme ve yönetim süreçlerini standart bir yapıya oturtmak isteyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/apache/maven)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/maven/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Donanım analizi için çok protokollü araç
 
 ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden çok sayıda haberleşme protokolünü destekleyen bir donanım hackleme aracıdır. C++ diliyle geliştirilen bu sistem, farklı protokolleri tek bir platform üzerinden yöneterek donanım analizi süreçlerini kolaylaştırır.
@@ -61615,67 +61678,6 @@ Local-first Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-science/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Java projeleri için proje yönetimi
-
-Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build automation tool). Yazılım geliştirme yaşam döngüsünü standartlaştırmak için proje nesne modeli (project object model) yapısını kullanır.
-
-- ★ 5.334
-- Java
-- GitHub Trending · 2026-07-04
-
-## Güncelleme
-- 31 Ağustos 2026: Yıldız 5.292 → 5.334, son sürüm maven-3.9.16 (17 Mayıs 2026).
-- 2 Ağustos 2026: Yıldız 5.250 → 5.292, son sürüm maven-3.10.0-rc-1 (13 Temmuz 2026).
-
-## Ne kazandırır?
-- Yazılım oluşturma süreçlerini standartlaştırır
-- Proje nesne modeli ile merkezi yönetim sağlar
-- Raporlama ve dokümantasyon süreçlerini yönetir
-
-## Kurulum
-
-**macOS (Homebrew)**
-
-```
-brew install maven
-```
-
-**Docker imajı**
-
-```
-docker pull maven
-```
-
-## Çalıştırma
-
-**Projeyi derle**
-
-```
-mvn package
-```
-
-Kaynak: Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı
-
-## Nasıl başlanır?
-
-Apache Maven kullanmaya başlamak için resmî Apache Maven ana sayfasını ziyaret edebilir ve indirme sayfasından güncel sürümü temin edebilirsiniz. Kurulum ve kullanım detayları için yine aynı sayfadaki dokümantasyon bölümünü incelemeniz önerilir.
-- [Resmî kaynak →](https://maven.apache.org/ref/current)
-
-- **Kimin için:** Java tabanlı yazılım projelerinde geliştirme, derleme ve yönetim süreçlerini standart bir yapıya oturtmak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/apache/maven)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/maven/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -64160,7 +64162,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Go Modern Guidelines
 
-Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
+JetBrains tarafından yayınlanan go-modern-guidelines, yapay zekâ kodlama asistanlarının güncel Go standartlarına uygun yazılım…
 
 - ★ 3.010
 - Go
@@ -65795,6 +65797,52 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# İphone Cihazlarda Windows Oyunları Çalıştırın
+
+Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı projesi. Yazılım, işlemci emülasyonu yapan FEX-Emu, Windows uygulama katmanı Wine ve grafik dönüştürücü DXMT araçlarını birleştirerek çalışıyor.
+
+- ★ 1.196
+- C
+- GitHub Trending · 2026-09-29
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 1.016 → 1.196, son sürüm v0.1.0 (1 Ekim 2026).
+
+## Ne kazandırır?
+- Jailbreaksiz iPhone cihazlarda Windows bilgisayar oyunlarını oynamanıza imkan tanır.
+- İşlemci çevirisi için işlemci emülasyonu yapan FEX-Emu aracını kullanır.
+- Grafik dönüştürme işlemi için grafik dönüştürücü DXMT aracından faydalanır.
+
+## Kurulum
+
+**Depoyu Klonlayın**
+
+```
+git clone --recurse-submodules 
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Madeira projesini kurmak ve çalıştırmak istiyorum. Kod bilmeyen biri olarak bana bu uyumluluk katmanını jailbreaksiz iPhone cihazımda nasıl yapılandıracağımı adım adım açıklar mısın? Gerekli olan hata ayıklayıcıyı ve sideloading adımlarını nasıl yapacağımı anlat.
+
+- **Kimin için:** iPhone cihazında Windows oyunları oynamak isteyen ve araştırma aşamasındaki bu projeyi denemek merake den kullanıcılar içindir. 
+- **Lisans:** GPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/willfaust/Madeira)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Jailed Sideloading Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/madeira/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kurumsal yapay zekâ ajanları için güvenlik
 
 Uber tarafından geliştirilen ADR, kurumsal yapay zekâ ajanlarını gözlemlenebilirlik, güvenlik kıyaslaması ve tehdit algılama yöntemleriyle koruma altına alıyor. Yazılım, yapay zekâ sistemlerinin güvenliğini artırmak için geliştirilmiş bir güvenlik çerçevesi (framework) sunuyor.
@@ -65919,49 +65967,6 @@ Kernels Attention Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flashkda/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# İphone Cihazlarda Windows Oyunları Çalıştırın
-
-Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı projesi. Yazılım, işlemci emülasyonu yapan FEX-Emu, Windows uygulama katmanı Wine ve grafik dönüştürücü DXMT araçlarını birleştirerek çalışıyor.
-
-- ★ 1.016
-- C
-- GitHub Trending · 2026-09-29
-
-## Ne kazandırır?
-- Jailbreaksiz iPhone cihazlarda Windows bilgisayar oyunlarını oynamanıza imkan tanır.
-- İşlemci çevirisi için işlemci emülasyonu yapan FEX-Emu aracını kullanır.
-- Grafik dönüştürme işlemi için grafik dönüştürücü DXMT aracından faydalanır.
-
-## Kurulum
-
-**Depoyu Klonlayın**
-
-```
-git clone --recurse-submodules 
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Madeira projesini kurmak ve çalıştırmak istiyorum. Kod bilmeyen biri olarak bana bu uyumluluk katmanını jailbreaksiz iPhone cihazımda nasıl yapılandıracağımı adım adım açıklar mısın? Gerekli olan hata ayıklayıcıyı ve sideloading adımlarını nasıl yapacağımı anlat.
-
-- **Kimin için:** iPhone cihazında Windows oyunları oynamak isteyen ve araştırma aşamasındaki bu projeyi denemek merake den kullanıcılar içindir. 
-- **Lisans:** GPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/willfaust/Madeira)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Jailed Sideloading Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/madeira/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

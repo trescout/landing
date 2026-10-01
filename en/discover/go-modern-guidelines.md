@@ -1,6 +1,6 @@
 # Go Modern Guidelines
 
-This is the most important product possible. Consulte that link da fonte para obter detalhes.
+Published by JetBrains, go-modern-guidelines helps artificial intelligence coding assistants write software in accordance with current Go standards…
 
 - ★ 3,010
 - Go

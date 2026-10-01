@@ -1,6 +1,6 @@
 # Ir a pautas modernas
 
-Este es el producto más importante posible. Consulte ese enlace de la fuente para obtener más detalles.
+go-modern-guidelines, publicado por JetBrains, es una guía que ayuda a los asistentes de codificación de inteligencia artificial a escribir software conforme a los estándares actuales de Go...
 
 - ★ 3.010
 - Go

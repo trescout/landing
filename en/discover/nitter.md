@@ -1,6 +1,6 @@
 # Privacy-focused alternative Twitter interface
 
-This is the most important product possible. Consulte that link da fonte para obter detalhes.
+Privacy-focused alternative Twitter interface: displays Twitter content without running JavaScript, IP address and browser…
 
 - ★ 13,705
 - Nim

@@ -1,6 +1,6 @@
 # Gerenciamento de senhas em seu próprio servidor
 
-Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
+Vaultwarden é um software de servidor de código aberto desenvolvido na linguagem Rust que funciona de forma compatível com a ferramenta de gerenciamento de senhas Bitwarden.
 
 - ★ 67.398
 - Rust

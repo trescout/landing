@@ -1,6 +1,6 @@
 # Diretrizes Modernas
 
-Este é o produto mais importante possível. Consulte esse link da fonte para obter detalhes.
+O go-modern-guidelines, publicado pela JetBrains, ajuda os assistentes de codificação de inteligência artificial a escrever software de acordo com os padrões atuais de Go...
 
 - ★ 3.010
 - Go

@@ -1,6 +1,6 @@
 # Gestion des mots de passe sur votre propre serveur
 
-Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.
+Vaultwarden est un logiciel de serveur open source développé en langage Rust, compatible avec l'outil de gestion de mots de passe Bitwarden.
 
 - ★ 67 398
 - Rust
