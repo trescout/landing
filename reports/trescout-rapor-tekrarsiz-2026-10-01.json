@@ -1,0 +1,623 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-01",
+  "capturedAt": "2026-10-01T10:59:04.970Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, büyük dil modelleri ve otomasyon iş akışlarını kullanarak tek bir konu veya anahtar kelime üzerinden yüksek çözünürlüklü kısa videolar oluşturan bir Python projesidir. Kullanıcıların içerik üretim sürecini hızlandırmayı amaçlayan bu araç, metin tabanlı girdileri otomatik olarak görsel ve işitsel içeriklere dönüştürür.",
+          "meta": "Python · ★ 127.802 · +431 bugün",
+          "snapshot": {
+            "sourceId": "harry0703/MoneyPrinterTurbo",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 127802,
+              "engagementCount": 431,
+              "rank": 6,
+              "extra": {
+                "starsToday": 431
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "summary": "Openclaw, farklı işletim sistemlerinde ve platformlarda görevleri yerine getirebilen yapay zekâ tabanlı bir otomasyon aracıdır. TypeScript ile geliştirilen bu yazılım, kullanıcıların bilgisayar üzerindeki işlemleri standartlaştırmasını ve otomatize etmesini sağlar.",
+          "meta": "TypeScript · ★ 391.111 · +136 bugün",
+          "snapshot": {
+            "sourceId": "openclaw/openclaw",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 391111,
+              "engagementCount": 136,
+              "rank": 7,
+              "extra": {
+                "starsToday": 136
+              }
+            }
+          }
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "ComposioHQ tarafından derlenen awesome-claude-skills, yapay zekâ modeli Claude için geliştirilen yetenek paketlerini (skills) ve özelleştirme araçlarını bir araya getiriyor. Bu liste, kullanıcıların Claude iş akışlarını farklı yazılımlara entegre ederek otomatize etmelerine olanak tanıyor.",
+          "meta": "Python · ★ 76.274 · +123 bugün",
+          "snapshot": {
+            "sourceId": "ComposioHQ/awesome-claude-skills",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76274,
+              "engagementCount": 123,
+              "rank": 8,
+              "extra": {
+                "starsToday": 123
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "firebase/firebase-ios-sdk",
+          "url": "https://github.com/firebase/firebase-ios-sdk",
+          "summary": "Google tarafından sunulan mobil geliştirme platformu Firebase, Apple cihazları için hazırlanan uygulamalara veri tabanı ve kimlik doğrulama gibi bulut hizmetleri eklemeyi sağlayan bir yazılım geliştirme kiti (SDK) sunuyor. Bu araç, geliştiricilerin Apple ekosistemi üzerinde çalışan uygulamalarında arka uç (backend) süreçlerini yönetmelerini kolaylaştırıyor.",
+          "meta": "C++ · ★ 6.801 · +8 bugün",
+          "snapshot": {
+            "sourceId": "firebase/firebase-ios-sdk",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 6801,
+              "engagementCount": 8,
+              "rank": 11,
+              "extra": {
+                "starsToday": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "summary": "Model Context Protocol (MCP) sunucuları, üretken yapay zekâ modellerinin harici veri kaynaklarına ve araçlara standart bir arayüz üzerinden erişmesini sağlıyor. Bu protokol, farklı yapay zekâ uygulamalarının veri tabanları veya yazılım araçlarıyla güvenli ve tutarlı bir şekilde bağlantı kurmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 90.906 · +50 bugün",
+          "snapshot": {
+            "sourceId": "modelcontextprotocol/servers",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 90906,
+              "engagementCount": 50,
+              "rank": 12,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        },
+        {
+          "title": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "summary": "Codegraph, kod tabanlarını önceden dizinleyerek yapay zekâ modellerine sunan yerel bir bilgi grafiği (knowledge graph) aracıdır. Kod değişikliklerini otomatik eşitleyerek Claude Code veya Cursor gibi kodlama asistanlarının daha az belirteç (token) ve araç çağrısı kullanmasını sağlar.",
+          "meta": "C · ★ 72.718 · +118 bugün",
+          "snapshot": {
+            "sourceId": "colbymchenry/codegraph",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 72718,
+              "engagementCount": 118,
+              "rank": 14,
+              "extra": {
+                "starsToday": 118
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 4 Argon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+          "summary": "Google, gelişmiş muhakeme yetenekleri ve yüksek işlem hızı sunan yeni nesil yapay zekâ modeli Gemini 4 Argon'u duyurdu. Bu model, karmaşık veri analizi ve büyük ölçekli görevlerde performans ile maliyet dengesini optimize etmeyi hedefliyor.",
+          "meta": "1.415 oy · 924 yorum",
+          "snapshot": {
+            "sourceId": "49913571",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 1415,
+              "engagementCount": 924,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49913571",
+                  "popularity": 1415,
+                  "engagementCount": 924
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "bradleyg223",
+                "createdAt": "2026-09-30T20:04:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49913571"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49913571",
+              "popularity": 1415,
+              "engagementCount": 924
+            }
+          ]
+        },
+        {
+          "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+          "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+          "summary": "Singapur hükümeti tarafından geliştirilen tanışma uygulaması, eşleşme kalitesini optimize etmek için Gale-Shapley kararlı evlilik algoritmasını (stable marriage algorithm) kullanıyor. Bu matematiksel yöntem, kullanıcıların tercihlerini dikkate alarak karşılıklı olarak en uygun eşleşmeleri oluşturmayı hedefliyor.",
+          "meta": "400 oy · 352 yorum",
+          "snapshot": {
+            "sourceId": "49906432",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 400,
+              "engagementCount": 352,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49906432",
+                  "popularity": 400,
+                  "engagementCount": 352
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "rzk",
+                "createdAt": "2026-09-30T09:27:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49906432"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49906432",
+              "popularity": 400,
+              "engagementCount": 352
+            }
+          ]
+        },
+        {
+          "title": "A brief history of the Bloomberg terminal",
+          "url": "https://spectrum.ieee.org/bloomberg-terminal",
+          "summary": "Bloomberg terminali, finans profesyonellerinin piyasa verilerine erişimini ve işlem yapmasını sağlayan özel bir donanım ve yazılım platformu. 1980'lerden günümüze ulaşan bu sistem, finansal piyasalardaki bilgi akışını merkezileştiren kapalı bir ekosistem sunuyor.",
+          "meta": "297 oy · 128 yorum",
+          "snapshot": {
+            "sourceId": "49909583",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 297,
+              "engagementCount": 128,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49909583",
+                  "popularity": 297,
+                  "engagementCount": 128
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "rbanffy",
+                "createdAt": "2026-09-30T14:34:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49909583"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49909583",
+              "popularity": 297,
+              "engagementCount": 128
+            }
+          ]
+        },
+        {
+          "title": "Why the Bronze Age Collapsed",
+          "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+          "summary": "Tunç Çağı Çöküşü, karmaşık ticaret ağlarına dayalı devletlerin birbirine bağımlılığı sebebiyle sistemik bir başarısızlık sonucu gerçekleşti. Bu tarihsel analiz, tek bir felaket yerine iklim değişikliği ve göç gibi faktörlerin yarattığı domino etkisinin medeniyetleri nasıl yıktığını inceliyor.",
+          "meta": "254 oy · 160 yorum",
+          "snapshot": {
+            "sourceId": "49890732",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 254,
+              "engagementCount": 160,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49890732",
+                  "popularity": 254,
+                  "engagementCount": 160
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "AnodicElegy",
+                "createdAt": "2026-09-29T10:10:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49890732"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49890732",
+              "popularity": 254,
+              "engagementCount": 160
+            }
+          ]
+        },
+        {
+          "title": "The last time my family was replaced by technology",
+          "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+          "summary": "Manuel Darcemont, dijital araçların aile içi etkileşimleri nasıl dönüştürdüğünü ve geleneksel bağların yerini alan teknolojik alışkanlıkları kişisel bir perspektifle ele alıyor. Yazı, ekran odaklı yaşamın aile üyeleri arasındaki doğrudan iletişimi nasıl değiştirdiğini sorguluyor.",
+          "meta": "250 oy · 523 yorum",
+          "snapshot": {
+            "sourceId": "49908394",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 250,
+              "engagementCount": 523,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49908394",
+                  "popularity": 250,
+                  "engagementCount": 523
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "megalomanu",
+                "createdAt": "2026-09-30T13:06:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49908394"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49908394",
+              "popularity": 250,
+              "engagementCount": 523
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Contrastive-LM/CLM-v0.1-8B",
+          "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+          "summary": "Contrastive-LM/CLM-v0.1-8B, metin sıralama (text-ranking) görevleri için optimize edilmiş bir dil modelidir. HuggingFace platformunda barındırılan bu model, metinler arası alaka düzeyini belirlemek amacıyla karşılaştırmalı öğrenme (contrastive learning) yöntemini kullanır.",
+          "meta": "♥ 582 · 2.720 indirme",
+          "snapshot": {
+            "sourceId": "Contrastive-LM/CLM-v0.1-8B",
+            "capturedAt": "2026-10-01T10:59:05.056Z",
+            "metadata": {
+              "popularity": 582,
+              "engagementCount": 2720,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 502,
+                "pipelineTag": "text-ranking",
+                "tags": [
+                  "contrastive-lm",
+                  "clm",
+                  "contrastive-learning",
+                  "verifier",
+                  "reranker",
+                  "agents",
+                  "text-ranking",
+                  "en",
+                  "base_model:Qwen/Qwen3-8B",
+                  "base_model:finetune:Qwen/Qwen3-8B",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Evaluating Bounded Autonomy in Regulated Agentic AI: A Diagnostic Harness with Constitutional Rewards, Escalation Labels, and Runtime Governance",
+          "url": "https://huggingface.co/papers/2609.37501",
+          "summary": "RegLLM, düzenlemeye tabi yapay zekâ ajanlarının (agentic AI) sınırlı özerkliklerini denetlemek için geliştirilen bir tanısal çerçeve. Sistem, alıntı doğruluğu ve güvenlik uyumu gibi altı farklı güvenilirlik sinyalini izleyerek hatalı işlemleri engelleyen bir çalışma zamanı yöneticisi (runtime supervisor) kullanıyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.37501",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37501",
+                "publishedAt": "2026-09-28T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence",
+          "url": "https://huggingface.co/papers/2609.24555",
+          "summary": "Endless Exam, yapay zekâ modellerinin matematiksel problem çözme kapasitesini ölçmek için geliştirilen ve yayınlanmış sınırların ötesine geçmeyi hedefleyen bir kıyaslama aracıdır (benchmark). On dört farklı matematiksel yapı ailesini içeren bu sistem, modellerin performansını otomatik doğrulama ve göreceli kalite puanları üzerinden değerlendirir.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.24555",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24555",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/ricolalemon/endless-exam",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them",
+          "url": "https://huggingface.co/papers/2609.37863",
+          "summary": "Görüntü-dil modellerinin (vision-language models) değerlendirme süreçlerinde görsel bağlamın model kararlarını nasıl etkilediğini inceleyen MIST testi, yanıltıcı görsellerin model performansını bozduğunu ortaya koyuyor. Bu çalışma, yapay zekâ sistemlerinin insan değerlendiricilerin yerine kullanılmadan önce görsel veriye dayalı tarafsızlık testlerinden geçmesi gerektiğini gösteriyor.",
+          "meta": "7 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.37863",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37863",
+                "publishedAt": "2026-09-29T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Safety of Latent Communication in Multi-Agent Systems",
+          "url": "https://huggingface.co/papers/2609.39788",
+          "summary": "Çoklu yapay zekâ ajanlarının metin yerine içsel temsil uzayında doğrudan veri alışverişi yapmasını sağlayan gizli iletişim (latent communication), işlem yükünü ve gecikmeyi azaltıyor. Bu yöntem, güvenlik hizalaması yapılmış ajanlar arasında bile zararlı içeriklere uyum sağlama eğilimini artırabildiği için sistem güvenliği açısından yeni riskler barındırıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.39788",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.39788",
+                "publishedAt": "2026-09-30T00:00:00.000Z",
+                "githubRepo": "https://github.com/Muhammad-Huzaifaa/latent-safety",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning",
+          "url": "https://huggingface.co/papers/2609.36333",
+          "summary": "ATLAS, gizli dünya modellerinde (latent world models) planlama sürecini iyileştirmek için geliştirilen bir eğitim yöntemidir. Bu yöntem, eylem seçimi sırasında kullanılan durumlar arası ilişkisel geometriyi koruyarak modelin tahmin güvenilirliğini artırmayı hedefler.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.36333",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36333",
+                "publishedAt": "2026-09-30T00:00:00.000Z",
+                "githubRepo": "https://github.com/Annie969/atlas-world-model",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "IANA's email about why example.com changed",
+          "url": "https://www.oliverdunk.com/2026/09/30/iana-reply",
+          "summary": "İnternet Tahsisli Sayılar ve İsimler Kurumu (IANA), example.com alan adının yönetiminde yapılan değişikliğin teknik gereklilikler ve güvenlik standartları nedeniyle gerçekleştiğini açıkladı. Bu açıklama, alan adı sisteminin (DNS) işleyişine dair şeffaflık beklentisini karşılamayı hedefliyor.",
+          "meta": "23 oy · 11 yorum",
+          "snapshot": {
+            "sourceId": "qgd17n",
+            "capturedAt": "2026-10-01T10:59:05.154Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 11,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed",
+                  "popularity": 23,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "networking",
+                  "web"
+                ],
+                "createdAt": "2026-10-01T03:47:50.120-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed",
+              "popularity": 23,
+              "engagementCount": 11
+            }
+          ]
+        },
+        {
+          "title": "Hanami, Why?: Introductions",
+          "url": "https://aaronmallen.me/writing/hanami-why-introductions",
+          "summary": "Hanami, Ruby programlama dili için geliştirilmiş, modüler bir web çatısı (web framework). Rails gibi geleneksel yapılara göre daha hafif ve bileşen tabanlı bir mimari sunarak yazılımcılara uygulama üzerinde daha fazla kontrol imkânı sağlıyor.",
+          "meta": "36 oy · 1 yorum",
+          "snapshot": {
+            "sourceId": "bag41j",
+            "capturedAt": "2026-10-01T10:59:05.154Z",
+            "metadata": {
+              "popularity": 36,
+              "engagementCount": 1,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/bag41j/hanami_why_introductions",
+                  "popularity": 36,
+                  "engagementCount": 1
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ruby"
+                ],
+                "createdAt": "2026-09-30T10:55:21.340-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/bag41j/hanami_why_introductions",
+              "popularity": 36,
+              "engagementCount": 1
+            }
+          ]
+        },
+        {
+          "title": "EDG C/C++ Compiler Project",
+          "url": "https://github.com/edgcpp/compiler",
+          "summary": "Edison Design Group, C ve C++ derleyici ön yüzünü (front end) açık kaynaklı hale getirerek erişime açtı. Yazılım dünyasında standartları belirleyen bu teknoloji, artık geliştiricilerin incelemesine ve kullanımına sunulmuş durumda.",
+          "meta": "22 oy · 9 yorum",
+          "snapshot": {
+            "sourceId": "nwdxko",
+            "capturedAt": "2026-10-01T10:59:05.154Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 9,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/nwdxko/edg_c_c_compiler_project",
+                  "popularity": 22,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c",
+                  "c++",
+                  "compilers"
+                ],
+                "createdAt": "2026-09-30T17:06:21.893-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nwdxko/edg_c_c_compiler_project",
+              "popularity": 22,
+              "engagementCount": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu temel ortam."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Birbirleriyle iletişim kurarak ortak bir hedefi gerçekleştirmek için iş birliği yapan birden fazla yapay zekâ birimi."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara standart bir yolla bağlanmasını sağlayan köprü sistemi."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ sistemlerinin belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya işlevler."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Yazılımcıların belirli bir platform veya cihaz için uygulama geliştirmesini kolaylaştıran hazır araçlar ve kod kütüphaneleri bütünü."
+    },
+    {
+      "term": "backend",
+      "explanation": "Bir web sitesinin veya uygulamanın kullanıcı tarafından görülmeyen, verilerin işlendiği ve saklandığı arka plan kısmı."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ uygulamalarının dış dünyadaki verilerle güvenli ve standart bir şekilde konuşmasını sağlayan bağlantı kuralı."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgilerin birbirleriyle olan ilişkilerini bir ağ yapısı üzerinde gösteren akıllı veri haritası."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekânın metinleri işlerken kullandığı kelime veya karakter parçacıkları."
+    },
+    {
+      "term": "stable marriage algorithm",
+      "explanation": "İki farklı gruptaki öğeleri, birbirleri için en uygun eşleşmeyi sağlayacak şekilde bir araya getiren matematiksel yöntem."
+    }
+  ]
+}

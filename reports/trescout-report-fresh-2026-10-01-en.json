@@ -1,0 +1,623 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-01",
+  "capturedAt": "2026-10-01T10:59:04.970Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo is a Python project that uses large language models and automation workflows to create high-resolution short videos from a single topic or keyword. Aiming to accelerate the content production process for users, this tool automatically converts text-based inputs into visual and auditory content.",
+          "meta": "Python · ★ 127,802 · +431 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "harry0703/MoneyPrinterTurbo",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 127802,
+              "engagementCount": 431,
+              "rank": 6,
+              "extra": {
+                "starsToday": 431
+              }
+            }
+          }
+        },
+        {
+          "title": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "summary": "Openclaw is an AI-based automation tool capable of performing tasks across different operating systems and platforms. Developed with TypeScript, this software allows users to standardize and automate operations on their computers.",
+          "meta": "TypeScript · ★ 391,111 · +136 today",
+          "snapshot": {
+            "sourceId": "openclaw/openclaw",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 391111,
+              "engagementCount": 136,
+              "rank": 7,
+              "extra": {
+                "starsToday": 136
+              }
+            }
+          }
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "awesome-claude-skills, compiled by ComposioHQ, brings together skill packages and customization tools developed for the AI model Claude. This list allows users to automate their Claude workflows by integrating them into different software.",
+          "meta": "Python · ★ 76,274 · +123 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ComposioHQ/awesome-claude-skills",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 76274,
+              "engagementCount": 123,
+              "rank": 8,
+              "extra": {
+                "starsToday": 123
+              }
+            }
+          }
+        },
+        {
+          "title": "firebase/firebase-ios-sdk",
+          "url": "https://github.com/firebase/firebase-ios-sdk",
+          "summary": "Firebase, the mobile development platform offered by Google, provides a software development kit (SDK) that allows adding cloud services such as databases and authentication to applications prepared for Apple devices. This tool makes it easier for developers to manage backend processes in their applications running on the Apple ecosystem.",
+          "meta": "C++ · ★ 6,801 · +8 today",
+          "snapshot": {
+            "sourceId": "firebase/firebase-ios-sdk",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 6801,
+              "engagementCount": 8,
+              "rank": 11,
+              "extra": {
+                "starsToday": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "modelcontextprotocol/servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "summary": "Model Context Protocol (MCP) servers enable generative AI models to access external data sources and tools through a standard interface. This protocol allows different AI applications to connect to databases or software tools in a secure and consistent manner.",
+          "meta": "TypeScript · ★ 90,906 · +50 today",
+          "snapshot": {
+            "sourceId": "modelcontextprotocol/servers",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 90906,
+              "engagementCount": 50,
+              "rank": 12,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        },
+        {
+          "title": "colbymchenry/codegraph",
+          "url": "https://github.com/colbymchenry/codegraph",
+          "summary": "Codegraph is a local knowledge graph tool that indexes codebases in advance to provide them to AI models. By automatically synchronizing code changes, it allows coding assistants like Claude Code or Cursor to use fewer tokens and tool calls.",
+          "meta": "C · ★ 72,718 · +118 today",
+          "snapshot": {
+            "sourceId": "colbymchenry/codegraph",
+            "capturedAt": "2026-10-01T10:59:06.654Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 72718,
+              "engagementCount": 118,
+              "rank": 14,
+              "extra": {
+                "starsToday": 118
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 4 Argon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+          "summary": "Google has announced Gemini 4 Argon, a new generation AI model that offers advanced reasoning capabilities and high processing speed. This model aims to optimize the balance between performance and cost in complex data analysis and large-scale tasks.",
+          "meta": "1,415 points · 924 comments",
+          "snapshot": {
+            "sourceId": "49913571",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 1415,
+              "engagementCount": 924,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49913571",
+                  "popularity": 1415,
+                  "engagementCount": 924
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "bradleyg223",
+                "createdAt": "2026-09-30T20:04:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49913571"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49913571",
+              "popularity": 1415,
+              "engagementCount": 924
+            }
+          ]
+        },
+        {
+          "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+          "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+          "summary": "The dating application developed by the Singapore government uses the Gale-Shapley stable marriage algorithm to optimize match quality. This mathematical method aims to create the most mutually suitable matches by taking user preferences into account.",
+          "meta": "400 points · 352 comments",
+          "snapshot": {
+            "sourceId": "49906432",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 400,
+              "engagementCount": 352,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49906432",
+                  "popularity": 400,
+                  "engagementCount": 352
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "rzk",
+                "createdAt": "2026-09-30T09:27:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49906432"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49906432",
+              "popularity": 400,
+              "engagementCount": 352
+            }
+          ]
+        },
+        {
+          "title": "A brief history of the Bloomberg terminal",
+          "url": "https://spectrum.ieee.org/bloomberg-terminal",
+          "summary": "The Bloomberg terminal is a specialized hardware and software platform that allows finance professionals to access market data and execute trades. Reaching from the 1980s to the present, this system offers a closed ecosystem that centralizes the flow of information in financial markets.",
+          "meta": "297 points · 128 comments",
+          "snapshot": {
+            "sourceId": "49909583",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 297,
+              "engagementCount": 128,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49909583",
+                  "popularity": 297,
+                  "engagementCount": 128
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "rbanffy",
+                "createdAt": "2026-09-30T14:34:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49909583"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49909583",
+              "popularity": 297,
+              "engagementCount": 128
+            }
+          ]
+        },
+        {
+          "title": "Why the Bronze Age Collapsed",
+          "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+          "summary": "The Late Bronze Age Collapse occurred as a result of systemic failure due to the interdependence of states based on complex trade networks. This historical analysis examines how a domino effect created by factors such as climate change and migration, rather than a single catastrophe, destroyed civilizations.",
+          "meta": "254 points · 160 comments",
+          "snapshot": {
+            "sourceId": "49890732",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 254,
+              "engagementCount": 160,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49890732",
+                  "popularity": 254,
+                  "engagementCount": 160
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "AnodicElegy",
+                "createdAt": "2026-09-29T10:10:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49890732"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49890732",
+              "popularity": 254,
+              "engagementCount": 160
+            }
+          ]
+        },
+        {
+          "title": "The last time my family was replaced by technology",
+          "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+          "summary": "Manuel Darcemont addresses how digital tools transform family interactions and the technological habits that replace traditional bonds from a personal perspective. The article questions how screen-focused life changes direct communication between family members.",
+          "meta": "250 points · 523 comments",
+          "snapshot": {
+            "sourceId": "49908394",
+            "capturedAt": "2026-10-01T10:59:05.206Z",
+            "metadata": {
+              "popularity": 250,
+              "engagementCount": 523,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49908394",
+                  "popularity": 250,
+                  "engagementCount": 523
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "megalomanu",
+                "createdAt": "2026-09-30T13:06:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49908394"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49908394",
+              "popularity": 250,
+              "engagementCount": 523
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Contrastive-LM/CLM-v0.1-8B",
+          "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+          "summary": "Contrastive-LM/CLM-v0.1-8B is a language model optimized for text-ranking tasks. Hosted on the HuggingFace platform, this model uses contrastive learning methods to determine the relevance between texts.",
+          "meta": "♥ 582 · 2,720 downloads",
+          "snapshot": {
+            "sourceId": "Contrastive-LM/CLM-v0.1-8B",
+            "capturedAt": "2026-10-01T10:59:05.056Z",
+            "metadata": {
+              "popularity": 582,
+              "engagementCount": 2720,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 502,
+                "pipelineTag": "text-ranking",
+                "tags": [
+                  "contrastive-lm",
+                  "clm",
+                  "contrastive-learning",
+                  "verifier",
+                  "reranker",
+                  "agents",
+                  "text-ranking",
+                  "en",
+                  "base_model:Qwen/Qwen3-8B",
+                  "base_model:finetune:Qwen/Qwen3-8B",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Evaluating Bounded Autonomy in Regulated Agentic AI: A Diagnostic Harness with Constitutional Rewards, Escalation Labels, and Runtime Governance",
+          "url": "https://huggingface.co/papers/2609.37501",
+          "summary": "RegLLM is a diagnostic framework developed to oversee the limited autonomy of regulated agentic AI. The system uses a runtime supervisor that monitors six different reliability signals, such as citation accuracy and safety compliance, to prevent erroneous operations.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.37501",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37501",
+                "publishedAt": "2026-09-28T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "The Endless Exam: Mathematical Constructions from Today's Models toward Superintelligence",
+          "url": "https://huggingface.co/papers/2609.24555",
+          "summary": "Endless Exam is a benchmark tool developed to measure the mathematical problem-solving capacity of AI models, aiming to go beyond published limits. Containing fourteen different mathematical structure families, this system evaluates model performance through automated verification and relative quality scores.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.24555",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24555",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/ricolalemon/endless-exam",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them",
+          "url": "https://huggingface.co/papers/2609.37863",
+          "summary": "The MIST test, which examines how visual context influences model decisions in the evaluation processes of vision-language models, reveals that misleading images degrade model performance. This study shows that AI systems should undergo visual data-based neutrality tests before being used in place of human evaluators.",
+          "meta": "7 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.37863",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37863",
+                "publishedAt": "2026-09-29T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Safety of Latent Communication in Multi-Agent Systems",
+          "url": "https://huggingface.co/papers/2609.39788",
+          "summary": "Latent communication, which allows multiple AI agents to exchange data directly in the internal representation space instead of using text, reduces processing load and latency. This method poses new risks for system security as it can increase the tendency to conform to harmful content even among safety-aligned agents.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.39788",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.39788",
+                "publishedAt": "2026-09-30T00:00:00.000Z",
+                "githubRepo": "https://github.com/Muhammad-Huzaifaa/latent-safety",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning",
+          "url": "https://huggingface.co/papers/2609.36333",
+          "summary": "ATLAS is a training method developed to improve the planning process in latent world models. This method aims to increase the prediction reliability of the model by preserving the relational geometry between states used during action selection.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.36333",
+            "capturedAt": "2026-10-01T10:59:05.060Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36333",
+                "publishedAt": "2026-09-30T00:00:00.000Z",
+                "githubRepo": "https://github.com/Annie969/atlas-world-model",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "IANA's email about why example.com changed",
+          "url": "https://www.oliverdunk.com/2026/09/30/iana-reply",
+          "summary": "The Internet Assigned Numbers Authority (IANA) announced that the change made in the management of the example.com domain name occurred due to technical requirements and security standards. This statement aims to meet the expectation of transparency regarding the functioning of the Domain Name System (DNS).",
+          "meta": "23 points · 11 comments",
+          "snapshot": {
+            "sourceId": "qgd17n",
+            "capturedAt": "2026-10-01T10:59:05.154Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 11,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed",
+                  "popularity": 23,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "networking",
+                  "web"
+                ],
+                "createdAt": "2026-10-01T03:47:50.120-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed",
+              "popularity": 23,
+              "engagementCount": 11
+            }
+          ]
+        },
+        {
+          "title": "Hanami, Why?: Introductions",
+          "url": "https://aaronmallen.me/writing/hanami-why-introductions",
+          "summary": "Hanami is a modular web framework developed for the Ruby programming language. It offers a lighter and component-based architecture compared to traditional structures like Rails, providing developers with more control over the application.",
+          "meta": "36 points · 1 comments",
+          "snapshot": {
+            "sourceId": "bag41j",
+            "capturedAt": "2026-10-01T10:59:05.154Z",
+            "metadata": {
+              "popularity": 36,
+              "engagementCount": 1,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/bag41j/hanami_why_introductions",
+                  "popularity": 36,
+                  "engagementCount": 1
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ruby"
+                ],
+                "createdAt": "2026-09-30T10:55:21.340-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/bag41j/hanami_why_introductions",
+              "popularity": 36,
+              "engagementCount": 1
+            }
+          ]
+        },
+        {
+          "title": "EDG C/C++ Compiler Project",
+          "url": "https://github.com/edgcpp/compiler",
+          "summary": "Edison Design Group has made its C and C++ compiler front end open source and accessible. This technology, which sets standards in the software world, is now available for developers to examine and use.",
+          "meta": "22 points · 9 comments",
+          "snapshot": {
+            "sourceId": "nwdxko",
+            "capturedAt": "2026-10-01T10:59:05.154Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 9,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/nwdxko/edg_c_c_compiler_project",
+                  "popularity": 22,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c",
+                  "c++",
+                  "compilers"
+                ],
+                "createdAt": "2026-09-30T17:06:21.893-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nwdxko/edg_c_c_compiler_project",
+              "popularity": 22,
+              "engagementCount": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "The moment a software is executed on a computer and the fundamental environment it requires during this process."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Multiple artificial intelligence units that cooperate by communicating with each other to achieve a common goal."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "A bridge system that allows artificial intelligence models to connect to different data sources and tools in a standardized way."
+    },
+    {
+      "term": "skills",
+      "explanation": "Special capabilities or functions that artificial intelligence systems use to perform a specific task."
+    },
+    {
+      "term": "SDK",
+      "explanation": "A set of ready-made tools and code libraries that make it easier for developers to build applications for a specific platform or device."
+    },
+    {
+      "term": "backend",
+      "explanation": "The background part of a website or application that is not seen by the user, where data is processed and stored."
+    },
+    {
+      "term": "MCP",
+      "explanation": "A connection protocol that allows artificial intelligence applications to communicate with data from the outside world in a secure and standardized way."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "An intelligent data map that shows the relationships of information with each other on a network structure."
+    },
+    {
+      "term": "token",
+      "explanation": "Word or character fragments used by artificial intelligence while processing texts."
+    },
+    {
+      "term": "stable marriage algorithm",
+      "explanation": "A mathematical method that brings together items from two different groups in a way that provides the most suitable match for each other."
+    }
+  ]
+}
