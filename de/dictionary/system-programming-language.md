@@ -1,25 +1,34 @@
 # Was ist System Programming Language?
 
-Es handelt sich um eine leistungsstarke Sprache, die zur Entwicklung grundlegender Software wie Betriebssystemen oder Hardwaretreibern verwendet wird.
+Eine Systemprogrammiersprache (auf Türkisch als Systemprogrammierungs-Sprache bezeichnet) ist eine Sprache, die direkt mit der Hardware kommuniziert.
 
-## Definition
-Dabei handelt es sich um Sprachen, die direkt mit der Hardware des Computers kommunizieren können und vollständige Kontrolle über die Speicherverwaltung bieten. Sie sind sehr schnell, aber weniger fehlertolerant.
+## Definition und Wortherkunft
+Sie bieten die volle Kontrolle über die Speicherverwaltung, arbeiten schnell und tolerieren kaum Fehler. Bekannte Beispiele sind C, C++ und Rust. Betriebssysteme, Treiber und Spiele-Engines werden in diesen Sprachen geschrieben.
 
-## So funktioniert es
-Mit diesen Sprachen können Sie die Funktionsweise der Hardware bis ins kleinste Detail verwalten.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Betriebssystem: Kernel und Treiber.Spiel: Engine-Kern.Moderator: Dienste mit hohem Datenverkehr.
 
-## Wo es eingesetzt wird
-Es wird in Betriebssystemen (Windows, Linux), Game-Engines und Hochleistungsservern eingesetzt.
+## Technische Tiefe und Architektur
+Eigenschaften:
 
-## Häufig verwechselt mit
-Nicht zu verwechseln mit Websprachen; Während sich Websprachen mehr mit der Benutzeroberfläche befassen, befassen sich diese mit der Hardware.
+## Häufig gemischte Dinge
+Sie werden für Websprachen gehalten. Sie kümmern sich um die Benutzeroberfläche, diese sich um die Hardware. Das eine ist das Schaufenster, das andere der Motor.
 
-## Häufige Fragen
-**Welche Sprachen fallen in diese Kategorie?**
-C, C++ und Rust sind die bekanntesten Beispiele.
+## Einsatz in verschiedenen Disziplinen
+Motor: Mechanik statt Karosserie.Fundament: Die Tragstruktur des Gebäudes.Skelett: Das Grundgerüst des Körpers.
 
-**Warum verwendet nicht jeder diese Sprachen?**
-Es ist schwer zu erlernen und erfordert eine sehr sorgfältige Codierung.
+## Häufig gestellte Fragen
+**Welche gehören dazu?**
+C, C++ und Rust sind die bekanntesten. Go und Zig kommen dieser Klasse ebenfalls nahe.
+
+**Warum nutzt es nicht jeder?**
+Es ist schwer zu lernen und erfordert Aufmerksamkeit. Es gibt einen Preis bei der Effizienz.
+
+**Womit sollte man beginnen?**
+Rust ist modern und richtungsweisend. C ist ein Klassiker für den Grundstein.
+
+**Kann man damit Webanwendungen schreiben?**
+Man kann es machen, aber es ist nicht praktisch. Die richtige Arbeit wird mit der richtigen Sprache erledigt.
 
 
 ## Verwandte Begriffe

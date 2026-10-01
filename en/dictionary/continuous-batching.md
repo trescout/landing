@@ -1,27 +1,34 @@
 # What is Continuous Batching?
 
-It is an optimization method that enables artificial intelligence models to process incoming requests continuously and fluently, without waiting.
+Continuous batching is a technique that feeds requests into the engine without making them wait.
 
-## Overview
-Normally, AI models process requests in batches and wait for one batch to finish. The continuous grouping method allows the system to include new incoming requests into the process before the current process is finished. In this way, users receive answers faster and without waiting.
+## Definition and Word Origin
+New requests enter before the classic batch finishes. Hardware doesn't stay idle, responses return faster. It is the engine room of chatbots and high-load services.
 
-*Analogy: It's like a chef in a restaurant who keeps cooking orders from each table, instead of just finishing all the food for one table and then moving on to the next.*
+## How to Know and Use in Daily Life?
+Chat: Instant response line.API: High-load edges.Cloudy: Costly GPU queue.
 
-## How it works
-As soon as the model's processing capacity becomes empty, new requests waiting in the queue are immediately injected into the system. This ensures that hardware resources operate at full efficiency at all times.
+## Technical Depth and Architecture
+Flow:
 
-## Where it is used
-It is used in the background of chat bots such as ChatGPT and in high-traffic artificial intelligence services.
+## Frequently Mixed Things
+It is thought to be speed. Yet the real issue is efficiency: More work is done with the same hardware. Speed is a byproduct.
 
-## Commonly confused with
-It may be confused with processing speed alone, but this method is specifically about efficiency.
+## Use in Different Disciplines
+Chef: Cooking without making tables wait.Bus: A shuttle that doesn't wait until it fills up to depart.Elevator: Do not pick up passengers between floors.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why is it important?**
-It reduces users' waiting time and reduces server costs.
+Waiting drops, cost drops. The gap widens on a busy line.
 
 **Is it available on every model?**
-No, this is generally a feature of advanced inference engines.
+No. It is a feature of advanced engines.
+
+**What happens to the delay?**
+The average drops, and queue fairness is observed.
+
+**When is it needed?**
+When concurrent requests increase. It is not noticeable under low load.
 
 
 ## Related terms

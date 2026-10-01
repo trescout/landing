@@ -2,26 +2,35 @@
 
 > Open Source Intelligence
 
-É um método de coleta e análise de informações de fontes disponíveis publicamente na Internet.
+OSINT (Open Source Intelligence, inteligência de código aberto) é a disciplina de analisar informações publicamente disponíveis.
 
-## Definição
-Você coleta dados de locais acessíveis ao público, como mídias sociais, sites de notícias ou registros públicos, sem recorrer a métodos secretos. Ao combinar esses dados, você alcança resultados significativos. Não é usado para acessar informações, mas para dar sentido às informações obtidas.
+## Definição e origem da palavra
+Nenhum caminho secreto é tomado: mídias sociais, notícias e registros públicos são escaneados e validados de forma cruzada. A habilidade não está no acesso, mas na atribuição de significado.
 
-## Como funciona
-Recolher dados sobre o tema relevante utilizando motores de busca, ferramentas de redes sociais e bases de dados públicas e verificar esses dados através de interrogatório cruzado.
+## Como conhecer e usar no dia a dia?
+Segurança: Vazamento e rastreamento.Jornalismo: Verificação de fontes.Mercado: Monitoramento de concorrentes.
 
-## Onde é usado
-É amplamente utilizado em segurança cibernética, jornalismo e pesquisas de mercado.
+## Profundidade Técnica e Arquitetura
+Ciclo:
 
-## Costuma ser confundido com
-Pode ser confundido com hacking ou infiltração, mas é baseado em fontes totalmente legais e abertas.
+## Coisas frequentemente misturadas
+Confundido com hacking. Um invade, o outro lê. Um arromba a porta, o outro trabalha na biblioteca.
 
-## Perguntas frequentes
-**OSINT é legal?**
-Sim, é totalmente legal, pois você está apenas usando informações disponíveis publicamente.
+## Use em diferentes disciplinas
+Biblioteca: Resultados de milhares de livros.Detetive: Rastreamento.Arqueologia: Da parte para o todo.
 
-**Quais ferramentas são usadas?**
-Ferramentas básicas como pesquisas no Google, navegadores de redes sociais e serviços de mapeamento são suficientes.
+## Perguntas Frequentes
+**Isso é legal?**
+Sim, desde que se limite a fontes abertas. O acesso não autorizado é crime.
+
+**Quais ferramentas?**
+Motor de busca, mapas e varredura social são suficientes. O especialista combina os dados.
+
+**Por onde começar?**
+Com uma única pergunta e uma lista de fontes. Adquire-se o hábito de verificação.
+
+**Qual é o limite?**
+Dados privados e criação de perfis sem autorização são proibidos. O tratamento para fins não intencionais não é realizado.
 
 
 ## Termos relacionados

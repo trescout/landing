@@ -1,22 +1,34 @@
 # ¿Qué es Refactoring?
 
-Es el proceso de hacer que la estructura del código dentro del software sea más organizada y eficiente sin cambiar su comportamiento externo.
+La refactorización es la simplificación del código manteniendo su comportamiento.
 
-## Definición
-Refactorizar es como renovar las tuberías del interior de un edificio o cambiar la ubicación de elementos para hacerlos más útiles, sin dañar la apariencia externa. No hay cambios en el funcionamiento del software, pero la legibilidad del código aumenta y resulta más fácil agregar nuevas funciones en el futuro. Es un proceso de limpieza que debe realizarse periódicamente para reducir la deuda técnica.
+## Definición y origen de la palabra
+La estructura interna se renueva sin alterar la apariencia externa. La legibilidad del código aumenta y resulta más fácil añadir nuevas funciones. Es un proceso de limpieza que salda la deuda técnica. Martin Fowler es el referente de esta disciplina.
 
-## Cómo funciona
-Se eliminan bloques de código innecesarios, las funciones complejas se dividen en partes más simples y los nombres de las variables se hacen más comprensibles.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Revisión: Rondas de revisión de código.Pago de deuda: Limpieza intercalada dentro del sprint.Adquisición: Simplificación antes de entrar en código antiguo.
 
-## Dónde se usa
-Se aplica en las etapas de revisión de código de los procesos de desarrollo de software.
+## Profundidad técnica y arquitectura
+Movimientos comunes:
 
-## Suele confundirse con
-No debe confundirse con agregar nuevas funciones o corregir errores; esto solo mejora la calidad del código.
+## Cosas frecuentemente mezcladas
+Se confunde con una característica o corrección de errores. Sin embargo, la salida no cambia, solo mejora la estructura interna. El comportamiento es el mismo, el código es diferente.
+
+## Uso en diferentes disciplinas
+Fontanería: Renovar las tuberías mientras la pared sigue en pie.Redacción: El tema es el mismo, la oración es fluida.Poda: El árbol es el mismo, la disposición de las ramas es ordenada.
 
 ## Preguntas frecuentes
 **¿Por qué lo hacemos?**
-Si el código es más limpio, se evitarán errores futuros y el proceso de desarrollo será más rápido.
+El código limpio evita errores y ralentizaciones, y acelera el trabajo nuevo.
+
+**¿Cuándo se hace?**
+En el código que se toca, en pequeñas partes. La limpieza a gran escala se planifica por separado.
+
+**¿Cuál es el riesgo?**
+Tocar el código sin pruebas altera el comportamiento. No se debe intervenir sin la garantía de las pruebas.
+
+**¿Con qué frecuencia se hace?**
+Continuamente, en pequeñas dosis. Se entrelaza dentro del sprint, no se pospone.
 
 
 ## Términos relacionados

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es Virtual Machines? · Glosario · TreScout</title>
-<meta name="description" content="Son sistemas operativos virtuales que se ejecutan dentro de una computadora como si fuera un dispositivo independiente.">
+<meta name="description" content="Una máquina virtual (conocida en inglés como *virtual machine*) es un ordenador independiente que comparte el hardware.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/virtual-machines/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/virtual-machines/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/virtual-machines/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/virtual-machines.md">
 <meta property="og:title" content="¿Qué es Virtual Machines?">
-<meta property="og:description" content="Son sistemas operativos virtuales que se ejecutan dentro de una computadora como si fuera un dispositivo independiente.">
+<meta property="og:description" content="Una máquina virtual (conocida en inglés como *virtual machine*) es un ordenador independiente que comparte el hardware.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/virtual-machines/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es Virtual Machines?">
-<meta name="twitter:description" content="Son sistemas operativos virtuales que se ejecutan dentro de una computadora como si fuera un dispositivo independiente.">
+<meta name="twitter:description" content="Una máquina virtual (conocida en inglés como *virtual machine*) es un ordenador independiente que comparte el hardware.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Virtual Machines",
-  "description": "Son sistemas operativos virtuales que se ejecutan dentro de una computadora como si fuera un dispositivo independiente.",
+  "description": "Una máquina virtual (conocida en inglés como *virtual machine*) es un ordenador independiente que comparte el hardware.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/virtual-machines/",
   "inDefinedTermSet": {
@@ -55,15 +55,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-06-12">Última actualización: 12 de junio de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
 <h1 class="disc-title">¿Qué es <span class="disc-accent">Virtual Machines</span>?</h1>
-<p class="disc-lead">Son sistemas operativos virtuales que se ejecutan dentro de una computadora como si fuera un dispositivo independiente.</p>
-<section class="disc-sec"><h2>Definición</h2><p>Las máquinas virtuales le permiten ejecutar múltiples sistemas operativos simultáneamente en una sola computadora al particionar su hardware físico. Cada máquina virtual se comporta como si fuera su propio ordenador independiente y utiliza sus propios recursos. De esta manera, puedes probar diferentes software o configuraciones de forma segura sin dañar tu sistema principal.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Es como alquilar habitaciones independientes dentro de una sola casa, cada una con su propio mobiliario y puerta; Aunque las habitaciones comparten el mismo edificio, son completamente independientes entre sí.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Separas parte de tu hardware con la ayuda de un software. Instala un sistema operativo en esta sección reservada. Este sistema que ha instalado comienza a funcionar en su propio mundo sin el conocimiento de su computadora principal.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se utiliza en gestión de servidores, pruebas de software y en trabajos que requieren diferentes sistemas operativos.</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>Frecuentemente mezclado con contenedores; Mientras que las máquinas virtuales llevan un sistema operativo completo, los contenedores sólo llevan la aplicación.</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Una máquina virtual ralentiza la computadora?</p><p class="dict-faq-a">Sí, porque funciona compartiendo el procesador y los recursos de memoria de su computadora host.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Si ocurre un virus en la máquina virtual, ¿se transfiere a la computadora host?</p><p class="dict-faq-a">Generalmente no, porque la máquina virtual está en un entorno aislado del sistema host.</p></div></div></section>
+<p class="disc-lead">Una máquina virtual (conocida en inglés como *virtual machine*) es un ordenador independiente que comparte el hardware.</p>
+<section class="disc-sec"><h2>Definición y origen de la palabra</h2><p>Virtual significa virtual. Múltiples sistemas operativos se ejecutan en una sola máquina. Cada uno funciona de forma aislada con sus propios recursos y no daña el sistema principal.</p></section>
+<div class="dict-analogy"><strong>Analogía:</strong> Es como alquilar habitaciones con puerta independiente en una misma casa.</div>
+<section class="disc-sec"><h2>¿Cómo saberlo y utilizarlo en la vida diaria?</h2><p><strong>Presentador:</strong> Alojamiento multiinquilino.<br><strong>Prueba:</strong> Prueba de diferentes sistemas.<br><strong>Desarrollo:</strong> Entorno de prueba limpio.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Capas:</p><p><strong>Hipervisor:</strong> El software que divide el hardware.<br><strong>Invitado:</strong> El sistema que corre encima.<br><strong>Instantánea:</strong> Captura instantánea, billete de vuelta.</p><p>Máquina rápida:</p><pre><code>multipass launch --name test --cpus 2 --memory 4G</code></pre><p>La diferencia de los contenedores: La máquina transporta el sistema, el contenedor transporta la aplicación. El aislamiento es fuerte en la máquina.</p></section>
+<section class="disc-sec"><h2>Cosas frecuentemente mezcladas</h2><p>Se confunde con un contenedor. La máquina es un sistema completo, el contenedor comparte el núcleo. Uno es un apartamento, el otro es compartir piso.</p></section>
+<section class="disc-sec"><h2>Uso en diferentes disciplinas</h2><p><strong>Habitaciones:</strong> Compartimentos con puertas independientes.<br><strong>Apartamento:</strong> Edificio común, espacio privado.<br><strong>Maleta:</strong> Transporte compartimentado.</p></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Lo ralentiza?</p><p class="dict-faq-a">Tiene un coste de compartición. No se nota con un dimensionamiento correcto.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Se propaga el virus?</p><p class="dict-faq-a">Generalmente no. El aislamiento es fuerte, la carpeta compartida está supervisada.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuántos recursos se asignan?</p><p class="dict-faq-a">Se determina según la tarea. Se ajusta gradualmente mediante monitorización.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la diferencia con el contenedor?</p><p class="dict-faq-a">La máquina transporta el sistema, el contenedor la aplicación. Se intercambian aislamiento y velocidad.</p></div></div></section>
 <section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/containers/">Containers</a><a href="/es/dictionary/runtime/">Runtime</a><a href="/es/dictionary/self-hosting/">Self-hosting</a></div></section>
 <section class="disc-sec"><h2>Herramientas relacionadas</h2><div class="dict-related"><a href="/es/discover/container/">Container</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="virtual-machines" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>

@@ -2,25 +2,35 @@
 
 > Proof of Concept
 
-It is a small-scale preliminary trial conducted to prove whether an idea works in practice.
+A PoC (Proof of Concept) is a small trial that demonstrates whether an idea works.
 
-## Overview
-It is a short-term study conducted before starting a large project to understand whether the core technology performs as expected. At this stage, a perfect design or a full-scale product is not expected; only the basic functionality is tested.
+## Definition and Word Origin
+"Concept" means concept, and "proof" means proof. Before a major investment, it is demonstrated that the core technology works. A finished design is not awaited, only the core functionality is tested.
 
-*Analogy: It is like making a model before building a building or cooking a dish at home for trial purposes before adding it to a restaurant menu.*
+## How to Know and Use in Daily Life?
+Software: Risky integration trial.Investment: Pre-investment validation.Hardware: Pre-prototype circuit test.
 
-## How it works
-Data is collected with limited resources by making only the most critical feature functional. If the result is successful, the project is invested in; if not, it is abandoned.
+## Technical Depth and Architecture
+Plan:
 
-## Where it is used
-It is used in software development processes and new technology investments.
+## Frequently Mixed Things
+Often mistaken for a prototype. A prototype is a product sample, a PoC is a feasibility experiment. One shows, the other proves.
 
-## Commonly confused with
-It is confused with a prototype; a prototype is a sample of the product, whereas a PoC is an experiment that proves the feasibility of an idea.
+## Use in Different Disciplines
+Mockup: Scaled model before the building.Home trial: Kitchen test before entering the menu.Trailer: Reaction testing before the movie.
 
-## Frequently asked questions
-**What happens if the PoC is successful?**
-Since it is proven that the idea is feasible, the project moves to the full-scale development phase.
+## Frequently Asked Questions
+**What happens if it succeeds?**
+Feasibility is proven, full development begins.
+
+**How long does it take?**
+Usually 1-2 weeks. A prolonged effort has turned from a PoC into a project.
+
+**What happens if it fails?**
+Losses remain limited, lessons are learned. Early quitting is a gain.
+
+**What is the difference from a prototype?**
+A prototype shows, a PoC proves. One is a showroom, the other is an experiment.
 
 
 ## Related terms

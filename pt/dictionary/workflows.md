@@ -1,35 +1,45 @@
 # O que é Workflows?
 
-É uma sequência ordenada e lógica de etapas que um trabalho segue do início ao fim.
+Workflow (em português, fluxo de trabalho) é a sequência ordenada de etapas de um processo.
 
-## Definição
-Os fluxos de trabalho são um roteiro que determina o que você precisa fazer e em que ordem ao executar uma tarefa. Esses processos dividem tarefas complexas em partes pequenas e gerenciáveis. Um fluxo de trabalho projetado corretamente reduz erros e aumenta a eficiência.
+## Definição e origem da palavra
+"Flow" significa fluxo. Os passos em direção ao objetivo são colocados em ordem, e o trabalho complexo é dividido em partes menores. O fluxo correto reduz erros e aumenta a velocidade.
 
-## Como funciona
-Primeiro você determina o objetivo do trabalho a ser realizado. Em seguida, você anota as etapas necessárias para atingir esse objetivo, em ordem. Finalmente, você conclui o trabalho automatizando ou seguindo manualmente estas etapas.
+## Como conhecer e usar no dia a dia?
+Desenvolvimento: Linha de revisão de código.Suporte: Sistema de atendimento de tickets.Escritório: Cadeia de aprovação.
 
-## Onde é usado
-É frequentemente usado em processos de desenvolvimento de software, sistemas de suporte ao cliente ou trabalho diário de escritório.
+## Profundidade Técnica e Arquitetura
+Descrição do fluxo:
 
-## Costuma ser confundido com
-Muitas vezes é confundido com 'pipeline'; No entanto, embora o fluxo de trabalho seja um conceito mais geral, o pipeline refere-se a fluxos de dados mais técnicos.
+## Coisas frequentemente misturadas
+Pipeline é confundido. Pipeline é um fluxo de dados técnico, workflow é uma ordem de trabalho mais geral. Todo pipeline é considerado um workflow, mas o contrário não é obrigatório.
 
-## Perguntas frequentes
-**Por que devo automatizar fluxos de trabalho?**
-Automatizar tarefas repetitivas reduz a margem de erro e economiza tempo.
+## Use em diferentes disciplinas
+Receita: Preparação, cozimento e serviço.Montagem: Sequência de peças.Balcão: Registro e encaminhamento.
+
+## Perguntas Frequentes
+**Por que automatizar?**
+A repetição gera erros e consome tempo. A automação reduz ambos.
 
 **Os fluxos de trabalho podem mudar?**
-Sim, é uma prática recomendada atualizar os fluxos de trabalho e torná-los mais eficientes conforme as necessidades mudam.
+Sim. É atualizado conforme a necessidade muda e possui controle de versão.
+
+**Por onde começar?**
+Pela tarefa mais repetida. As etapas são escritas e uma delas é automatizada.
+
+**Uma ferramenta é obrigatória?**
+Não. Uma lista em papel também é um fluxo. Quando o volume aumenta, a ferramenta torna-se necessária.
 
 
 ## Termos relacionados
 - [Pipeline](/pt/dictionary/pipeline/)
-- [Pipelines](/pt/dictionary/pipeline/)
 - [Data Pipeline](/pt/dictionary/data-pipeline/)
+- [CI-CD](/pt/dictionary/ci-cd/)
 
 ## Ferramentas relacionadas
 - [Gstack](/pt/discover/gstack/)
 - [MinerU](/pt/discover/mineru/)
+- [Trivy](/pt/discover/trivy/)
 - [Modly](/pt/discover/modly/)
 
 ---

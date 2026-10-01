@@ -1,22 +1,34 @@
 # Qu'est-ce que Introduction to Autonomous Robots ?
 
-C’est le principe de fonctionnement de base des machines qui peuvent prendre leurs propres décisions et se déplacer sans recevoir d’ordres constants de l’extérieur.
+Les robots autonomes sont des machines qui se déplacent dans leur environnement sans recevoir de commandes continues.
 
-## Définition
-Ce domaine s'appuie sur des robots percevant leur environnement (capteurs), traitant ces données (intelligence artificielle) et réalisant une action (moteurs). Il garantit que le robot non seulement suit le chemin programmé mais atteint également la cible en surmontant les obstacles.
+## Définition et origine du mot
+"Autonome" signifie autonome. Triple dispositif : Perception (capteur), traitement (intelligence artificielle) et action (moteur). Le robot ne mémorise pas le chemin, il contourne l'obstacle pour atteindre la cible.
 
-## Comment ça marche
-Les robots sont équipés de caméras et de capteurs. Les données entrantes sont traitées avec des modèles d’intelligence artificielle et il est décidé ce que fera le robot.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Entrepôt : Transport entre les rayonnages.Usine : Ligne d'assemblage.Véhicule : Systèmes d'aide à la conduite.
 
-## Où est-ce utilisé
-Il est utilisé dans les entrepôts, les usines et les véhicules autonomes.
+## Profondeur technique et architecture
+Cycle :
 
-## Souvent confondu avec
-Peut être confondu avec des robots télécommandés ; ils sont complètement sous le contrôle humain.
+## Choses fréquemment mélangées
+On le prend pour un robot télécommandé. Il est entièrement entre les mains de l'humain, face à cet objectif. L'un est une marionnette, l'autre est un apprenti.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Voiture jouet : Modèle qui trouve son propre chemin.Ascenseur : Sélection de l'étage selon le bouton.Pilote automatique : Un système qui maintient le cap.
+
+## Foire aux questions
 **Comment apprennent-ils ?**
-Généralement en analysant constamment les données qui les entourent et par essais et erreurs.
+Par l'analyse de données et les essais-erreurs. On répète en simulation et on ajuste sur le terrain.
+
+**Est-ce sécuritaire?**
+Oui, dans les limites pour lesquelles il a été conçu. L'arrêt d'urgence et la reprise en main par l'humain sont indispensables.
+
+**Où est-il utilisé ?**
+Dans les entrepôts, les usines et sur la route. Il est en tête pour les tâches répétitives et dangereuses.
+
+**Quand cela va-t-il se généraliser ?**
+Le coût et la réglementation en décident. Les espaces fermés d'abord, la route ouverte ensuite.
 
 
 ## Termes liés

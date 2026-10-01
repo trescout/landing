@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Testing Framework? · Glossário · TreScout</title>
-<meta name="description" content="É um conjunto de ferramentas prontas que permitem escrever e executar testes de software regularmente, de forma rápida e fácil.">
+<meta name="description" content="Um framework de testes é uma infraestrutura pronta que escreve e executa testes. É um conjunto de ferramentas prontas que permitem escrever e executar test">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/testing-framework/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/testing-framework/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/testing-framework/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/testing-framework.md">
 <meta property="og:title" content="O que é Testing Framework?">
-<meta property="og:description" content="É um conjunto de ferramentas prontas que permitem escrever e executar testes de software regularmente, de forma rápida e fácil.">
+<meta property="og:description" content="Um framework de testes é uma infraestrutura pronta que escreve e executa testes. É um conjunto de ferramentas prontas que permitem escrever e executar test">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/testing-framework/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Testing Framework?">
-<meta name="twitter:description" content="É um conjunto de ferramentas prontas que permitem escrever e executar testes de software regularmente, de forma rápida e fácil.">
+<meta name="twitter:description" content="Um framework de testes é uma infraestrutura pronta que escreve e executa testes. É um conjunto de ferramentas prontas que permitem escrever e executar test">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Testing Framework",
-  "description": "É um conjunto de ferramentas prontas que permitem escrever e executar testes de software regularmente, de forma rápida e fácil.",
+  "description": "Um framework de testes é uma infraestrutura pronta que escreve e executa testes.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/testing-framework/",
   "inDefinedTermSet": {
@@ -55,14 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-06-14">Última atualização: 14 de junho de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Testing Framework</span>?</h1>
-<p class="disc-lead">É um conjunto de ferramentas prontas que permitem escrever e executar testes de software regularmente, de forma rápida e fácil.</p>
-<section class="disc-sec"><h2>Definição</h2><p>É uma biblioteca que oferece regras e estruturas prontas, em vez de escrever constantemente os mesmos códigos enquanto escreve testes. Reporta resultados de testes, indica erros e padroniza o processo. É um conjunto de ferramentas auxiliares que facilita o trabalho dos desenvolvedores de software.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como começar não apenas com uma chave de fenda, mas com uma sacola organizada com todas as ferramentas de reparo.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Você inclui esta ferramenta em seu projeto e escreve seus testes com os comandos que ela oferece. A ferramenta executa automaticamente seus testes e lista quais foram aprovados ou reprovados.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É utilizado em projetos de desenvolvimento de software, principalmente em sistemas que são constantemente atualizados.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Qual estrutura devo escolher?</p><p class="dict-faq-a">Geralmente é melhor escolher o mais popular com base na linguagem de programação que você está usando e nas necessidades do projeto.</p></div></div></section>
+<p class="disc-lead">Um framework de testes é uma infraestrutura pronta que escreve e executa testes.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>Framework significa estrutura. Em vez de escrever comandos um por um, as regras e o executor já vêm prontos. O resultado é relatado e o erro é sinalizado. O layout de teste é padronizado.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como começar o trabalho com uma caixa de ferramentas organizada em vez de uma única chave de fenda.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Desenvolvimento:</strong> Conjunto executado a cada commit.<br><strong>CI:</strong> Portão de qualidade na linha.<br><strong>Versão:</strong> Varredura pré-lançamento.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Peças:</p><p><strong>Executor (Runner):</strong> Encontra e executa os testes.<br><strong>Asserção:</strong> Compara o esperado com o real.<br><strong>Relatório:</strong> Lista de aprovados e reprovados.</p><p>Exemplo:</p><pre><code>test("toplama", () =&gt; {
+  expect(topla(2, 3)).toBe(5);
+});</code></pre><p>Critério de seleção: Compatibilidade de linguagem, comunidade e suporte a CI. O popular tende a ser bem mantido.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Caixa de ferramentas:</strong> A ferramenta certa para o trabalho.<br><strong>Conjunto de medidas:</strong> Ferramentas calibradas.<br><strong>Academia:</strong> Equipamento programado.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Qual escolher?</p><p class="dict-faq-a">O popular, de acordo com a linguagem e a necessidade. A manutenção e a documentação são determinantes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quando deve ser escrito?</p><p class="dict-faq-a">Junto com o código. O teste que fica para depois fica incompleto.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a diferença de E2E?</p><p class="dict-faq-a">O unitário testa partes, o de ponta a ponta testa a jornada completa. Ambos são usados juntos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a meta de cobertura?</p><p class="dict-faq-a">Definida pela equipe. O caminho crítico é mantido alto, e as bordas, baixas.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/unit-testing/">Unit Testing</a><a href="/pt/dictionary/end-to-end-testing/">End-to-End Testing</a><a href="/pt/dictionary/framework/">Framework</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/pytest/">Pytest</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="testing-framework" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>

@@ -2,26 +2,35 @@
 
 > Customer Relationship Management
 
-Es un sistema digital que permite a las empresas gestionar la información de los clientes, las interacciones pasadas y los procesos de venta desde un único centro.
+CRM (Customer Relationship Management, gestión de relaciones con los clientes) es un sistema que centraliza las interacciones con los clientes.
 
-## Definición
-CRM ayuda a una empresa a realizar un seguimiento de todas sus relaciones con sus clientes en un entorno digital. Aquí se almacena información como cuándo llamó el cliente, qué producto compró o qué problemas tuvo. De esta forma, las empresas pueden ofrecer un servicio más personalizado y más rápido a sus clientes.
+## Definición y origen de la palabra
+Aquí se almacena cuándo llamó el cliente, qué producto compró o qué problema tuvo. Ventas, soporte y marketing consultan el mismo registro, por lo que el cliente no tiene que volver a contar su historia cada vez que llama. Tiene una historia que va desde la caja de tarjetas de visita hasta la nube de Salesforce.
 
-## Cómo funciona
-Las empresas ingresan los datos de los clientes en el software CRM y el sistema compila estos datos en informes periódicos. Los equipos de ventas deciden a quién contactar y cuándo consultando estos informes. De esta forma, ninguna petición de un cliente pasa desapercibida.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Ventas: Seguimiento de prospectos y gestión de ofertas.Soporte: Registro de incidencias e historial de soluciones.Marketing: Mensajes masivos y personalizados por segmentos.
 
-## Dónde se usa
-Se utiliza ampliamente en departamentos de ventas, centros de atención al cliente y equipos de marketing.
+## Profundidad técnica y arquitectura
+Objetos del sistema:
 
-## Suele confundirse con
-A menudo se confunde simplemente con una 'libreta de direcciones', pero un CRM no sólo mantiene registros, sino que también permite desarrollar una estrategia de ventas con esos registros.
+## Cosas frecuentemente mezcladas
+Se piensa que es una libreta de direcciones, pero el CRM no solo registra, sino que genera estrategias de venta. También es incompleto considerarlo solo una base de datos: la base de datos es la base, el CRM es la herramienta de negocio construida sobre ella.
+
+## Uso en diferentes disciplinas
+Hospital: Expediente del paciente e historial de citas.Biblioteca: Tarjeta de miembro y registro de préstamos.Escuela: Sistema de información estudiantil.
 
 ## Preguntas frecuentes
 **¿Tengo que usar CRM?**
-Si tu número de clientes ha aumentado y ahora te cuesta recordar con quién hablaste y qué, sí, es necesario mantener el orden.
+Casi sí, cuando el número de clientes y las interacciones aumentan. Si te cuesta recordar con quién se habló y qué se dijo, ha llegado el momento.
 
-**¿CRM y base de datos son lo mismo?**
-CRM es un software de gestión especializado que utiliza tecnología de bases de datos; Entonces, la base de datos es la base, CRM es una herramienta comercial construida sobre ella.
+**¿Son lo mismo el CRM y una base de datos?**
+No. La base de datos es la base, el CRM es la herramienta de trabajo construida sobre ella.
+
+**¿Es necesario para una pequeña empresa?**
+Sí, con planes gratuitos y sencillos. El orden establecido cuando hay pocos clientes vale oro durante el crecimiento.
+
+**¿Existe un CRM de código abierto?**
+Sí, existen opciones como SuiteCRM y Odoo. El costo de alojamiento y mantenimiento corre por tu cuenta.
 
 
 ## Términos relacionados

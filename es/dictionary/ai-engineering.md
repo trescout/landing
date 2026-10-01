@@ -1,25 +1,34 @@
 # ¿Qué es AI Engineering?
 
-Es el proceso de diseñar modelos de inteligencia artificial y transformarlos en sistemas que funcionen en el mundo real.
+AI engineering (ingeniería de inteligencia artificial) es la disciplina de transformar modelos en sistemas fiables que funcionan en producción.
 
-## Definición
-La ingeniería de inteligencia artificial se ocupa no sólo de cómo entrenar un modelo, sino también de cómo utilizar ese modelo en una aplicación. Toma el modelo, le proporciona datos, corrige sus errores y lo conecta a una interfaz que la gente puede usar. Es el puente que transforma la inteligencia artificial teórica en un producto práctico.
+## Definición y origen de la palabra
+El científico de datos extrae significado de los datos, el ingeniero de inteligencia artificial construye el sistema que procesa dicho significado. Toma el modelo, lo alimenta con datos, lo conecta a la interfaz y lo supervisa en producción. Es el puente que convierte el modelo teórico en un producto práctico. MLOps y LLMOps son los nombres operativos de esta disciplina.
 
-## Cómo funciona
-Los ingenieros crean canales de datos, optimizan modelos y administran la infraestructura que mantiene el sistema en funcionamiento. También toman medidas de seguridad para garantizar que el modelo no dé respuestas incorrectas.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Asistente de empresa: Un bot que responde a los documentos de la organización.Recomendación: Clasificación de productos y contenidos personalizados para usted.Sistema autónomo: Líneas de soporte a decisiones y automatización.
 
-## Dónde se usa
-Trabajan en empresas de software, procesos de desarrollo de vehículos autónomos e instituciones que realizan análisis de big data.
+## Profundidad técnica y arquitectura
+Partes de la línea de producción:
 
-## Suele confundirse con
-Se confunde con la ciencia de datos; El científico de datos extrae significado de los datos y el ingeniero de inteligencia artificial construye un sistema que procesa este significado.
+## Cosas frecuentemente mezcladas
+Se confunde con la ciencia de datos. El científico de datos extrae significado de los datos, el ingeniero de inteligencia artificial construye el sistema que procesa ese significado. Uno es análisis, el otro es producción.
+
+## Uso en diferentes disciplinas
+Medicina: El laboratorio que descubre la fórmula y la fábrica que produce en serie.Construcción: El arquitecto que dibuja el proyecto y el ingeniero que dirige la obra.Cocina: El chef que escribe la receta y la operación que la extiende a la cadena.
 
 ## Preguntas frecuentes
 **¿Es necesario saber código para convertirse en ingeniero de IA?**
-Sí, una base de software sólida es esencial para crear sistemas y gestionar modelos.
+Sí. Se necesita una base de software sólida para configurar el sistema, conectar modelos y realizar el seguimiento.
 
 **¿La ingeniería de IA es solo modelos de entrenamiento?**
-No, poner en funcionamiento el modelo, monitorearlo y actualizarlo también es una gran parte de este trabajo.
+No. El despliegue, la monitorización y la actualización son gran parte del trabajo. El entrenamiento es solo el principio.
+
+**¿Cuál es la diferencia con MLOps?**
+MLOps es una práctica operativa e AI engineering es el nombre de la disciplina. Ambos son los dos extremos de una misma línea.
+
+**¿Por dónde empezar?**
+Construyendo una pequeña aplicación RAG con una API y escribiendo un conjunto de evaluación. El que aprende a medir, escala.
 
 
 ## Términos relacionados

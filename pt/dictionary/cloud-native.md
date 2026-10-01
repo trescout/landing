@@ -1,19 +1,31 @@
 # O que é Cloud Native?
 
-É uma abordagem para projetar e gerenciar aplicativos para serem executados com a mais alta eficiência no ambiente de nuvem.
+Cloud native (em português, nativo da nuvem), é uma abordagem de design de aplicações que aproveita ao máximo a flexibilidade e escalabilidade da nuvem.
 
-## Definição
-Essa abordagem não consiste apenas em enviar um software para a nuvem, mas em construí-lo usando os recursos de flexibilidade, escalabilidade e durabilidade oferecidos pela nuvem. A aplicação é dividida em partes para se adaptar à estrutura dinâmica da nuvem.
+## Definição e origem da palavra
+O conceito é englobado pelo guarda-chuva da CNCF (Cloud Native Computing Foundation). A distinção crítica aqui é a seguinte: carregar um software para a nuvem não o torna cloud native. Cloud native significa que a aplicação é construída desde o início de acordo com a estrutura dinâmica da nuvem, em partes pequenas e independentes.
 
-## Como funciona
-Os aplicativos são colocados em contêineres e gerenciados com ferramentas de gerenciamento automático. Assim, quando o tráfego aumenta, a aplicação pode aumentar a sua capacidade por conta própria.
+## Como conhecer e usar no dia a dia?
+Dias de pico: Aumento automático da capacidade quando o tráfego do dia da campanha se multiplica.Momento de falha: Transferência silenciosa do trabalho para outra cópia quando um servidor falha.Atualização: Renovação do aplicativo peça por peça enquanto ele está em execução, e não quando está desligado.
 
-## Onde é usado
-É usado em serviços web modernos, aplicativos de grande escala e arquiteturas de microsserviços.
+## Profundidade Técnica e Arquitetura
+Componentes da pilha nativa da nuvem:
 
-## Perguntas frequentes
-**Por que isso é importante?**
-Pois garante que o aplicativo sempre sobreviva e cresça rapidamente.
+## Use em diferentes disciplinas
+Estrutura pré-fabricada: Uma casa modular à qual se podem adicionar divisões conforme a necessidade.Rede elétrica: Centrais que entram em funcionamento a pedido.Logística: Linhas de distribuição que abrem e fecham conforme a densidade.
+
+## Perguntas Frequentes
+**Mover a aplicação para a nuvem torna-a cloud native?**
+Não. Apenas transferir uma aplicação antiga sem alterações é apenas uma mudança de local. Para ser cloud native, a arquitetura deve ser dividida em pequenos componentes e ser adequada para gestão automatizada.
+
+**É necessário para um projeto pequeno?**
+Nem sempre. Para um blog que funciona confortavelmente num único servidor, esta configuração pode ser excessiva. Faz sentido se o tráfego for instável ou se a equipa estiver a crescer.
+
+**Aumenta o custo?**
+Há um custo de configuração e de aprendizagem. Em contrapartida, o tempo de inatividade e o custo de escalabilidade diminuem. Deve fazer as contas com base na sua carga de trabalho.
+
+**Por onde se deve começar?**
+Comece colocando a aplicação em um contêiner. Depois, adicione verificação de integridade (health check), registro de logs (logging) e implantação automatizada. A orquestração é a última etapa.
 
 
 ## Termos relacionados

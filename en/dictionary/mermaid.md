@@ -1,24 +1,34 @@
 # What is Mermaid?
 
-It is a tool that allows you to quickly create flowcharts and diagrams by writing code.
+Mermaid is an open-source JavaScript library that draws diagrams by writing text.
 
-## Overview
-Instead of dealing with complex drawing tools, it allows you to create diagrams with commands just like writing text. The code you write automatically turns into a stylish flowchart or chart.
+## Definition and Word Origin
+Instead of dragging boxes in a drawing tool, the schema is written in text, and the tool converts it into a visual. Since the text is versionable, it lives alongside the documentation and goes through review. It gets its name from the mermaid myth and has nothing to do with technicality.
 
-*Analogy: It is like an architect building a structure instantly by writing down its specifications instead of drawing it.*
+## How to Know and Use in Daily Life?
+Documentation: Architecture schema within the README.Planning: Calendar view with Gantt.Report: Flow and sequence diagrams.
 
-## How it works
-You open a special block inside Markdown files and define the diagram using Mermaid syntax; the tool visualizes it instantly.
+## Technical Depth and Architecture
+Main types:
 
-## Where it is used
-It is used in writing documentation, project planning, and technical reports.
+## Frequently Mixed Things
+They are thought to be drawing tools. However, Mermaid is text-based, it does not involve drag-and-drop. If drawing with visual precision is needed, a graphic editor is required.
 
-## Commonly confused with
-It is confused with traditional drawing tools; Mermaid is entirely text-based and does not require drag-and-drop.
+## Use in Different Disciplines
+Music: Transcription of sound through notation.Stenography: Writing speech using shortcuts.Mathematics: Describing a shape with formulas.
 
-## Frequently asked questions
-**What kind of diagrams can be drawn with Mermaid?**
-Flowcharts, sequence diagrams, Gantt charts, and many other technical drawings can be created.
+## Frequently Asked Questions
+**What kind of charts can be drawn with Mermaid?**
+Technical diagrams such as flowcharts, sequence diagrams, Gantt charts, pie charts, ER diagrams, and mind maps can be drawn.
+
+**Does GitHub support it?**
+Yes. Mermaid blocks within Markdown are rendered directly.
+
+**Is it free?**
+The core library is open source and free. Hosted editors may have paid tiers.
+
+**When does it fall short?**
+When pixel precision and freehand drawing are required. That is the job of a graphic editor.
 
 
 ## Related terms
@@ -28,6 +38,7 @@ Flowcharts, sequence diagrams, Gantt charts, and many other technical drawings c
 
 ## Related tools
 - [TencentDB-Agent-Memory](/en/discover/tencentdb-agent-memory/)
+- [Gitdiagram](/en/discover/gitdiagram/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mermaid/

@@ -1,22 +1,34 @@
 # O que é Introduction to Autonomous Robots?
 
-É o princípio básico de funcionamento das máquinas que podem tomar suas próprias decisões e se movimentar sem receber comandos externos constantes.
+Os robôs autônomos são máquinas que se movem em seu ambiente sem receber comandos contínuos.
 
-## Definição
-Este campo baseia-se em robôs que percebem o seu entorno (sensores), processam esses dados (inteligência artificial) e executam uma ação (motores). Garante que o robô não apenas siga o caminho programado, mas também alcance o alvo superando obstáculos.
+## Definição e origem da palavra
+"Autônomo" significa autônomo. A tríplice ordem: Percepção (sensor), processamento (inteligência artificial) e ação (motor). O robô não decora o caminho, ele contorna o obstáculo e chega ao objetivo.
 
-## Como funciona
-Os robôs são equipados com câmeras e sensores. Os dados recebidos são processados ​​com modelos de inteligência artificial e é decidido o que o robô fará.
+## Como conhecer e usar no dia a dia?
+Armazém: Transporte entre prateleiras.Fábrica: Linha de montagem.Veículo: Sistemas de assistência ao motorista.
 
-## Onde é usado
-É utilizado em armazéns, fábricas e veículos autônomos.
+## Profundidade Técnica e Arquitetura
+Ciclo:
 
-## Costuma ser confundido com
-Pode ser confundido com robôs controlados remotamente; eles estão completamente sob controle humano.
+## Coisas frequentemente misturadas
+Pensa-se que é um robô controlado remotamente. Ele está totalmente nas mãos do homem, cara a cara com este objetivo. Um é um fantoche, o outro é um aprendiz.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Carro de brinquedo: Modelo que encontra o próprio caminho.Elevador: Seleção de andar de acordo com o botão.Piloto automático: Sistema que mantém a rota.
+
+## Perguntas Frequentes
 **Como eles aprendem?**
-Geralmente analisando constantemente os dados ao seu redor e por tentativa e erro.
+Por meio de análise de dados e tentativa e erro. Os ensaios são feitos em simulação e os ajustes finos, no campo.
+
+**É seguro?**
+Sim, dentro do limite para o qual foi projetado. A parada de erro e a intervenção humana são obrigatórias.
+
+**Onde é usado?**
+Em armazéns, fábricas e estradas. Ele se destaca em tarefas repetitivas e perigosas.
+
+**Quando será amplamente adotado?**
+O custo e a regulamentação determinam isso. Espaços fechados vêm primeiro, estradas abertas vêm depois.
 
 
 ## Termos relacionados

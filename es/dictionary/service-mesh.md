@@ -1,19 +1,31 @@
 # ¿Qué es Service Mesh?
 
-Es una capa de infraestructura que permite que diferentes servicios se comuniquen entre sí de forma segura y regular en sistemas de software complejos.
+Service mesh es la capa de infraestructura invisible que gestiona el tráfico de los microservicios.
 
-## Definición
-En un sistema que consta de cientos de partes pequeñas, es difícil que estas partes se encuentren entre sí y hablen de forma segura. Service mesh es una red invisible que gestiona esta comunicación, regula el tráfico y funciona como un firewall.
+## Definición y origen de la palabra
+En sistemas fragmentados con cientos de piezas, es difícil que se encuentren entre sí y se comuniquen de forma segura. El service mesh gestiona la comunicación, regula el tráfico y garantiza la seguridad. Aplica políticas de red sin tocar el código.
 
-## Cómo funciona
-Se coloca una pequeña utilidad al lado de su aplicación. Toda la comunicación pasa a través de esta herramienta, por lo que puedes gestionar el tráfico sin cambiar tu código principal.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Nube: Grandes aplicaciones basadas en microservicios.Banco: Tráfico de servicios con seguridad estricta.Comercio electrónico: Línea de pedidos bajo carga de campañas.
 
-## Dónde se usa
-Se utiliza en aplicaciones en la nube a gran escala con arquitectura de microservicios.
+## Profundidad técnica y arquitectura
+Regiones:
+
+## Uso en diferentes disciplinas
+Aeropuerto: La torre que evita que los aviones colisionen.Tráfico: La red de señales que regula el flujo.Correo: El centro de distribución que separa el envío.
 
 ## Preguntas frecuentes
 **¿Es necesario para cada proyecto?**
-No, sólo es necesario para gestionar la complejidad en sistemas grandes con muchas partes.
+No. Aporta carga en un sistema con pocos servicios. Cobra sentido cuando la complejidad aumenta.
+
+**¿Cuánto cuesta?**
+Añade memoria y latencia por proxy. Se paga a cambio de una mayor observabilidad.
+
+**¿Es Kubernetes obligatorio?**
+No, pero a menudo se usan juntos. También hay versiones que se ejecutan en máquinas virtuales.
+
+**¿Reemplaza al API gateway?**
+No. El gateway es la puerta exterior, el mesh es el tráfico interno. Ambos trabajan juntos.
 
 
 ## Términos relacionados

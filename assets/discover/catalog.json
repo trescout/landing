@@ -546,14 +546,14 @@
     "slug": "twenty",
     "title": "Twenty",
     "tagline": "Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.",
-    "meta": "★ 57.699 · Lisans: özel",
+    "meta": "★ 57.768 · Lisans: özel",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Geliştirici aracı"
     ],
-    "stars": 57699,
+    "stars": 57768,
     "image": "/assets/discover/og/twenty.webp",
     "headline": "Modern ve Açık Kaynaklı CRM",
     "last_review": "2026-10-01",
@@ -641,6 +641,13 @@
         "onceki_yildiz": 57541,
         "surum": "twenty/v2.43.0",
         "surum_tarihi": "2026-09-28"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 57768,
+        "onceki_yildiz": 57699,
+        "surum": "twenty/v2.44.0",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "An open source, AI-driven and modern alternative to Salesforce.",
@@ -3933,7 +3940,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 33.892",
+    "meta": "★ 33.907",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -3941,7 +3948,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 33892,
+    "stars": 33907,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-10-01",
@@ -4245,6 +4252,13 @@
         "yildiz": 33892,
         "onceki_yildiz": 33779,
         "surum": "v18.4.6",
+        "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 33907,
+        "onceki_yildiz": 33892,
+        "surum": "v18.4.8",
         "surum_tarihi": "2026-10-01"
       }
     ],
@@ -4671,7 +4685,7 @@
     "slug": "opendataloader-pdf",
     "title": "Opendataloader PDF",
     "tagline": "OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser).",
-    "meta": "★ 29.384 · Java",
+    "meta": "★ 29.447 · Java",
     "image": "/assets/discover/og/opendataloader-pdf.webp",
     "source": "GitHub",
     "date": "2026-06-04",
@@ -4679,7 +4693,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 29384,
+    "stars": 29447,
     "lite": false,
     "headline": "PDF verilerini yapay zekâya hazırlayın",
     "last_review": "2026-10-01",
@@ -4760,6 +4774,13 @@
         "onceki_yildiz": 29312,
         "surum": "v2.5.11",
         "surum_tarihi": "2026-09-22"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 29447,
+        "onceki_yildiz": 29384,
+        "surum": "v2.5.12",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "OpenDataLoader PDF is an open source PDF parser (PDF parser) that makes data available for artificial intelligence models.",
@@ -5504,7 +5525,7 @@
     "slug": "copilotkit",
     "title": "CopilotKit",
     "tagline": "CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz…",
-    "meta": "★ 37.632 · TypeScript",
+    "meta": "★ 37.637 · TypeScript",
     "image": "/assets/discover/og/copilotkit.webp",
     "source": "GitHub",
     "date": "2026-06-06",
@@ -5512,7 +5533,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37632,
+    "stars": 37637,
     "lite": false,
     "headline": "Uygulamalarınız İçin yapay zekâ Arayüzleri",
     "last_review": "2026-10-01",
@@ -5698,6 +5719,13 @@
         "onceki_yildiz": 37606,
         "surum": "v1.75.2",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 37637,
+        "onceki_yildiz": 37632,
+        "surum": "v1.76.0",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "CopilotKit is a React and Angular-based frontend for developing artificial intelligence agents and generative UIs.",
@@ -12634,7 +12662,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 54.828 · TypeScript",
+    "meta": "★ 54.919 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -12642,7 +12670,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 54828,
+    "stars": 54919,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-01",
@@ -12960,6 +12988,13 @@
         "yildiz": 54828,
         "onceki_yildiz": 54381,
         "surum": "v0.8.101",
+        "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 54919,
+        "onceki_yildiz": 54828,
+        "surum": "v0.8.103",
         "surum_tarihi": "2026-10-01"
       }
     ],
@@ -14461,7 +14496,7 @@
     "slug": "open-generative-ai",
     "title": "Open-Generative-AI",
     "tagline": "Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran…",
-    "meta": "★ 28.085 · JavaScript",
+    "meta": "★ 29.494 · JavaScript",
     "image": "/assets/discover/og/open-generative-ai.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -14469,7 +14504,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28085,
+    "stars": 29494,
     "lite": false,
     "headline": "Kısıtlamasız yapay zekâ görsel ve video stüdyosu",
     "last_review": "2026-10-01",
@@ -14492,6 +14527,13 @@
         "tarih": "2026-09-08",
         "yildiz": 28085,
         "onceki_yildiz": 26697,
+        "surum": "v2.0.0",
+        "surum_tarihi": "2026-05-23"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 29494,
+        "onceki_yildiz": 28085,
         "surum": "v2.0.0",
         "surum_tarihi": "2026-05-23"
       }
@@ -14844,14 +14886,14 @@
     "slug": "keycloak",
     "title": "Keycloak",
     "tagline": "Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve erişim yönetimi (identity and access management)…",
-    "meta": "★ 37.077 · Java",
+    "meta": "★ 37.079 · Java",
     "image": "/assets/discover/og/keycloak.webp",
     "source": "GitHub",
     "date": "2026-06-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 37077,
+    "stars": 37079,
     "lite": false,
     "headline": "Uygulamalarınız için merkezi kimlik yönetimi",
     "last_review": "2026-10-01",
@@ -14897,6 +14939,13 @@
         "onceki_yildiz": 36819,
         "surum": "26.7.5",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 37079,
+        "onceki_yildiz": 37077,
+        "surum": "26.8.0",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Keycloak is an open source identity and access management solution for modern applications and services.",
@@ -23139,7 +23188,7 @@
     "slug": "text-to-cad",
     "title": "Text to Cad",
     "tagline": "Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için…",
-    "meta": "★ 16.479 · JavaScript",
+    "meta": "★ 16.516 · JavaScript",
     "image": "/assets/discover/og/text-to-cad.webp",
     "source": "GitHub",
     "date": "2026-07-22",
@@ -23147,7 +23196,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 16479,
+    "stars": 16516,
     "lite": false,
     "headline": "Yapay zekâ ile otomatik tasarım",
     "last_review": "2026-10-01",
@@ -23291,6 +23340,13 @@
         "onceki_yildiz": 16467,
         "surum": "v0.7.4",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 16516,
+        "onceki_yildiz": 16479,
+        "surum": "v0.7.5",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Text-to-CAD tools are used to automate robotics and hardware design processes.",
@@ -27855,7 +27911,7 @@
     "slug": "computer",
     "title": "Computer",
     "tagline": "Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği…",
-    "meta": "★ 9.221 · TypeScript",
+    "meta": "★ 9.339 · TypeScript",
     "image": "/assets/discover/og/computer.webp",
     "source": "GitHub",
     "date": "2026-08-06",
@@ -27863,7 +27919,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9221,
+    "stars": 9339,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına bilgisayar kontrolü",
     "last_review": "2026-10-01",
@@ -27911,6 +27967,13 @@
         "onceki_yildiz": 9162,
         "surum": "@cloudflare/computer@0.3.1",
         "surum_tarihi": "2026-09-18"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 9339,
+        "onceki_yildiz": 9221,
+        "surum": "@cloudflare/computer@0.3.2",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_fr": "Développé par Cloudflare, Computer donne aux agents d'intelligence artificielle la possibilité de contrôler un ordinateur local ou distant.",
@@ -31441,7 +31504,7 @@
     "slug": "ai-memory",
     "title": "AI Memory",
     "tagline": "Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor.",
-    "meta": "★ 8.679 · Rust",
+    "meta": "★ 8.683 · Rust",
     "image": "/assets/discover/og/ai-memory.webp",
     "source": "GitHub",
     "date": "2026-08-18",
@@ -31449,7 +31512,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8679,
+    "stars": 8683,
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanlarına kalıcı hafıza",
     "needs_enrichment": true,
@@ -31614,6 +31677,13 @@
         "onceki_yildiz": 8638,
         "surum": "v2.5.0",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 8683,
+        "onceki_yildiz": 8679,
+        "surum": "v2.5.2",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "last_seen": "2026-09-22"
@@ -33218,7 +33288,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve AI ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 206.332",
+    "meta": "★ 206.409",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -33226,7 +33296,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 206332,
+    "stars": 206409,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel İş Akışları ve AI Otomasyonu",
     "lite": false,
@@ -33526,6 +33596,13 @@
         "onceki_yildiz": 206248,
         "surum": "n8n@2.41.4",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 206409,
+        "onceki_yildiz": 206332,
+        "surum": "n8n@2.41.5",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "last_review": "2026-10-01",
@@ -39532,7 +39609,7 @@
     "slug": "codex-x",
     "title": "Codex-X",
     "tagline": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı…",
-    "meta": "★ 3.999",
+    "meta": "★ 4.006",
     "image": "/assets/discover/og/codex-x.webp",
     "source": "GitHub",
     "date": "2026-09-20",
@@ -39540,7 +39617,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3999,
+    "stars": 4006,
     "summary": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.",
     "lite": false,
     "headline": "Yapay zekâ model ayarlarını tek ekrandan yönetin",
@@ -39559,6 +39636,13 @@
         "onceki_yildiz": 3958,
         "surum": "v0.3.22",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 4006,
+        "onceki_yildiz": 3999,
+        "surum": "v0.3.24",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Codex-X is a visual desktop and command line tool written in Rust, developed to manage OpenAI Codex models...",
@@ -39943,7 +40027,7 @@
     "slug": "hindsight",
     "title": "Hindsight",
     "tagline": "Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor.",
-    "meta": "★ 41.939",
+    "meta": "★ 44.051",
     "image": "/assets/discover/og/hindsight.webp",
     "source": "GitHub",
     "date": "2026-09-25",
@@ -39951,7 +40035,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41939,
+    "stars": 44051,
     "summary": "Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor. Geçmiş etkileşimlerden çıkarım yaparak ajanların karar alma süreçlerini iyileştiren bu açık kaynaklı kütüphane, sistemlerin zamanla daha tutarlı sonuçlar üretmesini sağlıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için akıllı bellek katmanı",
@@ -39979,6 +40063,13 @@
         "tarih": "2026-09-29",
         "yildiz": 41939,
         "onceki_yildiz": 39425,
+        "surum": "v0.10.2",
+        "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 44051,
+        "onceki_yildiz": 41939,
         "surum": "v0.10.2",
         "surum_tarihi": "2026-09-29"
       }

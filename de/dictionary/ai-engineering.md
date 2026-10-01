@@ -1,25 +1,34 @@
 # Was ist AI Engineering?
 
-Dabei handelt es sich um den Prozess, Modelle der künstlichen Intelligenz zu entwerfen und sie in Systeme umzuwandeln, die in der realen Welt funktionieren.
+AI Engineering (auf Deutsch KI-Engineering) ist die Disziplin, Modelle in zuverlässige, im Live-Betrieb arbeitende Systeme zu überführen.
 
-## Definition
-Bei der künstlichen Intelligenz geht es nicht nur darum, ein Modell zu trainieren, sondern auch darum, wie dieses Modell in einer Anwendung verwendet wird. Es nimmt das Modell, füttert es mit Daten, behebt seine Fehler und fügt es in eine Schnittstelle ein, die von Menschen verwendet werden kann. Es ist die Brücke, die theoretische künstliche Intelligenz in ein praktisches Produkt verwandelt.
+## Definition und Wortherkunft
+Ein Data Scientist gewinnt Erkenntnisse aus Daten, ein KI-Ingenieur baut das System, das diese Erkenntnisse verarbeitet. Er nimmt das Modell, speist es mit Daten, verbindet es mit der Schnittstelle und überwacht es im Live-Betrieb. Er ist die Brücke, die das theoretische Modell in ein praktisches Produkt verwandelt. MLOps und LLMOps sind die operativen Bezeichnungen dieser Disziplin.
 
-## So funktioniert es
-Ingenieure bauen Datenpipelines auf, optimieren Modelle und verwalten die Infrastruktur, die das System am Laufen hält. Sie ergreifen außerdem Sicherheitsmaßnahmen, um sicherzustellen, dass das Modell keine falschen Antworten gibt.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Unternehmensassistent: Ein Bot, der Fragen zu Unternehmensdokumenten beantwortet.Empfehlung: Personalisierte Produkt- und Inhalts-Rankings für Sie.Autonomes System: Entscheidungsunterstützungs- und Automatisierungslinien.
 
-## Wo es eingesetzt wird
-Sie arbeiten in Softwareunternehmen, autonomen Fahrzeugentwicklungsprozessen und Institutionen, die Big-Data-Analysen durchführen.
+## Technische Tiefe und Architektur
+Teile der Produktionslinie:
 
-## Häufig verwechselt mit
-Es wird mit Datenwissenschaft verwechselt; Der Datenwissenschaftler extrahiert die Bedeutung aus den Daten, und der Ingenieur für künstliche Intelligenz baut ein System auf, das diese Bedeutung verarbeitet.
+## Häufig gemischte Dinge
+Wird mit Data Science verwechselt. Ein Data Scientist gewinnt Erkenntnisse aus Daten, ein KI-Ingenieur baut das System, das diese Erkenntnisse verarbeitet. Das eine ist Analyse, das andere Produktion.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Medikament: Das Labor, das die Formel findet, und die Fabrik, die sie in Serie produziert.Bauwesen: Der Architekt, der das Projekt entwirft, und der Ingenieur, der die Baustelle leitet.Küche: Der Küchenchef, der das Rezept schreibt, und der Betrieb, der es in der Kette verbreitet.
+
+## Häufig gestellte Fragen
 **Ist es notwendig, Code zu kennen, um KI-Ingenieur zu werden?**
-Ja, eine solide Softwarebasis ist für den Aufbau von Systemen und die Verwaltung von Modellen unerlässlich.
+Ja. Um Systeme aufzubauen, Modelle zu integrieren und zu überwachen, ist eine solide Softwaregrundlage erforderlich.
 
 **Ist KI-Engineering nur das Trainieren von Modellen?**
-Nein, das Modell live zu bringen, zu überwachen und zu aktualisieren ist ebenfalls ein großer Teil dieser Arbeit.
+Nein. Bereitstellung, Überwachung und Aktualisierung sind wesentliche Bestandteile der Arbeit. Das Training ist nur der Anfang.
+
+**Was ist der Unterschied zu MLOps?**
+MLOps ist die Betriebspraxis, AI Engineering ist der Name der Disziplin. Beide sind zwei Enden derselben Linie.
+
+**Wo sollte man anfangen?**
+Mit dem Aufbau einer kleinen RAG-Anwendung über eine API und dem Schreiben eines Eval-Sets. Wer das Messen lernt, lässt es wachsen.
 
 
 ## Verwandte Begriffe

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is Container? · Dictionary · TreScout</title>
-<meta name="description" content="It is a portable box that contains everything required for a software to run and ensures that it works the same on every computer.">
+<meta name="description" content="A container packages an application with its code and dependencies into a single unit, ensuring it runs identically in any environment.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/container/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/container/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/container/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/container.md">
 <meta property="og:title" content="What is Container?">
-<meta property="og:description" content="It is a portable box that contains everything required for a software to run and ensures that it works the same on every computer.">
+<meta property="og:description" content="A container packages an application with its code and dependencies into a single unit, ensuring it runs identically in any environment.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/container/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="What is Container?">
-<meta name="twitter:description" content="It is a portable box that contains everything required for a software to run and ensures that it works the same on every computer.">
+<meta name="twitter:description" content="A container packages an application with its code and dependencies into a single unit, ensuring it runs identically in any environment.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Container",
-  "description": "It is a portable box that contains everything required for a software to run and ensures that it works the same on every computer.",
+  "description": "A container packages an application with its code and dependencies into a single unit, ensuring it runs identically in any environment.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/container/",
   "inDefinedTermSet": {
@@ -55,17 +55,22 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-08-20">Last updated: August 20, 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-22">Last updated: September 22, 2026</time></div>
 <h1 class="disc-title">What is <span class="disc-accent">Container</span>?</h1>
-<p class="disc-lead">It is a portable box that contains everything required for a software to run and ensures that it works the same on every computer.</p>
-<section class="disc-sec"><h2>Overview</h2><p>Containers bundle an application&#39;s code, libraries, and settings into a single package. In this way, your software works the same way on the server or someone else&#39;s computer as it does on your computer. So, it completely eliminates the &#39;it was working on my computer&#39; problem.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> Think of a kitchen; You put all the ingredients, spices and tools needed for each meal in a single box and take it wherever you want. No matter where you open it, you can cook the same food with the same taste.</div>
-<section class="disc-sec"><h2>How it works</h2><p>Using tools like Docker, developers package everything the application needs into a &#39;container image&#39;. This package runs in an isolated area, independent of the operating system. This way, there will be no conflict with other applications in the system.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It is used in cloud computing, software distribution, and managing complex applications. It is especially standard in projects where large teams need to work in harmony with each other.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>It is often confused with virtual machines; but containers are much lighter and faster because they share the operating system.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why is the container so popular?</p><p class="dict-faq-a">Because it guarantees that the software works with the same stability in every environment and reduces the installation process from minutes to seconds.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between a container and a virtual machine?</p><p class="dict-faq-a">Virtual machines carry their own operating systems, while containers share the kernel of the host operating system; so containers are much faster.</p></div></div></section>
+<p class="disc-lead">A container packages an application with its code and dependencies into a single unit, ensuring it runs identically in any environment.</p>
+<section class="disc-sec"><h2>Definition and Word Origin</h2><p>Containers bundle the application&#39;s code, libraries, and settings into a single package. It runs on the server just like it does on your computer. The idea is old (chroot, LXC), became widespread with Docker after 2013, and is defined today by the OCI standard.</p></section>
+<div class="dict-analogy"><strong>Analogy:</strong> It is like putting all the necessary ingredients, spices, and tools for a meal into a single box and taking it wherever you want; no matter where you open it, you cook the same meal.</div>
+<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p><strong>Distribution:</strong> The same package from developer to production.<br><strong>Microservice:</strong> Each service in its own box.<br><strong>CI:</strong> Running each test in a clean box.</p></section>
+<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Concepts:</p><p><strong>Image:</strong> Read-only template, consists of layers.<br><strong>Container:</strong> A running instance of the image.<br><strong>Dockerfile:</strong> The recipe for the template.<br><strong>Registry:</strong> The repository where images are stored.</p><p>A simple description:</p><pre><code>FROM python:3.12-slim
+COPY . /uygulama
+WORKDIR /uygulama
+CMD ["python", "app.py"]</code></pre><p>Building and running:</p><pre><code>docker build -t ornek:1.0 .
+docker run -p 8000:8000 ornek:1.0</code></pre><p>Virtual machine difference: A machine carries its own operating system, while a container shares the host kernel. Therefore, containers are lighter and start faster.</p></section>
+<section class="disc-sec"><h2>Frequently Mixed Things</h2><p>Mistaken for a virtual machine. A machine carries a full operating system, while a container carries only the application. Isolation is strong in a machine and sufficient in a container; the choice depends on the workload.</p></section>
+<section class="disc-sec"><h2>Use in Different Disciplines</h2><p><strong>Shipping:</strong> Compatibility with ships, trains, and trucks using standard-sized containers.<br><strong>Kitchen:</strong> A ready-to-eat meal box with its ingredients inside.<br><strong>Camping:</strong> A camp set carried with its organization in a bag.</p></section>
+<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why is the container so popular?</p><p class="dict-faq-a">Because it ensures the same operation and fast setup in any environment. It has become a standard along with microservices and cloud orchestration.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between a container and a virtual machine?</p><p class="dict-faq-a">A machine carries its own operating system, while a container shares the host kernel. Containers are lightweight and fast, whereas machines are strong in isolation.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Are containers secure?</p><p class="dict-faq-a">Since the kernel is shared, they are not as isolated as a machine. You need to pull images from trusted sources and keep them up to date.</p></div><div class="dict-faq-item"><p class="dict-faq-q">When are virtual machines preferred?</p><p class="dict-faq-a">When a different operating system or strong isolation is required. For most other workloads, a container is sufficient.</p></div></div></section>
 <section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/containers/">Containers</a><a href="/en/dictionary/virtual-machines/">Virtual Machines</a><a href="/en/dictionary/deployment/">Deployment</a></div></section>
-<section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/n8n/">N8n</a><a href="/en/discover/core/">Core</a><a href="/en/discover/stirling-pdf/">Stirling-PDF</a><a href="/en/discover/container/">Container</a><a href="/en/discover/mattermost/">Mattermost</a><a href="/en/discover/keycloak/">Keycloak</a><a href="/en/discover/ppf-contact-solver/">PPF Contact Solver</a></div></section>
+<section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/n8n/">N8n</a><a href="/en/discover/stirling-pdf/">Stirling-PDF</a><a href="/en/discover/core/">Core</a><a href="/en/discover/container/">Container</a><a href="/en/discover/mattermost/">Mattermost</a><a href="/en/discover/keycloak/">Keycloak</a><a href="/en/discover/trivy/">Trivy</a><a href="/en/discover/ppf-contact-solver/">PPF Contact Solver</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="container" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
 <p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/container/">Read in Turkish →</a></p>
 </article>

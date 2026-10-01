@@ -1,25 +1,34 @@
 # O que é AI Engineering?
 
-É o processo de projetar modelos de inteligência artificial e transformá-los em sistemas que funcionem no mundo real.
+A engenharia de IA (cuja tradução para o turco é yapay zekâ mühendisliği) é a disciplina de transformar modelos em sistemas confiáveis que funcionam em produção.
 
-## Definição
-A engenharia de inteligência artificial trata não apenas de como treinar um modelo, mas também de como usar esse modelo em uma aplicação. Ele pega o modelo, alimenta-o com dados, corrige seus erros e o conecta a uma interface que as pessoas podem usar. É a ponte que transforma a inteligência artificial teórica num produto prático.
+## Definição e origem da palavra
+O cientista de dados extrai significado dos dados, enquanto o engenheiro de IA constrói o sistema que processa esse significado. Ele pega o modelo, alimenta-o com dados, conecta-o à interface e o monitora em produção. É a ponte que transforma o modelo teórico em um produto prático. MLOps e LLMOps são os nomes operacionais dessa disciplina.
 
-## Como funciona
-Os engenheiros constroem pipelines de dados, otimizam modelos e gerenciam a infraestrutura que mantém o sistema funcionando. Eles também tomam medidas de segurança para garantir que o modelo não dê respostas erradas.
+## Como conhecer e usar no dia a dia?
+Assistente da empresa: Um bot que responde a documentos corporativos.Recomendação: Classificação de produtos e conteúdos personalizada para você.Sistema autônomo: Linhas de suporte à decisão e automação.
 
-## Onde é usado
-Eles atuam em empresas de software, processos de desenvolvimento de veículos autônomos e instituições que realizam análises de big data.
+## Profundidade Técnica e Arquitetura
+Partes da linha de produção:
 
-## Costuma ser confundido com
-É confundido com ciência de dados; O cientista de dados extrai significado dos dados e o engenheiro de inteligência artificial constrói um sistema que processa esse significado.
+## Coisas frequentemente misturadas
+É confundido com ciência de dados. O cientista de dados extrai significado dos dados, o engenheiro de IA constrói o sistema que processa esse significado. Um é análise, o outro é produção.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Remédio: O laboratório que desenvolve a fórmula e a fábrica que produz em série.Construção: O arquiteto que desenha o projeto e o engenheiro que gerencia o canteiro de obras.Culinária: O chef que escreve a receita e a operação que a expande para a rede.
+
+## Perguntas Frequentes
 **É necessário conhecer código para se tornar um engenheiro de IA?**
-Sim, uma base sólida de software é essencial para construir sistemas e gerenciar modelos.
+Sim. É necessária uma base de software sólida para configurar o sistema, conectar modelos e monitorar.
 
 **A engenharia de IA é apenas modelos de treinamento?**
-Não, colocar o modelo em funcionamento, monitorá-lo e atualizá-lo também é uma grande parte deste trabalho.
+Não. A implantação, o monitoramento e a atualização são a maior parte do trabalho. O treinamento é apenas o começo.
+
+**Qual é a diferença para o MLOps?**
+O MLOps é uma prática operacional, enquanto a engenharia de IA é o nome da disciplina. Os dois são as duas pontas da mesma linha.
+
+**Por onde começar?**
+Construindo uma pequena aplicação RAG com uma API e escrevendo um conjunto de avaliação. Quem aprende a medir, expande.
 
 
 ## Termos relacionados

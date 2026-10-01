@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Service Mesh? · Glossário · TreScout</title>
-<meta name="description" content="É uma camada de infraestrutura que permite que diferentes serviços se comuniquem entre si de forma segura e regular em sistemas de software complexos.">
+<meta name="description" content="Service mesh é a camada de infraestrutura invisível que gerencia o tráfego de microsserviços.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/service-mesh/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/service-mesh/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/service-mesh/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/service-mesh.md">
 <meta property="og:title" content="O que é Service Mesh?">
-<meta property="og:description" content="É uma camada de infraestrutura que permite que diferentes serviços se comuniquem entre si de forma segura e regular em sistemas de software complexos.">
+<meta property="og:description" content="Service mesh é a camada de infraestrutura invisível que gerencia o tráfego de microsserviços.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/service-mesh/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Service Mesh?">
-<meta name="twitter:description" content="É uma camada de infraestrutura que permite que diferentes serviços se comuniquem entre si de forma segura e regular em sistemas de software complexos.">
+<meta name="twitter:description" content="Service mesh é a camada de infraestrutura invisível que gerencia o tráfego de microsserviços.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Service Mesh",
-  "description": "É uma camada de infraestrutura que permite que diferentes serviços se comuniquem entre si de forma segura e regular em sistemas de software complexos.",
+  "description": "Service mesh é a camada de infraestrutura invisível que gerencia o tráfego de microsserviços.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/service-mesh/",
   "inDefinedTermSet": {
@@ -55,14 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-06-14">Última atualização: 14 de junho de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Service Mesh</span>?</h1>
-<p class="disc-lead">É uma camada de infraestrutura que permite que diferentes serviços se comuniquem entre si de forma segura e regular em sistemas de software complexos.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Em um sistema que consiste em centenas de peças pequenas, é difícil que essas partes se encontrem e se comuniquem com segurança. Service mesh é uma rede invisível que gerencia essa comunicação, regula o tráfego e funciona como um firewall.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como a torre que gerencia o tráfego aéreo de um grande aeroporto; Ele garante que as aeronaves (serviços) se movam com segurança, sem colidir umas com as outras.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Um pequeno utilitário é colocado próximo ao seu aplicativo. Toda a comunicação passa por esta ferramenta, para que você possa gerenciar o tráfego sem alterar seu código principal.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em aplicativos em nuvem de grande escala com arquitetura de microsserviços.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">É necessário para todos os projetos?</p><p class="dict-faq-a">Não, só é necessário para gerenciar a complexidade em grandes sistemas com muitas peças.</p></div></div></section>
+<p class="disc-lead">Service mesh é a camada de infraestrutura invisível que gerencia o tráfego de microsserviços.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>Em um sistema com centenas de partes, é difícil para elas se encontrarem e comunicarem com segurança. O service mesh gerencia a comunicação, organiza o tráfego e garante a segurança. Ele aplica políticas de rede sem tocar no código.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como a torre que gerencia o tráfego de voos em um grande aeroporto; garante que os serviços se movam com segurança sem colidir uns com os outros.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Nuvem:</strong> Grandes aplicações baseadas em microsserviços.<br><strong>Banco:</strong> Tráfego de serviços com segurança rigorosa.<br><strong>E-commerce:</strong> Linha de pedidos sob carga de campanhas.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Peças:</p><p><strong>Sidecar:</strong> O pequeno proxy ao lado de cada serviço, por onde o tráfego flui.<br><strong>Control plane:</strong> O cérebro que distribui as regras.<br><strong>Data plane:</strong> Os proxies que fazem o trabalho.<br><strong>mTLS:</strong> Identidade criptografada entre serviços.<br><strong>Resiliência:</strong> Nova tentativa e disjuntor.</p><p>Regra de nova tentativa:</p><pre><code>retries:
+  attempts: 3
+  perTryTimeout: 2s</code></pre><p>Istio e Linkerd são implementações conhecidas. Em um sistema pequeno, o custo supera o benefício.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Aeroporto:</strong> A torre que evita colisões de aviões.<br><strong>Tráfego:</strong> A rede de sinalização que regula o fluxo.<br><strong>Correio:</strong> O centro de distribuição que separa a remessa.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">É necessário para todos os projetos?</p><p class="dict-faq-a">Não. Em um sistema com poucos serviços, isso traz carga. Ganha sentido quando a complexidade aumenta.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quanto custa?</p><p class="dict-faq-a">Adiciona memória e latência por proxy. É pago em troca do ganho de observabilidade.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O Kubernetes é obrigatório?</p><p class="dict-faq-a">Não, mas geralmente são usados juntos. Existem versões que também executam em máquinas virtuais.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Substitui o API gateway?</p><p class="dict-faq-a">Não. O gateway é a porta de entrada externa, o mesh é o tráfego interno. Os dois trabalham juntos.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/cloud-native/">Cloud Native</a><a href="/pt/dictionary/api/">API</a><a href="/pt/dictionary/proxy/">Proxy</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/meshery/">Meshery</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="service-mesh" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>

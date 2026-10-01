@@ -1,22 +1,31 @@
 # Qu'est-ce que Backup Program ?
 
-C'est un logiciel qui évite la perte de vos données numériques en en faisant une copie.
+Un logiciel de sauvegarde (backup program en anglais) est un programme qui copie régulièrement les données.
 
-## Définition
-Les programmes de sauvegarde copient périodiquement les fichiers importants de votre ordinateur ou serveur vers un autre emplacement. Il vous permet de récupérer vos données dans des cas tels qu'une panne matérielle, une cyberattaque ou une suppression accidentelle. C’est la pierre angulaire d’une vie numérique sécurisée.
+## Définition et origine du mot
+Une sauvegarde (backup) signifie que les fichiers sont copiés à intervalles réguliers vers un autre emplacement. En cas de panne, d'attaque ou de suppression, il est possible de les restaurer. C'est le fondement d'une vie numérique sécurisée.
 
-## Comment ça marche
-Vous installez le programme, choisissez les dossiers et la fréquence à sauvegarder. Le logiciel s'exécute en arrière-plan et copie vos données aux heures que vous spécifiez.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Personnel : Sauvegarde de photos et de documents.Présentateur: Copie automatique de nuit.Cloud : Synchronisation de compte.
 
-## Où est-ce utilisé
-Il est utilisé dans les ordinateurs personnels, les serveurs d'entreprise et les systèmes de stockage cloud.
+## Profondeur technique et architecture
+Types :
 
-## Questions fréquentes
-**Pourquoi la sauvegarde est-elle importante ?**
-Dans le monde numérique, la perte de données constitue souvent une catastrophe irréversible.
+## Utilisation dans différentes disciplines
+Photocopie : Copie conservée dans un coffre-fort.Coffre-fort : Stockage de documents de valeur.Assurance : Garantie catastrophe.
 
-**Où dois-je acheter des pièces de rechange ?**
-Idéalement, les sauvegardes sont conservées dans un emplacement physiquement différent du périphérique d'origine (cloud ou disque externe).
+## Foire aux questions
+**Pourquoi est-ce important ?**
+Une perte est généralement irréversible. Une sauvegarde réduit le coût de l'erreur.
+
+**Où faut-il l'effectuer ?**
+Séparément de l'original : sur le cloud ou sur un disque externe. Le même disque ne compte pas comme une sauvegarde.
+
+**À quelle fréquence faut-il la faire ?**
+Selon la vitesse des modifications. Quotidiennement pour un travail quotidien, voire toutes les heures pour des données critiques.
+
+**Doit-elle être testée ?**
+Oui. Sans test de restauration, une sauvegarde n'inspire pas confiance.
 
 
 ## Termes liés

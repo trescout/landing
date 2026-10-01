@@ -1,25 +1,34 @@
 # O que é Agent Skills?
 
-Habilidades ou ferramentas especiais que os agentes de IA usam para executar tarefas específicas.
+As habilidades de agente (agent skills) são pacotes que reúnem as instruções, ferramentas e recursos necessários para que um agente execute uma tarefa específica de forma consistente.
 
-## Definição
-As capacidades do agente são funções especiais que permitem que uma IA interaja com o mundo. Com esses recursos, o agente pode pesquisar na Internet, ler um arquivo, executar código ou enviar um email. Quanto mais capacidades o agente tiver, mais tarefas complexas ele poderá realizar sozinho.
+## Definição e origem da palavra
+Uma habilidade (skill) diz ao agente qual trabalho realizar, quando e dentro de quais limites. Ela pode fornecer acesso a ferramentas como busca, leitura de arquivos ou execução de código; no entanto, nem toda habilidade é diretamente uma ferramenta. Uma habilidade bem projetada define claramente o contexto necessário e as etapas de validação.
 
-## Como funciona
-O agente analisa a tarefa que lhe foi atribuída e decide qual capacidade é necessária para resolver esta tarefa. Depois, ele aciona aquela habilidade, realiza a operação e avalia o resultado.
+## Como conhecer e usar no dia a dia?
+Plataforma: Bibliotecas de habilidades prontas.Automação: Tarefas agendadas.Desenvolvimento: Ferramentas de repositório e teste.
 
-## Onde é usado
-É usado em plataformas de agentes de IA, ferramentas de automação e processos de desenvolvimento de software.
+## Profundidade Técnica e Arquitetura
+O formato varia de acordo com a plataforma; uma definição simplificada de habilidade é a seguinte:
 
-## Costuma ser confundido com
-Não se trata da inteligência geral da IA, mas apenas da sua capacidade de realizar um trabalho específico.
+## Coisas frequentemente misturadas
+Pensa-se que é inteligência geral. No entanto, o que se pretende é a capacidade de realizar um trabalho específico. O modelo entende, a habilidade executa.
 
-## Perguntas frequentes
-**Estou adicionando habilidades de agente?**
-Sim, você costuma definir para os agentes quais ferramentas eles podem utilizar ou escolher entre bibliotecas prontas.
+## Use em diferentes disciplinas
+Canivete suíço: Conjunto de faca, chave de fenda e tesoura.Caixa de ferramentas: Chave selecionada de acordo com o trabalho.Loja de aplicativos: Programa baixado de acordo com a necessidade.
+
+## Perguntas Frequentes
+**Sou eu quem adiciona as habilidades?**
+Depende da plataforma. Em alguns ambientes, habilidades prontas são selecionadas; em outros, a equipe define seus próprios pacotes de habilidades.
 
 **A capacidade de cada agente é a mesma?**
-Não, seus recursos são customizados dependendo do uso pretendido do agente (por exemplo, um agente que apenas analisa dados).
+Não. É personalizado de acordo com o objetivo; o conjunto de um agente analista de dados é diferente de um agente programador.
+
+**É seguro?**
+A leitura é de baixo risco. Em operações de escrita e pagamento, a aprovação e o limite de escopo são obrigatórios.
+
+**Existe uma biblioteca pronta?**
+Sim. As plataformas empacotam habilidades comuns; para trabalhos específicos, você mesmo escreve.
 
 
 ## Termos relacionados

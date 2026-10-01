@@ -1,48 +1,29 @@
-# Apple Silicon Arquitectura SoC, memoria unificada y computación ARM
+# ¿Qué es Apple Silicon?
 
+Apple Silicon es una familia de procesadores SoC (System on a Chip) de alto rendimiento basados en ARM que Apple diseña internamente para sus dispositivos Mac y iPad, combinando CPU, GPU, Neural Engine y memoria unificada (Unified Memory) en una sola placa de silicio.
 
-**Categoría:** Dev  
+## Génesis conceptual, historia y la gran migración de x86 a ARM
+"Silicon" (silicio) es el elemento químico fundamental utilizado en la fabricación de microchips semiconductores. Apple Silicon, por su parte, representa el diseño de microprocesadores personalizados de Apple con el que pone fin a su dependencia de fabricantes de chips externos (Intel, Motorola, IBM) para integrar verticalmente su propio hardware y software.
 
-**Última actualización:** 2026-09-19
+## Sistema en un chip (SoC) y Arquitectura de Memoria Unificada (UMA)
+En una computadora de escritorio o portátil tradicional, el hardware está fragmentado: hay un zócalo de CPU separado en la placa base, una tarjeta gráfica externa dedicada (GPU) conectada a una ranura PCIe, módulos de RAM separados y puentes en la placa base. Para que la CPU muestre en pantalla una imagen que ha procesado, los datos deben copiarse desde la RAM a través del bus de la placa base hacia la propia VRAM de la GPU. Esto genera latencia y un alto consumo de energía.
 
-
-Apple Silicon es la familia de procesadores System on Chip (SoC) basados en arquitectura ARM diseñados por Apple para sus ordenadores Mac e iPad, integrando CPU, GPU, Neural Engine y memoria en una pastilla única.
-
-
-## Bases Conceptuales, Historia y Migración de x86 a ARM
-La palabra *silicon* (silicio) alude al elemento semiconductor sobre el que se graban los circuitos integrados. Apple Silicon representa la emancipación de Apple frente a suministradores de chips externos (Intel, Motorola, IBM) para controlar de extremo a extremo su hardware y software.
-
-Históricamente, la marca ha realizado tres transiciones técnicas trascendentales :
-- **1994:** De los procesadores Motorola 68000 a la arquitectura PowerPC RISC.- **2006:** De PowerPC a los procesadores x86 de Intel.- **2020:** Salida de Intel y lanzamiento de la **serie Apple Silicon M (M1, M2, M3, M4)**, aprovechando diez años de avances en microchips ARM para el iPhone.
-Este hito demostró que la arquitectura ARM RISC de 64 bits podía liderar el sector informático en potencia de cálculo y eficiencia térmica.
-
-## Sistema en Chip (SoC) y Arquitectura de Memoria Unificada (UMA)
-Los ordenadores de escritorio comunes recurren a componentes aislados en la placa base: zócalos de CPU, tarjetas gráficas dedicadas por ranuras PCIe y módulos de RAM independientes. La transferencia continua de datos por el bus del sistema satura canales y dispara el consumo de electricidad.
-
-Apple Silicon replantea esta estructura :
-- **SoC Compacto:** Los núcleos de CPU, las unidades de cómputo GPU, el acelerador neuronal (NPU) y el enclave de seguridad conviven en el mismo silicio.- **Memoria Unificada (UMA):** Chips LPDDR5X interconectados junto al procesador proporcionan acceso directo sin copias redundantes (Zero-Copy) con anchos de banda de hasta 800 GB/s.
-En el terreno de la inteligencia artificial, la memoria unificada permite a un ordenador Mac Studio utilizar más de 120 GB de memoria de forma íntegra como VRAM para ejecutar modelos LLM masivos de 70B parámetros mediante el paquete de código abierto MLX.
-
-## Anatomía de Núcleos, Aceleradores Específicos y Rosetta 2
-La excelente relación entre potencia y consumo se sostiene en tres innovaciones clave :
-- **Diseño Heterogéneo (big.LITTLE):** Núcleos de alto rendimiento (P-cores) procesan tareas exigentes de edición o programación, mientras que los núcleos eficientes (E-cores) gestionan los procesos de fondo consumiendo una cantidad mínima de batería.- **Aceleradores Hardware:** Bloques como el **Neural Engine** para operaciones de aprendizaje automático, el coprocesador **AMX** para cálculo matricial y el **Media Engine** para descodificar vídeo ProRes y AV1 por hardware.- **Traductor Binario Rosetta 2:** Las aplicaciones programadas para Intel x86_64 se traducen a código nativo ARM64 de forma anticipada (AOT), con soporte hardware para el modelo de memoria TSO de x86.
-
-## Por analogía
-Un ordenador convencional es como una compañía con departamentos repartidos en edificios distantes que intercambian informes mediante mensajeros; Apple Silicon sienta a todos los ingenieros y creativos ante una misma mesa redonda compartiendo una pizarra gigante.
+## Anatomía del núcleo, aceleradores y Rosetta 2
+El equilibrio de rendimiento puro y eficiencia de Apple Silicon se basa en tres componentes de ingeniería fundamentales:
 
 ## Preguntas frecuentes
+**¿Qué significa Apple Silicon y qué procesadores abarca?**
+Es la familia de procesadores System on a Chip (SoC) basados en ARM diseñados por Apple. Abarca los chips de la serie A en iPhones y iPads, y los procesadores de la serie M (M1, M2, M3, M4 y sus variantes) que alimentan a las computadoras Mac.
 
-**¿Qué es Apple Silicon y qué productos lo incorporan?**  
-Es la gama de procesadores ARM diseñados a medida por Apple que da soporte a las líneas MacBook, Mac mini, Mac Studio, Mac Pro e iPad Pro.
+**¿En qué se diferencia la Arquitectura de Memoria Unificada (UMA) de la RAM y la VRAM tradicionales?**
+En los sistemas tradicionales, la CPU tiene su propia memoria RAM del sistema y la tarjeta gráfica tiene su propia VRAM, y los datos se copian entre ambas. En la UMA, la memoria está directamente en el paquete del procesador; la CPU, la GPU y el motor de inteligencia artificial acceden al mismo grupo de memoria con un coste cero de latencia de copia.
 
-**¿En qué aventaja la Memoria Unificada a la RAM habitual?**  
-En que no divide la memoria entre CPU y tarjeta gráfica; todos los procesadores acceden al mismo espacio sin retardos por copia de datos.
+**¿Funcionan las aplicaciones antiguas de Intel en un Mac con procesador Apple Silicon?**
+Sí, gracias al motor de traducción Rosetta 2 integrado en el sistema operativo macOS, la gran mayoría de las aplicaciones escritas para Intel (x86_64) se ejecutan a alta velocidad sin que el usuario lo note.
 
-**¿Se pueden usar aplicaciones antiguas de Intel en los nuevos Mac?**  
-Sí, la herramienta Rosetta 2 integrada en macOS convierte el código de Intel a ARM de forma automática y con gran agilidad.
+**¿Por qué es tan popular Apple Silicon en el desarrollo de inteligencia artificial (LLM) local?**
+Porque gracias a la Arquitectura de Memoria Unificada, la GPU puede utilizar directamente enormes grupos de memoria como 64 GB, 96 GB o 128 GB como VRAM. Esto permite ejecutar localmente grandes modelos de lenguaje con más de 70B parámetros sin necesidad de costosas GPUs de servidor.
 
-**¿Por qué es idóneo Apple Silicon para desarrolladores de IA?**  
-Porque permite destinar enormes capacidades de memoria (hasta 192 GB) directamente al motor gráfico para ejecutar modelos LLM en local.
 
 ## Términos relacionados
 - [Runtime](/es/dictionary/runtime/)
@@ -52,5 +33,13 @@ Porque permite destinar enormes capacidades de memoria (hasta 192 GB) directamen
 - [Emulator](/es/dictionary/emulator/)
 - [Cloud Computing](/es/dictionary/cloud-computing/)
 
+## Herramientas relacionadas
+- [Minimind](/es/discover/minimind/)
+- [Container](/es/discover/container/)
+- [Airllm](/es/discover/airllm/)
+- [Omlx](/es/discover/omlx/)
+- [Palmier Pro](/es/discover/palmier-pro/)
+- [Openmed](/es/discover/openmed/)
+
 ---
-Fuente: Glosario técnico TreScout · https://trescout.com/es/dictionary/apple-silicon/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/apple-silicon/

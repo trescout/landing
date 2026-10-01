@@ -2,28 +2,41 @@
 
 > Android Debug Bridge
 
-C'est un pont qui vous permet d'envoyer des commandes aux appareils Android via votre ordinateur et d'effectuer des opérations telles que l'installation de logiciels ou la gestion de fichiers système.
+ADB (Android Debug Bridge), un outil permettant d'établir une communication de commande et de débogage entre un ordinateur et un appareil Android.
 
-## Définition
-Il crée un langage de communication entre votre appareil Android et votre ordinateur. Les développeurs utilisent cet outil pour déboguer l'appareil, installer des applications ou modifier les paramètres du système.
+## Définition et origine du mot
+Debug signifie débogage et bridge signifie pont. ADB assure la communication entre le client sur l'ordinateur et le démon adb sur l'appareil ; il est utilisé pour l'installation d'applications, la collecte de journaux, le débogage et la gestion limitée des appareils. Il fait partie du package Android SDK Platform-Tools.
 
-## Comment ça marche
-Vous installez le logiciel ADB sur votre ordinateur, connectez l'appareil via USB et gérez l'appareil en tapant certains codes sur la ligne de commande.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Développement: Installation d'applications et enregistrement.Test : Test sur plusieurs appareils.Personnalisation : Paramètre avancé.
 
-## Où est-ce utilisé
-Il est utilisé dans les processus de développement de logiciels et les personnalisations Android avancées.
+## Profondeur technique et architecture
+Disposition triple :
 
-## Souvent confondu avec
-Ce n'est pas seulement un outil de transfert de fichiers ; C'est un outil beaucoup plus puissant qui peut intervenir dans le système.
+## Choses fréquemment mélangées
+On le confond avec le transfert de fichiers. Celui-ci ne fait que copier, alors qu'ADB intervient dans le système. La différence d'autorisation est grande.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Câble : La ligne transportant le signal.Interprète: La langue des deux parties.Contrôle : Gestion à distance.
+
+## Foire aux questions
 **Tout le monde peut-il l'utiliser ?**
-Cela nécessite des connaissances techniques, des commandes incorrectes peuvent affecter le fonctionnement de l'appareil.
+Les commandes de base peuvent être apprises ; cependant, l'utilisation d'adb shell et les opérations de suppression nécessitent des connaissances techniques. Il est nécessaire de vérifier l'effet d'une commande avant de l'exécuter.
+
+**Est-ce que cela fonctionne sans fil ?**
+Oui. Sur les versions Android prises en charge, une connexion peut être établie via Wi-Fi après l'appairage avec l'appareil. La stabilité et la vitesse dépendent de la qualité du réseau local.
+
+**Est-ce sécuritaire?**
+Si vous avez l'appareil, oui. L'autorisation n'est pas accordée sur un appareil branché sur un ordinateur inconnu.
+
+**Quelle est la différence avec Fastboot ?**
+ADB communique avec le système d'exploitation pendant qu'Android est en cours d'exécution. Fastboot, quant à lui, est utilisé pour les images de partition ou les opérations de micrologiciel lorsque l'appareil est en mode bootloader ; les commandes prises en charge et le processus de déverrouillage varient selon l'appareil.
 
 
 ## Termes liés
 - [CLI](/fr/dictionary/cli/)
 - [SDK](/fr/dictionary/sdk/)
+- [Emulator](/fr/dictionary/emulator/)
 
 ## Outils liés
 - [Universal Android Debloater Next Generation](/fr/discover/universal-android-debloater-next-generation/)

@@ -2,23 +2,35 @@
 
 > E2E Testing
 
-Il s’agit de vérifier tout le fonctionnement d’une application du début à la fin, tout comme un véritable utilisateur.
+Les tests de bout en bout (E2E) consistent à tester l'application du début à la fin comme le ferait un utilisateur.
 
-## Définition
-Il teste le fonctionnement de l'application dans son ensemble, et non des parties individuelles du système. L'utilisateur entre dans l'application, clique sur un bouton, accède à la base de données et le résultat est renvoyé. Il est vérifié si l'ensemble du processus est exempt d'erreurs ou non.
+## Définition et origine du mot
+End-to-end signifie de bout en bout. On teste le tout et non les morceaux : on se connecte, on clique sur le bouton, les données partent, le résultat revient. C'est la porte de conformité pré-production.
 
-## Comment ça marche
-Les outils d'automatisation gèrent un vrai navigateur ou une application comme si un humain l'utilisait. Il simule toutes les étapes une par une.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Publication : Tournée pré-version.Boutique : Parcours d'achat.Formulaire : Flux d'inscription.
 
-## Où est-ce utilisé
-Il permet de vérifier la compatibilité de toutes les fonctionnalités entre elles juste avant la sortie du logiciel.
+## Profondeur technique et architecture
+Disposition :
 
-## Souvent confondu avec
-Il peut être confondu avec les tests unitaires ; Les tests unitaires examinent la partie, tandis que E2E examine l'ensemble.
+## Choses fréquemment mélangées
+Confondu avec un test unitaires. L'un regarde cette pièce, l'autre regarde l'ensemble. L'un est un test de vis, l'autre un test de conduite.
 
-## Questions fréquentes
-**Pourquoi ne faisons-nous pas ça ?**
-Parce que c'est très lent et lorsqu'une erreur se produit, il est plus difficile de trouver exactement où se situe le problème.
+## Utilisation dans différentes disciplines
+Voiture : Départ à partir de la clé.Répétition : Répétition générale.Final : Répétition générale (avant diffusion).
+
+## Foire aux questions
+**Pourquoi ne fait-on pas seulement cela ?**
+C'est lent, l'emplacement de la panne est flou. Utilisé avec l'unité.
+
+**À quelle fréquence s'exécute-t-il ?**
+Avant la diffusion et pendant la nuit. Le sous-ensemble critique s'exécute à chaque commit.
+
+**Qui l'écrit ?**
+Le développeur et le testeur l'écrivent ensemble. Le responsable est clairement identifié.
+
+**Est-ce fragile ?**
+Il se brise lorsque l'interface change. Il est écrit de manière sélective et robuste.
 
 
 ## Termes liés

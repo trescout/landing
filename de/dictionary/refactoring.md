@@ -1,22 +1,34 @@
 # Was ist Refactoring?
 
-Dabei handelt es sich um den Prozess, die Codestruktur innerhalb der Software organisierter und effizienter zu gestalten, ohne ihr äußeres Verhalten zu ändern.
+Refactoring (auf Deutsch: Umgestaltung) ist die Vereinfachung von Code unter Beibehaltung seines Verhaltens.
 
-## Definition
-Beim Refactoring handelt es sich um die Erneuerung der Rohrleitungen im Inneren eines Gebäudes oder die Änderung des Standorts von Gegenständen, um sie nützlicher zu machen, ohne das äußere Erscheinungsbild zu beeinträchtigen. An der Funktionsweise der Software ändert sich nichts, aber die Lesbarkeit des Codes erhöht sich und es wird einfacher, in Zukunft neue Funktionen hinzuzufügen. Es handelt sich um einen Bereinigungsprozess, der regelmäßig durchgeführt werden sollte, um technische Schulden zu reduzieren.
+## Definition und Wortherkunft
+Das Innenleben wird erneuert, ohne das äußere Erscheinungsbild zu beeinträchtigen. Die Lesbarkeit des Codes wird erhöht und das Hinzufügen neuer Funktionen wird erleichtert. Es ist ein Reinigungsprozess, der technische Schulden abbaut. Martin Fowler ist die Referenz für diese Disziplin.
 
-## So funktioniert es
-Unnötige Codeblöcke werden gelöscht, komplexe Funktionen in einfachere Teile zerlegt und Variablennamen verständlicher gemacht.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Überprüfung: Code-Review-Runden.Schuldenabbau: In den Sprint eingestreute Bereinigung.Übernahme: Vereinfachung vor dem Einstieg in alten Code.
 
-## Wo es eingesetzt wird
-Es wird in den Codeüberprüfungsphasen von Softwareentwicklungsprozessen angewendet.
+## Technische Tiefe und Architektur
+Gängige Schritte:
 
-## Häufig verwechselt mit
-Es sollte nicht mit dem Hinzufügen neuer Funktionen oder dem Beheben von Fehlern verwechselt werden; Dies verbessert lediglich die Qualität des Codes.
+## Häufig gemischte Dinge
+Es wird für ein Feature oder eine Fehlerbehebung gehalten. Dabei ändert sich die Ausgabe nicht, nur die interne Struktur verbessert sich. Das Verhalten ist gleich, der Code ist anders.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Installation: Rohre erneuern, während die Wand steht.Redaktion: Das Thema bleibt gleich, der Satz ist flüssiger.Beschneidung: Der Baum ist derselbe, der Ast ist geordnet.
+
+## Häufig gestellte Fragen
 **Warum machen wir das?**
-Wenn der Code sauberer ist, werden zukünftige Fehler verhindert und der Entwicklungsprozess wird schneller.
+Sauberer Code verhindert Fehler und Verlangsamungen und beschleunigt neue Arbeit.
+
+**Wann wird es gemacht?**
+Am bearbeiteten Code, in kleinen Stücken. Große Aufräumaktionen werden separat geplant.
+
+**Was ist das Risiko?**
+Eingriffe ohne Tests beeinträchtigen das Verhalten. Ohne Testabsicherung sollte man nicht eingreifen.
+
+**Wie oft wird es gemacht?**
+Kontinuierlich, in kleinen Dosen. Es wird in den Sprint eingestreut und nicht aufgeschoben.
 
 
 ## Verwandte Begriffe

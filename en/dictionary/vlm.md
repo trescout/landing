@@ -2,25 +2,35 @@
 
 > Vision Language Model
 
-It is an artificial intelligence model that can understand and comment on both texts and images simultaneously.
+A VLM (Vision Language Model) is a model that understands both visual and textual data.
 
-## Overview
-It is a system that perceives the world not only with text but also with its eyes. It can look at a photo and identify the objects within it, interpret a chart, or convert a handwritten note into digital text.
+## Definition and Word Origin
+It is the addition of eyes to a text model: it looks at a photo and identifies the object, interprets a chart, and converts handwriting to text. It is the vision-text member of the multimodal family.
 
-*Analogy: It is like giving both reading and seeing abilities to someone who only knows how to read and write.*
+## How to Know and Use in Daily Life?
+Analysis: Image captioning.Assistant: Visual question answering.Accessibility: Describing the image aloud.
 
-## How it works
-The model undergoes a special training process that combines visual data with text data. When you upload an image and ask a question, the model synthesizes the details in the image with text information to provide an answer.
+## Technical Depth and Architecture
+Combination:
 
-## Where it is used
-It is used in image analysis, automatic content description, and vision-based artificial intelligence assistants.
+## Frequently Mixed Things
+Thought to be multimodal. Multimodal is the family name, VLM is the vision-text member. One is the set, the other is the element.
 
-## Commonly confused with
-It is similar to multimodal models; VLM is a vision-text-focused subset of multimodal artificial intelligence.
+## Use in Different Disciplines
+Reading: Understanding text aloud.Subtitle: Adding subtitles to a movie.Guide: Describing artwork in a museum.
 
-## Frequently asked questions
-**What is the difference between VLM and classic artificial intelligence?**
-While classic models only process text, VLM models can also directly understand visual data.
+## Frequently Asked Questions
+**What is the difference from the classical model?**
+In addition to text, it understands visuals. Photograph questions can be answered.
+
+**How is it trained?**
+Aligned with image and text pairs. As matching increases, comprehension increases.
+
+**Does it support Turkish?**
+It varies depending on the model. Multilingual trained ones support it.
+
+**What does it cost?**
+It is higher than the text model. Visual processing introduces additional overhead.
 
 
 ## Related terms

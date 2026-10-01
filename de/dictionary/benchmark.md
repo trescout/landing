@@ -1,31 +1,40 @@
 # Was ist Benchmark?
 
-Dabei handelt es sich um eine Methode, die Leistung einer Software oder Hardware mit Standardtests zu messen und mit anderen zu vergleichen.
+Benchmark (zu Deutsch Vergleichsmaßstab) ist das Messen und Vergleichen der Leistung anhand eines Standardtests.
 
-## Definition
-Ein Benchmark ist eine Maßeinheit, die verwendet wird, um zu verstehen, wie schnell, wie intelligent oder wie effizient ein System ist. Es zeigt numerisch, wer besser abschneidet, wenn er verschiedene Modelle oder Computer den gleichen anspruchsvollen Fragen unterzieht. Auf diese Weise können Sie auswählen, welches für Ihr Unternehmen besser geeignet ist.
+## Definition und Wortherkunft
+"Benchmark" stammt von der Messmarke, die ein Tischler auf der Werkbank anbringt. Dem System werden dieselben Fragen gestellt, und eine Bestenliste wird erstellt. Es ist die Zahl für Geschwindigkeit, Intelligenz oder Effizienz. Alles, vom Modell bis zum Prozessor, wird auf diese Waage gelegt.
 
-## So funktioniert es
-Dem System werden vorgegebene Aufgaben zugewiesen und die Zeit bzw. Genauigkeitsrate zur Erledigung dieser Aufgabe wird aufgezeichnet. Die Ergebnisse werden in eine Bestenliste umgewandelt.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Modell: Rangliste für Intelligenz und Genauigkeit.Prozessor: Geschwindigkeitsvergleich.Spiel: Bildwiederholratentests.
 
-## Wo es eingesetzt wird
-Es wird verwendet, um die Intelligenz von Modellen der künstlichen Intelligenz zu messen, Prozessorgeschwindigkeiten zu vergleichen und die Grafikleistung von Spielen zu bestimmen.
+## Technische Tiefe und Architektur
+Regeln für einen gesunden Vergleich:
 
-## Häufig verwechselt mit
-Es wird mit dem Teig vermischt; Beim Testen wird geprüft, ob etwas funktioniert, beim Benchmarking wird verglichen, wie gut es funktioniert.
+## Häufig gemischte Dinge
+Wird oft für einen Test gehalten. Ein Test prüft, ob etwas funktioniert, ein Benchmark, wie gut es ist. Das eine ist eine Tür, das andere ein Wettkampf.
 
-## Häufige Fragen
-**Ist ein hoher Benchmark-Score immer gut?**
-Im Allgemeinen ja, aber Benchmark-Tests spiegeln manchmal die reale Nutzung nicht genau wider.
+## Einsatz in verschiedenen Disziplinen
+Prüfung: Faires Ranking mit denselben Fragen.Leichtathletik: Rekordliste.Schreiner: Anreißmaß an der Werkbank.
 
-**Sollte ich Benchmark-Ergebnissen vertrauen?**
-Ja, aber es ist besser, sich die Gesamtergebnisse anzusehen, die verschiedene Szenarien umfassen, und nicht nur einen einzelnen Test.
+## Häufig gestellte Fragen
+**Ist ein hoher Score immer gut?**
+Im Allgemeinen ja, aber wenn der Test nicht die Realität widerspiegelt, ist der Score irreführend. Es wird nach Szenarienvielfalt gesucht.
+
+**Kann man den Ergebnissen vertrauen?**
+Man schaut nicht auf einen einzelnen Test, sondern auf ein Bild mit vielen Szenarien. Ein Set, bei dem eine Leakage-Prüfung durchgeführt wurde, wird bevorzugt.
+
+**Was ist Datenleckage?**
+Es ist die Vermischung von Testfragen mit dem Training. Das Modell lernt auswendig, der Score steigt künstlich an, die reale Leistung sinkt.
+
+**Welche Metrik wird betrachtet?**
+Das hängt von der Aufgabe ab: Genauigkeit, Geschwindigkeit und Kosten werden zusammen betrachtet. Eines allein reicht nicht aus.
 
 
 ## Verwandte Begriffe
-- [Benchmarks](/de/dictionary/benchmark/)
 - [AI Models](/de/dictionary/ai-models/)
 - [Inference](/de/dictionary/inference/)
+- [KV Cache](/de/dictionary/kv-cache/)
 
 ## Verwandte Werkzeuge
 - [Ponytail](/de/discover/ponytail/)

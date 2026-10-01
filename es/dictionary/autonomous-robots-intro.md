@@ -1,22 +1,34 @@
 # ¿Qué es Introduction to Autonomous Robots?
 
-Es el principio básico de funcionamiento de las máquinas que pueden tomar sus propias decisiones y moverse sin recibir órdenes constantes del exterior.
+Los robots autónomos son máquinas que se mueven por su entorno sin recibir órdenes constantes.
 
-## Definición
-Este campo se basa en que los robots perciben su entorno (sensores), procesan estos datos (inteligencia artificial) y realizan una acción (motores). Garantiza que el robot no sólo siga el camino programado sino que también alcance el objetivo superando obstáculos.
+## Definición y origen de la palabra
+Autónomo significa independiente. La triple disposición: Percepción (sensor), procesamiento (inteligencia artificial) y acción (motor). El robot no memoriza la ruta, supera el obstáculo y llega al destino.
 
-## Cómo funciona
-Los robots están equipados con cámaras y sensores. Los datos entrantes se procesan con modelos de inteligencia artificial y se decide qué hará el robot.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Almacén: Transporte entre estanterías.Fábrica: Línea de montaje.Vehículo: Sistemas de asistencia al conductor.
 
-## Dónde se usa
-Se utiliza en almacenes, fábricas y vehículos autónomos.
+## Profundidad técnica y arquitectura
+Ciclo:
 
-## Suele confundirse con
-Puede confundirse con robots controlados a distancia; están completamente bajo control humano.
+## Cosas frecuentemente mezcladas
+Se cree que es un robot controlado por control remoto. Está completamente en manos humanas, solo ante este objetivo. Uno es una marioneta, el otro es un aprendiz.
+
+## Uso en diferentes disciplinas
+Coche de juguete: El modelo que encuentra su propio camino.Ascensor: Selección de piso según el botón.Piloto automático: Un sistema que mantiene el rumbo.
 
 ## Preguntas frecuentes
 **¿Cómo aprenden?**
-Generalmente analizando constantemente los datos que los rodean y mediante prueba y error.
+Mediante análisis de datos y prueba y error. Se ensaya en simulación y se ajusta con precisión en el campo.
+
+**¿Es seguro?**
+Sí, dentro de los límites para los que fue diseñado. La parada por error y la intervención humana son obligatorias.
+
+**¿Dónde se usa?**
+En almacenes, fábricas y en la carretera. Destaca en tareas repetitivas y peligrosas.
+
+**¿Cuándo se generalizará?**
+El coste y la normativa lo determinan. Los espacios cerrados van primero, las vías públicas después.
 
 
 ## Términos relacionados

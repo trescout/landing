@@ -1,31 +1,40 @@
 # Qu'est-ce que Benchmark ?
 
-Il s'agit d'une méthode permettant de mesurer les performances d'un logiciel ou d'un matériel avec des tests standard et de les comparer avec d'autres.
+Le benchmark (ou test de référence en français) est une mesure et une comparaison des performances au moyen d'un test standard.
 
-## Définition
-Un benchmark est une unité de mesure utilisée pour comprendre la rapidité, l’intelligence ou l’efficacité d’un système. Il révèle numériquement qui fait le mieux en soumettant différents modèles ou ordinateurs aux mêmes questions difficiles. De cette façon, vous pouvez choisir celui qui convient le mieux à votre entreprise.
+## Définition et origine du mot
+"Benchmark" vient de la marque de mesure que le charpentier fait sur l'établi. Le système est soumis aux mêmes questions, un tableau des scores est généré. C'f'est le chiffre de la vitesse, de l'intelligence ou de l'efficacité. Tout, du modèle au processeur, passe par cette balance.
 
-## Comment ça marche
-Le système reçoit un ensemble prédéterminé de tâches et le temps ou le taux de précision nécessaire pour accomplir cette tâche est enregistré. Les résultats sont convertis en un classement.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Modèle: Classement de l'intelligence et de la précision.Processeur : Comparaison de vitesse.Jeu: Tests de fréquence d'images.
 
-## Où est-ce utilisé
-Il est utilisé pour mesurer l'intelligence des modèles d'intelligence artificielle, comparer les vitesses des processeurs et déterminer les performances graphiques des jeux.
+## Profondeur technique et architecture
+Règles d'une comparaison saine :
 
-## Souvent confondu avec
-Il est mélangé au test ; Les tests vérifient si quelque chose fonctionne, tandis que l'analyse comparative compare son fonctionnement.
+## Choses fréquemment mélangées
+On confond souvent avec le test. Le test vérifie si cela fonctionne, le benchmark mesure à quel point c'est bon. L'un est une porte, l'autre est une course.
 
-## Questions fréquentes
-**Un score de référence élevé est-il toujours bon ?**
-Généralement oui, mais les tests de référence ne reflètent parfois pas avec précision l'utilisation réelle.
+## Utilisation dans différentes disciplines
+Examen : Classement équitable avec la même question.Athlétisme : Tableau des records.Menuisier : Marquage de mesure sur l'établi.
 
-**Dois-je faire confiance aux résultats des benchmarks ?**
-Oui, mais il est préférable d’examiner les résultats globaux qui incluent différents scénarios, et non un seul test.
+## Foire aux questions
+**Un score élevé est-il toujours bon ?**
+Généralement oui, mais si le test ne reflète pas la réalité, le score est trompeur. La diversité des scénarios est recherchée.
+
+**Peut-on faire confiance aux résultats ?**
+On ne regarde pas un seul test, mais un tableau multi-scénarios. Les ensembles ayant fait l'objet d'un contrôle de fuite sont privilégiés.
+
+**Qu'est-ce qu'une fuite de données ?**
+C'est l'intrusion de la question du test dans l'entraînement. Le modèle mémorise, le score gonfle, et la performance réelle chute.
+
+**Quelle métrique faut-il surveiller ?**
+Cela dépend de l'objectif : l'exactitude, la vitesse et le coût sont analysés ensemble. Un seul ne suffit pas.
 
 
 ## Termes liés
-- [Benchmarks](/fr/dictionary/benchmark/)
 - [AI Models](/fr/dictionary/ai-models/)
 - [Inference](/fr/dictionary/inference/)
+- [KV Cache](/fr/dictionary/kv-cache/)
 
 ## Outils liés
 - [Ponytail](/fr/discover/ponytail/)

@@ -1,25 +1,34 @@
 # O que é Virtual Machines?
 
-São sistemas operacionais virtuais executados dentro de um computador como se fosse um dispositivo separado.
+Uma máquina virtual é um computador independente que partilha o hardware.
 
-## Definição
-As máquinas virtuais permitem executar vários sistemas operacionais simultaneamente em um único computador, particionando seu hardware físico. Cada máquina virtual se comporta como se fosse seu próprio computador independente e utiliza seus próprios recursos. Dessa forma, você pode testar diferentes softwares ou configurações com segurança, sem danificar o sistema principal.
+## Definição e origem da palavra
+"Virtual" significa virtual. Executa vários sistemas operacionais em uma única máquina. Cada um opera isoladamente com seus próprios recursos e não causa danos ao sistema principal.
 
-## Como funciona
-Você separa parte do seu hardware com a ajuda de software. Você instala um sistema operacional nesta seção reservada. Este sistema que você instalou começa a funcionar em seu próprio mundo sem o conhecimento do seu computador principal.
+## Como conhecer e usar no dia a dia?
+Apresentador: Hospedagem multilocatário.Teste: Experimentação de sistemas diferentes.Desenvolvimento: Ambiente de teste limpo.
 
-## Onde é usado
-É utilizado no gerenciamento de servidores, testes de software e em trabalhos que requerem diferentes sistemas operacionais.
+## Profundidade Técnica e Arquitetura
+Camadas:
 
-## Costuma ser confundido com
-Frequentemente misturado com recipientes; Enquanto as máquinas virtuais carregam um sistema operacional completo, os contêineres carregam apenas o aplicativo.
+## Coisas frequentemente misturadas
+Pensa-se que é um contentor. A máquina é um sistema completo, o contentor é um núcleo partilhado. Um é um apartamento, o outro é partilhar quarto.
 
-## Perguntas frequentes
-**Uma máquina virtual deixa o computador lento?**
-Sim, porque funciona compartilhando os recursos do processador e da memória do seu computador host.
+## Use em diferentes disciplinas
+Quartos: Divisões com portas independentes.Apartamento: Edifício comum, espaço privado.Mala: Transporte com compartimentos.
 
-**Se ocorrer um vírus na máquina virtual, ele será transferido para o computador host?**
-Geralmente não, pois a máquina virtual está em um ambiente isolado do sistema host.
+## Perguntas Frequentes
+**Desacelera?**
+Há uma taxa de partilha. Não é perceptível com o dimensionamento correto.
+
+**O vírus passa?**
+Geralmente não. O isolamento é forte, a pasta partilhada é monitorizada.
+
+**Quanto recurso é fornecido?**
+Determinado pelo trabalho. Ajustado gradualmente com monitorização.
+
+**Qual é a diferença do contentor?**
+A máquina transporta o sistema, o contentor a aplicação. O isolamento e a velocidade são trocados.
 
 
 ## Termos relacionados

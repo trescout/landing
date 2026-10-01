@@ -1,31 +1,40 @@
 # O que é Benchmark?
 
-É um método para medir o desempenho de um software ou hardware com testes padrão e compará-lo com outros.
+Benchmark (com o equivalente em turco, critério de comparação) é a medição e comparação de desempenho através de um teste padrão.
 
-## Definição
-Um benchmark é uma unidade de medida usada para entender o quão rápido, inteligente ou eficiente é um sistema. Revela numericamente quem se sai melhor ao submeter diferentes modelos ou computadores às mesmas questões desafiadoras. Dessa forma, você poderá escolher qual é mais adequado para o seu negócio.
+## Definição e origem da palavra
+"Bench mark" vem da marca de medição que o carpinteiro faz na bancada. O sistema é submetido às mesmas perguntas, gerando uma tabela de pontuação. É o número da velocidade, da inteligência ou da eficiência. Tudo, desde o modelo até o processador, entra nessa balança.
 
-## Como funciona
-O sistema recebe um conjunto predeterminado de tarefas e o tempo ou taxa de precisão para concluir esta tarefa é registrado. Os resultados são convertidos em uma tabela de classificação.
+## Como conhecer e usar no dia a dia?
+Modelo: Classificação de inteligência e precisão.Processador: Comparação de velocidade.Jogo: Testes de taxa de quadros.
 
-## Onde é usado
-É usado para medir a inteligência de modelos de inteligência artificial, comparar velocidades de processador e determinar o desempenho gráfico de jogos.
+## Profundidade Técnica e Arquitetura
+Regras para uma comparação saudável:
 
-## Costuma ser confundido com
-Está misturado com o teste; O teste verifica se algo funciona, enquanto o benchmarking compara o quão bem funciona.
+## Coisas frequentemente misturadas
+Pensa-se que é teste. O teste verifica se funciona, o benchmark quão bom é. Um é a porta, o outro é a corrida.
 
-## Perguntas frequentes
-**Uma pontuação de benchmark alta é sempre boa?**
-Geralmente sim, mas os testes de benchmark às vezes não refletem com precisão o uso no mundo real.
+## Use em diferentes disciplinas
+Exame: Classificação justa com a mesma pergunta.Atletismo: Tabela de recordes.Carpinteiro: Marca de medição na bancada.
 
-**Devo confiar nos resultados de benchmark?**
-Sim, mas é melhor observar os resultados globais que incluem diferentes cenários, e não apenas um único teste.
+## Perguntas Frequentes
+**Uma pontuação alta é sempre boa?**
+Geralmente sim, mas se o teste não refletir a realidade, a pontuação engana. Busca-se diversidade de cenários.
+
+**Pode-se confiar nos resultados?**
+Não se olha apenas para um teste, mas para um quadro com múltiplos cenários. Prefere-se um conjunto com controle de vazamento.
+
+**O que é vazamento de dados?**
+É a mistura da pergunta do teste com o treinamento. O modelo decora, a pontuação infla e o desempenho real cai.
+
+**Qual métrica deve ser observada?**
+Depende da tarefa: Acurácia, velocidade e custo são analisados em conjunto. Um só não basta.
 
 
 ## Termos relacionados
-- [Benchmarks](/pt/dictionary/benchmark/)
 - [AI Models](/pt/dictionary/ai-models/)
 - [Inference](/pt/dictionary/inference/)
+- [KV Cache](/pt/dictionary/kv-cache/)
 
 ## Ferramentas relacionadas
 - [Ponytail](/pt/discover/ponytail/)

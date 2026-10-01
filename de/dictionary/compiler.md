@@ -1,19 +1,31 @@
 # Was ist Compiler?
 
-Dabei handelt es sich um ein Programm, das von Menschen geschriebene Codes in Maschinensprache übersetzt, die der Computer direkt verstehen und ausführen kann.
+Ein Compiler ist ein Programm, das den von Ihnen geschriebenen Code in Maschinensprache übersetzt, die der Computer ausführen kann.
 
-## Definition
-Computer verstehen nur Nullen und Einsen. Programmierer hingegen schreiben Code in einer verständlicheren Sprache. Der Compiler fungiert als Übersetzer, indem er diese Entwicklersprache in eine Sprache umwandelt, die der Prozessor des Computers versteht.
+## Definition und Wortherkunft
+Compile bedeutet übersetzen oder sammeln. Computer verstehen ausschließlich Sequenzen aus 0 und 1. Entwickler schreiben jedoch in einer lesbaren Sprache. Der Compiler fungiert als Übersetzer zwischen diesen beiden Welten: Er durchdringt den Code und wandelt ihn bei Fehlerfreiheit in eine ausführbare Datei um.
 
-## So funktioniert es
-Sie schreiben und speichern Ihren Code und führen dann den Compilerbefehl aus. Der Compiler scannt Ihren Code. Wenn keine Fehler vorliegen, wandelt er ihn in eine ausführbare Datei um.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Anwendungsinstallation: Die kompilierte Version des heruntergeladenen Programms wird ausgeführt.Fehlermeldungen: Der Compiler warnt Sie, wenn Sie ein Semikolon vergessen haben.Spiel-Engines: Separate Kompilierungsausgabe für jede Plattform.
 
-## Wo es eingesetzt wird
-Es ist der Kern aller Softwareentwicklungsprozesse.
+## Technische Tiefe und Architektur
+Die Kompilierung läuft in vier Phasen ab:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Interpretation: Die Unterscheidung zwischen simultaner Übersetzung (Interpreter) und schriftlicher Übersetzung (Compiler).Druckerei: Umwandlung des Entwurfs in eine Druckplatte.Küche: Verwandlung des Rezepts in ein bereits zubereitetes Gericht.
+
+## Häufig gestellte Fragen
 **Ist der Compiler jeder Sprache unterschiedlich?**
-Ja, jede Programmiersprache benötigt einen Compiler oder Interpreter, der ihren eigenen Regeln entspricht.
+Ja. Jede Sprache benötigt einen Compiler oder Interpreter, der ihren eigenen Regeln entspricht. Einige Sprachen verwenden beides zusammen.
+
+**Worin besteht der Unterschied zum Interpreter?**
+Ein Compiler übersetzt den Code im Voraus und erzeugt eine Datei, danach läuft das Programm schnell. Ein Interpreter übersetzt Zeile für Zeile und führt ihn aus, er ist flexibel, aber normalerweise langsam.
+
+**Was ist JIT?**
+Just-in-Time-Kompilierung übersetzt während der Laufzeit häufig verwendete Teile in Maschinencode. Das ist ein Mittelweg zwischen beiden, den Java und JavaScript nutzen.
+
+**Wer hat den ersten Compiler kompiliert?**
+Das ist die Frage nach dem Huhn und dem Ei. Die ersten Compiler wurden manuell in Maschinencode geschrieben, spätere wurden mit dem vorherigen Compiler kompiliert (Bootstrapping).
 
 
 ## Verwandte Begriffe

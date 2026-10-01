@@ -1,27 +1,40 @@
 # Was ist Omni-channel?
 
-Es ist der harmonische und unterbrechungsfreie Betrieb aller Vertriebskanäle wie Shops, Websites und mobile Anwendungen.
+Omni-Channel (auf Türkisch: integrierter Kanal) bezeichnet die synchrone Zusammenarbeit aller Vertriebskanäle.
 
-## Definition
-Es handelt sich um einen Ansatz, der das Kundenerlebnis in einem einzigen Zentrum vereint. Sie können beispielsweise ein Produkt, das Sie online im Geschäft gekauft haben, zurückgeben oder ein Produkt, das Sie sich im Geschäft angesehen haben, ganz einfach über die mobile Anwendung kaufen.
+## Definition und Wortherkunft
+Omni bedeutet ganz. Store, Website und App sind keine getrennten Welten, sondern Türen zu einem einzigen Erlebnis. Ein im Internet gekaufter Artikel wird im Store zurückgegeben, ein im Store angesehener Artikel wird über die mobile App gekauft.
 
-## So funktioniert es
-Alle Vertriebskanäle sind mit derselben Datenbank verbunden und die Kundeninformationen werden überall auf dem neuesten Stand gehalten.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Einzelhandel: Im Geschäft anprobieren, nach Hause liefern lassen.E-Commerce: Warenkorb zwischen Geräten übertragen.Support: Das Thema geht beim Kanalwechsel nicht verloren.
 
-## Wo es eingesetzt wird
-Es wird im Einzelhandel, E-Commerce und Kundenservice-Management eingesetzt.
+## Technische Tiefe und Architektur
+Wirbelsäule:
 
-## Häufig verwechselt mit
-Der Unterschied zu Mehrkanalsystemen besteht darin, dass die Kanäle miteinander verbunden und synchronisiert sind.
+## Häufig gemischte Dinge
+Man hält es für Multichannel. Dort gibt es viele Kanäle, hier sind die Kanäle vernetzt. Der Unterschied in der Vernetzung bestimmt die Loyalität.
 
-## Häufige Fragen
-**Warum ist Omnichannel wichtig?**
-Es erhöht die Loyalität, indem sichergestellt wird, dass der Kunde unabhängig vom genutzten Kanal die gleiche Servicequalität erhält.
+## Einsatz in verschiedenen Disziplinen
+Theater: Harmonie von Bühne, Backstage und Beleuchtung.Orchester: Die Abschnitte spielen ein einziges Werk.Flughafen: Transfergepäck-System.
+
+## Häufig gestellte Fragen
+**Warum ist es wichtig?**
+Wenn der Kanal wechselt, bleibt das Erlebnis bestehen, die Loyalität steigt. Ein unzusammenhängender Kanal führt zum Verlust von Kunden.
+
+**Wie hoch sind die Kosten?**
+Erfordert Integration und Datenordnung. Ein schrittweiser Übergang teilt die Kosten auf.
+
+**Für Kleinunternehmen geeignet?**
+In einfacher Form ja. Man beginnt mit gemeinsamem Bestand und Retourenmanagement.
+
+**Wie wird es gemessen?**
+Durch die Kanalübergangsrate, die Einfachheit von Retouren und Wiederholungskäufe.
 
 
 ## Verwandte Begriffe
 - [Omni-channel Desk](/de/dictionary/omni-channel-desk/)
 - [Enterprise Resource Planning](/de/dictionary/enterprise-resource-planning/)
+- [Omni-channel Support](/de/dictionary/omni-channel-support/)
 
 ## Verwandte Werkzeuge
 - [Chatwoot](/de/discover/chatwoot/)

@@ -2,23 +2,35 @@
 
 > E2E Testing
 
-Es la verificación de todo el funcionamiento de una aplicación de principio a fin, tal como lo hace un usuario real.
+Las pruebas de extremo a extremo (E2E, por sus siglas en inglés) consisten en probar la aplicación de principio a fin tal como lo haría un usuario.
 
-## Definición
-Prueba cómo funciona toda la aplicación en su conjunto, no partes individuales del sistema. El usuario ingresa a la aplicación, hace clic en un botón, va a la base de datos y se devuelve el resultado. Se comprueba si todo el proceso está libre de errores o no.
+## Definición y origen de la palabra
+De punta a punta significa de extremo a extremo. Se prueba el todo y no la pieza: se entra, se presiona el botón, los datos van, el resultado regresa. Es la puerta de conformidad previa a la publicación.
 
-## Cómo funciona
-Las herramientas de automatización administran un navegador o una aplicación real como si lo estuviera usando un humano. Simula todos los pasos uno por uno.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Publicación: Ronda previa a la versión.Tienda: Ruta de compra.Formulario: Flujo de registro.
 
-## Dónde se usa
-Se utiliza para comprobar la compatibilidad de todas las funciones entre sí justo antes del lanzamiento del software.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-Puede confundirse con las pruebas unitarias; Las pruebas unitarias analizan la parte, mientras que E2E analiza el todo.
+## Cosas frecuentemente mezcladas
+Se confunde con una prueba unitaria. Una mira esa pieza, la otra mira el todo. Una es la prueba de un tornillo, la otra la de conducción.
+
+## Uso en diferentes disciplinas
+Coche: Partir de la llave.Ensayo: Repaso general.Final: Ensayo de transmisión.
 
 ## Preguntas frecuentes
-**¿Por qué no hacemos esto?**
-Porque es muy lento y cuando ocurre un error es más difícil encontrar exactamente dónde está el problema.
+**¿Por qué no se hace solo esto?**
+Es lento, el origen de la falla es difuso. Se usa junto con la unidad.
+
+**¿Con qué frecuencia se ejecuta?**
+Antes de la transmisión y por la noche. Un subconjunto crítico se ejecuta en cada commit.
+
+**¿Quién lo escribe?**
+El desarrollador y el evaluador lo escriben juntos. Tiene un propietario claro.
+
+**¿Es frágil?**
+Se rompe cuando cambia la interfaz. Se escribe de forma selectiva y resistente.
 
 
 ## Términos relacionados

@@ -1,25 +1,34 @@
 # Was ist Agent Skills?
 
-Besondere Fähigkeiten oder Werkzeuge, mit denen KI-Agenten bestimmte Aufgaben ausführen.
+Agent-Skills sind Pakete, die Anweisungen, Tools und Ressourcen bündeln, die ein Agent benötigt, um eine bestimmte Aufgabe konsistent auszuführen.
 
-## Definition
-Agentenfähigkeiten sind spezielle Funktionen, die es einer KI ermöglichen, mit der Welt zu interagieren. Mit diesen Funktionen kann der Agent das Internet durchsuchen, eine Datei lesen, Code ausführen oder eine E-Mail senden. Je mehr Fähigkeiten der Agent hat, desto komplexere Aufgaben kann er alleine bewältigen.
+## Definition und Wortherkunft
+Ein Skill sagt dem Agenten, welche Arbeit er wann und innerhalb welcher Grenzen erledigen soll. Er kann Zugriff auf Werkzeuge wie Suche, Dateilesen oder Codeausführung gewähren; jedoch ist nicht jeder Skill direkt ein Werkzeug. Ein gut konzipierter Skill definiert den erforderlichen Kontext und die Validierungsschritte klar.
 
-## So funktioniert es
-Der Agent analysiert die ihm übertragene Aufgabe und entscheidet, welche Fähigkeiten zur Lösung dieser Aufgabe erforderlich sind. Dann löst es diese Fähigkeit aus, führt die Operation aus und wertet das Ergebnis aus.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Plattform: Bibliotheken für vorgefertigte Fähigkeiten.Automatisierung: Geplante Aufgaben.Entwicklung: Speicher- und Testwerkzeuge.
 
-## Wo es eingesetzt wird
-Es wird in KI-Agentenplattformen, Automatisierungstools und Softwareentwicklungsprozessen verwendet.
+## Technische Tiefe und Architektur
+Das Format variiert je nach Plattform; eine vereinfachte Skill-Definition sieht wie folgt aus:
 
-## Häufig verwechselt mit
-Dabei geht es nicht um die allgemeine Intelligenz der KI, sondern nur um ihre Fähigkeit, eine bestimmte Aufgabe zu erledigen.
+## Häufig gemischte Dinge
+Es wird für allgemeine Intelligenz gehalten. Dabei ist die Fähigkeit gemeint, eine bestimmte Aufgabe zu erledigen. Das Modell versteht, die Fähigkeit führt aus.
 
-## Häufige Fragen
-**Füge ich Agentenfähigkeiten hinzu?**
-Ja, normalerweise definieren Sie Agenten, welche Tools sie verwenden können, oder wählen aus vorgefertigten Bibliotheken aus.
+## Einsatz in verschiedenen Disziplinen
+Taschenmesser: Messer-, Schraubendreher- und Scherenset.Werkzeugkasten: Der je nach Aufgabe gewählte Schlüssel.App-Store: Ein nach Bedarf heruntergeladenes Programm.
+
+## Häufig gestellte Fragen
+**Füge ich die Fähigkeiten selbst hinzu?**
+Das hängt von der Plattform ab. In manchen Umgebungen werden vorgefertigte Skills ausgewählt, in anderen definiert das Team seine eigenen Skill-Pakete.
 
 **Sind die Fähigkeiten aller Agenten gleich?**
-Nein, seine Fähigkeiten werden je nach Verwendungszweck des Agenten angepasst (z. B. ein Agent, der nur Daten analysiert).
+Nein. Sie werden je nach Zweck angepasst; das Set eines Datenanalysten-Agenten unterscheidet sich von dem eines Programmierer-Agenten.
+
+**Ist es sicher?**
+Lesevorgänge sind risikoarm. Bei Schreib- und Zahlungsvorgängen sind eine Bestätigung und eine Begrenzung des Geltungsbereichs erforderlich.
+
+**Gibt es eine fertige Bibliothek?**
+Ja. Plattformen bündeln gängige Fähigkeiten, für spezielle Aufgaben schreiben Sie diese selbst.
 
 
 ## Verwandte Begriffe

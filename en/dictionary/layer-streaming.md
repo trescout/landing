@@ -1,24 +1,34 @@
 # What is Layer Streaming?
 
-It is the process of starting to process big data or software layers piece by piece before all of them are downloaded.
+Layer streaming is the processing of data piece by piece.
 
-## Overview
-Layered data flow allows the required parts to be processed instantly, especially without waiting for the loading time of very large files or software packages. This method improves user experience by minimizing waiting time.
+## Definition and Word Origin
+Layer means layer. The needed part is processed before the whole thing downloads. Waiting time is shortened, the experience accelerates. It works in large file and package operations.
 
-*Analogy: It's like starting to read each page as it is printed, without waiting for the entire book to be shipped.*
+## How to Know and Use in Daily Life?
+Startup: The rapid appearance of the application.Video: Resolution from low to high.Map: Detail as you zoom in.
 
-## How it works
-Data is divided into small pieces and transferred to the system in order of priority. The system starts working immediately with the first part it receives.
+## Technical Depth and Architecture
+Order:
 
-## Where it is used
-It is used for fast opening of large software applications and high-resolution data streams.
+## Frequently Mixed Things
+Mistaken for downloading. Downloading makes you wait, streaming starts playback. One is storage, the other is bandwidth.
 
-## Commonly confused with
-Not to be confused with traditional file download methods; Instead of waiting here, work begins.
+## Use in Different Disciplines
+Page: Reading as it is printed.Series: Watching episode by episode.Construction: Layer by layer delivery.
 
-## Frequently asked questions
-**Does this method increase internet speed?**
-It does not increase internet speed, but it eliminates waiting time by using data more efficiently.
+## Frequently Asked Questions
+**Does it increase speed?**
+It shortens the wait, not the line. The experience speeds up, the counter stays the same.
+
+**When to use?**
+For big data and on a slow connection. It doesn't make a difference with small files.
+
+**What does it cost?**
+It requires sorting and caching logic. There is a cost of complexity.
+
+**How is it measured?**
+With First Contentful Paint and Time to Interactive. Not the total download.
 
 
 ## Related terms

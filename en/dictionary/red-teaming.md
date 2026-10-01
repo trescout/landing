@@ -1,27 +1,34 @@
 # What is Red Teaming?
 
-It is a method of finding vulnerabilities by pretending to be a malicious user to test the security of a system.
+Red teaming is a testing method that involves acting like an attacker to find vulnerabilities.
 
-## Overview
-Red teaming is the simulation of a team trying to bypass a system's defenses. This team measures how resilient the system is using methods that attackers can use. The goal is to close all vulnerabilities before an actual attack occurs.
+## Definition and Word Origin
+The name comes from military exercises: The red side attacks, the blue side defends. The team measures the system's resilience using attacker methods. The goal is to close vulnerabilities before a real attack occurs.
 
-*Analogy: It's like hiring a professional thief to test the doors and alarms of a bank and asking him to try to rob the bank.*
+## How to Know and Use in Daily Life?
+Institutional: Annual penetration tests.Artificial intelligence: Model rule-breaking attempts.Physical: Building entry controls.
 
-## How it works
-Security experts push the system to its limits, attempt to crack passwords or send incorrect commands. The results are reported and firewalls are strengthened accordingly.
+## Technical Depth and Architecture
+Test arrangement:
 
-## Where it is used
-It is used in the cyber security departments of large companies and in testing the security of artificial intelligence models.
+## Frequently Mixed Things
+It is thought to be a scan. Scanning is automated and superficial, whereas red teaming is creative and human-centric. The two complement each other.
 
-## Commonly confused with
-Not to be confused with a regular security scan; This is a creative and human-centered attack simulation.
+## Use in Different Disciplines
+Bank: Vault and alarm test.Fire: Evacuation drill.Chess: Pre-playing the opponent's move.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why is this method needed?**
-Because standard security tests cannot always catch creative attack methods.
+Standard tests cannot catch creative attacks. The human mind sees what the machine does not.
 
-**How is it implemented in artificial intelligence models?**
-By asking harmful questions to the model, it is checked whether the model breaks the rules.
+**How is it applied in artificial intelligence?**
+Questions are asked that attempt to make the model break the rules, and the passing and failing responses are reported.
+
+**Who does it?**
+An internal team or an independent firm does it. An independent eye finds blind spots better.
+
+**How often is it done?**
+At least once a year, and again after major changes. On the model side, it is done per version.
 
 
 ## Related terms

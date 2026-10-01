@@ -1,19 +1,31 @@
 # ¿Qué es Testing Framework?
 
-Es un conjunto de herramientas listas para usar que le permiten escribir y ejecutar pruebas de software de forma regular, rápida y sencilla.
+Un framework de pruebas (su equivalente en turco es test çatısı) es una infraestructura lista para usar que escribe y ejecuta pruebas.
 
-## Definición
-Es una biblioteca que le ofrece reglas y estructuras ya preparadas en lugar de escribir constantemente los mismos códigos mientras escribe pruebas. Informa los resultados de las pruebas, indica errores y estandariza el proceso. Es un conjunto de herramientas auxiliares que facilita el trabajo de los desarrolladores de software.
+## Definición y origen de la palabra
+Framework significa estructura. En lugar de escribir comandos uno por uno, las reglas y el ejecutor vienen listos. Se informa el resultado, se marca el error. La estructura de las pruebas se estandariza.
 
-## Cómo funciona
-Incluyes esta herramienta en tu proyecto y escribes tus pruebas con los comandos que te ofrece. La herramienta ejecuta automáticamente sus pruebas y enumera cuáles pasaron o no.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Desarrollo: Conjunto que se ejecuta en cada commit.CI: La puerta de calidad en la línea.Versión: Escaneo previo al lanzamiento.
 
-## Dónde se usa
-Se utiliza en proyectos de desarrollo de software, especialmente en sistemas que se actualizan constantemente.
+## Profundidad técnica y arquitectura
+Regiones:
+
+## Uso en diferentes disciplinas
+Caja de herramientas: La herramienta adecuada para el trabajo.Juego de medidas: Herramientas calibradas.Gimnasio: Equipamiento programado.
 
 ## Preguntas frecuentes
-**¿Qué marco debo elegir?**
-Por lo general, es mejor elegir el más popular según el lenguaje de programación que esté utilizando y las necesidades del proyecto.
+**¿Cuál se debe elegir?**
+El popular según el lenguaje y la necesidad. El mantenimiento y la documentación son determinantes.
+
+**¿Cuándo se escribe?**
+Junto con el código. Las pruebas que se dejan para después quedan a medias.
+
+**¿Cuál es la diferencia con E2E?**
+La unitaria prueba piezas, la de extremo a extremo prueba el recorrido. Ambas se usan juntas.
+
+**¿Cuál es el objetivo de cobertura?**
+Lo determina el equipo. El camino crítico se mantiene alto y los casos secundarios bajos.
 
 
 ## Términos relacionados

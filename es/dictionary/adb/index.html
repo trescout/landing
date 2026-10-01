@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es ADB? · Glosario · TreScout</title>
-<meta name="description" content="Es un puente que le permite enviar comandos a dispositivos Android a través de su computadora y realizar operaciones como instalar software o administrar a">
+<meta name="description" content="ADB (Android Debug Bridge, puente de depuración de Android) es una herramienta que permite la comunicación de comandos y depuración entre un ordenador y un">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/adb/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/adb/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/adb/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/adb.md">
 <meta property="og:title" content="¿Qué es ADB?">
-<meta property="og:description" content="Es un puente que le permite enviar comandos a dispositivos Android a través de su computadora y realizar operaciones como instalar software o administrar a">
+<meta property="og:description" content="ADB (Android Debug Bridge, puente de depuración de Android) es una herramienta que permite la comunicación de comandos y depuración entre un ordenador y un">
 <meta property="og:url" content="https://trescout.com/es/dictionary/adb/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es ADB?">
-<meta name="twitter:description" content="Es un puente que le permite enviar comandos a dispositivos Android a través de su computadora y realizar operaciones como instalar software o administrar a">
+<meta name="twitter:description" content="ADB (Android Debug Bridge, puente de depuración de Android) es una herramienta que permite la comunicación de comandos y depuración entre un ordenador y un">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "ADB",
-  "description": "Es un puente que le permite enviar comandos a dispositivos Android a través de su computadora y realizar operaciones como instalar software o administrar archivos del sistema.",
+  "description": "ADB (Android Debug Bridge, puente de depuración de Android) es una herramienta que permite la comunicación de comandos y depuración entre un ordenador y un dispositivo Android.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/adb/",
   "inDefinedTermSet": {
@@ -55,17 +55,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-06-17">Última actualización: 17 de junio de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
 <h1 class="disc-title">¿Qué es <span class="disc-accent">ADB</span>?</h1>
 <p class="dict-en">Android Debug Bridge</p>
-<p class="disc-lead">Es un puente que le permite enviar comandos a dispositivos Android a través de su computadora y realizar operaciones como instalar software o administrar archivos del sistema.</p>
-<section class="disc-sec"><h2>Definición</h2><p>Crea un lenguaje de comunicación entre su dispositivo Android y su computadora. Los desarrolladores utilizan esta herramienta para depurar el dispositivo, instalar aplicaciones o cambiar la configuración del sistema.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Piensa en tu computadora como un centro de comando y en tu dispositivo Android como una nave espacial; ADB es el cable que transporta las señales entre estos dos.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Usted instala el software ADB en su computadora, conecta el dispositivo a través de USB y administra el dispositivo escribiendo ciertos códigos en la línea de comando.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se utiliza en procesos de desarrollo de software y personalizaciones avanzadas de Android.</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>No es sólo una herramienta de transferencia de archivos; Es una herramienta mucho más poderosa que puede intervenir en el sistema.</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Todos pueden usarlo?</p><p class="dict-faq-a">Requiere conocimientos técnicos, los comandos incorrectos pueden afectar el funcionamiento del dispositivo.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/cli/">CLI</a><a href="/es/dictionary/sdk/">SDK</a></div></section>
+<p class="disc-lead">ADB (Android Debug Bridge, puente de depuración de Android) es una herramienta que permite la comunicación de comandos y depuración entre un ordenador y un dispositivo Android.</p>
+<section class="disc-sec"><h2>Definición y origen de la palabra</h2><p>&quot;Debug&quot; depuración, &quot;bridge&quot; significa puente. ADB establece la comunicación entre el cliente en el ordenador y el demonio adb en el dispositivo; se utiliza para la instalación de aplicaciones, la recopilación de registros, la depuración y operaciones limitadas de gestión de dispositivos. Es parte del paquete Android SDK Platform-Tools.</p></section>
+<div class="dict-analogy"><strong>Analogía:</strong> Si considera la computadora como el centro de control y el dispositivo como la nave espacial, ADB es el cable de señal entre ellos.</div>
+<section class="disc-sec"><h2>¿Cómo saberlo y utilizarlo en la vida diaria?</h2><p><strong>Desarrollo:</strong> Instalación y registro de aplicaciones.<br><strong>Prueba:</strong> Pruebas en múltiples dispositivos.<br><strong>Personalización:</strong> Configuración avanzada.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Estructura triple:</p><p><strong>Cliente:</strong> El comando en la computadora.<br><strong>Presentador:</strong> El administrador que se ejecuta en segundo plano.<br><strong>Daemon:</strong> El receptor en el dispositivo.</p><p>Flujo:</p><pre><code>adb devices
+adb install uygulama.apk</code></pre><p>El primero enumera los dispositivos conectados, el segundo instala el paquete de la aplicación. La depuración USB debe estar habilitada en el dispositivo. Dado que los comandos incorrectos pueden provocar la pérdida de datos, es necesario verificar el dispositivo de destino y el comando antes de ejecutarlos.</p></section>
+<section class="disc-sec"><h2>Cosas frecuentemente mezcladas</h2><p>Se confunde con la transferencia de archivos. Aquello solo copia, ADB interviene en el sistema. La diferencia de privilegios es grande.</p></section>
+<section class="disc-sec"><h2>Uso en diferentes disciplinas</h2><p><strong>Cable:</strong> La línea que transporta la señal.<br><strong>Intérprete:</strong> El lenguaje de ambas partes.<br><strong>Control:</strong> Gestión remota.</p></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Todos pueden usarlo?</p><p class="dict-faq-a">Los comandos básicos se pueden aprender; sin embargo, especialmente adb shell y las operaciones de borrado requieren conocimientos técnicos. Es necesario verificar el efecto del comando antes de ejecutarlo.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Se puede hacer de forma inalámbrica?</p><p class="dict-faq-a">Sí. En las versiones de Android compatibles, se puede establecer una conexión a través de Wi-Fi después de emparejarlo con el dispositivo. La estabilidad y la velocidad dependen de la calidad de la red local.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Es seguro?</p><p class="dict-faq-a">Si usted tiene el dispositivo, sí. No se otorga aprobación en un dispositivo conectado a una computadora desconocida.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la diferencia con Fastboot?</p><p class="dict-faq-a">ADB se comunica con el sistema operativo mientras Android está en ejecución. Fastboot, por otro lado, se utiliza para operaciones de imagen de partición o firmware mientras el dispositivo está en modo bootloader; los comandos compatibles y el proceso de desbloqueo varían según el dispositivo.</p></div></div></section>
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/cli/">CLI</a><a href="/es/dictionary/sdk/">SDK</a><a href="/es/dictionary/emulator/">Emulator</a></div></section>
 <section class="disc-sec"><h2>Herramientas relacionadas</h2><div class="dict-related"><a href="/es/discover/universal-android-debloater-next-generation/">Universal Android Debloater Next Generation</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="adb" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
 <p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/adb/">Leer en turco →</a></p>

@@ -1,22 +1,31 @@
 # ¿Qué es Backup Program?
 
-Es un software que evita la pérdida de sus datos digitales al realizar una copia de los mismos.
+Un programa de respaldo es un software que copia datos de forma regular.
 
-## Definición
-Los programas de respaldo copian periódicamente archivos importantes de su computadora o servidor a otra ubicación. Le permite recuperar sus datos en casos como falla de hardware, ciberataque o eliminación accidental. Es la piedra angular de una vida digital segura.
+## Definición y origen de la palabra
+Backup significa copia de seguridad. Los archivos se copian periódicamente a otra ubicación. Se pueden recuperar en caso de fallo, ataque o borrado. Es la base de una vida digital segura.
 
-## Cómo funciona
-Instala el programa, elige las carpetas y la frecuencia para realizar la copia de seguridad. El software se ejecuta en segundo plano y copia sus datos en los momentos que usted especifique.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Personal: Respaldo de fotos y documentos.Presentador: Copia automática nocturna.Nube: Sincronización de cuentas.
 
-## Dónde se usa
-Se utiliza en computadoras personales, servidores corporativos y sistemas de almacenamiento en la nube.
+## Profundidad técnica y arquitectura
+Tipos:
+
+## Uso en diferentes disciplinas
+Fotocopia: Copia guardada en la caja fuerte.Caja fuerte: Almacenamiento de documentos valiosos.Seguro: Cobertura contra desastres.
 
 ## Preguntas frecuentes
-**¿Por qué es importante la copia de seguridad?**
-En el mundo digital, la pérdida de datos suele ser un desastre irreversible.
+**¿Por qué es importante?**
+La pérdida suele ser irreversible. Una copia de seguridad reduce el coste del error.
 
-**¿Dónde debería comprar repuestos?**
-Lo ideal es que las copias de seguridad se guarden en una ubicación físicamente diferente del dispositivo original (nube o disco externo).
+**¿Dónde debe hacerse?**
+En un lugar separado del original: en la nube o disco externo. El mismo disco no cuenta como copia de seguridad.
+
+**¿Con qué frecuencia debe hacerse?**
+Según la velocidad de cambio. Diario para el trabajo diario, y cada hora para líneas críticas.
+
+**¿Se prueba?**
+Sí. Una copia de seguridad no da confianza si no se prueba la restauración.
 
 
 ## Términos relacionados

@@ -33513,7 +33513,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 
-- ★ 206.332
+- ★ 206.409
 - GitHub Trending · 2026-08-23
 
 ## Kurulum
@@ -33535,10 +33535,10 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 Kaynak: Komutlar n8n resmî README’sinden 24 Ağustos 2026’da kontrol edildi; editör 5678 portunda açılır.
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 206.332 → 206.409, son sürüm n8n@2.41.5 (1 Ekim 2026).
 - 30 Eylül 2026: Yıldız 206.248 → 206.332, son sürüm n8n@2.41.4 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 206.058 → 206.248, son sürüm n8n@2.41.3 (25 Eylül 2026).
 - 27 Eylül 2026: Yıldız 205.179 → 206.058, son sürüm n8n@2.40.7 (25 Eylül 2026).
-- 18 Eylül 2026: Yıldız 204.743 → 205.179, son sürüm n8n@2.39.8 (18 Eylül 2026).
 
 ## Bu araç ne yapar?
 
@@ -40460,16 +40460,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Twenty , teknik ekiplere iş süreçlerine göre özelleştirilebilir modern bir CRM kurma imkânı veren açık kaynaklı bir Salesforce alternatifidir . Yapay zekâ destekli iş akışlarına odaklanan bu sistemi kendi sunucunuzda barındırabilirsiniz.
 
-- ★ 57.699
+- ★ 57.768
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 57.699 → 57.768, son sürüm twenty/v2.44.0 (1 Ekim 2026).
 - 29 Eylül 2026: Yıldız 57.541 → 57.699, son sürüm twenty/v2.43.0 (28 Eylül 2026).
 - 27 Eylül 2026: Yıldız 56.924 → 57.541, son sürüm sdk/v2.41.0 (23 Eylül 2026).
 - 17 Eylül 2026: Yıldız 56.792 → 56.924, son sürüm twenty/v2.41.0 (17 Eylül 2026).
-- 15 Eylül 2026: Yıldız 56.523 → 56.792, son sürüm twenty/v2.40.0 (15 Eylül 2026).
 
 - **Kimin için:** Kendi CRM'ini kurmak isteyen teknik ekipler 
 - **Zorluk:** İleri · self-host (geliştirici gerekir) 
@@ -41091,15 +41091,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.
 
-- ★ 54.828
+- ★ 54.919
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 54.828 → 54.919, son sürüm v0.8.103 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 54.381 → 54.828, son sürüm v0.8.101 (1 Ekim 2026).
 - 30 Eylül 2026: Yıldız 54.244 → 54.381, son sürüm v0.8.96 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 54.058 → 54.244, son sürüm v0.8.93 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 53.765 → 54.058, son sürüm v0.8.91 (29 Eylül 2026).
 
 ## Ne kazandırır?
 - HTML ve CSS ile video üretimi
@@ -42891,6 +42891,70 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanları için akıllı bellek katmanı
+
+Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor. Geçmiş etkileşimlerden çıkarım yaparak ajanların karar alma süreçlerini iyileştiren bu açık kaynaklı kütüphane, sistemlerin zamanla daha tutarlı sonuçlar üretmesini sağlıyor.
+
+- ★ 44.051
+- GitHub Trending · 2026-09-25
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 41.939 → 44.051, son sürüm v0.10.2 (29 Eylül 2026).
+- 29 Eylül 2026: Yıldız 39.425 → 41.939, son sürüm v0.10.2 (29 Eylül 2026).
+- 28 Eylül 2026: Yıldız 35.563 → 39.425, son sürüm v0.10.1 (21 Eylül 2026).
+- 27 Eylül 2026: Yıldız 30.381 → 35.563, son sürüm v0.10.1 (21 Eylül 2026).
+
+## Ne kazandırır?
+- Geçmiş etkileşimlerden öğrenen ve zamanla daha tutarlı sonuçlar üreten bellek mimarisi sunar.
+- Doğrudan bilgi hatırlamanın ötesine geçerek ajanların karar alma süreçlerini iyileştirir.
+- Python, Node.js ve Go gibi farklı diller için istemci kütüphaneleri barındırır.
+
+## Kurulum
+
+**Docker ile sunucu başlatma**
+
+```
+export OPENAI_API_KEY=sk-xxx
+
+docker run -it --pull always --name hindsight --restart unless-stopped -p 8888:8888 -p 9999:9999 \
+-e HINDSIGHT_API_LLM_API_KEY=$OPENAI_API_KEY \
+-v hindsight-data:/home/hindsight/.pg0 \
+ghcr.io/vectorize-io/hindsight:latest
+```
+
+## Çalıştırma
+
+**Python ile istemci kurma**
+
+```
+pip install hindsight-client -U # Python
+npm install @vectorize-io/hindsight-client # Node.js / TypeScript
+go get github.com/vectorize-io/hindsight/hindsight-clients/go # Go
+curl -fsSL https://hindsight.vectorize.io/get-cli | bash # CLI
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Yapay zekâ ajanımın geçmiş etkileşimlerden öğrenmesini, sadece konuşma geçmişini hatırlamakla kalmayıp zamanla daha tutarlı kararlar almasını istiyorum. Projeme bu bellek katmanını entegre etmek için gerekli sunucu kurulumunu ve istemci bağlantılarını yapılandırmama yardım et.
+
+- **Kimin için:** Yapay zekâ ajanlarının zamanla öğrenmesini ve daha tutarlı kararlar almasını isteyen geliştiriciler. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/vectorize-io/hindsight)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Memory Layer Memory Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/hindsight/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Tüm yapay zekâ modellerini tek arayüzde toplayın
 
 LibreChat, farklı yapay zekâ modellerini ve araçlarını tek bir arayüzde birleştiren açık kaynaklı bir sohbet platformu. Kullanıcıların kendi sunucularında barındırabileceği bu yazılım, model değiştirme ve çok kullanıcılı kimlik doğrulama gibi özelliklerle kişiselleştirilmiş bir yapay zekâ deneyimi sunuyor.
@@ -43146,70 +43210,6 @@ SVG Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/diagram-design/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanları için akıllı bellek katmanı
-
-Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor. Geçmiş etkileşimlerden çıkarım yaparak ajanların karar alma süreçlerini iyileştiren bu açık kaynaklı kütüphane, sistemlerin zamanla daha tutarlı sonuçlar üretmesini sağlıyor.
-
-- ★ 41.939
-- GitHub Trending · 2026-09-25
-
-## Güncelleme
-- 29 Eylül 2026: Yıldız 39.425 → 41.939, son sürüm v0.10.2 (29 Eylül 2026).
-- 28 Eylül 2026: Yıldız 35.563 → 39.425, son sürüm v0.10.1 (21 Eylül 2026).
-- 27 Eylül 2026: Yıldız 30.381 → 35.563, son sürüm v0.10.1 (21 Eylül 2026).
-- 26 Eylül 2026: Yıldız 28.397 → 30.381.
-
-## Ne kazandırır?
-- Geçmiş etkileşimlerden öğrenen ve zamanla daha tutarlı sonuçlar üreten bellek mimarisi sunar.
-- Doğrudan bilgi hatırlamanın ötesine geçerek ajanların karar alma süreçlerini iyileştirir.
-- Python, Node.js ve Go gibi farklı diller için istemci kütüphaneleri barındırır.
-
-## Kurulum
-
-**Docker ile sunucu başlatma**
-
-```
-export OPENAI_API_KEY=sk-xxx
-
-docker run -it --pull always --name hindsight --restart unless-stopped -p 8888:8888 -p 9999:9999 \
--e HINDSIGHT_API_LLM_API_KEY=$OPENAI_API_KEY \
--v hindsight-data:/home/hindsight/.pg0 \
-ghcr.io/vectorize-io/hindsight:latest
-```
-
-## Çalıştırma
-
-**Python ile istemci kurma**
-
-```
-pip install hindsight-client -U # Python
-npm install @vectorize-io/hindsight-client # Node.js / TypeScript
-go get github.com/vectorize-io/hindsight/hindsight-clients/go # Go
-curl -fsSL https://hindsight.vectorize.io/get-cli | bash # CLI
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Yapay zekâ ajanımın geçmiş etkileşimlerden öğrenmesini, sadece konuşma geçmişini hatırlamakla kalmayıp zamanla daha tutarlı kararlar almasını istiyorum. Projeme bu bellek katmanını entegre etmek için gerekli sunucu kurulumunu ve istemci bağlantılarını yapılandırmama yardım et.
-
-- **Kimin için:** Yapay zekâ ajanlarının zamanla öğrenmesini ve daha tutarlı kararlar almasını isteyen geliştiriciler. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/vectorize-io/hindsight)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Memory Layer Memory Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/hindsight/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -44639,15 +44639,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.
 
-- ★ 37.632
+- ★ 37.637
 - TypeScript
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 37.632 → 37.637, son sürüm v1.76.0 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 37.606 → 37.632, son sürüm v1.75.2 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 37.596 → 37.606, son sürüm v1.75.1 (29 Eylül 2026).
 - 29 Eylül 2026: Yıldız 37.557 → 37.596, son sürüm v1.75.0 (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 37.412 → 37.557, son sürüm v1.74.0 (25 Eylül 2026).
 
 ## Ne kazandırır?
 - Uygulamalara dinamik ve akıllı arayüzler ekler.
@@ -44799,15 +44799,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve erişim yönetimi (identity and access management) çözümleri sunuyor. Java tabanlı bu platform, merkezi kimlik doğrulama ve yetkilendirme süreçlerini standartlaştırmak için kullanılıyor.
 
-- ★ 37.077
+- ★ 37.079
 - Java
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 37.077 → 37.079, son sürüm 26.8.0 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 36.819 → 37.077, son sürüm 26.7.5 (30 Eylül 2026).
 - 17 Eylül 2026: Yıldız 36.517 → 36.819, son sürüm 26.7.4 (16 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 36.268 → 36.517, son sürüm 26.7.3 (31 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 36.028 → 36.268, son sürüm 26.7.2 (19 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kullanıcı kimlik doğrulama süreçlerini standartlaştırır.
@@ -46037,14 +46037,14 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
 
-- ★ 33.892
+- ★ 33.907
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 33.892 → 33.907, son sürüm v18.4.8 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 33.779 → 33.892, son sürüm v18.4.6 (1 Ekim 2026).
 - 29 Eylül 2026: Yıldız 33.707 → 33.779, son sürüm v18.4.4 (29 Eylül 2026).
 - 29 Eylül 2026: Yıldız 33.598 → 33.707, son sürüm v18.4.3 (29 Eylül 2026).
-- 28 Eylül 2026: Yıldız 33.565 → 33.598, son sürüm v18.4.2 (28 Eylül 2026).
 
 ## Ne kazandırır?
 - IDE özelliklerini terminale taşıyarak kod düzenleme süreçlerini otomatikleştirir.
@@ -47468,6 +47468,125 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kısıtlamasız yapay zekâ görsel ve video stüdyosu
+
+Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran açık kaynaklı bir stüdyo platformudur. Kullanıcılar, MIT lisansıyla sunulan bu yazılımı kendi sunucularında (self-hosted) çalıştırarak görsel üretim süreçlerini özgürce yönetebilirler.
+
+- ★ 29.494
+- JavaScript
+- GitHub Trending · 2026-06-28
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 28.085 → 29.494, son sürüm v2.0.0 (23 Mayıs 2026).
+- 8 Eylül 2026: Yıldız 26.697 → 28.085, son sürüm v2.0.0 (23 Mayıs 2026).
+- 20 Ağustos 2026: Yıldız 25.418 → 26.697, son sürüm v2.0.0 (23 Mayıs 2026).
+- 2 Ağustos 2026: Yıldız 21.507 → 25.418, son sürüm v2.0.0 (23 Mayıs 2026).
+
+## Ne kazandırır?
+- 200'den fazla gelişmiş yapay zekâ modeli
+- İçerik filtresi veya abonelik ücreti yok
+- Kendi bilgisayarınızda çalışma imkânı
+
+## Çalıştırma
+
+**Masaüstü uygulamasını başlatma**
+
+```
+npm run electron:dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Open-Generative-AI platformunu kullanarak, içerik filtrelerine takılmadan yüksek kaliteli görsel ve videolar oluşturmak istiyorum. Platformun sunduğu 200'den fazla model arasından, yaratıcı projelerim için en uygun olanları nasıl seçebilirim ve bu modellerin sunduğu özgür üretim imkânlarını kullanarak profesyonel bir iş akışını kendi yerel sistemimde nasıl kurgulayabilirim?
+
+- **Kimin için:** Kendi donanımı üzerinde kısıtlamasız ve özgür bir yapay zekâ görsel üretim stüdyosu kurmak isteyen içerik üreticileri ve geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/Anil-matcha/Open-Generative-AI)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Self-hosted Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/open-generative-ai/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# PDF verilerini yapay zekâya hazırlayın
+
+OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser). Java tabanlı bu proje, PDF belgelerinin erişilebilirliğini otomatikleştirerek veri işleme süreçlerini hızlandırır.
+
+- ★ 29.447
+- Java
+- GitHub Trending · 2026-06-04
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 29.384 → 29.447, son sürüm v2.5.12 (1 Ekim 2026).
+- 27 Eylül 2026: Yıldız 29.312 → 29.384, son sürüm v2.5.11 (22 Eylül 2026).
+- 18 Eylül 2026: Yıldız 29.278 → 29.312, son sürüm v2.5.10 (18 Eylül 2026).
+- 16 Eylül 2026: Yıldız 29.080 → 29.278, son sürüm v2.5.9 (16 Eylül 2026).
+
+## Ne kazandırır?
+- PDF dosyalarını yapay zekâ modelleri için Markdown, JSON veya HTML formatına dönüştürür.
+- Taranmış belgeler ve karmaşık tablolar için yüksek doğrulukta veri ayıklama sağlar.
+- Erişilebilirlik standartlarına uygun olarak PDF dosyalarını otomatik etiketler.
+
+## Kurulum
+
+**Python ile kurulum**
+
+```
+pip install -U opendataloader-pdf
+```
+
+**Hibrit mod ile kurulum**
+
+```
+pip install -U "opendataloader-pdf[hybrid]"
+```
+
+## Çalıştırma
+
+**PDF dönüştürme işlemi**
+
+```
+import opendataloader_pdf
+
+# Batch all files in one call — each convert() spawns a JVM process, so repeated calls are slow
+opendataloader_pdf.convert(
+input_path=["file1.pdf", "file2.pdf", "folder/"],
+output_dir="output/",
+format="markdown,json"
+)
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+OpenDataLoader PDF aracını kullanarak elimdeki PDF dosyalarını analiz etmek ve bunları RAG veya LLM süreçlerinde kullanabileceğim yapılandırılmış veri formatlarına (Markdown veya JSON) dönüştürmek istiyorum. Python SDK'sını kullanarak yerel bilgisayarımda çalışacak şekilde, belgelerimdeki tabloları, başlıkları ve metinleri doğru okuma sırasıyla ayıklayacak bir betik hazırlamama yardımcı olur musun? Ayrıca karmaşık sayfalar için hibrit modun nasıl aktif edileceğini ve çıktıların nasıl özelleştirileceğini adım adım açıkla.
+
+- **Kimin için:** PDF belgelerini yapay zekâ modelleri için yapılandırılmış veriye dönüştürmek isteyen geliştiriciler ve PDF erişilebilirliğini otomatize etmesi gereken kullanıcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/opendataloader-project/opendataloader-pdf)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+PDF Parser Parser SDK Markdown RAG PDF
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/opendataloader-pdf/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # C++ projeleri için hızlı günlük kaydı
 
 spdlog, C++ programlama dili için geliştirilmiş, yalnızca başlıklardan (header-only) veya derlenmiş kütüphane olarak kullanılabilen ultra hızlı bir günlük kaydı (logging) kütüphanesidir. Modern C++ standartlarını kullanarak yazılım projelerinde gecikmesiz ve yüksek performanslı çıktı yönetimi sunar.
@@ -47588,76 +47707,6 @@ Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nautilus-trader/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# PDF verilerini yapay zekâya hazırlayın
-
-OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser). Java tabanlı bu proje, PDF belgelerinin erişilebilirliğini otomatikleştirerek veri işleme süreçlerini hızlandırır.
-
-- ★ 29.384
-- Java
-- GitHub Trending · 2026-06-04
-
-## Güncelleme
-- 27 Eylül 2026: Yıldız 29.312 → 29.384, son sürüm v2.5.11 (22 Eylül 2026).
-- 18 Eylül 2026: Yıldız 29.278 → 29.312, son sürüm v2.5.10 (18 Eylül 2026).
-- 16 Eylül 2026: Yıldız 29.080 → 29.278, son sürüm v2.5.9 (16 Eylül 2026).
-- 11 Eylül 2026: Yıldız 28.879 → 29.080, son sürüm v2.5.8 (11 Eylül 2026).
-
-## Ne kazandırır?
-- PDF dosyalarını yapay zekâ modelleri için Markdown, JSON veya HTML formatına dönüştürür.
-- Taranmış belgeler ve karmaşık tablolar için yüksek doğrulukta veri ayıklama sağlar.
-- Erişilebilirlik standartlarına uygun olarak PDF dosyalarını otomatik etiketler.
-
-## Kurulum
-
-**Python ile kurulum**
-
-```
-pip install -U opendataloader-pdf
-```
-
-**Hibrit mod ile kurulum**
-
-```
-pip install -U "opendataloader-pdf[hybrid]"
-```
-
-## Çalıştırma
-
-**PDF dönüştürme işlemi**
-
-```
-import opendataloader_pdf
-
-# Batch all files in one call — each convert() spawns a JVM process, so repeated calls are slow
-opendataloader_pdf.convert(
-input_path=["file1.pdf", "file2.pdf", "folder/"],
-output_dir="output/",
-format="markdown,json"
-)
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-OpenDataLoader PDF aracını kullanarak elimdeki PDF dosyalarını analiz etmek ve bunları RAG veya LLM süreçlerinde kullanabileceğim yapılandırılmış veri formatlarına (Markdown veya JSON) dönüştürmek istiyorum. Python SDK'sını kullanarak yerel bilgisayarımda çalışacak şekilde, belgelerimdeki tabloları, başlıkları ve metinleri doğru okuma sırasıyla ayıklayacak bir betik hazırlamama yardımcı olur musun? Ayrıca karmaşık sayfalar için hibrit modun nasıl aktif edileceğini ve çıktıların nasıl özelleştirileceğini adım adım açıkla.
-
-- **Kimin için:** PDF belgelerini yapay zekâ modelleri için yapılandırılmış veriye dönüştürmek isteyen geliştiriciler ve PDF erişilebilirliğini otomatize etmesi gereken kullanıcılar içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/opendataloader-project/opendataloader-pdf)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-PDF Parser Parser SDK Markdown RAG PDF
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/opendataloader-pdf/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -47898,54 +47947,6 @@ Automatic Tagging Full Text Search Self-hostable Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/karakeep/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Kısıtlamasız yapay zekâ görsel ve video stüdyosu
-
-Open-Generative-AI, içerik filtrelemesi bulunmayan ve 200'den fazla görsel ile video oluşturma modelini (model) barındıran açık kaynaklı bir stüdyo platformudur. Kullanıcılar, MIT lisansıyla sunulan bu yazılımı kendi sunucularında (self-hosted) çalıştırarak görsel üretim süreçlerini özgürce yönetebilirler.
-
-- ★ 28.085
-- JavaScript
-- GitHub Trending · 2026-06-28
-
-## Güncelleme
-- 8 Eylül 2026: Yıldız 26.697 → 28.085, son sürüm v2.0.0 (23 Mayıs 2026).
-- 20 Ağustos 2026: Yıldız 25.418 → 26.697, son sürüm v2.0.0 (23 Mayıs 2026).
-- 2 Ağustos 2026: Yıldız 21.507 → 25.418, son sürüm v2.0.0 (23 Mayıs 2026).
-
-## Ne kazandırır?
-- 200'den fazla gelişmiş yapay zekâ modeli
-- İçerik filtresi veya abonelik ücreti yok
-- Kendi bilgisayarınızda çalışma imkânı
-
-## Çalıştırma
-
-**Masaüstü uygulamasını başlatma**
-
-```
-npm run electron:dev
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Open-Generative-AI platformunu kullanarak, içerik filtrelerine takılmadan yüksek kaliteli görsel ve videolar oluşturmak istiyorum. Platformun sunduğu 200'den fazla model arasından, yaratıcı projelerim için en uygun olanları nasıl seçebilirim ve bu modellerin sunduğu özgür üretim imkânlarını kullanarak profesyonel bir iş akışını kendi yerel sistemimde nasıl kurgulayabilirim?
-
-- **Kimin için:** Kendi donanımı üzerinde kısıtlamasız ve özgür bir yapay zekâ görsel üretim stüdyosu kurmak isteyen içerik üreticileri ve geliştiriciler içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/Anil-matcha/Open-Generative-AI)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Self-hosted Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/open-generative-ai/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -52531,15 +52532,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için geliştirilen bir yetenek paketi (agent skills) koleksiyonudur. JavaScript tabanlı bu kütüphane, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasına olanak tanır.
 
-- ★ 16.479
+- ★ 16.516
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 16.479 → 16.516, son sürüm v0.7.5 (1 Ekim 2026).
 - 29 Eylül 2026: Yıldız 16.467 → 16.479, son sürüm v0.7.4 (29 Eylül 2026).
 - 29 Eylül 2026: Yıldız 16.444 → 16.467, son sürüm v0.7.3 (29 Eylül 2026).
 - 28 Eylül 2026: Yıldız 16.399 → 16.444, son sürüm v0.7.2 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 16.043 → 16.399, son sürüm v0.6.6 (21 Eylül 2026).
 
 ## Ne kazandırır?
 - Doğal dille karmaşık CAD modelleri oluşturma
@@ -57198,6 +57199,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanlarına bilgisayar kontrolü
+
+Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların işletim sistemi üzerinde komut çalıştırmasına ve dosya sistemine erişerek karmaşık görevleri otomatize etmesine olanak tanıyor.
+
+- ★ 9.339
+- TypeScript
+- GitHub Trending · 2026-08-06
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 9.221 → 9.339, son sürüm @cloudflare/computer@0.3.2 (1 Ekim 2026).
+- 19 Eylül 2026: Yıldız 9.162 → 9.221, son sürüm @cloudflare/computer@0.3.1 (18 Eylül 2026).
+- 12 Eylül 2026: Yıldız 8.393 → 9.162, son sürüm @cloudflare/computer@0.3.0 (11 Eylül 2026).
+- 18 Ağustos 2026: Yıldız 7.642 → 8.393, son sürüm @cloudflare/computer@0.2.1 (17 Ağustos 2026).
+
+## Ne kazandırır?
+- Ajanların işletim sistemi üzerinde komut çalıştırmasını sağlar
+- Dosya sistemine erişerek karmaşık görevleri otomatize eder
+- Konteyner veya izole edilmiş çalışma ortamları sunar
+
+## Nasıl başlanır?
+
+Bu aracı kullanmaya başlamak için öncelikle Cloudflare Computer paketini projenize dahil etmeniz gerekir. Kurulum adımları, giriş noktası haritası ve dosya sistemi kullanımıyla ilgili örnekler için GitHub deposundaki packages/computer dizininde yer alan README dosyasını inceleyebilirsiniz.
+- [Resmî kaynak →](https://github.com/vercel-labs/just-bash)
+
+- **Kimin için:** Yapay zekâ ajanlarına yerel veya uzak bilgisayarlar üzerinde dosya yönetimi ve komut çalıştırma yeteneği kazandırmak isteyen geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/cloudflare/computer)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/computer/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Sade ve hızlı proje yönetimi
 
 Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır. TypeScript ile yazılan platform, karmaşıklıktan arındırılmış iş akışları oluşturmayı hedefler.
@@ -57260,48 +57303,6 @@ Project Management Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kaneo/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanlarına bilgisayar kontrolü
-
-Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların işletim sistemi üzerinde komut çalıştırmasına ve dosya sistemine erişerek karmaşık görevleri otomatize etmesine olanak tanıyor.
-
-- ★ 9.221
-- TypeScript
-- GitHub Trending · 2026-08-06
-
-## Güncelleme
-- 19 Eylül 2026: Yıldız 9.162 → 9.221, son sürüm @cloudflare/computer@0.3.1 (18 Eylül 2026).
-- 12 Eylül 2026: Yıldız 8.393 → 9.162, son sürüm @cloudflare/computer@0.3.0 (11 Eylül 2026).
-- 18 Ağustos 2026: Yıldız 7.642 → 8.393, son sürüm @cloudflare/computer@0.2.1 (17 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 7.441 → 7.642, son sürüm @cloudflare/computer@0.2.0 (11 Ağustos 2026).
-
-## Ne kazandırır?
-- Ajanların işletim sistemi üzerinde komut çalıştırmasını sağlar
-- Dosya sistemine erişerek karmaşık görevleri otomatize eder
-- Konteyner veya izole edilmiş çalışma ortamları sunar
-
-## Nasıl başlanır?
-
-Bu aracı kullanmaya başlamak için öncelikle Cloudflare Computer paketini projenize dahil etmeniz gerekir. Kurulum adımları, giriş noktası haritası ve dosya sistemi kullanımıyla ilgili örnekler için GitHub deposundaki packages/computer dizininde yer alan README dosyasını inceleyebilirsiniz.
-- [Resmî kaynak →](https://github.com/vercel-labs/just-bash)
-
-- **Kimin için:** Yapay zekâ ajanlarına yerel veya uzak bilgisayarlar üzerinde dosya yönetimi ve komut çalıştırma yeteneği kazandırmak isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/cloudflare/computer)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/computer/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -57689,15 +57690,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor. Farklı ajan sağlayıcıları arasında veri aktarımını kolaylaştırarak yazılım geliştirme süreçlerinde kullanılan komut satırı arayüzlerinin (CLI) sürekliliğini destekliyor.
 
-- ★ 8.679
+- ★ 8.683
 - Rust
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 8.679 → 8.683, son sürüm v2.5.2 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 8.638 → 8.679, son sürüm v2.5.0 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 8.465 → 8.638, son sürüm v2.4.2 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 7.088 → 8.465, son sürüm v2.4.1 (25 Eylül 2026).
-- 18 Eylül 2026: Yıldız 7.050 → 7.088, son sürüm v2.3.1 (17 Eylül 2026).
 
 ## Ne kazandırır?
 - Farklı yapay zekâ ajanları arasında bağlamı korur
@@ -62862,10 +62863,11 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.
 
-- ★ 3.999
+- ★ 4.006
 - GitHub Trending · 2026-09-20
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 3.999 → 4.006, son sürüm v0.3.24 (1 Ekim 2026).
 - 30 Eylül 2026: Yıldız 3.958 → 3.999, son sürüm v0.3.22 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 3.816 → 3.958, son sürüm v0.3.21 (22 Eylül 2026).
 

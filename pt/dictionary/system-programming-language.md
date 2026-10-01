@@ -1,25 +1,34 @@
 # O que é System Programming Language?
 
-É uma linguagem poderosa usada para desenvolver software de nível básico, como sistema operacional ou driver de hardware.
+Linguagem de programação de sistemas (com o equivalente em turco sistem programlama dili) são linguagens que conversam com o hardware.
 
-## Definição
-São linguagens que podem se comunicar diretamente com o hardware do computador e fornecer controle total sobre o gerenciamento de memória. Eles são muito rápidos, mas menos tolerantes em cometer erros.
+## Definição e origem da palavra
+Ela oferece controle total no gerenciamento de memória, roda rapidamente e tem pouca tolerância a erros. C, C++ e Rust são exemplos conhecidos. Sistemas operacionais, drivers e motores de jogos são escritos com essas linguagens.
 
-## Como funciona
-Essas linguagens permitem que você gerencie nos mínimos detalhes como o hardware funciona.
+## Como conhecer e usar no dia a dia?
+Sistema operacional: Kernel e drivers.Jogo: Núcleo do motor.Apresentador: Serviços de alto tráfego.
 
-## Onde é usado
-É utilizado em sistemas operacionais (Windows, Linux), motores de jogos e servidores de alto desempenho.
+## Profundidade Técnica e Arquitetura
+Recursos:
 
-## Costuma ser confundido com
-Não deve ser confundido com linguagens da web; Embora as linguagens da web lidem mais com a interface do usuário, elas lidam com o hardware.
+## Coisas frequentemente misturadas
+Acreditam que são linguagens web. Elas cuidam da interface, estas do hardware. Uma é a vitrine, a outra é o motor.
 
-## Perguntas frequentes
-**Quais idiomas se enquadram nesta categoria?**
-C, C++ e Rust são os exemplos mais conhecidos.
+## Use em diferentes disciplinas
+Motor: Mecânica, não lataria.Fundação: A estrutura de suporte do edifício.Esqueleto: A estrutura do corpo.
 
-**Por que nem todo mundo usa essas linguagens?**
-É difícil de aprender e requer uma codificação muito cuidadosa.
+## Perguntas Frequentes
+**Quais estão incluídos?**
+C, C++ e Rust são os mais conhecidos. Go e Zig também se aproximam dessa classe.
+
+**Por que nem todo mundo usa?**
+É difícil de aprender e exige atenção. Há um custo em termos de eficiência.
+
+**Por qual se deve começar?**
+Rust é moderno e orientador. C é um clássico para construir fundações.
+
+**É possível escrever para a web?**
+É possível, mas não é prático. O trabalho certo é feito com a linguagem certa.
 
 
 ## Termos relacionados

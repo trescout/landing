@@ -1,35 +1,45 @@
 # Qu'est-ce que Workflows ?
 
-Il s'agit d'une séquence ordonnée et logique d'étapes qu'un travail suit du début à la fin.
+Workflow (en français, flux de travail) est une séquence d'étapes ordonnée pour accomplir une tâche.
 
-## Définition
-Les workflows sont une feuille de route qui détermine ce que vous devez faire et dans quel ordre lors de l'exécution d'une tâche. Ces processus divisent les tâches complexes en petites parties gérables. Un flux de travail correctement conçu réduit les erreurs et augmente l’efficacité.
+## Définition et origine du mot
+Flow signifie flux. Les étapes menant à l'objectif sont mises en séquence, le travail complexe est divisé en petites parties. Un flux correct réduit les erreurs et augmente la vitesse.
 
-## Comment ça marche
-Vous déterminez d’abord l’objectif du travail à effectuer. Ensuite, vous notez les étapes nécessaires pour atteindre cet objectif, dans l’ordre. Enfin, vous terminez le travail en automatisant ou en suivant manuellement ces étapes.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Développement: Pipeline de revue de code.Support : Système de traitement des tickets.Bureau : Chaîne d'approbation.
 
-## Où est-ce utilisé
-Il est fréquemment utilisé dans les processus de développement de logiciels, les systèmes de support client ou le travail de bureau quotidien.
+## Profondeur technique et architecture
+Description du flux :
 
-## Souvent confondu avec
-Il est souvent confondu avec « pipeline » ; Cependant, alors que le workflow est un concept plus général, le pipeline fait référence à des flux de données plus techniques.
+## Choses fréquemment mélangées
+C'est considéré comme un pipeline. Le pipeline est un flux de données technique, le workflow est un ordre de travail plus général. Chaque pipeline est considéré comme un workflow, mais l'inverse n'est pas nécessairement vrai.
 
-## Questions fréquentes
-**Pourquoi devrais-je automatiser les flux de travail ?**
-L'automatisation des tâches répétitives réduit la marge d'erreur et vous fait gagner du temps.
+## Utilisation dans différentes disciplines
+Recette : Préparation, cuisson et service.Assemblage : Séquence des pièces.Comptoir : Enregistrement et routage.
+
+## Foire aux questions
+**Pourquoi automatiser ?**
+La répétition génère des erreurs et consomme du temps. L'automatisation réduit les deux.
 
 **Les flux de travail peuvent-ils changer ?**
-Oui, il est recommandé de mettre à jour les flux de travail et de les rendre plus efficaces à mesure que les besoins évoluent.
+Oui. Il est mis à jour au fur et à mesure que les besoins changent et sa version est conservée.
+
+**Par où commencer ?**
+À partir de la tâche la plus répétitive. Les étapes sont écrites et l'une d'entre elles est automatisée.
+
+**Un outil est-il indispensable ?**
+Non. Une liste papier est aussi un flux. Lorsque le volume augmente, un outil devient nécessaire.
 
 
 ## Termes liés
 - [Pipeline](/fr/dictionary/pipeline/)
-- [Pipelines](/fr/dictionary/pipeline/)
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
+- [CI-CD](/fr/dictionary/ci-cd/)
 
 ## Outils liés
 - [Gstack](/fr/discover/gstack/)
 - [MinerU](/fr/discover/mineru/)
+- [Trivy](/fr/discover/trivy/)
 - [Modly](/fr/discover/modly/)
 
 ---

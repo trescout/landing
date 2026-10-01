@@ -1,31 +1,40 @@
 # ¿Qué es Benchmark?
 
-Es un método para medir el rendimiento de un software o hardware con pruebas estándar y compararlo con otros.
+Un benchmark (con su equivalente en español, prueba de rendimiento) es la medición y comparación del desempeño mediante una prueba estándar.
 
-## Definición
-Un punto de referencia es una unidad de medida utilizada para comprender qué tan rápido, inteligente o eficiente es un sistema. Revela numéricamente quién obtiene mejores resultados al someter diferentes modelos o computadoras a las mismas preguntas desafiantes. De esta forma, podrás elegir cuál es más adecuado para tu negocio.
+## Definición y origen de la palabra
+"Benchmark" proviene de la marca de medida que hace el carpintero en el banco de trabajo. El sistema se somete a las mismas preguntas y se genera una tabla de puntuaciones. Es el número de la velocidad, la inteligencia o la eficiencia. Todo, desde el modelo hasta el procesador, entra en esta balanza.
 
-## Cómo funciona
-Al sistema se le asigna un conjunto predeterminado de tareas y se registra el tiempo o la tasa de precisión para completar esta tarea. Los resultados se convierten en una tabla de clasificación.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Modelo: Clasificación de inteligencia y precisión.Procesador: Comparación de velocidad.Juego: Pruebas de velocidad de fotogramas.
 
-## Dónde se usa
-Se utiliza para medir la inteligencia de modelos de inteligencia artificial, comparar velocidades de procesador y determinar el rendimiento gráfico de juegos.
+## Profundidad técnica y arquitectura
+Reglas de una comparación saludable:
 
-## Suele confundirse con
-Se mezcla con la masa; Las pruebas comprueban si algo funciona, mientras que la evaluación comparativa compara qué tan bien funciona.
+## Cosas frecuentemente mezcladas
+Se confunde con una prueba. Una prueba comprueba si funciona, un benchmark evalúa qué tan bueno es. Uno es una puerta, el otro es una competición.
+
+## Uso en diferentes disciplinas
+Examen: Clasificación justa con la misma pregunta.Atletismo: Tabla de récords.Carpintero: Marca de medida en el banco de trabajo.
 
 ## Preguntas frecuentes
-**¿Es siempre buena una puntuación de referencia alta?**
-Generalmente sí, pero las pruebas comparativas a veces no reflejan con precisión el uso en el mundo real.
+**¿Es siempre buena una puntuación alta?**
+Por lo general, sí, pero si la prueba no refleja la realidad, la puntuación engaña. Se busca variedad de escenarios.
 
-**¿Debo confiar en los resultados de las pruebas comparativas?**
-Sí, pero es mejor observar los resultados generales que incluyen diferentes escenarios, no solo una prueba única.
+**¿Son confiables los resultados?**
+No se mira una sola prueba, sino un panorama de múltiples escenarios. Se prefieren conjuntos con control de fugas.
+
+**¿Qué es la fuga de datos?**
+Es cuando las preguntas de la prueba se mezclan con el entrenamiento. El modelo memoriza, la puntuación se infla y el rendimiento real cae.
+
+**¿Qué métrica se debe observar?**
+Varía según la tarea: la precisión, la velocidad y el costo se leen juntos. Uno solo no es suficiente.
 
 
 ## Términos relacionados
-- [Benchmarks](/es/dictionary/benchmark/)
 - [AI Models](/es/dictionary/ai-models/)
 - [Inference](/es/dictionary/inference/)
+- [KV Cache](/es/dictionary/kv-cache/)
 
 ## Herramientas relacionadas
 - [Ponytail](/es/discover/ponytail/)

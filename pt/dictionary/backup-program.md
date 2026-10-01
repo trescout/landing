@@ -1,22 +1,31 @@
 # O que é Backup Program?
 
-É um software que evita a perda de seus dados digitais fazendo uma cópia deles.
+Um programa de backup (correspondente a yedekleme programı em turco) é um software que copia dados regularmente.
 
-## Definição
-Os programas de backup copiam periodicamente arquivos importantes do seu computador ou servidor para outro local. Ele permite que você recupere seus dados em casos como falha de hardware, ataque cibernético ou exclusão acidental. É a pedra angular de uma vida digital segura.
+## Definição e origem da palavra
+Backup significa cópia de segurança. Os arquivos são copiados periodicamente para outro local. Em caso de falha, ataque ou exclusão, é possível restaurá-los. É a base de uma vida digital segura.
 
-## Como funciona
-Você instala o programa, escolhe as pastas e a frequência para fazer backup. O software é executado em segundo plano e copia seus dados nos horários que você especificar.
+## Como conhecer e usar no dia a dia?
+Pessoal: Backup de fotos e documentos.Apresentador: Cópia automática noturna.Nuvem: Sincronização de contas.
 
-## Onde é usado
-É usado em computadores pessoais, servidores corporativos e sistemas de armazenamento em nuvem.
+## Profundidade Técnica e Arquitetura
+Tipos:
 
-## Perguntas frequentes
-**Por que o backup é importante?**
-No mundo digital, a perda de dados é muitas vezes um desastre irreversível.
+## Use em diferentes disciplinas
+Fotocópia: Cópia guardada no cofre.Cofre: Armazenamento de documentos valiosos.Seguro: Cobertura contra desastres.
 
-**Onde devo comprar peças sobressalentes?**
-O ideal é que os backups sejam mantidos em um local fisicamente diferente do dispositivo original (nuvem ou disco externo).
+## Perguntas Frequentes
+**Por que isso é importante?**
+A perda geralmente é irreversível. O backup reduz o custo do erro.
+
+**Onde deve ser feito?**
+Em um local separado do original: Nuvem ou disco externo. O mesmo disco não conta como backup.
+
+**Com que frequência deve ser feito?**
+Dependendo da velocidade de alteração. Diariamente para trabalhos diários, ou mesmo de hora em hora para linhas críticas.
+
+**É testado?**
+Sim. Um backup não passa confiança se a restauração não for testada.
 
 
 ## Termos relacionados

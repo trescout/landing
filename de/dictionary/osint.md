@@ -2,26 +2,35 @@
 
 > Open Source Intelligence
 
-Dabei handelt es sich um eine Methode zum Sammeln und Analysieren von Informationen aus öffentlich zugänglichen Quellen im Internet.
+OSINT (Open Source Intelligence, Open-Source-Intelligenz) ist die Disziplin der Analyse öffentlich zugänglicher Informationen.
 
-## Definition
-Sie sammeln Daten von öffentlich zugänglichen Orten wie sozialen Medien, Nachrichtenseiten oder öffentlichen Aufzeichnungen, ohne auf verdeckte Methoden zurückzugreifen. Durch die Kombination dieser Daten gelangen Sie zu aussagekräftigen Ergebnissen. Es wird nicht verwendet, um auf Informationen zuzugreifen, sondern um die erhaltenen Informationen zu verstehen.
+## Definition und Wortherkunft
+Es werden keine verdeckten Wege beschritten: Soziale Medien, Nachrichten und öffentliche Aufzeichnungen werden durchsucht und kreuzverifiziert. Die Kunst liegt nicht im Zugriff, sondern in der Sinnfindung.
 
-## So funktioniert es
-Sammeln Sie Daten zum relevanten Thema mithilfe von Suchmaschinen, Social-Media-Tools und öffentlichen Datenbanken und überprüfen Sie diese Daten durch Kreuzverhör.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Sicherheit: Leck- und Spurverfolgung.Journalismus: Quellenverifizierung.Markt: Wettbewerberbeobachtung.
 
-## Wo es eingesetzt wird
-Es wird häufig in den Bereichen Cybersicherheit, Journalismus und Marktforschung eingesetzt.
+## Technische Tiefe und Architektur
+Kreislauf:
 
-## Häufig verwechselt mit
-Es kann mit Hacking oder Infiltration verwechselt werden, basiert aber auf völlig legalen und offenen Quellen.
+## Häufig gemischte Dinge
+Wird oft für Hacking gehalten. Der eine bricht ein, der andere liest. Einer bricht Türen auf, der andere arbeitet in der Bibliothek.
 
-## Häufige Fragen
-**Ist OSINT legal?**
-Ja, es ist völlig legal, da Sie lediglich öffentlich zugängliche Informationen verwenden.
+## Einsatz in verschiedenen Disziplinen
+Bibliothek: Ergebnisse aus Tausenden von Büchern.Detektiv: Spurensuche.Archäologie: Vom Teil zum Ganzen.
 
-**Welche Werkzeuge werden verwendet?**
-Einfache Tools wie Google-Suchen, Social-Media-Browser und Kartendienste reichen aus.
+## Häufig gestellte Fragen
+**Ist es legal?**
+Solange wir uns auf Open Source beschränken, ja. Unbefugter Zugriff ist eine Straftat.
+
+**Welche Werkzeuge?**
+Eine Suchmaschine, eine Karte und Social Scans reichen aus. Der Experte führt die Daten zusammen.
+
+**Wo soll ich anfangen?**
+Mit einer einzigen Frage und einer Quellenliste. Man gewöhnt sich die Gewohnheit der Verifizierung an.
+
+**Wo liegt die Grenze?**
+Private Daten und unbefugtes Profiling sind verboten. Eine zweckfremde Verarbeitung findet nicht statt.
 
 
 ## Verwandte Begriffe

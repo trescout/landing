@@ -1,19 +1,31 @@
 # Was ist Service Mesh?
 
-Dabei handelt es sich um eine Infrastrukturschicht, die es verschiedenen Diensten ermöglicht, in komplexen Softwaresystemen sicher und regelmäßig miteinander zu kommunizieren.
+Ein Service Mesh ist die unsichtbare Infrastrukturschicht, die den Datenverkehr von Microservices verwaltet.
 
-## Definition
-In einem System, das aus Hunderten kleiner Teile besteht, ist es für diese Teile schwierig, einander zu finden und sicher zu kommunizieren. Service Mesh ist ein unsichtbares Netzwerk, das diese Kommunikation verwaltet, den Datenverkehr reguliert und wie eine Firewall funktioniert.
+## Definition und Wortherkunft
+In Systemen mit Hunderten von Komponenten ist es schwierig, dass sich die Teile gegenseitig finden und sicher miteinander kommunizieren. Das Service Mesh steuert die Kommunikation, regelt den Datenverkehr und sorgt für Sicherheit. Es wendet Netzwerkrichtlinien an, ohne den Code zu berühren.
 
-## So funktioniert es
-Neben Ihrer Anwendung wird ein kleines Dienstprogramm platziert. Die gesamte Kommunikation läuft über dieses Tool, sodass Sie den Datenverkehr verwalten können, ohne Ihren Hauptcode zu ändern.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Cloud: Große Anwendungen mit Microservices.Bank: Service-Traffic mit strenger Sicherheit.E-Commerce: Bestellpipeline unter Kampagnenlast.
 
-## Wo es eingesetzt wird
-Es wird in großen Cloud-Anwendungen mit Microservices-Architektur eingesetzt.
+## Technische Tiefe und Architektur
+Teile:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Flughafen: Der Turm, der Kollisionen von Flugzeugen verhindert.Verkehr: Ein Signalnetzwerk, das den Fluss regelt.Post: Das Verteilerzentrum, das die Sendung trennt.
+
+## Häufig gestellte Fragen
 **Ist es für jedes Projekt notwendig?**
-Nein, es wird nur benötigt, um die Komplexität in großen Systemen mit vielen Teilen zu verwalten.
+Nein. Bei Systemen mit wenigen Diensten bringt es zusätzlichen Aufwand. Es ergibt erst Sinn, wenn die Komplexität zunimmt.
+
+**Wie hoch sind die Kosten?**
+Es fügt Speicher und Latenz pro Proxy hinzu. Dies ist der Preis, der für den Gewinn an Beobachtbarkeit gezahlt wird.
+
+**Ist Kubernetes zwingend erforderlich?**
+Nein, aber sie werden meistens zusammen verwendet. Es gibt auch Versionen, die auf virtuellen Maschinen laufen.
+
+**Ersetzt es ein API-Gateway?**
+Nein. Das Gateway ist das Eingangstor, das Mesh ist der interne Datenverkehr. Die beiden arbeiten zusammen.
 
 
 ## Verwandte Begriffe

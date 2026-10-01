@@ -2,25 +2,35 @@
 
 > Computer Vision
 
-Technology that allows computers to analyze digital images and videos to understand objects or situations within them.
+CV (Computer Vision), is the technology that makes sense of objects in images and video.
 
-## Overview
-This technology allows a computer to see like a human eye and interpret what it sees. For example, it can analyze the identity of the person in a photo or the traffic flow in a video. It is a fundamental ability that helps AI perceive the world visually.
+## Definition and Word Origin
+It is the computer seeing like the human eye and interpreting what it sees. Identifying who a person in a photo is or analyzing traffic flow in a video are subjects of this field. It is the visually perceptive arm of artificial intelligence.
 
-*Analogy: It's like a baby learning to recognize objects around him; The computer is taught to understand what is what by showing thousands of pictures.*
+## How to Know and Use in Daily Life?
+Security: Motion detection in camera footage.Autonomous vehicle: Lane and pedestrian detection.Healthcare: X-ray pre-examination.Retail: Shelf counting and checkout monitoring.
 
-## How it works
-It converts the color and shape data in the image into mathematical numbers. It recognizes patterns and classifies objects through these numbers.
+## Technical Depth and Architecture
+Tasks:
 
-## Where it is used
-It is used in security cameras, autonomous vehicles and facial recognition systems.
+## Frequently Mixed Things
+It is thought to be image processing. That organizes, this makes sense of it. It is also confused with CV meaning curriculum vitae: This page is about the technology term, the job application document is a different subject.
 
-## Commonly confused with
-It can be confused with image processing, but this is not just editing images, it is giving meaning.
+## Use in Different Disciplines
+Baby: Learning by seeing objects over and over.Security: Vigil duty in front of the monitor.Quality line: Sorting out defective products.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Does it analyze only photographs?**
-No, it can also handle video streams and live images instantly.
+No. Video and live streaming are also processed, looked at frame by frame.
+
+**Doesn't CV mean résumé?**
+The word is the same, the subject is different. The résumé meaning belongs to the business world, this page's meaning belongs to imaging technology.
+
+**How is it learned?**
+You start with a small project using Python and OpenCV. Pre-trained models are fine-tuned.
+
+**Is hardware required?**
+A CPU is sufficient for testing. A GPU is required for training and heavy live models.
 
 
 ## Related terms

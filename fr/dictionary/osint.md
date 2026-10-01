@@ -2,26 +2,35 @@
 
 > Open Source Intelligence
 
-Il s'agit d'une méthode de collecte et d'analyse d'informations provenant de sources accessibles au public sur Internet.
+L'OSINT (Open Source Intelligence, ou renseignement d'origine sources ouvertes) est la discipline qui consiste à analyser des informations accessibles à tous.
 
-## Définition
-Vous collectez des données à partir de lieux accessibles au public, tels que les réseaux sociaux, les sites d'information ou les archives publiques, sans recourir à des méthodes secrètes. En combinant ces données, vous obtenez des résultats significatifs. Il n’est pas utilisé pour accéder à des informations, mais pour donner un sens aux informations obtenues.
+## Définition et origine du mot
+Pas de méthodes clandestines : les réseaux sociaux, les actualités et les registres publics sont parcourus et recoupés. Le talent ne réside pas dans l'accès, mais dans la mise en perspective.
 
-## Comment ça marche
-Collectez des données sur le sujet pertinent à l'aide de moteurs de recherche, d'outils de médias sociaux et de bases de données publiques et vérifiez ces données par contre-interrogatoire.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Sécurité : Fuites et suivi des traces.Journalisme : Vérification des sources.Marché : Surveillance des concurrents.
 
-## Où est-ce utilisé
-Il est largement utilisé dans les domaines de la cybersécurité, du journalisme et des études de marché.
+## Profondeur technique et architecture
+Cycle :
 
-## Souvent confondu avec
-Il peut être confondu avec du piratage ou de l’infiltration, mais il repose sur des sources totalement légales et ouvertes.
+## Choses fréquemment mélangées
+Souvent confondu avec le piratage. L'un s'immisce, l'autre lit. L'un force une porte, l'autre travaille en bibliothèque.
 
-## Questions fréquentes
-**L'OSINT est-il légal ?**
-Oui, c’est tout à fait légal puisque vous utilisez simplement des informations accessibles au public.
+## Utilisation dans différentes disciplines
+Bibliothèque : Résultats issus de milliers de livres.Détective : Suivi de piste.Archéologie : De la partie au tout.
 
-**Quels outils sont utilisés ?**
-Des outils de base comme les recherches Google, les navigateurs de réseaux sociaux et les services de cartographie suffisent.
+## Foire aux questions
+**Est-ce légal ?**
+Tant que l'on se limite aux sources ouvertes, oui. L'accès non autorisé est un délit.
+
+**Quels outils ?**
+Un moteur de recherche, une carte et le ratissage des réseaux sociaux suffisent. L'expert combine les données.
+
+**Par où commencer ?**
+Avec une seule question et une liste de sources. L'habitude de la vérification s'acquiert.
+
+**Quelle est la limite ?**
+Les données privées et le profilage non autorisé sont interdits. Aucun traitement hors finalité n'est effectué.
 
 
 ## Termes liés

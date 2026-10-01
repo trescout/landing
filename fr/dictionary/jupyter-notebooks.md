@@ -1,30 +1,35 @@
 # Qu'est-ce que Jupyter Notebooks ?
 
-Il s'agit d'un environnement de travail interactif dans lequel vous pouvez prendre des notes tout en écrivant du code et voir les résultats instantanément.
+Jupyter Notebook est un environnement informatique open source qui combine l'exécution de code en direct dans des langages tels que Python, R et Julia, du texte enrichi, des formules mathématiques et des visualisations de données dans un seul document Web interactif.
 
-## Définition
-Jupyter Notebooks collecte des lignes de code, des graphiques et des commentaires sur une seule page. C'est comme un laboratoire pour les data scientists ; Vous écrivez un code et l’exécutez, vous voyez le résultat juste en dessous. Il est ainsi beaucoup plus facile de faire des essais et des erreurs et de partager les résultats avec d’autres.
+## Naissance, philosophie et programmation littéraire
+Les notebooks Jupyter sont le lieu de travail de facto pour la science des données moderne, l'apprentissage automatique et la recherche universitaire. Le projet Jupyter, un framework indépendant, est né en 2014 comme une évolution du projet IPython (Interactive Python) lancé par Fernando Perez en 2001.
 
-## Comment ça marche
-Cela fonctionne sur le navigateur. Vous créez des blocs de code, appuyez sur « exécuter » et le résultat apparaît juste en dessous.
+## Architecture système : client, serveur et noyau
+Le moteur Jupyter fonctionne sur une architecture à trois couches faiblement couplée :
 
-## Où est-ce utilisé
-L’analyse des données est standard dans l’enseignement de l’intelligence artificielle et les études universitaires.
-
-## Souvent confondu avec
-Ce n'est pas seulement un éditeur de code, c'est un système de documents qui visualise et rapporte les données.
+## La puissance de la science des données et les pièges du génie logiciel
 
 ## Questions fréquentes
-**Est-il nécessaire de connaître le codage ?**
-Oui, vous devez utiliser des langages comme Python, mais ils sont parfaits pour visualiser des données même à un niveau très basique.
+**Que signifie Jupyter Notebook et d’où vient sa signification ?**
+Nom Jupyter ; Julia est dérivée des premières lettres des langages de programmation Python et R et d'une référence aux notes d'observation de Jupiter de l'astronome Galilée. Il s'agit d'un cahier interactif avec du code en direct et du texte enrichi.
 
-**Qui l'utilise ?**
-Scientifiques des données, chercheurs et développeurs d’IA.
+**Quelle est la différence entre Jupyter Notebook et un fichier Python standard (.py) ?**
+Les fichiers .py sont des codes de texte pur qui sont compilés et exécutés en un seul morceau du début à la fin. .ipynb, quant à lui, est une structure JSON qui peut exécuter le code dans des cellules segmentées et stocker les sorties, les tableaux et les graphiques directement sous le code.
+
+**Quelle est la relation entre Google Colab et Jupyter Notebook ?**
+Google Colab est une variante cloud propriétaire de l'infrastructure Jupyter Notebook qui s'exécute sur le cloud Google, offre une accélération matérielle GPU et TPU gratuite et ne nécessite aucune installation.
+
+**Comment garantir un code propre et un contrôle de version dans Jupyter Notebook ?**
+La meilleure approche consiste à effacer les sorties des cellules (Effacer toutes les sorties) avant d'envoyer les codes au référentiel, à réexécuter les cellules séquentiellement de haut en bas et à rendre le format de fichier versionnable avec des outils tels que jupytext.
 
 
 ## Termes liés
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
 - [Markdown](/fr/dictionary/markdown/)
+- [Runtime](/fr/dictionary/runtime/)
+- [Apple Silicon](/fr/dictionary/apple-silicon/)
+- [Tech Stack](/fr/dictionary/tech-stack/)
 
 ## Outils liés
 - [Generative AI for Beginners](/fr/discover/generative-ai-for-beginners/)

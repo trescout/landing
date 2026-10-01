@@ -1,19 +1,31 @@
 # Was ist Testing Framework?
 
-Dabei handelt es sich um eine Reihe vorgefertigter Tools, mit denen Sie regelmäßig, schnell und einfach Softwaretests schreiben und ausführen können.
+Ein Testing-Framework (als Entsprechung im Türkischen Test çatısı genannt) ist eine fertige Infrastruktur zum Schreiben und Ausführen von Tests.
 
-## Definition
-Es handelt sich um eine Bibliothek, die Ihnen vorgefertigte Regeln und Strukturen bietet, anstatt beim Schreiben von Tests ständig die gleichen Codes schreiben zu müssen. Es meldet die Ergebnisse von Tests, weist auf Fehler hin und standardisiert den Prozess. Es handelt sich um ein Hilfstoolset, das die Arbeit von Softwareentwicklern erleichtert.
+## Definition und Wortherkunft
+Ein Framework bedeutet ein Grundgerüst. Statt jeden Befehl einzeln zu schreiben, sind Regeln und ein Runner bereits vorhanden. Das Ergebnis wird protokolliert, Fehler werden markiert. Das Testlayout wird standardisiert.
 
-## So funktioniert es
-Sie binden dieses Tool in Ihr Projekt ein und schreiben Ihre Tests mit den Befehlen, die es Ihnen bietet. Das Tool führt Ihre Tests automatisch durch und listet auf, welche Tests bestanden oder nicht bestanden wurden.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Entwicklung: Ein Set, das bei jedem Commit ausgeführt wird.CI: Das Qualitätstor in der Pipeline.Release: Scan vor der Veröffentlichung.
 
-## Wo es eingesetzt wird
-Es wird in Softwareentwicklungsprojekten eingesetzt, insbesondere in Systemen, die ständig aktualisiert werden.
+## Technische Tiefe und Architektur
+Teile:
 
-## Häufige Fragen
-**Welches Framework soll ich wählen?**
-Normalerweise ist es am besten, die beliebteste auszuwählen, basierend auf der von Ihnen verwendeten Programmiersprache und den Anforderungen des Projekts.
+## Einsatz in verschiedenen Disziplinen
+Werkzeugkasten: Das richtige Werkzeug für die Arbeit.Messgerätesatz: Kalibrierte Instrumente.Fitnessstudio: Programmierter Gerätesatz.
+
+## Häufig gestellte Fragen
+**Welches soll gewählt werden?**
+Dasjenige, das für Sprache und Bedarf am beliebtesten ist. Wartung und Dokumentation sind ausschlaggebend.
+
+**Wann wird es geschrieben?**
+Zusammen mit dem Code. Tests, die auf später verschoben werden, bleiben unvollständig.
+
+**Was ist der Unterschied zu E2E?**
+Unit-Tests testen Einzelteile, End-to-End-Tests testen den gesamten Ablauf. Beide werden zusammen verwendet.
+
+**Was ist das Abdeckungsziel?**
+Es wird vom Team festgelegt. Kritische Pfade werden hoch und Randfälle niedrig gehalten.
 
 
 ## Verwandte Begriffe

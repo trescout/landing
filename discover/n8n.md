@@ -2,7 +2,7 @@
 
 n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 
-- ★ 206.332
+- ★ 206.409
 - GitHub Trending · 2026-08-23
 
 ## Kurulum
@@ -24,10 +24,10 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 Kaynak: Komutlar n8n resmî README’sinden 24 Ağustos 2026’da kontrol edildi; editör 5678 portunda açılır.
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 206.332 → 206.409, son sürüm n8n@2.41.5 (1 Ekim 2026).
 - 30 Eylül 2026: Yıldız 206.248 → 206.332, son sürüm n8n@2.41.4 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 206.058 → 206.248, son sürüm n8n@2.41.3 (25 Eylül 2026).
 - 27 Eylül 2026: Yıldız 205.179 → 206.058, son sürüm n8n@2.40.7 (25 Eylül 2026).
-- 18 Eylül 2026: Yıldız 204.743 → 205.179, son sürüm n8n@2.39.8 (18 Eylül 2026).
 
 ## Bu araç ne yapar?
 

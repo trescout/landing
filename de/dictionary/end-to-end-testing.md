@@ -2,23 +2,35 @@
 
 > E2E Testing
 
-Dabei handelt es sich um die Überprüfung des gesamten Betriebs einer Anwendung von Anfang bis Ende, genau wie bei einem echten Benutzer.
+End-to-End-Testing (kurz E2E-Test) ist das Testen der Anwendung von Anfang bis Ende wie ein echter Benutzer.
 
-## Definition
-Es testet, wie die gesamte Anwendung als Ganzes funktioniert, nicht einzelne Teile des Systems. Der Benutzer betritt die Anwendung, klickt auf eine Schaltfläche, geht zur Datenbank und gibt das Ergebnis zurück. Es wird geprüft, ob der gesamte Prozess fehlerfrei ist oder nicht.
+## Definition und Wortherkunft
+End-to-End bedeutet von Anfang bis Ende. Es wird das Ganze statt nur Teilstücke getestet: Man loggt sich ein, drückt den Knopf, die Daten werden gesendet, das Ergebnis kommt zurück. Es ist das Kompatibiltätstor vor dem Go-Live.
 
-## So funktioniert es
-Automatisierungstools verwalten einen echten Browser oder eine echte Anwendung so, als ob ein Mensch sie verwenden würde. Es simuliert alle Schritte einzeln.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Veröffentlichung: Runde vor dem Release.Store: Kaufprozess.Formular: Registrierungsablauf.
 
-## Wo es eingesetzt wird
-Es dient dazu, kurz vor der Veröffentlichung der Software die Kompatibilität aller Funktionen untereinander zu überprüfen.
+## Technische Tiefe und Architektur
+Layout:
 
-## Häufig verwechselt mit
-Es kann mit Unit-Tests verwechselt werden; Unit-Tests betrachten den Teil, während E2E das Ganze betrachtet.
+## Häufig gemischte Dinge
+Wird oft für einen Unit-Test gehalten. Er schaut sich jenes Teil an, dieser schaut sich das Ganze an. Das eine ist ein Schraubentest, das andere ein Fahrtest.
 
-## Häufige Fragen
-**Warum machen wir das nicht einfach?**
-Da es sehr langsam ist und ein Fehler auftritt, ist es schwieriger, genau zu finden, wo das Problem liegt.
+## Einsatz in verschiedenen Disziplinen
+Auto: Losfahren mit dem Schlüssel.Probe: Gesamtwiederholung.Finale: Sendeprobe.
+
+## Häufig gestellte Fragen
+**Warum wird nur das nicht gemacht?**
+Es ist langsam, der Ort des Fehlers ist unklar. Wird zusammen mit der Einheit verwendet.
+
+**Wie oft läuft es?**
+Vor der Sendung und in der Nacht. Bei jedem Commit läuft eine kritische Untermenge.
+
+**Wer schreibt es?**
+Entwickler und Tester schreiben es gemeinsam. Es hat einen klaren Verantwortlichen.
+
+**Ist es anfällig (fragil)?**
+Es geht kaputt, wenn sich die Benutzeroberfläche ändert. Es wird selektiv und robust geschrieben.
 
 
 ## Verwandte Begriffe

@@ -2,23 +2,35 @@
 
 > E2E Testing
 
-É a verificação de todo o funcionamento de uma aplicação do início ao fim, tal como um utilizador real.
+O teste de ponta a ponta (ou E2E, para abreviar) consiste em testar a aplicação do princípio ao fim, exatamente como um usuário faria.
 
-## Definição
-Ele testa como todo o aplicativo funciona como um todo, e não como partes individuais do sistema. O usuário entra na aplicação, clica em um botão, vai até o banco de dados e o resultado é retornado. É verificado se todo o processo está livre de erros ou não.
+## Definição e origem da palavra
+De ponta a ponta significa de ponta a ponta. Testa-se o todo, não as partes: faz-se o login, prime-se o botão, os dados são enviados, o resultado retorna. É a porta de conformidade antes da publicação.
 
-## Como funciona
-As ferramentas de automação gerenciam um navegador ou aplicativo real como se um ser humano o estivesse usando. Ele simula todas as etapas uma por uma.
+## Como conhecer e usar no dia a dia?
+Lançamento: Turnê pré-versão.Loja: Caminho de compra.Formulário: Fluxo de cadastro.
 
-## Onde é usado
-Ele é usado para verificar a compatibilidade de todos os recursos entre si antes do lançamento do software.
+## Profundidade Técnica e Arquitetura
+Layout:
 
-## Costuma ser confundido com
-Pode ser confundido com teste unitário; O teste unitário analisa a parte, enquanto o E2E analisa o todo.
+## Coisas frequentemente misturadas
+Confundido com teste unitário. Aquele olha para a peça, este olha para o todo. Um é o teste do parafuso, o outro do test-drive.
 
-## Perguntas frequentes
-**Por que simplesmente não fazemos isso?**
-Porque é muito lento e quando ocorre um erro é mais difícil descobrir exatamente onde está o problema.
+## Use em diferentes disciplinas
+Carro: Partindo da chave.Ensaio: Revisão geral.Final: Ensaio de transmissão.
+
+## Perguntas Frequentes
+**Por que apenas isso não é feito?**
+É lento, a localização da falha é vaga. É usado junto com a unidade.
+
+**Com que frequência roda?**
+Antes da transmissão e à noite. O subconjunto crítico é executado em cada commit.
+
+**Quem escreve?**
+O desenvolvedor e o testador escrevem juntos. O proprietário é definido.
+
+**É frágil?**
+Quebra quando a interface muda. É escrito de forma seletiva e durável.
 
 
 ## Termos relacionados

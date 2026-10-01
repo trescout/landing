@@ -1,25 +1,34 @@
 # ¿Qué es Virtual Machines?
 
-Son sistemas operativos virtuales que se ejecutan dentro de una computadora como si fuera un dispositivo independiente.
+Una máquina virtual (conocida en inglés como *virtual machine*) es un ordenador independiente que comparte el hardware.
 
-## Definición
-Las máquinas virtuales le permiten ejecutar múltiples sistemas operativos simultáneamente en una sola computadora al particionar su hardware físico. Cada máquina virtual se comporta como si fuera su propio ordenador independiente y utiliza sus propios recursos. De esta manera, puedes probar diferentes software o configuraciones de forma segura sin dañar tu sistema principal.
+## Definición y origen de la palabra
+Virtual significa virtual. Múltiples sistemas operativos se ejecutan en una sola máquina. Cada uno funciona de forma aislada con sus propios recursos y no daña el sistema principal.
 
-## Cómo funciona
-Separas parte de tu hardware con la ayuda de un software. Instala un sistema operativo en esta sección reservada. Este sistema que ha instalado comienza a funcionar en su propio mundo sin el conocimiento de su computadora principal.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Presentador: Alojamiento multiinquilino.Prueba: Prueba de diferentes sistemas.Desarrollo: Entorno de prueba limpio.
 
-## Dónde se usa
-Se utiliza en gestión de servidores, pruebas de software y en trabajos que requieren diferentes sistemas operativos.
+## Profundidad técnica y arquitectura
+Capas:
 
-## Suele confundirse con
-Frecuentemente mezclado con contenedores; Mientras que las máquinas virtuales llevan un sistema operativo completo, los contenedores sólo llevan la aplicación.
+## Cosas frecuentemente mezcladas
+Se confunde con un contenedor. La máquina es un sistema completo, el contenedor comparte el núcleo. Uno es un apartamento, el otro es compartir piso.
+
+## Uso en diferentes disciplinas
+Habitaciones: Compartimentos con puertas independientes.Apartamento: Edificio común, espacio privado.Maleta: Transporte compartimentado.
 
 ## Preguntas frecuentes
-**¿Una máquina virtual ralentiza la computadora?**
-Sí, porque funciona compartiendo el procesador y los recursos de memoria de su computadora host.
+**¿Lo ralentiza?**
+Tiene un coste de compartición. No se nota con un dimensionamiento correcto.
 
-**Si ocurre un virus en la máquina virtual, ¿se transfiere a la computadora host?**
-Generalmente no, porque la máquina virtual está en un entorno aislado del sistema host.
+**¿Se propaga el virus?**
+Generalmente no. El aislamiento es fuerte, la carpeta compartida está supervisada.
+
+**¿Cuántos recursos se asignan?**
+Se determina según la tarea. Se ajusta gradualmente mediante monitorización.
+
+**¿Cuál es la diferencia con el contenedor?**
+La máquina transporta el sistema, el contenedor la aplicación. Se intercambian aislamiento y velocidad.
 
 
 ## Términos relacionados

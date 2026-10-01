@@ -1,19 +1,31 @@
 # Qu'est-ce que Testing Framework ?
 
-Il s'agit d'un ensemble d'outils prêts à l'emploi qui vous permettent d'écrire et d'exécuter des tests logiciels régulièrement, rapidement et facilement.
+Un framework de test (ou cadre de test) est une infrastructure prête à l'emploi permettant d'écrire et d'exécuter des tests.
 
-## Définition
-C'est une bibliothèque qui vous propose des règles et des structures toutes faites au lieu d'écrire constamment les mêmes codes lors de l'écriture des tests. Il rapporte les résultats des tests, indique les erreurs et standardise le processus. Il s'agit d'un ensemble d'outils auxiliaires qui facilitent le travail des développeurs de logiciels.
+## Définition et origine du mot
+Un framework signifie un cadre de travail. Au lieu d'écrire des commandes une par une, des règles et un runner sont fournis prêts à l'emploi. Le résultat est rapporté et les erreurs sont signalées. L'organisation des tests est ainsi standardisée.
 
-## Comment ça marche
-Vous incluez cet outil dans votre projet et rédigez vos tests avec les commandes qu'il vous propose. L'outil exécute automatiquement vos tests et répertorie ceux qui ont réussi ou échoué.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Développement: Ensemble exécuté à chaque commit.CI : Porte de qualité sur la chaîne.Version : Balayage avant publication.
 
-## Où est-ce utilisé
-Il est utilisé dans les projets de développement de logiciels, notamment dans les systèmes constamment mis à jour.
+## Profondeur technique et architecture
+Parties:
 
-## Questions fréquentes
-**Quel cadre dois-je choisir ?**
-Il est généralement préférable de choisir le plus populaire en fonction du langage de programmation que vous utilisez et des besoins du projet.
+## Utilisation dans différentes disciplines
+Boîte à outils : L'outil adapté au travail.Ensemble de mesures : Outils étalonnés.Salle de sport : Équipement programmé.
+
+## Foire aux questions
+**Lequel faut-il choisir ?**
+Celui qui est populaire selon la langue et les besoins. La maintenance et la documentation sont déterminantes.
+
+**Quand faut-il l'écrire ?**
+En même temps que le code. Un test remis à plus tard reste inachevé.
+
+**Quelle est la différence E2E ?**
+L'un teste un composant unitaire, l'autre teste le parcours de bout en bout. Les deux sont utilisés ensemble.
+
+**Quel est l'objectif de couverture ?**
+Il est déterminé par l'équipe. Le chemin critique est maintenu haut, et la périphérie bas.
 
 
 ## Termes liés

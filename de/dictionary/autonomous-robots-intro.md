@@ -1,22 +1,34 @@
 # Was ist Introduction to Autonomous Robots?
 
-Es ist das grundlegende Funktionsprinzip von Maschinen, die ihre eigenen Entscheidungen treffen und sich bewegen können, ohne ständige Befehle von außen zu erhalten.
+Autonome Roboter sind Maschinen, die sich in ihrer Umgebung bewegen, ohne ständig Befehle zu erhalten.
 
-## Definition
-Dieser Bereich basiert darauf, dass Roboter ihre Umgebung wahrnehmen (Sensoren), diese Daten verarbeiten (künstliche Intelligenz) und eine Aktion ausführen (Motoren). Es stellt sicher, dass der Roboter nicht nur der programmierten Bahn folgt, sondern auch das Ziel erreicht, indem er Hindernisse überwindet.
+## Definition und Wortherkunft
+Autonom bedeutet eigenständig. Dreifaltiges System: Wahrnehmung (Sensorik), Verarbeitung (Künstliche Intelligenz) und Aktion (Motorik). Der Robot merkt sich nicht den Weg, sondern umgeht das Hindernis und erreicht das Ziel.
 
-## So funktioniert es
-Roboter sind mit Kameras und Sensoren ausgestattet. Die eingehenden Daten werden mit Modellen der künstlichen Intelligenz verarbeitet und es wird entschieden, was der Roboter tun wird.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Lager: Transport zwischen Regalen.Fabrik: Montagelinie.Fahrzeug: Fahrerassistenzsysteme.
 
-## Wo es eingesetzt wird
-Es wird in Lagerhäusern, Fabriken und autonomen Fahrzeugen eingesetzt.
+## Technische Tiefe und Architektur
+Kreislauf:
 
-## Häufig verwechselt mit
-Kann mit ferngesteuerten Robotern verwechselt werden; Sie unterliegen vollständig der menschlichen Kontrolle.
+## Häufig gemischte Dinge
+Er wird für einen ferngesteuerten Roboter gehalten. Er ist völlig in Menschenhand, er ist mit diesem Ziel sich selbst überlassen. Einer ist eine Marionette, der andere ein Lehrling.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Spielzeugauto: Das Modell, das seinen Weg selbst findet.Aufzug: Etagenauswahl je nach Knopf.Autopilot: Ein System, das den Kurs hält.
+
+## Häufig gestellte Fragen
 **Wie lernen sie?**
-Normalerweise durch ständige Analyse der sie umgebenden Daten und durch Versuch und Irrtum.
+Durch Datenanalyse und Versuch und Irrtum. Die Probe erfolgt in der Simulation, der Feinschliff vor Ort.
+
+**Ist es sicher?**
+Innerhalb der Grenzen, für die es entworfen wurde, ja. Ein Stopp bei Fehlern und die Übernahme durch den Menschen sind zwingend erforderlich.
+
+**Wo wird es verwendet?**
+Im Lager, in der Fabrik und auf der Straße. Es ist führend bei repetitiven und gefährlichen Aufgaben.
+
+**Wann wird es sich durchsetzen?**
+Kosten und Gesetzgebung bestimmen dies. Geschlossene Bereiche kommen zuerst, der öffentliche Straßenverkehr später.
 
 
 ## Verwandte Begriffe

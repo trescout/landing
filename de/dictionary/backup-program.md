@@ -1,22 +1,31 @@
 # Was ist Backup Program?
 
-Dabei handelt es sich um eine Software, die den Verlust Ihrer digitalen Daten verhindert, indem sie eine Kopie davon erstellt.
+Ein Backup-Programm ist eine Software, die Daten regelmäßig kopiert.
 
-## Definition
-Sicherungsprogramme kopieren regelmäßig wichtige Dateien auf Ihrem Computer oder Server an einen anderen Ort. Es ermöglicht Ihnen, Ihre Daten im Falle eines Hardwarefehlers, eines Cyberangriffs oder einer versehentlichen Löschung wiederherzustellen. Es ist der Grundstein für ein sicheres digitales Leben.
+## Definition und Wortherkunft
+Backup bedeutet Sicherung. Dateien werden in regelmäßigen Abständen an einen anderen Ort kopiert. Bei Ausfällen, Angriffen oder Löschungen kann darauf zurückgegriffen werden. Sie ist das Fundament eines sicheren digitalen Lebens.
 
-## So funktioniert es
-Sie installieren das Programm, wählen die Ordner und die Häufigkeit der Sicherung aus. Die Software läuft im Hintergrund und kopiert Ihre Daten zu den von Ihnen angegebenen Zeiten.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Privat: Foto- und Dokumentensicherung.Moderator: Nächtliche automatische Kopie.Cloud: Kontosynchronisation.
 
-## Wo es eingesetzt wird
-Es wird in Personalcomputern, Unternehmensservern und Cloud-Speichersystemen verwendet.
+## Technische Tiefe und Architektur
+Typen:
 
-## Häufige Fragen
-**Warum ist Backup wichtig?**
-In der digitalen Welt ist Datenverlust oft eine irreversible Katastrophe.
+## Einsatz in verschiedenen Disziplinen
+Kopie: Im Tresor aufbewahrte Kopie.Tresor: Aufbewahrung wertvoller Dokumente.Versicherung: Schutz für den Katastrophenfall.
 
-**Wo soll ich Ersatzteile kaufen?**
-Idealerweise werden Backups an einem physisch anderen Ort als dem Originalgerät (Cloud oder externe Festplatte) aufbewahrt.
+## Häufig gestellte Fragen
+**Warum ist es wichtig?**
+Ein Verlust ist meist endgültig. Ein Backup mindert die Kosten des Fehlers.
+
+**Wohin sollte es erstellt werden?**
+An einen vom Original getrennten Ort: Cloud oder externe Festplatte. Dieselbe Festplatte gilt nicht als Backup.
+
+**Wie oft sollte es erstellt werden?**
+Je nach Häufigkeit der Änderungen. Bei täglicher Arbeit täglich, bei kritischen Linien sogar stündlich.
+
+**Wird es getestet?**
+Ja. Ein Backup gibt keine Sicherheit, solange die Wiederherstellung nicht getestet wurde.
 
 
 ## Verwandte Begriffe

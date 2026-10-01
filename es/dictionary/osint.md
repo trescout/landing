@@ -2,26 +2,35 @@
 
 > Open Source Intelligence
 
-Es un método para recopilar y analizar información de fuentes disponibles públicamente en Internet.
+OSINT (Open Source Intelligence, inteligencia de fuentes abiertas) es la disciplina de analizar información disponible públicamente.
 
-## Definición
-Recopila datos de lugares de acceso público, como redes sociales, sitios de noticias o registros públicos, sin recurrir a métodos encubiertos. Al combinar estos datos, se obtienen resultados significativos. Se utiliza no para acceder a la información, sino para darle sentido a la información obtenida.
+## Definición y origen de la palabra
+No se recurre a métodos encubiertos: se escanean redes sociales, noticias y registros públicos, y se contrastan. El talento no está en el acceso, sino en darles sentido.
 
-## Cómo funciona
-Recopile datos sobre el tema relevante utilizando motores de búsqueda, herramientas de redes sociales y bases de datos públicas y verifique estos datos mediante contrainterrogatorio.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Seguridad: Fugas y rastreo de huellas.Periodismo: Verificación de fuentes.Mercado: Monitoreo de la competencia.
 
-## Dónde se usa
-Es muy utilizado en ciberseguridad, periodismo e investigación de mercado.
+## Profundidad técnica y arquitectura
+Ciclo:
 
-## Suele confundirse con
-Se puede confundir con hacking o infiltración, pero se basa en fuentes completamente legales y abiertas.
+## Cosas frecuentemente mezcladas
+Se confunde con piratería informática. Aquel se infiltra, este lee. Uno derriba una puerta, el otro trabaja en la biblioteca.
+
+## Uso en diferentes disciplinas
+Biblioteca: Resultados de miles de libros.Detective: Rastrero.Arqueología: De la parte al todo.
 
 ## Preguntas frecuentes
-**¿Es legal OSINT?**
-Sí, es completamente legal ya que sólo estás utilizando información disponible públicamente.
+**¿Es legal?**
+Sí, siempre que se limite al código abierto. El acceso no autorizado es un delito.
 
-**¿Qué herramientas se utilizan?**
-Las herramientas básicas como las búsquedas de Google, los navegadores de redes sociales y los servicios de mapas son suficientes.
+**¿Qué herramientas?**
+El motor de búsqueda, los mapas y el rastreo social son suficientes. El experto combina los datos.
+
+**¿Por dónde empezar?**
+Con una sola pregunta y una lista de fuentes. Se adquiere el hábito de la verificación.
+
+**¿Cuál es el límite?**
+Los datos privados y la elaboración de perfiles sin autorización están prohibidos. No se realiza ningún procesamiento fuera de propósito.
 
 
 ## Términos relacionados
