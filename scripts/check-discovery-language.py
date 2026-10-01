@@ -23,6 +23,17 @@ PT_MARKERS = re.compile(
 )
 
 
+# Raporun "özet üretilemedi" yer tutucusu (6 dilde) hiçbir yayın alanına girmemeli.
+# 2026-10-01: vaultwarden'ın 6 dildeki tanıtımı, go-modern-guidelines ve nitter'ın
+# Türkçe tanıtımı (Portekizce) bu yer tutucuydu; kapaklara da basılmıştı.
+PLACEHOLDER = re.compile(
+    r"özeti bugün üretilemedi|não foi possível produzir um resumo|"
+    r"(?:summary|abstract) for this item could not be produced|n'a pas pu être produit|"
+    r"no se pudo producir un resumen|konnte heute nicht erstellt werden",
+    re.IGNORECASE,
+)
+
+
 def marker_score(value: str) -> int:
     return len({m.group(0).lower() for m in PT_MARKERS.finditer(value or "")})
 
@@ -36,6 +47,9 @@ def check_catalog(issues: list[str]) -> None:
     for item in catalog:
         slug = item.get("slug", "")
         source = (item.get("tagline") or "").strip()
+        for key, value in item.items():
+            if (key.startswith("tagline") or key == "summary") and isinstance(value, str) and PLACEHOLDER.search(value):
+                issues.append(f"catalog {slug}: {key} is the report's 'summary unavailable' placeholder")
         if marker_score(source) >= 2:
             issues.append(f"catalog {slug}: Turkish tagline has Portuguese markers")
         for lang in NON_PORTUGUESE:
@@ -72,6 +86,9 @@ def check_pages(issues: list[str]) -> tuple[int, int]:
             page_count += 1
             html = page.read_text(encoding="utf-8")
             fields = extract_content(html)
+            for field, value in fields.items():
+                if PLACEHOLDER.search(value):
+                    issues.append(f"page {lang}/{page.parent.name} {field}: 'summary unavailable' placeholder")
             if lang == "pt":
                 continue
             for field, value in fields.items():

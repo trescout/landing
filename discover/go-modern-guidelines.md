@@ -1,6 +1,6 @@
 # Go Modern Guidelines
 
-Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
+JetBrains tarafından yayınlanan go-modern-guidelines, yapay zekâ kodlama asistanlarının güncel Go standartlarına uygun yazılım…
 
 - ★ 3.010
 - Go

@@ -33951,7 +33951,7 @@
   {
     "slug": "vaultwarden",
     "title": "Vaultwarden",
-    "tagline": "Bu öğenin özeti bugün üretilemedi · detaylar için kaynak bağlantısını inceleyebilirsiniz.",
+    "tagline": "Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust diliyle geliştirilmiş açık kaynaklı bir sunucu yazılımıdır.",
     "meta": "★ 67.398 · Rust",
     "image": "/assets/discover/og/vaultwarden.webp",
     "source": "GitHub",
@@ -33980,12 +33980,8 @@
         "surum_tarihi": "2026-09-13"
       }
     ],
-    "tagline_en": "An abstract for this item could not be produced today · see the source link for details.",
-    "tagline_fr": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
-    "tagline_pt": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
-    "tagline_es": "No se pudo producir un resumen de este artículo hoy; consulte el enlace fuente para obtener más detalles.",
-    "tagline_de": "Eine Zusammenfassung für diesen Artikel konnte heute nicht erstellt werden. Einzelheiten finden Sie im Quelllink.",
-    "last_seen": "2026-09-15"
+    "last_seen": "2026-09-15",
+    "summary": "Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust diliyle geliştirilmiş açık kaynaklı bir sunucu yazılımıdır. Resmî olmayan bu alternatif, düşük sistem kaynağı tüketimiyle kendi sunucunuzda güvenli bir parola kasası çalıştırmanıza olanak tanır."
   },
   {
     "slug": "claude-plugins-community",
@@ -35293,7 +35289,7 @@
   {
     "slug": "nitter",
     "title": "Nitter",
-    "tagline": "Não foi possível produzir um resumo para este item hoje.",
+    "tagline": "Gizlilik odaklı alternatif Twitter arayüzü: JavaScript çalıştırmadan Twitter içeriklerini görüntüler, IP adresini ve tarayıcı…",
     "meta": "★ 13.705 · Nim",
     "image": "/assets/discover/og/nitter.webp",
     "source": "GitHub",
@@ -35302,7 +35298,7 @@
       "Geliştirici aracı"
     ],
     "stars": 13705,
-    "summary": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
+    "summary": "Gizlilik odaklı alternatif Twitter arayüzü: JavaScript çalıştırmadan Twitter içeriklerini görüntüler, IP adresini ve tarayıcı parmak izini gizler.",
     "lite": false,
     "headline": "Gizlilik odaklı alternatif Twitter arayüzü",
     "last_review": "2026-10-01",
@@ -35315,17 +35311,12 @@
         "arsiv": true
       }
     ],
-    "tagline_en": "This is the most important product possible.",
-    "tagline_fr": "C'est le produit le plus important possible.",
-    "tagline_pt": "Este é o produto mais importante possível.",
-    "tagline_es": "Este es el producto más importante posible.",
-    "tagline_de": "Dies ist das wichtigste Produkt überhaupt.",
     "last_seen": "2026-08-27"
   },
   {
     "slug": "go-modern-guidelines",
     "title": "Go Modern Guidelines",
-    "tagline": "Não foi possível produzir um resumo para este item hoje.",
+    "tagline": "JetBrains tarafından yayınlanan go-modern-guidelines, yapay zekâ kodlama asistanlarının güncel Go standartlarına uygun yazılım…",
     "meta": "★ 3.010 · Go",
     "image": "/assets/discover/og/go-modern-guidelines.webp",
     "source": "GitHub",
@@ -35334,14 +35325,9 @@
       "Geliştirici aracı"
     ],
     "stars": 3010,
-    "summary": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
+    "summary": "JetBrains tarafından yayınlanan go-modern-guidelines, yapay zekâ kodlama asistanlarının güncel Go standartlarına uygun yazılım geliştirmesini sağlamak için hazırlanan bir rehberdir. Bu kılavuz, kod oluşturma süreçlerinde dilin en yeni özelliklerini ve en iyi uygulamalarını (best practices) temel alarak daha kaliteli çıktılar üretilmesini hedefler.",
     "lite": false,
     "last_review": "2026-10-01",
-    "tagline_en": "This is the most important product possible.",
-    "tagline_fr": "C'est le produit le plus important possible.",
-    "tagline_pt": "Este é o produto mais importante possível.",
-    "tagline_es": "Este es el producto más importante posible.",
-    "tagline_de": "Dies ist das wichtigste Produkt überhaupt.",
     "last_seen": "2026-08-28",
     "guncellemeler": [
       {
@@ -35363,7 +35349,7 @@
       "Geliştirici aracı"
     ],
     "stars": 39588,
-    "summary": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
+    "summary": "GoogleTest, C++ projeleri için test yazmayı ve sahte nesneler (mocking) oluşturmayı sağlayan bir çerçeve yazılımıdır (framework). Yazılım geliştiricilerin kod hatalarını erkenden tespit etmesi için standart bir test ortamı sunar.",
     "lite": false,
     "tagline_en": "GoogleTest is an open-source testing framework that allows you to run unit tests and mock objects in modern C++ projects.",
     "tagline_fr": "GoogleTest est un framework de test open source qui vous permet d'exécuter des tests unitaires et des objets simulés dans des projets C++ modernes.",

@@ -1,6 +1,6 @@
 # Kendi sunucunuzda parola yönetimi
 
-Bu öğenin özeti bugün üretilemedi · detaylar için kaynak bağlantısını inceleyebilirsiniz.
+Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust diliyle geliştirilmiş açık kaynaklı bir sunucu yazılımıdır.
 
 - ★ 67.398
 - Rust

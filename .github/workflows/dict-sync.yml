@@ -262,7 +262,9 @@ jobs:
       # sayfa Türkçe kapağa düşer (yarım çeviriyle görsel basmaktansa).
       - name: Kapak görselleri (tüm diller)
         run: |
-          for d in ${{ steps.diller.outputs.kodlar }}; do
+          # tr dahil · tanıtım metni değişen kaydın kapağı yeniden basılır
+          # (assets/discover/og/kapak-metinleri.json)
+          for d in tr ${{ steps.diller.outputs.kodlar }}; do
             python3 scripts/kapak-gorselleri.py --lang=$d
           done
 
