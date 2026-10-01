@@ -6,7 +6,7 @@ Automatic tagging is the process of reading the content and pasting a tag.
 "Tag" means label. The model scans the data, recognizes objects and concepts, and processes the appropriate tag from the defined list into the file. The archive becomes searchable.
 
 ## How to Know and Use in Daily Life?
-Photo: Object and face tags. Document: Subject classification. Social: Content layout.
+Photograph: Object and face labels.Document: Subject classification.Social: Content layout.
 
 ## Technical Depth and Architecture
 Order:
@@ -15,7 +15,7 @@ Order:
 It is mistaken for manual labeling. That's the human hand, that's the model output. Speed ​​is in the machine, judgment is in the human.
 
 ## Use in Different Disciplines
-Librarian: Cover category writing. Post Office: Stamping. Seal: Document marking.
+Librarian: Writing a cover category.Post office: Don't stamp.Seal: Document marking.
 
 ## Frequently Asked Questions
 **Is it always true?**

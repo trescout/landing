@@ -6,7 +6,7 @@ IA generativa é o nome geral de modelos que produzem novos conteúdos.
 “Gerar” significa produzir. O modelo analisa os dados e cria novos textos, imagens ou áudio. Não apenas classifica o que é, mas também produz o que não é. LLM, difusão e GAN são membros desta família.
 
 ## Como conhecer e usar no dia a dia?
-Design: Logotipo e rascunhos visuais. Código: Função e esqueleto de teste. Conteúdo: Rascunho do texto e resumo.
+Projeto: Logotipo e storyboards.Código: Esqueleto de função e teste.Conteúdo: Rascunho do texto e resumo.
 
 ## Profundidade Técnica e Arquitetura
 Linha de produção:
@@ -15,7 +15,7 @@ Linha de produção:
 Eles são confundidos com modelos de texto. Porém, quem produz recursos visuais, de áudio e de vídeo também é dessa família. O texto é apenas um membro.
 
 ## Use em diferentes disciplinas
-Pintor: Nova pintura com pincel. Compositor: Nova melodia com notas. Escritor: Nova história com palavras.
+Artista: Nova pintura com pincel.Compositor: Nova melodia com notas.Escritor: Nova história com palavras.
 
 ## Perguntas Frequentes
 **Isso viola direitos autorais?**

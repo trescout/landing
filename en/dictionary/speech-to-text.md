@@ -6,7 +6,7 @@ Speech-to-text (STT for short) is the technology that converts speech into writt
 Sound waves are translated into numerical attributes, the model recognizes words. AI also reads intonation and context. It is not error-free, but its accuracy is high in clean recording.
 
 ## How to Know and Use in Daily Life?
-Meeting: Automated minutes. Assistant: Voice command. Subtitles: Video text.
+Meeting: Automatic minutes.Assistant: Voice command.Subtitle: Video text.
 
 ## Technical Depth and Architecture
 Line:
@@ -15,9 +15,7 @@ Line:
 It is thought to be text-to-speech. It converts that text into sound, this sound into text. The two are opposite directions.
 
 ## Use in Different Disciplines
-Secretary: Taking notes while speaking.
-Typist: Transcribing what is said.
-Subtitle room: Preparing text for broadcast.
+Secretary: Don't take notes while speaking.Typewriter: Do not transcribe what is said.Subtitle room: Keeping up with the broadcast text.
 
 ## Frequently Asked Questions
 **Does he understand every accent?**

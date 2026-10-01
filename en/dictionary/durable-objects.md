@@ -1,24 +1,34 @@
 # What is Durable Objects?
 
-They are small software units that run continuously on the Internet and can store data without losing their state.
+Durable objects are small cloud units that maintain their state.
 
-## Overview
-Normally, programs on the Internet are temporary, but these structures operate without interruption by keeping the data within themselves. They don't forget the data even when a user interaction ends. Ideal for maintaining consistency in distributed systems.
+## Definition and Word Origin
+"Durable" means permanent. Unlike temporary functions, the data lives in the unit and is not forgotten when the request ends. Consistency is the cure for distributed work.
 
-*Analogy: Instead of an app that wakes up only when necessary, it's like a secretary who's always on alert and never leaves her notebook.*
+## How to Know and Use in Daily Life?
+Game: Room status tracking.Chat: Connection session.Service: Counter and lock.
 
-## How it works
-They live on the server with a specific identity and process every incoming request with the current status in their memory.
+## Technical Depth and Architecture
+Order:
 
-## Where it is used
-It is used in real-time games, chat applications, and web services whose state must be maintained.
+## Frequently Mixed Things
+It is considered serverless. Function is temporary, object is permanent. One is a day tripper and the other is a tenant.
 
-## Commonly confused with
-Not to be confused with temporary server functions (serverless); because they start from scratch every time.
+## Use in Different Disciplines
+Secretary: The assistant who doesn't leave the notebook behind.Cash book: End of day balance.Deposit: A cabinet waiting for its owner.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Where is the data stored?**
-It is stored within the volume itself, i.e. directly as part of the operating environment.
+It is maintained within the unit as part of the operating environment.
+
+**When to use?**
+At work in real time requiring status: Room, meter and lock.
+
+**What does it cost?**
+Because he lives all the time, he also writes idle. It is calculated based on traffic pattern.
+
+**What is the difference between Serverless?**
+The function forgets, the object remembers. If there is a condition, the object is selected.
 
 
 ## Related terms

@@ -6,13 +6,13 @@ Gamification is the use of game elements such as points, badges and levels to in
 The word "Gamification" derives from the English root game. The method adds the feeling of progression in games to what can be a boring task: collecting points, leveling up, earning leaderboards or badges. The goal is for the user to return to the application regularly.
 
 ## How to Know and Use in Daily Life?
-Language learning: Daily streak and league tables. Fitness: Step targets, running badges, competition with friends. Corporate training: Certificate and points for completing the module. Loyalty programs: A stamp on each cup on the coffee card.
+Language learning: Daily streak and league tables.Fitness: Step goals, running badges, racing with a friend.Corporate training: Certificate and score upon completion of the module.Loyalty programs: One stamp on each cup on the coffee card.
 
 ## Technical Depth and Architecture
 Parts of the gamification system:
 
 ## Use in Different Disciplines
-Education: In-class star charts and reading competitions. Business: Bonus levels and sales champion titles. Retail: Loyalty cards and tiered discounts.
+Education: In-class star charts and reading competitions.Business life: Bonus levels and sales champion titles.Retail: Loyalty cards and tiered discounts.
 
 ## Frequently Asked Questions
 **Can everything be gamified?**

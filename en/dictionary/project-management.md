@@ -6,13 +6,13 @@ Project management is the discipline of planning time, resources and tasks to ac
 A software project is not just writing code: This discipline manages which work will be done first, who is responsible for what, and when the work will be finished. Classical methods (Gantt, waterfall) plan the work from the beginning. Agile methods (Agile, Scrum, Kanban) renew the plan in short cycles.
 
 ## How to Know and Use in Daily Life?
-Software teams: Two-week sprints and short daily meetings. Construction: Survey, permit and progress payment calendar. Event: Wedding or conference preparation list.
+Software teams: Two-week sprints and short daily meetings.Construction: Discovery, license and progress payment calendar.Activity: Wedding or conference preparation list.
 
 ## Technical Depth and Architecture
 Building blocks of discipline:
 
 ## Use in Different Disciplines
-Kitchen: The chef who plans which food will go into the oven and when. Orchestra: The program that organizes the rehearsals according to the concert day. Construction site: The field plan that arranges the crane and concrete order.
+Kitchen: The chef who plans which dish will go into the oven and when.Orchestra: Program that organizes rehearsals according to the day of the concert.Building site: Site plan setting crane and concrete sequence.
 
 ## Frequently Asked Questions
 **Why do software developers use this?**

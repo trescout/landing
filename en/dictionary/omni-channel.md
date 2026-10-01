@@ -6,7 +6,7 @@ Omni-channel refers to the synchronous operation of all sales channels.
 Omni means all. The store, website and app are not separate worlds, but doors to a single experience. A product bought online is returned to the store, and one looked at in the store is bought from the mobile app.
 
 ## How to Know and Use in Daily Life?
-Retail: Try in store, order to your door. E-commerce: Cart syncing across devices. Support: Context retention when switching channels.
+Retail: Try in-store, have it delivered to your door.E-commerce: Carrying the cart across devices.Support: Not losing the context when switching channels.
 
 ## Technical Depth and Architecture
 Spine:
@@ -15,7 +15,7 @@ Spine:
 Mistaken for multi-channel. In that, channels are many; in this, channels are connected. The difference in connection determines loyalty.
 
 ## Use in Different Disciplines
-Theater: The harmony of stage, backstage, and lighting. Orchestra: Sections playing a single piece. Airport: Transfer baggage layout.
+Theatre: Harmony of the stage, backstage, and lighting.Orchestra: The sections playing a single piece of work.Airport: Transfer baggage system.
 
 ## Frequently Asked Questions
 **Why is it important?**

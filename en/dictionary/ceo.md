@@ -2,25 +2,35 @@
 
 > Chief Executive Officer
 
-He is the highest-level official who manages all operations and strategic decisions of a company.
+The CEO (Chief Executive Officer, the highest manager) is the person responsible for the entire operations and strategy of the company.
 
-## Overview
-The CEO is like the captain of an organization. He determines the company's goals, takes responsibility for major decisions and ensures that the team moves forward in line with the vision. It focuses on the future of the institution rather than the daily operation.
+## Definition and Word Origin
+He is the captain of the institution: He sets the goal, takes responsibility for the big decision, keeps the team in the vision. It looks to the future rather than the daily work. He is appointed by the board of directors and is accountable to the board.
 
-*Analogy: He is like a captain on a ship; He decides where the ship will go and is responsible for the coordinated work of the entire crew.*
+## How to Know and Use in Daily Life?
+Institutional: Annual target and budget approval.Attempt: Investment tour and recruitment.Crisis: Decision to change direction.
 
-## How it works
-The CEO is appointed by the board of directors and develops strategies for the company's success. It builds bridges between investors, employees and customers.
+## Technical Depth and Architecture
+Job list:
 
-## Where it is used
-It is found in corporate companies, technology startups and large-scale organizations.
+## Frequently Mixed Things
+It is thought to be a chair. The CEO executes, the chair manages the board. One drives the ship, the other controls the route.
 
-## Commonly confused with
-It can be confused with the chairman of the board of directors (Chair); The CEO executes, the Chair manages the board.
+## Use in Different Disciplines
+Boat: The captain who draws the route.Orchestra: The conductor sets the tempo.Coach: The coach who created the squad.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Does the CEO meddle in everything?**
-No, the CEO focuses more on strategic decisions and delegates operational tasks to department managers.
+No. It focuses on strategy and leaves the operation to the departments.
+
+**How to be?**
+It takes depth of field, leadership track record and board trust. There is no one way.
+
+**What is the difference with the founder?**
+The founder starts it, the CEO runs it. Sometimes it is the same person, but as he grows up, he separates.
+
+**What is the difference with Chair?**
+The CEO manages the executive, the chair manages the board. The two balance each other.
 
 
 ## Related terms

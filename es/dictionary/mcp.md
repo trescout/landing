@@ -2,26 +2,35 @@
 
 > Model Context Protocol
 
-Es el estándar que permite a los modelos de inteligencia artificial comunicarse de forma segura con datos del mundo exterior.
+MCP (Model Context Protocol) es un protocolo abierto que permite que las aplicaciones de inteligencia artificial se conecten a datos y herramientas externos de forma estándar.
 
-## Definición
-Model Context Protocol (MCP) es un puente universal que permite a los modelos de IA comunicarse de forma segura con datos y software del mundo exterior. Permite que diferentes aplicaciones hablen el mismo idioma con inteligencia artificial.
+## Definición y origen de la palabra
+En lugar de escribir conexiones separadas para cada aplicación, se utiliza un único estándar. El protocolo es un estándar abierto desarrollado para aumentar la interoperabilidad del ecosistema de IA. La analogía del enchufe es acertada: así como todos los dispositivos funcionan con el mismo enchufe, diferentes fuentes de datos se conectan a la IA de la misma manera.
 
-## Cómo funciona
-Con MCP, los desarrolladores conectan de forma segura la IA a bases de datos o sistemas de archivos. El modelo extrae los datos que necesita a través de este protocolo.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Asistentes: La aplicación de inteligencia artificial lee tu calendario y archivos.Desarrollo: Vincular el editor de código al repositorio y la documentación.Informes: Extracción de resumen de una base de datos en vivo.
 
-## Dónde se usa
-Se utiliza en casos en los que los documentos privados internos de la empresa deben ser leídos por inteligencia artificial o los informes deben obtenerse de bases de datos en vivo.
+## Profundidad técnica y arquitectura
+La arquitectura consta de tres partes:
 
-## Suele confundirse con
-Mezclado con API; Si bien API es una puerta, MCP es un conjunto de reglas que garantiza que los datos que pasan a través de esta puerta se hablen en un lenguaje estándar.
+## Cosas frecuentemente mezcladas
+Se puede mezclar con API. API es una puerta única, mientras que MCP es el conjunto de reglas que garantiza que los datos que pasan a través de esta puerta se hablan en un lenguaje estándar. La API es específica del servidor, MCP es común en todos los servidores.
+
+## Uso en diferentes disciplinas
+Eléctrico: El estándar de enchufe que cumple cada dispositivo.Ferrocarril: Estándar de gancho para conectar vagones.Idioma: Lenguaje protocolo común utilizado en la diplomacia.
 
 ## Preguntas frecuentes
 **¿Por qué es necesario MCP?**
-Aumenta la seguridad y la eficiencia al seguir una ruta estándar en lugar de establecer conexiones separadas para cada aplicación.
+En lugar de escribir un enlace separado para cada aplicación, se sigue el método estándar. Esto simplifica la seguridad y el mantenimiento.
 
 **¿MCP es de código abierto?**
-Sí, es un estándar abierto desarrollado para aumentar la interoperabilidad del ecosistema de inteligencia artificial.
+Sí. Es un estándar abierto, diferentes aplicaciones pueden escribir sus propios clientes y servidores.
+
+**¿Por qué utilizar MCP en lugar de API?**
+La API es específica del servidor y cada una se aprende por separado. MCP ofrece un lenguaje común, el modelo se conecta al nuevo servidor listo.
+
+**¿Es seguro?**
+Su diseño se basa en permisos, pero es necesario mantener el alcance de acceso del servidor limitado y requerir aprobación para las escrituras.
 
 
 ## Términos relacionados
@@ -32,8 +41,8 @@ Sí, es un estándar abierto desarrollado para aumentar la interoperabilidad del
 ## Herramientas relacionadas
 - [Langflow](/es/discover/langflow/)
 - [OpenCut](/es/discover/opencut/)
-- [Goose](/es/discover/goose/)
 - [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
+- [Goose](/es/discover/goose/)
 - [Chrome Devtools MCP](/es/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
 - [Claude Howto](/es/discover/claude-howto/)

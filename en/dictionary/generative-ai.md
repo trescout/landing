@@ -6,7 +6,7 @@ Generative AI is the general name of models that produce new content.
 "Generate" means to produce. The model analyzes the data and creates brand new text, visuals or audio. It not only classifies what is, but also produces what is not. LLM, diffusion and GAN are members of this family.
 
 ## How to Know and Use in Daily Life?
-Design: Logo and visual drafts. Code: Function and test skeleton. Content: Draft text and summary.
+Design: Logo and storyboards.Code: Function and test skeleton.Contents: Draft text and summary.
 
 ## Technical Depth and Architecture
 Production line:
@@ -15,7 +15,7 @@ Production line:
 They are mistaken for text models. However, those who produce visual, audio and video are also from this family. Text is only one member.
 
 ## Use in Different Disciplines
-Painter: New painting with brush. Composer: New melody with notes. Writer: New story with words.
+Artist: New painting with brush.Composer: New melody with notes.Writer: New story with words.
 
 ## Frequently Asked Questions
 **Does it violate copyright?**

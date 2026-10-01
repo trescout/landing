@@ -6,7 +6,7 @@ System programming languages ​​are languages ​​that speak to hardware.
 It gives full control in memory management, runs fast, and has low tolerance for errors. C, C++ and Rust are known examples. The operating system, driver and game engine are written in these languages.
 
 ## How to Know and Use in Daily Life?
-Operating system: Kernel and drivers. Game: Engine core. Server: High traffic services.
+Operating system: Kernel and drivers.Game: Motor nucleus.Presenter: High traffic services.
 
 ## Technical Depth and Architecture
 Features:
@@ -15,7 +15,7 @@ Features:
 They are considered web languages. They deal with the interface, these with the hardware. One is the showcase, the other is the engine.
 
 ## Use in Different Disciplines
-Engine: Mechanical, not the body. Foundation: The carrier of the building. Skeleton: The roof of the body.
+Engine: It's not the bodywork, it's mechanical.Basis: The carrier of the building.Skeleton: Roof of the body.
 
 ## Frequently Asked Questions
 **Which ones enter?**

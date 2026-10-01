@@ -1,35 +1,48 @@
 # ¿Qué es Proxy?
 
-Es un servidor intermediario que realiza sus transacciones en Internet en su nombre.
+Proxy (en turco, servidor proxy) es el intermediario que transmite sus solicitudes al objetivo en su nombre.
 
-## Definición
-Un proxy actúa como un guardia entre su computadora e Internet. Cuando deseas ingresar a un sitio, primero vas al servidor proxy; Luego se conecta al sitio en su nombre. Este método se utiliza tanto para ocultar su identidad como para administrar el tráfico de Internet.
+## Definición y origen de la palabra
+"Proxy" significa proxy. Actúa como un protector entre su computadora e Internet: usted se conecta al sitio a través de un proxy, no directamente. Se utiliza para ocultar identidad y gestionar el tráfico.
 
-## Cómo funciona
-Ingresa la dirección de proxy en su configuración de Internet. Ahora todos sus datos van primero a ese servidor y llegan al destino desde allí.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Compañía: Control del tráfico de salida.Seguridad: Ocultación de direcciones.Acceso: Superación de las restricciones regionales.
 
-## Dónde se usa
-Se utiliza en redes de empresas, en situaciones que requieren confidencialidad y para acceder a contenidos restringidos.
+## Profundidad técnica y arquitectura
+Hay dos direcciones:
 
-## Suele confundirse con
-Es similar a una VPN, pero un proxy normalmente sólo funciona para determinadas aplicaciones o navegadores.
+## Cosas frecuentemente mezcladas
+Se considera una VPN. La VPN crea un túnel en todo el dispositivo, mientras que el proxy generalmente opera a nivel de aplicación o navegador. La profundidad de la privacidad varía.
+
+## Uso en diferentes disciplinas
+Amigo: La persona que reenvía el mensaje en su nombre.Recepción: El oficial que saluda al visitante.Intérprete: El medio que transmite la palabra.
 
 ## Preguntas frecuentes
 **¿Es seguro?**
-Depende del servidor proxy que utilices; Los servidores proxy que no son de confianza pueden rastrear su información.
+Depende del proxy. Un servidor no confiable puede monitorear el tráfico, por lo que se elige un proveedor conocido.
 
 **¿Por qué se usa?**
-Se prefiere para ingresar a sitios bloqueados, optimizar la velocidad de Internet u ocultar la identidad.
+Para control, privacidad y acceso. Las tres son necesidades separadas.
+
+**¿Qué es la reversa?**
+Es la dirección que distribuye lo que llega del exterior al servidor. Proporciona equilibrio de carga y protección.
+
+**¿Se acelera?**
+En el contenido almacenado en caché, sí, en el tráfico remoto y cifrado generalmente lo ralentiza.
 
 
 ## Términos relacionados
-- [Self-hosting](/es/dictionary/self-hosting/)
+- [Self-Hosting](/es/dictionary/self-hosting/)
 - [Offline](/es/dictionary/offline/)
+- [VPN](/es/dictionary/vpn/)
 
 ## Herramientas relacionadas
+- [OmniRoute](/es/discover/omniroute/)
 - [FlClash](/es/discover/flclash/)
 - [Nginx](/es/discover/nginx/)
+- [Freellmapi](/es/discover/freellmapi/)
 - [Headroom](/es/discover/headroom/)
+- [User Scanner](/es/discover/user-scanner/)
 - [OpenFlux](/es/discover/openflux/)
 
 ---

@@ -8,7 +8,7 @@ Web UI (Web User Interface) is the control face of the application that appears 
 Buttons, menus and graphics are drawn in the browser. No installation required, just go to the address. Updates are made on the server, the user side is refreshed.
 
 ## How to Know and Use in Daily Life?
-Email: Mailbox in browser.Chat: AI bot screen.Edit: Online design tools.
+Email: Mailbox in browser.Chat: Artificial intelligence bot screen.Arrangement: Online design tools.
 
 ## Technical Depth and Architecture
 Layers:
@@ -17,7 +17,7 @@ Layers:
 It is considered a website. The site delivers content, the Web UI manages the application. One is the brochure, the other is the control panel.
 
 ## Use in Different Disciplines
-Restaurant menu: Selection and order face. Cockpit: Display and button layout. Control: Device control panel.
+Restaurant menu: Selection and order face.Cockpit: Indicator and button layout.Controller: Device control panel.
 
 ## Frequently Asked Questions
 **Is internet required?**

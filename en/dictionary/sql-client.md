@@ -6,7 +6,7 @@ SQL Client is an application that allows you to connect to relational databases 
 SQL is an abbreviation for Structured Query Language. Client means the party using the service: The database server keeps the data, the client connects to it and asks questions. DBeaver, DataGrip, TablePlus, and psql on the command line are common examples.
 
 ## How to Know and Use in Daily Life?
-Data analyst: Pulls the last month's report from the sales table. Developer: Visually inspects the records read by the application. Database administrator: Manages backups, users and permissions.
+Data analyst: It pulls the last month's report from the sales table.Developer: Visually inspects the records read by the application.Database administrator: Manages backups, users and permissions.
 
 ## Technical Depth and Architecture
 The following runs in the background of a SQL client:
@@ -15,7 +15,7 @@ The following runs in the background of a SQL client:
 ORM (Object-Relational Mapping) is the layer that allows you to talk to the database from within code without writing SQL. SQL client is the window where you write SQL. ORM increases productivity, while the client lets you see what's actually working. The two are not competitors but complements of each other.
 
 ## Use in Different Disciplines
-Librarianship: The desk clerk knows the location of the shelves and finds the record you want. Accounting: The auditor who examines the items in the ledger one by one. Logistics: A handheld terminal that lists the products in the warehouse.
+Librarianship: The desk clerk knows where the shelves are and can find the record you want.Accounting: An auditor who examines the items in the ledger one by one.Logistics: Handheld terminal listing the products in the warehouse.
 
 ## Frequently Asked Questions
 **Is it necessary to know SQL?**

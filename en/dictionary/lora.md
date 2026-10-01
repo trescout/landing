@@ -2,28 +2,35 @@
 
 > Low-Rank Adaptation
 
-It is a technique of making a large artificial intelligence model specialize in a particular subject by updating only a small part of it without changing the entire model.
+LoRA (Low-Rank Adaptation) is a technique of specializing the model with small additions.
 
-## Overview
-LoRA is a method that reduces the massive processing power required to train a massive AI model. You train only a very small layer of the model to add a new style or information to it while preserving its basic capabilities.
+## Definition and Word Origin
+"Low-rank" means low ranked. The giant model is frozen, the small adapter is trained and attached to it. Basic flair is retained, new style is added. The cost is a fraction of the full tuition.
 
-*Analogy: Instead of rewriting a huge library, it's like adding a small sticky note with just a few important notes on it.*
+## How to Know and Use in Daily Life?
+Visual: Personal style production.Writing: Institutional language adaptation.Sound: Character voice.
 
-## How it works
-You freeze the weights of the model and just train a small file called LoRA. By installing this file over the main model, you customize it.
+## Technical Depth and Architecture
+Order:
 
-## Where it is used
-It is used in the process of creating personalized visuals or developing special text styles.
+## Frequently Mixed Things
+It is considered fine-tuning. It covers the entire model, it is a lightweight addition. One is house renovation and the other is room painting.
 
-## Commonly confused with
-Mixed with fine-tuning; While fine-tuning can cover the entire model, LoRA is much more lightweight and focused.
+## Use in Different Disciplines
+Notes: Paper sticking to the library.Lens: Filter attached to the camera.Patch: A coat of arms sewn onto clothing.
 
-## Frequently asked questions
-**Does using LoRA slow down the model?**
-No, it generally does not cause any performance loss because it is very light.
+## Frequently Asked Questions
+**Does it slow down?**
+Usually no. The addition is small, the delay is not noticeable.
 
-**Can more than one LoRA be installed on a single model?**
-Yes, different LoRA files can be combined for different features.
+**Is it worn more than once?**
+Yes. Adapters are combined for different jobs.
+
+**Don't forget, okay?**
+It is less than full education. Determines rank and data balance.
+
+**When is it not enough?**
+If in-depth knowledge is required, full training or RAG is required.
 
 
 ## Related terms
@@ -32,6 +39,7 @@ Yes, different LoRA files can be combined for different features.
 - [Generative AI](/en/dictionary/generative-ai/)
 
 ## Related tools
+- [Minimind](/en/discover/minimind/)
 - [LTX 2](/en/discover/ltx-2/)
 
 ---

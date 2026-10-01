@@ -1,32 +1,41 @@
 # O que é Observability?
 
-É a capacidade de monitorar o estado interno de um sistema com dados externos.
+Observabilidade é a capacidade de compreender o interior do sistema com dados externos.
 
-## Definição
-Observabilidade é um mecanismo de observação que nos permite compreender o que está acontecendo no mundo interno de sistemas de software complexos. Ele não apenas avisa quando há um erro, mas também explica com dados porque o sistema fica lento ou não produz os resultados esperados.
+## Definição e origem da palavra
+“Observar” significa observar. A luz de erro indica o problema, o painel explica o porquê. A observabilidade é o painel: a fonte da lentidão e do desvio é encontrada nos dados.
 
-## Como funciona
-Logs, métricas e dados de monitoramento do sistema são coletados. Ao combinar esses dados, o estado de saúde do sistema é visualizado. Assim, o problema pode ser detectado antes de ser refletido para o usuário.
+## Como conhecer e usar no dia a dia?
+Apresentador: Encontrando a fonte da lentidão.Modelo: Monitoramento de desvios.Produto: Rastreamento de uso.
 
-## Onde é usado
-É utilizado em grandes redes de servidores e para monitorar o desempenho de modelos de inteligência artificial. É uma ferramenta crítica, especialmente para descobrir onde o sistema está entupido.
+## Profundidade Técnica e Arquitetura
+Três colunas:
 
-## Costuma ser confundido com
-Muitas vezes é confundido com 'monitoramento', que consiste apenas em registrar erros, mas a observabilidade se concentra em entender por que o sistema está falhando.
+## Coisas frequentemente misturadas
+É considerado monitoramento. O monitoramento monitora o limite, a observabilidade explica o motivo. Um é alarme, o outro é diagnóstico.
 
-## Perguntas frequentes
-**Por que apenas manter um log de erros não é suficiente?**
-O log de erros informa o problema, mas não explica o motivo, enquanto a observabilidade permite ver todas as etapas dentro do sistema.
+## Use em diferentes disciplinas
+Painel: Medidores de velocidade e combustível.Hospital: Monitor de paciente.Cabine de pilotagem: Telas de vôo.
+
+## Perguntas Frequentes
+**Por que o registro não é suficiente?**
+O registro diz o problema, não a causa. Quando as três colunas se juntam, a imagem está completa.
 
 **É necessário para todos os sistemas?**
-Pode ser um exagero para aplicações simples, mas é vital em sistemas de inteligência artificial compostos por muitas partes.
+Torna-se um exagero numa tarefa simples, mas torna-se vital num sistema fragmentado. A escala decide.
+
+**Quanto custa?**
+Há uma taxa de transporte e armazenamento. A política de amostragem e duração mantém o custo.
+
+**Por onde começar?**
+Do registro estruturado e ID de correlação. Em seguida, a métrica e o rastreamento são adicionados.
 
 
 ## Termos relacionados
-- [Observability](/pt/dictionary/observability/)
+- [Logs](/pt/dictionary/logs/)
+- [Traces](/pt/dictionary/traces/)
 - [State Management](/pt/dictionary/state-management/)
 - [Data Pipeline](/pt/dictionary/data-pipeline/)
-- [API](/pt/dictionary/api/)
 
 ## Ferramentas relacionadas
 - [Posthog](/pt/discover/posthog/)

@@ -6,7 +6,7 @@ Indie hacking (in Turkish, independent entrepreneurship) is the culture of devel
 "Indie" means independent, "hacking" means resourceful solution. You build your own product from scratch and undertake its marketing and support. The main purpose is to create your own source of income without being dependent on the company. Besides the code, all the work is yours.
 
 ## How to Know and Use in Daily Life?
-Micro SaaS: Small subscription product focused on a single problem.Content: Newsletter, e-book, course.Template: Design and code packages.Tool: Single-function web applications.
+Micro SaaS: Small subscription product focused on a single issue.Contents: Newsletter, e-book, course.Template: Design and code packages.Vehicle: Single-function web applications.
 
 ## Technical Depth and Architecture
 Working order:
@@ -15,7 +15,7 @@ Working order:
 It's considered a hobby project. There is no income target in the hobby, commercialization is a must in indie hacking. It also mixes with freelance: Freelance sells watches, indie sells products.
 
 ## Use in Different Disciplines
-Food truck: Small kitchen, own menu, own customers. Street musician: Repertoire and tip economy. Boutique bakery: Few varieties, loyal customers.
+Food truck: Small kitchen, own menu, own customers.Street musician: Repertoire and tip economics.Boutique bakery: Small variety, loyal customers.
 
 ## Frequently Asked Questions
 **Is it necessary to know very good code?**

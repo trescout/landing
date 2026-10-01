@@ -2,26 +2,35 @@
 
 > TTS
 
-Es la vocalización de textos escritos con voz humana mediante inteligencia artificial.
+Texto a voz (TTS para abreviar, texto a voz) es una tecnología que pronuncia texto escrito con voz humana.
 
-## Definición
-Text-to-Speech es una tecnología que permite que la inteligencia artificial lea textos escritos con una voz humana natural y fluida. Esta tecnología proporciona una gran comodidad para quienes tienen dificultades para leer o tienen las manos ocupadas.
+## Definición y origen de la palabra
+Se analiza el texto escrito, se determinan el acento y la entonación y luego el modelo de inteligencia artificial convierte el texto en una onda sonora. La tecnología ha pasado por tres generaciones: la síntesis de formantes canónicos, el método de combinación de partes de grabación y los modelos neuronales actuales. La naturalidad aumentó significativamente con el cinturón neural.
 
-## Cómo funciona
-Se analiza el texto escrito, se determinan los acentos y las entonaciones. Luego, el modelo de inteligencia artificial convierte este texto en ondas sonoras y lo hace audible a través del altavoz.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Audiolibro: No escuches el artículo mientras caminas.Navegación: Alertas de devolución.Asistentes: Respuestas de teléfono y altavoz inteligente.Accesibilidad: Lectura de pantalla para personas con dificultades de lectura.
 
-## Dónde se usa
-Se utiliza constantemente en aplicaciones de audiolibros, dispositivos de navegación y asistentes digitales.
+## Profundidad técnica y arquitectura
+La línea consta de tres pasos:
 
-## Suele confundirse con
-Se mezcla con grabación de audio; Sin embargo, esta tecnología no es un sonido pregrabado, sino un sonido producido instantáneamente.
+## Cosas frecuentemente mezcladas
+Se cree que es una grabación de voz. El registro es una constante prelectura, mientras que TTS produce cada texto instantáneamente. Por lo tanto, sólo TTS puede emitir la frase que no está grabada.
+
+## Uso en diferentes disciplinas
+Doblaje: Producir audio a partir de texto en un idioma diferente.Radio: Locución automática del boletín.Juego: Generación de diálogo dinámico.
 
 ## Preguntas frecuentes
 **¿Por qué a veces las voces suenan robóticas?**
-La naturalidad puede variar según la calidad del modelo utilizado y la diversidad del conjunto de datos sobre el que se entrena.
+Es desde el límite del modelo y los datos de entrenamiento. El timbre es claramente natural en modelos neuronales entrenados con datos grandes y diversos.
 
 **¿Puedo usar mi propia voz?**
-Sí, con las tecnologías de clonación de voz puedes introducir tu propia voz en el sistema y hacer que los textos se lean con tu propia voz.
+Sí, con la clonación de voz puedes hacer que los textos se lean con tu propia voz después de una breve grabación. Usar la voz de otra persona sin permiso genera riesgos legales.
+
+**¿Es suficiente la calidad turca?**
+Es comprensible en motores de código abierto. Los servicios comerciales ofrecen una prosodia más natural, se recomienda compararlos con un ensayo.
+
+**¿Se puede utilizar en productos comerciales?**
+Varía según su licencia. La mayoría de los motores abiertos están disponibles para uso comercial, los servicios en la nube cobran por uso.
 
 
 ## Términos relacionados

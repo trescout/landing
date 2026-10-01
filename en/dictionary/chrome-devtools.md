@@ -6,13 +6,13 @@ Chrome DevTools is the in-browser developer panel.
 "DevTools" means developer tools. The background of the page is seen, errors are caught instantly, and performance is measured. It is an x-ray of the sites.
 
 ## How to Know and Use in Daily Life?
-Development: Code review.Bug: Console tracking.Learning: Site anatomy.
+Development: Code review.Mistake: Console tracking.Learning: Site anatomy.
 
 ## Technical Depth and Architecture
 Panels:
 
 ## Use in Different Disciplines
-Glasses: Installation behind the wall. X-ray: Internal structure view. Hood: Engine compartment.
+Glasses: Behind-the-wall installation.X-ray: Internal structure view.Bonnet: Engine compartment.
 
 ## Frequently Asked Questions
 **Just Chrome?**

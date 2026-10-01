@@ -1,25 +1,34 @@
 # Was ist AI Agent?
 
-Es handelt sich um ein autonomes künstliches Intelligenzsystem, das selbstständig Entscheidungen trifft und Aufgaben ausführt.
+Ein KI-Agent (auf Türkisch: Agent der künstlichen Intelligenz) ist eine autonome Software, die Werkzeuge nutzt und Entscheidungen trifft, um das Ziel zu erreichen.
 
-## Definition
-Dabei handelt es sich um autonome Software, die nicht nur die Frage beantwortet, sondern auch Tools nutzt und Entscheidungen trifft, um das Ziel zu erreichen. Kann Schritte planen, um eine Aufgabe selbstständig zu erledigen.
+## Definition und Wortherkunft
+Der Chatbot beantwortet die Frage, der Agent erledigt den Job. Das Ziel wird vorgegeben, die Schritte geplant, ein Anruf getätigt, eine Akte gelesen, ein Fahrzeug gerufen. Er versucht, die Aufgabe alleine zu erledigen. Über den Assistenten hinaus ist es also der Umriss des Mitarbeiters.
 
-## So funktioniert es
-Der Agent teilt das ihm vorgegebene Ziel in kleine Aufgaben auf. Es durchsucht das Internet, liest Dateien oder kommuniziert bei Bedarf mit anderer Software.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+E-Mail: Sammeln und Zusammenfassen des Posteingangs.Forschung: Quellen scannen und Berichte schreiben.Code: Gehen Sie nicht im Lager herum und empfehlen Sie Patches.
 
-## Wo es eingesetzt wird
-Es wird in automatischen E-Mail-Antwortsystemen, komplexen Datenanalyseprojekten oder persönlichen Assistenten verwendet.
+## Technische Tiefe und Architektur
+Der Zyklus ist wie folgt:
 
-## Häufig verwechselt mit
-Es wird mit gewöhnlichen Chatbots verwechselt; Der Chatbot redet nur, der Agent ergreift Maßnahmen.
+## Häufig gemischte Dinge
+Es wird angenommen, dass es sich um einen Chatbot handelt. Chatbot spricht, Agent ergreift Maßnahmen. Die Chat-Oberfläche sieht gleich aus, der Hintergrundarbeiter ist anders.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Hilfskoch: Lesen Sie das Rezept und kochen Sie das Essen.Jack: Nehmen Sie nicht einfach den Schlüssel und beenden Sie die Arbeit.Reisebüro: Ticket-, Hotel- und Transferabholung.
+
+## Häufig gestellte Fragen
 **Können Agenten gefährlich sein?**
-Wenn sie unkontrolliert bleiben, können sie fehlerhafte Vorgänge ausführen, weshalb die Überwachung durch den Menschen wichtig ist.
+Wenn es unbeaufsichtigt bleibt, kann es zu Fehlverhalten kommen. Autoritätsebene und menschliche Zustimmung steuern das Risiko.
 
 **Wie treffen Agenten Entscheidungen?**
-Sie machen Fortschritte, indem sie Wahrscheinlichkeitsberechnungen gemäß den ihnen vorgegebenen Regeln und Zielen durchführen.
+Es berechnet die Wahrscheinlichkeit entsprechend dem Ziel und den Regeln und aktualisiert den Plan anhand der Toolergebnisse.
+
+**Was ist der Unterschied zum Chatbot?**
+Der Chatbot generiert die Antwort, der Agent erledigt den Job. Der Agent bittet um eine Mitfahrgelegenheit und nimmt Änderungen an der Außenwelt vor.
+
+**Welche Werkzeuge werden verwendet?**
+Definierte Funktionen wie Suche, Datei, Kalender, API und Codeausführung. Die Liste wird nach Aufgabe geöffnet.
 
 
 ## Verwandte Begriffe

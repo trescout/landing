@@ -1,27 +1,34 @@
 # What is Monorepo?
 
-A development method where multiple software projects are kept in a single shared folder.
+Monorepo (mono repository, single repository) is a system of keeping multiple projects in a single repository.
 
-## Overview
-In the software world, instead of projects being disconnected from each other, all interconnected codes are gathered in a single center. This method makes cross-project code sharing and updates much faster.
+## Definition and Word Origin
+"Mono" means single. Linked codes are collected in the center, sharing and updating are accelerated. Library changes are instantly reflected in projects.
 
-*Analogy: It's like keeping all the books in a library, categorized, in one huge building, rather than distributing them across different buildings.*
+## How to Know and Use in Daily Life?
+Company: Multi-team codebase.Microservice: Common libraries.Mobile: Shared modules.
 
-## How it works
-Developers access all projects through a single master repository, so changes made in one library are instantly visible in other projects.
+## Technical Depth and Architecture
+Order:
 
-## Where it is used
-It is used in large software companies and in projects where interconnected microservices are developed.
+## Frequently Mixed Things
+It seems like confusion. However, it is regular centralization. Mess is due to lack of discipline, not order.
 
-## Commonly confused with
-It is not about mixing codes, but about managing them regularly from a single center.
+## Use in Different Disciplines
+Building: The only library with categories.Shopping mall: Stores with shared roofs.Campus: Buildings with common areas.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Is it suitable for everyone?**
-No, management can become difficult in very large projects.
+No. Management becomes difficult in a giant project, and becomes too much in a small one.
 
-**Does it affect security?**
-It provides more secure code management with correct authorization.
+**Is it safe?**
+By authority, yes. A single center facilitates control.
+
+**When to choose?**
+If sharing is intense. For independent work, a separate warehouse is sufficient.
+
+**Which tools?**
+Bazel, Nx and Turborepo are common. The ecosystem determines.
 
 
 ## Related terms

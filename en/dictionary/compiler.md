@@ -6,13 +6,13 @@ Compiler is a program that translates the code you write into machine language t
 "Compile" means to compile, collect. Computers only understand strings of 0 and 1. Programmers write in readable language. The compiler translates between these two worlds: It scans the code, turns it into an executable file if there are no errors.
 
 ## How to Know and Use in Daily Life?
-Installing the application: The compiled version of the program you downloaded runs. Error messages: The compiler warns you when you forget a semicolon. Game engines: Separate compilation output for each platform.
+Installing the application: The compiled version of the program you downloaded will run.Error messages: The compiler warns you when you forget a semicolon.Game engines: Separate build output for each platform.
 
 ## Technical Depth and Architecture
 Compilation goes through four stages:
 
 ## Use in Different Disciplines
-Interpreting: Distinction between simultaneous translation (interpreter) and written translation (compiler). Printing House: Converting the draft into a printing plate. Cuisine: Converting the recipe into a pre-prepared meal.
+Translation: Difference between simultaneous translation (interpreter) and written translation (compiler).Printing press: Conversion of the draft into a printing plate.Kitchen: Turning the recipe into a pre-prepared meal.
 
 ## Frequently Asked Questions
 **Is each language's compiler different?**

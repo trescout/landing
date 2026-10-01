@@ -6,7 +6,7 @@ Regulatory restriction is the legal framework that limits the development, data 
 The concept of "Regulatory restrictions" is called regulatory restrictions, legislative limitations or legal regulation obstacles in Turkish. It is especially applied to ensure user rights, data privacy and public security in critical areas such as artificial intelligence (AI), financial technologies (FinTech), health and cryptography.
 
 ## Major Areas of Regulation and Restriction
-Data Privacy and Sovereignty (KVKK, GDPR, CCPA): Prohibits the collection, processing, or unauthorized transfer of users' personal data to cross-border cloud servers without consent.
+Data Privacy and Sovereignty (KVKK, GDPR, CCPA): It prohibits the collection, processing or unauthorized transfer of users' personal data to cross-border cloud servers without consent.
 
 ## Importance for Developers: Compatibility from Design
 Software teams must observe security and regulatory standards when designing the architecture (Compliance by Design / Privacy by Design), not at the final stage of the project. Otherwise, there is a risk that products will be removed from application stores or blocked from access to target markets.

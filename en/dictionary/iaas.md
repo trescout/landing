@@ -8,7 +8,7 @@ IaaS (Infrastructure as a Service) is the rental of hardware.
 When the power is not enough, parts are rented from the giant data center. You have the operating system and software, the responsibility for the hardware is with the provider. The empty land analogy is apt: The infrastructure is ready, the building is yours.
 
 ## How to Know and Use in Daily Life?
-Site: Machine by traffic. Backup: Remote disk. Test: Temporary media.
+Site: Machine according to traffic.Spare: Remote disk.Test: Temporary environment.
 
 ## Technical Depth and Architecture
 Layers:
@@ -17,7 +17,7 @@ Layers:
 It is considered PaaS. IaaS provides hardware, PaaS provides ready environment. One is land and the other is a furnished flat.
 
 ## Use in Different Disciplines
-Land: Empty land with infrastructure. Warehouse: Warehouse with ready shelves. Field: Renting plowed land.
+Plot: Empty land with infrastructure.Warehouse: Warehouse with ready shelves.Field: Cultivated land rental.
 
 ## Frequently Asked Questions
 **Is IaaS secure?**

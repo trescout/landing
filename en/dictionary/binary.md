@@ -6,13 +6,13 @@ Binary is a machine language that works with 0 and 1.
 There is either current in the circuit or there is no current, the corresponding values ​​are 1 and 0. All programs are translated into this language at the deepest level. People don't write binaries, languages ​​translate them with compilers.
 
 ## How to Know and Use in Daily Life?
-Processor: Instruction execution. Memory: Cell values. File: Deepest layer.
+Processor: Command operation.Memory: Cell values.File: The deepest layer.
 
 ## Technical Depth and Architecture
 Units:
 
 ## Use in Different Disciplines
-Lamp: On and off. Morse: Dot and dash. Switch: Forward and reverse.
+Lamp: On and off.Morse: Dot and line.Key: Forward and backward.
 
 ## Frequently Asked Questions
 **Why only 0 and 1?**

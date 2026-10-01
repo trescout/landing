@@ -6,7 +6,7 @@ Personal cloud is a cloud system where data resides on your own device.
 It is based on your own device rather than a large company server. Files can be accessed from anywhere there is internet, you are in control. He runs photography, backup and media businesses.
 
 ## How to Know and Use in Daily Life?
-Photo: Family archive.Sharing: Sending via link.Media: Home theater archive.
+Photograph: Family archive.Share: Send by link.Media: Home cinema archive.
 
 ## Technical Depth and Architecture
 Setup:
@@ -15,7 +15,7 @@ Setup:
 It is thought to be Drive. Drive belongs to the company, the personal cloud is yours. One is rent and the other is ownership.
 
 ## Use in Different Disciplines
-Safe: You have the key to the safe. Pantry: Household stock. Archive: Personal papers room.
+Till: You have the key to the safe.Cellar: Household stock.Archive: Personal paperwork room.
 
 ## Frequently Asked Questions
 **Is it accessible when cut?**

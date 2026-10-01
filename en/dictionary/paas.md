@@ -8,7 +8,7 @@ PaaS (Platform as a Service) is the rental of a ready-made environment that runs
 The code is loaded and the platform runs without dealing with server and security work. This is where the promise of opening up to the world with a single click comes from. Heroku, Vercel and App Engine are well-known examples.
 
 ## How to Know and Use in Daily Life?
-Web: Fast publishing sites.API: Unmaintained backends.Prototype: Idea experiments.
+Web: Fast publishing sites.API: Poorly maintained rear ends.Prototype: Idea experiments.
 
 ## Technical Depth and Architecture
 The platform offers:
@@ -17,7 +17,7 @@ The platform offers:
 It is considered IaaS. IaaS provides hardware, PaaS provides a running environment. One is land, the other is a ready-made kitchen.
 
 ## Use in Different Disciplines
-Kitchen: Ready-made kitchen with equipment. Flat: Furnished for rent. Stage: Ready-made stage with lights.
+Kitchen: Ready kitchen with equipment.Apartment: Furnished for rent.Scene: Illuminated ready stage.
 
 ## Frequently Asked Questions
 **Is PaaS required?**

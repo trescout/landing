@@ -6,13 +6,13 @@ Service mesh is the invisible infrastructure layer that manages the traffic of m
 In a system with hundreds of parts, it is difficult for the parts to find each other and talk securely. Service mesh manages communication, regulates traffic, and ensures security. It enforces network policy without touching the code.
 
 ## How to Know and Use in Daily Life?
-Cloud: Large applications with microservices. Bank: Tightly secured service traffic. E-commerce: Order line under campaign load.
+Cloudy: Large applications with microservices.Bank: Strictly secured service traffic.E-commerce: Order line under campaign load.
 
 ## Technical Depth and Architecture
 Parts:
 
 ## Use in Different Disciplines
-Airport: The tower that does not collide planes. Traffic: The signal network that regulates the flow. Mail: The distribution center that separates the shipment.
+Airport: The tower that prevents planes from colliding.Traffic: The signaling network that regulates flow.Mail: Distribution center that sorts the shipment.
 
 ## Frequently Asked Questions
 **Is it necessary for every project?**

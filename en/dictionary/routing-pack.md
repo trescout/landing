@@ -6,15 +6,13 @@ Routing Pack is the data packet used by network devices to transfer routing info
 Routing means directing, and pack means packet. In computer networks, data is transported in small pieces. Routers decide which path these pieces will take by consulting a routing table. A routing pack is a packet that carries the information used to keep these tables up to date. For example, link-state advertisements in the OSPF protocol and reachability updates in the BGP protocol are disseminated via such packets.
 
 ## How to Know and Use in Daily Life?
-Internet infrastructure: Service provider routers send routing information to each other.
-Corporate networks: Determining which path traffic between branches will flow through.
-Home network: Your modem knowing the path to the internet (usually obtained automatically).
+Internet infrastructure: Service providers' routers send path information to each other.Enterprise networks: Determining which line inter-branch traffic will flow through.Home network: Your modem knowing the path to the internet (usually obtained automatically).
 
 ## Technical Depth and Architecture
 Routing information consists of the following parts:
 
 ## Use in Different Disciplines
-Cargo: Route plan that determines which transfer centers the shipment will pass through. Air traffic: Notification of the air corridor that the aircraft will follow. Mail: Separation of the letter to the distribution center according to the postal code on it.
+Cargo: The route plan that determines which transfer centers the shipment will pass through.Air traffic: Pre-notification of the air corridor the aircraft will follow.Mail: Sorting the letter to the distribution center according to the postal code on it.
 
 ## Frequently Asked Questions
 **Is 'Routing Pack' a standard term?**

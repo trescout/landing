@@ -6,7 +6,7 @@ Runtime environment is the library and source layer where the code runs.
 The recipe requires kitchen: The code also requires libraries, interpreters and system resources to run. This layer is invisible, but provides support every time the program runs. It is ubiquitous at the browser, server and operating system level.
 
 ## How to Know and Use in Daily Life?
-Web: JavaScript running in the browser. Server: Node or Python service. Game: Driver and system files.
+Web: JavaScript running in the browser.Presenter: Node or Python service.Game: Driver and system files.
 
 ## Technical Depth and Architecture
 Layers:
@@ -15,7 +15,7 @@ Layers:
 It is thought to be the software itself. However, the environment is the house in which the software lives. The same software may behave differently if the house changes.
 
 ## Use in Different Disciplines
-Kitchen: The stove and containers that cook the recipe. Aquarium: The water and temperature where the fish live. Stage: Light and sound system.
+Kitchen: The stove and utensils that cook the recipe.Aquarium: The water and temperature in which the fish live.Scene: Light and sound system.
 
 ## Frequently Asked Questions
 **Why does it give an error?**

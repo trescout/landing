@@ -14,6 +14,8 @@ Desarrollado en el lenguaje Go, hey es una herramienta de prueba de carga utiliz
 ## Cómo empezar
 - Fuente oficial →
 
+## Términos relacionados del glosario
+
 ## Enlaces
 - Repositorio en GitHub →
 - Leer en turco →

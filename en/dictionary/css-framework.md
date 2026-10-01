@@ -6,7 +6,7 @@ CSS framework (CSS framework in Turkish) is a tool set that offers ready-made st
 Instead of writing the button, menu and font from scratch, a ready-made class is used. The professional look appears in a short time. Tailwind, Bootstrap and Bulma are well-known examples.
 
 ## How to Know and Use in Daily Life?
-Site: Quick interface setup. Panel: Management screens. Prototype: Idea trial.
+Site: Quick interface setup.Panel: Management screens.Prototype: Idea experiment.
 
 ## Technical Depth and Architecture
 Approaches:
@@ -15,7 +15,7 @@ Approaches:
 It is considered utility-first. It is the approach, the framework is the tool. The tool either supports or does not support the approach.
 
 ## Use in Different Disciplines
-Door set: Ready-made frame and wing.Lego: Combining parts. Ready-made food: Heated plate.
+Door set: Ready chassis and wing.Lego: Combining parts.Convenience food: Heated plate.
 
 ## Frequently Asked Questions
 **Aren't the sites similar?**

@@ -6,7 +6,7 @@ A gateway is a connection point that manages traffic between different networks.
 Gate means door, and way means path. It is a bridge that allows two networks to communicate with each other: the device that connects the internet in your home to the outside world is a typical example. It examines incoming data and decides which network it should go to.
 
 ## How to Know and Use in Daily Life?
-Home modem: Connects your home to the provider network. Enterprise gateway: The checkpoint for office traffic. Cloud: The gateway between virtual networks.
+Home modem: Connects your home to the provider network.Corporate gateway: The control point for office traffic.Cloudy: The gateway between virtual networks.
 
 ## Technical Depth and Architecture
 Functions of the gateway:
@@ -15,7 +15,7 @@ Functions of the gateway:
 It can be confused with an API Gateway. An API Gateway manages software services, while a network gateway operates at the network level. One is an application gateway, the other is a routing gateway.
 
 ## Use in Different Disciplines
-Border gate: Screening and directing arrivals. Port: Customs clearance for ships. Reception: Directing visitors to the correct floor.
+Border gateway: Inspection and routing of arrivals.Port: Customs clearance of ships.Reception: Directing the visitor to the correct floor.
 
 ## Frequently Asked Questions
 **Can one access the internet without a gateway?**

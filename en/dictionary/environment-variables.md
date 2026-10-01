@@ -1,24 +1,34 @@
 # What is Environment Variables?
 
-They are small identifiers that hold the settings and secret keys that programs need at run time.
+Environment variables are identifiers that keep settings outside of the code.
 
-## Overview
-It allows you to keep information at the system level, such as passwords, API keys or different server addresses, that you should not write in your code. While the program is running, it reads these variables and acts accordingly. Thus, the same code can run in different environments with different settings.
+## Definition and Word Origin
+"Environment" means environment. Password and address do not stay in the code, they stay in the system. The same code behaves differently in different environment.
 
-*Analogy: Instead of hard-coded settings inside a device, it's like a settings card that's built into the device and can be changed each time.*
+## How to Know and Use in Daily Life?
+Presenter: Connection strings.Application: Mode selection.CI: Secret keys.
 
-## How it works
-It is defined through the operating system or a special file, and when the program starts, it memorizes these values.
+## Technical Depth and Architecture
+Order:
 
-## Where it is used
-It is used in server installations, application configurations and all software projects that require security.
+## Frequently Mixed Things
+It is considered a constant value. It stops at hard code, the variable is outside. One is a tattoo and the other is a badge.
 
-## Commonly confused with
-It should not be confused with hardcoded values ​​written into the code, because this method creates a security risk.
+## Use in Different Disciplines
+Card: Changing settings card.Remote battery: Plug and play power.Key chain: Ported access.
 
-## Frequently asked questions
-**Why should we keep these variables private?**
-To prevent your passwords from being compromised when you share your code.
+## Frequently Asked Questions
+**Why is it kept secret?**
+It is obtained through sharing and an account is opened. It remains secret, the risk becomes smaller.
+
+**What is .env?**
+It is a local value file. It doesn't go into the warehouse, it goes into the sample.
+
+**What happens if it leaks?**
+The key is canceled and the record is checked. The delay is large.
+
+**What is priority?**
+The system environment crushes the file. Live value comes from the system.
 
 
 ## Related terms

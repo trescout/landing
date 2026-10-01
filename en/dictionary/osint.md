@@ -8,7 +8,7 @@ OSINT (Open Source Intelligence) is the discipline of analyzing publicly availab
 No secret path: Social media, news and public records are scanned and cross-verified. The trick is not in access, but in making sense.
 
 ## How to Know and Use in Daily Life?
-Security: Leak and trace tracking. Journalism: Source verification. Market: Competitor monitoring.
+Security: Leak and trace tracking.Journalism: Source verification.Sunday: Competitor monitoring.
 
 ## Technical Depth and Architecture
 Loop:
@@ -17,7 +17,7 @@ Loop:
 It's considered hacking. He infiltrates, he reads. One breaks down doors, the other works in the library.
 
 ## Use in Different Disciplines
-Library: Result from thousands of books. Detective: Tracking. Archeology: Whole from parts.
+Library: Results from thousands of books.Detective: Don't track.Archeology: Whole from part.
 
 ## Frequently Asked Questions
 **Is it legal?**

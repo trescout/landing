@@ -6,7 +6,7 @@ Autonomous robotics is the science of machines that operate without external sup
 Robots see with sensors, map the environment, and calculate the path. They execute commands and change strategy according to the situation. They generate solutions in the face of uncertainty.
 
 ## How to Know and Use in Daily Life?
-Warehouse: Inter-shelf transport.Agriculture: Row tracking.Exploration: Hazardous area scanning.
+Warehouse: Transport between shelves.Agriculture: Row following.Exploration: Hazardous area scanning.
 
 ## Technical Depth and Architecture
 Parts:
@@ -15,7 +15,7 @@ Parts:
 It is thought to be a programmed robot. The former repeats a fixed path, while the latter generates solutions in the face of uncertainty. One is a conveyor belt, the other is a driver.
 
 ## Use in Different Disciplines
-Self-driving car: Road according to traffic. Autopilot: Route keeping. Homing pigeon: Return to destination.
+Driverless vehicle: Pathing according to traffic.Autopilot: Route maintenance.Carrier pigeon: Return to target.
 
 ## Frequently Asked Questions
 **Doesn't it make mistakes?**

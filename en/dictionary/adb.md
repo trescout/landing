@@ -8,7 +8,7 @@ ADB (Android Debug Bridge) is a tool that enables communication for commands and
 Debug means debugging and bridge means bridge. ADB communicates between the client on the computer and the adb daemon on the device; it is used for application installation, log collection, debugging, and limited device management operations. It is part of the Android SDK Platform-Tools package.
 
 ## How to Know and Use in Daily Life?
-Development: App installation and registration. Testing: Multi-device trial. Customization: Advanced configuration.
+Development: App installation and logging.Test: Multi-device testing.Customization: Advanced settings.
 
 ## Technical Depth and Architecture
 Triple layout:
@@ -17,7 +17,7 @@ Triple layout:
 It is thought to be a file transfer. It only copies, ADB interferes with the system. The difference in privileges is significant.
 
 ## Use in Different Disciplines
-Cable: A line that carries signals. Interpreter: The language of both sides. Remote: Management from a distance.
+Cable: The line carrying the signal.Interpreter: The language of both sides.Controller: Remote management.
 
 ## Frequently Asked Questions
 **Can everyone use it?**

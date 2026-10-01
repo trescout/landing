@@ -6,7 +6,7 @@ Observability is the ability to understand the inside of the system with externa
 "Observe" means to observe. The error light tells you the problem, the dashboard explains why. Observability is the panel: The source of slowness and deviation is found with the data.
 
 ## How to Know and Use in Daily Life?
-Server: Finding the source of slowness.Model: Deviation monitoring.Product: Usage monitoring.
+Presenter: Finding the source of slowness.Model: Deviation monitoring.Product: Usage tracking.
 
 ## Technical Depth and Architecture
 Three columns:
@@ -15,7 +15,7 @@ Three columns:
 It is considered monitoring. Monitoring monitors the threshold, observability explains the reason. One is alarm, the other is diagnostic.
 
 ## Use in Different Disciplines
-Panel: Speed ​​and fuel indicators. Hospital: Patient monitor. Cockpit: Flight screens.
+Panel: Speed ​​and fuel gauges.Hospital: Patient monitor.Cockpit: Flight screens.
 
 ## Frequently Asked Questions
 **Why isn't registration enough?**

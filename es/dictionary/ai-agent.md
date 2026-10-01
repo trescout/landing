@@ -1,25 +1,34 @@
 # ¿Qué es AI Agent?
 
-Es un sistema autónomo de inteligencia artificial que toma decisiones y realiza tareas por sí solo.
+El agente de IA (en turco, agente de inteligencia artificial) es un software autónomo que utiliza herramientas y toma decisiones para lograr el objetivo.
 
-## Definición
-Son software autónomo que no sólo responde a la pregunta sino que también utiliza herramientas y toma decisiones para lograr el objetivo. Puede planificar pasos para completar una tarea por sí solo.
+## Definición y origen de la palabra
+El chatbot responde la pregunta, el agente termina el trabajo. Se da el objetivo, se planifican los pasos, se realiza una llamada, se lee un expediente, se llama a un vehículo. Intenta completar la tarea por su cuenta. Entonces, más allá del asistente, está el contorno del empleado.
 
-## Cómo funciona
-El agente divide el objetivo que se le asigna en pequeñas tareas. Busca en Internet, lee archivos o se comunica con otro software cuando es necesario.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Correo electrónico: Recoger y resumir la bandeja de entrada.Investigación: Escaneo de fuentes y redacción de informes.Código: No vayas por el almacén y recomiendes parches.
 
-## Dónde se usa
-Se utiliza en sistemas automáticos de respuesta de correo electrónico, proyectos complejos de análisis de datos o asistentes personales.
+## Profundidad técnica y arquitectura
+El ciclo es el siguiente:
 
-## Suele confundirse con
-Se confunde con los chatbots comunes; El chatbot simplemente habla, el agente actúa.
+## Cosas frecuentemente mezcladas
+Se cree que es un chatbot. El chatbot habla, el agente actúa. La interfaz de chat tiene el mismo aspecto, el trabajador en segundo plano es diferente.
+
+## Uso en diferentes disciplinas
+Ayudante de cocina: Lee la receta y cocina la comida.Jacobo: No se limite a coger la llave y terminar el trabajo.Agencia de viajes: Recogida de billetes, hotel y transfer.
 
 ## Preguntas frecuentes
 **¿Pueden los agentes ser peligrosos?**
-Pueden realizar operaciones incorrectas si no se controlan, por lo que la supervisión humana es importante.
+Si no se le supervisa, puede comportarse mal. El nivel de autoridad y la aprobación humana gestionan el riesgo.
 
 **¿Cómo toman decisiones los agentes?**
-Progresan haciendo cálculos de probabilidad de acuerdo con las reglas y objetivos que se les asignan.
+Calcula la probabilidad según el objetivo y las reglas, y actualiza el plan observando los resultados de la herramienta.
+
+**¿Cuál es la diferencia con el chatbot?**
+El chatbot genera la respuesta, el agente completa el trabajo. El agente pide que lo lleven y realiza cambios en el mundo exterior.
+
+**¿Qué herramientas utiliza?**
+Capacidades definidas como búsqueda, archivos, calendario, API y ejecución de código. La lista se abre por tarea.
 
 
 ## Términos relacionados

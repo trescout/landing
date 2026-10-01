@@ -6,7 +6,7 @@ Face swapping is the process of transferring the expression from one face to ano
 The model matches the contours, lighting, and angle of the source face to the target video. The result looks natural, but always leaves a mark. It is used in entertainment and effects works; legal problems may arise if used without permission.
 
 ## How to Know and Use in Daily Life?
-Filters: Social media facial effects. Cinema: Rejuvenation and stunt scenes. Entertainment: Humor apps.
+Filters: Social media face effects.Cinema: Rejuvenation and stunt scenes.Entertainment: Humor applications.
 
 ## Technical Depth and Architecture
 The line is:
@@ -15,7 +15,7 @@ The line is:
 It is similar to deepfake. Deepfake also produces voice and script, face swapping generally focuses on facial transfer. Both require permission.
 
 ## Use in Different Disciplines
-Theatre: Mask moving with facial expressions. Stuntman: Face change in the dangerous scene. Photomontage: Face merging in the frame.
+Theatre: Mask that moves with facial expressions.Stuntman: Face change in dangerous scene.Photomontage: Face stitching in frame.
 
 ## Frequently Asked Questions
 **Is high hardware required?**

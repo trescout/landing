@@ -6,7 +6,7 @@ Refactoring is the process of simplifying code while preserving its behavior.
 The internal wiring is renewed without altering the external appearance. Code readability increases, and adding new features becomes easier. It is a cleanup process that pays off technical debt. Martin Fowler is the reference name for this discipline.
 
 ## How to Know and Use in Daily Life?
-Review: Code review rounds. Debt payment: Cleanup sprinkled into the sprint. Takeover: Simplification before diving into legacy code.
+Review: Code review rounds.Debt repayment: Cleanup sprinkled into the sprint.Takeover: Simplifying before diving into legacy code.
 
 ## Technical Depth and Architecture
 Common moves:
@@ -15,7 +15,7 @@ Common moves:
 It is thought to be a feature or bug fix. Yet the output does not change, only the internal structure improves. Behavior is the same, code is different.
 
 ## Use in Different Disciplines
-Plumbing: Pipe replacement while the wall stands. Editing: The topic is the same, the sentences flow. Pruning: The tree is the same, the branches are orderly.
+Plumbing: Replacing pipes while the wall stands.Copyediting: Subject is the same, sentences flow smoothly.Pruning: The tree is the same, the branch arrangement is regular.
 
 ## Frequently Asked Questions
 **Why do we do it?**

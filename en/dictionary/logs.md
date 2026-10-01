@@ -6,7 +6,7 @@ A log is a time-stamped line of system events.
 "Log" means ship's log: The captain writes down what happens in a notebook. Software also writes what it does in the background line by line. In case of an error, the notebook is opened, and the time is checked. It is the primary source of system health.
 
 ## How to Know and Use in Daily Life?
-Server: Debug.Application: Crash report.Security: Event trace.
+Presenter: Debugging.Application: Crash report.Security: Event trace.
 
 ## Technical Depth and Architecture
 Rules of good logging:
@@ -15,7 +15,7 @@ Rules of good logging:
 Often mistaken for trace. A log is a record of an event, trace is the path of the event. One is a photograph, the other is a film.
 
 ## Use in Different Disciplines
-Black box: Flight data. Log: Chronological notes. Receipt: Transaction record.
+Black box: Flight data.Journal: Chronological notes.Receipt: Transaction log.
 
 ## Frequently Asked Questions
 **Why are logs necessary?**

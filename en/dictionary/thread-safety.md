@@ -6,7 +6,7 @@ Thread safety means that a code does not corrupt data when executed by more than
 "Thread" means thread and "safety" means security. The security here is not to protect against hackers, but to keep the data consistent: If two processes update the same account at the same time, the result may be incorrect. Thread-safe code rules this race. Banking applications, web servers, and any multiprocessor software need it.
 
 ## How to Know and Use in Daily Life?
-Banking: Two requests to withdraw money from the same account should not reduce the balance to negative. Ticket sales: The last seat should not be sold to two people. Counters: The visitor counter should be increased by a full amount with each request.
+Banking: Two withdrawal requests from the same account do not reduce the balance to negative.Ticket sales: The last seat should not be sold to two people at once.Counters: The visitor counter increments by a full increment with each request.
 
 ## Technical Depth and Architecture
 Typical tools are:
@@ -15,7 +15,7 @@ Typical tools are:
 It is not about cybersecurity. The issue is not hackers, but data consistency: Two processes touching the same data at the same time do not crush each other.
 
 ## Use in Different Disciplines
-Traffic: Lights determining the order of passage on a single-lane bridge. Kitchen: Cooks using a single knife in turn. Library: A single copy of a book changing hands with a loan book.
+Traffic: Lights that determine the order of crossing on a single-lane bridge.Kitchen: Cooks taking turns using a single knife.Library: A single copy of the book changes hands with the loan book.
 
 ## Frequently Asked Questions
 **What happens if it is not thread-safe?**

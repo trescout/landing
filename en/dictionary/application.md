@@ -6,7 +6,7 @@ Application is user software that performs a specific job.
 Everything from writing text to photo editing is done through an application. It runs on the operating system and offers a visual interface. The house analogy is apt: The system is the house, the applications are its furniture.
 
 ## How to Know and Use in Daily Life?
-Phone: Messaging and banking. Desktop: Office and design. Web: Opens in the browser.
+Telephone: Messaging and banking.Desktop: Office and design.Web: Those that open in the browser.
 
 ## Technical Depth and Architecture
 Types:
@@ -15,7 +15,7 @@ Types:
 It is considered an operating system. The system manages the device, the application does one job. Drivers are software but not applications.
 
 ## Use in Different Disciplines
-Furniture: Items inside the house. Kitchen appliance: Single-use appliances. Car accessory: Part that is installed later.
+Furniture: Items inside the house.Kitchen appliance: Single-task devices.Car accessory: Part installed later.
 
 ## Frequently Asked Questions
 **Are the application and software the same?**

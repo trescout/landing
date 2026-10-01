@@ -6,7 +6,7 @@ Free tier is the limited free version of the service.
 "Tier" means layer. A quota or feature limited package is offered for practice. When the need grows, they switch to paid services. It is standard in SaaS, AI API and cloud.
 
 ## How to Know and Use in Daily Life?
-Trial: First project with API key.Hobby: Small site hosting.Learning: New tool trial.
+Attempt: First project with API key.Hobby: Small site hosting.Learning: New vehicle trial.
 
 ## Technical Depth and Architecture
 Quota types:
@@ -15,7 +15,7 @@ Quota types:
 It is considered free software. It's completely clear, it's part of the business model. One is a gift, the other is a counter.
 
 ## Use in Different Disciplines
-Tasting: Small cup next to coffee. Test drive: Gallery tour. Library: Free membership.
+Tasting: Coffee in a small cup.Test drive: Gallery tour.Library: Free membership.
 
 ## Frequently Asked Questions
 **Unlimited?**

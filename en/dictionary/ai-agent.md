@@ -6,7 +6,7 @@ AI agent (in Turkish, artificial intelligence agent) is autonomous software that
 The chatbot answers the question, the agent finishes the job. The target is given, plans the steps, makes a call, reads a file, calls a vehicle. He tries to complete the task on his own. So beyond the assistant, it is the outline of the employee.
 
 ## How to Know and Use in Daily Life?
-E-mail: Collecting the inbox and making a summary. Research: Scanning the source and writing a report. Code: Browsing the repository and recommending patches.
+Email: Collecting and summarizing the inbox.Research: Scanning sources and writing reports.Code: Don't go around the warehouse and recommend patches.
 
 ## Technical Depth and Architecture
 The cycle is as follows:
@@ -15,7 +15,7 @@ The cycle is as follows:
 It is thought to be a chatbot. Chatbot talks, agent takes action. The chat interface looks the same, the background worker is different.
 
 ## Use in Different Disciplines
-Assistant chef: Read the recipe and cook the food.Valet: Take the key, finish the job and bring it back.Travel agency: Collect tickets, hotel and transfer.
+Assistant cook: Read the recipe and cook the food.Jack: Don't just take the key and finish the job.Travel agency: Ticket, hotel and transfer collection.
 
 ## Frequently Asked Questions
 **Can agents be dangerous?**

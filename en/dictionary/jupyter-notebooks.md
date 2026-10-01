@@ -8,6 +8,8 @@ Jupyter Notebooks are the de facto workplace for modern data science, machine le
 ## System architecture: Client, server and kernel
 The Jupyter infrastructure operates on a loosely coupled three-layer architecture:
 
+## The power of data science and the pitfalls of software engineering
+
 ## Frequently asked questions
 **What does Jupyter Notebook mean and where does its meaning come from?**
 Jupyter name; Julia is derived from the first letters of the Python and R programming languages ​​and a reference to astronomer Galileo's Jupiter observation notes. It is an interactive notebook with live code and rich text.

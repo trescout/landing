@@ -6,7 +6,7 @@ Proxy (in Turkish, proxy server) is the intermediary that transmits your request
 "Proxy" means proxy. It acts like a guard between your computer and the internet: You connect to the site through a proxy, not directly. It is used for identity concealment and traffic management.
 
 ## How to Know and Use in Daily Life?
-Company: Control of exit traffic. Privacy: Address hiding. Access: Exceeding regional restrictions.
+Company: Control of exit traffic.Security: Address hiding.Access: Regional constraint exceedance.
 
 ## Technical Depth and Architecture
 There are two directions:
@@ -15,7 +15,7 @@ There are two directions:
 It is considered a VPN. VPN tunnels the entire device, while proxy usually operates at the application or browser level. The depth of privacy varies.
 
 ## Use in Different Disciplines
-Friend: The person who conveys the message on your behalf. Reception: The officer who welcomes the visitor. Interpreter: The intermediary who conveys the word.
+Friend: The person who forwards the message on your behalf.Reception: The officer who greets the visitor.Interpreter: The medium that conveys the word.
 
 ## Frequently Asked Questions
 **Is it safe?**

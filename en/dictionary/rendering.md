@@ -6,13 +6,13 @@ Rendering is the process of converting raw data into the image you see on the sc
 "Render" means to present or draw in English. Computers keep data in numbers. Rendering converts this digital data into an image that you can see by calculating the light, color and shape properties. This process requires intense mathematical calculations, so the graphics card (GPU) usually takes care of it.
 
 ## How to Know and Use in Daily Life?
-Web pages: Your browser drawing the HTML and CSS code on the screen pixel by pixel. Games: Generating new frames 30 or 60 times per second. Video editing: Converting the timeline with effects into a watchable video (export). Maps: Drawing new details as you zoom.
+Web pages: Your browser draws the HTML and CSS code on the screen, pixel by pixel.Games: Generating new frames 30 or 60 times per second.Video editing: Conversion (export) of the effects timeline into watchable video.Maps: Drawing new details as you zoom in.
 
 ## Technical Depth and Architecture
 There are two main ways to create images:
 
 ## Use in Different Disciplines
-Printing House: Transforming the page design into a printing plate. Architecture: Realistic three-dimensional visual (layout) of the project. Cinema: Calculating the post-shooting effects squarely.
+Printing press: Converting the page design into a printing plate.Architectural: A realistic three-dimensional visual (situation) of the project.Cinema: Frame calculation of post-shooting effects.
 
 ## Frequently Asked Questions
 **Why might rendering be slow?**

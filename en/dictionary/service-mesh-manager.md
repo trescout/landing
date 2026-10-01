@@ -6,7 +6,7 @@ Service mesh manager is the console and toolset that monitors and manages servic
 Manager means administrator. It carries mesh traffic; the manager monitors and manages: it distributes rules, displays health, and rotates certificates. It is like the radar screen in a tower.
 
 ## How to Know and Use in Daily Life?
-Cloud: Large microservice networks. Security: Traffic inspection. Operations: Troubleshooting.
+Cloudy: Large microservices networks.Security: Traffic control.Operations: Troubleshooting.
 
 ## Technical Depth and Architecture
 Functions:
@@ -15,7 +15,7 @@ Functions:
 It is thought to be a gateway. The gateway stands at the door, while the manager handles all internal traffic. One is the door, the other is the control center.
 
 ## Use in Different Disciplines
-Tower: Management with radar screen. Traffic center: Signal and camera network. Conductor: Section layout.
+Tower: Management with a radar screen.Traffic center: Signal and camera network.Conductor: Section layout.
 
 ## Frequently Asked Questions
 **Why is it not managed manually?**

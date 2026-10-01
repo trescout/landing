@@ -6,7 +6,7 @@ A virtual machine is an independent computer that shares hardware.
 "Virtual" means virtual. Runs multiple operating systems on a single machine. Each of them works isolated with its own source and does not harm the main system.
 
 ## How to Know and Use in Daily Life?
-Server: Multi-tenant hosting. Testing: Different system trial. Development: Clean trial environment.
+Presenter: Multi-tenant hosting.Test: Trying a different system.Development: Clean testing environment.
 
 ## Technical Depth and Architecture
 Layers:
@@ -15,7 +15,7 @@ Layers:
 It is considered a container. The machine is the full system, the container is the shared kernel. One is an apartment, the other is a roommate.
 
 ## Use in Different Disciplines
-Rooms: Partitions with independent doors. Apartment: Shared building, private area. Suitcase: Partitioned transportation.
+Rooms: Partitions with independent doors.Apartment: Common building, private space.Suitcase: Split transport.
 
 ## Frequently Asked Questions
 **Does it slow down?**

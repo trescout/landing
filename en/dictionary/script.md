@@ -6,7 +6,7 @@ Script is a short sequence of commands that performs a single task automatically
 Instead of a big project, a single task is solved: Changing file names, cleaning data, starting programs. A command is written to the text file and the interpreter runs. No compilation required, it's a write-and-run setup.
 
 ## How to Know and Use in Daily Life?
-System: Backup and cleaning. Data: Batch file operations. Browser: Page automation plugins.
+System: Backup and cleanup.Data: Batch file operations.Scanner: Page automation plugins.
 
 ## Technical Depth and Architecture
 Working order:
@@ -15,7 +15,7 @@ Working order:
 It is considered an application. The application is large and compilable, the script is lightweight and instantaneous. The two are instruments of different scales.
 
 ## Use in Different Disciplines
-List: Step-by-step job description. Recipe card: Short measured instructions. Vending machine: A mechanism that works by pressing a coin.
+List: Step by step job description.Recipe card: Short measured instruction.Automat: A mechanism that works by pressing the coin.
 
 ## Frequently Asked Questions
 **Can anyone write?**

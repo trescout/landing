@@ -2,26 +2,35 @@
 
 > Model Context Protocol
 
-C’est la norme qui permet aux modèles d’intelligence artificielle de communiquer en toute sécurité avec des données du monde extérieur.
+MCP (Model Context Protocol) est un protocole ouvert qui permet aux applications d'intelligence artificielle de se connecter de manière standard à des données et des outils externes.
 
-## Définition
-Model Context Protocol (MCP) est un pont universel qui permet aux modèles d'IA de communiquer en toute sécurité avec des données et des logiciels du monde extérieur. Il permet à différentes applications de parler le même langage grâce à l’intelligence artificielle.
+## Définition et origine du mot
+Au lieu d'écrire des connexions distinctes pour chaque application, une seule norme est utilisée. Le protocole est un standard ouvert développé pour augmenter l’interopérabilité de l’écosystème de l’IA. L’analogie avec la prise est pertinente : tout comme chaque appareil fonctionne avec la même prise, différentes sources de données se connectent à l’IA de la même manière.
 
-## Comment ça marche
-Avec MCP, les développeurs connectent en toute sécurité l'IA aux bases de données ou aux systèmes de fichiers. Le modèle extrait les données dont il a besoin via ce protocole.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Assistants : L'application d'intelligence artificielle lit votre calendrier et vos fichiers.Développement: Lier l'éditeur de code au référentiel et à la documentation.Rapports : Extraction récapitulative de la base de données en direct.
 
-## Où est-ce utilisé
-Il est utilisé dans les cas où des documents privés internes à l’entreprise doivent être lus par l’intelligence artificielle ou où des rapports doivent être obtenus à partir de bases de données en direct.
+## Profondeur technique et architecture
+L'architecture se compose de trois parties :
 
-## Souvent confondu avec
-Mélangé avec API ; Alors que l'API est une porte, MCP est un ensemble de règles qui garantissent que les données passant par cette porte sont prononcées dans un langage standard.
+## Choses fréquemment mélangées
+Peut être mélangé avec l'API. L'API est une porte unique, tandis que MCP est l'ensemble de règles qui garantit que les données passant par cette porte sont prononcées dans un langage standard. L'API est spécifique au serveur, MCP est commun à tous les serveurs.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Électrique: La norme de prise à laquelle chaque appareil est conforme.Chemin de fer: Crochet standard pour relier les wagons.Langue: Langage protocolaire commun utilisé en diplomatie.
+
+## Foire aux questions
 **Pourquoi le MCP est-il nécessaire ?**
-Il augmente la sécurité et l'efficacité en suivant un chemin standard au lieu d'établir des connexions distinctes pour chaque application.
+Au lieu d'écrire un lien distinct pour chaque application, la méthode standard est suivie. Cela simplifie la sécurité et la maintenance.
 
 **MCP est-il open source ?**
-Oui, il s’agit d’un standard ouvert développé pour accroître l’interopérabilité de l’écosystème de l’intelligence artificielle.
+Oui. Il s'agit d'un standard ouvert, différentes applications peuvent écrire leurs propres clients et serveurs.
+
+**Pourquoi utiliser MCP au lieu de l'API ?**
+L'API est spécifique au serveur, chacune est apprise séparément. MCP propose un langage commun, le modèle se connecte au nouveau serveur prêt.
+
+**Est-ce sécuritaire?**
+Sa conception est basée sur les autorisations, mais vous devez garder la portée d'accès du serveur étroite et exiger une approbation pour les écritures.
 
 
 ## Termes liés
@@ -32,8 +41,8 @@ Oui, il s’agit d’un standard ouvert développé pour accroître l’interop�
 ## Outils liés
 - [Langflow](/fr/discover/langflow/)
 - [OpenCut](/fr/discover/opencut/)
-- [Goose](/fr/discover/goose/)
 - [AI Engineering from Scratch](/fr/discover/ai-engineering-from-scratch/)
+- [Goose](/fr/discover/goose/)
 - [Chrome Devtools MCP](/fr/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](/fr/discover/codebase-memory-mcp/)
 - [Claude Howto](/fr/discover/claude-howto/)

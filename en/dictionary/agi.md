@@ -8,7 +8,7 @@ AGI (Artificial General Intelligence) is the targeted intelligence that does eve
 Today's models are narrowly specialized, AGI is versatile: It learns in the field it does not see, changes strategies. The horizon of research is beyond products.
 
 ## How to Know and Use in Daily Life?
-Research: Roadmap objective.Policy: Regulatory debate.Education: Curriculum philosophy.
+Research: Roadmap target.Policy: Editing discussion.Education: Curriculum philosophy.
 
 ## Technical Depth and Architecture
 Distinctions:
@@ -17,7 +17,7 @@ Distinctions:
 They are thought to be language models. They are narrowly specialized, this is the general goal. One is an athlete, the other is an Olympic dream.
 
 ## Use in Different Disciplines
-Chess: One game master. Cook: General in kitchen. Poet: General in language.
+Chess: One game master.Chef: Kitchen overall.Poet: Language in general.
 
 ## Frequently Asked Questions
 **How to understand?**

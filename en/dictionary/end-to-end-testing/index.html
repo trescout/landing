@@ -61,10 +61,13 @@
 <p class="disc-lead">End-to-end testing (E2E testing for short) is testing the application from start to finish like the user.</p>
 <section class="disc-sec"><h2>Definition and Word Origin</h2><p>&quot;End-to-end&quot; means end-to-end. The whole is tried, not the part: The input is made, the button is pressed, the data goes, the result is returned. It is the gateway to pre-publication compliance.</p></section>
 <div class="dict-analogy"><strong>Analogy:</strong> It&#39;s like trying to drive off by turning the key instead of turning the engine.</div>
-<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p>Release: Pre-release tour.Shop: Purchase path.Form: Signup flow.</p></section>
-<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Order:</p></section>
+<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p><strong>Broadcasting:</strong> Pre-release tour.<br><strong>Shopping centre:</strong> Purchase path.<br><strong>Form:</strong> Registration flow.</p></section>
+<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Order:</p><p><strong>Critical path:</strong> First the flow that makes money.<br><strong>Automation:</strong> Scanner driving vehicle.<br><strong>Data:</strong> Test account and reset.</p><p>Example:</p><pre><code>test("giriş", async () =&gt; {
+  await sayfa.goto("/giris");
+  await bekle("#panel");
+});</code></pre><p>Reason for slowness: The actual browser opens. The critical path is chosen, not everything is tested.</p></section>
 <section class="disc-sec"><h2>Frequently Mixed Things</h2><p>It is considered a unit test. He looks at the part, this one looks at the whole. One is screw, the other is driving test.</p></section>
-<section class="disc-sec"><h2>Use in Different Disciplines</h2><p>Car: Starting from the key. Rehearsal: General repetition. Final: Broadcast rehearsal.</p></section>
+<section class="disc-sec"><h2>Use in Different Disciplines</h2><p><strong>Car:</strong> Starting from the key.<br><strong>Rehearsal:</strong> General repetition.<br><strong>Final:</strong> Broadcast rehearsal.</p></section>
 <section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why isn&#39;t just this done?</p><p class="dict-faq-a">It is slow, the fault location is blurred. Used with the unit.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How often does he run?</p><p class="dict-faq-a">Pre-broadcast and overnight. The critical subset runs in each commit.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Who writes?</p><p class="dict-faq-a">Developer and tester write together. The owner is known.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Is it fragile?</p><p class="dict-faq-a">It breaks when the interface changes. It is written selectively and durable.</p></div></div></section>
 <section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/unit-testing/">Unit Testing</a><a href="/en/dictionary/testing-framework/">Testing Framework</a><a href="/en/dictionary/web-interface/">Web Interface</a></div></section>
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/cypress/">Cypress</a></div></section>

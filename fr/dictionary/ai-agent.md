@@ -1,25 +1,34 @@
 # Qu'est-ce que AI Agent ?
 
-Il s’agit d’un système d’intelligence artificielle autonome qui prend des décisions et exécute des tâches de manière autonome.
+L'agent IA (en turc, agent d'intelligence artificielle) est un logiciel autonome qui utilise des outils et prend des décisions pour atteindre l'objectif.
 
-## Définition
-Ce sont des logiciels autonomes qui non seulement répondent à la question, mais utilisent également des outils et prennent des décisions pour atteindre l'objectif. Peut planifier les étapes pour accomplir une tâche par lui-même.
+## Définition et origine du mot
+Le chatbot répond à la question, l'agent termine le travail. La cible est donnée, planifie les étapes, passe un appel, lit un dossier, appelle un véhicule. Il essaie d'accomplir la tâche par lui-même. Donc au-delà de l’assistant, c’est la silhouette du salarié.
 
-## Comment ça marche
-L'agent divise la cible qui lui est donnée en petites tâches. Il recherche sur Internet, lit des fichiers ou communique avec d'autres logiciels en cas de besoin.
+## Comment connaître et utiliser dans la vie quotidienne ?
+E-mail: Collecte et synthèse de la boîte de réception.Recherche: Numérisation des sources et rédaction de rapports.Code: Ne faites pas le tour de l'entrepôt et recommandez des correctifs.
 
-## Où est-ce utilisé
-Il est utilisé dans les systèmes de réponse automatique aux e-mails, les projets d'analyse de données complexes ou les assistants personnels.
+## Profondeur technique et architecture
+Le cycle est le suivant :
 
-## Souvent confondu avec
-Il est confondu avec les chatbots ordinaires ; Le chatbot parle, l’agent passe à l’action.
+## Choses fréquemment mélangées
+On pense qu’il s’agit d’un chatbot. Le chatbot parle, l'agent passe à l'action. L'interface de chat est la même, le travailleur en arrière-plan est différent.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Assistant cuisinier : Lisez la recette et cuisinez la nourriture.Jack: Ne vous contentez pas de prendre la clé et de terminer le travail.Agence de voyage: Récupération des billets, de l'hôtel et du transfert.
+
+## Foire aux questions
 **Les agents peuvent-ils être dangereux ?**
-Ils peuvent effectuer des opérations incorrectes lorsqu’ils ne sont pas contrôlés, c’est pourquoi la supervision humaine est importante.
+S'il est laissé sans surveillance, il peut mal se comporter. Le niveau d’autorité et l’approbation humaine gèrent les risques.
 
 **Comment les agents prennent-ils leurs décisions ?**
-Ils progressent en effectuant des calculs de probabilités selon les règles et objectifs qui leur sont donnés.
+Il calcule la probabilité en fonction de la cible et des règles, et met à jour le plan en examinant les résultats de l'outil.
+
+**Quelle est la différence avec le chatbot ?**
+Le chatbot génère la réponse, l'agent termine le travail. L'agent demande un tour et apporte des modifications au monde extérieur.
+
+**Quels outils utilise-t-il ?**
+Fonctionnalités définies telles que la recherche, les fichiers, le calendrier, l'API et l'exécution de code. La liste s'ouvre par tâche.
 
 
 ## Termes liés

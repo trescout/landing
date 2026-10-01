@@ -15,7 +15,7 @@ Parts of the production line:
 It is confused with data science. A data scientist extracts meaning from data, while an AI engineer builds the system that processes this meaning. One is analysis, the other is production.
 
 ## Use in Different Disciplines
-Medicine: The laboratory that discovers the formula and the factory that mass-produces it. Construction: The architect who draws the project and the engineer who manages the site. Kitchen: The chef who writes the recipe and the operation that scales it across the chain.
+Remedy: The laboratory that found the formula and the factory that mass produces it.Construction: The architect who draws the project and the engineer who manages the construction site.Kitchen: The chef who writes the recipe and the operation that spreads it to the chain.
 
 ## Frequently Asked Questions
 **Is it necessary to know code to become an AI engineer?**

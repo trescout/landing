@@ -14,6 +14,8 @@ hey, entwickelt in der Sprache Go, ist ein Lasttest-Tool zur Messung der Leistun
 ## So fangen Sie an
 - Offizielle Quelle →
 
+## Verwandte Begriffe aus dem Glossar
+
 ## Links
 - GitHub-Repository →
 - Auf Türkisch lesen →

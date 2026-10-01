@@ -2,28 +2,35 @@
 
 > Continuous Integration / Continuous Deployment
 
-It is the process that ensures that software updates are automatically tested and released.
+CI/CD (Continuous Integration / Continuous Deployment) is the automatic testing and release of the code.
 
-## Overview
-It is an automatic production line established to ensure that the code written by software developers reaches the user without any errors. Continuous Integration (CI) ensures that the code is constantly assembled and tested, and Continuous Deployment (CD) ensures that this code is automatically transferred to the live system.
+## Definition and Word Origin
+It is an automatic line established to ensure that the written code reaches the user without any errors. CI constantly assembles and tests the code, and transfers it to live CD. The era of manual publications is coming to an end.
 
-*Analogy: It is like an automatic belt system that allows food to be prepared in a restaurant kitchen, taste tested, and served immediately to the customer's table.*
+## How to Know and Use in Daily Life?
+Team: Testing after every commit.Mobile: Automatic release to store.Web: Release when combined.
 
-## How it works
-When you submit your code to the system, the system runs automated tests first. If the tests are successful, it packages your code and prepares it for release.
+## Technical Depth and Architecture
+Line stages:
 
-## Where it is used
-It is used in modern software development teams, especially in applications that release updates quickly.
+## Frequently Mixed Things
+It is considered a manual test. However, the line is completely automatic: The code comes, the test runs, the result comes out. One just waits at the door.
 
-## Commonly confused with
-It may be confused with a purely manual testing process, but this is a completely automated flow.
+## Use in Different Disciplines
+Kitchen tape: Preparation, tasting and service.Assembly line: Part, inspection and package.Luggage band: Registration, browsing and uploading.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why is it so important?**
-It prevents faulty code from going live and increases development speed.
+It translates the faulty code live and increases the speed. Frequent broadcasting is done safely.
 
 **Should it always be automatic?**
-Generally yes, but manual approval steps may be added for critical updates.
+Generally yes, manual door is added in critical release.
+
+**What is the difference with Delivery?**
+Delivery prepares and waits, deployment hits and goes. The first one is approved, the second one is fully automatic.
+
+**What happens if it breaks?**
+The line stops and the broadcast is interrupted. That's why a backup plan and quick recovery are essential.
 
 
 ## Related terms
@@ -33,10 +40,14 @@ Generally yes, but manual approval steps may be added for critical updates.
 - [QA](/en/dictionary/qa/)
 
 ## Related tools
+- [Free for Dev](/en/discover/free-for-dev/)
 - [Strix](/en/discover/strix/)
+- [Googletest](/en/discover/googletest/)
+- [Trivy](/en/discover/trivy/)
 - [Openship](/en/discover/openship/)
+- [Ipatool](/en/discover/ipatool/)
+- [Checkstyle](/en/discover/checkstyle/)
 - [Flue](/en/discover/flue/)
-- [DevOps-Interview-Guide](/en/discover/devops-interview-guide/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ci-cd/

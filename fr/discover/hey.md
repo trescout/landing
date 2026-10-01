@@ -14,6 +14,8 @@ Développé en Go, hey est un outil de test de charge utilisé pour mesurer les 
 ## Pour commencer
 - Source officielle →
 
+## Termes liés du glossaire
+
 ## Liens
 - Dépôt GitHub →
 - Lire en turc →

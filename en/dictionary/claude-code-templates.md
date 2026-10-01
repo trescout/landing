@@ -6,13 +6,13 @@ Claude Code templates are ready-made file frameworks that speed up project launc
 "Template" means template. Instead of starting from a blank page, the skeleton is taken: The directory structure, settings and instruction file come ready-made. The assistant understands the type of the project from the framework, and his suggestions are accurate.
 
 ## How to Know and Use in Daily Life?
-Prototype: Quick testing of the idea. Standard: Same skeleton within the team. Learning: Learning the rule from the example.
+Prototype: Quick testing of the idea.Standard: The same skeleton within the team.Learning: Don't pick up the rule from the example.
 
 ## Technical Depth and Architecture
 Typical skeleton:
 
 ## Use in Different Disciplines
-Prefabricated: Ready-made structure. Tailor pattern: Cutting template according to size. Recipe: Measured starter set.
+Prefabricated: The foundation is ready-made.Tailor pattern: Cutting template according to size.Recipe: Modest starter set.
 
 ## Frequently Asked Questions
 **Can the templates be customized?**

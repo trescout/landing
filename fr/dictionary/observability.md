@@ -1,32 +1,41 @@
 # Qu'est-ce que Observability ?
 
-C'est la capacité de surveiller l'état interne d'un système avec des données externes.
+L'observabilité est la capacité de comprendre l'intérieur du système avec des données externes.
 
-## Définition
-L'observabilité est un mécanisme d'observation qui nous permet de comprendre ce qui se passe dans le monde intérieur des systèmes logiciels complexes. Il avertit non seulement en cas d'erreur, mais explique également, à l'aide de données, pourquoi le système ralentit ou ne produit pas les résultats escomptés.
+## Définition et origine du mot
+« Observer » signifie observer. Le voyant d'erreur vous indique le problème, le tableau de bord vous explique pourquoi. L'observabilité est le panneau : la source de la lenteur et de l'écart se trouve avec les données.
 
-## Comment ça marche
-Les journaux, les mesures et les données de surveillance du système sont collectés. En combinant ces données, l'état de santé du système est visualisé. Ainsi, le problème peut être détecté avant qu’il ne soit signalé à l’utilisateur.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Présentateur: Trouver la source de la lenteur.Modèle: Surveillance des écarts.Produit: Suivi de l'utilisation.
 
-## Où est-ce utilisé
-Il est utilisé dans les grands réseaux de serveurs et pour surveiller les performances des modèles d'intelligence artificielle. Il s’agit d’un outil essentiel, notamment pour déterminer où le système est obstrué.
+## Profondeur technique et architecture
+Trois colonnes :
 
-## Souvent confondu avec
-Elle est souvent confondue avec la « surveillance », qui consiste simplement à enregistrer les erreurs, mais l'observabilité se concentre sur la compréhension des raisons pour lesquelles le système échoue.
+## Choses fréquemment mélangées
+C’est considéré comme une surveillance. La surveillance surveille le seuil, l'observabilité en explique la raison. L’un est l’alarme, l’autre le diagnostic.
 
-## Questions fréquentes
-**Pourquoi ne suffit-il pas de conserver un journal des erreurs ?**
-Le journal des erreurs indique le problème mais n'explique pas la raison, tandis que l'observabilité vous permet de voir toutes les étapes à l'intérieur du système.
+## Utilisation dans différentes disciplines
+Panneau: Jauges de vitesse et de carburant.Hôpital: Moniteur patient.Poste de pilotage : Écrans de vol.
 
-**Est-ce requis pour chaque système ?**
-C’est peut-être exagéré pour des applications simples, mais c’est vital dans les systèmes d’intelligence artificielle composés de plusieurs parties.
+## Foire aux questions
+**Pourquoi l'inscription ne suffit-elle pas ?**
+Le dossier indique le problème, pas la cause. Lorsque les trois colonnes se rejoignent, le tableau est complété.
+
+**Est-ce nécessaire pour chaque système ?**
+Cela devient exagéré dans une tâche simple, mais cela devient vital dans un système fragmenté. C’est l’échelle qui décide.
+
+**Qu'est-ce que ça coûte ?**
+Il y a des frais de transport et de stockage. La politique d'échantillonnage et de durée permet de maintenir le coût.
+
+**Par où commencer ?**
+À partir de l’enregistrement structuré et de l’ID de corrélation. Ensuite, la métrique et la trace sont ajoutées.
 
 
 ## Termes liés
-- [Observability](/fr/dictionary/observability/)
+- [Logs](/fr/dictionary/logs/)
+- [Traces](/fr/dictionary/traces/)
 - [State Management](/fr/dictionary/state-management/)
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
-- [API](/fr/dictionary/api/)
 
 ## Outils liés
 - [Posthog](/fr/discover/posthog/)

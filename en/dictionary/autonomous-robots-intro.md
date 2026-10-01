@@ -6,7 +6,7 @@ Autonomous robots are machines that constantly move around without receiving com
 Autonomous means autonomous. The triple structure: Perception (sensor), processing (artificial intelligence) and action (motor). The robot does not memorize the path, it overcomes the obstacle and reaches the target.
 
 ## How to Know and Use in Daily Life?
-Warehouse: Inter-rack transport. Factory: Assembly line. Vehicle: Driver assistance systems.
+Warehouse: Transport between shelves.Factory: Assembly line.Vehicle: Driver support systems.
 
 ## Technical Depth and Architecture
 Loop:
@@ -15,7 +15,7 @@ Loop:
 It is thought to be a remote-controlled robot. It is entirely in human hands, face to face with this goal. One is a puppet, the other is an apprentice.
 
 ## Use in Different Disciplines
-Toy car: The model that finds its own way. Elevator: Floor selection according to the button. Autopilot: The system that maintains the route.
+Toy car: The model that finds its own way.Elevator: Floor selection according to the button.Autopilot: The system that maintains the route.
 
 ## Frequently Asked Questions
 **How do they learn?**

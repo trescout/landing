@@ -22372,7 +22372,7 @@
     "slug": "astrbot",
     "title": "AstrBot",
     "tagline": "AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan…",
-    "meta": "★ 41.143 · Python",
+    "meta": "★ 41.267 · Python",
     "image": "/assets/discover/og/astrbot.webp",
     "source": "GitHub",
     "date": "2026-07-20",
@@ -22380,7 +22380,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41143,
+    "stars": 41267,
     "lite": false,
     "headline": "Mesajlaşma uygulamaları için yapay zekâ ajanı",
     "last_review": "2026-10-01",
@@ -22447,6 +22447,13 @@
         "onceki_yildiz": 40523,
         "surum": "v4.28.2",
         "surum_tarihi": "2026-09-27"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 41267,
+        "onceki_yildiz": 41143,
+        "surum": "v4.29.0-beta.1",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "AstrBot works integrated with various instant messaging platforms, large language models and plug-ins.",

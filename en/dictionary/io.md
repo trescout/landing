@@ -8,13 +8,13 @@ I/O (Input/Output) is the system's data exchange with the outside world.
 Keyboard typing, downloaded file, result printed on the screen: All are I/O operations. The system talks to the outside world through this channel. It is like the senses and hands of the computer.
 
 ## How to Know and Use in Daily Life?
-Keyboard: Text input. Network: File download. Screen: Result display.
+Keyboard: Text entry.Network: File download.Screen: Don't show results.
 
 ## Technical Depth and Architecture
 Concepts:
 
 ## Use in Different Disciplines
-Human: Eye and ear input, speech output. Restaurant: Order input, service output. Factory: Raw material input, product output.
+Person: Eye-ear input, speech output.Restaurant: Order entry, service exit.Factory: Raw material input, product output.
 
 ## Frequently Asked Questions
 **Why is I/O a bottleneck?**

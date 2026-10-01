@@ -6,7 +6,7 @@ Harness is a framework that automatically tests code.
 "Harness" means harness. Every time the code is updated, tests run and give a corruption warning. It is the safety network that checks the health of the system.
 
 ## How to Know and Use in Daily Life?
-Development: Testing after every commit. CI: Automatic door in line. Quality: Pre-release scanning.
+Development: Testing after every commit.CI: Automatic door on the line.Quality: Pre-release scanning.
 
 ## Technical Depth and Architecture
 Parts:
@@ -15,7 +15,7 @@ Parts:
 It is thought to be the software itself. However, the harness is not the code, it is the environment that controls the code. One is the player and the other is the referee.
 
 ## Use in Different Disciplines
-Factory line: Brake and headlight inspection of each vehicle. Seat belt: The mechanism that holds it in case of collision. Training: Performance measurement track.
+Factory line: Brake and headlight inspection of each vehicle.Seat belt: The mechanism that prevents the collision.Training: Performance measurement track.
 
 ## Frequently Asked Questions
 **Why is it necessary?**

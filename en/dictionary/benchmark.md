@@ -6,7 +6,7 @@ A benchmark is the measurement and comparison of performance using a standard te
 "Bench mark" comes from the measurement mark a carpenter makes on a workbench. The system is subjected to the same questions, and a scoreboard is generated. It is the numerical value of speed, intelligence, or efficiency. Everything from models to processors goes onto this scale.
 
 ## How to Know and Use in Daily Life?
-Model: Intelligence and accuracy ranking. Processor: Speed comparison. Gaming: Frame rate tests.
+Model: Intelligence and accuracy ranking.Processor: Speed comparison.Game: Frame rate tests.
 
 ## Technical Depth and Architecture
 Rules for a valid comparison:
@@ -15,7 +15,7 @@ Rules for a valid comparison:
 It is thought to be a test. A test checks whether it works, while a benchmark checks how good it is. One is a door, the other is a race.
 
 ## Use in Different Disciplines
-Exam: Fair ranking with the same question. Athletics: Record chart. Carpenter: Workbench dimension mark.
+Exam: Fair ranking with the same question.Athletics: Record chart.Carpenter: Workbench measurement mark.
 
 ## Frequently Asked Questions
 **Is a high score always good?**

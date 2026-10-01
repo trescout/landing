@@ -8,7 +8,7 @@ Text-to-speech (TTS for short, text-to-speech) is a technology that speaks writt
 The written text is analyzed, stress and intonation are determined, then the artificial intelligence model converts the text into a sound wave. The technology has gone through three generations: canonical formant synthesis, the method of combining recording parts, and today's neural models. Naturalness increased significantly with the neural belt.
 
 ## How to Know and Use in Daily Life?
-Audiobook: Listening to the article while walking. Navigation: Turn alerts. Assistants: Phone and smart speaker responses. Accessibility: Screen reading for those with reading difficulties.
+Audiobook: Don't listen to the article while walking.Navigation: Return alerts.Assistants: Phone and smart speaker responses.Accessibility: Screen reading for those with reading difficulties.
 
 ## Technical Depth and Architecture
 The line consists of three steps:
@@ -17,7 +17,7 @@ The line consists of three steps:
 It is thought to be a voice recording. The record is a pre-read constant, while TTS produces each text instantaneously. Therefore, only TTS can voice the sentence that is not recorded.
 
 ## Use in Different Disciplines
-Dubbing: Producing sound in a different language from the text. Radio: Automatic bulletin dubbing. Game: Dynamic dialogue production.
+Dubbing: Producing audio from text in a different language.Radio: Automatic newsletter voiceover.Game: Dynamic dialogue generation.
 
 ## Frequently Asked Questions
 **Why do voices sometimes sound robotic?**

@@ -6,13 +6,13 @@ Backup program is software that copies data regularly.
 "Backup" means backup. Files are copied to another location at intervals. Reverts to failure, attack or deletion. It is the basis of secure digital life.
 
 ## How to Know and Use in Daily Life?
-Personal: Photo and document backup. Server: Nightly automatic copy. Cloud: Account sync.
+Personal: Photo and document backup.Presenter: Night auto copy.Cloudy: Account sync.
 
 ## Technical Depth and Architecture
 Types:
 
 ## Use in Different Disciplines
-Photocopy: The copy kept in the safe. Safe: Storage of valuable documents. Insurance: Disaster coverage.
+Photocopy: The copy sitting in the safe.Till: Storing valuable documents.Insurance: Disaster coverage.
 
 ## Frequently Asked Questions
 **Why is it important?**

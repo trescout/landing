@@ -6,7 +6,7 @@ Workflow (referred to in Turkish as iş akışı) is the structured sequence of 
 Flow means flow. The steps leading to the goal are ordered, and complex work is broken down into small pieces. The right flow reduces errors and increases speed.
 
 ## How to Know and Use in Daily Life?
-Development: Code review pipeline. Support: Ticket handling routine. Office: Approval chain.
+Development: Code review pipeline.Support: Ticket handling order.Office: Approval chain.
 
 ## Technical Depth and Architecture
 Flow description:
@@ -15,7 +15,7 @@ Flow description:
 Mistaken for a pipeline. A pipeline is a technical data flow, while a workflow is a more general business process. Every pipeline is considered a workflow, but not vice versa.
 
 ## Use in Different Disciplines
-Recipe: Preparation, cooking and service. Assembly: Order of parts. Counter: Registration and routing.
+Specification: Preparation, cooking, and service.Assembly: Part order.Counter: Registration and routing.
 
 ## Frequently Asked Questions
 **Why automate it?**

@@ -60,10 +60,15 @@
 <p class="disc-lead">Refactoring is the process of simplifying code while preserving its behavior.</p>
 <section class="disc-sec"><h2>Definition and Word Origin</h2><p>The internal wiring is renewed without altering the external appearance. Code readability increases, and adding new features becomes easier. It is a cleanup process that pays off technical debt. Martin Fowler is the reference name for this discipline.</p></section>
 <div class="dict-analogy"><strong>Analogy:</strong> It is like making the sentences fluent without changing the subject of the book.</div>
-<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p>Review: Code review rounds. Debt payment: Cleanup sprinkled into the sprint. Takeover: Simplification before diving into legacy code.</p></section>
-<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Common moves:</p></section>
+<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p><strong>Review:</strong> Code review rounds.<br><strong>Debt repayment:</strong> Cleanup sprinkled into the sprint.<br><strong>Takeover:</strong> Simplifying before diving into legacy code.</p></section>
+<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Common moves:</p><p><strong>Extract function:</strong> Splitting a long block into named parts.<br><strong>Renaming:</strong> A name that reveals intent.<br><strong>Dead code:</strong> Deleting the unused.</p><p>Example:</p><pre><code># önce
+def f(a):
+    return a*a*3.14
+# sonra
+def daire_alani(yaricap):
+    return yaricap * yaricap * 3.14</code></pre><p>Rule: Write tests first, then touch. If there is no test, the first job is to write one.</p></section>
 <section class="disc-sec"><h2>Frequently Mixed Things</h2><p>It is thought to be a feature or bug fix. Yet the output does not change, only the internal structure improves. Behavior is the same, code is different.</p></section>
-<section class="disc-sec"><h2>Use in Different Disciplines</h2><p>Plumbing: Pipe replacement while the wall stands. Editing: The topic is the same, the sentences flow. Pruning: The tree is the same, the branches are orderly.</p></section>
+<section class="disc-sec"><h2>Use in Different Disciplines</h2><p><strong>Plumbing:</strong> Replacing pipes while the wall stands.<br><strong>Copyediting:</strong> Subject is the same, sentences flow smoothly.<br><strong>Pruning:</strong> The tree is the same, the branch arrangement is regular.</p></section>
 <section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why do we do it?</p><p class="dict-faq-a">Clean code prevents bugs and slowdowns, speeds up new work.</p></div><div class="dict-faq-item"><p class="dict-faq-q">When is it done?</p><p class="dict-faq-a">In the code being touched, in small pieces. Major cleanup is planned separately.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the risk?</p><p class="dict-faq-a">A touch without tests breaks behavior. Do not enter without test assurance.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How often is it done?</p><p class="dict-faq-a">Continuously, in small doses. Sprinkled into the sprint, not postponed.</p></div></div></section>
 <section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/en/dictionary/unit-testing/">Unit Testing</a><a href="/en/dictionary/tech-stack/">Tech Stack</a></div></section>
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/continue/">Continue</a></div></section>

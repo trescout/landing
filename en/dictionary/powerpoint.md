@@ -1,24 +1,31 @@
 # What is PowerPoint?
 
-It is a presentation preparation program that allows you to present information in visual slides.
+PowerPoint is Microsoft's slide-based presentation application.
 
-## Overview
-PowerPoint is a digital stage you can use to explain your ideas, data, or projects to an audience. It allows you to combine text, images, and graphics into organized slides.
+## Definition and Word Origin
+The program was born in 1987 from Forethought company, and was acquired by Microsoft shortly after. It's the digital stage you use to explain your ideas, data, or project to an audience: You combine text, images, and graphics into organized slides. The file format .pptx is actually a compressed XML package.
 
-*Analogy: It is like a deck of illustrated cards that a storyteller holds in his hand to support his narrative.*
+## How to Know and Use in Daily Life?
+Business meetings: Quarterly reports and project status presentations.School: Homework and thesis defenses.Conferences: Keynote speeches and panels.Education: Lecture sets.
 
-## How it works
-You open a blank slide and design pages by adding text boxes, images, or graphics to it. Then you show these pages sequentially in a presentation mode.
+## Technical Depth and Architecture
+Parts of an effective presentation:
 
-## Where it is used
-Used in business meetings, school projects and conferences.
+## Use in Different Disciplines
+Lesson board: Board layout that explains the topic step by step.Photo album: The visual flow that aligns the narrative.Theatre: Stage plan progressing act by act.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Can I take notes while giving a presentation?**
-Yes, the presenter can see their notes on their screen, while the audience only sees the slide.
+Yes. In presenter view, you see your notes, the audience only sees the slide.
 
 **Can it be converted to other formats?**
-Yes, you can save your presentation as PDF or video.
+Yes. You can save your presentation as PDF or video.
+
+**Is there a free alternative?**
+Yes. LibreOffice Impress and the web-based Google Slides do similar work. Note the font and animation differences in the transition.
+
+**What to do if the file gets too big?**
+Compress images, link (do not embed) video, and purge unused originals. Saving in sections rather than single files also works.
 
 
 ## Related terms

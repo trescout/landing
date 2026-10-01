@@ -6,7 +6,7 @@ Flashcards are small learning cards with questions on the front and answers on t
 "Flash" means to show quickly and "card" means card. The method breaks complex information into smaller pieces: Each card asks for a single idea. When combined with spaced repetition, the cards appear before you when you are about to forget them. It is common in language learning and exam preparation.
 
 ## How to Know and Use in Daily Life?
-Language learning: 10 new word cards every day. Medicine and law: Memorization of concepts and definitions. Software: Command and shortcut cards. Exam: Formula and date review.
+Language learning: 10 new word cards every day.Medicine and law: Concept and definition memorization.Software: Command and shortcut cards.Exam: Formula and date repetition.
 
 ## Technical Depth and Architecture
 Parts of the digital card system:
@@ -15,7 +15,7 @@ Parts of the digital card system:
 It can be confused with a quiz. Quiz is a test and gives points. Flashcard is a learning tool, the purpose is repetition and remembering.
 
 ## Use in Different Disciplines
-Sports: Pre-training tactical cards. Music: Note and chord cards. Aviation: Emergency checklist cards.
+Sport: Pre-training tactical cards.Music: Note and chord cards.Aviation: Emergency checklist cards.
 
 ## Frequently Asked Questions
 **How does artificial intelligence produce cards?**

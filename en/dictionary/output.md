@@ -6,7 +6,7 @@ Output is the data produced as a result of the process.
 The input is processed, the result is output: text, image, sound or confirmation message. Every result from API response to model response is output. Input is the beginning, output is the result.
 
 ## How to Know and Use in Daily Life?
-API: JSON response body. Command line: Text printed to the screen. Model: Generated response.
+API: JSON response body.Command line: Text printed on the screen.Model: Generated answer.
 
 ## Technical Depth and Architecture
 Output channels:
@@ -15,7 +15,7 @@ Output channels:
 Not to be confused with input. Input is the beginning, output is the result. It also mixes with log: Log is the intermediate track, the output is the delivery.
 
 ## Use in Different Disciplines
-Bakery: Dough enters, bread comes out. Factory: Part enters, product comes out. Exam: Question enters, points are subtracted.
+Oven: Dough goes in, bread comes out.Factory: Part goes in, product comes out.Exam: Questions enter, points subtract.
 
 ## Frequently Asked Questions
 **Why would the output be incorrect?**

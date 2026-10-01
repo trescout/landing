@@ -6,16 +6,13 @@ Infotainment systems are touch panels in vehicles that combine navigation, music
 The term is a blend of the English words information and entertainment. It is the central screen on the dashboard of modern cars: the driver views trip information, while passengers access entertainment. Smartphone mirroring (CarPlay, Android Auto) and voice assistant support have become standard.
 
 ## How to Know and Use in Daily Life?
-Navigation: Directions with live traffic.
-Music and podcasts: Phone-synced audio streaming.
-Vehicle settings: Climate, seat, and drive mode controls.
-Parking and cameras: Rear-view and surround-view cameras.
+Navigation: Directions with live traffic.Music and podcasts: Audio streaming paired with the phone.Vehicle settings: Climate, seat and driving mode control.Parking and camera: Rearview and surround cameras.
 
 ## Technical Depth and Architecture
 Layers of the system:
 
 ## Use in Different Disciplines
-Aviation: Glass cockpit displays. Home: Wall-mounted smart home panels. Retail: In-store information kiosks.
+Aviation: Glass cockpit displays in the cockpit.Home: Wall-mounted smart home panel.Retail: In-store information kiosks.
 
 ## Frequently Asked Questions
 **Are these systems safe?**

@@ -6,7 +6,7 @@ Full text search is a search method that finds words in the entire content of do
 While simple search looks at the filename, full-text search scans every sentence within the document. It is the most effective way to access information in large archives. Its modern infrastructure is based on the structure called inverted index.
 
 ## How to Know and Use in Daily Life?
-Search within the site: Searching for a topic on the blog. E-mail: Finding a message from years ago. Code: Searching for a function in the repository. Law: Scanning the jurisprudence archive.
+Search within the site: Searching for topics on the blog.Email: Finding the message from years ago.Code: Searching for functions in the repository.Law: Browsing the jurisprudence archive.
 
 ## Technical Depth and Architecture
 The line is:
@@ -15,7 +15,7 @@ The line is:
 It can be confused with a metadata search. Metadata looks at file information (name, date, size), full text search looks at content. Vector search, on the other hand, looks at the meaning, not the word.
 
 ## Use in Different Disciplines
-Library: Scanning the entire text instead of the receipt catalogue. Book: Index section at the end. Archive: Searching for topics in the newspaper clipping collection.
+Library: Scanning entire text instead of receipt catalogue.Book: The index section at the end.Archive: Searching for topics in a collection of newspaper clippings.
 
 ## Frequently Asked Questions
 **Won't it run too slowly?**

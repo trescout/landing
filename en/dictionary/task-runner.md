@@ -1,24 +1,34 @@
 # What is Task Runner?
 
-It is a utility tool that automatically runs repetitive software tasks sequentially.
+Task runner is a tool that runs repetitive tasks sequentially.
 
-## Overview
-You delegate chores like testing code, compressing files, or sending them to the server to these tools instead of doing them manually. It starts the entire process with one command. It speeds up the software development process and reduces the margin of error.
+## Definition and Word Origin
+Chores like testing, compression, and deployment are tied into a single command. The list is followed, the process speeds up, errors decrease.
 
-*Analogy: It is like a food processor in a restaurant that does all the prep work in the kitchen (chopping, cooking, serving) in the order you specify.*
+## How to Know and Use in Daily Life?
+Web: Compilation and compression.CI: Line steps.Broadcasting: Deployment with a single command.
 
-## How it works
-With a configuration file, you define which job to do and in what order, and the tool follows this list.
+## Technical Depth and Architecture
+Npm scripts:
 
-## Where it is used
-It is used in web development projects, code compilation processes and CI/CD pipelines.
+## Frequently Mixed Things
+It is considered a terminal. The terminal runs it, the runner manages it. One is the stage, the other is the director.
 
-## Commonly confused with
-It differs from terminal which just runs one command; There is a process management and sequencing involved here.
+## Use in Different Disciplines
+Robot: Sequential kitchen chores.Washing machine: Programmed washing.Autopilot: Route tracking.
 
-## Frequently asked questions
-**For what type of work is it used?**
-To check code quality, optimize files and perform automatic deployment.
+## Frequently Asked Questions
+**In which jobs is it used?**
+In testing, compilation and deployment. Any recurring job is a candidate.
+
+**Which one should be chosen?**
+Ecosystem determines: npm is common on the JS side, Make is common on the system.
+
+**What is the CI difference?**
+Runner runs locally, CI runs in the cloud. Both are used together.
+
+**When is it written?**
+On the third repeat. The first is done by hand, the second by annotation, the third by script.
 
 
 ## Related terms

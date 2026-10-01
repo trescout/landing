@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is Environment Variables? · Dictionary · TreScout</title>
-<meta name="description" content="They are small identifiers that hold the settings and secret keys that programs need at run time.">
+<meta name="description" content="Environment variables are identifiers that keep settings outside of the code. They are small identifiers that hold the settings and secret keys that progra">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/environment-variables/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/environment-variables/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/environment-variables/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/environment-variables.md">
 <meta property="og:title" content="What is Environment Variables?">
-<meta property="og:description" content="They are small identifiers that hold the settings and secret keys that programs need at run time.">
+<meta property="og:description" content="Environment variables are identifiers that keep settings outside of the code. They are small identifiers that hold the settings and secret keys that progra">
 <meta property="og:url" content="https://trescout.com/en/dictionary/environment-variables/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="What is Environment Variables?">
-<meta name="twitter:description" content="They are small identifiers that hold the settings and secret keys that programs need at run time.">
+<meta name="twitter:description" content="Environment variables are identifiers that keep settings outside of the code. They are small identifiers that hold the settings and secret keys that progra">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Environment Variables",
-  "description": "They are small identifiers that hold the settings and secret keys that programs need at run time.",
+  "description": "Environment variables are identifiers that keep settings outside of the code.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/environment-variables/",
   "inDefinedTermSet": {
@@ -55,15 +55,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-08-08">Last updated: August 8, 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-22">Last updated: September 22, 2026</time></div>
 <h1 class="disc-title">What is <span class="disc-accent">Environment Variables</span>?</h1>
-<p class="disc-lead">They are small identifiers that hold the settings and secret keys that programs need at run time.</p>
-<section class="disc-sec"><h2>Overview</h2><p>It allows you to keep information at the system level, such as passwords, API keys or different server addresses, that you should not write in your code. While the program is running, it reads these variables and acts accordingly. Thus, the same code can run in different environments with different settings.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> Instead of hard-coded settings inside a device, it&#39;s like a settings card that&#39;s built into the device and can be changed each time.</div>
-<section class="disc-sec"><h2>How it works</h2><p>It is defined through the operating system or a special file, and when the program starts, it memorizes these values.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It is used in server installations, application configurations and all software projects that require security.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>It should not be confused with hardcoded values ​​written into the code, because this method creates a security risk.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why should we keep these variables private?</p><p class="dict-faq-a">To prevent your passwords from being compromised when you share your code.</p></div></div></section>
+<p class="disc-lead">Environment variables are identifiers that keep settings outside of the code.</p>
+<section class="disc-sec"><h2>Definition and Word Origin</h2><p>&quot;Environment&quot; means environment. Password and address do not stay in the code, they stay in the system. The same code behaves differently in different environment.</p></section>
+<div class="dict-analogy"><strong>Analogy:</strong> It is like a card that is inserted and changed instead of a setting embedded in the device.</div>
+<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p><strong>Presenter:</strong> Connection strings.<br><strong>Application:</strong> Mode selection.<br><strong>CI:</strong> Secret keys.</p></section>
+<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Order:</p><p><strong>.env:</strong> The local file does not go into storage.<br><strong>Priority:</strong> The media system crushes the file.<br><strong>Schema:</strong> Required list of names.</p><p>Example value:</p><pre><code>DATABASE_URL=postgres://kullanici:parola@localhost:5432/db</code></pre><p>Rule: The actual value is not written to the example, a placeholder is placed. The leaked key is revoked.</p></section>
+<section class="disc-sec"><h2>Frequently Mixed Things</h2><p>It is considered a constant value. It stops at hard code, the variable is outside. One is a tattoo and the other is a badge.</p></section>
+<section class="disc-sec"><h2>Use in Different Disciplines</h2><p><strong>Card:</strong> Changing settings card.<br><strong>Remote battery:</strong> Plug and play power.<br><strong>Key chain:</strong> Ported access.</p></section>
+<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why is it kept secret?</p><p class="dict-faq-a">It is obtained through sharing and an account is opened. It remains secret, the risk becomes smaller.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is .env?</p><p class="dict-faq-a">It is a local value file. It doesn&#39;t go into the warehouse, it goes into the sample.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What happens if it leaks?</p><p class="dict-faq-a">The key is canceled and the record is checked. The delay is large.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is priority?</p><p class="dict-faq-a">The system environment crushes the file. Live value comes from the system.</p></div></div></section>
 <section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/secrets/">Secrets</a><a href="/en/dictionary/runtime/">Runtime</a><a href="/en/dictionary/api/">API</a></div></section>
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/mise/">Mise</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="environment-variables" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>

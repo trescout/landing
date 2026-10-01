@@ -1,32 +1,41 @@
 # Was ist Observability?
 
-Es ist die Fähigkeit, den internen Zustand eines Systems anhand externer Daten zu überwachen.
+Beobachtbarkeit ist die Fähigkeit, das Innere des Systems anhand externer Daten zu verstehen.
 
-## Definition
-Beobachtbarkeit ist ein Beobachtungsmechanismus, der es uns ermöglicht zu verstehen, was in der Innenwelt komplexer Softwaresysteme geschieht. Es warnt nicht nur, wenn ein Fehler vorliegt, sondern erklärt anhand von Daten auch, warum das System langsamer wird oder nicht die erwarteten Ergebnisse liefert.
+## Definition und Wortherkunft
+„Beobachten“ bedeutet beobachten. Die Fehleranzeige zeigt Ihnen das Problem an, das Dashboard erklärt den Grund dafür. Beobachtbarkeit ist das Panel: Die Quelle der Langsamkeit und Abweichung wird in den Daten gefunden.
 
-## So funktioniert es
-Es werden Protokolle, Metriken und Überwachungsdaten vom System erfasst. Durch die Kombination dieser Daten wird der Gesundheitszustand des Systems visualisiert. Somit kann das Problem erkannt werden, bevor es dem Benutzer angezeigt wird.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Moderator: Die Quelle der Langsamkeit finden.Modell: Abweichungsüberwachung.Produkt: Nutzungsverfolgung.
 
-## Wo es eingesetzt wird
-Es wird in großen Servernetzwerken und zur Überwachung der Leistung von Modellen der künstlichen Intelligenz eingesetzt. Es ist ein wichtiges Werkzeug, insbesondere um herauszufinden, wo das System verstopft ist.
+## Technische Tiefe und Architektur
+Drei Spalten:
 
-## Häufig verwechselt mit
-Es wird oft mit „Überwachung“ verwechselt, bei der es sich lediglich um die Protokollierung von Fehlern handelt. Bei der Beobachtbarkeit geht es jedoch darum, zu verstehen, warum das System ausfällt.
+## Häufig gemischte Dinge
+Es gilt als Überwachung. Die Überwachung überwacht den Schwellenwert, die Beobachtbarkeit erklärt den Grund. Einer ist Alarm, der andere ist diagnostisch.
 
-## Häufige Fragen
-**Warum reicht es nicht aus, nur ein Fehlerprotokoll zu führen?**
-Das Fehlerprotokoll weist auf das Problem hin, erklärt jedoch nicht den Grund, während die Beobachtbarkeit es Ihnen ermöglicht, alle Schritte im System zu sehen.
+## Einsatz in verschiedenen Disziplinen
+Panel: Geschwindigkeits- und Tankanzeigen.Krankenhaus: Patientenmonitor.Cockpit: Flugbildschirme.
 
-**Ist es für jedes System erforderlich?**
-Für einfache Anwendungen mag das übertrieben sein, in Systemen der künstlichen Intelligenz, die aus vielen Teilen bestehen, ist es jedoch von entscheidender Bedeutung.
+## Häufig gestellte Fragen
+**Warum reicht eine Registrierung nicht aus?**
+Der Datensatz gibt Aufschluss über das Problem, nicht über die Ursache. Wenn die drei Spalten zusammenkommen, ist das Bild fertig.
+
+**Ist es für jedes System notwendig?**
+Bei einer einfachen Aufgabe wird es zu einer Übertreibung, in einem fragmentierten System wird es jedoch lebenswichtig. Der Maßstab entscheidet.
+
+**Wie hoch sind die Kosten?**
+Es fällt eine Transport- und Lagergebühr an. Durch die Probenahme- und Dauerpolitik bleiben die Kosten erhalten.
+
+**Wo soll ich anfangen?**
+Aus strukturiertem Datensatz und Korrelations-ID. Dann werden die Metrik und die Spur hinzugefügt.
 
 
 ## Verwandte Begriffe
-- [Observability](/de/dictionary/observability/)
+- [Logs](/de/dictionary/logs/)
+- [Traces](/de/dictionary/traces/)
 - [State Management](/de/dictionary/state-management/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
-- [API](/de/dictionary/api/)
 
 ## Verwandte Werkzeuge
 - [Posthog](/de/discover/posthog/)

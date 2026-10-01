@@ -6,7 +6,7 @@ Customization means adapting the ready-made product to your own needs.
 "Customize" means to customize. It ranges from interface color to workflow rule. The goal is for the product to fit you, not your product. The tailor metaphor is apt: Ready-made suits are purchased and narrowed down according to size.
 
 ## How to Know and Use in Daily Life?
-Theme: Dark mode and color selection. Shortcut: Key assignments. Enterprise: Approval flow and field definitions.
+Theme: Dark mode and color selection.Shortcut: Key assignments.Institutional: Approval flow and field definitions.
 
 ## Technical Depth and Architecture
 Adaptation layers, from cheap to expensive:
@@ -15,7 +15,7 @@ Adaptation layers, from cheap to expensive:
 It is similar to Personalization. The difference is this: In customization, you adjust the system, in personalization, the system observes you and adjusts itself. One is manual, the other is automatic.
 
 ## Use in Different Disciplines
-Tailor: Adapting ready-made clothing to size. Furniture: Making wardrobes according to measurements. Automobile: Selection of hardware package.
+Tailor: Adapting ready-made clothing to size.Furniture: Do not have a cabinet made to measure.Car: Hardware package selection.
 
 ## Frequently Asked Questions
 **Can every software be customized?**

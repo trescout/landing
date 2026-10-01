@@ -1,32 +1,41 @@
 # ¿Qué es Observability?
 
-Es la capacidad de monitorear el estado interno de un sistema con datos externos.
+La observabilidad es la capacidad de comprender el interior del sistema con datos externos.
 
-## Definición
-La observabilidad es un mecanismo de observación que nos permite comprender lo que sucede en el mundo interno de sistemas de software complejos. No sólo avisa cuando hay un error, sino que también explica con datos por qué el sistema se ralentiza o no produce los resultados esperados.
+## Definición y origen de la palabra
+"Observar" significa observar. La luz de error le indica el problema, el tablero explica el motivo. La observabilidad es el panel: la fuente de lentitud y desviación se encuentra en los datos.
 
-## Cómo funciona
-Se recopilan registros, métricas y datos de monitoreo del sistema. Al combinar estos datos, se visualiza el estado de salud del sistema. De este modo, el problema se puede detectar antes de que se refleje al usuario.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Presentador: Encontrar la fuente de la lentitud.Modelo: Monitoreo de desviaciones.Producto: Seguimiento de uso.
 
-## Dónde se usa
-Se utiliza en grandes redes de servidores y para monitorear el desempeño de modelos de inteligencia artificial. Es una herramienta fundamental, especialmente para encontrar dónde está obstruido el sistema.
+## Profundidad técnica y arquitectura
+Tres columnas:
 
-## Suele confundirse con
-A menudo se confunde con "monitoreo", que consiste simplemente en registrar errores, pero la observabilidad se centra en comprender por qué el sistema está fallando.
+## Cosas frecuentemente mezcladas
+Se considera seguimiento. El monitoreo monitorea el umbral, la observabilidad explica la razón. Uno es de alarma, el otro es de diagnóstico.
+
+## Uso en diferentes disciplinas
+Panel: Indicadores de velocidad y combustible.Hospital: Monitor de paciente.Carlinga: Pantallas de vuelo.
 
 ## Preguntas frecuentes
-**¿Por qué no basta con mantener un registro de errores?**
-El registro de errores informa el problema pero no explica el motivo, mientras que la observabilidad le permite ver todos los pasos dentro del sistema.
+**¿Por qué el registro no es suficiente?**
+El registro indica el problema, no la causa. Cuando las tres columnas se juntan, la imagen está completa.
 
 **¿Es necesario para todos los sistemas?**
-Puede que sea una exageración para aplicaciones simples, pero es vital en sistemas de inteligencia artificial que constan de muchas partes.
+Se vuelve exagerado en una tarea sencilla, pero se vuelve vital en un sistema fragmentado. La escala decide.
+
+**¿Cuánto cuesta?**
+Hay una tarifa de transporte y almacenamiento. La política de muestreo y duración mantiene el costo.
+
+**¿Por dónde empezar?**
+A partir de registro estructurado e ID de correlación. Luego se agregan la métrica y el seguimiento.
 
 
 ## Términos relacionados
-- [Observability](/es/dictionary/observability/)
+- [Logs](/es/dictionary/logs/)
+- [Traces](/es/dictionary/traces/)
 - [State Management](/es/dictionary/state-management/)
 - [Data Pipeline](/es/dictionary/data-pipeline/)
-- [API](/es/dictionary/api/)
 
 ## Herramientas relacionadas
 - [Posthog](/es/discover/posthog/)

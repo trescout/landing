@@ -8,7 +8,7 @@ End-to-end encryption is a security scheme that only the ends read.
 Data is locked on the device, unlocked on the destination. The carrier and server cannot see the content. It is the basic shield of privacy. WhatsApp and Signal are known examples.
 
 ## How to Know and Use in Daily Life?
-Message: Private chats. File: Secure transfer. Backup: Encrypted copy.
+Message: Private chats.File: Secure transmission.Spare: Encrypted copy.
 
 ## Technical Depth and Architecture
 Order:
@@ -17,7 +17,7 @@ Order:
 It is thought to be TLS. TLS protects the path, the server sees it. When it's end-to-end, even the server can't see it. One is courier armor, the other is sealed envelope.
 
 ## Use in Different Disciplines
-Locked box: The content cannot be seen by the carrier. Seal: The envelope that is visible when opened. Closed circuit: The line closed to the outside.
+Locked box: The carrier cannot see the content.Seal: An envelope that is obvious when opened.Closed circuit: Closed line to outside.
 
 ## Frequently Asked Questions
 **If it is stolen, can it be read?**

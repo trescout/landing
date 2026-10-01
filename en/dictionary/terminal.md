@@ -6,7 +6,7 @@ Terminal is the interface where you talk to the computer with text commands.
 It comes from old typewriter terminals. You type a command, press Enter, and the result returns as text. Deep settings, batch operations and server management that the graphical interface cannot do are made here. It is the daily work area of ​​the software developer.
 
 ## How to Know and Use in Daily Life?
-Development: Package installation, compilation, testing. Server: Remote machine management. Automation: Repetitive work with scripts.
+Development: Package installation, compilation, testing.Presenter: Remote machine management.Automation: Repetitive work with scripts.
 
 ## Technical Depth and Architecture
 The distinction is important:
@@ -15,7 +15,7 @@ The distinction is important:
 It is considered GUI. GUI is visual, terminal is textual. It also gets confused with shell: Terminal is the window, shell is the interpreter.
 
 ## Use in Different Disciplines
-Restaurant kitchen: Direct ingredients instead of menu. Cockpit: Direct control by button. Engine room: Manual turning of valves.
+Restaurant cuisine: Direct ingredients instead of menu.Cockpit: Direct control with button.Engine room: Turning valves by hand.
 
 ## Frequently Asked Questions
 **Is it necessary to learn the terminal?**

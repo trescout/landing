@@ -8,7 +8,7 @@ Google Cloud (full name Google Cloud Platform) is a cloud service that rents Goo
 Computing, storage, and artificial intelligence are rented without setting up servers. It is a pay-as-you-go model for as many resources as needed. It runs enterprise software, mobile backends, and data processing tasks.
 
 ## How to Know and Use in Daily Life?
-Enterprise: Business applications. Mobile: Backend services. Data: Warehousing and analytics.
+Institutional: Business applications.Mobile: Backend services.Data: Warehouse and analytics.
 
 ## Technical Depth and Architecture
 Services:
@@ -17,7 +17,7 @@ Services:
 It is mistaken for Drive. Drive stores files, Cloud runs applications. One is a cabinet, the other is a workshop.
 
 ## Use in Different Disciplines
-Network: Electricity from socket. Switchboard: Production for rent. Warehouse: Warehouse for rent.
+Grid: Electricity from the outlet.Power plant: Production for rent.Warehouse: Warehouse for rent.
 
 ## Frequently Asked Questions
 **Why not my own computer?**

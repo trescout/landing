@@ -1,35 +1,48 @@
 # Was ist Proxy?
 
-Dabei handelt es sich um einen zwischengeschalteten Server, der in Ihrem Namen Ihre Transaktionen im Internet durchführt.
+Proxy (auf Türkisch: Proxy-Server) ist der Vermittler, der Ihre Anfragen in Ihrem Namen an das Ziel übermittelt.
 
-## Definition
-Ein Proxy fungiert wie ein Wächter zwischen Ihrem Computer und dem Internet. Wenn Sie eine Site betreten möchten, gehen Sie zunächst zum Proxyserver. Anschließend wird in Ihrem Namen eine Verbindung zur Website hergestellt. Diese Methode dient sowohl dazu, Ihre Identität zu verbergen als auch den Internetverkehr zu verwalten.
+## Definition und Wortherkunft
+„Proxy“ bedeutet Proxy. Es fungiert wie ein Wächter zwischen Ihrem Computer und dem Internet: Sie stellen über einen Proxy eine Verbindung zur Website her, nicht direkt. Es wird zur Verschleierung der Identität und zum Verkehrsmanagement eingesetzt.
 
-## So funktioniert es
-Die Proxy-Adresse geben Sie in Ihren Interneteinstellungen ein. Nun gehen alle Ihre Daten zunächst an diesen Server und erreichen von dort aus das Ziel.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Unternehmen: Kontrolle des Ausgangsverkehrs.Sicherheit: Adresse ausblenden.Zugang: Überschreitung regionaler Beschränkungen.
 
-## Wo es eingesetzt wird
-Es wird in Unternehmensnetzwerken, in Situationen, in denen Vertraulichkeit erforderlich ist, und für den Zugriff auf eingeschränkte Inhalte eingesetzt.
+## Technische Tiefe und Architektur
+Es gibt zwei Richtungen:
 
-## Häufig verwechselt mit
-Es ähnelt einem VPN, allerdings funktioniert ein Proxy normalerweise nur für bestimmte Apps oder Browser.
+## Häufig gemischte Dinge
+Es gilt als VPN. VPN tunnelt das gesamte Gerät, während Proxy normalerweise auf Anwendungs- oder Browserebene arbeitet. Die Tiefe der Privatsphäre variiert.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Freund: Die Person, die die Nachricht in Ihrem Namen weiterleitet.Rezeption: Der Beamte, der den Besucher begrüßt.Interpreter: Das Medium, das das Wort vermittelt.
+
+## Häufig gestellte Fragen
 **Ist es sicher?**
-Dies hängt vom verwendeten Proxyserver ab. Nicht vertrauenswürdige Proxys können Ihre Informationen verfolgen.
+Das hängt vom Proxy ab. Ein nicht vertrauenswürdiger Server überwacht möglicherweise den Datenverkehr. Daher wird ein bekannter Anbieter ausgewählt.
 
 **Warum wird es verwendet?**
-Es wird bevorzugt, um auf blockierte Websites zuzugreifen, die Internetgeschwindigkeit zu optimieren oder die Identität zu verbergen.
+Für Kontrolle, Privatsphäre und Zugriff. Alle drei sind getrennte Bedürfnisse.
+
+**Was ist Reverse?**
+Es ist die Richtung, die das, was von außen kommt, an den Server verteilt. Bietet Lastausgleich und Schutz.
+
+**Wird es schneller?**
+Ja, bei zwischengespeicherten Inhalten, bei verschlüsseltem und Remote-Datenverkehr wird der Datenverkehr im Allgemeinen verlangsamt.
 
 
 ## Verwandte Begriffe
-- [Self-hosting](/de/dictionary/self-hosting/)
+- [Self-Hosting](/de/dictionary/self-hosting/)
 - [Offline](/de/dictionary/offline/)
+- [VPN](/de/dictionary/vpn/)
 
 ## Verwandte Werkzeuge
+- [OmniRoute](/de/discover/omniroute/)
 - [FlClash](/de/discover/flclash/)
 - [Nginx](/de/discover/nginx/)
+- [Freellmapi](/de/discover/freellmapi/)
 - [Headroom](/de/discover/headroom/)
+- [User Scanner](/de/discover/user-scanner/)
 - [OpenFlux](/de/discover/openflux/)
 
 ---

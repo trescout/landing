@@ -8,7 +8,7 @@ SLM (Small Language Model) es un modelo compacto que se ejecuta con pocos recurs
 Tiene pocos parámetros, arquitectura pequeña y enfoque en eficiencia. Su cultura general es estrecha y es rápido en sus deberes. Funciona sin Internet en su teléfono y computadora portátil.
 
 ## ¿Cómo saberlo y utilizarlo en la vida diaria?
-Móvil: Asistente en el dispositivo. Privacidad: Trabajo libre de datos. Clasificación: Líneas monotarea.
+Móvil: Asistente en el dispositivo.Seguridad: Un trabajo sin datos.Clasificación: Líneas de servicio únicas.
 
 ## Profundidad técnica y arquitectura
 Escala:
@@ -17,7 +17,7 @@ Escala:
 Se le considera débil. Generalmente estrecho, fuerte en el deber. Una es una enciclopedia, la otra es un manual.
 
 ## Uso en diferentes disciplinas
-Manual: Breve llevado en bolso. Linterna de bolsillo: Luz dirigida. Scooter: Vehículo de corta distancia.
+Manual: Resumen llevado en el bolso.Antorcha: Luz dirigida.scooter: Vehículo de corta distancia.
 
 ## Preguntas frecuentes
 **¿Menos inteligente?**

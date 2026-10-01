@@ -6,7 +6,7 @@ Whisper is an open source speech recognition model developed by OpenAI.
 "Whisper" means whisper. It is multilingual and noise-resistant, and also provides translation. It takes the burden off audio work from meeting to subtitling.
 
 ## How to Know and Use in Daily Life?
-Subtitle: Video text. Record: Meeting recording. Command: Voice interface.
+Subtitle: Video text.Amount: Meeting recording.Command: Voice interface.
 
 ## Technical Depth and Architecture
 Line:
@@ -15,7 +15,7 @@ Line:
 It interferes with general transcription. Whisper is a model, transcription is work. One is a tool, the other is a craft.
 
 ## Use in Different Disciplines
-Secretary: Taking notes while speaking. Translator: Translating from language to language. Typist: Writing down what is said.
+Secretary: Don't take notes while speaking.Interpreter: Transmission from language to language.Typewriter: Do not transcribe what is said.
 
 ## Frequently Asked Questions
 **Can I use it in my own application?**

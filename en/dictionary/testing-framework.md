@@ -6,13 +6,13 @@ Testing framework (test framework in Turkish) is a ready-made infrastructure tha
 "Framework" means roof. Instead of writing commands one by one, the rules and runner come ready-made. The result is reported, the error is marked. The test order becomes standardised.
 
 ## How to Know and Use in Daily Life?
-Development: Set running on every commit.CI: Quality gate in line.Version: Pre-release scanning.
+Development: The set that runs on every commit.CI: The door to quality on the line.Version: Pre-publication screening.
 
 ## Technical Depth and Architecture
 Parts:
 
 ## Use in Different Disciplines
-Tool bag: Tool according to the job. Measurement set: Caliber tools. Gym: Programmed equipment.
+Tool bag: Team for job.Size set: Caliber instruments.Gym: Programmed equipment.
 
 ## Frequently Asked Questions
 **Which one should be chosen?**

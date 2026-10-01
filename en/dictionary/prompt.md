@@ -6,7 +6,7 @@ Prompt is a written instruction given to the model.
 "Prompt" means request. It is the basis of communication: Clear instructions bring clear answers. It is written with the trio of role, context and form.
 
 ## How to Know and Use in Daily Life?
-Chat: Giving questions and tasks. Visual: Scene description. Code: Job description.
+Chat: Giving questions and tasks.Visual: Stage description.Code: Job description.
 
 ## Technical Depth and Architecture
 Pattern:
@@ -15,7 +15,7 @@ Pattern:
 It is considered engineering. Prompt is the only instruction, engineering is the art of optimization. One is a sentence, the other is a craft.
 
 ## Use in Different Disciplines
-List: Task compass.Order: Kitchen receipt.Recipe: Measured instructions.
+List: Duty compass.Order: Kitchen receipt.Specification: Moderate instruction.
 
 ## Frequently Asked Questions
 **What is bad will?**

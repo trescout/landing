@@ -6,7 +6,7 @@ Marketing skills are the skills to deliver the product to the right audience.
 It is more than advertising: Research, content, brand and analysis come together. It is the art of explaining the value of the product correctly and delivering it to the right person. Personalization has deepened with artificial intelligence.
 
 ## How to Know and Use in Daily Life?
-Campaign: Launch and discount. Content: Blog and newsletter. Social: Community management.
+Offer: Launch and discount.Contents: Blog and newsletter.Social: Community management.
 
 ## Technical Depth and Architecture
 Set:
@@ -15,7 +15,7 @@ Set:
 It's considered a sale. He prepares the marketing environment and closes the sales. One is the field, the other is the harvest.
 
 ## Use in Different Disciplines
-Showcase: Don't attract passers-by. Poster: Theater announcement. Sample: Distribute tasting food.
+Showcase: Don't pull anyone passing by.Banner: Theater announcement.Sample: Don't give away a taste.
 
 ## Frequently Asked Questions
 **How is AI changing marketing?**

@@ -2,28 +2,35 @@
 
 > Random Access Memory
 
-A temporary memory unit where the computer quickly reads and writes the data it actively uses.
+RAM (Random Access Memory) is the temporary memory where the processor keeps active data.
 
-## Overview
-It is a workspace where the data is deleted when the computer is turned off, but it works at lightning speed because it is very close to the processor. The processor pulls all the files it needs to do a job here.
+## Definition and Word Origin
+Its contents are deleted when the computer is turned off, but since it is close to the processor, it runs at very high speed. The processor pulls files here while doing work. When programs are opened, they are copied from disk into RAM.
 
-*Analogy: It is like a computer desk; The wider the desk top, the more files you can open and work on at the same time.*
+## How to Know and Use in Daily Life?
+Computer: Tabs and apps.Telephone: Apps in the background.Presenter: Concurrent requests.
 
-## How it works
-When programs are opened, they are copied from the hard disk to RAM, the processor receives and processes the data from there.
+## Technical Depth and Architecture
+Types:
 
-## Where it is used
-It is an essential piece of hardware in all computers, phones and servers.
+## Frequently Mixed Things
+It is considered storage. RAM is temporary working space, disk is permanent library. When it shuts down, RAM is emptied and the disk remains.
 
-## Commonly confused with
-Mixed with storage (HDD/SSD); RAM is the temporary workspace while storage is the permanent library.
+## Use in Different Disciplines
+Table: The number of open files increases as the width increases.Stand: Keeping the material at hand.Whiteboard: Temporary note area.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **What happens if RAM becomes full?**
-The computer slows down or applications close.
+The system slows down or applications close. Unnecessary tabs are closed and capacity is increased if necessary.
 
-**Does more RAM always increase speed?**
-It increases it to the required level, and the excess remains idle.
+**Does too much speed it up?**
+Yes, it waits idle as long as it is needed. If the bottleneck is disk, increasing RAM doesn't matter.
+
+**What is the difference between SSD?**
+SSD is permanent storage, RAM is temporary space. The two work together, one does not replace the other.
+
+**How much is enough?**
+8 GB for daily work, 16 GB for development and 32 GB for heavy work are practical equivalents.
 
 
 ## Related terms
@@ -32,9 +39,13 @@ It increases it to the required level, and the excess remains idle.
 - [CPU](/en/dictionary/cpu/)
 
 ## Related tools
+- [Free for Dev](/en/discover/free-for-dev/)
 - [Colibri](/en/discover/colibri/)
 - [Llmfit](/en/discover/llmfit/)
+- [CasaOS](/en/discover/casaos/)
+- [Airllm](/en/discover/airllm/)
 - [Invidious](/en/discover/invidious/)
+- [Omlx](/en/discover/omlx/)
 - [Needle](/en/discover/needle/)
 
 ---

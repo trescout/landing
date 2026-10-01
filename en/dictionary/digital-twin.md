@@ -6,7 +6,7 @@ Digital twin is a copy of the object fed with live data.
 "Twin" means twin. Sensor data flows from the real object, the model simulates behavior. Malfunction and performance are foreseen. He runs factory and city jobs.
 
 ## How to Know and Use in Daily Life?
-Factory: Maintenance forecast. City: Traffic simulation. Energy: Turbine monitoring.
+Factory: Maintenance estimate.City: Traffic simulation.Energy: Turbine monitoring.
 
 ## Technical Depth and Architecture
 Flow:
@@ -15,7 +15,7 @@ Flow:
 It is mistaken for a 3D model. That is the static picture, that is the living system. One is a photograph, the other is a mirror.
 
 ## Use in Different Disciplines
-Airplane: Simultaneous flight in the air and simulation. Mirror: Surface that reflects movement. Shadow: Darkness following the object.
+Aeroplane: Co-flight in the air and in simulation.Mirror: A surface that reflects movement.Shadow: Darkness following the object.
 
 ## Frequently Asked Questions
 **What is the simulation difference?**

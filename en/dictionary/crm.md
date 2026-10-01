@@ -8,7 +8,7 @@ CRM (Customer Relationship Management) is a system that centralizes customer int
 When the customer called, which product they purchased, or what issue they experienced is stored here. Sales, support, and marketing look at the same record, so the customer doesn't have to retell their story every time they call. It has a history stretching from a business card box to the Salesforce cloud.
 
 ## How to Know and Use in Daily Life?
-Sales: Candidate tracking and quote management. Support: Ticket logging and resolution history. Marketing: Bulk and personalized messages to segments.
+Sales: Lead tracking and quote management.Support: Trouble ticket and resolution history.Marketing: Bulk and personalized messages to segments.
 
 ## Technical Depth and Architecture
 Objects of the system:

@@ -60,9 +60,14 @@
 <p class="disc-lead">Clean code is the code that can be read by humans.</p>
 <section class="disc-sec"><h2>Definition and Word Origin</h2><p>The machine runs every code, a human cannot read every code. Meaningful name, small function and simple flow bring readability. Robert Martin is the reference name of this discipline.</p></section>
 <div class="dict-analogy"><strong>Analogy:</strong> It&#39;s like having library shelves arranged by genre and author.</div>
-<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p>Team: Common code base. Review: Readability check. Maintenance: Revert to legacy code.</p></section>
-<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Principles:</p></section>
-<section class="disc-sec"><h2>Use in Different Disciplines</h2><p>Desk: Tidy work area. Shelves: Sorted by genre and author. Garden: Pruned branch arrangement.</p></section>
+<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p><strong>Team:</strong> Common code base.<br><strong>Review:</strong> Readability check.<br><strong>Care:</strong> Reverting to old code.</p></section>
+<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Principles:</p><p><strong>Name:</strong> The name that expresses the intention.<br><strong>Dimension:</strong> Single job function.<br><strong>Again:</strong> The common piece is in one place.</p><p>Example:</p><pre><code># önce
+def h(a, b):
+    return a + a*b
+# sonra
+def indirimli_fiyat(fiyat, oran):
+    return fiyat + fiyat * oran</code></pre><p>Rule: Running code is the first step, read code is the second step.</p></section>
+<section class="disc-sec"><h2>Use in Different Disciplines</h2><p><strong>Table:</strong> Tidy work area.<br><strong>Shelves:</strong> Sorted by genre and author.<br><strong>Garden:</strong> Pruned branch arrangement.</p></section>
 <section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Isn&#39;t it enough to work?</p><p class="dict-faq-a">It&#39;s not enough. Working code saves today, read code saves tomorrow.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Does it slow down?</p><p class="dict-faq-a">In the beginning yes, in maintenance no. It makes money in total.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How is it measured?</p><p class="dict-faq-a">With review time and error rate. Number alone is not enough.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Where to start?</p><p class="dict-faq-a">From name and function. The touched code is cleared.</p></div></div></section>
 <section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/refactoring/">Refactoring</a><a href="/en/dictionary/unit-testing/">Unit Testing</a><a href="/en/dictionary/engineering-skills/">Engineering Skills</a></div></section>
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/clean-code-javascript/">Clean Code Javascript</a></div></section>

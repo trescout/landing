@@ -12,7 +12,7 @@ As an end user, you encounter extensibility every day:
 The core of an extensible system is small, its surroundings grow with add-ons. Typical parts of this architecture are:
 
 ## Use in Different Disciplines
-Architecture: Prefabricated structures where new modules can be added without touching the load-bearing walls. Production: Food processors that can be attached to the same body with different apparatus. Game: Mod communities that add new maps and missions without changing the main game.
+Architectural: Prefabricated structures where new modules can be added without touching the load-bearing walls.Production: Food processors that can have different attachments attached to the same body.Game: Mod communities that add new maps and missions without changing the main game.
 
 ## Frequently Asked Questions
 **Is every software extensible?**

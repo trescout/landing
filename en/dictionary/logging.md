@@ -6,7 +6,7 @@ Logging means writing down the program's events chronologically.
 "Log" means log, record. When the program silently fails, what it has done so far is read from the log. It is like the plane's black box: It is the first place checked after an accident.
 
 ## How to Know and Use in Daily Life?
-Server: Debugging. Product: Usage monitoring. Security: Event logging.
+Presenter: Debugging.Product: Usage tracking.Security: Event log.
 
 ## Technical Depth and Architecture
 Levels:
@@ -15,7 +15,7 @@ Levels:
 It is thought to be observability. However, logging is its building block: The log is the raw material, observation ability is the product.
 
 ## Use in Different Disciplines
-Black box: Flight data record. Log: Date sequence notes. Camera record: Event archive.
+Black box: Flight data recording.Journal: Chronological notes.Camera recording: Event archive.
 
 ## Frequently Asked Questions
 **Is it good to save everything?**

@@ -1,24 +1,34 @@
 # What is Caching?
 
-Frequently used data is temporarily stored in memory for quick access.
+Caching is the frequent copying of data to a fast floor.
 
-## Overview
-Caching is an acceleration method used to prevent a system from repeatedly calculating the same data or pulling it from a remote source. Data is copied to a quickly accessible area (cache) and served from there when needed. This significantly reduces the overall response time of the system.
+## Definition and Word Origin
+"Cache" means reserved stock. The system gives the same data from a copy instead of recalculating it. Response time decreases and the load becomes lighter. It works on every floor, from the browser to the data center.
 
-*Analogy: It's like carrying a book you use all the time in your bag; You don't have to go to the library and pick up the book from the shelf every time, it is at hand.*
+## How to Know and Use in Daily Life?
+Scanner: Page and image storage.Application: Offline copy.Presenter: Storing query results.
 
-## How it works
-When the system requests data, it first looks at the cache; If the data is there, it retrieves it immediately, otherwise it pulls it from the main source and leaves a copy in the cache.
+## Technical Depth and Architecture
+Strategies:
 
-## Where it is used
-It is widely used to improve performance in web browsers, applications, and large-scale data centers.
+## Frequently Mixed Things
+It is considered a database. The database is persistent and large, the cache is temporary and fast. One is a safe and the other is a pocket wallet.
 
-## Commonly confused with
-It can be confused with a database, but cache is temporary and fast, while database is permanent and larger.
+## Use in Different Disciplines
+Bag: Frequent books at hand.Freezer: Daily meal ahead.Cellar: Bulk stock is in the back.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **What happens if the cache becomes full?**
-Old or rarely used data is deleted and replaced with new data.
+The old and less used falls away, and the new one is written. Politics governs this.
+
+**When is it cleaned?**
+When time expires, capacity is overflowed or manually. Critical data is kept for short periods of time.
+
+**Is there any inconsistency?**
+It could be. When the source changes, the copy becomes outdated and version and time discipline is required.
+
+**Where is it kept?**
+At the end of memory, disk or CDN. It is selected according to the balance of speed and capacity.
 
 
 ## Related terms
@@ -27,6 +37,8 @@ Old or rarely used data is deleted and replaced with new data.
 - [Database](/en/dictionary/database/)
 
 ## Related tools
+- [Free for Dev](/en/discover/free-for-dev/)
+- [OmniRoute](/en/discover/omniroute/)
 - [Guava](/en/discover/guava/)
 - [Omlx](/en/discover/omlx/)
 

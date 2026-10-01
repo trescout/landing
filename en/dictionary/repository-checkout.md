@@ -6,13 +6,13 @@ Repository checkout is the process of downloading a specific version of the repo
 You get the current version of the project from the server and bring it to your desk. It's like borrowing a book from the library: The source remains, you work with the copy. History and version information comes with the copy.
 
 ## How to Know and Use in Daily Life?
-New project: Downloading the repository for the first time. Version migration: Going back to the old tag and examining the error. Trying a branch: Opening the friend's branch locally.
+New project: Downloading the repository for the first time.Version migration: Do not go back to the old tag and examine the error.Try branch: Don't open your friend's branch locally.
 
 ## Technical Depth and Architecture
 The flow is as follows:
 
 ## Use in Different Disciplines
-Library: Taking the book from the shelf and bringing it to the table. Archive: Taking the folder out of storage and examining it. Photo: Printing from the negative.
+Library: Don't take the book off the shelf and bring it to the table.Archive: Remove the folder from storage and examine it.Photograph: Don't take pressure from the negative.
 
 ## Frequently Asked Questions
 **Does it only download files?**

@@ -6,10 +6,10 @@ Speaker Diarization (speaker separation or logging) analyzes sound waves in a mu
 Diarization, whose word originates from the French verb "to keep a diary" (diariser), is the process in audio engineering of dividing the audio stream into time-dependent segments and matching each segment with a specific speaker identity (for example, Speaker 1, Speaker 2). Regardless of the content of the speech, it distinguishes identity directly through the biometric timbre and frequency characteristics of the voice.
 
 ## How Does It Work? (Diarization Step by Step)
-1. Voice Activity Detection (VAD): Music, background noise and breathing gaps in the recording are eliminated and only the parts containing the human voice are extracted.
+1. Voice Activity Detection (VAD): Music, background noise and breathing gaps in the recording are eliminated and only the sections containing human voices are extracted.
 
 ## Where and in what areas is it used?
-Smart Meeting Assistants: Artificial intelligence summary tools (Otter.ai, Meetily) that extract who took which decision or task in Zoom, Google Meet or Teams meetings. Call Centers: Performing sentiment analysis and quality control by parsing the conversations between the customer and the representative. Podcast and Interview Transcription: Creating automatic professional subtitles and speaker separation in multi-participant audio and video content. Law and Forensics: Documenting speaker transitions in court records and security interrogations.
+Smart Meeting Assistants: AI summary tools (Otter.ai, Meetily) that extract who made which decision or task in Zoom, Google Meet or Teams meetings.Call Centers: Performing sentiment analysis and quality control by parsing the conversations between the customer and the representative.Podcast and Interview Transcription: Automatic creation of professional subtitles and speaker separation in multi-participant audio and video content.Law and Forensics: Documenting speaker transitions in court records and security interrogations.
 
 ## Commonly confused with
 Transcription (Audio-Text Conversion / STT) and Speaker Diarization are often confused. A traditional Speech-to-Text engine only transcribes "what was said" but cannot distinguish who said it. Diarization, on the other hand, finds "who said it". For example, while OpenAI Whisper does pure transcription; When combined with tools like pyannote.audio or WhisperX, complete text and speaker IDs are obtained.

@@ -6,13 +6,13 @@ Office suite is a software group that gathers documents, tables and presentation
 "Suite" means team, group. The parts use a common interface and format, and data can be easily moved between them. Writing, calculation and presentation work can be done with a single installation.
 
 ## How to Know and Use in Daily Life?
-Business: Report and budget sheets. Education: Homework and presentation. Personal: Letter and list.
+Work: Report and budget tables.Education: Homework and presentation.Personal: Letter and list.
 
 ## Technical Depth and Architecture
 Parts:
 
 ## Use in Different Disciplines
-Stationery: Pen, paper and machine set. Tool bag: Set according to the job. Kitchen set: Pot and knife set.
+Stationary: Pen, paper and machine set.Tool bag: Team for job.Kitchen set: Pot and knife group.
 
 ## Frequently Asked Questions
 **Are there cloud-based ones?**

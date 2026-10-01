@@ -6,7 +6,7 @@ Skill is the defined unit that enables the artificial intelligence assistant to 
 The assistant's general speech is not enough; Sometimes it needs to read files and make searches. Each of these special functions is defined as a skill. The concept has moved from the voice assistant era to the agent era: from Alexa skills to today's agent skills.
 
 ## How to Know and Use in Daily Life?
-File: Reading and summarizing documents. Calendar: Setting up a meeting. Search: Getting current information.
+File: Document reading and summarizing.Calendar: Set up a meeting.Call: Getting current information.
 
 ## Technical Depth and Architecture
 The skill is written in three parts:
@@ -15,7 +15,7 @@ The skill is written in three parts:
 It is thought to be general modeling ability. However, what is meant here is the assistant's ability to use external tools. The model understands the language, the skill does the work.
 
 ## Use in Different Disciplines
-Kitchen: The knife and sauce techniques in the chef's hand. Drill: Function that varies depending on the tip. Phone: Every installed application.
+Kitchen: Knife and sauce techniques in the chef's hand.Drill: Function varying depending on tip.Telephone: Every application installed.
 
 ## Frequently Asked Questions
 **Does every model have the ability?**

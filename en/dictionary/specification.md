@@ -6,7 +6,7 @@ Specification (spec for short, specification in Turkish) is a technical document
 It is like the architectural project of the building: The software developer looks at the document before starting the code and understands what to build. It reduces errors and clarifies expectations. In the API world, OpenAPI, hardware datasheets do this job.
 
 ## How to Know and Use in Daily Life?
-Software: Feature and rule document. Tender: Technical specification file. Product: Design and acceptance criteria.
+Software: Feature and rules document.Tender: Technical specification file.Product: Design and acceptance criteria.
 
 ## Technical Depth and Architecture
 Good spec includes:
@@ -15,7 +15,7 @@ Good spec includes:
 It is similar to Requirement. Requirement tells what is wanted, specification tells how to do it. One is the goal, the other is the plan.
 
 ## Use in Different Disciplines
-Recipe: List of ingredients and steps. Assembly manual: Part and sequence diagram. Tender: Administrative and technical specifications.
+Recipe: Material and step list.Assembly guide: Part and sequence diagram.Tender: Administrative and technical specifications.
 
 ## Frequently Asked Questions
 **Can the spec change?**

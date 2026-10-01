@@ -6,7 +6,7 @@ Open source AI (open source artificial intelligence in Turkish) are models whose
 Unlike closed models, these models are transparent: Anyone who wants can download them, examine them with their own data, and make changes to them. Llama, Mistral and DeepSeek are known examples. It is arguable that training data should also be open; OSI conducts a separate definition study on this subject.
 
 ## How to Know and Use in Daily Life?
-Local chat: Personal assistant that works without internet. Research: Baseline model tested. Enterprise: In-house solution without moving data out.
+Local chat: Personal assistant that works without internet.Research: Base model tested on.Institutional: In-house solution without moving data out.
 
 ## Technical Depth and Architecture
 Components:
@@ -15,7 +15,7 @@ Components:
 Can be mixed with Open Weights. Open Weights is just the weights being open. Open source AI, on the other hand, includes code and process transparency, its scope is broader.
 
 ## Use in Different Disciplines
-Recipe: Recipe shared with ingredients and measurements. Textbook: Open source that anyone can read and correct. Seed bank: Ancestral seed shared by farmers.
+Specification: Recipe shared with ingredients and measurements.Textbook: Open source that anyone can read and edit.Seed bank: Ancestor seed shared by farmers.
 
 ## Frequently Asked Questions
 **Are open source models weaker?**

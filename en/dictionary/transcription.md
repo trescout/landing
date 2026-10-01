@@ -6,7 +6,7 @@ Transcription is the process of transcribing the audio recording into written te
 "Transcribe" means to write down. The recording is loaded, frequencies are decoded, words are recognized, punctuation is added. The output is the document, caption or transcript. It is a matter of documentation.
 
 ## How to Know and Use in Daily Life?
-Subtitle: Video text. Minutes: Meeting recording. Archive: Voice memo directory.
+Subtitle: Video text.Amount: Meeting recording.Archive: Voice memo directory.
 
 ## Technical Depth and Architecture
 Steps:
@@ -15,7 +15,7 @@ Steps:
 It is thought to be the same as speech-to-text. The technology is the same, the work is different: STT translates instantly, transcription produces documents. One is the engine, the other is the work.
 
 ## Use in Different Disciplines
-Secretary: Writing down what was said. Record clerk: Hearing minutes. Archive officer: Record directory.
+Secretary: Writing down what is said.Minutes clerk: Hearing minutes.Archive officer: Registry directory.
 
 ## Frequently Asked Questions
 **Does it work in all languages?**

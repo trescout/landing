@@ -8,7 +8,7 @@ BI (Business Intelligence) is the discipline that transforms raw data into decis
 Complex masses of data are translated into graphs and summaries. Accounting of the past and prediction of the future can be read from these screens. It is not a collection tool, but a decision guide.
 
 ## How to Know and Use in Daily Life?
-Finance: Monthly closing reports. Sales: Region and product breakdown. Operation: Stock and delivery tracking.
+Finance: Monthly closing reports.Sales: Region and product breakdown.Operations: Stock and delivery tracking.
 
 ## Technical Depth and Architecture
 Line:
@@ -17,7 +17,7 @@ Line:
 It is considered data analytics. Analytical asks questions, BI gives regular answers. One is discovery and the other is report order.
 
 ## Use in Different Disciplines
-Chef: Creating a menu from the ingredients. Instrument panel: Speed ​​and fuel information. Weather: Creating predictions from measurements.
+Chef: Creating a menu from the ingredients.Dashboard: Speed ​​and fuel information.Weather: Generating predictions from measurement.
 
 ## Frequently Asked Questions
 **Why is BI important?**

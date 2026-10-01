@@ -8,7 +8,7 @@ End-to-end testing (E2E testing for short) is testing the application from start
 "End-to-end" means end-to-end. The whole is tried, not the part: The input is made, the button is pressed, the data goes, the result is returned. It is the gateway to pre-publication compliance.
 
 ## How to Know and Use in Daily Life?
-Release: Pre-release tour.Shop: Purchase path.Form: Signup flow.
+Broadcasting: Pre-release tour.Shopping centre: Purchase path.Form: Registration flow.
 
 ## Technical Depth and Architecture
 Order:
@@ -17,7 +17,7 @@ Order:
 It is considered a unit test. He looks at the part, this one looks at the whole. One is screw, the other is driving test.
 
 ## Use in Different Disciplines
-Car: Starting from the key. Rehearsal: General repetition. Final: Broadcast rehearsal.
+Car: Starting from the key.Rehearsal: General repetition.Final: Broadcast rehearsal.
 
 ## Frequently Asked Questions
 **Why isn't just this done?**

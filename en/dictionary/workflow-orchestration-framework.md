@@ -6,7 +6,7 @@ Workflow orchestration framework is the infrastructure that queues dependent tas
 "Orchestration" means orchestra management. When the task is finished, the next one starts, and if there is an error, it is tried again or notified. Multi-piece works that cannot be followed manually are entrusted to this order.
 
 ## How to Know and Use in Daily Life?
-Data: Night lines. Agent: Task chains. Institutional: Approved processes.
+Data: Lines operating at night.Agent: Quest chains.Institutional: Approved processes.
 
 ## Technical Depth and Architecture
 Parts:
@@ -15,7 +15,7 @@ Parts:
 It's like a to-do list. The list is passive, the framework handles errors and makes automatic decisions.
 
 ## Use in Different Disciplines
-Orchestra: Entrance and silence order. Air traffic: Departure order. Rail: Train schedule.
+Orchestra: Entry and silence order.Air traffic: Departure order.Railway: Train schedule.
 
 ## Frequently Asked Questions
 **Why is it needed?**

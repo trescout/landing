@@ -6,13 +6,13 @@ Interoperability is the ability of different systems to exchange data with commo
 The word comes from the Latin roots inter (between) and operate (to work). It is the agreement of two systems written in different languages ​​or with different technologies by speaking a common language. For example, it is thanks to this ability that an accounting program can communicate automatically with bank systems. It enables technologies to form an ecosystem without being dependent on each other.
 
 ## How to Know and Use in Daily Life?
-Accounting and banking: Automatic transfer of account transactions to the program. Chargers: Charging many devices with a single cable thanks to the USB-C standard. Smart home: Working of different brands in the same house with the Matter standard. e-Invoice: Companies in Türkiye can send invoices to each other with UBL-TR format.
+Accounting and banking: Account transactions are automatically recorded in the program.Chargers: Thanks to the USB-C standard, many devices can be charged with a single cable.Smart home: Different brands work in the same house with the Matter standard.e-Invoice: In Türkiye, companies can send invoices to each other using UBL-TR format.
 
 ## Technical Depth and Architecture
 Interoperability is achieved at the following layers:
 
 ## Use in Different Disciplines
-Language: People from different countries communicate with a common language. Railway: Ability of trains to change countries thanks to the line width standard. Electricity: Socket and voltage standards make devices compatible.
+Language: People from different countries communicate with a common language.Railway: Thanks to the track width standard, trains can change countries.Electric: Socket and voltage standards make devices compatible.
 
 ## Frequently Asked Questions
 **Why doesn't every system have this feature?**
