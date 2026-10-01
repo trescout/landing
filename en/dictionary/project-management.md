@@ -1,21 +1,31 @@
 # What is Project Management?
 
-It is the planning and management of time, resources and tasks to achieve a specific goal.
+Project management is the discipline of planning time, resources and tasks to achieve the goal.
 
-## Overview
-It makes you understand that a software project is not just about writing code. This discipline controls which work will be done first, who is responsible for what, and when the project will be finished. It is to draw an orderly road map for a successful result.
+## Definition and Word Origin
+A software project is not just writing code: This discipline manages which work will be done first, who is responsible for what, and when the work will be finished. Classical methods (Gantt, waterfall) plan the work from the beginning. Agile methods (Agile, Scrum, Kanban) renew the plan in short cycles.
 
-*Analogy: It's similar to how a chef in a kitchen plans which dish will go into the oven when and which cook will prepare the ingredients.*
+## How to Know and Use in Daily Life?
+Software teams: Two-week sprints and short daily meetings. Construction: Survey, permit and progress payment calendar. Event: Wedding or conference preparation list.
 
-## How it works
-The process is followed step by step using task lists, calendars and work tracking tools.
+## Technical Depth and Architecture
+Building blocks of discipline:
 
-## Where it is used
-It is used in almost every sector, from software teams to construction projects.
+## Use in Different Disciplines
+Kitchen: The chef who plans which food will go into the oven and when. Orchestra: The program that organizes the rehearsals according to the concert day. Construction site: The field plan that arranges the crane and concrete order.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why do software developers use this?**
-To prevent complex projects from falling apart and keeping everyone focused on the same goal.
+To prevent the complex project from falling apart and keeping everyone focused on the same goal.
+
+**What is the difference between Şelale and Agile?**
+Şelale makes the plan from scratch and finds the change expensive. It renews the agile plan in short cycles and meets change. Agile is more suitable for uncertain tasks.
+
+**Is a vehicle required?**
+No. The small team is also managed with a paper clipboard. As the team grows, digital tools (Jira, Trello, Linear) maintain order.
+
+**How to implement it in a small team?**
+One list, weekly goal and short review is enough. Keeping the meeting short is more important than the method.
 
 
 ## Related terms

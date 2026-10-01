@@ -33,9 +33,9 @@ Eine gut strukturierte Sandbox schränkt die Kommunikation mit der Außenwelt vo
 - [Ladybird](/de/discover/ladybird/)
 - [CUA](/de/discover/cua/)
 - [iii](/de/discover/iii/)
+- [OpenShell](/de/discover/openshell/)
 - [CubeSandbox](/de/discover/cubesandbox/)
 - [AX](/de/discover/ax/)
-- [OpenShell](/de/discover/openshell/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sandbox/

@@ -35,9 +35,9 @@ A well-structured sandbox completely restricts communication with the outside wo
 - [Ladybird](/en/discover/ladybird/)
 - [CUA](/en/discover/cua/)
 - [iii](/en/discover/iii/)
+- [OpenShell](/en/discover/openshell/)
 - [CubeSandbox](/en/discover/cubesandbox/)
 - [AX](/en/discover/ax/)
-- [OpenShell](/en/discover/openshell/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sandbox/

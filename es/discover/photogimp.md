@@ -2,7 +2,7 @@
 
 PhotoGIMP ofrece un parche que hace que la interfaz de GIMP resulte familiar para los usuarios de Photoshop. Esta herramienta adapta los accesos directos y los diseños de menú a los estándares de Photoshop para facilitar la transición al software de edición de imágenes.
 
-- ★ 17.197
+- ★ 18.200
 - CSS
 - GitHub Trending · 2026-07-09
 

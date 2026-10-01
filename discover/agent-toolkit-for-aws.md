@@ -35,7 +35,7 @@ AWS üzerinde uygulama geliştirme, dağıtma ve yönetme süreçlerimde bana ya
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol Context AI Skills MCP Agent
+Model Context Protocol Model Context Protocol Context MCP AI Skills Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-toolkit-for-aws/

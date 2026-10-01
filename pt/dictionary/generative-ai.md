@@ -1,25 +1,34 @@
 # O que é Generative AI?
 
-É o nome geral das tecnologias de inteligência artificial que podem produzir novos conteúdos, textos, imagens ou áudio.
+IA generativa é o nome geral de modelos que produzem novos conteúdos.
 
-## Definição
-IA generativa é o nome geral das tecnologias de inteligência artificial que podem analisar dados existentes e produzir conteúdo novo e original a partir deles. Não apenas analisa o que está acontecendo, mas também cria novos textos, imagens ou sons de acordo com seus desejos.
+## Definição e origem da palavra
+“Gerar” significa produzir. O modelo analisa os dados e cria novos textos, imagens ou áudio. Não apenas classifica o que é, mas também produz o que não é. LLM, difusão e GAN são membros desta família.
 
-## Como funciona
-Ele aprende as regras de como o conteúdo é criado examinando bilhões de exemplos. Então, com um comando que você dá, ele usa essas regras para produzir algo que nunca existiu antes.
+## Como conhecer e usar no dia a dia?
+Design: Logotipo e rascunhos visuais. Código: Função e esqueleto de teste. Conteúdo: Rascunho do texto e resumo.
 
-## Onde é usado
-Está revolucionando o trabalho criativo, o design, a codificação de software e a produção de conteúdo.
+## Profundidade Técnica e Arquitetura
+Linha de produção:
 
-## Costuma ser confundido com
-Confunde-se com modelos que apenas produzem texto; Porém, modelos que produzem imagens, áudio e vídeo também se enquadram nesta categoria.
+## Coisas frequentemente misturadas
+Eles são confundidos com modelos de texto. Porém, quem produz recursos visuais, de áudio e de vídeo também é dessa família. O texto é apenas um membro.
 
-## Perguntas frequentes
-**A IA generativa viola direitos autorais?**
-Este ainda é um assunto polêmico, mas constantemente novas regulamentações são feitas em relação à originalidade do conteúdo produzido.
+## Use em diferentes disciplinas
+Pintor: Nova pintura com pincel. Compositor: Nova melodia com notas. Escritor: Nova história com palavras.
+
+## Perguntas Frequentes
+**Isso viola direitos autorais?**
+É controverso. A propriedade dos dados e resultados da formação varia de país para país; a opinião jurídica é obtida em negócios comerciais.
 
 **Todos podem usar?**
-Sim, hoje qualquer pessoa que saiba digitar um comando simples pode se beneficiar dessa tecnologia.
+Sim. Qualquer um que saiba escrever comandos começa; o domínio é evidente na prontidão e na verificação.
+
+**O que é uma alucinação?**
+Onde o modelo não tem certeza, ele compensa. É regido por atribuição e verificação.
+
+**Quanto custa?**
+Varia dependendo do uso. Pequenos trabalhos são minúsculos, treinamento pesado e milhões de ligações são caras.
 
 
 ## Termos relacionados
@@ -33,11 +42,11 @@ Sim, hoje qualquer pessoa que saiba digitar um comando simples pode se beneficia
 - [System Prompts and Models of AI Tools](/pt/discover/system-prompts-and-models-of-ai-tools/)
 - [Generative AI for Beginners](/pt/discover/generative-ai-for-beginners/)
 - [Impeccable](/pt/discover/impeccable/)
+- [Docling](/pt/discover/docling/)
 - [Next AI Draw IO](/pt/discover/next-ai-draw-io/)
 - [Awesome Generative AI Guide](/pt/discover/awesome-generative-ai-guide/)
 - [Aisuite](/pt/discover/aisuite/)
 - [TRELLIS.2](/pt/discover/trellis-2/)
-- [Weathernext](/pt/discover/weathernext/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/generative-ai/

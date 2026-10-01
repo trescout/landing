@@ -2,11 +2,12 @@
 
 ComposioHQ tarafından derlenen awesome-claude-skills, Claude yapay zekâ iş akışlarını özelleştirmeye yönelik araçları ve kaynakları bir araya getiriyor. Bu liste, geliştiricilerin Claude için yetenek (skill) paketleri oluşturmasını ve mevcut projeleri entegre etmesini kolaylaştırıyor.
 
-- ★ 72.557
+- ★ 76.185
 - Python
 - GitHub Trending · 2026-07-23
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 72.557 → 76.185.
 - 15 Ağustos 2026: Yıldız 68.956 → 72.557.
 
 ## Ne kazandırır?

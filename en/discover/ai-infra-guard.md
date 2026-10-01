@@ -2,7 +2,7 @@
 
 AI-Infra-Guard is an end-to-end AI red team platform that scans agents, skills, MCP, and AI infrastructure, as well as performs LLM jailbreak assessments.
 
-- ★ 6,595
+- ★ 6,650
 - Python
 - GitHub Trending · 2026-08-20
 

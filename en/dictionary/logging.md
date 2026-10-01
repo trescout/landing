@@ -1,24 +1,34 @@
 # What is Logging?
 
-It is the chronological recording of a program to keep track of the operations it performs or the errors it encounters while it is running.
+Logging means writing down the program's events chronologically.
 
-## Overview
-Programs sometimes silently error out. Thanks to logging, when an error occurs, you can see step by step what the program has done so far and what data it has processed. This is sort of the 'black box' of the program.
+## Definition and Word Origin
+"Log" means log, record. When the program silently fails, what it has done so far is read from the log. It is like the plane's black box: It is the first place checked after an accident.
 
-*Analogy: Just like the black box of an airplane that records all its data during flight, the program records all its movements in a log.*
+## How to Know and Use in Daily Life?
+Server: Debugging. Product: Usage monitoring. Security: Event logging.
 
-## How it works
-You add commands such as 'came here', 'this data was processed' into the code. As the program runs, this information is written to a file or monitoring system.
+## Technical Depth and Architecture
+Levels:
 
-## Where it is used
-It is used in server applications, large software systems and debugging processes.
+## Frequently Mixed Things
+It is thought to be observability. However, logging is its building block: The log is the raw material, observation ability is the product.
 
-## Commonly confused with
-It can be confused with Observability; Logging is one of the fundamental building blocks of this observability.
+## Use in Different Disciplines
+Black box: Flight data record. Log: Date sequence notes. Camera record: Event archive.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Is it good to save everything?**
-No, too many logs can slow down the system and make it difficult to find critical errors; Balanced records should be kept.
+No. Too much slows down and hides the important, keeping a balanced record.
+
+**What is the level?**
+It is the urgency tag of the record. It acts as a filter in the search.
+
+**Where are the records written?**
+File to central system or cloud service. Central collection is recommended in production.
+
+**How long is it stored?**
+It depends on the policy. Debugging takes weeks, auditing takes years.
 
 
 ## Related terms
@@ -27,6 +37,7 @@ No, too many logs can slow down the system and make it difficult to find critica
 - [Logs](/en/dictionary/logs/)
 
 ## Related tools
+- [OmniRoute](/en/discover/omniroute/)
 - [Spdlog](/en/discover/spdlog/)
 
 ---

@@ -1,54 +1,44 @@
-# Qu'est-ce qu'un SLM ?
+# Qu'est-ce que SLM ?
 
-> Petit Modèle de Langage (Small Language Model)
+> Small Language Model
 
-**Catégorie:** AI  
-**Dernière mise à jour:** 2026-09-22
+SLM (Small Language Model) est un modèle compact qui fonctionne avec peu de ressources.
 
-Un SLM (Small Language Model / Petit Modèle de Langage) est un modèle d'IA compact et économe en ressources, comptant généralement entre 1 et 8 milliards de paramètres, optimisé pour s'exécuter localement sur des terminaux légers.
+## Définition et origine du mot
+Il a peu de paramètres, une petite architecture et est axé sur l'efficacité. Sa culture générale est étroite et il est rapide dans ses fonctions. Il fonctionne sans Internet sur votre téléphone et votre ordinateur portable.
 
-## Définition et étymologie
-Tandis que les modèles géants exigent des supercalculateurs en centre de données, les SLM privilégient la qualité des données d'entraînement et la rapidité d'exécution. Ils rendent l'IA confidentielle et économique directement sur ordinateurs et smartphones.
-
-## Usage quotidien et contexte pratique
-- **Assistants mobiles hors ligne :** Résumés de texte et correction rédactionnelle exécutés en local sans consommer de forfait data.
-- **Périphériques embarqués et IoT :** Traitement de commandes et diagnostic sur des automates industriels.
-- **Microservices à fort trafic :** Classification et extraction d'entités pour une fraction du coût des grands modèles cloud.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Mobile : assistant sur l'appareil. Confidentialité : travail sans données. Classification : Lignes à tâche unique.
 
 ## Profondeur technique et architecture
-Innovations architecturales :- **Données d'entraînement à haute densité :** Apprentissage sur des corpus pédagogiques hautement filtrés (gammes Microsoft Phi, Google Gemma).
-- **Quantification avancée :** Compression en précision 4 bits permettant une empreinte mémoire réduite de 2 à 5 Go de RAM.
-- **Vitesse d'inférence élevée :** Génération de plusieurs dizaines de mots par seconde sur les puces grand public.
+Échelle:
 
-## Souvent confondu avec
-Souvent confondu avec un modèle dégradé ou incomplet. Un SLM n'est pas un système bâclé ; c'est un moteur affûté et spécialisé qui élimine le gaspillage énergétique pour les usages concrets.
+## Choses fréquemment mélangées
+Il est considéré comme faible. Généralement étroit, résistant. L’une est une encyclopédie, l’autre un manuel.
 
-## Perspectives interdisciplinaires
-- **Documentation :** Glisser un guide pratique de poche dans son sac vs consulter une encyclopédie en trente volumes à la bibliothèque.
-- **Mobilité :** Circuler en ville en scooter électrique agile vs manœuvrer un camion de transport lourd.
-- **Outillage :** Avoir un canif multifonction dans la poche vs déplacer une servante d'atelier complète.
+## Utilisation dans différentes disciplines
+Manuel : Slip porté dans un sac. Lampe de poche : Lumière ciblée. Scooter : Véhicule courte distance.
 
-## Par analogie
-C'est l'équivalent d'un guide pratique de poche plutôt qu'une encyclopédie en 30 volumes : il apporte des réponses instantanées où que vous soyez.
+## Foire aux questions
+**Moins intelligent ?**
+Généralement étroit, habile à la tâche. La taille varie en fonction du travail.
 
-## Questions fréquentes
+**Pourquoi petit plutôt que géant ?**
+Pour la rapidité, le coût et la confidentialité. Aucune donnée ne sera diffusée, la facture ne sera pas gonflée.
 
-**Quelle taille de modèle correspond à un SLM ?**  
-Généralement entre 1 et 8 milliards de paramètres, ce qui permet de tenir dans la mémoire vive d'un téléphone ou PC portable.
+**Par lequel commencer ?**
+Au local avec un des petits populaires. Le besoin grandit.
 
-**Un SLM peut-il rivaliser avec un grand modèle ?**  
-Sur des tâches ciblées (extraction d'informations, complétion de code, résumé), un SLM bien entraîné égale fréquemment les modèles géants.
+**Quand cela ne suffit-il pas ?**
+Cela nécessite un géant en connaissances et en raisonnement. L’ordre hybride s’établit.
 
-**Quels sont les SLM les plus populaires ?**  
-Microsoft Phi-3, Google Gemma 2B, Llama 3 8B et Mistral 7B.
-
-**À quelle vitesse s'exécutent-ils sur un ordinateur classique ?**  
-Avec des moteurs comme llama.cpp ou MLX, ils génèrent couramment entre 40 et 80 jetons par seconde.
 
 ## Termes liés
-- [Foundation Model](/fr/dictionary/foundation-model/)
-- [On-device STT](/fr/dictionary/on-device-stt/)
-- [Open Weight](/fr/dictionary/open-weight/)
+- [LLM](/fr/dictionary/llm/)
+- [Quantization](/fr/dictionary/quantization/)
+- [Offline](/fr/dictionary/offline/)
+- [Open Weights](/fr/dictionary/open-weights/)
+- [Distillation](/fr/dictionary/distillation/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/slm/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/slm/

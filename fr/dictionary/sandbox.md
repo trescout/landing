@@ -33,9 +33,9 @@ Un bac à sable bien structuré restreint complètement la communication avec le
 - [Ladybird](/fr/discover/ladybird/)
 - [CUA](/fr/discover/cua/)
 - [iii](/fr/discover/iii/)
+- [OpenShell](/fr/discover/openshell/)
 - [CubeSandbox](/fr/discover/cubesandbox/)
 - [AX](/fr/discover/ax/)
-- [OpenShell](/fr/discover/openshell/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/sandbox/

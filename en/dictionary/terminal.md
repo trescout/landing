@@ -41,8 +41,8 @@ The reader does not give commands. In commands that delete and write, the path a
 - [Codex](/en/discover/codex/)
 - [PI](/en/discover/pi/)
 - [Terminal](/en/discover/terminal/)
-- [Career Ops](/en/discover/career-ops/)
 - [Cline](/en/discover/cline/)
+- [Career Ops](/en/discover/career-ops/)
 - [Openinterpreter](/en/discover/openinterpreter/)
 - [Free Claude Code](/en/discover/free-claude-code/)
 

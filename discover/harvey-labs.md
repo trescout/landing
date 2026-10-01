@@ -2,11 +2,12 @@
 
 Harvey Labs, hukuk alanındaki görevleri destekleyen yapay zekâ ajanlarının yeteneklerini ölçmek ve geliştirmek için tasarlanmış bir kıyaslama (benchmark) aracıdır. Python diliyle hazırlanan bu çalışma, hukuk teknolojileri geliştiren yazılımların performansını standart testlerle değerlendirmeyi hedefler.
 
-- ★ 1.370
+- ★ 1.401
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 1.370 → 1.401, son sürüm v1.2.0 (1 Ekim 2026).
 - 19 Eylül 2026: Yıldız 881 → 1.370, son sürüm v1.1.0 (18 Eylül 2026).
 
 ## Ne kazandırır?

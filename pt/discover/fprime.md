@@ -2,7 +2,7 @@
 
 Desenvolvido pela NASA, F´ é uma estrutura de código aberto projetada para software de voo e sistemas embarcados. Escrita em C++, esta estrutura oferece um ambiente de desenvolvimento modular para naves espaciais e sistemas complexos.
 
-- ★ 11.676
+- ★ 11.807
 - C++
 - GitHub Trending · 2026-07-12
 

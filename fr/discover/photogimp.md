@@ -2,7 +2,7 @@
 
 PhotoGIMP propose un correctif qui rend l'interface GIMP familière aux utilisateurs de Photoshop. Cet outil adapte les raccourcis et la disposition des menus aux normes Photoshop pour faciliter la transition vers un logiciel de retouche d'images.
 
-- ★ 17 197
+- ★ 18 200
 - CSS
 - GitHub Trending · 2026-07-09
 

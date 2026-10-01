@@ -1,24 +1,34 @@
 # What is CSS Framework?
 
-It is a toolkit that offers ready-made design templates and rules to quickly beautify the appearance of web pages.
+CSS framework (CSS framework in Turkish) is a tool set that offers ready-made styles.
 
-## Overview
-When creating a website, instead of writing from scratch how the buttons, menus or fonts will look, you use the ready-made structures offered by these frameworks. This allows you to make professional-looking sites in much less time.
+## Definition and Word Origin
+Instead of writing the button, menu and font from scratch, a ready-made class is used. The professional look appears in a short time. Tailwind, Bootstrap and Bulma are well-known examples.
 
-*Analogy: It's like using ready-made sets of doors, windows and furniture when building a house; You build the basic structure, but you choose the details from the ready-made set.*
+## How to Know and Use in Daily Life?
+Site: Quick interface setup. Panel: Management screens. Prototype: Idea trial.
 
-## How it works
-You add the Framework's files to your project and use the ready-made names it offers in your codes.
+## Technical Depth and Architecture
+Approaches:
 
-## Where it is used
-It is used in the interface development processes of websites.
+## Frequently Mixed Things
+It is considered utility-first. It is the approach, the framework is the tool. The tool either supports or does not support the approach.
 
-## Commonly confused with
-May be confused with utility-first; A utility-first approach is a framework, and a framework is a tool that may or may not support this approach.
+## Use in Different Disciplines
+Door set: Ready-made frame and wing.Lego: Combining parts. Ready-made food: Heated plate.
 
-## Frequently asked questions
-**Aren't all sites similar?**
-Frameworks are flexible; You can create original designs by adding your own colors and style.
+## Frequently Asked Questions
+**Aren't the sites similar?**
+Unlike. Identity changes when color, type and layout change.
+
+**When to use?**
+Speed ​​is what's needed. Hand craftsmanship is chosen for the special design.
+
+**What is its performance?**
+It is lightweight if the unused style is extracted. It inflates the raw state.
+
+**Which one should be chosen?**
+The team sets the habit. Documentation and community are sought after.
 
 
 ## Related terms

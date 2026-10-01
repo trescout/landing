@@ -2,7 +2,7 @@
 
 Developed by NVIDIA, OpenShell provides a secure and privacy-focused runtime environment for autonomous AI agents. Written in Rust, this infrastructure aims to create a secure execution space by isolating agents' access to system resources.
 
-- ★ 11,092
+- ★ 12,978
 - Rust
 - GitHub Trending · 2026-09-29
 

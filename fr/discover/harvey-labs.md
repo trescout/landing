@@ -2,7 +2,7 @@
 
 Harvey Labs est un outil d'analyse comparative conçu pour mesurer et améliorer les capacités des agents d'intelligence artificielle qui prennent en charge les tâches dans le domaine juridique. Cette étude, préparée en langage Python, vise à évaluer les performances des logiciels développant des technologies juridiques avec des tests standards.
 
-- ★ 1 370
+- ★ 1 401
 - Python
 - GitHub Trending · 2026-08-10
 

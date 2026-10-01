@@ -41,8 +41,8 @@ Developers write it, platforms distribute it in the store. Writing a good descri
 ## Related tools
 - [Anthropic Skills](/en/discover/anthropic-skills/)
 - [Taste Skill](/en/discover/taste-skill/)
-- [Archify](/en/discover/archify/)
 - [Awesome Claude Skills](/en/discover/awesome-claude-skills/)
+- [Archify](/en/discover/archify/)
 - [Last30days Skill](/en/discover/last30days-skill/)
 - [I Have Adhd](/en/discover/i-have-adhd/)
 - [Reverse Skill](/en/discover/reverse-skill/)

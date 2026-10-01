@@ -2,15 +2,15 @@
 
 AI-Infra-Guard, ajanları, becerileri, MCP'yi ve yapay zekâ altyapısını tarayan, ayrıca LLM jailbreak değerlendirmeleri yapan uçtan uca bir yapay zekâ kırmızı ekip platformudur.
 
-- ★ 6.595
+- ★ 6.650
 - Python
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 6.595 → 6.650, son sürüm v4.6.4 (1 Ekim 2026).
 - 27 Eylül 2026: Yıldız 6.405 → 6.595, son sürüm v4.6.3 (24 Eylül 2026).
 - 17 Eylül 2026: Yıldız 6.219 → 6.405, son sürüm v4.6.2 (17 Eylül 2026).
 - 10 Eylül 2026: Yıldız 5.995 → 6.219, son sürüm v4.6.1 (10 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 4.746 → 5.995, son sürüm v4.6.0 (26 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ sistemlerindeki güvenlik açıklarını tarar.

@@ -2,7 +2,7 @@
 
 Voice-pro es una interfaz de código abierto que combina texto a voz (TTS) y herramientas de clonación de voz de disparo cero. Los usuarios pueden realizar operaciones como análisis de audio, traducción multilingüe y procesamiento de contenido de YouTube en una única plataforma a través de su interfaz basada en web.
 
-- ★ 11.965
+- ★ 12.967
 - Python
 - GitHub Trending · 2026-08-02
 

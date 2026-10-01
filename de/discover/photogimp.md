@@ -2,7 +2,7 @@
 
 PhotoGIMP bietet einen Patch, der Photoshop-Benutzern die GIMP-Benutzeroberfläche vertraut macht. Dieses Tool passt Verknüpfungen und Menülayouts an Photoshop-Standards an, um den Umstieg auf Bildbearbeitungssoftware zu erleichtern.
 
-- ★ 17.197
+- ★ 18.200
 - CSS
 - GitHub Trending · 2026-07-09
 
