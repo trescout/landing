@@ -29,8 +29,8 @@ Auf den meisten Systemen können Sie diese Daten mit dem Befehl „Speicher lös
 
 ## Verwandte Werkzeuge
 - [Mempalace](/de/discover/mempalace/)
-- [Hindsight](/de/discover/hindsight/)
 - [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
+- [Hindsight](/de/discover/hindsight/)
 - [Cognee](/de/discover/cognee/)
 - [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
 - [AI Memory](/de/discover/ai-memory/)

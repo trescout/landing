@@ -1,22 +1,34 @@
 # Was ist Mermaid?
 
-Es ist ein Werkzeug, mit dem Sie durch das Schreiben von Code schnell Flussdiagramme und Grafiken erstellen können.
+Mermaid ist eine Open-Source-JavaScript-Bibliothek, die Diagramme durch das Schreiben von Text erstellt.
 
-## Definition
-Anstatt sich mit komplexen Zeichenwerkzeugen herumzuschlagen, ermöglicht es Ihnen, Diagramme mit Befehlen zu erstellen, genau wie beim Schreiben von Text. Der von Ihnen geschriebene Code wird automatisch in ein elegantes Flussdiagramm oder eine Grafik umgewandelt.
+## Definition und Wortherkunft
+Anstatt in einem Zeichenprogramm Kästchen zu verschieben, wird das Schema als Text geschrieben, den das Tool in ein Bild umwandelt. Da der Text versionierbar ist, existiert er zusammen mit der Dokumentation und wird überprüft. Es hat seinen Namen von der Meerjungfrauen-Mythologie, was nichts mit Technik zu tun hat.
 
-## So funktioniert es
-Sie öffnen einen speziellen Block innerhalb von Markdown-Dateien und definieren das Diagramm mit der Mermaid-Syntax; das Werkzeug visualisiert es sofort.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Dokumentation: Architekturschema in der README.Planung: Kalenderansicht mit Gantt.Bericht: Fluss- und Sequenzdiagramme.
 
-## Wo es eingesetzt wird
-Es wird beim Schreiben von Dokumentationen, bei der Projektplanung und in technischen Berichten verwendet.
+## Technische Tiefe und Architektur
+Haupttypen:
 
-## Häufig verwechselt mit
-Es wird oft mit herkömmlichen Zeichenwerkzeugen verwechselt; Mermaid ist vollständig textbasiert und erfordert kein Drag-and-Drop.
+## Häufig gemischte Dinge
+Man hält sie für Zeichenwerkzeuge. Dabei ist Mermaid textbasiert und enthält kein Drag-and-Drop. Wenn visuelle Präzision beim Zeichnen gefragt ist, wird ein Grafikeditor benötigt.
 
-## Häufige Fragen
-**Welche Arten von Grafiken können mit Mermaid gezeichnet werden?**
-Es können Flussdiagramme, Sequenzdiagramme, Gantt-Diagramme und viele weitere technische Zeichnungen erstellt werden.
+## Einsatz in verschiedenen Disziplinen
+Musik: Aufzeichnung von Klang durch Notenschrift.Stenografie: Aufzeichnen von Sprache mit Kürzeln.Mathematik: Beschreibung von Formen durch Formeln.
+
+## Häufig gestellte Fragen
+**Welche Diagramme können mit Mermaid gezeichnet werden?**
+Es werden technische Diagramme wie Flussdiagramme, Sequenzdiagramme, Gantt-Diagramme, Tortendiagramme, ER-Diagramme und Mindmaps gezeichnet.
+
+**Unterstützt GitHub dies?**
+Ja. Mermaid-Blöcke innerhalb von Markdown werden direkt gerendert.
+
+**Ist es kostenlos?**
+Die Kernbibliothek ist Open Source und kostenlos. Bei gehosteten Editoren kann es kostenpflichtige Stufen geben.
+
+**Wann ist es unzureichend?**
+Wenn Pixelgenauigkeit und freies Zeichnen erforderlich sind. Das ist die Aufgabe eines Grafik-Editors.
 
 
 ## Verwandte Begriffe
@@ -26,6 +38,7 @@ Es können Flussdiagramme, Sequenzdiagramme, Gantt-Diagramme und viele weitere t
 
 ## Verwandte Werkzeuge
 - [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
+- [Gitdiagram](/de/discover/gitdiagram/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/mermaid/

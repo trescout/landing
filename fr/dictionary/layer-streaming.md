@@ -1,22 +1,34 @@
 # Qu'est-ce que Layer Streaming ?
 
-Il s’agit du processus consistant à commencer à traiter le Big Data ou les couches logicielles pièce par pièce avant qu’elles ne soient toutes téléchargées.
+Le streaming en couches est le traitement des données pièce par pièce.
 
-## Définition
-Le flux de données en couches permet de traiter instantanément les pièces requises, notamment sans attendre le temps de chargement de fichiers ou de progiciels très volumineux. Cette méthode améliore l'expérience utilisateur en minimisant le temps d'attente.
+## Définition et origine du mot
+Un "layer" signifie une couche. La partie nécessaire est traitée avant même le téléchargement complet. L'attente est réduite, l'expérience est accélérée. Cela fonctionne pour les gros fichiers et paquets.
 
-## Comment ça marche
-Les données sont divisées en petits morceaux et transférées au système par ordre de priorité. Le système commence à fonctionner immédiatement avec la première pièce reçue.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Ouverture: L'application apparaît rapidement.Vidéo: Image basse à haute.Carte: Détaillez à mesure que vous vous rapprochez.
 
-## Où est-ce utilisé
-Il est utilisé pour l'ouverture rapide de grandes applications logicielles et de flux de données haute résolution.
+## Profondeur technique et architecture
+Disposition :
 
-## Souvent confondu avec
-À ne pas confondre avec les méthodes traditionnelles de téléchargement de fichiers ; Au lieu d'attendre ici, le travail commence.
+## Choses fréquemment mélangées
+On pense qu'il s'agit d'un téléchargement. Suspend le téléchargement, démarre la diffusion. L'un est l'entrepôt, l'autre est la ceinture.
 
-## Questions fréquentes
-**Cette méthode augmente-t-elle la vitesse d'Internet ?**
-Cela n’augmente pas la vitesse d’Internet, mais élimine le temps d’attente en utilisant les données plus efficacement.
+## Utilisation dans différentes disciplines
+Page: Lire tel qu'imprimé.Feuilleton : Regardez épisode par épisode.Construction : Livré plusieurs fois.
+
+## Foire aux questions
+**Est-ce que ça augmente la vitesse ?**
+Cela raccourcit l'attente, pas la file d'attente. L'expérience s'accélère, le compteur reste le même.
+
+**Quand est-ce utilisé ?**
+Big data et même lent. Ce n'est pas grave s'il s'agit d'un petit fichier.
+
+**Qu'est-ce que ça coûte ?**
+Cela nécessite une logique de tri et de cache. La complexité a un prix.
+
+**Comment se mesure-t-il ?**
+Avec le premier temps de dessin et d'interaction significatif. Pas le total des téléchargements.
 
 
 ## Termes liés

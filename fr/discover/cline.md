@@ -2,7 +2,7 @@
 
 Cline est un agent de codage autonome qui automatise les processus de développement logiciel. Il s'intègre aux projets des développeurs via une extension IDE, un kit de développement logiciel (SDK) ou une interface de ligne de commande (CLI).
 
-- ★ 69 633
+- ★ 69 702
 - TypeScript
 - GitHub Trending · 2026-09-18
 

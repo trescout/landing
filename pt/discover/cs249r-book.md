@@ -2,7 +2,7 @@
 
 Este recurso, compartilhado pela Universidade de Harvard, oferece um guia técnico abrangente sobre sistemas de aprendizado de máquina. Combinando camadas de hardware e software, este estudo aborda os processos de design de infraestruturas escaláveis ​​de inteligência artificial.
 
-- ★ 28.085
+- ★ 28.788
 - Python
 - GitHub Trending · 2026-07-03
 

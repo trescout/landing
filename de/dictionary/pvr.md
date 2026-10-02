@@ -2,26 +2,35 @@
 
 > Personal Video Recorder
 
-Eine Technologie, mit der Sie Fernsehsendungen digital aufzeichnen und später ansehen können.
+PVR (Personal Video Recorder, persönlicher Videorekorder) ist eine Technologie, mit der Sendungen aufgezeichnet und später wiedergegeben werden können.
 
-## Definition
-Wenn Sie eine Live-Sendung nicht in dem Moment ansehen können, in dem sie ausgestrahlt wird, zeichnet das PVR-Gerät sie stattdessen auf seiner Festplatte auf. So können Sie die Sendung anhalten, zurückspulen oder jederzeit von Anfang an ansehen. Heutzutage wird diese Funktion von internetbasierten Streaming-Plattformen weitgehend automatisch übernommen.
+## Definition und Wortherkunft
+Personal ist der Übergang vom Ära der Kassetten-VCRs zur digitalen Festplatte. Sendungen, die nicht live verfolgt werden können, werden auf die Festplatte aufgezeichnet, angehalten oder zurückgespult. Heutzutage übernehmen Internetplattformen die meisten dieser Funktionen.
 
-## So funktioniert es
-Sie drücken die Aufnahmetaste auf der Fernbedienung des Geräts oder programmieren das Gerät so, dass es die Sendung automatisch aufzeichnet.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Satellit: Aufnahme im Receiver.Smart-TV: Interne Aufnahme.Sport: Das Spiel später ansehen.
 
-## Wo es eingesetzt wird
-Es ist in digitalen Satellitenempfängern, Smart-TVs und Kabel-TV-Boxen zu finden.
+## Technische Tiefe und Architektur
+Funktionen:
 
-## Häufig verwechselt mit
-Nicht mit einem VCR (Videorekorder) zu verwechseln; ein PVR ist vollständig digital und verwendet keine Kassetten.
+## Häufig gemischte Dinge
+Wird oft für einen VCR gehalten. Ein VCR ist kassettenbasiert, ein PVR ist digital. Er erfüllt die gleiche Funktion wie ein DVR, der Name betont jedoch den persönlichen Aspekt.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Buchkopie: Zum späteren Lesen vormerken.Podcast: Herunterladen und unterwegs anhören.Bildschirmaufnahme: Archivierung der Lektion.
+
+## Häufig gestellte Fragen
 **Sind PVR und DVR dasselbe?**
-Ja, technisch gesehen führen sie dieselbe Funktion aus; der Begriff PVR wird häufig verwendet, um die persönliche Nutzung der Geräte hervorzuheben.
+Technisch gesehen ja. Es gibt eine persönliche Hervorhebung namens PVR, die Funktion ist dieselbe.
 
 **Warum wird es immer noch verwendet?**
-Es ist immer noch praktisch für Inhalte, die schwer über das Internet zu verfolgen sind, wie etwa Live-Sportübertragungen oder lokale Sendungen.
+Es ist praktisch für Inhalte, die im Internet schwer zu finden sind, wie Live-Sport und lokale Sendungen.
+
+**Ist es notwendig, wenn Internet vorhanden ist?**
+Nicht überall. Es ist nützlich bei nicht aufgezeichneten Sendungen und bei Unterbrechungen.
+
+**Was ist die rechtliche Grenze?**
+Das persönliche Ansehen ist erlaubt, das Teilen und die Verbreitung sind verboten.
 
 
 ## Verwandte Begriffe

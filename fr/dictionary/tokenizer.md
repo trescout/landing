@@ -1,33 +1,42 @@
 # Qu'est-ce que Tokenizer ?
 
-C'est un outil qui divise les textes en petits morceaux numériques que l'intelligence artificielle peut comprendre.
+Le Tokenizer (tokeniseur ou segmentateur) est le composant fondamental de traitement de données qui convertit les textes en langage naturel en jetons numériques (token ID) que les grands modèles de langage (LLM) et les réseaux de neurones peuvent traiter mathématiquement.
 
-## Définition
-Tokenizer est un outil de base qui convertit les textes en éléments numériques que l'IA peut traiter. L'intelligence artificielle comprend les mots non pas dans leur ensemble, mais à travers les équivalents numériques de ces parties.
+## 1. Définition et problème fondamental : Pourquoi pas directement des mots ?
+Les grands modèles de langage (GPT-4, Claude, Llama, etc.) ne lisent pas les textes lettre par lettre ou mot par mot comme les humains. Les réseaux de neurones ne peuvent traiter que des matrices, des tenseurs et des nombres. C'est pourquoi le texte doit d'abord être converti en nombres.
 
-## Comment ça marche
-Lorsque du texte est saisi, le tokenizer le divise en morceaux appelés « jetons ». Ces jetons sont ensuite convertis en vecteurs que l’IA peut traiter numériquement.
+## 2. Algorithmes de tokenizer et leurs logiques mathématiques
+Les principaux algorithmes de tokenisation au cœur des modèles de langage modernes sont les suivants :
 
-## Où est-ce utilisé
-C'est la passerelle vers tous les principaux modèles de langage. Une fois que vous commencez à parler à un chatbot, tout ce que vous tapez est d'abord traité par le tokenizer.
+## 3. La « Taxe de Tokenisation » en turc (The Tokenizer Tax)
+Plus de 85 % des données d'entraînement des grands modèles de langage sont en anglais. Cette situation conduit à ce que le vocabulaire du tokenizer soit principalement rempli de racines et de mots anglais.
 
-## Souvent confondu avec
-Il est simplement confondu avec le mot briseur ; alors que le tokenizer peut parfois diviser un mot en plusieurs parties et parfois plusieurs mots en un seul jeton.
+## 4. Sécurité et cas limites : Glitch Tokens
+Les jetons spéciaux qui figurent dans le vocabulaire du tokenizer mais qui apparaissent rarement ou dans des contextes dénués de sens au sein du corpus de texte lors du pré-entraînement du modèle sont appelés "Glitch Tokens".
 
 ## Questions fréquentes
-**Qu'est-ce qu'un jeton ?**
-C'est l'unité de traitement du modèle ; Il s'agit généralement d'une partie d'un mot ou d'un signe de ponctuation.
+**Que signifie Tokenizer, quel est son équivalent en turc ?**
+En turc, il est appelé « jetonlaştırıcı » ou « simgeleştirici ». C'est un logiciel qui divise les textes en langage naturel en les plus petits index numériques (tokens) que le modèle d'intelligence artificielle peut comprendre.
 
-**Pourquoi n'utilisons-nous pas de mots directs ?**
-Parce que le traitement de données numériques est beaucoup plus rapide et efficace que le traitement de la structure complexe des mots.
+**À combien de mots ou de lettres correspond 1 token ?**
+Dans les textes en anglais, 1 token équivaut en moyenne à 4 caractères ou 0,75 mot (100 mots correspondent à environ 130 tokens). Dans les langues agglutinantes comme le turc, un mot peut représenter en moyenne 2 à 3 tokens en raison de la fragmentation des suffixes.
+
+**Comment fonctionne le BPE (Byte Pair Encoding) ?**
+C'est un algorithme statistique qui construit un dictionnaire de sous-mots de taille fixe en commençant par les caractères les plus basiques et en combinant étape par étape les paires de caractères qui apparaissent le plus fréquemment côte à côte dans l'ensemble d'entraînement.
+
+**Les modèles sans tokenizer (tokenizer-free) sont-ils possibles ?**
+Oui ; les architectures de réseaux neuronaux de nouvelle génération développées récemment, telles que MambaByte et MegaByte, visent à éliminer l'inégalité linguistique en supprimant complètement la couche de tokenizer et en traitant directement les octets bruts (bytes).
 
 
 ## Termes liés
 - [Token](/fr/dictionary/token/)
 - [NLP](/fr/dictionary/nlp/)
 - [Tokenizer-free](/fr/dictionary/tokenizer-free/)
+- [Prompt Engineering](/fr/dictionary/prompt-engineering/)
+- [Context](/fr/dictionary/context/)
 
 ## Outils liés
+- [Minimind](/fr/discover/minimind/)
 - [AI Engineering from Scratch](/fr/discover/ai-engineering-from-scratch/)
 
 ---

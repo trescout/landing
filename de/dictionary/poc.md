@@ -2,23 +2,35 @@
 
 > Proof of Concept
 
-Es handelt sich um einen kleinen Vorversuch, um zu beweisen, ob eine Idee in der Praxis funktioniert.
+PoC (Proof of Concept, Machbarkeitsnachweis) ist ein kleiner Test, der zeigt, ob eine Idee funktioniert.
 
-## Definition
-Es ist eine kurzfristige Studie, die vor Beginn eines großen Projekts durchgeführt wird, um zu verstehen, ob die zugrunde liegende Technologie wie erwartet funktioniert. In dieser Phase wird kein perfektes Design oder ein Produkt im vollen Maßstab erwartet; es wird lediglich die grundlegende Funktionalität getestet.
+## Definition und Wortherkunft
+"Concept" bedeutet Konzept, "Proof" hingegen Beweis. Vor einer großen Investition wird gezeigt, dass die zugrundeliegende Technologie funktioniert. Ein fertiges Design wird nicht erwartet, lediglich die Kernfunktion wird getestet.
 
-## So funktioniert es
-Mit begrenzten Ressourcen werden Daten gesammelt, indem nur die kritischste Funktion funktionsfähig gemacht wird. Wenn das Ergebnis erfolgreich ist, wird in das Projekt investiert, andernfalls wird es verworfen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Software: Riskantes Integrationsexperiment.Investition: Validierung vor der Investition.Hardware: Schaltungstest vor dem Prototyp.
 
-## Wo es eingesetzt wird
-Es wird in Softwareentwicklungsprozessen und bei Investitionen in neue Technologien verwendet.
+## Technische Tiefe und Architektur
+Plan:
 
-## Häufig verwechselt mit
-Es wird oft mit einem Prototyp verwechselt; ein Prototyp ist ein Muster des Produkts, während ein PoC ein Experiment ist, das die Machbarkeit der Idee beweist.
+## Häufig gemischte Dinge
+Wird oft für einen Prototypen gehalten. Ein Prototyp ist ein Produktmuster, ein PoC ist ein Machbarkeitsexperiment. Einer zeigt es, der andere beweist es.
 
-## Häufige Fragen
-**Was passiert, wenn ein PoC erfolgreich ist?**
-Da bewiesen wurde, dass die Idee umsetzbar ist, wird zur Phase der vollständigen Entwicklung übergegangen.
+## Einsatz in verschiedenen Disziplinen
+Modell: Skaliertes Modell vor dem Gebäude.Hausversuch: Küchentest ohne das Menü zu betreten.Trailer: Reaktionsmessung vor dem Film.
+
+## Häufig gestellte Fragen
+**Was passiert, wenn es erfolgreich ist?**
+Die Machbarkeit wird bewiesen, man geht zur vollständigen Entwicklung über.
+
+**Wie lange dauert es?**
+Normalerweise 1-2 Wochen. Eine sich hinziehende Arbeit hat sich von einem PoC in ein Projekt verwandelt.
+
+**Was passiert, wenn es fehlschlägt?**
+Der Verlust bleibt begrenzt, es werden Lehren gezogen. Frühzeitiges Aufgeben ist ein Gewinn.
+
+**Worin besteht der Unterschied zum Prototyp?**
+Ein Prototyp zeigt, ein PoC beweist. Das eine ist ein Schaufenster, das andere ein Experiment.
 
 
 ## Verwandte Begriffe

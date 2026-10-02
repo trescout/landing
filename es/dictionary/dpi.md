@@ -2,26 +2,35 @@
 
 > Dots Per Inch
 
-El número de puntos por pulgada determina la calidad de imagen de una pantalla o impresora.
+DPI (Dots Per Inch, puntos por pulgada) es una unidad de densidad que mide la nitidez de la impresión y de las imágenes.
 
-## Definición
-DPI es una unidad de medida que expresa cuántos puntos puede caber un dispositivo en una pulgada de espacio. Cuanto mayor sea este número, más nítida y detallada aparecerá la imagen. Es uno de los estándares básicos que determinan la calidad del trabajo, especialmente en el mundo del diseño gráfico y la impresión.
+## Definición y origen de la palabra
+Es cuántos puntos caben en un área de una pulgada. Cuanto mayor es el número, más nítida es la imagen y mayor es el archivo. Es el estándar fundamental del mundo de la impresión: para una impresión de calidad, generalmente se piden 300 DPI. En el ámbito de las pantallas, un concepto similar se conoce como PPI (Pixels Per Inch), y en el lenguaje cotidiano ambos se suelen confundir.
 
-## Cómo funciona
-El valor de DPI se verifica al imprimir un archivo digital o configurar una resolución de pantalla. Un DPI más alto significa más claridad, pero también puede hacer que aumente el tamaño del archivo.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Impresión fotográfica: Que los trabajos impresos por debajo de 300 DPI salgan granulados.Ratón de juego: El botón de DPI que determina la velocidad del cursor.Pantalla de teléfono: Textos nítidos y fluidos en alta densidad.Diseño: Preparar el trabajo que va a imprimirse a 300 DPI.
 
-## Dónde se usa
-Lo encuentra en impresiones fotográficas, configuraciones de monitores y software de diseño profesional.
+## Profundidad técnica y arquitectura
+Tiene tres significados distintos en tres contextos diferentes:
 
-## Suele confundirse con
-A menudo se confunde con PPI (píxeles por pulgada); DPI se trata más de impresión física, mientras que PPI se trata de píxeles de pantalla.
+## Cosas frecuentemente mezcladas
+Se confunde con el PPI. El DPI es el punto de tinta en la impresión, el PPI es el píxel en la pantalla. El DPI del ratón, por otro lado, es independiente de estos y es la sensibilidad del sensor. Los tres expresan densidad, pero los tres miden cosas diferentes.
+
+## Uso en diferentes disciplinas
+Tejido: Número de hilos por pulgada en la tela (thread count).Mosaico: Número de piedras por unidad de área.Fecha de impresión: Trama de periódico y frecuencia de puntos offset.
 
 ## Preguntas frecuentes
 **¿Qué pasa si el DPI es alto?**
-La imagen parece mucho más clara y de mayor calidad, pero el tamaño de la impresión o del archivo aumenta.
+La imagen se vuelve más nítida, pero el archivo crece y la impresión se vuelve más lenta. Más de lo necesario es un desperdicio.
 
 **¿Es importante el DPI para la pantalla?**
-Las pantallas suelen utilizar PPI, pero el término DPI también se utiliza a veces como expresión general para describir la densidad de la pantalla.
+En la pantalla, la medida real es el valor PPI. El término DPI también se usa en el lenguaje cotidiano para la densidad de la pantalla, técnicamente pertenece a la impresión.
+
+**¿Para qué sirve el DPI en un ratón de juego?**
+Ajusta la velocidad del cursor. Un valor alto proporciona giros rápidos, un valor bajo proporciona una puntería precisa. La mayoría de los jugadores cambian de perfil según el género.
+
+**¿Cuántos DPI se necesitan para imprimir?**
+La regla general es un valor de 300 DPI. En trabajos que se verán desde la distancia, como carteles grandes, un valor más bajo es suficiente.
 
 
 ## Términos relacionados

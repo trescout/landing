@@ -1,42 +1,28 @@
-# Memory Management Stack, Heap, recolector de basura y memoria del SO
+# ¿Qué es Memory Management?
 
+La gestión de memoria (memory management) es el proceso de asignar, proteger y devolver al sistema la memoria de acceso aleatorio (RAM) física y virtual de la computadora entre los programas en ejecución una vez que se termina de utilizar.
 
-**Categoría:** Dev  
+## 1. Anatomía de la memoria: distinción entre Stack (Pila) y Heap (Montículo)
+Cuando se ejecuta un programa, el sistema operativo asigna un espacio de memoria virtual específico para ese proceso. Los dos componentes más críticos de este espacio son el Stack y el Heap:
 
-**Última actualización:** 2026-09-19
+## 2. Tres paradigmas fundamentales de gestión de memoria
 
-
-La gestión de memoria (memory management) es la disciplina informática y del sistema operativo que coordina cómo se asigna, rastrea y recicla la memoria RAM a lo largo de la ejecución de un programa.
-
-
-## 1. Anatomía de la Memoria: Separación entre Stack y Heap
-Todo software en ejecución distribuye su espacio de trabajo en memoria en dos áreas diferenciadas :
-- **Memoria de Pila (Stack):** Estructura secuencial de tipo LIFO (último en entrar, primero en salir) gestionada de forma directa por el procesador. Guarda las variables locales y marcos de función. La asignación consiste en desplazar el puntero RSP, resultando instantánea y liberándose automáticamente al terminar la función.- **Memoria de Montículo (Heap):** Área extensa de asignación dinámica pensada para objetos de tamaño variable que deben persistir fuera del ámbito local. Requiere llamadas al asignador del sistema, lo que conlleva mayor flexibilidad pero menor velocidad.
-
-## 2. Tres Paradigmas Fundamentales de Gestión de Memoria
-Los lenguajes de programación se dividen en tres grandes modelos de control :
-- **Gestión Manual (C, C++):** El desarrollador reserva bloques mediante <code>malloc()</code> y debe liberarlos obligatoriamente con <code>free()</code>. Ofrece la máxima velocidad, pero conlleva peligros de fugas de memoria o fallos graves de seguridad por desbordamiento.- **Recolección Automática de Basura (Java, Go, JavaScript, Python):** Un recolector (Garbage Collector) escanea la memoria en segundo plano para liberar los objetos que ya no tienen referencias activas, a cambio de pequeñas pausas de CPU.- **Propiedad y Préstamo en Tiempo de Compilación (Rust):** Garantiza la seguridad de memoria sin recolector mediante reglas de Ownership que verifican el ciclo de vida de los datos antes de compilar y liberan la memoria de forma determinista.
-
-## 3. Nivel de Sistema Operativo: Memoria Virtual y OOM Killer
-Por debajo del software de usuario, el núcleo del sistema operativo administra los módulos de RAM mediante la MMU :
-- **Memoria Virtual y Paginación:** Cada programa interactúa con un espacio lógico de memoria dividido en páginas de 4 KB que la MMU traduce a posiciones físicas reales.- **Fallos de Página (Page Faults) y Swap:** Cuando el sistema requiere datos que fueron derivados temporalmente al disco duro, se produce un fallo de página para volver a cargarlos en RAM.- **OOM Killer (Out Of Memory):** Cuando la memoria física se agota por completo, el núcleo Linux invoca el OOM Killer para abortar los procesos que más memoria consumen y evitar el colapso del equipo.
-
-## Por analogía
-La memoria de pila es como un montón de platos donde se apilan y recogen piezas ágilmente desde arriba; la memoria de montículo es como un almacén de paquetería donde se guardan cajas de cualquier tamaño llevando un registro para no olvidarlas.
+## 3. Memoria a nivel de sistema operativo: Memoria virtual y OOM Killer
+Los sistemas operativos modernos utilizan una arquitectura de memoria virtual y paginación para evitar que los programas lean la memoria de los demás. La Unidad de Gestión de Memoria (MMU) de la CPU traduce las direcciones virtuales a direcciones físicas en el hardware con la ayuda de la caché TLB. Cuando la memoria RAM física y el espacio de intercambio (swap) se agotan por completo, el mecanismo OOM Killer (Out of Memory Killer) del kernel de Linux termina el proceso más agresivo con una señal SIGKILL para salvar el sistema.
 
 ## Preguntas frecuentes
+**¿Qué significa 'Memory management' y cuál es su equivalente en español?**
+Memory Management significa "gestión de memoria" en español. Es el conjunto de procesos de asignación, seguimiento y liberación de recursos de RAM durante la ejecución de un programa informático.
 
-**¿Qué diferencia hay entre la memoria Stack y la memoria Heap?**  
-La Stack es automática, instantánea y limitada al ámbito de una función; la Heap es flexible, amplia y exige control manual o recolección de basura.
+**¿Cuál es la diferencia fundamental entre Stack y Heap?**
+La pila (Stack) gestiona las variables locales conocidas en tiempo de compilación de forma extremadamente rápida con lógica LIFO; el montón (Heap) es un grupo de memoria flexible, reservado para objetos que crecen dinámicamente en tiempo de ejecución, cuya gestión es más compleja.
 
-**¿Qué consecuencias tiene una fuga de memoria (memory leak)?**  
-Consume recursos de RAM progresivamente sin liberarlos, degradando el rendimiento general hasta que la aplicación colapsa.
+**¿Cómo funciona el Garbage Collection (Recolector de basura)?**
+En lenguajes donde el programador no realiza la eliminación manual (Java, Go, JS, etc.), un motor que se ejecuta en segundo plano detecta los objetos huérfanos a los que no se puede acceder desde las variables raíz y limpia la RAM.
 
-**¿Cómo gestiona Rust la memoria sin usar recolector de basura?**  
-Mediante su sistema de reglas de propiedad (Ownership) validadas por el compilador, que programa la liberación exacta de la memoria de forma determinista.
+**¿Cómo se evita una fuga de memoria (Memory Leak)?**
+En lenguajes manuales, escribiendo un 'free' por cada 'malloc' o estableciendo patrones RAII; en lenguajes con recolector de basura, limpiando las referencias globales a arreglos y los escuchadores de eventos (event listeners) que no se cierran.
 
-**¿Cuál es la función del OOM Killer en Linux?**  
-Cerrar procesos consumidores cuando la memoria RAM se agota por completo para salvar la estabilidad del sistema operativo.
 
 ## Términos relacionados
 - [Runtime](/es/dictionary/runtime/)
@@ -46,4 +32,4 @@ Cerrar procesos consumidores cuando la memoria RAM se agota por completo para sa
 - [Assembly](/es/dictionary/assembly/)
 
 ---
-Fuente: Glosario técnico TreScout · https://trescout.com/es/dictionary/memory-management/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/memory-management/

@@ -1,27 +1,40 @@
 # Was ist Headless Browser?
 
-Ein Browser ohne visuelle Anzeige, der Internetseiten vollständig über Code lädt und Daten verarbeitet.
+Ein Headless-Browser ist ein vollwertiger Webbrowser, der ohne grafische Benutzeroberfläche arbeitet.
 
-## Definition
-Es handelt sich um eine Art von Browser, bei dem die visuelle Benutzeroberfläche (Schaltflächen, Bilder), die man normalerweise beim Surfen im Internet sieht, nicht im Hintergrund ausgeführt wird, sondern nur die Codestruktur verarbeitet wird. Da er keine visuelle Oberfläche rendert, arbeitet er sehr schnell und verbraucht weniger Computerressourcen.
+## Definition und Wortherkunft
+"Headless" bedeutet kopflos: Es wird kein Fenster gerendert, der Code arbeitet. Ohne die grafische Last steigt die Geschwindigkeit, der Ressourcenverbrauch sinkt. Es ist der stille Arbeiter für Test- und Datenaufgaben.
 
-## So funktioniert es
-Entwickler verwenden Automatisierungstools, um diesem Browser den Befehl zu geben: 'Gehe zu dieser Seite und rufe diese Daten ab'.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Test: Seiten-Regressionsprüfung.Daten: Website-Crawling.Bericht: Erstellung von Screenshots.
 
-## Wo es eingesetzt wird
-Er wird für das automatisierte Testen von Websites und für Datenscraping-Prozesse verwendet.
+## Technische Tiefe und Architektur
+Fähigkeiten:
 
-## Häufig verwechselt mit
-Stealth Headless Browser
+## Häufig gemischte Dinge
+Wird für Stealth gehalten. Stealth ist der Modus des Headless-Browsers, der der Bot-Erkennung entgeht. Eines ist der Motor, das andere die Tarnung.
 
-## Häufige Fragen
-**Warum hat er keine visuelle Benutzeroberfläche?**
-Weil wir nur die Daten benötigen und die Seite nicht sehen müssen.
+## Einsatz in verschiedenen Disziplinen
+Papierausdruck: Nicht auf das Bild, sondern auf die Daten schauen.Blindflug: Navigation per Instrumenten.Hintergrundküche: Produktion ohne Kunden.
+
+## Häufig gestellte Fragen
+**Warum gibt es keine Benutzeroberfläche?**
+Daten werden verarbeitet, eine Anzeige ist nicht erforderlich. Das spart Zeit und Ressourcen.
+
+**Wird es erkannt?**
+Es kann erkannt werden. Der Stealth-Modus reduziert Spuren, die Website-Richtlinie ist entscheidend.
+
+**Wann wird eine GUI benötigt?**
+Bei visueller Inspektion und manuellem Testen. In der Automatisierung reicht Headless aus.
+
+**Was ist der Ressourcenunterschied?**
+Speicher- und CPU-Verbrauch sinken, die parallele Ausführung nimmt zu. Daraus ergibt sich die Skalierbarkeit.
 
 
 ## Verwandte Begriffe
 - [Stealth Headless Browser](/de/dictionary/stealth-headless-browser/)
 - [Web Scraping](/de/dictionary/web-scraping/)
+- [Testing Framework](/de/dictionary/testing-framework/)
 
 ## Verwandte Werkzeuge
 - [Browser](/de/discover/browser/)

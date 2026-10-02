@@ -1,22 +1,34 @@
 # Was ist Meta-framework?
 
-Es handelt sich um eine umfassende Entwicklungsplattform, die auf Kernsoftwaretools basiert.
+Ein Meta-Framework ist eine Struktur, die Bibliotheken in einem einheitlichen System zusammenführt.
 
-## Definition
-Ein Meta-Framework ist eine übergeordnete Struktur, die die von Basisbibliotheken angebotenen Funktionen kombiniert, um den Softwareentwicklungsprozess zu beschleunigen. Normalerweise erleichtert es in Webentwicklungsprozessen die Arbeit des Entwicklers durch die Automatisierung komplexer Einstellungen.
+## Definition und Wortherkunft
+Meta bedeutet jenseits. Die Bibliothek liefert Teile, das übergeordnete Framework schafft Ordnung: Routing, Datenabruf und Kompilierung sind direkt verfügbar. Mit wenig Code lässt sich viel erreichen.
 
-## So funktioniert es
-Es kombiniert die Funktionen grundlegender Tools und bietet eine gezielte Struktur, die es dem Entwickler ermöglicht, mehr Arbeit mit weniger Code zu erledigen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Website: Schnell eingerichtete Seiten.Panel: Verwaltungsbildschirme.Blog: Artikelverzeichnis.
 
-## Wo es eingesetzt wird
-Es wird verwendet, um moderne Websites und komplexe Softwareprojekte schnell zu starten.
+## Technische Tiefe und Architektur
+Was sie mitbringen:
 
-## Häufig verwechselt mit
-Der Unterschied zu Standardbibliotheken besteht darin, dass sie als Framework dient, das den gesamten Prozess verwaltet.
+## Häufig gemischte Dinge
+Es wird für eine Bibliothek gehalten. Die Bibliothek wird aufgerufen, das Dach ruft. Das eine ist ein Werkzeug, das andere eine Werkstatt.
 
-## Häufige Fragen
-**Warum sollte ich ein Meta-Framework verwenden?**
-Es erhöht Ihre Entwicklungsgeschwindigkeit durch die Automatisierung zeitaufwändiger Aufgaben wie Projekteinrichtung und -konfiguration.
+## Einsatz in verschiedenen Disziplinen
+Unternehmen: Eine Struktur, die Plan und Team bereitstellt.Chefkoch: Menü- und Küchen-Layout.Schlüsselfertig: Übergabe des fertigen Hauses.
+
+## Häufig gestellte Fragen
+**Warum wird es verwendet?**
+Es nimmt die Last von Installation und Einrichtung ab, der Fokus liegt auf Schnelligkeit.
+
+**Was ist der Bibliothekenunterschied?**
+Bibliothek wird aufgerufen, Framework steuert. Kontrolle und Geschwindigkeit werden eingetauscht.
+
+**Wann sollte man es wählen?**
+Der Standard sofort, bei spezieller Architektur wird vorsichtig gewählt.
+
+**Sperren?**
+Tiefe Einbettung sperrt. Wird sie an der Grenze gehalten, ist sie portabel.
 
 
 ## Verwandte Begriffe

@@ -2,7 +2,7 @@
 
 Pi est une boîte à outils d'agents d'intelligence artificielle qui offre une interface unifiée pour les grands modèles de langage (LLM) et automatise les processus de développement logiciel. Il facilite les tâches de codage en gérant les boucles d'agents via une interface utilisateur basée sur le terminal (TUI) et un outil de ligne de commande (CLI).
 
-- ★ 110 810
+- ★ 111 516
 - TypeScript
 - GitHub Trending · 2026-09-16
 

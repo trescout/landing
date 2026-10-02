@@ -2,7 +2,7 @@
 
 Diese von der Harvard University gemeinsam genutzte Ressource bietet einen umfassenden technischen Leitfaden zu maschinellen Lernsystemen. Diese Studie kombiniert Hardware- und Softwareschichten und befasst sich mit den Entwurfsprozessen skalierbarer Infrastrukturen für künstliche Intelligenz.
 
-- ★ 28.085
+- ★ 28.788
 - Python
 - GitHub Trending · 2026-07-03
 

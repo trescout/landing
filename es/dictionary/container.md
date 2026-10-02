@@ -1,25 +1,34 @@
 # ¿Qué es Container?
 
-Es una caja portátil que contiene todo lo necesario para que se ejecute un software y garantiza que funcione igual en todas las computadoras.
+Un contenedor es una única aplicación empaquetada con su código y dependencias, diseñada para ejecutarse de la misma manera en cualquier entorno.
 
-## Definición
-Los contenedores agrupan el código, las bibliotecas y la configuración de una aplicación en un solo paquete. De esta manera, su software funciona de la misma manera en el servidor o en la computadora de otra persona que en su computadora. Por lo tanto, elimina por completo el problema "estaba funcionando en mi computadora".
+## Definición y origen de la palabra
+Los contenedores agrupan el código, las bibliotecas y la configuración de una aplicación en un solo paquete. Funciona en el servidor exactamente igual que en tu ordenador. La idea es antigua (chroot, LXC), se popularizó después de 2013 con Docker y hoy en día se define mediante el estándar OCI.
 
-## Cómo funciona
-Utilizando herramientas como Docker, los desarrolladores empaquetan todo lo que la aplicación necesita en una "imagen de contenedor". Este paquete se ejecuta en un área aislada, independiente del sistema operativo. De esta forma, no habrá conflictos con otras aplicaciones del sistema.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Distribución: El mismo paquete desde el desarrollo hasta producción.Microservicio: Cada servicio con su propia caja.CI: Que cada prueba se ejecute en una caja limpia.
 
-## Dónde se usa
-Se utiliza en computación en la nube, distribución de software y gestión de aplicaciones complejas. Es especialmente estándar en proyectos donde grandes equipos necesitan trabajar en armonía entre sí.
+## Profundidad técnica y arquitectura
+Conceptos:
 
-## Suele confundirse con
-A menudo se confunde con las máquinas virtuales; pero los contenedores son mucho más ligeros y rápidos porque comparten el sistema operativo.
+## Cosas frecuentemente mezcladas
+Se confunde con una máquina virtual. La máquina lleva un sistema operativo completo, el contenedor solo lleva la aplicación. El aislamiento es fuerte en la máquina y suficiente en el contenedor; la elección se hace según la carga.
+
+## Uso en diferentes disciplinas
+Transporte: Compatibilidad con barcos, trenes y camiones mediante contenedores de tamaño estándar.Cocina: Una fiambrera con sus ingredientes listos dentro.Campamento: Un kit de acampada transportado ordenadamente en su bolsa.
 
 ## Preguntas frecuentes
 **¿Por qué el contenedor es tan popular?**
-Porque garantiza que el software funcione con la misma estabilidad en todos los entornos y reduce el proceso de instalación de minutos a segundos.
+Debido a que garantiza el mismo funcionamiento y una instalación rápida en cualquier entorno. Se ha convertido en el estándar junto con los microservicios y la orquestación en la nube.
 
 **¿Cuál es la diferencia entre un contenedor y una máquina virtual?**
-Las máquinas virtuales llevan sus propios sistemas operativos, mientras que los contenedores comparten el núcleo del sistema operativo anfitrión; entonces los contenedores son mucho más rápidos.
+La máquina lleva su propio sistema operativo, el contenedor comparte el núcleo principal. El contenedor es ligero y rápido, la máquina es fuerte en aislamiento.
+
+**¿Es seguro el contenedor?**
+Dado que se comparte el núcleo, no está tan aislado como una máquina. Debes descargar las imágenes de una fuente confiable y mantenerlas actualizadas.
+
+**¿Cuándo se prefiere una máquina virtual?**
+Cuando se requiere un sistema operativo diferente o un aislamiento fuerte. Para la mayoría de las demás cargas de trabajo, el contenedor es suficiente.
 
 
 ## Términos relacionados
@@ -29,11 +38,12 @@ Las máquinas virtuales llevan sus propios sistemas operativos, mientras que los
 
 ## Herramientas relacionadas
 - [N8n](/es/discover/n8n/)
-- [Core](/es/discover/core/)
 - [Stirling-PDF](/es/discover/stirling-pdf/)
+- [Core](/es/discover/core/)
 - [Container](/es/discover/container/)
 - [Mattermost](/es/discover/mattermost/)
 - [Keycloak](/es/discover/keycloak/)
+- [Trivy](/es/discover/trivy/)
 - [PPF Contact Solver](/es/discover/ppf-contact-solver/)
 
 ---

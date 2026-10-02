@@ -1,19 +1,31 @@
 # ¿Qué es Best Practices?
 
-Es un conjunto de métodos aceptados que brindan los resultados más eficientes, seguros y sin errores al realizar un trabajo.
+Las mejores prácticas (en turco, en iyi uygulamalar) son métodos de trabajo probados y aprobados por la comunidad.
 
-## Definición
-Son formas de trabajar fijadas por la experiencia en el mundo de la tecnología y aprobadas por la comunidad. Cumplir con estos hace que los proyectos sean más sostenibles y comprensibles. Le permite utilizar métodos probados en lugar de reinventar la rueda.
+## Definición y origen de la palabra
+En lugar de reinventar la rueda, es utilizar el camino comprobado. Se acumula en todas las áreas, desde la escritura de código y la seguridad hasta la documentación y la comunicación del equipo. Los estándares, las guías de estilo y las notas de los ingenieros sénior alimentan este fondo.
 
-## Cómo funciona
-Se aprende siguiendo los estándares de la industria, la documentación y las experiencias de desarrolladores de software senior. Estas reglas se cumplen y aplican durante todos los procesos de desarrollo del proyecto.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Código: Nombre significativo, función pequeña, prueba.Seguridad: No incrustar claves secretas en el código.Equipo: Revisión de código y disciplina de confirmación (commit).
 
-## Dónde se usa
-Se utiliza en la escritura de códigos, medidas de seguridad, gestión de proyectos y comunicación dentro del equipo.
+## Profundidad técnica y arquitectura
+Principios mencionados con frecuencia:
+
+## Uso en diferentes disciplinas
+Cocina: Libro de recetas y disciplina de medidas.Aviación: Lista de verificación previa al despegue.Tráfico: Orden de carriles y señales.
 
 ## Preguntas frecuentes
 **¿Es obligatorio cumplirlos?**
-Técnicamente no, pero definitivamente es recomendable para evitar dolores de cabeza a largo plazo.
+No técnicamente, pero reduce los dolores de cabeza a largo plazo. Es casi obligatorio en sistemas críticos.
+
+**¿Se convierte en dogma?**
+Puede convertirse. Cuestionar la regla cuando cambia el contexto también es parte de una buena práctica.
+
+**¿Quién lo determina?**
+La comunidad, las instituciones estándar y la experiencia dentro del equipo. La lista que escribe su equipo es más valiosa que la lista general.
+
+**¿Cuál es su lugar dentro de una startup?**
+En el período de velocidad se elige lo mínimo: disciplina de versiones, respaldo y revisión de código. En el crecimiento, la lista se amplía.
 
 
 ## Términos relacionados

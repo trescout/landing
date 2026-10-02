@@ -1,27 +1,40 @@
 # ¿Qué es Headless Browser?
 
-Un navegador que no tiene interfaz visual, que carga páginas web y procesa datos completamente a través de código.
+El navegador sin interfaz (headless browser) es un navegador completo que funciona sin pantalla.
 
-## Definición
-Es un tipo de navegador en el que la interfaz visual que normalmente ves al navegar por internet (botones, imágenes) no se ejecuta en segundo plano, sino que solo se procesa la estructura del código. Como no renderiza la interfaz visual, funciona muy rápido y consume menos recursos del ordenador.
+## Definición y origen de la palabra
+Headless significa sin cabeza: no se dibuja ninguna ventana, el código se ejecuta. Al eliminarse la carga visual, aumenta la velocidad y se reducen los recursos. Es el trabajador silencioso de las pruebas y el procesamiento de datos.
 
-## Cómo funciona
-Los desarrolladores utilizan herramientas de automatización para darle a este navegador la orden de 'ir a este sitio y obtener estos datos'.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Prueba: Control de regresión de páginas.Datos: Rastrero de sitios web.Informe: Generación de capturas de pantalla.
 
-## Dónde se usa
-Se utiliza en las pruebas automatizadas de sitios web y en procesos de extracción de datos.
+## Profundidad técnica y arquitectura
+Capacidades:
 
-## Suele confundirse con
-Navegador headless sigiloso
+## Cosas frecuentemente mezcladas
+Se cree que es Stealth. Stealth es el modo headless que elude la protección contra bots. Uno es el motor, el otro el camuflaje.
+
+## Uso en diferentes disciplinas
+Impresión en papel: Mirar los datos, no la imagen.Vuelo a ciegas: Navegación por instrumentos.Cocina trasera: Producción sin clientes.
 
 ## Preguntas frecuentes
-**¿Por qué no tiene interfaz visual?**
-Porque solo necesitamos los datos, no necesitamos ver la página.
+**¿Por qué no hay interfaz?**
+Los datos se procesan, no se necesita imagen. Ahorra velocidad y recursos.
+
+**¿Se detecta?**
+Se puede detectar. El modo sigiloso reduce el rastro, la política del sitio es determinante.
+
+**¿Cuándo se necesita GUI?**
+En inspección visual y pruebas manuales. En automatización, el modo headless es suficiente.
+
+**¿Cuál es la diferencia de recursos?**
+La memoria y el CPU disminuyen, la ejecución en paralelo aumenta. De ahí proviene la escala.
 
 
 ## Términos relacionados
 - [Stealth Headless Browser](/es/dictionary/stealth-headless-browser/)
 - [Web Scraping](/es/dictionary/web-scraping/)
+- [Testing Framework](/es/dictionary/testing-framework/)
 
 ## Herramientas relacionadas
 - [Browser](/es/discover/browser/)

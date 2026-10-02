@@ -2,23 +2,35 @@
 
 > Proof of Concept
 
-Es una prueba preliminar a pequeña escala realizada para demostrar si una idea funciona en la práctica.
+Una PoC (Proof of Concept, prueba de concepto) es una pequeña prueba que demuestra si una idea funciona o no.
 
-## Definición
-Es un estudio de corta duración realizado antes de comenzar un proyecto grande para comprender si la tecnología base funciona como se espera. En esta etapa no se espera un diseño perfecto ni un producto a gran escala; solo se prueba la funcionalidad básica.
+## Definición y origen de la palabra
+"Concept" significa concepto y "proof", prueba. Antes de una gran inversión, se demuestra que la tecnología básica funciona. No se espera un diseño acabado, solo se prueba la función principal.
 
-## Cómo funciona
-Con recursos limitados, se recopilan datos haciendo que solo la característica más crítica sea funcional. Si el resultado es exitoso, se invierte en el proyecto; de lo contrario, se abandona.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Software: Prueba de integración arriesgada.Inversión: Validación previa a la inversión.Hardware: Prueba de circuito previa al prototipo.
 
-## Dónde se usa
-Se utiliza en procesos de desarrollo de software e inversiones en nuevas tecnologías.
+## Profundidad técnica y arquitectura
+Plan:
 
-## Suele confundirse con
-Se confunde con el prototipo; el prototipo es un ejemplo del producto, mientras que la PoC es un experimento que demuestra la viabilidad de la idea.
+## Cosas frecuentemente mezcladas
+Se confunde con un prototipo. El prototipo es una muestra de producto, el PoC es un experimento de viabilidad. Uno muestra, el otro demuestra.
+
+## Uso en diferentes disciplinas
+Maqueta: Modelo a escala antes del edificio.Prueba de casa: Una prueba de cocina antes de entrar al menú.Tráiler: Medición de reacción antes de la película.
 
 ## Preguntas frecuentes
-**¿Qué sucede si la PoC tiene éxito?**
-Dado que se ha demostrado que la idea es viable, se pasa a la etapa de desarrollo a gran escala.
+**¿Qué pasa si tiene éxito?**
+Se demuestra la viabilidad y se pasa al desarrollo completo.
+
+**¿Cuánto tiempo se tarda?**
+Generalmente de 1 a 2 semanas. Un trabajo que se prolonga se ha convertido en un proyecto, no en un PdC.
+
+**¿Qué pasa si falla?**
+La pérdida sigue siendo limitada, se extrae una lección. Abandonar temprano es una victoria.
+
+**¿En qué se diferencia de un prototipo?**
+El prototipo muestra, el PdC demuestra. Uno es un escaparate, el otro un experimento.
 
 
 ## Términos relacionados

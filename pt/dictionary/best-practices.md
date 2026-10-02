@@ -1,19 +1,31 @@
 # O que é Best Practices?
 
-É o conjunto de métodos aceitos que proporcionam o resultado mais eficiente, seguro e sem erros ao realizar uma tarefa.
+As melhores práticas, conhecidas em turco como "en iyi uygulamalar", são métodos de trabalho testados e aprovados pela comunidade.
 
-## Definição
-No mundo da tecnologia, são formas de trabalho comprovadas pela experiência e aprovadas pela comunidade. Segui-las torna os projetos mais sustentáveis e compreensíveis. Permite que você use caminhos comprovados em vez de reinventar a roda.
+## Definição e origem da palavra
+É usar o caminho comprovado em vez de reinventar a roda. Acumula-se em todas as áreas, desde a escrita de código e segurança até a documentação e comunicação de equipe. Padrões, guias de estilo e notas de engenheiros seniores alimentam esse repositório.
 
-## Como funciona
-Aprende-se seguindo padrões da indústria, documentações e as experiências de desenvolvedores seniores. São aplicadas mantendo a fidelidade a essas regras nos processos de desenvolvimento de projetos.
+## Como conhecer e usar no dia a dia?
+Código: Nome significativo, função pequena, teste.Segurança: Não embutir chaves secretas no código.Equipe: Revisão de código e disciplina de commit.
 
-## Onde é usado
-São utilizadas na escrita de código, medidas de segurança, gestão de projetos e comunicação interna da equipe.
+## Profundidade Técnica e Arquitetura
+Princípios frequentemente mencionados:
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Culinária: Livro de receitas e disciplina de medidas.Aviação: Lista de verificação pré-voo.Tráfego: Ordem de faixas e sinais.
+
+## Perguntas Frequentes
 **É obrigatório segui-las?**
-Tecnicamente não, mas é altamente recomendado para evitar dores de cabeça a longo prazo.
+Tecnicamente não, mas a longo prazo reduz a dor de cabeça. É quase obrigatório em sistemas críticos.
+
+**Pode se tornar um dogma?**
+Pode. Questionar a regra quando o contexto muda também faz parte de uma boa prática.
+
+**Quem determina?**
+A comunidade, as instituições padrão e a experiência interna da equipe. A lista escrita pela sua equipe é mais valiosa do que a lista geral.
+
+**Qual é o lugar disso dentro de uma startup?**
+No período de velocidade, escolhe-se pouco: disciplina de lançamento, backup e revisão de código. Na fase de crescimento, a lista se expande.
 
 
 ## Termos relacionados

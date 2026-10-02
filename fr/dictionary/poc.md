@@ -2,23 +2,35 @@
 
 > Proof of Concept
 
-Il s'agit d'un essai préliminaire à petite échelle réalisé pour prouver qu'une idée fonctionne dans la pratique.
+Un PoC (Proof of Concept, preuve de concept) est un petit essai qui montre si une idée fonctionne ou non.
 
-## Définition
-Avant de commencer un grand projet, il s'agit d'une étude de courte durée menée pour comprendre si la technologie de base fonctionne comme prévu. À ce stade, on ne s'attend pas à une conception parfaite ou à un produit à grande échelle ; seule la fonctionnalité de base est testée.
+## Définition et origine du mot
+"Concept" signifie concept et "proof" signifie preuve. Avant un investissement majeur, il est démontré que la technologie de base fonctionne. On n'attend pas de design achevé, seule la fonction principale est testée.
 
-## Comment ça marche
-Avec des ressources limitées, des données sont collectées en rendant opérationnelle uniquement la fonctionnalité la plus critique. Si le résultat est concluant, le projet est investi ; sinon, il est abandonné.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Logiciel : Essai d'intégration risqué.Investissement : Validation préalable à l'investissement.Matériel : Test de circuit pré-prototype.
 
-## Où est-ce utilisé
-Il est utilisé dans les processus de développement logiciel et les investissements dans les nouvelles technologies.
+## Profondeur technique et architecture
+Plan :
 
-## Souvent confondu avec
-Il est confondu avec le prototype ; le prototype est un échantillon du produit, tandis que le PoC est une expérience prouvant la faisabilité de l'idée.
+## Choses fréquemment mélangées
+Souvent confondu avec un prototype. Un prototype est un exemple de produit, un PoC (preuve de concept) est une expérience de faisabilité. L'un montre, l'autre prouve.
 
-## Questions fréquentes
-**Que se passe-t-il si le PoC est réussi ?**
-Comme la faisabilité de l'idée est prouvée, on passe à la phase de développement à grande échelle.
+## Utilisation dans différentes disciplines
+Maquette : Modèle à l'échelle avant le bâtiment.Essai à domicile : Un test de cuisine avant d'entrer dans le menu.Bande-annonce : Mesure des réactions avant le film.
+
+## Foire aux questions
+**Que se passe-t-il en cas de succès ?**
+La faisabilité est prouvée, on passe au développement complet.
+
+**Combien de temps cela prend-il?**
+Généralement 1 à 2 semaines. Un travail qui s'éternise s'est transformé en projet et non plus en PoC.
+
+**Que se passe-t-il en cas d'échec ?**
+La perte reste limitée, une leçon est tirée. Abandonner tôt est un gain.
+
+**Quelle est la différence avec le prototype ?**
+Le prototype montre, le PoC prouve. L'un est une vitrine, l'autre une expérience.
 
 
 ## Termes liés

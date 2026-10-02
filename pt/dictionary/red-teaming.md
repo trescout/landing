@@ -1,25 +1,34 @@
 # O que é Red Teaming?
 
-É um método de encontrar vulnerabilidades fingindo ser um usuário mal-intencionado para testar a segurança de um sistema.
+Red teaming, o teste equivalente em português como equipe vermelha, é um método de teste que consiste em agir como um invasor para encontrar vulnerabilidades.
 
-## Definição
-Red teaming é a simulação de uma equipe tentando contornar as defesas de um sistema. Esta equipe mede o quão resiliente o sistema é usando métodos que os invasores podem usar. O objetivo é fechar todas as vulnerabilidades antes que ocorra um ataque real.
+## Definição e origem da palavra
+O nome vem de exercícios militares: o lado vermelho ataca, o lado azul defende. A equipe mede a resiliência do sistema usando métodos de ataque. O objetivo é fechar as falhas antes de um ataque real.
 
-## Como funciona
-Os especialistas em segurança levam o sistema ao limite, tentam quebrar senhas ou enviar comandos incorretos. Os resultados são relatados e os firewalls são reforçados de acordo.
+## Como conhecer e usar no dia a dia?
+Institucional: Testes de intrusão anuais.Inteligência artificial: Tentativas de quebra de regras do modelo.Físico: Controles de entrada em edifícios.
 
-## Onde é usado
-É utilizado nos departamentos de segurança cibernética de grandes empresas e em testes de segurança de modelos de inteligência artificial.
+## Profundidade Técnica e Arquitetura
+Ordem dos testes:
 
-## Costuma ser confundido com
-Não deve ser confundido com uma verificação de segurança regular; Esta é uma simulação de ataque criativa e centrada no ser humano.
+## Coisas frequentemente misturadas
+Pensa-se que é uma varredura. A varredura é automática e superficial, o red teaming é criativo e centrado no ser humano. Os dois se complementam.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Banco: Teste de cofre e alarme.Incêndio: Simulação de evacuação.Xadrez: Não jogue o movimento do oponente com antecedência.
+
+## Perguntas Frequentes
 **Por que esse método é necessário?**
-Porque os testes de segurança padrão nem sempre conseguem detectar métodos de ataque criativos.
+Testes padrão não conseguem capturar ataques criativos. A mente humana vê o que a máquina não vê.
 
-**Como isso é implementado em modelos de inteligência artificial?**
-Ao fazer perguntas prejudiciais ao modelo, verifica-se se o modelo viola as regras.
+**Como isso é aplicado na inteligência artificial?**
+Perguntas que tentam fazer com que o modelo viole regras são feitas, e as respostas aprovadas e reprovadas são relatadas.
+
+**Quem faz isso?**
+Uma equipe interna ou uma empresa independente faz. Um olhar independente encontra pontos cegos com mais facilidade.
+
+**Com que frequência é feito?**
+Pelo menos uma vez por ano, e novamente após grandes mudanças. No lado do modelo, é feito por versão.
 
 
 ## Termos relacionados

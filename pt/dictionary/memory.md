@@ -29,8 +29,8 @@ Na maioria dos sistemas você pode excluir esses dados com o comando ‘clear me
 
 ## Ferramentas relacionadas
 - [Mempalace](/pt/discover/mempalace/)
-- [Hindsight](/pt/discover/hindsight/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
+- [Hindsight](/pt/discover/hindsight/)
 - [Cognee](/pt/discover/cognee/)
 - [TencentDB-Agent-Memory](/pt/discover/tencentdb-agent-memory/)
 - [AI Memory](/pt/discover/ai-memory/)

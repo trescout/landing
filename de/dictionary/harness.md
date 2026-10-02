@@ -38,8 +38,8 @@ Es wird vom Team festgelegt. Auf kritischen Pfaden wird es hoch, an den Rändern
 
 ## Verwandte Werkzeuge
 - [Jcode](/de/discover/jcode/)
-- [Harness · Ajan Ekip Fabrikası](/de/discover/harness/)
 - [Harness SDK](/de/discover/harness-sdk/)
+- [Harness · Ajan Ekip Fabrikası](/de/discover/harness/)
 - [Munder Difflin](/de/discover/munder-difflin/)
 - [Claude Code Harness](/de/discover/claude-code-harness/)
 

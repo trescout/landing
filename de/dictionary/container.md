@@ -1,25 +1,34 @@
 # Was ist Container?
 
-Dabei handelt es sich um eine tragbare Box, die alles enthält, was für die Ausführung einer Software erforderlich ist, und dafür sorgt, dass sie auf jedem Computer gleich funktioniert.
+Ein Container sorgt dafür, dass Code und Abhängigkeiten einer Anwendung in einem einzigen Paket in jeder Umgebung identisch ausgeführt werden.
 
-## Definition
-Container bündeln den Code, die Bibliotheken und die Einstellungen einer Anwendung in einem einzigen Paket. Auf diese Weise funktioniert Ihre Software auf dem Server oder dem Computer einer anderen Person genauso wie auf Ihrem Computer. Dadurch wird das Problem, dass es auf meinem Computer funktioniert hat, vollständig beseitigt.
+## Definition und Wortherkunft
+Container fassen den Code, die Bibliotheken und die Einstellungen einer Anwendung in einem einzigen Paket zusammen. Sie funktionieren auf dem Server genauso wie auf Ihrem Computer. Die Idee ist alt (chroot, LXC), wurde nach 2013 durch Docker populär gemacht und wird heute durch den OCI-Standard definiert.
 
-## So funktioniert es
-Mithilfe von Tools wie Docker packen Entwickler alles, was die Anwendung benötigt, in ein „Container-Image“. Dieses Paket läuft in einem isolierten Bereich, unabhängig vom Betriebssystem. Auf diese Weise kommt es zu keinem Konflikt mit anderen Anwendungen im System.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Vertrieb: Dasselbe Paket vom Entwickler bis zur Live-Umgebung.Mikroservice: Jeder Dienst hat seine eigene Box.CI: Jeder Test läuft in einer sauberen Box ab.
 
-## Wo es eingesetzt wird
-Es wird beim Cloud Computing, bei der Softwareverteilung und bei der Verwaltung komplexer Anwendungen eingesetzt. Dies ist insbesondere bei Projekten Standard, bei denen große Teams harmonisch zusammenarbeiten müssen.
+## Technische Tiefe und Architektur
+Konzepte:
 
-## Häufig verwechselt mit
-Es wird oft mit virtuellen Maschinen verwechselt; Container sind jedoch viel leichter und schneller, da sie das Betriebssystem gemeinsam nutzen.
+## Häufig gemischte Dinge
+Wird oft für eine virtuelle Maschine gehalten. Die Maschine enthält ein vollwertiges Betriebssystem, der Container nur die Anwendung. Die Isolierung ist bei der Maschine stärker, bei Containern ausreichend; die Wahl hängt von der Last ab.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Transport: Kompatibilität mit Schiffen, Zügen und Lastwagen durch standardisierte Containergrößen.Küche: Eine Fertiggerichte-Box mit allen Zutaten im Inneren.Camping: Ein ordentlich in seiner Tasche transportiertes Camping-Set.
+
+## Häufig gestellte Fragen
 **Warum ist der Container so beliebt?**
-Denn es garantiert, dass die Software in jeder Umgebung mit der gleichen Stabilität arbeitet und verkürzt den Installationsprozess von Minuten auf Sekunden.
+Da es in jeder Umgebung dieselbe Arbeit und eine schnelle Einrichtung ermöglicht. Es ist zusammen mit Microservices und Cloud-Orchestrierung zum Standard geworden.
 
 **Was ist der Unterschied zwischen einem Container und einer virtuellen Maschine?**
-Virtuelle Maschinen tragen ihre eigenen Betriebssysteme, während Container sich den Kernel des Host-Betriebssystems teilen; Daher sind Container viel schneller.
+Die Maschine bringt ihr eigenes Betriebssystem mit, der Container teilt sich den Host-Kernel. Der Container ist leicht und schnell, die Maschine ist stark in der Isolation.
+
+**Ist ein Container sicher?**
+Da der Kernel geteilt wird, ist er nicht so isoliert wie eine Maschine. Sie müssen Images aus einer vertrauenswürdigen Quelle beziehen und aktuell halten.
+
+**Wann wird eine virtuelle Maschine bevorzugt?**
+Wenn ein anderes Betriebssystem oder eine starke Isolation erforderlich ist. Für die meisten anderen Workloads reicht ein Container aus.
 
 
 ## Verwandte Begriffe
@@ -29,11 +38,12 @@ Virtuelle Maschinen tragen ihre eigenen Betriebssysteme, während Container sich
 
 ## Verwandte Werkzeuge
 - [N8n](/de/discover/n8n/)
-- [Core](/de/discover/core/)
 - [Stirling-PDF](/de/discover/stirling-pdf/)
+- [Core](/de/discover/core/)
 - [Container](/de/discover/container/)
 - [Mattermost](/de/discover/mattermost/)
 - [Keycloak](/de/discover/keycloak/)
+- [Trivy](/de/discover/trivy/)
 - [PPF Contact Solver](/de/discover/ppf-contact-solver/)
 
 ---

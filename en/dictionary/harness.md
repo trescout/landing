@@ -38,8 +38,8 @@ It is determined by the team. It is kept high on the critical path and low on th
 
 ## Related tools
 - [Jcode](/en/discover/jcode/)
-- [Harness · Ajan Ekip Fabrikası](/en/discover/harness/)
 - [Harness SDK](/en/discover/harness-sdk/)
+- [Harness · Ajan Ekip Fabrikası](/en/discover/harness/)
 - [Munder Difflin](/en/discover/munder-difflin/)
 - [Claude Code Harness](/en/discover/claude-code-harness/)
 

@@ -31,8 +31,8 @@ On most systems you can delete this data with the 'clear memory' or 'forget' com
 
 ## Related tools
 - [Mempalace](/en/discover/mempalace/)
-- [Hindsight](/en/discover/hindsight/)
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
+- [Hindsight](/en/discover/hindsight/)
 - [Cognee](/en/discover/cognee/)
 - [TencentDB-Agent-Memory](/en/discover/tencentdb-agent-memory/)
 - [AI Memory](/en/discover/ai-memory/)

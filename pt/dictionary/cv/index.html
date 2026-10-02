@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Computer Vision? · Glossário · TreScout</title>
-<meta name="description" content="Tecnologia que permite que computadores analisem imagens e vídeos digitais para compreender objetos ou situações dentro deles.">
+<meta name="description" content="CV (Computer Vision, visão computacional) é a tecnologia que dá significado a objetos em imagens e vídeos.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/cv/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/cv/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/cv/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/cv.md">
 <meta property="og:title" content="O que é Computer Vision?">
-<meta property="og:description" content="Tecnologia que permite que computadores analisem imagens e vídeos digitais para compreender objetos ou situações dentro deles.">
+<meta property="og:description" content="CV (Computer Vision, visão computacional) é a tecnologia que dá significado a objetos em imagens e vídeos.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/cv/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Computer Vision?">
-<meta name="twitter:description" content="Tecnologia que permite que computadores analisem imagens e vídeos digitais para compreender objetos ou situações dentro deles.">
+<meta name="twitter:description" content="CV (Computer Vision, visão computacional) é a tecnologia que dá significado a objetos em imagens e vídeos.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Computer Vision",
-  "description": "Tecnologia que permite que computadores analisem imagens e vídeos digitais para compreender objetos ou situações dentro deles.",
+  "description": "CV (Computer Vision, visão computacional) é a tecnologia que dá significado a objetos em imagens e vídeos.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/cv/",
   "inDefinedTermSet": {
@@ -55,16 +55,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · AI</span><time class="dict-time" datetime="2026-08-27">Última atualização: 27 de agosto de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · AI</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Computer Vision</span>?</h1>
 <p class="dict-en">Computer Vision</p>
-<p class="disc-lead">Tecnologia que permite que computadores analisem imagens e vídeos digitais para compreender objetos ou situações dentro deles.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Essa tecnologia permite que um computador veja como o olho humano e interprete o que vê. Por exemplo, pode analisar a identidade da pessoa numa fotografia ou o fluxo de tráfego num vídeo. É uma habilidade fundamental que ajuda a IA a perceber o mundo visualmente.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como um bebê aprendendo a reconhecer os objetos ao seu redor; O computador é ensinado a entender o que é o quê mostrando milhares de imagens.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Ele converte os dados de cor e forma da imagem em números matemáticos. Ele reconhece padrões e classifica objetos por meio desses números.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É utilizado em câmeras de segurança, veículos autônomos e sistemas de reconhecimento facial.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Pode ser confundido com processamento de imagens, mas não se trata apenas de editar imagens, é dar sentido.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Analisa apenas fotografias?</p><p class="dict-faq-a">Não, ele também pode lidar com streams de vídeo e imagens ao vivo instantaneamente.</p></div></div></section>
+<p class="disc-lead">CV (Computer Vision, visão computacional) é a tecnologia que dá significado a objetos em imagens e vídeos.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>É a capacidade de um computador ver como o olho humano e interpretar o que vê. A identidade de uma pessoa em uma foto e o fluxo de tráfego em um vídeo são exemplos disso. É o braço da inteligência artificial que percebe o mundo visualmente.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como um bebê aprender a reconhecer os objetos ao seu redor; ao computador também é ensinado o que é o quê, mostrando-lhe milhares de imagens.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Segurança:</strong> Detecção de movimento em imagens de câmera.<br><strong>Veículo autônomo:</strong> Detecção de faixa e pedestres.<br><strong>Saúde:</strong> Pré-análise de raios-X.<br><strong>Varejo:</strong> Contagem de prateleiras e auditoria de caixa.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Tarefas:</p><p><strong>Classificação:</strong> O que há nesta foto.<br><strong>Detecção:</strong> Onde, com sua caixa.<br><strong>Segmentação:</strong> Separação pixel por pixel.</p><p>Os métodos evoluíram: de características manuais a redes convolucionais (CNN) e, a partir daí, para transformadores (ViT). Primeira tentativa com OpenCV:</p><pre><code>import cv2
+img = cv2.imread("foto.jpg")
+gri = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)</code></pre><p>A precisão cai quando a iluminação e o ângulo mudam. A diversidade de dados é mais importante do que o modelo.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Pensa-se que é processamento de imagem. Aquele organiza, este dá sentido. Também se confunde com CV no sentido de curriculum vitae: esta página refere-se ao termo tecnológico, o documento de candidatura a emprego é outro assunto.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Bebê:</strong> Aprender vendo objetos.<br><strong>Segurança:</strong> Plantão em frente ao monitor.<br><strong>Linha de qualidade:</strong> Triagem de produtos defeituosos.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Analisa apenas fotografias?</p><p class="dict-faq-a">Não. Vídeos e transmissões ao vivo também são processados, analisados quadro a quadro.</p></div><div class="dict-faq-item"><p class="dict-faq-q">CV não significa currículo?</p><p class="dict-faq-a">A palavra é a mesma, o assunto é diferente. O significado de currículo pertence ao mundo corporativo, este aqui é da tecnologia de processamento de imagem.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como se aprende?</p><p class="dict-faq-a">Começa-se com um pequeno projeto usando Python e OpenCV. Modelos prontos passam por ajuste fino.</p></div><div class="dict-faq-item"><p class="dict-faq-q">É necessário hardware?</p><p class="dict-faq-a">Para testes, a CPU é suficiente. Para treinamento e modelos pesados em tempo real, é necessária uma GPU.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/computer-vision/">Computer Vision</a><a href="/pt/dictionary/multimodal/">Multimodal</a><a href="/pt/dictionary/ai-capabilities/">AI Capabilities</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/opencv/">Opencv</a><a href="/pt/discover/supervision/">Supervision</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="cv" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>

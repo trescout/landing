@@ -1,19 +1,31 @@
 # Qu'est-ce que Best Practices ?
 
-Il s'agit d'un ensemble de méthodes reconnues qui permettent d'obtenir le résultat le plus efficace, le plus sûr et le plus précis lors de l'exécution d'une tâche.
+Les bonnes pratiques (best practices en anglais) sont des méthodes de travail éprouvées et approuvées par la communauté.
 
-## Définition
-Dans le monde de la technologie, ce sont des méthodes de travail éprouvées par l'expérience et approuvées par la communauté. Les respecter rend les projets plus durables et compréhensibles. Au lieu de réinventer la roue, elles vous permettent d'utiliser des méthodes qui ont fait leurs preuves.
+## Définition et origine du mot
+Il s'agit d'utiliser la voie prouvée plutôt que de réinventer la roue. Elles s'accumulent dans tous les domaines, de l'écriture du code à la sécurité, de la documentation à la communication d'équipe. Les normes, les guides de style et les notes des ingénieurs seniors alimentent ce bassin.
 
-## Comment ça marche
-Elles s'apprennent en suivant les normes de l'industrie, la documentation et l'expérience des développeurs seniors. Elles sont appliquées en restant fidèle à ces règles lors des processus de développement de projet.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Code: Nom significatif, petite fonction, test.Sécurité : Ne pas intégrer de clés secrètes dans le code.Équipe: Revue de code et discipline de commit.
 
-## Où est-ce utilisé
-Elles sont utilisées dans l'écriture de code, les mesures de sécurité, la gestion de projet et la communication au sein de l'équipe.
+## Profondeur technique et architecture
+Principes fréquemment cités :
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Cuisine : Livre de recettes et discipline des mesures.Aviation : Liste de contrôle avant le décollage.Trafic : Organisation des voies et des signaux.
+
+## Foire aux questions
 **Est-il obligatoire de les respecter ?**
-Techniquement non, mais c'est fortement recommandé pour éviter des problèmes à long terme.
+Ce n'est pas une obligation technique, mais cela réduit les maux de tête à long terme. C'est presque indispensable dans les systèmes critiques.
+
+**Est-ce que cela devient un dogme ?**
+C'est possible. Remettre en question la règle lorsque le contexte change fait également partie des bonnes pratiques.
+
+**Qui décide ?**
+Communauté, institutions standard et expérience au sein de l'équipe. La liste rédigée par votre équipe a plus de valeur que la liste générale.
+
+**Quelle est sa place au sein d'une startup ?**
+En période d'accélération, on choisit le minimum : discipline de version, sauvegarde et revue de code. En phase de croissance, la liste s'allonge.
 
 
 ## Termes liés

@@ -2,26 +2,35 @@
 
 > Personal Video Recorder
 
-Tecnologia que permite gravar transmissões de televisão em meio digital para assistir mais tarde.
+PVR (Personal Video Recorder, gravador de vídeo pessoal) é a tecnologia que grava a transmissão para ser assistida posteriormente.
 
-## Definição
-Se você não puder assistir a um programa ao vivo no momento, o dispositivo PVR grava-o no disco rígido para você. Assim, você pode pausar, retroceder ou assistir à transmissão do início quando quiser. Hoje em dia, a maioria dessas funções é realizada automaticamente por plataformas de streaming baseadas na internet.
+## Definição e origem da palavra
+"Personal" é a transição da era do VCR de cassete para o disco digital. Os programas que não podem ser assistidos ao vivo são gravados no disco, pausados, retrocedidos. Hoje em dia, a maioria dessas funções é realizada por plataformas de internet.
 
-## Como funciona
-Você pressiona o botão de gravação no controle remoto do dispositivo ou programa o aparelho para gravar a transmissão automaticamente.
+## Como conhecer e usar no dia a dia?
+Satélite: Gravação no receptor.Smart TV: Gravação integrada.Esportes: Assistir à partida mais tarde.
 
-## Onde é usado
-Encontrado em receptores de satélite digitais, televisões inteligentes e caixas de TV a cabo.
+## Profundidade Técnica e Arquitetura
+Funções:
 
-## Costuma ser confundido com
-Não deve ser confundido com o VCR (videocassete); o PVR é totalmente digital e não utiliza fitas.
+## Coisas frequentemente misturadas
+Confundido com o VCR. O VCR usa cassetes, o PVR é digital. Faz o mesmo trabalho que o DVR, o nome tem um ênfase pessoal.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Cópia de livro: Separar para ler mais tarde.Podcast: Baixe e ouça no caminho.Gravação de tela: Arquivamento da aula.
+
+## Perguntas Frequentes
 **PVR e DVR são a mesma coisa?**
-Sim, tecnicamente realizam a mesma função; o termo PVR é geralmente usado para enfatizar dispositivos pessoais.
+Tecnicamente, sim. Existe uma ênfase pessoal chamada PVR, a função é a mesma.
 
 **Por que ainda é usado?**
-Ainda é prático para conteúdos difíceis de assistir pela internet, como eventos esportivos ao vivo ou transmissões locais.
+É prático para conteúdos difíceis de encontrar na internet, como esportes ao vivo e transmissões locais.
+
+**É necessário quando há internet?**
+Nem em todo lugar. É útil em transmissões não oficiais e momentos de instabilidade.
+
+**Qual é o limite legal?**
+A visualização pessoal é permitida, o compartilhamento e a distribuição são proibidos.
 
 
 ## Termos relacionados

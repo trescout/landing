@@ -1,25 +1,34 @@
 # ¿Qué es Red Teaming?
 
-Es un método para encontrar vulnerabilidades haciéndose pasar por un usuario malicioso para probar la seguridad de un sistema.
+El red teaming es un método de prueba en el que se actúa como un atacante para encontrar vulnerabilidades.
 
-## Definición
-El equipo rojo es la simulación de un equipo que intenta eludir las defensas de un sistema. Este equipo mide qué tan resistente es el sistema utilizando métodos que los atacantes pueden usar. El objetivo es cerrar todas las vulnerabilidades antes de que ocurra un ataque real.
+## Definición y origen de la palabra
+Su nombre proviene de los ejercicios militares: el bando rojo ataca, el bando azul defiende. El equipo mide la resiliencia del sistema utilizando métodos de atacante. El propósito es cerrar las brechas antes de un ataque real.
 
-## Cómo funciona
-Los expertos en seguridad llevan el sistema al límite, intentan descifrar contraseñas o enviar comandos incorrectos. Se informan los resultados y se refuerzan los cortafuegos en consecuencia.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Institucional: Pruebas de penetración anuales.Inteligencia artificial: Intentos de evasión de reglas del modelo.Físico: Controles de acceso a edificios.
 
-## Dónde se usa
-Se utiliza en los departamentos de ciberseguridad de grandes empresas y en las pruebas de seguridad de modelos de inteligencia artificial.
+## Profundidad técnica y arquitectura
+Esquema de prueba:
 
-## Suele confundirse con
-No confundir con un análisis de seguridad regular; Esta es una simulación de ataque creativa y centrada en el ser humano.
+## Cosas frecuentemente mezcladas
+Se confunde con un escaneo. El escaneo es automático y superficial, el red teaming es creativo y centrado en las personas. Ambos se complementan.
+
+## Uso en diferentes disciplinas
+Banco: Prueba de caja fuerte y alarma.Incendio: Simulacro de evacuación.Ajedrez: No juegues el movimiento del rival por adelantado.
 
 ## Preguntas frecuentes
 **¿Por qué es necesario este método?**
-Porque las pruebas de seguridad estándar no siempre pueden detectar métodos de ataque creativos.
+Las pruebas estándar no pueden capturar un ataque creativo. La mente humana ve lo que la máquina no ve.
 
-**¿Cómo se implementa en los modelos de inteligencia artificial?**
-Al hacer preguntas perjudiciales al modelo, se comprueba si el modelo infringe las reglas.
+**¿Cómo se aplica en la inteligencia artificial?**
+Se hacen preguntas al modelo que intentan obligarle a romper las reglas, y se informan las respuestas que pasan y las que fallan.
+
+**¿Quién lo hace?**
+Lo hace el equipo interno o una empresa independiente. Una mirada independiente encuentra mejor el punto ciego.
+
+**¿Con qué frecuencia se hace?**
+Al menos una vez al año, y de nuevo tras un cambio importante. Se realiza por versión en el lado del modelo.
 
 
 ## Términos relacionados

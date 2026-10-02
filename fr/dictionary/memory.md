@@ -29,8 +29,8 @@ Sur la plupart des systèmes, vous pouvez supprimer ces données avec la command
 
 ## Outils liés
 - [Mempalace](/fr/discover/mempalace/)
-- [Hindsight](/fr/discover/hindsight/)
 - [Codebase Memory MCP](/fr/discover/codebase-memory-mcp/)
+- [Hindsight](/fr/discover/hindsight/)
 - [Cognee](/fr/discover/cognee/)
 - [TencentDB-Agent-Memory](/fr/discover/tencentdb-agent-memory/)
 - [AI Memory](/fr/discover/ai-memory/)

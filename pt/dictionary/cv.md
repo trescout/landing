@@ -2,23 +2,35 @@
 
 > Computer Vision
 
-Tecnologia que permite que computadores analisem imagens e vídeos digitais para compreender objetos ou situações dentro deles.
+CV (Computer Vision, visão computacional) é a tecnologia que dá significado a objetos em imagens e vídeos.
 
-## Definição
-Essa tecnologia permite que um computador veja como o olho humano e interprete o que vê. Por exemplo, pode analisar a identidade da pessoa numa fotografia ou o fluxo de tráfego num vídeo. É uma habilidade fundamental que ajuda a IA a perceber o mundo visualmente.
+## Definição e origem da palavra
+É a capacidade de um computador ver como o olho humano e interpretar o que vê. A identidade de uma pessoa em uma foto e o fluxo de tráfego em um vídeo são exemplos disso. É o braço da inteligência artificial que percebe o mundo visualmente.
 
-## Como funciona
-Ele converte os dados de cor e forma da imagem em números matemáticos. Ele reconhece padrões e classifica objetos por meio desses números.
+## Como conhecer e usar no dia a dia?
+Segurança: Detecção de movimento em imagens de câmera.Veículo autônomo: Detecção de faixa e pedestres.Saúde: Pré-análise de raios-X.Varejo: Contagem de prateleiras e auditoria de caixa.
 
-## Onde é usado
-É utilizado em câmeras de segurança, veículos autônomos e sistemas de reconhecimento facial.
+## Profundidade Técnica e Arquitetura
+Tarefas:
 
-## Costuma ser confundido com
-Pode ser confundido com processamento de imagens, mas não se trata apenas de editar imagens, é dar sentido.
+## Coisas frequentemente misturadas
+Pensa-se que é processamento de imagem. Aquele organiza, este dá sentido. Também se confunde com CV no sentido de curriculum vitae: esta página refere-se ao termo tecnológico, o documento de candidatura a emprego é outro assunto.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Bebê: Aprender vendo objetos.Segurança: Plantão em frente ao monitor.Linha de qualidade: Triagem de produtos defeituosos.
+
+## Perguntas Frequentes
 **Analisa apenas fotografias?**
-Não, ele também pode lidar com streams de vídeo e imagens ao vivo instantaneamente.
+Não. Vídeos e transmissões ao vivo também são processados, analisados quadro a quadro.
+
+**CV não significa currículo?**
+A palavra é a mesma, o assunto é diferente. O significado de currículo pertence ao mundo corporativo, este aqui é da tecnologia de processamento de imagem.
+
+**Como se aprende?**
+Começa-se com um pequeno projeto usando Python e OpenCV. Modelos prontos passam por ajuste fino.
+
+**É necessário hardware?**
+Para testes, a CPU é suficiente. Para treinamento e modelos pesados em tempo real, é necessária uma GPU.
 
 
 ## Termos relacionados

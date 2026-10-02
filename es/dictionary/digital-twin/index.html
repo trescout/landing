@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es Digital Twin? · Glosario · TreScout</title>
-<meta name="description" content="Un gemelo digital (digital twin) es una representación virtual dinámica de un objeto, máquina o sistema físico, alimentada y sincronizada en tiempo real mediante telemetría sensorial.">
+<meta name="description" content="El gemelo digital (digital twin) es una réplica de un objeto alimentada con datos en tiempo real.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/digital-twin/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/digital-twin/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/digital-twin/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/digital-twin.md">
 <meta property="og:title" content="¿Qué es Digital Twin?">
-<meta property="og:description" content="Un gemelo digital (digital twin) es una representación virtual dinámica de un objeto, máquina o sistema físico, alimentada y sincronizada en tiempo real mediante telemetría sensorial.">
+<meta property="og:description" content="El gemelo digital (digital twin) es una réplica de un objeto alimentada con datos en tiempo real.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/digital-twin/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,61 +27,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es Digital Twin?">
-<meta name="twitter:description" content="Un gemelo digital (digital twin) es una representación virtual dinámica de un objeto, máquina o sistema físico, alimentada y sincronizada en tiempo real mediante telemetría sensorial.">
+<meta name="twitter:description" content="El gemelo digital (digital twin) es una réplica de un objeto alimentada con datos en tiempo real.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Digital Twin",
-  "description": "Un gemelo digital (digital twin) es una representación virtual dinámica de un objeto, máquina o sistema físico, alimentada y sincronizada en tiempo real mediante telemetría sensorial.",
+  "description": "El gemelo digital (digital twin) es una réplica de un objeto alimentada con datos en tiempo real.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/digital-twin/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "Diccionario Tecnológico TreScout",
+    "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/es/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿En qué se distingue de una simulación por ordenador clásica?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La simulación convencional evalúa hipótesis sobre datos estáticos; el gemelo digital se nutre del estado real y continuo del activo."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Vale la pena implementarlo en cualquier maquinaria?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Solo se rentabiliza en infraestructuras críticas donde una parada no planificada causa enormes pérdidas económicas."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuál es el mayor reto técnico?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La integración de sensores industriales en entornos agresivos y el procesamiento de grandes volúmenes de datos con baja latencia."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuál es su principal ventaja competitiva?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pasar de un mantenimiento reactivo o periódico a un mantenimiento predictivo basado en la condición real del equipo."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,17 +56,16 @@
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
 <div class="disc-top"><span class="disc-eyebrow">Glosario · Data</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
-<h1 class="disc-title">¿Qué es un <span class="disc-accent">Gemelo Digital</span>?</h1>
-<p class="dict-en">Gemelo Digital</p>
-<p class="disc-lead">Un gemelo digital (<strong>digital twin</strong>) es una representación virtual dinámica de un objeto, máquina o sistema físico, alimentada y sincronizada en tiempo real mediante telemetría sensorial.</p>
-<section class="disc-sec"><h2>Definición y etimología</h2><p>El concepto de gemelo radica en la fidelidad temporal. Los sensores físicos transmiten datos operacionales hacia el modelo virtual, el cual simula tensiones térmicas, fatiga de materiales y curvas de degradación para anticipar contingencias en la planta física.</p></section>
-<section class="disc-sec"><h2>Contexto cotidiano y uso práctico</h2><p><strong>Manufactura Avanzada:</strong> Mantenimiento predictivo de robots industriales y prensas mecánicas.<br><strong>Ciudades Inteligentes:</strong> Gestión de semáforos, redes de transporte y consumo hídrico.<br><strong>Sector Energético:</strong> Monitorización de turbinas eólicas y reactores nucleares.</p></section>
-<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Cadena de Procesamiento Telemétrico:</p><div class="disc-cmd"><pre><code>sensores → ingesta de datos → modelo analítico/IA → orden preventiva</code></pre></div><p>Pilares Arquitectónicos:</p><p><strong>Captura e Ingesta:</strong> Protocolos de telemetría industrial (MQTT, Kafka) para captura masiva de señales.<br><strong>Motor de Simulación:</strong> Modelos híbridos que combinan dinámica de fluidos, física y redes neuronales.<br><strong>Bucle de Retorno:</strong> Automatización de órdenes de ajuste o paradas de seguridad.</p><p>Regla fundamental: Si se interrumpe la conexión de telemetría, el gemelo digital queda ciego. La alimentación de datos debe ser ininterrumpida.</section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>Suele confundirse con un plano o modelo CAD 3D. El diseño 3D es una representación geométrica estática; el gemelo digital es una entidad viva que late con datos reales de funcionamiento. Uno es un cuadro, el otro es un espejo.</p></section>
-<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p><strong>Aeronáutica:</strong> Vuelo paralelo en simulador con las mismas condiciones meteorológicas del avión real.<br><strong>Espejo:</strong> Superficie que refleja al instante cada movimiento corporal.<br><strong>Sombra:</strong> Perfil dinámico que acompaña fielmente cada paso de una persona.</p></section>
-<div class="dict-analogy">Es como tener una réplica virtual de un avión de pasajeros volando en un simulador exactamente a la vez que el avión real, experimentando las mismas turbulencias y desgastes.</div>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿En qué se distingue de una simulación por ordenador clásica?</p><p class="dict-faq-a">La simulación convencional evalúa hipótesis sobre datos estáticos; el gemelo digital se nutre del estado real y continuo del activo.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Vale la pena implementarlo en cualquier maquinaria?</p><p class="dict-faq-a">No. Solo se rentabiliza en infraestructuras críticas donde una parada no planificada causa enormes pérdidas económicas.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es el mayor reto técnico?</p><p class="dict-faq-a">La integración de sensores industriales en entornos agresivos y el procesamiento de grandes volúmenes de datos con baja latencia.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es su principal ventaja competitiva?</p><p class="dict-faq-a">Pasar de un mantenimiento reactivo o periódico a un mantenimiento predictivo basado en la condición real del equipo.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/world-model/">Modelos de Mundo</a><a href="/es/dictionary/observability/">Observabilidad</a><a href="/es/dictionary/data-pipeline/">Pipeline de Datos</a><a href="/es/dictionary/artificial-intelligence/">Inteligencia Artificial</a></div></section>
+<h1 class="disc-title">¿Qué es <span class="disc-accent">Digital Twin</span>?</h1>
+<p class="disc-lead">El gemelo digital (digital twin) es una réplica de un objeto alimentada con datos en tiempo real.</p>
+<section class="disc-sec"><h2>Definición y origen de la palabra</h2><p>Twin significa gemelo. Los datos de los sensores fluyen desde el objeto real y el modelo simula el comportamiento. Las averías y el rendimiento se prevén con antelación. Se ejecuta en operaciones de fábricas y ciudades.</p></section>
+<div class="dict-analogy"><strong>Analogía:</strong> Es como si la copia digital del avión volara sincronizada con los mismos datos.</div>
+<section class="disc-sec"><h2>¿Cómo saberlo y utilizarlo en la vida diaria?</h2><p><strong>Fábrica:</strong> Mantenimiento predictivo.<br><strong>Ciudad:</strong> Simulación de tráfico.<br><strong>Energía:</strong> Monitoreo de turbinas.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Flujo:</p><pre><code>sensör → model → tahmin → bakım emri</code></pre><p>Regiones:</p><p><strong>Datos:</strong> Flujo de sensores y registros.<br><strong>Modelo:</strong> Mezcla de física y aprendizaje.<br><strong>Acción:</strong> Orden de mantenimiento y ajuste.</p><p>Regla: Si se cortan los datos, se produce una ceguera doble. La continuidad de la alimentación es esencial.</p></section>
+<section class="disc-sec"><h2>Cosas frecuentemente mezcladas</h2><p>Se confunde con un modelo 3D. Aquello es una imagen estática, esto es un sistema vivo. Uno es una fotografía, el otro es un espejo.</p></section>
+<section class="disc-sec"><h2>Uso en diferentes disciplinas</h2><p><strong>Avión:</strong> Vuelo sincronizado en el aire y en simulación.<br><strong>Espejo:</strong> Superficie que refleja el movimiento.<br><strong>Sombra:</strong> Oscuridad que sigue al objeto.</p></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la diferencia de la simulación?</p><p class="dict-faq-a">La simulación se ejecuta una vez, el gemelo se alimenta en vivo. Uno es una película, el otro es una transmisión.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Todo tiene un gemelo?</p><p class="dict-faq-a">Teóricamente sí, en la práctica lo determinan el costo y los datos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuánto cuesta?</p><p class="dict-faq-a">Tiene un costo de sensor, modelo y mantenimiento. Se paga a cambio de la ganancia por averías evitadas.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Dónde se usa?</p><p class="dict-faq-a">En fábricas, ciudades y energía. Los activos críticos son lo primero.</p></div></div></section>
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/world-model/">World Model</a><a href="/es/dictionary/observability/">Observability</a><a href="/es/dictionary/data-pipeline/">Data Pipeline</a><a href="/es/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="digital-twin" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
 <p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/digital-twin/">Leer en turco →</a></p>
 </article>

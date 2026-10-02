@@ -1,25 +1,34 @@
 # Qu'est-ce que Red Teaming ?
 
-Il s'agit d'une méthode permettant de trouver des vulnérabilités en se faisant passer pour un utilisateur malveillant pour tester la sécurité d'un système.
+Le red teaming (que l'on peut traduire par « équipe rouge ») est une méthode de test qui consiste à se comporter comme un attaquant pour identifier des vulnérabilités.
 
-## Définition
-Le Red Teaming est la simulation d'une équipe essayant de contourner les défenses d'un système. Cette équipe mesure la résilience du système à l’aide de méthodes que les attaquants peuvent utiliser. L’objectif est de fermer toutes les vulnérabilités avant qu’une véritable attaque ne se produise.
+## Définition et origine du mot
+Son nom vient des exercices militaires : l'équipe rouge attaque, l'équipe bleue défend. L'équipe mesure la résilience du système en utilisant des méthodes d'attaquant. L'objectif est de combler les failles avant une véritable attaque.
 
-## Comment ça marche
-Les experts en sécurité poussent le système dans ses retranchements, tentent de déchiffrer des mots de passe ou envoient des commandes incorrectes. Les résultats sont rapportés et les pare-feu sont renforcés en conséquence.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Entreprise : Tests d'intrusion annuels.Intelligence artificielle : Tentatives de contournement des règles du modèle.Physique : Contrôles d'accès aux bâtiments.
 
-## Où est-ce utilisé
-Il est utilisé dans les services de cybersécurité des grandes entreprises et pour tester la sécurité des modèles d’intelligence artificielle.
+## Profondeur technique et architecture
+Organisation des tests :
 
-## Souvent confondu avec
-À ne pas confondre avec une analyse de sécurité régulière ; Il s'agit d'une simulation d'attaque créative et centrée sur l'humain.
+## Choses fréquemment mélangées
+C'est pris pour un scan. Le scan est automatique et superficiel, le red teaming est créatif et axé sur l'humain. Les deux se complètent.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Banque : Test de coffre-fort et d'alarme.Incendie : Exercice d'évacuation.Échecs : Ne jouez pas le coup de l'adversaire à l'avance.
+
+## Foire aux questions
 **Pourquoi cette méthode est-elle nécessaire ?**
-Parce que les tests de sécurité standards ne peuvent pas toujours détecter les méthodes d’attaque créatives.
+Les tests standard ne parviennent pas à capturer une attaque créative. L'esprit humain voit ce que la machine ne voit pas.
 
-**Comment est-il implémenté dans les modèles d’intelligence artificielle ?**
-En posant des questions nuisibles au modèle, on vérifie si le modèle enfreint les règles.
+**Comment l'appliquer dans l'intelligence artificielle ?**
+On pose des questions qui visent à faire enfreindre les règles au modèle, et les réponses réussies ou échouées sont consignées dans un rapport.
+
+**Qui le fait ?**
+Une équipe interne ou une entreprise indépendante. Un regard indépendant repère mieux les angles morts.
+
+**À quelle fréquence cela doit-il être fait ?**
+Au moins une fois par an, et de nouveau après un changement majeur. Côté modèle, cela se fait à chaque version.
 
 
 ## Termes liés

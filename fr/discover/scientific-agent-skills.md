@@ -2,7 +2,7 @@
 
 Scientific-agent-skills est une bibliothèque de capacités prêtes à l'emploi qui adapte les agents d'intelligence artificielle aux processus de recherche scientifique. Elle propose 163 capacités vérifiées et plus de 100 bases de données dans les domaines de la biologie, de la chimie et de la médecine, et fonctionne de manière intégrée avec des plateformes telles que l'éditeur de code Cursor ou l'assistant d'intelligence artificielle Claude Code.
 
-- ★ 47 133
+- ★ 47 342
 - GitHub Trending · 2026-08-26
 
 ## Ce que ça vous apporte

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Container? · Glossário · TreScout</title>
-<meta name="description" content="É uma caixa portátil que contém tudo o que é necessário para o funcionamento de um software e garante que funcione da mesma forma em todos os computadores.">
+<meta name="description" content="O container é o empacotamento do código de uma aplicação junto com suas dependências em um único pacote, garantindo que ela seja executada da mesma forma e">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/container/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/container/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/container/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/container.md">
 <meta property="og:title" content="O que é Container?">
-<meta property="og:description" content="É uma caixa portátil que contém tudo o que é necessário para o funcionamento de um software e garante que funcione da mesma forma em todos os computadores.">
+<meta property="og:description" content="O container é o empacotamento do código de uma aplicação junto com suas dependências em um único pacote, garantindo que ela seja executada da mesma forma e">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/container/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Container?">
-<meta name="twitter:description" content="É uma caixa portátil que contém tudo o que é necessário para o funcionamento de um software e garante que funcione da mesma forma em todos os computadores.">
+<meta name="twitter:description" content="O container é o empacotamento do código de uma aplicação junto com suas dependências em um único pacote, garantindo que ela seja executada da mesma forma e">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Container",
-  "description": "É uma caixa portátil que contém tudo o que é necessário para o funcionamento de um software e garante que funcione da mesma forma em todos os computadores.",
+  "description": "O container é o empacotamento do código de uma aplicação junto com suas dependências em um único pacote, garantindo que ela seja executada da mesma forma em qualquer ambiente.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/container/",
   "inDefinedTermSet": {
@@ -55,17 +55,22 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-08-20">Última atualização: 20 de agosto de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Container</span>?</h1>
-<p class="disc-lead">É uma caixa portátil que contém tudo o que é necessário para o funcionamento de um software e garante que funcione da mesma forma em todos os computadores.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Os contêineres agrupam o código, as bibliotecas e as configurações de um aplicativo em um único pacote. Dessa forma, seu software funciona no servidor ou no computador de outra pessoa da mesma maneira que no seu computador. Assim, elimina completamente o problema de ‘estava funcionando no meu computador’.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> Pense em uma cozinha; Você coloca todos os ingredientes, temperos e utensílios necessários para cada refeição em uma única caixa e leva para onde quiser. Não importa onde você o abra, você poderá cozinhar a mesma comida com o mesmo sabor.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Usando ferramentas como o Docker, os desenvolvedores empacotam tudo o que o aplicativo precisa em uma ‘imagem de contêiner’. Este pacote é executado em uma área isolada, independente do sistema operacional. Dessa forma, não haverá conflito com outros aplicativos do sistema.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em computação em nuvem, distribuição de software e gerenciamento de aplicativos complexos. É especialmente padrão em projetos onde grandes equipes precisam trabalhar em harmonia umas com as outras.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Muitas vezes é confundido com máquinas virtuais; mas os contêineres são muito mais leves e rápidos porque compartilham o sistema operacional.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que o contêiner é tão popular?</p><p class="dict-faq-a">Porque garante que o software funcione com a mesma estabilidade em todos os ambientes e reduz o processo de instalação de minutos para segundos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a diferença entre um contêiner e uma máquina virtual?</p><p class="dict-faq-a">As máquinas virtuais carregam seus próprios sistemas operacionais, enquanto os contêineres compartilham o kernel do sistema operacional host; então os contêineres são muito mais rápidos.</p></div></div></section>
+<p class="disc-lead">O container é o empacotamento do código de uma aplicação junto com suas dependências em um único pacote, garantindo que ela seja executada da mesma forma em qualquer ambiente.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>Os containers colocam o código, as bibliotecas e as configurações da aplicação em um único pacote. Da mesma forma que funciona no seu computador, funciona no servidor. A ideia é antiga (chroot, LXC), popularizou-se após 2013 com o Docker e hoje é definida pelo padrão OCI.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como colocar todos os ingredientes, especiarias e utensílios necessários para qualquer refeição em uma única caixa e levá-la para onde quiser; não importa onde você a abra, você cozinhará o mesmo prato.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Distribuição:</strong> O mesmo pacote do desenvolvedor para a produção.<br><strong>Microsserviço:</strong> Cada serviço tem sua própria caixa.<br><strong>CI:</strong> Cada teste é executado em uma caixa limpa.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Conceitos:</p><p><strong>Imagem:</strong> Modelo somente leitura, composto por camadas.<br><strong>Contêiner:</strong> Uma instância em execução da imagem.<br><strong>Dockerfile:</strong> A receita do modelo.<br><strong>Registro (Registry):</strong> O repositório onde as imagens são armazenadas.</p><p>Uma definição simples:</p><pre><code>FROM python:3.12-slim
+COPY . /uygulama
+WORKDIR /uygulama
+CMD ["python", "app.py"]</code></pre><p>Compilação e execução:</p><pre><code>docker build -t ornek:1.0 .
+docker run -p 8000:8000 ornek:1.0</code></pre><p>A diferença para a máquina virtual: A máquina possui seu próprio sistema operacional, enquanto o contêiner compartilha o núcleo principal. É por isso que os contêineres são mais leves e iniciam mais rapidamente.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Confundido com uma máquina virtual. A máquina possui um sistema operacional completo, enquanto o contêiner carrega apenas a aplicação. O isolamento é forte na máquina e suficiente no contêiner; a escolha é feita de acordo com a carga.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Transporte:</strong> Compatibilidade de navios, trens e caminhões com contêineres de tamanho padrão.<br><strong>Culinária:</strong> Uma marmita com os ingredientes já preparados dentro.<br><strong>Acampamento:</strong> Um kit de acampamento transportado com sua organização dentro da bolsa.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que o contêiner é tão popular?</p><p class="dict-faq-a">Por garantir o mesmo funcionamento e uma instalação rápida em qualquer ambiente. Tornou-se um padrão juntamente com os microsserviços e a orquestração em nuvem.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a diferença entre um contêiner e uma máquina virtual?</p><p class="dict-faq-a">A máquina possui seu próprio sistema operacional, enquanto o contêiner compartilha o núcleo principal. O contêiner é leve e rápido, e a máquina é forte em isolamento.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O contêiner é seguro?</p><p class="dict-faq-a">Como o núcleo é compartilhado, ele não é tão isolado quanto uma máquina. Você precisa baixar as imagens de uma fonte confiável e mantê-las atualizadas.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quando a máquina virtual é preferida?</p><p class="dict-faq-a">Quando são necessários diferentes sistemas operacionais ou um isolamento forte. Para a maioria das outras cargas de trabalho, o contêiner é suficiente.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/containers/">Containers</a><a href="/pt/dictionary/virtual-machines/">Virtual Machines</a><a href="/pt/dictionary/deployment/">Deployment</a></div></section>
-<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/n8n/">N8n</a><a href="/pt/discover/core/">Core</a><a href="/pt/discover/stirling-pdf/">Stirling-PDF</a><a href="/pt/discover/container/">Container</a><a href="/pt/discover/mattermost/">Mattermost</a><a href="/pt/discover/keycloak/">Keycloak</a><a href="/pt/discover/ppf-contact-solver/">PPF Contact Solver</a></div></section>
+<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/n8n/">N8n</a><a href="/pt/discover/stirling-pdf/">Stirling-PDF</a><a href="/pt/discover/core/">Core</a><a href="/pt/discover/container/">Container</a><a href="/pt/discover/mattermost/">Mattermost</a><a href="/pt/discover/keycloak/">Keycloak</a><a href="/pt/discover/trivy/">Trivy</a><a href="/pt/discover/ppf-contact-solver/">PPF Contact Solver</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="container" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/container/">Ler em turco →</a></p>
 </article>

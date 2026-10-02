@@ -2,23 +2,35 @@
 
 > Computer Vision
 
-Technologie qui permet aux ordinateurs d’analyser des images et des vidéos numériques pour comprendre les objets ou les situations qu’ils contiennent.
+CV (Computer Vision, vision par ordinateur), c'est la technologie qui donne du sens aux objets dans les images et les vidéos.
 
-## Définition
-Cette technologie permet à un ordinateur de voir comme un œil humain et d’interpréter ce qu’il voit. Il peut par exemple analyser l’identité d’une personne sur une photo ou la circulation dans une vidéo. Il s’agit d’une capacité fondamentale qui aide l’IA à percevoir le monde visuellement.
+## Définition et origine du mot
+C'est la capacité de l'ordinateur à voir comme l'œil humain et à interpréter ce qu'il voit. L'identité d'une personne sur une photo ou le flux de trafic dans une vidéo relèvent de ce domaine. C'est la branche de l'intelligence artificielle qui perçoit le monde visuellement.
 
-## Comment ça marche
-Il convertit les données de couleur et de forme de l'image en nombres mathématiques. Il reconnaît des modèles et classe les objets grâce à ces numéros.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Sécurité : Détection de mouvement dans le flux de la caméra.Véhicule autonome : Détection des voies et des piétons.Santé : Pré-analyse des radiographies.Commerce de détail : Comptage des rayons et contrôle des caisses.
 
-## Où est-ce utilisé
-Il est utilisé dans les caméras de sécurité, les véhicules autonomes et les systèmes de reconnaissance faciale.
+## Profondeur technique et architecture
+Tâches :
 
-## Souvent confondu avec
-Cela peut être confondu avec le traitement d’images, mais il ne s’agit pas seulement d’éditer des images, cela donne du sens.
+## Choses fréquemment mélangées
+On pense que c'est du traitement d'image. L'un organise, l'autre donne du sens. Il se confond également avec le CV au sens de curriculum vitae : cette page est un terme technologique, le document de candidature est un autre sujet.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Bébé : Apprendre en voyant les objets.Sécurité : Surveillance devant le moniteur.Chaîne de qualité : Trier les produits défectueux.
+
+## Foire aux questions
 **Analyse-t-il uniquement les photographies ?**
-Non, il peut également gérer instantanément les flux vidéo et les images en direct.
+Non. La vidéo et le flux en direct sont également traités, image par image.
+
+**CV, ça ne veut pas dire curriculum vitae ?**
+Le mot est le même, le sujet est différent. Le sens de curriculum vitae appartient au monde professionnel, celui-ci concerne la technologie d'imagerie.
+
+**Comment l'apprend-on ?**
+On commence par un petit projet avec Python et OpenCV. Les modèles pré-entraînés sont ajustés finement.
+
+**Un matériel est-il nécessaire ?**
+Un processeur (CPU) suffit pour les essais. L'entraînement et les modèles lourds en temps réel nécessitent un processeur graphique (GPU).
 
 
 ## Termes liés

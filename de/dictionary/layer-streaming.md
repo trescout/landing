@@ -1,22 +1,34 @@
 # Was ist Layer Streaming?
 
-Dabei handelt es sich um den Prozess, bei dem begonnen wird, große Datenmengen oder Softwareschichten Stück für Stück zu verarbeiten, bevor sie alle heruntergeladen werden.
+Layer Streaming (auf Deutsch als Layered Streaming bezeichnet) ist die schrittweise Verarbeitung von Daten.
 
-## Definition
-Der mehrschichtige Datenfluss ermöglicht die sofortige Verarbeitung der erforderlichen Teile, insbesondere ohne auf die Ladezeit sehr großer Dateien oder Softwarepakete warten zu müssen. Diese Methode verbessert die Benutzererfahrung, indem sie die Wartezeit minimiert.
+## Definition und Wortherkunft
+Layer bedeutet Schicht. Es wird nur der benötigte Teil verarbeitet, bevor alles heruntergeladen ist. Die Wartezeit verkürzt sich, das Erlebnis wird beschleunigt. Es funktioniert bei großen Dateien und Paketen.
 
-## So funktioniert es
-Die Daten werden in kleine Teile zerlegt und in der Reihenfolge ihrer Priorität an das System übertragen. Das System beginnt sofort mit dem ersten empfangenen Teil zu arbeiten.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Öffnen: Das schnelle Erscheinen der Anwendung.Video: Bild von niedrig bis hoch.Karte: Details beim Heranzoomen.
 
-## Wo es eingesetzt wird
-Es wird zum schnellen Öffnen großer Softwareanwendungen und hochauflösender Datenströme verwendet.
+## Technische Tiefe und Architektur
+Layout:
 
-## Häufig verwechselt mit
-Nicht zu verwechseln mit herkömmlichen Methoden zum Herunterladen von Dateien. Anstatt hier zu warten, beginnt die Arbeit.
+## Häufig gemischte Dinge
+Wird oft für Download gehalten. Download lässt warten, Streaming startet die Wiedergabe. Das eine ist ein Speicher, das andere ein Band.
 
-## Häufige Fragen
-**Erhöht diese Methode die Internetgeschwindigkeit?**
-Dadurch erhöht sich die Internetgeschwindigkeit nicht, aber es vermeidet Wartezeiten durch eine effizientere Datennutzung.
+## Einsatz in verschiedenen Disziplinen
+Seite: Lesen während des Druckens.Serie: Folge für Folge ansehen.Bauwesen: Schichtweise Lieferung.
+
+## Häufig gestellte Fragen
+**Erhöht es die Geschwindigkeit?**
+Es verkürzt nicht die Leitung, sondern das Warten. Die Erfahrung wird beschleunigt, der Zähler bleibt gleich.
+
+**Wann verwenden?**
+Bei großen Datenmengen und langsamer Leitung. Bei kleinen Dateien macht es keinen Unterschied.
+
+**Wie hoch sind die Kosten?**
+Erfordert Sortier- und Caching-Logik. Es gibt einen Preis für die Komplexität.
+
+**Wie wird es gemessen?**
+Anhand der Zeit bis zum ersten aussagekräftigen Zeichnen und der Interaktionszeit. Nicht an der Gesamtsumme des Downloads.
 
 
 ## Verwandte Begriffe

@@ -1,25 +1,34 @@
 # Qu'est-ce que Container ?
 
-Il s'agit d'un boîtier portable qui contient tout ce dont un logiciel a besoin pour fonctionner et garantit qu'il fonctionne de la même manière sur chaque ordinateur.
+Un conteneur permet de regrouper le code d'une application et ses dépendances dans un seul paquet afin qu'il fonctionne de la même manière dans n'importe quel environnement.
 
-## Définition
-Les conteneurs regroupent le code, les bibliothèques et les paramètres d'une application dans un seul package. De cette façon, votre logiciel fonctionne de la même manière sur le serveur ou sur l'ordinateur de quelqu'un d'autre que sur votre ordinateur. Ainsi, cela élimine complètement le problème « cela fonctionnait sur mon ordinateur ».
+## Définition et origine du mot
+Les conteneurs regroupent le code, les bibliothèques et les configurations d'une application dans un seul paquet. Il fonctionne sur le serveur exactement comme sur votre ordinateur. L'idée est ancienne (chroot, LXC), elle s'est popularisée avec Docker après 2013 et est définie aujourd'hui par la norme OCI.
 
-## Comment ça marche
-À l'aide d'outils tels que Docker, les développeurs regroupent tout ce dont l'application a besoin dans une « image de conteneur ». Ce package s'exécute dans une zone isolée, indépendante du système d'exploitation. De cette façon, il n’y aura aucun conflit avec d’autres applications du système.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Distribution : Le même paquet, du développeur à la production.Microservices : Chaque service a sa propre boîte.CI : Chaque test s'exécute dans une boîte propre.
 
-## Où est-ce utilisé
-Il est utilisé dans le cloud computing, la distribution de logiciels et la gestion d'applications complexes. C'est particulièrement courant dans les projets où de grandes équipes doivent travailler en harmonie les unes avec les autres.
+## Profondeur technique et architecture
+Concepts :
 
-## Souvent confondu avec
-Il est souvent confondu avec les machines virtuelles ; mais les conteneurs sont beaucoup plus légers et plus rapides car ils partagent le système d'exploitation.
+## Choses fréquemment mélangées
+Souvent confondu avec une machine virtuelle. La machine transporte un système d'exploitation complet, le conteneur ne transporte que l'application. L'isolation est forte sur la machine, suffisante dans le conteneur ; le choix dépend de la charge.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Transport : Compatibilité navire, train, camion grâce à des conteneurs de taille standard.Cuisine : Une boîte de repas prête avec ses ingrédients à l'intérieur.Camping : Un kit de camping transporté avec son organisation dans son sac.
+
+## Foire aux questions
 **Pourquoi le conteneur est-il si populaire ?**
-Parce qu'il garantit que le logiciel fonctionne avec la même stabilité dans tous les environnements et réduit le processus d'installation de quelques minutes à quelques secondes.
+Parce qu'il garantit le même fonctionnement et une installation rapide dans tous les environnements. Il est devenu la norme avec les microservices et l'orchestration cloud.
 
 **Quelle est la différence entre un conteneur et une machine virtuelle ?**
-Les machines virtuelles possèdent leur propre système d'exploitation, tandis que les conteneurs partagent le noyau du système d'exploitation hôte ; les conteneurs sont donc beaucoup plus rapides.
+La machine transporte son propre système d'exploitation, tandis que le conteneur partage le noyau hôte. Le conteneur est léger et rapide, la machine est forte en isolation.
+
+**Un conteneur est-il sécurisé ?**
+Puisque le noyau est partagé, il n'est pas aussi isolé qu'une machine. Vous devez extraire les images d'une source fiable et les maintenir à jour.
+
+**Quand privilégie-t-on une machine virtuelle ?**
+Lorsqu'un système d'exploitation différent ou une isolation renforcée est nécessaire. Pour la plupart des autres charges de travail, un conteneur suffit.
 
 
 ## Termes liés
@@ -29,11 +38,12 @@ Les machines virtuelles possèdent leur propre système d'exploitation, tandis q
 
 ## Outils liés
 - [N8n](/fr/discover/n8n/)
-- [Core](/fr/discover/core/)
 - [Stirling-PDF](/fr/discover/stirling-pdf/)
+- [Core](/fr/discover/core/)
 - [Container](/fr/discover/container/)
 - [Mattermost](/fr/discover/mattermost/)
 - [Keycloak](/fr/discover/keycloak/)
+- [Trivy](/fr/discover/trivy/)
 - [PPF Contact Solver](/fr/discover/ppf-contact-solver/)
 
 ---

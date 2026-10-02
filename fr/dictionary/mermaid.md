@@ -1,22 +1,34 @@
 # Qu'est-ce que Mermaid ?
 
-C'est un outil qui vous permet de créer rapidement des organigrammes et des graphiques en écrivant du code.
+Mermaid est une bibliothèque JavaScript open source qui permet de créer des diagrammes à partir de texte.
 
-## Définition
-Au lieu de vous débattre avec des outils de dessin complexes, il vous permet de créer des diagrammes avec des commandes, tout comme si vous écriviez du texte. Le code que vous écrivez se transforme automatiquement en un organigramme ou un tableau graphique élégant.
+## Définition et origine du mot
+Au lieu de glisser-déposer des boîtes dans un outil de dessin, le schéma est écrit sous forme de texte et l'outil le convertit en visuel. Comme le texte peut être versionné, il évolue avec la documentation et passe par des revues de code. Il tire son nom du mythe de la sirène et n'a aucun rapport avec la technique.
 
-## Comment ça marche
-Vous ouvrez un bloc spécial dans les fichiers Markdown et définissez le schéma avec la syntaxe Mermaid ; l'outil le visualise instantanément.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Documentation : Schéma d'architecture dans le README.Planification: Vue calendrier avec Gantt.Rapport : Diagrammes de flux et de séquence.
 
-## Où est-ce utilisé
-Il est utilisé lors de la rédaction de documentation, dans la planification de projets et dans les rapports techniques.
+## Profondeur technique et architecture
+Principaux types :
 
-## Souvent confondu avec
-Il est confondu avec les outils de dessin traditionnels ; Mermaid est entièrement basé sur le texte et ne nécessite pas de glisser-déposer.
+## Choses fréquemment mélangées
+On pense qu'il s'agit d'outils de dessin. Pourtant, Mermaid est textuel et n'inclut pas de fonction glisser-déposer. Si un dessin avec une précision visuelle est nécessaire, un éditeur graphique est requis.
 
-## Questions fréquentes
-**Quels types de graphiques peut-on dessiner avec Mermaid ?**
-Des organigrammes, des diagrammes de séquence, des diagrammes de Gantt et bien d'autres dessins techniques peuvent être réalisés.
+## Utilisation dans différentes disciplines
+Musique : Transcription du son par la notation.Sténographie : Transcription de la parole à l'aide de raccourcis.Mathématiques : Description de la forme par une formule.
+
+## Foire aux questions
+**Quels graphiques peut-on dessiner avec Mermaid ?**
+On peut dessiner des schémas techniques tels que des diagrammes de flux, de séquence, de Gantt, circulaires, ER et des cartes mentales.
+
+**Est-ce que GitHub le prend en charge ?**
+Oui. Les blocs Mermaid dans le Markdown sont directement rendus.
+
+**Est-ce gratuit ?**
+La bibliothèque principale est open-source et gratuite. Les éditeurs hébergés peuvent proposer des abonnements payants.
+
+**Quand cela devient-il insuffisant ?**
+Lorsque la précision au pixel près et le dessin à main levée sont nécessaires. C'est le rôle d'un éditeur graphique.
 
 
 ## Termes liés
@@ -26,6 +38,7 @@ Des organigrammes, des diagrammes de séquence, des diagrammes de Gantt et bien 
 
 ## Outils liés
 - [TencentDB-Agent-Memory](/fr/discover/tencentdb-agent-memory/)
+- [Gitdiagram](/fr/discover/gitdiagram/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/mermaid/

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es Headless Browser? · Glosario · TreScout</title>
-<meta name="description" content="Un navegador que no tiene interfaz visual, que carga páginas web y procesa datos completamente a través de código.">
+<meta name="description" content="El navegador sin interfaz (headless browser) es un navegador completo que funciona sin pantalla.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/headless-browser/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/headless-browser/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/headless-browser/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/headless-browser.md">
 <meta property="og:title" content="¿Qué es Headless Browser?">
-<meta property="og:description" content="Un navegador que no tiene interfaz visual, que carga páginas web y procesa datos completamente a través de código.">
+<meta property="og:description" content="El navegador sin interfaz (headless browser) es un navegador completo que funciona sin pantalla.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/headless-browser/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es Headless Browser?">
-<meta name="twitter:description" content="Un navegador que no tiene interfaz visual, que carga páginas web y procesa datos completamente a través de código.">
+<meta name="twitter:description" content="El navegador sin interfaz (headless browser) es un navegador completo que funciona sin pantalla.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Headless Browser",
-  "description": "Un navegador que no tiene interfaz visual, que carga páginas web y procesa datos completamente a través de código.",
+  "description": "El navegador sin interfaz (headless browser) es un navegador completo que funciona sin pantalla.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/headless-browser/",
   "inDefinedTermSet": {
@@ -55,16 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-08">Última actualización: 8 de septiembre de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
 <h1 class="disc-title">¿Qué es <span class="disc-accent">Headless Browser</span>?</h1>
-<p class="disc-lead">Un navegador que no tiene interfaz visual, que carga páginas web y procesa datos completamente a través de código.</p>
-<section class="disc-sec"><h2>Definición</h2><p>Es un tipo de navegador en el que la interfaz visual que normalmente ves al navegar por internet (botones, imágenes) no se ejecuta en segundo plano, sino que solo se procesa la estructura del código. Como no renderiza la interfaz visual, funciona muy rápido y consume menos recursos del ordenador.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Es como imprimir todo el código HTML de un sitio en un papel y leerlo en lugar de mirar la pantalla para visitar una página web; te enfocas solo en los datos, no en la parte visual.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Los desarrolladores utilizan herramientas de automatización para darle a este navegador la orden de &#39;ir a este sitio y obtener estos datos&#39;.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se utiliza en las pruebas automatizadas de sitios web y en procesos de extracción de datos.</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>Navegador headless sigiloso</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué no tiene interfaz visual?</p><p class="dict-faq-a">Porque solo necesitamos los datos, no necesitamos ver la página.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/stealth-headless-browser/">Stealth Headless Browser</a><a href="/es/dictionary/web-scraping/">Web Scraping</a></div></section>
+<p class="disc-lead">El navegador sin interfaz (headless browser) es un navegador completo que funciona sin pantalla.</p>
+<section class="disc-sec"><h2>Definición y origen de la palabra</h2><p>Headless significa sin cabeza: no se dibuja ninguna ventana, el código se ejecuta. Al eliminarse la carga visual, aumenta la velocidad y se reducen los recursos. Es el trabajador silencioso de las pruebas y el procesamiento de datos.</p></section>
+<div class="dict-analogy"><strong>Analogía:</strong> Es como imprimir el código HTML del sitio en papel y leerlo; no hay imagen, hay datos.</div>
+<section class="disc-sec"><h2>¿Cómo saberlo y utilizarlo en la vida diaria?</h2><p><strong>Prueba:</strong> Control de regresión de páginas.<br><strong>Datos:</strong> Rastrero de sitios web.<br><strong>Informe:</strong> Generación de capturas de pantalla.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Capacidades:</p><p><strong>Navegación:</strong> Ir a la dirección y hacer clic.<br><strong>Vista:</strong> Salida de pantalla y PDF.<br><strong>Red:</strong> Captura de solicitudes.</p><p>Ejemplo:</p><pre><code>npx playwright screenshot https://ornek.com shot.png</code></pre><p>Nota de detección: Los sitios pueden detectar huellas de headless. El modo Stealth oculta la huella, el uso cumple con la política.</p></section>
+<section class="disc-sec"><h2>Cosas frecuentemente mezcladas</h2><p>Se cree que es Stealth. Stealth es el modo headless que elude la protección contra bots. Uno es el motor, el otro el camuflaje.</p></section>
+<section class="disc-sec"><h2>Uso en diferentes disciplinas</h2><p><strong>Impresión en papel:</strong> Mirar los datos, no la imagen.<br><strong>Vuelo a ciegas:</strong> Navegación por instrumentos.<br><strong>Cocina trasera:</strong> Producción sin clientes.</p></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué no hay interfaz?</p><p class="dict-faq-a">Los datos se procesan, no se necesita imagen. Ahorra velocidad y recursos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Se detecta?</p><p class="dict-faq-a">Se puede detectar. El modo sigiloso reduce el rastro, la política del sitio es determinante.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuándo se necesita GUI?</p><p class="dict-faq-a">En inspección visual y pruebas manuales. En automatización, el modo headless es suficiente.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la diferencia de recursos?</p><p class="dict-faq-a">La memoria y el CPU disminuyen, la ejecución en paralelo aumenta. De ahí proviene la escala.</p></div></div></section>
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/stealth-headless-browser/">Stealth Headless Browser</a><a href="/es/dictionary/web-scraping/">Web Scraping</a><a href="/es/dictionary/testing-framework/">Testing Framework</a></div></section>
 <section class="disc-sec"><h2>Herramientas relacionadas</h2><div class="dict-related"><a href="/es/discover/browser/">Browser</a><a href="/es/discover/camofox-browser/">Camofox Browser</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="headless-browser" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
 <p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/headless-browser/">Leer en turco →</a></p>

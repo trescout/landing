@@ -2,23 +2,35 @@
 
 > Computer Vision
 
-Technologie, die es Computern ermöglicht, digitale Bilder und Videos zu analysieren, um darin enthaltene Objekte oder Situationen zu verstehen.
+CV (Computer Vision, Computer Vision) ist die Technologie, die Objekte in Bildern und Videos versteht und interpretiert.
 
-## Definition
-Diese Technologie ermöglicht es einem Computer, wie ein menschliches Auge zu sehen und zu interpretieren, was er sieht. Es kann beispielsweise die Identität der Person auf einem Foto oder den Verkehrsfluss in einem Video analysieren. Es handelt sich um eine grundlegende Fähigkeit, die der KI hilft, die Welt visuell wahrzunehmen.
+## Definition und Wortherkunft
+Es ist die Fähigkeit des Computers, wie das menschliche Auge zu sehen und das Gesehene zu interpretieren. Wer die Person auf dem Foto ist oder wie der Verkehr auf dem Video fließt, sind Themen dieses Bereichs. Es ist der visuell wahrnehmende Arm der künstlichen Intelligenz.
 
-## So funktioniert es
-Es wandelt die Farb- und Formdaten im Bild in mathematische Zahlen um. Es erkennt Muster und klassifiziert Objekte anhand dieser Zahlen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Sicherheit: Bewegungserkennung im Kamerabild.Autonomes Fahren: Spur- und Fußgängererkennung.Gesundheitswesen: Röntgen-Voruntersuchung.Einzelhandel: Regalzählung und Kassenkontrolle.
 
-## Wo es eingesetzt wird
-Es wird in Sicherheitskameras, autonomen Fahrzeugen und Gesichtserkennungssystemen eingesetzt.
+## Technische Tiefe und Architektur
+Aufgaben:
 
-## Häufig verwechselt mit
-Es kann mit Bildverarbeitung verwechselt werden, aber dabei geht es nicht nur darum, Bilder zu bearbeiten, sondern darum, ihnen Bedeutung zu verleihen.
+## Häufig gemischte Dinge
+Man hält es für Bildverarbeitung. Jene ordnet, diese gibt Bedeutung. Wird auch mit dem Lebenslauf (CV) verwechselt: Diese Seite ist ein Technologiebegriff, das Bewerbungsdokument ist ein anderes Thema.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Baby: Lernen durch ständiges Betrachten von Objekten.Sicherheit: Wache am Monitor.Qualitätsband: Ausssortieren fehlerhafter Produkte.
+
+## Häufig gestellte Fragen
 **Analysiert es nur Fotos?**
-Nein, es kann auch Videostreams und Livebilder sofort verarbeiten.
+Nein. Auch Video und Live-Streams werden verarbeitet, Bild für Bild.
+
+**CV bedeutet doch Lebenslauf, oder?**
+Das Wort ist dasselbe, das Thema ein anderes. Die Bedeutung Lebenslauf gehört in die Geschäftswelt, diese Seite gehört zur Bildverarbeitungstechnologie.
+
+**Wie lernt man das?**
+Man beginnt mit einem kleinen Projekt in Python und OpenCV. Vorgefertigte Modelle werden feinabgestimmt.
+
+**Wird Hardware benötigt?**
+Für das Ausprobieren reicht eine CPU aus. Für das Training und schwere Live-Modelle wird eine GPU benötigt.
 
 
 ## Verwandte Begriffe

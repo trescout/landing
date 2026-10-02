@@ -1,57 +1,41 @@
-# ¿Qué es un Gemelo Digital?
+# ¿Qué es Digital Twin?
 
-> Gemelo Digital
+El gemelo digital (digital twin) es una réplica de un objeto alimentada con datos en tiempo real.
 
-**Categoría:** Data  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+Twin significa gemelo. Los datos de los sensores fluyen desde el objeto real y el modelo simula el comportamiento. Las averías y el rendimiento se prevén con antelación. Se ejecuta en operaciones de fábricas y ciudades.
 
-Un gemelo digital (digital twin) es una representación virtual dinámica de un objeto, máquina o sistema físico, alimentada y sincronizada en tiempo real mediante telemetría sensorial.
-
-## Definición y etimología
-El concepto de gemelo radica en la fidelidad temporal. Los sensores físicos transmiten datos operacionales hacia el modelo virtual, el cual simula tensiones térmicas, fatiga de materiales y curvas de degradación para anticipar contingencias en la planta física.
-
-## Contexto cotidiano y uso práctico
-- **Manufactura Avanzada:** Mantenimiento predictivo de robots industriales y prensas mecánicas.
-- **Ciudades Inteligentes:** Gestión de semáforos, redes de transporte y consumo hídrico.
-- **Sector Energético:** Monitorización de turbinas eólicas y reactores nucleares.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Fábrica: Mantenimiento predictivo.Ciudad: Simulación de tráfico.Energía: Monitoreo de turbinas.
 
 ## Profundidad técnica y arquitectura
-Cadena de Procesamiento Telemétrico:<div class="disc-cmd"><pre><code>sensores → ingesta de datos → modelo analítico/IA → orden preventiva</code></pre></div>Pilares Arquitectónicos:- **Captura e Ingesta:** Protocolos de telemetría industrial (MQTT, Kafka) para captura masiva de señales.
-- **Motor de Simulación:** Modelos híbridos que combinan dinámica de fluidos, física y redes neuronales.
-- **Bucle de Retorno:** Automatización de órdenes de ajuste o paradas de seguridad.
+Flujo:
 
-Regla fundamental: Si se interrumpe la conexión de telemetría, el gemelo digital queda ciego. La alimentación de datos debe ser ininterrumpida.
+## Cosas frecuentemente mezcladas
+Se confunde con un modelo 3D. Aquello es una imagen estática, esto es un sistema vivo. Uno es una fotografía, el otro es un espejo.
 
-## Suele confundirse con
-Suele confundirse con un plano o modelo CAD 3D. El diseño 3D es una representación geométrica estática; el gemelo digital es una entidad viva que late con datos reales de funcionamiento. Uno es un cuadro, el otro es un espejo.
-
-## Perspectivas interdisciplinares
-- **Aeronáutica:** Vuelo paralelo en simulador con las mismas condiciones meteorológicas del avión real.
-- **Espejo:** Superficie que refleja al instante cada movimiento corporal.
-- **Sombra:** Perfil dinámico que acompaña fielmente cada paso de una persona.
-
-## Por analogía
-Es como tener una réplica virtual de un avión de pasajeros volando en un simulador exactamente a la vez que el avión real, experimentando las mismas turbulencias y desgastes.
+## Uso en diferentes disciplinas
+Avión: Vuelo sincronizado en el aire y en simulación.Espejo: Superficie que refleja el movimiento.Sombra: Oscuridad que sigue al objeto.
 
 ## Preguntas frecuentes
+**¿Cuál es la diferencia de la simulación?**
+La simulación se ejecuta una vez, el gemelo se alimenta en vivo. Uno es una película, el otro es una transmisión.
 
-**¿En qué se distingue de una simulación por ordenador clásica?**  
-La simulación convencional evalúa hipótesis sobre datos estáticos; el gemelo digital se nutre del estado real y continuo del activo.
+**¿Todo tiene un gemelo?**
+Teóricamente sí, en la práctica lo determinan el costo y los datos.
 
-**¿Vale la pena implementarlo en cualquier maquinaria?**  
-No. Solo se rentabiliza en infraestructuras críticas donde una parada no planificada causa enormes pérdidas económicas.
+**¿Cuánto cuesta?**
+Tiene un costo de sensor, modelo y mantenimiento. Se paga a cambio de la ganancia por averías evitadas.
 
-**¿Cuál es el mayor reto técnico?**  
-La integración de sensores industriales en entornos agresivos y el procesamiento de grandes volúmenes de datos con baja latencia.
+**¿Dónde se usa?**
+En fábricas, ciudades y energía. Los activos críticos son lo primero.
 
-**¿Cuál es su principal ventaja competitiva?**  
-Pasar de un mantenimiento reactivo o periódico a un mantenimiento predictivo basado en la condición real del equipo.
 
 ## Términos relacionados
-- [Modelos de Mundo](/es/dictionary/world-model/)
-- [Observabilidad](/es/dictionary/observability/)
-- [Pipeline de Datos](/es/dictionary/data-pipeline/)
-- [Inteligencia Artificial](/es/dictionary/artificial-intelligence/)
+- [World Model](/es/dictionary/world-model/)
+- [Observability](/es/dictionary/observability/)
+- [Data Pipeline](/es/dictionary/data-pipeline/)
+- [Artificial Intelligence](/es/dictionary/artificial-intelligence/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/digital-twin/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/digital-twin/

@@ -2,23 +2,35 @@
 
 > Vision Language Model
 
-Es ist ein KI-Modell, das sowohl Texte als auch Bilder gleichzeitig verstehen und interpretieren kann.
+Ein VLM (Vision Language Model, Seh-Sprachmodell) ist ein Modell, das Bild und Text gemeinsam versteht.
 
-## Definition
-Es ist ein System, das die Welt nicht nur durch Text, sondern auch mit seinen Augen wahrnimmt. Es kann ein Foto betrachten und die darin enthaltenen Objekte identifizieren, eine Grafik interpretieren oder eine handschriftliche Notiz in digitalen Text umwandeln.
+## Definition und Wortherkunft
+Es ist das Hinzufügen von Augen zum Textmodell: Es betrachtet das Foto und identifiziert das Objekt, interpretiert das Diagramm, wandelt Handschrift in Text um. Es ist das Bild-Text-Mitglied der multimodalen Familie.
 
-## So funktioniert es
-Das Modell durchläuft einen speziellen Trainingsprozess, der visuelle Daten mit Textdaten kombiniert. Wenn Sie ein Bild hochladen und eine Frage stellen, synthetisiert das Modell die Details im Bild mit seinem Textwissen, um eine Antwort zu geben.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Analyse: Bildbeschreibung.Assistent: Frage-Antwort-Spiel mit Fotos.Zugänglichkeit: Das Bild akustisch beschreiben.
 
-## Wo es eingesetzt wird
-Es wird bei der Bildanalyse, der automatischen Inhaltsbeschreibung und bei bildbasierten KI-Assistenten eingesetzt.
+## Technische Tiefe und Architektur
+Kombination:
 
-## Häufig verwechselt mit
-Es ähnelt multimodalen Modellen; VLM ist eine auf Bild-Text fokussierte Untergruppe der multimodalen KI.
+## Häufig gemischte Dinge
+Wird für multimodal gehalten. Multimodal ist der Name der Familie, VLM ist das Bild-Text-Mitglied. Das eine ist die Menge, das andere ein Element.
 
-## Häufige Fragen
-**Was ist der Unterschied zwischen VLM und klassischer KI?**
-Während klassische Modelle nur Text verarbeiten, können VLM-Modelle auch visuelle Daten direkt verstehen.
+## Einsatz in verschiedenen Disziplinen
+Lesen: Text hörbar verstehen.Untertitel: Dem Film Text hinzufügen.Führer: Exponate im Museum erklären.
+
+## Häufig gestellte Fragen
+**Was ist der Unterschied zum klassischen Modell?**
+Es versteht neben Text auch Bilder. Fotobezogene Fragen können beantwortet werden.
+
+**Wie wird es trainiert?**
+Es wird mit Bild-Text-Paaren abgeglichen. Je mehr Übereinstimmungen, desto besser das Verständnis.
+
+**Unterstützt es Türkisch?**
+Das hängt vom Modell ab. Modelle mit mehrsprachigem Training unterstützen das.
+
+**Wie hoch sind die Kosten?**
+Sie ist höher als beim Textmodell. Die Bildverarbeitung erzeugt zusätzlichen Aufwand.
 
 
 ## Verwandte Begriffe

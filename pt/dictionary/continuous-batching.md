@@ -1,25 +1,34 @@
 # O que é Continuous Batching?
 
-É um método de otimização que permite que modelos de inteligência artificial processem solicitações recebidas de forma contínua e fluente, sem espera.
+Continuous batching (com tradução em português para loteamento contínuo) é a técnica que aceita solicitações no motor sem fazê-las esperar.
 
-## Definição
-Normalmente, os modelos de IA processam solicitações em lotes e aguardam a conclusão de um lote. O método de agrupamento contínuo permite que o sistema inclua novas solicitações recebidas no processo antes que o processo atual seja concluído. Dessa forma, os usuários recebem respostas com mais rapidez e sem espera.
+## Definição e origem da palavra
+A nova solicitação entra antes do término do grupo clássico. O hardware não fica ocioso, a resposta retorna rapidamente. É a sala de máquinas do chatbot e dos serviços ocupados.
 
-## Como funciona
-Assim que a capacidade de processamento do modelo fica vazia, novas solicitações que aguardam na fila são imediatamente injetadas no sistema. Isso garante que os recursos de hardware operem sempre com eficiência total.
+## Como conhecer e usar no dia a dia?
+Chat: Linha de resposta instantânea.API: Extremidades densas.Nuvem: Fila de GPU cara.
 
-## Onde é usado
-Ele é usado em segundo plano em chatbots como ChatGPT e em serviços de inteligência artificial de alto tráfego.
+## Profundidade Técnica e Arquitetura
+Fluxo:
 
-## Costuma ser confundido com
-Pode ser confundido apenas com velocidade de processamento, mas este método trata especificamente de eficiência.
+## Coisas frequentemente misturadas
+Pensa-se que é velocidade. No entanto, o assunto é o rendimento: muito trabalho é feito com o mesmo hardware. A velocidade é um subproduto.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Chef: Cozinhar sem fazer as mesas esperarem.Autocarro: Um autocarro circular que não parte apenas quando enche.Elevador: Não apanhar passageiros do piso intermédio.
+
+## Perguntas Frequentes
 **Por que isso é importante?**
-Reduz o tempo de espera dos usuários e reduz os custos do servidor.
+A espera diminui, o custo diminui. A diferença aumenta numa linha movimentada.
 
 **Está disponível em todos os modelos?**
-Não, isso geralmente é um recurso de mecanismos de inferência avançados.
+Não. É uma caraterística dos motores avançados.
+
+**O que acontece à latência?**
+A média diminui, a justiça da fila é observada.
+
+**Quando é necessário?**
+Quando a solicitação simultânea aumenta. Não é perceptível sob baixa carga.
 
 
 ## Termos relacionados

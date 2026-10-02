@@ -1,25 +1,34 @@
 # Was ist Red Teaming?
 
-Dabei handelt es sich um eine Methode zum Auffinden von Schwachstellen, indem man sich als böswilliger Benutzer ausgibt, um die Sicherheit eines Systems zu testen.
+Red Teaming ist eine Testmethode, bei der man wie ein Angreifer vorgeht und Schwachstellen findet.
 
-## Definition
-Red Teaming ist die Simulation eines Teams, das versucht, die Verteidigung eines Systems zu umgehen. Dieses Team misst, wie widerstandsfähig das System ist, indem es Methoden verwendet, die Angreifer verwenden können. Ziel ist es, alle Schwachstellen zu schließen, bevor es zu einem tatsächlichen Angriff kommt.
+## Definition und Wortherkunft
+Der Name stammt von militärischen Übungen: Die rote Seite greift an, die blaue Seite verteidigt. Das Team misst die Widerstandsfähigkeit des Systems mit Angriffsmethoden. Das Ziel ist es, Schwachstellen vor einem echten Angriff zu schließen.
 
-## So funktioniert es
-Sicherheitsexperten bringen das System an seine Grenzen, versuchen Passwörter zu knacken oder senden falsche Befehle. Die Ergebnisse werden gemeldet und die Firewalls entsprechend verstärkt.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Institutionell: Jährliche Penetrationstests.Künstliche Intelligenz: Versuche zur Umgehung von Modellregeln.Physisch: Zugangskontrollen zum Gebäude.
 
-## Wo es eingesetzt wird
-Es wird in den Cybersicherheitsabteilungen großer Unternehmen und beim Testen der Sicherheit von Modellen der künstlichen Intelligenz eingesetzt.
+## Technische Tiefe und Architektur
+Testablauf:
 
-## Häufig verwechselt mit
-Nicht zu verwechseln mit einem regulären Sicherheitsscan. Dies ist eine kreative und menschenzentrierte Angriffssimulation.
+## Häufig gemischte Dinge
+Es wird oft mit einem Scan verwechselt. Ein Scan ist automatisch und oberflächlich, Red Teaming ist kreativ und menschzentriert. Beide ergänzen sich.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Bank: Tresor- und Alarmanlagentest.Feuer: Evakuierungsübung.Schach: Spiele den Zug des Gegners nicht im Voraus.
+
+## Häufig gestellte Fragen
 **Warum wird diese Methode benötigt?**
-Denn Standard-Sicherheitstests können kreative Angriffsmethoden nicht immer erkennen.
+Standardtests können kreative Angriffe nicht erfassen. Der menschliche Verstand sieht, was die Maschine nicht sieht.
 
-**Wie wird es in Modellen der künstlichen Intelligenz implementiert?**
-Durch das Stellen schädlicher Fragen an das Modell wird überprüft, ob das Modell gegen die Regeln verstößt.
+**Wie wird es in der künstlichen Intelligenz angewendet?**
+Dem Modell werden Fragen gestellt, die darauf abzielen, es dazu zu bringen, Regeln zu brechen, und die bestandenen sowie nicht bestandenen Antworten werden protokolliert.
+
+**Wer macht das?**
+Das macht das interne Team oder eine unabhängige Firma. Ein unabhängiger Blick findet blinde Flecken besser.
+
+**Wie oft wird es gemacht?**
+Mindestens einmal im Jahr, und nach größeren Änderungen erneut. Auf der Modellseite wird es pro Version durchgeführt.
 
 
 ## Verwandte Begriffe

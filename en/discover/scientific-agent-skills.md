@@ -2,7 +2,7 @@
 
 Scientific-agent-skills is a ready-made skill library that adapts artificial intelligence agents to scientific research processes. Offering 163 validated capabilities and more than 100 databases in the fields of biology, chemistry, and medicine, it integrates with platforms such as code editor Cursor or AI assistant Claude Code.
 
-- ★ 47,133
+- ★ 47,342
 - GitHub Trending · 2026-08-26
 
 ## What you get

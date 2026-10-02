@@ -1,19 +1,31 @@
 # Was ist Best Practices?
 
-Dabei handelt es sich um eine Reihe anerkannter Methoden, die bei der Ausführung einer Arbeit die effizientesten, sichersten und fehlerfreiesten Ergebnisse liefern.
+Best Practices (auf Türkisch "en iyi uygulamalar"), sind bewährte und von der Community anerkannte Arbeitsmethoden.
 
-## Definition
-Dabei handelt es sich um Arbeitsweisen, die durch Erfahrungen in der Welt der Technologie festgelegt und von der Community anerkannt werden. Ihre Einhaltung macht Projekte nachhaltiger und verständlicher. Es ermöglicht Ihnen, bewährte Methoden zu nutzen, anstatt das Rad neu zu erfinden.
+## Definition und Wortherkunft
+Es geht darum, den bewährten Weg zu gehen, anstatt das Rad neu zu erfinden. Sie sammeln sich in allen Bereichen an – von der Codierung über die Sicherheit und Dokumentation bis hin zur Teamkommunikation. Standards, Styleguides und Notizen leitender Ingenieure speisen diesen Pool.
 
-## So funktioniert es
-Es wird durch Befolgen von Industriestandards, Dokumentation und den Erfahrungen erfahrener Softwareentwickler erlernt. Diese Regeln werden im gesamten Projektentwicklungsprozess eingehalten und angewendet.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Code: Aussagekräftiger Name, kleine Funktion, Test.Sicherheit: Geheime Schlüssel nicht im Code einbetten.Team: Code-Review und Commit-Disziplin.
 
-## Wo es eingesetzt wird
-Es wird beim Schreiben von Code, bei Sicherheitsmaßnahmen, im Projektmanagement und bei der Kommunikation innerhalb des Teams eingesetzt.
+## Technische Tiefe und Architektur
+Häufig genannte Prinzipien:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Küche: Rezeptbuch und Maßdisziplin.Luftfahrt: Checkliste vor dem Abflug.Verkehr: Spur- und Signalordnung.
+
+## Häufig gestellte Fragen
 **Ist es zwingend erforderlich, diese einzuhalten?**
-Technisch gesehen nicht, aber es wird auf jeden Fall empfohlen, um Kopfschmerzen auf lange Sicht zu vermeiden.
+Nicht technisch gesehen, aber es reduziert langfristig Kopfschmerzen. In kritischen Systemen ist es fast zwingend erforderlich.
+
+**Wird es zu einem Dogma?**
+Es kann dazu werden. Wenn sich der Kontext ändert, ist es auch Teil guter Praxis, die Regel zu hinterfragen.
+
+**Wer bestimmt das?**
+Gemeinschaft, Standardinstitutionen und teaminterne Erfahrung. Die von Ihrem Team verfasste Liste ist wertvoller als die allgemeine Liste.
+
+**Welchen Stellenwert hat es in einem Startup?**
+In der Wachstums- bzw. Beschleunigungsphase wählt man Weniges aus: Versionsdisziplin, Backup und Code-Review. In der Wachstumsphase erweitert sich die Liste.
 
 
 ## Verwandte Begriffe

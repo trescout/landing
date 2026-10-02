@@ -1,37 +1,50 @@
 # ¿Qué es Localhost?
 
-Es la situación en la que un software funciona solo en la computadora que se está utilizando en ese momento, sin conectarse a Internet.
+Localhost es el nombre de red especial que dirige a su propia computadora. Su equivalente es la dirección 127.0.0.1.
 
-## Definición
-Cuando los desarrolladores crean un sitio web, no lo suben a Internet de inmediato. Primero lo prueban en sus propias computadoras usando la dirección 'localhost'. Es como si su computadora se dijera a sí misma 'soy un servidor'. Nadie desde afuera puede verlo, solo usted.
+## Definición y origen de la palabra
+"Local" significa local, y "host", ordenador anfitrión. El desarrollador no sube el sitio web a internet de inmediato; primero lo prueba en su propio ordenador con esta dirección. Su ordenador actúa como servidor por sí mismo. Nadie desde fuera puede verlo, solo usted.
 
-## Cómo funciona
-Al escribir 'localhost' en la barra de direcciones de su navegador, accede al software que se ejecuta en su propia computadora.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Desarrollo web: la dirección que se abre en el navegador después de npm run devBase de datos: Conexión local a Postgres o Redis instalada.Prueba de API: Prueba de endpoints que aún no se han publicado.
 
-## Dónde se usa
-Se utiliza en los procesos de desarrollo de software y en las fases de prueba.
+## Profundidad técnica y arquitectura
+Lo que necesitas saber:
 
-## Suele confundirse con
-Puede confundirse con un sitio web; sin embargo, localhost es exclusivo solo para su computadora.
+## Cosas frecuentemente mezcladas
+Se piensa que es un sitio web. Sin embargo, localhost es exclusivo de tu ordenador y no requiere un nombre de dominio ni publicación.
+
+## Uso en diferentes disciplinas
+Teatro: Sala de ensayo sin público.Música: Prueba de sonido antes de grabar.Cocina: Degustación antes de servir.
 
 ## Preguntas frecuentes
 **¿Por qué usamos localhost?**
-Para corregir errores de forma segura en nuestra propia computadora antes de exponerlos a Internet.
+Para corregir los errores de forma segura en nuestro propio ordenador antes de abrirlos a internet.
+
+**¿Qué es 127.0.0.1?**
+Es el equivalente numérico del nombre localhost. En cada ordenador se representa a sí mismo.
+
+**¿Qué es un puerto y por qué es necesario?**
+Es el número de puerta que separa las aplicaciones en el mismo ordenador. Es lo que va después de los dos puntos en la dirección del navegador.
+
+**¿Se puede acceder desde el exterior?**
+No. Para que otros lo vean, se necesita una difusión y un nombre de dominio. Para compartir una conexión de prueba, se utilizan herramientas de túnel.
 
 
 ## Términos relacionados
 - [IDE](/es/dictionary/ide/)
 - [Deployment](/es/dictionary/deployment/)
+- [Network Stack](/es/dictionary/network-stack/)
 
 ## Herramientas relacionadas
 - [Penpot](/es/discover/penpot/)
 - [Project N.O.M.A.D](/es/discover/project-nomad/)
+- [Freellmapi](/es/discover/freellmapi/)
 - [Jenkins](/es/discover/jenkins/)
+- [Omlx](/es/discover/omlx/)
 - [OpenStock](/es/discover/openstock/)
 - [Personal_AI_Infrastructure](/es/discover/personal-ai-infrastructure/)
 - [Portless](/es/discover/portless/)
-- [Flowsint](/es/discover/flowsint/)
-- [Teslamate](/es/discover/teslamate/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/localhost/

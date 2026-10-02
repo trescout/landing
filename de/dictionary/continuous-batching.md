@@ -1,25 +1,34 @@
 # Was ist Continuous Batching?
 
-Dabei handelt es sich um eine Optimierungsmethode, die es Modellen der künstlichen Intelligenz ermöglicht, eingehende Anfragen kontinuierlich und flüssig zu verarbeiten, ohne zu warten.
+Continuous Batching ist die Technik, bei der Anfragen ohne Wartezeiten an das Modell übergeben werden.
 
-## Definition
-Normalerweise verarbeiten KI-Modelle Anfragen stapelweise und warten, bis ein Stapel abgeschlossen ist. Die kontinuierliche Gruppierungsmethode ermöglicht es dem System, neue eingehende Anforderungen in den Prozess einzubeziehen, bevor der aktuelle Prozess abgeschlossen ist. Auf diese Weise erhalten Nutzer schneller und ohne Wartezeit Antworten.
+## Definition und Wortherkunft
+Neue Anfragen kommen hinein, bevor die vorherige Gruppe abgeschlossen ist. Die Hardware bleibt nicht im Leerlauf, Antworten werden schnell zurückgegeben. Es ist der Maschinenraum von Chatbots und stark ausgelasteten Diensten.
 
-## So funktioniert es
-Sobald die Verarbeitungskapazität des Modells erschöpft ist, werden neue in der Warteschlange wartende Anforderungen sofort in das System eingespeist. Dadurch wird sichergestellt, dass die Hardware-Ressourcen jederzeit mit voller Effizienz arbeiten.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Chat: Sofortige Antwortleitung.API: Stark frequentierte Endpunkte.Cloud: Kostenintensive GPU-Warteschlange.
 
-## Wo es eingesetzt wird
-Es wird im Hintergrund von Chatbots wie ChatGPT und in stark frequentierten Diensten der künstlichen Intelligenz eingesetzt.
+## Technische Tiefe und Architektur
+Stream:
 
-## Häufig verwechselt mit
-Es kann sein, dass man es nur mit der Verarbeitungsgeschwindigkeit verwechselt, aber bei dieser Methode geht es speziell um Effizienz.
+## Häufig gemischte Dinge
+Es wird oft für Geschwindigkeit gehalten. Dabei geht es um Effizienz: Mit derselben Hardware wird mehr Arbeit erledigt. Die Geschwindigkeit ist ein Nebeneffekt.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Chefkoch: Kochen, ohne auf die Tische zu warten.Bus: Ein Pendelbus, der nicht erst bei voller Besatzung losfährt.Aufzug: Keinen Fahrgast auf halbem Weg mitnehmen.
+
+## Häufig gestellte Fragen
 **Warum ist es wichtig?**
-Es verkürzt die Wartezeit der Benutzer und senkt die Serverkosten.
+Die Wartezeit sinkt, die Kosten sinken. Auf stark ausgelasteten Strecken vergrößert sich der Vorsprung.
 
 **Ist es für jedes Modell verfügbar?**
-Nein, dies ist im Allgemeinen eine Funktion fortschrittlicher Inferenz-Engines.
+Nein. Das ist ein Merkmal moderner Motoren.
+
+**Wie hoch ist die Verzögerung?**
+Der Durchschnitt sinkt, die Fairness in der Warteschlange wird gewahrt.
+
+**Wann ist das erforderlich?**
+Wenn gleichzeitige Anfragen steigen. Bei geringer Last fällt es nicht auf.
 
 
 ## Verwandte Begriffe

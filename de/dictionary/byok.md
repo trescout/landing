@@ -2,26 +2,35 @@
 
 > Bring Your Own Key
 
-Es handelt sich um einen Sicherheitsansatz, der es dem Benutzer ermöglicht, seine eigenen Sicherheitsschlüssel mitzubringen, um seine eigenen Daten zu verschlüsseln.
+BYOK (Bring Your Own Key, bring your own key) ist ein Modell, bei dem der Verschlüsselungsschlüssel bei Ihnen verbleibt.
 
-## Definition
-BYOK stellt sicher, dass der Speicherort Ihrer Daten und der Schlüssel, der Ihre Daten öffnet, unabhängig voneinander sind. Dadurch kann auch der Dienstleister, der die Daten speichert, ohne Ihren Schlüssel nicht auf Ihre Daten zugreifen.
+## Definition und Wortherkunft
+Der Speicherort der Daten und der Speicherort des Schlüssels sind getrennt. Der Anbieter sieht die Daten, kann sie aber nicht entschlüsseln. Sie haben die Kontrolle und tragen die Verantwortung.
 
-## So funktioniert es
-Sie erstellen Ihren eigenen Verschlüsselungsschlüssel aus den Sicherheitseinstellungen und laden ihn in das System hoch. Das System sperrt die Daten mit Ihrem Schlüssel.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Cloud: Verschlüsselte Festplatte und Backup.Institutionell: Regulatorische Daten.KI: Eigener API-Schlüssel.
 
-## Wo es eingesetzt wird
-Es wird in Cloud-Speicherdiensten und Unternehmensrechenzentren eingesetzt.
+## Technische Tiefe und Architektur
+Layout:
 
-## Häufig verwechselt mit
-Es wird mit reiner Verschlüsselung verwechselt, aber Sie haben hier die vollständige Schlüsselkontrolle.
+## Häufig gemischte Dinge
+Wird oft für Verschlüsselung gehalten. Verschlüsselung ist das Schloss, BYOK bestimmt, wer den Schlüssel behält. Das eine ist die Tür, das andere das Schlüsselbundsystem.
 
-## Häufige Fragen
-**Was passiert, wenn ich meinen Schlüssel verliere?**
-Möglicherweise verlieren Sie dauerhaft den Zugriff auf Ihre Daten, weshalb die Schlüsselverwaltung so wichtig ist.
+## Einsatz in verschiedenen Disziplinen
+Tresor: Entschlüsselung mit dem eigenen Schlüssel.Kaution: Übergabe im versiegelten Umschlag.Safe: Die Bank kennt den Inhalt nicht.
 
-**Warum sollte ich BYOK verwenden?**
-Um den Datenschutz zu erhöhen und den Zugriff von Dienstanbietern auf Daten einzuschränken.
+## Häufig gestellte Fragen
+**Was passiert, wenn ich ihn verliere?**
+Der Zugriff geht dauerhaft verloren. Ein Backup- und Nachlassplan ist unerlässlich.
+
+**Warum wird es verwendet?**
+Um den Zugriff des Anbieters zu sperren. Erfordert Datenschutz und Compliance.
+
+**Was bedeutet das in KI-Werkzeugen?**
+Es arbeitet mit einem eigenen API-Schlüssel. Sie haben die Kontrolle über Kontingent und Abrechnung.
+
+**Wie hoch sind die Kosten?**
+Es fallen Kassen- und Verwaltungsgebühren an. Bei kritischen Daten zahlt es sich aus.
 
 
 ## Verwandte Begriffe

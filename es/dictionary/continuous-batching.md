@@ -1,25 +1,34 @@
 # ¿Qué es Continuous Batching?
 
-Es un método de optimización que permite que los modelos de inteligencia artificial procesen las solicitudes entrantes de forma continua y fluida, sin esperas.
+El procesamiento por lotes continuo (Continuous batching en su equivalente en turco) es la técnica que introduce las solicitudes en el motor sin hacerlas esperar.
 
-## Definición
-Normalmente, los modelos de IA procesan las solicitudes en lotes y esperan a que finalice un lote. El método de agrupación continua permite que el sistema incluya nuevas solicitudes entrantes en el proceso antes de que finalice el proceso actual. De esta forma, los usuarios reciben respuestas más rápido y sin esperas.
+## Definición y origen de la palabra
+La nueva solicitud ingresa antes de que finalice el grupo clásico. El hardware no permanece inactivo, la respuesta vuelve rápidamente. Es la sala de máquinas del chat bot y de los servicios ocupados.
 
-## Cómo funciona
-Tan pronto como la capacidad de procesamiento del modelo se vacía, las nuevas solicitudes que esperan en la cola se inyectan inmediatamente en el sistema. Esto garantiza que los recursos de hardware funcionen con total eficiencia en todo momento.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Conversación: Línea de respuesta instantánea.API: Extremos densos.Nube: Cola de GPU costosa.
 
-## Dónde se usa
-Se utiliza en segundo plano en bots de chat como ChatGPT y en servicios de inteligencia artificial de alto tráfico.
+## Profundidad técnica y arquitectura
+Flujo:
 
-## Suele confundirse con
-Puede confundirse únicamente con la velocidad de procesamiento, pero este método tiene que ver específicamente con la eficiencia.
+## Cosas frecuentemente mezcladas
+Se cree que es velocidad. Sin embargo, el tema es el rendimiento: se hace más trabajo con el mismo hardware. La velocidad es un subproducto.
+
+## Uso en diferentes disciplinas
+Chef: Cocinar sin hacer esperar a las mesas.Autobús: Un autobús circular que no sale solo al llenarse.Ascensor: Recoger pasajeros de plantas intermedias.
 
 ## Preguntas frecuentes
 **¿Por qué es importante?**
-Reduce el tiempo de espera de los usuarios y reduce los costos del servidor.
+La espera disminuye, el costo disminuye. La diferencia se amplía en las líneas concurridas.
 
 **¿Está disponible en todos los modelos?**
-No, esta es generalmente una característica de los motores de inferencia avanzados.
+No. Es una característica de los motores avanzados.
+
+**¿Qué pasa con la latencia?**
+El promedio disminuye, se respeta la justicia en la cola.
+
+**¿Cuándo es necesario?**
+Cuando aumentan las solicitudes concurrentes. No se nota con poca carga.
 
 
 ## Términos relacionados

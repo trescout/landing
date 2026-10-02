@@ -2,31 +2,38 @@
 
 > Language Server Protocol
 
-Es un protocolo de comunicación estándar que proporciona funciones inteligentes a su editor mientras escribe código.
+LSP (Language Server Protocol) es un protocolo abierto basado en JSON-RPC que proporciona una comunicación estándar entre los editores de código modernos y los motores de análisis de lenguajes de programación.
 
-## Definición
-LSP es un puente entre las herramientas de escritura de código (editores) y los servidores que comprenden la lógica del código. Gracias a este protocolo, el editor que utilices; Puede ofrecer funciones como detección de errores, autocompletado y acceso a definiciones de forma estándar en todos los idiomas. Le permite a su editor actuar de manera inteligente sin necesidad de saber qué idioma está utilizando.
+## 1. Definición y el problema matemático que resuelve: complejidad M × N
+Language Server Protocol (LSP) es un protocolo universal desarrollado en 2016 bajo el liderazgo de Microsoft (equipo de VS Code), Red Hat y Codenvy, que hoy en día se ha convertido en la piedra angular de las herramientas de desarrollo.
 
-## Cómo funciona
-Su editor envía el código que escribe a un 'servidor de idiomas' que se ejecuta en segundo plano. El servidor analiza el código y te da sugerencias. Escribes tu código más rápido y sin errores, sin sentir nada.
+## 2. ¿Cómo funciona LSP? Arquitectura del protocolo y JSON-RPC 2.0
+LSP es un protocolo de mensajería JSON-RPC 2.0 que funciona entre un editor (cliente) y un motor de análisis de lenguaje (servidor), generalmente a través de entrada/salida estándar local (stdin/stdout) o sockets locales (IPC).
 
-## Dónde se usa
-Se ejecuta constantemente en segundo plano en editores de código modernos como VS Code.
+## 3. Los Language Servers más utilizados en el ecosistema
 
-## Suele confundirse con
-No es sólo una característica del editor, es un lenguaje de conversación universal entre el editor y el idioma.
+## 4. LSP vs DAP vs LSIF / SCIP
 
 ## Preguntas frecuentes
-**¿Por qué es tan importante?**
-En lugar de desarrollar funciones por separado para cada editor, permite que el soporte de lenguaje de escritura única funcione en todas partes.
+**¿Qué significa LSP y cuál es su abreviatura?**
+Significa Language Server Protocol (Protocolo de Servidor de Lenguaje). Es un protocolo abierto que estandariza la comunicación entre editores de código y los motores de sintaxis, verificación de tipos y autocompletado de los lenguajes de programación.
 
-**¿Afecta mi velocidad?**
-No, al contrario, acelera tu proceso de codificación evitando que cometas errores.
+**¿Por qué LSP resuelve el problema M × N?**
+En el modelo antiguo, para M lenguajes y N editores, era necesario escribir M × N complementos específicos para cada editor. Con LSP, cada lenguaje escribe un solo servidor y cada editor un solo cliente, logrando la fórmula de integración M + N.
+
+**¿Cómo evita LSP que el editor se ralentice?**
+El análisis pesado del árbol de sintaxis abstracta (AST) del lenguaje y las resoluciones de tipos se ejecutan en procesos en segundo plano aislados del proceso principal del editor (a través de JSON-RPC); de esta manera, la interfaz nunca se bloquea.
+
+**¿Cuál es la diferencia entre DAP y LSP?**
+Mientras que LSP analiza la escritura de código, el autocompletado y los errores de sintaxis, DAP (Debug Adapter Protocol) permite depurar el código paso a paso estableciendo puntos de interrupción (breakpoints) durante el tiempo de ejecución.
 
 
 ## Términos relacionados
 - [Agentic Coding Tool](/es/dictionary/agentic-coding-tool/)
 - [CLI](/es/dictionary/cli/)
+- [Keybindings](/es/dictionary/keybindings/)
+- [Code Snippets](/es/dictionary/code-snippets/)
+- [Runtime](/es/dictionary/runtime/)
 
 ## Herramientas relacionadas
 - [Oh My Pi](/es/discover/oh-my-pi/)

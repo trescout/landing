@@ -2,32 +2,37 @@
 
 > Speech-to-Text
 
-Es handelt sich um eine Technologie, die gesprochene Wörter abhört und sie in geschriebenen Text umwandelt.
+STT (Speech-to-Text) ist eine künstliche Intelligenz und Signalverarbeitungstechnologie, die menschliche Sprache in analogen oder digitalen Schallwellen analysiert und sie mit hoher Genauigkeit in geschriebenen Text umwandelt.
 
-## Definition
-STT analysiert Schallwellen und übersetzt sie in Wörter, die der Computer verstehen kann. Diese Systeme erzeugen Textausgaben, indem sie Intonationen und Akzente in der menschlichen Sprache analysieren.
+## Begrifflicher Ursprung, Etymologie und historische Entwicklung
+STT steht für die Anfangsbuchstaben des englischen Begriffs Speech-to-Text. Im Türkischen wird es als Konuşmadan Metne, Ses Tanıma oder Ses Transkripsiyonu verwendet.
 
-## So funktioniert es
-Über das Mikrofon werden Sprachdaten empfangen, künstliche Intelligenz analysiert diese Stimme und schreibt die passenden Texte auf den Bildschirm.
+## Akustische Modellierung und Funktionsarchitektur
+Eine moderne STT-Engine durchläuft die folgenden Schichten, während sie analoge Schallwellen in digitalen Text umwandelt:
 
-## Wo es eingesetzt wird
-Es wird in Anwendungen zum Aufzeichnen von Besprechungsnotizen, Sprachbefehlssystemen und Untertitelungstools verwendet.
-
-## Häufig verwechselt mit
-Gemischt mit Sprachsynthese (Text-to-Speech); Einer wandelt Ton in Text um, der andere wandelt Text in Ton um.
+## Anwendungsbereiche und Open-Source-Ökosystem
 
 ## Häufige Fragen
-**Kann es verschiedene Sprachen verstehen?**
-Ja, moderne STT-Modelle unterstützen viele Sprachen und Akzente.
+**Was bedeutet STT und wofür steht die Abkürzung?**
+STT ist die Abkürzung für „Speech-to-Text“ (Sprache zu Text). Es handelt sich dabei um eine Technologie der künstlichen Intelligenz, die Audiosignale analysiert, Wörter entschlüsselt und sie in ein Textformat umwandelt.
 
-**Funktioniert es in lauten Umgebungen?**
-Fortgeschrittene Modelle können Hintergrundgeräusche herausfiltern, die Fehlerquote kann sich jedoch in sehr lauten Umgebungen erhöhen.
+**Was ist der Unterschied zwischen STT und Spracherkennung (Voice Recognition)?**
+Spracherkennung (Voice Recognition / Speaker Identification) konzentriert sich darauf, festzustellen, wer spricht (biometrische Identität). STT hingegen transkribiert den Inhalt der gesprochenen Wörter unabhängig von der Identität des Sprechers.
+
+**Verstehen STT-Modelle türkische Laute korrekt?**
+Whisper und moderne modelle auf Conformer-Basis wurden mit umfangreichen türkischen Audiodatensätzen trainiert; sie sind in der Lage, Transkriptionen und Zeichensetzungen im phonetisch reichen Türkisch mit hoher Genauigkeit durchzuführen.
+
+**Ist es möglich, STT lokal (Local) auszuführen?**
+Ja; dank optimierter Engines wie whisper.cpp oder faster-whisper können Sie Ihre Audiodaten offline auf Ihrem eigenen Computer und mit vollständigem Datenschutz ausführen, ohne sie an einen Cloud-Server zu senden.
 
 
 ## Verwandte Begriffe
 - [Speech-to-Text](/de/dictionary/speech-to-text/)
+- [Speech-to-Speech](/de/dictionary/speech-to-speech/)
 - [Voice Cloning](/de/dictionary/voice-cloning/)
 - [Whisper](/de/dictionary/whisper/)
+- [Tokenizer](/de/dictionary/tokenizer/)
+- [Apple Silicon](/de/dictionary/apple-silicon/)
 
 ## Verwandte Werkzeuge
 - [Agents](/de/discover/agents/)

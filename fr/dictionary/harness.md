@@ -38,8 +38,8 @@ Déterminé par l'équipe. Maintenu à un niveau élevé sur le chemin critique 
 
 ## Outils liés
 - [Jcode](/fr/discover/jcode/)
-- [Harness · Ajan Ekip Fabrikası](/fr/discover/harness/)
 - [Harness SDK](/fr/discover/harness-sdk/)
+- [Harness · Ajan Ekip Fabrikası](/fr/discover/harness/)
 - [Munder Difflin](/fr/discover/munder-difflin/)
 - [Claude Code Harness](/fr/discover/claude-code-harness/)
 

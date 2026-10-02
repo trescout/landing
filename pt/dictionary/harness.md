@@ -38,8 +38,8 @@ Definido pela equipe. Mantido alto no caminho crítico e baixo nas partes perif�
 
 ## Ferramentas relacionadas
 - [Jcode](/pt/discover/jcode/)
-- [Harness · Ajan Ekip Fabrikası](/pt/discover/harness/)
 - [Harness SDK](/pt/discover/harness-sdk/)
+- [Harness · Ajan Ekip Fabrikası](/pt/discover/harness/)
 - [Munder Difflin](/pt/discover/munder-difflin/)
 - [Claude Code Harness](/pt/discover/claude-code-harness/)
 

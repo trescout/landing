@@ -2,7 +2,7 @@
 
 O Mobile-mcp é um servidor de Protocolo de Contexto de Modelo (Model Context Protocol) que realiza automação e raspagem de dados em dispositivos móveis e simuladores. Esta ferramenta permite que modelos de inteligência artificial interajam diretamente com as plataformas iOS e Android para executar tarefas.
 
-- ★ 8.439
+- ★ 8.544
 - TypeScript
 - GitHub Trending · 2026-09-27
 

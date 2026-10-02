@@ -38,8 +38,8 @@ Se determina en equipo. Se mantiene alto en la ruta crítica y bajo en los márg
 
 ## Herramientas relacionadas
 - [Jcode](/es/discover/jcode/)
-- [Harness · Ajan Ekip Fabrikası](/es/discover/harness/)
 - [Harness SDK](/es/discover/harness-sdk/)
+- [Harness · Ajan Ekip Fabrikası](/es/discover/harness/)
 - [Munder Difflin](/es/discover/munder-difflin/)
 - [Claude Code Harness](/es/discover/claude-code-harness/)
 

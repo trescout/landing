@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Gestión de Memoria: Stack, Heap, Garbage Collection y Ownership · TreScout</title>
-<meta name="description" content="Aprenda gestión de memoria: asignación Stack vs Heap, recolector de basura (GC), modelo de Ownership en Rust, memoria virtual y OOM Killer.">
+<title>¿Qué es Memory Management? · Glosario · TreScout</title>
+<meta name="description" content="La gestión de memoria (memory management) es el proceso de asignar, proteger y devolver al sistema la memoria de acceso aleatorio (RAM) física y virtual de">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/memory-management/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/memory-management/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/memory-management/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/memory-management/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/memory-management.md">
-<meta property="og:title" content="Gestión de Memoria: Stack, Heap, Garbage Collection y Ownership · TreScout">
-<meta property="og:description" content="Aprenda gestión de memoria: asignación Stack vs Heap, recolector de basura (GC), modelo de Ownership en Rust, memoria virtual y OOM Killer.">
+<meta property="og:title" content="¿Qué es Memory Management?">
+<meta property="og:description" content="La gestión de memoria (memory management) es el proceso de asignar, proteger y devolver al sistema la memoria de acceso aleatorio (RAM) física y virtual de">
 <meta property="og:url" content="https://trescout.com/es/dictionary/memory-management/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -26,15 +26,15 @@
 <meta property="og:image:alt" content="¿Qué es Memory Management?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Gestión de Memoria: Stack, Heap, Garbage Collection y Ownership · TreScout">
-<meta name="twitter:description" content="Aprenda gestión de memoria: asignación Stack vs Heap, recolector de basura (GC), modelo de Ownership en Rust, memoria virtual y OOM Killer.">
+<meta name="twitter:title" content="¿Qué es Memory Management?">
+<meta name="twitter:description" content="La gestión de memoria (memory management) es el proceso de asignar, proteger y devolver al sistema la memoria de acceso aleatorio (RAM) física y virtual de">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Memory Management",
-  "description": "Es la colocación y limpieza periódica de datos para utilizar la memoria temporal de la computadora de manera eficiente.",
+  "description": "La gestión de memoria (memory management) es el proceso de asignar, proteger y devolver al sistema la memoria de acceso aleatorio (RAM) física y virtual de la computadora entre los programas en ejecución una vez que se termina de utilizar.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/memory-management/",
   "inDefinedTermSet": {
@@ -55,28 +55,31 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-
 <div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-19">Última actualización: 19 de septiembre de 2026</time></div>
-
-<h1 class="disc-title">Memory Management <span class='disc-accent'>Stack, Heap, recolector de basura y memoria del SO</span></h1>
-
-<p class="disc-lead">La gestión de memoria (memory management) es la disciplina informática y del sistema operativo que coordina cómo se asigna, rastrea y recicla la memoria RAM a lo largo de la ejecución de un programa.</p>
-
-<section class="disc-sec"><h2>1. Anatomía de la Memoria: Separación entre Stack y Heap</h2><p>Todo software en ejecución distribuye su espacio de trabajo en memoria en dos áreas diferenciadas :</p><ul><li><strong>Memoria de Pila (Stack):</strong> Estructura secuencial de tipo LIFO (último en entrar, primero en salir) gestionada de forma directa por el procesador. Guarda las variables locales y marcos de función. La asignación consiste en desplazar el puntero RSP, resultando instantánea y liberándose automáticamente al terminar la función.</li><li><strong>Memoria de Montículo (Heap):</strong> Área extensa de asignación dinámica pensada para objetos de tamaño variable que deben persistir fuera del ámbito local. Requiere llamadas al asignador del sistema, lo que conlleva mayor flexibilidad pero menor velocidad.</li></ul></section>
-
-<section class="disc-sec"><h2>2. Tres Paradigmas Fundamentales de Gestión de Memoria</h2><p>Los lenguajes de programación se dividen en tres grandes modelos de control :</p><ol><li><strong>Gestión Manual (C, C++):</strong> El desarrollador reserva bloques mediante <code>malloc()</code> y debe liberarlos obligatoriamente con <code>free()</code>. Ofrece la máxima velocidad, pero conlleva peligros de fugas de memoria o fallos graves de seguridad por desbordamiento.</li><li><strong>Recolección Automática de Basura (Java, Go, JavaScript, Python):</strong> Un recolector (Garbage Collector) escanea la memoria en segundo plano para liberar los objetos que ya no tienen referencias activas, a cambio de pequeñas pausas de CPU.</li><li><strong>Propiedad y Préstamo en Tiempo de Compilación (Rust):</strong> Garantiza la seguridad de memoria sin recolector mediante reglas de Ownership que verifican el ciclo de vida de los datos antes de compilar y liberan la memoria de forma determinista.</li></ol></section>
-
-<section class="disc-sec"><h2>3. Nivel de Sistema Operativo: Memoria Virtual y OOM Killer</h2><p>Por debajo del software de usuario, el núcleo del sistema operativo administra los módulos de RAM mediante la MMU :</p><ul><li><strong>Memoria Virtual y Paginación:</strong> Cada programa interactúa con un espacio lógico de memoria dividido en páginas de 4 KB que la MMU traduce a posiciones físicas reales.</li><li><strong>Fallos de Página (Page Faults) y Swap:</strong> Cuando el sistema requiere datos que fueron derivados temporalmente al disco duro, se produce un fallo de página para volver a cargarlos en RAM.</li><li><strong>OOM Killer (Out Of Memory):</strong> Cuando la memoria física se agota por completo, el núcleo Linux invoca el OOM Killer para abortar los procesos que más memoria consumen y evitar el colapso del equipo.</li></ul></section>
-
-<div class="dict-analogy">La memoria de pila es como un montón de platos donde se apilan y recogen piezas ágilmente desde arriba; la memoria de montículo es como un almacén de paquetería donde se guardan cajas de cualquier tamaño llevando un registro para no olvidarlas.</div>
-
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Qué diferencia hay entre la memoria Stack y la memoria Heap?</p><p class="dict-faq-a">La Stack es automática, instantánea y limitada al ámbito de una función; la Heap es flexible, amplia y exige control manual o recolección de basura.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué consecuencias tiene una fuga de memoria (memory leak)?</p><p class="dict-faq-a">Consume recursos de RAM progresivamente sin liberarlos, degradando el rendimiento general hasta que la aplicación colapsa.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo gestiona Rust la memoria sin usar recolector de basura?</p><p class="dict-faq-a">Mediante su sistema de reglas de propiedad (Ownership) validadas por el compilador, que programa la liberación exacta de la memoria de forma determinista.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la función del OOM Killer en Linux?</p><p class="dict-faq-a">Cerrar procesos consumidores cuando la memoria RAM se agota por completo para salvar la estabilidad del sistema operativo.</p></div></div></section>
-
+<h1 class="disc-title">¿Qué es <span class="disc-accent">Memory Management</span>?</h1>
+<p class="disc-lead">La gestión de memoria (memory management) es el proceso de asignar, proteger y devolver al sistema la memoria de acceso aleatorio (RAM) física y virtual de la computadora entre los programas en ejecución una vez que se termina de utilizar.</p>
+<section class="disc-sec"><h2>1. Anatomía de la memoria: distinción entre Stack (Pila) y Heap (Montículo)</h2><p>Cuando se ejecuta un programa, el sistema operativo asigna un espacio de memoria virtual específico para ese proceso. Los dos componentes más críticos de este espacio son el Stack y el Heap:</p><pre><code>+------------------------------------+ Yüksek Bellek Adresleri (0xFFFFFFFF)
+|           İşletim Sistemi / Kernel |
++------------------------------------+
+|  STACK (Aşağıya doğru büyür ↓)     | &lt;-- Yerel değişkenler, fonksiyon çerçeveleri
+|                 ↓                  |
+|                                    |
+|                 ↑                  |
+|  HEAP (Yukarıya doğru büyür ↑)     | &lt;-- Dinamik nesneler (malloc, new)
++------------------------------------+
+|  BSS (İlklendirilmemiş Global)     |
++------------------------------------+
+|  DATA (İlklendirilmiş Statik Veri) |
++------------------------------------+
+|  TEXT (Makine Kodu / Talimatlar)   |
++------------------------------------+ Düşük Bellek Adresleri (0x00000000)</code></pre><ul><li>Stack (Pila): Es gestionada automáticamente por la arquitectura de la CPU (LIFO). Es extremadamente rápida (solo se desplaza el registro del puntero de pila). Sin embargo, su tamaño es fijo (1MB - 8MB) y provoca un Stack Overflow en caso de recursión infinita.</li><li>Heap (Montículo): Gestionado por el desarrollador o el entorno de ejecución (Runtime) del lenguaje. Se reserva para objetos dinámicos; puede crecer hasta el límite de la memoria RAM física y el espacio de intercambio (swap). Si no se limpia, provoca fugas de memoria (Memory Leak) y fragmentación.</li></ul></section>
+<div class="dict-analogy"><strong>Analogía:</strong> La pila (Stack) es la torre de documentos en su escritorio; coloca los documentos entrantes en la parte superior y, cuando termina, toma el de arriba al instante; el tiempo de colocación es cero. El montón (Heap) es como un gran almacén; va con el encargado, pide un estante vacío para una caja, el encargado busca un lugar adecuado, le da la llave y, si olvida devolver el estante al encargado cuando termina, el almacén se vuelve inutilizable en poco tiempo.</div>
+<section class="disc-sec"><h2>2. Tres paradigmas fundamentales de gestión de memoria</h2><ul><li>Gestión manual de memoria (C, C++): El desarrollador gestiona la memoria personalmente mediante malloc() y free(). Ofrece la máxima velocidad y latencia cero; sin embargo, conlleva los riesgos de fugas, punteros colgantes (dangling pointers) y Use-After-Free, que son la causa de más del 70% de las vulnerabilidades de seguridad en el mundo del software.</li><li>Recolección de basura (Garbage Collection - Java, Go, Python, JS): El programador no realiza la eliminación; el motor de GC que se ejecuta en segundo plano limpia los objetos huérfanos inalcanzables desde las referencias raíz mediante algoritmos de Mark-and-Sweep o Reference Counting. Sin embargo, los escaneos periódicos pueden provocar micro pausas (Stop-The-World).</li><li>Modelo de Propiedad y Préstamo (Ownership &amp; Borrowing - Rust): El compilador de Rust verifica en tiempo de compilación que cada bloque de memoria tenga un único propietario. Sin ejecutar un recolector de basura, garantiza un 100% de seguridad de memoria (Memory Safety) a la velocidad de C.</li></ul></section>
+<section class="disc-sec"><h2>3. Memoria a nivel de sistema operativo: Memoria virtual y OOM Killer</h2><p>Los sistemas operativos modernos utilizan una arquitectura de memoria virtual y paginación para evitar que los programas lean la memoria de los demás. La Unidad de Gestión de Memoria (MMU) de la CPU traduce las direcciones virtuales a direcciones físicas en el hardware con la ayuda de la caché TLB. Cuando la memoria RAM física y el espacio de intercambio (swap) se agotan por completo, el mecanismo OOM Killer (Out of Memory Killer) del kernel de Linux termina el proceso más agresivo con una señal SIGKILL para salvar el sistema.</p></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Qué significa &#39;Memory management&#39; y cuál es su equivalente en español?</p><p class="dict-faq-a">Memory Management significa &quot;gestión de memoria&quot; en español. Es el conjunto de procesos de asignación, seguimiento y liberación de recursos de RAM durante la ejecución de un programa informático.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la diferencia fundamental entre Stack y Heap?</p><p class="dict-faq-a">La pila (Stack) gestiona las variables locales conocidas en tiempo de compilación de forma extremadamente rápida con lógica LIFO; el montón (Heap) es un grupo de memoria flexible, reservado para objetos que crecen dinámicamente en tiempo de ejecución, cuya gestión es más compleja.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo funciona el Garbage Collection (Recolector de basura)?</p><p class="dict-faq-a">En lenguajes donde el programador no realiza la eliminación manual (Java, Go, JS, etc.), un motor que se ejecuta en segundo plano detecta los objetos huérfanos a los que no se puede acceder desde las variables raíz y limpia la RAM.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo se evita una fuga de memoria (Memory Leak)?</p><p class="dict-faq-a">En lenguajes manuales, escribiendo un &#39;free&#39; por cada &#39;malloc&#39; o estableciendo patrones RAII; en lenguajes con recolector de basura, limpiando las referencias globales a arreglos y los escuchadores de eventos (event listeners) que no se cierran.</p></div></div></section>
 <section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/runtime/">Runtime</a><a href="/es/dictionary/state-management/">State Management</a><a href="/es/dictionary/serialization/">Serialization</a><a href="/es/dictionary/network-stack/">Network Stack</a><a href="/es/dictionary/assembly/">Assembly</a></div></section>
-
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="memory-management" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
-
-<div class="dict-disclaimer">Esta explicación se redactó en lenguaje llano para TreScout y se <strong>tradujo automáticamente</strong> a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/memory-management/">Leer en turco →</a></div>
+<p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/memory-management/">Leer en turco →</a></p>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>
