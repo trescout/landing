@@ -92,6 +92,61 @@
         {
           "key": "Cache-Control",
           "value": "public, max-age=600, stale-while-revalidate=3600"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex"
+        }
+      ]
+    },
+    {
+      "source": "/reports/trescout-rapor-:tarih(\\d{4}-\\d{2}-\\d{2}).pdf",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://trescout.com/reports/:tarih/>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/reports/trescout-rapor-tekrarsiz-:tarih(\\d{4}-\\d{2}-\\d{2}).pdf",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://trescout.com/reports/tekrarsiz/:tarih/>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/reports/trescout-report-:tarih(\\d{4}-\\d{2}-\\d{2})-:dil(en|fr|pt|es|de).pdf",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://trescout.com/:dil/reports/:tarih/>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/reports/trescout-report-fresh-:tarih(\\d{4}-\\d{2}-\\d{2})-:dil(en|fr|pt|es|de).pdf",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://trescout.com/:dil/reports/fresh/:tarih/>; rel=\"canonical\""
+        }
+      ]
+    },
+    {
+      "source": "/(.*privacy\\.html)",
+      "has": [
+        {
+          "type": "query",
+          "key": "embed"
+        }
+      ],
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex"
         }
       ]
     },
