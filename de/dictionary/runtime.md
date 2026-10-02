@@ -1,31 +1,36 @@
 # Was ist Runtime?
 
-Es ist der Moment, in dem eine Software auf dem Computer ausgeführt wird und die Umgebung, die sie für diesen Prozess benötigt.
+Unter Laufzeit versteht man den Zeitraum, in dem ein Programm nach der Kompilierungsphase tatsächlich im Prozessor und Speicher des Computers ausgeführt wird, sowie die Software-Infrastruktur (Laufzeitumgebung), die diese Ausführung ermöglicht.
 
-## Definition
-Die Zeit, zu der der Code geschrieben wird, und die Zeit, zu der er ausgeführt wird, sind unterschiedlich. Laufzeit bezieht sich auf den Prozess, bei dem der Code keine Datei mehr ist, sondern aktiv im Prozessor und Speicher des Computers gespeichert ist.
+## 1. Zwei grundlegende Bedeutungen des Laufzeitbegriffs
+In der Softwareentwicklung bezeichnet der Begriff „Runtime“ je nach Kontext zwei unterschiedliche Konzepte:
 
-## So funktioniert es
-Wenn das Programm gestartet wird, weist der Computer die erforderlichen Ressourcen zu und verarbeitet die Codes Zeile für Zeile, sodass sie für die Benutzerinteraktion bereit sind.
+## 2. Unterschied zwischen Kompilierungszeit und Laufzeit
 
-## Wo es eingesetzt wird
-Es wird verwendet, um die Live-Leistung des Programms während Softwareentwicklungs- und Debugging-Prozessen zu überwachen.
+## 3. Verwaltete vs. nicht verwaltete Laufzeiten
 
-## Häufig verwechselt mit
-Es wird mit der Kompilierungszeit verwechselt; Kompilierungszeit ist Vorbereitung, Laufzeit ist Ausführung.
+## 4. Moderne JavaScript-Laufzeitkriege: Node.js vs. Deno vs. Bun
 
 ## Häufige Fragen
-**Was bedeutet Laufzeitfehler?**
-Dies geschieht, wenn das Programm während der Ausführung auf eine unerwartete Situation stößt und abstürzt oder einen Fehler ausgibt.
+**Was bedeutet Laufzeit, was ist ihr türkisches Äquivalent?**
+Auf Türkisch heißt es „Laufzeit“ oder „Ausführungsumgebung“. Es beschreibt den Zeitraum, in dem ein Programm seinen Quellcode verlässt und tatsächlich auf der Computerhardware und der Softwareschicht läuft, die diese Arbeit unterstützt.
 
-**Hat jede Software eine Laufzeit?**
-Ja, jede lauffähige Software benötigt eine Arbeitsumgebung.
+**Was ist ein Laufzeitfehler?**
+Es handelt sich um einen Fehler, der die Kompilierungsphase erfolgreich durchläuft, aber dazu führt, dass die Anwendung aufgrund einer unerwarteten Situation (Division durch Null, Zugriff auf ein leeres Objekt, unzureichender RAM) während der Ausführung des Programms plötzlich abstürzt.
+
+**Ist Node.js eine Programmiersprache oder eine Laufzeitumgebung?**
+Node.js ist keine Sprache; Es handelt sich um eine Open-Source-JavaScript-Laufzeitumgebung, die die Ausführung von JavaScript-Code auf Servern und Computern ermöglicht, ohne dass ein Browser erforderlich ist.
+
+**Wie funktioniert JIT (Just-In-Time) während der Kompilierungslaufzeit?**
+Der JIT-Compiler erkennt häufig verwendete Codeblöcke („Hot Paths“) sofort, während das Programm ausgeführt wird, und konvertiert diese Blöcke zur Laufzeit in nativen Maschinencode, wodurch die Leistung der Anwendung erhöht wird.
 
 
 ## Verwandte Begriffe
-- [Compile-time](/de/dictionary/compile-time/)
-- [State Management](/de/dictionary/state-management/)
-- [API](/de/dictionary/api/)
+- [Memory Management](/de/dictionary/memory-management/)
+- [Assembly](/de/dictionary/assembly/)
+- [Compilation](/de/dictionary/compilation/)
+- [Bundler](/de/dictionary/bundler/)
+- [Tech Stack](/de/dictionary/tech-stack/)
 
 ## Verwandte Werkzeuge
 - [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
@@ -33,9 +38,9 @@ Ja, jede lauffähige Software benötigt eine Arbeitsumgebung.
 - [Deno](/de/discover/deno/)
 - [BUN](/de/discover/bun/)
 - [Svelte](/de/discover/svelte/)
+- [Wand-Enhancer](/de/discover/wand-enhancer/)
 - [Onnxruntime](/de/discover/onnxruntime/)
-- [Flue](/de/discover/flue/)
-- [Switchyard](/de/discover/switchyard/)
+- [Univer](/de/discover/univer/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/runtime/

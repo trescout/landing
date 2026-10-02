@@ -42564,15 +42564,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastructure as code) tanımlayarak güvenli ve öngörülebilir şekilde oluşturulmasına olanak tanır. Go diliyle yazılan bu araç, uygulama programlama arayüzlerini (API) bildirimsel yapılandırma dosyalarına dönüştürerek ekiplerin altyapı süreçlerini sürüm kontrolü altında yönetmesini sağlar.
 
-- ★ 49.758
+- ★ 49.812
 - Go
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 49.758 → 49.812, son sürüm v1.16.5 (2 Ekim 2026).
 - 27 Eylül 2026: Yıldız 49.674 → 49.758, son sürüm v1.16.4 (23 Eylül 2026).
 - 17 Eylül 2026: Yıldız 49.631 → 49.674, son sürüm v1.16.3 (16 Eylül 2026).
 - 10 Eylül 2026: Yıldız 49.611 → 49.631, son sürüm v1.16.2 (9 Eylül 2026).
-- 3 Eylül 2026: Yıldız 49.546 → 49.611, son sürüm v1.16.1 (2 Eylül 2026).
 
 ## Ne kazandırır?
 - Altyapı süreçlerini sürüm kontrolü ile yönetme
@@ -50134,15 +50134,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.
 
-- ★ 23.816
+- ★ 23.846
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 23.816 → 23.846, son sürüm v0.6.31 (2 Ekim 2026).
 - 2 Ekim 2026: Yıldız 22.868 → 23.816, son sürüm v0.6.30 (2 Ekim 2026).
 - 30 Eylül 2026: Yıldız 21.950 → 22.868, son sürüm v0.6.29 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 21.621 → 21.950, son sürüm v0.6.28 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 21.615 → 21.621, son sürüm v0.6.27 (28 Eylül 2026).
 
 ## Ne kazandırır?
 - Yüzden fazla veritabanı türünü destekler.
@@ -51808,16 +51808,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 iii , backend yığınınızdaki tüm servisleri (kuyruk, cron, HTTP, state, gözlemlenebilirlik, ajanlar, sandbox) gerçek zamanlı oluşturma, genişletme ve izleme yöntemidir. Normalde ayrı entegrasyon zorlukları çıkaran parçaları tek bir noktadan yönetilebilir kılar.
 
-- ★ 18.809
+- ★ 18.824
 - Rust
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 18.809 → 18.824, son sürüm iii/v0.24.4 (2 Ekim 2026).
 - 27 Eylül 2026: Yıldız 18.767 → 18.809, son sürüm iii/v0.24.3 (25 Eylül 2026).
 - 18 Eylül 2026: Yıldız 18.662 → 18.767, son sürüm iii/v0.24.0 (17 Eylül 2026).
 - 2 Eylül 2026: Yıldız 18.570 → 18.662, son sürüm iii/v0.23.0 (1 Eylül 2026).
-- 7 Ağustos 2026: Yıldız 18.547 → 18.570, son sürüm iii/v0.22.1 (7 Ağustos 2026).
 
 - **Kimin için:** Backend / altyapı geliştiren ekipler 
 - **Zorluk:** İleri · geliştirici aracı 
@@ -58480,11 +58480,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, yapay zekâ modellerinin iOS ve Android platformlarıyla doğrudan etkileşime girerek görevleri yürütmesini sağlar.
 
-- ★ 8.544
+- ★ 8.549
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 8.544 → 8.549, son sürüm 1.0.8 (2 Ekim 2026).
 - 2 Ekim 2026: Yıldız 8.439 → 8.544, son sürüm 1.0.7 (1 Ekim 2026).
 - 30 Eylül 2026: Yıldız 7.665 → 8.439, son sürüm 1.0.6 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 7.586 → 7.665, son sürüm 1.0.4 (13 Eylül 2026).

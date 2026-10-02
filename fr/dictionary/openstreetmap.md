@@ -1,48 +1,37 @@
-# Qu'est-ce qu'OpenStreetMap (OSM) ?
+# Qu'est-ce que OpenStreetMap ?
 
-> Anglais : OpenStreetMap · Étymologie : anglais open (ouvert) + street (rue) + map (carte)
+OpenStreetMap (OSM en abrégé) est une carte du monde gratuite et ouverte élaborée par des bénévoles.
 
-**Catégorie:** Data  
-**Dernière mise à jour:** 2026-09-22
+## Définition et origine du mot
+Le projet a été lancé en 2004. Contrairement aux cartes commerciales, les données ne sont pas produites par une entreprise, mais par une communauté de bénévoles : n'importe qui peut ajouter de nouvelles routes, bâtiments ou points de repère, et corriger les erreurs. Les données sont accessibles au public sous une licence ODbL. Cela signifie que vous pouvez utiliser les données gratuitement, mais vous devez indiquer la source lors du partage.
 
-OpenStreetMap (OSM) est une base de données géographiques mondiale, libre et collaborative, créée et constamment enrichie par des millions de contributeurs bénévoles à travers la planète.
-
-## Définition et étymologie
-Lancé en 2004 par Steve Coast en réaction aux restrictions imposées par les cartographes propriétaires, OpenStreetMap est souvent désigné comme le Wikipédia de la cartographie. Contrairement aux services commerciaux qui facturent chaque affichage de tuile géographique, OSM met à disposition ses données vectorielles brutes sous licence libre ODbL.
-
-## Usage quotidien et contexte pratique
-Applications directes d'OpenStreetMap dans le numérique :
-- **Navigation mobile hors ligne :** Des applications comme OsmAnd, Organic Maps ou MAPS.ME fonctionnent sans connexion grâce aux données OSM.- **Services technologiques :** Des entreprises comme Strava, Mapbox et Apple exploitent les calques OSM pour enrichir leurs produits.- **Aide humanitaire d'urgence :** L'équipe HOT (Humanitarian OpenStreetMap Team) cartographie les zones de crise pour guider les secours sur le terrain.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Applications de navigation : Des applications telles que OsmAnd et MAPS.ME obtiennent leurs cartes à partir des données OSM.Logistique : Planification des itinéraires des sociétés de distribution.Secours en cas de catastrophe : Les bénévoles cartographient rapidement les zones de crise (par exemple la communauté HOT).Urbanisme: Analyse de pistes cyclables et d'espaces verts.
 
 ## Profondeur technique et architecture
-Le modèle de données d'OSM repose sur trois primitives géométriques :
-- **Nœud (Node) :** Point géographique précis repéré par ses coordonnées de latitude et longitude.- **Ligne (Way) :** Suite ordonnée de nœuds formant un tracé linéaire (rue, sentier) ou un polygone fermé (contour d'immeuble, forêt).- **Relation :** Structure logique regroupant plusieurs nœuds et lignes pour modéliser des lignes de bus ou des frontières complexes.- **Étiquettes Clé/Valeur (Tags) :** Attributs sémantiques universels (ex. highway=residential, amenity=pharmacy).
+Les données OSM se composent de trois éléments constitutifs :
 
-## Perspectives interdisciplinaires
-Analogies avec d'autres initiatives de biens communs :
-- **Encyclopédies :** Le modèle d'écriture et de relecture collective de Wikipédia.- **Logiciel libre :** L'effort collectif mondial autour du noyau Linux mêlant passionnés et grandes entreprises.- **Sciences participatives :** Les réseaux d'observation citoyenne de la faune ou des relevés météorologiques locaux.
+## Utilisation dans différentes disciplines
+Encyclopédie: Le modèle Wikipédia où tout le monde écrit et édite.Logiciel open source : Noyau Linux en croissance avec contribution volontaire.Science citoyenne : Collecte des enregistrements d'observations d'oiseaux dans une base de données commune.
 
-## Par analogie
-C'est comme le Wikipédia des cartes géographiques : chacun peut ajouter le nouveau sentier de son quartier, corriger le nom d'une rue et contribuer à un atlas universel appartenant à tous.
+## Foire aux questions
+**Est-ce vraiment gratuit ?**
+Les données sont gratuites avec une licence ODbL. Si vous l'hébergez sur votre propre serveur, vous ne paierez aucun frais supplémentaire. Les entreprises proposant des services de carrelage prêts à l'emploi peuvent facturer des frais supplémentaires.
 
-## Questions fréquentes
+**Quelle est la différence avec Google Maps ?**
+Google produit les données en interne et les lie aux quotas de l'API. Les données OSM sont produites par la communauté, vous pouvez télécharger les données brutes et les traiter de manière illimitée.
 
-**L'utilisation d'OpenStreetMap est-elle vraiment gratuite ?**  
-Oui, les données sont fournies sous licence ODbL, autorisant l'usage personnel et commercial sous réserve de citer la source.
+**Comment puis-je contribuer à la carte ?**
+Vous pouvez créer un compte et démarrer avec l'éditeur iD dans le navigateur. Ajouter le magasin manquant dans votre rue est une bonne première étape.
 
-**Comment la qualité des données est-elle vérifiée sans géomètres officiels ?**  
-Grâce aux outils de relecture communautaire, aux détecteurs automatiques d'incohérences et à la veille des contributeurs locaux.
+**Puis-je l'utiliser dans mon produit commercial ?**
+Oui, mais comme l'exige ODbL, vous devez visiblement fournir l'attribution OpenStreetMap et partager les données dérivées avec la même licence.
 
-**Une entreprise peut-elle héberger son propre serveur cartographique OSM ?**  
-Tout à fait ; la chaîne logicielle libre (PostGIS, Mapnik) permet de déployer son propre serveur de tuiles sans dépendre d'un tiers.
-
-**Quelle est la différence fondamentale avec Google Maps ?**  
-Google Maps est un service propriétaire dont les données restent fermées ; OSM distribue la donnée brute, manipulable et téléchargeable à volonté.
 
 ## Termes liés
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
-- [Open Source](/fr/dictionary/open-source/)
-- [API](/fr/dictionary/api/)
+- [OSINT](/fr/dictionary/osint/)
+- [Graph-based Investigation](/fr/dictionary/graph-based-investigation/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/openstreetmap/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/openstreetmap/

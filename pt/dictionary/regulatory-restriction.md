@@ -1,47 +1,37 @@
-# O que são Restrições Regulatórias (Regulatory Restrictions)?
+# O que é Regulatory Restriction?
 
-> Inglês: Regulatory Restriction · Etimologia: latim regulare (regular) + restringere (conter, amarrar)
+A restrição regulatória é o quadro jurídico que limita o desenvolvimento, utilização de dados, distribuição ou exportação de tecnologias por governos, autoridades internacionais ou organismos reguladores sectoriais com regras vinculativas.
 
-**Categoria:** Dev  
-**Última atualização:** 2026-09-19
+## Definição e Significado (Significado das Restrições Regulatórias)
+O conceito de "Restrições regulatórias" é denominado restrições regulatórias, limitações legislativas ou obstáculos à regulamentação legal em turco. É especialmente aplicado para garantir os direitos dos utilizadores, a privacidade dos dados e a segurança pública em áreas críticas como a inteligência artificial (IA), as tecnologias financeiras (FinTech), a saúde e a criptografia.
 
-Restrições regulatórias (regulatory restrictions) são obrigações legais, parâmetros de conformidade e limites operacionais determinados por governos e agências reguladoras sobre a criação, circulação e uso de tecnologias.
+## Principais áreas de regulamentação e restrição
+Privacidade e Soberania de Dados (KVKK, GDPR, CCPA): Proíbe a recolha, processamento ou transferência não autorizada de dados pessoais dos utilizadores para servidores em nuvem transfronteiriços sem consentimento.
 
-## Definição e alcance das restrições regulatórias
-O conceito une regulamentação (normas estatais obrigatórias) e restrição (fronteiras jurídicas que delimitam a atuação). Ao contrário de diretrizes internas corporativas, restrições regulatórias possuem força de lei; desrespeitá-las acarreta multas milionárias, bloqueios judiciais e perda de autorização operacional.
-
-## Principais áreas de impacto regulatório
-Marcos legais que afetam diretamente o desenvolvimento de software :
-- **Privacidade e Soberania de Dados (LGPD, GDPR):** Consentimento inequívoco, direito de revogação e controle sobre envio internacional de dados.- **Regulamentação de Inteligência Artificial (EU AI Act):** Divisão de modelos em faixas de risco e exigência de transparência em conjuntos de dados de treino.- **Setor Financeiro e Pagamentos (Bacen, PCI-DSS):** Segurança na custódia de dados de cartões e sistemas rígidos contra lavagem de dinheiro.- **Cibersegurança e Resiliência (CRA):** Obrigatoriedade de inventários de componentes (SBOM) e correção de falhas em prazos estipulados.
-
-## Importância para engenheiros : conformidade por design
-A observância das normas deve guiar o código desde a concepção :
-- **Privacidade por Padrão (Privacy by Design):** Armazenamento local minimizado e criptografia forte em repouso e trânsito.- **Testes de Conformidade Contínua:** Scanners integrados ao pipeline de deploy que barram dependências inseguras ou com licenças incompatíveis.- **Trilhas de Auditoria:** Registros inalteráveis sobre quem acessou ou alterou registros cadastrais.
+## Importância para desenvolvedores: compatibilidade desde o design
+As equipes de software devem observar padrões regulatórios e de segurança ao projetar a arquitetura (Compliance by Design/Privacy by Design), e não na fase final do projeto. Caso contrário, existe o risco de os produtos serem removidos das lojas de aplicações ou de o acesso aos mercados-alvo ser bloqueado.
 
 ## Costuma ser confundido com
-Costuma-se confundir com os termos de uso (ToS) de uma plataforma. Os termos de uso são regras contratuais privadas criadas por empresas; as restrições regulatórias são leis estatais universais de cumprimento obrigatório.
-
-## Por analogia
-É como uma montadora projetar um carro de grande potência: mesmo que o motor atinja altas velocidades, a legislação estatal obriga a inclusão de freios ABS, airbags e filtros de poluentes.
+As políticas internas da plataforma (Termos de Serviço/Política de Uso Aceitável) não devem ser confundidas com restrições regulatórias legais. As regras da plataforma são as preferências comerciais das próprias empresas; As restrições regulatórias são leis estaduais que, se violadas, resultam em multas pesadas e sanções legais relativas ao faturamento da empresa.
 
 ## Perguntas frequentes
+**Significado das restrições regulatórias?**
+Estas são restrições legais impostas por estados ou instituições independentes autorizadas a produtos tecnológicos para fins de segurança pública, direitos do consumidor e privacidade de dados.
 
-**Projetos open source precisam seguir essas normas?**  
-Quando o código aberto é incorporado em serviços comerciais ou produtos corporativos comercializados, as obrigações legais se aplicam integralmente.
+**Como garantir a conformidade regulatória em projetos de software?**
+A criptografia de dados é obtida por meio de controle de acesso baseado em funções, auditorias regulares de segurança e projetos arquitetônicos coordenados com especialistas jurídicos.
 
-**Qual o risco de ignorar leis como a LGPD ou GDPR?**  
-Multas elevadas sobre o faturamento, interdição do banco de dados e dano grave à credibilidade institucional.
+**O que a Lei de Inteligência Artificial da União Europeia (Lei de IA da UE) restringe?**
+Ela restringe os sistemas cognitivos que manipulam o comportamento humano, a classificação biométrica e os algoritmos de caixa preta opacos em áreas de alto risco, como o recrutamento.
 
-**O que significa Privacy by Design na prática?**  
-Significa estruturar o banco de dados e a arquitetura de rede para coletar apenas o mínimo estritamente necessário para o serviço funcionar.
+**Qual é a penalidade pelo não cumprimento das restrições regulatórias?**
+De acordo com o GDPR, podem ocorrer multas de até 4% do faturamento global anual, proibições completas do produto em determinados países e graves perdas de reputação.
 
-**Como leis de IA afetam modelos fundacionais?**  
-Exigem documentação auditável sobre direitos autorais nos dados de treinamento e testes prévios contra alucinações e riscos cibernéticos.
 
 ## Termos relacionados
 - [Open Source](/pt/dictionary/open-source/)
-- [GDPR](/pt/dictionary/gdpr/)
-- [Digital Privacy](/pt/dictionary/digital-privacy/)
+- [AI Models](/pt/dictionary/ai-models/)
+- [Secrets](/pt/dictionary/secrets/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/regulatory-restriction/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/regulatory-restriction/

@@ -1,54 +1,40 @@
 # Was ist Open Source AI?
 
-> Quelloffene Künstliche Intelligenz
-
-**Kategorie:** AI  
-**Letzte Aktualisierung:** 2026-09-22
-
-Open Source AI (quelloffene KI) bezeichnet Systeme der künstlichen Intelligenz, deren Trainingscode, Modellgewichte und Datenverarbeitungsmethoden unter freien Lizenzen für jedermann öffentlich zugänglich sind.
+Open-Source-KI (auf Türkisch Open-Source-Künstliche Intelligenz) sind Modelle, deren Gewichte und Codes von jedem untersucht und ausgeführt werden können.
 
 ## Definition und Wortherkunft
-Aufbauend auf den bewährten Prinzipien der Open-Source-Bewegung demokratisiert Open-Source-KI technologische Kernkompetenzen. Sie verhindert die Abhängigkeit von Plattform-Monopolen und erlaubt die unabhängige Prüfung, Anpassung und lokale Ausführung von Modellen.
+Im Gegensatz zu geschlossenen Modellen sind diese Modelle transparent: Jeder, der möchte, kann sie herunterladen, mit den eigenen Daten untersuchen und Änderungen daran vornehmen. Bekannte Beispiele sind Llama, Mistral und DeepSeek. Es lässt sich argumentieren, dass auch Trainingsdaten offen sein sollten; OSI führt zu diesem Thema eine separate Definitionsstudie durch.
 
-## Alltägliche Anwendung und Praxis
-- **Souveräner Unternehmensbetrieb:** Ausführung von Sprachmodellen in abgeschotteten Firmennetzwerken ohne Datenabfluss an Dritte.
-- **Branchenspezifisches Fine-Tuning:** Gezieltes Nachtraining mit vertraulichen Konstruktionsplänen, Finanzberichten oder Rechtsakten.
-- **Wissenschaftliche Reproduzierbarkeit:** Unabhängige universitäre Forschung zu Funktionsweise, Halluzinationen und Sicherheitsarchitekturen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Lokaler Chat: Persönlicher Assistent, der ohne Internet funktioniert.Forschung: Basismodell getestet.Institutionell: Inhouse-Lösung ohne Datenauslagerung.
 
 ## Technische Tiefe und Architektur
-Säulen echter offener KI:- **Freie Gewichte und Quelltexte:** Vollständiger Zugriff auf Inferenzskripte und unkomprimierte FP16-Tensor-Dateien.
-- **Offenlegung der Datenpipeline:** Transparente Dokumentation der genutzten Trainingskorpora und Filterregeln.
-- **Standardisierte Laufzeitumgebungen:** Breite Unterstützung durch Frameworks wie vLLM, Ollama und llama.cpp für effiziente lokale Inferenz.
+Komponenten:
 
-## Häufig verwechselt mit
-Wird häufig mit reinen 'Open-Weight'-Veröffentlichungen verwechselt, die zwar Modellgewichte anbieten, den Trainingsprozess jedoch geheim halten. Echte Open-Source-KI erfüllt die Kriterien der Open Source Initiative (OSI).
+## Häufig gemischte Dinge
+Kann mit offenen Gewichten gemischt werden. „Offene Gewichte“ bedeutet nur, dass die Gewichte offen sind. Open-Source-KI hingegen umfasst auch Code- und Prozesstransparenz, ihr Anwendungsbereich ist breiter.
 
-## Interdisziplinäre Perspektiven
-- **Kochkunst:** Das vollständige Originalrezept eines Meisterkochs veröffentlichen vs. Speisen aus einer verriegelten Küche servieren.
-- **Maschinenbau:** Offene Baupläne eines Elektromotors zur freien Reparatur vs. herstellerversiegelte Antriebseinheiten.
-- **Wissenschaft:** Open-Access-Fachaufsätze mit offenen Forschungsdaten vs. geschützte Betriebsgeheimnisse.
+## Einsatz in verschiedenen Disziplinen
+Rezept: Rezept mit Zutaten und Maßangaben geteilt.Lehrbuch: Open Source, das jeder lesen und bearbeiten kann.Samenbank: Von Landwirten geteilter Ahnensamen.
 
-## Als Analogie
-Statt die Rezeptur geheim zu halten, teilt man Zutaten und Zubereitungsschritte offen, damit jeder Gastronom das Gericht studieren, nachkochen und verfeinern kann.
+## Häufig gestellte Fragen
+**Sind Open-Source-Modelle schwächer?**
+Früher war das so, aber heute konkurrieren viele offene Modelle mit ihren geschlossenen Konkurrenten. Geschlossene Modelle haben im Rennen um die Spitze die Nase vorn, doch in der Praxis hat sich der Abstand verringert.
 
-## Häufige Fragen
+**Warum sollte ich Open Source verwenden?**
+Für Datenschutz, Kosten und vollständige Integration. Ihre Daten gehen nicht raus und Sie zahlen keine Lizenzgebühr.
 
-**Was unterscheidet Open-Source-KI von Open-Weight-KI?**  
-Open-Weight stellt lediglich die fertigen Modellgewichte bereit; echte Open-Source-KI legt auch den vollständigen Trainingscode und die Datenrezeptur offen.
+**Ist eine kommerzielle Nutzung erlaubt?**
+Es variiert je nach Lizenz. Apache und MIT sind kostenlos, einige Community-Lizenzen sehen eine Benutzerzahl- oder Umsatzbegrenzung vor.
 
-**Können offene Modelle mit geschlossenen kommerziellen Modellen mithalten?**  
-Ja, führende offene Architekturen (DeepSeek, Llama, Mistral) erzielen in Industriestandard-Benchmarks vergleichbare oder überlegene Resultate.
+**Womit sollte man beginnen?**
+Beginnen Sie lokal mit kleinen, quantisierten Modellen. Wenn der Bedarf wächst, verschieben Sie es auf den Server.
 
-**Ist der Einsatz im Unternehmen datenschutzkonform?**  
-Ja, da sämtliche Inferenzberechnungen auf eigener Hardware ohne Datenübertragung an Cloud-Konzerne erfolgen.
-
-**Welche Lizenzen kommen typischerweise zum Einsatz?**  
-Klassische Open-Source-Lizenzen wie Apache 2.0 und MIT sowie verantwortungsbezogene Lizenzen wie OpenRAIL.
 
 ## Verwandte Begriffe
-- [Open Weight](/de/dictionary/open-weight/)
-- [Foundation Model](/de/dictionary/foundation-model/)
-- [Künstliche Intelligenz](/de/dictionary/artificial-intelligence/)
+- [Open Weights](/de/dictionary/open-weights/)
+- [Self-Hosting](/de/dictionary/self-hosting/)
+- [Open Source](/de/dictionary/open-source/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/open-source-ai/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/open-source-ai/

@@ -1,47 +1,37 @@
-# ¿Qué son las Restricciones Regulatorias (Regulatory Restrictions)?
+# ¿Qué es Regulatory Restriction?
 
-> Inglés: Regulatory Restriction · Etimología: latín regulare (regular) + restringere (restringir, limitar)
+La restricción regulatoria es el marco legal que limita el desarrollo, uso de datos, distribución o exportación de tecnologías por parte de gobiernos, autoridades internacionales u organismos reguladores sectoriales con reglas vinculantes.
 
-**Categoría:** Dev  
-**Última actualización:** 2026-09-19
+## Definición y significado (Significado de restricciones regulatorias)
+El concepto de "restricciones regulatorias" se denomina restricciones regulatorias, limitaciones legislativas u obstáculos regulatorios legales en turco. Se aplica especialmente para garantizar los derechos de los usuarios, la privacidad de los datos y la seguridad pública en áreas críticas como la inteligencia artificial (IA), las tecnologías financieras (FinTech), la salud y la criptografía.
 
-Las restricciones regulatorias (regulatory restrictions) son exigencias legales, directivas de cumplimiento y limitaciones normativas impuestas por los poderes públicos sobre el diseño, distribución y explotación de sistemas tecnológicos.
+## Principales áreas de regulación y restricción
+Privacidad y soberanía de datos (KVKK, GDPR, CCPA): Prohíbe la recopilación, el procesamiento o la transferencia no autorizada de datos personales de los usuarios a servidores en la nube transfronterizos sin consentimiento.
 
-## Definición y alcance de las restricciones regulatorias
-El concepto combina regulación (normas jurídicas promulgadas por las administraciones) con restricción (límites de obligado cumplimiento). A diferencia de las políticas de uso de una empresa privada, las restricciones regulatorias son leyes imperativas cuyo incumplimiento acarrea sanciones económicas graves y suspensión cautelar de servicios.
-
-## Ámbitos destacados de regulación tecnológica
-Marcos jurídicos clave en la ingeniería informática actual :
-- **Privacidad y Protección de Datos (RGPD, LOPDGDD):** Principio de minimización, consentimiento informado y derechos de supresión y portabilidad.- **Ley Europea de Inteligencia Artificial (AI Act):** Exigencias escalonadas según el nivel de riesgo y prohibición de sistemas de vigilancia biométrica masiva.- **Regulación Financiera y Fintech:** Directivas sobre autenticación reforzada y normativas estrictas en el tratamiento de pagos con tarjeta.- **Ciberseguridad y Software (CRA):** Obligación de mantener la trazabilidad de componentes de software (SBOM) y notificar incidentes de seguridad.
-
-## Relevancia para desarrolladores: cumplimiento desde el diseño
-El cumplimiento normativo debe formar parte de la arquitectura técnica inicial :
-- **Privacidad desde el Diseño (Privacy by Design):** Anonimización de datos y cifrado de comunicaciones desde la base del código.- **Filtros Automatizados en CI/CD:** Comprobaciones en los despliegues para vetar librerías con fallos conocidos o licencias incompatibles.- **Trazabilidad y Registros de Auditoría:** Generación de bitácoras inmutables para acreditar el acceso lícito a la información.
+## Importancia para los desarrolladores: compatibilidad desde el diseño
+Los equipos de software deben observar los estándares regulatorios y de seguridad al diseñar la arquitectura (Cumplimiento por diseño / Privacidad por diseño), no en la etapa final del proyecto. De lo contrario, existe el riesgo de que los productos sean eliminados de las tiendas de aplicaciones o se les bloquee el acceso a los mercados de destino.
 
 ## Suele confundirse con
-A menudo se confunde con los términos de servicio (ToS) de una aplicación. Los términos de servicio son contratos mercantiles fijados por una compañía; las restricciones regulatorias son normas de derecho público aprobadas por órganos legislativos.
-
-## Por analogía
-Es como un fabricante que produce un deportivo capaz de alcanzar los 300 km/h: por mucha potencia que tenga el vehículo, la normativa pública exige cinturones homologados, filtros de emisiones y respetar los límites de velocidad.
+Las políticas internas de la plataforma (Términos de servicio/Política de uso aceptable) no deben confundirse con restricciones regulatorias legales. Las reglas de la plataforma son las preferencias comerciales de las propias empresas; Las restricciones regulatorias son leyes estatales que, si se violan, resultan en enormes multas y sanciones legales en relación con la facturación de la empresa.
 
 ## Preguntas frecuentes
+**¿Significado de restricciones regulatorias?**
+Se trata de restricciones legales impuestas por estados o instituciones independientes autorizadas a productos tecnológicos con fines de seguridad pública, derechos del consumidor y privacidad de datos.
 
-**¿Afectan estas leyes a los proyectos de código abierto?**  
-Afectan directamente cuando el software se comercializa o se integra en productos orientados al mercado.
+**¿Cómo garantizar el cumplimiento normativo en proyectos de software?**
+El cifrado de datos se logra mediante control de acceso basado en roles, auditorías de seguridad periódicas y diseños arquitectónicos coordinados con expertos legales.
 
-**¿Cuáles son las penalizaciones por vulnerar leyes de privacidad?**  
-Las sanciones pueden alcanzar hasta 20 millones de euros o el 4% de la facturación global anual consolidada.
+**¿Qué restringe la Ley de Inteligencia Artificial de la Unión Europea (Ley de IA de la UE)?**
+Restringe los sistemas cognitivos que manipulan el comportamiento humano, la clasificación biométrica y los algoritmos opacos de caja negra en áreas de alto riesgo como el reclutamiento.
 
-**¿Qué exige el enfoque por niveles de riesgo de la IA?**  
-Obliga a realizar análisis de conformidad exhaustivos en modelos de alto impacto y prohíbe aplicaciones que vulneren derechos fundamentales.
+**¿Cuál es la sanción por incumplimiento de las restricciones reglamentarias?**
+Según el RGPD, pueden producirse multas de hasta el 4% de la facturación global anual, prohibiciones totales del producto en determinados países y graves pérdidas de reputación.
 
-**¿Cómo facilita la arquitectura técnica el cumplimiento normativo?**  
-Adoptando almacenes de datos locales, cifrado de extremo a extremo y evitando retenciones innecesarias de información personal.
 
 ## Términos relacionados
 - [Open Source](/es/dictionary/open-source/)
-- [GDPR](/es/dictionary/gdpr/)
-- [Digital Privacy](/es/dictionary/digital-privacy/)
+- [AI Models](/es/dictionary/ai-models/)
+- [Secrets](/es/dictionary/secrets/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/regulatory-restriction/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/regulatory-restriction/

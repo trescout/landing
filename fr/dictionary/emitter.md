@@ -1,25 +1,37 @@
 # Qu'est-ce que Emitter ?
 
-C'est le mécanisme qui convertit les données ou le code traités dans un format de sortie qu'un autre système ou outil peut utiliser.
+Emitter est un terme critique qui apparaît dans deux domaines fondamentaux du génie logiciel : le mécanisme qui annonce les changements d'état aux écouteurs dans les architectures événementielles (Event Emitter) et le module de génération de code (Code Emitter) qui convertit le code analysé en langage machine cible ou en bytecode dans la technologie de compilateur (Compiler).
 
-## Définition
-L'émetteur est généralement impliqué dans l'étape finale d'un analyseur ou d'un compilateur. Une fois que l'analyseur analyse et comprend les données, l'émetteur écrit ces informations dans un langage ou un fichier compris par la plateforme cible. Cela peut prendre la forme d'une conversion en code machine ou de la génération d'une sortie JSON qu'une API acceptera.
+## Origines conceptuelles : De la physique à l'architecture logicielle
+Le mot « émetteur » dérive du verbe latin émettre, signifiant « jeter, libérer ». En électronique, les cathodes qui émettent des électrons ou en télécommunications, les émetteurs radio qui émettent des signaux sont appelés émetteurs. Le monde du logiciel a emprunté ce terme pour désigner « une ressource qui transfère une situation qui se produit en elle-même ou un résultat qu'elle produit vers le monde extérieur ».
 
-## Comment ça marche
-Il prend la structure de données abstraite à l'intérieur et l'exporte selon des modèles ou des règles prédéfinis. La sortie peut être un fichier, un paquet réseau ou directement l'entrée d'une autre fonction.
+## 1. Architecture basée sur les événements et émetteur d'événements
+Dans la programmation basée sur les événements, Emitter est au cœur des modèles de conception Observer et Publish-Subscribe. Il permet aux composants du système de communiquer via des événements (couplage lâche) plutôt que de se reconnaître directement (couplage étroit).
 
-## Où est-ce utilisé
-Vous le rencontrez fréquemment dans les compilateurs, les outils de transformation de données et les systèmes pilotés par événements.
+## 2. Émetteur de code dans l'architecture du compilateur
+La dernière et la plus cruciale étape d'un compilateur ou d'un transpilateur est la couche émetteur (générateur de code). La chaîne de compilation fonctionne dans cet ordre : Code source → Lexer (Tokens) → Analyseur (Arbre syntaxique - AST) → Analyse sémantique → Optimisation → Émetteur → Code cible
 
 ## Questions fréquentes
-**Quelle est la différence entre l’émetteur et l’analyseur ?**
-Parser importe et analyse les données, tandis que Emitter présente les données traitées à l'extérieur dans un format approprié.
+**Que signifie Emitter et quel est son équivalent turc ?**
+Emitter signifie « émetteur » ou « émetteur » en anglais. Il est souvent utilisé comme « émetteur d'événements » dans les logiciels ou comme « émetteur de code » dans les compilateurs.
+
+**Quel est le plus grand avantage de l’utilisation d’Event Emitter ?**
+Il réduit à zéro la dépendance (couplage) entre les composants. Un module lance un événement ; Peu importe qui a commis l’incident, quand et comment. Cela augmente la modularité et la testabilité.
+
+**Quel rôle Emitter joue-t-il dans les compilateurs ?**
+C'est le composant final qui analyse le code source et produit la sortie cible (Assembly, code machine, bytecode ou code source converti) en prenant la structure arborescente optimisée (AST).
+
+**Quelle est la différence entre RxJS Observable et Event Emitter ?**
+L'émetteur d'événements effectue généralement des multidiffusions et est utilisé pour les notifications d'événements instantanées. RxJS Observable, quant à lui, offre le pouvoir de transformer des flux de données riches au fil du temps grâce à des opérateurs fonctionnels tels que le filtrage, le mappage et le retard.
 
 
 ## Termes liés
 - [Parser](/fr/dictionary/parser/)
+- [Compiler](/fr/dictionary/compiler/)
+- [Runtime](/fr/dictionary/runtime/)
+- [Assembly](/fr/dictionary/assembly/)
 - [API](/fr/dictionary/api/)
-- [Data Pipeline](/fr/dictionary/data-pipeline/)
+- [Bundler](/fr/dictionary/bundler/)
 
 ## Outils liés
 - [YAML Cpp](/fr/discover/yaml-cpp/)

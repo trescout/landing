@@ -1,54 +1,40 @@
-# ¿Qué es la Open Source AI?
+# ¿Qué es Open Source AI?
 
-> Inteligencia Artificial de Código Abierto
+La IA de código abierto (inteligencia artificial de código abierto en turco) son modelos cuyos pesos y códigos pueden ser examinados y ejecutados por cualquier persona.
 
-**Categoría:** AI  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+A diferencia de los modelos cerrados, estos modelos son transparentes: cualquiera que quiera puede descargarlos, examinarlos con sus propios datos y realizarles cambios. Llama, Mistral y DeepSeek son ejemplos conocidos. Se puede argumentar que los datos de formación también deberían ser abiertos; La OSI lleva a cabo un estudio de definición independiente sobre este tema.
 
-Open Source AI (IA de código abierto) comprende aquellos sistemas de inteligencia artificial cuyos pesos neuronales, código de entrenamiento y recetas de datos están a disposición del público bajo licencias libres.
-
-## Definición y etimología
-Basada en los principios del software libre, la IA open source democratiza el acceso a la tecnología punta. Permite a cualquier entidad auditar los modelos, adaptarlos a sus necesidades concretas y desplegarlos en infraestructura propia sin ataduras comerciales.
-
-## Contexto cotidiano e uso práctico
-- **Implantación Empresarial Soberana:** Ejecución de modelos en servidores propios aislados para garantizar el secreto profesional.
-- **Especialización Sectorial:** Ajuste fino de modelos genéricos con manuales técnicos, código propietario o datos médicos.
-- **Auditoría Científica:** Examen independiente de los mecanismos de atención, sesgos y alucinaciones en universidades.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Charla local: Asistente personal que funciona sin internet.Investigación: Modelo base probado.Institucional: Solución interna sin mover datos.
 
 ## Profundidad técnica y arquitectura
-Dimensiones Clave de un Modelo Abierto:- **Pesos y Código de Inferencia:** Entrega completa de los archivos binarios y librerías de ejecución en formatos interoperables.
-- **Transparencia Metodológica:** Descripción detallada de los corpus de entrenamiento y filtros de calidad aplicados.
-- **Compatibilidad de Ejecución:** Integración inmediata con entornos de inferencia como vLLM, llama.cpp y Ollama.
+Componentes:
 
-## Suele confundirse con
-A menudo se confunde con modelos propietarios que simplemente distribuyen pesos (open-weight) bajo contratos restrictivos. La verdadera IA de código abierto respeta los estándares de la Open Source Initiative (OSI).
+## Cosas frecuentemente mezcladas
+Se puede mezclar con Open Weights. Open Weights es solo que las pesas están abiertas. La IA de código abierto, por otro lado, también incluye transparencia de código y procesos, su alcance es más amplio.
 
-## Perspectivas interdisciplinares
-- **Gastronomía:** Publicar los ingredientes y la técnica exacta de un plato de alta cocina vs servirlo desde una cocina inaccesible.
-- **Automoción:** Planos abiertos de un motor eléctrico que cualquier taller puede reparar vs bloques cerrados con precinto de fábrica.
-- **Investigación:** Ensayos clínicos con datos abiertos frente a patentes médicas confidenciales.
-
-## Por analogía
-En vez de mantener la receta en secreto, equivale a revelar los ingredientes y el modo de preparación para que cualquier cocinero pueda elaborarla y mejorarla.
+## Uso en diferentes disciplinas
+Receta: Receta compartida con ingredientes y medidas.Libro de texto: Código abierto que cualquiera puede leer y editar.Banco de semillas: Semilla ancestral compartida por los agricultores.
 
 ## Preguntas frecuentes
+**¿Son los modelos de código abierto más débiles?**
+Solía ​​serlo, pero hoy muchos modelos abiertos compiten con sus rivales cerrados. Los modelos cerrados están por delante en la carrera por la cima, pero en la práctica la brecha se ha reducido.
 
-**¿Qué distingue a la IA open source del concepto open-weight?**  
-El enfoque open-weight suministra únicamente los pesos finales; la IA open source completa entrega también el código fuente de entrenamiento y los datos.
+**¿Por qué debería utilizar código abierto?**
+Para privacidad de datos, costo e integración total. Sus datos no salen y no paga una tarifa de licencia.
 
-**¿Tienen los modelos abiertos la misma calidad que las API privadas?**  
-Sí, arquitecturas abiertas como DeepSeek, Llama o Mistral igualan e incluso superan a muchos servicios cerrados de pago.
+**¿Está permitido el uso comercial?**
+Varía dependiendo de la licencia. Apache y MIT son gratuitos, algunas licencias comunitarias imponen límites de ingresos o número de usuarios.
 
-**¿Conviene a las empresas autohospedar modelos abiertos?**  
-Es la alternativa ideal para organizaciones con normativas estrictas de protección de datos que no pueden enviar información al exterior.
+**¿Con cuál se debe empezar?**
+Comience localmente con modelos pequeños y cuantificados. Si la necesidad crece, lo mueves al servidor.
 
-**¿Bajo qué licencias se publican habitualmente?**  
-Principalmente bajo licencias Apache 2.0 y MIT, además de esquemas comunitarios como OpenRAIL.
 
 ## Términos relacionados
-- [Open Weight](/es/dictionary/open-weight/)
-- [Foundation Model](/es/dictionary/foundation-model/)
-- [Inteligencia Artificial](/es/dictionary/artificial-intelligence/)
+- [Open Weights](/es/dictionary/open-weights/)
+- [Self-Hosting](/es/dictionary/self-hosting/)
+- [Open Source](/es/dictionary/open-source/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/open-source-ai/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/open-source-ai/

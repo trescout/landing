@@ -5774,7 +5774,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/iii/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7394,7 +7394,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/terraform/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8852,7 +8852,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/agi/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9914,7 +9914,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/digital-twin/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9944,6 +9944,12 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/document-parsing/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/dictionary/domain-specific-language/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -10711,6 +10717,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/llm-api/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/llm-inference/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -10814,7 +10826,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/lsp/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -10868,7 +10880,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/memory-management/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11150,7 +11162,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/open-source-ai/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11600,7 +11612,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/regulatory-restriction/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11714,7 +11726,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/runtime/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -12344,12 +12356,18 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/tokenizer/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/toolchain-bootstrapping/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/dictionary/toolkit/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12458,7 +12476,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/utilities/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -12566,7 +12584,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/vulnerability-scanning/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26887,6 +26905,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/domain-specific-language/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/dossier/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -27649,6 +27673,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/llm-api/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/llm-inference/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -28088,7 +28118,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/open-source-ai/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28310,7 +28340,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/playlist/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28538,7 +28568,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/regulatory-restriction/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28652,7 +28682,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/runtime/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -29144,7 +29174,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/tech-stack/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -29293,6 +29323,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/toolkit/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/tools/</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -29396,7 +29432,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/utilities/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -29504,7 +29540,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/vulnerability-scanning/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -35444,7 +35480,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/emitter/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -35624,7 +35660,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/gamification/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36506,7 +36542,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/office-suite/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36602,7 +36638,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/openstreetmap/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36800,7 +36836,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/plugin/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37370,7 +37406,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/speaker-diarization/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -37382,7 +37418,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/specification/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -43825,6 +43861,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/domain-specific-language/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/dossier/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -44587,6 +44629,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/llm-api/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/llm-inference/</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -44744,7 +44792,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/memory-management/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -45026,7 +45074,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/open-source-ai/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -45248,7 +45296,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/playlist/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -45476,7 +45524,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/regulatory-restriction/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -45590,7 +45638,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/runtime/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46082,7 +46130,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/tech-stack/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46231,6 +46279,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/toolkit/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/tools/</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -46334,7 +46388,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/utilities/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -46442,7 +46496,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/vulnerability-scanning/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

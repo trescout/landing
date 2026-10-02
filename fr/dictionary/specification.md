@@ -1,51 +1,40 @@
-# Qu'est-ce qu'une Spécification (Specification) ?
+# Qu'est-ce que Specification ?
 
-> Anglais : Specification · Étymologie : latin species (aspect, sorte) + facere (faire)
+La spécification (spec en abrégé, spécification en turc) est un document technique qui écrit ce que fera le produit et ses règles.
 
-**Catégorie:** Dev  
-**Dernière mise à jour:** 2026-09-22
+## Définition et origine du mot
+C'est comme le projet architectural du bâtiment : le développeur du logiciel examine le document avant de commencer le code et comprend ce qu'il doit construire. Cela réduit les erreurs et clarifie les attentes. Dans le monde des API, OpenAPI, les fiches techniques du matériel font ce travail.
 
-Une spécification (souvent appelée spec) est un document technique formel qui décrit précisément les fonctionnalités, règles de fonctionnement, interfaces et critères d'acceptation attendus d'un produit ou système logiciel.
-
-## Définition et étymologie
-La spécification est l'équivalent du plan d'architecte dans le bâtiment : avant d'écrire la moindre ligne de code, l'équipe s'y réfère pour comprendre exactement ce qu'il faut construire. Elle élimine les ambiguïtés et sert de référentiel aux tests. Dans le domaine des API, OpenAPI constitue une spécification standardisée.
-
-## Usage quotidien et contexte pratique
-Applications directes dans les projets :
-- **Développement logiciel :** Spécifications fonctionnelles, contrats d'API et diagrammes d'états.- **Appels d'offres :** Cahiers des charges techniques déterminant la conformité d'une prestation.- **Normes industrielles :** Documents RFC de l'IETF ou recommandations W3C fixant les standards du web.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Logiciel : Document sur les fonctionnalités et les règles.Tendre: Dossier de spécifications techniques.Produit: Critères de conception et d'acceptation.
 
 ## Profondeur technique et architecture
-Éléments indispensables d'une spécification réussie :
-- **Périmètre :** Délimitation claire de ce qui est inclus et explicitement exclu.- **Critères d'acceptation :** Conditions vérifiables pour valider qu'une fonctionnalité est terminée.- **Modèles de données :** Schémas d'entrées/sorties, codes d'erreur et règles de validation.- **Exigences non fonctionnelles :** Seuils de performance, sécurité et tolérance aux pannes.
+Une bonne spécification comprend :
 
-## Souvent confondu avec
-On la confond souvent avec l'expression de besoin (requirement). Le besoin exprime ce que l'utilisateur souhaite accomplir ; la spécification décrit comment le système y répond techniquement. L'un est l'objectif, l'autre est la solution d'ingénierie.
+## Choses fréquemment mélangées
+C'est similaire à Exigence. Les exigences indiquent ce qui est souhaité, les spécifications indiquent comment le faire. L’un est le but, l’autre est le plan.
 
-## Perspectives interdisciplinaires
-Équivalents dans d'autres disciplines :
-- **Cuisine :** Une fiche technique de recette avec grammages et temps de cuisson précis.- **Bâtiment :** Le plan d'exécution indiquant le passage des canalisations et les matériaux.- **Industrie :** Une notice de montage précisant le couple de serrage et l'ordre des pièces.
+## Utilisation dans différentes disciplines
+Recette de cuisine : Liste du matériel et des étapes.Guide de montage : Diagramme de pièce et de séquence.Tendre: Spécifications administratives et techniques.
 
-## Par analogie
-C'est comme la liste des ingrédients et les étapes de cuisson d'une recette de pâtisserie : si l'on ne suit pas précisément les instructions, le gâteau ne prend pas.
+## Foire aux questions
+**Les spécifications peuvent-elles changer ?**
+Oui, mais chaque changement doit être approuvé avec son impact sur les coûts et le calendrier.
 
-## Questions fréquentes
+**Qui écrit le fichier de spécifications ?**
+Le chef de produit, l'ingénieur ou l'analyste écrit. Ce qui compte, c'est un propriétaire unique et une discipline de libération.
 
-**Une spécification peut-elle être modifiée en cours de projet ?**  
-Oui, mais toute modification doit être concertée et documentée pour éviter les dérives de périmètre non maîtrisées.
+**Combien de détails sont nécessaires ?**
+De quoi mettre fin à l’incertitude. Trop de choses fatigueront l'écrivain, trop peu encombreront le développeur.
 
-**Qu'appelle-t-on le Spec-driven Development ?**  
-Une approche d'ingénierie où le contrat d'API et les spécifications sont rédigés avant l'implémentation du code.
+**Y a-t-il une spécification en Agile ?**
+Oui, ils sont plus légers. Les user stories et les contrats API avec critères d'acceptation servent de spécifications.
 
-**Qui rédige les spécifications ?**  
-Les chefs de produit, architectes logiciels et ingénieurs seniors collaborent pour concilier vision métier et contraintes techniques.
-
-**Quelle est la différence entre spécification fonctionnelle et technique ?**  
-La fonctionnelle décrit les interactions utilisateur, tandis que la technique détaille les flux de données, bases de données et protocoles.
 
 ## Termes liés
 - [Spec-driven Development](/fr/dictionary/spec-driven-development/)
-- [Schema](/fr/dictionary/schema/)
-- [API](/fr/dictionary/api/)
+- [Framework](/fr/dictionary/framework/)
+- [Tech Stack](/fr/dictionary/tech-stack/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/specification/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/specification/

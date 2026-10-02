@@ -2,16 +2,16 @@
 
 iii , backend yığınınızdaki tüm servisleri (kuyruk, cron, HTTP, state, gözlemlenebilirlik, ajanlar, sandbox) gerçek zamanlı oluşturma, genişletme ve izleme yöntemidir. Normalde ayrı entegrasyon zorlukları çıkaran parçaları tek bir noktadan yönetilebilir kılar.
 
-- ★ 18.809
+- ★ 18.824
 - Rust
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 18.809 → 18.824, son sürüm iii/v0.24.4 (2 Ekim 2026).
 - 27 Eylül 2026: Yıldız 18.767 → 18.809, son sürüm iii/v0.24.3 (25 Eylül 2026).
 - 18 Eylül 2026: Yıldız 18.662 → 18.767, son sürüm iii/v0.24.0 (17 Eylül 2026).
 - 2 Eylül 2026: Yıldız 18.570 → 18.662, son sürüm iii/v0.23.0 (1 Eylül 2026).
-- 7 Ağustos 2026: Yıldız 18.547 → 18.570, son sürüm iii/v0.22.1 (7 Ağustos 2026).
 
 - **Kimin için:** Backend / altyapı geliştiren ekipler 
 - **Zorluk:** İleri · geliştirici aracı 

@@ -1,42 +1,28 @@
-# Memory Management Stack, Heap, coletor de lixo e memória do sistema
+# O que é Memory Management?
 
+Gerenciamento de Memória (Memory Management) é o processo de alocação, proteção e devolução ao sistema da memória de acesso aleatório (RAM) física e virtual do computador entre os softwares em execução, quando o uso termina.
 
-**Categoria:** Dev  
+## 1. Anatomia da memória: A distinção entre Stack (Pilha) e Heap (Monte)
+Quando um programa é executado, o sistema operacional aloca um espaço de memória virtual (Virtual Address Space) específico para esse processo. Os dois componentes mais críticos desse espaço são a Stack e a Heap:
 
-**Última atualização:** 2026-09-19
+## 2. Três paradigmas fundamentais de gerenciamento de memória
 
-
-Gerenciamento de memória (memory management) é o conjunto de regras e mecanismos de software e hardware encarregados de alocar, rastrear e liberar a memória RAM durante a execução de programas.
-
-
-## 1. Anatomia da Memória: Divisão entre Stack e Heap
-Todo programa em execução estrutura o espaço de memória volátil em dois blocos operacionais distintos :
-- **Memória de Pilha (Stack):** Estrutura sequencial LIFO (último a entrar, primeiro a sair) operada diretamente pelo registrador de pilha da CPU. Armazena variáveis locais simples e endereços de retorno de funções. A alocação e liberação são quase instantâneas ao avançar ou retroceder o ponteiro RSP.- **Memória de Monte (Heap):** Amplo repositório dinâmico reservado para estruturas de dados complexas cujo tamanho final não pode ser determinado na compilação. Requer chamadas a alocadores do sistema operacional, sendo mais flexível, porém mais lenta que a pilha.
-
-## 2. Três Paradigmas Modernos de Gestão de Memória
-As linguagens de programação contemporâneas dividem-se em três abordagens centrais :
-- **Gerenciamento Manual (C e C++):** O programador requisita blocos via <code>malloc()</code> e assume a responsabilidade de liberá-los com <code>free()</code>. Concede máxima performance, mas pode causar falhas de segurança por ponteiros nulos ou vazamentos de memória.- **Coleta Automática de Lixo (Java, Go, JavaScript e Python):** Um mecanismo integrado (Garbage Collector) varre os objetos em execução e devolve ao sistema os dados sem referências ativas, gerando pequenas pausas de processamento.- **Modelo de Posse e Empréstimo (Rust):** Elimina o Garbage Collector sem abrir mão da segurança, validando a posse das variáveis em tempo de compilação e desalocando a memória no momento exato em que a variável sai de escopo.
-
-## 3. Nível de Sistema Operacional: Memória Virtual e OOM Killer
-Na base de todo o ecossistema, o kernel coordena a memória física auxiliado pela unidade MMU (Memory Management Unit) :
-- **Memória Virtual e Paginação:** Cada processo possui uma visão isolada e protegida da memória dividida em páginas padronizadas de 4 KB mapeadas para a RAM física.- **Page Faults e Swap:** Caso um bloco de dados tenha sido transferido para o disco rígido, o processador gera uma interrupção para recarregar a informação de volta para a RAM.- **OOM Killer:** Em situações de esgotamento total da memória física, o kernel do Linux aciona o OOM Killer para encerrar compulsariamente os processos mais pesados, preservando a estabilidade da máquina.
-
-## Por analogia
-A memória Stack é como uma pilha de pratos na bancada onde colocamos e tiramos louças rapidamente do topo ; a memória Heap é como um grande depósito comercial onde caixas de qualquer tamanho são guardadas mediante um catálogo de localização.
+## 3. Memória em nível de sistema operacional: Memória virtual e OOM Killer
+Os sistemas operacionais modernos usam memória virtual e arquitetura de paginação para evitar que programas leiam a memória uns dos outros. A Unidade de Gerenciamento de Memória (MMU) na CPU converte endereços virtuais em endereços físicos em hardware com a ajuda do cache TLB. Quando a RAM física e a troca estão completamente esgotadas, o mecanismo OOM Killer (Out of Memory Killer) do kernel Linux encerra o processo mais agressivo com SIGKILL para salvar o sistema.
 
 ## Perguntas frequentes
+**O que significa Memory management e qual é a sua tradução para o português?**
+Memory Management significa "gerenciamento de memória" em português. É o conjunto de processos de alocação, monitoramento e liberação de recursos de RAM durante a execução de um programa de computador.
 
-**Qual a principal diferença entre Stack e Heap?**  
-A Stack é ultrarrápida, automática e atrelada ao escopo das funções ; a Heap é ampla, dinâmica e requer liberação manual ou atuação de um Garbage Collector.
+**Qual é a diferença fundamental entre Stack e Heap?**
+A Stack gerencia variáveis locais conhecidas em tempo de compilação de forma extremamente rápida com a lógica LIFO; o Heap é o pool de memória flexível, com gerenciamento mais complexo, reservado para objetos que crescem dinamicamente em tempo de execução.
 
-**O que é vazamento de memória (memory leak)?**  
-É o erro que ocorre quando um programa aloca dados na Heap e perde sua referência sem liberá-los, acumulando consumo de RAM até travar o sistema.
+**Como funciona o Garbage Collection (Coletor de Lixo)?**
+Em linguagens onde o programador não faz a exclusão manual (Java, Go, JS, etc.), o motor que roda em segundo plano detecta objetos órfãos que não podem ser alcançados a partir de variáveis raiz e limpa a RAM.
 
-**Como o Rust garante segurança de memória sem Garbage Collector?**  
-Por meio do sistema de Ownership e Borrow Checker verificado na compilação, inserindo a rotina de limpeza de dados no código final.
+**Como evitar o vazamento de memória (Memory Leak)?**
+Em linguagens manuais, escrevendo um free para cada malloc ou estabelecendo padrões RAII; em linguagens com coletor de lixo, limpando referências de arrays globais e ouvintes de eventos (event listeners) que não foram fechados.
 
-**O que faz o OOM Killer no Linux?**  
-Ele finaliza processos de alto consumo de memória quando a RAM se esgota para evitar que o sistema operacional congele totalmente.
 
 ## Termos relacionados
 - [Runtime](/pt/dictionary/runtime/)
@@ -46,4 +32,4 @@ Ele finaliza processos de alto consumo de memória quando a RAM se esgota para e
 - [Assembly](/pt/dictionary/assembly/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/memory-management/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/memory-management/

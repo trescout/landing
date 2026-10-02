@@ -1423,13 +1423,13 @@
     "slug": "iii",
     "title": "iii",
     "tagline": "Tüm servislerinizi gerçek zamanlı kurun, genişletin ve gözlemleyin.",
-    "meta": "★ 18.809 · Lisans: yok",
+    "meta": "★ 18.824 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 18809,
+    "stars": 18824,
     "image": "/assets/discover/og/iii.webp",
     "headline": "Servislerinizi Gerçek Zamanlı Yönetin",
     "last_review": "2026-10-02",
@@ -1468,6 +1468,13 @@
         "onceki_yildiz": 18767,
         "surum": "iii/v0.24.3",
         "surum_tarihi": "2026-09-25"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 18824,
+        "onceki_yildiz": 18809,
+        "surum": "iii/v0.24.4",
+        "surum_tarihi": "2026-10-02"
       }
     ],
     "tagline_en": "Install, extend and monitor all your services in real time.",
@@ -19478,14 +19485,14 @@
     "slug": "terraform",
     "title": "Terraform",
     "tagline": "HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastructure as code) tanımlayarak güvenli ve…",
-    "meta": "★ 49.758 · Go",
+    "meta": "★ 49.812 · Go",
     "image": "/assets/discover/og/terraform.webp",
     "source": "GitHub",
     "date": "2026-07-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 49758,
+    "stars": 49812,
     "lite": false,
     "headline": "Altyapınızı kod ile yönetin",
     "last_review": "2026-10-02",
@@ -19538,6 +19545,13 @@
         "onceki_yildiz": 49674,
         "surum": "v1.16.4",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 49812,
+        "onceki_yildiz": 49758,
+        "surum": "v1.16.5",
+        "surum_tarihi": "2026-10-02"
       }
     ],
     "tagline_en": "Developed by HashiCorp, Terraform defines the infrastructure as code, providing a secure and…",
@@ -40910,7 +40924,7 @@
     "slug": "mobile-mcp",
     "title": "Mobile MCP",
     "tagline": "Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam…",
-    "meta": "★ 8.544 · TypeScript",
+    "meta": "★ 8.549 · TypeScript",
     "image": "/assets/discover/og/mobile-mcp.webp",
     "source": "GitHub",
     "date": "2026-09-27",
@@ -40918,7 +40932,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8544,
+    "stars": 8549,
     "last_seen": "2026-09-27",
     "summary": "Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, yapay zekâ modellerinin iOS ve Android platformlarıyla doğrudan etkileşime girerek görevleri yürütmesini sağlar.",
     "lite": false,
@@ -40945,6 +40959,13 @@
         "onceki_yildiz": 8439,
         "surum": "1.0.7",
         "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 8549,
+        "onceki_yildiz": 8544,
+        "surum": "1.0.8",
+        "surum_tarihi": "2026-10-02"
       }
     ],
     "tagline_en": "Mobile-mcp is a Model Context...",
@@ -41146,7 +41167,7 @@
     "slug": "dbx",
     "title": "DBX",
     "tagline": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi…",
-    "meta": "★ 23.816 · Rust",
+    "meta": "★ 23.846 · Rust",
     "image": "/assets/discover/og/dbx.webp",
     "source": "GitHub",
     "date": "2026-09-29",
@@ -41154,7 +41175,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 23816,
+    "stars": 23846,
     "last_seen": "2026-10-01",
     "summary": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.",
     "lite": false,
@@ -41187,6 +41208,13 @@
         "yildiz": 23816,
         "onceki_yildiz": 22868,
         "surum": "v0.6.30",
+        "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 23846,
+        "onceki_yildiz": 23816,
+        "surum": "v0.6.31",
         "surum_tarihi": "2026-10-02"
       }
     ],

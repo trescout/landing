@@ -1,31 +1,36 @@
 # O que é Runtime?
 
-É o momento em que um software é executado no computador e o ambiente que ele necessita nesse processo.
+Tempo de execução refere-se ao período de tempo em que um programa é efetivamente executado no processador e na memória do computador após a fase de compilação, e à infraestrutura de software (Runtime Environment) que possibilita essa execução.
 
-## Definição
-O tempo em que o código é escrito e o tempo em que ele é executado são diferentes. O tempo de execução refere-se ao processo em que o código não é mais um arquivo, mas reside ativamente no processador e na memória do computador.
+## 1. Dois significados básicos do conceito de tempo de execução
+Na engenharia de software, a palavra “Tempo de execução” refere-se a dois conceitos diferentes dependendo do contexto:
 
-## Como funciona
-Ao iniciar o programa, o computador aloca os recursos necessários e processa os códigos linha por linha, deixando-os prontos para a interação do usuário.
+## 2. Diferença entre tempo de compilação e tempo de execução
 
-## Onde é usado
-Ele é usado para monitorar o desempenho ao vivo do programa durante os processos de desenvolvimento e depuração de software.
+## 3. Tempos de execução gerenciados versus não gerenciados
 
-## Costuma ser confundido com
-É confundido com tempo de compilação; tempo de compilação é preparação, tempo de execução é execução.
+## 4. Guerras modernas de tempo de execução de JavaScript: Node.js vs Deno vs Bun
 
 ## Perguntas frequentes
-**O que significa erro de tempo de execução?**
-É quando o programa encontra uma situação inesperada durante a execução e trava ou apresenta um erro.
+**O que significa tempo de execução, qual é o seu equivalente turco?**
+Em turco, é chamado de "tempo de execução" ou "ambiente de execução". Ele descreve o período de tempo em que um programa deixa seu código-fonte e realmente é executado no hardware do computador e na camada de software que dá suporte a esse trabalho.
 
-**Todo software tem um tempo de execução?**
-Sim, todo software que pode ser executado precisa de um ambiente de trabalho.
+**O que é erro de tempo de execução?**
+É um erro que passa com sucesso na fase de compilação, mas faz com que o aplicativo trave repentinamente devido a uma situação inesperada (divisão por zero, acesso a um objeto vazio, RAM insuficiente) durante a execução do programa.
+
+**O Node.js é uma linguagem de programação ou um tempo de execução?**
+Node.js não é uma linguagem; É um tempo de execução JavaScript de código aberto que permite que o código JavaScript seja executado em servidores e computadores sem a necessidade de um navegador.
+
+**Como funciona o JIT (Just-In-Time) durante o tempo de execução da compilação?**
+O compilador JIT detecta instantaneamente blocos de código usados ​​com frequência ("hot paths") enquanto o programa está em execução e converte esses blocos em código de máquina nativo em tempo de execução, aumentando o desempenho do aplicativo.
 
 
 ## Termos relacionados
-- [Compile-time](/pt/dictionary/compile-time/)
-- [State Management](/pt/dictionary/state-management/)
-- [API](/pt/dictionary/api/)
+- [Memory Management](/pt/dictionary/memory-management/)
+- [Assembly](/pt/dictionary/assembly/)
+- [Compilation](/pt/dictionary/compilation/)
+- [Bundler](/pt/dictionary/bundler/)
+- [Tech Stack](/pt/dictionary/tech-stack/)
 
 ## Ferramentas relacionadas
 - [Andrej Karpathy Skills](/pt/discover/andrej-karpathy-skills/)
@@ -33,9 +38,9 @@ Sim, todo software que pode ser executado precisa de um ambiente de trabalho.
 - [Deno](/pt/discover/deno/)
 - [BUN](/pt/discover/bun/)
 - [Svelte](/pt/discover/svelte/)
+- [Wand-Enhancer](/pt/discover/wand-enhancer/)
 - [Onnxruntime](/pt/discover/onnxruntime/)
-- [Flue](/pt/discover/flue/)
-- [Switchyard](/pt/discover/switchyard/)
+- [Univer](/pt/discover/univer/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/runtime/

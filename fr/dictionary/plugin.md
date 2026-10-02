@@ -1,31 +1,40 @@
 # Qu'est-ce que Plugin ?
 
-Petits logiciels installés ultérieurement pour fournir des fonctionnalités supplémentaires au programme principal.
+Le plugin est un composant logiciel modulaire indépendant qui ajoute de nouvelles capacités, outils et fonctions à un système sans modifier le code principal du logiciel ni avoir à le recompiler.
 
-## Définition
-Ces structures, également appelées plug-ins, permettent d'ajouter de nouvelles fonctionnalités à un logiciel sans modifier son code principal. Par exemple, si vous disposez d'un navigateur, vous pouvez installer un plug-in qui bloque les publicités et lui faire faire quelque chose que le navigateur ne peut pas faire. C'est la méthode la plus pratique utilisée pour élargir les limites du programme principal.
+## Origine conceptuelle et philosophie architecturale
+Le terme « plugin » dérive du verbe anglais « plug in ». Il fait référence à des modules qui peuvent être branchés et retirés lorsqu'un logiciel est nécessaire, tout comme une pédale d'effet connectée à un amplificateur de son ou à un matériel branché sur un ordinateur via USB.
 
-## Comment ça marche
-Le logiciel principal fournit des ports spéciaux auxquels des plug-ins peuvent être connectés. Lorsque vous installez le plugin, il commence à communiquer avec le programme principal via ces ports et de nouveaux boutons ou fonctionnalités sont ajoutés au menu.
+## Architecture du micronoyau et principe de fonctionnement
+Les systèmes basés sur des plugins sont généralement construits avec Microkernel Pattern. Dans cette architecture, le système se compose de deux parties principales :
 
-## Où est-ce utilisé
-Il est utilisé dans les navigateurs Web, les programmes de conception graphique et les interfaces permettant aux modèles d’intelligence artificielle de se connecter à Internet.
+## Concepts similaires : Plugin, Extension, Add-on et Mod
+Bien que ces termes soient souvent utilisés de manière interchangeable dans l’écosystème logiciel, ils comportent des nuances :
 
-## Souvent confondu avec
-Il ne faut pas le confondre avec le programme lui-même, mais uniquement avec les parties auxiliaires qui le supportent.
+## Plugins et Model Context Protocol (MCP) à l’ère de l’intelligence artificielle
+Avec la révolution de l’intelligence artificielle, l’architecture des plug-ins a pris une toute nouvelle dimension. Les grands modèles de langage (LLM) ont cessé d'être des référentiels d'informations fermés et se sont transformés en agents autonomes capables de rechercher sur le Web, d'interroger des bases de données et d'agir via des API, grâce à des plug-ins et des mécanismes de « Tool/Function Calling ». Model Context Protocol (MCP), développé par Anthropic, est l'exemple le plus récent d'architecture de plug-in moderne, permettant aux LLM de se connecter à différentes sources de données et outils avec un protocole de plug-in standard.
 
 ## Questions fréquentes
-**Les modules complémentaires ralentissent-ils l'ordinateur ?**
-L'installation d'un trop grand nombre de modules complémentaires peut légèrement ralentir le démarrage ou la vitesse d'exécution du programme principal.
+**Que signifie plugin et quel est son équivalent turc ?**
+Il vient de la racine anglaise « plug in » et est appelé « add-on » en turc. Il s'agit d'un logiciel indépendant qui fournit des fonctionnalités supplémentaires à un logiciel principal.
 
-**Y a-t-il des modules complémentaires pour chaque programme ?**
-Non, seuls les logiciels autorisant le système de plug-in (architecture ouverte) prennent en charge cette fonctionnalité.
+**Les plugins entraînent-ils une dégradation des performances ou des vulnérabilités de sécurité ?**
+Oui. Les plugins mal optimisés peuvent consommer trop de mémoire et de CPU. De plus, les plugins tiers ne doivent être installés qu’à partir de sources fiables, car ils peuvent laisser la porte ouverte aux attaques de la chaîne d’approvisionnement.
+
+**Quelle est la différence entre un plugin et une extension ?**
+Alors que le terme plugin fait principalement référence à des modules (par exemple des filtres audio/vidéo) qui étendent les capacités de base et le moteur de données de l'application ; L'extension est principalement préférée pour les modules complémentaires qui améliorent l'interface et l'interaction utilisateur.
+
+**Le Model Context Protocol (MCP) est-il un module complémentaire ?**
+MCP est un protocole de plug-in ouvert qui standardise la manière dont les modèles d'IA communiquent avec des outils, bases de données et services externes.
 
 
 ## Termes liés
-- [Plugins](/fr/dictionary/plugin/)
 - [SDK](/fr/dictionary/sdk/)
 - [API](/fr/dictionary/api/)
+- [LSP](/fr/dictionary/lsp/)
+- [MCP](/fr/dictionary/mcp/)
+- [Bundler](/fr/dictionary/bundler/)
+- [Runtime](/fr/dictionary/runtime/)
 
 ## Outils liés
 - [Superpowers](/fr/discover/superpowers/)
@@ -35,7 +44,7 @@ Non, seuls les logiciels autorisant le système de plug-in (architecture ouverte
 - [Understand Anything](/fr/discover/understand-anything/)
 - [Claude Plugins Official](/fr/discover/claude-plugins-official/)
 - [Codex Plugin Cc](/fr/discover/codex-plugin-cc/)
-- [Compound Engineering](/fr/discover/compound-engineering-plugin/)
+- [Knowledge Work Plugins](/fr/discover/knowledge-work-plugins/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/plugin/
