@@ -30,6 +30,7 @@ Yes, for example, the Linux kernel and the Windows kernel have different archite
 - [System Programming Language](/en/dictionary/system-programming-language/)
 
 ## Related tools
+- [Tilelang](/en/discover/tilelang/)
 - [FlashKDA](/en/discover/flashkda/)
 
 ---

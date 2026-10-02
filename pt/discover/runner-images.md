@@ -2,7 +2,7 @@
 
 As imagens de executor (runner images) do GitHub Actions hospedam os ambientes de máquinas virtuais usados pela plataforma GitHub Actions, que automatiza os processos de desenvolvimento de software. Essas imagens fornecem sistemas operacionais e conjuntos de ferramentas pré-configurados necessários nos processos de teste e implantação de software.
 
-- ★ 13.393
+- ★ 13.414
 - PowerShell
 - GitHub Trending · 2026-09-27
 

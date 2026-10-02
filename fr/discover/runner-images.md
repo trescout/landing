@@ -2,7 +2,7 @@
 
 Les images de runner GitHub Actions hébergent les environnements de machines virtuelles utilisés par la plateforme GitHub Actions, qui automatise les processus de développement logiciel. Ces images fournissent les systèmes d'exploitation et les ensembles d'outils préconfigurés nécessaires aux processus de test et de déploiement de logiciels.
 
-- ★ 13 393
+- ★ 13 414
 - PowerShell
 - GitHub Trending · 2026-09-27
 

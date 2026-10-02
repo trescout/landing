@@ -49,7 +49,7 @@ Benim için mobil cihaz adli bilişim aracı olan Mobile Verification Toolkit ü
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Mobile Verification Toolkit Artificial Intelligence
+Mobile Verification Toolkit Toolkit Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mvt/

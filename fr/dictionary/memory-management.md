@@ -1,42 +1,28 @@
-# Memory Management Stack, Heap, ramasse-miettes et mémoire OS
+# Qu'est-ce que Memory Management ?
 
+La gestion de la mémoire (Memory Management) est le processus d'allocation, de protection et de restitution au système de la mémoire vive (RAM) physique et virtuelle de l'ordinateur entre les logiciels en cours d'exécution, une fois leur utilisation terminée.
 
-**Catégorie:** Dev  
+## 1. Anatomie de la mémoire : Distinction entre la pile (Stack) et le tas (Heap)
+Lorsqu'un programme est exécuté, le système d'exploitation alloue un espace d'adressage virtuel dédié à ce processus. Les deux composants les plus critiques de cet espace sont la pile (Stack) et le tas (Heap) :
 
-**Dernière mise à jour:** 2026-09-19
+## 2. Trois paradigmes fondamentaux de gestion de la mémoire
 
-
-La gestion de la mémoire (memory management) est l'ensemble des processus logiciels et matériels régissant l'allocation, l'usage et la libération de la mémoire vive (RAM) tout au long du cycle de vie d'un programme.
-
-
-## 1. Anatomie de la mémoire : distinction entre Stack et Heap
-Un programme organise sa mémoire vive allouée en deux zones aux caractéristiques distinctes :
-- **Mémoire de pile (Stack) :** Structure séquentielle de type LIFO (dernier entré, premier sorti) gérée directement par le processeur. Elle conserve les cadres d'appels de fonctions et les variables locales primitives. L'allocation se résume à déplacer le registre de pointeur de pile (RSP), assurant une vitesse maximale et une libération automatique dès la fin de la fonction.- **Mémoire de tas (Heap) :** Vaste espace dynamique alloué à la demande pour des objets de taille variable dont la durée de vie dépasse la fonction courante. L'allocation (via malloc ou new) requiert de parcourir des tables de fragmentation, ce qui la rend plus lente que la pile.
-
-## 2. Les trois paradigmes de gestion de la mémoire
-Les langages de programmation appliquent trois philosophies distinctes :
-- **Gestion manuelle (C, C++) :** Le développeur réserve les blocs avec <code>malloc()</code> et doit obligatoirement les libérer avec <code>free()</code>. Elle garantit un contrôle absolu mais expose aux fuites de mémoire (memory leaks) et aux failles d'exploitation (use-after-free).- **Ramasse-miettes automatique (Java, Go, JavaScript, Python) :** Un processus d'arrière-plan (Garbage Collector) inspecte les graphes d'objets pour recycler automatiquement ceux qui ne sont plus référencés, au prix de courtes pauses d'exécution.- **Système de possession et emprunt (Rust) :** Rust valide la sécurité mémoire à la compilation grâce à des règles strictes d'Ownership : chaque valeur a une variable propriétaire unique et est détruite automatiquement dès que son propriétaire sort du champ lexical.
-
-## 3. Niveau système d'exploitation : mémoire virtuelle et OOM Killer
-Sous les langages applicatifs, le noyau du système d'exploitation coordonne la RAM via le composant matériel MMU (Memory Management Unit) :
-- **Mémoire virtuelle et pagination :** Chaque processus s'exécute dans un espace d'adressage virtuel découpé en pages de 4 Ko. La MMU mappe ces adresses virtuelles vers les trames réelles de la RAM.- **Fautes de page et fichier d'échange (Swap) :** Si une adresse mémoire a été déchargée sur le disque dur, une interruption (page fault) oblige le noyau à la rapatrier en RAM.- **OOM Killer (Out Of Memory) :** Lorsque la mémoire vive est saturée sans possibilité d'échange, le noyau Linux déclenche l'OOM Killer pour stopper brutalement les processus les plus gourmands afin d'éviter le blocage de la machine.
-
-## Par analogie
-La mémoire de pile est comme une pile d'assiettes où l'on pose et retire rapidement des éléments par le haut ; le tas est comme un vaste entrepôt où l'on dépose des cartons de toutes tailles en tenant un registre minutieux pour ne rien égarer.
+## 3. Mémoire au niveau du système d'exploitation : Mémoire virtuelle et OOM Killer
+Les systèmes d'exploitation modernes utilisent une architecture de mémoire virtuelle et de pagination pour empêcher les programmes de lire la mémoire les uns des autres. L'unité de gestion de la mémoire (MMU) du processeur traduit les adresses virtuelles en adresses physiques matérielles à l'aide du cache TLB. Lorsque la RAM physique et le swap sont totalement épuisés, le mécanisme OOM Killer (Out of Memory Killer) du noyau Linux met fin au processus le plus agressif avec un signal SIGKILL afin de sauver le système.
 
 ## Questions fréquentes
+**Que signifie « Memory management » et quelle est sa traduction en turc ?**
+« Memory Management » signifie « gestion de la mémoire » en turc. Il s'agit de l'ensemble des processus d'allocation, de suivi et de libération des ressources RAM lors de l'exécution d'un programme informatique.
 
-**Quelle est la différence fondamentale entre la Stack et la Heap ?**  
-La pile (Stack) est automatique, ultrarapide et liée à la portée d'une fonction ; le tas (Heap) est dynamique, volumineux et nécessite un suivi manuel ou un ramasse-miettes.
+**Quelle est la différence fondamentale entre la pile (Stack) et le tas (Heap) ?**
+La pile gère les variables locales connues au moment de la compilation de manière extrêmement rapide selon la logique LIFO ; le tas est un pool de mémoire flexible alloué aux objets qui grandissent dynamiquement au moment de l'exécution, dont la gestion est plus complexe.
 
-**Qu'est-ce qu'une fuite de mémoire (memory leak) ?**  
-C'est l'omission de libérer des blocs mémoire alloués sur le tas, ce qui fait croître l'empreinte RAM de l'application jusqu'au plantage.
+**Comment fonctionne le Garbage Collection (ramasse-miettes) ?**
+Dans les langages où le développeur n'effectue pas de suppression manuelle (Java, Go, JS, etc.), un moteur fonctionnant en arrière-plan détecte les objets orphelins inaccessibles depuis les variables racines et nettoie la RAM.
 
-**Comment Rust assure-t-il la sécurité sans ramasse-miettes ?**  
-Grâce aux règles d'Ownership et de durée de vie vérifiées lors de la compilation, le compilateur insère le code de libération de manière déterministe.
+**Comment prévenir une fuite de mémoire (Memory Leak) ?**
+Dans les langages manuels, cela se prévient en écrivant un « free » pour chaque « malloc » ou en établissant des modèles RAII ; dans les langages avec ramasse-miettes, cela se prévient en nettoyant les références de tableaux globaux et les écouteurs d'événements (event listeners) non fermés.
 
-**Pourquoi le noyau Linux utilise-t-il l'OOM Killer ?**  
-Pour empêcher un gel total du système d'exploitation lorsqu'il n'y a plus aucun octet de RAM disponible pour satisfaire les processus critiques.
 
 ## Termes liés
 - [Runtime](/fr/dictionary/runtime/)
@@ -46,4 +32,4 @@ Pour empêcher un gel total du système d'exploitation lorsqu'il n'y a plus aucu
 - [Assembly](/fr/dictionary/assembly/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/memory-management/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/memory-management/

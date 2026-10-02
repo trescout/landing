@@ -2,11 +2,12 @@
 
 Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir format spesifikasyonu sunuyor. Bu standart, tasarım sistemlerinin (design systems) yapay zekâ ajanları tarafından tutarlı ve kalıcı bir şekilde anlaşılmasını sağlıyor.
 
-- ★ 26.873
+- ★ 28.217
 - TypeScript
 - GitHub Trending · 2026-06-25
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 26.873 → 28.217, son sürüm 0.4.0 (27 Temmuz 2026).
 - 2 Ağustos 2026: Yıldız 17.720 → 26.873, son sürüm 0.4.0 (27 Temmuz 2026).
 
 ## Ne kazandırır?

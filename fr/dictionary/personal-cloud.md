@@ -1,34 +1,40 @@
 # Qu'est-ce que Personal Cloud ?
 
-Il s’agit du stockage de fichiers personnels dans un espace privé accessible de n’importe où via Internet.
+Le cloud personnel est un système cloud dans lequel les données résident sur votre propre appareil.
 
-## Définition
-Un cloud personnel vous permet de conserver vos données sur un appareil ou un espace privé que vous contrôlez, plutôt que sur les serveurs de grandes entreprises. De cette façon, vous avez un contrôle total sur vos données. Vous pouvez accéder à vos fichiers depuis n'importe où avec une connexion Internet.
+## Définition et origine du mot
+Il est basé sur votre propre appareil plutôt que sur le serveur d’une grande entreprise. Les fichiers sont accessibles partout où il y a Internet, vous avez le contrôle. Il dirige des entreprises de photographie, de sauvegarde et de médias.
 
-## Comment ça marche
-Il est généralement installé via un appareil NAS à la maison ou un serveur personnel. Grâce à un logiciel spécial, vous pouvez vous connecter à cette zone depuis votre téléphone ou votre ordinateur.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Photographier: Archives familiales.Partager: Envoyer par lien.Médias : Archives home cinéma.
 
-## Où est-ce utilisé
-Il est utilisé dans la sauvegarde de photos, le partage de fichiers et les serveurs multimédias personnels.
+## Profondeur technique et architecture
+Installation:
 
-## Souvent confondu avec
-Il peut être confondu avec le stockage dans le cloud public (comme Google Drive), mais ici vous avez le matériel ou le contrôle.
+## Choses fréquemment mélangées
+On pense qu'il s'agit de Drive. Drive appartient à l’entreprise, le cloud personnel est à vous. L’un est le loyer et l’autre la propriété.
 
-## Questions fréquentes
-**Puis-je accéder à mes fichiers si ma connexion Internet est coupée ?**
-Si l'appareil est chez vous, vous pouvez y accéder via le réseau local, mais l'accès externe dépend d'Internet.
+## Utilisation dans différentes disciplines
+Coffre-fort : Vous avez la clé du coffre-fort.Garde-manger : Stock domestique.Archive: Salle de paperasse personnelle.
+
+## Foire aux questions
+**Est-il accessible une fois coupé ?**
+Oui sur le réseau domestique, non depuis l'extérieur. La copie locale est récupérée.
 
 **Est-ce sécuritaire?**
-Puisque vous avez le contrôle, vous devez gérer la sécurité.
+Vous avez le contrôle. Les mises à jour et la discipline des mots de passe sont essentielles.
+
+**Qu'est-ce que ça coûte ?**
+Le matériel est acheté une seule fois. Électricité et entretien requis.
+
+**Quelle est la différence Drive ?**
+Drive est un loyer, le cloud personnel est une propriété. Vous avez le contrôle.
 
 
 ## Termes liés
 - [NAS](/fr/dictionary/nas/)
 - [Self-hosting](/fr/dictionary/self-hosting/)
 - [Backup Program](/fr/dictionary/backup-program/)
-
-## Outils liés
-- [CasaOS](/fr/discover/casaos/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/personal-cloud/

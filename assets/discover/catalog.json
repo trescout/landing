@@ -1378,7 +1378,7 @@
     "tagline_pt": "Habilidades compostas e metodologia de desenvolvimento de software para agentes de codificação.",
     "tagline_es": "Habilidades compuestas y metodología de desarrollo de software para agentes de codificación.",
     "tagline_de": "Zusammengesetzte Fähigkeiten und Softwareentwicklungsmethodik für Codierungsagenten.",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-02",
     "cmds": {
       "kurulum": [
         {
@@ -2308,7 +2308,7 @@
     "tagline_pt": "Especificação oficial de plugins e plugins prontos para o editor de código Cursor.",
     "tagline_es": "Especificación oficial de complementos y complementos listos para usar para el editor de código de cursor.",
     "tagline_de": "Offizielle Plugin-Spezifikation und vorgefertigte Plugins für den Cursor-Code-Editor.",
-    "last_seen": "2026-08-28",
+    "last_seen": "2026-10-02",
     "cmds": {
       "kurulum": [
         {
@@ -3842,7 +3842,7 @@
     "tagline_pt": "Impeccable é uma linguagem de design desenvolvida para melhorar os resultados de design de modelos de inteligência artificial.",
     "tagline_es": "Impeccable es un lenguaje de diseño desarrollado para mejorar los resultados de diseño de modelos de inteligencia artificial.",
     "tagline_de": "Impeccable ist eine Designsprache, die entwickelt wurde, um die Designergebnisse von Modellen der künstlichen Intelligenz zu verbessern.",
-    "last_seen": "2026-09-26"
+    "last_seen": "2026-10-02"
   },
   {
     "slug": "tradingagents",
@@ -7232,7 +7232,7 @@
     "tagline_pt": "GhostTrack baseado em Python é uma ferramenta que permite rastreamento de localização por meio de números de celular.",
     "tagline_es": "GhostTrack, basado en Python, es una herramienta que permite el seguimiento de la ubicación a través de números de móvil.",
     "tagline_de": "GhostTrack auf Python-Basis ist ein Tool, das die Standortverfolgung über Mobiltelefonnummern ermöglicht.",
-    "last_seen": "2026-06-08",
+    "last_seen": "2026-10-02",
     "guncellemeler": [
       {
         "tarih": "2026-08-20",
@@ -8588,14 +8588,14 @@
     "slug": "server",
     "title": "Server",
     "tagline": "Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya…",
-    "meta": "★ 3.078",
+    "meta": "★ 3.128",
     "image": "/assets/discover/og/server.webp",
     "source": "GitHub",
     "date": "2026-06-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3078,
+    "stars": 3128,
     "lite": false,
     "headline": "Açık kaynaklı dijital müzik sunucusu",
     "cmds": {
@@ -8671,6 +8671,13 @@
         "onceki_yildiz": 3058,
         "surum": "2.10.4",
         "surum_tarihi": "2026-09-18"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 3128,
+        "onceki_yildiz": 3078,
+        "surum": "2.10.5",
+        "surum_tarihi": "2026-10-02"
       }
     ],
     "tagline_en": "Music Assistant is an open-source media platform that combines different digital streaming services and connected speakers into a single interface.",
@@ -11298,7 +11305,7 @@
     "slug": "ltx-2",
     "title": "LTX 2",
     "tagline": "Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük…",
-    "meta": "★ 9.562",
+    "meta": "★ 9.567",
     "image": "/assets/discover/og/ltx-2.webp",
     "source": "GitHub",
     "date": "2026-06-19",
@@ -11306,7 +11313,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9562,
+    "stars": 9567,
     "lite": false,
     "headline": "Yerel sistemde yapay zekâ ile video üretimi",
     "cmds": {
@@ -11364,6 +11371,13 @@
         "onceki_yildiz": 9552,
         "surum": "v1.4.1",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 9567,
+        "onceki_yildiz": 9562,
+        "surum": "v1.4.2",
+        "surum_tarihi": "2026-10-02"
       }
     ],
     "tagline_pt": "Desenvolvido pela Lightricks, o LTX-2 utiliza inferência Python e tecnologia de baixo custo para modelos de inteligência artificial que produzem áudio e vídeo.",
@@ -13150,7 +13164,7 @@
     "tagline_pt": "Desenvolvido pela Heygen, o Hyperframes oferece uma estrutura que converte códigos HTML diretamente em vídeo.",
     "tagline_es": "Desarrollado por Heygen, Hyperframes ofrece un marco que convierte códigos HTML directamente en video.",
     "tagline_de": "Hyperframes wurde von Heygen entwickelt und bietet ein Framework, das HTML-Codes direkt in Videos umwandelt.",
-    "last_seen": "2026-10-01"
+    "last_seen": "2026-10-02"
   },
   {
     "slug": "firecrawl",
@@ -13707,7 +13721,7 @@
     "slug": "design-md",
     "title": "Design.md",
     "tagline": "Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir…",
-    "meta": "★ 26.873 · TypeScript",
+    "meta": "★ 28.217 · TypeScript",
     "image": "/assets/discover/og/design-md.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -13715,7 +13729,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 26873,
+    "stars": 28217,
     "lite": false,
     "headline": "Tasarım sistemlerini yapay zekâya tanıtın",
     "last_review": "2026-10-02",
@@ -13724,6 +13738,13 @@
         "tarih": "2026-08-02",
         "yildiz": 26873,
         "onceki_yildiz": 17720,
+        "surum": "0.4.0",
+        "surum_tarihi": "2026-07-27"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 28217,
+        "onceki_yildiz": 26873,
         "surum": "0.4.0",
         "surum_tarihi": "2026-07-27"
       }
@@ -28149,7 +28170,7 @@
     "slug": "computer",
     "title": "Computer",
     "tagline": "Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği…",
-    "meta": "★ 9.339 · TypeScript",
+    "meta": "★ 9.410 · TypeScript",
     "image": "/assets/discover/og/computer.webp",
     "source": "GitHub",
     "date": "2026-08-06",
@@ -28157,7 +28178,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9339,
+    "stars": 9410,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına bilgisayar kontrolü",
     "last_review": "2026-10-02",
@@ -28212,6 +28233,13 @@
         "onceki_yildiz": 9221,
         "surum": "@cloudflare/computer@0.3.2",
         "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 9410,
+        "onceki_yildiz": 9339,
+        "surum": "@cloudflare/computer@0.4.0",
+        "surum_tarihi": "2026-10-02"
       }
     ],
     "tagline_fr": "Développé par Cloudflare, Computer donne aux agents d'intelligence artificielle la possibilité de contrôler un ordinateur local ou distant.",
@@ -32328,14 +32356,14 @@
     "slug": "openlogi",
     "title": "OpenLogi",
     "tagline": "OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.",
-    "meta": "★ 22.531 · Rust",
+    "meta": "★ 22.606 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 22531,
+    "stars": 22606,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
     "tagline_en": "OpenLogi is a native, local-first, open-source alternative to Logitech Options+, written in Rust. It configures buttons, DPI, and SmartShift without accounts or telemetry.",
@@ -32442,6 +32470,13 @@
         "onceki_yildiz": 22300,
         "surum": "v0.8.10",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 22606,
+        "onceki_yildiz": 22531,
+        "surum": "v0.8.11",
+        "surum_tarihi": "2026-10-02"
       }
     ],
     "last_seen": "2026-08-24",
@@ -33465,14 +33500,14 @@
     "slug": "sub2api",
     "title": "Sub2api",
     "tagline": "Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.",
-    "meta": "★ 43.199 · Go",
+    "meta": "★ 43.206 · Go",
     "image": "/assets/discover/og/sub2api.webp",
     "source": "GitHub",
     "date": "2026-08-23",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 43199,
+    "stars": 43206,
     "lite": false,
     "headline": "Yapay zekâ aboneliklerini tek merkezden yönetin",
     "last_review": "2026-10-02",
@@ -33587,6 +33622,13 @@
         "yildiz": 43199,
         "onceki_yildiz": 43119,
         "surum": "v0.2.12",
+        "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 43206,
+        "onceki_yildiz": 43199,
+        "surum": "v0.2.13",
         "surum_tarihi": "2026-10-02"
       }
     ],
@@ -35053,7 +35095,7 @@
         }
       }
     },
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
     "guncellemeler": [
       {
         "tarih": "2026-08-27",
@@ -37708,7 +37750,7 @@
     "tagline_pt": "Context-mode é uma ferramenta que fornece otimização da janela de contexto para agentes de codificação de inteligência artificial...",
     "tagline_es": "Context-mode es una herramienta que proporciona optimización de la ventana de contexto para agentes de codificación de inteligencia artificial...",
     "tagline_de": "Context-mode ist ein Tool, das eine Optimierung des Kontextfensters (context window optimization) für KI-Codierungs-Agenten bietet...",
-    "last_seen": "2026-10-01"
+    "last_seen": "2026-10-02"
   },
   {
     "slug": "camofox-browser",
@@ -37809,7 +37851,7 @@
     "slug": "browser",
     "title": "Browser",
     "tagline": "Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş, Zig diliyle yazılmış bir başsız tarayıcı…",
-    "meta": "★ 35.072 · Zig",
+    "meta": "★ 35.689 · Zig",
     "image": "/assets/discover/og/browser.webp",
     "source": "GitHub",
     "date": "2026-09-08",
@@ -37817,7 +37859,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 35072,
+    "stars": 35689,
     "summary": "Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş, Zig diliyle yazılmış bir başsız tarayıcı (headless browser). Geleneksel tarayıcılara kıyasla daha az kaynak tüketerek veri kazıma ve web otomasyonu işlemlerini hızlandırmayı amaçlıyor.",
     "lite": false,
     "headline": "Hızlı ve hafif yapay zekâ tarayıcısı",
@@ -37829,6 +37871,13 @@
         "onceki_yildiz": 35068,
         "surum": "nightly",
         "surum_tarihi": "2024-07-16"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 35689,
+        "onceki_yildiz": 35072,
+        "surum": "1.0.0",
+        "surum_tarihi": "2026-10-02"
       }
     ],
     "tagline_en": "Lightpanda is a headless browser written in the Zig language, specifically developed for AI and automation processes...",
@@ -39385,7 +39434,7 @@
     "tagline_pt": "Pi é uma interface unificada para grandes modelos de linguagem (large language models) que otimiza os processos de desenvolvimento de software...",
     "tagline_es": "Pi es una interfaz unificada para modelos de lenguaje grandes (large language models) que ofrece procesos de desarrollo de software...",
     "tagline_de": "Pi bietet eine einheitliche Schnittstelle für große Sprachmodelle (Large Language Models) und unterstützt Softwareentwicklungsprozesse...",
-    "last_seen": "2026-09-16"
+    "last_seen": "2026-10-02"
   },
   {
     "slug": "security-audit-skill",
@@ -39661,7 +39710,7 @@
     "slug": "cline",
     "title": "Cline",
     "tagline": "Cline, yazılım geliştirme süreçlerini otomatize eden otonom bir kodlama ajanıdır.",
-    "meta": "★ 69.702 · TypeScript",
+    "meta": "★ 69.713 · TypeScript",
     "image": "/assets/discover/og/cline.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -39669,7 +39718,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 69702,
+    "stars": 69713,
     "summary": "Cline, yazılım geliştirme süreçlerini otomatize eden otonom bir kodlama ajanıdır. IDE eklentisi, yazılım geliştirme kiti (SDK) veya komut satırı arayüzü (CLI) üzerinden çalışarak geliştiricilerin projelerine entegre olur.",
     "lite": false,
     "headline": "Yazılım geliştirme süreçlerini otomatize eden yapay zekâ ajanı",
@@ -39715,6 +39764,13 @@
         "yildiz": 69702,
         "onceki_yildiz": 69633,
         "surum": "desktop-v0.0.41",
+        "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 69713,
+        "onceki_yildiz": 69702,
+        "surum": "desktop-v0.0.42",
         "surum_tarihi": "2026-10-02"
       }
     ],
@@ -40806,14 +40862,14 @@
     "slug": "runner-images",
     "title": "Runner Images",
     "tagline": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun…",
-    "meta": "★ 13.393 · PowerShell",
+    "meta": "★ 13.414 · PowerShell",
     "image": "/assets/discover/og/runner-images.webp",
     "source": "GitHub",
     "date": "2026-09-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13393,
+    "stars": 13414,
     "last_seen": "2026-09-27",
     "summary": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.",
     "lite": false,
@@ -40835,6 +40891,13 @@
         "onceki_yildiz": 13377,
         "surum": "ubuntu22-arm64/20260920.137",
         "surum_tarihi": "2026-09-25"
+      },
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 13414,
+        "onceki_yildiz": 13393,
+        "surum": "win11-vs2026-arm64/20260924.168",
+        "surum_tarihi": "2026-09-29"
       }
     ],
     "tagline_en": "GitHub Actions runner images are part of the GitHub Actions platform, which automates software development processes...",
@@ -40970,7 +41033,7 @@
       "Geliştirici aracı"
     ],
     "stars": 3945,
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
     "headline": "Yapay zekâ ajanlarını tek sistemde yönetin",
@@ -41038,7 +41101,7 @@
       "Geliştirici aracı"
     ],
     "stars": 14197,
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
     "summary": "NVIDIA tarafından geliştirilen OpenShell, otonom yapay zekâ ajanları için güvenli ve gizlilik odaklı bir çalışma zamanı (runtime) ortamı sunuyor. Rust diliyle yazılan bu altyapı, ajanların sistem kaynaklarına erişimini izole ederek güvenli bir yürütme alanı oluşturmayı amaçlıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için güvenli ortam",
@@ -41290,7 +41353,7 @@
       "Geliştirici aracı"
     ],
     "stars": 6801,
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
     "summary": "Google tarafından sunulan mobil geliştirme platformu Firebase, Apple cihazları için hazırlanan uygulamalara veri tabanı ve kimlik doğrulama gibi bulut hizmetleri eklemeyi sağlayan bir yazılım geliştirme kiti (SDK) sunuyor. Bu araç, geliştiricilerin Apple ekosistemi üzerinde çalışan uygulamalarında arka uç (backend) süreçlerini yönetmelerini kolaylaştırıyor.",
     "lite": false,
     "headline": "Apple uygulamaları için firebase kütüphaneleri",
@@ -41377,5 +41440,84 @@
     "tagline_pt": "O Codegraph é uma ferramenta local de grafo de conhecimento (knowledge graph) que pré-indexa bases de código e as fornece a modelos de inteligência artificial.",
     "tagline_es": "Codegraph es una herramienta de grafo de conocimiento local que indexa previamente las bases de código para ponerlas a disposición de los modelos de inteligencia artificial.",
     "tagline_de": "Codegraph ist ein lokales Wissensgraph-Tool (Knowledge Graph), das Codebasen vorab indiziert und KI-Modellen bereitstellt."
+  },
+  {
+    "slug": "tilelang",
+    "title": "Tilelang",
+    "tagline": "Tilelang, yüksek performanslı grafik işlem birimi (GPU), merkezi işlem birimi (CPU) ve hızlandırıcı çekirdekleri (kernels)…",
+    "meta": "★ 8.208 · Python",
+    "image": "/assets/discover/og/tilelang.webp",
+    "source": "GitHub",
+    "date": "2026-10-02",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 8208,
+    "last_seen": "2026-10-02",
+    "summary": "Tilelang, yüksek performanslı grafik işlem birimi (GPU), merkezi işlem birimi (CPU) ve hızlandırıcı çekirdekleri (kernels) geliştirmeyi kolaylaştıran alana özgü bir dil (domain-specific language). Python tabanlı bu araç, karmaşık donanım optimizasyon süreçlerini basitleştirerek yazılım geliştiricilerin daha verimli hesaplama birimleri oluşturmasına olanak tanıyor.",
+    "lite": false,
+    "headline": "Yüksek performanslı çekirdekler oluşturun",
+    "last_review": "2026-10-02",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-02",
+        "yildiz": 8208,
+        "onceki_yildiz": 8196,
+        "surum": "v0.1.15",
+        "surum_tarihi": "2026-09-30"
+      }
+    ],
+    "tagline_en": "Tilelang, high-performance graphics processing unit (GPU), central processing unit (CPU), and accelerator kernels...",
+    "tagline_fr": "Tilelang, des unités de traitement graphique (GPU), des unités centrales de traitement (CPU) et des noyaux d'accélération haute performance…",
+    "tagline_pt": "Tilelang, unidades de processamento gráfico (GPU), unidades centrais de processamento (CPU) e núcleos de acelerador (kernels) de alto desempenho...",
+    "tagline_es": "Tilelang, una unidad de procesamiento gráfico (GPU), unidad central de procesamiento (CPU) y núcleos aceleradores (kernels) de alto rendimiento...",
+    "tagline_de": "Tilelang, hochleistungsfähige Grafikprozessoren (GPU), Zentralprozessoren (CPU) und Beschleunigerkerne (Kernels)…"
+  },
+  {
+    "slug": "yoinks",
+    "title": "Yoinks",
+    "tagline": "Yoinks, uçbirim (terminal) üzerinden herhangi bir videoyu reklam veya yönlendirme olmadan indirmeye yarayan bir araçtır.",
+    "meta": "★ 3.165 · TypeScript",
+    "image": "/assets/discover/og/yoinks.webp",
+    "source": "GitHub",
+    "date": "2026-10-02",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 3165,
+    "last_seen": "2026-10-02",
+    "summary": "Yoinks, uçbirim (terminal) üzerinden herhangi bir videoyu reklam veya yönlendirme olmadan indirmeye yarayan bir araçtır. TypeScript ile geliştirilen bu yazılım, video dosyalarını doğrudan yerel depolama birimine aktarmak için pratik bir yöntem sunar.",
+    "lite": false,
+    "headline": "Uçbirim üzerinden hızlı video indirme",
+    "last_review": "2026-10-02",
+    "tagline_en": "Yoinks is a tool used to download any video via the terminal without ads or redirects.",
+    "tagline_fr": "Yoinks est un outil permettant de télécharger n'importe quelle vidéo via le terminal sans publicité ni redirection.",
+    "tagline_pt": "Yoinks é uma ferramenta para baixar qualquer vídeo via terminal sem anúncios ou redirecionamentos.",
+    "tagline_es": "Yoinks es una herramienta que sirve para descargar cualquier video a través de la terminal sin anuncios ni redirecciones.",
+    "tagline_de": "Yoinks ist ein Tool, mit dem man jedes Video über das Terminal ohne Werbung oder Weiterleitungen herunterladen kann."
+  },
+  {
+    "slug": "unimate",
+    "title": "UniMate",
+    "tagline": "UniMate, farklı iskelet yapılarını tek bir model üzerinden hareketlendirmeye yarayan bir animasyon teknolojisi.",
+    "meta": "★ 1.166 · Python",
+    "image": "/assets/discover/og/unimate.webp",
+    "source": "GitHub",
+    "date": "2026-10-02",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1166,
+    "last_seen": "2026-10-02",
+    "summary": "UniMate, farklı iskelet yapılarını tek bir model üzerinden hareketlendirmeye yarayan bir animasyon teknolojisi. SIGGRAPH Asia 2026 kapsamında sunulan bu çalışma, karakter animasyonu süreçlerini standartlaştırmayı amaçlıyor.",
+    "lite": false,
+    "headline": "Farklı karakter iskeletlerini tek modelle canlandırın",
+    "last_review": "2026-10-02",
+    "tagline_en": "UniMate is an animation technology used to animate different skeletal structures using a single model.",
+    "tagline_fr": "UniMate est une technologie d'animation permettant d'animer différentes structures de squelettes à partir d'un seul modèle.",
+    "tagline_pt": "UniMate é uma tecnologia de animação usada para animar diferentes estruturas de esqueleto através de um único modelo.",
+    "tagline_es": "UniMate es una tecnología de animación que sirve para animar diferentes estructuras de esqueleto a través de un único modelo.",
+    "tagline_de": "UniMate ist eine Animationstechnologie, mit der verschiedene Skelettstrukturen über ein einziges Modell animiert werden können."
   }
 ]

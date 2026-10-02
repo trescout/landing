@@ -1,31 +1,36 @@
 # Qu'est-ce que Runtime ?
 
-C'est le moment où un logiciel est exécuté sur l'ordinateur et l'environnement dont il a besoin dans ce processus.
+Le runtime (temps d'exécution) désigne la période durant laquelle un programme est réellement exécuté sur le processeur et dans la mémoire de l'ordinateur après la phase de compilation, ainsi que l'infrastructure logicielle (Runtime Environment) qui rend cette exécution possible.
 
-## Définition
-L’heure à laquelle le code est écrit et l’heure à laquelle il s’exécute sont différentes. Le runtime fait référence au processus dans lequel le code n'est plus un fichier mais réside activement dans le processeur et la mémoire de l'ordinateur.
+## 1. Les deux significations fondamentales du concept de runtime
+En génie logiciel, le terme "Runtime" fait référence à deux concepts différents selon le contexte :
 
-## Comment ça marche
-Au démarrage du programme, l'ordinateur alloue les ressources nécessaires et traite les codes ligne par ligne, les rendant ainsi prêts à l'interaction de l'utilisateur.
+## 2. Différence entre Compile-Time et Runtime
 
-## Où est-ce utilisé
-Il est utilisé pour surveiller les performances en direct du programme pendant les processus de développement logiciel et de débogage.
+## 3. Runtimes gérés (Managed) vs non gérés (Unmanaged)
 
-## Souvent confondu avec
-Il est confondu avec le moment de la compilation ; le moment de la compilation est la préparation, le moment de l'exécution est l'exécution.
+## 4. La guerre des runtimes JavaScript modernes : Node.js vs Deno vs Bun
 
 ## Questions fréquentes
-**Que signifie l’erreur d’exécution ?**
-C'est lorsque le programme rencontre une situation inattendue pendant son exécution et plante ou génère une erreur.
+**Que signifie « runtime » et quel est son équivalent en français ?**
+En français, on l'appelle « temps d'exécution » ou « environnement d'exécution ». Il désigne l'intervalle de temps pendant lequel un programme passe de l'état de code source à une exécution réelle sur le matériel informatique, ainsi que la couche logicielle qui prend en charge cette exécution.
 
-**Chaque logiciel a-t-il un runtime ?**
-Oui, tout logiciel pouvant fonctionner a besoin d’un environnement de travail.
+**Qu'est-ce qu'une erreur d'exécution (Runtime Error) ?**
+Il s'agit d'une erreur qui survient après avoir passé avec succès l'étape de compilation, mais qui provoque le plantage soudain de l'application pendant son exécution en raison d'une situation inattendue (division par zéro, accès à un objet vide, mémoire vive insuffisante).
+
+**Node.js est-il un langage de programmation ou un environnement d'exécution (runtime) ?**
+Node.js n'est pas un langage ; c'est un environnement d'exécution JavaScript open source qui permet au code JavaScript de s'exécuter sur des serveurs et des ordinateurs sans avoir besoin d'un navigateur.
+
+**Comment la compilation JIT (Just-In-Time) fonctionne-t-elle au moment de l'exécution ?**
+Le compilateur JIT détecte instantanément les blocs de code fréquemment utilisés ("hot paths") pendant l'exécution du programme et convertit ces blocs en code machine natif à la volée, augmentant ainsi considérablement les performances de l'application.
 
 
 ## Termes liés
-- [Compile-time](/fr/dictionary/compile-time/)
-- [State Management](/fr/dictionary/state-management/)
-- [API](/fr/dictionary/api/)
+- [Memory Management](/fr/dictionary/memory-management/)
+- [Assembly](/fr/dictionary/assembly/)
+- [Compilation](/fr/dictionary/compilation/)
+- [Bundler](/fr/dictionary/bundler/)
+- [Tech Stack](/fr/dictionary/tech-stack/)
 
 ## Outils liés
 - [Andrej Karpathy Skills](/fr/discover/andrej-karpathy-skills/)
@@ -33,9 +38,9 @@ Oui, tout logiciel pouvant fonctionner a besoin d’un environnement de travail.
 - [Deno](/fr/discover/deno/)
 - [BUN](/fr/discover/bun/)
 - [Svelte](/fr/discover/svelte/)
+- [Wand-Enhancer](/fr/discover/wand-enhancer/)
 - [Onnxruntime](/fr/discover/onnxruntime/)
-- [Flue](/fr/discover/flue/)
-- [Switchyard](/fr/discover/switchyard/)
+- [Univer](/fr/discover/univer/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/runtime/

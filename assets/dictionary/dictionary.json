@@ -8760,5 +8760,44 @@
     "kisa_pt": "Uma ferramenta simples de teste de desempenho usada para medir quantas pessoas um servidor web pode suportar ao mesmo tempo.",
     "kisa_es": "Una herramienta sencilla de prueba de rendimiento que sirve para medir cuántas personas puede soportar un servidor web al mismo tiempo.",
     "kisa_de": "Ein einfaches Leistungstest-Tool, mit dem gemessen werden kann, wie viele Personen ein Webserver gleichzeitig bewältigen kann."
+  },
+  {
+    "slug": "llm-api",
+    "en": "LLM API",
+    "full": "Large Language Model Application Programming Interface",
+    "cat": "ai",
+    "kisa": "Yazılımcıların kendi uygulamalarına yapay zekâ modellerinin yeteneklerini eklemelerini sağlayan bir köprüdür.",
+    "date": "2026-10-02",
+    "kisa_en": "It is a bridge that allows developers to add the capabilities of artificial intelligence models to their own applications.",
+    "kisa_fr": "C'est un pont qui permet aux développeurs d'intégrer les capacités des modèles d'intelligence artificielle à leurs propres applications.",
+    "kisa_pt": "É uma ponte que permite aos desenvolvedores adicionar as capacidades de modelos de inteligência artificial às suas próprias aplicações.",
+    "kisa_es": "Es un puente que permite a los desarrolladores añadir las capacidades de los modelos de inteligencia artificial a sus propias aplicaciones.",
+    "kisa_de": "Es ist eine Brücke, die es Entwicklern ermöglicht, die Fähigkeiten von KI-Modellen in ihre eigenen Anwendungen zu integrieren."
+  },
+  {
+    "slug": "toolkit",
+    "en": "Toolkit",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Belirli bir işi daha kolay ve hızlı yapmanızı sağlayan araçlar, kütüphaneler ve rehberlerin bir arada sunulduğu settir.",
+    "date": "2026-10-02",
+    "kisa_en": "It is a set that offers tools, libraries, and guides together, allowing you to do a specific job more easily and quickly.",
+    "kisa_fr": "Il s'agit d'un ensemble regroupant des outils, des bibliothèques et des guides qui vous permettent d'accomplir une tâche spécifique plus facilement et plus rapidement.",
+    "kisa_pt": "É um conjunto que oferece ferramentas, bibliotecas e guias que permitem realizar um trabalho específico de forma mais fácil e rápida.",
+    "kisa_es": "Es un conjunto que ofrece herramientas, bibliotecas y guías que le permiten realizar una tarea específica de manera más fácil y rápida.",
+    "kisa_de": "Es ist ein Set, das Werkzeuge, Bibliotheken und Anleitungen kombiniert, mit denen Sie eine bestimmte Aufgabe einfacher und schneller erledigen können."
+  },
+  {
+    "slug": "domain-specific-language",
+    "en": "Domain-Specific Language",
+    "full": "DSL",
+    "cat": "dev",
+    "kisa": "Sadece belirli bir iş alanında veya problem türünde kullanılmak üzere tasarlanmış özelleşmiş programlama dilleridir.",
+    "date": "2026-10-02",
+    "kisa_en": "These are specialized programming languages designed to be used only in a specific field of work or type of problem.",
+    "kisa_fr": "Ce sont des langages de programmation spécialisés conçus pour être utilisés uniquement dans un domaine d'activité ou un type de problème spécifique.",
+    "kisa_pt": "São linguagens de programação especializadas, projetadas para serem usadas apenas em uma área de trabalho ou tipo de problema específico.",
+    "kisa_es": "Son lenguajes de programación especializados diseñados para ser utilizados únicamente en un área de trabajo o tipo de problema específico.",
+    "kisa_de": "Es handelt sich um spezialisierte Programmiersprachen, die ausschließlich für den Einsatz in einem bestimmten Fachbereich oder für eine bestimmte Art von Problem entwickelt wurden."
   }
 ]

@@ -2,14 +2,14 @@
 
 Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük dereceli uyarlama (low-rank adaptation, LoRA) eğitim paketi sunuyor. Bu araç seti, kullanıcıların LTX-2 modellerini kendi verileriyle eğitmesine ve model çıktılarını yerel sistemlerde çalıştırmasına olanak tanıyor.
 
-- ★ 9.562
+- ★ 9.567
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 9.562 → 9.567, son sürüm v1.4.2 (2 Ekim 2026).
 - 1 Ekim 2026: Yıldız 9.552 → 9.562, son sürüm v1.4.1 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 9.267 → 9.552, son sürüm v1.4.0 (29 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 8.587 → 9.267, son sürüm v1.3.0 (26 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 8.554 → 8.587, son sürüm v1.2.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ses ve video senkronizasyonu sağlar

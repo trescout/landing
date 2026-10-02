@@ -35,7 +35,7 @@ Bir yapay zekâ ajanı geliştiriyorum ve bu ajanın araç kullanımını kısı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Governance Toolkit Agentic Agent Artificial Intelligence
+Agent Governance Toolkit Toolkit Agentic Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-governance-toolkit/

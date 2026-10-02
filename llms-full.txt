@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-10-02 · 604 araç · 674 terim
+Son güncelleme: 2026-10-02 · 607 araç · 677 terim
 
 ---
 
@@ -10143,6 +10143,50 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Domain-Specific Language nedir?
+
+> DSL
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-10-02
+
+Sadece belirli bir iş alanında veya problem türünde kullanılmak üzere tasarlanmış özelleşmiş programlama dilleridir.
+
+## Tanım
+Genel amaçlı dillerin (Python veya Java gibi) aksine, bir DSL belirli bir görev için optimize edilmiştir. Örneğin, bir web sayfasının görünümünü düzenlemek için kullanılan CSS veya veritabanı sorguları için kullanılan SQL, kendi alanlarında uzmanlaşmış dillerdir. Bu diller, o alana özel karmaşıklıkları basitleştirerek geliştiricinin daha az kodla daha çok iş yapmasını sağlar.
+
+## Bir benzetmeyle
+Genel amaçlı bir dil, her türlü tamiratı yapabilen bir İsviçre çakısı gibidir. Bir DSL ise sadece vida sıkmak için tasarlanmış özel bir elektrikli tornavida gibidir; İsviçre çakısı kadar çok yönlü değildir ama kendi işini çok daha hızlı ve hatasız yapar.
+
+## Nasıl çalışır?
+Bir DSL kullanırken, o dilin tanımlandığı alanın dışına çıkmanız zordur çünkü dilin sözlüğü ve kuralları sadece o alana hizmet eder. Geliştiriciler, karmaşık sistemleri daha okunabilir ve yönetilebilir kılmak için kendi projelerinde küçük, özel DSL'ler oluşturabilirler.
+
+## Nerede kullanılır?
+Web geliştirme (CSS, HTML), veritabanı yönetimi (SQL), yapılandırma dosyaları (YAML) ve finansal modelleme gibi alanlarda sıkça karşınıza çıkar.
+
+## Sık karıştırılanlar
+Genel amaçlı programlama dilleriyle karıştırılabilir; aradaki fark, birinin her şeyi yapmaya çalışması, diğerinin ise tek bir işi mükemmel yapmaya odaklanmasıdır.
+
+## Sıkça sorulanlar
+
+**Neden her iş için bir DSL kullanmıyoruz?**  
+Çünkü her yeni dilin öğrenilmesi ve bakımı ayrı bir maliyettir. Genel amaçlı diller, esneklik gerektiren büyük projelerde hala vazgeçilmezdir.
+
+**SQL bir DSL midir?**  
+Evet, SQL veritabanı sorguları için optimize edilmiş, kendi alanına özgü bir dildir.
+
+## İlgili terimler
+- [Syntax](/dictionary/syntax/)
+- [Framework](/dictionary/framework/)
+- [Specification](/dictionary/specification/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/domain-specific-language/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Dossier nedir?
 
 **Kategori:** Veri & Altyapı  
@@ -16455,6 +16499,50 @@ Milyarlarca parametrenin her bir token üretiminde GPU/NPU video belleğinde (VR
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/llm/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# LLM API nedir?
+
+> Large Language Model Application Programming Interface
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-10-02
+
+Yazılımcıların kendi uygulamalarına yapay zekâ modellerinin yeteneklerini eklemelerini sağlayan bir köprüdür.
+
+## Tanım
+Bir yapay zekâ modelini doğrudan kendi bilgisayarınızda çalıştırmak yerine, internet üzerinden bu modele soru sorup cevap almanızı sağlayan bir bağlantı noktasıdır. Yazılımcılar bu arayüzü kullanarak kendi programlarını yapay zekâ ile konuşturabilirler. Yani siz bir uygulama geliştirirken, modelin karmaşık hesaplamalarını kendi sunucunuzda yapmak zorunda kalmaz, hazır bir hizmeti kullanırsınız.
+
+## Bir benzetmeyle
+Bir restoranda mutfağa girip yemeği kendiniz pişirmek yerine, garsona siparişinizi verip hazır yemeğin masanıza gelmesini beklemek gibidir.
+
+## Nasıl çalışır?
+Geliştirici, modele bir 'istek' (request) gönderir. Model bu isteği işler ve sonucu bir 'cevap' (response) olarak geri döner. Bu süreç standart bir internet protokolü üzerinden gerçekleşir.
+
+## Nerede kullanılır?
+Sohbet botları, otomatik içerik üreticileri ve yapay zekâ destekli tüm web uygulamalarında kullanılır.
+
+## Sık karıştırılanlar
+LLM'in kendisi değil, ona ulaşmayı sağlayan kapıdır.
+
+## Sıkça sorulanlar
+
+**Herkes LLM API kullanabilir mi?**  
+Evet, ancak genellikle bir ücret ödemeniz veya bir anahtar (API key) almanız gerekir.
+
+**Kendi bilgisayarımda çalışan bir modelden farkı nedir?**  
+Kendi bilgisayarınızda donanım gücüne ihtiyaç duyarsınız, API kullanımında ise tüm yük karşı taraftaki sunucudadır.
+
+## İlgili terimler
+- [LLM](/dictionary/llm/)
+- [API](/dictionary/api/)
+- [Inference](/dictionary/inference/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/llm-api/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -30087,6 +30175,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Toolkit nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-10-02
+
+Belirli bir işi daha kolay ve hızlı yapmanızı sağlayan araçlar, kütüphaneler ve rehberlerin bir arada sunulduğu settir.
+
+## Tanım
+Bir işe başlarken sıfırdan her şeyi kurmak yerine, işin uzmanları tarafından hazırlanmış hazır parçaları içeren bir çantadır. İçinde genellikle kod parçaları, yardımcı programlar ve nasıl yapacağınızı anlatan dokümanlar bulunur. Amacı, sizin tekerleği yeniden icat etmenizi engellemektir.
+
+## Bir benzetmeyle
+Tamir yaparken ihtiyacınız olan tüm tornavida, pense ve anahtarların tek bir çanta içinde size verilmesi gibidir.
+
+## Nasıl çalışır?
+Genellikle bir kütüphane olarak projenize dahil edilir veya bir yazılım paketi olarak bilgisayarınıza kurulur.
+
+## Nerede kullanılır?
+Yapay zekâ geliştirme, web tasarımı veya siber güvenlik gibi birçok teknik alanda kullanılır.
+
+## Sık karıştırılanlar
+Tek bir araç değil, araçlar bütünüdür.
+
+## Sıkça sorulanlar
+
+**Toolkit kullanmak zorunlu mu?**  
+Hayır, ama işinizi çok daha hızlı bitirmenizi sağlar.
+
+**Framework ile farkı nedir?**  
+Framework projenizin temel iskeletini kurarken, toolkit daha çok yardımcı araçlar setidir.
+
+## İlgili terimler
+- [Framework](/dictionary/framework/)
+- [Tools](/dictionary/tools/)
+- [SDK](/dictionary/sdk/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/toolkit/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Tools ne demek, nedir?
 
 **Kategori:** Geliştirme  
@@ -35447,7 +35577,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Clone LLM API Open Source Artificial Intelligence
+LLM API Clone LLM API Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/moneyprinterturbo/
@@ -39051,7 +39181,7 @@ MiroFish aracını kullanarak bir simülasyon başlatmak istiyorum. Öncelikle .
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Swarm Intelligence Engine Swarm Intelligence Sandbox LLM API Artificial Intelligence
+Swarm Intelligence Engine Swarm Intelligence LLM API Sandbox LLM API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mirofish/
@@ -39381,15 +39511,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Cline, yazılım geliştirme süreçlerini otomatize eden otonom bir kodlama ajanıdır. IDE eklentisi, yazılım geliştirme kiti (SDK) veya komut satırı arayüzü (CLI) üzerinden çalışarak geliştiricilerin projelerine entegre olur.
 
-- ★ 69.702
+- ★ 69.713
 - TypeScript
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 69.702 → 69.713, son sürüm desktop-v0.0.42 (2 Ekim 2026).
 - 2 Ekim 2026: Yıldız 69.633 → 69.702, son sürüm desktop-v0.0.41 (2 Ekim 2026).
 - 1 Ekim 2026: Yıldız 69.588 → 69.633, son sürüm desktop-v0.0.40 (30 Eylül 2026).
 - 30 Eylül 2026: Yıldız 69.533 → 69.588, son sürüm desktop-v0.0.39 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 69.401 → 69.533, son sürüm sdk/sdk/v0.0.87 (29 Eylül 2026).
 
 ## Ne kazandırır?
 - Proje genelinde koordineli kod düzenlemeleri yapar
@@ -43332,15 +43462,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.
 
-- ★ 43.199
+- ★ 43.206
 - Go
 - GitHub Trending · 2026-08-23
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 43.199 → 43.206, son sürüm v0.2.13 (2 Ekim 2026).
 - 2 Ekim 2026: Yıldız 43.119 → 43.199, son sürüm v0.2.12 (2 Ekim 2026).
 - 30 Eylül 2026: Yıldız 43.041 → 43.119, son sürüm v0.2.11 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 42.966 → 43.041, son sürüm v0.2.10 (29 Eylül 2026).
-- 28 Eylül 2026: Yıldız 42.879 → 42.966, son sürüm v0.2.9 (28 Eylül 2026).
 
 ## Ne kazandırır?
 - Farklı yapay zekâ aboneliklerini tek arayüzde birleştirir
@@ -45669,6 +45799,73 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Hızlı ve hafif yapay zekâ tarayıcısı
+
+Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş, Zig diliyle yazılmış bir başsız tarayıcı (headless browser). Geleneksel tarayıcılara kıyasla daha az kaynak tüketerek veri kazıma ve web otomasyonu işlemlerini hızlandırmayı amaçlıyor.
+
+- ★ 35.689
+- Zig
+- GitHub Trending · 2026-09-08
+
+## Güncelleme
+- 2 Ekim 2026: Yıldız 35.072 → 35.689, son sürüm 1.0.0 (2 Ekim 2026).
+- 8 Eylül 2026: Yıldız 35.068 → 35.072, son sürüm nightly (16 Temmuz 2024).
+
+## Ne kazandırır?
+- Geleneksel tarayıcılara göre 16 kata kadar daha az bellek tüketimi sağlar.
+- Web sayfalarını 9 kata kadar daha hızlı işleyerek veri kazıma süreçlerini hızlandırır.
+- Doğrudan tarayıcı içinde çalışan yapay zekâ ajan desteği sunar.
+
+## Kurulum
+
+**Homebrew ile macOS kurulumu**
+
+```
+brew install lightpanda-io/browser/lightpanda
+```
+
+**Docker ile konteyner kurulumu**
+
+```
+docker run -d --name lightpanda -p 127.0.0.1:9222:9222 lightpanda/browser:nightly
+```
+
+## Çalıştırma
+
+**Web sayfasını metin olarak alma**
+
+```
+./lightpanda fetch --obey-robots --dump html --log-format pretty --log-level info https://demo-browser.lightpanda.io/campfire-commerce/
+```
+
+**CDP sunucusunu başlatma**
+
+```
+./lightpanda serve --obey-robots --log-format pretty --log-level info --host 127.0.0.1 --port 9222
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen bir web otomasyon uzmanısın. Lightpanda başsız tarayıcıyı kullanarak belirtilen web sitesindeki verileri en verimli şekilde çekmeni istiyorum. Bellek kullanımını optimize et, robots.txt kurallarına uy ve elde ettiğin veriyi yapılandırılmış bir formatta sun. İşlemi gerçekleştirirken hata payını düşürmek için gerekli bekleme sürelerini (wait-selector veya wait-ms) dinamik olarak ayarla.
+
+- **Kimin için:** Hızlı veri kazıma ve web otomasyonu süreçlerinde kaynak tasarrufu yapmak isteyen yazılımcılar ve yapay zekâ ajanı geliştirenler için uygundur. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/lightpanda-io/browser)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Headless Browser Web Scraping Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/browser/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Konteyner ve bulut güvenlik tarayıcısı
 
 Trivy, konteynerler, Kubernetes kümeleri, kod depoları ve bulut altyapılarındaki güvenlik açıklarını, hatalı yapılandırmaları ve gizli anahtarları (secrets) saniyeler içinde tespit eden kapsamlı bir güvenlik tarama aracıdır. Yazılım malzeme listesi (SBOM) desteğiyle DevSecOps süreçlerini uçtan uca otomatize eder.
@@ -46024,72 +46221,6 @@ Refactoring IDE Coding Agent LLM Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/continue/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Hızlı ve hafif yapay zekâ tarayıcısı
-
-Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş, Zig diliyle yazılmış bir başsız tarayıcı (headless browser). Geleneksel tarayıcılara kıyasla daha az kaynak tüketerek veri kazıma ve web otomasyonu işlemlerini hızlandırmayı amaçlıyor.
-
-- ★ 35.072
-- Zig
-- GitHub Trending · 2026-09-08
-
-## Güncelleme
-- 8 Eylül 2026: Yıldız 35.068 → 35.072, son sürüm nightly (16 Temmuz 2024).
-
-## Ne kazandırır?
-- Geleneksel tarayıcılara göre 16 kata kadar daha az bellek tüketimi sağlar.
-- Web sayfalarını 9 kata kadar daha hızlı işleyerek veri kazıma süreçlerini hızlandırır.
-- Doğrudan tarayıcı içinde çalışan yapay zekâ ajan desteği sunar.
-
-## Kurulum
-
-**Homebrew ile macOS kurulumu**
-
-```
-brew install lightpanda-io/browser/lightpanda
-```
-
-**Docker ile konteyner kurulumu**
-
-```
-docker run -d --name lightpanda -p 127.0.0.1:9222:9222 lightpanda/browser:nightly
-```
-
-## Çalıştırma
-
-**Web sayfasını metin olarak alma**
-
-```
-./lightpanda fetch --obey-robots --dump html --log-format pretty --log-level info https://demo-browser.lightpanda.io/campfire-commerce/
-```
-
-**CDP sunucusunu başlatma**
-
-```
-./lightpanda serve --obey-robots --log-format pretty --log-level info --host 127.0.0.1 --port 9222
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sen bir web otomasyon uzmanısın. Lightpanda başsız tarayıcıyı kullanarak belirtilen web sitesindeki verileri en verimli şekilde çekmeni istiyorum. Bellek kullanımını optimize et, robots.txt kurallarına uy ve elde ettiğin veriyi yapılandırılmış bir formatta sun. İşlemi gerçekleştirirken hata payını düşürmek için gerekli bekleme sürelerini (wait-selector veya wait-ms) dinamik olarak ayarla.
-
-- **Kimin için:** Hızlı veri kazıma ve web otomasyonu süreçlerinde kaynak tasarrufu yapmak isteyen yazılımcılar ve yapay zekâ ajanı geliştirenler için uygundur. 
-- **Lisans:** AGPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/lightpanda-io/browser)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Headless Browser Web Scraping Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/browser/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -48280,6 +48411,73 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Tasarım sistemlerini yapay zekâya tanıtın
+
+Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir format spesifikasyonu sunuyor. Bu standart, tasarım sistemlerinin (design systems) yapay zekâ ajanları tarafından tutarlı ve kalıcı bir şekilde anlaşılmasını sağlıyor.
+
+- ★ 28.217
+- TypeScript
+- GitHub Trending · 2026-06-25
+
+## Güncelleme
+- 2 Ekim 2026: Yıldız 26.873 → 28.217, son sürüm 0.4.0 (27 Temmuz 2026).
+- 2 Ağustos 2026: Yıldız 17.720 → 26.873, son sürüm 0.4.0 (27 Temmuz 2026).
+
+## Ne kazandırır?
+- Tasarım kararlarını yapılandırılmış formatta saklar
+- Kodlama ajanları için tutarlı görsel rehberlik sağlar
+- Tasarım hatalarını ve tutarsızlıkları otomatik denetler
+
+## Kurulum
+
+**Paketi yükleme**
+
+```
+npm install @google/design.md
+```
+
+**Windows için yükleme**
+
+```
+npm install "@google/design.md"
+```
+
+## Çalıştırma
+
+**Tasarım dosyasını doğrulama**
+
+```
+npx @google/design.md lint DESIGN.md
+```
+
+**İki tasarım dosyasını kıyaslama**
+
+```
+npx @google/design.md diff DESIGN.md DESIGN-v2.md
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Projemin görsel kimliğini ve tasarım sistemini tanımlayan DESIGN.md dosyasını incele. Bu dosyada yer alan renk paleti, tipografi kuralları, boşluk değerleri ve bileşen tanımlarını referans alarak oluşturacağın tüm kodlarda bu yapıya sadık kal. Tasarım sistemindeki değerleri doğrudan kullan ve herhangi bir görsel tutarsızlık oluşturmaktan kaçın.
+
+- **Kimin için:** Tasarım sistemlerini kodlama ajanlarına doğru ve kalıcı bir şekilde aktarmak isteyen geliştiriciler içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/google-labs-code/design.md)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+DESIGN.md Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/design-md/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ için hızlı araç entegrasyonu
 
 FastMCP, Model Bağlam Protokolü (Model Context Protocol - MCP) sunucuları ve istemcileri geliştirmeyi kolaylaştıran Python tabanlı bir çerçevedir (framework). Geliştiricilerin yapay zekâ modelleri ile yerel araçlar arasında hızlı entegrasyon kurmasını sağlar.
@@ -48720,72 +48918,6 @@ Skill Agent API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/video-use/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Tasarım sistemlerini yapay zekâya tanıtın
-
-Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir format spesifikasyonu sunuyor. Bu standart, tasarım sistemlerinin (design systems) yapay zekâ ajanları tarafından tutarlı ve kalıcı bir şekilde anlaşılmasını sağlıyor.
-
-- ★ 26.873
-- TypeScript
-- GitHub Trending · 2026-06-25
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 17.720 → 26.873, son sürüm 0.4.0 (27 Temmuz 2026).
-
-## Ne kazandırır?
-- Tasarım kararlarını yapılandırılmış formatta saklar
-- Kodlama ajanları için tutarlı görsel rehberlik sağlar
-- Tasarım hatalarını ve tutarsızlıkları otomatik denetler
-
-## Kurulum
-
-**Paketi yükleme**
-
-```
-npm install @google/design.md
-```
-
-**Windows için yükleme**
-
-```
-npm install "@google/design.md"
-```
-
-## Çalıştırma
-
-**Tasarım dosyasını doğrulama**
-
-```
-npx @google/design.md lint DESIGN.md
-```
-
-**İki tasarım dosyasını kıyaslama**
-
-```
-npx @google/design.md diff DESIGN.md DESIGN-v2.md
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Projemin görsel kimliğini ve tasarım sistemini tanımlayan DESIGN.md dosyasını incele. Bu dosyada yer alan renk paleti, tipografi kuralları, boşluk değerleri ve bileşen tanımlarını referans alarak oluşturacağın tüm kodlarda bu yapıya sadık kal. Tasarım sistemindeki değerleri doğrudan kullan ve herhangi bir görsel tutarsızlık oluşturmaktan kaçın.
-
-- **Kimin için:** Tasarım sistemlerini kodlama ajanlarına doğru ve kalıcı bir şekilde aktarmak isteyen geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/google-labs-code/design.md)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-DESIGN.md Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/design-md/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -50281,15 +50413,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.
 
-- ★ 22.531
+- ★ 22.606
 - Rust
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 22.531 → 22.606, son sürüm v0.8.11 (2 Ekim 2026).
 - 30 Eylül 2026: Yıldız 22.300 → 22.531, son sürüm v0.8.10 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 22.267 → 22.300, son sürüm v0.8.9 (27 Eylül 2026).
 - 27 Eylül 2026: Yıldız 21.261 → 22.267, son sürüm v0.8.8 (25 Eylül 2026).
-- 16 Eylül 2026: Yıldız 20.415 → 21.261, son sürüm v0.8.5 (16 Eylül 2026).
 
 ## Ne kazandırır?
 - Hesap oluşturmadan yerel kontrol sağlar
@@ -52400,7 +52532,7 @@ Evet, arayüz üzerinden tek tıkla şemanın yüksek çözünürlüklü PNG vey
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun güncel teknik mimarisini ve açık kaynak topluluğundaki kullanım pratiklerini özetler. Detaylar için resmi depoya bakın.
 
 ## İlgili sözlük terimleri
-SVG Mermaid API Gateway Gateway Database Token
+SVG Mermaid LLM API API Gateway Gateway Database
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gitdiagram/
@@ -53550,7 +53682,7 @@ Benim için mobil cihaz adli bilişim aracı olan Mobile Verification Toolkit ü
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Mobile Verification Toolkit Artificial Intelligence
+Mobile Verification Toolkit Toolkit Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mvt/
@@ -54626,11 +54758,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.
 
-- ★ 13.393
+- ★ 13.414
 - PowerShell
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 13.393 → 13.414, son sürüm win11-vs2026-arm64/20260924.168 (29 Eylül 2026).
 - 28 Eylül 2026: Yıldız 13.377 → 13.393, son sürüm ubuntu22-arm64/20260920.137 (25 Eylül 2026).
 - 27 Eylül 2026: Yıldız 13.359 → 13.377, son sürüm win25/20260922.270 (23 Eylül 2026).
 
@@ -57355,14 +57488,14 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Lightricks tarafından geliştirilen LTX-2, ses ve video üreten yapay zekâ modelleri için Python çıkarım (inference) ve düşük dereceli uyarlama (low-rank adaptation, LoRA) eğitim paketi sunuyor. Bu araç seti, kullanıcıların LTX-2 modellerini kendi verileriyle eğitmesine ve model çıktılarını yerel sistemlerde çalıştırmasına olanak tanıyor.
 
-- ★ 9.562
+- ★ 9.567
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 2 Ekim 2026: Yıldız 9.562 → 9.567, son sürüm v1.4.2 (2 Ekim 2026).
 - 1 Ekim 2026: Yıldız 9.552 → 9.562, son sürüm v1.4.1 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 9.267 → 9.552, son sürüm v1.4.0 (29 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 8.587 → 9.267, son sürüm v1.3.0 (26 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 8.554 → 8.587, son sürüm v1.2.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ses ve video senkronizasyonu sağlar
@@ -57454,6 +57587,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanlarına bilgisayar kontrolü
+
+Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların işletim sistemi üzerinde komut çalıştırmasına ve dosya sistemine erişerek karmaşık görevleri otomatize etmesine olanak tanıyor.
+
+- ★ 9.410
+- TypeScript
+- GitHub Trending · 2026-08-06
+
+## Güncelleme
+- 2 Ekim 2026: Yıldız 9.339 → 9.410, son sürüm @cloudflare/computer@0.4.0 (2 Ekim 2026).
+- 1 Ekim 2026: Yıldız 9.221 → 9.339, son sürüm @cloudflare/computer@0.3.2 (1 Ekim 2026).
+- 19 Eylül 2026: Yıldız 9.162 → 9.221, son sürüm @cloudflare/computer@0.3.1 (18 Eylül 2026).
+- 12 Eylül 2026: Yıldız 8.393 → 9.162, son sürüm @cloudflare/computer@0.3.0 (11 Eylül 2026).
+
+## Ne kazandırır?
+- Ajanların işletim sistemi üzerinde komut çalıştırmasını sağlar
+- Dosya sistemine erişerek karmaşık görevleri otomatize eder
+- Konteyner veya izole edilmiş çalışma ortamları sunar
+
+## Nasıl başlanır?
+
+Bu aracı kullanmaya başlamak için öncelikle Cloudflare Computer paketini projenize dahil etmeniz gerekir. Kurulum adımları, giriş noktası haritası ve dosya sistemi kullanımıyla ilgili örnekler için GitHub deposundaki packages/computer dizininde yer alan README dosyasını inceleyebilirsiniz.
+- [Resmî kaynak →](https://github.com/vercel-labs/just-bash)
+
+- **Kimin için:** Yapay zekâ ajanlarına yerel veya uzak bilgisayarlar üzerinde dosya yönetimi ve komut çalıştırma yeteneği kazandırmak isteyen geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/cloudflare/computer)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/computer/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Wi-Fi sinyalleri ile hareket algılama
 
 ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama gerçekleştiren bir sistemdir. Ev otomasyon platformu Ev Asistanı (Home Assistant) ile entegre çalışarak kablosuz ağ sinyallerini izleme yeteneği sunar.
@@ -57488,48 +57663,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/espectre/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanlarına bilgisayar kontrolü
-
-Cloudflare tarafından geliştirilen Computer, yapay zekâ ajanlarına yerel veya uzak bir bilgisayarı kontrol etme yeteneği kazandıran bir TypeScript kütüphanesi. Bu araç, ajanların işletim sistemi üzerinde komut çalıştırmasına ve dosya sistemine erişerek karmaşık görevleri otomatize etmesine olanak tanıyor.
-
-- ★ 9.339
-- TypeScript
-- GitHub Trending · 2026-08-06
-
-## Güncelleme
-- 1 Ekim 2026: Yıldız 9.221 → 9.339, son sürüm @cloudflare/computer@0.3.2 (1 Ekim 2026).
-- 19 Eylül 2026: Yıldız 9.162 → 9.221, son sürüm @cloudflare/computer@0.3.1 (18 Eylül 2026).
-- 12 Eylül 2026: Yıldız 8.393 → 9.162, son sürüm @cloudflare/computer@0.3.0 (11 Eylül 2026).
-- 18 Ağustos 2026: Yıldız 7.642 → 8.393, son sürüm @cloudflare/computer@0.2.1 (17 Ağustos 2026).
-
-## Ne kazandırır?
-- Ajanların işletim sistemi üzerinde komut çalıştırmasını sağlar
-- Dosya sistemine erişerek karmaşık görevleri otomatize eder
-- Konteyner veya izole edilmiş çalışma ortamları sunar
-
-## Nasıl başlanır?
-
-Bu aracı kullanmaya başlamak için öncelikle Cloudflare Computer paketini projenize dahil etmeniz gerekir. Kurulum adımları, giriş noktası haritası ve dosya sistemi kullanımıyla ilgili örnekler için GitHub deposundaki packages/computer dizininde yer alan README dosyasını inceleyebilirsiniz.
-- [Resmî kaynak →](https://github.com/vercel-labs/just-bash)
-
-- **Kimin için:** Yapay zekâ ajanlarına yerel veya uzak bilgisayarlar üzerinde dosya yönetimi ve komut çalıştırma yeteneği kazandırmak isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/cloudflare/computer)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/computer/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -58697,6 +58830,57 @@ Clone Agentic Localhost RAG API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/production-agentic-rag-course/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yüksek performanslı çekirdekler oluşturun
+
+Tilelang, yüksek performanslı grafik işlem birimi (GPU), merkezi işlem birimi (CPU) ve hızlandırıcı çekirdekleri (kernels) geliştirmeyi kolaylaştıran alana özgü bir dil (domain-specific language). Python tabanlı bu araç, karmaşık donanım optimizasyon süreçlerini basitleştirerek yazılım geliştiricilerin daha verimli hesaplama birimleri oluşturmasına olanak tanıyor.
+
+- ★ 8.208
+- Python
+- GitHub Trending · 2026-10-02
+
+## Güncelleme
+- 2 Ekim 2026: Yıldız 8.196 → 8.208, son sürüm v0.1.15 (30 Eylül 2026).
+
+## Ne kazandırır?
+- GPU, CPU ve NPU için hızlı hesaplama birimleri oluşturur
+- Python tabanlı sözdizimiyle düşük seviyeli optimizasyon sağlar
+- TVM derleyici altyapısı üzerinde yüksek verimlilik sunar
+
+## Kurulum
+
+**Standart kurulum**
+
+```
+pip install tilelang
+```
+
+**Kurulumu doğrulama**
+
+```
+python -c "import tilelang; print(tilelang.__version__)"
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Tilelang kullanarak yüksek performanslı bir GPU çekirdeği geliştirmek istiyorum. Python tabanlı bu yapıyı kullanarak matris çarpımı veya dikkat mekanizması gibi işlemleri optimize etmem için temel bir şablon oluşturur musun? Donanım optimizasyonlarını ve TVM altyapısını göz önünde bulundurarak verimliliği artıracak yöntemleri açıklar mısın?
+
+- **Kimin için:** Donanım seviyesinde yüksek performanslı hesaplama birimleri geliştirmek isteyen yazılım mühendisleri içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/tile-ai/tilelang)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Domain-Specific Language Kernels CPU GPU Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/tilelang/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -61710,7 +61894,7 @@ Bir yapay zekâ ajanı geliştiriyorum ve bu ajanın araç kullanımını kısı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Governance Toolkit Agentic Agent Artificial Intelligence
+Agent Governance Toolkit Toolkit Agentic Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-governance-toolkit/
@@ -64230,6 +64414,119 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Uçbirim üzerinden hızlı video indirme
+
+Yoinks, uçbirim (terminal) üzerinden herhangi bir videoyu reklam veya yönlendirme olmadan indirmeye yarayan bir araçtır. TypeScript ile geliştirilen bu yazılım, video dosyalarını doğrudan yerel depolama birimine aktarmak için pratik bir yöntem sunar.
+
+- ★ 3.165
+- TypeScript
+- GitHub Trending · 2026-10-02
+
+## Ne kazandırır?
+- YouTube, Instagram ve TikTok gibi 1800'den fazla siteden video indirir
+- Reklam veya sahte indirme butonları olmadan doğrudan yerel depolamaya kaydeder
+- Video çözünürlüğü seçme veya sadece ses dosyası alma imkânı sunar
+
+## Kurulum
+
+**Global olarak yükleme**
+
+```
+npm install -g yoinks
+```
+
+**Kurulum yapmadan çalıştırma**
+
+```
+npx yoinks
+```
+
+## Çalıştırma
+
+**Video bağlantısıyla başlatma**
+
+```
+yoinks https://youtu.be/dQw4w9WgXcQ
+```
+
+**Etkileşimli menü ile başlatma**
+
+```
+yoinks
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+YouTube, X, Instagram veya TikTok gibi platformlardan video indirmek istiyorum. Uçbirim üzerinde çalışan bu aracı kullanarak, verdiğim video bağlantısını doğrudan yerel indirme klasörüme kaydedecek ve çözünürlük seçeneklerini sunacak şekilde yapılandır. İşlem sırasında reklam veya yönlendirme içermeyen, temiz bir indirme süreci yürütülmesini sağla.
+
+- **Kimin için:** İnternet üzerindeki videoları tarayıcı reklamları ve karmaşık arayüzler olmadan, doğrudan bilgisayarına kaydetmek isteyen herkes için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/pablostanley/yoinks)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Terminal Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/yoinks/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Açık kaynaklı dijital müzik sunucusu
+
+Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
+
+- ★ 3.128
+- GitHub Trending · 2026-06-13
+
+## Güncelleme
+- 2 Ekim 2026: Yıldız 3.078 → 3.128, son sürüm 2.10.5 (2 Ekim 2026).
+- 18 Eylül 2026: Yıldız 3.058 → 3.078, son sürüm 2.10.4 (18 Eylül 2026).
+- 12 Eylül 2026: Yıldız 3.029 → 3.058, son sürüm 2.10.3 (11 Eylül 2026).
+- 4 Eylül 2026: Yıldız 3.018 → 3.029, son sürüm 2.10.2 (4 Eylül 2026).
+
+## Ne kazandırır?
+- Farklı dijital yayın servislerini tek arayüzde birleştirir
+- Bağlı tüm hoparlörleri merkezi olarak kontrol etmenizi sağlar
+- Home Assistant ile tam entegre çalışarak otomasyon desteği sunar
+
+## Kurulum
+
+**Docker**
+
+```
+docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/server
+```
+
+Kaynak: music-assistant.io/installation (resmî · Home Assistant eklentisi de mevcut)
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Music Assistant kullanarak dijital müzik kütüphanemi nasıl yapılandırabilirim? Home Assistant üzerinde kurulumu tamamladıktan sonra farklı yayın servislerini ve hoparlörlerimi sisteme nasıl tanıtabileceğim konusunda bana adım adım bir rehber oluştur.
+
+- **Kimin için:** Müzik koleksiyonunu ve bağlı ses cihazlarını tek bir merkezden yönetmek isteyen, Home Assistant kullanıcıları için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/music-assistant/server)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/server/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Claude Code ile Disiplinli Geliştirme
 
 Claude Code Harness , ham ajan çalışmasının dağılma eğilimini frenleyerek planla, yap, gözden geçir ve teslim et disiplinini sunar. Planların sohbette kaybolmasını önler, testleri sınırlandırır ve daha tutarlı kod üretimi sağlar. Claude Code merkezli olsa da Codex ve OpenCode için de entegrasyon yolları sunar.
@@ -64377,56 +64674,6 @@ CPU GPU
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/marin/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Açık kaynaklı dijital müzik sunucusu
-
-Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
-
-- ★ 3.078
-- GitHub Trending · 2026-06-13
-
-## Güncelleme
-- 18 Eylül 2026: Yıldız 3.058 → 3.078, son sürüm 2.10.4 (18 Eylül 2026).
-- 12 Eylül 2026: Yıldız 3.029 → 3.058, son sürüm 2.10.3 (11 Eylül 2026).
-- 4 Eylül 2026: Yıldız 3.018 → 3.029, son sürüm 2.10.2 (4 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 2.990 → 3.018, son sürüm 2.10.1 (29 Ağustos 2026).
-
-## Ne kazandırır?
-- Farklı dijital yayın servislerini tek arayüzde birleştirir
-- Bağlı tüm hoparlörleri merkezi olarak kontrol etmenizi sağlar
-- Home Assistant ile tam entegre çalışarak otomasyon desteği sunar
-
-## Kurulum
-
-**Docker**
-
-```
-docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/server
-```
-
-Kaynak: music-assistant.io/installation (resmî · Home Assistant eklentisi de mevcut)
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Music Assistant kullanarak dijital müzik kütüphanemi nasıl yapılandırabilirim? Home Assistant üzerinde kurulumu tamamladıktan sonra farklı yayın servislerini ve hoparlörlerimi sisteme nasıl tanıtabileceğim konusunda bana adım adım bir rehber oluştur.
-
-- **Kimin için:** Müzik koleksiyonunu ve bağlı ses cihazlarını tek bir merkezden yönetmek isteyen, Home Assistant kullanıcıları için uygundur. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/music-assistant/server)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/server/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -65258,7 +65505,7 @@ AWS üzerinde uygulama geliştirme, dağıtma ve yönetme süreçlerimde bana ya
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol Context AI Skills MCP Agent
+Toolkit Model Context Protocol Model Context Protocol Context AI Skills MCP
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-toolkit-for-aws/
@@ -66133,7 +66380,7 @@ Projeyi kullanmak için GitHub sayfasındaki 'Releases' sekmesinden hazır dosya
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Emulator CPU SDK
+Emulator SDK CPU
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sharpemu/
@@ -66173,6 +66420,61 @@ Desktop Client Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jellium-desktop/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Farklı karakter iskeletlerini tek modelle canlandırın
+
+UniMate, farklı iskelet yapılarını tek bir model üzerinden hareketlendirmeye yarayan bir animasyon teknolojisi. SIGGRAPH Asia 2026 kapsamında sunulan bu çalışma, karakter animasyonu süreçlerini standartlaştırmayı amaçlıyor.
+
+- ★ 1.166
+- Python
+- GitHub Trending · 2026-10-02
+
+## Ne kazandırır?
+- İnsan, hayvan ve nesne gibi farklı iskelet yapılarını tek bir yapay zekâ modeliyle hareketlendirir.
+- Büyük ölçekli UniML3D veri seti ile geniş kapsamlı animasyon desteği sunar.
+- Karakter animasyonu süreçlerini standartlaştırarak iş akışını hızlandırır.
+
+## Kurulum
+
+**Ortam hazırlığı**
+
+```
+conda create -n unimate python=3.10 -y
+conda activate unimate
+pip install "setuptools 
+
+## Çalıştırma
+
+**Örnek animasyon oluşturma**
+
+```
+python -m unimate.inference.sample \
+--exp_dir outputs/uniml3d_60frames_graph_adaln \
+--test_cases_json test_cases.json \
+--num_repetitions 3
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+UniMate projesini kullanarak elimdeki farklı iskelet yapısına sahip karakter modellerini nasıl standart bir formatta hareketlendirebilirim? Projenin sunduğu UniML3D veri setinden ve önceden eğitilmiş kontrol noktalarından faydalanarak animasyon oluşturma sürecini adım adım açıkla.
+
+- **Kimin için:** Karakter animasyonu süreçlerini otomatize etmek ve farklı iskelet yapıları arasında geçiş yapabilmek isteyen 3D sanatçıları ve geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/Friedrich-M/UniMate)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/unimate/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

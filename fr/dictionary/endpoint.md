@@ -1,32 +1,40 @@
 # Qu'est-ce que Endpoint ?
 
-Il s'agit de périphériques terminaux tels qu'un ordinateur, un téléphone ou une tablette connectés au réseau.
+Le point de terminaison est l’extrémité de l’appareil ou de l’API du côté utilisateur du réseau.
 
-## Définition
-Les appareils qui atteignent l’extrémité d’un réseau et avec lesquels l’utilisateur interagit directement sont appelés points de terminaison. L'information se termine ou commence sur ces appareils. Dans le monde de la sécurité, ils sont considérés comme la ligne de défense la plus externe du réseau.
+## Définition et origine du mot
+« Point final » signifie le point final. Il a deux significations : l'appareil du côté physique et l'API du côté logiciel. Les informations se terminent au niveau de l'appareil ou sont reçues du côté de l'API. C’est la ligne extérieure de défense en matière de sécurité.
 
-## Comment ça marche
-Ces appareils se connectent à un réseau et échangent des données. Un logiciel de sécurité surveille en permanence ces appareils pour les protéger.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Entreprise : Flotte d'ordinateurs portables et de téléphones.Maison : Appareils intelligents.API : La demande de candidature se termine.
 
-## Où est-ce utilisé
-On le trouve dans les réseaux d'entreprise, les appareils intelligents domestiques et les systèmes de serveurs.
+## Profondeur technique et architecture
+Deux cent:
 
-## Souvent confondu avec
-Peut être confondu avec serveur ; Le serveur est le centre du réseau et le point final est l'endroit où se trouve l'utilisateur.
+## Choses fréquemment mélangées
+On pense qu'il s'agit d'un serveur. Le serveur est le centre, le point final est avec l'utilisateur. Cela se confond également avec la fin de l'API : c'est l'adresse, c'est l'appareil.
 
-## Questions fréquentes
-**Pourquoi la sécurité des terminaux est-elle importante ?**
-Car la plupart des cyberattaques commencent par infiltrer le réseau via un ordinateur ou un téléphone mal protégé.
+## Utilisation dans différentes disciplines
+Adresse: La porte à laquelle le colis arrive.Arrêt: Le dernier point de la ligne.Numéro de porte : L'adresse de l'appartement.
+
+## Foire aux questions
+**Pourquoi la sécurité est-elle importante ?**
+L’attaque entre par le côté faible. Les correctifs et la surveillance constituent la première défense.
+
+**Quelle est l'astuce API ?**
+C'est une adresse appelable. La demande est satisfaite par la méthode et les moyens.
+
+**Comment se protéger ?**
+Avec correctifs, cryptage et autorisation minimale. La surveillance EDR est ajoutée.
+
+**Quelle est la différence entre les serveurs ?**
+Le serveur sert au centre, le point final consomme à la périphérie.
 
 
 ## Termes liés
 - [Network Stack](/fr/dictionary/network-stack/)
 - [VPN](/fr/dictionary/vpn/)
 - [Security Scanner](/fr/dictionary/security-scanner/)
-
-## Outils liés
-- [OmniRoute](/fr/discover/omniroute/)
-- [Freellmapi](/fr/discover/freellmapi/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/endpoint/

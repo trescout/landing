@@ -2,7 +2,7 @@
 
 DESIGN.md wurde von Google Labs entwickelt und bietet eine strukturierte Formatspezifikation für die Weitergabe visueller Anmeldeinformationen an Codierungsagenten. Dieser Standard stellt sicher, dass Designsysteme von Agenten der künstlichen Intelligenz konsistent und dauerhaft verstanden werden.
 
-- ★ 26.873
+- ★ 28.217
 - TypeScript
 - GitHub Trending · 2026-06-25
 

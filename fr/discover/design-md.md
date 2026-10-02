@@ -2,7 +2,7 @@
 
 Développé par Google Labs, DESIGN.md fournit une spécification de format structuré pour transmettre les informations d'identification visuelles aux agents de codage. Cette norme garantit que les systèmes de conception sont compris de manière cohérente et permanente par les agents d’intelligence artificielle.
 
-- ★ 26 873
+- ★ 28 217
 - TypeScript
 - GitHub Trending · 2026-06-25
 
