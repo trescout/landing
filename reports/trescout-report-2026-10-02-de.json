@@ -1,0 +1,938 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-02",
+  "capturedAt": "2026-10-02T10:31:22.539Z",
+  "editorial": "Heute stehen in der Technologie-Agenda neue Benchmarking-Methoden und räumliche Speicherarchitekturen im Vordergrund, die die Wahrnehmung der physischen Welt (physical intelligence) von KI-Modellen verbessern. Open-Source-Skill-Sets auf GitHub und Mapping-Tools, die auf die iOS-Plattform portiert wurden, verdeutlichen die Vielfalt praktischer Anwendungen im Software-Ökosystem.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "Ponytail ist ein Softwareentwicklungstool, das KI-Agenten beibringt, Lösungen mit minimalem Aufwand zu generieren. Es zielt darauf ab, unnötiges Programmieren zu verhindern und Funktionalität auf die einfachste und kürzeste Weise zu erreichen.",
+          "meta": "JavaScript · ★ 151.061 · +1.194 heute",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 151061,
+              "engagementCount": 1194,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1194
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Die von Matt Pocock geteilten Skills enthalten anpassbare Fähigkeitspakete (skills), die Softwareentwickler für KI-Agenten (AI agents) vorbereiten. Diese vorgefertigten Befehlssätze, die Entwickler in ihren eigenen Arbeitsumgebungen verwenden, zielen darauf ab, Automatisierungsprozesse zu standardisieren.",
+          "meta": "Shell · ★ 274.263 · +883 heute",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 274263,
+              "engagementCount": 883,
+              "rank": 2,
+              "extra": {
+                "starsToday": 883
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "summary": "OpenShell, entwickelt von NVIDIA, bietet eine sichere und datenschutzorientierte Laufzeitumgebung (runtime) für autonome KI-Agenten. Dieses in Rust geschriebene Tool zielt darauf ab, einen sicheren Arbeitsbereich zu schaffen, indem es den Zugriff der Agenten auf Systemressourcen kontrolliert.",
+          "meta": "Rust · ★ 14.203 · +2.456 heute",
+          "snapshot": {
+            "sourceId": "NVIDIA/OpenShell",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 14203,
+              "engagementCount": 2456,
+              "rank": 3,
+              "extra": {
+                "starsToday": 2456
+              }
+            }
+          }
+        },
+        {
+          "title": "firebase/firebase-ios-sdk",
+          "url": "https://github.com/firebase/firebase-ios-sdk",
+          "summary": "Das von Google entwickelte Firebase SDK ist ein Toolset, das die Anwendungsentwicklung für Apple-Plattformen vereinfacht. Es ermöglicht die Integration grundlegender Funktionen wie Datenbankverwaltung und Benutzerauthentifizierung in iOS-Anwendungen.",
+          "meta": "C++ · ★ 6.910 · +112 heute",
+          "snapshot": {
+            "sourceId": "firebase/firebase-ios-sdk",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 6910,
+              "engagementCount": 112,
+              "rank": 4,
+              "extra": {
+                "starsToday": 112
+              }
+            }
+          }
+        },
+        {
+          "title": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "summary": "Openrig ist ein Framework, mit dem Sie Ihr eigenes autonomes Agentennetzwerk aufbauen können, indem verschiedene KI-Modelle wie Claude Code, Codex und Pi zusammengeführt werden. Dieses Tool ermöglicht es Ihnen, Teams von Agenten zu erstellen, die definierte Rollen haben, einen gemeinsamen Kontext teilen und dauerhaft zusammenarbeiten.",
+          "meta": "TypeScript · ★ 3.953 · +642 heute",
+          "snapshot": {
+            "sourceId": "mvschwarz/openrig",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3953,
+              "engagementCount": 642,
+              "rank": 5,
+              "extra": {
+                "starsToday": 642
+              }
+            }
+          }
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Cursor, ein KI-gestützter Code-Editor, hat eine offizielle Plugin-Spezifikation (plugin specification) veröffentlicht, damit Entwickler ihre eigenen Erweiterungen erstellen können. Dieser Standard ermöglicht es, die Fähigkeiten des Editors durch TypeScript-basierte Plugins zu erweitern und anpassbare Workflows zu erstellen.",
+          "meta": "TypeScript · ★ 9.384 · +150 heute",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9384,
+              "engagementCount": 150,
+              "rank": 6,
+              "extra": {
+                "starsToday": 150
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers bietet ein Framework für agentische Fähigkeiten (agentic skills framework) und eine Methodik für die Softwareentwicklung. Es zielt darauf ab, Softwareentwicklungsprozesse mit agentenbasierten Workflows zu standardisieren.",
+          "meta": "Shell · ★ 294.159 · +455 heute",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 294159,
+              "engagementCount": 455,
+              "rank": 7,
+              "extra": {
+                "starsToday": 455
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "Context-mode ist ein Tool, das eine Optimierung des Kontextfensters (context window optimization) für KI-Codierungsagenten bietet. Es isoliert die Ausgaben des Tools in einer Sandbox, reduziert die Datengröße um 98 Prozent und bewahrt den Sitzungsspeicher über 17 verschiedene Plattformen hinweg mittels des Model Context Protocol (MCP).",
+          "meta": "TypeScript · ★ 24.895 · +362 heute",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 24895,
+              "engagementCount": 362,
+              "rank": 8,
+              "extra": {
+                "starsToday": 362
+              }
+            }
+          }
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Hyperframes, entwickelt von Heygen, ist eine Bibliothek, die HTML-Code direkt in Videos umwandelt. Dieses Tool wurde entwickelt, um KI-Agenten die Erstellung visueller Inhalte zu erleichtern, und wandelt webbasierte Schnittstellen in dynamische Videoausgaben um.",
+          "meta": "TypeScript · ★ 55.558 · +627 heute",
+          "snapshot": {
+            "sourceId": "heygen-com/hyperframes",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 55558,
+              "engagementCount": 627,
+              "rank": 9,
+              "extra": {
+                "starsToday": 627
+              }
+            }
+          }
+        },
+        {
+          "title": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "summary": "Das TypeScript-basierte Pi bietet eine einheitliche Schnittstelle für große Sprachmodelle (LLM API), eine Agentenschleife und eine Befehlszeilenschnittstelle (CLI) für die Entwicklung von KI-Agenten (AI agents). Die Software fungiert als Toolkit, das es Entwicklern erleichtert, codierungsorientierte Agenten zu erstellen.",
+          "meta": "TypeScript · ★ 111.528 · +298 heute",
+          "snapshot": {
+            "sourceId": "earendil-works/pi",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 111528,
+              "engagementCount": 298,
+              "rank": 10,
+              "extra": {
+                "starsToday": 298
+              }
+            }
+          }
+        },
+        {
+          "title": "tile-ai/tilelang",
+          "url": "https://github.com/tile-ai/tilelang",
+          "summary": "Tilelang ist eine domänenspezifische Sprache (domain-specific language), die die Entwicklung von Hochleistungs-Grafikprozessoren (GPU), Zentralprozessoren (CPU) und Beschleuniger-Kernels erleichtert. Dieses Python-basierte Tool vereinfacht komplexe Hardware-Optimierungsprozesse und ermöglicht es Softwareentwicklern, effizientere Recheneinheiten zu erstellen.",
+          "meta": "Python · ★ 8.196 · +163 heute",
+          "snapshot": {
+            "sourceId": "tile-ai/tilelang",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8196,
+              "engagementCount": 163,
+              "rank": 11,
+              "extra": {
+                "starsToday": 163
+              }
+            }
+          }
+        },
+        {
+          "title": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "summary": "Yoinks ist ein Tool, mit dem man jedes Video über das Terminal ohne Werbung oder Weiterleitungen herunterladen kann. Diese in TypeScript entwickelte Software bietet eine praktische Methode, um Videodateien direkt auf den lokalen Speicher zu übertragen.",
+          "meta": "TypeScript · ★ 3.165 · +361 heute",
+          "snapshot": {
+            "sourceId": "pablostanley/yoinks",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3165,
+              "engagementCount": 361,
+              "rank": 12,
+              "extra": {
+                "starsToday": 361
+              }
+            }
+          }
+        },
+        {
+          "title": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "summary": "GhostTrack, entwickelt mit Python, ist ein Tool, das die Standortverfolgung über Telefonnummern ermöglicht. Es bietet Benutzern eine technische Möglichkeit, die geografischen Informationen von Zielnummern zu ermitteln.",
+          "meta": "Python · ★ 16.614 · +368 heute",
+          "snapshot": {
+            "sourceId": "HunxByts/GhostTrack",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16614,
+              "engagementCount": 368,
+              "rank": 13,
+              "extra": {
+                "starsToday": 368
+              }
+            }
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable ist eine Designsprache, die entwickelt wurde, um die Design-Outputs von KI-Modellen zu verbessern. Dieses Tool zielt darauf ab, die visuelle Konsistenz und ästhetische Qualität von generativen KI-Systemen zu erhöhen.",
+          "meta": "JavaScript · ★ 73.935 · +495 heute",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 73935,
+              "engagementCount": 495,
+              "rank": 14,
+              "extra": {
+                "starsToday": 495
+              }
+            }
+          }
+        },
+        {
+          "title": "Friedrich-M/UniMate",
+          "url": "https://github.com/Friedrich-M/UniMate",
+          "summary": "UniMate ist eine Animationstechnologie, mit der verschiedene Skelettstrukturen über ein einziges Modell animiert werden können. Diese auf der SIGGRAPH Asia 2026 vorgestellte Arbeit zielt darauf ab, Charakteranimationsprozesse zu standardisieren.",
+          "meta": "Python · ★ 1.166 · +217 heute",
+          "snapshot": {
+            "sourceId": "Friedrich-M/UniMate",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1166,
+              "engagementCount": 217,
+              "rank": 15,
+              "extra": {
+                "starsToday": 217
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Pi 1.0",
+          "url": "https://earendil.com/posts/pi-1-0/",
+          "summary": "Pi 1.0 ist ein Workflow-Orchestrierungstool, das in die Hochleistungs-Berechnungsbibliothek Pi Durable integriert ist. Es unterteilt komplexe Prozesse in verwaltbare Teile und erleichtert die fehlertolerante Aufgabenausführung (Task Execution) in verteilten Systemen.",
+          "meta": "1.299 Punkte · 413 Kommentare",
+          "snapshot": {
+            "sourceId": "49926069",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 1299,
+              "engagementCount": 413,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49926069",
+                  "popularity": 1299,
+                  "engagementCount": 413
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "sergiotapia",
+                "createdAt": "2026-10-01T19:33:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49926069"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49926069",
+              "popularity": 1299,
+              "engagementCount": 413
+            }
+          ]
+        },
+        {
+          "title": "StreetComplete on iOS is now in public beta",
+          "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+          "summary": "Das Open-Source-Karteneditierungstool StreetComplete hat die öffentliche Beta-Phase für die iOS-Version gestartet, mit der Benutzer geografische Daten einfach aktualisieren können. Die Anwendung bietet eine einfache Umfrageoberfläche, um lokale Informationen auf OpenStreetMap zu verifizieren und fehlende Daten zu ergänzen.",
+          "meta": "567 Punkte · 150 Kommentare",
+          "snapshot": {
+            "sourceId": "49920160",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 567,
+              "engagementCount": 150,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49920160",
+                  "popularity": 567,
+                  "engagementCount": 150
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Snowly",
+                "createdAt": "2026-10-01T10:59:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49920160"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49920160",
+              "popularity": 567,
+              "engagementCount": 150
+            }
+          ]
+        },
+        {
+          "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+          "url": "https://blog.cloudflare.com/clef-decision-models/",
+          "summary": "Cloudflare hat die Plattform Clef eingeführt, die Entscheidungsmodelle mit offenen Gewichten (open-weight) und Feinabstimmung (Fine-Tuning) durch bestärkendes Lernen (Reinforcement Learning) ermöglicht. Diese Infrastruktur unterstützt Entwickler dabei, KI-Modelle mit ihren eigenen privaten Daten zu trainieren, um präzisere Entscheidungen zu treffen.",
+          "meta": "516 Punkte · 180 Kommentare",
+          "snapshot": {
+            "sourceId": "49923692",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 516,
+              "engagementCount": 180,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49923692",
+                  "popularity": 516,
+                  "engagementCount": 180
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "jasondavies",
+                "createdAt": "2026-10-01T16:18:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49923692"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49923692",
+              "popularity": 516,
+              "engagementCount": 180
+            }
+          ]
+        },
+        {
+          "title": "Pi Durable",
+          "url": "https://earendil.com/posts/pi-durable/",
+          "summary": "Pi Durable bietet Optimierungsmethoden auf Hardware- und Softwareebene für den langfristigen und zuverlässigen Betrieb von Einplatinencomputern wie dem Raspberry Pi. Es schlägt Strategien für das Energiemanagement und die Datenspeicherung vor, um die Widerstandsfähigkeit (Durability) der Systeme gegenüber Umwelteinflüssen zu erhöhen.",
+          "meta": "387 Punkte · 48 Kommentare",
+          "snapshot": {
+            "sourceId": "49925969",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 387,
+              "engagementCount": 48,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49925969",
+                  "popularity": 387,
+                  "engagementCount": 48
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "paulsmith",
+                "createdAt": "2026-10-01T19:24:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49925969"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49925969",
+              "popularity": 387,
+              "engagementCount": 48
+            }
+          ]
+        },
+        {
+          "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+          "url": "https://blog.gitbutler.com/git-3-sha-256",
+          "summary": "Das Versionskontrollsystem Git plant, seinen Standard-Hash-Algorithmus in zukünftigen Updates von SHA-1 auf SHA-256 umzustellen. Softwareentwickler argumentieren, dass diese Änderung Kompatibilitätsprobleme mit bestehenden Projekten verursachen wird und der Migrationsprozess kostspielig sein wird.",
+          "meta": "386 Punkte · 361 Kommentare",
+          "snapshot": {
+            "sourceId": "49924179",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 386,
+              "engagementCount": 361,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49924179",
+                  "popularity": 386,
+                  "engagementCount": 361
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be",
+                  "popularity": 50,
+                  "engagementCount": 36
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "chmaynard",
+                "createdAt": "2026-10-01T16:57:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49924179"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49924179",
+              "popularity": 386,
+              "engagementCount": 361
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be",
+              "popularity": 50,
+              "engagementCount": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, das auf Hugging Face geteilt wurde, ist ein KI-Modell, das für Textklassifizierungsaufgaben entwickelt wurde. Es beschleunigt Prozesse der natürlichen Sprachverarbeitung, indem es bereitgestellte Texte in vordefinierte Kategorien einteilt.",
+          "meta": "♥ 4.894 · 0 Downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-10-02T10:31:22.670Z",
+            "metadata": {
+              "popularity": 4894,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1151,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/TeleOCR",
+          "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+          "summary": "TeleOCR, das auf HuggingFace geteilt wurde, ist ein Image-to-Text-Modell, das Texte in Bildern verarbeitet und in aussagekräftige Daten umwandelt. Es entschlüsselt Texte in komplexen visuellen Dokumenten mit hoher Genauigkeit und erleichtert textbasierte Analyseprozesse.",
+          "meta": "♥ 1.242 · 32.675 Downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/TeleOCR",
+            "capturedAt": "2026-10-02T10:31:22.670Z",
+            "metadata": {
+              "popularity": 1242,
+              "engagementCount": 32675,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 898,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen2_5_vl",
+                  "image-text-to-text",
+                  "ocr",
+                  "document-parsing",
+                  "multimodal",
+                  "conversational",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "arxiv:2608.12898",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF ist ein KI-Modell mit Text-to-Image-Fähigkeiten, bei dem die Einschränkungen aufgehoben wurden. Das Modell wird in einem Dateiformat (GGUF) angeboten, das für den Betrieb auf Geräten mit geringer Hardwareleistung optimiert ist.",
+          "meta": "♥ 2.751 · 1.376.248 Downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-10-02T10:31:22.670Z",
+            "metadata": {
+              "popularity": 2751,
+              "engagementCount": 1376248,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 766,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Das von Cloudflare entwickelte Image-Text-to-Text-Modell Clef analysiert visuelle Daten und generiert textbasierte Ausgaben. Dank seiner multimodalen Struktur wird das Modell bei der Interpretation und Verarbeitung komplexer visueller Inhalte eingesetzt.",
+          "meta": "♥ 505 · 824 Downloads",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-02T10:31:22.670Z",
+            "metadata": {
+              "popularity": 505,
+              "engagementCount": 824,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 501,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Contrastive-LM/CLM-v0.1-8B",
+          "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+          "summary": "Das auf HuggingFace veröffentlichte Contrastive-LM/CLM-v0.1-8B ist ein Sprachmodell, das für Text-Ranking-Aufgaben optimiert wurde. Es nutzt die Fähigkeit großer Sprachmodelle (Large Language Models), Texte zu verstehen, um die Ähnlichkeit von Inhalten zu messen.",
+          "meta": "♥ 633 · 2.951 Downloads",
+          "snapshot": {
+            "sourceId": "Contrastive-LM/CLM-v0.1-8B",
+            "capturedAt": "2026-10-02T10:31:22.670Z",
+            "metadata": {
+              "popularity": 633,
+              "engagementCount": 2951,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 416,
+                "pipelineTag": "text-ranking",
+                "tags": [
+                  "contrastive-lm",
+                  "clm",
+                  "contrastive-learning",
+                  "verifier",
+                  "reranker",
+                  "agents",
+                  "text-ranking",
+                  "en",
+                  "base_model:Qwen/Qwen3-8B",
+                  "base_model:finetune:Qwen/Qwen3-8B",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "LOCI: Spatial Linear Memory for Streaming World Models",
+          "url": "https://huggingface.co/papers/2609.40222",
+          "summary": "LOCI ist eine Architektur für räumliches lineares Gedächtnis (spatial linear memory), die in Video-Weltmodellen verwendet wird, um vergangene visuelle Daten zu bewahren. Diese Struktur löst das Problem des Erinnerns an vergangene Beobachtungen in langfristigen Videoströmen und deren Abgleich mit der aktuellen Perspektive durch einen hybriden Ansatz.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.40222",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.40222",
+                "publishedAt": "2026-09-30T17:27:06.000Z",
+                "githubRepo": "https://github.com/xiaji2021/LOCI"
+              }
+            }
+          }
+        },
+        {
+          "title": "PhysVista: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop",
+          "url": "https://huggingface.co/papers/2610.00559",
+          "summary": "PhysVista ist ein Bewertungsrahmen, der die Fähigkeit von Vision-Language-Modellen misst, die Bewegungs- und Konsistenzregeln von Objekten in der physischen Welt zu verstehen. Durch die ganzheitliche Betrachtung von Wahrnehmungs-, Schlussfolgerungs- und physikalischen Beurteilungsprozessen testet es, ob Modelle realistische Rückschlüsse auf reale Dynamiken ziehen können.",
+          "meta": "7 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.00559",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.00559",
+                "publishedAt": "2026-09-30T00:00:00.000Z",
+                "githubRepo": "https://github.com/Helen1p/PhysVista",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models",
+          "url": "https://huggingface.co/papers/2610.01942",
+          "summary": "Latent-Foresight bietet eine End-to-End-Lernmethode, die zukünftige Szenenänderungen im Merkmalsraum von Vision Foundation Models vorhersagt. Dieser Ansatz kombiniert Datenkomprimierungs- und Vorhersageprozesse in einem einzigen Modell und eliminiert so die Komplexität bestehender zweistufiger Systeme.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.01942",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.01942",
+                "publishedAt": "2026-10-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/Sta8is/Latent-Foresight",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs",
+          "url": "https://huggingface.co/papers/2610.01428",
+          "summary": "Die Generalisierungsfähigkeit bei großen Sprachmodellen (LLM) wird durch die Kapazität definiert, konsistente und semantisch stabile Ausgaben zu erzeugen, selbst wenn dieselbe Eingabe unterschiedlich formuliert wird. Im Gegensatz zu aktuellen Studien bewertet dieser Ansatz den Modellerfolg nicht anhand eines einzelnen Genauigkeitswerts, sondern auf Basis individueller Beispiele über verschiedene Eingabevariationen hinweg.",
+          "meta": "3 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.01428",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.01428",
+                "publishedAt": "2026-10-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Removing the NEEDLE in the Haystack: Backdoor Removal in LLMs via Weight Orthogonalisation",
+          "url": "https://huggingface.co/papers/2610.00348",
+          "summary": "NEEDLE ist eine trainingsfreie Methode, die darauf abzielt, schädliche Backdoor-Trigger, die während des Trainings in große Sprachmodelle (Large Language Models) eingebettet wurden, zu entfernen, ohne die Gesamtleistung des Modells zu beeinträchtigen. Diese Technik verwendet Gewichtungs-Orthogonalisierung (weight orthogonalisation), um nur das gezielte schädliche Verhalten zu bereinigen, ohne die Ausgabeverteilung des Modells zu verändern.",
+          "meta": "3 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.00348",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.00348",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/LocaiLabs/NEEDLE",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "IANA's email about why example.com changed",
+          "url": "https://www.oliverdunk.com/2026/09/30/iana-reply",
+          "summary": "Die Internet Assigned Numbers Authority (IANA) erklärte, dass die Änderung der Registrierungsdaten für den Domainnamen example.com auf einen technischen Fehler zurückzuführen sei. Die Verwaltung dieses Domainnamens liegt in der Verantwortung dieser Organisation, die die grundlegenden Protokolle des Internets überwacht.",
+          "meta": "121 Punkte · 48 Kommentare",
+          "snapshot": {
+            "sourceId": "qgd17n",
+            "capturedAt": "2026-10-02T10:31:23.056Z",
+            "metadata": {
+              "popularity": 121,
+              "engagementCount": 48,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed",
+                  "popularity": 121,
+                  "engagementCount": 48
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "networking",
+                  "web"
+                ],
+                "createdAt": "2026-10-01T03:47:50.120-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed",
+              "popularity": 121,
+              "engagementCount": 48
+            }
+          ]
+        },
+        {
+          "title": "Reducing the cognitive load of AI changes",
+          "url": "https://amoffat.github.io/blog/cognitive-load.html",
+          "summary": "Die Integration von KI-Tools in Softwareentwicklungsprozesse erhöht die kognitive Belastung, indem sie die Häufigkeit des Kontextwechsels (context switching) bei Entwicklern steigert. Dies verdeutlicht, dass Arbeitsabläufe bei KI-gestützten Codierungsprozessen so gestaltet sein müssen, dass Ablenkungen minimiert werden, um Konzentrationsverluste zu vermeiden.",
+          "meta": "40 Punkte · 11 Kommentare",
+          "snapshot": {
+            "sourceId": "iwvjr0",
+            "capturedAt": "2026-10-02T10:31:23.056Z",
+            "metadata": {
+              "popularity": 40,
+              "engagementCount": 11,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes",
+                  "popularity": 40,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-10-01T07:57:19.033-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes",
+              "popularity": 40,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software, die selbstständig Entscheidungen treffen und Werkzeuge nutzen kann, um Ziele zu erreichen."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die Fähigkeiten oder Funktionen, über die Software verfügt, um bestimmte Aufgaben zu erfüllen."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Die Zeitspanne, die nach dem Schreiben eines Computerprogramms während dessen Ausführung vergeht."
+    },
+    {
+      "term": "code editor",
+      "explanation": "Ein spezieller Texteditor, den Entwickler beim Programmieren verwenden, um Fehler leichter zu erkennen und zu beheben."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Eine Gesamtheit technischer Regeln und Standards, die bei der Entwicklung von Erweiterungen für eine Software eingehalten werden müssen."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Ein struktureller Rahmen, der die Fähigkeiten regelt, die es künstlicher Intelligenz ermöglichen, verschiedene Aufgaben auszuführen."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Eine Methode zur effizientesten Nutzung der Informationsmenge, die eine künstliche Intelligenz auf einmal verarbeiten kann."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Eine isolierte Arbeitsumgebung, in der Programme sicher getestet werden können, ohne das Hauptsystem zu beschädigen."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Ein Standard-Kommunikationsprotokoll, das es KI-Modellen ermöglicht, sich mit verschiedenen Datenquellen und Werkzeugen zu verbinden."
+    },
+    {
+      "term": "LLM API",
+      "explanation": "Ein Verbindungspunkt, der es Entwicklern ermöglicht, ihren eigenen Anwendungen Funktionen künstlicher Intelligenz hinzuzufügen."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Eine textbasierte Schnittstelle, die Programme nicht mit der Maus, sondern über schriftliche Befehle steuert."
+    },
+    {
+      "term": "toolkit",
+      "explanation": "Ein Paket, das die für eine bestimmte Aufgabe erforderlichen Werkzeuge und Bibliotheken gebündelt bereitstellt."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Ein spezieller Prozessor, der intensive mathematische Berechnungen wie Bildverarbeitung und KI-Berechnungen beschleunigt."
+    },
+    {
+      "term": "CPU",
+      "explanation": "Der Hauptprozessor, der alle grundlegenden Befehle im Computer verarbeitet und als das Gehirn des Systems gilt."
+    },
+    {
+      "term": "kernels",
+      "explanation": "Der grundlegendste Kernbestandteil des Betriebssystems, der die Kommunikation zwischen der Hardware und der Software des Computers verwaltet."
+    },
+    {
+      "term": "domain-specific language",
+      "explanation": "Eine zweckgebundene Programmiersprache, die speziell für die Lösung von Problemen in einem bestimmten Bereich entwickelt wurde."
+    }
+  ]
+}

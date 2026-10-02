@@ -1,0 +1,532 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-02",
+  "capturedAt": "2026-10-02T10:31:22.539Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "O Cursor, editor de código com suporte de inteligência artificial (code editor), publicou uma especificação oficial de plugin (plugin specification) para que os desenvolvedores possam criar suas próprias extensões. Este padrão permite expandir as capacidades do editor e criar fluxos de trabalho personalizáveis por meio de plugins baseados em TypeScript.",
+          "meta": "TypeScript · ★ 9.384 · +150 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9384,
+              "engagementCount": 150,
+              "rank": 6,
+              "extra": {
+                "starsToday": 150
+              }
+            }
+          }
+        },
+        {
+          "title": "tile-ai/tilelang",
+          "url": "https://github.com/tile-ai/tilelang",
+          "summary": "Tilelang é uma linguagem específica de domínio (domain-specific language) que facilita o desenvolvimento de unidades de processamento gráfico (GPU), unidades centrais de processamento (CPU) e núcleos aceleradores (kernels) de alto desempenho. Esta ferramenta baseada em Python simplifica processos complexos de otimização de hardware, permitindo que os desenvolvedores de software criem unidades de computação mais eficientes.",
+          "meta": "Python · ★ 8.196 · +163 hoje",
+          "snapshot": {
+            "sourceId": "tile-ai/tilelang",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8196,
+              "engagementCount": 163,
+              "rank": 11,
+              "extra": {
+                "starsToday": 163
+              }
+            }
+          }
+        },
+        {
+          "title": "pablostanley/yoinks",
+          "url": "https://github.com/pablostanley/yoinks",
+          "summary": "Yoinks é uma ferramenta que permite baixar qualquer vídeo via terminal sem anúncios ou redirecionamentos. Desenvolvido com TypeScript, este software oferece um método prático para transferir arquivos de vídeo diretamente para o armazenamento local.",
+          "meta": "TypeScript · ★ 3.165 · +361 hoje",
+          "snapshot": {
+            "sourceId": "pablostanley/yoinks",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3165,
+              "engagementCount": 361,
+              "rank": 12,
+              "extra": {
+                "starsToday": 361
+              }
+            }
+          }
+        },
+        {
+          "title": "HunxByts/GhostTrack",
+          "url": "https://github.com/HunxByts/GhostTrack",
+          "summary": "Desenvolvido com Python, o GhostTrack é uma ferramenta que permite o rastreamento de localização através de números de telefone. Ele oferece aos usuários uma capacidade técnica para detectar informações geográficas de números de destino.",
+          "meta": "Python · ★ 16.614 · +368 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "HunxByts/GhostTrack",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16614,
+              "engagementCount": 368,
+              "rank": 13,
+              "extra": {
+                "starsToday": 368
+              }
+            }
+          }
+        },
+        {
+          "title": "Friedrich-M/UniMate",
+          "url": "https://github.com/Friedrich-M/UniMate",
+          "summary": "UniMate é uma tecnologia de animação que permite animar diferentes estruturas de esqueleto através de um único modelo. Apresentado no SIGGRAPH Asia 2026, este trabalho visa padronizar os processos de animação de personagens.",
+          "meta": "Python · ★ 1.166 · +217 hoje",
+          "snapshot": {
+            "sourceId": "Friedrich-M/UniMate",
+            "capturedAt": "2026-10-02T10:31:24.066Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1166,
+              "engagementCount": 217,
+              "rank": 15,
+              "extra": {
+                "starsToday": 217
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Pi 1.0",
+          "url": "https://earendil.com/posts/pi-1-0/",
+          "summary": "Pi 1.0 é uma ferramenta de orquestração de fluxo de trabalho que funciona integrada ao Pi Durable, uma biblioteca de computação de alto desempenho. Ao dividir processos complexos em partes gerenciáveis, facilita a execução de tarefas tolerantes a falhas em sistemas distribuídos.",
+          "meta": "1.299 pontos · 413 comentários",
+          "snapshot": {
+            "sourceId": "49926069",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 1299,
+              "engagementCount": 413,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49926069",
+                  "popularity": 1299,
+                  "engagementCount": 413
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "sergiotapia",
+                "createdAt": "2026-10-01T19:33:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49926069"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49926069",
+              "popularity": 1299,
+              "engagementCount": 413
+            }
+          ]
+        },
+        {
+          "title": "StreetComplete on iOS is now in public beta",
+          "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+          "summary": "O StreetComplete, ferramenta de edição de mapas de código aberto, iniciou o processo de beta público para sua versão iOS, permitindo que os usuários atualizem facilmente dados geográficos. O aplicativo oferece uma interface de questionário simples para verificar informações locais e completar dados ausentes no OpenStreetMap.",
+          "meta": "567 pontos · 150 comentários",
+          "snapshot": {
+            "sourceId": "49920160",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 567,
+              "engagementCount": 150,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49920160",
+                  "popularity": 567,
+                  "engagementCount": 150
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Snowly",
+                "createdAt": "2026-10-01T10:59:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49920160"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49920160",
+              "popularity": 567,
+              "engagementCount": 150
+            }
+          ]
+        },
+        {
+          "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+          "url": "https://blog.cloudflare.com/clef-decision-models/",
+          "summary": "A Cloudflare lançou a plataforma Clef, que permite o ajuste fino (fine-tuning) com modelos de decisão de pesos abertos (open-weight) e aprendizado por reforço. Esta infraestrutura apoia os desenvolvedores a treinar modelos de IA com seus próprios dados privados para tomar decisões mais precisas.",
+          "meta": "516 pontos · 180 comentários",
+          "snapshot": {
+            "sourceId": "49923692",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 516,
+              "engagementCount": 180,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49923692",
+                  "popularity": 516,
+                  "engagementCount": 180
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "jasondavies",
+                "createdAt": "2026-10-01T16:18:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49923692"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49923692",
+              "popularity": 516,
+              "engagementCount": 180
+            }
+          ]
+        },
+        {
+          "title": "Pi Durable",
+          "url": "https://earendil.com/posts/pi-durable/",
+          "summary": "O Pi Durable oferece métodos de otimização em nível de hardware e software para o funcionamento confiável e de longo prazo de computadores de placa única, como o Raspberry Pi. Ele sugere estratégias de gerenciamento de energia e armazenamento de dados para aumentar a durabilidade dos sistemas contra influências ambientais.",
+          "meta": "387 pontos · 48 comentários",
+          "snapshot": {
+            "sourceId": "49925969",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 387,
+              "engagementCount": 48,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49925969",
+                  "popularity": 387,
+                  "engagementCount": 48
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "paulsmith",
+                "createdAt": "2026-10-01T19:24:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49925969"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49925969",
+              "popularity": 387,
+              "engagementCount": 48
+            }
+          ]
+        },
+        {
+          "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+          "url": "https://blog.gitbutler.com/git-3-sha-256",
+          "summary": "O sistema de controle de versão Git planeja mudar seu algoritmo de hash padrão de SHA-1 para SHA-256 em futuras atualizações. Desenvolvedores de software argumentam que essa mudança criará problemas de compatibilidade com projetos existentes e que o processo de transição será de alto custo.",
+          "meta": "386 pontos · 361 comentários",
+          "snapshot": {
+            "sourceId": "49924179",
+            "capturedAt": "2026-10-02T10:31:22.792Z",
+            "metadata": {
+              "popularity": 386,
+              "engagementCount": 361,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49924179",
+                  "popularity": 386,
+                  "engagementCount": 361
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be",
+                  "popularity": 50,
+                  "engagementCount": 36
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "chmaynard",
+                "createdAt": "2026-10-01T16:57:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49924179"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49924179",
+              "popularity": 386,
+              "engagementCount": 361
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/bytzgl/git_3_0_s_upcoming_sha_256_default_will_be",
+              "popularity": 50,
+              "engagementCount": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "O modelo de conversão de imagem para texto (image-text-to-text model) Clef, desenvolvido pela Cloudflare, analisa dados visuais para gerar saídas baseadas em texto. Graças à sua estrutura multimodal, o modelo é utilizado em processos de compreensão e processamento de conteúdos visuais complexos.",
+          "meta": "♥ 505 · 824 downloads",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-02T10:31:22.670Z",
+            "metadata": {
+              "popularity": 505,
+              "engagementCount": 824,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 501,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "LOCI: Spatial Linear Memory for Streaming World Models",
+          "url": "https://huggingface.co/papers/2609.40222",
+          "summary": "LOCI é uma arquitetura de memória linear espacial (spatial linear memory) usada para preservar dados visuais passados em modelos de mundo de vídeo. Esta estrutura resolve o problema de lembrar observações passadas em fluxos de vídeo de longa duração e combiná-las com a perspectiva atual através de uma abordagem híbrida.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.40222",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.40222",
+                "publishedAt": "2026-09-30T17:27:06.000Z",
+                "githubRepo": "https://github.com/xiaji2021/LOCI"
+              }
+            }
+          }
+        },
+        {
+          "title": "PhysVista: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop",
+          "url": "https://huggingface.co/papers/2610.00559",
+          "summary": "PhysVista é uma estrutura de avaliação que mede a capacidade dos modelos de visão e linguagem (vision-language models) de compreender as regras de movimento e consistência de objetos no mundo físico. Ao abordar os processos de percepção, raciocínio e julgamento físico em um ciclo integrado, testa se os modelos conseguem fazer inferências realistas sobre a dinâmica do mundo real.",
+          "meta": "7 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.00559",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.00559",
+                "publishedAt": "2026-09-30T00:00:00.000Z",
+                "githubRepo": "https://github.com/Helen1p/PhysVista",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models",
+          "url": "https://huggingface.co/papers/2610.01942",
+          "summary": "Latent-Foresight oferece um método de aprendizado de ponta a ponta que prevê mudanças futuras de cena no espaço de características dos modelos de base visual (Vision Foundation Models). Esta abordagem elimina a complexidade dos sistemas atuais de duas etapas ao combinar processos de compressão e previsão de dados em um único modelo.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.01942",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.01942",
+                "publishedAt": "2026-10-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/Sta8is/Latent-Foresight",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs",
+          "url": "https://huggingface.co/papers/2610.01428",
+          "summary": "A capacidade de generalização em grandes modelos de linguagem (LLM) é definida pela capacidade de produzir saídas consistentes e semanticamente estáveis, apesar de a mesma entrada ser expressa de formas diferentes. Ao contrário dos estudos atuais, esta abordagem avalia o sucesso do modelo com base em exemplos individuais através de variações de entrada, em vez de uma pontuação de precisão única.",
+          "meta": "3 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.01428",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.01428",
+                "publishedAt": "2026-10-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Removing the NEEDLE in the Haystack: Backdoor Removal in LLMs via Weight Orthogonalisation",
+          "url": "https://huggingface.co/papers/2610.00348",
+          "summary": "NEEDLE é um método que não requer treinamento, visando remover gatilhos de backdoor maliciosos inseridos em grandes modelos de linguagem (large language models) durante o treinamento, sem prejudicar o desempenho geral do modelo. Esta técnica utiliza ortogonalização de pesos (weight orthogonalisation) para limpar apenas os comportamentos maliciosos direcionados, sem alterar a distribuição de saída do modelo.",
+          "meta": "3 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2610.00348",
+            "capturedAt": "2026-10-02T10:31:22.676Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.00348",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/LocaiLabs/NEEDLE",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Reducing the cognitive load of AI changes",
+          "url": "https://amoffat.github.io/blog/cognitive-load.html",
+          "summary": "A integração de ferramentas de inteligência artificial nos processos de desenvolvimento de software aumenta a frequência de troca de contexto (context switching) dos desenvolvedores, elevando a carga cognitiva. Isso revela que, nos processos de codificação assistidos por IA, os fluxos de trabalho devem ser projetados para serem menos distrativos, a fim de evitar a perda de foco.",
+          "meta": "40 pontos · 11 comentários",
+          "snapshot": {
+            "sourceId": "iwvjr0",
+            "capturedAt": "2026-10-02T10:31:23.056Z",
+            "metadata": {
+              "popularity": 40,
+              "engagementCount": 11,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes",
+                  "popularity": 40,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-10-01T07:57:19.033-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes",
+              "popularity": 40,
+              "engagementCount": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "code editor",
+      "explanation": "Editor de texto especializado que os programadores usam ao escrever código, facilitando a visualização e a edição de erros."
+    },
+    {
+      "term": "plugin specification",
+      "explanation": "Conjunto de regras técnicas e padrões que devem ser seguidos para desenvolver um plugin para um software."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Processador especializado que acelera operações matemáticas intensas, como processamento de imagem e cálculos de inteligência artificial."
+    },
+    {
+      "term": "CPU",
+      "explanation": "Processador principal que processa todos os comandos básicos do computador e é considerado o cérebro do sistema."
+    },
+    {
+      "term": "kernels",
+      "explanation": "A parte central mais básica do sistema operacional que gerencia a comunicação entre o hardware e o software do computador."
+    },
+    {
+      "term": "domain-specific language",
+      "explanation": "Linguagem de programação de propósito específico projetada para resolver problemas apenas em um domínio específico."
+    }
+  ]
+}
