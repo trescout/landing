@@ -22,7 +22,7 @@ import os, re, sys, json, html, time, urllib.parse, urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
 from translation_service import translate_text, translate_texts
-from sayfa_koruma import zayiflatir
+from sayfa_koruma import zayiflatir, damgalar, damga_yaz, damga_yolu, elle_duzenlenmis, icerik_damgasi
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "dictionary")
@@ -31,6 +31,7 @@ D = dil(LANG)
 EN_DIR = os.path.join(ROOT, LANG, "dictionary")
 DICT = os.path.join(ROOT, "assets", "dictionary", "dictionary.json")
 CACHE = os.path.join(ROOT, "assets", "dictionary", f"{LANG}-cache.json")
+DAMGA = damga_yolu("dictionary", LANG)
 BASE = "https://trescout.com"
 
 DRY = "--dry" in sys.argv
@@ -440,8 +441,14 @@ def main():
     if LIMIT:
         terms = terms[:LIMIT]
     global _sayfa_eksik
-    yazilan = korunan = zayif_korunan = 0
+    yazilan = korunan = zayif_korunan = elle_korunan = 0
+    damga = damgalar(DAMGA)
     for i, term in enumerate(terms, 1):
+        # Elle düzenlenmiş sayfa üretilmez, çevirisi de istenmez (bkz. sayfa_koruma.py üretici damgası).
+        if elle_duzenlenmis(os.path.join(EN_DIR, term["slug"], "index.html"), damga.get(term["slug"])):
+            elle_korunan += 1
+            print(f"  ! {term['slug']}: elle düzenlenmiş (üretici damgası tutmuyor) · üretilmedi · bırakmak için: python3 scripts/sayfa_koruma.py --birak {LANG}/dictionary/{term['slug']}")
+            continue
         _sayfa_eksik = 0
         h = build(term, chrome)
         if not h:
@@ -469,6 +476,8 @@ def main():
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(h)
         open(os.path.join(EN_DIR, term["slug"] + ".md"), "w", encoding="utf-8").write(markdown(term, h))
+        damga[term["slug"]] = icerik_damgasi(h)
+        damga_yaz(DAMGA, damga)
         yazilan += 1
         if i % 25 == 0:
             json.dump(_cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
@@ -479,7 +488,14 @@ def main():
         print(f"✗ {_basarisiz} çeviri başarısız · {korunan} sözlük sayfası yazılmadı, mevcut hali korundu")
         raise SystemExit(1)
     if zayif_korunan:
-        print(f"  ! {zayif_korunan} sözlük sayfası zayıflamasın diye yazılmadı (elle zenginleştirilmiş sayfalar)")
+        print(f"  ! {zayif_korunan} sözlük sayfası zayıflamasın diye yazılmadı (üretici çıktısı zayıftı)")
+    if elle_korunan:
+        print(f"  ! {elle_korunan} sözlük sayfası elle düzenlenmiş · korundu (liste: python3 scripts/sayfa_koruma.py --liste)")
+    # TOPLU DONMA FRENİ · damga dosyası silinir/bozulursa ya da <main>'e toplu mekanik bir
+    # değişiklik gelirse sayfalar sessizce donmasın (sitemap-sync.py TOPLU SİLME FRENİ ikizi).
+    if elle_korunan > max(50, len(terms) // 4):
+        print(f"✗ {elle_korunan} sözlük sayfası elle sayıldı · damga dosyası ({DAMGA}) bozulmuş olabilir · python3 scripts/sayfa_koruma.py --baslat --dry")
+        raise SystemExit(1)
     print(f"✅ {yazilan} {LANG} sözlük sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 

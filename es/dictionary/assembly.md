@@ -1,32 +1,29 @@
-# ¿Qué es Assembly?
+# Assembly Definición, registros y arquitectura de sistemas
 
-El ensamblaje se refiere a dos conceptos básicos en informática: primero, el lenguaje de programación simbólico de nivel más bajo (lenguaje ensamblador) que gobierna directamente el procesador de hardware (CPU); El segundo es convertir los módulos de software compilados (ensamblaje .NET) en un único paquete distribuible.
+Assembly representa dos conceptos fundamentales en ciencias de la computación: el lenguaje simbólico de más bajo nivel que controla directamente el procesador (CPU), y los paquetes compilados de despliegue (.NET assemblies).
 
-## 1. Lenguaje de programación de bajo nivel (lenguaje ensamblador)
-El procesador de la computadora solo entiende las señales binarias 0 y 1 (código de máquina/códigos de operación). El lenguaje ensamblador consta de abreviaturas simbólicas (mnemotécnicas) legibles por humanos correspondientes a estos códigos de máquina sin procesar:
+## 1. Lenguaje de Bajo Nivel (Assembly Language)
+La CPU procesa exclusivamente código máquina binario (opcodes). El lenguaje assembly convierte estas instrucciones binarias en nemónicos comprensibles por desarrolladores:
 
-## 2. Registros del procesador y arquitectura x86-64
-Los registros más críticos en un procesador x86-64 moderno de 64 bits son:
+## 2. Registros de CPU y Arquitectura x86-64
+En los procesadores modernos de 64 bits x86-64 encontramos registros dedicados y de propósito general:
 
-## 3. CISC vs RISC: diferencia entre x86-64 y ARM64
-La arquitectura x86-64 funciona con la filosofía CISC (Conjunto de instrucciones complejas); Tiene tamaños de instrucción variables e instrucciones ricas que pueden operar directamente en la memoria. ARM64 (Apple Silicon, Mobile) se basa en RISC (conjunto de instrucciones reducido); Proporciona una gran superioridad en eficiencia energética con su longitud de comando fija de 32 bits y su arquitectura Load-Store.
+## 3. CISC vs RISC: Comparativa entre x86-64 y ARM64
+La arquitectura x86-64 implementa la filosofía CISC (conjunto complejo de instrucciones) con instrucciones de longitud variable. En cambio, ARM64 (Apple Silicon, chips móviles) adopta RISC (conjunto reducido de instrucciones) con comandos fijos de 32 bits y arquitectura Load-Store, destacando en eficiencia energética.
 
-## 4. Llamadas al sistema (Syscall) y ejemplo de Linux x86-64
+## 4. Llamadas al Sistema (Syscalls) y Ejemplo Linux x86-64
 
-## 5. Ensamblaje .NET y ensamblaje web (WASM)
+## 5. .NET Assembly y WebAssembly (WASM)
 
 ## Preguntas frecuentes
-**¿Qué significa asamblea y para qué sirve?**
-El ensamblador es el lenguaje de programación simbólico de nivel más bajo que corresponde 1 a 1 al conjunto de instrucciones de hardware del procesador de la computadora. Se utiliza para controlar directamente los registros y la memoria de la CPU.
+**¿Qué significa Assembly y para qué se utiliza?**
+Es el lenguaje de programación más cercano al hardware físico, asignando nemónicos directamente a instrucciones de procesador para sistemas operativos y drivers.
 
-**¿Cuál es la diferencia entre ensamblador y compilador?**
-El compilador (C, C++, Rust) analiza, optimiza y traduce lógica humana compleja y bucles en código de máquina. Assembler, por otro lado, convierte las instrucciones ensambladoras, que ya son versiones simbólicas del código de máquina, directamente en código de bytes binario.
+**¿Cuál es la diferencia entre un ensamblador y un compilador?**
+Un compilador traduce estructuras complejas de alto nivel a código máquina; un ensamblador solo mapea nemónicos simbólicos directamente a secuencias binarias fijas.
 
-**¿Dónde se sigue utilizando el lenguaje ensamblador hoy en día?**
-Se utiliza activamente en núcleos de sistemas operativos (cargador de arranque), controladores de dispositivos de hardware, ingeniería inversa, análisis de malware, detección de vulnerabilidades cibernéticas y sistemas integrados (IoT/microcontrolador).
-
-**¿Cuál es la diferencia entre CISC y RISC?**
-CISC (x86-64) tiene un rico conjunto de instrucciones que puede realizar múltiples subprocesos y accesos a memoria en una sola instrucción; RISC (ARM), por otro lado, es una arquitectura simplificada y energéticamente eficiente que ejecuta cada comando en un único ciclo de reloj.
+**¿Dónde se sigue usando Assembly en la actualidad?**
+En cargadores de arranque (bootloaders), microcontroladores embebidos, ingeniería inversa de seguridad y módulos de alto rendimiento.
 
 
 ## Términos relacionados
@@ -37,7 +34,6 @@ CISC (x86-64) tiene un rico conjunto de instrucciones que puede realizar múltip
 - [Emulator](/es/dictionary/emulator/)
 
 ## Herramientas relacionadas
-- [Ghidra](/es/discover/ghidra/)
 - [Apollo-11](/es/discover/apollo-11/)
 
 ---
