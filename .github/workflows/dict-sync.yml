@@ -447,9 +447,6 @@ jobs:
       - name: Yönlendirmeleri üret
         run: python3 scripts/redirect-uret.py
 
-      - name: Sitemap senkronu
-        run: python3 scripts/sitemap-sync.py
-
       - name: Chrome normalize (nav + footer kanonik hâle)
         run: node scripts/fix-all-headers-and-footers.js
 
@@ -466,6 +463,14 @@ jobs:
       # bağlantı guard'ı bunlar için sıkı, temizlik guard'dan ÖNCE.
       - name: Ölü ilgili çipleri temizle
         run: python3 scripts/ilgili-temizle.py
+
+      # Sitemap senkronu normalize adımlarından SONRA koşar. sitemap-sync lastmod'u
+      # "HEAD'e göre değişen sayfa"ya göre yeniler; üreticiler her sayfayı eski
+      # kabukla yazdığı için normalize'dan önce binlerce sayfa değişmiş görünüyor,
+      # normalize edici sonra geri alıyordu. Sonuç: commit'te ~380 gerçek değişiklik,
+      # sitemap'te ~7.200 lastmod yenilemesi (2026-10-02). Google lastmod'a güvenmeyi bırakıyordu.
+      - name: Sitemap senkronu
+        run: python3 scripts/sitemap-sync.py
 
       # bot commit'lerinde çalışmaz; aynı guard'ları burada üretici çıktısına da uyguluyoruz.
       - name: Inline CSS/JS kontrolü
