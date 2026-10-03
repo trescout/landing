@@ -28,7 +28,7 @@ import os, re, sys, json, html, time, urllib.parse, urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
 from translation_service import translate_text, translate_texts
-from sayfa_koruma import zayiflatir
+from sayfa_koruma import zayiflatir, damgalar, damga_yaz, damga_yolu, elle_duzenlenmis, icerik_damgasi
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "discover")
@@ -42,6 +42,7 @@ DRY = "--dry" in sys.argv
 LIMIT = next((int(a.split("=")[1]) for a in sys.argv if a.startswith("--limit=")), None)
 ONLY = next((a.split("=")[1] for a in sys.argv if a.startswith("--slug=")), None)
 CACHE = os.path.join(ROOT, "assets", "discover", f"{LANG}-cache.json")
+DAMGA = damga_yolu("discover", LANG)
 COMMAND_LABELS_PATH = os.path.join(ROOT, "assets", "discover", "command-labels.json")
 COMMAND_LABELS = json.load(open(COMMAND_LABELS_PATH, encoding="utf-8")) if os.path.exists(COMMAND_LABELS_PATH) else {}
 
@@ -556,8 +557,14 @@ def main():
     if LIMIT:
         sluglar = sluglar[:LIMIT]
     global _sayfa_eksik
-    yazilan = korunan = zayif_korunan = 0
+    yazilan = korunan = zayif_korunan = elle_korunan = 0
+    damga = damgalar(DAMGA)
     for i, slug in enumerate(sluglar, 1):
+        # Elle düzenlenmiş sayfa üretilmez, çevirisi de istenmez (bkz. sayfa_koruma.py üretici damgası).
+        if elle_duzenlenmis(os.path.join(EN_DIR, slug, "index.html"), damga.get(slug)):
+            elle_korunan += 1
+            print(f"  ! {slug}: elle düzenlenmiş (üretici damgası tutmuyor) · üretilmedi · bırakmak için: python3 scripts/sayfa_koruma.py --birak {LANG}/discover/{slug}")
+            continue
         _sayfa_eksik = 0
         h = build(slug, cat, chrome)
         if not h:
@@ -582,6 +589,8 @@ def main():
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(h)
         open(os.path.join(EN_DIR, slug + ".md"), "w", encoding="utf-8").write(markdown(slug, h))
+        damga[slug] = icerik_damgasi(h)
+        damga_yaz(DAMGA, damga)
         yazilan += 1
         if i % 25 == 0:
             json.dump(_cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
@@ -591,7 +600,14 @@ def main():
     if korunan:
         print(f"  ! {korunan} keşif sayfası çeviri eksiği yüzünden yazılmadı · ertesi koşuda tekrar denenecek")
     if zayif_korunan:
-        print(f"  ! {zayif_korunan} keşif sayfası zayıflamasın diye yazılmadı (elle zenginleştirilmiş sayfalar)")
+        print(f"  ! {zayif_korunan} keşif sayfası zayıflamasın diye yazılmadı (üretici çıktısı zayıftı)")
+    if elle_korunan:
+        print(f"  ! {elle_korunan} keşif sayfası elle düzenlenmiş · korundu (liste: python3 scripts/sayfa_koruma.py --liste)")
+    # TOPLU DONMA FRENİ · damga dosyası silinir/bozulursa ya da <main>'e toplu mekanik bir
+    # değişiklik gelirse sayfalar sessizce donmasın (sitemap-sync.py TOPLU SİLME FRENİ ikizi).
+    if elle_korunan > max(50, len(sluglar) // 4):
+        print(f"✗ {elle_korunan} keşif sayfası elle sayıldı · damga dosyası ({DAMGA}) bozulmuş olabilir · python3 scripts/sayfa_koruma.py --baslat --dry")
+        raise SystemExit(1)
     print(f"✅ {yazilan} {LANG} keşif sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 
