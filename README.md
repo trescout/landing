@@ -7,15 +7,23 @@ Statik HTML landing page. `trescout.com`'a deploy edilir.
 ## Yapı
 
 ```
-trescout-landing/
-├── index.html                          · Landing page (tek dosya)
-├── sample-report.pdf                   · Örnek günlük rapor (download link)
-├── favicon.svg                         · Browser tab ikonu
-├── README.md
-├── AGENTS.md                           · Org-wide AI/insan kuralları (kanonik)
-├── CLAUDE.md                           · Claude Code yönlendirmesi
-├── .cursorrules                        · Cursor yönlendirmesi
-└── .github/pull_request_template.md    · PR şablonu (özet, test, AI aracı)
+landing/
+├── index.html                  · Ana sayfa (TR)
+├── en/ fr/ pt/ es/ de/         · Diğer dil sürümleri
+├── discover/ dictionary/       · Keşif ve Sözlük sayfaları
+├── reports/                    · Günlük raporlar (web + PDF, tarih bazlı)
+├── compare/                    · Karşılaştırma sayfaları
+├── api/                        · Vercel fonksiyonları (/api/subscribe)
+├── assets/                     · CSS, JS, font, görseller
+├── scripts/                    · Build ve tutarlılık kontrol betikleri
+├── tests/                      · Testler
+├── docs/                       · Ölçüm, ENV, SEO notları
+├── sample-report.pdf           · Örnek günlük rapor
+├── llms.txt, sitemap.xml, robots.txt
+├── vercel.json                 · Başlıklar (CSP vb.) ve yönlendirmeler
+├── AGENTS.md                   · Org-wide AI/insan kuralları (kanonik)
+├── CLAUDE.md, .cursorrules     · AI araçları yönlendirmesi
+└── .github/                    · Workflow'lar ve PR şablonu
 ```
 
 ## Deploy

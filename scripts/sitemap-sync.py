@@ -9,11 +9,17 @@ dict-sync ekliyordu, İngilizce tarafı ise tek seferlik bir betik doldurmuştu 
 o günden sonra güncellenmedi. 2026-08-06 denetiminde 154 sayfa (İngilizce
 raporlar, tekrarsız arşiv, yeni sözlük ve keşif sayfaları) sitemap dışındaydı.
 
-Mevcut girdilerin lastmod'una yalnız ilgili HTML veya aydınlatma sayfası gerçekten
-HEAD'e göre değişmişse dokunur. Böylece her çalıştırmada tüm arşivin tarihi
-tazelenmiş gibi görünmez.
+Mevcut girdilerin lastmod'una yalnız ilgili sayfanın İÇERİĞİ (main + title +
+description) HEAD'e göre değişmişse dokunur. Site genelinde nav/footer değişimi
+binlerce sayfanın tarihini ileri almaz · Google lastmod'a içerik değişimi
+olmadan yapılan yenilemeler yüzünden güvenmeyi bırakıyor.
 
-Kullanım: python3 scripts/sitemap-sync.py [--dry]
+--onar: TEK SEFERLİK. Her URL'nin lastmod'unu sayfasını değiştiren SON commit'in
+tarihine çeker (tam git geçmişi ister · `git fetch --unshallow`). Eski sıralama
+hatası yüzünden toplu bugüne çekilmiş tarihleri düzeltir. Tarihi gerçekten
+değişmeyen sayfalar eski tarihine döner, idempotent.
+
+Kullanım: python3 scripts/sitemap-sync.py [--dry] [--onar]
 """
 import os, re, sys, glob, datetime, subprocess
 
@@ -25,6 +31,27 @@ SITEMAP = os.path.join(ROOT, "sitemap.xml")
 BASE = "https://trescout.com"
 TODAY = os.environ.get("DICT_DATE") or datetime.date.today().isoformat()
 DRY="--dry" in sys.argv
+
+
+def icerik_ozeti(html):
+    """Sayfanın İÇERİĞİ: <main>, <title>, meta description. nav/footer/hreflang
+    gibi kabuk değişimleri lastmod'u yenilemesin diye dışarıda kalır."""
+    parcalar = [re.search(p, html, re.S) for p in
+                (r"<main\b.*?</main>", r"<title>.*?</title>", r'<meta name="description"[^>]*>')]
+    if not parcalar[0]:  # <main> yoksa (ör. privacy.html) tüm dosya
+        return html
+    return "".join(m.group(0) for m in parcalar if m)
+
+
+def icerik_degisti(name):
+    """Dosya HEAD'de yoksa (yeni) ya da içerik özeti HEAD'den farklıysa True."""
+    try:
+        eski = subprocess.check_output(["git", "show", f"HEAD:{name}"], cwd=ROOT,
+                                       stderr=subprocess.DEVNULL).decode("utf-8")
+        yeni = open(os.path.join(ROOT, name), encoding="utf-8").read()
+    except (OSError, subprocess.CalledProcessError):
+        return True
+    return icerik_ozeti(eski) != icerik_ozeti(yeni)
 
 
 def changed_urls():
@@ -51,7 +78,7 @@ def changed_urls():
             url = f"/{name}"
         else:
             continue
-        if url not in ATLA:
+        if url not in ATLA and icerik_degisti(name):
             out.add(url)
     return out
 
@@ -100,6 +127,27 @@ def disk_urls():
     return out
 
 
+def son_degisim_tarihleri():
+    """URL → sayfasını değiştiren son commit'in tarihi (tek git log geçişi)."""
+    if subprocess.check_output(["git", "rev-parse", "--is-shallow-repository"], cwd=ROOT, text=True).strip() == "true":
+        sys.exit("✗ sığ klon · önce `git fetch --unshallow`")
+    out = subprocess.check_output(
+        ["git", "log", "--format=%x00%cs", "--name-only", "--no-renames"], cwd=ROOT, text=True)
+    tarih, sonuc = None, {}
+    for satir in out.splitlines():
+        if satir.startswith("\x00"):
+            tarih = satir[1:]
+        elif satir.endswith("index.html") or satir.endswith("privacy.html"):
+            if satir == "index.html":
+                url = "/"
+            elif satir.endswith("/index.html"):
+                url = f"/{satir[:-len('/index.html')]}/"
+            else:
+                url = f"/{satir}"
+            sonuc.setdefault(url, tarih)  # log yeniden eskiye · ilk görülen en yeni
+    return sonuc
+
+
 def main():
     sm = open(SITEMAP, encoding="utf-8").read()
     bloklar = re.findall(r"  <url>.*?</url>\n", sm, re.S)
@@ -119,6 +167,16 @@ def main():
         blok = mevcut[u]
         if re.search(r"<lastmod>[^<]+</lastmod>", blok):
             yeni_blok = re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{TODAY}</lastmod>", blok, count=1)
+            if yeni_blok != blok:
+                mevcut[u] = yeni_blok
+                tazelenen.append(u)
+
+    if "--onar" in sys.argv:
+        gercek = son_degisim_tarihleri()
+        # İçeriği şu an (commit'siz) değişen sayfa bugünkü tarihini korur
+        for u in sorted((set(mevcut) & set(gercek)) - degisen):
+            blok = mevcut[u]
+            yeni_blok = re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{gercek[u]}</lastmod>", blok, count=1)
             if yeni_blok != blok:
                 mevcut[u] = yeni_blok
                 tazelenen.append(u)

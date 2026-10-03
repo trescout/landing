@@ -79,10 +79,11 @@ python3 scripts/discover-index.py
 python3 scripts/discover-md.py
 python3 scripts/llms-txt.py
 python3 scripts/redirect-uret.py
-python3 scripts/sitemap-sync.py
 node scripts/fix-all-headers-and-footers.js
 python3 scripts/hreflang-normalize.py
 python3 scripts/ilgili-temizle.py
+# sitemap-sync normalize'dan SONRA · yoksa lastmod toplu yenilenir (dict-sync.yml'deki not)
+python3 scripts/sitemap-sync.py
 
 python3 scripts/check-no-inline-csp.py
 python3 scripts/check-nav-consistency.py
