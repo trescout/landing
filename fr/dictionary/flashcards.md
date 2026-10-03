@@ -1,58 +1,40 @@
-# Que sont les Flashcards ?
+# Qu'est-ce que Flashcards ?
 
-> Cartes de mémorisation / Flashcards
+Les Flashcards sont de petites cartes d’apprentissage avec des questions au recto et des réponses au verso.
 
-**Catégorie:** AI  
-**Dernière mise à jour:** 2026-09-22
+## Définition et origine du mot
+"Flash" signifie afficher rapidement et "carte" signifie carte. La méthode divise les informations complexes en morceaux plus petits : chaque carte demande une seule idée. Combinées à une répétition espacée, les cartes apparaissent devant vous lorsque vous êtes sur le point de les oublier. C’est courant dans l’apprentissage des langues et la préparation aux examens.
 
-Les flashcards (ou cartes de mémorisation) sont des fiches d'apprentissage compactes comportant une question au recto et sa réponse au verso, conçues pour optimiser la mémoire à long terme.
-
-## Définition et étymologie
-Cette méthode décompose les savoirs complexes en éléments atomiques faciles à assimiler. Chaque fiche teste une idée précise. Combinées à la répétition espacée, les cartes réapparaissent exactement au moment où vous vous apprêtez à les oublier, maximisant l'ancrage mémoriel.
-
-## Usage quotidien et contexte pratique
-- **Apprentissage des langues :** Assimilation quotidienne de vocabulaire et de verbes irréguliers.
-- **Médecine et droit :** Mémorisation de terminologies anatomiques, posologies et jurisprudence.
-- **Programmation informatique :** Mémorisation de commandes shell, raccourcis IDE et patrons de conception.
-- **Concours scolaires :** Révision de formules mathématiques et de repères historiques.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Apprentissage des langues : 10 nouvelles cartes de mots chaque jour.Médecine et droit : Mémorisation de concepts et de définitions.Logiciel : Cartes de commandes et de raccourcis.Examen : Répétition de formules et de dates.
 
 ## Profondeur technique et architecture
-Architecture d'une application moderne de flashcards :- **Génération assistée par IA :** Extraction de questions-réponses depuis des cours ou des manuels.
-- **Algorithme d'espacement (SRS) :** Modèles mathématiques (SM-2, FSRS) espaçant les révisions selon la facilité ressentie.
-- **Organisation en paquets :** Classement thématique et étiquetage hiérarchique.
-- **Synchronisation cloud :** Maintien de l'avancement entre smartphone et ordinateur.
+Parties du système de carte numérique :
 
-Limite de la méthode : les cartes sont idéales pour la rétention de faits bruts, mais ne remplacent pas la mise en pratique ni la résolution d'exercices concrets.
+## Choses fréquemment mélangées
+Cela peut être confondu avec un quiz. Le quiz est un test et donne des points. Flashcard est un outil d'apprentissage dont le but est la répétition et la mémorisation.
 
-## Souvent confondu avec
-Souvent confondues avec un quiz ou un examen. Un quiz attribue une note finale sanctionnant un niveau ; une flashcard est un instrument de travail personnel axé sur l'entraînement continu de la mémoire.
+## Utilisation dans différentes disciplines
+Sport : Cartes tactiques de pré-entraînement.Musique : Cartes de notes et d'accords.Aviation : Cartes de liste de contrôle d’urgence.
 
-## Perspectives interdisciplinaires
-- **Sport :** Fiches tactiques mémorisées avant une compétition.
-- **Musique :** Cartes de solfège pour reconnaître instantanément notes et accords.
-- **Aviation :** Fiches de procédures d'urgence apprises par cœur par les pilotes.
+## Foire aux questions
+**Comment l’intelligence artificielle produit-elle des cartes ?**
+Il analyse vos textes et transforme les points importants en modèles de questions. Il est recommandé d'examiner les cartes générées, car toutes les questions peuvent ne pas être exactes.
 
-## Par analogie
-Comme une version numérique et intelligente des petites fiches cartonnées Bristol : elles se réorganisent d'elles-mêmes pour ne vous représenter que les notions que vous êtes sur le point d'oublier.
+**Combien de cartes faut-il pratiquer par jour ?**
+Peu et régulièrement, c'est plus efficace. 10 à 20 nouvelles cartes par jour, ainsi que la répétition des anciennes, constituent un rythme durable.
 
-## Questions fréquentes
+**Les cartes seules suffisent-elles ?**
+Oui pour la reconnaissance, non pour la compréhension profonde. Vous devez combiner la résolution d’exemples, l’explication par écrit et la discussion.
 
-**Comment l'IA aide-t-elle à créer des cartes ?**  
-Elle analyse des textes denses pour identifier les concepts clés et les convertir automatiquement en questions-réponses claires.
+**Carte papier ou application ?**
+L'application planifie automatiquement et vous accompagne partout. Le papier, en revanche, ne distrait pas. Il y a aussi des gens qui utilisent les deux ensemble.
 
-**Quel est le rythme d'apprentissage recommandé ?**  
-Mieux vaut réviser peu mais tous les jours : 15 à 20 nouvelles cartes par jour constituent un rythme pérenne.
-
-**Les flashcards suffisent-elles pour maîtriser un sujet complexe ?**  
-Non. Elles consolident le rappel des notions atomiques, mais la compréhension profonde requiert des études de cas et de la pratique.
-
-**Faut-il privilégier le papier ou une application numérique ?**  
-L'application gère parfaitement les intervalles d'oubli sans effort d'organisation ; le papier évite toute distraction numérique.
 
 ## Termes liés
-- [Tutorat](/fr/dictionary/tutoring/)
-- [Apprentissage continu](/fr/dictionary/lifelong-learning/)
-- [Compétences IA](/fr/dictionary/ai-skills/)
+- [Tutoring](/fr/dictionary/tutoring/)
+- [Lifelong Learning](/fr/dictionary/lifelong-learning/)
+- [AI Skills](/fr/dictionary/ai-skills/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/flashcards/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/flashcards/

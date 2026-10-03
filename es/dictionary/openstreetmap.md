@@ -1,48 +1,37 @@
-# ¿Qué es OpenStreetMap (OSM)?
+# ¿Qué es OpenStreetMap?
 
-> Inglés: OpenStreetMap · Etimología: inglés open (abierto) + street (calle) + map (mapa)
+OpenStreetMap (abreviado como OSM) es el mapa del mundo libre y abierto, creado de forma colaborativa por voluntarios.
 
-**Categoría:** Data  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+El proyecto se inició en 2004. A diferencia de los mapas comerciales, los datos no los produce una empresa, sino una comunidad de voluntarios: cualquiera puede añadir nuevas carreteras, edificios o puntos de interés, así como corregir errores. Los datos están abiertos a todo el mundo bajo la licencia ODbL. Esto significa que puede utilizar los datos de forma gratuita, pero debe citar la fuente al compartirlos.
 
-OpenStreetMap (OSM) es una base de datos geográfica libre, abierta y colaborativa del mundo entero, creada y actualizada de forma continua por una comunidad de millones de voluntarios.
-
-## Definición y etimología
-Fundado en 2004 por Steve Coast ante las limitaciones y elevados precios de los mapas comerciales, OpenStreetMap es conocido como la Wikipedia cartográfica. A diferencia de las plataformas propietarias, OSM pone a disposición pública toda la información vectorial bajo licencia abierta Open Database License (ODbL).
-
-## Contexto cotidiano e uso práctico
-Presencia habitual de OSM en la tecnología actual :
-- **Navegadores Offline:** Aplicaciones como OsmAnd, Organic Maps o MAPS.ME que permiten viajar sin consumir datos móviles.- **Servicios Deportivos y Tecnológicos:** Mapbox, Strava y plataformas de movilidad integran información detallada de senderos y caminos de OSM.- **Acción Humanitaria:** Equipos de emergencia que trazan carreteras y refugios tras catástrofes naturales para coordinar ambulancias.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Aplicaciones de navegación: Aplicaciones como OsmAnd y MAPS.ME obtienen sus mapas de los datos de OSM.Logística: Planificación de rutas para empresas de distribución.Ayuda en casos de desastre: Mapeo rápido de zonas de crisis por parte de voluntarios (p. ej., la comunidad HOT).Planificación urbana: Análisis de carriles bici y espacios verdes.
 
 ## Profundidad técnica y arquitectura
-Estructura elemental de los datos espaciales en OSM :
-- **Nodo (Node):** Coordenada geográfica concreta definida por latitud y longitud.- **Vía (Way):** Conjunto ordenado de nodos que representa carreteras, vías de tren o el perímetro cerrado de un parque o inmueble.- **Relación (Relation):** Conjunto estructurado que vincula vías y nodos para rutas de transporte o restricciones de giro.- **Etiquetas Clave/Valor (Tags):** Propiedades descriptivas normalizadas internacionalmente (ejemplo: highway=secondary, surface=asphalt).
+Los datos de OSM constan de tres bloques fundamentales:
 
-## Perspectivas interdisciplinares
-Modelos similares en el conocimiento abierto :
-- **Enciclopedias Digitales:** El sistema colaborativo y abierto que define a Wikipedia.- **Comunidad Linux:** El esfuerzo coordinado de miles de programadores para mantener sistemas operativos libres.- **Ciencia Ciudadana:** Redes de sensores atmosféricos instalados por particulares en sus hogares.
-
-## Por analogía
-Es como la Wikipedia de los mapas del mundo: cualquier usuario puede añadir el sendero recién abierto en su pueblo o corregir un sentido de circulación, enriqueciendo un mapa global propiedad de toda la sociedad.
+## Uso en diferentes disciplinas
+Enciclopedia: El modelo de Wikipedia, donde todos escriben y corrigen.Software de código abierto: El núcleo de Linux, que crece gracias a la contribución voluntaria.Ciencia ciudadana: La recopilación de registros de observación de aves en una base de datos común.
 
 ## Preguntas frecuentes
+**¿Es realmente gratuito?**
+Los datos son gratuitos bajo la licencia ODbL. Si los aloja en su propio servidor, no paga tarifas adicionales. Las empresas que ofrecen servicios de teselas listos para usar pueden cobrar tarifas adicionales.
 
-**¿Se puede utilizar OpenStreetMap para proyectos comerciales?**  
-Sí; la licencia ODbL autoriza el uso comercial y profesional con el único requisito de atribuir los créditos a OpenStreetMap.
+**¿Cuál es la diferencia con Google Maps?**
+En Google Maps, la empresa produce los datos y los vincula a cuotas de API. En OSM, la comunidad produce los datos, y usted puede descargar los datos sin procesar y procesarlos sin límites.
 
-**¿Cómo se controla que los datos sean fiables y exactos?**  
-A través de herramientas comunitarias que auditan los cambios y de mapeadores locales que conocen el terreno en detalle.
+**¿Cómo puedo contribuir al mapa?**
+Puede crear una cuenta y comenzar con el editor iD en su navegador. Añadir una tienda que falte en su calle es un buen primer paso.
 
-**¿Puede una empresa disponer de su propia infraestructura de mapas OSM?**  
-Sí; con tecnologías abiertas como PostGIS es posible autoalojar servidores de teselas y prescindir de cuotas por llamada a mapas de pago.
+**¿Puedo usarlo en mi producto comercial?**
+Sí, pero según la ODbL, debe proporcionar la atribución de OpenStreetMap de forma visible y compartir los datos derivados bajo la misma licencia.
 
-**¿Qué diferencia a OSM frente a las soluciones de mapas de grandes tecnológicas?**  
-Los gigantes ofrecen servicios cerrados con límites de consumo; OSM ofrece la base cartográfica original en bruto para descargar y transformar.
 
 ## Términos relacionados
 - [Data Pipeline](/es/dictionary/data-pipeline/)
-- [Open Source](/es/dictionary/open-source/)
-- [API](/es/dictionary/api/)
+- [OSINT](/es/dictionary/osint/)
+- [Graph-based Investigation](/es/dictionary/graph-based-investigation/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/openstreetmap/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/openstreetmap/

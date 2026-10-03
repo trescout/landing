@@ -4,16 +4,16 @@ FlClash ; ClashMeta tabanlı, çok platformlu bir proxy (vekil sunucu) istemcisi
 
 _Görsel: FlClash (proje deposundan)_
 
-- ★ 52.097
+- ★ 54.202
 - Dart
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
+- 3 Ekim 2026: Yıldız 52.097 → 54.202, son sürüm v0.8.99 (3 Ekim 2026).
 - 14 Eylül 2026: Yıldız 51.594 → 52.097, son sürüm v0.8.98 (14 Eylül 2026).
 - 10 Eylül 2026: Yıldız 49.138 → 51.594, son sürüm v0.8.97 (10 Eylül 2026).
 - 18 Ağustos 2026: Yıldız 48.759 → 49.138, son sürüm v0.8.96 (17 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 47.428 → 48.759, son sürüm v0.8.95 (14 Ağustos 2026).
 
 - **Kimin için:** Proxy/vekil sunucu istemcisi arayanlar 
 - **Zorluk:** Kolay-orta · uygulama 

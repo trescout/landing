@@ -1,31 +1,36 @@
 # Qu'est-ce que Speech-to-Speech ?
 
-Une technologie qui convertit directement la saisie vocale en sortie vocale, sans avoir besoin de texte.
+La technologie Speech-to-Speech (S2S / IA de voix à voix) est une technologie d'apprentissage profond de bout en bout qui analyse les ondes sonores directement de la source à la destination sans les convertir en une couche de texte intermédiaire, générant ainsi un nouveau signal vocal.
 
-## Définition
-La parole-parole est la conversion directe d'un son dans une langue en un son dans une autre langue ou en un ton différent dans la même langue. Alors que dans les méthodes traditionnelles, la voix est d'abord traduite en texte, puis dans une autre langue, puis reconvertie en voix, cette technologie effectue le processus en une seule étape. De cette manière, l’émotion et l’intonation du locuteur sont mieux préservées.
+## De l'architecture en cascade traditionnelle à l'architecture de bout en bout
+Les systèmes traditionnels de traduction vocale et de dialogue se composaient de trois étapes indépendantes appelées « cascade » :
 
-## Comment ça marche
-Le système analyse les ondes sonores du locuteur et utilise des modèles d'intelligence artificielle qui convertissent le contenu directement en ondes sonores dans la langue cible sans le retranscrire en texte.
+## Infrastructure technique : Tokenisation audio et espace latent continu
+Les étapes d'ingénierie fondamentales derrière les systèmes de parole à parole sont les suivantes :
 
-## Où est-ce utilisé
-Il est utilisé dans les appareils de traduction en temps réel, les assistants vocaux avancés et les technologies de doublage.
-
-## Souvent confondu avec
-A ne pas confondre avec la synthèse vocale ; Ici, le texte n’est pas une étape intermédiaire.
+## Domaines d'utilisation et perspectives d'avenir
 
 ## Questions fréquentes
-**Pourquoi est-ce fait sans le traduire en texte ?**
-Sauter la phase de texte permet de maintenir plus facilement le ton émotionnel et le rythme de la conversation.
+**Que signifie Speech-to-Speech et comment fonctionne-t-il ?**
+Le Speech-to-Speech (de la parole à la parole) est un modèle d'intelligence artificielle de bout en bout qui élimine la nécessité de convertir la parole en texte, en analysant directement l'onde sonore pour produire une sortie sous forme de voix.
 
-**Est-ce que ça marche dans toutes les langues ?**
-À mesure que la technologie se développe, la prise en charge des langues augmente, mais elle donne les meilleures performances dans les langues dans lesquelles le modèle est formé.
+**Quelle est la différence avec la cascade STT-TTS traditionnelle ?**
+Les systèmes en cascade convertissent d'abord la voix en texte, puis le texte en voix ; cela entraîne une latence de plusieurs secondes et une perte d'émotion/d'accentuation. Le S2S, quant à lui, fonctionne avec une latence instantanée de 200 à 300 ms et préserve le caractère vocal du locuteur.
+
+**Est-il possible d'interrompre le système S2S pendant qu'il parle ?**
+Oui ; grâce au flux audio bidirectionnel complet (Full-Duplex), le modèle peut arrêter instantanément la génération vocale et passer en mode écoute lorsque l'utilisateur intervient.
+
+**Quels sont les risques de sécurité liés à la traduction voix à voix ?**
+La technologie de clonage vocal réaliste comporte des risques d'usurpation d'identité et de fraude. Pour cette raison, les systèmes S2S modernes intègrent des filigranes cryptographiques (audio watermarking) inaudibles à l'oreille humaine dans la voix synthétisée.
 
 
 ## Termes liés
+- [STT](/fr/dictionary/stt/)
 - [Speech-to-Text](/fr/dictionary/speech-to-text/)
-- [Voice Synthesis](/fr/dictionary/voice-synthesis/)
-- [AI Models](/fr/dictionary/ai-models/)
+- [Voice Cloning](/fr/dictionary/voice-cloning/)
+- [Whisper](/fr/dictionary/whisper/)
+- [Tokenizer](/fr/dictionary/tokenizer/)
+- [Apple Silicon](/fr/dictionary/apple-silicon/)
 
 ## Outils liés
 - [Speech to Speech](/fr/discover/speech-to-speech/)

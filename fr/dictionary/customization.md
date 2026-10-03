@@ -1,57 +1,40 @@
-# Qu'est-ce que la Personnalisation ?
+# Qu'est-ce que Customization ?
 
-> Personnalisation logicielle
+La personnalisation consiste à adapter un produit prêt à l'emploi à vos propres besoins.
 
-**Catégorie:** Dev  
-**Dernière mise à jour:** 2026-09-22
+## Définition et origine du mot
+« Customize » signifie adapter selon ses besoins. Cela va de la couleur de l'interface aux règles de flux de travail. L'objectif est que le produit s'adapte à vous, et non l'inverse. La métaphore du tailleur est pertinente : on achète un costume prêt-à-porter et on le fait retoucher à sa taille.
 
-La personnalisation (customization) est le processus consistant à adapter un produit logiciel, une interface ou un flux de travail pour répondre aux besoins spécifiques d'un utilisateur ou d'une entreprise.
-
-## Définition et étymologie
-Personnaliser signifie ajuster un produit standard à sa convenance. Cela va du choix d'un thème visuel sombre à l'intégration de scripts métiers complexes et de règles de validation sur mesure. L'objectif est d'adapter l'outil à l'humain plutôt que d'obliger l'humain à subir les contraintes rigides du logiciel.
-
-## Usage quotidien et contexte pratique
-- **Interfaces utilisateur :** Agencement des panneaux, thèmes de couleur et raccourcis clavier.
-- **Outils d'entreprise :** Champs personnalisés dans un CRM, automatisations de tickets et validation de factures.
-- **Éditeurs de code :** Installation de greffons (plugins) et snippets adaptés à un langage précis.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Thème : Mode sombre et choix des couleurs.Raccourci : Assignations de touches.Entreprise : Flux de validation et définitions de champs.
 
 ## Profondeur technique et architecture
-Piliers techniques de la personnalisation :- **Paramétrage déclaratif :** Fichiers JSON ou YAML modifiant le comportement sans toucher au code source.
-- **Architecture par greffons :** Points d'ancrage (hooks) et API d'extension isolées.
-- **Développement sur mesure :** Écriture de micro-modules s'interfaçant avec les services centraux.
+Couches d'adaptation, du moins cher au plus cher :
 
-La bonne pratique consiste à isoler les personnalisations dans des extensions pour ne pas bloquer les futures mises à jour logicielles de la plateforme hôte.
+## Choses fréquemment mélangées
+C'est similaire à la personnalisation. La différence est la suivante : dans la personnalisation (customization), vous réglez le système, tandis que dans la personnalisation (personalization), le système vous observe et se règle lui-même. L'un est un travail manuel, l'autre est automatique.
 
-## Souvent confondu avec
-Souvent confondue avec la simple configuration. Activer une case à cocher est une configuration élémentaire ; la personnalisation implique la redéfinition de processus et la création de comportements inédits.
+## Utilisation dans différentes disciplines
+Tailleur : Adaptation du prêt-à-porter à la morphologie.Meubles : Faire fabriquer une armoire sur mesure.Automobile : Sélection du pack d'équipement.
 
-## Perspectives interdisciplinaires
-- **Haute couture :** Retoucher un costume de prêt-à-porter pour épouser la morphologie d'un client.
-- **Automobile :** Ajuster les suspensions et l'électronique de bord pour un style de conduite.
-- **Poste de travail :** Régler la hauteur d'un bureau et l'angle d'un écran pour son confort physique.
+## Foire aux questions
+**Chaque logiciel peut-il être personnalisé ?**
+Non. Les produits en boîte fermée n'offrent pas de réglages. Vous devez demander les couches d'adaptation avant d'acheter.
 
-## Par analogie
-C'est comme acheter un costume prêt-à-porter chez un maître tailleur qui réajuste les manches et la taille pour qu'il convienne parfaitement à votre carrure.
+**Quelle est la différence avec la personnalisation (personalization) ?**
+Dans la personnalisation (customization), c'est vous qui réglez, dans la personnalisation (personalization), le système vous observe. L'un est un travail manuel, l'autre est automatique.
 
-## Questions fréquentes
+**Quelle est la limite ?**
+C'est le point où le noyau devient impossible à mettre à jour. Un produit trop personnalisé ne peut pas être renouvelé, il reste bloqué.
 
-**Quelle différence entre configuration et personnalisation ?**  
-La configuration sélectionne des options prévues par l'éditeur ; la personnalisation ajoute de nouvelles logiques, vues ou intégrations non incluses au départ.
+**La mise à jour casse-t-elle l'adaptation ?**
+Au niveau de la couche d'extension, généralement non, mais dans le cas d'un fork, généralement oui. C'est pourquoi la couche minimale suffisante est choisie.
 
-**La personnalisation pose-t-elle des risques de maintenance ?**  
-Oui. Des modifications trop profondes compliquent les montées de version si elles ne reposent pas sur des API publiques stables.
-
-**Comment sécuriser les extensions personnalisées ?**  
-En exécutant le code personnalisé dans des bacs à sable (sandboxes) aux privilèges d'accès restreints.
-
-**Quand privilégier les fonctionnalités natives ?**  
-Chaque fois que les standards de l'industrie répondent à l'essentiel du besoin, pour limiter les coûts de développement interne.
 
 ## Termes liés
-- [Extensibilité](/fr/dictionary/extensibility/)
 - [Plugin](/fr/dictionary/plugin/)
-- [Configuration](/fr/dictionary/configuration/)
-- [Hooks personnalisés](/fr/dictionary/custom-hooks/)
+- [Framework](/fr/dictionary/framework/)
+- [User Experience](/fr/dictionary/user-experience/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/customization/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/customization/

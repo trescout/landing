@@ -41920,6 +41920,59 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Açık kaynaklı modern proxy istemcisi
+
+FlClash ; ClashMeta tabanlı, çok platformlu bir proxy (vekil sunucu) istemcisidir. Dart ile geliştirilmiş olup reklamsız, kullanıcı dostu ve açık kaynaklı bir yapıya sahiptir.
+
+_Görsel: FlClash (proje deposundan)_
+
+- ★ 54.202
+- Dart
+- GPL-3.0
+- GitHub Trending · 30 May 2026
+
+## Güncelleme
+- 3 Ekim 2026: Yıldız 52.097 → 54.202, son sürüm v0.8.99 (3 Ekim 2026).
+- 14 Eylül 2026: Yıldız 51.594 → 52.097, son sürüm v0.8.98 (14 Eylül 2026).
+- 10 Eylül 2026: Yıldız 49.138 → 51.594, son sürüm v0.8.97 (10 Eylül 2026).
+- 18 Ağustos 2026: Yıldız 48.759 → 49.138, son sürüm v0.8.96 (17 Ağustos 2026).
+
+- **Kimin için:** Proxy/vekil sunucu istemcisi arayanlar 
+- **Zorluk:** Kolay-orta · uygulama 
+- **Ne sunar:** Çok platformlu, reklamsız proxy istemcisi 
+- **Ücret:** Ücretsiz · açık kaynak (GPL-3.0) 
+- **Lisans:** GPL-3.0 · ayrıntı aşağıda 
+
+## Ne kazandırır?
+- Birden fazla platformda çalışma imkanı.
+- Reklamsız ve sade bir arayüz.
+- Açık kaynaklı ClashMeta gücü.
+
+## Kullanım notu
+
+Bir proxy istemcisi yalnızca araçtır; bulunduğunuz ülkenin yasalarına ve kullandığınız servislerin şartlarına uygun kullanmak sizin sorumluluğunuzdadır.
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+FlClash adlı çok platformlu açık kaynaklı proxy istemcisini kullanmak istiyorum; GitHub Releases sayfasından (https://github.com/chen08209/FlClash/releases) işletim sistemime (Android, Windows, macOS ya da Linux) uygun kurulum dosyasını indirip kurmama ve bir abonelik bağlantısı ekleyerek yapılandırmama yardım et.
+
+Lisans: GPL-3.0 · kullanımı serbest; yazılımı değiştirip dağıtırsanız değişikliklerinizi de aynı GPL lisansıyla, kaynak koduyla paylaşmanız gerekir (copyleft).
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/chen08209/FlClash)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Proxy Open Source Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/flclash/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Claude Code için kapsamlı kaynak rehberi
 
 Anthropic tarafından geliştirilen kodlama asistanı Claude Code için hazırlanan bu seçki, yazılım geliştirme süreçlerini hızlandıran araçları, eklentileri ve yetenek paketlerini (skills) bir araya getiriyor. Geliştiricilerin bu yapay zekâ aracını projelerine entegre etmelerini kolaylaştıran kaynaklar, otomasyon kapasitesini artırmaya odaklanıyor.
@@ -42263,59 +42316,6 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/voicestudio/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Açık kaynaklı modern proxy istemcisi
-
-FlClash ; ClashMeta tabanlı, çok platformlu bir proxy (vekil sunucu) istemcisidir. Dart ile geliştirilmiş olup reklamsız, kullanıcı dostu ve açık kaynaklı bir yapıya sahiptir.
-
-_Görsel: FlClash (proje deposundan)_
-
-- ★ 52.097
-- Dart
-- GPL-3.0
-- GitHub Trending · 30 May 2026
-
-## Güncelleme
-- 14 Eylül 2026: Yıldız 51.594 → 52.097, son sürüm v0.8.98 (14 Eylül 2026).
-- 10 Eylül 2026: Yıldız 49.138 → 51.594, son sürüm v0.8.97 (10 Eylül 2026).
-- 18 Ağustos 2026: Yıldız 48.759 → 49.138, son sürüm v0.8.96 (17 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 47.428 → 48.759, son sürüm v0.8.95 (14 Ağustos 2026).
-
-- **Kimin için:** Proxy/vekil sunucu istemcisi arayanlar 
-- **Zorluk:** Kolay-orta · uygulama 
-- **Ne sunar:** Çok platformlu, reklamsız proxy istemcisi 
-- **Ücret:** Ücretsiz · açık kaynak (GPL-3.0) 
-- **Lisans:** GPL-3.0 · ayrıntı aşağıda 
-
-## Ne kazandırır?
-- Birden fazla platformda çalışma imkanı.
-- Reklamsız ve sade bir arayüz.
-- Açık kaynaklı ClashMeta gücü.
-
-## Kullanım notu
-
-Bir proxy istemcisi yalnızca araçtır; bulunduğunuz ülkenin yasalarına ve kullandığınız servislerin şartlarına uygun kullanmak sizin sorumluluğunuzdadır.
-
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-FlClash adlı çok platformlu açık kaynaklı proxy istemcisini kullanmak istiyorum; GitHub Releases sayfasından (https://github.com/chen08209/FlClash/releases) işletim sistemime (Android, Windows, macOS ya da Linux) uygun kurulum dosyasını indirip kurmama ve bir abonelik bağlantısı ekleyerek yapılandırmama yardım et.
-
-Lisans: GPL-3.0 · kullanımı serbest; yazılımı değiştirip dağıtırsanız değişikliklerinizi de aynı GPL lisansıyla, kaynak koduyla paylaşmanız gerekir (copyleft).
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/chen08209/FlClash)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Proxy Open Source Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/flclash/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -46727,14 +46727,14 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
 
-- ★ 34.151
+- ★ 34.163
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
+- 3 Ekim 2026: Yıldız 34.151 → 34.163, son sürüm v18.5.1 (3 Ekim 2026).
 - 3 Ekim 2026: Yıldız 34.066 → 34.151, son sürüm v18.5.0 (3 Ekim 2026).
 - 2 Ekim 2026: Yıldız 33.907 → 34.066, son sürüm v18.4.10 (2 Ekim 2026).
 - 1 Ekim 2026: Yıldız 33.892 → 33.907, son sürüm v18.4.8 (1 Ekim 2026).
-- 1 Ekim 2026: Yıldız 33.779 → 33.892, son sürüm v18.4.6 (1 Ekim 2026).
 
 ## Ne kazandırır?
 - IDE özelliklerini terminale taşıyarak kod düzenleme süreçlerini otomatikleştirir.
@@ -47934,55 +47934,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yapay zekâ projeleri için yüksek performanslı altyapı
-
-Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı sunar ve MAX ile Mojo'yu içerir.
-
-- ★ 29.812
-- Mojo
-- GitHub Trending · 2026-08-20
-
-## Güncelleme
-- 18 Eylül 2026: Yıldız 28.875 → 29.812, son sürüm max/v26.6.0 (17 Eylül 2026).
-- 23 Ağustos 2026: Yıldız 27.449 → 28.875, son sürüm max/v26.5.0 (11 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 27.442 → 27.449, son sürüm max/v26.5.0 (11 Ağustos 2026).
-
-## Ne kazandırır?
-- Yapay zekâ modellerini çalıştırmak için optimize edilmiş MAX motorunu kullanın.
-- Python dilinin kullanım kolaylığını sistem programlama hızıyla birleştiren Mojo dilini keşfedin.
-- Yapay zekâ geliştirme ve dağıtım süreçlerini tek bir platform üzerinden yönetin.
-
-## Nasıl başlanır?
-
-Platformu kullanmaya başlamak için resmî web sitesindeki rehberlerden faydalanabilirsiniz. Yapay zekâ modellerini çalıştırmak ve MAX çerçevesini kullanmak için MAX hızlı başlangıç kılavuzuna, Mojo programlama diliyle çalışmaya başlamak için ise Mojo hızlı başlangıç kılavuzuna göz atmanız yeterlidir.
-- [Resmî kaynak →](https://docs.modular.com/)
-
-- **Kimin için:** Yapay zekâ modellerini daha hızlı çalıştırmak ve sistem seviyesinde yazılım geliştirme süreçlerini optimize etmek isteyen yazılım geliştiriciler için uygundur. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/modular/modular)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/modular/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # 34 ücretsiz LLM sağlayıcısını tek API'de birleştirin
 
 FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli sağlayıcısını OpenAI formatında tek bir REST API altında toplayarak akıllı yönlendirme ve arıza toleransı sunar.
 
-- ★ 29.808
+- ★ 30.274
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
+- 3 Ekim 2026: Yıldız 29.808 → 30.274, son sürüm v0.13.4 (3 Ekim 2026).
 - 1 Ekim 2026: Yıldız 29.534 → 29.808, son sürüm v0.13.3 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 29.054 → 29.534, son sürüm v0.13.2 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 21.410 → 29.054, son sürüm v0.12.0 (24 Eylül 2026).
@@ -48057,6 +48018,46 @@ Pipeline Proxy Localhost SDK LLM API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/freellmapi/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ projeleri için yüksek performanslı altyapı
+
+Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı sunar ve MAX ile Mojo'yu içerir.
+
+- ★ 29.812
+- Mojo
+- GitHub Trending · 2026-08-20
+
+## Güncelleme
+- 18 Eylül 2026: Yıldız 28.875 → 29.812, son sürüm max/v26.6.0 (17 Eylül 2026).
+- 23 Ağustos 2026: Yıldız 27.449 → 28.875, son sürüm max/v26.5.0 (11 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 27.442 → 27.449, son sürüm max/v26.5.0 (11 Ağustos 2026).
+
+## Ne kazandırır?
+- Yapay zekâ modellerini çalıştırmak için optimize edilmiş MAX motorunu kullanın.
+- Python dilinin kullanım kolaylığını sistem programlama hızıyla birleştiren Mojo dilini keşfedin.
+- Yapay zekâ geliştirme ve dağıtım süreçlerini tek bir platform üzerinden yönetin.
+
+## Nasıl başlanır?
+
+Platformu kullanmaya başlamak için resmî web sitesindeki rehberlerden faydalanabilirsiniz. Yapay zekâ modellerini çalıştırmak ve MAX çerçevesini kullanmak için MAX hızlı başlangıç kılavuzuna, Mojo programlama diliyle çalışmaya başlamak için ise Mojo hızlı başlangıç kılavuzuna göz atmanız yeterlidir.
+- [Resmî kaynak →](https://docs.modular.com/)
+
+- **Kimin için:** Yapay zekâ modellerini daha hızlı çalıştırmak ve sistem seviyesinde yazılım geliştirme süreçlerini optimize etmek isteyen yazılım geliştiriciler için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/modular/modular)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/modular/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -48706,15 +48707,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor. Masaüstü işletim sistemlerini kontrol edebilen ajanların eğitimi ve değerlendirilmesi amacıyla kum havuzu (sandbox), yazılım geliştirme kiti (SDK) ve kıyaslama (benchmark) araçlarını tek bir çatı altında topluyor.
 
-- ★ 27.875
+- ★ 27.887
 - HTML
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
+- 3 Ekim 2026: Yıldız 27.875 → 27.887, son sürüm cua-spacesd-v0.4.1 (3 Ekim 2026).
 - 3 Ekim 2026: Yıldız 27.730 → 27.875, son sürüm cua-spacesd-v0.3.0 (3 Ekim 2026).
 - 2 Ekim 2026: Yıldız 26.567 → 27.730, son sürüm cua-spaces-v0.3.0 (2 Ekim 2026).
 - 27 Eylül 2026: Yıldız 22.704 → 26.567, son sürüm sandbox-v0.8.0 (15 Eylül 2026).
-- 16 Eylül 2026: Yıldız 22.493 → 22.704, son sürüm sandbox-v0.8.0 (15 Eylül 2026).
 
 ## Ne kazandırır?
 - Masaüstü uygulamalarını arka planda kontrol etme
@@ -58308,6 +58309,64 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanları için kaynak kontrolü
+
+Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi. Birden fazla kodlama ajanının yaptığı değişiklikleri tek bir merkezden izlemeye ve sorgulamaya olanak tanıyor.
+
+- ★ 8.872
+- Rust
+- GitHub Trending · 2026-09-03
+
+## Güncelleme
+- 3 Ekim 2026: Yıldız 7.855 → 8.872, son sürüm alpha-0.3.4 (27 Eylül 2026).
+- 27 Eylül 2026: Yıldız 7.448 → 7.855, son sürüm alpha-0.3.4 (27 Eylül 2026).
+- 27 Eylül 2026: Yıldız 4.722 → 7.448, son sürüm alpha-0.3.3 (19 Eylül 2026).
+- 19 Eylül 2026: Yıldız 4.762 → 4.722, son sürüm alpha-0.3.3 (19 Eylül 2026).
+
+## Ne kazandırır?
+- Farklı kodlama ajanlarının yaptığı değişiklikleri tek merkezden izler.
+- Ajanlar arası ortak hafıza ile görev geçişlerinde kaldığınız yerden devam etmenizi sağlar.
+- Her kod değişikliğini, o değişikliği yapan ajanın gerekçesi ve komutlarıyla eşleştirir.
+
+## Kurulum
+
+**Gerekli bağımlılıkların yüklenmesi**
+
+```
+sudo apt install -y libglib2.0-dev libgtk-3-dev libwebkit2gtk-4.1-dev
+```
+
+**Uygulamanın kaynak koddan derlenmesi**
+
+```
+git clone https://github.com/pacifio/atlas
+cd atlas
+bun install
+bun run dev:app
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen bir yazılım geliştirme asistanısın. Atlas kullanarak yaptığın tüm kod değişikliklerini, aldığın kararları ve kullandığın araçları oturum geçmişiyle birlikte kaydet. Çalışırken Claude Code veya Codex gibi farklı ajanlar arasında geçiş yapman gerekirse, önceki oturumdaki planları ve mimari notları ortak hafızadan oku. Kod tabanındaki dosyaları, klasörleri veya geçmiş oturumları '@' işaretiyle çağırarak bağlamı koru ve yaptığın her değişikliğin nedenini, ilgili oturumun gerekçeleriyle birlikte belgele.
+
+- **Kimin için:** Birden fazla yapay zekâ ajanıyla çalışan ve kodlama süreçlerinde yapılan değişikliklerin mantıksal gerekçelerini takip etmek isteyen yazılım geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/pacifio/atlas)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Source Control Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/atlas/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Terminal odaklı yapay zekâ geliştirme ortamı
 
 Terax-ai, terminal odaklı yapay zekâ yerel geliştirme ortamı (AI-native dev workspace) olarak 7 megabaytlık düşük boyutlu yapısıyla dikkat çekiyor. TypeScript ile geliştirilen bu araç, geliştiricilere terminal üzerinden doğrudan yapay zekâ destekli kodlama imkânı sunuyor.
@@ -59607,64 +59666,6 @@ Native Agent Skills AI Skills MCP Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stitch-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanları için kaynak kontrolü
-
-Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi. Birden fazla kodlama ajanının yaptığı değişiklikleri tek bir merkezden izlemeye ve sorgulamaya olanak tanıyor.
-
-- ★ 7.855
-- Rust
-- GitHub Trending · 2026-09-03
-
-## Güncelleme
-- 27 Eylül 2026: Yıldız 7.448 → 7.855, son sürüm alpha-0.3.4 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 4.722 → 7.448, son sürüm alpha-0.3.3 (19 Eylül 2026).
-- 19 Eylül 2026: Yıldız 4.762 → 4.722, son sürüm alpha-0.3.3 (19 Eylül 2026).
-- 16 Eylül 2026: Yıldız 4.344 → 4.762, son sürüm alpha-0.3.2 (16 Eylül 2026).
-
-## Ne kazandırır?
-- Farklı kodlama ajanlarının yaptığı değişiklikleri tek merkezden izler.
-- Ajanlar arası ortak hafıza ile görev geçişlerinde kaldığınız yerden devam etmenizi sağlar.
-- Her kod değişikliğini, o değişikliği yapan ajanın gerekçesi ve komutlarıyla eşleştirir.
-
-## Kurulum
-
-**Gerekli bağımlılıkların yüklenmesi**
-
-```
-sudo apt install -y libglib2.0-dev libgtk-3-dev libwebkit2gtk-4.1-dev
-```
-
-**Uygulamanın kaynak koddan derlenmesi**
-
-```
-git clone https://github.com/pacifio/atlas
-cd atlas
-bun install
-bun run dev:app
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sen bir yazılım geliştirme asistanısın. Atlas kullanarak yaptığın tüm kod değişikliklerini, aldığın kararları ve kullandığın araçları oturum geçmişiyle birlikte kaydet. Çalışırken Claude Code veya Codex gibi farklı ajanlar arasında geçiş yapman gerekirse, önceki oturumdaki planları ve mimari notları ortak hafızadan oku. Kod tabanındaki dosyaları, klasörleri veya geçmiş oturumları '@' işaretiyle çağırarak bağlamı koru ve yaptığın her değişikliğin nedenini, ilgili oturumun gerekçeleriyle birlikte belgele.
-
-- **Kimin için:** Birden fazla yapay zekâ ajanıyla çalışan ve kodlama süreçlerinde yapılan değişikliklerin mantıksal gerekçelerini takip etmek isteyen yazılım geliştiriciler içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/pacifio/atlas)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Source Control Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/atlas/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -61144,6 +61145,56 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yerel yapay zekâ modellerini bilgisayarınızda çalıştırın
+
+Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.
+
+- ★ 6.312
+- TypeScript
+- GitHub Trending · 2026-09-04
+
+## Güncelleme
+- 3 Ekim 2026: Yıldız 6.220 → 6.312, son sürüm @magnitudedev/cli@0.2.5 (3 Ekim 2026).
+- 2 Ekim 2026: Yıldız 5.768 → 6.220, son sürüm @magnitudedev/cli@0.2.4 (2 Ekim 2026).
+- 1 Ekim 2026: Yıldız 5.482 → 5.768, son sürüm @magnitudedev/cli@0.2.3 (1 Ekim 2026).
+- 30 Eylül 2026: Yıldız 5.180 → 5.482, son sürüm @magnitudedev/cli@0.2.0 (30 Eylül 2026).
+
+## Ne kazandırır?
+- Donanımınıza en uygun yerel modelleri otomatik belirler
+- İnternet bağlantısı olmadan tamamen çevrimdışı çalışır
+- Yapay zekâ asistanlarıyla entegre olarak token maliyetini sıfırlar
+
+## Kurulum
+
+**CLI aracını yükleyin ve kurulumu başlatı**
+
+```
+npm i -g @magnitudedev/cli
+magnitude setup
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Set up local models for me with the Magnitude CLI. Install it with `npm i -g @magnitudedev/cli` (or my package manager), then run `magnitude docs onboarding` and follow the instructions.
+
+- **Kimin için:** Kodlama asistanlarını kullanan ve verilerini bulut yerine kendi bilgisayarında tutmak isteyen geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/magnitudedev/magnitude)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Local Inference Server Inference Token CLI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/magnitude/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ kodlama ajanları için çalışma alanı
 
 PI-Desktop, yerel öncelikli (local-first) çalışma prensibiyle geliştirilen bir yapay zekâ kodlama ajanıdır. Elektron (masaüstü uygulama geliştirme çatısı) ve Rust (sistem programlama dili) tabanlı mimarisiyle, kullanıcıların kendi eklentilerini kurabildiği kişiselleştirilebilir bir yazılım geliştirme ortamı sunar.
@@ -61204,56 +61255,6 @@ Local-first Terminal Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pi-desktop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yerel yapay zekâ modellerini bilgisayarınızda çalıştırın
-
-Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.
-
-- ★ 6.220
-- TypeScript
-- GitHub Trending · 2026-09-04
-
-## Güncelleme
-- 2 Ekim 2026: Yıldız 5.768 → 6.220, son sürüm @magnitudedev/cli@0.2.4 (2 Ekim 2026).
-- 1 Ekim 2026: Yıldız 5.482 → 5.768, son sürüm @magnitudedev/cli@0.2.3 (1 Ekim 2026).
-- 30 Eylül 2026: Yıldız 5.180 → 5.482, son sürüm @magnitudedev/cli@0.2.0 (30 Eylül 2026).
-- 27 Eylül 2026: Yıldız 4.663 → 5.180, son sürüm @magnitudedev/cli@0.1.5 (23 Eylül 2026).
-
-## Ne kazandırır?
-- Donanımınıza en uygun yerel modelleri otomatik belirler
-- İnternet bağlantısı olmadan tamamen çevrimdışı çalışır
-- Yapay zekâ asistanlarıyla entegre olarak token maliyetini sıfırlar
-
-## Kurulum
-
-**CLI aracını yükleyin ve kurulumu başlatı**
-
-```
-npm i -g @magnitudedev/cli
-magnitude setup
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Set up local models for me with the Magnitude CLI. Install it with `npm i -g @magnitudedev/cli` (or my package manager), then run `magnitude docs onboarding` and follow the instructions.
-
-- **Kimin için:** Kodlama asistanlarını kullanan ve verilerini bulut yerine kendi bilgisayarında tutmak isteyen geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/magnitudedev/magnitude)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Local Inference Server Inference Token CLI Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/magnitude/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

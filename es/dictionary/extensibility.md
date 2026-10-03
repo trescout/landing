@@ -1,48 +1,37 @@
-# ¿Qué es la Extensibilidad (Extensibility)?
+# ¿Qué es Extensibility?
 
-> Inglés: Extensibility · Etimología: latín extendere (extender, alargar)
+La extensibilidad es la capacidad de un software para obtener nuevas capacidades con complementos y módulos sin tocar su código principal.
 
-**Categoría:** Dev  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+El término "extensibilidad" deriva de la raíz inglesa extender. Está estrechamente relacionado con el principio abierto-cerrado de la ingeniería de software: un módulo debe estar abierto a la extensión pero cerrado a la modificación. Entonces, cuando se necesita una nueva característica, en lugar de romper el código existente, simplemente agrega una nueva parte al sistema.
 
-La extensibilidad (extensibility) es una propiedad de diseño del software que permite incorporar nuevas funciones, conectores y complementos sin necesidad de modificar el código fuente del núcleo de la aplicación.
-
-## Definición y etimología
-El término procede del latín extendere, que significa estirar o desplegar. En la ingeniería de software actual, es la piedra angular del principio Abierto/Cerrado de SOLID: las entidades deben estar abiertas a la extensión pero cerradas a la modificación. Se diseñan interfaces y mecanismos de enlace que admiten nuevas capacidades sin riesgo de romper la lógica central.
-
-## Contexto cotidiano e uso práctico
-Casos habituales de extensibilidad en el software diario :
-- **Editores de Código:** VS Code conserva un rendimiento óptimo permitiendo que la comunidad agregue extensiones de depuración y sintaxis.- **Navegadores Web:** Extensiones de navegador que enriquecen la navegación con traductores o herramientas de seguridad.- **Gestores de Contenidos:** Plataformas como WordPress o Drupal, cuyo valor reside en la gran oferta de plugins y plantillas modulares.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Como usuario final, encuentra extensibilidad todos los días:
 
 ## Profundidad técnica y arquitectura
-Estrategias clave para lograr un sistema extensible :
-- **Ganchos (Hooks) y Callbacks:** Puntos de interrupción en el flujo donde módulos externos registran su lógica.- **Inversión de Control e Interfaces:** Desacoplamiento entre la capa consumidora y las implementaciones de los plugins.- **Comunicaciones por Eventos:** Publicación de estados a través de buses de eventos desacoplados.- **Sandboxing con WASM:** Ejecución aislada de código de terceros para prevenir fugas de memoria o vulneraciones de seguridad.
+El núcleo de un sistema extensible es pequeño, su entorno crece con complementos. Las partes típicas de esta arquitectura son:
 
-## Perspectivas interdisciplinares
-Paralelismos en otras actividades :
-- **Arquitectura:** Estructuras modulares preparadas para ampliaciones laterales sin comprometer muros maestros.- **Bricolaje:** Taladros multifunción que permiten acoplar cabezales de lija, sierra o destornillador.- **Lego:** Bloques con enganches normalizados que permiten construir estructuras complejas sin alterar los bloques individuales.
-
-## Por analogía
-Es como una navaja suiza: el cuerpo central se mantiene sólido y compacto, pero cuenta con ranuras preparadas para acoplar nuevas herramientas según la situación.
+## Uso en diferentes disciplinas
+Arquitectura: Estructuras prefabricadas donde se pueden añadir nuevos módulos sin tocar los muros de carga.Producción: Procesadores de alimentos que pueden tener diferentes aditamentos unidos a un mismo cuerpo.Juego: Comunidades mod que agregan nuevos mapas y misiones sin cambiar el juego principal.
 
 ## Preguntas frecuentes
+**¿Todos los programas son extensibles?**
+No. A menos que el software esté diseñado con esta flexibilidad desde el principio, agregar compatibilidad con complementos más adelante suele ser costoso y arriesgado.
 
-**¿Conviene que todo software sea extensible?**  
-No; introducir abstracciones de extensibilidad sin una necesidad clara añade complejidad innecesaria al código.
+**¿Cuál es la diferencia entre un complemento y un fork?**
+No copia el código principal en el complemento, se conecta al sistema desde el exterior. Al bifurcar, copia el código completo y va a una ruta separada.
 
-**¿En qué se diferencian extensibilidad y mantenibilidad?**  
-La mantenibilidad evalúa lo sencillo que es reparar el código base; la extensibilidad evalúa lo fácil que es añadir nuevas funciones sin alterar dicho código.
+**¿Son seguros los complementos?**
+Varía según la fuente. Elija complementos actualizados y ampliamente utilizados en las tiendas oficiales. Tenga cuidado con los complementos que solicitan permisos innecesarios.
 
-**¿Cómo se protege el sistema contra plugins defectuosos?**  
-Aislando los complementos en procesos independientes o entornos aislados tipo WASM con permisos controlados.
+**¿La extensibilidad reduce el rendimiento?**
+Cada complemento impone cierta carga. Cuando utiliza pocos complementos y en buen estado, el efecto suele ser imperceptible.
 
-**¿Qué papel desempeñan las APIs en este modelo?**  
-Definen las reglas y contratos estables que los módulos externos deben cumplir para interactuar con la aplicación anfitriona.
 
 ## Términos relacionados
 - [Plugin](/es/dictionary/plugin/)
-- [Emitter](/es/dictionary/emitter/)
-- [Tools](/es/dictionary/tools/)
+- [API](/es/dictionary/api/)
+- [Framework](/es/dictionary/framework/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/extensibility/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/extensibility/

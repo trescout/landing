@@ -2629,14 +2629,14 @@
     "slug": "flclash",
     "title": "FlClash",
     "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız ve açık kaynak proxy istemcisi.",
-    "meta": "★ 52.097 · GPL-3.0",
+    "meta": "★ 54.202 · GPL-3.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 52097,
+    "stars": 54202,
     "image": "/assets/discover/og/flclash.webp",
     "headline": "Açık kaynaklı modern proxy istemcisi",
     "last_review": "2026-10-03",
@@ -2675,6 +2675,13 @@
         "onceki_yildiz": 51594,
         "surum": "v0.8.98",
         "surum_tarihi": "2026-09-14"
+      },
+      {
+        "tarih": "2026-10-03",
+        "yildiz": 54202,
+        "onceki_yildiz": 52097,
+        "surum": "v0.8.99",
+        "surum_tarihi": "2026-10-03"
       }
     ],
     "tagline_en": "Multi-platform, ad-free and open source proxy client based on ClashMeta.",
@@ -4031,7 +4038,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 34.151",
+    "meta": "★ 34.163",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -4039,7 +4046,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34151,
+    "stars": 34163,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-10-03",
@@ -4364,6 +4371,13 @@
         "yildiz": 34151,
         "onceki_yildiz": 34066,
         "surum": "v18.5.0",
+        "surum_tarihi": "2026-10-03"
+      },
+      {
+        "tarih": "2026-10-03",
+        "yildiz": 34163,
+        "onceki_yildiz": 34151,
+        "surum": "v18.5.1",
         "surum_tarihi": "2026-10-03"
       }
     ],
@@ -9566,7 +9580,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 27.875 · HTML",
+    "meta": "★ 27.887 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -9574,7 +9588,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 27875,
+    "stars": 27887,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-10-03",
@@ -9724,6 +9738,13 @@
         "yildiz": 27875,
         "onceki_yildiz": 27730,
         "surum": "cua-spacesd-v0.3.0",
+        "surum_tarihi": "2026-10-03"
+      },
+      {
+        "tarih": "2026-10-03",
+        "yildiz": 27887,
+        "onceki_yildiz": 27875,
+        "surum": "cua-spacesd-v0.4.1",
         "surum_tarihi": "2026-10-03"
       }
     ],
@@ -36353,7 +36374,7 @@
     "slug": "freellmapi",
     "title": "Freellmapi",
     "tagline": "FreeLLMAPI, 34 ücretsiz yapay zekâ sağlayıcısını OpenAI uyumlu tek bir REST uç noktasında birleştiren ters proxy servisidir.",
-    "meta": "★ 29.808 · TypeScript",
+    "meta": "★ 30.274 · TypeScript",
     "image": "/assets/discover/og/freellmapi.webp",
     "source": "GitHub",
     "date": "2026-08-28",
@@ -36361,7 +36382,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 29808,
+    "stars": 30274,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
     "lite": false,
     "tagline_en": "FreeLLMAPI is a reverse proxy service that combines 34 free AI providers into a single OpenAI-compatible REST endpoint.",
@@ -36408,6 +36429,13 @@
         "onceki_yildiz": 29534,
         "surum": "v0.13.3",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-03",
+        "yildiz": 30274,
+        "onceki_yildiz": 29808,
+        "surum": "v0.13.4",
+        "surum_tarihi": "2026-10-03"
       }
     ]
   },
@@ -37203,7 +37231,7 @@
     "slug": "atlas",
     "title": "Atlas",
     "tagline": "Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi.",
-    "meta": "★ 7.855 · Rust",
+    "meta": "★ 8.872 · Rust",
     "image": "/assets/discover/og/atlas.webp",
     "source": "GitHub",
     "date": "2026-09-03",
@@ -37211,7 +37239,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7855,
+    "stars": 8872,
     "summary": "Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi. Birden fazla kodlama ajanının yaptığı değişiklikleri tek bir merkezden izlemeye ve sorgulamaya olanak tanıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için kaynak kontrolü",
@@ -37263,6 +37291,13 @@
         "tarih": "2026-09-27",
         "yildiz": 7855,
         "onceki_yildiz": 7448,
+        "surum": "alpha-0.3.4",
+        "surum_tarihi": "2026-09-27"
+      },
+      {
+        "tarih": "2026-10-03",
+        "yildiz": 8872,
+        "onceki_yildiz": 7855,
         "surum": "alpha-0.3.4",
         "surum_tarihi": "2026-09-27"
       }
@@ -37427,7 +37462,7 @@
     "slug": "magnitude",
     "title": "Magnitude",
     "tagline": "Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık…",
-    "meta": "★ 6.220 · TypeScript",
+    "meta": "★ 6.312 · TypeScript",
     "image": "/assets/discover/og/magnitude.webp",
     "source": "GitHub",
     "date": "2026-09-04",
@@ -37435,7 +37470,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6220,
+    "stars": 6312,
     "summary": "Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.",
     "lite": false,
     "headline": "Yerel yapay zekâ modellerini bilgisayarınızda çalıştırın",
@@ -37517,6 +37552,13 @@
         "onceki_yildiz": 5768,
         "surum": "@magnitudedev/cli@0.2.4",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-03",
+        "yildiz": 6312,
+        "onceki_yildiz": 6220,
+        "surum": "@magnitudedev/cli@0.2.5",
+        "surum_tarihi": "2026-10-03"
       }
     ],
     "tagline_en": "Magnitude is an open-source tool that integrates with existing AI agents and allows you to run local models compatible with your hardware...",

@@ -1,54 +1,40 @@
-# Que sont les Pipelines Déterministes ?
+# Qu'est-ce que Deterministic Pipelines ?
 
-> Pipelines Déterministes
+Un pipeline déterministe est un pipeline qui produit le même résultat à chaque exécution avec la même entrée.
 
-**Catégorie:** Dev  
-**Dernière mise à jour:** 2026-09-22
+## Définition et origine du mot
+« Déterministe » signifie que le résultat ne dépend ni du hasard ni d'un état caché. Les étapes du processus sont régies par des règles strictes et aucune variable incluant de l'aléatoire n'est intégrée. C'est le fondement des systèmes logiciels fiables, car cela facilite le débogage et l'audit.
 
-Un pipeline déterministe (deterministic pipeline) est une chaîne de traitement automatisée garantissant un résultat strictement identique chaque fois qu'elle reçoit les mêmes entrées.
-
-## Définition et étymologie
-Le déterminisme signifie que le résultat ne dépend ni du hasard, ni d'un état caché, ni de l'heure d'exécution. Les étapes obéissent à des règles mathématiques strictes. C'est le fondement des systèmes logiciels fiables, car cela élimine les bugs intermittents et simplifie les audits de sécurité.
-
-## Usage quotidien et contexte pratique
-- **Finance et comptabilité :** Un fichier d'instructions produisant toujours les mêmes écritures comptables.
-- **Intégration continue (CI) :** Compilation produisant des binaires identiques bit à bit (builds reproductibles).
-- **Traitement de données (ETL) :** Retraiter l'historique d'un mois en obtenant exactement les mêmes métriques.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Finance : Que le même fichier d'instructions génère systématiquement les mêmes virements.Calcul scientifique Obtenir le même graphique avec les mêmes données et le même code.Compilation de logiciels Génération du même paquet à partir de la même source (build reproductible).
 
 ## Profondeur technique et architecture
-Principes techniques fondamentaux :- **Environnement hermétique :** Exécution dans des conteneurs isolés du réseau extérieur.
-- **Verrouillage strict des versions :** Emploi de fichiers de lock (package-lock.json) avec sommes de contrôle cryptographiques.
-- **Fonctions pures :** Exclusion des variables d'entropie incontrôlées (date courante, nombres aléatoires non seedés).<div class="disc-cmd"><div class="disc-cmd-head"><span>Installation stricte basée sur le lockfile</span></div><pre><code>npm ci</code></pre></div>
+Sources de non-déterminisme et leurs solutions :
 
-## Souvent confondu avec
-Souvent confondu avec un pipeline idempotent. L'idempotence signifie qu'exécuter l'action plusieurs fois ne modifie plus l'état du système ; le déterminisme garantit que la sortie produite est toujours identique pour une même entrée.
+## Choses fréquemment mélangées
+Les modèles de chat d'IA générative ne sont généralement pas déterministes : ils peuvent répondre différemment à la même question selon les jours. Même si la température est réglée à zéro, les différences d'infrastructure peuvent entraîner de légères variations. C'est pourquoi les sorties de l'IA ne doivent pas être utilisées directement comme un registre dans des tâches critiques et doivent faire l'objet d'une supervision humaine.
 
-## Perspectives interdisciplinaires
-- **Recette de pâtisserie :** Peser chaque ingrédient au gramme près et cuire à température contrôlée.
-- **Presse industrielle :** Matrice façonnant une pièce métallique toujours identique.
-- **Horlogerie :** Rouages mécaniques tournant d'un angle invariable à chaque seconde.
+## Utilisation dans différentes disciplines
+Chaîne de production : Obtenir la même pièce à partir du même moule.Imprimerie : Obtenir la même impression à partir du même moule.Laboratoire : Répéter la même mesure avec le même protocole.
 
-## Par analogie
-Comme une presse industrielle de carrosserie : alimentée avec une même feuille d'acier, elle découpe et forme exactement la même pièce, sans aucun millimètre d'écart.
+## Foire aux questions
+**Pourquoi est-ce important ?**
+Cela facilite le débogage et rend le comportement du système prévisible. Si une erreur est reproductible, sa cause peut être trouvée.
 
-## Questions fréquentes
+**Le caractère aléatoire est-il totalement interdit ?**
+Non. Si le caractère aléatoire est nécessaire, vous fixez la graine (seed). Ainsi, la séquence semble aléatoire mais est identique à chaque exécution.
 
-**Pourquoi le déterminisme est-il indispensable en CI/CD ?**  
-Il garantit qu'un binaire testé sur une machine de développement est rigoureusement identique à celui déployé en production.
+**Les modèles d'intelligence artificielle peuvent-ils être déterministes ?**
+Pas tout à fait. Même si la température est réinitialisée, l'infrastructure et le parallélisme peuvent créer de petites différences. Pour les tâches critiques, vous devez vérifier la sortie.
 
-**Les pipelines d'IA peuvent-ils être déterministes ?**  
-Difficilement. Même avec une température à zéro, le parallélisme massif des cartes graphiques (GPU) induit d'infimes variations d'arrondi.
+**Quel est le coût du déterminisme ?**
+Cela nécessite la maintenance de fichiers de verrouillage, un environnement fixe et une configuration de test supplémentaire. Dans les systèmes critiques, ce coût est inférieur à celui des erreurs imprévisibles.
 
-**Quel est le coût du déterminisme pour une équipe ?**  
-Il exige une gestion rigoureuse des dépendances et des conteneurs de compilation, compensée par la quasi-disparition des bugs fantômes.
-
-**En quoi 'npm ci' est-il déterministe ?**  
-Contrairement à 'npm install', il n'essaie pas de résoudre de nouvelles dépendances et installe strictement l'arborescence figée dans le package-lock.json.
 
 ## Termes liés
 - [Pipeline](/fr/dictionary/pipeline/)
-- [Pipeline de données](/fr/dictionary/data-pipeline/)
+- [Data Pipeline](/fr/dictionary/data-pipeline/)
 - [CI/CD](/fr/dictionary/ci-cd/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/deterministic-pipelines/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/deterministic-pipelines/

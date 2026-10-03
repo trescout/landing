@@ -1,48 +1,37 @@
-# ¿Qué es una Suite Ofimática (Office Suite)?
+# ¿Qué es Office Suite?
 
-> Inglés: Office Suite · Etimología: latín officium (oficio/función) + francés suite (serie/colección)
+Una suite ofimática es un conjunto de programas que agrupa documentos, hojas de cálculo y presentaciones bajo una misma plataforma.
 
-**Categoría:** Dev  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+Suite significa conjunto o grupo. Las piezas utilizan una interfaz y un formato comunes, y los datos se transfieren fácilmente entre ellas. Con una sola instalación, se resuelven las tareas de redacción, cálculo y presentaciones.
 
-Una suite ofimática (office suite) es un conjunto integrado de aplicaciones de productividad que combina procesador de textos, hoja de cálculo, editor de presentaciones y herramientas colaborativas bajo una misma experiencia de usuario.
-
-## Definición y etimología
-El término suite hace referencia a una colección armonizada de elementos. En informática, una suite ofimática reúne herramientas de oficina que comparten atajos de teclado, barras de herramientas, motores tipográficos y estándares comunes de almacenamiento de documentos (como ODF y OOXML).
-
-## Contexto cotidiano e uso práctico
-Ecosistemas ofimáticos más representativos :
-- **Entornos Cloud Colaborativos:** Google Workspace y Microsoft 365, con coautoría multiusuario simultánea en navegador.- **Suites Libres e Instalables:** LibreOffice y OnlyOffice, enfocadas en la privacidad de datos y el trabajo sin conexión.- **Versiones para Dispositivos Móviles:** Aplicaciones ligeras para revisar presupuestos o diapositivas en tabletas y smartphones.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Negocios: Informes y hojas de presupuesto.Educación: Tareas y presentaciones.Personal: Cartas y listas.
 
 ## Profundidad técnica y arquitectura
-Puntales técnicos de las suites ofimáticas :
-- **Estándares de Documento Abiertos:** Ficheros comprimidos ZIP con esquemas XML (ODF bajo ISO 26300 y OOXML bajo ISO 29500).- **Coedición en Red (OT y CRDT):** Modelos de transformación de operaciones que reconcilian modificaciones simultáneas de texto.- **Motores de Maquetación Tipográfica:** Algoritmos vectoriales que interpretan tipografías, tablas complejas y curvas Bezier.
+Regiones:
 
-## Perspectivas interdisciplinares
-Similitudes en otros campos de trabajo :
-- **Estuche Escolar:** La funda que reúne lápices, rotuladores, regla y calculadora de forma ordenada.- **Maletín de Herramientas:** El maletín de llaves fijas, destornilladores y alicates para un técnico de mantenimiento.- **Equipo Quirúrgico:** La bandeja instrumental con bisturís, pinzas y tijeras preparadas para una intervención.
-
-## Por analogía
-Es como un estuche de dibujo técnico: en lugar de buscar instrumentos dispersos, dispones en una sola carpeta de todo lo necesario para redactar, calcular y presentar proyectos.
+## Uso en diferentes disciplinas
+Papelería: Juego de bolígrafo, papel y máquina.Caja de herramientas: La herramienta adecuada para el trabajo.Juego de cocina: Grupo de ollas y cuchillos.
 
 ## Preguntas frecuentes
+**¿Los hay basados ​​en la nube?**
+Sí. La mayoría de los paquetes también funcionan desde el navegador, los archivos se guardan en la nube.
 
-**¿Por qué se abandonaron los formatos de archivo binarios tradicionales?**  
-Porque los antiguos formatos (.doc, .xls) eran cerrados y difíciles de recuperar ante fallos; los formatos XML comprimidos (.docx, .odt) son abiertos y robustos.
+**¿Están todos pagados?**
+No. Hay opciones gratuitas y de pago, la necesidad lo determina.
 
-**¿Qué beneficios ofrecen las alternativas de código abierto?**  
-Control estricto sobre la privacidad documental, funcionamiento sin internet y ausencia de costes recurrentes de licencia.
+**¿Cuál elegir gratis?**
+LibreOffice en el escritorio y Google Docs en la nube son inicios prácticos.
 
-**¿Cómo se evita que dos usuarios borren el texto del otro al editar a la vez?**  
-Mediante algoritmos de Transformación Operacional (OT) que recalculan las posiciones de los cursores en milisegundos.
+**¿Habrá problemas de compatibilidad?**
+Pueden ocurrir al cambiar entre formatos. En documentos críticos, se recomienda probar en el formato de destino.
 
-**¿Es fiable la compatibilidad entre LibreOffice y formatos de Microsoft?**  
-Para la inmensa mayoría de documentos administrativos el resultado es casi idéntico, existiendo diferencias solo en macros muy avanzadas.
 
 ## Términos relacionados
 - [SaaS](/es/dictionary/saas/)
-- [User Interface](/es/dictionary/user-interface/)
-- [Tools](/es/dictionary/tools/)
+- [Enterprise Resource Planning](/es/dictionary/enterprise-resource-planning/)
+- [Document Parsing](/es/dictionary/document-parsing/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/office-suite/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/office-suite/

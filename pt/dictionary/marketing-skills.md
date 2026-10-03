@@ -1,54 +1,40 @@
-# O que são Marketing Skills em IA?
+# O que é Marketing Skills?
 
-> Competências de Marketing para Agentes de IA
+Habilidades de marketing são as habilidades para entregar o produto ao público certo.
 
-**Categoria:** AI  
-**Última atualização:** 2026-09-22
+## Definição e origem da palavra
+É mais do que publicidade: pesquisa, conteúdo, marca e análise se unem. É a arte de explicar corretamente o valor do produto e entregá-lo à pessoa certa. A personalização se aprofundou com a inteligência artificial.
 
-Marketing skills em inteligência artificial representam a capacidade autônoma de agentes de analisar públicos, redigir comunicações de alto impacto e otimizar funis de conversão digital.
+## Como conhecer e usar no dia a dia?
+Oferecer: Lançamento e desconto.Conteúdo: Blog e boletim informativo.Social: Gestão comunitária.
 
-## Definição e etimologia
-Com a evolução da IA de meros respondentes de texto para agentes proativos, as habilidades de marketing permitem mapear demandas orgânicas de busca, identificar dores de usuários e comunicar diferenciais técnicos com clareza objetiva.
+## Profundidade Técnica e Arquitetura
+Definir:
 
-## Contexto cotidiano e uso prático
-- **Descoberta de Tráfego Orgânico:** Análise de termos de busca promissores no Search Console para criar conteúdo relevante.
-- **Otimização de Conversão (CRO):** Criação de chamadas para ação (CTAs) persuasivas para transformar visitantes em assinantes.
-- **Comunicação de Lançamentos:** Transformação de commits técnicos em relatórios e resumos executivos atraentes.
+## Coisas frequentemente misturadas
+É considerado uma venda. Ele prepara o ambiente de marketing e fecha as vendas. Um é o campo, o outro é a colheita.
 
-## Profundidade técnica e arquitetura
-Estrutura Arquitetural de Agentes de Marketing:- **Entrada de Métricas:** Integração com dados de telemetria, tráfego web e índices de cliques.
-- **Refinamento Semântico:** Calibração de tom de voz, clareza e poder de síntese de acordo com o perfil do leitor técnico.
-- **Iteração por Feedback:** Ajuste automático de propostas de valor com base em conversões comprovadas.
+## Use em diferentes disciplinas
+Vitrine: Não puxe ninguém que estiver passando.Bandeira: Anúncio do teatro.Amostra: Não dê um gostinho.
 
-## Costuma ser confundido com
-Frequentemente confundidas com disparos automáticos de spam. O spam gera volume desordenado; habilidades reais de marketing focam em resolver dúvidas autênticas com precisão e relevância.
+## Perguntas Frequentes
+**Como a IA está mudando o marketing?**
+Analisa os dados rapidamente e adapta a mensagem à pessoa. O segmento está sendo automatizado.
 
-## Perspectivas interdisciplinares
-- **Varejo:** Montar uma vitrine convidativa na entrada da loja vs jogar panfletos descartáveis na calçada.
-- **Música:** Produzir um álbum com capa e introdução envolventes vs lançar faixas soltas sem contexto.
-- **Educação:** Criar um sumário pedagógico estimulante vs expor fórmulas isoladas sem aplicação prática.
+**Por onde começar?**
+Um público, uma mensagem e um canal. Nenhuma despesa é feita antes de a medição ser estabelecida.
 
-## Por analogia
-Equivale a planejar a vitrine de uma loja com bom gosto: destacar os itens certos para que quem passa sinta vontade espontânea de entrar.
+**Como é medido?**
+Com custo de conversão e aquisição. O rastreamento do código do canal (UTM) é obrigatório.
 
-## Perguntas frequentes
+**Como é diferente das vendas?**
+O marketing se prepara, as vendas fecham. Ambas são extremidades do mesmo funil.
 
-**Um agente de IA pode substituir uma equipe inteira de marketing?**  
-Ele automatiza análises e redações rotineiras, mas a direção de produto e o posicionamento exigem supervisão humana.
-
-**Como essas habilidades aceleram o crescimento de ferramentas de software?**  
-Tornando claro o valor prático de um código para quem não tem tempo a perder vasculhando documentações extensas.
-
-**Quais métricas confirmam o bom desempenho dessas rotinas?**  
-Taxa de cliques (CTR), crescimento de inscritos orgânicos e taxa de conversão em páginas de aterrissagem.
-
-**Como evitar que a IA produza clichês corporativos?**  
-Alimentando o modelo com diretrizes estritas de marca, dados empíricos e proibição de exageros publicitários.
 
 ## Termos relacionados
-- [AI Agent](/pt/dictionary/ai-agent/)
-- [Application](/pt/dictionary/application/)
-- [Benchmarks](/pt/dictionary/benchmark/)
+- [AI Skills](/pt/dictionary/ai-skills/)
+- [Meta-skill](/pt/dictionary/meta-skill/)
+- [SEO](/pt/dictionary/seo/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/marketing-skills/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/marketing-skills/

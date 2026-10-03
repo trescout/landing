@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es Extensibility? · Glosario · TreScout</title>
-<meta name="description" content="La extensibilidad (extensibility) es una propiedad de diseño del software que permite incorporar nuevas funciones, conectores y complementos sin necesidad de modificar el código fuente del núcleo de la aplicación.">
+<meta name="description" content="La extensibilidad es la capacidad de un software para obtener nuevas capacidades con complementos y módulos sin tocar su código principal.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/extensibility/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/extensibility/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/extensibility/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/extensibility.md">
 <meta property="og:title" content="¿Qué es Extensibility?">
-<meta property="og:description" content="La extensibilidad (extensibility) es una propiedad de diseño del software que permite incorporar nuevas funciones, conectores y complementos sin necesidad de modificar el código fuente del núcleo de la aplicación.">
+<meta property="og:description" content="La extensibilidad es la capacidad de un software para obtener nuevas capacidades con complementos y módulos sin tocar su código principal.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/extensibility/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,61 +27,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es Extensibility?">
-<meta name="twitter:description" content="La extensibilidad (extensibility) es una propiedad de diseño del software que permite incorporar nuevas funciones, conectores y complementos sin necesidad de modificar el código fuente del núcleo de la aplicación.">
+<meta name="twitter:description" content="La extensibilidad es la capacidad de un software para obtener nuevas capacidades con complementos y módulos sin tocar su código principal.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Extensibility",
-  "description": "La extensibilidad (extensibility) es una propiedad de diseño del software que permite incorporar nuevas funciones, conectores y complementos sin necesidad de modificar el código fuente del núcleo de la aplicación.",
+  "description": "La extensibilidad es la capacidad de un software para obtener nuevas capacidades con complementos y módulos sin tocar su código principal.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/extensibility/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "Diccionario Tecnológico TreScout",
+    "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/es/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Conviene que todo software sea extensible?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No; introducir abstracciones de extensibilidad sin una necesidad clara añade complejidad innecesaria al código."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿En qué se diferencian extensibilidad y mantenibilidad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La mantenibilidad evalúa lo sencillo que es reparar el código base; la extensibilidad evalúa lo fácil que es añadir nuevas funciones sin alterar dicho código."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cómo se protege el sistema contra plugins defectuosos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Aislando los complementos en procesos independientes o entornos aislados tipo WASM con permisos controlados."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué papel desempeñan las APIs en este modelo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Definen las reglas y contratos estables que los módulos externos deben cumplir para interactuar con la aplicación anfitriona."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,16 +56,18 @@
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
 <div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
-<h1 class="disc-title">¿Qué es la Extensibilidad (Extensibility)?</h1>
-<p class="dict-en">Inglés: Extensibility · Etimología: latín extendere (extender, alargar)</p>
-<p class="disc-lead">La extensibilidad (extensibility) es una propiedad de diseño del software que permite incorporar nuevas funciones, conectores y complementos sin necesidad de modificar el código fuente del núcleo de la aplicación.</p>
-<section class="disc-sec"><h2>Definición y etimología</h2><p>El término procede del latín extendere, que significa estirar o desplegar. En la ingeniería de software actual, es la piedra angular del principio Abierto/Cerrado de SOLID: las entidades deben estar abiertas a la extensión pero cerradas a la modificación. Se diseñan interfaces y mecanismos de enlace que admiten nuevas capacidades sin riesgo de romper la lógica central.</p></section>
-<section class="disc-sec"><h2>Contexto cotidiano e uso práctico</h2><p>Casos habituales de extensibilidad en el software diario :</p><ul><li><strong>Editores de Código:</strong> VS Code conserva un rendimiento óptimo permitiendo que la comunidad agregue extensiones de depuración y sintaxis.</li><li><strong>Navegadores Web:</strong> Extensiones de navegador que enriquecen la navegación con traductores o herramientas de seguridad.</li><li><strong>Gestores de Contenidos:</strong> Plataformas como WordPress o Drupal, cuyo valor reside en la gran oferta de plugins y plantillas modulares.</li></ul></section>
-<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Estrategias clave para lograr un sistema extensible :</p><ul><li><strong>Ganchos (Hooks) y Callbacks:</strong> Puntos de interrupción en el flujo donde módulos externos registran su lógica.</li><li><strong>Inversión de Control e Interfaces:</strong> Desacoplamiento entre la capa consumidora y las implementaciones de los plugins.</li><li><strong>Comunicaciones por Eventos:</strong> Publicación de estados a través de buses de eventos desacoplados.</li><li><strong>Sandboxing con WASM:</strong> Ejecución aislada de código de terceros para prevenir fugas de memoria o vulneraciones de seguridad.</li></ul></section>
-<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p>Paralelismos en otras actividades :</p><ul><li><strong>Arquitectura:</strong> Estructuras modulares preparadas para ampliaciones laterales sin comprometer muros maestros.</li><li><strong>Bricolaje:</strong> Taladros multifunción que permiten acoplar cabezales de lija, sierra o destornillador.</li><li><strong>Lego:</strong> Bloques con enganches normalizados que permiten construir estructuras complejas sin alterar los bloques individuales.</li></ul></section>
-<div class="dict-analogy">Es como una navaja suiza: el cuerpo central se mantiene sólido y compacto, pero cuenta con ranuras preparadas para acoplar nuevas herramientas según la situación.</div>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Conviene que todo software sea extensible?</p><p class="dict-faq-a">No; introducir abstracciones de extensibilidad sin una necesidad clara añade complejidad innecesaria al código.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿En qué se diferencian extensibilidad y mantenibilidad?</p><p class="dict-faq-a">La mantenibilidad evalúa lo sencillo que es reparar el código base; la extensibilidad evalúa lo fácil que es añadir nuevas funciones sin alterar dicho código.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo se protege el sistema contra plugins defectuosos?</p><p class="dict-faq-a">Aislando los complementos en procesos independientes o entornos aislados tipo WASM con permisos controlados.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué papel desempeñan las APIs en este modelo?</p><p class="dict-faq-a">Definen las reglas y contratos estables que los módulos externos deben cumplir para interactuar con la aplicación anfitriona.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/plugin/">Plugin</a><a href="/es/dictionary/emitter/">Emitter</a><a href="/es/dictionary/tools/">Tools</a></div></section>
+<h1 class="disc-title">¿Qué es <span class="disc-accent">Extensibility</span>?</h1>
+<p class="disc-lead">La extensibilidad es la capacidad de un software para obtener nuevas capacidades con complementos y módulos sin tocar su código principal.</p>
+<section class="disc-sec"><h2>Definición y origen de la palabra</h2><p>El término &quot;extensibilidad&quot; deriva de la raíz inglesa extender. Está estrechamente relacionado con el principio abierto-cerrado de la ingeniería de software: un módulo debe estar abierto a la extensión pero cerrado a la modificación. Entonces, cuando se necesita una nueva característica, en lugar de romper el código existente, simplemente agrega una nueva parte al sistema.</p></section>
+<div class="dict-analogy"><strong>Analogía:</strong> Es como una navaja suiza; El cuerpo sigue siendo el mismo, puedes agregarle un nuevo destornillador o una punta de linterna.</div>
+<section class="disc-sec"><h2>¿Cómo saberlo y utilizarlo en la vida diaria?</h2><p>Como usuario final, encuentra extensibilidad todos los días:</p><p><strong>Complementos del navegador:</strong> Instale un bloqueador de anuncios o un administrador de contraseñas en su navegador.<br><strong>Complementos del editor:</strong> Debe agregar el complemento Python o Prettier a VS Code.<br><strong>Sistemas de contenido:</strong> Instale un formulario de contacto o un complemento de almacenamiento en caché en su sitio de WordPress.<br><strong>Herramientas de diseño:</strong> Instala un paquete de componentes listo para usar de la comunidad Figma.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>El núcleo de un sistema extensible es pequeño, su entorno crece con complementos. Las partes típicas de esta arquitectura son:</p><p><strong>Interfaz de complemento (API de complemento):</strong> Es la puerta controlada que el kernel abre a las extensiones. El complemento sólo toca el sistema a través de esta interfaz.<br><strong>Sistema de ganchos y eventos (Hooks &amp; Events):</strong> El kernel transmite eventos en determinados momentos. Los complementos se suscriben a estos eventos.<br><strong>Archivo de manifiesto (Manifiesto):</strong> Cada complemento lleva un pequeño archivo que declara su nombre, versión y los permisos que solicita. El sistema no instalará el complemento que no cumpla con las reglas.<br><strong>Sandbox y permisos:</strong> El acceso a los complementos es limitado. De esta manera, un complemento defectuoso no puede bloquear todo el sistema.<br><strong>Compatibilidad de versiones:</strong> La interfaz debe mantenerse compatible con versiones anteriores mientras se actualiza el kernel. De lo contrario, los complementos se romperán.</p><p>Aquí hay un pequeño ejemplo, una declaración de complemento típica:</p><pre><code>{
+  "name": "ornek-eklenti",
+  "version": "1.0.0"
+}</code></pre></section>
+<section class="disc-sec"><h2>Uso en diferentes disciplinas</h2><p><strong>Arquitectura:</strong> Estructuras prefabricadas donde se pueden añadir nuevos módulos sin tocar los muros de carga.<br><strong>Producción:</strong> Procesadores de alimentos que pueden tener diferentes aditamentos unidos a un mismo cuerpo.<br><strong>Juego:</strong> Comunidades mod que agregan nuevos mapas y misiones sin cambiar el juego principal.</p></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Todos los programas son extensibles?</p><p class="dict-faq-a">No. A menos que el software esté diseñado con esta flexibilidad desde el principio, agregar compatibilidad con complementos más adelante suele ser costoso y arriesgado.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la diferencia entre un complemento y un fork?</p><p class="dict-faq-a">No copia el código principal en el complemento, se conecta al sistema desde el exterior. Al bifurcar, copia el código completo y va a una ruta separada.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Son seguros los complementos?</p><p class="dict-faq-a">Varía según la fuente. Elija complementos actualizados y ampliamente utilizados en las tiendas oficiales. Tenga cuidado con los complementos que solicitan permisos innecesarios.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿La extensibilidad reduce el rendimiento?</p><p class="dict-faq-a">Cada complemento impone cierta carga. Cuando utiliza pocos complementos y en buen estado, el efecto suele ser imperceptible.</p></div></div></section>
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/plugin/">Plugin</a><a href="/es/dictionary/api/">API</a><a href="/es/dictionary/framework/">Framework</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="extensibility" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
 <p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/extensibility/">Leer en turco →</a></p>
 </article>
