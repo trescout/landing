@@ -28,8 +28,8 @@ Elles fonctionnent généralement à l'intérieur d'un navigateur ou via une cou
 
 ## Outils liés
 - [Meshery](/fr/discover/meshery/)
-- [Stitch Skills](/fr/discover/stitch-skills/)
 - [Tinycast](/fr/discover/tinycast/)
+- [Stitch Skills](/fr/discover/stitch-skills/)
 - [Agent Native](/fr/discover/agent-native/)
 
 ---

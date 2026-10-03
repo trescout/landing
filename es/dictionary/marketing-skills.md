@@ -1,54 +1,40 @@
-# ¿Qué son las Marketing Skills en IA?
+# ¿Qué es Marketing Skills?
 
-> Habilidades de Marketing para Agentes de IA
+Las habilidades de marketing son las habilidades para entregar el producto a la audiencia adecuada.
 
-**Categoría:** AI  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+Es más que publicidad: Investigación, contenido, marca y análisis se unen. Es el arte de explicar correctamente el valor del producto y entregárselo a la persona adecuada. La personalización se ha profundizado con la inteligencia artificial.
 
-Las marketing skills en inteligencia artificial son las competencias que facultan a los agentes inteligentes para estudiar mercados, generar mensajes persuasivos y optimizar embudos de conversión.
-
-## Definición y etimología
-Al transformarse los modelos en agentes autónomos orientados a metas, las competencias de marketing les permiten evaluar el interés de los usuarios, encontrar nichos de búsqueda en Google y redactar propuestas de valor contundentes.
-
-## Contexto cotidiano e uso práctico
-- **Captación Orgánica y SEO:** Localización de palabras clave de baja competencia y alto interés técnico.
-- **Optimización de Páginas de Aterrizaje:** Redacción de encabezados y botones de suscripción enfocados en maximizar la conversión.
-- **Difusión de Novedades:** Elaboración de boletines diarios que sintetizan proyectos complejos en lecturas accesibles.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Oferta: Lanzamiento y descuento.Contenido: Blog y boletín informativo.Social: Gestión comunitaria.
 
 ## Profundidad técnica y arquitectura
-Arquitectura de Trabajo para Agentes de Marketing:- **Captura de Métricas:** Lectura de datos de telemetría web, tasas de clic (CTR) y porcentaje de rebote.
-- **Alineamiento del Mensaje:** Control del tono divulgativo y eliminación de tecnicismos innecesarios.
-- **Ciclos de Mejora Continua:** Reescritura adaptativa según el comportamiento real de los usuarios en el sitio.
+Colocar:
 
-## Suele confundirse con
-A menudo se confunden con la generación indiscriminada de spam. El spam satura sin aportar valor; las destrezas de marketing estructurado resuelven problemas concretos y facilitan la toma de decisiones.
+## Cosas frecuentemente mezcladas
+Se considera una venta. Prepara el entorno de marketing y cierra las ventas. Uno es el campo, el otro es la cosecha.
 
-## Perspectivas interdisciplinares
-- **Comercio:** Diseñar un escaparate cuidado que atraiga miradas frente a repartir folletos anónimos en la calle.
-- **Literatura:** Elegir una portada y sinopsis atractivas frente a publicar un borrador sin cuidar la edición.
-- **Gastronomía:** Explicar el concepto de un plato con esmero frente a presentar una fría lista de ingredientes.
-
-## Por analogía
-Es igual que diseñar con mimo el escaparate de un comercio: mostrar lo mejor del interior para que los transeúntes sientan ganas reales de entrar.
+## Uso en diferentes disciplinas
+Escaparate: No arrastres a nadie que pase.Bandera: Anuncio de teatro.Muestra: No regales un gusto.
 
 ## Preguntas frecuentes
+**¿Cómo está cambiando la IA el marketing?**
+Analiza los datos rápidamente y adapta el mensaje a la persona. El segmento se está automatizando.
 
-**¿Pueden los agentes de IA asumir el marketing de forma 100% independiente?**  
-Pueden encargarse del análisis y la redacción operativa, pero la estrategia de fondo requiere criterio humano.
+**¿Por dónde empezar?**
+Una audiencia, un mensaje y un canal. No se realiza ningún gasto antes de que se establezca la medición.
 
-**¿De qué manera benefician a los proyectos de código abierto?**  
-Explicando la utilidad directa de herramientas complejas en términos comprensibles para cualquier desarrollador ocupado.
+**¿Cómo se mide?**
+Con coste de conversión y adquisición. El seguimiento del código de canal (UTM) es imprescindible.
 
-**¿Qué indicadores determinan el éxito de estas funciones?**  
-El porcentaje de conversión (CR), la tasa de apertura de boletines y la retención a largo plazo.
+**¿En qué se diferencia de las ventas?**
+El marketing se prepara, las ventas cierran. Ambos son extremos del mismo embudo.
 
-**¿Cómo se evita la publicidad vacía o exagerada?**  
-Configurando al agente con límites estrictos de veracidad, sin hipérboles y fundamentado en datos de uso verificables.
 
 ## Términos relacionados
-- [AI Agent](/es/dictionary/ai-agent/)
-- [Application](/es/dictionary/application/)
-- [Benchmarks](/es/dictionary/benchmark/)
+- [AI Skills](/es/dictionary/ai-skills/)
+- [Meta-skill](/es/dictionary/meta-skill/)
+- [SEO](/es/dictionary/seo/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/marketing-skills/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/marketing-skills/

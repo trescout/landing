@@ -1,48 +1,37 @@
-# Was ist OpenStreetMap (OSM)?
+# Was ist OpenStreetMap?
 
-> Englisch: OpenStreetMap · Wortherkunft: englisch open (offen) + street (Straße) + map (Karte)
-
-**Kategorie:** Data  
-**Letzte Aktualisierung:** 2026-09-22
-
-OpenStreetMap (OSM) ist eine freie, kollaborative und quelloffene weltweite Geodatenbank, die von Millionen ehrenamtlichen Kartografen und Helfern weltweit aufgebaut und täglich gepflegt wird.
+OpenStreetMap (kurz OSM) ist eine freie und offene Weltkarte, die von Freiwilligen gemeinsam erstellt wird.
 
 ## Definition und Wortherkunft
-Im Jahr 2004 von Steve Coast als Reaktion auf restriktive Lizenzierungsmodelle kommerzieller Kartenanbieter ins Leben gerufen, gilt OpenStreetMap als die Wikipedia der Kartografie. Statt Kartendaten hinter teuren API-Schranken zu verbergen, stellt OSM rohe Geodaten unter der Open Database License (ODbL) uneingeschränkt zur Verfügung.
+Das Projekt wurde 2004 gestartet. Im Gegensatz zu kommerziellen Karten werden die Daten nicht von einem Unternehmen, sondern von einer Gemeinschaft Freiwilliger erstellt: Jeder kann neue Straßen, Gebäude oder wichtige Orte hinzufügen und Fehler korrigieren. Die Daten sind unter der ODbL-Lizenz für jeden frei zugänglich. Das bedeutet, dass Sie die Daten kostenlos nutzen können, bei einer Weitergabe jedoch die Quelle angeben müssen.
 
-## Alltägliche Anwendung und Praxis
-Einsatzbereiche von OpenStreetMap im Alltag:
-- **Offline-Navigation:** Apps wie Organic Maps, MAPS.ME oder OsmAnd navigieren zuverlässig ohne Internetverbindung im Funkloch.- **Fitness und Outdoor:** Plattformen wie Strava und Komoot setzen auf das unübertroffen detaillierte Wegenetz von OSM.- **Humanitäre Hilfe:** Das Humanitarian OpenStreetMap Team (HOT) erfasst nach Erdbeben binnen Stunden Straßen, um Rettungskräfte zu leiten.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Navigations-Apps: Apps wie OsmAnd und MAPS.ME beziehen ihre Karten aus OSM-Daten.Logistik: Routenplanung für Lieferdienste.Katastrophenhilfe: Schnelle Kartierung von Krisengebieten durch Freiwillige (z. B. HOT-Community).Stadtplanung: Analysen von Radwegen und Grünflächen.
 
 ## Technische Tiefe und Architektur
-Das räumliche Datenmodell von OSM beruht auf drei Primitiven:
-- **Knoten (Node):** Ein einzelner Geopunkt mit genauen Breiten- und Längengraden.- **Weg (Way):** Eine geordnete Kette von Knoten zur Modellierung von Straßen oder geschlossenen Flächen (Gebäude, Wälder).- **Relation:** Übergeordnete Struktur zur Definition von Buslinien, Abbiegebeschränkungen oder Landesgrenzen.- **Tags (Schlüssel-Wert-Paare):** Standardisierte semantische Beschreibungen (z. B. highway=footway, building=yes).
+OSM-Daten bestehen aus drei Bausteinen:
 
-## Interdisziplinäre Perspektiven
-Verwandte Initiativen digitaler Gemeingüter:
-- **Digitale Enzyklopädien:** Das frei zugängliche Gemeinschaftsmodell von Wikipedia.- **Open-Source-Software:** Die weltweite Zusammenarbeit am Linux-Betriebssystemkern.- **Bürgerwissenschaften:** Gemeinschaftliche Wetter- und Feinstaubmessnetze engagierter Bürger.
+## Einsatz in verschiedenen Disziplinen
+Enzyklopädie: Das Wikipedia-Modell, bei dem jeder schreibt und korrigiert.Open-Source-Software: Der Linux-Kernel, der durch freiwillige Beiträge wächst.Bürgerwissenschaft (Citizen Science): Das Sammeln von Vogelbeobachtungsdaten in einer gemeinsamen Datenbank.
 
-## Als Analogie
-Es ist wie die Wikipedia der Weltkarten: Jeder kann einen neuen Waldweg eintragen, Schreibfehler in Straßennamen korrigieren und damit einen frei zugänglichen Weltatlas für die Allgemeinheit perfektionieren.
+## Häufig gestellte Fragen
+**Ist es wirklich kostenlos?**
+Die Daten sind unter der ODbL-Lizenz kostenlos. Wenn Sie sie auf Ihrem eigenen Server hosten, fallen keine zusätzlichen Gebühren an. Unternehmen, die fertige Kacheldienste anbieten, können jedoch Gebühren verlangen.
 
-## Häufige Fragen
+**Was ist der Unterschied zu Google Maps?**
+Bei Google Maps produziert das Unternehmen die Daten und bindet sie an API-Kontingente. OSM-Daten werden von der Community produziert; Sie können die Rohdaten herunterladen und unbegrenzt verarbeiten.
 
-**Ist OpenStreetMap für gewerbliche Zwecke kostenlos?**  
-Ja; die ODbL-Lizenz gestattet die uneingeschränkte kommerzielle Nutzung unter der Voraussetzung der korrekten Namensnennung.
+**Wie kann ich zur Karte beitragen?**
+Sie können ein Konto erstellen und mit dem iD-Editor im Browser beginnen. Das Hinzufügen eines fehlenden Geschäfts in Ihrer Straße ist ein guter erster Schritt.
 
-**Wie wird die Qualität ohne amtliche Vermesser sichergestellt?**  
-Durch automatische Plausibilitätsprüfungen und die gegenseitige Kontrolle der aktiven lokalen Mapper-Community.
+**Kann ich es für mein kommerzielles Produkt verwenden?**
+Ja, aber gemäß der ODbL müssen Sie OpenStreetMap als Quelle sichtbar angeben und abgeleitete Daten unter derselben Lizenz teilen.
 
-**Können Entwickler eigene OSM-Kartenserver betreiben?**  
-Ja; mit freier Software (PostGIS, Mapnik) lassen sich unabhängige Kachelserver aufbauen, die teure externe Karten-Abos überflüssig machen.
-
-**Was unterscheidet OSM von kommerziellen Kartendiensten?**  
-Kommerzielle Dienste verkaufen fertige, geschlossene Bildkacheln; OSM liefert die unverfälschten Vektorrohdaten zum freien Download.
 
 ## Verwandte Begriffe
 - [Data Pipeline](/de/dictionary/data-pipeline/)
-- [Open Source](/de/dictionary/open-source/)
-- [API](/de/dictionary/api/)
+- [OSINT](/de/dictionary/osint/)
+- [Graph-based Investigation](/de/dictionary/graph-based-investigation/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/openstreetmap/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/openstreetmap/

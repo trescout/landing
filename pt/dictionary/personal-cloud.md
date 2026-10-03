@@ -1,34 +1,40 @@
 # O que é Personal Cloud?
 
-É o armazenamento de arquivos pessoais em uma área privada que pode ser acessada de qualquer lugar pela internet.
+Personal cloud (em português, nuvem pessoal) é um formato de nuvem em que os dados ficam armazenados no seu próprio dispositivo.
 
-## Definição
-Uma nuvem pessoal permite que você mantenha seus dados em um dispositivo ou espaço privado que você controla, em vez de nos servidores de grandes empresas. Desta forma, você tem controle total sobre seus dados. Você pode acessar seus arquivos de qualquer lugar com conexão à Internet.
+## Definição e origem da palavra
+Em vez de um grande servidor corporativo, o seu próprio dispositivo é utilizado como base. Você pode acessar os arquivos de qualquer lugar com internet e o controle é seu. Funciona bem para fotos, backups e tarefas de mídia.
 
-## Como funciona
-Geralmente é instalado por meio de um dispositivo NAS em casa ou de um servidor pessoal. Graças a um software especial, você pode se conectar a esta área a partir de seu telefone ou computador.
+## Como conhecer e usar no dia a dia?
+Fotografia: Arquivo familiar.Compartilhamento: Envio por link.Mídia: Arquivo de cinema em casa.
 
-## Onde é usado
-É usado em backup de fotos, compartilhamento de arquivos e servidores de mídia pessoal.
+## Profundidade Técnica e Arquitetura
+Configuração:
 
-## Costuma ser confundido com
-Pode ser confundido com armazenamento em nuvem pública (como o Google Drive), mas aqui você tem o hardware ou o controle.
+## Coisas frequentemente misturadas
+Pensa-se que é o Drive. O Drive é da empresa, a nuvem pessoal é sua. Um é aluguel, o outro é propriedade.
 
-## Perguntas frequentes
-**Posso acessar meus arquivos se minha internet cair?**
-Se o aparelho estiver em casa, você pode acessá-lo pela rede local, mas o acesso externo depende da internet.
+## Use em diferentes disciplinas
+Cofre: Um cofre cuja chave está com você.Despensa: Estoque em casa.Arquivo: Sala de documentos pessoal.
+
+## Perguntas Frequentes
+**Fica acessível se cair?**
+Na rede doméstica sim, de fora não. A cópia local salva.
 
 **É seguro?**
-Como você está no controle, precisa gerenciar a segurança.
+A gestão é sua. A disciplina de atualizações e senhas é obrigatória.
+
+**Quanto custa?**
+O hardware é comprado uma vez. Eletricidade e manutenção continuam.
+
+**Qual é a diferença do Drive?**
+Drive é aluguel, a nuvem pessoal é propriedade. O controle está com você.
 
 
 ## Termos relacionados
 - [NAS](/pt/dictionary/nas/)
 - [Self-hosting](/pt/dictionary/self-hosting/)
 - [Backup Program](/pt/dictionary/backup-program/)
-
-## Ferramentas relacionadas
-- [CasaOS](/pt/discover/casaos/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/personal-cloud/

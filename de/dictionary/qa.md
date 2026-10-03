@@ -1,41 +1,37 @@
-# Was ist QA (Qualitätssicherung)?
+# Was ist QA?
 
-**Kategorie:** Entwicklung
-**Letzte Aktualisierung:** 2026-09-19
+> Quality Assurance
 
-QA (Quality Assurance - Qualitätssicherung) ist eine systematische Software-Engineering-Disziplin, die darauf abzielt, Fehler in allen Phasen des Entwicklungslebenszyklus (SDLC) im Vorfeld zu verhindern, Entwicklungsstandards zu etablieren und die Zuverlässigkeit des Endprodukts sicherzustellen.
+QA (Quality Assurance – Qualitätssicherung) ist eine systematische Qualitätsmanagementdisziplin, die darauf abzielt, Fehler in jeder Phase des Softwareentwicklungslebenszyklus zu verhindern, bevor sie entstehen, Engineering-Standards zu etablieren und die Zuverlässigkeit des Endprodukts zu garantieren.
 
-## Konzeptionelle Herkunft: Vom Deming-Kreis zur Softwareentwicklung
-Das Konzept der Qualitätssicherung entstand Mitte des 20. Jahrhunderts in der industriellen Fertigung. Das von W. Edwards Deming und Walter Shewhart geprägte Total Quality Management (TQM) und der PDCA-Zyklus (Plan-Do-Check-Act) besagten, dass Qualität nicht erst nachträglich hineingeprüft werden kann, sondern integraler Bestandteil des Fertigungsprozesses sein muss. Das Jidoka-Prinzip des Toyota-Produktionssystems (sofortiges Anhalten des Bandes bei Fehlern) bildet das Fundament moderner Continuous-Integration-Pipelines (CI).In der Softwarebranche bewies Barry Boehm, dass die Behebung eines in der Entwurfsphase erkannten Fehlers 1 Kosteneinheit erfordert, während die Korrektur desselben Fehlers im Livebetrieb bis zu 100-mal teurer wird. QA existiert, um diese massiven Schäden systematisch abzuwenden.
+## Konzeptueller Ursprung: Der Deming-Kreis und der Weg von der Fertigung zur Software
+Der Begriff der Qualitätssicherung entstand lange vor der Softwareentwicklung, Mitte des 20. Jahrhunderts in der industriellen Fertigung. Das von W. Edwards Deming und Walter Shewhart begründete Total Quality Management (TQM) und der PDCA-Zyklus (Plan-Do-Check-Act / Planen-Durchführen-Prüfen-Agieren) vertreten die Ansicht, dass Qualität nicht nachträglich geprüft werden kann, sondern direkt in das Produkt eingebaut werden muss. Das Jidoka-Prinzip (sofortiges Anhalten des Fließbands bei der Produktion eines fehlerhaften Produkts) im Toyota-Produktionssystem ist zudem der Vorläufer der heutigen modernen Continuous Integration (CI) und QA-Philosophie.
 
-## Wesentliche Unterscheidung: QA vs. QC vs. Testing
-Obwohl diese Begriffe in der Praxis oft vermischt werden, trennen sie klare methodische Grenzen:Testing (Prüfen): Die gezielte Ausführung von Testfällen, um konkrete Fehler in einem Build aufzudecken (produktbezogen und reaktiv).Qualitätskontrolle (QC - Quality Control): Die Prüfschranke, die verifiziert, ob ein fertiges Release den Spezifikationen und Akzeptanzkriterien entspricht (produktbezogen und reaktiv).Qualitätssicherung (QA - Quality Assurance): Die übergeordnete Disziplin, die Entwicklungsmethoden, Testinfrastrukturen, Kodierrichtlinien und CI/CD-Pipelines so auslegt, dass Fehler gar nicht erst entstehen (prozessbezogen und proaktiv).
+## Kritische Unterscheidung: QA vs. QC vs. Testing
+Obwohl diese drei Konzepte oft synonym verwendet werden, gibt es klare methodologische Grenzen zwischen ihnen:
 
-## Moderne QA-Paradigmen: Shift-Left und Shift-Right
-Im alten Wasserfallmodell schrieben Entwickler den Code und warfen ihn den Testern 'über den Zaun'. Agile und DevOps-Teams setzen stattdessen auf zwei synchronisierte Stoßrichtungen:1. Shift-Left (Frühzeitige Qualität): Qualitätssicherung wandert an den Beginn des Codeschreibens. Entwickler nutzen statische Analyse (SonarQube), strikte Typisierung, Unit-Tests und TDD. QA-Ingenieure agieren hierbei als Plattform-Architekten, die Test-Frameworks und Pipelines bereitstellen.2. Shift-Right (Qualität im Livebetrieb): Absicherung im Produktivbetrieb. Synthetisches Monitoring, Canary-Deployments, Fehler-Telemetrie (Sentry) und Chaos Engineering überwachen die Stabilität unter echter Nutzerlast.
+## Modernes QA-Paradigma: Shift-Left und Shift-Right
+Im traditionellen Wasserfallmodell schrieben Entwickler den Code und "warfen ihn dann über die Mauer" an die QA-Abteilung zum Testen. In der modernen agilen und DevOps-Welt ist dieser Ansatz zwei komplementären Richtungen gewichen:
 
-## Die Testpyramide und Automatisierungsschichten
-Eine stabile QA-Architektur spiegelt Mike Cohns Testpyramide wider:Unit-Tests: Das solide Fundament; blitzschnell, isoliert und mit minimalem Pflegeaufwand.Integrations- und Vertragstests: Sichern Schnittstellen zwischen Datenbanken, Caches und Microservices über API-Verträge (z. B. Pact) ab.End-to-End-Tests (E2E): Steuern Headless-Browser via Playwright oder Cypress und simulieren echte Nutzerabläufe; bieten maximale Abdeckung bei höherem Wartungsaufwand.Nicht-funktionale Tests: Last- und Stresstests (k6, Locust), automatisierte Sicherheitsscans (SAST/DAST) und Barrierefreiheitsprüfungen (WCAG).
+## Testpyramide und Automatisierungsschichten
+Eine robuste QA-Architektur basiert auf dem Prinzip der Testpyramide von Mike Cohn:
 
-## Analogie
-Debugging ist wie eine Notoperation im Krankenhaus und Softwaretesten wie eine Laboranalyse. QA entspricht der präventiven Medizin und Gesundheitspolitik: Sie setzt Hygienestandards, Ernährungsregeln und Impfpläne durch, damit Erkrankungen gar nicht erst ausbrechen.
+## QA im Zeitalter von KI und LLM
+Mit der Verbreitung von probabilistischen (nicht-deterministischen) Systemen wie großen Sprachmodellen (LLM) ist die QA-Disziplin in eine neue Phase eingetreten:
 
-## QA im Zeitalter von Künstlicher Intelligenz und LLMs
-Mit dem Aufkommen probabilistischer Sprachmodelle (LLMs) erweitert sich QA um neue Prüfverfahren:LLM-Evaluierungen (Evals): Automatisierte Frameworks (DeepEval, Ragas) zur Bewertung von Halluzinationsraten, Faktentreue und semantischer Relevanz.Semantische Regressionstests: Benchmark-Suiten, die sicherstellen, dass Anpassungen an Prompts die Antwortqualität früherer Versionen nicht verschlechtern.KI-gestützte Testgenerierung: Autonome Synthese komplexer Testdaten und visuelle Oberflächenprüfung mittels Computer Vision.
+## Häufige Fragen
+**Was bedeutet QA und wofür steht die Abkürzung?**
+Es ist die Abkürzung für Quality Assurance; im Deutschen bedeutet es Qualitätssicherung. Es ist die Ingenieursdisziplin, die sicherstellt, dass Softwareprozesse von Anfang bis Ende fehlerfrei ablaufen.
 
-## Häufig gestellte Fragen
+**Was ist der Unterschied zwischen QA, QC (Qualitätskontrolle) und Testen?**
+Testen und QC sind reaktive Schritte, die darauf abzielen, Fehler im vorhandenen Code zu finden. QA hingegen ist der proaktive Prozess, der Entwicklungsprozesse, Standards und Werkzeuge entwirft, damit Fehler gar nicht erst entstehen.
 
-### Wofür steht die Abkürzung QA in der Softwareentwicklung?
-QA steht für Quality Assurance (Qualitätssicherung). Es ist die Ingenieursdisziplin, die Prozesse, Standards und Werkzeuge gestaltet, um fehlerfreie Softwareprodukte zu gewährleisten.
+**Was bedeuten die Testansätze Shift-Left und Shift-Right?**
+Shift-Left bedeutet, Testprozesse an den Anfang der Entwicklung (den Moment des Codeschreibens) zu ziehen; Shift-Right bezieht sich auf die Echtzeitüberwachung des Systemzustands und des Benutzerverhaltens in der Live-Umgebung.
 
-### Wie unterscheidet sich QA vom Softwaretesten?
-Testing ist das reaktive Aufspüren von Bugs in existierendem Code. QA ist der proaktive Prozess, der die Entwicklungsumgebung so auslegt, dass Fehler von vornherein vermieden werden.
+**Wie wird QA in KI- und LLM-basierten Anwendungen durchgeführt?**
+Neben traditionellen Tests werden spezielle Evaluierungs-Frameworks (Evals) verwendet, die Halluzinationsraten, semantische Ähnlichkeit, Prompt-Regression und RAG-Genauigkeitsmetriken messen.
 
-### Was bedeuten Shift-Left und Shift-Right?
-Shift-Left verlagert Qualitätsprüfungen ganz an den Anfang der Entwicklung (Unit-Tests, Linter). Shift-Right überwacht Systemstabilität und Nutzerverhalten kontinuierlich im Livebetrieb.
-
-### Wie läuft QA bei KI- und LLM-Anwendungen ab?
-Ergänzend zu klassischen Tests werden Evaluation-Frameworks (Evals) eingesetzt, die Halluzinationsraten, semantische Ähnlichkeit und Retrieval-Genauigkeit (RAG) quantifizieren.
 
 ## Verwandte Begriffe
 - [Unit Testing](/de/dictionary/unit-testing/)
@@ -45,8 +41,8 @@ Ergänzend zu klassischen Tests werden Evaluation-Frameworks (Evals) eingesetzt,
 - [Benchmarks](/de/dictionary/benchmark/)
 - [Runtime](/de/dictionary/runtime/)
 
-## Verwandte Tools
+## Verwandte Werkzeuge
 - [Gstack](/de/discover/gstack/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/de/dictionary/qa/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/qa/

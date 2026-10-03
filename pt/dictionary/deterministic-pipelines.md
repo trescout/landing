@@ -1,54 +1,40 @@
-# O que são Pipelines Determinísticos?
+# O que é Deterministic Pipelines?
 
-> Pipelines Determinísticos
+Pipeline determinístico é um pipeline que produz a mesma saída em cada execução com a mesma entrada.
 
-**Categoria:** Dev  
-**Última atualização:** 2026-09-22
+## Definição e origem da palavra
+"Determinístico" significa determinístico: o resultado não depende do acaso ou de circunstâncias ocultas. As etapas do processo são regidas por regras estritas e variáveis ​​aleatórias não são incluídas no processo. É a base de sistemas de software confiáveis ​​porque facilita a depuração e a auditoria.
 
-Um pipeline determinístico (deterministic pipeline) é um fluxo automatizado de processamento que garante gerar saídas absolutamente idênticas sempre que fornecida a mesma entrada.
+## Como conhecer e usar no dia a dia?
+Finanças: O mesmo arquivo de instruções sempre produz as mesmas transferências.Cálculo científico: O mesmo gráfico aparece com os mesmos dados e código.Compilação de software: Produção do mesmo pacote da mesma fonte (compilação repetível).
 
-## Definição e etimologia
-Determinismo significa que o resultado não depende de variáveis ocultas, estados voláteis ou aleatoriedade. Cada etapa de transformação segue regras estritas. É a pedra fundamental de sistemas de software confiáveis, facilitando auditorias e eliminando falhas difíceis de reproduzir.
+## Profundidade Técnica e Arquitetura
+Fontes e soluções que perturbam o determinismo:
 
-## Contexto cotidiano e uso prático
-- **Sistemas Financeiros:** Um arquivo de conciliação bancária gerando sempre os mesmos lançamentos contábeis.
-- **Compilação de Software:** Geração de binários idênticos bit a bit a partir do mesmo commit (Reproducible Builds).
-- **Engenharia de Dados:** Reprocessamento de pipelines analíticos passados com resultados consistentes.
+## Coisas frequentemente misturadas
+Os modelos de conversação generativos de IA geralmente não são determinísticos: eles podem responder à mesma pergunta de maneira diferente em dias diferentes. Mesmo que a temperatura seja reposta, as diferenças de infraestrutura podem causar pequenas alterações. Por conseguinte, os resultados da inteligência artificial não devem ser utilizados diretamente como registo em tarefas críticas, mas devem estar sujeitos ao controlo humano.
 
-## Profundidade técnica e arquitetura
-Bases Técnicas do Determinismo :- **Ambientes Herméticos:** Construções isoladas em contêineres sem acesso a recursos externos aleatórios.
-- **Travamento de Dependências:** Uso de arquivos lockfile com hashes criptográficos SHA-256.
-- **Funções Puras:** Eliminação de variáveis como relógio do sistema não fixado ou sementes pseudoaleatórias mutáveis.<div class="disc-cmd"><div class="disc-cmd-head"><span>Instalação estrita via lockfile</span></div><pre><code>npm ci</code></pre></div>
+## Use em diferentes disciplinas
+Linha de produção: A mesma peça saindo do mesmo molde.Impressão: Tirando a mesma impressão do mesmo molde.Laboratório: Repetindo a mesma medição com o mesmo protocolo.
 
-## Costuma ser confundido com
-Costuma ser confundido com idempotência. Idempotência garante que rodar um script várias vezes atinge o mesmo estado final; o determinismo garante que a saída gerada em cada execução é idêntica para a mesma entrada.
+## Perguntas Frequentes
+**Por que isso é importante?**
+Facilita a depuração e torna o comportamento do sistema previsível. Se o erro puder ser reproduzido, a causa poderá ser encontrada.
 
-## Perspectivas interdisciplinares
-- **Confeitaria:** Pesar ingredientes com balança analítica e temperatura de forno calibrada.
-- **Estamparia Automotiva:** Prensas que moldam chapas de aço sempre com a mesma espessura.
-- **Relógio Mecânico:** Engrenagens que avançam uma rotação perfeita a cada pulso de corda.
+**A aleatoriedade é completamente proibida?**
+Não. Se a aleatoriedade for necessária, você corrige a semente. Portanto, a sequência parece aleatória, mas é a mesma em todos os anéis.
 
-## Por analogia
-É como uma prensa mecânica industrial: ao receber exatamente a mesma placa de metal, estampa sempre a mesma peça sem qualquer desvio dimensional.
+**Os modelos de IA podem ser determinísticos?**
+Não literalmente. Mesmo que a temperatura seja reiniciada, a infraestrutura e o paralelismo poderão fazer pequenas diferenças. Para trabalhos críticos, é necessário verificar a saída.
 
-## Perguntas frequentes
+**Qual é o custo do determinismo?**
+Requer manutenção de arquivo de bloqueio, ambiente estável e configuração de teste adicional. Em sistemas críticos, este custo é inferior ao custo de erros imprevisíveis.
 
-**Por que o determinismo é vital no desenvolvimento?**  
-Garante que um bug ocorrido no servidor de produção possa ser reproduzido com precisão matemática na máquina local do engenheiro.
-
-**Pipelines de IA conseguem ser determinísticos?**  
-Geralmente não de forma pura. Mesmo com temperature zero, a ordem de cálculo em GPUs paralelas pode gerar pequenas variações numéricas.
-
-**Qual o custo de implementar determinismo?**  
-Exige manutenção disciplinada de lockfiles e imagens de contêineres fixadas, economizando centenas de horas de depuração.
-
-**Por que usar 'npm ci' no CI/CD?**  
-Porque ele ignora o cache dinâmico e baixa estritamente os pacotes especificados no lockfile, impedindo atualizações não testadas.
 
 ## Termos relacionados
 - [Pipeline](/pt/dictionary/pipeline/)
-- [Pipeline de Dados](/pt/dictionary/data-pipeline/)
+- [Data Pipeline](/pt/dictionary/data-pipeline/)
 - [CI/CD](/pt/dictionary/ci-cd/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/deterministic-pipelines/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/deterministic-pipelines/

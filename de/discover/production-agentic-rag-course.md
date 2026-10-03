@@ -2,7 +2,7 @@
 
 Der Production-Agentic-Rag-Kurs bietet praktische Schulungen in der Entwicklung agentenbasierter Fetch-Assisted Production (Agentic RAG)-Systeme, die die Prozesse des Abrufs von Informationen aus komplexen Datenquellen automatisieren. Basierend auf der Python-Sprache vermittelt diese Ressource die technische Architektur, die zum Erstellen skalierbarer Anwendungen für künstliche Intelligenz auf Produktionsebene erforderlich ist.
 
-- ★ 8.216
+- ★ 9.265
 - GitHub Trending · 2026-06-03
 
 ## Was es bringt

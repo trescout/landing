@@ -1,48 +1,37 @@
-# Was ist Erweiterbarkeit (Extensibility)?
+# Was ist Extensibility?
 
-> Englisch: Extensibility · Wortherkunft: lateinisch extendere (ausdehnen, spannen)
-
-**Kategorie:** Dev  
-**Letzte Aktualisierung:** 2026-09-22
-
-Erweiterbarkeit (Extensibility) ist ein Architekturprinzip der Softwaretechnik, das es ermöglicht, Anwendungen durch Module, Plugins und Schnittstellen um neue Funktionen zu ergänzen, ohne den bestehenden Kernquelltext zu modifizieren.
+Unter Erweiterbarkeit versteht man die Fähigkeit einer Software, mit Plug-Ins und Modulen neue Fähigkeiten zu erlangen, ohne ihren Hauptcode anzutasten.
 
 ## Definition und Wortherkunft
-Der Begriff geht auf das lateinische Wort extendere zurück, was ausdehnen bedeutet. In der Softwarearchitektur verkörpert dies das Open-Closed-Prinzip aus den SOLID-Leitsätzen: Systeme sollten offen für Erweiterungen, aber geschlossen für Änderungen sein. Anstatt neue Anforderungen direkt in das Fundament einzubauen, definieren Architekten Schnittstellen, an die Drittanbieter nahtlos andocken können.
+Der Begriff „Extensibility“ leitet sich vom englischen Wurzelwort „extend“ ab. Es hängt eng mit dem Open-Closed-Prinzip in der Softwareentwicklung zusammen: Ein Modul sollte offen für Erweiterungen, aber geschlossen für Änderungen sein. Wenn also eine neue Funktion benötigt wird, fügen Sie dem System einfach einen neuen Teil hinzu, anstatt den vorhandenen Code zu zerstören.
 
-## Alltägliche Anwendung und Praxis
-Beispiele erweiterbarer Systeme im Entwickleralltag:
-- **Code-Editoren:** VS Code bleibt schlank und schnell, lässt sich jedoch durch Marktplatz-Erweiterungen für beliebige Programmiersprachen anpassen.- **Webbrowser:** Firefox und Chrome ermöglichen die Installation von Werbeblockern und Passwort-Managern über offizielle Add-on-APIs.- **CMS-Plattformen:** WordPress stützt seinen weltweiten Erfolg auf Hook-Mechanismen, über die tausende Plugins integriert werden.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Als Endbenutzer stoßen Sie täglich auf Erweiterbarkeit:
 
 ## Technische Tiefe und Architektur
-Wichtige Architekturmuster für echte Erweiterbarkeit:
-- **Plugin- und Hook-Systeme:** Feste Lebenszyklus-Ereignisse, an denen externe Skripte zusätzliche Logik einhängen können.- **Dependency Inversion:** Nutzung abstrakter Interfaces zur Entkopplung von Aufrufer und konkreter Implementierung.- **Ereignisgesteuerte Pub/Sub-Muster:** Das Kernsystem sendet Ereignisse, auf die registrierte Module unabhängig reagieren.- **WASM-Sandboxing:** Sichere Ausführung von Fremdcode in isolierten Speicherräumen ohne Zugriff auf das Betriebssystem.
+Der Kern eines erweiterbaren Systems ist klein, seine Umgebung wächst durch Erweiterungen. Typische Teile dieser Architektur sind:
 
-## Interdisziplinäre Perspektiven
-Vergleiche in anderen Lebensbereichen:
-- **Bauwesen:** Ein modulares Gebäude, dessen Statik das Aufsetzen weiterer Etagen erlaubt, ohne tragende Wände zu zerstören.- **Werkzeuge:** Ein Akkuschrauber, auf den verschiedene Aufsätze zum Bohren, Sägen oder Polieren gesteckt werden.- **Brettspiele:** Ein Grundspiel, dessen Regelwerk von vornherein für thematische Erweiterungspakete ausgelegt ist.
+## Einsatz in verschiedenen Disziplinen
+Architektur: Vorgefertigte Strukturen, bei denen neue Module hinzugefügt werden können, ohne die tragenden Wände zu berühren.Produktion: Küchenmaschinen, bei denen verschiedene Aufsätze am selben Gehäuse befestigt werden können.Spiel: Mod-Communitys, die neue Karten und Missionen hinzufügen, ohne das Hauptspiel zu ändern.
 
-## Als Analogie
-Es ist wie ein Schweizer Taschenmesser: Der Grundkörper bleibt kompakt und unverändert, bietet jedoch passgenaue Fächer, um je nach Bedarf Spezialwerkzeuge auszuklappen oder anzustecken.
+## Häufig gestellte Fragen
+**Ist jede Software erweiterbar?**
+Nein. Wenn die Software nicht von Anfang an mit dieser Flexibilität ausgestattet ist, ist das spätere Hinzufügen von Plug-in-Unterstützung oft teuer und riskant.
 
-## Häufige Fragen
+**Was ist der Unterschied zwischen einem Plugin und einem Fork?**
+Sie kopieren nicht den Hauptcode im Plugin, sondern stellen von außen eine Verbindung zum System her. Beim Forken kopieren Sie den gesamten Code und wechseln zu einem separaten Pfad.
 
-**Sollte jede Software von Beginn an erweiterbar sein?**  
-Nein; verfrühte Erweiterbarkeitsschichten führen zu unnötiger Komplexität, wenn Anforderungen noch nicht klar umrissen sind.
+**Sind Plugins sicher?**
+Es variiert je nach Quelle. Wählen Sie aktuelle und weit verbreitete Plugins aus offiziellen Stores. Seien Sie vorsichtig bei Plugins, die unnötige Berechtigungen anfordern.
 
-**Worin liegt der Unterschied zwischen Erweiterbarkeit und Wartbarkeit?**  
-Wartbarkeit beschreibt die Leichtigkeit der Fehlerbehebung im bestehenden Code; Erweiterbarkeit beschreibt das Hinzufügen neuer Funktionen ohne Änderung des Kerns.
+**Reduziert Erweiterbarkeit die Leistung?**
+Jedes Plugin verursacht eine gewisse Belastung. Wenn Sie wenige und gut gepflegte Plug-Ins verwenden, ist der Effekt oft nicht spürbar.
 
-**Wie schützt man das System vor fehlerhaften Plugins?**  
-Indem Plugins in isolierten Sandboxes oder separaten Prozessen mit restriktiven Rechten ausgeführt werden.
-
-**Welche Aufgabe haben SDKs bei erweiterbaren Plattformen?**  
-Sie bieten Drittentwicklern standardisierte Klassen und Typprüfungen zur sicheren Kommunikation mit dem Host-System.
 
 ## Verwandte Begriffe
 - [Plugin](/de/dictionary/plugin/)
-- [Emitter](/de/dictionary/emitter/)
-- [Tools](/de/dictionary/tools/)
+- [API](/de/dictionary/api/)
+- [Framework](/de/dictionary/framework/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/extensibility/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/extensibility/

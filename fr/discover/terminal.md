@@ -2,7 +2,7 @@
 
 Microsoft combine Windows Terminal et l'hôte de console Windows traditionnel sous un même toit. Ce projet open source, développé en langage C++, restructure l'expérience en ligne de commande avec une interface moderne et des onglets personnalisables.
 
-- ★ 104 442
+- ★ 105 059
 - C++
 - GitHub Trending · 2026-07-20
 

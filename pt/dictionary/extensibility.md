@@ -1,48 +1,37 @@
-# O que é Extensibilidade (Extensibility)?
+# O que é Extensibility?
 
-> Inglês: Extensibility · Etimologia: latim extendere (alongar, estender)
+Extensibilidade é a capacidade de um software obter novos recursos com plug-ins e módulos sem alterar seu código principal.
 
-**Categoria:** Dev  
-**Última atualização:** 2026-09-22
+## Definição e origem da palavra
+O termo "extensibilidade" deriva da raiz inglesa estender. Está intimamente relacionado ao Princípio Aberto-Fechado em engenharia de software: um módulo deve estar aberto à extensão, mas fechado à modificação. Assim, quando um novo recurso é necessário, em vez de quebrar o código existente, basta adicionar uma nova parte ao sistema.
 
-Extensibilidade (extensibility) é o princípio de arquitetura de software que permite adicionar novas funcionalidades, módulos e plugins a um sistema sem a necessidade de modificar seu código-fonte principal.
+## Como conhecer e usar no dia a dia?
+Como usuário final, você encontra extensibilidade todos os dias:
 
-## Definição e etimologia
-A palavra deriva do latim extendere, expressando a ideia de ampliação. Na engenharia de software, materializa o princípio Aberto/Fechado (o 'O' de SOLID): o sistema deve estar aberto para extensões, porém fechado para alterações em seu núcleo. A arquitetura oferece pontos de conexão (hooks) e interfaces que permitem a terceiros acoplar novos comportamentos com segurança.
+## Profundidade Técnica e Arquitetura
+O núcleo de um sistema extensível é pequeno e seu entorno cresce com complementos. As partes típicas desta arquitetura são:
 
-## Contexto cotidiano e uso prático
-Exemplos cotidianos de extensibilidade no ecossistema digital :
-- **Editores de Código:** O VS Code mantém seu núcleo ágil e veloz, suportando extensões para centenas de linguagens.- **Navegadores de Internet:** Chrome e Firefox permitem acoplar tradutores e bloqueadores de anúncios sem alterar o motor de renderização.- **Plataformas Web:** O WordPress construiu seu ecossistema global permitindo que desenvolvedores criem temas e plugins via ganchos de eventos.
+## Use em diferentes disciplinas
+Arquitetura: Estruturas pré-fabricadas onde novos módulos podem ser adicionados sem tocar nas paredes estruturais.Produção: Processadores de alimentos que podem ter diferentes acessórios ligados ao mesmo corpo.Jogo: Comunidades mod que adicionam novos mapas e missões sem alterar o jogo principal.
 
-## Profundidade técnica e arquitetura
-Mecanismos estruturais de extensibilidade :
-- **Arquitetura de Plugins e Hooks:** Eventos de ciclo de vida onde bibliotecas externas injetam rotinas personalizadas.- **Inversão de Dependências:** Uso de interfaces abstratas para evitar dependências diretas de implementações proprietárias.- **Mensageria Pub/Sub:** Publicação de eventos que ativam módulos ouvintes sem gerar acoplamento rígido.- **Isolamento com WebAssembly (WASM):** Execução de extensões dentro de caixas de areia seguras em memória.
+## Perguntas Frequentes
+**Todo software é extensível?**
+Não. A menos que o software seja projetado com essa flexibilidade desde o início, adicionar suporte a plug-ins posteriormente costuma ser caro e arriscado.
 
-## Perspectivas interdisciplinares
-Analogias em outros setores :
-- **Construção Civil:** Edifícios modulares estruturados para permitir a adição de novos blocos sem quebrar vigas de sustentação.- **Ferramentas Elétricas:** Motores portáteis universais que aceitam pontas de broca, lixa ou serra intercambiáveis.- **Jogos de Tabuleiro:** Regras fundamentais desenhadas para receber pacotes de expansão posteriores sem quebrar a mecânica base.
+**Qual é a diferença entre um plugin e um fork?**
+Você não copia o código principal do plugin, você se conecta ao sistema de fora. Na bifurcação, você copia todo o código e segue para um caminho separado.
 
-## Por analogia
-É como um canivete suíço: o corpo central permanece firme e inalterado, mas oferece encaixes modulares para acrescentar uma chave de fenda ou lanterna quando necessário.
+**Os plug-ins são seguros?**
+Varia dependendo da fonte. Escolha plug-ins atualizados e amplamente utilizados em lojas oficiais. Tenha cuidado com plugins que solicitam permissões desnecessárias.
 
-## Perguntas frequentes
+**A extensibilidade reduz o desempenho?**
+Cada plugin impõe alguma carga. Quando você usa poucos plug-ins bem mantidos, o efeito geralmente passa despercebido.
 
-**Todo sistema deve ser projetado para ser extensível?**  
-Não; criar camadas de extensão prematuras gera sobrecarga de desenvolvimento desnecessária quando os requisitos são simples.
-
-**Qual a diferença entre extensibilidade e manutenibilidade?**  
-Manutenibilidade é a facilidade de consertar o código existente; extensibilidade é a facilidade de acrescentar recursos novos sem alterar o existente.
-
-**Como evitar que um plugin ruim derrube o programa principal?**  
-Executando o plugin em uma sandbox isolada (como WASM ou processos secundários) com limites estritos de memória e chamadas de sistema.
-
-**Como as APIs contribuem para a extensibilidade?**  
-Elas padronizam as mensagens e parâmetros válidos entre o aplicativo hospedeiro e os módulos construídos pela comunidade.
 
 ## Termos relacionados
 - [Plugin](/pt/dictionary/plugin/)
-- [Emitter](/pt/dictionary/emitter/)
-- [Tools](/pt/dictionary/tools/)
+- [API](/pt/dictionary/api/)
+- [Framework](/pt/dictionary/framework/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/extensibility/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/extensibility/

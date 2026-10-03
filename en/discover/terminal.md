@@ -2,7 +2,7 @@
 
 Microsoft is combining Windows Terminal and the traditional Windows console host under one roof. This open source project, developed in C++ language, restructures the command line experience with a modern interface and customizable tabs.
 
-- ★ 104,442
+- ★ 105,059
 - C++
 - GitHub Trending · 2026-07-20
 

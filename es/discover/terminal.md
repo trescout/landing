@@ -2,7 +2,7 @@
 
 Microsoft está combinando Windows Terminal y la consola tradicional de Windows bajo un mismo techo. Este proyecto de código abierto, desarrollado en lenguaje C++, reestructura la experiencia de la línea de comandos con una interfaz moderna y pestañas personalizables.
 
-- ★ 104.442
+- ★ 105.059
 - C++
 - GitHub Trending · 2026-07-20
 

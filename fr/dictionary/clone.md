@@ -40,8 +40,8 @@ Oui. Il vous suffit d'exécuter git pull dans le dossier. Si vous avez des modif
 - [Univer](/fr/discover/univer/)
 - [OpenStock](/fr/discover/openstock/)
 - [Hermes WebUI](/fr/discover/hermes-webui/)
-- [Flowsint](/fr/discover/flowsint/)
 - [Production Agentic RAG Course](/fr/discover/production-agentic-rag-course/)
+- [Flowsint](/fr/discover/flowsint/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/clone/

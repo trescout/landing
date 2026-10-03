@@ -1,31 +1,42 @@
 # Was ist Deployment?
 
-Dabei handelt es sich um den Prozess, eine vorbereitete Software auf den Server hochzuladen und sie betriebsbereit zu machen, damit Benutzer darauf zugreifen können.
+Deployment (Software-Deployment / Live-Schaltung) ist der Prozess, bei dem eine in einer lokalen Umgebung entwickelte und getestete Softwarekomponente kompiliert, auf Zielservern oder Cloud-Infrastrukturen installiert und für Endbenutzer zugänglich gemacht wird.
 
-## Definition
-Die Bereitstellung ist der letzte Schritt des Softwareentwicklungsprozesses. Sie nehmen Ihren Code von Ihrem eigenen Computer und verschieben ihn auf einen Server, wo ihn Menschen auf der ganzen Welt nutzen können. Jetzt beginnt Ihre Software in einer Live-Umgebung zu funktionieren, nicht nur auf Ihrem Computer.
+## Konzeptioneller Rahmen, Etymologie und historischer Wandel
+Der Begriff Deployment leitet sich etymologisch aus der militärischen Terminologie ab und bezeichnet die Verlegung von Truppen, Munition oder Ausrüstung in strategische Gefechtspositionen, um sie einsatzbereit zu machen („to deploy“). In der Softwaretechnik begann er in den 1970er und 80er Jahren mit dem Laden von Lochkarten oder Magnetbändern auf Großrechner (Mainframes); er entwickelte sich in den 1990er Jahren zu manuell ausgeführten FTP/SSH-Dateiübertragungen und ist heute zu vollständig deklarativen und automatisierten Cloud-Pipelines (GitOps) mutiert.
 
-## So funktioniert es
-Entwickler übermitteln ihren Code über automatische oder manuelle Tools an den Server. Der Server empfängt diesen Code, nimmt die notwendigen Einstellungen vor und veröffentlicht die Anwendung.
+## Strategien für unterbrechungsfreies Deployment (Zero-Downtime)
+Die grundlegenden Deployment-Muster, die entwickelt wurden, damit Benutzer während der Aktualisierung von Anwendungen keine Dienstunterbrechungen erleben, sind folgende:
 
-## Wo es eingesetzt wird
-Es wird verwendet, wenn Websites veröffentlicht, mobile Anwendungen an den Store übermittelt oder Modelle der künstlichen Intelligenz als API präsentiert werden.
+## CI/CD-Pipeline, GitOps und Datenbankmigrationen
+Eine erfolgreiche Bereitstellungsarchitektur baut auf drei kritischen technischen Säulen auf:
+
+## Fehlerbehandlung, Beobachtbarkeit und Rollback-Architektur
+Selbst in den fortschrittlichsten Testumgebungen gibt es zwei wesentliche Rettungsringe für Produktionsfehler, die übersehen wurden:
 
 ## Häufig verwechselt mit
-Es wird mit Entwicklung verwechselt; Die Entwicklung besteht darin, das Essen in der Küche zu kochen, und der Einsatz besteht darin, das Essen an den Tisch des Kunden zu servieren.
 
 ## Häufige Fragen
-**Was passiert, wenn während der Bereitstellung ein Fehler auftritt?**
-Das System führt normalerweise ein Rollback auf die alte, funktionierende Version durch oder stoppt das Streaming, bis der Fehler behoben ist.
+**Was bedeutet Deployment und wie lautet die deutsche Entsprechung?**
+Es ist ein aus dem Englischen stammendes Wort und bedeutet „Bereitstellung“ oder „Liveschaltung“. Es ist der Prozess, bei dem ein Softwarepaket kompiliert und auf Zielservern oder in einer Cloud-Umgebung lauffähig gemacht wird.
 
-**Erfolgt die Bereitstellung immer manuell?**
-In der modernen Welt erfolgt dies normalerweise automatisch; Sie senden den Code und das System veröffentlicht ihn selbstständig.
+**Was ist der Unterschied zwischen Deployment und Release?**
+Deployment ist die technische Installation und Ausführung des Codes auf dem Server. Ein Release hingegen ist die offizielle Freigabe des Features für den Endbenutzer durch Feature Flags oder Marketingmaßnahmen.
+
+**Was ist der Hauptunterschied zwischen Blue-Green- und Canary-Deployment?**
+Beim Blue-Green-Deployment gibt es zwei identische Umgebungen, und der Datenverkehr wird auf einen Schlag über einen Load Balancer zu 100 % auf die neue Umgebung umgeschaltet. Beim Canary-Deployment hingegen wird die neue Version schrittweise zuerst einer kleinen Benutzergruppe von 1-5 % zur Verfügung gestellt, und der Prozentsatz wird nach Beobachtung der Metriken erhöht.
+
+**Wie werden Datenbank-Schemataänderungen bei einem Zero-Downtime-Deployment verwaltet?**
+Sie werden mit dem Expand-Contract-Muster (Erweitern und Reduzieren) verwaltet. Zuerst werden abwärtskompatible neue Felder hinzugefügt; nachdem alle Server des Systems auf den neuen Code umgestellt wurden und der Datenfluss gewährleistet ist, werden die alten Felder bereinigt.
 
 
 ## Verwandte Begriffe
 - [Runtime](/de/dictionary/runtime/)
 - [Compile-time](/de/dictionary/compile-time/)
-- [API](/de/dictionary/api/)
+- [Cloud Computing](/de/dictionary/cloud-computing/)
+- [Production Pipeline](/de/dictionary/production-pipeline/)
+- [Tech Stack](/de/dictionary/tech-stack/)
+- [Git Push](/de/dictionary/git-push/)
 
 ## Verwandte Werkzeuge
 - [Rocket.Chat](/de/discover/rocket-chat/)

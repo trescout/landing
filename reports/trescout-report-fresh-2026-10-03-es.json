@@ -1,0 +1,555 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-03",
+  "capturedAt": "2026-10-03T09:53:42.388Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "google/skills",
+          "url": "https://github.com/google/skills",
+          "summary": "Skills, desarrollado por Google, es una biblioteca que otorga a los agentes de inteligencia artificial la capacidad (habilidades de agente) de operar sobre productos y tecnologías de Google. Esta estructura basada en Python permite a los agentes realizar tareas de forma integrada con los servicios de Google.",
+          "meta": "Python · ★ 20.848 · +39 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "google/skills",
+            "capturedAt": "2026-10-03T09:53:43.717Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 20848,
+              "engagementCount": 39,
+              "rank": 11,
+              "extra": {
+                "starsToday": 39
+              }
+            }
+          }
+        },
+        {
+          "title": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "summary": "Sentry es una herramienta de seguimiento de errores que rastrea errores de software en tiempo real y monitorea el rendimiento de las aplicaciones. Se utiliza como una plataforma de seguimiento de errores (error tracking) que ayuda a los desarrolladores a identificar rápidamente problemas en la base de código y generar soluciones.",
+          "meta": "Python · ★ 45.098 · +16 hoy",
+          "snapshot": {
+            "sourceId": "getsentry/sentry",
+            "capturedAt": "2026-10-03T09:53:43.717Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 45098,
+              "engagementCount": 16,
+              "rank": 12,
+              "extra": {
+                "starsToday": 16
+              }
+            }
+          }
+        },
+        {
+          "title": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "summary": "Effect-TS es un ecosistema de bibliotecas que permite desarrollar aplicaciones escalables y tolerantes a fallos con TypeScript. Utiliza principios de programación funcional para gestionar flujos de trabajo complejos, estandarizando así los procesos de desarrollo de software.",
+          "meta": "TypeScript · ★ 16.655 · +80 hoy",
+          "snapshot": {
+            "sourceId": "Effect-TS/effect",
+            "capturedAt": "2026-10-03T09:53:43.717Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 16655,
+              "engagementCount": 80,
+              "rank": 16,
+              "extra": {
+                "starsToday": 80
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+          "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+          "summary": "La ley del estado de Utah que obligaba a las redes privadas virtuales (VPN) a implementar procesos de verificación de edad fue considerada técnicamente inaplicable por el tribunal. La Electronic Frontier Foundation (EFF), una organización sin fines de lucro que protege los derechos digitales, afirma que esta decisión aliviará las presiones sobre la privacidad y la seguridad en Internet.",
+          "meta": "631 puntos · 280 comentarios",
+          "snapshot": {
+            "sourceId": "49927754",
+            "capturedAt": "2026-10-03T09:53:42.699Z",
+            "metadata": {
+              "popularity": 631,
+              "engagementCount": 280,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49927754",
+                  "popularity": 631,
+                  "engagementCount": 280
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "hn_acker",
+                "createdAt": "2026-10-01T22:23:07Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49927754"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49927754",
+              "popularity": 631,
+              "engagementCount": 280
+            }
+          ]
+        },
+        {
+          "title": "Mike Tomlin spent 12 years building a Minecraft city",
+          "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+          "summary": "El entrenador de la NFL, Mike Tomlin, diseñó una ciudad extensa en Minecraft, el popular juego de construcción basado en bloques, durante doce años. Además de su carrera deportiva profesional, Tomlin desarrolló un proyecto arquitectónico detallado en el mundo digital, utilizando el potencial creativo del juego como un pasatiempo a largo plazo.",
+          "meta": "458 puntos · 107 comentarios",
+          "snapshot": {
+            "sourceId": "49925184",
+            "capturedAt": "2026-10-03T09:53:42.699Z",
+            "metadata": {
+              "popularity": 458,
+              "engagementCount": 107,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49925184",
+                  "popularity": 458,
+                  "engagementCount": 107
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "CoryOndrejka",
+                "createdAt": "2026-10-01T18:20:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49925184"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49925184",
+              "popularity": 458,
+              "engagementCount": 107
+            }
+          ]
+        },
+        {
+          "title": "Apple Pass Designer",
+          "url": "https://developer.apple.com/pass-designer/",
+          "summary": "Apple Pass Designer es una herramienta de diseño basada en la web que permite a los desarrolladores crear tarjetas para billeteras digitales (Apple Wallet passes). Le permite configurar el diseño visual y el contenido de las tarjetas sin necesidad de escribir código.",
+          "meta": "422 puntos · 257 comentarios",
+          "snapshot": {
+            "sourceId": "49937276",
+            "capturedAt": "2026-10-03T09:53:42.699Z",
+            "metadata": {
+              "popularity": 422,
+              "engagementCount": 257,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49937276",
+                  "popularity": 422,
+                  "engagementCount": 257
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "soheilpro",
+                "createdAt": "2026-10-02T19:06:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49937276"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49937276",
+              "popularity": 422,
+              "engagementCount": 257
+            }
+          ]
+        },
+        {
+          "title": "FLUX 3 Image",
+          "url": "https://bfl.ai/models/flux-3-image",
+          "summary": "FLUX 3, desarrollado por Black Forest Labs, destaca entre los modelos de creación visual por su alto nivel de detalle y capacidad de procesamiento de texto. En el campo de la generación de imágenes (image generation), ofrece una precisión visual y un seguimiento de instrucciones más avanzados en comparación con las versiones anteriores.",
+          "meta": "345 puntos · 74 comentarios",
+          "snapshot": {
+            "sourceId": "49925974",
+            "capturedAt": "2026-10-03T09:53:42.699Z",
+            "metadata": {
+              "popularity": 345,
+              "engagementCount": 74,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49925974",
+                  "popularity": 345,
+                  "engagementCount": 74
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "minimaxir",
+                "createdAt": "2026-10-01T19:24:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49925974"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49925974",
+              "popularity": 345,
+              "engagementCount": 74
+            }
+          ]
+        },
+        {
+          "title": "Extra Big Ass Intelligence",
+          "url": "https://www.extrabigassintelligence.com/",
+          "summary": "Extra Big Ass Intelligence es una plataforma que ofrece análisis técnicos sobre el escalado de grandes modelos de lenguaje (large language models) y los requisitos de potencia de cálculo. Comparte datos que examinan los recursos de hardware y las arquitecturas de modelos necesarios para mejorar el rendimiento de los sistemas de inteligencia artificial.",
+          "meta": "294 puntos · 61 comentarios",
+          "snapshot": {
+            "sourceId": "49941114",
+            "capturedAt": "2026-10-03T09:53:42.699Z",
+            "metadata": {
+              "popularity": 294,
+              "engagementCount": 61,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49941114",
+                  "popularity": 294,
+                  "engagementCount": 61
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "34679",
+                "createdAt": "2026-10-03T03:19:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49941114"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49941114",
+              "popularity": 294,
+              "engagementCount": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de imagen a video (image-to-video) que convierte imágenes estáticas en videos en movimiento. Esta herramienta, compartida en la plataforma HuggingFace, permite a los usuarios generar contenido de video coherente y de alta calidad a partir de una sola imagen.",
+          "meta": "♥ 6.028 · 1.629.984 descargas",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-10-03T09:53:42.582Z",
+            "metadata": {
+              "popularity": 6028,
+              "engagementCount": 1629984,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 385,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Replacing Large Language Models with Jev Decision Models for Low-Latency Edge Service Orchestration",
+          "url": "https://huggingface.co/papers/2609.22753",
+          "summary": "Para reducir la latencia creada por los grandes modelos de lenguaje (large language models) en los procesos de toma de decisiones, se utilizan modelos de decisión Jev en la orquestación de servicios de borde (edge service orchestration). Este método aumenta la velocidad de finalización del servicio al convertir las solicitudes en lenguaje natural en dominios de intención limitados.",
+          "meta": "1 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.22753",
+            "capturedAt": "2026-10-03T09:53:42.585Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.22753",
+                "publishedAt": "2026-09-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/Edge-Computing-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation",
+          "url": "https://huggingface.co/papers/2610.01092",
+          "summary": "Ego2Act es un marco de evaluación que mide qué tan precisamente los modelos de generación de video pueden simular acciones orientadas a objetivos en el mundo físico. Este estudio tiene como objetivo probar las capacidades de razonamiento físico de múltiples pasos (multi-step physical reasoning) de los modelos a través de videos egocéntricos.",
+          "meta": "7 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.01092",
+            "capturedAt": "2026-10-03T09:53:42.585Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.01092",
+                "publishedAt": "2026-10-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/ego2act/ego2act",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "MemFold: Learning Compact Soft Memory for Long-Context Personalization via On-Policy Optimization",
+          "url": "https://huggingface.co/papers/2609.36435",
+          "summary": "MemFold es un método que almacena las preferencias y restricciones personales en vectores latentes compactos durante las interacciones prolongadas con el usuario. Este enfoque comprime los datos históricos basados en texto, permitiendo que los asistentes de inteligencia artificial funcionen de manera más eficiente en contextos largos (long-context).",
+          "meta": "3 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.36435",
+            "capturedAt": "2026-10-03T09:53:42.585Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36435",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Johnny221B/memfold",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+          "url": "https://huggingface.co/papers/2610.00812",
+          "summary": "Los modelos de generación de video están evolucionando rápidamente en la creación de contenido de alta resolución y larga duración. Los procesos de alineación posterior al entrenamiento (post-training alignment) tienen como objetivo garantizar que estos modelos sigan la intención del usuario, mantengan la coherencia temporal y cumplan con las restricciones de seguridad.",
+          "meta": "31 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.00812",
+            "capturedAt": "2026-10-03T09:53:42.585Z",
+            "metadata": {
+              "popularity": 31,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.00812",
+                "publishedAt": "2026-09-30T00:00:00.000Z",
+                "githubRepo": "https://github.com/people-robots/Awesome-Video-Generation-Post-Training",
+                "githubStars": 191
+              }
+            }
+          }
+        },
+        {
+          "title": "Persona Dosing: Calibrated Activation Steering for Graded Trait Control",
+          "url": "https://huggingface.co/papers/2609.36388",
+          "summary": "Persona Dosing es un método que permite controlar la intensidad de la expresión de los rasgos de personalidad en los modelos de lenguaje a través de una escala específica. Esta técnica utiliza un mecanismo de dirección de activación (activation steering) para calibrar las respuestas del modelo según un nivel de intensidad predefinido.",
+          "meta": "11 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.36388",
+            "capturedAt": "2026-10-03T09:53:42.585Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36388",
+                "publishedAt": "2026-09-28T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
+          "url": "https://frankwiles.com/posts/i-got-targeted/",
+          "summary": "Git, el sistema de control de versiones utilizado por los desarrolladores, puede ser vulnerable a vectores de ataque destinados a robar credenciales a través del gancho (hook) post-checkout. Este método pone en peligro los datos del usuario mediante la ejecución automática en sistemas locales de repositorios de código obtenidos de fuentes no confiables.",
+          "meta": "48 puntos · 9 comentarios",
+          "snapshot": {
+            "sourceId": "cd5gdk",
+            "capturedAt": "2026-10-03T09:53:42.841Z",
+            "metadata": {
+              "popularity": 48,
+              "engagementCount": 9,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
+                  "popularity": 48,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security",
+                  "vcs"
+                ],
+                "createdAt": "2026-10-02T17:19:02.622-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
+              "popularity": 48,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "Zig 0.17.0 Release Notes",
+          "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+          "summary": "El lenguaje de programación de sistemas Zig, con su versión 0.17.0, ofrece mejoras en el rendimiento del compilador y actualizaciones integrales en la biblioteca estándar del lenguaje. Esta versión se pone a disposición de los desarrolladores con nuevas características que hacen que los procesos de gestión de memoria y verificación de errores sean más estables.",
+          "meta": "76 puntos · 6 comentarios",
+          "snapshot": {
+            "sourceId": "wcmfft",
+            "capturedAt": "2026-10-03T09:53:42.841Z",
+            "metadata": {
+              "popularity": 76,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes",
+                  "popularity": 76,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "zig"
+                ],
+                "createdAt": "2026-10-02T16:10:41.271-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes",
+              "popularity": 76,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Actual RFC1149 packet being auctioned",
+          "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+          "summary": "El RFC 1149, un estándar humorístico que describe la transmisión de datos a través de Internet mediante aves, está siendo subastado por la casa de subastas Christie's. Este documento físico es considerado una pieza icónica de la literatura técnica que aborda los protocolos de red con un lenguaje satírico.",
+          "meta": "77 puntos · 10 comentarios",
+          "snapshot": {
+            "sourceId": "wqqkws",
+            "capturedAt": "2026-10-03T09:53:42.841Z",
+            "metadata": {
+              "popularity": 77,
+              "engagementCount": 10,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned",
+                  "popularity": 77,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "networking"
+                ],
+                "createdAt": "2026-10-02T09:17:00.980-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned",
+              "popularity": 77,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "Habilidad especial que posee un software o una inteligencia artificial para realizar una operación específica sin errores."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Habilidades especializadas que permiten a los sistemas de inteligencia artificial interactuar con el mundo exterior y realizar operaciones específicas."
+    },
+    {
+      "term": "error tracking",
+      "explanation": "Sistema de seguimiento que detecta errores en el software en tiempo real y los notifica a los desarrolladores."
+    }
+  ]
+}

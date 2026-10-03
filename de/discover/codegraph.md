@@ -2,7 +2,7 @@
 
 Codegraph ist ein lokales Knowledge-Graph-Tool (Wissensgraph), das Codebasen vorab indiziert und für KI-Modelle bereitstellt. Durch die automatische Synchronisierung von Codeänderungen sorgt es dafür, dass Codierungsassistenten wie Claude Code oder Cursor weniger Token und Tool-Aufrufe verbrauchen.
 
-- ★ 72.721
+- ★ 73.076
 - C
 - GitHub Trending · 2026-10-01
 

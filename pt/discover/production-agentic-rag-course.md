@@ -2,7 +2,7 @@
 
 O curso Production-agentic-rag oferece treinamento prático no desenvolvimento de sistemas de produção assistida por busca baseados em agentes (RAG agentic) que automatizam os processos de recuperação de informações de fontes de dados complexas. Baseado na linguagem Python, este recurso ensina a arquitetura técnica necessária para criar aplicativos de inteligência artificial escalonáveis ​​e em nível de produção.
 
-- ★ 8.216
+- ★ 9.265
 - GitHub Trending · 2026-06-03
 
 ## O que você ganha

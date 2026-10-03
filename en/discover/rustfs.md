@@ -2,7 +2,7 @@
 
 RustFS was developed as an S3-compatible high-performance object storage system. It offers interoperability and data migration support with other S3-compatible platforms such as MinIO and Ceph.
 
-- ★ 33,264
+- ★ 34,330
 - Rust
 - GitHub Trending · 2026-09-19
 

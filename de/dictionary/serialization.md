@@ -1,51 +1,44 @@
-# Was ist Serialisierung (Serialization)?
+# Was ist Serialization?
 
-> Englisch: Serialization · Wortherkunft: lateinisch series (Reihe, Kette) + facere (machen)
+Unter Serialisierung versteht man die dynamische Zuordnung von Objekten, Datenstrukturen und Zeigergrafiken im Arbeitsspeicher (RAM) einer Programmiersprache; Dabei handelt es sich um den Prozess der Konvertierung von Daten in einen flachen, linearen Bytestrom oder ein Textformat, das über das Netzwerk übertragen oder auf der Festplatte gespeichert werden kann.
 
-**Kategorie:** Dev  
-**Letzte Aktualisierung:** 2026-09-19
+## Was bedeutet Serialisierung und warum ist sie notwendig? Speichermodell
+In modernen Betriebssystemen läuft jeder Prozess in seinem eigenen isolierten virtuellen Adressraum. Ein Objekt zur Laufzeit; Es enthält lokale Variablen auf dem Stapel, dynamisch zugewiesene Speicherblöcke auf dem Heap, Funktionszeiger (vtable) und Referenzadressen (0x7ffee4b2...).
 
-Serialisierung (Serialization) ist der Vorgang, bei dem dynamische Datenstrukturen, Objekte und Zeigergraphen aus dem Arbeitsspeicher (RAM) in einen linearen Bytestrom oder ein Textformat umgewandelt werden, um über Netzwerke übertragen oder auf Festplatten gesichert zu werden.
-
-## Was ist Serialisierung und warum ist sie notwendig? Speichermodell
-In modernen Betriebssystemen arbeitet jeder Prozess in einem eigenen virtuellen Adressraum. Heap-Objekte verweisen über Speicheradressen (Pointer) aufeinander, die außerhalb dieses konkreten Prozesses wertlos sind. Die Serialisierung löst diese Zeigerstrukturen auf und überführt sie in ein portables, plattformunabhängiges Datenformat.
-
-## Serialisierungsformate: Textbasiert vs. Binäre Protokolle
-Die Auswahl des passenden Formats ist eine Abwägung zwischen Lesbarkeit und Ressourceneffizienz:
-- **Textbasierte Formate (JSON, YAML, XML):** Leicht durch Menschen lesbar und einfach per HTTP zu debuggen, verursachen jedoch spürbaren CPU-Parsingaufwand und größere Datenmengen.- **Binärformate (Protocol Buffers, MessagePack, Avro):** Extrem kompakte Repräsentationen mit starker Typisierung, die minimale Bandbreite erfordern und blitzschnell verarbeitet werden.- **Schema-Evolution:** Frameworks wie Protobuf garantieren Vorwärts- und Rückwärtskompatibilität zwischen verteilten Diensten mit unterschiedlichen Versionsständen.
+## Serialisierungsformate: textbasiert vs. binär
+Auswahl des richtigen Serialisierungsformats in der Softwarearchitektur; Es erfordert ein Gleichgewicht zwischen menschlicher Lesbarkeit, CPU-Parsing-Kosten, Netzwerkbandbreite und Typsicherheit.
 
 ## Zero-Copy-Deserialisierungsarchitektur
-Klassische Deserialisierer erzeugen beim Einlesen neue Objekte im Heap-Speicher. Hochleistungsbibliotheken wie Cap'n Proto oder FlatBuffers nutzen das **Zero-Copy-Prinzip**:
-- **Feste Speicherausrichtung:** Daten werden mit relativen Offsets im Bytestrom abgelegt.- **Direkter Zugriff:** Anwendungen lesen Attribute unmittelbar aus dem Speicherabbild oder Netzwerkpuffer, ohne zusätzliche Speicherallokationen vorzunehmen.
+In klassischen Serialisierungsbibliotheken (JSON-Parser oder Standard-Protobuf) wird der Deserialisierungsprozess mit diesen Schritten durchgeführt:
 
-## Sicherheitsaspekt: Insecure Deserialization (CWE-502)
-Wenn Serialisierungsbibliotheken nicht nur reine Datenfelder, sondern beliebige ausführbare Objektklassen rekonstruieren (wie bei Python pickle oder nativer Java-Serialisierung), drohen gravierende Sicherheitslücken:
-- **Remote Code Execution (RCE):** Angreifer schleusen bösartige Objektketten (Gadget Chains) ein, die bereits beim Einlesen Systembefehle auf dem Zielserver ausführen.- **Schutzmaßnahmen:** Nicht vertrauenswürdige Schnittstellen ausschließlich mit streng typisierten Datenformaten (JSON, Protobuf) bedienen und Nachrichten via HMAC oder TLS absichern.
-
-## Als Analogie
-Es ist wie das Zerlegen eines Schranks in flache Bretter für den Transport im Umzugskarton, um ihn am Zielort anhand der Anleitung exakt wieder aufzubauen.
+## Sicherheitsdimension: Unsichere Deserialisierung (CWE-502)
+Es entstehen katastrophale Sicherheitslücken, wenn bei der Serialisierung versucht wird, Objektklassen und Laufzeitverhalten zu serialisieren, anstatt nur reine Daten zu verschieben. Unsichere Deserialisierung (Insecure Reverse Serialization), die in der OWASP-Top-10-Liste steht, ermöglicht es dem Angreifer, beliebigen Code (Remote Code Execution – RCE) auf dem System auszuführen.
 
 ## Häufige Fragen
+**Was ist der Hauptunterschied zwischen Serialisierung und Deserialisierung?**
+Bei der Serialisierung werden lebende Objekte im Speicher in einen Byte-/Textstrom umgewandelt, der gespeichert oder übertragen werden kann. Bei der Deserialisierung wird diese Bytesequenz gelesen, analysiert und in ein Objekt umgewandelt, das im Speicher des Zielsystems funktioniert.
 
-**Worin liegt der Unterschied zwischen Serialisierung und Deserialisierung?**  
-Serialisierung überführt Speicherobjekte in einen linearen Bytestrom; Deserialisierung baut aus dem Bytestrom wieder lebendige Objekte im Speicher auf.
+**Wann sollten Protobuf oder FlatBuffers anstelle von JSON in Webprojekten verwendet werden?**
+Für öffentliche Web-Clients und öffentliche APIs ist JSON aufgrund seiner Browserkompatibilität und einfachen Debugging ideal. Für interne Microservices, mobile Anwendungs-Backends oder Echtzeit-Datenströme sollten jedoch Protobuf oder FlatBuffers bevorzugt werden, um die Netzwerkbandbreite zu drosseln und die Kosten für die CPU-Zerlegung zu senken.
 
-**Warum darf man Python pickle nie mit ungesicherten Daten nutzen?**  
-Weil pickle beim Entpacken beliebigen Programmcode ausführen kann, was Angreifern direkte Serverübernahmen ermöglicht.
+**Wie funktioniert der Angriff „Insecure Deserialization“ und wie kann man ihn verhindern?**
+Der Angreifer fügt schädliche Funktionen oder Klassenstrukturen in die serialisierten Daten ein, die während der Deserialisierung ausgeführt werden sollen. Wenn der Server diese Daten analysiert, können Systembefehle ausgelöst werden. To prevent this, formats that carry class logic should be abandoned and only schema formats that carry pure data (Protobuf, JSON Schema) should be used.
 
-**Wie erzielt FlatBuffers Zero-Copy-Performance?**  
-Durch vorab ausgerichtete Binärstrukturen, bei denen Datenfelder direkt im Puffer gelesen werden können, ohne Heap-Objekte zu erzeugen.
+**Was bedeutet Zero-Copy-Deserialisierung?**
+Dabei handelt es sich um eine Technik, bei der Daten direkt mit Zeigeroffsets im Pufferspeicher gelesen werden, anstatt den eingehenden Bytestrom durch Zuweisung neuer Speicherbereiche zu kopieren. Es entlastet den Prozessor und den Garbage Collector, indem es die Speicherzuweisung zurücksetzt.
 
-**Wann ist JSON gegenüber Protobuf vorzuziehen?**  
-Wenn einfache Lesbarkeit, schnelles Debugging im Browser und breite Zugänglichkeit wichtiger sind als minimale Bytegrößen.
+**Was ist Schema-Evolution? Wie kann die Abwärts- und Vorwärtskompatibilität sichergestellt werden?**
+Datenmodelle ändern sich, wenn die Software aktualisiert wird. Systeme wie Protobuf und Avro geben Feldern eindeutige numerische IDs, sodass alte Clients neue Felder ignorieren können (Abwärtskompatibilität) und neue Clients alte Daten mit Standardwerten lesen können (Vorwärtskompatibilität).
+
 
 ## Verwandte Begriffe
 - [API](/de/dictionary/api/)
 - [Data Pipeline](/de/dictionary/data-pipeline/)
-- [Buffer](/de/dictionary/buffer/)
+- [Memory Management](/de/dictionary/memory-management/)
+- [Network Stack](/de/dictionary/network-stack/)
 
-## Verwandte Tools
+## Verwandte Werkzeuge
 - [YAML Cpp](/de/discover/yaml-cpp/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/serialization/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/serialization/

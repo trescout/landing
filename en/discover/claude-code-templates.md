@@ -2,7 +2,7 @@
 
 Claude Code templates provide a command line interface (CLI) for the Claude Code tool that simplifies configuration and monitoring. This Python-based tool standardizes developers' control over the coding assistant and workflow management.
 
-- ★ 30,768
+- ★ 32,322
 - Python
 - GitHub Trending · 2026-07-11
 

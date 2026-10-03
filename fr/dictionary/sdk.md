@@ -33,11 +33,11 @@ Cela peut être écrit, mais il faut tout coder à partir de zéro, ce qui prend
 - [Servers](/fr/discover/servers/)
 - [Cline](/fr/discover/cline/)
 - [OmniRoute](/fr/discover/omniroute/)
+- [Sentry](/fr/discover/sentry/)
 - [Freellmapi](/fr/discover/freellmapi/)
 - [Opendataloader PDF](/fr/discover/opendataloader-pdf/)
 - [CUA](/fr/discover/cua/)
 - [iii](/fr/discover/iii/)
-- [Logto](/fr/discover/logto/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/sdk/

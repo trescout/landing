@@ -1,51 +1,40 @@
-# O que é uma Especificação (Specification)?
+# O que é Specification?
 
-> Inglês: Specification · Etimologia: latim species (aparência, tipo) + facere (fazer)
+Specification (abreviado como spec, ou especificação em português) é o documento técnico que descreve o que o produto fará e as suas regras.
 
-**Categoria:** Dev  
-**Última atualização:** 2026-09-22
+## Definição e origem da palavra
+É como o projeto arquitetônico de um edifício: o desenvolvedor consulta o documento antes de começar a codificar para entender o que deve construir. Reduz erros e esclarece expectativas. No mundo das APIs, o OpenAPI, e no hardware, as folhas de dados (datasheets) cumprem esse papel.
 
-Uma especificação (conhecida coloquialmente como spec) é um documento técnico formal que descreve detalhadamente os requisitos, contratos de interface, comportamentos e critérios de aceitação de um software ou produto.
+## Como conhecer e usar no dia a dia?
+Software: Documento de características e regras.Licitação: Arquivo de especificação técnica.Produto: Critérios de design e aceitação.
 
-## Definição e etimologia
-Ela funciona como a planta baixa de um edifício: antes de redigir o código, os engenheiros consultam o documento para saber exatamente o que deve ser construído. Reduz retrabalho, alinha expectativas entre equipes e serve de base para testes automatizados. Em APIs, especificações como OpenAPI são o padrão da indústria.
+## Profundidade Técnica e Arquitetura
+Uma boa especificação inclui:
 
-## Contexto cotidiano e uso prático
-Uso prático no desenvolvimento :
-- **Engenharia de Software:** Contratos de dados, fluxos de validação e regras de negócio documentadas.- **Contratações Técnicas:** Cadernos de encargos e termos de referência para contratação de serviços.- **Padronização:** Especificações abertas do W3C ou RFCs da IETF que definem a interoperabilidade global.
+## Coisas frequentemente misturadas
+É semelhante ao requisito. O requisito diz o que é desejado, a especificação explica como deve ser feito. Um é o objetivo, o outro é o plano.
 
-## Profundidade técnica e arquitetura
-Estrutura de uma boa especificação :
-- **Escopo:** O que está contemplado e o que expressamente ficou de fora da versão.- **Critérios de Aceite:** Condições mensuráveis para considerar uma entrega aprovada.- **Esquemas de Dados:** Tipos de campos, limites de requisições e códigos de erro previstos.- **Requisitos Não-Funcionais:** Níveis de latência tolerados, requisitos de segurança e disponibilidade.
+## Use em diferentes disciplinas
+Receita culinária: Lista de materiais e etapas.Manual de montagem: Esquema de peças e sequência.Licitação: Especificação administrativa e técnica.
 
-## Costuma ser confundido com
-Frequentemente confunde-se com o requisito. O requisito estabelece o que o usuário necessita; a especificação explica detalhadamente como o sistema implementará essa resposta. Um é o objetivo de negócio, o outro é a instrução técnica.
+## Perguntas Frequentes
+**As especificações podem mudar?**
+Sim, mas cada alteração deve ser aprovada com o seu impacto no custo e no cronograma.
 
-## Perspectivas interdisciplinares
-Paralelos com outras áreas :
-- **Gastronomia:** A receita detalhada com pesos exatos e temperatura do forno.- **Construção Civil:** O projeto arquitetônico com fiação elétrica e cálculo de vigas.- **Montagem Industrial:** O manual que indica a ordem correta de aperto dos parafusos.
+**Quem escreve o arquivo de especificação?**
+O gerente de produto, o engenheiro ou o analista escreve. O importante é ter um único proprietário e disciplina de versão.
 
-## Por analogia
-É como a lista de ingredientes e o modo de preparo de uma receita de confeitaria: ignorar quantidades ou pular etapas altera completamente o resultado final.
+**Quanto detalhe é necessário?**
+O suficiente para eliminar a ambiguidade. O excesso cansa quem escreve, a falta trava o desenvolvedor.
 
-## Perguntas frequentes
+**Pode haver especificação dentro do Agile?**
+Sim, versões leves. Histórias de usuário com critérios de aceitação e contratos de API funcionam como especificação.
 
-**Uma especificação pode sofrer alterações ao longo do projeto?**  
-Sim, desde que as alterações sejam registradas formalmente para evitar o crescimento descontrolado de escopo.
-
-**O que é desenvolvimento orientado por especificação (SDD)?**  
-Uma metodologia em que o contrato técnico e os esquemas são validados antes da escrita do código de produção.
-
-**Quem costuma escrever as especificações?**  
-Uma atuação conjunta entre gerentes de produto, arquitetos de sistemas e desenvolvedores líderes.
-
-**Qual a diferença entre especificação funcional e técnica?**  
-A funcional foca no que o usuário vê e experimenta; a técnica descreve banco de dados, protocolos e algoritmos internos.
 
 ## Termos relacionados
 - [Spec-driven Development](/pt/dictionary/spec-driven-development/)
-- [Schema](/pt/dictionary/schema/)
-- [API](/pt/dictionary/api/)
+- [Framework](/pt/dictionary/framework/)
+- [Tech Stack](/pt/dictionary/tech-stack/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/specification/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/specification/

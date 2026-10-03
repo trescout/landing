@@ -1,57 +1,40 @@
-# Was ist eine Application?
+# Was ist Application?
 
-> Anwendungssoftware
-
-**Kategorie:** Dev  
-**Letzte Aktualisierung:** 2026-09-22
-
-Eine Application (im Deutschen als Anwendung oder App bezeichnet) ist eine benutzerorientierte Software, die konkrete Aufgaben ausführt und auf einem Betriebssystem aufsetzt.
+Eine Anwendung ist eine Benutzersoftware, die eine bestimmte Aufgabe ausführt.
 
 ## Definition und Wortherkunft
-Von der Textverarbeitung bis zur Bildbearbeitung läuft jede digitale Interaktion über Anwendungen. Sie stützen sich auf das Betriebssystem und stellen eine grafische Benutzeroberfläche (GUI) oder Befehlszeile (CLI) bereit. Die Hausmetapher veranschaulicht das Prinzip: Das Betriebssystem ist das Haus samt Leitungen, Anwendungen sind die Möbel und Werkzeuge darin.
+Alles, vom Schreiben von Texten bis zur Fotobearbeitung, wird über eine Anwendung erledigt. Es läuft auf dem Betriebssystem und bietet eine visuelle Oberfläche. Die Hausanalogie ist treffend: Das System ist das Haus, die Anwendungen sind seine Möbel.
 
-## Alltägliche Anwendung und Praxis
-- **Mobilgeräte:** Banking-Apps, Messenger und Navigationssysteme.
-- **Arbeitsplatzrechner:** Entwicklungsumgebungen (IDEs), Tabellenkalkulationen und Videoschnittprogramme.
-- **Webbrowser:** Cloud-native Single-Page-Applications (SaaS), die ohne lokale Installation auskommen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Telefon: Messaging und Banking.Desktop: Büro und Design.Web: Diejenigen, die im Browser geöffnet werden.
 
 ## Technische Tiefe und Architektur
-Zentrale Architekturschichten:- **Präsentationsschicht:** Grafische Benutzeroberfläche oder CLI für Interaktionen und Dateneingaben.
-- **Geschäftslogik (Business Logic):** Anwendungsregeln, Rechenoperationen und Prozesssteuerung.
-- **Datenzugriffsschicht (Data Layer):** Kommunikation mit lokalen Dateisystemen, Caches und Datenbanken.
+Typen:
 
-Anwendungen können als native Maschinencode-Binärdateien kompiliert oder in Laufzeitumgebungen wie Node.js und JVM ausgeführt werden.
+## Häufig gemischte Dinge
+Es gilt als Betriebssystem. Das System verwaltet das Gerät, die Anwendung erledigt eine Aufgabe. Treiber sind Software, aber keine Anwendungen.
 
-## Häufig verwechselt mit
-Wird häufig mit Betriebssystemen oder Treibern verwechselt. Das Betriebssystem verwaltet die physische Hardware und Rechenzeit; Anwendungen nutzen diese Infrastruktur zur Erfüllung konkreter Benutzerwünsche.
+## Einsatz in verschiedenen Disziplinen
+Möbel: Gegenstände im Haus.Küchengerät: Einzelaufgabengeräte.Autozubehör: Teil nachträglich eingebaut.
 
-## Interdisziplinäre Perspektiven
-- **Architektur:** Rohbau und Leitungen eines Gebäudes vs. zweckgebundene Inneneinrichtung.
-- **Verkehr:** Straßennetzwerk vs. Autos und Lastkraftwagen im Einsatz.
-- **Energie:** Stromversorgungsnetz vs. angeschlossene Haushalts- und Bürogeräte.
+## Häufig gestellte Fragen
+**Sind Anwendung und Software identisch?**
+Eine Anwendung ist eine Teilmenge der Software. Jede Anwendung ist Software, nicht jede Software ist eine Anwendung.
 
-## Als Analogie
-Das Betriebssystem gleicht einem bezugsfertigen Haus mit Strom und Wasser; Anwendungen sind die Möbel und Geräte, die es erst bewohnbar und produktiv machen.
+**Wie aktualisiere ich Apps?**
+Automatisch oder manuell aus dem Laden. Web-Versionen werden beim Start aktualisiert.
 
-## Häufige Fragen
+**Was ist der Unterschied zwischen Web und Native?**
+Native ist schnell und vollständig autorisiert und erfordert keine Webinstallation. PWA holt auf.
 
-**Was unterscheidet Systemsoftware von Anwendungssoftware?**  
-Systemsoftware steuert Hardwarekomponenten und stellt Basisfunktionen bereit; Anwendungssoftware löst fachliche Aufgaben direkt für den menschlichen Anwender.
+**Ist der Laden notwendig?**
+Praktisch für die Verteilung, nicht zwingend erforderlich. Web- und Enterprise-Verteilung sind Alternativen.
 
-**Was zeichnet native Apps gegenüber Web-Apps aus?**  
-Native Anwendungen bieten maximale Ausführungsgeschwindigkeit und Hardwarezugriff; Web-Apps punkten durch Plattformunabhängigkeit im Browser.
-
-**Kann eine App ohne Betriebssystem laufen?**  
-Nur im industriellen Bare-Metal-Bereich oder als Unikernel; standardmäßige Verbraucher- und Unternehmenssoftware setzt zwingend OS-Systemaufrufe voraus.
-
-**Wie speichert eine Anwendung ihre Daten?**  
-Über lokale Konfigurationsdateien, eingebettete Datenbanken wie SQLite oder über gesicherte API-Schnittstellen zu verteilten Clouddatenbanken.
 
 ## Verwandte Begriffe
+- [User Interface](/de/dictionary/user-interface/)
+- [GUI](/de/dictionary/gui/)
 - [Runtime](/de/dictionary/runtime/)
-- [Softwarearchitektur](/de/dictionary/software-architecture/)
-- [Betriebssystem](/de/dictionary/operating-system/)
-- [Web-App](/de/dictionary/web-app/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/application/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/application/

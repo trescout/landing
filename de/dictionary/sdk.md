@@ -33,11 +33,11 @@ Es kann geschrieben werden, aber man muss alles von Grund auf programmieren, was
 - [Servers](/de/discover/servers/)
 - [Cline](/de/discover/cline/)
 - [OmniRoute](/de/discover/omniroute/)
+- [Sentry](/de/discover/sentry/)
 - [Freellmapi](/de/discover/freellmapi/)
 - [Opendataloader PDF](/de/discover/opendataloader-pdf/)
 - [CUA](/de/discover/cua/)
 - [iii](/de/discover/iii/)
-- [Logto](/de/discover/logto/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sdk/

@@ -1,31 +1,41 @@
 # Was ist Tutoring?
 
-Künstliche Intelligenz erklärt und leitet einen Schüler wie ein Privatlehrer.
+Nachhilfe (auf Türkisch, Privatunterricht oder Einzelberatung) ist ein personalisierter Unterrichtsprozess, der an den Wissensstand, die Defizite und die Geschwindigkeit des Verstehens eines Schülers angepasst ist.
 
-## Definition
-Auf künstlicher Intelligenz basierender Privatunterricht versteht das Niveau des Schülers, erkennt seine Mängel und erklärt das Thema in der am besten geeigneten Sprache. Es gibt nicht nur die Antwort, sondern lehrt den Schüler auch Schritt für Schritt, wie er die Frage lösen kann.
+## 1. Etymologischer Ursprung und grundlegende Definition: Was bedeutet Nachhilfe?
+Das Wort Nachhilfe leitet sich vom lateinischen Verb „tueri“ ab, was „beschützen, bewachen, bewachen und verteidigen“ bedeutet. Ins Anglo-Französische und Altenglische gelangte es als Wort „tutor“, das die Verantwortung eines Vormunds oder Führers beschreibt, und seit dem 16. Jahrhundert hat es in der Welt der Universitäten und Akademien die Identität „Privatlehrer, der den Studenten einzeln anleitet“ erlangt.
 
-## So funktioniert es
-Der Schüler stellt eine Frage oder wählt ein Thema. Durch die Betrachtung vergangener Lerndaten wählt die künstliche Intelligenz die beste Erzählmethode und startet einen interaktiven Dialog.
+## 2. Nachhilfe im täglichen Leben und im EdTech-Ökosystem
+Im täglichen Leben und in der digitalen Welt taucht der Begriff Nachhilfe in drei gängigen Formen auf:
 
-## Wo es eingesetzt wird
-Es wird in Bildungstechnologien (EdTech), Sprachlernanwendungen und Prüfungsvorbereitungsplattformen eingesetzt.
+## 3. Nachhilfe in Computertechnik und Architektur künstlicher Intelligenz (KI-Nachhilfe)
+Das Konzept der Nachhilfe in Informatik wurde mit den seit den 1970er Jahren entwickelten Intelligent Tutoring Systems (ITS) zum Leben erweckt. Heute arbeiten diese Systeme, kombiniert mit generativer künstlicher Intelligenz (LLM), nach komplexen Ingenieurprinzipien:
+
+## 4. Bildungswissenschaft und philosophische Dimension: Blooms 2-Sigma-Problem
+Eine berühmte Studie des Erziehungswissenschaftlers Benjamin Bloom aus dem Jahr 1984 (Bloom's 2 Sigma Problem) hat die Bedeutung des Nachhilfekonzepts in der Welt wissenschaftlich nachgewiesen:
 
 ## Häufig verwechselt mit
-Es kann einfach mit einer Frage und Antwort (Chatbot) verwechselt werden; Der Nachhilfeprozess umfasst einen Lehrplan und ein Lernziel.
 
 ## Häufige Fragen
-**Kann eine Person den Lehrer ersetzen?**
-Nicht ganz, aber es ist ein leistungsstarkes Hilfsmittel, das die Arbeit von Lehrern erleichtert.
+**Was bedeutet Nachhilfe? Was ist das türkische Äquivalent?**
+Das Wort Nachhilfe bedeutet auf Türkisch „privater Nachhilfeunterricht, Einzelberatung, privater Unterricht oder individuelles Mentoring“. Es ist lateinischen Ursprungs und beschreibt eine individuelle, an den Bedürfnissen des Schülers ausgerichtete Bildung.
 
-**Funktioniert es bei allem?**
-Ja, aber manchmal kann es bei Themen, die eine komplexe Logik erfordern, zu Fehlern kommen.
+**Wie funktioniert KI-Nachhilfe?**
+Anstatt die Antwort direkt zu geben, verwenden KI-Trainer die Methode des sokratischen Dialogs. Es erkennt fehlende Punkte mit Algorithmen zur Wissensverfolgung der Schüler und generiert Schritt-für-Schritt-Fragen, die an das Niveau des Schülers angepasst sind.
+
+**Was ist der Unterschied zwischen Nachhilfe und Unterricht?**
+Während es beim Unterrichten hauptsächlich darum geht, einer überfüllten Klasse nach einem Standardplan Informationen (eins zu vielen) zu vermitteln, handelt es sich beim Nachhilfeunterricht um einen personalisierten Eins-zu-eins-Prozess, der sich auf die Geschwindigkeit des Verstehens einer einzelnen Person konzentriert.
+
+**Was ist Blooms 2-Sigma-Problem und in welcher Beziehung steht es zum Nachhilfeunterricht?**
+Im Jahr 1984 zeigte Benjamin Bloom, dass ein Schüler, der Einzelunterricht erhielt, 98 % seiner Mitschüler in einem traditionellen Klassenzimmer übertraf (ein Unterschied von 2 Sigma). Auf künstlicher Intelligenz basierende Nachhilfesysteme zielen darauf ab, diesen großen Erfolg weltweit zu skalieren und für jedermann zugänglich zu machen.
 
 
 ## Verwandte Begriffe
 - [Personalized Tutoring](/de/dictionary/personalized-tutoring/)
 - [AI Companion](/de/dictionary/ai-companion/)
 - [Lifelong Learning](/de/dictionary/lifelong-learning/)
+- [Prompt Engineering](/de/dictionary/prompt-engineering/)
+- [Productivity](/de/dictionary/productivity/)
 
 ## Verwandte Werkzeuge
 - [DeepTutor](/de/discover/deeptutor/)

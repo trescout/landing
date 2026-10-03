@@ -2,7 +2,7 @@
 
 Claude Code-Vorlagen bieten eine Befehlszeilenschnittstelle (CLI) für das Claude Code-Tool, die die Konfiguration und Überwachung vereinfacht. Dieses Python-basierte Tool standardisiert die Kontrolle der Entwickler über den Codierungsassistenten und das Workflow-Management.
 
-- ★ 30.768
+- ★ 32.322
 - Python
 - GitHub Trending · 2026-07-11
 

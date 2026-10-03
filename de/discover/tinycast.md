@@ -2,7 +2,7 @@
 
 Tinycast ist ein leichter App-Launcher, Shortcut-Manager und Zwischenablage-Verlaufstool, das für das Betriebssystem macOS entwickelt wurde. Diese in Swift geschriebene native Software zielt darauf ab, Desktop-Workflows durch eine effiziente Nutzung der Systemressourcen zu beschleunigen.
 
-- ★ 7.552
+- ★ 7.971
 - Swift
 - GitHub Trending · 2026-09-18
 

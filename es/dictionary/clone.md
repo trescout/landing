@@ -40,8 +40,8 @@ Sí. Solo necesitas ejecutar git pull dentro de la carpeta. Si tienes cambios, p
 - [Univer](/es/discover/univer/)
 - [OpenStock](/es/discover/openstock/)
 - [Hermes WebUI](/es/discover/hermes-webui/)
-- [Flowsint](/es/discover/flowsint/)
 - [Production Agentic RAG Course](/es/discover/production-agentic-rag-course/)
+- [Flowsint](/es/discover/flowsint/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/clone/

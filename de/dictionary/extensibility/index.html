@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Extensibility? · Glossar · TreScout</title>
-<meta name="description" content="Erweiterbarkeit (Extensibility) ist ein Architekturprinzip der Softwaretechnik, das es ermöglicht, Anwendungen durch Module, Plugins und Schnittstellen um neue Funktionen zu ergänzen, ohne den bestehenden Kernquelltext zu modifizieren.">
+<meta name="description" content="Unter Erweiterbarkeit versteht man die Fähigkeit einer Software, mit Plug-Ins und Modulen neue Fähigkeiten zu erlangen, ohne ihren Hauptcode anzutasten.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/extensibility/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/extensibility/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/extensibility/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/extensibility.md">
 <meta property="og:title" content="Was ist Extensibility?">
-<meta property="og:description" content="Erweiterbarkeit (Extensibility) ist ein Architekturprinzip der Softwaretechnik, das es ermöglicht, Anwendungen durch Module, Plugins und Schnittstellen um neue Funktionen zu ergänzen, ohne den bestehenden Kernquelltext zu modifizieren.">
+<meta property="og:description" content="Unter Erweiterbarkeit versteht man die Fähigkeit einer Software, mit Plug-Ins und Modulen neue Fähigkeiten zu erlangen, ohne ihren Hauptcode anzutasten.">
 <meta property="og:url" content="https://trescout.com/de/dictionary/extensibility/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,61 +27,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Extensibility?">
-<meta name="twitter:description" content="Erweiterbarkeit (Extensibility) ist ein Architekturprinzip der Softwaretechnik, das es ermöglicht, Anwendungen durch Module, Plugins und Schnittstellen um neue Funktionen zu ergänzen, ohne den bestehenden Kernquelltext zu modifizieren.">
+<meta name="twitter:description" content="Unter Erweiterbarkeit versteht man die Fähigkeit einer Software, mit Plug-Ins und Modulen neue Fähigkeiten zu erlangen, ohne ihren Hauptcode anzutasten.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Extensibility",
-  "description": "Erweiterbarkeit (Extensibility) ist ein Architekturprinzip der Softwaretechnik, das es ermöglicht, Anwendungen durch Module, Plugins und Schnittstellen um neue Funktionen zu ergänzen, ohne den bestehenden Kernquelltext zu modifizieren.",
+  "description": "Unter Erweiterbarkeit versteht man die Fähigkeit einer Software, mit Plug-Ins und Modulen neue Fähigkeiten zu erlangen, ohne ihren Hauptcode anzutasten.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/extensibility/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech-Glossar",
+    "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/de/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Sollte jede Software von Beginn an erweiterbar sein?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Nein; verfrühte Erweiterbarkeitsschichten führen zu unnötiger Komplexität, wenn Anforderungen noch nicht klar umrissen sind."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Worin liegt der Unterschied zwischen Erweiterbarkeit und Wartbarkeit?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Wartbarkeit beschreibt die Leichtigkeit der Fehlerbehebung im bestehenden Code; Erweiterbarkeit beschreibt das Hinzufügen neuer Funktionen ohne Änderung des Kerns."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Wie schützt man das System vor fehlerhaften Plugins?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Indem Plugins in isolierten Sandboxes oder separaten Prozessen mit restriktiven Rechten ausgeführt werden."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Welche Aufgabe haben SDKs bei erweiterbaren Plattformen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sie bieten Drittentwicklern standardisierte Klassen und Typprüfungen zur sicheren Kommunikation mit dem Host-System."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,16 +56,18 @@
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
 <div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
-<h1 class="disc-title">Was ist Erweiterbarkeit (Extensibility)?</h1>
-<p class="dict-en">Englisch: Extensibility · Wortherkunft: lateinisch extendere (ausdehnen, spannen)</p>
-<p class="disc-lead">Erweiterbarkeit (Extensibility) ist ein Architekturprinzip der Softwaretechnik, das es ermöglicht, Anwendungen durch Module, Plugins und Schnittstellen um neue Funktionen zu ergänzen, ohne den bestehenden Kernquelltext zu modifizieren.</p>
-<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>Der Begriff geht auf das lateinische Wort extendere zurück, was ausdehnen bedeutet. In der Softwarearchitektur verkörpert dies das Open-Closed-Prinzip aus den SOLID-Leitsätzen: Systeme sollten offen für Erweiterungen, aber geschlossen für Änderungen sein. Anstatt neue Anforderungen direkt in das Fundament einzubauen, definieren Architekten Schnittstellen, an die Drittanbieter nahtlos andocken können.</p></section>
-<section class="disc-sec"><h2>Alltägliche Anwendung und Praxis</h2><p>Beispiele erweiterbarer Systeme im Entwickleralltag:</p><ul><li><strong>Code-Editoren:</strong> VS Code bleibt schlank und schnell, lässt sich jedoch durch Marktplatz-Erweiterungen für beliebige Programmiersprachen anpassen.</li><li><strong>Webbrowser:</strong> Firefox und Chrome ermöglichen die Installation von Werbeblockern und Passwort-Managern über offizielle Add-on-APIs.</li><li><strong>CMS-Plattformen:</strong> WordPress stützt seinen weltweiten Erfolg auf Hook-Mechanismen, über die tausende Plugins integriert werden.</li></ul></section>
-<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Wichtige Architekturmuster für echte Erweiterbarkeit:</p><ul><li><strong>Plugin- und Hook-Systeme:</strong> Feste Lebenszyklus-Ereignisse, an denen externe Skripte zusätzliche Logik einhängen können.</li><li><strong>Dependency Inversion:</strong> Nutzung abstrakter Interfaces zur Entkopplung von Aufrufer und konkreter Implementierung.</li><li><strong>Ereignisgesteuerte Pub/Sub-Muster:</strong> Das Kernsystem sendet Ereignisse, auf die registrierte Module unabhängig reagieren.</li><li><strong>WASM-Sandboxing:</strong> Sichere Ausführung von Fremdcode in isolierten Speicherräumen ohne Zugriff auf das Betriebssystem.</li></ul></section>
-<section class="disc-sec"><h2>Interdisziplinäre Perspektiven</h2><p>Vergleiche in anderen Lebensbereichen:</p><ul><li><strong>Bauwesen:</strong> Ein modulares Gebäude, dessen Statik das Aufsetzen weiterer Etagen erlaubt, ohne tragende Wände zu zerstören.</li><li><strong>Werkzeuge:</strong> Ein Akkuschrauber, auf den verschiedene Aufsätze zum Bohren, Sägen oder Polieren gesteckt werden.</li><li><strong>Brettspiele:</strong> Ein Grundspiel, dessen Regelwerk von vornherein für thematische Erweiterungspakete ausgelegt ist.</li></ul></section>
-<div class="dict-analogy">Es ist wie ein Schweizer Taschenmesser: Der Grundkörper bleibt kompakt und unverändert, bietet jedoch passgenaue Fächer, um je nach Bedarf Spezialwerkzeuge auszuklappen oder anzustecken.</div>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Sollte jede Software von Beginn an erweiterbar sein?</p><p class="dict-faq-a">Nein; verfrühte Erweiterbarkeitsschichten führen zu unnötiger Komplexität, wenn Anforderungen noch nicht klar umrissen sind.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Worin liegt der Unterschied zwischen Erweiterbarkeit und Wartbarkeit?</p><p class="dict-faq-a">Wartbarkeit beschreibt die Leichtigkeit der Fehlerbehebung im bestehenden Code; Erweiterbarkeit beschreibt das Hinzufügen neuer Funktionen ohne Änderung des Kerns.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie schützt man das System vor fehlerhaften Plugins?</p><p class="dict-faq-a">Indem Plugins in isolierten Sandboxes oder separaten Prozessen mit restriktiven Rechten ausgeführt werden.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Welche Aufgabe haben SDKs bei erweiterbaren Plattformen?</p><p class="dict-faq-a">Sie bieten Drittentwicklern standardisierte Klassen und Typprüfungen zur sicheren Kommunikation mit dem Host-System.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/plugin/">Plugin</a><a href="/de/dictionary/emitter/">Emitter</a><a href="/de/dictionary/tools/">Tools</a></div></section>
+<h1 class="disc-title">Was ist <span class="disc-accent">Extensibility</span>?</h1>
+<p class="disc-lead">Unter Erweiterbarkeit versteht man die Fähigkeit einer Software, mit Plug-Ins und Modulen neue Fähigkeiten zu erlangen, ohne ihren Hauptcode anzutasten.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>Der Begriff „Extensibility“ leitet sich vom englischen Wurzelwort „extend“ ab. Es hängt eng mit dem Open-Closed-Prinzip in der Softwareentwicklung zusammen: Ein Modul sollte offen für Erweiterungen, aber geschlossen für Änderungen sein. Wenn also eine neue Funktion benötigt wird, fügen Sie dem System einfach einen neuen Teil hinzu, anstatt den vorhandenen Code zu zerstören.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Es ist wie ein Schweizer Taschenmesser; Der Körper bleibt derselbe, Sie können einen neuen Schraubenzieher- oder Taschenlampeneinsatz hinzufügen.</div>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p>Als Endbenutzer stoßen Sie täglich auf Erweiterbarkeit:</p><p><strong>Browser-Add-ons:</strong> Installieren Sie einen Werbeblocker oder Passwort-Manager in Ihrem Browser.<br><strong>Editor-Plugins:</strong> Sie müssen das Python- oder Prettier-Plugin in VS Code hinzufügen.<br><strong>Inhaltssysteme:</strong> Installieren Sie ein Kontaktformular oder ein Caching-Plugin auf Ihrer WordPress-Site.<br><strong>Design-Tools:</strong> Sie installieren ein fertiges Komponentenpaket aus der Figma-Community.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Der Kern eines erweiterbaren Systems ist klein, seine Umgebung wächst durch Erweiterungen. Typische Teile dieser Architektur sind:</p><p><strong>Plugin-Schnittstelle (Plugin-API):</strong> Es ist die kontrollierte Tür, die der Kernel für Erweiterungen öffnet. Das Plugin berührt das System nur über diese Schnittstelle.<br><strong>Hook- und Event-System (Hooks &amp; Events):</strong> Der Kernel sendet zu bestimmten Zeitpunkten Ereignisse. Plugins abonnieren diese Ereignisse.<br><strong>Manifestdatei (Manifest):</strong> Jedes Plugin enthält eine kleine Datei, die seinen Namen, seine Version und die angeforderten Berechtigungen angibt. Das System installiert das Plugin nicht, das den Regeln nicht entspricht.<br><strong>Sandbox und Berechtigungen:</strong> Der Zugriff auf Plugins ist begrenzt. Auf diese Weise kann ein fehlerhaftes Plugin nicht das gesamte System zum Absturz bringen.<br><strong>Versionskompatibilität:</strong> Die Schnittstelle muss beim Aktualisieren des Kernels abwärtskompatibel bleiben. Andernfalls gehen die Plugins kaputt.</p><p>Hier ist ein kleines Beispiel, eine typische Plugin-Deklaration:</p><pre><code>{
+  "name": "ornek-eklenti",
+  "version": "1.0.0"
+}</code></pre></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Architektur:</strong> Vorgefertigte Strukturen, bei denen neue Module hinzugefügt werden können, ohne die tragenden Wände zu berühren.<br><strong>Produktion:</strong> Küchenmaschinen, bei denen verschiedene Aufsätze am selben Gehäuse befestigt werden können.<br><strong>Spiel:</strong> Mod-Communitys, die neue Karten und Missionen hinzufügen, ohne das Hauptspiel zu ändern.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Ist jede Software erweiterbar?</p><p class="dict-faq-a">Nein. Wenn die Software nicht von Anfang an mit dieser Flexibilität ausgestattet ist, ist das spätere Hinzufügen von Plug-in-Unterstützung oft teuer und riskant.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist der Unterschied zwischen einem Plugin und einem Fork?</p><p class="dict-faq-a">Sie kopieren nicht den Hauptcode im Plugin, sondern stellen von außen eine Verbindung zum System her. Beim Forken kopieren Sie den gesamten Code und wechseln zu einem separaten Pfad.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sind Plugins sicher?</p><p class="dict-faq-a">Es variiert je nach Quelle. Wählen Sie aktuelle und weit verbreitete Plugins aus offiziellen Stores. Seien Sie vorsichtig bei Plugins, die unnötige Berechtigungen anfordern.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Reduziert Erweiterbarkeit die Leistung?</p><p class="dict-faq-a">Jedes Plugin verursacht eine gewisse Belastung. Wenn Sie wenige und gut gepflegte Plug-Ins verwenden, ist der Effekt oft nicht spürbar.</p></div></div></section>
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/plugin/">Plugin</a><a href="/de/dictionary/api/">API</a><a href="/de/dictionary/framework/">Framework</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="extensibility" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/extensibility/">Auf Türkisch lesen →</a></p>
 </article>

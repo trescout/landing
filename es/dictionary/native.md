@@ -28,8 +28,8 @@ Por lo general, funcionan dentro de un navegador o a través de una capa de trad
 
 ## Herramientas relacionadas
 - [Meshery](/es/discover/meshery/)
-- [Stitch Skills](/es/discover/stitch-skills/)
 - [Tinycast](/es/discover/tinycast/)
+- [Stitch Skills](/es/discover/stitch-skills/)
 - [Agent Native](/es/discover/agent-native/)
 
 ---
