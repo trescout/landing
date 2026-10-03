@@ -1,43 +1,43 @@
-# ¿Qué es AGI?
+# ¿Qué es la AGI?
 
-> Artificial General Intelligence
+> Inteligencia Artificial General
 
-AGI (Inteligencia Artificial General) es la inteligencia objetivo que realiza cualquier tarea intelectual al nivel humano.
+La AGI (Artificial General Intelligence, inteligencia artificial general) es el objetivo de desarrollar una IA capaz de comprender, aprender y ejecutar cualquier tarea intelectual al nivel humano o superior.
 
-## Definición y origen de la palabra
-Los modelos actuales son especialistas estrechos, la AGI es versátil: aprende en áreas que no ha visto, cambia de estrategia. El horizonte de las investigaciones está todavía más allá de los productos.
+## Definición y etimología
+A diferencia de los modelos actuales, que son especialistas estrechos entrenados para funciones acotadas, la AGI es intrínsecamente versátil: adquiere destrezas en entornos desconocidos, adapta sus estrategias de razonamiento y transfiere conocimientos entre disciplinas. Es el horizonte de la investigación en IA.
 
-## ¿Cómo saberlo y utilizarlo en la vida diaria?
-Investigación: Objetivo de la hoja de ruta.Política: Debate sobre la regulación.Educación: Filosofía del currículo.
+## Contexto cotidiano y uso práctico
+Investigación de Frontera: El hito fundamental que define las hojas de ruta y la arquitectura de supercómputo.Políticas y Regulación: El núcleo de los debates legislativos globales, tratados de seguridad y comités de ética.Educación: El replanteamiento pedagógico de qué habilidades analíticas y creativas deben fomentarse.
 
 ## Profundidad técnica y arquitectura
-Distinciones:
+Diferencias Arquitectónicas Clave:
 
-## Cosas frecuentemente mezcladas
-Se cree que son modelos de lenguaje. Son especialistas limitados, este es el objetivo general. Uno es un atleta, el otro es el sueño olímpico.
+## Suele confundirse con
+Se confunde a menudo con los modelos de lenguaje (LLM). Los LLM actuales son herramientas formidables pero limitadas a la predicción probabilística de tokens; la AGI es la meta sistémica completa. Uno es un atleta consumado, la otra es el ideal olímpico entero.
 
-## Uso en diferentes disciplinas
-Ajedrez: Maestro de un solo juego.Cocinero: Cocina general.Poeta: Lenguaje general.
+## Perspectivas interdisciplinares
+Ajedrecista: Maestría indiscutible en un tablero con reglas fijas.Cocinero: Capacidad de improvisación y gestión sensorial integral.Poeta: Síntesis emocional, creatividad y sutileza conceptual.
 
 ## Preguntas frecuentes
-**¿Cómo se entiende?**
-Se acerca cuando demuestra experiencia sin ayuda en un nuevo campo.
+**¿Cómo sabremos que se ha alcanzado la AGI?**
+Se constatará cuando un sistema autónomo demuestre pericia de nivel experto y capacidad de innovación en disciplinas teóricas y prácticas que nunca conoció durante su entrenamiento.
 
-**¿Es peligroso?**
-La auditabilidad es controvertida. La investigación de seguridad la acompaña.
+**¿Implica la AGI un peligro existencial?**
+El control y la alineación de valores son materias de rigurosa investigación; garantizar la seguridad y auditabilidad de los sistemas debe preceder a su despliegue autónomo.
 
-**¿Cuándo llegará?**
-No se sabe. Las estimaciones son dispersas, los criterios son claros.
+**¿Cuándo se hará realidad la AGI?**
+Las estimaciones de los expertos oscilan entre pocos años y varias décadas; mientras los calendarios son especulativos, las métricas de evaluación son claras y rigurosas.
 
-**¿Terminará el trabajo?**
-Lo transforma. La rutina se disuelve, la supervisión y la creatividad permanecen.
+**¿Acabará la AGI con el empleo?**
+Transformará el mercado laboral. Los procesos mecánicos y analíticos rutinarios se automatizarán, potenciando el criterio humano, la supervisión ética y la innovación conceptual.
 
 
 ## Términos relacionados
 - [World Model](/es/dictionary/world-model/)
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Foundation Model](/es/dictionary/foundation-model/)
-- [Artificial Intelligence](/es/dictionary/artificial-intelligence/)
+- [Inteligencia Artificial](/es/dictionary/artificial-intelligence/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agi/

@@ -1,41 +1,43 @@
-# Was ist Digital Twin?
+# Was ist ein Digitaler Zwilling?
 
-Der digitale Zwilling ist eine Kopie des Objekts, die mit Live-Daten gespeist wird.
+> Digital Twin / Digitaler Zwilling
+
+Ein digitaler Zwilling (digital twin) ist das dynamische virtuelle Abbild eines physischen Objekts oder Prozesses, das über kontinuierliche Echtzeit-Sensordaten und Simulationsmodelle synchronisiert wird.
 
 ## Definition und Wortherkunft
-„Twin“ bedeutet Zwilling. Sensordaten fließen vom realen Objekt, das Modell simuliert das Verhalten. Fehlfunktionen und Leistung sind vorhersehbar. Er leitet Fabrik- und Stadtjobs.
+Das Wort Zwilling beschreibt die unmittelbare Kopplung. IoT-Sensoren an Maschinen übermitteln kontinuierlich Messwerte wie Druck, Vibration und Temperatur an das digitale Modell. Dieses simuliert Belastungen und prognostiziert Ausfälle, bevor Schäden in der Realität eintreten.
 
-## Wie kann man es kennen und im täglichen Leben anwenden?
-Fabrik: Wartungsvoranschlag.Stadt: Verkehrssimulation.Energie: Turbinenüberwachung.
+## Alltägliche Anwendung und Praxis
+Industrie 4.0: Vorausschauende Wartung (Predictive Maintenance) komplexer Fertigungsstraßen.Smart Cities: Echtzeit-Simulation von Verkehrsströmen und kommunaler Energieverteilung.Energiewirtschaft: Zustandsüberwachung von Windkraftanlagen unter extremen Witterungsbedingungen.
 
 ## Technische Tiefe und Architektur
-Stream:
+Telemetrie-Verarbeitungsablauf:
 
-## Häufig gemischte Dinge
-Es wird mit einem 3D-Modell verwechselt. Das ist das statische Bild, das ist das lebende System. Das eine ist ein Foto, das andere ein Spiegel.
+## Häufig verwechselt mit
+Wird häufig mit einem statischen 3D-CAD-Modell verwechselt. Ein CAD-Entwurf ist eine unbewegliche Zeichnung; der digitale Zwilling ist ein lebendiges Softwaresystem mit echtem Betriebszustand. Das eine ist ein Foto, das andere ein Spiegel.
 
-## Einsatz in verschiedenen Disziplinen
-Flugzeug: Mitflug in der Luft und in der Simulation.Spiegel: Eine Oberfläche, die Bewegung widerspiegelt.Schatten: Dunkelheit folgt dem Objekt.
+## Interdisziplinäre Perspektiven
+Flugzeugbau: Ein simulierter Flugzeugzwilling, der synchron mit der echten Maschine alle Belastungen spiegelt.Spiegelbild: Eine reflektierende Fläche, die jede physische Bewegung sofort wiedergibt.Schatten: Eine Projektion, die jeder Bewegung des Körpers unweigerlich folgt.
 
-## Häufig gestellte Fragen
-**Was ist der Simulationsunterschied?**
-Die Simulation läuft einmal, der Zwilling wird lebendig gefüttert. Das eine ist Film, das andere wird ausgestrahlt.
+## Häufige Fragen
+**Worin liegt der Unterschied zur gewöhnlichen Simulation?**
+Eine klassische Simulation testet theoretische Szenarien; der digitale Zwilling ist permanent mit einer realen Maschine im Betrieb verbunden.
 
-**Kann alles einen Zwilling haben?**
-Theoretisch ja, in der Praxis bestimmen Kosten und Daten.
+**Lohnt sich ein digitaler Zwilling für jede Anlage?**
+Nein. Die hohen Sensor- und Modellierungskosten amortisieren sich vor allem bei kapitalintensiven Industrieanlagen und kritischer Infrastruktur.
 
-**Wie hoch sind die Kosten?**
-Es fällt eine Sensor-, Modell- und Wartungsgebühr an. Es wird der Verschuldensgewinn vergütet.
+**Was sind die größten Kostentreiber?**
+Die Anschaffung und Kalibrierung robuster Industrie-Sensorik sowie die Bereitstellung hochverfügbarer Cloud-Telemetrie-Pipelines.
 
-**Wo wird es verwendet?**
-In Fabrik, Stadt und Energie. Das kritische Gut steht an erster Stelle.
+**Was ist der zentrale wirtschaftliche Nutzen?**
+Die drastische Reduktion ungeplanter Stillstandszeiten und die punktgenaue Planung von Reparaturintervallen.
 
 
 ## Verwandte Begriffe
-- [World Model](/de/dictionary/world-model/)
+- [Weltmodelle](/de/dictionary/world-model/)
 - [Observability](/de/dictionary/observability/)
-- [Data Pipeline](/de/dictionary/data-pipeline/)
-- [Artificial Intelligence](/de/dictionary/artificial-intelligence/)
+- [Daten-Pipeline](/de/dictionary/data-pipeline/)
+- [Künstliche Intelligenz](/de/dictionary/artificial-intelligence/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/digital-twin/

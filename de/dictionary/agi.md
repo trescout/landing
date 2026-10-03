@@ -1,43 +1,41 @@
 # Was ist AGI?
 
-> Artificial General Intelligence
-
-AGI (Künstliche Allgemeine Intelligenz) ist die gezielte Intelligenz, die jede intellektuelle Arbeit auf menschlicher Ebene erledigt.
+AGI (Artificial General Intelligence, Allgemeine Künstliche Intelligenz) beschreibt eine hypothetische KI, die jede intellektuelle Aufgabe auf oder über dem Niveau des Menschen verstehen, erlernen und bewältigen kann.
 
 ## Definition und Wortherkunft
-Heutige Modelle sind eng spezialisiert, AGI ist vielseitig: Es lernt in dem Feld, das es nicht sieht, ändert Strategien. Der Forschungshorizont geht über Produkte hinaus.
+Während heutige Systeme hochgradig spezialisierte Werkzeuge für abgegrenzte Aufgaben sind, zeichnet sich AGI durch universelle Anpassungsfähigkeit aus: Sie lernt autonom in neuen Domänen, überträgt Wissen fachübergreifend und passt Strategien ohne Neuprogrammierung an. Sie markiert die langfristige Vision der KI-Forschung.
 
-## Wie kann man es kennen und im täglichen Leben anwenden?
-Forschung: Roadmap-Ziel.Politik: Bearbeitungsdiskussion.Training: Lehrplanphilosophie.
+## Alltägliche Anwendung und Praxis
+Spitzenforschung: Der entscheidende Meilenstein hinter strategischen Entwicklungsplänen und Rechenclustern.Politik & Regulatorik: Im Zentrum globaler Sicherheitsdebatten, Richtlinien und Ausrichtungsstandards.Bildung: Der Anstoß, menschliche Urteilskraft und kreative Problemlösungskompetenz neu zu definieren.
 
 ## Technische Tiefe und Architektur
-Auszeichnungen:
+Architektonische Unterscheidungsmerkmale:
 
-## Häufig gemischte Dinge
-Sie gelten als Sprachmodelle. Sie sind eng spezialisiert, das ist das allgemeine Ziel. Der eine ist Sportler, der andere ein olympischer Traum.
+## Häufig verwechselt mit
+Wird häufig mit großen Sprachmodellen (LLMs) verwechselt. Aktuelle LLMs sind leistungsstarke, aber spezialisierte Token-Vorhersagesysteme; AGI ist das ganzheitliche kognitive Ziel. Das eine ist ein einzelner Rekordläufer, das andere die olympische Idee in ihrer Gesamtheit.
 
-## Einsatz in verschiedenen Disziplinen
-Schach: Ein Spielleiter.Küchenchef: Küche insgesamt.Dichter: Sprache im Allgemeinen.
+## Interdisziplinäre Perspektiven
+Schachgroßmeister: Perfekte Beherrschung eines deterministischen Regelwerks.Chefkoch: Sensorische und praktische Anpassungsfähigkeit in komplexen Umgebungen.Dichter: Subtile sprachliche und kreative Synthese.
 
-## Häufig gestellte Fragen
-**Wie ist das zu verstehen?**
-Sie werden angesprochen, wenn Sie selbständiges Fachwissen in einem neuen Bereich nachweisen.
+## Häufige Fragen
+**Woran wird man echte AGI erkennen?**
+AGI ist erreicht, wenn ein autonomes System in vollkommen neuen wissenschaftlichen und handlungsorientierten Bereichen ohne menschliche Hilfe verlässliche Spitzenleistungen erbringt.
 
-**Ist es gefährlich?**
-Überprüfbarkeit ist umstritten. Begleitet von einer Sicherheitsüberprüfung.
+**Ist AGI eine existenzielle Bedrohung?**
+Kontrollierbarkeit und Werteausrichtung (Alignment) sind Kernfragen der aktuellen Forschung; Sicherheitsaudits müssen mit technologischen Fortschritten Schritt halten.
 
-**Wann kommt es?**
-Unbekannt. Vorhersagen sind chaotisch, Kennzahlen sind klar.
+**Wann ist mit AGI zu rechnen?**
+Expertenprognosen reichen von wenigen Jahren bis zu Jahrzehnten; Zeitachsen bleiben spekulativ, die wissenschaftlichen Kriterien sind jedoch präzise definiert.
 
-**Erledigt es die Arbeit?**
-Es verwandelt sich. Die Routine löst sich auf, Kontrolle und Gestaltung bleiben bestehen.
+**Wird AGI menschliche Arbeitsplätze verdrängen?**
+Sie wird die Arbeitswelt grundlegend transformieren. Routineaufgaben automatisieren sich, wodurch menschliche Führung, Empathie und strategisches Urteilsvermögen an Bedeutung gewinnen.
 
 
 ## Verwandte Begriffe
 - [World Model](/de/dictionary/world-model/)
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Foundation Model](/de/dictionary/foundation-model/)
-- [Artificial Intelligence](/de/dictionary/artificial-intelligence/)
+- [Künstliche Intelligenz](/de/dictionary/artificial-intelligence/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agi/
