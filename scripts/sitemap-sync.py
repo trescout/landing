@@ -13,7 +13,12 @@ Mevcut girdilerin lastmod'una yalnız ilgili HTML veya aydınlatma sayfası ger�
 HEAD'e göre değişmişse dokunur. Böylece her çalıştırmada tüm arşivin tarihi
 tazelenmiş gibi görünmez.
 
-Kullanım: python3 scripts/sitemap-sync.py [--dry]
+--onar: TEK SEFERLİK. Her URL'nin lastmod'unu sayfasını değiştiren SON commit'in
+tarihine çeker (tam git geçmişi ister · `git fetch --unshallow`). Eski sıralama
+hatası yüzünden toplu bugüne çekilmiş tarihleri düzeltir. Tarihi gerçekten
+değişmeyen sayfalar eski tarihine döner, idempotent.
+
+Kullanım: python3 scripts/sitemap-sync.py [--dry] [--onar]
 """
 import os, re, sys, glob, datetime, subprocess
 
@@ -100,6 +105,27 @@ def disk_urls():
     return out
 
 
+def son_degisim_tarihleri():
+    """URL → sayfasını değiştiren son commit'in tarihi (tek git log geçişi)."""
+    if subprocess.check_output(["git", "rev-parse", "--is-shallow-repository"], cwd=ROOT, text=True).strip() == "true":
+        sys.exit("✗ sığ klon · önce `git fetch --unshallow`")
+    out = subprocess.check_output(
+        ["git", "log", "--format=%x00%cs", "--name-only", "--no-renames"], cwd=ROOT, text=True)
+    tarih, sonuc = None, {}
+    for satir in out.splitlines():
+        if satir.startswith("\x00"):
+            tarih = satir[1:]
+        elif satir.endswith("index.html") or satir.endswith("privacy.html"):
+            if satir == "index.html":
+                url = "/"
+            elif satir.endswith("/index.html"):
+                url = f"/{satir[:-len('/index.html')]}/"
+            else:
+                url = f"/{satir}"
+            sonuc.setdefault(url, tarih)  # log yeniden eskiye · ilk görülen en yeni
+    return sonuc
+
+
 def main():
     sm = open(SITEMAP, encoding="utf-8").read()
     bloklar = re.findall(r"  <url>.*?</url>\n", sm, re.S)
@@ -119,6 +145,15 @@ def main():
         blok = mevcut[u]
         if re.search(r"<lastmod>[^<]+</lastmod>", blok):
             yeni_blok = re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{TODAY}</lastmod>", blok, count=1)
+            if yeni_blok != blok:
+                mevcut[u] = yeni_blok
+                tazelenen.append(u)
+
+    if "--onar" in sys.argv:
+        gercek = son_degisim_tarihleri()
+        for u in sorted(set(mevcut) & set(gercek)):
+            blok = mevcut[u]
+            yeni_blok = re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{gercek[u]}</lastmod>", blok, count=1)
             if yeni_blok != blok:
                 mevcut[u] = yeni_blok
                 tazelenen.append(u)
