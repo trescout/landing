@@ -1,32 +1,40 @@
 # Was ist Endpoint?
 
-Dabei handelt es sich um Endgeräte wie Computer, Telefone oder Tablets, die mit dem Netzwerk verbunden sind.
+Ein Endpoint (auf Deutsch Endpunkt) ist das Gerät am Benutzerende des Netzwerks oder das API-Ende.
 
-## Definition
-Geräte, die das Ende eines Netzwerks erreichen und mit denen der Benutzer direkt interagiert, werden Endpunkte genannt. Informationen enden bzw. beginnen an diesen Geräten. In der Sicherheitswelt gelten sie als äußerste Verteidigungslinie des Netzwerks.
+## Definition und Wortherkunft
+Endpunkt bedeutet Endpunkt. Er hat zwei Bedeutungen: das physische Endgerät und den API-Endpunkt in der Software. Informationen enden auf dem Gerät oder werden am API-Endpunkt empfangen. In der Sicherheit ist er die äußere Verteidigungslinie.
 
-## So funktioniert es
-Diese Geräte verbinden sich mit einem Netzwerk und tauschen Daten aus. Sicherheitssoftware überwacht diese Geräte ständig, um sie zu schützen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Institutionell: Laptop- und Telefonflotte.Zuhause: Intelligente Geräte.API: Anwendungsendpunkte für Anfragen.
 
-## Wo es eingesetzt wird
-Es findet sich in Unternehmensnetzwerken, Heim-Smart-Geräten und Serversystemen.
+## Technische Tiefe und Architektur
+Zwei Seiten:
 
-## Häufig verwechselt mit
-Kann mit Server verwechselt werden; Der Server ist das Zentrum des Netzwerks und der Endpunkt ist der Ort, an dem sich der Benutzer befindet.
+## Häufig gemischte Dinge
+Wird für den Server gehalten. Der Server ist das Zentrum, der Endpunkt liegt beim Benutzer. Er wird auch mit dem API-Endpunkt verwechselt: Jener ist die Adresse, dieser ist das Gerät.
 
-## Häufige Fragen
-**Warum ist Endpunktsicherheit wichtig?**
-Denn die meisten Cyberangriffe beginnen damit, dass sie über einen schlecht geschützten Computer oder ein schlecht geschütztes Telefon in das Netzwerk eindringen.
+## Einsatz in verschiedenen Disziplinen
+Adresse: Die Tür, an der das Paket ankommt.Haltestelle: Der Endpunkt der Leitung.Türnummer: Die Adresse der Wohnung.
+
+## Häufig gestellte Fragen
+**Warum ist Sicherheit wichtig?**
+Der Angriff erfolgt über den Endpunkt. Patching und Überwachung sind die erste Verteidigungslinie.
+
+**Was ist ein API-Endpunkt?**
+Es ist eine aufrufbare Adresse. Anfragen werden über Methoden und Pfade entgegengenommen.
+
+**Wie schützt man ihn?**
+Durch Patching, Verschlüsselung und das Prinzip der geringsten Rechte. EDR-Überwachung wird hinzugefügt.
+
+**Was ist der Unterschied zum Server?**
+Der Server stellt Dienste zentral bereit, der Endpunkt konsumiert sie am Rand.
 
 
 ## Verwandte Begriffe
 - [Network Stack](/de/dictionary/network-stack/)
 - [VPN](/de/dictionary/vpn/)
 - [Security Scanner](/de/dictionary/security-scanner/)
-
-## Verwandte Werkzeuge
-- [OmniRoute](/de/discover/omniroute/)
-- [Freellmapi](/de/discover/freellmapi/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/endpoint/

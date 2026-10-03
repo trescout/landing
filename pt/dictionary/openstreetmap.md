@@ -1,48 +1,37 @@
-# O que é OpenStreetMap (OSM)?
+# O que é OpenStreetMap?
 
-> Inglês: OpenStreetMap · Etimologia: inglês open (aberto) + street (rua) + map (mapa)
+OpenStreetMap (ou simplesmente OSM) é um mapa do mundo livre e aberto, desenhado de forma colaborativa por voluntários.
 
-**Categoria:** Data  
-**Última atualização:** 2026-09-22
+## Definição e origem da palavra
+O projeto foi iniciado em 2004. Ao contrário dos mapas comerciais, os dados não são produzidos por uma empresa, mas por uma comunidade de voluntários: qualquer pessoa pode adicionar novas estradas, edifícios ou pontos de interesse, e corrigir erros. Os dados estão disponíveis para todos sob a licença ODbL. Isso significa que você pode usar os dados gratuitamente, mas deve citar a fonte ao compartilhá-los.
 
-OpenStreetMap (OSM) é um projeto colaborativo global que constrói e distribui uma base de dados geográficos livre e aberta de todo o planeta, mantida por milhões de mapeadores voluntários.
+## Como conhecer e usar no dia a dia?
+Aplicativos de navegação: Aplicativos como OsmAnd e MAPS.ME obtêm seus mapas a partir de dados do OSM.Logística: Planejamento de rotas para empresas de distribuição.Ajuda em desastres: Mapeamento rápido de zonas de crise por voluntários (por exemplo, a comunidade HOT).Planejamento urbano: Análises de ciclovias e áreas verdes.
 
-## Definição e etimologia
-Criado em 2004 por Steve Coast em resposta aos altos custos e restrições de licença dos mapas proprietários, o OpenStreetMap é frequentemente chamado de a Wikipédia dos mapas. Em vez de vender imagens estáticas ou cobrar por requisições de API, o projeto compartilha dados espaciais brutos sob a licença aberta ODbL.
+## Profundidade Técnica e Arquitetura
+Os dados do OSM consistem em três blocos de construção:
 
-## Contexto cotidiano e uso prático
-Casos concretos de uso do OSM :
-- **Navegação sem Internet:** Aplicativos como Organic Maps, MAPS.ME e OsmAnd que funcionam integralmente com mapas baixados localmente.- **Plataformas Globais:** Strava, Mapbox e grandes corporações integram ruas e trilhas do OSM em seus produtos.- **Mapeamento Humanitário:** O coletivo HOT mapeia vilarejos atingidos por desastres naturais para direcionar equipes de resgate.
+## Use em diferentes disciplinas
+Enciclopédia: O modelo da Wikipedia, onde todos escrevem e corrigem.Software de código aberto: O kernel Linux, que cresce com contribuições voluntárias.Ciência cidadã: A coleta de registros de observação de aves em um banco de dados comum.
 
-## Profundidade técnica e arquitetura
-O modelo conceitual do OSM é composto por três elementos :
-- **Nó (Node):** Ponto individual com coordenadas geográficas de latitude e longitude.- **Caminho (Way):** Lista ordenada de nós formando uma linha contínua (estrada, ferrovia) ou um polígono fechado (edifício, praça).- **Relação (Relation):** Estrutura hierárquica que agrupa nós e caminhos para representar itinerários de ônibus ou limites administrativos.- **Tags de Chave e Valor:** Atributos descritivos padronizados (ex: building=hospital, maxspeed=60).
+## Perguntas Frequentes
+**É realmente gratuito?**
+Os dados são gratuitos sob a licença ODbL. Se você os hospedar em seu próprio servidor, não pagará taxas adicionais. Empresas que oferecem serviços de blocos (tiles) prontos podem cobrar taxas separadamente.
 
-## Perspectivas interdisciplinares
-Iniciativas semelhantes no campo dos bens comuns :
-- **Enciclopedismo Aberto:** O processo editorial descentralizado da Wikipédia.- **Ecossistema Open Source:** O desenvolvimento do kernel Linux sustentado por milhares de desenvolvedores no mundo.- **Ciência Cidadã:** Projetos voluntários de observação astronômica e monitoramento de qualidade do ar.
+**Qual é a diferença em relação ao Google Maps?**
+No Google Maps, a empresa produz os dados e os vincula a cotas de API. No OSM, a comunidade produz os dados, e você pode baixar os dados brutos e processá-los sem limites.
 
-## Por analogia
-É como a Wikipédia dos mapas do mundo: qualquer pessoa que veja uma nova ciclovia ou note um nome de rua errado pode entrar, ajustar o mapa e beneficiar toda a comunidade mundial.
+**Como posso contribuir para o mapa?**
+Você pode criar uma conta e começar com o editor iD no navegador. Adicionar uma loja que falta na sua rua é um bom primeiro passo.
 
-## Perguntas frequentes
+**Posso usar no meu produto comercial?**
+Sim, mas devido à ODbL, você deve fornecer a atribuição do OpenStreetMap de forma visível e compartilhar os dados derivados sob a mesma licença.
 
-**O OpenStreetMap é gratuito para empresas comerciais?**  
-Sim; a licença ODbL permite o uso corporativo e lucrativo, exigindo apenas a menção dos créditos ao projeto.
-
-**Como a precisão dos mapas é garantida?**  
-Por meio de validações automáticas, fotos de satélite autorizadas e revisão mútua entre mapeadores locais.
-
-**Posso montar meu próprio servidor de mapas com dados OSM?**  
-Sim; ferramentas abertas como PostGIS e geradores de tiles permitem criar infraestruturas cartográficas totalmente independentes.
-
-**Qual a diferença entre OSM e Google Maps?**  
-O Google Maps é uma plataforma proprietária de consulta fechada; o OSM é um banco de dados geográfico aberto que você pode baixar e reutilizar livremente.
 
 ## Termos relacionados
 - [Data Pipeline](/pt/dictionary/data-pipeline/)
-- [Open Source](/pt/dictionary/open-source/)
-- [API](/pt/dictionary/api/)
+- [OSINT](/pt/dictionary/osint/)
+- [Graph-based Investigation](/pt/dictionary/graph-based-investigation/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/openstreetmap/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/openstreetmap/

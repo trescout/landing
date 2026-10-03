@@ -40,8 +40,8 @@ Sim. Basta executar git pull dentro da pasta. Se você tiver alterações, prime
 - [Univer](/pt/discover/univer/)
 - [OpenStock](/pt/discover/openstock/)
 - [Hermes WebUI](/pt/discover/hermes-webui/)
-- [Flowsint](/pt/discover/flowsint/)
 - [Production Agentic RAG Course](/pt/discover/production-agentic-rag-course/)
+- [Flowsint](/pt/discover/flowsint/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/clone/

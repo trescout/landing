@@ -2,11 +2,12 @@
 
 RustFS, S3 uyumlu yüksek performanslı bir nesne depolama sistemi (object storage system) olarak geliştirildi. MinIO ve Ceph gibi diğer S3 uyumlu platformlarla birlikte çalışabilme ve veri taşıma desteği sunuyor.
 
-- ★ 33.264
+- ★ 34.330
 - Rust
 - GitHub Trending · 2026-09-19
 
 ## Güncelleme
+- 3 Ekim 2026: Yıldız 33.264 → 34.330, son sürüm 1.0.1 (3 Ekim 2026).
 - 19 Eylül 2026: Yıldız 33.264 → 33.264, son sürüm 1.0.0 (16 Eylül 2026).
 
 ## Ne kazandırır?

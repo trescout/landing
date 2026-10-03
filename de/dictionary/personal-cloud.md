@@ -1,34 +1,40 @@
 # Was ist Personal Cloud?
 
-Dabei handelt es sich um die Speicherung persönlicher Dateien in einem privaten Bereich, auf die von überall über das Internet zugegriffen werden kann.
+Personal Cloud ist ein Cloud-Modell, bei dem die Daten auf dem eigenen Gerät gespeichert werden.
 
-## Definition
-Mit einer persönlichen Cloud können Sie Ihre Daten auf einem Gerät oder einem privaten Bereich speichern, den Sie kontrollieren, und nicht auf den Servern großer Unternehmen. Auf diese Weise haben Sie die volle Kontrolle über Ihre Daten. Sie können von überall mit einer Internetverbindung auf Ihre Dateien zugreifen.
+## Definition und Wortherkunft
+Anstelle eines großen Unternehmensservers wird Ihr eigenes Gerät verwendet. Sie können von überall dort, wo es Internet gibt, auf Ihre Dateien zugreifen und haben die volle Kontrolle. Es eignet sich für Fotos, Backups und Medien.
 
-## So funktioniert es
-Die Installation erfolgt normalerweise über ein NAS-Gerät zu Hause oder einen persönlichen Server. Dank einer speziellen Software können Sie von Ihrem Telefon oder Computer aus eine Verbindung zu diesem Bereich herstellen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Foto: Familienarchiv.Freigabe: Senden per Link.Medien: Heimkino-Archiv.
 
-## Wo es eingesetzt wird
-Es wird für Fotosicherungen, Dateifreigaben und persönliche Medienserver verwendet.
+## Technische Tiefe und Architektur
+Einrichtung:
 
-## Häufig verwechselt mit
-Es kann mit öffentlichem Cloud-Speicher (wie Google Drive) verwechselt werden, aber hier haben Sie die Hardware oder die Kontrolle.
+## Häufig gemischte Dinge
+Man hält es für ein Drive. Ein Drive gehört dem Unternehmen, eine persönliche Cloud gehört Ihnen. Das eine ist Miete, das andere Eigentum.
 
-## Häufige Fragen
-**Kann ich auf meine Dateien zugreifen, wenn mein Internet ausfällt?**
-Steht das Gerät zu Hause, kann man über das lokale Netzwerk darauf zugreifen, der externe Zugriff ist jedoch auf das Internet angewiesen.
+## Einsatz in verschiedenen Disziplinen
+Tresor: Ein Tresor, dessen Schlüssel Sie besitzen.Keller: Heim-Speicher.Archiv: Persönliches Dokumentenarchiv.
+
+## Häufig gestellte Fragen
+**Ist der Zugriff bei einer Unterbrechung möglich?**
+Im Heimnetzwerk ja, von extern nein. Eine lokale Kopie rettet Sie.
 
 **Ist es sicher?**
-Da Sie die Kontrolle haben, müssen Sie die Sicherheit verwalten.
+Sie haben die Kontrolle. Disziplin bei Updates und Passwörtern ist erforderlich.
+
+**Wie hoch sind die Kosten?**
+Die Hardware wird einmalig gekauft. Strom- und Wartungskosten bleiben bestehen.
+
+**Was ist der Unterschied zu einem Drive?**
+Drive ist gemietet, die persönliche Cloud ist Eigentum. Sie haben die Kontrolle.
 
 
 ## Verwandte Begriffe
 - [NAS](/de/dictionary/nas/)
 - [Self-hosting](/de/dictionary/self-hosting/)
 - [Backup Program](/de/dictionary/backup-program/)
-
-## Verwandte Werkzeuge
-- [CasaOS](/de/discover/casaos/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/personal-cloud/

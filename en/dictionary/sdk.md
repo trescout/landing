@@ -35,11 +35,11 @@ It can be written, but you have to code everything from scratch, which takes too
 - [Servers](/en/discover/servers/)
 - [Cline](/en/discover/cline/)
 - [OmniRoute](/en/discover/omniroute/)
+- [Sentry](/en/discover/sentry/)
 - [Freellmapi](/en/discover/freellmapi/)
 - [Opendataloader PDF](/en/discover/opendataloader-pdf/)
 - [CUA](/en/discover/cua/)
 - [iii](/en/discover/iii/)
-- [Logto](/en/discover/logto/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sdk/

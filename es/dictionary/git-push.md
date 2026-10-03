@@ -1,47 +1,38 @@
 # ¿Qué es Git Push?
 
-> Inglés: Git Push · Etimología: argot británico git + latín pulsare (empujar, impulsar)
+Git Push es un comando fundamental de Git que transfiere los bloques de código confirmados (committed), el historial de confirmaciones y los objetos desde su entorno de desarrollo local a un servidor Git remoto, actualizando la rama remota.
 
-**Categoría:** Dev  
-**Última actualización:** 2026-09-19
+## 1. Definición y el modelo de datos de 4 capas de Git
+Git es un sistema de control de versiones distribuido (DVCS). En esta arquitectura, los cambios de código pasan por 4 áreas de trabajo diferentes antes de llegar a un servidor remoto:
 
-Git Push es la instrucción fundamental de control de versiones que sube las confirmaciones de código (commits), ramas e historiales locales hacia un repositorio remoto para sincronizar el trabajo con el equipo.
+## 2. Plantillas de comandos más utilizadas (Cheatsheet)
+El indicador -u o --set-upstream vincula permanentemente su rama local con la rama remota. Después de este emparejamiento, basta con escribir solo git push o git pull mientras se encuentra en la misma rama.
 
-## Por analogía
-Es como redactar capítulos de una obra en un borrador privado en tu ordenador y, cuando están listos, enviarlos por mensajería a la editorial central para que todo el equipo disponga de la misma edición.
-
-## 1. Definición y el modelo de 4 capas de Git
-Git es un sistema de control de versiones distribuido (DVCS) estructurado en cuatro espacios de trabajo : el Directorio de Trabajo, el Área de Preparación (Staging/Index), el Repositorio Local (.git) y el Repositorio Remoto (GitHub, GitLab). Mientras que <code>git commit</code> guarda un punto de restauración en tu máquina, <code>git push</code> es el proceso que transfiere esos objetos por red al servidor centralizado.
-
-## 2. Comandos más habituales (Chuleta)
-Sintaxis frecuentes en el día a día del desarrollador :
-- **Publicar Rama por Primera Vez:** <code>git push -u origin mi-rama</code> (establece el seguimiento con el servidor).- **Empuje Estándar:** <code>git push</code> (actualiza la rama aguas arriba activa).- **Enviar Etiquetas:** <code>git push origin --tags</code> (sincroniza versiones etiquetadas).- **Eliminar Rama Remota:** <code>git push origin --delete rama-obsoleta</code>.- **Sobrescritura Segura:** <code>git push --force-with-lease</code> (reescribe el remoto solo si ningún compañero ha subido cambios entretanto).
-
-## 3. Errores habituales de push y soluciones
-Resolución de bloqueos comunes :
-- **fatal: [rejected - non-fast-forward]:** Hay cambios en el servidor que no tienes en local. Solución: ejecuta <code>git pull --rebase origin main</code>, soluciona conflictos y vuelve a empujar.- **fatal: The current branch has no upstream branch:** Añade el parámetro <code>-u</code> para fijar la rama remota de referencia.- **Rechazo por Archivos Grandes:** Ficheros superiores a 100 MB son rechazados por GitHub; utiliza la extensión Git LFS.
+## 3. Errores más comunes de Git Push y sus soluciones
 
 ## Preguntas frecuentes
+**¿Qué significa Git push y para qué sirve?**
+Git Push es el comando fundamental que sincroniza los repositorios remotos con el estado local al cargar los commits completados en tu ordenador local en servidores remotos como GitHub, GitLab o Bitbucket.
 
-**¿Qué diferencia hay entre 'git commit' y 'git push'?**  
-Commit guarda un punto de control en tu disco local; push transmite ese conjunto de cambios al servidor compartido en la red.
+**¿Qué significa el indicador -u en el comando git push -u origin main?**
+El indicador -u (--set-upstream) establece una conexión de seguimiento (tracking) entre la rama local y la rama remota. De esta manera, en las próximas ocasiones puedes escribir simplemente git push sin especificar el destino.
 
-**¿Por qué es más recomendable '--force-with-lease' frente a '--force'?**  
-Porque --force destruye el trabajo que otros hayan subido al servidor; --force-with-lease aborta si detecta que otra persona ha actualizado la rama.
+**¿Por qué se debería usar --force-with-lease en lugar de git push -f?**
+git push -f elimina permanentemente los cambios realizados por otras personas en el repositorio remoto sin verificarlos. Por otro lado, --force-with-lease protege el código de los compañeros de equipo al permitir la sobrescritura únicamente si la rama se encuentra en el estado que obtuviste por última vez.
 
-**¿Qué función tienen los hooks pre-push?**  
-Ejecutan pruebas de calidad y formateo en tu ordenador antes de autorizar la salida de los paquetes hacia el servidor remoto.
+**¿Cómo se soluciona el error non-fast-forward?**
+Ocurre porque los nuevos commits en el repositorio remoto aún no están en tu entorno local. Para solucionarlo, debes ejecutar git pull --rebase origin <rama> para actualizar los commits y luego volver a hacer git push.
 
-**¿Se puede hacer push a dos servidores distintos a la vez?**  
-Sí, configurando múltiples direcciones URL de empuje para un mismo alias en el archivo .git/config.
 
 ## Términos relacionados
 - [CLI](/es/dictionary/cli/)
-- [Code Snippets](/es/dictionary/code-snippets/)
-- [Checkout](/es/dictionary/checkout/)
+- [Deployment](/es/dictionary/deployment/)
+- [Production Pipeline](/es/dictionary/production-pipeline/)
+- [Patch](/es/dictionary/patch/)
+- [Tech Stack](/es/dictionary/tech-stack/)
 
 ## Herramientas relacionadas
 - [No Mistakes](/es/discover/no-mistakes/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/git-push/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/git-push/

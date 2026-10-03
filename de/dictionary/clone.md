@@ -40,8 +40,8 @@ Ja. Führen Sie einfach git pull im Ordner aus. Wenn Sie Änderungen haben, müs
 - [Univer](/de/discover/univer/)
 - [OpenStock](/de/discover/openstock/)
 - [Hermes WebUI](/de/discover/hermes-webui/)
-- [Flowsint](/de/discover/flowsint/)
 - [Production Agentic RAG Course](/de/discover/production-agentic-rag-course/)
+- [Flowsint](/de/discover/flowsint/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/clone/

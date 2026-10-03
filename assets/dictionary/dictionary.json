@@ -8799,5 +8799,44 @@
     "kisa_pt": "São linguagens de programação especializadas, projetadas para serem usadas apenas em uma área de trabalho ou tipo de problema específico.",
     "kisa_es": "Son lenguajes de programación especializados diseñados para ser utilizados únicamente en un área de trabajo o tipo de problema específico.",
     "kisa_de": "Es handelt sich um spezialisierte Programmiersprachen, die ausschließlich für den Einsatz in einem bestimmten Fachbereich oder für eine bestimmte Art von Problem entwickelt wurden."
+  },
+  {
+    "slug": "sandboxing",
+    "en": "Sandboxing",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımların veya şüpheli kodların ana sisteme ve çevreye zarar vermesini önlemek amacıyla izole bir ortamda çalıştırılması tekniği.",
+    "date": "2026-10-03",
+    "kisa_en": "The technique of running software or suspicious code in an isolated environment to prevent damage to the main system and environment.",
+    "kisa_fr": "Technique consistant à exécuter des logiciels ou des codes suspects dans un environnement isolé afin d'éviter qu'ils n'endommagent le système principal et son environnement.",
+    "kisa_pt": "Técnica de executar softwares ou códigos suspeitos em um ambiente isolado para evitar danos ao sistema principal e ao ambiente.",
+    "kisa_es": "Técnica de ejecutar software o código sospechoso en un entorno aislado para evitar que dañe el sistema principal y el entorno.",
+    "kisa_de": "Eine Technik zur Ausführung von Software oder verdächtigem Code in einer isolierten Umgebung, um Schäden am Hauptsystem und an der Umgebung zu verhindern."
+  },
+  {
+    "slug": "error-tracking",
+    "en": "Error Tracking",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Uygulamalarda meydana gelen çalışma zamanı hatalarını anlık olarak yakalayan, gruplayan ve geliştiricilere bildiren takip süreci.",
+    "date": "2026-10-03",
+    "kisa_en": "The monitoring process that instantly captures, groups, and notifies developers of runtime errors occurring in applications.",
+    "kisa_fr": "Processus de suivi qui capture instantanément, regroupe et signale aux développeurs les erreurs d'exécution survenant dans les applications.",
+    "kisa_pt": "Processo de rastreamento que captura em tempo real, agrupa e notifica os desenvolvedores sobre erros de tempo de execução ocorridos em aplicativos.",
+    "kisa_es": "Proceso de seguimiento que captura al instante, agrupa y notifica a los desarrolladores los errores en tiempo de ejecución que ocurren en las aplicaciones.",
+    "kisa_de": "Ein Tracking-Prozess, der in Anwendungen auftretende Laufzeitfehler in Echtzeit erfasst, gruppiert und an Entwickler meldet."
+  },
+  {
+    "slug": "code-knowledge-graph",
+    "en": "Code Knowledge Graph",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım projelerindeki kod ögelerini ve aralarındaki ilişkileri bir bilgi ağ ağı şeklinde haritalandıran yapıdır.",
+    "date": "2026-10-03",
+    "kisa_en": "It is a structure that maps code elements and the relationships between them in software projects in the form of a knowledge graph.",
+    "kisa_fr": "Structure qui cartographie les éléments de code et leurs relations dans les projets logiciels sous la forme d'un graphe de connaissances.",
+    "kisa_pt": "É a estrutura que mapeia os elementos de código em projetos de software e as relações entre eles na forma de uma rede de conhecimento.",
+    "kisa_es": "Es una estructura que mapea los elementos de código en proyectos de software y las relaciones entre ellos en forma de una red de conocimiento.",
+    "kisa_de": "Eine Struktur, die Code-Elemente und deren Beziehungen in Softwareprojekten in Form eines Wissensgraphen abbildet."
   }
 ]

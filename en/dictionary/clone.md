@@ -40,8 +40,8 @@ Yes. Just run git pull inside the folder. If you have changes, you need to commi
 - [Univer](/en/discover/univer/)
 - [OpenStock](/en/discover/openstock/)
 - [Hermes WebUI](/en/discover/hermes-webui/)
-- [Flowsint](/en/discover/flowsint/)
 - [Production Agentic RAG Course](/en/discover/production-agentic-rag-course/)
+- [Flowsint](/en/discover/flowsint/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/clone/

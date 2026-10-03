@@ -2,7 +2,7 @@
 
 Codegraph est un outil de graphe de connaissances (knowledge graph) local qui pré-indexe les bases de code pour les fournir aux modèles d'intelligence artificielle. En synchronisant automatiquement les modifications de code, il permet aux assistants de codage comme Claude Code ou Cursor d'utiliser moins de jetons (tokens) et d'appels d'outils.
 
-- ★ 72 721
+- ★ 73 076
 - C
 - GitHub Trending · 2026-10-01
 

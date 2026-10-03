@@ -1,31 +1,42 @@
 # O que é Deployment?
 
-É o processo de enviar um software preparado para o servidor e torná-lo operacional para que possa ser acessado pelos usuários.
+Deployment (implantação de software / lançamento em produção), é o processo pelo qual um componente de software, desenvolvido e testado em um ambiente local, é compilado e instalado em servidores de destino ou em uma infraestrutura de nuvem, tornando-se acessível aos usuários finais.
 
-## Definição
-A implantação é a última etapa do processo de desenvolvimento de software. Você pega seu código do seu próprio computador e o move para um servidor onde pessoas ao redor do mundo podem usá-lo. Agora seu software começa a funcionar em um ambiente ativo, não apenas no seu computador.
+## Estrutura conceitual, etimologia e transformação histórica
+Etimologicamente, o termo deployment baseia-se na terminologia militar; refere-se ao envio de tropas, munições ou equipamentos para posições estratégicas de combate, preparando-os para a operação ("to deploy"). Na engenharia de software, começou nas décadas de 1970 e 1980 com o carregamento de cartões perfurados ou fitas magnéticas em mainframes; evoluiu na década de 1990 para transferências de arquivos FTP/SSH executadas manualmente e, hoje, transformou-se em pipelines de nuvem totalmente declarativos e automatizados (GitOps).
 
-## Como funciona
-Os desenvolvedores enviam seu código ao servidor por meio de ferramentas automáticas ou manuais. O servidor recebe esse código, faz as configurações necessárias e publica a aplicação.
+## Estratégias de implantação com tempo de inatividade zero (Zero-Downtime)
+Os principais padrões de implantação desenvolvidos para garantir que os usuários não sofram interrupções de serviço enquanto os aplicativos são atualizados são os seguintes:
 
-## Onde é usado
-É usado na publicação de sites, no envio de aplicativos móveis para a loja ou na apresentação de modelos de inteligência artificial como API.
+## Pipeline CI/CD, GitOps e migrações de banco de dados
+Uma arquitetura de implantação bem-sucedida é construída sobre três pilares fundamentais de engenharia:
+
+## Gerenciamento de erros, observabilidade e arquitetura de Rollback
+Existem duas boias de salvação fundamentais para erros no ambiente de produção que passam despercebidos até mesmo nos ambientes de teste mais avançados:
 
 ## Costuma ser confundido com
-Confunde-se com desenvolvimento; Desenvolvimento é cozinhar a comida na cozinha e implantação é servir a comida na mesa do cliente.
 
 ## Perguntas frequentes
-**O que acontece se ocorrer um erro durante a implantação?**
-O sistema geralmente reverte para a versão antiga e funcional ou interrompe a transmissão até que o erro seja corrigido.
+**O que significa Deployment e qual é a tradução em português?**
+É uma palavra de origem inglesa que significa 'implantação' ou 'colocação em produção'. É o processo de compilação de um pacote de software para torná-lo funcional em servidores de destino ou em ambiente de nuvem.
 
-**A implantação é sempre feita manualmente?**
-No mundo moderno geralmente é automático; Você envia o código e o sistema o publica sozinho.
+**Qual é a diferença entre Deployment e Release?**
+O deployment é a instalação técnica e execução do código no servidor. Já o release é a disponibilização oficial do recurso para o usuário final por meio de Feature Flags ou etapas de marketing.
+
+**Qual é a principal diferença entre o deployment Azul-Verde (Blue-Green) e o Canary?**
+No deployment Azul-Verde, existem dois ambientes idênticos e o tráfego é transferido 100% para o novo ambiente de uma só vez através de um balanceador de carga. No deployment Canary, por sua vez, a nova versão é disponibilizada gradualmente, primeiro para uma pequena fatia de usuários de 1% a 5%, e a proporção é aumentada após a observação das métricas.
+
+**Como as alterações de esquema de banco de dados são gerenciadas em um deployment sem interrupções (Zero-Downtime)?**
+Elas são gerenciadas com o padrão Expand-Contract (Expandir e Contrair). Primeiro, novos campos retrocompatíveis são adicionados; após todos os servidores do sistema mudarem para o novo código e o fluxo de dados se estabilizar, os campos antigos são removidos.
 
 
 ## Termos relacionados
 - [Runtime](/pt/dictionary/runtime/)
 - [Compile-time](/pt/dictionary/compile-time/)
-- [API](/pt/dictionary/api/)
+- [Cloud Computing](/pt/dictionary/cloud-computing/)
+- [Production Pipeline](/pt/dictionary/production-pipeline/)
+- [Tech Stack](/pt/dictionary/tech-stack/)
+- [Git Push](/pt/dictionary/git-push/)
 
 ## Ferramentas relacionadas
 - [Rocket.Chat](/pt/discover/rocket-chat/)

@@ -28,8 +28,8 @@ Sie laufen in der Regel innerhalb eines Browsers oder über eine Übersetzungssc
 
 ## Verwandte Werkzeuge
 - [Meshery](/de/discover/meshery/)
-- [Stitch Skills](/de/discover/stitch-skills/)
 - [Tinycast](/de/discover/tinycast/)
+- [Stitch Skills](/de/discover/stitch-skills/)
 - [Agent Native](/de/discover/agent-native/)
 
 ---

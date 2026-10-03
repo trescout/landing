@@ -2,7 +2,7 @@
 
 Microsoft vereint Windows Terminal und den traditionellen Windows-Konsolenhost unter einem Dach. Dieses in der Sprache C++ entwickelte Open-Source-Projekt strukturiert die Befehlszeilenerfahrung mit einer modernen Benutzeroberfläche und anpassbaren Registerkarten neu.
 
-- ★ 104.442
+- ★ 105.059
 - C++
 - GitHub Trending · 2026-07-20
 

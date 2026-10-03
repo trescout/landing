@@ -1,25 +1,42 @@
 # Was ist Tech Stack?
 
-Es handelt sich um die Sammlung aller Sprachen, Datenbanken und Tools, die zum Erstellen eines Softwareprojekts verwendet werden.
+Ein Tech Stack ist die Gesamtheit aus Programmiersprachen, Bibliotheken, Datenbanken, APIs und Cloud-Infrastrukturen, die kombiniert werden, um eine Softwareanwendung zu entwickeln, auszuführen, zu skalieren und zu überwachen.
 
-## Definition
-Es handelt sich um den „Technologie-Stack“, der beim Erstellen einer Anwendung verwendet wird. Zu diesem Stack gehören beispielsweise eine Sprache für die sichtbare Seite der Website, ein weiteres Tool für die im Hintergrund laufende Datenbank und die Server, die diese verbinden.
+## Konzeptioneller Rahmen, Stack-Metapher und historische Evolution
+Der Tech-Stack wird im Türkischen als Technologie-Stack (teknoloji yığını) bezeichnet. Die Metapher des „Stacks“ (yığın) basiert auf dem Prinzip der geschichteten Abstraktion in der Informatik: Genau wie die Bodenuntersuchung, das Fundament, die tragenden Säulen und die Außenfassade eines Gebäudes baut sich auch in der Softwarewelt jede Technologie-Schicht auf den Möglichkeiten auf, die ihr die vorherige Schicht bietet.
 
-## So funktioniert es
-Bei der Projektplanung wird entschieden, welche Sprache, welche Datenbank und welcher Server verwendet werden. Diese Entscheidungen bestimmen das Tempo und die Kapazität des Projekts.
+## Die Anatomie eines Tech-Stacks (Grundlegende Schichten)
+Ein umfassender Unternehmens-Technologie-Stack besteht aus fünf Hauptschichten:
 
-## Wo es eingesetzt wird
-Es wird während der Architekturphase von Softwareentwicklungsprojekten definiert.
+## Architektonische Entscheidungsmatrix und Auswahlkriterien
+Die Wahl eines falschen Technologie-Stacks kann ein Startup in ein monatelanges Rewriting-Desaster stürzen. Für die richtige Wahl sollten vier Grundprinzipien beachtet werden:
+
+## Beliebte Technologie-Stack-Kombinationen
+
+## Häufig verwechselt mit
 
 ## Häufige Fragen
-**Warum ist die Stapelauswahl wichtig?**
-Denn es wirkt sich direkt darauf aus, wie schnell das Projekt wächst und wie einfach es entwickelt werden kann.
+**Was bedeutet Tech-Stack, wie lautet die deutsche Entsprechung?**
+Die deutsche Entsprechung ist Technologiestapel (Technologie-Stack). Es handelt sich um die Gesamtheit der Programmiersprachen, Frameworks, Datenbanken und Infrastrukturtools, die gemeinsam verwendet werden, um eine Softwareanwendung zu entwickeln, auszuführen, zu skalieren und im Live-Betrieb zu halten.
+
+**Was ist der größte Fehler, den man bei der Auswahl eines Technologie-Stacks machen kann?**
+Unnötiges Over-Engineering zu betreiben und den Entwicklungsprozess dadurch zu blockieren, dass man die neuesten Trend-Tools oder komplexe Microservice-Architekturen auswählt, obwohl das Projekt diese nicht benötigt.
+
+**Was sind beliebte Tech-Stack-Kombinationen?**
+LAMP (Linux, Apache, MySQL, PHP), MERN (MongoDB, Express, React, Node.js), Django/FastAPI + PostgreSQL sowie moderne Next.js + Supabase + Tailwind-Kombinationen gehören zu den gängigsten Beispielen.
+
+**Was umfasst ein moderner Tech-Stack für Anwendungen im Bereich der Künstlichen Intelligenz (KI)?**
+Er umfasst React/Next.js im Frontend, Python (FastAPI) oder vLLM in der Modell-Service-Schicht, pgvector oder Qdrant für Datenspeicherung und semantische Suche sowie LlamaIndex/LangChain-Komponenten für die Orchestrierung.
 
 
 ## Verwandte Begriffe
 - [Framework](/de/dictionary/framework/)
 - [Database](/de/dictionary/database/)
 - [Frontend Stack](/de/dictionary/frontend-stack/)
+- [Cloud Computing](/de/dictionary/cloud-computing/)
+- [Deployment](/de/dictionary/deployment/)
+- [Runtime](/de/dictionary/runtime/)
+- [Memory Management](/de/dictionary/memory-management/)
 
 ## Verwandte Werkzeuge
 - [Clone-Wars](/de/discover/clone-wars/)

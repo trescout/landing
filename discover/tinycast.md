@@ -2,11 +2,12 @@
 
 Tinycast, macOS işletim sistemi için geliştirilmiş hafif bir uygulama başlatıcı (launcher), kısayol yöneticisi ve pano geçmişi aracıdır. Swift diliyle yazılan bu yerel (native) yazılım, sistem kaynaklarını verimli kullanarak masaüstü iş akışlarını hızlandırmayı amaçlar.
 
-- ★ 7.552
+- ★ 7.971
 - Swift
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
+- 3 Ekim 2026: Yıldız 7.552 → 7.971, son sürüm v0.11.12 (2 Ekim 2026).
 - 27 Eylül 2026: Yıldız 6.290 → 7.552, son sürüm v0.11.3 (19 Eylül 2026).
 - 18 Eylül 2026: Yıldız 6.286 → 6.290, son sürüm v0.10.23 (13 Eylül 2026).
 

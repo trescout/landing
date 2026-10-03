@@ -30,8 +30,8 @@ They generally run within a browser or through a translation layer, which can so
 
 ## Related tools
 - [Meshery](/en/discover/meshery/)
-- [Stitch Skills](/en/discover/stitch-skills/)
 - [Tinycast](/en/discover/tinycast/)
+- [Stitch Skills](/en/discover/stitch-skills/)
 - [Agent Native](/en/discover/agent-native/)
 
 ---

@@ -33,11 +33,11 @@ Se puede escribir, pero hay que codificar todo desde cero, lo que lleva demasiad
 - [Servers](/es/discover/servers/)
 - [Cline](/es/discover/cline/)
 - [OmniRoute](/es/discover/omniroute/)
+- [Sentry](/es/discover/sentry/)
 - [Freellmapi](/es/discover/freellmapi/)
 - [Opendataloader PDF](/es/discover/opendataloader-pdf/)
 - [CUA](/es/discover/cua/)
 - [iii](/es/discover/iii/)
-- [Logto](/es/discover/logto/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sdk/
