@@ -173,7 +173,8 @@ def main():
 
     if "--onar" in sys.argv:
         gercek = son_degisim_tarihleri()
-        for u in sorted(set(mevcut) & set(gercek)):
+        # İçeriği şu an (commit'siz) değişen sayfa bugünkü tarihini korur
+        for u in sorted((set(mevcut) & set(gercek)) - degisen):
             blok = mevcut[u]
             yeni_blok = re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{gercek[u]}</lastmod>", blok, count=1)
             if yeni_blok != blok:
