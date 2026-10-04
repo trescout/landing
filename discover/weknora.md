@@ -2,11 +2,12 @@
 
 Tencent tarafından geliştirilen WeKnora, ham belgeleri sorgulanabilir bir bilgi tabanına (RAG), otonom bir akıl yürütme ajanına ve kendi kendini güncelleyen bir wiki sistemine dönüştüren açık kaynaklı bir platformdur. Go programlama diliyle yazılan bu araç, yapılandırılmamış verileri kurumsal düzeyde erişilebilir bilgi varlıklarına dönüştürmeyi amaçlar.
 
-- ★ 30.355
+- ★ 31.949
 - Go
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
+- 4 Ekim 2026: Yıldız 30.355 → 31.949, son sürüm v0.8.2 (24 Eylül 2026).
 - 27 Eylül 2026: Yıldız 26.676 → 30.355, son sürüm v0.8.2 (24 Eylül 2026).
 - 18 Eylül 2026: Yıldız 26.667 → 26.676, son sürüm v0.8.0 (3 Eylül 2026).
 

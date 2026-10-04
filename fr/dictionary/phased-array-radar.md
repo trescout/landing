@@ -1,34 +1,40 @@
 # Qu'est-ce que Phased Array Radar ?
 
-Il s'agit d'un système radar avancé qui suit les cibles en changeant leur direction grâce à des signaux électroniques, sans utiliser de pièces mobiles.
+Le radar à anten active (ou radar à balayage électronique) est un système radar fixe qui dirige son faisceau par voie électronique.
 
-## Définition
-Alors que les radars traditionnels balayent en faisant tourner physiquement l'antenne, cette technologie utilise un réseau d'antennes fixes. Il dévie les faisceaux radar dans différentes directions en modifiant la synchronisation des signaux électroniques. De cette manière, il permet un suivi beaucoup plus rapide et précis.
+## Définition et origine du mot
+Une antenne radar classique balaie en tournant, tandis que ce système est fixe : le timing (la phase) du signal envoyé à chaque émetteur du réseau est réglé, et les ondes se combinent dans la direction souhaitée. Le faisceau change de direction en quelques secondes, sans aucune pièce mécanique.
 
-## Comment ça marche
-La phase (synchronisation) du signal envoyé à chaque émetteur du réseau d'antennes est ajustée avec précision. Ces différences de phase permettent aux ondes radio de converger dans une direction particulière.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Défense : Surveillance de l'espace aérien.Trafic aérien : Contrôle d'approche.Véhicule autonome : Capteurs périphériques.Météorologie : Suivi des précipitations.
 
-## Où est-ce utilisé
-Il est utilisé dans les systèmes de défense militaire, le contrôle du trafic aérien et les capteurs des véhicules autonomes modernes.
+## Profondeur technique et architecture
+Parties:
 
-## Souvent confondu avec
-Il peut être confondu avec les radars classiques à antennes tournantes ; La plus grande différence est qu’il ne contient aucune pièce mobile.
+## Choses fréquemment mélangées
+On le prend souvent pour un radar classique à antenne rotative. Dans le modèle classique, c'est le réflecteur qui tourne, ici c'est le signal qui tourne. Il n'y a pas de pièce mobile, le balayage est électronique.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Œil : Changer de foyer sans tourner la tête.Haut-parleur : Réseau orientant le son dans une direction.Lampe de poche : Orienter le faisceau sans le faire pivoter manuellement.
+
+## Foire aux questions
 **Pourquoi est-ce plus avantageux ?**
-Il réagit beaucoup plus rapidement et le risque de panne mécanique est faible.
+Il réagit rapidement, suit plusieurs cibles et le risque de panne mécanique est faible.
 
 **Est-ce juste militaire ?**
-Non, c’est également courant dans les prévisions météorologiques et les technologies des véhicules autonomes.
+Non. Il est également utilisé dans le trafic aérien, la météorologie et les véhicules autonomes.
+
+**Qu'est-ce que ça coûte ?**
+Il est élevé par rapport au radar classique. Il y a un coût lié au réseau et au processeur, qui se justifie pour les applications critiques.
+
+**L'utilisation civile est-elle répandue ?**
+Elle augmente. À mesure que les coûts baissent, les installations aéroportuaires et météorologiques se multiplient.
 
 
 ## Termes liés
 - [Autonomous Robotics](/fr/dictionary/autonomous-robotics/)
 - [Physical AI](/fr/dictionary/physical-ai/)
 - [Driver Assistance System](/fr/dictionary/driver-assistance-system/)
-
-## Outils liés
-- [PLFM RADAR](/fr/discover/plfm-radar/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/phased-array-radar/

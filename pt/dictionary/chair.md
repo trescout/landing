@@ -1,57 +1,40 @@
-# O que é um Chair?
+# O que é Chair?
 
-> Presidente do Conselho de Administração
+Chair (em português, presidente) é a pessoa que lidera um conselho administrativo e supervisiona a direção da organização.
 
-**Categoria:** Dev  
-**Última atualização:** 2026-09-22
+## Definição e origem da palavra
+Chair significa cadeira em inglês. O termo deriva da cadeira ocupada pela pessoa que conduz a reunião e, com o tempo, passou a designar o próprio cargo. É um título neutro que não especifica gênero. O chair não supervisiona as operações diárias da empresa, mas sim o funcionamento do conselho de administração e a estratégia de longo prazo.
 
-Chair (abreviação de Chair of the Board ou Presidente do Conselho) é a autoridade que lidera o conselho de administração de uma organização, zelando pelas diretrizes estratégicas e governança.
+## Como conhecer e usar no dia a dia?
+Empresas: Presidente que conduz as reuniões do conselho de administração.Associações: Pessoa que conduz os processos da assembleia geral e da mesa diretora.Universidades: Chefe de departamento ou diretor de curso.
 
-## Definição e etimologia
-A expressão tem origem histórica na cadeira exclusiva ocupada pelo presidente em assembleias deliberativas. Na governança moderna, trata-se de um cargo independente de supervisão. O Chair não cuida da execução das rotinas diárias da empresa, mas supervisiona a conduta e as decisões do conselho em benefício dos acionistas.
+## Profundidade Técnica e Arquitetura
+Âmbito das funções do presidente:
 
-## Contexto cotidiano e uso prático
-- **Empresas de Capital Aberto:** Presidir reuniões trimestrais e avaliar planos de sucessão executiva.
-- **Fundações e ONGs:** Zelar pela conformidade de doações e aplicação transparente de verbas.
-- **Universidades:** Presidir departamentos acadêmicos e congregações científicas.
+## Coisas frequentemente misturadas
+Pode ser confundido com o CEO. O CEO gere a empresa, enquanto o chair gere o conselho que administra a empresa. Um está à frente da execução, o outro está à frente da supervisão.
 
-## Profundidade técnica e arquitetura
-Atribuições Centrais de Governança :- **Definição de Pauta:** Estabelecer prioridades estratégicas e gerenciar o tempo das reuniões.
-- **Governança de Votação:** Conduzir o debate assegurando que pareceres divergentes sejam registrados.
-- **Fiscalização Executiva:** Avaliar periodicamente os resultados entregues pela diretoria executiva.
-- **Ponte com Investidores:** Articular os interesses institucionais de sócios e órgãos fiscalizadores.
+## Use em diferentes disciplinas
+Tribunal: O juiz que preside a audiência.Assembleia: O vice-presidente que preside a sessão.Painel: O moderador que concede a palavra aos oradores.
 
-As melhores práticas do IBGC recomendam expressamente a separação entre Chair e CEO para garantir independência fiscalizatória e evitar concentração excessiva de poder.
+## Perguntas Frequentes
+**O presidente gerencia os assuntos diários da empresa?**
+Geralmente não. As operações diárias ficam a cargo do CEO e sua equipe. O chair cuida do funcionamento do conselho e da supervisão estratégica.
 
-## Costuma ser confundido com
-Costuma ser confundido com o CEO (Diretor Executivo). O CEO lidera a operação da companhia; o Chair lidera o conselho que nomeia, fiscaliza e orienta o CEO. Um cuida da execução prática, o outro da supervisão estratégica.
+**O chair e o CEO podem ser a mesma pessoa?**
+Legalmente, é possível em alguns países, mas os princípios de governança corporativa recomendam a separação. A unificação enfraquece a supervisão.
 
-## Perspectivas interdisciplinares
-- **Tribunal:** O juiz que preside o julgamento mantendo a ordem dos debates.
-- **Poder Legislativo:** O presidente da câmara coordenando os discursos em plenário.
-- **Painel Técnico:** O moderador que faz a mediação justa entre debatedores.
+**Como o chair é eleito?**
+Geralmente é eleito pelo conselho dentre os seus membros. O mandato é definido no estatuto social.
 
-## Por analogia
-É como o juiz presidente em um tribunal: ele não depõe como testemunha, mas coordena o debate, assegura as regras do jogo e garante que as decisões finais sigam a lei.
+**É necessária uma cadeira (presidente) em uma pequena empresa?**
+Se houver um conselho de administração, haverá também um presidente. Em pequenas empresas com um único sócio, esse papel geralmente é do sócio e não é preenchido separadamente.
 
-## Perguntas frequentes
-
-**O Chair interfere na rotina diária da empresa?**  
-Não. O dia a dia das equipes cabe ao CEO e seus diretores. O Chair foca na atuação do conselho e nas diretrizes de longo prazo.
-
-**O Chair e o CEO podem ser a mesma pessoa?**  
-Embora algumas legislações permitam, os códigos de governança corporativa desaconselham essa prática para não fragilizar a fiscalização.
-
-**Como o Chair é escolhido?**  
-É eleito pelos próprios membros do conselho de administração com base no estatuto social da empresa.
-
-**Pequenas startups precisam de um Chair?**  
-Em fases iniciais o próprio fundador preside; à medida que fundos de investimento entram no capital social, institui-se um conselho formal com Chair.
 
 ## Termos relacionados
 - [CEO](/pt/dictionary/ceo/)
-- [Gestão de Projetos](/pt/dictionary/project-management/)
-- [Operações de Equipe de IA](/pt/dictionary/ai-team-operations/)
+- [Project Management](/pt/dictionary/project-management/)
+- [AI Team Operations](/pt/dictionary/ai-team-operations/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/chair/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/chair/

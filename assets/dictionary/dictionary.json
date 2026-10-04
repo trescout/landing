@@ -8838,5 +8838,44 @@
     "kisa_pt": "É a estrutura que mapeia os elementos de código em projetos de software e as relações entre eles na forma de uma rede de conhecimento.",
     "kisa_es": "Es una estructura que mapea los elementos de código en proyectos de software y las relaciones entre ellos en forma de una red de conocimiento.",
     "kisa_de": "Eine Struktur, die Code-Elemente und deren Beziehungen in Softwareprojekten in Form eines Wissensgraphen abbildet."
+  },
+  {
+    "slug": "persistent-context",
+    "en": "Persistent Context",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin sizinle yaptığı geçmiş konuşmaları ve önemli bilgileri, oturum kapansa bile unutmayıp aklında tutabilme yeteneğidir.",
+    "date": "2026-10-04",
+    "kisa_en": "It is the ability of artificial intelligence models to remember and retain past conversations and important information with you, even after the session is closed.",
+    "kisa_fr": "C'est la capacité des modèles d'intelligence artificielle à mémoriser et conserver les conversations passées avec vous ainsi que les informations importantes, même après la fermeture de la session.",
+    "kisa_pt": "É a capacidade dos modelos de inteligência artificial de lembrar e reter conversas anteriores com você e informações importantes, mesmo após o encerramento da sessão.",
+    "kisa_es": "Es la capacidad de los modelos de inteligencia artificial para recordar y retener las conversaciones pasadas con usted y la información importante, incluso si se cierra la sesión.",
+    "kisa_de": "Es ist die Fähigkeit von KI-Modellen, sich an vergangene Gespräche mit Ihnen und wichtige Informationen zu erinnern und diese im Gedächtnis zu behalten, selbst wenn die Sitzung beendet wird."
+  },
+  {
+    "slug": "agent-workspace",
+    "en": "Agent Workspace",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ ajanlarının kendilerine verilen görevleri yerine getirmek için dosya oluşturup düzenleyebildikleri ve araçları çalıştırabildikleri güvenli dijital çalışma alanıdır.",
+    "date": "2026-10-04",
+    "kisa_en": "It is a secure digital workspace where artificial intelligence agents can create and edit files and run tools to perform their assigned tasks.",
+    "kisa_fr": "C'est l'espace de travail numérique sécurisé dans lequel les agents d'intelligence artificielle peuvent créer et modifier des fichiers et exécuter des outils pour accomplir les tâches qui leur sont confiées.",
+    "kisa_pt": "É o espaço de trabalho digital seguro onde agentes de inteligência artificial podem criar e editar arquivos, além de executar ferramentas, para realizar as tarefas a eles atribuídas.",
+    "kisa_es": "Es el espacio de trabajo digital seguro donde los agentes de inteligencia artificial pueden crear y editar archivos y ejecutar herramientas para cumplir con las tareas asignadas.",
+    "kisa_de": "Es ist ein sicherer digitaler Arbeitsbereich, in dem KI-Agenten Dateien erstellen und bearbeiten sowie Werkzeuge ausführen können, um die ihnen zugewiesenen Aufgaben zu erfüllen."
+  },
+  {
+    "slug": "hard-budget-caps",
+    "en": "Hard Budget Caps",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir projenin veya sistemin tüketebileceği kaynağa getirilen ve aşıldığında işlemleri anında durduran kesin üst sınırdır.",
+    "date": "2026-10-04",
+    "kisa_en": "It is a strict upper limit placed on the resources a project or system can consume, which immediately halts operations when exceeded.",
+    "kisa_fr": "C'est la limite supérieure stricte imposée aux ressources qu'un projet ou un système peut consommer, interrompant immédiatement les opérations lorsqu'elle est dépassée.",
+    "kisa_pt": "É o limite máximo rígido imposto aos recursos que um projeto ou sistema pode consumir e que, ao ser ultrapassado, interrompe imediatamente as operações.",
+    "kisa_es": "Es el límite superior estricto impuesto a los recursos que un proyecto o sistema puede consumir, el cual detiene inmediatamente las operaciones si se supera.",
+    "kisa_de": "Es ist eine strikte Obergrenze für die Ressourcen, die ein Projekt oder System verbrauchen kann, und die die Vorgänge sofort stoppt, wenn sie überschritten wird."
   }
 ]

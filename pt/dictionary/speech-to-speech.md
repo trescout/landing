@@ -1,31 +1,36 @@
 # O que é Speech-to-Speech?
 
-Uma tecnologia que converte diretamente a entrada de voz em saída de voz, sem a necessidade de texto.
+Speech-to-Speech (S2S / IA de voz para voz) é uma tecnologia de aprendizado profundo de ponta a ponta que analisa ondas sonoras diretamente da fonte para o destino, sem convertê-las em uma camada de texto intermediária, e gera um novo sinal de voz.
 
-## Definição
-Fala-para-fala é a conversão direta de um som de um idioma em um som de outro idioma ou em um tom diferente no mesmo idioma. Enquanto nos métodos tradicionais a voz é primeiro traduzida em texto, depois para outro idioma e depois convertida novamente em voz, esta tecnologia realiza o processo em uma única etapa. Dessa forma, a emoção e a entonação do locutor são melhor preservadas.
+## Da arquitetura em cascata tradicional para a arquitetura de ponta a ponta
+Os sistemas tradicionais de tradução de voz e diálogo consistiam em três estágios independentes chamados de "cascata":
 
-## Como funciona
-O sistema analisa as ondas sonoras do locutor e utiliza modelos de inteligência artificial que convertem o conteúdo diretamente em ondas sonoras no idioma alvo, sem transcrevê-lo em texto.
+## Infraestrutura técnica: Tokenização de áudio e espaço latente contínuo
+As etapas básicas de engenharia por trás dos sistemas de voz para voz são as seguintes:
 
-## Onde é usado
-É usado em dispositivos de tradução em tempo real, assistentes de voz avançados e tecnologias de dublagem.
-
-## Costuma ser confundido com
-Não deve ser confundido com fala para texto; Aqui o texto não é uma etapa intermediária.
+## Casos de uso e perspectivas futuras
 
 ## Perguntas frequentes
-**Por que isso é feito sem traduzi-lo em texto?**
-Pular a fase do texto torna mais fácil manter o tom emocional e o ritmo da conversa.
+**O que significa Speech-to-Speech e como funciona?**
+Speech-to-Speech (De Voz para Voz) é um modelo de inteligência artificial de ponta a ponta que elimina a necessidade de converter a fala em texto, analisando diretamente a onda sonora e produzindo saída novamente como som.
 
-**Funciona em todos os idiomas?**
-À medida que a tecnologia se desenvolve, o suporte a idiomas aumenta, mas oferece melhor desempenho nas linguagens em que o modelo é treinado.
+**Qual a diferença em relação à cascata tradicional STT-TTS?**
+Os sistemas em cascata convertem primeiro a voz em texto e depois novamente em voz; isso causa um atraso de segundos e perda de emoção/ênfase. Já o S2S opera com um atraso instantâneo de 200 a 300 ms e preserva a característica vocal do locutor.
+
+**É possível interromper (interruption) enquanto se fala no sistema S2S?**
+Sim; graças ao fluxo de áudio bidirecional completo (Full-Duplex), o modelo pode interromper instantaneamente a geração de voz e entrar no modo de escuta quando o usuário o interrompe.
+
+**Quais são os riscos de segurança na tradução de voz para voz?**
+A tecnologia de clonagem de voz realista traz o risco de falsificação de identidade e fraude. Por esse motivo, os sistemas S2S modernos incorporam marcas d'água criptográficas (audio watermarking) no áudio sintetizado que o ouvido humano não consegue detectar.
 
 
 ## Termos relacionados
+- [STT](/pt/dictionary/stt/)
 - [Speech-to-Text](/pt/dictionary/speech-to-text/)
-- [Voice Synthesis](/pt/dictionary/voice-synthesis/)
-- [AI Models](/pt/dictionary/ai-models/)
+- [Voice Cloning](/pt/dictionary/voice-cloning/)
+- [Whisper](/pt/dictionary/whisper/)
+- [Tokenizer](/pt/dictionary/tokenizer/)
+- [Apple Silicon](/pt/dictionary/apple-silicon/)
 
 ## Ferramentas relacionadas
 - [Speech to Speech](/pt/discover/speech-to-speech/)

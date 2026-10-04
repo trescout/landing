@@ -1,54 +1,42 @@
-# Qu'est-ce que l'On-device STT ?
+# Qu'est-ce que On-device STT ?
 
-> Reconnaissance Vocale Embarquée sur l'Appareil
+> On-device Speech-to-Text
 
-**Catégorie:** AI  
-**Dernière mise à jour:** 2026-09-22
+La STT sur l'appareil (traduction littérale : reconnaissance vocale sur l'appareil) consiste à convertir la voix en texte directement sur l'appareil.
 
-L'on-device STT (Speech-to-Text embarqué) désigne la technologie de reconnaissance vocale qui retranscrit la parole en texte directement sur l'appareil de l'utilisateur, sans transmettre d'enregistrement audio vers des serveurs distants.
+## Définition et origine du mot
+"On-device" signifie sur l'appareil. Le modèle local fonctionne sans passer par le cloud. La confidentialité est préservée et les coupures n'ont aucun impact. C'est comme un traducteur qui aurait le dictionnaire en tête.
 
-## Définition et étymologie
-Indispensable pour préserver la confidentialité et garantir un fonctionnement instantané, le STT embarqué exécute des modèles neuronaux acoustiques directement sur les puces du terminal (NPU, GPU). Les flux vocaux ne quittent jamais la machine hôte.
-
-## Usage quotidien et contexte pratique
-- **Smartphones et tablettes :** Dictée vocale instantanée fonctionnant en mode avion sans connexion.
-- **Transcriptions sensibles :** Rédaction de comptes rendus médicaux et d'audiences juridiques confidentielles.
-- **Appareils domotiques :** Ordres vocaux exécutés localement sans écoute clandestine externe.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Remarques : Note vocale en avion.Commande : Assistant hors ligne.Accessibilité: Sous-titrage sur l'appareil.
 
 ## Profondeur technique et architecture
-Architecture technique :- **Modèles acoustiques quantifiés :** Variantes allégées (Whisper.cpp, Vosk) optimisées en précision 4 ou 8 bits.
-- **Accélération matérielle neuronale :** Utilisation des moteurs neuronaux dédiés (Apple Neural Engine, NPU Snapdragon) pour préserver la batterie.
-- **Détection d'activité vocale (VAD) :** Filtrage initial (Silero VAD) activant le modèle uniquement lors des prises de parole réelles.
+Équilibre :
 
-## Souvent confondu avec
-Souvent confondu avec les API vocales cloud. Le cloud envoie la voix vers des centres de données distants ; le STT embarqué effectue l'intégralité de l'inférence sur le processeur local.
+## Choses fréquemment mélangées
+On pense que c'est de la reconnaissance cloud. Elle tourne sur le serveur, les données partent. Celle-ci tourne sur l'appareil, les données restent.
 
-## Perspectives interdisciplinaires
-- **Interprétariat :** Avoir un interprète personnel à ses côtés dans la pièce plutôt que faire appel à une centrale téléphonique à distance.
-- **Sténographie :** Un greffier présent dans la salle d'audience vs l'envoi d'enregistrements audio à un prestataire externe.
-- **Photographie :** Développer ses négatifs dans sa propre chambre noire vs expédier ses pellicules à l'autre bout du pays.
+## Utilisation dans différentes disciplines
+Dictionnaire : Le vocabulaire transporté dans la tête.Calculatrice : Calcul sans pile.Lampe de poche : Lumière sans réseau.
 
-## Par analogie
-C'est comme avoir un traducteur personnel assis à vos côtés : vous parlez et les mots sont retranscrits sur le champ, sans intermédiaire extérieur.
+## Foire aux questions
+**Pourquoi pas le cloud ?**
+Pas besoin de connexion, les données restent sur l'appareil. Préféré pour les travaux confidentiels.
 
-## Questions fréquentes
+**La précision diminue-t-elle ?**
+Un peu par rapport au cloud. Suffisant pour le travail quotidien, le texte critique est vérifié.
 
-**Le STT embarqué est-il aussi précis que les services cloud ?**  
-Oui, les modèles récents comme Whisper-small ou distil-whisper atteignent des scores de précision très proches des API cloud.
+**Quel appareil le fait tourner ?**
+Les téléphones et ordinateurs récents. Ceux dotés d'une NPU fonctionnent de manière fluide.
 
-**Fonctionne-t-il sans connexion Internet ?**  
-Oui, dès lors que les poids du modèle sont téléchargés sur l'appareil, aucune connexion n'est requise.
+**Est-ce que ça consomme de la batterie ?**
+Oui. L'écoute continue a un coût, on l'active en cas de besoin.
 
-**Quel espace de stockage occupe un tel modèle ?**  
-Selon le niveau de compression, la taille varie généralement entre 50 Mo et 400 Mo.
-
-**Quels frameworks open source permettent de l'intégrer ?**  
-Whisper.cpp, Sherpa-ONNX, Vosk et WhisperX.
 
 ## Termes liés
+- [STT](/fr/dictionary/stt/)
 - [Speech-to-Text](/fr/dictionary/speech-to-text/)
-- [SLM](/fr/dictionary/slm/)
-- [Confidentialité Numérique](/fr/dictionary/digital-privacy/)
+- [Local](/fr/dictionary/local/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/on-device-stt/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/on-device-stt/

@@ -1,51 +1,39 @@
-# ¿Qué es Thread Safety?
+# ¿Qué es Thread-safety?
 
-> Inglés: Thread Safety · Etimología: inglés antiguo thraed (hilo) + latín salvus (intacto/seguro)
+La seguridad de los hilos (Thread safety), en su equivalente en turco iş parçacığı güvenliği, es la garantía de que un fragmento de código no corrompe los datos cuando es ejecutado simultáneamente por múltiples hilos.
 
-**Categoría:** Dev  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+"Thread" significa hilo y "safety", seguridad. La seguridad aquí no es contra los piratas informáticos, sino para garantizar que los datos se mantengan coherentes: si dos procesos actualizan la misma cuenta al mismo tiempo, el resultado puede ser incorrecto. El código seguro para hilos (thread-safe) regula esta competencia. Las aplicaciones bancarias, los servidores web y todo el software multiproceso necesitan esto.
 
-Thread safety (seguridad de hilos) es la garantía de que una función, módulo o estructura de datos opera sin errores ni corrupción de memoria cuando es ejecutada concurrentemente por múltiples hilos de procesamiento.
-
-## Definición y etimología
-El concepto une thread (hilo de ejecución en el procesador) con safety (coherencia de datos). No tiene que ver con ataques informáticos, sino con la sincronización interna: cuando dos tareas modifican la misma variable a la vez sin coordinación, los datos intermedios se corrompen.
-
-## Contexto cotidiano e uso práctico
-Campos habituales de aplicación :
-- **Sistemas Financieros:** Evitar que dos pagos simultáneos dejen una cuenta bancaria con saldo negativo incoherente.- **Plataformas de Entradas:** Asegurar que una butaca de teatro no pueda asignarse a dos compradores a la vez.- **Servidores de Backend:** Servir cientos de peticiones por segundo compartiendo variables globales en memoria.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Bancario: Dos solicitudes de retiro de la misma cuenta no reducen el saldo a negativo.Venta de entradas: El último asiento no debe venderse a dos personas a la vez.Contadores: El contador de visitantes aumenta en un incremento completo con cada solicitud.
 
 ## Profundidad técnica y arquitectura
-Técnicas principales para lograr thread safety :
-- **Cerrojos (Mutex / Locks):** Permiten que únicamente un hilo acceda a la sección crítica en cada instante.- **Operaciones Atómicas:** Instrucciones de hardware directas que impiden interrupciones a mitad de una modificación.- **Estructuras Inmutables:** Datos de solo lectura accesibles por múltiples hilos de forma paralela sin bloqueos.- **Modelo de Propiedad de Rust:** El compilador analiza las referencias en memoria e impide condiciones de carrera antes de la ejecución.
+Las herramientas típicas son:
 
-## Suele confundirse con
-Se confunde a menudo con la ciberseguridad. Thread safety no protege contra malware o intrusiones de red; previene fallos lógicos debidos a accesos concurrentes no sincronizados en la memoria.
+## Cosas frecuentemente mezcladas
+No está relacionado con la ciberseguridad. El tema no son los piratas informáticos, sino la consistencia de los datos: evitar que dos operaciones que acceden a los mismos datos al mismo tiempo se sobrescriban mutuamente.
 
-## Perspectivas interdisciplinares
-Situaciones paralelas en la vida real :
-- **Circulación:** Un puente estrecho de un solo carril regulado por semáforos temporizados.- **Taller:** Dos mecánicos que se turnan ordenadamente para usar la única herramienta disponible.- **Mostrador:** Un único empleado que atiende a los clientes uno por uno mediante turno asignado.
-
-## Por analogía
-Es como poner un cerrojo en el cuarto de baño compartido de una vivienda: mientras una persona está dentro, las demás esperan en el pasillo hasta que termine.
+## Uso en diferentes disciplinas
+Tráfico: Semáforos que determinan el orden de paso en un puente de un solo carril.Cocina: Cineros que utilizan un solo cuchillo por turnos.Biblioteca: El intercambio de un único ejemplar de un libro mediante el registro de préstamos.
 
 ## Preguntas frecuentes
+**¿Qué sucede si no es seguro para subprocesos?**
+Los datos se mezclan, los cálculos salen mal o la aplicación se bloquea. Es difícil de depurar porque el error no se repite en cada ejecución.
 
-**¿Qué ocurre si un sistema carece de thread safety?**  
-Se producen condiciones de carrera que corrompen variables en memoria de forma aleatoria e impredecible.
+**¿Se debe añadir un bloqueo a cada código?**
+No. En el código de un solo hilo, los bloqueos introducen una sobrecarga innecesaria. Solo se protegen las secciones concurrentes que tocan datos compartidos.
 
-**¿El uso intensivo de cerrojos siempre es la mejor solución?**  
-No, porque los cerrojos excesivos reducen el rendimiento e introducen riesgos de bloqueo mutuo (deadlock).
+**¿Qué es el interbloqueo (deadlock) y cómo se previene?**
+Es cuando dos procesos se quedan atascados esperando el bloqueo del otro. Tomar siempre los bloqueos en el mismo orden y mantener la sección crítica corta reduce el riesgo.
 
-**¿Cómo ayuda Rust a escribir código seguro entre hilos?**  
-A través de su sistema de ownership y borrowing, que garantiza en tiempo de compilación que no existan mutaciones compartidas.
+**¿Se detecta con una prueba?**
+Es difícil de detectar, ya que el error depende del momento de ejecución. Se utilizan pruebas de carga y detectores de carreras especiales (race detector).
 
-**¿Por qué las estructuras inmutables son thread-safe por naturaleza?**  
-Porque al no poder modificarse una vez creadas, múltiples hilos pueden leer sus datos simultáneamente sin interferirse.
 
 ## Términos relacionados
 - [Concurrency](/es/dictionary/concurrency/)
 - [System Programming Language](/es/dictionary/system-programming-language/)
-- [Mutex](/es/dictionary/mutex/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/thread-safety/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/thread-safety/

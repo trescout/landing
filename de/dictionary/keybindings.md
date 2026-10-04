@@ -1,22 +1,31 @@
 # Was ist Keybindings?
 
-Dabei handelt es sich um den Vorgang, den Tasten der Tastatur bestimmte Aufgaben oder Befehle zuzuweisen.
+Eine Tastenkombination (oder Keybinding / Tastenbelegung) ist die Zuweisung einer bestimmten Taste oder Tastenkombination (z. B. Strg+C, Cmd+K), um in einer Software sofort einen bestimmten Befehl, eine Aktion oder ein Makro auszulösen.
 
-## Definition
-Damit können Sie bei der Verwendung der Software schnell Vorgänge ausführen, ohne die Maus zu berühren. Das Drücken von „Strg+C“ zum Kopieren von Text ist beispielsweise eine Tastenkombinationsdefinition. Dies beschleunigt den Arbeitsablauf der Benutzer und steigert die Effizienz.
+## Definition und Bedeutung
+Der Begriff „Keybind“ oder „Keybinding“ wird im Türkischen als Tastenbelegung, Tastenkombination oder Tastenzuordnung ausgedrückt. Er ermöglicht es dem Nutzer, Befehle wie das Öffnen von Dateien, das Formatieren von Code, das Durchführen von Suchen oder das Ausführen einer Fähigkeit in einem Spiel innerhalb von Zehntelsekunden auszuführen, ohne die Hand von der Tastatur zur Maus bewegen zu müssen.
 
-## So funktioniert es
-Welche Tastenkombination was bewirkt, wird im Einstellungsbereich der Software oder über eine Konfigurationsdatei festgelegt.
+## Warum ist das so wichtig? (Effizienz und Ergonomie)
+Aufrechterhaltung des mentalen Flows (Flow State): Reduziert die Reibung (Friction) zwischen der Denkgeschwindigkeit des Entwicklers oder Spielers und der Ausführungsgeschwindigkeit auf Null.
 
-## Wo es eingesetzt wird
-Es ist definitiv in Code-Editoren, Spielen und professionellen Design-Tools vorhanden.
+## Beliebte Keybinding-Systeme
+Vim / Neovim Modales Bearbeiten: Die legendäre, auf Grammatik basierende Tastatursteuerungsphilosophie, die die Hauptreihe der Tastatur (hjkl) als Pfeiltasten nutzt, wie zum Beispiel ciw (change inner word).VS Code und moderne Editoren: Das mit Cmd/Ctrl + Shift + P geöffnete universelle Befehlsfeld, das Verschieben von Zeilen mit Alt + Nach-oben/Nach-unten und die Verwaltung mehrerer Cursor (Cmd/Ctrl + D).Terminal-Multiplexer (tmux): Das Aufteilen von Panelen und Navigieren zwischen Tabs mithilfe von Präfixtasten wie Strg+B.Gaming-Welt (Gaming Keybinds): Das WASD-Grundbewegungsschema, die Zuweisung von Fähigkeiten auf die Tasten Q-E-R-F und die seitlichen Maustasten.
 
 ## Häufig verwechselt mit
-Es kann mit Wähltasten verwechselt werden, aber Wähltasten sind hauptsächlich für Einwahlschnittstellen gedacht.
+Tastenkombination (Shortcut) wird oft synonym mit Keybind verwendet. In der Praxis bezeichnen Shortcuts jedoch universelle Kombinationen auf Betriebssystemebene (Strg+V, Alt+Tab), während Keybind eher die benutzerdefinierten Zuweisungen beschreibt, die ein Benutzer in einem Editor oder Spiel nach eigenen Gewohnheiten neu belegt (re-map).
 
 ## Häufige Fragen
-**Kann ich meine eigene Verknüpfung erstellen?**
-Ja, die meisten modernen Editoren und Anwendungen erlauben diese Anpassung.
+**Keybind-Bedeutung (Was bedeutet Keybind)?**
+Es ist der Prozess des Zuweisens und Verknüpfens einer speziellen Softwarefunktion (Befehl, Aktion, Makro) mit einer bestimmten Taste oder Tastenkombination.
+
+**Warum bevorzugen Entwickler Keybindings anstelle der Maus?**
+Das Arbeiten, ohne die Hände von der Tastatur zu nehmen, erhöht die Schreib- und Bearbeitungsgeschwindigkeit um das 3- bis 5-Fache und verhindert Ablenkungen.
+
+**Was ist die Philosophie der Vim-Keybindings?**
+Es ist ein modulares System, bei dem jede Taste auf der Tastatur wie ein Befehl funktioniert, ohne in den Schreibmodus zu wechseln, und die Textbearbeitung in einen flüssigen, tastenbasierten Tanz verwandelt.
+
+**Wie werden Keybindings in VS Code angepasst?**
+Durch Drücken von Strg + K Strg + S über die Benutzeroberfläche für Tastenkombinationen oder durch direkte Bearbeitung der Datei keybindings.json im JSON-Format können neue Tastenzuweisungen vorgenommen werden.
 
 
 ## Verwandte Begriffe

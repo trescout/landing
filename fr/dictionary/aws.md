@@ -1,53 +1,37 @@
-# Qu'est-ce qu' AWS ?
+# Qu'est-ce que Amazon Web Services ?
 
 > Amazon Web Services
 
-**Catégorie:** Dev  
-**Dernière mise à jour:** 2026-09-22
+AWS (Amazon Web Services), serveurs, stockage et bases de données sont des services informatiques que vous louez via Internet sur cette plateforme cloud.
 
-AWS (Amazon Web Services) est la plateforme cloud d'Amazon fournissant à la demande des serveurs virtuels, du stockage, des bases de données et des infrastructures complètes sur Internet.
+## Définition et origine du mot
+Au lieu de configurer votre propre serveur physique, vous louez les centres de données d'Amazon. La capacité augmente lorsque les besoins augmentent et diminue lorsque le travail est terminé. Il fonctionne sur un modèle de paiement à l'utilisation. Presque toutes les applications modernes ont ce type d'infrastructure cloud en arrière-plan.
 
-## Définition et étymologie
-Plutôt que d'acheter et maintenir des serveurs physiques dans une salle informatique, les entreprises louent la puissance de calcul des centres de données d'Amazon. La capacité s'ajuste instantanément au trafic selon un modèle de paiement à l'usage. AWS constitue le socle technologique de la majorité des applications web contemporaines.
-
-## Usage quotidien et contexte pratique
-- **Sites web et applications mobiles :** Serveurs à mise à l'échelle automatique absorbant les pics de trafic.
-- **Sauvegardes et archivage :** Stockage immuable et hautement disponible pour la conformité et la sécurité.
-- **Diffusion vidéo :** Réseaux de diffusion de contenu (CDN) distribuant des médias à faible latence.
-- **Startups :** Lancement instantané de produits sans investissement en matériel informatique.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Site web: Serveurs qui évoluent en fonction du trafic.Sauvegarde : Un coffre-fort de fichiers qui semble illimité.Vidéo: Contenu distribué au fur et à mesure qu'il est visionné.Démarrer: Mise en ligne sans avoir à installer de salle de serveurs.
 
 ## Profondeur technique et architecture
-Services piliers d'AWS :- **EC2 :** Serveurs virtuels configurables à la demande.
-- **S3 :** Stockage objet hautement résilient pour sauvegardes et fichiers statiques.
-- **RDS :** Bases de données relationnelles entièrement gérées (Postgres, MySQL).
-- **Lambda :** Exécution de code serverless déclenchée par des événements.
+Services de base :
 
-L'infrastructure s'articule autour de régions géographiques et de zones de disponibilité (AZ) indépendantes. Le modèle de responsabilité partagée stipule qu'Amazon sécurise le cloud, tandis que le client sécurise ses données et ses configurations.<div class="disc-cmd"><div class="disc-cmd-head"><span>Lister les instances EC2 actives via AWS CLI</span></div><pre><code>aws ec2 describe-instances --query "Reservations[].Instances[].State.Name"</code></pre></div>
+## Choses fréquemment mélangées
+On pense souvent qu'il ne s'agit que d'un service d'hébergement de sites. Pourtant, c'est une plateforme d'infrastructure complète couvrant les bases de données, l'intelligence artificielle, les réseaux et les couches de sécurité avec plus de 200 services.
 
-## Souvent confondu avec
-Souvent confondu avec un simple hébergeur web. Un hébergeur traditionnel se contente de stocker des fichiers de site ; AWS offre plus de 200 services managés incluant intelligence artificielle, routage réseau mondial et conteneurs.
+## Utilisation dans différentes disciplines
+Réseau électrique : Débrancher la prise au lieu d'installer un standard téléphonique.Entrepôt à louer : Louer des étagères selon les besoins.Taxi : Voyager sans posséder de véhicule.
 
-## Perspectives interdisciplinaires
-- **Réseau électrique :** Se brancher sur une prise murale plutôt que construire sa propre centrale.
-- **Entrepôt de stockage :** Louer un box selon le volume d'affaires sans acheter de hangar.
-- **Taxi :** Se déplacer à la demande sans devoir financer l'achat d'un véhicule.
+## Foire aux questions
+**Pourquoi devrais-je utiliser AWS ?**
+Vous accédez instantanément à une infrastructure d'entreprise sans investir dans du matériel. Si le trafic est fluctuant, la mise à l'échelle et les services prêts à l'emploi permettent de gagner du temps.
 
-## Par analogie
-C'est comme acheter de l'électricité au réseau public plutôt que de construire sa propre centrale : vous branchez vos appareils et ne payez que les kilowatts consommés.
+**Est-il possible de commencer gratuitement ?**
+Oui. Le plan gratuit, les crédits et les conditions de durée pour les nouveaux comptes peuvent changer avec le temps ; vous devez vérifier les limites actuelles sur la page AWS Free Tier avant de commencer.
 
-## Questions fréquentes
+**Où mes données sont-elles conservées ?**
+Il est conservé dans la région que vous avez choisie. Pour les réglementations telles que la KVKK, vous devez effectuer le choix de la région et le chiffrement conformément à votre politique.
 
-**Pourquoi migrer vers AWS ?**  
-Pour éliminer les investissements matériels lourds, déployer à l'international en quelques clics et adapter ses coûts au trafic réel.
+**Comment garder le contrôle sur la facture ?**
+Grâce aux alertes budgétaires, au nettoyage des ressources inutilisées et au dimensionnement approprié. Pour les petites équipes, une discipline d'étiquetage est indispensable.
 
-**Est-il possible de démarrer gratuitement ?**  
-Oui. L'offre AWS Free Tier propose des quotas gratuits pendant 12 mois pour découvrir les services de base sans facturation immédiate.
-
-**Où sont stockées les données des utilisateurs ?**  
-Elles demeurent exclusivement dans la région géographique choisie par l'administrateur, garantissant la conformité avec le RGPD.
-
-**Comment maîtriser ses dépenses cloud ?**  
-En configurant des alertes de budget AWS, en activant le balisage des ressources et en supprimant régulièrement les volumes de stockage inutilisés.
 
 ## Termes liés
 - [Cloud Computing](/fr/dictionary/cloud-computing/)
@@ -55,4 +39,4 @@ En configurant des alertes de budget AWS, en activant le balisage des ressources
 - [PaaS](/fr/dictionary/paas/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/aws/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/aws/

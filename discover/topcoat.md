@@ -2,15 +2,15 @@
 
 Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları oluşturmak için gerekli tüm araçları barındıran kapsamlı bir çatı (framework) sunuyor. Geliştiricilerin ihtiyaç duyduğu temel bileşenleri tek bir yapıda toplayarak uygulama geliştirme sürecini standartlaştırmayı hedefliyor.
 
-- ★ 5.415
+- ★ 5.914
 - Rust
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
+- 4 Ekim 2026: Yıldız 5.415 → 5.914, son sürüm v0.10.0 (3 Ekim 2026).
 - 27 Eylül 2026: Yıldız 4.823 → 5.415, son sürüm v0.9.0 (24 Eylül 2026).
 - 14 Eylül 2026: Yıldız 4.799 → 4.823, son sürüm v0.8.1 (13 Eylül 2026).
 - 10 Eylül 2026: Yıldız 4.761 → 4.799, son sürüm v0.8.0 (9 Eylül 2026).
-- 5 Eylül 2026: Yıldız 4.584 → 4.761, son sürüm v0.7.0 (5 Eylül 2026).
 
 ## Ne kazandırır?
 - Sunucu taraflı hızlı HTML oluşturma

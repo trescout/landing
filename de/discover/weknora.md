@@ -2,7 +2,7 @@
 
 Das von Tencent entwickelte WeKnora ist eine Open-Source-Plattform, die Rohdokumente in eine abfragbare Wissensdatenbank (RAG), einen autonomen Schlussfolgerungs-Agenten und ein sich selbst aktualisierendes Wiki-System umwandelt. Das in der Programmiersprache Go geschriebene Tool zielt darauf ab, unstrukturierte Daten in unternehmensweit zugängliche Wissenswerte zu verwandeln.
 
-- ★ 30.355
+- ★ 31.949
 - Go
 - GitHub Trending · 2026-09-18
 

@@ -1,51 +1,39 @@
-# O que é Thread Safety?
+# O que é Thread-safety?
 
-> Inglês: Thread Safety · Etimologia: inglês arcaico thraed (fio, meada) + latim salvus (ileso/seguro)
+Thread safety (Türkçe karşılığıyla iş parçacığı güvenliği), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.
 
-**Categoria:** Dev  
-**Última atualização:** 2026-09-22
+## Definição e origem da palavra
+"Thread" significa encadeamento ou thread, e "safety" significa segurança. A segurança aqui não é contra hackers, mas sim para garantir que os dados permaneçam consistentes: se duas operações atualizarem a mesma conta ao mesmo tempo, o resultado pode estar incorreto. O código thread-safe regulamenta essa disputa. Aplicações bancárias, servidores web e todos os softwares multiprocessamento precisam disso.
 
-Thread safety (segurança de thread) é a propriedade de um algoritmo ou estrutura de dados de funcionar corretamente quando acessado por múltiplas threads simultaneamente, evitando corrupção de memória.
+## Como conhecer e usar no dia a dia?
+Bancário: Dois pedidos de saque da mesma conta não reduzem o saldo para negativo.Vendas de ingressos: O último assento não deve ser vendido para duas pessoas ao mesmo tempo.Contadores: O contador de visitantes aumenta um incremento completo a cada solicitação.
 
-## Definição e etimologia
-O conceito combina thread (linha de execução independente) e segurança de coerência de dados. Não se trata de segurança contra invasores externos, mas de preservar a consistência das informações: se dois processos alteram o mesmo saldo ao mesmo tempo sem coordenação, o valor final resultará incorreto.
+## Profundidade Técnica e Arquitetura
+Ferramentas típicas são:
 
-## Contexto cotidiano e uso prático
-Cenários práticos que exigem thread safety :
-- **Transações Bancárias:** Garantir que saques concorrentes não permitam retirar mais dinheiro do que o disponível.- **Venda de Ingressos:** Assegurar que um assento numerado seja reservado para apenas um comprador.- **Servidores de Aplicação:** Responder a milhares de requisições simultâneas sem corromper estruturas em cache.
+## Coisas frequentemente misturadas
+Não está relacionado à segurança cibernética. O assunto não são hackers, mas a consistência de dados: garantir que duas operações que acessam os mesmos dados ao mesmo tempo não sobrescrevam uma à outra.
 
-## Profundidade técnica e arquitetura
-Estratégias de engenharia para atingir thread safety :
-- **Exclusão Mútua (Mutex e Locks):** Bloqueios temporários que garantem acesso exclusivo à seção crítica.- **Operações Atômicas:** Instruções de hardware (como CAS) que executam leitura e escrita em passo único e indivisível.- **Imutabilidade:** Dados constantes que podem ser lidos por quantas threads forem necessárias sem travas.- **Sistemas de Tipos Modernos (Rust):** Regras de ownership verificadas em tempo de compilação que eliminam data races.
+## Use em diferentes disciplinas
+Tráfego: Os semáforos que determinam a ordem de passagem em uma ponte de pista única.Culinária: Cozinheiros que usam a mesma faca um de cada vez.Biblioteca: A troca de um livro de exemplar único com o registro de empréstimos.
 
-## Costuma ser confundido com
-É comum confundir com segurança cibernética. O objetivo aqui não é barrar vírus ou hackers, mas evitar anomalias e comportamentos imprevisíveis na concorrência de memória.
+## Perguntas Frequentes
+**O que acontece se não for thread-safe?**
+Os dados se misturam, os cálculos dão errado ou o aplicativo trava. É difícil de depurar porque o erro não se repete a cada execução.
 
-## Perspectivas interdisciplinares
-Exemplos cotidianos :
-- **Trânsito:** Uma ponte de pista única controlada por semáforos alternados.- **Cozinha Profissional:** Cozinheiros que compartilham uma única faca afiada, usando-a um por vez.- **Fila Bancária:** Atendimento individual por caixa, evitando que dois clientes sejam atendidos juntos no mesmo guichê.
+**Deve-se adicionar bloqueios a todo código?**
+Não. Em código de thread único (single-threaded), os bloqueios trazem sobrecarga desnecessária. Apenas as seções concorrentes que acessam dados compartilhados são protegidas.
 
-## Por analogia
-É como colocar um trinco na porta de um banheiro compartilhado: enquanto alguém estiver usando, os demais esperam do lado de fora.
+**O que é deadlock e como evitá-lo?**
+É quando duas operações ficam travadas esperando pelo bloqueio uma da outra. Sempre adquirir os bloqueios na mesma ordem e manter a seção crítica curta reduz o risco.
 
-## Perguntas frequentes
+**É detectado por testes?**
+É difícil de detectar porque o erro depende de tempo (timing). Utilizam-se testes de carga e detectores de corrida (race detectors) especiais.
 
-**O que acontece quando o código não é thread-safe?**  
-Ocorrem condições de corrida que alteram silenciosamente variáveis na memória, gerando falhas difíceis de reproduzir.
-
-**O uso de travas (locks) resolve tudo?**  
-Travas mal projetadas podem causar deadlocks, onde duas threads ficam bloqueadas aguardando a liberação mútua de recursos.
-
-**Como linguagens modernas lidam com isso?**  
-Linguagens como Rust utilizam o sistema de posse e empréstimo de memória para barrar erros de concorrência antes mesmo da execução.
-
-**Dados imutáveis são sempre seguros entre threads?**  
-Sim, pois se a estrutura nunca é alterada após sua criação, leituras concorrentes ocorrem sem qualquer interferência mútua.
 
 ## Termos relacionados
 - [Concurrency](/pt/dictionary/concurrency/)
 - [System Programming Language](/pt/dictionary/system-programming-language/)
-- [Mutex](/pt/dictionary/mutex/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/thread-safety/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/thread-safety/
