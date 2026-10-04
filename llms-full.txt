@@ -37496,6 +37496,67 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yerel Ağda Dosya ve Mesaj Paylaşımı
+
+Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.
+
+- ★ 93.329
+- GitHub Trending · 2026-08-13
+
+## Güncelleme
+- 4 Ekim 2026: Yıldız 88.882 → 93.329, son sürüm v1.18.2 (21 Ağustos 2026).
+- 21 Ağustos 2026: Yıldız 88.401 → 88.882, son sürüm v1.18.2 (21 Ağustos 2026).
+- 15 Ağustos 2026: Yıldız 87.961 → 88.401, son sürüm v1.18.1 (12 Ağustos 2026).
+
+## Bu araç ne yapar?
+
+LocalSend; Windows, macOS, Linux, Android ve iOS cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşımı sağlayan ücretsiz, açık kaynaklı bir uygulamadır. REST API ve HTTPS şifrelemesi kullanır; hesap veya giriş istemez.
+
+## Kimin için?
+
+Aynı yerel ağdaki farklı işletim sistemlerine sahip cihazlar arasında dosya ya da mesaj paylaşmak isteyenler.
+
+## Ne beklememeli?
+
+İnternet üzerinden farklı ağlardaki cihazlara aktarım yapmak veya uygulama içi otomatik güncelleme bekleyenler.
+
+## Öne çıkanlar
+- İnternet bağlantısı veya üçüncü taraf sunucu gerektirmez.
+- Windows, macOS, Linux, Android ve iOS’u destekler.
+- Hesap oluşturma ya da giriş yapma zorunluluğu yoktur.
+- Yerel iletişimde REST API ve HTTPS şifrelemesi kullanır.
+
+## İlk kullanım akışı
+- Cihazınız için uygun sürümü resmî web sitesi, uygulama mağazası veya paket yöneticisi üzerinden yükleyin.
+- Paylaşım yapacağınız cihazları aynı yerel ağa bağlayın.
+- Bağlantı sorunu yaşarsanız güvenlik duvarında TCP ve UDP 53317 için gelen trafiği kontrol edin.
+- Uygulamada paylaşmak istediğiniz dosya veya mesajı seçerek gönderim işlemini başlatın.
+
+## Güvenli başlangıç
+
+LocalSend internet veya üçüncü taraf sunucu gerektirmeden yerel ağda çalışır ve HTTPS şifrelemesi kullanır. Ağınızda AP isolation etkinse cihazlar birbirini göremeyebilir; güvenlik duvarı kuralları da bağlantıyı etkileyebilir.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Aynı yerel ağdaki bilgisayarımdan telefonuma fotoğraf nasıl gönderirim?
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/localsend/localsend)
+- [LocalSend resmî README →](https://github.com/localsend/localsend)
+- [LocalSend resmî sitesi →](https://localsend.org/)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+API
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/localsend/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Veri odaklı yapay zekâ motoru
 
 RAGFlow, büyük dil modelleri (LLM) için bağlam katmanı oluşturan açık kaynaklı bir getirme temelli üretim (RAG) motoru. Gelişmiş RAG tekniklerini ajan yetenekleriyle birleştirerek verilerin işlenmesini ve yanıtların doğruluğunu artırmayı hedefliyor.
@@ -38011,66 +38072,6 @@ System Design
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/system-design-101/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yerel Ağda Dosya ve Mesaj Paylaşımı
-
-Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.
-
-- ★ 88.882
-- GitHub Trending · 2026-08-13
-
-## Güncelleme
-- 21 Ağustos 2026: Yıldız 88.401 → 88.882, son sürüm v1.18.2 (21 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 87.961 → 88.401, son sürüm v1.18.1 (12 Ağustos 2026).
-
-## Bu araç ne yapar?
-
-LocalSend; Windows, macOS, Linux, Android ve iOS cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşımı sağlayan ücretsiz, açık kaynaklı bir uygulamadır. REST API ve HTTPS şifrelemesi kullanır; hesap veya giriş istemez.
-
-## Kimin için?
-
-Aynı yerel ağdaki farklı işletim sistemlerine sahip cihazlar arasında dosya ya da mesaj paylaşmak isteyenler.
-
-## Ne beklememeli?
-
-İnternet üzerinden farklı ağlardaki cihazlara aktarım yapmak veya uygulama içi otomatik güncelleme bekleyenler.
-
-## Öne çıkanlar
-- İnternet bağlantısı veya üçüncü taraf sunucu gerektirmez.
-- Windows, macOS, Linux, Android ve iOS’u destekler.
-- Hesap oluşturma ya da giriş yapma zorunluluğu yoktur.
-- Yerel iletişimde REST API ve HTTPS şifrelemesi kullanır.
-
-## İlk kullanım akışı
-- Cihazınız için uygun sürümü resmî web sitesi, uygulama mağazası veya paket yöneticisi üzerinden yükleyin.
-- Paylaşım yapacağınız cihazları aynı yerel ağa bağlayın.
-- Bağlantı sorunu yaşarsanız güvenlik duvarında TCP ve UDP 53317 için gelen trafiği kontrol edin.
-- Uygulamada paylaşmak istediğiniz dosya veya mesajı seçerek gönderim işlemini başlatın.
-
-## Güvenli başlangıç
-
-LocalSend internet veya üçüncü taraf sunucu gerektirmeden yerel ağda çalışır ve HTTPS şifrelemesi kullanır. Ağınızda AP isolation etkinse cihazlar birbirini göremeyebilir; güvenlik duvarı kuralları da bağlantıyı etkileyebilir.
-
-## İlk görev istemi
-İlk adım için hazır istem 
-Aynı yerel ağdaki bilgisayarımdan telefonuma fotoğraf nasıl gönderirim?
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/localsend/localsend)
-- [LocalSend resmî README →](https://github.com/localsend/localsend)
-- [LocalSend resmî sitesi →](https://localsend.org/)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-API
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/localsend/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -41530,15 +41531,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.
 
-- ★ 56.452
+- ★ 56.505
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
+- 4 Ekim 2026: Yıldız 56.452 → 56.505, son sürüm v0.8.123 (4 Ekim 2026).
 - 4 Ekim 2026: Yıldız 56.075 → 56.452, son sürüm v0.8.121 (4 Ekim 2026).
 - 3 Ekim 2026: Yıldız 55.548 → 56.075, son sürüm v0.8.114 (3 Ekim 2026).
 - 2 Ekim 2026: Yıldız 54.998 → 55.548, son sürüm v0.8.111 (2 Ekim 2026).
-- 1 Ekim 2026: Yıldız 54.919 → 54.998, son sürüm v0.8.104 (1 Ekim 2026).
 
 ## Ne kazandırır?
 - HTML ve CSS ile video üretimi
@@ -42585,15 +42586,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir yardımcı araçlar ve fonksiyonlar sunuyor. Python tabanlı bu kütüphane, nesne tespiti ve takibi gibi süreçlerdeki standart işlemleri kolaylaştırarak geliştirme iş akışlarını hızlandırıyor.
 
-- ★ 51.075
+- ★ 51.118
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
+- 4 Ekim 2026: Yıldız 51.075 → 51.118, son sürüm 0.30.7 (4 Ekim 2026).
 - 29 Eylül 2026: Yıldız 51.054 → 51.075, son sürüm 0.30.6 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 50.896 → 51.054, son sürüm 0.30.5 (22 Eylül 2026).
 - 18 Eylül 2026: Yıldız 50.140 → 50.896, son sürüm 0.30.4 (17 Eylül 2026).
-- 15 Eylül 2026: Yıldız 49.875 → 50.140, son sürüm 0.30.3 (14 Eylül 2026).
 
 ## Ne kazandırır?
 - Bilgisayarlı görü projelerinde veri yükleme ve işleme süreçlerini hızlandırır.
@@ -46570,15 +46571,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.
 
-- ★ 34.574
+- ★ 34.575
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
+- 4 Ekim 2026: Yıldız 34.574 → 34.575, son sürüm v2026.10.2 (4 Ekim 2026).
 - 4 Ekim 2026: Yıldız 34.503 → 34.574, son sürüm v2026.10.1 (3 Ekim 2026).
 - 2 Ekim 2026: Yıldız 34.461 → 34.503, son sürüm v2026.10.0 (2 Ekim 2026).
 - 30 Eylül 2026: Yıldız 34.419 → 34.461, son sürüm v2026.9.18 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 34.365 → 34.419, son sürüm v2026.9.17 (29 Eylül 2026).
 
 ## Ne kazandırır?
 - Proje araçlarını ve sürümlerini otomatik yönetir
@@ -61212,6 +61213,63 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kendi sunucunuzda çok kullanıcılı yapay zekâ
+
+TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay zekâ asistanı. Python tabanlı bu sistem, farklı kullanıcıların aynı anda birden fazla yapay zekâ ajanıyla etkileşime girmesine olanak tanıyor.
+
+- ★ 6.668
+- Python
+- GitHub Trending · 2026-09-18
+
+## Güncelleme
+- 4 Ekim 2026: Yıldız 5.663 → 6.668, son sürüm v1.0.2b5 (29 Eylül 2026).
+- 29 Eylül 2026: Yıldız 5.435 → 5.663, son sürüm v1.0.2b5 (29 Eylül 2026).
+- 28 Eylül 2026: Yıldız 5.205 → 5.435, son sürüm v1.0.2b4 (27 Eylül 2026).
+- 27 Eylül 2026: Yıldız 5.129 → 5.205, son sürüm v1.0.2b3 (27 Eylül 2026).
+
+## Ne kazandırır?
+- Birden fazla yapay zekâ ajanını aynı anda yönetin
+- Verilerinizi yerel diskinizde güvenle saklayın
+- Web arayüzü, mesajlaşma uygulamaları ve terminal üzerinden erişin
+
+## Kurulum
+
+**Kurulum komutu**
+
+```
+curl -fsSL https://finnie-1258344699.cos.ap-guangzhou.myqcloud.com/octop/install.sh | bash
+```
+
+## Çalıştırma
+
+**İlk çalıştırma**
+
+```
+octop init
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Octop platformunda çok kullanıcılı ve çok ajanlı bir çalışma ortamı kurmak istiyorum. Kişisel asistanım, aile üyelerim veya küçük ekip arkadaşlarım için farklı uzmanlıklara sahip ajanlar tanımlayarak, bu ajanların yerel verilerim üzerinde güvenli bir şekilde çalışmasını ve web arayüzü veya mesajlaşma kanalları üzerinden benimle iş birliği yapmasını sağla. Ajanların MBTI kişilik özelliklerini yapılandır, RAG (Retrieval-Augmented Generation - belgelerden anlamlı bilgi getiren teknoloji) ile özel belgelerimden yanıt üretmelerini sağla ve görevlerimi otomatize et.
+
+- **Kimin için:** Kendi sunucusunda gizliliğe önem veren, çok sayıda yapay zekâ ajanını tek bir merkezden yönetmek isteyen bireyler ve küçük ekipler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/TencentCloud/Octop)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+RAG Terminal Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/octop/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ altyapınız için güvenlik denetimi
 
 AI-Infra-Guard, ajanları, becerileri, MCP'yi ve yapay zekâ altyapısını tarayan, ayrıca LLM jailbreak değerlendirmeleri yapan uçtan uca bir yapay zekâ kırmızı ekip platformudur.
@@ -62297,63 +62355,6 @@ TUI Binary MCP Terminal CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hister/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Kendi sunucunuzda çok kullanıcılı yapay zekâ
-
-TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay zekâ asistanı. Python tabanlı bu sistem, farklı kullanıcıların aynı anda birden fazla yapay zekâ ajanıyla etkileşime girmesine olanak tanıyor.
-
-- ★ 5.663
-- Python
-- GitHub Trending · 2026-09-18
-
-## Güncelleme
-- 29 Eylül 2026: Yıldız 5.435 → 5.663, son sürüm v1.0.2b5 (29 Eylül 2026).
-- 28 Eylül 2026: Yıldız 5.205 → 5.435, son sürüm v1.0.2b4 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 5.129 → 5.205, son sürüm v1.0.2b3 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 4.064 → 5.129, son sürüm v1.0.2b2 (23 Eylül 2026).
-
-## Ne kazandırır?
-- Birden fazla yapay zekâ ajanını aynı anda yönetin
-- Verilerinizi yerel diskinizde güvenle saklayın
-- Web arayüzü, mesajlaşma uygulamaları ve terminal üzerinden erişin
-
-## Kurulum
-
-**Kurulum komutu**
-
-```
-curl -fsSL https://finnie-1258344699.cos.ap-guangzhou.myqcloud.com/octop/install.sh | bash
-```
-
-## Çalıştırma
-
-**İlk çalıştırma**
-
-```
-octop init
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Octop platformunda çok kullanıcılı ve çok ajanlı bir çalışma ortamı kurmak istiyorum. Kişisel asistanım, aile üyelerim veya küçük ekip arkadaşlarım için farklı uzmanlıklara sahip ajanlar tanımlayarak, bu ajanların yerel verilerim üzerinde güvenli bir şekilde çalışmasını ve web arayüzü veya mesajlaşma kanalları üzerinden benimle iş birliği yapmasını sağla. Ajanların MBTI kişilik özelliklerini yapılandır, RAG (Retrieval-Augmented Generation - belgelerden anlamlı bilgi getiren teknoloji) ile özel belgelerimden yanıt üretmelerini sağla ve görevlerimi otomatize et.
-
-- **Kimin için:** Kendi sunucusunda gizliliğe önem veren, çok sayıda yapay zekâ ajanını tek bir merkezden yönetmek isteyen bireyler ve küçük ekipler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/TencentCloud/Octop)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-RAG Terminal Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/octop/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -63781,6 +63782,72 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Uçbirim üzerinden hızlı video indirme
+
+Yoinks, uçbirim (terminal) üzerinden herhangi bir videoyu reklam veya yönlendirme olmadan indirmeye yarayan bir araçtır. TypeScript ile geliştirilen bu yazılım, video dosyalarını doğrudan yerel depolama birimine aktarmak için pratik bir yöntem sunar.
+
+- ★ 4.173
+- TypeScript
+- GitHub Trending · 2026-10-02
+
+## Güncelleme
+- 4 Ekim 2026: Yıldız 3.165 → 4.173.
+
+## Ne kazandırır?
+- YouTube, Instagram ve TikTok gibi 1800'den fazla siteden video indirir
+- Reklam veya sahte indirme butonları olmadan doğrudan yerel depolamaya kaydeder
+- Video çözünürlüğü seçme veya sadece ses dosyası alma imkânı sunar
+
+## Kurulum
+
+**Global olarak yükleme**
+
+```
+npm install -g yoinks
+```
+
+**Kurulum yapmadan çalıştırma**
+
+```
+npx yoinks
+```
+
+## Çalıştırma
+
+**Video bağlantısıyla başlatma**
+
+```
+yoinks https://youtu.be/dQw4w9WgXcQ
+```
+
+**Etkileşimli menü ile başlatma**
+
+```
+yoinks
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+YouTube, X, Instagram veya TikTok gibi platformlardan video indirmek istiyorum. Uçbirim üzerinde çalışan bu aracı kullanarak, verdiğim video bağlantısını doğrudan yerel indirme klasörüme kaydedecek ve çözünürlük seçeneklerini sunacak şekilde yapılandır. İşlem sırasında reklam veya yönlendirme içermeyen, temiz bir indirme süreci yürütülmesini sağla.
+
+- **Kimin için:** İnternet üzerindeki videoları tarayıcı reklamları ve karmaşık arayüzler olmadan, doğrudan bilgisayarına kaydetmek isteyen herkes için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/pablostanley/yoinks)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Terminal Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/yoinks/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Üyelik gerektirmeyen açık kaynaklı araçlar
 
 FckSignups, kullanıcıdan kayıt veya üyelik talep etmeyen açık kaynaklı tarayıcı tabanlı araçları bir araya getiren bir liste. Yazılım geliştiricilerin ve son kullanıcıların hesap oluşturmadan hızlıca erişebileceği dijital hizmetleri merkezi bir kaynakta topluyor.
@@ -64860,69 +64927,6 @@ Code Review User Interface Markdown Terminal Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tuicr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Uçbirim üzerinden hızlı video indirme
-
-Yoinks, uçbirim (terminal) üzerinden herhangi bir videoyu reklam veya yönlendirme olmadan indirmeye yarayan bir araçtır. TypeScript ile geliştirilen bu yazılım, video dosyalarını doğrudan yerel depolama birimine aktarmak için pratik bir yöntem sunar.
-
-- ★ 3.165
-- TypeScript
-- GitHub Trending · 2026-10-02
-
-## Ne kazandırır?
-- YouTube, Instagram ve TikTok gibi 1800'den fazla siteden video indirir
-- Reklam veya sahte indirme butonları olmadan doğrudan yerel depolamaya kaydeder
-- Video çözünürlüğü seçme veya sadece ses dosyası alma imkânı sunar
-
-## Kurulum
-
-**Global olarak yükleme**
-
-```
-npm install -g yoinks
-```
-
-**Kurulum yapmadan çalıştırma**
-
-```
-npx yoinks
-```
-
-## Çalıştırma
-
-**Video bağlantısıyla başlatma**
-
-```
-yoinks https://youtu.be/dQw4w9WgXcQ
-```
-
-**Etkileşimli menü ile başlatma**
-
-```
-yoinks
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-YouTube, X, Instagram veya TikTok gibi platformlardan video indirmek istiyorum. Uçbirim üzerinde çalışan bu aracı kullanarak, verdiğim video bağlantısını doğrudan yerel indirme klasörüme kaydedecek ve çözünürlük seçeneklerini sunacak şekilde yapılandır. İşlem sırasında reklam veya yönlendirme içermeyen, temiz bir indirme süreci yürütülmesini sağla.
-
-- **Kimin için:** İnternet üzerindeki videoları tarayıcı reklamları ve karmaşık arayüzler olmadan, doğrudan bilgisayarına kaydetmek isteyen herkes için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/pablostanley/yoinks)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Terminal Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/yoinks/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

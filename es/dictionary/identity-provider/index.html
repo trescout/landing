@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es Identity Provider? · Glosario · TreScout</title>
-<meta name="description" content="Un Identity Provider (IdP / Proveedor de Identidad) es un servicio centralizado que gestiona, autentica y valida las identidades digitales de los usuarios en múltiples aplicaciones y plataformas.">
+<meta name="description" content="Un proveedor de identidad (identity provider) es el servicio central que verifica los inicios de sesión.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/identity-provider/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/identity-provider/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/identity-provider/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/identity-provider.md">
 <meta property="og:title" content="¿Qué es Identity Provider?">
-<meta property="og:description" content="Un Identity Provider (IdP / Proveedor de Identidad) es un servicio centralizado que gestiona, autentica y valida las identidades digitales de los usuarios en múltiples aplicaciones y plataformas.">
+<meta property="og:description" content="Un proveedor de identidad (identity provider) es el servicio central que verifica los inicios de sesión.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/identity-provider/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,61 +27,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es Identity Provider?">
-<meta name="twitter:description" content="Un Identity Provider (IdP / Proveedor de Identidad) es un servicio centralizado que gestiona, autentica y valida las identidades digitales de los usuarios en múltiples aplicaciones y plataformas.">
+<meta name="twitter:description" content="Un proveedor de identidad (identity provider) es el servicio central que verifica los inicios de sesión.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Identity Provider",
-  "description": "Un Identity Provider (IdP / Proveedor de Identidad) es un servicio centralizado que gestiona, autentica y valida las identidades digitales de los usuarios en múltiples aplicaciones y plataformas.",
+  "description": "Un proveedor de identidad (identity provider) es el servicio central que verifica los inicios de sesión.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/identity-provider/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "Diccionario Tecnológico TreScout",
+    "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/es/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Cuál es la principal ventaja de utilizar un IdP?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Centraliza la seguridad de las credenciales, previene filtraciones en múltiples bases de datos y habilita inicio de sesión único (SSO)."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cómo confirma el IdP la identidad a las aplicaciones?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Emitiendo tokens criptográficos firmados con atributos verificados del usuario."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Existen alternativas de código abierto para desplegar un IdP propio?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sí, suites consolidadas como Keycloak, Authentik y Authelia se pueden autohospedar de forma íntegra."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué impacto tiene una caída del servicio de IdP?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Impide que los usuarios puedan autenticarse en los servicios dependientes; la redundancia de infraestructura resulta prioritaria."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,17 +56,16 @@
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
 <div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
-<h1 class="disc-title">¿Qué es un <span class="disc-accent">Identity Provider</span>?</h1>
-<p class="dict-en">Proveedor de Identidad Digital</p>
-<p class="disc-lead">Un Identity Provider (IdP / Proveedor de Identidad) es un servicio centralizado que gestiona, autentica y valida las identidades digitales de los usuarios en múltiples aplicaciones y plataformas.</p>
-<section class="disc-sec"><h2>Definición y etimología</h2><p>En el desarrollo de software moderno, las aplicaciones individuales no deben almacenar contraseñas por separado. El IdP independiza la autenticación del código de negocio, facilitando el inicio de sesión único (Single Sign-On / SSO) seguro para múltiples servicios independientes.</p></section>
-<section class="disc-sec"><h2>Contexto cotidiano e uso práctico</h2><p><strong>Acceso Social:</strong> Botones de 'Iniciar sesión con Google o GitHub' en aplicaciones web y móviles.<br><strong>Seguridad Corporativa:</strong> Administración centralizada de permisos y políticas MFA con Okta o Microsoft Entra ID.<br><strong>Entornos Autohospedados:</strong> Despliegue de Keycloak o Authentik para orquestar la seguridad en arquitecturas de microservicios.</p></section>
-<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Estándares y Mecanismos Criptográficos:</p><p><strong>OpenID Connect (OIDC):</strong> Protocolo de identidad sobre OAuth 2.0 que transmite tokens JWT firmados digitalmente.<br><strong>SAML 2.0:</strong> Estándar federado basado en esquemas XML común en administraciones y grandes corporaciones.<br><strong>Autenticación Multifactor (MFA):</strong> Protección añadida con llaves FIDO2/WebAuthn y aplicaciones de códigos TOTP.</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>Suele confundirse con un Service Provider (SP) o servidor de autorización. El IdP responde a '¿Quién eres?' (autenticación); la autorización define '¿A qué funciones tienes acceso?' (permisos).</p></section>
-<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p><strong>Trámites:</strong> El ministerio que emite un pasaporte nacional vs el control aduanero que revisa el visado.<br><strong>Alojamientos:</strong> La recepción del hotel comprobando la identidad y entregando la tarjeta llave vs la puerta de la habitación.<br><strong>Edificios:</strong> La entrada principal emitiendo una acreditación vs los accesos a salas de reuniones privadas.</p></section>
-<div class="dict-analogy">Funciona exactamente como la recepción de un hotel: entrega su pasaporte una sola vez al registrarse, recibe una tarjeta de acceso electrónica y entra en su habitación sin necesidad de identificarse ante cada puerta.</div>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la principal ventaja de utilizar un IdP?</p><p class="dict-faq-a">Centraliza la seguridad de las credenciales, previene filtraciones en múltiples bases de datos y habilita inicio de sesión único (SSO).</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo confirma el IdP la identidad a las aplicaciones?</p><p class="dict-faq-a">Emitiendo tokens criptográficos firmados con atributos verificados del usuario.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Existen alternativas de código abierto para desplegar un IdP propio?</p><p class="dict-faq-a">Sí, suites consolidadas como Keycloak, Authentik y Authelia se pueden autohospedar de forma íntegra.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué impacto tiene una caída del servicio de IdP?</p><p class="dict-faq-a">Impide que los usuarios puedan autenticarse en los servicios dependientes; la redundancia de infraestructura resulta prioritaria.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/cloud-computing/">Cloud Computing</a><a href="/es/dictionary/endpoint/">Endpoint</a><a href="/es/dictionary/application/">Application</a></div></section>
+<h1 class="disc-title">¿Qué es <span class="disc-accent">Identity Provider</span>?</h1>
+<p class="disc-lead">Un proveedor de identidad (identity provider) es el servicio central que verifica los inicios de sesión.</p>
+<section class="disc-sec"><h2>Definición y origen de la palabra</h2><p>En lugar de una contraseña separada para cada aplicación, se realiza un inicio de sesión desde un centro único. La aplicación pregunta al servicio quién es usted y recibe la confirmación. Su contraseña no se distribuye a las aplicaciones, permanece en el centro.</p></section>
+<div class="dict-analogy"><strong>Analogía:</strong> Es similar a mostrar el pasaporte en la recepción de un hotel para obtener una tarjeta llave; la puerta de la habitación confía en la aprobación de la recepción.</div>
+<section class="disc-sec"><h2>¿Cómo saberlo y utilizarlo en la vida diaria?</h2><p><strong>Compañía:</strong> Todos los sistemas con un solo inicio de sesión.<br><strong>Web:</strong> Inicio de sesión con cuenta social.<br><strong>Institucional:</strong> Ciclo de vida del empleado.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Flujo:</p><pre><code>giriş → doğrulama → jeton → uygulama</code></pre><p>Regiones:</p><p><strong>Token de identidad:</strong> El documento de quién es usted.<br><strong>Token de acceso:</strong> El permiso de lo que puede hacer.<br><strong>MFA:</strong> Segunda prueba además de la contraseña.<br><strong>Sesión:</strong> Inicio de sesión único (SSO).</p><p>Regla: La duración del token se mantiene corta, la renovación ocurre en segundo plano.</p></section>
+<section class="disc-sec"><h2>Cosas frecuentemente mezcladas</h2><p>Se confunde con un gestor de contraseñas. Aquel guarda la contraseña, este confirma la identidad. Uno es una caja fuerte, el otro es un notario.</p></section>
+<section class="disc-sec"><h2>Uso en diferentes disciplinas</h2><p><strong>Recepción:</strong> Pasaporte frente a tarjeta llave.<br><strong>Notario:</strong> Certificación de identidad.<br><strong>Control de pasaportes:</strong> Acceso mediante sello.</p></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Es seguro?</p><p class="dict-faq-a">Sí. Como la contraseña no se distribuye a cada aplicación, la superficie de ataque se reduce.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué pasa si el sistema falla?</p><p class="dict-faq-a">Las aplicaciones conectadas se ven afectadas. La redundancia y un plan de acceso de emergencia son obligatorios.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la diferencia con SSO?</p><p class="dict-faq-a">SSO es una experiencia de inicio de sesión único, es la infraestructura del proveedor. Uno es la cara, el otro es la columna vertebral.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Puedo instalarlo yo mismo?</p><p class="dict-faq-a">Sí, existen opciones de código abierto. La disciplina de parches y copias de seguridad depende de usted.</p></div></div></section>
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/sso/">SSO</a><a href="/es/dictionary/oidc/">OIDC</a><a href="/es/dictionary/rbac/">RBAC</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="identity-provider" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
 <p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/identity-provider/">Leer en turco →</a></p>
 </article>

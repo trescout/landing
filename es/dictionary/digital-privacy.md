@@ -1,51 +1,42 @@
 # ¿Qué es Digital Privacy?
 
-> Inglés: Digital Privacy · Etimología: latín privatus (apartado del ámbito público)
+La privacidad digital (digital privacy) es el derecho de los individuos a controlar y limitar quién puede recopilar, almacenar y procesar los datos personales que generan en internet, en dispositivos inteligentes y en servicios digitales.
 
-**Categoría:** Data  
-**Última actualización:** 2026-09-19
+## 1. Origen etimológico y definición básica: ¿Qué significa privacidad digital?
+El concepto de privacidad deriva del término latino privatus, que significa "no perteneciente al público, separado de la comunidad, específico de una persona y aislado". En la literatura jurídica moderna, fue formulado por primera vez en 1890 en un artículo histórico escrito por los juristas estadounidenses Samuel Warren y Louis Brandeis como "The Right to be Let Alone" (el derecho a ser dejado solo / el derecho a no ser molestado).
 
-Digital privacy (privacidad digital) es el derecho y la capacidad de las personas de controlar, limitar y decidir cómo se recopilan, procesan, almacenan y comparten sus datos personales en plataformas y dispositivos digitales.
+## 2. La realidad de la vigilancia en la vida cotidiana y en el ecosistema AdTech
+En la economía de Internet actual, rige la regla de que "si estás usando un producto gratuito, el producto eres tú". Los mecanismos fundamentales que amenazan la privacidad digital en la vida cotidiana son los siguientes:
 
-## Definición y etimología: ¿qué significa Digital Privacy?
-El término procede del latín privatus, indicando lo que pertenece al individuo y está separado de lo público. En el plano tecnológico, la privacidad trasciende la mera confidencialidad física y se define como autodeterminación informativa: la potestad de conservar la soberanía sobre el rastro y la identidad en la red.
+## 3. Ingeniería informática y arquitectura de privacidad criptográfica
+En las ciencias de la computación, la privacidad no es un deseo abstracto; es una disciplina de ingeniería matemática y algorítmica:
 
-## Contexto cotidiano y uso práctico: la economía de la atención
-En el modelo económico de la web moderna, si un servicio es gratuito, el usuario suele ser el producto. Nuestra actividad genera rastros sistemáticos:
-- **Rastreo entre sitios y huella digital:** Técnicas de fingerprinting y cookies de terceros cruzan patrones de navegación para construir identidades unificadas.- **Capitalismo de Vigilancia:** Las grandes plataformas procesan datos de comportamiento para subastas de anuncios en tiempo real (RTB).- **Telemetría en dispositivos:** Teléfonos, asistentes de voz y sensores domésticos recopilan métricas y ubicaciones de forma continua.
+## 4. Filosofía, sociología y ciencia política: Panóptico y capitalismo de vigilancia
+La privacidad digital no es solo un tema técnico, es el fundamento existencial de las sociedades libres:
 
-## Profundidad técnica y arquitectura: criptografía aplicada
-La privacidad digital en ingeniería de software se materializa a través de sólidas garantías algorítmicas:
-- **Cifrado de extremo a extremo (E2EE):** Protocolos como el de Signal evitan que intermediarios o proveedores de red inspeccionen las comunicaciones.- **Pruebas de conocimiento cero (ZKP):** Demuestran la veracidad de una afirmación sin exponer los datos confidenciales originales.- **Privacidad Diferencial:** Añade ruido estadístico controlado a conjuntos de datos para extraer tendencias sin identificar a personas individuales.- **Arquitecturas Local-First:** Mantienen la información y el cómputo en el dispositivo del usuario en vez de delegarlo en la nube central.
-
-## Perspectivas interdisciplinares: el panóptico y la libertad
-La privacidad es una salvaguarda básica de las democracias modernas:
-- **El Panóptico:** Conforme al concepto de Jeremy Bentham analizado por Michel Foucault, sentirse observado de forma constante induce a la autocensura.- **La falacia del 'no tengo nada que ocultar':** Como argumenta Daniel Solove, la privacidad no protege conductas ilícitas, sino el espacio necesario para la libertad de pensamiento y la dignidad.
-
-## Por analogía
-Es como correr las cortinas de tu casa al anochecer. No significa que estés ocultando algo malo, sino simplemente que no deseas que cualquiera que pase por la calle mire dentro de tu hogar.
-
-## Diferencia entre ciberseguridad y privacidad digital
-La ciberseguridad consiste en proteger los sistemas frente a ataques no autorizados y filtraciones. La privacidad digital, en cambio, delimita qué pueden hacer las partes autorizadas con nuestros datos. Una plataforma puede estar completamente blindada contra intrusos y, aun así, vulnerar gravemente la privacidad de sus usuarios comercializando sus hábitos.
+## La diferencia entre ciberseguridad y privacidad digital
+La ciberseguridad es la armadura (la puerta blindada y el sistema de alarma de la casa) que evita que tus datos sean robados por atacantes no autorizados (hackers). La privacidad digital, por otro lado, es el derecho que garantiza que los invitados que entran legalmente a tu casa (las aplicaciones y proveedores de servicios que utilizas) no revisen tus cajones ni vendan tus notas privadas a terceros.
 
 ## Preguntas frecuentes
+**¿Qué significa Digital Privacy y cuál es su equivalente en español?**
+Digital Privacy se traduce al español como "privacidad digital". Define el derecho de las personas a determinar quién puede recopilar y procesar todos los datos que generan en el entorno en línea.
 
-**¿En qué se diferencian la ciberseguridad y la privacidad digital?**  
-La seguridad previene accesos ilícitos externos. La privacidad establece qué pueden hacer las entidades legítimas con tus datos personales.
+**¿Por qué es erróneo el argumento de "no tengo nada que ocultar"?**
+La privacidad no tiene que ver con encubrir delitos; es un derecho humano fundamental relacionado con la autonomía individual, la protección contra la manipulación y la discriminación dinámica de precios, y la salvaguarda de la libertad de pensamiento.
 
-**¿Por qué es incorrecto decir 'no tengo nada que ocultar'?**  
-La privacidad protege la independencia cívica y la libertad individual. Equiparar privacidad con secreto confunde la intimidad con la culpa.
+**¿Cuál es la diferencia fundamental entre ciberseguridad y privacidad digital?**
+La ciberseguridad evita que los datos sean robados por terceros no autorizados (protección contra intrusiones externas); mientras que la privacidad digital evita que las plataformas autorizadas a las que usted entrega sus datos los perfilen y vendan sin su consentimiento.
 
-**¿Cómo ayuda la arquitectura Local-First a la privacidad?**  
-Permitiendo que los datos residan y se procesen en el hardware del usuario sin depender obligatoriamente de almacenes en la nube.
+**¿Para qué sirven la privacidad diferencial (Differential Privacy) y las ZKP?**
+La privacidad diferencial oculta identidades individuales en el análisis de datos mediante ruido matemático mientras mide tendencias macro. Las Pruebas de Conocimiento Cero (ZKP), por otro lado, prueban criptográficamente la veracidad de una afirmación sin compartir la información en sí.
 
-**¿Qué medidas prácticas mejoran la privacidad digital?**  
-Utilizar navegadores con protección contra rastreadores, DNS privado, mensajería cifrada y herramientas de código abierto autoalojadas.
 
 ## Términos relacionados
 - [End-to-End Privacy](/es/dictionary/end-to-end-privacy/)
 - [GDPR](/es/dictionary/gdpr/)
-- [Local-first Memory](/es/dictionary/local-first-memory/)
+- [Data Residency](/es/dictionary/data-residency/)
+- [Regulatory Restriction](/es/dictionary/regulatory-restriction/)
+- [Home Automation](/es/dictionary/home-automation/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/digital-privacy/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/digital-privacy/

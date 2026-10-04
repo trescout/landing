@@ -2,10 +2,11 @@
 
 Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.
 
-- ★ 88.882
+- ★ 93.329
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
+- 4 Ekim 2026: Yıldız 88.882 → 93.329, son sürüm v1.18.2 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 88.401 → 88.882, son sürüm v1.18.2 (21 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 87.961 → 88.401, son sürüm v1.18.1 (12 Ağustos 2026).
 

@@ -1,54 +1,40 @@
 # Was ist Local-first Memory?
 
-> Lokale Speicherarchitektur
-
-**Kategorie:** Data  
-**Letzte Aktualisierung:** 2026-09-22
-
-Local-first Memory (lokal-prioritärer Speicher) ist ein Software-Architekturmuster, bei dem die primären Daten und der Anwendungszustand direkt auf dem Endgerät des Nutzers gespeichert werden, während die Cloud lediglich zur optionalen Replikation dient.
+Local-First-Memory ist der Ansatz, bei dem die Daten auf dem Gerät verbleiben.
 
 ## Definition und Wortherkunft
-Im Gegensatz zu herkömmlichen Cloud-Anwendungen, die ohne aktive Internetverbindung unbenutzbar werden, garantiert der Local-First-Ansatz verzögerungsfreie Reaktionszeiten und uneingeschränkte Offline-Fähigkeit. Datenhoheit und Primärspeicherung liegen auf dem lokalen Rechner.
+„Local-first“ bedeutet lokal zuerst. Es basiert auf dem Gerät und nicht auf der Cloud. Es funktioniert unterbrechungsfrei, die Privatsphäre bleibt geschützt. Beachten Sie, dass Apps und lokale KI aus dieser Bestellung stammen.
 
-## Alltägliche Anwendung und Praxis
-- **Wissensmanagement und Notizen:** Werkzeuge wie Obsidian oder Logseq, die Markdown-Dateien nativ auf dem lokalen Dateisystem ablegen.
-- **Kollaborative Arbeitsflächen:** Diagramm- und Designtools, die offline funktionieren und Änderungen beim Wiederverbinden zusammenführen.
-- **Lokaler KI-Kontext:** Speicherung von Chatverläufen und Vektordatenbanken auf dem Gerät zum Schutz sensibler Daten.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Hinweise: Offline-Notizbuch.Pflicht: Lokale Liste.Medien: Gerätearchiv.
 
 ## Technische Tiefe und Architektur
-Technische Kernkomponenten:- **Lokale Primärdatenbanken:** SQLite (über WASM oder nativ) und IndexedDB für Schreib- und Lesezugriffe mit Null-Latenz.
-- **CRDT-Strukturen:** Konfliktfreie replizierte Datentypen (Yjs, Automerge), die gleichzeitige Bearbeitungen deterministisch zusammenführen.
-- **Ende-zu-Ende-Verschlüsselung:** Replikationskanäle über WebSockets oder WebRTC, bei denen Relayserver keinen Einblick in die Nutzdaten haben.
+Layout:
 
-## Häufig verwechselt mit
-Wird häufig mit einfachem Offline-Caching verwechselt. Caching ist lediglich eine flüchtige Notfallkopie, deren Autorität bei der Cloud liegt; bei Local-First ist das lokale Gerät die maßgebliche Datenquelle.
+## Häufig gemischte Dinge
+Es handelt sich um einen Offline-Modus. Das ist die vorübergehende Situation, das ist die Eigentumsordnung. Die Daten gehören Ihnen und werden nicht vermietet.
 
-## Interdisziplinäre Perspektiven
-- **Finanzen:** Bargeld im eigenen Tresor verwahren vs. ausschließliche Nutzung von Online-Bankkonten.
-- **Schreiben:** Notizen in einem handgebundenen Notizbuch festhalten vs. Texte in einem Web-Editor tippen.
-- **Werkstatt:** Eigene Handwerkzeuge im Keller griffbereit haben vs. Werkzeuge bei jedem Einsatz anmieten.
+## Einsatz in verschiedenen Disziplinen
+Schublade: Verschlossene Home-Schublade.Tresor: Persönliches Vertrauen.Geldbeutel: Taschenwert.
 
-## Als Analogie
-Es gleicht dem Aufbewahren wichtiger Dokumente in einer verschlossenen Schublade daheim statt in einem fernen Bankschließfach: Sie können jederzeit ohne fremde Erlaubnis darauf zugreifen.
+## Häufig gestellte Fragen
+**Was passiert, wenn das Gerät kaputt geht?**
+Daten sind weg. Das Backup wird an einem separaten Ort gespeichert, die Cloud gilt nicht als automatisch.
 
-## Häufige Fragen
+**Wie wäre es mit synchron?**
+Es fügt sich konfliktfrei in CRDT ein. Sobald sich die Geräte treffen, werden sie synchronisiert.
 
-**Warum gewinnt der Local-First-Ansatz zunehmend an Bedeutung?**  
-Er verhindert Cloud-Ausfälle, garantiert extrem schnelle Benutzeroberflächen und schützt die Privatsphäre ohne Kompromisse.
+**Wann Wolke?**
+Wenn Freigabe und Sicherung erforderlich sind. Lokal ist die Basis, Cloud ist die Kopie.
 
-**Wie funktioniert die Zusammenarbeit mehrerer Nutzer?**  
-Über CRDTs (Conflict-free Replicated Data Types), die Bearbeitungskonflikte ohne manuelles Eingreifen mathematisch sauber lösen.
+**Ist es sicher?**
+Ja, mit Geräteverschlüsselung. Eine Sicherung gegen Verlust des Geräts ist ein Muss.
 
-**Kommen bei Local-First überhaupt noch Server zum Einsatz?**  
-Ja, Server fungieren als verschlüsselte Vermittler und Backups, besitzen jedoch keine Datenhoheit.
-
-**Welche Datenbank-Technologien treiben diese Apps an?**  
-SQLite (WASM), RxDB, PGlite, ElectricSQL sowie IndexedDB in Kombination mit Yjs oder Automerge.
 
 ## Verwandte Begriffe
-- [Persönliche Cloud](/de/dictionary/personal-cloud/)
-- [Runtime](/de/dictionary/runtime/)
-- [Digitale Privatsphäre](/de/dictionary/digital-privacy/)
+- [Local-first](/de/dictionary/local-first/)
+- [Memory System](/de/dictionary/memory-system/)
+- [Self-hosting](/de/dictionary/self-hosting/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/local-first-memory/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/local-first-memory/

@@ -1,51 +1,40 @@
-# ¿Qué es la Working Memory en IA?
+# ¿Qué es Working Memory?
 
-> Inglés: Working Memory · Etimología: inglés antiguo weorc (trabajo) + latín memoria (recuerdo)
+La memoria de trabajo (working memory) es la información temporal que el modelo retiene para la tarea en curso.
 
-**Categoría:** AI  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+Cuando la tarea termina o el contexto cambia, el contenido se borra. El contenedor de la ventana de contexto es la información activa dentro de la memoria de trabajo. El historial del chat y los resultados intermedios se almacenan aquí.
 
-La working memory (memoria de trabajo) en inteligencia artificial es la información activa y transitoria que un modelo mantiene dentro de su ventana de contexto para resolver el razonamiento o la petición en curso.
-
-## Definición y etimología
-Funciona como la mesa de operaciones del sistema: una vez concluida la inferencia o reiniciada la sesión, esos datos de borrador se descartan. La ventana de contexto representa el espacio disponible, y los tokens alojados en ella componen la memoria operativa en uso.
-
-## Contexto cotidiano e uso práctico
-Funciones clave en la interacción con IA :
-- **Continuidad de la Charla:** Recordar las preferencias e instrucciones expresadas en turnos previos de la conversación.- **Borrador de Pensamiento:** Almacenar pasos deductivos intermedios durante técnicas de Chain-of-Thought.- **Manejo de Herramientas:** Interpretar datos devueltos por APIs externas antes de elaborar la contestación definitiva.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Conversación: Recordar mensajes anteriores.Razonamiento: Mantener pasos intermedios.Vehículo: Retener los resultados de las llamadas.
 
 ## Profundidad técnica y arquitectura
-Gestión del presupuesto de tokens :
-- **Límites Estrictos:** En un modelo con ventana de 128K tokens, si el histórico ocupa 100K, solo restan 28K para procesar y responder.- **Caché KV:** Optimización en memoria GPU que retiene el cómputo de atención de palabras anteriores para acelerar el texto.- **Estrategias de Poda:** Cuando se llena el espacio, se sintetizan fragmentos iniciales para no perder contexto clave.
+Cálculo de presupuesto:
 
-## Suele confundirse con
-A menudo se confunde con la memoria a largo plazo. La memoria a largo plazo almacena datos permanentes en bases vectoriales; la memoria de trabajo es el búfer efímero que se vacía al terminar la tarea.
+## Cosas frecuentemente mezcladas
+Se confunde con la memoria a largo plazo. Aquella es el perfil permanente, esta es la mesa de trabajo temporal. Cuando la sesión se cierra, esto se vacía.
 
-## Perspectivas interdisciplinares
-Paralelos en la vida práctica :
-- **Cálculo Mental:** La hoja de anotaciones en sucio que se descarta tras resolver la ecuación.- **Bricolaje:** La mesa donde se apoyan las piezas durante el montaje y que se despeja al terminar.- **Hardware:** Los registros del procesador frente a la memoria de almacenamiento masivo.
-
-## Por analogía
-Es como una hoja de papel en sucio donde vas apuntando operaciones intermedias para resolver un cálculo; en cuanto obtienes la cifra definitiva, la hoja se tira a la papelera.
+## Uso en diferentes disciplinas
+Nota al margen: Borrador desechado al terminar el problema.Pararse: Herramienta recogida al finalizar el trabajo.RAM: Espacio que se borra al cortar la energía.
 
 ## Preguntas frecuentes
+**¿Qué pasa si se llena?**
+La información antigua se olvida, el contexto se desplaza. Se gestiona mediante resumen y poda.
 
-**¿Qué ocurre si se satura la memoria de trabajo?**  
-El sistema se ve forzado a recortar mensajes antiguos o resumir el contenido para no rebasar el límite del modelo.
+**¿Cómo se amplía?**
+Se elige un modelo con ventana grande o se añade información externa mediante RAG.
 
-**¿En qué se diferencia de los pesos del modelo?**  
-Los pesos son el conocimiento fijo fijado durante el entrenamiento; la memoria de trabajo es el contexto temporal que se pasa en el prompt.
+**¿Cuál es la diferencia con RAG?**
+RAG trae información del exterior, la memoria retiene el momento actual. Ambos son complementarios.
 
-**¿Por qué no ampliar la ventana de contexto de forma ilimitada?**  
-Porque incrementa exponencialmente el consumo de cómputo y puede perjudicar la capacidad de recuperar datos situados en el medio.
+**¿Olvida?**
+Sí. Es un espacio temporal, no se espera persistencia. La información permanente se escribe fuera.
 
-**¿Qué ventaja aporta la caché KV?**  
-Permite generar cada nueva palabra sin necesidad de procesar desde cero todas las anteriores, multiplicando la velocidad de respuesta.
 
 ## Términos relacionados
 - [Memory](/es/dictionary/memory/)
 - [Context Window](/es/dictionary/context-window/)
-- [Attention Mechanism](/es/dictionary/attention-mechanism/)
+- [Long-term Memory](/es/dictionary/long-term-memory/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/working-memory/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/working-memory/

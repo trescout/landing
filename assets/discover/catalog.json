@@ -7569,14 +7569,14 @@
     "slug": "supervision",
     "title": "Supervision",
     "tagline": "Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir…",
-    "meta": "★ 51.075 · Python",
+    "meta": "★ 51.118 · Python",
     "image": "/assets/discover/og/supervision.webp",
     "source": "GitHub",
     "date": "2026-06-09",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 51075,
+    "stars": 51118,
     "lite": false,
     "headline": "Bilgisayarlı görü projeleri için araçlar",
     "last_review": "2026-10-04",
@@ -7636,6 +7636,13 @@
         "onceki_yildiz": 51054,
         "surum": "0.30.6",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-04",
+        "yildiz": 51118,
+        "onceki_yildiz": 51075,
+        "surum": "0.30.7",
+        "surum_tarihi": "2026-10-04"
       }
     ],
     "tagline_en": "Developed by Roboflow, Supervision can be reused for computer vision projects…",
@@ -12982,7 +12989,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 56.452 · TypeScript",
+    "meta": "★ 56.505 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -12990,7 +12997,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 56452,
+    "stars": 56505,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-04",
@@ -13343,6 +13350,13 @@
         "yildiz": 56452,
         "onceki_yildiz": 56075,
         "surum": "v0.8.121",
+        "surum_tarihi": "2026-10-04"
+      },
+      {
+        "tarih": "2026-10-04",
+        "yildiz": 56505,
+        "onceki_yildiz": 56452,
+        "surum": "v0.8.123",
         "surum_tarihi": "2026-10-04"
       }
     ],
@@ -29235,14 +29249,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 34.574 · Rust",
+    "meta": "★ 34.575 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 34574,
+    "stars": 34575,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -29445,6 +29459,13 @@
         "onceki_yildiz": 34503,
         "surum": "v2026.10.1",
         "surum_tarihi": "2026-10-03"
+      },
+      {
+        "tarih": "2026-10-04",
+        "yildiz": 34575,
+        "onceki_yildiz": 34574,
+        "surum": "v2026.10.2",
+        "surum_tarihi": "2026-10-04"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",
@@ -31113,14 +31134,14 @@
     "slug": "localsend",
     "title": "Localsend",
     "tagline": "LocalSend, aynı yerel ağdaki Windows, macOS, Linux, Android ve iOS cihazlar arasında hesap veya üçüncü taraf sunucu gerektirmeden dosya ve mesaj paylaşır.",
-    "meta": "★ 88.882",
+    "meta": "★ 93.329",
     "image": "/assets/discover/og/localsend.webp",
     "source": "GitHub",
     "date": "2026-08-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 88882,
+    "stars": 93329,
     "summary": "Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.",
     "headline": "Yerel Ağda Dosya ve Mesaj Paylaşımı",
     "lite": false,
@@ -31283,6 +31304,13 @@
         "tarih": "2026-08-21",
         "yildiz": 88882,
         "onceki_yildiz": 88401,
+        "surum": "v1.18.2",
+        "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-10-04",
+        "yildiz": 93329,
+        "onceki_yildiz": 88882,
         "surum": "v1.18.2",
         "surum_tarihi": "2026-08-21"
       }
@@ -40190,7 +40218,7 @@
     "slug": "octop",
     "title": "Octop",
     "tagline": "TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay…",
-    "meta": "★ 5.663 · Python",
+    "meta": "★ 6.668 · Python",
     "image": "/assets/discover/og/octop.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -40199,7 +40227,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5663,
+    "stars": 6668,
     "summary": "TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay zekâ asistanı. Python tabanlı bu sistem, farklı kullanıcıların aynı anda birden fazla yapay zekâ ajanıyla etkileşime girmesine olanak tanıyor.",
     "lite": false,
     "headline": "Kendi sunucunuzda çok kullanıcılı yapay zekâ",
@@ -40244,6 +40272,13 @@
         "tarih": "2026-09-29",
         "yildiz": 5663,
         "onceki_yildiz": 5435,
+        "surum": "v1.0.2b5",
+        "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-04",
+        "yildiz": 6668,
+        "onceki_yildiz": 5663,
         "surum": "v1.0.2b5",
         "surum_tarihi": "2026-09-29"
       }
@@ -42103,14 +42138,14 @@
     "slug": "yoinks",
     "title": "Yoinks",
     "tagline": "Yoinks, uçbirim (terminal) üzerinden herhangi bir videoyu reklam veya yönlendirme olmadan indirmeye yarayan bir araçtır.",
-    "meta": "★ 3.165 · TypeScript",
+    "meta": "★ 4.173 · TypeScript",
     "image": "/assets/discover/og/yoinks.webp",
     "source": "GitHub",
     "date": "2026-10-02",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3165,
+    "stars": 4173,
     "last_seen": "2026-10-03",
     "summary": "Yoinks, uçbirim (terminal) üzerinden herhangi bir videoyu reklam veya yönlendirme olmadan indirmeye yarayan bir araçtır. TypeScript ile geliştirilen bu yazılım, video dosyalarını doğrudan yerel depolama birimine aktarmak için pratik bir yöntem sunar.",
     "lite": false,
@@ -42120,7 +42155,14 @@
     "tagline_fr": "Yoinks est un outil permettant de télécharger n'importe quelle vidéo via le terminal sans publicité ni redirection.",
     "tagline_pt": "Yoinks é uma ferramenta para baixar qualquer vídeo via terminal sem anúncios ou redirecionamentos.",
     "tagline_es": "Yoinks es una herramienta que sirve para descargar cualquier video a través de la terminal sin anuncios ni redirecciones.",
-    "tagline_de": "Yoinks ist ein Tool, mit dem man jedes Video über das Terminal ohne Werbung oder Weiterleitungen herunterladen kann."
+    "tagline_de": "Yoinks ist ein Tool, mit dem man jedes Video über das Terminal ohne Werbung oder Weiterleitungen herunterladen kann.",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-04",
+        "yildiz": 4173,
+        "onceki_yildiz": 3165
+      }
+    ]
   },
   {
     "slug": "unimate",

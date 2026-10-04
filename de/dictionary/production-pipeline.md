@@ -1,28 +1,40 @@
 # Was ist Production Pipeline?
 
-Es handelt sich um die Kette automatisierter Prozesse, die die Software nach der Entwicklung und dem Test durchläuft, bis sie die Benutzer erreicht.
+Eine Production Pipeline ist eine Kette integrierter technischer Prozesse, die es Softwareentwicklern ermöglicht, den von ihnen geschriebenen Quellcode automatisch zu kompilieren, zu testen, Sicherheitsüberprüfungen zu unterziehen, zu paketieren und unterbrechungsfrei in die Produktionsumgebung bereitzustellen.
 
-## Definition
-Die Produktionspipeline ist eine Produktionslinie, die sicherstellt, dass der Code Ihren Computer verlässt und sicher den Live-Server erreicht. Dabei wird der Code automatisch getestet, auf Fehler überprüft und an den Server gesendet. Durch die Minimierung menschlicher Eingriffe wird sichergestellt, dass die Software immer auf dem neuesten Stand und stabil bleibt.
+## Konzeptioneller Ursprung, Etymologie und die Philosophie der Produktionslinie
+Das Wort "Pipeline" wurde aus dem Transport von Öl und Wasser entlehnt, während "Production" aus den Montagelinien (Assembly Lines) industrieller Fabriken in die Softwareentwicklung übernommen wurde. Was die Revolution ist, die Henry Ford zu Beginn des 20. Jahrhunderts mit dem Fließband in der Automobilindustrie auslöste, ist die Production Pipeline als moderner industrieller Produktionsstandard, der manuelle, fehleranfällige und unklare Bereitstellungsprozesse in der Softwarebranche beendet.
 
-## So funktioniert es
-Wenn Entwickler den Code auf das System hochladen, kommt die Pipeline ins Spiel; Zuerst werden die Tests ausgeführt und bei Erfolg die Software aktualisiert.
+## Die 5 kritischen Stationen einer Produktionslinie
+Eine vollständige unternehmensweite Production Pipeline besteht aus folgenden Schritten:
 
-## Wo es eingesetzt wird
-Es ist gängige Praxis in modernen Softwareunternehmen und ständig aktualisierten Anwendungen.
+## Branchenspezifische Unterscheidungen: Production Pipeline vs. Data Pipeline vs. VFX Pipeline
+Das Wort „Pipeline“ hat in verschiedenen technischen Disziplinen unterschiedliche Bedeutungen:
 
-## Häufig verwechselt mit
-Es kann mit der Datenpipeline gemischt werden; Die Datenpipeline verschiebt die Daten, während die Produktionspipeline die Software selbst für die Veröffentlichung vorbereitet.
+## DORA-Metriken und technische Effizienz
+Die Reife der Produktionspipeline einer Organisation wird anhand der vier goldenen Metriken gemessen, die in der DORA-Studie (DevOps Research and Assessment) von Google definiert wurden:
 
 ## Häufige Fragen
-**Warum automatisieren wir diesen Prozess?**
-Um die Geschwindigkeit zu steigern und die Sicherheit zu erhöhen, indem manuelle Fehler vermieden werden.
+**Was bedeutet Produktionspipeline und was ist ihr Hauptzweck?**
+Es bedeutet Software-Produktionspipeline. Ihr Ziel ist es, den entwickelten Quellcode automatisch, frei von menschlichen Fehlern, zu testen, zu kompilieren und sicher auf Live-Servern bereitzustellen.
+
+**Was ist der Unterschied zwischen einer Produktionspipeline und CI/CD?**
+CI/CD (Continuous Integration / Continuous Deployment) ist die grundlegende Methodik und das Rückgrat der Pipeline. Die Production-Pipeline hingegen ist der Name für das umfassende System, das neben CI/CD auch die Bereitstellung von Umgebungen, Sicherheitsscans (DevSecOps), Genehmigungsmechanismen und Observability-Tools umfasst.
+
+**Mit welchen Tools wird eine Production-Pipeline aufgebaut?**
+GitHub und GitLab für die Versionskontrolle; GitHub Actions, Jenkins und ArgoCD für die Orchestrierung; Docker für die Paketierung; Kubernetes und Terraform für die Infrastruktur sind die gängigsten Tools.
+
+**Kommt es während der Bereitstellung zu Systemausfällen?**
+In einer gut konzipierten Production-Pipeline werden Blue-Green- oder Canary-Deployment-Methoden verwendet; dadurch werden Benutzer ohne spürbare Unterbrechung auf die neue Version migriert (Zero-Downtime).
 
 
 ## Verwandte Begriffe
-- [CI/CD](/de/dictionary/ci-cd/)
-- [Data Pipeline](/de/dictionary/data-pipeline/)
 - [Deployment](/de/dictionary/deployment/)
+- [Data Pipeline](/de/dictionary/data-pipeline/)
+- [Cloud Computing](/de/dictionary/cloud-computing/)
+- [Tech Stack](/de/dictionary/tech-stack/)
+- [Git Push](/de/dictionary/git-push/)
+- [Runtime](/de/dictionary/runtime/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/production-pipeline/

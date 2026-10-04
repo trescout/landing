@@ -1,34 +1,40 @@
 # O que é Phased Array Radar?
 
-É um sistema de radar avançado que rastreia alvos mudando sua direção com sinais eletrônicos, sem utilizar peças móveis.
+O radar de varredura eletrônica (conhecido em turco como faz dizili radar) é um sistema de radar estacionário que direciona o feixe eletronicamente.
 
-## Definição
-Enquanto os radares tradicionais fazem a varredura girando fisicamente a antena, esta tecnologia usa um conjunto de antenas fixas. Ele desvia os feixes de radar em diferentes direções, alterando o tempo dos sinais eletrônicos. Dessa forma, proporciona um rastreamento muito mais rápido e preciso.
+## Definição e origem da palavra
+A antena de radar clássica gira para escanear, este sistema é fixo: o tempo (fase) do sinal que vai para cada transmissor na matriz é ajustado, as ondas se combinam na direção desejada. O feixe muda de direção em segundos, não há peças mecânicas.
 
-## Como funciona
-A fase (tempo) do sinal para cada transmissor no conjunto de antenas é ajustada com precisão. Essas diferenças de fase permitem que as ondas de rádio convirjam em uma direção específica.
+## Como conhecer e usar no dia a dia?
+Defesa: Monitoramento do espaço aéreo.Tráfego aéreo: Controle de aproximação.Veículo autônomo: Sensores de perímetro.Meteorologia: Rastreamento de precipitação.
 
-## Onde é usado
-É usado em sistemas de defesa militar, controle de tráfego aéreo e sensores para veículos autônomos modernos.
+## Profundidade Técnica e Arquitetura
+Peças:
 
-## Costuma ser confundido com
-Pode ser confundido com radares convencionais com antenas rotativas; A maior diferença é que não contém partes móveis.
+## Coisas frequentemente misturadas
+Pensa-se que é um radar clássico com antena rotativa. No clássico, a antena gira; aqui, o sinal gira. Não há peças móveis, a varredura é eletrônica.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Olho: Mudar o foco sem virar a cabeça.Alto-falante: Matriz que direciona o som.Lanterna: Direcionamento do feixe sem girar manualmente.
+
+## Perguntas Frequentes
 **Por que é mais vantajoso?**
-Responde muito mais rapidamente e o risco de falha mecânica é baixo.
+Responde rapidamente, rastreia múltiplos alvos e o risco de falha mecânica é baixo.
 
 **É apenas militar?**
-Não, também é comum em previsões meteorológicas e tecnologias de veículos autônomos.
+Não. Também é usado em tráfego aéreo, meteorologia e veículos autônomos.
+
+**Quanto custa?**
+É alto em comparação com o radar clássico. Há o custo do conjunto e do processador, que é pago em aplicações críticas.
+
+**O uso civil é comum?**
+Está aumentando. À medida que o custo diminui, as instalações em aeroportos e meteorológicas se multiplicam.
 
 
 ## Termos relacionados
 - [Autonomous Robotics](/pt/dictionary/autonomous-robotics/)
 - [Physical AI](/pt/dictionary/physical-ai/)
 - [Driver Assistance System](/pt/dictionary/driver-assistance-system/)
-
-## Ferramentas relacionadas
-- [PLFM RADAR](/pt/discover/plfm-radar/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/phased-array-radar/

@@ -1,31 +1,39 @@
 # Was ist Paywall?
 
-Es handelt sich um eine digitale Barriere, die die Zahlung einer Gebühr für den Zugriff auf Inhalte im Internet erfordert.
+Eine Paywall (Bezahlschranke) ist ein digitales Gatekeeper-System, das den Zugriff auf digitale Inhalte im Internet einschränkt und von Nutzern ein kostenpflichtiges Abonnement, eine einmalige Zahlung oder eine Registrierung verlangt.
 
-## Definition
-Dabei handelt es sich um die Anbindung einiger oder aller von Websites angebotenen Inhalte wie Artikel, Videos oder Berichte an ein kostenpflichtiges Abonnementsystem. Der Leser muss bezahlen oder sich anmelden, um diese Barriere zu passieren.
+## Konzeptioneller Ursprung: Von den Printmedien zur digitalen Erlöskrise
+Das Wort „Paywall“ setzt sich aus den englischen Begriffen „pay“ (bezahlen) und „wall“ (Mauer/Hindernis) zusammen. In den Anfangsjahren des digitalen Publizierens herrschte das Ideal vor, dass Informationen im Internet völlig kostenlos sein sollten („Information wants to be free“). Verlage versuchten, ihren Betrieb durch Werbeeinnahmen (Display-Anzeigen, Banner) zu finanzieren.
 
-## So funktioniert es
-Wenn Ihr Internetbrowser die Website aufruft, prüft das System den Zahlungsstatus Ihres Kontos und entscheidet, ob der Zugriff gewährt wird.
+## Paywall-Arten und Geschäftsmodelle
+Es gibt vier Hauptarten von Bezahlschranken, die Verlage je nach Zielgruppe und Geschäftsmodell anwenden:
 
-## Wo es eingesetzt wird
-Es erscheint häufig auf Nachrichtenseiten, wissenschaftlichen Datenbanken und spezialisierten Content-Plattformen.
+## Technische Architektur: Client-Side vs. Server-Side
+Technisch gesehen wird eine Paywall nach zwei verschiedenen Logiken aufgebaut:
 
-## Häufig verwechselt mit
-Es kann mit kostenlosen Testversionen oder Werbeinhalten verwechselt werden, Paywall konzentriert sich auf die direkte Zahlung.
+## Soziologische Dimension: Epistemische Kluft (Epistemic Divide)
+Die Verbreitung von Paywall-Modellen hat ein bedeutendes gesellschaftliches Dilemma mit sich gebracht: Während Fehlinformationen, Desinformation, sensationelle Inhalte und Clickbait im Internet oft völlig kostenlos und ungehindert verbreitet werden, ist verifizierter, auf tiefgründiger Recherche basierender, unabhängiger Qualitätsjournalismus hinter Bezahlschranken verschlossen. Dies führt zu einer Debatte über eine Informationsspaltung und Polarisierung in der Gesellschaft, bei der "diejenigen mit Geld Zugang zu korrekten Informationen haben, während diejenigen ohne Geld Manipulationen ausgesetzt sind".
 
 ## Häufige Fragen
-**Warum gibt es Paywall?**
-Es ermöglicht Content-Produzenten, Einnahmen zu generieren und qualitativ hochwertige Inhalte nachhaltig zu gestalten.
+**Was bedeutet Paywall und was ist ihre grundlegende Funktion?**
+Eine Paywall (Bezahlschranke) ist ein System auf Websites, das den Zugriff auf den gesamten oder einen Teil der digitalen Inhalte einschränkt und von den Nutzern ein Abonnement oder eine Gebühr verlangt.
 
-**Sind alle Paywalls gleich?**
-Nein, manche zwingen Sie dazu, die ersten paar Absätze zu lesen, andere sperren die Seite komplett.
+**Was ist der Unterschied zwischen Client-Side- und Server-Side-Paywalls?**
+Bei einer Client-Side-Paywall wird der Inhalt auf den Browser heruntergeladen und per Code ausgeblendet, weshalb sie leicht umgangen werden kann. Bei einer Server-Side-Paywall hingegen wird der Inhalt serverseitig blockiert und gar nicht erst an das Gerät des nicht autorisierten Benutzers übertragen.
+
+**Wie indexieren Suchmaschinen Inhalte hinter einer Bezahlschranke?**
+Publisher verwenden die isAccessibleForFree-Tags gemäß den Schema.org-Standards, um Suchmaschinen-Bots rechtmäßig mitzuteilen, dass der Inhalt kostenpflichtig ist, und um sicherzustellen, dass er in den Suchergebnissen erscheint.
+
+**Was ist eine dynamische (KI-gesteuerte) Paywall?**
+Es handelt sich um ein intelligentes Abonnementsystem, das das Verhalten und die Profile der Besucher auf der Website mittels maschinellem Lernen analysiert und jedem Nutzer eine individuell angepasste Paywall mit spezifischem Timing und Angebot anzeigt.
 
 
 ## Verwandte Begriffe
 - [SaaS](/de/dictionary/saas/)
 - [Free Tier](/de/dictionary/free-tier/)
 - [Digital Privacy](/de/dictionary/digital-privacy/)
+- [API](/de/dictionary/api/)
+- [Deployment](/de/dictionary/deployment/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/paywall/

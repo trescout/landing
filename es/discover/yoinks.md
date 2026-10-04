@@ -2,7 +2,7 @@
 
 Yoinks es una herramienta para descargar cualquier vídeo a través de la terminal (línea de comandos) sin anuncios ni redirecciones. Desarrollado con TypeScript, este software ofrece un método práctico para transferir archivos de vídeo directamente al almacenamiento local.
 
-- ★ 3.165
+- ★ 4.173
 - TypeScript
 - GitHub Trending · 2026-10-02
 
