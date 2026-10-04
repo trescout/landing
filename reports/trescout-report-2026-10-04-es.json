@@ -1,0 +1,1060 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-04",
+  "capturedAt": "2026-10-04T10:37:20.456Z",
+  "editorial": "Hoy en el mundo de la tecnología, destaca la sustitución de los grandes modelos de lenguaje (LLM) por modelos de decisión para lograr una baja latencia en los servicios de borde (edge), así como la tendencia a utilizar las herramientas integradas de la plataforma en los procesos de desarrollo de software. Las discusiones en Hacker News reflejan una expectativa concreta de que las restricciones presupuestarias se han vuelto obligatorias en el mundo tecnológico.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "Ponytail es una biblioteca de JavaScript que permite a los agentes de inteligencia artificial generar soluciones en los procesos de desarrollo de software con el mínimo esfuerzo. Adopta un enfoque que tiene como objetivo obtener resultados de la manera más eficiente y corta, evitando la escritura de código innecesario.",
+          "meta": "JavaScript · ★ 154.088 · +1.281 hoy",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 154088,
+              "engagementCount": 1281,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1281
+              }
+            }
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable es un lenguaje de diseño desarrollado para mejorar los resultados de diseño de los modelos de inteligencia artificial. Permite a los desarrolladores guiar las herramientas de IA para crear interfaces más estéticas y centradas en el usuario.",
+          "meta": "JavaScript · ★ 75.736 · +699 hoy",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 75736,
+              "engagementCount": 699,
+              "rank": 2,
+              "extra": {
+                "starsToday": 699
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC es un sistema que proporciona optimización del rendimiento para herramientas de codificación de inteligencia artificial (como Claude Code y Cursor). Con su estructura centrada en las capacidades, la gestión de memoria y la seguridad, tiene como objetivo mejorar los flujos de trabajo de las herramientas de desarrollo.",
+          "meta": "JavaScript · ★ 272.538 · +897 hoy",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 272538,
+              "engagementCount": 897,
+              "rank": 3,
+              "extra": {
+                "starsToday": 897
+              }
+            }
+          }
+        },
+        {
+          "title": "Effect-TS/effect",
+          "url": "https://github.com/Effect-TS/effect",
+          "summary": "Effect es una colección de bibliotecas utilizada para desarrollar aplicaciones escalables y fiables con TypeScript. Ofrece herramientas estándar para la gestión de errores, la concurrencia y el procesamiento de datos con el fin de gestionar procesos de software complejos.",
+          "meta": "TypeScript · ★ 16.910 · +302 hoy",
+          "snapshot": {
+            "sourceId": "Effect-TS/effect",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 16910,
+              "engagementCount": 302,
+              "rank": 4,
+              "extra": {
+                "starsToday": 302
+              }
+            }
+          }
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman, desarrollado con el lenguaje Go, es una herramienta de servidor proxy que reduce la cantidad de tokens utilizados por los agentes de codificación en un 65%. Su objetivo es reducir los costes de procesamiento enviando comandos más cortos y sencillos a los modelos de inteligencia artificial.",
+          "meta": "Go · ★ 109.688 · +507 hoy",
+          "snapshot": {
+            "sourceId": "JuliusBrussee/caveman",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 109688,
+              "engagementCount": 507,
+              "rank": 5,
+              "extra": {
+                "starsToday": 507
+              }
+            }
+          }
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach es una interfaz de línea de comandos (CLI) que dota a los agentes de inteligencia artificial de la capacidad de rastrear plataformas populares de redes sociales y contenido. El software le permite leer y buscar datos en Internet de forma gratuita sin necesidad de una interfaz de programación de aplicaciones (API) externa.",
+          "meta": "Python · ★ 90.234 · +1.696 hoy",
+          "snapshot": {
+            "sourceId": "Panniantong/Agent-Reach",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 90234,
+              "engagementCount": 1696,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1696
+              }
+            }
+          }
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code es una herramienta que analiza la base de código en proyectos de TypeScript y ofrece sugerencias estructurales a los desarrolladores. Esta solución, que visualiza la arquitectura del software y se centra en mejorar la calidad del código, facilita la gestión de proyectos complejos.",
+          "meta": "TypeScript · ★ 24.885 · +252 hoy",
+          "snapshot": {
+            "sourceId": "pingdotgg/t3code",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 24885,
+              "engagementCount": 252,
+              "rank": 7,
+              "extra": {
+                "starsToday": 252
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem es una herramienta que permite a los agentes de inteligencia artificial crear un contexto persistente a lo largo de las sesiones. Comprime las interacciones pasadas con la IA y las transfiere a sesiones futuras, fortaleciendo la memoria de los asistentes de codificación como Claude Code.",
+          "meta": "TypeScript · ★ 95.810 · +79 hoy",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 95810,
+              "engagementCount": 79,
+              "rank": 8,
+              "extra": {
+                "starsToday": 79
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "summary": "Cloudflare ha presentado un espacio de trabajo para agentes (agent workspace) que admite procesos de creación de documentos, desarrollo de aplicaciones y ejecución de agentes de inteligencia artificial con datos internos de la empresa. Esta plataforma, que se ejecuta en Cloudflare Workers, proporciona un entorno de desarrollo integrado con sistemas corporativos.",
+          "meta": "TypeScript · ★ 10.697 · +85 hoy",
+          "snapshot": {
+            "sourceId": "cloudflare/cloudflare-os",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10697,
+              "engagementCount": 85,
+              "rank": 9,
+              "extra": {
+                "starsToday": 85
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Desarrollado por Addy Osmani, agent-skills ofrece capacidades de ingeniería a nivel de producción para agentes de codificación de inteligencia artificial. Esta biblioteca basada en JavaScript tiene como objetivo aumentar la capacidad técnica de los agentes que automatizan los procesos de desarrollo de software.",
+          "meta": "JavaScript · ★ 100.956 · +252 hoy",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 100956,
+              "engagementCount": 252,
+              "rank": 10,
+              "extra": {
+                "starsToday": 252
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ofrece un marco de habilidades para agentes (agentic skills framework) y una metodología de desarrollo de software para agentes de inteligencia artificial. Esta herramienta facilita la automatización basada en agentes en los procesos de desarrollo de software al estandarizar flujos de trabajo complejos.",
+          "meta": "Shell · ★ 295.064 · +577 hoy",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 295064,
+              "engagementCount": 577,
+              "rank": 11,
+              "extra": {
+                "starsToday": 577
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "El repositorio de habilidades compartido por Matt Pocock contiene scripts y flujos de trabajo personalizados preparados por desarrolladores de software para agentes de inteligencia artificial (AI agents). Esta colección ofrece una estructura de trabajo estándar al compartir herramientas de automatización prácticas que los desarrolladores utilizan en sus propios directorios .agents.",
+          "meta": "Shell · ★ 275.640 · +751 hoy",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 275640,
+              "engagementCount": 751,
+              "rank": 12,
+              "extra": {
+                "starsToday": 751
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "Context-mode es una herramienta que proporciona optimización de la ventana de contexto (context window optimization) para agentes de codificación de inteligencia artificial. Al aislar las salidas de la herramienta, reduce el tamaño de los datos en un 98 por ciento, preserva la memoria de la sesión y realiza el enrutamiento entre diferentes plataformas a través del Protocolo de Contexto de Modelo (Model Context Protocol).",
+          "meta": "TypeScript · ★ 25.332 · +256 hoy",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 25332,
+              "engagementCount": 256,
+              "rank": 13,
+              "extra": {
+                "starsToday": 256
+              }
+            }
+          }
+        },
+        {
+          "title": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "summary": "Pi, basado en TypeScript, es un kit de desarrollo de agentes de inteligencia artificial que ofrece una interfaz unificada, un bucle de agentes y herramientas de línea de comandos centradas en la codificación para modelos de lenguaje grandes (large language models). Reúne bajo un mismo techo los componentes esenciales necesarios para que los desarrolladores de software creen y gestionen sus propios agentes.",
+          "meta": "TypeScript · ★ 112.308 · +408 hoy",
+          "snapshot": {
+            "sourceId": "earendil-works/pi",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 112308,
+              "engagementCount": 408,
+              "rank": 14,
+              "extra": {
+                "starsToday": 408
+              }
+            }
+          }
+        },
+        {
+          "title": "getsentry/sentry",
+          "url": "https://github.com/getsentry/sentry",
+          "summary": "Sentry es una plataforma de seguimiento de errores (error tracking) que monitorea fallos en las aplicaciones y realiza un seguimiento del rendimiento. Es una herramienta de código abierto que ayuda a los desarrolladores de software a detectar rápidamente las fallas en el sistema y generar soluciones.",
+          "meta": "Python · ★ 45.257 · +214 hoy",
+          "snapshot": {
+            "sourceId": "getsentry/sentry",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 45257,
+              "engagementCount": 214,
+              "rank": 15,
+              "extra": {
+                "starsToday": 214
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, desarrollado por Anthropic, es una herramienta de codificación de inteligencia artificial que se ejecuta en la terminal y analiza la base de código mediante comandos en lenguaje natural. Realiza tareas rutinarias en los procesos de desarrollo de software, explica bloques de código complejos y gestiona las operaciones del sistema de control de versiones Git.",
+          "meta": "TypeScript · ★ 149.340 · +128 hoy",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 149340,
+              "engagementCount": 128,
+              "rank": 16,
+              "extra": {
+                "starsToday": 128
+              }
+            }
+          }
+        },
+        {
+          "title": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "summary": "Production Agentic RAG Course es un recurso educativo que enseña a combinar sistemas RAG, que permiten a los modelos de lenguaje grandes (large language models) acceder a datos, con flujos de trabajo basados en agentes. Este contenido, basado en el lenguaje de programación Python, se centra en el desarrollo de sistemas capaces de responder consultas complejas y tomar sus propias decisiones.",
+          "meta": "Python · ★ 9.485 · +193 hoy",
+          "snapshot": {
+            "sourceId": "jamwithai/production-agentic-rag-course",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 9485,
+              "engagementCount": 193,
+              "rank": 17,
+              "extra": {
+                "starsToday": 193
+              }
+            }
+          }
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video",
+          "url": "https://github.com/meituan-longcat/LongCat-Video",
+          "summary": "LongCat-Video, desarrollado por Meituan, es un marco de trabajo (framework) de producción de video utilizado para crear videos largos de manera consistente. Esta herramienta permite producir contenido de video de mayor duración y alta calidad manteniendo la consistencia visual.",
+          "meta": "Python · ★ 8.892 · +44 hoy",
+          "snapshot": {
+            "sourceId": "meituan-longcat/LongCat-Video",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8892,
+              "engagementCount": 44,
+              "rank": 18,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut es un software basado en TypeScript desarrollado como una alternativa de código abierto a la herramienta de edición de video CapCut. Ofrece a los usuarios la posibilidad de gestionar sus procesos de edición de video en un entorno local y con total libertad.",
+          "meta": "TypeScript · ★ 91.800 · +232 hoy",
+          "snapshot": {
+            "sourceId": "OpenCut-app/OpenCut",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 91800,
+              "engagementCount": 232,
+              "rank": 19,
+              "extra": {
+                "starsToday": 232
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tell HN: Bob Cringely has died",
+          "url": "https://news.ycombinator.com/item?id=49949438",
+          "summary": "Mark Stevens, conocido escritor del mundo tecnológico y uno de los primeros empleados de Apple, también conocido como Bob Cringely, ha fallecido. Stevens era ampliamente reconocido por la serie documental sobre la historia de la tecnología \"Triumph of the Nerds\".",
+          "meta": "470 puntos · 100 comentarios",
+          "snapshot": {
+            "sourceId": "49949438",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 470,
+              "engagementCount": 100,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49949438",
+                  "popularity": 470,
+                  "engagementCount": 100
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "paveworld",
+                "createdAt": "2026-10-04T00:50:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49949438"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49949438",
+              "popularity": 470,
+              "engagementCount": 100
+            }
+          ]
+        },
+        {
+          "title": "We're going to need default hard budget caps on pretty much everything",
+          "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "summary": "Los desarrolladores de software abogan por la implementación de límites presupuestarios predeterminados (hard budget caps) para evitar aumentos inesperados de costos en las plataformas de computación en la nube. Este enfoque tiene como objetivo gestionar los riesgos financieros limitando automáticamente los gastos en servicios como el uso de API o los recursos del servidor.",
+          "meta": "444 puntos · 217 comentarios",
+          "snapshot": {
+            "sourceId": "49949235",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 217,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49949235",
+                  "popularity": 444,
+                  "engagementCount": 217
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "elffjs",
+                "createdAt": "2026-10-04T00:20:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49949235"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49949235",
+              "popularity": 444,
+              "engagementCount": 217
+            }
+          ]
+        },
+        {
+          "title": "Hole Punch: Sling your spaceship around gravitational fields",
+          "url": "https://notoriousbfg.com/hole-punch/",
+          "summary": "Hole Punch es una herramienta de simulación utilizada para cambiar la trayectoria de las naves espaciales mediante el uso de campos gravitacionales. Visualiza el principio de asistencia gravitatoria (gravity assist) para hacer comprensible la mecánica orbital compleja.",
+          "meta": "299 puntos · 67 comentarios",
+          "snapshot": {
+            "sourceId": "49946393",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 299,
+              "engagementCount": 67,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49946393",
+                  "popularity": 299,
+                  "engagementCount": 67
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "trwhite",
+                "createdAt": "2026-10-03T18:06:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49946393"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49946393",
+              "popularity": 299,
+              "engagementCount": 67
+            }
+          ]
+        },
+        {
+          "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+          "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+          "summary": "Timur Kristóf, ingeniero de software de Valve, está desarrollando mejoras en el controlador del kernel de Linux para unidades de procesamiento gráfico (GPU) de AMD antiguas. Este trabajo permite que el hardware antiguo funcione de manera más estable y con mejor rendimiento en las plataformas de juego modernas.",
+          "meta": "293 puntos · 45 comentarios",
+          "snapshot": {
+            "sourceId": "49946895",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 293,
+              "engagementCount": 45,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49946895",
+                  "popularity": 293,
+                  "engagementCount": 45
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "speckx",
+                "createdAt": "2026-10-03T19:14:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49946895"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49946895",
+              "popularity": 293,
+              "engagementCount": 45
+            }
+          ]
+        },
+        {
+          "title": "So you think you could be an electrician?",
+          "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+          "summary": "La escasez de mano de obra en el sector de las instalaciones eléctricas se debate a través de la complejidad de los procesos de formación profesional y los requisitos de especialización técnica. La falta de personal cualificado en los sectores de trabajo físico pone de manifiesto la brecha de habilidades (skills gap) en la economía moderna con un ejemplo concreto.",
+          "meta": "236 puntos · 163 comentarios",
+          "snapshot": {
+            "sourceId": "49910462",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 236,
+              "engagementCount": 163,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49910462",
+                  "popularity": 236,
+                  "engagementCount": 163
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "zdw",
+                "createdAt": "2026-09-30T15:43:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49910462"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49910462",
+              "popularity": 236,
+              "engagementCount": 163
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Clef, desarrollado por Cloudflare, es un modelo de inteligencia artificial multimodal que procesa entradas visuales y de texto para generar salidas de texto. Este modelo, compartido en Hugging Face, ofrece la capacidad de analizar datos visuales complejos para crear respuestas significativas basadas en texto.",
+          "meta": "♥ 1.062 · 4.214 descargas",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-04T10:37:20.577Z",
+            "metadata": {
+              "popularity": 1062,
+              "engagementCount": 4214,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1016,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, desarrollado por Convai Innovations, es un modelo de inteligencia artificial entrenado para procesos de clasificación de texto (text classification). Este modelo, alojado en Hugging Face, se utiliza para categorizar datos basados en texto en grupos específicos.",
+          "meta": "♥ 5.109 · 3.752 descargas",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-10-04T10:37:20.577Z",
+            "metadata": {
+              "popularity": 5109,
+              "engagementCount": 3752,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 876,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF, compartido por Abenzerps, es un modelo de inteligencia artificial con capacidad de generación de texto a imagen (text-to-image). El modelo, con su estructura sin restricciones, permite a los usuarios llevar a cabo procesos de generación de imágenes más flexibles en sus ordenadores locales.",
+          "meta": "♥ 2.975 · 1.553.744 descargas",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-10-04T10:37:20.577Z",
+            "metadata": {
+              "popularity": 2975,
+              "engagementCount": 1553744,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 670,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, desarrollado por Lightricks, es un modelo de imagen a video (image-to-video) que convierte imágenes estáticas en videos en movimiento. El modelo permite la producción de contenido de video de alta calidad y coherente basado en las imágenes cargadas por los usuarios.",
+          "meta": "♥ 6.190 · 1.626.951 descargas",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-10-04T10:37:20.577Z",
+            "metadata": {
+              "popularity": 6190,
+              "engagementCount": 1626951,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 410,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef-flash",
+          "url": "https://huggingface.co/Cloudflare/clef-flash",
+          "summary": "Clef-Flash, desarrollado por Cloudflare, es un modelo de inteligencia artificial multimodal (multimodal AI) que procesa entradas visuales y de texto para producir salidas basadas en texto. El modelo tiene como objetivo realizar una generación de texto rápida y eficaz analizando e interpretando datos visuales.",
+          "meta": "♥ 384 · 6.372 descargas",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef-flash",
+            "capturedAt": "2026-10-04T10:37:20.577Z",
+            "metadata": {
+              "popularity": 384,
+              "engagementCount": 6372,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 373,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.5",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.5-9B",
+                  "base_model:finetune:Qwen/Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Replacing Large Language Models with Jev Decision Models for Low-Latency Edge Service Orchestration",
+          "url": "https://huggingface.co/papers/2609.22753",
+          "summary": "Los modelos de decisión Jev reducen la latencia de procesamiento al reemplazar a los modelos de lenguaje grandes (large language models) en la orquestación de servicios en el borde (edge service orchestration). Este sistema optimiza el tiempo necesario para procesar solicitudes en lenguaje natural, manteniendo la tasa de finalización del servicio.",
+          "meta": "5 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.22753",
+            "capturedAt": "2026-10-04T10:37:20.584Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.22753",
+                "publishedAt": "2026-09-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/Edge-Computing-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation",
+          "url": "https://huggingface.co/papers/2610.01092",
+          "summary": "Ego2Act es un marco de evaluación desarrollado para medir la capacidad de los modelos de generación de video para simular el mundo físico. Este estudio tiene como objetivo analizar con qué precisión los modelos pueden predecir acciones orientadas a objetivos que requieren razonamiento físico de varios pasos.",
+          "meta": "21 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2610.01092",
+            "capturedAt": "2026-10-04T10:37:20.584Z",
+            "metadata": {
+              "popularity": 21,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.01092",
+                "publishedAt": "2026-10-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/ego2act/ego2act",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "MemFold: Learning Compact Soft Memory for Long-Context Personalization via On-Policy Optimization",
+          "url": "https://huggingface.co/papers/2609.36435",
+          "summary": "MemFold es un método de gestión de memoria que almacena las preferencias y restricciones personales en vectores latentes (latent vectors) compactos durante las interacciones prolongadas con el usuario. Este enfoque comprime los datos históricos basados en texto, permitiendo que los asistentes de inteligencia artificial funcionen de manera más eficiente en procesos de contexto largo (long-context).",
+          "meta": "6 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.36435",
+            "capturedAt": "2026-10-04T10:37:20.584Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36435",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Johnny221B/memfold",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+          "url": "https://huggingface.co/papers/2610.00812",
+          "summary": "Los modelos de generación de video, a pesar de los procesos de preentrenamiento (pretraining) a gran escala, enfrentan dificultades para seguir la intención del usuario y garantizar la coherencia temporal. Este estudio examina en detalle las técnicas de alineación (alignment) en los procesos de creación de video y el papel de los métodos posteriores al entrenamiento (post-training) en este campo.",
+          "meta": "44 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2610.00812",
+            "capturedAt": "2026-10-04T10:37:20.584Z",
+            "metadata": {
+              "popularity": 44,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.00812",
+                "publishedAt": "2026-09-30T00:00:00.000Z",
+                "githubRepo": "https://github.com/people-robots/Awesome-Video-Generation-Post-Training",
+                "githubStars": 202
+              }
+            }
+          }
+        },
+        {
+          "title": "Persona Dosing: Calibrated Activation Steering for Graded Trait Control",
+          "url": "https://huggingface.co/papers/2609.36388",
+          "summary": "Persona Dosing es un método que permite controlar la intensidad de los rasgos de personalidad en los modelos de lenguaje a una escala determinada. Esta técnica ajusta con precisión el grado de expresión de una personalidad definida a través del mecanismo de dirección de activación (activation steering).",
+          "meta": "40 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.36388",
+            "capturedAt": "2026-10-04T10:37:20.584Z",
+            "metadata": {
+              "popularity": 40,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36388",
+                "publishedAt": "2026-09-28T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Why don’t more developers \"use the platform\"?",
+          "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+          "summary": "La tendencia de los desarrolladores de software a recurrir a bibliotecas pesadas en lugar de utilizar las funciones integradas del navegador provoca un crecimiento innecesario del tamaño de las aplicaciones y pérdidas de rendimiento. Las capacidades nativas que ofrecen los estándares web modernos a menudo pueden realizar funciones similares de manera más eficiente sin necesidad de dependencias externas.",
+          "meta": "38 puntos · 18 comentarios",
+          "snapshot": {
+            "sourceId": "srduzv",
+            "capturedAt": "2026-10-04T10:37:20.885Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 18,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform",
+                  "popularity": 38,
+                  "engagementCount": 18
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "web"
+                ],
+                "createdAt": "2026-10-03T16:35:28.658-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform",
+              "popularity": 38,
+              "engagementCount": 18
+            }
+          ]
+        },
+        {
+          "title": "Rust's derive often implies inline",
+          "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+          "summary": "Las macros de derivación (derive) en el lenguaje Rust pueden hacer que el código generado se compile de forma integrada (inline). Esto puede afectar directamente el tiempo de compilación y el tamaño del archivo binario resultante.",
+          "meta": "24 puntos · 5 comentarios",
+          "snapshot": {
+            "sourceId": "dldhpw",
+            "capturedAt": "2026-10-04T10:37:20.885Z",
+            "metadata": {
+              "popularity": 24,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
+                  "popularity": 24,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-10-03T20:41:57.843-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
+              "popularity": 24,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
+          "url": "https://frankwiles.com/posts/i-got-targeted/",
+          "summary": "Los atacantes tienen como objetivo robar credenciales utilizando ganchos de git (git hooks) que ejecutan código en las computadoras de los desarrolladores de software. Este método, activado especialmente a través del gancho post-checkout, demuestra que los proyectos descargados de fuentes no confiables pueden representar un riesgo de seguridad para los sistemas locales.",
+          "meta": "118 puntos · 37 comentarios",
+          "snapshot": {
+            "sourceId": "cd5gdk",
+            "capturedAt": "2026-10-04T10:37:20.885Z",
+            "metadata": {
+              "popularity": 118,
+              "engagementCount": 37,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
+                  "popularity": 118,
+                  "engagementCount": 37
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security",
+                  "vcs"
+                ],
+                "createdAt": "2026-10-02T17:19:02.622-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your",
+              "popularity": 118,
+              "engagementCount": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "concurrency",
+      "explanation": "La capacidad de una computadora para dividir múltiples tareas simultáneas en partes pequeñas y ejecutarlas de forma secuencial y rápida."
+    },
+    {
+      "term": "token",
+      "explanation": "La unidad de datos más pequeña que corresponde a fragmentos de palabras o sílabas, utilizada por la inteligencia artificial al procesar textos."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Un servidor intermediario que recibe el tráfico de Internet en su lugar, ocultando su identidad y proporcionando una conexión segura."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Una interfaz basada en texto que le permite gestionar programas sin usar el ratón, solo mediante comandos escritos desde el teclado."
+    },
+    {
+      "term": "API",
+      "explanation": "Un puente digital que permite que dos programas diferentes se comuniquen entre sí e intercambien datos."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "La capacidad de la inteligencia artificial para no olvidar conversaciones previas y retener información en su memoria durante interacciones a largo plazo."
+    },
+    {
+      "term": "agent workspace",
+      "explanation": "El espacio de trabajo donde los asistentes basados en inteligencia artificial tienen acceso a todas las herramientas y datos necesarios para realizar sus tareas."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Competencias técnicas en el diseño de sistemas complejos, resolución de problemas y gestión de procesos de desarrollo de software."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "El marco estructural que define las capacidades que necesitan las inteligencias artificiales para tomar decisiones por sí mismas y completar tareas."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software autónomo capaz de planificar por sí mismo y utilizar herramientas para finalizar trabajos de acuerdo con los objetivos recibidos del usuario."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "El proceso de filtrar información innecesaria y resaltar datos importantes para que la inteligencia artificial utilice su memoria limitada de la manera más eficiente."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Un protocolo de conexión común que permite a los modelos de inteligencia artificial comunicarse con diferentes fuentes de datos en un lenguaje estándar."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con volúmenes masivos de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "error tracking",
+      "explanation": "Un sistema de seguimiento que detecta automáticamente los errores que ocurren en el software e informa dónde y por qué se originaron."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un marco de trabajo (framework) fundamental que facilita las tareas durante el desarrollo de software, ofreciendo estructuras de código predefinidas y un conjunto de reglas."
+    },
+    {
+      "term": "hard budget caps",
+      "explanation": "El límite superior absoluto, técnicamente imposible de superar, de los recursos que un proyecto o sistema puede consumir."
+    }
+  ]
+}
