@@ -1,0 +1,589 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-05",
+  "capturedAt": "2026-10-05T11:30:07.709Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "summary": "TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni nesil bir çerçeve (framework). Geliştiricilerin uygulama arayüzlerini farklı platformlarda hızlıca doğrulamasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 3.771 · +345 bugün",
+          "snapshot": {
+            "sourceId": "tester-army/e2e",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3771,
+              "engagementCount": 345,
+              "rank": 1,
+              "extra": {
+                "starsToday": 345
+              }
+            }
+          }
+        },
+        {
+          "title": "michael-denyer/pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
+          "meta": "JavaScript · ★ 1.289 · +232 bugün",
+          "snapshot": {
+            "sourceId": "michael-denyer/pstack-claude",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 1289,
+              "engagementCount": 232,
+              "rank": 3,
+              "extra": {
+                "starsToday": 232
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol özelindeki yürütülebilir dosyaların (executables) farklı platformlara taşınmasını sağlar.",
+          "meta": "C++ · ★ 4.377 · +994 bugün",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 4377,
+              "engagementCount": 994,
+              "rank": 6,
+              "extra": {
+                "starsToday": 994
+              }
+            }
+          }
+        },
+        {
+          "title": "caddyserver/caddy",
+          "url": "https://github.com/caddyserver/caddy",
+          "summary": "Caddy, otomatik HTTPS sertifikası yönetimi sunan, Go diliyle yazılmış genişletilebilir bir web sunucusu. HTTP/1, HTTP/2 ve HTTP/3 protokollerini destekleyerek web sitelerinin kurulumunu ve güvenliğini basitleştiriyor.",
+          "meta": "Go · ★ 76.782 · +24 bugün",
+          "snapshot": {
+            "sourceId": "caddyserver/caddy",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 76782,
+              "engagementCount": 24,
+              "rank": 9,
+              "extra": {
+                "starsToday": 24
+              }
+            }
+          }
+        },
+        {
+          "title": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "summary": "OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu yönetim aracıdır. Kullanıcıların verilerini kendi sunucularında barındırmalarına olanak tanıyan bu yazılım, popüler fitness uygulamalarından (Strong, Hevy) veri aktarımını destekler.",
+          "meta": "JavaScript · ★ 3.409 · +570 bugün",
+          "snapshot": {
+            "sourceId": "DuarteSantos8/openGym",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 3409,
+              "engagementCount": 570,
+              "rank": 10,
+              "extra": {
+                "starsToday": 570
+              }
+            }
+          }
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını tek bir çatı altında toplayan bir otomasyon kütüphanesi. Yazılım geliştirme, içerik üretimi ve veri analizi gibi çeşitli görevleri üstlenen bu uzman ajanlar, karmaşık iş akışlarını yönetmek için özelleştirilmiş süreçler ve kişilikler sunuyor.",
+          "meta": "Shell · ★ 156.926 · +595 bugün",
+          "snapshot": {
+            "sourceId": "msitarzewski/agency-agents",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 156926,
+              "engagementCount": 595,
+              "rank": 13,
+              "extra": {
+                "starsToday": 595
+              }
+            }
+          },
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "url": "https://github.com/Niko1221/Strata",
+          "summary": "Strata, yüksek parametreli büyük dil modellerini (large language models) tüketici sınıfı ekran kartlarında (RTX 4090) yüksek hızla çalıştırmayı sağlayan bir çıkarım (inference) motoru. Qwen 3.8 Flash Next gibi devasa modellerin donanım kısıtlamalarına rağmen verimli şekilde kullanılabilmesine olanak tanıyor.",
+          "meta": "821 oy · 363 yorum",
+          "snapshot": {
+            "sourceId": "49953495",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 821,
+              "engagementCount": 363,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49953495",
+                  "popularity": 821,
+                  "engagementCount": 363
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "snehesht",
+                "createdAt": "2026-10-04T12:51:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49953495"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49953495",
+              "popularity": 821,
+              "engagementCount": 363
+            }
+          ]
+        },
+        {
+          "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "summary": "RemoveMacAI, Apple'ın işletim sistemi macOS içerisine entegre ettiği yapay zekâ özellikleri (Apple Intelligence) paketini sistemden kaldırmanıza olanak tanıyor. Bu araç, söz konusu yapay zekâ dosyalarını silerek cihazınızda depolama alanı açmanızı sağlıyor.",
+          "meta": "608 oy · 414 yorum",
+          "snapshot": {
+            "sourceId": "49957116",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 608,
+              "engagementCount": 414,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49957116",
+                  "popularity": 608,
+                  "engagementCount": 414
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "privacyisntdead",
+                "createdAt": "2026-10-04T19:42:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49957116"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49957116",
+              "popularity": 608,
+              "engagementCount": 414
+            }
+          ]
+        },
+        {
+          "title": "Improper redaction reveals Google Data Center water and electricity usage",
+          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+          "summary": "Google'ın Lincoln veri merkezindeki su ve elektrik kullanımına dair belgelerde yapılan hatalı karartma (redaction) işlemi, gizli tutulması hedeflenen operasyonel verilerin açığa çıkmasına neden oldu. Bu durum, teknoloji şirketlerinin çevresel kaynak tüketimiyle ilgili şeffaflık süreçlerindeki güvenlik açıklarını gözler önüne seriyor.",
+          "meta": "405 oy · 538 yorum",
+          "snapshot": {
+            "sourceId": "49957068",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 405,
+              "engagementCount": 538,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49957068",
+                  "popularity": 405,
+                  "engagementCount": 538
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "sensanaty",
+                "createdAt": "2026-10-04T19:37:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49957068"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49957068",
+              "popularity": 405,
+              "engagementCount": 538
+            }
+          ]
+        },
+        {
+          "title": "What is going on with ceiling fans",
+          "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+          "summary": "Tavan vantilatörlerinin modern tasarımlarda estetikten uzaklaşarak karmaşık ve işlevsiz formlara bürünmesi, mimari eleştirmenlerin dikkatini çekiyor. Bu cihazlar, basit bir hava sirkülasyon aracı olmaktan çıkıp ev dekorasyonunda görsel bir gürültü kaynağı haline geliyor.",
+          "meta": "325 oy · 278 yorum",
+          "snapshot": {
+            "sourceId": "49917536",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 325,
+              "engagementCount": 278,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49917536",
+                  "popularity": 325,
+                  "engagementCount": 278
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "colinprince",
+                "createdAt": "2026-10-01T03:52:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49917536"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49917536",
+              "popularity": 325,
+              "engagementCount": 278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Alman yapay zekâ şirketi Aleph-Alpha tarafından geliştirilen Kolibri-1, metin üretme (text generation) odaklı yeni bir dil modeli. Model, özellikle Avrupa dilleri için optimize edilmiş dil yetenekleri ve verimli çalışma mimarisiyle dikkat çekiyor.",
+          "meta": "♥ 512 · 2.453 indirme",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-05T11:30:07.841Z",
+            "metadata": {
+              "popularity": 512,
+              "engagementCount": 2453,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 498,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Multilingual GSM-Symbolic: What determines capability transfer across languages?",
+          "url": "https://huggingface.co/papers/2610.03367",
+          "summary": "Multilingual GSM-Symbolic, büyük dil modellerinin (large language models) bir dilde kazandığı yeteneklerin diğer dillere nasıl aktarıldığını inceleyen yeni bir değerlendirme çerçevesi sunuyor. Bu çalışma, düşük kaynaklı dillerdeki performans kısıtlarını belirleyerek tüm dil çiftlerini tek tek test etme zorunluluğunu ortadan kaldırmayı hedefliyor.",
+          "meta": "4 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.03367",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.03367",
+                "publishedAt": "2026-10-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/centre-for-humanities-computing/multilingual-gsm-symbolic"
+              }
+            }
+          }
+        },
+        {
+          "title": "Collective Bias Mitigation via Model Routing and Collaboration",
+          "url": "https://huggingface.co/papers/2610.03240",
+          "summary": "Büyük dil modellerindeki (LLM) önyargıları azaltmak için geliştirilen model yönlendirme ve iş birliği yöntemi, tek bir modelin öz denetim yetersizliğini aşmayı hedefliyor. Farklı modellerin kolektif çalışmasını sağlayarak eğitim verilerindeki kalıplaşmış yargıları daha etkili biçimde temizlemeyi amaçlıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.03240",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.03240",
+                "publishedAt": "2026-10-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Rethinking Token Reweighting for SFT: Suppress, Reverse, and Extrapolate Learned Features",
+          "url": "https://huggingface.co/papers/2609.33463",
+          "summary": "Gözetimli ince ayar (supervised fine-tuning) sürecinde modelin düşük olasılık atadığı belirteçler (tokens) öğrenme üzerinde baskın rol oynayarak mevcut bilgilerin bozulmasına neden olabiliyor. Araştırmacılar, mevcut belirteç ağırlıklandırma yöntemlerinin hatalı özellikleri tersine çeviremediğini belirterek, zararlı öğrenmeyi engellemek için yeni bir politika tabanlı kayıp yaklaşımı öneriyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.33463",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.33463",
+                "publishedAt": "2026-09-27T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "World Action Modeling with Progressive Visual Planning",
+          "url": "https://huggingface.co/papers/2610.02508",
+          "summary": "ProWAM, robotik kontrol süreçlerinde uzun vadeli hedeflere ulaşmak için geliştirilen aşamalı görsel planlama (progressive visual planning) yöntemidir. Mevcut dünya eylem modellerinin (world action models) yaşadığı video oluşturma verimsizliğini, gelecekteki kareleri kademeli şekilde tahmin ederek çözmeyi hedefler.",
+          "meta": "27 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.02508",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.02508",
+                "publishedAt": "2026-10-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "LVMT: Video Mask Transformer for Long-term Video Segmentation",
+          "url": "https://huggingface.co/papers/2609.34895",
+          "summary": "LVMT, uzun süreli video bölütleme (video segmentation) süreçlerinde nesne takibini iyileştiren yeni bir yöntemdir. Hafif yapılı bir GRU tabanlı zamansal yayılım mekanizması kullanarak karmaşık videolarda nesne bilgilerini daha verimli işler.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.34895",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.34895",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/tue-mps/lvmt",
+                "githubStars": 9
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "ncdu: NCurses Disk Usage (an updated fork)",
+          "url": "https://github.com/rcalixte/ncdu",
+          "summary": "ncdu, terminal üzerinden disk kullanımını analiz eden ve dizin boyutlarını grafiksel bir arayüzle listeleyen bir disk analiz aracıdır (disk usage analyzer). Güncellenen bu çatal (fork), orijinal yazılımın sunduğu hızlı tarama ve interaktif gezinme özelliklerini modern sistemlerle uyumlu hale getiriyor.",
+          "meta": "34 oy · 13 yorum",
+          "snapshot": {
+            "sourceId": "dsoh2w",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 34,
+              "engagementCount": 13,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork",
+                  "popularity": 34,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "release",
+                  "zig"
+                ],
+                "createdAt": "2026-10-04T14:30:36.027-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork",
+              "popularity": 34,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Claude Says",
+          "url": "https://ohhfishal.net/Posts/claude",
+          "summary": "Claude Says, Claude yapay zekâ modelinin (Claude) yanıtlarını analiz ederek modelin belirli bir soruya veya komuta nasıl tepki verdiğini inceleyen bir yöntemdir. Bu yaklaşım, büyük dil modellerinin (large language models) mantık yürütme süreçlerini ve olası önyargılarını daha anlaşılır kılmayı amaçlar.",
+          "meta": "18 oy · 5 yorum",
+          "snapshot": {
+            "sourceId": "7faqgg",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7faqgg/claude_says",
+                  "popularity": 18,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-10-04T23:48:18.022-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7faqgg/claude_says",
+              "popularity": 18,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Flirt is now Open-Source",
+          "url": "https://blog.buenzli.dev/flirt-is-open-source/",
+          "summary": "Flirt, metin tabanlı arayüzler için geliştirilen ve artık açık kaynaklı olarak sunulan bir terminal tabanlı dosya gezgini. Kullanıcılara, klavye kısayollarıyla dosya sisteminde hızlıca gezinme ve işlem yapma imkânı tanıyor.",
+          "meta": "8 oy · 2 yorum",
+          "snapshot": {
+            "sourceId": "9iztqv",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/9iztqv/flirt_is_now_open_source",
+                  "popularity": 8,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vcs"
+                ],
+                "createdAt": "2026-10-05T04:34:42.913-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9iztqv/flirt_is_now_open_source",
+              "popularity": 8,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "end-to-end testing",
+      "explanation": "Bir yazılımın baştan sona tüm parçalarının birbiriyle uyumlu çalışıp çalışmadığını kontrol eden kapsamlı test süreci."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır araçlar ve kurallar bütünü sunan bir temel yapı."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "Yapay zekânın karmaşık bir görevi kendi başına planlayıp adımlara bölerek tamamlaması süreci."
+    },
+    {
+      "term": "CAD",
+      "explanation": "Mühendislerin ve mimarların bilgisayar kullanarak teknik çizimler ve üç boyutlu tasarımlar yapmasını sağlayan sistem."
+    },
+    {
+      "term": "executables",
+      "explanation": "Bilgisayarın doğrudan çalıştırabileceği, genellikle kurulum veya uygulama dosyası olarak bilinen programlar."
+    },
+    {
+      "term": "agentic",
+      "explanation": "Yapay zekânın sadece cevap vermekle kalmayıp, verilen hedef doğrultusunda kendi kararlarını alıp harekete geçebilme yeteneği."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "RTX 4090",
+      "explanation": "Oyunlarda ve yapay zekâ işlemlerinde çok yüksek performans sunan, günümüzün en güçlü ekran kartlarından biri."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekânın, öğrendiği bilgileri kullanarak yeni bir soruya cevap üretme aşaması."
+    },
+    {
+      "term": "Apple Intelligence",
+      "explanation": "Apple cihazlarına entegre edilmiş, kişisel verileri koruyarak metin yazma ve görsel düzenleme gibi işleri kolaylaştıran yapay zekâ sistemi."
+    },
+    {
+      "term": "redaction",
+      "explanation": "Bir belgedeki gizli veya özel bilgilerin okunmaması için üzerinin karartılması veya silinmesi işlemi."
+    }
+  ]
+}

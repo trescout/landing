@@ -1,0 +1,937 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-05",
+  "capturedAt": "2026-10-05T11:30:07.709Z",
+  "editorial": "While projects focused on hardware optimization and memory management are coming to the fore today, academic discussions on multilingual capability transfer of large language models are intensifying. The ability to run the Qwen 3.8 Flash model at high speed on consumer-grade graphics cards represents a critical threshold for local AI infrastructure.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "summary": "A next-generation framework that automates end-to-end testing processes for TypeScript-based e2e, web, and mobile applications. It allows developers to quickly verify application interfaces across different platforms.",
+          "meta": "TypeScript · ★ 3,771 · +345 today",
+          "snapshot": {
+            "sourceId": "tester-army/e2e",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3771,
+              "engagementCount": 345,
+              "rank": 1,
+              "extra": {
+                "starsToday": 345
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem is a tool that allows AI agents to establish persistent context between sessions. It summarizes and compresses the agent's past interactions and transfers relevant information to subsequent sessions, offering a more consistent workflow.",
+          "meta": "TypeScript · ★ 96,353 · +534 today",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 96353,
+              "engagementCount": 534,
+              "rank": 2,
+              "extra": {
+                "starsToday": 534
+              }
+            }
+          }
+        },
+        {
+          "title": "michael-denyer/pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "summary": "Pstack-claude is an automation library that adapts the core functions of the software development tool Cursor for different AI models and platforms. It allows developers to run complex agentic workflows in a standardized way across various working environments.",
+          "meta": "JavaScript · ★ 1,289 · +232 today",
+          "snapshot": {
+            "sourceId": "michael-denyer/pstack-claude",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 1289,
+              "engagementCount": 232,
+              "rank": 3,
+              "extra": {
+                "starsToday": 232
+              }
+            }
+          }
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Text-to-CAD is an AI tool that converts natural language commands into computer-aided design (CAD) files. It enables software developers to automate three-dimensional modeling processes with text-based inputs.",
+          "meta": "Python · ★ 17,085 · +83 today",
+          "snapshot": {
+            "sourceId": "earthtojake/text-to-cad",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17085,
+              "engagementCount": 83,
+              "rank": 4,
+              "extra": {
+                "starsToday": 83
+              }
+            }
+          }
+        },
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3 Code is a tool that analyzes the codebase in TypeScript projects and provides structural suggestions to developers. This solution, which visualizes software architecture and audits compliance with standards, aims to maintain code quality in complex projects.",
+          "meta": "TypeScript · ★ 25,375 · +487 today",
+          "snapshot": {
+            "sourceId": "pingdotgg/t3code",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 25375,
+              "engagementCount": 487,
+              "rank": 5,
+              "extra": {
+                "starsToday": 487
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 is a tool that automatically converts PlayStation 5 game files to run on Linux and Windows systems. Developed in C++, this software enables the porting of console-specific executables to different platforms.",
+          "meta": "C++ · ★ 4,377 · +994 today",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 4377,
+              "engagementCount": 994,
+              "rank": 6,
+              "extra": {
+                "starsToday": 994
+              }
+            }
+          }
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach is a command-line tool that gives AI agents the ability to scan and read platforms on the internet (such as Twitter, Reddit, YouTube, and GitHub). This Python-based library, which allows data scraping without paying any application programming interface (API) fees, facilitates agents' access to comprehensive information sources.",
+          "meta": "Python · ★ 91,382 · +1,156 today",
+          "snapshot": {
+            "sourceId": "Panniantong/Agent-Reach",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 91382,
+              "engagementCount": 1156,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1156
+              }
+            }
+          }
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage is an open-source agentic system that automates video production processes. With twelve different production pipelines and support for hundreds of tools, it transforms AI coding assistants into a comprehensive video production studio.",
+          "meta": "Python · ★ 63,527 · +245 today",
+          "snapshot": {
+            "sourceId": "calesthio/OpenMontage",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 63527,
+              "engagementCount": 245,
+              "rank": 8,
+              "extra": {
+                "starsToday": 245
+              }
+            }
+          }
+        },
+        {
+          "title": "caddyserver/caddy",
+          "url": "https://github.com/caddyserver/caddy",
+          "summary": "Caddy is an extensible web server written in Go that offers automatic HTTPS certificate management. It simplifies the setup and security of websites by supporting HTTP/1, HTTP/2, and HTTP/3 protocols.",
+          "meta": "Go · ★ 76,782 · +24 today",
+          "snapshot": {
+            "sourceId": "caddyserver/caddy",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 76782,
+              "engagementCount": 24,
+              "rank": 9,
+              "extra": {
+                "starsToday": 24
+              }
+            }
+          }
+        },
+        {
+          "title": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "summary": "OpenGym is an open-source gym management tool used to plan workout routines and track bodyweight exercises. Allowing users to host their data on their own servers, this software supports data import from popular fitness applications (Strong, Hevy).",
+          "meta": "JavaScript · ★ 3,409 · +570 today",
+          "snapshot": {
+            "sourceId": "DuarteSantos8/openGym",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 3409,
+              "engagementCount": 570,
+              "rank": 10,
+              "extra": {
+                "starsToday": 570
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "summary": "Cloudflare OS, developed by Cloudflare, is a workspace designed to create AI agents that work integrated with company data and systems. Running on the serverless computing platform Cloudflare Workers, this system enables the automation of application development and document creation processes.",
+          "meta": "TypeScript · ★ 10,805 · +102 today",
+          "snapshot": {
+            "sourceId": "cloudflare/cloudflare-os",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10805,
+              "engagementCount": 102,
+              "rank": 11,
+              "extra": {
+                "starsToday": 102
+              }
+            }
+          }
+        },
+        {
+          "title": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "summary": "Stremio is a media player that aggregates video content from different sources into a single interface. This web-based version allows users to watch content through a browser without any installation.",
+          "meta": "JavaScript · ★ 14,127 · +111 today",
+          "snapshot": {
+            "sourceId": "Stremio/stremio-web",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 14127,
+              "engagementCount": 111,
+              "rank": 12,
+              "extra": {
+                "starsToday": 111
+              }
+            }
+          }
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents is an automation library that brings together AI agents with different areas of expertise under one roof. These expert agents, which take on various tasks such as software development, content creation, and data analysis, offer customized processes and personalities to manage complex workflows.",
+          "meta": "Shell · ★ 156,926 · +595 today",
+          "snapshot": {
+            "sourceId": "msitarzewski/agency-agents",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 156926,
+              "engagementCount": 595,
+              "rank": 13,
+              "extra": {
+                "starsToday": 595
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tell HN: Bob Cringely has died",
+          "url": "https://news.ycombinator.com/item?id=49949438",
+          "summary": "Bob Cringely, a well-known author in the technology world and one of Apple's first employees, whose real name was Mark Stevens, has passed away. Known especially for his documentaries on the history of technology such as Triumph of the Nerds, the author is remembered for his work in the industry.",
+          "meta": "885 points · 190 comments",
+          "snapshot": {
+            "sourceId": "49949438",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 885,
+              "engagementCount": 190,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49949438",
+                  "popularity": 885,
+                  "engagementCount": 190
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "paveworld",
+                "createdAt": "2026-10-04T00:50:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49949438"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49949438",
+              "popularity": 885,
+              "engagementCount": 190
+            }
+          ]
+        },
+        {
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "url": "https://github.com/Niko1221/Strata",
+          "summary": "Strata is an inference engine that allows high-parameter large language models to run at high speeds on consumer-grade graphics cards (RTX 4090). It enables massive models like Qwen 3.8 Flash Next to be used efficiently despite hardware limitations.",
+          "meta": "821 points · 363 comments",
+          "snapshot": {
+            "sourceId": "49953495",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 821,
+              "engagementCount": 363,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49953495",
+                  "popularity": 821,
+                  "engagementCount": 363
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "snehesht",
+                "createdAt": "2026-10-04T12:51:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49953495"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49953495",
+              "popularity": 821,
+              "engagementCount": 363
+            }
+          ]
+        },
+        {
+          "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "summary": "RemoveMacAI allows you to remove the Apple Intelligence package, the AI features integrated into Apple's macOS operating system, from the system. This tool enables you to free up storage space on your device by deleting these AI files.",
+          "meta": "608 points · 414 comments",
+          "snapshot": {
+            "sourceId": "49957116",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 608,
+              "engagementCount": 414,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49957116",
+                  "popularity": 608,
+                  "engagementCount": 414
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "privacyisntdead",
+                "createdAt": "2026-10-04T19:42:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49957116"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49957116",
+              "popularity": 608,
+              "engagementCount": 414
+            }
+          ]
+        },
+        {
+          "title": "Improper redaction reveals Google Data Center water and electricity usage",
+          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+          "summary": "An erroneous redaction process in documents regarding water and electricity usage at Google's Lincoln data center led to the exposure of operational data intended to be kept confidential. This situation highlights security vulnerabilities in the transparency processes of technology companies regarding environmental resource consumption.",
+          "meta": "405 points · 538 comments",
+          "snapshot": {
+            "sourceId": "49957068",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 405,
+              "engagementCount": 538,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49957068",
+                  "popularity": 405,
+                  "engagementCount": 538
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "sensanaty",
+                "createdAt": "2026-10-04T19:37:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49957068"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49957068",
+              "popularity": 405,
+              "engagementCount": 538
+            }
+          ]
+        },
+        {
+          "title": "What is going on with ceiling fans",
+          "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+          "summary": "The shift of ceiling fans in modern designs away from aesthetics toward complex and dysfunctional forms is drawing the attention of architectural critics. These devices are ceasing to be simple air circulation tools and are becoming a source of visual noise in home decor.",
+          "meta": "325 points · 278 comments",
+          "snapshot": {
+            "sourceId": "49917536",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 325,
+              "engagementCount": 278,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49917536",
+                  "popularity": 325,
+                  "engagementCount": 278
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "colinprince",
+                "createdAt": "2026-10-01T03:52:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49917536"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49917536",
+              "popularity": 325,
+              "engagementCount": 278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Clef, developed by Cloudflare, is a multimodal AI model that processes visual and text inputs to produce text output. This model is used to generate text-based responses in processes of analyzing and interpreting image content.",
+          "meta": "♥ 1,305 · 5,416 downloads",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-05T11:30:07.841Z",
+            "metadata": {
+              "popularity": 1305,
+              "engagementCount": 5416,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1213,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, published on HuggingFace, is an AI model developed for text classification tasks. It accelerates natural language processing processes by sorting given texts into predefined categories.",
+          "meta": "♥ 5,195 · 11,733 downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-10-05T11:30:07.841Z",
+            "metadata": {
+              "popularity": 5195,
+              "engagementCount": 11733,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 737,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored is an AI model with text-to-image capabilities that has had content restrictions removed. Shared on HuggingFace, this model is suitable for running on local hardware with the GGUF format, which provides low memory usage.",
+          "meta": "♥ 3,187 · 1,638,838 downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-10-05T11:30:07.841Z",
+            "metadata": {
+              "popularity": 3187,
+              "engagementCount": 1638838,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 697,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, developed by the German AI company Aleph-Alpha, is a new language model focused on text generation. The model stands out with its language capabilities optimized especially for European languages and its efficient operating architecture.",
+          "meta": "♥ 512 · 2,453 downloads",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-05T11:30:07.841Z",
+            "metadata": {
+              "popularity": 512,
+              "engagementCount": 2453,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 498,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "LTX-2.5, developed by Lightricks, is an image-to-video model that converts static images into moving videos. The model allows users to produce high-quality video content from a single image.",
+          "meta": "♥ 6,384 · 1,645,444 downloads",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-10-05T11:30:07.841Z",
+            "metadata": {
+              "popularity": 6384,
+              "engagementCount": 1645444,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 461,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Multilingual GSM-Symbolic: What determines capability transfer across languages?",
+          "url": "https://huggingface.co/papers/2610.03367",
+          "summary": "Multilingual GSM-Symbolic presents a new evaluation framework that examines how the capabilities acquired by large language models in one language are transferred to other languages. This study aims to eliminate the necessity of testing all language pairs individually by identifying performance constraints in low-resource languages.",
+          "meta": "4 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.03367",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.03367",
+                "publishedAt": "2026-10-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/centre-for-humanities-computing/multilingual-gsm-symbolic"
+              }
+            }
+          }
+        },
+        {
+          "title": "Collective Bias Mitigation via Model Routing and Collaboration",
+          "url": "https://huggingface.co/papers/2610.03240",
+          "summary": "The model steering and collaboration method developed to reduce biases in large language models (LLM) aims to overcome the self-supervision insufficiency of a single model. By enabling the collective work of different models, it aims to more effectively clear stereotypical judgments in training data.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.03240",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.03240",
+                "publishedAt": "2026-10-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Rethinking Token Reweighting for SFT: Suppress, Reverse, and Extrapolate Learned Features",
+          "url": "https://huggingface.co/papers/2609.33463",
+          "summary": "During the supervised fine-tuning process, tokens to which the model assigns low probability can play a dominant role in learning, causing the degradation of existing knowledge. Researchers state that current token weighting methods cannot reverse erroneous features and propose a new policy-based loss approach to prevent harmful learning.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.33463",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.33463",
+                "publishedAt": "2026-09-27T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "World Action Modeling with Progressive Visual Planning",
+          "url": "https://huggingface.co/papers/2610.02508",
+          "summary": "ProWAM is a progressive visual planning method developed to achieve long-term goals in robotic control processes. It aims to solve the video generation inefficiency experienced by current world action models by gradually predicting future frames.",
+          "meta": "27 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.02508",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.02508",
+                "publishedAt": "2026-10-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "LVMT: Video Mask Transformer for Long-term Video Segmentation",
+          "url": "https://huggingface.co/papers/2609.34895",
+          "summary": "LVMT is a new method that improves object tracking in long-term video segmentation processes. It processes object information more efficiently in complex videos by using a lightweight GRU-based temporal propagation mechanism.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.34895",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.34895",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/tue-mps/lvmt",
+                "githubStars": 9
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "ncdu: NCurses Disk Usage (an updated fork)",
+          "url": "https://github.com/rcalixte/ncdu",
+          "summary": "ncdu is a disk usage analyzer that analyzes disk usage via the terminal and lists directory sizes with a graphical interface. This updated fork makes the fast scanning and interactive navigation features offered by the original software compatible with modern systems.",
+          "meta": "34 points · 13 comments",
+          "snapshot": {
+            "sourceId": "dsoh2w",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 34,
+              "engagementCount": 13,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork",
+                  "popularity": 34,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "release",
+                  "zig"
+                ],
+                "createdAt": "2026-10-04T14:30:36.027-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork",
+              "popularity": 34,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Claude Says",
+          "url": "https://ohhfishal.net/Posts/claude",
+          "summary": "Claude Says is a method that examines how the Claude artificial intelligence model reacts to a specific question or command by analyzing its responses. This approach aims to make the reasoning processes and potential biases of large language models more understandable.",
+          "meta": "18 points · 5 comments",
+          "snapshot": {
+            "sourceId": "7faqgg",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7faqgg/claude_says",
+                  "popularity": 18,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-10-04T23:48:18.022-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7faqgg/claude_says",
+              "popularity": 18,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Flirt is now Open-Source",
+          "url": "https://blog.buenzli.dev/flirt-is-open-source/",
+          "summary": "Flirt is a terminal-based file explorer developed for text-based interfaces and is now offered as open source. It allows users to quickly navigate and perform operations in the file system using keyboard shortcuts.",
+          "meta": "8 points · 2 comments",
+          "snapshot": {
+            "sourceId": "9iztqv",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/9iztqv/flirt_is_now_open_source",
+                  "popularity": 8,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vcs"
+                ],
+                "createdAt": "2026-10-05T04:34:42.913-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9iztqv/flirt_is_now_open_source",
+              "popularity": 8,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "end-to-end testing",
+      "explanation": "A comprehensive testing process that checks whether all parts of a software work in harmony with each other from start to finish."
+    },
+    {
+      "term": "framework",
+      "explanation": "A foundational structure that provides a set of ready-made tools and rules that make things easier when developing software."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "The state of an artificial intelligence maintaining the continuity of a conversation by remembering previous interactions."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "The process of an artificial intelligence planning a complex task on its own and completing it by breaking it down into steps."
+    },
+    {
+      "term": "CAD",
+      "explanation": "A system that enables engineers and architects to create technical drawings and 3D designs using a computer."
+    },
+    {
+      "term": "executables",
+      "explanation": "Programs that a computer can run directly, generally known as installation or application files."
+    },
+    {
+      "term": "API",
+      "explanation": "A digital bridge that allows two different software programs to communicate and exchange data with each other."
+    },
+    {
+      "term": "agentic",
+      "explanation": "The ability of artificial intelligence not only to provide answers but also to make its own decisions and take action in line with a given goal."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "RTX 4090",
+      "explanation": "One of today's most powerful graphics cards, offering very high performance in games and artificial intelligence operations."
+    },
+    {
+      "term": "inference",
+      "explanation": "The stage where a trained artificial intelligence uses the information it has learned to generate an answer to a new question."
+    },
+    {
+      "term": "Apple Intelligence",
+      "explanation": "An artificial intelligence system integrated into Apple devices that facilitates tasks such as writing text and editing images while protecting personal data."
+    },
+    {
+      "term": "redaction",
+      "explanation": "The process of blacking out or deleting sensitive or private information in a document to prevent it from being read."
+    },
+    {
+      "term": "text classification",
+      "explanation": "The categorization or labeling of a text by artificial intelligence based on its content."
+    },
+    {
+      "term": "natural language processing",
+      "explanation": "The field of technology that enables computers to understand, analyze, and respond in human language."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Artificial intelligence technology that analyzes a written text and creates a corresponding image from scratch."
+    }
+  ]
+}
