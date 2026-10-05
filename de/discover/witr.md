@@ -2,7 +2,7 @@
 
 Witr ist ein Befehlszeilentool, das Prozesse, Ports, Container oder Dateien im System überwacht und ermittelt, von welcher Quelle sie gestartet wurden. Diese Software, mit der Benutzer Aktivitäten auf dem System verfolgen können, bietet sowohl Unterstützung für die Befehlszeile (CLI) als auch für die textbasierte Benutzeroberfläche (TUI).
 
-- ★ 21.963
+- ★ 22.580
 - Go
 - GitHub Trending · 2026-08-08
 

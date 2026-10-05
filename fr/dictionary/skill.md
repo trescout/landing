@@ -41,8 +41,8 @@ Les développeurs les écrivent, les plates-formes les distribuent dans le store
 ## Outils liés
 - [Anthropic Skills](/fr/discover/anthropic-skills/)
 - [Taste Skill](/fr/discover/taste-skill/)
-- [Awesome Claude Skills](/fr/discover/awesome-claude-skills/)
 - [Archify](/fr/discover/archify/)
+- [Awesome Claude Skills](/fr/discover/awesome-claude-skills/)
 - [Last30days Skill](/fr/discover/last30days-skill/)
 - [I Have Adhd](/fr/discover/i-have-adhd/)
 - [Reverse Skill](/fr/discover/reverse-skill/)

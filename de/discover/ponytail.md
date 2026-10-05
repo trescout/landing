@@ -2,7 +2,7 @@
 
 Ein MIT-lizenziertes Regelwerk und Plugin-System, das bei Agenten-gesteuerten Codieraufgaben Validierung, Fehlerbehandlung, Sicherheit und Barrierefreiheit sicherstellen soll. Regeln werden angewendet, nachdem der betroffene Code gelesen wurde.
 
-- ★ 152.240
+- ★ 155.501
 - JavaScript
 - GitHub Trending · 2026-08-25
 

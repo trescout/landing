@@ -28,6 +28,7 @@ Approval is usually expected for critical decisions, but most processes proceed 
 
 ## Related tools
 - [MinerU](/en/discover/mineru/)
+- [Pstack Claude](/en/discover/pstack-claude/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agentic-workflows/

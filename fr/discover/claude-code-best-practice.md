@@ -2,7 +2,7 @@
 
 Ce guide développé pour Claude Code traite des processus de transition de l'approche de codage vibratoire à l'ingénierie basée sur les agents. Il propose des méthodes d'application pratiques et des bonnes pratiques pour accroître l'efficacité des agents d'intelligence artificielle dans les processus de développement de logiciels.
 
-- ★ 63 889
+- ★ 67 105
 - HTML
 - GitHub Trending · 2026-06-24
 

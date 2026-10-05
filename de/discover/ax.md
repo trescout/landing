@@ -2,7 +2,7 @@
 
 Ax, entwickelt von Google, ist eine Open-Source-Orchestrierungs-Runtime für KI-Agenten. Diese in Go geschriebene Infrastruktur erleichtert die Verwaltung und Ausführung komplexer agentenbasierter Workflows.
 
-- ★ 12.083
+- ★ 13.086
 - GitHub Trending · 2026-09-23
 
 ## Was es bringt

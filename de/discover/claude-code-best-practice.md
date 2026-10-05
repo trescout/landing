@@ -2,7 +2,7 @@
 
 In diesem für Claude Code entwickelten Leitfaden werden die Übergangsprozesse vom Vibe-Coding-Ansatz zum agentenbasierten Engineering erörtert. Es bietet praktische Anwendungsmethoden und Best Practices, um die Effizienz von Agenten der künstlichen Intelligenz in Softwareentwicklungsprozessen zu steigern.
 
-- ★ 63.889
+- ★ 67.105
 - HTML
 - GitHub Trending · 2026-06-24
 

@@ -2,7 +2,7 @@
 
 Archify ist eine KI-Agentenfunktion (Agent Skill), die Architektur-, Datenfluss- und Workflow-Diagramme als verifizierbare und animierte HTML-Dateien generiert. Dieses Tool, das zur Visualisierung komplexer Systemdesigns verwendet wird, unterstützt den hochauflösenden Export von Diagrammen.
 
-- ★ 73.342
+- ★ 77.819
 - GitHub Trending · 2026-08-26
 
 ## Was es bringt

@@ -2,11 +2,12 @@
 
 Open-notebook, Google NotebookLM'in açık kaynaklı bir alternatifini sunarak kullanıcıların kendi verileri üzerinde özelleştirilebilir yapay zekâ destekli not analizi (AI-powered note analysis) yapmalarına olanak tanıyor. TypeScript ile geliştirilen bu proje, orijinal platforma kıyasla daha fazla esneklik ve genişletilmiş özellik seti sağlıyor.
 
-- ★ 38.082
+- ★ 39.813
 - TypeScript
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
+- 5 Ekim 2026: Yıldız 38.082 → 39.813, son sürüm v1.15.0 (4 Ekim 2026).
 - 2 Eylül 2026: Yıldız 36.268 → 38.082, son sürüm v1.14.0 (21 Temmuz 2026).
 - 2 Ağustos 2026: Yıldız 25.373 → 36.268, son sürüm v1.14.0 (21 Temmuz 2026).
 

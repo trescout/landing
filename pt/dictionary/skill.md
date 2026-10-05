@@ -41,8 +41,8 @@ Os desenvolvedores escrevem, as plataformas distribuem na loja. Escrever uma boa
 ## Ferramentas relacionadas
 - [Anthropic Skills](/pt/discover/anthropic-skills/)
 - [Taste Skill](/pt/discover/taste-skill/)
-- [Awesome Claude Skills](/pt/discover/awesome-claude-skills/)
 - [Archify](/pt/discover/archify/)
+- [Awesome Claude Skills](/pt/discover/awesome-claude-skills/)
 - [Last30days Skill](/pt/discover/last30days-skill/)
 - [I Have Adhd](/pt/discover/i-have-adhd/)
 - [Reverse Skill](/pt/discover/reverse-skill/)

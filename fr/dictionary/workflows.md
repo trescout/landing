@@ -41,6 +41,7 @@ Non. Une liste papier est aussi un flux. Lorsque le volume augmente, un outil de
 - [MinerU](/fr/discover/mineru/)
 - [Trivy](/fr/discover/trivy/)
 - [Modly](/fr/discover/modly/)
+- [Pstack Claude](/fr/discover/pstack-claude/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/workflows/

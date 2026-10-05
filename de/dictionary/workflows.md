@@ -41,6 +41,7 @@ Nein. Eine Papierliste ist auch ein Ablauf. Wenn das Volumen wächst, wird ein T
 - [MinerU](/de/discover/mineru/)
 - [Trivy](/de/discover/trivy/)
 - [Modly](/de/discover/modly/)
+- [Pstack Claude](/de/discover/pstack-claude/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/workflows/

@@ -8877,5 +8877,44 @@
     "kisa_pt": "É o limite máximo rígido imposto aos recursos que um projeto ou sistema pode consumir e que, ao ser ultrapassado, interrompe imediatamente as operações.",
     "kisa_es": "Es el límite superior estricto impuesto a los recursos que un proyecto o sistema puede consumir, el cual detiene inmediatamente las operaciones si se supera.",
     "kisa_de": "Es ist eine strikte Obergrenze für die Ressourcen, die ein Projekt oder System verbrauchen kann, und die die Vorgänge sofort stoppt, wenn sie überschritten wird."
+  },
+  {
+    "slug": "rtx-4090",
+    "en": "RTX 4090",
+    "full": "GeForce RTX 4090",
+    "cat": "ai",
+    "kisa": "Yüksek grafik ve yapay zekâ işleme gücü sunan, 24 GB video belleğine sahip amiral gemisi bir masaüstü ekran kartıdır.",
+    "date": "2026-10-05",
+    "kisa_en": "It is a flagship desktop graphics card featuring 24 GB of video memory, offering high graphics and AI processing power.",
+    "kisa_fr": "Il s'agit d'une carte graphique de bureau phare dotée de 24 Go de mémoire vidéo, offrant une puissance de traitement graphique et d'intelligence artificielle élevée.",
+    "kisa_pt": "É uma placa de vídeo de desktop topo de linha com 24 GB de memória de vídeo, que oferece alto poder de processamento gráfico e de inteligência artificial.",
+    "kisa_es": "Es una tarjeta gráfica de escritorio insignia que ofrece una alta potencia de procesamiento de gráficos e inteligencia artificial, con 24 GB de memoria de video.",
+    "kisa_de": "Es handelt sich um eine Desktop-Grafikkarte der Flaggschiff-Klasse mit 24 GB Videospeicher, die eine hohe Grafik- und KI-Verarbeitungsleistung bietet."
+  },
+  {
+    "slug": "apple-intelligence",
+    "en": "Apple Intelligence",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Apple ekosistemindeki cihazlara entegre çalışan, gizlilik odaklı kişisel yapay zekâ sistemidir.",
+    "date": "2026-10-05",
+    "kisa_en": "It is a privacy-focused personal artificial intelligence system integrated into devices within the Apple ecosystem.",
+    "kisa_fr": "Il s'agit d'un système d'intelligence artificielle personnelle axé sur la confidentialité, fonctionnant de manière intégrée aux appareils de l'écosystème Apple.",
+    "kisa_pt": "É um sistema de inteligência artificial pessoal focado na privacidade, integrado nos dispositivos do ecossistema Apple.",
+    "kisa_es": "Es un sistema de inteligencia artificial personal enfocado en la privacidad que funciona integrado en los dispositivos del ecosistema de Apple.",
+    "kisa_de": "Es handelt sich um ein datenschutzorientiertes persönliches KI-System, das nahtlos in Geräte im Apple-Ökosystem integriert ist."
+  },
+  {
+    "slug": "redaction",
+    "en": "Redaction",
+    "full": "",
+    "cat": "data",
+    "kisa": "Hassas veya gizli bilgilerin belgelerden kalıcı olarak karartılması ya da silinmesi işlemidir.",
+    "date": "2026-10-05",
+    "kisa_en": "It is the process of permanently redacting or deleting sensitive or confidential information from documents.",
+    "kisa_fr": "Il s'agit du processus de masquage ou de suppression permanente d'informations sensibles ou confidentielles figurant dans des documents.",
+    "kisa_pt": "É o processo de ocultação ou eliminação permanente de informações sensíveis ou confidenciais de documentos.",
+    "kisa_es": "Es el proceso de oscurecer o eliminar permanentemente información confidencial o secreta de los documentos.",
+    "kisa_de": "Es ist der Prozess der dauerhaften Schwärzung oder Löschung sensibler oder vertraulicher Informationen aus Dokumenten."
   }
 ]

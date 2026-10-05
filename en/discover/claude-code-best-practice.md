@@ -2,7 +2,7 @@
 
 This guide developed for Claude Code discusses the transition processes from vibe coding approach to agent-based engineering. It offers practical application methods and best practices to increase the efficiency of artificial intelligence agents in software development processes.
 
-- ★ 63,889
+- ★ 67,105
 - HTML
 - GitHub Trending · 2026-06-24
 

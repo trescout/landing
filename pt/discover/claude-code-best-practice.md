@@ -2,7 +2,7 @@
 
 Este guia desenvolvido para Claude Code discute os processos de transição da abordagem de codificação de vibração para a engenharia baseada em agentes. Oferece métodos práticos de aplicação e melhores práticas para aumentar a eficiência dos agentes de inteligência artificial nos processos de desenvolvimento de software.
 
-- ★ 63.889
+- ★ 67.105
 - HTML
 - GitHub Trending · 2026-06-24
 

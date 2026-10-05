@@ -26,6 +26,7 @@ Bei kritischen Entscheidungen wird in der Regel eine Genehmigung erwartet, die m
 
 ## Verwandte Werkzeuge
 - [MinerU](/de/discover/mineru/)
+- [Pstack Claude](/de/discover/pstack-claude/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agentic-workflows/

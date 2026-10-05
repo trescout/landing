@@ -40,6 +40,7 @@ Il se brise lorsque l'interface change. Il est écrit de manière sélective et 
 
 ## Outils liés
 - [Cypress](/fr/discover/cypress/)
+- [E2e](/fr/discover/e2e/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/end-to-end-testing/

@@ -2,7 +2,7 @@
 
 O Archify é uma habilidade de IA (agent skill) que gera diagramas de arquitetura, fluxo de dados e fluxo de trabalho como arquivos HTML verificáveis e animados. Usada para visualizar designs de sistemas complexos, esta ferramenta suporta a exportação de diagramas em alta resolução.
 
-- ★ 73.342
+- ★ 77.819
 - GitHub Trending · 2026-08-26
 
 ## O que você ganha

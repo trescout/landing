@@ -40,6 +40,7 @@ Es geht kaputt, wenn sich die Benutzeroberfläche ändert. Es wird selektiv und 
 
 ## Verwandte Werkzeuge
 - [Cypress](/de/discover/cypress/)
+- [E2e](/de/discover/e2e/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/end-to-end-testing/

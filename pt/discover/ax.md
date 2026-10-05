@@ -2,7 +2,7 @@
 
 Desenvolvido pelo Google, o Ax é um tempo de execução (runtime) de orquestração de código aberto para agentes de inteligência artificial. Escrito em Go, essa infraestrutura facilita o gerenciamento e a execução de fluxos de trabalho agênticos complexos.
 
-- ★ 12.083
+- ★ 13.086
 - GitHub Trending · 2026-09-23
 
 ## O que você ganha
