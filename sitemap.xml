@@ -721,6 +721,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/cad/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/ccusage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -1575,6 +1581,12 @@
   <url>
     <loc>https://trescout.com/dictionary/etf/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/dictionary/executables/</loc>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4424,7 +4436,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/ansible/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4964,7 +4976,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/coder/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5006,7 +5018,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/colibri/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5648,7 +5660,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/google-timeline-visualizer/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7106,7 +7118,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/ruflo/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7436,7 +7448,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/system-prompts-leaks/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7550,7 +7562,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/tooljet/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7634,7 +7646,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/twenty/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9397,6 +9409,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/cad/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/ccusage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -10251,6 +10269,12 @@
   <url>
     <loc>https://trescout.com/de/dictionary/etf/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/dictionary/executables/</loc>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13100,7 +13124,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/ansible/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13640,7 +13664,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/coder/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13682,7 +13706,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/colibri/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -14324,7 +14348,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/google-timeline-visualizer/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -15782,7 +15806,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/ruflo/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16112,7 +16136,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/system-prompts-leaks/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16226,7 +16250,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/tooljet/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16310,7 +16334,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/twenty/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18001,6 +18025,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/cad/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/ccusage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -18855,6 +18885,12 @@
   <url>
     <loc>https://trescout.com/en/dictionary/etf/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/en/dictionary/executables/</loc>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21704,7 +21740,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/ansible/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22244,7 +22280,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/coder/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22286,7 +22322,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/colibri/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22928,7 +22964,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/google-timeline-visualizer/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24386,7 +24422,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/ruflo/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24716,7 +24752,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/system-prompts-leaks/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24830,7 +24866,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/tooljet/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24914,7 +24950,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/twenty/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26605,6 +26641,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/cad/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/ccusage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -27459,6 +27501,12 @@
   <url>
     <loc>https://trescout.com/es/dictionary/etf/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/es/dictionary/executables/</loc>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -30308,7 +30356,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/ansible/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -30848,7 +30896,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/coder/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -30890,7 +30938,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/colibri/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -31532,7 +31580,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/google-timeline-visualizer/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -32990,7 +33038,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/ruflo/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33320,7 +33368,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/system-prompts-leaks/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33434,7 +33482,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/tooljet/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33518,7 +33566,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/twenty/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -35209,6 +35257,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/cad/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/ccusage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -36063,6 +36117,12 @@
   <url>
     <loc>https://trescout.com/fr/dictionary/etf/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/fr/dictionary/executables/</loc>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38912,7 +38972,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/ansible/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -39452,7 +39512,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/coder/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -39494,7 +39554,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/colibri/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -40136,7 +40196,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/google-timeline-visualizer/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -41594,7 +41654,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/ruflo/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -41924,7 +41984,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/system-prompts-leaks/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42038,7 +42098,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/tooljet/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42122,7 +42182,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/twenty/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -43813,6 +43873,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/cad/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/ccusage/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -44667,6 +44733,12 @@
   <url>
     <loc>https://trescout.com/pt/dictionary/etf/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/pt/dictionary/executables/</loc>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47516,7 +47588,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/ansible/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48056,7 +48128,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/coder/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48098,7 +48170,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/colibri/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48740,7 +48812,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/google-timeline-visualizer/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -50198,7 +50270,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/ruflo/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -50528,7 +50600,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/system-prompts-leaks/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -50642,7 +50714,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/tooljet/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -50726,7 +50798,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/twenty/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

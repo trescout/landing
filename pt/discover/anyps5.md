@@ -14,6 +14,8 @@ AnyPS5 é uma ferramenta que converte automaticamente arquivos de jogos do PlayS
 ## Como começar
 - Fonte oficial →
 
+## Termos relacionados do glossário
+
 ## Links
 - Repositório no GitHub →
 - Ler em turco →

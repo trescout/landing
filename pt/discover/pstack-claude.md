@@ -2,7 +2,7 @@
 
 O Pstack-claude é uma biblioteca de automação que adapta as funcionalidades principais da ferramenta de desenvolvimento de software Cursor para diferentes modelos e plataformas de inteligência artificial. Ele permite que os desenvolvedores executem fluxos de trabalho de agentes de IA complexos de maneira padronizada em vários ambientes de trabalho.
 
-- ★ 1.292
+- ★ 1.340
 - JavaScript
 - GitHub Trending · 2026-10-05
 

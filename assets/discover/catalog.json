@@ -553,14 +553,14 @@
     "slug": "twenty",
     "title": "Twenty",
     "tagline": "Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.",
-    "meta": "★ 57.768 · Lisans: özel",
+    "meta": "★ 57.935 · Lisans: özel",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Geliştirici aracı"
     ],
-    "stars": 57768,
+    "stars": 57935,
     "image": "/assets/discover/og/twenty.webp",
     "headline": "Modern ve Açık Kaynaklı CRM",
     "last_review": "2026-10-05",
@@ -655,6 +655,13 @@
         "onceki_yildiz": 57699,
         "surum": "twenty/v2.44.0",
         "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 57935,
+        "onceki_yildiz": 57768,
+        "surum": "twenty/v2.45.0",
+        "surum_tarihi": "2026-10-05"
       }
     ],
     "tagline_en": "An open source, AI-driven and modern alternative to Salesforce.",
@@ -9674,7 +9681,7 @@
     "slug": "cua",
     "title": "CUA",
     "tagline": "CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık kaynaklı bir altyapı sunuyor.",
-    "meta": "★ 28.101 · HTML",
+    "meta": "★ 28.129 · HTML",
     "image": "/assets/discover/og/cua.webp",
     "source": "GitHub",
     "date": "2026-06-16",
@@ -9682,7 +9689,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28101,
+    "stars": 28129,
     "lite": false,
     "headline": "Yapay zekâ ajanları için bilgisayar kontrolü",
     "last_review": "2026-10-05",
@@ -9853,6 +9860,13 @@
         "yildiz": 28101,
         "onceki_yildiz": 27988,
         "surum": "cua-spaces-v0.7.2",
+        "surum_tarihi": "2026-10-05"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 28129,
+        "onceki_yildiz": 28101,
+        "surum": "cua-sdk-v0.4.1",
         "surum_tarihi": "2026-10-05"
       }
     ],
@@ -12945,7 +12959,7 @@
     "slug": "system-prompts-leaks",
     "title": "System Prompts Leaks",
     "tagline": "GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Google ve xAI gibi büyük teknoloji şirketlerinin…",
-    "meta": "★ 65.657 · JavaScript",
+    "meta": "★ 68.956 · JavaScript",
     "image": "/assets/discover/og/system-prompts-leaks.webp",
     "source": "GitHub",
     "date": "2026-06-22",
@@ -12953,7 +12967,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 65657,
+    "stars": 68956,
     "lite": false,
     "headline": "Yapay zekâ modellerinin gizli talimatları",
     "last_review": "2026-10-05",
@@ -12967,6 +12981,11 @@
         "tarih": "2026-09-13",
         "yildiz": 65657,
         "onceki_yildiz": 61968
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 68956,
+        "onceki_yildiz": 65657
       }
     ],
     "tagline_en": "The system_prompts_leaks repository shared on GitHub is from major technology companies such as Anthropic, OpenAI, Google and xAI.",
@@ -13083,7 +13102,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 57.008 · TypeScript",
+    "meta": "★ 57.128 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -13091,7 +13110,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 57008,
+    "stars": 57128,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-05",
@@ -13458,6 +13477,13 @@
         "yildiz": 57008,
         "onceki_yildiz": 56505,
         "surum": "v0.8.131",
+        "surum_tarihi": "2026-10-05"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 57128,
+        "onceki_yildiz": 57008,
+        "surum": "v0.8.133",
         "surum_tarihi": "2026-10-05"
       }
     ],
@@ -17279,14 +17305,14 @@
     "slug": "ansible",
     "title": "Ansible",
     "tagline": "Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren bir bilişim teknolojileri otomasyon platformudur.",
-    "meta": "★ 70.621 · Python",
+    "meta": "★ 70.861 · Python",
     "image": "/assets/discover/og/ansible.webp",
     "source": "GitHub",
     "date": "2026-07-04",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 70621,
+    "stars": 70861,
     "lite": false,
     "headline": "BT sistemlerini otomatikleştiren platform",
     "last_review": "2026-10-05",
@@ -17311,6 +17337,13 @@
         "onceki_yildiz": 70299,
         "surum": "v2.21.4",
         "surum_tarihi": "2026-09-08"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 70861,
+        "onceki_yildiz": 70621,
+        "surum": "v2.21.5",
+        "surum_tarihi": "2026-10-05"
       }
     ],
     "tagline_en": "Ansible is an information technologies automation platform that automates application deployment and system management processes.",
@@ -31994,7 +32027,7 @@
     "slug": "tooljet",
     "title": "ToolJet",
     "tagline": "ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama…",
-    "meta": "★ 41.024 · JavaScript",
+    "meta": "★ 41.036 · JavaScript",
     "image": "/assets/discover/og/tooljet.webp",
     "source": "GitHub",
     "date": "2026-08-15",
@@ -32002,7 +32035,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41024,
+    "stars": 41036,
     "lite": false,
     "headline": "Kod yazmadan kurumsal uygulamalar geliştirin",
     "tagline_en": "ToolJet is an open source application for developing in-house tools, dashboards and artificial intelligence agents.",
@@ -32144,6 +32177,13 @@
         "onceki_yildiz": 41018,
         "surum": "v3.20.237-lts",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 41036,
+        "onceki_yildiz": 41024,
+        "surum": "v3.20.238-lts",
+        "surum_tarihi": "2026-10-05"
       }
     ],
     "last_seen": "2026-08-17"
@@ -33210,14 +33250,14 @@
     "slug": "google-timeline-visualizer",
     "title": "Google Timeline Visualizer",
     "tagline": "Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık seyahatlerinizi görselleştirir.",
-    "meta": "★ 2.990 · Kotlin",
+    "meta": "★ 3.030 · Kotlin",
     "image": "/assets/discover/og/google-timeline-visualizer.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2990,
+    "stars": 3030,
     "lite": false,
     "headline": "Konum geçmişinizi hareketli videoya dönüştürün",
     "tagline_en": "Google Timeline Visualizer uses your Google Location History data to visualize a year of travel.",
@@ -33345,6 +33385,13 @@
         "onceki_yildiz": 2980,
         "surum": "v3.0.18",
         "surum_tarihi": "2026-09-12"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 3030,
+        "onceki_yildiz": 2990,
+        "surum": "v3.1.0",
+        "surum_tarihi": "2026-10-05"
       }
     ],
     "last_seen": "2026-08-23",
@@ -33500,14 +33547,14 @@
     "slug": "ruflo",
     "title": "Ruflo",
     "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
-    "meta": "★ 73.764 · TypeScript",
+    "meta": "★ 73.903 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
     "date": "2026-08-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 73764,
+    "stars": 73903,
     "lite": false,
     "headline": "Yapay zekâ ajanları için orkestrasyon katmanı",
     "last_review": "2026-10-05",
@@ -33623,6 +33670,13 @@
         "onceki_yildiz": 73697,
         "surum": "v3.51.1",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 73903,
+        "onceki_yildiz": 73764,
+        "surum": "v3.52.0",
+        "surum_tarihi": "2026-10-05"
       }
     ],
     "tagline_en": "Ruflo is an agent orchestration layer for deploying intelligent agent swarms, coordinating autonomous workflows, and building conversational AI systems.",
@@ -38981,7 +39035,7 @@
     "slug": "colibri",
     "title": "Colibri",
     "tagline": "Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel…",
-    "meta": "★ 37.791 · C",
+    "meta": "★ 39.698 · C",
     "image": "/assets/discover/og/colibri.webp",
     "source": "GitHub",
     "date": "2026-09-11",
@@ -38989,7 +39043,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37791,
+    "stars": 39698,
     "summary": "Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel bilgisayarlarda çalıştırmayı sağlayan C dili tabanlı bir motor. Uzman katmanlarını disk üzerinden akış yöntemiyle işleyerek, yüksek kapasiteli yapay zekâ modellerini kısıtlı donanımlarda çalıştırmayı mümkün kılıyor.",
     "lite": false,
     "headline": "Devasa yapay zekâ modellerini yerel çalıştırın",
@@ -39034,6 +39088,13 @@
         "tarih": "2026-09-27",
         "yildiz": 37791,
         "onceki_yildiz": 36260,
+        "surum": "v1.12.1",
+        "surum_tarihi": "2026-09-24"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 39698,
+        "onceki_yildiz": 37791,
         "surum": "v1.12.1",
         "surum_tarihi": "2026-09-24"
       }
@@ -40688,7 +40749,7 @@
     "slug": "coder",
     "title": "Coder",
     "tagline": "Coder, yazılımcılar ve yapay zekâ ajanları için güvenli geliştirme ortamları (development environments) sağlayan bir platform.",
-    "meta": "★ 16.710 · Go",
+    "meta": "★ 16.848 · Go",
     "image": "/assets/discover/og/coder.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -40696,7 +40757,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 16710,
+    "stars": 16848,
     "summary": "Coder, yazılımcılar ve yapay zekâ ajanları için güvenli geliştirme ortamları (development environments) sağlayan bir platform. Bulut tabanlı altyapısı sayesinde kodlama süreçlerini standartlaştırarak geliştirme ortamlarını merkezi bir şekilde yönetmenize olanak tanıyor.",
     "lite": false,
     "headline": "Bulut tabanlı güvenli geliştirme ortamları",
@@ -40722,6 +40783,13 @@
         "onceki_yildiz": 15395,
         "surum": "v2.36.6",
         "surum_tarihi": "2026-09-18"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 16848,
+        "onceki_yildiz": 16710,
+        "surum": "v2.36.7",
+        "surum_tarihi": "2026-10-05"
       }
     ],
     "tagline_en": "Coder is a platform that provides secure development environments for software developers and AI agents.",
@@ -42679,7 +42747,7 @@
     "slug": "pstack-claude",
     "title": "Pstack Claude",
     "tagline": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan…",
-    "meta": "★ 1.292 · JavaScript",
+    "meta": "★ 1.340 · JavaScript",
     "image": "/assets/discover/og/pstack-claude.webp",
     "source": "GitHub",
     "date": "2026-10-05",
@@ -42687,7 +42755,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1292,
+    "stars": 1340,
     "last_seen": "2026-10-05",
     "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
     "lite": false,
@@ -42702,6 +42770,13 @@
         "onceki_yildiz": 1289,
         "surum": "v0.9.67",
         "surum_tarihi": "2026-10-04"
+      },
+      {
+        "tarih": "2026-10-05",
+        "yildiz": 1340,
+        "onceki_yildiz": 1292,
+        "surum": "v0.9.69",
+        "surum_tarihi": "2026-10-05"
       }
     ],
     "tagline_en": "Pstack-claude, which adapts the core functions of the software development tool Cursor for different artificial intelligence models and platforms...",

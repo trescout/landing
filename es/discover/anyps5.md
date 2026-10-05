@@ -14,6 +14,8 @@ AnyPS5 es una herramienta que convierte automáticamente los archivos de juegos 
 ## Cómo empezar
 - Fuente oficial →
 
+## Términos relacionados del glosario
+
 ## Enlaces
 - Repositorio en GitHub →
 - Leer en turco →

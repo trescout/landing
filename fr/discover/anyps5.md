@@ -14,6 +14,8 @@ AnyPS5 est un outil qui convertit automatiquement les fichiers de jeux PlayStati
 ## Pour commencer
 - Source officielle →
 
+## Termes liés du glossaire
+
 ## Liens
 - Dépôt GitHub →
 - Lire en turc →

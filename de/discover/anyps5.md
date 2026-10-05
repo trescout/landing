@@ -14,6 +14,8 @@ AnyPS5 ist ein Tool, das PlayStation 5-Spieldateien automatisch so konvertiert, 
 ## So fangen Sie an
 - Offizielle Quelle →
 
+## Verwandte Begriffe aus dem Glossar
+
 ## Links
 - GitHub-Repository →
 - Auf Türkisch lesen →

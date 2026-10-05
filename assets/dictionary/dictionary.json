@@ -8916,5 +8916,31 @@
     "kisa_pt": "É o processo de ocultação ou eliminação permanente de informações sensíveis ou confidenciais de documentos.",
     "kisa_es": "Es el proceso de oscurecer o eliminar permanentemente información confidencial o secreta de los documentos.",
     "kisa_de": "Es ist der Prozess der dauerhaften Schwärzung oder Löschung sensibler oder vertraulicher Informationen aus Dokumenten."
+  },
+  {
+    "slug": "cad",
+    "en": "CAD",
+    "full": "Computer-Aided Design",
+    "cat": "dev",
+    "kisa": "Mühendislerin ve mimarların bilgisayar kullanarak teknik çizimler ve üç boyutlu tasarımlar yapmasını sağlayan sistem.",
+    "date": "2026-10-05",
+    "kisa_en": "A system that enables engineers and architects to create technical drawings and three-dimensional designs using a computer.",
+    "kisa_fr": "Système permettant aux ingénieurs et aux architectes de réaliser des dessins techniques et des conceptions tridimensionnelles à l'aide d'un ordinateur.",
+    "kisa_pt": "Sistema que permite a engenheiros e arquitetos fazer desenhos técnicos e projetos tridimensionais usando o computador.",
+    "kisa_es": "Sistema que permite a ingenieros y arquitectos realizar dibujos técnicos y diseños tridimensionales utilizando la computadora.",
+    "kisa_de": "Ein System, das Ingenieuren und Architekten ermöglicht, mithilfe von Computern technische Zeichnungen und dreidimensionale Entwürfe zu erstellen."
+  },
+  {
+    "slug": "executables",
+    "en": "Executables",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayarın doğrudan çalıştırabileceği, genellikle kurulum veya uygulama dosyası olarak bilinen programlar.",
+    "date": "2026-10-05",
+    "kisa_en": "Programs that the computer can run directly, commonly known as installation or application files.",
+    "kisa_fr": "Programmes que l'ordinateur peut exécuter directement, généralement connus sous le nom de fichiers d'installation ou d'application.",
+    "kisa_pt": "Programas que o computador pode executar diretamente, geralmente conhecidos como arquivos de instalação ou de aplicativo.",
+    "kisa_es": "Programas que la computadora puede ejecutar directamente, conocidos comúnmente como archivos de instalación o de aplicación.",
+    "kisa_de": "Programme, die der Computer direkt ausführen kann und die allgemein als Installations- oder Anwendungsdateien bekannt sind."
   }
 ]

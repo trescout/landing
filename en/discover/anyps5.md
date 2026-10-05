@@ -14,6 +14,8 @@ AnyPS5 is a tool that automatically converts PlayStation 5 game files to run on 
 ## Getting started
 - Official source →
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - Read in Turkish →
