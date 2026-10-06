@@ -2,7 +2,7 @@
 
 AnyPS5 is a tool that automatically converts PlayStation 5 game files to run on Linux and Windows systems. Developed in C++, this software enables console-specific executables to be ported to different platforms.
 
-- ★ 4,389
+- ★ 5,536
 - C++
 - GitHub Trending · 2026-10-05
 

@@ -2,7 +2,7 @@
 
 Un marco de trabajo (framework) de nueva generación basado en TypeScript que automatiza los procesos de pruebas de extremo a extremo (end-to-end testing) para aplicaciones web y móviles. Permite a los desarrolladores verificar rápidamente las interfaces de usuario de las aplicaciones en diferentes plataformas.
 
-- ★ 5.508
+- ★ 5.716
 - TypeScript
 - GitHub Trending · 2026-10-05
 

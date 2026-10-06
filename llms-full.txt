@@ -39253,15 +39253,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı arama ve analiz yapılmasına olanak tanıyan dağıtık (distributed) ve açık kaynaklı bir arama motorudur. RESTful mimarisi sayesinde verilerin gerçek zamanlı olarak indekslenmesini ve sorgulanmasını destekler.
 
-- ★ 77.919
+- ★ 78.198
 - Java
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 77.919 → 78.198, son sürüm v9.5.5 (6 Ekim 2026).
 - 16 Eylül 2026: Yıldız 77.890 → 77.919, son sürüm v9.5.4 (15 Eylül 2026).
 - 4 Eylül 2026: Yıldız 77.846 → 77.890, son sürüm v9.5.3 (3 Eylül 2026).
 - 20 Ağustos 2026: Yıldız 77.837 → 77.846, son sürüm v9.5.2 (20 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 77.787 → 77.837, son sürüm v9.5.1 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük veri kümelerinde hızlı arama ve analiz
@@ -41052,6 +41052,57 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ile profesyonel video üretimi
+
+OpenMontage, yapay zekâ kodlama asistanlarını tam kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı işlem hattı (pipeline) ve 500'den fazla ajan yeteneği (agent skills) ile video üretim süreçlerini otomatize ediyor.
+
+- ★ 64.509
+- Python
+- GitHub Trending · 2026-06-18
+
+## Güncelleme
+- 6 Ekim 2026: Yıldız 61.422 → 64.509.
+- 27 Eylül 2026: Yıldız 58.024 → 61.422.
+- 13 Eylül 2026: Yıldız 54.943 → 58.024.
+- 31 Ağustos 2026: Yıldız 49.954 → 54.943.
+
+## Ne kazandırır?
+- Otomatik senaryo, görsel ve ses kurgusu
+- Stok görüntü ve açık arşivlerden video derleme
+- Adım adım onaylı prodüksiyon planlama
+
+## Kurulum
+
+**Temel kurulum**
+
+```
+git clone https://github.com/calesthio/OpenMontage.git
+cd OpenMontage
+make setup
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+OpenMontage sistemini kullanarak bir video prodüksiyonu başlatmak istiyorum. Konu, hedef süre ve görsel tarzı belirleyerek araştırmadan kurguya kadar tüm süreci yönetmeni istiyorum. Lütfen önce bir prodüksiyon planı oluştur, maliyet tahmini yap ve onayımı alarak varlık üretimine geç.
+
+- **Kimin için:** Kodlama asistanlarını kullanarak kendi video içeriklerini otomatize etmek isteyen içerik üreticileri ve geliştiriciler içindir. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/calesthio/OpenMontage)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Agentic System Pipeline Agent Skills Agentic AI Skills Agent
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openmontage/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ çağında öğrenme rehberi
 
 byoungd/up, yazılım geliştirme süreçlerinden dil öğrenimine kadar geniş bir yelpazede kişisel gelişim kaynakları sunan kapsamlı bir rehberdir. Özellikle yapay zekâ (artificial intelligence) araçlarını verimli kullanma ve İngilizce öğrenme yöntemleri üzerine odaklanan pratik ipuçları içerir.
@@ -41323,57 +41374,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yapay zekâ ile profesyonel video üretimi
-
-OpenMontage, yapay zekâ kodlama asistanlarını tam kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı işlem hattı (pipeline) ve 500'den fazla ajan yeteneği (agent skills) ile video üretim süreçlerini otomatize ediyor.
-
-- ★ 61.422
-- Python
-- GitHub Trending · 2026-06-18
-
-## Güncelleme
-- 27 Eylül 2026: Yıldız 58.024 → 61.422.
-- 13 Eylül 2026: Yıldız 54.943 → 58.024.
-- 31 Ağustos 2026: Yıldız 49.954 → 54.943.
-- 24 Ağustos 2026: Yıldız 47.498 → 49.954.
-
-## Ne kazandırır?
-- Otomatik senaryo, görsel ve ses kurgusu
-- Stok görüntü ve açık arşivlerden video derleme
-- Adım adım onaylı prodüksiyon planlama
-
-## Kurulum
-
-**Temel kurulum**
-
-```
-git clone https://github.com/calesthio/OpenMontage.git
-cd OpenMontage
-make setup
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-OpenMontage sistemini kullanarak bir video prodüksiyonu başlatmak istiyorum. Konu, hedef süre ve görsel tarzı belirleyerek araştırmadan kurguya kadar tüm süreci yönetmeni istiyorum. Lütfen önce bir prodüksiyon planı oluştur, maliyet tahmini yap ve onayımı alarak varlık üretimine geç.
-
-- **Kimin için:** Kodlama asistanlarını kullanarak kendi video içeriklerini otomatize etmek isteyen içerik üreticileri ve geliştiriciler içindir. 
-- **Lisans:** AGPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/calesthio/OpenMontage)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Agentic System Pipeline Agent Skills Agentic AI Skills Agent
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/openmontage/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Vue ile tam yığın web geliştirme
 
 Nuxt, Vue tabanlı uygulamalar geliştirmek için kullanılan tam yığın (full-stack) bir çerçevedir (framework). TypeScript desteğiyle sunulan bu araç, sunucu taraflı işleme (server-side rendering) ve statik site oluşturma süreçlerini optimize eder.
@@ -41426,15 +41426,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Penpot, tasarımcılar ve yazılımcılar arasında iş birliğini güçlendiren açık kaynaklı bir tasarım aracıdır. Vektör tabanlı arayüzü sayesinde tasarım süreçlerini kodlama aşamasıyla bütünleşik bir şekilde yönetmeyi sağlar.
 
-- ★ 60.712
+- ★ 60.747
 - Clojure
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 60.712 → 60.747, son sürüm 2.18.3 (6 Ekim 2026).
 - 5 Ekim 2026: Yıldız 60.568 → 60.712, son sürüm 2.18.2 (5 Ekim 2026).
 - 1 Ekim 2026: Yıldız 60.423 → 60.568, son sürüm 2.18.1 (1 Ekim 2026).
 - 27 Eylül 2026: Yıldız 59.235 → 60.423, son sürüm 2.18.0 (23 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 58.822 → 59.235, son sürüm 2.17.2 (27 Ağustos 2026).
 
 ## Ne kazandırır?
 - Tasarım süreçlerini kodla bütünleştirir
@@ -47059,14 +47059,14 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
 
-- ★ 34.330
+- ★ 34.452
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 34.330 → 34.452, son sürüm v18.6.3 (6 Ekim 2026).
 - 5 Ekim 2026: Yıldız 34.237 → 34.330, son sürüm v18.6.1 (4 Ekim 2026).
 - 4 Ekim 2026: Yıldız 34.163 → 34.237, son sürüm v18.6.0 (3 Ekim 2026).
 - 3 Ekim 2026: Yıldız 34.151 → 34.163, son sürüm v18.5.1 (3 Ekim 2026).
-- 3 Ekim 2026: Yıldız 34.066 → 34.151, son sürüm v18.5.0 (3 Ekim 2026).
 
 ## Ne kazandırır?
 - IDE özelliklerini terminale taşıyarak kod düzenleme süreçlerini otomatikleştirir.
@@ -62385,15 +62385,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay zekâ ajanları oluşturma, değerlendirme ve dağıtma konusunda uzmanlaştırıyor. Python tabanlı bu araç, ajan geliştirme süreçlerini standartlaştırarak bulut altyapısı üzerindeki operasyonel iş akışlarını hızlandırıyor.
 
-- ★ 6.033
+- ★ 6.055
 - Python
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 6.033 → 6.055, son sürüm v1.9.0 (6 Ekim 2026).
 - 30 Eylül 2026: Yıldız 6.009 → 6.033, son sürüm v1.8.0 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 5.948 → 6.009, son sürüm v1.7.0 (22 Eylül 2026).
 - 17 Eylül 2026: Yıldız 5.788 → 5.948, son sürüm v1.6.1 (16 Eylül 2026).
-- 2 Eylül 2026: Yıldız 5.770 → 5.788, son sürüm v1.5.0 (1 Eylül 2026).
 
 ## Ne kazandırır?
 - Google Cloud üzerinde ajan geliştirme süreçlerini standartlaştırır
@@ -62944,6 +62944,54 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Uçtan uca testlerinizi otomatize edin
+
+TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni nesil bir çerçeve (framework). Geliştiricilerin uygulama arayüzlerini farklı platformlarda hızlıca doğrulamasına olanak tanıyor.
+
+- ★ 5.716
+- TypeScript
+- GitHub Trending · 2026-10-05
+
+## Güncelleme
+- 6 Ekim 2026: Yıldız 5.508 → 5.716, son sürüm @e2e-dev/kernel@0.2.0 (6 Ekim 2026).
+- 6 Ekim 2026: Yıldız 3.786 → 5.508, son sürüm @e2e-dev/web@0.12.0 (4 Ekim 2026).
+- 5 Ekim 2026: Yıldız 3.771 → 3.786, son sürüm @e2e-dev/web@0.12.0 (4 Ekim 2026).
+
+## Ne kazandırır?
+- Doğal dilde hedef tanımlayarak test yazın
+- Eylemleri kaydedip sonraki çalıştırmalarda tekrar kullanın
+- Web ve mobil uygulamalarda arayüzü doğrulayın
+
+## Kurulum
+
+**Yapılandırmayı Başlat**
+
+```
+npx e2e init
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Test aracını kullanarak web veya mobil uygulamam için doğal dilde yazılmış adımlarla otomatik testler kur ve yapılandırma dosyasını oluştur.
+
+- **Kimin için:** Yazılım geliştiriciler ve test mühendisleri için web ve mobil uygulamalarda doğal dil ile otomasyon testi yazmayı sağlayan bir test çerçevesidir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/tester-army/e2e)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+End-to-End Testing Framework Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/e2e/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Otonom yapay zekâ ajanları için güvenlik
 
 Microsoft tarafından geliştirilen ajan yönetişim araç seti (agent governance toolkit), otonom yapay zekâ ajanları için politika uygulama, sıfır güven kimlik doğrulaması (zero-trust identity) ve yalıtılmış çalışma ortamı (sandboxing) gibi güvenlik katmanları sunuyor. Yazılım, OWASP Ajan Odaklı İlk 10 (OWASP Agentic Top 10) listesindeki güvenlik açıklarına karşı koruma sağlamayı hedefliyor.
@@ -62990,48 +63038,41 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Uçtan uca testlerinizi otomatize edin
+# PlayStation 5 oyunlarını bilgisayara dönüştürün
 
-TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni nesil bir çerçeve (framework). Geliştiricilerin uygulama arayüzlerini farklı platformlarda hızlıca doğrulamasına olanak tanıyor.
+AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol özelindeki yürütülebilir dosyaların (executables) farklı platformlara taşınmasını sağlar.
 
-- ★ 5.508
-- TypeScript
+- ★ 5.536
+- C++
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 3.786 → 5.508, son sürüm @e2e-dev/web@0.12.0 (4 Ekim 2026).
-- 5 Ekim 2026: Yıldız 3.771 → 3.786, son sürüm @e2e-dev/web@0.12.0 (4 Ekim 2026).
+- 6 Ekim 2026: Yıldız 4.389 → 5.536, son sürüm v0.1.1 (28 Eylül 2026).
+- 5 Ekim 2026: Yıldız 4.377 → 4.389, son sürüm v0.1.1 (28 Eylül 2026).
 
 ## Ne kazandırır?
-- Doğal dilde hedef tanımlayarak test yazın
-- Eylemleri kaydedip sonraki çalıştırmalarda tekrar kullanın
-- Web ve mobil uygulamalarda arayüzü doğrulayın
+- Konsol oyunlarını ayrı bir çalışma ortamı gerektiren emülatör yazılımları olmadan doğrudan bilgisayarınızda çalışacak şekilde dönüştürebilirsiniz.
+- Çoklu ortam kütüphanesi SDL ile eşleştirilmiş oyun kumandalarını, klavyeyi ve fareyi giriş ayarları dosyası anyps5-input.ini üzerinden yapılandırabilirsiniz.
+- Beklenmeyen hataları standart hata çıktısı stderr üzerinden anında görerek sorunları kolayca takip edebilirsiniz.
 
-## Kurulum
+## Nasıl başlanır?
 
-**Yapılandırmayı Başlat**
+Projeyi kullanmaya başlamak için GitHub deposunda bulunan USAGE.md kullanım kılavuzunu ve BUILD.md derleme yönergelerini inceleyebilirsiniz. Test edilmiş oyunların durumunu öğrenmek için COMPATIBILITY.md uyumluluk tablosuna göz atabilirsiniz.
+- [Resmî kaynak →](https://boykopovar.github.io/AnyPS5)
 
-```
-npx e2e init
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Test aracını kullanarak web veya mobil uygulamam için doğal dilde yazılmış adımlarla otomatik testler kur ve yapılandırma dosyasını oluştur.
-
-- **Kimin için:** Yazılım geliştiriciler ve test mühendisleri için web ve mobil uygulamalarda doğal dil ile otomasyon testi yazmayı sağlayan bir test çerçevesidir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** PlayStation 5 oyun konsolu oyunlarını Linux veya Windows işletim sistemi üzerinde yerel olarak çalıştırmak isteyen bilgisayar kullanıcıları içindir. 
+- **Lisans:** GPL-2.0 
 
 ## Bağlantılar
-- [GitHub deposu →](https://github.com/tester-army/e2e)
+- [GitHub deposu →](https://github.com/boykopovar/AnyPS5)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-End-to-End Testing Framework Artificial Intelligence
+Executables
 
 ---
-Kaynak: TreScout Keşif · https://trescout.com/discover/e2e/
+Kaynak: TreScout Keşif · https://trescout.com/discover/anyps5/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -64398,45 +64439,6 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-plugins-community/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# PlayStation 5 oyunlarını bilgisayara dönüştürün
-
-AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol özelindeki yürütülebilir dosyaların (executables) farklı platformlara taşınmasını sağlar.
-
-- ★ 4.389
-- C++
-- GitHub Trending · 2026-10-05
-
-## Güncelleme
-- 5 Ekim 2026: Yıldız 4.377 → 4.389, son sürüm v0.1.1 (28 Eylül 2026).
-
-## Ne kazandırır?
-- Konsol oyunlarını ayrı bir çalışma ortamı gerektiren emülatör yazılımları olmadan doğrudan bilgisayarınızda çalışacak şekilde dönüştürebilirsiniz.
-- Çoklu ortam kütüphanesi SDL ile eşleştirilmiş oyun kumandalarını, klavyeyi ve fareyi giriş ayarları dosyası anyps5-input.ini üzerinden yapılandırabilirsiniz.
-- Beklenmeyen hataları standart hata çıktısı stderr üzerinden anında görerek sorunları kolayca takip edebilirsiniz.
-
-## Nasıl başlanır?
-
-Projeyi kullanmaya başlamak için GitHub deposunda bulunan USAGE.md kullanım kılavuzunu ve BUILD.md derleme yönergelerini inceleyebilirsiniz. Test edilmiş oyunların durumunu öğrenmek için COMPATIBILITY.md uyumluluk tablosuna göz atabilirsiniz.
-- [Resmî kaynak →](https://boykopovar.github.io/AnyPS5)
-
-- **Kimin için:** PlayStation 5 oyun konsolu oyunlarını Linux veya Windows işletim sistemi üzerinde yerel olarak çalıştırmak isteyen bilgisayar kullanıcıları içindir. 
-- **Lisans:** GPL-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/boykopovar/AnyPS5)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Executables
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/anyps5/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
