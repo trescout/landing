@@ -1,0 +1,546 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-06",
+  "capturedAt": "2026-10-06T11:18:01.441Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.",
+          "meta": "TypeScript · ★ 6.726 · +2.963 bugün",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6726,
+              "engagementCount": 2963,
+              "rank": 8,
+              "extra": {
+                "starsToday": 2963
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "summary": "DeepSeek tarafından geliştirilen DeepGEMM, grafik işlem birimleri (GPU) üzerinde matris çarpımı işlemlerini hızlandıran açık kaynaklı bir temel doğrusal cebir alt programları (BLAS) kütüphanesidir. Yazılım, yüksek performanslı hesaplama gerektiren yapay zekâ modelleri için optimize edilmiş çekirdekler (kernels) sunar.",
+          "meta": "Cuda · ★ 8.522 · +363 bugün",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepGEMM",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "Cuda",
+              "popularity": 8522,
+              "engagementCount": 363,
+              "rank": 9,
+              "extra": {
+                "starsToday": 363
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Web Search API",
+          "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+          "summary": "Cloudflare, internet üzerindeki güncel verilere erişimi sağlayan Web Arama Arayüzü (Web Search API) hizmetini kullanıma sundu. Geliştiriciler, bu araç sayesinde uygulamalarına gerçek zamanlı arama sonuçlarını entegre ederek harici arama motorlarına olan bağımlılığı azaltabiliyor.",
+          "meta": "557 oy · 249 yorum",
+          "snapshot": {
+            "sourceId": "49963171",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 557,
+              "engagementCount": 249,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49963171",
+                  "popularity": 557,
+                  "engagementCount": 249
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-10-05T10:47:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49963171"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49963171",
+              "popularity": 557,
+              "engagementCount": 249
+            }
+          ]
+        },
+        {
+          "title": "Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "summary": "Reflection tarafından geliştirilen Beam, açık ağırlıklı (open-weight) yapay zekâ modelleri için yeni bir çıkarım (inference) altyapısı sunuyor. Bu platform, yüksek performanslı modelleri çalıştırmak için gereken hesaplama kaynaklarını optimize ederek geliştiricilere daha hızlı ve verimli bir dağıtım süreci sağlıyor.",
+          "meta": "471 oy · 149 yorum",
+          "snapshot": {
+            "sourceId": "49969183",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 471,
+              "engagementCount": 149,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49969183",
+                  "popularity": 471,
+                  "engagementCount": 149
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-10-05T19:16:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49969183"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49969183",
+              "popularity": 471,
+              "engagementCount": 149
+            }
+          ]
+        },
+        {
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+          "summary": "OpenAI tarafından geliştirilen sohbet robotu ChatGPT, oluşturduğu karikatürlerde gerçek sanatçıların imzalarını taklit ederek kullanıyor. Bu durum, üretken yapay zekâ (generative AI) modellerinin telif hakkı ve içerik özgünlüğü konusundaki etik tartışmalarını yeniden gündeme getiriyor.",
+          "meta": "458 oy · 332 yorum",
+          "snapshot": {
+            "sourceId": "49971846",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 458,
+              "engagementCount": 332,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49971846",
+                  "popularity": 458,
+                  "engagementCount": 332
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "rdmuser",
+                "createdAt": "2026-10-05T22:46:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49971846"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49971846",
+              "popularity": 458,
+              "engagementCount": 332
+            }
+          ]
+        },
+        {
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "summary": "Opus 5.5 yapay zekâ ajanları, oda sıcaklığında çalışan iki yeni manyetik yarı iletken adayı keşfetti. Bu çalışma, malzeme bilimi araştırmalarında yapay zekâ destekli keşif süreçlerinin (AI-driven discovery) hız kazandığını gösteriyor.",
+          "meta": "368 oy · 246 yorum",
+          "snapshot": {
+            "sourceId": "49970667",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 368,
+              "engagementCount": 246,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49970667",
+                  "popularity": 368,
+                  "engagementCount": 246
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "outlier99",
+                "createdAt": "2026-10-05T21:00:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49970667"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49970667",
+              "popularity": 368,
+              "engagementCount": 246
+            }
+          ]
+        },
+        {
+          "title": "Apple and a hacker's future",
+          "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+          "summary": "Apple, kapalı ekosistem yaklaşımıyla kullanıcı güvenliğini sağlarken yazılım geliştiricilerin sistem üzerindeki kontrolünü kısıtlıyor. Strateji analisti Ben Thompson, bu durumun teknoloji dünyasında yaratıcılığı ve özgürlüğü nasıl etkilediğini Apple'ın donanım ve yazılım politikaları üzerinden tartışıyor.",
+          "meta": "262 oy · 226 yorum",
+          "snapshot": {
+            "sourceId": "49962857",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 262,
+              "engagementCount": 226,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49962857",
+                  "popularity": 262,
+                  "engagementCount": 226
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "maguay",
+                "createdAt": "2026-10-05T10:05:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49962857"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49962857",
+              "popularity": 262,
+              "engagementCount": 226
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "HuggingFace üzerinde paylaşılan JEV-27B-VL, görsel ve metin verilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modeli. Bu model, karmaşık görüntüleri analiz edip anlamlandırarak kullanıcıların görsel içeriklerden metin tabanlı yanıtlar almasını sağlıyor.",
+          "meta": "♥ 842 · 1.525.286 indirme",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-06T11:18:01.617Z",
+            "metadata": {
+              "popularity": 842,
+              "engagementCount": 1525286,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 675,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+          "url": "https://huggingface.co/papers/2609.35751",
+          "summary": "Döngüsel transformer (looped transformer) mimarisi ile uzman karışımı (mixture-of-experts) yaklaşımını birleştiren Foil yöntemi, model parametrelerinin daha verimli kullanılmasını sağlıyor. Bu teknik, uzman katmanlarını yineleyerek sabit boyutlu modellerin işlem kapasitesini artırıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.35751",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35751",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/SR-A-W/how-to-loop-moe",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "SoK: Semantic Decision Engines in Network Control Loops",
+          "url": "https://huggingface.co/papers/2610.06425",
+          "summary": "Ağ kontrol döngülerinde kullanılan anlamsal karar motorları (semantic decision engines), zaman kısıtlamalarına uyum sağlama ve doğrulanabilir sonuçlar üretme konusunda ciddi tutarsızlıklar barındırıyor. İncelenen 139 akademik çalışma ailesi içerisinde, iddia edilen performans metriklerini ölçümlerle destekleyenlerin sayısı oldukça kısıtlı kalıyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.06425",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06425",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/SoK-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Intent Interpretation at RIC Timescales: Jev Decision Models versus Large Language Models in 6G Open RAN",
+          "url": "https://huggingface.co/papers/2609.23136",
+          "summary": "6G açık radyo erişim şebekelerinde (Open RAN) niyet tabanlı yönetim için kullanılan karar modelleri ile büyük dil modellerinin (LLM) performans karşılaştırması yapılıyor. Araştırma, büyük dil modellerinin niyetleri politika metinlerine dönüştürürken yarattığı gecikmenin, şebeke kontrol döngüsü ve radyo performansı üzerindeki etkilerini analiz ediyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.23136",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23136",
+                "publishedAt": "2026-10-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/6G-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "What Matters for Latent Reasoning with Flow Matching",
+          "url": "https://huggingface.co/papers/2610.06666",
+          "summary": "Akış eşleştirme (flow matching) yöntemiyle gizli akıl yürütme (latent reasoning), büyük dil modellerinin (LLM) düşünce süreçlerini sürekli bir uzayda gerçekleştirmesini sağlıyor. Bu yaklaşım, modelin yalnızca nihai cevabı metne dökmesini sağlarken; düşünce zincirinin (chain of thought) verimli, açıklanabilir ve çeşitlilik gösteren bir yapıda olmasını şart koşuyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.06666",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06666",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "UndoBench: Separating Task Competence from Recovery Capability in Tool-Using AI Agents",
+          "url": "https://huggingface.co/papers/2610.05622",
+          "summary": "UndoBench, araç kullanan yapay zekâ ajanlarının temel görev başarısı ile hata kurtarma yeteneklerini birbirinden ayıran yeni bir değerlendirme ölçütüdür (benchmark). Sekiz farklı kurumsal alanda 36 iş akışı ve hata senaryosu üzerinden, ajanların operasyonel hataları düzeltme becerisini ölçmeyi hedefler.",
+          "meta": "4 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.05622",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05622",
+                "publishedAt": "2026-10-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/tradertanmay/undobench",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Email Self Hosters - what are you using?",
+          "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+          "summary": "Kullanıcılar kendi e-posta sunucularını yönetmek için Maddy gibi hafif ve yapılandırılabilir posta sunucusu (mail server) yazılımlarını tercih ediyor. Bu süreçte özellikle mobil istemcilerle yaşanan bağlantı gecikmeleri ve teslimat sorunları, öz barındırma (self-hosting) yapanlar için temel teknik zorlukları oluşturuyor.",
+          "meta": "20 oy · 23 yorum",
+          "snapshot": {
+            "sourceId": "rwloew",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 23,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+                  "popularity": 20,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ask",
+                  "email"
+                ],
+                "createdAt": "2026-10-06T03:09:53.070-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+              "popularity": 20,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "Async Rust: Where does the scheduler live?",
+          "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+          "summary": "Asenkron Rust programlama dilinde, görevlerin yürütülmesini yöneten zamanlayıcı (scheduler) yapısının çalışma zamanı (runtime) içerisinde nasıl konumlandığı inceleniyor. Yazı, eş zamanlı işlemleri yürüten bu mekanizmaların teknik mimarisini ve kaynak yönetimi üzerindeki etkilerini açıklıyor.",
+          "meta": "45 oy · 13 yorum",
+          "snapshot": {
+            "sourceId": "okk4bg",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 45,
+              "engagementCount": 13,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+                  "popularity": 45,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-10-05T13:31:29.400-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+              "popularity": 45,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Gleam doesn't compile to Erlang source anymore",
+          "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+          "summary": "Gleam, artık kodlarını Erlang kaynak koduna dönüştürmek yerine doğrudan Erlang bayt koduna (Erlang bytecode) derliyor. Bu değişiklik, derleme süreçlerini hızlandırırken geliştiricilere daha performanslı bir çalışma ortamı sunuyor.",
+          "meta": "107 oy · 13 yorum",
+          "snapshot": {
+            "sourceId": "2svplr",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 107,
+              "engagementCount": 13,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
+                  "popularity": 107,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compilers",
+                  "erlang",
+                  "gleam"
+                ],
+                "createdAt": "2026-10-05T12:29:17.719-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
+              "popularity": 107,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Belirli bir işletim sistemi veya işlemci türü için özel olarak hazırlanmış, doğrudan çalışan program dosyaları."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Hazır bir ürünün nasıl çalıştığını anlamak için parçalarına ayrılıp çalışma mantığının çözülmesi."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Görüntü işleme ve karmaşık matematiksel hesaplamaları hızlandırmak için kullanılan güçlü işlemci birimi."
+    },
+    {
+      "term": "BLAS",
+      "explanation": "Bilgisayarların matris ve vektör gibi karmaşık sayısal işlemleri çok hızlı yapmasını sağlayan temel kütüphane."
+    },
+    {
+      "term": "kernels",
+      "explanation": "İşletim sisteminin donanım ile yazılım arasındaki iletişimi yöneten en temel çekirdek parçası."
+    },
+    {
+      "term": "Web Search API",
+      "explanation": "Yazılımların internette arama yapıp sonuçları otomatik olarak almasını sağlayan bağlantı aracı."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "Yapay zekâ modelinin eğitilmiş iç parametrelerinin herkesin indirip kullanabilmesi için paylaşılması."
+    }
+  ]
+}
