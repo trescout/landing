@@ -2,7 +2,7 @@
 
 PLFM RADAR est un système radar à balayage de phase open source fonctionnant à une fréquence de 10,5 GHz (bande X), doté de capacités de pilotage électronique de faisceau (electronic beam steering) et de traitement numérique du signal basé sur FPGA. Il détecte et suit les cibles aériennes et terrestres avec une grande précision sans utiliser de pièces mécaniques mobiles.
 
-- ★ 25 440
+- ★ 26 713
 - C++
 - GitHub Trending · 2026-08-18
 

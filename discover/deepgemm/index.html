@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DeepGEMM · Keşif · TreScout</title>
+<meta name="description" content="DeepSeek tarafından geliştirilen DeepGEMM, grafik işlem birimleri (GPU) üzerinde matris çarpımı işlemlerini hızlandıran açık…">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="alternate" type="text/markdown" href="/discover/deepgemm.md">
+<link rel="canonical" href="https://trescout.com/discover/deepgemm/">
+<link rel="alternate" hreflang="tr" href="https://trescout.com/discover/deepgemm/">
+<link rel="alternate" hreflang="en" href="https://trescout.com/en/discover/deepgemm/">
+<link rel="alternate" hreflang="fr" href="https://trescout.com/fr/discover/deepgemm/">
+<link rel="alternate" hreflang="pt-BR" href="https://trescout.com/pt/discover/deepgemm/">
+<link rel="alternate" hreflang="es" href="https://trescout.com/es/discover/deepgemm/">
+<link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/deepgemm/">
+<link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/deepgemm/">
+<meta property="og:title" content="DeepGEMM">
+<meta property="og:description" content="DeepSeek tarafından geliştirilen DeepGEMM, grafik işlem birimleri (GPU) üzerinde matris çarpımı işlemlerini hızlandıran açık…">
+<meta property="og:url" content="https://trescout.com/discover/deepgemm/">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:image" content="https://trescout.com/assets/discover/og/deepgemm.webp">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="DeepGEMM">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GetTreScout">
+<meta name="twitter:title" content="DeepGEMM">
+<meta name="twitter:description" content="DeepSeek tarafından geliştirilen DeepGEMM, grafik işlem birimleri (GPU) üzerinde matris çarpımı işlemlerini hızlandıran açık…">
+<meta name="twitter:image" content="https://trescout.com/assets/discover/og/deepgemm.webp">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Yapay zekâ için hızlı matris hesaplama",
+  "inLanguage": "tr",
+  "description": "DeepSeek tarafından geliştirilen DeepGEMM, grafik işlem birimleri (GPU) üzerinde matris çarpımı işlemlerini hızlandıran açık kaynaklı bir temel doğrusal cebir alt programları (BLAS) kütüphanesidir. Yazılım, yüksek performanslı hesaplama gerektiren yapay zekâ modelleri için optimize edilmiş çekirdekler (kernels) sunar.",
+  "author": {
+    "@type": "Organization",
+    "name": "TreScout",
+    "url": "https://trescout.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TreScout"
+  },
+  "image": "https://trescout.com/assets/discover/og/deepgemm.webp",
+  "url": "https://trescout.com/discover/deepgemm/",
+  "about": {
+    "@type": "SoftwareSourceCode",
+    "name": "DeepGEMM",
+    "codeRepository": "https://github.com/deepseek-ai/DeepGEMM",
+    "programmingLanguage": "Cuda"
+  }
+}
+</script>
+<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/discover.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Ana içeriğe atla</a>
+<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><details class="dil-secici"><summary class="btn btn-ghost" aria-label="Dil seçin">TR</summary><div class="dil-listesi"><a href="/en/discover/deepgemm/" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="/fr/discover/deepgemm/" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a><a href="/pt/discover/deepgemm/" class="btn btn-ghost" aria-label="Portekizceye geç">PT</a><a href="/es/discover/deepgemm/" class="btn btn-ghost" aria-label="İspanyolcaya geç">ES</a><a href="/de/discover/deepgemm/" class="btn btn-ghost" aria-label="Almancaya geç">DE</a></div></details></div></div></nav>
+<main id="main">
+<article class="disc">
+<a class="disc-back" href="/discover/">← Keşif</a>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · DeepGEMM</span><span class="disc-momentum">↑ +363 bugün</span></div>
+<h1 class="disc-title">Yapay zekâ için hızlı matris hesaplama</h1>
+<p class="disc-lead">DeepSeek tarafından geliştirilen DeepGEMM, grafik işlem birimleri (GPU) üzerinde matris çarpımı işlemlerini hızlandıran açık kaynaklı bir temel doğrusal cebir alt programları (BLAS) kütüphanesidir. Yazılım, yüksek performanslı hesaplama gerektiren yapay zekâ modelleri için optimize edilmiş çekirdekler (kernels) sunar.</p>
+<ul class="disc-meta"><li>★ 8.528</li><li>Cuda</li><li>GitHub Trending · 2026-10-06</li></ul>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>6 Ekim 2026:</strong> Yıldız 8.522 → 8.528, son sürüm v2.1.1.post3 (15 Ekim 2025).</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Matris çarpımlarını hızlandırarak büyük dil modellerinin çalışma sürelerini kısaltır.</li><li>Kurulum anında CUDA derlemesi beklemeden çekirdekleri çalışma anında otomatik derler.</li><li>Farklı uzman modellerini tek işlemde birleştirerek grafik kartı iletişim kayıplarını azaltır.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Depoyu klonlama ve geliştirme ortamını h</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code># Submodule must be cloned
+git clone --recursive git@github.com:deepseek-ai/DeepGEMM.git
+cd DeepGEMM
+
+# Link some essential includes and build the C++ extension
+cat develop.sh
+./develop.sh</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Kütüphaneyi kurma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>cat install.sh
+./install.sh</code></pre></div></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">NVIDIA SM90 veya SM100 mimarili donanımımda DeepGEMM kütüphanesini kurmak istiyorum. İlk olarak depoyu alt modülleriyle klonlayıp geliştirme ortamını hazırlamak için &#x27;# Submodule must be cloned\ngit clone --recursive git@github.com:deepseek-ai/DeepGEMM.git\ncd DeepGEMM\n\n# Link some essential includes and build the C++ extension\ncat develop.sh\n./develop.sh&#x27; komutlarını çalıştırın. Ardından kurulumu tamamlamak için &#x27;cat install.sh\n./install.sh&#x27; komutunu uygulayın ve Python ortamında &#x27;import deep_gemm&#x27; komutuyla kütüphaneyi kullanıma hazır hâle getirin.</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Büyük yapay zekâ modellerini modern NVIDIA grafik işlem birimlerinde en yüksek performansla çalıştırmak isteyen geliştiriciler ve araştırmacılar içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">MIT</span></div></div>
+      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/deepseek-ai/DeepGEMM" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
+<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/blas/">BLAS</a><a href="/dictionary/kernels/">Kernels</a><a href="/dictionary/clone/">Clone</a><a href="/dictionary/gpu/">GPU</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+      <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="deepgemm" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
+</article>
+</main>
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand-block">
+        <div class="footer-logo">
+          <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>
+          <span>TreScout</span>
+        </div>
+        <p class="footer-tagline">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Ürün</div>
+        <ul>
+          <li><a href="/#how-it-works">Nasıl Çalışır</a></li>
+          <li><a href="/discover/">Keşif</a></li>
+          <li><a href="/dictionary/">Sözlük</a></li>
+          <li><a href="/reports/">Raporlar</a></li>
+          <li><a href="/compare/rss-vs-ai/">Karşılaştır</a></li>
+          <li><a href="/#top">Erken Erişim</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">İletişim</div>
+        <ul>
+          <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
+          <li><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Sosyal medya</div>
+        <ul>
+          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
+    </div>
+  </div>
+</footer>
+<script src="/assets/discover.js" defer></script>
+<script src="/assets/subscribe.js" defer></script>
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+<script src="/assets/provider-consent.js" defer></script>
+<script src="/assets/telemetry.js" defer></script>
+</body>
+</html>

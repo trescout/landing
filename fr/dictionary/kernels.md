@@ -28,6 +28,7 @@ Oui, par exemple, le noyau Linux et le noyau Windows ont des architectures diff√
 - [System Programming Language](/fr/dictionary/system-programming-language/)
 
 ## Outils li√©s
+- [DeepGEMM](/fr/discover/deepgemm/)
 - [Tilelang](/fr/discover/tilelang/)
 - [FlashKDA](/fr/discover/flashkda/)
 

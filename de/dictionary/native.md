@@ -31,6 +31,7 @@ Sie laufen in der Regel innerhalb eines Browsers oder über eine Übersetzungssc
 - [Tinycast](/de/discover/tinycast/)
 - [Stitch Skills](/de/discover/stitch-skills/)
 - [Agent Native](/de/discover/agent-native/)
+- [REA](/de/discover/rea/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/native/

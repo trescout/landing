@@ -28,8 +28,8 @@ Es ist Standard in fast allen modernen KI-Modellen, die die Transformer-Architek
 - [NLP](/de/dictionary/nlp/)
 
 ## Verwandte Werkzeuge
-- [Minimind](/de/discover/minimind/)
 - [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
+- [Minimind](/de/discover/minimind/)
 - [FlashKDA](/de/discover/flashkda/)
 
 ---

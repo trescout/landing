@@ -2,7 +2,7 @@
 
 A TypeScript-based next-generation framework that automates end-to-end (e2e) testing processes for web and mobile applications. It enables developers to quickly verify application interfaces across different platforms.
 
-- ★ 3,786
+- ★ 5,508
 - TypeScript
 - GitHub Trending · 2026-10-05
 

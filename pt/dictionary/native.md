@@ -31,6 +31,7 @@ Eles geralmente funcionam dentro de um navegador ou através de uma camada de tr
 - [Tinycast](/pt/discover/tinycast/)
 - [Stitch Skills](/pt/discover/stitch-skills/)
 - [Agent Native](/pt/discover/agent-native/)
+- [REA](/pt/discover/rea/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/native/

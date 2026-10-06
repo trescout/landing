@@ -2,7 +2,7 @@
 
 NomaDamas/k-skill es una biblioteca diseñada para proporcionar a los agentes de IA habilidades locales en un contexto cultural. Ofrece conjuntos de habilidades personalizadas que permiten a los agentes interactuar con los usuarios de forma más natural y de acuerdo con códigos culturales.
 
-- ★ 6.780
+- ★ 7.793
 - JavaScript
 - GitHub Trending · 2026-08-02
 

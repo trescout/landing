@@ -2,11 +2,12 @@
 
 PLFM RADAR, 10.5 GHz (X-bandı) frekansında çalışan, elektronik huzme yönlendirme (electronic beam steering) ve FPGA tabanlı sayısal sinyal işleme yeteneklerine sahip açık kaynaklı bir faz dizili radar sistemidir. Mekanik hareketli parça kullanmaksızın hava ve yer hedeflerini yüksek hassasiyetle tespit edip izler.
 
-- ★ 25.440
+- ★ 26.713
 - C++
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 25.440 → 26.713, son sürüm v2.0.2-p0-audit (20 Nisan 2026).
 - 27 Eylül 2026: Yıldız 24.168 → 25.440, son sürüm v2.0.2-p0-audit (20 Nisan 2026).
 - 18 Ağustos 2026: Yıldız 24.163 → 24.168, son sürüm v2.0.2-p0-audit (20 Nisan 2026).
 

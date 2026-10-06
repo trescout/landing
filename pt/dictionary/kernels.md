@@ -28,6 +28,7 @@ Sim, por exemplo, o kernel do Linux e o kernel do Windows possuem arquiteturas d
 - [System Programming Language](/pt/dictionary/system-programming-language/)
 
 ## Ferramentas relacionadas
+- [DeepGEMM](/pt/discover/deepgemm/)
 - [Tilelang](/pt/discover/tilelang/)
 - [FlashKDA](/pt/discover/flashkda/)
 

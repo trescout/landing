@@ -2,7 +2,7 @@
 
 PLFM RADAR es un sistema de radar de matriz en fase de código abierto que funciona a 10,5 GHz (banda X) con dirección electrónica del haz y capacidades de procesamiento de señales digitales basadas en FPGA. Detecta y rastrea objetivos aéreos y terrestres con alta precisión sin utilizar piezas mecánicas móviles.
 
-- ★ 25.440
+- ★ 26.713
 - C++
 - GitHub Trending · 2026-08-18
 

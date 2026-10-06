@@ -2,16 +2,16 @@
 
 Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme aracı (build tool) sunuyor. Yerel ES modüllerini kullanarak geliştirme sürecindeki bekleme sürelerini azaltan bir ön yüz araç seti (frontend tooling) işlevi görüyor.
 
-- ★ 83.091
+- ★ 83.213
 - GitHub Trending · 2026-06-07
 
 TreScout notu: Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 83.091 → 83.213, son sürüm v8.3.3 (6 Ekim 2026).
 - 1 Ekim 2026: Yıldız 83.027 → 83.091, son sürüm v8.3.2 (1 Ekim 2026).
 - 27 Eylül 2026: Yıldız 82.787 → 83.027, son sürüm v8.3.1 (24 Eylül 2026).
 - 11 Eylül 2026: Yıldız 82.502 → 82.787, son sürüm create-vite@9.2.1 (10 Eylül 2026).
-- 24 Ağustos 2026: Yıldız 82.419 → 82.502, son sürüm create-vite@9.2.0 (24 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yerel ES modülleri sayesinde anında sunucu başlatma

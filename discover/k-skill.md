@@ -2,9 +2,12 @@
 
 NomaDamas/k-skill, yapay zekâ ajanlarına (AI agents) kültürel bağlamda yerel yetenekler kazandırmak için tasarlanmış bir kütüphane. Ajanların kullanıcılarla daha doğal ve kültürel kodlara uygun etkileşim kurmasını sağlayan özelleştirilmiş beceri setleri (skill sets) sunuyor.
 
-- ★ 6.780
+- ★ 7.793
 - JavaScript
 - GitHub Trending · 2026-08-02
+
+## Güncelleme
+- 6 Ekim 2026: Yıldız 6.780 → 7.793.
 
 ## Ne kazandırır?
 - Yapay zekâ ajanlarının Türkiye'ye özgü yerel hizmetleri kullanmasını sağlar

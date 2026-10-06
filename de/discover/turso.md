@@ -2,7 +2,7 @@
 
 Turso bietet eine In-Process-SQL-Datenbank, die mit SQLite kompatibel ist. Dieses in der Rust-Sprache entwickelte System vereinfacht Datenverwaltungsprozesse durch die Integration in Anwendungsprozesse.
 
-- ★ 24.445
+- ★ 24.649
 - Rust
 - GitHub Trending · 2026-06-21
 

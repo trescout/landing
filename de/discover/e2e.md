@@ -2,7 +2,7 @@
 
 Ein auf TypeScript basierendes Framework der nächsten Generation, das End-to-End-Testprozesse für Web- und mobile Anwendungen automatisiert. Es ermöglicht Entwicklern, Benutzeroberflächen von Anwendungen auf verschiedenen Plattformen schnell zu verifizieren.
 
-- ★ 3.786
+- ★ 5.508
 - TypeScript
 - GitHub Trending · 2026-10-05
 

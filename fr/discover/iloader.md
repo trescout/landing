@@ -2,7 +2,7 @@
 
 Développé avec TypeScript, iloader est un sideloader convivial qui facilite le processus d'installation d'applications sur les appareils iOS. Il simplifie l'installation d'applications en dehors de la boutique officielle d'Apple, améliorant ainsi l'expérience des développeurs et des utilisateurs.
 
-- ★ 3 710
+- ★ 3 738
 - TypeScript
 - GitHub Trending · 2026-09-12
 

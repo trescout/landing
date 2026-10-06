@@ -2,7 +2,7 @@
 
 PLFM RADAR is an open-source phased array radar system operating at a 10.5 GHz (X-band) frequency, featuring electronic beam steering and FPGA-based digital signal processing capabilities. It detects and tracks air and ground targets with high precision without using any mechanically moving parts.
 
-- ★ 25,440
+- ★ 26,713
 - C++
 - GitHub Trending · 2026-08-18
 

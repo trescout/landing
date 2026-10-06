@@ -2,15 +2,15 @@
 
 Pi, büyük dil modelleri (large language models) için birleşik bir arayüz sunan ve yazılım geliştirme süreçlerini otomatikleştiren bir yapay zekâ ajanı araç setidir. Terminal tabanlı kullanıcı arayüzü (TUI) ve komut satırı aracı (CLI) üzerinden ajan döngülerini yöneterek kodlama görevlerini kolaylaştırır.
 
-- ★ 112.575
+- ★ 112.852
 - TypeScript
 - GitHub Trending · 2026-09-16
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 112.575 → 112.852, son sürüm v1.0.4 (5 Ekim 2026).
 - 5 Ekim 2026: Yıldız 112.309 → 112.575, son sürüm v1.0.3 (5 Ekim 2026).
 - 4 Ekim 2026: Yıldız 111.516 → 112.309, son sürüm v1.0.2 (4 Ekim 2026).
 - 2 Ekim 2026: Yıldız 110.810 → 111.516, son sürüm v1.0.0 (1 Ekim 2026).
-- 1 Ekim 2026: Yıldız 110.384 → 110.810, son sürüm v0.99.2 (30 Eylül 2026).
 
 ## Ne kazandırır?
 - Etkileşimli komut satırı arayüzü ile kodlama görevlerini yönetir.

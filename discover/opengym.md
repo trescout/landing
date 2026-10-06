@@ -2,11 +2,12 @@
 
 OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu yönetim aracıdır. Kullanıcıların verilerini kendi sunucularında barındırmalarına olanak tanıyan bu yazılım, popüler fitness uygulamalarından (Strong, Hevy) veri aktarımını destekler.
 
-- ★ 3.424
+- ★ 4.847
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 3.424 → 4.847, son sürüm v1.3.9 (28 Eylül 2026).
 - 5 Ekim 2026: Yıldız 3.409 → 3.424, son sürüm v1.3.9 (28 Eylül 2026).
 
 ## Ne kazandırır?

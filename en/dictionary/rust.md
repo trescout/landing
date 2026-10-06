@@ -31,8 +31,8 @@ Because it is very fast and significantly reduces software errors.
 - [Deno](/en/discover/deno/)
 - [BUN](/en/discover/bun/)
 - [OpenCut](/en/discover/opencut/)
-- [Openinterpreter](/en/discover/openinterpreter/)
 - [Vaultwarden](/en/discover/vaultwarden/)
+- [Openinterpreter](/en/discover/openinterpreter/)
 - [Ladybird](/en/discover/ladybird/)
 
 ---

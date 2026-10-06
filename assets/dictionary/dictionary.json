@@ -8942,5 +8942,57 @@
     "kisa_pt": "Programas que o computador pode executar diretamente, geralmente conhecidos como arquivos de instalação ou de aplicativo.",
     "kisa_es": "Programas que la computadora puede ejecutar directamente, conocidos comúnmente como archivos de instalación o de aplicación.",
     "kisa_de": "Programme, die der Computer direkt ausführen kann und die allgemein als Installations- oder Anwendungsdateien bekannt sind."
+  },
+  {
+    "slug": "native-binaries",
+    "en": "Native Binaries",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Belirli bir işletim sistemi ve işlemci mimarisi için doğrudan çalıştırılabilir şekilde derlenmiş program dosyalarıdır.",
+    "date": "2026-10-06",
+    "kisa_en": "Program files compiled to be directly executable for a specific operating system and processor architecture.",
+    "kisa_fr": "Ce sont des fichiers de programme compilés de manière à être directement exécutables pour un système d'exploitation et une architecture de processeur spécifiques.",
+    "kisa_pt": "São arquivos de programa compilados para serem executados diretamente em um sistema operacional e arquitetura de processador específicos.",
+    "kisa_es": "Son archivos de programa compilados para ser directamente ejecutables en un sistema operativo y una arquitectura de procesador específicos.",
+    "kisa_de": "Es sind Programmdateien, die so kompiliert wurden, dass sie direkt für ein bestimmtes Betriebssystem und eine bestimmte Prozessorarchitektur ausführbar sind."
+  },
+  {
+    "slug": "reverse-engineering",
+    "en": "Reverse Engineering",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bitmiş bir ürünün, sistemin veya yazılımın nasıl çalıştığını anlamak için onu parçalarına ayırarak çalışma prensiplerini çözme sürecidir.",
+    "date": "2026-10-06",
+    "kisa_en": "The process of deciphering the operating principles of a finished product, system, or software by taking it apart to understand how it works.",
+    "kisa_fr": "C'est le processus consistant à décomposer un produit, un système ou un logiciel fini pour comprendre son fonctionnement et en élucider les principes de fonctionnement.",
+    "kisa_pt": "É o processo de desmontar um produto, sistema ou software acabado para entender como ele funciona e desvendar seus princípios de funcionamento.",
+    "kisa_es": "Es el proceso de descomponer un producto, sistema o software terminado para comprender cómo funciona, descifrando sus principios de funcionamiento al analizar sus partes.",
+    "kisa_de": "Es ist der Prozess, ein fertiges Produkt, ein System oder eine Software in seine Einzelteile zu zerlegen, um dessen Funktionsweise zu verstehen und seine Arbeitsprinzipien zu entschlüsseln."
+  },
+  {
+    "slug": "blas",
+    "en": "BLAS",
+    "full": "Basic Linear Algebra Subprograms",
+    "cat": "dev",
+    "kisa": "Bilgisayarların matris ve vektör gibi temel doğrusal cebir işlemlerini en yüksek hızda yapmasını sağlayan standart kütüphane kurallarıdır.",
+    "date": "2026-10-06",
+    "kisa_en": "Standard library specifications that enable computers to perform fundamental linear algebra operations, such as matrices and vectors, at maximum speed.",
+    "kisa_fr": "Ce sont des règles de bibliothèque standard qui permettent aux ordinateurs d'effectuer des opérations d'algèbre linéaire de base, telles que les matrices et les vecteurs, à la vitesse maximale.",
+    "kisa_pt": "São padrões de biblioteca que permitem aos computadores realizar operações básicas de álgebra linear, como matrizes e vetores, na máxima velocidade.",
+    "kisa_es": "Son reglas de biblioteca estándar que permiten a las computadoras realizar operaciones básicas de álgebra lineal, como matrices y vectores, a la máxima velocidad.",
+    "kisa_de": "Es sind Standard-Bibliotheksspezifikationen, die es Computern ermöglichen, grundlegende lineare Algebra-Operationen wie Matrix- und Vektoroperationen mit maximaler Geschwindigkeit auszuführen."
+  },
+  {
+    "slug": "web-search-api",
+    "en": "Web Search API",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımların ve yapay zekâ ajanlarının internet üzerinde arama yapıp güncel sonuçları düzenli bir veri olarak almasını sağlayan köprüdür.",
+    "date": "2026-10-06",
+    "kisa_en": "A bridge that enables software and AI agents to search the internet and receive up-to-date results as structured data.",
+    "kisa_fr": "C'est la passerelle qui permet aux logiciels et aux agents d'intelligence artificielle d'effectuer des recherches sur Internet et d'obtenir des résultats actualisés sous forme de données structurées.",
+    "kisa_pt": "É a ponte que permite que softwares e agentes de inteligência artificial pesquisem na internet e recebam resultados atualizados como dados estruturados.",
+    "kisa_es": "Es el puente que permite al software y a los agentes de inteligencia artificial realizar búsquedas en internet y obtener resultados actualizados como datos estructurados.",
+    "kisa_de": "Es ist die Brücke, die es Software und KI-Agenten ermöglicht, im Internet zu suchen und aktuelle Ergebnisse als strukturierte Daten zu erhalten."
   }
 ]
