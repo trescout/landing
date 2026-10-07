@@ -41,6 +41,7 @@ No. Una lista en papel también es un flujo. Cuando el volumen aumenta, se requi
 - [MinerU](/es/discover/mineru/)
 - [Trivy](/es/discover/trivy/)
 - [Modly](/es/discover/modly/)
+- [Pstack Claude](/es/discover/pstack-claude/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/workflows/

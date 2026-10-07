@@ -41,6 +41,7 @@ Não. Uma lista em papel também é um fluxo. Quando o volume aumenta, a ferrame
 - [MinerU](/pt/discover/mineru/)
 - [Trivy](/pt/discover/trivy/)
 - [Modly](/pt/discover/modly/)
+- [Pstack Claude](/pt/discover/pstack-claude/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/workflows/

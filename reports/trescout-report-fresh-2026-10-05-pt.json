@@ -1,0 +1,589 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-05",
+  "capturedAt": "2026-10-05T11:30:07.709Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "summary": "Um framework de nova geração baseado em TypeScript que automatiza processos de teste de ponta a ponta (end-to-end testing) para aplicações web e móveis. Ele permite que os desenvolvedores validem rapidamente as interfaces de aplicativos em diferentes plataformas.",
+          "meta": "TypeScript · ★ 3.771 · +345 hoje",
+          "snapshot": {
+            "sourceId": "tester-army/e2e",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3771,
+              "engagementCount": 345,
+              "rank": 1,
+              "extra": {
+                "starsToday": 345
+              }
+            }
+          }
+        },
+        {
+          "title": "michael-denyer/pstack-claude",
+          "url": "https://github.com/michael-denyer/pstack-claude",
+          "summary": "Pstack-claude é uma biblioteca de automação que adapta as funções principais da ferramenta de desenvolvimento de software Cursor para diferentes modelos e plataformas de IA. Ela permite que os desenvolvedores executem fluxos de trabalho de agentes complexos (agentic workflows) de forma padronizada em vários ambientes de trabalho.",
+          "meta": "JavaScript · ★ 1.289 · +232 hoje",
+          "snapshot": {
+            "sourceId": "michael-denyer/pstack-claude",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 1289,
+              "engagementCount": 232,
+              "rank": 3,
+              "extra": {
+                "starsToday": 232
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 é uma ferramenta que converte automaticamente arquivos de jogos de PlayStation 5 para que possam ser executados em sistemas Linux e Windows. Desenvolvido na linguagem C++, este software permite a portabilidade de executáveis específicos de console para diferentes plataformas.",
+          "meta": "C++ · ★ 4.377 · +994 hoje",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 4377,
+              "engagementCount": 994,
+              "rank": 6,
+              "extra": {
+                "starsToday": 994
+              }
+            }
+          }
+        },
+        {
+          "title": "caddyserver/caddy",
+          "url": "https://github.com/caddyserver/caddy",
+          "summary": "Caddy é um servidor web extensível escrito na linguagem Go que oferece gerenciamento automático de certificados HTTPS. Ele simplifica a configuração e a segurança de sites ao suportar os protocolos HTTP/1, HTTP/2 e HTTP/3.",
+          "meta": "Go · ★ 76.782 · +24 hoje",
+          "snapshot": {
+            "sourceId": "caddyserver/caddy",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 76782,
+              "engagementCount": 24,
+              "rank": 9,
+              "extra": {
+                "starsToday": 24
+              }
+            }
+          }
+        },
+        {
+          "title": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "summary": "OpenGym é uma ferramenta de gerenciamento de academia de código aberto usada para planejar rotinas de treino e acompanhar exercícios de peso corporal. Este software, que permite aos usuários hospedar seus dados em seus próprios servidores, suporta a importação de dados de aplicativos de fitness populares (Strong, Hevy).",
+          "meta": "JavaScript · ★ 3.409 · +570 hoje",
+          "snapshot": {
+            "sourceId": "DuarteSantos8/openGym",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 3409,
+              "engagementCount": 570,
+              "rank": 10,
+              "extra": {
+                "starsToday": 570
+              }
+            }
+          }
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents é uma biblioteca de automação que reúne agentes de inteligência artificial com diferentes áreas de especialização sob o mesmo teto. Assumindo tarefas variadas como desenvolvimento de software, criação de conteúdo e análise de dados, esses agentes especializados oferecem processos e personalidades personalizados para gerenciar fluxos de trabalho complexos.",
+          "meta": "Shell · ★ 156.926 · +595 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "msitarzewski/agency-agents",
+            "capturedAt": "2026-10-05T11:30:08.006Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 156926,
+              "engagementCount": 595,
+              "rank": 13,
+              "extra": {
+                "starsToday": 595
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+          "url": "https://github.com/Niko1221/Strata",
+          "summary": "Strata é um motor de inferência que permite executar grandes modelos de linguagem (large language models) de alto parâmetro em placas de vídeo de nível consumidor (RTX 4090) com alta velocidade. Ele permite que modelos gigantescos, como o Qwen 3.8 Flash Next, sejam usados de forma eficiente, apesar das limitações de hardware.",
+          "meta": "821 pontos · 363 comentários",
+          "snapshot": {
+            "sourceId": "49953495",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 821,
+              "engagementCount": 363,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49953495",
+                  "popularity": 821,
+                  "engagementCount": 363
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "snehesht",
+                "createdAt": "2026-10-04T12:51:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49953495"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49953495",
+              "popularity": 821,
+              "engagementCount": 363
+            }
+          ]
+        },
+        {
+          "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "summary": "RemoveMacAI permite que você remova do sistema o pacote de recursos de inteligência artificial (Apple Intelligence) que a Apple integrou ao sistema operacional macOS. Esta ferramenta permite liberar espaço de armazenamento no seu dispositivo ao excluir os arquivos de IA em questão.",
+          "meta": "608 pontos · 414 comentários",
+          "snapshot": {
+            "sourceId": "49957116",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 608,
+              "engagementCount": 414,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49957116",
+                  "popularity": 608,
+                  "engagementCount": 414
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "privacyisntdead",
+                "createdAt": "2026-10-04T19:42:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49957116"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49957116",
+              "popularity": 608,
+              "engagementCount": 414
+            }
+          ]
+        },
+        {
+          "title": "Improper redaction reveals Google Data Center water and electricity usage",
+          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+          "summary": "Um processo de redação incorreto em documentos sobre o uso de água e eletricidade no data center Lincoln do Google resultou na exposição de dados operacionais que deveriam ser mantidos em sigilo. Esta situação revela vulnerabilidades nos processos de transparência das empresas de tecnologia em relação ao consumo de recursos ambientais.",
+          "meta": "405 pontos · 538 comentários",
+          "snapshot": {
+            "sourceId": "49957068",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 405,
+              "engagementCount": 538,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49957068",
+                  "popularity": 405,
+                  "engagementCount": 538
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "sensanaty",
+                "createdAt": "2026-10-04T19:37:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49957068"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49957068",
+              "popularity": 405,
+              "engagementCount": 538
+            }
+          ]
+        },
+        {
+          "title": "What is going on with ceiling fans",
+          "url": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+          "summary": "O fato de os ventiladores de teto se afastarem da estética em designs modernos, assumindo formas complexas e disfuncionais, chama a atenção dos críticos de arquitetura. Esses dispositivos deixam de ser uma ferramenta simples de circulação de ar e se tornam uma fonte de ruído visual na decoração da casa.",
+          "meta": "325 pontos · 278 comentários",
+          "snapshot": {
+            "sourceId": "49917536",
+            "capturedAt": "2026-10-05T11:30:08.607Z",
+            "metadata": {
+              "popularity": 325,
+              "engagementCount": 278,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49917536",
+                  "popularity": 325,
+                  "engagementCount": 278
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "colinprince",
+                "createdAt": "2026-10-01T03:52:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49917536"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49917536",
+              "popularity": 325,
+              "engagementCount": 278
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, desenvolvido pela empresa alemã de inteligência artificial Aleph-Alpha, é um novo modelo de linguagem focado na geração de texto (text generation). O modelo se destaca por suas capacidades linguísticas otimizadas, especialmente para línguas europeias, e por sua arquitetura de operação eficiente.",
+          "meta": "♥ 512 · 2.453 downloads",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-05T11:30:07.841Z",
+            "metadata": {
+              "popularity": 512,
+              "engagementCount": 2453,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 498,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Multilingual GSM-Symbolic: What determines capability transfer across languages?",
+          "url": "https://huggingface.co/papers/2610.03367",
+          "summary": "O Multilingual GSM-Symbolic apresenta uma nova estrutura de avaliação que examina como as capacidades adquiridas por grandes modelos de linguagem (large language models) em um idioma são transferidas para outros. Este estudo visa eliminar a necessidade de testar todos os pares de idiomas individualmente, identificando as restrições de desempenho em idiomas de poucos recursos.",
+          "meta": "4 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.03367",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.03367",
+                "publishedAt": "2026-10-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/centre-for-humanities-computing/multilingual-gsm-symbolic"
+              }
+            }
+          }
+        },
+        {
+          "title": "Collective Bias Mitigation via Model Routing and Collaboration",
+          "url": "https://huggingface.co/papers/2610.03240",
+          "summary": "O método de orientação e colaboração de modelos, desenvolvido para reduzir preconceitos em grandes modelos de linguagem (LLM), visa superar a insuficiência de autoverificação de um único modelo. Ele busca limpar preconceitos nos dados de treinamento de forma mais eficaz, permitindo o trabalho coletivo de diferentes modelos.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.03240",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.03240",
+                "publishedAt": "2026-10-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Rethinking Token Reweighting for SFT: Suppress, Reverse, and Extrapolate Learned Features",
+          "url": "https://huggingface.co/papers/2609.33463",
+          "summary": "No processo de ajuste fino supervisionado (supervised fine-tuning), os tokens aos quais o modelo atribui baixa probabilidade podem desempenhar um papel dominante no aprendizado, causando a corrupção das informações existentes. Os pesquisadores, afirmando que os métodos atuais de ponderação de tokens não conseguem reverter características errôneas, propõem uma nova abordagem de perda baseada em políticas para evitar o aprendizado prejudicial.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.33463",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.33463",
+                "publishedAt": "2026-09-27T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "World Action Modeling with Progressive Visual Planning",
+          "url": "https://huggingface.co/papers/2610.02508",
+          "summary": "ProWAM é um método de planejamento visual progressivo (progressive visual planning) desenvolvido para atingir objetivos de longo prazo em processos de controle robótico. Ele visa resolver a ineficiência na geração de vídeo enfrentada pelos modelos de ação mundial (world action models) atuais, prevendo gradualmente os quadros futuros.",
+          "meta": "27 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.02508",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.02508",
+                "publishedAt": "2026-10-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "LVMT: Video Mask Transformer for Long-term Video Segmentation",
+          "url": "https://huggingface.co/papers/2609.34895",
+          "summary": "LVMT é um novo método que melhora o rastreamento de objetos em processos de segmentação de vídeo (video segmentation) de longa duração. Ele processa informações de objetos de forma mais eficiente em vídeos complexos, utilizando um mecanismo de propagação temporal baseado em GRU de estrutura leve.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.34895",
+            "capturedAt": "2026-10-05T11:30:07.856Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.34895",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/tue-mps/lvmt",
+                "githubStars": 9
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "ncdu: NCurses Disk Usage (an updated fork)",
+          "url": "https://github.com/rcalixte/ncdu",
+          "summary": "ncdu é uma ferramenta de análise de uso de disco (disk usage analyzer) que analisa o uso do disco via terminal e lista os tamanhos dos diretórios com uma interface gráfica. Este fork atualizado torna os recursos de varredura rápida e navegação interativa oferecidos pelo software original compatíveis com sistemas modernos.",
+          "meta": "34 pontos · 13 comentários",
+          "snapshot": {
+            "sourceId": "dsoh2w",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 34,
+              "engagementCount": 13,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork",
+                  "popularity": 34,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "release",
+                  "zig"
+                ],
+                "createdAt": "2026-10-04T14:30:36.027-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork",
+              "popularity": 34,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Claude Says",
+          "url": "https://ohhfishal.net/Posts/claude",
+          "summary": "Claude Says é um método que analisa as respostas do modelo de inteligência artificial Claude (Claude) para examinar como o modelo reage a uma pergunta ou comando específico. Esta abordagem visa tornar os processos de raciocínio e os possíveis preconceitos dos grandes modelos de linguagem (large language models) mais compreensíveis.",
+          "meta": "18 pontos · 5 comentários",
+          "snapshot": {
+            "sourceId": "7faqgg",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7faqgg/claude_says",
+                  "popularity": 18,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-10-04T23:48:18.022-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7faqgg/claude_says",
+              "popularity": 18,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Flirt is now Open-Source",
+          "url": "https://blog.buenzli.dev/flirt-is-open-source/",
+          "summary": "Flirt é um gerenciador de arquivos baseado em terminal, desenvolvido para interfaces de texto e agora disponível como código aberto. Ele permite que os usuários naveguem rapidamente pelo sistema de arquivos e realizem operações usando atalhos de teclado.",
+          "meta": "8 pontos · 2 comentários",
+          "snapshot": {
+            "sourceId": "9iztqv",
+            "capturedAt": "2026-10-05T11:30:08.080Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/9iztqv/flirt_is_now_open_source",
+                  "popularity": 8,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vcs"
+                ],
+                "createdAt": "2026-10-05T04:34:42.913-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9iztqv/flirt_is_now_open_source",
+              "popularity": 8,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "end-to-end testing",
+      "explanation": "Um processo de teste abrangente que verifica se todas as partes de um software, do início ao fim, funcionam de forma compatível entre si."
+    },
+    {
+      "term": "framework",
+      "explanation": "Uma estrutura base que oferece um conjunto de ferramentas prontas e regras que facilitam o trabalho durante o desenvolvimento de software."
+    },
+    {
+      "term": "agentic workflows",
+      "explanation": "O processo em que uma inteligência artificial planeja uma tarefa complexa por conta própria e a conclui dividindo-a em etapas."
+    },
+    {
+      "term": "CAD",
+      "explanation": "Sistema que permite a engenheiros e arquitetos realizar desenhos técnicos e projetos tridimensionais usando o computador."
+    },
+    {
+      "term": "executables",
+      "explanation": "Programas que o computador pode executar diretamente, geralmente conhecidos como arquivos de instalação ou de aplicação."
+    },
+    {
+      "term": "agentic",
+      "explanation": "A capacidade da inteligência artificial não apenas de responder, mas de tomar suas próprias decisões e agir em direção a um objetivo definido."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "RTX 4090",
+      "explanation": "Uma das placas de vídeo mais poderosas da atualidade, que oferece altíssimo desempenho em jogos e processamentos de inteligência artificial."
+    },
+    {
+      "term": "inference",
+      "explanation": "A fase em que uma inteligência artificial treinada usa as informações aprendidas para gerar uma resposta a uma nova pergunta."
+    },
+    {
+      "term": "Apple Intelligence",
+      "explanation": "Sistema de inteligência artificial integrado aos dispositivos Apple que facilita tarefas como redação de textos e edição de imagens, protegendo dados pessoais."
+    },
+    {
+      "term": "redaction",
+      "explanation": "O processo de ocultar ou apagar informações confidenciais ou privadas em um documento para que não sejam lidas."
+    }
+  ]
+}

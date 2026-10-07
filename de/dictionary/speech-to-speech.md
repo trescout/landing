@@ -1,31 +1,36 @@
 # Was ist Speech-to-Speech?
 
-Eine Technologie, die Spracheingaben direkt in Sprachausgabe umwandelt, ohne dass Text erforderlich ist.
+Speech-to-Speech (S2S / KI-gestützte Sprache-zu-Sprache) ist eine End-to-End-Deep-Learning-Technologie, die Schallwellen direkt von der Quelle zum Ziel analysiert, ohne sie in eine Zwischendisposition aus Text umzuwandeln, und dabei ein neues Audiosignal erzeugt.
 
-## Definition
-Speech-to-Speech ist die direkte Umwandlung eines Lautes in einer Sprache in einen Laut in einer anderen Sprache oder in einen anderen Ton in derselben Sprache. Während bei herkömmlichen Methoden die Stimme zunächst in Text, dann in eine andere Sprache und anschließend wieder in Sprache übersetzt wird, erfolgt dieser Vorgang bei dieser Technologie in einem einzigen Schritt. Auf diese Weise bleiben Emotion und Intonation des Sprechers besser erhalten.
+## Von der traditionellen Kaskadenarchitektur zur End-to-End-Architektur
+Traditionelle Sprachübersetzungs- und Dialogsysteme bestanden aus drei unabhängigen Phasen, die als „Kaskade“ (Cascade) bezeichnet werden:
 
-## So funktioniert es
-Das System analysiert die Schallwellen des Sprechers und nutzt Modelle der künstlichen Intelligenz, die den Inhalt direkt in Schallwellen in der Zielsprache umwandeln, ohne ihn in Text zu transkribieren.
+## Technische Infrastruktur: Audiotokenisierung und kontinuierlicher latenter Raum
+Die grundlegenden工程schritte (Engineering-Schritte) hinter Speech-to-Speech-Systemen sind folgende:
 
-## Wo es eingesetzt wird
-Es wird in Echtzeit-Übersetzungsgeräten, fortschrittlichen Sprachassistenten und Synchronisationstechnologien verwendet.
-
-## Häufig verwechselt mit
-Nicht zu verwechseln mit Speech-to-Text; Dabei ist der Text keine Zwischenstufe.
+## Anwendungsbereiche und Blick in die Zukunft
 
 ## Häufige Fragen
-**Warum wird es gemacht, ohne es in Text zu übersetzen?**
-Das Überspringen der Textphase erleichtert es, den emotionalen Ton und das Tempo des Gesprächs beizubehalten.
+**Was bedeutet Speech-to-Speech und wie funktioniert es?**
+Speech-to-Speech (Scheide von Sprache zu Sprache) ist ein End-to-End-KI-Modell, das die Notwendigkeit der Umwandlung von Sprache in Text überflüssig macht, indem es Schallwellen direkt analysiert und wieder als Ton ausgibt.
 
-**Funktioniert es in allen Sprachen?**
-Mit der Weiterentwicklung der Technologie nimmt die Sprachunterstützung zu, bietet jedoch die beste Leistung in den Sprachen, in denen das Modell trainiert wird.
+**Was ist der Unterschied zur herkömmlichen STT-TTS-Kaskade?**
+Kaskadensysteme wandeln Sprache zuerst in Text und dann wieder in Sprache um; dies führt zu sekundenlangen Verzögerungen sowie zum Verlust von Emotionen und Betonungen. S2S hingegen arbeitet mit einer sofortigen Verzögerung von 200-300 ms und bewahrt den Stimmcharakter des Sprechers.
+
+**Kann man im S2S-System während des Sprechens unterbrechen (Interruption)?**
+Ja; dank des Vollduplex-Audio-Streamings (Full-Duplex) kann das Modell die Sprachgenerierung sofort stoppen und in den Zuhörmodus wechseln, wenn der Benutzer unterbricht.
+
+**Welche Sicherheitsrisiken gibt es bei der Sprach-zu-Sprach-Übersetzung?**
+Realistische Stimmklonungstechnologie birgt das Risiko von Identitätsdiebstahl und Betrug. Aus diesem Grund werden in modernen S2S-Systemen kryptografische Wasserzeichen (Audio Watermarking), die für das menschliche Ohr nicht hörbar sind, in die synthetisierte Stimme eingebettet.
 
 
 ## Verwandte Begriffe
+- [STT](/de/dictionary/stt/)
 - [Speech-to-Text](/de/dictionary/speech-to-text/)
-- [Voice Synthesis](/de/dictionary/voice-synthesis/)
-- [AI Models](/de/dictionary/ai-models/)
+- [Voice Cloning](/de/dictionary/voice-cloning/)
+- [Whisper](/de/dictionary/whisper/)
+- [Tokenizer](/de/dictionary/tokenizer/)
+- [Apple Silicon](/de/dictionary/apple-silicon/)
 
 ## Verwandte Werkzeuge
 - [Speech to Speech](/de/discover/speech-to-speech/)

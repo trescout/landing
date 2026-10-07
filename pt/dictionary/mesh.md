@@ -37,9 +37,9 @@ Os kits mesh residenciais geralmente são configurados em minutos com um aplicat
 - [Bitchat](/pt/discover/bitchat/)
 - [Meshery](/pt/discover/meshery/)
 - [Meshoptimizer](/pt/discover/meshoptimizer/)
+- [Modly](/pt/discover/modly/)
 - [Tailcat](/pt/discover/tailcat/)
 - [Bitchat Android](/pt/discover/bitchat-android/)
-- [Modly](/pt/discover/modly/)
 - [Spirula Studio](/pt/discover/spirula-studio/)
 
 ---

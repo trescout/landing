@@ -2,15 +2,15 @@
 
 Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir sürekli entegrasyon (continuous integration) ve sürekli dağıtım (continuous delivery) sunucusudur. Java tabanlı bu platform, yazılım projelerinin derleme, test ve dağıtım aşamalarını yönetmek için geniş bir eklenti ekosistemi sunar.
 
-- ★ 26.603
+- ★ 26.620
 - Java
 - GitHub Trending · 2026-07-27
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 26.603 → 26.620, son sürüm jenkins-2.585 (6 Ekim 2026).
 - 29 Eylül 2026: Yıldız 26.590 → 26.603, son sürüm jenkins-2.584 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 26.531 → 26.590, son sürüm jenkins-2.583 (22 Eylül 2026).
 - 9 Eylül 2026: Yıldız 26.526 → 26.531, son sürüm jenkins-2.581 (8 Eylül 2026).
-- 3 Eylül 2026: Yıldız 26.504 → 26.526, son sürüm jenkins-2.568.3 (2 Eylül 2026).
 
 ## Ne kazandırır?
 - Yazılım projelerinin derleme ve test süreçlerini otomatikleştirir

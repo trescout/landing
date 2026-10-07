@@ -1,53 +1,37 @@
-# Was ist AWS?
+# Was ist Amazon Web Services?
 
 > Amazon Web Services
 
-**Kategorie:** Dev  
-**Letzte Aktualisierung:** 2026-09-22
-
-AWS (Amazon Web Services) ist die führende Cloud-Computing-Plattform von Amazon, die Rechenleistung, Datenbanken, Speicherplatz und skalierbare IT-Infrastruktur bedarfsgerecht über das Internet bereitstellt.
+AWS (Amazon Web Services) ist eine Cloud-Plattform, auf der Sie IT-Dienste wie Server, Speicher und Datenbanken aus dem Internet mieten.
 
 ## Definition und Wortherkunft
-Anstatt kapitalintensive eigene Rechenzentren aufzubauen, mieten Unternehmen flexible Serverkapazitäten in den weltweiten Rechenzentren von Amazon. Die Leistung wächst bei Besucheranstürmen dynamisch mit und schrumpft bei geringer Last, abgerechnet nach tatsächlichem Verbrauch.
+Anstatt einen eigenen physischen Server zu bauen, mieten Sie Amazon-Rechenzentren. Wenn der Bedarf steigt, erhöht sich die Kapazität, und wenn der Auftrag abgeschlossen ist, verringert sie sich. Es funktioniert mit dem Zahlungsmodell, das mit der Nutzung steigt. Fast alle modernen Anwendungen verfügen über eine solche Cloud-Infrastruktur im Hintergrund.
 
-## Alltägliche Anwendung und Praxis
-- **Webplattformen:** Automatisch skalierende Servercluster bei unvorhersehbaren Zugriffswellen.
-- **Archivierung & Backups:** Hochverfügbarer Objektspeicher für geschäftskritische Unternehmensdaten.
-- **Medien-Streaming:** Edge-Netzwerke für latenzfreie weltweite Auslieferung von Videoinhalten.
-- **Startups:** Sofortiger Start marktfähiger Cloud-Architekturen ohne Investitionskosten in Serverräume.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Webseite: Server, die je nach Datenverkehr wachsen.Sicherung: Ein scheinbar endloser Dateitresor.Video: Der Inhalt wird so verbreitet, wie er angezeigt wird.Startup: Gehen Sie nicht auf Sendung, ohne einen Serverraum einzurichten.
 
 ## Technische Tiefe und Architektur
-Zentrale Basisinfrastruktur-Dienste:- **EC2:** Virtuelle Serverinstanzen mit flexiblen CPU- und Arbeitsspeicherkonfigurationen.
-- **S3:** Zuverlässiger Objektspeicher mit höchster Ausfallsicherheit für Dokumente und Medien.
-- **RDS:** Vollständig verwaltete relationale Datenbanken wie PostgreSQL und MySQL.
-- **Lambda:** Ereignisgesteuerte serverlose Codeausführung ohne manuelle Serveradministration.
+Grundleistungen:
 
-Das System basiert auf weltweiten Regionen und redundanten Verfügbarkeitszonen (Availability Zones). Nach dem Modell der geteilten Verantwortung sichert Amazon die Hardware ab, während Kunden ihre Anwendungsdaten und Zugriffsschlüssel verwalten.<div class="disc-cmd"><div class="disc-cmd-head"><span>Aktive EC2-Instanzen mit der AWS CLI abfragen</span></div><pre><code>aws ec2 describe-instances --query "Reservations[].Instances[].State.Name"</code></pre></div>
+## Häufig gemischte Dinge
+Es wird angenommen, dass es sich lediglich um einen Website-Hosting-Dienst handelt. Es handelt sich jedoch um eine vollständige Infrastrukturplattform, die Datenbank-, künstliche Intelligenz-, Netzwerk- und Sicherheitsschichten mit über 200 Diensten abdeckt.
 
-## Häufig verwechselt mit
-Wird häufig mit gewöhnlichem Webhosting verwechselt. Ein Standard-Webhoster stellt lediglich Dateispeicher für Webseiten bereit; AWS ist ein Technologiebaukasten aus über 200 professionellen Rechen-, Netzwerk- und KI-Diensten.
+## Einsatz in verschiedenen Disziplinen
+Stromnetz: Ausstecken statt Schalttafel einbauen.Lager zu vermieten: Mieten Sie so viele Regale wie nötig.Taxi: Reisen, ohne ein Fahrzeug zu besitzen.
 
-## Interdisziplinäre Perspektiven
-- **Stromnetz:** Strom aus der Steckdose beziehen, anstatt ein eigenes Kraftwerk zu betreiben.
-- **Mietlager:** Je nach Warenbestand flexibel Lagerboxen anmieten und kündigen.
-- **Carsharing:** Mobilität nach Kilometern abrechnen, ohne eigene Fahrzeugflotten zu erwerben.
+## Häufig gestellte Fragen
+**Warum sollte ich AWS verwenden?**
+Sie haben sofortigen Zugriff auf die Unternehmensinfrastruktur, ohne Investitionen in Hardware tätigen zu müssen. Bei schwankendem Datenverkehr sparen Skalierung und vorgefertigte Dienste Zeit.
 
-## Als Analogie
-Es gleicht dem Strombezug aus dem öffentlichen Netz: Sie stecken den Stecker in die Wand und zahlen exakt für die Kilowattstunden, die Sie tatsächlich verbraucht haben.
+**Kann ich kostenlos starten?**
+Ja. Der kostenlose Plan sowie die Kredit- und Laufzeitbedingungen für neue Konten können sich im Laufe der Zeit ändern. Bevor Sie beginnen, sollten Sie die aktuellen Limits auf der AWS Free Kontingent-Seite überprüfen.
 
-## Häufige Fragen
+**Wo werden meine Daten gespeichert?**
+Es wird in der von Ihnen gewählten Region aufbewahrt. Für Vorschriften wie KVKK müssen Sie die Region und Verschlüsselung entsprechend Ihrer Richtlinie auswählen.
 
-**Warum migrieren Entwickler zu AWS?**  
-Um teure Hardwareinvestitionen zu vermeiden, weltweit innerhalb von Minuten zu skalieren und Wartungsarbeiten auszulagern.
+**Wie behält man die Rechnung unter Kontrolle?**
+Mit Budgetwarnungen, Bereinigung ungenutzter Ressourcen und der richtigen Dimensionierung. In kleinen Teams ist Etikettierungsdisziplin unerlässlich.
 
-**Gibt es ein kostenloses Kontingent?**  
-Ja. Das AWS Free Tier bietet neuen Nutzern begrenzte monatliche Freikontingente für EC2, S3 und Lambda zum Kennenlernen der Plattform.
-
-**Wo werden meine Kundendaten physisch gespeichert?**  
-Ausschließlich in der bei der Einrichtung explizit gewählten Rechenzentrumsregion (z. B. Frankfurt für DSGVO-Konformität).
-
-**Wie lassen sich Rechnungsüberraschungen vermeiden?**  
-Durch das Einrichten von Kostenwarnungen in AWS Budgets und das konsequente Löschen ungenutzter Speicherressourcen.
 
 ## Verwandte Begriffe
 - [Cloud Computing](/de/dictionary/cloud-computing/)
@@ -55,4 +39,4 @@ Durch das Einrichten von Kostenwarnungen in AWS Budgets und das konsequente Lös
 - [PaaS](/de/dictionary/paas/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/aws/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/aws/

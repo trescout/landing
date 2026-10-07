@@ -28,8 +28,8 @@ Graças a este mecanismo, a inteligência artificial pode compreender muito melh
 - [NLP](/pt/dictionary/nlp/)
 
 ## Ferramentas relacionadas
-- [Minimind](/pt/discover/minimind/)
 - [AI Engineering from Scratch](/pt/discover/ai-engineering-from-scratch/)
+- [Minimind](/pt/discover/minimind/)
 - [FlashKDA](/pt/discover/flashkda/)
 
 ---

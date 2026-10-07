@@ -2,32 +2,40 @@
 
 > Text User Interface
 
-Interface na tela orientada apenas por texto e caracteres em vez de elementos gráficos.
+TUI (Text User Interface / Interface de Usuário em Texto) é uma interface de usuário focada em teclado que opera em telas de terminal com blocos de texto e caracteres, sem a necessidade de uma placa gráfica.
 
-## Definição
-É uma interface que funciona com comandos de teclado e menus baseados em texto, em vez de botões visuais ou janelas. Consome muito poucos recursos do computador e geralmente é executado em telas de terminais.
+## Estrutura conceitual, etimologia e a evolução do terminal
+O termo TUI é uma abreviação da expressão em inglês Text User Interface (ou, por vezes, Terminal User Interface). Na história das interfaces de computador, é um paradigma visual híbrido que estabelece uma ponte entre a CLI (Interface de Linha de Comando) e a GUI (Interface Gráfica do Usuário):
 
-## Como funciona
-Usando combinações de teclas específicas no terminal, o usuário navega pelos menus e insere comandos como texto.
+## Arquitetura técnica: Modo bruto (Raw mode), sequências de escape ANSI e buffer duplo
+Como uma aplicação TUI funciona em segundo plano baseia-se em três mecanismos fundamentais ao nível do sistema operacional:
 
-## Onde é usado
-É comum na administração de servidores, ferramentas de desenvolvimento de software e dispositivos de baixo custo.
+## O renascimento moderno da TUI e as ferramentas de desenvolvedor
+Nos últimos anos, como reação ao enorme consumo de memória das tecnologias web (aplicativos inchados baseados em Electron), houve um enorme renascimento da TUI no ecossistema de desenvolvedores:
 
 ## Costuma ser confundido com
-Pode ser confundido com CLI; CLI é apenas a linha de comando, enquanto TUI cria um layout visual nessa linha.
 
 ## Perguntas frequentes
-**Por que usar TUI em vez de interface gráfica?**
-É muito mais rápido e não requer recursos pesados, como placa gráfica.
+**O que significa TUI e qual é a sua sigla?**
+TUI é a abreviação de Text User Interface (Interface de Usuário de Texto) ou Terminal User Interface (Interface de Usuário de Terminal). Define interfaces visuais e interativas que operam na grade de caracteres do terminal sem um gerenciador de janelas gráfico.
 
-**É difícil aprender?**
-É necessário memorizar os atalhos do teclado no início, mas é muito mais eficiente à medida que você se acostuma.
+**Quais são as principais diferenças entre CLI, GUI e TUI?**
+A CLI funciona com comandos de texto de uma única linha; a GUI é gerenciada com pixels, janelas e mouse; enquanto a TUI é um formato híbrido que funciona dentro do terminal com menus, painéis e caixas focados no teclado.
+
+**Como as interfaces de usuário de terminal desenham a tela?**
+Através de sequências de escape ANSI e códigos de controle de terminal, o cursor é movido para a linha e coluna desejadas na tela, códigos de cores são atribuídos e caracteres de caixa Unicode são desenhados.
+
+**Quais são as bibliotecas mais populares para o desenvolvimento de TUI moderna?**
+No ecossistema Rust, ratatui; na linguagem Go, bubbletea e lipgloss; e no lado do Python, as bibliotecas Textual e rich são o padrão da indústria.
 
 
 ## Termos relacionados
 - [CLI](/pt/dictionary/cli/)
 - [Terminal](/pt/dictionary/terminal/)
 - [Terminal Control](/pt/dictionary/terminal-control/)
+- [Runtime](/pt/dictionary/runtime/)
+- [Assembly](/pt/dictionary/assembly/)
+- [Tech Stack](/pt/dictionary/tech-stack/)
 
 ## Ferramentas relacionadas
 - [PI](/pt/discover/pi/)

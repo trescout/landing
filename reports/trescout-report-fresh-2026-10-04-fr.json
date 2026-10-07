@@ -1,0 +1,475 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-04",
+  "capturedAt": "2026-10-04T10:37:20.456Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code est un outil qui analyse la base de code dans les projets TypeScript pour proposer des suggestions structurelles aux développeurs. Cette solution, qui visualise l'architecture logicielle et se concentre sur l'amélioration de la qualité du code, facilite la gestion de projets complexes.",
+          "meta": "TypeScript · ★ 24 885 · +252 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "pingdotgg/t3code",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 24885,
+              "engagementCount": 252,
+              "rank": 7,
+              "extra": {
+                "starsToday": 252
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem est un outil qui permet aux agents d'intelligence artificielle de créer un contexte persistant tout au long des sessions. Il compresse les interactions passées avec l'IA pour les transférer vers les sessions futures et renforce la mémoire des assistants de codage comme Claude Code.",
+          "meta": "TypeScript · ★ 95 810 · +79 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 95810,
+              "engagementCount": 79,
+              "rank": 8,
+              "extra": {
+                "starsToday": 79
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "summary": "Cloudflare a proposé un espace de travail pour agents (agent workspace) qui prend en charge les processus de création de documents, de développement d'applications et d'exécution d'agents d'IA avec des données internes à l'entreprise. Fonctionnant sur Cloudflare Workers, cette plateforme fournit un environnement de développement intégré aux systèmes d'entreprise.",
+          "meta": "TypeScript · ★ 10 697 · +85 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cloudflare/cloudflare-os",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10697,
+              "engagementCount": 85,
+              "rank": 9,
+              "extra": {
+                "starsToday": 85
+              }
+            }
+          }
+        },
+        {
+          "title": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "summary": "Le cours Production Agentic RAG est une ressource pédagogique qui enseigne comment combiner les systèmes RAG, qui permettent aux grands modèles de langage d'accéder aux données, avec des flux de travail basés sur des agents. Basé sur le langage de programmation Python, ce contenu se concentre sur le développement de systèmes capables de répondre à des requêtes complexes et de prendre leurs propres décisions.",
+          "meta": "Python · ★ 9 485 · +193 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "jamwithai/production-agentic-rag-course",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 9485,
+              "engagementCount": 193,
+              "rank": 17,
+              "extra": {
+                "starsToday": 193
+              }
+            }
+          }
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video",
+          "url": "https://github.com/meituan-longcat/LongCat-Video",
+          "summary": "LongCat-Video, développé par Meituan, est un cadre (framework) de production vidéo utilisé pour créer des vidéos longues de manière cohérente. Cet outil permet de produire des contenus vidéo de plus longue durée et de haute qualité tout en préservant la cohérence visuelle.",
+          "meta": "Python · ★ 8 892 · +44 aujourd'hui",
+          "snapshot": {
+            "sourceId": "meituan-longcat/LongCat-Video",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8892,
+              "engagementCount": 44,
+              "rank": 18,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut est un logiciel basé sur TypeScript développé comme une alternative open source à l'outil de montage vidéo CapCut. Il offre aux utilisateurs la possibilité de gérer leurs processus de montage vidéo localement et en toute liberté.",
+          "meta": "TypeScript · ★ 91 800 · +232 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "OpenCut-app/OpenCut",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 91800,
+              "engagementCount": 232,
+              "rank": 19,
+              "extra": {
+                "starsToday": 232
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tell HN: Bob Cringely has died",
+          "url": "https://news.ycombinator.com/item?id=49949438",
+          "summary": "Mark Stevens, auteur renommé du monde technologique et l'un des premiers employés d'Apple, connu sous le nom de Bob Cringely, est décédé. Stevens était largement connu pour la série documentaire sur l'histoire de la technologie \"Triumph of the Nerds\".",
+          "meta": "470 votes · 100 commentaires",
+          "snapshot": {
+            "sourceId": "49949438",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 470,
+              "engagementCount": 100,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49949438",
+                  "popularity": 470,
+                  "engagementCount": 100
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "paveworld",
+                "createdAt": "2026-10-04T00:50:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49949438"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49949438",
+              "popularity": 470,
+              "engagementCount": 100
+            }
+          ]
+        },
+        {
+          "title": "We're going to need default hard budget caps on pretty much everything",
+          "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "summary": "Les développeurs de logiciels préconisent l'application de limites budgétaires par défaut (hard budget caps) pour éviter les augmentations de coûts inattendues sur les plateformes de cloud computing. Cette approche vise à gérer les risques financiers en limitant automatiquement les dépenses sur des services tels que l'utilisation des API ou les ressources serveur.",
+          "meta": "444 votes · 217 commentaires",
+          "snapshot": {
+            "sourceId": "49949235",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 217,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49949235",
+                  "popularity": 444,
+                  "engagementCount": 217
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "elffjs",
+                "createdAt": "2026-10-04T00:20:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49949235"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49949235",
+              "popularity": 444,
+              "engagementCount": 217
+            }
+          ]
+        },
+        {
+          "title": "Hole Punch: Sling your spaceship around gravitational fields",
+          "url": "https://notoriousbfg.com/hole-punch/",
+          "summary": "Hole Punch est un outil de simulation utilisé pour modifier la trajectoire des engins spatiaux en utilisant des champs gravitationnels. En visualisant le principe de l'assistance gravitationnelle (gravity assist), il rend la mécanique orbitale complexe compréhensible.",
+          "meta": "299 votes · 67 commentaires",
+          "snapshot": {
+            "sourceId": "49946393",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 299,
+              "engagementCount": 67,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49946393",
+                  "popularity": 299,
+                  "engagementCount": 67
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "trwhite",
+                "createdAt": "2026-10-03T18:06:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49946393"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49946393",
+              "popularity": 299,
+              "engagementCount": 67
+            }
+          ]
+        },
+        {
+          "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+          "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+          "summary": "Timur Kristóf, ingénieur logiciel chez Valve, développe des améliorations du noyau Linux pour les anciennes unités de traitement graphique (GPU) AMD. Ce travail permet aux anciens matériels de fonctionner de manière plus stable et performante sur les plateformes de jeu modernes.",
+          "meta": "293 votes · 45 commentaires",
+          "snapshot": {
+            "sourceId": "49946895",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 293,
+              "engagementCount": 45,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49946895",
+                  "popularity": 293,
+                  "engagementCount": 45
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "speckx",
+                "createdAt": "2026-10-03T19:14:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49946895"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49946895",
+              "popularity": 293,
+              "engagementCount": 45
+            }
+          ]
+        },
+        {
+          "title": "So you think you could be an electrician?",
+          "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+          "summary": "La pénurie de main-d'œuvre dans le secteur des installations électriques est débattue à travers la complexité des processus de formation professionnelle et les exigences d'expertise technique. Le manque de personnel qualifié dans les métiers manuels met en évidence le décalage des compétences (skills gap) dans l'économie moderne avec un exemple concret.",
+          "meta": "236 votes · 163 commentaires",
+          "snapshot": {
+            "sourceId": "49910462",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 236,
+              "engagementCount": 163,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49910462",
+                  "popularity": 236,
+                  "engagementCount": 163
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "zdw",
+                "createdAt": "2026-09-30T15:43:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49910462"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49910462",
+              "popularity": 236,
+              "engagementCount": 163
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Cloudflare/clef-flash",
+          "url": "https://huggingface.co/Cloudflare/clef-flash",
+          "summary": "Clef-Flash, développé par Cloudflare, est un modèle d'intelligence artificielle multimodal (multimodal AI) qui traite des entrées visuelles et textuelles pour produire des sorties textuelles. Le modèle vise à effectuer une production de texte rapide et efficace en analysant et en interprétant les données visuelles.",
+          "meta": "♥ 384 · 6 372 téléchargements",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef-flash",
+            "capturedAt": "2026-10-04T10:37:20.577Z",
+            "metadata": {
+              "popularity": 384,
+              "engagementCount": 6372,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 373,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.5",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.5-9B",
+                  "base_model:finetune:Qwen/Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Why don’t more developers \"use the platform\"?",
+          "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+          "summary": "Le fait que les développeurs de logiciels se tournent vers des bibliothèques lourdes au lieu d'utiliser les fonctionnalités intégrées des navigateurs entraîne une augmentation inutile de la taille des applications et des pertes de performance. Les capacités natives offertes par les standards web modernes peuvent souvent accomplir des fonctions similaires plus efficacement sans avoir besoin de dépendances externes.",
+          "meta": "38 votes · 18 commentaires",
+          "snapshot": {
+            "sourceId": "srduzv",
+            "capturedAt": "2026-10-04T10:37:20.885Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 18,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform",
+                  "popularity": 38,
+                  "engagementCount": 18
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "web"
+                ],
+                "createdAt": "2026-10-03T16:35:28.658-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform",
+              "popularity": 38,
+              "engagementCount": 18
+            }
+          ]
+        },
+        {
+          "title": "Rust's derive often implies inline",
+          "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+          "summary": "Les macros de dérivation (derive) en Rust peuvent entraîner la compilation du code généré en ligne (inline). Cela peut affecter directement le temps de compilation et la taille du fichier binaire généré.",
+          "meta": "24 votes · 5 commentaires",
+          "snapshot": {
+            "sourceId": "dldhpw",
+            "capturedAt": "2026-10-04T10:37:20.885Z",
+            "metadata": {
+              "popularity": 24,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
+                  "popularity": 24,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-10-03T20:41:57.843-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
+              "popularity": 24,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "Un pont numérique qui permet à deux logiciels différents de communiquer entre eux et d'échanger des données."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "La capacité de l'intelligence artificielle à ne pas oublier les conversations précédentes et à conserver des informations en mémoire lors d'interactions à long terme."
+    },
+    {
+      "term": "agent workspace",
+      "explanation": "L'espace de travail utilisé par les assistants basés sur l'intelligence artificielle pour accomplir leurs tâches, où ils ont accès à tous les outils et données."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "framework",
+      "explanation": "Cadre de travail fondamental qui facilite le développement de logiciels en offrant des structures de code prêtes à l'emploi et un ensemble de règles."
+    },
+    {
+      "term": "hard budget caps",
+      "explanation": "La limite supérieure absolue, techniquement impossible à dépasser, des ressources qu'un projet ou un système peut consommer."
+    }
+  ]
+}

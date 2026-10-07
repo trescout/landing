@@ -2,14 +2,14 @@
 
 Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ yeteneğidir (agent skill). Karmaşık sistem tasarımlarını görselleştirmek için kullanılan bu araç, diyagramların yüksek çözünürlüklü dışa aktarımını destekler.
 
-- ★ 73.342
+- ★ 77.819
 - GitHub Trending · 2026-08-26
 
 ## Güncelleme
+- 5 Ekim 2026: Yıldız 73.342 → 77.819, son sürüm v3.0.1 (28 Eylül 2026).
 - 28 Eylül 2026: Yıldız 72.294 → 73.342, son sürüm v3.0.1 (28 Eylül 2026).
 - 27 Eylül 2026: Yıldız 64.166 → 72.294, son sürüm v2.16.0 (30 Ağustos 2026).
 - 16 Eylül 2026: Yıldız 60.082 → 64.166, son sürüm v2.16.0 (30 Ağustos 2026).
-- 13 Eylül 2026: Yıldız 56.659 → 60.082, son sürüm v2.16.0 (30 Ağustos 2026).
 
 ## Ne kazandırır?
 - fikirlerinizi ve planlarınızı hareketli HTML görsellerine dönüştürür

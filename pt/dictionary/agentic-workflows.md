@@ -26,6 +26,7 @@ Geralmente, espera-se aprovação para decisões críticas, mas a maioria dos pr
 
 ## Ferramentas relacionadas
 - [MinerU](/pt/discover/mineru/)
+- [Pstack Claude](/pt/discover/pstack-claude/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agentic-workflows/

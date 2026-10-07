@@ -41,6 +41,7 @@ No. A paper list is also a workflow. A tool becomes necessary as volume grows.
 - [MinerU](/en/discover/mineru/)
 - [Trivy](/en/discover/trivy/)
 - [Modly](/en/discover/modly/)
+- [Pstack Claude](/en/discover/pstack-claude/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/workflows/

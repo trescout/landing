@@ -2,15 +2,15 @@
 
 Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir yardımcı araçlar ve fonksiyonlar sunuyor. Python tabanlı bu kütüphane, nesne tespiti ve takibi gibi süreçlerdeki standart işlemleri kolaylaştırarak geliştirme iş akışlarını hızlandırıyor.
 
-- ★ 51.075
+- ★ 51.118
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
+- 4 Ekim 2026: Yıldız 51.075 → 51.118, son sürüm 0.30.7 (4 Ekim 2026).
 - 29 Eylül 2026: Yıldız 51.054 → 51.075, son sürüm 0.30.6 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 50.896 → 51.054, son sürüm 0.30.5 (22 Eylül 2026).
 - 18 Eylül 2026: Yıldız 50.140 → 50.896, son sürüm 0.30.4 (17 Eylül 2026).
-- 15 Eylül 2026: Yıldız 49.875 → 50.140, son sürüm 0.30.3 (14 Eylül 2026).
 
 ## Ne kazandırır?
 - Bilgisayarlı görü projelerinde veri yükleme ve işleme süreçlerini hızlandırır.

@@ -2,15 +2,15 @@
 
 Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.
 
-- ★ 73.764
+- ★ 73.970
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 73.903 → 73.970, son sürüm v3.53.0 (6 Ekim 2026).
+- 5 Ekim 2026: Yıldız 73.764 → 73.903, son sürüm v3.52.0 (5 Ekim 2026).
 - 3 Ekim 2026: Yıldız 73.697 → 73.764, son sürüm v3.51.1 (2 Ekim 2026).
 - 2 Ekim 2026: Yıldız 73.588 → 73.697, son sürüm v3.51.0 (2 Ekim 2026).
-- 1 Ekim 2026: Yıldız 73.469 → 73.588, son sürüm v3.49.0 (1 Ekim 2026).
-- 29 Eylül 2026: Yıldız 73.332 → 73.469, son sürüm v3.48.0 (28 Eylül 2026).
 
 ## Ne kazandırır?
 - Ajanların birbiriyle iş birliği yapmasını sağlar

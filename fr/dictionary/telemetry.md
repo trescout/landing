@@ -1,51 +1,40 @@
-# Qu'est-ce que la Télémétrie (Telemetry) ?
+# Qu'est-ce que Telemetry ?
 
-> Anglais : Telemetry · Étymologie : grec tele (au loin, à distance) + metron (mesure)
+La télémétrie est la collecte et la transmission automatiques d'informations sur l'état des logiciels et des appareils vers un centre de données.
 
-**Catégorie:** Dev  
-**Dernière mise à jour:** 2026-09-22
+## Définition et origine du mot
+Le mot vient des racines grecques tele (loin) et metron (mesure). Les applications envoient aux développeurs des rapports sur le fonctionnement du logiciel : quelles fonctionnalités sont les plus utilisées, où l'application plante. Pour l'utilisateur, il s'agit généralement d'un flux de données qui s'exécute silencieusement en arrière-plan.
 
-La télémétrie (telemetry) désigne la collecte, l'enregistrement et la transmission automatisée de mesures opérationnelles, journaux et traces diagnostiques depuis des applications ou équipements distants vers une plateforme de supervision.
-
-## Définition et étymologie
-Le mot vient du grec tele (loin) et metron (mesure). En ingénierie logicielle, la télémétrie fournit aux équipes un flux constant d'informations sur le comportement réel de leurs programmes : quelles fonctionnalités sont utilisées, où surviennent les anomalies et comment se comportent les serveurs sous charge.
-
-## Usage quotidien et contexte pratique
-Usages quotidiens de la télémétrie :
-- **Rapports de plantage :** Remontée automatique de la pile d'appels lors d'une erreur inattendue.- **Analyse de produit :** Suivi anonymisé des parcours utilisateurs pour prioriser les améliorations.- **Surveillance d'infrastructure :** Mesure continue de l'utilisation mémoire et CPU des conteneurs.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Débogage : Collecte automatique des rapports de plantage.Décision produit : Simplification d'un bouton peu utilisé.Performance : Suivi du temps de chargement version par version.
 
 ## Profondeur technique et architecture
 Les trois piliers de l'observabilité :
-- **Logs :** Événements horodatés individuels enregistrant une action ponctuelle.- **Métriques :** Valeurs numériques cumulées dans le temps (taux d'erreur, volume de requêtes).- **Traces :** Suivi pas à pas du cheminement d'une requête à travers les microservices.- **OpenTelemetry (OTel) :** Standard libre unifiant les formats de collecte pour éviter la dépendance à un fournisseur unique.
 
-## Souvent confondu avec
-On la confond souvent avec le simple fait d'écrire des logs. Le log est une ligne textuelle isolée ; la télémétrie est le dispositif global qui orchestre, filtre et achemine logs, métriques et traces vers une console d'analyse.
+## Choses fréquemment mélangées
+Cela peut être confondu avec le logging. Le log est une ligne d'événement unique. La métrique est un résumé numérique. Le trace est le parcours de la requête. La télémétrie est le nom du processus de collecte et de transmission de ces trois éléments.
 
-## Perspectives interdisciplinaires
-Exemples dans d'autres disciplines :
-- **Médecine :** Le moniteur de réanimation transmettant le rythme cardiaque au poste de soins.- **Aéronautique :** L'avionique transmettant en temps réel l'état des réacteurs aux équipes au sol.- **Sport automobile :** Les centaines de capteurs d'une Formule 1 envoyant pression et télémétrie aux stands.
+## Utilisation dans différentes disciplines
+Hôpital: Le moniteur patient transmettant le pouls à l'écran de l'infirmière.Aviation : Le stockage des données de vol dans la boîte noire.Énergie : Les compteurs signalent la consommation au centre.
 
-## Par analogie
-C'est comme l'ensemble des capteurs d'une voiture moderne qui surveillent la température du moteur, la pression des pneus et affichent les alertes sur le tableau de bord du conducteur.
+## Foire aux questions
+**Cela affecte-t-il ma vie privée ?**
+Les données sont généralement collectées de manière anonyme et agrégée. Vous pouvez voir quelles données sont envoyées et les désactiver dans la section des paramètres de l'application.
 
-## Questions fréquentes
+**Quelle est la différence avec l'observabilité ?**
+La télémétrie collecte et transmet les données. L'observabilité est la capacité de comprendre l'intérieur du système grâce aux données collectées. L'un est l'outil, l'autre est l'objectif.
 
-**La télémétrie nuit-elle à la vie privée des utilisateurs ?**  
-Une télémétrie responsable anonymise les données personnelles (PII) avant l'envoi et propose toujours un choix de désactivation.
+**Est-il possible de le désactiver ?**
+Dans la plupart des applications, oui, cela peut être désactivé dans les paramètres. Sur les appareils d'entreprise, cela peut rester activé par politique.
 
-**Quelle est la différence entre télémétrie et monitoring ?**  
-La télémétrie est le canal technique qui transporte les données ; le monitoring est l'analyse de ces données pour déclencher des alertes.
+**Y a-t-il un coût ?**
+Oui. Il y a des frais de transfert et de stockage des données. C'est pourquoi, en cas de trafic élevé, un échantillonnage est effectué : seule une partie des événements est envoyée, et non la totalité.
 
-**Pourquoi OpenTelemetry est-il devenu un standard incontournable ?**  
-Parce qu'il standardise la collecte des métriques, traces et logs, libérant les développeurs des formats propriétaires.
-
-**Que se passe-t-il en cas de coupure réseau ?**  
-Les agents de télémétrie stockent les paquets de données dans un tampon local et les réexpédient dès le rétablissement de la connexion.
 
 ## Termes liés
 - [Logs](/fr/dictionary/logs/)
 - [Observability](/fr/dictionary/observability/)
-- [Metrics](/fr/dictionary/metrics/)
+- [Traces](/fr/dictionary/traces/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/telemetry/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/telemetry/

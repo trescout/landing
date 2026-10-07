@@ -36,8 +36,8 @@ Sí; las arquitecturas de redes neuronales de nueva generación desarrolladas re
 - [Context](/es/dictionary/context/)
 
 ## Herramientas relacionadas
-- [Minimind](/es/discover/minimind/)
 - [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
+- [Minimind](/es/discover/minimind/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tokenizer/

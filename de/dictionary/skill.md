@@ -41,8 +41,8 @@ Entwickler schreiben sie, Plattformen vertreiben sie im Store. Eine gute Beschre
 ## Verwandte Werkzeuge
 - [Anthropic Skills](/de/discover/anthropic-skills/)
 - [Taste Skill](/de/discover/taste-skill/)
-- [Awesome Claude Skills](/de/discover/awesome-claude-skills/)
 - [Archify](/de/discover/archify/)
+- [Awesome Claude Skills](/de/discover/awesome-claude-skills/)
 - [Last30days Skill](/de/discover/last30days-skill/)
 - [I Have Adhd](/de/discover/i-have-adhd/)
 - [Reverse Skill](/de/discover/reverse-skill/)

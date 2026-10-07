@@ -31,6 +31,7 @@ Elles fonctionnent généralement à l'intérieur d'un navigateur ou via une cou
 - [Tinycast](/fr/discover/tinycast/)
 - [Stitch Skills](/fr/discover/stitch-skills/)
 - [Agent Native](/fr/discover/agent-native/)
+- [REA](/fr/discover/rea/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/native/

@@ -28,8 +28,8 @@ Es estándar en casi todos los modelos de IA modernos que utilizan la arquitectu
 - [NLP](/es/dictionary/nlp/)
 
 ## Herramientas relacionadas
-- [Minimind](/es/discover/minimind/)
 - [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
+- [Minimind](/es/discover/minimind/)
 - [FlashKDA](/es/discover/flashkda/)
 
 ---

@@ -1,0 +1,546 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-06",
+  "capturedAt": "2026-10-06T11:18:01.441Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea é uma ferramenta de engenharia reversa baseada em agentes de inteligência artificial que analisa tudo, desde comportamentos de aplicativos até binários nativos. Desenvolvido com TypeScript, este software visa decifrar a lógica de funcionamento de sistemas complexos por meio de processos automatizados.",
+          "meta": "TypeScript · ★ 6.726 · +2.963 hoje",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6726,
+              "engagementCount": 2963,
+              "rank": 8,
+              "extra": {
+                "starsToday": 2963
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "summary": "O DeepGEMM, desenvolvido pela DeepSeek, é uma biblioteca de sub-rotinas básicas de álgebra linear (BLAS) de código aberto que acelera operações de multiplicação de matrizes em unidades de processamento gráfico (GPU). O software oferece kernels otimizados para modelos de IA que exigem computação de alto desempenho.",
+          "meta": "Cuda · ★ 8.522 · +363 hoje",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepGEMM",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "Cuda",
+              "popularity": 8522,
+              "engagementCount": 363,
+              "rank": 9,
+              "extra": {
+                "starsToday": 363
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Web Search API",
+          "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+          "summary": "A Cloudflare lançou o serviço Web Search API, que permite o acesso a dados atualizados na internet. Graças a esta ferramenta, os desenvolvedores podem integrar resultados de pesquisa em tempo real em suas aplicações, reduzindo a dependência de motores de busca externos.",
+          "meta": "557 pontos · 249 comentários",
+          "snapshot": {
+            "sourceId": "49963171",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 557,
+              "engagementCount": 249,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49963171",
+                  "popularity": 557,
+                  "engagementCount": 249
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-10-05T10:47:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49963171"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49963171",
+              "popularity": 557,
+              "engagementCount": 249
+            }
+          ]
+        },
+        {
+          "title": "Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "summary": "O Beam, desenvolvido pela Reflection, oferece uma nova infraestrutura de inferência para modelos de inteligência artificial de pesos abertos (open-weight). Esta plataforma otimiza os recursos computacionais necessários para executar modelos de alto desempenho, proporcionando aos desenvolvedores um processo de implantação mais rápido e eficiente.",
+          "meta": "471 pontos · 149 comentários",
+          "snapshot": {
+            "sourceId": "49969183",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 471,
+              "engagementCount": 149,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49969183",
+                  "popularity": 471,
+                  "engagementCount": 149
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-10-05T19:16:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49969183"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49969183",
+              "popularity": 471,
+              "engagementCount": 149
+            }
+          ]
+        },
+        {
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+          "summary": "O chatbot ChatGPT, desenvolvido pela OpenAI, utiliza as assinaturas de artistas reais ao criar caricaturas. Esta situação traz de volta ao debate as discussões éticas sobre direitos autorais e originalidade de conteúdo em modelos de inteligência artificial generativa (generative AI).",
+          "meta": "458 pontos · 332 comentários",
+          "snapshot": {
+            "sourceId": "49971846",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 458,
+              "engagementCount": 332,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49971846",
+                  "popularity": 458,
+                  "engagementCount": 332
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "rdmuser",
+                "createdAt": "2026-10-05T22:46:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49971846"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49971846",
+              "popularity": 458,
+              "engagementCount": 332
+            }
+          ]
+        },
+        {
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "summary": "Os agentes de inteligência artificial Opus 5.5 descobriram dois novos candidatos a semicondutores magnéticos que operam à temperatura ambiente. Este estudo mostra que os processos de descoberta impulsionados por IA (AI-driven discovery) estão ganhando velocidade na pesquisa em ciência dos materiais.",
+          "meta": "368 pontos · 246 comentários",
+          "snapshot": {
+            "sourceId": "49970667",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 368,
+              "engagementCount": 246,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49970667",
+                  "popularity": 368,
+                  "engagementCount": 246
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "outlier99",
+                "createdAt": "2026-10-05T21:00:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49970667"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49970667",
+              "popularity": 368,
+              "engagementCount": 246
+            }
+          ]
+        },
+        {
+          "title": "Apple and a hacker's future",
+          "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+          "summary": "A Apple, com sua abordagem de ecossistema fechado, garante a segurança do usuário enquanto limita o controle dos desenvolvedores de software sobre o sistema. O analista de estratégia Ben Thompson discute como essa situação afeta a criatividade e a liberdade no mundo da tecnologia através das políticas de hardware e software da Apple.",
+          "meta": "262 pontos · 226 comentários",
+          "snapshot": {
+            "sourceId": "49962857",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 262,
+              "engagementCount": 226,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49962857",
+                  "popularity": 262,
+                  "engagementCount": 226
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "maguay",
+                "createdAt": "2026-10-05T10:05:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49962857"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49962857",
+              "popularity": 262,
+              "engagementCount": 226
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "O JEV-27B-VL, compartilhado no HuggingFace, é um modelo de inteligência artificial multimodal que processa dados visuais e de texto para produzir saída de texto. Este modelo analisa e interpreta imagens complexas, permitindo que os usuários obtenham respostas baseadas em texto a partir de conteúdos visuais.",
+          "meta": "♥ 842 · 1.525.286 downloads",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-06T11:18:01.617Z",
+            "metadata": {
+              "popularity": 842,
+              "engagementCount": 1525286,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 675,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+          "url": "https://huggingface.co/papers/2609.35751",
+          "summary": "O método Foil, que combina a arquitetura de transformador em loop (looped transformer) com a abordagem de mistura de especialistas (mixture-of-experts), permite um uso mais eficiente dos parâmetros do modelo. Esta técnica aumenta a capacidade de processamento de modelos de tamanho fixo ao iterar as camadas de especialistas.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.35751",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35751",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/SR-A-W/how-to-loop-moe",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "SoK: Semantic Decision Engines in Network Control Loops",
+          "url": "https://huggingface.co/papers/2610.06425",
+          "summary": "Os motores de decisão semântica usados em ciclos de controle de rede apresentam inconsistências graves em relação ao cumprimento de restrições de tempo e à produção de resultados verificáveis. Entre as 139 famílias de estudos acadêmicos examinadas, o número daqueles que sustentam as métricas de desempenho alegadas com medições permanece bastante limitado.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.06425",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06425",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/SoK-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Intent Interpretation at RIC Timescales: Jev Decision Models versus Large Language Models in 6G Open RAN",
+          "url": "https://huggingface.co/papers/2609.23136",
+          "summary": "É feita uma comparação de desempenho entre modelos de decisão usados para gerenciamento baseado em intenção em redes de acesso de rádio abertas (Open RAN) 6G e grandes modelos de linguagem (LLM). A pesquisa analisa os efeitos da latência criada pelos grandes modelos de linguagem ao converter intenções em textos de política sobre o ciclo de controle da rede e o desempenho do rádio.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.23136",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23136",
+                "publishedAt": "2026-10-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/6G-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "What Matters for Latent Reasoning with Flow Matching",
+          "url": "https://huggingface.co/papers/2610.06666",
+          "summary": "O raciocínio latente por meio do método de correspondência de fluxo (flow matching) permite que grandes modelos de linguagem (LLM) realizem seus processos de pensamento em um espaço contínuo. Essa abordagem, ao mesmo tempo em que permite que o modelo apenas transcreva a resposta final em texto, exige que a cadeia de pensamento (chain of thought) seja eficiente, explicável e estruturada de forma diversificada.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.06666",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06666",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "UndoBench: Separating Task Competence from Recovery Capability in Tool-Using AI Agents",
+          "url": "https://huggingface.co/papers/2610.05622",
+          "summary": "UndoBench é um novo benchmark que separa o sucesso da tarefa principal das capacidades de recuperação de erros de agentes de IA que utilizam ferramentas. Ele visa medir a habilidade dos agentes em corrigir erros operacionais por meio de 36 fluxos de trabalho e cenários de erro em oito áreas corporativas diferentes.",
+          "meta": "4 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.05622",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05622",
+                "publishedAt": "2026-10-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/tradertanmay/undobench",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Email Self Hosters - what are you using?",
+          "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+          "summary": "Os usuários preferem softwares de servidor de e-mail leves e configuráveis, como o Maddy, para gerenciar seus próprios servidores de e-mail. Nesse processo, os atrasos de conexão e problemas de entrega, especialmente com clientes móveis, constituem os principais desafios técnicos para aqueles que realizam a auto-hospedagem (self-hosting).",
+          "meta": "20 pontos · 23 comentários",
+          "snapshot": {
+            "sourceId": "rwloew",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 23,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+                  "popularity": 20,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ask",
+                  "email"
+                ],
+                "createdAt": "2026-10-06T03:09:53.070-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+              "popularity": 20,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "Async Rust: Where does the scheduler live?",
+          "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+          "summary": "Na linguagem de programação Rust assíncrona, examina-se como a estrutura do agendador (scheduler) que gerencia a execução de tarefas está posicionada dentro do tempo de execução (runtime). O artigo explica a arquitetura técnica desses mecanismos que executam operações simultâneas e seus efeitos no gerenciamento de recursos.",
+          "meta": "45 pontos · 13 comentários",
+          "snapshot": {
+            "sourceId": "okk4bg",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 45,
+              "engagementCount": 13,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+                  "popularity": 45,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-10-05T13:31:29.400-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+              "popularity": 45,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Gleam doesn't compile to Erlang source anymore",
+          "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+          "summary": "O Gleam agora compila seu código diretamente para bytecode Erlang, em vez de convertê-lo para código-fonte Erlang. Essa mudança acelera os processos de compilação e oferece aos desenvolvedores um ambiente de execução com melhor desempenho.",
+          "meta": "107 pontos · 13 comentários",
+          "snapshot": {
+            "sourceId": "2svplr",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 107,
+              "engagementCount": 13,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
+                  "popularity": 107,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compilers",
+                  "erlang",
+                  "gleam"
+                ],
+                "createdAt": "2026-10-05T12:29:17.719-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
+              "popularity": 107,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Arquivos de programa que são preparados especificamente para um determinado sistema operacional ou tipo de processador e que são executados diretamente."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "O processo de desmontar um produto pronto para entender como ele funciona e decifrar sua lógica de operação."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Uma unidade de processamento poderosa usada para acelerar o processamento de imagens e cálculos matemáticos complexos."
+    },
+    {
+      "term": "BLAS",
+      "explanation": "A biblioteca fundamental que permite aos computadores realizar operações numéricas complexas, como matrizes e vetores, muito rapidamente."
+    },
+    {
+      "term": "kernels",
+      "explanation": "A parte central do sistema operacional que gerencia a comunicação entre o hardware e o software."
+    },
+    {
+      "term": "Web Search API",
+      "explanation": "Uma ferramenta de conexão que permite que softwares pesquisem na internet e obtenham resultados automaticamente."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "O compartilhamento dos parâmetros internos treinados de um modelo de inteligência artificial para que qualquer pessoa possa baixar e usar."
+    }
+  ]
+}

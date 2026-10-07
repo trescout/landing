@@ -2,11 +2,12 @@
 
 Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust diliyle geliştirilmiş açık kaynaklı bir sunucu yazılımıdır.
 
-- ★ 67.398
+- ★ 68.594
 - Rust
 - GitHub Trending · 2026-08-24
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 67.398 → 68.594, son sürüm 1.37.4 (5 Ekim 2026).
 - 14 Eylül 2026: Yıldız 65.982 → 67.398, son sürüm 1.37.3 (13 Eylül 2026).
 - 24 Ağustos 2026: Yıldız 65.983 → 65.982, son sürüm 1.37.2 (22 Ağustos 2026).
 

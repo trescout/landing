@@ -1,0 +1,546 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-06",
+  "capturedAt": "2026-10-06T11:18:01.441Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea is an AI agent-based reverse engineering tool that analyzes everything from application behaviors to native binaries. Developed with TypeScript, this software aims to resolve the operational logic of complex systems through automated processes.",
+          "meta": "TypeScript · ★ 6,726 · +2,963 today",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6726,
+              "engagementCount": 2963,
+              "rank": 8,
+              "extra": {
+                "starsToday": 2963
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "summary": "DeepGEMM, developed by DeepSeek, is an open-source Basic Linear Algebra Subprograms (BLAS) library that accelerates matrix multiplication operations on graphics processing units (GPUs). The software provides optimized kernels for AI models that require high-performance computing.",
+          "meta": "Cuda · ★ 8,522 · +363 today",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepGEMM",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "Cuda",
+              "popularity": 8522,
+              "engagementCount": 363,
+              "rank": 9,
+              "extra": {
+                "starsToday": 363
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Web Search API",
+          "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+          "summary": "Cloudflare has launched its Web Search API service, which provides access to current data on the internet. With this tool, developers can integrate real-time search results into their applications, reducing reliance on external search engines.",
+          "meta": "557 points · 249 comments",
+          "snapshot": {
+            "sourceId": "49963171",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 557,
+              "engagementCount": 249,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49963171",
+                  "popularity": 557,
+                  "engagementCount": 249
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-10-05T10:47:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49963171"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49963171",
+              "popularity": 557,
+              "engagementCount": 249
+            }
+          ]
+        },
+        {
+          "title": "Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "summary": "Beam, developed by Reflection, offers a new inference infrastructure for open-weight AI models. This platform optimizes the computational resources required to run high-performance models, providing developers with a faster and more efficient deployment process.",
+          "meta": "471 points · 149 comments",
+          "snapshot": {
+            "sourceId": "49969183",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 471,
+              "engagementCount": 149,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49969183",
+                  "popularity": 471,
+                  "engagementCount": 149
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-10-05T19:16:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49969183"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49969183",
+              "popularity": 471,
+              "engagementCount": 149
+            }
+          ]
+        },
+        {
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+          "summary": "ChatGPT, the chatbot developed by OpenAI, mimics and uses the signatures of real artists in the cartoons it generates. This situation brings the ethical debates regarding copyright and content originality of generative AI models back to the agenda.",
+          "meta": "458 points · 332 comments",
+          "snapshot": {
+            "sourceId": "49971846",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 458,
+              "engagementCount": 332,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49971846",
+                  "popularity": 458,
+                  "engagementCount": 332
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "rdmuser",
+                "createdAt": "2026-10-05T22:46:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49971846"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49971846",
+              "popularity": 458,
+              "engagementCount": 332
+            }
+          ]
+        },
+        {
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "summary": "Opus 5.5 AI agents have discovered two new magnetic semiconductor candidates that operate at room temperature. This study demonstrates that AI-driven discovery processes in materials science research are gaining momentum.",
+          "meta": "368 points · 246 comments",
+          "snapshot": {
+            "sourceId": "49970667",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 368,
+              "engagementCount": 246,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49970667",
+                  "popularity": 368,
+                  "engagementCount": 246
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "outlier99",
+                "createdAt": "2026-10-05T21:00:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49970667"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49970667",
+              "popularity": 368,
+              "engagementCount": 246
+            }
+          ]
+        },
+        {
+          "title": "Apple and a hacker's future",
+          "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+          "summary": "Apple ensures user security with its closed ecosystem approach while restricting software developers' control over the system. Strategy analyst Ben Thompson discusses how this situation affects creativity and freedom in the tech world through Apple's hardware and software policies.",
+          "meta": "262 points · 226 comments",
+          "snapshot": {
+            "sourceId": "49962857",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 262,
+              "engagementCount": 226,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49962857",
+                  "popularity": 262,
+                  "engagementCount": 226
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "maguay",
+                "createdAt": "2026-10-05T10:05:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49962857"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49962857",
+              "popularity": 262,
+              "engagementCount": 226
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "JEV-27B-VL, shared on HuggingFace, is a multimodal AI model that processes visual and text data to produce text output. This model analyzes and interprets complex images, allowing users to receive text-based responses from visual content.",
+          "meta": "♥ 842 · 1,525,286 downloads",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-06T11:18:01.617Z",
+            "metadata": {
+              "popularity": 842,
+              "engagementCount": 1525286,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 675,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+          "url": "https://huggingface.co/papers/2609.35751",
+          "summary": "The Foil method, which combines the looped transformer architecture with a mixture-of-experts approach, enables more efficient use of model parameters. This technique increases the processing capacity of fixed-size models by iterating expert layers.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.35751",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35751",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/SR-A-W/how-to-loop-moe",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "SoK: Semantic Decision Engines in Network Control Loops",
+          "url": "https://huggingface.co/papers/2610.06425",
+          "summary": "Semantic decision engines used in network control loops contain significant inconsistencies regarding compliance with time constraints and the production of verifiable results. Among the 139 academic study families examined, the number of those that support claimed performance metrics with measurements remains quite limited.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.06425",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06425",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/SoK-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Intent Interpretation at RIC Timescales: Jev Decision Models versus Large Language Models in 6G Open RAN",
+          "url": "https://huggingface.co/papers/2609.23136",
+          "summary": "A performance comparison is being conducted between decision models used for intent-based management in 6G Open Radio Access Networks (Open RAN) and large language models (LLM). The research analyzes the effects of the latency created by large language models when converting intents into policy texts on network control loops and radio performance.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.23136",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23136",
+                "publishedAt": "2026-10-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/6G-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "What Matters for Latent Reasoning with Flow Matching",
+          "url": "https://huggingface.co/papers/2610.06666",
+          "summary": "Latent reasoning via flow matching allows large language models (LLM) to perform their thought processes in a continuous space. This approach requires the chain of thought to be efficient, explainable, and diverse, while ensuring the model only outputs the final answer as text.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.06666",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06666",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "UndoBench: Separating Task Competence from Recovery Capability in Tool-Using AI Agents",
+          "url": "https://huggingface.co/papers/2610.05622",
+          "summary": "UndoBench is a new benchmark that distinguishes between the core task success and error recovery capabilities of AI agents that use tools. It aims to measure the ability of agents to correct operational errors across 36 workflows and error scenarios in eight different enterprise domains.",
+          "meta": "4 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.05622",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05622",
+                "publishedAt": "2026-10-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/tradertanmay/undobench",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Email Self Hosters - what are you using?",
+          "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+          "summary": "Users prefer lightweight and configurable mail server software like Maddy to manage their own email servers. In this process, connection delays and delivery issues experienced, especially with mobile clients, constitute the primary technical challenges for those who self-host.",
+          "meta": "20 points · 23 comments",
+          "snapshot": {
+            "sourceId": "rwloew",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 23,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+                  "popularity": 20,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ask",
+                  "email"
+                ],
+                "createdAt": "2026-10-06T03:09:53.070-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+              "popularity": 20,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "Async Rust: Where does the scheduler live?",
+          "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+          "summary": "In the asynchronous Rust programming language, the positioning of the scheduler structure that manages the execution of tasks within the runtime is examined. The article explains the technical architecture of these mechanisms that execute concurrent operations and their effects on resource management.",
+          "meta": "45 points · 13 comments",
+          "snapshot": {
+            "sourceId": "okk4bg",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 45,
+              "engagementCount": 13,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+                  "popularity": 45,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-10-05T13:31:29.400-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+              "popularity": 45,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Gleam doesn't compile to Erlang source anymore",
+          "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+          "summary": "Gleam now compiles its code directly to Erlang bytecode instead of converting it to Erlang source code. This change accelerates compilation processes while offering developers a more performant runtime environment.",
+          "meta": "107 points · 13 comments",
+          "snapshot": {
+            "sourceId": "2svplr",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 107,
+              "engagementCount": 13,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
+                  "popularity": 107,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compilers",
+                  "erlang",
+                  "gleam"
+                ],
+                "createdAt": "2026-10-05T12:29:17.719-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
+              "popularity": 107,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Executable program files specifically prepared for a particular operating system or processor type."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "The process of taking a finished product apart to understand how it works and decipher its operating logic."
+    },
+    {
+      "term": "GPU",
+      "explanation": "A powerful processor unit used to accelerate image processing and complex mathematical calculations."
+    },
+    {
+      "term": "BLAS",
+      "explanation": "A fundamental library that enables computers to perform complex numerical operations such as matrices and vectors very quickly."
+    },
+    {
+      "term": "kernels",
+      "explanation": "The most fundamental core component of an operating system that manages communication between hardware and software."
+    },
+    {
+      "term": "Web Search API",
+      "explanation": "A connection tool that allows software to search the internet and automatically retrieve results."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "Sharing the trained internal parameters of an artificial intelligence model so that anyone can download and use them."
+    }
+  ]
+}

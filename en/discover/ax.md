@@ -2,7 +2,7 @@
 
 Developed by Google, Ax is an open-source orchestration runtime for artificial intelligence agents. Written in Go, this infrastructure facilitates the management and execution of complex agentic workflows.
 
-- ★ 12,083
+- ★ 13,086
 - GitHub Trending · 2026-09-23
 
 ## What you get

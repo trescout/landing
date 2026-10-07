@@ -33,6 +33,7 @@ They generally run within a browser or through a translation layer, which can so
 - [Tinycast](/en/discover/tinycast/)
 - [Stitch Skills](/en/discover/stitch-skills/)
 - [Agent Native](/en/discover/agent-native/)
+- [REA](/en/discover/rea/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/native/

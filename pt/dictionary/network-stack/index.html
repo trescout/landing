@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Network Stack? · Glossário · TreScout</title>
-<meta name="description" content="É o conjunto de camadas de software necessárias para que um computador se conecte à internet e troque dados.">
+<meta name="description" content="Pilha de rede é o conjunto de camadas de driver de hardware, kernel e protocolo de espaço do usuário que permitem que um sistema operacional ou hardware tr">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/network-stack/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/network-stack/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/network-stack/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/network-stack.md">
 <meta property="og:title" content="O que é Network Stack?">
-<meta property="og:description" content="É o conjunto de camadas de software necessárias para que um computador se conecte à internet e troque dados.">
+<meta property="og:description" content="Pilha de rede é o conjunto de camadas de driver de hardware, kernel e protocolo de espaço do usuário que permitem que um sistema operacional ou hardware tr">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/network-stack/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Network Stack?">
-<meta name="twitter:description" content="É o conjunto de camadas de software necessárias para que um computador se conecte à internet e troque dados.">
+<meta name="twitter:description" content="Pilha de rede é o conjunto de camadas de driver de hardware, kernel e protocolo de espaço do usuário que permitem que um sistema operacional ou hardware tr">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Network Stack",
-  "description": "É o conjunto de camadas de software necessárias para que um computador se conecte à internet e troque dados.",
+  "description": "Pilha de rede é o conjunto de camadas de driver de hardware, kernel e protocolo de espaço do usuário que permitem que um sistema operacional ou hardware transmita, roteie e receba pacotes de dados pela rede.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/network-stack/",
   "inDefinedTermSet": {
@@ -55,16 +55,22 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-12">Última atualização: 12 de setembro de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-19">Última atualização: 19 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Network Stack</span>?</h1>
-<p class="disc-lead">É o conjunto de camadas de software necessárias para que um computador se conecte à internet e troque dados.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Quando você envia dados pela internet, eles não vão em uma única etapa. A pilha de rede (network stack) é o conjunto de regras de software que gerencia todo o processo, desde o empacotamento dos dados até a sua passagem pelo cabo e a remontagem no destino. Essas camadas formam a ponte entre o hardware e os aplicativos que você utiliza.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> As etapas de escrever um envelope, postá-lo, carregá-lo em um caminhão e entregá-lo ao enviar uma carta são como uma pilha de rede.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Seu sistema operacional executa essas camadas automaticamente em segundo plano assim que você se conecta à internet; você apenas abre o navegador.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>Está presente como um componente fundamental em servidores, computadores pessoais e roteadores de rede.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>É o mesmo conceito que networking stack.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Sou eu quem gerencia essas camadas?</p><p class="dict-faq-a">Não, seu sistema operacional e os drivers de rede gerenciam esse processo para você.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Por que isso é importante?</p><p class="dict-faq-a">Se uma dessas camadas funcionar incorretamente, sua conexão com a internet será interrompida ou você sofrerá perda de dados.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/vpn/">VPN</a><a href="/pt/dictionary/api/">API</a><a href="/pt/dictionary/packet-fragmentation/">Packet Fragmentation</a></div></section>
+<p class="disc-lead">Pilha de rede é o conjunto de camadas de driver de hardware, kernel e protocolo de espaço do usuário que permitem que um sistema operacional ou hardware transmita, roteie e receba pacotes de dados pela rede.</p>
+<section class="disc-sec"><h2>Arquitetura da Camada 1: OSI Camada 7 vs TCP/IP Camada 4</h2><p>Na comunicação em rede, o modelo OSI de 7 camadas definido pela ISO é usado na teoria, e na prática o modelo TCP/IP, que forma a espinha dorsal da Internet:</p><ul><li>Camada de aplicação (L7): HTTP/HTTPS, DNS, SSH, gRPC. É o nível em que os dados são apresentados ou produzidos ao usuário.</li><li>Camada de Transporte (L4): TCP (transmissão confiável e sequencial), UDP (streaming orientado a taxas) e QUIC (HTTP/3 base). A unidade de dados do protocolo é chamada Segmento.</li><li>Camada Internet/Rede (L3): IPv4, IPv6, ICMP, BGP. Ele permite que os pacotes sejam roteados ao redor do mundo. A unidade de dados do protocolo é chamada Pacote.</li><li>Interface de Rede/Camada de Link (L2/L1): Ethernet (802.3), Wi-Fi (802.11), fibra óptica e linhas de cobre. The protocol data unit is defined as Frame.</li></ul></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É semelhante a uma operação de carga internacional: você escreve a carta (Aplicativo), coloca a carta no envelope e anexa o recibo registrado (TCP), coloca o envelope em um pacote com endereço internacional (IP), o pacote é carregado em um contêiner (Ethernet Frame) e atravessa o oceano no navio cargueiro (Linha física).</div>
+<section class="disc-sec"><h2>2. Encapsulamento de pacotes e fluxo de decodificação</h2><p>Quando um cliente envia uma solicitação ao servidor web, cada camada adiciona seu próprio cabeçalho à medida que os dados descem na pilha:</p><pre><code>[Kullanıcı Verisi: "GET / HTTP/1.1"]
+                   ↓ (Taşıma Katmanı - TCP başlığı eklenir: Portlar, Sıra No)
+[TCP Header | Payload]  --&gt; TCP Segment (MSS ~1460 bayt)
+                   ↓ (Ağ Katmanı - IP başlığı eklenir: Kaynak/Hedef IP)
+[IP Header | TCP Header | Payload]  --&gt; IP Paketi (MTU: 1500 bayt)
+                   ↓ (Veri Bağı Katmanı - Ethernet başlığı ve FCS kuyruğu eklenir)
+[Ethernet Header | IP Header | TCP Header | Payload | FCS Tail]  --&gt; Ethernet Frame</code></pre><p>Ao chegar ao servidor alvo, o processo é revertido (Descapsulação); Camada por camada, os cabeçalhos são removidos e os dados são entregues ao soquete.</p></section>
+<section class="disc-sec"><h2>3. Ciclo de vida da pilha de rede no kernel Linux</h2><ol><li>Hardware e Ring Buffer: A NIC captura o pacote e o copia via DMA para o RX Ring Buffer na RAM.</li><li>Hard IRQ e SoftIRQ (NAPI): NIC lança interrupção de hardware; O kernel pesquisa pacotes com ksoftirqd no modo NAPI para evitar bloqueio de CPU.</li><li>sk_buff (Socket Buffer): O kernel aloca a estrutura de dados sk_buff que carrega ponteiros para cada pacote.</li><li>Filtragem e roteamento: as regras do nftables são verificadas e se o pacote pertencer ao soquete local, ele é entregue à máquina de estado TCP.</li><li>Chamada de Sistema: O pacote é colocado no buffer de recebimento do soquete (recv-Q); A aplicação lê os dados com epoll_wait().</li></ol></section>
+<section class="disc-sec"><h2>4. Kernel Bypass e rede de próxima geração: eBPF/XDP e DPDK</h2><ul><li>eBPF e XDP (eXpress Data Path): O pacote é filtrado na camada do driver da placa de rede antes que o sk_buff seja alocado; É aqui que gigantes como a Cloudflare reduzem os ataques DDoS sem sobrecarregar o núcleo.</li><li>DPDK (Data Plane Development Kit): Ignora completamente o kernel; A aplicação no espaço do usuário acessa diretamente a memória da placa de rede sem nenhuma cópia.</li><li>QUIC/HTTP/3: Em vez do TCP central na camada de transporte, um protocolo criptografado baseado em UDP que é executado no espaço do usuário e supera o bloqueio Head-of-Line foi trocado.</li></ul></section>
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que significa pilha de rede, qual é o seu equivalente turco?</p><p class="dict-faq-a">É chamado de &quot;pilha de rede&quot; ou &quot;pilha de protocolo&quot; em turco. É uma hierarquia de regras sobrepostas de hardware e software que permitem que um computador se comunique através de uma rede.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Onde está a principal diferença entre TCP e UDP na pilha de rede?</p><p class="dict-faq-a">Está localizado na camada de transmissão (Camada de Transporte/L4). O TCP garante que os pacotes cheguem completamente e em ordem com um mecanismo de confirmação (ACK); O UDP, por outro lado, envia pacotes na velocidade mais alta sem esperar confirmação.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que é MTU (Unidade Máxima de Transmissão)?</p><p class="dict-faq-a">É o maior tamanho de pacote que uma interface de rede pode transportar em um único quadro sem fragmentação. O valor MTU para Ethernet padrão é 1.500 bytes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Por que a arquitetura Kernel Bypass é usada?</p><p class="dict-faq-a">Eliminação dos custos de interrupção e cópia de memória do kernel Linux em volumes de dados extremamente altos, como 100 Gbps; É usado com DPDK e eBPF/XDP para processar pacotes diretamente no nível de hardware com latência zero.</p></div></div></section>
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/vpn/">VPN</a><a href="/pt/dictionary/runtime/">Runtime</a><a href="/pt/dictionary/memory-management/">Memory Management</a><a href="/pt/dictionary/packet-fragmentation/">Packet Fragmentation</a><a href="/pt/dictionary/api/">API</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/openflux/">OpenFlux</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="network-stack" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/network-stack/">Ler em turco →</a></p>

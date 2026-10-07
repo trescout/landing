@@ -2,7 +2,7 @@
 
 PLFM RADAR ist ein Open-Source-Phased-Array-Radarsystem, das bei 10,5 GHz (X-Band) mit elektronischer Strahllenkung und FPGA-basierten digitalen Signalverarbeitungsfunktionen arbeitet. Es erkennt und verfolgt Luft- und Bodenziele mit hoher Präzision, ohne mechanisch bewegliche Teile zu verwenden.
 
-- ★ 25.440
+- ★ 26.713
 - C++
 - GitHub Trending · 2026-08-18
 

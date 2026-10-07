@@ -1,57 +1,40 @@
-# ¿Qué es un Chair?
+# ¿Qué es Chair?
 
-> Presidente del Consejo de Administración
+Chair, es la persona que dirige una junta directiva y supervisa el rumbo de la organización.
 
-**Categoría:** Dev  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+Chair en inglés significa silla. Proviene de la silla en la que se sienta la persona que dirige la reunión y, con el tiempo, se ha convertido en el nombre del cargo. Es un título neutral que no especifica género. El chair no supervisa las operaciones diarias de la empresa, sino el funcionamiento del consejo de administración y la estrategia a largo plazo.
 
-El Chair (abreviatura de Chair of the Board o Presidente del Consejo de Administración) es la persona que preside y modera el órgano de administración de una empresa u organización, velando por su buen gobierno corporativo.
-
-## Definición y etimología
-El término procede históricamente del asiento reservado para quien presidía formalmente las asambleas solemnes. En la actualidad representa un cargo neutral de vigilancia estratégica. El Chair no se involucra en la microgestión operativa de la empresa, sino que garantiza que el consejo ejerza su labor fiduciaria con integridad.
-
-## Contexto cotidiano y uso práctico
-- **Sociedades Anónimas:** Liderar las deliberaciones trimestrales y supervisar el cumplimiento estratégico.
-- **Fundaciones y ONG:** Velar por los principios fundacionales y la transparencia financiera.
-- **Ámbito Universitario:** Presidir departamentos docentes o comisiones académicas colegiadas.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Empresas: El presidente que dirige las reuniones de la junta directiva.Asociaciones: La persona que lleva a cabo los procesos de la asamblea general y la mesa directiva.Universidades: Jefe de departamento o director de cátedra.
 
 ## Profundidad técnica y arquitectura
-Responsabilidades de Gobierno Corporativo:- **Elaboración del Orden del Día:** Priorizar los temas cruciales y asignar los tiempos de discusión.
-- **Moderación de Debates:** Asegurar un entorno plural de deliberación y reflejar las minorías en acta.
-- **Control del Consejero Delegado:** Auditar y valorar periódicamente el desempeño de la alta dirección.
-- **Relación Institucional:** Mantener una interlocución fluida con accionistas y entidades reguladoras.
+Marco de funciones del presidente:
 
-Los códigos internacionales de buen gobierno recomiendan separar las figuras del Presidente (Chair) y del Consejero Delegado (CEO) para garantizar un control directivo transparente y objetivo.
+## Cosas frecuentemente mezcladas
+Se puede confundir con el CEO. El CEO dirige la empresa, mientras que el presidente (chair) dirige la junta que supervisa la empresa. Uno está al frente de la ejecución y el otro al frente de la supervisión.
 
-## Suele confundirse con
-Suele confundirse con el CEO (Consejero Delegado o Director General). El CEO dirige las operaciones del negocio; el Chair lidera el consejo que supervisa, apoya y evalúa al CEO. Uno representa la acción ejecutiva, el otro la supervisión fiduciaria.
-
-## Perspectivas interdisciplinares
-- **Tribunal de Justicia:** El magistrado presidente que vela por el orden y el procedimiento.
-- **Cámara Legislativa:** El presidente del parlamento que modera los turnos de intervención.
-- **Mesa Redonda:** El moderador que concede la palabra con objetividad e imparcialidad.
-
-## Por analogía
-Actúa de forma similar al juez que preside una sala judicial: modera las intervenciones de las partes, exige el respeto a las normas procesales y garantiza la validez de los acuerdos adoptados.
+## Uso en diferentes disciplinas
+Tribunal: El juez que preside la audiencia.Asamblea: El vicepresidente que preside la sesión.Panel: El moderador que concede la palabra a los oradores.
 
 ## Preguntas frecuentes
+**¿El presidente gestiona los asuntos diarios de la empresa?**
+Generalmente no. Las operaciones diarias están a cargo del CEO y su equipo. El presidente se ocupa del funcionamiento de la junta y de la supervisión estratégica.
 
-**¿Gestiona el Chair el día a día operativo de la compañía?**  
-No. La gestión empresarial cotidiana corresponde al CEO y a su comité de dirección. El Chair centra sus esfuerzos en la supervisión estratégica.
+**¿Pueden el presidente y el CEO ser la misma persona?**
+Legalmente es posible en algunos países, pero los principios de gobierno corporativo sugieren su separación. La fusión debilita la supervisión.
 
-**¿Pueden coincidir los cargos de Chair y CEO en la misma persona?**  
-Legalmente es admisible en diversos ordenamientos jurídicos, pero los estándares éticos aconsejan deslindar ambas funciones.
+**¿Cómo se elige al presidente?**
+Generalmente es elegido por la junta de entre sus miembros. La duración del mandato se especifica en los estatutos.
 
-**¿Cómo se designa al Chair?**  
-Es votado y nombrado por los propios consejeros integrantes del consejo de administración según fijen los estatutos.
+**¿Es necesario un presidente en una empresa pequeña?**
+Si hay una junta directiva, también hay un presidente. En las empresas pequeñas de un solo socio, este rol generalmente lo ocupa el socio y no se cubre por separado.
 
-**¿Precisa una startup en fase semilla de un Chair externo?**  
-Inicialmente el fundador asume la coordinación; la incorporación de un Chair independiente suele asociarse a la entrada de inversores institucionales.
 
 ## Términos relacionados
 - [CEO](/es/dictionary/ceo/)
-- [Gestión de Proyectos](/es/dictionary/project-management/)
-- [Operaciones de Equipos de IA](/es/dictionary/ai-team-operations/)
+- [Project Management](/es/dictionary/project-management/)
+- [AI Team Operations](/es/dictionary/ai-team-operations/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/chair/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/chair/

@@ -37,9 +37,9 @@ Home mesh kits are typically installed in minutes with a mobile app. Corporate o
 - [Bitchat](/en/discover/bitchat/)
 - [Meshery](/en/discover/meshery/)
 - [Meshoptimizer](/en/discover/meshoptimizer/)
+- [Modly](/en/discover/modly/)
 - [Tailcat](/en/discover/tailcat/)
 - [Bitchat Android](/en/discover/bitchat-android/)
-- [Modly](/en/discover/modly/)
 - [Spirula Studio](/en/discover/spirula-studio/)
 
 ---

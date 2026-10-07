@@ -2,7 +2,7 @@
 
 OpenMAIC, desarrollado por investigadores de la Universidad de Tsinghua, reúne múltiples agentes de inteligencia artificial en los roles de profesor, estudiante y observador en un entorno de aula interactivo.
 
-- ★ 39.351
+- ★ 39.969
 - TypeScript
 - GitHub Trending · 2026-08-31
 

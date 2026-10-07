@@ -40,6 +40,7 @@ Se rompe cuando cambia la interfaz. Se escribe de forma selectiva y resistente.
 
 ## Herramientas relacionadas
 - [Cypress](/es/discover/cypress/)
+- [E2e](/es/discover/e2e/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/end-to-end-testing/

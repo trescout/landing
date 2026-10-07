@@ -1,57 +1,40 @@
-# Qu'est-ce qu'un Chair ?
+# Qu'est-ce que Chair ?
 
-> Président du Conseil d'Administration
+Un chair (en français, président ou présidente) est la personne qui dirige un conseil d'administration et supervise la direction d'une institution.
 
-**Catégorie:** Dev  
-**Dernière mise à jour:** 2026-09-22
+## Définition et origine du mot
+Chair signifie chaise en anglais. Le terme vient du siège occupé par la personne qui dirige la réunion et est devenu avec le temps le nom de la fonction. C'est un titre neutre qui n'indique pas le genre. Le chair ne supervise pas les affaires quotidiennes de l'entreprise, mais le fonctionnement du conseil d'administration et la stratégie à long terme.
 
-Le Chair (ou Président du conseil d'administration) est la personne qui dirige le conseil d'administration d'une entreprise et veille à sa stratégie globale et à sa conformité légale.
-
-## Définition et étymologie
-Le terme découle historiquement du siège d'honneur (la 'chaise') occupé par celui qui présidait les assemblées officielles. Aujourd'hui, il désigne une fonction neutre de haute surveillance institutionnelle. Le Chair ne gère pas les opérations courantes, mais s'assure que le conseil accomplit son devoir envers les actionnaires et les parties prenantes.
-
-## Usage quotidien et contexte pratique
-- **Grandes entreprises :** Conduire les délibérations du conseil et superviser la direction générale.
-- **Organisations à but non lucratif :** Garantir le respect des statuts et l'affectation éthique des fonds.
-- **Milieu académique :** Présider un département universitaire ou une commission de recherche.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Entreprises : Le président qui dirige les réunions du conseil d'administration.Associations: La personne qui exécute les processus d'assemblée générale et de conseil.Universités : Chef de département ou de département.
 
 ## Profondeur technique et architecture
-Missions principales de gouvernance :- **Fixation de l'ordre du jour :** Hiérarchiser les enjeux stratégiques et rythmer les sessions du conseil.
-- **Qualité des délibérations :** Favoriser un débat contradictoire équilibré et formaliser les votes.
-- **Contrôle du directeur général :** Évaluer régulièrement le travail du CEO pour le compte du conseil.
-- **Dialogue avec les actionnaires :** Servir de point d'ancrage institutionnel auprès des régulateurs.
+Fonctions du président :
 
-Les principes modernes de gouvernance recommandent vivement de dissocier les fonctions de Président (Chair) et de Directeur Général (CEO) afin d'éviter toute complaisance managériale.
+## Choses fréquemment mélangées
+Il peut être confondu avec le CEO. Le CEO dirige l'entreprise, tandis que le président (chair) dirige le conseil d'administration qui gère l'entreprise. L'un est à la tête de l'exécutif, l'autre à la tête du contrôle.
 
-## Souvent confondu avec
-Souvent confondu avec le CEO (Directeur Général). Le CEO pilote l'entreprise au quotidien ; le Chair pilote le conseil qui surveille et évalue le CEO. L'un est à la tête de l'action, l'autre à la tête du contrôle.
+## Utilisation dans différentes disciplines
+Tribunal : Le juge qui dirige l'audience.Assemblée : Le vice-président qui dirige la séance.Panneau: Le modérateur qui donne la parole aux intervenants.
 
-## Perspectives interdisciplinaires
-- **Tribunal :** Le juge qui dirige l'audience et garantit le respect de la procédure.
-- **Parlement :** Le président d'assemblée organisant le temps de parole des députés.
-- **Colloque :** Le modérateur distribuant la parole pour un échange structuré.
+## Foire aux questions
+**Le président gère-t-il les affaires quotidiennes de l’entreprise ?**
+Généralement non. Les affaires quotidiennes relèvent du CEO et de son équipe. Le président (chair) s'occupe du fonctionnement du conseil et de la supervision stratégique.
 
-## Par analogie
-Comme un magistrat président dans une cour de justice : il arbitre les débats, fait respecter les statuts et s'assure que les jugements sont pris dans les règles.
+**Le président (chair) et le CEO peuvent-ils être la même personne ?**
+C'est légalement possible dans certains pays, mais les principes de gouvernance d'entreprise recommandent leur séparation. Cette fusion affaiblit le contrôle.
 
-## Questions fréquentes
+**Comment choisir un président ?**
+Il est généralement élu par le conseil parmi ses membres. La durée de son mandat est stipulée dans les statuts.
 
-**Le Chair gère-t-il les affaires courantes de l'entreprise ?**  
-Généralement non. La gestion opérationnelle relève du CEO. Le Chair se consacre à l'animation du conseil et au cap stratégique.
+**Un président est-il nécessaire dans une petite entreprise ?**
+S'il y a un conseil d'administration, il y a aussi un président. Dans les petites entreprises à associé unique, ce rôle est généralement tenu par l'associé et n'est pas pourvu séparément.
 
-**Le Chair et le CEO peuvent-ils être la même personne ?**  
-Juridiquement possible dans certains pays (PDG en France), mais les bonnes pratiques d'entreprise conseillent la séparation des pouvoirs.
-
-**Comment le Chair est-il désigné ?**  
-Il est élu par les membres du conseil d'administration conformément aux statuts de la société.
-
-**Une jeune startup a-t-elle besoin d'un Chair dédié ?**  
-Au départ, le fondateur cumule souvent les casquettes ; la nomination d'un Chair externe indépendant intervient lors des levées de fonds majeures.
 
 ## Termes liés
 - [CEO](/fr/dictionary/ceo/)
-- [Gestion de projet](/fr/dictionary/project-management/)
-- [Opérations d'équipe IA](/fr/dictionary/ai-team-operations/)
+- [Project Management](/fr/dictionary/project-management/)
+- [AI Team Operations](/fr/dictionary/ai-team-operations/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/chair/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/chair/

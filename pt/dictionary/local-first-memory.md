@@ -1,54 +1,40 @@
 # O que é Local-first Memory?
 
-> Arquitetura com Prioridade ao Armazenamento Local
+A memória local é a abordagem em que os dados permanecem no dispositivo.
 
-**Categoria:** Data  
-**Última atualização:** 2026-09-22
+## Definição e origem da palavra
+"Local primeiro" significa local primeiro. É baseado no dispositivo e não na nuvem. Funciona de forma interrompida, a privacidade é protegida. Observe que os aplicativos e a IA local são deste pedido.
 
-Local-first memory (memória de prioridade local) é um modelo de arquitetura de software onde os dados e o estado principal residem diretamente no dispositivo do usuário, ficando a nuvem restrita a um papel secundário de replicação.
+## Como conhecer e usar no dia a dia?
+Notas: Caderno off-line.Obrigação: Lista local.Mídia: Arquivo do dispositivo.
 
-## Definição e etimologia
-Ao contrário dos aplicativos web clássicos que travam quando a conexão cai, a arquitetura local-first assegura tempo de resposta instantâneo e total autonomia offline. A fonte de verdade é a base de dados residente no próprio aparelho.
+## Profundidade Técnica e Arquitetura
+Layout:
 
-## Contexto cotidiano e uso prático
-- **Gestão de Conhecimento e Notas:** Aplicativos como Obsidian e Logseq mantendo arquivos Markdown diretamente no disco rígido.
-- **Ferramentas de Desenho Colaborativo:** Quadros interativos que operam sem internet e reconciliam edições automaticamente.
-- **Memória de Agentes de IA:** Bancos vetoriais salvos localmente para garantir sigilo sobre dados de contexto pessoal.
+## Coisas frequentemente misturadas
+É considerado um modo offline. Essa é a situação temporária, esta é a ordem de propriedade. Os dados são seus, não alugados.
 
-## Profundidade técnica e arquitetura
-Componentes Técnicos Principais :- **Persistência Local:** Mecanismos SQLite e IndexedDB executando leituras e gravações com latência zero.
-- **Estruturas CRDT:** Algoritmos matemáticos (Yjs, Automerge) que combinam alterações simultâneas de vários dispositivos sem conflitos de sobrescrita.
-- **Sincronização Criptografada:** Protocolos de transporte leves sobre WebRTC ou WebSockets transmitindo apenas deltas encriptados.
+## Use em diferentes disciplinas
+Sorteio: Gaveta de casa trancada.Cofre: Confiança pessoal.Bolsa: Valor de bolso.
 
-## Costuma ser confundido com
-Frequentemente confundida com simples cache offline. O cache é um paliativo temporário cujo dono é o servidor; na arquitetura local-first, o proprietário e mestre dos dados é o dispositivo do próprio usuário.
+## Perguntas Frequentes
+**O que acontece se o dispositivo quebrar?**
+Os dados desapareceram. O backup é mantido em local separado, a nuvem não é considerada automática.
 
-## Perspectivas interdisciplinares
-- **Economia:** Guardar notas em um cofre doméstico vs manter dinheiro exclusivamente em conta digital.
-- **Artes:** Escrever em um diário encadernado vs redigir em um editor online na nuvem.
-- **Comércio:** Manter mercadorias em estoque próprio vs depender exclusivamente de entrega sob demanda remota.
+**Que tal síncrono?**
+Ele se funde sem conflitos com o CRDT. Assim que os dispositivos se encontram, eles sincronizam.
 
-## Por analogia
-É como guardar seus documentos em uma gaveta trancada na sua própria casa em vez de em um cofre bancário: você os acessa a qualquer instante sem depender de autorizações externas.
+**Quando nuvem?**
+Quando o compartilhamento e o backup são necessários. Local é a base, a nuvem é a cópia.
 
-## Perguntas frequentes
+**É seguro?**
+Sim, com criptografia de dispositivo. Bloquear contra dispositivo perdido é obrigatório.
 
-**Qual o maior atrativo da arquitetura local-first?**  
-Velocidade imediata sem engasgos de rede, funcionamento 100% offline e privacidade rigorosa.
-
-**Como múltiplos usuários trabalham juntos no mesmo arquivo?**  
-Através de CRDTs (Tipos de Dados Replicados sem Conflito), que unificam alterações com consistência matemática.
-
-**Existe sincronização em nuvem nesse modelo?**  
-Sim, mas os servidores atuam meramente como correios encriptados que retransmitem atualizações entre dispositivos.
-
-**Quais tecnologias viabilizam essa arquitetura?**  
-SQLite (WASM), RxDB, PGlite, ElectricSQL e bibliotecas de CRDT como Yjs e Automerge.
 
 ## Termos relacionados
-- [Nuvem Pessoal](/pt/dictionary/personal-cloud/)
-- [Runtime](/pt/dictionary/runtime/)
-- [Privacidade Digital](/pt/dictionary/digital-privacy/)
+- [Local-first](/pt/dictionary/local-first/)
+- [Memory System](/pt/dictionary/memory-system/)
+- [Self-hosting](/pt/dictionary/self-hosting/)
 
 ---
-Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/local-first-memory/
+Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/local-first-memory/

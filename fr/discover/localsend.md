@@ -2,7 +2,7 @@
 
 Partagez des fichiers et des messages entre des appareils proches sur un réseau local. LocalSend fonctionne sans connexion Internet ni serveur tiers et utilise le chiffrement HTTPS.
 
-- ★ 88 882
+- ★ 93 329
 - GitHub Trending · 2026-08-13
 
 ## Que fait cet outil ?

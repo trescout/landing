@@ -1,34 +1,40 @@
 # Was ist Phased Array Radar?
 
-Es handelt sich um ein fortschrittliches Radarsystem, das Ziele verfolgt, indem es ihre Richtung mit elektronischen Signalen ändert, ohne bewegliche Teile zu verwenden.
+Ein Phased-Array-Radar ist ein stationäres Radarsystem, das seinen Strahl elektronisch steuert.
 
-## Definition
-Während herkömmliche Radargeräte durch physisches Drehen der Antenne scannen, verwendet diese Technologie ein festes Antennenarray. Es lenkt Radarstrahlen in verschiedene Richtungen ab, indem es das Timing elektronischer Signale ändert. Auf diese Weise ist eine wesentlich schnellere und präzisere Verfolgung möglich.
+## Definition und Wortherkunft
+Eine klassische Radarantenne scannt durch Drehung, dieses System ist stationär: Das Timing (die Phase) des Signals, das zu jedem Sender im Array gelangt, wird angepasst, sodass sich die Wellen in die gewünschte Richtung vereinen. Der Strahl ändert seine Richtung in Sekundenbruchteilen, es gibt keine mechanischen Teile.
 
-## So funktioniert es
-Die Phase (Zeitpunkt) des Signals zu jedem Sender im Antennenarray wird präzise eingestellt. Diese Phasenunterschiede ermöglichen die Konvergenz von Radiowellen in eine bestimmte Richtung.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Verteidigung: Luftraumüberwachung.Flugverkehr: Anflugkontrolle.Autonomes Fahren: Umgebungssensoren.Meteorologie: Niederschlagsverfolgung.
 
-## Wo es eingesetzt wird
-Es wird in militärischen Verteidigungssystemen, der Flugsicherung und Sensoren für moderne autonome Fahrzeuge eingesetzt.
+## Technische Tiefe und Architektur
+Teile:
 
-## Häufig verwechselt mit
-Es kann mit herkömmlichen Radargeräten mit rotierenden Antennen verwechselt werden; Der größte Unterschied besteht darin, dass es keine beweglichen Teile enthält.
+## Häufig gemischte Dinge
+Wird oft für ein klassisches Radar mit rotierender Antenne gehalten. Beim klassischen dreht sich der Spiegel, hier dreht sich das Signal. Es gibt keine beweglichen Teile, das Scannen erfolgt elektronisch.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Auge: Fokuswechsel ohne Kopfbewegung.Lautsprecher: Ein Array, das den Schall in eine Richtung lenkt.Taschenlampe: Steuerung des Strahls ohne mechanische Drehung.
+
+## Häufig gestellte Fragen
 **Warum ist es vorteilhafter?**
-Es reagiert viel schneller und das Risiko eines mechanischen Versagens ist gering.
+Reagiert schnell, verfolgt viele Ziele, das Risiko mechanischer Ausfälle ist gering.
 
 **Ist es nur militärisch?**
-Nein, es ist auch bei Wettervorhersagen und autonomen Fahrzeugtechnologien üblich.
+Nein. Es wird auch in der Luftfahrt, Meteorologie und bei autonomen Fahrzeugen eingesetzt.
+
+**Wie hoch sind die Kosten?**
+Im Vergleich zu klassischem Radar ist es hoch. Es fallen Kosten für das Array und den Prozessor an, die bei kritischen Aufgaben in Kauf genommen werden.
+
+**Ist die zivile Nutzung verbreitet?**
+Sie nimmt zu. Mit sinkenden Kosten nehmen die Installationen an Flughäfen und in der Meteorologie zu.
 
 
 ## Verwandte Begriffe
 - [Autonomous Robotics](/de/dictionary/autonomous-robotics/)
 - [Physical AI](/de/dictionary/physical-ai/)
 - [Driver Assistance System](/de/dictionary/driver-assistance-system/)
-
-## Verwandte Werkzeuge
-- [PLFM RADAR](/de/discover/plfm-radar/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/phased-array-radar/

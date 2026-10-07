@@ -36,8 +36,8 @@ Yes; Recently developed new generation neural network architectures such as Mamb
 - [Context](/en/dictionary/context/)
 
 ## Related tools
-- [Minimind](/en/discover/minimind/)
 - [AI Engineering from Scratch](/en/discover/ai-engineering-from-scratch/)
+- [Minimind](/en/discover/minimind/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/tokenizer/

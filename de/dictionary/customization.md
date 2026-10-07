@@ -1,57 +1,40 @@
 # Was ist Customization?
 
-> Software-Anpassung / Customizing
-
-**Kategorie:** Dev  
-**Letzte Aktualisierung:** 2026-09-22
-
-Customization (im Deutschen als Anpassung oder Customizing bezeichnet) beschreibt das gezielte Modifizieren von Software, Oberflächen und Prozessen an individuelle Anforderungen.
+Customization (auf Türkisch Özelleştirme) bedeutet, ein Standardprodukt an Ihre eigenen Bedürfnisse anzupassen.
 
 ## Definition und Wortherkunft
-Customizing bedeutet, ein Standardprodukt auf spezifische Nutzerwünsche zuzuschneiden. Dies reicht von optischen Anpassungen über anwendungsspezifische Workflows bis hin zu maßgeschneiderten Schnittstellenanbindungen. Das Ziel: Die Software dient dem Menschen, nicht umgekehrt.
+Anpassen bedeutet, es nach Wunsch anzupassen. Das reicht von der Benutzeroberfläche bis zur Workflow-Regel. Das Ziel ist, dass das Produkt zu Ihnen passt, nicht Sie zum Produkt. Die Schneider-Metapher ist treffend: Man kauft einen Anzug von der Stange und lässt ihn auf die eigene Figur anpassen.
 
-## Alltägliche Anwendung und Praxis
-- **Benutzeroberflächen:** Workspace-Aufteilung, Themes, Schnellzugriffe und Tastatur-Shortcuts.
-- **Unternehmenssysteme:** Benutzerdefinierte Datenbankfelder, Freigabeprozesse und Masken in ERP/CRM-Systemen.
-- **Entwicklertools:** Installation spezifischer Erweiterungen und Formatierungsregeln im Code-Editor.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Theme: Dunkelmodus und Farbauswahl.Tastenkombination: Tastenbelegungen.Institutionell: Freigabe-Workflow und Felddefinitionen.
 
 ## Technische Tiefe und Architektur
-Architektonische Umsetzungsmethoden:- **Deklarative Konfiguration:** JSON- oder YAML-basierte Regelwerke ohne Eingriff in den Programmiercode.
-- **Plugin- und Hook-Architektur:** Saubere Schnittstellen für Erweiterungsmodule in isolierten Umgebungen.
-- **Skriptbasierte Erweiterung:** Ausführung benutzerdefinierter Skripte über Webhooks und Ereignis-Trigger.
+Anpassungsebenen, von günstig bis teuer:
 
-Professionelle IT-Architekturen entkoppeln Anpassungen über Schnittstellen (APIs), um problemlose Software-Updates des Kernsystems zu ermöglichen.
+## Häufig gemischte Dinge
+Ähnlich wie Personalization. Der Unterschied ist folgender: Bei Customization passen Sie das System an, bei Personalization beobachtet das System Sie und passt sich selbst an. Das eine ist Handarbeit, das andere automatisiert.
 
-## Häufig verwechselt mit
-Wird häufig mit einfachen Grundeinstellungen verwechselt. Einen Benachrichtigungston auszuwählen ist Standardkonfiguration; Customizing verändert logische Abläufe und Arbeitsweisen.
+## Einsatz in verschiedenen Disziplinen
+Schneider: Anpassung von Konfektionskleidung an den Körper.Möbel: Einen Schrank nach Maß anfertigen lassen.Automobil: Auswahl des Ausstattungspakets.
 
-## Interdisziplinäre Perspektiven
-- **Maßschneiderei:** Einen Anzug von der Stange millimetergenau an den Körper anpassen lassen.
-- **Motorsport:** Fahrwerk und Schaltung individuell auf Fahrstil und Rennstrecke abstimmen.
-- **Arbeitsplatz:** Schreibtisch und Monitore ergonomisch auf Körpergröße und Haltung einstellen.
+## Häufig gestellte Fragen
+**Kann jede Software individuell angepasst werden?**
+Nein. Produkte in einer geschlossenen Schachtel bieten keine Einstellmöglichkeiten. Sie müssen vor dem Kauf nach den Anpassungsebenen fragen.
 
-## Als Analogie
-Vergleichbar mit dem Kauf eines Markenanzugs von der Stange, den ein Schneidermeister an Ärmeln und Taille nachbessert, damit er wie maßgeschneidert sitzt.
+**Worin besteht der Unterschied zu Personalization?**
+Bei Customization nehmen Sie die Einstellungen selbst vor, bei Personalization beobachtet das System Sie. Das eine ist Handarbeit, das andere automatisiert.
 
-## Häufige Fragen
+**Wo liegt die Grenze?**
+Das ist der Punkt, an dem der Kern unaktualisierbar wird. Ein übermäßig angepasstes Produkt kann nicht erneuert werden und bleibt stecken.
 
-**Was ist der Unterschied zwischen Konfiguration und Customizing?**  
-Konfigurieren bedeutet das Ein- oder Ausschalten vorhandener Optionen; Customizing erschafft neue, maßgeschneiderte Logiken und Eingabemasken.
+**Macht ein Update die Anpassung zunichte?**
+Auf der Plugin-Ebene meistens nein, beim Forking meistens ja. Deshalb wählt man die minimal ausreichende Ebene.
 
-**Erhöht starkes Customizing die Wartungskosten?**  
-Ja. Stark individualisierte Systeme erfordern bei System-Updates erhöhten Testaufwand, weshalb standardisierte Schnittstellen unverzichtbar sind.
-
-**Wie wird die Stabilität gesichert?**  
-Indem Anpassungen über isolierte Plugin-Laufzeiten und abwärtskompatible Programmierschnittstellen angebunden werden.
-
-**Wann sollte man auf Standardabläufe setzen?**  
-Wenn die Bordmittel des Systems die Kernanforderungen abdecken, um unnötige Entwicklungs- und Pflegekosten zu vermeiden.
 
 ## Verwandte Begriffe
-- [Erweiterbarkeit](/de/dictionary/extensibility/)
 - [Plugin](/de/dictionary/plugin/)
-- [Konfiguration](/de/dictionary/configuration/)
-- [Custom Hooks](/de/dictionary/custom-hooks/)
+- [Framework](/de/dictionary/framework/)
+- [User Experience](/de/dictionary/user-experience/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/customization/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/customization/

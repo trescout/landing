@@ -37,9 +37,9 @@ Les kits Mesh grand public s'installent généralement en quelques minutes via u
 - [Bitchat](/fr/discover/bitchat/)
 - [Meshery](/fr/discover/meshery/)
 - [Meshoptimizer](/fr/discover/meshoptimizer/)
+- [Modly](/fr/discover/modly/)
 - [Tailcat](/fr/discover/tailcat/)
 - [Bitchat Android](/fr/discover/bitchat-android/)
-- [Modly](/fr/discover/modly/)
 - [Spirula Studio](/fr/discover/spirula-studio/)
 
 ---

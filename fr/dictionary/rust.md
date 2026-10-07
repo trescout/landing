@@ -29,8 +29,8 @@ Parce que c'est très rapide et réduit considérablement les erreurs logicielle
 - [Deno](/fr/discover/deno/)
 - [BUN](/fr/discover/bun/)
 - [OpenCut](/fr/discover/opencut/)
-- [Openinterpreter](/fr/discover/openinterpreter/)
 - [Vaultwarden](/fr/discover/vaultwarden/)
+- [Openinterpreter](/fr/discover/openinterpreter/)
 - [Ladybird](/fr/discover/ladybird/)
 
 ---

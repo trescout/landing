@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Working Memory? · Glossário · TreScout</title>
-<meta name="description" content="Working memory (memória de trabalho) em inteligência artificial é a área temporária de informações mantida ativa dentro da janela de contexto do modelo durante o raciocínio e a execução de tarefas imediatas.">
+<meta name="description" content="A memória de trabalho (working memory) é a informação temporária que o modelo retém para a tarefa em questão.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/working-memory/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/working-memory/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/working-memory/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/working-memory.md">
 <meta property="og:title" content="O que é Working Memory?">
-<meta property="og:description" content="Working memory (memória de trabalho) em inteligência artificial é a área temporária de informações mantida ativa dentro da janela de contexto do modelo durante o raciocínio e a execução de tarefas imediatas.">
+<meta property="og:description" content="A memória de trabalho (working memory) é a informação temporária que o modelo retém para a tarefa em questão.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/working-memory/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,61 +27,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Working Memory?">
-<meta name="twitter:description" content="Working memory (memória de trabalho) em inteligência artificial é a área temporária de informações mantida ativa dentro da janela de contexto do modelo durante o raciocínio e a execução de tarefas imediatas.">
+<meta name="twitter:description" content="A memória de trabalho (working memory) é a informação temporária que o modelo retém para a tarefa em questão.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Working Memory",
-  "description": "Working memory (memória de trabalho) em inteligência artificial é a área temporária de informações mantida ativa dentro da janela de contexto do modelo durante o raciocínio e a execução de tarefas imediatas.",
+  "description": "A memória de trabalho (working memory) é a informação temporária que o modelo retém para a tarefa em questão.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/working-memory/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "Dicionário Técnico TreScout",
+    "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/pt/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "O que acontece quando a memória de trabalho da IA enche?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "O sistema precisa compactar os diálogos passados ou descartar mensagens antigas para não truncar a resposta."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Qual a diferença entre essa memória e o treinamento do modelo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "O treinamento gera os pesos permanentes do cérebro da IA; a memória de trabalho é apenas o texto temporário da conversa atual."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Aumentar indefinidamente a memória de trabalho tem custo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sim, o processamento da atenção cresce de forma quadrática e o modelo pode ter dificuldade para achar fatos no meio do texto."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Qual a função do KV Cache?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ele armazena os cálculos de atenção dos tokens já gerados, evitando que o modelo recalcule tudo a cada nova palavra emitida."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,17 +56,17 @@
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
 <div class="disc-top"><span class="disc-eyebrow">Glossário · AI</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
-<h1 class="disc-title">O que é Working Memory em IA?</h1>
-<p class="dict-en">Inglês: Working Memory · Etimologia: inglês arcaico weorc (trabalho) + latim memoria (lembrança)</p>
-<p class="disc-lead">Working memory (memória de trabalho) em inteligência artificial é a área temporária de informações mantida ativa dentro da janela de contexto do modelo durante o raciocínio e a execução de tarefas imediatas.</p>
-<section class="disc-sec"><h2>Definição e etimologia</h2><p>Ela atua como a bancada de trabalho do sistema: quando a tarefa termina ou a sessão é encerrada, os dados temporários são descartados. A janela de contexto é o recipiente físico, enquanto os tokens nela carregados formam o conteúdo ativo da memória operacional.</p></section>
-<section class="disc-sec"><h2>Contexto cotidiano e uso prático</h2><p>Papéis essenciais da memória de trabalho :</p><ul><li><strong>Retenção no Diálogo:</strong> Lembrar do que o usuário disse nas mensagens anteriores durante a conversa.</li><li><strong>Raciocínio Passo a Passo:</strong> Guardar deduções lógicas intermediárias em prompts de Chain-of-Thought.</li><li><strong>Uso de Ferramentas:</strong> Processar resultados brutos retornados por APIs antes de redigir a resposta final.</li></ul></section>
-<section class="disc-sec"><h2>Profundidade técnica e arquitetura</h2><p>Controle do orçamento de contexto :</p><ul><li><strong>Limites de Tokens:</strong> Em uma janela de 128 mil tokens, se o histórico consome 100 mil, restam apenas 28 mil para o raciocínio e saída.</li><li><strong>KV Cache:</strong> Mecanismo que guarda as matrizes de atenção das palavras anteriores na GPU para acelerar a geração.</li><li><strong>Descarte e Sumarização:</strong> Quando o espaço se esgota, o sistema resume mensagens antigas para abrir espaço.</li></ul></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>É comum confundir com memória de longo prazo. A de longo prazo é um banco vetorial persistente que sobrevive entre conversas; a memória de trabalho é a RAM temporária que se esvazia com o fim da execução.</p></section>
-<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p>Comparações em outros campos :</p><ul><li><strong>Matemática:</strong> O papel de rascunho usado para fazer contas durante uma prova e jogado fora depois.</li><li><strong>Marcenaria:</strong> A bancada onde ficam as ferramentas durante a montagem de um móvel.</li><li><strong>Computação:</strong> A memória cache do processador frente ao disco rígido secundário.</li></ul></section>
-<div class="dict-analogy">É como um pedaço de rascunho que usamos para fazer contas rápidas enquanto resolvemos um problema complexo; encontrada a resposta final, o rascunho perde a utilidade.</div>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que acontece quando a memória de trabalho da IA enche?</p><p class="dict-faq-a">O sistema precisa compactar os diálogos passados ou descartar mensagens antigas para não truncar a resposta.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual a diferença entre essa memória e o treinamento do modelo?</p><p class="dict-faq-a">O treinamento gera os pesos permanentes do cérebro da IA; a memória de trabalho é apenas o texto temporário da conversa atual.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Aumentar indefinidamente a memória de trabalho tem custo?</p><p class="dict-faq-a">Sim, o processamento da atenção cresce de forma quadrática e o modelo pode ter dificuldade para achar fatos no meio do texto.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual a função do KV Cache?</p><p class="dict-faq-a">Ele armazena os cálculos de atenção dos tokens já gerados, evitando que o modelo recalcule tudo a cada nova palavra emitida.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/memory/">Memory</a><a href="/pt/dictionary/context-window/">Context Window</a></div></section>
+<h1 class="disc-title">O que é <span class="disc-accent">Working Memory</span>?</h1>
+<p class="disc-lead">A memória de trabalho (working memory) é a informação temporária que o modelo retém para a tarefa em questão.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>Quando a tarefa termina ou o contexto muda, o conteúdo é limpo. O recipiente da janela de contexto é a informação ativa dentro da memória de trabalho. O histórico do chat e os resultados intermediários ficam aqui.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como notas temporárias feitas ao lado ao resolver matemática; quando o problema termina, não têm mais importância.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Chat:</strong> Lembrar de mensagens anteriores.<br><strong>Raciocínio:</strong> Manter passos intermediários.<br><strong>Veículo:</strong> Manter resultados de chamadas em espera.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Cálculo de orçamento:</p><pre><code>bağlam: 128K token
+geçmiş: 100K → kalan 28K</code></pre><p>Quando transborda, o modelo diz adeus ao antigo: poda, resumo ou deslocamento são aplicados. Diferença do RAG: o RAG traz informações de fora, a memória de trabalho mantém a informação atual. Ambos trabalham juntos.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Pensa-se que é memória de longo prazo. Esse é o perfil permanente, este é o balcão temporário. Quando a sessão fecha, este espaço é esvaziado.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Nota lateral:</strong> Rascunho descartado quando o problema termina.<br><strong>Ficar em pé:</strong> Ferramenta recolhida quando o trabalho termina.<br><strong>RAM:</strong> Área apagada quando a energia é cortada.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que acontece se encher?</p><p class="dict-faq-a">Informações antigas são esquecidas, o contexto se perde. É gerenciado com resumo e poda.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como aumentar?</p><p class="dict-faq-a">Escolhe-se um modelo com janela maior ou adiciona-se conhecimento externo com RAG.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a diferença do RAG?</p><p class="dict-faq-a">O RAG traz informações de fora, a memória mantém o momento atual. Ambos são complementares.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Esquece?</p><p class="dict-faq-a">Sim. É uma área temporária, não se espera persistência. Informações persistentes são gravadas externamente.</p></div></div></section>
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/memory/">Memory</a><a href="/pt/dictionary/context-window/">Context Window</a><a href="/pt/dictionary/long-term-memory/">Long-term Memory</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="working-memory" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/working-memory/">Ler em turco →</a></p>
 </article>

@@ -2,7 +2,7 @@
 
 Esta guía desarrollada para Claude Code analiza los procesos de transición desde el enfoque de codificación vibe a la ingeniería basada en agentes. Ofrece métodos prácticos de aplicación y mejores prácticas para aumentar la eficiencia de los agentes de inteligencia artificial en los procesos de desarrollo de software.
 
-- ★ 63.889
+- ★ 67.105
 - HTML
 - GitHub Trending · 2026-06-24
 

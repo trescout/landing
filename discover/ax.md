@@ -2,10 +2,11 @@
 
 Google tarafından geliştirilen Ax, yapay zekâ ajanları için açık kaynaklı bir orkestrasyon çalışma zamanı (runtime). Go diliyle yazılan bu altyapı, karmaşık agentik iş akışlarının yönetilmesini ve yürütülmesini kolaylaştırıyor.
 
-- ★ 12.083
+- ★ 13.086
 - GitHub Trending · 2026-09-23
 
 ## Güncelleme
+- 5 Ekim 2026: Yıldız 12.083 → 13.086, son sürüm v0.3.1 (25 Eylül 2026).
 - 27 Eylül 2026: Yıldız 11.703 → 12.083, son sürüm v0.3.1 (25 Eylül 2026).
 - 25 Eylül 2026: Yıldız 9.553 → 10.941.
 - 24 Eylül 2026: Yıldız 8.141 → 9.553.

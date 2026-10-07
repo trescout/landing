@@ -1,51 +1,40 @@
-# Was ist Telemetrie (Telemetry)?
+# Was ist Telemetry?
 
-> Englisch: Telemetry · Wortherkunft: griechisch tele (fern, weit) + metron (Maß)
-
-**Kategorie:** Dev  
-**Letzte Aktualisierung:** 2026-09-22
-
-Telemetrie (Telemetry) beschreibt die automatisierte Erfassung, Aufzeichnung und Übertragung von Zustandsdaten, Diagnoseprotokollen, Metriken und Ablaufspuren entfernter Systeme an eine zentrale Monitoring-Plattform.
+Telemetrie (Fernmessung auf Türkisch) ist die automatische Erfassung von Statusinformationen von Software und Geräten und deren Übermittlung an die Zentrale.
 
 ## Definition und Wortherkunft
-Der Begriff setzt sich aus den griechischen Wörtern tele (fern) und metron (messen) zusammen. In der Softwareentwicklung vermittelt Telemetrie Entwicklern ein klares Bild des realen Betriebsverhaltens: Welche Funktionen werden genutzt, wo treten Systemabstürze auf und an welcher Stelle stockt der Datenfluss.
+Das Wort kommt von den griechischen Wurzeln tele (fern) und metron (Maß). Anwendungen senden dem Entwickler Berichte darüber, wie die Software funktioniert: Welche Funktion wird häufig verwendet, wo stürzt die Anwendung ab. Es handelt sich um einen Datenstrom, der für den Benutzer lautlos im Hintergrund fließt.
 
-## Alltägliche Anwendung und Praxis
-Einsatzfelder der Telemetrie im Alltag:
-- **Fehlerberichte:** Automatisierte Übermittlung von Stacktraces bei unerwarteten Programmabbrüchen.- **Produktanalysen:** Messung von Nutzungsverläufen zur fundierten Priorisierung künftiger Features.- **Infrastrukturkontrolle:** Fortlaufende Erfassung von CPU-Last, Speicherauslastung und Durchsatz.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Debuggen: Automatische Erfassung von Absturzberichten.Produkturteil: Vereinfachung der weniger genutzten Schaltfläche.Leistung: Überwachung der Bootzeit von Version zu Version.
 
 ## Technische Tiefe und Architektur
-Die drei Säulen der Observability:
-- **Logs:** Zeitstempel-bezogene Ereigniszeilen über isolierte Systemaktionen.- **Metriken:** Numerische Messwerte über Zeitintervalle (z. B. Fehlerraten, Durchsatz pro Sekunde).- **Traces:** Ablaufverfolgung eines Nutzerwunsches über verteilte Microservice-Aufrufe hinweg.- **OpenTelemetry:** Offener Industriestandard für herstellerunabhängige Instrumentierung und Datenerfassung.
+Die drei Säulen der Beobachtbarkeit:
 
-## Häufig verwechselt mit
-Häufig wird Telemetrie mit reinem Logging verwechselt. Ein Log ist ein einzelner Textabschnitt; Telemetrie ist das übergeordnete Gesamtsystem zur gezielten Erfassung und Weiterleitung von Logs, Messwerten und Traces.
+## Häufig gemischte Dinge
+Es kann mit der Protokollierung verwechselt werden. Protokoll ist die einzelne Ereigniszeile. Eine Metrik ist eine numerische Zusammenfassung. Trace ist die Reise des Verlangens. Unter Telemetrie versteht man das Sammeln und Übertragen dieser drei.
 
-## Interdisziplinäre Perspektiven
-Vergleichbare Prinzipien in anderen Fachgebieten:
-- **Medizin:** Der Patientenmonitor, der Puls und Sauerstoffwerte an die Schwesternstation funkt.- **Luftfahrt:** Flugüberwachungssysteme, die Triebwerksdaten in Echtzeit an Wartungsteams senden.- **Motorsport:** Rennwagen, die Sensordaten zu Reifendruck und Hitze an die Box übermitteln.
+## Einsatz in verschiedenen Disziplinen
+Krankenhaus: Der Patientenmonitor überträgt den Puls auf den Bildschirm der Krankenschwester.Luftfahrt: Flugdaten in einer Blackbox speichern.Energie: Zähler melden den Verbrauch an die Zentrale.
 
-## Als Analogie
-Es ist wie die Instrumentenanzeige im Auto: Sensoren messen Öldruck, Kühlwassertemperatur und Tankfüllung und melden Abweichungen sofort an das Armaturenbrett.
+## Häufig gestellte Fragen
+**Beeinflusst es meine Privatsphäre?**
+In der Regel werden anonyme und aggregierte Daten erhoben. Sie können sehen, welche Daten gesendet werden, und diese im Einstellungsbereich der Anwendung deaktivieren.
 
-## Häufige Fragen
+**Was ist der Unterschied zur Observability?**
+Telemetrie sammelt und übermittelt Daten. Beobachtbarkeit ist die Fähigkeit, anhand der gesammelten Daten das Innere des Systems zu verstehen. Das eine ist das Mittel, das andere das Ziel.
 
-**Gefährdet Telemetrie den Schutz der Privatsphäre?**  
-Seriöse Telemetrie bereinigt personenbezogene Daten (PII) vor der Übertragung und bietet Nutzern klare Abschaltmöglichkeiten.
+**Kann es geschlossen werden?**
+Ja, in den meisten Anwendungen ist es in den Einstellungen deaktiviert. Unternehmensgeräte können gemäß den Richtlinien geöffnet bleiben.
 
-**Worin liegt der Unterschied zwischen Telemetrie und Monitoring?**  
-Telemetrie ist der Transportweg für Rohdaten; Monitoring ist die Auswertung dieser Daten inklusive Schwellenwert-Alarmierung.
+**Ist es mit Kosten verbunden?**
+Ja. Es fällt eine Gebühr für den Datentransport und die Datenspeicherung an. Aus diesem Grund erfolgt die Stichprobenentnahme bei hohem Datenverkehr. Einige davon werden gesendet, nicht bei jedem Ereignis.
 
-**Warum setzt sich OpenTelemetry überall durch?**  
-Weil es Metriken, Traces und Logs standardisiert und Firmen vor teuren Abhängigkeiten von proprietären Anbietern bewahrt.
-
-**Was passiert bei einem Netzwerkausfall?**  
-Lokale Telemetrie-Agenten puffern Datensätze im Speicher zwischen und senden sie gesammelt nach Wiederherstellung der Verbindung.
 
 ## Verwandte Begriffe
 - [Logs](/de/dictionary/logs/)
 - [Observability](/de/dictionary/observability/)
-- [Metrics](/de/dictionary/metrics/)
+- [Traces](/de/dictionary/traces/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/telemetry/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/telemetry/

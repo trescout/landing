@@ -1,0 +1,920 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-06",
+  "capturedAt": "2026-10-06T11:18:01.441Z",
+  "editorial": "Aujourd'hui, l'écosystème des développeurs se concentre intensément sur l'automatisation des tests de bout en bout (end-to-end) et sur l'efficacité architecturale des grands modèles de langage. L'optimisation des performances des modèles à poids ouverts (open-weight) et les mécanismes de décision logique dans les boucles de contrôle réseau sont particulièrement au cœur des débats techniques.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "summary": "e2e, développé par Tester-army, est un framework de nouvelle génération qui automatise les processus de test de bout en bout (end-to-end testing) pour les applications web et mobiles. Écrit en TypeScript, cet outil vise à accélérer les phases de débogage et de contrôle qualité dans le cycle de développement logiciel.",
+          "meta": "TypeScript · ★ 5 481 · +1 720 aujourd'hui",
+          "snapshot": {
+            "sourceId": "tester-army/e2e",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5481,
+              "engagementCount": 1720,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1720
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Skills, partagé par Matt Pocock, est un dépôt open source contenant des ensembles de compétences (skills) personnalisés que les développeurs de logiciels utilisent pour les agents d'intelligence artificielle. Il vise à standardiser les flux de travail basés sur des agents en permettant aux développeurs de partager les scripts d'automatisation qu'ils utilisent dans leurs propres environnements de travail.",
+          "meta": "Shell · ★ 277 446 · +1 028 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 277446,
+              "engagementCount": 1028,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1028
+              }
+            }
+          }
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Text-to-CAD est une bibliothèque Python qui convertit des commandes en langage naturel en fichiers de conception assistée par ordinateur (CAO). Elle automatise les processus de conception en permettant aux agents d'intelligence artificielle de créer des dessins techniques.",
+          "meta": "Python · ★ 17 683 · +620 aujourd'hui",
+          "snapshot": {
+            "sourceId": "earthtojake/text-to-cad",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17683,
+              "engagementCount": 620,
+              "rank": 3,
+              "extra": {
+                "starsToday": 620
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 est un outil de conversion qui adapte automatiquement les fichiers de jeux PlayStation 5 aux systèmes d'exploitation Linux et Windows. Développé en C++, ce logiciel automatise le processus de portage des fichiers exécutables nécessaires pour faire fonctionner des jeux exclusifs à la console sur différentes plateformes.",
+          "meta": "C++ · ★ 5 313 · +943 aujourd'hui",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 5313,
+              "engagementCount": 943,
+              "rank": 4,
+              "extra": {
+                "starsToday": 943
+              }
+            }
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable est un langage de conception développé pour améliorer les résultats de conception des modèles d'intelligence artificielle. Il offre un cadre standardisé visant à accroître la cohérence visuelle et la qualité esthétique des outils assistés par l'IA.",
+          "meta": "JavaScript · ★ 77 326 · +947 aujourd'hui",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 77326,
+              "engagementCount": 947,
+              "rank": 5,
+              "extra": {
+                "starsToday": 947
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem est un outil qui enregistre et compresse les opérations effectuées par les agents d'IA au cours des sessions pour les présenter comme contexte lors de tâches futures. Il permet aux assistants de codage comme Claude Code de se souvenir des interactions passées, assurant ainsi une continuité entre les différentes sessions.",
+          "meta": "TypeScript · ★ 96 859 · +536 aujourd'hui",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 96859,
+              "engagementCount": 536,
+              "rank": 6,
+              "extra": {
+                "starsToday": 536
+              }
+            }
+          }
+        },
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "i-have-adhd est une bibliothèque Python qui permet aux agents de développement logiciel de présenter leurs réponses complexes de manière plus compréhensible et ciblée. Elle simplifie les réponses pour les utilisateurs souffrant de trouble du déficit de l'attention avec ou sans hyperactivité (TDAH) en les débarrassant des détails inutiles.",
+          "meta": "Python · ★ 54 087 · +318 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ayghri/i-have-adhd",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 54087,
+              "engagementCount": 318,
+              "rank": 7,
+              "extra": {
+                "starsToday": 318
+              }
+            }
+          }
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea est un outil de rétro-ingénierie (reverse engineering) basé sur des agents d'IA qui analyse tout, des comportements des applications aux binaires natifs. Développé en TypeScript, ce logiciel vise à décrypter la logique de fonctionnement de systèmes complexes grâce à des processus automatisés.",
+          "meta": "TypeScript · ★ 6 726 · +2 963 aujourd'hui",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6726,
+              "engagementCount": 2963,
+              "rank": 8,
+              "extra": {
+                "starsToday": 2963
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepGEMM",
+          "url": "https://github.com/deepseek-ai/DeepGEMM",
+          "summary": "DeepGEMM, développé par DeepSeek, est une bibliothèque open source de sous-programmes d'algèbre linéaire de base (BLAS) qui accélère les opérations de multiplication matricielle sur les unités de traitement graphique (GPU). Le logiciel propose des noyaux (kernels) optimisés pour les modèles d'IA nécessitant des calculs haute performance.",
+          "meta": "Cuda · ★ 8 522 · +363 aujourd'hui",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepGEMM",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "Cuda",
+              "popularity": 8522,
+              "engagementCount": 363,
+              "rank": 9,
+              "extra": {
+                "starsToday": 363
+              }
+            }
+          }
+        },
+        {
+          "title": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "summary": "Agency-agents est une bibliothèque d'automatisation qui rassemble sous un même toit des agents d'IA dotés de différents domaines d'expertise. Elle propose aux utilisateurs des employés numériques spécialisés effectuant des tâches telles que le développement logiciel, la création de contenu et la vérification de données.",
+          "meta": "Shell · ★ 157 523 · +621 aujourd'hui",
+          "snapshot": {
+            "sourceId": "msitarzewski/agency-agents",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 157523,
+              "engagementCount": 621,
+              "rank": 10,
+              "extra": {
+                "starsToday": 621
+              }
+            }
+          }
+        },
+        {
+          "title": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "summary": "OpenGym est une application de suivi sportif auto-hébergée (self-hosted) qui permet de planifier des routines d'entraînement et de suivre les exercices au poids du corps. Elle permet aux utilisateurs de gérer leurs données localement tout en prenant en charge l'importation de données depuis des applications d'entraînement populaires (FitNotes, Strong, Hevy).",
+          "meta": "JavaScript · ★ 4 814 · +1 419 aujourd'hui",
+          "snapshot": {
+            "sourceId": "DuarteSantos8/openGym",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 4814,
+              "engagementCount": 1419,
+              "rank": 11,
+              "extra": {
+                "starsToday": 1419
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design propose 42 types de modèles de diagrammes d'édition préparés pour les outils de codage par intelligence artificielle (Claude Code, GitHub Copilot). Le contenu est conçu au format HTML et graphiques vectoriels évolutifs (SVG) ne nécessitant aucune dépendance externe.",
+          "meta": "HTML · ★ 43 597 · +227 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-06T11:18:02.483Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 43597,
+              "engagementCount": 227,
+              "rank": 12,
+              "extra": {
+                "starsToday": 227
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Web Search API",
+          "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+          "summary": "Cloudflare a lancé son service d'interface de recherche Web (Web Search API), qui permet d'accéder aux données actuelles sur Internet. Grâce à cet outil, les développeurs peuvent intégrer des résultats de recherche en temps réel dans leurs applications, réduisant ainsi leur dépendance vis-à-vis des moteurs de recherche externes.",
+          "meta": "557 votes · 249 commentaires",
+          "snapshot": {
+            "sourceId": "49963171",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 557,
+              "engagementCount": 249,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49963171",
+                  "popularity": 557,
+                  "engagementCount": 249
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-10-05T10:47:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49963171"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49963171",
+              "popularity": 557,
+              "engagementCount": 249
+            }
+          ]
+        },
+        {
+          "title": "Beam: Reflection's 501B open-weight model",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "summary": "Beam, développé par Reflection, propose une nouvelle infrastructure d'inférence pour les modèles d'intelligence artificielle à poids ouverts (open-weight). Cette plateforme optimise les ressources de calcul nécessaires à l'exécution de modèles haute performance, offrant aux développeurs un processus de déploiement plus rapide et plus efficace.",
+          "meta": "471 votes · 149 commentaires",
+          "snapshot": {
+            "sourceId": "49969183",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 471,
+              "engagementCount": 149,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49969183",
+                  "popularity": 471,
+                  "engagementCount": 149
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-10-05T19:16:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49969183"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49969183",
+              "popularity": 471,
+              "engagementCount": 149
+            }
+          ]
+        },
+        {
+          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+          "summary": "ChatGPT, le chatbot développé par OpenAI, imite et utilise les signatures de véritables artistes dans les caricatures qu'il génère. Cette situation remet au centre des débats les discussions éthiques concernant les droits d'auteur et l'originalité du contenu des modèles d'intelligence artificielle générative (generative AI).",
+          "meta": "458 votes · 332 commentaires",
+          "snapshot": {
+            "sourceId": "49971846",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 458,
+              "engagementCount": 332,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49971846",
+                  "popularity": 458,
+                  "engagementCount": 332
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "rdmuser",
+                "createdAt": "2026-10-05T22:46:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49971846"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49971846",
+              "popularity": 458,
+              "engagementCount": 332
+            }
+          ]
+        },
+        {
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "summary": "Les agents d'intelligence artificielle Opus 5.5 ont découvert deux nouveaux candidats semi-conducteurs magnétiques fonctionnant à température ambiante. Cette étude montre que les processus de découverte assistés par l'intelligence artificielle (AI-driven discovery) gagnent en rapidité dans la recherche en science des matériaux.",
+          "meta": "368 votes · 246 commentaires",
+          "snapshot": {
+            "sourceId": "49970667",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 368,
+              "engagementCount": 246,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49970667",
+                  "popularity": 368,
+                  "engagementCount": 246
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "outlier99",
+                "createdAt": "2026-10-05T21:00:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49970667"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49970667",
+              "popularity": 368,
+              "engagementCount": 246
+            }
+          ]
+        },
+        {
+          "title": "Apple and a hacker's future",
+          "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+          "summary": "Apple assure la sécurité des utilisateurs grâce à son approche d'écosystème fermé, tout en limitant le contrôle des développeurs de logiciels sur le système. L'analyste stratégique Ben Thompson discute de la manière dont cette situation affecte la créativité et la liberté dans le monde technologique à travers les politiques matérielles et logicielles d'Apple.",
+          "meta": "262 votes · 226 commentaires",
+          "snapshot": {
+            "sourceId": "49962857",
+            "capturedAt": "2026-10-06T11:18:01.734Z",
+            "metadata": {
+              "popularity": 262,
+              "engagementCount": 226,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49962857",
+                  "popularity": 262,
+                  "engagementCount": 226
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "maguay",
+                "createdAt": "2026-10-05T10:05:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49962857"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49962857",
+              "popularity": 262,
+              "engagementCount": 226
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Clef, développé par Cloudflare, est un modèle image-texte-vers-texte qui analyse les images et les textes pour produire des résultats significatifs. Ce modèle permet de transformer des contenus visuels complexes en tâches basées sur le texte en traitant des données multimodales.",
+          "meta": "♥ 1 569 · 7 255 téléchargements",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-06T11:18:01.617Z",
+            "metadata": {
+              "popularity": 1569,
+              "engagementCount": 7255,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1445,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored, partagé par Abenzerps, est un modèle d'intelligence artificielle capable de générer des images à partir de texte (text-to-image). Avec sa structure non censurée (uncensored), le modèle permet aux utilisateurs de réaliser des processus de production visuelle plus flexibles.",
+          "meta": "♥ 3 339 · 1 721 760 téléchargements",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-10-06T11:18:01.617Z",
+            "metadata": {
+              "popularity": 3339,
+              "engagementCount": 1721760,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 688,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "JEV-27B-VL, partagé sur HuggingFace, est un modèle d'intelligence artificielle multimodal qui traite des données visuelles et textuelles pour produire une sortie textuelle. Ce modèle permet aux utilisateurs d'obtenir des réponses basées sur le texte à partir de contenus visuels en analysant et en interprétant des images complexes.",
+          "meta": "♥ 842 · 1 525 286 téléchargements",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-06T11:18:01.617Z",
+            "metadata": {
+              "popularity": 842,
+              "engagementCount": 1525286,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 675,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, développé par la société allemande d'intelligence artificielle Aleph Alpha, est un modèle linguistique axé sur la génération de texte (text-generation). Visant à offrir des performances élevées avec une faible consommation de ressources, ce modèle présente une structure optimisée pour les applications d'entreprise.",
+          "meta": "♥ 668 · 4 138 téléchargements",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-06T11:18:01.617Z",
+            "metadata": {
+              "popularity": 668,
+              "engagementCount": 4138,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 643,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, développé par Convai Innovations, est un modèle d'intelligence artificielle entraîné pour les opérations de classification de texte (text classification). Cet outil, qui permet aux utilisateurs de classer les données textuelles dans des catégories spécifiques, automatise les tâches de classification dans les processus de traitement du langage naturel.",
+          "meta": "♥ 5 263 · 20 386 téléchargements",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-10-06T11:18:01.617Z",
+            "metadata": {
+              "popularity": 5263,
+              "engagementCount": 20386,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 604,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+          "url": "https://huggingface.co/papers/2609.35751",
+          "summary": "La méthode Foil, qui combine l'architecture de transformateur en boucle (looped transformer) avec l'approche de mélange d'experts (mixture-of-experts), permet une utilisation plus efficace des paramètres du modèle. Cette technique augmente la capacité de traitement des modèles à taille fixe en répétant les couches d'experts.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.35751",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35751",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/SR-A-W/how-to-loop-moe",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "SoK: Semantic Decision Engines in Network Control Loops",
+          "url": "https://huggingface.co/papers/2610.06425",
+          "summary": "Les moteurs de décision sémantiques utilisés dans les boucles de contrôle réseau présentent des incohérences majeures en matière de respect des contraintes temporelles et de production de résultats vérifiables. Parmi les 139 familles d'études académiques examinées, le nombre de celles qui étayent les mesures de performance revendiquées par des données empiriques reste très limité.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.06425",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06425",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/SoK-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Intent Interpretation at RIC Timescales: Jev Decision Models versus Large Language Models in 6G Open RAN",
+          "url": "https://huggingface.co/papers/2609.23136",
+          "summary": "Une comparaison des performances est effectuée entre les modèles de décision utilisés pour la gestion basée sur l'intention dans les réseaux d'accès radio ouverts (Open RAN) et les grands modèles de langage (LLM). La recherche analyse les effets de la latence générée par les LLM lors de la conversion des intentions en textes de politique sur la boucle de contrôle du réseau et les performances radio.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.23136",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23136",
+                "publishedAt": "2026-10-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/OniReimu/6G-JEV",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "What Matters for Latent Reasoning with Flow Matching",
+          "url": "https://huggingface.co/papers/2610.06666",
+          "summary": "Le raisonnement latent par la méthode de correspondance de flux (flow matching) permet aux grands modèles de langage (LLM) d'effectuer leurs processus de réflexion dans un espace continu. Cette approche, tout en permettant au modèle de ne transcrire que la réponse finale en texte, exige que la chaîne de pensée (chain of thought) soit efficace, explicable et diversifiée.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.06666",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06666",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "UndoBench: Separating Task Competence from Recovery Capability in Tool-Using AI Agents",
+          "url": "https://huggingface.co/papers/2610.05622",
+          "summary": "UndoBench est un nouveau benchmark qui distingue la réussite des tâches fondamentales des capacités de récupération d'erreurs des agents d'IA utilisant des outils. Il vise à mesurer la capacité des agents à corriger les erreurs opérationnelles à travers 36 flux de travail et scénarios d'erreur dans huit domaines institutionnels différents.",
+          "meta": "4 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.05622",
+            "capturedAt": "2026-10-06T11:18:01.627Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05622",
+                "publishedAt": "2026-10-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/tradertanmay/undobench",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Email Self Hosters - what are you using?",
+          "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+          "summary": "Les utilisateurs privilégient des logiciels de serveur de messagerie légers et configurables comme Maddy pour gérer leurs propres serveurs e-mail. Dans ce processus, les retards de connexion et les problèmes de livraison rencontrés notamment avec les clients mobiles constituent les principaux défis techniques pour ceux qui pratiquent l'auto-hébergement.",
+          "meta": "20 votes · 23 commentaires",
+          "snapshot": {
+            "sourceId": "rwloew",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 23,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+                  "popularity": 20,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ask",
+                  "email"
+                ],
+                "createdAt": "2026-10-06T03:09:53.070-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+              "popularity": 20,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "Async Rust: Where does the scheduler live?",
+          "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+          "summary": "Dans le langage de programmation asynchrone Rust, la manière dont la structure du planificateur (scheduler) gérant l'exécution des tâches est positionnée au sein du runtime est examinée. L'article explique l'architecture technique de ces mécanismes exécutant des opérations simultanées et leurs effets sur la gestion des ressources.",
+          "meta": "45 votes · 13 commentaires",
+          "snapshot": {
+            "sourceId": "okk4bg",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 45,
+              "engagementCount": 13,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+                  "popularity": 45,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-10-05T13:31:29.400-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live",
+              "popularity": 45,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Gleam doesn't compile to Erlang source anymore",
+          "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+          "summary": "Gleam compile désormais ses codes directement en bytecode Erlang au lieu de les convertir en code source Erlang. Ce changement accélère les processus de compilation tout en offrant aux développeurs un environnement d'exécution plus performant.",
+          "meta": "107 votes · 13 commentaires",
+          "snapshot": {
+            "sourceId": "2svplr",
+            "capturedAt": "2026-10-06T11:18:01.911Z",
+            "metadata": {
+              "popularity": 107,
+              "engagementCount": 13,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
+                  "popularity": 107,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compilers",
+                  "erlang",
+                  "gleam"
+                ],
+                "createdAt": "2026-10-05T12:29:17.719-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source",
+              "popularity": 107,
+              "engagementCount": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "end-to-end testing",
+      "explanation": "Méthode de test qui vérifie si toutes les parties d'un logiciel fonctionnent correctement du point de vue de l'utilisateur, du début à la fin."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ensemble de structures et de règles prêtes à l'emploi utilisées pour accélérer le travail lors du développement de logiciels."
+    },
+    {
+      "term": "skill",
+      "explanation": "Capacités supplémentaires permettant aux assistants vocaux ou aux intelligences artificielles d'effectuer des opérations sur un sujet spécifique."
+    },
+    {
+      "term": "CAD",
+      "explanation": "Programmes utilisés pour réaliser des dessins techniques et des conceptions en trois dimensions à l'aide d'un ordinateur."
+    },
+    {
+      "term": "executable",
+      "explanation": "Format de fichier prêt à être installé ou exécuté, que l'ordinateur peut lancer directement."
+    },
+    {
+      "term": "context",
+      "explanation": "Le cadre contenant les conversations ou informations passées dont l'intelligence artificielle a besoin pour comprendre correctement un sujet."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "Une condition neurologique qui se manifeste par un déficit d'attention, une hyperactivité et une impulsivité."
+    },
+    {
+      "term": "native binaries",
+      "explanation": "Fichiers de programme exécutables directement, préparés spécifiquement pour un système d'exploitation ou un type de processeur donné."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Le processus consistant à démonter un produit fini pour comprendre son fonctionnement et en décoder la logique."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Unité de traitement puissante utilisée pour accélérer le traitement d'images et les calculs mathématiques complexes."
+    },
+    {
+      "term": "BLAS",
+      "explanation": "Bibliothèque fondamentale permettant aux ordinateurs d'effectuer très rapidement des opérations numériques complexes telles que les matrices et les vecteurs."
+    },
+    {
+      "term": "kernels",
+      "explanation": "La partie centrale du noyau du système d'exploitation qui gère la communication entre le matériel et le logiciel."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "L'hébergement d'un logiciel sur l'ordinateur ou le serveur de l'utilisateur lui-même, plutôt que sur le serveur d'un tiers."
+    },
+    {
+      "term": "SVG",
+      "explanation": "Fichier image dessiné à l'aide de formules mathématiques, pouvant être agrandi ou réduit à volonté sans perte de qualité."
+    },
+    {
+      "term": "Web Search API",
+      "explanation": "Outil de connexion permettant aux logiciels d'effectuer des recherches sur Internet et de récupérer automatiquement les résultats."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "Le partage des paramètres internes entraînés d'un modèle d'intelligence artificielle afin que tout le monde puisse les télécharger et les utiliser."
+    }
+  ]
+}

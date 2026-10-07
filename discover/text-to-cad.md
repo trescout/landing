@@ -2,15 +2,15 @@
 
 Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için geliştirilen bir yetenek paketi (agent skills) koleksiyonudur. JavaScript tabanlı bu kütüphane, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasına olanak tanır.
 
-- ★ 16.574
+- ★ 17.698
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 17.095 → 17.698, son sürüm v0.7.15 (6 Ekim 2026).
+- 5 Ekim 2026: Yıldız 16.644 → 17.095, son sürüm v0.7.14 (5 Ekim 2026).
+- 4 Ekim 2026: Yıldız 16.574 → 16.644, son sürüm v0.7.11 (3 Ekim 2026).
 - 3 Ekim 2026: Yıldız 16.540 → 16.574, son sürüm v0.7.10 (3 Ekim 2026).
-- 2 Ekim 2026: Yıldız 16.516 → 16.540, son sürüm v0.7.6 (1 Ekim 2026).
-- 1 Ekim 2026: Yıldız 16.479 → 16.516, son sürüm v0.7.5 (1 Ekim 2026).
-- 29 Eylül 2026: Yıldız 16.467 → 16.479, son sürüm v0.7.4 (29 Eylül 2026).
 
 ## Ne kazandırır?
 - Doğal dille karmaşık CAD modelleri oluşturma
@@ -38,7 +38,7 @@ Sen bir mühendislik asistanısın. text-to-cad kütüphanesini kullanarak belir
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Text-to-CAD Agent Skills AI Skills Agent CLI Artificial Intelligence
+Text-to-CAD CAD Agent Skills AI Skills Agent CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/text-to-cad/

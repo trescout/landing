@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Thread-safety? · Glossário · TreScout</title>
-<meta name="description" content="Thread safety (segurança de thread) é a propriedade de um algoritmo ou estrutura de dados de funcionar corretamente quando acessado por múltiplas threads simultaneamente, evitando corrupção de memória.">
+<meta name="description" content="Thread safety (Türkçe karşılığıyla iş parçacığı güvenliği), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/thread-safety/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/thread-safety/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/thread-safety/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/thread-safety.md">
 <meta property="og:title" content="O que é Thread-safety?">
-<meta property="og:description" content="Thread safety (segurança de thread) é a propriedade de um algoritmo ou estrutura de dados de funcionar corretamente quando acessado por múltiplas threads simultaneamente, evitando corrupção de memória.">
+<meta property="og:description" content="Thread safety (Türkçe karşılığıyla iş parçacığı güvenliği), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/thread-safety/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,61 +27,21 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Thread-safety?">
-<meta name="twitter:description" content="Thread safety (segurança de thread) é a propriedade de um algoritmo ou estrutura de dados de funcionar corretamente quando acessado por múltiplas threads simultaneamente, evitando corrupção de memória.">
+<meta name="twitter:description" content="Thread safety (Türkçe karşılığıyla iş parçacığı güvenliği), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Thread-safety",
-  "description": "Thread safety (segurança de thread) é a propriedade de um algoritmo ou estrutura de dados de funcionar corretamente quando acessado por múltiplas threads simultaneamente, evitando corrupção de memória.",
+  "description": "Thread safety (Türkçe karşılığıyla iş parçacığı güvenliği), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/thread-safety/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "Dicionário Técnico TreScout",
+    "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/pt/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "O que acontece quando o código não é thread-safe?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ocorrem condições de corrida que alteram silenciosamente variáveis na memória, gerando falhas difíceis de reproduzir."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "O uso de travas (locks) resolve tudo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Travas mal projetadas podem causar deadlocks, onde duas threads ficam bloqueadas aguardando a liberação mútua de recursos."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Como linguagens modernas lidam com isso?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Linguagens como Rust utilizam o sistema de posse e empréstimo de memória para barrar erros de concorrência antes mesmo da execução."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Dados imutáveis são sempre seguros entre threads?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sim, pois se a estrutura nunca é alterada após sua criação, leituras concorrentes ocorrem sem qualquer interferência mútua."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,16 +56,18 @@
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
 <div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
-<h1 class="disc-title">O que é Thread Safety?</h1>
-<p class="dict-en">Inglês: Thread Safety · Etimologia: inglês arcaico thraed (fio, meada) + latim salvus (ileso/seguro)</p>
-<p class="disc-lead">Thread safety (segurança de thread) é a propriedade de um algoritmo ou estrutura de dados de funcionar corretamente quando acessado por múltiplas threads simultaneamente, evitando corrupção de memória.</p>
-<section class="disc-sec"><h2>Definição e etimologia</h2><p>O conceito combina thread (linha de execução independente) e segurança de coerência de dados. Não se trata de segurança contra invasores externos, mas de preservar a consistência das informações: se dois processos alteram o mesmo saldo ao mesmo tempo sem coordenação, o valor final resultará incorreto.</p></section>
-<section class="disc-sec"><h2>Contexto cotidiano e uso prático</h2><p>Cenários práticos que exigem thread safety :</p><ul><li><strong>Transações Bancárias:</strong> Garantir que saques concorrentes não permitam retirar mais dinheiro do que o disponível.</li><li><strong>Venda de Ingressos:</strong> Assegurar que um assento numerado seja reservado para apenas um comprador.</li><li><strong>Servidores de Aplicação:</strong> Responder a milhares de requisições simultâneas sem corromper estruturas em cache.</li></ul></section>
-<section class="disc-sec"><h2>Profundidade técnica e arquitetura</h2><p>Estratégias de engenharia para atingir thread safety :</p><ul><li><strong>Exclusão Mútua (Mutex e Locks):</strong> Bloqueios temporários que garantem acesso exclusivo à seção crítica.</li><li><strong>Operações Atômicas:</strong> Instruções de hardware (como CAS) que executam leitura e escrita em passo único e indivisível.</li><li><strong>Imutabilidade:</strong> Dados constantes que podem ser lidos por quantas threads forem necessárias sem travas.</li><li><strong>Sistemas de Tipos Modernos (Rust):</strong> Regras de ownership verificadas em tempo de compilação que eliminam data races.</li></ul></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>É comum confundir com segurança cibernética. O objetivo aqui não é barrar vírus ou hackers, mas evitar anomalias e comportamentos imprevisíveis na concorrência de memória.</p></section>
-<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p>Exemplos cotidianos :</p><ul><li><strong>Trânsito:</strong> Uma ponte de pista única controlada por semáforos alternados.</li><li><strong>Cozinha Profissional:</strong> Cozinheiros que compartilham uma única faca afiada, usando-a um por vez.</li><li><strong>Fila Bancária:</strong> Atendimento individual por caixa, evitando que dois clientes sejam atendidos juntos no mesmo guichê.</li></ul></section>
-<div class="dict-analogy">É como colocar um trinco na porta de um banheiro compartilhado: enquanto alguém estiver usando, os demais esperam do lado de fora.</div>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que acontece quando o código não é thread-safe?</p><p class="dict-faq-a">Ocorrem condições de corrida que alteram silenciosamente variáveis na memória, gerando falhas difíceis de reproduzir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O uso de travas (locks) resolve tudo?</p><p class="dict-faq-a">Travas mal projetadas podem causar deadlocks, onde duas threads ficam bloqueadas aguardando a liberação mútua de recursos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como linguagens modernas lidam com isso?</p><p class="dict-faq-a">Linguagens como Rust utilizam o sistema de posse e empréstimo de memória para barrar erros de concorrência antes mesmo da execução.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Dados imutáveis são sempre seguros entre threads?</p><p class="dict-faq-a">Sim, pois se a estrutura nunca é alterada após sua criação, leituras concorrentes ocorrem sem qualquer interferência mútua.</p></div></div></section>
+<h1 class="disc-title">O que é <span class="disc-accent">Thread-safety</span>?</h1>
+<p class="disc-lead">Thread safety (Türkçe karşılığıyla iş parçacığı güvenliği), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>&quot;Thread&quot; significa encadeamento ou thread, e &quot;safety&quot; significa segurança. A segurança aqui não é contra hackers, mas sim para garantir que os dados permaneçam consistentes: se duas operações atualizarem a mesma conta ao mesmo tempo, o resultado pode estar incorreto. O código thread-safe regulamenta essa disputa. Aplicações bancárias, servidores web e todos os softwares multiprocessamento precisam disso.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como colocar uma tranca na porta em uma casa com um único banheiro; quando alguém está dentro, o outro tem que esperar.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Bancário:</strong> Dois pedidos de saque da mesma conta não reduzem o saldo para negativo.<br><strong>Vendas de ingressos:</strong> O último assento não deve ser vendido para duas pessoas ao mesmo tempo.<br><strong>Contadores:</strong> O contador de visitantes aumenta um incremento completo a cada solicitação.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Ferramentas típicas são:</p><p><strong>Bloquear (Mutex/Bloquear):</strong> Um thread entra na região crítica por vez, o outro espera.<br><strong>Operação atômica:</strong> Leitura e escrita indivisíveis em uma única etapa.<br><strong>Dados imutáveis:</strong> Os dados que não podem ser alterados não entram na corrida, são copiados.<br><strong>Mensagens:</strong> Comunicação via fila em vez de dados compartilhados (por exemplo, canais Go).</p><p>Um pequeno exemplo de Python:</p><pre><code>import threading
+kilit = threading.Lock()
+with kilit:
+    bakiye += 100</code></pre><p>Nenhum outro thread pode intervir enquanto as linhas bloqueadas estão em execução. Se o bloqueio for esquecido ou recuperado na ordem errada, o programa poderá travar (impasse). É por isso que a região crítica é mantida curta.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Não está relacionado à segurança cibernética. O assunto não são hackers, mas a consistência de dados: garantir que duas operações que acessam os mesmos dados ao mesmo tempo não sobrescrevam uma à outra.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Tráfego:</strong> Os semáforos que determinam a ordem de passagem em uma ponte de pista única.<br><strong>Culinária:</strong> Cozinheiros que usam a mesma faca um de cada vez.<br><strong>Biblioteca:</strong> A troca de um livro de exemplar único com o registro de empréstimos.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que acontece se não for thread-safe?</p><p class="dict-faq-a">Os dados se misturam, os cálculos dão errado ou o aplicativo trava. É difícil de depurar porque o erro não se repete a cada execução.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deve-se adicionar bloqueios a todo código?</p><p class="dict-faq-a">Não. Em código de thread único (single-threaded), os bloqueios trazem sobrecarga desnecessária. Apenas as seções concorrentes que acessam dados compartilhados são protegidas.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que é deadlock e como evitá-lo?</p><p class="dict-faq-a">É quando duas operações ficam travadas esperando pelo bloqueio uma da outra. Sempre adquirir os bloqueios na mesma ordem e manter a seção crítica curta reduz o risco.</p></div><div class="dict-faq-item"><p class="dict-faq-q">É detectado por testes?</p><p class="dict-faq-a">É difícil de detectar porque o erro depende de tempo (timing). Utilizam-se testes de carga e detectores de corrida (race detectors) especiais.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/concurrency/">Concurrency</a><a href="/pt/dictionary/system-programming-language/">System Programming Language</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="thread-safety" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/thread-safety/">Ler em turco →</a></p>

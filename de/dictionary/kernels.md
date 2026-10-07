@@ -28,6 +28,7 @@ Ja, zum Beispiel haben der Linux-Kernel und der Windows-Kernel unterschiedliche 
 - [System Programming Language](/de/dictionary/system-programming-language/)
 
 ## Verwandte Werkzeuge
+- [DeepGEMM](/de/discover/deepgemm/)
 - [Tilelang](/de/discover/tilelang/)
 - [FlashKDA](/de/discover/flashkda/)
 

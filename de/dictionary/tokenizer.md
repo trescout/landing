@@ -36,8 +36,8 @@ Ja; die in letzter Zeit entwickelten neuronalen Netzwerkarchitekturen der neuen 
 - [Context](/de/dictionary/context/)
 
 ## Verwandte Werkzeuge
-- [Minimind](/de/discover/minimind/)
 - [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
+- [Minimind](/de/discover/minimind/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tokenizer/

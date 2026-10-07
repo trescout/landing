@@ -1,54 +1,42 @@
 # Was ist On-device STT?
 
-> Lokale Spracherkennung auf dem Endgerät
+> On-device Speech-to-Text
 
-**Kategorie:** AI  
-**Letzte Aktualisierung:** 2026-09-22
-
-On-device STT (Speech-to-Text auf dem Gerät) bezeichnet Spracherkennungstechnologien, die gesprochenes Audio direkt auf der Hardware des Nutzers in Text umwandeln, ohne Tondateien an externe Cloud-Server zu senden.
+On-Device STT (deutsch: geräteinterne Spracherkennung) ist die Umwandlung von Sprache in Text direkt auf dem Gerät.
 
 ## Definition und Wortherkunft
-Vor dem Hintergrund strenger Datenschutzanforderungen und gewünschter Null-Latenz führt On-Device STT neuronale Akustikmodelle direkt auf lokalen NPUs und Grafikchips aus. Sprachaufnahmen verlassen das Endgerät zu keinem Zeitpunkt.
+„On-device“ bedeutet „auf dem Gerät“. Das lokale Modell arbeitet, ohne auf die Cloud zuzugreifen. Die Privatsphäre bleibt gewahrt und Unterbrechungen haben keine Auswirkungen. Es ist wie ein Übersetzer, der das Wörterbuch im Kopf trägt.
 
-## Alltägliche Anwendung und Praxis
-- **Smartphones und Tablets:** Zuverlässige Spracheingabe im Flugmodus ohne Internetempfang.
-- **Vertrauliche Diktate:** Lokale Protokollierung von Patientengesprächen, Anwaltsnotizen und Vorstandsmeetings.
-- **Smart-Home-Steuerung:** Sprachbediente Haushaltsgeräte, die lokale Befehle ausführen, ohne das Wohnzimmer abzuhören.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Hinweise: Sprachnotiz im Flugzeug.Befehl: Offline-Assistent.Zugänglichkeit: Untertitel auf dem Gerät.
 
 ## Technische Tiefe und Architektur
-Architektur und Inferenz-Stack:- **Quantisierte Akustikmodelle:** Kompakte neuronale Netze (Whisper.cpp, Vosk) mit 4-Bit- und 8-Bit-Quantisierung für minimale Ressourcennutzung.
-- **NPU-Hardwarebeschleunigung:** Nutzung integrierter KI-Kerne (Apple Neural Engine, Qualcomm NPU) zur Schonung des Akkus.
-- **Voice Activity Detection (VAD):** Energiesparende Vorstufen (Silero VAD), die Sprechpausen und Stille vor der Inferenz ausfiltern.
+Gleichgewicht:
 
-## Häufig verwechselt mit
-Wird häufig mit Cloud-Sprach-APIs verwechselt. Cloud-Dienste leiten Audiodaten über das Internet an Rechenzentren weiter; On-Device STT löst die Inferenz vollständig autonom auf dem lokalen Chip.
+## Häufig gemischte Dinge
+Cloud-Erkennung wird vermutet. Sie läuft auf dem Server, Daten gehen nach außen. Dies läuft auf dem Gerät, Daten bleiben.
 
-## Interdisziplinäre Perspektiven
-- **Dolmetschen:** Ein persönlicher Dolmetscher vor Ort im Raum vs. eine telefonische Übersetzungszentrale.
-- **Protokollführung:** Ein Stenograf live im Gerichtssaal vs. der postalische Versand von Tonbändern an ein Schreibbüro.
-- **Fotografie:** Eigene Dunkelkammer im Keller vs. das Einsenden von Filmen an ein Fotolabor.
+## Einsatz in verschiedenen Disziplinen
+Wörterbuch: Der im Kopf getragene Wortschatz.Taschenrechner: Betrieb ohne Akku.Taschenlampe: Licht ohne Netzwerk.
 
-## Als Analogie
-Es gleicht einem persönlichen Übersetzer, der direkt neben Ihnen im Raum sitzt: Er hört zu und tippt den Text sofort mit, ohne dass Fremde am Telefon mithören.
+## Häufig gestellte Fragen
+**Warum statt Cloud?**
+Keine Verbindung erforderlich, Daten bleiben auf dem Gerät. Bevorzugt bei vertraulichen Arbeiten.
 
-## Häufige Fragen
+**Sinkt die Genauigkeit?**
+Im Vergleich zur Cloud etwas. Für den täglichen Gebrauch ausreichend, kritische Texte werden überprüft.
 
-**Ist die Erkennungsgenauigkeit vergleichbar mit Cloud-Diensten?**  
-Ja, moderne quantisierte Modelle wie Whisper-small erreichen auf Standard-Datensätzen nahezu identische Fehlerraten.
+**Welches Gerät führt es aus?**
+Neue Telefone und Computer. Geräte mit NPU laufen flüssiger.
 
-**Funktioniert die Transkription vollständig offline?**  
-Ja, sobald die Modellgewichte lokal gespeichert sind, wird keine Internetverbindung mehr benötigt.
+**Verbraucht es Akku?**
+Ja. Kontinuierliches Zuhören hat seinen Preis, es wird bei Bedarf aktiviert.
 
-**Wie viel Speicherplatz belegt ein solches Sprachmodell?**  
-Je nach Komprimierung und Parameteranzahl bewegen sich kompakte Modelle zwischen 40 MB und 350 MB.
-
-**Welche Open-Source-Engines treiben diese Entwicklung an?**  
-Whisper.cpp, Sherpa-ONNX, Vosk und WhisperX.
 
 ## Verwandte Begriffe
+- [STT](/de/dictionary/stt/)
 - [Speech-to-Text](/de/dictionary/speech-to-text/)
-- [SLM](/de/dictionary/slm/)
-- [Digitale Privatsphäre](/de/dictionary/digital-privacy/)
+- [Local](/de/dictionary/local/)
 
 ---
-Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/on-device-stt/
+Quelle: TreScout Glossar · https://trescout.com/de/dictionary/on-device-stt/

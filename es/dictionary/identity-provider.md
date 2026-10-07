@@ -1,54 +1,40 @@
-# ¿Qué es un Identity Provider?
+# ¿Qué es Identity Provider?
 
-> Proveedor de Identidad Digital
+Un proveedor de identidad (identity provider) es el servicio central que verifica los inicios de sesión.
 
-**Categoría:** Dev  
-**Última actualización:** 2026-09-22
+## Definición y origen de la palabra
+En lugar de una contraseña separada para cada aplicación, se realiza un inicio de sesión desde un centro único. La aplicación pregunta al servicio quién es usted y recibe la confirmación. Su contraseña no se distribuye a las aplicaciones, permanece en el centro.
 
-Un Identity Provider (IdP / Proveedor de Identidad) es un servicio centralizado que gestiona, autentica y valida las identidades digitales de los usuarios en múltiples aplicaciones y plataformas.
-
-## Definición y etimología
-En el desarrollo de software moderno, las aplicaciones individuales no deben almacenar contraseñas por separado. El IdP independiza la autenticación del código de negocio, facilitando el inicio de sesión único (Single Sign-On / SSO) seguro para múltiples servicios independientes.
-
-## Contexto cotidiano e uso práctico
-- **Acceso Social:** Botones de 'Iniciar sesión con Google o GitHub' en aplicaciones web y móviles.
-- **Seguridad Corporativa:** Administración centralizada de permisos y políticas MFA con Okta o Microsoft Entra ID.
-- **Entornos Autohospedados:** Despliegue de Keycloak o Authentik para orquestar la seguridad en arquitecturas de microservicios.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Compañía: Todos los sistemas con un solo inicio de sesión.Web: Inicio de sesión con cuenta social.Institucional: Ciclo de vida del empleado.
 
 ## Profundidad técnica y arquitectura
-Estándares y Mecanismos Criptográficos:- **OpenID Connect (OIDC):** Protocolo de identidad sobre OAuth 2.0 que transmite tokens JWT firmados digitalmente.
-- **SAML 2.0:** Estándar federado basado en esquemas XML común en administraciones y grandes corporaciones.
-- **Autenticación Multifactor (MFA):** Protección añadida con llaves FIDO2/WebAuthn y aplicaciones de códigos TOTP.
+Flujo:
 
-## Suele confundirse con
-Suele confundirse con un Service Provider (SP) o servidor de autorización. El IdP responde a '¿Quién eres?' (autenticación); la autorización define '¿A qué funciones tienes acceso?' (permisos).
+## Cosas frecuentemente mezcladas
+Se confunde con un gestor de contraseñas. Aquel guarda la contraseña, este confirma la identidad. Uno es una caja fuerte, el otro es un notario.
 
-## Perspectivas interdisciplinares
-- **Trámites:** El ministerio que emite un pasaporte nacional vs el control aduanero que revisa el visado.
-- **Alojamientos:** La recepción del hotel comprobando la identidad y entregando la tarjeta llave vs la puerta de la habitación.
-- **Edificios:** La entrada principal emitiendo una acreditación vs los accesos a salas de reuniones privadas.
-
-## Por analogía
-Funciona exactamente como la recepción de un hotel: entrega su pasaporte una sola vez al registrarse, recibe una tarjeta de acceso electrónica y entra en su habitación sin necesidad de identificarse ante cada puerta.
+## Uso en diferentes disciplinas
+Recepción: Pasaporte frente a tarjeta llave.Notario: Certificación de identidad.Control de pasaportes: Acceso mediante sello.
 
 ## Preguntas frecuentes
+**¿Es seguro?**
+Sí. Como la contraseña no se distribuye a cada aplicación, la superficie de ataque se reduce.
 
-**¿Cuál es la principal ventaja de utilizar un IdP?**  
-Centraliza la seguridad de las credenciales, previene filtraciones en múltiples bases de datos y habilita inicio de sesión único (SSO).
+**¿Qué pasa si el sistema falla?**
+Las aplicaciones conectadas se ven afectadas. La redundancia y un plan de acceso de emergencia son obligatorios.
 
-**¿Cómo confirma el IdP la identidad a las aplicaciones?**  
-Emitiendo tokens criptográficos firmados con atributos verificados del usuario.
+**¿Cuál es la diferencia con SSO?**
+SSO es una experiencia de inicio de sesión único, es la infraestructura del proveedor. Uno es la cara, el otro es la columna vertebral.
 
-**¿Existen alternativas de código abierto para desplegar un IdP propio?**  
-Sí, suites consolidadas como Keycloak, Authentik y Authelia se pueden autohospedar de forma íntegra.
+**¿Puedo instalarlo yo mismo?**
+Sí, existen opciones de código abierto. La disciplina de parches y copias de seguridad depende de usted.
 
-**¿Qué impacto tiene una caída del servicio de IdP?**  
-Impide que los usuarios puedan autenticarse en los servicios dependientes; la redundancia de infraestructura resulta prioritaria.
 
 ## Términos relacionados
-- [Cloud Computing](/es/dictionary/cloud-computing/)
-- [Endpoint](/es/dictionary/endpoint/)
-- [Application](/es/dictionary/application/)
+- [SSO](/es/dictionary/sso/)
+- [OIDC](/es/dictionary/oidc/)
+- [RBAC](/es/dictionary/rbac/)
 
 ---
-Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/identity-provider/
+Fuente: TreScout Glosario · https://trescout.com/es/dictionary/identity-provider/

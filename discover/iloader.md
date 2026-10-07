@@ -2,11 +2,13 @@
 
 TypeScript ile geliştirilen iloader, iOS cihazlara uygulama yükleme sürecini kolaylaştıran kullanıcı dostu bir yan yükleyici (sideloader). Apple'ın resmi mağazası dışındaki uygulamaların kurulumunu basitleştirerek geliştirici ve kullanıcı deneyimini iyileştiriyor.
 
-- ★ 3.605
+- ★ 3.738
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
+- 6 Ekim 2026: Yıldız 3.710 → 3.738, son sürüm v2.3.6 (6 Ekim 2026).
+- 4 Ekim 2026: Yıldız 3.605 → 3.710, son sürüm v2.3.5 (3 Ekim 2026).
 - 27 Eylül 2026: Yıldız 2.962 → 3.605, son sürüm v2.3.4 (23 Eylül 2026).
 - 12 Eylül 2026: Yıldız 2.961 → 2.962, son sürüm v2.3.3 (10 Eylül 2026).
 

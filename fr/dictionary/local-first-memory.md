@@ -1,54 +1,40 @@
-# Qu'est-ce que la Local-first Memory ?
+# Qu'est-ce que Local-first Memory ?
 
-> Mémoire et Architecture 'Local-First'
+La mémoire « local-first » (en français, priorité au local) est une approche où les données sont conservées sur l'appareil.
 
-**Catégorie:** Data  
-**Dernière mise à jour:** 2026-09-22
+## Définition et origine du mot
+« Local-first » signifie d'abord local. L'appareil est privilégié au détriment du cloud. Il fonctionne hors ligne et préserve la confidentialité. Les applications de prise de notes et l'intelligence artificielle locale suivent ce modèle.
 
-La local-first memory (mémoire locale prioritaire) est un paradigme logiciel où les données d'une application résident d'abord sur l'appareil de l'utilisateur, le cloud n'intervenant que comme relais de synchronisation optionnel.
-
-## Définition et étymologie
-À l'opposé des architectures cloud traditionnelles qui se paralysent en l'absence de réseau, le principe 'local-first' garantit une réactivité instantanée et une utilisation hors ligne intégrale. Les données appartiennent d'abord au terminal local via des bases de données autonomes.
-
-## Usage quotidien et contexte pratique
-- **Prise de notes et pensée visuelle :** Des outils comme Obsidian ou Logseq stockant les fichiers bruts sur le disque dur local.
-- **Applications collaboratives résilientes :** Tableaux blancs interactifs fonctionnant sans connexion et fusionnant les modifications ultérieurement.
-- **Mémoire d'agents IA :** Sauvegarde de l'historique et des vecteurs sur le processeur local pour protéger la confidentialité.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Remarques : Carnet hors ligne.Tâche : Liste locale.Médias : Archive de l'appareil.
 
 ## Profondeur technique et architecture
-Piliers techniques fondamentaux :- **Persistance locale native :** SQLite (WASM ou natif) et IndexedDB exécutant les lectures et écritures à latence nulle.
-- **Structures CRDT :** Algorithmes mathématiques (Yjs, Automerge) résolvant automatiquement les conflits de synchronisation.
-- **Chiffrement de bout en bout :** Flux de réplication chiffrés où les serveurs relais ne peuvent pas déchiffrer le contenu.
+Disposition :
 
-## Souvent confondu avec
-Souvent confondue avec un simple cache hors ligne. Le cache n'est qu'une copie temporaire dépendante du serveur maître ; le local-first accorde à votre appareil le statut de source de vérité souveraine.
+## Choses fréquemment mélangées
+On pense au mode hors ligne. C'est un état temporaire, il s'agit d'un modèle de propriété. Les données vous appartiennent, elles ne sont pas en location.
 
-## Perspectives interdisciplinaires
-- **Finance :** Conserver des liquidités dans un coffre personnel vs dépendre exclusivement de comptes bancaires en ligne.
-- **Création :** Écrire sur un carnet de notes papier vs saisir son texte sur un traitement de texte cloud.
-- **Artisanat :** Posséder ses propres outils dans son atelier vs louer des équipements à chaque intervention.
+## Utilisation dans différentes disciplines
+Tiroir : Tiroir domestique verrouillé.Coffre-fort : Dépôt personnel.Portefeuille : Valeur transportée dans la poche.
 
-## Par analogie
-C'est comme conserver ses documents précieux dans un tiroir sécurisé chez soi plutôt que dans un coffre-fort de banque : vous y avez accès à tout moment sans autorisation extérieure.
+## Foire aux questions
+**Que se passe-t-il si l'appareil tombe en panne ?**
+Les données sont perdues. La sauvegarde est conservée ailleurs, le cloud n'est pas considéré comme automatique.
 
-## Questions fréquentes
+**Comment se passe la synchronisation ?**
+Elle fusionne sans conflit grâce au CRDT. Les appareils se synchronisent lorsqu'ils se connectent.
 
-**Pourquoi le modèle local-first prend-il tant d'ampleur ?**  
-Il supprime la dépendance envers les serveurs distants, offre une interface ultra-rapide et protège la vie privée.
+**Quand utiliser le cloud ?**
+Lorsque le partage et la sauvegarde sont nécessaires. Le local est la base, le cloud est une copie.
 
-**Comment gère-t-il la collaboration à plusieurs ?**  
-Grâce aux CRDTs, qui fusionnent de manière déterministe les modifications concurrentes sans écraser de texte.
+**Est-ce sécuritaire?**
+Oui, avec le chiffrement de l'appareil. Le verrouillage est indispensable en cas de perte de l'appareil.
 
-**Peut-on quand même synchroniser plusieurs appareils ?**  
-Oui, des relais légers et chiffrés répliquent les deltas de modifications entre vos différents terminaux.
-
-**Quels moteurs de base de données emploie-t-il ?**  
-SQLite, RxDB, PGlite, ElectricSQL et les moteurs IndexedDB associés à Yjs ou Automerge.
 
 ## Termes liés
-- [Cloud Personnel](/fr/dictionary/personal-cloud/)
-- [Runtime](/fr/dictionary/runtime/)
-- [Confidentialité Numérique](/fr/dictionary/digital-privacy/)
+- [Local-first](/fr/dictionary/local-first/)
+- [Memory System](/fr/dictionary/memory-system/)
+- [Self-hosting](/fr/dictionary/self-hosting/)
 
 ---
-Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/local-first-memory/
+Source : TreScout Glossaire · https://trescout.com/fr/dictionary/local-first-memory/

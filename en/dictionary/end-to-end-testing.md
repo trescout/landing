@@ -40,6 +40,7 @@ It breaks when the interface changes. It is written selectively and durable.
 
 ## Related tools
 - [Cypress](/en/discover/cypress/)
+- [E2e](/en/discover/e2e/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/end-to-end-testing/

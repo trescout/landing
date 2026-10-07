@@ -2,7 +2,7 @@
 
 Vaultwarden é um software de servidor de código aberto desenvolvido na linguagem Rust que funciona de forma compatível com a ferramenta de gerenciamento de senhas Bitwarden.
 
-- ★ 67.398
+- ★ 68.594
 - Rust
 - GitHub Trending · 2026-08-24
 

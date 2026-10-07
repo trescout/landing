@@ -1,0 +1,475 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-04",
+  "capturedAt": "2026-10-04T10:37:20.456Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "pingdotgg/t3code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "summary": "T3code, TypeScript projelerinde kod tabanını analiz ederek geliştiricilere yapısal öneriler sunan bir araçtır. Yazılım mimarisini görselleştiren ve kod kalitesini artırmaya odaklanan bu çözüm, karmaşık projelerin yönetimini kolaylaştırır.",
+          "meta": "TypeScript · ★ 24.885 · +252 bugün",
+          "snapshot": {
+            "sourceId": "pingdotgg/t3code",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 24885,
+              "engagementCount": 252,
+              "rank": 7,
+              "extra": {
+                "starsToday": 252
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem, yapay zekâ ajanlarının oturumlar boyunca kalıcı bağlam (persistent context) oluşturmasını sağlayan bir araçtır. Geçmiş etkileşimleri yapay zekâ ile sıkıştırarak gelecekteki oturumlara aktarır ve Claude Code gibi kodlama asistanlarının hafızasını güçlendirir.",
+          "meta": "TypeScript · ★ 95.810 · +79 bugün",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 95810,
+              "engagementCount": 79,
+              "rank": 8,
+              "extra": {
+                "starsToday": 79
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "cloudflare/cloudflare-os",
+          "url": "https://github.com/cloudflare/cloudflare-os",
+          "summary": "Cloudflare, şirket içi verilerle belge oluşturma, uygulama geliştirme ve yapay zekâ ajanlarını çalıştırma süreçlerini destekleyen bir ajan çalışma alanı (agent workspace) sundu. Cloudflare Workers üzerinde çalışan bu platform, kurumsal sistemlerle entegre bir geliştirme ortamı sağlıyor.",
+          "meta": "TypeScript · ★ 10.697 · +85 bugün",
+          "snapshot": {
+            "sourceId": "cloudflare/cloudflare-os",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10697,
+              "engagementCount": 85,
+              "rank": 9,
+              "extra": {
+                "starsToday": 85
+              }
+            }
+          }
+        },
+        {
+          "title": "jamwithai/production-agentic-rag-course",
+          "url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "summary": "Production Agentic RAG Course, büyük dil modellerinin (large language models) veriye erişimini sağlayan RAG sistemlerini ajan tabanlı iş akışlarıyla birleştirmeyi öğreten bir eğitim kaynağıdır. Python programlama dilini temel alan bu içerik, karmaşık sorguları yanıtlayabilen ve kendi kararlarını verebilen sistemlerin geliştirilmesine odaklanır.",
+          "meta": "Python · ★ 9.485 · +193 bugün",
+          "snapshot": {
+            "sourceId": "jamwithai/production-agentic-rag-course",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 9485,
+              "engagementCount": 193,
+              "rank": 17,
+              "extra": {
+                "starsToday": 193
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video",
+          "url": "https://github.com/meituan-longcat/LongCat-Video",
+          "summary": "Meituan tarafından geliştirilen LongCat-Video, uzun videoları tutarlı bir şekilde oluşturmak için kullanılan bir video üretim çerçevesi (framework). Bu araç, görüntü tutarlılığını koruyarak daha uzun süreli ve yüksek kaliteli video içerikleri üretmeyi sağlıyor.",
+          "meta": "Python · ★ 8.892 · +44 bugün",
+          "snapshot": {
+            "sourceId": "meituan-longcat/LongCat-Video",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8892,
+              "engagementCount": 44,
+              "rank": 18,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "OpenCut, video düzenleme aracı CapCut'a açık kaynaklı bir alternatif olarak geliştirilen TypeScript tabanlı bir yazılımdır. Kullanıcılara video kurgu süreçlerini yerel ortamda ve özgürce yönetme imkânı sunar.",
+          "meta": "TypeScript · ★ 91.800 · +232 bugün",
+          "snapshot": {
+            "sourceId": "OpenCut-app/OpenCut",
+            "capturedAt": "2026-10-04T10:37:22.192Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 91800,
+              "engagementCount": 232,
+              "rank": 19,
+              "extra": {
+                "starsToday": 232
+              }
+            }
+          },
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tell HN: Bob Cringely has died",
+          "url": "https://news.ycombinator.com/item?id=49949438",
+          "summary": "Teknoloji dünyasının tanınmış yazarlarından ve Apple'ın ilk çalışanlarından Mark Stevens, bilinen adıyla Bob Cringely, hayatını kaybetti. Stevens, teknoloji tarihini konu alan belgesel dizisi \"Triumph of the Nerds\" ile geniş kitlelerce tanınıyordu.",
+          "meta": "470 oy · 100 yorum",
+          "snapshot": {
+            "sourceId": "49949438",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 470,
+              "engagementCount": 100,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49949438",
+                  "popularity": 470,
+                  "engagementCount": 100
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "paveworld",
+                "createdAt": "2026-10-04T00:50:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49949438"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49949438",
+              "popularity": 470,
+              "engagementCount": 100
+            }
+          ]
+        },
+        {
+          "title": "We're going to need default hard budget caps on pretty much everything",
+          "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "summary": "Yazılım geliştiriciler, bulut bilişim platformlarında beklenmedik maliyet artışlarını önlemek için varsayılan bütçe sınırları (hard budget caps) uygulanmasını savunuyor. Bu yaklaşım, API kullanımı veya sunucu kaynakları gibi servislerde harcama limitlerinin otomatik olarak kısıtlanmasıyla finansal riskleri yönetmeyi hedefliyor.",
+          "meta": "444 oy · 217 yorum",
+          "snapshot": {
+            "sourceId": "49949235",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 217,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49949235",
+                  "popularity": 444,
+                  "engagementCount": 217
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "elffjs",
+                "createdAt": "2026-10-04T00:20:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49949235"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49949235",
+              "popularity": 444,
+              "engagementCount": 217
+            }
+          ]
+        },
+        {
+          "title": "Hole Punch: Sling your spaceship around gravitational fields",
+          "url": "https://notoriousbfg.com/hole-punch/",
+          "summary": "Hole Punch, kütleçekimsel alanları kullanarak uzay araçlarının yörüngesini değiştirmeye yarayan bir simülasyon aracı. Yerçekimi sapanı (gravity assist) prensibini görselleştirerek karmaşık yörünge mekaniklerini anlaşılır kılıyor.",
+          "meta": "299 oy · 67 yorum",
+          "snapshot": {
+            "sourceId": "49946393",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 299,
+              "engagementCount": 67,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49946393",
+                  "popularity": 299,
+                  "engagementCount": 67
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "trwhite",
+                "createdAt": "2026-10-03T18:06:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49946393"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49946393",
+              "popularity": 299,
+              "engagementCount": 67
+            }
+          ]
+        },
+        {
+          "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+          "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+          "summary": "Valve yazılım mühendisi Timur Kristóf, eski AMD grafik işlem birimleri (GPU) için Linux çekirdeği sürücüsü iyileştirmeleri geliştiriyor. Bu çalışma, eski donanımların modern oyun platformlarında daha kararlı ve performanslı çalışmasını sağlıyor.",
+          "meta": "293 oy · 45 yorum",
+          "snapshot": {
+            "sourceId": "49946895",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 293,
+              "engagementCount": 45,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49946895",
+                  "popularity": 293,
+                  "engagementCount": 45
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "speckx",
+                "createdAt": "2026-10-03T19:14:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49946895"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49946895",
+              "popularity": 293,
+              "engagementCount": 45
+            }
+          ]
+        },
+        {
+          "title": "So you think you could be an electrician?",
+          "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+          "summary": "Elektrik tesisatı sektöründeki iş gücü açığı, mesleki eğitim süreçlerinin karmaşıklığı ve teknik uzmanlık gereksinimleri üzerinden tartışılıyor. Fiziksel iş kollarındaki yetenekli personel eksikliği, modern ekonomideki beceri uyumsuzluğunu (skills gap) somut bir örnekle ortaya koyuyor.",
+          "meta": "236 oy · 163 yorum",
+          "snapshot": {
+            "sourceId": "49910462",
+            "capturedAt": "2026-10-04T10:37:20.801Z",
+            "metadata": {
+              "popularity": 236,
+              "engagementCount": 163,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49910462",
+                  "popularity": 236,
+                  "engagementCount": 163
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "zdw",
+                "createdAt": "2026-09-30T15:43:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49910462"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49910462",
+              "popularity": 236,
+              "engagementCount": 163
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Cloudflare/clef-flash",
+          "url": "https://huggingface.co/Cloudflare/clef-flash",
+          "summary": "Cloudflare tarafından geliştirilen Clef-Flash, görsel ve metin girdilerini işleyerek metin tabanlı çıktılar üreten bir çok modlu yapay zekâ (multimodal AI) modelidir. Model, görsel verileri analiz edip anlamlandırarak hızlı ve etkili metin üretimi yapmayı amaçlar.",
+          "meta": "♥ 384 · 6.372 indirme",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef-flash",
+            "capturedAt": "2026-10-04T10:37:20.577Z",
+            "metadata": {
+              "popularity": 384,
+              "engagementCount": 6372,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 373,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.5",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.5-9B",
+                  "base_model:finetune:Qwen/Qwen3.5-9B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Why don’t more developers \"use the platform\"?",
+          "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+          "summary": "Yazılım geliştiricilerin tarayıcı yerleşik özelliklerini kullanmak yerine ağır kütüphanelere yönelmesi, uygulama boyutlarının gereksiz büyümesine ve performans kayıplarına yol açıyor. Modern web standartlarının sunduğu yerel yetenekler, çoğu zaman dış bağımlılıklara ihtiyaç duymadan benzer işlevleri daha verimli şekilde yerine getirebiliyor.",
+          "meta": "38 oy · 18 yorum",
+          "snapshot": {
+            "sourceId": "srduzv",
+            "capturedAt": "2026-10-04T10:37:20.885Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 18,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform",
+                  "popularity": 38,
+                  "engagementCount": 18
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "web"
+                ],
+                "createdAt": "2026-10-03T16:35:28.658-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform",
+              "popularity": 38,
+              "engagementCount": 18
+            }
+          ]
+        },
+        {
+          "title": "Rust's derive often implies inline",
+          "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+          "summary": "Rust dilindeki türetme (derive) makroları, oluşturulan kodun satır içi (inline) olarak derlenmesine neden olabilir. Bu durum, derleme süresini ve oluşan ikili dosya (binary) boyutunu doğrudan etkileyebilir.",
+          "meta": "24 oy · 5 yorum",
+          "snapshot": {
+            "sourceId": "dldhpw",
+            "capturedAt": "2026-10-04T10:37:20.885Z",
+            "metadata": {
+              "popularity": 24,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
+                  "popularity": 24,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-10-03T20:41:57.843-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline",
+              "popularity": 24,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle konuşmasını ve veri alışverişi yapmasını sağlayan dijital köprü."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "Yapay zekânın önceki konuşmaları unutmayıp, uzun süreli etkileşimlerde bilgileri hafızasında tutabilme yeteneği."
+    },
+    {
+      "term": "agent workspace",
+      "explanation": "Yapay zekâ destekli yardımcıların görevlerini yerine getirirken kullandığı, tüm araçlara ve verilere erişebildiği çalışma alanı."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır kod yapıları ve kurallar bütünü sunan temel çatı."
+    },
+    {
+      "term": "hard budget caps",
+      "explanation": "Bir projenin veya sistemin harcayabileceği kaynağın, teknik olarak aşılması imkânsız olan kesin üst sınırı."
+    }
+  ]
+}

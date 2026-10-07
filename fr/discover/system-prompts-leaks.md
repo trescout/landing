@@ -2,7 +2,7 @@
 
 Le référentiel system_prompts_leaks partagé sur GitHub rassemble les invites système des modèles d'intelligence artificielle de grandes entreprises technologiques telles qu'Anthropic, OpenAI, Google et xAI. Cette collection constitue une ressource centrale pour les développeurs qui souhaitent examiner les instructions de configuration en arrière-plan et les contraintes des modèles de langage courants.
 
-- ★ 65 657
+- ★ 68 956
 - JavaScript
 - GitHub Trending · 2026-06-22
 
