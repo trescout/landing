@@ -39,6 +39,7 @@ Los scripts de fuentes conocidas, sí. Un script obtenido de internet no se ejec
 ## Herramientas relacionadas
 - [NVM](/es/discover/nvm/)
 - [Omarchy](/es/discover/omarchy/)
+- [Cmux](/es/discover/cmux/)
 - [Meshery](/es/discover/meshery/)
 - [Tradingview MCP](/es/discover/tradingview-mcp/)
 

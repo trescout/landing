@@ -2,7 +2,7 @@
 
 O Openrig é uma infraestrutura multi-agente que combina a ferramenta de programação Claude Code, da Anthropic, e o modelo de programação Codex, da OpenAI, em um único sistema. Ele permite que os desenvolvedores usem diferentes modelos de IA simultaneamente no mesmo fluxo de trabalho.
 
-- ★ 4.807
+- ★ 5.622
 - TypeScript
 - GitHub Trending · 2026-09-28
 

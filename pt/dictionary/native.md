@@ -28,10 +28,10 @@ Eles geralmente funcionam dentro de um navegador ou através de uma camada de tr
 
 ## Ferramentas relacionadas
 - [Meshery](/pt/discover/meshery/)
+- [REA](/pt/discover/rea/)
 - [Tinycast](/pt/discover/tinycast/)
 - [Stitch Skills](/pt/discover/stitch-skills/)
 - [Agent Native](/pt/discover/agent-native/)
-- [REA](/pt/discover/rea/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/native/

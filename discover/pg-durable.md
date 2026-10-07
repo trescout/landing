@@ -2,15 +2,15 @@
 
 Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı yürütme (durable execution) süreçlerini yönetmek için tasarlanmış bir kütüphanedir. Rust diliyle yazılan araç, karmaşık iş akışlarını veritabanı içerisinde hata toleranslı ve kalıcı bir şekilde çalıştırmayı sağlar.
 
-- ★ 2.811
+- ★ 2.831
 - Rust
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 2.811 → 2.831, son sürüm v0.2.9 (7 Ekim 2026).
 - 12 Eylül 2026: Yıldız 2.800 → 2.811, son sürüm v0.2.8 (11 Eylül 2026).
 - 2 Eylül 2026: Yıldız 2.781 → 2.800, son sürüm v0.2.7 (1 Eylül 2026).
 - 24 Ağustos 2026: Yıldız 2.716 → 2.781, son sürüm v0.2.6 (24 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 1.580 → 2.716, son sürüm v0.2.5 (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - İş akışlarını veritabanı içinde hata toleranslı ve kalıcı şekilde yönetir.

@@ -2,15 +2,15 @@
 
 AlphaXiv, farklı yapay zekâ modelleri kullanarak paralel araştırma ajanları (research agents) çalıştırmanıza olanak tanıyan bir çerçeve. Rust diliyle geliştirilen bu açık kaynaklı araç, akademik ve teknik araştırmalarda veri toplama süreçlerini hızlandırmayı amaçlıyor.
 
-- ★ 6.654
+- ★ 6.690
 - Rust
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 6.654 → 6.690, son sürüm v0.2.17 (7 Ekim 2026).
 - 6 Ekim 2026: Yıldız 6.454 → 6.654, son sürüm v0.2.16 (5 Ekim 2026).
 - 3 Ekim 2026: Yıldız 6.177 → 6.454, son sürüm v0.2.15 (2 Ekim 2026).
 - 30 Eylül 2026: Yıldız 5.912 → 6.177, son sürüm v0.2.14 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 5.882 → 5.912, son sürüm v0.2.13 (29 Eylül 2026).
 
 ## Ne kazandırır?
 - Farklı araştırma fikirleri için bağımsız ve paralel ajan oturumları oluşturur.

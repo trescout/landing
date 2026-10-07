@@ -38,7 +38,7 @@ Pode ser necessário algum conhecimento técnico durante a fase de instalação,
 - [Fastmcp](/pt/discover/fastmcp/)
 - [Context Mode](/pt/discover/context-mode/)
 - [Unity MCP](/pt/discover/unity-mcp/)
-- [DesktopCommanderMCP](/pt/discover/desktopcommandermcp/)
+- [REA](/pt/discover/rea/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/model-context-protocol-mcp/
