@@ -1,0 +1,951 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-07",
+  "capturedAt": "2026-10-07T11:05:52.463Z",
+  "editorial": "L'agenda d'aujourd'hui est dominé par des avancées techniques combinant les capacités des grands modèles de langage (large language models) avec le contrôle robotique et le raisonnement mathématique. En particulier, les développements logiciels de bas niveau axés sur la gestion de la mémoire et l'efficacité de l'architecture des processeurs établissent une nouvelle norme pour une utilisation plus efficace des ressources matérielles.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea est un outil de rétro-ingénierie (reverse engineering) qui utilise des agents d'intelligence artificielle pour analyser tout type de logiciel, des comportements des applications aux binaires natifs (native binaries). Développé en TypeScript, ce projet automatise l'analyse de systèmes complexes, facilitant ainsi la compréhension de la logique de fonctionnement des logiciels.",
+          "meta": "TypeScript · ★ 11 306 · +2 956 aujourd'hui",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11306,
+              "engagementCount": 2956,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2956
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Ce dépôt, partagé par Matt Pocock, rassemble des packs de compétences personnalisés (skills) préparés par des développeurs de logiciels pour des agents d'intelligence artificielle (AI agents). Ces jeux de commandes prêts à l'emploi, utilisés par les développeurs dans leurs propres environnements de travail, visent à standardiser et à accélérer les processus d'automatisation.",
+          "meta": "Shell · ★ 278 753 · +889 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 278753,
+              "engagementCount": 889,
+              "rank": 2,
+              "extra": {
+                "starsToday": 889
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 est un outil qui porte automatiquement les fichiers exécutables (executables) de la PlayStation 5 vers les systèmes d'exploitation Linux et Windows. Développé en C++, ce logiciel facilite les processus de conversion nécessaires pour permettre aux jeux de console de fonctionner sur différentes plateformes.",
+          "meta": "C++ · ★ 7 986 · +949 aujourd'hui",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 7986,
+              "engagementCount": 949,
+              "rank": 3,
+              "extra": {
+                "starsToday": 949
+              }
+            }
+          }
+        },
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Empêchant les agents de développement logiciel de fournir des réponses complexes et trop longues, i-have-adhd rend les sorties plus compréhensibles pour les utilisateurs souffrant de trouble du déficit de l'attention avec ou sans hyperactivité (TDAH). Cet outil basé sur Python vise à réduire la charge cognitive en présentant les informations fournies par les modèles d'IA de manière directe et ciblée.",
+          "meta": "Python · ★ 54 672 · +326 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ayghri/i-have-adhd",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 54672,
+              "engagementCount": 326,
+              "rank": 4,
+              "extra": {
+                "starsToday": 326
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design propose 42 types différents de conceptions de schémas éditoriaux préparés pour les outils de codage (Claude Code, GitHub Copilot). Ces visuels, aux formats HTML et SVG sans dépendances externes, offrent une possibilité de visualisation simple en évitant les langages de schémas complexes (Mermaid).",
+          "meta": "HTML · ★ 44 395 · +228 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 44395,
+              "engagementCount": 228,
+              "rank": 5,
+              "extra": {
+                "starsToday": 228
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Développé par Addy Osmani, agent-skills propose des compétences d'ingénierie (engineering skills) de niveau production pour les agents de codage par intelligence artificielle. Cette bibliothèque, qui automatise les processus de développement logiciel, permet aux agents d'exécuter des tâches complexes de manière plus cohérente et fiable.",
+          "meta": "JavaScript · ★ 102 310 · +453 aujourd'hui",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 102310,
+              "engagementCount": 453,
+              "rank": 6,
+              "extra": {
+                "starsToday": 453
+              }
+            }
+          }
+        },
+        {
+          "title": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "summary": "Développé par Epic Games, raddebugger est un débogueur (debugger) natif et visuel écrit en langage C. Offrant un support multi-processus (multi-process), cet outil fonctionne en mode utilisateur pour permettre aux développeurs de logiciels de détecter les erreurs d'application.",
+          "meta": "C · ★ 7 693 · +82 aujourd'hui",
+          "snapshot": {
+            "sourceId": "EpicGames/raddebugger",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 7693,
+              "engagementCount": 82,
+              "rank": 7,
+              "extra": {
+                "starsToday": 82
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem est un outil qui permet aux agents d'intelligence artificielle d'établir un contexte persistant (persistent context) entre les sessions. Il compresse les interactions passées de l'agent avec l'IA pour les transférer vers les sessions futures et renforce la mémoire de divers assistants de codage comme Claude Code.",
+          "meta": "TypeScript · ★ 97 391 · +534 aujourd'hui",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 97391,
+              "engagementCount": 534,
+              "rank": 8,
+              "extra": {
+                "starsToday": 534
+              }
+            }
+          }
+        },
+        {
+          "title": "manaflow-ai/cmux",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "summary": "cmux, un terminal macOS basé sur Ghostty, offre des onglets verticaux et un support de notification pour les agents de codage par intelligence artificielle. Axé sur la gestion du multitâche et la programmabilité, cet outil aide les développeurs à organiser leurs environnements de travail.",
+          "meta": "Swift · ★ 27 683 · +50 aujourd'hui",
+          "snapshot": {
+            "sourceId": "manaflow-ai/cmux",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 27683,
+              "engagementCount": 50,
+              "rank": 9,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua propose des pilotes open source, une gestion de flotte multiplateforme et des outils de mesure de performance pour les systèmes automatisant l'utilisation de l'ordinateur (computer-use 2.0). Développée en Rust, cette infrastructure vise à standardiser les processus de formation, d'évaluation et de génération de données pour les agents d'intelligence artificielle.",
+          "meta": "Rust · ★ 28 546 · +229 aujourd'hui",
+          "snapshot": {
+            "sourceId": "trycua/cua",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 28546,
+              "engagementCount": 229,
+              "rank": 10,
+              "extra": {
+                "starsToday": 229
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Développé par Cloudflare, security-audit-skill est une compétence de codage (coding-agent skill) qui permet aux agents logiciels d'effectuer des audits de sécurité en plusieurs étapes. Il standardise les processus de sécurité en produisant des résultats lisibles par machine et vérifiés de manière indépendante.",
+          "meta": "JavaScript · ★ 25 565 · +538 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 25565,
+              "engagementCount": 538,
+              "rank": 11,
+              "extra": {
+                "starsToday": 538
+              }
+            }
+          }
+        },
+        {
+          "title": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "summary": "Il propose un framework de test de bout en bout de nouvelle génération pour les applications e2e, web et mobiles basées sur TypeScript. Cet outil, qui permet aux développeurs d'automatiser leurs processus d'application, vise à standardiser l'écriture des tests.",
+          "meta": "TypeScript · ★ 6 842 · +1 725 aujourd'hui",
+          "snapshot": {
+            "sourceId": "tester-army/e2e",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6842,
+              "engagementCount": 1725,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1725
+              }
+            }
+          }
+        },
+        {
+          "title": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "summary": "OpenGym est une application de suivi sportif auto-hébergée qui permet aux utilisateurs de planifier leurs routines d'entraînement et de suivre leurs exercices au poids du corps. Prenant en charge l'importation de données depuis des outils de suivi d'entraînement populaires tels que FitNotes, Strong et Hevy, ce logiciel vous permet d'analyser en détail le développement musculaire et l'état de fatigue tout en préservant la confidentialité des données.",
+          "meta": "JavaScript · ★ 6 288 · +1 419 aujourd'hui",
+          "snapshot": {
+            "sourceId": "DuarteSantos8/openGym",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6288,
+              "engagementCount": 1419,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1419
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4//",
+          "summary": "Mistral Large 4, développé par Mistral AI, est un nouveau grand modèle de langage (large language model) optimisé pour le raisonnement complexe et la génération de contenu multilingue. Le modèle vise à offrir des performances élevées, notamment dans les tâches techniques telles que l'écriture de code et la résolution de problèmes mathématiques.",
+          "meta": "1 837 votes · 1 106 commentaires",
+          "snapshot": {
+            "sourceId": "49977979",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 1837,
+              "engagementCount": 1106,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49977979",
+                  "popularity": 1837,
+                  "engagementCount": 1106
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-10-06T13:15:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49977979"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49977979",
+              "popularity": 1837,
+              "engagementCount": 1106
+            }
+          ]
+        },
+        {
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "summary": "OpenAI partage ses prépublications de recherche (preprints), préparées dans le but d'améliorer les capacités de raisonnement mathématique des modèles d'intelligence artificielle, dans un dépôt de données public. Cette initiative vise à documenter de manière transparente les progrès réalisés dans le processus de développement de modèles capables de résoudre des problèmes mathématiques complexes.",
+          "meta": "954 votes · 898 commentaires",
+          "snapshot": {
+            "sourceId": "49984923",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 954,
+              "engagementCount": 898,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49984923",
+                  "popularity": 954,
+                  "engagementCount": 898
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "OfficialTurkey",
+                "createdAt": "2026-10-06T22:17:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49984923"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49984923",
+              "popularity": 954,
+              "engagementCount": 898
+            }
+          ]
+        },
+        {
+          "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+          "summary": "Google a publié Gemma 2, un modèle d'intégration (embedding model) open source et léger capable de représenter des données textuelles et visuelles dans un espace vectoriel. Ce modèle permet aux développeurs de traiter plus efficacement les données multimodales dans des applications telles que la recherche et la classification.",
+          "meta": "340 votes · 35 commentaires",
+          "snapshot": {
+            "sourceId": "49980487",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 340,
+              "engagementCount": 35,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49980487",
+                  "popularity": 340,
+                  "engagementCount": 35
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ilreb",
+                "createdAt": "2026-10-06T16:03:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49980487"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49980487",
+              "popularity": 340,
+              "engagementCount": 35
+            }
+          ]
+        },
+        {
+          "title": "Decisions API is in public beta",
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "summary": "OpenAI a mis à disposition en version bêta publique l'interface de décisions (Decisions API), qui permet de gérer les processus de prise de décision des modèles d'intelligence artificielle. Cet outil aide les développeurs à obtenir des résultats plus fiables en limitant les sorties des modèles par des règles et des cadres logiques spécifiques.",
+          "meta": "312 votes · 155 commentaires",
+          "snapshot": {
+            "sourceId": "49984025",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 312,
+              "engagementCount": 155,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49984025",
+                  "popularity": 312,
+                  "engagementCount": 155
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "chiefstorm",
+                "createdAt": "2026-10-06T20:57:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49984025"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49984025",
+              "popularity": 312,
+              "engagementCount": 155
+            }
+          ]
+        },
+        {
+          "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+          "url": "https://github.com/FeSens/openTPU",
+          "summary": "OpenTPU est une architecture d'accélérateur d'IA open source conçue par l'intelligence artificielle. Il vise à faciliter l'accès aux conceptions de processeurs personnalisés en automatisant les processus de développement matériel.",
+          "meta": "292 votes · 345 commentaires",
+          "snapshot": {
+            "sourceId": "49980715",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 292,
+              "engagementCount": 345,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49980715",
+                  "popularity": 292,
+                  "engagementCount": 345
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "fsbonetto",
+                "createdAt": "2026-10-06T16:23:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49980715"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49980715",
+              "popularity": 292,
+              "engagementCount": 345
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Clef, développé par Cloudflare, est un modèle d'IA multimodal qui prend des images et des textes en entrée pour produire des sorties textuelles. Ce modèle offre la capacité d'analyser des données visuelles complexes et de les convertir en descriptions textuelles significatives.",
+          "meta": "♥ 1 743 · 9 513 téléchargements",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 1743,
+              "engagementCount": 9513,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1568,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "JEV-27B-VL, partagé sur Hugging Face, est un modèle d'IA multimodal qui prend des images et des textes en entrée pour produire des sorties textuelles. Ce modèle est utilisé dans diverses tâches de traitement d'image grâce à sa capacité à analyser les données visuelles et à les associer au texte.",
+          "meta": "♥ 1 354 · 1 529 210 téléchargements",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 1354,
+              "engagementCount": 1529210,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1115,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "autotrust/GEV-26B-Decide",
+          "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+          "summary": "GEV-26B-Decide, publié sur Hugging Face, est un modèle d'IA optimisé pour les tâches de classification de texte (text classification). Il est spécialisé dans l'analyse de jeux de données complexes pour classer les textes dans des catégories spécifiques.",
+          "meta": "♥ 940 · 895 867 téléchargements",
+          "snapshot": {
+            "sourceId": "autotrust/GEV-26B-Decide",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 940,
+              "engagementCount": 895867,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 779,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "gemma4",
+                  "image-text-to-text",
+                  "system-one",
+                  "system-two",
+                  "adaptive-thinking",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "lora",
+                  "mixture-of-experts",
+                  "multimodal",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "base_model:google/gemma-4-26B-A4B-it",
+                  "base_model:adapter:google/gemma-4-26B-A4B-it",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "EmbeddingGemma-2, développé par Google, est un modèle d'extraction de caractéristiques (feature-extraction) qui convertit les textes en vecteurs numériques. Ce modèle est conçu pour améliorer les performances des grands modèles de langage (large language models) dans des tâches telles que la recherche sémantique et le clustering de données.",
+          "meta": "♥ 740 · 7 562 téléchargements",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 740,
+              "engagementCount": 7562,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 722,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, développé par l'entreprise technologique allemande Aleph-Alpha, est un modèle d'IA axé sur la génération de texte (text-generation). Partagé sur la plateforme open source HuggingFace, ce modèle vise à accroître l'efficacité des processus de traitement du langage.",
+          "meta": "♥ 746 · 5 775 téléchargements",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 746,
+              "engagementCount": 5775,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 713,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks",
+          "url": "https://huggingface.co/papers/2610.06104",
+          "summary": "Les sommets de trajectoire conditionnels (Conditional Trajectory Peaks) proposent un cadre de politique à passage unique pour l'apprentissage par imitation multimodal (multimodal imitation learning). Cette méthode permet aux systèmes robotiques de prendre des décisions cohérentes entre différents scénarios futurs en prédisant simultanément les segments d'action (action chunks) et les échelles de trajectoire.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.06104",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06104",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies",
+          "url": "https://huggingface.co/papers/2610.06090",
+          "summary": "Le bruit progressif aligné sur l'exécution (Execution-Aligned Progressive Noise), développé pour les politiques robotiques génératives (generative robot policies), résout les incohérences rencontrées par les robots lors des processus de planification instantanée. Cette méthode permet au robot de maintenir ses actions de manière fluide et stable en faisant correspondre une trajectoire de bruit partagée avec des données de mouvement réelles.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.06090",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06090",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation",
+          "url": "https://huggingface.co/papers/2609.39822",
+          "summary": "Les modèles vision-langage-action (vision-language-action) tentent de surmonter le décalage temporel entre les processus d'inférence à faible vitesse et les exigences de fonctionnement à haute vitesse des robots. Pour remédier à ce délai, les chercheurs proposent une méthode de débruitage de flux (flow denoising) en deux étapes, consciente des phases, visant à harmoniser l'inférence du modèle avec le temps de réponse robotique.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.39822",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.39822",
+                "publishedAt": "2026-10-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/MagiclabRobotics/Inference"
+              }
+            }
+          }
+        },
+        {
+          "title": "Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence",
+          "url": "https://huggingface.co/papers/2609.39870",
+          "summary": "Magic-W0 est un modèle de fondation monde-action (world-action foundation model) développé pour permettre aux systèmes robotiques de mieux gérer leurs interactions physiques. En modélisant les changements d'état physique et les actions continues dans une structure intégrée, il permet aux robots d'apprendre leurs interactions avec l'environnement de manière plus structurée.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.39870",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.39870",
+                "publishedAt": "2026-10-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/MagiclabRobotics/Magic-W0"
+              }
+            }
+          }
+        },
+        {
+          "title": "WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification",
+          "url": "https://huggingface.co/papers/2610.07384",
+          "summary": "WildMatch est une méthode de correspondance d'images (image matching) développée pour l'identification individuelle des animaux à partir d'images obtenues par des pièges photographiques. En utilisant l'apprentissage faiblement supervisé (weakly supervised learning), elle vise à détecter l'individu correct avec des données étiquetées limitées en analysant les caractéristiques locales telles que les motifs de fourrure ou de peau des animaux.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.07384",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.07384",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/turhancan97/WildMatch"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+          "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+          "summary": "Le langage de programmation Janet peut être exécuté sur l'interface binaire d'application (ABI) x32, qui combine des pointeurs 32 bits avec la vitesse de processeur 64 bits. Cette structure permet de réduire l'utilisation de la mémoire de 25 %, optimisant ainsi l'utilisation des ressources système.",
+          "meta": "46 votes · 10 commentaires",
+          "snapshot": {
+            "sourceId": "am1cuw",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 46,
+              "engagementCount": 10,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25",
+                  "popularity": 46,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux",
+                  "performance"
+                ],
+                "createdAt": "2026-10-06T17:26:46.902-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25",
+              "popularity": 46,
+              "engagementCount": 10
+            }
+          ]
+        },
+        {
+          "title": "That Time I Worked With a Laptop Thief (2025)",
+          "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+          "summary": "Il relate, à travers une expérience personnelle, les effets des violations de sécurité et de la cybercriminalité sur l'environnement de travail dans les processus de développement logiciel. Il illustre l'importance des protocoles de sécurité d'entreprise et des mécanismes de contrôle interne au sein des équipes par un cas concret.",
+          "meta": "63 votes · 11 commentaires",
+          "snapshot": {
+            "sourceId": "0slgpl",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 63,
+              "engagementCount": 11,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025",
+                  "popularity": 63,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-10-06T15:16:33.717-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025",
+              "popularity": 63,
+              "engagementCount": 11
+            }
+          ]
+        },
+        {
+          "title": "Brut, the Brutal Router for Unix Tools",
+          "url": "https://brut.sh/",
+          "summary": "Brut est un routeur qui connecte les outils de ligne de commande entre eux sur les systèmes basés sur Unix. Conçu pour simplifier les opérations complexes de pipeline, cet outil gère le flux de données entre les commandes de manière plus organisée.",
+          "meta": "29 votes · 16 commentaires",
+          "snapshot": {
+            "sourceId": "dwbksa",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 16,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dwbksa/brut_brutal_router_for_unix_tools",
+                  "popularity": 29,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "show",
+                  "unix"
+                ],
+                "createdAt": "2026-10-06T12:17:23.875-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dwbksa/brut_brutal_router_for_unix_tools",
+              "popularity": 29,
+              "engagementCount": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Fichiers de programmes prêts à l'emploi qu'un système d'exploitation informatique peut exécuter directement, sans avoir besoin d'un autre convertisseur."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Processus consistant à démonter un produit fini pour comprendre comment il fonctionne et en résoudre la logique de fonctionnement."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Logiciels d'intelligence artificielle autonomes capables d'utiliser des outils numériques pour prendre des décisions par eux-mêmes et atteindre des objectifs."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacités ou fonctions spécifiques dont dispose un logiciel pour accomplir une tâche donnée."
+    },
+    {
+      "term": "executables",
+      "explanation": "Fichiers d'application qui s'exécutent lorsqu'on double-clique dessus sur un ordinateur et qui effectuent une tâche spécifique."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "Une condition neurologique qui se manifeste par une courte durée d'attention, une hyperactivité et des difficultés de contrôle des impulsions."
+    },
+    {
+      "term": "Mermaid",
+      "explanation": "Un outil simple qui vous permet de créer des diagrammes complexes et des organigrammes en écrivant du texte."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Compétences consistant à résoudre des problèmes complexes par des étapes logiques, à concevoir des systèmes et à utiliser efficacement des outils techniques."
+    },
+    {
+      "term": "debugger",
+      "explanation": "Un utilitaire qui permet de suivre le code étape par étape pour trouver et corriger les erreurs dans les logiciels."
+    },
+    {
+      "term": "multi-process",
+      "explanation": "La capacité d'un ordinateur à exécuter plusieurs tâches simultanément sous forme de processus indépendants."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "La capacité d'une intelligence artificielle à conserver les conversations ou informations précédentes dans une mémoire à long terme sans les oublier."
+    },
+    {
+      "term": "computer-use 2.0",
+      "explanation": "Une version avancée de la capacité d'une intelligence artificielle à gérer des applications sur un écran d'ordinateur en utilisant la souris et le clavier comme un humain."
+    },
+    {
+      "term": "coding-agent skill",
+      "explanation": "La capacité spécialisée d'une intelligence artificielle à écrire du code, à déboguer et à gérer des projets dans les processus de développement logiciel."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un cadre de travail (framework) qui facilite les tâches lors du développement logiciel en offrant un ensemble de structures et de règles prédéfinies."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "L'hébergement d'un logiciel sur votre propre ordinateur ou sur un serveur qui vous appartient, plutôt que sur le serveur de quelqu'un d'autre."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    }
+  ]
+}
