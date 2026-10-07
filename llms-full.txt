@@ -41889,6 +41889,62 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ
+
+PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır. Sistem, metinleri yerel şekiller, animasyonlar ve sesli konuşmacı notları içeren özelleştirilebilir sunumlara çevirir.
+
+- ★ 58.045
+- Python
+- GitHub Trending · 2026-06-28
+
+## Güncelleme
+- 7 Ekim 2026: Yıldız 55.250 → 58.045, son sürüm v6.6.0 (19 Eylül 2026).
+- 19 Eylül 2026: Yıldız 54.929 → 55.250, son sürüm v6.6.0 (19 Eylül 2026).
+- 17 Eylül 2026: Yıldız 53.988 → 54.929, son sürüm v6.5.0 (16 Eylül 2026).
+- 13 Eylül 2026: Yıldız 53.459 → 53.988, son sürüm v6.4.0 (12 Eylül 2026).
+
+## Ne kazandırır?
+- Metinleri yerel şekiller ve animasyonlar içeren PPTX dosyalarına çevirir.
+- Sunum slaytlarına otomatik sesli konuşmacı notları ekler.
+- Düzenlenebilir yapısı sayesinde sunum üzerinde sonradan değişiklik yapmanıza olanak tanır.
+
+## Kurulum
+
+**Projeyi bilgisayarınıza indirme**
+
+```
+git clone https://github.com/hugohe3/ppt-master.git
+cd ppt-master
+```
+
+**Gerekli kütüphaneleri yükleme**
+
+```
+pip install -r requirements.txt
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Elimdeki belgeyi PPT-Master kullanarak düzenlenebilir bir sunum dosyasına dönüştürmek istiyorum. Belgenin içeriğini analiz et, slayt yapısını oluştur, gerekli animasyonları ve konuşmacı notlarını ekleyerek profesyonel bir PPTX dosyası hazırla. Sonuçta ortaya çıkan sunumun üzerinde PowerPoint içerisinde değişiklik yapabileceğimden emin ol.
+
+- **Kimin için:** Belgelerini hızlıca sunum formatına dönüştürüp üzerinde düzenleme yapmaya devam etmek isteyen herkes için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/hugohe3/ppt-master)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+PPTX PowerPoint Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ppt-master/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Modern ve Açık Kaynaklı CRM
 
 Twenty , teknik ekiplere iş süreçlerine göre özelleştirilebilir modern bir CRM kurma imkânı veren açık kaynaklı bir Salesforce alternatifidir . Yapay zekâ destekli iş akışlarına odaklanan bu sistemi kendi sunucunuzda barındırabilirsiniz.
@@ -42395,15 +42451,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.
 
-- ★ 55.495
+- ★ 55.493
 - JavaScript
 - GitHub Trending · 2026-08-22
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 55.495 → 55.493, son sürüm v6.69.0 (7 Ekim 2026).
 - 7 Ekim 2026: Yıldız 55.459 → 55.495, son sürüm v6.68.0 (6 Ekim 2026).
 - 29 Eylül 2026: Yıldız 55.438 → 55.459, son sürüm v6.67.0 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 55.318 → 55.438, son sürüm v6.65.0 (22 Eylül 2026).
-- 16 Eylül 2026: Yıldız 55.233 → 55.318, son sürüm v6.64.0 (15 Eylül 2026).
 
 ## Ne kazandırır?
 - Abonelik tabanlı gelir modelleri oluşturma
@@ -42449,62 +42505,6 @@ CMS CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ghost/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ
-
-PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır. Sistem, metinleri yerel şekiller, animasyonlar ve sesli konuşmacı notları içeren özelleştirilebilir sunumlara çevirir.
-
-- ★ 55.250
-- Python
-- GitHub Trending · 2026-06-28
-
-## Güncelleme
-- 19 Eylül 2026: Yıldız 54.929 → 55.250, son sürüm v6.6.0 (19 Eylül 2026).
-- 17 Eylül 2026: Yıldız 53.988 → 54.929, son sürüm v6.5.0 (16 Eylül 2026).
-- 13 Eylül 2026: Yıldız 53.459 → 53.988, son sürüm v6.4.0 (12 Eylül 2026).
-- 10 Eylül 2026: Yıldız 53.219 → 53.459, son sürüm v6.3.2 (10 Eylül 2026).
-
-## Ne kazandırır?
-- Metinleri yerel şekiller ve animasyonlar içeren PPTX dosyalarına çevirir.
-- Sunum slaytlarına otomatik sesli konuşmacı notları ekler.
-- Düzenlenebilir yapısı sayesinde sunum üzerinde sonradan değişiklik yapmanıza olanak tanır.
-
-## Kurulum
-
-**Projeyi bilgisayarınıza indirme**
-
-```
-git clone https://github.com/hugohe3/ppt-master.git
-cd ppt-master
-```
-
-**Gerekli kütüphaneleri yükleme**
-
-```
-pip install -r requirements.txt
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Elimdeki belgeyi PPT-Master kullanarak düzenlenebilir bir sunum dosyasına dönüştürmek istiyorum. Belgenin içeriğini analiz et, slayt yapısını oluştur, gerekli animasyonları ve konuşmacı notlarını ekleyerek profesyonel bir PPTX dosyası hazırla. Sonuçta ortaya çıkan sunumun üzerinde PowerPoint içerisinde değişiklik yapabileceğimden emin ol.
-
-- **Kimin için:** Belgelerini hızlıca sunum formatına dönüştürüp üzerinde düzenleme yapmaya devam etmek isteyen herkes için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/hugohe3/ppt-master)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-PPTX PowerPoint Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ppt-master/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -45845,6 +45845,74 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Belirteçsiz Çok Dilli Ses Tasarımı
+
+VoxCPM ; çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi ses kopyalama (voice cloning) işlemleri için geliştirilmiş, belirteçsiz (tokenizer-free) açık kaynak bir TTS modelidir.
+
+- ★ 38.380
+- Python
+- Apache-2.0
+- GitHub Trending · 30 May 2026
+
+## Kurulum
+
+**PyPI ile kur**
+
+```
+pip install voxcpm
+```
+
+## Çalıştırma
+
+**Metinden ses üret**
+
+```
+voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav
+```
+
+Kaynak: Resmî kaynak: https://github.com/OpenBMB/VoxCPM
+
+## Güncelleme
+- 7 Ekim 2026: Yıldız 36.548 → 38.380, son sürüm 2.0.3 (11 Mayıs 2026).
+- 2 Eylül 2026: Yıldız 34.774 → 36.548, son sürüm 2.0.3 (11 Mayıs 2026).
+- 2 Ağustos 2026: Yıldız 22.648 → 34.774, son sürüm 2.0.3 (11 Mayıs 2026).
+
+- **Kimin için:** Ses/TTS geliştiren geliştiriciler, araştırmacılar 
+- **Zorluk:** İleri · ML/model bilgisi 
+- **Ne sunar:** Çok dilli TTS + ses tasarımı + klonlama 
+- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
+- **Lisans:** Apache-2.0 · ayrıntı aşağıda 
+
+## Ne sunar?
+- Çok dilli ve doğal konuşma üretimi.
+- Yaratıcı ve özgün ses tasarımı.
+- Yüksek doğrulukta ses kopyalama (voice cloning).
+
+## Sorumluluk notu
+
+Ses kopyalama (voice cloning) içerir. Bir kişinin sesini izni olmadan taklit etmek yasal ve etik sorun yaratır; sorumluluk kullanıcıya aittir.
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+VoxCPM metinden konuşma aracını kurmak için 'pip install voxcpm' komutunu çalıştır, sonra 'voxcpm design --text "Merhaba dünya" --output out.wav' komutuyla bir ses dosyası üret; istersem referans bir ses dosyasıyla 'voxcpm clone' kullanarak o sesi klonla.
+
+Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir.
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/OpenBMB/VoxCPM)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Tokenizer-free Voice Cloning Cloning Text-to-Speech Clone Open Source
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/voxcpm/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapılandırılmış müfredatla İngilizce öğrenin
 
 Everyone-can-use-english, İngilizce öğrenme sürecini yapılandırılmış bir müfredatla destekleyen açık kaynaklı bir eğitim projesi. Dil becerilerini geliştirmek isteyen kullanıcılar için pratik yöntemler ve çalışma kaynakları sunuyor.
@@ -45926,6 +45994,57 @@ Routing Pack Toolchain Bootstrapping Skill Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/reverse-skill/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Uygulamalarınız İçin yapay zekâ Arayüzleri
+
+CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.
+
+- ★ 37.797
+- TypeScript
+- GitHub Trending · 2026-06-06
+
+## Güncelleme
+- 7 Ekim 2026: Yıldız 37.693 → 37.797, son sürüm v1.77.1 (7 Ekim 2026).
+- 3 Ekim 2026: Yıldız 37.637 → 37.693, son sürüm v1.77.0 (2 Ekim 2026).
+- 1 Ekim 2026: Yıldız 37.632 → 37.637, son sürüm v1.76.0 (1 Ekim 2026).
+- 1 Ekim 2026: Yıldız 37.606 → 37.632, son sürüm v1.75.2 (30 Eylül 2026).
+
+## Ne kazandırır?
+- Uygulamalara dinamik ve akıllı arayüzler ekler.
+- Yapay zekâ ajanları ile kullanıcı arayüzü arasında gerçek zamanlı veri paylaşımı sağlar.
+- İnsan onaylı iş akışları ve kendi kendine öğrenen ajanlar oluşturulmasına olanak tanır.
+
+## Kurulum
+
+**npm ile ekle**
+
+```
+npm install @copilotkit/react-core
+```
+
+Kaynak: Resmî kaynak: https://github.com/CopilotKit/CopilotKit
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+CopilotKit kullanarak uygulamama yapay zekâ yetenekleri eklemek istiyorum. Projemin altyapısına uygun olarak npx copilotkit@latest create -f veya mevcut projem için npx copilotkit@latest init komutlarını kullanarak kurulumu nasıl yapılandırabilirim? Ajanların arayüzle etkileşimini sağlamak ve Generative UI özelliklerini kullanmaya başlamak için izlemem gereken temel adımları açıkla.
+
+- **Kimin için:** Uygulamalarına yapay zekâ destekli akıllı arayüzler ve ajan tabanlı iş akışları entegre etmek isteyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/CopilotKit/CopilotKit)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Frontend Stack Generative UI Framework Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/copilotkit/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -46021,57 +46140,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hyprland/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Uygulamalarınız İçin yapay zekâ Arayüzleri
-
-CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.
-
-- ★ 37.693
-- TypeScript
-- GitHub Trending · 2026-06-06
-
-## Güncelleme
-- 3 Ekim 2026: Yıldız 37.637 → 37.693, son sürüm v1.77.0 (2 Ekim 2026).
-- 1 Ekim 2026: Yıldız 37.632 → 37.637, son sürüm v1.76.0 (1 Ekim 2026).
-- 1 Ekim 2026: Yıldız 37.606 → 37.632, son sürüm v1.75.2 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 37.596 → 37.606, son sürüm v1.75.1 (29 Eylül 2026).
-
-## Ne kazandırır?
-- Uygulamalara dinamik ve akıllı arayüzler ekler.
-- Yapay zekâ ajanları ile kullanıcı arayüzü arasında gerçek zamanlı veri paylaşımı sağlar.
-- İnsan onaylı iş akışları ve kendi kendine öğrenen ajanlar oluşturulmasına olanak tanır.
-
-## Kurulum
-
-**npm ile ekle**
-
-```
-npm install @copilotkit/react-core
-```
-
-Kaynak: Resmî kaynak: https://github.com/CopilotKit/CopilotKit
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-CopilotKit kullanarak uygulamama yapay zekâ yetenekleri eklemek istiyorum. Projemin altyapısına uygun olarak npx copilotkit@latest create -f veya mevcut projem için npx copilotkit@latest init komutlarını kullanarak kurulumu nasıl yapılandırabilirim? Ajanların arayüzle etkileşimini sağlamak ve Generative UI özelliklerini kullanmaya başlamak için izlemem gereken temel adımları açıkla.
-
-- **Kimin için:** Uygulamalarına yapay zekâ destekli akıllı arayüzler ve ajan tabanlı iş akışları entegre etmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/CopilotKit/CopilotKit)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Frontend Stack Generative UI Framework Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/copilotkit/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -46441,73 +46509,6 @@ Omni-channel Desk Omni-channel Deployment Self-hosted Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chatwoot/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Belirteçsiz Çok Dilli Ses Tasarımı
-
-VoxCPM ; çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi ses kopyalama (voice cloning) işlemleri için geliştirilmiş, belirteçsiz (tokenizer-free) açık kaynak bir TTS modelidir.
-
-- ★ 36.548
-- Python
-- Apache-2.0
-- GitHub Trending · 30 May 2026
-
-## Kurulum
-
-**PyPI ile kur**
-
-```
-pip install voxcpm
-```
-
-## Çalıştırma
-
-**Metinden ses üret**
-
-```
-voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav
-```
-
-Kaynak: Resmî kaynak: https://github.com/OpenBMB/VoxCPM
-
-## Güncelleme
-- 2 Eylül 2026: Yıldız 34.774 → 36.548, son sürüm 2.0.3 (11 Mayıs 2026).
-- 2 Ağustos 2026: Yıldız 22.648 → 34.774, son sürüm 2.0.3 (11 Mayıs 2026).
-
-- **Kimin için:** Ses/TTS geliştiren geliştiriciler, araştırmacılar 
-- **Zorluk:** İleri · ML/model bilgisi 
-- **Ne sunar:** Çok dilli TTS + ses tasarımı + klonlama 
-- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
-- **Lisans:** Apache-2.0 · ayrıntı aşağıda 
-
-## Ne sunar?
-- Çok dilli ve doğal konuşma üretimi.
-- Yaratıcı ve özgün ses tasarımı.
-- Yüksek doğrulukta ses kopyalama (voice cloning).
-
-## Sorumluluk notu
-
-Ses kopyalama (voice cloning) içerir. Bir kişinin sesini izni olmadan taklit etmek yasal ve etik sorun yaratır; sorumluluk kullanıcıya aittir.
-
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-VoxCPM metinden konuşma aracını kurmak için 'pip install voxcpm' komutunu çalıştır, sonra 'voxcpm design --text "Merhaba dünya" --output out.wav' komutuyla bir ses dosyası üret; istersem referans bir ses dosyasıyla 'voxcpm clone' kullanarak o sesi klonla.
-
-Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir.
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/OpenBMB/VoxCPM)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Tokenizer-free Voice Cloning Cloning Text-to-Speech Clone Open Source
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/voxcpm/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -48468,6 +48469,69 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanınıza kalıcı hafıza
+
+Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi grafiği motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırılmış şekilde saklamasına ve geri çağırmasına olanak tanır.
+
+- ★ 31.532
+- Python
+- GitHub Trending · 2026-06-22
+
+## Güncelleme
+- 7 Ekim 2026: Yıldız 31.225 → 31.532, son sürüm v1.6.3 (7 Ekim 2026).
+- 29 Eylül 2026: Yıldız 30.996 → 31.225, son sürüm v1.6.2 (29 Eylül 2026).
+- 27 Eylül 2026: Yıldız 30.830 → 30.996, son sürüm v1.6.1 (24 Eylül 2026).
+- 19 Eylül 2026: Yıldız 30.711 → 30.830, son sürüm v1.6.0 (18 Eylül 2026).
+
+## Ne kazandırır?
+- Ajanlar için oturumlar arası kalıcı uzun süreli bellek
+- Kendi kendine barındırılan bilgi grafiği motoru
+- Veri kaynaklarını birleştirerek bağlamsal öğrenme
+
+## Kurulum
+
+**Paket kurulumu**
+
+```
+uv pip install cognee
+```
+
+## Çalıştırma
+
+**Temel kullanım**
+
+```
+cognee-cli remember "Cognee turns documents into AI memory."
+```
+
+**Arayüzü başlatma**
+
+```
+cognee-cli -ui
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Cognee kullanarak verilerimi bir bilgi grafiği yapısında saklamak ve ajanımın bu verileri uzun süreli hafızasında tutarak geri çağırmasını sağlamak istiyorum. Lütfen cognee.remember() fonksiyonu ile veriyi hafızaya almamı ve cognee.recall() ile bu veriye dayalı anlamlı yanıtlar üretmemi sağlayacak bir iş akışı oluştur.
+
+- **Kimin için:** Yapay zekâ ajanlarının geçmiş oturumlardan öğrenmesini ve karmaşık veriler arasında bağ kurmasını isteyen geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/topoteretes/cognee)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Knowledge Graph Engine Long-term Memory Knowledge Graph Memory Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/cognee/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # 34 ücretsiz LLM sağlayıcısını tek API'de birleştirin
 
 FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli sağlayıcısını OpenAI formatında tek bir REST API altında toplayarak akıllı yönlendirme ve arıza toleransı sunar.
@@ -48552,69 +48616,6 @@ Pipeline Proxy Localhost SDK LLM API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/freellmapi/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanınıza kalıcı hafıza
-
-Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi grafiği motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırılmış şekilde saklamasına ve geri çağırmasına olanak tanır.
-
-- ★ 31.225
-- Python
-- GitHub Trending · 2026-06-22
-
-## Güncelleme
-- 29 Eylül 2026: Yıldız 30.996 → 31.225, son sürüm v1.6.2 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 30.830 → 30.996, son sürüm v1.6.1 (24 Eylül 2026).
-- 19 Eylül 2026: Yıldız 30.711 → 30.830, son sürüm v1.6.0 (18 Eylül 2026).
-- 16 Eylül 2026: Yıldız 30.480 → 30.711, son sürüm v1.5.4rc1 (15 Eylül 2026).
-
-## Ne kazandırır?
-- Ajanlar için oturumlar arası kalıcı uzun süreli bellek
-- Kendi kendine barındırılan bilgi grafiği motoru
-- Veri kaynaklarını birleştirerek bağlamsal öğrenme
-
-## Kurulum
-
-**Paket kurulumu**
-
-```
-uv pip install cognee
-```
-
-## Çalıştırma
-
-**Temel kullanım**
-
-```
-cognee-cli remember "Cognee turns documents into AI memory."
-```
-
-**Arayüzü başlatma**
-
-```
-cognee-cli -ui
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Cognee kullanarak verilerimi bir bilgi grafiği yapısında saklamak ve ajanımın bu verileri uzun süreli hafızasında tutarak geri çağırmasını sağlamak istiyorum. Lütfen cognee.remember() fonksiyonu ile veriyi hafızaya almamı ve cognee.recall() ile bu veriye dayalı anlamlı yanıtlar üretmemi sağlayacak bir iş akışı oluştur.
-
-- **Kimin için:** Yapay zekâ ajanlarının geçmiş oturumlardan öğrenmesini ve karmaşık veriler arasında bağ kurmasını isteyen geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/topoteretes/cognee)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Knowledge Graph Engine Long-term Memory Knowledge Graph Memory Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/cognee/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -49911,6 +49912,78 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Claude ile Uzman Asistan Deneyimi
+
+Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için beceriler, bağlayıcılar, slash komutları ve alt-ajanları bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, Claude Cowork için tasarlanmış 11 hazır eklenti içerir.
+
+- ★ 26.989
+- Python
+- Apache-2.0
+- GitHub Trending · 26 May 2026
+
+## Güncelleme
+- 7 Ekim 2026: Yıldız 25.686 → 26.989.
+- 27 Eylül 2026: Yıldız 24.405 → 25.686.
+- 17 Eylül 2026: Yıldız 23.222 → 24.405.
+- 1 Ağustos 2026: Yıldız 16.517 → 23.222.
+
+- **Kimin için:** Kod yazmayan bilgi çalışanları (Cowork kullananlar) 
+- **Zorluk:** Başlangıç dostu · Claude Cowork üzerinde 
+- **İçerik:** 11 hazır eklenti (rol/ekip bazlı) 
+- **Kaynak:** Anthropic · resmi depo 
+- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
+
+## Ne kazandırır?
+- Claude'u rolünüze göre uzmanlaştırır (örneğin pazarlama, finans, hukuk).
+- Her eklenti beceri, bağlayıcı ve komut paketinden oluşur, hızlı başlangıç sağlar.
+- Claude'a işi nasıl sevdiğinizi öğretip verimliliğinizi artırırsınız.
+- Kod yazmanız gerekmez, Cowork üzerinde doğrudan çalışır.
+
+## Kurulum
+
+**Claude Code marketplace’ini ekle**
+
+```
+claude plugin marketplace add anthropics/knowledge-work-plugins
+claude plugin install sales@knowledge-work-plugins
+```
+
+## Çalıştırma
+
+**Satış hazırlık akışını çalıştır**
+
+```
+/sales:call-prep
+```
+
+Kaynak: Resmî kaynak: https://github.com/anthropics/knowledge-work-plugins
+
+## Nasıl başlanır?
+
+Claude Cowork eklenti pazarından kurulum yapabilirsiniz. 11 eklentinin listesi ve işlevleri repoda tablo halinde yer alır. Kurulum sonrası Claude, ilgili iş fonksiyonunda bir uzman gibi davranmaya başlar.
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Claude Code'da 'claude plugin marketplace add anthropics/knowledge-work-plugins' ve ardından 'claude plugin install sales@knowledge-work-plugins' komutlarını çalıştırarak rolüme uygun eklentiyi kur (sales yerine finance, marketing gibi istediğim rolü yazabilirim).
+
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/anthropics/knowledge-work-plugins)
+- [Claude Cowork →](https://claude.com/product/cowork)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Plugin Open Source Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/knowledge-work-plugins/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Açık kaynaklı faz dizili radar
 
 PLFM RADAR, 10.5 GHz (X-bandı) frekansında çalışan, elektronik huzme yönlendirme (electronic beam steering) ve FPGA tabanlı sayısal sinyal işleme yeteneklerine sahip açık kaynaklı bir faz dizili radar sistemidir. Mekanik hareketli parça kullanmaksızın hava ve yer hedeflerini yüksek hassasiyetle tespit edip izler.
@@ -50409,77 +50482,6 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/developer-portfolios/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Claude ile Uzman Asistan Deneyimi
-
-Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için beceriler, bağlayıcılar, slash komutları ve alt-ajanları bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, Claude Cowork için tasarlanmış 11 hazır eklenti içerir.
-
-- ★ 25.686
-- Python
-- Apache-2.0
-- GitHub Trending · 26 May 2026
-
-## Güncelleme
-- 27 Eylül 2026: Yıldız 24.405 → 25.686.
-- 17 Eylül 2026: Yıldız 23.222 → 24.405.
-- 1 Ağustos 2026: Yıldız 16.517 → 23.222.
-
-- **Kimin için:** Kod yazmayan bilgi çalışanları (Cowork kullananlar) 
-- **Zorluk:** Başlangıç dostu · Claude Cowork üzerinde 
-- **İçerik:** 11 hazır eklenti (rol/ekip bazlı) 
-- **Kaynak:** Anthropic · resmi depo 
-- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
-
-## Ne kazandırır?
-- Claude'u rolünüze göre uzmanlaştırır (örneğin pazarlama, finans, hukuk).
-- Her eklenti beceri, bağlayıcı ve komut paketinden oluşur, hızlı başlangıç sağlar.
-- Claude'a işi nasıl sevdiğinizi öğretip verimliliğinizi artırırsınız.
-- Kod yazmanız gerekmez, Cowork üzerinde doğrudan çalışır.
-
-## Kurulum
-
-**Claude Code marketplace’ini ekle**
-
-```
-claude plugin marketplace add anthropics/knowledge-work-plugins
-claude plugin install sales@knowledge-work-plugins
-```
-
-## Çalıştırma
-
-**Satış hazırlık akışını çalıştır**
-
-```
-/sales:call-prep
-```
-
-Kaynak: Resmî kaynak: https://github.com/anthropics/knowledge-work-plugins
-
-## Nasıl başlanır?
-
-Claude Cowork eklenti pazarından kurulum yapabilirsiniz. 11 eklentinin listesi ve işlevleri repoda tablo halinde yer alır. Kurulum sonrası Claude, ilgili iş fonksiyonunda bir uzman gibi davranmaya başlar.
-
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Claude Code'da 'claude plugin marketplace add anthropics/knowledge-work-plugins' ve ardından 'claude plugin install sales@knowledge-work-plugins' komutlarını çalıştırarak rolüme uygun eklentiyi kur (sales yerine finance, marketing gibi istediğim rolü yazabilirim).
-
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/anthropics/knowledge-work-plugins)
-- [Claude Cowork →](https://claude.com/product/cowork)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Plugin Open Source Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/knowledge-work-plugins/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -51804,15 +51806,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır. Swift diliyle geliştirilen bu uygulama, geliştiricilerin yapay zekâ destekli kodlama araçlarındaki tüketim istatistiklerini izlemelerini kolaylaştırır.
 
-- ★ 22.196
+- ★ 22.268
 - Swift
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 22.196 → 22.268, son sürüm v0.73.0 (7 Ekim 2026).
 - 5 Ekim 2026: Yıldız 22.145 → 22.196, son sürüm v0.72.0 (4 Ekim 2026).
 - 3 Ekim 2026: Yıldız 22.066 → 22.145, son sürüm v0.71.1 (3 Ekim 2026).
 - 30 Eylül 2026: Yıldız 22.045 → 22.066, son sürüm v0.70.0 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 21.968 → 22.045, son sürüm v0.69.0 (28 Eylül 2026).
 
 ## Ne kazandırır?
 - Tüm yapay zekâ servislerinin kullanım limitlerini menü çubuğunda anlık görün
@@ -58040,14 +58042,14 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini sağlayan çok platformlu bir yazılım geliştirme kiti (SDK) sunuyor. Java diliyle hazırlanan bu araç, özelleştirilmiş yapay zekâ iş akışlarının farklı platformlarda standart bir yapıyla oluşturulmasına olanak tanıyor.
 
-- ★ 10.534
+- ★ 10.544
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 10.534 → 10.544, son sürüm v1.0.17 (7 Ekim 2026).
 - 1 Ekim 2026: Yıldız 10.526 → 10.534, son sürüm v1.0.16 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 10.478 → 10.526, son sürüm v1.0.15 (28 Eylül 2026).
 - 16 Eylül 2026: Yıldız 10.460 → 10.478, son sürüm v1.0.14 (16 Eylül 2026).
-- 5 Eylül 2026: Yıldız 10.412 → 10.460, son sürüm v1.0.13 (4 Eylül 2026).
 
 ## Ne kazandırır?
 - Copilot motorunu uygulamalarınıza entegre edin
@@ -58236,15 +58238,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performans artışı ve gizlilik odaklı yapılandırmalar sunan açık kaynaklı bir araçtır. Kullanıcıların sistem ayarlarını basitleştirmesini sağlayan bu yazılım, Windows optimizasyon süreçlerini tek bir arayüzde toplar.
 
-- ★ 10.063
+- ★ 10.279
 - C#
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 10.063 → 10.279, son sürüm v2.29.0 (7 Ekim 2026).
 - 5 Ekim 2026: Yıldız 9.701 → 10.063, son sürüm v2.28.1 (4 Ekim 2026).
 - 27 Eylül 2026: Yıldız 8.809 → 9.701, son sürüm v2.28.0 (21 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 8.365 → 8.809, son sürüm v2.27.6 (28 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 7.672 → 8.365, son sürüm v2.26.2 (12 Ağustos 2026).
 
 ## Ne kazandırır?
 - Windows arka plan işlemlerini ve bloatware yazılımları temizler
@@ -61537,10 +61539,10 @@ BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için ye
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 7.082 → 7.082, son sürüm @agent-native/otel@0.1.0 (7 Ekim 2026).
 - 7 Ekim 2026: Yıldız 7.073 → 7.082, son sürüm v0.1.276 (6 Ekim 2026).
 - 6 Ekim 2026: Yıldız 7.043 → 7.073, son sürüm v0.1.275 (6 Ekim 2026).
 - 3 Ekim 2026: Yıldız 7.012 → 7.043, son sürüm v0.1.274 (2 Ekim 2026).
-- 1 Ekim 2026: Yıldız 6.997 → 7.012, son sürüm @agent-native/core-corpus@0.198.8 (1 Ekim 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -64418,15 +64420,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir çalışma alanı. Rust diliyle geliştirilen bu platform, farklı iş akışlarını tek bir arayüzde birbirine bağlı hale getiriyor.
 
-- ★ 4.580
+- ★ 4.584
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 4.580 → 4.584, son sürüm v2026.10.7 (7 Ekim 2026).
 - 7 Ekim 2026: Yıldız 4.519 → 4.580, son sürüm v2026.10.6.2 (6 Ekim 2026).
 - 2 Ekim 2026: Yıldız 4.501 → 4.519, son sürüm v2026.10.1.0 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 4.483 → 4.501, son sürüm v2026.9.30.0 (1 Ekim 2026).
-- 29 Eylül 2026: Yıldız 4.425 → 4.483, son sürüm v2026.9.28.1 (28 Eylül 2026).
 
 ## Ne kazandırır?
 - E-posta, sohbet, görev ve dokümanları tek arayüzde toplar.

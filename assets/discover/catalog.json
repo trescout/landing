@@ -226,7 +226,7 @@
     "slug": "knowledge-work-plugins",
     "title": "Knowledge Work Plugins",
     "tagline": "Claude'u alanında uzman bir asistana dönüştüren açık kaynaklı eklentiler.",
-    "meta": "★ 25.686 · Apache-2.0",
+    "meta": "★ 26.989 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
@@ -234,7 +234,7 @@
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 25686,
+    "stars": 26989,
     "image": "/assets/discover/og/knowledge-work-plugins.webp",
     "headline": "Claude ile Uzman Asistan Deneyimi",
     "last_review": "2026-10-07",
@@ -253,6 +253,11 @@
         "tarih": "2026-09-27",
         "yildiz": 25686,
         "onceki_yildiz": 24405
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 26989,
+        "onceki_yildiz": 25686
       }
     ],
     "tagline_en": "Open source plugins that turn Claude into an expert assistant.",
@@ -2433,13 +2438,13 @@
     "slug": "voxcpm",
     "title": "VoxCPM",
     "tagline": "Belirteçsiz (tokenizer-free) çok dilli TTS: ses tasarımı ve ses kopyalama çözümü.",
-    "meta": "★ 36.548 · Apache-2.0",
+    "meta": "★ 38.380 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 36548,
+    "stars": 38380,
     "image": "/assets/discover/og/voxcpm.webp",
     "headline": "Belirteçsiz Çok Dilli Ses Tasarımı",
     "last_review": "2026-10-07",
@@ -2455,6 +2460,13 @@
         "tarih": "2026-09-02",
         "yildiz": 36548,
         "onceki_yildiz": 34774,
+        "surum": "2.0.3",
+        "surum_tarihi": "2026-05-11"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 38380,
+        "onceki_yildiz": 36548,
         "surum": "2.0.3",
         "surum_tarihi": "2026-05-11"
       }
@@ -5607,7 +5619,7 @@
     "slug": "copilot-sdk",
     "title": "Copilot SDK",
     "tagline": "GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini…",
-    "meta": "★ 10.534",
+    "meta": "★ 10.544",
     "image": "/assets/discover/og/copilot-sdk.webp",
     "source": "GitHub",
     "date": "2026-06-05",
@@ -5615,7 +5627,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10534,
+    "stars": 10544,
     "lite": false,
     "headline": "Uygulamanıza yapay zekâ ajanları ekleyin",
     "cmds": {
@@ -5677,6 +5689,13 @@
         "onceki_yildiz": 10526,
         "surum": "v1.0.16",
         "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 10544,
+        "onceki_yildiz": 10534,
+        "surum": "v1.0.17",
+        "surum_tarihi": "2026-10-07"
       }
     ],
     "tagline_en": "GitHub Copilot SDK allows developers to integrate GitHub Copilot AI agents into their applications and services.",
@@ -5852,7 +5871,7 @@
     "slug": "copilotkit",
     "title": "CopilotKit",
     "tagline": "CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz…",
-    "meta": "★ 37.693 · TypeScript",
+    "meta": "★ 37.797 · TypeScript",
     "image": "/assets/discover/og/copilotkit.webp",
     "source": "GitHub",
     "date": "2026-06-06",
@@ -5860,7 +5879,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37693,
+    "stars": 37797,
     "lite": false,
     "headline": "Uygulamalarınız İçin yapay zekâ Arayüzleri",
     "last_review": "2026-10-07",
@@ -6060,6 +6079,13 @@
         "onceki_yildiz": 37637,
         "surum": "v1.77.0",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 37797,
+        "onceki_yildiz": 37693,
+        "surum": "v1.77.1",
+        "surum_tarihi": "2026-10-07"
       }
     ],
     "tagline_en": "CopilotKit is a React and Angular-based frontend for developing artificial intelligence agents and generative UIs.",
@@ -10152,14 +10178,14 @@
     "slug": "optimizerduck",
     "title": "optimizerDuck",
     "tagline": "C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performans artışı ve gizlilik odaklı yapılandırmalar…",
-    "meta": "★ 10.063 · C#",
+    "meta": "★ 10.279 · C#",
     "image": "/assets/discover/og/optimizerduck.webp",
     "source": "GitHub",
     "date": "2026-06-16",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 10063,
+    "stars": 10279,
     "lite": false,
     "headline": "Windows performansını ve gizliliğini artırın",
     "last_review": "2026-10-07",
@@ -10198,6 +10224,13 @@
         "onceki_yildiz": 9701,
         "surum": "v2.28.1",
         "surum_tarihi": "2026-10-04"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 10279,
+        "onceki_yildiz": 10063,
+        "surum": "v2.29.0",
+        "surum_tarihi": "2026-10-07"
       }
     ],
     "tagline_en": "Developed with C# language, optimizerDuck provides performance increase and privacy-oriented configurations in Windows operating systems…",
@@ -12501,6 +12534,13 @@
         "onceki_yildiz": 7073,
         "surum": "v0.1.276",
         "surum_tarihi": "2026-10-06"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 7082,
+        "onceki_yildiz": 7082,
+        "surum": "@agent-native/otel@0.1.0",
+        "surum_tarihi": "2026-10-07"
       }
     ],
     "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…",
@@ -13079,7 +13119,7 @@
     "slug": "cognee",
     "title": "Cognee",
     "tagline": "Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur.",
-    "meta": "★ 31.225 · Python",
+    "meta": "★ 31.532 · Python",
     "image": "/assets/discover/og/cognee.webp",
     "source": "GitHub",
     "date": "2026-06-22",
@@ -13087,7 +13127,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 31225,
+    "stars": 31532,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
     "last_review": "2026-10-07",
@@ -13182,6 +13222,13 @@
         "onceki_yildiz": 30996,
         "surum": "v1.6.2",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 31532,
+        "onceki_yildiz": 31225,
+        "surum": "v1.6.3",
+        "surum_tarihi": "2026-10-07"
       }
     ],
     "tagline_en": "Cognee is an open source platform that provides long-term memory between sessions to artificial intelligence agents.",
@@ -15173,7 +15220,7 @@
     "slug": "ppt-master",
     "title": "Ppt Master",
     "tagline": "PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır.",
-    "meta": "★ 55.250 · Python",
+    "meta": "★ 58.045 · Python",
     "image": "/assets/discover/og/ppt-master.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -15181,7 +15228,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 55250,
+    "stars": 58045,
     "lite": false,
     "headline": "Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ",
     "last_review": "2026-10-07",
@@ -15281,6 +15328,13 @@
         "tarih": "2026-09-19",
         "yildiz": 55250,
         "onceki_yildiz": 54929,
+        "surum": "v6.6.0",
+        "surum_tarihi": "2026-09-19"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 58045,
+        "onceki_yildiz": 55250,
         "surum": "v6.6.0",
         "surum_tarihi": "2026-09-19"
       }
@@ -18465,7 +18519,7 @@
     "slug": "codexbar",
     "title": "CodexBar",
     "tagline": "CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır.",
-    "meta": "★ 22.196 · Swift",
+    "meta": "★ 22.268 · Swift",
     "image": "/assets/discover/og/codexbar.webp",
     "source": "GitHub",
     "date": "2026-07-06",
@@ -18473,7 +18527,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 22196,
+    "stars": 22268,
     "lite": false,
     "headline": "Yapay zekâ kullanım limitlerini izleyin",
     "last_review": "2026-10-07",
@@ -18729,6 +18783,13 @@
         "onceki_yildiz": 22145,
         "surum": "v0.72.0",
         "surum_tarihi": "2026-10-04"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 22268,
+        "onceki_yildiz": 22196,
+        "surum": "v0.73.0",
+        "surum_tarihi": "2026-10-07"
       }
     ],
     "tagline_en": "CodexBar is a tool that allows viewing OpenAI Codex and Claude Code usage data without requiring a login.",
@@ -31605,7 +31666,7 @@
     "slug": "macro",
     "title": "Macro",
     "tagline": "Macro, e-posta, sohbet, dokümanlar ve görev yönetimi gibi iş araçlarını ortak bir yapay zekâ hafızasıyla birleştiren bir…",
-    "meta": "★ 4.580 · Rust",
+    "meta": "★ 4.584 · Rust",
     "image": "/assets/discover/og/macro.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -31613,7 +31674,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4580,
+    "stars": 4584,
     "lite": false,
     "headline": "İş araçlarını birleştiren yapay zekâ hafızası",
     "needs_enrichment": true,
@@ -31778,6 +31839,13 @@
         "onceki_yildiz": 4519,
         "surum": "v2026.10.6.2",
         "surum_tarihi": "2026-10-06"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 4584,
+        "onceki_yildiz": 4580,
+        "surum": "v2026.10.7",
+        "surum_tarihi": "2026-10-07"
       }
     ],
     "last_seen": "2026-08-15"
@@ -34041,7 +34109,7 @@
     "slug": "ghost",
     "title": "Ghost",
     "tagline": "Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.",
-    "meta": "★ 55.495 · JavaScript",
+    "meta": "★ 55.493 · JavaScript",
     "image": "/assets/discover/og/ghost.webp",
     "source": "GitHub",
     "date": "2026-08-22",
@@ -34049,7 +34117,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 55495,
+    "stars": 55493,
     "lite": false,
     "headline": "Modern içerik ve bülten platformu",
     "last_review": "2026-10-07",
@@ -34109,6 +34177,13 @@
         "onceki_yildiz": 55459,
         "surum": "v6.68.0",
         "surum_tarihi": "2026-10-06"
+      },
+      {
+        "tarih": "2026-10-07",
+        "yildiz": 55493,
+        "onceki_yildiz": 55495,
+        "surum": "v6.69.0",
+        "surum_tarihi": "2026-10-07"
       }
     ],
     "tagline_en": "Ghost is an independent technology platform for modern publishing, memberships, subscriptions, and newsletters.",
