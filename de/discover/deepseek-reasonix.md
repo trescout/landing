@@ -8,10 +8,10 @@ DeepSeek-Reasonix ist ein KI-Coding-Agent, der auf dem Terminal läuft und auf D
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 35,747 → 35,747, neueste Version studio-v2.32.0 (8. Oktober 2026).
 - **8. Oktober 2026:** Sterne 35,744 → 35,747, neueste Version studio-v2.31.0 (8. Oktober 2026).
 - **7. Oktober 2026:** Sterne 35,742 → 35,744, neueste Version studio-v2.30.0 (7. Oktober 2026).
 - **6. Oktober 2026:** Sterne 35,735 → 35,742, neueste Version studio-v2.29.0 (6. Oktober 2026).
-- **2. Oktober 2026:** Sterne 35,725 → 35,735, neueste Version desktop-v1.39.7 (2. Oktober 2026).
 
 ## Was es bringt
 

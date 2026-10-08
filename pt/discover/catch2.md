@@ -2,12 +2,13 @@
 
 Catch2 é uma estrutura moderna de teste de unidade que oferece suporte a C++ 14 e versões posteriores. Ele foi projetado para oferecer suporte a práticas de desenvolvimento orientado a testes (TDD) e desenvolvimento orientado a comportamento (BDD) em processos de desenvolvimento de software.
 
-- ★ 21.444
+- ★ 21.513
 - C++
 - GitHub Trending · 2026-07-11
 
 ## Atualizações
 
+- **8 de outubro de 2026:** Estrelas 21,444 → 21,513, versão mais recente v3.16.1 (8 de outubro de 2026).
 - **27 de agosto de 2026:** Estrelas 21,404 → 21,444, versão mais recente v3.16.0 (25 de agosto de 2026).
 - **2 de agosto de 2026:** Estrelas 20,636 → 21,404, versão mais recente v3.15.3 (26 de julho de 2026).
 

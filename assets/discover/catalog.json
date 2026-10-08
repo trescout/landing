@@ -4202,7 +4202,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 34.622",
+    "meta": "★ 34.636",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -4210,7 +4210,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34622,
+    "stars": 34636,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-10-08",
@@ -4577,6 +4577,13 @@
         "yildiz": 34622,
         "onceki_yildiz": 34508,
         "surum": "v18.8.4",
+        "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 34636,
+        "onceki_yildiz": 34622,
+        "surum": "v18.8.5",
         "surum_tarihi": "2026-10-08"
       }
     ],
@@ -5920,7 +5927,7 @@
     "slug": "copilotkit",
     "title": "CopilotKit",
     "tagline": "CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz…",
-    "meta": "★ 37.837 · TypeScript",
+    "meta": "★ 37.840 · TypeScript",
     "image": "/assets/discover/og/copilotkit.webp",
     "source": "GitHub",
     "date": "2026-06-06",
@@ -5928,7 +5935,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37837,
+    "stars": 37840,
     "lite": false,
     "headline": "Uygulamalarınız İçin yapay zekâ Arayüzleri",
     "last_review": "2026-10-08",
@@ -6142,6 +6149,13 @@
         "onceki_yildiz": 37797,
         "surum": "angular/v0.5.3",
         "surum_tarihi": "2026-10-07"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 37840,
+        "onceki_yildiz": 37837,
+        "surum": "v1.77.2",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "CopilotKit is a React and Angular-based frontend for developing artificial intelligence agents and generative UIs.",
@@ -9751,14 +9765,14 @@
     "slug": "puppeteer",
     "title": "Puppeteer",
     "tagline": "Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan bir tarayıcı otomasyonu (browser automation)…",
-    "meta": "★ 95.622",
+    "meta": "★ 95.670",
     "image": "/assets/discover/og/puppeteer.webp",
     "source": "GitHub",
     "date": "2026-06-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 95622,
+    "stars": 95670,
     "lite": false,
     "headline": "Tarayıcıları kodla otomatik yönetin",
     "cmds": {
@@ -9839,6 +9853,13 @@
         "onceki_yildiz": 95581,
         "surum": "browsers-v3.2.3",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 95670,
+        "onceki_yildiz": 95622,
+        "surum": "browsers-v3.2.4",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "Puppeteer is a browser automation system used to control Chrome and Firefox browsers.",
@@ -11020,14 +11041,14 @@
     "slug": "unciv",
     "title": "Unciv",
     "tagline": "Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uyarlamasıdır.",
-    "meta": "★ 11.394 · Kotlin",
+    "meta": "★ 11.403 · Kotlin",
     "image": "/assets/discover/og/unciv.webp",
     "source": "GitHub",
     "date": "2026-06-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 11394,
+    "stars": 11403,
     "lite": false,
     "headline": "Hafif ve açık kaynaklı strateji oyunu",
     "last_review": "2026-10-08",
@@ -11206,6 +11227,13 @@
         "onceki_yildiz": 11379,
         "surum": "4.22.7",
         "surum_tarihi": "2026-10-05"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 11403,
+        "onceki_yildiz": 11394,
+        "surum": "4.22.8",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "Unciv is an open source desktop and Android adaptation of the Civilization V game.",
@@ -20202,14 +20230,14 @@
     "slug": "catch2",
     "title": "Catch2",
     "tagline": "Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit testing) çatısıdır.",
-    "meta": "★ 21.444 · C++",
+    "meta": "★ 21.513 · C++",
     "image": "/assets/discover/og/catch2.webp",
     "source": "GitHub",
     "date": "2026-07-11",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 21444,
+    "stars": 21513,
     "lite": false,
     "headline": "C++ projeleri için birim test çatısı",
     "last_review": "2026-10-08",
@@ -20227,6 +20255,13 @@
         "onceki_yildiz": 21404,
         "surum": "v3.16.0",
         "surum_tarihi": "2026-08-25"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 21513,
+        "onceki_yildiz": 21444,
+        "surum": "v3.16.1",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "Catch2 is a modern unit testing framework that supports C++14 and later.",
@@ -28910,6 +28945,13 @@
         "onceki_yildiz": 35744,
         "surum": "studio-v2.31.0",
         "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 35747,
+        "onceki_yildiz": 35747,
+        "surum": "studio-v2.32.0",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.",
@@ -33089,6 +33131,13 @@
         "onceki_yildiz": 41040,
         "surum": "v3.20.240-lts",
         "surum_tarihi": "2026-10-07"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 41049,
+        "onceki_yildiz": 41049,
+        "surum": "v3.20.241-lts",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "last_seen": "2026-08-17"
@@ -42615,7 +42664,7 @@
     "slug": "harness-sdk",
     "title": "Harness SDK",
     "tagline": "Harness SDK, yapay zekâ ajanları için uçtan uca kontrol ve yönetim sağlayan açık kaynaklı bir geliştirme kiti.",
-    "meta": "★ 8.713",
+    "meta": "★ 8.738",
     "image": "/assets/discover/og/harness-sdk.webp",
     "source": "GitHub",
     "date": "2026-09-24",
@@ -42623,7 +42672,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8713,
+    "stars": 8738,
     "summary": "Harness SDK, yapay zekâ ajanları için uçtan uca kontrol ve yönetim sağlayan açık kaynaklı bir geliştirme kiti. Python ve TypeScript dilleriyle uyumlu olan bu araç, farklı modeller ve bulut altyapıları üzerinde çalışan üretim seviyesindeki ajanların standartlaştırılmasına olanak tanıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için geliştirme kiti",
@@ -42656,6 +42705,13 @@
         "onceki_yildiz": 8685,
         "surum": "python/v1.58.1",
         "surum_tarihi": "2026-10-06"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 8738,
+        "onceki_yildiz": 8713,
+        "surum": "harness-cli/v0.2.0",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "Harness SDK is an open-source development kit providing end-to-end control and management for artificial intelligence agents.",
@@ -43295,7 +43351,7 @@
     "slug": "openrig",
     "title": "Openrig",
     "tagline": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan…",
-    "meta": "★ 5.622 · TypeScript",
+    "meta": "★ 6.015 · TypeScript",
     "image": "/assets/discover/og/openrig.webp",
     "source": "GitHub",
     "date": "2026-09-28",
@@ -43303,7 +43359,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5622,
+    "stars": 6015,
     "last_seen": "2026-10-03",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
@@ -43365,6 +43421,13 @@
         "onceki_yildiz": 4807,
         "surum": "v0.6.6",
         "surum_tarihi": "2026-10-07"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 6015,
+        "onceki_yildiz": 5622,
+        "surum": "v0.6.7",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "Openrig, a multi-agent… combining Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system",

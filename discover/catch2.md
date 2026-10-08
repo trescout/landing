@@ -2,12 +2,13 @@
 
 Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit testing) çatısıdır. Yazılım geliştirme süreçlerinde test güdümlü geliştirme (TDD) ve davranış odaklı geliştirme (BDD) pratiklerini desteklemek için tasarlanmıştır.
 
-- ★ 21.444
+- ★ 21.513
 - C++
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
 
+- **8 Ekim 2026:** Yıldız 21.444 → 21.513, son sürüm v3.16.1 (8 Ekim 2026).
 - **27 Ağustos 2026:** Yıldız 21.404 → 21.444, son sürüm v3.16.0 (25 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 20.636 → 21.404, son sürüm v3.15.3 (26 Temmuz 2026).
 

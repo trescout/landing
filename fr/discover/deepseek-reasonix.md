@@ -8,10 +8,10 @@ DeepSeek-Reasonix est un agent de codage d'IA qui s'exécute sur le terminal et 
 
 ## Mises à jour
 
+- **8 octobre 2026:** Étoiles 35,747 → 35,747, dernière version studio-v2.32.0 (8 octobre 2026).
 - **8 octobre 2026:** Étoiles 35,744 → 35,747, dernière version studio-v2.31.0 (8 octobre 2026).
 - **7 octobre 2026:** Étoiles 35,742 → 35,744, dernière version studio-v2.30.0 (7 octobre 2026).
 - **6 octobre 2026:** Étoiles 35,735 → 35,742, dernière version studio-v2.29.0 (6 octobre 2026).
-- **2 octobre 2026:** Étoiles 35,725 → 35,735, dernière version desktop-v1.39.7 (2 octobre 2026).
 
 ## Ce que ça vous apporte
 

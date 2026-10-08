@@ -8,10 +8,10 @@ DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel a
 
 ## Güncelleme
 
+- **8 Ekim 2026:** Yıldız 35.747 → 35.747, son sürüm studio-v2.32.0 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 35.744 → 35.747, son sürüm studio-v2.31.0 (8 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 35.742 → 35.744, son sürüm studio-v2.30.0 (7 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 35.735 → 35.742, son sürüm studio-v2.29.0 (6 Ekim 2026).
-- **2 Ekim 2026:** Yıldız 35.725 → 35.735, son sürüm desktop-v1.39.7 (2 Ekim 2026).
 
 ## Ne kazandırır?
 
