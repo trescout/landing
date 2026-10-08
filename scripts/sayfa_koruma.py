@@ -24,6 +24,9 @@ Damgaya GİRMEYEN bölgeler (buralardaki elle düzenleme korunmaz, toplu yöneti
 nav/footer/<head> (hreflang, og:, JSON-LD), ilgili çip kutuları (ilgili-temizle.py),
 kayıt/rıza formu (diller.py, check-consent-consistency.py) ve makine çevirisi notu.
 
+Frenler: toplu donma (damga dosyası silinir/bozulursa) ve kayma (KAYMA_ESIGI, eskimiş
+damga) koşuyu kırmızıya döndürür; sayfalar sessizce donmaz.
+
 Bakım: python3 scripts/sayfa_koruma.py --liste            korunan sayfalar
         python3 scripts/sayfa_koruma.py --birak en/dictionary/rag   üreticiye bırak
         python3 scripts/sayfa_koruma.py --baslat [--dry]   damgaları git geçmişinden kur
@@ -129,6 +132,25 @@ def elle_duzenlenmis(sayfa_yolu, damga):
     if "</main>" not in html:
         return False  # yarım yazılmış sayfa korunmaz, onarılır
     return damga is None or icerik_damgasi(html) != damga
+
+
+# KAYMA FRENİ · 2026-10-08: #286 bir gün beklerken bot 390 keşif sayfasını yeniden
+# üretti, damgalar eskide kaldı. Öyle merge edilseydi bu sayfalar "elle" sayılıp
+# donacaktı; toplu donma freni (dil başına max(50, %25) ≈ 155) dizin başına 78'i
+# yakalamıyordu. Damgası KAYITLI ama tutmayan sayfa ayrı sayılır: meşru elle içerik
+# düzenlemesi dizin başına ~10 sayfa (geçmiş commit'ler; nav/hreflang gibi toplu
+# değişiklikler damgaya girmez), eskimiş damga ise onlarca sayfa.
+KAYMA_ESIGI = 25
+
+
+def kayma_freni(kayma, tur, dil):
+    """Damgası kayıtlı ama tutmayan sayfa sayısı eşiği aşarsa gerekçe döner, yoksa None."""
+    if kayma <= KAYMA_ESIGI:
+        return None
+    return (f"✗ {dil}/{tur} · {kayma} sayfanın damgası kayıtlı ama tutmuyor (eşik {KAYMA_ESIGI}) · "
+            f"damgalar eskimiş olabilir (üretici dışında toplu <main>/title/description değişikliği ya da "
+            f"damga dosyası güncellenmeden yapılan merge). Kontrol: python3 scripts/sayfa_koruma.py --baslat --dry · "
+            f"değişiklikler bot'unsa ya da kasıtlı elle düzenlemeyse --baslat ile damgaları yenileyin")
 
 
 def _sayfalar():
