@@ -1,4 +1,4 @@
-# Qu'est-ce que l' AGI ?
+# Qu'est-ce que l'AGI ?
 
 > Intelligence Artificielle Générale
 
