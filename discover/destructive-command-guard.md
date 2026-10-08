@@ -7,12 +7,14 @@ Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tar
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 6.072 → 6.074, son sürüm v0.15.2 (1 Ekim 2026).
-- 29 Eylül 2026: Yıldız 6.070 → 6.072, son sürüm v0.15.1 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 5.991 → 6.070, son sürüm v0.15.0 (29 Eylül 2026).
-- 16 Eylül 2026: Yıldız 5.953 → 5.991, son sürüm v0.14.4 (16 Eylül 2026).
+
+- **1 Ekim 2026:** Yıldız 6.072 → 6.074, son sürüm v0.15.2 (1 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 6.070 → 6.072, son sürüm v0.15.1 (29 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 5.991 → 6.070, son sürüm v0.15.0 (29 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 5.953 → 5.991, son sürüm v0.14.4 (16 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Tehlikeli komutları yürütülmeden önce engeller
 - Veri kaybı ve sistem hasarı riskini azaltır
 - 50'den fazla güvenlik paketi ile geniş koruma sağlar
@@ -26,18 +28,25 @@ curl -fsSL "https://raw.githubusercontent.com/Dicklesworthstone/destructive_comm
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Yapay zekâ ajanımın sistemimde çalıştırdığı komutları denetlemek için Destructive Command Guard kullanıyorum. Lütfen tehlikeli git, dosya sistemi veya veritabanı silme komutlarını çalıştırmadan önce güvenlik kurallarını göz önünde bulundur, riskli bir işlem yapman gerekiyorsa önce beni bilgilendir ve onayımı al.
 
-- **Kimin için:** Yapay zekâ destekli kodlama ajanlarını kullanan ve yanlışlıkla veri silme riski taşımak istemeyen yazılımcılar içindir. 
+- **Kimin için:** Yapay zekâ destekli kodlama ajanlarını kullanan ve yanlışlıkla veri silme riski taşımak istemeyen yazılımcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Dicklesworthstone/destructive_command_guard)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Destructive Command Guard Shell Rust Artificial Intelligence
+
+- [Destructive Command Guard](https://trescout.com/dictionary/destructive-command-guard/)
+- [Shell](https://trescout.com/dictionary/shell/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/destructive-command-guard/

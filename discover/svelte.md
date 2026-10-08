@@ -5,15 +5,17 @@ Svelte, geleneksel çerçevelerin aksine tarayıcıda çalışma zamanı (runtim
 - ★ 88.343
 - GitHub Trending · 2026-06-07
 
-TreScout notu: Web arayüzü yazarken kullanılan çerçevelerden biri. İşin çoğunu siz kodu yazarken hallettiği için ziyaretçinin tarayıcısına daha az kod iner, sayfa hızlı açılır. Bedeli topluluk büyüklüğü: En yaygın seçenek olan React'e göre hazır parça, örnek ve iş ilanı azdır.
+**TreScout notu:** Web arayüzü yazarken kullanılan çerçevelerden biri. İşin çoğunu siz kodu yazarken hallettiği için ziyaretçinin tarayıcısına daha az kod iner, sayfa hızlı açılır. Bedeli topluluk büyüklüğü: En yaygın seçenek olan React'e göre hazır parça, örnek ve iş ilanı azdır.
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 88.135 → 88.343, son sürüm svelte@5.57.2 (6 Ekim 2026).
-- 19 Eylül 2026: Yıldız 88.034 → 88.135, son sürüm svelte@5.57.1 (18 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 87.981 → 88.034, son sürüm svelte@5.57.0 (28 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 87.958 → 87.981, son sürüm svelte@5.56.10 (20 Ağustos 2026).
+
+- **7 Ekim 2026:** Yıldız 88.135 → 88.343, son sürüm svelte@5.57.2 (6 Ekim 2026).
+- **19 Eylül 2026:** Yıldız 88.034 → 88.135, son sürüm svelte@5.57.1 (18 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 87.981 → 88.034, son sürüm svelte@5.57.0 (28 Ağustos 2026).
+- **21 Ağustos 2026:** Yıldız 87.958 → 87.981, son sürüm svelte@5.56.10 (20 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Tarayıcıda çalışma zamanı yükünü azaltır
 - Kodları hızlı çalışan JavaScript modüllerine dönüştürür
 - Web sayfalarını güncel tutmak için DOM yapısını cerrahi yöntemle günceller
@@ -36,22 +38,28 @@ npm install
 npm run dev
 ```
 
-Kaynak: Resmî kaynak: https://github.com/sveltejs/svelte
+**Kaynak:** Resmî kaynak: https://github.com/sveltejs/svelte
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Svelte kütüphanesini kullanarak web uygulaması geliştirmek istiyorum. Svelte'in geleneksel çerçevelerden farkı olan derleme zamanı yaklaşımını ve bileşen tabanlı yapısını kullanarak basit bir web arayüzü oluşturmam için bana temel bir proje yapısı kur. Kodun tarayıcıda verimli çalışması için dikkat etmem gerekenleri açıkla.
 
-- **Kimin için:** Web uygulamalarını daha hızlı ve daha az tarayıcı yüküyle geliştirmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Web uygulamalarını daha hızlı ve daha az tarayıcı yüküyle geliştirmek isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/sveltejs/svelte)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Compile-time Runtime Artificial Intelligence
+
+- [Compile-time](https://trescout.com/dictionary/compile-time/)
+- [Runtime](https://trescout.com/dictionary/runtime/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/svelte/

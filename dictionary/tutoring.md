@@ -1,7 +1,6 @@
 # Tutoring ne demek? Nedir ve nasıl çalışır?
 
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-09-19
+*Sözlük · Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
 
 Tutoring (Türkçe karşılığıyla **özel ders verme veya birebir rehberlik**), bir öğrencinin bilgi düzeyine, eksiklerine ve anlama hızına göre uyarlanmış kişiselleştirilmiş öğretim sürecidir.
 
@@ -37,9 +36,7 @@ Bloom ve ekibi; birebir özel ders (tutoring) ve ustalık temelli öğrenme (mas
 
 Son 40 yıldır eğitim dünyasının en temel sosyo-ekonomik krizi, bu muazzam verimliliği sadece zengin ailelerin çocuklarına değil, tüm insanlığa nasıl sunabileceğimiz olmuştur. Yapay zekâ destekli tutoring motorları; dünyanın her yerindeki bir öğrenciye cebindeki cihaz üzerinden 7 gün 24 saat sınırsız sabra sahip, kişiselleştirilmiş bir Sokratik özel hoca ulaştırarak eğitimde fırsat eşitliğini radikal biçimde demokratikleştirmeyi hedefler.
 
-## Bir benzetmeyle
-
-Sizinle aynı hızda yürüyen, nefesiniz kesildiğinde durup soluklanmanızı bekleyen, tökezlediğiniz çukurları tek tek gösterip zirveye giden en güvenli basamağı sizin keşfetmenizi sağlayan sabırlı bir dağ rehberi gibidir.
+*Sizinle aynı hızda yürüyen, nefesiniz kesildiğinde durup soluklanmanızı bekleyen, tökezlediğiniz çukurları tek tek gösterip zirveye giden en güvenli basamağı sizin keşfetmenizi sağlayan sabırlı bir dağ rehberi gibidir.*
 
 ## Sık karıştırılanlar
 
@@ -48,26 +45,36 @@ Sizinle aynı hızda yürüyen, nefesiniz kesildiğinde durup soluklanmanızı b
 
 ## Sıkça sorulanlar
 
-**Tutoring ne demek, Türkçe karşılığı nedir?**  
+**Tutoring ne demek, Türkçe karşılığı nedir?**
+
 Tutoring sözcüğü Türkçede "özel ders verme, birebir rehberlik, özel öğretmenlik veya bireysel mentörlük" anlamına gelir. Latince kökenli olup öğrencinin ihtiyaçlarına göre şekillenen bireysel eğitimi niteler.
 
-**AI Tutoring (yapay zekâ özel ders) nasıl çalışır?**  
+**AI Tutoring (yapay zekâ özel ders) nasıl çalışır?**
+
 Yapay zekâ eğitmenleri doğrudan cevabı vermek yerine Sokratik diyalog yöntemini kullanır. Öğrenci bilgi takibi (Knowledge Tracing) algoritmalarıyla eksik noktaları tespit eder ve öğrencinin seviyesine göre uyarlanmış adım adım sorular üretir.
 
-**Tutoring ile Teaching (öğretmenlik) arasındaki fark nedir?**  
+**Tutoring ile Teaching (öğretmenlik) arasındaki fark nedir?**
+
 Teaching çoğunlukla kalabalık bir sınıfa standart bir plan doğrultusunda bilgi aktarmayı (one-to-many) kapsarken, tutoring tek bir bireyin anlama hızına odaklanan kişiselleştirilmiş birebir (one-to-one) bir süreçtir.
 
-**Bloom'un 2 Sigma problemi nedir ve tutoring ile bağı ne?**  
+**Bloom'un 2 Sigma problemi nedir ve tutoring ile bağı ne?**
+
 1984'te Benjamin Bloom, birebir özel ders alan bir öğrencinin geleneksel sınıftaki akranlarının %98'inden daha başarılı olduğunu göstermiştir (2 sigma fark). Yapay zekâ tabanlı tutoring sistemleri, bu yüksek başarıyı dünya genelinde ölçeklendirip herkes için erişilebilir kılmayı amaçlar.
 
 ## İlgili terimler
 
-- [Personalized Tutoring](/dictionary/personalized-tutoring/)
-- [AI Companion](/dictionary/ai-companion/)
-- [Lifelong Learning](/dictionary/lifelong-learning/)
-- [Prompt Engineering](/dictionary/prompt-engineering/)
-- [Productivity](/dictionary/productivity/)
+- [Personalized Tutoring](https://trescout.com/dictionary/personalized-tutoring/)
+- [AI Companion](https://trescout.com/dictionary/ai-companion/)
+- [Lifelong Learning](https://trescout.com/dictionary/lifelong-learning/)
+- [Prompt Engineering](https://trescout.com/dictionary/prompt-engineering/)
+- [Productivity](https://trescout.com/dictionary/productivity/)
+
+## İlgili araçlar
+
+- [DeepTutor](https://trescout.com/discover/deeptutor/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/tutoring/  
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/tutoring/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

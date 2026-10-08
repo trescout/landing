@@ -6,12 +6,21 @@ Munder-Difflin est un mécanisme qui permet à plusieurs agents d'intelligence a
 - TypeScript
 - GitHub Trending · 2026-08-18
 
+## Mises à jour
+
+- **27 septembre 2026:** Étoiles 6,779 → 8,004, dernière version v0.5.3 (25 septembre 2026).
+- **10 septembre 2026:** Étoiles 5,963 → 6,779, dernière version v0.5.2 (9 septembre 2026).
+- **1 septembre 2026:** Étoiles 4,946 → 5,963, dernière version v0.4.6 (27 août 2026).
+- **27 août 2026:** Étoiles 3,700 → 4,946, dernière version v0.4.6 (27 août 2026).
+
 ## Ce que ça vous apporte
+
 - Il coordonne les outils d’IA basés sur les terminaux en tant qu’équipe autonome.
 - Il permet aux agents d’acquérir une mémoire à long terme et la possibilité de s’envoyer des messages.
 - Il offre la possibilité de suivre les processus de travail des agents à travers une interface visuelle de bureau.
 
 ## Installation
+
 **Téléchargez et lancez l'application**
 
 ```
@@ -21,8 +30,8 @@ npm install        # postinstall rebuilds node-pty against Electron's ABI
 npm run dev        # launches the Electron app with hot reload
 ```
 
-
 ## Exécution
+
 **Création et aperçu de la version de production**
 
 ```
@@ -30,15 +39,26 @@ npm run build      # production build via electron-vite
 npm run preview    # preview the production build
 ```
 
-
 ## Si vous ne codez pas
+
+🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+
 Donnez à mes agents travaillant sur Munder Difflin la tâche suivante : créer une équipe en utilisant les outils d'intelligence artificielle basés sur des terminaux existants, distribuer les tâches via un agent de gestion nommé Michael et terminer tous les processus de manière autonome en les stockant dans une couche de mémoire commune.
 
 ## Termes liés du glossaire
 
+- [Harness](https://trescout.com/fr/dictionary/harness/)
+- [Terminal](https://trescout.com/fr/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
+- **Pour qui:** Il s'adresse aux utilisateurs qui souhaitent gérer plusieurs agents d'intelligence artificielle à partir d'un seul centre et visualiser leurs flux de travail.
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/chaitanyagiri/munder-difflin)
+- [Lire en turc →](https://trescout.com/discover/munder-difflin/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/munder-difflin/

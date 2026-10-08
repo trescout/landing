@@ -1,30 +1,40 @@
 # What is Electric Propulsion Systems?
 
+*Dictionary · Dev · Last updated: September 4, 2026*
+
 These are motor assemblies that use electrical energy instead of fuel to move vehicles.
 
 ## Overview
+
 Unlike traditional internal combustion engines, these are systems that derive motive power from electrical energy. These systems convert energy into mechanical motion, allowing vehicles to operate quietly and more efficiently. They are frequently encountered, especially in modern transportation technologies.
 
-*Analogy: It is like a larger and more complex version of old-style battery-powered toy cars adapted for real vehicles.*
+***Analogy:** It is like a larger and more complex version of old-style battery-powered toy cars adapted for real vehicles.*
 
 ## How it works
+
 The electric current taken from the batteries is transmitted to the electric motor via a motor driver, enabling the wheels or propellers to rotate.
 
 ## Where it is used
+
 They are used in electric cars, unmanned aerial vehicles (drones), and modern robotic systems.
 
 ## Frequently asked questions
+
 **Why are these systems preferred?**
+
 They are preferred because they produce fewer carbon emissions and have high energy efficiency.
 
 **Are they only used in cars?**
+
 No, they can be used in many different vehicles, from electric airplanes to small robots.
 
-
 ## Related terms
-- [Introduction to Autonomous Robots](/en/dictionary/autonomous-robots-intro/)
-- [Autonomous Robotics](/en/dictionary/autonomous-robotics/)
-- [Physical AI](/en/dictionary/physical-ai/)
+
+- [Introduction to Autonomous Robots](https://trescout.com/en/dictionary/autonomous-robots-intro/)
+- [Autonomous Robotics](https://trescout.com/en/dictionary/autonomous-robotics/)
+- [Physical AI](https://trescout.com/en/dictionary/physical-ai/)
+
+This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/electric-propulsion-systems/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/electric-propulsion-systems/

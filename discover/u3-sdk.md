@@ -7,12 +7,14 @@ SmartlyDressedGames, açık dünya zombi hayatta kalma oyunu Unturned için geli
 - GitHub Trending · 2026-07-10
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 3.736 → 3.879, son sürüm v3.26.3.12 (21 Eylül 2026).
-- 1 Eylül 2026: Yıldız 3.735 → 3.736, son sürüm v3.26.3.10 (31 Ağustos 2026).
-- 31 Ağustos 2026: Yıldız 3.504 → 3.735, son sürüm v3.26.3.9 (28 Ağustos 2026).
-- 11 Ağustos 2026: Yıldız 3.324 → 3.504, son sürüm v3.26.3.8 (10 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 3.736 → 3.879, son sürüm v3.26.3.12 (21 Eylül 2026).
+- **1 Eylül 2026:** Yıldız 3.735 → 3.736, son sürüm v3.26.3.10 (31 Ağustos 2026).
+- **31 Ağustos 2026:** Yıldız 3.504 → 3.735, son sürüm v3.26.3.9 (28 Ağustos 2026).
+- **11 Ağustos 2026:** Yıldız 3.324 → 3.504, son sürüm v3.26.3.8 (10 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Oyunun kaynak kodlarına erişim sağlar
 - Kendi içeriklerinizi ve modlarınızı geliştirmenize olanak tanır
 - Topluluk odaklı oyun düzenlemeleri yapabilirsiniz
@@ -20,17 +22,23 @@ SmartlyDressedGames, açık dünya zombi hayatta kalma oyunu Unturned için geli
 ## Nasıl başlanır?
 
 Projeyi bilgisayarınıza indirin veya kopyalayın. Ardından Unity Hub üzerinden belirtilen Unity 2022.3.62f3 sürümünü kurun ve Steam'de Unturned oyununun yüklü olduğundan emin olun. Son olarak projeyi Unity editörü ile açıp Assets/GameStartup.unity sahnesine giderek başlatabilirsiniz.
+
 - [Resmî kaynak →](https://smartlydressedgames.com/unturned/)
 
-- **Kimin için:** Unturned oyununu modlamak ve oyunun kaynak kodları üzerinde geliştirme yapmak isteyen kullanıcılar içindir. 
+- **Kimin için:** Unturned oyununu modlamak ve oyunun kaynak kodları üzerinde geliştirme yapmak isteyen kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/SmartlyDressedGames/U3-SDK)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Assets Software Development SDK Open Source
+
+- [Assets](https://trescout.com/dictionary/assets/)
+- [Software Development](https://trescout.com/dictionary/software-development/)
+- [SDK](https://trescout.com/dictionary/sdk/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/u3-sdk/

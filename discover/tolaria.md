@@ -7,12 +7,14 @@ Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 19.727 → 19.906, son sürüm v2026-09-24 (24 Eylül 2026).
-- 8 Eylül 2026: Yıldız 19.643 → 19.727, son sürüm v2026-09-08 (8 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 19.513 → 19.643, son sürüm v2027-08-28 (28 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 19.403 → 19.513, son sürüm v2026-08-19 (19 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 19.727 → 19.906, son sürüm v2026-09-24 (24 Eylül 2026).
+- **8 Eylül 2026:** Yıldız 19.643 → 19.727, son sürüm v2026-09-08 (8 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 19.513 → 19.643, son sürüm v2027-08-28 (28 Ağustos 2026).
+- **19 Ağustos 2026:** Yıldız 19.403 → 19.513, son sürüm v2026-08-19 (19 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Markdown dosyalarıyla taşınabilir not yönetimi sağlar.
 - Git entegrasyonu ile tam sürüm kontrolü sunar.
 - Çevrimdışı çalışma desteğiyle veri sahipliğini korur.
@@ -23,15 +25,15 @@ Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir
 
 ```
 sudo pacman -S --needed webkit2gtk-4.1 base-devel curl wget file openssl \
-appmenu-gtk-module libappindicator-gtk3 librsvg
+    appmenu-gtk-module libappindicator-gtk3 librsvg
 ```
 
 **Debian/Ubuntu için bağımlılıklar**
 
 ```
 sudo apt install libwebkit2gtk-4.1-dev build-essential curl wget file \
-libxdo-dev libssl-dev libayatana-appindicator3-dev librsvg2-dev \
-libsoup-3.0-dev patchelf
+    libxdo-dev libssl-dev libayatana-appindicator3-dev librsvg2-dev \
+    libsoup-3.0-dev patchelf
 ```
 
 ## Çalıştırma
@@ -50,19 +52,24 @@ pnpm tauri dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Tolaria masaüstü uygulamasını kullanarak Markdown tabanlı bilgi tabanımı nasıl yapılandırabilirim? Uygulamanın Git tabanlı yapısını, çevrimdışı çalışma prensibini ve AI ajanlarıyla uyumlu çalışma özelliklerini kullanarak notlarımı nasıl organize edeceğimi, standart Markdown dosyalarımı nasıl yöneteceğimi ve klavye odaklı komut paletinden nasıl verim alacağımı adım adım açıkla.
 
-- **Kimin için:** Kişisel bilgi yönetimini Markdown dosyaları ve Git sürüm kontrolü ile yerel, çevrimdışı ve özgür bir sistemde tutmak isteyen kullanıcılar içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Kişisel bilgi yönetimini Markdown dosyaları ve Git sürüm kontrolü ile yerel, çevrimdışı ve özgür bir sistemde tutmak isteyen kullanıcılar içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/refactoringhq/tolaria)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Markdown Artificial Intelligence
+
+- [Markdown](https://trescout.com/dictionary/markdown/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tolaria/

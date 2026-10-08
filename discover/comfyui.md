@@ -7,12 +7,14 @@ ComfyUI, yayılma modelleri (diffusion models) için düğüm tabanlı bir aray�
 - GitHub Trending · 2026-08-10
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 135.523 → 136.279, son sürüm v0.39.0 (5 Ekim 2026).
-- 29 Eylül 2026: Yıldız 135.118 → 135.523, son sürüm v0.38.0 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 133.468 → 135.118, son sürüm v0.37.0 (21 Eylül 2026).
-- 16 Eylül 2026: Yıldız 132.311 → 133.468, son sürüm v0.36.0 (15 Eylül 2026).
+
+- **6 Ekim 2026:** Yıldız 135.523 → 136.279, son sürüm v0.39.0 (5 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 135.118 → 135.523, son sürüm v0.38.0 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 133.468 → 135.118, son sürüm v0.37.0 (21 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 132.311 → 133.468, son sürüm v0.36.0 (15 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Düğüm tabanlı arayüzle karmaşık iş akışlarını kod yazmadan tasarlayın.
 - Görüntü, video, ses ve 3D modelleri tek bir platformda oluşturun.
 - API desteği ile üretim süreçlerinize yapay zekâ yeteneklerini entegre edin.
@@ -27,19 +29,24 @@ comfy install
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Görsel üretim sürecim için düğüm tabanlı bir iş akışı oluşturmak istiyorum. Lütfen Stable Diffusion veya Flux gibi modelleri kullanarak profesyonel kalitede bir görüntü elde etmemi sağlayacak, giriş düğümünden çıktıya kadar olan mantıksal bağlantıları içeren modüler bir yapı tasarla. İhtiyacım olan temel düğümleri, model yükleme aşamalarını ve parametre optimizasyonlarını adım adım açıkla.
 
-- **Kimin için:** Görsel üretim süreçlerinde tam kontrol ve modüler bir çalışma ortamı arayan profesyonel içerik üreticileri için uygundur. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Görsel üretim süreçlerinde tam kontrol ve modüler bir çalışma ortamı arayan profesyonel içerik üreticileri için uygundur.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Comfy-Org/ComfyUI)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Artificial Intelligence
+
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/comfyui/

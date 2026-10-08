@@ -6,12 +6,14 @@ Harness SDK, yapay zekâ ajanları için uçtan uca kontrol ve yönetim sağlaya
 - GitHub Trending · 2026-09-24
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 8.685 → 8.713, son sürüm python/v1.58.1 (6 Ekim 2026).
-- 6 Ekim 2026: Yıldız 8.618 → 8.685, son sürüm python/v1.58.0 (5 Ekim 2026).
-- 2 Ekim 2026: Yıldız 8.478 → 8.618, son sürüm python/v1.57.2 (1 Ekim 2026).
-- 27 Eylül 2026: Yıldız 8.359 → 8.478, son sürüm harness-cli/v0.1.4 (25 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 8.685 → 8.713, son sürüm python/v1.58.1 (6 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 8.618 → 8.685, son sürüm python/v1.58.0 (5 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 8.478 → 8.618, son sürüm python/v1.57.2 (1 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 8.359 → 8.478, son sürüm harness-cli/v0.1.4 (25 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Python ve TypeScript dilleriyle tam uyumlu çalışır
 - Farklı yapay zekâ modelleri ve bulut altyapılarını destekler
 - Bellek, oturum yönetimi ve araç entegrasyonu sunar
@@ -31,19 +33,25 @@ npm install @strands-agents/harness
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Python veya TypeScript ortamımda strands-harness paketini kurarak yapay zekâ ajan döngüsünü başlatmak ve test etmek istiyorum. Gerekli kütüphaneyi yükledikten sonra basit bir ajan oluşturup örnek bir görev vermemi sağlayacak kodu yazar mısın?
 
-- **Kimin için:** Özel yapay zekâ ajan döngüleri kurmak ve süreçleri uçtan uca yönetmek isteyen geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Özel yapay zekâ ajan döngüleri kurmak ve süreçleri uçtan uca yönetmek isteyen geliştiriciler içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/strands-agents/harness-sdk)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Harness SDK Artificial Intelligence
+
+- [Harness](https://trescout.com/dictionary/harness/)
+- [SDK](https://trescout.com/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/harness-sdk/

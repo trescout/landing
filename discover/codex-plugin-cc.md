@@ -7,10 +7,12 @@ OpenAI tarafından geliştirilen Codex eklentisi, Claude Code üzerinde kod ince
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 30.950 → 32.597, son sürüm v1.0.6 (8 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 22.800 → 30.950, son sürüm v1.0.6 (8 Temmuz 2026).
+
+- **31 Ağustos 2026:** Yıldız 30.950 → 32.597, son sürüm v1.0.6 (8 Temmuz 2026).
+- **2 Ağustos 2026:** Yıldız 22.800 → 30.950, son sürüm v1.0.6 (8 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Kod inceleme süreçlerini otomatize eder
 - Görevleri Codex modeline delege eder
 - Arka planda uzun süreli işleri yönetir
@@ -32,19 +34,25 @@ npm install -g @openai/codex
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code içerisinde Codex eklentisini kullanarak mevcut kodum üzerinde bir inceleme başlat ve bulguları raporla. Eğer karmaşık bir görev varsa, bunu /codex:rescue komutu ile Codex'e devret ve arka planda çalıştırarak ilerlemeyi /codex:status ile takip etmemi sağla.
 
-- **Kimin için:** Claude Code iş akışına Codex'in kod inceleme ve görev yönetimi yeteneklerini entegre etmek isteyen yazılım geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Claude Code iş akışına Codex'in kod inceleme ve görev yönetimi yeteneklerini entegre etmek isteyen yazılım geliştiriciler içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/openai/codex-plugin-cc)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugin Large Language Models Artificial Intelligence
+
+- [Plugin](https://trescout.com/dictionary/plugin/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codex-plugin-cc/

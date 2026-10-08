@@ -7,9 +7,11 @@ AhmadIbrahiim tarafından geliştirilen Website-downloader, Node.js kullanarak b
 - GitHub Trending · 2026-07-08
 
 ## Güncelleme
-- 27 Ağustos 2026: Yıldız 4.223 → 5.254.
+
+- **27 Ağustos 2026:** Yıldız 4.223 → 5.254.
 
 ## Ne kazandırır?
+
 - Tüm web sitesi kaynaklarını arşivler
 - Çevrimdışı görüntüleme için bağlantıları düzenler
 - Görseller ve stil dosyalarını kaydeder
@@ -17,18 +19,22 @@ AhmadIbrahiim tarafından geliştirilen Website-downloader, Node.js kullanarak b
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için GitHub sayfasındaki kodları bilgisayarınıza indirin. Ardından terminal üzerinden proje klasörüne giderek gerekli bağımlılıkları yükleyin ve uygulamayı başlatın. Uygulama çalıştıktan sonra tarayıcınız üzerinden yerel adresine giderek indirme işlemlerine başlayabilirsiniz.
+
 - [Resmî kaynak →](https://website-downloader.onrender.com)
 
-- **Kimin için:** Web sitelerinin kaynak kodlarını ve varlıklarını yerel bir arşiv olarak saklamak isteyen kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Web sitelerinin kaynak kodlarını ve varlıklarını yerel bir arşiv olarak saklamak isteyen kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/AhmadIbrahiim/Website-downloader)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Assets Terminal
+
+- [Assets](https://trescout.com/dictionary/assets/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/website-downloader/

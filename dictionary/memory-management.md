@@ -1,7 +1,6 @@
 # Memory Management nedir, ne demek ve nasıl çalışır?
 
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-19
+*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Memory Management (bellek yönetimi), bilgisayarın fiziksel ve sanal rastgele erişimli belleğinin (RAM) çalışan yazılımlar arasında tahsis edilmesi, korunması ve kullanım bittiğinde sisteme iade edilmesi sürecidir.
 
@@ -27,69 +26,49 @@ Bir program çalıştırıldığında işletim sistemi o sürece özel bir sanal
 +------------------------------------+ Düşük Bellek Adresleri (0x00000000)
 ```
 
-| Özellik | Stack (Yığın) | Heap (Öbek) |
-| :--- | :--- | :--- |
-| **Yönetim** | CPU mimarisi tarafından otomatik yönetilir (LIFO). | Yazılımcı veya dilin çalışma ortamı (Runtime) yönetir. |
-| **Hız** | Son derece hızlıdır (yalnızca stack pointer register kaydırılır). | Görece yavaştır (uygun boş bellek bloğunun aranması gerekir). |
-| **Boyut** | Sınırlı ve sabittir (genellikle 1MB - 8MB arası). | Fiziksel RAM ve takas (swap) alanı kadar genişleyebilir. |
-| **Ömür** | Fonksiyon çalıştığı sürece yaşar, fonksiyon dönünce yok edilir. | Açıkça serbest bırakılana veya çöp toplayıcı silene kadar yaşar. |
-| **Hata Riski** | Sonsuz özyinelemede (recursion) **Stack Overflow** oluşur. | Temizlenmezse **Memory Leak** ve parçalanma (fragmentation) oluşur. |
+- **Stack (Yığın):** CPU mimarisi tarafından otomatik yönetilir (LIFO). Son derece hızlıdır (yalnızca stack pointer register kaydırılır). Ancak boyutu sabittir (1MB - 8MB) ve sonsuz özyinelemede **Stack Overflow** verir.
+- **Heap (Öbek):** Yazılımcı veya dilin çalışma ortamı (Runtime) yönetir. Dinamik nesneler için ayrılır; fiziksel RAM ve takas (swap) kadar büyüyebilir. Temizlenmezse **Memory Leak** ve parçalanma (fragmentation) yaratır.
 
 ## 2. Üç temel bellek yönetimi paradigması
 
-Yazılım dünyasında belleğin ne zaman tahsis edilip ne zaman serbest bırakılacağına dair üç farklı felsefe uygulanır:
-
-### A. Manuel Bellek Yönetimi (C, C++)
-Yazılımcı, belleği işletim sisteminden `malloc()`, `calloc()` veya `new` ile bizzat ister ve işi bittiğinde `free()` veya `delete` ile sisteme geri verir.
-- **Avantajı:** Sıfır gecikme, tam donanım kontrolü ve maksimum performans.
-- **Tehlikeleri:** Yazılım tarihindeki siber güvenlik açıklarının %70'inden fazlası manuel bellek yönetim hatalarından kaynaklanır:
-  - **Memory Leak (Bellek Sızıntısı):** `free` edilmeyen bloklar nedeniyle RAM'in dolması.
-  - **Dangling Pointer (Sarkan İşaretçi):** Silinmiş bir bellek adresine işaret eden gösterici.
-  - **Use-After-Free & Double Free:** Serbest bırakılan alanın tekrar okunması ya da iki kez silinmesi sonucu oluşan uzaktan kod yürütme (RCE) açıkları.
-
-### B. Otomatik Çöp Toplama (Garbage Collection - Java, Go, Python, JavaScript)
-Programcı bellek tahsis eder, ancak silme işlemini düşünmez. Arka planda çalışan bir çöp toplayıcı (GC motoru), artık ulaşılamayan nesneleri tespit edip temizler.
-- **İşaretle ve Süpür (Mark-and-Sweep):** Kök referanslardan başlanarak erişilebilen tüm nesneler taranır, ulaşılamayanlar süpürülür.
-- **Referans Sayımı (Reference Counting):** Python ve Swift'te her nesnenin kaç işaretçi tarafından tutulduğu sayılır; sayaç sıfıra düştüğünde nesne anında silinir.
-- **Maliyeti:** Periyodik olarak çalışan GC taramaları işlemciyi meşgul eder ve oyunlarda veya yüksek frekanslı alım-satım (HFT) sistemlerinde mikro gecikmelere ("Stop-The-World" duraklamaları) yol açar.
-
-### C. Sahiplik ve Ömür Modeli (Ownership & Borrowing - Rust)
-Rust derleyicisi, her bellek bloğunun tek bir sahibi olduğunu ve bu sahibin kapsamından (scope) çıkıldığı an belleğin otomatik serbest bırakılacağını derleme anında doğrular.
-- **Sonuç:** Çalışma zamanında ağır bir çöp toplayıcı çalıştırmadan, C hızında %100 bellek güvenliği (Memory Safety).
+- **Manuel Bellek Yönetimi (C, C++):** Yazılımcı `malloc()` ve `free()` ile belleği bizzat yönetir. Maksimum hız ve sıfır gecikme sunar; ancak yazılım dünyasındaki güvenlik açıklarının %70'inden fazlasına sebep olan sızıntı, sarkan işaretçi (dangling pointer) ve Use-After-Free risklerini taşır.
+- **Otomatik Çöp Toplama (Garbage Collection - Java, Go, Python, JS):** Programcı silme yapmaz; arka planda çalışan GC motoru kök referanslardan ulaşılamayan yetim nesneleri Mark-and-Sweep veya Reference Counting algoritmalarıyla temizler. Ancak periyodik taramalar mikro duraklamalara (Stop-The-World) yol açabilir.
+- **Sahiplik ve Ömür Modeli (Ownership & Borrowing - Rust):** Rust derleyicisi her bellek bloğunun tek bir sahibi olduğunu derleme anında doğrular. Çöp toplayıcı çalıştırmadan, C hızında %100 bellek güvenliği (Memory Safety) sağlar.
 
 ## 3. İşletim sistemi seviyesinde bellek: Sanal bellek ve OOM Killer
 
-Fiziksel RAM tek bir havuzdur, ancak modern işletim sistemleri programların birbirinin belleğini okumasını engellemek için **Sanal Bellek (Virtual Memory)** ve **Sayfalama (Paging)** mimarisi kullanır.
+Modern işletim sistemleri programların birbirinin belleğini okumasını engellemek için **Sanal Bellek (Virtual Memory)** ve **Sayfalama (Paging)** mimarisi kullanır. CPU'daki Bellek Yönetim Birimi (MMU), sanal adresleri donanımdaki fiziksel adreslere TLB önbelleği yardımıyla dönüştürür. Fiziksel RAM ve swap tamamen tükendiğinde ise Linux çekirdeğinin **OOM Killer (Out of Memory Killer)** mekanizması sistemi kurtarmak için en agresif süreci `SIGKILL` ile sonlandırır.
 
-- **Page Table ve TLB:** CPU'daki Bellek Yönetim Birimi (MMU), sanal adresleri donanımdaki fiziksel adreslere mikrosaniyeler içinde dönüştürür.
-- **OOM Killer (Out of Memory Killer):** Fiziksel RAM ve sanal takas (swap) alanı tamamen tükendiğinde, Linux çekirdeği işletim sisteminin çökmesini engellemek için en çok bellek tüketen süreci tespit ederek acımasızca sonlandırır (`SIGKILL - Signal 9`).
-
-## Bir benzetmeyle
-
-Stack, masanızdaki kâğıt evrak kulesidir; gelen evrakı en üste koyarsınız ve işiniz bitince en üsttekini anında alırsınız, yerleştirme süresi sıfırdır. Heap ise büyük bir depo gibidir; depocuya gidip kutu için boş bir raf istersiniz, depocu uygun yeri arar, anahtarı size verir ve işiniz bittiğinde rafı depocuya teslim etmeyi unutursanız depo kısa sürede kullanılamaz hale gelir.
+*Stack, masanızdaki kâğıt evrak kulesidir; gelen evrakı en üste koyarsınız ve işiniz bitince en üsttekini anında alırsınız, yerleştirme süresi sıfırdır. Heap ise büyük bir depo gibidir; depocuya gidip kutu için boş bir raf istersiniz, depocu uygun yeri arar, anahtarı size verir ve işiniz bittiğinde rafı depocuya teslim etmeyi unutursanız depo kısa sürede kullanılamaz hale gelir.*
 
 ## Sıkça sorulanlar
 
-**Memory management ne demek, Türkçe karşılığı nedir?**  
+**Memory management ne demek, Türkçe karşılığı nedir?**
+
 Memory Management Türkçede "bellek yönetimi" anlamına gelir. Bir bilgisayar programının çalışması esnasında RAM kaynaklarının tahsis edilmesi, izlenmesi ve serbest bırakılması süreçlerinin tümüdür.
 
-**Stack ile Heap arasındaki en temel fark nedir?**  
+**Stack ile Heap arasındaki en temel fark nedir?**
+
 Stack boyutu derleme anında bilinen yerel değişkenleri son derece hızlı şekilde LIFO mantığıyla yönetir; Heap ise çalışma anında dinamik olarak büyüyen nesneler için ayrılan, yönetimi daha karmaşık olan esnek bellek havuzudur.
 
-**Garbage Collection (Çöp Toplayıcı) nasıl çalışır?**  
+**Garbage Collection (Çöp Toplayıcı) nasıl çalışır?**
+
 Yazılımcının manuel silme yapmadığı dillerde (Java, Go, JS vb.) arka planda çalışan motor, kök değişkenlerden ulaşılamayan yetim nesneleri tespit eder ve RAM'i temizler.
 
-**Bellek sızıntısı (Memory Leak) nasıl engellenir?**  
-Manuel dillerde her `malloc` için bir `free` yazılarak veya RAII desenleri kurularak; çöp toplayıcılı dillerde ise global dizi referansları ve kapatılmayan olay dinleyicileri (event listeners) temizlenerek engellenir.
+**Bellek sızıntısı (Memory Leak) nasıl engellenir?**
+
+Manuel dillerde her malloc için bir free yazılarak veya RAII desenleri kurularak; çöp toplayıcılı dillerde ise global dizi referansları ve kapatılmayan olay dinleyicileri (event listeners) temizlenerek engellenir.
 
 ## İlgili terimler
 
-- [Runtime](/dictionary/runtime/)
-- [State Management](/dictionary/state-management/)
-- [Serialization](/dictionary/serialization/)
-- [Network Stack](/dictionary/network-stack/)
-- [Assembly](/dictionary/assembly/)
+- [Runtime](https://trescout.com/dictionary/runtime/)
+- [State Management](https://trescout.com/dictionary/state-management/)
+- [Serialization](https://trescout.com/dictionary/serialization/)
+- [Network Stack](https://trescout.com/dictionary/network-stack/)
+- [Assembly](https://trescout.com/dictionary/assembly/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/memory-management/  
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/memory-management/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

@@ -7,12 +7,14 @@ Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları i�
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 7.855 → 8.872, son sürüm alpha-0.3.4 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 7.448 → 7.855, son sürüm alpha-0.3.4 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 4.722 → 7.448, son sürüm alpha-0.3.3 (19 Eylül 2026).
-- 19 Eylül 2026: Yıldız 4.762 → 4.722, son sürüm alpha-0.3.3 (19 Eylül 2026).
+
+- **3 Ekim 2026:** Yıldız 7.855 → 8.872, son sürüm alpha-0.3.4 (27 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 7.448 → 7.855, son sürüm alpha-0.3.4 (27 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 4.722 → 7.448, son sürüm alpha-0.3.3 (19 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 4.762 → 4.722, son sürüm alpha-0.3.3 (19 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Farklı kodlama ajanlarının yaptığı değişiklikleri tek merkezden izler.
 - Ajanlar arası ortak hafıza ile görev geçişlerinde kaldığınız yerden devam etmenizi sağlar.
 - Her kod değişikliğini, o değişikliği yapan ajanın gerekçesi ve komutlarıyla eşleştirir.
@@ -35,19 +37,25 @@ bun run dev:app
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir yazılım geliştirme asistanısın. Atlas kullanarak yaptığın tüm kod değişikliklerini, aldığın kararları ve kullandığın araçları oturum geçmişiyle birlikte kaydet. Çalışırken Claude Code veya Codex gibi farklı ajanlar arasında geçiş yapman gerekirse, önceki oturumdaki planları ve mimari notları ortak hafızadan oku. Kod tabanındaki dosyaları, klasörleri veya geçmiş oturumları '@' işaretiyle çağırarak bağlamı koru ve yaptığın her değişikliğin nedenini, ilgili oturumun gerekçeleriyle birlikte belgele.
 
-- **Kimin için:** Birden fazla yapay zekâ ajanıyla çalışan ve kodlama süreçlerinde yapılan değişikliklerin mantıksal gerekçelerini takip etmek isteyen yazılım geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Birden fazla yapay zekâ ajanıyla çalışan ve kodlama süreçlerinde yapılan değişikliklerin mantıksal gerekçelerini takip etmek isteyen yazılım geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/pacifio/atlas)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Source Control Rust Artificial Intelligence
+
+- [Source Control](https://trescout.com/dictionary/source-control/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/atlas/

@@ -7,12 +7,14 @@ PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği 
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 40.158 → 40.173, son sürüm desktop-v0.61.654 (7 Ekim 2026).
-- 6 Ekim 2026: Yıldız 40.049 → 40.158, son sürüm desktop-v0.61.653 (6 Ekim 2026).
-- 1 Ekim 2026: Yıldız 40.027 → 40.049, son sürüm desktop-v0.61.621 (1 Ekim 2026).
-- 30 Eylül 2026: Yıldız 40.001 → 40.027, son sürüm desktop-v0.61.603 (30 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 40.158 → 40.173, son sürüm desktop-v0.61.654 (7 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 40.049 → 40.158, son sürüm desktop-v0.61.653 (6 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 40.027 → 40.049, son sürüm desktop-v0.61.621 (1 Ekim 2026).
+- **30 Eylül 2026:** Yıldız 40.001 → 40.027, son sürüm desktop-v0.61.603 (30 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Kullanıcı davranışlarını analiz ederek hataları otomatik tespit edin.
 - Oturum tekrarları ve web analizleri ile kullanıcı deneyimini izleyin.
 - Yapay zekâ destekli uygulamalarınızın performansını ve maliyetini takip edin.
@@ -26,18 +28,25 @@ PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği 
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 PostHog platformunu kullanarak ürünümdeki kullanıcı davranışlarını analiz etmem gerekiyor. Hataları tespit etmek, oturum tekrarlarını incelemek ve yapay zekâ destekli özelliklerimin performansını izlemek için hangi araçları kullanmalıyım? Veri toplama ve analiz süreçlerini otomatize etmek için izlemem gereken adımları açıkla.
 
-- **Kimin için:** Ürün geliştirme süreçlerini veriye dayalı yönetmek ve kullanıcı deneyimini iyileştirmek isteyen yazılım geliştiriciler ve ürün yöneticileri içindir. 
+- **Kimin için:** Ürün geliştirme süreçlerini veriye dayalı yönetmek ve kullanıcı deneyimini iyileştirmek isteyen yazılım geliştiriciler ve ürün yöneticileri içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/PostHog/posthog)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Observability Session Replay Observability Artificial Intelligence
+
+- [AI Observability](https://trescout.com/dictionary/ai-observability/)
+- [Session Replay](https://trescout.com/dictionary/session-replay/)
+- [Observability](https://trescout.com/dictionary/observability/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/posthog/

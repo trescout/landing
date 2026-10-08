@@ -6,6 +6,7 @@ Legendary_OSINT, dolandırıcılık araştırmacıları ve siber tehdit istihbar
 - GitHub Trending · 2026-08-08
 
 ## Ne kazandırır?
+
 - Kişi ve sosyal medya araştırması için yöntemler sunar
 - Havacılık, denizcilik ve demiryolu hareketlerini izlemeyi sağlar
 - Siber tehdit istihbaratı ve dolandırıcılık analizi için kaynaklar içerir
@@ -14,16 +15,18 @@ Legendary_OSINT, dolandırıcılık araştırmacıları ve siber tehdit istihbar
 
 Bu bir yazılım aracı değil, açık kaynaklı istihbarat araçlarını ve kaynaklarını kategorize eden bir dizindir. GitHub üzerindeki sayfasını ziyaret ederek, ilgi duyduğunuz alanın başlığına tıklayıp listelenen araçları ve web sitelerini doğrudan incelemeye başlayabilirsiniz.
 
-- **Kimin için:** Dolandırıcılık araştırmacıları, siber tehdit istihbaratı analistleri ve dijital inceleme yapan profesyoneller için uygundur. 
-- **Lisans:** CC0-1.0 
+- **Kimin için:** Dolandırıcılık araştırmacıları, siber tehdit istihbaratı analistleri ve dijital inceleme yapan profesyoneller için uygundur.
+- **Lisans:** CC0-1.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/K2SOsint/Legendary_OSINT)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-OSINT
+
+- [OSINT](https://trescout.com/dictionary/osint/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/legendary-osint/

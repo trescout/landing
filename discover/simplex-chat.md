@@ -7,12 +7,14 @@ SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalış
 - GitHub Trending · 2026-06-27
 
 ## Güncelleme
-- 28 Eylül 2026: Yıldız 19.380 → 19.498, son sürüm v7.0.3 (26 Eylül 2026).
-- 4 Eylül 2026: Yıldız 19.277 → 19.380, son sürüm v7.0.2 (2 Eylül 2026).
-- 19 Ağustos 2026: Yıldız 19.164 → 19.277, son sürüm v7.0.1 (18 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 12.874 → 19.164, son sürüm v7.0.0 (28 Temmuz 2026).
+
+- **28 Eylül 2026:** Yıldız 19.380 → 19.498, son sürüm v7.0.3 (26 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 19.277 → 19.380, son sürüm v7.0.2 (2 Eylül 2026).
+- **19 Ağustos 2026:** Yıldız 19.164 → 19.277, son sürüm v7.0.1 (18 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 12.874 → 19.164, son sürüm v7.0.0 (28 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Kullanıcı tanımlayıcısı olmadan anonim iletişim
 - Uçtan uca çift katmanlı şifreleme
 - Merkeziyetsiz ve gizlilik odaklı mimari
@@ -26,19 +28,25 @@ curl -o- https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/inst
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 SimpleX Chat'in kullanıcı tanımlayıcıları kullanmadan çalışan yapısını ve uçtan uca şifreleme yöntemlerini temel alarak, bu platformun gizlilik odaklı mesajlaşma deneyimini nasıl sağladığını açıklayan kısa bir rehber hazırla.
 
-- **Kimin için:** İletişiminde tam anonimlik arayan ve merkeziyetsiz mesajlaşma altyapılarını tercih eden kullanıcılar içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** İletişiminde tam anonimlik arayan ve merkeziyetsiz mesajlaşma altyapılarını tercih eden kullanıcılar içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/simplex-chat/simplex-chat)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-User Identifiers Terminal Artificial Intelligence
+
+- [User Identifiers](https://trescout.com/dictionary/user-identifiers/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/simplex-chat/

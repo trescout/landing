@@ -7,9 +7,11 @@
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 4.987 → 5.343, son sürüm v0.1.3 (26 Haziran 2026).
+
+- **2 Ağustos 2026:** Yıldız 4.987 → 5.343, son sürüm v0.1.3 (26 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Sonsuz uzunlukta bağlam yönetimi
 - Kod ortamında çalışan tak-çalıştır mimari
 - Farklı sandbox ortamları ile güvenli entegrasyon
@@ -26,7 +28,7 @@ pip install rlms
 
 ```
 curl -LsSf https://astral.sh/uv/install.sh | sh
-uv init && uv venv --python 3.12 # change version as needed
+uv init && uv venv --python 3.12  # change version as needed
 uv pip install -e .
 ```
 
@@ -39,19 +41,25 @@ make quickstart
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 RLM kütüphanesini kullanarak dil modelinin girdiyi parçalara ayırmasını, analiz etmesini ve kendi içinde özyinelemeli çağrılar yapmasını sağlayan bir yapı kur. RLM sınıfını başlatırken backend olarak kullandığın modelin yapılandırmasını tanımla ve karmaşık görevlerin çözümünde modelin kod ortamıyla etkileşime geçmesine izin ver.
 
-- **Kimin için:** Karmaşık dil modeli süreçlerini standartlaştırmak ve özyinelemeli model çağrıları ile çalışmak isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Karmaşık dil modeli süreçlerini standartlaştırmak ve özyinelemeli model çağrıları ile çalışmak isteyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/alexzhang13/rlm)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Backend Sandbox Artificial Intelligence
+
+- [Backend](https://trescout.com/dictionary/backend/)
+- [Sandbox](https://trescout.com/dictionary/sandbox/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/rlm/

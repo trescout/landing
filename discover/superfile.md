@@ -7,10 +7,12 @@ Go diliyle geliştirilen superfile, terminal tabanlı dosya yöneticilerine mode
 - GitHub Trending · 2026-07-25
 
 ## Güncelleme
-- 14 Eylül 2026: Yıldız 22.119 → 23.234, son sürüm v1.6.0 (7 Haziran 2026).
-- 2 Ağustos 2026: Yıldız 19.700 → 22.119, son sürüm v1.6.0 (7 Haziran 2026).
+
+- **14 Eylül 2026:** Yıldız 22.119 → 23.234, son sürüm v1.6.0 (7 Haziran 2026).
+- **2 Ağustos 2026:** Yıldız 19.700 → 22.119, son sürüm v1.6.0 (7 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Görsel açıdan zengin terminal arayüzü
 - Hızlı ve estetik dosya işlemleri
 - Modern komut satırı deneyimi
@@ -32,19 +34,24 @@ spf
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Terminalde dosya işlemlerimi daha görsel ve verimli bir şekilde yönetmek istiyorum. Superfile aracını yükledim ve kullanmaya başlamak istiyorum. Temel dosya yönetimi komutları, kısayollar ve arayüzü nasıl daha verimli kullanabileceğim konusunda bana rehberlik eder misin?
 
-- **Kimin için:** Terminal üzerinden dosya yönetimi yaparken görsel ve modern bir arayüz arayan kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Terminal üzerinden dosya yönetimi yaparken görsel ve modern bir arayüz arayan kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/yorukot/superfile)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Artificial Intelligence
+
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/superfile/

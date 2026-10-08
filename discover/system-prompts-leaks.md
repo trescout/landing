@@ -7,11 +7,13 @@ GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Go
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 65.657 → 68.956.
-- 13 Eylül 2026: Yıldız 61.968 → 65.657.
-- 2 Ağustos 2026: Yıldız 44.809 → 61.968.
+
+- **5 Ekim 2026:** Yıldız 65.657 → 68.956.
+- **13 Eylül 2026:** Yıldız 61.968 → 65.657.
+- **2 Ağustos 2026:** Yıldız 44.809 → 61.968.
 
 ## Ne kazandırır?
+
 - Popüler yapay zekâ modellerinin arka plan yapılandırmalarını inceleme imkânı
 - Claude, ChatGPT ve Gemini gibi modellerin kısıtlamalarını görme
 - Teknoloji şirketlerinin modellerine verdiği sistem istemlerine erişim
@@ -19,18 +21,22 @@ GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Go
 ## Nasıl başlanır?
 
 Bu araç bir yazılım kurulumu gerektirmez. GitHub üzerindeki System Prompts Leaks deposuna giderek, incelemek istediğiniz yapay zekâ modelinin veya şirketin klasörüne tıklayabilir ve ilgili sistem istemi dosyalarını doğrudan tarayıcınız üzerinden okuyabilirsiniz.
+
 - [Resmî kaynak →](https://asgeirtj.github.io/system_prompts_leaks/)
 
-- **Kimin için:** Yapay zekâ modellerinin arka planda nasıl yapılandırıldığını merak eden geliştiriciler ve araştırmacılar içindir. 
-- **Lisans:** CC0-1.0 
+- **Kimin için:** Yapay zekâ modellerinin arka planda nasıl yapılandırıldığını merak eden geliştiriciler ve araştırmacılar içindir.
+- **Lisans:** CC0-1.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/asgeirtj/system_prompts_leaks)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-System Prompts Artificial Intelligence
+
+- [System Prompts](https://trescout.com/dictionary/system-prompts/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/system-prompts-leaks/

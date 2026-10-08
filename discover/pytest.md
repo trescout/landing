@@ -7,9 +7,11 @@ Pytest, Python projelerinde küçük ölçekli birim testlerinden (unit testing)
 - GitHub Trending · 2026-06-15
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 14.015 → 14.382, son sürüm 9.1.1 (19 Haziran 2026).
+
+- **2 Ağustos 2026:** Yıldız 14.015 → 14.382, son sürüm 9.1.1 (19 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Daha az kodla kapsamlı birim ve işlevsel testler yazılmasını sağlar.
 - Hata anında detaylı bilgi sunarak testlerin hızlı analiz edilmesine yardımcı olur.
 - Geniş eklenti desteği ve modüler yapısı ile farklı ihtiyaçlara kolayca uyum sağlar.
@@ -30,22 +32,30 @@ pip install pytest
 pytest
 ```
 
-Kaynak: Resmî kaynak: https://github.com/pytest-dev/pytest
+**Kaynak:** Resmî kaynak: https://github.com/pytest-dev/pytest
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Python projemde birim testleri yazmak istiyorum. Pytest kullanarak basit bir test dosyasını nasıl oluşturabilirim ve yazdığım testleri terminal üzerinden nasıl çalıştırabilirim? Lütfen test fonksiyonlarını tanımlarken kullanmam gereken assert yapısı ve testlerin otomatik keşfedilmesi için dosya isimlendirme kuralları hakkında bilgi ver.
 
-- **Kimin için:** Python projelerinde kod kalitesini artırmak ve test süreçlerini otomatize etmek isteyen yazılım geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Python projelerinde kod kalitesini artırmak ve test süreçlerini otomatize etmek isteyen yazılım geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/pytest-dev/pytest)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Testing Framework Unit Testing Framework Terminal Artificial Intelligence
+
+- [Testing Framework](https://trescout.com/dictionary/testing-framework/)
+- [Unit Testing](https://trescout.com/dictionary/unit-testing/)
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pytest/

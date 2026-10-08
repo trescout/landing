@@ -1,6 +1,6 @@
 # Belirteçsiz Çok Dilli Ses Tasarımı
 
-VoxCPM ; çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi ses kopyalama (voice cloning) işlemleri için geliştirilmiş, belirteçsiz (tokenizer-free) açık kaynak bir TTS modelidir.
+**VoxCPM**; çok dilli konuşma üretimi, yaratıcı **ses tasarımı** ve gerçekçi **ses kopyalama (voice cloning)** işlemleri için geliştirilmiş, belirteçsiz (tokenizer-free) açık kaynak bir TTS modelidir.
 
 - ★ 38.380
 - Python
@@ -23,41 +23,52 @@ pip install voxcpm
 voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav
 ```
 
-Kaynak: Resmî kaynak: https://github.com/OpenBMB/VoxCPM
+**Kaynak:** Resmî kaynak: https://github.com/OpenBMB/VoxCPM
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 36.548 → 38.380, son sürüm 2.0.3 (11 Mayıs 2026).
-- 2 Eylül 2026: Yıldız 34.774 → 36.548, son sürüm 2.0.3 (11 Mayıs 2026).
-- 2 Ağustos 2026: Yıldız 22.648 → 34.774, son sürüm 2.0.3 (11 Mayıs 2026).
 
-- **Kimin için:** Ses/TTS geliştiren geliştiriciler, araştırmacılar 
-- **Zorluk:** İleri · ML/model bilgisi 
-- **Ne sunar:** Çok dilli TTS + ses tasarımı + klonlama 
-- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
-- **Lisans:** Apache-2.0 · ayrıntı aşağıda 
+- **7 Ekim 2026:** Yıldız 36.548 → 38.380, son sürüm 2.0.3 (11 Mayıs 2026).
+- **2 Eylül 2026:** Yıldız 34.774 → 36.548, son sürüm 2.0.3 (11 Mayıs 2026).
+- **2 Ağustos 2026:** Yıldız 22.648 → 34.774, son sürüm 2.0.3 (11 Mayıs 2026).
+
+- **Kimin için:** Ses/TTS geliştiren geliştiriciler, araştırmacılar
+- **Zorluk:** İleri · ML/model bilgisi
+- **Ne sunar:** Çok dilli TTS + ses tasarımı + klonlama
+- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0)
+- **Lisans:** Apache-2.0 · ayrıntı aşağıda
 
 ## Ne sunar?
+
 - Çok dilli ve doğal konuşma üretimi.
 - Yaratıcı ve özgün ses tasarımı.
 - Yüksek doğrulukta ses kopyalama (voice cloning).
 
 ## Sorumluluk notu
 
-Ses kopyalama (voice cloning) içerir. Bir kişinin sesini izni olmadan taklit etmek yasal ve etik sorun yaratır; sorumluluk kullanıcıya aittir.
+Ses kopyalama (voice cloning) içerir. Bir kişinin sesini **izni olmadan** taklit etmek yasal ve etik sorun yaratır; sorumluluk kullanıcıya aittir.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 VoxCPM metinden konuşma aracını kurmak için 'pip install voxcpm' komutunu çalıştır, sonra 'voxcpm design --text "Merhaba dünya" --output out.wav' komutuyla bir ses dosyası üret; istersem referans bir ses dosyasıyla 'voxcpm clone' kullanarak o sesi klonla.
 
-Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir.
+**Lisans:** Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/OpenBMB/VoxCPM)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Tokenizer-free Voice Cloning Cloning Text-to-Speech Clone Open Source
+
+- [Tokenizer-free](https://trescout.com/dictionary/tokenizer-free/)
+- [Voice Cloning](https://trescout.com/dictionary/voice-cloning/)
+- [Cloning](https://trescout.com/dictionary/cloning/)
+- [Text-to-Speech](https://trescout.com/dictionary/text-to-speech/)
+- [Clone](https://trescout.com/dictionary/clone/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/voxcpm/

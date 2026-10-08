@@ -6,12 +6,14 @@ TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
-- 4 Ekim 2026: Yıldız 109.196 → 109.690, son sürüm v0.6.0 (3 Ekim 2026).
-- 29 Eylül 2026: Yıldız 108.777 → 109.196, son sürüm v0.5.2 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 107.380 → 108.777, son sürüm v0.5.1 (24 Eylül 2026).
-- 18 Eylül 2026: Yıldız 107.234 → 107.380, son sürüm v0.5.0 (18 Eylül 2026).
+
+- **4 Ekim 2026:** Yıldız 109.196 → 109.690, son sürüm v0.6.0 (3 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 108.777 → 109.196, son sürüm v0.5.2 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 107.380 → 108.777, son sürüm v0.5.1 (24 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 107.234 → 107.380, son sürüm v0.5.0 (18 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Finansal analiz ve strateji geliştirme süreçlerini otonom ajanlarla yönetir.
 - Analist, araştırmacı ve risk yönetimi gibi uzman rolleri iş birliği içinde çalıştırır.
 - Çoklu yapay zekâ modeli desteğiyle piyasa verilerini değerlendirir.
@@ -34,22 +36,31 @@ pip install .
 python -m cli.main
 ```
 
-Kaynak: Resmî kaynak: https://github.com/TauricResearch/TradingAgents
+**Kaynak:** Resmî kaynak: https://github.com/TauricResearch/TradingAgents
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 TradingAgents aracını kullanarak finansal piyasa verilerini analiz etmek istiyorum. Kurulumu tamamladım ve gerekli API anahtarlarımı yapılandırdım. Ajanların piyasa koşullarını değerlendirmesi, teknik ve temel analiz yapması için sistemi nasıl başlatabilirim? Hangi komutla otonom ticaret ajanlarını devreye alıp strateji oluşturma sürecini başlatabilirim?
 
-- **Kimin için:** Finansal piyasalar üzerinde otonom ajan tabanlı analiz ve strateji geliştirme süreçlerini araştıran kullanıcılar için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Finansal piyasalar üzerinde otonom ajan tabanlı analiz ve strateji geliştirme süreçlerini araştıran kullanıcılar için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/TauricResearch/TradingAgents)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Multi-agent LLM Multi-agent LLM CLI API Artificial Intelligence
+
+- [Multi-agent LLM](https://trescout.com/dictionary/multi-agent-llm/)
+- [Multi-agent](https://trescout.com/dictionary/multi-agent/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tradingagents/

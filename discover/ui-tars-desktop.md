@@ -7,9 +7,11 @@ ByteDance tarafından geliştirilen UI-TARS, çok modlu yapay zekâ modellerini 
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 36.779 → 38.404, son sürüm v0.3.0 (4 Kasım 2025).
+
+- **2 Ağustos 2026:** Yıldız 36.779 → 38.404, son sürüm v0.3.0 (4 Kasım 2025).
 
 ## Ne kazandırır?
+
 - Masaüstü ve tarayıcı görevlerini otonom gerçekleştirme
 - Görsel verileri işleyerek insan benzeri iş akışı
 - Çok modlu yapay zekâ modelleriyle tam entegrasyon
@@ -37,19 +39,26 @@ agent-tars --provider volcengine --model doubao-1-5-thinking-vision-pro-250428 -
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bilgisayarımda veya tarayıcımda gerçekleştirmemi istediğin karmaşık bir görevi tanımla. Örneğin, belirli bir web sitesine gidip veri girişi yapmanı veya bir uçuş rezervasyonu sürecini yönetmeni isteyebilirim. Lütfen görsel arayüzü analiz ederek adımları otonom şekilde tamamla.
 
-- **Kimin için:** Bilgisayar üzerindeki rutin veya karmaşık görevleri yapay zekâ yardımıyla otomatize etmek isteyen kullanıcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Bilgisayar üzerindeki rutin veya karmaşık görevleri yapay zekâ yardımıyla otomatize etmek isteyen kullanıcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/bytedance/UI-TARS-desktop)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Multimodal AI AI Models Multimodal Artificial Intelligence
+
+- [Multimodal AI](https://trescout.com/dictionary/multimodal-ai/)
+- [AI Models](https://trescout.com/dictionary/ai-models/)
+- [Multimodal](https://trescout.com/dictionary/multimodal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ui-tars-desktop/

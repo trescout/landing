@@ -7,12 +7,14 @@ Palmier Pro, macOS işletim sistemi üzerinde çalışan ve yapay zekâ destekli
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 14.472 → 14.511, son sürüm v0.11.0 (5 Ekim 2026).
-- 27 Eylül 2026: Yıldız 14.335 → 14.472, son sürüm v0.10.1 (26 Eylül 2026).
-- 10 Eylül 2026: Yıldız 14.223 → 14.335, son sürüm v0.9.0 (9 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 13.681 → 14.223, son sürüm v0.8.1 (28 Ağustos 2026).
+
+- **5 Ekim 2026:** Yıldız 14.472 → 14.511, son sürüm v0.11.0 (5 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 14.335 → 14.472, son sürüm v0.10.1 (26 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 14.223 → 14.335, son sürüm v0.9.0 (9 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 13.681 → 14.223, son sürüm v0.8.1 (28 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Timeline üzerinde yapay zekâ ile video ve görsel üretimi
 - Claude, Codex ve Cursor ile MCP üzerinden entegrasyon
 - Apple Silicon cihazlar için yerel Swift performansı
@@ -20,18 +22,25 @@ Palmier Pro, macOS işletim sistemi üzerinde çalışan ve yapay zekâ destekli
 ## Nasıl başlanır?
 
 Resmî GitHub sayfasındaki indirme bağlantısını kullanarak Palmier Pro uygulamasını macOS cihazınıza indirin ve kurun. Uygulamayı çalıştırdıktan sonra yapay zekâ araçlarını kullanmak için giriş yapabilir veya MCP entegrasyonlarını uygulama içindeki Yardım menüsünden yapılandırabilirsiniz.
+
 - [Resmî kaynak →](https://palmier.io)
 
-- **Kimin için:** Video düzenleme süreçlerine yapay zekâ entegre etmek isteyen macOS ve Apple Silicon kullanıcıları içindir. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Video düzenleme süreçlerine yapay zekâ entegre etmek isteyen macOS ve Apple Silicon kullanıcıları içindir.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/palmier-io/palmier-pro)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Video Editor Editor Apple Silicon MCP Artificial Intelligence
+
+- [Video Editor](https://trescout.com/dictionary/video-editor/)
+- [Editor](https://trescout.com/dictionary/editor/)
+- [Apple Silicon](https://trescout.com/dictionary/apple-silicon/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/palmier-pro/

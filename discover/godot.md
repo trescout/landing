@@ -5,15 +5,17 @@ Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri i�
 - ★ 115.850
 - GitHub Trending · 2026-06-02
 
-TreScout notu: Oyun motoru, üstelik ücretsiz ve kapalı bir şirkete bağlı değil. İki boyutlu oyunlarda rakiplerini aratmaz; üç boyutlu büyük projelerde hazır varlık ve eğitim içeriği Unity ve Unreal kadar bol değil.
+**TreScout notu:** Oyun motoru, üstelik ücretsiz ve kapalı bir şirkete bağlı değil. İki boyutlu oyunlarda rakiplerini aratmaz; üç boyutlu büyük projelerde hazır varlık ve eğitim içeriği Unity ve Unreal kadar bol değil.
 
-_Görsel: Godot Engine (godot-design) · CC-BY-4.0_
+*Görsel: Godot Engine (godot-design) · CC-BY-4.0*
 
 ## Güncelleme
-- 19 Ağustos 2026: Yıldız 114.944 → 115.850, son sürüm 4.7.2-stable (18 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 111.819 → 114.944, son sürüm 4.7.1-stable (14 Temmuz 2026).
+
+- **19 Ağustos 2026:** Yıldız 114.944 → 115.850, son sürüm 4.7.2-stable (18 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 111.819 → 114.944, son sürüm 4.7.1-stable (14 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - İki ve üç boyutlu oyunlar için kapsamlı araçlar sunar
 - Tek tıkla farklı platformlara oyun çıktısı almanızı sağlar
 - Tamamen ücretsiz ve topluluk tarafından yönetilen bir yapıya sahiptir
@@ -32,22 +34,27 @@ brew install --cask godot
 winget install GodotEngine.GodotEngine
 ```
 
-Kaynak: Resmî kaynak: https://github.com/godotengine/godot
+**Kaynak:** Resmî kaynak: https://github.com/godotengine/godot
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Godot motoru ile iki veya üç boyutlu bir oyun projesi geliştirmek istiyorum. Oyun geliştirme sürecine başlamam için temel arayüz kullanımı, sahne oluşturma mantığı ve proje yapısı hakkında bana adım adım bir başlangıç rehberi hazırlar mısın?
 
-- **Kimin için:** Kendi oyunlarını geliştirmek isteyen ve açık kaynaklı, esnek bir oyun motoru arayan tüm geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Kendi oyunlarını geliştirmek isteyen ve açık kaynaklı, esnek bir oyun motoru arayan tüm geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/godotengine/godot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Godot Engine Artificial Intelligence
+
+- [Godot Engine](https://trescout.com/dictionary/godot-engine/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/godot/

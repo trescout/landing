@@ -7,9 +7,11 @@ LangChain tarafından geliştirilen open-deep-research, karmaşık soruları yan
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
-- 22 Ağustos 2026: Yıldız 12.307 → 12.655, depo arşivlendi, geliştirme durdu.
+
+- **22 Ağustos 2026:** Yıldız 12.307 → 12.655, depo arşivlendi, geliştirme durdu.
 
 ## Ne kazandırır?
+
 - Karmaşık sorular için çok adımlı otonom araştırma
 - Farklı model sağlayıcıları ve arama araçlarıyla uyumluluk
 - LangGraph üzerinden görselleştirilmiş araştırma süreçleri
@@ -22,7 +24,7 @@ LangChain tarafından geliştirilen open-deep-research, karmaşık soruları yan
 git clone https://github.com/langchain-ai/open_deep_research.git
 cd open_deep_research
 uv venv
-source .venv/bin/activate # On Windows: .venv\Scripts\activate
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 
 **Bağımlılıkları yükleme**
@@ -43,19 +45,23 @@ uvx --refresh --from "langgraph-cli[inmem]" --with-editable . --python 3.11 lang
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Open Deep Research aracını kullanarak [ARAŞTIRMA KONUNUZU BURAYA YAZIN] hakkında derinlemesine bir analiz yap. Araştırma sürecini planla, internet üzerinden verileri topla ve bulgularını sentezleyerek kapsamlı bir rapor oluştur.
 
-- **Kimin için:** Karmaşık konularda otonom araştırma süreçlerini otomatize etmek isteyen geliştiriciler ve araştırmacılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Karmaşık konularda otonom araştırma süreçlerini otomatize etmek isteyen geliştiriciler ve araştırmacılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/langchain-ai/open_deep_research)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-deep-research/

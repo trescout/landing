@@ -1,6 +1,6 @@
 # Claude ile Uzman Asistan Deneyimi
 
-Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için beceriler, bağlayıcılar, slash komutları ve alt-ajanları bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, Claude Cowork için tasarlanmış 11 hazır eklenti içerir.
+Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için **beceriler, bağlayıcılar, slash komutları ve alt-ajanları** bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, **Claude Cowork** için tasarlanmış 11 hazır eklenti içerir.
 
 - ★ 26.989
 - Python
@@ -8,21 +8,23 @@ Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyo
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 25.686 → 26.989.
-- 27 Eylül 2026: Yıldız 24.405 → 25.686.
-- 17 Eylül 2026: Yıldız 23.222 → 24.405.
-- 1 Ağustos 2026: Yıldız 16.517 → 23.222.
 
-- **Kimin için:** Kod yazmayan bilgi çalışanları (Cowork kullananlar) 
-- **Zorluk:** Başlangıç dostu · Claude Cowork üzerinde 
-- **İçerik:** 11 hazır eklenti (rol/ekip bazlı) 
-- **Kaynak:** Anthropic · resmi depo 
-- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
+- **7 Ekim 2026:** Yıldız 25.686 → 26.989.
+- **27 Eylül 2026:** Yıldız 24.405 → 25.686.
+- **17 Eylül 2026:** Yıldız 23.222 → 24.405.
+- **1 Ağustos 2026:** Yıldız 16.517 → 23.222.
+
+- **Kimin için:** Kod yazmayan bilgi çalışanları (Cowork kullananlar)
+- **Zorluk:** Başlangıç dostu · Claude Cowork üzerinde
+- **İçerik:** 11 hazır eklenti (rol/ekip bazlı)
+- **Kaynak:** Anthropic · resmi depo
+- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0)
 
 ## Ne kazandırır?
-- Claude'u rolünüze göre uzmanlaştırır (örneğin pazarlama, finans, hukuk).
+
+- Claude'u **rolünüze göre uzmanlaştırır** (örneğin pazarlama, finans, hukuk).
 - Her eklenti beceri, bağlayıcı ve komut paketinden oluşur, hızlı başlangıç sağlar.
-- Claude'a işi nasıl sevdiğinizi öğretip verimliliğinizi artırırsınız.
+- Claude'a işi **nasıl sevdiğinizi** öğretip verimliliğinizi artırırsınız.
 - Kod yazmanız gerekmez, Cowork üzerinde doğrudan çalışır.
 
 ## Kurulum
@@ -42,26 +44,32 @@ claude plugin install sales@knowledge-work-plugins
 /sales:call-prep
 ```
 
-Kaynak: Resmî kaynak: https://github.com/anthropics/knowledge-work-plugins
+**Kaynak:** Resmî kaynak: https://github.com/anthropics/knowledge-work-plugins
 
 ## Nasıl başlanır?
 
 Claude Cowork eklenti pazarından kurulum yapabilirsiniz. 11 eklentinin listesi ve işlevleri repoda tablo halinde yer alır. Kurulum sonrası Claude, ilgili iş fonksiyonunda bir uzman gibi davranmaya başlar.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code'da 'claude plugin marketplace add anthropics/knowledge-work-plugins' ve ardından 'claude plugin install sales@knowledge-work-plugins' komutlarını çalıştırarak rolüme uygun eklentiyi kur (sales yerine finance, marketing gibi istediğim rolü yazabilirim).
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
+**Lisans:** Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/anthropics/knowledge-work-plugins)
 - [Claude Cowork →](https://claude.com/product/cowork)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugin Open Source Artificial Intelligence
+
+- [Plugin](https://trescout.com/dictionary/plugin/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/knowledge-work-plugins/

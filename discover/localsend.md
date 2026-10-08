@@ -6,9 +6,10 @@ Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. Lo
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
-- 4 Ekim 2026: Yıldız 88.882 → 93.329, son sürüm v1.18.2 (21 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 88.401 → 88.882, son sürüm v1.18.2 (21 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 87.961 → 88.401, son sürüm v1.18.1 (12 Ağustos 2026).
+
+- **4 Ekim 2026:** Yıldız 88.882 → 93.329, son sürüm v1.18.2 (21 Ağustos 2026).
+- **21 Ağustos 2026:** Yıldız 88.401 → 88.882, son sürüm v1.18.2 (21 Ağustos 2026).
+- **15 Ağustos 2026:** Yıldız 87.961 → 88.401, son sürüm v1.18.1 (12 Ağustos 2026).
 
 ## Bu araç ne yapar?
 
@@ -23,26 +24,31 @@ Aynı yerel ağdaki farklı işletim sistemlerine sahip cihazlar arasında dosya
 İnternet üzerinden farklı ağlardaki cihazlara aktarım yapmak veya uygulama içi otomatik güncelleme bekleyenler.
 
 ## Öne çıkanlar
+
 - İnternet bağlantısı veya üçüncü taraf sunucu gerektirmez.
 - Windows, macOS, Linux, Android ve iOS’u destekler.
 - Hesap oluşturma ya da giriş yapma zorunluluğu yoktur.
 - Yerel iletişimde REST API ve HTTPS şifrelemesi kullanır.
 
 ## İlk kullanım akışı
-- Cihazınız için uygun sürümü resmî web sitesi, uygulama mağazası veya paket yöneticisi üzerinden yükleyin.
-- Paylaşım yapacağınız cihazları aynı yerel ağa bağlayın.
-- Bağlantı sorunu yaşarsanız güvenlik duvarında TCP ve UDP 53317 için gelen trafiği kontrol edin.
-- Uygulamada paylaşmak istediğiniz dosya veya mesajı seçerek gönderim işlemini başlatın.
+
+1. Cihazınız için uygun sürümü resmî web sitesi, uygulama mağazası veya paket yöneticisi üzerinden yükleyin.
+2. Paylaşım yapacağınız cihazları aynı yerel ağa bağlayın.
+3. Bağlantı sorunu yaşarsanız güvenlik duvarında TCP ve UDP 53317 için gelen trafiği kontrol edin.
+4. Uygulamada paylaşmak istediğiniz dosya veya mesajı seçerek gönderim işlemini başlatın.
 
 ## Güvenli başlangıç
 
 LocalSend internet veya üçüncü taraf sunucu gerektirmeden yerel ağda çalışır ve HTTPS şifrelemesi kullanır. Ağınızda AP isolation etkinse cihazlar birbirini göremeyebilir; güvenlik duvarı kuralları da bağlantıyı etkileyebilir.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 Aynı yerel ağdaki bilgisayarımdan telefonuma fotoğraf nasıl gönderirim?
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/localsend/localsend)
 - [LocalSend resmî README →](https://github.com/localsend/localsend)
 - [LocalSend resmî sitesi →](https://localsend.org/)
@@ -50,7 +56,8 @@ Aynı yerel ağdaki bilgisayarımdan telefonuma fotoğraf nasıl gönderirim?
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API
+
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/localsend/

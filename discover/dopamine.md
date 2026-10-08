@@ -7,12 +7,14 @@ Dopamine, iOS 15 ile 16.6.1 sürümleri arasındaki cihazlar için geliştirilen
 - GitHub Trending · 2026-08-11
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 6.395 → 6.737, son sürüm 3.0.10 (23 Eylül 2026).
-- 23 Ağustos 2026: Yıldız 6.273 → 6.395, son sürüm 3.0.9 (22 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 6.086 → 6.273, son sürüm 3.0.7 (15 Ağustos 2026).
-- 11 Ağustos 2026: Yıldız 6.086 → 6.086, son sürüm 3.0.4 (9 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 6.395 → 6.737, son sürüm 3.0.10 (23 Eylül 2026).
+- **23 Ağustos 2026:** Yıldız 6.273 → 6.395, son sürüm 3.0.9 (22 Ağustos 2026).
+- **15 Ağustos 2026:** Yıldız 6.086 → 6.273, son sürüm 3.0.7 (15 Ağustos 2026).
+- **11 Ağustos 2026:** Yıldız 6.086 → 6.086, son sürüm 3.0.4 (9 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - iOS 15 ve 18.7.1 arası sürümlerde çalışır
 - Cihaz üzerinde yönetici yetkilerine erişim sağlar
 - Sistem dosyaları üzerinde özelleştirme imkânı sunar
@@ -20,12 +22,14 @@ Dopamine, iOS 15 ile 16.6.1 sürümleri arasındaki cihazlar için geliştirilen
 ## Nasıl başlanır?
 
 Dopamine aracını kullanmaya başlamak için resmî web sitesi olan https://ellekit.space/dopamine/ adresini ziyaret edebilir ve cihazınız için uygun olan indirme bağlantısını takip edebilirsiniz.
+
 - [Resmî kaynak →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
 
-- **Kimin için:** iOS işletim sistemli cihazlarında sistem kısıtlamalarını aşarak yönetici yetkilerine sahip olmak isteyen kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** iOS işletim sistemli cihazlarında sistem kısıtlamalarını aşarak yönetici yetkilerine sahip olmak isteyen kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/opa334/Dopamine)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

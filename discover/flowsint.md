@@ -6,12 +6,14 @@ Flowsint, siber güvenlik analistleri ve araştırmacılar için görsel, esnek 
 - GitHub Trending · 2026-06-03
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 8.922 → 9.092, son sürüm v1.2.13 (3 Ekim 2026).
-- 17 Eylül 2026: Yıldız 7.755 → 8.922, son sürüm v1.2.12 (26 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 7.528 → 7.755, son sürüm v1.2.12 (26 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 4.693 → 7.528, son sürüm v1.2.11 (1 Temmuz 2026).
+
+- **3 Ekim 2026:** Yıldız 8.922 → 9.092, son sürüm v1.2.13 (3 Ekim 2026).
+- **17 Eylül 2026:** Yıldız 7.755 → 8.922, son sürüm v1.2.12 (26 Ağustos 2026).
+- **27 Ağustos 2026:** Yıldız 7.528 → 7.755, son sürüm v1.2.12 (26 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 4.693 → 7.528, son sürüm v1.2.11 (1 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Varlıklar arası ilişkileri görsel bir çizge arayüzünde analiz etme
 - Otomatik zenginleştiriciler ile IP, alan adı ve sosyal medya verilerini işleme
 - Tüm verileri yerel makinede saklayarak yüksek gizlilik sağlama
@@ -35,19 +37,27 @@ make dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Flowsint aracını kurmak istiyorum. Docker ve Make yüklü bir sistemde git clone https://github.com/reconurge/flowsint.git, cd flowsint ve make prod komutlarını sırasıyla çalıştırarak kurulumu tamamlamama yardımcı ol. Kurulum sonrası http://localhost:5173/register adresinden hesap oluşturmam gerektiğini biliyorum, bu süreçte karşılaşabileceğim temel adımları açıkla.
 
-- **Kimin için:** Siber güvenlik araştırmacıları, gazeteciler ve OSINT analistleri için tasarlanmış bir inceleme platformudur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Siber güvenlik araştırmacıları, gazeteciler ve OSINT analistleri için tasarlanmış bir inceleme platformudur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/reconurge/flowsint)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Graph-based Investigation OSINT Clone Localhost Artificial Intelligence
+
+- [Graph-based Investigation](https://trescout.com/dictionary/graph-based-investigation/)
+- [OSINT](https://trescout.com/dictionary/osint/)
+- [Clone](https://trescout.com/dictionary/clone/)
+- [Localhost](https://trescout.com/dictionary/localhost/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flowsint/

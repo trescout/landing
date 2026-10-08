@@ -7,9 +7,11 @@ Microsoft tarafından geliştirilen Ontology-Playground, ontolojileri öğrenmek
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
-- 30 Eylül 2026: Yıldız 1.806 → 2.806.
+
+- **30 Eylül 2026:** Yıldız 1.806 → 2.806.
 
 ## Ne kazandırır?
+
 - Görsel arayüzle ontoloji modelleri oluşturun
 - RDF/XML formatında dışa aktarım yapın
 - Etkileşimli diyagramlar ile verileri keşfedin
@@ -30,19 +32,23 @@ npm run dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Ontology-Playground kullanarak bir ontoloji tasarlamak istiyorum. Retail, Healthcare veya Finance gibi alanlardan birini seçerek başlangıç şablonunu yükle. Ardından, bu şablona yeni varlık türleri ekle, aralarındaki ilişkileri tanımla ve oluşturduğum bu modeli RDF/XML formatında dışa aktarmam için gerekli adımları göster.
 
-- **Kimin için:** Veri modelleme, ontoloji tasarımı ve Microsoft Fabric IQ ekosistemiyle ilgilenen geliştiriciler ile araştırmacılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Veri modelleme, ontoloji tasarımı ve Microsoft Fabric IQ ekosistemiyle ilgilenen geliştiriciler ile araştırmacılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/microsoft/Ontology-Playground)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ontology-playground/

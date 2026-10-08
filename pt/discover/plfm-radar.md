@@ -6,7 +6,14 @@ O PLFM RADAR é um sistema de radar de matriz de fase de código aberto que oper
 - C++
 - GitHub Trending · 2026-08-18
 
+## Atualizações
+
+- **6 de outubro de 2026:** Estrelas 25,440 → 26,713, versão mais recente v2.0.2-p0-audit (20 de abril de 2026).
+- **27 de setembro de 2026:** Estrelas 24,168 → 25,440, versão mais recente v2.0.2-p0-audit (20 de abril de 2026).
+- **18 de agosto de 2026:** Estrelas 24,163 → 24,168, versão mais recente v2.0.2-p0-audit (20 de abril de 2026).
+
 ## O que você ganha
+
 - Direcionamento eletrônico do feixe: varredura de um setor de 90 graus com deslocadores de fase em milissegundos, sem a necessidade de um motor mecânico ou antena rotativa.
 - Modo de operação de alcance duplo: Capacidade operacional de 3 km em curto alcance (detecção de VANT/drone) e 20 km em longo alcance (vigilância perimetral e rastreamento de aeronaves).
 - Processamento de sinal em tempo real baseado em FPGA: Processamento de hardware de ecos de radar brutos em FPGA com algoritmos FFT e CFAR de alta velocidade.
@@ -14,28 +21,36 @@ O PLFM RADAR é um sistema de radar de matriz de fase de código aberto que oper
 - Integração de Python e SDR: Monitoramento em tempo real de dados de radar digital via hardware SDR de código aberto e interface Python.
 
 ## Componentes de hardware e arquitetura de radar
+
 - Matriz de antenas de microfita de banda X de 10,5 GHz: Elementos de antena de patch múltiplo projetados em substratos Rogers/FR4 de baixa perda.
 - Deslocadores de fase controlados numericamente: ICs de RF que direcionam o feixe no espaço atrasando a fase do sinal de cada elemento da antena com uma precisão de 5,6 graus.
 - Sintetizador de frequência FMCW: Oscilador local de alta estabilidade (VCO/PLL) gerando onda contínua com modulação de frequência linear.
 
 ## Software de processamento de sinal e controlo
+
 - Range-Doppler FFT (2D FFT): Cálculo simultâneo da distância do alvo e da velocidade radial aplicando primeiro o alcance e depois o Doppler FFT ao sinal de entrada.
 - Detector CFAR (Constant False Alarm Rate): Separa alvos reais em movimento do ruído de fundo e ecos de solo (desordem) com limite dinâmico.
 - GUI Python e tela PPI: Visualizando trilhas de alvo em um mapa ao vivo em uma tela de radar circular tradicional (PPI).
 
 ## Princípio de funcionamento técnico: FMCW e arranjo de fase
+
 - Medição de distância a partir da diferença de frequência: A frequência de batimento é obtida misturando o sinal chirp enviado com o sinal retornando do alvo. Essa frequência é diretamente proporcional à distância.
 - Focagem do feixe com interferência construtiva: Ao fornecer um certo atraso de fase a cada elemento da antena do conjunto, o sinal recebe interferência construtiva na direção desejada e interferência destrutiva em outras direções.
 
 ## Cenários de uso e testes de campo
+
 - Defesa de UAV e Drones de baixa altitude: Detecção de pequenos veículos aéreos não tripulados em condições de neblina ou noturnas, onde as câmeras ópticas são inadequadas.
 - Segurança perimetral de instalações críticas: Monitoramento de abordagens não autorizadas de pessoas ou veículos em um raio de 3 km em aeroportos, data centers e instalações industriais.
 - Pesquisa meteorológica e atmosférica: Análise de movimentos de nuvens e intensidade de precipitação em escala local usando métodos micro-Doppler.
 
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Gostaria de examinar os esquemas de hardware de matriz de fase de 10,5 GHz e os blocos de processamento de sinal FPGA do projeto PLFM RADAR. Você poderia preparar um script Python de simulação que explique a geração de sinal de chirp FMCW, o cálculo de FFT 2D de Alcance-Doppler e a transferência de dados para uma tela de radar PPI baseada em Python? Você poderia mostrar passo a passo o algoritmo de detecção de distância e velocidade para um alvo artificial?
 
 ## Perguntas frequentes
+
 - É possível produzir o sistema em casa ou em laboratório? Sim. Todos os esquemas de PCB, arquivos de produção Gerber e códigos FPGA Verilog/VHDL do projeto estão disponíveis como código aberto no repositório GitHub. As placas podem ser encomendadas de fabricantes de PCB padrão e soldadas em ambiente de laboratório.
 - Qual é a vantagem do direcionamento eletrônico do feixe sobre os radares mecânicos? Enquanto os radares mecânicos giram de 1 a 2 rotações por segundo, os radares phased array podem mudar a direção do feixe em microssegundos. Não há peças mecânicas desgastadas e pode travar vários alvos instantaneamente.
 - É necessária uma licença especial de radiofrequência para operar? A banda de 10,5 GHz está sujeita a alocações de frequência de rádio amador ou industrial/científica (ISM) em muitos países. Embora testes em laboratório sejam permitidos em baixas potências de saída, as regulamentações locais devem ser observadas para transmissões externas de longo alcance.
@@ -43,9 +58,22 @@ Gostaria de examinar os esquemas de hardware de matriz de fase de 10,5 GHz e os 
 
 ## Termos relacionados do glossário
 
+- [Patch](https://trescout.com/pt/dictionary/patch/)
+- [GUI](https://trescout.com/pt/dictionary/gui/)
+- [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** Pesquisadores de radar, engenheiros da indústria de defesa, desenvolvedores de drones e entusiastas de RF/SDR.
+- **Licença:** Açık kaynak donanım ve yazılım lisansı
+- **Banda de Frequência:** 10,5 GHz (Banda X) FMCW
+- **Alcance do Alvo:** 3 km (Drone/Tático) - 20 km (Vigilância de área ampla)
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/NawfalMotii79/PLFM_RADAR)
+- [Ler em turco →](https://trescout.com/discover/plfm-radar/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/plfm-radar/

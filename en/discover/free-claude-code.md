@@ -6,20 +6,29 @@ Developed by Alishahryar1, free-claude-code provides free access to artificial i
 - Python
 - GitHub Trending · 2026-08-04
 
+## Updates
+
+- **October 5, 2026:** Stars 56,567 → 56,689, latest release v6.10.2 (October 5, 2026).
+- **October 4, 2026:** Stars 56,431 → 56,567, latest release v6.9.0 (October 3, 2026).
+- **October 3, 2026:** Stars 56,380 → 56,431, latest release v6.8.3 (October 3, 2026).
+- **October 2, 2026:** Stars 56,313 → 56,380, latest release v6.8.0 (October 2, 2026).
+
 ## What you get
+
 - Manage coding agents such as Claude Code and Codex from a single center
 - Switch between 31 different local and cloud-based AI providers
 - Integrate with development environments such as VS Code or JetBrains
 
 ## Installation
+
 **macOS and Linux installation**
 
 ```
 curl -fsSL "https://raw.githubusercontent.com/Alishahryar1/free-claude-code/main/scripts/install.sh" | sh
 ```
 
-
 ## Running it
+
 **Claude Code launch**
 
 ```
@@ -32,15 +41,27 @@ fcc-claude
 fcc-codex
 ```
 
-
 ## If you don't write code
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 Act as a coding agent for me. Using the provider I configured through Free Claude Code, carry out the software tasks I give you, analyze code fragments and make suggestions. When performing operations, base the model settings on the local management panel and produce efficient solutions by using Claude Code or Codex capabilities during the coding process.
 
 ## Related dictionary terms
 
+- [IDE](https://trescout.com/en/dictionary/ide/)
+- [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
+- **Who it is for:** It is suitable for software developers who want to use different artificial intelligence models in their coding processes through a single interface, free of charge or with their own providers.
+- **License:** MIT
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/Alishahryar1/free-claude-code)
+- [Read in Turkish →](https://trescout.com/discover/free-claude-code/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/free-claude-code/

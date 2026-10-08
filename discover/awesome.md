@@ -6,9 +6,11 @@ Awesome listeleri, yazılım geliştirme ve teknoloji dünyasındaki çeşitli k
 - GitHub Trending · 2026-07-07
 
 ## Güncelleme
-- 17 Eylül 2026: Yıldız 482.524 → 506.942.
+
+- **17 Eylül 2026:** Yıldız 482.524 → 506.942.
 
 ## Ne kazandırır?
+
 - Yazılım geliştirme alanında en iyi araçları keşfedin
 - İhtiyacınız olan kütüphanelere ve materyallere hızlıca ulaşın
 - Farklı platformlar ve teknolojiler için düzenlenmiş listeleri inceleyin
@@ -16,12 +18,14 @@ Awesome listeleri, yazılım geliştirme ve teknoloji dünyasındaki çeşitli k
 ## Nasıl başlanır?
 
 Bu araç bir yazılım kurulumu gerektirmez. İlgilendiğiniz teknoloji veya konu başlığını bulmak için resmî web sitesi olan awesome.re adresini ziyaret edebilir, kategorilere ayrılmış listeler üzerinden aradığınız kaynaklara ulaşabilirsiniz.
+
 - [Resmî kaynak →](https://github.com/stingalleman/awesome-audiovisual#readme)
 
-- **Kimin için:** Yazılım geliştirme, teknoloji ve dijital araçlar konusunda kaliteli kaynaklara tek bir merkezden ulaşmak isteyen herkes için uygundur. 
-- **Lisans:** CC0-1.0 
+- **Kimin için:** Yazılım geliştirme, teknoloji ve dijital araçlar konusunda kaliteli kaynaklara tek bir merkezden ulaşmak isteyen herkes için uygundur.
+- **Lisans:** CC0-1.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/sindresorhus/awesome)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

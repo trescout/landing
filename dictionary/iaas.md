@@ -1,25 +1,28 @@
 # IaaS nedir, ne demek?
 
-> Infrastructure as a Service
+*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
 
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-22
+> Infrastructure as a Service
 
 IaaS (**Infrastructure as a Service**, hizmet olarak altyapı), donanımın kiralanmasıdır.
 
 ## Tanım ve Kelime Kökeni
+
 Güç yetmeyince dev veri merkezinden parça kiralanır. İşletim sistemi ve yazılım sizde, donanım sorumluluğu sağlayıcıdadır. Boş arsa benzetmesi yerindedir: Altyapı hazır, bina sizindir.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
-- **Site:** Trafiğe göre makine.
-- **Yedek:** Uzak disk.
-- **Test:** Geçici ortam.
+
+**Site:** Trafiğe göre makine.
+**Yedek:** Uzak disk.
+**Test:** Geçici ortam.
 
 ## Teknik Derinlik ve Mimari
+
 Katmanlar:
-- **Sanal makine:** İşlemci ve bellek dilimi.
-- **Depolama:** Blok ve nesne alanı.
-- **Ağ:** Sanal ağ ve adres.
+
+**Sanal makine:** İşlemci ve bellek dilimi.
+**Depolama:** Blok ve nesne alanı.
+**Ağ:** Sanal ağ ve adres.
 
 Kodla makine:
 
@@ -33,34 +36,46 @@ resource "aws_instance" "web" {
 Maliyet kuralı: Açık unutulan makine yazar. Etiket ve alarm disiplini şarttır.
 
 ## Sık Karıştırılanlar
+
 PaaS sanılır. IaaS donanım verir, PaaS hazır ortam sunar. Biri arsa, diğeri mobilyalı dairedir.
 
 ## Farklı Disiplinlerde Kullanımı
-- **Arsa:** Altyapılı boş arazi.
-- **Depo:** Rafı hazır ambar.
-- **Tarla:** Sürülü toprak kiralama.
 
-## Bir benzetmeyle
-Boş arsa kiralamaya benzer; altyapı hazırdır, bina size aittir.
+**Arsa:** Altyapılı boş arazi.
+**Depo:** Rafı hazır ambar.
+**Tarla:** Sürülü toprak kiralama.
 
-## Sıkça sorulanlar
+*Boş arsa kiralamaya benzer; altyapı hazırdır, bina size aittir.*
 
-**IaaS güvenli mi?**  
+## Sıkça Sorulanlar
+
+**IaaS güvenli mi?**
+
 Altyapı güvenlidir, iç güvenlik sizdedir. Yama ve erişim disiplini şarttır.
 
-**PaaS farkı nedir?**  
+**PaaS farkı nedir?**
+
 IaaS donanım verir, PaaS ortam sunar. Kontrol sizdeyse ilki, hız istenirse ikincisi seçilir.
 
-**Maliyet nasıl tutulur?**  
+**Maliyet nasıl tutulur?**
+
 Kullanılmayan kapatılır, doğru boyut seçilir, alarm kurulur.
 
-**Ne zaman seçilir?**  
+**Ne zaman seçilir?**
+
 Tam kontrol ve özel kurulum gerektiğinde. Standart işte PaaS yeterlidir.
 
 ## İlgili terimler
-- [SaaS](/dictionary/saas/)
-- [PaaS](/dictionary/paas/)
-- [Virtual Machines](/dictionary/virtual-machines/)
+
+- [SaaS](https://trescout.com/dictionary/saas/)
+- [PaaS](https://trescout.com/dictionary/paas/)
+- [Virtual Machines](https://trescout.com/dictionary/virtual-machines/)
+
+## İlgili araçlar
+
+- [Free for Dev](https://trescout.com/discover/free-for-dev/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/iaas/

@@ -7,12 +7,14 @@ Google tarafından geliştirilen Angular, ölçeklenebilir web uygulamaları olu
 - GitHub Trending · 2026-08-05
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 101.033 → 101.027, son sürüm v22.2.1 (30 Eylül 2026).
-- 27 Eylül 2026: Yıldız 101.006 → 101.033, son sürüm v22.2.0 (23 Eylül 2026).
-- 17 Eylül 2026: Yıldız 100.994 → 101.006, son sürüm v22.1.7 (16 Eylül 2026).
-- 10 Eylül 2026: Yıldız 101.002 → 100.994, son sürüm v22.1.6 (9 Eylül 2026).
+
+- **1 Ekim 2026:** Yıldız 101.033 → 101.027, son sürüm v22.2.1 (30 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 101.006 → 101.033, son sürüm v22.2.0 (23 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 100.994 → 101.006, son sürüm v22.1.7 (16 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 101.002 → 100.994, son sürüm v22.1.6 (9 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Mobil ve masaüstü web uygulamaları geliştirme imkânı sunar
 - TypeScript tabanlı yapısıyla karmaşık projeleri standartlaştırır
 - Geniş araç desteğiyle ölçeklenebilir projeler oluşturmayı kolaylaştırır
@@ -41,19 +43,25 @@ ng serve
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Angular kullanarak modern bir web uygulaması geliştirmek istiyorum. Proje kurulumu, temel bileşen yapısı ve uygulama geliştirme süreçlerinde izlemem gereken adımları, Angular CLI araçlarını kullanarak bana adım adım açıkla.
 
-- **Kimin için:** Ölçeklenebilir ve profesyonel web uygulamaları geliştirmek isteyen yazılımcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Ölçeklenebilir ve profesyonel web uygulamaları geliştirmek isteyen yazılımcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/angular/angular)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Framework CLI Artificial Intelligence
+
+- [Framework](https://trescout.com/dictionary/framework/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/angular/

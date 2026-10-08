@@ -7,12 +7,14 @@ Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli ko
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 40.046 → 42.493.
-- 15 Eylül 2026: Yıldız 38.136 → 40.046.
-- 11 Eylül 2026: Yıldız 35.747 → 38.136.
-- 9 Eylül 2026: Yıldız 32.934 → 35.747.
+
+- **27 Eylül 2026:** Yıldız 40.046 → 42.493.
+- **15 Eylül 2026:** Yıldız 38.136 → 40.046.
+- **11 Eylül 2026:** Yıldız 35.747 → 38.136.
+- **9 Eylül 2026:** Yıldız 32.934 → 35.747.
 
 ## Ne kazandırır?
+
 - 27 farklı türde editoryal kalitede diyagram sunar
 - HTML ve SVG kullanarak temiz görseller üretir
 - Marka kimliğinize uygun tasarımları hızla oluşturur
@@ -32,19 +34,24 @@ ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-desig
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code veya kullandığın yapay zekâ asistanına, mevcut projemin mimarisini veya iş akışını analiz etmesini söyle. Ardından, diagram-design kütüphanesindeki 27 farklı görsel türünden, anlattığım konuya en uygun olanı seçerek temiz bir HTML ve SVG diyagramı oluşturmasını iste. Tasarımın markamın renklerine ve görsel diline uyumlu olması için web sitemi referans almasını belirt.
 
-- **Kimin için:** Karmaşık süreçleri veya mimari yapıları görselleştirirken tasarım araçlarıyla uğraşmak istemeyen yazılımcılar ve içerik üreticileri için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Karmaşık süreçleri veya mimari yapıları görselleştirirken tasarım araçlarıyla uğraşmak istemeyen yazılımcılar ve içerik üreticileri için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/cathrynlavery/diagram-design)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-SVG Artificial Intelligence
+
+- [SVG](https://trescout.com/dictionary/svg/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/diagram-design/

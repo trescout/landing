@@ -7,9 +7,11 @@ NVIDIA tarafından geliştirilen Cosmos, robotlar ve otonom araçlar gibi fiziks
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 9.173 → 11.343, son sürüm Cosmos3 (1 Haziran 2026).
+
+- **2 Ağustos 2026:** Yıldız 9.173 → 11.343, son sürüm Cosmos3 (1 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Fiziksel yapay zekâ uygulamaları için dünya modelleri, veri setleri ve araçlar sunar.
 - Metin, görsel, ses ve eylem dizilerini birleşik bir mimaride işleyip üretebilir.
 - Robotik ve otonom sistemler için tahminleme, planlama ve simülasyon yetenekleri sağlar.
@@ -20,7 +22,7 @@ NVIDIA tarafından geliştirilen Cosmos, robotlar ve otonom araçlar gibi fiziks
 
 ```
 uv pip install --torch-backend=cu130 \
-"vllm-omni @ git+https://github.com/vllm-project/vllm-omni.git@main"
+  "vllm-omni @ git+https://github.com/vllm-project/vllm-omni.git@main"
 ```
 
 ## Çalıştırma
@@ -29,24 +31,30 @@ uv pip install --torch-backend=cu130 \
 
 ```
 curl -sS -X POST http://localhost:8000/v1/videos/sync \
---form-string "prompt=A small warehouse robot moves a blue box across a clean floor." \
---form-string 'extra_params={"guardrails":false,"use_resolution_template":false,"use_duration_template":false}' \
--o cosmos3_t2v.mp4
+  --form-string "prompt=A small warehouse robot moves a blue box across a clean floor." \
+  --form-string 'extra_params={"guardrails":false,"use_resolution_template":false,"use_duration_template":false}' \
+  -o cosmos3_t2v.mp4
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 NVIDIA Cosmos platformunu kullanarak fiziksel yapay zekâ uygulamaları geliştirmek istiyorum. Cosmos 3 model ailesinin sunduğu yetenekleri, özellikle 'Reasoner' ve 'Generator' yüzeylerinin kullanım farklarını, bu modellerin robotik ve otonom sistemlerdeki görev planlama veya dünya simülasyonu gibi senaryolarda nasıl yapılandırılacağını teknik detaylarıyla açıkla. Ayrıca, kurulum aşamasında 'uv' aracı ve 'vllm-omni' kütüphanesi ile çalışma süreçlerini, CUDA sürücü gereksinimlerini göz önünde bulundurarak adım adım özetle.
 
-- **Kimin için:** Fiziksel yapay zekâ, robotik sistemler ve otonom araçlar üzerine çalışan, dünya modelleri ve çok modlu veri işleme süreçleriyle ilgilenen geliştiriciler içindir. 
+- **Kimin için:** Fiziksel yapay zekâ, robotik sistemler ve otonom araçlar üzerine çalışan, dünya modelleri ve çok modlu veri işleme süreçleriyle ilgilenen geliştiriciler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/NVIDIA/cosmos)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Physical AI Jupyter Notebooks Artificial Intelligence
+
+- [Physical AI](https://trescout.com/dictionary/physical-ai/)
+- [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cosmos/

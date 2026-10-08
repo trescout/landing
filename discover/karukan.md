@@ -7,9 +7,11 @@ Rust diliyle geliştirilen Karukan, Linux ve macOS işletim sistemleri için sin
 - GitHub Trending · 2026-07-02
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 615 → 692, son sürüm v0.1.0 (23 Şubat 2026).
+
+- **2 Ağustos 2026:** Yıldız 615 → 692, son sürüm v0.1.0 (23 Şubat 2026).
 
 ## Ne kazandırır?
+
 - GPT-2 tabanlı sinirsel kana-kanji dönüşümü
 - yazarken gerçek zamanlı canlı metin dönüştürme
 - kullanıcı seçimlerini öğrenen akıllı tahmin motoru
@@ -18,16 +20,21 @@ Rust diliyle geliştirilen Karukan, Linux ve macOS işletim sistemleri için sin
 
 Linux üzerinde fcitx5 ile kullanmak için karukan-fcitx5 klasöründeki, macOS için ise karukan-macos klasöründeki README dosyalarında yer alan kurulum adımlarını takip etmelisiniz. İlk kullanımda model dosyaları Hugging Face üzerinden otomatik indirileceği için ilk dönüşüm işlemi biraz zaman alabilir.
 
-- **Kimin için:** Linux veya macOS işletim sistemlerinde daha akıllı ve yapay zekâ destekli bir Japonca giriş yöntemi arayan kullanıcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Linux veya macOS işletim sistemlerinde daha akıllı ve yapay zekâ destekli bir Japonca giriş yöntemi arayan kullanıcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/togatoga/karukan)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Neural Kana-Kanji Conversion Engine Japanese Input Method System Rust Artificial Intelligence
+
+- [Neural Kana-Kanji Conversion Engine](https://trescout.com/dictionary/neural-kana-kanji-conversion-engine/)
+- [Japanese Input Method System](https://trescout.com/dictionary/japanese-input-method-system/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/karukan/

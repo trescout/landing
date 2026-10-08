@@ -7,12 +7,14 @@ Tencent tarafından geliştirilen teamai-cli, ekiplerin komut satırı arayüzü
 - GitHub Trending · 2026-09-10
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 5.018 → 5.060, son sürüm v0.26.0 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 4.470 → 5.018, son sürüm v0.25.0 (22 Eylül 2026).
-- 14 Eylül 2026: Yıldız 3.405 → 4.470, son sürüm v0.24.0 (14 Eylül 2026).
-- 10 Eylül 2026: Yıldız 3.400 → 3.405, son sürüm v0.23.1 (9 Eylül 2026).
+
+- **29 Eylül 2026:** Yıldız 5.018 → 5.060, son sürüm v0.26.0 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 4.470 → 5.018, son sürüm v0.25.0 (22 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 3.405 → 4.470, son sürüm v0.24.0 (14 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 3.400 → 3.405, son sürüm v0.23.1 (9 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Tüm ekip üyeleri için ortak çalışma kuralları ve beceriler tanımlar.
 - Claude Code ve Cursor gibi yapay zekâ araçlarıyla uyumlu çalışır.
 - Yapılan güncellemeleri tüm ekip üyelerine otomatik olarak senkronize eder.
@@ -34,18 +36,24 @@ teamai init https://github.com/yourorg/yourrepo
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 TeamAI CLI kullanarak ekibimizin ortak çalışma kurallarını, becerilerini ve yapay zekâ ajan yapılandırmalarını yönetmek istiyorum. Ekip deposunu projemize tanımladıktan sonra, tüm üyelerin en güncel kurallara ve çalışma prensiplerine göre hareket etmesini sağlamak için gerekli senkronizasyon adımlarını nasıl yönetebilirim?
 
-- **Kimin için:** Yapay zekâ araçlarını kullanan ve ekip içinde ortak bir çalışma standardı oluşturmak isteyen yazılım ekipleri içindir. 
+- **Kimin için:** Yapay zekâ araçlarını kullanan ve ekip içinde ortak bir çalışma standardı oluşturmak isteyen yazılım ekipleri içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Tencent/teamai-cli)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Generative AI CLI Artificial Intelligence
+
+- [Generative AI](https://trescout.com/dictionary/generative-ai/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/teamai-cli/

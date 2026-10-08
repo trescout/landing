@@ -7,11 +7,13 @@ Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sis
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 28.085 → 28.788, son sürüm tinytorch-v0.2.0 (1 Ekim 2026).
-- 1 Eylül 2026: Yıldız 27.689 → 28.085, son sürüm vol1-v0.7.2 (31 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 25.784 → 27.689, son sürüm tinytorch-v0.1.13 (24 Haziran 2026).
+
+- **2 Ekim 2026:** Yıldız 28.085 → 28.788, son sürüm tinytorch-v0.2.0 (1 Ekim 2026).
+- **1 Eylül 2026:** Yıldız 27.689 → 28.085, son sürüm vol1-v0.7.2 (31 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 25.784 → 27.689, son sürüm tinytorch-v0.1.13 (24 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâ sistemlerinin tasarım ve mühendislik ilkelerini öğrenme
 - Kendi makine öğrenmesi çerçevenizi sıfırdan oluşturma
 - Donanım kısıtları altında gerçek dünya uygulamaları geliştirme
@@ -19,17 +21,22 @@ Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sis
 ## Nasıl başlanır?
 
 Bu projeye başlamak için resmî web sitesi olan mlsysbook.ai adresini ziyaret edebilirsiniz. Sitede yer alan ders kitabı, etkileşimli laboratuvarlar ve TinyTorch modülleri üzerinden teorik bilgileri pratik çalışmalarla birleştirerek öğrenme sürecinize başlayabilirsiniz.
+
 - [Resmî kaynak →](http://mlsysbook.ai/)
 
-- **Kimin için:** Yapay zekâ sistemlerini sadece model düzeyinde değil, mühendislik ve altyapı boyutuyla derinlemesine öğrenmek isteyen öğrenciler ve geliştiriciler içindir. 
+- **Kimin için:** Yapay zekâ sistemlerini sadece model düzeyinde değil, mühendislik ve altyapı boyutuyla derinlemesine öğrenmek isteyen öğrenciler ve geliştiriciler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/harvard-edge/cs249r_book)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Machine Learning Systems Machine Learning Artificial Intelligence
+
+- [Machine Learning Systems](https://trescout.com/dictionary/machine-learning-systems/)
+- [Machine Learning](https://trescout.com/dictionary/machine-learning/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cs249r-book/

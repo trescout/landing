@@ -1,24 +1,27 @@
 # Open Source AI nedir, ne demek?
 
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-09-22
+*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
 Open source AI (Türkçe karşılığıyla **açık kaynak yapay zekâ**), ağırlık ve kodları herkesin inceleyip çalıştırabildiği modellerdir.
 
 ## Tanım ve Kelime Kökeni
+
 Kapalı modellerin tersine bu modeller şeffaftır: İsteyen indirir, kendi verisiyle inceler, üzerinde değişiklik yapar. Llama, Mistral ve DeepSeek bilinen örneklerdir. Eğitim verisinin de açık olması gerektiği tartışılır; OSI bu konuda ayrı bir tanım çalışması yürütür.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
-- **Yerel sohbet:** İnternetsiz çalışan kişisel asistan.
-- **Araştırma:** Üzerinde deney yapılan taban model.
-- **Kurumsal:** Veriyi dışarı çıkarmadan şirket içi çözüm.
+
+**Yerel sohbet:** İnternetsiz çalışan kişisel asistan.
+**Araştırma:** Üzerinde deney yapılan taban model.
+**Kurumsal:** Veriyi dışarı çıkarmadan şirket içi çözüm.
 
 ## Teknik Derinlik ve Mimari
+
 Bileşenler:
-- **Ağırlıklar:** Eğitilmiş model dosyaları, Hugging Face üzerinden dağıtılır.
-- **Lisans:** Apache ve MIT permissif sayılır. Bazı topluluk lisansları ticari kullanıma sınır koyar, metni okumanız gerekir.
-- **Kuantizasyon:** Modelin küçültülmüş hali (GGUF), düşük bellekte çalışır.
-- **Çalıştırma:** Ollama gibi araçlar tek komutla model açar:
+
+**Ağırlıklar:** Eğitilmiş model dosyaları, Hugging Face üzerinden dağıtılır.
+**Lisans:** Apache ve MIT permissif sayılır. Bazı topluluk lisansları ticari kullanıma sınır koyar, metni okumanız gerekir.
+**Kuantizasyon:** Modelin küçültülmüş hali (GGUF), düşük bellekte çalışır.
+**Çalıştırma:** Ollama gibi araçlar tek komutla model açar:
 
 ```
 ollama run llama3
@@ -27,34 +30,42 @@ ollama run llama3
 Donanım kuralı: Parametre büyüdükçe bellek ister. Küçük modeller dizüstünde, büyükler sunucuda koşar.
 
 ## Sık Karıştırılanlar
+
 Open Weights ile karıştırılabilir. Open Weights yalnızca ağırlıkların açık olmasıdır. Open source AI ise kod ve süreç şeffaflığını da kapsar, kapsamı daha geniştir.
 
 ## Farklı Disiplinlerde Kullanımı
-- **Tarif:** Malzemesi ve ölçüsüyle paylaşılan yemek tarifi.
-- **Ders kitabı:** Herkesin okuyup düzeltebildiği açık kaynak.
-- **Tohum bankası:** Çiftçilerin paylaştığı ata tohumu.
 
-## Bir benzetmeyle
-Bir yemeğin gizli tarifini saklamak yerine, herkesin üzerinde denemeler yapıp geliştirebilmesi için tarifi paylaşmak gibidir.
+**Tarif:** Malzemesi ve ölçüsüyle paylaşılan yemek tarifi.
+**Ders kitabı:** Herkesin okuyup düzeltebildiği açık kaynak.
+**Tohum bankası:** Çiftçilerin paylaştığı ata tohumu.
 
-## Sıkça sorulanlar
+*Bir yemeğin gizli tarifini saklamak yerine, herkesin üzerinde denemeler yapıp geliştirebilmesi için tarifi paylaşmak gibidir.*
 
-**Açık kaynaklı modeller daha mı zayıftır?**  
+## Sıkça Sorulanlar
+
+**Açık kaynaklı modeller daha mı zayıftır?**
+
 Eskiden öyleydi, ancak günümüzde birçok açık model kapalı rakipleriyle yarışır. Zirve yarışında kapalı modeller öndedir, pratik işlerde fark kapanmıştır.
 
-**Neden açık kaynak kullanmalıyım?**  
+**Neden açık kaynak kullanmalıyım?**
+
 Veri gizliliği, maliyet ve tam entegrasyon için. Veriniz dışarı çıkmaz, lisans bedeli ödemezsiniz.
 
-**Ticari kullanım serbest mi?**  
+**Ticari kullanım serbest mi?**
+
 Lisansa göre değişir. Apache ve MIT serbesttir, bazı topluluk lisansları kullanıcı sayısı veya gelir sınırı koyar.
 
-**Hangisiyle başlanmalı?**  
+**Hangisiyle başlanmalı?**
+
 Küçük ve kuantize modellerle yerelde başlayın. İhtiyaç büyürse sunucuya taşırsınız.
 
 ## İlgili terimler
-- [Open Weights](/dictionary/open-weights/)
-- [Self-Hosting](/dictionary/self-hosting/)
-- [Open Source](/dictionary/open-source/)
+
+- [Open Weights](https://trescout.com/dictionary/open-weights/)
+- [Self-Hosting](https://trescout.com/dictionary/self-hosting/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/open-source-ai/

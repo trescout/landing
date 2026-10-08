@@ -7,12 +7,14 @@ Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 27.460 → 27.518, son sürüm v7.8.8 (7 Ekim 2026).
-- 1 Ekim 2026: Yıldız 27.420 → 27.460, son sürüm v7.8.3 (1 Ekim 2026).
-- 27 Eylül 2026: Yıldız 27.359 → 27.420, son sürüm jetbrains/v7.1.8 (25 Eylül 2026).
-- 19 Eylül 2026: Yıldız 27.351 → 27.359, son sürüm v7.7.5 (18 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 27.460 → 27.518, son sürüm v7.8.8 (7 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 27.420 → 27.460, son sürüm v7.8.3 (1 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 27.359 → 27.420, son sürüm jetbrains/v7.1.8 (25 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 27.351 → 27.359, son sürüm v7.7.5 (18 Eylül 2026).
 
 ## Ne kazandırır?
+
 - 500'den fazla model arasında geçiş yapabilme
 - VS Code, JetBrains ve CLI desteği
 - Doğal dilden kod üretimi ve hata ayıklama
@@ -46,19 +48,28 @@ kilo run --auto "run tests and fix any failures"
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden kod oluşturma, hata ayıklama veya mimari planlama süreçlerimi yönetmene ihtiyacım var. Kilo'nun sunduğu 500'den fazla model arasından görevime en uygun olanı seçerek, yazdığın kodları kendi kendini denetleme mekanizmanla gözden geçirip performans ve güvenlik standartlarına uygun şekilde teslim etmeni istiyorum.
 
-- **Kimin için:** Yazılım geliştirme süreçlerini yapay zekâ destekli ajanlarla hızlandırmak isteyen tüm geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Yazılım geliştirme süreçlerini yapay zekâ destekli ajanlarla hızlandırmak isteyen tüm geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Kilo-Org/kilocode)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Engineering Platform Agentic Engineering Coding Agent Agentic Agent CLI
+
+- [Agentic Engineering Platform](https://trescout.com/dictionary/agentic-engineering-platform/)
+- [Agentic Engineering](https://trescout.com/dictionary/agentic-engineering/)
+- [Coding Agent](https://trescout.com/dictionary/coding-agent/)
+- [Agentic](https://trescout.com/dictionary/agentic/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [CLI](https://trescout.com/dictionary/cli/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kilocode/

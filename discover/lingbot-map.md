@@ -7,10 +7,12 @@ Lingbot-map, akış halindeki verilerden sahneleri yeniden oluşturmak için tas
 - GitHub Trending · 2026-06-29
 
 ## Güncelleme
-- 16 Eylül 2026: Yıldız 16.054 → 17.060.
-- 2 Ağustos 2026: Yıldız 8.439 → 16.054.
+
+- **16 Eylül 2026:** Yıldız 16.054 → 17.060.
+- **2 Ağustos 2026:** Yıldız 8.439 → 16.054.
 
 ## Ne kazandırır?
+
 - Uzun video sekanslarında kararlı 3D yeniden oluşturma
 - Düşük gecikmeli akışlı çıkarım desteği
 - Karmaşık çevresel verileri işleyebilen yapay zekâ mimarisi
@@ -36,23 +38,28 @@ pip install torch==2.8.0 torchvision==0.23.0 --index-url https://download.pytorc
 
 ```
 python demo.py --model_path /path/to/lingbot-map-long.pt \
---image_folder example/courthouse --mask_sky
+    --image_folder example/courthouse --mask_sky
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 LingBot-Map kullanarak akış halindeki verilerden 3D sahne oluşturmak istiyorum. Kurulumu tamamladım ve model dosyam hazır. Courthouse örneğini çalıştırmak için gerekli olan komutu kullanarak, yerel tarayıcımda görselleştirme arayüzünü nasıl başlatabilirim?
 
-- **Kimin için:** 3D bilgisayarlı görü ve akışlı veri işleme süreçleriyle ilgilenen araştırmacılar ve geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** 3D bilgisayarlı görü ve akışlı veri işleme süreçleriyle ilgilenen araştırmacılar ve geliştiriciler için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Robbyant/lingbot-map)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Foundation Model Artificial Intelligence
+
+- [Foundation Model](https://trescout.com/dictionary/foundation-model/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/lingbot-map/

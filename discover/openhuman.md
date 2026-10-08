@@ -7,12 +7,14 @@ Rust diliyle geliştirilen OpenHuman, kullanıcının yaşamına dair yerel önc
 - GitHub Trending · 2026-08-24
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 40.165 → 40.292, son sürüm v0.64.10 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 40.127 → 40.165, son sürüm v0.64.7 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 39.171 → 40.127, son sürüm v0.64.4 (26 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 36.855 → 39.171, son sürüm v0.63.12 (7 Ağustos 2026).
+
+- **1 Ekim 2026:** Yıldız 40.165 → 40.292, son sürüm v0.64.10 (30 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 40.127 → 40.165, son sürüm v0.64.7 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 39.171 → 40.127, son sürüm v0.64.4 (26 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 36.855 → 39.171, son sürüm v0.63.12 (7 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Tüm verilerinizi SQLite veritabanında yerel olarak saklar
 - Gmail ve Notion gibi araçlarla otomatik entegrasyon sağlar
 - Karmaşık görevleri yönetmek için yapay zekâ ajanlarını koordine eder
@@ -20,18 +22,24 @@ Rust diliyle geliştirilen OpenHuman, kullanıcının yaşamına dair yerel önc
 ## Nasıl başlanır?
 
 Kurulum dosyalarını indirmek için tinyhumans.ai/openhuman adresini ziyaret edebilir veya GitHub üzerindeki en güncel sürüm sayfasını kullanabilirsiniz. Terminal üzerinden kurulum yapmak isterseniz, detaylı platform notları ve yöntemler için projenin dokümantasyonunda yer alan INSTALL.md dosyasını inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://tinyhumans.ai/openhuman)
 
-- **Kimin için:** Kendi verileri üzerinde tam kontrole sahip, kişisel yapay zekâ asistanı ile iş süreçlerini otomatize etmek isteyen kullanıcılar içindir. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Kendi verileri üzerinde tam kontrole sahip, kişisel yapay zekâ asistanı ile iş süreçlerini otomatize etmek isteyen kullanıcılar içindir.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/tinyhumansai/openhuman)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Local-first Terminal Rust Artificial Intelligence
+
+- [Local-first](https://trescout.com/dictionary/local-first/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openhuman/

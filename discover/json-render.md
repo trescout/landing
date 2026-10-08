@@ -7,12 +7,16 @@ Vercel Labs tarafından geliştirilen json-render, üretken arayüz (generative 
 - GitHub Trending · 2026-09-21
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/vercel-labs/json-render)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Generative UI Framework Artificial Intelligence
+
+- [Generative UI](https://trescout.com/dictionary/generative-ui/)
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/json-render/

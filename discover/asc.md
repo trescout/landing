@@ -7,9 +7,11 @@ ASC, mobil uygulama araştırmacıları ve yapay zekâ ajanları için geliştir
 - GitHub Trending · 2026-09-16
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 1.336 → 1.980, son sürüm dev-0.1.1-post2 (21 Eylül 2026).
+
+- **27 Eylül 2026:** Yıldız 1.336 → 1.980, son sürüm dev-0.1.1-post2 (21 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Büyük uygulama dosyalarını saniyeler içinde tarar
 - Belleği yormadan doğrudan kod üzerinde sorgu yapar
 - Gereksiz ön işlem yapmadan hızlı sonuç üretir
@@ -43,19 +45,24 @@ droidasc getclass app.apk Lcom/poc/Main; -o Main.java
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bir Android uygulama araştırmacısı gibi davran. Droid ASC aracını kullanarak bir APK dosyasındaki belirli bir sınıfı bulmak, AndroidManifest.xml dosyasını çözümlemek veya kod içindeki referansları aramak için bana yardımcı ol. Komutları oluştururken aracın getclass, getmanifest ve findrefs komutlarını doğru parametrelerle kullan ve çıktıları nasıl yorumlamam gerektiğini açıkla.
 
-- **Kimin için:** Mobil uygulama güvenliği araştırmacıları ve Android yazılım geliştiricileri için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Mobil uygulama güvenliği araştırmacıları ve Android yazılım geliştiricileri için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/MG1937/ASC)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Decompiler Artificial Intelligence
+
+- [Decompiler](https://trescout.com/dictionary/decompiler/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/asc/

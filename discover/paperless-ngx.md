@@ -7,6 +7,7 @@ Paperless-ngx, fiziksel belgeleri dijital ortama aktarıp indeksleyen ve arşivl
 - GitHub Trending · 2026-09-21
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/paperless-ngx/paperless-ngx)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

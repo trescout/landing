@@ -7,12 +7,14 @@ Humanizer, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik kalı
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
-- 28 Eylül 2026: Yıldız 52.272 → 52.508, son sürüm v3.1.0 (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 49.735 → 52.272, son sürüm v3.0.0 (6 Eylül 2026).
-- 18 Eylül 2026: Yıldız 47.061 → 49.735, son sürüm v3.0.0 (6 Eylül 2026).
-- 12 Eylül 2026: Yıldız 44.679 → 47.061, son sürüm v3.0.0 (6 Eylül 2026).
+
+- **28 Eylül 2026:** Yıldız 52.272 → 52.508, son sürüm v3.1.0 (28 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 49.735 → 52.272, son sürüm v3.0.0 (6 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 47.061 → 49.735, son sürüm v3.0.0 (6 Eylül 2026).
+- **12 Eylül 2026:** Yıldız 44.679 → 47.061, son sürüm v3.0.0 (6 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâya özgü kalıpları ve tekrarları siler
 - Metnin doğal ve kişisel bir tonda yazılmasını sağlar
 - Belgelerdeki teknik verileri ve kod yapısını korur
@@ -36,19 +38,23 @@ npx skills add blader/humanizer --global
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Aşağıdaki metni, yapay zekâ tarafından yazılmış gibi duran ifadelerden, aşırı satış dilinden ve gereksiz dolgu kelimelerinden arındırarak daha doğal ve insan elinden çıkmış bir anlatıma dönüştür. Metnin orijinalindeki teknik bilgileri, sayısal verileri ve özel isimleri değiştirmeden, sadece cümle yapısını ve üslubu daha akıcı hale getir.
 
-- **Kimin için:** Yapay zekâ ile ürettiği metinlerin daha doğal ve özgün görünmesini isteyen içerik üreticileri için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ ile ürettiği metinlerin daha doğal ve özgün görünmesini isteyen içerik üreticileri için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/blader/humanizer)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/humanizer/

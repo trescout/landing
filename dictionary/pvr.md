@@ -1,58 +1,73 @@
 # PVR nedir, ne demek?
 
-> Personal Video Recorder
+*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
 
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-22
+> Personal Video Recorder
 
 PVR (**Personal Video Recorder**, kişisel video kaydedici), yayını kaydedip sonra izleten teknolojidir.
 
 ## Tanım ve Kelime Kökeni
+
 "Personal" **kişisel**, kasetli VCR döneminden dijital diske geçiştir. Canlı izlenemeyen program diske yazılır, durdurulur, geri sarılır. Günümüzde çoğu işlevi internet platformları üstlenir.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
-- **Uydu:** Alıcı kutusunda kayıt.
-- **Akıllı TV:** Dahili kayıt.
-- **Spor:** Maçı sonra izleme.
+
+**Uydu:** Alıcı kutusunda kayıt.
+**Akıllı TV:** Dahili kayıt.
+**Spor:** Maçı sonra izleme.
 
 ## Teknik Derinlik ve Mimari
+
 İşlevler:
-- **Kayıt:** Seçili programın diske yazılması.
-- **Timeshift:** Canlıyı duraklatıp devam etme.
-- **EPG:** Rehberden zamanlı kayıt.
-- **Bulut DVR:** Kaydın sunucuda tutulması.
+
+**Kayıt:** Seçili programın diske yazılması.
+**Timeshift:** Canlıyı duraklatıp devam etme.
+**EPG:** Rehberden zamanlı kayıt.
+**Bulut DVR:** Kaydın sunucuda tutulması.
 
 Kural: Telifli içeriğin paylaşımı yasaktır, kişisel izleme serbesttir. Depolama dolunca eski kayıt silinir.
 
 ## Sık Karıştırılanlar
+
 VCR sanılır. VCR kasetlidir, PVR dijitaldir. DVR ile aynı işi yapar, ad kişisel vurgu taşır.
 
 ## Farklı Disiplinlerde Kullanımı
-- **Kitap kopyası:** Sonra okumak için ayırma.
-- **Podcast:** İndirip yolda dinleme.
-- **Ekran kaydı:** Dersi arşivleme.
 
-## Bir benzetmeyle
-Kitabı o an okumak yerine kopyalayıp kenara ayırmaya benzer.
+**Kitap kopyası:** Sonra okumak için ayırma.
+**Podcast:** İndirip yolda dinleme.
+**Ekran kaydı:** Dersi arşivleme.
 
-## Sıkça sorulanlar
+*Kitabı o an okumak yerine kopyalayıp kenara ayırmaya benzer.*
 
-**PVR ile DVR aynı mı?**  
+## Sıkça Sorulanlar
+
+**PVR ile DVR aynı mı?**
+
 Teknik olarak evet. PVR adında kişisel vurgu vardır, işlev aynıdır.
 
-**Neden hala kullanılıyor?**  
+**Neden hala kullanılıyor?**
+
 Canlı spor ve yerel yayın gibi internette zor bulunan içerikte pratiktir.
 
-**İnternet varken gerekli mi?**  
+**İnternet varken gerekli mi?**
+
 Her yerde değil. Kayıt dışı yayın ve kesinti anında işe yarar.
 
-**Yasal sınırı nedir?**  
+**Yasal sınırı nedir?**
+
 Kişisel izleme serbesttir, paylaşım ve dağıtım yasaktır.
 
 ## İlgili terimler
-- [IPTV](/dictionary/iptv/)
-- [Streaming Applications](/dictionary/streaming-applications/)
-- [Video Editor](/dictionary/video-editor/)
+
+- [IPTV](https://trescout.com/dictionary/iptv/)
+- [Streaming Applications](https://trescout.com/dictionary/streaming-applications/)
+- [Video Editor](https://trescout.com/dictionary/video-editor/)
+
+## İlgili araçlar
+
+- [Sonarr](https://trescout.com/discover/sonarr/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/pvr/

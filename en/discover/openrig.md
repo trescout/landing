@@ -6,12 +6,21 @@ Openrig is a multi-agent infrastructure that combines Anthropic's coding tool Cl
 - TypeScript
 - GitHub Trending · 2026-09-28
 
+## Updates
+
+- **October 7, 2026:** Stars 4,807 → 5,622, latest release v0.6.6 (October 7, 2026).
+- **October 4, 2026:** Stars 3,945 → 4,807, latest release v0.6.5 (October 4, 2026).
+- **October 2, 2026:** Stars 3,117 → 3,945, latest release v0.6.4 (October 2, 2026).
+- **October 1, 2026:** Stars 2,638 → 3,117, latest release v0.6.3 (September 30, 2026).
+
 ## What you get
+
 - Combines different AI coding tool models into a single infrastructure.
 - Define agent teams with YAML and launch them with a single command.
 - Provides results by ensuring coordination between agents.
 
 ## Installation
+
 **Install the CLI tool**
 
 ```
@@ -19,15 +28,27 @@ npm install -g @openrig/cli
 rig setup --dry-run
 ```
 
-
 ## If you don't write code
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 I want to coordinate Claude Code and Codex agents in a single system using OpenRig. After checking the Node.js and tmux requirements, help me review the installation plan with the npm install -g @openrig/cli and rig setup --dry-run commands, and guide me through the steps to launch the team.
 
 ## Related dictionary terms
 
+- [Multi-agent](https://trescout.com/en/dictionary/multi-agent/)
+- [CLI](https://trescout.com/en/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
+- **Who it is for:** Designed for developers who want to coordinate multiple AI coding agents from a single hub.
+- **License:** Apache-2.0
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/mvschwarz/openrig)
+- [Read in Turkish →](https://trescout.com/discover/openrig/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/openrig/

@@ -7,12 +7,14 @@ Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağ
 - GitHub Trending · 2026-08-07
 
 ## Güncelleme
-- 18 Eylül 2026: Yıldız 25.420 → 25.612, son sürüm version/2026.8.3 (17 Eylül 2026).
-- 10 Eylül 2026: Yıldız 25.314 → 25.420, son sürüm version/2026.8.2 (9 Eylül 2026).
-- 2 Eylül 2026: Yıldız 24.947 → 25.314, son sürüm version/2026.8.1 (1 Eylül 2026).
-- 19 Ağustos 2026: Yıldız 24.539 → 24.947, son sürüm version/2026.8.0 (18 Ağustos 2026).
+
+- **18 Eylül 2026:** Yıldız 25.420 → 25.612, son sürüm version/2026.8.3 (17 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 25.314 → 25.420, son sürüm version/2026.8.2 (9 Eylül 2026).
+- **2 Eylül 2026:** Yıldız 24.947 → 25.314, son sürüm version/2026.8.1 (1 Eylül 2026).
+- **19 Ağustos 2026:** Yıldız 24.539 → 24.947, son sürüm version/2026.8.0 (18 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Farklı servisler arasında tek noktadan güvenli geçiş sağlar
 - SAML ve OAuth2 gibi standart protokolleri destekler
 - Küçük projelerden büyük ölçekli sistemlere kadar ölçeklenebilir
@@ -20,11 +22,13 @@ Authentik, uygulamalar için merkezi kimlik doğrulama ve erişim yönetimi sağ
 ## Nasıl başlanır?
 
 Kurulum için resmî web sitesindeki dokümantasyon sayfasına gidin. Küçük veya test amaçlı kurulumlar için Docker Compose, büyük ölçekli yapılar için ise Kubernetes yöntemlerini tercih edebilirsiniz. AWS üzerinden kurulum yapmak veya DigitalOcean uygulama mağazasını kullanmak da mümkündür.
+
 - [Resmî kaynak →](https://goauthentik.io)
 
-- **Kimin için:** Uygulamalarına güvenli ve merkezi bir kimlik doğrulama sistemi eklemek isteyen yazılım geliştiriciler ve sistem yöneticileri için uygundur. 
+- **Kimin için:** Uygulamalarına güvenli ve merkezi bir kimlik doğrulama sistemi eklemek isteyen yazılım geliştiriciler ve sistem yöneticileri için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/goauthentik/authentik)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

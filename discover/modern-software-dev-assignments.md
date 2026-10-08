@@ -7,12 +7,14 @@ Stanford Üniversitesi tarafından hazırlanan modern yazılım geliştirme öde
 - GitHub Trending · 2026-09-21
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/mihail911/modern-software-dev-assignments)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Software Development
+
+- [Software Development](https://trescout.com/dictionary/software-development/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/modern-software-dev-assignments/

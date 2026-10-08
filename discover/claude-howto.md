@@ -7,9 +7,11 @@ Claude Code için hazırlanan bu görsel rehber, temel kavramlardan ileri seviye
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 36.008 → 40.779, son sürüm v2.1.160 (2 Haziran 2026).
+
+- **2 Ağustos 2026:** Yıldız 36.008 → 40.779, son sürüm v2.1.160 (2 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Claude Code özelliklerini iş akışlarına entegre etme.
 - Hazır şablonlarla kod geliştirme süreçlerini hızlandırma.
 - Ajan yapılandırmaları ve MCP sunucuları ile otomasyon kurma.
@@ -46,19 +48,25 @@ chmod +x ~/.claude/hooks/*.sh
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code kullanıyorum ve bu rehberdeki şablonları kullanarak iş akışımı optimize etmek istiyorum. Claude Code içerisinde /self-assessment komutunu çalıştırarak mevcut seviyemi belirlememe yardımcı ol ve ardından 01-slash-commands modülünden başlayarak bana özelleştirilmiş bir öğrenme yolu oluştur.
 
-- **Kimin için:** Claude Code aracını daha verimli kullanmak ve ileri seviye ajan yapılandırmalarını öğrenmek isteyen geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Claude Code aracını daha verimli kullanmak ve ileri seviye ajan yapılandırmalarını öğrenmek isteyen geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/luongnv89/claude-howto)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-MCP Agent Artificial Intelligence
+
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-howto/

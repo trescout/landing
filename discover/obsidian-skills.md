@@ -6,9 +6,11 @@ Obsidian-skills, not alma uygulaması Obsidian üzerinde yapay zekâ ajanların�
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
-- 13 Eylül 2026: Yıldız 45.950 → 48.248.
+
+- **13 Eylül 2026:** Yıldız 45.950 → 48.248.
 
 ## Ne kazandırır?
+
 - Yapay zekâ ajanlarının notlarınızı okuyup düzenlemesini sağlar.
 - Markdown ve JSON Canvas gibi dosya biçimlerini destekler.
 - Not alma uygulaması Obsidian üzerinde otomasyon süreçleri kurar.
@@ -28,19 +30,26 @@ git clone https://github.com/kepano/obsidian-skills.git ~/.opencode/skills/obsid
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Obsidian notlarımı yönetmek için Obsidian-skills aracını kullanıyorum. Lütfen bu yetenek setini kullanarak notlarımdaki Markdown dosyalarını düzenle, JSON Canvas içeriklerini güncelle veya Obsidian CLI komut satırı arayüzü üzerinden gerekli işlemleri gerçekleştir. Özellikle notlarımda yer alan karmaşık yapıları, bağlantıları ve özellikleri koruyarak verimli bir bilgi yönetimi akışı oluşturmanı istiyorum.
 
-- **Kimin için:** Notlarını yapay zekâ destekli ajanlarla düzenlemek ve Obsidian üzerindeki bilgi yönetimini otomatize etmek isteyen kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Notlarını yapay zekâ destekli ajanlarla düzenlemek ve Obsidian üzerindeki bilgi yönetimini otomatize etmek isteyen kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/kepano/obsidian-skills)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Markdown AI Skills CLI Artificial Intelligence
+
+- [Markdown](https://trescout.com/dictionary/markdown/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/obsidian-skills/

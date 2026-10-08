@@ -6,7 +6,15 @@ AirLLM ist eine bahnbrechende Open-Source-Bibliothek, die riesige große Sprachm
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
+## Aktualisierungen
+
+- **7. Oktober 2026:** Sterne 33,755 → 35,481, neueste Version v4.0.0 (5. September 2026).
+- **6. September 2026:** Sterne 33,307 → 33,755, neueste Version v4.0.0 (5. September 2026).
+- **31. August 2026:** Sterne 31,598 → 33,307, neueste Version v3.3.0 (28. August 2026).
+- **19. August 2026:** Sterne 30,796 → 31,598, neueste Version v3.2.0 (18. August 2026).
+
 ## Was es bringt
+
 - Ausführen von 70B-Modellen mit 4 GB VRAM: Die Leistungsfähigkeit, hochparametrierte Modelle wie Llama 3 70B, Qwen oder DeepSeek selbst auf Einsteiger-Grafikkarten wie der GTX 1650 oder RTX 3050 auszuführen.
 - Unterstützung für 405B Llama 3.1: Die Möglichkeit, Modelle mit 405 Milliarden Parametern, die in Rechenzentren hunderttausende Dollar teure GPU-Cluster erfordern, auf PCs mit 8 GB VRAM auszuführen.
 - Schichtbasierte Speicherausführung (Layer-wise Execution): Anstatt das gesamte Modell in den VRAM einzupassen, werden die Schichten nacheinander von der Festplatte in den Arbeitsspeicher geladen und verarbeitet, wodurch der VRAM-Engpass umgangen wird.
@@ -14,26 +22,32 @@ AirLLM ist eine bahnbrechende Open-Source-Bibliothek, die riesige große Sprachm
 - Volle Präzision ohne Einbußen bei der Quantisierungsqualität: Ermöglicht das Inferenzieren sogar in der originalen 16-Bit-Präzision (bfloat16), falls gewünscht, ohne die Notwendigkeit, Gewichte auf 4-Bit zu komprimieren.
 
 ## Installation
+
 **Mit pip (PyPI)**
 
 ```
 pip install airllm
 ```
 
-
 ## Technische Architektur und Funktionsweise
+
 - Die sequentielle Natur von Transformer-Schichten: Ein Transformer-Netzwerk besteht aus 80 unabhängigen Schichten. Jede Schicht nimmt den Tensor-Output der vorherigen Schicht als Input. Es ist theoretisch nicht zwingend erforderlich, dass sich das gesamte Modell im Speicher befindet.
 - Sequenzielles Auslagern (Sequential Offloading): AirLLM lädt nur die jeweils aktuell berechnete einzelne Schicht in den VRAM (ca. 1,5 GB). Sobald die Berechnungen für den Forward Pass der jeweiligen Schicht abgeschlossen sind, wird der Speicher freigegeben und die nächste Schicht von der Festplatte geladen.
 - Geschwindigkeits- und Speicher-Kompromiss: Diese Architektur ist nicht für interaktive Chats gedacht, die Dutzende Token pro Sekunde erzeugen; sie ist ein unvergleichliches Einsparungstool für die stapelweise Datenanalyse, tiefgehendes Reasoning, Übersetzung, die Generierung synthetischer Daten und Modellbewertungsprozesse (Evals).
 - Speicherabbildbasiertes Dateilesen (mmap): Bindet PyTorch-Tensoren direkt über die mmap-Methode an die Festplatte an und nutzt so direkt die Bandbreite der NVMe-SSD, ohne den System-RAM unnötig zu belasten.
 
 ## Beispiel für die Python-Verwendung
+
 AirLLM hat eine extrem einfache Python-Syntax, die der der HuggingFace AutoModel-API sehr ähnlich ist:
 
 ## Wenn Sie nicht programmieren
+
+🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+
 Ich möchte ein Modell mit 70 Milliarden Parametern (zum Beispiel meta-llama/Llama-3-70B-Instruct) mithilfe der AirLLM-Bibliothek auf meiner lokalen Grafikkarte mit 4 GB VRAM-Kapazität ausführen. Ich habe den Befehl pip install airllm für die Installation verwendet. Könntest du den Python-Code erklären, der erforderlich ist, um mein Modell zu laden, Ausgaben mit Texteingaben zu generieren und einen Speicherüberlauf (Out-of-Memory) zu verhindern? Mir ist bewusst, dass ich sicherstellen muss, dass mein Speicherplatz auf der Festplatte ausreicht. Kannst du die Schritte erläutern, die ich befolgen muss?
 
 ## Häufig gestellte Fragen
+
 - Wie schnell ist das Ausführen eines Modells mit AirLLM? Da AirLLM Schichten kontinuierlich zwischen Festplatte und GPU überträgt, hängt die Token-Generierungsgeschwindigkeit direkt von der Lesegeschwindigkeit Ihrer NVMe-SSD ab. Auf einer typischen Gen4-SSD läuft ein 70B-Modell mit einer Geschwindigkeit von 1–3 Token pro Sekunde. Diese Geschwindigkeit ist zwar für interaktives Chatten langsam, aber einzigartig, um riesige Modelle lokal ohne Hardwarekosten auszuführen.
 - Wie viel freier Speicherplatz ist für AirLLM erforderlich? Ein Modell mit 70B Parametern benötigt im 16-Bit-Float-Format etwa 140 GB Speicherplatz. Bei 4-Bit-quantisierten Versionen sinkt dieser Wert auf etwa 35-40 GB. Für das 405B-Modell müssen hingegen mindestens 800 GB freier NVMe-Speicherplatz eingeplant werden.
 - Kann ich die originalen Modellgewichte ohne Quantisierung verwenden? Ja. Einer der größten Vorteile von AirLLM besteht darin, dass die Notwendigkeit einer Quantisierung entfällt. Da VRAM-Einschränkungen auf Schichtbasis gelöst werden, können Sie die originalen 16-Bit-Gewichte ohne jeglichen Verlust an Schlussfolgerungsfähigkeit oder Genauigkeit ausführen.
@@ -41,9 +55,24 @@ Ich möchte ein Modell mit 70 Milliarden Parametern (zum Beispiel meta-llama/Lla
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [VRAM](https://trescout.com/de/dictionary/vram/)
+- [Transformer](https://trescout.com/de/dictionary/transformer/)
+- [Apple Silicon](https://trescout.com/de/dictionary/apple-silicon/)
+- [RAM](https://trescout.com/de/dictionary/ram/)
+- [Jupyter Notebooks](https://trescout.com/de/dictionary/jupyter-notebooks/)
+- [CPU](https://trescout.com/de/dictionary/cpu/)
+
+- **Für wen es gedacht ist:** Es richtet sich an Forscher, die über begrenzte Hardware-Ressourcen verfügen und hochkapazitive 70B- und 405B-Modelle lokal testen, Data-Mining und Evaluierungen durchführen möchten.
+- **Lizenz:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Anforderung:** Mindestens 4 GB VRAM GPU und schneller NVMe-SSD-Festplattenspeicher
+- **Ökosystem:** Python, PyTorch und HuggingFace Transformers
+
 ## Links
-- GitHub-Repository →
-- Auf Türkisch lesen →
+
+- [GitHub-Repository →](https://github.com/lyogavin/airllm)
+- [Auf Türkisch lesen →](https://trescout.com/discover/airllm/)
+
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/airllm/

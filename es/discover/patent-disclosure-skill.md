@@ -6,7 +6,12 @@ Patent Disclosure Skill basada en Python analiza borradores de invenciones técn
 - Python
 - GitHub Trending · 2026-08-31
 
+## Actualizaciones
+
+- **27 de septiembre de 2026:** Estrellas 6,058 → 10,360.
+
 ## Qué aporta
+
 - Producción estructurada de texto de patente: creación de las secciones de campo técnico, antecedentes, resumen y descripción detallada de la invención de acuerdo con las normas estándar de patentes.
 - Árbol de reivindicaciones independientes y dependientes: formulación automática de listas jerárquicas de reivindicaciones de patentes que maximizan el alcance de la protección legal.
 - Análisis de diferencias del arte previo: Destacando claramente las diferencias técnicas y la etapa de innovación entre las tecnologías existentes y la invención.
@@ -14,6 +19,7 @@ Patent Disclosure Skill basada en Python analiza borradores de invenciones técn
 - Soporte de terminología de patentes multilingüe: Compatibilidad con terminología en inglés, turco e instituciones internacionales de patentes (OMPI, EPO, USPTO).
 
 ## Instalación
+
 **Clonando el repositorio e instalando dependencias**
 
 ```
@@ -22,29 +28,34 @@ cd patent-disclosure-skill
 pip install -r requirements.txt
 ```
 
-
 ## Ejecución
+
 **Iniciar el análisis de patentes y la producción de divulgación**
 
 ```
 python run_skill.py --input bulus_taslagi.txt --output patent_disclosure.md
 ```
 
-
 ## Arquitectura técnica y principio de funcionamiento
+
 - Motor de análisis de descubrimiento técnico: detecta entradas, salidas y metodologías clave en software, hardware o descripciones de procesos químicos.
 - Verificador de sintaxis de reclamos: analizador de lenguaje legal que busca expresiones vagas y errores formales en los reclamos.
 - Exportación de plantilla y Markdown: guardar el documento en formato Markdown segmentado estándar para su uso en solicitudes de patente formales.
 
 ## Flujos de trabajo de análisis de patentes y preparación de reclamaciones
+
 - Traducir algoritmos de software a una forma patentable: derivar descripciones de métodos y sistemas aceptables para las autoridades de patentes a partir de diagramas de código y arquitectura.
 - Defensa contra acciones de la oficina: creación de borradores de respuesta que enumeren las características distintivas de la invención contra las objeciones de los examinadores de patentes.
 - Auditoría de cartera de propiedad intelectual: mapeo temprano de los pasos de invención potencial de patentes de proyectos tecnológicos internos.
 
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 Me gustaría preparar un texto formal de divulgación de invenciones utilizando la habilidad de divulgación de patentes para un algoritmo de almacenamiento en caché de bases de datos distribuidas que he desarrollado. ¿Puede darnos el flujo del algoritmo como entrada y explicar paso a paso cómo generar reivindicaciones independientes, el campo técnico de la invención y las diferencias con el estado de la técnica?
 
 ## Preguntas frecuentes
+
 - ¿Esta herramienta reemplaza a un abogado de patentes formal? No. Patent Disclosure Skill es una herramienta de preparación y productividad que ayuda a los ingenieros a organizar borradores de invenciones y prepararlos para los abogados; Las solicitudes legales deben realizarse a través de un abogado.
 - ¿Con qué modelos LLM funciona? Claude 3.5 Sonnet se puede configurar para funcionar con GPT-4o o modelos nativos abiertos (Qwen, Llama 3).
 - ¿Mis secretos técnicos confidenciales se filtrarán a Internet? Cuando se ejecuta con un LLM local (Ollama o vLLM), todo el análisis de patentes se realiza íntegramente en su computadora local, no se envían datos.
@@ -52,9 +63,24 @@ Me gustaría preparar un texto formal de divulgación de invenciones utilizando 
 
 ## Términos relacionados del glosario
 
+- [Disclosure](https://trescout.com/es/dictionary/disclosure/)
+- [patent disclosure](https://trescout.com/es/dictionary/patent-disclosure/)
+- [Multimodal](https://trescout.com/es/dictionary/multimodal/)
+- [Markdown](https://trescout.com/es/dictionary/markdown/)
+- [Skill](https://trescout.com/es/dictionary/skill/)
+- [LLM](https://trescout.com/es/dictionary/llm/)
+
+- **Para quién es:** Abogados de patentes, gestores de propiedad intelectual, ingenieros de I+D e inventores.
+- **Licencia:** MIT (Özgür açık kaynak lisansı)
+- **Marco:** Capacidad de agente de patentes basado en Python
+- **Plataformas:** Linux, Mac OS, Windows
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/handsomestWei/patent-disclosure-skill)
+- [Leer en turco →](https://trescout.com/discover/patent-disclosure-skill/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-31: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/patent-disclosure-skill/

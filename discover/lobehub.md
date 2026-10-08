@@ -7,12 +7,14 @@ LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriy
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 82.837 → 83.031, son sürüm v2.2.19 (7 Ekim 2026).
-- 27 Eylül 2026: Yıldız 82.391 → 82.837, son sürüm v2.2.18 (20 Eylül 2026).
-- 11 Eylül 2026: Yıldız 82.246 → 82.391, son sürüm v2.2.17 (11 Eylül 2026).
-- 5 Eylül 2026: Yıldız 82.127 → 82.246, son sürüm v2.2.16 (4 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 82.837 → 83.031, son sürüm v2.2.19 (7 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 82.391 → 82.837, son sürüm v2.2.18 (20 Eylül 2026).
+- **11 Eylül 2026:** Yıldız 82.246 → 82.391, son sürüm v2.2.17 (11 Eylül 2026).
+- **5 Eylül 2026:** Yıldız 82.127 → 82.246, son sürüm v2.2.16 (4 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Tüm yapay zekâ ajanlarını tek merkezden yönetme
 - Ajanlar arası iş birliği ve görev dağılımı
 - 10.000'den fazla araç ve eklenti desteği
@@ -39,22 +41,26 @@ docker pull lobehub/lobehub
 docker compose up -d
 ```
 
-Kaynak: Homebrew cask · Docker Hub lobehub/lobehub
+**Kaynak:** Homebrew cask · Docker Hub lobehub/lobehub
 
 ## Nasıl başlanır?
 
 LobeHub'ı kullanmaya başlamak için resmî web sitesini ziyaret edebilir veya GitHub deposundaki 'Self Hosting' bölümünde yer alan Vercel, Zeabur, Sealos, Alibaba Cloud veya Docker ile kurulum seçeneklerini inceleyebilirsiniz. Detaylı bilgi ve güncel dokümantasyon için projenin resmî doküman sayfasına göz atmanız yeterlidir.
+
 - [Resmî kaynak →](https://lobehub.com)
 
-- **Kimin için:** Yapay zekâ ajanlarını bir ekip gibi yönetmek ve iş akışlarını otomatize etmek isteyen kullanıcılar için uygundur. 
+- **Kimin için:** Yapay zekâ ajanlarını bir ekip gibi yönetmek ve iş akışlarını otomatize etmek isteyen kullanıcılar için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/lobehub/lobehub)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Team Operations Artificial Intelligence
+
+- [AI Team Operations](https://trescout.com/dictionary/ai-team-operations/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/lobehub/

@@ -1,6 +1,6 @@
 # Yapay zekâ Ajanlarınıza Güç Katın
 
-ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçlarına beceriler, içgüdüler, hafıza optimizasyonu ve güvenlik taraması kazandıran kapsamlı bir sistemdir. Tekil konfigürasyon dosyaları yerine, ajanın daha tutarlı, güvenli ve önce-araştır mantığıyla çalışmasını sağlayan hazır bir katman sunar.
+ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçlarına **beceriler, içgüdüler, hafıza optimizasyonu ve güvenlik taraması** kazandıran kapsamlı bir sistemdir. Tekil konfigürasyon dosyaları yerine, ajanın daha tutarlı, güvenli ve önce-araştır mantığıyla çalışmasını sağlayan hazır bir katman sunar.
 
 - ★ 270.891
 - JavaScript
@@ -8,22 +8,24 @@ ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçların
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 270.280 → 270.891, son sürüm v2.2.3 (1 Ekim 2026).
-- 1 Ekim 2026: Yıldız 267.980 → 270.280, son sürüm v2.2.2 (30 Eylül 2026).
-- 27 Eylül 2026: Yıldız 254.644 → 267.980, son sürüm v2.2.1 (8 Eylül 2026).
-- 9 Eylül 2026: Yıldız 245.070 → 254.644, son sürüm v2.2.1 (8 Eylül 2026).
 
-- **Kimin için:** Claude Code / Codex / Cursor kullanan geliştiriciler 
-- **Zorluk:** Orta–ileri · AI asistanı kullanmaya aşina olmak gerekir 
-- **Kurulum:** npm paketi (ecc-universal) ya da GitHub App 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) 
-- **Çalışır:** Claude Code, Codex, Cursor, OpenCode… 
+- **2 Ekim 2026:** Yıldız 270.280 → 270.891, son sürüm v2.2.3 (1 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 267.980 → 270.280, son sürüm v2.2.2 (30 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 254.644 → 267.980, son sürüm v2.2.1 (8 Eylül 2026).
+- **9 Eylül 2026:** Yıldız 245.070 → 254.644, son sürüm v2.2.1 (8 Eylül 2026).
+
+- **Kimin için:** Claude Code / Codex / Cursor kullanan geliştiriciler
+- **Zorluk:** Orta–ileri · AI asistanı kullanmaya aşina olmak gerekir
+- **Kurulum:** npm paketi (ecc-universal) ya da GitHub App
+- **Ücret:** Ücretsiz · açık kaynak (MIT)
+- **Çalışır:** Claude Code, Codex, Cursor, OpenCode…
 
 ## Ne kazandırır?
-- Ajan, hazır beceri ve içgüdü setleri sayesinde daha tutarlı çalışır.
-- Hafıza ve bağlam yönetimi ile uzun süreli görevlerde odak kaybını önler.
-- Güvenlik taraması (agentshield) özelliğiyle riskli adımları önceden tespit eder.
-- Tek bir araçla kısıtlı kalmaz, birden çok ortamla (Claude Code, Codex, Cursor…) uyumlu çalışır.
+
+- Ajan, hazır beceri ve içgüdü setleri sayesinde **daha tutarlı** çalışır.
+- **Hafıza ve bağlam yönetimi** ile uzun süreli görevlerde odak kaybını önler.
+- **Güvenlik taraması** (agentshield) özelliğiyle riskli adımları önceden tespit eder.
+- Tek bir araçla kısıtlı kalmaz, **birden çok ortamla** (Claude Code, Codex, Cursor…) uyumlu çalışır.
 
 ## Kurulum
 
@@ -42,19 +44,22 @@ ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçların
 /security-scan
 ```
 
-Kaynak: Resmî kaynak: https://github.com/affaan-m/ECC
+**Kaynak:** Resmî kaynak: https://github.com/affaan-m/ECC
 
 ## Nasıl başlanır?
 
-npm paketi ( ecc-universal ) veya GitHub uygulaması olarak kurabilirsiniz. Adımların tamamı deponun kurulum bölümünde yer alır. Kurulumun ardından ajanınız, TreScout'un beceri ve güvenlik katmanını kullanmaya başlar.
+npm paketi (`ecc-universal`) veya GitHub uygulaması olarak kurabilirsiniz. Adımların tamamı deponun kurulum bölümünde yer alır. Kurulumun ardından ajanınız, TreScout'un beceri ve güvenlik katmanını kullanmaya başlar.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code'da '/plugin marketplace add https://github.com/affaan-m/ECC' ve ardından '/plugin install ecc@ecc' komutlarını çalıştırarak ECC operatör sistemini kur; sonra projemde güvenlik taraması yapmak için /security-scan komutunu kullan.
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanabilirsiniz (yalnızca telif/lisans bildirimini koruyun).
+**Lisans:** MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanabilirsiniz (yalnızca telif/lisans bildirimini koruyun).
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/affaan-m/ECC)
 - [Ana sayfa (ecc.tools) →](https://ecc.tools)
 - [Türkçe README →](https://github.com/affaan-m/ECC/blob/main/docs/tr/README.md)
@@ -62,7 +67,11 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanab
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Tools Plugin Open Source Artificial Intelligence
+
+- [Tools](https://trescout.com/dictionary/tools/)
+- [Plugin](https://trescout.com/dictionary/plugin/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ecc/

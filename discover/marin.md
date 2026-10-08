@@ -35,10 +35,11 @@ wandb offline
 uv run python experiments/tutorials/train_tiny_model.py --device cpu --dataset tinystories --version dev --run
 ```
 
-Kaynak: Resmî README ve dokümantasyon kaynakları: https://marin.readthedocs.io/en/latest/tutorials/installation/, https://marin.readthedocs.io/en/latest/tutorials/first-experiment/, https://github.com/marin-community/marin
+**Kaynak:** Resmî README ve dokümantasyon kaynakları: https://marin.readthedocs.io/en/latest/tutorials/installation/, https://marin.readthedocs.io/en/latest/tutorials/first-experiment/, https://github.com/marin-community/marin
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 1.967 → 3.089.
+
+- **31 Ağustos 2026:** Yıldız 1.967 → 3.089.
 
 ## Bu araç ne yapar?
 
@@ -53,25 +54,30 @@ Veri kürasyonu, dönüşümü, filtreleme, tokenleştirme, model eğitimi ve de
 Temel model araştırması kapsamına girmeyen basit uygulama geliştirme işleri veya gerekli Python ve geliştirme ortamını kurmak istemeyenler.
 
 ## Öne çıkanlar
+
 - Veri işlemeden ön eğitim, son eğitim ve değerlendirmeye uzanan araştırma kapsamı
 - Bağımlı adımları topolojik sırada yürüten deney iş akışı
 - Başarısız deneyleri ve geliştirme kararlarını da kapsayan açık dokümantasyon
 
 ## İlk kullanım akışı
-- Resmî depoyu klonlayın ve Python 3.12 veya üzeri bir sanal ortam oluşturun
-- uv ile bağımlılıkları senkronize edin
-- MARIN_PREFIX ortam değişkenini yapılandırın
-- CPU üzerinde çevrimdışı TinyStories smoke testini çalıştırın
+
+1. Resmî depoyu klonlayın ve Python 3.12 veya üzeri bir sanal ortam oluşturun
+2. uv ile bağımlılıkları senkronize edin
+3. MARIN_PREFIX ortam değişkenini yapılandırın
+4. CPU üzerinde çevrimdışı TinyStories smoke testini çalıştırın
 
 ## Güvenli başlangıç
 
 CPU smoke testi yalnızca ilk doğrulama içindir. CPU, GPU ve TPU bağımlılıkları ayrı donanım ekleri gerektirebilir. WANDB_API_KEY ve HF_TOKEN yalnızca ilgili izleme veya kapalı model iş akışlarında gerekir.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 Çevrimdışı TinyStories akışıyla CPU üzerinde küçük bir model eğitimini ilk doğrulama olarak çalıştır.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/marin-community/marin)
 - [Kurulum dokümantasyonu →](https://marin.readthedocs.io/en/latest/tutorials/installation/)
 - [İlk deney →](https://marin.readthedocs.io/en/latest/tutorials/first-experiment/)
@@ -80,7 +86,9 @@ CPU smoke testi yalnızca ilk doğrulama içindir. CPU, GPU ve TPU bağımlılı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CPU GPU
+
+- [CPU](https://trescout.com/dictionary/cpu/)
+- [GPU](https://trescout.com/dictionary/gpu/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/marin/

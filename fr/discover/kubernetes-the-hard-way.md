@@ -6,8 +6,11 @@ Kubernetes the Hard Way de Kelsey Hightower est un guide qui vous apprend à con
 - GitHub Trending · 2026-09-26
 
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Lire en turc →](https://trescout.com/discover/kubernetes-the-hard-way/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/kubernetes-the-hard-way/

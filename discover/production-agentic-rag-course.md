@@ -6,10 +6,12 @@ Production-agentic-rag-course, karmaşık veri kaynaklarından bilgi getirme sü
 - GitHub Trending · 2026-06-03
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 8.216 → 9.265, son sürüm week7.0 (26 Kasım 2025).
-- 2 Ağustos 2026: Yıldız 6.536 → 8.216, son sürüm week7.0 (26 Kasım 2025).
+
+- **3 Ekim 2026:** Yıldız 8.216 → 9.265, son sürüm week7.0 (26 Kasım 2025).
+- **2 Ağustos 2026:** Yıldız 6.536 → 8.216, son sürüm week7.0 (26 Kasım 2025).
 
 ## Ne kazandırır?
+
 - Üretim seviyesinde RAG sistemleri için gerekli altyapıyı kurma.
 - Hibrit arama ve akıllı veri işleme yöntemlerini uygulama.
 - LangGraph ile ajan tabanlı karar mekanizmaları geliştirme.
@@ -19,7 +21,7 @@ Production-agentic-rag-course, karmaşık veri kaynaklarından bilgi getirme sü
 **Depoyu klonlama ve kurulum**
 
 ```
-git clone 
+git clone <repository-url>
 cd arxiv-paper-curator
 
 # 2. Configure environment (IMPORTANT!)
@@ -43,29 +45,38 @@ curl http://localhost:8000/api/v1/health
 **Belirli bir haftanın içeriğini çalıştırm**
 
 ```
-git clone --branch https://github.com/jamwithai/arxiv-paper-curator
+git clone --branch <WEEK_TAG> https://github.com/jamwithai/arxiv-paper-curator
 cd arxiv-paper-curator
 uv sync
 docker compose down -v
 docker compose up --build -d
 
-# Replace with: week1.0, week2.0, etc.
+# Replace <WEEK_TAG> with: week1.0, week2.0, etc.
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Production-agentic-rag-course projesini kullanarak bir akademik araştırma asistanı geliştirmek istiyorum. Projenin temel kurulumu için git clone komutu ile depoyu indirdikten sonra .env dosyasını yapılandırıp uv sync ile bağımlılıkları yüklemem gerekiyor. Ardından docker compose up --build -d komutu ile tüm servisleri başlatarak http://localhost:8000/api/v1/health adresi üzerinden sistemin çalıştığını doğrulamak istiyorum. Bu süreçte dikkat etmem gereken API anahtarları ve servis yapılandırmaları hakkında bana rehberlik eder misin?
 
-- **Kimin için:** Üretim seviyesinde, ölçeklenebilir ve ajan tabanlı RAG sistemleri geliştirmek isteyen yapay zekâ mühendisleri ve geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Üretim seviyesinde, ölçeklenebilir ve ajan tabanlı RAG sistemleri geliştirmek isteyen yapay zekâ mühendisleri ve geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/jamwithai/production-agentic-rag-course)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Clone Agentic Localhost RAG API Artificial Intelligence
+
+- [Clone](https://trescout.com/dictionary/clone/)
+- [Agentic](https://trescout.com/dictionary/agentic/)
+- [Localhost](https://trescout.com/dictionary/localhost/)
+- [RAG](https://trescout.com/dictionary/rag/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/production-agentic-rag-course/

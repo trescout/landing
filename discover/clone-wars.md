@@ -6,6 +6,7 @@ Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fa
 - GitHub Trending · 2026-06-15
 
 ## Ne kazandırır?
+
 - Popüler platformların mimarisini inceleme imkanı
 - Farklı teknoloji yığınlarını (tech stack) öğrenme fırsatı
 - Açık kaynaklı projeler üzerinden pratik geliştirme deneyimi
@@ -13,18 +14,23 @@ Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fa
 ## Nasıl başlanır?
 
 Clone-Wars bir yazılım aracı değil, popüler platformların açık kaynaklı kopyalarını listeleyen bir rehberdir. İncelemek istediğiniz projenin detaylarına ulaşmak için resmî web sitesi olan gourav.io/clone-wars adresini ziyaret edebilir, tablodaki bağlantılar üzerinden ilgili projelerin kaynak kodlarına ve eğitim içeriklerine doğrudan erişebilirsiniz.
+
 - [Resmî kaynak →](https://gourav.io/clone-wars)
 
-- **Kimin için:** Popüler uygulamaların nasıl inşa edildiğini merak eden ve açık kaynaklı projeler üzerinden pratik yaparak kendini geliştirmek isteyen yazılım geliştirme öğrencileri ve meraklıları içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Popüler uygulamaların nasıl inşa edildiğini merak eden ve açık kaynaklı projeler üzerinden pratik yaparak kendini geliştirmek isteyen yazılım geliştirme öğrencileri ve meraklıları içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/GorvGoyl/Clone-Wars)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Tech Stack Clone Open Source
+
+- [Tech Stack](https://trescout.com/dictionary/tech-stack/)
+- [Clone](https://trescout.com/dictionary/clone/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/clone-wars/

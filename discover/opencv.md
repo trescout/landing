@@ -5,12 +5,14 @@ Açık kaynak kodlu bilgisayarlı görü kütüphanesi (computer vision library)
 - ★ 90.258
 - GitHub Trending · 2026-06-08
 
-TreScout notu: Yapay zekâ modeli eğitmek için değil, görüntünün kendisiyle uğraşmak için: Kırpma, renk düzeltme, kenar bulma, kameradan görüntü okuma. Model eğitmek gerektiğinde bu iş için ayrı kütüphaneler kullanılır, bu onların yerine geçmez. Kurulumu tek komut, video biçimleri için ek paket isteyebilir.
+**TreScout notu:** Yapay zekâ modeli eğitmek için değil, görüntünün kendisiyle uğraşmak için: Kırpma, renk düzeltme, kenar bulma, kameradan görüntü okuma. Model eğitmek gerektiğinde bu iş için ayrı kütüphaneler kullanılır, bu onların yerine geçmez. Kurulumu tek komut, video biçimleri için ek paket isteyebilir.
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 88.274 → 90.258, son sürüm 5.0.0 (6 Haziran 2026).
+
+- **2 Ağustos 2026:** Yıldız 88.274 → 90.258, son sürüm 5.0.0 (6 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Gerçek zamanlı görsel veri analizi yapın
 - Görüntü işleme süreçlerini standart altyapıyla yönetin
 - Makine öğrenmesi uygulamaları için geniş araçlara erişin
@@ -23,22 +25,31 @@ TreScout notu: Yapay zekâ modeli eğitmek için değil, görüntünün kendisiy
 pip install opencv-python
 ```
 
-Kaynak: Resmî kaynak: https://github.com/opencv/opencv
+**Kaynak:** Resmî kaynak: https://github.com/opencv/opencv
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenCV kütüphanesini kullanarak görüntü işleme projeleri geliştirmek istiyorum. Bilgisayarlı görü uygulamalarımda temel görüntü işleme tekniklerini, nesne tespiti veya makine öğrenmesi süreçlerini nasıl kurgulayabilirim? Projelerimde kullanabileceğim temel fonksiyonlar ve bu kütüphanenin sunduğu standart altyapıdan nasıl verim alabileceğim konusunda bana rehberlik et.
 
-- **Kimin için:** Görüntü işleme ve bilgisayarlı görü projeleri üzerinde çalışan yazılımcılar ve araştırmacılar için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Görüntü işleme ve bilgisayarlı görü projeleri üzerinde çalışan yazılımcılar ve araştırmacılar için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/opencv/opencv)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Computer Vision Library Computer Vision Computer Vision Machine Learning Open Source Artificial Intelligence
+
+- [Computer Vision Library](https://trescout.com/dictionary/computer-vision-library/)
+- [Computer Vision](https://trescout.com/dictionary/computer-vision/)
+- [Computer Vision](https://trescout.com/dictionary/cv/)
+- [Machine Learning](https://trescout.com/dictionary/machine-learning/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/opencv/

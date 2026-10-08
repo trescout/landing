@@ -7,12 +7,14 @@ Munder-Difflin, yerel sistemlerde birden fazla yapay zekâ ajanının bir arada 
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 6.779 → 8.004, son sürüm v0.5.3 (25 Eylül 2026).
-- 10 Eylül 2026: Yıldız 5.963 → 6.779, son sürüm v0.5.2 (9 Eylül 2026).
-- 1 Eylül 2026: Yıldız 4.946 → 5.963, son sürüm v0.4.6 (27 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 3.700 → 4.946, son sürüm v0.4.6 (27 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 6.779 → 8.004, son sürüm v0.5.3 (25 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 5.963 → 6.779, son sürüm v0.5.2 (9 Eylül 2026).
+- **1 Eylül 2026:** Yıldız 4.946 → 5.963, son sürüm v0.4.6 (27 Ağustos 2026).
+- **27 Ağustos 2026:** Yıldız 3.700 → 4.946, son sürüm v0.4.6 (27 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Terminal tabanlı yapay zekâ araçlarını otonom bir ekip olarak koordine eder.
 - Ajanların uzun süreli hafıza ve birbirleriyle mesajlaşma yeteneği kazanmasını sağlar.
 - Görsel bir ofis arayüzü üzerinden ajanların çalışma süreçlerini takip etme imkânı sunar.
@@ -24,8 +26,8 @@ Munder-Difflin, yerel sistemlerde birden fazla yapay zekâ ajanının bir arada 
 ```
 git clone https://github.com/chaitanyagiri/munder-difflin.git
 cd munder-difflin
-npm install # postinstall rebuilds node-pty against Electron's ABI
-npm run dev # launches the Electron app with hot reload
+npm install        # postinstall rebuilds node-pty against Electron's ABI
+npm run dev        # launches the Electron app with hot reload
 ```
 
 ## Çalıştırma
@@ -33,23 +35,29 @@ npm run dev # launches the Electron app with hot reload
 **Üretim sürümü oluşturma ve önizleme**
 
 ```
-npm run build # production build via electron-vite
-npm run preview # preview the production build
+npm run build      # production build via electron-vite
+npm run preview    # preview the production build
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Munder Difflin üzerinde çalışan ajanlarıma şu görevi ver: Mevcut terminal tabanlı yapay zekâ araçlarını kullanarak bir ekip oluştur, Michael isimli yönetici ajan aracılığıyla görevleri dağıt ve tüm süreçleri ortak bir hafıza katmanında saklayarak otonom bir şekilde tamamla.
 
-- **Kimin için:** Birden fazla yapay zekâ ajanını tek bir merkezden yönetmek ve iş akışlarını görselleştirmek isteyen kullanıcılar içindir. 
+- **Kimin için:** Birden fazla yapay zekâ ajanını tek bir merkezden yönetmek ve iş akışlarını görselleştirmek isteyen kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/chaitanyagiri/munder-difflin)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Harness Terminal Artificial Intelligence
+
+- [Harness](https://trescout.com/dictionary/harness/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/munder-difflin/

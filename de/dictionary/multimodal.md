@@ -1,38 +1,52 @@
 # Was ist Multimodal?
 
+*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+
 Dabei handelt es sich um eine Fähigkeit der künstlichen Intelligenz, die verschiedene Arten von Daten wie Text, Audio, Bild und Video gleichzeitig verarbeiten kann.
 
 ## Definition
+
 Multimodal ist die Fähigkeit künstlicher Intelligenz, verschiedene Arten von Daten, wie Text, Audio, Bilder und Video, gleichzeitig zu verarbeiten und zu verbinden. Das Modell kann nicht nur lesen, sondern auch sehen und hören.
 
+***Analogie:** Er ist nicht jemand, der nur durch Lesen lernt, sondern wie jemand, der die Welt sowohl durch Lesen als auch durch Beobachten und Zuhören wahrnimmt.*
+
 ## So funktioniert es
+
 Es wandelt verschiedene Datentypen in eine gemeinsame numerische Sprache um. Auf diese Weise kann es ein Foto analysieren und einen Text darüber schreiben oder einen Sprachbefehl in ein Bild umwandeln.
 
 ## Wo es eingesetzt wird
+
 Es wird in Assistenten verwendet, die Fragen und Antworten über Bilder, Videoanalysetools und fortschrittliche Übersetzungssysteme beantworten können.
 
 ## Häufig verwechselt mit
+
 Es wird mit Nur-Text-Modellen verwechselt; Die Wahrnehmung multimodaler Modelle ist viel umfassender.
 
 ## Häufige Fragen
+
 **Sind multimodale Modelle intelligenter?**
+
 Sie verstehen die Welt besser, weil sie eine umfassendere Wahrnehmung haben.
 
 **Können sie Videos ansehen?**
+
 Ja, sie können verstehen, was im Inhalt enthalten ist, indem sie Videos Bild für Bild analysieren.
 
-
 ## Verwandte Begriffe
-- [LLM](/de/dictionary/llm/)
-- [Generative AI](/de/dictionary/generative-ai/)
-- [Diffusion Model](/de/dictionary/diffusion-model/)
-- [Text-to-Speech](/de/dictionary/text-to-speech/)
-- [Embedding](/de/dictionary/embedding/)
+
+- [LLM](https://trescout.com/de/dictionary/llm/)
+- [Generative AI](https://trescout.com/de/dictionary/generative-ai/)
+- [Diffusion Model](https://trescout.com/de/dictionary/diffusion-model/)
+- [Text-to-Speech](https://trescout.com/de/dictionary/text-to-speech/)
+- [Embedding](https://trescout.com/de/dictionary/embedding/)
 
 ## Verwandte Werkzeuge
-- [UI-TARS-desktop](/de/discover/ui-tars-desktop/)
-- [Patent Disclosure Skill](/de/discover/patent-disclosure-skill/)
-- [ODS](/de/discover/ods/)
+
+- [UI-TARS-desktop](https://trescout.com/de/discover/ui-tars-desktop/)
+- [Patent Disclosure Skill](https://trescout.com/de/discover/patent-disclosure-skill/)
+- [ODS](https://trescout.com/de/discover/ods/)
+
+Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/multimodal/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/multimodal/

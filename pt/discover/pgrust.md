@@ -6,27 +6,47 @@ O projeto pgrust, no qual o sistema de gerenciamento de banco de dados PostgreSQ
 - Rust
 - GitHub Trending · 2026-07-12
 
+## Atualizações
+
+- **16 de setembro de 2026:** Estrelas 4,964 → 5,030, versão mais recente v0.3 (15 de setembro de 2026).
+- **10 de setembro de 2026:** Estrelas 3,957 → 4,964, versão mais recente v0.2-release (30 de julho de 2026).
+- **2 de agosto de 2026:** Estrelas 2,171 → 3,957, versão mais recente v0.2-release (30 de julho de 2026).
+
 ## O que você ganha
+
 - Compatibilidade de disco com Postgres 18.3
 - Mais de 46 mil sucessos em testes de regressão
 - Arquitetura moderna focada na segurança da memória
 
 ## Instalação
+
 **Teste rápido com Docker**
 
 ```
 docker run -d --name pgrust -e POSTGRES_PASSWORD=secret malisper/pgrust:v0.1 && until docker exec -e PGPASSWORD=secret pgrust psql -h 127.0.0.1 -U postgres -c '\q' >/dev/null 2>&1; do sleep 1; done && docker exec -it -e PGPASSWORD=secret pgrust psql -h 127.0.0.1 -U postgres; docker rm -f pgrust
 ```
 
-
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Qual é o objetivo principal do projeto Pgrust, como é garantida a compatibilidade do disco com o PostgreSQL existente e como é utilizada a programação suportada por inteligência artificial no desenvolvimento do projeto? Conte-nos sobre a compatibilidade da versão atual do Pgrust com o Postgres 18.3 e seu sucesso em testes de regressão.
 
 ## Termos relacionados do glossário
 
+- [Memory](https://trescout.com/pt/dictionary/memory/)
+- [Rust](https://trescout.com/pt/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** É adequado para desenvolvedores e pesquisadores de banco de dados que desejam modernizar a arquitetura PostgreSQL com a linguagem Rust.
+- **Licença:** AGPL-3.0
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/malisper/pgrust)
+- [Ler em turco →](https://trescout.com/discover/pgrust/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/pgrust/

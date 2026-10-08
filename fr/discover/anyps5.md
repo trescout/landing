@@ -6,19 +6,35 @@ AnyPS5 est un outil qui convertit automatiquement les fichiers de jeux PlayStati
 - C++
 - GitHub Trending · 2026-10-05
 
+## Mises à jour
+
+- **7 octobre 2026:** Étoiles 5,536 → 8,094, dernière version v0.1.1 (28 septembre 2026).
+- **6 octobre 2026:** Étoiles 4,389 → 5,536, dernière version v0.1.1 (28 septembre 2026).
+- **5 octobre 2026:** Étoiles 4,377 → 4,389, dernière version v0.1.1 (28 septembre 2026).
+
 ## Ce que ça vous apporte
+
 - Vous pouvez convertir des jeux de console pour qu'ils s'exécutent directement sur votre ordinateur, sans avoir besoin de logiciels d'émulation nécessitant un environnement d'exécution séparé.
 - Vous pouvez configurer les manettes de jeu, le clavier et la souris associés à la bibliothèque multimédia SDL via le fichier de configuration des entrées anyps5-input.ini.
 - Vous pouvez facilement suivre les problèmes en visualisant instantanément les erreurs inattendues via la sortie d'erreur standard stderr.
 
 ## Pour commencer
+
 - Source officielle →
 
 ## Termes liés du glossaire
 
+- [Executables](https://trescout.com/fr/dictionary/executables/)
+
+- **Pour qui:** Il est destiné aux utilisateurs d'ordinateurs qui souhaitent exécuter des jeux de la console de jeux PlayStation 5 de manière native sous les systèmes d'exploitation Linux ou Windows.
+- **Licence:** GPL-2.0
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://boykopovar.github.io/AnyPS5)
+- [Lire en turc →](https://trescout.com/discover/anyps5/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/anyps5/

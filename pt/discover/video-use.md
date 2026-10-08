@@ -6,12 +6,21 @@ A biblioteca de uso de vídeo permite que agentes de codificação automatizem p
 - Python
 - GitHub Trending · 2026-06-29
 
+## Atualizações
+
+- **27 de setembro de 2026:** Estrelas 24,903 → 27,331.
+- **15 de setembro de 2026:** Estrelas 23,697 → 24,903.
+- **3 de setembro de 2026:** Estrelas 22,245 → 23,697.
+- **31 de agosto de 2026:** Estrelas 20,820 → 22,245.
+
 ## O que você ganha
+
 - Remove automaticamente palavras de preenchimento e espaços silenciosos
 - Aplica efeitos de fade profissionais às transições de áudio
 - Executa legendas e edição de cores com suporte de inteligência artificial
 
 ## Instalação
+
 **Clonando o repositório e instalando dependências**
 
 ```
@@ -19,8 +28,8 @@ git clone https://github.com/browser-use/video-use ~/Developer/video-use
 ln -sfn ~/Developer/video-use ~/.claude/skills/video-use
 ```
 
-
 ## Execução
+
 **Acesso à pasta de vídeos**
 
 ```
@@ -28,15 +37,28 @@ cd /path/to/your/videos
 claude
 ```
 
-
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Configure https://github.com/browser-use/video-use para mim. Leia install.md primeiro para instalar este repositório, conecte o ffmpeg, registre a habilidade com qualquer agente em que você esteja executando e configure a chave da API ElevenLabs · peça-me para colá-la quando precisar. Em seguida, leia SKILL.md para uso diário e sempre leia helpers/ porque é onde residem os scripts de edição. Após a instalação, não transcreva nada por conta própria - apenas me diga que está pronto e espere que eu coloque a filmagem em uma pasta.
 
 ## Termos relacionados do glossário
 
+- [Skill](https://trescout.com/pt/dictionary/skill/)
+- [Agent](https://trescout.com/pt/dictionary/agent/)
+- [API](https://trescout.com/pt/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** É para criadores de conteúdo que desejam automatizar seus processos de edição de vídeo e usar agentes de IA como Claude Code.
+- **Licença:** MIT
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/browser-use/video-use)
+- [Ler em turco →](https://trescout.com/discover/video-use/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-29: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/video-use/

@@ -7,9 +7,11 @@ Anthropics tarafından geliştirilen Claude Code Action, geliştiricilerin kod t
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 9.171 → 9.201, son sürüm v1 (26 Ağustos 2025).
+
+- **27 Eylül 2026:** Yıldız 9.171 → 9.201, son sürüm v1 (26 Ağustos 2025).
 
 ## Ne kazandırır?
+
 - soruları yanıtlar
 - kod gözden geçirmesi yapar
 - özellik ekler ve hata düzeltir
@@ -17,18 +19,23 @@ Anthropics tarafından geliştirilen Claude Code Action, geliştiricilerin kod t
 ## Nasıl başlanır?
 
 Kurulumu başlatmak için Claude Code terminal aracını açın ve /install-github-app komutunu çalıştırın. Bu komut, GitHub uygulamasını ve gerekli gizli anahtarları ayarlamanızda size rehberlik edecektir. Alternatif bulut sağlayıcıları için dokümantasyondaki ilgili kılavuzları inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://claude.ai/code)
 
-- **Kimin için:** Yazılım geliştirme süreçlerini otomatikleştirmek isteyen geliştiriciler. 
-- **Lisans:** MIT 
+- **Kimin için:** Yazılım geliştirme süreçlerini otomatikleştirmek isteyen geliştiriciler.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/anthropics/claude-code-action)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Action Terminal Artificial Intelligence
+
+- [Action](https://trescout.com/dictionary/action/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-action/

@@ -7,12 +7,16 @@ Docling, karmaşık belge formatlarını üretken yapay zekâ (generative AI) mo
 - GitHub Trending · 2026-09-20
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/docling-project/docling)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Generative AI PDF Artificial Intelligence
+
+- [Generative AI](https://trescout.com/dictionary/generative-ai/)
+- [PDF](https://trescout.com/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/docling/

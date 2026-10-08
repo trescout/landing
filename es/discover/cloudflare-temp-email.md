@@ -6,7 +6,15 @@ Cloudflare Temp Email es una plataforma de código abierto que le permite config
 - TypeScript
 - GitHub Trending · 2026-07-23
 
+## Actualizaciones
+
+- **13 de septiembre de 2026:** Estrellas 11,391 → 11,734, última versión v1.12.0 (13 de septiembre de 2026).
+- **23 de agosto de 2026:** Estrellas 11,332 → 11,391, última versión v1.11.1 (22 de agosto de 2026).
+- **19 de agosto de 2026:** Estrellas 11,156 → 11,332, última versión v1.11.0 (19 de agosto de 2026).
+- **2 de agosto de 2026:** Estrellas 10,884 → 11,156, última versión v1.10.0 (31 de julio de 2026).
+
 ## Qué aporta
+
 - Cero costes de servidor y operativos: funciona sobre el generoso plan gratuito de Cloudflare (100.000 solicitudes de Workers al día, Email Routing gratuito y alojamiento de Pages) sin necesidad de alquilar un servidor externo.
 - Nombre de dominio personalizado y direcciones imposibles de bloquear: a diferencia de los servicios de correo electrónico temporal genéricos, genera direcciones de un solo uso con su propio nombre de dominio que no son detectadas por las listas negras de los sitios web.
 - Análisis de correo electrónico rápido con Rust y WASM: procesa correos electrónicos complejos con contenido MIME, multipart y HTML en milisegundos gracias a un módulo de WebAssembly compilado con Rust.
@@ -14,10 +22,12 @@ Cloudflare Temp Email es una plataforma de código abierto que le permite config
 - Limpieza automática y acceso seguro: elimina automáticamente los mensajes y archivos adjuntos antiguos tras un periodo determinado; impide el acceso no autorizado mediante una contraseña de administrador.
 
 ## Cómo empezar y opciones de instalación
+
 - Guía de instalación oficial →
 - Interfaz de demostración en vivo →
 
 ## Arquitectura técnica y principio de funcionamiento
+
 - Integración de Cloudflare Email Routing: Todo el tráfico MX que llega a su dominio es recibido en la infraestructura de Cloudflare y, mediante una regla catch-all, se redirige directamente a la función Worker de captura.
 - Edge Worker y analizador Rust WASM: El flujo de correo electrónico entrante (raw stream) se transfiere a un motor Rust WASM optimizado que se ejecuta dentro del Worker para analizar rápidamente los encabezados, el cuerpo, el HTML y los archivos adjuntos.
 - Almacenamiento en Cloudflare D1 y R2: Los textos y metadatos de los correos electrónicos se almacenan en Cloudflare D1, una base de datos SQLite en el borde. Los archivos adjuntos se escriben opcionalmente en el almacenamiento de objetos Cloudflare R2.
@@ -25,6 +35,7 @@ Cloudflare Temp Email es una plataforma de código abierto que le permite config
 - API REST e integraciones externas: brinda la oportunidad de derivar nuevas direcciones de correo electrónico y consultar la bandeja de entrada a través de puntos finales de API REST para pruebas automatizadas o software de terceros.
 
 ## Instalación y despliegue de ejemplo
+
 **Pasos de despliegue con Wrangler CLI**
 
 ```
@@ -41,11 +52,14 @@ npx wrangler d1 execute temp_email_db --file=./db/schema.sql
 pnpm run deploy
 ```
 
-
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 Quiero configurar el proyecto de correo electrónico temporal de código abierto dreamhunter2333/cloudflare_temp_email que se ejecuta en Cloudflare con mi propio dominio. Tengo una cuenta de Cloudflare y un dominio vinculado a Cloudflare DNS. ¿Podrías explicarme paso a paso cómo configurar desde cero el enrutamiento de correo electrónico (Email Routing), la base de datos D1 y la interfaz de Cloudflare Pages a través del panel de control de Cloudflare? Además, ¿qué pasos de configuración debo seguir para redirigir los correos electrónicos entrantes a mi bot de Telegram?
 
 ## Preguntas frecuentes
+
 - ¿Es suficiente el plan gratuito de Cloudflare para uso personal? Sí. El plan gratuito de Cloudflare ofrece 100.000 solicitudes de Worker al día, Email Routing gratuito y una cuota para la base de datos D1. Para uso personal y equipos pequeños, es casi imposible superar estos límites; el sistema funciona con un coste totalmente nulo.
 - ¿Es necesario un dominio personalizado para utilizar el servicio? Sí. Para poder recibir correos electrónicos, debe disponer de un dominio (o subdominio, p. ej. mail.sudominio.com) gestionado a través de Cloudflare DNS. De este modo, podrá superar fácilmente los sitios que bloquean los servicios de correo electrónico temporal genéricos.
 - ¿Los correos electrónicos entrantes se almacenan permanentemente? No, este es un servicio de correo electrónico temporal. Como administrador del sistema, puede determinar el período de retención de los correos electrónicos (por ejemplo, 1 hora, 24 horas o 7 días) desde el panel; Las grabaciones caducadas se eliminan automáticamente del almacenamiento D1 y R2.
@@ -53,9 +67,23 @@ Quiero configurar el proyecto de correo electrónico temporal de código abierto
 
 ## Términos relacionados del glosario
 
+- [CLI](https://trescout.com/es/dictionary/cli/)
+- [Rust](https://trescout.com/es/dictionary/rust/)
+- [API](https://trescout.com/es/dictionary/api/)
+- [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
+- **Para quién es:** Está destinado a desarrolladores, equipos de prueba y usuarios centrados en la privacidad que deseen alojar un servicio de correo electrónico temporal gratuito, seguro y sin restricciones con su propio dominio.
+- **Licencia:** MIT (Özgür açık kaynak lisansı)
+- **Infraestructura:** Cloudflare Workers, Pages, D1 (SQLite) y Email Routing
+- **Lenguajes y herramientas:** TypeScript, Rust (WASM), Vue 3, Wrangler
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://temp-mail-docs.awsl.uk)
+- [Leer en turco →](https://trescout.com/discover/cloudflare-temp-email/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-23: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/cloudflare-temp-email/

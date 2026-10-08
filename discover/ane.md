@@ -6,6 +6,7 @@ Maderix tarafından geliştirilen ANE, tersine mühendislik ile elde edilen öze
 - GitHub Trending · 2026-07-30
 
 ## Ne kazandırır?
+
 - Apple donanımında doğrudan sinir ağı eğitimi
 - Özel API'lar ile donanım kısıtlamalarını aşma
 - Düşük gecikmeli dinamik iş akışı
@@ -14,16 +15,19 @@ Maderix tarafından geliştirilen ANE, tersine mühendislik ile elde edilen öze
 
 Bu proje, Apple donanımları üzerinde doğrudan sinir ağı eğitimi yapmayı hedefleyen bir araştırma çalışmasıdır. Proje dosyalarını GitHub üzerindeki resmî deposundan bilgisayarınıza indirerek, tersine mühendislik ile elde edilen özel API'ların nasıl kullanıldığını inceleyebilir ve kendi denemelerinizi gerçekleştirebilirsiniz.
 
-- **Kimin için:** Apple donanımlarının derinliklerine inmek isteyen, sinir ağı eğitimi ve donanım hızlandırma konularında araştırma yapan yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Apple donanımlarının derinliklerine inmek isteyen, sinir ağı eğitimi ve donanım hızlandırma konularında araştırma yapan yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/maderix/ANE)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Artificial Intelligence
+
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ane/

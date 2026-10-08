@@ -7,12 +7,14 @@ Cordis, uzamsal ve zamansal bileşenleri bir araya getiren bir meta çerçeve (m
 - GitHub Trending · 2026-08-16
 
 ## Güncelleme
-- 9 Eylül 2026: Yıldız 7.891 → 8.253, son sürüm v4.0.0-rc.10 (8 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 6.995 → 7.891, son sürüm v4.0.0-rc.9 (29 Ağustos 2026).
-- 22 Ağustos 2026: Yıldız 5.981 → 6.995.
-- 18 Ağustos 2026: Yıldız 4.187 → 5.981.
+
+- **9 Eylül 2026:** Yıldız 7.891 → 8.253, son sürüm v4.0.0-rc.10 (8 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 6.995 → 7.891, son sürüm v4.0.0-rc.9 (29 Ağustos 2026).
+- **22 Ağustos 2026:** Yıldız 5.981 → 6.995.
+- **18 Ağustos 2026:** Yıldız 4.187 → 5.981.
 
 ## Ne kazandırır?
+
 - Uzamsal ve zamansal bileşenleri birleştirir
 - Sistem parçalarının uyumlu çalışmasını sağlar
 - TypeScript tabanlı modüler geliştirme sunar
@@ -20,18 +22,21 @@ Cordis, uzamsal ve zamansal bileşenleri bir araya getiren bir meta çerçeve (m
 ## Nasıl başlanır?
 
 Cordis kullanmaya başlamak için projenin resmî dokümantasyon sayfası olan cordis-primer üzerinden temel kavramları inceleyebilirsiniz. Ayrıca sistemin çalışma mantığını anlamak adına GitHub üzerinde paylaşılan akademik makaleye göz atabilirsiniz.
+
 - [Resmî kaynak →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
 
-- **Kimin için:** Karmaşık yazılım sistemlerini modüler ve düzenli bir yapıda geliştirmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Karmaşık yazılım sistemlerini modüler ve düzenli bir yapıda geliştirmek isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/cordiverse/cordis)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Meta-framework
+
+- [Meta-framework](https://trescout.com/dictionary/meta-framework/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cordis/

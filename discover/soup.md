@@ -7,12 +7,14 @@ Soup, büyük dil modellerine (large language models) tek bir YAML dosyası üze
 - GitHub Trending · 2026-08-16
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 7.309 → 7.988, son sürüm v0.75.2 (1 Ekim 2026).
-- 27 Eylül 2026: Yıldız 6.267 → 7.309, son sürüm v0.75.1 (21 Eylül 2026).
-- 13 Eylül 2026: Yıldız 5.332 → 6.267, son sürüm v0.75.0 (12 Eylül 2026).
-- 5 Eylül 2026: Yıldız 4.285 → 5.332, son sürüm v0.74.0 (4 Eylül 2026).
+
+- **2 Ekim 2026:** Yıldız 7.309 → 7.988, son sürüm v0.75.2 (1 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 6.267 → 7.309, son sürüm v0.75.1 (21 Eylül 2026).
+- **13 Eylül 2026:** Yıldız 5.332 → 6.267, son sürüm v0.75.0 (12 Eylül 2026).
+- **5 Eylül 2026:** Yıldız 4.285 → 5.332, son sürüm v0.74.0 (4 Eylül 2026).
 
 ## Ne kazandırır?
+
 - 4 GB grafik belleğine sahip dizüstü bilgisayarlarda 8 milyar parametreli modelleri eğitebilirsiniz.
 - Katman akış yöntemiyle donanım kısıtlamalarını aşarak karmaşık kurulumlarla uğraşmazsınız.
 - Tek bir yapılandırma dosyası üzerinden tüm eğitim sürecini yönetebilirsiniz.
@@ -41,19 +43,26 @@ soup train
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Soup kütüphanesini kullanarak 8 milyar parametreli bir yapay zekâ modelini 4 GB grafik belleğine sahip bilgisayarımda eğitmek istiyorum. Katman akış özelliğini aktif eden ve 4-bit nicemleme kullanan bir YAML yapılandırma dosyası oluşturmama yardımcı ol. Eğitim sürecini başlatmak için gerekli olan soup.yaml dosyasının içeriğini hazırla ve ardından bu dosyayı kullanarak eğitimi nasıl başlatacağımı adım adım açıkla.
 
-- **Kimin için:** Yüksek donanım maliyetleri olmadan kendi yerel bilgisayarında büyük dil modellerine ince ayar yapmak isteyen geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Yüksek donanım maliyetleri olmadan kendi yerel bilgisayarında büyük dil modellerine ince ayar yapmak isteyen geliştiriciler içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/MakazhanAlpamys/Soup)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Layer Streaming Fine-tuning Large Language Models Artificial Intelligence
+
+- [Layer Streaming](https://trescout.com/dictionary/layer-streaming/)
+- [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/soup/

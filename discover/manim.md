@@ -21,10 +21,11 @@ pip install manimgl
 manimgl example_scenes.py OpeningManimExample
 ```
 
-Kaynak: Komutlar 3b1b/manim README’sinden 24 Ağustos 2026’da kontrol edildi; bu kayıt ManimGL içindir.
+**Kaynak:** Komutlar 3b1b/manim README’sinden 24 Ağustos 2026’da kontrol edildi; bu kayıt ManimGL içindir.
 
 ## Güncelleme
-- 12 Ağustos 2026: Yıldız 90.306 → 90.309, son sürüm v1.7.2 (13 Aralık 2024).
+
+- **12 Ağustos 2026:** Yıldız 90.306 → 90.309, son sürüm v1.7.2 (13 Aralık 2024).
 
 ## Bu araç ne yapar?
 
@@ -39,26 +40,31 @@ Matematiksel kavramları animasyonla anlatmak isteyen eğitimciler, öğrenciler
 Sürükle-bırak arayüzüyle çalışan bir animasyon aracı arayanlar veya Manim Community Edition kullanmak isteyenler.
 
 ## Öne çıkanlar
+
 - Açıklayıcı matematik videoları için programatik animasyon üretimi
 - Python 3.10+ ile çalışma
 - OpenGL desteği
 - MIT lisansı
 
 ## İlk kullanım akışı
-- Python 3.10 veya daha yeni bir sürümü, FFmpeg’i ve OpenGL gereksinimlerini hazırlayın.
-- LaTeX kullanacaksanız kurun; Linux’ta Pango geliştirme başlıklarını da ekleyin.
-- Terminalde `pip install manimgl` komutunu çalıştırın.
-- Kurulumu denemek için `manimgl example_scenes.py OpeningManimExample` komutunu çalıştırın.
+
+1. Python 3.10 veya daha yeni bir sürümü, FFmpeg’i ve OpenGL gereksinimlerini hazırlayın.
+2. LaTeX kullanacaksanız kurun; Linux’ta Pango geliştirme başlıklarını da ekleyin.
+3. Terminalde `pip install manimgl` komutunu çalıştırın.
+4. Kurulumu denemek için `manimgl example_scenes.py OpeningManimExample` komutunu çalıştırın.
 
 ## Güvenli başlangıç
 
 Bu kayıt ManimGL içindir. Paket adı `manimgl`’dir; ayrı bir proje olan Manim Community Edition’ın kurulum yönergelerini kullanmayın.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 Bir çemberin kareye dönüştüğü basit bir ManimGL animasyon sahnesi yazmama yardımcı olur musun?
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/3b1b/manim)
 - [3b1b ManimGL GitHub deposu →](https://github.com/3b1b/manim)
 - [ManimGL resmî belgeleri →](https://3b1b.github.io/manim/)
@@ -67,7 +73,8 @@ Bir çemberin kareye dönüştüğü basit bir ManimGL animasyon sahnesi yazmama
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Fork
+
+- [Fork](https://trescout.com/dictionary/fork/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/manim/

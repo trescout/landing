@@ -1,6 +1,6 @@
 # Claude Code ile Disiplinli Geliştirme
 
-Claude Code Harness , ham ajan çalışmasının dağılma eğilimini frenleyerek planla, yap, gözden geçir ve teslim et disiplinini sunar. Planların sohbette kaybolmasını önler, testleri sınırlandırır ve daha tutarlı kod üretimi sağlar. Claude Code merkezli olsa da Codex ve OpenCode için de entegrasyon yolları sunar.
+**Claude Code Harness**, ham ajan çalışmasının dağılma eğilimini frenleyerek **planla, yap, gözden geçir ve teslim et** disiplinini sunar. Planların sohbette kaybolmasını önler, testleri sınırlandırır ve daha tutarlı kod üretimi sağlar. Claude Code merkezli olsa da Codex ve OpenCode için de entegrasyon yolları sunar.
 
 - ★ 3.092
 - Shell
@@ -8,19 +8,21 @@ Claude Code Harness , ham ajan çalışmasının dağılma eğilimini frenleyere
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
-- 6 Eylül 2026: Yıldız 3.076 → 3.092, son sürüm v5.15.0 (6 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 3.071 → 3.076, son sürüm v5.14.1 (31 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 3.070 → 3.071, son sürüm v5.13.1 (25 Ağustos 2026).
-- 24 Ağustos 2026: Yıldız 3.068 → 3.070, son sürüm v5.12.0 (24 Ağustos 2026).
 
-- **Kimin için:** Claude Code ile ciddi iş yapan geliştiriciler 
-- **Zorluk:** Orta · Claude Code kullanımı 
-- **Ne sunar:** Disiplinli plan-yap-gözden geçir döngüsü 
-- **Çalışır:** Claude Code (+ Codex, OpenCode) 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) 
+- **6 Eylül 2026:** Yıldız 3.076 → 3.092, son sürüm v5.15.0 (6 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 3.071 → 3.076, son sürüm v5.14.1 (31 Ağustos 2026).
+- **27 Ağustos 2026:** Yıldız 3.070 → 3.071, son sürüm v5.13.1 (25 Ağustos 2026).
+- **24 Ağustos 2026:** Yıldız 3.068 → 3.070, son sürüm v5.12.0 (24 Ağustos 2026).
+
+- **Kimin için:** Claude Code ile ciddi iş yapan geliştiriciler
+- **Zorluk:** Orta · Claude Code kullanımı
+- **Ne sunar:** Disiplinli plan-yap-gözden geçir döngüsü
+- **Çalışır:** Claude Code (+ Codex, OpenCode)
+- **Ücret:** Ücretsiz · açık kaynak (MIT)
 
 ## Ne kazandırır?
-- Ajan dağılmaz ; plan kayıt altında tutulur.
+
+- Ajan **dağılmaz**; plan kayıt altında tutulur.
 - Testler sınırlandırılarak kalite artırılır.
 - Daha öngörülebilir ve tutarlı sonuçlar elde edilir.
 
@@ -32,25 +34,33 @@ Claude Code Harness , ham ajan çalışmasının dağılma eğilimini frenleyere
 npm install -g claude-code-harness
 ```
 
-Kaynak: Resmî kaynak: https://github.com/Chachamaru127/claude-code-harness
+**Kaynak:** Resmî kaynak: https://github.com/Chachamaru127/claude-code-harness
 
 ## Nasıl başlanır?
 
 Depodaki kurulum ile Claude Code'a entegre edilir; ardından planla, yap ve gözden geçir döngüsünü uygular.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code'da '/plugin marketplace add Chachamaru127/claude-code-harness', ardından '/plugin install claude-code-harness@claude-code-harness-marketplace' ve '/harness-setup' komutlarını çalıştırarak bu disiplinli iş akışını kur, sonra '/harness-plan' ile işime başla.
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
+**Lisans:** MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Chachamaru127/claude-code-harness)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Harness Shell Plugin Open Source Artificial Intelligence
+
+- [Harness](https://trescout.com/dictionary/harness/)
+- [Shell](https://trescout.com/dictionary/shell/)
+- [Plugin](https://trescout.com/dictionary/plugin/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-harness/

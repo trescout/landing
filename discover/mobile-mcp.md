@@ -7,12 +7,14 @@ Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazım
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 8.544 → 8.549, son sürüm 1.0.8 (2 Ekim 2026).
-- 2 Ekim 2026: Yıldız 8.439 → 8.544, son sürüm 1.0.7 (1 Ekim 2026).
-- 30 Eylül 2026: Yıldız 7.665 → 8.439, son sürüm 1.0.6 (30 Eylül 2026).
-- 27 Eylül 2026: Yıldız 7.586 → 7.665, son sürüm 1.0.4 (13 Eylül 2026).
+
+- **2 Ekim 2026:** Yıldız 8.544 → 8.549, son sürüm 1.0.8 (2 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 8.439 → 8.544, son sürüm 1.0.7 (1 Ekim 2026).
+- **30 Eylül 2026:** Yıldız 7.665 → 8.439, son sürüm 1.0.6 (30 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 7.586 → 7.665, son sürüm 1.0.4 (13 Eylül 2026).
 
 ## Ne kazandırır?
+
 - iOS ve Android cihazlarda uygulama testi yapma
 - ekran ögelerini otomatik tarayıp yapılandırılmış veri çekme
 - tek arayüz üzerinden emülatör ve simülatörleri yönetme
@@ -40,19 +42,28 @@ npx @mobilenext/mobile-mcp@latest
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bilgisayarımdaki mobil geliştirme araçlarıyla iletişim kuran Model Bağlam Protokolü (Model Context Protocol) sunucusunu kullanarak bağlı olan mobil cihazlardaki uygulamaları listele ve ekrandaki ögeleri tara.
 
-- **Kimin için:** Mobil uygulama testleri ve otomasyon süreçlerini yapay zekâ ajanlarıyla yönetmek isteyen geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Mobil uygulama testleri ve otomasyon süreçlerini yapay zekâ ajanlarıyla yönetmek isteyen geliştiriciler içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/mobile-next/mobile-mcp)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Web Scraping Model Context Protocol Model Context Protocol Context MCP Artificial Intelligence
+
+- [Web Scraping](https://trescout.com/dictionary/web-scraping/)
+- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol-mcp/)
+- [Context](https://trescout.com/dictionary/context/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mobile-mcp/

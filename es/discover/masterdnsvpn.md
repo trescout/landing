@@ -6,12 +6,18 @@ MasterDnsVPN es una solución de red privada virtual (VPN) de túnel de sistema 
 - Go
 - GitHub Trending · 2026-06-11
 
+## Actualizaciones
+
+- **2 de agosto de 2026:** Estrellas 5,411 → 6,870, última versión v2026.06.13.234407-7de2476 (13 de junio de 2026).
+
 ## Qué aporta
+
 - Proporciona transmisión de datos en redes censuradas mediante el método de túnel DNS.
 - Ofrece rutas múltiples y equilibrio de carga para una baja pérdida de paquetes y alta velocidad.
 - Optimizado para una conexión estable incluso en condiciones de red restringidas.
 
 ## Instalación
+
 **Configuración automática del servidor**
 
 ```
@@ -31,15 +37,28 @@ docker run -d \
   ghcr.io/masterking32/masterdnsvpn:latest
 ```
 
-
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 Quiero establecer una conexión segura mediante un túnel DNS en una red censurada utilizando la herramienta MasterDnsVPN. ¿Cómo puedo configurar el lado del servidor usando el script de instalación automática compartido y qué pasos básicos debo seguir para asegurar la conexión en el lado del cliente? Detalle los requisitos de red a los que debo prestar atención durante el proceso de instalación y el método para ejecutarlo a través de Docker.
 
 ## Términos relacionados del glosario
 
+- [DNS Tunneling](https://trescout.com/es/dictionary/dns-tunneling/)
+- [Resolver Load Balancing](https://trescout.com/es/dictionary/resolver-load-balancing/)
+- [VPN](https://trescout.com/es/dictionary/vpn/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
+- **Para quién es:** Es para investigadores y usuarios avanzados que desean brindar acceso a Internet de alta estabilidad en condiciones de red restringidas.
+- **Licencia:** MIT
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/masterking32/MasterDnsVPN)
+- [Leer en turco →](https://trescout.com/discover/masterdnsvpn/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-11: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/masterdnsvpn/

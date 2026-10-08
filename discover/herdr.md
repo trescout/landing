@@ -7,6 +7,7 @@ Rust diliyle geliştirilen herdr, uçbirim (terminal) üzerinde çalışan bir a
 - GitHub Trending · 2026-07-01
 
 ## Ne kazandırır?
+
 - Birden fazla yapay zekâ ajanını tek terminalde eş zamanlı yönetin.
 - Ajanların çalışma durumunu renkli göstergelerle anlık takip edin.
 - Oturumları arka planda çalıştırarak bağlantı kopsa bile devam ettirin.
@@ -28,18 +29,26 @@ herdr
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Terminal üzerinde çalışan tüm yapay zekâ ajanlarımı tek bir merkezden yönetmek ve her birinin çalışma durumunu (bekliyor, çalışıyor, tamamlandı) anlık olarak görmek istiyorum. Herdr kullanarak bu ajanları farklı çalışma alanlarına ve sekmelere ayırıp, terminali kapatsam bile süreçlerin arka planda devam etmesini sağlayacak şekilde yapılandırmama yardımcı ol.
 
-- **Kimin için:** Terminal ortamında birden fazla yapay zekâ ajanıyla aynı anda çalışan yazılımcılar için geliştirilmiştir. 
+- **Kimin için:** Terminal ortamında birden fazla yapay zekâ ajanıyla aynı anda çalışan yazılımcılar için geliştirilmiştir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ogulcancelik/herdr)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Multiplexer Terminal Agent Rust Artificial Intelligence
+
+- [Agent Multiplexer](https://trescout.com/dictionary/agent-multiplexer/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/herdr/

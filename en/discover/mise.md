@@ -6,19 +6,39 @@ Mise is a tool that allows you to manage software development tools, environment
 - Rust
 - GitHub Trending · 2026-08-08
 
+## Updates
+
+- **October 5, 2026:** Stars 34,575 → 34,605, latest release v2026.10.3 (October 5, 2026).
+- **October 4, 2026:** Stars 34,574 → 34,575, latest release v2026.10.2 (October 4, 2026).
+- **October 4, 2026:** Stars 34,503 → 34,574, latest release v2026.10.1 (October 3, 2026).
+- **October 2, 2026:** Stars 34,461 → 34,503, latest release v2026.10.0 (October 2, 2026).
+
 ## What you get
+
 - Automatically manages project tools and versions
 - Defines environment variables on a project basis
 - Standardizes build and test tasks
 
 ## Getting started
+
 - Official source →
 
 ## Related dictionary terms
 
+- [Environment Variables](https://trescout.com/en/dictionary/environment-variables/)
+- [Task Runner](https://trescout.com/en/dictionary/task-runner/)
+- [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [Rust](https://trescout.com/en/dictionary/rust/)
+
+- **Who it is for:** It is suitable for software developers who have difficulty managing software tools, environment variables, and tasks when switching between different projects.
+- **License:** MIT
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://mise.jdx.dev)
+- [Read in Turkish →](https://trescout.com/discover/mise/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/mise/

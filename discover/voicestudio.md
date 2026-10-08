@@ -7,12 +7,14 @@ VoiceStudio, ses klonlama, dublaj ve transkripsiyon gibi işlemleri internete ih
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 49.467 → 52.161, son sürüm v0.5.6 (23 Eylül 2026).
-- 30 Eylül 2026: Yıldız 46.220 → 49.467, son sürüm v0.5.6 (23 Eylül 2026).
-- 29 Eylül 2026: Yıldız 41.490 → 46.220, son sürüm v0.5.6 (23 Eylül 2026).
-- 28 Eylül 2026: Yıldız 37.025 → 41.490, son sürüm v0.5.6 (23 Eylül 2026).
+
+- **3 Ekim 2026:** Yıldız 49.467 → 52.161, son sürüm v0.5.6 (23 Eylül 2026).
+- **30 Eylül 2026:** Yıldız 46.220 → 49.467, son sürüm v0.5.6 (23 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 41.490 → 46.220, son sürüm v0.5.6 (23 Eylül 2026).
+- **28 Eylül 2026:** Yıldız 37.025 → 41.490, son sürüm v0.5.6 (23 Eylül 2026).
 
 ## Ne kazandırır?
+
 - İnternet bağlantısı gerektirmeden ses klonlama ve dublaj yapın
 - 646 farklı dilde ses sentezleme ve metne dönüştürme desteği alın
 - Verilerinizi kendi bilgisayarınızda tutarak tam gizlilik sağlayın
@@ -29,19 +31,23 @@ bun run desktop
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 VoiceStudio kullanarak ses klonlama, video dublajı veya metin okuma işlemlerini yerel donanımım üzerinde nasıl gerçekleştirebilirim? Uygulama içerisindeki ses modellerini yönetmek, yeni bir ses örneği ekleyerek klonlama yapmak ve çok dilli ses sentezleme süreçlerini en verimli şekilde yürütmek için izlemem gereken temel adımları açıkla.
 
-- **Kimin için:** Ses klonlama, dublaj ve transkripsiyon gibi işlemleri bulut servislerine bağımlı kalmadan, kendi bilgisayarında güvenli ve ücretsiz bir şekilde yapmak isteyen kullanıcılar için uygundur. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Ses klonlama, dublaj ve transkripsiyon gibi işlemleri bulut servislerine bağımlı kalmadan, kendi bilgisayarında güvenli ve ücretsiz bir şekilde yapmak isteyen kullanıcılar için uygundur.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/debpalash/VoiceStudio)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/voicestudio/

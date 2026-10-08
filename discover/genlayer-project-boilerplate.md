@@ -7,11 +7,13 @@ GenLayer, akıllı sözleşmelerin (smart contracts) internetteki verilerle doğ
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 16.763 → 18.183, son sürüm v0.2.0 (9 Aralık 2025).
-- 27 Ağustos 2026: Yıldız 15.748 → 16.763, son sürüm v0.2.0 (9 Aralık 2025).
-- 18 Ağustos 2026: Yıldız 15.737 → 15.748, son sürüm v0.2.0 (9 Aralık 2025).
+
+- **27 Eylül 2026:** Yıldız 16.763 → 18.183, son sürüm v0.2.0 (9 Aralık 2025).
+- **27 Ağustos 2026:** Yıldız 15.748 → 16.763, son sürüm v0.2.0 (9 Aralık 2025).
+- **18 Ağustos 2026:** Yıldız 15.737 → 15.748, son sürüm v0.2.0 (9 Aralık 2025).
 
 ## Ne kazandırır?
+
 - İnternet verilerine doğrudan erişen akıllı sözleşmeler geliştirin
 - Yapay zekâ destekli tahmin ve doğrulama süreçlerini entegre edin
 - Hızlı test araçlarıyla geliştirme sürecini hızlandırın
@@ -35,19 +37,24 @@ npm run dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Benim için bir GenLayer akıllı sözleşmesi geliştir. Bu sözleşme internetten güncel verileri çekebilmeli ve yapay zekâ modelleriyle bu verileri işleyerek mantıksal kararlar verebilmeli. Kodun hata içermemesi için linter kurallarına uygun olmasını sağla ve geliştirme sürecinde hızlı geri bildirim almak için doğrudan bellek üzerinde çalışan test senaryoları oluştur.
 
-- **Kimin için:** Blokzinciri üzerinde çalışan ve dış dünya verileriyle etkileşime giren akıllı sözleşmeler geliştirmek isteyen yazılımcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Blokzinciri üzerinde çalışan ve dış dünya verileriyle etkileşime giren akıllı sözleşmeler geliştirmek isteyen yazılımcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/genlayerlabs/genlayer-project-boilerplate)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Smart Contracts Artificial Intelligence
+
+- [Smart Contracts](https://trescout.com/dictionary/smart-contracts/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/genlayer-project-boilerplate/

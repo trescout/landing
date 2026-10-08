@@ -7,19 +7,21 @@ Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkil
 - GitHub Trending · 2026-09-19
 
 ## Güncelleme
-- 30 Eylül 2026: Yıldız 16.568 → 17.581.
 
-Gitdiagram arayüzü: GitHub deposunu etkileşimli sistem mimarisi şemasına dönüştüren görsel analiz paneli. 
+- **30 Eylül 2026:** Yıldız 16.568 → 17.581.
+
+*Gitdiagram arayüzü: GitHub deposunu etkileşimli sistem mimarisi şemasına dönüştüren görsel analiz paneli.*
 
 ## Ne kazandırır?
-- Saniyeler İçinde Kod Haritası: Binlerce satırlık yabancı bir depoda kaybolmadan sistem mimarisini, ana modülleri ve veri akışını kuşbakışı görün.
-- Tek Tıkla URL Kısayolu: Herhangi bir GitHub repo URL'sindeki github.com kısmını gitdiagram.com yaparak kurulumsuz anında şema üretin.
-- İnteraktif Düğümler: Şema üzerindeki kutulara tıklayarak doğrudan GitHub'daki ilgili kaynak kod dosyasına veya klasörüne gidin.
-- Dışa Aktarma Desteği: Oluşturulan mimari şemaları dokümantasyon veya sunumlar için PNG, SVG veya metin biçiminde indirin.
+
+- **Saniyeler İçinde Kod Haritası:** Binlerce satırlık yabancı bir depoda kaybolmadan sistem mimarisini, ana modülleri ve veri akışını kuşbakışı görün.
+- **Tek Tıkla URL Kısayolu:** Herhangi bir GitHub repo URL'sindeki `github.com` kısmını `gitdiagram.com` yaparak kurulumsuz anında şema üretin.
+- **İnteraktif Düğümler:** Şema üzerindeki kutulara tıklayarak doğrudan GitHub'daki ilgili kaynak kod dosyasına veya klasörüne gidin.
+- **Dışa Aktarma Desteği:** Oluşturulan mimari şemaları dokümantasyon veya sunumlar için PNG, SVG veya metin biçiminde indirin.
 
 ## Tek tıkla kullanım: URL değiştirme kısayolu
 
-Gitdiagram'ın en pratik yanı hiçbir kurulum gerektirmeden tarayıcı üzerinden çalışmasıdır. İncelemek istediğiniz herhangi bir açık kaynaklı deponun adresindeki hub kelimesini silip yerine diagram yazmanız yeterlidir:
+Gitdiagram'ın en pratik yanı hiçbir kurulum gerektirmeden tarayıcı üzerinden çalışmasıdır. İncelemek istediğiniz herhangi bir açık kaynaklı deponun adresindeki **hub** kelimesini silip yerine **diagram** yazmanız yeterlidir:
 
 **URL Kısayolu Örneği**
 
@@ -37,11 +39,11 @@ Bu bağlantıya girdiğiniz anda Gitdiagram arkaplanda depoyu tarar, dosya ağac
 
 Gitdiagram, kod tabanını salt metin olarak değil, ilişkisel bir sistem grafı olarak ele alır:
 
-1. Ağaç Çıkarma (Tree Ingestion): GitHub REST ve GraphQL API'lerini kullanarak deponun dosya ağacını, paket yöneticisi tanımlarını ( package.json , Cargo.toml , go.mod ) ve dizin hiyerarşisini çeker.
+**1. Ağaç Çıkarma (Tree Ingestion):** GitHub REST ve GraphQL API'lerini kullanarak deponun dosya ağacını, paket yöneticisi tanımlarını (`package.json`, `Cargo.toml`, `go.mod`) ve dizin hiyerarşisini çeker.
 
-2. Semantik Analiz ve İlişkilendirme: Modüller arasındaki import zincirlerini ve servis sınırlarını tespit eder. LLM entegrasyonu (OpenAI / Claude API) ile bileşenlerin rollerini (API Gateway, Controller, Database Adapter) etiketler.
+**2. Semantik Analiz ve İlişkilendirme:** Modüller arasındaki import zincirlerini ve servis sınırlarını tespit eder. LLM entegrasyonu (OpenAI / Claude API) ile bileşenlerin rollerini (API Gateway, Controller, Database Adapter) etiketler.
 
-3. Vektörel Çizim Motoru: Elde edilen grafı React Flow ve SVG tabanlı bir sanal tuvale dönüştürür. Düğümler arası veri akışı yönlü oklarla görselleştirilir.
+**3. Vektörel Çizim Motoru:** Elde edilen grafı React Flow ve SVG tabanlı bir sanal tuvale dönüştürür. Düğümler arası veri akışı yönlü oklarla görselleştirilir.
 
 ## Kurulum ve yerel dağıtım
 
@@ -64,13 +66,16 @@ bun run dev
 ```
 
 ## Kod bilmiyorsanız: Yapay zekâ ajanı istemi
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Gitdiagram mimarisini temel alarak incelediğim GitHub deposunun sistem şemasını oluştur. Depodaki ana bileşenleri, veri akış yönlerini, giriş noktalarını (entry points) ve harici bağımlılıkları tespit et. Mimariyi Mermaid.js formatında bir flowchart olarak çiz ve her bileşenin işlevini ikişer cümleyle açıkla.
 
 ## Kritik uyarılar ve sınırlar
-- Devasa Monorepolar: On binlerce dosya içeren monorepolarda GitHub API hız limitine (rate limit) takılabilir. Kişisel GitHub token kullanmak sınırları genişletir.
-- Özel (Private) Depolar: Bulut sürümü yalnızca herkese açık (public) depoları destekler. Şirket içi kapalı depolar için aracı yerel sunucunuzda kendi token'ınızla çalıştırmalısınız.
-- LLM Token Maliyeti: Kendi sunucunuzda çalıştırırken büyük repolarda harcanan LLM API token miktarını optimize etmek için dosya filtreleme kurallarını yapılandırmalısınız.
+
+- **Devasa Monorepolar:** On binlerce dosya içeren monorepolarda GitHub API hız limitine (rate limit) takılabilir. Kişisel GitHub token kullanmak sınırları genişletir.
+- **Özel (Private) Depolar:** Bulut sürümü yalnızca herkese açık (public) depoları destekler. Şirket içi kapalı depolar için aracı yerel sunucunuzda kendi token'ınızla çalıştırmalısınız.
+- **LLM Token Maliyeti:** Kendi sunucunuzda çalıştırırken büyük repolarda harcanan LLM API token miktarını optimize etmek için dosya filtreleme kurallarını yapılandırmalısınız.
 
 ## Sıkça sorulan sorular
 
@@ -91,13 +96,20 @@ Oluşturulan şemayı sunumuma ekleyebilir miyim?
 Evet, arayüz üzerinden tek tıkla şemanın yüksek çözünürlüklü PNG veya SVG çıktısını alabilir, doğrudan tasarım ve dokümantasyon araçlarınıza yapıştırabilirsiniz.
 
 ## Bağlantılar
+
 - [GitHub deposu (ahmedkhaleel2004/gitdiagram) →](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [Gitdiagram Canlı Web Uygulaması →](https://gitdiagram.com)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun güncel teknik mimarisini ve açık kaynak topluluğundaki kullanım pratiklerini özetler. Detaylar için resmi depoya bakın.
 
 ## İlgili sözlük terimleri
-SVG Mermaid LLM API API Gateway Gateway Database
+
+- [SVG](https://trescout.com/dictionary/svg/)
+- [Mermaid](https://trescout.com/dictionary/mermaid/)
+- [LLM API](https://trescout.com/dictionary/llm-api/)
+- [API Gateway](https://trescout.com/dictionary/api-gateway/)
+- [Gateway](https://trescout.com/dictionary/gateway/)
+- [Database](https://trescout.com/dictionary/database/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gitdiagram/

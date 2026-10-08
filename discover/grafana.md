@@ -7,12 +7,14 @@ Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve i
 - GitHub Trending · 2026-06-27
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 76.770 → 76.987, son sürüm v13.2.3 (29 Eylül 2026).
-- 16 Eylül 2026: Yıldız 76.559 → 76.770, son sürüm v13.2.2 (15 Eylül 2026).
-- 2 Eylül 2026: Yıldız 76.290 → 76.559, son sürüm v13.2.1 (2 Eylül 2026).
-- 18 Ağustos 2026: Yıldız 76.138 → 76.290, son sürüm v13.2.0 (18 Ağustos 2026).
+
+- **29 Eylül 2026:** Yıldız 76.770 → 76.987, son sürüm v13.2.3 (29 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 76.559 → 76.770, son sürüm v13.2.2 (15 Eylül 2026).
+- **2 Eylül 2026:** Yıldız 76.290 → 76.559, son sürüm v13.2.1 (2 Eylül 2026).
+- **18 Ağustos 2026:** Yıldız 76.138 → 76.290, son sürüm v13.2.0 (18 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Farklı veri kaynaklarını tek panelde birleştirme
 - Esnek ve dinamik kontrol panelleri oluşturma
 - Metrikler üzerinden otomatik uyarı sistemleri kurma
@@ -39,23 +41,27 @@ docker run -d -p 3000:3000 --name=grafana grafana/grafana
 brew services start grafana
 ```
 
-Kaynak: Resmî kaynak: https://grafana.com
+**Kaynak:** Resmî kaynak: https://grafana.com
 
 ## Nasıl başlanır?
 
 Grafana kullanmaya başlamak için resmî web sitesi olan grafana.com/get adresini ziyaret edin. İhtiyacınıza uygun kurulum rehberlerine ulaşmak için grafana.com/docs/grafana/latest/setup-grafana/installation/ sayfasındaki dokümanları inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://grafana.com)
 
-- **Kimin için:** Farklı kaynaklardan gelen verilerini tek bir merkezden izlemek ve görselleştirmek isteyen sistem yöneticileri ve veri analistleri içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Farklı kaynaklardan gelen verilerini tek bir merkezden izlemek ve görselleştirmek isteyen sistem yöneticileri ve veri analistleri içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/grafana/grafana)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Traces Logs
+
+- [Traces](https://trescout.com/dictionary/traces/)
+- [Logs](https://trescout.com/dictionary/logs/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grafana/

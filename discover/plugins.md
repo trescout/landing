@@ -7,12 +7,14 @@ OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve �
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 6.331 → 7.334.
-- 10 Eylül 2026: Yıldız 5.110 → 6.331.
-- 17 Ağustos 2026: Yıldız 4.881 → 5.110, depo arşivlendi, geliştirme durdu.
-- 2 Ağustos 2026: Yıldız 1.596 → 4.881.
+
+- **7 Ekim 2026:** Yıldız 6.331 → 7.334.
+- **10 Eylül 2026:** Yıldız 5.110 → 6.331.
+- **17 Ağustos 2026:** Yıldız 4.881 → 5.110, depo arşivlendi, geliştirme durdu.
+- **2 Ağustos 2026:** Yıldız 1.596 → 4.881.
 
 ## Ne kazandırır?
+
 - Dil modellerinin güncel verilere erişmesini sağlar.
 - Üçüncü taraf uygulamalarla etkileşim kurma imkânı tanır.
 - Yapay zekânın dış araçlar yardımıyla karmaşık görevleri tamamlamasına olanak verir.
@@ -21,15 +23,17 @@ OpenAI eklentileri (plugins), dil modellerinin güncel verilere erişmesini ve �
 
 Bu araç, OpenAI eklentileri için örnek bir koleksiyon sunan bir depodur. Kullanmaya başlamak için GitHub üzerindeki ilgili Plugins deposunu ziyaret edebilir ve 'plugins' dizini altında yer alan Figma, Notion veya web uygulamaları gibi farklı örnekleri inceleyerek kendi projeleriniz için nasıl yapılandırıldıklarını görebilirsiniz.
 
-- **Kimin için:** Yapay zekâ modellerini dış uygulamalarla entegre etmek isteyen geliştiriciler ve teknik meraklılar için uygundur. 
+- **Kimin için:** Yapay zekâ modellerini dış uygulamalarla entegre etmek isteyen geliştiriciler ve teknik meraklılar için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/openai/plugins)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/plugins/

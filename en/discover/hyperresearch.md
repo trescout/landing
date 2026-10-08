@@ -6,12 +6,19 @@ Hyperresearch is an AI agent-based research tool that collects data from the int
 - Python
 - GitHub Trending · 2026-09-12
 
+## Updates
+
+- **September 27, 2026:** Stars 2,835 → 3,632, latest release v0.12.0 (September 24, 2026).
+- **September 12, 2026:** Stars 2,832 → 2,835, latest release v0.11.1 (September 11, 2026).
+
 ## What you get
+
 - Scans and verifies over 250 sources with a single command.
 - Stores the obtained information in a permanent and searchable knowledge base.
 - Generates unbiased reports by cross-referencing academic and technical sources.
 
 ## Installation
+
 **Integrating the tool into the project**
 
 ```
@@ -19,15 +26,25 @@ cd your-project
 pip install hyperresearch && hyperresearch install
 ```
 
-
 ## If you don't write code
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 You are an in-depth research expert. Using the Hyperresearch tool, prepare a comprehensive report on [ENTER YOUR RESEARCH TOPIC HERE]. Remain objective during the research process, verify all claims with sources, and add the data you obtain to the permanent knowledge base. When creating the report, prioritize academic and technical sources, analyze conflicting information, and clearly summarize the results.
 
 ## Related dictionary terms
 
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
+- **Who it is for:** Designed for researchers and writers who want to quickly scan numerous sources on complex topics and obtain reliable, organized reports.
+- **License:** MIT
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/jordan-gibbs/hyperresearch)
+- [Read in Turkish →](https://trescout.com/discover/hyperresearch/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/hyperresearch/

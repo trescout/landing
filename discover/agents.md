@@ -7,12 +7,14 @@ LiveKit Agents, gerçek zamanlı sesli ve görüntülü yapay zekâ ajanları ge
 - GitHub Trending · 2026-08-04
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 14.445 → 14.617, son sürüm livekit-agents@1.8.5 (6 Ekim 2026).
-- 2 Ekim 2026: Yıldız 14.368 → 14.445, son sürüm livekit-agents@1.8.4 (1 Ekim 2026).
-- 27 Eylül 2026: Yıldız 14.221 → 14.368, son sürüm livekit-agents@1.8.3 (26 Eylül 2026).
-- 16 Eylül 2026: Yıldız 14.122 → 14.221, son sürüm livekit-agents@1.8.2 (15 Eylül 2026).
+
+- **6 Ekim 2026:** Yıldız 14.445 → 14.617, son sürüm livekit-agents@1.8.5 (6 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 14.368 → 14.445, son sürüm livekit-agents@1.8.4 (1 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 14.221 → 14.368, son sürüm livekit-agents@1.8.3 (26 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 14.122 → 14.221, son sürüm livekit-agents@1.8.2 (15 Eylül 2026).
 
 ## Ne kazandırır?
+
 - İnsan benzeri tepkiler veren sesli etkileşimler kurar.
 - WebRTC medya sunucusu LiveKit ile tam uyumlu çalışır.
 - Telefon görüşmeleri ve çok modlu veri alışverişini destekler.
@@ -32,19 +34,27 @@ npx skills add livekit/agent-skills --skill livekit-agents
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 LiveKit Agents kullanarak gerçek zamanlı sesli etkileşim kurabilen bir yapay zekâ ajanı geliştirmek istiyorum. Ajanın kullanıcıyı dinlemesi, konuşma sonlarını anlaması ve belirlenen araçları kullanarak yanıt vermesi için gerekli olan Agent, AgentSession ve JobContext yapısını kullanarak bir başlangıç şablonu oluştur. Sesli yanıtlar için gerekli olan STT, LLM ve TTS yapılandırmalarını nasıl yapacağımı ve bu ajan üzerinde nasıl fonksiyonel araçlar tanımlayabileceğimi açıkla.
 
-- **Kimin için:** Gerçek zamanlı sesli ve görüntülü etkileşimli uygulamalar geliştirmek isteyen Python yazılımcıları içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Gerçek zamanlı sesli ve görüntülü etkileşimli uygulamalar geliştirmek isteyen Python yazılımcıları içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/livekit/agents)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-STT Framework LLM Agent Artificial Intelligence
+
+- [STT](https://trescout.com/dictionary/stt/)
+- [Framework](https://trescout.com/dictionary/framework/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agents/

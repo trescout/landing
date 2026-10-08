@@ -7,12 +7,14 @@ Snipe-IT, bilişim teknolojileri varlıklarını ve yazılım lisanslarını tak
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 14.843 → 14.989, son sürüm v8.8.0 (30 Eylül 2026).
-- 20 Ağustos 2026: Yıldız 14.832 → 14.843, son sürüm v8.7.2 (19 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 14.798 → 14.832, son sürüm v8.7.1 (17 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 14.677 → 14.798, son sürüm v8.7.0 (11 Ağustos 2026).
+
+- **1 Ekim 2026:** Yıldız 14.843 → 14.989, son sürüm v8.8.0 (30 Eylül 2026).
+- **20 Ağustos 2026:** Yıldız 14.832 → 14.843, son sürüm v8.7.2 (19 Ağustos 2026).
+- **18 Ağustos 2026:** Yıldız 14.798 → 14.832, son sürüm v8.7.1 (17 Ağustos 2026).
+- **12 Ağustos 2026:** Yıldız 14.677 → 14.798, son sürüm v8.7.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - BT varlıklarının yaşam döngüsünü izleme
 - yazılım lisanslarını merkezi olarak takip etme
 - donanım zimmet kayıtlarını dijitalleştirme
@@ -33,17 +35,19 @@ docker pull grokability/snipe-it
 docker compose up -d
 ```
 
-Kaynak: Docker Hub · grokability/snipe-it
+**Kaynak:** Docker Hub · grokability/snipe-it
 
 ## Nasıl başlanır?
 
 Bu araç web tabanlı bir yazılımdır ve bir web sunucusu üzerinde çalıştırılması gerekir. Kurulum ve yapılandırma adımları için resmî Snipe-IT kurulum dokümanlarını ziyaret etmeniz ve sistem gereksinimlerini incelemeniz gerekmektedir.
+
 - [Resmî kaynak →](https://snipeitapp.com)
 
-- **Kimin için:** BT envanterini, donanım zimmetlerini ve yazılım lisanslarını düzenli bir şekilde takip etmek isteyen kurumlar ve sistem yöneticileri içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** BT envanterini, donanım zimmetlerini ve yazılım lisanslarını düzenli bir şekilde takip etmek isteyen kurumlar ve sistem yöneticileri içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/grokability/snipe-it)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

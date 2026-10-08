@@ -7,12 +7,14 @@ Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik olu�
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 53.088 → 55.783, son sürüm v0.5.0 (25 Nisan 2026).
-- 13 Eylül 2026: Yıldız 50.505 → 53.088, son sürüm v0.5.0 (25 Nisan 2026).
-- 16 Ağustos 2026: Yıldız 48.096 → 50.505, son sürüm v0.5.0 (25 Nisan 2026).
-- 2 Ağustos 2026: Yıldız 31.156 → 48.096, son sürüm v0.5.0 (25 Nisan 2026).
+
+- **27 Eylül 2026:** Yıldız 53.088 → 55.783, son sürüm v0.5.0 (25 Nisan 2026).
+- **13 Eylül 2026:** Yıldız 50.505 → 53.088, son sürüm v0.5.0 (25 Nisan 2026).
+- **16 Ağustos 2026:** Yıldız 48.096 → 50.505, son sürüm v0.5.0 (25 Nisan 2026).
+- **2 Ağustos 2026:** Yıldız 31.156 → 48.096, son sürüm v0.5.0 (25 Nisan 2026).
 
 ## Ne kazandırır?
+
 - Kendi sesinizi veya başkalarının sesini saniyeler içinde kopyalayın.
 - 23 farklı dilde doğal seslendirme ve dikte yapın.
 - Tüm ses verilerini yerel bilgisayarınızda tutarak gizliliği koruyun.
@@ -25,24 +27,31 @@ Voicebox, kullanıcıların ses kopyalama (voice cloning), dikte ve içerik olu�
 git clone https://github.com/jamiepine/voicebox.git
 cd voicebox
 
-just setup # creates Python venv, installs all deps
-just dev # starts backend + desktop app
+just setup   # creates Python venv, installs all deps
+just dev     # starts backend + desktop app
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Voicebox üzerinde ses kopyalama ve seslendirme süreçlerini yönetiyorum. Seçtiğim ses profili için en uygun TTS motorunu belirlememe yardımcı ol, metin içerisindeki duygusal vurguları nasıl ekleyeceğimi göster ve yerel yapay zekâ ajanımın sesli yanıt vermesi için gerekli olan voicebox.speak araç çağrısını nasıl yapılandıracağımı adım adım açıkla.
 
-- **Kimin için:** Kendi bilgisayarında gizlilikten ödün vermeden profesyonel ses kopyalama ve dikte araçlarını kullanmak isteyen içerik üreticileri ve geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Kendi bilgisayarında gizlilikten ödün vermeden profesyonel ses kopyalama ve dikte araçlarını kullanmak isteyen içerik üreticileri ve geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/jamiepine/voicebox)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Voice Cloning Cloning Text-to-Speech Artificial Intelligence
+
+- [Voice Cloning](https://trescout.com/dictionary/voice-cloning/)
+- [Cloning](https://trescout.com/dictionary/cloning/)
+- [Text-to-Speech](https://trescout.com/dictionary/text-to-speech/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/voicebox/

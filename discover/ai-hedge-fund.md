@@ -7,12 +7,14 @@ Yapay zekâ destekli yatırım fonu (AI hedge fund), finansal piyasa analizi ve 
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 63.763 → 63.836, son sürüm v2.5.0 (2 Ekim 2026).
-- 27 Eylül 2026: Yıldız 63.515 → 63.763, son sürüm v2.4.1 (25 Eylül 2026).
-- 19 Eylül 2026: Yıldız 62.721 → 63.515, son sürüm v2.3.0 (18 Eylül 2026).
-- 7 Ağustos 2026: Yıldız 62.684 → 62.721, son sürüm v2.2.0 (7 Ağustos 2026).
+
+- **3 Ekim 2026:** Yıldız 63.763 → 63.836, son sürüm v2.5.0 (2 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 63.515 → 63.763, son sürüm v2.4.1 (25 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 62.721 → 63.515, son sürüm v2.3.0 (18 Eylül 2026).
+- **7 Ağustos 2026:** Yıldız 62.684 → 62.721, son sürüm v2.2.0 (7 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Finansal piyasa verilerini analiz eden otonom ajanlar
 - Farklı yatırım ekollerini temsil eden modelleme
 - Geçmiş verilerle strateji test etme imkânı
@@ -41,19 +43,24 @@ poetry run python src/main.py --ticker AAPL,MSFT,NVDA
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bu araç, finansal piyasaları analiz etmek için Warren Buffett, Peter Lynch ve Michael Burry gibi ünlü yatırımcıların stratejilerini taklit eden otonom ajanlar kullanır. Yapay zekâ ajanlarına belirli hisse senedi sembollerini (örneğin AAPL, MSFT) vererek, bu ajanların piyasa verilerini, temel göstergeleri ve teknik analizleri nasıl değerlendirdiğini ve bir yatırım fonu mantığıyla nasıl karar ürettiklerini inceleyebilirsin.
 
-- **Kimin için:** Finansal piyasalara ilgi duyan ve yapay zekâ destekli yatırım stratejilerinin nasıl modellenebileceğini öğrenmek isteyen araştırmacılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Finansal piyasalara ilgi duyan ve yapay zekâ destekli yatırım stratejilerinin nasıl modellenebileceğini öğrenmek isteyen araştırmacılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/virattt/ai-hedge-fund)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Hedge Fund Artificial Intelligence
+
+- [AI Hedge Fund](https://trescout.com/dictionary/ai-hedge-fund/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-hedge-fund/
