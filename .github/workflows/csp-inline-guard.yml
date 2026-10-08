@@ -87,6 +87,9 @@ jobs:
       # 2026-08-06'da İngilizce sayfadan aydınlatma yapılmadan kayıt alındı.
       - name: Aydınlatma ve rıza kontrolü
         run: python3 scripts/check-consent-consistency.py
+      # Rapor kapaklarında yapay zekâ şeffaflık beyanı (AB YZ Yasası m.50).
+      - name: YZ şeffaflık beyanı kontrolü
+        run: python3 scripts/check-ai-disclosure.py
       # Kayıt formu bilgilendirme + onay bloğu tek kaynaktan (KVKK 2026/347, #210).
       - name: Rıza formu kanonik blok kontrolü
         run: python3 scripts/riza_formu.py --check

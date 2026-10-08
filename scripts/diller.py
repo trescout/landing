@@ -216,6 +216,8 @@ DILLER = {
         "rapor_cekim_not": "Sources are snapshots · this report reflects the moment above, not the whole calendar day.",
         "rapor_snapshot_notu": "Report counts and item metadata are a snapshot from the capture time above. Discovery pages may show newer live source values.",
         "rapor_dil_adi": "English",
+        # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
+        "rapor_yz": 'The summaries and translations in this report are prepared with AI. Before making important decisions, please check the source through the link provided with each item.',
         "rapor_not": ("Full report PDF: every item with its summary, source links and the glossary of "
                       "terms. Translated from the original Turkish edition."),
         "rapor_cta": ("<strong>Get daily technology reports in your inbox.</strong> TreScout scans, "
@@ -394,6 +396,8 @@ DILLER = {
         "rapor_cekim_not": "Les sources sont des instantanés · ce rapport reflète le moment ci-dessus, pas la journée entière.",
         "rapor_snapshot_notu": "Les nombres et métadonnées de ce rapport sont l’instantané du moment indiqué ci-dessus. Les pages Découverte peuvent afficher des valeurs sources en direct plus récentes.",
         "rapor_dil_adi": "français",
+        # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
+        "rapor_yz": "Les résumés et traductions de ce rapport sont rédigés à l'aide de l'intelligence artificielle. Avant toute décision importante, nous vous recommandons de vérifier la source via le lien indiqué pour chaque élément.",
         "rapor_not": ("Le PDF complet : chaque élément avec son résumé, ses liens sources et le glossaire "
                       "des termes. Traduit de l'édition turque originale."),
         "rapor_cta": ("<strong>Recevez le rapport quotidien dans votre boîte mail.</strong> TreScout "
@@ -614,6 +618,8 @@ DILLER = {
         "rapor_cekim_not": "As fontes são instantâneos · este relatório reflete o momento acima, não o dia inteiro.",
         "rapor_snapshot_notu": "As contagens e os metadados dos itens deste relatório são o instantâneo do momento indicado acima. As páginas de Descoberta podem mostrar valores de fontes ao vivo mais recentes.",
         "rapor_dil_adi": "português",
+        # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
+        "rapor_yz": 'Os resumos e as traduções deste relatório são preparados com inteligência artificial. Antes de tomar decisões importantes, recomendamos conferir a fonte pelo link indicado em cada item.',
         "rapor_not": ("PDF completo: cada item com seu resumo, os links das fontes e o glossário de termos. "
                       "Traduzido da edição original em turco."),
         "rapor_cta": ("<strong>Receba o relatório diário na sua caixa de entrada.</strong> A TreScout busca, "
@@ -805,6 +811,8 @@ DILLER = {
         "rapor_cekim_not": "Las fuentes son instantáneas · este informe refleja el momento indicado, no el día entero.",
         "rapor_snapshot_notu": "Los recuentos y metadatos de los elementos de este informe corresponden al instante indicado arriba. Las páginas de Descubrimiento pueden mostrar valores de fuentes en vivo más recientes.",
         "rapor_dil_adi": "español",
+        # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
+        "rapor_yz": 'Los resúmenes y las traducciones de este informe se preparan con inteligencia artificial. Antes de tomar decisiones importantes, le recomendamos verificar la fuente mediante el enlace que acompaña a cada elemento.',
         "rapor_not": ("PDF completo: cada elemento con su resumen, los enlaces de las fuentes y el glosario "
                       "de términos. Traducido de la edición original en turco."),
         "rapor_cta": ("<strong>Reciba el informe diario en su bandeja de entrada.</strong> TreScout "
@@ -997,6 +1005,8 @@ DILLER = {
         "rapor_cekim_not": "Die Quellen sind Momentaufnahmen · dieser Bericht gibt den oben genannten Zeitpunkt wieder, nicht den ganzen Kalendertag.",
         "rapor_snapshot_notu": "Die Zählungen und Metadaten dieses Berichts sind eine Momentaufnahme des oben genannten Zeitpunkts. Die Entdeckungsseiten können neuere Live-Werte der Quellen anzeigen.",
         "rapor_dil_adi": "Deutsch",
+        # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
+        "rapor_yz": 'Die Zusammenfassungen und Übersetzungen in diesem Bericht werden mit künstlicher Intelligenz erstellt. Bevor Sie wichtige Entscheidungen treffen, empfehlen wir, die Quelle über den Link bei jedem Eintrag zu prüfen.',
         "rapor_not": ("Vollständiges PDF: jeder Eintrag mit Zusammenfassung, die Links zu den Quellen und "
                       "das Glossar der Begriffe. Übersetzt aus der türkischen Originalausgabe."),
         "rapor_cta": ("<strong>Erhalten Sie den Tagesbericht in Ihr Postfach.</strong> TreScout "
