@@ -29,12 +29,11 @@
     en: {
     zaten: '<strong>You are already on the list.</strong> We will let you know when we go live.',
     aldik: '<strong>Got it.</strong> We will let you know when we go live. Have a good week.',
-    onay: 'Please accept the privacy notice to continue.',
+    onay: 'Please tick the consent box to continue.',
     gonderiliyor: 'Sending...',
     genel: 'Something went wrong. Please try again.',
     baglanti: 'Connection error. Please try again.',
     metinYolu: '/en/privacy.html',
-          onayaDokun: 'Tap the button below to give consent',
       telemetryLabel: 'Optional: I agree to anonymous product usage measurement.',
       telemetrySaved: 'Your telemetry preference has been saved.'
 
@@ -42,60 +41,55 @@
     fr: {
       zaten: '<strong>Vous êtes déjà sur la liste.</strong> Nous vous préviendrons au lancement.',
       aldik: '<strong>C\'est noté.</strong> Nous vous préviendrons au lancement. Bonne semaine.',
-      onay: 'Veuillez accepter la notice de confidentialité pour continuer.',
+      onay: 'Veuillez cocher la case de consentement pour continuer.',
       gonderiliyor: 'Envoi...',
       genel: 'Une erreur est survenue. Veuillez réessayer.',
       baglanti: 'Erreur de connexion. Veuillez réessayer.',
       metinYolu: '/fr/privacy.html',
-      onayaDokun: 'Touchez le bouton ci-dessous pour donner votre consentement',
       telemetryLabel: 'Facultatif : j’accepte la mesure anonyme de l’utilisation du produit.',
       telemetrySaved: 'Votre préférence de télémétrie a été enregistrée.'
     },
     pt: {
       zaten: '<strong>Você já está na lista.</strong> Avisaremos quando entrarmos no ar.',
       aldik: '<strong>Anotado.</strong> Avisaremos quando entrarmos no ar. Boa semana.',
-      onay: 'Aceite o aviso de privacidade para continuar.',
+      onay: 'Marque a caixa de consentimento para continuar.',
       gonderiliyor: 'Enviando...',
       genel: 'Algo deu errado. Tente novamente.',
       baglanti: 'Erro de conexão. Tente novamente.',
       metinYolu: '/pt/privacy.html',
-      onayaDokun: 'Toque no botão abaixo para dar o seu consentimento',
       telemetryLabel: 'Opcional: concordo com a medição anônima do uso do produto.',
       telemetrySaved: 'Sua preferência de telemetria foi salva.'
     },
     es: {
       zaten: '<strong>Ya está en la lista.</strong> Le avisaremos cuando estemos en marcha.',
       aldik: '<strong>Anotado.</strong> Le avisaremos cuando estemos en marcha. Buena semana.',
-      onay: 'Acepte el aviso de privacidad para continuar.',
+      onay: 'Marque la casilla de consentimiento para continuar.',
       gonderiliyor: 'Enviando...',
       genel: 'Algo ha fallado. Inténtelo de nuevo.',
       baglanti: 'Error de conexión. Inténtelo de nuevo.',
       metinYolu: '/es/privacy.html',
-      onayaDokun: 'Toque el botón de abajo para dar su consentimiento',
       telemetryLabel: 'Opcional: acepto la medición anónima del uso del producto.',
       telemetrySaved: 'Se guardó su preferencia de telemetría.'
     },
     de: {
       zaten: '<strong>Sie stehen bereits auf der Liste.</strong> Wir melden uns, sobald wir starten.',
       aldik: '<strong>Notiert.</strong> Wir melden uns, sobald wir starten. Eine gute Woche.',
-      onay: 'Stimmen Sie dem Datenschutzhinweis zu, um fortzufahren.',
+      onay: 'Bitte setzen Sie das Häkchen bei der Einwilligung, um fortzufahren.',
       gonderiliyor: 'Wird gesendet...',
       genel: 'Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.',
       baglanti: 'Verbindungsfehler. Bitte versuchen Sie es erneut.',
       metinYolu: '/de/privacy.html',
-      onayaDokun: 'Tippen Sie unten auf die Schaltfläche, um zuzustimmen',
       telemetryLabel: 'Optional: Ich stimme der anonymen Messung der Produktnutzung zu.',
       telemetrySaved: 'Ihre Telemetrie-Einstellung wurde gespeichert.'
     },
     tr: {
       zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',
-    onay: 'Devam etmek için Aydınlatma Metni onayı gerekli.',
+    onay: 'Devam etmek için lütfen onay kutusunu işaretleyin.',
     gonderiliyor: 'Gönderiliyor...',
     genel: 'Bir şeyler ters gitti. Lütfen tekrar deneyin.',
       baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.',
       metinYolu: '/privacy.html',
-      onayaDokun: 'Aşağıdaki butona dokunarak onaylayın',
       telemetryLabel: 'İsteğe bağlı: anonim ürün kullanımını ölçmemize izin veriyorum.',
       telemetrySaved: 'Telemetry tercihiniz kaydedildi.'
     }
@@ -229,7 +223,7 @@
   
 
 
-/* ---------- aydınlatma metni modal · scroll-to-bottom gate ---------- */
+/* ---------- aydınlatma metni modal · bilgilendirme + analitik tercihi ---------- */
     (function () {
       var modal = document.getElementById('privacy-modal');
       if (!modal) return;
@@ -268,7 +262,6 @@
         modalOptions.appendChild(telemetryStatus);
         telemetryCheckbox = telemetryLabel.querySelector('.privacy-telemetry-checkbox');
       }
-      var hasRead = false;
       var activeCheckbox = null;
       var activeHint = null;
       var lastFocus = null;
@@ -293,24 +286,11 @@
         });
       }
 
-      function setRead() {
-        if (hasRead) return;
-        hasRead = true;
-        // "Okundu" iddiası YOK · sadece butonu enable et · kullanıcı eksplisit onay verecek
-        confirmBtn.disabled = false;
-        statusEl.classList.add('read');
-        statusText.textContent = T.onayaDokun;
-      }
-
       function openModal(checkbox, hint) {
         // Guard · zaten açıksa tekrar çalışma (double-fire koruması)
         if (modal.getAttribute('aria-hidden') === 'false') return;
         activeCheckbox = checkbox || null;
         activeHint = hint || null;
-        hasRead = false;
-        confirmBtn.disabled = true;
-        statusEl.classList.remove('read');
-        statusText.textContent = '';
         if (telemetryCheckbox && window.TreScoutTelemetry && typeof window.TreScoutTelemetry.getConsent === 'function') {
           telemetryCheckbox.checked = window.TreScoutTelemetry.getConsent() === 'granted';
         }
@@ -346,15 +326,6 @@
         }
       }
 
-      // Iframe'den "okundu" mesajını dinle
-      window.addEventListener('message', function (e) {
-        if (e.origin !== window.location.origin) return;
-        if (e.source !== iframe.contentWindow) return;
-        if (e.data && e.data.type === 'trescout-privacy-read') {
-          setRead();
-        }
-      });
-
       // Form içindeki Aydınlatma Metni link'leri modal açar
       links.forEach(function (link) {
         link.addEventListener('click', function (e) {
@@ -367,14 +338,11 @@
       });
 
       closeX.addEventListener('click', closeModal);
+      // "Kaydet ve kapat" · yalnız isteğe bağlı analitik tercihini kaydeder.
+      // KVKK 2026/347 (#210): aydınlatma onaylatılmaz; kayıt formundaki onay
+      // kutusu bu pencereden bağımsızdır, burada işaretlenmez.
       confirmBtn.addEventListener('click', function () {
-        // "Okudum, onaylıyorum" · eksplisit onay · checkbox aktif + işaretli + hint gizle
-        if (hasRead && activeCheckbox) {
-          activeCheckbox.removeAttribute('data-needs-consent');
-          activeCheckbox.checked = true;
-          if (activeHint) activeHint.style.display = 'none';
-        }
-        if (hasRead && telemetryCheckbox && window.TreScoutTelemetry && typeof window.TreScoutTelemetry.setConsent === 'function') {
+        if (telemetryCheckbox && window.TreScoutTelemetry && typeof window.TreScoutTelemetry.setConsent === 'function') {
           window.TreScoutTelemetry.setConsent(telemetryCheckbox.checked ? 'granted' : 'denied');
           if (telemetryStatus) telemetryStatus.textContent = T.telemetrySaved;
         }
@@ -409,28 +377,6 @@
           e.preventDefault();
           first.focus();
         }
-      });
-
-      // Consent gerektiren durumda: her formun kendi label'ı → aynı formun modal'ı
-      // Böylece hero ve final CTA arasında ilk checkbox'a yanlışlıkla yazılmaz.
-      document.querySelectorAll('input[name="consent"]').forEach(function (checkbox) {
-        var consentLabel = checkbox.closest('.form-consent');
-        var hint = consentLabel ? consentLabel.querySelector('.form-consent-hint') : null;
-        if (!consentLabel) return;
-
-        consentLabel.addEventListener('click', function (e) {
-          if (!checkbox.hasAttribute('data-needs-consent')) return;
-          // Aydınlatma Metni link'i kendi handler'ında açıyor · skip
-          if (e.target.closest('a[data-privacy-modal]')) return;
-          e.preventDefault();
-          if (hint) {
-            hint.classList.remove('shake');
-            void hint.offsetWidth;
-            hint.classList.add('shake');
-            setTimeout(function () { hint.classList.remove('shake'); }, 700);
-          }
-          openModal(checkbox, hint);
-        });
       });
 
       // Defensive cleanup · sayfa görünür olduğunda stuck scroll lock'u temizle

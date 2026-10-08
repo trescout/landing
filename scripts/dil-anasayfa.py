@@ -20,6 +20,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, dil_dugmeleri_yaz  # noqa: E402
+from riza_formu import blok as riza_blok  # noqa: E402 · kayıt formu bilgilendirme + onay
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = os.environ.get("SITE_URL", "https://trescout.com")
@@ -60,19 +61,15 @@ kartlar = "".join(
     for ad, yol, aciklama in D["ana_kartlar"]
 )
 
-# Onay kurgusu ana sayfada İngilizcedekiyle AYNI: onay kutusu ancak aydınlatma
-# metni sonuna kadar okunduktan sonra işaretlenebiliyor (index.js scroll-gate
-# modal'ı). Alt sayfalardaki sade "yeni sekmede aç" biçimi burada kullanılmıyor ·
-# ilk kaydın aydınlatma eksiğiyle alındığı olay (2026-08-06) tam bu formda oldu.
+# Kayıt formu bilgilendirme + onay bloğu tek kaynaktan (riza_formu.py, #210).
+# KVKK 2026/347: aydınlatma onaylatılmaz; bağlantı ana sayfadaki pencereyi
+# açar ama onay kutusu ondan bağımsızdır.
 form = (
     f'<form class="cta-form disc-cta-form js-subscribe" data-source="home-{LANG}" action="/api/subscribe" method="post">'
     f'<div class="form-row"><input class="input" type="email" name="email" '
     f'placeholder="{D["form_yer_tutucu"]}" autocomplete="email" required>'
     f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
-    f'<label class="form-consent">'
-    f'<input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>'
-    f'<span>{D["ana_onay"].format(gizlilik=D["gizlilik_yolu"])}</span>'
-    f'<span id="consent-hint" class="form-consent-hint">{D["onay_ipucu"]}</span></label>'
+    f'{riza_blok(LANG, modal=True)}'
     f'<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
     f"</form>"
 )
@@ -87,11 +84,7 @@ modal = f'''<div class="privacy-modal" id="privacy-modal" role="dialog" aria-mod
         <iframe class="privacy-modal-iframe" src="about:blank" title="{D["modal_baslik"]}"></iframe>
       </div>
       <div class="privacy-modal-foot">
-        <span class="privacy-modal-status" aria-live="polite">
-          <span class="pulse-arrow" aria-hidden="true">↓</span>
-          <span class="privacy-modal-status-text">{D["modal_kaydir"]}</span>
-        </span>
-        <button type="button" class="privacy-modal-confirm" disabled>{D["modal_onayla"]}</button>
+        <button type="button" class="privacy-modal-confirm">{D["modal_onayla"]}</button>
       </div>
     </div>
   </div>'''

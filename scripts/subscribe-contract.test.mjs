@@ -31,14 +31,12 @@ async function responseFor(language, method = 'POST') {
 }
 
 test('localized validation errors use a stable code for every supported language', async () => {
-  const expected = {
-    tr: 'Aydınlatma Metni onayı gerekli',
-    en: 'Please accept the privacy notice to continue',
-    fr: 'Veuillez accepter la notice de confidentialité pour continuer',
-    pt: 'Aceite o aviso de privacidade para continuar',
-    es: 'Acepte el aviso de privacidad para continuar',
-    de: 'Stimmen Sie dem Datenschutzhinweis zu, um fortzufahren',
-  };
+  // Beklenen metinler tek kaynaktan (riza-metni.json, #210): API ile form
+  // aynı mesajı göstermeli.
+  const riza = JSON.parse(await readFile(new URL('./riza-metni.json', import.meta.url), 'utf8'));
+  const expected = Object.fromEntries(
+    Object.entries(riza).filter(([k]) => !k.startsWith('_')).map(([k, v]) => [k, v.onay_hata]),
+  );
 
   for (const [language, message] of Object.entries(expected)) {
     const { response, body } = await responseFor(language);

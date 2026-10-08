@@ -14,7 +14,8 @@ diye kontrol otomatikleşti.
 
 Kontrol edilenler · her `form.js-subscribe` için:
   1. zorunlu onay kutusu (input[name=consent] required)
-  2. onay metninde aydınlatma metnine bağlantı
+  2. aydınlatma metnine bağlantı formdaki bilgilendirme cümlesinde (form-notice),
+     onay kutusunun etiketinde DEĞİL · KVKK 2026/347 ilke kararı (2026-10-08, #210)
   3. bağlantı SAYFANIN DİLİNDEKİ metne gidiyor (diller.py · gizlilik_yolu)
   4. bağlantının hedefi diskte var
   5. honeypot alanı (bot koruması) duruyor
@@ -75,8 +76,15 @@ for p in sorted(glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True)):
             sorunlar.append((etiket, "zorunlu onay kutusu yok"))
         baglantilar = re.findall(r'<a[^>]*href="([^"]+)"', f)
         gizlilik = [b for b in baglantilar if "privacy" in b]
+        # KVKK 2026/347 (#210): aydınlatma onaylatılmaz. Bağlantı formdaki
+        # bilgilendirme cümlesinde olmalı, onay kutusunun etiketinde OLMAMALI.
+        onay_etiketi = re.search(r'<label class="form-consent">([\s\S]*?)</label>', f)
+        if onay_etiketi and re.search(r'<a\b', onay_etiketi.group(1)):
+            sorunlar.append((etiket, "onay kutusunun etiketinde bağlantı var · aydınlatma ile onay ayrı olmalı (2026/347)"))
+        if not re.search(r'<p class="form-notice">[\s\S]*?privacy[\s\S]*?</p>', f):
+            sorunlar.append((etiket, "formda onay kutusunun dışında aydınlatma bilgilendirmesi (form-notice) yok"))
         if not gizlilik:
-            sorunlar.append((etiket, "onay metninde aydınlatma metni bağlantısı yok"))
+            sorunlar.append((etiket, "formda aydınlatma metni bağlantısı yok"))
         elif gizlilik[0] != beklenen:
             sorunlar.append((etiket, f"aydınlatma bağlantısı {gizlilik[0]} · {dil_kodu} için {beklenen} olmalı"))
         elif not os.path.exists(os.path.join(ROOT, beklenen.lstrip("/"))):

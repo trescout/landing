@@ -474,6 +474,12 @@ jobs:
       # kabukla yazdığı için normalize'dan önce binlerce sayfa değişmiş görünüyor,
       # normalize edici sonra geri alıyordu. Sonuç: commit'te ~380 gerçek değişiklik,
       # sitemap'te ~7.200 lastmod yenilemesi (2026-10-02). Google lastmod'a güvenmeyi bırakıyordu.
+      # Kayıt formu bilgilendirme + onay bloğu tek kaynakta (riza-metni.json).
+      # Üreticiler zaten kanonik bloğu basıyor; bu adım elle düzenlenmiş ya da
+      # eski kalıptan kalan sayfaları da kanoniğe çeker (KVKK 2026/347, #210).
+      - name: Rıza formu düzeltici
+        run: python3 scripts/riza_formu.py
+
       - name: Sitemap senkronu
         run: python3 scripts/sitemap-sync.py
 
@@ -495,6 +501,8 @@ jobs:
       # 2026-08-06'da İngilizce sayfadan aydınlatma yapılmadan kayıt alındı.
       - name: Aydınlatma ve rıza kontrolü
         run: python3 scripts/check-consent-consistency.py
+      - name: Rıza formu kanonik blok kontrolü
+        run: python3 scripts/riza_formu.py --check
 
       - name: Sayfa paritesi (diller arası yapı)
         run: python3 scripts/check-sayfa-paritesi.py

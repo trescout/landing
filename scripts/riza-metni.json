@@ -1,0 +1,40 @@
+{
+  "_aciklama": "Kayıt formu bilgilendirme ve onay metinleri · TEK KAYNAK (2026-10-08, #210). KVKK 2026/347 ilke kararı: aydınlatma ile açık rıza ayrı; aydınlatma onaylatılmaz. Bilgilendirme cümlesi onay kutusunun DIŞINDA, onay cümlesi belirli bir amaca yönelik ve Aydınlatma Metni'ne atıf yapmaz. Python üreticiler riza_formu.py, JS üreticiler bu dosyayı okur; scripts/riza_formu.py --check CI'da denetler.",
+  "tr": {
+    "bilgi": "Kişisel verilerinizin nasıl işlendiğini {baglanti}'nden inceleyebilirsiniz.",
+    "baglanti_metni": "Aydınlatma Metni",
+    "onay": "Erken erişim daveti ve TreScout lansman duyuruları için e-posta adresime ileti gönderilmesine onay veriyorum. Onayımı dilediğim zaman geri alabilirim.",
+    "onay_hata": "Devam etmek için lütfen onay kutusunu işaretleyin."
+  },
+  "en": {
+    "bilgi": "Read how we process your personal data in our {baglanti}.",
+    "baglanti_metni": "Privacy Notice",
+    "onay": "I agree to receive emails about my early access invitation and the TreScout launch. I can withdraw this consent at any time.",
+    "onay_hata": "Please tick the consent box to continue."
+  },
+  "fr": {
+    "bilgi": "Découvrez comment nous traitons vos données personnelles dans notre {baglanti}.",
+    "baglanti_metni": "notice de confidentialité",
+    "onay": "J'accepte de recevoir des e-mails concernant mon invitation à l'accès anticipé et le lancement de TreScout. Je peux retirer ce consentement à tout moment.",
+    "onay_hata": "Veuillez cocher la case de consentement pour continuer."
+  },
+  "pt": {
+    "bilgi": "Saiba como tratamos seus dados pessoais no nosso {baglanti}.",
+    "baglanti_metni": "aviso de privacidade",
+    "onay": "Concordo em receber e-mails sobre meu convite de acesso antecipado e o lançamento do TreScout. Posso retirar este consentimento a qualquer momento.",
+    "onay_hata": "Marque a caixa de consentimento para continuar."
+  },
+  "es": {
+    "bilgi": "Consulte cómo tratamos sus datos personales en nuestro {baglanti}.",
+    "baglanti_metni": "aviso de privacidad",
+    "onay": "Acepto recibir correos sobre mi invitación al acceso anticipado y el lanzamiento de TreScout. Puedo retirar este consentimiento en cualquier momento.",
+    "onay_hata": "Marque la casilla de consentimiento para continuar."
+  },
+  "de": {
+    "bilgi": "Wie wir Ihre personenbezogenen Daten verarbeiten, lesen Sie in unserem {baglanti}.",
+    "baglanti_metni": "Datenschutzhinweis",
+    "onay": "Ich willige ein, E-Mails zu meiner Einladung zum frühen Zugang und zum Start von TreScout zu erhalten. Ich kann diese Einwilligung jederzeit widerrufen.",
+    "onay_hata": "Bitte setzen Sie das Häkchen bei der Einwilligung, um fortzufahren."
+  },
+  "_gemini": "Türkçe metinler 2026-10-08'de Gemini CLI'dan geçti (AGENTS.md §2)."
+}
