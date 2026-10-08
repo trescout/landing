@@ -7,12 +7,14 @@ FluidVoice, macOS işletim sistemi üzerinde tamamen çevrim dışı çalışan 
 - GitHub Trending · 2026-06-29
 
 ## Güncelleme
-- 10 Eylül 2026: Yıldız 11.318 → 11.369, son sürüm v1.6.9 (18 Ağustos 2026).
-- 8 Eylül 2026: Yıldız 10.618 → 11.318, son sürüm windows-v0.0.10 (8 Eylül 2026).
-- 18 Ağustos 2026: Yıldız 10.516 → 10.618, son sürüm v1.6.9 (18 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 9.494 → 10.516, son sürüm v1.6.8 (11 Ağustos 2026).
+
+- **10 Eylül 2026:** Yıldız 11.318 → 11.369, son sürüm v1.6.9 (18 Ağustos 2026).
+- **8 Eylül 2026:** Yıldız 10.618 → 11.318, son sürüm windows-v0.0.10 (8 Eylül 2026).
+- **18 Ağustos 2026:** Yıldız 10.516 → 10.618, son sürüm v1.6.9 (18 Ağustos 2026).
+- **17 Ağustos 2026:** Yıldız 9.494 → 10.516, son sürüm v1.6.8 (11 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Tamamen yerel ve çevrim dışı ses dönüştürme
 - Her uygulamada metin yazma ve düzenleme
 - Sesli komutlarla sistem kontrolü ve otomasyon
@@ -26,19 +28,24 @@ brew install --cask fluidvoice
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 FluidVoice uygulamasını kullanarak sesli dikte deneyimimi optimize etmek istiyorum. Uygulamanın sunduğu yerel yapay zekâ destekli metin düzenleme, bağlama duyarlı büyük harf kullanımı ve akıllı biçimlendirme özelliklerini en verimli şekilde nasıl yapılandırabilirim? Ayrıca, farklı uygulamalar için özelleştirilmiş istem setleri oluşturarak dikte performansımı nasıl artırabilirim?
 
-- **Kimin için:** Verilerinin gizliliğini koruyarak macOS üzerinde hızlı ve yerel bir sesli dikte aracı kullanmak isteyen herkes için uygundur. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Verilerinin gizliliğini koruyarak macOS üzerinde hızlı ve yerel bir sesli dikte aracı kullanmak isteyen herkes için uygundur.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/altic-dev/FluidVoice)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Voice to Text Artificial Intelligence
+
+- [Voice to Text](https://trescout.com/dictionary/voice-to-text/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fluidvoice/

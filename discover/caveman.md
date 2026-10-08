@@ -7,12 +7,14 @@ Caveman, Claude Code için geliştirilen ve yapay zekâ modelinin dil kullanım�
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
-- 4 Ekim 2026: Yıldız 108.616 → 109.692, son sürüm v3.1.0 (4 Ekim 2026).
-- 1 Ekim 2026: Yıldız 105.664 → 108.616, son sürüm v3.0.0 (30 Eylül 2026).
-- 15 Eylül 2026: Yıldız 103.279 → 105.664, son sürüm v2.7.0 (15 Eylül 2026).
-- 4 Eylül 2026: Yıldız 102.818 → 103.279, son sürüm bin-v1.1.6 (4 Eylül 2026).
+
+- **4 Ekim 2026:** Yıldız 108.616 → 109.692, son sürüm v3.1.0 (4 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 105.664 → 108.616, son sürüm v3.0.0 (30 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 103.279 → 105.664, son sürüm v2.7.0 (15 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 102.818 → 103.279, son sürüm bin-v1.1.6 (4 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâ yanıtlarında %65'e varan belirteç tasarrufu sağlar.
 - Teknik doğruluktan ödün vermeden gereksiz kelimeleri eler.
 - İşlem maliyetlerini düşürür ve yanıt hızını artırır.
@@ -40,19 +42,24 @@ irm https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.ps1 | i
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bundan sonra yanıtlarını Caveman modunda ver. Gereksiz dolgu kelimelerini çıkar, sadece öz bilgiyi ve teknik detayları koru. Yanıtlarını kısa, öz ve parçalı cümlelerle oluştur; ancak kod bloklarını, komutları ve hata mesajlarını tam ve kesin haliyle aktarmaya devam et.
 
-- **Kimin için:** Yapay zekâ asistanlarını yoğun olarak kullanan ve işlem maliyetlerini düşürmek isteyen geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ asistanlarını yoğun olarak kullanan ve işlem maliyetlerini düşürmek isteyen geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/JuliusBrussee/caveman)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Token Artificial Intelligence
+
+- [Token](https://trescout.com/dictionary/token/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/caveman/

@@ -7,11 +7,13 @@ Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yönet
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 5.334 → 5.361, son sürüm maven-3.10.0 (1 Ekim 2026).
-- 31 Ağustos 2026: Yıldız 5.292 → 5.334, son sürüm maven-3.9.16 (17 Mayıs 2026).
-- 2 Ağustos 2026: Yıldız 5.250 → 5.292, son sürüm maven-3.10.0-rc-1 (13 Temmuz 2026).
+
+- **1 Ekim 2026:** Yıldız 5.334 → 5.361, son sürüm maven-3.10.0 (1 Ekim 2026).
+- **31 Ağustos 2026:** Yıldız 5.292 → 5.334, son sürüm maven-3.9.16 (17 Mayıs 2026).
+- **2 Ağustos 2026:** Yıldız 5.250 → 5.292, son sürüm maven-3.10.0-rc-1 (13 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Yazılım oluşturma süreçlerini standartlaştırır
 - Proje nesne modeli ile merkezi yönetim sağlar
 - Raporlama ve dokümantasyon süreçlerini yönetir
@@ -38,17 +40,19 @@ docker pull maven
 mvn package
 ```
 
-Kaynak: Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı
+**Kaynak:** Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı
 
 ## Nasıl başlanır?
 
 Apache Maven kullanmaya başlamak için resmî Apache Maven ana sayfasını ziyaret edebilir ve indirme sayfasından güncel sürümü temin edebilirsiniz. Kurulum ve kullanım detayları için yine aynı sayfadaki dokümantasyon bölümünü incelemeniz önerilir.
+
 - [Resmî kaynak →](https://maven.apache.org/ref/current)
 
-- **Kimin için:** Java tabanlı yazılım projelerinde geliştirme, derleme ve yönetim süreçlerini standart bir yapıya oturtmak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Java tabanlı yazılım projelerinde geliştirme, derleme ve yönetim süreçlerini standart bir yapıya oturtmak isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/apache/maven)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

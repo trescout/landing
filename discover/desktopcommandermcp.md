@@ -7,12 +7,14 @@ DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 9.633 → 9.830, son sürüm v0.2.52 (29 Eylül 2026).
-- 18 Eylül 2026: Yıldız 9.521 → 9.633, son sürüm v0.2.51 (17 Eylül 2026).
-- 10 Eylül 2026: Yıldız 9.472 → 9.521, son sürüm v0.2.50 (9 Eylül 2026).
-- 3 Eylül 2026: Yıldız 9.072 → 9.472, son sürüm v0.2.48 (2 Eylül 2026).
+
+- **29 Eylül 2026:** Yıldız 9.633 → 9.830, son sürüm v0.2.52 (29 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 9.521 → 9.633, son sürüm v0.2.51 (17 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 9.472 → 9.521, son sürüm v0.2.50 (9 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 9.072 → 9.472, son sürüm v0.2.48 (2 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Doğrudan uçbirim komutları çalıştırın
 - Dosya sisteminde arama yapıp düzenleyin
 - Excel, PDF ve DOCX dosyalarını yönetin
@@ -32,19 +34,28 @@ curl -fsSL https://raw.githubusercontent.com/wonderwhy-er/DesktopCommanderMCP/re
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bilgisayarımda dosya yönetimi, terminal komutları ve belge düzenleme işlemlerini yapabilmen için Desktop Commander MCP araçlarını kullanmanı istiyorum. Lütfen dosya sisteminde arama yapma, terminal üzerinden süreçleri yönetme ve ihtiyaç duyduğumda Excel veya PDF gibi belgeler üzerinde gerekli değişiklikleri gerçekleştirme yeteneklerini aktif ederek bana yardımcı ol.
 
-- **Kimin için:** Yapay zekâ modeline yerel bilgisayar erişimi vererek dosya ve süreç yönetimini otomatize etmek isteyen kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ modeline yerel bilgisayar erişimi vererek dosya ve süreç yönetimini otomatize etmek isteyen kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Control Diff File Editing Model Context Protocol Model Context Protocol Context PDF
+
+- [Terminal Control](https://trescout.com/dictionary/terminal-control/)
+- [Diff File Editing](https://trescout.com/dictionary/diff-file-editing/)
+- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol-mcp/)
+- [Context](https://trescout.com/dictionary/context/)
+- [PDF](https://trescout.com/dictionary/pdf/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/desktopcommandermcp/

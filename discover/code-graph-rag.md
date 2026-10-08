@@ -7,12 +7,14 @@ Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anla
 - GitHub Trending · 2026-08-10
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 5.180 → 5.189, son sürüm v0.1.38 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 5.146 → 5.180, son sürüm v0.0.996 (26 Eylül 2026).
-- 17 Eylül 2026: Yıldız 5.113 → 5.146, son sürüm v0.0.945 (16 Eylül 2026).
-- 10 Eylül 2026: Yıldız 4.924 → 5.113, son sürüm v0.0.895 (9 Eylül 2026).
+
+- **29 Eylül 2026:** Yıldız 5.180 → 5.189, son sürüm v0.1.38 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 5.146 → 5.180, son sürüm v0.0.996 (26 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 5.113 → 5.146, son sürüm v0.0.945 (16 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 4.924 → 5.113, son sürüm v0.0.895 (9 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Kod tabanını bilgi grafiğine dönüştürerek karmaşık ilişkileri görün
 - Doğal dilde sorular sorarak kod yapısı hakkında yanıtlar alın
 - Yapısal arama ve düzenleme araçlarıyla kod üzerinde hassas değişiklikler yapın
@@ -46,19 +48,26 @@ cgr start --repo-path /path/to/repo --update-graph
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Code-Graph-RAG aracını kullanarak kod depomu analiz et. Kod tabanındaki fonksiyonlar, sınıflar ve modüller arasındaki ilişkileri kullanarak sorduğum sorulara yanıt ver. Kod üzerinde yapmam gereken değişiklikleri veya optimizasyonları, aracın sağladığı yapısal analiz yeteneklerini kullanarak öner.
 
-- **Kimin için:** Büyük ve karmaşık kod depolarındaki yapısal ilişkileri anlamak, sorgulamak ve yapay zekâ yardımıyla güvenli değişiklikler yapmak isteyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Büyük ve karmaşık kod depolarındaki yapısal ilişkileri anlamak, sorgulamak ve yapay zekâ yardımıyla güvenli değişiklikler yapmak isteyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/vitali87/code-graph-rag)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Monorepo Graph RAG RAG Artificial Intelligence
+
+- [Monorepo](https://trescout.com/dictionary/monorepo/)
+- [Graph RAG](https://trescout.com/dictionary/graph-rag/)
+- [RAG](https://trescout.com/dictionary/rag/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/code-graph-rag/

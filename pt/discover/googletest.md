@@ -6,7 +6,12 @@ O GoogleTest e o GoogleMock são a estrutura de teste de código aberto padrão 
 - C++
 - GitHub Trending · 2026-08-27
 
+## Atualizações
+
+- **27 de setembro de 2026:** Estrelas 38,987 → 39,588, versão mais recente v1.18.0 (10 de agosto de 2026).
+
 ## O que você ganha
+
 - Ricas de Asserções: Diagnóstico claro de erros com as macros ASSERT_* (erro crítico, encerra o teste) e EXPECT_* (registra o erro, continua o fluxo de testes).
 - Infraestrutura avançada de Mock (GoogleMock): Capacidade de simular facilmente interfaces com MOCK_METHOD para isolar dependências e definir expectativas de chamadas.
 - Capacidade de teste paramétrico: A capacidade de repetir automaticamente a mesma lógica de teste em dezenas de entradas e conjuntos de dados diferentes com um único modelo.
@@ -14,6 +19,7 @@ O GoogleTest e o GoogleMock são a estrutura de teste de código aberto padrão 
 - Integração de CI/CD e relatórios: integração perfeita com pipelines do GitHub Actions, Jenkins e GitLab CI usando formatos de saída XML e JSON compatíveis com JUnit.
 
 ## Instalação
+
 **Adição ao projeto com CMake FetchContent**
 
 ```
@@ -25,8 +31,8 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(googletest)
 ```
 
-
 ## Execução
+
 **Compilação do teste e execução com CTest**
 
 ```
@@ -35,21 +41,26 @@ cmake --build build
 ctest --test-dir build --output-on-failure
 ```
 
-
 ## Arquitetura técnica e princípio de funcionamento
+
 - Gerenciamento de Test Fixture e Ciclo de Vida: Os procedimentos SetUp e TearDown gerenciam com segurança os recursos de memória antes e depois de cada teste.
 - Isolamento de Processos para Testes de Morte (Death Tests): Captura o encerramento inesperado do programa ou a geração de asserts em processos filhos isolados por meio de um mecanismo de fork.
 - Modelos de Testes Parametrizados por Tipo: Oferece infraestrutura de testes Type-Parameterized para testar classes com gabarito (templates C++) com diferentes tipos de dados de uma só vez.
 
 ## Cenários de teste e integração com o GoogleMock
+
 - Abstração de Chamadas de Banco de Dados e de Rede: Simule respostas de API esperadas e latências sem estabelecer conexões de rede reais usando MOCK_METHOD.
 - Contagem de Chamadas e Validação de Parâmetros: Verifique quantas vezes, com quais argumentos e em que ordem uma função é chamada usando a macro EXPECT_CALL.
 - Análise de Cenários de Lançamento de Erros: garanta a resiliência testando blocos de código que lançam exceções (throw) com as macros EXPECT_THROW.
 
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Gostaria de escrever testes unitários para uma classe de analisador (parser) de dados usando GoogleTest e GoogleMock em um projeto C++ moderno. Poderia explicar com exemplos de código como configurar meu arquivo CMakeLists.txt, um exemplo de fixture de teste TEST_F e como criar um objeto mock com MOCK_METHOD e validar expectativas de chamada?
 
 ## Perguntas frequentes
+
 - Qual é a maneira mais moderna de incluir o GoogleTest em um projeto? Em projetos CMake modernos, o mecanismo FetchContent é a abordagem mais recomendada. Ele baixa o código-fonte e o integra ao processo de compilação de destino sem a necessidade de um gerenciador de pacotes externo.
 - Qual é a principal diferença entre EXPECT_* e ASSERT_*? As macros EXPECT_* registram o erro quando falham, mas permitem que o restante da função continue sendo executado. Já a ASSERT_* sai imediatamente da função de teste atual em caso de erro.
 - O GoogleMock é uma biblioteca separada? O GoogleMock era originalmente um projeto separado, mas há muito tempo foi integrado sob o mesmo teto com o repositório do GoogleTest; ambos são instalados e usados juntos.
@@ -57,9 +68,24 @@ Gostaria de escrever testes unitários para uma classe de analisador (parser) de
 
 ## Termos relacionados do glossário
 
+- [Fork](https://trescout.com/pt/dictionary/fork/)
+- [Parser](https://trescout.com/pt/dictionary/parser/)
+- [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
+- [API](https://trescout.com/pt/dictionary/api/)
+- [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** Engenheiros de software C++, desenvolvedores de sistemas embarcados e arquitetos de sistemas.
+- **Licença:** BSD 3-Clause (Esnek açık kaynak lisansı)
+- **Framework:** Biblioteca de Testes e Mock para C++
+- **Plataformas:** Linux, macOS, Windows, Android, iOS
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/google/googletest)
+- [Ler em turco →](https://trescout.com/discover/googletest/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-27: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/googletest/

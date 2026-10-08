@@ -7,10 +7,12 @@ MiroFish, çeşitli veri türlerini tahmin etmek amacıyla geliştirilen basit v
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
-- 15 Eylül 2026: Yıldız 69.813 → 73.507, son sürüm v0.1.2 (7 Mart 2026).
-- 2 Ağustos 2026: Yıldız 64.830 → 69.813, son sürüm v0.1.2 (7 Mart 2026).
+
+- **15 Eylül 2026:** Yıldız 69.813 → 73.507, son sürüm v0.1.2 (7 Mart 2026).
+- **2 Ağustos 2026:** Yıldız 64.830 → 69.813, son sürüm v0.1.2 (7 Mart 2026).
 
 ## Ne kazandırır?
+
 - Gerçek dünya verilerinden dijital simülasyon dünyaları oluşturur.
 - Bağımsız kişiliklere sahip yapay zekâ ajanlarıyla etkileşim sağlar.
 - Karmaşık senaryoların ve gelecekteki olası sonuçların provasını yaptırır.
@@ -32,19 +34,28 @@ npm run dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 MiroFish aracını kullanarak bir simülasyon başlatmak istiyorum. Öncelikle .env dosyamı yapılandırmam gerekiyor; LLM API anahtarımı ve Zep Cloud bilgilerimi bu dosyaya nasıl doğru şekilde eklerim? Ardından, elimdeki veri setini veya hikaye metnini sisteme yükleyerek ajanların etkileşime geçeceği bir dijital dünya oluşturmak için hangi adımları izlemeliyim? Simülasyonun sonuçlarını ve tahmin raporunu en verimli şekilde nasıl alabilirim?
 
-- **Kimin için:** Karmaşık olayları, politik süreçleri veya kurgusal senaryoları dijital bir sandbox ortamında simüle ederek geleceğe dair öngörüler elde etmek isteyen karar vericiler ve meraklı kullanıcılar içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Karmaşık olayları, politik süreçleri veya kurgusal senaryoları dijital bir sandbox ortamında simüle ederek geleceğe dair öngörüler elde etmek isteyen karar vericiler ve meraklı kullanıcılar içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/666ghj/MiroFish)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Swarm Intelligence Engine Swarm Intelligence LLM API Sandbox LLM API
+
+- [Swarm Intelligence Engine](https://trescout.com/dictionary/swarm-intelligence-engine/)
+- [Swarm Intelligence](https://trescout.com/dictionary/swarm-intelligence/)
+- [LLM API](https://trescout.com/dictionary/llm-api/)
+- [Sandbox](https://trescout.com/dictionary/sandbox/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mirofish/

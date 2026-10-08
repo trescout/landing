@@ -7,9 +7,11 @@ Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript taba
 - GitHub Trending · 2026-07-31
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 10.485 → 10.556, son sürüm v7.0.0-rc14 (29 Temmuz 2026).
+
+- **2 Ağustos 2026:** Yıldız 10.485 → 10.556, son sürüm v7.0.0-rc14 (29 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - WhatsApp Web API ile doğrudan etkileşim kurun
 - TypeScript ve JavaScript tabanlı projeler geliştirin
 - Mesajlaşma işlevlerini kendi uygulamalarınıza ekleyin
@@ -22,23 +24,26 @@ Baileys, WhatsApp Web protokolünü temel alan ve TypeScript ile JavaScript taba
 npm install baileys
 ```
 
-Kaynak: npm kayıt defteri
+**Kaynak:** npm kayıt defteri
 
 ## Nasıl başlanır?
 
 Bu kütüphaneyi kullanmaya başlamak için öncelikle https://baileys.wiki adresindeki güncel rehberi inceleyebilirsiniz. Ayrıca projenin eski dokümantasyonuna GitHub üzerindeki README dosyasından veya NPM ana sayfasından ulaşarak temel bilgilere erişebilirsiniz.
+
 - [Resmî kaynak →](https://baileys.wiki/)
 
-- **Kimin için:** WhatsApp Web protokolü üzerinden kendi mesajlaşma uygulamalarını geliştirmek isteyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** WhatsApp Web protokolü üzerinden kendi mesajlaşma uygulamalarını geliştirmek isteyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/WhiskeySockets/Baileys)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API
+
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/baileys/

@@ -1,32 +1,45 @@
 # Was ist Few-shot Learning?
 
+*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+
 Es ist die Fähigkeit der künstlichen Intelligenz, anhand sehr weniger Beispiele eine neue Aufgabe zu erlernen.
 
 ## Definition
+
 Beim Lernen mit wenigen Beispielen lernt künstliche Intelligenz eine Aufgabe, die sie noch nie zuvor gesehen hat, indem sie nur wenige Beispiele sieht. Diese Methode ermöglicht eine schnelle Anpassung des Modells, ohne dass es jedes Mal von Grund auf neu trainiert werden muss.
 
+***Analogie:** Es ist, als würde man einem Kind nur zwei Äpfel zeigen und ihm beibringen, was ein Apfel ist.*
+
 ## So funktioniert es
+
 Anhand einiger vorgegebener Beispiele erkennt das Modell Muster. Diese Beispiele ermöglichen es dem Modell, das bereits vorhandene Allgemeinwissen auf die neue Aufgabe zu konzentrieren.
 
 ## Wo es eingesetzt wird
+
 Es wird insbesondere in Sprachmodellen verwendet, bei denen der Benutzer möchte, dass das Modell in einem bestimmten Format antwortet.
 
 ## Häufig verwechselt mit
+
 Gemischt mit Feinabstimmung; Während die Feinabstimmung die Struktur des Modells ändert, fügt die Methode mit wenigen Schüssen einfach Beispiele zum aktuellen Befehl hinzu.
 
 ## Häufige Fragen
+
 **Wie viele Beispiele reichen aus?**
+
 Im Allgemeinen reichen 1 bis 5 Beispiele aus, damit das Modell die Aufgabe versteht.
 
 **Ist es immer erfolgreich?**
+
 Wenn die Aufgabe sehr komplex ist oder das Modell über eine geringe Kapazität verfügt, reichen die Beispiele möglicherweise nicht aus.
 
-
 ## Verwandte Begriffe
-- [Zero-shot Learning](/de/dictionary/zero-shot-learning/)
-- [Prompt Engineering](/de/dictionary/prompt-engineering/)
-- [LLM](/de/dictionary/llm/)
-- [Fine-tuning](/de/dictionary/fine-tuning/)
+
+- [Zero-shot Learning](https://trescout.com/de/dictionary/zero-shot-learning/)
+- [Prompt Engineering](https://trescout.com/de/dictionary/prompt-engineering/)
+- [LLM](https://trescout.com/de/dictionary/llm/)
+- [Fine-tuning](https://trescout.com/de/dictionary/fine-tuning/)
+
+Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/few-shot-learning/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/few-shot-learning/

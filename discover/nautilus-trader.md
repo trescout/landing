@@ -7,12 +7,14 @@ Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mim
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 27.920 → 29.428, son sürüm v1.231.0 (2 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 26.536 → 27.920, son sürüm v1.231.0 (2 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 25.223 → 26.536, son sürüm v1.231.0 (2 Ağustos 2026).
-- 3 Ağustos 2026: Yıldız 25.204 → 25.223, son sürüm v1.231.0 (2 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 27.920 → 29.428, son sürüm v1.231.0 (2 Ağustos 2026).
+- **27 Ağustos 2026:** Yıldız 26.536 → 27.920, son sürüm v1.231.0 (2 Ağustos 2026).
+- **20 Ağustos 2026:** Yıldız 25.223 → 26.536, son sürüm v1.231.0 (2 Ağustos 2026).
+- **3 Ağustos 2026:** Yıldız 25.204 → 25.223, son sürüm v1.231.0 (2 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Rust tabanlı hızlı ve güvenli alım satım altyapısı
 - Araştırmadan canlıya kod değişikliği olmadan geçiş
 - Çoklu borsa ve varlık sınıfı desteği
@@ -32,19 +34,24 @@ pip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/si
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 NautilusTrader alım satım motorunu kullanarak çoklu borsa desteğine sahip, Rust çekirdeği üzerinde çalışan deterministik bir alım satım stratejisi tasarlamam gerekiyor. Python kontrol düzlemini kullanarak strateji mantığını nasıl kurgulayabilirim ve araştırma ortamından canlı ortama geçişte kod tutarlılığını sağlamak için hangi modüler yapıları kullanmalıyım?
 
-- **Kimin için:** Finansal piyasalarda yüksek performanslı, deterministik ve ölçeklenebilir alım satım sistemleri geliştirmek isteyen profesyonel yazılımcılar ve araştırmacılar içindir. 
-- **Lisans:** LGPL-3.0 
+- **Kimin için:** Finansal piyasalarda yüksek performanslı, deterministik ve ölçeklenebilir alım satım sistemleri geliştirmek isteyen profesyonel yazılımcılar ve araştırmacılar içindir.
+- **Lisans:** LGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/nautechsystems/nautilus_trader)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Rust Artificial Intelligence
+
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nautilus-trader/

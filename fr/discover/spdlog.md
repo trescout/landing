@@ -6,7 +6,12 @@ spdlog est une bibliothèque de journalisation ultra-rapide développée pour le
 - C++
 - GitHub Trending · 2026-08-05
 
+## Mises à jour
+
+- **6 août 2026:** Étoiles 29,402 → 29,437, dernière version v1.17.0 (4 janvier 2026).
+
 ## Ce que ça vous apporte
+
 - Performances de journalisation de plusieurs millions de lignes par seconde : crée une latence de l'ordre de la microseconde dans le thread principal de l'application avec une approche d'allocation de mémoire nulle et des optimisations du temps de compilation.
 - File d'attente en anneau asynchrone et sans verrouillage : isole complètement les goulots d'étranglement d'E/S de fichiers ou de réseau du pipeline appelant en déchargeant les écritures de journaux vers le pool d'arrière-plan.
 - Riche variété de cibles : sortie de console colorée, rotation des fichiers par taille, archives avec dates quotidiennes, écriture simultanée sur les cibles syslog et Android logcat.
@@ -14,26 +19,32 @@ spdlog est une bibliothèque de journalisation ultra-rapide développée pour le
 - Flexibilité d'utilisation en en-tête uniquement ou compilée : vous pouvez l'inclure dans votre projet en copiant un seul répertoire ou le lier en tant que bibliothèque statique pour réduire les temps de compilation.
 
 ## Installation
+
 **macOS (Homebrew)**
 
 ```
 brew install spdlog
 ```
 
-
 ## Comment démarrer et utilisation de base
+
 Démarrer avec la bibliothèque spdlog est extrêmement simple. Une fois que vous avez inclus le fichier d'en-tête dans votre projet, vous pouvez appeler directement les fonctions de journalisation globale ou créer des objets de journalisation personnalisés :
 
 ## Architecture technique et principe de fonctionnement
+
 - Distinction Logger et Sink : L'objet Logger filtre le journal entrant (trace, débogage, info, warn, err, critique). Les messages acceptés sont transférés vers un ou plusieurs objets Sink. Par exemple, un seul enregistreur peut écrire dans le fichier au format JSON tout en imprimant simultanément la couleur sur la console.
 - Thread-safe (_mt vs _st) : spdlog fournit toutes les classes de récepteur sous deux formes : versions à verrouillage mutex multi-thread (_mt) et sans verrouillage (_st) spécifiques à un seul thread. En mode monothread, le coût du mutex est totalement nul.
 - File d'attente en anneau asynchrone (Ring Buffer) : le bloc de mémoire alloué avec spdlog::init_thread_pool est consommé par le thread exécuté en arrière-plan. L'application principale laisse le journal dans la file d'attente et continue immédiatement son chemin.
 - Rinçage intelligent du tampon (Flush) : les données sont conservées dans le tampon du système d'exploitation pour des raisons de performances ; Cependant, le mécanisme spdlog::flush_on(spdlog::level::err) peut être déclenché pour empêcher la perte de données dans les moments d'erreur critiques.
 
 ## Si vous ne codez pas
+
+🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+
 Je souhaite configurer la bibliothèque spdlog avec une architecture asynchrone à l'aide de CMake dans un projet C++ moderne. Pouvez-vous préparer le fichier CMakeLists.txt avec un exemple de fonction d'initialisation C++ qui fait pivoter le fichier lorsque la taille du journal atteint 10 Mo, donne également une sortie couleur à la console et le vide sur le disque immédiatement en cas d'erreur ?
 
 ## Questions fréquemment posées
+
 - Spdlog doit-il être utilisé uniquement en en-tête ou compilé ? Dans les projets de petite et moyenne taille, l'utilisation de l'en-tête uniquement en ajoutant uniquement le répertoire include est très pratique. Cependant, dans les grands projets C++ composés de centaines de fichiers sources, il est recommandé de compiler et de lier la bibliothèque avec l'indicateur SPDLOG_COMPILED pour optimiser le temps de compilation.
 - La journalisation affecte-t-elle la vitesse d’exécution de l’application principale ? Fonctionnant au niveau de la microseconde même en mode synchrone, spdlog réduit la charge d'E/S sur le thread principal à presque zéro lors de l'utilisation d'une architecture d'enregistrement asynchrone. Le message est copié dans la file d'attente et l'écriture sur le disque s'effectue en arrière-plan.
 - Comment fonctionne le mécanisme de rotation des fichiers ? Lorsque la taille de fichier maximale spécifiée (par exemple 10 Mo) est atteinte, le fichier actif est archivé (application.1.txt, application.2.txt) et un nouveau fichier est ouvert à partir de zéro. Lorsque le nombre maximum de fichiers spécifié est dépassé, le fichier journal le plus ancien est automatiquement effacé.
@@ -41,9 +52,21 @@ Je souhaite configurer la bibliothèque spdlog avec une architecture asynchrone 
 
 ## Termes liés du glossaire
 
+- [Logging](https://trescout.com/fr/dictionary/logging/)
+- [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
+- **Pour qui:** Pour les développeurs C++, les architectes de moteurs de jeux et de systèmes embarqués qui souhaitent accélérer le débogage, la surveillance et la vérification des projets logiciels avec une latence nulle.
+- **Licence:** MIT Lisansı (Ticari ve açık kaynak projelerde tamamen serbest)
+- **Standard:** Compatible C++11, C++14, C++17, C++20 et C++23
+- **Type de bibliothèque:** En-tête uniquement ou liaison statique/dynamique compilée
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/gabime/spdlog)
+- [Lire en turc →](https://trescout.com/discover/spdlog/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/spdlog/

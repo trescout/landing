@@ -1,23 +1,26 @@
 # Application nedir, ne demek?
 
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-22
+*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Application (Türkçe karşılığıyla **uygulama**), belirli işi yapan kullanıcı yazılımıdır.
 
 ## Tanım ve Kelime Kökeni
+
 Metin yazmadan fotoğraf düzenlemeye her iş bir uygulama üzerinden yapılır. İşletim sistemi üzerinde çalışır, görsel arayüz sunar. Ev benzetmesi yerindedir: Sistem evin kendisi, uygulamalar mobilyalarıdır.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
-- **Telefon:** Mesajlaşma ve banka.
-- **Masaüstü:** Ofis ve tasarım.
-- **Web:** Tarayıcıda açılanlar.
+
+**Telefon:** Mesajlaşma ve banka.
+**Masaüstü:** Ofis ve tasarım.
+**Web:** Tarayıcıda açılanlar.
 
 ## Teknik Derinlik ve Mimari
+
 Türler:
-- **Native:** Cihaza özel, hızlı ve tam yetkili.
-- **Web:** Tarayıcıda çalışan, kurulum gerektirmez.
-- **PWA:** İkisinin arası, yüklenebilir web.
+
+**Native:** Cihaza özel, hızlı ve tam yetkili.
+**Web:** Tarayıcıda çalışan, kurulum gerektirmez.
+**PWA:** İkisinin arası, yüklenebilir web.
 
 PWA kimliği:
 
@@ -31,34 +34,42 @@ PWA kimliği:
 Dağıtım mağazadan veya webden olur. İzinler ilk açılışta istenir, gizlilik politikası okunur.
 
 ## Sık Karıştırılanlar
+
 İşletim sistemi sanılır. Sistem cihazı yönetir, uygulama tek iş yapar. Sürücüler yazılım ama uygulama değildir.
 
 ## Farklı Disiplinlerde Kullanımı
-- **Mobilya:** Evin içindeki eşyalar.
-- **Mutfak aleti:** Tek işlik cihazlar.
-- **Araba aksesuarı:** Sonradan takılan parça.
 
-## Bir benzetmeyle
-İşletim sistemini evin temeli ve duvarları sayarsanız, uygulamalar içindeki mobilya ve eşyalardır.
+**Mobilya:** Evin içindeki eşyalar.
+**Mutfak aleti:** Tek işlik cihazlar.
+**Araba aksesuarı:** Sonradan takılan parça.
 
-## Sıkça sorulanlar
+*İşletim sistemini evin temeli ve duvarları sayarsanız, uygulamalar içindeki mobilya ve eşyalardır.*
 
-**Uygulama ile yazılım aynı mı?**  
+## Sıkça Sorulanlar
+
+**Uygulama ile yazılım aynı mı?**
+
 Uygulama yazılımın alt kümesidir. Her uygulama yazılımdır, her yazılım uygulama değildir.
 
-**Uygulamalar nasıl güncellenir?**  
+**Uygulamalar nasıl güncellenir?**
+
 Mağazadan otomatik veya elle. Web olanlar açılışta yenilenir.
 
-**Web ve native farkı nedir?**  
+**Web ve native farkı nedir?**
+
 Native hızlı ve tam yetkili, web kurulum gerektirmez. PWA arayı kapatır.
 
-**Mağaza şart mı?**  
+**Mağaza şart mı?**
+
 Dağıtım için pratiktir, zorunlu değildir. Web ve kurumsal dağıtım alternatiftir.
 
 ## İlgili terimler
-- [User Interface](/dictionary/user-interface/)
-- [GUI](/dictionary/gui/)
-- [Runtime](/dictionary/runtime/)
+
+- [User Interface](https://trescout.com/dictionary/user-interface/)
+- [GUI](https://trescout.com/dictionary/gui/)
+- [Runtime](https://trescout.com/dictionary/runtime/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/application/

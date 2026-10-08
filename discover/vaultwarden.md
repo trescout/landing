@@ -7,11 +7,13 @@ Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust dili
 - GitHub Trending · 2026-08-24
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 67.398 → 68.594, son sürüm 1.37.4 (5 Ekim 2026).
-- 14 Eylül 2026: Yıldız 65.982 → 67.398, son sürüm 1.37.3 (13 Eylül 2026).
-- 24 Ağustos 2026: Yıldız 65.983 → 65.982, son sürüm 1.37.2 (22 Ağustos 2026).
+
+- **6 Ekim 2026:** Yıldız 67.398 → 68.594, son sürüm 1.37.4 (5 Ekim 2026).
+- **14 Eylül 2026:** Yıldız 65.982 → 67.398, son sürüm 1.37.3 (13 Eylül 2026).
+- **24 Ağustos 2026:** Yıldız 65.983 → 65.982, son sürüm 1.37.2 (22 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Resmî Bitwarden istemcileriyle tam uyumlu çalışır
 - Düşük kaynak tüketimiyle kendi sunucunuzda barındırılabilir
 - İki faktörlü doğrulama ve acil durum erişimi sunar
@@ -23,27 +25,32 @@ Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust dili
 ```
 docker pull vaultwarden/server:latest
 docker run --detach --name vaultwarden \
---env DOMAIN="https://vw.domain.tld" \
---volume /vw-data/:/data/ \
---restart unless-stopped \
---publish 127.0.0.1:8000:80 \
-vaultwarden/server:latest
+  --env DOMAIN="https://vw.domain.tld" \
+  --volume /vw-data/:/data/ \
+  --restart unless-stopped \
+  --publish 127.0.0.1:8000:80 \
+  vaultwarden/server:latest
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Benim için kendi sunucumda parola yönetimi sağlayan Vaultwarden aracını kurmama yardımcı ol. Bu araç, Bitwarden istemcileriyle uyumlu bir sunucu yazılımıdır. Docker kullanarak kurulum yapacağım için gerekli olan imajı çekme ve çalıştırma komutlarını, verilerimin kalıcı olması için bir birim (volume) bağlayarak ve HTTPS gereksinimlerini göz önünde bulundurarak nasıl yapılandıracağımı adım adım açıkla.
 
-- **Kimin için:** Kendi şifrelerini ve hassas verilerini üçüncü taraf bulut hizmetlerine güvenmek yerine, kendi sunucusunda barındırmak isteyen kullanıcılar içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Kendi şifrelerini ve hassas verilerini üçüncü taraf bulut hizmetlerine güvenmek yerine, kendi sunucusunda barındırmak isteyen kullanıcılar içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/dani-garcia/vaultwarden)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Rust Artificial Intelligence
+
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vaultwarden/

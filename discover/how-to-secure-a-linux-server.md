@@ -6,9 +6,11 @@ Linux sunucu güvenliği (Linux server security) üzerine hazırlanan bu rehber,
 - GitHub Trending · 2026-07-10
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 29.237 → 30.981.
+
+- **31 Ağustos 2026:** Yıldız 29.237 → 30.981.
 
 ## Ne kazandırır?
+
 - Sunucu erişimini sıkılaştırma yöntemleri
 - Yetkisiz erişimi engelleme teknikleri
 - Otomatik güvenlik güncellemeleri yapılandırması
@@ -22,19 +24,25 @@ sudo apt install libpam-pwquality
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bir Linux sunucusu yöneticisiyim. Sunucumun güvenliğini artırmak istiyorum. How-To-Secure-A-Linux-Server rehberindeki en iyi uygulamaları temel alarak; SSH yapılandırmamı nasıl daha güvenli hale getirebilirim, sudo ve su yetkilerini nasıl kısıtlayabilirim ve sistemimde otomatik güvenlik güncellemelerini nasıl aktif edebilirim? Lütfen bu işlemleri yaparken dikkat etmem gereken temel prensipleri ve hata yapmamak için izlemem gereken adımları açıkla.
 
-- **Kimin için:** Linux sunucu yönetimi konusunda temel bilgiye sahip olan ve sistem güvenliğini artırmak isteyen kullanıcılar içindir. 
-- **Lisans:** CC-BY-SA-4.0 
+- **Kimin için:** Linux sunucu yönetimi konusunda temel bilgiye sahip olan ve sistem güvenliğini artırmak isteyen kullanıcılar içindir.
+- **Lisans:** CC-BY-SA-4.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Server Hardening Linux Server Security Artificial Intelligence
+
+- [Server Hardening](https://trescout.com/dictionary/server-hardening/)
+- [Linux Server Security](https://trescout.com/dictionary/linux-server-security/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/how-to-secure-a-linux-server/

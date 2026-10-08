@@ -29,6 +29,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
 from translation_service import translate_text, translate_texts
 from sayfa_koruma import zayiflatir, damgalar, damga_yaz, damga_yolu, elle_duzenlenmis, icerik_damgasi, kayma_freni
+from html_md import md_dosyasi
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "discover")
@@ -521,28 +522,9 @@ def build(slug, cat, chrome):
 
 
 def markdown(slug, h):
-    """Sayfanın .md karşılığı · llms.txt ve <link rel=alternate> bunu gösteriyor.
-    İngilizce .md'ler 30 kelimelik kabuktu (Türkçesi 262) · aynı içerikten üretilir."""
-    g = h.split("<main", 1)[1].split("</main>")[0]
-    baslik = metin(blok(r'<h1 class="disc-title">(.*?)</h1>', g))
-    lead = metin(blok(r'<p class="disc-lead">(.*?)</p>', g))
-    sat = [f"# {baslik}", "", lead, ""]
-    for li in re.findall(r"<li>(.*?)</li>", blok(r'<ul class="disc-meta">(.*?)</ul>', g), re.S):
-        sat.append(f"- {metin(li)}")
-    sat.append("")
-    for m in re.finditer(r'<section class="disc-sec"><h2>(.*?)</h2>(.*?)</section>', g, re.S):
-        h2, govde = metin(m.group(1)), m.group(2)
-        sat.append(f"## {h2}")
-        for x in re.findall(r"<li>(.*?)</li>", govde, re.S):
-            sat.append(f"- {metin(x)}")
-        for c in re.finditer(r'<div class="disc-cmd-head"><span>(.*?)</span>.*?<pre><code>(.*?)</code></pre>', govde, re.S):
-            sat += [f"**{metin(c.group(1))}**", "", "```", html.unescape(c.group(2)), "```", ""]
-        pm = re.search(r"<p[^>]*>(.*?)</p>", govde, re.S)
-        if pm and "disc-cmd" not in govde:
-            sat.append(metin(pm.group(1)))
-        sat.append("")
-    sat += ["---", D["md_kaynak_kesif"].format(url=f"{BASE}{D['onek']}/discover/{slug}/")]
-    return "\n".join(sat) + "\n"
+    """Sayfanın .md karşılığı · llms.txt ve <link rel=alternate> bunu gösteriyor. Ortak
+    dönüştürücüden (html_md.py); md-uret.py her koşuda aynı çıktıyı yeniden yazar."""
+    return md_dosyasi(h, D["md_kaynak_kesif"].format(url=f"{BASE}{D['onek']}/discover/{slug}/"), BASE)
 
 
 def main():
@@ -625,4 +607,5 @@ def main():
     print(f"✅ {yazilan} {LANG} keşif sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 
-main()
+if __name__ == "__main__":
+    main()

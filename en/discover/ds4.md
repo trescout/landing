@@ -6,12 +6,20 @@ Developed by Salvatore Sanfilippo, the creator of Redis, ds4 is an inference eng
 - C
 - GitHub Trending · 2026-08-03
 
+## Updates
+
+- **October 5, 2026:** Stars 22,197 → 23,530.
+- **September 10, 2026:** Stars 21,134 → 22,197.
+- **August 11, 2026:** Stars 20,117 → 21,134.
+
 ## What you get
+
 - Runs high-performance AI models on consumer-grade hardware
 - Allows model usage even with limited memory capacity by streaming data via SSD
 - Enables creating enterprise-level LLM server with multi-GPU support
 
 ## Installation
+
 **Build to suit your hardware**
 
 ```
@@ -31,8 +39,8 @@ make cpu              # CPU-only diagnostics build
 ./download_model.sh pro-q2-imatrix  # 512 GB RAM machines, PRO q2 imatrix quant
 ```
 
-
 ## Running it
+
 **Initialize the model**
 
 ```
@@ -46,15 +54,28 @@ make cpu              # CPU-only diagnostics build
   --nothink
 ```
 
-
 ## If you don't write code
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 Help me choose the most suitable DeepSeek or GLM model according to the hardware features of my system. Which download command should I use and how can I overcome the memory bottleneck by activating the streaming feature over SSD? Also, explain the basic configuration settings required for me to use this artificial intelligence system I have installed as a local server.
 
 ## Related dictionary terms
 
+- [Inference Engine](https://trescout.com/en/dictionary/inference-engine/)
+- [Inference](https://trescout.com/en/dictionary/inference/)
+- [LLM](https://trescout.com/en/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
+- **Who it is for:** It is for software developers and system administrators who want to run high-performance artificial intelligence models on their own local hardware.
+- **License:** MIT
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/antirez/ds4)
+- [Read in Turkish →](https://trescout.com/discover/ds4/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/ds4/

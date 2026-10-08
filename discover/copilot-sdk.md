@@ -6,12 +6,14 @@ GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını ke
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 10.534 → 10.544, son sürüm v1.0.17 (7 Ekim 2026).
-- 1 Ekim 2026: Yıldız 10.526 → 10.534, son sürüm v1.0.16 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 10.478 → 10.526, son sürüm v1.0.15 (28 Eylül 2026).
-- 16 Eylül 2026: Yıldız 10.460 → 10.478, son sürüm v1.0.14 (16 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 10.534 → 10.544, son sürüm v1.0.17 (7 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 10.526 → 10.534, son sürüm v1.0.16 (30 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 10.478 → 10.526, son sürüm v1.0.15 (28 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 10.460 → 10.478, son sürüm v1.0.14 (16 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Copilot motorunu uygulamalarınıza entegre edin
 - Planlama ve araç kullanımı süreçlerini otomatikleştirin
 - Farklı programlama dilleri için geniş destek alın
@@ -24,22 +26,29 @@ GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını ke
 npm install @github/copilot-sdk
 ```
 
-Kaynak: npm · @github/copilot-sdk · docs.github.com (resmî)
+**Kaynak:** npm · @github/copilot-sdk · docs.github.com (resmî)
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 GitHub Copilot SDK kullanarak uygulamamda özel bir yapay zekâ iş akışı oluşturmak istiyorum. SDK'nın sunduğu ajan çalışma zamanını nasıl yapılandırabilirim, planlama ve araç çağırma özelliklerini kendi uygulama mantığımla nasıl entegre edebilirim? Özellikle BYOK (kendi anahtarını getir) yöntemini kullanarak farklı LLM sağlayıcılarıyla bağlantı kurma konusunda izlemem gereken adımları açıklar mısın?
 
-- **Kimin için:** Kendi yazılım projelerine GitHub Copilot'un yeteneklerini ve ajan tabanlı iş akışlarını dahil etmek isteyen geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Kendi yazılım projelerine GitHub Copilot'un yeteneklerini ve ajan tabanlı iş akışlarını dahil etmek isteyen geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/github/copilot-sdk)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-BYOK SDK LLM Artificial Intelligence
+
+- [BYOK](https://trescout.com/dictionary/byok/)
+- [SDK](https://trescout.com/dictionary/sdk/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/copilot-sdk/

@@ -1,6 +1,6 @@
 # Tek tuşla yapay zekâ videoları üretin
 
-MoneyPrinterTurbo , verdiğiniz bir konu veya anahtar kelimeden büyük dil modellerini kullanarak otomatik kısa videolar üretir. Metin, altyazı, arka plan müziği ve görselleri birleştirir. (İsim pazarlama amaçlıdır, bir 'para basma' makinesi değil, içerik üretim aracıdır.)
+**MoneyPrinterTurbo**, verdiğiniz bir konu veya anahtar kelimeden büyük dil modellerini kullanarak **otomatik kısa videolar** üretir. Metin, altyazı, arka plan müziği ve görselleri birleştirir. (İsim pazarlama amaçlıdır, bir 'para basma' makinesi değil, içerik üretim aracıdır.)
 
 - ★ 128.158
 - Python
@@ -8,19 +8,21 @@ MoneyPrinterTurbo , verdiğiniz bir konu veya anahtar kelimeden büyük dil mode
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 123.436 → 128.158, son sürüm v1.3.8 (3 Ekim 2026).
-- 14 Eylül 2026: Yıldız 120.054 → 123.436, son sürüm v1.3.7 (13 Eylül 2026).
-- 3 Eylül 2026: Yıldız 114.747 → 120.054, son sürüm v1.3.6 (2 Eylül 2026).
-- 23 Ağustos 2026: Yıldız 108.989 → 114.747, son sürüm v1.3.5 (22 Ağustos 2026).
 
-- **Kimin için:** Kısa video / içerik üretenler 
-- **Zorluk:** Orta · kurulum + AI API anahtarı gerekir 
-- **Ne sunar:** Konudan otomatik kısa video 
-- **Ön koşul:** Bir LLM API anahtarı (OpenAI/Claude/Gemini…) 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) · API maliyeti ayrı 
+- **3 Ekim 2026:** Yıldız 123.436 → 128.158, son sürüm v1.3.8 (3 Ekim 2026).
+- **14 Eylül 2026:** Yıldız 120.054 → 123.436, son sürüm v1.3.7 (13 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 114.747 → 120.054, son sürüm v1.3.6 (2 Eylül 2026).
+- **23 Ağustos 2026:** Yıldız 108.989 → 114.747, son sürüm v1.3.5 (22 Ağustos 2026).
+
+- **Kimin için:** Kısa video / içerik üretenler
+- **Zorluk:** Orta · kurulum + AI API anahtarı gerekir
+- **Ne sunar:** Konudan otomatik kısa video
+- **Ön koşul:** Bir LLM API anahtarı (OpenAI/Claude/Gemini…)
+- **Ücret:** Ücretsiz · açık kaynak (MIT) · API maliyeti ayrı
 
 ## Ne kazandırır?
-- Metin, altyazı, müzik ve görsel kullanarak otomatik kurgu oluşturur.
+
+- Metin, altyazı, müzik ve görsel kullanarak **otomatik kurgu** oluşturur.
 - Web arayüzü sayesinde kullanımı kolaydır.
 - Toplu ve çoklu video üretimine olanak tanır.
 
@@ -47,25 +49,34 @@ docker-compose up
 uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False
 ```
 
-Kaynak: Resmî kaynak: https://github.com/harry0703/MoneyPrinterTurbo
+**Kaynak:** Resmî kaynak: https://github.com/harry0703/MoneyPrinterTurbo
 
 ## Dürüst not
 
 Çalışması için bir AI model API anahtarı + kurulum gerekir; API kullanımı ücretli olabilir. Üretilen videoların telif ve platform kurallarına uygunluğu kullanıcının sorumluluğundadır.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 MoneyPrinterTurbo'yu kur ve çalıştır: 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git' ile depoyu indir, dizine girip 'docker-compose up' komutuyla başlat, sonra tarayıcıdan http://127.0.0.1:8501 adresindeki web arayüzünü aç.
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
+**Lisans:** MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/harry0703/MoneyPrinterTurbo)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-LLM API Clone LLM API Open Source Artificial Intelligence
+
+- [LLM API](https://trescout.com/dictionary/llm-api/)
+- [Clone](https://trescout.com/dictionary/clone/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [API](https://trescout.com/dictionary/api/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/moneyprinterturbo/

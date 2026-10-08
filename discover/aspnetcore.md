@@ -5,14 +5,16 @@ ASP.NET Core, Windows, macOS ve Linux üzerinde modern bulut tabanlı web uygula
 - ★ 38.431
 - GitHub Trending · 2026-06-19
 
-TreScout notu: Microsoft'un web uygulaması geliştirme altyapısı. Windows'a bağlı olduğu algısı eskidir, Linux'ta da sorunsuz çalışır. Kurumsal işlerde güçlüdür: Kullanıcı girişi, veri tabanı erişimi ve izleme için hazır parçalar kutudan çıkar. C# dilini bilmiyorsanız öğrenme maliyeti yüksektir, küçük bir iş için ağır kalır.
+**TreScout notu:** Microsoft'un web uygulaması geliştirme altyapısı. Windows'a bağlı olduğu algısı eskidir, Linux'ta da sorunsuz çalışır. Kurumsal işlerde güçlüdür: Kullanıcı girişi, veri tabanı erişimi ve izleme için hazır parçalar kutudan çıkar. C# dilini bilmiyorsanız öğrenme maliyeti yüksektir, küçük bir iş için ağır kalır.
 
 ## Güncelleme
-- 9 Eylül 2026: Yıldız 38.367 → 38.431, son sürüm v10.0.12 (8 Eylül 2026).
-- 12 Ağustos 2026: Yıldız 38.339 → 38.367, son sürüm v10.0.11 (11 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 38.124 → 38.339, son sürüm v8.0.29 (14 Temmuz 2026).
+
+- **9 Eylül 2026:** Yıldız 38.367 → 38.431, son sürüm v10.0.12 (8 Eylül 2026).
+- **12 Ağustos 2026:** Yıldız 38.339 → 38.367, son sürüm v10.0.11 (11 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 38.124 → 38.339, son sürüm v8.0.29 (14 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Windows, macOS ve Linux üzerinde platformlar arası çalışma
 - Bulut tabanlı ve ölçeklenebilir uygulama geliştirme
 - Düşük kaynak kullanımıyla modüler bileşen yapısı
@@ -41,22 +43,27 @@ cd MyWebApp
 dotnet run
 ```
 
-Kaynak: Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)
+**Kaynak:** Resmî Microsoft .NET dokümantasyonu (learn.microsoft.com/aspnet/core)
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 ASP.NET Core çerçevesini kullanarak modern, bulut tabanlı ve ölçeklenebilir bir web uygulaması geliştirmek istiyorum. Projemi Windows, macOS veya Linux üzerinde çalıştırmayı planlıyorum. Bu platformun modüler yapısını kullanarak nasıl bir mimari kurmalıyım ve uygulama geliştirme sürecinde verimliliği artırmak için hangi temel bileşenlere odaklanmalıyım?
 
-- **Kimin için:** Modern ve ölçeklenebilir web uygulamaları, IoT çözümleri veya mobil arka uç sistemleri geliştirmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Modern ve ölçeklenebilir web uygulamaları, IoT çözümleri veya mobil arka uç sistemleri geliştirmek isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/dotnet/aspnetcore)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Framework Artificial Intelligence
+
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/aspnetcore/

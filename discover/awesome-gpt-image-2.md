@@ -7,12 +7,14 @@ GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlayan (Prompt as C
 - GitHub Trending · 2026-08-24
 
 ## Güncelleme
-- 19 Eylül 2026: Yıldız 31.160 → 32.734.
-- 11 Eylül 2026: Yıldız 29.494 → 31.160.
-- 9 Eylül 2026: Yıldız 27.621 → 29.494.
-- 3 Eylül 2026: Yıldız 26.288 → 27.621.
+
+- **19 Eylül 2026:** Yıldız 31.160 → 32.734.
+- **11 Eylül 2026:** Yıldız 29.494 → 31.160.
+- **9 Eylül 2026:** Yıldız 27.621 → 29.494.
+- **3 Eylül 2026:** Yıldız 26.288 → 27.621.
 
 ## Ne kazandırır?
+
 - 500'den fazla tersine mühendislik yapılmış görsel istemi
 - 20'den fazla endüstriyel görsel oluşturma şablonu
 - Görsel süreçlerini kod olarak tanımlayan yapısal protokoller
@@ -34,19 +36,26 @@ npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-librar
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir görsel istem mühendisisin. Awesome GPT Image 2 kütüphanesindeki yapısal protokolleri kullanarak, belirttiğim görsel konusunu; ışıklandırma, malzeme, düzen ve görsel detaylar gibi atomik parçalara ayır. Ürettiğin istemin yapay zekâ modelleri tarafından tutarlı ve kontrol edilebilir sonuçlar vermesini sağla.
 
-- **Kimin için:** Yapay zekâ modellerinden daha tutarlı, profesyonel ve tekrarlanabilir görseller elde etmek isteyen tasarımcılar ve otomasyon geliştiricileri içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ modellerinden daha tutarlı, profesyonel ve tekrarlanabilir görseller elde etmek isteyen tasarımcılar ve otomasyon geliştiricileri içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/freestylefly/awesome-gpt-image-2)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Prompt Engineering Prompt as Code Prompt Artificial Intelligence
+
+- [Prompt Engineering](https://trescout.com/dictionary/prompt-engineering/)
+- [Prompt as Code](https://trescout.com/dictionary/prompt-as-code/)
+- [Prompt](https://trescout.com/dictionary/prompt/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-gpt-image-2/

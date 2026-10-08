@@ -7,12 +7,14 @@ Agentsview, kodlama ajanları için yerel öncelikli (local-first) oturum zekas�
 - GitHub Trending · 2026-06-12
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 5.905 → 5.999, son sürüm v0.44.0 (21 Eylül 2026).
-- 15 Eylül 2026: Yıldız 5.720 → 5.905, son sürüm v0.43.0 (14 Eylül 2026).
-- 2 Eylül 2026: Yıldız 5.127 → 5.720, son sürüm v0.42.0 (1 Eylül 2026).
-- 19 Ağustos 2026: Yıldız 5.064 → 5.127, son sürüm v0.41.1 (18 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 5.905 → 5.999, son sürüm v0.44.0 (21 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 5.720 → 5.905, son sürüm v0.43.0 (14 Eylül 2026).
+- **2 Eylül 2026:** Yıldız 5.127 → 5.720, son sürüm v0.42.0 (1 Eylül 2026).
+- **19 Ağustos 2026:** Yıldız 5.064 → 5.127, son sürüm v0.41.1 (18 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Tüm yapay zekâ kodlama ajanlarınızın oturumlarını tek merkezden izleyin.
 - Kullanılan token miktarlarını ve maliyetleri hızlıca hesaplayın.
 - Verilerinizi yerel bilgisayarınızda tutarak gizliliği koruyun.
@@ -46,19 +48,26 @@ agentsview usage daily
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Agentsview aracını kullanarak yapay zekâ kodlama ajanlarımın oturum geçmişini ve maliyet verilerini analiz etmek istiyorum. Bilgisayarımda yüklü olan ajanların oturumlarını keşfetmek, günlük maliyet özetimi görmek ve belirli bir ajan filtresiyle token kullanım detaylarını incelemek için hangi komutları kullanmalıyım? Lütfen bana agentsview usage daily ve agentsview session usage komutlarının nasıl kullanılacağını ve sonuçları nasıl yorumlayacağımı adım adım açıkla.
 
-- **Kimin için:** Birden fazla yapay zekâ kodlama ajanı kullanan ve bu araçların harcadığı token ile maliyetleri yerel olarak takip etmek isteyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
+Agentsview aracını kullanarak yapay zekâ kodlama ajanlarımın oturum geçmişini ve maliyet verilerini analiz etmek istiyorum. Bilgisayarımda yüklü olan ajanların oturumlarını keşfetmek, günlük maliyet özetimi görmek ve belirli bir ajan filtresiyle token kullanım detaylarını incelemek için hangi komutları kullanmalıyım? Lütfen bana agentsview usage daily ve agentsview session usage \<id> komutlarının nasıl kullanılacağını ve sonuçları nasıl yorumlayacağımı adım adım açıkla.
+
+- **Kimin için:** Birden fazla yapay zekâ kodlama ajanı kullanan ve bu araçların harcadığı token ile maliyetleri yerel olarak takip etmek isteyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/kenn-io/agentsview)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CCUsage Local-first Token Artificial Intelligence
+
+- [CCUsage](https://trescout.com/dictionary/ccusage/)
+- [Local-first](https://trescout.com/dictionary/local-first/)
+- [Token](https://trescout.com/dictionary/token/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agentsview/

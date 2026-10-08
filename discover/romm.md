@@ -7,11 +7,13 @@ Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oy
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 12.170 → 13.178, son sürüm 5.3.1 (23 Eylül 2026).
-- 20 Ağustos 2026: Yıldız 11.859 → 12.170, son sürüm 5.2.0 (20 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 9.887 → 11.859, son sürüm 5.1.0 (29 Temmuz 2026).
+
+- **27 Eylül 2026:** Yıldız 12.170 → 13.178, son sürüm 5.3.1 (23 Eylül 2026).
+- **20 Ağustos 2026:** Yıldız 11.859 → 12.170, son sürüm 5.2.0 (20 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 9.887 → 11.859, son sürüm 5.1.0 (29 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Oyun koleksiyonunuzu tarayıcı üzerinden yönetin
 - Tarayıcıda doğrudan oyun oynama desteği
 - Otomatik meta veri ve görsel zenginleştirme
@@ -32,23 +34,26 @@ curl -o docker-compose.yml https://raw.githubusercontent.com/rommapp/romm/master
 docker compose up -d
 ```
 
-Kaynak: Depodaki examples/docker-compose.example.yml
+**Kaynak:** Depodaki examples/docker-compose.example.yml
 
 ## Nasıl başlanır?
 
 Kuruluma başlamak için resmî dokümantasyon sayfasında yer alan Hızlı Başlangıç Kılavuzu'nu (Quick Start Guide) ziyaret etmeniz gerekmektedir. İlgili rehbere RomM dokümantasyon sitesi üzerinden ulaşarak kurulum adımlarını takip edebilirsiniz.
+
 - [Resmî kaynak →](https://romm.app)
 
-- **Kimin için:** Kendi oyun koleksiyonunu düzenli bir arayüzle yönetmek ve tarayıcı üzerinden hızlıca oynamak isteyen retro oyun meraklıları içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Kendi oyun koleksiyonunu düzenli bir arayüzle yönetmek ve tarayıcı üzerinden hızlıca oynamak isteyen retro oyun meraklıları içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/rommapp/romm)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-ROM
+
+- [ROM](https://trescout.com/dictionary/rom/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/romm/

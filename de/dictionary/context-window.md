@@ -1,36 +1,50 @@
 # Was ist Context Window?
 
+*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+
 Dabei handelt es sich um die Informationskapazität, die sich künstliche Intelligenz merken und gleichzeitig verarbeiten kann.
 
 ## Definition
+
 Dabei handelt es sich um die Gesamtmenge an Informationen, die künstliche Intelligenz während eines einzelnen Gesprächs oder einer einzelnen Transaktion speichern kann. Diese Grenze bestimmt, wie gut sich das Modell an die Vergangenheit erinnert.
 
+***Analogie:** Es hat die Größe eines Tisches; Je mehr Papiere auf den Tisch passen, desto mehr Informationen kann die KI auf einmal berücksichtigen.*
+
 ## So funktioniert es
+
 Während das Modell jedes neue Wort verarbeitet, behält es auch die vorherigen Wörter in diesem Fenster. Sobald das Fenster voll ist, beginnt das Modell, die ältesten Informationen zu vergessen.
 
 ## Wo es eingesetzt wird
+
 Diese Kapazität ist von entscheidender Bedeutung, wenn lange Bücher zusammengefasst oder ein komplexes Codeprojekt analysiert werden sollen.
 
 ## Häufig verwechselt mit
+
 Es wird mit dem allgemeinen Wissen über das Modell verwechselt; Allgemeinwissen wird in der Bildung erworben, und Kontextfenster ist das Kurzzeitgedächtnis des aktuellen Gesprächs.
 
 ## Häufige Fragen
+
 **Was passiert, wenn sich das Kontextfenster füllt?**
+
 Das Model vergisst den Beginn des Gesprächs und beginnt, vom Thema abzuschweifen.
 
 **Ist ein größeres Kontextfenster immer besser?**
+
 Ja, aber es kann zu höheren Transaktionskosten und Reaktionszeiten führen.
 
-
 ## Verwandte Begriffe
-- [Memory Engine](/de/dictionary/memory-engine/)
-- [LLM](/de/dictionary/llm/)
-- [Token](/de/dictionary/token/)
+
+- [Memory Engine](https://trescout.com/de/dictionary/memory-engine/)
+- [LLM](https://trescout.com/de/dictionary/llm/)
+- [Token](https://trescout.com/de/dictionary/token/)
 
 ## Verwandte Werkzeuge
-- [OmniRoute](/de/discover/omniroute/)
-- [Context Mode](/de/discover/context-mode/)
-- [Omlx](/de/discover/omlx/)
+
+- [OmniRoute](https://trescout.com/de/discover/omniroute/)
+- [Context Mode](https://trescout.com/de/discover/context-mode/)
+- [Omlx](https://trescout.com/de/discover/omlx/)
+
+Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/context-window/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/context-window/

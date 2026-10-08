@@ -7,10 +7,12 @@ Clojure diliyle yazılan Swarm Forge, birden fazla yapay zekâ ajanını (AI age
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
-- 17 Eylül 2026: Yıldız 2.897 → 3.897.
-- 27 Ağustos 2026: Yıldız 1.870 → 2.897.
+
+- **17 Eylül 2026:** Yıldız 2.897 → 3.897.
+- **27 Ağustos 2026:** Yıldız 1.870 → 2.897.
 
 ## Ne kazandırır?
+
 - Birden fazla yapay zekâ ajanını tek merkezden yönetir
 - Tmux terminal çoklayıcı ile ajanları eş zamanlı izletir
 - Proje özelinde özelleştirilebilir iş akışları sunar
@@ -33,18 +35,23 @@ curl -L "https://github.com/unclebob/swarm-forge/archive/refs/heads/${BRANCH}.ta
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir yazılım geliştirme ekibinin parçasısın. Swarm Forge sisteminin kurallarına ve proje dizinindeki yapılandırma dosyalarına uyarak sana verilen görevi yerine getir. Görevini yaparken diğer ajanlarla iş birliği içinde çalış, Git çalışma ağaçlarını kullan ve belirlenen rol tanımlarına sadık kalarak kodun kalitesini, test edilebilirliğini ve mimari standartlarını koru.
 
-- **Kimin için:** Karmaşık yazılım projelerinde birden fazla yapay zekâ ajanının görev dağılımını ve iletişimini disiplinli bir şekilde yönetmek isteyen geliştiriciler içindir. 
+- **Kimin için:** Karmaşık yazılım projelerinde birden fazla yapay zekâ ajanının görev dağılımını ve iletişimini disiplinli bir şekilde yönetmek isteyen geliştiriciler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/unclebob/swarm-forge)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Artificial Intelligence
+
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swarm-forge/

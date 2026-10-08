@@ -7,11 +7,13 @@ Tasarım mühendisleri için geliştirilen ui-skills, kullanıcı arayüzü (UI)
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 7.867 → 9.151, son sürüm v0.2.3 (22 Haziran 2026).
-- 31 Ağustos 2026: Yıldız 6.838 → 7.867, son sürüm v0.2.3 (22 Haziran 2026).
-- 2 Ağustos 2026: Yıldız 4.436 → 6.838, son sürüm v0.2.3 (22 Haziran 2026).
+
+- **27 Eylül 2026:** Yıldız 7.867 → 9.151, son sürüm v0.2.3 (22 Haziran 2026).
+- **31 Ağustos 2026:** Yıldız 6.838 → 7.867, son sürüm v0.2.3 (22 Haziran 2026).
+- **2 Ağustos 2026:** Yıldız 4.436 → 6.838, son sürüm v0.2.3 (22 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Arayüz geliştirme süreçlerinde teknik yetkinlik haritası
 - Tasarım ve kodlama arasında köprü kurma
 - Komut satırı üzerinden beceri setlerine erişim
@@ -45,19 +47,24 @@ npx ui-skills get baseline-ui
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bir tasarım mühendisi olarak arayüz geliştirme becerilerimi geliştirmek istiyorum. UI Skills aracını kullanarak motion kategorisindeki teknik yetkinlikleri listele ve baseline-ui becerisini edinmem için gerekli adımları açıkla.
 
-- **Kimin için:** Tasarım süreçlerinden kodlama aşamasına geçiş yapan ve teknik becerilerini geliştirmek isteyen tasarım mühendisleri içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Tasarım süreçlerinden kodlama aşamasına geçiş yapan ve teknik becerilerini geliştirmek isteyen tasarım mühendisleri içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ibelick/ui-skills)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Skills Artificial Intelligence
+
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ui-skills/

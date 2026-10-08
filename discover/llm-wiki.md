@@ -7,11 +7,13 @@ LLM Wiki, belgeleri otomatik olarak düzenleyip birbirine bağlı bir bilgi taba
 - GitHub Trending · 2026-09-11
 
 ## Güncelleme
-- 28 Eylül 2026: Yıldız 19.414 → 20.034, son sürüm v0.6.12 (28 Eylül 2026).
-- 14 Eylül 2026: Yıldız 18.359 → 19.414, son sürüm v0.6.11 (25 Ağustos 2026).
-- 11 Eylül 2026: Yıldız 18.355 → 18.359, son sürüm v0.6.11 (25 Ağustos 2026).
+
+- **28 Eylül 2026:** Yıldız 19.414 → 20.034, son sürüm v0.6.12 (28 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 18.359 → 19.414, son sürüm v0.6.11 (25 Ağustos 2026).
+- **11 Eylül 2026:** Yıldız 18.355 → 18.359, son sürüm v0.6.11 (25 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Belgeleri analiz edip birbirine bağlı wiki sayfalarına dönüştürür
 - Kalıcı hafıza yapısıyla verileri sürekli güncel tutar
 - Obsidian not alma yazılımı ile tam uyumlu çalışır
@@ -20,15 +22,20 @@ LLM Wiki, belgeleri otomatik olarak düzenleyip birbirine bağlı bir bilgi taba
 
 Projenin GitHub sayfasındaki kurulum adımlarını takip ederek bilgisayarınıza indirin. Node.js ve Rust geliştirme ortamlarının yüklü olduğundan emin olun, ardından komut satırı üzerinden gerekli bağımlılıkları yükleyip uygulamayı başlatabilirsiniz.
 
-- **Kimin için:** Kendi kişisel bilgi kütüphanesini manuel düzenlemek yerine yapay zekâ yardımıyla otomatik ve bağlantılı bir yapıda tutmak isteyen kullanıcılar içindir. 
+- **Kimin için:** Kendi kişisel bilgi kütüphanesini manuel düzenlemek yerine yapay zekâ yardımıyla otomatik ve bağlantılı bir yapıda tutmak isteyen kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/nashsu/llm_wiki)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-RAG LLM Rust Artificial Intelligence
+
+- [RAG](https://trescout.com/dictionary/rag/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/llm-wiki/

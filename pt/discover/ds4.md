@@ -6,12 +6,20 @@ Desenvolvido por Salvatore Sanfilippo, criador do Redis, o ds4 é um mecanismo d
 - C
 - GitHub Trending · 2026-08-03
 
+## Atualizações
+
+- **5 de outubro de 2026:** Estrelas 22,197 → 23,530.
+- **10 de setembro de 2026:** Estrelas 21,134 → 22,197.
+- **11 de agosto de 2026:** Estrelas 20,117 → 21,134.
+
 ## O que você ganha
+
 - Executa modelos de IA de alto desempenho em hardware de consumo
 - Permite o uso do modelo mesmo com capacidade de memória limitada, transmitindo dados via SSD
 - Permite a criação de um servidor LLM de nível empresarial com suporte multi-GPU
 
 ## Instalação
+
 **Construa para se adequar ao seu hardware**
 
 ```
@@ -31,8 +39,8 @@ make cpu              # CPU-only diagnostics build
 ./download_model.sh pro-q2-imatrix  # 512 GB RAM machines, PRO q2 imatrix quant
 ```
 
-
 ## Execução
+
 **Inicialize o modelo**
 
 ```
@@ -46,15 +54,28 @@ make cpu              # CPU-only diagnostics build
   --nothink
 ```
 
-
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Ajude-me a escolher o modelo DeepSeek ou GLM mais adequado de acordo com os recursos de hardware do meu sistema. Qual comando de download devo usar e como posso superar o gargalo de memória ativando o recurso de streaming por SSD? Além disso, explique as configurações básicas necessárias para usar este sistema de inteligência artificial que instalei como servidor local.
 
 ## Termos relacionados do glossário
 
+- [Inference Engine](https://trescout.com/pt/dictionary/inference-engine/)
+- [Inference](https://trescout.com/pt/dictionary/inference/)
+- [LLM](https://trescout.com/pt/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** Destina-se a desenvolvedores de software e administradores de sistemas que desejam executar modelos de inteligência artificial de alto desempenho em seu próprio hardware local.
+- **Licença:** MIT
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/antirez/ds4)
+- [Ler em turco →](https://trescout.com/discover/ds4/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-03: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/ds4/

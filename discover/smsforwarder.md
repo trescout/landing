@@ -7,9 +7,11 @@ SmsForwarder, Android cihazlardaki kısa mesajları, çağrıları ve uygulama b
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 26.560 → 27.342, son sürüm v3.5.0 (14 Şubat 2026).
+
+- **2 Ağustos 2026:** Yıldız 26.560 → 27.342, son sürüm v3.5.0 (14 Şubat 2026).
 
 ## Ne kazandırır?
+
 - SMS, çağrı ve bildirimleri otomatik iletme
 - Cihazı uzaktan yönetme ve veri sorgulama
 - Otomatik görevler ile cihaz otomasyonu
@@ -17,12 +19,14 @@ SmsForwarder, Android cihazlardaki kısa mesajları, çağrıları ve uygulama b
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için GitHub üzerindeki resmî sürümler sayfasını ziyaret edin. Sayfada yer alan güncel APK dosyasını cihazınıza indirip kurulumu tamamlayın. Detaylı kullanım kılavuzu ve yapılandırma adımları için projenin GitHub Wiki sayfasını inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://github.com/pppscn/SmsForwarder/releases)
 
-- **Kimin için:** Android cihazındaki mesajları ve bildirimleri merkezi bir noktadan takip etmek veya cihazını uzaktan yönetmek isteyen kullanıcılar içindir. 
-- **Lisans:** BSD-2-Clause 
+- **Kimin için:** Android cihazındaki mesajları ve bildirimleri merkezi bir noktadan takip etmek veya cihazını uzaktan yönetmek isteyen kullanıcılar içindir.
+- **Lisans:** BSD-2-Clause
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/pppscn/SmsForwarder)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

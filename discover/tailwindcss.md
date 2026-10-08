@@ -7,9 +7,11 @@ Tailwind CSS, hızlı kullanıcı arayüzü geliştirmeye odaklanan bir yardımc
 - GitHub Trending · 2026-08-05
 
 ## Güncelleme
-- 6 Ağustos 2026: Yıldız 96.571 → 96.949, son sürüm v4.3.3 (16 Temmuz 2026).
+
+- **6 Ağustos 2026:** Yıldız 96.571 → 96.949, son sürüm v4.3.3 (16 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Düşük seviyeli sınıflarla özgün tasarımlar oluşturun
 - Hazır bileşenlerle uğraşmadan arayüz geliştirin
 - Modern web projelerinde hızlı stil yönetimi sağlayın
@@ -30,23 +32,28 @@ npm install tailwindcss @tailwindcss/cli
 npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 ```
 
-Kaynak: npm kayıt defteri
+**Kaynak:** npm kayıt defteri
 
 ## Nasıl başlanır?
 
 Bu aracı kullanmaya başlamak için resmî web sitesi olan tailwindcss.com adresini ziyaret ederek kurulum ve kullanım dokümanlarını inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://tailwindcss.com/)
 
-- **Kimin için:** Web projelerinde hızlı ve özgün kullanıcı arayüzleri tasarlamak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Web projelerinde hızlı ve özgün kullanıcı arayüzleri tasarlamak isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/tailwindlabs/tailwindcss)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Utility-first CSS Framework Framework
+
+- [Utility-first](https://trescout.com/dictionary/utility-first/)
+- [CSS Framework](https://trescout.com/dictionary/css-framework/)
+- [Framework](https://trescout.com/dictionary/framework/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tailwindcss/

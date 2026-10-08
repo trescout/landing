@@ -6,12 +6,20 @@ Meetily es un asistente de reuniones de código abierto que procesa grabaciones 
 - Rust
 - GitHub Trending · 2026-07-05
 
+## Actualizaciones
+
+- **13 de septiembre de 2026:** Estrellas 29,473 → 30,692, última versión v0.4.1 (12 de septiembre de 2026).
+- **19 de agosto de 2026:** Estrellas 27,968 → 29,473, última versión v0.4.0 (5 de junio de 2026).
+- **2 de agosto de 2026:** Estrellas 15,565 → 27,968, última versión v0.4.0 (5 de junio de 2026).
+
 ## Qué aporta
+
 - Toda la transcripción y resumen de audio se realiza en su dispositivo.
 - No requiere conexión a la nube, tus datos no salen de tu computadora.
 - Funciona con modelos locales como Ollama o tus propios endpoints.
 
 ## Instalación
+
 **Instalación desde código fuente en Linux**
 
 ```
@@ -21,15 +29,28 @@ pnpm install
 ./build-gpu.sh
 ```
 
-
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 Al utilizar esta herramienta que procesa localmente las grabaciones de mis reuniones, quiero convertir mis transcripciones de audio en texto y extraer resúmenes de estos textos de una manera que proteja mi privacidad. ¿Cómo puedo crear las notas de reuniones más eficientes con modelos locales y al mismo tiempo asegurar que mis datos no salgan de mi dispositivo?
 
 ## Términos relacionados del glosario
 
+- [Speaker Diarization](https://trescout.com/es/dictionary/speaker-diarization/)
+- [Transcription](https://trescout.com/es/dictionary/transcription/)
+- [Rust](https://trescout.com/es/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
+- **Para quién es:** Es para profesionales e instituciones que se preocupan por la privacidad de los datos y no quieren cargar grabaciones de reuniones a servicios en la nube.
+- **Licencia:** MIT
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/Zackriya-Solutions/meetily)
+- [Leer en turco →](https://trescout.com/discover/meetily/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/meetily/

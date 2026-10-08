@@ -7,9 +7,11 @@ Awesome-mac, macOS işletim sistemi için geliştirilmiş yüksek kaliteli yazı
 - GitHub Trending · 2026-08-12
 
 ## Güncelleme
-- 12 Ağustos 2026: Yıldız 110.586 → 110.588, son sürüm v2.1.0 (30 Mart 2026).
+
+- **12 Ağustos 2026:** Yıldız 110.586 → 110.588, son sürüm v2.1.0 (30 Mart 2026).
 
 ## Ne kazandırır?
+
 - İhtiyaca uygun uygulamaları hızlıca bulma
 - Sistemli ve kategorize edilmiş yazılım listesi
 - Yüksek kaliteli macOS araçlarına erişim
@@ -17,12 +19,14 @@ Awesome-mac, macOS işletim sistemi için geliştirilmiş yüksek kaliteli yazı
 ## Nasıl başlanır?
 
 Bu araç bir yazılım kurulumu gerektirmez. İlgili GitHub sayfasını ziyaret ederek kategorize edilmiş macOS uygulamaları listesine göz atabilir ve ihtiyaç duyduğunuz yazılımları doğrudan inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://git.io/macx)
 
-- **Kimin için:** Yeni bir Mac kullanıcısı olan veya sistemini en iyi araçlarla donatmak isteyen herkes için uygundur. 
-- **Lisans:** CC0-1.0 
+- **Kimin için:** Yeni bir Mac kullanıcısı olan veya sistemini en iyi araçlarla donatmak isteyen herkes için uygundur.
+- **Lisans:** CC0-1.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/jaywcjlove/awesome-mac)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

@@ -7,11 +7,13 @@ Tencent tarafından geliştirilen WeKnora, ham belgeleri sorgulanabilir bir bilg
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
-- 4 Ekim 2026: Yıldız 30.355 → 31.949, son sürüm v0.8.2 (24 Eylül 2026).
-- 27 Eylül 2026: Yıldız 26.676 → 30.355, son sürüm v0.8.2 (24 Eylül 2026).
-- 18 Eylül 2026: Yıldız 26.667 → 26.676, son sürüm v0.8.0 (3 Eylül 2026).
+
+- **4 Ekim 2026:** Yıldız 30.355 → 31.949, son sürüm v0.8.2 (24 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 26.676 → 30.355, son sürüm v0.8.2 (24 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 26.667 → 26.676, son sürüm v0.8.0 (3 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Belgeleri sorgulanabilir bir bilgi tabanına dönüştürür
 - Karmaşık görevleri otonom şekilde çözen akıl yürütme ajanları sunar
 - Belgeleri otomatik güncellenen bir wiki sistemine çevirir
@@ -23,24 +25,29 @@ Tencent tarafından geliştirilen WeKnora, ham belgeleri sorgulanabilir bir bilg
 ```
 git clone https://github.com/Tencent/WeKnora.git
 cd WeKnora
-cp .env.example .env # Edit .env as needed, see comments in the file
-docker compose pull # Pull the latest images
-docker compose up -d # Start core services
+cp .env.example .env   # Edit .env as needed, see comments in the file
+docker compose pull     # Pull the latest images
+docker compose up -d    # Start core services
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir WeKnora asistanısın. Yüklenen belgeleri analiz ederek bunları sorgulanabilir bir bilgi tabanına dönüştür, otonom akıl yürütme ajanlarını kullanarak karmaşık soruları yanıtla ve bilgileri düzenli bir wiki yapısında güncel tut. Kullanıcının belgeler arasındaki bağlantıları kurmasına yardımcı ol, uzun süreli hafıza özelliğini kullanarak önceki etkileşimleri hatırla ve her zaman kurumsal düzeyde güvenli ve erişilebilir yanıtlar üret.
 
-- **Kimin için:** Kurumsal belgelerini, wiki sayfalarını ve dağınık verilerini akıllı bir bilgi sistemine dönüştürmek isteyen profesyoneller ve ekipler için uygundur. 
+- **Kimin için:** Kurumsal belgelerini, wiki sayfalarını ve dağınık verilerini akıllı bir bilgi sistemine dönüştürmek isteyen profesyoneller ve ekipler için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Tencent/WeKnora)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-RAG Artificial Intelligence
+
+- [RAG](https://trescout.com/dictionary/rag/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/weknora/

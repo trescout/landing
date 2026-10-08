@@ -7,10 +7,12 @@ PhotoGIMP, GIMP arayüzünü Photoshop kullanıcılarına tanıdık gelecek şek
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 17.197 → 18.200, son sürüm 3.1 (11 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 15.195 → 17.197, son sürüm 3.1 (11 Temmuz 2026).
+
+- **1 Ekim 2026:** Yıldız 17.197 → 18.200, son sürüm 3.1 (11 Temmuz 2026).
+- **2 Ağustos 2026:** Yıldız 15.195 → 17.197, son sürüm 3.1 (11 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Photoshop ile aynı kısayol tuşları
 - Alışık olduğunuz araç yerleşimi
 - Genişletilmiş çalışma alanı düzeni
@@ -30,19 +32,24 @@ choco install photogimp
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 GIMP programını Photoshop arayüzüne ve kısayollarına dönüştürmek için gerekli olan PhotoGIMP yamasını nasıl uygulayabilirim? İşletim sistemime uygun ayar dosyalarını GIMP klasörüne yerleştirme sürecinde dikkat etmem gereken yedekleme adımları nelerdir?
 
-- **Kimin için:** GIMP kullanmaya başlayan ancak Photoshop arayüzüne ve kısayollarına alışkın olan görsel tasarımcılar içindir. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** GIMP kullanmaya başlayan ancak Photoshop arayüzüne ve kısayollarına alışkın olan görsel tasarımcılar içindir.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Diolinux/PhotoGIMP)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Patch Artificial Intelligence
+
+- [Patch](https://trescout.com/dictionary/patch/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/photogimp/

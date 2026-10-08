@@ -1,27 +1,29 @@
 # Terminalde yapay zekâ Destekli Kodlama
 
-Claude Code ; terminalinizde yaşayan ve kod tabanınızı derinlemesine anlayan ajan tabanlı bir kodlama aracıdır. Doğal dil komutlarıyla dosyaları okur, değişiklik yapar ve testleri çalıştırarak geliştirme sürecinizi hızlandırır. (Bu sayfadaki birçok aracı onunla birlikte kullanabilirsiniz.)
+**Claude Code**; terminalinizde yaşayan ve **kod tabanınızı derinlemesine anlayan** ajan tabanlı bir kodlama aracıdır. Doğal dil komutlarıyla dosyaları okur, değişiklik yapar ve testleri çalıştırarak geliştirme sürecinizi hızlandırır. (Bu sayfadaki birçok aracı onunla birlikte kullanabilirsiniz.)
 
 - ★ 149.700
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
 
-TreScout notu: Terminalde çalışan kodlama ajanı: Depoyu okur, değişikliği yapar, komutu çalıştırır. Büyük kod tabanlarında kazancı belirgin; küçük düzeltmelerde araç kurmakla uğraşmak yerine elle yapmak daha hızlı olabilir.
+**TreScout notu:** Terminalde çalışan kodlama ajanı: Depoyu okur, değişikliği yapar, komutu çalıştırır. Büyük kod tabanlarında kazancı belirgin; küçük düzeltmelerde araç kurmakla uğraşmak yerine elle yapmak daha hızlı olabilir.
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 149.567 → 149.700, son sürüm v2.1.292 (6 Ekim 2026).
-- 6 Ekim 2026: Yıldız 149.342 → 149.567, son sürüm v2.1.291 (6 Ekim 2026).
-- 4 Ekim 2026: Yıldız 149.023 → 149.342, son sürüm v2.1.289 (3 Ekim 2026).
-- 3 Ekim 2026: Yıldız 148.923 → 149.023, son sürüm v2.1.288 (2 Ekim 2026).
 
-- **Kimin için:** Terminalde çalışan geliştiriciler 
-- **Zorluk:** Orta · terminal + Anthropic hesabı 
-- **Ne sunar:** Kod tabanını anlayan AI ajan 
-- **Durum:** Anthropic'in ürünü · açık kaynak DEĞİL 
-- **Ücret:** Kullanım Anthropic plan/hesabına bağlı 
+- **7 Ekim 2026:** Yıldız 149.567 → 149.700, son sürüm v2.1.292 (6 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 149.342 → 149.567, son sürüm v2.1.291 (6 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 149.023 → 149.342, son sürüm v2.1.289 (3 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 148.923 → 149.023, son sürüm v2.1.288 (2 Ekim 2026).
+
+- **Kimin için:** Terminalde çalışan geliştiriciler
+- **Zorluk:** Orta · terminal + Anthropic hesabı
+- **Ne sunar:** Kod tabanını anlayan AI ajan
+- **Durum:** Anthropic'in ürünü · açık kaynak DEĞİL
+- **Ücret:** Kullanım Anthropic plan/hesabına bağlı
 
 ## Ne kazandırır?
+
 - Kod tabanınızı anlar ve dosyalar arası işlemler yapar.
 - Doğal dille 'şunu ekle veya düzelt' demeniz yeterlidir.
 - Bu katalogdaki birçok beceri ve eklenti onunla birlikte kullanılır.
@@ -42,22 +44,28 @@ npm install -g @anthropic-ai/claude-code
 claude
 ```
 
-Kaynak: Resmî kaynak: https://github.com/anthropics/claude-code
+**Kaynak:** Resmî kaynak: https://github.com/anthropics/claude-code
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Terminalime 'curl -fsSL https://claude.ai/install.sh | bash' komutuyla Anthropic'in resmi Claude Code aracını kur, sonra proje klasörüme gidip 'claude' yazarak başlat ve kod yazmama yardım etmesini sağla.
 
-Lisans: ⚠️ Açık kaynak değildir ; Anthropic'in bir ürünüdür ve Ticari Kullanım Şartları'na tabidir. Aracı kullanmak serbesttir (hesap/plan gerekir), ancak kodunu serbestçe yeniden kullanıp dağıtamazsınız.
+**Lisans:** ⚠️ Açık kaynak **değildir**; Anthropic'in bir ürünüdür ve Ticari Kullanım Şartları'na tabidir. Aracı kullanmak serbesttir (hesap/plan gerekir), ancak kodunu serbestçe yeniden kullanıp dağıtamazsınız.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/anthropics/claude-code)
 - [Ticari Şartlar →](https://www.anthropic.com/legal/commercial-terms)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Open Source Artificial Intelligence
+
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code/

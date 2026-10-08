@@ -6,6 +6,7 @@ Kelsey Hightower tarafından hazırlanan Kubernetes the Hard Way, konteyner yön
 - GitHub Trending · 2026-09-26
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

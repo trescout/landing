@@ -7,12 +7,14 @@ OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açı
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 29.384 → 29.447, son sürüm v2.5.12 (1 Ekim 2026).
-- 27 Eylül 2026: Yıldız 29.312 → 29.384, son sürüm v2.5.11 (22 Eylül 2026).
-- 18 Eylül 2026: Yıldız 29.278 → 29.312, son sürüm v2.5.10 (18 Eylül 2026).
-- 16 Eylül 2026: Yıldız 29.080 → 29.278, son sürüm v2.5.9 (16 Eylül 2026).
+
+- **1 Ekim 2026:** Yıldız 29.384 → 29.447, son sürüm v2.5.12 (1 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 29.312 → 29.384, son sürüm v2.5.11 (22 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 29.278 → 29.312, son sürüm v2.5.10 (18 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 29.080 → 29.278, son sürüm v2.5.9 (16 Eylül 2026).
 
 ## Ne kazandırır?
+
 - PDF dosyalarını yapay zekâ modelleri için Markdown, JSON veya HTML formatına dönüştürür.
 - Taranmış belgeler ve karmaşık tablolar için yüksek doğrulukta veri ayıklama sağlar.
 - Erişilebilirlik standartlarına uygun olarak PDF dosyalarını otomatik etiketler.
@@ -40,26 +42,35 @@ import opendataloader_pdf
 
 # Batch all files in one call — each convert() spawns a JVM process, so repeated calls are slow
 opendataloader_pdf.convert(
-input_path=["file1.pdf", "file2.pdf", "folder/"],
-output_dir="output/",
-format="markdown,json"
+    input_path=["file1.pdf", "file2.pdf", "folder/"],
+    output_dir="output/",
+    format="markdown,json"
 )
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenDataLoader PDF aracını kullanarak elimdeki PDF dosyalarını analiz etmek ve bunları RAG veya LLM süreçlerinde kullanabileceğim yapılandırılmış veri formatlarına (Markdown veya JSON) dönüştürmek istiyorum. Python SDK'sını kullanarak yerel bilgisayarımda çalışacak şekilde, belgelerimdeki tabloları, başlıkları ve metinleri doğru okuma sırasıyla ayıklayacak bir betik hazırlamama yardımcı olur musun? Ayrıca karmaşık sayfalar için hibrit modun nasıl aktif edileceğini ve çıktıların nasıl özelleştirileceğini adım adım açıkla.
 
-- **Kimin için:** PDF belgelerini yapay zekâ modelleri için yapılandırılmış veriye dönüştürmek isteyen geliştiriciler ve PDF erişilebilirliğini otomatize etmesi gereken kullanıcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** PDF belgelerini yapay zekâ modelleri için yapılandırılmış veriye dönüştürmek isteyen geliştiriciler ve PDF erişilebilirliğini otomatize etmesi gereken kullanıcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/opendataloader-project/opendataloader-pdf)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PDF Parser Parser Markdown SDK RAG PDF
+
+- [PDF Parser](https://trescout.com/dictionary/pdf-parser/)
+- [Parser](https://trescout.com/dictionary/parser/)
+- [Markdown](https://trescout.com/dictionary/markdown/)
+- [SDK](https://trescout.com/dictionary/sdk/)
+- [RAG](https://trescout.com/dictionary/rag/)
+- [PDF](https://trescout.com/dictionary/pdf/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/opendataloader-pdf/

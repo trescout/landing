@@ -7,11 +7,13 @@ Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanları
 - GitHub Trending · 2026-06-12
 
 ## Güncelleme
-- 17 Eylül 2026: Yıldız 145.612 → 153.026.
-- 15 Ağustos 2026: Yıldız 138.170 → 145.612.
-- 2 Ağustos 2026: Yıldız 111.887 → 138.170.
+
+- **17 Eylül 2026:** Yıldız 145.612 → 153.026.
+- **15 Ağustos 2026:** Yıldız 138.170 → 145.612.
+- **2 Ağustos 2026:** Yıldız 111.887 → 138.170.
 
 ## Ne kazandırır?
+
 - Uzmanlık alanlarına göre özelleşmiş yapay zekâ ajanları ile iş akışlarını optimize eder.
 - Yazılım geliştirme, veri doğrulama ve içerik üretimi gibi süreçlerde profesyonel destek sağlar.
 - Claude Code, Cursor ve GitHub Copilot gibi popüler geliştirme araçlarıyla entegre çalışır.
@@ -39,19 +41,24 @@ Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanları
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Agency Agents projesindeki uzman yapay zekâ ajanlarını kullanarak çalışma süreçlerimi nasıl daha verimli hale getirebilirim? Hangi ajanların benim için uygun olduğunu belirlemek ve kurulumu gerçekleştirmek için izlemem gereken adımları açıklar mısın?
 
-- **Kimin için:** Yazılım geliştirme ve dijital süreçlerini özelleşmiş yapay zekâ ajanlarıyla yönetmek isteyen geliştiriciler ve teknik profesyoneller içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yazılım geliştirme ve dijital süreçlerini özelleşmiş yapay zekâ ajanlarıyla yönetmek isteyen geliştiriciler ve teknik profesyoneller içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/msitarzewski/agency-agents)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Shell Artificial Intelligence
+
+- [Shell](https://trescout.com/dictionary/shell/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agency-agents/

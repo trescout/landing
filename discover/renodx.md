@@ -7,6 +7,7 @@ Renodx, eski DirectX oyunlarına yüksek dinamik aralık (HDR) desteği ekleyen 
 - GitHub Trending · 2026-09-05
 
 ## Ne kazandırır?
+
 - Eski oyun grafiklerini modern ekran standartlarına yükseltir
 - Oyun içi gölgelendiricileri değiştirerek görsel kaliteyi artırır
 - Reshade eklenti sistemi sayesinde geniş oyun uyumluluğu sağlar
@@ -14,18 +15,22 @@ Renodx, eski DirectX oyunlarına yüksek dinamik aralık (HDR) desteği ekleyen 
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için projenin GitHub üzerindeki Wiki sayfasında bulunan mevcut modlar listesini inceleyebilir veya geliştirici araçlarını indirmek için resmî sayfadaki yardımcı programlar bölümüne göz atabilirsiniz. Kurulum ve kullanım detayları için dokümantasyon sayfalarını takip etmeniz önerilir.
+
 - [Resmî kaynak →](https://renodx.com/)
 
-- **Kimin için:** Eski oyunlarını modern ekran teknolojileriyle daha kaliteli bir görsel deneyim sunacak şekilde güncellemek isteyen oyuncular ve geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Eski oyunlarını modern ekran teknolojileriyle daha kaliteli bir görsel deneyim sunacak şekilde güncellemek isteyen oyuncular ve geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/clshortfuse/renodx)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-HLSL HDR
+
+- [HLSL](https://trescout.com/dictionary/hlsl/)
+- [HDR](https://trescout.com/dictionary/hdr/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/renodx/

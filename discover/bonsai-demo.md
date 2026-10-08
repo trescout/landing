@@ -7,9 +7,11 @@ Bonsai demo projesi, makine öğrenimi (machine learning) modellerinin dağıtı
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
-- 19 Eylül 2026: Yıldız 1.587 → 2.706.
+
+- **19 Eylül 2026:** Yıldız 1.587 → 2.706.
 
 ## Ne kazandırır?
+
 - Düşük bellek kullanımıyla yüksek performanslı modelleri yerel olarak çalıştırır.
 - Görsel işleme ve araç çağırma gibi gelişmiş özellikler sunar.
 - Farklı donanım mimarileriyle geniş uyumluluk sağlar.
@@ -37,26 +39,33 @@ export BONSAI_TOKEN="hf_your_token_here"
 **Yerel sunucuyu başlatma**
 
 ```
-./scripts/start_llama_server.sh # http://localhost:8080
+./scripts/start_llama_server.sh    # http://localhost:8080
 
 # Serve a different model size
 BONSAI_MODEL=4B ./scripts/start_llama_server.sh
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bonsai-demo projesini kullanarak yerel cihazımda yapay zekâ modellerini çalıştırmak istiyorum. Kurulum için gerekli olan git deposunu klonladıktan sonra, HuggingFace token bilgilerimi tanımlayıp ./setup.sh komutuyla bağımlılıkları ve modelleri indirmem gerekiyor. Ardından, ./scripts/start_llama_server.sh komutunu kullanarak yerel sunucuyu ayağa kaldırabilir ve tarayıcım üzerinden 8080 portu ile yapay zekâ ile etkileşime geçebilirim.
 
-- **Kimin için:** Yerel donanımında yüksek verimli yapay zekâ modellerini çalıştırmak isteyen geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Yerel donanımında yüksek verimli yapay zekâ modellerini çalıştırmak isteyen geliştiriciler için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/PrismML-Eng/Bonsai-demo)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Machine Learning Shell Token Artificial Intelligence
+
+- [Machine Learning](https://trescout.com/dictionary/machine-learning/)
+- [Shell](https://trescout.com/dictionary/shell/)
+- [Token](https://trescout.com/dictionary/token/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bonsai-demo/

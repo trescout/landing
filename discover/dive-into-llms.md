@@ -7,12 +7,14 @@ Dive into LLMs, büyük dil modellerinin (large language models) çalışma pren
 - GitHub Trending · 2026-07-25
 
 ## Güncelleme
-- 19 Eylül 2026: Yıldız 52.081 → 54.712, son sürüm v1 (12 Haziran 2025).
-- 6 Eylül 2026: Yıldız 49.468 → 52.081, son sürüm v1 (12 Haziran 2025).
-- 17 Ağustos 2026: Yıldız 47.047 → 49.468, son sürüm v1 (12 Haziran 2025).
-- 2 Ağustos 2026: Yıldız 45.115 → 47.047, son sürüm v1 (12 Haziran 2025).
+
+- **19 Eylül 2026:** Yıldız 52.081 → 54.712, son sürüm v1 (12 Haziran 2025).
+- **6 Eylül 2026:** Yıldız 49.468 → 52.081, son sürüm v1 (12 Haziran 2025).
+- **17 Ağustos 2026:** Yıldız 47.047 → 49.468, son sürüm v1 (12 Haziran 2025).
+- **2 Ağustos 2026:** Yıldız 45.115 → 47.047, son sürüm v1 (12 Haziran 2025).
 
 ## Ne kazandırır?
+
 - Büyük dil modellerinin çalışma prensiplerini kavrama
 - Jupyter Notebook üzerinden pratik kodlama deneyimi
 - Model ince ayar, güvenlik ve ajan geliştirme becerisi
@@ -20,17 +22,22 @@ Dive into LLMs, büyük dil modellerinin (large language models) çalışma pren
 ## Nasıl başlanır?
 
 Projenin resmî GitHub sayfasını ziyaret ederek '教程目录' başlığı altındaki tablodan ilginizi çeken konuyu seçin. İlgili satırdaki '脚本' bağlantısına tıklayarak Jupyter Notebook dosyalarına ulaşabilir ve bu dosyaları kendi ortamınızda çalıştırarak uygulamalı eğitime başlayabilirsiniz.
+
 - [Resmî kaynak →](https://github.com/Lordog/dive-into-llms/stargazers)
 
-- **Kimin için:** Büyük dil modellerini teorik bilginin ötesine taşıyıp kodlama pratiği ile öğrenmek isteyen öğrenciler ve araştırmacılar içindir. 
+- **Kimin için:** Büyük dil modellerini teorik bilginin ötesine taşıyıp kodlama pratiği ile öğrenmek isteyen öğrenciler ve araştırmacılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Lordog/dive-into-llms)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Jupyter Notebooks Large Language Models Artificial Intelligence
+
+- [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/dive-into-llms/

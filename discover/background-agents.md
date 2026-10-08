@@ -7,9 +7,11 @@ ColeMurray tarafından geliştirilen background-agents, TypeScript tabanlı aç�
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 2.329 → 3.335.
+
+- **7 Ekim 2026:** Yıldız 2.329 → 3.335.
 
 ## Ne kazandırır?
+
 - Arka planda otonom görevler yürütme
 - Tam kapsamlı geliştirme ortamlarına erişim
 - Slack ve GitHub üzerinden entegre çalışma
@@ -36,19 +38,23 @@ docker compose up -d postgres redis
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir arka plan yazılım ajanısın. Belirlediğim görevleri Node.js, Python ve git araçlarını kullanarak otonom şekilde gerçekleştirmeni istiyorum. Çalışırken geliştirdiğim projeye uygun commitler oluştur, gerekli durumlarda paralel alt görevler başlat ve yaptığın işlemleri GitHub üzerinden takip edilebilir kıl.
 
-- **Kimin için:** Kurumsal ağ içerisinde güvenilir bir ortamda otonom kodlama süreçlerini otomatize etmek isteyen yazılım ekipleri için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Kurumsal ağ içerisinde güvenilir bir ortamda otonom kodlama süreçlerini otomatize etmek isteyen yazılım ekipleri için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ColeMurray/background-agents)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/background-agents/

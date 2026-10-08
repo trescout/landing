@@ -7,12 +7,14 @@ Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarativ
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 24.154 → 24.345, son sürüm v3.5.4 (6 Ekim 2026).
-- 14 Eylül 2026: Yıldız 24.005 → 24.154, son sürüm v3.5.3 (14 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 23.927 → 24.005, son sürüm v3.5.2 (27 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 23.853 → 23.927, son sürüm v3.5.1 (12 Ağustos 2026).
+
+- **7 Ekim 2026:** Yıldız 24.154 → 24.345, son sürüm v3.5.4 (6 Ekim 2026).
+- **14 Eylül 2026:** Yıldız 24.005 → 24.154, son sürüm v3.5.3 (14 Eylül 2026).
+- **27 Ağustos 2026:** Yıldız 23.927 → 24.005, son sürüm v3.5.2 (27 Ağustos 2026).
+- **15 Ağustos 2026:** Yıldız 23.853 → 23.927, son sürüm v3.5.1 (12 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Git depoları ile otomatik uygulama senkronizasyonu
 - Bildirimsel ve izlenebilir dağıtım süreçleri
 - Kubernetes ortamlarında kolaylaştırılmış yaşam döngüsü yönetimi
@@ -39,23 +41,28 @@ kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/st
 kubectl port-forward svc/argocd-server -n argocd 8080:443
 ```
 
-Kaynak: Argo CD resmî manifesti (argoproj/argo-cd · stable)
+**Kaynak:** Argo CD resmî manifesti (argoproj/argo-cd · stable)
 
 ## Nasıl başlanır?
 
 Argo CD kullanmaya başlamak için resmî dokümantasyon sayfasını ziyaret ederek kurulum adımlarını takip edebilirsiniz. Projenin nasıl çalıştığını anlamak için hazırlanan canlı demoyu inceleyebilir ve kapsamlı rehberlere ulaşmak için Argo CD dokümantasyon sitesine göz atabilirsiniz.
+
 - [Resmî kaynak →](https://argo-cd.readthedocs.io)
 
-- **Kimin için:** Kubernetes üzerinde çalışan uygulamalarının dağıtım ve yaşam döngüsü süreçlerini otomatize etmek isteyen yazılım ve DevOps ekipleri için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Kubernetes üzerinde çalışan uygulamalarının dağıtım ve yaşam döngüsü süreçlerini otomatize etmek isteyen yazılım ve DevOps ekipleri için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/argoproj/argo-cd)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Declarative Continuous Deployment Continuous Deployment Deployment
+
+- [Declarative Continuous Deployment](https://trescout.com/dictionary/declarative-continuous-deployment/)
+- [Continuous Deployment](https://trescout.com/dictionary/continuous-deployment/)
+- [Deployment](https://trescout.com/dictionary/deployment/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/argo-cd/

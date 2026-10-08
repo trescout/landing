@@ -7,10 +7,12 @@ ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden ço
 - GitHub Trending · 2026-08-01
 
 ## Güncelleme
-- 7 Ağustos 2026: Yıldız 5.281 → 5.357, son sürüm v1.7 (6 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 5.115 → 5.281, son sürüm v1.6 (5 Haziran 2026).
+
+- **7 Ağustos 2026:** Yıldız 5.281 → 5.357, son sürüm v1.7 (6 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 5.115 → 5.281, son sürüm v1.6 (5 Haziran 2026).
 
 ## Ne kazandırır?
+
 - I2C, SPI, UART ve 1-Wire gibi protokolleri yönetme
 - Radyo frekansları, Bluetooth ve Wi-Fi ile etkileşim
 - Web tabanlı arayüz üzerinden donanım hata ayıklama
@@ -18,18 +20,22 @@ ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden ço
 ## Nasıl başlanır?
 
 Resmî web sitesindeki Web Flasher aracını kullanarak cihazınıza uygun yazılımı tarayıcınız üzerinden yükleyin. Ardından, bir seri terminal uygulaması veya tarayıcı tabanlı Web Serial terminali ile cihazınıza bağlanarak komut satırı arayüzüne erişim sağlayın.
+
 - [Resmî kaynak →](https://geo-tp.github.io/ESP32-Bit-Pirate/)
 
-- **Kimin için:** Donanım güvenliği, gömülü sistemler ve protokol analizi ile ilgilenen geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Donanım güvenliği, gömülü sistemler ve protokol analizi ile ilgilenen geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/geo-tp/ESP32-Bit-Pirate)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal CLI
+
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [CLI](https://trescout.com/dictionary/cli/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/esp32-bit-pirate/

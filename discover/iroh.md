@@ -6,12 +6,14 @@ Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ 
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 12.490 → 12.610, son sürüm v1.3.0 (28 Eylül 2026).
-- 12 Eylül 2026: Yıldız 12.327 → 12.490, son sürüm v1.2.0 (11 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 11.957 → 12.327, son sürüm v1.1.0 (25 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 9.418 → 11.957, son sürüm v1.0.3 (20 Temmuz 2026).
+
+- **29 Eylül 2026:** Yıldız 12.490 → 12.610, son sürüm v1.3.0 (28 Eylül 2026).
+- **12 Eylül 2026:** Yıldız 12.327 → 12.490, son sürüm v1.2.0 (11 Eylül 2026).
+- **27 Ağustos 2026:** Yıldız 11.957 → 12.327, son sürüm v1.1.0 (25 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 9.418 → 11.957, son sürüm v1.0.3 (20 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - IP adresleri yerine genel anahtar ile bağlantı kurma
 - Doğrudan veri aktarımı için otomatik delik açma (hole-punching)
 - QUIC tabanlı güvenli ve şifreli iletişim
@@ -44,22 +46,29 @@ brew install nogo/tap/iroh
 iroh node id
 ```
 
-Kaynak: Resmî kaynak: https://github.com/n0-computer/iroh
+**Kaynak:** Resmî kaynak: https://github.com/n0-computer/iroh
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Iroh kütüphanesini kullanarak anahtar tabanlı bir ağ bağlantısı kurmak istiyorum. Rust dilinde bir uç nokta oluşturup, başka bir uç noktaya genel anahtar üzerinden nasıl bağlanabileceğimi ve QUIC protokolü ile güvenli veri akışını nasıl başlatabileceğimi gösteren temel bir örnek kod yapısı oluşturur musun?
 
-- **Kimin için:** Doğrudan ve kesintisiz ağ bağlantıları kurmak isteyen Rust geliştiricileri için tasarlanmıştır. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Doğrudan ve kesintisiz ağ bağlantıları kurmak isteyen Rust geliştiricileri için tasarlanmıştır.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/n0-computer/iroh)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Key-based CLI Rust Artificial Intelligence
+
+- [Key-based](https://trescout.com/dictionary/key-based/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iroh/

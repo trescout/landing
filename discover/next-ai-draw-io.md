@@ -7,10 +7,12 @@ Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken ya
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
-- 8 Eylül 2026: Yıldız 33.999 → 35.699, son sürüm v0.4.16 (21 Mayıs 2026).
-- 2 Ağustos 2026: Yıldız 33.359 → 33.999, son sürüm v0.4.16 (21 Mayıs 2026).
+
+- **8 Eylül 2026:** Yıldız 33.999 → 35.699, son sürüm v0.4.16 (21 Mayıs 2026).
+- **2 Ağustos 2026:** Yıldız 33.359 → 33.999, son sürüm v0.4.16 (21 Mayıs 2026).
 
 ## Ne kazandırır?
+
 - Doğal dil komutlarıyla profesyonel şemalar çizin
 - Mevcut görselleri ve PDF dosyalarını diyagrama dönüştürün
 - Bulut mimarisi ve akış şemalarını hızla görselleştirin
@@ -35,19 +37,25 @@ npm run dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bir akış şeması oluşturmanı istiyorum. Kullanıcı kimlik doğrulama sürecini giriş yapma, çok faktörlü doğrulama ve oturum yönetimi adımlarını içerecek şekilde görselleştir.
 
-- **Kimin için:** Karmaşık süreçleri ve mimarileri hızlıca görselleştirmek isteyen teknik profesyoneller ve tasarımcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Karmaşık süreçleri ve mimarileri hızlıca görselleştirmek isteyen teknik profesyoneller ve tasarımcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/DayuanJiang/next-ai-draw-io)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Generative AI PDF Artificial Intelligence
+
+- [Generative AI](https://trescout.com/dictionary/generative-ai/)
+- [PDF](https://trescout.com/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/next-ai-draw-io/

@@ -7,10 +7,12 @@ JavaScript dilinin bir üst kümesi (superset) olan TypeScript, kodun derleme a�
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
-- 20 Ağustos 2026: Yıldız 110.042 → 110.286, son sürüm v7.0.2 (20 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 109.817 → 110.042, son sürüm v6.0.3 (16 Nisan 2026).
+
+- **20 Ağustos 2026:** Yıldız 110.042 → 110.286, son sürüm v7.0.2 (20 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 109.817 → 110.042, son sürüm v6.0.3 (16 Nisan 2026).
 
 ## Ne kazandırır?
+
 - Kod yazarken hata denetimi yapma
 - Statik tip tanımlama ile güvenilirlik
 - Ölçeklenebilir yazılım geliştirme süreçleri
@@ -37,23 +39,27 @@ npm install --save-dev typescript
 tsc index.ts
 ```
 
-Kaynak: npm (typescript) · resmî TypeScript dokümantasyonu (typescriptlang.org)
+**Kaynak:** npm (typescript) · resmî TypeScript dokümantasyonu (typescriptlang.org)
 
 ## Nasıl başlanır?
 
 TypeScript kullanmaya başlamak için resmî web sitesindeki TypeScript in 5 minutes rehberini inceleyebilir veya tarayıcı üzerinden çalışan TypeScript Playground ortamını deneyebilirsiniz. Kurulum yapmak isterseniz npm paket yöneticisi üzerinden projenize dahil edebilirsiniz.
+
 - [Resmî kaynak →](https://www.typescriptlang.org)
 
-- **Kimin için:** Daha güvenilir ve ölçeklenebilir JavaScript uygulamaları geliştirmek isteyen yazılımcılar için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Daha güvenilir ve ölçeklenebilir JavaScript uygulamaları geliştirmek isteyen yazılımcılar için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/microsoft/TypeScript)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Superset Static Typing
+
+- [Superset](https://trescout.com/dictionary/superset/)
+- [Static Typing](https://trescout.com/dictionary/static-typing/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/typescript/

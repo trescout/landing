@@ -7,10 +7,12 @@ Anthropic tarafından geliştirilen kodlama asistanı Claude Code için hazırla
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
-- 16 Eylül 2026: Yıldız 51.520 → 54.142.
-- 2 Ağustos 2026: Yıldız 48.592 → 51.520.
+
+- **16 Eylül 2026:** Yıldız 51.520 → 54.142.
+- **2 Ağustos 2026:** Yıldız 48.592 → 51.520.
 
 ## Ne kazandırır?
+
 - Kodlama asistanı için yetenek paketleri
 - Otomasyon ve eklenti entegrasyonu
 - Yazılım geliştirme süreçlerini hızlandırma
@@ -18,17 +20,21 @@ Anthropic tarafından geliştirilen kodlama asistanı Claude Code için hazırla
 ## Nasıl başlanır?
 
 Bu araç, Claude Code kullanıcısı geliştiriciler için hazırlanmış bir kaynak listesidir. Başlamak için Anthropic tarafından sunulan resmî Claude Code dokümantasyonunu ziyaret edebilir ve bu listedeki rehberler, eklentiler ve yetenek paketleri üzerinden projenizi özelleştirebilirsiniz.
+
 - [Resmî kaynak →](https://awesome.re)
 
-- **Kimin için:** Claude Code kullanarak yazılım geliştirme süreçlerini optimize etmek isteyen yazılımcılar içindir. 
+- **Kimin için:** Claude Code kullanarak yazılım geliştirme süreçlerini optimize etmek isteyen yazılımcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/hesreallyhim/awesome-claude-code)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Skills Artificial Intelligence
+
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-claude-code/

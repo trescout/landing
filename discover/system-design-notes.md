@@ -6,12 +6,14 @@ Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - 
 - GitHub Trending · 2026-09-09
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 21.598 → 22.766.
-- 27 Eylül 2026: Yıldız 19.361 → 21.598.
-- 12 Eylül 2026: Yıldız 18.359 → 19.361.
-- 10 Eylül 2026: Yıldız 17.273 → 18.359.
+
+- **2 Ekim 2026:** Yıldız 21.598 → 22.766.
+- **27 Eylül 2026:** Yıldız 19.361 → 21.598.
+- **12 Eylül 2026:** Yıldız 18.359 → 19.361.
+- **10 Eylül 2026:** Yıldız 17.273 → 18.359.
 
 ## Ne kazandırır?
+
 - Karmaşık yazılım mimarilerini anlama
 - Ölçeklenebilir sistem tasarımı prensipleri
 - Gerçek dünya sistem örnekleri analizi
@@ -19,17 +21,20 @@ Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - 
 ## Nasıl başlanır?
 
 Bu kaynak bir yazılım aracı değil, sistem tasarımı üzerine hazırlanmış bir not derlemesidir. İlgili konuları incelemek için proje sayfasındaki bağlantıları takip edebilir veya doğrudan tarayıcınız üzerinden notların bulunduğu web sitesini ziyaret edebilirsiniz.
+
 - [Resmî kaynak →](https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu)
 
-- **Kimin için:** Yazılım mimarisi ve sistem tasarımı mülakatlarına hazırlanan mühendis adayları için uygundur. 
+- **Kimin için:** Yazılım mimarisi ve sistem tasarımı mülakatlarına hazırlanan mühendis adayları için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/liquidslr/system-design-notes)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-System Design
+
+- [System Design](https://trescout.com/dictionary/system-design/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/system-design-notes/

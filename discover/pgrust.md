@@ -7,11 +7,13 @@ PostgreSQL veritabanı yönetim sisteminin Rust programlama dili ile yeniden yaz
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
-- 16 Eylül 2026: Yıldız 4.964 → 5.030, son sürüm v0.3 (15 Eylül 2026).
-- 10 Eylül 2026: Yıldız 3.957 → 4.964, son sürüm v0.2-release (30 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 2.171 → 3.957, son sürüm v0.2-release (30 Temmuz 2026).
+
+- **16 Eylül 2026:** Yıldız 4.964 → 5.030, son sürüm v0.3 (15 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 3.957 → 4.964, son sürüm v0.2-release (30 Temmuz 2026).
+- **2 Ağustos 2026:** Yıldız 2.171 → 3.957, son sürüm v0.2-release (30 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Postgres 18.3 ile disk uyumluluğu
 - 46 binden fazla regresyon test başarısı
 - Bellek güvenliği odaklı modern mimari
@@ -25,19 +27,25 @@ docker run -d --name pgrust -e POSTGRES_PASSWORD=secret malisper/pgrust:v0.1 && 
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Pgrust projesinin temel amacı nedir, mevcut PostgreSQL ile disk uyumluluğu nasıl sağlanıyor ve projenin geliştirilmesinde yapay zekâ destekli programlamadan nasıl yararlanılıyor? Pgrust'un şu anki sürümünün Postgres 18.3 ile uyumluluk durumu ve regresyon testlerindeki başarısı hakkında bilgi ver.
 
-- **Kimin için:** PostgreSQL mimarisini Rust dili ile modernize etmek isteyen geliştiriciler ve veritabanı araştırmacıları için uygundur. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** PostgreSQL mimarisini Rust dili ile modernize etmek isteyen geliştiriciler ve veritabanı araştırmacıları için uygundur.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/malisper/pgrust)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Memory Rust Artificial Intelligence
+
+- [Memory](https://trescout.com/dictionary/memory/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pgrust/

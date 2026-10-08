@@ -5,15 +5,17 @@ Vite, modern web projeleri için hızlı bir geliştirme ortamı ve derleme arac
 - ★ 83.213
 - GitHub Trending · 2026-06-07
 
-TreScout notu: Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.
+**TreScout notu:** Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 83.091 → 83.213, son sürüm v8.3.3 (6 Ekim 2026).
-- 1 Ekim 2026: Yıldız 83.027 → 83.091, son sürüm v8.3.2 (1 Ekim 2026).
-- 27 Eylül 2026: Yıldız 82.787 → 83.027, son sürüm v8.3.1 (24 Eylül 2026).
-- 11 Eylül 2026: Yıldız 82.502 → 82.787, son sürüm create-vite@9.2.1 (10 Eylül 2026).
+
+- **6 Ekim 2026:** Yıldız 83.091 → 83.213, son sürüm v8.3.3 (6 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 83.027 → 83.091, son sürüm v8.3.2 (1 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 82.787 → 83.027, son sürüm v8.3.1 (24 Eylül 2026).
+- **11 Eylül 2026:** Yıldız 82.502 → 82.787, son sürüm create-vite@9.2.1 (10 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yerel ES modülleri sayesinde anında sunucu başlatma
 - Hızlı modül değişimi ile kesintisiz geliştirme süreci
 - Üretim aşaması için optimize edilmiş kod paketleme
@@ -36,22 +38,26 @@ npm install
 npm run dev
 ```
 
-Kaynak: Resmî kaynak: https://github.com/vitejs/vite
+**Kaynak:** Resmî kaynak: https://github.com/vitejs/vite
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Benim için modern bir web projesi başlatmak istiyorum. Vite kullanarak geliştirme ortamımı nasıl kurabilirim ve projemi yayına hazırlamak için hangi adımları izlemeliyim? Hızlı geliştirme ve optimize edilmiş derleme süreçleri için temel yapılandırma önerilerini açıkla.
 
-- **Kimin için:** Web projelerinde geliştirme hızını artırmak ve modern araçlarla çalışmak isteyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Web projelerinde geliştirme hızını artırmak ve modern araçlarla çalışmak isteyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/vitejs/vite)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vite/

@@ -7,12 +7,14 @@ Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerin
 - GitHub Trending · 2026-09-11
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 39.698 → 40.157, son sürüm v2.0.0 (6 Ekim 2026).
-- 5 Ekim 2026: Yıldız 37.791 → 39.698, son sürüm v1.12.1 (24 Eylül 2026).
-- 27 Eylül 2026: Yıldız 36.260 → 37.791, son sürüm v1.12.1 (24 Eylül 2026).
-- 19 Eylül 2026: Yıldız 34.474 → 36.260, son sürüm v1.11.0 (13 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 39.698 → 40.157, son sürüm v2.0.0 (6 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 37.791 → 39.698, son sürüm v1.12.1 (24 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 36.260 → 37.791, son sürüm v1.12.1 (24 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 34.474 → 36.260, son sürüm v1.11.0 (13 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yüksek kapasiteli modelleri kısıtlı donanımlarda çalıştırır
 - VRAM, RAM ve disk belleğini tek katman gibi yönetir
 - Uzman katmanlarını akış yöntemiyle işleyerek verimlilik sağlar
@@ -23,7 +25,7 @@ Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerin
 
 ```
 git clone https://github.com/JustVugg/colibri && cd colibri/c
-./setup.sh # checks gcc/OpenMP, builds, self-tests
+./setup.sh                                # checks gcc/OpenMP, builds, self-tests
 ```
 
 ## Çalıştırma
@@ -35,23 +37,30 @@ cd c
 make deepseek-v4
 python ./coli chat --model /path/to/DeepSeek-V4-Flash --ram 32
 # also: coli run / coli serve / coli web
-# Windows CUDA tier: make cuda-dsv4-dll CUDA_ARCH=portable (+ make cuda-dsv4-dg-dll on RTX 50)
+# Windows CUDA tier: make cuda-dsv4-dll CUDA_ARCH=portable  (+ make cuda-dsv4-dg-dll on RTX 50)
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Colibri motorunu kullanarak yerel bilgisayarımda büyük ölçekli yapay zekâ modellerini çalıştırmak istiyorum. Donanım kaynaklarımı (VRAM, RAM ve NVMe disk) en verimli şekilde kullanacak şekilde yapılandırmamı sağla. Özellikle GLM veya DeepSeek gibi modelleri, sistemimin bellek kapasitesine göre nasıl optimize edip çalıştırabileceğimi adım adım açıkla.
 
-- **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla kendi bilgisayarında çalıştırmak isteyen araştırmacılar ve yazılımcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla kendi bilgisayarında çalıştırmak isteyen araştırmacılar ve yazılımcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/JustVugg/colibri)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Mixture of Experts VRAM RAM Artificial Intelligence
+
+- [Mixture of Experts](https://trescout.com/dictionary/mixture-of-experts/)
+- [VRAM](https://trescout.com/dictionary/vram/)
+- [RAM](https://trescout.com/dictionary/ram/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/colibri/

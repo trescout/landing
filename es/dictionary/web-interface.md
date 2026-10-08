@@ -1,31 +1,44 @@
 # ¿Qué es Web Interface?
 
+*Glosario · Dev · Última actualización: 3 de junio de 2026*
+
 Es una interfaz visual que le permite administrar fácilmente software complejo o modelos de inteligencia artificial a través de su navegador de Internet.
 
 ## Definición
+
 En ocasiones, el software puede consistir únicamente en líneas de código y es difícil de utilizar. La interfaz web le permite utilizar el poder detrás de estos códigos a través de botones, menús y cuadros. Esa pantalla normal que ves cuando abres tu navegador e ingresas una dirección es en realidad el panel de control de un enorme sistema que se ejecuta en segundo plano.
 
+***Analogía:** Es como conducir un coche utilizando el volante y los pedales, sin necesidad de saber cómo funciona su motor.*
+
 ## Cómo funciona
+
 Los desarrolladores combinan complejos procesos detrás de escena con el diseño de un sitio web. Cuando hace clic en un botón, la interfaz ejecuta los comandos relevantes en segundo plano y le muestra el resultado en la pantalla.
 
 ## Dónde se usa
+
 Se encuentra en herramientas de inteligencia artificial como ChatGPT, paneles de gestión basados ​​en la nube y herramientas online.
 
 ## Suele confundirse con
+
 El software en sí y su interfaz no son lo mismo; La interfaz es sólo una puerta.
 
 ## Preguntas frecuentes
+
 **¿Todos los programas tienen una interfaz web?**
+
 No, algunos solo funcionan mediante línea de comando (CLI).
 
 **¿La interfaz web requiere internet?**
+
 Normalmente sí, porque se conecta al servidor a través del navegador.
 
-
 ## Términos relacionados
-- [CLI](/es/dictionary/cli/)
-- [API](/es/dictionary/api/)
-- [Design Language](/es/dictionary/design-language/)
+
+- [CLI](https://trescout.com/es/dictionary/cli/)
+- [API](https://trescout.com/es/dictionary/api/)
+- [Design Language](https://trescout.com/es/dictionary/design-language/)
+
+Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/web-interface/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/web-interface/

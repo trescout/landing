@@ -7,6 +7,7 @@ Anthropic tarafından paylaşılan bu atölye çalışmaları, geliştiricilere 
 - GitHub Trending · 2026-07-18
 
 ## Ne kazandırır?
+
 - Çoklu ajan sistemlerini yetenekler ve MCP ile kurgulama
 - Ajanlara kalıcı hafıza ve öğrenme yetisi kazandırma
 - Değerlendirme odaklı ajan geliştirme süreçleri
@@ -15,16 +16,20 @@ Anthropic tarafından paylaşılan bu atölye çalışmaları, geliştiricilere 
 
 Bu araç, Anthropic tarafından düzenlenen Code with Claude atölye çalışmalarındaki materyalleri içerir. Başlamak için GitHub üzerindeki resmi cwc-workshops deposunu ziyaret edin ve ilginizi çeken klasörün içine girerek oradaki yönergeleri takip edin.
 
-- **Kimin için:** Yapay zekâ ajanları oluşturma süreçlerini uygulamalı örneklerle öğrenmek isteyen geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Yapay zekâ ajanları oluşturma süreçlerini uygulamalı örneklerle öğrenmek isteyen geliştiriciler için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/anthropics/cwc-workshops)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Computer Use MCP Artificial Intelligence
+
+- [Computer Use](https://trescout.com/dictionary/computer-use/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cwc-workshops/

@@ -7,12 +7,14 @@ Loopx, uzun süreli çalışan yapay zekâ ajan ekipleri için geliştirilmiş h
 - GitHub Trending · 2026-08-06
 
 ## Güncelleme
-- 16 Eylül 2026: Yıldız 5.853 → 5.864, son sürüm v1.0.5 (15 Eylül 2026).
-- 15 Eylül 2026: Yıldız 5.793 → 5.853, son sürüm v1.0.4 (15 Eylül 2026).
-- 11 Eylül 2026: Yıldız 5.751 → 5.793, son sürüm v1.0.3 (11 Eylül 2026).
-- 9 Eylül 2026: Yıldız 5.726 → 5.751, son sürüm v1.0.2 (9 Eylül 2026).
+
+- **16 Eylül 2026:** Yıldız 5.853 → 5.864, son sürüm v1.0.5 (15 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 5.793 → 5.853, son sürüm v1.0.4 (15 Eylül 2026).
+- **11 Eylül 2026:** Yıldız 5.751 → 5.793, son sürüm v1.0.3 (11 Eylül 2026).
+- **9 Eylül 2026:** Yıldız 5.726 → 5.751, son sürüm v1.0.2 (9 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Uzun süreli görevlerde hedef takibini ve kota yönetimini standartlaştırır.
 - Farklı yapay zekâ ajanları arasında doğrulanabilir iş devri sağlar.
 - Görev geçmişini ve kanıtları düzenli bir yapıda saklar.
@@ -38,19 +40,24 @@ loopx status
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Seninle uzun süreli bir proje üzerinde çalışacağız. Görevlerimizi, hedeflerimizi ve ilerleme kayıtlarımızı LoopX durum çekirdeği ile yönetmeni istiyorum. Çalışırken her adımda mevcut durumu kontrol et, tamamlanan işlerin kanıtlarını kaydet ve bir sonraki yapılacak işi (todo) belirleyerek kota sınırları içinde kal. Görev devri yaparken veya yeni bir aşamaya geçerken LoopX üzerinden doğrulanabilir bir iz bırak.
 
-- **Kimin için:** Günlerce süren yazılım geliştirme, araştırma veya veri analizi gibi karmaşık süreçleri yöneten yapay zekâ ajanları kullanan kişiler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Günlerce süren yazılım geliştirme, araştırma veya veri analizi gibi karmaşık süreçleri yöneten yapay zekâ ajanları kullanan kişiler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/huangruiteng/loopx)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-State Kernel Artificial Intelligence
+
+- [State Kernel](https://trescout.com/dictionary/state-kernel/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/loopx/

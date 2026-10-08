@@ -5,15 +5,17 @@ Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compila
 - ★ 34.208
 - GitHub Trending · 2026-06-14
 
-TreScout notu: Yazdığınız modern JavaScript kodunu tarayıcıların anladığı biçime çevirir, aynı işi yapan eski araçlara göre çok daha hızlıdır. Hata denetimi yapmaz, yalnızca çevirir. Bazı popüler çerçeveler bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz.
+**TreScout notu:** Yazdığınız modern JavaScript kodunu tarayıcıların anladığı biçime çevirir, aynı işi yapan eski araçlara göre çok daha hızlıdır. Hata denetimi yapmaz, yalnızca çevirir. Bazı popüler çerçeveler bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz.
 
 ## Güncelleme
-- 30 Eylül 2026: Yıldız 34.208 → 34.208, son sürüm v1.16.13 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 34.208 → 34.208, son sürüm v1.16.12 (29 Eylül 2026).
-- 28 Eylül 2026: Yıldız 34.191 → 34.208, son sürüm v1.16.10-nightly-20260928.1 (28 Eylül 2026).
-- 13 Eylül 2026: Yıldız 34.197 → 34.191, son sürüm v1.16.4-nightly-20260913.1 (13 Eylül 2026).
+
+- **30 Eylül 2026:** Yıldız 34.208 → 34.208, son sürüm v1.16.13 (30 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 34.208 → 34.208, son sürüm v1.16.12 (29 Eylül 2026).
+- **28 Eylül 2026:** Yıldız 34.191 → 34.208, son sürüm v1.16.10-nightly-20260928.1 (28 Eylül 2026).
+- **13 Eylül 2026:** Yıldız 34.197 → 34.191, son sürüm v1.16.4-nightly-20260913.1 (13 Eylül 2026).
 
 ## Ne kazandırır?
+
 - JavaScript ve TypeScript dosyalarını yüksek hızla işler
 - Rust diliyle geliştirilmiş performanslı altyapı sunar
 - Modern web geliştirme süreçlerini hızlandırır
@@ -40,22 +42,31 @@ npm install -g @swc/cli @swc/core
 swc index.ts -o index.js
 ```
 
-Kaynak: Resmî kaynak: https://github.com/swc-project/swc
+**Kaynak:** Resmî kaynak: https://github.com/swc-project/swc
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Benim bir web geliştirme projem var ve derleme süreçlerimi hızlandırmak istiyorum. Rust diliyle yazılmış olan SWC (Speedy Web Compiler) aracını kullanarak JavaScript ve TypeScript dosyalarımı nasıl daha verimli işleyebilirim? Projemin ihtiyaçlarına göre bu aracı nasıl yapılandırabilirim ve Babel gibi diğer araçlardan geçiş yaparken nelere dikkat etmeliyim?
 
-- **Kimin için:** Web projelerinde derleme ve paketleme sürelerini kısaltmak isteyen JavaScript, TypeScript ve Rust geliştiricileri içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Web projelerinde derleme ve paketleme sürelerini kısaltmak isteyen JavaScript, TypeScript ve Rust geliştiricileri içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/swc-project/swc)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Compilation Bundling Web Compiler Compiler Rust Artificial Intelligence
+
+- [Compilation](https://trescout.com/dictionary/compilation/)
+- [Bundling](https://trescout.com/dictionary/bundling/)
+- [Web Compiler](https://trescout.com/dictionary/web-compiler/)
+- [Compiler](https://trescout.com/dictionary/compiler/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swc/

@@ -7,12 +7,14 @@ Open Interpreter, yerel bilgisayar ortamında kod çalıştırarak yazılım gel
 - GitHub Trending · 2026-07-16
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 68.478 → 68.521, son sürüm rust-v0.0.56 (7 Ekim 2026).
-- 1 Ekim 2026: Yıldız 68.450 → 68.478, son sürüm rust-v0.0.55 (30 Eylül 2026).
-- 27 Eylül 2026: Yıldız 68.328 → 68.450, son sürüm rust-v0.0.45 (20 Eylül 2026).
-- 15 Eylül 2026: Yıldız 68.315 → 68.328, son sürüm rust-v0.0.44 (15 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 68.478 → 68.521, son sürüm rust-v0.0.56 (7 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 68.450 → 68.478, son sürüm rust-v0.0.55 (30 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 68.328 → 68.450, son sürüm rust-v0.0.45 (20 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 68.315 → 68.328, son sürüm rust-v0.0.44 (15 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yerel terminal üzerinden yazılım süreçlerini otomatize eder.
 - Düşük maliyetli dil modelleriyle uyumlu çalışır.
 - Web ve yerel uygulamaları test etme yeteneği sunar.
@@ -34,19 +36,27 @@ i
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bilgisayarımda bir kodlama ajanı olarak görev yapmanı istiyorum. Yerel ortamımda kod çalıştırarak karmaşık görevleri otomatize etmeni, gerektiğinde web veya yerel uygulamaları test etmeni bekliyorum. İşlemleri gerçekleştirirken düşük maliyetli modelleri optimize eden yapıları kullan ve terminal üzerinden komutlarımı güvenli bir şekilde yürüt.
 
-- **Kimin için:** Yazılım geliştirme süreçlerini terminal üzerinden otomatize etmek isteyen kullanıcılar için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Yazılım geliştirme süreçlerini terminal üzerinden otomatize etmek isteyen kullanıcılar için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/openinterpreter/openinterpreter)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Coding Agent Terminal Agent Rust Artificial Intelligence
+
+- [Coding Agent](https://trescout.com/dictionary/coding-agent/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openinterpreter/

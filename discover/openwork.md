@@ -7,12 +7,14 @@ Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geli�
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 23.828 → 23.929, son sürüm v0.18.57 (7 Ekim 2026).
-- 3 Ekim 2026: Yıldız 23.747 → 23.828, son sürüm v0.18.56 (3 Ekim 2026).
-- 27 Eylül 2026: Yıldız 23.574 → 23.747, son sürüm v0.18.54 (25 Eylül 2026).
-- 16 Eylül 2026: Yıldız 23.547 → 23.574, son sürüm v0.18.48 (15 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 23.828 → 23.929, son sürüm v0.18.57 (7 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 23.747 → 23.828, son sürüm v0.18.56 (3 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 23.574 → 23.747, son sürüm v0.18.54 (25 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 23.547 → 23.574, son sürüm v0.18.48 (15 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâ araçları arasında yetenekleri paylaşma
 - Google Workspace ve Microsoft 365 entegrasyonu
 - Ekip içinde merkezi yetenek yönetimi
@@ -26,18 +28,22 @@ pnpm dev:worktree
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Install OpenWork on my computer, set up my first workspace, and open it ready to use. Follow the steps in https://openworklabs.com/start.md?v=hero
 
-- **Kimin için:** Yapay zekâ destekli yazılım geliştirme süreçlerini otomatize etmek ve araçları arasında iş akışlarını paylaşmak isteyen geliştiriciler içindir. 
+- **Kimin için:** Yapay zekâ destekli yazılım geliştirme süreçlerini otomatize etmek ve araçları arasında iş akışlarını paylaşmak isteyen geliştiriciler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/different-ai/openwork)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openwork/

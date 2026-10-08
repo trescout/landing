@@ -8,9 +8,14 @@ Spirula Studio est un outil pédagogique multiplateforme qui convertit les vidé
 
 ## Termes liés du glossaire
 
+- [Mesh](https://trescout.com/fr/dictionary/mesh/)
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/harry7557558/spirula-studio)
+- [Lire en turc →](https://trescout.com/discover/spirula-studio/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/spirula-studio/

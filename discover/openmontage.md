@@ -7,12 +7,14 @@ OpenMontage, yapay zekâ kodlama asistanlarını tam kapsamlı bir video prodük
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 61.422 → 64.509.
-- 27 Eylül 2026: Yıldız 58.024 → 61.422.
-- 13 Eylül 2026: Yıldız 54.943 → 58.024.
-- 31 Ağustos 2026: Yıldız 49.954 → 54.943.
+
+- **6 Ekim 2026:** Yıldız 61.422 → 64.509.
+- **27 Eylül 2026:** Yıldız 58.024 → 61.422.
+- **13 Eylül 2026:** Yıldız 54.943 → 58.024.
+- **31 Ağustos 2026:** Yıldız 49.954 → 54.943.
 
 ## Ne kazandırır?
+
 - Otomatik senaryo, görsel ve ses kurgusu
 - Stok görüntü ve açık arşivlerden video derleme
 - Adım adım onaylı prodüksiyon planlama
@@ -28,19 +30,28 @@ make setup
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenMontage sistemini kullanarak bir video prodüksiyonu başlatmak istiyorum. Konu, hedef süre ve görsel tarzı belirleyerek araştırmadan kurguya kadar tüm süreci yönetmeni istiyorum. Lütfen önce bir prodüksiyon planı oluştur, maliyet tahmini yap ve onayımı alarak varlık üretimine geç.
 
-- **Kimin için:** Kodlama asistanlarını kullanarak kendi video içeriklerini otomatize etmek isteyen içerik üreticileri ve geliştiriciler içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Kodlama asistanlarını kullanarak kendi video içeriklerini otomatize etmek isteyen içerik üreticileri ve geliştiriciler içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/calesthio/OpenMontage)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic System Pipeline Agent Skills Agentic AI Skills Agent
+
+- [Agentic System](https://trescout.com/dictionary/agentic-system/)
+- [Pipeline](https://trescout.com/dictionary/pipeline/)
+- [Agent Skills](https://trescout.com/dictionary/agent-skills/)
+- [Agentic](https://trescout.com/dictionary/agentic/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Agent](https://trescout.com/dictionary/agent/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openmontage/

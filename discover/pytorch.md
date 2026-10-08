@@ -7,11 +7,13 @@ PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (dynam
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 102.730 → 103.573, son sürüm v2.14.1 (30 Eylül 2026).
-- 3 Eylül 2026: Yıldız 102.131 → 102.730, son sürüm v2.14.0 (2 Eylül 2026).
-- 2 Ağustos 2026: Yıldız 101.297 → 102.131, son sürüm v2.13.0 (8 Temmuz 2026).
+
+- **1 Ekim 2026:** Yıldız 102.730 → 103.573, son sürüm v2.14.1 (30 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 102.131 → 102.730, son sürüm v2.14.0 (2 Eylül 2026).
+- **2 Ağustos 2026:** Yıldız 101.297 → 102.131, son sürüm v2.13.0 (8 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - GPU destekli yüksek performanslı tensör hesaplamaları
 - Dinamik sinir ağları ile esnek model geliştirme
 - Python ekosistemiyle tam uyumlu çalışma
@@ -35,18 +37,25 @@ pip install --group dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 PyTorch kütüphanesini kullanarak derin öğrenme modelleri geliştirmek istiyorum. Tensör hesaplamaları, dinamik sinir ağları oluşturma ve GPU hızlandırmasından faydalanma konularında bana adım adım rehberlik et. Özellikle torch.nn ve torch.autograd bileşenlerini nasıl kullanacağımı, Python yapısıyla nasıl entegre edeceğimi ve model eğitim süreçlerini nasıl optimize edebileceğimi açıkla.
 
-- **Kimin için:** Derin öğrenme modelleri geliştirmek isteyen araştırmacılar ve yazılımcılar için uygundur. 
+- **Kimin için:** Derin öğrenme modelleri geliştirmek isteyen araştırmacılar ve yazılımcılar için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/pytorch/pytorch)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Dynamic Neural Networks Neural Networks GPU Artificial Intelligence
+
+- [Dynamic Neural Networks](https://trescout.com/dictionary/dynamic-neural-networks/)
+- [Neural Networks](https://trescout.com/dictionary/neural-networks/)
+- [GPU](https://trescout.com/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pytorch/

@@ -1,8 +1,8 @@
 # Açık kaynaklı modern proxy istemcisi
 
-FlClash ; ClashMeta tabanlı, çok platformlu bir proxy (vekil sunucu) istemcisidir. Dart ile geliştirilmiş olup reklamsız, kullanıcı dostu ve açık kaynaklı bir yapıya sahiptir.
+**FlClash**; ClashMeta tabanlı, **çok platformlu** bir proxy (vekil sunucu) istemcisidir. Dart ile geliştirilmiş olup reklamsız, kullanıcı dostu ve açık kaynaklı bir yapıya sahiptir.
 
-_Görsel: FlClash (proje deposundan)_
+*Görsel: FlClash (proje deposundan)*
 
 - ★ 54.202
 - Dart
@@ -10,39 +10,47 @@ _Görsel: FlClash (proje deposundan)_
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 52.097 → 54.202, son sürüm v0.8.99 (3 Ekim 2026).
-- 14 Eylül 2026: Yıldız 51.594 → 52.097, son sürüm v0.8.98 (14 Eylül 2026).
-- 10 Eylül 2026: Yıldız 49.138 → 51.594, son sürüm v0.8.97 (10 Eylül 2026).
-- 18 Ağustos 2026: Yıldız 48.759 → 49.138, son sürüm v0.8.96 (17 Ağustos 2026).
 
-- **Kimin için:** Proxy/vekil sunucu istemcisi arayanlar 
-- **Zorluk:** Kolay-orta · uygulama 
-- **Ne sunar:** Çok platformlu, reklamsız proxy istemcisi 
-- **Ücret:** Ücretsiz · açık kaynak (GPL-3.0) 
-- **Lisans:** GPL-3.0 · ayrıntı aşağıda 
+- **3 Ekim 2026:** Yıldız 52.097 → 54.202, son sürüm v0.8.99 (3 Ekim 2026).
+- **14 Eylül 2026:** Yıldız 51.594 → 52.097, son sürüm v0.8.98 (14 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 49.138 → 51.594, son sürüm v0.8.97 (10 Eylül 2026).
+- **18 Ağustos 2026:** Yıldız 48.759 → 49.138, son sürüm v0.8.96 (17 Ağustos 2026).
+
+- **Kimin için:** Proxy/vekil sunucu istemcisi arayanlar
+- **Zorluk:** Kolay-orta · uygulama
+- **Ne sunar:** Çok platformlu, reklamsız proxy istemcisi
+- **Ücret:** Ücretsiz · açık kaynak (GPL-3.0)
+- **Lisans:** GPL-3.0 · ayrıntı aşağıda
 
 ## Ne kazandırır?
+
 - Birden fazla platformda çalışma imkanı.
 - Reklamsız ve sade bir arayüz.
 - Açık kaynaklı ClashMeta gücü.
 
 ## Kullanım notu
 
-Bir proxy istemcisi yalnızca araçtır; bulunduğunuz ülkenin yasalarına ve kullandığınız servislerin şartlarına uygun kullanmak sizin sorumluluğunuzdadır.
+Bir proxy istemcisi yalnızca araçtır; **bulunduğunuz ülkenin yasalarına ve kullandığınız servislerin şartlarına uygun** kullanmak sizin sorumluluğunuzdadır.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 FlClash adlı çok platformlu açık kaynaklı proxy istemcisini kullanmak istiyorum; GitHub Releases sayfasından (https://github.com/chen08209/FlClash/releases) işletim sistemime (Android, Windows, macOS ya da Linux) uygun kurulum dosyasını indirip kurmama ve bir abonelik bağlantısı ekleyerek yapılandırmama yardım et.
 
-Lisans: GPL-3.0 · kullanımı serbest; yazılımı değiştirip dağıtırsanız değişikliklerinizi de aynı GPL lisansıyla, kaynak koduyla paylaşmanız gerekir (copyleft).
+**Lisans:** GPL-3.0 · kullanımı serbest; yazılımı değiştirip dağıtırsanız değişikliklerinizi de aynı GPL lisansıyla, kaynak koduyla paylaşmanız gerekir (copyleft).
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/chen08209/FlClash)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Proxy Open Source Artificial Intelligence
+
+- [Proxy](https://trescout.com/dictionary/proxy/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flclash/

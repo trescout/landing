@@ -7,12 +7,14 @@ Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kod
 - GitHub Trending · 2026-07-15
 
 ## Güncelleme
-- 4 Ekim 2026: Yıldız 3.304 → 3.307, son sürüm v1.5.9 (4 Ekim 2026).
-- 3 Ekim 2026: Yıldız 3.295 → 3.304, son sürüm v1.5.8 (2 Ekim 2026).
-- 29 Eylül 2026: Yıldız 3.292 → 3.295, son sürüm v1.5.7 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 3.285 → 3.292, son sürüm v1.5.6 (29 Eylül 2026).
+
+- **4 Ekim 2026:** Yıldız 3.304 → 3.307, son sürüm v1.5.9 (4 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 3.295 → 3.304, son sürüm v1.5.8 (2 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 3.292 → 3.295, son sürüm v1.5.7 (29 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 3.285 → 3.292, son sürüm v1.5.6 (29 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Donanım hızlandırmalı yüksek performanslı video işleme
 - Kare hassasiyetinde çok kanallı zaman çizelgesi
 - Yapay zekâ destekli otomatik altyazı ve düzenleme
@@ -26,19 +28,26 @@ brew install AIEraDev/tap/clypra
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Clypra video düzenleyicisini kullanarak profesyonel bir kurgu yapmak istiyorum. Uygulamanın sunduğu donanım hızlandırmalı işleme ve yapay zekâ destekli özellikleri kullanarak, videolarımda otomatik altyazı oluşturma ve akıllı yeniden çerçeveleme gibi işlemleri nasıl en verimli şekilde gerçekleştirebilirim? Adım adım bir iş akışı önerir misin?
 
-- **Kimin için:** Ücretli yazılımlara bağımlı kalmadan, profesyonel özelliklere sahip açık kaynaklı bir video düzenleme aracı arayan kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Ücretli yazılımlara bağımlı kalmadan, profesyonel özelliklere sahip açık kaynaklı bir video düzenleme aracı arayan kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/AIEraDev/Clypra)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Video Editor Editor Open Source Artificial Intelligence
+
+- [Video Editor](https://trescout.com/dictionary/video-editor/)
+- [Editor](https://trescout.com/dictionary/editor/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/clypra/

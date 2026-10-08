@@ -6,7 +6,14 @@ OpenMAIC, desarrollado por investigadores de la Universidad de Tsinghua, reúne 
 - TypeScript
 - GitHub Trending · 2026-08-31
 
+## Actualizaciones
+
+- **5 de octubre de 2026:** Estrellas 39,351 → 39,969, última versión v1.1.3 (5 de octubre de 2026).
+- **28 de septiembre de 2026:** Estrellas 39,156 → 39,351, última versión v1.1.2 (28 de septiembre de 2026).
+- **27 de septiembre de 2026:** Estrellas 25,572 → 39,156, última versión v1.1.1 (26 de septiembre de 2026).
+
 ## Qué aporta
+
 - Arquitectura de múltiples agentes basada en roles: interacción dinámica de agentes de LLM en los roles de maestro, estudiante interrogador, comentarista y resumidor.
 - Interfaz visual y de audio en el aula: experiencia pedagógica inmersiva con pizarra virtual, flujo instantáneo de preguntas y respuestas y síntesis de voz (TTS).
 - Plan de estudios del curso personalizable: cree instantáneamente cursos interactivos cargando sus propios documentos PDF o notas de clase de texto.
@@ -14,6 +21,7 @@ OpenMAIC, desarrollado por investigadores de la Universidad de Tsinghua, reúne 
 - Compatibilidad de modelos ponderados abiertos: Libertad para conectar cualquier modelo de IA a través de Ollama, vLLM o proveedores de LLM en la nube.
 
 ## Instalación
+
 **Clonando el repositorio e instalando dependencias**
 
 ```
@@ -22,8 +30,8 @@ cd OpenMAIC
 pnpm install
 ```
 
-
 ## Ejecución
+
 **Iniciando el servidor de desarrollo**
 
 ```
@@ -31,21 +39,26 @@ pnpm run dev
 # Tarayıcıda http://localhost:3000 adresini açın
 ```
 
-
 ## Arquitectura técnica y principio de funcionamiento
+
 - Motor de orquestación de conversaciones: el controlador central que gestiona qué agente habla y cuándo, el orden de la conversación y el contexto de la discusión.
 - Gestión de la memoria y el contexto: almacenar en la memoria a corto y largo plazo el contenido común del tablero y las preguntas de los estudiantes compartidas a lo largo de la lección.
 - Transmisión en tiempo real a través de WebSocket: transmisión de textos hablados, expresiones emocionales y animaciones a la interfaz frontal sin demora.
 
 ## Dinámica de clases multiagente y simulaciones de roles.
+
 - Entornos de discusión socráticos: agentes con diferentes perspectivas discuten un tema y desencadenan el pensamiento crítico del usuario.
 - Soporte de tutor personalizado: tutores de IA dedicados que ajustan automáticamente el nivel de dificultad según la velocidad de comprensión del usuario.
 - Estudios de interacción social interagente: análisis de cómo grandes modelos lingüísticos colaboran y comparten información en entornos de grupos grandes.
 
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 Quiero simular un entorno de discusión socrático cargando mis propios apuntes de clase en la plataforma OpenMAIC. ¿Puedes explicar paso a paso cómo definir los roles de los agentes (maestro, estudiante curioso, interrogador crítico) y cómo plantear esta clase con un modelo local de Ollama?
 
 ## Preguntas frecuentes
+
 - ¿Se requiere una GPU para usar OpenMAIC? Si va a ejecutar su propio modelo nativo (Ollama/vLLM), se recomienda GPU; pero se puede utilizar directamente con una computadora estándar a través de API en la nube (OpenAI, Gemini, Groq).
 - ¿Puede el usuario participar en la simulación por voz? Sí. Gracias a WebRTC y al módulo de reconocimiento de voz, el usuario puede participar en los debates de clase hablando con su micrófono.
 - ¿Cuántos agentes pueden estar en el aula al mismo tiempo? La configuración predeterminada proporciona una interacción ideal entre 3 y 8 agentes; Se pueden diseñar clases más concurridas de acuerdo con los recursos del sistema.
@@ -53,9 +66,24 @@ Quiero simular un entorno de discusión socrático cargando mis propios apuntes 
 
 ## Términos relacionados del glosario
 
+- [Markdown](https://trescout.com/es/dictionary/markdown/)
+- [GPU](https://trescout.com/es/dictionary/gpu/)
+- [PDF](https://trescout.com/es/dictionary/pdf/)
+- [LLM](https://trescout.com/es/dictionary/llm/)
+- [API](https://trescout.com/es/dictionary/api/)
+- [Open Source](https://trescout.com/es/dictionary/open-source/)
+
+- **Para quién es:** Educadores, investigadores de IA, emprendedores de tecnología educativa y estudiantes.
+- **Licencia:** Apache-2.0 (Açık kaynak lisansı)
+- **Marco:** Simulador de agentes múltiples TypeScript y Next.js
+- **Plataformas:** Navegador web, Linux, macOS, Windows
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/THU-MAIC/OpenMAIC)
+- [Leer en turco →](https://trescout.com/discover/openmaic/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-31: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/openmaic/

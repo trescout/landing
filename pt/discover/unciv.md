@@ -6,7 +6,15 @@ Unciv é uma adaptação de código aberto, minimalista e multiplataforma para d
 - Kotlin
 - GitHub Trending · 2026-06-18
 
+## Atualizações
+
+- **5 de outubro de 2026:** Estrelas 11,379 → 11,394, versão mais recente 4.22.7 (5 de outubro de 2026).
+- **2 de outubro de 2026:** Estrelas 11,376 → 11,379, versão mais recente 4.22.6-patch1 (1 de outubro de 2026).
+- **1 de outubro de 2026:** Estrelas 11,364 → 11,376, versão mais recente 4.22.6 (1 de outubro de 2026).
+- **29 de setembro de 2026:** Estrelas 11,319 → 11,364, versão mais recente 4.22.5 (29 de setembro de 2026).
+
 ## O que você ganha
+
 - Arquitetura de hardware baixo e compatível com bateria: funciona com aquecimento zero, mesmo nos dispositivos móveis mais básicos, usando vetores 2D e gráficos de pixel em vez de mecanismos pesados ​​de renderização 3D.
 - Mecânica original de Civilization V: planejamento urbano, árvore tecnológica, políticas sociais, diplomacia e sistema tático de combate hexadecimal são totalmente preservados.
 - Salvamento multiplataforma e suporte multijogador: você pode mover arquivos salvos diretamente entre o desktop e o Android ou jogar partidas multijogador round-robin baseadas em e-mail/servidor.
@@ -14,26 +22,33 @@ Unciv é uma adaptação de código aberto, minimalista e multiplataforma para d
 - Experiência totalmente gratuita e sem anúncios: Distribuída sob licença MPL-2.0; não contém compras no aplicativo, publicidade, rastreamento ou coleta de dados.
 
 ## Como começar e opções de instalação
+
 - Página da Google Play Store →
 - Repositório de código aberto F-Droid →
 - Versões para desktop do itch.io →
 
 ## Arquitetura técnica e princípio de funcionamento
+
 - Mecanismo de jogo orientado pelo estado: cada bloco hexadecimal, unidade, cidade e relação diplomática no tabuleiro de jogo é armazenado como objetos JSON puros. Essa estrutura mantém o tamanho dos arquivos de log em apenas algumas centenas de kilobytes.
 - Mecanismo de modding declarativo: recursos de civilização, árvores tecnológicas e custos de construção são definidos por meio de arquivos JSON sem tocar no código-fonte. Desta forma, os desenvolvedores de mod não precisam de um compilador externo.
 - Cálculo de rodadas determinísticas: movimentos de IA e resultados de batalha são calculados com algoritmos previsíveis. Isso evita interrupções de sincronização em jogos multijogador assíncronos.
 - Compilação multiplataforma: graças ao LibGDX, uma única base de código Kotlin é empacotada com desempenho nativo para desktop (JVM) e dispositivos móveis (tempo de execução Android).
 
 ## Estratégias de jogo e dinâmica 4X
+
 - Exploração do mapa nas primeiras rodadas: Distribua suas unidades de guerreiros e batedores pelo mapa com antecedência para coletar artefatos antigos, fazer o primeiro contato com cidades-estado e obter renda em ouro.
 - Felicidade e equilíbrio alimentar: Ao estabelecer novas cidades, tome cuidado para estar ao alcance dos recursos de luxo. Quando a sua taxa de felicidade cai para negativo, o crescimento populacional e a produção desaceleram significativamente.
 - Roteiro tecnológico: concentre-se nos pontos fortes da sua civilização em vez de pesquisas aleatórias; Siga os caminhos da ferraria e da pólvora para a vitória militar, da filosofia e da educação para a vitória cultural.
 - Usando vantagens de terreno: Repelir grandes exércitos com um pequeno número de unidades criando defesa ribeirinha, vantagem em colinas e passagens estreitas.
 
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Quero preparar uma estrutura de mod JSON válida para o jogo Unciv. Você pode criar um modelo de mod Unciv de amostra que inclua uma unidade de cavalaria especial e um edifício de biblioteca especial que dê um bônus à produção científica e cultural como habilidade de líder? Você pode explicar passo a passo quais arquivos JSON devo salvar em qual estrutura de pastas e como posso testar isso na interface do Mod Manager do jogo?
 
 ## Perguntas frequentes
+
 - Quão semelhante é o Unciv com a Civilização V? A mecânica do jogo, as estatísticas das unidades, a árvore tecnológica e as condições de vitória são amplamente compatíveis com os complementos Civilization V Gods and Kings e Admirável Mundo Novo. A diferença é basicamente o uso de design visual 2D simples em vez de gráficos 3D.
 - É necessária uma conexão com a Internet para jogar? Não. Unciv pode ser jogado completamente offline. Nenhuma conexão de rede é necessária para jogar contra oponentes de IA no modo single-player. Apenas downloads de mod e partidas multijogador requerem conexão.
 - Como instalar mods Unciv? Acessando a aba Mods no menu principal, você pode listar centenas de mods carregados pela comunidade e baixá-los para o seu dispositivo com um único clique. Você também pode instalar diretamente adicionando um link para qualquer repositório de mod no GitHub.
@@ -41,9 +56,21 @@ Quero preparar uma estrutura de mod JSON válida para o jogo Unciv. Você pode c
 
 ## Termos relacionados do glossário
 
+- [Runtime](https://trescout.com/pt/dictionary/runtime/)
+- [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** Para jogadores e modders independentes que desejam experimentar jogos clássicos de estratégia 4X em uma infraestrutura leve, sem anúncios e de código aberto.
+- **Licença:** MPL-2.0 (Mozilla Public License 2.0)
+- **Motor de jogo:** LibGDX (plataforma cruzada baseada em Kotlin)
+- **Plataformas:** Android, Windows, Linux, macOS
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://play.google.com/store/apps/details?id=com.unciv.app)
+- [Ler em turco →](https://trescout.com/discover/unciv/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/unciv/

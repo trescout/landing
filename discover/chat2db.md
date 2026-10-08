@@ -7,12 +7,14 @@ Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (
 - GitHub Trending · 2026-07-25
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 28.110 → 28.268, son sürüm v5.3.7 (22 Eylül 2026).
-- 11 Eylül 2026: Yıldız 28.063 → 28.110, son sürüm v5.3.6 (10 Eylül 2026).
-- 3 Eylül 2026: Yıldız 27.994 → 28.063, son sürüm v5.3.5 (2 Eylül 2026).
-- 20 Ağustos 2026: Yıldız 27.657 → 27.994, son sürüm v5.3.4 (20 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 28.110 → 28.268, son sürüm v5.3.7 (22 Eylül 2026).
+- **11 Eylül 2026:** Yıldız 28.063 → 28.110, son sürüm v5.3.6 (10 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 27.994 → 28.063, son sürüm v5.3.5 (2 Eylül 2026).
+- **20 Ağustos 2026:** Yıldız 27.657 → 27.994, son sürüm v5.3.4 (20 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - 30'dan fazla veritabanı desteği
 - Doğal dille SQL oluşturma ve açıklama
 - Görsel veri yönetimi ve paneller
@@ -33,18 +35,24 @@ docker compose --file docker/docker-compose.yml up --detach
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Veritabanı tablolarımı analiz et, karmaşık SQL sorgularını doğal dilde açıkla ve mevcut sorgularımı performans için optimize et. Veritabanı şemamdaki ilişkileri anlamama yardımcı ol ve gerekli DDL/DML komutlarını oluştur.
 
-- **Kimin için:** Veritabanı yöneticileri, veri analistleri ve SQL süreçlerini yapay zekâ ile hızlandırmak isteyen geliştiriciler için uygundur. 
+- **Kimin için:** Veritabanı yöneticileri, veri analistleri ve SQL süreçlerini yapay zekâ ile hızlandırmak isteyen geliştiriciler için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/OtterMind/Chat2DB)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-SQL Client GUI Artificial Intelligence
+
+- [SQL Client](https://trescout.com/dictionary/sql-client/)
+- [GUI](https://trescout.com/dictionary/gui/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chat2db/

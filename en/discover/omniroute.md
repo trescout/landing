@@ -6,16 +6,26 @@ OmniRoute is an open-source infrastructure tool that aggregates over 230 large l
 - Python / Go
 - GitHub Trending · 2026-09-19
 
+## Updates
+
+- **September 14, 2026:** Stars 62,672 → 65,889, latest release v3.8.50 (August 26, 2026).
+- **September 8, 2026:** Stars 59,514 → 62,672, latest release v3.8.50 (August 26, 2026).
+- **September 1, 2026:** Stars 56,571 → 59,514, latest release v3.8.50 (August 26, 2026).
+- **August 27, 2026:** Stars 53,963 → 56,571, latest release v3.8.50 (August 26, 2026).
+
 ## What you get
+
 - Universal API Compatibility: Call OpenAI, Anthropic, Gemini, Mistral, and local models from a single /v1/chat/completions endpoint.
 - Smart Fallback: Redirect requests to an alternative model within milliseconds when the primary provider hits a rate limit or experiences an outage.
 - Token and Cost Optimization: Prevent unnecessary context bloat and reduce your API expenses with built-in prompt compression algorithms.
 - Comprehensive Telemetry and Observability: Monitor cross-provider response times, error rates, and budget expenditure from a single dashboard.
 
 ## Technical architecture and working principle
+
 OmniRoute acts as a high-efficiency reverse proxy between the client and AI providers:
 
 ## Setup and deployment steps
+
 **Quick start with Docker Compose**
 
 ```
@@ -33,20 +43,33 @@ curl http://localhost:8000/v1/chat/completions \
   -d '{"model": "gpt-4o-mini", "messages": [{"role": "user", "content": "Merhaba!"}]}'
 ```
 
-
 ## AI prompt for non-coders
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 Prepare a routing configuration using the OmniRoute AI gateway that includes OpenAI, Anthropic, and local Ollama models. Create a fallback rule that automatically switches to the secondary model if the primary model fails to respond, and list the steps to run it with Docker Compose.
 
 ## Critical warnings and limitations
+
 - API Key Security: Secure API keys in the gateway server's environment variables; always implement authorization (Bearer Token) when exposing the gateway to the public internet.
 - Model Parameter Differences: Maximum context windows and temperature limits supported by providers vary; use common parameters in requests.
 - Network Latency: The geographic distance between the gateway location and provider data centers may create additional delays of several milliseconds.
 
 ## Related dictionary terms
 
+- [Temperature](https://trescout.com/en/dictionary/temperature/)
+- [Reverse Proxy](https://trescout.com/en/dictionary/reverse-proxy/)
+- [Logging](https://trescout.com/en/dictionary/logging/)
+- [Context Window](https://trescout.com/en/dictionary/context-window/)
+- [API Gateway](https://trescout.com/en/dictionary/api-gateway/)
+- [Caching](https://trescout.com/en/dictionary/caching/)
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/danielfrg/omniroute)
+- [Read in Turkish →](https://trescout.com/discover/omniroute/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-01: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/omniroute/

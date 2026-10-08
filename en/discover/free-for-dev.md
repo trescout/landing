@@ -6,7 +6,13 @@ free-for-dev is a massive open-source resource library listing over a thousand S
 - HTML
 - GitHub Trending · 2026-06-27
 
+## Updates
+
+- **September 16, 2026:** Stars 131,012 → 137,565.
+- **August 2, 2026:** Stars 123,834 → 131,012.
+
 ## What you get
+
 - MVP development with zero infrastructure cost: Testing your ideas with real users without paying credit card risk or a fixed monthly server bill.
 - Over a thousand categorized services: Cloud hosting, serverless architectures, databases, CDN, authentication, CI/CD, and monitoring tools.
 - Only truly free tiers: Temporary 14-day trials are excluded; only platforms offering permanent (Always Free) plans are accepted.
@@ -14,6 +20,7 @@ free-for-dev is a massive open-source resource library listing over a thousand S
 - Architectural flexibility: Designing enterprise-grade hybrid infrastructure by combining the free tiers of different cloud providers.
 
 ## Featured categories and free infrastructures
+
 - Server and Cloud Computing (IaaS/PaaS): Oracle Cloud (Always Free 4-core ARM / 24 GB RAM), Cloudflare Workers, Fly.io, and Render.
 - Database and Storage (DBaaS): Supabase (PostgreSQL), Neon (Serverless Postgres), Cloudflare D1/R2, and Upstash (Redis).
 - Authentication and Security (Auth & Sec): Clerk, Auth0, Stytch, and Let's Encrypt SSL certificates.
@@ -21,24 +28,31 @@ free-for-dev is a massive open-source resource library listing over a thousand S
 - Observability and Log Management: Grafana Cloud, Better Stack, Sentry (error tracking) and Axiom.
 
 ## Community rules and free tier criteria
+
 - Real free plan requirement: Only services offering permanent, time-limit-free free usage rights are listed.
 - Credit card requirement restriction: Platforms that do not request a credit card during the registration phase or that make a zero-amount charge solely for identity verification are clearly specified.
 - Automatic link checking: Every Pull Request sent to the repository is tested for broken links by GitHub Actions bots.
 
 ## Architectural approach and getting started guide
+
 - Static Frontend and Deployment: React/Next.js application on Vercel or Cloudflare Pages.
 - Database Layer: 500 MB free PostgreSQL on Supabase and built-in row-level security (RLS).
 - Email and Notifications: 3,000 free transactional emails per month via Resend.
 
 ## Cost optimization and quota exceedance strategies
+
 - Defining budget and spending limits: Set the spend limit strictly to 0 USD in the platform dashboards.
 - Use caching: Reduce API calls by 80% with Cloudflare free CDN by caching static and dynamic assets.
 - Database connection pooling: Use PgBouncer or the built-in pooler to avoid hitting connection limits in serverless environments.
 
 ## If you don't write code
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 I want to set up a modern cloud infrastructure consisting entirely of free services for a new web startup. Can you explain a zero-cost architecture plan and setup steps that combine the most popular free providers from the free-for-dev list (hosting, database, authentication, and email service) without exceeding quota limits?
 
 ## Frequently asked questions
+
 - What is the difference between a free tier and a free trial? Free trials usually expire after 7 to 30 days and require payment. Services on the free-for-dev list, however, are free indefinitely within specific quotas.
 - Are there services you can use without entering a credit card? Yes. Many of the services on the list (Supabase, Vercel, Cloudflare, Fly.io) do not require a credit card during registration.
 - What happens when the free quotas are reached? If a spending limit has been set, the service temporarily rejects requests (HTTP 429 or 503), but no charges are made to your card.
@@ -46,9 +60,24 @@ I want to set up a modern cloud infrastructure consisting entirely of free servi
 
 ## Related dictionary terms
 
+- [PaaS](https://trescout.com/en/dictionary/paas/)
+- [IaaS](https://trescout.com/en/dictionary/iaas/)
+- [Free Tier](https://trescout.com/en/dictionary/free-tier/)
+- [SaaS](https://trescout.com/en/dictionary/saas/)
+- [Caching](https://trescout.com/en/dictionary/caching/)
+- [RAM](https://trescout.com/en/dictionary/ram/)
+
+- **Who it is for:** Entrepreneurs, indie developers, students, and engineers looking to eliminate infrastructure costs.
+- **License:** CC BY 4.0 (Açık içerik lisansı)
+- **Curator:** R.I. Pienaar and over 1000 open source contributors
+- **Number of Services:** Over 1,000 verified free services
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/ripienaar/free-for-dev)
+- [Read in Turkish →](https://trescout.com/discover/free-for-dev/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-27: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/free-for-dev/

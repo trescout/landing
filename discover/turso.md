@@ -7,12 +7,14 @@ Turso, SQLite ile uyumlu çalışan ve süreç içi (in-process) bir SQL veritab
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 24.445 → 24.649, son sürüm v0.8.2 (6 Ekim 2026).
-- 29 Eylül 2026: Yıldız 24.428 → 24.445, son sürüm v0.8.1 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 23.620 → 24.428, son sürüm v0.8.0 (29 Eylül 2026).
-- 2 Ağustos 2026: Yıldız 20.466 → 23.620, son sürüm v0.7.2 (30 Temmuz 2026).
+
+- **6 Ekim 2026:** Yıldız 24.445 → 24.649, son sürüm v0.8.2 (6 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 24.428 → 24.445, son sürüm v0.8.1 (29 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 23.620 → 24.428, son sürüm v0.8.0 (29 Eylül 2026).
+- **2 Ağustos 2026:** Yıldız 20.466 → 23.620, son sürüm v0.7.2 (30 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - SQLite ile tam SQL uyumluluğu
 - Çoklu dil ve platform desteği
 - Gelişmiş eşzamanlılık ve veri yönetimi
@@ -23,7 +25,7 @@ Turso, SQLite ile uyumlu çalışan ve süreç içi (in-process) bir SQL veritab
 
 ```
 curl --proto '=https' --tlsv1.2 -LsSf \
-https://github.com/tursodatabase/turso/releases/latest/download/turso_cli-installer.sh | sh
+  https://github.com/tursodatabase/turso/releases/latest/download/turso_cli-installer.sh | sh
 ```
 
 **JavaScript Paket Kurulumu**
@@ -41,19 +43,25 @@ tursodb
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Turso veritabanı ile SQLite uyumlu bir süreç içi veritabanı yönetmek istiyorum. Mevcut kurulumum üzerinden veritabanı tabloları oluşturma, veri ekleme ve sorgulama süreçlerinde bana rehberlik et. Özellikle SQLite sözdizimi ile nasıl etkileşime gireceğim ve verileri nasıl yöneteceğim konusunda örnekler sun.
 
-- **Kimin için:** Uygulama süreçlerine entegre çalışan, SQLite uyumlu ve yüksek performanslı bir veritabanı çözümüne ihtiyaç duyan geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Uygulama süreçlerine entegre çalışan, SQLite uyumlu ve yüksek performanslı bir veritabanı çözümüne ihtiyaç duyan geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/tursodatabase/turso)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-In-process Rust Artificial Intelligence
+
+- [In-process](https://trescout.com/dictionary/in-process/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/turso/

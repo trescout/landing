@@ -7,9 +7,11 @@ Claude Code, yapay zekâ destekli geliştirme süreçlerini hızlandırmak için
 - GitHub Trending · 2026-09-06
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 2.453 → 3.630.
+
+- **27 Eylül 2026:** Yıldız 2.453 → 3.630.
 
 ## Ne kazandırır?
+
 - Yazılım geliştirme süreçlerini otomatikleştiren hazır ajanlar ve komutlar sunar.
 - Oturumlar arası hafıza yönetimi ile bağlam kaybını önler.
 - TDD (Test Güdümlü Geliştirme) ve güvenlik denetimleri gibi standartları otomatikleştirir.
@@ -18,15 +20,19 @@ Claude Code, yapay zekâ destekli geliştirme süreçlerini hızlandırmak için
 
 Öncelikle projenin GitHub sayfasındaki 'Shorthand Guide' ve 'Longform Guide' rehberlerini okuyarak temel felsefeyi anlamanız önerilir. Kurulum için eklentiyi doğrudan Claude Code içerisinden bir pazar yeri eklentisi olarak kurabilir veya yukarıdaki komutlarla gerekli dosyaları kendi dizininize taşıyarak kullanmaya başlayabilirsiniz.
 
-- **Kimin için:** Claude Code kullanarak yazılım geliştirme süreçlerini otomatikleştirmek ve standartlaştırmak isteyen geliştiriciler için uygundur. 
+- **Kimin için:** Claude Code kullanarak yazılım geliştirme süreçlerini otomatikleştirmek ve standartlaştırmak isteyen geliştiriciler için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/WorldFlowAI/everything-claude-code)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Hooks TDD Artificial Intelligence
+
+- [Hooks](https://trescout.com/dictionary/hooks/)
+- [TDD](https://trescout.com/dictionary/tdd/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/everything-claude-code/

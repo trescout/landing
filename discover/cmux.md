@@ -7,9 +7,11 @@ Ghostty tabanlı bir macOS terminali olan cmux, dikey sekmeler ve yapay zekâ ko
 - GitHub Trending · 2026-10-07
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 27.683 → 27.695, son sürüm v0.65.0 (5 Ekim 2026).
+
+- **7 Ekim 2026:** Yıldız 27.683 → 27.695, son sürüm v0.65.0 (5 Ekim 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâ kodlama ajanları için bildirim desteği sunar
 - Dikey ve yatay sekmelerle çalışma alanını düzenler
 - Script yazılabilir API barındıran yerleşik tarayıcı içerir
@@ -32,18 +34,25 @@ brew upgrade --cask cmux
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 cmux, yapay zekâ kodlama ajanları ile çalışırken bildirimleri takip etmemi, dikey ve yatay sekmelerle pencereleri yönetmemi ve yerleşik tarayıcıyı kullanmamı sağlayan macOS terminalidir. Bu aracı kurmak ve kullanmaya başlamak için gereken adımları özetle.
 
-- **Kimin için:** Birden fazla yapay zekâ kodlama ajanını aynı anda çalıştıran ve terminal tabanlı bir çalışma ortamı tercih eden macOS kullanıcıları. 
+- **Kimin için:** Birden fazla yapay zekâ kodlama ajanını aynı anda çalıştıran ve terminal tabanlı bir çalışma ortamı tercih eden macOS kullanıcıları.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/manaflow-ai/cmux)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Script Terminal API Artificial Intelligence
+
+- [Script](https://trescout.com/dictionary/script/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cmux/

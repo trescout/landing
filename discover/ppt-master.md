@@ -7,12 +7,14 @@ PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönü
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 55.250 → 58.045, son sürüm v6.6.0 (19 Eylül 2026).
-- 19 Eylül 2026: Yıldız 54.929 → 55.250, son sürüm v6.6.0 (19 Eylül 2026).
-- 17 Eylül 2026: Yıldız 53.988 → 54.929, son sürüm v6.5.0 (16 Eylül 2026).
-- 13 Eylül 2026: Yıldız 53.459 → 53.988, son sürüm v6.4.0 (12 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 55.250 → 58.045, son sürüm v6.6.0 (19 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 54.929 → 55.250, son sürüm v6.6.0 (19 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 53.988 → 54.929, son sürüm v6.5.0 (16 Eylül 2026).
+- **13 Eylül 2026:** Yıldız 53.459 → 53.988, son sürüm v6.4.0 (12 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Metinleri yerel şekiller ve animasyonlar içeren PPTX dosyalarına çevirir.
 - Sunum slaytlarına otomatik sesli konuşmacı notları ekler.
 - Düzenlenebilir yapısı sayesinde sunum üzerinde sonradan değişiklik yapmanıza olanak tanır.
@@ -33,19 +35,25 @@ pip install -r requirements.txt
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Elimdeki belgeyi PPT-Master kullanarak düzenlenebilir bir sunum dosyasına dönüştürmek istiyorum. Belgenin içeriğini analiz et, slayt yapısını oluştur, gerekli animasyonları ve konuşmacı notlarını ekleyerek profesyonel bir PPTX dosyası hazırla. Sonuçta ortaya çıkan sunumun üzerinde PowerPoint içerisinde değişiklik yapabileceğimden emin ol.
 
-- **Kimin için:** Belgelerini hızlıca sunum formatına dönüştürüp üzerinde düzenleme yapmaya devam etmek isteyen herkes için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Belgelerini hızlıca sunum formatına dönüştürüp üzerinde düzenleme yapmaya devam etmek isteyen herkes için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/hugohe3/ppt-master)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PPTX PowerPoint Artificial Intelligence
+
+- [PPTX](https://trescout.com/dictionary/pptx/)
+- [PowerPoint](https://trescout.com/dictionary/powerpoint/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ppt-master/

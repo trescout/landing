@@ -6,12 +6,14 @@ Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomati
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 34.452 → 34.508, son sürüm v18.8.0 (7 Ekim 2026).
-- 6 Ekim 2026: Yıldız 34.330 → 34.452, son sürüm v18.6.3 (6 Ekim 2026).
-- 5 Ekim 2026: Yıldız 34.237 → 34.330, son sürüm v18.6.1 (4 Ekim 2026).
-- 4 Ekim 2026: Yıldız 34.163 → 34.237, son sürüm v18.6.0 (3 Ekim 2026).
+
+- **7 Ekim 2026:** Yıldız 34.452 → 34.508, son sürüm v18.8.0 (7 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 34.330 → 34.452, son sürüm v18.6.3 (6 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 34.237 → 34.330, son sürüm v18.6.1 (4 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 34.163 → 34.237, son sürüm v18.6.0 (3 Ekim 2026).
 
 ## Ne kazandırır?
+
 - IDE özelliklerini terminale taşıyarak kod düzenleme süreçlerini otomatikleştirir.
 - LSP entegrasyonu ile yeniden adlandırma ve referans takibi gibi işlemleri hatasız yapar.
 - Hata ayıklama araçlarıyla doğrudan etkileşime girerek sorunları yerinde çözer.
@@ -46,19 +48,28 @@ omp completions fish > ~/.config/fish/completions/omp.fish
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Oh My Pi aracını terminalimde kullanmaya başladım. Bu yapay zekâ kodlama ajanı ile projelerimde LSP desteği, hata ayıklama ve alt ajan yönetimi gibi gelişmiş özellikleri kullanarak iş akışımı nasıl optimize edebilirim? Özellikle kod düzenleme, dosya okuma ve hata ayıklama süreçlerinde bu aracın sunduğu yerleşik araçları en verimli şekilde nasıl kullanacağımı adım adım açıkla.
 
-- **Kimin için:** Terminal üzerinden kod geliştirme süreçlerini otomatikleştirmek ve yapay zekâ destekli bir kodlama ajanı ile iş akışını hızlandırmak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Terminal üzerinden kod geliştirme süreçlerini otomatikleştirmek ve yapay zekâ destekli bir kodlama ajanı ile iş akışını hızlandırmak isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/can1357/oh-my-pi)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-LSP AI Coding Agent IDE Coding Agent Terminal Agent
+
+- [LSP](https://trescout.com/dictionary/lsp/)
+- [AI Coding Agent](https://trescout.com/dictionary/ai-coding-agent/)
+- [IDE](https://trescout.com/dictionary/ide/)
+- [Coding Agent](https://trescout.com/dictionary/coding-agent/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Agent](https://trescout.com/dictionary/agent/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/oh-my-pi/

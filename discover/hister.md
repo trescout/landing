@@ -28,13 +28,14 @@ chmod +x hister
 http://127.0.0.1:4433
 ```
 
-Kaynak: Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/quickstart, https://github.com/asciimoo/hister, https://hister.org/posts/how-i-use-hister
+**Kaynak:** Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/quickstart, https://github.com/asciimoo/hister, https://hister.org/posts/how-i-use-hister
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 4.602 → 5.740, son sürüm v0.20.0 (24 Eylül 2026).
-- 18 Eylül 2026: Yıldız 3.574 → 4.602, son sürüm v0.19.0 (3 Eylül 2026).
-- 4 Eylül 2026: Yıldız 3.100 → 3.574, son sürüm v0.19.0 (3 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 2.620 → 3.100, son sürüm v0.18.0 (23 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 4.602 → 5.740, son sürüm v0.20.0 (24 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 3.574 → 4.602, son sürüm v0.19.0 (3 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 3.100 → 3.574, son sürüm v0.19.0 (3 Eylül 2026).
+- **27 Ağustos 2026:** Yıldız 2.620 → 3.100, son sürüm v0.18.0 (23 Ağustos 2026).
 
 ## Bu araç ne yapar?
 
@@ -49,25 +50,30 @@ Web sayfalarını ve kişisel dosyaları kendi kontrolündeki bir arama altyapı
 Zorunlu bulut hizmeti veya telemetri isteyen kullanım senaryoları ya da içeriğin yapılandırılmış Hister sunucusuna gönderilmesine izin verilmeyen tarayıcı indeksleme akışları.
 
 ## Öne çıkanlar
+
 - Yerel veya kontrol edilen altyapıda, telemetri ve zorunlu bulut hizmeti olmadan çalışma
 - Tam metin, alan filtreleri, ifadeler, joker karakterler, olumsuzlama ve önceliklerle sorgulama
 - Web, terminal, TUI, CLI ve MCP istemcileri ile isteğe bağlı anlamsal arama
 
 ## İlk kullanım akışı
-- Platformunuza uygun ikili dosyayı indirin ve Linux veya macOS'ta çalıştırılabilir yapın
-- Hister sunucusunu yerel dinleme modunda başlatın
-- Yerel web arayüzünü açın
-- Chrome veya Firefox eklentisini kurup indekslenecek sayfaları seçin
+
+1. Platformunuza uygun ikili dosyayı indirin ve Linux veya macOS'ta çalıştırılabilir yapın
+2. Hister sunucusunu yerel dinleme modunda başlatın
+3. Yerel web arayüzünü açın
+4. Chrome veya Firefox eklentisini kurup indekslenecek sayfaları seçin
 
 ## Güvenli başlangıç
 
 Tarayıcı eklentisi, favicon indirme dışında indekslenen sayfa içeriğini yapılandırılmış Hister sunucusuna gönderir. İsteğe bağlı anlamsal arama, doküman metnini seçilen embeddings uç noktasına gönderir.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 Yerel arayüzü açıp tarayıcı eklentisiyle seçtiğim sayfaları indeksle ve sorgu filtrelerini kullanarak aramayı doğrula.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/asciimoo/hister)
 - [Quickstart →](https://hister.org/docs/quickstart)
 - [Privacy ve kullanım README →](https://github.com/asciimoo/hister)
@@ -76,7 +82,12 @@ Yerel arayüzü açıp tarayıcı eklentisiyle seçtiğim sayfaları indeksle ve
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-TUI Binary MCP Terminal CLI
+
+- [TUI](https://trescout.com/dictionary/tui/)
+- [Binary](https://trescout.com/dictionary/binary/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [CLI](https://trescout.com/dictionary/cli/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hister/

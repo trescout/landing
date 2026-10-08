@@ -7,12 +7,14 @@ Claude Code altyapısını kullanan career-ops, yapay zekâ destekli iş arama s
 - GitHub Trending · 2026-06-07
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 68.761 → 69.588, son sürüm career-ops-v1.31.0 (31 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 66.453 → 68.761, son sürüm career-ops-v1.30.0 (27 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 65.261 → 66.453, son sürüm career-ops-v1.28.0 (20 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 63.452 → 65.261, son sürüm career-ops-v1.27.0 (18 Ağustos 2026).
+
+- **31 Ağustos 2026:** Yıldız 68.761 → 69.588, son sürüm career-ops-v1.31.0 (31 Ağustos 2026).
+- **27 Ağustos 2026:** Yıldız 66.453 → 68.761, son sürüm career-ops-v1.30.0 (27 Ağustos 2026).
+- **20 Ağustos 2026:** Yıldız 65.261 → 66.453, son sürüm career-ops-v1.28.0 (20 Ağustos 2026).
+- **18 Ağustos 2026:** Yıldız 63.452 → 65.261, son sürüm career-ops-v1.27.0 (18 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - İş ilanlarını 10 farklı boyutta puanlayarak filtreleme
 - İş tanımına özel ATS uyumlu özgeçmiş oluşturma
 - Terminal üzerinden toplu iş başvuru süreci yönetimi
@@ -42,19 +44,24 @@ claude
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Career-Ops sistemini kişiselleştirmek istiyorum. Özgeçmişimi ve kariyer hedeflerimi temel alarak, sistemin iş ilanlarını benim için en uygun kriterlere göre değerlendirmesini sağla. Profil yapılandırmamı tamamlamak ve belirli şirketleri takip listeme eklemek için gerekli olan tüm ayarları yapmama yardımcı ol.
 
-- **Kimin için:** İş arama sürecini yapay zekâ destekli bir otomasyonla yönetmek ve başvurularını daha stratejik hale getirmek isteyen profesyoneller içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** İş arama sürecini yapay zekâ destekli bir otomasyonla yönetmek ve başvurularını daha stratejik hale getirmek isteyen profesyoneller içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/santifer/career-ops)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Artificial Intelligence
+
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/career-ops/

@@ -7,10 +7,12 @@ CloddsBot, 1000'den fazla piyasada otonom işlem yapan açık kaynaklı bir yapa
 - GitHub Trending · 2026-09-11
 
 ## Güncelleme
-- 12 Eylül 2026: Yıldız 1.873 → 2.262, son sürüm v1.9.1 (12 Eylül 2026).
-- 11 Eylül 2026: Yıldız 1.866 → 1.873, son sürüm v1.9.0 (31 Ağustos 2026).
+
+- **12 Eylül 2026:** Yıldız 1.873 → 2.262, son sürüm v1.9.1 (12 Eylül 2026).
+- **11 Eylül 2026:** Yıldız 1.866 → 1.873, son sürüm v1.9.0 (31 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - 1000'den fazla piyasada otomatik alım satım
 - Doğal dille yönetilebilir portföy ve stratejiler
 - 21 farklı mesajlaşma platformuyla tam entegrasyon
@@ -42,19 +44,25 @@ clodds start
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir ticaret asistanısın. CloddsBot kullanarak kripto para piyasaları ve tahmin platformları üzerinde 118'den fazla stratejiyle analiz yapmanı istiyorum. Risk yönetimi kurallarını uygulayarak, belirlediğim bütçe dahilinde otomatik alım satım işlemlerini yönet ve piyasa verilerini izleyerek bana rapor sun.
 
-- **Kimin için:** Kripto para borsalarında ve tahmin platformlarında otonom işlem yapmak isteyen kullanıcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Kripto para borsalarında ve tahmin platformlarında otonom işlem yapmak isteyen kullanıcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/alsk1992/CloddsBot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Trading Agent Agent Artificial Intelligence
+
+- [Trading Agent](https://trescout.com/dictionary/trading-agent/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cloddsbot/

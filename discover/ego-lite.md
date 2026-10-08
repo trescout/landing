@@ -7,12 +7,14 @@ Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
-- 28 Eylül 2026: Yıldız 15.611 → 16.628, son sürüm v2.0.0 (10 Eylül 2026).
-- 10 Eylül 2026: Yıldız 14.478 → 15.611, son sürüm v2.0.0 (10 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 13.023 → 14.478, son sürüm v1.2.3 (11 Ağustos 2026).
-- 24 Ağustos 2026: Yıldız 11.904 → 13.023, son sürüm v1.2.3 (11 Ağustos 2026).
+
+- **28 Eylül 2026:** Yıldız 15.611 → 16.628, son sürüm v2.0.0 (10 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 14.478 → 15.611, son sürüm v2.0.0 (10 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 13.023 → 14.478, son sürüm v1.2.3 (11 Ağustos 2026).
+- **24 Ağustos 2026:** Yıldız 11.904 → 13.023, son sürüm v1.2.3 (11 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Ajanlar ve kullanıcılar aynı tarayıcıda çakışmadan çalışır
 - Chrome verilerini içe aktararak oturumları korur
 - JavaScript tabanlı yapısı ile daha hızlı görev tamamlama
@@ -34,19 +36,25 @@ ego-browser follow @ego_agent on x.com for me
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Set up ego lite for me: https://github.com/citrolabs/ego-lite. Read `skills/ego-browser/references/install.md` and follow the steps to install ego lite.
 
-- **Kimin için:** Kendi tarayıcı sekmelerini bölmeden yapay zekâ ajanlarına web otomasyon görevleri yaptırmak isteyen macOS kullanıcıları içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Kendi tarayıcı sekmelerini bölmeden yapay zekâ ajanlarına web otomasyon görevleri yaptırmak isteyen macOS kullanıcıları içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/citrolabs/ego-lite)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Skill AI Skills Artificial Intelligence
+
+- [Skill](https://trescout.com/dictionary/skill/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ego-lite/
