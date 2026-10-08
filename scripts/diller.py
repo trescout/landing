@@ -185,8 +185,6 @@ DILLER = {
         # ── kayıt formu
         "form_yer_tutucu": "Enter your email",
         "form_dugme": "Join early access",
-        "form_onay": ('I have read the <a href="{gizlilik}" target="_blank" rel="noopener">Privacy Notice</a> '
-                      "and consent to my email being processed for this purpose."),
         "gizlilik_yolu": "/en/privacy.html",
         # ── markdown
         "md_kaynak_kesif": "Source: TreScout Discover · {url}",
@@ -283,11 +281,9 @@ DILLER = {
         "kesif_dizin_bos": "No matching tools. Try adjusting your search.",
         "kesif_dizin_kategori": "Categories",
         # ── aydınlatma modal'ı · ana sayfada onay kutusu bunu açar
-        "onay_ipucu": "Please read the Privacy Notice to give consent.",
         "modal_baslik": "Privacy Notice",
         "modal_kapat": "Close",
-        "modal_kaydir": "Scroll to the end of the text to give consent",
-        "modal_onayla": "I have read it, I consent",
+        "modal_onayla": "Save and close",
         # ── dil ana sayfası (yalnız Türkçe ana sayfası çevrilmemiş dillerde)
         "ana_h1": None,
     },
@@ -370,8 +366,6 @@ DILLER = {
         },
         "form_yer_tutucu": "Votre adresse e-mail",
         "form_dugme": "Accès anticipé",
-        "form_onay": ('J\'ai lu <a href="{gizlilik}" target="_blank" rel="noopener">la notice de confidentialité</a> '
-                      "et je consens au traitement de mon adresse e-mail à cette fin."),
         "gizlilik_yolu": "/fr/privacy.html",
         "md_kaynak_kesif": "Source : TreScout Découvrir · {url}",
         "md_kaynak_sozluk": "Source : TreScout Glossaire · {url}",
@@ -464,11 +458,9 @@ DILLER = {
         "kesif_dizin_birim": "projets",
         "kesif_dizin_bos": "Aucun outil ne correspond. Essayez une autre recherche.",
         "kesif_dizin_kategori": "Catégories",
-        "onay_ipucu": "Veuillez lire la notice de confidentialité pour donner votre consentement.",
         "modal_baslik": "Notice de confidentialité",
         "modal_kapat": "Fermer",
-        "modal_kaydir": "Faites défiler jusqu'à la fin du texte pour donner votre consentement",
-        "modal_onayla": "J'ai lu, je consens",
+        "modal_onayla": "Enregistrer et fermer",
         "ana_h1": "TreScout analyse, résume et livre. Vous n'avez qu'à lire.",
         "ana_lead": ("Chaque jour, TreScout parcourt GitHub, Hacker News, HuggingFace et Lobsters, "
                      "retient ce qui compte et le rassemble dans un seul rapport."),
@@ -478,10 +470,6 @@ DILLER = {
             ("Glossaire", "/fr/dictionary/", "Les termes techniques d'aujourd'hui, définis en langage clair."),
         ],
         "ana_kayit": "Recevez le rapport quotidien dès l'ouverture.",
-        # Ana sayfadaki onay cümlesi · bağlantı modal'ı açar (İngilizce ana
-        # sayfayla aynı kurgu). {gizlilik} yolu form_onay ile aynı.
-        "ana_onay": ('J\'ai lu <a href="{gizlilik}" data-privacy-modal>la notice de confidentialité</a> '
-                     "et je consens au traitement de mon adresse e-mail à cette fin."),
         "ana_not": ("Les pages françaises sont traduites automatiquement à partir de l'original turc · "
                     "en cas de doute, la version turque fait foi."),
     },
@@ -567,10 +555,6 @@ DILLER = {
         },
         "form_yer_tutucu": "Seu e-mail",
         "form_dugme": "Acesso antecipado",
-        "form_onay": ('Li o <a href="{gizlilik}" target="_blank" rel="noopener">aviso de privacidade</a> '
-                      "e concordo com o tratamento do meu e-mail para esta finalidade."),
-        "ana_onay": ('Li o <a href="{gizlilik}" data-privacy-modal>aviso de privacidade</a> '
-                     "e concordo com o tratamento do meu e-mail para esta finalidade."),
         "gizlilik_yolu": "/pt/privacy.html",
         "md_kaynak_kesif": "Fonte: TreScout Descobrir · {url}",
         "md_kaynak_sozluk": "Fonte: TreScout Glossário · {url}",
@@ -663,11 +647,9 @@ DILLER = {
                 "dizin_aciklama": "Os relatórios diários da TreScout, sem nada que já tenha sido coberto.",
             },
         },
-        "onay_ipucu": "Leia o aviso de privacidade para dar o seu consentimento.",
         "modal_baslik": "Aviso de privacidade",
         "modal_kapat": "Fechar",
-        "modal_kaydir": "Role até o fim do texto para dar o seu consentimento",
-        "modal_onayla": "Li e concordo",
+        "modal_onayla": "Salvar e fechar",
         "ana_h1": "Acompanhar tecnologia não é mais um fardo.",
         "ana_lead": ("Todos os dias, a TreScout percorre GitHub, Hacker News, HuggingFace e Lobsters, "
                      "retém o que importa e reúne tudo em um único relatório."),
@@ -763,10 +745,6 @@ DILLER = {
         },
         "form_yer_tutucu": "Su correo electrónico",
         "form_dugme": "Acceso anticipado",
-        "form_onay": ('He leído el <a href="{gizlilik}" target="_blank" rel="noopener">aviso de privacidad</a> '
-                      "y acepto que mi correo se trate con esta finalidad."),
-        "ana_onay": ('He leído el <a href="{gizlilik}" data-privacy-modal>aviso de privacidad</a> '
-                     "y acepto que mi correo se trate con esta finalidad."),
         "gizlilik_yolu": "/es/privacy.html",
         "md_kaynak_kesif": "Fuente: TreScout Descubrir · {url}",
         "md_kaynak_sozluk": "Fuente: TreScout Glosario · {url}",
@@ -861,11 +839,9 @@ DILLER = {
                 "dizin_aciklama": "Los informes diarios de TreScout, sin nada que ya se haya tratado.",
             },
         },
-        "onay_ipucu": "Lea el aviso de privacidad para dar su consentimiento.",
         "modal_baslik": "Aviso de privacidad",
         "modal_kapat": "Cerrar",
-        "modal_kaydir": "Desplácese hasta el final del texto para dar su consentimiento",
-        "modal_onayla": "Lo he leído y acepto",
+        "modal_onayla": "Guardar y cerrar",
         "ana_h1": "Seguir la tecnología ya no es una carga.",
         "ana_lead": ("Cada día, TreScout recorre GitHub, Hacker News, HuggingFace y Lobsters, se queda "
                      "con lo que importa y lo reúne en un solo informe."),
@@ -961,12 +937,6 @@ DILLER = {
         },
         "form_yer_tutucu": "Ihre E-Mail-Adresse",
         "form_dugme": "Vorabzugang",
-        "form_onay": ('Ich habe den <a href="{gizlilik}" target="_blank" rel="noopener">Datenschutzhinweis</a> '
-                      "gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck "
-                      "verarbeitet wird."),
-        "ana_onay": ('Ich habe den <a href="{gizlilik}" data-privacy-modal>Datenschutzhinweis</a> '
-                     "gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck "
-                     "verarbeitet wird."),
         "gizlilik_yolu": "/de/privacy.html",
         "md_kaynak_kesif": "Quelle: TreScout Entdecken · {url}",
         "md_kaynak_sozluk": "Quelle: TreScout Glossar · {url}",
@@ -1061,11 +1031,9 @@ DILLER = {
                 "dizin_aciklama": "Die Tagesberichte von TreScout, ohne alles, was schon vorkam.",
             },
         },
-        "onay_ipucu": "Lesen Sie den Datenschutzhinweis, um Ihre Einwilligung zu geben.",
         "modal_baslik": "Datenschutzhinweis",
         "modal_kapat": "Schließen",
-        "modal_kaydir": "Scrollen Sie bis zum Ende des Textes, um Ihre Einwilligung zu geben",
-        "modal_onayla": "Ich habe es gelesen und stimme zu",
+        "modal_onayla": "Speichern und schließen",
         "ana_h1": "Technik zu verfolgen ist keine Last mehr.",
         "ana_lead": ("Jeden Tag durchsucht TreScout GitHub, Hacker News, HuggingFace und Lobsters, behält "
                      "das Wesentliche und fasst es in einem einzigen Bericht zusammen."),

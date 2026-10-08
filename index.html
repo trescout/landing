@@ -89,11 +89,7 @@
             <label class="visually-hidden" for="email-hero-tr">E-posta adresi</label><input class="input" type="email" name="email" id="email-hero-tr" placeholder="E-postanızı yazın" autocomplete="email" aria-label="E-posta adresiniz" required>
             <button class="btn btn-primary btn-large" type="submit">Erken erişim daveti alın</button>
           </div>
-          <label class="form-consent">
-            <input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>
-            <span><a href="/privacy.html" data-privacy-modal>Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span>
-            <span id="consent-hint" class="form-consent-hint">Onaylamak için Aydınlatma Metni'ni okuyun.</span>
-          </label>
+          <p class="form-notice">Kişisel verilerinizin nasıl işlendiğini <a href="/privacy.html" data-privacy-modal>Aydınlatma Metni</a>'nden inceleyebilirsiniz.</p><label class="form-consent"><input type="checkbox" name="consent" required><span>Erken erişim daveti ve TreScout lansman duyuruları için e-posta adresime ileti gönderilmesine onay veriyorum. Onayımı dilediğim zaman geri alabilirim.</span></label>
           <!-- Honeypot · bot filtresi · gerçek kullanıcı görmez, doldurmaz -->
           <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
         </form>
@@ -561,11 +557,7 @@
           <label class="visually-hidden" for="email-final-tr">E-posta adresi</label><input class="input" type="email" name="email" id="email-final-tr" placeholder="E-postanızı yazın" autocomplete="email" aria-label="E-posta adresiniz" required>
           <button class="btn btn-primary btn-large" type="submit">Erken erişim daveti alın</button>
         </div>
-        <label class="form-consent">
-          <input type="checkbox" name="consent" required aria-describedby="consent-hint-final-tr" data-needs-consent>
-          <span><a href="/privacy.html" data-privacy-modal>Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span>
-          <span id="consent-hint-final-tr" class="form-consent-hint">Onaylamak için Aydınlatma Metni'ni okuyun.</span>
-        </label>
+        <p class="form-notice">Kişisel verilerinizin nasıl işlendiğini <a href="/privacy.html" data-privacy-modal>Aydınlatma Metni</a>'nden inceleyebilirsiniz.</p><label class="form-consent"><input type="checkbox" name="consent" required><span>Erken erişim daveti ve TreScout lansman duyuruları için e-posta adresime ileti gönderilmesine onay veriyorum. Onayımı dilediğim zaman geri alabilirim.</span></label>
         <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
       </form>
     </div>
@@ -627,17 +619,13 @@
       </div>
       <div class="privacy-modal-foot">
         <div class="privacy-modal-options">
-          <span class="privacy-modal-status" aria-live="polite">
-            <span class="pulse-arrow" aria-hidden="true">↓</span>
-            <span class="privacy-modal-status-text">Onay için metnin sonuna kadar kaydırın</span>
-          </span>
           <label class="privacy-telemetry-option">
             <input type="checkbox" class="privacy-telemetry-checkbox">
             <span>İsteğe bağlı: anonim ürün kullanımını ölçmemize izin veriyorum.</span>
           </label>
           <span class="privacy-telemetry-status" role="status" aria-live="polite"></span>
         </div>
-        <button type="button" class="privacy-modal-confirm" disabled>Okudum, onaylıyorum</button>
+        <button type="button" class="privacy-modal-confirm">Kaydet ve kapat</button>
       </div>
     </div>
   </div>

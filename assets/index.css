@@ -179,12 +179,23 @@
       font-style: normal;
       font-weight: 600;
     }
+    /* Bilgilendirme cümlesi · onay kutusunun DIŞINDA (KVKK 2026/347, #210) */
+    .form-notice {
+      margin: 0;
+      padding: 4px 2px 0;
+      font-size: var(--text-caption);
+      color: var(--ink-muted);
+      line-height: 1.5;
+    }
+    .form-notice a,
     .form-consent a {
       color: var(--ink);
       border-bottom: 1px solid rgba(244, 211, 94, 0.45);
       text-decoration: none;
       transition: color 0.15s, border-color 0.15s;
     }
+    .form-notice a:hover,
+    .form-notice a:focus-visible,
     .form-consent a:hover,
     .form-consent a:focus-visible {
       color: var(--accent);

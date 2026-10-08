@@ -12,6 +12,18 @@
 const fs = require('fs');
 const path = require('path');
 
+// Kayıt formu bilgilendirme + onay bloğu · tek kaynak scripts/riza-metni.json
+// (riza_formu.py ikizi, #210 · KVKK 2026/347: aydınlatma onaylatılmaz).
+const RIZA_METNI = JSON.parse(fs.readFileSync(path.join(__dirname, 'riza-metni.json'), 'utf8'));
+const RIZA_GIZLILIK = { tr: '/privacy.html', en: '/en/privacy.html', fr: '/fr/privacy.html', pt: '/pt/privacy.html', es: '/es/privacy.html', de: '/de/privacy.html' };
+function rizaBlok(dil) {
+  const k = RIZA_METNI[String(dil || 'tr').split('-')[0]] ? String(dil || 'tr').split('-')[0] : 'tr';
+  const m = RIZA_METNI[k];
+  const baglanti = `<a href="${RIZA_GIZLILIK[k]}" target="_blank" rel="noopener">${m.baglanti_metni}</a>`;
+  return `<p class="form-notice">${m.bilgi.replace('{baglanti}', baglanti)}</p>`
+    + `<label class="form-consent"><input type="checkbox" name="consent" required><span>${m.onay}</span></label>`;
+}
+
 const ROOT = path.dirname(__dirname);
 const REPORTS_DIR = path.join(ROOT, 'reports');
 
@@ -165,10 +177,7 @@ targetDates.forEach(dateStr => {
             <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required>
             <button class="btn btn-primary" type="submit">Join Early Access</button>
           </div>
-          <label class="form-consent">
-            <input type="checkbox" name="consent" required>
-            <span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span>
-          </label>
+          ${rizaBlok('en')}
           <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
         </form>
       </aside>

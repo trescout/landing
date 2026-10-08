@@ -24,6 +24,7 @@ from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_
 from translation_service import translate_text, translate_texts
 from sayfa_koruma import zayiflatir, damgalar, damga_yaz, damga_yolu, elle_duzenlenmis, icerik_damgasi, kayma_freni
 from html_md import md_dosyasi
+from riza_formu import blok as riza_blok  # kayıt formu bilgilendirme + onay · tek kaynak
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "dictionary")
@@ -144,8 +145,7 @@ def make_dict_form(slug=""):
             '<div class="form-row">'
             f'<input class="input" type="email" name="email" placeholder="{D["form_yer_tutucu"]}" autocomplete="email" required>'
             f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
-            '<label class="form-consent"><input type="checkbox" name="consent" required>'
-            f'<span>{D["form_onay"].format(gizlilik=D["gizlilik_yolu"])}</span></label>'
+            f'{riza_blok(LANG)}'
             '<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
             '</form>')
 

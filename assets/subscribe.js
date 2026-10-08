@@ -13,7 +13,7 @@
     en: {
     zaten: '<strong>You are already on the list.</strong> We will let you know when we go live.',
     aldik: '<strong>Got it.</strong> We will let you know when we go live. Have a good week.',
-    onay: 'Please accept the privacy notice to continue.',
+    onay: 'Please tick the consent box to continue.',
     gonderiliyor: 'Sending...',
     genel: 'Something went wrong. Please try again.',
     baglanti: 'Connection error. Please try again.'
@@ -21,7 +21,7 @@
     fr: {
       zaten: '<strong>Vous êtes déjà sur la liste.</strong> Nous vous préviendrons au lancement.',
       aldik: '<strong>C\'est noté.</strong> Nous vous préviendrons au lancement. Bonne semaine.',
-      onay: 'Veuillez accepter la notice de confidentialité pour continuer.',
+      onay: 'Veuillez cocher la case de consentement pour continuer.',
       gonderiliyor: 'Envoi...',
       genel: 'Une erreur est survenue. Veuillez réessayer.',
       baglanti: 'Erreur de connexion. Veuillez réessayer.'
@@ -29,7 +29,7 @@
     pt: {
       zaten: '<strong>Você já está na lista.</strong> Avisaremos quando entrarmos no ar.',
       aldik: '<strong>Anotado.</strong> Avisaremos quando entrarmos no ar. Boa semana.',
-      onay: 'Aceite o aviso de privacidade para continuar.',
+      onay: 'Marque a caixa de consentimento para continuar.',
       gonderiliyor: 'Enviando...',
       genel: 'Algo deu errado. Tente novamente.',
       baglanti: 'Erro de conexão. Tente novamente.'
@@ -37,7 +37,7 @@
     es: {
       zaten: '<strong>Ya está en la lista.</strong> Le avisaremos cuando estemos en marcha.',
       aldik: '<strong>Anotado.</strong> Le avisaremos cuando estemos en marcha. Buena semana.',
-      onay: 'Acepte el aviso de privacidad para continuar.',
+      onay: 'Marque la casilla de consentimiento para continuar.',
       gonderiliyor: 'Enviando...',
       genel: 'Algo ha fallado. Inténtelo de nuevo.',
       baglanti: 'Error de conexión. Inténtelo de nuevo.'
@@ -45,7 +45,7 @@
     de: {
       zaten: '<strong>Sie stehen bereits auf der Liste.</strong> Wir melden uns, sobald wir starten.',
       aldik: '<strong>Notiert.</strong> Wir melden uns, sobald wir starten. Eine gute Woche.',
-      onay: 'Stimmen Sie dem Datenschutzhinweis zu, um fortzufahren.',
+      onay: 'Bitte setzen Sie das Häkchen bei der Einwilligung, um fortzufahren.',
       gonderiliyor: 'Wird gesendet...',
       genel: 'Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.',
       baglanti: 'Verbindungsfehler. Bitte versuchen Sie es erneut.'
@@ -53,7 +53,7 @@
     tr: {
       zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
     aldik: '<strong>Aldık.</strong> Yayında olduğumuzda size haber vereceğiz. İyi haftalar.',
-    onay: 'Devam etmek için Aydınlatma Metni onayı gerekli.',
+    onay: 'Devam etmek için lütfen onay kutusunu işaretleyin.',
     gonderiliyor: 'Gönderiliyor...',
     genel: 'Bir şeyler ters gitti. Lütfen tekrar deneyin.',
       baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.'

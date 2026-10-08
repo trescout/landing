@@ -20,6 +20,18 @@
  */
 const fs = require('fs');
 const path = require('path');
+
+// Kayıt formu bilgilendirme + onay bloğu · tek kaynak scripts/riza-metni.json
+// (riza_formu.py ikizi, #210 · KVKK 2026/347: aydınlatma onaylatılmaz).
+const RIZA_METNI = JSON.parse(fs.readFileSync(path.join(__dirname, 'riza-metni.json'), 'utf8'));
+const RIZA_GIZLILIK = { tr: '/privacy.html', en: '/en/privacy.html', fr: '/fr/privacy.html', pt: '/pt/privacy.html', es: '/es/privacy.html', de: '/de/privacy.html' };
+function rizaBlok(dil) {
+  const k = RIZA_METNI[String(dil || 'tr').split('-')[0]] ? String(dil || 'tr').split('-')[0] : 'tr';
+  const m = RIZA_METNI[k];
+  const baglanti = `<a href="${RIZA_GIZLILIK[k]}" target="_blank" rel="noopener">${m.baglanti_metni}</a>`;
+  return `<p class="form-notice">${m.bilgi.replace('{baglanti}', baglanti)}</p>`
+    + `<label class="form-consent"><input type="checkbox" name="consent" required><span>${m.onay}</span></label>`;
+}
 const { execFileSync } = require('child_process');
 
 const LANG = (process.argv.find(a => a.startsWith('--lang=')) || '--lang=en').split('=')[1];
@@ -168,7 +180,7 @@ ${full ? `<p class="dict-en">${full}</p>` : ''}
 <section class="disc-sec"><h2>Use Cases</h2><p>Widely adopted in production AI applications, developer tools, cloud infrastructure, and autonomous agent frameworks to improve scalability and reliability.</p></section>
 <section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why is ${enTitle} important in modern tech stacks?</p><p class="dict-faq-a">It provides clear boundaries, enhances modularity, and enables developers to build maintainable, high-performance systems.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does TreScout track ${enTitle}?</p><p class="dict-faq-a">TreScout continuously scans open-source repositories on GitHub, research papers on HuggingFace, and engineering discussions on Hacker News.</p></div></div></section>
 <section class="disc-sec"><h2>Related Terms</h2><div class="dict-related"><a href="/en/dictionary/rag/">RAG</a><a href="/en/dictionary/llm/">LLM</a><a href="/en/dictionary/vector-database/">Vector Database</a><a href="/en/dictionary/embedding/">Embedding</a><a href="/en/dictionary/agent/">Agent</a></div></section>
-<aside class="disc-cta"><p><strong>New tech terms in your inbox every morning.</strong> Join TreScout early access for daily digests.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join Early Access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
+<aside class="disc-cta"><p><strong>New tech terms in your inbox every morning.</strong> Join TreScout early access for daily digests.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join Early Access</button></div>${rizaBlok('en')}<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
 <p class="disc-disclaimer">This guide was prepared in plain language for TreScout · If you spot any typo or missing information, let us know at <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout scans GitHub, Hacker News, and HuggingFace daily.</p>
 </article>
 </main>
@@ -334,7 +346,7 @@ const kafa = (kanonik) => `<link rel="preload" href="/assets/fonts/inter-latin.w
 <link rel="stylesheet" href="/assets/discover.css">`;
 
 // Kayıt formu · detay sayfalarındakiyle aynı kalıp (discover-en.py · CTA_FORM)
-const form = (kaynak) => `<form class="cta-form disc-cta-form js-subscribe" data-source="${kaynak}" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="${D.form_yer_tutucu}" autocomplete="email" required><button class="btn btn-primary" type="submit">${D.form_dugme}</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>${D.form_onay.replace('{gizlilik}', D.gizlilik_yolu)}</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form>`;
+const form = (kaynak) => `<form class="cta-form disc-cta-form js-subscribe" data-source="${kaynak}" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="${D.form_yer_tutucu}" autocomplete="email" required><button class="btn btn-primary" type="submit">${D.form_dugme}</button></div>${rizaBlok(LANG)}<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form>`;
 
 const hreflang = (trYol, hedefYol) => `<link rel="alternate" hreflang="tr" href="${BASE_URL}${trYol}">
 <link rel="alternate" hreflang="en" href="${BASE_URL}/en${hedefYol}">

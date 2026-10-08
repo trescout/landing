@@ -242,8 +242,10 @@
 .cta-form .form-consent input[type="checkbox"] {
   width: 16px; height: 16px; margin-top: 2px; accent-color: var(--accent); cursor: pointer;
 }
-.cta-form .form-consent a { color: var(--ink); border-bottom: 1px solid rgba(244, 211, 94, .45); text-decoration: none; }
-.cta-form .form-consent a:hover, .cta-form .form-consent a:focus-visible { color: var(--accent); border-bottom-color: var(--accent); outline: none; }
+/* Bilgilendirme cümlesi · onay kutusunun DIŞINDA (KVKK 2026/347, #210) */
+.cta-form .form-notice { margin: 0; font-size: 12.5px; color: var(--ink-muted); line-height: 1.5; text-align: left; }
+.cta-form .form-notice a, .cta-form .form-consent a { color: var(--ink); border-bottom: 1px solid rgba(244, 211, 94, .45); text-decoration: none; }
+.cta-form .form-notice a:hover, .cta-form .form-notice a:focus-visible, .cta-form .form-consent a:hover, .cta-form .form-consent a:focus-visible { color: var(--accent); border-bottom-color: var(--accent); outline: none; }
 .disc-cta .form-success {
   max-width: 440px; margin: 0 auto; padding: 14px 18px; border-radius: 12px;
   background: rgba(244, 211, 94, .1); border: 1px solid var(--accent); color: var(--ink); font-size: 15px; line-height: 1.5;
