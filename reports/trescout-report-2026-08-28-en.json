@@ -394,7 +394,6 @@
               ],
               "rank": 1,
               "extra": {
-                "author": "TangerineDream",
                 "createdAt": "2026-08-27T17:17:57Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49468083"
               }
@@ -430,7 +429,6 @@
               ],
               "rank": 2,
               "extra": {
-                "author": "blenderob",
                 "createdAt": "2026-08-28T12:32:16Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49477600"
               }
@@ -466,7 +464,6 @@
               ],
               "rank": 3,
               "extra": {
-                "author": "softwaredoug",
                 "createdAt": "2026-08-28T11:25:30Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49477055"
               }
@@ -502,7 +499,6 @@
               ],
               "rank": 4,
               "extra": {
-                "author": "eutropheon",
                 "createdAt": "2026-08-27T22:26:04Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49472090"
               }
@@ -538,7 +534,6 @@
               ],
               "rank": 5,
               "extra": {
-                "author": "miniBill",
                 "createdAt": "2026-08-28T06:33:57Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49475079"
               }
