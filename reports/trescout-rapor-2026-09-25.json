@@ -307,7 +307,6 @@
               ],
               "rank": 1,
               "extra": {
-                "author": "daveoc64",
                 "createdAt": "2026-09-24T15:26:12Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49831968"
               }
@@ -343,7 +342,6 @@
               ],
               "rank": 2,
               "extra": {
-                "author": "MitPitt",
                 "createdAt": "2026-09-23T22:53:28Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49823738"
               }
@@ -379,7 +377,6 @@
               ],
               "rank": 3,
               "extra": {
-                "author": "ReturnoftheHack",
                 "createdAt": "2026-09-24T10:39:19Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49828731"
               }
@@ -415,7 +412,6 @@
               ],
               "rank": 4,
               "extra": {
-                "author": "jbotz",
                 "createdAt": "2026-09-24T16:23:00Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49832938"
               }
@@ -451,7 +447,6 @@
               ],
               "rank": 5,
               "extra": {
-                "author": "an0malous",
                 "createdAt": "2026-09-23T15:33:33Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49817680"
               }

@@ -337,7 +337,6 @@
               ],
               "rank": 1,
               "extra": {
-                "author": "zdw",
                 "createdAt": "2026-08-29T17:49:01Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49491791"
               }
@@ -373,7 +372,6 @@
               ],
               "rank": 2,
               "extra": {
-                "author": "zdw",
                 "createdAt": "2026-08-30T22:49:48Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49503601"
               }
@@ -409,7 +407,6 @@
               ],
               "rank": 3,
               "extra": {
-                "author": "metrofun",
                 "createdAt": "2026-08-30T16:01:10Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49499867"
               }
@@ -445,7 +442,6 @@
               ],
               "rank": 4,
               "extra": {
-                "author": "greenlightning",
                 "createdAt": "2026-08-30T11:39:43Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49497810"
               }
@@ -481,7 +477,6 @@
               ],
               "rank": 5,
               "extra": {
-                "author": "vntok",
                 "createdAt": "2026-08-30T08:51:39Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49496918"
               }
