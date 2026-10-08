@@ -272,6 +272,7 @@ function buildVariant(V) {
 ${cekim ? `      <p class="rep-captured" title="${esc(D.rapor_cekim_not)}">${esc(D.rapor_cekim.replace('{an}', cekim))}</p>` : ''}
 ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
       <p class="rep-note">${D.rapor_not}</p>
+      <p class="rep-captured rep-ai-note">${esc(D.rapor_yz)}</p>
       <aside class="signup-cta">
         <p>${D.rapor_cta}</p>
         <a class="btn btn-primary" href="${PRE}/#top">${D.rapor_cta_dugme}</a>
