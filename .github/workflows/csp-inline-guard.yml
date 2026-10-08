@@ -35,6 +35,9 @@ jobs:
         run: node --test scripts/subscribe-contract.test.mjs
       - name: Erken erişim bildirim/gövde testi
         run: node --test scripts/subscribe-bildirim.test.mjs
+      # Kayıt durdurma ve bildirim varsayılanları hukuki koruma; env unutulursa güvenli tarafta kalınmalı.
+      - name: Kayıt durdurma varsayılanları testi
+        run: node --test scripts/subscribe-durdurma.test.mjs
       # tests/ altındaki rate limit testi CI'da HİÇ koşmuyordu · fail-closed
       # davranışı guard'sız kalmıştı. Sessizce koşmayan test, olmayan testten
       # daha kötü: yeşil görünür.

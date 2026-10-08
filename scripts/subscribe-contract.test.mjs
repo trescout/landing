@@ -2,6 +2,9 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import test from 'node:test';
 
+// Doğrulama sözleşmesi kayıt AÇIKKEN sınanır; durdurma davranışı ayrı testte.
+process.env.SUBSCRIBE_PAUSED = 'false';
+
 const source = await readFile(new URL('../api/subscribe.js', import.meta.url), 'utf8');
 const rateLimitSource = await readFile(new URL('../api/rate-limit.mjs', import.meta.url), 'utf8');
 const rateLimitUrl = `data:text/javascript;base64,${Buffer.from(rateLimitSource).toString('base64')}`;
