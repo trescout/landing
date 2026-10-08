@@ -11,7 +11,7 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 | `UPSTASH_REDIS_REST_URL` | ❌ isteğe bağlı | Upstash Redis REST URL · dağıtık rate limit için (yoksa bellek içi fallback çalışır) |
 | `UPSTASH_REDIS_REST_TOKEN` | ❌ isteğe bağlı | Upstash Redis REST token · yalnız Vercel server env’de tutulur |
 | `UPSTASH_RATE_LIMIT_FAIL_CLOSED` | ❌ | Redis yoksa/çökerse formu 503 ile kapatma kilidi · **varsayılan KAPALI** |
-| `SUBSCRIBE_NOTIFY_ENABLED` | ❌ | Yönetici bildirim e-postası kilidi · **varsayılan KAPALI** (2026-10-08), yalnız 'true' açar |
+| `SUBSCRIBE_NOTIFY_ENABLED` | ❌ | Yönetici bildirim e-postası kilidi · **varsayılan AÇIK**, 'false' kapatır · bildirim e-posta adresi taşımaz |
 | `SUBSCRIBE_PAUSED` | ❌ | Kayıt durdurma kilidi · **varsayılan KAYIT KAPALI** (2026-10-08), yalnız 'false' kayıtları açar |
 
 ## Kurulum adımları
@@ -75,14 +75,15 @@ npx vercel dev    # local server (api/ route'ları dahil)
 ### 5. Yönetici bildirim kilidi
 
 `api/subscribe.js` başarılı bir kayıttan sonra `hello@trescout.com` adresine
-bildirim e-postası gönderebilir. 2026-10-08'den beri bu gönderim **varsayılan
-olarak kapalıdır** (#210): bildirim kişinin e-postasını Aydınlatma Metni'nde
-yazmayan alıcılara (Cloudflare yönlendirmesi, kişisel kutu) kopyalıyordu.
+bildirim e-postası gönderir (varsayılan açık). Bildirim **kişinin e-posta
+adresini taşımaz** (2026-10-08, #210): yalnız kaynak, sayfa ve zaman yazar.
+Adres hello@'dan başka kutulara yönlendirildiği için ve bu alıcılar Aydınlatma
+Metni'nde olmadığı için çıkarıldı; adres gerekirse Resend Audience panosunda.
 
 | `SUBSCRIBE_NOTIFY_ENABLED` | Davranış |
 |---|---|
-| tanımsız, boş veya `false` | Kayıt normal işler, `/emails` çağrısı **yapılmaz** (varsayılan) |
-| `true` | Bildirim gönderilir. Açmadan önce alıcıyı Aydınlatma Metni'ne ekleyin |
+| tanımsız, boş veya `true` | Adressiz bildirim gönderilir (varsayılan) |
+| `false` | Kayıt normal işler, `/emails` çağrısı **yapılmaz** |
 
 ## Kayıt durdurma
 
@@ -105,7 +106,7 @@ yeniden deploy edin.
 
 - `RESEND_API_KEY`, `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` sadece sunucu tarafında kullanılır (Edge Function). Frontend'e sızmaz.
 - Upstash erişilemez olduğunda veya tanımlı değilken kayıtların kesilmemesi için process-memory fallback devreye girer (UPSTASH_RATE_LIMIT_FAIL_CLOSED=true olmadığı sürece).
-- Yönetici bildirimi varsayılan kapalıdır · açmak için `SUBSCRIBE_NOTIFY_ENABLED=true` (önce Aydınlatma Metni'ne alıcıyı ekleyin).
+- Yönetici bildirimi varsayılan açıktır ve e-posta adresi taşımaz · kapatmak için `SUBSCRIBE_NOTIFY_ENABLED=false`.
 - Kayıtlar varsayılan durdurulmuştur · açmak için `SUBSCRIBE_PAUSED=false`.
 - Vercel env vars şifrelenmiş saklanır.
 - Key sızdığında: Resend Dashboard'dan **revoke** → yeni key oluştur → Vercel'da güncelle → redeploy.
