@@ -235,8 +235,8 @@ DILLER = {
             "normal": {
                 "geri": "All Reports",
                 "baslik": "Daily Technology Reports",
-                "intro": ("Daily AI-curated summaries of GitHub Trending, Hacker News, HuggingFace and "
-                          "Lobsters. Read online in English or download the English PDF."),
+                "intro": ("Daily AI-curated summaries of GitHub Trending, Hacker News and "
+                          "HuggingFace. Read online in English or download the English PDF."),
                 "dizin_baslik": "Daily Technology Reports Archive · TreScout",
                 "dizin_aciklama": ("TreScout daily technology reports archive · Curated AI summaries of "
                                    "GitHub, Hacker News, and HuggingFace trends every day."),
@@ -412,8 +412,8 @@ DILLER = {
             "normal": {
                 "geri": "Tous les rapports",
                 "baslik": "Rapports technologiques quotidiens",
-                "intro": ("Chaque jour, un résumé des tendances de GitHub Trending, Hacker News, "
-                          "HuggingFace et Lobsters. À lire en ligne ou en PDF."),
+                "intro": ("Chaque jour, un résumé des tendances de GitHub Trending, Hacker News "
+                          "et HuggingFace. À lire en ligne ou en PDF."),
                 "dizin_baslik": "Archive des rapports quotidiens · TreScout",
                 "dizin_aciklama": ("L'archive des rapports technologiques quotidiens de TreScout · les "
                                    "tendances de GitHub, Hacker News et HuggingFace, résumées chaque jour."),
@@ -462,7 +462,7 @@ DILLER = {
         "modal_kapat": "Fermer",
         "modal_onayla": "Enregistrer et fermer",
         "ana_h1": "TreScout analyse, résume et livre. Vous n'avez qu'à lire.",
-        "ana_lead": ("Chaque jour, TreScout parcourt GitHub, Hacker News, HuggingFace et Lobsters, "
+        "ana_lead": ("Chaque jour, TreScout parcourt GitHub, Hacker News et HuggingFace, "
                      "retient ce qui compte et le rassemble dans un seul rapport."),
         "ana_bolum": "Ce que vous trouverez ici",
         "ana_kartlar": [
@@ -632,8 +632,8 @@ DILLER = {
             "normal": {
                 "geri": "Todos os relatórios",
                 "baslik": "Relatórios diários de tecnologia",
-                "intro": ("Todos os dias, um resumo das tendências do GitHub Trending, Hacker News, "
-                          "HuggingFace e Lobsters. Leia online ou baixe o PDF."),
+                "intro": ("Todos os dias, um resumo das tendências do GitHub Trending, Hacker News "
+                          "e HuggingFace. Leia online ou baixe o PDF."),
                 "dizin_baslik": "Arquivo de relatórios diários · TreScout",
                 "dizin_aciklama": ("O arquivo de relatórios diários de tecnologia da TreScout · as tendências "
                                    "do GitHub, Hacker News e HuggingFace, resumidas todos os dias."),
@@ -651,7 +651,7 @@ DILLER = {
         "modal_kapat": "Fechar",
         "modal_onayla": "Salvar e fechar",
         "ana_h1": "Acompanhar tecnologia não é mais um fardo.",
-        "ana_lead": ("Todos os dias, a TreScout percorre GitHub, Hacker News, HuggingFace e Lobsters, "
+        "ana_lead": ("Todos os dias, a TreScout percorre GitHub, Hacker News e HuggingFace, "
                      "retém o que importa e reúne tudo em um único relatório."),
         "ana_bolum": "O que você encontra aqui",
         "ana_kartlar": [
@@ -824,8 +824,8 @@ DILLER = {
             "normal": {
                 "geri": "Todos los informes",
                 "baslik": "Informes diarios de tecnología",
-                "intro": ("Cada día, un resumen de las tendencias de GitHub Trending, Hacker News, "
-                          "HuggingFace y Lobsters. Léalo en línea o descargue el PDF."),
+                "intro": ("Cada día, un resumen de las tendencias de GitHub Trending, Hacker News "
+                          "y HuggingFace. Léalo en línea o descargue el PDF."),
                 "dizin_baslik": "Archivo de informes diarios · TreScout",
                 "dizin_aciklama": ("El archivo de informes diarios de tecnología de TreScout · las "
                                    "tendencias de GitHub, Hacker News y HuggingFace, resumidas cada día."),
@@ -843,7 +843,7 @@ DILLER = {
         "modal_kapat": "Cerrar",
         "modal_onayla": "Guardar y cerrar",
         "ana_h1": "Seguir la tecnología ya no es una carga.",
-        "ana_lead": ("Cada día, TreScout recorre GitHub, Hacker News, HuggingFace y Lobsters, se queda "
+        "ana_lead": ("Cada día, TreScout recorre GitHub, Hacker News y HuggingFace, se queda "
                      "con lo que importa y lo reúne en un solo informe."),
         "ana_bolum": "Lo que encontrará aquí",
         "ana_kartlar": [
@@ -1016,8 +1016,8 @@ DILLER = {
             "normal": {
                 "geri": "Alle Berichte",
                 "baslik": "Technik-Tagesberichte",
-                "intro": ("Jeden Tag eine Zusammenfassung der Trends von GitHub Trending, Hacker News, "
-                          "HuggingFace und Lobsters. Online lesen oder als PDF herunterladen."),
+                "intro": ("Jeden Tag eine Zusammenfassung der Trends von GitHub Trending, Hacker News "
+                          "und HuggingFace. Online lesen oder als PDF herunterladen."),
                 "dizin_baslik": "Archiv der Tagesberichte · TreScout",
                 "dizin_aciklama": ("Das Archiv der Technik-Tagesberichte von TreScout · die Trends von "
                                    "GitHub, Hacker News und HuggingFace, jeden Tag zusammengefasst."),
@@ -1035,7 +1035,7 @@ DILLER = {
         "modal_kapat": "Schließen",
         "modal_onayla": "Speichern und schließen",
         "ana_h1": "Technik zu verfolgen ist keine Last mehr.",
-        "ana_lead": ("Jeden Tag durchsucht TreScout GitHub, Hacker News, HuggingFace und Lobsters, behält "
+        "ana_lead": ("Jeden Tag durchsucht TreScout GitHub, Hacker News und HuggingFace, behält "
                      "das Wesentliche und fasst es in einem einzigen Bericht zusammen."),
         "ana_bolum": "Was Sie hier finden",
         "ana_kartlar": [
