@@ -6,9 +6,11 @@ Open-LLM-VTuber, büyük dil modelleriyle (large language models) eller serbest 
 - GitHub Trending · 2026-06-03
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 8.629 → 13.042, son sürüm v1.2.1 (26 Ağustos 2025).
+
+- **2 Ağustos 2026:** Yıldız 8.629 → 13.042, son sürüm v1.2.1 (26 Ağustos 2025).
 
 ## Ne kazandırır?
+
 - Yerel sistemde tamamen çevrimdışı çalışma
 - Live2D karakterlerle gerçek zamanlı etkileşim
 - Kamera ve ekran algılama desteği
@@ -31,21 +33,27 @@ uv sync
 uv run run_server.py
 ```
 
-Kaynak: Resmî dokümantasyon (docs.llmvtuber.com)
+**Kaynak:** Resmî dokümantasyon (docs.llmvtuber.com)
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen, Open-LLM-VTuber üzerinde çalışan, görsel algılama yeteneğine sahip ve Live2D model ile ifade edilebilen bir yapay zekâ arkadaşısın. Kullanıcıyla sesli olarak gerçek zamanlı iletişim kur, ekranı veya kamerayı gözlemleyerek etkileşime geç ve duygusal tepkilerini Live2D karakterin üzerinden yansıt. Konuşmalarını doğal, akıcı ve kişisel bir tonda sürdürürken, kullanıcının sesli kesintilerine duyarlı ol.
 
-- **Kimin için:** Kendi özel Live2D karakterini oluşturup yerel bilgisayarında sesli ve görsel etkileşimli bir yapay zekâ arkadaşı çalıştırmak isteyenler içindir. 
+- **Kimin için:** Kendi özel Live2D karakterini oluşturup yerel bilgisayarında sesli ve görsel etkileşimli bir yapay zekâ arkadaşı çalıştırmak isteyenler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Live2D Large Language Models Artificial Intelligence
+
+- [Live2D](https://trescout.com/dictionary/live2d/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-llm-vtuber/

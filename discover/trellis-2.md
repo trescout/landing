@@ -7,9 +7,11 @@ Microsoft tarafından geliştirilen TRELLIS, metin veya görsel girdilerini üç
 - GitHub Trending · 2026-08-02
 
 ## Güncelleme
-- 3 Eylül 2026: Yıldız 9.992 → 11.002.
+
+- **3 Eylül 2026:** Yıldız 9.992 → 11.002.
 
 ## Ne kazandırır?
+
 - Tek bir görselden detaylı ve dokulu 3D varlıklar oluşturur.
 - Karmaşık yapıları ve açık yüzeyleri başarıyla işler.
 - PBR yani fizik tabanlı görselleştirme materyalleriyle gerçekçi sonuçlar verir.
@@ -20,7 +22,7 @@ Microsoft tarafından geliştirilen TRELLIS, metin veya görsel girdilerini üç
 
 ```
 git clone -b main https://github.com/microsoft/TRELLIS.2.git --recursive
-cd TRELLIS.2
+    cd TRELLIS.2
 ```
 
 **Bağımlılıkları yükleyin**
@@ -30,19 +32,25 @@ cd TRELLIS.2
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Elimdeki 2D görseli 3D bir modele dönüştürmek istiyorum. TRELLIS.2 modelini kullanarak, yüksek kaliteli dokulara ve fizik tabanlı materyal özelliklerine sahip, karmaşık topolojileri koruyan bir 3D varlık oluşturmam için gerekli olan temel işlem adımlarını ve örnek Python kod yapısını açıkla.
 
-- **Kimin için:** Yüksek çözünürlüklü ve detaylı 3D varlıklar üretmek isteyen, Linux tabanlı bir sistem ve güçlü bir NVIDIA ekran kartına sahip kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yüksek çözünürlüklü ve detaylı 3D varlıklar üretmek isteyen, Linux tabanlı bir sistem ve güçlü bir NVIDIA ekran kartına sahip kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/microsoft/TRELLIS.2)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Structured Latent Generative AI Artificial Intelligence
+
+- [Structured Latent](https://trescout.com/dictionary/structured-latent/)
+- [Generative AI](https://trescout.com/dictionary/generative-ai/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trellis-2/

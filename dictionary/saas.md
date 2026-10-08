@@ -1,58 +1,75 @@
 # SaaS nedir, ne demek?
 
-> Software as a Service
+*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
 
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-22
+> Software as a Service
 
 SaaS (**Software as a Service**, hizmet olarak yazılım), uygulamayı bilgisayarınıza kurmadan tarayıcı üzerinden abonelikle kullanma modelidir.
 
 ## Tanım ve Kelime Kökeni
+
 Eskiden bir programı kullanmak için CD alıp kurmanız gerekirdi. SaaS modelinde tarayıcınızı açıp internet üzerinden yazılıma bağlanırsınız. Bakım, yedekleme ve güncellemeleri yazılımı sunan firma üstlenir. Ödemeyi genellikle aylık veya yıllık abonelikle yaparsınız. Google Workspace, Salesforce ve Netflix bu modelin bilinen örnekleridir.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
-- **Ofis:** E-posta, takvim ve belge düzenleme.
-- **Eğlence:** Dizi ve müzik platformları.
-- **İş:** Müşteri takibi (CRM), muhasebe, insan kaynakları.
-- **Eğitim:** Ödev ve sınav platformları.
+
+**Ofis:** E-posta, takvim ve belge düzenleme.
+**Eğlence:** Dizi ve müzik platformları.
+**İş:** Müşteri takibi (CRM), muhasebe, insan kaynakları.
+**Eğitim:** Ödev ve sınav platformları.
 
 ## Teknik Derinlik ve Mimari
+
 SaaS ürünlerinin arka planında şunlar çalışır:
-- **Çok kiracılı yapı (Multi-tenant):** Tek kurulum binlerce müşteriye hizmet verir. Veriler mantıksal olarak ayrı tutulur.
-- **Abonelik ve yetkilendirme:** Planınıza göre açılan özellikler ve kullanıcı kotaları.
-- **Kesintisiz güncelleme:** Yeni sürüm herkese aynı anda sunulur. Sürüm takip etme derdiniz kalmaz.
-- **Ölçekleme:** Yoğun saatlerde kaynak otomatik artırılır.
-- **Yedekleme ve SLA:** Veriler düzenli yedeklenir, hizmet seviyesi sözleşmeyle garanti altına alınır.
+
+**Çok kiracılı yapı (Multi-tenant):** Tek kurulum binlerce müşteriye hizmet verir. Veriler mantıksal olarak ayrı tutulur.
+**Abonelik ve yetkilendirme:** Planınıza göre açılan özellikler ve kullanıcı kotaları.
+**Kesintisiz güncelleme:** Yeni sürüm herkese aynı anda sunulur. Sürüm takip etme derdiniz kalmaz.
+**Ölçekleme:** Yoğun saatlerde kaynak otomatik artırılır.
+**Yedekleme ve SLA:** Veriler düzenli yedeklenir, hizmet seviyesi sözleşmeyle garanti altına alınır.
 
 ## Sık Karıştırılanlar
+
 PaaS ile karıştırılabilir. SaaS bitmiş uygulamadır, son kullanıcı içindir. PaaS ise yazılımcıların kendi uygulamasını çalıştırdığı platformdur. IaaS daha da aşağıdadır: Sunucu, disk ve ağ kiralanır, üstünü siz kurarsınız.
 
 ## Farklı Disiplinlerde Kullanımı
-- **Belediye suyu:** Kuyu açmak yerine şebekeye abone olmak.
-- **Kiralık daire:** Bakımı ev sahibinde, kullanımı sizde.
-- **Toplu taşıma:** Araç sahibi olmadan ulaşım hizmeti almak.
 
-## Bir benzetmeyle
-Kendi evinizde su kuyusu açmak yerine belediyenin sağladığı şebeke suyunu aylık ücretle kullanmak gibidir; altyapıyla uğraşmazsınız.
+**Belediye suyu:** Kuyu açmak yerine şebekeye abone olmak.
+**Kiralık daire:** Bakımı ev sahibinde, kullanımı sizde.
+**Toplu taşıma:** Araç sahibi olmadan ulaşım hizmeti almak.
 
-## Sıkça sorulanlar
+*Kendi evinizde su kuyusu açmak yerine belediyenin sağladığı şebeke suyunu aylık ücretle kullanmak gibidir; altyapıyla uğraşmazsınız.*
 
-**SaaS kullanırken verilerim nerede saklanır?**  
+## Sıkça Sorulanlar
+
+**SaaS kullanırken verilerim nerede saklanır?**
+
 Sağlayıcının veri merkezlerinde saklanır. Sözleşmede yedekleme, şifreleme ve erişim koşullarını mutlaka inceleyin.
 
-**İnternet kesilirse ne olur?**  
+**İnternet kesilirse ne olur?**
+
 Çevrimiçi özellikler durur. Bazı ürünler sınırlı çevrimdışı çalışma sunar, ancak tam kullanım internet ister.
 
-**Aboneliği iptal edersem verilerime ne olur?**  
+**Aboneliği iptal edersem verilerime ne olur?**
+
 Genellikle bir geçiş süresi verilir. Süre bitmeden verinizi dışa aktarmanız gerekir. İptal öncesi dışa aktarma biçimini öğrenin.
 
-**PaaS ile farkı nedir?**  
+**PaaS ile farkı nedir?**
+
 SaaS hazır uygulamadır, giriş yapıp kullanırsınız. PaaS boş bir platformdur, üzerine kendi yazılımınızı kurarsınız.
 
 ## İlgili terimler
-- [PaaS](/dictionary/paas/)
-- [IaaS](/dictionary/iaas/)
-- [Cloud Native](/dictionary/cloud-native/)
+
+- [PaaS](https://trescout.com/dictionary/paas/)
+- [IaaS](https://trescout.com/dictionary/iaas/)
+- [Cloud Native](https://trescout.com/dictionary/cloud-native/)
+
+## İlgili araçlar
+
+- [Free for Dev](https://trescout.com/discover/free-for-dev/)
+- [Twenty](https://trescout.com/discover/twenty/)
+- [Logto](https://trescout.com/discover/logto/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/saas/

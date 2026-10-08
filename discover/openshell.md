@@ -7,12 +7,14 @@ NVIDIA tarafından geliştirilen OpenShell, otonom yapay zekâ ajanları için g
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 14.197 → 15.205, son sürüm v0.1.2 (28 Eylül 2026).
-- 2 Ekim 2026: Yıldız 12.978 → 14.197, son sürüm v0.1.2 (28 Eylül 2026).
-- 1 Ekim 2026: Yıldız 11.092 → 12.978, son sürüm v0.1.2 (28 Eylül 2026).
-- 30 Eylül 2026: Yıldız 9.876 → 11.092, son sürüm v0.1.2 (28 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 14.197 → 15.205, son sürüm v0.1.2 (28 Eylül 2026).
+- **2 Ekim 2026:** Yıldız 12.978 → 14.197, son sürüm v0.1.2 (28 Eylül 2026).
+- **1 Ekim 2026:** Yıldız 11.092 → 12.978, son sürüm v0.1.2 (28 Eylül 2026).
+- **30 Eylül 2026:** Yıldız 9.876 → 11.092, son sürüm v0.1.2 (28 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâ ajanlarını izole sandbox çevresinde çalıştırır
 - Dosya ve ağ erişimini kurallarla sınırlar
 - Kimlik bilgilerini gizleyerek güvenliği artırır
@@ -35,19 +37,26 @@ npx skills add NVIDIA/OpenShell
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenShell aracını kurmak ve test etmek için şu komutları kullanabilirsin: curl -LsSf https://raw.githubusercontent.com/NVIDIA/OpenShell/main/install.sh | sh ve ardından openshell sandbox create --name demo komutunu çalıştırarak demo ortamı oluşturabilirsin.
 
-- **Kimin için:** Yapay zekâ ajanlarını güvenli ve izole bir ortamda bütün sistem kaynaklarına tam yetki vermeden çalıştırmak isteyen geliştiriciler. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Yapay zekâ ajanlarını güvenli ve izole bir ortamda bütün sistem kaynaklarına tam yetki vermeden çalıştırmak isteyen geliştiriciler.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/NVIDIA/OpenShell)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sandbox Runtime Rust Artificial Intelligence
+
+- [Sandbox](https://trescout.com/dictionary/sandbox/)
+- [Runtime](https://trescout.com/dictionary/runtime/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openshell/

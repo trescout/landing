@@ -7,9 +7,11 @@ Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sis
 - GitHub Trending · 2026-06-15
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 2.681 → 3.301, son sürüm v3.0 (1 Aralık 2021).
+
+- **2 Ağustos 2026:** Yıldız 2.681 → 3.301, son sürüm v3.0 (1 Aralık 2021).
 
 ## Ne kazandırır?
+
 - Otonom robotik sistemlerin temel mekanizma ve algoritmalarını öğrenme.
 - Robotik sensörler ve aktüatörler hakkında teknik bilgi edinme.
 - Akademik düzeyde robotik sistem tasarımı prensiplerini kavrama.
@@ -17,17 +19,21 @@ Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sis
 ## Nasıl başlanır?
 
 Bu proje otonom robotlar üzerine yazılmış bir ders kitabının kaynak kodlarını içerir. Kitabın PDF halini oluşturmak için GitHub sayfasındaki yeşil 'Code' butonuna tıklayıp 'Download ZIP' seçeneğiyle dosyaları bilgisayarınıza indirebilir veya projeyi Overleaf gibi çevrimiçi bir LaTeX düzenleyicisine aktararak çalışabilirsiniz.
+
 - [Resmî kaynak →](https://introduction-to-autonomous-robots.github.io/)
 
-- **Kimin için:** Otonom robotik sistemlerin teorik altyapısını ve algoritmik prensiplerini öğrenmek isteyen öğrenciler ve araştırmacılar içindir. 
+- **Kimin için:** Otonom robotik sistemlerin teorik altyapısını ve algoritmik prensiplerini öğrenmek isteyen öğrenciler ve araştırmacılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Introduction to Autonomous Robots PDF
+
+- [Introduction to Autonomous Robots](https://trescout.com/dictionary/autonomous-robots-intro/)
+- [PDF](https://trescout.com/dictionary/pdf/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/introduction-to-autonomous-robots/

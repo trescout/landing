@@ -7,10 +7,12 @@ CuPy, sayısal hesaplama kütüphanesi NumPy ve SciPy arayüzlerini grafik işle
 - GitHub Trending · 2026-06-29
 
 ## Güncelleme
-- 20 Ağustos 2026: Yıldız 12.227 → 12.259, son sürüm v14.2.0 (20 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 11.639 → 12.227, son sürüm v14.1.1 (1 Haziran 2026).
+
+- **20 Ağustos 2026:** Yıldız 12.227 → 12.259, son sürüm v14.2.0 (20 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 11.639 → 12.227, son sürüm v14.1.1 (1 Haziran 2026).
 
 ## Ne kazandırır?
+
 - NumPy ve SciPy ile uyumlu çalışma
 - NVIDIA CUDA ve AMD ROCm desteği
 - Düşük seviyeli CUDA özelliklerine erişim
@@ -24,19 +26,24 @@ docker run --gpus all -it cupy/cupy
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Python kodumda NumPy veya SciPy yerine GPU hızlandırmasından faydalanmak istiyorum. Mevcut NumPy kodlarımı CuPy kullanarak nasıl GPU üzerinde çalıştırabilirim ve RawKernels gibi düşük seviyeli CUDA özelliklerini projeme nasıl entegre edebilirim?
 
-- **Kimin için:** Python tabanlı sayısal hesaplamalarında GPU hızlandırmasına ihtiyaç duyan veri bilimciler ve mühendisler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Python tabanlı sayısal hesaplamalarında GPU hızlandırmasına ihtiyaç duyan veri bilimciler ve mühendisler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/cupy/cupy)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-GPU Artificial Intelligence
+
+- [GPU](https://trescout.com/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cupy/

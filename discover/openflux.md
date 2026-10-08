@@ -7,12 +7,14 @@ Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmalar
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 1.910 → 2.019, son sürüm v0.4.1 (7 Ekim 2026).
-- 1 Ekim 2026: Yıldız 1.896 → 1.910, son sürüm v0.3.0 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 1.884 → 1.896, son sürüm v0.2.0 (28 Eylül 2026).
-- 28 Eylül 2026: Yıldız 1.870 → 1.884, son sürüm node-v1.0.1 (27 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 1.910 → 2.019, son sürüm v0.4.1 (7 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 1.896 → 1.910, son sürüm v0.3.0 (30 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 1.884 → 1.896, son sürüm v0.2.0 (28 Eylül 2026).
+- **28 Eylül 2026:** Yıldız 1.870 → 1.884, son sürüm node-v1.0.1 (27 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Eklenebilir taşıma protokolleri ile esnek ağ yönetimi
 - SOCKS5 proxy desteği ile yerel ağ trafiği yönlendirme
 - Yandex Docs ve WebRTC üzerinden veri iletimi
@@ -29,7 +31,7 @@ go build -o universal-bypass-tool .
 **Android istemci derleme**
 
 ```
-export ANDROID_NDK_HOME= 
+export ANDROID_NDK_HOME=<your Android NDK path>
 ./build_android.sh
 ```
 
@@ -42,19 +44,26 @@ export ANDROID_NDK_HOME=
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenFlux aracını kullanarak bir TCP tüneli oluşturmak istiyorum. Masaüstü bilgisayarımda istemciyi çalıştırmak için gerekli olan derleme adımlarını ve ardından SOCKS5 proxy ayarlarını tarayıcı üzerinde nasıl yapılandıracağımı adım adım açıkla. Ayrıca, bir Linux sunucusu üzerinde çıkış düğümü (exit node) kurarken iptables ile RST paketlerini engellemenin neden gerekli olduğunu ve bu işlemin ağ güvenliğine etkisini teknik detaylarıyla belirt.
 
-- **Kimin için:** Ağ yığını araştırmaları yapan ve TCP trafiğini farklı taşıma protokolleri üzerinden tünellemek isteyen kullanıcılar içindir. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Ağ yığını araştırmaları yapan ve TCP trafiğini farklı taşıma protokolleri üzerinden tünellemek isteyen kullanıcılar içindir.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/p1neappleXpress/OpenFlux)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Pluggable Transports Network Stack Proxy Artificial Intelligence
+
+- [Pluggable Transports](https://trescout.com/dictionary/pluggable-transports/)
+- [Network Stack](https://trescout.com/dictionary/network-stack/)
+- [Proxy](https://trescout.com/dictionary/proxy/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openflux/

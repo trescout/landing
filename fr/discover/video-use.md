@@ -6,12 +6,21 @@ La bibliothèque d'utilisation vidéo permet aux agents de codage d'automatiser 
 - Python
 - GitHub Trending · 2026-06-29
 
+## Mises à jour
+
+- **27 septembre 2026:** Étoiles 24,903 → 27,331.
+- **15 septembre 2026:** Étoiles 23,697 → 24,903.
+- **3 septembre 2026:** Étoiles 22,245 → 23,697.
+- **31 août 2026:** Étoiles 20,820 → 22,245.
+
 ## Ce que ça vous apporte
+
 - Supprime automatiquement les mots de remplissage et les espaces silencieux
 - Applique des effets de fondu professionnels aux transitions audio
 - Effectue une édition des sous-titres et des couleurs basée sur l'intelligence artificielle
 
 ## Installation
+
 **Clonage du référentiel et installation des dépendances**
 
 ```
@@ -19,8 +28,8 @@ git clone https://github.com/browser-use/video-use ~/Developer/video-use
 ln -sfn ~/Developer/video-use ~/.claude/skills/video-use
 ```
 
-
 ## Exécution
+
 **Accès au dossier vidéo**
 
 ```
@@ -28,15 +37,28 @@ cd /path/to/your/videos
 claude
 ```
 
-
 ## Si vous ne codez pas
+
+🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+
 Configurez https://github.com/browser-use/video-use pour moi. Lisez d'abord install.md pour installer ce dépôt, connectez ffmpeg, enregistrez la compétence auprès de l'agent sous lequel vous utilisez et configurez la clé API ElevenLabs · demandez-moi de la coller lorsque vous en avez besoin. Ensuite, lisez SKILL.md pour une utilisation quotidienne et lisez toujours helpers/ car c'est là que se trouvent les scripts d'édition. Après l'installation, ne transcrivez rien par vous-même · dites-moi simplement que c'est prêt et attendez que je dépose les images dans un dossier.
 
 ## Termes liés du glossaire
 
+- [Skill](https://trescout.com/fr/dictionary/skill/)
+- [Agent](https://trescout.com/fr/dictionary/agent/)
+- [API](https://trescout.com/fr/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
+- **Pour qui:** Il s'adresse aux créateurs de contenu qui souhaitent automatiser leurs processus de montage vidéo et utiliser des agents d'IA comme Claude Code.
+- **Licence:** MIT
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/browser-use/video-use)
+- [Lire en turc →](https://trescout.com/discover/video-use/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-29 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/video-use/

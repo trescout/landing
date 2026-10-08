@@ -7,12 +7,14 @@ Transcribe.cpp, 16'dan fazla model ailesini destekleyen ve C++ diliyle geliştir
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
-- 4 Ekim 2026: Yıldız 1.981 → 1.982, son sürüm v0.3.1 (4 Ekim 2026).
-- 3 Ekim 2026: Yıldız 1.963 → 1.981, son sürüm v0.3.0 (3 Ekim 2026).
-- 27 Eylül 2026: Yıldız 1.865 → 1.963, son sürüm v0.2.4 (25 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 1.825 → 1.865, son sürüm v0.2.3 (30 Ağustos 2026).
+
+- **4 Ekim 2026:** Yıldız 1.981 → 1.982, son sürüm v0.3.1 (4 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 1.963 → 1.981, son sürüm v0.3.0 (3 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 1.865 → 1.963, son sürüm v0.2.4 (25 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 1.825 → 1.865, son sürüm v0.2.3 (30 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - 16 farklı model ailesi desteği
 - GPU ve CPU üzerinde yüksek performans
 - GGUF formatı ile verimli çıkarım
@@ -30,19 +32,28 @@ cmake --build build
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Transcribe.cpp aracını kullanarak yerel bir ses dosyasını metne dönüştürmek istiyorum. Sistemimde derlenmiş olan transcribe-cli aracını ve indirdiğim GGUF formatındaki model dosyasını kullanarak, 16 kHz mono WAV formatındaki ses dosyamı nasıl işleyebilirim? Lütfen bu işlem için gerekli olan komut yapısını ve dikkat etmem gereken dosya yollarını açıkla.
 
-- **Kimin için:** Kendi donanımı üzerinde gizlilik odaklı ve hızlı konuşma tanıma sistemleri çalıştırmak isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Kendi donanımı üzerinde gizlilik odaklı ve hızlı konuşma tanıma sistemleri çalıştırmak isteyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/handy-computer/transcribe.cpp)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Speech-to-Text STT GGUF Inference CPU GPU
+
+- [Speech-to-Text](https://trescout.com/dictionary/speech-to-text/)
+- [STT](https://trescout.com/dictionary/stt/)
+- [GGUF](https://trescout.com/dictionary/gguf/)
+- [Inference](https://trescout.com/dictionary/inference/)
+- [CPU](https://trescout.com/dictionary/cpu/)
+- [GPU](https://trescout.com/dictionary/gpu/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/transcribe-cpp/

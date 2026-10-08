@@ -7,11 +7,13 @@ Autoremesher, üç boyutlu modellerdeki düzensiz yüzey yapılarını otomatik 
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
-- 24 Ağustos 2026: Yıldız 3.225 → 3.322, son sürüm 1.2.0 (23 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 3.087 → 3.225, son sürüm 1.1.0 (16 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 2.123 → 3.087, son sürüm 1.0.0 (6 Temmuz 2026).
+
+- **24 Ağustos 2026:** Yıldız 3.225 → 3.322, son sürüm 1.2.0 (23 Ağustos 2026).
+- **17 Ağustos 2026:** Yıldız 3.087 → 3.225, son sürüm 1.1.0 (16 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 2.123 → 3.087, son sürüm 1.0.0 (6 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Karmaşık modelleri temiz dörtgen ağlara dönüştürür
 - Animasyon süreçleri için optimize edilmiş topoloji sağlar
 - Komut satırı üzerinden toplu işlem desteği sunar
@@ -52,19 +54,24 @@ make -j$(sysctl -n hw.logicalcpu)
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Elimdeki 3D model dosyasını dörtgen ağ yapısına dönüştürmek istiyorum. Autoremesher aracını kullanarak giriş dosyamı belirtilen hedef dörtgen sayısı, kenar ölçeklendirme ve keskin kenar ayarlarıyla nasıl işleyebilirim? Lütfen komut satırı üzerinden kullanabileceğim örnek bir yapılandırma oluştur.
 
-- **Kimin için:** Üç boyutlu modelleme ve animasyon süreçlerinde topoloji düzenleme ihtiyacı duyan sanatçılar ve geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Üç boyutlu modelleme ve animasyon süreçlerinde topoloji düzenleme ihtiyacı duyan sanatçılar ve geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/huxingyi/autoremesher)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Quad Remeshing Artificial Intelligence
+
+- [Quad Remeshing](https://trescout.com/dictionary/quad-remeshing/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autoremesher/

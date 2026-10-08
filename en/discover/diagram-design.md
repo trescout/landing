@@ -6,12 +6,21 @@ Diagram-design, developed by Cathryn Lavery, includes 29 different editorial dia
 - HTML
 - GitHub Trending · 2026-08-13
 
+## Updates
+
+- **September 27, 2026:** Stars 40,046 → 42,493.
+- **September 15, 2026:** Stars 38,136 → 40,046.
+- **September 11, 2026:** Stars 35,747 → 38,136.
+- **September 9, 2026:** Stars 32,934 → 35,747.
+
 ## What you get
+
 - Offers 27 different types of editorial quality diagrams
 - Produces clean visuals using HTML and SVG
 - Quickly creates designs suitable for your brand identity
 
 ## Installation
+
 **Local installation and configuration**
 
 ```
@@ -24,15 +33,26 @@ pi install ~/code/diagram-design
 ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-design
 ```
 
-
 ## If you don't write code
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 Tell Claude Code or whatever AI assistant you use to analyze the architecture or workflow of my current project. Then, ask it to create a clean HTML and SVG diagram by choosing the one that best suits the topic I'm explaining from the 27 different visual types in the diagram-design library. Specify that the design reference my website so that it is compatible with the colors and visual language of my brand.
 
 ## Related dictionary terms
 
+- [SVG](https://trescout.com/en/dictionary/svg/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
+- **Who it is for:** It is suitable for software developers and content creators who do not want to deal with design tools when visualizing complex processes or architectural structures.
+- **License:** MIT
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/cathrynlavery/diagram-design)
+- [Read in Turkish →](https://trescout.com/discover/diagram-design/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/diagram-design/

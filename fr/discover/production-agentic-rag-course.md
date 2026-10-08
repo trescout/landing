@@ -5,12 +5,19 @@ Production-agentic-rag-course propose une formation pratique sur le développeme
 - ★ 9 265
 - GitHub Trending · 2026-06-03
 
+## Mises à jour
+
+- **3 octobre 2026:** Étoiles 8,216 → 9,265, dernière version week7.0 (26 novembre 2025).
+- **2 août 2026:** Étoiles 6,536 → 8,216, dernière version week7.0 (26 novembre 2025).
+
 ## Ce que ça vous apporte
+
 - Établir l'infrastructure nécessaire pour les systèmes RAG au niveau de la production.
 - Application de méthodes de recherche hybride et de traitement de données intelligent.
 - Développer des mécanismes de décision basés sur des agents avec LangGraph.
 
 ## Installation
+
 **Clonage et installation du référentiel**
 
 ```
@@ -33,8 +40,8 @@ docker compose up --build -d
 curl http://localhost:8000/api/v1/health
 ```
 
-
 ## Exécution
+
 **Lire le contenu d'une semaine spécifique**
 
 ```
@@ -47,15 +54,30 @@ docker compose up --build -d
 # Replace <WEEK_TAG> with: week1.0, week2.0, etc.
 ```
 
-
 ## Si vous ne codez pas
+
+🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+
 Je souhaite développer un assistant de recherche universitaire en utilisant le projet production-agentic-rag-course. Pour l'installation de base du projet, après avoir téléchargé le référentiel avec la commande git clone, je dois configurer le fichier .env et installer les dépendances avec uv sync. Ensuite, je souhaite vérifier que le système fonctionne sur http://localhost:8000/api/v1/health en démarrant tous les services avec la commande docker compose up --build -d. Pouvez-vous me guider sur les clés API et les configurations de service auxquelles je dois prêter attention dans ce processus ?
 
 ## Termes liés du glossaire
 
+- [Clone](https://trescout.com/fr/dictionary/clone/)
+- [Agentic](https://trescout.com/fr/dictionary/agentic/)
+- [Localhost](https://trescout.com/fr/dictionary/localhost/)
+- [RAG](https://trescout.com/fr/dictionary/rag/)
+- [API](https://trescout.com/fr/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
+- **Pour qui:** Pour les ingénieurs et développeurs en IA qui souhaitent développer des systèmes RAG de qualité production, évolutifs et basés sur des agents.
+- **Licence:** MIT
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/jamwithai/production-agentic-rag-course)
+- [Lire en turc →](https://trescout.com/discover/production-agentic-rag-course/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/production-agentic-rag-course/

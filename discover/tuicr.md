@@ -7,12 +7,14 @@ Rust diliyle geliştirilen tuicr, Vim klavye kısayollarını destekleyen bir u�
 - GitHub Trending · 2026-07-31
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 3.132 → 3.221, son sürüm v0.27.0 (23 Eylül 2026).
-- 16 Eylül 2026: Yıldız 3.009 → 3.132, son sürüm v0.26.0 (15 Eylül 2026).
-- 3 Eylül 2026: Yıldız 2.908 → 3.009, son sürüm v0.25.0 (2 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 2.817 → 2.908, son sürüm v0.24.0 (25 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 3.132 → 3.221, son sürüm v0.27.0 (23 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 3.009 → 3.132, son sürüm v0.26.0 (15 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 2.908 → 3.009, son sürüm v0.25.0 (2 Eylül 2026).
+- **27 Ağustos 2026:** Yıldız 2.817 → 2.908, son sürüm v0.24.0 (25 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Vim kısayollarıyla terminalde hızlı kod inceleme
 - GitHub ve GitLab'a doğrudan yorum gönderme
 - Yapay zekâ araçları için yapılandırılmış çıktı desteği
@@ -55,19 +57,28 @@ tuicr pr 125
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bu kod incelemesini incele ve bulduğun hataları veya iyileştirme önerilerini, her bir yorumun dosya yolu ve satır numarasıyla belirtildiği yapılandırılmış bir liste halinde hazırla. İncelemeyi yaparken tuicr üzerinden kopyaladığım markdown formatındaki veriyi baz alarak, kodun okunabilirliğini ve performansını artıracak somut öneriler sun.
 
-- **Kimin için:** Kod inceleme süreçlerini terminalden ayrılmadan, Vim kısayollarıyla yönetmek isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Kod inceleme süreçlerini terminalden ayrılmadan, Vim kısayollarıyla yönetmek isteyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/agavra/tuicr)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Code Review User Interface Markdown Terminal Rust Artificial Intelligence
+
+- [Code Review](https://trescout.com/dictionary/code-review/)
+- [User Interface](https://trescout.com/dictionary/user-interface/)
+- [Markdown](https://trescout.com/dictionary/markdown/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tuicr/

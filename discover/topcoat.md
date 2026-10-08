@@ -7,12 +7,14 @@ Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları ol
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
-- 4 Ekim 2026: Yıldız 5.415 → 5.914, son sürüm v0.10.0 (3 Ekim 2026).
-- 27 Eylül 2026: Yıldız 4.823 → 5.415, son sürüm v0.9.0 (24 Eylül 2026).
-- 14 Eylül 2026: Yıldız 4.799 → 4.823, son sürüm v0.8.1 (13 Eylül 2026).
-- 10 Eylül 2026: Yıldız 4.761 → 4.799, son sürüm v0.8.0 (9 Eylül 2026).
+
+- **4 Ekim 2026:** Yıldız 5.415 → 5.914, son sürüm v0.10.0 (3 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 4.823 → 5.415, son sürüm v0.9.0 (24 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 4.799 → 4.823, son sürüm v0.8.1 (13 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 4.761 → 4.799, son sürüm v0.8.0 (9 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Sunucu taraflı hızlı HTML oluşturma
 - Modüler yapı ile otomatik yönlendirme
 - Tailwind entegreli hazır bileşen kütüphanesi
@@ -25,23 +27,28 @@ Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları ol
 cargo install topcoat
 ```
 
-Kaynak: crates.io
+**Kaynak:** crates.io
 
 ## Nasıl başlanır?
 
 Topcoat ile çalışmaya başlamak için GitHub üzerindeki resmî dokümantasyonda yer alan 'Getting started' rehberini takip etmelisiniz. Bu rehber üzerinden yeni bir proje oluşturabilir, gerekli CLI aracını kurabilir ve geliştirme sunucusunu başlatabilirsiniz.
+
 - [Resmî kaynak →](https://crates.io/crates/topcoat)
 
-- **Kimin için:** Rust dilini kullanarak uçtan uca web uygulamaları geliştirmek isteyen ve standartlaşmış bir çatı arayan geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Rust dilini kullanarak uçtan uca web uygulamaları geliştirmek isteyen ve standartlaşmış bir çatı arayan geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/tokio-rs/topcoat)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Framework CLI Rust
+
+- [Framework](https://trescout.com/dictionary/framework/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Rust](https://trescout.com/dictionary/rust/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/topcoat/

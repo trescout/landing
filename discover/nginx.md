@@ -7,12 +7,14 @@ NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters v
 - GitHub Trending · 2026-06-07
 
 ## Güncelleme
-- 16 Eylül 2026: Yıldız 31.565 → 31.652, son sürüm release-1.31.6 (15 Eylül 2026).
-- 3 Eylül 2026: Yıldız 31.451 → 31.565, son sürüm release-1.31.5 (2 Eylül 2026).
-- 19 Ağustos 2026: Yıldız 31.312 → 31.451, son sürüm release-1.31.4 (19 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 30.727 → 31.312, son sürüm release-1.31.3 (15 Temmuz 2026).
+
+- **16 Eylül 2026:** Yıldız 31.565 → 31.652, son sürüm release-1.31.6 (15 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 31.451 → 31.565, son sürüm release-1.31.5 (2 Eylül 2026).
+- **19 Ağustos 2026:** Yıldız 31.312 → 31.451, son sürüm release-1.31.4 (19 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 30.727 → 31.312, son sürüm release-1.31.3 (15 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Yüksek performanslı web sunucusu ve ters vekil sunucu yönetimi.
 - Gelişmiş yük dengeleme ve içerik önbellekleme özellikleri.
 - Modüler yapısı sayesinde esnek ve ölçeklenebilir altyapı kurulumu.
@@ -39,22 +41,29 @@ sudo apt update && sudo apt install -y nginx
 sudo systemctl start nginx
 ```
 
-Kaynak: Resmî kaynak: https://github.com/nginx/nginx
+**Kaynak:** Resmî kaynak: https://github.com/nginx/nginx
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 NGINX kullanarak bir web sunucusu veya ters vekil sunucu kurmak istiyorum. Sistemin gereksinimlerini karşılamak için hangi adımları izlemeliyim ve nginx -V komutu ile elde ettiğim modül bilgilerini nasıl yorumlayabilirim? Lütfen kurulum ve yapılandırma sürecinde dikkat etmem gereken temel direktifler konusunda bana rehberlik et.
 
-- **Kimin için:** Web sunucusu yönetimi, yük dengeleme ve ağ trafiği optimizasyonu ile ilgilenen teknik kullanıcılar için uygundur. 
-- **Lisans:** BSD-2-Clause 
+- **Kimin için:** Web sunucusu yönetimi, yük dengeleme ve ağ trafiği optimizasyonu ile ilgilenen teknik kullanıcılar için uygundur.
+- **Lisans:** BSD-2-Clause
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/nginx/nginx)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Reverse Proxy Proxy Open Source Artificial Intelligence
+
+- [Reverse Proxy](https://trescout.com/dictionary/reverse-proxy/)
+- [Proxy](https://trescout.com/dictionary/proxy/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nginx/

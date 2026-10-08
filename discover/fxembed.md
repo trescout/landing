@@ -7,12 +7,14 @@ FxEmbed, X ve Bluesky platformlarındaki paylaşımların Discord veya Telegram 
 - GitHub Trending · 2026-09-25
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/FxEmbed/FxEmbed)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Embed
+
+- [Embed](https://trescout.com/dictionary/embed/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fxembed/

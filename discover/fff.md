@@ -6,12 +6,14 @@ Rust ile geliştirilen fff, yapay zekâ ajanları ve metin düzenleyiciler için
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 10.309 → 10.873, son sürüm v0.11.0 (21 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 10.033 → 10.309, son sürüm v0.10.6 (30 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 10.015 → 10.033, son sürüm v0.10.5 (16 Ağustos 2026).
-- 16 Ağustos 2026: Yıldız 9.894 → 10.015, son sürüm v0.10.4 (15 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 10.309 → 10.873, son sürüm v0.11.0 (21 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 10.033 → 10.309, son sürüm v0.10.6 (30 Ağustos 2026).
+- **17 Ağustos 2026:** Yıldız 10.015 → 10.033, son sürüm v0.10.5 (16 Ağustos 2026).
+- **16 Ağustos 2026:** Yıldız 9.894 → 10.015, son sürüm v0.10.4 (15 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Dosya arama ve içerik tarama işlemlerinde yüksek hız sağlar.
 - Sık kullanılan dosyaları önceliklendiren frecency tabanlı sıralama sunar.
 - Yapay zekâ ajanları ve editörler için optimize edilmiş indeksleme yapar.
@@ -39,19 +41,25 @@ For any file search or grep in the current git-indexed directory, use fff tools.
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Projemdeki tüm dosya arama ve içerik tarama (grep) işlemleri için fff araçlarını kullan. Bu araçlar frecency tabanlı sıralama ve hızlı indeksleme özellikleri sayesinde daha verimli sonuçlar döndürecektir.
 
-- **Kimin için:** Projelerinde dosya arama ve içerik tarama süreçlerini hızlandırmak isteyen yazılımcılar ve yapay zekâ destekli geliştirme araçlarını kullanan kişiler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Projelerinde dosya arama ve içerik tarama süreçlerini hızlandırmak isteyen yazılımcılar ve yapay zekâ destekli geliştirme araçlarını kullanan kişiler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/dmtrKovalenko/fff)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-MCP Rust Artificial Intelligence
+
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fff/

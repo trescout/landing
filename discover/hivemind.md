@@ -7,12 +7,14 @@ Activeloop tarafından geliştirilen Hivemind, tüm yapay zekâ ajanları için 
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
-- 28 Eylül 2026: Yıldız 1.616 → 1.624, son sürüm v0.7.160 (28 Eylül 2026).
-- 18 Eylül 2026: Yıldız 1.615 → 1.616, son sürüm v0.7.159 (17 Eylül 2026).
-- 17 Eylül 2026: Yıldız 1.616 → 1.615, son sürüm v0.7.156 (17 Eylül 2026).
-- 16 Eylül 2026: Yıldız 1.602 → 1.616, son sürüm v0.7.153 (15 Eylül 2026).
+
+- **28 Eylül 2026:** Yıldız 1.616 → 1.624, son sürüm v0.7.160 (28 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 1.615 → 1.616, son sürüm v0.7.159 (17 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 1.616 → 1.615, son sürüm v0.7.156 (17 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 1.602 → 1.616, son sürüm v0.7.153 (15 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Tüm yapay zekâ ajanlarınız için ortak bir bellek ve koordinasyon katmanı oluşturur.
 - Geçmiş oturumlardaki başarılı çözüm kalıplarını otomatik olarak yeniden kullanılabilir becerilere dönüştürür.
 - Ajanların daha az token ve daha az adım kullanarak hedefe ulaşmasını sağlayarak maliyetleri düşürür.
@@ -34,19 +36,27 @@ hivemind status
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Hivemind aracını kullanarak yapay zekâ ajanlarım arasında ortak bir bellek katmanı oluşturmak istiyorum. npm install -g @deeplake/hivemind && hivemind install komutuyla kurulumu tamamladıktan sonra, ajanlarımın geçmiş oturum verilerini nasıl daha verimli paylaşabileceğini ve bu verilerin otomatik olarak beceri dosyalarına nasıl dönüştürüleceğini adım adım açıkla.
 
-- **Kimin için:** Birden fazla yapay zekâ ajanı kullanan ve bu ajanların ortak bir bellek havuzundan faydalanarak daha verimli çalışmasını isteyen yazılım geliştiriciler ve teknik ekipler içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Birden fazla yapay zekâ ajanı kullanan ve bu ajanların ortak bir bellek havuzundan faydalanarak daha verimli çalışmasını isteyen yazılım geliştiriciler ve teknik ekipler içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/activeloopai/hivemind)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Centralized Memory Layer Memory Layer Memory Token Artificial Intelligence
+
+- [Centralized Memory Layer](https://trescout.com/dictionary/centralized-memory-layer/)
+- [Memory Layer](https://trescout.com/dictionary/memory-layer/)
+- [Memory](https://trescout.com/dictionary/memory/)
+- [Token](https://trescout.com/dictionary/token/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hivemind/

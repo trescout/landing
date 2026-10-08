@@ -6,12 +6,14 @@ Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri te
 - GitHub Trending · 2026-06-13
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 3.078 → 3.128, son sürüm 2.10.5 (2 Ekim 2026).
-- 18 Eylül 2026: Yıldız 3.058 → 3.078, son sürüm 2.10.4 (18 Eylül 2026).
-- 12 Eylül 2026: Yıldız 3.029 → 3.058, son sürüm 2.10.3 (11 Eylül 2026).
-- 4 Eylül 2026: Yıldız 3.018 → 3.029, son sürüm 2.10.2 (4 Eylül 2026).
+
+- **2 Ekim 2026:** Yıldız 3.078 → 3.128, son sürüm 2.10.5 (2 Ekim 2026).
+- **18 Eylül 2026:** Yıldız 3.058 → 3.078, son sürüm 2.10.4 (18 Eylül 2026).
+- **12 Eylül 2026:** Yıldız 3.029 → 3.058, son sürüm 2.10.3 (11 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 3.018 → 3.029, son sürüm 2.10.2 (4 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Farklı dijital yayın servislerini tek arayüzde birleştirir
 - Bağlı tüm hoparlörleri merkezi olarak kontrol etmenizi sağlar
 - Home Assistant ile tam entegre çalışarak otomasyon desteği sunar
@@ -24,22 +26,26 @@ Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri te
 docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/server
 ```
 
-Kaynak: music-assistant.io/installation (resmî · Home Assistant eklentisi de mevcut)
+**Kaynak:** music-assistant.io/installation (resmî · Home Assistant eklentisi de mevcut)
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Music Assistant kullanarak dijital müzik kütüphanemi nasıl yapılandırabilirim? Home Assistant üzerinde kurulumu tamamladıktan sonra farklı yayın servislerini ve hoparlörlerimi sisteme nasıl tanıtabileceğim konusunda bana adım adım bir rehber oluştur.
 
-- **Kimin için:** Müzik koleksiyonunu ve bağlı ses cihazlarını tek bir merkezden yönetmek isteyen, Home Assistant kullanıcıları için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Müzik koleksiyonunu ve bağlı ses cihazlarını tek bir merkezden yönetmek isteyen, Home Assistant kullanıcıları için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/music-assistant/server)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/server/

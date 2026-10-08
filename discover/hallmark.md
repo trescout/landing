@@ -7,12 +7,14 @@ Hallmark, yapay zekâ tarafından üretilen standart içeriklerin (AI slop) tasa
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 27.671 → 29.187.
-- 1 Eylül 2026: Yıldız 26.349 → 27.671.
-- 21 Ağustos 2026: Yıldız 25.084 → 26.349.
-- 15 Ağustos 2026: Yıldız 23.216 → 25.084.
+
+- **27 Eylül 2026:** Yıldız 27.671 → 29.187.
+- **1 Eylül 2026:** Yıldız 26.349 → 27.671.
+- **21 Ağustos 2026:** Yıldız 25.084 → 26.349.
+- **15 Ağustos 2026:** Yıldız 23.216 → 25.084.
 
 ## Ne kazandırır?
+
 - Standart yapay zekâ estetiğinden kaçınır
 - Yirmi farklı tema ile özgün arayüzler oluşturur
 - Mevcut kodları denetleyip yeniden tasarlar
@@ -26,19 +28,23 @@ npx skills add nutlope/hallmark
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Hallmark stil dosyasını kullanarak yapay zekâ tarafından üretilmiş gibi görünmeyen, özgün bir arayüz tasarımı oluştur. Tasarımda standart şablonlardan kaçın, yirmi farklı tema arasından uygun olanı seç ve elli yedi maddelik kalite testlerinden geçecek şekilde özgün bir yapı kur.
 
-- **Kimin için:** Yapay zekâ araçlarıyla web arayüzü tasarlarken standart ve birbirinin kopyası olan sonuçlardan kaçınmak isteyen tasarımcılar ve geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ araçlarıyla web arayüzü tasarlarken standart ve birbirinin kopyası olan sonuçlardan kaçınmak isteyen tasarımcılar ve geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Nutlope/hallmark)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hallmark/

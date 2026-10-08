@@ -7,10 +7,12 @@ Harvey Labs, hukuk alanındaki görevleri destekleyen yapay zekâ ajanlarının 
 - GitHub Trending · 2026-08-10
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 1.370 → 1.401, son sürüm v1.2.0 (1 Ekim 2026).
-- 19 Eylül 2026: Yıldız 881 → 1.370, son sürüm v1.1.0 (18 Eylül 2026).
+
+- **1 Ekim 2026:** Yıldız 1.370 → 1.401, son sürüm v1.2.0 (1 Ekim 2026).
+- **19 Eylül 2026:** Yıldız 881 → 1.370, son sürüm v1.1.0 (18 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Hukuki görevlerde yapay zekâ performansını ölçer
 - Gerçekçi iş senaryoları ve belgeler sunar
 - Ajanların hukuk alanındaki yetkinliğini standartlaştırır
@@ -18,18 +20,22 @@ Harvey Labs, hukuk alanındaki görevleri destekleyen yapay zekâ ajanlarının 
 ## Nasıl başlanır?
 
 Başlamak için GitHub sayfasındaki dokümanlar arasında yer alan docs/tutorial.md dosyasını inceleyin. Bu rehber, bir birleşme ve satın alma veri odası görevini uçtan uca nasıl yöneteceğinizi, kurulumdan rapor incelemeye kadar tüm adımlarıyla anlatmaktadır.
+
 - [Resmî kaynak →](https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark)
 
-- **Kimin için:** Hukuk teknolojileri geliştiren ve yapay zekâ ajanlarının hukuki görevlerdeki başarısını ölçmek isteyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Hukuk teknolojileri geliştiren ve yapay zekâ ajanlarının hukuki görevlerdeki başarısını ölçmek isteyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/harveyai/harvey-labs)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Benchmark Artificial Intelligence
+
+- [Benchmark](https://trescout.com/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/harvey-labs/

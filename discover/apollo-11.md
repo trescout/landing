@@ -7,6 +7,7 @@ Apollo 11 görevinde kullanılan komuta ve ay modülü rehberlik bilgisayarını
 - GitHub Trending · 2026-07-22
 
 ## Ne kazandırır?
+
 - Ay'a iniş yapan orijinal yazılım kodlarına erişim
 - Komuta ve ay modülü rehberlik algoritmalarının incelenmesi
 - Tarihi montaj dili yazılım mimarisini keşfetme
@@ -15,15 +16,18 @@ Apollo 11 görevinde kullanılan komuta ve ay modülü rehberlik bilgisayarını
 
 Bu depo, Apollo 11 görevinde kullanılan rehberlik bilgisayarının orijinal kaynak kodlarını arşivlemek amacıyla oluşturulmuştur. Kodları incelemek için GitHub üzerindeki Comanche055 veya Luminary099 klasörlerine göz atabilir, derleme işlemleri hakkında detaylı bilgi almak için ise Virtual AGC projesinin resmî web sitesini ziyaret edebilirsiniz.
 
-- **Kimin için:** Havacılık tarihi ve yazılım mühendisliği geçmişine merak duyan araştırmacılar ile teknoloji meraklıları içindir. 
+- **Kimin için:** Havacılık tarihi ve yazılım mühendisliği geçmişine merak duyan araştırmacılar ile teknoloji meraklıları içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/chrislgarry/Apollo-11)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Guidance Computer Assembly
+
+- [Guidance Computer](https://trescout.com/dictionary/guidance-computer/)
+- [Assembly](https://trescout.com/dictionary/assembly/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/apollo-11/

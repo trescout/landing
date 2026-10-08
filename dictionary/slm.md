@@ -1,25 +1,28 @@
 # SLM nedir, ne demek?
 
-> Small Language Model
+*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-09-22
+> Small Language Model
 
 SLM (**Small Language Model**, küçük dil modeli), az kaynakla koşan kompakt modeldir.
 
 ## Tanım ve Kelime Kökeni
+
 Az parametre, küçük mimari ve verimlilik odağı vardır. Genel kültürü dardır, görevinde hızlıdır. Telefon ve dizüstünde internetsiz koşar.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
-- **Mobil:** Cihaz içi asistan.
-- **Gizlilik:** Verisi çıkmayan iş.
-- **Sınıflandırma:** Tek görevli hatlar.
+
+**Mobil:** Cihaz içi asistan.
+**Gizlilik:** Verisi çıkmayan iş.
+**Sınıflandırma:** Tek görevli hatlar.
 
 ## Teknik Derinlik ve Mimari
+
 Ölçek:
-- **Boyut:** 1-8 milyar parametre bandı.
-- **Kuantizasyon:** Küçültülmüş ağırlık.
-- **İnce ayar:** Göreve uyarlama.
+
+**Boyut:** 1-8 milyar parametre bandı.
+**Kuantizasyon:** Küçültülmüş ağırlık.
+**İnce ayar:** Göreve uyarlama.
 
 Yerel deneme:
 
@@ -30,36 +33,44 @@ ollama run phi
 Kural: Genel soruda dev, özel işte küçük yeterlidir. Maliyet ve hız dengesi belirler.
 
 ## Sık Karıştırılanlar
+
 Zayıf sanılır. Genelde dardır, görevde güçlüdür. Biri ansiklopedi, diğeri el kitabıdır.
 
 ## Farklı Disiplinlerde Kullanımı
-- **El kitabı:** Çantada taşınan özet.
-- **Cep feneri:** Hedefli ışık.
-- **Scooter:** Kısa mesafe aracı.
 
-## Bir benzetmeyle
-Ansiklopedi yerine çantada taşınan el kitabı gibidir.
+**El kitabı:** Çantada taşınan özet.
+**Cep feneri:** Hedefli ışık.
+**Scooter:** Kısa mesafe aracı.
 
-## Sıkça sorulanlar
+*Ansiklopedi yerine çantada taşınan el kitabı gibidir.*
 
-**Daha mı az zeki?**  
+## Sıkça Sorulanlar
+
+**Daha mı az zeki?**
+
 Genelde dardır, görevde yeteneklidir. Ölçü işe göre değişir.
 
-**Neden dev yerine küçük?**  
+**Neden dev yerine küçük?**
+
 Hız, maliyet ve gizlilik için. Veri çıkmaz, fatura şişmez.
 
-**Hangisiyle başlanır?**  
+**Hangisiyle başlanır?**
+
 Popüler küçüklerden biriyle yerelde. İhtiyaç büyütür.
 
-**Ne zaman yetmez?**  
+**Ne zaman yetmez?**
+
 Geniş bilgi ve akıl yürütmede dev gerekir. Hibrit düzen kurulur.
 
 ## İlgili terimler
-- [LLM](/dictionary/llm/)
-- [Quantization](/dictionary/quantization/)
-- [Offline](/dictionary/offline/)
-- [Open Weights](/dictionary/open-weights/)
-- [Distillation](/dictionary/distillation/)
+
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Quantization](https://trescout.com/dictionary/quantization/)
+- [Offline](https://trescout.com/dictionary/offline/)
+- [Open Weights](https://trescout.com/dictionary/open-weights/)
+- [Distillation](https://trescout.com/dictionary/distillation/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/slm/

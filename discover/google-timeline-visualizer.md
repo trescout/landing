@@ -7,12 +7,14 @@ Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık se
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 2.990 → 3.030, son sürüm v3.1.0 (5 Ekim 2026).
-- 13 Eylül 2026: Yıldız 2.980 → 2.990, son sürüm v3.0.18 (12 Eylül 2026).
-- 9 Eylül 2026: Yıldız 2.972 → 2.980, son sürüm v3.0.17 (9 Eylül 2026).
-- 7 Eylül 2026: Yıldız 2.969 → 2.972, son sürüm v3.0.16 (6 Eylül 2026).
+
+- **5 Ekim 2026:** Yıldız 2.990 → 3.030, son sürüm v3.1.0 (5 Ekim 2026).
+- **13 Eylül 2026:** Yıldız 2.980 → 2.990, son sürüm v3.0.18 (12 Eylül 2026).
+- **9 Eylül 2026:** Yıldız 2.972 → 2.980, son sürüm v3.0.17 (9 Eylül 2026).
+- **7 Eylül 2026:** Yıldız 2.969 → 2.972, son sürüm v3.0.16 (6 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Google Haritalar geçmiş verisini MP4 videoya çevirir
 - Seyahat rotalarını harita üzerinde animasyonla gösterir
 - Kişisel verileri cihazda işleyerek gizliliği korur
@@ -24,7 +26,7 @@ Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık se
 ```
 python -m pip install -r requirements.txt
 python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
---long-trip-compression balanced --output my_trip_2025.mp4
+  --long-trip-compression balanced --output my_trip_2025.mp4
 ```
 
 **Geliştirme araçlarını yapılandırma**
@@ -36,19 +38,23 @@ python -m pytest
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Elimdeki Timeline.json dosyasını kullanarak seyahatlerimi gösteren bir video oluşturmak istiyorum. Python ortamında gerekli bağımlılıkları yükledikten sonra, 2025 yılı verilerimi 'steady' kamera hareketi ve 'balanced' sıkıştırma ayarlarıyla 'my_trip_2025.mp4' adında bir dosyaya dönüştürmek için hangi komutu kullanmalıyım?
 
-- **Kimin için:** Google Haritalar'daki konum geçmişini görselleştirmek ve seyahat anılarını video formatında saklamak isteyen herkes için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Google Haritalar'daki konum geçmişini görselleştirmek ve seyahat anılarını video formatında saklamak isteyen herkes için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/mahlernim/google-timeline-visualizer)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/google-timeline-visualizer/

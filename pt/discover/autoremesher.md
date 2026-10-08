@@ -6,12 +6,20 @@ Autoremesher é uma ferramenta que converte automaticamente estruturas de superf
 - C++
 - GitHub Trending · 2026-07-09
 
+## Atualizações
+
+- **24 de agosto de 2026:** Estrelas 3,225 → 3,322, versão mais recente 1.2.0 (23 de agosto de 2026).
+- **17 de agosto de 2026:** Estrelas 3,087 → 3,225, versão mais recente 1.1.0 (16 de agosto de 2026).
+- **2 de agosto de 2026:** Estrelas 2,123 → 3,087, versão mais recente 1.0.0 (6 de julho de 2026).
+
 ## O que você ganha
+
 - Transforma modelos complexos em malhas retangulares limpas
 - Fornece topologia otimizada para processos de animação
 - Oferece suporte para processamento em lote via linha de comando
 
 ## Instalação
+
 **Compilando no Linux**
 
 ```
@@ -45,15 +53,26 @@ qmake CONFIG+=sdk_no_version_check
 make -j$(sysctl -n hw.logicalcpu)
 ```
 
-
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Quero converter o arquivo do modelo 3D que possuo em uma estrutura de malha retangular. Como posso processar meu arquivo de entrada com um número alvo especificado de quadriláteros, escala de arestas e configurações de arestas vivas usando a ferramenta Autoremesher? Crie um exemplo de configuração que eu possa usar por meio da linha de comando.
 
 ## Termos relacionados do glossário
 
+- [Quad Remeshing](https://trescout.com/pt/dictionary/quad-remeshing/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** Para artistas e desenvolvedores que necessitam de edição de topologia em processos de modelagem e animação 3D.
+- **Licença:** MIT
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/huxingyi/autoremesher)
+- [Ler em turco →](https://trescout.com/discover/autoremesher/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/autoremesher/

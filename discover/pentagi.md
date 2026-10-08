@@ -7,12 +7,14 @@ Go diliyle geliştirilen Pentagi, karmaşık sızma testlerini (penetration test
 - GitHub Trending · 2026-07-10
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 24.299 → 25.256, son sürüm v2.2.0 (5 Ekim 2026).
-- 14 Eylül 2026: Yıldız 22.593 → 24.299, son sürüm v2.1.0 (29 Mayıs 2026).
-- 9 Eylül 2026: Yıldız 21.475 → 22.593, son sürüm v2.1.0 (29 Mayıs 2026).
-- 2 Ağustos 2026: Yıldız 19.634 → 21.475, son sürüm v2.1.0 (29 Mayıs 2026).
+
+- **5 Ekim 2026:** Yıldız 24.299 → 25.256, son sürüm v2.2.0 (5 Ekim 2026).
+- **14 Eylül 2026:** Yıldız 22.593 → 24.299, son sürüm v2.1.0 (29 Mayıs 2026).
+- **9 Eylül 2026:** Yıldız 21.475 → 22.593, son sürüm v2.1.0 (29 Mayıs 2026).
+- **2 Ağustos 2026:** Yıldız 19.634 → 21.475, son sürüm v2.1.0 (29 Mayıs 2026).
 
 ## Ne kazandırır?
+
 - Sandboxed Docker ortamında tam otonom güvenlik testleri
 - Nmap ve SQLmap gibi 20'den fazla profesyonel araç desteği
 - Grafana ve Prometheus ile detaylı sistem izleme
@@ -27,19 +29,24 @@ docker compose up -d
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 PentAGI sistemini kullanarak hedef sistem üzerinde otonom bir sızma testi başlatmak istiyorum. Docker ortamında çalışan bu yapay zekâ ajanının, güvenlik açıklarını tespit etmesi, nmap ve sqlmap gibi araçları kullanarak tarama yapması ve bulguları detaylı bir rapor halinde sunması için gerekli iş akışını nasıl yapılandırabilirim?
 
-- **Kimin için:** Sızma testlerini otomatize etmek isteyen güvenlik araştırmacıları ve profesyonelleri için tasarlanmıştır. 
-- **Lisans:** MIT 
+- **Kimin için:** Sızma testlerini otomatize etmek isteyen güvenlik araştırmacıları ve profesyonelleri için tasarlanmıştır.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/vxcontrol/pentagi)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Penetration Testing Artificial Intelligence
+
+- [Penetration Testing](https://trescout.com/dictionary/penetration-testing/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pentagi/

@@ -7,11 +7,13 @@ Ktransformers, büyük dil modellerinin (large language models) çıkarım ve in
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
-- 15 Eylül 2026: Yıldız 19.255 → 19.517, son sürüm v0.7.1 (15 Eylül 2026).
-- 18 Ağustos 2026: Yıldız 19.145 → 19.255, son sürüm v0.7.0 (17 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 18.491 → 19.145, son sürüm v0.6.4 (23 Temmuz 2026).
+
+- **15 Eylül 2026:** Yıldız 19.255 → 19.517, son sürüm v0.7.1 (15 Eylül 2026).
+- **18 Ağustos 2026:** Yıldız 19.145 → 19.255, son sürüm v0.7.0 (17 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 18.491 → 19.145, son sürüm v0.6.4 (23 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - İşlemci ve ekran kartı kaynaklarını birlikte kullanarak verimli çalışma
 - Büyük ölçekli MoE modellerinde düşük donanım gereksinimi
 - Popüler çerçevelerle entegre çıkarım ve ince ayar desteği
@@ -26,19 +28,27 @@ pip install .
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Ktransformers kullanarak büyük dil modellerini CPU ve GPU üzerinde heterojen bir şekilde çalıştırıyorum. Donanım kaynaklarımı verimli kullanmak ve model çıkarım performansını optimize etmek için kt-kernel kütüphanesini sistemime nasıl entegre edebilirim ve MoE modelleri için en uygun yapılandırma ayarları nelerdir?
 
-- **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla verimli bir şekilde çalıştırmak veya ince ayar yapmak isteyen araştırmacılar ve geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla verimli bir şekilde çalıştırmak veya ince ayar yapmak isteyen araştırmacılar ve geliştiriciler içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/kvcache-ai/ktransformers)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Fine-tuning CPU Large Language Models GPU Artificial Intelligence
+
+- [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
+- [CPU](https://trescout.com/dictionary/cpu/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [GPU](https://trescout.com/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ktransformers/

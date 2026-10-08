@@ -7,6 +7,7 @@ LibreChat, farklı yapay zekâ modellerini ve araçlarını tek bir arayüzde bi
 - GitHub Trending · 2026-09-16
 
 ## Ne kazandırır?
+
 - Farklı yapay zekâ modellerini tek bir panelden yönetin
 - Kendi sunucunuzda güvenli ve özel sohbet ortamı kurun
 - Dosya işleme ve internette arama gibi gelişmiş araçları kullanın
@@ -14,18 +15,21 @@ LibreChat, farklı yapay zekâ modellerini ve araçlarını tek bir arayüzde bi
 ## Nasıl başlanır?
 
 LibreChat kullanmaya başlamak için resmî dokümantasyon sitesini ziyaret ederek kurulum adımlarını takip edebilirsiniz. Platformu kendi sunucunuza kurmak veya hızlıca bulut servisleri üzerinden devreye almak için docs.librechat.ai adresindeki rehberlerden yararlanabilirsiniz.
+
 - [Resmî kaynak →](https://librechat.ai/)
 
-- **Kimin için:** Farklı yapay zekâ modellerini tek bir merkezden yönetmek ve verilerini kendi sunucusunda tutmak isteyen kullanıcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Farklı yapay zekâ modellerini tek bir merkezden yönetmek ve verilerini kendi sunucusunda tutmak isteyen kullanıcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/danny-avila/LibreChat)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/librechat/

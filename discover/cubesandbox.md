@@ -7,12 +7,14 @@ TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ aja
 - GitHub Trending · 2026-07-02
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 12.161 → 12.714, son sürüm v0.7.2 (24 Eylül 2026).
-- 11 Eylül 2026: Yıldız 11.512 → 12.161, son sürüm v0.7.1 (11 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 10.828 → 11.512, son sürüm v0.7.0 (28 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 6.927 → 10.828, son sürüm v0.6.0 (24 Temmuz 2026).
+
+- **27 Eylül 2026:** Yıldız 12.161 → 12.714, son sürüm v0.7.2 (24 Eylül 2026).
+- **11 Eylül 2026:** Yıldız 11.512 → 12.161, son sürüm v0.7.1 (11 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 10.828 → 11.512, son sürüm v0.7.0 (28 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 6.927 → 10.828, son sürüm v0.6.0 (24 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - 60 milisaniyenin altında hızlı başlatma
 - donanım seviyesinde yalıtılmış güvenli alan
 - E2B SDK ile tam uyumluluk
@@ -25,22 +27,28 @@ TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ aja
 pip install cubesandbox
 ```
 
-Kaynak: PyPI · cubesandbox
+**Kaynak:** PyPI · cubesandbox
 
 ## Nasıl başlanır?
 
-Kurulum ve kullanım detayları için GitHub deposundaki dokümantasyon bölümünde yer alan Quick Start kılavuzunu inceleyebilirsiniz. Web arayüzüne erişmek için kurulum sonrası tarayıcınızdan http:// :12088 adresini ziyaret etmeniz yeterlidir.
+Kurulum ve kullanım detayları için GitHub deposundaki dokümantasyon bölümünde yer alan Quick Start kılavuzunu inceleyebilirsiniz. Web arayüzüne erişmek için kurulum sonrası tarayıcınızdan http://\<control-node IP>:12088 adresini ziyaret etmeniz yeterlidir.
+
 - [Resmî kaynak →](https://cubesandbox.com)
 
-- **Kimin için:** Yapay zekâ ajanları için hızlı, güvenli ve yalıtılmış bir çalışma ortamına ihtiyaç duyan geliştiriciler içindir. 
+- **Kimin için:** Yapay zekâ ajanları için hızlı, güvenli ve yalıtılmış bir çalışma ortamına ihtiyaç duyan geliştiriciler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/TencentCloud/CubeSandbox)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sandbox SDK Rust Artificial Intelligence
+
+- [Sandbox](https://trescout.com/dictionary/sandbox/)
+- [SDK](https://trescout.com/dictionary/sdk/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cubesandbox/

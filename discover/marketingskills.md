@@ -7,12 +7,14 @@ Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüp
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 52.554 → 53.534, son sürüm v2.11.18 (7 Ekim 2026).
-- 3 Ekim 2026: Yıldız 52.214 → 52.554, son sürüm v2.11.17 (3 Ekim 2026).
-- 2 Ekim 2026: Yıldız 51.869 → 52.214, son sürüm v2.11.6 (1 Ekim 2026).
-- 29 Eylül 2026: Yıldız 49.343 → 51.869, son sürüm v2.11.1 (5 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 52.554 → 53.534, son sürüm v2.11.18 (7 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 52.214 → 52.554, son sürüm v2.11.17 (3 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 51.869 → 52.214, son sürüm v2.11.6 (1 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 49.343 → 51.869, son sürüm v2.11.1 (5 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Pazarlama odaklı görevlerde yapay zekâ performansını artırır
 - SEO, metin yazarlığı ve CRO gibi alanlarda uzmanlaşmış iş akışları sunar
 - Claude Code ve benzeri kodlama ajanlarıyla tam uyumlu çalışır
@@ -32,19 +34,25 @@ npx skills add coreyhaines31/marketingskills --skill cro copywriting
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen artık pazarlama konusunda uzmanlaşmış bir asistansın. Projemize eklediğimiz marketingskills kütüphanesindeki yetenekleri kullanarak, ürünümüzün hedef kitlesine uygun stratejiler geliştirmeni, SEO uyumlu içerikler üretmeni ve dönüşüm oranlarını artıracak optimizasyon önerileri sunmanı istiyorum. İlk olarak ürünümüzün konumlandırmasını anlamak için product-marketing becerisini incele ve ardından belirlediğimiz pazarlama görevlerini bu çerçeveye göre profesyonelce yürüt.
 
-- **Kimin için:** Yapay zekâ kodlama ajanlarını pazarlama süreçlerinde verimli bir şekilde kullanmak isteyen teknik pazarlamacılar ve kurucular içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ kodlama ajanlarını pazarlama süreçlerinde verimli bir şekilde kullanmak isteyen teknik pazarlamacılar ve kurucular içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/coreyhaines31/marketingskills)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CRO SEO Artificial Intelligence
+
+- [CRO](https://trescout.com/dictionary/cro/)
+- [SEO](https://trescout.com/dictionary/seo/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/marketingskills/

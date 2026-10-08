@@ -6,12 +6,21 @@ Développé par Heygen, Hyperframes propose un framework qui convertit les codes
 - TypeScript
 - GitHub Trending · 2026-06-23
 
+## Mises à jour
+
+- **7 octobre 2026:** Étoiles 57,588 → 58,222, dernière version v0.8.140 (7 octobre 2026).
+- **6 octobre 2026:** Étoiles 57,128 → 57,588, dernière version v0.8.137 (6 octobre 2026).
+- **5 octobre 2026:** Étoiles 57,008 → 57,128, dernière version v0.8.133 (5 octobre 2026).
+- **5 octobre 2026:** Étoiles 56,505 → 57,008, dernière version v0.8.131 (5 octobre 2026).
+
 ## Ce que ça vous apporte
+
 - Production vidéo avec HTML et CSS
 - Travailler compatible avec les agents d’intelligence artificielle
 - Apporter votre propre système de conception à la vidéo
 
 ## Installation
+
 **Configuration pour l'agent IA**
 
 ```
@@ -27,8 +36,8 @@ npx hyperframes preview      # preview in browser with live reload
 npx hyperframes render       # render to MP4
 ```
 
-
 ## Exécution
+
 **Aperçu et rendu**
 
 ```
@@ -36,15 +45,27 @@ npx hyperframes preview      # preview in browser with live reload
 npx hyperframes render       # render to MP4
 ```
 
-
 ## Si vous ne codez pas
+
+🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+
 À l'aide de /hyperframes, créez une introduction de produit de 10 secondes avec un titre en fondu, une vidéo de fond et une musique de fond subtile.
 
 ## Termes liés du glossaire
 
+- [Framework](https://trescout.com/fr/dictionary/framework/)
+- [CLI](https://trescout.com/fr/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
+- **Pour qui:** Il convient aux développeurs qui souhaitent produire du contenu vidéo automatique à l’aide des technologies Web et aux concepteurs travaillant avec des agents d’intelligence artificielle.
+- **Licence:** Apache-2.0
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/heygen-com/hyperframes)
+- [Lire en turc →](https://trescout.com/discover/hyperframes/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/hyperframes/

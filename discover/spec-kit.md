@@ -7,12 +7,14 @@ GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-dri
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 139.912 → 140.470, son sürüm v1.1.1 (6 Ekim 2026).
-- 3 Ekim 2026: Yıldız 139.447 → 139.912, son sürüm v1.1.0 (2 Ekim 2026).
-- 29 Eylül 2026: Yıldız 139.014 → 139.447, son sürüm v1.0.13 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 137.703 → 139.014, son sürüm v1.0.12 (25 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 139.912 → 140.470, son sürüm v1.1.1 (6 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 139.447 → 139.912, son sürüm v1.1.0 (2 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 139.014 → 139.447, son sürüm v1.0.13 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 137.703 → 139.014, son sürüm v1.0.12 (25 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Teknik şartnameleri çalıştırılabilir kod süreçlerine dönüştürür.
 - Yazılım geliştirme aşamasında tutarlı ve öngörülebilir sonuçlar sağlar.
 - AI kodlama ajanları ile entegre çalışarak geliştirme hızını artırır.
@@ -35,19 +37,25 @@ cd my-project
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bir AI kodlama ajanı kullanırken, projenin temel ilkelerini belirlemek için /speckit.constitution komutunu kullanarak kalite ve performans standartlarını tanımla. Ardından /speckit.specify ile inşa etmek istediğin uygulamanın hedeflerini açıkla, /speckit.plan ile teknik mimarini belirt ve son olarak /speckit.tasks ile görev listesini oluşturup /speckit.implement komutuyla uygulamayı geliştir.
 
-- **Kimin için:** Yazılım geliştirme süreçlerinde şartname odaklı ve düzenli bir iş akışı benimsemek isteyen geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Yazılım geliştirme süreçlerinde şartname odaklı ve düzenli bir iş akışı benimsemek isteyen geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/github/spec-kit)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Spec-driven Development CLI Artificial Intelligence
+
+- [Spec-driven Development](https://trescout.com/dictionary/spec-driven-development/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/spec-kit/

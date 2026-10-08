@@ -7,10 +7,12 @@ Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit te
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
-- 27 Ağustos 2026: Yıldız 21.404 → 21.444, son sürüm v3.16.0 (25 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 20.636 → 21.404, son sürüm v3.15.3 (26 Temmuz 2026).
+
+- **27 Ağustos 2026:** Yıldız 21.404 → 21.444, son sürüm v3.16.0 (25 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 20.636 → 21.404, son sürüm v3.15.3 (26 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Test güdümlü geliştirme süreçlerini destekler
 - Basit ve doğal test yazım imkanı sunar
 - Temel mikro kıyaslama özellikleri içerir
@@ -23,23 +25,28 @@ Catch2, C++14 ve sonraki sürümleri destekleyen modern bir birim testi (unit te
 brew install catch2
 ```
 
-Kaynak: Homebrew formülü
+**Kaynak:** Homebrew formülü
 
 ## Nasıl başlanır?
 
 Catch2 bir kütüphane olarak yapılandırılmıştır. Başlamak için GitHub sayfasındaki dokümantasyon bölümünde yer alan 'Tutorial' rehberini inceleyerek projenize nasıl dahil edeceğinizi öğrenebilirsiniz.
+
 - [Resmî kaynak →](https://discord.gg/4CWS9zD)
 
-- **Kimin için:** C++ projelerinde test güdümlü geliştirme ve davranış odaklı geliştirme pratiklerini uygulamak isteyen yazılım geliştiriciler. 
-- **Lisans:** BSL-1.0 
+- **Kimin için:** C++ projelerinde test güdümlü geliştirme ve davranış odaklı geliştirme pratiklerini uygulamak isteyen yazılım geliştiriciler.
+- **Lisans:** BSL-1.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/catchorg/Catch2)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-BDD Unit Testing TDD
+
+- [BDD](https://trescout.com/dictionary/bdd/)
+- [Unit Testing](https://trescout.com/dictionary/unit-testing/)
+- [TDD](https://trescout.com/dictionary/tdd/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/catch2/

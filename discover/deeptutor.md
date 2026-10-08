@@ -7,12 +7,14 @@ DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreç
 - GitHub Trending · 2026-07-16
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 40.358 → 40.808, son sürüm v1.6.13 (4 Ekim 2026).
-- 27 Eylül 2026: Yıldız 40.334 → 40.358, son sürüm v1.6.12 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 39.561 → 40.334, son sürüm v1.6.11 (24 Eylül 2026).
-- 14 Eylül 2026: Yıldız 39.283 → 39.561, son sürüm v1.6.8 (14 Eylül 2026).
+
+- **5 Ekim 2026:** Yıldız 40.358 → 40.808, son sürüm v1.6.13 (4 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 40.334 → 40.358, son sürüm v1.6.12 (27 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 39.561 → 40.334, son sürüm v1.6.11 (24 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 39.283 → 39.561, son sürüm v1.6.8 (14 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yaşam boyu öğrenme odaklı özel ders sistemi
 - Kişiselleştirilmiş yapay zekâ ajanları ile etkileşim
 - Gelişmiş bilgi tabanı ve RAG desteği
@@ -24,17 +26,17 @@ DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreç
 ```
 mkdir -p my-deeptutor && cd my-deeptutor
 pip install -U deeptutor
-deeptutor init # prompts for ports + LLM provider + optional embedding
-deeptutor start # starts backend + frontend; keep the terminal open
+deeptutor init     # prompts for ports + LLM provider + optional embedding
+deeptutor start    # starts backend + frontend; keep the terminal open
 ```
 
 **Docker ile çalıştırma**
 
 ```
 docker run --rm --name deeptutor \
--p 127.0.0.1:3782:3782 \
--v deeptutor-data:/app/data \
-ghcr.io/hkuds/deeptutor:latest
+  -p 127.0.0.1:3782:3782 \
+  -v deeptutor-data:/app/data \
+  ghcr.io/hkuds/deeptutor:latest
 ```
 
 ## Çalıştırma
@@ -42,23 +44,31 @@ ghcr.io/hkuds/deeptutor:latest
 **Sistemi başlatma**
 
 ```
-deeptutor start # starts backend + frontend; keep the terminal open
+deeptutor start    # starts backend + frontend; keep the terminal open
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 DeepTutor sistemini kullanarak öğrenme sürecimi nasıl kişiselleştirebilirim? Kendi yapay zekâ partnerlerimi oluşturmak ve özel eğitim materyallerimi bu sisteme entegre ederek yaşam boyu öğrenme deneyimimi optimize etmek için izlemem gereken temel adımları açıkla.
 
-- **Kimin için:** Kendi özel eğitim asistanını oluşturmak ve kişiselleştirilmiş bir öğrenme ortamı kurmak isteyen öğrenciler ve eğitmenler için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Kendi özel eğitim asistanını oluşturmak ve kişiselleştirilmiş bir öğrenme ortamı kurmak isteyen öğrenciler ve eğitmenler için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/HKUDS/DeepTutor)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Lifelong Learning Personalized Tutoring Tutoring RAG Artificial Intelligence
+
+- [Lifelong Learning](https://trescout.com/dictionary/lifelong-learning/)
+- [Personalized Tutoring](https://trescout.com/dictionary/personalized-tutoring/)
+- [Tutoring](https://trescout.com/dictionary/tutoring/)
+- [RAG](https://trescout.com/dictionary/rag/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/deeptutor/

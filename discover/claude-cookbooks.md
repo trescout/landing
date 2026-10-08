@@ -7,9 +7,11 @@ Anthropics tarafından paylaşılan Claude yemek kitapları (cookbooks), Claude 
 - GitHub Trending · 2026-07-10
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 47.306 → 50.838.
+
+- **2 Ağustos 2026:** Yıldız 47.306 → 50.838.
 
 ## Ne kazandırır?
+
 - Claude API entegrasyonu için hazır kod şablonları
 - Görüntü işleme ve veri analizi örnekleri
 - Harici araçlar ve veritabanları ile çalışma yöntemleri
@@ -17,18 +19,25 @@ Anthropics tarafından paylaşılan Claude yemek kitapları (cookbooks), Claude 
 ## Nasıl başlanır?
 
 Claude Cookbooks deposuna GitHub üzerinden erişerek kullanmak istediğiniz Jupyter not defterlerini inceleyebilirsiniz. Başlamak için öncelikle Anthropic resmî sitesinden ücretsiz bir Claude API anahtarı almalı ve temel kavramları öğrenmek için önerilen Claude API Fundamentals kursuna göz atmalısınız.
+
 - [Resmî kaynak →](https://www.anthropic.com)
 
-- **Kimin için:** Claude API kullanarak kendi yapay zekâ uygulamalarını geliştirmek isteyen yazılımcılar ve geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Claude API kullanarak kendi yapay zekâ uygulamalarını geliştirmek isteyen yazılımcılar ve geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/anthropics/claude-cookbooks)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Cookbooks Notebooks Jupyter Notebooks API Artificial Intelligence
+
+- [Cookbooks](https://trescout.com/dictionary/cookbooks/)
+- [Notebooks](https://trescout.com/dictionary/notebooks/)
+- [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-cookbooks/

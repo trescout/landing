@@ -7,11 +7,13 @@ Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme s�
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 193.318 → 193.616, son sürüm 1.141.0 (7 Ekim 2026).
-- 1 Ekim 2026: Yıldız 193.169 → 193.318, son sürüm 1.140.0 (30 Eylül 2026).
-- 27 Eylül 2026: Yıldız 193.142 → 193.169, son sürüm 1.139.1 (25 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 193.318 → 193.616, son sürüm 1.141.0 (7 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 193.169 → 193.318, son sürüm 1.140.0 (30 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 193.142 → 193.169, son sürüm 1.139.1 (25 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Kapsamlı kod düzenleme ve gezinme desteği sunar
 - Hafif hata ayıklama özellikleri barındırır
 - Genişletilebilirlik modeliyle özelleştirilebilir
@@ -19,18 +21,22 @@ Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme s�
 ## Nasıl başlanır?
 
 Windows, macOS ve Linux işletim sistemleri için Visual Studio Code web sitesi üzerinden indirme yapabilirsiniz. Her gün en son sürümleri almak için Insiders sürümünü kurabilirsiniz.
+
 - [Resmî kaynak →](https://code.visualstudio.com)
 
-- **Kimin için:** Kod düzenleme, gezinme ve hafif hata ayıklama süreçlerini tek bir çatı altında toplamak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Kod düzenleme, gezinme ve hafif hata ayıklama süreçlerini tek bir çatı altında toplamak isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/microsoft/vscode)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Code Editor Editor
+
+- [Code Editor](https://trescout.com/dictionary/code-editor/)
+- [Editor](https://trescout.com/dictionary/editor/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vscode/

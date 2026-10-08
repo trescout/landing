@@ -34,13 +34,14 @@ Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti si
 /ponytail-review
 ```
 
-Kaynak: Resmî README ve dokümantasyon kaynakları: https://github.com/DietrichGebert/ponytail, https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md
+**Kaynak:** Resmî README ve dokümantasyon kaynakları: https://github.com/DietrichGebert/ponytail, https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 155.501 → 156.385, son sürüm v4.13.0 (5 Ekim 2026).
-- 5 Ekim 2026: Yıldız 152.240 → 155.501, son sürüm v4.12.0 (5 Ekim 2026).
-- 3 Ekim 2026: Yıldız 146.524 → 152.240, son sürüm v4.10.3 (3 Ekim 2026).
-- 27 Eylül 2026: Yıldız 138.874 → 146.524, son sürüm v4.10.0 (14 Eylül 2026).
+
+- **6 Ekim 2026:** Yıldız 155.501 → 156.385, son sürüm v4.13.0 (5 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 152.240 → 155.501, son sürüm v4.12.0 (5 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 146.524 → 152.240, son sürüm v4.10.3 (3 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 138.874 → 146.524, son sürüm v4.10.0 (14 Eylül 2026).
 
 ## Bu araç ne yapar?
 
@@ -55,25 +56,30 @@ Claude Code, Codex, Gemini CLI ve desteklenen diğer agent host'larında kodlama
 Belirli benchmark sonuçlarını tüm projelere genellemek veya kritik üretim değişikliklerini insan incelemesi olmadan uygulamak.
 
 ## Öne çıkanlar
+
 - Gereksiz kodu azaltmayı hedefleyen görev odaklı kurallar
 - Doğrulama, hata yönetimi, güvenlik ve erişilebilirliği koruyan inceleme yaklaşımı
 - Claude Code, Codex, Gemini CLI ve diğer host'lar için eklenti veya talimat adaptörleri
 
 ## İlk kullanım akışı
-- Kullandığınız agent host için Ponytail entegrasyonunu kurun
-- Kurulumun host içinde etkin olduğunu doğrulayın
-- Uygun Ponytail düzeyini seçin
-- Değişiklikler üzerinde inceleme veya denetim akışını çalıştırın
+
+1. Kullandığınız agent host için Ponytail entegrasyonunu kurun
+2. Kurulumun host içinde etkin olduğunu doğrulayın
+3. Uygun Ponytail düzeyini seçin
+4. Değişiklikler üzerinde inceleme veya denetim akışını çalıştırın
 
 ## Güvenli başlangıç
 
 Yüzdeler, gerçek bir FastAPI ve React deposundaki 12 görev, Haiku 4.5 ve n=4 koşullarındaki düzeltilmiş agentic benchmark ortalamalarıdır. Ayrı adversarial katmanda yüzde 100 güvenlik bildirilmiştir. Eski tek atımlı yüzde 80 ile 94 aralığı genel ortalama değildir.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 Görevin gerektirdiği kadar kod yaz, ardından değişiklikleri doğrulama, hata yönetimi, güvenlik ve erişilebilirlik açısından incele.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/DietrichGebert/ponytail)
 - [Resmî README →](https://github.com/DietrichGebert/ponytail)
 - [Agentic benchmark yöntemi →](https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md)
@@ -81,7 +87,13 @@ Görevin gerektirdiği kadar kod yaz, ardından değişiklikleri doğrulama, hat
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Benchmark Agentic Token Agent CLI Artificial Intelligence
+
+- [Benchmark](https://trescout.com/dictionary/benchmark/)
+- [Agentic](https://trescout.com/dictionary/agentic/)
+- [Token](https://trescout.com/dictionary/token/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ponytail/

@@ -7,12 +7,14 @@ Code-review-graph, kod tabanını analiz ederek yapay zekâ araçları için yer
 - GitHub Trending · 2026-07-18
 
 ## Güncelleme
-- 19 Eylül 2026: Yıldız 30.676 → 31.601, son sürüm v2.3.9 (18 Eylül 2026).
-- 22 Ağustos 2026: Yıldız 29.487 → 30.676, son sürüm v2.3.8 (21 Ağustos 2026).
-- 9 Ağustos 2026: Yıldız 28.041 → 29.487, son sürüm v2.3.7 (18 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 19.852 → 28.041, son sürüm v2.3.7 (18 Temmuz 2026).
+
+- **19 Eylül 2026:** Yıldız 30.676 → 31.601, son sürüm v2.3.9 (18 Eylül 2026).
+- **22 Ağustos 2026:** Yıldız 29.487 → 30.676, son sürüm v2.3.8 (21 Ağustos 2026).
+- **9 Ağustos 2026:** Yıldız 28.041 → 29.487, son sürüm v2.3.7 (18 Temmuz 2026).
+- **2 Ağustos 2026:** Yıldız 19.852 → 28.041, son sürüm v2.3.7 (18 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Kod tabanını analiz ederek yapay zekâya sadece ilgili dosyaları sunar
 - Büyük projelerde token tüketimini ciddi oranda azaltır
 - Değişikliklerin etkisini analiz ederek güncellemeleri otomatik yönetir
@@ -40,19 +42,28 @@ code-review-graph build
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bu projede code-review-graph yüklü. Lütfen projenin kod inceleme grafiğini oluştur ve yapay zekâ asistanımın sadece gerekli bağlamı okuyarak kod değişikliklerini analiz etmesini sağla.
 
-- **Kimin için:** Büyük kod tabanlarında çalışan ve yapay zekâ araçlarının token maliyetlerini düşürmek isteyen yazılımcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Büyük kod tabanlarında çalışan ve yapay zekâ araçlarının token maliyetlerini düşürmek isteyen yazılımcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/tirth8205/code-review-graph)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Code Intelligence Graph Context Reduction Code Review Context Token Artificial Intelligence
+
+- [Code Intelligence Graph](https://trescout.com/dictionary/code-intelligence-graph/)
+- [Context Reduction](https://trescout.com/dictionary/context-reduction/)
+- [Code Review](https://trescout.com/dictionary/code-review/)
+- [Context](https://trescout.com/dictionary/context/)
+- [Token](https://trescout.com/dictionary/token/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/code-review-graph/

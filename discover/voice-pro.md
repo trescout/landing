@@ -7,10 +7,12 @@ Voice-pro, metinden konuşmaya dönüştürme (TTS) ve sıfır örnekli ses kopy
 - GitHub Trending · 2026-08-02
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 11.965 → 12.967, son sürüm v4.0.0 (13 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 11.859 → 11.965, son sürüm v4.0.0 (13 Temmuz 2026).
+
+- **1 Ekim 2026:** Yıldız 11.965 → 12.967, son sürüm v4.0.0 (13 Temmuz 2026).
+- **2 Ağustos 2026:** Yıldız 11.859 → 11.965, son sürüm v4.0.0 (13 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - YouTube videolarından ses ayrıştırma ve çeviri yapma
 - Yapay zekâ ile ses kopyalama ve metni sese dönüştürme
 - 100'den fazla dilde anlık metin çevirisi
@@ -24,19 +26,27 @@ git clone https://github.com/abus-aikorea/voice-pro.git
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Voice-Pro aracını kullanarak bir YouTube videosunu nasıl hızlıca farklı bir dile çevirip seslendirebilirim? Adım adım yapmam gerekenleri ve ses kopyalama özelliğini kullanırken dikkat etmem gerekenleri açıkla.
 
-- **Kimin için:** İçerik üreticileri, araştırmacılar ve çok dilli sesli içeriklerle çalışan profesyoneller için uygundur. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** İçerik üreticileri, araştırmacılar ve çok dilli sesli içeriklerle çalışan profesyoneller için uygundur.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/abus-aikorea/voice-pro)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Zero-shot Voice Cloning Zero-shot Voice Cloning Cloning Artificial Intelligence
+
+- [Zero-shot Voice Cloning](https://trescout.com/dictionary/zero-shot-voice-cloning/)
+- [Zero-shot](https://trescout.com/dictionary/zero-shot/)
+- [Voice Cloning](https://trescout.com/dictionary/voice-cloning/)
+- [Cloning](https://trescout.com/dictionary/cloning/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/voice-pro/

@@ -7,9 +7,11 @@ Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görü
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 56.487 → 57.204, son sürüm v3.0.0 (21 Aralık 2025).
+
+- **2 Ağustos 2026:** Yıldız 56.487 → 57.204, son sürüm v3.0.0 (21 Aralık 2025).
 
 ## Ne kazandırır?
+
 - Görüntü ve videolarda yüz değişimi
 - Derin öğrenme modelleriyle eğitim
 - Görsel içeriklerde yüz ayıklama
@@ -30,23 +32,28 @@ git clone --depth 1 https://github.com/deepfakes/faceswap.git && cd faceswap
 python setup.py
 ```
 
-Kaynak: Depo README'si · faceswap.dev kurulum kılavuzu
+**Kaynak:** Depo README'si · faceswap.dev kurulum kılavuzu
 
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için öncelikle GitHub sayfasındaki INSTALL.md dosyasını inceleyerek sisteminize uygun kurulum adımlarını tamamlamanız gerekir. Kurulum sonrası yüzleri ayıklamak, model eğitmek veya dönüştürme yapmak için projenin bulunduğu klasör üzerinden komut satırını kullanabilirsiniz.
+
 - [Resmî kaynak →](https://www.faceswap.dev)
 
-- **Kimin için:** Yapay zekâ teknolojilerini deneyimlemek ve video düzenleme süreçlerinde derin öğrenme modelleriyle çalışmak isteyen kullanıcılar içindir. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Yapay zekâ teknolojilerini deneyimlemek ve video düzenleme süreçlerinde derin öğrenme modelleriyle çalışmak isteyen kullanıcılar içindir.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/deepfakes/faceswap)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Deepfake Face Swapping Artificial Intelligence
+
+- [Deepfake](https://trescout.com/dictionary/deepfake/)
+- [Face Swapping](https://trescout.com/dictionary/face-swapping/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/faceswap/

@@ -7,10 +7,12 @@ Motrix, TypeScript ile geliştirilen ve tüm dosya indirme ihtiyaçlarını kar�
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 53.428 → 56.101, son sürüm v1.8.19 (3 Mayıs 2023).
-- 18 Ağustos 2026: Yıldız 53.422 → 53.428, son sürüm v1.8.19 (3 Mayıs 2023).
+
+- **5 Ekim 2026:** Yıldız 53.428 → 56.101, son sürüm v1.8.19 (3 Mayıs 2023).
+- **18 Ağustos 2026:** Yıldız 53.422 → 53.428, son sürüm v1.8.19 (3 Mayıs 2023).
 
 ## Ne kazandırır?
+
 - HTTP, FTP ve BitTorrent protokollerini tek arayüzden yönetir
 - İndirme hızlarını sınırlar ve gelişmiş oturum yönetimi sunar
 - Tarayıcı eklentileriyle tek tıkla indirme başlatır
@@ -32,18 +34,23 @@ motrix add https://example.com/file.iso --save-dir ~/Downloads
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Motrix komut satırı arayüzünü kullanarak indirme görevlerini yönetmeme yardımcı ol. İndirme listesini görüntülemek için 'motrix list', yeni bir dosya eklemek için 'motrix add [URL] --save-dir [DİZİN]' ve indirme ilerlemesini canlı takip etmek için 'motrix watch --stats' komutlarını kullan. Uzak bir sunucuya bağlanmam gerekirse 'motrix pair' komutunu devreye al.
 
-- **Kimin için:** İnternet üzerindeki farklı kaynaklardan dosya indirme süreçlerini tek bir merkezden kontrol etmek isteyen kullanıcılar içindir. 
+- **Kimin için:** İnternet üzerindeki farklı kaynaklardan dosya indirme süreçlerini tek bir merkezden kontrol etmek isteyen kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/agalwood/Motrix)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Download Manager Artificial Intelligence
+
+- [Download Manager](https://trescout.com/dictionary/download-manager/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/motrix/

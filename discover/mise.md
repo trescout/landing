@@ -7,12 +7,14 @@ Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment v
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 34.575 → 34.605, son sürüm v2026.10.3 (5 Ekim 2026).
-- 4 Ekim 2026: Yıldız 34.574 → 34.575, son sürüm v2026.10.2 (4 Ekim 2026).
-- 4 Ekim 2026: Yıldız 34.503 → 34.574, son sürüm v2026.10.1 (3 Ekim 2026).
-- 2 Ekim 2026: Yıldız 34.461 → 34.503, son sürüm v2026.10.0 (2 Ekim 2026).
+
+- **5 Ekim 2026:** Yıldız 34.575 → 34.605, son sürüm v2026.10.3 (5 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 34.574 → 34.575, son sürüm v2026.10.2 (4 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 34.503 → 34.574, son sürüm v2026.10.1 (3 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 34.461 → 34.503, son sürüm v2026.10.0 (2 Ekim 2026).
 
 ## Ne kazandırır?
+
 - Proje araçlarını ve sürümlerini otomatik yönetir
 - Ortam değişkenlerini proje bazlı tanımlar
 - Derleme ve test görevlerini standartlaştırır
@@ -20,18 +22,24 @@ Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment v
 ## Nasıl başlanır?
 
 Kurulum yapmak için resmî dokümantasyon sayfasındaki 'Getting started' bölümünü ziyaret ederek işletim sisteminize uygun adımları takip edebilirsiniz. Kurulum sonrası aracın kabuğunuzla entegre çalışması için gerekli olan 'activate' komutlarını yine aynı dokümantasyon üzerinden kendi terminal türünüze göre yapılandırmanız gerekmektedir.
+
 - [Resmî kaynak →](https://mise.jdx.dev)
 
-- **Kimin için:** Farklı projeler arasında geçiş yaparken yazılım araçlarını, ortam değişkenlerini ve görevleri yönetmekte zorlanan yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Farklı projeler arasında geçiş yaparken yazılım araçlarını, ortam değişkenlerini ve görevleri yönetmekte zorlanan yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/jdx/mise)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Environment Variables Task Runner Terminal Rust
+
+- [Environment Variables](https://trescout.com/dictionary/environment-variables/)
+- [Task Runner](https://trescout.com/dictionary/task-runner/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Rust](https://trescout.com/dictionary/rust/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mise/

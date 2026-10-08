@@ -6,12 +6,18 @@ Das Bonsai-Demoprojekt bietet ein Toolset, das die Bereitstellungsprozesse von M
 - Shell
 - GitHub Trending · 2026-07-17
 
+## Aktualisierungen
+
+- **19. September 2026:** Sterne 1,587 → 2,706.
+
 ## Was es bringt
+
 - Führt Hochleistungsmodelle lokal mit geringer Speichernutzung aus.
 - Es bietet erweiterte Funktionen wie visuelle Verarbeitung und Ride-Hailing.
 - Bietet umfassende Kompatibilität mit verschiedenen Hardwarearchitekturen.
 
 ## Installation
+
 **macOS- und Linux-Installation**
 
 ```
@@ -28,8 +34,8 @@ export BONSAI_TOKEN="hf_your_token_here"
 ./setup.sh
 ```
 
-
 ## Ausführung
+
 **Starten des lokalen Servers**
 
 ```
@@ -39,15 +45,28 @@ export BONSAI_TOKEN="hf_your_token_here"
 BONSAI_MODEL=4B ./scripts/start_llama_server.sh
 ```
 
-
 ## Wenn Sie nicht programmieren
+
+🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+
 Ich möchte mithilfe des Bonsai-Demo-Projekts KI-Modelle auf meinem lokalen Gerät ausführen. Nachdem ich das für die Installation erforderliche Git-Repository geklont habe, muss ich meine HuggingFace-Token-Informationen definieren und die Abhängigkeiten und Modelle mit dem Befehl ./setup.sh herunterladen. Dann kann ich mit dem Befehl ./scripts/start_llama_server.sh den lokalen Server hochfahren und über Port 8080 über meinen Browser mit der KI interagieren.
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Machine Learning](https://trescout.com/de/dictionary/machine-learning/)
+- [Shell](https://trescout.com/de/dictionary/shell/)
+- [Token](https://trescout.com/de/dictionary/token/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
+- **Für wen es gedacht ist:** Es eignet sich für Entwickler, die KI-Modelle mit hohem Durchsatz auf ihrer nativen Hardware ausführen möchten.
+- **Lizenz:** Apache-2.0
+
 ## Links
-- GitHub-Repository →
-- Auf Türkisch lesen →
+
+- [GitHub-Repository →](https://github.com/PrismML-Eng/Bonsai-demo)
+- [Auf Türkisch lesen →](https://trescout.com/discover/bonsai-demo/)
+
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/bonsai-demo/

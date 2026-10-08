@@ -7,12 +7,14 @@ Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, 
 - GitHub Trending · 2026-08-04
 
 ## Güncelleme
-- 28 Eylül 2026: Yıldız 19.360 → 19.394, son sürüm v1.25.2 (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 19.121 → 19.360, son sürüm v1.24.0 (23 Eylül 2026).
-- 15 Eylül 2026: Yıldız 18.994 → 19.121, son sürüm v1.20.0 (15 Eylül 2026).
-- 10 Eylül 2026: Yıldız 18.936 → 18.994, son sürüm v1.19.0 (9 Eylül 2026).
+
+- **28 Eylül 2026:** Yıldız 19.360 → 19.394, son sürüm v1.25.2 (28 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 19.121 → 19.360, son sürüm v1.24.0 (23 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 18.994 → 19.121, son sürüm v1.20.0 (15 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 18.936 → 18.994, son sürüm v1.19.0 (9 Eylül 2026).
 
 ## Ne kazandırır?
+
 - PDF dosyalarını saniyeler içinde sınıflandırır
 - Metinleri Markdown formatına hatasız dönüştürür
 - Optik Karakter Tanıma (OCR) hizmetlerine gerek duymaz
@@ -33,19 +35,27 @@ npm install @firecrawl/pdf-inspector
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Elimdeki PDF dosyasını analiz etmem gerekiyor. Bu dosyayı metin tabanlı mı yoksa taranmış bir belge mi olduğunu anlamak için sınıflandır. Eğer metin tabanlıysa, içerisindeki metinleri, tabloları ve başlıkları koruyarak temiz bir Markdown formatına dönüştür. İşlemi yaparken OCR kullanmadan, dosyanın kendi yapısını ve yazı tipi bilgilerini kullanarak okuma sırasını doğru bir şekilde belirle.
 
-- **Kimin için:** Raporlar, finansal belgeler veya araştırma makaleleri gibi yapılandırılmış metin verilerine hızlıca ihtiyaç duyan geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Raporlar, finansal belgeler veya araştırma makaleleri gibi yapılandırılmış metin verilerine hızlıca ihtiyaç duyan geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/firecrawl/pdf-inspector)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PDF Inspector Markdown PDF Rust Artificial Intelligence
+
+- [PDF Inspector](https://trescout.com/dictionary/pdf-inspector/)
+- [Markdown](https://trescout.com/dictionary/markdown/)
+- [PDF](https://trescout.com/dictionary/pdf/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pdf-inspector/

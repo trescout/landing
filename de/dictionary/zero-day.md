@@ -1,31 +1,44 @@
 # Was ist Zero-day Exploit?
 
+*Glossar · Dev · Zuletzt aktualisiert: 3. Juni 2026*
+
 Es handelt sich um eine neu entdeckte Sicherheitslücke, die noch nicht behoben wurde.
 
 ## Definition
+
 Eine Zero-Day-Schwachstelle ist eine kritische Sicherheitslücke, die Softwareentwicklern nicht bekannt ist oder für die sie noch keine Lösung entwickelt haben. Sobald Angreifer diese Schwachstelle entdecken, verschaffen sie sich einen großen Vorteil, Systeme zu infiltrieren, da ihre Abwehrmechanismen noch nicht bereit sind.
 
+***Analogie:** Es ist, als ob ein Dieb den Herstellungsfehler im Schloss Ihrer Haustür vor Ihnen bemerkt und diese Tür problemlos öffnen kann, ohne dass Sie es überhaupt merken.*
+
 ## So funktioniert es
+
 In einer Software liegt ein Codefehler oder eine Logiklücke vor. Der Angreifer nutzt diese Lücke, um sich unbefugten Zugriff auf das System zu verschaffen. Das System bleibt angreifbar, bis der Softwarebesitzer die Situation erkennt und einen Patch veröffentlicht.
 
 ## Wo es eingesetzt wird
+
 In der Welt der Cybersicherheit wird es in allen Bereichen eingesetzt, von der zwischenstaatlichen digitalen Spionage bis hin zum Diebstahl der Daten einzelner Benutzer. Große Technologieunternehmen belohnen diejenigen, die diese Schwachstellen finden.
 
 ## Häufig verwechselt mit
+
 Es wird mit bekannten Softwarefehlern verwechselt, der Unterschied zu einer Zero-Day-Schwachstelle besteht jedoch darin, dass der Entwickler noch keine Zeit hat, Abwehrmaßnahmen zu entwickeln.
 
 ## Häufige Fragen
+
 **Warum heißt es Zero Day?**
+
 Denn der Entwickler hat null Tage, also keine Zeit, diese Schwachstelle zu beheben.
 
 **Wie schütze ich mich vor einem Zero-Day-Angriff?**
+
 Sie können Ihr Risiko minimieren, indem Sie Ihre Software stets auf dem neuesten Stand halten und verdächtige Links vermeiden.
 
-
 ## Verwandte Begriffe
-- [Observability](/de/dictionary/observability/)
-- [Open Source](/de/dictionary/open-source/)
-- [Self-hosting](/de/dictionary/self-hosting/)
+
+- [Observability](https://trescout.com/de/dictionary/observability/)
+- [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [Self-hosting](https://trescout.com/de/dictionary/self-hosting/)
+
+Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/zero-day/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/zero-day/

@@ -1,6 +1,6 @@
 # Yapay zekâ ajanlarınızı hatasız yönetin
 
-Babysitter , yapay zekâ ajanlarından oluşan iş gücünün karmaşık görevleri hatasız ve halüsinasyonsuz bir şekilde yürütebilmesi için deterministik bir denetim mekanizması sunar.
+**Babysitter**, yapay zekâ ajanlarından oluşan iş gücünün karmaşık görevleri **hatasız ve halüsinasyonsuz** bir şekilde yürütebilmesi için deterministik bir denetim mekanizması sunar.
 
 - ★ 1.632
 - JavaScript
@@ -8,21 +8,25 @@ Babysitter , yapay zekâ ajanlarından oluşan iş gücünün karmaşık görevl
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 1.101 → 1.632, son sürüm v0.0.188 (26 Haziran 2026).
 
-- **Kimin için:** Çoklu AI ajanı çalıştıran geliştiriciler 
-- **Zorluk:** Orta–ileri 
-- **Ne sunar:** Ajanlar için deterministik denetim 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) 
-- **Lisans:** MIT · ayrıntı aşağıda 
+- **2 Ağustos 2026:** Yıldız 1.101 → 1.632, son sürüm v0.0.188 (26 Haziran 2026).
+
+- **Kimin için:** Çoklu AI ajanı çalıştıran geliştiriciler
+- **Zorluk:** Orta–ileri
+- **Ne sunar:** Ajanlar için deterministik denetim
+- **Ücret:** Ücretsiz · açık kaynak (MIT)
+- **Lisans:** MIT · ayrıntı aşağıda
 
 ## Ne kazandırır?
+
 - Ajanın iş gücünü denetler.
 - Halüsinasyon ve hata riskini azaltır.
 - Deterministik ve öngörülebilir bir akış sağlar.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code'a 'claude plugin marketplace add a5c-ai/babysitter' ve ardından 'claude plugin install --scope user babysitter@a5c.ai' komutlarıyla Babysitter eklentisini kur, sonra '/babysitter:call' komutuyla adım adım denetlenen bir iş akışı başlat.
 
 **Claude Code · marketplace + kurulum**
@@ -38,15 +42,20 @@ claude plugin install --scope user babysitter@a5c.ai
 claude "/babysitter:call implement user authentication with TDD"
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
+**Lisans:** MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/a5c-ai/babysitter)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-TDD Plugin Open Source Artificial Intelligence
+
+- [TDD](https://trescout.com/dictionary/tdd/)
+- [Plugin](https://trescout.com/dictionary/plugin/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/babysitter/

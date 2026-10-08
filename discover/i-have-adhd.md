@@ -7,12 +7,14 @@ Kodlama ajanlarının çıktılarını daha odaklı ve düzenli hale getirmek i�
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 51.395 → 54.097.
-- 27 Eylül 2026: Yıldız 47.151 → 51.395.
-- 17 Eylül 2026: Yıldız 44.840 → 47.151.
-- 14 Eylül 2026: Yıldız 42.589 → 44.840.
+
+- **6 Ekim 2026:** Yıldız 51.395 → 54.097.
+- **27 Eylül 2026:** Yıldız 47.151 → 51.395.
+- **17 Eylül 2026:** Yıldız 44.840 → 47.151.
+- **14 Eylül 2026:** Yıldız 42.589 → 44.840.
 
 ## Ne kazandırır?
+
 - Yapay zekâ yanıtlarında gereksiz giriş cümlelerini kaldırır.
 - Karmaşık görevleri numaralandırılmış adımlara böler.
 - Doğrudan eyleme odaklanan net bir çıktı formatı sağlar.
@@ -21,16 +23,20 @@ Kodlama ajanlarının çıktılarını daha odaklı ve düzenli hale getirmek i�
 
 Kullandığınız kodlama aracına (Claude Code veya Codex) bağlı olarak kurulum adımları değişiklik gösterir. Lütfen projenin GitHub sayfasındaki 'Install' bölümünü inceleyin veya detaylı talimatlar için INSTALL.md dosyasını takip edin.
 
-- **Kimin için:** Kodlama asistanlarının uzun ve dolaylı yanıtlarından yorulan, daha hızlı ve net bilgiye ulaşmak isteyen kullanıcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Kodlama asistanlarının uzun ve dolaylı yanıtlarından yorulan, daha hızlı ve net bilgiye ulaşmak isteyen kullanıcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ayghri/i-have-adhd)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-ADHD Skill Artificial Intelligence
+
+- [ADHD](https://trescout.com/dictionary/adhd/)
+- [Skill](https://trescout.com/dictionary/skill/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/i-have-adhd/

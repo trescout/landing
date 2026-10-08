@@ -7,12 +7,14 @@ Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir kum havuzu a
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 8.374 → 8.393, son sürüm @flue/cli@2.2.2 (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 8.295 → 8.374, son sürüm @flue/cli@2.1.1 (23 Eylül 2026).
-- 19 Eylül 2026: Yıldız 8.255 → 8.295, son sürüm @flue/cli@2.1.0 (18 Eylül 2026).
-- 17 Eylül 2026: Yıldız 8.244 → 8.255, son sürüm @flue/cli@2.0.8 (16 Eylül 2026).
+
+- **29 Eylül 2026:** Yıldız 8.374 → 8.393, son sürüm @flue/cli@2.2.2 (28 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 8.295 → 8.374, son sürüm @flue/cli@2.1.1 (23 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 8.255 → 8.295, son sürüm @flue/cli@2.1.0 (18 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 8.244 → 8.255, son sürüm @flue/cli@2.0.8 (16 Eylül 2026).
 
 ## Ne kazandırır?
+
 - TypeScript tabanlı, programlanabilir ve başsız ajanlar oluşturma.
 - Sanal kum havuzu ile hızlı ve ölçeklenebilir çalışma ortamı.
 - Node.js, Cloudflare ve CI/CD süreçlerinde çok yönlü dağıtım.
@@ -28,8 +30,8 @@ flue dev --target node
 **Derleme**
 
 ```
-flue build --target node # Node.js server (single bundled .mjs)
-flue build --target cloudflare # Cloudflare Workers + Durable Objects
+flue build --target node          # Node.js server (single bundled .mjs)
+flue build --target cloudflare    # Cloudflare Workers + Durable Objects
 ```
 
 ## Çalıştırma
@@ -38,23 +40,32 @@ flue build --target cloudflare # Cloudflare Workers + Durable Objects
 
 ```
 flue run hello --target node \
---payload '{"text": "Hello world", "language": "French"}'
+  --payload '{"text": "Hello world", "language": "French"}'
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Flue framework'ünü kullanarak bir yapay zekâ ajanı geliştirmek istiyorum. Projemde TypeScript kullanarak nasıl bir iş akışı (workflow) tanımlayabilirim? Özellikle createAgent fonksiyonu ile model yapılandırmasını nasıl yaparım ve session.prompt ile ajanımı nasıl etkileşime sokabilirim? Basit bir 'hello-world' örneği üzerinden, çalışma zamanında (runtime) bir ajanı nasıl başlatıp sonuç alabileceğimi adım adım açıklar mısın?
 
-- **Kimin için:** Kendi otonom yapay zekâ ajanlarını TypeScript ile geliştirmek ve bunları farklı platformlarda çalıştırmak isteyen yazılımcılar için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Kendi otonom yapay zekâ ajanlarını TypeScript ile geliştirmek ve bunları farklı platformlarda çalıştırmak isteyen yazılımcılar için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/withastro/flue)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sandbox Agent Framework Prompt CI/CD Sandbox Runtime Framework
+
+- [Sandbox Agent Framework](https://trescout.com/dictionary/sandbox-agent-framework/)
+- [Prompt](https://trescout.com/dictionary/prompt/)
+- [CI/CD](https://trescout.com/dictionary/ci-cd/)
+- [Sandbox](https://trescout.com/dictionary/sandbox/)
+- [Runtime](https://trescout.com/dictionary/runtime/)
+- [Framework](https://trescout.com/dictionary/framework/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flue/

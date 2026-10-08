@@ -7,12 +7,14 @@ ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama g
 - GitHub Trending · 2026-06-10
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 9.404 → 9.478, son sürüm 3.0.0 (7 Ekim 2026).
-- 27 Eylül 2026: Yıldız 9.372 → 9.404, son sürüm 3.0.0-rc3 (26 Eylül 2026).
-- 17 Eylül 2026: Yıldız 9.322 → 9.372, son sürüm 3.0.0-rc2 (16 Eylül 2026).
-- 6 Eylül 2026: Yıldız 8.905 → 9.322, son sürüm 3.0.0-rc1 (5 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 9.404 → 9.478, son sürüm 3.0.0 (7 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 9.372 → 9.404, son sürüm 3.0.0-rc3 (26 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 9.322 → 9.372, son sürüm 3.0.0-rc2 (16 Eylül 2026).
+- **6 Eylül 2026:** Yıldız 8.905 → 9.322, son sürüm 3.0.0-rc1 (5 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Kamera veya mikrofon kullanmadan Wi-Fi sinyalleriyle hareket algılama.
 - Ev Asistanı (Home Assistant) ile tam entegre çalışma.
 - Düşük maliyetli ESP32 donanımı ile gizlilik odaklı takip.
@@ -20,12 +22,14 @@ ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama g
 ## Nasıl başlanır?
 
 ESPectre'yi kullanmaya başlamak için projeye ait resmî SETUP.md dokümanını takip etmeniz gerekmektedir. Bu doküman, kurulum adımlarını ve yapılandırma süreçlerini detaylı bir şekilde açıklamaktadır. Ayrıca ortamınıza en uygun ayarları yapmak için TUNING.md dosyasından yararlanabilirsiniz.
+
 - [Resmî kaynak →](https://espectre.dev)
 
-- **Kimin için:** Ev otomasyonu ile ilgilenen, gizlilikten ödün vermeden düşük maliyetli hareket algılama çözümleri arayan kullanıcılar içindir. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Ev otomasyonu ile ilgilenen, gizlilikten ödün vermeden düşük maliyetli hareket algılama çözümleri arayan kullanıcılar içindir.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/francescopace/espectre)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

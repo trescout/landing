@@ -7,9 +7,11 @@ Gas Town, çoklu ajan çalışma alanı yöneticisi (multi-agent workspace manag
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 16.488 → 17.403, son sürüm v1.2.1 (6 Haziran 2026).
+
+- **2 Ağustos 2026:** Yıldız 16.488 → 17.403, son sürüm v1.2.1 (6 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Birden fazla yapay zekâ ajanını tek merkezden koordine edin.
 - Ajanların yeniden başlatmalarda bağlam kaybetmesini engelleyin.
 - Git tabanlı depolama ile iş süreçlerini kalıcı hale getirin.
@@ -37,19 +39,24 @@ gt mayor attach
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Gas Town çalışma alanımda bir 'Mayor' oturumu başlattım. Şu anki projelerimi ve üzerinde çalıştığım görevleri analiz etmeni, mevcut iş akışlarındaki eksiklikleri belirlemeni ve devam eden süreçler için bir sonraki adım planını oluşturmanı istiyorum. Ajanlar arası koordinasyonu sağlamak adına mevcut 'rig' yapılarını ve 'bead' kayıtlarını gözden geçirerek işleri önceliklendir.
 
-- **Kimin için:** Karmaşık yazılım projelerinde birden fazla yapay zekâ ajanını aynı anda yönetmek ve iş akışı sürekliliği sağlamak isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Karmaşık yazılım projelerinde birden fazla yapay zekâ ajanını aynı anda yönetmek ve iş akışı sürekliliği sağlamak isteyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/gastownhall/gastown)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Multi-agent Artificial Intelligence
+
+- [Multi-agent](https://trescout.com/dictionary/multi-agent/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gastown/

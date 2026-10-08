@@ -8,9 +8,14 @@ Stable-diffusion.cpp es una biblioteca de inferencia que ejecuta modelos de gene
 
 ## Términos relacionados del glosario
 
+- [Inference](https://trescout.com/es/dictionary/inference/)
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/leejet/stable-diffusion.cpp)
+- [Leer en turco →](https://trescout.com/discover/stable-diffusion-cpp/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-25: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/stable-diffusion-cpp/

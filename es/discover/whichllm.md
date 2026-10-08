@@ -6,12 +6,21 @@ Whichllm es una herramienta que le permite identificar los modelos nativos de le
 - Python
 - GitHub Trending · 2026-06-09
 
+## Actualizaciones
+
+- **4 de octubre de 2026:** Estrellas 6,697 → 6,719, última versión v0.5.20 (3 de octubre de 2026).
+- **27 de septiembre de 2026:** Estrellas 6,263 → 6,697, última versión v0.5.19 (19 de septiembre de 2026).
+- **15 de agosto de 2026:** Estrellas 6,101 → 6,263, última versión v0.5.16 (14 de agosto de 2026).
+- **2 de agosto de 2026:** Estrellas 3,679 → 6,101, última versión v0.5.15 (3 de julio de 2026).
+
 ## Qué aporta
+
 - Determina el modelo de idioma nativo que mejor se adapta a su hardware con datos de referencia actualizados.
 - Predice el rendimiento detectando automáticamente la GPU y las características del sistema.
 - Ofrece la oportunidad de descargar modelos, iniciar chats y crear ejemplos de código Python con un solo comando.
 
 ## Instalación
+
 **Instalación de vehículos**
 
 ```
@@ -26,8 +35,8 @@ brew install andyyyy64/whichllm/whichllm
 pip install whichllm
 ```
 
-
 ## Ejecución
+
 **Déjame enumerarte los modelos que mejor se adaptan a tu hardware.**
 
 ```
@@ -40,15 +49,29 @@ whichllm
 whichllm run "qwen 2.5 1.5b gguf"
 ```
 
-
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 Con la herramienta Whichllm, quiero enumerar los modelos locales de lenguaje grande que mejor se adaptan a mis especificaciones de hardware y ver las estimaciones de rendimiento de estos modelos. ¿Cómo puedo filtrar los modelos con las puntuaciones de referencia más altas según la capacidad de GPU o CPU de mi sistema, así como planificar el hardware necesario para un modelo en particular?
 
 ## Términos relacionados del glosario
 
+- [Benchmark](https://trescout.com/es/dictionary/benchmark/)
+- [CPU](https://trescout.com/es/dictionary/cpu/)
+- [Large Language Models](https://trescout.com/es/dictionary/large-language-models/)
+- [GPU](https://trescout.com/es/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
+- **Para quién es:** Es para usuarios que buscan modelos de IA nativos que se ejecuten de manera más eficiente en su hardware y desean mantenerse alejados de la complejidad técnica.
+- **Licencia:** MIT
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/Andyyyy64/whichllm)
+- [Leer en turco →](https://trescout.com/discover/whichllm/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-09: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/whichllm/

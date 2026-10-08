@@ -7,9 +7,11 @@ G0DM0D3, büyük dil modellerinin (large language models) güvenlik katmanların
 - GitHub Trending · 2026-07-19
 
 ## Güncelleme
-- 20 Ağustos 2026: Yıldız 9.570 → 10.574.
+
+- **20 Ağustos 2026:** Yıldız 9.570 → 10.574.
 
 ## Ne kazandırır?
+
 - 60'tan fazla modelle çoklu karşılaştırmalı analiz
 - Yerel donanım üzerinde model çalıştırma desteği
 - Kırmızı takım testleri için giriş karıştırma motoru
@@ -30,19 +32,25 @@ python3 -m http.server 8000
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 G0DM0D3 arayüzünü kullanarak, belirlediğim model sağlayıcıları (OpenRouter, Venice veya yerel sunucu) üzerinden çoklu model yarıştıran ULTRAPLINIAN motorunu aktif et. Kırmızı takım araştırmalarım için Parseltongue giriş karıştırma tekniklerini uygula ve AutoTune özelliği ile sorgu bağlamına en uygun örnekleme parametrelerini otomatik olarak yapılandır.
 
-- **Kimin için:** Yapay zekâ modellerinin sınırlarını zorlamak isteyen araştırmacılar, sistem meraklıları ve red teaming süreçleriyle ilgilenen kullanıcılar içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Yapay zekâ modellerinin sınırlarını zorlamak isteyen araştırmacılar, sistem meraklıları ve red teaming süreçleriyle ilgilenen kullanıcılar içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/elder-plinius/G0DM0D3)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Red Teaming Large Language Models Artificial Intelligence
+
+- [Red Teaming](https://trescout.com/dictionary/red-teaming/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/g0dm0d3/

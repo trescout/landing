@@ -7,12 +7,14 @@ Semantica, yapay zekâ sistemleri için bağlamsal veri yönetimi sağlayan çiz
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 13.134 → 13.483, son sürüm v0.7.0 (22 Eylül 2026).
-- 18 Eylül 2026: Yıldız 12.127 → 13.134, son sürüm v0.6.8 (5 Eylül 2026).
-- 6 Eylül 2026: Yıldız 11.491 → 12.127, son sürüm v0.6.8 (5 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 11.005 → 11.491, son sürüm v0.6.7 (28 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 13.134 → 13.483, son sürüm v0.7.0 (22 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 12.127 → 13.134, son sürüm v0.6.8 (5 Eylül 2026).
+- **6 Eylül 2026:** Yıldız 11.491 → 12.127, son sürüm v0.6.8 (5 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 11.005 → 11.491, son sürüm v0.6.7 (28 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Karar süreçlerini izlenebilir ve denetlenebilir kılar
 - Verileri ilişkisel bir bilgi çizgesine dönüştürür
 - Düzenlemelere uygun şeffaf raporlama sağlar
@@ -34,19 +36,26 @@ semantica
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Semantica kullanarak verilerimi yapılandırılmış bir bilgi çizgesine dönüştür. Karar süreçlerimi izlenebilir hale getirmek için verileri ilişkisel bir yapıda tut, böylece yapay zekâ sistemimin aldığı kararların nedenlerini şeffaf bir şekilde denetleyebilir ve raporlayabilirim.
 
-- **Kimin için:** Yapay zekâ ajanlarının aldığı kararların gerekçelendirilmesi gereken finans, sağlık ve hukuk gibi denetime tabi sektörlerde çalışan ekipler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ ajanlarının aldığı kararların gerekçelendirilmesi gereken finans, sağlık ve hukuk gibi denetime tabi sektörlerde çalışan ekipler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/semantica-agi/semantica)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Graph-native Infrastructure Graph-native LLM Artificial Intelligence
+
+- [Graph-native Infrastructure](https://trescout.com/dictionary/graph-native-infrastructure/)
+- [Graph-native](https://trescout.com/dictionary/graph-native/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/semantica/

@@ -7,12 +7,14 @@ Spirula Studio, videoları üç boyutlu sahne temsillerine (3D Gaussian Splattin
 - GitHub Trending · 2026-09-24
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/harry7557558/spirula-studio)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Mesh
+
+- [Mesh](https://trescout.com/dictionary/mesh/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/spirula-studio/

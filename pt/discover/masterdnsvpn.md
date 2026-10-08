@@ -6,12 +6,18 @@ MasterDnsVPN é uma solução de rede privada virtual (VPN) de túnel de sistema
 - Go
 - GitHub Trending · 2026-06-11
 
+## Atualizações
+
+- **2 de agosto de 2026:** Estrelas 5,411 → 6,870, versão mais recente v2026.06.13.234407-7de2476 (13 de junho de 2026).
+
 ## O que você ganha
+
 - Ele fornece transmissão de dados em redes censuradas através do método de tunelamento DNS.
 - Oferece multipathing e balanceamento de carga para baixa perda de pacotes e alta velocidade.
 - Otimizado para conexão estável mesmo sob condições de rede restritas.
 
 ## Instalação
+
 **Configuração automática de servidor**
 
 ```
@@ -31,15 +37,28 @@ docker run -d \
   ghcr.io/masterking32/masterdnsvpn:latest
 ```
 
-
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Quero estabelecer uma conexão segura via túnel DNS em uma rede censurada usando a ferramenta MasterDnsVPN. Como posso configurar o lado do servidor usando o script de instalação automática compartilhado e quais etapas básicas devo seguir para garantir a conexão no lado do cliente? Detalhe os requisitos de rede aos quais devo prestar atenção durante o processo de instalação e o método de execução via Docker.
 
 ## Termos relacionados do glossário
 
+- [DNS Tunneling](https://trescout.com/pt/dictionary/dns-tunneling/)
+- [Resolver Load Balancing](https://trescout.com/pt/dictionary/resolver-load-balancing/)
+- [VPN](https://trescout.com/pt/dictionary/vpn/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** Destina-se a pesquisadores e usuários avançados que desejam fornecer acesso à Internet de alta estabilidade em condições de rede restritas.
+- **Licença:** MIT
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/masterking32/MasterDnsVPN)
+- [Ler em turco →](https://trescout.com/discover/masterdnsvpn/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-11: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/masterdnsvpn/

@@ -5,15 +5,17 @@ Puppeteer, Chrome ve Firefox tarayıcılarını kontrol etmek için kullanılan 
 - ★ 95.622
 - GitHub Trending · 2026-06-15
 
-TreScout notu: Tarayıcıyı elle değil kodla kullanmanızı sağlar: Sayfayı açar, tıklar, form doldurur, ekran görüntüsü ya da PDF alır. Aynı işi yapan Playwright daha geniş kapsamlıdır, birden çok tarayıcı gerekiyorsa oraya bakın. Kurulum tarayıcının bir kopyasını da indirir, yer kaplar.
+**TreScout notu:** Tarayıcıyı elle değil kodla kullanmanızı sağlar: Sayfayı açar, tıklar, form doldurur, ekran görüntüsü ya da PDF alır. Aynı işi yapan Playwright daha geniş kapsamlıdır, birden çok tarayıcı gerekiyorsa oraya bakın. Kurulum tarayıcının bir kopyasını da indirir, yer kaplar.
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 95.581 → 95.622, son sürüm browsers-v3.2.3 (23 Eylül 2026).
-- 14 Eylül 2026: Yıldız 95.540 → 95.581, son sürüm puppeteer-core-v25.11.0 (14 Eylül 2026).
-- 4 Eylül 2026: Yıldız 95.505 → 95.540, son sürüm browsers-v3.2.2 (3 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 95.461 → 95.505, son sürüm puppeteer-core-v25.9.0 (25 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 95.581 → 95.622, son sürüm browsers-v3.2.3 (23 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 95.540 → 95.581, son sürüm puppeteer-core-v25.11.0 (14 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 95.505 → 95.540, son sürüm browsers-v3.2.2 (3 Eylül 2026).
+- **27 Ağustos 2026:** Yıldız 95.461 → 95.505, son sürüm puppeteer-core-v25.9.0 (25 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Chrome ve Firefox tarayıcılarını yazılımla kontrol eder
 - Web sayfalarında otomatik test süreçleri oluşturur
 - İnternet sitelerinden veri kazıma işlemleri yapar
@@ -32,22 +34,28 @@ npm i puppeteer
 npm install puppeteer
 ```
 
-Kaynak: Resmî kaynak: https://github.com/puppeteer/puppeteer
+**Kaynak:** Resmî kaynak: https://github.com/puppeteer/puppeteer
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir web otomasyon uzmanısın. Puppeteer kütüphanesini kullanarak bir web sayfasını açan, belirli bir alana metin yazan ve sonuçları ekrana yazdıran basit bir JavaScript betiği hazırla. Tarayıcıyı başlatan, yeni bir sayfa oluşturan, bir URL adresine giden ve sayfa başlığını konsola yazdıran adımları içeren bir kod örneği sun.
 
-- **Kimin için:** Web sayfaları üzerinde test otomasyonu yapmak veya veri toplamak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Web sayfaları üzerinde test otomasyonu yapmak veya veri toplamak isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/puppeteer/puppeteer)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Web Scraping PDF Artificial Intelligence
+
+- [Web Scraping](https://trescout.com/dictionary/web-scraping/)
+- [PDF](https://trescout.com/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/puppeteer/

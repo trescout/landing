@@ -7,11 +7,13 @@ Stremio, farklı içerik sağlayıcılarını tek bir arayüzde birleştiren bir
 - GitHub Trending · 2026-09-07
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 13.968 → 14.129, son sürüm v5.0.0-beta.41 (5 Ekim 2026).
-- 27 Eylül 2026: Yıldız 13.631 → 13.968, son sürüm v5.0.0-beta.40 (23 Eylül 2026).
-- 7 Eylül 2026: Yıldız 13.627 → 13.631, son sürüm v5.0.0-beta.39 (27 Temmuz 2026).
+
+- **5 Ekim 2026:** Yıldız 13.968 → 14.129, son sürüm v5.0.0-beta.41 (5 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 13.631 → 13.968, son sürüm v5.0.0-beta.40 (23 Eylül 2026).
+- **7 Eylül 2026:** Yıldız 13.627 → 13.631, son sürüm v5.0.0-beta.39 (27 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Farklı içerik sağlayıcılarını tek bir arayüzde toplar
 - İzleme geçmişini ve kütüphaneyi cihazlar arasında senkronize eder
 - Chromecast ile televizyona görüntü aktarımı sağlar
@@ -33,19 +35,23 @@ docker run -p 8080:8080 stremio-web
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Stremio Web arayüzünü kullanarak dizi ve film izleme deneyimimi nasıl kişiselleştirebilirim? Eklentileri nasıl yönetebileceğim, izleme listemi nasıl senkronize edeceğim ve klavye kısayollarını kullanarak oynatıcıyı nasıl daha verimli kontrol edebileceğim konusunda bana rehberlik et.
 
-- **Kimin için:** Çeşitli kaynaklardaki dizi ve filmleri tek bir platform üzerinden, kurulum gerektirmeden tarayıcıda izlemek isteyen kullanıcılar içindir. 
-- **Lisans:** GPL-2.0 
+- **Kimin için:** Çeşitli kaynaklardaki dizi ve filmleri tek bir platform üzerinden, kurulum gerektirmeden tarayıcıda izlemek isteyen kullanıcılar içindir.
+- **Lisans:** GPL-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Stremio/stremio-web)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stremio-web/

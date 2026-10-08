@@ -7,10 +7,12 @@ AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla g
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
-- 8 Eylül 2026: Yıldız 24.551 → 25.780, son sürüm v2.5.0 (24 Haziran 2026).
-- 2 Ağustos 2026: Yıldız 19.145 → 24.551, son sürüm v2.5.0 (24 Haziran 2026).
+
+- **8 Eylül 2026:** Yıldız 24.551 → 25.780, son sürüm v2.5.0 (24 Haziran 2026).
+- **2 Ağustos 2026:** Yıldız 19.145 → 24.551, son sürüm v2.5.0 (24 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâ destekli içerik oluşturma ve otomatik yayınlama süreçlerini yönetir.
 - CPS, CPE ve CPM modelleriyle içeriklerden gelir elde etmeyi sağlar.
 - Birden fazla sosyal medya platformunda eş zamanlı etkileşim ve takipçi yönetimi sunar.
@@ -40,19 +42,25 @@ docker compose up -d
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 AiToEarn platformunu kullanarak içerik üretim süreçlerimi otomatize etmek istiyorum. Öncelikle aitoearn.ai veya aitoearn.cn üzerinden bir hesap oluşturup API Key'imi aldım. Bu anahtarı kullanarak Claude, Cursor veya OpenClaw gibi araçlara entegrasyonu nasıl tamamlayabilirim? Ayrıca, içeriklerimi birden fazla sosyal medya platformunda eş zamanlı yayınlamak ve gelir elde etme modellerini (CPS, CPE, CPM) aktif etmek için izlemem gereken temel adımları açıklar mısın?
 
-- **Kimin için:** İçeriklerini otomatize etmek, çoklu platformlarda yayınlamak ve yapay zekâ destekli modellerle gelir elde etmek isteyen içerik üreticileri, marka sahipleri ve tek kişilik şirketler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** İçeriklerini otomatize etmek, çoklu platformlarda yayınlamak ve yapay zekâ destekli modellerle gelir elde etmek isteyen içerik üreticileri, marka sahipleri ve tek kişilik şirketler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/yikart/AiToEarn)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI-driven Earning Models API Artificial Intelligence
+
+- [AI-driven Earning Models](https://trescout.com/dictionary/ai-driven-earning-models/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/aitoearn/

@@ -7,12 +7,14 @@ Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek için t
 - GitHub Trending · 2026-06-29
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 65.046 → 66.569, son sürüm v1.7.0 (5 Ekim 2026).
-- 27 Eylül 2026: Yıldız 60.621 → 65.046, son sürüm v1.6.2 (5 Eylül 2026).
-- 5 Eylül 2026: Yıldız 60.250 → 60.621, son sürüm v1.6.2 (5 Eylül 2026).
-- 3 Eylül 2026: Yıldız 60.023 → 60.250, son sürüm v1.6.1 (2 Eylül 2026).
+
+- **5 Ekim 2026:** Yıldız 65.046 → 66.569, son sürüm v1.7.0 (5 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 60.621 → 65.046, son sürüm v1.6.2 (5 Eylül 2026).
+- **5 Eylül 2026:** Yıldız 60.250 → 60.621, son sürüm v1.6.2 (5 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 60.023 → 60.250, son sürüm v1.6.1 (2 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Uygulamalardaki zafiyetleri otomatik tespit eder
 - Kanıtlanabilir güvenlik raporları oluşturur
 - CI/CD süreçlerine entegre edilebilir
@@ -34,19 +36,26 @@ strix --target ./app-directory
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Strix aracını kullanarak belirlediğim hedef üzerinde kapsamlı bir güvenlik taraması gerçekleştir. Taramayı başlatırken gerekli API anahtarlarımı yapılandır ve bulguları doğrulanabilir kanıtlarla birlikte raporla. Uygulama dizinimdeki veya belirttiğim URL üzerindeki zafiyetleri analiz ederek, bulguları ve çözüm önerilerini içeren detaylı bir rapor sun.
 
-- **Kimin için:** Uygulama güvenliğini otomatize etmek ve zafiyetleri hızlıca tespit edip gidermek isteyen yazılım geliştiriciler ve güvenlik ekipleri için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Uygulama güvenliğini otomatize etmek ve zafiyetleri hızlıca tespit edip gidermek isteyen yazılım geliştiriciler ve güvenlik ekipleri için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/usestrix/strix)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Security Tool CI/CD API Artificial Intelligence
+
+- [AI Security Tool](https://trescout.com/dictionary/ai-security-tool/)
+- [CI/CD](https://trescout.com/dictionary/ci-cd/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/strix/

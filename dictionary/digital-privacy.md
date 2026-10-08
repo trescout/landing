@@ -1,7 +1,6 @@
 # Digital Privacy nedir, ne demek?
 
-**Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-09-19
+*Sözlük · Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
 
 Digital Privacy (dijital gizlilik veya sayısal mahremiyet), bireylerin internette, akıllı cihazlarda ve dijital servislerde ürettiği kişisel verilerin kimler tarafından toplanabileceğini, saklanabileceğini ve işlenebileceğini denetleme ve sınırlama hakkıdır.
 
@@ -27,7 +26,7 @@ Bilgisayar bilimlerinde gizlilik, soyut bir arzu değil; matematiksel ve algorit
 
 - **Uçtan Uca Şifreleme (Signal Protocol & Double Ratchet):** Klasik sistemlerde mesajlar sunucuda çözülüp depolanırken, modern E2EE altyapısında anahtarlar yalnızca uç cihazlarda bulunur. Her mesaj gönderiminde şifreleme anahtarı ileriye dönük olarak yenilenir (Forward Secrecy); böylece geçmiş bir anahtar ele geçirilse bile sonraki mesajlar okunamaz.
 - **Sıfır Bilgi İspatları (Zero-Knowledge Proofs - ZKP):** Karşı tarafa bilginin içeriğini (örneğin doğum tarihinizi veya maaşınızı) göstermeden, sadece aranan koşulu (örneğin "18 yaşından büyüğüm" veya "krediye uygundur") matematiksel olarak ispatlama yöntemidir (zk-SNARKs).
-- **Diferansiyel Gizlilik (Differential Privacy):** Büyük veri setleri analiz edilirken istatistiki sonuçlara kontrollü matematiksel gürültü (Laplace/Gauss) eklenir. Böylece araştırmacılar genel eğilimleri görürken, veri setindeki tek bir bireyin varlığı veya yokluğu asla ifşa edilemez ($\epsilon$-gizlilik bütçesi).
+- **Diferansiyel Gizlilik (Differential Privacy):** Büyük veri setleri analiz edilirken istatistiki sonuçlara kontrollü matematiksel gürültü (Laplace/Gauss) eklenir. Böylece araştırmacılar genel eğilimleri görürken, veri setindeki tek bir bireyin varlığı veya yokluğu asla ifşa edilemez (ε-gizlilik bütçesi).
 - **Soğan Yönlendirmesi (Onion Routing - Tor):** Veri paketleri çok katmanlı olarak şifrelenir ve rastgele üç düğüm üzerinden iletilir. Hiçbir düğüm hem göndericiyi hem de hedef sunucuyu aynı anda göremez.
 
 ## 4. Felsefe, sosyoloji ve siyaset bilimi: Panoptikon ve gözetim kapitalizmi
@@ -38,9 +37,7 @@ Dijital gizlilik salt bir teknik konu değil, özgür toplumların varoluşsal z
 - **Shoshana Zuboff ve Gözetim Kapitalizmi:** Sosyolog Zuboff, teknoloji devlerinin insan deneyimini ücretsiz hammadde olarak sömürdüğünü, bu davranışsal artıklarla (behavioral surplus) gelecekteki eylemlerimizi tahmin eden ve yönlendiren piyasalar kurduğunu savunur.
 - **"Saklayacak Bir Şeyim Yok" Yanılgısı:** Edward Snowden'ın veciz ifadesiyle: *"Saklayacak bir şeyim yok, bu yüzden gizliliği önemsemiyorum demek; söyleyecek bir şeyim yok, bu yüzden ifade özgürlüğünü önemsemiyorum demekle aynıdır."* Gizlilik suçluların değil, hür insanların özerklik alanıdır.
 
-## Bir benzetmeyle
-
-Evinizin perdelerini akşam olunca kapatmak gibidir. Perdeleri kapatmanız içeride yasa dışı bir iş çevirdiğiniz anlamına gelmez; yalnızca evinizdeki mahremiyetin sokaktan geçen herkes tarafından izlenmesini istemezsiniz.
+*Evinizin perdelerini akşam olunca kapatmak gibidir. Perdeleri kapatmanız içeride yasa dışı bir iş çevirdiğiniz anlamına gelmez; yalnızca evinizdeki mahremiyetin sokaktan geçen herkes tarafından izlenmesini istemezsiniz.*
 
 ## Siber güvenlik ile dijital gizlilik arasındaki fark
 
@@ -48,26 +45,32 @@ Siber güvenlik, verilerinizin yetkisiz saldırganlar (hacker'lar) tarafından �
 
 ## Sıkça sorulanlar
 
-**Digital Privacy ne demek, Türkçe karşılığı nedir?**  
+**Digital Privacy ne demek, Türkçe karşılığı nedir?**
+
 Digital Privacy Türkçede "dijital gizlilik" veya "sayısal mahremiyet" olarak karşılanır. Bireylerin çevrimiçi ortamda ürettiği tüm verilerin kimler tarafından toplanacağını ve işleneceğini belirleme hakkını niteler.
 
-**"Saklayacak hiçbir şeyim yok" argümanı neden hatalıdır?**  
+**"Saklayacak hiçbir şeyim yok" argümanı neden hatalıdır?**
+
 Gizlilik suç örtbas etmekle ilgili değildir; bireysel özerklik, manipülasyondan ve dinamik fiyat ayrımcılığından korunma ve düşünce özgürlüğünü koruma temel insan hakkıdır.
 
-**Siber güvenlik ile dijital gizlilik arasındaki temel fark nedir?**  
+**Siber güvenlik ile dijital gizlilik arasındaki temel fark nedir?**
+
 Siber güvenlik verinin yetkisiz üçüncü partilerce çalınmasını engeller (dışarıdan sızma koruması); dijital gizlilik ise verinizi teslim ettiğiniz yetkili platformların o veriyi rızanız dışında profillemesini ve satmasını engeller.
 
-**Diferansiyel gizlilik (Differential Privacy) ve ZKP ne işe yarar?**  
+**Diferansiyel gizlilik (Differential Privacy) ve ZKP ne işe yarar?**
+
 Diferansiyel gizlilik, veri analizlerinde bireysel kimlikleri matematiksel gürültüyle gizlerken makro eğilimleri ölçer. Sıfır Bilgi İspatları (ZKP) ise bilginin kendisini paylaşmadan bir iddianın doğruluğunu kriptografik olarak kanıtlar.
 
 ## İlgili terimler
 
-- [End-to-End Privacy](/dictionary/end-to-end-privacy/)
-- [GDPR](/dictionary/gdpr/)
-- [Data Residency](/dictionary/data-residency/)
-- [Regulatory Restriction](/dictionary/regulatory-restriction/)
-- [Home Automation](/dictionary/home-automation/)
+- [End-to-End Privacy](https://trescout.com/dictionary/end-to-end-privacy/)
+- [GDPR](https://trescout.com/dictionary/gdpr/)
+- [Data Residency](https://trescout.com/dictionary/data-residency/)
+- [Regulatory Restriction](https://trescout.com/dictionary/regulatory-restriction/)
+- [Home Automation](https://trescout.com/dictionary/home-automation/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/digital-privacy/  
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/digital-privacy/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

@@ -7,12 +7,14 @@ AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (larg
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 41.143 → 41.267, son sürüm v4.29.0-beta.1 (1 Ekim 2026).
-- 28 Eylül 2026: Yıldız 40.523 → 41.143, son sürüm v4.28.2 (27 Eylül 2026).
-- 15 Eylül 2026: Yıldız 40.200 → 40.523, son sürüm v4.28.1 (14 Eylül 2026).
-- 8 Eylül 2026: Yıldız 39.919 → 40.200, son sürüm v4.28.0 (7 Eylül 2026).
+
+- **1 Ekim 2026:** Yıldız 41.143 → 41.267, son sürüm v4.29.0-beta.1 (1 Ekim 2026).
+- **28 Eylül 2026:** Yıldız 40.523 → 41.143, son sürüm v4.28.2 (27 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 40.200 → 40.523, son sürüm v4.28.1 (14 Eylül 2026).
+- **8 Eylül 2026:** Yıldız 39.919 → 40.200, son sürüm v4.28.0 (7 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Popüler mesajlaşma platformlarıyla entegrasyon
 - Binlerce eklenti ile genişletilebilir yapı
 - Güvenli ve izole edilmiş ajan çalışma alanı
@@ -35,19 +37,26 @@ astrbot run
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 AstrBot kullanarak mesajlaşma platformlarımda özelleştirilebilir bir yapay zekâ asistanı oluşturmak istiyorum. Platformun sunduğu eklenti desteği, çok modlu yetenekler ve ajan çalışma alanı özelliklerini kullanarak, ihtiyaçlarıma göre yapılandırılmış, hem kişisel hem de profesyonel iş akışlarıma entegre çalışan bir yapay zekâ ajanı kurmama yardımcı ol.
 
-- **Kimin için:** Kendi mesajlaşma uygulamaları üzerinde özelleştirilebilir bir yapay zekâ asistanı veya ajan tabanlı bir sistem geliştirmek isteyen bireyler ve ekipler için uygundur. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Kendi mesajlaşma uygulamaları üzerinde özelleştirilebilir bir yapay zekâ asistanı veya ajan tabanlı bir sistem geliştirmek isteyen bireyler ve ekipler için uygundur.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/AstrBotDevs/AstrBot)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Development Framework Large Language Models Framework Artificial Intelligence
+
+- [Development Framework](https://trescout.com/dictionary/development-framework/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astrbot/

@@ -7,12 +7,14 @@ Microsoft tarafından hazırlanan AI for Beginners, 12 haftalık bir müfredatla
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 65.496 → 69.105.
-- 19 Ağustos 2026: Yıldız 62.224 → 65.496.
-- 6 Ağustos 2026: Yıldız 58.739 → 62.224.
-- 2 Ağustos 2026: Yıldız 49.751 → 58.739.
+
+- **27 Eylül 2026:** Yıldız 65.496 → 69.105.
+- **19 Ağustos 2026:** Yıldız 62.224 → 65.496.
+- **6 Ağustos 2026:** Yıldız 58.739 → 62.224.
+- **2 Ağustos 2026:** Yıldız 49.751 → 58.739.
 
 ## Ne kazandırır?
+
 - 24 derslik uygulamalı yapay zekâ eğitimi
 - TensorFlow ve PyTorch ile pratik deneyim
 - Sinir ağları ve derin öğrenme temelleri
@@ -21,16 +23,20 @@ Microsoft tarafından hazırlanan AI for Beginners, 12 haftalık bir müfredatla
 
 Kurulum komutlarını kullanmak istemiyorsanız, projenin GitHub sayfasındaki Binder bağlantısına tıklayarak tarayıcı üzerinden doğrudan derslere başlayabilirsiniz. Ayrıca müfredatın tamamına ve ders notlarına GitHub üzerindeki ana sayfa üzerinden erişim sağlayabilirsiniz.
 
-- **Kimin için:** Yapay zekâ dünyasına adım atmak isteyen ve uygulamalı örneklerle öğrenmeyi tercih eden başlangıç seviyesindeki öğrenciler. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ dünyasına adım atmak isteyen ve uygulamalı örneklerle öğrenmeyi tercih eden başlangıç seviyesindeki öğrenciler.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/microsoft/AI-For-Beginners)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Notebooks Jupyter Notebooks Artificial Intelligence
+
+- [Notebooks](https://trescout.com/dictionary/notebooks/)
+- [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-for-beginners/

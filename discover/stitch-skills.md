@@ -7,9 +7,11 @@ Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyum
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 6.814 → 7.892, son sürüm v1.0 (18 Mayıs 2026).
+
+- **2 Ağustos 2026:** Yıldız 6.814 → 7.892, son sürüm v1.0 (18 Mayıs 2026).
 
 ## Ne kazandırır?
+
 - Kod ve tasarım arasında standartlaşmış iş akışı
 - Otomatik React ve React Native bileşen üretimi
 - Tasarım sistemlerini koddan çıkarma ve yönetme
@@ -39,19 +41,28 @@ npx skills --help
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Stitch Skills kütüphanesini kullanarak mevcut arayüz kodumu analiz et ve bunu bir Stitch projesine aktar. Ardından, bu tasarım sistemini kullanarak React bileşenleri oluştur ve projenin tasarım standartlarına uygunluğunu doğrula.
 
-- **Kimin için:** Kodlama ajanlarını kullanarak tasarım ve geliştirme süreçlerini otomatize etmek isteyen yazılımcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Kodlama ajanlarını kullanarak tasarım ve geliştirme süreçlerini otomatize etmek isteyen yazılımcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/google-labs-code/stitch-skills)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Native Agent Skills AI Skills MCP Agent CLI
+
+- [Native](https://trescout.com/dictionary/native/)
+- [Agent Skills](https://trescout.com/dictionary/agent-skills/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [CLI](https://trescout.com/dictionary/cli/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stitch-skills/

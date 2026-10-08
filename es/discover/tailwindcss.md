@@ -6,35 +6,51 @@ Tailwind CSS es un marco de hojas de estilo (marco CSS) centrado en el desarroll
 - TypeScript
 - GitHub Trending · 2026-08-05
 
+## Actualizaciones
+
+- **6 de agosto de 2026:** Estrellas 96,571 → 96,949, última versión v4.3.3 (16 de julio de 2026).
+
 ## Qué aporta
+
 - Crea diseños únicos con clases de bajo nivel.
 - Desarrollar interfaces sin tener que lidiar con componentes prefabricados
 - Proporcionar una gestión de estilo rápida en proyectos web modernos.
 
 ## Instalación
+
 **con npm**
 
 ```
 npm install tailwindcss @tailwindcss/cli
 ```
 
-
 ## Ejecución
+
 **Generar CSS**
 
 ```
 npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 ```
 
-
 ## Cómo empezar
+
 - Fuente oficial →
 
 ## Términos relacionados del glosario
 
+- [Utility-first](https://trescout.com/es/dictionary/utility-first/)
+- [CSS Framework](https://trescout.com/es/dictionary/css-framework/)
+- [Framework](https://trescout.com/es/dictionary/framework/)
+
+- **Para quién es:** Es adecuado para desarrolladores de software que desean diseñar interfaces de usuario únicas y rápidas en sus proyectos web.
+- **Licencia:** MIT
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://tailwindcss.com/)
+- [Leer en turco →](https://trescout.com/discover/tailwindcss/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/tailwindcss/

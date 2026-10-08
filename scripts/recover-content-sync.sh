@@ -76,12 +76,13 @@ done
 python3 scripts/catalog-home.py
 
 python3 scripts/discover-index.py
-python3 scripts/discover-md.py
 python3 scripts/llms-txt.py
 python3 scripts/redirect-uret.py
 node scripts/fix-all-headers-and-footers.js
 python3 scripts/hreflang-normalize.py
 python3 scripts/ilgili-temizle.py
+# .md uç noktaları ölü çip temizliğinden SONRA (dict-sync.yml'deki adımın ikizi)
+python3 scripts/md-uret.py
 # sitemap-sync normalize'dan SONRA · yoksa lastmod toplu yenilenir (dict-sync.yml'deki not)
 python3 scripts/sitemap-sync.py
 

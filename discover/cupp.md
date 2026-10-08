@@ -7,6 +7,7 @@ Ortak Kullanıcı Parola Profilleyici (Common User Passwords Profiler), hedef od
 - GitHub Trending · 2026-07-01
 
 ## Ne kazandırır?
+
 - Kullanıcı verilerini analiz ederek özelleştirilmiş sözlükler hazırlar.
 - İnteraktif sorularla hedef odaklı profil oluşturma imkânı sunar.
 - Alecto veritabanı ile varsayılan kullanıcı adı ve parola eşleşmelerini ayrıştırır.
@@ -27,23 +28,28 @@ git clone --depth 1 https://github.com/Mebus/cupp.git && cd cupp
 python3 cupp.py -i
 ```
 
-Kaynak: Depo README'si
+**Kaynak:** Depo README'si
 
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için öncelikle bilgisayarınızda Python 3 kurulu olduğundan emin olun. Projenin GitHub sayfasını ziyaret ederek dosyaları bilgisayarınıza indirin ve terminal üzerinden aracın bulunduğu dizine giderek komutları çalıştırmaya başlayın.
+
 - [Resmî kaynak →](https://travis-ci.org/Mebus/cupp)
 
-- **Kimin için:** Yasal sızma testleri ve adli bilişim araştırmaları yürüten güvenlik uzmanları için tasarlanmıştır. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Yasal sızma testleri ve adli bilişim araştırmaları yürüten güvenlik uzmanları için tasarlanmıştır.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Mebus/cupp)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Common User Passwords Profiler Wordlists Terminal
+
+- [Common User Passwords Profiler](https://trescout.com/dictionary/common-user-passwords-profiler/)
+- [Wordlists](https://trescout.com/dictionary/wordlists/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cupp/

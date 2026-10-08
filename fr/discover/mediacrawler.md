@@ -6,12 +6,20 @@ MediaCrawler collecte automatiquement les publications et les commentaires des u
 - Python
 - GitHub Trending · 2026-06-26
 
+## Mises à jour
+
+- **29 septembre 2026:** Étoiles 62,789 → 65,953.
+- **18 août 2026:** Étoiles 59,631 → 62,789.
+- **2 août 2026:** Étoiles 53,062 → 59,631.
+
 ## Ce que ça vous apporte
+
 - Extraire des publications et des commentaires de plateformes populaires
 - Connexion facile avec l'automatisation du navigateur
 - Prise en charge de l'enregistrement dans plusieurs formats de données
 
 ## Installation
+
 **Installation des dépendances**
 
 ```
@@ -29,8 +37,8 @@ uv sync
 uv run playwright install
 ```
 
-
 ## Exécution
+
 **Démarrer l'extraction des données**
 
 ```
@@ -48,15 +56,25 @@ uv run main.py --platform xhs --lt qrcode --type detail
 uv run main.py --help
 ```
 
-
 ## Si vous ne codez pas
+
+🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+
 Je souhaite extraire des données d'une plate-forme de médias sociaux spécifiée à l'aide de l'outil MediaCrawler. Veuillez me permettre de vérifier les paramètres dans le fichier config/base_config.py et d'expliquer étape par étape comment configurer la commande uv run main.py pour collecter des informations sur les publications et les commentaires en effectuant une recherche par mot clé pour la plate-forme xhs.
 
 ## Termes liés du glossaire
 
+- [Web Scraping](https://trescout.com/fr/dictionary/web-scraping/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
+- **Pour qui:** Il convient aux chercheurs et aux analystes de données qui souhaitent collecter des données sur les plateformes de médias sociaux.
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/NanmiCoder/MediaCrawler)
+- [Lire en turc →](https://trescout.com/discover/mediacrawler/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-26 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/mediacrawler/

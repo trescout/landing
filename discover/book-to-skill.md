@@ -7,12 +7,14 @@ Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF)
 - GitHub Trending · 2026-07-29
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 30.556 → 32.588, son sürüm v1.4.0 (10 Ağustos 2026).
-- 14 Eylül 2026: Yıldız 29.048 → 30.556, son sürüm v1.4.0 (10 Ağustos 2026).
-- 8 Eylül 2026: Yıldız 27.536 → 29.048, son sürüm v1.4.0 (10 Ağustos 2026).
-- 31 Ağustos 2026: Yıldız 26.044 → 27.536, son sürüm v1.4.0 (10 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 30.556 → 32.588, son sürüm v1.4.0 (10 Ağustos 2026).
+- **14 Eylül 2026:** Yıldız 29.048 → 30.556, son sürüm v1.4.0 (10 Ağustos 2026).
+- **8 Eylül 2026:** Yıldız 27.536 → 29.048, son sürüm v1.4.0 (10 Ağustos 2026).
+- **31 Ağustos 2026:** Yıldız 26.044 → 27.536, son sürüm v1.4.0 (10 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Kitapları ve belgeleri doğrudan yapay zekâ ajanınızın çalışma belleğine aktarır.
 - Büyük dosyaları bölümlere ayırarak gereksiz token tüketimini engeller.
 - PDF, EPUB ve Markdown gibi birçok formatı yapılandırılmış yetenek paketine çevirir.
@@ -22,9 +24,9 @@ Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF)
 **Aracı kurma ve kontrol etme**
 
 ```
-pip install "book-to-skill[pdf,epub,docx]" # engine + optional extractors
-book-to-skill ~/path/to/book.pdf --mode text # or: python -m book_to_skill ...
-book-to-skill --check # report which extractors are installed
+pip install "book-to-skill[pdf,epub,docx]"   # engine + optional extractors
+book-to-skill ~/path/to/book.pdf --mode text  # or: python -m book_to_skill ...
+book-to-skill --check                          # report which extractors are installed
 ```
 
 ## Çalıştırma
@@ -32,23 +34,32 @@ book-to-skill --check # report which extractors are installed
 **Belgeyi yetenek paketine dönüştürme**
 
 ```
-/book-to-skill 
-... [skill-name-slug]
+/book-to-skill <path-to-document-folder-or-glob>... [skill-name-slug]
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın Bu teknik kaynağı bir yetenek paketi olarak kullanıyorum. Lütfen içeriği analiz ederken sadece dönüştürülen bölümlere ve yapılandırılmış dosyalara sadık kal. Bir soru sorduğumda ilgili bölümü referans alarak yanıt ver ve halüsinasyondan kaçınarak sadece belgedeki teknik bilgileri kullan.
 
-- **Kimin için:** Teknik kitapları, dokümantasyonları veya araştırma notlarını yapay zekâ ajanları üzerinden hızlıca sorgulamak isteyen geliştiriciler ve araştırmacılar içindir. 
-- **Lisans:** MIT 
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
+Bu teknik kaynağı bir yetenek paketi olarak kullanıyorum. Lütfen içeriği analiz ederken sadece dönüştürülen bölümlere ve yapılandırılmış dosyalara sadık kal. Bir soru sorduğumda ilgili bölümü referans alarak yanıt ver ve halüsinasyondan kaçınarak sadece belgedeki teknik bilgileri kullan.
+
+- **Kimin için:** Teknik kitapları, dokümantasyonları veya araştırma notlarını yapay zekâ ajanları üzerinden hızlıca sorgulamak isteyen geliştiriciler ve araştırmacılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/virgiliojr94/book-to-skill)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Markdown Skill Token PDF AI Skills Artificial Intelligence
+
+- [Markdown](https://trescout.com/dictionary/markdown/)
+- [Skill](https://trescout.com/dictionary/skill/)
+- [Token](https://trescout.com/dictionary/token/)
+- [PDF](https://trescout.com/dictionary/pdf/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/book-to-skill/

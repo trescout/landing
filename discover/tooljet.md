@@ -7,12 +7,14 @@ ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geli�
 - GitHub Trending · 2026-08-15
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 41.036 → 41.040, son sürüm v3.20.239-lts (5 Ekim 2026).
-- 5 Ekim 2026: Yıldız 41.024 → 41.036, son sürüm v3.20.238-lts (5 Ekim 2026).
-- 2 Ekim 2026: Yıldız 41.018 → 41.024, son sürüm v3.20.237-lts (2 Ekim 2026).
-- 1 Ekim 2026: Yıldız 41.014 → 41.018, son sürüm v3.20.236-lts (30 Eylül 2026).
+
+- **6 Ekim 2026:** Yıldız 41.036 → 41.040, son sürüm v3.20.239-lts (5 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 41.024 → 41.036, son sürüm v3.20.238-lts (5 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 41.018 → 41.024, son sürüm v3.20.237-lts (2 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 41.014 → 41.018, son sürüm v3.20.236-lts (30 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Sürükle bırak yöntemiyle hızlı görsel arayüz tasarımı
 - Veritabanı, API ve bulut servisleriyle kolay entegrasyon
 - JavaScript ve Python desteğiyle esnek iş akışları
@@ -23,28 +25,33 @@ ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geli�
 
 ```
 docker run \
---name tooljet \
---restart unless-stopped \
--p 80:80 \
---platform linux/amd64 \
--v tooljet_data:/var/lib/postgresql/13/main \
-tooljet/try:ee-lts-latest
+  --name tooljet \
+  --restart unless-stopped \
+  -p 80:80 \
+  --platform linux/amd64 \
+  -v tooljet_data:/var/lib/postgresql/13/main \
+  tooljet/try:ee-lts-latest
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 ToolJet üzerinde 60'tan fazla hazır bileşeni kullanarak veritabanı bağlantılı, sürükle bırak yöntemiyle çalışan bir iç operasyon paneli oluşturmama yardımcı ol. JavaScript ve Python kullanarak özelleştirebileceğim, verileri görselleştiren ve ekip içi iş akışlarını otomatize eden bir uygulama mimarisi tasarla.
 
-- **Kimin için:** Karmaşık iş süreçlerini kod yazma ihtiyacını azaltarak dijitalleştirmek isteyen işletmeler ve geliştiriciler içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Karmaşık iş süreçlerini kod yazma ihtiyacını azaltarak dijitalleştirmek isteyen işletmeler ve geliştiriciler içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ToolJet/ToolJet)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Artificial Intelligence
+
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tooljet/

@@ -1,32 +1,45 @@
 # ¿Qué es Document Parsing?
 
+*Glosario · Data · Última actualización: 3 de junio de 2026*
+
 Es la conversión de datos en documentos complejos a un formato que la computadora pueda entender.
 
 ## Definición
+
 El análisis de documentos es el proceso de convertir información en documentos complejos (PDF, tabla, imagen) a un formato estructurado que la computadora pueda entender. Lee el orden en la información.
 
+***Analogía:** Es como mirar el índice de un libro y observar qué información hay en cada página.*
+
 ## Cómo funciona
+
 El software escanea el documento y separa títulos, párrafos y tablas. Luego, estos datos se convierten a formato de texto o código y se guardan.
 
 ## Dónde se usa
+
 Se utiliza para el procesamiento automático de facturas, análisis de contratos o resumen de informes largos a inteligencia artificial.
 
 ## Suele confundirse con
+
 Se confunde con simplemente copiar texto, pero el análisis transfiere los datos preservando su estructura (tabla o encabezado).
 
 ## Preguntas frecuentes
+
 **¿Puede leer todos los documentos?**
+
 La tasa de éxito es muy alta con los documentos digitales, pero escribir a mano o imágenes muy distorsionadas puede resultar un desafío.
 
 **¿Por qué es importante?**
+
 Las computadoras no comprenden los archivos PDF sin formato; convertirlos en datos significativos permite que el sistema actúe de manera inteligente.
 
-
 ## Términos relacionados
-- [Document Parsing](/es/dictionary/document-parsing/)
-- [Data Pipeline](/es/dictionary/data-pipeline/)
-- [RAG](/es/dictionary/rag/)
-- [NLP](/es/dictionary/nlp/)
+
+- [Document Parsing](https://trescout.com/es/dictionary/document-parsing/)
+- [Data Pipeline](https://trescout.com/es/dictionary/data-pipeline/)
+- [RAG](https://trescout.com/es/dictionary/rag/)
+- [NLP](https://trescout.com/es/dictionary/nlp/)
+
+Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/document-parsing/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/document-parsing/

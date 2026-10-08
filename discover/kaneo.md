@@ -7,12 +7,14 @@ Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proj
 - GitHub Trending · 2026-08-01
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 9.355 → 9.375, son sürüm v2.35.0 (6 Ekim 2026).
-- 6 Ekim 2026: Yıldız 9.337 → 9.355, son sürüm v2.33.0 (5 Ekim 2026).
-- 4 Ekim 2026: Yıldız 9.322 → 9.337, son sürüm v2.32.0 (3 Ekim 2026).
-- 3 Ekim 2026: Yıldız 9.286 → 9.322, son sürüm v2.31.0 (3 Ekim 2026).
+
+- **7 Ekim 2026:** Yıldız 9.355 → 9.375, son sürüm v2.35.0 (6 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 9.337 → 9.355, son sürüm v2.33.0 (5 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 9.322 → 9.337, son sürüm v2.32.0 (3 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 9.286 → 9.322, son sürüm v2.31.0 (3 Ekim 2026).
 
 ## Ne kazandırır?
+
 - Karmaşıklıktan arındırılmış temiz arayüz
 - Veri kontrolü sağlayan kendi sunucunda barındırma
 - Performans odaklı hızlı çalışma deneyimi
@@ -44,19 +46,24 @@ pnpm dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Kaneo projesini kurmak ve yapılandırmak istiyorum. Projenin hızlı kurulumu için drim aracını nasıl kullanacağımı ve Docker Compose ile kendi sunucumda çalıştırmak için gerekli olan .env dosyası ayarlarını adım adım açıkla. Ayrıca, projenin temel özelliklerini ve verimli bir iş akışı için nasıl özelleştirilebileceğini dokümantasyondaki bilgilere dayanarak özetle.
 
-- **Kimin için:** Karmaşık proje yönetim araçlarından sıkılan ve kendi sunucusunda hızlı, sade bir çözüm arayan ekipler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Karmaşık proje yönetim araçlarından sıkılan ve kendi sunucusunda hızlı, sade bir çözüm arayan ekipler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/usekaneo/kaneo)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Project Management Artificial Intelligence
+
+- [Project Management](https://trescout.com/dictionary/project-management/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kaneo/

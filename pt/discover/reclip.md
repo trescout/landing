@@ -6,12 +6,19 @@ Desenvolvido por Averygan, o Reclip é uma ferramenta leve e auto-hospedável pa
 - HTML
 - GitHub Trending · 2026-09-02
 
+## Atualizações
+
+- **30 de setembro de 2026:** Estrelas 9,067 → 10,476.
+- **11 de setembro de 2026:** Estrelas 7,951 → 9,067.
+
 ## O que você ganha
+
 - Baixa arquivos de vídeo e áudio de mais de 1000 sites, como YouTube e Instagram.
 - Salva os arquivos baixados no formato de vídeo MP4 ou áudio MP3.
 - Oferece uma interface simples e rápida que funciona através do navegador web.
 
 ## Instalação
+
 **Instalação padrão**
 
 ```
@@ -27,23 +34,33 @@ cd reclip
 docker build -t reclip . && docker run -p 8899:8899 reclip
 ```
 
-
 ## Execução
+
 **Acesso à interface**
 
 ```
 http://localhost:8899
 ```
 
-
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Desejo usar a ferramenta Reclip para baixar links de vídeos da internet para o meu dispositivo local nos formatos MP4 ou MP3. Para iniciar o processo de download, preciso colar os links na caixa de entrada, selecionar o formato, clicar no botão Fetch para carregar as informações do vídeo e, em seguida, usar o botão Download. Nesse processo, posso realizar downloads em lote e ajustar a resolução do vídeo de acordo com minhas preferências.
 
 ## Termos relacionados do glossário
 
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** Adequado para usuários que desejam fazer backup de conteúdos de mídia da internet em seu próprio armazenamento local.
+- **Licença:** MIT
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/averygan/reclip)
+- [Ler em turco →](https://trescout.com/discover/reclip/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-02: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/reclip/

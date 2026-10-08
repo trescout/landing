@@ -7,9 +7,11 @@ FckSignups, kullanıcıdan kayıt veya üyelik talep etmeyen açık kaynaklı ta
 - GitHub Trending · 2026-09-06
 
 ## Güncelleme
-- 8 Eylül 2026: Yıldız 3.015 → 4.035.
+
+- **8 Eylül 2026:** Yıldız 3.015 → 4.035.
 
 ## Ne kazandırır?
+
 - Kayıt veya e-posta zorunluluğu olmadan araçlara erişim sağlar
 - Veri takibi ve izleme içermeyen güvenli bir liste sunar
 - Tasarım, geliştirme ve üretkenlik gibi farklı kategorilerde araçlar içerir
@@ -26,19 +28,23 @@ npm run dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 NoSignups projesinin sunduğu açık kaynaklı araç listesini kullanarak, kullanıcıdan kayıt veya e-posta talep etmeyen, gizlilik odaklı dijital hizmetleri listele. Bu araçların tasarım, geliştirme, üretkenlik ve veri analitiği gibi kategorilerde nasıl gruplandığını açıkla. Özellikle hesap oluşturma zorunluluğu olmayan alternatifleri bulma konusunda rehberlik et.
 
-- **Kimin için:** Kayıt formları ve veri takibi ile uğraşmadan doğrudan işlevsel araçlara ulaşmak isteyen kullanıcılar için uygundur. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Kayıt formları ve veri takibi ile uğraşmadan doğrudan işlevsel araçlara ulaşmak isteyen kullanıcılar için uygundur.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/BraveOPotato/FckSignups)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fcksignups/

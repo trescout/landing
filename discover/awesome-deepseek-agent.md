@@ -6,6 +6,7 @@ GitHub üzerinde paylaşılan awesome-deepseek-agent, DeepSeek modelleriyle geli
 - GitHub Trending · 2026-08-15
 
 ## Ne kazandırır?
+
 - Popüler yapay zekâ ajanları için kurulum rehberlerine erişim
 - DeepSeek modellerini kodlama asistanlarında kullanma imkânı
 - Otonom sistemler ve terminal tabanlı araçlar için yapılandırma desteği
@@ -14,15 +15,20 @@ GitHub üzerinde paylaşılan awesome-deepseek-agent, DeepSeek modelleriyle geli
 
 Öncelikle DeepSeek Platform üzerinden bir API anahtarı almanız gerekir. Ardından GitHub sayfasındaki tabloyu inceleyerek kullanmak istediğiniz aracın yanındaki rehber bağlantısına tıklayın. Her rehber, seçtiğiniz aracı kurmanız ve DeepSeek modelleriyle yapılandırmanız için gereken adımları detaylıca anlatır.
 
-- **Kimin için:** DeepSeek modellerini kendi tercih ettiği yapay zekâ asistanları ve kodlama araçları üzerinde çalıştırmak isteyen kullanıcılar içindir. 
+- **Kimin için:** DeepSeek modellerini kendi tercih ettiği yapay zekâ asistanları ve kodlama araçları üzerinde çalıştırmak isteyen kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/deepseek-ai/awesome-deepseek-agent)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Agent API Artificial Intelligence
+
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-deepseek-agent/

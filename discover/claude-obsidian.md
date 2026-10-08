@@ -23,7 +23,7 @@ claude plugin install claude-obsidian@agricidaniel-claude-obsidian
 **Ayrı vault planını oluştur**
 
 ```
-python3 scripts/claude-obsidian.py init --generated-at --operation-id init-reviewed
+python3 scripts/claude-obsidian.py init <new-vault> --generated-at <ISO-UTC> --operation-id init-reviewed
 ```
 
 ## Çalıştırma
@@ -40,12 +40,13 @@ claude plugin list
 /claude-obsidian:wiki
 ```
 
-Kaynak: Resmî README ve dokümantasyon kaynakları: https://github.com/AgriciDaniel/claude-obsidian/blob/main/docs/install-guide.md, https://github.com/AgriciDaniel/claude-obsidian
+**Kaynak:** Resmî README ve dokümantasyon kaynakları: https://github.com/AgriciDaniel/claude-obsidian/blob/main/docs/install-guide.md, https://github.com/AgriciDaniel/claude-obsidian
 
 ## Güncelleme
-- 11 Eylül 2026: Yıldız 14.727 → 14.822, son sürüm v2.2.0 (10 Eylül 2026).
-- 8 Eylül 2026: Yıldız 13.706 → 14.727, son sürüm v2.1.1 (25 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 12.404 → 13.706, son sürüm v2.1.1 (25 Ağustos 2026).
+
+- **11 Eylül 2026:** Yıldız 14.727 → 14.822, son sürüm v2.2.0 (10 Eylül 2026).
+- **8 Eylül 2026:** Yıldız 13.706 → 14.727, son sürüm v2.1.1 (25 Ağustos 2026).
+- **27 Ağustos 2026:** Yıldız 12.404 → 13.706, son sürüm v2.1.1 (25 Ağustos 2026).
 
 ## Bu araç ne yapar?
 
@@ -60,26 +61,31 @@ Claude Code ile yerel, kaynak gösteren bir Obsidian bilgi tabanı oluşturmak i
 Otomatik transkript kaydı, bulut senkronizasyonu, doğruluk garantisi veya yedekleme ve kaynak kontrolü yerine kullanım.
 
 ## Öne çıkanlar
+
 - Yerel varsayılan çalışma ve açık ağ çıkışı yaklaşımı
 - Kaynak ve iddia defterleriyle kaynak gösteren, bağlantılı sayfalar
 - Onaylanmış değişiklikleri geri alınabilir işlemlerle uygulama
 
 ## İlk kullanım akışı
-- Depoyu klonlayın ve Python 3.11 veya üzeri bir ortam hazırlayın
-- Ayrı bir vault için başlangıç planını oluşturun ve JSON planını inceleyin
-- approved_plan_sha256 değerini kontrol edip tam işlemi onaylayın
-- Vault'u Obsidian'da açın ve yerel eklentiyle Claude Code'u çalıştırın
-- Wiki akışını başlatıp kaynak ekleme, sorgulama ve açıkça kaydetme adımlarını kullanın
+
+1. Depoyu klonlayın ve Python 3.11 veya üzeri bir ortam hazırlayın
+2. Ayrı bir vault için başlangıç planını oluşturun ve JSON planını inceleyin
+3. approved_plan_sha256 değerini kontrol edip tam işlemi onaylayın
+4. Vault'u Obsidian'da açın ve yerel eklentiyle Claude Code'u çalıştırın
+5. Wiki akışını başlatıp kaynak ekleme, sorgulama ve açıkça kaydetme adımlarını kullanın
 
 ## Güvenli başlangıç
 
 Sistem bir doğruluk kaynağı değildir. Veriler için ayrıca yedekleme ve kaynak kontrolü kullanın; ağ çıkışı ve uygulanan planı gözden geçirin.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 Kaynakları kaynak ve iddia defterleriyle ilişkilendirerek yerel bir Obsidian wiki akışı başlat.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/AgriciDaniel/claude-obsidian)
 - [Kurulum rehberi →](https://github.com/AgriciDaniel/claude-obsidian/blob/main/docs/install-guide.md)
 - [Resmî README →](https://github.com/AgriciDaniel/claude-obsidian)
@@ -87,7 +93,10 @@ Kaynakları kaynak ve iddia defterleriyle ilişkilendirerek yerel bir Obsidian w
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Skills AI Skills Agent
+
+- [Agent Skills](https://trescout.com/dictionary/agent-skills/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Agent](https://trescout.com/dictionary/agent/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-obsidian/

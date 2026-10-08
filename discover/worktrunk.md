@@ -7,12 +7,14 @@ Worktrunk, Git çalışma ağacı (worktree) yönetimini kolaylaştıran, Rust d
 - GitHub Trending · 2026-09-13
 
 ## Güncelleme
-- 28 Eylül 2026: Yıldız 8.424 → 8.444, son sürüm v0.80.0 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 7.964 → 8.424, son sürüm v0.79.0 (21 Eylül 2026).
-- 17 Eylül 2026: Yıldız 7.379 → 7.964, son sürüm v0.78.0 (16 Eylül 2026).
-- 13 Eylül 2026: Yıldız 7.376 → 7.379, son sürüm v0.77.0 (8 Eylül 2026).
+
+- **28 Eylül 2026:** Yıldız 8.424 → 8.444, son sürüm v0.80.0 (27 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 7.964 → 8.424, son sürüm v0.79.0 (21 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 7.379 → 7.964, son sürüm v0.78.0 (16 Eylül 2026).
+- **13 Eylül 2026:** Yıldız 7.376 → 7.379, son sürüm v0.77.0 (8 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Birden fazla görevi aynı anda yürütmek için çalışma alanlarını kolayca oluşturur
 - Otomatik kancalarla yerel iş akışlarını hızlandırır
 - Yapay zekâ ajanlarının paralel çalışmasını destekler
@@ -46,18 +48,25 @@ wt switch -c -x claude feat
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Worktrunk kullanarak mevcut Git projemde yeni bir çalışma ağacı oluşturmak ve bu alanda paralel bir görev başlatmak istiyorum. Çalışma ağaçlarını dallar kadar kolay yönetebilmem için wt komutlarını nasıl kullanmalıyım ve iş akışımı otomatize etmek için kancalardan nasıl faydalanabilirim?
 
-- **Kimin için:** Aynı anda birden fazla yazılım görevi veya yapay zekâ ajanı üzerinde çalışan geliştiriciler için tasarlanmıştır. 
+- **Kimin için:** Aynı anda birden fazla yazılım görevi veya yapay zekâ ajanı üzerinde çalışan geliştiriciler için tasarlanmıştır.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/max-sixty/worktrunk)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Worktree CLI Rust Artificial Intelligence
+
+- [Worktree](https://trescout.com/dictionary/worktree/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/worktrunk/

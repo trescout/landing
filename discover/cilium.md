@@ -7,9 +7,11 @@ Cilium, ağ trafiğini yönetmek, güvenlik sağlamak ve sistem izlenebilirliği
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
-- 18 Eylül 2026: Yıldız 25.329 → 25.329, son sürüm v1.20.2 (16 Eylül 2026).
+
+- **18 Eylül 2026:** Yıldız 25.329 → 25.329, son sürüm v1.20.2 (16 Eylül 2026).
 
 ## Ne kazandırır?
+
 - eBPF teknolojisiyle yüksek performanslı ağ trafiği yönetimi sağlar
 - Kubernetes kümeleri için güvenli ve ölçeklenebilir bağlantı sunar
 - Dağıtık yük dengeleme ile uygulama trafiğini verimli şekilde yönetir
@@ -17,18 +19,21 @@ Cilium, ağ trafiğini yönetmek, güvenlik sağlamak ve sistem izlenebilirliği
 ## Nasıl başlanır?
 
 Cilium kurulumu ve kullanımı hakkında detaylı bilgi almak için resmî dokümantasyon sitesi olan cilium.io adresini ziyaret edebilirsiniz. Kurulum rehberleri ve yapılandırma adımları için projenin GitHub sayfasındaki bağlantıları takip etmeniz yeterlidir.
+
 - [Resmî kaynak →](https://cilium.io)
 
-- **Kimin için:** Kubernetes üzerinde çalışan konteyner tabanlı uygulamaların ağ güvenliğini ve izlenebilirliğini artırmak isteyen sistem yöneticileri ve DevOps mühendisleri için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Kubernetes üzerinde çalışan konteyner tabanlı uygulamaların ağ güvenliğini ve izlenebilirliğini artırmak isteyen sistem yöneticileri ve DevOps mühendisleri için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/cilium/cilium)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Observability
+
+- [Observability](https://trescout.com/dictionary/observability/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cilium/

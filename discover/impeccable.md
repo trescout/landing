@@ -6,12 +6,14 @@ Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek iç
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 73.927 → 78.047, son sürüm skill-v4.5.0 (2 Ekim 2026).
-- 2 Ekim 2026: Yıldız 73.117 → 73.927, son sürüm skill-v4.5.0 (2 Ekim 2026).
-- 1 Ekim 2026: Yıldız 72.543 → 73.117, son sürüm engine-v0.1.9 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 72.336 → 72.543, son sürüm engine-v0.1.8 (29 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 73.927 → 78.047, son sürüm skill-v4.5.0 (2 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 73.117 → 73.927, son sürüm skill-v4.5.0 (2 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 72.543 → 73.117, son sürüm engine-v0.1.9 (30 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 72.336 → 72.543, son sürüm engine-v0.1.8 (29 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâ modelleri için standartlaştırılmış tasarım dili ve görsel tutarlılık sağlar.
 - 23 farklı komut ile tasarım denetimi, iyileştirme ve kullanıcı deneyimi süreçlerini hızlandırır.
 - 27 adet deterministik anti-pattern kuralı ile yaygın tasarım hatalarını otomatik olarak engeller.
@@ -33,19 +35,26 @@ npx impeccable skills install
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Projemin tasarım kalitesini ve görsel tutarlılığını artırmak istiyorum. Impeccable aracını kullanarak mevcut arayüzümü gözden geçirmeni ve tasarım dili standartlarına göre iyileştirmeni istiyorum. Lütfen /impeccable komutlarını kullanarak projemdeki görsel hataları denetle, eksiklikleri tespit et ve kullanıcı deneyimini geliştirecek düzenlemeleri yap.
 
-- **Kimin için:** Yapay zekâ destekli kodlama araçlarını kullanan ve projelerinde profesyonel, estetik ve tutarlı bir tasarım dili oluşturmak isteyen geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Yapay zekâ destekli kodlama araçlarını kullanan ve projelerinde profesyonel, estetik ve tutarlı bir tasarım dili oluşturmak isteyen geliştiriciler içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/pbakaus/impeccable)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Design Language Generative AI CLI Artificial Intelligence
+
+- [Design Language](https://trescout.com/dictionary/design-language/)
+- [Generative AI](https://trescout.com/dictionary/generative-ai/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/impeccable/

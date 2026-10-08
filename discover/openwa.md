@@ -7,12 +7,14 @@ OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir 
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 14.622 → 14.976, son sürüm v0.24.0 (3 Ekim 2026).
-- 27 Eylül 2026: Yıldız 14.197 → 14.622, son sürüm v0.23.7 (25 Eylül 2026).
-- 16 Eylül 2026: Yıldız 13.775 → 14.197, son sürüm v0.23.5 (15 Eylül 2026).
-- 5 Eylül 2026: Yıldız 13.239 → 13.775, son sürüm v0.23.4 (5 Eylül 2026).
+
+- **3 Ekim 2026:** Yıldız 14.622 → 14.976, son sürüm v0.24.0 (3 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 14.197 → 14.622, son sürüm v0.23.7 (25 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 13.775 → 14.197, son sürüm v0.23.5 (15 Eylül 2026).
+- **5 Eylül 2026:** Yıldız 13.239 → 13.775, son sürüm v0.23.4 (5 Eylül 2026).
 
 ## Ne kazandırır?
+
 - WhatsApp mesajlaşma altyapısı üzerinde tam kontrol
 - Modern arayüz ile oturum ve webhook yönetimi
 - Docker desteği ile hızlı ve kolay kurulum
@@ -68,19 +70,27 @@ docker compose --profile full up -d
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenWA aracını kullanarak WhatsApp üzerinden mesajlaşma süreçlerimi otomatize etmek istiyorum. REST API uç noktalarını kullanarak yeni bir oturum oluşturmak, mesaj göndermek ve gelen mesajları webhook üzerinden dinlemek için gerekli temel yapılandırma adımlarını bana açıkla. Özellikle çoklu oturum yönetimi ve API anahtarı güvenliği konularında dikkat etmem gerekenleri belirt.
 
-- **Kimin için:** Kendi WhatsApp entegrasyonlarını geliştirmek isteyen ve mesajlaşma altyapısı üzerinde tam kontrol sahibi olmayı hedefleyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Kendi WhatsApp entegrasyonlarını geliştirmek isteyen ve mesajlaşma altyapısı üzerinde tam kontrol sahibi olmayı hedefleyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/rmyndharis/OpenWA)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Gateway Gateway Self-hosted API Artificial Intelligence
+
+- [API Gateway](https://trescout.com/dictionary/api-gateway/)
+- [Gateway](https://trescout.com/dictionary/gateway/)
+- [Self-hosted](https://trescout.com/dictionary/self-hosted/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openwa/

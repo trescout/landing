@@ -7,12 +7,14 @@ Claude Code şablonları, Claude Code aracı için yapılandırma ve izleme sür
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 30.768 → 32.322, son sürüm v1.29.6 (17 Eylül 2026).
-- 17 Eylül 2026: Yıldız 30.567 → 30.768, son sürüm v1.29.6 (17 Eylül 2026).
-- 9 Eylül 2026: Yıldız 30.058 → 30.567, son sürüm v1.29.5 (9 Eylül 2026).
-- 2 Ağustos 2026: Yıldız 28.812 → 30.058, son sürüm v1.28.3 (15 Kasım 2025).
+
+- **3 Ekim 2026:** Yıldız 30.768 → 32.322, son sürüm v1.29.6 (17 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 30.567 → 30.768, son sürüm v1.29.6 (17 Eylül 2026).
+- **9 Eylül 2026:** Yıldız 30.058 → 30.567, son sürüm v1.29.5 (9 Eylül 2026).
+- **2 Ağustos 2026:** Yıldız 28.812 → 30.058, son sürüm v1.28.3 (15 Kasım 2025).
 
 ## Ne kazandırır?
+
 - Yüzden fazla hazır yapay zekâ ajanı ve komut erişimi
 - Dış servisler için hızlı entegrasyon ve kanca yönetimi
 - Geliştirme oturumları için gerçek zamanlı analiz ve izleme
@@ -46,19 +48,26 @@ npx claude-code-templates@latest --chats
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code çalışma ortamımı optimize etmek istiyorum. npx claude-code-templates@latest komutunu kullanarak projeme uygun ajanları, özel komutları ve gerekli MCP entegrasyonlarını nasıl listeleyip kurabilirim? Ayrıca kurulumumun sağlıklı olup olmadığını kontrol etmek için hangi komutu çalıştırmalıyım?
 
-- **Kimin için:** Claude Code kullanan ve geliştirme iş akışını hazır şablonlar, özel komutlar ve analiz araçlarıyla standartlaştırmak isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Claude Code kullanan ve geliştirme iş akışını hazır şablonlar, özel komutlar ve analiz araçlarıyla standartlaştırmak isteyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/davila7/claude-code-templates)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Claude Code Templates MCP CLI Artificial Intelligence
+
+- [Claude Code Templates](https://trescout.com/dictionary/claude-code-templates/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-templates/

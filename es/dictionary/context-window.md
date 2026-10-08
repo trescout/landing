@@ -1,36 +1,50 @@
 # ¿Qué es Context Window?
 
+*Glosario · AI · Última actualización: 3 de junio de 2026*
+
 Es la capacidad de información que la inteligencia artificial puede recordar y procesar a la vez.
 
 ## Definición
+
 Es la cantidad total de información que la inteligencia artificial puede mantener en la memoria durante una única conversación o transacción. Este límite determina qué tan bien el modelo recuerda el pasado.
 
+***Analogía:** Es como del tamaño de una mesa; Cuantos más papeles quepan sobre la mesa, más información podrá considerar la IA a la vez.*
+
 ## Cómo funciona
+
 Mientras el modelo procesa cada palabra nueva, también mantiene las palabras anteriores dentro de esta ventana. Una vez que la ventana está llena, el modelo comienza a olvidar la información más antigua.
 
 ## Dónde se usa
+
 Esta capacidad es vital al resumir libros extensos o analizar un proyecto de código complejo.
 
 ## Suele confundirse con
+
 Se confunde con el conocimiento general del modelo; El conocimiento general se adquiere en educación y la ventana de contexto es la memoria a corto plazo de la conversación actual.
 
 ## Preguntas frecuentes
+
 **¿Qué sucede si la ventana de contexto se llena?**
+
 La modelo olvida el comienzo de la conversación y comienza a desviarse del tema.
 
 **¿Es siempre mejor una ventana de contexto más grande?**
+
 Sí, pero puede aumentar el costo de transacción y el tiempo de respuesta.
 
-
 ## Términos relacionados
-- [Memory Engine](/es/dictionary/memory-engine/)
-- [LLM](/es/dictionary/llm/)
-- [Token](/es/dictionary/token/)
+
+- [Memory Engine](https://trescout.com/es/dictionary/memory-engine/)
+- [LLM](https://trescout.com/es/dictionary/llm/)
+- [Token](https://trescout.com/es/dictionary/token/)
 
 ## Herramientas relacionadas
-- [OmniRoute](/es/discover/omniroute/)
-- [Context Mode](/es/discover/context-mode/)
-- [Omlx](/es/discover/omlx/)
+
+- [OmniRoute](https://trescout.com/es/discover/omniroute/)
+- [Context Mode](https://trescout.com/es/discover/context-mode/)
+- [Omlx](https://trescout.com/es/discover/omlx/)
+
+Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/context-window/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/context-window/

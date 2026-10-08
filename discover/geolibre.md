@@ -7,12 +7,14 @@ GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için 
 - GitHub Trending · 2026-07-28
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 7.779 → 7.810, son sürüm v3.3.0 (5 Ekim 2026).
-- 2 Ekim 2026: Yıldız 7.685 → 7.779, son sürüm v3.2.0 (1 Ekim 2026).
-- 27 Eylül 2026: Yıldız 7.322 → 7.685, son sürüm v3.1.0 (25 Eylül 2026).
-- 14 Eylül 2026: Yıldız 7.083 → 7.322, son sürüm v3.0.0 (14 Eylül 2026).
+
+- **5 Ekim 2026:** Yıldız 7.779 → 7.810, son sürüm v3.3.0 (5 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 7.685 → 7.779, son sürüm v3.2.0 (1 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 7.322 → 7.685, son sürüm v3.1.0 (25 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 7.083 → 7.322, son sürüm v3.0.0 (14 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Tarayıcıda kurulumsuz coğrafi veri analizi
 - Masaüstü, mobil ve Jupyter desteği
 - Yerel ve gizli veri işleme
@@ -25,23 +27,28 @@ GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için 
 pip install GeoLibre
 ```
 
-Kaynak: PyPI · GeoLibre
+**Kaynak:** PyPI · GeoLibre
 
 ## Nasıl başlanır?
 
 GeoLibre'yi kullanmaya başlamak için herhangi bir kurulum yapmanıza gerek yoktur. Tarayıcınız üzerinden web sürümüne erişebilir veya masaüstü işletim sisteminize uygun yükleyiciyi indirmek için resmî web sitesindeki indirme sayfasını ziyaret edebilirsiniz.
+
 - [Resmî kaynak →](https://geolibre.app)
 
-- **Kimin için:** Coğrafi verileri görselleştirmek, analiz etmek ve keşfetmek isteyen araştırmacılar, veri analistleri ve harita meraklıları için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Coğrafi verileri görselleştirmek, analiz etmek ve keşfetmek isteyen araştırmacılar, veri analistleri ve harita meraklıları için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/opengeos/GeoLibre)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-GIS Notebooks Jupyter Notebooks
+
+- [GIS](https://trescout.com/dictionary/gis/)
+- [Notebooks](https://trescout.com/dictionary/notebooks/)
+- [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/geolibre/

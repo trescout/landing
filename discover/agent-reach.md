@@ -6,12 +6,14 @@ Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik oku
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
-- 4 Ekim 2026: Yıldız 85.611 → 90.240, son sürüm v1.5.0 (11 Haziran 2026).
-- 27 Eylül 2026: Yıldız 80.033 → 85.611, son sürüm v1.5.0 (11 Haziran 2026).
-- 13 Eylül 2026: Yıldız 75.829 → 80.033, son sürüm v1.5.0 (11 Haziran 2026).
-- 27 Ağustos 2026: Yıldız 71.997 → 75.829, son sürüm v1.5.0 (11 Haziran 2026).
+
+- **4 Ekim 2026:** Yıldız 85.611 → 90.240, son sürüm v1.5.0 (11 Haziran 2026).
+- **27 Eylül 2026:** Yıldız 80.033 → 85.611, son sürüm v1.5.0 (11 Haziran 2026).
+- **13 Eylül 2026:** Yıldız 75.829 → 80.033, son sürüm v1.5.0 (11 Haziran 2026).
+- **27 Ağustos 2026:** Yıldız 71.997 → 75.829, son sürüm v1.5.0 (11 Haziran 2026).
 
 ## Ne kazandırır?
+
 - Twitter, Reddit ve GitHub gibi platformlara ücretsiz erişim sağlar.
 - YouTube videolarını ve RSS kaynaklarını doğrudan okur.
 - Otomatik yapılandırma ile karmaşık kurulum süreçlerini ortadan kaldırır.
@@ -38,22 +40,29 @@ agent-reach install
 agent-reach doctor
 ```
 
-Kaynak: Agent-Reach · docs/install.md (resmî)
+**Kaynak:** Agent-Reach · docs/install.md (resmî)
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Lütfen Agent Reach aracını kurmama yardımcı ol. GitHub üzerindeki resmi kurulum dokümanını (https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md) kullanarak gerekli tüm araçları ve yapılandırmaları sistemime otomatik olarak yükle. Kurulum tamamlandıktan sonra, hangi platformların aktif olduğunu kontrol etmek için gerekli tanı komutunu çalıştır.
 
-- **Kimin için:** İnternet üzerindeki verileri doğrudan yapay zekâ ajanları üzerinden analiz etmek isteyen kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** İnternet üzerindeki verileri doğrudan yapay zekâ ajanları üzerinden analiz etmek isteyen kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Panniantong/Agent-Reach)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent CLI API Artificial Intelligence
+
+- [Agent](https://trescout.com/dictionary/agent/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-reach/

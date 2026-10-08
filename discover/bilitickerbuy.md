@@ -6,11 +6,13 @@ Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı a
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
-- 30 Eylül 2026: Yıldız 4.195 → 4.242, son sürüm v2.15.18 (30 Eylül 2026).
-- 24 Ağustos 2026: Yıldız 4.173 → 4.195, son sürüm v2.15.17 (24 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 3.782 → 4.173, son sürüm v2.15.16 (4 Temmuz 2026).
+
+- **30 Eylül 2026:** Yıldız 4.195 → 4.242, son sürüm v2.15.18 (30 Eylül 2026).
+- **24 Ağustos 2026:** Yıldız 4.173 → 4.195, son sürüm v2.15.17 (24 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 3.782 → 4.173, son sürüm v2.15.16 (4 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Bilibili üzerinden bilet alım işlemlerini otomatize eder
 - Sınırlı stoklu ürünleri yakalama hızını artırır
 - Kişisel kullanım için pratik bir yardımcı araçtır
@@ -37,21 +39,26 @@ pip install biliTickerBuy
 btb
 ```
 
-Kaynak: Resmî biliTickerBuy dokümantasyonu (docs/installation.md)
+**Kaynak:** Resmî biliTickerBuy dokümantasyonu (docs/installation.md)
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bilibili bilet alım süreçlerini otomatikleştirmek istiyorum. Bu aracın kurulumu ve kullanımıyla ilgili temel adımları, dokümantasyon sayfalarındaki bilgiler ışığında bana açıklar mısın?
 
-- **Kimin için:** Bilibili platformu üzerinden sınırlı sayıdaki bilet ve ürünleri daha hızlı satın almak isteyen bireysel kullanıcılar içindir. 
+- **Kimin için:** Bilibili platformu üzerinden sınırlı sayıdaki bilet ve ürünleri daha hızlı satın almak isteyen bireysel kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/mikumifa/biliTickerBuy)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Ticket Purchasing Assistant Artificial Intelligence
+
+- [Ticket Purchasing Assistant](https://trescout.com/dictionary/ticket-purchasing-assistant/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bilitickerbuy/

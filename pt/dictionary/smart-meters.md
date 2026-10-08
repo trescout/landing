@@ -1,31 +1,44 @@
 # O que é Smart Meters?
 
+*Glossário · Data · Última atualização: 30 de setembro de 2026*
+
 Dispositivos que medem o consumo de eletricidade ou água em tempo real e enviam os dados para uma central por via digital.
 
 ## Definição
+
 Você deve se lembrar da época em que os funcionários iam de porta em porta para ler os medidores antigos. Os medidores inteligentes, por outro lado, digitalizam completamente esse processo. Eles monitoram o uso de recursos em uma base horária ou até mesmo minuto a minuto e relatam sem fio à instituição responsável.
 
+***Analogia:** É como um pequeno repórter instalado nos canos de água da casa, que sussurra constantemente para a central quanta água você está consumindo.*
+
 ## Como funciona
+
 Através de sensores, converte o consumo em dados digitais e os transmite aos servidores da empresa de energia correspondente via redes celulares ou Wi-Fi.
 
 ## Onde é usado
+
 São amplamente utilizados em projetos de casas inteligentes, redes elétricas modernas e sistemas municipais de gestão de água.
 
 ## Costuma ser confundido com
+
 Não devem ser confundidos com simples telas digitais que servem apenas para leitura do medidor; os medidores inteligentes oferecem comunicação de dados bidirecional e automação.
 
 ## Perguntas frequentes
+
 **Como afetam as faturas?**
+
 Como mostram o consumo em tempo real, permitem que você veja em quais horários gasta mais e, assim, economize.
 
 **Meus dados estão seguros?**
+
 Geralmente transmitidos através de protocolos criptografados, protegendo assim a privacidade dos seus hábitos de consumo.
 
-
 ## Termos relacionados
-- [Edge Computing](/pt/dictionary/edge-computing/)
-- [Data Pipeline](/pt/dictionary/data-pipeline/)
-- [Dashboard](/pt/dictionary/dashboard/)
+
+- [Edge Computing](https://trescout.com/pt/dictionary/edge-computing/)
+- [Data Pipeline](https://trescout.com/pt/dictionary/data-pipeline/)
+- [Dashboard](https://trescout.com/pt/dictionary/dashboard/)
+
+Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/smart-meters/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/smart-meters/

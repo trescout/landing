@@ -7,12 +7,14 @@ Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı 
 - GitHub Trending · 2026-07-14
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 124.193 → 124.530, son sürüm v0.9.79 (6 Ekim 2026).
-- 6 Ekim 2026: Yıldız 123.910 → 124.193, son sürüm v0.9.77 (5 Ekim 2026).
-- 5 Ekim 2026: Yıldız 123.649 → 123.910, son sürüm v0.9.76 (4 Ekim 2026).
-- 4 Ekim 2026: Yıldız 123.413 → 123.649, son sürüm v0.9.75 (4 Ekim 2026).
+
+- **7 Ekim 2026:** Yıldız 124.193 → 124.530, son sürüm v0.9.79 (6 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 123.910 → 124.193, son sürüm v0.9.77 (5 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 123.649 → 123.910, son sürüm v0.9.76 (4 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 123.413 → 123.649, son sürüm v0.9.75 (4 Ekim 2026).
 
 ## Ne kazandırır?
+
 - Kod dosyalarınızı ve dokümanlarınızı sorgulanabilir bir bilgi ağına çevirir.
 - Kod analizi için yerel ve hızlı tree-sitter teknolojisini kullanır.
 - Dosyalar arasında bağlantı kurarak kavramlar arası geçişi kolaylaştırır.
@@ -22,8 +24,8 @@ Graphify, kod dosyaları, veritabanı şemaları ve dokümantasyon gibi farklı 
 **CLI kurulumu**
 
 ```
-uv tool install graphifyy # install the CLI (or: pipx install graphifyy)
-graphify install # register the skill with your AI assistant
+uv tool install graphifyy      # install the CLI (or: pipx install graphifyy)
+graphify install               # register the skill with your AI assistant
 ```
 
 ## Çalıştırma
@@ -35,19 +37,27 @@ graphify install # register the skill with your AI assistant
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bu proje dizinini Graphify kullanarak bir bilgi çizgesine dönüştürdüm. Şimdi bu yapıyı kullanarak projedeki kavramlar arasındaki ilişkileri analiz etmeni, karmaşık kod bloklarının birbirine nasıl bağlandığını açıklamanı ve 'APIRouter' gibi ana düğümlerin sistemdeki rolünü detaylandırmanı istiyorum. Lütfen analizlerini yaparken 'EXTRACTED' ve 'INFERRED' etiketlerini dikkate alarak doğrudan kaynak koddan gelen bilgiler ile çıkarımsanan bağlantıları ayırt et.
 
-- **Kimin için:** Kod tabanındaki karmaşık ilişkileri ve dosya bağımlılıklarını daha iyi anlamak isteyen yazılımcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Kod tabanındaki karmaşık ilişkileri ve dosya bağımlılıklarını daha iyi anlamak isteyen yazılımcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Graphify-Labs/graphify)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Coding Assistants Coding Assistants Knowledge Graph CLI Artificial Intelligence
+
+- [AI Coding Assistants](https://trescout.com/dictionary/ai-coding-assistants/)
+- [Coding Assistants](https://trescout.com/dictionary/coding-assistants/)
+- [Knowledge Graph](https://trescout.com/dictionary/knowledge-graph/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/graphify/

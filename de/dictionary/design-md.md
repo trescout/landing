@@ -1,31 +1,44 @@
 # Was ist DESIGN.md?
 
+*Glossar · Dev · Zuletzt aktualisiert: 10. Juli 2026*
+
 Es handelt sich um eine Dokumentationsdatei, die die Architekturentscheidungen und die Designlogik eines Softwareprojekts erläutert.
 
 ## Definition
+
 Es handelt sich um einen Leitfaden für Softwareentwicklungsprozesse, der die Grundstruktur des Projekts erklärt und erklärt, warum es so strukturiert ist. Es befindet sich normalerweise oben im Projektordner. Dadurch können Entwickler verstehen, warum das Projekt diese Architektur gewählt hat.
 
+***Analogie:** Es ist wie eine Projektdatei, die der Architekt erstellt, bevor er mit dem Bau eines Gebäudes beginnt, und in der er erklärt, warum er diese Materialien ausgewählt hat.*
+
 ## So funktioniert es
+
 Erstellen Sie im Projektordner eine Datei mit dem Namen „DESIGN.md“. Schreiben Sie darin den Zweck des Projekts, ausgewählte Technologien und Designprinzipien auf. Helfen Sie Ihren Teamkollegen, sich schnell an das Projekt zu gewöhnen, indem Sie diese Datei lesen.
 
 ## Wo es eingesetzt wird
+
 Sie werden es häufig in Open-Source-Projekten oder Unternehmenssoftware-Repositories auf Plattformen wie GitHub oder GitLab antreffen.
 
 ## Häufig verwechselt mit
+
 Es kann zu einer Verwechslung mit der Datei README.md kommen. Während README Ihnen erklärt, wie Sie das Projekt ausführen, erklärt DESIGN.md, warum das Projekt auf diese Weise konzipiert wurde.
 
 ## Häufige Fragen
+
 **Warum benötige ich eine separate Designdatei?**
+
 Da der Code immer komplexer wird, ist es notwendig, die Logik der getroffenen Entscheidungen nicht zu vergessen und Neulingen das Verständnis des Systems zu erleichtern.
 
-
 ## Verwandte Begriffe
-- [Spec-driven Development](/de/dictionary/spec-driven-development/)
-- [Specification](/de/dictionary/specification/)
+
+- [Spec-driven Development](https://trescout.com/de/dictionary/spec-driven-development/)
+- [Specification](https://trescout.com/de/dictionary/specification/)
 
 ## Verwandte Werkzeuge
-- [Awesome Design Md](/de/discover/awesome-design-md/)
-- [Design.md](/de/discover/design-md/)
+
+- [Awesome Design Md](https://trescout.com/de/discover/awesome-design-md/)
+- [Design.md](https://trescout.com/de/discover/design-md/)
+
+Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/design-md/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/design-md/

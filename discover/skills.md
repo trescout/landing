@@ -7,12 +7,14 @@ Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ 
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 19.762 → 20.857.
-- 11 Eylül 2026: Yıldız 18.743 → 19.762.
-- 27 Ağustos 2026: Yıldız 17.658 → 18.743.
-- 11 Ağustos 2026: Yıldız 16.451 → 17.658.
+
+- **3 Ekim 2026:** Yıldız 19.762 → 20.857.
+- **11 Eylül 2026:** Yıldız 18.743 → 19.762.
+- **27 Ağustos 2026:** Yıldız 17.658 → 18.743.
+- **11 Ağustos 2026:** Yıldız 16.451 → 17.658.
 
 ## Ne kazandırır?
+
 - Yapay zekâ ajanlarına Google ürünleri ile etkileşim yeteneği kazandırır.
 - Google Cloud servisleri için standartlaştırılmış araçlar sunar.
 - Gemini API ve çeşitli bulut altyapı servislerine kolay erişim sağlar.
@@ -26,19 +28,26 @@ npx skills add google/skills
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Google ürünleri ve teknolojileriyle etkileşim kuran yapay zekâ ajanları geliştirmek istiyorum. npx skills add google/skills komutu ile yüklediğim kütüphaneyi kullanarak Gemini API, BigQuery veya Cloud Run gibi servisleri ajanıma nasıl entegre edebilirim? Hangi yetenekleri seçmem gerektiği konusunda bana rehberlik et.
 
-- **Kimin için:** Google Cloud servislerini kullanan yapay zekâ ajanları geliştirmek isteyen yazılımcılar ve teknoloji meraklıları içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Google Cloud servislerini kullanan yapay zekâ ajanları geliştirmek isteyen yazılımcılar ve teknoloji meraklıları içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/google/skills)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Google Cloud AI Skills API Artificial Intelligence
+
+- [Google Cloud](https://trescout.com/dictionary/google-cloud/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/skills/

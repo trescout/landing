@@ -7,12 +7,14 @@ Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok ka
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
-- 7 Eylül 2026: Yıldız 63.731 → 64.727, son sürüm v3.32.0 (6 Eylül 2026).
-- 24 Ağustos 2026: Yıldız 61.388 → 63.731, son sürüm v3.31.0 (23 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 59.863 → 61.388, son sürüm v3.30.0 (9 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 45.304 → 59.863, son sürüm v3.29.0 (2 Ağustos 2026).
+
+- **7 Eylül 2026:** Yıldız 63.731 → 64.727, son sürüm v3.32.0 (6 Eylül 2026).
+- **24 Ağustos 2026:** Yıldız 61.388 → 63.731, son sürüm v3.31.0 (23 Ağustos 2026).
+- **10 Ağustos 2026:** Yıldız 59.863 → 61.388, son sürüm v3.30.0 (9 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 45.304 → 59.863, son sürüm v3.29.0 (2 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Çok kaynaklı piyasa verileriyle otomatik yatırım raporları
 - Mesajlaşma uygulamalarına anlık bildirim desteği
 - Kişiselleştirilmiş portföy için görselleştirilmiş paneller
@@ -26,19 +28,24 @@ python main.py
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen profesyonel bir finansal analiz asistanısın. Paylaştığım borsa verilerini, teknik göstergeleri ve güncel haber akışlarını kullanarak yatırım kararlarını destekleyecek bir rapor hazırla. Analizinde; temel verileri, piyasa trendlerini, olası riskleri ve büyüme potansiyeli taşıyan katalizörleri belirgin bir şekilde vurgula. Çıktıyı, yatırımcının hızlıca aksiyon alabileceği şekilde net, objektif ve görselleştirilmiş bir tablo formatında sun.
 
-- **Kimin için:** Yatırım süreçlerini otomatikleştirmek ve yapay zekâ destekli piyasa özetlerine hızlıca ulaşmak isteyen bireysel yatırımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yatırım süreçlerini otomatikleştirmek ve yapay zekâ destekli piyasa özetlerine hızlıca ulaşmak isteyen bireysel yatırımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ZhuLinsen/daily_stock_analysis)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Large Language Models Artificial Intelligence
+
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/daily-stock-analysis/

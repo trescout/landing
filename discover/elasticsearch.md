@@ -7,12 +7,14 @@ Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı a
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 77.919 → 78.198, son sürüm v9.5.5 (6 Ekim 2026).
-- 16 Eylül 2026: Yıldız 77.890 → 77.919, son sürüm v9.5.4 (15 Eylül 2026).
-- 4 Eylül 2026: Yıldız 77.846 → 77.890, son sürüm v9.5.3 (3 Eylül 2026).
-- 20 Ağustos 2026: Yıldız 77.837 → 77.846, son sürüm v9.5.2 (20 Ağustos 2026).
+
+- **6 Ekim 2026:** Yıldız 77.919 → 78.198, son sürüm v9.5.5 (6 Ekim 2026).
+- **16 Eylül 2026:** Yıldız 77.890 → 77.919, son sürüm v9.5.4 (15 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 77.846 → 77.890, son sürüm v9.5.3 (3 Eylül 2026).
+- **20 Ağustos 2026:** Yıldız 77.837 → 77.846, son sürüm v9.5.2 (20 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Büyük veri kümelerinde hızlı arama ve analiz
 - Vektör arama ve yapay zekâ uygulamalarıyla entegrasyon
 - Gerçek zamanlı veri indeksleme ve sorgulama
@@ -39,22 +41,26 @@ brew install elastic/tap/elasticsearch-full
 docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:9.5.0
 ```
 
-Kaynak: Elastic Docker Registry · Homebrew (elastic/tap/elasticsearch-full) · resmî Elastic dokümantasyonu
+**Kaynak:** Elastic Docker Registry · Homebrew (elastic/tap/elasticsearch-full) · resmî Elastic dokümantasyonu
 
 ## Nasıl başlanır?
 
 Elasticsearch'ü kullanmaya başlamak için en basit yöntem, Elastic Cloud üzerinden yönetilen bir dağıtım oluşturmaktır. Alternatif olarak, kendi kurulumunuzu yönetmek isterseniz resmî web sitesindeki indirme sayfasını ziyaret edebilir veya yerel geliştirme ortamları için sunulan Docker tabanlı başlangıç betiklerini inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://www.elastic.co/products/elasticsearch)
 
-- **Kimin için:** Büyük ölçekli veriler üzerinde hızlı arama, log analizi ve vektör tabanlı arama çözümleri geliştirmek isteyen yazılımcılar ve veri mühendisleri içindir. 
+- **Kimin için:** Büyük ölçekli veriler üzerinde hızlı arama, log analizi ve vektör tabanlı arama çözümleri geliştirmek isteyen yazılımcılar ve veri mühendisleri içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/elastic/elasticsearch)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Distributed Artificial Intelligence
+
+- [Distributed](https://trescout.com/dictionary/distributed/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/elasticsearch/

@@ -1,8 +1,8 @@
 # Claude Code için uzman ajanlar tasarlayın
 
-Harness , Claude Code'un ajan ekip sistemini kullanarak karmaşık görevleri uzmanlaşmış ajanlardan oluşan koordineli ekiplere böler. 'Şunun için bir harness kur' komutuyla, gereken ekibi ve becerileri sizin için tasarlar.
+**Harness**, Claude Code'un ajan ekip sistemini kullanarak karmaşık görevleri **uzmanlaşmış ajanlardan oluşan koordineli ekiplere** böler. 'Şunun için bir harness kur' komutuyla, gereken ekibi ve becerileri sizin için tasarlar.
 
-_Görsel: harness (proje deposundan)_
+*Görsel: harness (proje deposundan)*
 
 - ★ 8.581
 - Claude Code
@@ -10,16 +10,18 @@ _Görsel: harness (proje deposundan)_
 - GitHub Trending · 29 May 2026
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 4.063 → 8.581.
 
-- **Kimin için:** Claude Code ile karmaşık iş yapan geliştiriciler 
-- **Zorluk:** Orta–ileri · Claude Code 
-- **Ne sunar:** Ajan ekibi tasarlayan meta-beceri 
-- **Çalışır:** Claude Code 
-- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
+- **2 Ağustos 2026:** Yıldız 4.063 → 8.581.
+
+- **Kimin için:** Claude Code ile karmaşık iş yapan geliştiriciler
+- **Zorluk:** Orta–ileri · Claude Code
+- **Ne sunar:** Ajan ekibi tasarlayan meta-beceri
+- **Çalışır:** Claude Code
+- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0)
 
 ## Ne kazandırır?
-- Karmaşık görevleri uzman ajan ekiplerine böler.
+
+- Karmaşık görevleri **uzman ajan ekiplerine** böler.
 - Ekiplerin ihtiyaç duyduğu becerileri geliştirir.
 - İş akışlarını otomatikleştirir.
 
@@ -28,7 +30,9 @@ _Görsel: harness (proje deposundan)_
 Claude Code'a beceri olarak eklenir; ardından dilediğiniz alan için bir ajan ekibi kurmasını isteyebilirsiniz.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code'da '/plugin marketplace add revfactory/harness' ve ardından '/plugin install harness@harness-marketplace' komutlarını çalıştırarak Harness eklentisini kur, sonra "Bu proje için bir harness oluştur" diyerek projeme uygun bir yapay zekâ ajan ekibi kurmasını iste.
 
 **Claude Code · marketplace + kurulum**
@@ -38,15 +42,20 @@ Claude Code'da '/plugin marketplace add revfactory/harness' ve ardından '/plugi
 /plugin install harness@harness-marketplace
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
+**Lisans:** Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/revfactory/harness)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Harness Plugin Open Source Artificial Intelligence
+
+- [Harness](https://trescout.com/dictionary/harness/)
+- [Plugin](https://trescout.com/dictionary/plugin/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/harness/

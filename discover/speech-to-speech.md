@@ -7,12 +7,14 @@ Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık ka
 - GitHub Trending · 2026-07-29
 
 ## Güncelleme
-- 7 Eylül 2026: Yıldız 12.310 → 13.072, son sürüm v1.0.0 (6 Eylül 2026).
-- 12 Ağustos 2026: Yıldız 11.283 → 12.310, son sürüm v0.2.12 (5 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 10.774 → 11.283, son sürüm v0.2.12 (5 Ağustos 2026).
-- 4 Ağustos 2026: Yıldız 10.402 → 10.774, son sürüm v0.2.11 (3 Ağustos 2026).
+
+- **7 Eylül 2026:** Yıldız 12.310 → 13.072, son sürüm v1.0.0 (6 Eylül 2026).
+- **12 Ağustos 2026:** Yıldız 11.283 → 12.310, son sürüm v0.2.12 (5 Ağustos 2026).
+- **6 Ağustos 2026:** Yıldız 10.774 → 11.283, son sürüm v0.2.12 (5 Ağustos 2026).
+- **4 Ağustos 2026:** Yıldız 10.402 → 10.774, son sürüm v0.2.11 (3 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Düşük gecikmeli modüler ses hattı
 - OpenAI Realtime uyumlu WebSocket desteği
 - Farklı donanımlarda yerel çalışma imkânı
@@ -50,19 +52,27 @@ python scripts/listen_and_play_realtime.py --host 127.0.0.1 --port 8765
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bu aracı kullanarak kendi yerel sesli ajanımı kurmak istiyorum. VAD, STT, LLM ve TTS bileşenlerini kullanarak düşük gecikmeli bir ses hattı oluşturmak için izlemem gereken temel adımlar nelerdir? Hangi komutla sunucuyu ayağa kaldırabilirim ve OpenAI Realtime uyumlu bir istemci ile nasıl bağlantı kurabilirim?
 
-- **Kimin için:** Kendi donanımı üzerinde yerel ve özelleştirilebilir sesli etkileşim sistemleri geliştirmek isteyen yazılımcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Kendi donanımı üzerinde yerel ve özelleştirilebilir sesli etkileşim sistemleri geliştirmek isteyen yazılımcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/huggingface/speech-to-speech)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Voice Agents Speech-to-Speech STT LLM Artificial Intelligence
+
+- [Voice Agents](https://trescout.com/dictionary/voice-agents/)
+- [Speech-to-Speech](https://trescout.com/dictionary/speech-to-speech/)
+- [STT](https://trescout.com/dictionary/stt/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/speech-to-speech/

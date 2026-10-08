@@ -1,19 +1,21 @@
 # Task Runner nedir, ne demek?
 
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-22
+*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Task runner (Türkçe karşılığıyla **görev koşturucu**), tekrarlı işleri sırayla çalıştıran araçtır.
 
 ## Tanım ve Kelime Kökeni
+
 Test, sıkıştırma ve dağıtım gibi angarya işler tek komuta bağlanır. Liste takip edilir, süreç hızlanır, hata düşer.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
-- **Web:** Derleme ve sıkıştırma.
-- **CI:** Hat adımları.
-- **Yayın:** Tek komutla dağıtım.
+
+**Web:** Derleme ve sıkıştırma.
+**CI:** Hat adımları.
+**Yayın:** Tek komutla dağıtım.
 
 ## Teknik Derinlik ve Mimari
+
 Npm betikleri:
 
 ```
@@ -26,34 +28,46 @@ Npm betikleri:
 Çalıştırma `npm run test` biçimindedir. Makefile ve Just alternatifleridir. Kural: Üç kez elle yapılan iş betiğe yazılır.
 
 ## Sık Karıştırılanlar
+
 Terminal sanılır. Terminal çalıştırır, koşturucu yönetir. Biri sahne, diğeri yönetmendir.
 
 ## Farklı Disiplinlerde Kullanımı
-- **Robot:** Sıralı mutfak işleri.
-- **Çamaşır makinesi:** Programlı yıkama.
-- **Otopilot:** Rota takibi.
 
-## Bir benzetmeyle
-Mutfak işlerini sırayla yapan robot gibidir; liste verilir, süreç işler.
+**Robot:** Sıralı mutfak işleri.
+**Çamaşır makinesi:** Programlı yıkama.
+**Otopilot:** Rota takibi.
 
-## Sıkça sorulanlar
+*Mutfak işlerini sırayla yapan robot gibidir; liste verilir, süreç işler.*
 
-**Hangi işlerde kullanılır?**  
+## Sıkça Sorulanlar
+
+**Hangi işlerde kullanılır?**
+
 Test, derleme ve dağıtımda. Tekrar eden her iş adaydır.
 
-**Hangisi seçilmeli?**  
+**Hangisi seçilmeli?**
+
 Ekosistem belirler: JS tarafında npm, sistemde Make yaygındır.
 
-**CI farkı nedir?**  
+**CI farkı nedir?**
+
 Koşturucu yerelde çalışır, CI bulutta koşar. İkisi birlikte kullanılır.
 
-**Ne zaman yazılır?**  
+**Ne zaman yazılır?**
+
 Üçüncü tekrarda. İlki elle, ikincisi notla, üçüncü betikle yapılır.
 
 ## İlgili terimler
-- [CLI](/dictionary/cli/)
-- [Continuous Integration](/dictionary/continuous-integration/)
-- [Script](/dictionary/script/)
+
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Continuous Integration](https://trescout.com/dictionary/continuous-integration/)
+- [Script](https://trescout.com/dictionary/script/)
+
+## İlgili araçlar
+
+- [Mise](https://trescout.com/discover/mise/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/task-runner/

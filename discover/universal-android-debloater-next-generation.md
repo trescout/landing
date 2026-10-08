@@ -7,9 +7,11 @@ Universal Android Debloater Next Generation, kök dizin erişimi (root) gerektir
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 7.487 → 8.660, son sürüm v1.2.0 (12 Ocak 2026).
+
+- **2 Ağustos 2026:** Yıldız 7.487 → 8.660, son sürüm v1.2.0 (12 Ocak 2026).
 
 ## Ne kazandırır?
+
 - Cihaz performansını ve pil ömrünü artırır
 - Güvenlik açıklarını azaltarak gizliliği güçlendirir
 - Kök dizin erişimi gerektirmeden çalışır
@@ -17,18 +19,23 @@ Universal Android Debloater Next Generation, kök dizin erişimi (root) gerektir
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için GitHub sayfasındaki Wiki bölümüne gidin. Burada bulunan 'Getting started' ve 'Usage guide' sayfalarını inceleyerek cihazınız için gerekli adımları takip edebilir ve uygulamayı bilgisayarınıza indirip çalıştırabilirsiniz.
+
 - [Resmî kaynak →](https://github.com/0x192/universal-android-debloater)
 
-- **Kimin için:** Android telefonundaki gereksiz yüklü uygulamalardan kurtulup cihazını hızlandırmak isteyen kullanıcılar içindir. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Android telefonundaki gereksiz yüklü uygulamalardan kurtulup cihazını hızlandırmak isteyen kullanıcılar içindir.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-ADB Root Rust
+
+- [ADB](https://trescout.com/dictionary/adb/)
+- [Root](https://trescout.com/dictionary/root/)
+- [Rust](https://trescout.com/dictionary/rust/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/universal-android-debloater-next-generation/

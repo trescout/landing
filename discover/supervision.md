@@ -7,12 +7,14 @@ Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer v
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 51.118 → 51.146, son sürüm 0.30.8 (6 Ekim 2026).
-- 4 Ekim 2026: Yıldız 51.075 → 51.118, son sürüm 0.30.7 (4 Ekim 2026).
-- 29 Eylül 2026: Yıldız 51.054 → 51.075, son sürüm 0.30.6 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 50.896 → 51.054, son sürüm 0.30.5 (22 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 51.118 → 51.146, son sürüm 0.30.8 (6 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 51.075 → 51.118, son sürüm 0.30.7 (4 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 51.054 → 51.075, son sürüm 0.30.6 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 50.896 → 51.054, son sürüm 0.30.5 (22 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Bilgisayarlı görü projelerinde veri yükleme ve işleme süreçlerini hızlandırır.
 - Nesne tespiti ve takibi gibi işlemleri standartlaştırarak uygulama geliştirmeyi kolaylaştırır.
 - Farklı model kütüphaneleriyle uyumlu çalışarak görselleştirme ve veri seti yönetimi sağlar.
@@ -41,19 +43,25 @@ annotated_frame = box_annotator.annotate(scene=image.copy(), detections=detectio
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Python 3.9 veya üzeri bir ortamda pip install supervision komutuyla kütüphaneyi kurdum. Bilgisayarlı görü projemde nesne tespiti sonuçlarını görselleştirmek ve veri setimi yönetmek istiyorum. Supervision kütüphanesini kullanarak nesne tespiti sonuçlarını bir görüntü üzerine nasıl işaretleyebilirim ve farklı formatlardaki (COCO, YOLO vb.) veri setlerini nasıl yükleyip dönüştürebilirim? Lütfen kütüphanenin sunduğu annotator ve dataset yardımcı araçlarını kullanarak örnek bir iş akışı oluşturmama yardımcı ol.
 
-- **Kimin için:** Bilgisayarlı görü projelerinde nesne tespiti ve takibi süreçlerini standartlaştırmak isteyen Python geliştiricileri için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Bilgisayarlı görü projelerinde nesne tespiti ve takibi süreçlerini standartlaştırmak isteyen Python geliştiricileri için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/roboflow/supervision)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Computer Vision Computer Vision Artificial Intelligence
+
+- [Computer Vision](https://trescout.com/dictionary/computer-vision/)
+- [Computer Vision](https://trescout.com/dictionary/cv/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/supervision/

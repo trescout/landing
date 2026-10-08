@@ -7,12 +7,14 @@ Rust diliyle geliştirilen llmfit, yüzlerce büyük dil modelini (large languag
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 35.465 → 37.196, son sürüm v1.1.16 (19 Eylül 2026).
-- 10 Eylül 2026: Yıldız 34.855 → 35.465, son sürüm v1.1.15 (10 Eylül 2026).
-- 4 Eylül 2026: Yıldız 34.596 → 34.855, son sürüm v1.1.14 (3 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 34.304 → 34.596, son sürüm v1.1.12 (28 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 35.465 → 37.196, son sürüm v1.1.16 (19 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 34.855 → 35.465, son sürüm v1.1.15 (10 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 34.596 → 34.855, son sürüm v1.1.14 (3 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 34.304 → 34.596, son sürüm v1.1.12 (28 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Sisteminizle uyumlu modelleri otomatik tespit eder
 - Bellek, hız ve kaliteye göre sıralama yapar
 - Etkileşimli arayüz ile kolay yönetim sağlar
@@ -40,19 +42,28 @@ llmfit
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sistemimin donanım özelliklerini analiz et ve mevcut RAM, CPU ve GPU kapasiteme göre çalıştırabileceğim en iyi yapay zekâ modellerini öner. Modelleri performans, bellek kullanımı ve kalite kriterlerine göre sıralayarak bana en uygun olanları listele.
 
-- **Kimin için:** Yerel bilgisayarında hangi yapay zekâ modellerinin verimli çalışacağını merak eden kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yerel bilgisayarında hangi yapay zekâ modellerinin verimli çalışacağını merak eden kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/AlexsJones/llmfit)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-RAM CPU GPU LLM Rust Artificial Intelligence
+
+- [RAM](https://trescout.com/dictionary/ram/)
+- [CPU](https://trescout.com/dictionary/cpu/)
+- [GPU](https://trescout.com/dictionary/gpu/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/llmfit/
