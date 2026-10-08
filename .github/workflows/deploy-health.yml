@@ -85,8 +85,12 @@ jobs:
             -H 'Content-Type: application/x-www-form-urlencoded' \
             --data 'email=healthcheck%40example.invalid&consent=false')
           echo "Consent-rejection smoke HTTP: $api_status"
-          if [ "$api_status" != "400" ] || ! grep -q '"code":"onay"' /tmp/subscribe-smoke.json; then
-            echo "::error::Production subscribe endpoint consent fallback beklenen 400/onay yanıtını vermedi."
+          # İki geçerli yanıt: kayıt açıkken 400/onay, kayıt durdurulmuşken
+          # (SUBSCRIBE_PAUSED, #210) 503/kapali. İkisinde de veri kabul edilmez.
+          if [ "$api_status" = "503" ] && grep -q '"code":"kapali"' /tmp/subscribe-smoke.json; then
+            echo "ℹ️ Kayıtlar durdurulmuş (SUBSCRIBE_PAUSED) · endpoint veri kabul etmiyor."
+          elif [ "$api_status" != "400" ] || ! grep -q '"code":"onay"' /tmp/subscribe-smoke.json; then
+            echo "::error::Production subscribe endpoint beklenen 400/onay ya da 503/kapali yanıtını vermedi."
             cat /tmp/subscribe-smoke.json
             exit 1
           fi
