@@ -1,40 +1,42 @@
-# ¿Qué es Autonomous Robotics?
+# ¿Qué es la Robótica Autónoma?
 
-La robótica autónoma es la ciencia de las máquinas que se desplazan sin asistencia.
+> Robótica Autónoma
 
-## Definición y origen de la palabra
-Los robots ven con sensores, mapean y calculan rutas. Ejecutan comandos y cambian de estrategia según la situación. Generan soluciones ante la incertidumbre.
+La robótica autónoma (autonomous robotics) es el campo interdisciplinario que diseña y construye máquinas capaces de percibir su entorno, planificar trayectorias y ejecutar tareas físicas sin intervención humana directa.
 
-## ¿Cómo saberlo y utilizarlo en la vida diaria?
-Almacén: Transporte entre estanterías.Agricultura: Seguimiento de hileras.Exploración: Escaneo de áreas peligrosas.
+## Definición y etimología
+Los robots autónomos capturan información del mundo real mediante sensores ópticos y de proximidad, generan modelos espaciales y determinan sus movimientos óptimos. Aplican instrucciones generales y ajustan sus maniobras de inmediato ante imprevistos u obstáculos móviles.
+
+## Contexto cotidiano y uso práctico
+Logística e Intralogística: Vehículos de guiado automático (AGV) que desplazan mercancías en almacenes gigantescos.Agricultura Inteligente: Máquinas que detectan malezas y dosifican fertilizantes de forma autónoma.Inspección y Defensa: Vehículos no tripulados para exploración subterránea, marina o espacial.
 
 ## Profundidad técnica y arquitectura
-Regiones:
+Bloques de la Arquitectura de Control:
 
-## Cosas frecuentemente mezcladas
-Se cree que es un robot programado. Este repite una ruta fija, aquel genera soluciones ante la incertidumbre. Uno es una cinta transportadora, el otro es un chófer.
+## Suele confundirse con
+Suele confundirse con robots industriales de cadena de montaje. Los brazos industriales ejecutan movimientos repetitivos preprogramados en jaulas de seguridad; los robots autónomos conviven con personas en entornos dinámicos y cambiantes.
 
-## Uso en diferentes disciplinas
-Vehículo autónomo: Camino según el tráfico.Piloto automático: Mantenimiento de ruta.Paloma mensajera: Regreso al objetivo.
+## Perspectivas interdisciplinares
+Vehículo Autónomo: Conducción inteligente adaptada al tráfico urbano.Piloto Automático: Mantenimiento de rumbo y altitud en aviación comercial.Paloma Mensajera: Orientación biológica innata hacia un punto geográfico sin ruta fija.
 
 ## Preguntas frecuentes
-**¿No comete errores?**
-Los comete. Se apoya en una capa de seguridad y en el aprendizaje.
+**¿Pueden equivocarse los robots autónomos?**
+Sí. La niebla, el polvo o reflejos lumínicos anómalos pueden degradar la percepción, por lo que se emplean fusiones multisensoriales y algoritmos de validación cruzada.
 
-**¿Dónde se usa?**
-En almacenes, agricultura y exploración. Destaca en tareas repetitivas y peligrosas.
+**¿Cuáles son sus aplicaciones más consolidadas?**
+Los centros logísticos de comercio electrónico y la agricultura tecnificada encabezan la adopción masiva.
 
-**¿Cuánto cuesta?**
-Tiene un coste de sensores y software. Se paga a cambio de la ganancia en mano de obra.
+**¿Qué factores determinan su coste?**
+El coste del hardware sensorial (especialmente escáneres LiDAR) y los procesadores especializados de bajo consumo para procesamiento neuronal en el borde.
 
-**¿Cuál es la diferencia con el que tiene control remoto?**
-El que tiene control remoto está en manos humanas, el autónomo está a solas con su objetivo.
+**¿En qué se distingue de un dron manejado por radiofrecuencia?**
+El dron teledirigido sigue las órdenes milimétricas del piloto; el robot autónomo recibe la orden 've al punto B' y resuelve el trayecto por sí mismo.
 
 
 ## Términos relacionados
-- [Introduction to Autonomous Robots](/es/dictionary/autonomous-robots-intro/)
-- [Physical AI](/es/dictionary/physical-ai/)
-- [World Models](/es/dictionary/world-model/)
+- [Introducción a la Robótica Autónoma](/es/dictionary/autonomous-robots-intro/)
+- [IA Física](/es/dictionary/physical-ai/)
+- [Modelos de Mundo](/es/dictionary/world-model/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/autonomous-robotics/

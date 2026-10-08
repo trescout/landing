@@ -38,7 +38,7 @@ Es posible que se requieran algunos conocimientos técnicos durante la fase de i
 - [Fastmcp](/es/discover/fastmcp/)
 - [Context Mode](/es/discover/context-mode/)
 - [Unity MCP](/es/discover/unity-mcp/)
-- [DesktopCommanderMCP](/es/discover/desktopcommandermcp/)
+- [REA](/es/discover/rea/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/model-context-protocol-mcp/

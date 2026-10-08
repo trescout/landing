@@ -1,42 +1,42 @@
-# ¿Qué es On-device STT?
+# ¿Qué es el On-device STT?
 
-> On-device Speech-to-Text
+> Reconocimiento de Voz en el Dispositivo
 
-El STT en el dispositivo (reconocimiento de voz en el dispositivo) es la conversión de voz a texto directamente en el dispositivo.
+El on-device STT (Speech-to-Text en el dispositivo) es la tecnología de reconocimiento acústico que transcribe la voz a texto de manera local en el procesador del usuario, sin enviar archivos de audio a servidores externos.
 
-## Definición y origen de la palabra
-"On-device" significa en el dispositivo. El modelo funciona de forma local sin necesidad de conectarse a la nube. Se protege la privacidad y no se ve afectado por interrupciones. Es como un traductor que lleva el diccionario en la cabeza.
+## Definición y etimología
+Diseñado para satisfacer exigencias estrictas de privacidad y latencia imperceptible, el STT local ejecuta modelos neuronales en aceleradores de hardware (NPU/GPU). La voz capturada por el micrófono se procesa y descarta en la memoria volátil del equipo.
 
-## ¿Cómo saberlo y utilizarlo en la vida diaria?
-Notas: Nota de voz en el avión.Comando: Asistente sin conexión.Accesibilidad: Subtítulos en el dispositivo.
+## Contexto cotidiano e uso práctico
+Teléfonos y tabletas: Dictado de mensajes y notas de voz en modo avión o zonas de escasa cobertura.Ámbito Médico y Legal: Transcripción confidencial de historias clínicas y declaraciones notariales.Domótica Autónoma: Control de electrodomésticos por voz sin enviar las conversaciones familiares a la nube.
 
 ## Profundidad técnica y arquitectura
-Equilibrio:
+Estructura de Ingeniería:
 
-## Cosas frecuentemente mezcladas
-El reconocimiento en la nube es una ilusión. Funciona en el servidor, los datos salen. Esto funciona en el dispositivo, los datos permanecen.
+## Suele confundirse con
+Suele confundirse con las API de voz en la nube. Las plataformas cloud procesan el audio en centros remotos; el STT local realiza todo el cálculo dentro del procesador del propio teléfono u ordenador.
 
-## Uso en diferentes disciplinas
-Diccionario: Vocabulario llevado en la cabeza.Calculadora: Procesamiento sin batería.Linterna: Luz sin red.
+## Perspectivas interdisciplinares
+Traducción: Contar con un traductor presencial en la habitación frente a llamar a una centralita remota por teléfono.Registro: Un taquígrafo tomando actas en sala frente a enviar grabaciones por mensajería postal.Revelado: Disponer de un cuarto oscuro fotográfico propio frente a mandar los carretes a un laboratorio ajeno.
 
 ## Preguntas frecuentes
-**¿Por qué en lugar de la nube?**
-No requiere conexión, los datos permanecen en el dispositivo. Es preferido para trabajos confidenciales.
+**¿Ofrece la misma precisión que los servicios en la nube?**
+Sí, versiones destiladas recientes como Whisper-small compiten de tú a tú en tasa de error de palabras (WER).
 
-**¿Disminuye la precisión?**
-Un poco en comparación con la nube. Es suficiente para el trabajo diario, el texto crítico se revisa.
+**¿Requiere conexión a Internet para transcribir?**
+No, el procesamiento se ejecuta íntegramente en local con el dispositivo desconectado.
 
-**¿Qué dispositivo lo ejecuta?**
-Teléfonos y computadoras nuevos. Los que tienen NPU funcionan con fluidez.
+**¿Cuánto espacio de disco ocupa un modelo típico?**
+Los modelos cuantizados para producción suelen ocupar entre 45 MB y 300 MB.
 
-**¿Consume batería?**
-Sí. La escucha constante tiene un costo, se activa cuando es necesario.
+**¿Qué proyectos de código abierto permiten implementarlo?**
+Whisper.cpp, Vosk, Sherpa-ONNX y WhisperX.
 
 
 ## Términos relacionados
-- [STT](/es/dictionary/stt/)
 - [Speech-to-Text](/es/dictionary/speech-to-text/)
-- [Local](/es/dictionary/local/)
+- [SLM](/es/dictionary/slm/)
+- [Privacidad Digital](/es/dictionary/digital-privacy/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/on-device-stt/

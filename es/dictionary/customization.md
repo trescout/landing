@@ -1,40 +1,41 @@
-# ¿Qué es Customization?
+# ¿Qué es la Personalización?
 
-La personalización es la adaptación de un producto estándar a sus propias necesidades.
+> Personalización de Software
 
-## Definición y origen de la palabra
-Personalizar significa adaptar según las preferencias. Va desde el color de la interfaz hasta las reglas de flujo de trabajo. El objetivo es que el producto se adapte a ti, y no tú al producto. La metáfora del sastre es acertada: se compra un traje confeccionado y se ajusta a la medida.
+La personalización (o customization) es la adaptación funcional, visual o procedimental de un software para amoldarlo a las necesidades particulares de un usuario u organización.
 
-## ¿Cómo saberlo y utilizarlo en la vida diaria?
-Tema: Modo oscuro y selección de color.Atajo: Asignaciones de teclas.Institucional: Flujo de aprobación y definiciones de campos.
+## Definición y etimología
+Personalizar consiste en transformar un producto estándar en una solución ajustada a la medida. Abarca desde la modificación estética de una interfaz hasta la definición de complejas canalizaciones de datos y reglas de negocio propias. El principio rector es adaptar la herramienta al flujo de trabajo del usuario.
+
+## Contexto cotidiano y uso práctico
+Entornos de Usuario: Ajuste de disposiciones de pantalla, paneles rápidos y combinaciones de teclas.Sistemas Empresariales: Modificación de esquemas de datos, circuitos de aprobación y emisión de facturas en CRM/ERP.Herramientas Técnicas: Configuración de linters, motores de compilación y complementos en el IDE.
 
 ## Profundidad técnica y arquitectura
-Capas de adaptación, de más económico a más costoso:
+Enfoques Arquitectónicos de Adaptación:
 
-## Cosas frecuentemente mezcladas
-Es similar a la personalización (Personalization). La diferencia es la siguiente: en la customización tú configuras el sistema, mientras que en la personalización el sistema te observa y se configura a sí mismo. Uno es trabajo manual y el otro es automático.
+## Suele confundirse con
+Suele confundirse con la mera configuración de opciones. Modificar el brillo o activar el sonido es una elección predeterminada; la personalización altera cómo se procesan las tareas del día a día.
 
-## Uso en diferentes disciplinas
-Sastre: Adaptación de la ropa confeccionada al cuerpo.Muebles: Hacer un armario a medida.Automóvil: Selección de paquete de equipamiento.
+## Perspectivas interdisciplinares
+Sastrería: Ceñir un traje de confección estándar para que encaje con exactitud milimétrica.Competición del Motor: Calibrar presiones y reglajes aerodinámicos para un trazado concreto.Mobiliario Modular: Montar estanterías y escritorios según el espacio físico disponible.
 
 ## Preguntas frecuentes
-**¿Se puede personalizar cada software?**
-No. Los productos de caja cerrada no ofrecen ajustes. Debes preguntar por las capas de personalización antes de comprar.
+**¿Qué diferencia la configuración de la personalización?**
+La configuración activa parámetros existentes en el software; la personalización diseña o introduce nuevos procesos y flujos de trabajo a medida.
 
-**¿Cuál es la diferencia con la personalización?**
-En la customización tú configuras; en la personalización el sistema te observa. Uno es hecho a mano, el otro es automático.
+**¿Qué inconvenientes puede acarrear personalizar demasiado?**
+Un exceso de adaptaciones ajenas a las rutas estándar encarece el mantenimiento y dificulta la instalación de parches oficiales.
 
-**¿Cuál es el límite?**
-Es el punto en el que el núcleo se vuelve imposible de actualizar. Un producto demasiado customizado no se puede renovar y se queda bloqueado.
+**¿Cómo protegen las plataformas el código personalizado?**
+Ejecutándolo en entornos seguros de aislamiento (sandboxes) y utilizando contratos de API respaldados por versiones semánticas.
 
-**¿Una actualización rompe la customización?**
-En la capa de complementos por lo general no, en la bifurcación por lo general sí. Por eso se elige la capa mínima suficiente.
+**¿Cuándo es preferible adaptarse al estándar del software?**
+Cuando los procesos nativos cubren razonablemente el negocio, minimizando el desarrollo de ingeniería interno.
 
 
 ## Términos relacionados
+- [Extensibilidad](/es/dictionary/extensibility/)
 - [Plugin](/es/dictionary/plugin/)
-- [Framework](/es/dictionary/framework/)
-- [User Experience](/es/dictionary/user-experience/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/customization/

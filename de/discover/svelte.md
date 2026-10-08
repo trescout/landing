@@ -2,7 +2,7 @@
 
 Im Gegensatz zu herkömmlichen Frameworks verwendet Svelte einen Ansatz zur Kompilierungszeit, der den Laufzeitaufwand für den Browser reduziert. Diese JavaScript-Bibliothek vereinfacht Webentwicklungsprozesse, indem sie Anwendungscode in kleine und schnell laufende reine JavaScript-Module umwandelt.
 
-- ★ 88.135
+- ★ 88.343
 - GitHub Trending · 2026-06-07
 
 ## Was es bringt

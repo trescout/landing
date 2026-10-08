@@ -1,40 +1,42 @@
-# Qu'est-ce que Autonomous Robotics ?
+# Qu'est-ce que la Robotique Autonome ?
 
-La robotique autonome est la science des machines capables de se déplacer sans assistance.
+> Robotique Autonome
 
-## Définition et origine du mot
-Les robots voient avec des capteurs, cartographient, calculent l'itinéraire. Ils exécutent la commande, changent de stratégie selon la situation. Ils produisent des solutions dans l'incertitude.
+La robotique autonome (autonomous robotics) est la discipline scientifique concevant des machines capables de percevoir leur environnement, de planifier leurs mouvements et d'agir sans guidage humain continu.
 
-## Comment connaître et utiliser dans la vie quotidienne ?
-Entrepôt : Transport entre les rayonnages.Agriculture : Suivi de rang.Exploration : Balayage de zones dangereuses.
+## Définition et étymologie
+Les robots autonomes observent leur environnement à l'aide de capteurs, cartographient l'espace et calculent leurs trajectoires. Ils exécutent des directives tout en adaptant leur comportement en temps réel face aux imprévus et aux obstacles rencontrés.
+
+## Usage quotidien et contexte pratique
+Entrepôts logistiques : Chariots automatisés déplaçant des marchandises entre les rayons.Agriculture de précision : Robots désherbeurs et cueilleurs guidés par caméra le long des sillons.Exploration extrême : Sondes sous-marines et rovers spatiaux explorant des zones inaccessibles à l'homme.
 
 ## Profondeur technique et architecture
-Parties:
+Architecture technique fondamentale :
 
-## Choses fréquemment mélangées
-On le croit être un robot programmé. L'un répète un chemin fixe, l'autre génère des solutions dans l'incertitude. L'un est une chaîne de montage, l'autre est un chauffeur.
+## Souvent confondu avec
+Souvent confondue avec la robotique industrielle programmée. Un bras d'assemblage répète indéfiniment une trajectoire préétablie dans un milieu contrôlé ; un robot autonome prend des décisions face à l'imprévu.
 
-## Utilisation dans différentes disciplines
-Véhicule autonome : Trajet en fonction du trafic.Pilote automatique : Maintien de trajectoire.Pigeon voyageur : Retour à la cible.
+## Perspectives interdisciplinaires
+Véhicule autonome : Conduite adaptée au trafic et à la météo.Pilote automatique : Maintien d'altitude et de cap en vol.Pigeon voyageur : Orientation biologique instinctive vers sa destination.
 
-## Foire aux questions
-**Ne fait-il pas d'erreurs ?**
-Si. Il est soutenu par une couche de sécurité et l'apprentissage.
+## Questions fréquentes
+**Un robot autonome peut-il commettre des erreurs ?**
+Oui. Des capteurs encrassés ou des situations inédites peuvent induire des erreurs ; la fusion multi-capteurs et des garde-fous logiciels limitent ces risques.
 
-**Où est-il utilisé ?**
-Dans l'entrepôt, l'agriculture et l'exploration. Il est en première ligne pour les tâches répétitives et dangereuses.
+**Où trouve-t-on le plus de robots autonomes aujourd'hui ?**
+Dans la logistique pour le tri de colis, dans l'agriculture moderne et dans les missions d'inspection d'infrastructures à risque.
 
-**Qu'est-ce que ça coûte ?**
-Il y a un coût pour les capteurs et le logiciel. Il est payé en échange du gain de main-d'œuvre.
+**Quels sont les freins techniques majeurs ?**
+Le coût des capteurs optiques et la consommation électrique des puces d'IA embarquées nécessaires au traitement instantané des flux LiDAR.
 
-**Quelle est la différence avec la version télécommandée ?**
-La version télécommandée est contrôlée par l'homme, tandis que la version autonome est livrée à elle-même face à sa cible.
+**En quoi diffère-t-il d'un drone télécommandé ?**
+Le drone télécommandé dépend directement des mains d'un pilote ; le robot autonome reçoit un ordre final et gère chaque micro-décision de façon indépendante.
 
 
 ## Termes liés
-- [Introduction to Autonomous Robots](/fr/dictionary/autonomous-robots-intro/)
-- [Physical AI](/fr/dictionary/physical-ai/)
-- [World Models](/fr/dictionary/world-model/)
+- [Introduction à la robotique autonome](/fr/dictionary/autonomous-robots-intro/)
+- [IA physique](/fr/dictionary/physical-ai/)
+- [Modèles de monde](/fr/dictionary/world-model/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/autonomous-robotics/

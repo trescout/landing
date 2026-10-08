@@ -2,7 +2,7 @@
 
 AirLLM ist eine bahnbrechende Open-Source-Bibliothek, die riesige große Sprachmodelle (LLMs) mit 70 Milliarden und 405 Milliarden Parametern auf Standard-Grafikkarten für Verbraucher mit nur 4 GB Videospeicher (VRAM) ausführt, ohne dass Unternehmensserver oder teure GPU-Cluster erforderlich sind.
 
-- ★ 33.755
+- ★ 35.481
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 

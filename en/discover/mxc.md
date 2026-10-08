@@ -2,7 +2,7 @@
 
 Developed by Microsoft, MXC is a policy-based, layered isolation and containment solution written in Rust language. It is designed to safely limit system resources and increase application security.
 
-- ★ 641
+- ★ 1,398
 - Rust
 - GitHub Trending · 2026-06-07
 

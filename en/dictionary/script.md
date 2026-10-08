@@ -39,6 +39,7 @@ Scripts with known sources, yes. The script taken from the internet cannot be ru
 ## Related tools
 - [NVM](/en/discover/nvm/)
 - [Omarchy](/en/discover/omarchy/)
+- [Cmux](/en/discover/cmux/)
 - [Meshery](/en/discover/meshery/)
 - [Tradingview MCP](/en/discover/tradingview-mcp/)
 

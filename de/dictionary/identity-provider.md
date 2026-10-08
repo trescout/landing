@@ -1,40 +1,42 @@
-# Was ist Identity Provider?
+# Was ist ein Identity Provider?
 
-Ein Identity Provider (auf Deutsch Identitätsanbieter) ist ein zentraler Dienst, der Anmeldungen verifiziert.
+> Zentraler Identitätsdienst
+
+Ein Identity Provider (IdP / Identitätsanbieter) ist ein zentraler Authentifizierungsdienst, der Benutzeridentitäten verwaltet, verifiziert und über mehrere vernetzte Systeme hinweg bestätigt.
 
 ## Definition und Wortherkunft
-Anstatt für jede Anwendung ein separates Passwort zu verwenden, erfolgt die Anmeldung über eine zentrale Stelle. Die Anwendung fragt den Dienst, wer Sie sind, und erhält eine Bestätigung. Ihr Passwort wird nicht an die Anwendungen weitergegeben, sondern bleibt zentral gespeichert.
+In modernen Softwarearchitekturen sollten Anwendungen Passwörter nicht mehr separat speichern. Der IdP trennt die Benutzerprüfung von der Geschäftslogik und ermöglicht Single Sign-On (SSO): Einmal authentifizieren, überall sicher zugreifen.
 
-## Wie kann man es kennen und im täglichen Leben anwenden?
-Unternehmen: Einmalige Anmeldung für alle Systeme.Web: Anmeldung mit sozialem Konto.Institutionell: Mitarbeiterlebenszyklus.
+## Alltägliche Anwendung und Praxis
+Social Login: Anmelde-Schaltflächen wie 'Mit Google oder GitHub anmelden' in Kundenportalen.Unternehmenszugriffe: Zentrale Verwaltung von Mitarbeiterkonten und MFA-Richtlinien über Okta oder Microsoft Entra ID.Selbstgehostete Umgebungen: Verwendung von Keycloak oder Authentik zur Absicherung verteilter Microservice-Landschaften.
 
 ## Technische Tiefe und Architektur
-Stream:
+Kernelemente und Sicherheitsstandards:
 
-## Häufig gemischte Dinge
-Es wird für einen Passwort-Manager gehalten. Dieser speichert das Passwort, jener bestätigt die Identität. Einer ist der Tresor, der andere der Notar.
+## Häufig verwechselt mit
+Wird häufig mit einem Service Provider (SP) oder Autorisierungs-Server verwechselt. Der IdP beantwortet 'Wer bist du?' (Authentifizierung); das Rechtesystem entscheidet 'Was darfst du tun?' (Autorisierung).
 
-## Einsatz in verschiedenen Disziplinen
-Rezeption: Reisepass versus Schlüsselkarte.Notar: Identitätsbeglaubigung.Passkontrolle: Durchgang mit Stempel.
+## Interdisziplinäre Perspektiven
+Reisen: Die Passbehörde, die einen amtlichen Ausweis ausstellt vs. die Grenzkontrolle, die ein Visum prüft.Hotel: Der Check-in an der Rezeption zur Ausgabe der Schlüsselkarte vs. das Türschloss des Hotelzimmers.Büro: Der Empfang, der Besucherausweise ausgibt vs. die automatischen Schranken zu den Büros.
 
-## Häufig gestellte Fragen
-**Ist es sicher?**
-Ja. Da das Passwort nicht an jede Anwendung weitergegeben wird, verringert sich die Angriffsfläche.
+## Häufige Fragen
+**Welcher Hauptvorteil spricht für einen Identity Provider?**
+Passwörter liegen nicht mehr in dutzenden einzelnen Datenbanken; zudem wird komfortables Single Sign-On (SSO) ermöglicht.
 
-**Was passiert, wenn das System abstürzt?**
-Verbundene Anwendungen sind betroffen. Redundanz und ein Notfallzugriffsplan sind unerlässlich.
+**Wie übermittelt der IdP die Identität an angebundene Web-Apps?**
+Über signierte kryptografische Token (ID-Tokens), die die geprüften Identitätsdaten enthalten.
 
-**Was ist der Unterschied bei SSO?**
-SSO ist ein Single-Sign-On-Erlebnis, es ist die Infrastruktur des Anbieters. Das eine ist das Gesicht, das andere das Rückgrat.
+**Kann man einen Identity Provider selbst betreiben?**
+Ja, offene Plattformen wie Keycloak, Authentik und Authelia ermöglichen vollständiges On-Premises-Hosting.
 
-**Kann ich es selbst einrichten?**
-Ja, es gibt Open-Source-Optionen. Die Disziplin für Patches und Backups liegt bei Ihnen.
+**Was passiert bei einem Ausfall des IdP?**
+Neue Anmeldungen an angebundenen Diensten sind blockiert; Hochverfügbarkeit und Token-Caching sind daher Pflicht.
 
 
 ## Verwandte Begriffe
-- [SSO](/de/dictionary/sso/)
-- [OIDC](/de/dictionary/oidc/)
-- [RBAC](/de/dictionary/rbac/)
+- [Cloud Computing](/de/dictionary/cloud-computing/)
+- [Endpoint](/de/dictionary/endpoint/)
+- [Application](/de/dictionary/application/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/identity-provider/

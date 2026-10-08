@@ -39,6 +39,7 @@ Les scripts dont la source est sûre, oui. Un script récupéré sur Internet ne
 ## Outils liés
 - [NVM](/fr/discover/nvm/)
 - [Omarchy](/fr/discover/omarchy/)
+- [Cmux](/fr/discover/cmux/)
 - [Meshery](/fr/discover/meshery/)
 - [Tradingview MCP](/fr/discover/tradingview-mcp/)
 

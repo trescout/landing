@@ -38,7 +38,7 @@ Ja, MCP verfügt über eine Struktur, die die Datenzugriffsberechtigungen unter 
 - [Fastmcp](/de/discover/fastmcp/)
 - [Context Mode](/de/discover/context-mode/)
 - [Unity MCP](/de/discover/unity-mcp/)
-- [DesktopCommanderMCP](/de/discover/desktopcommandermcp/)
+- [REA](/de/discover/rea/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/model-context-protocol/

@@ -1,32 +1,29 @@
-# O que é Assembly?
+# Assembly Definição, registradores e arquitetura de sistemas
 
-Assembly refere-se a dois conceitos básicos em ciência da computação: primeiro, a linguagem de programação simbólica de nível mais baixo (linguagem Assembly) que governa diretamente o processador de hardware (CPU); A segunda é transformar módulos de software compilados (montagem .NET) em um único pacote distribuível.
+Assembly refere-se a dois conceitos essenciais na ciência da computação: a linguagem simbólica de mais baixo nível para controle direto da CPU e os pacotes de implantação modulares (.NET assemblies).
 
-## 1. Linguagem de programação de baixo nível (linguagem Assembly)
-O processador do computador entende apenas os sinais binários 0 e 1 (código de máquina/opcodes). A linguagem assembly consiste em abreviações simbólicas legíveis por humanos (mnemônicos) correspondentes a estes códigos de máquina brutos:
+## 1. Linguagem de Baixo Nível (Assembly Language)
+Processadores entendem apenas códigos binários de máquina (opcodes). A linguagem assembly converte esses números em mnemônicos legíveis por humanos:
 
-## 2. Registros do processador e arquitetura x86-64
-Os registros mais críticos em um processador x86-64 moderno de 64 bits são:
+## 2. Registradores de CPU e Arquitetura x86-64
+Em processadores x86-64 modernos de 64 bits, destacam-se registradores de propósito geral e específico:
 
-## 3. CISC vs RISC: diferença entre x86-64 e ARM64
-A arquitetura x86-64 trabalha com a filosofia CISC (Complex Instruction Set); Possui tamanhos de instruções variáveis ​​e instruções ricas que podem operar diretamente na memória. ARM64 (Apple Silicon, Mobile) é baseado em RISC (Conjunto de Instruções Reduzido); Ele oferece grande superioridade em eficiência energética com seu comprimento de comando fixo de 32 bits e arquitetura Load-Store.
+## 3. CISC vs RISC: Diferenças entre x86-64 e ARM64
+A arquitetura x86-64 segue a filosofia CISC (conjunto complexo de instruções), com comandos de tamanho variável que operam na memória. O padrão ARM64 (Apple Silicon e dispositivos móveis) adota RISC (conjunto reduzido de instruções) com tamanho fixo de 32 bits e arquitetura Load-Store, proporcionando alta eficiência energética.
 
-## 4. Exemplo de chamadas de sistema (Syscall) e Linux x86-64
+## 4. Chamadas de Sistema (Syscalls) e Exemplo Linux x86-64
 
-## 5. Montagem .NET e WebAssembly (WASM)
+## 5. .NET Assembly e WebAssembly (WASM)
 
 ## Perguntas frequentes
-**O que significa montagem e o que ela faz?**
-Assembly é a linguagem de programação simbólica de nível mais baixo que corresponde 1 a 1 ao conjunto de instruções de hardware do processador do computador. É usado para controlar diretamente os registros e a memória da CPU.
+**O que significa Assembly e para que serve?**
+É a linguagem simbólica de menor nível, mapeando comandos um para um com as instruções do processador, vital para drivers, kernels e cibersegurança.
 
-**Qual é a diferença entre Assembler e Compilador?**
-O compilador (C, C++, Rust) analisa, otimiza e traduz lógica humana complexa e loops em código de máquina. O Assembler, por outro lado, converte instruções assembly, que já são versões simbólicas do código de máquina, diretamente em código de bytes binários.
+**Qual a diferença entre um assembler e um compilador?**
+Compiladores traduzem abstrações de alto nível em código executável, enquanto o assembler faz a tradução literal de mnemônicos para códigos de máquina binários.
 
-**Onde a linguagem assembly ainda é usada hoje?**
-É usado ativamente em kernels de sistemas operacionais (bootloader), drivers de dispositivos de hardware, engenharia reversa, análise de malware, detecção de vulnerabilidades cibernéticas e sistemas embarcados (IoT/microcontrolador).
-
-**Qual é a diferença entre CISC e RISC?**
-CISC (x86-64) possui um rico conjunto de instruções que pode executar vários subprocessos e acessos à memória em uma única instrução; RISC (ARM), por outro lado, é uma arquitetura simplificada e com baixo consumo de energia que executa cada comando em um único ciclo de clock.
+**Onde o Assembly ainda é aplicado atualmente?**
+Em rotinas de bootloaders, sistemas embarcados críticos, engenharia reversa de softwares maliciosos e motores gráficos de alta taxa de quadros.
 
 
 ## Termos relacionados
@@ -37,7 +34,6 @@ CISC (x86-64) possui um rico conjunto de instruções que pode executar vários 
 - [Emulator](/pt/dictionary/emulator/)
 
 ## Ferramentas relacionadas
-- [Ghidra](/pt/discover/ghidra/)
 - [Apollo-11](/pt/discover/apollo-11/)
 
 ---

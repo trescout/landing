@@ -2,11 +2,12 @@
 
 Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme süreçlerini hızlandıran açık kaynaklı bir kod düzenleyici (code editor). TypeScript ile yazılan bu araç, geniş eklenti desteği sayesinde farklı programlama dilleri ve platformlar için özelleştirilebilir bir çalışma ortamı sunuyor.
 
-- ★ 193.318
+- ★ 193.616
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 193.318 → 193.616, son sürüm 1.141.0 (7 Ekim 2026).
 - 1 Ekim 2026: Yıldız 193.169 → 193.318, son sürüm 1.140.0 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 193.142 → 193.169, son sürüm 1.139.1 (25 Eylül 2026).
 

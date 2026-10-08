@@ -1,32 +1,29 @@
-# Was ist Assembly?
+# Assembly Definition, Register und Systemarchitektur
 
-Assembler bezieht sich auf zwei grundlegende Konzepte in der Informatik: Erstens die symbolische Programmiersprache der niedrigsten Ebene (Assemblersprache), die den Hardwareprozessor (CPU) direkt steuert; Die zweite besteht darin, kompilierte Softwaremodule (.NET-Assembly) in ein einziges verteilbares Paket umzuwandeln.
+Assembly bezeichnet zwei Kernkonzepte der Informatik: die hardwarenächste symbolische Programmiersprache zur direkten CPU-Steuerung und kompilierte Bereitstellungspakete (.NET Assemblies).
 
-## 1. Programmiersprache auf niedriger Ebene (Assemblersprache)
-Der Computerprozessor versteht nur die binären Signale 0 und 1 (Maschinencode/Opcodes). Die Assemblersprache besteht aus für Menschen lesbaren symbolischen Abkürzungen (Mnemoniken), die diesen rohen Maschinencodes entsprechen:
+## 1. Hardwarenahe Programmiersprache (Assembly Language)
+Prozessoren verarbeiten ausschließlich binäre Maschinencodes (Opcodes). Die Assemblersprache ersetzt diese Bitfolgen durch lesbare Mnemonics:
 
-## 2. Prozessorregister und x86-64-Architektur
-Die kritischsten Register auf einem modernen 64-Bit-x86-64-Prozessor sind:
+## 2. CPU-Register und x86-64-Architektur
+Moderne 64-Bit-Prozessoren der x86-64-Familie verfügen über spezialisierte und universelle Register:
 
-## 3. CISC vs. RISC: Unterschied zwischen x86-64 und ARM64
-Die x86-64-Architektur arbeitet mit der CISC-Philosophie (Complex Instruction Set). Es verfügt über variable Befehlsgrößen und umfangreiche Befehle, die direkt im Speicher ausgeführt werden können. ARM64 (Apple Silicon, Mobile) basiert auf RISC (Reduced Instruction Set); Mit seiner festen 32-Bit-Befehlslänge und der Load-Store-Architektur bietet es eine hervorragende Energieeffizienz.
+## 3. CISC vs. RISC: Unterschiede zwischen x86-64 und ARM64
+Die x86-64-Architektur basiert auf dem CISC-Prinzip (komplexer Befehlssatz) mit variabler Befehlslänge und direkten Speicheroperationen. ARM64 (Apple Silicon, moderne Mobilprozessoren) nutzt hingegen RISC (reduzierter Befehlssatz) mit festen 32-Bit-Befehlen und strikter Load-Store-Architektur für höchste Energieeffizienz.
 
-## 4. Beispiel für Systemaufrufe (Syscall) und Linux x86-64
+## 4. Systemaufrufe (Syscalls) und Linux-x86-64-Beispiel
 
-## 5. .NET Assembly und WebAssembly (WASM)
+## 5. .NET Assemblies und WebAssembly (WASM)
 
-## Häufige Fragen
-**Was bedeutet Montage und was bewirkt sie?**
-Assembler ist die unterste symbolische Programmiersprache, die 1 zu 1 dem Hardware-Befehlssatz des Computerprozessors entspricht. Es wird zur direkten Steuerung von CPU-Registern und Speicher verwendet.
+## Häufig gestellte Fragen
+**Was bedeutet Assembly und wofür wird es verwendet?**
+Es ist die hardwarenächste symbolische Sprache, die Prozessorbefehle direkt abbildet und vor allem für Betriebssysteme, Treiber und IT-Sicherheitsanalysen genutzt wird.
 
-**Was ist der Unterschied zwischen Assembler und Compiler?**
-Der Compiler (C, C++, Rust) analysiert und optimiert und übersetzt komplexe menschliche Logik und Schleifen in Maschinencode. Assembler hingegen wandelt Assembleranweisungen, die bereits symbolische Versionen von Maschinencode sind, direkt in binären Bytecode um.
+**Was unterscheidet einen Assembler von einem Compiler?**
+Ein Compiler übersetzt komplexe, abstrakte Programmiersprachen in Maschinencode, während ein Assembler einfache Mnemonics eins zu eins in Prozessor-Opcodes überführt.
 
-**Wo wird Assemblersprache heute noch verwendet?**
-Es wird aktiv in Betriebssystemkernen (Bootloader), Hardware-Gerätetreibern, Reverse Engineering, Malware-Analyse, Cyber-Schwachstellenerkennung und eingebetteten Systemen (IoT/Mikrocontroller) eingesetzt.
-
-**Was ist der Unterschied zwischen CISC und RISC?**
-CISC (x86-64) verfügt über einen umfangreichen Befehlssatz, der mehrere Unterprozesse und Speicherzugriffe in einem einzigen Befehl ausführen kann; RISC (ARM) hingegen ist eine vereinfachte und energieeffiziente Architektur, die jeden Befehl in einem einzigen Taktzyklus ausführt.
+**Wo kommt Assembly heute noch zum Einsatz?**
+In Bootloadern, Echtzeit-Betriebssystemen, Reverse-Engineering, Firmware für Mikrocontroller und hochoptimierten Kryptografie-Bibliotheken.
 
 
 ## Verwandte Begriffe
@@ -37,7 +34,6 @@ CISC (x86-64) verfügt über einen umfangreichen Befehlssatz, der mehrere Unterp
 - [Emulator](/de/dictionary/emulator/)
 
 ## Verwandte Werkzeuge
-- [Ghidra](/de/discover/ghidra/)
 - [Apollo-11](/de/discover/apollo-11/)
 
 ---

@@ -39,6 +39,7 @@ Skripte mit bekannter Herkunft ja. Ein aus dem Internet heruntergeladenes Skript
 ## Verwandte Werkzeuge
 - [NVM](/de/discover/nvm/)
 - [Omarchy](/de/discover/omarchy/)
+- [Cmux](/de/discover/cmux/)
 - [Meshery](/de/discover/meshery/)
 - [Tradingview MCP](/de/discover/tradingview-mcp/)
 

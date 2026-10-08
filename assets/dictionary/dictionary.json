@@ -8994,5 +8994,57 @@
     "kisa_pt": "É a ponte que permite que softwares e agentes de inteligência artificial pesquisem na internet e recebam resultados atualizados como dados estruturados.",
     "kisa_es": "Es el puente que permite al software y a los agentes de inteligencia artificial realizar búsquedas en internet y obtener resultados actualizados como datos estructurados.",
     "kisa_de": "Es ist die Brücke, die es Software und KI-Agenten ermöglicht, im Internet zu suchen und aktuelle Ergebnisse als strukturierte Daten zu erhalten."
+  },
+  {
+    "slug": "debugger",
+    "en": "Debugger",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımlardaki hataları adım adım izleyerek bulup düzeltmeyi sağlayan hata ayıklama aracıdır.",
+    "date": "2026-10-07",
+    "kisa_en": "It is a debugging tool that allows finding and fixing errors in software by tracking them step-by-step.",
+    "kisa_fr": "Il s'agit d'un outil de débogage qui permet de trouver et de corriger les erreurs dans les logiciels en les suivant étape par étape.",
+    "kisa_pt": "É uma ferramenta de depuração que permite encontrar e corrigir erros em softwares, rastreando-os passo a passo.",
+    "kisa_es": "Es una herramienta de depuración que permite encontrar y corregir errores en el software mediante el seguimiento paso a paso.",
+    "kisa_de": "Ein Debugging-Tool, das das schrittweise Aufspüren und Beheben von Fehlern in Software ermöglicht."
+  },
+  {
+    "slug": "multi-process",
+    "en": "Multi-process",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir bilgisayar programının, işlerini birbirinden tamamen bağımsız ve kendi özel bellek alanına sahip birden fazla alt sürece bölerek aynı anda çalıştırma yöntemidir.",
+    "date": "2026-10-07",
+    "kisa_en": "It is a method of running a computer program simultaneously by dividing its tasks into multiple subprocesses that are completely independent of each other and have their own private memory space.",
+    "kisa_fr": "Il s'agit d'une méthode d'exécution simultanée d'un programme informatique en divisant ses tâches en plusieurs sous-processus totalement indépendants les uns des autres et disposant de leur propre espace mémoire dédié.",
+    "kisa_pt": "É um método de executar um programa de computador simultaneamente, dividindo suas tarefas em múltiplos subprocessos que são completamente independentes entre si e possuem seu próprio espaço de memória privado.",
+    "kisa_es": "Es un método para ejecutar un programa informático de forma simultánea, dividiendo sus tareas en múltiples subprocesos que son completamente independientes entre sí y que tienen su propio espacio de memoria privado.",
+    "kisa_de": "Eine Methode zur gleichzeitigen Ausführung eines Computerprogramms, bei der seine Aufgaben in mehrere Teilprozesse aufgeteilt werden, die völlig unabhängig voneinander sind und über einen eigenen, privaten Speicherbereich verfügen."
+  },
+  {
+    "slug": "computer-use-2-0",
+    "en": "Computer Use 2.0",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin bilgisayar ekranını bir insan gibi görerek, fare ve klavye hareketleriyle karmaşık yazılımları ve web sitelerini doğrudan yönetebilme yeteneğinin gelişmiş versiyonudur.",
+    "date": "2026-10-07",
+    "kisa_en": "It is the advanced version of the ability of artificial intelligence models to directly manage complex software and websites through mouse and keyboard movements by seeing the computer screen like a human.",
+    "kisa_fr": "Il s'agit de la version avancée de la capacité des modèles d'intelligence artificielle à voir l'écran d'un ordinateur comme un humain et à gérer directement des logiciels et des sites web complexes grâce aux mouvements de la souris et du clavier.",
+    "kisa_pt": "É a versão avançada da capacidade de modelos de inteligência artificial de gerenciar diretamente softwares e sites complexos por meio de movimentos de mouse e teclado, visualizando a tela do computador como um ser humano.",
+    "kisa_es": "Es la versión avanzada de la capacidad de los modelos de inteligencia artificial para ver la pantalla de la computadora como un ser humano y gestionar directamente software y sitios web complejos mediante movimientos del mouse y del teclado.",
+    "kisa_de": "Die fortschrittliche Version der Fähigkeit von KI-Modellen, den Computerbildschirm wie ein Mensch zu sehen und komplexe Software sowie Websites direkt durch Maus- und Tastaturbewegungen zu steuern."
+  },
+  {
+    "slug": "coding-agent-skill",
+    "en": "Coding Agent Skill",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ tabanlı yazılım ajanlarının kod yazma, hata bulma, test etme ve projeyi yayına alma gibi yazılım geliştirme adımlarında uzmanlaştığı yetenek tanımlarıdır.",
+    "date": "2026-10-07",
+    "kisa_en": "These are the skill definitions in which AI-based software agents specialize in software development steps such as writing code, debugging, testing, and deploying projects.",
+    "kisa_fr": "Il s'agit des définitions de compétences dans lesquelles les agents logiciels basés sur l'intelligence artificielle se spécialisent pour les étapes de développement logiciel telles que l'écriture de code, la détection d'erreurs, les tests et le déploiement de projets.",
+    "kisa_pt": "São as definições de habilidades nas quais agentes de software baseados em inteligência artificial se especializam em etapas de desenvolvimento de software, como escrever código, encontrar erros, testar e implantar o projeto.",
+    "kisa_es": "Son las definiciones de habilidades en las que los agentes de software basados en inteligencia artificial se especializan en pasos de desarrollo de software como escribir código, depurar, probar y desplegar proyectos.",
+    "kisa_de": "Fähigkeitsdefinitionen, bei denen sich KI-basierte Software-Agenten auf Schritte der Softwareentwicklung wie das Schreiben von Code, das Finden von Fehlern, das Testen und das Bereitstellen von Projekten spezialisieren."
   }
 ]

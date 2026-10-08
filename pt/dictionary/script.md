@@ -39,6 +39,7 @@ Scripts de fontes confiáveis, sim. Um script obtido da internet não deve ser e
 ## Ferramentas relacionadas
 - [NVM](/pt/discover/nvm/)
 - [Omarchy](/pt/discover/omarchy/)
+- [Cmux](/pt/discover/cmux/)
 - [Meshery](/pt/discover/meshery/)
 - [Tradingview MCP](/pt/discover/tradingview-mcp/)
 

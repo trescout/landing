@@ -28,10 +28,10 @@ Sie laufen in der Regel innerhalb eines Browsers oder über eine Übersetzungssc
 
 ## Verwandte Werkzeuge
 - [Meshery](/de/discover/meshery/)
+- [REA](/de/discover/rea/)
 - [Tinycast](/de/discover/tinycast/)
 - [Stitch Skills](/de/discover/stitch-skills/)
 - [Agent Native](/de/discover/agent-native/)
-- [REA](/de/discover/rea/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/native/

@@ -1,40 +1,41 @@
-# O que é Telemetry?
+# O que é Telemetria (Telemetry)?
 
-Telemetria (medição remota em turco) é a coleta automática de informações de status de software e dispositivos e transmissão para o centro.
+> Inglês: Telemetry · Etimologia: grego tele (longe, distante) + metron (medida)
 
-## Definição e origem da palavra
-A palavra vem das raízes gregas tele (distante) e metron (medida). Os aplicativos enviam relatórios ao desenvolvedor sobre como o software está funcionando: qual recurso está sendo muito usado, onde o aplicativo está travando. É um fluxo de dados que flui silenciosamente em segundo plano para o usuário.
+Telemetria (telemetry) é a coleta, registro e transmissão automatizada de dados de desempenho, registros de eventos, métricas e rastros de diagnóstico a partir de sistemas remotos para plataformas centrais de análise.
 
-## Como conhecer e usar no dia a dia?
-Depuração: Coleta automática de relatórios de falhas.Veredicto do produto: Simplificação do botão menos utilizado.Desempenho: Monitorando o tempo de inicialização de versão para versão.
+## Definição e etimologia
+A palavra se origina dos radicais gregos tele (distante) e metron (medir). No desenvolvimento de software moderno, a telemetria informa continuamente aos engenheiros como suas aplicações se comportam em produção: revelando funcionalidades mais acessadas, gargalos de rede e falhas de execução.
 
-## Profundidade Técnica e Arquitetura
-Os três pilares da observabilidade:
+## Contexto cotidiano e uso prático
+Aplicações práticas da telemetria :
 
-## Coisas frequentemente misturadas
-Pode ser confundido com registro. Log é a única linha de evento. Uma métrica é um resumo numérico. Trace é a jornada do desejo. Telemetria é o nome da coleta e transmissão desses três.
+## Profundidade técnica e arquitetura
+Os Três Pilares da Observabilidade :
 
-## Use em diferentes disciplinas
-Hospital: O monitor do paciente transmite o pulso para a tela da enfermeira.Aviação: Armazenando dados de voo em uma caixa preta.Energia: Os medidores informam o consumo ao centro.
+## Costuma ser confundido com
+Frequentemente confunde-se com simples registros de log. O log é um registro isolado; a telemetria é o conjunto articulado de métricas, traces e logs transmitidos de forma coordenada para uma central de dados.
 
-## Perguntas Frequentes
-**Afeta a minha privacidade?**
-Geralmente são coletados dados anônimos e agregados. Você pode ver quais dados são enviados e desligá-los na seção de configurações do aplicativo.
+## Perspectivas interdisciplinares
+Comparações em outros campos :
 
-**Qual é a diferença com Observabilidade?**
-A telemetria coleta e transmite dados. Observabilidade é a capacidade de compreender o interior do sistema com os dados coletados. Um é o meio, o outro é o objetivo.
+## Perguntas frequentes
+**A telemetria compromete a privacidade dos usuários?**
+Sistemas bem projetados removem dados sensíveis (PII) antes do envio e oferecem mecanismos claros de desativação.
 
-**Pode ser fechado?**
-Na maioria dos aplicativos, sim, ele está desativado nas configurações. Os dispositivos corporativos podem permanecer abertos de acordo com a política.
+**Qual a diferença entre telemetria e monitoramento?**
+A telemetria transporta as medições coletadas; o monitoramento analisa essas medições e dispara alertas operacionais.
 
-**Isso tem um custo?**
-Sim. Há uma taxa de transporte e armazenamento de dados. É por isso que a amostragem é feita em alto tráfego, alguns deles são enviados, não todos os eventos.
+**Por que o padrão OpenTelemetry se tornou tão popular?**
+Porque unifica a instrumentação de métricas e rastros em um formato aberto, sem prender a empresa a um único serviço de análise.
+
+**O que acontece quando o dispositivo fica sem internet?**
+Agentes de telemetria acumulam os eventos em memória ou disco local, enviando-os assim que a conexão for reestabelecida.
 
 
 ## Termos relacionados
 - [Logs](/pt/dictionary/logs/)
 - [Observability](/pt/dictionary/observability/)
-- [Traces](/pt/dictionary/traces/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/telemetry/

@@ -2,7 +2,7 @@
 
 Hindsight provides a learning memory layer for AI agents. By inferring from past interactions and improving agents' decision-making processes, this open-source library enables systems to produce more consistent results over time.
 
-- ★ 44,051
+- ★ 46,537
 - GitHub Trending · 2026-09-25
 
 ## What you get
