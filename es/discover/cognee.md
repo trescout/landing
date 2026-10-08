@@ -2,7 +2,7 @@
 
 Cognee es una plataforma de código abierto que proporciona memoria a largo plazo entre sesiones a agentes de inteligencia artificial. Permite a los agentes almacenar y recuperar datos de forma estructurada, utilizando un motor de gráficos de conocimiento autohospedado.
 
-- ★ 31.225
+- ★ 31.532
 - Python
 - GitHub Trending · 2026-06-22
 

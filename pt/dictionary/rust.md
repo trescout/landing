@@ -31,7 +31,7 @@ Porque é muito rápido e reduz significativamente os erros de software.
 - [OpenCut](/pt/discover/opencut/)
 - [Vaultwarden](/pt/discover/vaultwarden/)
 - [Openinterpreter](/pt/discover/openinterpreter/)
-- [Ladybird](/pt/discover/ladybird/)
+- [AI Engineering from Scratch](/pt/discover/ai-engineering-from-scratch/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/rust/

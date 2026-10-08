@@ -1,0 +1,567 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-07",
+  "capturedAt": "2026-10-07T11:05:52.463Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "summary": "Developed by Epic Games, raddebugger is a native and visual debugger written in C. Offering multi-process support, this tool runs in user mode for software developers to detect application errors.",
+          "meta": "C · ★ 7,693 · +82 today",
+          "snapshot": {
+            "sourceId": "EpicGames/raddebugger",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 7693,
+              "engagementCount": 82,
+              "rank": 7,
+              "extra": {
+                "starsToday": 82
+              }
+            }
+          }
+        },
+        {
+          "title": "manaflow-ai/cmux",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "summary": "cmux, a Ghostty-based macOS terminal, offers vertical tabs and notification support for AI coding agents. Focused on multitasking and programmability, this tool helps developers organize their work environments.",
+          "meta": "Swift · ★ 27,683 · +50 today",
+          "snapshot": {
+            "sourceId": "manaflow-ai/cmux",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 27683,
+              "engagementCount": 50,
+              "rank": 9,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4//",
+          "summary": "Mistral Large 4, developed by Mistral AI, is a new large language model optimized for complex reasoning and multilingual content generation. The model aims to offer high performance, especially in technical tasks such as coding and mathematical problem solving.",
+          "meta": "1,837 points · 1,106 comments",
+          "snapshot": {
+            "sourceId": "49977979",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 1837,
+              "engagementCount": 1106,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49977979",
+                  "popularity": 1837,
+                  "engagementCount": 1106
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-10-06T13:15:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49977979"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49977979",
+              "popularity": 1837,
+              "engagementCount": 1106
+            }
+          ]
+        },
+        {
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "summary": "OpenAI is sharing research preprints prepared to improve the mathematical reasoning capabilities of artificial intelligence models in a public repository. This initiative aims to transparently document progress in the development process of models capable of solving complex mathematical problems.",
+          "meta": "954 points · 898 comments",
+          "snapshot": {
+            "sourceId": "49984923",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 954,
+              "engagementCount": 898,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49984923",
+                  "popularity": 954,
+                  "engagementCount": 898
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "OfficialTurkey",
+                "createdAt": "2026-10-06T22:17:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49984923"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49984923",
+              "popularity": 954,
+              "engagementCount": 898
+            }
+          ]
+        },
+        {
+          "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+          "summary": "Google has released Gemma 2, an open-source and lightweight embedding model capable of representing text and image data in vector space. This model allows developers to process multimodal data more efficiently in applications such as search and classification.",
+          "meta": "340 points · 35 comments",
+          "snapshot": {
+            "sourceId": "49980487",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 340,
+              "engagementCount": 35,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49980487",
+                  "popularity": 340,
+                  "engagementCount": 35
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ilreb",
+                "createdAt": "2026-10-06T16:03:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49980487"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49980487",
+              "popularity": 340,
+              "engagementCount": 35
+            }
+          ]
+        },
+        {
+          "title": "Decisions API is in public beta",
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "summary": "OpenAI has released the Decisions API, which allows for the management of artificial intelligence models' decision-making processes, in public beta. This tool helps developers obtain more reliable results by limiting model outputs with specific rules and logical frameworks.",
+          "meta": "312 points · 155 comments",
+          "snapshot": {
+            "sourceId": "49984025",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 312,
+              "engagementCount": 155,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49984025",
+                  "popularity": 312,
+                  "engagementCount": 155
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "chiefstorm",
+                "createdAt": "2026-10-06T20:57:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49984025"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49984025",
+              "popularity": 312,
+              "engagementCount": 155
+            }
+          ]
+        },
+        {
+          "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+          "url": "https://github.com/FeSens/openTPU",
+          "summary": "OpenTPU is an open-source AI accelerator architecture designed by artificial intelligence. It aims to facilitate access to custom processor designs by automating hardware development processes.",
+          "meta": "292 points · 345 comments",
+          "snapshot": {
+            "sourceId": "49980715",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 292,
+              "engagementCount": 345,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49980715",
+                  "popularity": 292,
+                  "engagementCount": 345
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "fsbonetto",
+                "createdAt": "2026-10-06T16:23:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49980715"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49980715",
+              "popularity": 292,
+              "engagementCount": 345
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "autotrust/GEV-26B-Decide",
+          "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+          "summary": "GEV-26B-Decide, published on Hugging Face, is an AI model optimized for text classification tasks. It specializes in analyzing complex datasets and categorizing texts into specific groups.",
+          "meta": "♥ 940 · 895,867 downloads",
+          "snapshot": {
+            "sourceId": "autotrust/GEV-26B-Decide",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 940,
+              "engagementCount": 895867,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 779,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "gemma4",
+                  "image-text-to-text",
+                  "system-one",
+                  "system-two",
+                  "adaptive-thinking",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "lora",
+                  "mixture-of-experts",
+                  "multimodal",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "base_model:google/gemma-4-26B-A4B-it",
+                  "base_model:adapter:google/gemma-4-26B-A4B-it",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "EmbeddingGemma-2, developed by Google, is a feature-extraction model that converts text into numerical vectors. This model is designed to improve the performance of large language models in tasks such as semantic search and data clustering.",
+          "meta": "♥ 740 · 7,562 downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 740,
+              "engagementCount": 7562,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 722,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks",
+          "url": "https://huggingface.co/papers/2610.06104",
+          "summary": "Conditional Trajectory Peaks offers a single-pass policy framework for multimodal imitation learning. This method enables robotic systems to make consistent decisions across different future scenarios by simultaneously predicting action chunks and trajectory scales.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.06104",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06104",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies",
+          "url": "https://huggingface.co/papers/2610.06090",
+          "summary": "Execution-Aligned Progressive Noise, developed for generative robot policies, resolves inconsistencies encountered by robots during real-time planning processes. This method aligns a shared noise trajectory with actual motion data, allowing the robot to maintain its actions seamlessly and stably.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.06090",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06090",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation",
+          "url": "https://huggingface.co/papers/2609.39822",
+          "summary": "Vision-language-action models attempt to bridge the timing gap between low-speed inference processes and the high-speed operational requirements of robots. To address this latency, researchers propose a stage-aware two-step flow denoising method, aiming to harmonize model inference with robotic response time.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.39822",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.39822",
+                "publishedAt": "2026-10-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/MagiclabRobotics/Inference"
+              }
+            }
+          }
+        },
+        {
+          "title": "Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence",
+          "url": "https://huggingface.co/papers/2609.39870",
+          "summary": "Magic-W0 is a world-action foundation model developed to help robotic systems manage physical interactions more effectively. By modeling physical state changes and continuous actions in an integrated structure, it enables robots to learn their interactions with the environment in a more structured way.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.39870",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.39870",
+                "publishedAt": "2026-10-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/MagiclabRobotics/Magic-W0"
+              }
+            }
+          }
+        },
+        {
+          "title": "WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification",
+          "url": "https://huggingface.co/papers/2610.07384",
+          "summary": "WildMatch is an image matching method developed for the individual identification of animals in images obtained from camera traps. Using weakly supervised learning, it aims to detect the correct individual with limited labeled data by analyzing local features such as animal fur or skin patterns.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.07384",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.07384",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/turhancan97/WildMatch"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+          "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+          "summary": "The Janet programming language can be run on the x32 application binary interface (ABI), which combines 32-bit pointers with 64-bit processor speed. This structure reduces memory usage by 25 percent, allowing for more efficient use of system resources.",
+          "meta": "46 points · 10 comments",
+          "snapshot": {
+            "sourceId": "am1cuw",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 46,
+              "engagementCount": 10,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25",
+                  "popularity": 46,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux",
+                  "performance"
+                ],
+                "createdAt": "2026-10-06T17:26:46.902-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25",
+              "popularity": 46,
+              "engagementCount": 10
+            }
+          ]
+        },
+        {
+          "title": "That Time I Worked With a Laptop Thief (2025)",
+          "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+          "summary": "It conveys the effects of security breaches and cybercrimes in the work environment through a personal experience in software development processes. It illustrates the importance of corporate security protocols and internal team audit mechanisms with a concrete case.",
+          "meta": "63 points · 11 comments",
+          "snapshot": {
+            "sourceId": "0slgpl",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 63,
+              "engagementCount": 11,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025",
+                  "popularity": 63,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-10-06T15:16:33.717-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025",
+              "popularity": 63,
+              "engagementCount": 11
+            }
+          ]
+        },
+        {
+          "title": "Brut, the Brutal Router for Unix Tools",
+          "url": "https://brut.sh/",
+          "summary": "Brut is a router that connects command-line tools to each other on Unix-based systems. Designed to simplify complex pipeline operations, this tool manages data flow between commands in a more organized structure.",
+          "meta": "29 points · 16 comments",
+          "snapshot": {
+            "sourceId": "dwbksa",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 16,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dwbksa/brut_brutal_router_for_unix_tools",
+                  "popularity": 29,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "show",
+                  "unix"
+                ],
+                "createdAt": "2026-10-06T12:17:23.875-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dwbksa/brut_brutal_router_for_unix_tools",
+              "popularity": 29,
+              "engagementCount": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "debugger",
+      "explanation": "A utility program that allows code to be traced step-by-step to find and fix errors within software."
+    },
+    {
+      "term": "multi-process",
+      "explanation": "A computer's ability to perform multiple tasks simultaneously as independent processes."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    }
+  ]
+}

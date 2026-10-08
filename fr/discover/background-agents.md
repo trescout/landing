@@ -2,7 +2,7 @@
 
 Développé par ColeMurray, background-agents est un système de codage d'agents d'arrière-plan open source basé sur TypeScript. Il permet aux développeurs de créer des agents d'intelligence artificielle (agents IA) qui exécutent des processus autonomes au sein des applications.
 
-- ★ 2 329
+- ★ 3 335
 - TypeScript
 - GitHub Trending · 2026-07-13
 

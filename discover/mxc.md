@@ -2,9 +2,12 @@
 
 Microsoft tarafından geliştirilen MXC, Rust diliyle yazılmış politika tabanlı, katmanlı bir yalıtım ve kapsayıcılık (isolation and containment) çözümüdür. Sistem kaynaklarını güvenli bir şekilde sınırlandırmak ve uygulama güvenliğini artırmak amacıyla tasarlanmıştır.
 
-- ★ 641
+- ★ 1.398
 - Rust
 - GitHub Trending · 2026-06-07
+
+## Güncelleme
+- 7 Ekim 2026: Yıldız 641 → 1.398, son sürüm v1.0.0 (7 Ekim 2026).
 
 ## Ne kazandırır?
 - Güvenilmeyen kodları yalıtılmış ortamlarda güvenle çalıştırır.

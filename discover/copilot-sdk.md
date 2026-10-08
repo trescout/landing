@@ -2,14 +2,14 @@
 
 GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini sağlayan çok platformlu bir yazılım geliştirme kiti (SDK) sunuyor. Java diliyle hazırlanan bu araç, özelleştirilmiş yapay zekâ iş akışlarının farklı platformlarda standart bir yapıyla oluşturulmasına olanak tanıyor.
 
-- ★ 10.534
+- ★ 10.544
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
+- 7 Ekim 2026: Yıldız 10.534 → 10.544, son sürüm v1.0.17 (7 Ekim 2026).
 - 1 Ekim 2026: Yıldız 10.526 → 10.534, son sürüm v1.0.16 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 10.478 → 10.526, son sürüm v1.0.15 (28 Eylül 2026).
 - 16 Eylül 2026: Yıldız 10.460 → 10.478, son sürüm v1.0.14 (16 Eylül 2026).
-- 5 Eylül 2026: Yıldız 10.412 → 10.460, son sürüm v1.0.13 (4 Eylül 2026).
 
 ## Ne kazandırır?
 - Copilot motorunu uygulamalarınıza entegre edin

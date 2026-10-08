@@ -33,7 +33,7 @@ Because it is very fast and significantly reduces software errors.
 - [OpenCut](/en/discover/opencut/)
 - [Vaultwarden](/en/discover/vaultwarden/)
 - [Openinterpreter](/en/discover/openinterpreter/)
-- [Ladybird](/en/discover/ladybird/)
+- [AI Engineering from Scratch](/en/discover/ai-engineering-from-scratch/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rust/

@@ -40,7 +40,7 @@ Yes, MCP has a structure that keeps data access permissions under control, thus 
 - [Fastmcp](/en/discover/fastmcp/)
 - [Context Mode](/en/discover/context-mode/)
 - [Unity MCP](/en/discover/unity-mcp/)
-- [DesktopCommanderMCP](/en/discover/desktopcommandermcp/)
+- [REA](/en/discover/rea/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/model-context-protocol/

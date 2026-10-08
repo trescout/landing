@@ -2,9 +2,12 @@
 
 ColeMurray tarafından geliştirilen background-agents, TypeScript tabanlı açık kaynaklı bir arka plan ajanları kodlama sistemidir. Geliştiricilerin uygulamalar içerisinde otonom süreçler yürüten yapay zekâ ajanları (AI agents) oluşturmasına olanak tanır.
 
-- ★ 2.329
+- ★ 3.335
 - TypeScript
 - GitHub Trending · 2026-07-13
+
+## Güncelleme
+- 7 Ekim 2026: Yıldız 2.329 → 3.335.
 
 ## Ne kazandırır?
 - Arka planda otonom görevler yürütme

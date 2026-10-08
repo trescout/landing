@@ -2,7 +2,7 @@
 
 OpenAI-Plugins ermöglichen Sprachmodellen den Zugriff auf aktuelle Daten und die Interaktion mit Drittanwendungen. Diese Struktur ermöglicht es künstlicher Intelligenz, komplexe Aufgaben mithilfe externer Tools auszuführen.
 
-- ★ 6.331
+- ★ 7.334
 - JavaScript
 - GitHub Trending · 2026-06-06
 

@@ -2,7 +2,7 @@
 
 AirLLM es una biblioteca de código abierto revolucionaria que ejecuta grandes modelos de lenguaje (LLM) gigantescos de 70 mil millones y 405 mil millones de parámetros en tarjetas gráficas estándar de nivel de consumo con solo 4 GB de memoria de video (VRAM), sin necesidad de servidores empresariales ni costosos clústeres de GPU.
 
-- ★ 33.755
+- ★ 35.481
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 

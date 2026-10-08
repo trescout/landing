@@ -2,7 +2,7 @@
 
 OpenGym is an open-source gym management tool used to plan workout routines and track bodyweight exercises. Allowing users to host their data on their own servers, this software supports data imports from popular fitness applications (Strong, Hevy).
 
-- ★ 4,847
+- ★ 6,329
 - JavaScript
 - GitHub Trending · 2026-10-05
 

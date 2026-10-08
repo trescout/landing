@@ -2,7 +2,7 @@
 
 Background-Agents wurde von ColeMurray entwickelt und ist ein Open-Source-Codierungssystem für Hintergrundagenten, das auf TypeScript basiert. Es ermöglicht Entwicklern, Agenten der künstlichen Intelligenz (KI-Agenten) zu erstellen, die autonome Prozesse innerhalb von Anwendungen ausführen.
 
-- ★ 2.329
+- ★ 3.335
 - TypeScript
 - GitHub Trending · 2026-07-13
 

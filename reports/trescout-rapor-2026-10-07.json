@@ -1,0 +1,962 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-07",
+  "capturedAt": "2026-10-07T11:05:52.463Z",
+  "editorial": "Bugünün gündemini büyük dil modellerinin (large language models) yeteneklerini robotik kontrol ve matematiksel akıl yürütme ile birleştiren teknik ilerlemeler oluşturuyor. Özellikle bellek yönetimi ve işlemci mimarisi verimliliğine odaklanan düşük seviyeli yazılım geliştirmeleri, donanım kaynaklarının daha etkin kullanımı konusunda yeni bir standart belirliyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her türlü yazılımı çözümlemek için yapay zekâ ajanlarını kullanan bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu proje, karmaşık sistemlerin analizini otomatize ederek yazılımın çalışma mantığını anlamayı kolaylaştırır.",
+          "meta": "TypeScript · ★ 11.306 · +2.956 bugün",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11306,
+              "engagementCount": 2956,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2956
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım geliştiricilerin yapay zekâ ajanları (AI agents) için hazırladığı özelleştirilmiş yetenek paketlerini (skills) bir araya getiriyor. Geliştiricilerin kendi çalışma ortamlarında kullandığı bu hazır komut setleri, otomasyon süreçlerini standartlaştırmayı ve hızlandırmayı amaçlıyor.",
+          "meta": "Shell · ★ 278.753 · +889 bugün",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 278753,
+              "engagementCount": 889,
+              "rank": 2,
+              "extra": {
+                "starsToday": 889
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5, PlayStation 5 çalıştırılabilir dosyalarını (executables) Linux ve Windows işletim sistemlerine otomatik olarak taşıyan bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol oyunlarının farklı platformlarda çalıştırılabilmesi için gerekli dönüştürme süreçlerini kolaylaştırır.",
+          "meta": "C++ · ★ 7.986 · +949 bugün",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 7986,
+              "engagementCount": 949,
+              "rank": 3,
+              "extra": {
+                "starsToday": 949
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Yazılım geliştirme ajanlarının karmaşık ve uzun yanıtlar vermesini engelleyen i-have-adhd, çıktıları dikkat eksikliği ve hiperaktivite bozukluğu (ADHD) olan kullanıcılar için daha anlaşılır hale getiriyor. Python tabanlı bu araç, yapay zekâ modellerinin verdiği bilgileri doğrudan ve odaklanmış bir yapıda sunarak bilişsel yükü azaltmayı hedefliyor.",
+          "meta": "Python · ★ 54.672 · +326 bugün",
+          "snapshot": {
+            "sourceId": "ayghri/i-have-adhd",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 54672,
+              "engagementCount": 326,
+              "rank": 4,
+              "extra": {
+                "starsToday": 326
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design, kod yazma araçları (Claude Code, GitHub Copilot) için hazırlanan 42 farklı türde düzenleyici şema tasarımı sunuyor. Harici bağımlılık içermeyen HTML ve SVG formatındaki bu görseller, karmaşık şema dillerinden (Mermaid) kaçınarak sade bir görselleştirme imkânı sağlıyor.",
+          "meta": "HTML · ★ 44.395 · +228 bugün",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 44395,
+              "engagementCount": 228,
+              "rank": 5,
+              "extra": {
+                "starsToday": 228
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından geliştirilen agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Yazılım geliştirme süreçlerini otomatize eden bu kütüphane, ajanların karmaşık görevleri daha tutarlı ve güvenilir şekilde yerine getirmesini sağlıyor.",
+          "meta": "JavaScript · ★ 102.310 · +453 bugün",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 102310,
+              "engagementCount": 453,
+              "rank": 6,
+              "extra": {
+                "starsToday": 453
+              }
+            }
+          }
+        },
+        {
+          "title": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "summary": "Epic Games tarafından geliştirilen raddebugger, C diliyle yazılmış yerel ve görsel bir hata ayıklayıcıdır (debugger). Çoklu süreç (multi-process) desteği sunan bu araç, yazılım geliştiricilerin uygulama hatalarını tespit etmesi için kullanıcı modunda çalışır.",
+          "meta": "C · ★ 7.693 · +82 bugün",
+          "snapshot": {
+            "sourceId": "EpicGames/raddebugger",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 7693,
+              "engagementCount": 82,
+              "rank": 7,
+              "extra": {
+                "starsToday": 82
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem, yapay zekâ ajanlarının oturumlar arası kalıcı bağlam (persistent context) kurmasını sağlayan bir araçtır. Ajanın geçmiş etkileşimlerini yapay zekâ ile sıkıştırarak gelecekteki oturumlara aktarır ve Claude Code gibi çeşitli kodlama yardımcılarının hafızasını güçlendirir.",
+          "meta": "TypeScript · ★ 97.391 · +534 bugün",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 97391,
+              "engagementCount": 534,
+              "rank": 8,
+              "extra": {
+                "starsToday": 534
+              }
+            }
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "manaflow-ai/cmux",
+          "url": "https://github.com/manaflow-ai/cmux",
+          "summary": "Ghostty tabanlı bir macOS terminali olan cmux, dikey sekmeler ve yapay zekâ kodlama ajanları için bildirim desteği sunuyor. Çoklu görev yönetimi ve programlanabilirlik odaklı bu araç, geliştiricilerin çalışma ortamlarını düzenlemelerine yardımcı oluyor.",
+          "meta": "Swift · ★ 27.683 · +50 bugün",
+          "snapshot": {
+            "sourceId": "manaflow-ai/cmux",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 27683,
+              "engagementCount": 50,
+              "rank": 9,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua, bilgisayar kullanımını otomatikleştiren sistemler (computer-use 2.0) için açık kaynaklı sürücüler, platformlar arası filo yönetimi ve performans ölçüm araçları sunuyor. Rust diliyle geliştirilen bu altyapı, yapay zekâ ajanlarının eğitimi, değerlendirilmesi ve veri üretimi süreçlerini standartlaştırmayı amaçlıyor.",
+          "meta": "Rust · ★ 28.546 · +229 bugün",
+          "snapshot": {
+            "sourceId": "trycua/cua",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 28546,
+              "engagementCount": 229,
+              "rank": 10,
+              "extra": {
+                "starsToday": 229
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Cloudflare tarafından geliştirilen security-audit-skill, yazılım ajanlarının çok aşamalı güvenlik denetimleri yapmasını sağlayan bir kodlama yeteneğidir (coding-agent skill). Makine tarafından okunabilir ve bağımsız olarak doğrulanmış bulgular üreterek güvenlik süreçlerini standartlaştırır.",
+          "meta": "JavaScript · ★ 25.565 · +538 bugün",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 25565,
+              "engagementCount": 538,
+              "rank": 11,
+              "extra": {
+                "starsToday": 538
+              }
+            }
+          }
+        },
+        {
+          "title": "tester-army/e2e",
+          "url": "https://github.com/tester-army/e2e",
+          "summary": "TypeScript tabanlı e2e, web ve mobil uygulamalar için yeni nesil uçtan uca test çerçevesi (framework) sunuyor. Geliştiricilerin uygulama süreçlerini otomatize etmesini sağlayan bu araç, test yazımını standartlaştırmayı hedefliyor.",
+          "meta": "TypeScript · ★ 6.842 · +1.725 bugün",
+          "snapshot": {
+            "sourceId": "tester-army/e2e",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6842,
+              "engagementCount": 1725,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1725
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "DuarteSantos8/openGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "summary": "OpenGym, kullanıcıların antrenman rutinlerini planlamasına ve vücut ağırlığı egzersizlerini takip etmesine olanak tanıyan, kendi sunucunuzda barındırabileceğiniz (self-hosted) bir spor takip uygulamasıdır. FitNotes, Strong ve Hevy gibi popüler antrenman kayıt araçlarından veri aktarımını destekleyen bu yazılım, verilerin gizliliğini koruyarak kas gelişimini ve yorgunluk durumunu detaylı analiz etmenizi sağlar.",
+          "meta": "JavaScript · ★ 6.288 · +1.419 bugün",
+          "snapshot": {
+            "sourceId": "DuarteSantos8/openGym",
+            "capturedAt": "2026-10-07T11:05:53.641Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6288,
+              "engagementCount": 1419,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1419
+              }
+            }
+          },
+          "streakDays": 3
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4//",
+          "summary": "Mistral AI tarafından geliştirilen Mistral Large 4, karmaşık mantık yürütme ve çok dilli içerik üretimi için optimize edilmiş yeni bir büyük dil modeli (large language model). Model, özellikle kod yazma ve matematiksel problem çözme gibi teknik görevlerde yüksek performans sunmayı hedefliyor.",
+          "meta": "1.837 oy · 1.106 yorum",
+          "snapshot": {
+            "sourceId": "49977979",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 1837,
+              "engagementCount": 1106,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49977979",
+                  "popularity": 1837,
+                  "engagementCount": 1106
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-10-06T13:15:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49977979"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49977979",
+              "popularity": 1837,
+              "engagementCount": 1106
+            }
+          ]
+        },
+        {
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "summary": "OpenAI, yapay zekâ modellerinin matematiksel akıl yürütme yeteneklerini geliştirmek amacıyla hazırladığı araştırma ön baskılarını (preprints) herkese açık bir veri deposunda paylaşıyor. Bu girişim, karmaşık matematik problemlerini çözebilen modellerin geliştirilme sürecindeki ilerlemeleri şeffaf bir şekilde belgelemeyi hedefliyor.",
+          "meta": "954 oy · 898 yorum",
+          "snapshot": {
+            "sourceId": "49984923",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 954,
+              "engagementCount": 898,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49984923",
+                  "popularity": 954,
+                  "engagementCount": 898
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "OfficialTurkey",
+                "createdAt": "2026-10-06T22:17:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49984923"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49984923",
+              "popularity": 954,
+              "engagementCount": 898
+            }
+          ]
+        },
+        {
+          "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+          "summary": "Google, metin ve görüntü verilerini vektör uzayında temsil edebilen açık kaynaklı ve hafif bir gömme modeli (embedding model) olan Gemma 2'yi yayınladı. Bu model, geliştiricilerin arama ve sınıflandırma gibi uygulamalarda çok modlu (multimodal) verileri daha verimli işlemesini sağlıyor.",
+          "meta": "340 oy · 35 yorum",
+          "snapshot": {
+            "sourceId": "49980487",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 340,
+              "engagementCount": 35,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49980487",
+                  "popularity": 340,
+                  "engagementCount": 35
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ilreb",
+                "createdAt": "2026-10-06T16:03:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49980487"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49980487",
+              "popularity": 340,
+              "engagementCount": 35
+            }
+          ]
+        },
+        {
+          "title": "Decisions API is in public beta",
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "summary": "OpenAI, yapay zekâ modellerinin karar verme süreçlerini yönetmeyi sağlayan Kararlar Arayüzü'nü (Decisions API) genel beta sürümüyle kullanıma sundu. Bu araç, geliştiricilerin model çıktılarını belirli kurallar ve mantıksal çerçevelerle sınırlandırarak daha güvenilir sonuçlar almasına yardımcı oluyor.",
+          "meta": "312 oy · 155 yorum",
+          "snapshot": {
+            "sourceId": "49984025",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 312,
+              "engagementCount": 155,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49984025",
+                  "popularity": 312,
+                  "engagementCount": 155
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "chiefstorm",
+                "createdAt": "2026-10-06T20:57:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49984025"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49984025",
+              "popularity": 312,
+              "engagementCount": 155
+            }
+          ]
+        },
+        {
+          "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+          "url": "https://github.com/FeSens/openTPU",
+          "summary": "OpenTPU, yapay zekâ tarafından tasarlanan açık kaynaklı bir yapay zekâ hızlandırıcı (AI accelerator) mimarisi. Donanım geliştirme süreçlerini otomatize ederek özel işlemci tasarımlarına erişimi kolaylaştırmayı amaçlıyor.",
+          "meta": "292 oy · 345 yorum",
+          "snapshot": {
+            "sourceId": "49980715",
+            "capturedAt": "2026-10-07T11:05:52.755Z",
+            "metadata": {
+              "popularity": 292,
+              "engagementCount": 345,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49980715",
+                  "popularity": 292,
+                  "engagementCount": 345
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "fsbonetto",
+                "createdAt": "2026-10-06T16:23:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49980715"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49980715",
+              "popularity": 292,
+              "engagementCount": 345
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Cloudflare tarafından geliştirilen Clef, görselleri ve metinleri girdi olarak alıp metin tabanlı çıktılar üreten çok modlu bir yapay zekâ modeli (multimodal model). Bu model, karmaşık görsel verileri analiz ederek anlamlı metin açıklamalarına dönüştürme yeteneği sunuyor.",
+          "meta": "♥ 1.743 · 9.513 indirme",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 1743,
+              "engagementCount": 9513,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1568,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "Hugging Face üzerinde paylaşılan JEV-27B-VL, görselleri ve metinleri girdi olarak alıp metin tabanlı çıktılar üreten bir çok modlu (multimodal) yapay zekâ modeli. Bu model, görsel verileri analiz ederek metinle ilişkilendirme yeteneğiyle çeşitli görüntü işleme görevlerinde kullanılıyor.",
+          "meta": "♥ 1.354 · 1.529.210 indirme",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 1354,
+              "engagementCount": 1529210,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1115,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "autotrust/GEV-26B-Decide",
+          "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+          "summary": "Hugging Face üzerinde yayımlanan GEV-26B-Decide, metin sınıflandırma (text classification) görevleri için optimize edilmiş bir yapay zekâ modelidir. Karmaşık veri setlerini analiz ederek metinleri belirli kategorilere ayırma konusunda uzmanlaşmıştır.",
+          "meta": "♥ 940 · 895.867 indirme",
+          "snapshot": {
+            "sourceId": "autotrust/GEV-26B-Decide",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 940,
+              "engagementCount": 895867,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 779,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "gemma4",
+                  "image-text-to-text",
+                  "system-one",
+                  "system-two",
+                  "adaptive-thinking",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "lora",
+                  "mixture-of-experts",
+                  "multimodal",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "base_model:google/gemma-4-26B-A4B-it",
+                  "base_model:adapter:google/gemma-4-26B-A4B-it",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Google tarafından geliştirilen EmbeddingGemma-2, metinleri sayısal vektörlere dönüştüren bir özellik çıkarıcı (feature-extraction) modelidir. Bu model, büyük dil modellerinin (large language models) anlamsal arama ve veri kümeleme gibi görevlerdeki performansını artırmak için tasarlanmıştır.",
+          "meta": "♥ 740 · 7.562 indirme",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 740,
+              "engagementCount": 7562,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 722,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Alman teknoloji şirketi Aleph-Alpha tarafından geliştirilen Kolibri-1, metin üretimi (text-generation) odaklı bir yapay zekâ modeli. Açık kaynak platformu HuggingFace üzerinde paylaşılan bu model, dil işleme süreçlerinde verimliliği artırmayı amaçlıyor.",
+          "meta": "♥ 746 · 5.775 indirme",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-07T11:05:52.634Z",
+            "metadata": {
+              "popularity": 746,
+              "engagementCount": 5775,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 713,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 3
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks",
+          "url": "https://huggingface.co/papers/2610.06104",
+          "summary": "Koşullu Yörünge Zirveleri (Conditional Trajectory Peaks), çok modlu taklit öğrenmede (multimodal imitation learning) tek geçişli bir politika çerçevesi sunuyor. Bu yöntem, eylem parçalarını (action chunks) ve yörünge ölçeklerini eş zamanlı tahmin ederek robotik sistemlerin farklı gelecek senaryoları arasında tutarlı kararlar almasını sağlıyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.06104",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06104",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies",
+          "url": "https://huggingface.co/papers/2610.06090",
+          "summary": "Üretken robot politikaları (generative robot policies) için geliştirilen Yürütme Hizalı Aşamalı Gürültü (Execution-Aligned Progressive Noise), robotların anlık planlama süreçlerinde karşılaştığı tutarsızlıkları gideriyor. Bu yöntem, paylaşılan bir gürültü yörüngesini gerçek hareket verisiyle eşleştirerek robotun eylemlerini kesintisiz ve kararlı bir şekilde sürdürmesini sağlıyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.06090",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06090",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation",
+          "url": "https://huggingface.co/papers/2609.39822",
+          "summary": "Görüntü-dil-eylem (vision-language-action) modelleri, düşük hızdaki çıkarım süreçleri ile robotların yüksek hızdaki çalışma gereksinimleri arasındaki zamanlama farkını aşmaya çalışıyor. Araştırmacılar, bu gecikmeyi gidermek için aşama farkındalıklı iki adımlı akış temizleme (flow denoising) yöntemini önererek model çıkarımı ile robotik tepki süresini uyumlu hale getirmeyi hedefliyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.39822",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.39822",
+                "publishedAt": "2026-10-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/MagiclabRobotics/Inference"
+              }
+            }
+          }
+        },
+        {
+          "title": "Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence",
+          "url": "https://huggingface.co/papers/2609.39870",
+          "summary": "Magic-W0, robotik sistemlerin fiziksel etkileşimlerini daha kontrollü yönetebilmesi için geliştirilen bir dünya-eylem temel modeli (world-action foundation model). Fiziksel durum değişimlerini ve sürekli eylemleri bütünleşik bir yapıda modelleyerek, robotların çevreyle olan etkileşimlerini daha yapılandırılmış bir şekilde öğrenmesini sağlıyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.39870",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.39870",
+                "publishedAt": "2026-10-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/MagiclabRobotics/Magic-W0"
+              }
+            }
+          }
+        },
+        {
+          "title": "WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification",
+          "url": "https://huggingface.co/papers/2610.07384",
+          "summary": "WildMatch, kamera tuzaklarından elde edilen görüntülerde hayvanların bireysel olarak tanımlanması için geliştirilen bir görüntü eşleştirme (image matching) yöntemidir. Zayıf denetimli öğrenme (weakly supervised learning) kullanarak, hayvanların kürk veya deri desenleri gibi yerel özelliklerini analiz edip sınırlı etiketli veriyle doğru bireyi tespit etmeyi hedefler.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.07384",
+            "capturedAt": "2026-10-07T11:05:52.638Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.07384",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/turhancan97/WildMatch"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+          "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+          "summary": "Janet programlama dili, 32-bit işaretçiler (pointers) ile 64-bit işlemci hızını birleştiren x32 uygulama ikili arayüzü (ABI) üzerinde çalıştırılabiliyor. Bu yapı, bellek kullanımını yüzde 25 oranında düşürerek sistem kaynaklarını daha verimli kullanmayı sağlıyor.",
+          "meta": "46 oy · 10 yorum",
+          "snapshot": {
+            "sourceId": "am1cuw",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 46,
+              "engagementCount": 10,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25",
+                  "popularity": 46,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux",
+                  "performance"
+                ],
+                "createdAt": "2026-10-06T17:26:46.902-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25",
+              "popularity": 46,
+              "engagementCount": 10
+            }
+          ]
+        },
+        {
+          "title": "That Time I Worked With a Laptop Thief (2025)",
+          "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+          "summary": "Yazılım geliştirme süreçlerinde güvenlik ihlallerinin ve siber suçların çalışma ortamındaki etkilerini kişisel bir deneyim üzerinden aktarıyor. Kurumsal güvenlik protokollerinin ve ekip içi denetim mekanizmalarının önemini somut bir vaka ile örneklendiriyor.",
+          "meta": "63 oy · 11 yorum",
+          "snapshot": {
+            "sourceId": "0slgpl",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 63,
+              "engagementCount": 11,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025",
+                  "popularity": 63,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-10-06T15:16:33.717-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief_2025",
+              "popularity": 63,
+              "engagementCount": 11
+            }
+          ]
+        },
+        {
+          "title": "Brut, the Brutal Router for Unix Tools",
+          "url": "https://brut.sh/",
+          "summary": "Brut, Unix tabanlı sistemlerde komut satırı araçlarını birbirine bağlayan bir yönlendirici (router). Karmaşık boru hattı (pipeline) işlemlerini basitleştirmek için tasarlanan bu araç, komutlar arası veri akışını daha düzenli bir yapıda yönetiyor.",
+          "meta": "29 oy · 16 yorum",
+          "snapshot": {
+            "sourceId": "dwbksa",
+            "capturedAt": "2026-10-07T11:05:52.806Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 16,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dwbksa/brut_brutal_router_for_unix_tools",
+                  "popularity": 29,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "show",
+                  "unix"
+                ],
+                "createdAt": "2026-10-06T12:17:23.875-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dwbksa/brut_brutal_router_for_unix_tools",
+              "popularity": 29,
+              "engagementCount": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Bir bilgisayarın işletim sisteminin doğrudan, başka bir dönüştürücüye ihtiyaç duymadan çalıştırabildiği hazır program dosyaları."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Bitmiş bir ürünün nasıl çalıştığını anlamak için parçalarına ayrılıp çalışma mantığının çözülmesi süreci."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için dijital araçları kullanabilen otonom yapay zekâ yazılımları."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın belirli bir görevi yerine getirmek için sahip olduğu özel yetenekler veya işlevler."
+    },
+    {
+      "term": "executables",
+      "explanation": "Bilgisayarda çift tıklandığında çalışmaya başlayan ve belirli bir işi yapan uygulama dosyaları."
+    },
+    {
+      "term": "ADHD",
+      "explanation": "Dikkat süresinin kısalığı, aşırı hareketlilik ve dürtü kontrolünde zorlanma ile kendini gösteren nörolojik bir durum."
+    },
+    {
+      "term": "Mermaid",
+      "explanation": "Yazı yazarak karmaşık diyagramlar ve akış şemaları oluşturmanızı sağlayan basit bir araç."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıksal adımlarla çözme, sistem tasarlama ve teknik araçları verimli kullanma becerileri."
+    },
+    {
+      "term": "debugger",
+      "explanation": "Yazılımların içindeki hataları bulup düzeltmek için kodun adım adım izlenmesini sağlayan yardımcı program."
+    },
+    {
+      "term": "multi-process",
+      "explanation": "Bir bilgisayarın aynı anda birden fazla işi birbirinden bağımsız süreçler halinde yürütebilme yeteneği."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "Bir yapay zekânın önceki konuşmaları veya bilgileri unutmadan uzun süreli bir hafızada tutabilmesi."
+    },
+    {
+      "term": "computer-use 2.0",
+      "explanation": "Yapay zekânın bir insan gibi fare ve klavye kullanarak bilgisayar ekranındaki uygulamaları yönetebilme yeteneğinin gelişmiş hali."
+    },
+    {
+      "term": "coding-agent skill",
+      "explanation": "Yapay zekânın yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve proje yönetme konusunda uzmanlaşmış yeteneği."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır yapılar ve kurallar bütünü sunan bir temel çatı."
+    },
+    {
+      "term": "self-hosted",
+      "explanation": "Bir yazılımın başkasının sunucusunda değil, kendi bilgisayarınızda veya size ait bir sunucuda barındırılması."
+    },
+    {
+      "term": "large language model",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}
