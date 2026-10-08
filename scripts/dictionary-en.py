@@ -22,7 +22,7 @@ import os, re, sys, json, html, time, urllib.parse, urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
 from translation_service import translate_text, translate_texts
-from sayfa_koruma import zayiflatir, damgalar, damga_yaz, damga_yolu, elle_duzenlenmis, icerik_damgasi
+from sayfa_koruma import zayiflatir, damgalar, damga_yaz, damga_yolu, elle_duzenlenmis, icerik_damgasi, kayma_freni
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "dictionary")
@@ -442,11 +442,14 @@ def main():
         terms = terms[:LIMIT]
     global _sayfa_eksik
     yazilan = korunan = zayif_korunan = elle_korunan = 0
+    kayan = []  # damgası kayıtlı ama tutmayan · kayma freni
     damga = damgalar(DAMGA)
     for i, term in enumerate(terms, 1):
         # Elle düzenlenmiş sayfa üretilmez, çevirisi de istenmez (bkz. sayfa_koruma.py üretici damgası).
         if elle_duzenlenmis(os.path.join(EN_DIR, term["slug"], "index.html"), damga.get(term["slug"])):
             elle_korunan += 1
+            if damga.get(term["slug"]) is not None:
+                kayan.append(term["slug"])
             print(f"  ! {term['slug']}: elle düzenlenmiş (üretici damgası tutmuyor) · üretilmedi · bırakmak için: python3 scripts/sayfa_koruma.py --birak {LANG}/dictionary/{term['slug']}")
             continue
         _sayfa_eksik = 0
@@ -496,6 +499,17 @@ def main():
     if elle_korunan > max(50, len(terms) // 4):
         print(f"✗ {elle_korunan} sözlük sayfası elle sayıldı · damga dosyası ({DAMGA}) bozulmuş olabilir · python3 scripts/sayfa_koruma.py --baslat --dry")
         raise SystemExit(1)
+    kayma = kayma_freni(len(kayan), "dictionary", LANG)
+    if kayma:
+        print(kayma)
+        raise SystemExit(1)
+    # Fren geçtiyse kayan sayfalar korunan elle sayfalara geçer (kayıt silinir; --birak
+    # eski damgayı kullanmaz). Böylece sayaç her koşuda yalnız YENİ kaymayı ölçer,
+    # meşru elle düzenlemeler birikip freni yanlışlıkla tetiklemez.
+    if kayan and not DRY:
+        for s in kayan:
+            damga.pop(s, None)
+        damga_yaz(DAMGA, damga)
     print(f"✅ {yazilan} {LANG} sözlük sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 
