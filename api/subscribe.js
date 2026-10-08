@@ -22,7 +22,7 @@
  *   - UPSTASH_REDIS_REST_URL · production dağıtık rate limit REST URL
  *   - UPSTASH_REDIS_REST_TOKEN · production dağıtık rate limit REST token
  *   - SUBSCRIBE_NOTIFY_ENABLED · yönetici bildirim e-postası kilidi ·
- *     VARSAYILAN KAPALI. Yalnız 'true' değeri bildirimi açar.
+ *     VARSAYILAN AÇIK (#227). Yalnız 'false' değeri bildirimi kapatır.
  */
 
 import { createRateLimiter } from './rate-limit.mjs';
