@@ -7,6 +7,7 @@ Sharpemu, C# diliyle geliştirilen deneysel bir PlayStation 5 öykünücü (emul
 - GitHub Trending · 2026-07-13
 
 ## Ne kazandırır?
+
 - Oyun konsolu mimarisini inceleme imkânı
 - Yerel CPU komutlarını çalıştırma desteği
 - Oyun dosyalarından meta veri okuma
@@ -15,16 +16,20 @@ Sharpemu, C# diliyle geliştirilen deneysel bir PlayStation 5 öykünücü (emul
 
 Projeyi kullanmak için GitHub sayfasındaki 'Releases' sekmesinden hazır dosyaları indirebilir veya .NET SDK yüklü bilgisayarınızda kaynak kodları derleyebilirsiniz. Derleme işlemi için projeyi bilgisayarınıza kopyalayıp VSCode üzerinden çözüm dosyasını açmanız ve terminalde dotnet build komutunu çalıştırmanız yeterlidir.
 
-- **Kimin için:** Sistem mimarisi ve düşük seviyeli yazılım geliştirme konularına meraklı araştırmacılar ve eğitim amaçlı inceleme yapmak isteyen yazılımcılar içindir. 
-- **Lisans:** GPL-2.0 
+- **Kimin için:** Sistem mimarisi ve düşük seviyeli yazılım geliştirme konularına meraklı araştırmacılar ve eğitim amaçlı inceleme yapmak isteyen yazılımcılar içindir.
+- **Lisans:** GPL-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/par274/sharpemu)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Emulator CPU SDK
+
+- [Emulator](https://trescout.com/dictionary/emulator/)
+- [CPU](https://trescout.com/dictionary/cpu/)
+- [SDK](https://trescout.com/dictionary/sdk/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sharpemu/

@@ -7,9 +7,11 @@ Dioxus, web, masaüstü ve mobil platformlar için tek bir kod tabanıyla uçtan
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 37.762 → 38.444, son sürüm v0.7.10 (30 Temmuz 2026).
+
+- **2 Ağustos 2026:** Yıldız 37.762 → 38.444, son sürüm v0.7.10 (30 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Tek kod tabanıyla web, masaüstü ve mobil uygulama geliştirme
 - Anlık kod yenileme ile hızlı geliştirme süreci
 - React benzeri bileşen yapısı ve tür güvenli fullstack desteği
@@ -43,19 +45,26 @@ dx bundle
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Dioxus kullanarak Rust dilinde web, masaüstü veya mobil platformlar için nasıl uygulama geliştirebilirim? Bileşen tabanlı yapıyı, durum yönetimini ve 'dx serve' komutu ile anlık kod yenileme özelliğini kullanarak basit bir kullanıcı arayüzü oluşturma sürecini adım adım açıkla.
 
-- **Kimin için:** Rust ekosistemini kullanarak tek bir kod tabanıyla çok platformlu uygulamalar geliştirmek isteyen yazılımcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Rust ekosistemini kullanarak tek bir kod tabanıyla çok platformlu uygulamalar geliştirmek isteyen yazılımcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/DioxusLabs/dioxus)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Framework CLI Rust Artificial Intelligence
+
+- [Framework](https://trescout.com/dictionary/framework/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/dioxus/

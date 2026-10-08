@@ -1,35 +1,49 @@
 # Was ist Vibe Coding?
 
+*Glossar · AI · Zuletzt aktualisiert: 19. Juni 2026*
+
 Es handelt sich um einen Ansatz zum Schreiben von Code mit künstlicher Intelligenz, bei dem einfach beschrieben wird, was Sie wollen, ohne auf technische Details einzugehen.
 
 ## Definition
+
 Dabei handelt es sich um eine Methode zur Entwicklung von Anwendungen, bei der der künstlichen Intelligenz Befehle in natürlicher Sprache gegeben werden, anstatt sich im Softwareentwicklungsprozess mit komplexen Codezeilen zu befassen. Dieser Ansatz ermöglicht es dem Entwickler, sich auf die Haptik und Funktion des Produkts zu konzentrieren und nicht auf technische Details. Entscheidend ist nicht, wie der Code geschrieben wird, sondern was das Ergebnis ist.
 
+***Analogie:** Es ist, als würde man in einem Restaurant in die Küche gehen und nicht kochen lernen, sondern dem Koch einfach beschreiben, was man essen möchte, und auf das Ergebnis warten.*
+
 ## So funktioniert es
+
 Der Entwickler gibt dem KI-Tool Befehle, etwa „Eine Schaltfläche mit den folgenden Eigenschaften hinzufügen“ oder „Diesen Fehler beheben“. Künstliche Intelligenz schreibt den Code, testet ihn und präsentiert Ihnen das Ergebnis. Sie steuern einfach den Prozess.
 
 ## Wo es eingesetzt wird
+
 Es findet zunehmende Verbreitung in modernen Codierungstools und durch künstliche Intelligenz unterstützten Entwicklungsumgebungen.
 
 ## Häufig verwechselt mit
+
 Es kann mit Prompt Engineering verwechselt werden, ist aber eher eine Entwicklungsphilosophie.
 
 ## Häufige Fragen
+
 **Kann ein Antrag gestellt werden, ohne den Code zu kennen?**
+
 Ja, viele Anwendungen können mit dieser Methode auf einem grundlegenden Niveau entwickelt werden, bei komplexen Systemen sind jedoch weiterhin technische Kenntnisse erforderlich.
 
 **Warum heißt es Vibe-Codierung?**
+
 Es wird so genannt, weil sich der Entwickler auf den Ablauf und das Gefühl des Projekts konzentriert und nicht auf technische Schwierigkeiten.
 
-
 ## Verwandte Begriffe
-- [AI Coding Agent](/de/dictionary/ai-coding-agent/)
-- [Prompt Engineering](/de/dictionary/prompt-engineering/)
-- [Coding Agent](/de/dictionary/coding-agent/)
+
+- [AI Coding Agent](https://trescout.com/de/dictionary/ai-coding-agent/)
+- [Prompt Engineering](https://trescout.com/de/dictionary/prompt-engineering/)
+- [Coding Agent](https://trescout.com/de/dictionary/coding-agent/)
 
 ## Verwandte Werkzeuge
-- [Claude Code Best Practice](/de/discover/claude-code-best-practice/)
-- [GLM 5](/de/discover/glm-5/)
+
+- [Claude Code Best Practice](https://trescout.com/de/discover/claude-code-best-practice/)
+- [GLM 5](https://trescout.com/de/discover/glm-5/)
+
+Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/vibe-coding/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/vibe-coding/

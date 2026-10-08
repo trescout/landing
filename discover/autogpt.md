@@ -7,12 +7,14 @@ AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom ya
 - GitHub Trending · 2026-08-07
 
 ## Güncelleme
-- 30 Eylül 2026: Yıldız 187.583 → 187.620, son sürüm autogpt-platform-beta-v0.8.2 (30 Eylül 2026).
-- 27 Eylül 2026: Yıldız 187.441 → 187.583, son sürüm autogpt-platform-beta-v0.8.1 (24 Eylül 2026).
-- 19 Eylül 2026: Yıldız 187.139 → 187.441, son sürüm autogpt-platform-beta-v0.8.0 (19 Eylül 2026).
-- 5 Eylül 2026: Yıldız 187.033 → 187.139, son sürüm autogpt-platform-beta-v0.7.4 (4 Eylül 2026).
+
+- **30 Eylül 2026:** Yıldız 187.583 → 187.620, son sürüm autogpt-platform-beta-v0.8.2 (30 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 187.441 → 187.583, son sürüm autogpt-platform-beta-v0.8.1 (24 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 187.139 → 187.441, son sürüm autogpt-platform-beta-v0.8.0 (19 Eylül 2026).
+- **5 Eylül 2026:** Yıldız 187.033 → 187.139, son sürüm autogpt-platform-beta-v0.7.4 (4 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Karmaşık iş akışlarını otomatikleştirerek haftalık zaman tasarrufu sağlar.
 - Doğal dilde verilen komutları çalışan bir yapay zekâ ajanına dönüştürür.
 - Görsel arayüz üzerinden ajan adımlarını özelleştirme ve yönetme imkânı sunar.
@@ -26,18 +28,22 @@ curl -fsSL https://setup.agpt.co/install.sh -o install.sh && bash install.sh
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Belirlediğim hedefe ulaşmak için internette arama yapma, dosya yönetimi ve iş akışı planlama yeteneklerini kullanarak otonom bir ajan oluştur. İşin sonucunu net bir şekilde tanımlamamı bekle ve bu süreçte gerekli tüm adımları otomatik olarak yürüt.
 
-- **Kimin için:** Tekrarlayan iş süreçlerini otomatikleştirmek isteyen ve karmaşık görevleri yapay zekâ ile yönetmek isteyen herkes için uygundur. 
+- **Kimin için:** Tekrarlayan iş süreçlerini otomatikleştirmek isteyen ve karmaşık görevleri yapay zekâ ile yönetmek isteyen herkes için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Significant-Gravitas/AutoGPT)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autogpt/

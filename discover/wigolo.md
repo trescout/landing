@@ -7,10 +7,12 @@ Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama
 - GitHub Trending · 2026-07-19
 
 ## Güncelleme
-- 6 Eylül 2026: Yıldız 4.069 → 5.105, son sürüm v0.2.1 (19 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 1.365 → 4.069, son sürüm v0.2.1 (19 Temmuz 2026).
+
+- **6 Eylül 2026:** Yıldız 4.069 → 5.105, son sürüm v0.2.1 (19 Temmuz 2026).
+- **2 Ağustos 2026:** Yıldız 1.365 → 4.069, son sürüm v0.2.1 (19 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - API anahtarı gerektirmeden ücretsiz arama ve tarama
 - Bulut bağımsız yerel veri işleme ve önbellekleme
 - Popüler yapay zekâ araçlarıyla doğrudan entegrasyon
@@ -20,7 +22,7 @@ Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama
 **Ajan kurulumunu başlatma**
 
 ```
-npx wigolo init --agents= 
+npx wigolo init --agents=<your-agent>
 ```
 
 **Sistem sağlığını kontrol etme**
@@ -30,18 +32,25 @@ npx wigolo doctor
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Wigolo kullanarak web üzerinde araştırma yap, verileri çek ve bulgularını kaynak göstererek sentezle. İşlemleri gerçekleştirirken yerel öncelikli (local-first) çalışma prensibine sadık kal, API anahtarı gerektirmeyen temel araçları kullan ve elde ettiğin sonuçları yapılandırılmış bir şekilde raporla.
 
-- **Kimin için:** Yapay zekâ kodlama ajanlarını yerel web arama ve veri çekme yetenekleriyle güçlendirmek isteyen geliştiriciler için uygundur. 
+- **Kimin için:** Yapay zekâ kodlama ajanlarını yerel web arama ve veri çekme yetenekleriyle güçlendirmek isteyen geliştiriciler için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/KnockOutEZ/wigolo)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Local-first MCP API Artificial Intelligence
+
+- [Local-first](https://trescout.com/dictionary/local-first/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wigolo/

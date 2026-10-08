@@ -7,6 +7,7 @@ SIA, yapay zekâ modellerinin ve ajanların belirli kıyaslama görevlerindeki (
 - GitHub Trending · 2026-06-12
 
 ## Ne kazandırır?
+
 - Yapay zekâ modellerinin görev performansını otonom şekilde artırır.
 - Meta, hedef ve geri bildirim ajanları arasında döngüsel iyileştirme sağlar.
 - Benchmark görevlerinde yüksek doğruluk ve işlem hızı verimliliği sunar.
@@ -28,9 +29,9 @@ python3 -m venv .venv && source .venv/bin/activate
 pip install 'sia-agent[openhands]'
 
 # Export the key(s) for the provider(s) you'll use:
-export ANTHROPIC_API_KEY="..." # for anthropic/* models
-export GEMINI_API_KEY="..." # for gemini/* models (or GOOGLE_API_KEY)
-export OPENAI_API_KEY="..." # for openai/* models
+export ANTHROPIC_API_KEY="..."   # for anthropic/* models
+export GEMINI_API_KEY="..."      # for gemini/* models (or GOOGLE_API_KEY)
+export OPENAI_API_KEY="..."      # for openai/* models
 ```
 
 ## Çalıştırma
@@ -48,19 +49,24 @@ sia web
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 SIA çerçevesini kullanarak bir yapay zekâ ajanının performansını artırmak istiyorum. Kurulumu tamamladıktan sonra, mevcut görevlerden birini seçerek (örneğin gpqa) öz-iyileştirme döngüsünü başlatmak için hangi komutu kullanmalıyım ve süreç sonunda oluşan çıktıları (target_agent.py, agent_execution.json, improvement.md) nasıl yorumlamalıyım? Ayrıca, kendi özel görev dizinimi sisteme nasıl dahil edebilirim?
 
-- **Kimin için:** Yapay zekâ modellerinin performansını otonom iyileştirme süreçleriyle optimize etmek isteyen geliştiriciler ve araştırmacılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ modellerinin performansını otonom iyileştirme süreçleriyle optimize etmek isteyen geliştiriciler ve araştırmacılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/hexo-ai/sia)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Benchmark Artificial Intelligence
+
+- [Benchmark](https://trescout.com/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sia/

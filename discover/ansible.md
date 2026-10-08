@@ -7,12 +7,14 @@ Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştir
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 70.621 → 70.861, son sürüm v2.21.5 (5 Ekim 2026).
-- 9 Eylül 2026: Yıldız 70.299 → 70.621, son sürüm v2.21.4 (8 Eylül 2026).
-- 11 Ağustos 2026: Yıldız 70.171 → 70.299, son sürüm v2.21.3 (10 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 69.245 → 70.171, son sürüm v2.21.2 (13 Temmuz 2026).
+
+- **5 Ekim 2026:** Yıldız 70.621 → 70.861, son sürüm v2.21.5 (5 Ekim 2026).
+- **9 Eylül 2026:** Yıldız 70.299 → 70.621, son sürüm v2.21.4 (8 Eylül 2026).
+- **11 Ağustos 2026:** Yıldız 70.171 → 70.299, son sürüm v2.21.3 (10 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 69.245 → 70.171, son sürüm v2.21.2 (13 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Uzak sistemleri SSH üzerinden yönetin
 - Aracı yazılım kurmadan yapılandırma yapın
 - Karmaşık güncellemeleri kolayca gerçekleştirin
@@ -39,23 +41,26 @@ brew install ansible
 ansible-playbook site.yml
 ```
 
-Kaynak: PyPI (ansible) · Homebrew (ansible) · resmî Ansible dokümantasyonu (docs.ansible.com)
+**Kaynak:** PyPI (ansible) · Homebrew (ansible) · resmî Ansible dokümantasyonu (docs.ansible.com)
 
 ## Nasıl başlanır?
 
 Ansible kurulumu için resmî web sitesindeki kurulum rehberini ziyaret etmeniz gerekir. Farklı işletim sistemleri için hazırlanan detaylı adımlara Ansible'ın resmî dokümantasyon sayfasındaki kurulum kılavuzundan ulaşabilirsiniz.
+
 - [Resmî kaynak →](https://www.ansible.com/)
 
-- **Kimin için:** BT altyapısını ve sunucu yapılandırmalarını otomatikleştirmek isteyen sistem yöneticileri ve yazılım geliştiriciler için uygundur. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** BT altyapısını ve sunucu yapılandırmalarını otomatikleştirmek isteyen sistem yöneticileri ve yazılım geliştiriciler için uygundur.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ansible/ansible)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent
+
+- [Agent](https://trescout.com/dictionary/agent/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ansible/

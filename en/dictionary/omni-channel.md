@@ -1,43 +1,71 @@
 # What is Omni-channel?
 
+*Dictionary · Data · Last updated: September 22, 2026*
+
 Omni-channel refers to the synchronous operation of all sales channels.
 
 ## Definition and Word Origin
+
 Omni means all. The store, website and app are not separate worlds, but doors to a single experience. A product bought online is returned to the store, and one looked at in the store is bought from the mobile app.
 
+***Analogy:** It is like the stage, backstage, and lighting crew harmoniously telling a single story.*
+
 ## How to Know and Use in Daily Life?
-Retail: Try in-store, have it delivered to your door.E-commerce: Carrying the cart across devices.Support: Not losing the context when switching channels.
+
+**Retail:** Try in-store, have it delivered to your door.
+**E-commerce:** Carrying the cart across devices.
+**Support:** Not losing the context when switching channels.
 
 ## Technical Depth and Architecture
+
 Spine:
 
+**Single profile:** Customer and order in a single record.
+**Stock sync:** Store and warehouse show the same number.
+**Return flow:** Channel-independent returns.
+**Price unity:** Label and screen match.
+
+The multi-channel difference: There, channels are many but disconnected. Here, channels are many and connected. One is the sum of storefronts, the other is a single store.
+
 ## Frequently Mixed Things
+
 Mistaken for multi-channel. In that, channels are many; in this, channels are connected. The difference in connection determines loyalty.
 
 ## Use in Different Disciplines
-Theatre: Harmony of the stage, backstage, and lighting.Orchestra: The sections playing a single piece of work.Airport: Transfer baggage system.
+
+**Theatre:** Harmony of the stage, backstage, and lighting.
+**Orchestra:** The sections playing a single piece of work.
+**Airport:** Transfer baggage system.
 
 ## Frequently Asked Questions
+
 **Why is it important?**
+
 If the channel changes, the experience continues and loyalty increases. A disconnected channel loses customers.
 
 **What does it cost?**
+
 It requires integration and data organization. Gradual transition splits the cost.
 
 **Is it suitable for small businesses?**
+
 Yes, in its simple form. It starts with a shared inventory and return system.
 
 **How is it measured?**
+
 By channel transition rate, ease of returns, and repeat purchases.
 
-
 ## Related terms
-- [Omni-channel Desk](/en/dictionary/omni-channel-desk/)
-- [Enterprise Resource Planning](/en/dictionary/enterprise-resource-planning/)
-- [Omni-channel Support](/en/dictionary/omni-channel-support/)
+
+- [Omni-channel Desk](https://trescout.com/en/dictionary/omni-channel-desk/)
+- [Enterprise Resource Planning](https://trescout.com/en/dictionary/enterprise-resource-planning/)
+- [Omni-channel Support](https://trescout.com/en/dictionary/omni-channel-support/)
 
 ## Related tools
-- [Chatwoot](/en/discover/chatwoot/)
+
+- [Chatwoot](https://trescout.com/en/discover/chatwoot/)
+
+This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/omni-channel/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/omni-channel/

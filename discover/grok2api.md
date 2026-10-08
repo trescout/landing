@@ -7,12 +7,14 @@ Grok Build, Grok Web ve Grok Console platformları için geliştirilen bu ağ ge
 - GitHub Trending · 2026-07-15
 
 ## Güncelleme
-- 16 Eylül 2026: Yıldız 7.543 → 7.669, son sürüm v3.1.6 (16 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 7.459 → 7.543, son sürüm v3.1.5 (25 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 7.447 → 7.459, son sürüm v3.1.4 (19 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 7.239 → 7.447, son sürüm v3.1.3 (17 Ağustos 2026).
+
+- **16 Eylül 2026:** Yıldız 7.543 → 7.669, son sürüm v3.1.6 (16 Eylül 2026).
+- **27 Ağustos 2026:** Yıldız 7.459 → 7.543, son sürüm v3.1.5 (25 Ağustos 2026).
+- **19 Ağustos 2026:** Yıldız 7.447 → 7.459, son sürüm v3.1.4 (19 Ağustos 2026).
+- **18 Ağustos 2026:** Yıldız 7.239 → 7.447, son sürüm v3.1.3 (17 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Grok Build, Web ve Console hesaplarını tek panelde birleştirir
 - OpenAI ve Anthropic uyumlu standart API arayüzü sunar
 - Gelişmiş hesap yönetimi, model yönlendirme ve hata yönetimi sağlar
@@ -45,19 +47,26 @@ docker compose down
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Grok2API kurulumunu tamamladım ve yönetici paneline giriş yaptım. Şimdi Grok Build, Web veya Console hesaplarımı sisteme nasıl tanımlayabilirim, model eşleştirmelerini nasıl yaparım ve dışarıdan kullanmak için API anahtarını hangi adımları izleyerek oluşturabilirim? Lütfen bu süreci adım adım açıkla.
 
-- **Kimin için:** Birden fazla Grok hesabını yönetmek isteyen ve bu servisleri kendi uygulamalarında standart bir API üzerinden kullanmayı hedefleyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Birden fazla Grok hesabını yönetmek isteyen ve bu servisleri kendi uygulamalarında standart bir API üzerinden kullanmayı hedefleyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/chenyme/grok2api)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Gateway Gateway API Artificial Intelligence
+
+- [API Gateway](https://trescout.com/dictionary/api-gateway/)
+- [Gateway](https://trescout.com/dictionary/gateway/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grok2api/

@@ -7,12 +7,14 @@ Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş 
 - GitHub Trending · 2026-06-25
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 86.198 → 86.806, son sürüm v1.4.222 (7 Ekim 2026).
-- 6 Ekim 2026: Yıldız 84.652 → 86.198, son sürüm v1.4.221 (5 Ekim 2026).
-- 4 Ekim 2026: Yıldız 84.096 → 84.652, son sürüm v1.4.220 (4 Ekim 2026).
-- 3 Ekim 2026: Yıldız 82.490 → 84.096, son sürüm v1.4.219 (2 Ekim 2026).
+
+- **7 Ekim 2026:** Yıldız 86.198 → 86.806, son sürüm v1.4.222 (7 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 84.652 → 86.198, son sürüm v1.4.221 (5 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 84.096 → 84.652, son sürüm v1.4.220 (4 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 82.490 → 84.096, son sürüm v1.4.219 (2 Ekim 2026).
 
 ## Ne kazandırır?
+
 - Aynı anda birden fazla yapay zekâ ajanını farklı çalışma alanlarında çalıştırın.
 - Mobil uygulama üzerinden ajanlarınızı uzaktan izleyin ve yönlendirin.
 - GitHub ve Linear entegrasyonu ile projeleri uygulama içinden yönetin.
@@ -32,19 +34,26 @@ yay -S stably-orca-bin
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Orca üzerinde birden fazla yapay zekâ ajanını eş zamanlı olarak farklı çalışma alanlarında başlat. Bir komutu beş farklı ajana aynı anda göndererek sonuçları karşılaştır ve en iyi olanı birleştir. Ajanların çalışma durumunu mobil uygulama üzerinden takip etmemi sağla ve süreç tamamlandığında bana bildirim gönder.
 
-- **Kimin için:** Aynı anda birden fazla yapay zekâ ajanıyla çalışan ve projelerini tek bir merkezden yönetmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Aynı anda birden fazla yapay zekâ ajanıyla çalışan ve projelerini tek bir merkezden yönetmek isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/stablyai/orca)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Development Environment Development Environment Agent Artificial Intelligence
+
+- [Agent Development Environment](https://trescout.com/dictionary/agent-development-environment/)
+- [Development Environment](https://trescout.com/dictionary/development-environment/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/orca/

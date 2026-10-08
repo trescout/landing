@@ -7,10 +7,12 @@ Rust ile geliştirilen RustDesk, kendi sunucunuzda barındırabileceğiniz açı
 - GitHub Trending · 2026-08-15
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 120.872 → 124.982, son sürüm 1.5.0 (30 Eylül 2026).
-- 15 Ağustos 2026: Yıldız 120.685 → 120.872, son sürüm 1.4.9 (6 Temmuz 2026).
+
+- **2 Ekim 2026:** Yıldız 120.872 → 124.982, son sürüm 1.5.0 (30 Eylül 2026).
+- **15 Ağustos 2026:** Yıldız 120.685 → 120.872, son sürüm 1.4.9 (6 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Kendi sunucunuzda barındırma imkânı
 - Veri üzerinde tam kontrol
 - Ek yapılandırma gerektirmeyen hazır çözüm
@@ -30,19 +32,24 @@ vcpkg/vcpkg install libvpx libyuv opus aom
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 RustDesk kullanarak uzak masaüstü bağlantısı kurmak istiyorum. Veri güvenliğimi sağlamak adına kendi sunucumu nasıl yapılandırabilirim ve bağlantı sırasında dikkat etmem gereken temel güvenlik ayarları nelerdir?
 
-- **Kimin için:** Uzaktan erişim ve kontrol ihtiyaçlarını, verilerini üçüncü taraf servisler yerine kendi sunucularında tutarak karşılamak isteyen kullanıcılar için uygundur. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Uzaktan erişim ve kontrol ihtiyaçlarını, verilerini üçüncü taraf servisler yerine kendi sunucularında tutarak karşılamak isteyen kullanıcılar için uygundur.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/rustdesk/rustdesk)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Rust Artificial Intelligence
+
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/rustdesk/

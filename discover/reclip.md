@@ -7,10 +7,12 @@ Averygan tarafından geliştirilen Reclip, neredeyse tüm internet sitelerinden 
 - GitHub Trending · 2026-09-02
 
 ## Güncelleme
-- 30 Eylül 2026: Yıldız 9.067 → 10.476.
-- 11 Eylül 2026: Yıldız 7.951 → 9.067.
+
+- **30 Eylül 2026:** Yıldız 9.067 → 10.476.
+- **11 Eylül 2026:** Yıldız 7.951 → 9.067.
 
 ## Ne kazandırır?
+
 - YouTube ve Instagram gibi 1000'den fazla siteden video ve ses dosyası indirir.
 - İndirilen dosyaları MP4 video veya MP3 ses formatında kaydeder.
 - Web tarayıcısı üzerinden çalışan sade ve hızlı bir arayüz sunar.
@@ -20,7 +22,7 @@ Averygan tarafından geliştirilen Reclip, neredeyse tüm internet sitelerinden 
 **Standart kurulum**
 
 ```
-brew install yt-dlp ffmpeg # or apt install ffmpeg && pip install yt-dlp
+brew install yt-dlp ffmpeg    # or apt install ffmpeg && pip install yt-dlp
 git clone https://github.com/averygan/reclip.git
 cd reclip
 ./reclip.sh
@@ -41,19 +43,23 @@ http://localhost:8899
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Reclip aracını kullanarak internet üzerindeki video bağlantılarını MP4 veya MP3 formatında yerel cihazıma indirmek istiyorum. İndirme işlemini başlatmak için bağlantıları giriş kutusuna yapıştırıp format seçimi yaptıktan sonra Fetch butonuna basarak video bilgilerini yüklemem ve ardından Download butonunu kullanmam gerekiyor. Bu süreçte toplu indirme yapabilir ve video çözünürlüğünü tercihlerime göre ayarlayabilirim.
 
-- **Kimin için:** İnternet üzerindeki medya içeriklerini kendi yerel depolama alanına yedeklemek isteyen kullanıcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** İnternet üzerindeki medya içeriklerini kendi yerel depolama alanına yedeklemek isteyen kullanıcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/averygan/reclip)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/reclip/

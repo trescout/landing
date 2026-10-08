@@ -7,12 +7,14 @@ NASA tarafından geliştirilen F´, uçuş yazılımları ve gömülü sistemler
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 11.807 → 11.811, son sürüm v4.4.1 (7 Ekim 2026).
-- 1 Ekim 2026: Yıldız 11.676 → 11.807, son sürüm v4.4.0 (30 Eylül 2026).
-- 20 Ağustos 2026: Yıldız 11.610 → 11.676, son sürüm v4.3.0 (20 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 11.523 → 11.610, son sürüm v4.2.2 (24 Nisan 2026).
+
+- **7 Ekim 2026:** Yıldız 11.807 → 11.811, son sürüm v4.4.1 (7 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 11.676 → 11.807, son sürüm v4.4.0 (30 Eylül 2026).
+- **20 Ağustos 2026:** Yıldız 11.610 → 11.676, son sürüm v4.3.0 (20 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 11.523 → 11.610, son sürüm v4.2.2 (24 Nisan 2026).
 
 ## Ne kazandırır?
+
 - Uzay araçları ve gömülü sistemler için modüler yapı
 - Bileşen tabanlı hızlı yazılım geliştirme ortamı
 - Otomatik kod üretimi ve entegre test araçları
@@ -34,19 +36,24 @@ fprime-bootstrap project
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 NASA tarafından geliştirilen F' çerçevesini kullanarak bir gömülü sistem projesi geliştirmek istiyorum. Projemin mimarisini oluştururken bileşen tabanlı yapıyı nasıl kurabilirim, arayüzleri nasıl tanımlayabilirim ve bu çerçeve ile mesaj kuyrukları ile iş parçacıklarını nasıl yönetebilirim? Lütfen F' çerçevesinin sunduğu modelleme araçlarını kullanarak bir geliştirme akışı öner.
 
-- **Kimin için:** Uzay uygulamaları, CubeSat veya gömülü sistemler için profesyonel uçuş yazılımı geliştirmek isteyen mühendisler ve yazılımcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Uzay uygulamaları, CubeSat veya gömülü sistemler için profesyonel uçuş yazılımı geliştirmek isteyen mühendisler ve yazılımcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/nasa/fprime)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Framework Artificial Intelligence
+
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fprime/

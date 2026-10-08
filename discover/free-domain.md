@@ -1,26 +1,28 @@
 # Ücretsiz Alan Adı Alın
 
-FreeDomain , herkesin dijital bir kimliğe sahip olabilmesi için ücretsiz alan adı hizmeti sunar. Benzersiz bir adres kaydedebilir ve Cloudflare gibi dilediğiniz DNS sağlayıcısıyla yönetebilirsiniz. Web'de var olmanın maliyetini sıfıra indirin.
+**FreeDomain**, herkesin dijital bir kimliğe sahip olabilmesi için **ücretsiz alan adı** hizmeti sunar. Benzersiz bir adres kaydedebilir ve Cloudflare gibi dilediğiniz DNS sağlayıcısıyla yönetebilirsiniz. Web'de var olmanın maliyetini sıfıra indirin.
 
 - ★ 199.617
 - HTML
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
-TreScout notu: Ücretsiz alan adı veren sağlayıcıları listeler. Deneme projesi ve öğrenci işleri için iyi; kalıcı bir şey kuracaksanız uzak durun, bu adlar aniden geri alınabiliyor ve e-posta itibarları zayıf.
+**TreScout notu:** Ücretsiz alan adı veren sağlayıcıları listeler. Deneme projesi ve öğrenci işleri için iyi; kalıcı bir şey kuracaksanız uzak durun, bu adlar aniden geri alınabiliyor ve e-posta itibarları zayıf.
 
 ## Güncelleme
-- 16 Eylül 2026: Yıldız 190.061 → 199.617.
-- 2 Ağustos 2026: Yıldız 166.947 → 190.061.
 
-- **Kimin için:** Ücretsiz web adresi isteyen herkes (kod gerekmez) 
-- **Zorluk:** Başlangıç dostu 
-- **Ne sunar:** Ücretsiz domain + kendi DNS sağlayıcınla kullanım 
-- **Ücret:** Hizmet ücretsiz 
-- **Lisans:** AGPL-3.0 · ayrıntı aşağıda 
+- **16 Eylül 2026:** Yıldız 190.061 → 199.617.
+- **2 Ağustos 2026:** Yıldız 166.947 → 190.061.
+
+- **Kimin için:** Ücretsiz web adresi isteyen herkes (kod gerekmez)
+- **Zorluk:** Başlangıç dostu
+- **Ne sunar:** Ücretsiz domain + kendi DNS sağlayıcınla kullanım
+- **Ücret:** Hizmet ücretsiz
+- **Lisans:** AGPL-3.0 · ayrıntı aşağıda
 
 ## Ne kazandırır?
-- Ücretsiz ve benzersiz bir alan adı .
+
+- Ücretsiz ve benzersiz bir **alan adı**.
 - Kendi DNS sağlayıcınızla (Cloudflare vb.) tam uyum.
 - Bireysel veya kurumsal kullanım seçeneği.
 - Web'de görünür olmanın maliyetini ortadan kaldırır.
@@ -30,18 +32,22 @@ TreScout notu: Ücretsiz alan adı veren sağlayıcıları listeler. Deneme proj
 Repo'daki yönergeyle başvurursunuz: domain'i seçer, DNS'inize bağlarsınız. Adım adım rehber GitHub sayfasında.
 
 ## AI ile nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 DigitalPlat FreeDomain ücretsiz bir alan adı servisidir, kurulacak bir yazılım değil. https://dash.domain.digitalplat.org/ adresine gidip .dpdns.org, .us.kg, .qzz.io gibi uzantılardan ücretsiz bir alan adı kaydetmem için bana adım adım rehberlik et ve Cloudflare DNS ile nasıl bağlayacağımı anlat.
 
-Lisans: AGPL-3.0 · Hizmeti kullanmak (ücretsiz domain almak) serbesttir. Ancak platformun KODUNU alıp kendiniz barındırır veya değiştirirseniz, AGPL gereği kendi sürümünüzün kaynak kodunu da (ağ üzerinden sunsanız bile) açmanız gerekir.
+**Lisans:** AGPL-3.0 · **Hizmeti kullanmak (ücretsiz domain almak) serbesttir.** Ancak platformun KODUNU alıp kendiniz barındırır veya değiştirirseniz, AGPL gereği kendi sürümünüzün kaynak kodunu da (ağ üzerinden sunsanız bile) açmanız gerekir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/DigitalPlatDev/FreeDomain)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/free-domain/

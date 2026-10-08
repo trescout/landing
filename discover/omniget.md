@@ -7,11 +7,13 @@ Omniget, 1.800'den fazla platformdan video, müzik ve kitap indirmeyi sağlayan 
 - GitHub Trending · 2026-09-14
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 13.300 → 14.413, son sürüm v0.10.1 (21 Eylül 2026).
-- 16 Eylül 2026: Yıldız 12.132 → 13.300, son sürüm v0.9.2 (11 Eylül 2026).
-- 14 Eylül 2026: Yıldız 12.126 → 12.132, son sürüm v0.9.2 (11 Eylül 2026).
+
+- **27 Eylül 2026:** Yıldız 13.300 → 14.413, son sürüm v0.10.1 (21 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 12.132 → 13.300, son sürüm v0.9.2 (11 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 12.126 → 12.132, son sürüm v0.9.2 (11 Eylül 2026).
 
 ## Ne kazandırır?
+
 - 1.800'den fazla platformdan video, müzik ve e-kitap indirir
 - İndirilen içerikleri oynatmak ve yönetmek için yerleşik araçlar sunar
 - Terminal kullanmadan grafik arayüz üzerinden kolayca yönetilir
@@ -31,19 +33,25 @@ brew install --cask tonhowtf/tap/omniget
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OmniGet uygulamasını kullanarak bir kursu veya videoyu nasıl indirebilirim? Uygulamanın içerisindeki yerleşik oynatıcıyı ve e-kitap okuyucuyu nasıl kullanırım? İndirme işlemlerini grafik arayüz üzerinden nasıl başlatıp yönetebileceğimi adım adım açıkla.
 
-- **Kimin için:** Farklı platformlardan içerik indirmek isteyen ancak terminal kullanmak yerine görsel bir arayüz tercih eden herkes için uygundur. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Farklı platformlardan içerik indirmek isteyen ancak terminal kullanmak yerine görsel bir arayüz tercih eden herkes için uygundur.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/tonhowtf/omniget)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Rust Artificial Intelligence
+
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/omniget/

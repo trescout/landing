@@ -7,12 +7,14 @@ DocuSeal, dijital belge oluşturma, doldurma ve imzalama süreçleri için açı
 - GitHub Trending · 2026-07-18
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 18.631 → 18.654, son sürüm 3.3.1 (5 Ekim 2026).
-- 28 Eylül 2026: Yıldız 18.621 → 18.631, son sürüm 3.3.0 (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 18.532 → 18.621, son sürüm 3.2.6 (21 Eylül 2026).
-- 15 Eylül 2026: Yıldız 18.448 → 18.532, son sürüm 3.2.5 (14 Eylül 2026).
+
+- **5 Ekim 2026:** Yıldız 18.631 → 18.654, son sürüm 3.3.1 (5 Ekim 2026).
+- **28 Eylül 2026:** Yıldız 18.621 → 18.631, son sürüm 3.3.0 (28 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 18.532 → 18.621, son sürüm 3.2.6 (21 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 18.448 → 18.532, son sürüm 3.2.5 (14 Eylül 2026).
 
 ## Ne kazandırır?
+
 - PDF formlarını çevrim içi oluşturma ve imzalama
 - Mobil uyumlu kullanıcı arayüzü
 - Kendi altyapınızda güvenli veri yönetimi
@@ -40,19 +42,25 @@ sudo HOST=your-domain-name.com docker compose up
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 DocuSeal kullanarak dijital belge imzalama süreçlerimi nasıl optimize edebilirim? PDF formlarını çevrim içi doldurulabilir hale getirme, imza doğrulama ve kullanıcı yönetimi özelliklerini kendi sunucumda yapılandırmak için izlemem gereken adımları açıkla. Ayrıca, Docker üzerinden kurulum yaptıktan sonra SMTP ayarlarıyla otomatik e-posta bildirimlerini nasıl aktif edebileceğim konusunda rehberlik et.
 
-- **Kimin için:** Belge imzalama ve doldurma süreçlerini kendi sunucularında, güvenli ve açık kaynaklı bir çözümle yönetmek isteyen işletmeler ve bireyler içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Belge imzalama ve doldurma süreçlerini kendi sunucularında, güvenli ve açık kaynaklı bir çözümle yönetmek isteyen işletmeler ve bireyler içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/docusealco/docuseal)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-E-signature PDF Artificial Intelligence
+
+- [E-signature](https://trescout.com/dictionary/e-signature/)
+- [PDF](https://trescout.com/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/docuseal/

@@ -6,12 +6,19 @@ Rea est un outil de rétro-ingénierie basé sur des agents d'intelligence artif
 - TypeScript
 - GitHub Trending · 2026-10-06
 
+## Mises à jour
+
+- **7 octobre 2026:** Étoiles 6,804 → 11,451, dernière version rea-agents-4.1.0 (6 octobre 2026).
+- **6 octobre 2026:** Étoiles 6,726 → 6,804, dernière version rea-agents-4.0.1 (5 octobre 2026).
+
 ## Ce que ça vous apporte
+
 - Vous pouvez décoder la logique interne d'applications de bureau ou web dont vous n'avez pas accès au code source, avec le soutien de l'intelligence artificielle.
 - En vous intégrant aux logiciels de rétro-ingénierie Hopper et Ghidra, vous examinez les fichiers système binaires en toute sécurité sur votre ordinateur local.
 - Vous pouvez apprendre étape par étape et avec des preuves comment fonctionne une fonctionnalité logicielle que vous aimez et l'adapter à votre propre projet.
 
 ## Installation
+
 **Lancement de l'assistant d'installation**
 
 ```
@@ -25,8 +32,8 @@ npm install --global rea-agents
 rea setup
 ```
 
-
 ## Exécution
+
 **Vérification du système et analyse d'une application exemple**
 
 ```
@@ -34,15 +41,30 @@ npx -y rea-agents@latest doctor
 npx -y rea-agents@latest analyze /Applications/Notes.app
 ```
 
-
 ## Si vous ne codez pas
+
+🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+
 Je souhaite configurer l'outil de rétro-ingénierie REA sur mon système. Tout d'abord, effectue les étapes d'installation nécessaires avec la commande 'npx rea-agents setup' et établis la connexion MCP (Model Context Protocol, protocole d'outils d'intelligence artificielle) pour mon interface d'IA. Ensuite, exécute la commande 'npx -y rea-agents@latest doctor' pour vérifier les dépendances, examine une application locale de mon choix et explique avec des preuves comment fonctionne la fonctionnalité que je recherche.
 
 ## Termes liés du glossaire
 
+- [Native Binaries](https://trescout.com/fr/dictionary/native-binaries/)
+- [Reverse Engineering](https://trescout.com/fr/dictionary/reverse-engineering/)
+- [Native](https://trescout.com/fr/dictionary/native/)
+- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/fr/dictionary/model-context-protocol-mcp/)
+- [Context](https://trescout.com/fr/dictionary/context/)
+
+- **Pour qui:** Destiné aux développeurs qui souhaitent analyser la logique de fonctionnement des applications existantes à l'aide de l'intelligence artificielle, sans avoir besoin du code source, et adapter des fonctionnalités similaires à leurs propres projets.
+- **Licence:** MIT
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/morluto/rea)
+- [Lire en turc →](https://trescout.com/discover/rea/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-06 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/rea/

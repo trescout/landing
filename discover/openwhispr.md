@@ -7,11 +7,13 @@ OpenWhispr, ses dosyalarını metne dönüştüren (voice-to-text) ve yerel mode
 - GitHub Trending · 2026-09-07
 
 ## Güncelleme
-- 15 Eylül 2026: Yıldız 8.031 → 8.205, son sürüm v1.10.2 (15 Eylül 2026).
-- 11 Eylül 2026: Yıldız 7.660 → 8.031, son sürüm v1.10.0 (11 Eylül 2026).
-- 7 Eylül 2026: Yıldız 7.659 → 7.660, son sürüm v1.9.2 (29 Ağustos 2026).
+
+- **15 Eylül 2026:** Yıldız 8.031 → 8.205, son sürüm v1.10.2 (15 Eylül 2026).
+- **11 Eylül 2026:** Yıldız 7.660 → 8.031, son sürüm v1.10.0 (11 Eylül 2026).
+- **7 Eylül 2026:** Yıldız 7.659 → 7.660, son sürüm v1.9.2 (29 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Ses dosyalarını ve konuşmaları anlık metne dönüştürür
 - Yerel modellerle internet bağlantısı olmadan çalışır
 - Toplantıları otomatik kaydeder ve konuşmacıları ayırır
@@ -28,19 +30,25 @@ npm run dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sesli notlarımı ve toplantı kayıtlarımı metne dönüştürmek için OpenWhispr kullanıyorum. Gizlilik odaklı bir çalışma ortamı oluşturmak istiyorum; yerel modelleri kullanarak ses verilerimi cihazımdan çıkarmadan nasıl en verimli şekilde transkripsiyon yapabilirim ve yapay zekâ asistanı özelliklerini iş akışımda nasıl yapılandırabilirim?
 
-- **Kimin için:** Toplantılarını metne dökmek isteyen, verilerinin gizliliğine önem veren ve yerel modellerle çalışmayı tercih eden profesyoneller içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Toplantılarını metne dökmek isteyen, verilerinin gizliliğine önem veren ve yerel modellerle çalışmayı tercih eden profesyoneller içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/OpenWhispr/openwhispr)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Whisper API Artificial Intelligence
+
+- [Whisper](https://trescout.com/dictionary/whisper/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openwhispr/

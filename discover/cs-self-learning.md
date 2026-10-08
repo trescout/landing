@@ -7,9 +7,11 @@ Pekin Üniversitesi öğrencileri tarafından hazırlanan bu rehber, bilgisayar 
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 74.290 → 74.728, son sürüm v1.2.0 (8 Haziran 2025).
+
+- **2 Ağustos 2026:** Yıldız 74.290 → 74.728, son sürüm v1.2.0 (8 Haziran 2025).
 
 ## Ne kazandırır?
+
 - Üniversite düzeyinde yapılandırılmış müfredat
 - Açık kaynaklı ders ve kaynak önerileri
 - İleri seviye teknik beceri geliştirme rehberi
@@ -17,18 +19,21 @@ Pekin Üniversitesi öğrencileri tarafından hazırlanan bu rehber, bilgisayar 
 ## Nasıl başlanır?
 
 Bu rehbere başlamak için herhangi bir kurulum yapmanız gerekmez. Projenin resmî web sitesi olan csdiy.wiki adresini ziyaret ederek tüm ders içeriklerini ve çalışma planlarını çevrimiçi olarak ücretsiz inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://csdiy.wiki)
 
-- **Kimin için:** Bilgisayar bilimleri alanında akademik bir disiplinle kendi kendine uzmanlaşmak isteyen herkes için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Bilgisayar bilimleri alanında akademik bir disiplinle kendi kendine uzmanlaşmak isteyen herkes için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/PKUFlyingPig/cs-self-learning)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Computer Science
+
+- [Computer Science](https://trescout.com/dictionary/computer-science/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cs-self-learning/

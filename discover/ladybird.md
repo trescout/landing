@@ -27,7 +27,7 @@ cd ladybird
 ./Meta/ladybird.py run
 ```
 
-Kaynak: Komutlar Ladybird resmî sitesi ve BuildInstructionsLadybird.md belgesinden 24 Ağustos 2026’da kontrol edildi.
+**Kaynak:** Komutlar Ladybird resmî sitesi ve BuildInstructionsLadybird.md belgesinden 24 Ağustos 2026’da kontrol edildi.
 
 ## Bu araç ne yapar?
 
@@ -42,25 +42,30 @@ Tarayıcı teknolojilerine katkı sunmak veya projenin kaynak kodunu geliştirme
 Kararlı bir son kullanıcı tarayıcısı arayanlar.
 
 ## Öne çıkanlar
+
 - Web standartlarını temel alan bağımsız tarayıcı ve motor projesi
 - Ağ bağlantıları ve görüntü çözme için ayrı süreçler kullanan çok süreçli mimari
 - Sandbox içinde çalışan sekme renderer süreçleri
 - BSD-2-Clause lisansı
 
 ## İlk kullanım akışı
-- Resmî derleme yönergelerini açın ve sisteminizin desteklenen platformlar arasında olup olmadığını kontrol edin.
-- Qt 6.9+, C++23 uyumlu derleyici, Rust ve CMake 3.30+ gereksinimlerini hazırlayın.
-- Kaynak kodunu resmî GitHub deposundan alın ve resmî derleme dokümanındaki adımları izleyin.
+
+1. Resmî derleme yönergelerini açın ve sisteminizin desteklenen platformlar arasında olup olmadığını kontrol edin.
+2. Qt 6.9+, C++23 uyumlu derleyici, Rust ve CMake 3.30+ gereksinimlerini hazırlayın.
+3. Kaynak kodunu resmî GitHub deposundan alın ve resmî derleme dokümanındaki adımları izleyin.
 
 ## Güvenli başlangıç
 
 Ladybird resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 Resmî derleme yönergelerine göre sistemimde Qt 6.9+, C++23 derleyicisi, Rust ve CMake 3.30+ gereksinimlerini nasıl kontrol edebilirim?
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/LadybirdBrowser/ladybird)
 - [Ladybird resmî GitHub deposu →](https://github.com/LadybirdBrowser/ladybird)
 - [Ladybird derleme belgeleri →](https://github.com/LadybirdBrowser/ladybird/blob/master/Documentation/BuildInstructionsLadybird.md)
@@ -69,7 +74,9 @@ Resmî derleme yönergelerine göre sistemimde Qt 6.9+, C++23 derleyicisi, Rust 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sandbox Rust
+
+- [Sandbox](https://trescout.com/dictionary/sandbox/)
+- [Rust](https://trescout.com/dictionary/rust/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ladybird/

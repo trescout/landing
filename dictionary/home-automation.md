@@ -1,7 +1,6 @@
 # Home Automation nedir, ne demek?
 
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-09-19
+*Sözlük · Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
 
 Home Automation (akıllı ev otomasyonu), konut içerisindeki aydınlatma, iklimlendirme, güvenlik ve enerji sistemlerinin sensörler, ağ protokolleri ve yazılımsal kurallarla insan müdahalesine gerek kalmadan otomatik yönetilmesidir.
 
@@ -38,9 +37,7 @@ Ev, insanın en mahrem sığınağıdır; bu sığınağın internete bağlanmas
 - **Ev İçi Mahremiyet Paradoksu:** Salonunuzda sürekli dinlemede kalan akıllı hoparlörler ve yatak odasını tarayan akıllı süpürgelerin buluta ses ve harita verisi göndermesi, mahremiyet endişelerine yol açar. Bu yüzden teknoloji meraklıları tamamen yerel ses modellerine (Local Voice Assistants) yönelmektedir.
 - **Enerji Optimizasyonu (Yeşil IoT):** Dinamik elektrik tarifelerini takip eden akıllı prizler; çamaşır ve bulaşık makinelerini elektriğin en ucuz olduğu saatlerde çalıştırarak, güneş panellerinden gelen fazla enerjiyi ev bataryalarına depolayarak enerji tüketimini ve karbon ayak izini minimize eder.
 
-## Bir benzetmeyle
-
-Evinizin görünmez, evin tüm alışkanlıklarını ezbere bilen dikkatli bir dijital kâhyaya sahip olması gibidir. Dışarıda fırtına çıktığında pencereleri ve panjurları kapatır, siz uyurken evin sıcaklığını rüya evresine göre ayarlar ve tehlike anında ana vanaları saniyeler içinde kilitler.
+*Evinizin görünmez, evin tüm alışkanlıklarını ezbere bilen dikkatli bir dijital kâhyaya sahip olması gibidir. Dışarıda fırtına çıktığında pencereleri ve panjurları kapatır, siz uyurken evin sıcaklığını rüya evresine göre ayarlar ve tehlike anında ana vanaları saniyeler içinde kilitler.*
 
 ## Sık karıştırılanlar
 
@@ -49,26 +46,36 @@ Evinizin görünmez, evin tüm alışkanlıklarını ezbere bilen dikkatli bir d
 
 ## Sıkça sorulanlar
 
-**Home automation ne demek ve Türkçe karşılığı nedir?**  
+**Home automation ne demek ve Türkçe karşılığı nedir?**
+
 Home Automation Türkçede "akıllı ev otomasyonu" veya "konut otomasyonu" olarak adlandırılır. Aydınlatma, iklimlendirme, priz ve güvenlik cihazlarının sensör kurallarıyla otonom çalışmasını niteler.
 
-**Akıllı ev ile ev otomasyonu arasındaki fark nedir?**  
+**Akıllı ev ile ev otomasyonu arasındaki fark nedir?**
+
 Akıllı ev genellikle internete bağlı cihazların genel adıyken, ev otomasyonu bu cihazların insan müdahalesine ihtiyaç duymadan önceden belirlenmiş mantıksal senaryolarla (Trigger-Action) kendi kendine hareket etmesidir.
 
-**Home Assistant neden bu kadar popülerdir ve local-first neden önemlidir?**  
+**Home Assistant neden bu kadar popülerdir ve local-first neden önemlidir?**
+
 Home Assistant açık kaynaklıdır ve tüm verileri buluta göndermeden yerel ağda işler. Bu sayede hem kişisel mahremiyet korunur hem de internet kesintilerinde ev sistemi aksamadan çalışmaya devam eder.
 
-**Matter ve Thread protokolleri ev otomasyonunda neleri değiştirdi?**  
+**Matter ve Thread protokolleri ev otomasyonunda neleri değiştirdi?**
+
 Matter, farklı markaların (Apple, Google, Amazon vb.) cihazlarının tek bir standartta konuşmasını sağladı. Thread ise cihazlara düşük güçle doğrudan yerel IPv6 ağı kurarak bulut köprülerine olan bağımlılığı bitirdi.
 
 ## İlgili terimler
 
-- [Digital Privacy](/dictionary/digital-privacy/)
-- [Physical AI](/dictionary/physical-ai/)
-- [AI Agent](/dictionary/ai-agent/)
-- [End-to-End Privacy](/dictionary/end-to-end-privacy/)
-- [Self-Hosted](/dictionary/self-hosted/)
+- [Digital Privacy](https://trescout.com/dictionary/digital-privacy/)
+- [Physical AI](https://trescout.com/dictionary/physical-ai/)
+- [AI Agent](https://trescout.com/dictionary/ai-agent/)
+- [End-to-End Privacy](https://trescout.com/dictionary/end-to-end-privacy/)
+- [Self-Hosted](https://trescout.com/dictionary/self-hosted/)
+
+## İlgili araçlar
+
+- [Core](https://trescout.com/discover/core/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/home-automation/  
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/home-automation/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

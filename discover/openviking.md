@@ -7,12 +7,14 @@ Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için ken
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 38.859 → 39.151, son sürüm v0.4.23 (2 Ekim 2026).
-- 28 Eylül 2026: Yıldız 38.733 → 38.859, son sürüm v0.4.22 (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 37.128 → 38.733, son sürüm v0.4.21 (20 Eylül 2026).
-- 14 Eylül 2026: Yıldız 36.182 → 37.128, son sürüm v0.4.20 (14 Eylül 2026).
+
+- **3 Ekim 2026:** Yıldız 38.859 → 39.151, son sürüm v0.4.23 (2 Ekim 2026).
+- **28 Eylül 2026:** Yıldız 38.733 → 38.859, son sürüm v0.4.22 (28 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 37.128 → 38.733, son sürüm v0.4.21 (20 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 36.182 → 37.128, son sürüm v0.4.20 (14 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Bilgileri dosya sistemi gibi hiyerarşik düzenler.
 - Katmanlı yükleme ile yapay zekâ maliyetini düşürür.
 - Ajan geçmişini izlenebilir ve hata ayıklanabilir kılar.
@@ -23,9 +25,9 @@ Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için ken
 
 ```
 pip install openviking --upgrade
-openviking-server init # interactive wizard: providers, models, ov.conf
-openviking-server doctor # validate setup
-openviking-server # start (background: nohup openviking-server > openviking.log 2>&1 &)
+openviking-server init      # interactive wizard: providers, models, ov.conf
+openviking-server doctor    # validate setup
+openviking-server           # start (background: nohup openviking-server > openviking.log 2>&1 &)
 ```
 
 ## Çalıştırma
@@ -35,23 +37,29 @@ openviking-server # start (background: nohup openviking-server > openviking.log 
 ```
 pip install "openviking[bot]"
 openviking-server --with-bot
-ov chat # in another terminal
+ov chat   # in another terminal
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenViking veritabanını kullanarak bir yapay zekâ ajanı için bağlam yönetimi kurgula. Bilgileri L0 özet, L1 genel bakış ve L2 detay katmanlarına ayırarak viking:// protokolü üzerinden yapılandır. Ajanın hafızasını, kaynaklarını ve yeteneklerini bu sanal dosya sistemine yerleştirerek, sorgulama sırasında dizinler arasında gezinebilmesini ve geçmiş oturumlarından öğrenerek uzun vadeli hafıza oluşturmasını sağla.
 
-- **Kimin için:** Yapay zekâ ajanlarının hafıza yönetimi, bilgi getirme süreçleri ve yeteneklerini tek bir düzenli sistemde birleştirmek isteyen geliştiriciler içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Yapay zekâ ajanlarının hafıza yönetimi, bilgi getirme süreçleri ve yeteneklerini tek bir düzenli sistemde birleştirmek isteyen geliştiriciler içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/volcengine/OpenViking)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-RAG AI Skills Artificial Intelligence
+
+- [RAG](https://trescout.com/dictionary/rag/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openviking/

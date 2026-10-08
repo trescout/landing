@@ -7,11 +7,13 @@ Worldmonitor, yapay zekâ destekli haber derleme ve jeopolitik izleme özellikle
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
-- 9 Eylül 2026: Yıldız 82.117 → 85.879, son sürüm v2.10.0 (8 Eylül 2026).
-- 15 Ağustos 2026: Yıldız 78.032 → 82.117, son sürüm v2.5.23 (1 Mart 2026).
-- 2 Ağustos 2026: Yıldız 57.469 → 78.032, son sürüm v2.5.23 (1 Mart 2026).
+
+- **9 Eylül 2026:** Yıldız 82.117 → 85.879, son sürüm v2.10.0 (8 Eylül 2026).
+- **15 Ağustos 2026:** Yıldız 78.032 → 82.117, son sürüm v2.5.23 (1 Mart 2026).
+- **2 Ağustos 2026:** Yıldız 57.469 → 78.032, son sürüm v2.5.23 (1 Mart 2026).
 
 ## Ne kazandırır?
+
 - 500'den fazla haber kaynağının yapay zekâ ile özetlenmesi
 - 3D küre ve WebGL harita desteğiyle görsel analiz
 - Ekonomi, askeri ve jeopolitik verilerin tek arayüzde birleşimi
@@ -32,26 +34,33 @@ npm run dev
 **Varyant bazlı çalıştırma**
 
 ```
-npm run dev:tech # tech.worldmonitor.app
-npm run dev:finance # finance.worldmonitor.app
-npm run dev:commodity # commodity.worldmonitor.app
-npm run dev:happy # happy.worldmonitor.app
-npm run dev:energy # energy.worldmonitor.app
+npm run dev:tech       # tech.worldmonitor.app
+npm run dev:finance    # finance.worldmonitor.app
+npm run dev:commodity  # commodity.worldmonitor.app
+npm run dev:happy      # happy.worldmonitor.app
+npm run dev:energy     # energy.worldmonitor.app
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Worldmonitor aracını kullanarak küresel haber akışlarını, jeopolitik gelişmeleri ve altyapı verilerini analiz etmemi sağla. 500'den fazla haber kaynağını sentezleyerek askeri, ekonomik ve çevresel olaylar arasındaki korelasyonları belirle. Ülke istikrarsızlık endeksi ve finansal piyasa sinyalleri gibi verileri kullanarak durum farkındalığı oluştur ve karmaşık veri akışlarını görselleştirme konusunda rehberlik et.
 
-- **Kimin için:** Küresel gelişmeleri, jeopolitik riskleri ve finansal piyasa verilerini tek bir merkezden takip etmek isteyen analiz odaklı kullanıcılar içindir. 
+- **Kimin için:** Küresel gelişmeleri, jeopolitik riskleri ve finansal piyasa verilerini tek bir merkezden takip etmek isteyen analiz odaklı kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/koala73/worldmonitor)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Global Intelligence Dashboard Situational Awareness Dashboard Artificial Intelligence
+
+- [Global Intelligence Dashboard](https://trescout.com/dictionary/global-intelligence-dashboard/)
+- [Situational Awareness](https://trescout.com/dictionary/situational-awareness/)
+- [Dashboard](https://trescout.com/dictionary/dashboard/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/worldmonitor/

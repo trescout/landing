@@ -7,6 +7,7 @@ OpenBao, parolalar, sertifikalar ve şifreleme anahtarları gibi hassas verileri
 - GitHub Trending · 2026-09-26
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/openbao/openbao)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.

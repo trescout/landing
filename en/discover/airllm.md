@@ -6,7 +6,15 @@ AirLLM is a groundbreaking open-source library that runs massive large language 
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
+## Updates
+
+- **October 7, 2026:** Stars 33,755 → 35,481, latest release v4.0.0 (September 5, 2026).
+- **September 6, 2026:** Stars 33,307 → 33,755, latest release v4.0.0 (September 5, 2026).
+- **August 31, 2026:** Stars 31,598 → 33,307, latest release v3.3.0 (August 28, 2026).
+- **August 19, 2026:** Stars 30,796 → 31,598, latest release v3.2.0 (August 18, 2026).
+
 ## What you get
+
 - Running 70B models with 4GB VRAM: The power to run high-parameter models like Llama 3 70B, Qwen, or DeepSeek even on entry-level GTX 1650 or RTX 3050 graphics cards.
 - 405B Llama 3.1 support: The ability to run 405-billion parameter models, which require hundreds of thousands of dollars worth of GPU clusters in data centers, on personal computers with 8GB VRAM.
 - Layer-wise Execution: Instead of fitting the entire model into VRAM, it overcomes the VRAM bottleneck by loading and processing layers sequentially from the disk into memory.
@@ -14,26 +22,32 @@ AirLLM is a groundbreaking open-source library that runs massive large language 
 - Full precision without quantization quality loss: It enables inference even at the original 16-bit (bfloat16) precision if desired, without the necessity of compressing weights to 4-bit.
 
 ## Installation
+
 **Using pip (PyPI)**
 
 ```
 pip install airllm
 ```
 
-
 ## Technical architecture and working principle
+
 - The sequential nature of Transformer layers: A Transformer network consists of 80 independent layers. Each layer takes the tensor output of the previous layer as input. It is not theoretically mandatory for the entire model to reside in memory.
 - Sequential Offloading: AirLLM only loads a single layer currently being computed into the VRAM (approximately 1.5 GB). Once the forward pass calculation for that layer is complete, the memory is cleared and the next layer is fetched from the disk.
 - Speed and memory trade-off: This architecture is not meant for interactive chats generating dozens of tokens per second; rather, it is an unparalleled cost-saving tool for batch data analysis, deep reasoning, translation, synthetic data generation, and model evaluation (evals) processes.
 - Memory-mapped file reading (mmap): Connects PyTorch tensors directly to disk using the mmap method, utilizing NVMe SSD bandwidth directly without unnecessarily bloating system RAM.
 
 ## Example Python usage
+
 AirLLM has an extremely simple Python syntax, very similar to the HuggingFace AutoModel API:
 
 ## If you don't write code
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 I want to run a 70 billion parameter model (for example, meta-llama/Llama-3-70B-Instruct) on my local graphics card with 4GB VRAM capacity using the AirLLM library. I used the pip install airllm command for installation. Could you explain the Python code required to load my model, get output with text input, and prevent out-of-memory errors? I know I need to make sure my disk space is sufficient in the process, could you detail the steps I need to follow?
 
 ## Frequently asked questions
+
 - How fast is it to run a model with AirLLM? Since AirLLM continuously transfers layers between the disk and GPU, token generation speed depends directly on the read speed of your NVMe SSD. On a typical Gen4 SSD, a 70B model runs at a speed of 1-3 tokens per second. While this speed is slow for interactive chat, it is unique for running massive models locally with zero hardware cost.
 - How much free disk space is required for AirLLM? A 70B parameter model requires approximately 140 GB of disk space in 16-bit float format. In 4-bit quantized versions, this space drops to around 35-40 GB. For the 405B model, at least 800 GB of free NVMe disk space should be allocated.
 - Can I use the original model weights without quantization? Yes. One of the biggest advantages of AirLLM is that it eliminates the need for quantization. Since VRAM constraints are resolved on a layer-by-layer basis, you can run the original 16-bit weights without experiencing any loss in reasoning or accuracy.
@@ -41,9 +55,24 @@ I want to run a 70 billion parameter model (for example, meta-llama/Llama-3-70B-
 
 ## Related dictionary terms
 
+- [VRAM](https://trescout.com/en/dictionary/vram/)
+- [Transformer](https://trescout.com/en/dictionary/transformer/)
+- [Apple Silicon](https://trescout.com/en/dictionary/apple-silicon/)
+- [RAM](https://trescout.com/en/dictionary/ram/)
+- [Jupyter Notebooks](https://trescout.com/en/dictionary/jupyter-notebooks/)
+- [CPU](https://trescout.com/en/dictionary/cpu/)
+
+- **Who it is for:** It is intended for researchers who have limited hardware resources and want to test high-capacity 70B and 405B models locally, perform data mining, and evaluation.
+- **License:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
+- **Requirement:** Minimum 4 GB VRAM GPU and high-speed NVMe SSD disk space
+- **Ecosystem:** Python, PyTorch, and HuggingFace Transformers
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/lyogavin/airllm)
+- [Read in Turkish →](https://trescout.com/discover/airllm/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/airllm/

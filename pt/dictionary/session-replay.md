@@ -1,34 +1,48 @@
 # O que é Session Replay?
 
+*Glossário · Dev · Última atualização: 17 de julho de 2026*
+
 É uma tecnologia que permite gravar e assistir todos os movimentos do usuário no seu site como um filme.
 
 ## Definição
+
 Ele permite que você veja passo a passo onde um usuário moveu o mouse, em qual botão clicou ou onde ficou preso. Esta é a maneira mais eficaz de compreender quaisquer problemas técnicos ou confusão que o usuário esteja enfrentando.
 
+***Analogia:** É como observar um cliente entrando em uma loja através de uma câmera de segurança; Você vê ao vivo qual prateleira o cliente olhou e qual ele deixou para trás (ou qual botão ele não conseguiu apertar).*
+
 ## Como funciona
+
 Você adiciona um pequeno pedaço de código ao seu site. Este código registra anonimamente todos os movimentos do usuário no navegador e os apresenta como um reprodutor de vídeo.
 
 ## Onde é usado
+
 Ele é usado em testes de experiência do usuário (UX) e processos de depuração técnica.
 
 ## Costuma ser confundido com
+
 É confundido com Analytics (estatísticas); análise 'quantas pessoas clicaram?' diz, repetição da sessão 'como foi o clique?' responde à pergunta.
 
 ## Perguntas frequentes
+
 **E quanto à privacidade do usuário?**
+
 Bons sistemas mascaram automaticamente dados confidenciais (como senhas).
 
 **Ocupa muito espaço?**
+
 Os sistemas modernos são bastante leves, pois registram apenas dados de movimento.
 
-
 ## Termos relacionados
-- [User Experience](/pt/dictionary/user-experience/)
-- [QA](/pt/dictionary/qa/)
-- [Frontend Stack](/pt/dictionary/frontend-stack/)
+
+- [User Experience](https://trescout.com/pt/dictionary/user-experience/)
+- [QA](https://trescout.com/pt/dictionary/qa/)
+- [Frontend Stack](https://trescout.com/pt/dictionary/frontend-stack/)
 
 ## Ferramentas relacionadas
-- [Posthog](/pt/discover/posthog/)
+
+- [Posthog](https://trescout.com/pt/discover/posthog/)
+
+Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/session-replay/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/session-replay/

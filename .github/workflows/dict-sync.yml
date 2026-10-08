@@ -428,10 +428,9 @@ jobs:
       - name: Ana sayfa kataloğu (hafif türev · tüm diller)
         run: python3 scripts/catalog-home.py
 
-      - name: AI'a hizmet · keşif index server-render + .md + llms.txt
+      - name: AI'a hizmet · keşif index server-render + llms.txt
         run: |
           python3 scripts/discover-index.py
-          python3 scripts/discover-md.py
           python3 scripts/llms-txt.py
 
       # Sayfa guard'ları · üretilen sayfalar [skip ci] ile push'landığı için csp-inline-guard.yml
@@ -463,6 +462,12 @@ jobs:
       # bağlantı guard'ı bunlar için sıkı, temizlik guard'dan ÖNCE.
       - name: Ölü ilgili çipleri temizle
         run: python3 scripts/ilgili-temizle.py
+
+      # .md uç noktaları sayfanın SON hâlinden · ölü çip temizliğinden SONRA (yoksa
+      # .md silinmiş sayfaya bağlantı taşır). Elle düzenlenmiş (korunan) sayfaların
+      # .md'si de buradan tazelenir · üreticiler onlara dokunmadığı için kayıyordu.
+      - name: .md uç noktaları (tüm dillerde sözlük ve keşif)
+        run: python3 scripts/md-uret.py
 
       # Sitemap senkronu normalize adımlarından SONRA koşar. sitemap-sync lastmod'u
       # "HEAD'e göre değişen sayfa"ya göre yeniler; üreticiler her sayfayı eski
@@ -586,6 +591,7 @@ jobs:
             # 68 dk baştan üretti ve kotası bitmiş çeviride düşüp hiç push etmedi.
             hizli_guardlar() {
               python3 scripts/generate-manifest.py \
+                && python3 scripts/md-uret.py \
                 && python3 scripts/check-content-manifest.py \
                 && python3 scripts/check-no-inline-csp.py \
                 && python3 scripts/check-nav-consistency.py \

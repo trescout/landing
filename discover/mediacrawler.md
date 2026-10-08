@@ -7,11 +7,13 @@ MediaCrawler, popüler Çin sosyal medya platformlarındaki gönderileri ve kull
 - GitHub Trending · 2026-06-26
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 62.789 → 65.953.
-- 18 Ağustos 2026: Yıldız 59.631 → 62.789.
-- 2 Ağustos 2026: Yıldız 53.062 → 59.631.
+
+- **29 Eylül 2026:** Yıldız 62.789 → 65.953.
+- **18 Ağustos 2026:** Yıldız 59.631 → 62.789.
+- **2 Ağustos 2026:** Yıldız 53.062 → 59.631.
 
 ## Ne kazandırır?
+
 - Popüler platformlardan gönderi ve yorum çekme
 - Tarayıcı otomasyonu ile kolay giriş
 - Çoklu veri formatında kayıt desteği
@@ -55,18 +57,23 @@ uv run main.py --help
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 MediaCrawler aracını kullanarak belirtilen sosyal medya platformundan veri çekmek istiyorum. Lütfen config/base_config.py dosyasındaki ayarları kontrol etmemi sağla ve xhs platformu için anahtar kelime araması yaparak gönderi ve yorum bilgilerini toplamam için gerekli olan uv run main.py komutunu nasıl yapılandırmam gerektiğini adım adım açıkla.
 
-- **Kimin için:** Sosyal medya platformlarından veri toplamak isteyen araştırmacılar ve veri analistleri için uygundur. 
+- **Kimin için:** Sosyal medya platformlarından veri toplamak isteyen araştırmacılar ve veri analistleri için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/NanmiCoder/MediaCrawler)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Web Scraping Artificial Intelligence
+
+- [Web Scraping](https://trescout.com/dictionary/web-scraping/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mediacrawler/

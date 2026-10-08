@@ -6,12 +6,20 @@ MediaCrawler sammelt durch Web Scraping automatisch Beiträge und Benutzerkommen
 - Python
 - GitHub Trending · 2026-06-26
 
+## Aktualisierungen
+
+- **29. September 2026:** Sterne 62,789 → 65,953.
+- **18. August 2026:** Sterne 59,631 → 62,789.
+- **2. August 2026:** Sterne 53,062 → 59,631.
+
 ## Was es bringt
+
 - Abrufen von Beiträgen und Kommentaren von beliebten Plattformen
 - Einfache Anmeldung mit Browser-Automatisierung
 - Unterstützt die Aufzeichnung in mehreren Datenformaten
 
 ## Installation
+
 **Abhängigkeiten installieren**
 
 ```
@@ -29,8 +37,8 @@ uv sync
 uv run playwright install
 ```
 
-
 ## Ausführung
+
 **Starten Sie die Datenextraktion**
 
 ```
@@ -48,15 +56,25 @@ uv run main.py --platform xhs --lt qrcode --type detail
 uv run main.py --help
 ```
 
-
 ## Wenn Sie nicht programmieren
+
+🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+
 Ich möchte mit dem MediaCrawler-Tool Daten von einer bestimmten Social-Media-Plattform abrufen. Bitte lassen Sie mich die Einstellungen in der Datei config/base_config.py überprüfen und Schritt für Schritt erklären, wie ich den Befehl uv run main.py konfigurieren sollte, um Beitrags- und Kommentarinformationen durch eine Stichwortsuche für die xhs-Plattform zu sammeln.
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Web Scraping](https://trescout.com/de/dictionary/web-scraping/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
+
+- **Für wen es gedacht ist:** Es eignet sich für Forscher und Datenanalysten, die Daten von Social-Media-Plattformen sammeln möchten.
+
 ## Links
-- GitHub-Repository →
-- Auf Türkisch lesen →
+
+- [GitHub-Repository →](https://github.com/NanmiCoder/MediaCrawler)
+- [Auf Türkisch lesen →](https://trescout.com/discover/mediacrawler/)
+
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-26 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/mediacrawler/

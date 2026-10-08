@@ -7,12 +7,14 @@ Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 2.811 → 2.831, son sürüm v0.2.9 (7 Ekim 2026).
-- 12 Eylül 2026: Yıldız 2.800 → 2.811, son sürüm v0.2.8 (11 Eylül 2026).
-- 2 Eylül 2026: Yıldız 2.781 → 2.800, son sürüm v0.2.7 (1 Eylül 2026).
-- 24 Ağustos 2026: Yıldız 2.716 → 2.781, son sürüm v0.2.6 (24 Ağustos 2026).
+
+- **7 Ekim 2026:** Yıldız 2.811 → 2.831, son sürüm v0.2.9 (7 Ekim 2026).
+- **12 Eylül 2026:** Yıldız 2.800 → 2.811, son sürüm v0.2.8 (11 Eylül 2026).
+- **2 Eylül 2026:** Yıldız 2.781 → 2.800, son sürüm v0.2.7 (1 Eylül 2026).
+- **24 Ağustos 2026:** Yıldız 2.716 → 2.781, son sürüm v0.2.6 (24 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - İş akışlarını veritabanı içinde hata toleranslı ve kalıcı şekilde yönetir.
 - Çökme veya kesinti durumunda işlemleri en son kontrol noktasından devam ettirir.
 - Ek altyapı gerektirmeden doğrudan PostgreSQL üzerinde çalışır.
@@ -31,24 +33,30 @@ CREATE EXTENSION pg_durable;
 
 ```
 SELECT df.start(
-'SELECT id FROM documents WHERE processed = false LIMIT 100' |=> 'batch'
-~> 'UPDATE documents SET processed = true WHERE id = ANY($batch)'
+    'SELECT id FROM documents WHERE processed = false LIMIT 100' |=> 'batch'
+    ~> 'UPDATE documents SET processed = true WHERE id = ANY($batch)'
 );
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 PostgreSQL üzerinde pg_durable eklentisini kullanarak bir iş akışı oluşturmak istiyorum. Veritabanı içinde hata toleranslı ve kalıcı bir süreç yönetmek için df.start() fonksiyonunu nasıl yapılandırmalıyım? SQL adımlarını birbirine bağlayan ~> ve |=> operatörlerini kullanarak, verileri işleyen ve hata durumunda kaldığı yerden devam edebilen bir yapıyı nasıl kurabilirim? Lütfen bu süreci SQL komutları ile örneklendirerek açıkla.
 
-- **Kimin için:** Veri işleme süreçlerini, hata toleranslı ve kalıcı bir şekilde doğrudan PostgreSQL üzerinde yönetmek isteyen arka uç geliştiricileri, veritabanı yöneticileri ve veri mühendisleri için uygundur. 
+- **Kimin için:** Veri işleme süreçlerini, hata toleranslı ve kalıcı bir şekilde doğrudan PostgreSQL üzerinde yönetmek isteyen arka uç geliştiricileri, veritabanı yöneticileri ve veri mühendisleri için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/microsoft/pg_durable)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Durable Execution Rust Artificial Intelligence
+
+- [Durable Execution](https://trescout.com/dictionary/durable-execution/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pg-durable/

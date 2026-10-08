@@ -7,12 +7,14 @@ Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) moder
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
-- 14 Eylül 2026: Yıldız 8.568 → 8.609, son sürüm v0.0.20 (13 Eylül 2026).
-- 11 Eylül 2026: Yıldız 8.368 → 8.568, son sürüm v0.0.19 (10 Eylül 2026).
-- 2 Eylül 2026: Yıldız 8.329 → 8.368, son sürüm v0.0.18 (2 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 7.891 → 8.329, son sürüm v0.0.17 (30 Ağustos 2026).
+
+- **14 Eylül 2026:** Yıldız 8.568 → 8.609, son sürüm v0.0.20 (13 Eylül 2026).
+- **11 Eylül 2026:** Yıldız 8.368 → 8.568, son sürüm v0.0.19 (10 Eylül 2026).
+- **2 Eylül 2026:** Yıldız 8.329 → 8.368, son sürüm v0.0.18 (2 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 7.891 → 8.329, son sürüm v0.0.17 (30 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Tüm içerik yönetimini tek bir sunucuda toplayın
 - Yapay zekâ ile sayfaları doğrudan düzenleyin
 - Temiz ve hızlı HTML çıktıları üretin
@@ -26,19 +28,25 @@ INSTATIC_IMAGE=ghcr.io/corebunch/instatic:latest docker compose -f compose.prod.
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sayfa düzenleme arayüzünde yapay zekâ ajanını kullanarak belirtilen tasarım kriterlerine uygun, semantik HTML yapısına sahip ve CSS ile biçimlendirilmiş düzenlenebilir düğümler oluştur. Ajanın Claude, OpenAI veya OpenRouter gibi modellerle entegre çalışmasını sağlayarak sayfa yapısını ve içerik bileşenlerini otomatik olarak inşa etmesini sağla.
 
-- **Kimin için:** Kendi içerik yönetim sistemine sahip olmak isteyen, hızlı ve temiz web siteleri inşa etmeyi hedefleyen geliştiriciler ve içerik üreticileri içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Kendi içerik yönetim sistemine sahip olmak isteyen, hızlı ve temiz web siteleri inşa etmeyi hedefleyen geliştiriciler ve içerik üreticileri içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/CoreBunch/Instatic)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CMS Self-hosted Artificial Intelligence
+
+- [CMS](https://trescout.com/dictionary/cms/)
+- [Self-hosted](https://trescout.com/dictionary/self-hosted/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/instatic/

@@ -7,12 +7,14 @@ Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (t
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 17.563 → 17.756, son sürüm wren-v0.15.0 (21 Eylül 2026).
-- 10 Eylül 2026: Yıldız 17.542 → 17.563, son sürüm wren-core-py-v0.8.0 (10 Eylül 2026).
-- 8 Eylül 2026: Yıldız 17.451 → 17.542, son sürüm wren-v0.14.0 (8 Eylül 2026).
-- 2 Eylül 2026: Yıldız 17.431 → 17.451, son sürüm wren-pydantic-v0.3.0 (2 Eylül 2026).
+
+- **27 Eylül 2026:** Yıldız 17.563 → 17.756, son sürüm wren-v0.15.0 (21 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 17.542 → 17.563, son sürüm wren-core-py-v0.8.0 (10 Eylül 2026).
+- **8 Eylül 2026:** Yıldız 17.451 → 17.542, son sürüm wren-v0.14.0 (8 Eylül 2026).
+- **2 Eylül 2026:** Yıldız 17.431 → 17.451, son sürüm wren-pydantic-v0.3.0 (2 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Doğal dilden güvenilir SQL sorguları oluşturur
 - Verileri otomatik olarak panellere dönüştürür
 - 22'den fazla veri kaynağını destekler
@@ -22,29 +24,35 @@ Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (t
 **CLI kurulumu**
 
 ```
-pip install wrenai # core (DuckDB included)
-pip install "wrenai[postgres,memory]" # add per-datasource and memory extras as needed
+pip install wrenai                      # core (DuckDB included)
+pip install "wrenai[postgres,memory]"   # add per-datasource and memory extras as needed
 ```
 
 **Yapay zekâ istemcisi için stub kurulumu**
 
 ```
-npx skills add Canner/WrenAI # auto-detects Claude Code, Cursor, Cline, Codex, …
+npx skills add Canner/WrenAI            # auto-detects Claude Code, Cursor, Cline, Codex, …
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 WrenAI kullanarak veritabanı bağlantımı yapılandır, proje iskeletini oluştur ve ilk sorgumu çalıştır. Ardından raw klasöründeki iş mantığı verilerini projeme dahil ederek bağlamı zenginleştir.
 
-- **Kimin için:** Veri analitiği süreçlerini yapay zekâ ajanları aracılığıyla otomatize etmek ve güvenilir, paylaşılabilir paneller oluşturmak isteyen profesyoneller içindir. 
+- **Kimin için:** Veri analitiği süreçlerini yapay zekâ ajanları aracılığıyla otomatize etmek ve güvenilir, paylaşılabilir paneller oluşturmak isteyen profesyoneller içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Canner/WrenAI)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-BI CLI Artificial Intelligence
+
+- [BI](https://trescout.com/dictionary/bi/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wrenai/

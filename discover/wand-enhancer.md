@@ -6,23 +6,24 @@ Wand-Enhancer, WeMod oyun yöneticisi için kullanıcı deneyimini optimize eden
 - C#
 - GitHub Trending · 2026-09-19
 
-Wand-Enhancer arayüzü: WeMod istemcisi için özel kısayollar ve arayüz modifikasyonları sunan yönetim ekranı. 
+*Wand-Enhancer arayüzü: WeMod istemcisi için özel kısayollar ve arayüz modifikasyonları sunan yönetim ekranı.*
 
 ## Ne kazandırır?
-- Gelişmiş Arayüz Esnekliği: Varsayılan masaüstü istemcisinin katı arayüz sınırlarını aşarak panelleri ve kısayolları dilediğiniz gibi yapılandırın.
-- Hızlı Tuş Atamaları ve Makrolar: Oyun esnasında dikkatinizi dağıtmadan araçları etkinleştiren özelleştirilebilir kısayol mimarisi.
-- Düşük Sistem Yükü: C# .NET üzerinde yerel derlenen hafif yapısıyla oyun kare hızına (FPS) etki etmeyen bellek dostu mimari.
-- Açık Kaynak Şeffaflığı: Kapalı kutu üçüncü taraf yazılımlara kıyasla kod tabanı topluluk tarafından denetlenebilir ve genişletilebilir.
+
+- **Gelişmiş Arayüz Esnekliği:** Varsayılan masaüstü istemcisinin katı arayüz sınırlarını aşarak panelleri ve kısayolları dilediğiniz gibi yapılandırın.
+- **Hızlı Tuş Atamaları ve Makrolar:** Oyun esnasında dikkatinizi dağıtmadan araçları etkinleştiren özelleştirilebilir kısayol mimarisi.
+- **Düşük Sistem Yükü:** C# .NET üzerinde yerel derlenen hafif yapısıyla oyun kare hızına (FPS) etki etmeyen bellek dostu mimari.
+- **Açık Kaynak Şeffaflığı:** Kapalı kutu üçüncü taraf yazılımlara kıyasla kod tabanı topluluk tarafından denetlenebilir ve genişletilebilir.
 
 ## Teknik mimari ve çalışma prensibi
 
 Wand-Enhancer, istemci çalışma zamanına (runtime) kanca (hook) atarak kullanıcı arayüzü olaylarını yönetir:
 
-1. Çalışma Zamanı Enjeksiyonu ve Kancalar: İstemci penceresinin WPF / WinForms olay döngüsüne bağlanarak tuş vuruşlarını ve pencere durumlarını yakalar.
+**1. Çalışma Zamanı Enjeksiyonu ve Kancalar:** İstemci penceresinin WPF / WinForms olay döngüsüne bağlanarak tuş vuruşlarını ve pencere durumlarını yakalar.
 
-2. Yapılandırma ve Durum Yönetimi: Kullanıcı tercihlerini yerel JSON dosyalarında saklar; bellek üzerinde anlık okuma yaparak gecikmesiz tepki verir.
+**2. Yapılandırma ve Durum Yönetimi:** Kullanıcı tercihlerini yerel JSON dosyalarında saklar; bellek üzerinde anlık okuma yaparak gecikmesiz tepki verir.
 
-3. Modül Ayrımı: Çekirdek mantık ile görsel temalandırma katmanlarını bağımsız kütüphaneler halinde tutar, böylece istemci güncellemelerinde çökme riskini en aza indirir.
+**3. Modül Ayrımı:** Çekirdek mantık ile görsel temalandırma katmanlarını bağımsız kütüphaneler halinde tutar, böylece istemci güncellemelerinde çökme riskini en aza indirir.
 
 ## Kurulum ve eklenti entegrasyonu
 
@@ -44,13 +45,16 @@ dotnet build -c Release
 ```
 
 ## Kod bilmeyenler için yapay zekâ istemi
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Wand-Enhancer eklentisinin C# mimarisini analiz et. İstemci penceresine bağlanan kanca mekanizmasını, olay dinleyicilerini ve yapılandırma dosya yapısını özetle. Yeni bir klavye kısayolu eklemek için gereken sınıf ve metot yapısını gösteren örnek bir kod şablonu hazırla.
 
 ## Kritik uyarılar ve sınırlar
-- İstemci Sürüm Uyumluluğu: Ana WeMod istemcisine gelen büyük güncellemeler API kancalarını geçici olarak kırabilir. Eklentinin sürüm notlarını takip edin.
-- Güvenlik Yazılımları Bildirimleri: Bellek enjeksiyonu ve kanca teknikleri kullanan tüm açık kaynak araçlar gibi yerel antivirüs yazılımlarınca yanlış pozitif (false positive) olarak işaretlenebilir.
-- Yalnızca Masaüstü: Araç yalnızca yerel Windows masaüstü istemcisi üzerinde çalışır; mobil veya web arayüzleri kapsanmaz.
+
+- **İstemci Sürüm Uyumluluğu:** Ana WeMod istemcisine gelen büyük güncellemeler API kancalarını geçici olarak kırabilir. Eklentinin sürüm notlarını takip edin.
+- **Güvenlik Yazılımları Bildirimleri:** Bellek enjeksiyonu ve kanca teknikleri kullanan tüm açık kaynak araçlar gibi yerel antivirüs yazılımlarınca yanlış pozitif (false positive) olarak işaretlenebilir.
+- **Yalnızca Masaüstü:** Araç yalnızca yerel Windows masaüstü istemcisi üzerinde çalışır; mobil veya web arayüzleri kapsanmaz.
 
 ## Sıkça sorulan sorular
 
@@ -64,19 +68,26 @@ Hayır, .NET Core üzerinde optimize edildiği için arka planda minimum CPU ve 
 
 Eklenti ayarlarımı nasıl sıfırlarım?
 
-Kullanıcı dizinindeki config.json dosyasını silerek varsayılan ayarlara anında dönebilirsiniz.
+Kullanıcı dizinindeki `config.json` dosyasını silerek varsayılan ayarlara anında dönebilirsiniz.
 
 Kendi özel temalarımı geliştirebilir miyim?
 
 Evet, arayüz stilleri XAML/CSS tabanlı şablonlarla yapılandırılabilir.
 
 ## Bağlantılar
+
 - [GitHub deposu (the1andonlych33s3/wand-enhancer) →](https://github.com/the1andonlych33s3/wand-enhancer)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-WeMod Runtime CPU API Open Source Artificial Intelligence
+
+- [WeMod](https://trescout.com/dictionary/wemod/)
+- [Runtime](https://trescout.com/dictionary/runtime/)
+- [CPU](https://trescout.com/dictionary/cpu/)
+- [API](https://trescout.com/dictionary/api/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wand-enhancer/

@@ -7,10 +7,12 @@ Holehe, girilen bir e-posta adresinin Twitter ve Instagram gibi popüler platfor
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
-- 1 Eylül 2026: Yıldız 13.530 → 14.563.
-- 18 Ağustos 2026: Yıldız 12.498 → 13.530.
+
+- **1 Eylül 2026:** Yıldız 13.530 → 14.563.
+- **18 Ağustos 2026:** Yıldız 12.498 → 13.530.
 
 ## Ne kazandırır?
+
 - 120'den fazla platformda e-posta sorgulama
 - Hedef e-posta adresine bildirim göndermeme
 - Parola sıfırlama işlevlerini kullanarak tespit
@@ -40,19 +42,23 @@ holehe test@gmail.com
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Holehe aracını kullanarak [E-POSTA_ADRESI] adresinin hangi platformlarda kayıtlı olduğunu kontrol et ve sonuçları liste halinde sun.
 
-- **Kimin için:** Bir e-posta adresinin hangi sosyal medya veya hizmet platformlarında kullanıldığını tespit etmek isteyen araştırmacılar içindir. 
-- **Lisans:** GPL-3.0 
+- **Kimin için:** Bir e-posta adresinin hangi sosyal medya veya hizmet platformlarında kullanıldığını tespit etmek isteyen araştırmacılar içindir.
+- **Lisans:** GPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/megadose/holehe)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/holehe/

@@ -7,12 +7,14 @@ HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastru
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 49.758 → 49.812, son sürüm v1.16.5 (2 Ekim 2026).
-- 27 Eylül 2026: Yıldız 49.674 → 49.758, son sürüm v1.16.4 (23 Eylül 2026).
-- 17 Eylül 2026: Yıldız 49.631 → 49.674, son sürüm v1.16.3 (16 Eylül 2026).
-- 10 Eylül 2026: Yıldız 49.611 → 49.631, son sürüm v1.16.2 (9 Eylül 2026).
+
+- **2 Ekim 2026:** Yıldız 49.758 → 49.812, son sürüm v1.16.5 (2 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 49.674 → 49.758, son sürüm v1.16.4 (23 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 49.631 → 49.674, son sürüm v1.16.3 (16 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 49.611 → 49.631, son sürüm v1.16.2 (9 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Altyapı süreçlerini sürüm kontrolü ile yönetme
 - Değişiklikleri uygulamadan önce planlama
 - Kaynak bağımlılıklarını görselleştirme ve yönetme
@@ -45,22 +47,26 @@ docker pull hashicorp/terraform
 terraform -version
 ```
 
-Kaynak: HashiCorp resmî Homebrew tap'i · Docker Hub hashicorp/terraform
+**Kaynak:** HashiCorp resmî Homebrew tap'i · Docker Hub hashicorp/terraform
 
 ## Nasıl başlanır?
 
 Terraform kullanmaya başlamak için resmî web sitesi üzerindeki dokümantasyon sayfalarını ziyaret edebilirsiniz. Kurulum ve temel adımlar için HashiCorp'un öğrenme platformunda yer alan başlangıç rehberlerini takip etmeniz önerilir.
+
 - [Resmî kaynak →](http://developer.hashicorp.com/terraform)
 
-- **Kimin için:** Altyapı süreçlerini otomatize etmek ve kod üzerinden yönetmek isteyen sistem yöneticileri ve yazılım geliştiriciler içindir. 
+- **Kimin için:** Altyapı süreçlerini otomatize etmek ve kod üzerinden yönetmek isteyen sistem yöneticileri ve yazılım geliştiriciler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/hashicorp/terraform)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Infrastructure as Code API
+
+- [Infrastructure as Code](https://trescout.com/dictionary/infrastructure-as-code/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/terraform/

@@ -7,12 +7,14 @@ Claude Code altyapısını kullanan ai-job-search, iş arama sürecini otomatikl
 - GitHub Trending · 2026-07-08
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 43.175 → 44.486, son sürüm v1.7.2 (29 Eylül 2026).
-- 17 Eylül 2026: Yıldız 41.119 → 43.175, son sürüm v1.7.1 (6 Eylül 2026).
-- 7 Eylül 2026: Yıldız 40.964 → 41.119, son sürüm v1.7.1 (6 Eylül 2026).
-- 6 Eylül 2026: Yıldız 38.978 → 40.964, son sürüm v1.7.0 (29 Ağustos 2026).
+
+- **29 Eylül 2026:** Yıldız 43.175 → 44.486, son sürüm v1.7.2 (29 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 41.119 → 43.175, son sürüm v1.7.1 (6 Eylül 2026).
+- **7 Eylül 2026:** Yıldız 40.964 → 41.119, son sürüm v1.7.1 (6 Eylül 2026).
+- **6 Eylül 2026:** Yıldız 38.978 → 40.964, son sürüm v1.7.0 (29 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Kişisel profilinize göre öz geçmiş ve ön yazı hazırlar
 - İş ilanlarını analiz ederek uygunluk puanı verir
 - Mülakat hazırlığı için rehberlik sunar
@@ -44,19 +46,24 @@ cd .agents/skills/linkedin-search/cli && bun install && cd ../../../..
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code içerisindeyken /setup komutunu kullanarak profilini oluştur. Ardından /scrape komutuyla uygun iş ilanlarını listele ve /apply komutunu kullanarak seçtiğin ilan için öz geçmiş ve ön yazı taslağını oluşturmasını sağla. Süreç boyunca yapay zekânın ilanla olan uyumunu değerlendirmesini ve mülakat hazırlığı için geri bildirim vermesini iste.
 
-- **Kimin için:** İş arama sürecini otomatikleştirmek ve yapay zekâ desteğiyle özelleştirilmiş başvurular hazırlamak isteyen profesyoneller için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** İş arama sürecini otomatikleştirmek ve yapay zekâ desteğiyle özelleştirilmiş başvurular hazırlamak isteyen profesyoneller için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/MadsLorentzen/ai-job-search)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Framework Artificial Intelligence
+
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-job-search/

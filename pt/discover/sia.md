@@ -7,11 +7,13 @@ SIA é uma estrutura de IA de autoaperfeiçoamento desenvolvida para melhorar de
 - GitHub Trending · 2026-06-12
 
 ## O que você ganha
+
 - Melhora de forma autônoma o desempenho das tarefas dos modelos de inteligência artificial.
 - Meta fornece refinamento cíclico entre agentes alvo e de feedback.
 - Oferece alta precisão e eficiência de velocidade de processamento em tarefas de benchmark.
 
 ## Instalação
+
 **Instalação com Modelos Claude**
 
 ```
@@ -32,8 +34,8 @@ export GEMINI_API_KEY="..."      # for gemini/* models (or GOOGLE_API_KEY)
 export OPENAI_API_KEY="..."      # for openai/* models
 ```
 
-
 ## Execução
+
 **Iniciando o ciclo de autocura**
 
 ```
@@ -46,15 +48,26 @@ sia run --task gpqa --max_gen 5 --run_id 1
 sia web
 ```
 
-
 ## Se você não programa
+
+🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+
 Quero melhorar o desempenho de um agente de IA usando a estrutura SIA. Após concluir a instalação, qual comando devo usar para iniciar o ciclo de autoaperfeiçoamento selecionando uma das tarefas disponíveis (por exemplo, gpqa) e como devo interpretar as saídas no final do processo (target_agent.py, agent_execution.json, melhoria.md)? Além disso, como posso incluir meu próprio diretório de tarefas personalizado no sistema?
 
 ## Termos relacionados do glossário
 
+- [Benchmark](https://trescout.com/pt/dictionary/benchmark/)
+- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
+
+- **Para quem é:** É adequado para desenvolvedores e pesquisadores que desejam otimizar o desempenho de modelos de IA por meio de processos de melhoria autônomos.
+- **Licença:** MIT
+
 ## Links
-- Repositório no GitHub →
-- Ler em turco →
+
+- [Repositório no GitHub →](https://github.com/hexo-ai/sia)
+- [Ler em turco →](https://trescout.com/discover/sia/)
+
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-12: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/sia/

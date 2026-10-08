@@ -7,12 +7,14 @@ Modly, görsellerden üç boyutlu modeller (3D models) oluşturan ve tüm işlem
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 7.347 → 7.930, son sürüm v0.4.3 (4 Ekim 2026).
-- 31 Ağustos 2026: Yıldız 7.132 → 7.347, son sürüm v0.4.2 (28 Ağustos 2026).
-- 22 Ağustos 2026: Yıldız 6.115 → 7.132, son sürüm v0.4.1 (16 Temmuz 2026).
-- 15 Ağustos 2026: Yıldız 5.550 → 6.115, son sürüm v0.4.1 (16 Temmuz 2026).
+
+- **5 Ekim 2026:** Yıldız 7.347 → 7.930, son sürüm v0.4.3 (4 Ekim 2026).
+- **31 Ağustos 2026:** Yıldız 7.132 → 7.347, son sürüm v0.4.2 (28 Ağustos 2026).
+- **22 Ağustos 2026:** Yıldız 6.115 → 7.132, son sürüm v0.4.1 (16 Temmuz 2026).
+- **15 Ağustos 2026:** Yıldız 5.550 → 6.115, son sürüm v0.4.1 (16 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Fotoğrafları yerel bilgisayarda 3D modellere dönüştürür
 - İnternet bağlantısı gerektirmeden tamamen çevrimdışı çalışır
 - Harici modellerle genişletilebilir esnek bir yapı sunar
@@ -30,8 +32,8 @@ npm install
 ```
 cd api
 python -m venv .venv
-.venv\Scripts\activate # Windows
-source .venv/bin/activate # Linux / macOS
+.venv\Scripts\activate     # Windows
+source .venv/bin/activate  # Linux / macOS
 pip install -r requirements.txt
 ```
 
@@ -48,18 +50,26 @@ launch.bat
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Modly uygulamasını kullanarak bir görseli 3D modele dönüştürmek istiyorum. Uygulama içerisinde 'Workflows' sekmesine giderek 'Image -> Generate Mesh -> Add to Scene' akışını kurmama yardımcı ol. Ardından 'Generate' sekmesinden ilgili iş akışını seçerek 3D model üretimini başlatmamı sağla. Eğer bir hata alırsam 'Settings/Logs/Errors' kısmından sorunu nasıl analiz edebilirim?
 
-- **Kimin için:** Kendi bilgisayarının ekran kartı gücünü kullanarak gizlilikten ödün vermeden üç boyutlu tasarımlar üretmek isteyen dijital sanatçılar ve geliştiriciler içindir. 
+- **Kimin için:** Kendi bilgisayarının ekran kartı gücünü kullanarak gizlilikten ödün vermeden üç boyutlu tasarımlar üretmek isteyen dijital sanatçılar ve geliştiriciler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/lightningpixel/modly)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Logs Workflows Mesh GPU Artificial Intelligence
+
+- [Logs](https://trescout.com/dictionary/logs/)
+- [Workflows](https://trescout.com/dictionary/workflows/)
+- [Mesh](https://trescout.com/dictionary/mesh/)
+- [GPU](https://trescout.com/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/modly/

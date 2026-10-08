@@ -7,12 +7,14 @@ Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve eriş
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 37.077 → 37.079, son sürüm 26.8.0 (1 Ekim 2026).
-- 1 Ekim 2026: Yıldız 36.819 → 37.077, son sürüm 26.7.5 (30 Eylül 2026).
-- 17 Eylül 2026: Yıldız 36.517 → 36.819, son sürüm 26.7.4 (16 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 36.268 → 36.517, son sürüm 26.7.3 (31 Ağustos 2026).
+
+- **1 Ekim 2026:** Yıldız 37.077 → 37.079, son sürüm 26.8.0 (1 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 36.819 → 37.077, son sürüm 26.7.5 (30 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 36.517 → 36.819, son sürüm 26.7.4 (16 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 36.268 → 36.517, son sürüm 26.7.3 (31 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Kullanıcı kimlik doğrulama süreçlerini standartlaştırır.
 - Güçlü kimlik yönetimi ve yetkilendirme sağlar.
 - Uygulama güvenliğini zahmetsizce artırır.
@@ -33,23 +35,27 @@ docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME
 http://localhost:8080
 ```
 
-Kaynak: Resmî kaynak: https://www.keycloak.org/server/containers
+**Kaynak:** Resmî kaynak: https://www.keycloak.org/server/containers
 
 ## Nasıl başlanır?
 
 Keycloak'ı kullanmaya başlamak için resmî web sitesi üzerinden dağıtım paketini indirip bilgisayarınıza çıkartmanız gerekmektedir. Alternatif olarak, Docker kullanarak hızlıca çalıştırabilirsiniz. Detaylı kurulum ve yapılandırma adımları için resmî dokümantasyon sayfasını ziyaret edebilirsiniz.
+
 - [Resmî kaynak →](https://www.keycloak.org)
 
-- **Kimin için:** Uygulamalarında kullanıcı kimlik doğrulama ve erişim yönetimi süreçlerini merkezi ve güvenli bir şekilde yönetmek isteyen yazılım geliştiriciler ve sistem yöneticileri içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Uygulamalarında kullanıcı kimlik doğrulama ve erişim yönetimi süreçlerini merkezi ve güvenli bir şekilde yönetmek isteyen yazılım geliştiriciler ve sistem yöneticileri içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/keycloak/keycloak)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Containers Container
+
+- [Containers](https://trescout.com/dictionary/containers/)
+- [Container](https://trescout.com/dictionary/container/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/keycloak/

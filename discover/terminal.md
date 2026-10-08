@@ -7,10 +7,12 @@ Microsoft, Windows Terminal ve geleneksel Windows konsol ana bilgisayarını (co
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 104.442 → 105.059, son sürüm v1.25.2733.0 (2 Ekim 2026).
-- 2 Ağustos 2026: Yıldız 104.241 → 104.442, son sürüm v1.24.11911.0 (16 Temmuz 2026).
+
+- **3 Ekim 2026:** Yıldız 104.442 → 105.059, son sürüm v1.25.2733.0 (2 Ekim 2026).
+- **2 Ağustos 2026:** Yıldız 104.241 → 104.442, son sürüm v1.24.11911.0 (16 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Modern ve özelleştirilebilir arayüz
 - Çoklu sekme desteği
 - Gelişmiş komut satırı performansı
@@ -31,23 +33,27 @@ winget install Microsoft.WindowsTerminal
 wt
 ```
 
-Kaynak: winget (Microsoft.WindowsTerminal) · resmî Microsoft dokümantasyonu (learn.microsoft.com)
+**Kaynak:** winget (Microsoft.WindowsTerminal) · resmî Microsoft dokümantasyonu (learn.microsoft.com)
 
 ## Nasıl başlanır?
 
 Windows Terminal uygulamasını Microsoft Store üzerinden kolayca indirebilirsiniz. Alternatif olarak GitHub üzerindeki Releases sayfasından güncel sürümü manuel olarak indirebilir veya winget, Chocolatey ya da Scoop gibi paket yöneticilerini kullanarak bilgisayarınıza kurabilirsiniz.
+
 - [Resmî kaynak →](https://aka.ms/terminal)
 
-- **Kimin için:** Windows üzerinde komut satırı kullanan ve daha modern, işlevsel bir terminal arayüzüne ihtiyaç duyan herkes içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Windows üzerinde komut satırı kullanan ve daha modern, işlevsel bir terminal arayüzüne ihtiyaç duyan herkes içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/microsoft/terminal)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Console Host Terminal
+
+- [Console Host](https://trescout.com/dictionary/console-host/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/terminal/

@@ -7,12 +7,14 @@ Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişi
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 33.083 → 34.287, son sürüm v0.1.16 (29 Eylül 2026).
-- 9 Eylül 2026: Yıldız 32.899 → 33.083, son sürüm v0.1.15 (9 Eylül 2026).
-- 7 Eylül 2026: Yıldız 31.295 → 32.899, son sürüm v0.1.14 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 30.558 → 31.295, son sürüm v0.1.14 (20 Ağustos 2026).
+
+- **29 Eylül 2026:** Yıldız 33.083 → 34.287, son sürüm v0.1.16 (29 Eylül 2026).
+- **9 Eylül 2026:** Yıldız 32.899 → 33.083, son sürüm v0.1.15 (9 Eylül 2026).
+- **7 Eylül 2026:** Yıldız 31.295 → 32.899, son sürüm v0.1.14 (20 Ağustos 2026).
+- **20 Ağustos 2026:** Yıldız 30.558 → 31.295, son sürüm v0.1.14 (20 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Kişisel alım satım ajanı ile otomatik strateji yönetimi.
 - Çoklu aracı kurum desteği ile piyasa verilerine erişim.
 - Güvenlik odaklı işlem yetkisi ve denetim defteri.
@@ -33,12 +35,12 @@ cd Vibe-Trading
 python -m venv .venv
 
 # Activate
-source .venv/bin/activate # Linux / macOS
-# .venv\Scripts\Activate.ps1 # Windows PowerShell
+source .venv/bin/activate          # Linux / macOS
+# .venv\Scripts\Activate.ps1       # Windows PowerShell
 
 pip install -e .
-cp agent/.env.example agent/.env # Edit — set your LLM provider API key
-vibe-trading # Launch interactive TUI
+cp agent/.env.example agent/.env   # Edit — set your LLM provider API key
+vibe-trading                       # Launch interactive TUI
 ```
 
 ## Çalıştırma
@@ -56,19 +58,25 @@ vibe-trading alpha bench --zoo gtja191 --universe csi300 --period 2018-2025 --to
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Vibe-Trading ajanı ile finansal piyasalarda işlem yapmak istiyorum. Lütfen bana güncel piyasa verilerini analiz etmemde, belirlediğim stratejileri geriye dönük test etmemde ve aracı kurum bağlantılarımı güvenli bir şekilde yönetmemde yardımcı ol. Özellikle işlem mandalarımı ve risk limitlerimi belirleyerek otomatik alım satım süreçlerini nasıl yapılandırabileceğimi adım adım açıkla.
 
-- **Kimin için:** Finansal piyasalarda otomatik ticaret stratejileri geliştirmek ve yönetmek isteyen kullanıcılar için tasarlanmıştır. 
-- **Lisans:** MIT 
+- **Kimin için:** Finansal piyasalarda otomatik ticaret stratejileri geliştirmek ve yönetmek isteyen kullanıcılar için tasarlanmıştır.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/HKUDS/Vibe-Trading)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Trading Agent Agent Artificial Intelligence
+
+- [Trading Agent](https://trescout.com/dictionary/trading-agent/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vibe-trading/

@@ -7,12 +7,14 @@ C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performan
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 10.063 → 10.279, son sürüm v2.29.0 (7 Ekim 2026).
-- 5 Ekim 2026: Yıldız 9.701 → 10.063, son sürüm v2.28.1 (4 Ekim 2026).
-- 27 Eylül 2026: Yıldız 8.809 → 9.701, son sürüm v2.28.0 (21 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 8.365 → 8.809, son sürüm v2.27.6 (28 Ağustos 2026).
+
+- **7 Ekim 2026:** Yıldız 10.063 → 10.279, son sürüm v2.29.0 (7 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 9.701 → 10.063, son sürüm v2.28.1 (4 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 8.809 → 9.701, son sürüm v2.28.0 (21 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 8.365 → 8.809, son sürüm v2.27.6 (28 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Windows arka plan işlemlerini ve bloatware yazılımları temizler
 - Performans, gizlilik ve GPU ayarlarını tek arayüzde toplar
 - Sistem kaynaklarını optimize ederek daha akıcı bir deneyim sunar
@@ -20,17 +22,21 @@ C# diliyle geliştirilen optimizerDuck, Windows işletim sistemlerinde performan
 ## Nasıl başlanır?
 
 Aracı kullanmaya başlamak için GitHub üzerindeki resmî sürümler sayfasını ziyaret edin. İlgili bağlantıdan güncel sürümü indirin ve herhangi bir kurulum yapmadan doğrudan .exe dosyasını çalıştırarak ayarları yapılandırmaya başlayın.
+
 - [Resmî kaynak →](https://optimizerduck.vercel.app/)
 
-- **Kimin için:** Windows işletim sistemini daha hızlı ve gizlilik odaklı kullanmak isteyen, karmaşık kayıt defteri ayarlarıyla uğraşmak istemeyen kullanıcılar içindir. 
+- **Kimin için:** Windows işletim sistemini daha hızlı ve gizlilik odaklı kullanmak isteyen, karmaşık kayıt defteri ayarlarıyla uğraşmak istemeyen kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/itsfatduck/optimizerDuck)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Bloatware GPU
+
+- [Bloatware](https://trescout.com/dictionary/bloatware/)
+- [GPU](https://trescout.com/dictionary/gpu/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/optimizerduck/

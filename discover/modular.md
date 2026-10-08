@@ -7,11 +7,13 @@ Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı su
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
-- 18 Eylül 2026: Yıldız 28.875 → 29.812, son sürüm max/v26.6.0 (17 Eylül 2026).
-- 23 Ağustos 2026: Yıldız 27.449 → 28.875, son sürüm max/v26.5.0 (11 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 27.442 → 27.449, son sürüm max/v26.5.0 (11 Ağustos 2026).
+
+- **18 Eylül 2026:** Yıldız 28.875 → 29.812, son sürüm max/v26.6.0 (17 Eylül 2026).
+- **23 Ağustos 2026:** Yıldız 27.449 → 28.875, son sürüm max/v26.5.0 (11 Ağustos 2026).
+- **20 Ağustos 2026:** Yıldız 27.442 → 27.449, son sürüm max/v26.5.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Yapay zekâ modellerini çalıştırmak için optimize edilmiş MAX motorunu kullanın.
 - Python dilinin kullanım kolaylığını sistem programlama hızıyla birleştiren Mojo dilini keşfedin.
 - Yapay zekâ geliştirme ve dağıtım süreçlerini tek bir platform üzerinden yönetin.
@@ -19,17 +21,20 @@ Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı su
 ## Nasıl başlanır?
 
 Platformu kullanmaya başlamak için resmî web sitesindeki rehberlerden faydalanabilirsiniz. Yapay zekâ modellerini çalıştırmak ve MAX çerçevesini kullanmak için MAX hızlı başlangıç kılavuzuna, Mojo programlama diliyle çalışmaya başlamak için ise Mojo hızlı başlangıç kılavuzuna göz atmanız yeterlidir.
+
 - [Resmî kaynak →](https://docs.modular.com/)
 
-- **Kimin için:** Yapay zekâ modellerini daha hızlı çalıştırmak ve sistem seviyesinde yazılım geliştirme süreçlerini optimize etmek isteyen yazılım geliştiriciler için uygundur. 
+- **Kimin için:** Yapay zekâ modellerini daha hızlı çalıştırmak ve sistem seviyesinde yazılım geliştirme süreçlerini optimize etmek isteyen yazılım geliştiriciler için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/modular/modular)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/modular/

@@ -7,12 +7,14 @@ PrimeIntellect tarafından geliştirilen Prime-Agent, yazılım geliştirme sür
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 21.378 → 21.387, son sürüm v0.9.8 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 21.309 → 21.378, son sürüm v0.9.7 (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 20.880 → 21.309, son sürüm v0.9.6 (24 Eylül 2026).
-- 16 Eylül 2026: Yıldız 20.364 → 20.880, son sürüm v0.9.5 (16 Eylül 2026).
+
+- **29 Eylül 2026:** Yıldız 21.378 → 21.387, son sürüm v0.9.8 (29 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 21.309 → 21.378, son sürüm v0.9.7 (28 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 20.880 → 21.309, son sürüm v0.9.6 (24 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 20.364 → 20.880, son sürüm v0.9.5 (16 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Uzun süreli görevleri arka planda kesintisiz yürütür
 - Kod yazma ve dosya yönetimi süreçlerini otomatikleştirir
 - Kendi kendini iyileştiren pekiştirmeli öğrenme yeteneği sunar
@@ -34,19 +36,26 @@ prime-agent
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen Prime Agent olarak görev yapıyorsun. Proje dizinimde karmaşık yazılım geliştirme iş akışlarını yönetmek, dosya işlemlerini gerçekleştirmek ve uzun süreli otonom görevleri takip etmek için IPython ortamını kullan. Gerektiğinde alt ajanlar oluşturarak paralel çalış, /refine komutuyla öğrenilenleri kalıcı hale getir ve /autonomous moduyla belirlenen bütçeler dahilinde hedefleri tamamla. İşlemleri yaparken her zaman kullanıcı izinlerini ve güvenlik sınırlarını gözeterek hareket et.
 
-- **Kimin için:** Karmaşık yazılım projelerinde uzun süreli ve otonom görevleri otomatikleştirmek isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Karmaşık yazılım projelerinde uzun süreli ve otonom görevleri otomatikleştirmek isteyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/PrimeIntellect-ai/prime-agent)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Reinforcement Learning Agent Reinforcement Learning Agent Artificial Intelligence
+
+- [Reinforcement Learning Agent](https://trescout.com/dictionary/reinforcement-learning-agent/)
+- [Reinforcement Learning](https://trescout.com/dictionary/reinforcement-learning/)
+- [Agent](https://trescout.com/dictionary/agent/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/prime-agent/

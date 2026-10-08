@@ -7,9 +7,11 @@
 - GitHub Trending · 2026-07-15
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 54.609 → 60.379.
+
+- **2 Ağustos 2026:** Yıldız 54.609 → 60.379.
 
 ## Ne kazandırır?
+
 - Bağımsız geliştiricilerin güncel uygulamalarına erişim
 - Farklı sektörlerdeki ürün odaklı çalışmaları takip etme
 - Açık kaynaklı projelerin canlı veri tabanını inceleme
@@ -17,17 +19,20 @@
 ## Nasıl başlanır?
 
 Bu araç bir yazılım kurulumu gerektirmez. Projeleri incelemek için GitHub üzerindeki ana sayfayı ziyaret edebilir, listelenen uygulamaların web sitelerine veya ilgili depo bağlantılarına tıklayarak doğrudan göz atabilirsiniz.
+
 - [Resmî kaynak →](https://github.com/xhdndmm)
 
-- **Kimin için:** Bağımsız geliştiricilik ekosistemindeki yeni ürünleri, güncel eğilimleri ve yaratıcı yazılım projelerini takip etmek isteyen herkes içindir. 
+- **Kimin için:** Bağımsız geliştiricilik ekosistemindeki yeni ürünleri, güncel eğilimleri ve yaratıcı yazılım projelerini takip etmek isteyen herkes içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/1c7/chinese-independent-developer)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Indie Hacking
+
+- [Indie Hacking](https://trescout.com/dictionary/indie-hacking/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chinese-independent-developer/

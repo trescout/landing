@@ -1,35 +1,49 @@
 # Was ist Computer Vision?
 
+*Glossar · AI · Zuletzt aktualisiert: 9. Juni 2026*
+
 Dabei handelt es sich um eine Technologie, die es Computern ermöglicht, visuelle Daten (Fotos, Videos) zu analysieren und die darin enthaltenen Objekte, Personen oder Ereignisse zu verstehen.
 
 ## Definition
+
 Computer Vision ermöglicht es künstlicher Intelligenz, die Welt wie ein Mensch zu sehen und zu interpretieren. Es analysiert nicht nur die Pixel, sondern auch, was diese Pixel bedeuten (zum Beispiel eine Katze oder einen Verkehrsunfall). Dank dieser Technologie können Maschinen die visuelle Welt verarbeiten.
 
+***Analogie:** Es ist, als würde ein Baby nach und nach lernen, Gegenstände um sich herum zu erkennen; Erfasst zuerst Formen, dann Objekte und dann deren Bedeutung.*
+
 ## So funktioniert es
+
 Visuelle Daten werden durch künstliche neuronale Netze weitergeleitet. Das Modell klassifiziert oder lokalisiert Objekte im Bild anhand von Millionen Beispielen, die es in der Vergangenheit gesehen hat.
 
 ## Wo es eingesetzt wird
+
 Es wird in autonomen Fahrzeugen, Gesichtserkennungssystemen, medizinischen Bildgebungs- und Sicherheitskameras eingesetzt.
 
 ## Häufig verwechselt mit
+
 Kombinierbar mit Multimodal; Multimodal kann sowohl Text als auch Bilder verarbeiten, während Computer Vision visuell orientiert ist.
 
 ## Häufige Fragen
+
 **Kann Computer Vision alles sehen?**
+
 Nein, es ist so erfolgreich wie die Daten, auf denen es trainiert wird.
 
 **Verursacht es eine falsche Erkennung?**
+
 Ja, es kann mit Bildern von geringer Qualität oder einem Objekt verwechselt werden, das es noch nie zuvor gesehen hat.
 
-
 ## Verwandte Begriffe
-- [Multimodal](/de/dictionary/multimodal/)
-- [Physical AI](/de/dictionary/physical-ai/)
-- [Optical Character Recognition](/de/dictionary/optical-character-recognition/)
+
+- [Multimodal](https://trescout.com/de/dictionary/multimodal/)
+- [Physical AI](https://trescout.com/de/dictionary/physical-ai/)
+- [Optical Character Recognition](https://trescout.com/de/dictionary/optical-character-recognition/)
 
 ## Verwandte Werkzeuge
-- [Opencv](/de/discover/opencv/)
-- [Supervision](/de/discover/supervision/)
+
+- [Opencv](https://trescout.com/de/discover/opencv/)
+- [Supervision](https://trescout.com/de/discover/supervision/)
+
+Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/computer-vision/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/computer-vision/

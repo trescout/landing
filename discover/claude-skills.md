@@ -7,12 +7,14 @@ Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, m
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 25.061 → 26.514, son sürüm v2.12.0 (25 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 24.867 → 25.061, son sürüm v2.12.0 (25 Ağustos 2026).
-- 24 Ağustos 2026: Yıldız 23.654 → 24.867, son sürüm v2.9.0 (28 Mayıs 2026).
-- 2 Ağustos 2026: Yıldız 20.244 → 23.654, son sürüm v2.9.0 (28 Mayıs 2026).
+
+- **27 Eylül 2026:** Yıldız 25.061 → 26.514, son sürüm v2.12.0 (25 Ağustos 2026).
+- **27 Ağustos 2026:** Yıldız 24.867 → 25.061, son sürüm v2.12.0 (25 Ağustos 2026).
+- **24 Ağustos 2026:** Yıldız 23.654 → 24.867, son sürüm v2.9.0 (28 Mayıs 2026).
+- **2 Ağustos 2026:** Yıldız 20.244 → 23.654, son sürüm v2.9.0 (28 Mayıs 2026).
 
 ## Ne kazandırır?
+
 - 350'den fazla hazır yetenek paketi
 - Mühendislikten pazarlamaya geniş uzmanlık alanı
 - 13 farklı kodlama aracıyla uyumlu çalışma
@@ -36,7 +38,8 @@ cd claude-skills
 **OpenClaw kurulumu**
 
 ```
-bash 
+bash <(curl -s https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/scripts/openclaw-install.sh)
+```
 
 ## Çalıştırma
 
@@ -53,23 +56,29 @@ bash
 ./scripts/install.sh --tool aider --target . --force
 
 # 3. Verify
-find .cursor/rules -name "*.mdc" | wc -l # Should show 346
+find .cursor/rules -name "*.mdc" | wc -l  # Should show 346
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Claude Code veya kullandığın kodlama ajanı için bu kütüphanedeki yetenek paketlerini aktif et. Mühendislik, pazarlama veya C-seviyesi danışmanlık gibi alanlarda uzmanlaşmış betikleri kullanarak iş akışımı standartlaştır ve üretkenliğimi artır. İhtiyacım olan spesifik yetenekleri (örneğin güvenlik denetimi veya ürün geliştirme) projeme entegre et.
 
-- **Kimin için:** Yapay zekâ destekli kodlama araçlarını profesyonel iş akışlarında daha verimli ve uzman bir şekilde kullanmak isteyen yazılımcılar ve teknik ekipler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yapay zekâ destekli kodlama araçlarını profesyonel iş akışlarında daha verimli ve uzman bir şekilde kullanmak isteyen yazılımcılar ve teknik ekipler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/alirezarezvani/claude-skills)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Skills CLI Artificial Intelligence
+
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-skills/

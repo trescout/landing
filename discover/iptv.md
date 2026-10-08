@@ -6,12 +6,14 @@ Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplay
 - TypeScript
 - GitHub Trending · 2026-06-13
 
-TreScout notu: Dünyadaki açık televizyon yayınlarının bağlantılarını toplayan bir liste. Kurulacak bir program değil, oynatıcınıza vereceğiniz adresler · bağlantılar sık ölür ve hangi yayının hangi ülkede izlenebildiği sizin sorumluluğunuzdadır.
+**TreScout notu:** Dünyadaki açık televizyon yayınlarının bağlantılarını toplayan bir liste. Kurulacak bir program değil, oynatıcınıza vereceğiniz adresler · bağlantılar sık ölür ve hangi yayının hangi ülkede izlenebildiği sizin sorumluluğunuzdadır.
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 118.170 → 134.991.
+
+- **2 Ağustos 2026:** Yıldız 118.170 → 134.991.
 
 ## Ne kazandırır?
+
 - Dünya genelindeki halka açık televizyon kanallarını tek bir merkezde toplar.
 - İnternet protokolü üzerinden televizyon yayını listelerini standartlaştırır.
 - Canlı yayınları destekleyen video oynatıcılar üzerinden erişim sağlar.
@@ -19,18 +21,21 @@ TreScout notu: Dünyadaki açık televizyon yayınlarının bağlantılarını t
 ## Nasıl başlanır?
 
 Bu aracı kullanmak için herhangi bir kurulum yapmanıza gerek yoktur. Projenin ana oynatma listesi olan https://iptv-org.github.io/iptv/index.m3u bağlantısını kopyalayın ve canlı yayın desteği olan herhangi bir video oynatıcının ağ akışı veya URL açma bölümüne yapıştırarak izlemeye başlayın.
+
 - [Resmî kaynak →](https://iptv-org.github.io)
 
-- **Kimin için:** Dünya genelindeki halka açık televizyon kanallarını tek bir uygulama üzerinden izlemek isteyen kullanıcılar içindir. 
-- **Lisans:** Unlicense 
+- **Kimin için:** Dünya genelindeki halka açık televizyon kanallarını tek bir uygulama üzerinden izlemek isteyen kullanıcılar içindir.
+- **Lisans:** Unlicense
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/iptv-org/iptv)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-IPTV
+
+- [IPTV](https://trescout.com/dictionary/iptv/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iptv/

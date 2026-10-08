@@ -1,6 +1,6 @@
 # Finansal Piyasaları Analiz Eden Model
 
-Kronos , finansal piyasaların kendine has örüntülerini çözümlemek için tasarlanmış bir temel modeldir (foundation model) . Piyasa verilerinin karmaşık yapısını analiz etmeye odaklanır ve kantitatif finans ile makine öğrenmesi çalışmalarında kullanılır.
+**Kronos**, finansal piyasaların kendine has örüntülerini çözümlemek için tasarlanmış bir **temel modeldir (foundation model)**. Piyasa verilerinin karmaşık yapısını analiz etmeye odaklanır ve kantitatif finans ile makine öğrenmesi çalışmalarında kullanılır.
 
 - ★ 39.218
 - Python
@@ -25,20 +25,22 @@ pip install -r requirements.txt
 python examples/prediction_example.py
 ```
 
-Kaynak: Resmî kaynak: https://github.com/shiyu-coder/Kronos
+**Kaynak:** Resmî kaynak: https://github.com/shiyu-coder/Kronos
 
 ## Güncelleme
-- 19 Eylül 2026: Yıldız 37.285 → 39.218.
-- 15 Ağustos 2026: Yıldız 35.441 → 37.285.
-- 2 Ağustos 2026: Yıldız 26.888 → 35.441.
 
-- **Kimin için:** Quant / ML araştırmacıları, finans-veri çalışanları 
-- **Zorluk:** İleri · ML + finans bilgisi 
-- **Ne sunar:** Piyasa verisi için temel model 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) 
-- **Not:** Yatırım tavsiyesi değildir 
+- **19 Eylül 2026:** Yıldız 37.285 → 39.218.
+- **15 Ağustos 2026:** Yıldız 35.441 → 37.285.
+- **2 Ağustos 2026:** Yıldız 26.888 → 35.441.
+
+- **Kimin için:** Quant / ML araştırmacıları, finans-veri çalışanları
+- **Zorluk:** İleri · ML + finans bilgisi
+- **Ne sunar:** Piyasa verisi için temel model
+- **Ücret:** Ücretsiz · açık kaynak (MIT)
+- **Not:** Yatırım tavsiyesi değildir
 
 ## Ne işe yarar?
+
 - Piyasa örüntülerini modellemek için temel oluşturur.
 - Temel model (foundation model) olarak ince ayar yapılabilir.
 - Finansal NLP ve araştırmalar için sağlam bir altyapı sunar.
@@ -48,18 +50,25 @@ Kaynak: Resmî kaynak: https://github.com/shiyu-coder/Kronos
 Bu bir araştırma modelidir; yatırım tavsiyesi ya da hazır kazanç aracı değildir. Finansal kararların sorumluluğu size aittir.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Kronos finansal tahmin modelini kur: depoyu indirip içinde 'pip install -r requirements.txt' çalıştır, sonra 'python examples/prediction_example.py' betiğini çalıştırarak K-line (mum grafiği) verisi üzerinde bir fiyat tahmini üret ve sonucu grafikle.
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
+**Lisans:** MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/shiyu-coder/Kronos)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-NLP Foundation Model Open Source Artificial Intelligence
+
+- [NLP](https://trescout.com/dictionary/nlp/)
+- [Foundation Model](https://trescout.com/dictionary/foundation-model/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kronos/

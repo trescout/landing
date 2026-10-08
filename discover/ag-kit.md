@@ -7,10 +7,12 @@ Ag-kit, TypeScript tabanlı projelerde otonom yapay zekâ ajanları (AI agents) 
 - GitHub Trending · 2026-07-28
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 8.084 → 8.159, son sürüm v2026.8.31 (31 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 8.020 → 8.084, son sürüm v2026.7.27 (26 Temmuz 2026).
+
+- **31 Ağustos 2026:** Yıldız 8.084 → 8.159, son sürüm v2026.8.31 (31 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 8.020 → 8.084, son sürüm v2026.7.27 (26 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - 20 farklı uzman yapay zekâ rolü
 - Güvenli komut çalıştırma denetimi
 - Kalıcı hafıza ve iş akışı yönetimi
@@ -44,23 +46,28 @@ npm run test:antigravity
 
 ```
 printf '%s' '{"tool_args":{"CommandLine":"rm -rf /"}}' \
-| node .agents/hooks/validate-tool-call.mjs
+  | node .agents/hooks/validate-tool-call.mjs
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bu projede Antigravity çalışma alanı kurdum ve AG Kit araçlarını aktif ettim. Proje dizinindeki .agents/ klasöründe tanımlı kuralları, uzman ajan rollerini ve iş akışlarını kullanarak görevlerimi yönetmeni istiyorum. Güvenlik kancasının aktif olduğundan emin ol ve karmaşık iş akışlarını /coordinate veya /orchestrate komutlarıyla planlayarak ilerle.
 
-- **Kimin için:** TypeScript tabanlı projelerinde Antigravity çalışma alanı kullanan ve otonom ajan sistemleri geliştirmek isteyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** TypeScript tabanlı projelerinde Antigravity çalışma alanı kullanan ve otonom ajan sistemleri geliştirmek isteyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/vudovn/ag-kit)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Artificial Intelligence
+
+- [Agentic](https://trescout.com/dictionary/agentic/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ag-kit/

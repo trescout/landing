@@ -7,10 +7,12 @@ ComposioHQ tarafından derlenen awesome-claude-skills, Claude yapay zekâ iş ak
 - GitHub Trending · 2026-07-23
 
 ## Güncelleme
-- 1 Ekim 2026: Yıldız 72.557 → 76.185.
-- 15 Ağustos 2026: Yıldız 68.956 → 72.557.
+
+- **1 Ekim 2026:** Yıldız 72.557 → 76.185.
+- **15 Ağustos 2026:** Yıldız 68.956 → 72.557.
 
 ## Ne kazandırır?
+
 - 1000'den fazla hazır Claude yeteneğine erişim
 - Claude'u 500'den fazla uygulamaya bağlama
 - İş akışlarını otomatize eden özelleştirilebilir paketler
@@ -19,15 +21,19 @@ ComposioHQ tarafından derlenen awesome-claude-skills, Claude yapay zekâ iş ak
 
 Awesome Claude Skills listesine göz atmak ve projelerinize uygun yetenekleri keşfetmek için GitHub üzerindeki resmî depo sayfasına gidin. İhtiyacınız olan yeteneği seçerek ilgili klasör veya bağlantı üzerinden kurulum talimatlarını takip edebilirsiniz.
 
-- **Kimin için:** Claude yapay zekâ asistanını daha verimli kullanmak ve iş akışlarını otomatize etmek isteyen geliştiriciler ve kullanıcılar için uygundur. 
+- **Kimin için:** Claude yapay zekâ asistanını daha verimli kullanmak ve iş akışlarını otomatize etmek isteyen geliştiriciler ve kullanıcılar için uygundur.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ComposioHQ/awesome-claude-skills)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Skill AI Skills Artificial Intelligence
+
+- [Skill](https://trescout.com/dictionary/skill/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-claude-skills/

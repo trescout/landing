@@ -1,34 +1,40 @@
 # Image Generators nedir?
 
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-09-27
+*Sözlük · Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
 
 Yazılı komutları alarak sıfırdan resim veya fotoğraf oluşturan sistemlerdir.
 
 ## Tanım
+
 Image generators, kullanıcıların yazdığı metinleri analiz ederek hayal edilen görselleri dijital tuvale döken yapay zekâ araçlarıdır. Metin içerisindeki detayları yakalar ve renk, ışık, kompozisyon kurallarına göre yeni bir görsel üretir.
 
-## Bir benzetmeyle
-Bir ressama 'Bana uzayda kahve içen bir kedi çiz' dediğinizde, ressamın fırçayı eline alıp anında o resmi yapması gibidir.
+*Bir ressama 'Bana uzayda kahve içen bir kedi çiz' dediğinizde, ressamın fırçayı eline alıp anında o resmi yapması gibidir.*
 
 ## Nasıl çalışır?
+
 Kullanıcı metin kutusuna ne görmek istediğini yazar. Model milyonlarca görsel ve bunlara ait etiketler üzerinden öğrendiği bilgileri birleştirerek piksel piksel yeni bir görüntü inşa eder.
 
 ## Nerede kullanılır?
+
 Sanat çalışmalarında, reklam sektöründe, oyun tasarımında ve sosyal medya içerik üretiminde yaygın olarak kullanılır.
 
 ## Sık karıştırılanlar
+
 Fotoğraf düzenleme programlarından farklıdır, çünkü mevcut bir fotoğrafı iyileştirmez, tamamen yoktan var eder.
 
 ## Sıkça sorulanlar
 
-**Bu araçlar her istediğimiz yazıyı kusursuz çizer mi?**  
+**Bu araçlar her istediğimiz yazıyı kusursuz çizer mi?**
+
 Genellikle harikadırlar ancak elleri, metinleri ve bazı karmaşık detayları çizerken bazen garip hatalar yapabilirler.
 
 ## İlgili terimler
-- [Generative AI](/dictionary/generative-ai/)
-- [Diffusion Model](/dictionary/diffusion-model/)
-- [Multimodal](/dictionary/multimodal/)
+
+- [Generative AI](https://trescout.com/dictionary/generative-ai/)
+- [Diffusion Model](https://trescout.com/dictionary/diffusion-model/)
+- [Multimodal](https://trescout.com/dictionary/multimodal/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/image-generators/

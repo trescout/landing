@@ -7,10 +7,12 @@ Claude Code için geliştirilen bu rehber, sezgisel kodlama (vibe coding) yakla�
 - GitHub Trending · 2026-06-24
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 63.889 → 67.105.
-- 2 Ağustos 2026: Yıldız 59.766 → 63.889.
+
+- **5 Ekim 2026:** Yıldız 63.889 → 67.105.
+- **2 Ağustos 2026:** Yıldız 59.766 → 63.889.
 
 ## Ne kazandırır?
+
 - Ajan tabanlı mühendislik süreçlerini öğrenin.
 - Claude Code için en iyi pratikleri uygulayın.
 - İş akışlarınızı ve yeteneklerinizi geliştirin.
@@ -18,18 +20,25 @@ Claude Code için geliştirilen bu rehber, sezgisel kodlama (vibe coding) yakla�
 ## Nasıl başlanır?
 
 Bu araç bir yazılım kütüphanesi değil, Claude Code kullanımına yönelik kapsamlı bir rehberdir. Başlamak için GitHub deposundaki tabloda yer alan bağlantıları inceleyerek alt ajanlar, komutlar ve beceriler gibi konular hakkında bilgi edinebilir ve resmî Claude Code dokümantasyonunu ziyaret edebilirsiniz.
+
 - [Resmî kaynak →](https://linkedin.com/in/shanraisshan)
 
-- **Kimin için:** Claude Code kullanarak yazılım geliştirme süreçlerini daha verimli ve ajan tabanlı bir yapıya taşımak isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Claude Code kullanarak yazılım geliştirme süreçlerini daha verimli ve ajan tabanlı bir yapıya taşımak isteyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/shanraisshan/claude-code-best-practice)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Best Practices Vibe Coding Agentic Engineering Agentic Artificial Intelligence
+
+- [Best Practices](https://trescout.com/dictionary/best-practices/)
+- [Vibe Coding](https://trescout.com/dictionary/vibe-coding/)
+- [Agentic Engineering](https://trescout.com/dictionary/agentic-engineering/)
+- [Agentic](https://trescout.com/dictionary/agentic/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-best-practice/

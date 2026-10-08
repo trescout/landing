@@ -7,11 +7,13 @@ OpenClaude, her türlü donanımda çalışabilen ve farklı veri kaynaklarını
 - GitHub Trending · 2026-09-02
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 33.217 → 33.540, son sürüm v0.31.0 (22 Eylül 2026).
-- 13 Eylül 2026: Yıldız 31.628 → 33.217, son sürüm v0.30.0 (31 Ağustos 2026).
-- 2 Eylül 2026: Yıldız 31.625 → 31.628, son sürüm v0.30.0 (31 Ağustos 2026).
+
+- **27 Eylül 2026:** Yıldız 33.217 → 33.540, son sürüm v0.31.0 (22 Eylül 2026).
+- **13 Eylül 2026:** Yıldız 31.628 → 33.217, son sürüm v0.30.0 (31 Ağustos 2026).
+- **2 Eylül 2026:** Yıldız 31.625 → 31.628, son sürüm v0.30.0 (31 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Bulut tabanlı ve yerel yapay zekâ modellerini tek arayüzde birleştirir.
 - Dosya yönetimi, arama ve kodlama gibi görevleri terminalden yürütür.
 - Kullanıcı dostu rehberli kurulum ile farklı sağlayıcıları kolayca yapılandırır.
@@ -33,18 +35,27 @@ openclaude
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenClaude üzerinde çalışırken terminal tabanlı iş akışımı optimize etmek istiyorum. Kodlama görevlerimde dosya araçlarını, grep arama özelliğini ve MCP (Model Context Protocol) entegrasyonunu kullanarak verimliliğimi artıracak bir çalışma planı oluştur. Ayrıca `/provider` komutuyla sağlayıcı ayarlarımı nasıl yapılandıracağımı ve GitHub modellerini nasıl dahil edeceğimi adım adım açıkla.
 
-- **Kimin için:** Terminal ortamında çalışmayı seven ve farklı yapay zekâ modellerini tek bir komut satırı arayüzü üzerinden yönetmek isteyen yazılımcılar içindir. 
+- **Kimin için:** Terminal ortamında çalışmayı seven ve farklı yapay zekâ modellerini tek bir komut satırı arayüzü üzerinden yönetmek isteyen yazılımcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Gitlawb/openclaude)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Model Context Protocol Model Context Protocol Context MCP Terminal Artificial Intelligence
+
+- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol/)
+- [Model Context Protocol](https://trescout.com/dictionary/model-context-protocol-mcp/)
+- [Context](https://trescout.com/dictionary/context/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openclaude/

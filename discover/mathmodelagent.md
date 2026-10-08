@@ -7,12 +7,14 @@ Matematiksel modelleme süreçlerini otomatikleştiren MathModelAgent, karmaşı
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 6.163 → 6.163, son sürüm v0.0.23 (3 Ekim 2026).
-- 27 Eylül 2026: Yıldız 5.515 → 6.163, son sürüm v0.0.22 (22 Eylül 2026).
-- 14 Eylül 2026: Yıldız 4.953 → 5.515, son sürüm v0.0.20 (14 Eylül 2026).
-- 12 Eylül 2026: Yıldız 4.952 → 4.953, son sürüm v0.0.19 (10 Eylül 2026).
+
+- **3 Ekim 2026:** Yıldız 6.163 → 6.163, son sürüm v0.0.23 (3 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 5.515 → 6.163, son sürüm v0.0.22 (22 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 4.953 → 5.515, son sürüm v0.0.20 (14 Eylül 2026).
+- **12 Eylül 2026:** Yıldız 4.952 → 4.953, son sürüm v0.0.19 (10 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Problemi analiz edip kod yazarak akademik makale oluşturur
 - Typst biçimlendirme diliyle profesyonel PDF raporları hazırlar
 - İnsan denetimli iş akışıyla hata payını en aza indirir
@@ -40,18 +42,24 @@ claude: /1start-mathmodel 完成这个数学建模任务
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir matematiksel modelleme uzmanısın. MathModelAgent kullanarak verdiğim karmaşık problemi analiz et, gerekli matematiksel modelleri kur, Python kodlarını yazarak verileri analiz et ve sonuçları akademik bir makale formatında raporla. Çalışma boyunca Typst şablonlarını kullan, hata kontrollerini yap ve her aşamada profesyonel akademik standartlara bağlı kal.
 
-- **Kimin için:** Matematiksel modelleme yarışmalarına katılan veya akademik raporlama süreçlerini hızlandırmak isteyen araştırmacılar ve öğrenciler içindir. 
+- **Kimin için:** Matematiksel modelleme yarışmalarına katılan veya akademik raporlama süreçlerini hızlandırmak isteyen araştırmacılar ve öğrenciler içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/jihe520/MathModelAgent)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Skill PDF Artificial Intelligence
+
+- [Skill](https://trescout.com/dictionary/skill/)
+- [PDF](https://trescout.com/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mathmodelagent/

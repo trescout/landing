@@ -7,12 +7,14 @@ Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük
 - GitHub Trending · 2026-07-29
 
 ## Güncelleme
-- 6 Eylül 2026: Yıldız 2.207 → 2.480, son sürüm 测试版本0.3.5 (19 Temmuz 2026).
-- 23 Ağustos 2026: Yıldız 1.866 → 2.207, son sürüm 测试0.3.2 (19 Temmuz 2026).
-- 10 Ağustos 2026: Yıldız 1.684 → 1.866, son sürüm 测试版本0.3.1 (19 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 1.492 → 1.684, son sürüm 测试版本0.2.1 (19 Temmuz 2026).
+
+- **6 Eylül 2026:** Yıldız 2.207 → 2.480, son sürüm 测试版本0.3.5 (19 Temmuz 2026).
+- **23 Ağustos 2026:** Yıldız 1.866 → 2.207, son sürüm 测试0.3.2 (19 Temmuz 2026).
+- **10 Ağustos 2026:** Yıldız 1.684 → 1.866, son sürüm 测试版本0.3.1 (19 Temmuz 2026).
+- **2 Ağustos 2026:** Yıldız 1.492 → 1.684, son sürüm 测试版本0.2.1 (19 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Tüm borsa verilerini bilgisayarınızda saklayın
 - 39 farklı teknik göstergeyi saniyeler içinde hesaplayın
 - Python, Excel ve yapay zekâ araçlarıyla doğrudan entegre edin
@@ -20,18 +22,23 @@ Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük
 ## Nasıl başlanır?
 
 Windows kullanıcısıysanız GitHub sayfasındaki Releases bölümünden güncel sürümü indirin. İndirdiğiniz dosyayı açtıktan sonra veri güncelleme aracını çalıştırarak verilerin yerel klasörünüze senkronize edilmesini bekleyin ve ardından stockdb uygulamasını başlatın.
+
 - [Resmî kaynak →](https://github.com/hello245m/free-stockdb/releases/download/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC0.2.1/free-stockdb-windows-v0.2.1-more-power.zip)
 
-- **Kimin için:** Borsa verilerini kendi bilgisayarında tutarak hız ve bağımsızlık arayan nicel analiz meraklıları için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Borsa verilerini kendi bilgisayarında tutarak hız ve bağımsızlık arayan nicel analiz meraklıları için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/hello245m/free-stockdb)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-ETF Backtesting Artificial Intelligence
+
+- [ETF](https://trescout.com/dictionary/etf/)
+- [Backtesting](https://trescout.com/dictionary/backtesting/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/free-stockdb/

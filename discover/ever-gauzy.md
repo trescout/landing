@@ -7,12 +7,14 @@ Ever Gauzy, kurumsal kaynak planlama (ERP), müşteri ilişkileri yönetimi (CRM
 - GitHub Trending · 2026-09-14
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 8.086 → 8.162, son sürüm v111.48.2 (3 Ekim 2026).
-- 27 Eylül 2026: Yıldız 6.976 → 8.086, son sürüm v111.44.48 (24 Eylül 2026).
-- 16 Eylül 2026: Yıldız 5.584 → 6.976, son sürüm v111.0.11 (4 Temmuz 2026).
-- 14 Eylül 2026: Yıldız 5.574 → 5.584, son sürüm v111.0.11 (4 Temmuz 2026).
+
+- **3 Ekim 2026:** Yıldız 8.086 → 8.162, son sürüm v111.48.2 (3 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 6.976 → 8.086, son sürüm v111.44.48 (24 Eylül 2026).
+- **16 Eylül 2026:** Yıldız 5.584 → 6.976, son sürüm v111.0.11 (4 Temmuz 2026).
+- **14 Eylül 2026:** Yıldız 5.574 → 5.584, son sürüm v111.0.11 (4 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Kurumsal kaynak planlama ve müşteri ilişkileri yönetimi süreçlerini tek merkezden yönetin.
 - Çalışan performansını, zaman takibini ve proje süreçlerini detaylı raporlarla izleyin.
 - Finansal işlemler, envanter yönetimi ve satış süreçlerini modüler yapıyla dijitalleştirin.
@@ -20,18 +22,22 @@ Ever Gauzy, kurumsal kaynak planlama (ERP), müşteri ilişkileri yönetimi (CRM
 ## Nasıl başlanır?
 
 Platformu kullanmaya başlamak için resmî web sitesi olan https://gauzy.co adresini ziyaret edebilir veya hızlıca denemek için https://demo.gauzy.co adresindeki demo ortamına göz atabilirsiniz. Yazılımı kendi bilgisayarınıza kurmak veya sunucu üzerinde çalıştırmak isterseniz, https://gauzy.co/downloads adresindeki indirme seçeneklerini inceleyebilir ve kurulum adımları için https://docs.gauzy.co adresinde bulunan dokümantasyon sayfasına başvurabilirsiniz.
+
 - [Resmî kaynak →](https://gauzy.co)
 
-- **Kimin için:** İş süreçlerini tek bir platform üzerinden dijitalleştirmek ve operasyonel verimliliği artırmak isteyen küçük, orta ve büyük ölçekli işletmeler ile serbest çalışanlar için uygundur. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** İş süreçlerini tek bir platform üzerinden dijitalleştirmek ve operasyonel verimliliği artırmak isteyen küçük, orta ve büyük ölçekli işletmeler ile serbest çalışanlar için uygundur.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ever-co/ever-gauzy)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CRM Open Source
+
+- [CRM](https://trescout.com/dictionary/crm/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ever-gauzy/

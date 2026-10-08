@@ -6,7 +6,12 @@ User-Scanner basado en Python realiza escaneo de inteligencia de código abierto
 - Python
 - GitHub Trending · 2026-08-31
 
+## Actualizaciones
+
+- **27 de septiembre de 2026:** Estrellas 3,910 → 5,007, última versión v1.5.2 (17 de septiembre de 2026).
+
 ## Qué aporta
+
 - Amplia cobertura de plataforma: verifique la presencia de la cuenta en GitHub, Reddit, Twitter, Steam, Telegram y más de 465 sitios de una sola vez.
 - Escaneo asincrónico de alta velocidad: consulta en paralelo de cientos de objetivos en segundos con arquitectura basada en asyncio y aiohttp.
 - Filtrado de falsos positivos: mecanismo de detección inteligente que verifica los textos de error en el cuerpo de la respuesta, así como los códigos de estado HTTP.
@@ -14,6 +19,7 @@ User-Scanner basado en Python realiza escaneo de inteligencia de código abierto
 - Privacidad y ejecución local: Posibilidad de ejecutar cualquier consulta completamente desde la máquina local, sin enviarla a servidores de terceros.
 
 ## Instalación
+
 **Clonando el repositorio e instalando dependencias**
 
 ```
@@ -22,8 +28,8 @@ cd user-scanner
 pip install -r requirements.txt
 ```
 
-
 ## Ejecución
+
 **Escanear nombre de usuario y correo electrónico de destino**
 
 ```
@@ -32,21 +38,26 @@ python3 user_scanner.py -u hedef_kullanici
 python3 user_scanner.py -e hedef@ornek.com
 ```
 
-
 ## Arquitectura técnica y principio de funcionamiento
+
 - Plantillas de bases de datos (manifiestos de sitio JSON): configuración modular que contiene patrones de URL, códigos de error y expresiones regulares de perfil para más de 465 plataformas.
 - Agrupación de solicitudes simultáneas: uso más eficiente del ancho de banda de la red mediante el almacenamiento en caché de resoluciones DNS y sockets TCP.
 - Encabezados HTTP personalizados y rotación de agente de usuario: simulación realista de encabezados del navegador para evitar obstrucciones de límite de velocidad y WAF.
 
 ## Escenarios de investigación OSINT y análisis de datos.
+
 - Seguimiento y violación de datos personales: mapee en qué canales sociales están activos los perfiles filtrados con la correlación del nombre de usuario.
 - Auditorías de Seguridad Corporativa: Determinar si los empleados de la empresa abren cuentas en plataformas externas con sus direcciones de correo electrónico corporativas.
 - Defensa de ingeniería social: identifique tempranamente cuentas de imitación no autorizadas contra ataques de phishing.
 
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 ¿Puedes explicar paso a paso cómo puedo escanear más de 465 plataformas usando un solo nombre de usuario usando la herramienta User-Scanner en una auditoría de seguridad, exportar los hallazgos en formato JSON y enumerar perfiles sospechosos?
 
 ## Preguntas frecuentes
+
 - ¿Es legal utilizar User-Scanner? Sí. User-Scanner solo consulta el estado de presencia de la cuenta públicamente visible en páginas web públicas; No proporciona ningún acceso no autorizado al sistema ni descifra contraseñas.
 - ¿Hay soporte para Tor o proxy? Sí. Puede enmascarar su dirección IP y evitar límites de velocidad enrutando solicitudes a través de SOCKS5 o cadenas de proxy HTTP.
 - ¿Cuánto tiempo se tarda en completar los resultados? Gracias a su arquitectura asincrónica, el escaneo de más de 465 plataformas normalmente se completa en 20 a 45 segundos, dependiendo de su conexión a Internet.
@@ -54,9 +65,22 @@ python3 user_scanner.py -e hedef@ornek.com
 
 ## Términos relacionados del glosario
 
+- [OSINT](https://trescout.com/es/dictionary/osint/)
+- [Proxy](https://trescout.com/es/dictionary/proxy/)
+- [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
+- **Para quién es:** Investigadores de ciberseguridad, analistas de OSINT, expertos en informática forense y hackers éticos.
+- **Licencia:** GPL-3.0 (Açık kaynak copyleft lisansı)
+- **Marco:** Escáner OSINT asincrónico de Python
+- **Plataformas:** Linux, Mac OS, Windows
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/kaifcodec/user-scanner)
+- [Leer en turco →](https://trescout.com/discover/user-scanner/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-31: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/user-scanner/

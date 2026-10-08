@@ -7,12 +7,14 @@ Prefect, Python tabanlı veri hatları oluşturmak için kullanılan bir iş ak�
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 23.931 → 23.982, son sürüm 3.8.8 (6 Ekim 2026).
-- 27 Eylül 2026: Yıldız 23.842 → 23.931, son sürüm 3.8.7 (26 Eylül 2026).
-- 15 Eylül 2026: Yıldız 23.774 → 23.842, son sürüm 3.8.6 (14 Eylül 2026).
-- 4 Eylül 2026: Yıldız 23.696 → 23.774, son sürüm 3.8.5 (3 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 23.931 → 23.982, son sürüm 3.8.8 (6 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 23.842 → 23.931, son sürüm 3.8.7 (26 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 23.774 → 23.842, son sürüm 3.8.6 (14 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 23.696 → 23.774, son sürüm 3.8.5 (3 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Veri hatlarını üretim seviyesine taşıma
 - Hata yönetimi ve otomatik yeniden deneme
 - İş akışlarını görsel olarak izleme
@@ -40,19 +42,25 @@ prefect server start
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Python kullanarak veri iş akışlarımı otomatize etmek istiyorum. Prefect kütüphanesindeki flow ve task dekoratörlerini kullanarak basit bir veri hattı oluşturmama yardımcı ol. Hata yönetimi, zamanlama ve izleme özelliklerini nasıl entegre edebileceğimi, bir Python dosyasını nasıl üretim seviyesinde bir iş akışına dönüştürebileceğimi örnek kodlarla açıkla.
 
-- **Kimin için:** Veri süreçlerini otomatize etmek ve karmaşık veri hatlarını güvenilir bir şekilde yönetmek isteyen veri ekipleri içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Veri süreçlerini otomatize etmek ve karmaşık veri hatlarını güvenilir bir şekilde yönetmek isteyen veri ekipleri içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/PrefectHQ/prefect)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Workflow Orchestration Framework Framework Artificial Intelligence
+
+- [Workflow Orchestration Framework](https://trescout.com/dictionary/workflow-orchestration-framework/)
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/prefect/

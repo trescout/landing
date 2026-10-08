@@ -7,12 +7,14 @@ Open SEO, Semrush ve Ahrefs gibi ücretli araçlara açık kaynaklı bir alterna
 - GitHub Trending · 2026-06-26
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 21.988 → 22.611, son sürüm v0.1.11 (6 Ekim 2026).
-- 1 Ekim 2026: Yıldız 21.251 → 21.988, son sürüm v0.1.10 (30 Eylül 2026).
-- 27 Eylül 2026: Yıldız 19.120 → 21.251, son sürüm v0.1.9 (17 Eylül 2026).
-- 18 Eylül 2026: Yıldız 18.477 → 19.120, son sürüm v0.1.9 (17 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 21.988 → 22.611, son sürüm v0.1.11 (6 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 21.251 → 21.988, son sürüm v0.1.10 (30 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 19.120 → 21.251, son sürüm v0.1.9 (17 Eylül 2026).
+- **18 Eylül 2026:** Yıldız 18.477 → 19.120, son sürüm v0.1.9 (17 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Abonelik ücreti olmadan sadece kullandığın kadar öde
 - Yapay zekâ ajanları ile doğrudan SEO verisi analizi
 - Anahtar kelime takibi ve teknik site denetimi
@@ -33,19 +35,24 @@ docker compose up -d
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenSEO yeteneklerini kullanarak web sitem için detaylı bir anahtar kelime araştırması yap ve mevcut sıralama verilerimi analiz ederek iyileştirme önerileri sun.
 
-- **Kimin için:** SEO süreçlerini otomatize etmek isteyen, yüksek abonelik ücretlerinden kaçınan geliştiriciler ve yapay zekâ ajanı kullanıcıları içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** SEO süreçlerini otomatize etmek isteyen, yüksek abonelik ücretlerinden kaçınan geliştiriciler ve yapay zekâ ajanı kullanıcıları içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/every-app/open-seo)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-SEO Artificial Intelligence
+
+- [SEO](https://trescout.com/dictionary/seo/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-seo/

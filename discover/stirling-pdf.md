@@ -7,12 +7,14 @@ Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme 
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 93.424 → 93.648, son sürüm v3.1.0 (5 Ekim 2026).
-- 2 Ekim 2026: Yıldız 93.069 → 93.424, son sürüm v3.0.2 (1 Ekim 2026).
-- 27 Eylül 2026: Yıldız 89.027 → 93.069, son sürüm v3.0.1 (26 Eylül 2026).
-- 7 Ağustos 2026: Yıldız 88.578 → 89.027, son sürüm v2.14.3 (6 Ağustos 2026).
+
+- **6 Ekim 2026:** Yıldız 93.424 → 93.648, son sürüm v3.1.0 (5 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 93.069 → 93.424, son sürüm v3.0.2 (1 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 89.027 → 93.069, son sürüm v3.0.1 (26 Eylül 2026).
+- **7 Ağustos 2026:** Yıldız 88.578 → 89.027, son sürüm v2.14.3 (6 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - 50'den fazla farklı PDF düzenleme aracı
 - Verilerinizi dış servislere göndermeden yerel işleme
 - Tarayıcı veya masaüstü üzerinden kolay erişim
@@ -33,21 +35,27 @@ docker run -d --name stirling-pdf -p 127.0.0.1:8080:8080 -v ./stirling-data:/con
 http://localhost:8080
 ```
 
-Kaynak: Resmî kaynak: https://docs.stirlingpdf.com/Installation/Docker%20Install/
+**Kaynak:** Resmî kaynak: https://docs.stirlingpdf.com/Installation/Docker%20Install/
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Stirling-PDF aracını kullanarak PDF belgelerim üzerinde düzenleme, dönüştürme ve birleştirme işlemlerini nasıl yapabilirim? Belgelerimi yerel olarak güvende tutarak 50'den fazla araçtan en verimli şekilde nasıl yararlanabileceğim konusunda bana rehberlik et ve iş akışlarımı otomatize etmeme yardımcı ol.
 
-- **Kimin için:** PDF dosyalarını gizlilikten ödün vermeden kendi sunucularında veya yerel bilgisayarlarında işlemek isteyen kullanıcılar içindir. 
+- **Kimin için:** PDF dosyalarını gizlilikten ödün vermeden kendi sunucularında veya yerel bilgisayarlarında işlemek isteyen kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Stirling-Tools/Stirling-PDF)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Container PDF Artificial Intelligence
+
+- [Container](https://trescout.com/dictionary/container/)
+- [PDF](https://trescout.com/dictionary/pdf/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stirling-pdf/

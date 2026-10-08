@@ -7,12 +7,14 @@ Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion 
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 77.109 → 77.293, son sürüm v0.1.903-beta (6 Ekim 2026).
-- 1 Ekim 2026: Yıldız 76.901 → 77.109, son sürüm v0.1.902-beta (1 Ekim 2026).
-- 28 Eylül 2026: Yıldız 76.837 → 76.901, son sürüm v0.1.900-beta (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 76.409 → 76.837, son sürüm v0.1.815-beta (23 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 77.109 → 77.293, son sürüm v0.1.903-beta (6 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 76.901 → 77.109, son sürüm v0.1.902-beta (1 Ekim 2026).
+- **28 Eylül 2026:** Yıldız 76.837 → 76.901, son sürüm v0.1.900-beta (28 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 76.409 → 76.837, son sürüm v0.1.815-beta (23 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Büyük dil modellerini ve görsel oluşturma araçlarını yerel bilgisayarınızda çalıştırın.
 - İnce ayar süreçlerini iki kat daha hızlı ve %70 daha az bellek kullanımıyla gerçekleştirin.
 - Claude Code gibi yazılım geliştirme ajanlarını yerel modellerinizle entegre edin.
@@ -34,19 +36,25 @@ unsloth start claude
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Unsloth kullanarak yerel bilgisayarımda bir yapay zekâ modeli eğitmek istiyorum. Donanım kaynaklarımı en verimli şekilde kullanmamı sağlayacak, bellek kullanımını optimize eden ve ince ayar sürecini hızlandıran en uygun yapılandırma ayarlarını adım adım açıklar mısın?
 
-- **Kimin için:** Kendi yapay zekâ modellerini yerel donanımı üzerinde eğitmek, optimize etmek ve geliştirdiği yazılım projelerine entegre etmek isteyen kullanıcılar içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Kendi yapay zekâ modellerini yerel donanımı üzerinde eğitmek, optimize etmek ve geliştirdiği yazılım projelerine entegre etmek isteyen kullanıcılar içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/unslothai/unsloth)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Fine-tuning LLM Artificial Intelligence
+
+- [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/unsloth/

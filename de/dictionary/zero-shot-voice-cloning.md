@@ -1,34 +1,48 @@
 # Was ist Zero-shot Voice Cloning?
 
+*Glossar · AI · Zuletzt aktualisiert: 2. August 2026*
+
 Dabei handelt es sich um eine Technologie, bei der die Stimme einer Person anhand einer sehr kurzen Probe ohne vorherige spezielle Schulung transkribiert wird.
 
 ## Definition
+
 Diese Technologie ermöglicht es künstlicher Intelligenz, den Tonfall, die Betonung und den Sprechstil einer Person innerhalb von Sekunden zu analysieren. Der Ausdruck „Zero-Shot“ stellt die Fähigkeit des Modells dar, die Stimme sofort zu imitieren, auch wenn das Modell noch nie ein spezielles Training für diese Person erhalten hat.
 
+***Analogie:** Es ist, als ob ein Maler das Gesicht einer Person nur einmal sieht und in einer Sekunde ein perfektes Porträt dieser Person zeichnen kann, obwohl er diese Person überhaupt nicht kennt.*
+
 ## So funktioniert es
+
 Sie laden einige Sekunden der Audioaufnahme auf das System hoch. Künstliche Intelligenz analysiert diese Aufnahme, extrahiert die charakteristischen Merkmale der Stimme und spricht den gewünschten Text mit der Stimme dieser Person vor.
 
 ## Wo es eingesetzt wird
+
 Es wird in Sprachassistenten, Synchronarbeiten, personalisierter Inhaltsproduktion und Spielen eingesetzt.
 
 ## Häufig verwechselt mit
+
 Es ähnelt dem Voice Cloning, hier ist jedoch kein Schulungsprozess erforderlich.
 
 ## Häufige Fragen
+
 **Kann er die Stimme von irgendjemandem kopieren?**
+
 Technisch gesehen ja, aber dies unterliegt ethischen und rechtlichen Sicherheitsregeln.
 
 **Warum heißt es „Zero-Shot“?**
+
 Der Name wird so genannt, weil das Modell keinen für diese Person spezifischen „Lernprozess“ durchlaufen muss.
 
-
 ## Verwandte Begriffe
-- [Voice Cloning](/de/dictionary/voice-cloning/)
-- [Speech Synthesis](/de/dictionary/speech-synthesis/)
-- [Text-to-Speech](/de/dictionary/text-to-speech/)
+
+- [Voice Cloning](https://trescout.com/de/dictionary/voice-cloning/)
+- [Speech Synthesis](https://trescout.com/de/dictionary/speech-synthesis/)
+- [Text-to-Speech](https://trescout.com/de/dictionary/text-to-speech/)
 
 ## Verwandte Werkzeuge
-- [Voice Pro](/de/discover/voice-pro/)
+
+- [Voice Pro](https://trescout.com/de/discover/voice-pro/)
+
+Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/zero-shot-voice-cloning/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/zero-shot-voice-cloning/

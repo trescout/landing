@@ -6,23 +6,24 @@ OmniRoute, 230'u aşkın büyük dil modeli ve yapay zekâ sağlayıcısını te
 - Python / Go
 - GitHub Trending · 2026-09-19
 
-OmniRoute paneli: 230'dan fazla yapay zekâ API'sini tek uç noktadan yöneten akıllı ağ geçidi arayüzü. 
+*OmniRoute paneli: 230'dan fazla yapay zekâ API'sini tek uç noktadan yöneten akıllı ağ geçidi arayüzü.*
 
 ## Ne kazandırır?
-- Evrensel API Uyumluluğu: OpenAI, Anthropic, Gemini, Mistral ve yerel modelleri tek bir /v1/chat/completions uç noktasından çağırın.
-- Akıllı Hata Telafisi (Fallback): Ana sağlayıcı hız sınırına (rate limit) takıldığında veya kesinti yaşadığında istekleri milisaniyeler içinde alternatif modele yönlendirin.
-- Jeton ve Maliyet Optimizasyonu: Dahili prompt sıkıştırma algoritmalarıyla gereksiz bağlam şişkinliğini önleyin ve API harcamalarınızı düşürün.
-- Kapsamlı Telemetri ve Gözlemlenebilirlik: Sağlayıcılar arası yanıt sürelerini, hata oranlarını ve harcanan bütçeyi tek kontrol panelinden izleyin.
+
+- **Evrensel API Uyumluluğu:** OpenAI, Anthropic, Gemini, Mistral ve yerel modelleri tek bir `/v1/chat/completions` uç noktasından çağırın.
+- **Akıllı Hata Telafisi (Fallback):** Ana sağlayıcı hız sınırına (rate limit) takıldığında veya kesinti yaşadığında istekleri milisaniyeler içinde alternatif modele yönlendirin.
+- **Jeton ve Maliyet Optimizasyonu:** Dahili prompt sıkıştırma algoritmalarıyla gereksiz bağlam şişkinliğini önleyin ve API harcamalarınızı düşürün.
+- **Kapsamlı Telemetri ve Gözlemlenebilirlik:** Sağlayıcılar arası yanıt sürelerini, hata oranlarını ve harcanan bütçeyi tek kontrol panelinden izleyin.
 
 ## Teknik mimari ve çalışma prensibi
 
 OmniRoute, istemci ile yapay zekâ sağlayıcıları arasında yüksek verimli bir ters vekil (reverse proxy) gibi çalışır:
 
-1. Protokol Standardizasyonu: Gelen farklı istek formatlarını dahili bir şemaya çevirir ve hedef sağlayıcının beklediği JSON yapısına dönüştürür.
+**1. Protokol Standardizasyonu:** Gelen farklı istek formatlarını dahili bir şemaya çevirir ve hedef sağlayıcının beklediği JSON yapısına dönüştürür.
 
-2. Yönlendirme ve Sağlık Kontrolü (Health Checking): Sağlayıcıların gecikme sürelerini ve HTTP durum kodlarını sürekli denetler; yanıt vermeyen sunucuları geçici olarak havuzdan çıkarır.
+**2. Yönlendirme ve Sağlık Kontrolü (Health Checking):** Sağlayıcıların gecikme sürelerini ve HTTP durum kodlarını sürekli denetler; yanıt vermeyen sunucuları geçici olarak havuzdan çıkarır.
 
-3. Akıllı Önbellekleme (Semantic Caching): Benzer veya yinelenen kullanıcı istemlerini önbellekten yanıtlayarak model çağrısı maliyetini sıfıra indirir.
+**3. Akıllı Önbellekleme (Semantic Caching):** Benzer veya yinelenen kullanıcı istemlerini önbellekten yanıtlayarak model çağrısı maliyetini sıfıra indirir.
 
 ## Kurulum ve dağıtım adımları
 
@@ -41,18 +42,21 @@ docker compose up -d
 
 ```
 curl http://localhost:8000/v1/chat/completions \
--H "Content-Type: application/json" \
--d '{"model": "gpt-4o-mini", "messages": [{"role": "user", "content": "Merhaba!"}]}'
+  -H "Content-Type: application/json" \
+  -d '{"model": "gpt-4o-mini", "messages": [{"role": "user", "content": "Merhaba!"}]}'
 ```
 
 ## Kod bilmeyenler için yapay zekâ istemi
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OmniRoute yapay zekâ ağ geçidini kullanarak OpenAI, Anthropic ve yerel Ollama modellerini içeren bir yönlendirme konfigürasyonu hazırla. Ana model yanıt vermezse otomatik olarak ikinci modele geçiş sağlayan bir fallback kuralı oluştur ve Docker Compose ile çalıştırma adımlarını listele.
 
 ## Kritik uyarılar ve sınırlar
-- API Anahtarı Güvenliği: Ağ geçidi sunucusunun ortam değişkenlerindeki API anahtarlarını güvenceye alın; ağ geçidini genel internete açarken mutlaka yetkilendirme (Bearer Token) uygulayın.
-- Model Parametre Farklılıkları: Sağlayıcıların desteklediği maksimum bağlam pencereleri (context window) ve sıcaklık (temperature) sınırları farklıdır; isteklerde ortak parametreler kullanın.
-- Ağ Gecikmesi: Ağ geçidinin konumu ile sağlayıcı veri merkezleri arasındaki coğrafi mesafe ek birkaç milisaniyelik gecikme yaratabilir.
+
+- **API Anahtarı Güvenliği:** Ağ geçidi sunucusunun ortam değişkenlerindeki API anahtarlarını güvenceye alın; ağ geçidini genel internete açarken mutlaka yetkilendirme (Bearer Token) uygulayın.
+- **Model Parametre Farklılıkları:** Sağlayıcıların desteklediği maksimum bağlam pencereleri (context window) ve sıcaklık (temperature) sınırları farklıdır; isteklerde ortak parametreler kullanın.
+- **Ağ Gecikmesi:** Ağ geçidinin konumu ile sağlayıcı veri merkezleri arasındaki coğrafi mesafe ek birkaç milisaniyelik gecikme yaratabilir.
 
 ## Sıkça sorulan sorular
 
@@ -62,7 +66,7 @@ Hayır, OmniRoute mevcut yapay zekâ sağlayıcıları arasında akıllı yönle
 
 OpenAI SDK'sı ile doğrudan çalışır mı?
 
-Evet, OpenAI istemci kütüphanelerinde sadece base_url adresini OmniRoute sunucunuza yönlendirmeniz yeterlidir.
+Evet, OpenAI istemci kütüphanelerinde sadece `base_url` adresini OmniRoute sunucunuza yönlendirmeniz yeterlidir.
 
 Yerel modelleri (Ollama, vLLM) bağlayabilir miyim?
 
@@ -73,12 +77,19 @@ Kullanıcı isteklerini kaydediyor mu?
 Veri gizliliği sizin kontrolünüzdedir; günlükleme (logging) seviyesini ve veri saklama kurallarını konfigürasyondan belirleyebilirsiniz.
 
 ## Bağlantılar
+
 - [GitHub deposu (danielfrg/omniroute) →](https://github.com/danielfrg/omniroute)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Temperature Reverse Proxy Logging Context Window API Gateway Caching
+
+- [Temperature](https://trescout.com/dictionary/temperature/)
+- [Reverse Proxy](https://trescout.com/dictionary/reverse-proxy/)
+- [Logging](https://trescout.com/dictionary/logging/)
+- [Context Window](https://trescout.com/dictionary/context-window/)
+- [API Gateway](https://trescout.com/dictionary/api-gateway/)
+- [Caching](https://trescout.com/dictionary/caching/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/omniroute/

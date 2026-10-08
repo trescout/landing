@@ -8,9 +8,14 @@ PanWatch est un assistant d'investissement que vous pouvez héberger sur votre p
 
 ## Termes liés du glossaire
 
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
+
 ## Liens
-- Dépôt GitHub →
-- Lire en turc →
+
+- [Dépôt GitHub →](https://github.com/TNT-Likely/PanWatch)
+- [Lire en turc →](https://trescout.com/discover/panwatch/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/panwatch/

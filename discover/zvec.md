@@ -7,10 +7,12 @@ Alibaba tarafından geliştirilen zvec, C++ diliyle yazılmış hafif ve yüksek
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
-- 24 Ağustos 2026: Yıldız 15.356 → 15.504, son sürüm v0.7.0 (24 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 10.691 → 15.356, son sürüm v0.6.0 (20 Temmuz 2026).
+
+- **24 Ağustos 2026:** Yıldız 15.356 → 15.504, son sürüm v0.7.0 (24 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 10.691 → 15.356, son sürüm v0.6.0 (20 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Sunucu gerektirmeyen yerel çalışma mimarisi
 - Milyarlarca vektör üzerinde milisaniyelik arama hızı
 - Vektör, metin ve karma arama desteği
@@ -30,19 +32,27 @@ npm install @zvec/zvec
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Zvec kütüphanesini kullanarak bir koleksiyon oluşturmam gerekiyor. Python dilinde bir şema tanımlayıp, bu şemaya uygun vektör verilerini eklememi ve ardından belirli bir vektör sorgusu ile arama yapmamı sağlayan örnek kodu oluşturur musun? Lütfen verilerin kalıcı olması için dosya yolu belirten bir yapı kullan.
 
-- **Kimin için:** Uygulamalarına harici bir sunucu kurmadan, yüksek performanslı ve yerel bir vektör arama yeteneği eklemek isteyen geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Uygulamalarına harici bir sunucu kurmadan, yüksek performanslı ve yerel bir vektör arama yeteneği eklemek isteyen geliştiriciler için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/alibaba/zvec)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-In-process Vector Database In-process Vector Database Database Artificial Intelligence
+
+- [In-process Vector Database](https://trescout.com/dictionary/in-process-vector-database/)
+- [In-process](https://trescout.com/dictionary/in-process/)
+- [Vector Database](https://trescout.com/dictionary/vector-database/)
+- [Database](https://trescout.com/dictionary/database/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/zvec/

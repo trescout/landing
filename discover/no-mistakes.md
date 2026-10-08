@@ -7,12 +7,14 @@ Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod g�
 - GitHub Trending · 2026-06-25
 
 ## Güncelleme
-- 28 Eylül 2026: Yıldız 8.642 → 8.661, son sürüm v1.84.0 (26 Eylül 2026).
-- 27 Eylül 2026: Yıldız 8.520 → 8.642, son sürüm v1.79.0 (19 Eylül 2026).
-- 17 Eylül 2026: Yıldız 8.385 → 8.520, son sürüm v1.75.2 (14 Eylül 2026).
-- 10 Eylül 2026: Yıldız 8.351 → 8.385, son sürüm v1.72.0 (8 Eylül 2026).
+
+- **28 Eylül 2026:** Yıldız 8.642 → 8.661, son sürüm v1.84.0 (26 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 8.520 → 8.642, son sürüm v1.79.0 (19 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 8.385 → 8.520, son sürüm v1.75.2 (14 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 8.351 → 8.385, son sürüm v1.72.0 (8 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Hatalı kodların uzak sunucuya ulaşmasını engeller
 - Otomatik doğrulama ve temiz PR oluşturma
 - İzole çalışma alanında güvenli kod incelemesi
@@ -40,19 +42,24 @@ git push no-mistakes
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bu projede no-mistakes aracını kullanarak kod kalitesini artırmak istiyorum. Lütfen mevcut çalışma dizinimde gerekli yapılandırmayı başlat, kod değişikliklerimi yapay zekâ destekli doğrulama hattından geçir ve tüm kontroller başarıyla tamamlandığında temiz bir PR oluşturulmasını sağla.
 
-- **Kimin için:** Hatalı kod gönderimlerini önlemek ve PR süreçlerini otomatize etmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Hatalı kod gönderimlerini önlemek ve PR süreçlerini otomatize etmek isteyen yazılım geliştiriciler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/kunchenguid/no-mistakes)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Git Push Artificial Intelligence
+
+- [Git Push](https://trescout.com/dictionary/git-push/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/no-mistakes/

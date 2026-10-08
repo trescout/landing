@@ -7,12 +7,14 @@ OpenClaw Windows düğümü (node), sistem tepsisi uygulaması, paylaşılan kü
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
-- 15 Eylül 2026: Yıldız 2.106 → 2.114, son sürüm v2026.9.4 (15 Eylül 2026).
-- 12 Eylül 2026: Yıldız 2.088 → 2.106, son sürüm v2026.9.3 (12 Eylül 2026).
-- 4 Eylül 2026: Yıldız 2.085 → 2.088, son sürüm v2026.7.1-4 (3 Eylül 2026).
-- 3 Eylül 2026: Yıldız 2.079 → 2.085, son sürüm v2026.7.1-3 (3 Eylül 2026).
+
+- **15 Eylül 2026:** Yıldız 2.106 → 2.114, son sürüm v2026.9.4 (15 Eylül 2026).
+- **12 Eylül 2026:** Yıldız 2.088 → 2.106, son sürüm v2026.9.3 (12 Eylül 2026).
+- **4 Eylül 2026:** Yıldız 2.085 → 2.088, son sürüm v2026.7.1-4 (3 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 2.079 → 2.085, son sürüm v2026.7.1-3 (3 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Sistem tepsisi üzerinden OpenClaw yapay zekâ asistanına hızlı erişim sağlar.
 - Windows üzerinde yerel ağ geçidi ve bağlantı yönetimi sunar.
 - Komut merkezi ile canlı oturum, kullanım ve düğüm takibi yapılmasına olanak tanır.
@@ -32,19 +34,24 @@ dotnet run --project src/OpenClaw.Cli -- --help
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 OpenClaw Windows Node aracını kullanıyorum. Sistem tepsisi üzerinden erişim sağladığım bu yapay zekâ asistanı için yerel ağ geçidi bağlantılarımı yönetmek ve WebSocket üzerinden mesaj gönderimi gibi işlemleri doğrulamak istiyorum. Mevcut CLI araçlarını kullanarak bağlantı durumumu nasıl kontrol edebilirim ve sistem üzerindeki düğüm izinlerini nasıl yapılandırabilirim?
 
-- **Kimin için:** OpenClaw yapay zekâ asistanını Windows üzerinde yerel olarak çalıştırmak ve sistem kaynaklarını yönetmek isteyen kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** OpenClaw yapay zekâ asistanını Windows üzerinde yerel olarak çalıştırmak ve sistem kaynaklarını yönetmek isteyen kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/openclaw/openclaw-windows-node)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CLI Artificial Intelligence
+
+- [CLI](https://trescout.com/dictionary/cli/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openclaw-windows-node/

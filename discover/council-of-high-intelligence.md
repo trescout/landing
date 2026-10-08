@@ -7,9 +7,11 @@ Council of High Intelligence, farklı büyük dil modellerini (large language mo
 - GitHub Trending · 2026-06-30
 
 ## Güncelleme
-- 2 Ağustos 2026: Yıldız 2.176 → 3.808, son sürüm v1.2.0 (4 Temmuz 2026).
+
+- **2 Ağustos 2026:** Yıldız 2.176 → 3.808, son sürüm v1.2.0 (4 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - 18 farklı uzman kişilik ile analiz
 - Farklı yapay zekâ modelleriyle çapraz sorgulama
 - Grup düşüncesini engelleyen yapılandırılmış tartışma
@@ -47,19 +49,25 @@ cd council-of-high-intelligence
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Sen bir yapay zekâ danışma kurulunun parçasısın. Karar vermem gereken konuyu analiz ederken, sadece tek bir bakış açısına bağlı kalma. Farklı uzmanlık alanlarını ve zıt görüşleri değerlendirerek, sorunun temelindeki varsayımları sorgula. Tartışmanın sonunda, üzerinde uzlaşılan noktaları ve çözülemeyen riskleri belirterek bana tarafsız bir sentez sun.
 
-- **Kimin için:** Karmaşık kararlar alırken tek bir yapay zekâ modelinin ötesine geçip farklı entelektüel geleneklerden gelen uzman görüşlerini sentezlemek isteyen herkes için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Karmaşık kararlar alırken tek bir yapay zekâ modelinin ötesine geçip farklı entelektüel geleneklerden gelen uzman görüşlerini sentezlemek isteyen herkes için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/0xNyk/council-of-high-intelligence)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Shell Large Language Models Artificial Intelligence
+
+- [Shell](https://trescout.com/dictionary/shell/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/council-of-high-intelligence/

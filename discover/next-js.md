@@ -7,12 +7,14 @@ Next.js, React tabanlı web uygulamaları geliştirmek için kullanılan bir çe
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 142.954 → 143.229, son sürüm v16.4.0 (7 Ekim 2026).
-- 1 Ekim 2026: Yıldız 142.883 → 142.954, son sürüm v16.3.8 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 142.648 → 142.883, son sürüm v16.3.7 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 142.248 → 142.648, son sürüm v16.3.6 (22 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 142.954 → 143.229, son sürüm v16.4.0 (7 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 142.883 → 142.954, son sürüm v16.3.8 (30 Eylül 2026).
+- **29 Eylül 2026:** Yıldız 142.648 → 142.883, son sürüm v16.3.7 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 142.248 → 142.648, son sürüm v16.3.6 (22 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Sunucu taraflı oluşturma desteği
 - Statik site üretimi imkanı
 - Hızlı derleme için Rust tabanlı araçlar
@@ -34,23 +36,29 @@ cd my-app
 npm run dev
 ```
 
-Kaynak: npm (create-next-app) · resmî Next.js dokümantasyonu (nextjs.org/docs)
+**Kaynak:** npm (create-next-app) · resmî Next.js dokümantasyonu (nextjs.org/docs)
 
 ## Nasıl başlanır?
 
 Next.js ile çalışmaya başlamak için resmî web sitesi olan nextjs.org adresini ziyaret edebilir ve burada yer alan öğrenme kursuna katılarak temel bilgileri edinebilirsiniz. Ayrıca tüm teknik detaylar ve kullanım kılavuzları için nextjs.org/docs bağlantısındaki dokümantasyon sayfasını inceleyebilirsiniz.
+
 - [Resmî kaynak →](https://nextjs.org)
 
-- **Kimin için:** React tabanlı modern ve ölçeklenebilir web uygulamaları geliştirmek isteyen yazılımcılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** React tabanlı modern ve ölçeklenebilir web uygulamaları geliştirmek isteyen yazılımcılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/vercel/next.js)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Server-side Rendering Rendering Framework Rust
+
+- [Server-side Rendering](https://trescout.com/dictionary/server-side-rendering/)
+- [Rendering](https://trescout.com/dictionary/rendering/)
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Rust](https://trescout.com/dictionary/rust/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/next-js/

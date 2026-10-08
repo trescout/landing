@@ -27,13 +27,14 @@ cd invidious
 docker compose up -d
 ```
 
-Kaynak: Komutlar Invidious resmî kurulum belgesinden 24 Ağustos 2026’da kontrol edildi; Docker kurulumu PostgreSQL, Companion ve yapılandırma gerektirir.
+**Kaynak:** Komutlar Invidious resmî kurulum belgesinden 24 Ağustos 2026’da kontrol edildi; Docker kurulumu PostgreSQL, Companion ve yapılandırma gerektirir.
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 23.607 → 24.794, son sürüm v2.20260804.1 (5 Ağustos 2026).
-- 1 Eylül 2026: Yıldız 22.400 → 23.607, son sürüm v2.20260804.1 (5 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 21.884 → 22.400, son sürüm v2.20260804.1 (5 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 21.676 → 21.884, son sürüm v2.20260723.0 (23 Temmuz 2026).
+
+- **27 Eylül 2026:** Yıldız 23.607 → 24.794, son sürüm v2.20260804.1 (5 Ağustos 2026).
+- **1 Eylül 2026:** Yıldız 22.400 → 23.607, son sürüm v2.20260804.1 (5 Ağustos 2026).
+- **6 Ağustos 2026:** Yıldız 21.884 → 22.400, son sürüm v2.20260804.1 (5 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 21.676 → 21.884, son sürüm v2.20260723.0 (23 Temmuz 2026).
 
 ## Bu araç ne yapar?
 
@@ -48,26 +49,31 @@ YouTube’a alternatif bir arayüz kullanmak, Google’dan bağımsız abonelikl
 Resmî YouTube API’lerini kullanan bir çözüm arıyorsanız.
 
 ## Öne çıkanlar
+
 - Reklam, takip ve JavaScript gerektirmeme özelliklerini resmî README’de listeler.
 - Google’dan bağımsız abonelik yönetimini destekler.
 - Verileri içe ve dışa aktarma seçenekleri sunar.
 - Belgelenmiş geliştirici API’si içerir.
 
 ## İlk kullanım akışı
-- Kullanım için herkese açık bir Invidious instance seçin.
-- Kendi instance’ınızı barındıracaksanız resmî kurulum belgelerini inceleyin.
-- Güncel Docker kurulumu için PostgreSQL ve Invidious Companion bileşenlerini hazırlayın.
-- Kendi kurulumunuz için en az 20 GB disk alanı ve 2 GB boş RAM gereksinimini göz önünde bulundurun.
+
+1. Kullanım için herkese açık bir Invidious instance seçin.
+2. Kendi instance’ınızı barındıracaksanız resmî kurulum belgelerini inceleyin.
+3. Güncel Docker kurulumu için PostgreSQL ve Invidious Companion bileşenlerini hazırlayın.
+4. Kendi kurulumunuz için en az 20 GB disk alanı ve 2 GB boş RAM gereksinimini göz önünde bulundurun.
 
 ## Güvenli başlangıç
 
 Projeyi geçerli düzenlemelere uygun kullanın. Resmî liability metni, yasa dışı indirme gibi uygunsuz kullanımlardan proje tarafının sorumlu olmadığını belirtir.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 Herkese açık bir Invidious instance kullanmak ile kendi instance’ınızı barındırmak arasındaki farklar nelerdir?
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/iv-org/invidious)
 - [Invidious resmî GitHub deposu →](https://github.com/iv-org/invidious)
 - [Invidious kurulum belgeleri →](https://docs.invidious.io/installation/)
@@ -76,7 +82,10 @@ Herkese açık bir Invidious instance kullanmak ile kendi instance’ınızı ba
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Companion RAM API
+
+- [Companion](https://trescout.com/dictionary/companion/)
+- [RAM](https://trescout.com/dictionary/ram/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/invidious/

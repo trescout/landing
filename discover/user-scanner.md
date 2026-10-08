@@ -7,14 +7,16 @@ Python tabanlı User-Scanner, tek bir kullanıcı adı veya e-posta üzerinden 4
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 3.910 → 5.007, son sürüm v1.5.2 (17 Eylül 2026).
+
+- **27 Eylül 2026:** Yıldız 3.910 → 5.007, son sürüm v1.5.2 (17 Eylül 2026).
 
 ## Ne kazandırır?
-- Geniş platform kapsamı: GitHub, Reddit, Twitter, Steam, Telegram ve 465'i aşkın sitede tek seferde hesap varlığı doğrulama.
-- Asenkron yüksek hızlı tarama: asyncio ve aiohttp tabanlı mimarisiyle yüzlerce hedefi saniyeler içinde paralel sorgulama.
-- Yanlış pozitif filtreleme: HTTP durum kodlarının yanı sıra yanıt gövdesindeki hata metinlerini doğrulayan akıllı tespit mekanizması.
-- JSON ve CSV rapor dışa aktarma: Analiz sonuçlarını adli bilişim ve güvenlik raporlarında kullanılmak üzere yapılandırılmış formatlarda kaydetme.
-- Gizlilik ve yerel yürütme: Hiçbir sorguyu üçüncü taraf sunuculara göndermeden tamamen yerel makineden çalıştırma imkânı.
+
+- **Geniş platform kapsamı:** GitHub, Reddit, Twitter, Steam, Telegram ve 465'i aşkın sitede tek seferde hesap varlığı doğrulama.
+- **Asenkron yüksek hızlı tarama:** asyncio ve aiohttp tabanlı mimarisiyle yüzlerce hedefi saniyeler içinde paralel sorgulama.
+- **Yanlış pozitif filtreleme:** HTTP durum kodlarının yanı sıra yanıt gövdesindeki hata metinlerini doğrulayan akıllı tespit mekanizması.
+- **JSON ve CSV rapor dışa aktarma:** Analiz sonuçlarını adli bilişim ve güvenlik raporlarında kullanılmak üzere yapılandırılmış formatlarda kaydetme.
+- **Gizlilik ve yerel yürütme:** Hiçbir sorguyu üçüncü taraf sunuculara göndermeden tamamen yerel makineden çalıştırma imkânı.
 
 ## Kurulum
 
@@ -36,44 +38,54 @@ python3 user_scanner.py -u hedef_kullanici
 python3 user_scanner.py -e hedef@ornek.com
 ```
 
-Kaynak: Resmî kaynak: https://github.com/kaifcodec/user-scanner
+**Kaynak:** Resmî kaynak: https://github.com/kaifcodec/user-scanner
 
 ## Teknik mimari ve çalışma prensibi
 
 User-Scanner, modüler bir hedef eşleme ve asenkron tarama boru hattı üzerine kurulmuştur:
-- Veritabanı Şablonları (JSON Site Manifestleri): 465+ platformun URL desenlerini, hata kodlarını ve profil regexlerini içeren modüler yapılandırma.
-- Eşzamanlı İstek Havuzu (Connection Pooling): DNS çözümlemelerini ve TCP soketlerini önbelleğe alarak ağ bant genişliğini en verimli şekilde kullanma.
-- Özel HTTP Başlıkları ve User-Agent Rotasyonu: WAF ve hız sınırı (rate limit) engellerine takılmamak için gerçekçi tarayıcı başlıkları simülasyonu.
+
+- **Veritabanı Şablonları (JSON Site Manifestleri):** 465+ platformun URL desenlerini, hata kodlarını ve profil regexlerini içeren modüler yapılandırma.
+- **Eşzamanlı İstek Havuzu (Connection Pooling):** DNS çözümlemelerini ve TCP soketlerini önbelleğe alarak ağ bant genişliğini en verimli şekilde kullanma.
+- **Özel HTTP Başlıkları ve User-Agent Rotasyonu:** WAF ve hız sınırı (rate limit) engellerine takılmamak için gerçekçi tarayıcı başlıkları simülasyonu.
 
 ## OSINT araştırma senaryoları ve veri analizi
 
 Güvenlik uzmanları ve adli bilişim araştırmacıları için User-Scanner kritik senaryolar sunar:
-- Kişisel Veri İhlali ve İz Takibi: Kullanıcı adı korelasyonu ile sızdırılmış profillerin hangi sosyal mecralarda etkin olduğunu haritalandırın.
-- Kurumsal Güvenlik Denetimleri: Şirket çalışanlarının kurumsal e-posta adresleriyle harici platformlarda hesap açıp açmadığını tespit edin.
-- Sosyal Mühendislik Savunması: Hedef odaklı oltalama (spear phishing) saldırılarına karşı yetkisiz taklit hesapları erkenden belirleyin.
+
+- **Kişisel Veri İhlali ve İz Takibi:** Kullanıcı adı korelasyonu ile sızdırılmış profillerin hangi sosyal mecralarda etkin olduğunu haritalandırın.
+- **Kurumsal Güvenlik Denetimleri:** Şirket çalışanlarının kurumsal e-posta adresleriyle harici platformlarda hesap açıp açmadığını tespit edin.
+- **Sosyal Mühendislik Savunması:** Hedef odaklı oltalama (spear phishing) saldırılarına karşı yetkisiz taklit hesapları erkenden belirleyin.
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bir güvenlik denetiminde User-Scanner aracını kullanarak tek bir kullanıcı adı üzerinden 465'ten fazla platformda nasıl tarama yapabileceğimi, elde edilen bulguları JSON formatında dışa aktarıp şüpheli profilleri nasıl listeleyeceğimi adım adım açıklar mısın?
 
-- **Kimin için:** Siber güvenlik araştırmacıları, OSINT analistleri, adli bilişim uzmanları ve etik hackerlar. 
-- **Lisans:** GPL-3.0 (Açık kaynak copyleft lisansı) 
-- **Çatı:** Python Asenkron OSINT Tarayıcısı 
-- **Platformlar:** Linux, macOS, Windows 
+- **Kimin için:** Siber güvenlik araştırmacıları, OSINT analistleri, adli bilişim uzmanları ve etik hackerlar.
+- **Lisans:** GPL-3.0 (Açık kaynak copyleft lisansı)
+- **Çatı:** Python Asenkron OSINT Tarayıcısı
+- **Platformlar:** Linux, macOS, Windows
 
 ## Sıkça sorulan sorular
-- User-Scanner kullanmak yasal mıdır? Evet. User-Scanner yalnızca kamuya açık web sayfalarında herkesin görebileceği hesap varlığı durumlarını sorgular; hiçbir yetkisiz sisteme erişim sağlamaz veya şifre kırmaz.
-- Tor veya proxy desteği var mı? Evet. İstekleri SOCKS5 veya HTTP proxy zincirleri üzerinden yönlendirerek IP adresinizi maskeleyebilir ve hız sınırlarından kaçınabilirsiniz.
-- Sonuçlar ne kadar sürede tamamlanır? Asenkron mimarisi sayesinde internet bağlantınıza bağlı olarak 465'ten fazla platformun taranması genellikle 20 ile 45 saniye arasında tamamlanır.
-- E-posta araması nasıl çalışır? E-posta modunda, desteklenen servislerin şifre sıfırlama veya hesap kayıt uç noktalarında kamuya açık doğrulama sinyalleri incelenir.
+
+- **User-Scanner kullanmak yasal mıdır?** Evet. User-Scanner yalnızca kamuya açık web sayfalarında herkesin görebileceği hesap varlığı durumlarını sorgular; hiçbir yetkisiz sisteme erişim sağlamaz veya şifre kırmaz.
+- **Tor veya proxy desteği var mı?** Evet. İstekleri SOCKS5 veya HTTP proxy zincirleri üzerinden yönlendirerek IP adresinizi maskeleyebilir ve hız sınırlarından kaçınabilirsiniz.
+- **Sonuçlar ne kadar sürede tamamlanır?** Asenkron mimarisi sayesinde internet bağlantınıza bağlı olarak 465'ten fazla platformun taranması genellikle 20 ile 45 saniye arasında tamamlanır.
+- **E-posta araması nasıl çalışır?** E-posta modunda, desteklenen servislerin şifre sıfırlama veya hesap kayıt uç noktalarında kamuya açık doğrulama sinyalleri incelenir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/kaifcodec/user-scanner)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-OSINT Proxy Open Source Artificial Intelligence
+
+- [OSINT](https://trescout.com/dictionary/osint/)
+- [Proxy](https://trescout.com/dictionary/proxy/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/user-scanner/

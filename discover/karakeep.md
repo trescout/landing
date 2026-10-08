@@ -7,10 +7,12 @@ Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, ke
 - GitHub Trending · 2026-07-07
 
 ## Güncelleme
-- 12 Ağustos 2026: Yıldız 28.017 → 28.260, son sürüm v0.33.2 (11 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 27.033 → 28.017, son sürüm v0.33.1 (1 Ağustos 2026).
+
+- **12 Ağustos 2026:** Yıldız 28.017 → 28.260, son sürüm v0.33.2 (11 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 27.033 → 28.017, son sürüm v0.33.1 (1 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Bağlantıları, notları ve dosyaları tek merkezde toplayın.
 - Yapay zekâ ile otomatik etiketleme ve özetleme yapın.
 - Tam metin arama ile içeriklerinize hızla ulaşın.
@@ -23,23 +25,29 @@ Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, ke
 brew install karakeep
 ```
 
-Kaynak: Homebrew formülü · karakeep.app
+**Kaynak:** Homebrew formülü · karakeep.app
 
 ## Nasıl başlanır?
 
 Kurulum yapmak için resmî dokümantasyon sayfasındaki Docker kurulum rehberini takip edebilirsiniz. Detaylı adımlar ve yapılandırma seçenekleri için docs.karakeep.app adresindeki kurulum kılavuzunu incelemeniz yeterlidir.
+
 - [Resmî kaynak →](https://karakeep.app)
 
-- **Kimin için:** Dijital içeriklerini, bağlantılarını ve notlarını kendi sunucusunda düzenli bir şekilde saklamak isteyen kullanıcılar içindir. 
-- **Lisans:** AGPL-3.0 
+- **Kimin için:** Dijital içeriklerini, bağlantılarını ve notlarını kendi sunucusunda düzenli bir şekilde saklamak isteyen kullanıcılar içindir.
+- **Lisans:** AGPL-3.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/karakeep-app/karakeep)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Automatic Tagging Full Text Search Self-hostable Artificial Intelligence
+
+- [Automatic Tagging](https://trescout.com/dictionary/automatic-tagging/)
+- [Full Text Search](https://trescout.com/dictionary/full-text-search/)
+- [Self-hostable](https://trescout.com/dictionary/self-hostable/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/karakeep/

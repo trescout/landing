@@ -6,20 +6,27 @@ La biblioteca Outlines permite que las respuestas de modelos de lenguaje grandes
 - Python
 - GitHub Trending · 2026-07-22
 
+## Actualizaciones
+
+- **7 de agosto de 2026:** Estrellas 15,477 → 15,525, última versión 1.3.3 (6 de agosto de 2026).
+- **2 de agosto de 2026:** Estrellas 14,917 → 15,477, última versión 1.3.2 (20 de julio de 2026).
+
 ## Qué aporta
+
 - Restringe los resultados del modelo según esquemas predefinidos.
 - Totalmente compatible con tipos de datos JSON o Python
 - Elimina la necesidad de depurar resultados erróneos
 
 ## Instalación
+
 **Instalar la biblioteca**
 
 ```
 pip install outlines
 ```
 
-
 ## Ejecución
+
 **Conecta el modelo**
 
 ```
@@ -34,15 +41,25 @@ model = outlines.from_transformers(
 )
 ```
 
-
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 Quiero restringir la respuesta de un modelo de IA a una estructura de datos de Pydantic o un tipo de Python específico (por ejemplo, int o Literal) usando la biblioteca Outlines. ¿Cómo puedo utilizar la función modelo (solicitud, tipo_salida) después de definir el objeto del modelo para garantizar que la salida del modelo siempre se ajuste al esquema que deseo? Explique con un ejemplo cómo definir el modelo Pydantic para objetos complejos y aplicar esta estructura a la salida del modelo.
 
 ## Términos relacionados del glosario
 
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
+- **Para quién es:** Es para desarrolladores que desean convertir resultados de texto irregulares de modelos de IA en datos estructurados que puedan usarse directamente en procesos de software.
+- **Licencia:** Apache-2.0
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/dottxt-ai/outlines)
+- [Leer en turco →](https://trescout.com/discover/outlines/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-22: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/outlines/

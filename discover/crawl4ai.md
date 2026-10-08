@@ -1,6 +1,6 @@
 # Web Verilerini yapay zekâya Hazırlayın
 
-Crawl4AI ; büyük dil modelleri için optimize edilmiş, açık kaynak bir web tarayıcı ve kazıyıcıdır . Web sayfalarını, yapay zekâ modellerinin kolayca işleyebileceği temiz ve yapılandırılmış formatlara (Markdown vb.) dönüştürür.
+**Crawl4AI**; büyük dil modelleri için optimize edilmiş, açık kaynak bir **web tarayıcı ve kazıyıcıdır**. Web sayfalarını, yapay zekâ modellerinin kolayca işleyebileceği temiz ve yapılandırılmış formatlara (Markdown vb.) dönüştürür.
 
 - ★ 84.312
 - Python
@@ -8,18 +8,20 @@ Crawl4AI ; büyük dil modelleri için optimize edilmiş, açık kaynak bir web 
 - GitHub Trending · 29 May 2026
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 80.563 → 84.312, son sürüm v0.9.4 (23 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 75.853 → 80.563, son sürüm v0.9.3 (31 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 67.194 → 75.853, son sürüm v0.9.2 (15 Temmuz 2026).
 
-- **Kimin için:** AI/veri için web verisi toplayanlar 
-- **Zorluk:** Orta · Python 
-- **Ne sunar:** LLM-dostu web crawl + scrape 
-- **Ön koşul:** Python 
-- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
+- **27 Eylül 2026:** Yıldız 80.563 → 84.312, son sürüm v0.9.4 (23 Eylül 2026).
+- **31 Ağustos 2026:** Yıldız 75.853 → 80.563, son sürüm v0.9.3 (31 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 67.194 → 75.853, son sürüm v0.9.2 (15 Temmuz 2026).
+
+- **Kimin için:** AI/veri için web verisi toplayanlar
+- **Zorluk:** Orta · Python
+- **Ne sunar:** LLM-dostu web crawl + scrape
+- **Ön koşul:** Python
+- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0)
 
 ## Ne kazandırır?
-- Web içeriğini temiz ve yapay zekâ dostu bir formata dönüştürür.
+
+- Web içeriğini **temiz ve yapay zekâ dostu** bir formata dönüştürür.
 - LLM süreçleri için özel olarak optimize edilmiştir.
 - Hızlı ve açık kaynaklıdır.
 
@@ -39,21 +41,28 @@ pip install crawl4ai
 crawl4ai-download
 ```
 
-Kaynak: Resmî kaynak: https://github.com/unclecode/crawl4ai
+**Kaynak:** Resmî kaynak: https://github.com/unclecode/crawl4ai
 
 ## Kurulum (tek komut)
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Crawl4AI adlı açık kaynaklı web tarayıcısını kurmama yardım et; 'pip install -U crawl4ai' ile yükle, ardından 'crawl4ai-setup' çalıştır ve 'crwl https://www.nbcnews.com/business -o markdown' komutuyla bir web sayfasını LLM dostu Markdown'a dönüştürerek deneyelim.
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
+**Lisans:** Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/unclecode/crawl4ai)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Markdown LLM Open Source Artificial Intelligence
+
+- [Markdown](https://trescout.com/dictionary/markdown/)
+- [LLM](https://trescout.com/dictionary/llm/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/crawl4ai/

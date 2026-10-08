@@ -7,9 +7,11 @@ Self-Hosting Guide, yerel ağlarda veya özel web sunucularında yazılım uygul
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
-- 19 Ağustos 2026: Yıldız 21.324 → 22.395.
+
+- **19 Ağustos 2026:** Yıldız 21.324 → 22.395.
 
 ## Ne kazandırır?
+
 - Yerel ağda yazılım barındırma yöntemleri
 - Donanım ve sunucu yapılandırma bilgisi
 - Bulut ve otomasyon araçları yönetimi
@@ -37,18 +39,24 @@ npm run dev
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Kendi sunucumu kurmak istiyorum. Self-Hosting-Guide rehberindeki bilgiler ışığında, yerel ağımda bir medya sunucusu veya bulut depolama alanı oluşturmak için izlemem gereken temel adımlar nelerdir? Hangi donanım ve yazılım araçlarını öncelikli olarak değerlendirmeliyim?
 
-- **Kimin için:** Kendi yazılım uygulamalarını yerel ağlarında veya özel sunucularında barındırmak isteyen teknik meraklılar içindir. 
+- **Kimin için:** Kendi yazılım uygulamalarını yerel ağlarında veya özel sunucularında barındırmak isteyen teknik meraklılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/mikeroyal/Self-Hosting-Guide)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Self-hosting Large Language Models Artificial Intelligence
+
+- [Self-hosting](https://trescout.com/dictionary/self-hosting/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/self-hosting-guide/

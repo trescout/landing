@@ -7,12 +7,14 @@ CUA, bilgisayar kullanım yeteneğine sahip yapay zekâ ajanları için açık k
 - GitHub Trending · 2026-06-16
 
 ## Güncelleme
-- 5 Ekim 2026: Yıldız 28.101 → 28.129, son sürüm cua-sdk-v0.4.1 (5 Ekim 2026).
-- 5 Ekim 2026: Yıldız 27.988 → 28.101, son sürüm cua-spaces-v0.7.2 (5 Ekim 2026).
-- 4 Ekim 2026: Yıldız 27.887 → 27.988, son sürüm cua-sdk-v0.3.1 (4 Ekim 2026).
-- 3 Ekim 2026: Yıldız 27.875 → 27.887, son sürüm cua-spacesd-v0.4.1 (3 Ekim 2026).
+
+- **5 Ekim 2026:** Yıldız 28.101 → 28.129, son sürüm cua-sdk-v0.4.1 (5 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 27.988 → 28.101, son sürüm cua-spaces-v0.7.2 (5 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 27.887 → 27.988, son sürüm cua-sdk-v0.3.1 (4 Ekim 2026).
+- **3 Ekim 2026:** Yıldız 27.875 → 27.887, son sürüm cua-spacesd-v0.4.1 (3 Ekim 2026).
 
 ## Ne kazandırır?
+
 - Masaüstü uygulamalarını arka planda kontrol etme
 - Farklı işletim sistemleri için izole kum havuzları
 - Ajan performansını ölçmek için kıyaslama araçları
@@ -44,19 +46,26 @@ lume run macos-sequoia-vanilla:latest
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 CUA altyapısını kullanarak bir bilgisayar kullanım ajanı geliştirmek istiyorum. Ajanımın masaüstü uygulamalarıyla arka planda etkileşime girmesini, fare tıklamaları yapmasını ve klavye girdileri göndermesini sağlayacak temel Python yapısını kurmama yardımcı ol. CUA Sandbox SDK kullanarak bir Linux ortamında komut çalıştıran ve ekran görüntüsü alan örnek bir kod taslağı oluştur.
 
-- **Kimin için:** Bilgisayar üzerinde otonom görevler gerçekleştiren yapay zekâ ajanları geliştiren yazılımcılar ve araştırmacılar için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Bilgisayar üzerinde otonom görevler gerçekleştiren yapay zekâ ajanları geliştiren yazılımcılar ve araştırmacılar için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/trycua/cua)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Benchmark Sandbox SDK Artificial Intelligence
+
+- [Benchmark](https://trescout.com/dictionary/benchmark/)
+- [Sandbox](https://trescout.com/dictionary/sandbox/)
+- [SDK](https://trescout.com/dictionary/sdk/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cua/

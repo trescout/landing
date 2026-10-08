@@ -7,12 +7,14 @@ Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (l
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 31.225 → 31.532, son sürüm v1.6.3 (7 Ekim 2026).
-- 29 Eylül 2026: Yıldız 30.996 → 31.225, son sürüm v1.6.2 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 30.830 → 30.996, son sürüm v1.6.1 (24 Eylül 2026).
-- 19 Eylül 2026: Yıldız 30.711 → 30.830, son sürüm v1.6.0 (18 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 31.225 → 31.532, son sürüm v1.6.3 (7 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 30.996 → 31.225, son sürüm v1.6.2 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 30.830 → 30.996, son sürüm v1.6.1 (24 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 30.711 → 30.830, son sürüm v1.6.0 (18 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Ajanlar için oturumlar arası kalıcı uzun süreli bellek
 - Kendi kendine barındırılan bilgi grafiği motoru
 - Veri kaynaklarını birleştirerek bağlamsal öğrenme
@@ -40,19 +42,27 @@ cognee-cli -ui
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Cognee kullanarak verilerimi bir bilgi grafiği yapısında saklamak ve ajanımın bu verileri uzun süreli hafızasında tutarak geri çağırmasını sağlamak istiyorum. Lütfen cognee.remember() fonksiyonu ile veriyi hafızaya almamı ve cognee.recall() ile bu veriye dayalı anlamlı yanıtlar üretmemi sağlayacak bir iş akışı oluştur.
 
-- **Kimin için:** Yapay zekâ ajanlarının geçmiş oturumlardan öğrenmesini ve karmaşık veriler arasında bağ kurmasını isteyen geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Yapay zekâ ajanlarının geçmiş oturumlardan öğrenmesini ve karmaşık veriler arasında bağ kurmasını isteyen geliştiriciler için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/topoteretes/cognee)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Knowledge Graph Engine Long-term Memory Knowledge Graph Memory Artificial Intelligence
+
+- [Knowledge Graph Engine](https://trescout.com/dictionary/knowledge-graph-engine/)
+- [Long-term Memory](https://trescout.com/dictionary/long-term-memory/)
+- [Knowledge Graph](https://trescout.com/dictionary/knowledge-graph/)
+- [Memory](https://trescout.com/dictionary/memory/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cognee/

@@ -7,12 +7,14 @@ Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı ara
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
-- 3 Ekim 2026: Yıldız 6.855 → 7.033, son sürüm v0.10.0 (2 Ekim 2026).
-- 27 Eylül 2026: Yıldız 6.265 → 6.855, son sürüm v0.9.3 (23 Eylül 2026).
-- 12 Eylül 2026: Yıldız 5.976 → 6.265, son sürüm v0.9.1 (11 Eylül 2026).
-- 6 Eylül 2026: Yıldız 5.385 → 5.976, son sürüm v0.9.0 (5 Eylül 2026).
+
+- **3 Ekim 2026:** Yıldız 6.855 → 7.033, son sürüm v0.10.0 (2 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 6.265 → 6.855, son sürüm v0.9.3 (23 Eylül 2026).
+- **12 Eylül 2026:** Yıldız 5.976 → 6.265, son sürüm v0.9.1 (11 Eylül 2026).
+- **6 Eylül 2026:** Yıldız 5.385 → 5.976, son sürüm v0.9.0 (5 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Geçmiş kodlama oturumlarını görsel olarak tarayın
 - Dosyaları tarayıcı üzerinden önizleyin
 - Model ve yetenek ayarlarını arayüzden yönetin
@@ -33,19 +35,25 @@ pi-web
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Pi kodlama ajanı ile yaptığım çalışmaları görselleştirmek ve oturumlarımı daha verimli yönetmek istiyorum. Pi Web aracını kullanarak yerel oturum dosyalarımı tarayıcı üzerinden nasıl görüntüleyebilirim, sohbet geçmişimi nasıl düzenleyebilirim ve proje dosyalarımı arayüz üzerinden nasıl önizleyebilirim? Kurulum sonrası tarayıcıda açılan çalışma alanını kullanarak model yapılandırması ve yetenek yönetimi işlemlerini nasıl daha kolay yapabileceğimi adım adım açıkla.
 
-- **Kimin için:** Pi kodlama ajanı kullanan ve terminal yerine görsel bir web arayüzü ile çalışma süreçlerini yönetmek isteyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Pi kodlama ajanı kullanan ve terminal yerine görsel bir web arayüzü ile çalışma süreçlerini yönetmek isteyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/agegr/pi-web)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Web UI Terminal Artificial Intelligence
+
+- [Web UI](https://trescout.com/dictionary/web-ui/)
+- [Terminal](https://trescout.com/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pi-web/

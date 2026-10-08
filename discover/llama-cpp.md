@@ -6,15 +6,17 @@ Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar
 - C++
 - GitHub Trending · 2026-06-08
 
-TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
+**TreScout notu:** Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 129.621 → 130.447, son sürüm v0.6.0 (5 Ekim 2026).
-- 27 Eylül 2026: Yıldız 128.278 → 129.621, son sürüm v0.5.0 (23 Eylül 2026).
-- 15 Eylül 2026: Yıldız 127.101 → 128.278, son sürüm v0.4.1 (14 Eylül 2026).
-- 5 Eylül 2026: Yıldız 125.883 → 127.101, son sürüm v0.4.0 (4 Eylül 2026).
+
+- **6 Ekim 2026:** Yıldız 129.621 → 130.447, son sürüm v0.6.0 (5 Ekim 2026).
+- **27 Eylül 2026:** Yıldız 128.278 → 129.621, son sürüm v0.5.0 (23 Eylül 2026).
+- **15 Eylül 2026:** Yıldız 127.101 → 128.278, son sürüm v0.4.1 (14 Eylül 2026).
+- **5 Eylül 2026:** Yıldız 125.883 → 127.101, son sürüm v0.4.0 (4 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
 - Düşük bellek kullanımı ile yüksek performans sağlar.
 - Yerel cihazlarda yapay zekâ modellerini çalıştırmayı kolaylaştırır.
@@ -36,22 +38,29 @@ cd llama.cpp
 llama-cli -m my_model.gguf
 ```
 
-Kaynak: Resmî kaynak: https://github.com/ggml-org/llama.cpp
+**Kaynak:** Resmî kaynak: https://github.com/ggml-org/llama.cpp
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Bilgisayarımda yerel olarak büyük dil modellerini çalıştırmak istiyorum. Llama.cpp aracını kullanarak 'llama-cli -m my_model.gguf' komutuyla kendi model dosyamı nasıl çalıştırabilirim veya 'llama-cli -hf ggml-org/gemma-3-1b-it-GGUF' komutuyla Hugging Face üzerinden doğrudan bir modeli nasıl indirip başlatabilirim? Bu süreçte dikkat etmem gereken donanım gereksinimleri veya model seçimi konusunda bana yardımcı olur musun?
 
-- **Kimin için:** Büyük dil modellerini kendi donanımı üzerinde, internete bağımlı kalmadan çalıştırmak isteyen kullanıcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Büyük dil modellerini kendi donanımı üzerinde, internete bağımlı kalmadan çalıştırmak isteyen kullanıcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ggml-org/llama.cpp)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-GGUF Inference Large Language Models Artificial Intelligence
+
+- [GGUF](https://trescout.com/dictionary/gguf/)
+- [Inference](https://trescout.com/dictionary/inference/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/llama-cpp/

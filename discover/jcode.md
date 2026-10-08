@@ -7,12 +7,14 @@ Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test 
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 20.303 → 20.324, son sürüm v0.91.0 (6 Ekim 2026).
-- 5 Ekim 2026: Yıldız 20.262 → 20.303, son sürüm v0.90.1 (5 Ekim 2026).
-- 2 Ekim 2026: Yıldız 20.218 → 20.262, son sürüm v0.90.0 (1 Ekim 2026).
-- 29 Eylül 2026: Yıldız 20.212 → 20.218, son sürüm v0.89.3 (29 Eylül 2026).
+
+- **6 Ekim 2026:** Yıldız 20.303 → 20.324, son sürüm v0.91.0 (6 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 20.262 → 20.303, son sürüm v0.90.1 (5 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 20.218 → 20.262, son sürüm v0.90.0 (1 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 20.212 → 20.218, son sürüm v0.89.3 (29 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Çoklu oturum iş akışlarında yüksek kaynak verimliliği
 - Düşük bellek kullanımı ve hızlı başlatma süresi
 - Kodlama odaklı yapay zekâ ajanları için test altyapısı
@@ -43,19 +45,25 @@ jcode --provider ollama --model llama3.2 run 'hello'
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Kodlama odaklı yapay zekâ ajanımın performansını ve çoklu oturum yönetimi becerisini test etmek istiyorum. jcode çerçevesini kullanarak ajanımın kaynak kullanımını optimize etmemi ve standart bir test ortamı kurmamı sağla.
 
-- **Kimin için:** Yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanlarını test etmek ve performanslarını ölçmek isteyen geliştiriciler içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanlarını test etmek ve performanslarını ölçmek isteyen geliştiriciler içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/1jehuang/jcode)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Harness Rust Artificial Intelligence
+
+- [Harness](https://trescout.com/dictionary/harness/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jcode/

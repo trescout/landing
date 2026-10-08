@@ -7,11 +7,13 @@ Nuxt, Vue tabanlı uygulamalar geliştirmek için kullanılan tam yığın (full
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 60.726 → 60.920, son sürüm v4.6.0 (5 Ekim 2026).
-- 6 Ağustos 2026: Yıldız 60.715 → 60.726, son sürüm v4.5.2 (5 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 60.747 → 60.715, son sürüm v4.5.1 (27 Temmuz 2026).
+
+- **6 Ekim 2026:** Yıldız 60.726 → 60.920, son sürüm v4.6.0 (5 Ekim 2026).
+- **6 Ağustos 2026:** Yıldız 60.715 → 60.726, son sürüm v4.5.2 (5 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 60.747 → 60.715, son sürüm v4.5.1 (27 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Sunucu taraflı işleme ve statik site oluşturma
 - Otomatik yönlendirme ve kod bölme
 - TypeScript ile yapılandırılmış geliştirme ortamı
@@ -21,23 +23,31 @@ Nuxt, Vue tabanlı uygulamalar geliştirmek için kullanılan tam yığın (full
 **Yeni proje oluşturma**
 
 ```
-npm create nuxt@latest 
+npm create nuxt@latest <my-project>
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Vue.js tabanlı projelerim için Nuxt çerçevesini kullanmak istiyorum. Projemi başlatmak ve sunucu taraflı işleme özelliklerinden faydalanarak tam yığın bir web uygulaması geliştirmek için izlemem gereken temel adımları, bileşen yapısını ve SEO optimizasyonu için kullanabileceğim araçları açıklar mısın?
 
-- **Kimin için:** Vue.js kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştirmek isteyen yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Vue.js kullanarak ölçeklenebilir ve performanslı web uygulamaları geliştirmek isteyen yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/nuxt/nuxt)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Server-side Rendering SEO Rendering Framework Artificial Intelligence
+
+- [Server-side Rendering](https://trescout.com/dictionary/server-side-rendering/)
+- [SEO](https://trescout.com/dictionary/seo/)
+- [Rendering](https://trescout.com/dictionary/rendering/)
+- [Framework](https://trescout.com/dictionary/framework/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nuxt/

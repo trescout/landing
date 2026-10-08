@@ -7,12 +7,14 @@ Hugging Face tarafından geliştirilen Transformers, metin, görüntü ve ses gi
 - GitHub Trending · 2026-08-12
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 166.876 → 167.017, son sürüm v5.19.0 (6 Ekim 2026).
-- 1 Ekim 2026: Yıldız 165.067 → 166.876, son sürüm v5.18.0 (30 Eylül 2026).
-- 10 Eylül 2026: Yıldız 164.497 → 165.067, son sürüm v5.17.0 (9 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 164.253 → 164.497, son sürüm v5.16.1 (26 Ağustos 2026).
+
+- **7 Ekim 2026:** Yıldız 166.876 → 167.017, son sürüm v5.19.0 (6 Ekim 2026).
+- **1 Ekim 2026:** Yıldız 165.067 → 166.876, son sürüm v5.18.0 (30 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 164.497 → 165.067, son sürüm v5.17.0 (9 Eylül 2026).
+- **27 Ağustos 2026:** Yıldız 164.253 → 164.497, son sürüm v5.16.1 (26 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Metin, görüntü ve ses modellerine erişim sağlar.
 - Modeller üzerinde ince ayar yapmayı kolaylaştırır.
 - Geniş model kütüphanesiyle hızlı geliştirme imkânı sunar.
@@ -33,19 +35,26 @@ uv pip install '.[torch]'
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Transformers kütüphanesini kullanarak bir metin oluşturma modeli çalıştırmak istiyorum. Pipeline API'sini kullanarak nasıl hızlı bir başlangıç yapabilirim? Adım adım kod örneği ve açıklama ile yardımcı olur musun?
 
-- **Kimin için:** Makine öğrenimi modelleriyle çalışmak isteyen yazılımcılar ve yapay zekâ araştırmacıları için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Makine öğrenimi modelleriyle çalışmak isteyen yazılımcılar ve yapay zekâ araştırmacıları için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/huggingface/transformers)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Fine-tuning Pipeline API Artificial Intelligence
+
+- [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
+- [Pipeline](https://trescout.com/dictionary/pipeline/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/transformers/

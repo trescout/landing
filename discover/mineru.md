@@ -7,12 +7,14 @@ MinerU, PDF ve Office gibi karmaşık belge formatlarını büyük dil modelleri
 - GitHub Trending · 2026-06-26
 
 ## Güncelleme
-- 29 Eylül 2026: Yıldız 80.768 → 80.819, son sürüm mineru-4.0.10-released (29 Eylül 2026).
-- 28 Eylül 2026: Yıldız 80.681 → 80.768, son sürüm mineru-4.0.8-released (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 80.233 → 80.681, son sürüm mineru-4.0.7-released (23 Eylül 2026).
-- 19 Eylül 2026: Yıldız 80.175 → 80.233, son sürüm mineru-4.0.3-released (18 Eylül 2026).
+
+- **29 Eylül 2026:** Yıldız 80.768 → 80.819, son sürüm mineru-4.0.10-released (29 Eylül 2026).
+- **28 Eylül 2026:** Yıldız 80.681 → 80.768, son sürüm mineru-4.0.8-released (27 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 80.233 → 80.681, son sürüm mineru-4.0.7-released (23 Eylül 2026).
+- **19 Eylül 2026:** Yıldız 80.175 → 80.233, son sürüm mineru-4.0.3-released (18 Eylül 2026).
 
 ## Ne kazandırır?
+
 - PDF ve Office dosyalarını işaretleme diline çevirir
 - Yapılandırılmamış verileri ajan iş akışlarına hazırlar
 - Karmaşık belge formatlarını JSON çıktısına dönüştürür
@@ -36,18 +38,27 @@ uv pip install -e .[all]
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Elimdeki karmaşık PDF ve Office belgelerini yapay zekâ ajanımın anlayabileceği bir formata dönüştürmek istiyorum. MinerU aracını kullanarak bu dosyaları işaretleme dili (markdown) veya JSON formatına çevirmem gerekiyor. Bu dönüşüm sürecini nasıl başlatabilirim ve çıktıları ajan tabanlı iş akışlarımda en verimli şekilde nasıl kullanabilirim?
 
-- **Kimin için:** Belgelerini yapay zekâ modelleri ve ajan tabanlı sistemler için işlenebilir hale getirmek isteyen kullanıcılar içindir. 
+- **Kimin için:** Belgelerini yapay zekâ modelleri ve ajan tabanlı sistemler için işlenebilir hale getirmek isteyen kullanıcılar içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/opendatalab/MinerU)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Workflows Workflows Agentic Markdown Large Language Models PDF
+
+- [Agentic Workflows](https://trescout.com/dictionary/agentic-workflows/)
+- [Workflows](https://trescout.com/dictionary/workflows/)
+- [Agentic](https://trescout.com/dictionary/agentic/)
+- [Markdown](https://trescout.com/dictionary/markdown/)
+- [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [PDF](https://trescout.com/dictionary/pdf/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mineru/

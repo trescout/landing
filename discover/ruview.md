@@ -33,13 +33,14 @@ docker run -p 3000:3000 ruvnet/wifi-densepose:latest
 ./verify
 ```
 
-Kaynak: Komutlar RuView resmî kullanıcı ve build rehberlerinden 24 Ağustos 2026’da kontrol edildi; Docker varsayılan olarak simüle edilmiş verilerle çalışabilir.
+**Kaynak:** Komutlar RuView resmî kullanıcı ve build rehberlerinden 24 Ağustos 2026’da kontrol edildi; Docker varsayılan olarak simüle edilmiş verilerle çalışabilir.
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 96.651 → 96.773, son sürüm v3067 (6 Ekim 2026).
-- 6 Ekim 2026: Yıldız 96.464 → 96.651, son sürüm v3060 (5 Ekim 2026).
-- 5 Ekim 2026: Yıldız 95.926 → 96.464, son sürüm v3037 (4 Ekim 2026).
-- 2 Ekim 2026: Yıldız 95.751 → 95.926, son sürüm v2975 (2 Ekim 2026).
+
+- **7 Ekim 2026:** Yıldız 96.651 → 96.773, son sürüm v3067 (6 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 96.464 → 96.651, son sürüm v3060 (5 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 95.926 → 96.464, son sürüm v3037 (4 Ekim 2026).
+- **2 Ekim 2026:** Yıldız 95.751 → 95.926, son sürüm v2975 (2 Ekim 2026).
 
 ## Bu araç ne yapar?
 
@@ -54,26 +55,31 @@ WiFi sinyalleriyle varlık, hareket veya ortam değişimi üzerine sensing denem
 Tıbbi izleme amacıyla doğruluk beklentisi olan çalışmalar veya standart laptopun RSSI modunda pose kestirimi bekleyenler için uygun değildir.
 
 ## Öne çıkanlar
+
 - ESP32 ve araştırma NIC’leriyle CSI tabanlı sensing seçenekleri sunar.
 - Donanımınız olmadan simüle edilmiş verilerle değerlendirme yapabilirsiniz.
 - Resmî build rehberinde deterministik referans sinyal doğrulaması için `./verify` adımı belgelenir.
 - Laptop RSSI modu ile tam CSI donanımının sunduğu sensing kapsamı birbirinden ayrılır.
 
 ## İlk kullanım akışı
-- Docker veya kaynak kodu yolundan, resmî kurulum belgelerine göre ortamınızı hazırlayın.
-- Donanımınız yoksa simüle edilmiş verilerle değerlendirme akışını inceleyin.
-- Build rehberinde açıklanan deterministik referans sinyal doğrulaması için `./verify` adımını çalıştırın.
-- Kullandığınız donanıma göre RSSI-only veya tam CSI sensing akışını seçin.
+
+1. Docker veya kaynak kodu yolundan, resmî kurulum belgelerine göre ortamınızı hazırlayın.
+2. Donanımınız yoksa simüle edilmiş verilerle değerlendirme akışını inceleyin.
+3. Build rehberinde açıklanan deterministik referans sinyal doğrulaması için `./verify` adımını çalıştırın.
+4. Kullandığınız donanıma göre RSSI-only veya tam CSI sensing akışını seçin.
 
 ## Güvenli başlangıç
 
 Laptopta RSSI-only mod, kaba varlık ve hareket algılama içindir; pose desteği sunmaz. Pose ve bazı benchmark yetenekleri deneysel, ilk sürüm niteliğinde veya açık sınırlılıklarla belgelenir; sonuçları kullandığınız donanım moduna göre değerlendirin.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+
+İlk adım için hazır istem
+
 WiFi CSI verileriyle basit bir hareket algılama senaryosunu simüle edilmiş veri üzerinden nasıl değerlendirebilirsiniz?
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/ruvnet/RuView)
 - [RuView resmî GitHub deposu →](https://github.com/ruvnet/RuView)
 - [RuView kullanıcı rehberi →](https://github.com/ruvnet/RuView/blob/main/docs/user-guide.md)
@@ -82,7 +88,9 @@ WiFi CSI verileriyle basit bir hareket algılama senaryosunu simüle edilmiş ve
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-05-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-WiFi Benchmark
+
+- [WiFi](https://trescout.com/dictionary/wifi/)
+- [Benchmark](https://trescout.com/dictionary/benchmark/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/

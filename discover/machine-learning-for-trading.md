@@ -6,10 +6,12 @@ Stefan Jansen tarafından hazırlanan bu kaynak, algoritmik ticarette makine ö�
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 20.241 → 21.060, son sürüm v3.1.0-artifacts (20 Eylül 2026).
-- 2 Ağustos 2026: Yıldız 18.065 → 20.241, son sürüm v3.0.0-artifacts (24 Temmuz 2026).
+
+- **27 Eylül 2026:** Yıldız 20.241 → 21.060, son sürüm v3.1.0-artifacts (20 Eylül 2026).
+- **2 Ağustos 2026:** Yıldız 18.065 → 20.241, son sürüm v3.0.0-artifacts (24 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Finansal verilerle uçtan uca strateji geliştirme
 - Dokuz farklı piyasa için pratik vaka çalışmaları
 - Yapay zekâ ve otonom ajanlarla modelleme
@@ -25,22 +27,28 @@ conda env create -f installation/ml4t-base.yml
 conda activate ml4t
 ```
 
-Kaynak: Resmî kurulum dokümanı (depo installation/ klasörü)
+**Kaynak:** Resmî kurulum dokümanı (depo installation/ klasörü)
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Finansal piyasalarda veri analizi ve strateji geliştirme süreçlerinde makine öğrenimi modellerini nasıl kullanabilirim? Bu araçtaki vaka çalışmalarını temel alarak, bir ticaret stratejisinin veri kaynağından canlı işleme aşamasına kadar olan iş akışını ve yapay zekâ ajanlarının bu süreçteki rolünü adım adım açıkla.
 
-- **Kimin için:** Finansal piyasalar için veri analizi ve tahmin modelleri geliştirmek isteyen araştırmacılar ve yazılımcılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Finansal piyasalar için veri analizi ve tahmin modelleri geliştirmek isteyen araştırmacılar ve yazılımcılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/stefan-jansen/machine-learning-for-trading)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Machine Learning Jupyter Notebooks Artificial Intelligence
+
+- [Machine Learning](https://trescout.com/dictionary/machine-learning/)
+- [Jupyter Notebooks](https://trescout.com/dictionary/jupyter-notebooks/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/machine-learning-for-trading/

@@ -1,6 +1,6 @@
 # İnternetsiz Hayatta Kalma Bilgisayarı
 
-Project N.O.M.A.D ; internet bağlantısı gerektirmeyen, kritik araçlar, bilgi kaynakları ve yapay zekâ ile donatılmış kendi kendine yeten, çevrimdışı bir bilgisayar kurma projesidir. Acil durumlar ve internetin olmadığı senaryolar için özel olarak tasarlanmıştır.
+**Project N.O.M.A.D**; internet bağlantısı gerektirmeyen, kritik araçlar, bilgi kaynakları ve yapay zekâ ile donatılmış **kendi kendine yeten, çevrimdışı bir bilgisayar** kurma projesidir. Acil durumlar ve internetin olmadığı senaryolar için özel olarak tasarlanmıştır.
 
 - ★ 39.138
 - TypeScript
@@ -8,24 +8,28 @@ Project N.O.M.A.D ; internet bağlantısı gerektirmeyen, kritik araçlar, bilgi
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 38.739 → 39.138, son sürüm v1.35.1 (5 Ekim 2026).
-- 29 Eylül 2026: Yıldız 38.519 → 38.739, son sürüm v1.35.0 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 36.474 → 38.519, son sürüm v1.34.1 (2 Eylül 2026).
-- 3 Eylül 2026: Yıldız 35.435 → 36.474, son sürüm v1.34.1 (2 Eylül 2026).
 
-- **Kimin için:** Çevrimdışı/acil durum hazırlığı yapan herkes 
-- **Zorluk:** Orta · kurmak için biraz teknik bilgi 
-- **Ne sunar:** Çevrimdışı araç + bilgi + AI paketi 
-- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0) 
-- **Lisans:** Apache-2.0 · ayrıntı aşağıda 
+- **6 Ekim 2026:** Yıldız 38.739 → 39.138, son sürüm v1.35.1 (5 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 38.519 → 38.739, son sürüm v1.35.0 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 36.474 → 38.519, son sürüm v1.34.1 (2 Eylül 2026).
+- **3 Eylül 2026:** Yıldız 35.435 → 36.474, son sürüm v1.34.1 (2 Eylül 2026).
+
+- **Kimin için:** Çevrimdışı/acil durum hazırlığı yapan herkes
+- **Zorluk:** Orta · kurmak için biraz teknik bilgi
+- **Ne sunar:** Çevrimdışı araç + bilgi + AI paketi
+- **Ücret:** Ücretsiz · açık kaynak (Apache-2.0)
+- **Lisans:** Apache-2.0 · ayrıntı aşağıda
 
 ## Ne kazandırır?
+
 - İnternet gerektirmeyen kritik araçlar ve bilgi sunar.
 - Yerel (offline) yapay zekâ desteği sağlar.
 - Acil durum ve çevrimdışı senaryolara hazırlık imkânı tanır.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Debian tabanlı bir sistemde (Ubuntu önerilir) aşağıdaki kurulum komutunu terminale yapıştırıp çalıştır, sonra tarayıcıdan http://localhost:8080 adresini açarak çevrimdışı bilgi sunucusunu kullanmama yardım et.
 
 **Hızlı kurulum (Debian/Ubuntu)**
@@ -41,15 +45,20 @@ sudo bash install_nomad.sh
 sudo bash /opt/project-nomad/start_nomad.sh
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
+**Lisans:** Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/Crosstalk-Solutions/project-nomad)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Offline Localhost Open Source Artificial Intelligence
+
+- [Offline](https://trescout.com/dictionary/offline/)
+- [Localhost](https://trescout.com/dictionary/localhost/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/project-nomad/

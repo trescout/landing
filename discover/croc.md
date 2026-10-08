@@ -7,12 +7,14 @@ Croc, iki bilgisayar arasında uçtan uca şifreleme (end-to-end encryption) kul
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
-- 27 Eylül 2026: Yıldız 40.324 → 40.451, son sürüm v11.5.4 (26 Eylül 2026).
-- 14 Eylül 2026: Yıldız 40.287 → 40.324, son sürüm v11.5.3 (13 Eylül 2026).
-- 10 Eylül 2026: Yıldız 40.279 → 40.287, son sürüm v11.5.2 (9 Eylül 2026).
-- 9 Eylül 2026: Yıldız 40.262 → 40.279, son sürüm v11.5.1 (8 Eylül 2026).
+
+- **27 Eylül 2026:** Yıldız 40.324 → 40.451, son sürüm v11.5.4 (26 Eylül 2026).
+- **14 Eylül 2026:** Yıldız 40.287 → 40.324, son sürüm v11.5.3 (13 Eylül 2026).
+- **10 Eylül 2026:** Yıldız 40.279 → 40.287, son sürüm v11.5.2 (9 Eylül 2026).
+- **9 Eylül 2026:** Yıldız 40.262 → 40.279, son sürüm v11.5.1 (8 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Uçtan uca şifreli veri gönderimi
 - Farklı işletim sistemleri arası uyum
 - Kesilen aktarımları kaldığı yerden sürdürme
@@ -46,19 +48,25 @@ croc code-phrase
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Croc aracını kullanarak iki bilgisayar arasında güvenli bir şekilde dosya transferi yapmak istiyorum. Gönderici tarafında 'croc send [dosya_adı]' komutunu çalıştırdığımda bana verilen kod ifadesini, alıcı tarafta 'croc [kod_ifadesi]' komutuyla nasıl eşleştirip aktarımı başlatabilirim? Aktarım sırasında uçtan uca şifrelemenin sağlandığından ve sürecin güvenli ilerlediğinden emin olmak için dikkat etmem gereken özel bir ayar var mı?
 
-- **Kimin için:** İki cihaz arasında aracı sunucuya ihtiyaç duymadan, şifreli ve hızlı dosya paylaşımı yapmak isteyen herkes için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** İki cihaz arasında aracı sunucuya ihtiyaç duymadan, şifreli ve hızlı dosya paylaşımı yapmak isteyen herkes için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/schollz/croc)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-End-to-End Encryption Relay Artificial Intelligence
+
+- [End-to-End Encryption](https://trescout.com/dictionary/end-to-end-encryption/)
+- [Relay](https://trescout.com/dictionary/relay/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/croc/

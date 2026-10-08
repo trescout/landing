@@ -1,7 +1,6 @@
 # Waifu ne demek? Nedir ve nasıl kullanılır?
 
-**Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-09-19
+*Sözlük · Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
 
 Waifu; anime, manga ve video oyunlarında kullanıcıların duygusal bağ kurduğu kurgusal karakterleri, yapay zekâ dünyasında ise kişiselleştirilmiş sanal yoldaşları (AI companion) tanımlayan popüler bir terimdir.
 
@@ -36,9 +35,7 @@ Waifu ve AI yoldaş teknolojileri, felsefe ve sosyoloji disiplinlerinde yoğun t
 - **Baudrillard ve Simülakrlar Teorisi:** Fransız düşünür Jean Baudrillard'ın öne sürdüğü "hiper-gerçeklik" (hyperreality) kavramı burada somutlaşır. Kurgusal ve kusursuz olan sanal karakter, gerçek insan ilişkilerinin pürüzlerinden ve çatışmalarından arındığı için kullanıcıya gerçeğin kendisinden daha tatmin edici ve cazip gelebilir.
 - **Parasosyal İlişkiler ve Dijital Yalnızlık:** Modern metropollerde artan yalnızlık salgınına karşı AI yoldaşlar yargılamayan, her an dinleyen ve empati simüle eden bir duygusal destek sunar. Ancak psikologlar, bu sistemlerin aşırı kullanımının bireyleri gerçek dünyadaki sosyal riskleri almaktan ve gerçek bağlar kurmaktan alıkoyabileceği konusunda uyarılarda bulunur.
 
-## Bir benzetmeyle
-
-Kitap sayfalarında hayran kaldığınız bir roman kahramanının, yapay zekâ ve ses teknolojileri sayesinde kitaptan çıkıp masanızda sizinle dertleşen, sizi asla yargılamayan dijital bir dosta dönüşmesi gibidir.
+*Kitap sayfalarında hayran kaldığınız bir roman kahramanının, yapay zekâ ve ses teknolojileri sayesinde kitaptan çıkıp masanızda sizinle dertleşen, sizi asla yargılamayan dijital bir dosta dönüşmesi gibidir.*
 
 ## Sık karıştırılanlar
 
@@ -47,26 +44,32 @@ Kitap sayfalarında hayran kaldığınız bir roman kahramanının, yapay zekâ 
 
 ## Sıkça sorulanlar
 
-**Waifu ne demek, kelime kökeni nedir?**  
+**Waifu ne demek, kelime kökeni nedir?**
+
 İngilizce "wife" (eş) kelimesinin Japonca fonetik telaffuzundan (waifu) türemiştir. Anime, manga ve video oyunlarında kullanıcıların derin hayranlık duyduğu ve duygusal bağ kurduğu kurgusal kadın karakterleri tanımlar.
 
-**Yapay zekâda waifu ne anlama gelir?**  
+**Yapay zekâda waifu ne anlama gelir?**
+
 Üretken yapay zekâ dünyasında waifu; sistem prompt'ları, uzun süreli bellek mimarileri ve ses sentezleme araçlarıyla donatılmış, kullanıcıyla sohbet edip bağ kurabilen kişiselleştirilmiş sanal yoldaşları (AI companion) ifade eder.
 
-**Waifu ile husbando arasındaki fark nedir?**  
+**Waifu ile husbando arasındaki fark nedir?**
+
 Waifu kadın kurgusal karakterler için kullanılır; husbando ise (İngilizce "husband" kelimesinden türetilen) hayranlık duyulan erkek kurgusal karakterleri nitelemek için kullanılır.
 
-**AI Waifu sistemleri kullanıcının söylediklerini nasıl hatırlar?**  
+**AI Waifu sistemleri kullanıcının söylediklerini nasıl hatırlar?**
+
 Vektör veritabanları ve RAG (Retrieval-Augmented Generation) altyapısı sayesinde konuşmaları anlamsal parçalara ayırarak uzun süreli hafıza oluşturur ve geçmiş diyalogları aylar sonra bile hatırlar.
 
 ## İlgili terimler
 
-- [AI Companion](/dictionary/ai-companion/)
-- [Companion](/dictionary/companion/)
-- [Prompt Engineering](/dictionary/prompt-engineering/)
-- [Speech-to-Speech](/dictionary/speech-to-speech/)
-- [Personalized Tutoring](/dictionary/personalized-tutoring/)
+- [AI Companion](https://trescout.com/dictionary/ai-companion/)
+- [Companion](https://trescout.com/dictionary/companion/)
+- [Prompt Engineering](https://trescout.com/dictionary/prompt-engineering/)
+- [Speech-to-Speech](https://trescout.com/dictionary/speech-to-speech/)
+- [Personalized Tutoring](https://trescout.com/dictionary/personalized-tutoring/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/waifu/  
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/waifu/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

@@ -6,6 +6,7 @@ Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, ara�
 - GitHub Trending · 2026-06-03
 
 ## Ne kazandırır?
+
 - Jeton kullanımını %60 ile %95 oranında azaltır.
 - Verileri yerel olarak sıkıştırarak gizliliği korur.
 - Orijinal verileri kaybetmeden geri çağrılabilir sıkıştırma sağlar.
@@ -15,8 +16,8 @@ Headroom, büyük dil modellerine (LLM) gönderilen günlük dosyalarını, ara�
 **Paket Kurulumu**
 
 ```
-pip install "headroom-ai[all]" # Python
-npm install headroom-ai # Node / TypeScript
+pip install "headroom-ai[all]"          # Python
+npm install headroom-ai                 # Node / TypeScript
 ```
 
 ## Çalıştırma
@@ -24,8 +25,8 @@ npm install headroom-ai # Node / TypeScript
 **Mod Seçimi ve Başlatma**
 
 ```
-headroom wrap claude # wrap a coding agent
-headroom proxy --port 8787 # drop-in proxy, zero code changes
+headroom wrap claude                    # wrap a coding agent
+headroom proxy --port 8787              # drop-in proxy, zero code changes
 ```
 
 **Performans Kontrolü**
@@ -35,19 +36,28 @@ headroom perf
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Headroom aracını kullanarak yapay zekâ ajanımın bağlamsal veri ve günlük dosyası tüketimini optimize etmek istiyorum. Python ortamında "pip install "headroom-ai[all]"" komutuyla kurulumu tamamladım. Ajanımın kullandığı jeton miktarını düşürmek için "headroom wrap claude" veya "headroom proxy --port 8787" komutlarını nasıl yapılandırmalıyım? Ayrıca "headroom perf" komutu ile elde ettiğim tasarruf verilerini nasıl yorumlamalıyım?
 
-- **Kimin için:** Günlük olarak yapay zekâ kodlama ajanları kullanan ve jeton maliyetlerini düşürmek isteyen yazılımcılar için uygundur. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Günlük olarak yapay zekâ kodlama ajanları kullanan ve jeton maliyetlerini düşürmek isteyen yazılımcılar için uygundur.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/chopratejas/headroom)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-RAG Chunks Proxy RAG Token MCP LLM
+
+- [RAG Chunks](https://trescout.com/dictionary/rag-chunks/)
+- [Proxy](https://trescout.com/dictionary/proxy/)
+- [RAG](https://trescout.com/dictionary/rag/)
+- [Token](https://trescout.com/dictionary/token/)
+- [MCP](https://trescout.com/dictionary/mcp/)
+- [LLM](https://trescout.com/dictionary/llm/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/headroom/

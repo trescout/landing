@@ -7,12 +7,14 @@ Jenkins, yazılım geliştirme süreçlerini otomatize eden açık kaynaklı bir
 - GitHub Trending · 2026-07-27
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 26.603 → 26.620, son sürüm jenkins-2.585 (6 Ekim 2026).
-- 29 Eylül 2026: Yıldız 26.590 → 26.603, son sürüm jenkins-2.584 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 26.531 → 26.590, son sürüm jenkins-2.583 (22 Eylül 2026).
-- 9 Eylül 2026: Yıldız 26.526 → 26.531, son sürüm jenkins-2.581 (8 Eylül 2026).
+
+- **6 Ekim 2026:** Yıldız 26.603 → 26.620, son sürüm jenkins-2.585 (6 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 26.590 → 26.603, son sürüm jenkins-2.584 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 26.531 → 26.590, son sürüm jenkins-2.583 (22 Eylül 2026).
+- **9 Eylül 2026:** Yıldız 26.526 → 26.531, son sürüm jenkins-2.581 (8 Eylül 2026).
 
 ## Ne kazandırır?
+
 - Yazılım projelerinin derleme ve test süreçlerini otomatikleştirir
 - Geniş eklenti desteğiyle süreçleri özelleştirme imkânı sunar
 - Hata tespiti ve dağıtım aşamalarını hızlandırır
@@ -39,23 +41,27 @@ docker pull jenkins/jenkins:lts
 docker run -p 8080:8080 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
 ```
 
-Kaynak: Homebrew formülü · Docker Hub jenkins/jenkins
+**Kaynak:** Homebrew formülü · Docker Hub jenkins/jenkins
 
 ## Nasıl başlanır?
 
 Resmî web sitesi olan jenkins.io adresindeki indirme sayfasına giderek platformunuza uygun WAR dosyası, Docker imajı veya yerel paketlerden birini seçip kurulum adımlarını takip edebilirsiniz.
+
 - [Resmî kaynak →](https://www.jenkins.io)
 
-- **Kimin için:** Yazılım geliştirme süreçlerini otomatize etmek isteyen geliştiriciler ve teknik ekipler için uygundur. 
-- **Lisans:** MIT 
+- **Kimin için:** Yazılım geliştirme süreçlerini otomatize etmek isteyen geliştiriciler ve teknik ekipler için uygundur.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/jenkinsci/jenkins)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Continuous Integration Localhost
+
+- [Continuous Integration](https://trescout.com/dictionary/continuous-integration/)
+- [Localhost](https://trescout.com/dictionary/localhost/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jenkins/

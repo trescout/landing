@@ -6,10 +6,12 @@ PM Skills Marketplace, ürün yönetimi süreçleri için geliştirilmiş 100'de
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
-- 6 Eylül 2026: Yıldız 24.775 → 26.032, son sürüm v2.1.0 (3 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 12.983 → 24.775, son sürüm v2.1.0 (3 Temmuz 2026).
+
+- **6 Eylül 2026:** Yıldız 24.775 → 26.032, son sürüm v2.1.0 (3 Temmuz 2026).
+- **2 Ağustos 2026:** Yıldız 12.983 → 24.775, son sürüm v2.1.0 (3 Temmuz 2026).
 
 ## Ne kazandırır?
+
 - Ürün yönetimi süreçleri için 100'den fazla otonom yetenek ve komut sağlar.
 - Keşiften büyümeye kadar tüm ürün yaşam döngüsünü standartlaştırır.
 - Teresa Torres ve Marty Cagan gibi uzmanların çerçevelerini iş akışına entegre eder.
@@ -17,18 +19,24 @@ PM Skills Marketplace, ürün yönetimi süreçleri için geliştirilmiş 100'de
 ## Nasıl başlanır?
 
 Claude Cowork kullanıyorsanız, arayüzdeki 'Customize' menüsüne giderek 'Browse plugins' kısmından 'Add marketplace from GitHub' seçeneğini seçin ve 'phuryn/pm-skills' adresini girerek kurulumu tamamlayın. Diğer yapay zekâ araçları için ilgili aracın dokümanlarında belirtilen klasör yollarına (örneğin .cursor/skills/) GitHub deposundaki yetenek dosyalarını kopyalayarak başlayabilirsiniz.
+
 - [Resmî kaynak →](https://www.productcompass.pm/p/pm-skills-2-red-team-ship)
 
-- **Kimin için:** Ürün yönetimi süreçlerinde standart, veriye dayalı ve yapılandırılmış bir iş akışı oluşturmak isteyen ürün yöneticileri içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Ürün yönetimi süreçlerinde standart, veriye dayalı ve yapılandırılmış bir iş akışı oluşturmak isteyen ürün yöneticileri içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/phuryn/pm-skills)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic Skills Agentic AI Skills Artificial Intelligence
+
+- [Agentic Skills](https://trescout.com/dictionary/agentic-skills/)
+- [Agentic](https://trescout.com/dictionary/agentic/)
+- [AI Skills](https://trescout.com/dictionary/ai-skills/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pm-skills/

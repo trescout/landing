@@ -7,12 +7,14 @@ Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin y
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
-- 9 Eylül 2026: Yıldız 13.791 → 13.793, son sürüm v1.12.4 (8 Eylül 2026).
-- 8 Eylül 2026: Yıldız 13.673 → 13.791, son sürüm v1.11.15 (8 Eylül 2026).
-- 21 Ağustos 2026: Yıldız 13.672 → 13.673, son sürüm v1.12.3 (21 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 13.646 → 13.672, son sürüm v1.11.14 (20 Ağustos 2026).
+
+- **9 Eylül 2026:** Yıldız 13.791 → 13.793, son sürüm v1.12.4 (8 Eylül 2026).
+- **8 Eylül 2026:** Yıldız 13.673 → 13.791, son sürüm v1.11.15 (8 Eylül 2026).
+- **21 Ağustos 2026:** Yıldız 13.672 → 13.673, son sürüm v1.12.3 (21 Ağustos 2026).
+- **20 Ağustos 2026:** Yıldız 13.646 → 13.672, son sürüm v1.11.14 (20 Ağustos 2026).
 
 ## Ne kazandırır?
+
 - Yazılım geliştirme pratikleriyle veri dönüşümü
 - Veri modelleri arasında ilişki yönetimi
 - Otomatik testlerle veri kalitesi denetimi
@@ -33,23 +35,26 @@ pip install dbt-core
 dbt run
 ```
 
-Kaynak: Resmî kaynak: https://getdbt.com
+**Kaynak:** Resmî kaynak: https://getdbt.com
 
 ## Nasıl başlanır?
 
 Resmî dbt dokümantasyon sayfasını ziyaret ederek kurulum rehberine ulaşabilirsiniz. İhtiyacınıza göre dbt Core veya Fusion seçeneklerinden birini seçerek yerel bilgisayarınızda kurulum adımlarını takip edebilirsiniz.
+
 - [Resmî kaynak →](https://getdbt.com)
 
-- **Kimin için:** Veri ambarındaki verileri yazılım geliştirme disipliniyle dönüştürmek ve yönetmek isteyen veri analistleri ve mühendisleri içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Veri ambarındaki verileri yazılım geliştirme disipliniyle dönüştürmek ve yönetmek isteyen veri analistleri ve mühendisleri içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/dbt-labs/dbt-core)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Rust
+
+- [Rust](https://trescout.com/dictionary/rust/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/dbt-core/

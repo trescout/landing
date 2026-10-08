@@ -7,11 +7,13 @@ Maigret, kullanıcı adlarını temel alarak 3000'den fazla internet sitesi üze
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
-- 18 Eylül 2026: Yıldız 37.089 → 37.763, son sürüm v0.6.6 (18 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 36.075 → 37.089, son sürüm v0.6.5 (25 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 32.267 → 36.075, son sürüm main (26 Nisan 2026).
+
+- **18 Eylül 2026:** Yıldız 37.089 → 37.763, son sürüm v0.6.6 (18 Eylül 2026).
+- **27 Ağustos 2026:** Yıldız 36.075 → 37.089, son sürüm v0.6.5 (25 Ağustos 2026).
+- **2 Ağustos 2026:** Yıldız 32.267 → 36.075, son sürüm main (26 Nisan 2026).
 
 ## Ne kazandırır?
+
 - 3000'den fazla sitede kullanıcı adı bazlı tarama yapar.
 - Kişilere dair detaylı dijital ayak izi dosyası oluşturur.
 - Elde edilen verileri görselleştirir ve raporlar sunar.
@@ -32,22 +34,28 @@ pip install maigret
 maigret kullanici-adi
 ```
 
-Kaynak: Resmî kaynak: https://github.com/soxoj/maigret
+**Kaynak:** Resmî kaynak: https://github.com/soxoj/maigret
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Maigret aracını kullanarak hedef bir kullanıcı adı üzerinde kapsamlı bir dijital ayak izi taraması yapmak istiyorum. Lütfen bu kullanıcı adının 3000'den fazla internet sitesindeki varlığını kontrol etmemi sağlayacak temel komutu ve elde ettiğim verileri raporlamam için kullanabileceğim parametreleri açıkla.
 
-- **Kimin için:** Açık kaynaklı istihbarat (OSINT) süreçlerinde dijital ayak izi takibi yapmak isteyen araştırmacılar içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** Açık kaynaklı istihbarat (OSINT) süreçlerinde dijital ayak izi takibi yapmak isteyen araştırmacılar içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/soxoj/maigret)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Dossier OSINT Artificial Intelligence
+
+- [Dossier](https://trescout.com/dictionary/dossier/)
+- [OSINT](https://trescout.com/dictionary/osint/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/maigret/

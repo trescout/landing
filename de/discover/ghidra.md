@@ -6,7 +6,14 @@ Ghidra ist ein umfassendes Software-Reverse-Engineering-Framework (SRE), das von
 - Java
 - GitHub Trending · 2026-08-28
 
+## Aktualisierungen
+
+- **27. September 2026:** Sterne 78,142 → 79,733, neueste Version Ghidra_12.1.4_build (21. September 2026).
+- **17. September 2026:** Sterne 74,145 → 78,142, neueste Version Ghidra_12.1.3_build (18. August 2026).
+- **31. August 2026:** Sterne 73,203 → 74,145, neueste Version Ghidra_12.1.3_build (18. August 2026).
+
 ## Was es bringt
+
 - Integrierte leistungsstarke C-Decompiler: Konvertieren von Maschinencode und Assembleranweisungen in lesbare, C-ähnliche High-Level-Syntax.
 - Große Auswahl an Prozessoren und Architekturen: Unterstützung für x86, ARM, AArch64, MIPS, PowerPC, RISC-V, SPARC und Hunderte eingebetteter Mikrocontroller-Architekturen.
 - Kollaborative Mehrbenutzeranalyse: Gleichzeitige Annotation, Funktionsbenennung und Versionskontrolle in derselben Binärdatei mit der Ghidra-Server-Infrastruktur.
@@ -14,6 +21,7 @@ Ghidra ist ein umfassendes Software-Reverse-Engineering-Framework (SRE), das von
 - Erweiterbarkeit mit Java und Python: Passen Sie die Analyse mit benutzerdefinierten Skripten, Plug-Ins und Datentypbibliotheken an.
 
 ## Installations- und Systemanforderungen
+
 **JDK 21 und Ghidra-Installation**
 
 ```
@@ -26,8 +34,8 @@ brew install --cask ghidra
 ghidraRun.bat        # Windows
 ```
 
-
 ## Ausführung und Headless-Befehlszeilenanalyse
+
 **Starten der grafischen Oberfläche**
 
 ```
@@ -40,21 +48,26 @@ ghidraRun.bat        # Windows
 analyzeHeadless /proje/dizini ProjeAdi -import hedef_dosya.bin -postScript GuvenlikAnalizi.py
 ```
 
-
 ## Technische Architektur: Schlitten- und Dekompiler-Engine
+
 - Sleigh-Prozessor-Modellierungssprache: Deklarative Beschreibungssprache, die zur Einführung eines neuen Prozessors oder einer neuen Befehlssatzarchitektur (ISA) in Ghidra verwendet wird.
 - P-Code-Zwischendarstellungsschicht (IR): Durchführung einer architekturunabhängigen Datenfluss- und Kontrollflussanalyse durch Übersetzung aller Prozessoranweisungen in eine gemeinsame Zwischensprache (P-Code).
 - C++-basierte Dekompilierungs-Engine: Leistungsstarke native Engine, die Kontrollflussdiagramme vereinfacht, Variablentypen extrahiert und komplexe Schleifen auf C-Code reduziert.
 
 ## Arbeitsabläufe für Reverse Engineering und Schwachstellenanalyse
+
 - Malware-Analyse (Malware-Triage): Verdächtige ausführbare Dateien isoliert öffnen und versteckte API-Aufrufe, C2-Domänen und Verschlüsselungsschlüssel aufdecken.
 - Binärdateivergleich (Program Diff): Erkennen der geschlossenen Schwachstelle durch Visualisieren der Unterschiede zwischen zwei Dateien vor und nach dem Sicherheitspatch.
 - Firmware-Analyse: Roh-Flash-Speicher-Dumps von IoT-Geräten in die Speicherzuordnung einfügen und Bootloader- und Kernel-Funktionen analysieren.
 
 ## Wenn Sie nicht programmieren
+
+🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+
 Ich möchte eine verdächtige Binärdatei mit Ghidra untersuchen. Können Sie Schritt für Schritt erklären, wie Sie ein neues Projekt in Ghidra öffnen, die Datei importieren, die automatische Analyse ausführen, Funktionen im Decompiler-Fenster untersuchen und aufgerufene verdächtige API-Funktionen erkennen?
 
 ## Häufig gestellte Fragen
+
 - Was sind die Hauptunterschiede zwischen Ghidra und IDA Pro? Während für IDA Pro kommerzielle und hohe Lizenzgebühren anfallen, ist Ghidra völlig kostenlos und Open Source. Ghidra bietet integrierte Dekompiler für alle Architekturen und umfasst einen Multi-User-Collaboration-Server.
 - Ist Ghidra bei der Analyse von Malware sicher? Ja, während der statischen Analyse wird die Datei nicht ausgeführt, sondern nur dekodiert. Aus Sicherheitsgründen ist es jedoch unerlässlich, dass die Analyse in einer isolierten virtuellen Maschine (VM) durchgeführt wird.
 - Wie installiere ich Ghidra Server? Mit dem im Ghidra-Paket enthaltenen svrAdmin-Skript im Serververzeichnis kann in wenigen Minuten ein Teamserver im lokalen Netzwerk geöffnet und Benutzerrechte vergeben werden.
@@ -62,9 +75,24 @@ Ich möchte eine verdächtige Binärdatei mit Ghidra untersuchen. Können Sie Sc
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [NSA](https://trescout.com/de/dictionary/nsa/)
+- [Assembly](https://trescout.com/de/dictionary/assembly/)
+- [Decompiler](https://trescout.com/de/dictionary/decompiler/)
+- [Binary](https://trescout.com/de/dictionary/binary/)
+- [API](https://trescout.com/de/dictionary/api/)
+- [Open Source](https://trescout.com/de/dictionary/open-source/)
+
+- **Für wen es gedacht ist:** Malware-Forscher, Schwachstellenjäger, Reverse-Engineering-Experten und Entwickler eingebetteter Systeme.
+- **Lizenz:** Apache-2.0 (Açık kaynak lisansı)
+- **Entwickler:** National Security Agency (NSA) und Open Source Community
+- **Anforderung:** Java Development Kit (JDK) 21 64-Bit
+
 ## Links
-- GitHub-Repository →
-- Auf Türkisch lesen →
+
+- [GitHub-Repository →](https://github.com/NationalSecurityAgency/ghidra)
+- [Auf Türkisch lesen →](https://trescout.com/discover/ghidra/)
+
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/ghidra/

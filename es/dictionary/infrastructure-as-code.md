@@ -1,29 +1,41 @@
 # ¿Qué es Infrastructure as Code?
 
+*Glosario · Dev · Última actualización: 12 de julio de 2026*
+
 > IaC
 
 Un método para automatizar las instalaciones del sistema, como el servidor y la red, escribiendo archivos de código en lugar de hacerlo manualmente.
 
 ## Definición
+
 En el pasado, instalar y configurar servidores manualmente llevaba días. Con IaC, escribe estas configuraciones en archivos de texto y las ejecuta como software. De esta manera, su sistema siempre estará configurado de la misma manera y se minimizarán los errores.
 
+***Analogía:** Es como si en lugar de montar un mueble a mano, un brazo robótico ensamblara el mueble sin errores según las instrucciones que tú escribes.*
+
 ## Cómo funciona
+
 Se crean archivos de código que especifican los requisitos del sistema y las herramientas IaC los aplican a los servidores.
 
 ## Dónde se usa
+
 Se utiliza en computación en la nube, gestión de sistemas a gran escala y lanzamiento continuo de software.
 
 ## Preguntas frecuentes
+
 **¿Por qué escribimos código en lugar de instalarlo manualmente?**
+
 Porque en las operaciones manuales, un pequeño ajuste olvidado puede causar grandes problemas, mientras que el código siempre da el mismo resultado.
 
-
 ## Términos relacionados
-- [Cloud Native](/es/dictionary/cloud-native/)
-- [Deployment](/es/dictionary/deployment/)
+
+- [Cloud Native](https://trescout.com/es/dictionary/cloud-native/)
+- [Deployment](https://trescout.com/es/dictionary/deployment/)
 
 ## Herramientas relacionadas
-- [Terraform](/es/discover/terraform/)
+
+- [Terraform](https://trescout.com/es/discover/terraform/)
+
+Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/infrastructure-as-code/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/infrastructure-as-code/

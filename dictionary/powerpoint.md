@@ -1,25 +1,28 @@
 # PowerPoint nedir, ne demek?
 
-**Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-22
+*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 PowerPoint, Microsoft'un slayt tabanlı sunum hazırlama uygulamasıdır.
 
 ## Tanım ve Kelime Kökeni
+
 Program 1987 yılında Forethought şirketinden doğdu, kısa süre sonra Microsoft bünyesine katıldı. Fikirlerinizi, verilerinizi veya projenizi bir izleyici kitlesine anlatırken kullandığınız dijital sahnedir: Metinleri, görselleri ve grafikleri düzenli slaytlar halinde birleştirirsiniz. Dosya biçimi `.pptx`, aslında sıkıştırılmış bir XML paketidir.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
-- **İş toplantıları:** Çeyrek raporları ve proje durum sunumları.
-- **Okul:** Ödev ve tez savunmaları.
-- **Konferanslar:** Açılış konuşmaları ve paneller.
-- **Eğitim:** Ders anlatım setleri.
+
+**İş toplantıları:** Çeyrek raporları ve proje durum sunumları.
+**Okul:** Ödev ve tez savunmaları.
+**Konferanslar:** Açılış konuşmaları ve paneller.
+**Eğitim:** Ders anlatım setleri.
 
 ## Teknik Derinlik ve Mimari
+
 Etkili sunumun parçaları:
-- **Slayt-asıl (Slide Master):** Yazı tipi, renk ve logonun tek yerden yönetildiği şablon. Her slaytı ayrı biçimlendirmek yerine aslı düzenlersiniz.
-- **Sunucu görünümü:** Siz notlarınızı görürsünüz, izleyiciyalnızca slaytı görür.
-- **Dışa aktarma:** Sunum PDF veya video olarak kaydedilebilir.
-- **Otomasyon:** Tekrarlanan sunumlar kodla üretilebilir. Python ile boş bir sunum açmak şöyledir:
+
+**Slayt-asıl (Slide Master):** Yazı tipi, renk ve logonun tek yerden yönetildiği şablon. Her slaytı ayrı biçimlendirmek yerine aslı düzenlersiniz.
+**Sunucu görünümü:** Siz notlarınızı görürsünüz, izleyiciler yalnızca slaytı görür.
+**Dışa aktarma:** Sunum PDF veya video olarak kaydedilebilir.
+**Otomasyon:** Tekrarlanan sunumlar kodla üretilebilir. Python ile boş bir sunum açmak şöyledir:
 
 ```
 from pptx import Presentation
@@ -32,31 +35,44 @@ sunum.save("ornek.pptx")
 Kural olarak slayt başına tek fikir düşer. Yazıyı resimle desteklemek, duvar metni yazmaktan daha etkilidir.
 
 ## Farklı Disiplinlerde Kullanımı
-- **Ders tahtası:** Konuyu adım adım açan tahta düzeni.
-- **Fotoğraf albümü:** Anlatıyı sıraya dizen görsel akış.
-- **Tiyatro:** Perde perde ilerleyen sahne planı.
 
-## Bir benzetmeyle
-Bir hikaye anlatıcısının, anlattıklarını desteklemek için elinde tuttuğu resimli kartlar destesi gibidir.
+**Ders tahtası:** Konuyu adım adım açan tahta düzeni.
+**Fotoğraf albümü:** Anlatıyı sıraya dizen görsel akış.
+**Tiyatro:** Perde perde ilerleyen sahne planı.
 
-## Sıkça sorulanlar
+*Bir hikaye anlatıcısının, anlattıklarını desteklemek için elinde tuttuğu resimli kartlar destesi gibidir.*
 
-**Sunum yaparken not alabilir miyim?**  
+## Sıkça Sorulanlar
+
+**Sunum yaparken not alabilir miyim?**
+
 Evet. Sunucu görünümünde notlarınızı görürsünüz, izleyiciler yalnızca slaytı görür.
 
-**Başka formatlara çevrilebilir mi?**  
+**Başka formatlara çevrilebilir mi?**
+
 Evet. Sunumunuzu PDF veya video olarak kaydedebilirsiniz.
 
-**Ücretsiz alternatif var mı?**  
+**Ücretsiz alternatif var mı?**
+
 Evet. LibreOffice Impress ve web tabanlı Google Slides benzer işleri görür. Geçişte yazı tipi ve animasyon farklarına dikkat edin.
 
-**Dosya çok büyüdüyse ne yapılır?**  
+**Dosya çok büyüdüyse ne yapılır?**
+
 Görselleri sıkıştırın, videoyu bağlayın (gömmeyin) ve kullanılmayan asılları temizleyin. Tek dosya yerine bölüm bölüm kaydetmek de işe yarar.
 
 ## İlgili terimler
-- [Design Tool](/dictionary/design-tool/)
-- [User Interface](/dictionary/user-interface/)
-- [Dashboard](/dictionary/dashboard/)
+
+- [Design Tool](https://trescout.com/dictionary/design-tool/)
+- [User Interface](https://trescout.com/dictionary/user-interface/)
+- [Dashboard](https://trescout.com/dictionary/dashboard/)
+
+## İlgili araçlar
+
+- [MarkItDown](https://trescout.com/discover/markitdown/)
+- [Ppt Master](https://trescout.com/discover/ppt-master/)
+- [OfficeCLI](https://trescout.com/discover/officecli/)
+
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/powerpoint/

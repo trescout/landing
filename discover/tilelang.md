@@ -7,9 +7,11 @@ Tilelang, yüksek performanslı grafik işlem birimi (GPU), merkezi işlem birim
 - GitHub Trending · 2026-10-02
 
 ## Güncelleme
-- 2 Ekim 2026: Yıldız 8.196 → 8.208, son sürüm v0.1.15 (30 Eylül 2026).
+
+- **2 Ekim 2026:** Yıldız 8.196 → 8.208, son sürüm v0.1.15 (30 Eylül 2026).
 
 ## Ne kazandırır?
+
 - GPU, CPU ve NPU için hızlı hesaplama birimleri oluşturur
 - Python tabanlı sözdizimiyle düşük seviyeli optimizasyon sağlar
 - TVM derleyici altyapısı üzerinde yüksek verimlilik sunar
@@ -29,18 +31,26 @@ python -c "import tilelang; print(tilelang.__version__)"
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Tilelang kullanarak yüksek performanslı bir GPU çekirdeği geliştirmek istiyorum. Python tabanlı bu yapıyı kullanarak matris çarpımı veya dikkat mekanizması gibi işlemleri optimize etmem için temel bir şablon oluşturur musun? Donanım optimizasyonlarını ve TVM altyapısını göz önünde bulundurarak verimliliği artıracak yöntemleri açıklar mısın?
 
-- **Kimin için:** Donanım seviyesinde yüksek performanslı hesaplama birimleri geliştirmek isteyen yazılım mühendisleri içindir. 
+- **Kimin için:** Donanım seviyesinde yüksek performanslı hesaplama birimleri geliştirmek isteyen yazılım mühendisleri içindir.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/tile-ai/tilelang)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-10-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Domain-Specific Language Kernels CPU GPU Artificial Intelligence
+
+- [Domain-Specific Language](https://trescout.com/dictionary/domain-specific-language/)
+- [Kernels](https://trescout.com/dictionary/kernels/)
+- [CPU](https://trescout.com/dictionary/cpu/)
+- [GPU](https://trescout.com/dictionary/gpu/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tilelang/

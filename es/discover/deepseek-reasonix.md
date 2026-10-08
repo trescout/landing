@@ -6,12 +6,21 @@ DeepSeek-Reasonix es un agente de codificación de IA que se ejecuta en el termi
 - Go
 - GitHub Trending · 2026-08-03
 
+## Actualizaciones
+
+- **7 de octubre de 2026:** Estrellas 35,742 → 35,744, última versión studio-v2.30.0 (7 de octubre de 2026).
+- **6 de octubre de 2026:** Estrellas 35,735 → 35,742, última versión studio-v2.29.0 (6 de octubre de 2026).
+- **2 de octubre de 2026:** Estrellas 35,725 → 35,735, última versión desktop-v1.39.7 (2 de octubre de 2026).
+- **1 de octubre de 2026:** Estrellas 35,710 → 35,725, última versión desktop-v1.39.6 (1 de octubre de 2026).
+
 ## Qué aporta
+
 - Proporciona soporte de codificación ininterrumpida a largo plazo con modelos DeepSeek.
 - Ofrece gestión de sesiones de bajo coste con su función de almacenamiento en caché de prefijos.
 - Proporciona un uso flexible a través del terminal con soporte de complemento configurable.
 
 ## Instalación
+
 **Instalación mediante NPM o Homebrew**
 
 ```
@@ -28,8 +37,8 @@ make build      # -> bin/reasonix(.exe)
 make cross      # -> dist/ (darwin|linux|windows × amd64|arm64)
 ```
 
-
 ## Ejecución
+
 **Configuración e inicialización**
 
 ```
@@ -38,15 +47,26 @@ reasonix                            # start an interactive session
 reasonix run "implement the TODOs in main.go"
 ```
 
-
 ## Si no programa
+
+🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+
 Mientras trabajo con este agente de codificación de inteligencia artificial que se ejecuta en la terminal, desarrollo sugerencias de código teniendo en cuenta la estructura actual y los objetivos de mi proyecto. Concéntrese en producir respuestas consistentes y de bajo costo durante nuestras largas sesiones utilizando la estabilidad de la caché de prefijo. Al escribir o depurar código, proporcione soluciones modulares y limpias que se ajusten a las necesidades del proyecto.
 
 ## Términos relacionados del glosario
 
+- [Terminal](https://trescout.com/es/dictionary/terminal/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
+
+- **Para quién es:** Es para desarrolladores de software que trabajan en un entorno terminal y desean automatizar sus procesos de codificación y recibir soporte de inteligencia artificial en proyectos a largo plazo.
+- **Licencia:** MIT
+
 ## Enlaces
-- Repositorio en GitHub →
-- Leer en turco →
+
+- [Repositorio en GitHub →](https://github.com/esengine/DeepSeek-Reasonix)
+- [Leer en turco →](https://trescout.com/discover/deepseek-reasonix/)
+
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/deepseek-reasonix/

@@ -7,12 +7,14 @@ DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş a
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 4.436 → 4.457, son sürüm v1.76.0 (7 Ekim 2026).
-- 6 Ekim 2026: Yıldız 4.411 → 4.436, son sürüm v1.74.0 (6 Ekim 2026).
-- 5 Ekim 2026: Yıldız 4.402 → 4.411, son sürüm v1.73.0 (5 Ekim 2026).
-- 4 Ekim 2026: Yıldız 4.314 → 4.402, son sürüm v1.71.0 (4 Ekim 2026).
+
+- **7 Ekim 2026:** Yıldız 4.436 → 4.457, son sürüm v1.76.0 (7 Ekim 2026).
+- **6 Ekim 2026:** Yıldız 4.411 → 4.436, son sürüm v1.74.0 (6 Ekim 2026).
+- **5 Ekim 2026:** Yıldız 4.402 → 4.411, son sürüm v1.73.0 (5 Ekim 2026).
+- **4 Ekim 2026:** Yıldız 4.314 → 4.402, son sürüm v1.71.0 (4 Ekim 2026).
 
 ## Ne kazandırır?
+
 - WhatsApp üzerinden otomatik satış ve müşteri yönetimi sağlar.
 - Kendi sunucunuzda barındırarak verileriniz üzerinde tam kontrol sunar.
 - Aylık ücret ödemeden tüm özelliklere erişim imkânı tanır.
@@ -34,19 +36,26 @@ bash hostgator-setup-kit/install.sh
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 DeskcommCRM kurulumunu gerçekleştirdim. WhatsApp üzerinden gelen mesajları karşılayacak, müşterileri nitelendirecek ve satış sürecini yönetecek bir yapay zekâ ajanı yapılandırmama yardımcı ol. Hangi API anahtarlarını nereye tanımlamam gerektiğini ve ilk WhatsApp numaramı QR kod ile nasıl bağlayacağımı adım adım açıkla.
 
-- **Kimin için:** WhatsApp üzerinden satış yapan ve müşteri verilerini kendi sunucusunda güvenle saklamak isteyen işletme sahipleri içindir. 
-- **Lisans:** MIT 
+- **Kimin için:** WhatsApp üzerinden satış yapan ve müşteri verilerini kendi sunucusunda güvenle saklamak isteyen işletme sahipleri içindir.
+- **Lisans:** MIT
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/melgarafael/DeskcommCRM)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-VPS CRM API Artificial Intelligence
+
+- [VPS](https://trescout.com/dictionary/vps/)
+- [CRM](https://trescout.com/dictionary/crm/)
+- [API](https://trescout.com/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/deskcommcrm/

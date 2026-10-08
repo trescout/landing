@@ -6,27 +6,48 @@ PostHog is a comprehensive platform that brings together tools such as artificia
 - Python
 - GitHub Trending · 2026-07-17
 
+## Updates
+
+- **October 7, 2026:** Stars 40,158 → 40,173, latest release desktop-v0.61.654 (October 7, 2026).
+- **October 6, 2026:** Stars 40,049 → 40,158, latest release desktop-v0.61.653 (October 6, 2026).
+- **October 1, 2026:** Stars 40,027 → 40,049, latest release desktop-v0.61.621 (October 1, 2026).
+- **September 30, 2026:** Stars 40,001 → 40,027, latest release desktop-v0.61.603 (September 30, 2026).
+
 ## What you get
+
 - Automatically detect errors by analyzing user behavior.
 - Monitor user experience with session replays and web analytics.
 - Track the performance and cost of your AI-powered applications.
 
 ## Installation
+
 **Installation with Docker on Linux**
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/posthog/posthog/HEAD/bin/deploy-hobby)"
 ```
 
-
 ## If you don't write code
+
+🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
 I need to analyze user behavior in my product using the PostHog platform. What tools should I use to detect errors, review session replays, and monitor the performance of my AI-powered features? Explain the steps I need to follow to automate data collection and analysis processes.
 
 ## Related dictionary terms
 
+- [AI Observability](https://trescout.com/en/dictionary/ai-observability/)
+- [Session Replay](https://trescout.com/en/dictionary/session-replay/)
+- [Observability](https://trescout.com/en/dictionary/observability/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
+- **Who it is for:** It is for software developers and product managers who want to manage product development processes based on data and improve user experience.
+
 ## Links
-- GitHub repository →
-- Read in Turkish →
+
+- [GitHub repository →](https://github.com/PostHog/posthog)
+- [Read in Turkish →](https://trescout.com/discover/posthog/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-17: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/posthog/

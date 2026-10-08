@@ -1,6 +1,6 @@
 # Kendi Medya Sunucunuzu Kurun
 
-Jellyfin , kendi film, dizi ve müzik koleksiyonunuzu yönetip tüm cihazlarınıza yayınlamanızı sağlayan özgür bir medya sunucusudur. Plex ve Emby'ye alternatif olan bu platformda premium kilitler, reklamlar veya gizli ücretler bulunmaz.
+**Jellyfin**, kendi film, dizi ve müzik koleksiyonunuzu yönetip **tüm cihazlarınıza yayınlamanızı** sağlayan özgür bir medya sunucusudur. Plex ve Emby'ye alternatif olan bu platformda premium kilitler, reklamlar veya gizli ücretler bulunmaz.
 
 - ★ 57.828
 - C#
@@ -8,21 +8,23 @@ Jellyfin , kendi film, dizi ve müzik koleksiyonunuzu yönetip tüm cihazların�
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
-- 6 Ekim 2026: Yıldız 57.137 → 57.828, son sürüm v12.2 (5 Ekim 2026).
-- 15 Eylül 2026: Yıldız 56.682 → 57.137, son sürüm v12.1 (15 Eylül 2026).
-- 8 Eylül 2026: Yıldız 55.268 → 56.682, son sürüm v12.0 (8 Eylül 2026).
-- 2 Ağustos 2026: Yıldız 52.316 → 55.268, son sürüm v10.11.11 (6 Haziran 2026).
 
-- **Kimin için:** Medya koleksiyonunu kendi sunucusunda toplamak isteyenler 
-- **Zorluk:** Orta · bir sunucu/bilgisayara kurmak gerekir 
-- **Ne sunar:** Kişisel medya akışı · her cihazdan 
-- **Ücret:** Tamamen ücretsiz · reklamsız 
-- **Lisans:** GPL-2.0 · ayrıntı aşağıda 
+- **6 Ekim 2026:** Yıldız 57.137 → 57.828, son sürüm v12.2 (5 Ekim 2026).
+- **15 Eylül 2026:** Yıldız 56.682 → 57.137, son sürüm v12.1 (15 Eylül 2026).
+- **8 Eylül 2026:** Yıldız 55.268 → 56.682, son sürüm v12.0 (8 Eylül 2026).
+- **2 Ağustos 2026:** Yıldız 52.316 → 55.268, son sürüm v10.11.11 (6 Haziran 2026).
+
+- **Kimin için:** Medya koleksiyonunu kendi sunucusunda toplamak isteyenler
+- **Zorluk:** Orta · bir sunucu/bilgisayara kurmak gerekir
+- **Ne sunar:** Kişisel medya akışı · her cihazdan
+- **Ücret:** Tamamen ücretsiz · reklamsız
+- **Lisans:** GPL-2.0 · ayrıntı aşağıda
 
 ## Ne kazandırır?
-- Tüm medyanız tek yerde ve her cihazdan erişilebilir durumda.
+
+- Tüm medyanız **tek yerde** ve her cihazdan erişilebilir durumda.
 - Abonelik ücreti veya reklamlarla uğraşmazsınız.
-- Veriniz sizde kalır ve üçüncü taraflarla paylaşılmaz.
+- **Veriniz sizde kalır** ve üçüncü taraflarla paylaşılmaz.
 - Plex ve Emby için tam özgürlük sunan bir alternatif.
 
 ## Kurulum
@@ -41,26 +43,31 @@ docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
 http://localhost:8096
 ```
 
-Kaynak: Resmî kaynak: https://github.com/jellyfin/jellyfin
+**Kaynak:** Resmî kaynak: https://github.com/jellyfin/jellyfin
 
 ## Nasıl kurulur?
 
 Docker, bir sunucu ya da NAS üzerine kurulur. Kurulum rehberi jellyfin.org'da; kurduktan sonra medya klasörlerinizi tanıtırsınız.
 
 ## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Jellyfin medya sunucusunu kurmak istiyorum; resmi jellyfin.org/downloads sayfasından işletim sistemime uygun sürümü indirip kur ya da Docker kullanıyorsam 'jellyfin/jellyfin' imajıyla çalıştırmama yardım et.
 
-Lisans: GPL-2.0 · Kullanması tamamen serbest ve ücretsiz. Yazılımı değiştirip dağıtırsanız, değişikliklerinizi de aynı GPL lisansıyla ve kaynak koduyla paylaşmanız gerekir (copyleft). Sadece kendiniz kullanıyorsanız bir yükümlülük yok.
+**Lisans:** GPL-2.0 · **Kullanması tamamen serbest ve ücretsiz.** Yazılımı değiştirip dağıtırsanız, değişikliklerinizi de aynı GPL lisansıyla ve kaynak koduyla paylaşmanız gerekir (copyleft). Sadece kendiniz kullanıyorsanız bir yükümlülük yok.
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/jellyfin/jellyfin)
 - [Ana sayfa →](https://jellyfin.org)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-NAS Artificial Intelligence
+
+- [NAS](https://trescout.com/dictionary/nas/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jellyfin/

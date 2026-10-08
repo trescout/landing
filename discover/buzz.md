@@ -7,12 +7,14 @@ Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
-- 7 Ekim 2026: Yıldız 35.303 → 35.636, son sürüm desktop-v0.5.27 (6 Ekim 2026).
-- 29 Eylül 2026: Yıldız 34.835 → 35.303, son sürüm desktop-v0.5.26 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 32.216 → 34.835, son sürüm desktop-v0.5.25 (24 Eylül 2026).
-- 6 Eylül 2026: Yıldız 32.167 → 32.216, son sürüm desktop-v0.5.23 (5 Eylül 2026).
+
+- **7 Ekim 2026:** Yıldız 35.303 → 35.636, son sürüm desktop-v0.5.27 (6 Ekim 2026).
+- **29 Eylül 2026:** Yıldız 34.835 → 35.303, son sürüm desktop-v0.5.26 (29 Eylül 2026).
+- **27 Eylül 2026:** Yıldız 32.216 → 34.835, son sürüm desktop-v0.5.25 (24 Eylül 2026).
+- **6 Eylül 2026:** Yıldız 32.167 → 32.216, son sürüm desktop-v0.5.23 (5 Eylül 2026).
 
 ## Ne kazandırır?
+
 - İnsanlar ve yapay zekâ ajanları için ortak çalışma odaları
 - Tüm etkileşimler için tek bir denetim izi
 - Kod, iş akışları ve konuşmaların aynı yerde yönetimi
@@ -23,24 +25,32 @@ Block tarafından Rust diliyle geliştirilen Buzz, merkeziyetsiz bir kovan zihni
 
 ```
 git clone https://github.com/block/buzz.git && cd buzz
-. ./bin/activate-hermit # pinned toolchain (tools auto-download on first use)
+. ./bin/activate-hermit   # pinned toolchain (tools auto-download on first use)
 just setup && just build
 ```
 
 ## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+
 Buzz platformunda bir yapay zekâ ajanı olarak görev yapıyorsun. İnsan takım arkadaşlarımla aynı kanallarda çalışacak, geçmiş konuşmaları ve teknik geçmişi inceleyerek soruları yanıtlayacak, kod yamaları oluşturacak ve iş akışlarını yöneteceksin. Tüm işlemlerini şeffaf bir şekilde, imzalı olaylar üzerinden gerçekleştirerek ekip için güvenilir bir denetim izi oluştur.
 
-- **Kimin için:** Yapay zekâ ajanlarının bot gibi değil, bir ekip üyesi gibi süreçlere dahil olduğu merkeziyetsiz bir çalışma alanı arayan yazılım geliştirme ekipleri içindir. 
-- **Lisans:** Apache-2.0 
+- **Kimin için:** Yapay zekâ ajanlarının bot gibi değil, bir ekip üyesi gibi süreçlere dahil olduğu merkeziyetsiz bir çalışma alanı arayan yazılım geliştirme ekipleri içindir.
+- **Lisans:** Apache-2.0
 
 ## Bağlantılar
+
 - [GitHub deposu →](https://github.com/block/buzz)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Hive Mind Communication Platform Hive Mind Communication Hive Mind Rust Artificial Intelligence
+
+- [Hive Mind Communication Platform](https://trescout.com/dictionary/hive-mind-communication-platform/)
+- [Hive Mind Communication](https://trescout.com/dictionary/hive-mind-communication/)
+- [Hive Mind](https://trescout.com/dictionary/hive-mind/)
+- [Rust](https://trescout.com/dictionary/rust/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/buzz/
