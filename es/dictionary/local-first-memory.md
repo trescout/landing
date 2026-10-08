@@ -1,40 +1,42 @@
-# ¿Qué es Local-first Memory?
+# ¿Qué es la Local-first Memory?
 
-La memoria local primero es el enfoque donde los datos permanecen en el dispositivo.
+> Arquitectura de Memoria Local Primero
 
-## Definición y origen de la palabra
-"Local primero" significa local primero. Se basa en el dispositivo y no en la nube. Funciona de forma interrumpida, la privacidad está protegida. Tenga en cuenta que las aplicaciones y la IA local son de este orden.
+Local-first memory (memoria con prioridad local) es un patrón de diseño donde el estado principal y los datos de la aplicación se guardan y gestionan en el dispositivo del usuario, dejando la nube como capa complementaria de respaldo.
 
-## ¿Cómo saberlo y utilizarlo en la vida diaria?
-Notas: Cuaderno sin conexión.Deber: Lista local.Medios: Archivo de dispositivos.
+## Definición y etimología
+Frente a las arquitecturas tradicionales dependientes de servidores remotos continuos, el enfoque local-first garantiza latencia cero e independencia absoluta de la conexión a Internet. El dispositivo del usuario es el dueño primario de la información.
+
+## Contexto cotidiano e uso práctico
+Gestión de Notas y Conocimiento: Herramientas como Obsidian o Logseq que preservan archivos de texto plano en el disco local.Pizarras de Diseño Colaborativo: Aplicaciones que funcionan sin conexión y fusionan cambios concurrentes sin pérdidas.Contexto de Agentes de IA: Historiales y bases vectoriales alojadas en el dispositivo para resguardar la privacidad personal.
 
 ## Profundidad técnica y arquitectura
-Diseño:
+Fundamentos Técnicos y Estructura:
 
-## Cosas frecuentemente mezcladas
-Se considera un modo fuera de línea. Ésa es la situación temporal, éste es el orden de propiedad. Los datos son tuyos, no alquilados.
+## Suele confundirse con
+Suele confundirse con una caché sin conexión clásica. La caché es una copia subordinada al servidor central; en local-first, la copia del dispositivo local es la fuente de verdad definitiva.
 
-## Uso en diferentes disciplinas
-Cajón: Cajón de casa cerrado con llave.Caja fuerte: Confianza personal.Cartera: Valor de bolsillo.
+## Perspectivas interdisciplinares
+Finanzas: Guardar dinero en efectivo en una caja fuerte doméstica frente a depender por completo de la banca electrónica.Escritura: Redactar en una libreta física frente a escribir en un documento compartido en la nube.Herramientas: Tener tu propia caja de llaves en el garaje frente a alquilarlas por horas en cada avería.
 
 ## Preguntas frecuentes
-**¿Qué pasa si el dispositivo se rompe?**
-Los datos se han ido. La copia de seguridad se guarda en un lugar aparte, la nube no se considera automática.
+**¿Por qué está creciendo el interés en local-first?**
+Porque ofrece interfaces que nunca se congelan por caídas de red y garantiza una privacidad digital total.
 
-**¿Qué tal sincrónico?**
-Se fusiona sin conflictos con CRDT. Una vez que los dispositivos se encuentran, se sincronizan.
+**¿Cómo se sincronizan varios usuarios sin sobreescrituras accidentales?**
+Mediante estructuras CRDT que resuelven los conflictos de edición simultánea de manera matemática determinista.
 
-**¿Cuándo nube?**
-Cuando se necesita compartir y realizar copias de seguridad. Lo local es la base, la nube es la copia.
+**¿Se eliminan por completo los servidores en este esquema?**
+No, se utilizan servidores ligeros como repetidores cifrados para intercambiar cambios entre dispositivos autorizados.
 
-**¿Es seguro?**
-Sí, con cifrado del dispositivo. El bloqueo contra la pérdida del dispositivo es imprescindible.
+**¿Qué bases de datos son habituales en proyectos local-first?**
+SQLite (WASM), RxDB, PGlite, ElectricSQL e IndexedDB combinadas con Yjs o Automerge.
 
 
 ## Términos relacionados
-- [Local-first](/es/dictionary/local-first/)
-- [Memory System](/es/dictionary/memory-system/)
-- [Self-hosting](/es/dictionary/self-hosting/)
+- [Nube Personal](/es/dictionary/personal-cloud/)
+- [Runtime](/es/dictionary/runtime/)
+- [Privacidad Digital](/es/dictionary/digital-privacy/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/local-first-memory/

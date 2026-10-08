@@ -1,39 +1,39 @@
 # Was ist Open Weight?
 
-Open Weight ist ein Modell der künstlichen Intelligenz, dessen Modelldateien für jedermann zugänglich sind.
+Open Weight bezeichnet KI-Modelle, deren trainierte Parametergewichte frei heruntergeladen werden können, sodass Entwickler das neuronale Netz auf eigener Hardware ausführen, quantisieren und anpassen können.
 
 ## Definition und Wortherkunft
-Es werden numerische Werte geteilt, die als Gehirn des Modells gelten. Der Downloader installiert und führt es auf seinem eigenen Computer aus. Trainingsdaten müssen nicht offen sein, diese Unterscheidung ist entscheidend.
+Im Unterschied zu geschlossenen Cloud-APIs, die den Zugriff auf kostenpflichtige Token-Aufrufe beschränken, stellen Open-Weight-Modelle die rohen Tensordateien bereit. Dies ermöglicht volle Datenhoheit, Unabhängigkeit von externen Schnittstellen und verlustarme lokale Inferenz.
 
-## Wie kann man es kennen und im täglichen Leben anwenden?
-Lokal: Assistent ohne Internet.Sonderprojekt: Eigene Anpassung.Forschung: Basismodellexperiment.
+## Alltägliche Anwendung und Praxis
+Lokale Inferenz auf Arbeitsplatzrechnern: Ausführung quantisierter Sprachmodelle auf Laptops ohne ständige Internetverbindung.Strikter Datenschutz: Sensible Unternehmensdaten und Programmcode verlassen niemals das lokale Firmennetzwerk.Kosteneffizienz bei hohen Volumina: Ersetzung laufender API-Abonnements durch einmalig amortisierte Serverhardware.
 
 ## Technische Tiefe und Architektur
-Dreieck:
+Technische Funktionsweise von Open Weights:
 
-## Häufig gemischte Dinge
-Es gilt als Open-Source-KI. Dazu gehört auch Code- und Prozesstransparenz, es geht lediglich darum, die endgültige Version zu teilen. Der Unterschied im Umfang bestimmt die Lizenz.
+## Häufig verwechselt mit
+Wird häufig mit vollwertiger Open-Source-KI verwechselt. Open Source verlangt die vollständige Offenlegung des Trainingscodes und der Datensätze; Open Weight stellt primär das fertige Zahlenwerk der trainierten Gewichte bereit.
 
-## Einsatz in verschiedenen Disziplinen
-Rezept: Eine gemeinsame Mahlzeit mit ihren Zutaten.Lehrbuch: Die Quelle, die jeder liest.Samen: Gemeinsamer Vorfahren-Samen.
+## Interdisziplinäre Perspektiven
+Backen: Einen fertigen Vorteig erhalten und im eigenen Ofen frisch ausbacken vs. ein verpacktes Brot im Supermarkt kaufen.Software: Eine native Binärdatei lokal installieren vs. eine Cloud-SaaS-Lösung im Browser mieten.Musik: Zugriff auf die Original-Tonspuren für ein Remix haben vs. einen Song über einen Streaming-Dienst anhören.
 
-## Häufig gestellte Fragen
-**Was ist der Unterschied zu Open Source?**
-Open Source umfasst Daten und Prozesse, Open Weight teilt die endgültige Version. Der Umfang ist unterschiedlich.
+## Häufige Fragen
+**Welche Möglichkeiten eröffnen offene Modellgewichte?**
+Sie können Modelle auf eigenen Servern hosten, für Mobilgeräte optimieren, mit eigenen Daten nachtrainieren und offline nutzen.
 
-**Sind die Daten auch offen?**
-Normalerweise nein. Das Gewicht liegt auf, das Trainingsset bleibt geschlossen.
+**Worin liegt der Hauptvorteil gegenüber geschlossenen APIs?**
+Vollständige Datenhoheit, Ausfallsicherheit ohne Internet und planbare Betriebskosten bei großen Anfragemengen.
 
-**Wird es kommerziell genutzt?**
-Es variiert je nach Lizenz. Apache und MIT können Community-Texte kostenlos lesen.
+**Welche Hardware wird für gängige 8B-Modelle benötigt?**
+Ein handelsüblicher Rechner mit 16 GB Arbeitsspeicher oder eine Grafikkarte mit 8 bis 12 GB VRAM reicht für 4-Bit-Modelle völlig aus.
 
-**Wird Hardware benötigt?**
-Variiert je nach Modell. Die Kleinen laufen auf dem Laptop, die Großen auf dem Server.
+**Dürfen Open-Weight-Modelle kommerziell eingesetzt werden?**
+Die meisten modernen Modellfamilien (wie Llama, Mistral und Qwen) gestatten die kommerzielle Nutzung im Rahmen ihrer Lizenzbedingungen ausdrücklich.
 
 
 ## Verwandte Begriffe
-- [Open Weights](/de/dictionary/open-weights/)
-- [LLM](/de/dictionary/llm/)
+- [Open Source AI](/de/dictionary/open-source-ai/)
+- [Foundation Model](/de/dictionary/foundation-model/)
 - [SLM](/de/dictionary/slm/)
 
 ---

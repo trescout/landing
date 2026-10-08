@@ -1,40 +1,41 @@
-# Was ist Working Memory?
+# Was ist Working Memory in der KI?
 
-Arbeitsspeicher (im Englischen Working Memory) ist die temporäre Information, die das Modell für die aktuelle Aufgabe bereithält.
+> Englisch: Working Memory · Wortherkunft: altenglisch weorc (Werk/Arbeit) + lateinisch memoria (Gedächtnis)
+
+Working Memory (Arbeitsgedächtnis) bezeichnet in der künstlichen Intelligenz den aktiven, temporären Notizbereich innerhalb des Kontextfensters eines Sprachmodells, der zur Ausführung unmittelbarer Denk- und Dialogschritte dient.
 
 ## Definition und Wortherkunft
-Sobald die Aufgabe beendet ist oder sich der Kontext ändert, wird der Inhalt gelöscht. Das Kontextfenster ist der Behälter für die aktiven Informationen im Arbeitsspeicher. Der Chatverlauf und Zwischenergebnisse werden hier gespeichert.
+Sie fungiert als die Werkbank des KI-Systems: Sobald eine Anfrage abgeschlossen oder die Sitzung zurückgesetzt wird, leert sich dieser flüchtige Notizspeicher. Das Kontextfenster bildet den Rahmen, während die darin geladenen Tokens den aktiven Arbeitsspeicher darstellen.
 
-## Wie kann man es kennen und im täglichen Leben anwenden?
-Chat: Erinnerung an vorherige Nachrichten.Schlussfolgerung: Speicherung von Zwischenschritten.Fahrzeug: Zwischenspeicherung von Aufrufergebnissen.
+## Alltägliche Anwendung und Praxis
+Wesentliche Aufgaben des Arbeitsgedächtnisses:
 
 ## Technische Tiefe und Architektur
-Budgetberechnung:
+Verwaltung des Token-Budgets:
 
-## Häufig gemischte Dinge
-Wird oft für das Langzeitgedächtnis gehalten. Das ist das dauerhafte Profil, dies ist die temporäre Werkbank. Wenn die Sitzung endet, wird dieser Bereich geleert.
+## Häufig verwechselt mit
+Oft wird es mit dem Langzeitgedächtnis verwechselt. Das Langzeitgedächtnis ist eine dauerhafte Vektordatenbank über Sitzungsgrenzen hinweg. Das Arbeitsgedächtnis ist der flüchtige Arbeitsspeicher, der nach Gesprächsende gelöscht wird.
 
-## Einsatz in verschiedenen Disziplinen
-Randnotiz: Die Kritzelei, die weggeworfen wird, wenn das Problem gelöst ist.Stand: Das Werkzeug, das nach getaner Arbeit weggeräumt wird.RAM: Der Bereich, der gelöscht wird, wenn der Strom unterbrochen wird.
+## Interdisziplinäre Perspektiven
+Vergleichbare Prinzipien in anderen Lebensbereichen:
 
-## Häufig gestellte Fragen
-**Was passiert, wenn es voll ist?**
-Alte Informationen werden vergessen, der Kontext verschiebt sich. Es wird durch Zusammenfassen und Beschneiden verwaltet.
+## Häufige Fragen
+**Was geschieht bei einem vollen Arbeitsgedächtnis?**
+Das Modell muss frühere Dialogteile kürzen oder zusammenfassen, um nicht den Faden zu verlieren.
 
-**Wie wird es vergrößert?**
-Es wird ein Modell mit einem größeren Fenster gewählt oder externe Informationen werden mittels RAG hinzugefügt.
+**Worin unterscheidet es sich von den Trainingsgewichten?**
+Gewichte sind das permanente Wissen aus dem Training; das Arbeitsgedächtnis enthält nur die aktuellen Wörter der laufenden Eingabe.
 
-**Was ist der Unterschied bei RAG?**
-RAG holt Informationen von außen, der Speicher hält den aktuellen Moment fest. Beide ergänzen sich.
+**Kann man das Arbeitsgedächtnis beliebig vergrößern?**
+Nein, da der Rechenaufwand stark ansteigt und Modelle bei extrem langen Texten relevante Fakten in der Textmitte übersehen können.
 
-**Vergisst es?**
-Ja. Es ist ein temporärer Bereich, Dauerhaftigkeit wird nicht erwartet. Dauerhafte Informationen werden extern geschrieben.
+**Welche Funktion erfüllt der KV-Cache?**
+Er speichert die Berechnungen bereits verarbeiteter Wörter im GPU-Speicher und verhindert zeitraubende Doppelberechnungen.
 
 
 ## Verwandte Begriffe
 - [Memory](/de/dictionary/memory/)
 - [Context Window](/de/dictionary/context-window/)
-- [Long-term Memory](/de/dictionary/long-term-memory/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/working-memory/

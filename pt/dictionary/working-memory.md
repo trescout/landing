@@ -1,40 +1,41 @@
-# O que é Working Memory?
+# O que é Working Memory em IA?
 
-A memória de trabalho (working memory) é a informação temporária que o modelo retém para a tarefa em questão.
+> Inglês: Working Memory
 
-## Definição e origem da palavra
-Quando a tarefa termina ou o contexto muda, o conteúdo é limpo. O recipiente da janela de contexto é a informação ativa dentro da memória de trabalho. O histórico do chat e os resultados intermediários ficam aqui.
+Working memory (memória de trabalho) em inteligência artificial é a área temporária de informações mantida ativa dentro da janela de contexto do modelo durante o raciocínio e a execução de tarefas imediatas.
 
-## Como conhecer e usar no dia a dia?
-Chat: Lembrar de mensagens anteriores.Raciocínio: Manter passos intermediários.Veículo: Manter resultados de chamadas em espera.
+## Definição e etimologia
+Ela atua como a bancada de trabalho do sistema: quando a tarefa termina ou a sessão é encerrada, os dados temporários são descartados. A janela de contexto é o recipiente físico, enquanto os tokens nela carregados formam o conteúdo ativo da memória operacional.
 
-## Profundidade Técnica e Arquitetura
-Cálculo de orçamento:
+## Contexto cotidiano e uso prático
+Papéis essenciais da memória de trabalho :
 
-## Coisas frequentemente misturadas
-Pensa-se que é memória de longo prazo. Esse é o perfil permanente, este é o balcão temporário. Quando a sessão fecha, este espaço é esvaziado.
+## Profundidade técnica e arquitetura
+Controle do orçamento de contexto :
 
-## Use em diferentes disciplinas
-Nota lateral: Rascunho descartado quando o problema termina.Ficar em pé: Ferramenta recolhida quando o trabalho termina.RAM: Área apagada quando a energia é cortada.
+## Costuma ser confundido com
+É comum confundir com memória de longo prazo. A de longo prazo é um banco vetorial persistente que sobrevive entre conversas; a memória de trabalho é a RAM temporária que se esvazia com o fim da execução.
 
-## Perguntas Frequentes
-**O que acontece se encher?**
-Informações antigas são esquecidas, o contexto se perde. É gerenciado com resumo e poda.
+## Perspectivas interdisciplinares
+Comparações em outros campos :
 
-**Como aumentar?**
-Escolhe-se um modelo com janela maior ou adiciona-se conhecimento externo com RAG.
+## Perguntas frequentes
+**O que acontece quando a memória de trabalho da IA enche?**
+O sistema precisa compactar os diálogos passados ou descartar mensagens antigas para não truncar a resposta.
 
-**Qual é a diferença do RAG?**
-O RAG traz informações de fora, a memória mantém o momento atual. Ambos são complementares.
+**Qual a diferença entre essa memória e o treinamento do modelo?**
+O treinamento gera os pesos permanentes do cérebro da IA; a memória de trabalho é apenas o texto temporário da conversa atual.
 
-**Esquece?**
-Sim. É uma área temporária, não se espera persistência. Informações persistentes são gravadas externamente.
+**Aumentar indefinidamente a memória de trabalho tem custo?**
+Sim, o processamento da atenção cresce de forma quadrática e o modelo pode ter dificuldade para achar fatos no meio do texto.
+
+**Qual a função do KV Cache?**
+Ele armazena os cálculos de atenção dos tokens já gerados, evitando que o modelo recalcule tudo a cada nova palavra emitida.
 
 
 ## Termos relacionados
 - [Memory](/pt/dictionary/memory/)
 - [Context Window](/pt/dictionary/context-window/)
-- [Long-term Memory](/pt/dictionary/long-term-memory/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/working-memory/

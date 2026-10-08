@@ -1,39 +1,41 @@
-# ¿Qué es Open Weight?
+# ¿Qué es el Open Weight?
 
-Openweight es un modelo de inteligencia artificial cuyos archivos modelo están abiertos a todos.
+> Pesos de Modelo Accesibles Públicamente
 
-## Definición y origen de la palabra
-Se comparten los valores numéricos, que se consideran el cerebro del modelo. El descargador lo instala y ejecuta en su propia computadora. Los datos de capacitación no tienen por qué ser abiertos; esta distinción es fundamental.
+Open weight describe los modelos de inteligencia artificial cuyos pesos y parámetros de entrenamiento se distribuyen de forma descargable, permitiendo su ejecución, cuantización y ajuste fino en hardware privado.
 
-## ¿Cómo saberlo y utilizarlo en la vida diaria?
-Local: Asistente sin internet.Proyecto especial: Personalización interna.Investigación: Experimento del modelo base.
+## Definición y etimología
+Frente al monopolio de las API comerciales cerradas que cobran por cada interacción, los modelos open weight entregan la matriz de parámetros matemáticos directamente al usuario. Esto garantiza la privacidad estricta y desbloquea el desarrollo desconectado de la red.
+
+## Contexto cotidiano e uso práctico
+Inferencia Local Desconectada: Despliegue de modelos en ordenadores portátiles o servidores internos sin conexión a Internet.Protección de Datos Sensibles: Seguridad de que la información corporativa confidencial no transita por centros de datos externos.Ahorro de Costes Operativos: Eliminación de cuotas recurrentes de facturación por uso intensivo de API.
 
 ## Profundidad técnica y arquitectura
-Triángulo:
+Fundamentos Técnicos de los Pesos Abiertos:
 
-## Cosas frecuentemente mezcladas
-Se considera IA de código abierto. Eso incluye la transparencia del código y del proceso, solo se trata de compartir la versión final. La diferencia de alcance determina la licencia.
+## Suele confundirse con
+A menudo se confunde con el software de código abierto en sentido estricto. El open source exige compartir los scripts y datos de origen; el open weight proporciona la red neuronal ya entrenada para su despliegue práctico.
 
-## Uso en diferentes disciplinas
-Receta: Una comida compartida con sus ingredientes.Libro de texto: La fuente que todos leen.Semilla: Semilla ancestral compartida.
+## Perspectivas interdisciplinares
+Panadería: Recibir la masa lista para hornear en casa a su gusto frente a comprar una barra industrial empaquetada.Software: Descargar un ejecutable autónomo frente a utilizar una herramienta SaaS en la nube.Grabación: Disponer de las pistas maestras de una pista de audio frente a reproducir una pista cerrada en una plataforma digital.
 
 ## Preguntas frecuentes
-**¿Cuál es la diferencia con el código abierto?**
-El código abierto incluye datos y procesos, el peso abierto comparte la versión final. El alcance es diferente.
+**¿Qué libertades ofrece disponer de los pesos abiertos?**
+Permite alojar el modelo en infraestructuras propias, cuantizarlo para dispositivos móviles y personalizarlo con datos privados.
 
-**¿Los datos también están abiertos?**
-Generalmente no. El peso está puesto, el set de entrenamiento permanece cerrado.
+**¿En qué aventaja a los servicios de API comerciales?**
+Garantiza soberanía absoluta sobre los datos, coste fijo predecible e inmunidad ante cambios arbitrarios de políticas de terceros.
 
-**¿Se utiliza comercialmente?**
-Varía dependiendo de la licencia. Apache y MIT pueden leer textos comunitarios de forma gratuita.
+**¿Qué requisitos de hardware exige un modelo 8B?**
+Un equipo con 16 GB de memoria unificada o una tarjeta gráfica de 8 a 12 GB de VRAM ejecuta modelos cuantizados a 4 bits con fluidez.
 
-**¿Se requiere hardware?**
-Varía según el modelo. Los más pequeños corren en el portátil, los grandes en el servidor.
+**¿Se pueden comercializar productos basados en open weight?**
+La inmensa mayoría de familias modernas (Llama, Mistral, Qwen) autorizan el uso comercial explícitamente en sus licencias.
 
 
 ## Términos relacionados
-- [Open Weights](/es/dictionary/open-weights/)
-- [LLM](/es/dictionary/llm/)
+- [Open Source AI](/es/dictionary/open-source-ai/)
+- [Foundation Model](/es/dictionary/foundation-model/)
 - [SLM](/es/dictionary/slm/)
 
 ---

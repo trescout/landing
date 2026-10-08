@@ -1,32 +1,29 @@
-# What is Assembly?
+# Assembly Definition, registers, and system architecture
 
-Assembly refers to two basic concepts in computer science: First, the lowest-level symbolic programming language (Assembly Language) that directly governs the hardware processor (CPU); The second is to turn compiled software modules (.NET assembly) into a single distributable package.
+Assembly refers to two fundamental concepts in computer science: the lowest-level symbolic programming language that directly instructs the central processing unit (CPU), and compiled deployment packages (.NET assemblies) that bundle executable modules.
 
-## 1. Low-level programming language (Assembly Language)
-The computer processor only understands binary signals (machine code / opcodes) 0 and 1. Assembly language consists of human-readable symbolic abbreviations (mnemonics) corresponding to these raw machine codes:
+## 1. Low-Level Programming Language (Assembly Language)
+Computer processors only understand binary machine code (0s and 1s, or opcodes). Assembly language replaces raw hexadecimal opcodes with human-readable mnemonics:
 
-## 2. Processor registers and x86-64 architecture
-The most critical registers on a modern 64-bit x86-64 processor are:
+## 2. CPU Registers and x86-64 Architecture
+In modern 64-bit x86-64 processors, key registers serve specialized and general computational functions:
 
-## 3. CISC vs RISC: difference between x86-64 and ARM64
-x86-64 architecture works with CISC (Complex Instruction Set) philosophy; It has variable instruction sizes and rich instructions that can operate directly on memory. ARM64 (Apple Silicon, Mobile) is based on RISC (Reduced Instruction Set); It provides great superiority in energy efficiency with its fixed 32-bit command length and Load-Store architecture.
+## 3. CISC vs RISC: x86-64 vs ARM64 Differences
+x86-64 architecture follows the CISC (Complex Instruction Set Computer) philosophy, offering variable-length instructions capable of direct memory manipulation. Conversely, ARM64 (Apple Silicon, mobile chipsets) adheres to RISC (Reduced Instruction Set Computer) design with uniform 32-bit instructions and a strict load-store model, maximizing silicon energy efficiency.
 
-## 4. System calls (Syscall) and Linux x86-64 example
+## 4. System Calls (Syscalls) and Linux x86-64 Example
 
-## 5. .NET Assembly and WebAssembly (WASM)
+## 5. .NET Assemblies and WebAssembly (WASM)
 
 ## Frequently asked questions
-**What does assembly mean and what does it do?**
-Assembly is the lowest-level symbolic programming language that corresponds 1 to 1 to the hardware instruction set of the computer processor. It is used to directly control CPU registers and memory.
+**What is Assembly language and what is it used for?**
+Assembly is a low-level symbolic language that corresponds 1-to-1 with machine instruction sets, used for firmware, OS kernels, high-performance engines, and security analysis.
 
-**What is the difference between Assembler and Compiler?**
-The compiler (C, C++, Rust) analyzes and optimizes and translates complex human logic and loops into machine code. Assembler, on the other hand, converts assembly instructions, which are already symbolic versions of machine code, directly into binary byte code.
+**What is the difference between an assembler and a compiler?**
+A compiler translates abstract high-level languages (C++, Rust) into optimized assembly or machine code, whereas an assembler translates symbolic mnemonics directly into binary opcodes without restructuring algorithms.
 
-**Where is assembly language still used today?**
-It is actively used in operating system kernels (bootloader), hardware device drivers, reverse engineering, malware analysis, cyber vulnerability detection and embedded systems (IoT/microcontroller).
-
-**What is the difference between CISC and RISC?**
-CISC (x86-64) has a rich instruction set that can perform multiple subprocesses and memory accesses in a single instruction; RISC (ARM), on the other hand, is a simplified and energy-efficient architecture that runs each command in a single clock cycle.
+**Where is Assembly still used today?**
+It is indispensable in operating system bootloaders, device drivers, embedded systems, reverse engineering, exploit development, and real-time graphics optimizations.
 
 
 ## Related terms
@@ -37,7 +34,6 @@ CISC (x86-64) has a rich instruction set that can perform multiple subprocesses 
 - [Emulator](/en/dictionary/emulator/)
 
 ## Related tools
-- [Ghidra](/en/discover/ghidra/)
 - [Apollo-11](/en/discover/apollo-11/)
 
 ---

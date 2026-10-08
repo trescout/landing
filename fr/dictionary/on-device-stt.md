@@ -1,42 +1,42 @@
-# Qu'est-ce que On-device STT ?
+# Qu'est-ce que l'On-device STT ?
 
-> On-device Speech-to-Text
+> Reconnaissance Vocale Embarquée sur l'Appareil
 
-La STT sur l'appareil (traduction littérale : reconnaissance vocale sur l'appareil) consiste à convertir la voix en texte directement sur l'appareil.
+L'on-device STT (Speech-to-Text embarqué) désigne la technologie de reconnaissance vocale qui retranscrit la parole en texte directement sur l'appareil de l'utilisateur, sans transmettre d'enregistrement audio vers des serveurs distants.
 
-## Définition et origine du mot
-"On-device" signifie sur l'appareil. Le modèle local fonctionne sans passer par le cloud. La confidentialité est préservée et les coupures n'ont aucun impact. C'est comme un traducteur qui aurait le dictionnaire en tête.
+## Définition et étymologie
+Indispensable pour préserver la confidentialité et garantir un fonctionnement instantané, le STT embarqué exécute des modèles neuronaux acoustiques directement sur les puces du terminal (NPU, GPU). Les flux vocaux ne quittent jamais la machine hôte.
 
-## Comment connaître et utiliser dans la vie quotidienne ?
-Remarques : Note vocale en avion.Commande : Assistant hors ligne.Accessibilité: Sous-titrage sur l'appareil.
+## Usage quotidien et contexte pratique
+Smartphones et tablettes : Dictée vocale instantanée fonctionnant en mode avion sans connexion.Transcriptions sensibles : Rédaction de comptes rendus médicaux et d'audiences juridiques confidentielles.Appareils domotiques : Ordres vocaux exécutés localement sans écoute clandestine externe.
 
 ## Profondeur technique et architecture
-Équilibre :
+Architecture technique :
 
-## Choses fréquemment mélangées
-On pense que c'est de la reconnaissance cloud. Elle tourne sur le serveur, les données partent. Celle-ci tourne sur l'appareil, les données restent.
+## Souvent confondu avec
+Souvent confondu avec les API vocales cloud. Le cloud envoie la voix vers des centres de données distants ; le STT embarqué effectue l'intégralité de l'inférence sur le processeur local.
 
-## Utilisation dans différentes disciplines
-Dictionnaire : Le vocabulaire transporté dans la tête.Calculatrice : Calcul sans pile.Lampe de poche : Lumière sans réseau.
+## Perspectives interdisciplinaires
+Interprétariat : Avoir un interprète personnel à ses côtés dans la pièce plutôt que faire appel à une centrale téléphonique à distance.Sténographie : Un greffier présent dans la salle d'audience vs l'envoi d'enregistrements audio à un prestataire externe.Photographie : Développer ses négatifs dans sa propre chambre noire vs expédier ses pellicules à l'autre bout du pays.
 
-## Foire aux questions
-**Pourquoi pas le cloud ?**
-Pas besoin de connexion, les données restent sur l'appareil. Préféré pour les travaux confidentiels.
+## Questions fréquentes
+**Le STT embarqué est-il aussi précis que les services cloud ?**
+Oui, les modèles récents comme Whisper-small ou distil-whisper atteignent des scores de précision très proches des API cloud.
 
-**La précision diminue-t-elle ?**
-Un peu par rapport au cloud. Suffisant pour le travail quotidien, le texte critique est vérifié.
+**Fonctionne-t-il sans connexion Internet ?**
+Oui, dès lors que les poids du modèle sont téléchargés sur l'appareil, aucune connexion n'est requise.
 
-**Quel appareil le fait tourner ?**
-Les téléphones et ordinateurs récents. Ceux dotés d'une NPU fonctionnent de manière fluide.
+**Quel espace de stockage occupe un tel modèle ?**
+Selon le niveau de compression, la taille varie généralement entre 50 Mo et 400 Mo.
 
-**Est-ce que ça consomme de la batterie ?**
-Oui. L'écoute continue a un coût, on l'active en cas de besoin.
+**Quels frameworks open source permettent de l'intégrer ?**
+Whisper.cpp, Sherpa-ONNX, Vosk et WhisperX.
 
 
 ## Termes liés
-- [STT](/fr/dictionary/stt/)
 - [Speech-to-Text](/fr/dictionary/speech-to-text/)
-- [Local](/fr/dictionary/local/)
+- [SLM](/fr/dictionary/slm/)
+- [Confidentialité Numérique](/fr/dictionary/digital-privacy/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/on-device-stt/

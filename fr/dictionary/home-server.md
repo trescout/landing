@@ -1,41 +1,42 @@
-# Qu'est-ce que Home Server ?
+# Qu'est-ce qu'un Home Server ?
 
-Un serveur domestique (ou home server en anglais) est un serveur personnel qui fonctionne en permanence à la maison.
+> Serveur Domestique Personnel
 
-## Définition et origine du mot
-Home signifie maison. Votre propre cloud est configuré, les fichiers sont sauvegardés, les médias sont gérés. Il est motivé par l'affranchissement des abonnements et le contrôle total.
+Un home server (serveur domestique) est un ordinateur connecté en continu au réseau local d'un foyer pour héberger des sauvegardes, des bibliothèques multimédias et des services auto-hébergés.
 
-## Comment connaître et utiliser dans la vie quotidienne ?
-Médias : Archive de films et de musique.Sauvegarde : Photos de famille.Automatisation : Appareils domestiques.
+## Définition et étymologie
+Le serveur domestique incarne le principe de souveraineté numérique et de priorité au local. Au lieu de confier l'intégralité de sa vie numérique à des serveurs cloud distants, l'utilisateur conserve la propriété et le contrôle physique de ses données.
+
+## Usage quotidien et contexte pratique
+Diffusion multimédia : Hébergement d'un catalogue personnel de films et de musique via Jellyfin sans abonnement.Sauvegardes automatisées : Sauvegardes régulières de tous les ordinateurs et téléphones de la maison.Domotique résiliente : Exécution de Home Assistant sans aucune dépendance envers une connexion Internet externe.
 
 ## Profondeur technique et architecture
-Installation:
+Architecture matérielle et logicielle :
 
-## Choses fréquemment mélangées
-On le confond avec un ordinateur de bureau. Celui-ci s'allume de temps en temps, celui-là fonctionne 24h/24 et 7j/7. L'un est un bureau de travail, l'autre est de garde.
+## Souvent confondu avec
+Souvent confondu avec un simple boîtier NAS grand public. Si le NAS se limite souvent au stockage réseau basique (SMB), le serveur domestique exécute des bases de données et des applications complètes.
 
-## Utilisation dans différentes disciplines
-Préposé : L'assistant qui maintient l'ordre.Archive: Salle des archives.Garde-manger : Entrepôt de stock.
+## Perspectives interdisciplinaires
+Culture : Une bibliothèque personnelle chez soi plutôt que la location de livres à l'extérieur.Énergie : Des panneaux solaires sur le toit face à la dépendance exclusive au réseau électrique général.Logistique : Un cellier familial privé face aux livraisons quotidiennes à flux tendu.
 
-## Foire aux questions
-**Pourquoi faut-il un serveur ?**
-Pour le contrôle et pour s'affranchir des abonnements. Les données restent à la maison.
+## Questions fréquentes
+**Quelle est la consommation électrique d'un serveur domestique ?**
+Les mini-PC modernes consomment généralement entre 5 et 15 watts au repos, pour un coût électrique mensuel minime.
 
-**Consomme-t-il de l'électricité ?**
-Un petit appareil en consomme peu. C'est suivi par des mesures.
+**Peut-on y accéder de l'extérieur en toute sécurité ?**
+Oui, grâce à des VPN chiffrés modernes comme WireGuard ou Tailscale sans ouvrir de ports vulnérables sur votre box.
 
-**Internet est-il nécessaire ?**
-Non en réseau domestique, oui pour l'accès externe. Le tunnel est configuré de manière sécurisée.
+**Quel système choisir pour débuter ?**
+Ubuntu Server avec Docker, ou des environnements prêts à l'emploi comme CasaOS ou TrueNAS.
 
-**Est-ce sécuritaire?**
-Oui, avec des mises à jour et une discipline en matière de mots de passe. Les ports exposés vers l'extérieur sont contrôlés.
+**Faut-il du matériel professionnel coûteux ?**
+Non, un ordinateur reconditionné ou un mini-PC silencieux convient parfaitement pour la grande majorité des usages.
 
 
 ## Termes liés
-- [Self-hosting](/fr/dictionary/self-hosting/)
-- [NAS](/fr/dictionary/nas/)
-- [Personal Cloud](/fr/dictionary/personal-cloud/)
-- [Backup Program](/fr/dictionary/backup-program/)
+- [Auto-hébergement](/fr/dictionary/self-hosted/)
+- [Domotique](/fr/dictionary/home-automation/)
+- [Cloud Personnel](/fr/dictionary/personal-cloud/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/home-server/

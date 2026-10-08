@@ -1,41 +1,42 @@
-# ¿Qué es Home Server?
+# ¿Qué es un Home Server?
 
-Un home server (servidor doméstico en español) es un servidor personal que funciona continuamente en el hogar.
+> Servidor Doméstico
 
-## Definición y origen de la palabra
-Home significa hogar. Se configura tu propia nube, se respaldan archivos y se gestiona contenido multimedia. Su motivación es liberarse de las suscripciones y obtener el control total.
+Un home server (servidor doméstico) es un equipo informático que permanece encendido en la red local del hogar para alojar copias de seguridad, bibliotecas multimedia y servicios autohospedados.
 
-## ¿Cómo saberlo y utilizarlo en la vida diaria?
-Medios: Archivo de películas y música.Respaldo: Fotos familiares.Automatización: Dispositivos domésticos.
+## Definición y etimología
+El servidor doméstico es el pilar de la soberanía digital y el enfoque local-first. Permite centralizar fotografías, archivos personales y reglas domóticas bajo el control físico del propio usuario, sin depender de servidores en la nube ajenos.
+
+## Contexto cotidiano e uso práctico
+Streaming Multimedia: Distribución de películas y música en red local mediante Jellyfin o Plex.Copias de Seguridad Centralizadas: Respaldos periódicos e incrementales de portátiles y teléfonos.Domótica Local: Control de sensores y actuadores con Home Assistant sin riesgo de caídas por falta de conexión a Internet.
 
 ## Profundidad técnica y arquitectura
-Instalación:
+Capas de Hardware y Sistema:
 
-## Cosas frecuentemente mezcladas
-Se confunde con un ordenador de escritorio. Aquel se enciende de vez en cuando, este funciona 24/7. Uno es un escritorio de trabajo, el otro es un guardia de turno.
+## Suele confundirse con
+A menudo se confunde con un dispositivo NAS básico. Un NAS convencional se centra en compartir carpetas por red (SMB/NFS); un servidor doméstico completo procesa bases de datos y ejecuta servicios web interactivos.
 
-## Uso en diferentes disciplinas
-Encargado: El asistente que mantiene el orden.Archivo: Archivo de documentos.Despensa: Almacén de existencias.
+## Perspectivas interdisciplinares
+Conocimiento: Una biblioteca privada en casa frente a una suscripción de alquiler bibliotecario.Electricidad: Paneles solares residenciales frente al suministro exclusivo de la red comercial.Abastecimiento: Un aljibe privado frente a la red municipal de agua potable.
 
 ## Preguntas frecuentes
-**¿Por qué se necesita un servidor?**
-Para el control y para liberarse de las suscripciones. Los datos permanecen en casa.
+**¿Cuánto consume de electricidad un servidor doméstico?**
+Los mini PC modernos apenas consumen entre 7 y 20 vatios en reposo, lo que supone un gasto eléctrico mensual mínimo.
 
-**¿Consume electricidad?**
-Un dispositivo pequeño consume poco. Se puede seguir mediante medición.
+**¿Cómo puedo acceder a mis archivos desde fuera de casa?**
+Mediante túneles VPN modernos como WireGuard o Tailscale que garantizan un enlace cifrado sin abrir puertos inseguros.
 
-**¿Es necesaria la conexión a Internet?**
-Dentro de casa no, para acceso externo sí. El túnel se establece de forma segura.
+**¿Qué sistema operativo es el más adecuado para empezar?**
+Ubuntu Server junto con Docker, o soluciones integradas como CasaOS o TrueNAS SCALE.
 
-**¿Es seguro?**
-Sí, con disciplina de actualización y contraseñas. El puerto abierto al exterior se supervisa.
+**¿Es imprescindible comprar servidores profesionales caros?**
+No, cualquier ordenador de sobremesa reutilizado o mini PC silencioso resulta idóneo para empezar.
 
 
 ## Términos relacionados
-- [Self-hosting](/es/dictionary/self-hosting/)
-- [NAS](/es/dictionary/nas/)
-- [Personal Cloud](/es/dictionary/personal-cloud/)
-- [Backup Program](/es/dictionary/backup-program/)
+- [Autohospedaje](/es/dictionary/self-hosted/)
+- [Domótica](/es/dictionary/home-automation/)
+- [Nube Personal](/es/dictionary/personal-cloud/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/home-server/

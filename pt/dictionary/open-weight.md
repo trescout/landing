@@ -1,39 +1,41 @@
 # O que é Open Weight?
 
-O peso aberto é um modelo de inteligência artificial cujos arquivos de modelo estão abertos a todos.
+> Pesos de Modelo Publicamente Acessíveis
 
-## Definição e origem da palavra
-Os valores numéricos, considerados o cérebro do modelo, são compartilhados. O downloader instala e executa em seu próprio computador. Os dados de treinamento não precisam ser abertos; esta distinção é crítica.
+Open weight refere-se a modelos de IA cujos pesos de parâmetros treinados estão disponíveis para download público, permitindo que desenvolvedores rodem, quantizem e façam fine-tuning em hardware próprio.
 
-## Como conhecer e usar no dia a dia?
-Local: Assistente sem internet.Projeto especial: Personalização interna.Pesquisar: Experimento de modelo básico.
+## Definição e etimologia
+Diferente das plataformas proprietárias fechadas que operam apenas sob cobrança por requisição, os modelos open weight liberam a estrutura neural diretamente para o desenvolvedor. Isso assegura privacidade absoluta e elimina intermediários.
 
-## Profundidade Técnica e Arquitetura
-Triângulo:
+## Contexto cotidiano e uso prático
+Execução Local em Dispositivos: Carregamento de modelos quantizados em notebooks de trabalho sem depender de acesso à internet.Privacidade Total de Dados: Garantia de que segredos comerciais e registros pessoais não serão transmitidos para servidores remotos.Independência de Custos: Substituição de faturas recorrentes de API por infraestrutura própria amortizada.
 
-## Coisas frequentemente misturadas
-É considerada IA ​​de código aberto. Isso inclui transparência de código e processo, é apenas compartilhar a versão final. A diferença no escopo determina a licença.
+## Profundidade técnica e arquitetura
+Estrutura Técnica dos Pesos Abertos:
 
-## Use em diferentes disciplinas
-Receita: Uma refeição partilhada com os seus ingredientes.Livro didático: A fonte que todos lêem.Semente: Semente ancestral compartilhada.
+## Costuma ser confundido com
+Frequentemente confundido com código aberto completo. O open source estrito inclui o código de treino e a base de dados; o open weight distribui os parâmetros matemáticos consolidados para uso imediato.
 
-## Perguntas Frequentes
-**Qual é a diferença com código aberto?**
-Open Source inclui dados e processos, o peso aberto compartilha a versão final. O escopo é diferente.
+## Perspectivas interdisciplinares
+Padaria: Ter a massa preparada para assar no próprio forno vs comprar o pão pronto embalado.Computação: Instalar um programa compilado no disco local vs usar um site de ferramentas online.Música: Ter acesso aos canais de áudio isolados para remixar vs ouvir uma música compactada em streaming.
 
-**Os dados também estão abertos?**
-Geralmente não. O peso está colocado, o conjunto de treinamento permanece fechado.
+## Perguntas frequentes
+**O que é possível fazer com os pesos de um modelo aberto?**
+Você pode hospedar o modelo no seu servidor, convertê-lo para rodar em celulares, aplicar ajustes finos e utilizá-lo sem internet.
 
-**É usado comercialmente?**
-Varia dependendo da licença. Apache e MIT são livres para ler textos da comunidade.
+**Qual a vantagem frente a serviços como o ChatGPT?**
+Privacidade incondicional, previsibilidade de custos e controle total sobre as versões e respostas do modelo.
 
-**É necessário hardware?**
-Varia dependendo do modelo. Os pequenos rodam no laptop, os grandes no servidor.
+**Qual configuração de máquina é necessária para modelos 7B ou 8B?**
+Um computador com 16 GB de RAM ou placa de vídeo de 8 GB roda com tranquilidade modelos comprimidos em 4 bits.
+
+**Posso usar em produtos comerciais?**
+Sim, as licenças dos principais modelos (Llama, Mistral, Qwen) autorizam expressamente o uso comercial na maioria dos cenários.
 
 
 ## Termos relacionados
-- [Open Weights](/pt/dictionary/open-weights/)
-- [LLM](/pt/dictionary/llm/)
+- [Open Source AI](/pt/dictionary/open-source-ai/)
+- [Foundation Model](/pt/dictionary/foundation-model/)
 - [SLM](/pt/dictionary/slm/)
 
 ---
