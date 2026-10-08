@@ -23,8 +23,8 @@
  *   - UPSTASH_REDIS_REST_TOKEN · production dağıtık rate limit REST token
  *   - SUBSCRIBE_NOTIFY_ENABLED · yönetici bildirim e-postası kilidi ·
  *     VARSAYILAN AÇIK. Bildirim e-posta adresi taşımaz. 'false' kapatır.
- *   - SUBSCRIBE_PAUSED · kayıt durdurma kilidi · VARSAYILAN KAPALI KAYIT
- *     (2026-10-08). Yalnız 'false' değeri kayıtları yeniden açar.
+ *   - SUBSCRIBE_PAUSED · kayıt durdurma kilidi · VARSAYILAN AÇIK KAYIT.
+ *     'true' değeri kayıtları durdurur.
  */
 
 import { createRateLimiter } from './rate-limit.mjs';
@@ -52,16 +52,15 @@ function notifyEnabled() {
 }
 
 /**
- * Kayıt durdurma kilidi · varsayılanı KAYIT KAPALI (2026-10-08, #210).
+ * Kayıt durdurma kilidi · varsayılanı KAYIT AÇIK.
  *
- * Form metni KVKK Kurulu'nun 2026/347 sayılı ilke kararına aykırı (aydınlatma
- * ile onay tek kutuda) ve Aydınlatma Metni'nde veri sorumlusunun kimliği yok.
- * Metinler avukat onayıyla düzeltilene kadar yeni kişisel veri alınmaz. Kontrol
- * gövde okunmadan ve hız sınırlayıcıya (IP) gidilmeden yapılır. Yeniden açmak
- * için Vercel'de SUBSCRIBE_PAUSED=false.
+ * 2026-10-08'de (#210) form metni düzeltilene kadar varsayılan kapalıydı; aynı
+ * gün kayıtlar kullanıcı kararıyla yeniden açıldı, form düzeltmesi ayrı PR'da.
+ * Kayıtları durdurmak için Vercel'de SUBSCRIBE_PAUSED=true: gövde okunmaz, IP
+ * hız sınırlayıcıya gitmez, sağlayıcıya istek atılmaz.
  */
 function signupsPaused() {
-  return (process.env.SUBSCRIBE_PAUSED || 'true').trim().toLowerCase() !== 'false';
+  return (process.env.SUBSCRIBE_PAUSED || 'false').trim().toLowerCase() === 'true';
 }
 
 /** Allowed request origins (CSRF) */

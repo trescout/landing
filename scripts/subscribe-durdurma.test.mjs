@@ -1,8 +1,8 @@
 /**
  * Kayıt durdurma ve bildirim varsayılanları (2026-10-08, #210).
  *
- * Varsayılanlar hukuki koruma: metinler düzelene kadar kayıt alınmaz; kayıt
- * açılınca gelen yönetici bildirimi kişinin e-posta adresini taşımaz. Biri env'i
+ * Kayıt varsayılan açık; SUBSCRIBE_PAUSED=true durdurur. Yönetici bildirimi
+ * kişinin e-posta adresini hiçbir durumda taşımaz. Biri env'i
  * unutursa güvenli tarafta kalınmalı; bu test o varsayılanları kilitler.
  */
 import assert from 'node:assert/strict';
@@ -42,7 +42,8 @@ function kayit(lang = '') {
   }));
 }
 
-test('env yokken kayıt kapalı: 503 kapali, sağlayıcıya hiç istek yok', async () => {
+test('SUBSCRIBE_PAUSED=true iken kayıt kapalı: 503 kapali, sağlayıcıya hiç istek yok', async () => {
+  process.env.SUBSCRIBE_PAUSED = 'true';
   istekler.length = 0;
   const res = await kayit();
   assert.equal(res.status, 503);
@@ -56,10 +57,10 @@ test('kapalı mesajı sayfanın dilinde', async () => {
   const body = await (await kayit('en/')).json();
   assert.equal(body.code, 'kapali');
   assert.match(body.error, /temporarily closed/);
+  delete process.env.SUBSCRIBE_PAUSED;
 });
 
-test('kayıt açılınca bildirim gider ama kişinin e-posta adresini taşımaz', async () => {
-  process.env.SUBSCRIBE_PAUSED = 'false';
+test('env yokken kayıt açık; bildirim gider ama kişinin e-posta adresini taşımaz', async () => {
   istekler.length = 0;
   govdeler.length = 0;
   const res = await kayit();

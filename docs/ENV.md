@@ -12,7 +12,7 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 | `UPSTASH_REDIS_REST_TOKEN` | ❌ isteğe bağlı | Upstash Redis REST token · yalnız Vercel server env’de tutulur |
 | `UPSTASH_RATE_LIMIT_FAIL_CLOSED` | ❌ | Redis yoksa/çökerse formu 503 ile kapatma kilidi · **varsayılan KAPALI** |
 | `SUBSCRIBE_NOTIFY_ENABLED` | ❌ | Yönetici bildirim e-postası kilidi · **varsayılan AÇIK**, 'false' kapatır · bildirim e-posta adresi taşımaz |
-| `SUBSCRIBE_PAUSED` | ❌ | Kayıt durdurma kilidi · **varsayılan KAYIT KAPALI** (2026-10-08), yalnız 'false' kayıtları açar |
+| `SUBSCRIBE_PAUSED` | ❌ | Kayıt durdurma kilidi · **varsayılan KAYIT AÇIK**, 'true' kayıtları durdurur |
 
 ## Kurulum adımları
 
@@ -87,27 +87,23 @@ Metni'nde olmadığı için çıkarıldı; adres gerekirse Resend Audience panos
 
 ## Kayıt durdurma
 
-Erken erişim kayıtları 2026-10-08'den beri **varsayılan olarak durdurulmuştur**
-(#210): form metni KVKK 2026/347 ilke kararına aykırı ve Aydınlatma Metni'nde
-veri sorumlusunun kimliği yok. Durdurulmuşken API gövdeyi okumaz, IP'yi hız
-sınırlayıcıya göndermez, sağlayıcıya istek atmaz; formu dolduran kişi sayfanın
-dilinde "kayıtlar geçici olarak kapalı" mesajı görür (503, `code: "kapali"`).
+Kayıtlar varsayılan olarak açıktır. `SUBSCRIBE_PAUSED=true` set edilirse API
+gövdeyi okumaz, IP'yi hız sınırlayıcıya göndermez, sağlayıcıya istek atmaz;
+formu dolduran kişi sayfanın dilinde "kayıtlar geçici olarak kapalı" mesajı
+görür (503, `code: "kapali"`). 2026-10-08'de (#210) form metni düzeltilene
+kadar kısa süre varsayılan kapalı tutuldu, aynı gün yeniden açıldı.
 
 | `SUBSCRIBE_PAUSED` | Davranış |
 |---|---|
-| tanımsız, boş veya `false` dışında her değer | Kayıt alınmaz (varsayılan) |
-| `false` | Kayıtlar açık |
-
-Yeniden açmadan önce: avukat onaylı form ve Aydınlatma Metni yayında olmalı.
-Sonra Vercel `trescout-landing` projesinde `SUBSCRIBE_PAUSED=false` set edip
-yeniden deploy edin.
+| tanımsız, boş veya `false` | Kayıtlar açık (varsayılan) |
+| `true` | Kayıt alınmaz |
 
 ## Güvenlik notları
 
 - `RESEND_API_KEY`, `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` sadece sunucu tarafında kullanılır (Edge Function). Frontend'e sızmaz.
 - Upstash erişilemez olduğunda veya tanımlı değilken kayıtların kesilmemesi için process-memory fallback devreye girer (UPSTASH_RATE_LIMIT_FAIL_CLOSED=true olmadığı sürece).
 - Yönetici bildirimi varsayılan açıktır ve e-posta adresi taşımaz · kapatmak için `SUBSCRIBE_NOTIFY_ENABLED=false`.
-- Kayıtlar varsayılan durdurulmuştur · açmak için `SUBSCRIBE_PAUSED=false`.
+- Kayıtlar varsayılan açıktır · durdurmak için `SUBSCRIBE_PAUSED=true`.
 - Vercel env vars şifrelenmiş saklanır.
 - Key sızdığında: Resend Dashboard'dan **revoke** → yeni key oluştur → Vercel'da güncelle → redeploy.
 - API key rotation: 6 ayda bir.
