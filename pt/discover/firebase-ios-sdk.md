@@ -2,12 +2,13 @@
 
 O Firebase, uma plataforma de desenvolvimento móvel oferecida pelo Google, fornece um kit de desenvolvimento de software (SDK) que permite adicionar serviços em nuvem, como banco de dados e autenticação, a aplicativos criados para dispositivos Apple. Essa ferramenta facilita para os desenvolvedores o gerenciamento de processos de backend em seus aplicativos executados no ecossistema Apple.
 
-- ★ 6.801
+- ★ 6.931
 - C++
 - GitHub Trending · 2026-10-01
 
 ## Atualizações
 
+- **8 de outubro de 2026:** Estrelas 6,801 → 6,931, versão mais recente 13.0.1 (7 de outubro de 2026).
 - **1 de outubro de 2026:** Estrelas 6,801 → 6,801, versão mais recente 12.19.2 (15 de setembro de 2026).
 
 ## O que você ganha

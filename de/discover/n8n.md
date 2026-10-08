@@ -2,15 +2,15 @@
 
 n8n verbindet eine visuelle Arbeitsfläche, eigenen Code, KI-Agenten und Workflows in einer Fair-Code-Automatisierungsplattform. Die Plattform unterstützt selbst betriebene oder Cloud-Bereitstellungen und kann verschiedene Modellanbieter in Workflows einbinden.
 
-- ★ 206.804
+- ★ 206.884
 - GitHub Trending · 2026-08-23
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 206,804 → 206,884, neueste Version n8n@2.42.5 (8. Oktober 2026).
 - **7. Oktober 2026:** Sterne 206,753 → 206,804, neueste Version n8n@2.42.4 (7. Oktober 2026).
 - **6. Oktober 2026:** Sterne 206,694 → 206,753, neueste Version n8n@2.42.3 (5. Oktober 2026).
 - **5. Oktober 2026:** Sterne 206,489 → 206,694, neueste Version n8n@2.41.7 (5. Oktober 2026).
-- **2. Oktober 2026:** Sterne 206,409 → 206,489, neueste Version n8n@2.41.6 (2. Oktober 2026).
 
 ## Installation
 

@@ -2,16 +2,16 @@
 
 Desarrollado por Deno, Celld ofrece una infraestructura de objetos duraderos autohospedados para sistemas distribuidos. Esta tecnología, escrita en lenguaje Rust, permite distribuir la gestión del estado entre diferentes nodos de forma escalable.
 
-- ★ 4.937
+- ★ 5.067
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Actualizaciones
 
+- **8 de octubre de 2026:** Estrellas 4,937 → 5,067, última versión v0.6.2 (7 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 4,817 → 4,937, última versión v0.6.1 (1 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 4,630 → 4,817, última versión v0.6.0 (26 de septiembre de 2026).
 - **15 de septiembre de 2026:** Estrellas 4,521 → 4,630, última versión v0.5.0 (15 de septiembre de 2026).
-- **6 de septiembre de 2026:** Estrellas 4,405 → 4,521, última versión v0.4.1 (5 de septiembre de 2026).
 
 ## Qué aporta
 

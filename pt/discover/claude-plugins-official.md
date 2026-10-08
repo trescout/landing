@@ -2,12 +2,13 @@
 
 A Anthropic oferece um diretório oficial que coleta plugins de alta qualidade desenvolvidos para Claude Code em um único centro. Essa estrutura baseada em Python permite que os desenvolvedores compartilhem e descubram ferramentas preparadas para assistentes de codificação em um formato padrão.
 
-- ★ 35.717
+- ★ 37.531
 - Python
 - GitHub Trending · 2026-06-24
 
 ## Atualizações
 
+- **8 de outubro de 2026:** Estrelas 35,717 → 37,531.
 - **31 de agosto de 2026:** Estrelas 32,968 → 35,717.
 - **2 de agosto de 2026:** Estrelas 30,960 → 32,968.
 

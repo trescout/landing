@@ -2,11 +2,12 @@
 
 Awesome-artificial-intelligence est une liste de ressources complète qui rassemble des formations, des livres, des cours vidéo et des articles académiques dans le domaine de l'intelligence artificielle. Cette collection fournit un référentiel de contenu structuré par discipline pour les utilisateurs en cours d'apprentissage.
 
-- ★ 15 631
+- ★ 16 633
 - GitHub Trending · 2026-06-19
 
 ## Mises à jour
 
+- **8 octobre 2026:** Étoiles 15,631 → 16,633.
 - **2 août 2026:** Étoiles 14,532 → 15,631.
 
 ## Ce que ça vous apporte

@@ -2,11 +2,12 @@
 
 Awesome-artificial-intelligence is a comprehensive resource list that brings together trainings, books, video lessons and academic articles in the field of artificial intelligence. This collection provides a discipline-based structured content repository for users in the learning process.
 
-- ★ 15,631
+- ★ 16,633
 - GitHub Trending · 2026-06-19
 
 ## Updates
 
+- **October 8, 2026:** Stars 15,631 → 16,633.
 - **August 2, 2026:** Stars 14,532 → 15,631.
 
 ## What you get

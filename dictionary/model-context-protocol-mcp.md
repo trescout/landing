@@ -49,8 +49,8 @@ Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan son
 - [Openclaude](https://trescout.com/discover/openclaude/)
 - [Fastmcp](https://trescout.com/discover/fastmcp/)
 - [Context Mode](https://trescout.com/discover/context-mode/)
-- [Unity MCP](https://trescout.com/discover/unity-mcp/)
 - [REA](https://trescout.com/discover/rea/)
+- [Unity MCP](https://trescout.com/discover/unity-mcp/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

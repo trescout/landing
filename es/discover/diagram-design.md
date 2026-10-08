@@ -2,16 +2,16 @@
 
 El diseño de diagramas, desarrollado por Cathryn Lavery, incluye 29 tipos de diagramas editoriales diferentes preparados para la herramienta de codificación basada en inteligencia artificial Claude Code. Esta biblioteca presenta de forma clara diagramas complejos directamente utilizando HTML y gráficos vectoriales escalables (SVG) en lugar de herramientas de diagramación estándar.
 
-- ★ 42.493
+- ★ 45.611
 - HTML
 - GitHub Trending · 2026-08-13
 
 ## Actualizaciones
 
+- **8 de octubre de 2026:** Estrellas 42,493 → 45,611.
 - **27 de septiembre de 2026:** Estrellas 40,046 → 42,493.
 - **15 de septiembre de 2026:** Estrellas 38,136 → 40,046.
 - **11 de septiembre de 2026:** Estrellas 35,747 → 38,136.
-- **9 de septiembre de 2026:** Estrellas 32,934 → 35,747.
 
 ## Qué aporta
 

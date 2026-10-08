@@ -39,8 +39,8 @@ Genellikle bir tarayıcı içinde veya bir çevirici katman aracılığıyla ça
 
 ## İlgili araçlar
 
-- [Meshery](https://trescout.com/discover/meshery/)
 - [REA](https://trescout.com/discover/rea/)
+- [Meshery](https://trescout.com/discover/meshery/)
 - [Tinycast](https://trescout.com/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/discover/stitch-skills/)
 - [Agent Native](https://trescout.com/discover/agent-native/)

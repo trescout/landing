@@ -2,16 +2,16 @@
 
 Um framework de nova geração baseado em TypeScript que automatiza processos de teste de ponta a ponta (end-to-end testing) para aplicativos web e móveis. Permite que os desenvolvedores validem rapidamente as interfaces de aplicativos em diferentes plataformas.
 
-- ★ 6.873
+- ★ 8.012
 - TypeScript
 - GitHub Trending · 2026-10-05
 
 ## Atualizações
 
+- **8 de outubro de 2026:** Estrelas 6,873 → 8,012, versão mais recente @e2e-dev/kernel@0.2.0 (6 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 5,716 → 6,873, versão mais recente @e2e-dev/kernel@0.2.0 (6 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 5,508 → 5,716, versão mais recente @e2e-dev/kernel@0.2.0 (6 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 3,786 → 5,508, versão mais recente @e2e-dev/web@0.12.0 (4 de outubro de 2026).
-- **5 de outubro de 2026:** Estrelas 3,771 → 3,786, versão mais recente @e2e-dev/web@0.12.0 (4 de outubro de 2026).
 
 ## O que você ganha
 

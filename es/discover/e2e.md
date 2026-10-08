@@ -2,16 +2,16 @@
 
 Un marco de trabajo (framework) de nueva generación basado en TypeScript que automatiza los procesos de pruebas de extremo a extremo (end-to-end testing) para aplicaciones web y móviles. Permite a los desarrolladores verificar rápidamente las interfaces de usuario de las aplicaciones en diferentes plataformas.
 
-- ★ 6.873
+- ★ 8.012
 - TypeScript
 - GitHub Trending · 2026-10-05
 
 ## Actualizaciones
 
+- **8 de octubre de 2026:** Estrellas 6,873 → 8,012, última versión @e2e-dev/kernel@0.2.0 (6 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 5,716 → 6,873, última versión @e2e-dev/kernel@0.2.0 (6 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 5,508 → 5,716, última versión @e2e-dev/kernel@0.2.0 (6 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 3,786 → 5,508, última versión @e2e-dev/web@0.12.0 (4 de octubre de 2026).
-- **5 de octubre de 2026:** Estrellas 3,771 → 3,786, última versión @e2e-dev/web@0.12.0 (4 de octubre de 2026).
 
 ## Qué aporta
 

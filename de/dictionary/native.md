@@ -39,8 +39,8 @@ Sie laufen in der Regel innerhalb eines Browsers oder über eine Übersetzungssc
 
 ## Verwandte Werkzeuge
 
-- [Meshery](https://trescout.com/de/discover/meshery/)
 - [REA](https://trescout.com/de/discover/rea/)
+- [Meshery](https://trescout.com/de/discover/meshery/)
 - [Tinycast](https://trescout.com/de/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/de/discover/stitch-skills/)
 - [Agent Native](https://trescout.com/de/discover/agent-native/)

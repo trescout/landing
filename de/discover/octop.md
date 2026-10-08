@@ -2,16 +2,16 @@
 
 Octop, entwickelt von TencentCloud, ist ein Multi-User- und Multi-Agenten-KI-Assistent, den Sie auf Ihrem eigenen Server hosten können. Dieses Python-basierte System ermöglicht es verschiedenen Benutzern, gleichzeitig mit mehreren KI-Agenten zu interagieren.
 
-- ★ 6.829
+- ★ 7.930
 - Python
 - GitHub Trending · 2026-09-18
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 6,829 → 7,930, neueste Version v1.0.2b6 (4. Oktober 2026).
 - **5. Oktober 2026:** Sterne 6,668 → 6,829, neueste Version v1.0.2b6 (4. Oktober 2026).
 - **4. Oktober 2026:** Sterne 5,663 → 6,668, neueste Version v1.0.2b5 (29. September 2026).
 - **29. September 2026:** Sterne 5,435 → 5,663, neueste Version v1.0.2b5 (29. September 2026).
-- **28. September 2026:** Sterne 5,205 → 5,435, neueste Version v1.0.2b4 (27. September 2026).
 
 ## Was es bringt
 

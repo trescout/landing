@@ -9046,5 +9046,57 @@
     "kisa_pt": "São as definições de habilidades nas quais agentes de software baseados em inteligência artificial se especializam em etapas de desenvolvimento de software, como escrever código, encontrar erros, testar e implantar o projeto.",
     "kisa_es": "Son las definiciones de habilidades en las que los agentes de software basados en inteligencia artificial se especializan en pasos de desarrollo de software como escribir código, depurar, probar y desplegar proyectos.",
     "kisa_de": "Fähigkeitsdefinitionen, bei denen sich KI-basierte Software-Agenten auf Schritte der Softwareentwicklung wie das Schreiben von Code, das Finden von Fehlern, das Testen und das Bereitstellen von Projekten spezialisieren."
+  },
+  {
+    "slug": "factory-droid",
+    "en": "Factory Droid",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Üretim hatlarında görev yapan, belirli işleri tekrarlamak üzere tasarlanmış otomasyon robotları.",
+    "date": "2026-10-08",
+    "kisa_en": "Automation robots operating on production lines, designed to repeat specific tasks.",
+    "kisa_fr": "Des robots d'automatisation travaillant sur les lignes de production et conçus pour répéter des tâches spécifiques.",
+    "kisa_pt": "Robôs de automação que operam nas linhas de produção, projetados para repetir tarefas específicas.",
+    "kisa_es": "Robots de automatización que operan en líneas de producción, diseñados para repetir tareas específicas.",
+    "kisa_de": "Automatisierungsroboter, die an Produktionslinien eingesetzt werden und darauf ausgelegt sind, bestimmte Aufgaben zu wiederholen."
+  },
+  {
+    "slug": "crafting-engine",
+    "en": "Crafting Engine",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Oyunlarda veya sistemlerde farklı malzemeleri birleştirerek yeni eşyalar üretilmesini sağlayan temel mekanizma.",
+    "date": "2026-10-08",
+    "kisa_en": "The core mechanism that allows players or users to craft new items by combining different materials in games or systems.",
+    "kisa_fr": "Le mécanisme fondamental permettant de fabriquer de nouveaux objets en combinant différents matériaux dans des jeux ou des systèmes.",
+    "kisa_pt": "Mecanismo fundamental que permite criar novos itens combinando diferentes materiais em jogos ou sistemas.",
+    "kisa_es": "Mecanismo básico que permite fabricar nuevos objetos combinando diferentes materiales en juegos o sistemas.",
+    "kisa_de": "Der grundlegende Mechanismus, der es ermöglicht, in Spielen oder Systemen verschiedene Materialien zu kombinieren, um neue Gegenstände herzustellen."
+  },
+  {
+    "slug": "preprints",
+    "en": "Preprints",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Henüz bilimsel bir değerlendirmeden geçmemiş, araştırmacıların sonuçlarını hızlıca paylaşmak için yayınladığı taslak çalışmalar.",
+    "date": "2026-10-08",
+    "kisa_en": "Draft studies published by researchers to share their results quickly, which have not yet undergone scientific peer review.",
+    "kisa_fr": "Des travaux préliminaires n'ayant pas encore fait l'objet d'une évaluation scientifique, publiés par des chercheurs pour partager rapidement leurs résultats.",
+    "kisa_pt": "Trabalhos preliminares publicados por pesquisadores para compartilhar rapidamente seus resultados, que ainda não passaram por avaliação científica.",
+    "kisa_es": "Borradores de investigación que aún no han pasado por una evaluación científica y que los investigadores publican para compartir sus resultados rápidamente.",
+    "kisa_de": "Entwürfe von Studien, die noch keiner wissenschaftlichen Bewertung unterzogen wurden und von Forschern veröffentlicht werden, um ihre Ergebnisse schnell zu teilen."
+  },
+  {
+    "slug": "intelligent-ui",
+    "en": "Intelligent UI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcının alışkanlıklarını öğrenerek ona göre şekil alan ve işleri kolaylaştıran akıllı arayüz.",
+    "date": "2026-10-08",
+    "kisa_en": "A smart interface that learns user habits, adapts accordingly, and simplifies tasks.",
+    "kisa_fr": "Une interface intelligente qui apprend les habitudes de l'utilisateur pour s'adapter en conséquence et faciliter les tâches.",
+    "kisa_pt": "Interface inteligente que aprende os hábitos do usuário, moldando-se de acordo com eles e facilitando as tarefas.",
+    "kisa_es": "Interfaz inteligente que aprende los hábitos del usuario para adaptarse a ellos y facilitar las tareas.",
+    "kisa_de": "Eine intelligente Benutzeroberfläche, die die Gewohnheiten des Benutzers lernt, sich entsprechend anpasst und Aufgaben erleichtert."
   }
 ]

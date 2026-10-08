@@ -2,16 +2,16 @@
 
 AutoGPT, karmaşık görevleri kendi başına planlayıp yürütebilen otonom yapay zekâ ajanları (autonomous AI agents) oluşturmayı sağlayan açık kaynaklı bir Python projesidir. Kullanıcıların belirlediği hedeflere ulaşmak için internette arama yapma ve dosya yönetimi gibi işlemleri otomatikleştirerek yapay zekâ erişimini kolaylaştırır.
 
-- ★ 187.620
+- ★ 187.697
 - Python
 - GitHub Trending · 2026-08-07
 
 ## Güncelleme
 
+- **8 Ekim 2026:** Yıldız 187.620 → 187.697, son sürüm autogpt-platform-beta-v0.8.3 (8 Ekim 2026).
 - **30 Eylül 2026:** Yıldız 187.583 → 187.620, son sürüm autogpt-platform-beta-v0.8.2 (30 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 187.441 → 187.583, son sürüm autogpt-platform-beta-v0.8.1 (24 Eylül 2026).
 - **19 Eylül 2026:** Yıldız 187.139 → 187.441, son sürüm autogpt-platform-beta-v0.8.0 (19 Eylül 2026).
-- **5 Eylül 2026:** Yıldız 187.033 → 187.139, son sürüm autogpt-platform-beta-v0.7.4 (4 Eylül 2026).
 
 ## Ne kazandırır?
 

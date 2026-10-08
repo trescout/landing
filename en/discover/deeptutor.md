@@ -2,16 +2,16 @@
 
 DeepTutor is a lifelong learning-based private tutoring system that offers personalized education processes using student data. The project aims to optimize the learning experience with artificial intelligence-supported individualized tutoring methods.
 
-- ★ 40,808
+- ★ 40,928
 - Python
 - GitHub Trending · 2026-07-16
 
 ## Updates
 
+- **October 8, 2026:** Stars 40,808 → 40,928, latest release v1.6.14 (October 8, 2026).
 - **October 5, 2026:** Stars 40,358 → 40,808, latest release v1.6.13 (October 4, 2026).
 - **September 27, 2026:** Stars 40,334 → 40,358, latest release v1.6.12 (September 27, 2026).
 - **September 27, 2026:** Stars 39,561 → 40,334, latest release v1.6.11 (September 24, 2026).
-- **September 14, 2026:** Stars 39,283 → 39,561, latest release v1.6.8 (September 14, 2026).
 
 ## What you get
 

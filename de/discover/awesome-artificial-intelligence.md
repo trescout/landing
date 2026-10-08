@@ -2,11 +2,12 @@
 
 Awesome-Artificial-Intelligence ist eine umfassende Ressourcenliste, die Schulungen, Bücher, Videolektionen und wissenschaftliche Artikel im Bereich der künstlichen Intelligenz zusammenfasst. Diese Sammlung bietet Benutzern im Lernprozess ein disziplinbasiertes strukturiertes Inhaltsrepository.
 
-- ★ 15.631
+- ★ 16.633
 - GitHub Trending · 2026-06-19
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 15,631 → 16,633.
 - **2. August 2026:** Sterne 14,532 → 15,631.
 
 ## Was es bringt

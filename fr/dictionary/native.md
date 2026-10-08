@@ -39,8 +39,8 @@ Elles fonctionnent généralement à l'intérieur d'un navigateur ou via une cou
 
 ## Outils liés
 
-- [Meshery](https://trescout.com/fr/discover/meshery/)
 - [REA](https://trescout.com/fr/discover/rea/)
+- [Meshery](https://trescout.com/fr/discover/meshery/)
 - [Tinycast](https://trescout.com/fr/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/fr/discover/stitch-skills/)
 - [Agent Native](https://trescout.com/fr/discover/agent-native/)

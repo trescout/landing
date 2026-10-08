@@ -2,16 +2,16 @@
 
 OpenClaw bietet über den Windows-Knoten, die Taskleistenanwendung, die gemeinsam genutzte Bibliothek und die PowerToys-Befehlspalettenerweiterung eine integrierte Verwaltungssuite für das Windows-Betriebssystem. Dieses in der Sprache C# entwickelte Tool zielt darauf ab, den Zugriff auf Systemressourcen und Benutzerworkflows zu standardisieren.
 
-- ★ 2.114
+- ★ 2.139
 - C#
 - GitHub Trending · 2026-06-05
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 2,114 → 2,139, neueste Version v2026.9.8-1 (7. Oktober 2026).
 - **15. September 2026:** Sterne 2,106 → 2,114, neueste Version v2026.9.4 (15. September 2026).
 - **12. September 2026:** Sterne 2,088 → 2,106, neueste Version v2026.9.3 (12. September 2026).
 - **4. September 2026:** Sterne 2,085 → 2,088, neueste Version v2026.7.1-4 (3. September 2026).
-- **3. September 2026:** Sterne 2,079 → 2,085, neueste Version v2026.7.1-3 (3. September 2026).
 
 ## Was es bringt
 

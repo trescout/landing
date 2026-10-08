@@ -2,16 +2,16 @@
 
 Folia-major est une interface de lecteur qui fournit des animations de paroles visualisées pour les fichiers musicaux locaux et les plateformes en ligne. Développé avec TypeScript, cet outil vise à enrichir l'expérience d'écoute musicale avec des effets visuels dynamiques.
 
-- ★ 3 516
+- ★ 3 872
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Mises à jour
 
+- **8 octobre 2026:** Étoiles 3,516 → 3,872, dernière version v0.7.15 (7 octobre 2026).
 - **5 octobre 2026:** Étoiles 3,249 → 3,516, dernière version v0.7.13 (4 octobre 2026).
 - **2 octobre 2026:** Étoiles 3,191 → 3,249, dernière version v0.7.12 (1 octobre 2026).
 - **29 septembre 2026:** Étoiles 3,095 → 3,191, dernière version v0.7.11 (29 septembre 2026).
-- **27 septembre 2026:** Étoiles 2,224 → 3,095, dernière version v0.7.9 (26 septembre 2026).
 
 ## Ce que ça vous apporte
 

@@ -2,12 +2,13 @@
 
 Yoinks, uçbirim (terminal) üzerinden herhangi bir videoyu reklam veya yönlendirme olmadan indirmeye yarayan bir araçtır. TypeScript ile geliştirilen bu yazılım, video dosyalarını doğrudan yerel depolama birimine aktarmak için pratik bir yöntem sunar.
 
-- ★ 4.173
+- ★ 5.271
 - TypeScript
 - GitHub Trending · 2026-10-02
 
 ## Güncelleme
 
+- **8 Ekim 2026:** Yıldız 4.173 → 5.271.
 - **4 Ekim 2026:** Yıldız 3.165 → 4.173.
 
 ## Ne kazandırır?

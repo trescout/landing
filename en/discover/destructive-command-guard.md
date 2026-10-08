@@ -2,16 +2,16 @@
 
 Destructive Command Guard is a security layer developed to prevent dangerous git and shell commands run by artificial intelligence agents. Written in Rust, this tool reduces the risks of unwanted data loss or system damage by auditing command execution processes at the system level.
 
-- ★ 6,074
+- ★ 6,114
 - Rust
 - GitHub Trending · 2026-07-13
 
 ## Updates
 
+- **October 8, 2026:** Stars 6,074 → 6,114, latest release v0.15.3 (October 8, 2026).
 - **October 1, 2026:** Stars 6,072 → 6,074, latest release v0.15.2 (October 1, 2026).
 - **September 29, 2026:** Stars 6,070 → 6,072, latest release v0.15.1 (September 29, 2026).
 - **September 29, 2026:** Stars 5,991 → 6,070, latest release v0.15.0 (September 29, 2026).
-- **September 16, 2026:** Stars 5,953 → 5,991, latest release v0.14.4 (September 16, 2026).
 
 ## What you get
 

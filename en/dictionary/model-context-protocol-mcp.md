@@ -49,8 +49,8 @@ Some technical knowledge may be required during the installation phase, but once
 - [Openclaude](https://trescout.com/en/discover/openclaude/)
 - [Fastmcp](https://trescout.com/en/discover/fastmcp/)
 - [Context Mode](https://trescout.com/en/discover/context-mode/)
-- [Unity MCP](https://trescout.com/en/discover/unity-mcp/)
 - [REA](https://trescout.com/en/discover/rea/)
+- [Unity MCP](https://trescout.com/en/discover/unity-mcp/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/model-context-protocol-mcp/)
 

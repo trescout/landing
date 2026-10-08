@@ -39,8 +39,8 @@ They generally run within a browser or through a translation layer, which can so
 
 ## Related tools
 
-- [Meshery](https://trescout.com/en/discover/meshery/)
 - [REA](https://trescout.com/en/discover/rea/)
+- [Meshery](https://trescout.com/en/discover/meshery/)
 - [Tinycast](https://trescout.com/en/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/en/discover/stitch-skills/)
 - [Agent Native](https://trescout.com/en/discover/agent-native/)

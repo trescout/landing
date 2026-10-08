@@ -2,16 +2,16 @@
 
 AI-Infra-Guard is an end-to-end AI red team platform that scans agents, skills, MCP, and AI infrastructure, as well as performs LLM jailbreak assessments.
 
-- ★ 6,650
+- ★ 6,788
 - Python
 - GitHub Trending · 2026-08-20
 
 ## Updates
 
+- **October 8, 2026:** Stars 6,650 → 6,788, latest release v4.6.5 (October 8, 2026).
 - **October 1, 2026:** Stars 6,595 → 6,650, latest release v4.6.4 (October 1, 2026).
 - **September 27, 2026:** Stars 6,405 → 6,595, latest release v4.6.3 (September 24, 2026).
 - **September 17, 2026:** Stars 6,219 → 6,405, latest release v4.6.2 (September 17, 2026).
-- **September 10, 2026:** Stars 5,995 → 6,219, latest release v4.6.1 (September 10, 2026).
 
 ## What you get
 

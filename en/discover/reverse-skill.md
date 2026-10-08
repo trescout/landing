@@ -2,16 +2,16 @@
 
 Reverse-skill offers an artificial intelligence-supported routing package for reverse engineering and penetration testing processes. With its toolchain bootstrapping and self-developing knowledge base features, Claude Code integrates with coding tools such as Cursor and Cline.
 
-- ★ 38,272
+- ★ 40,187
 - PowerShell
 - GitHub Trending · 2026-08-01
 
 ## Updates
 
+- **October 8, 2026:** Stars 38,272 → 40,187, latest release v1.0.1 (August 8, 2026).
 - **September 27, 2026:** Stars 36,401 → 38,272, latest release v1.0.1 (August 8, 2026).
 - **September 18, 2026:** Stars 34,619 → 36,401, latest release v1.0.1 (August 8, 2026).
 - **September 5, 2026:** Stars 32,936 → 34,619, latest release v1.0.1 (August 8, 2026).
-- **August 31, 2026:** Stars 29,799 → 32,936, latest release v1.0.1 (August 8, 2026).
 
 ## What you get
 

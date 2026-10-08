@@ -2,16 +2,16 @@
 
 Open Science, desarrollado por AIPOCH, ofrece un entorno de trabajo de inteligencia artificial de tipo local-first y agnóstico al modelo para la investigación científica. El software combina cuadernos de Python y R con conexiones de datos, permitiendo que los procesos científicos se lleven a cabo de manera reproducible.
 
-- ★ 5.424
+- ★ 5.488
 - TypeScript
 - GitHub Trending · 2026-09-07
 
 ## Actualizaciones
 
+- **8 de octubre de 2026:** Estrellas 5,424 → 5,488, última versión v0.36.0 (8 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 5,379 → 5,424, última versión v0.35.1 (6 de octubre de 2026).
 - **4 de octubre de 2026:** Estrellas 5,338 → 5,379, última versión v0.35.0 (4 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 5,285 → 5,338, última versión v0.34.1 (1 de octubre de 2026).
-- **29 de septiembre de 2026:** Estrellas 4,945 → 5,285, última versión v0.34.0 (28 de septiembre de 2026).
 
 ## Qué aporta
 

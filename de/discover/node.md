@@ -2,7 +2,7 @@
 
 Node.js bietet eine Laufzeitumgebung, die die Ausführung von JavaScript-Code außerhalb des Browsers ermöglicht. Diese auf der V8-Engine basierende Plattform dient der serverseitigen Entwicklung skalierbarer Netzwerkanwendungen.
 
-- ★ 122.128
+- ★ 122.434
 - JavaScript
 - GitHub Trending · 2026-07-27
 
@@ -10,10 +10,10 @@ Node.js bietet eine Laufzeitumgebung, die die Ausführung von JavaScript-Code au
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 122,128 → 122,434, neueste Version v26.11.1 (7. Oktober 2026).
 - **27. September 2026:** Sterne 121,978 → 122,128, neueste Version v26.10.0 (22. September 2026).
 - **17. September 2026:** Sterne 121,155 → 121,978, neueste Version v26.9.0 (16. September 2026).
 - **10. September 2026:** Sterne 119,640 → 121,155, neueste Version v26.8.2 (9. September 2026).
-- **27. August 2026:** Sterne 118,797 → 119,640, neueste Version v26.8.1 (26. August 2026).
 
 ## Was es bringt
 

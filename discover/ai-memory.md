@@ -2,16 +2,16 @@
 
 Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor. Farklı ajan sağlayıcıları arasında veri aktarımını kolaylaştırarak yazılım geliştirme süreçlerinde kullanılan komut satırı arayüzlerinin (CLI) sürekliliğini destekliyor.
 
-- ★ 8.900
+- ★ 9.021
 - Rust
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
 
+- **8 Ekim 2026:** Yıldız 8.900 → 9.021, son sürüm v2.6.1 (8 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 8.683 → 8.900, son sürüm v2.6.0 (7 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 8.679 → 8.683, son sürüm v2.5.2 (1 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 8.638 → 8.679, son sürüm v2.5.0 (30 Eylül 2026).
-- **29 Eylül 2026:** Yıldız 8.465 → 8.638, son sürüm v2.4.2 (29 Eylül 2026).
 
 ## Ne kazandırır?
 

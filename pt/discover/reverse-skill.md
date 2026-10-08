@@ -2,16 +2,16 @@
 
 Reverse-skill oferece um pacote de roteamento apoiado por inteligência artificial para processos de engenharia reversa e testes de penetração. Com sua inicialização do conjunto de ferramentas e recursos de base de conhecimento de autodesenvolvimento, Claude Code se integra a ferramentas de codificação como Cursor e Cline.
 
-- ★ 38.272
+- ★ 40.187
 - PowerShell
 - GitHub Trending · 2026-08-01
 
 ## Atualizações
 
+- **8 de outubro de 2026:** Estrelas 38,272 → 40,187, versão mais recente v1.0.1 (8 de agosto de 2026).
 - **27 de setembro de 2026:** Estrelas 36,401 → 38,272, versão mais recente v1.0.1 (8 de agosto de 2026).
 - **18 de setembro de 2026:** Estrelas 34,619 → 36,401, versão mais recente v1.0.1 (8 de agosto de 2026).
 - **5 de setembro de 2026:** Estrelas 32,936 → 34,619, versão mais recente v1.0.1 (8 de agosto de 2026).
-- **31 de agosto de 2026:** Estrelas 29,799 → 32,936, versão mais recente v1.0.1 (8 de agosto de 2026).
 
 ## O que você ganha
 

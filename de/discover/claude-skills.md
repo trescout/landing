@@ -2,16 +2,16 @@
 
 Diese Bibliothek wurde für Claude Code und verschiedene Programmieragenten entwickelt und bietet mehr als 330 Kompetenzpakete und über 70 Spezialbefehle in verschiedenen Bereichen von der Technik bis zum Marketing. Dieses Python-basierte Toolset bietet anpassbare Skripte, um KI-basierte Arbeitsabläufe zu standardisieren und die Produktivität zu steigern.
 
-- ★ 26.514
+- ★ 27.840
 - Python
 - GitHub Trending · 2026-07-05
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 26,514 → 27,840, neueste Version v2.12.0 (25. August 2026).
 - **27. September 2026:** Sterne 25,061 → 26,514, neueste Version v2.12.0 (25. August 2026).
 - **27. August 2026:** Sterne 24,867 → 25,061, neueste Version v2.12.0 (25. August 2026).
 - **24. August 2026:** Sterne 23,654 → 24,867, neueste Version v2.9.0 (28. Mai 2026).
-- **2. August 2026:** Sterne 20,244 → 23,654, neueste Version v2.9.0 (28. Mai 2026).
 
 ## Was es bringt
 
