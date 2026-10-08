@@ -164,7 +164,7 @@ targetDates.forEach(dateStr => {
       
       <div style="margin: 24px 0; padding: 18px; background: rgba(95, 168, 211, .08); border-left: 4px solid var(--accent); border-radius: 0 12px 12px 0;">
         <p style="margin: 0; font-size: 16.5px; line-height: 1.6; color: var(--ink);">
-          Daily technology intelligence compilation for ${enDateFormatted}. Covering featured developer tools, open-source repositories, and AI research papers across GitHub, Hacker News, HuggingFace, and Lobsters.
+          Daily technology intelligence compilation for ${enDateFormatted}. Covering featured developer tools, open-source repositories, and AI research papers across GitHub, Hacker News, and HuggingFace.
         </p>
       </div>
 

@@ -9,7 +9,7 @@ Teknoloji takibinde iki farklı yaklaşım vardır. Birincisi, kaynakları ve ha
 
 | Özellik | Manuel takip | TreScout Teknoloji Radarı |
 | :--- | :--- | :--- |
-| **Kaynak kapsamı** | Seçtiğiniz kaynakları siz tek tek gezersiniz | GitHub Trending, Hacker News, Hugging Face model ve günlük makale akışları, Lobsters ve sürüm notlarından seçki |
+| **Kaynak kapsamı** | Seçtiğiniz kaynakları siz tek tek gezersiniz | GitHub Trending, Hacker News, Hugging Face model ve günlük makale akışları ve sürüm notlarından seçki |
 | **Günlük okuma süresi** | Takip ettiğiniz kaynakların hacmine göre değişir | Raporun kelime hacminden hesaplanan yaklaşık okuma süresi |
 | **Tekrar yönetimi** | Kendi filtrelerinize bağlıdır | Son 30 gündeki normal raporlarda yer alan kayıtlar tekrarsız raporda yeniden gösterilmez |
 | **Erişim biçimi** | Ham bağlantılar ve ayrı sayfalar | Web arşivi, kaynak bağlantıları ve PDF rapor |
@@ -36,7 +36,7 @@ Normal raporlarda son 30 gün içinde yer alan URL’ler, tekrarsız raporun ada
 
 ## 4. Kaynak ve bağlam
 
-TreScout arşivi, günün seçkisini kaynak grupları altında gösterir. Kullanıcı, kaydın özetini okuduktan sonra doğrudan GitHub deposuna, Hacker News tartışmasına, Hugging Face model veya makale sayfasına, Lobsters tartışmasına ya da ilgili sürüm kaynağına geçebilir.
+TreScout arşivi, günün seçkisini kaynak grupları altında gösterir. Kullanıcı, kaydın özetini okuduktan sonra doğrudan GitHub deposuna, Hacker News tartışmasına, Hugging Face model veya makale sayfasına ya da ilgili sürüm kaynağına geçebilir.
 
 Raporlarda geçen teknik terimler sözlük bölümüyle açıklanır. Ayrıntılı keşif sayfaları ise özellikle araçların kullanım amacı, resmi kaynakları ve dikkat edilmesi gereken noktaları için ikinci bir okuma katmanı sağlar.
 
