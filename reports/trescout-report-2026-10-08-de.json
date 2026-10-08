@@ -1,0 +1,854 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-08",
+  "capturedAt": "2026-10-08T11:23:33.342Z",
+  "editorial": "Heute zollt die Softwarewelt mit dem Verlust von Pionieren wie Margaret Hamilton der Vergangenheit Respekt und konzentriert sich gleichzeitig auf Fortschritte bei Modellen für mathematisches Schlussfolgern (mathematical reasoning). Auf GitHub und HuggingFace bilden Bildsynthese (image synthesis) und Systemsicherheitstools die Hauptagenda der Entwickler.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 ist ein Tool, das PlayStation 5-ausführbare Dateien (executables) automatisch auf Linux- und Windows-Betriebssysteme portiert. Diese in C++ entwickelte Software erleichtert die notwendigen Konvertierungsprozesse, damit konsolenspezifische Spiele auf verschiedenen Plattformen ausgeführt werden können.",
+          "meta": "C++ · ★ 12.680 · +4.640 heute",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 12680,
+              "engagementCount": 4640,
+              "rank": 1,
+              "extra": {
+                "starsToday": 4640
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design bietet 42 verschiedene Arten von Diagrammen auf Basis skalierbarer Vektorgrafiken (SVG), die schattenfrei sind und zur Visualisierung komplexer Softwareprozesse erstellt wurden. Diese HTML-basierte Bibliothek, die entwickelt wurde, um die Funktionsweise von Tools wie Code-Assistenten (GitHub Copilot, Claude Code) und autonomen Systemen (Factory Droid) zu erklären, läuft direkt im Browser, ohne dass externe Abhängigkeiten erforderlich sind.",
+          "meta": "HTML · ★ 45.555 · +1.163 heute",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 45555,
+              "engagementCount": 1163,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1163
+              }
+            }
+          }
+        },
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea ist ein Reverse-Engineering-Tool, das alles von Anwendungsverhalten bis hin zu nativen Binärdateien (native binaries) mithilfe von KI-Agenten analysiert. Dieses in TypeScript entwickelte System nutzt Automatisierungsprozesse, um komplexe Softwarestrukturen zu untersuchen.",
+          "meta": "TypeScript · ★ 19.088 · +7.744 heute",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 19088,
+              "engagementCount": 7744,
+              "rank": 3,
+              "extra": {
+                "starsToday": 7744
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Skills, geteilt von Matt Pocock, enthält Sammlungen maßgeschneiderter Fähigkeiten (skills), die Softwareingenieure für KI-Agenten verwenden. Dieses Repository stellt strukturierte Befehlssätze und Tools zur Verfügung, die Entwickler benötigen, um ihre eigenen Agenten funktionaler zu gestalten.",
+          "meta": "Shell · ★ 280.486 · +1.770 heute",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 280486,
+              "engagementCount": 1770,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1770
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Claude-mem ist ein Tool, das es KI-Agenten ermöglicht, einen persistenten Kontext (persistent context) zwischen Sitzungen beizubehalten. Es komprimiert vergangene Interaktionen mit der KI und stellt relevante Informationen für zukünftige Aufgaben automatisch wieder her.",
+          "meta": "TypeScript · ★ 98.035 · +662 heute",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 98035,
+              "engagementCount": 662,
+              "rank": 5,
+              "extra": {
+                "starsToday": 662
+              }
+            }
+          }
+        },
+        {
+          "title": "EpicGames/raddebugger",
+          "url": "https://github.com/EpicGames/raddebugger",
+          "summary": "Der von Epic Games entwickelte raddebugger ist ein in C geschriebener nativer und grafischer Debugger. Die Software unterstützt Multi-Prozess-Debugging und hilft dabei, Fehler in Anwendungen zu finden, die im Benutzermodus ausgeführt werden.",
+          "meta": "C · ★ 7.978 · +283 heute",
+          "snapshot": {
+            "sourceId": "EpicGames/raddebugger",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 7978,
+              "engagementCount": 283,
+              "rank": 6,
+              "extra": {
+                "starsToday": 283
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Anthropic hat ein Repository mit Open-Source-Plugins veröffentlicht, die Wissensarbeiter für den KI-Assistenten Claude (ein generatives KI-Tool) verwenden können. Diese Python-basierten Tools zielen darauf ab, komplexe Geschäftsprozesse zu automatisieren und digitale Arbeitsabläufe zu beschleunigen.",
+          "meta": "Python · ★ 27.253 · +766 heute",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 27253,
+              "engagementCount": 766,
+              "rank": 7,
+              "extra": {
+                "starsToday": 766
+              }
+            }
+          }
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft ist eine Content-Produktions-Engine (crafting engine), die für Künstler und Designer entwickelt wurde. Dieses in Rust geschriebene Tool automatisiert komplexe Arbeitsabläufe in kreativen Prozessen und standardisiert visuelle Produktionsabläufe.",
+          "meta": "Rust · ★ 5.919 · +1.465 heute",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5919,
+              "engagementCount": 1465,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1465
+              }
+            }
+          }
+        },
+        {
+          "title": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "summary": "Die Notizen aus dem Buch System Design Interview, einem Vorbereitungsleitfaden für Systemdesign-Interviews, fassen die grundlegenden Konzepte für den Aufbau skalierbarer Softwarearchitekturen zusammen. Für diejenigen, die die Designprozesse komplexer Systeme verstehen möchten, verbindet es theoretisches Wissen mit praktischen Anwendungsbeispielen.",
+          "meta": "★ 24.166 · +398 heute",
+          "snapshot": {
+            "sourceId": "liquidslr/system-design-notes",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "popularity": 24166,
+              "engagementCount": 398,
+              "rank": 9,
+              "extra": {
+                "starsToday": 398
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Margaret Hamilton has died",
+          "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "summary": "Margaret Hamilton, die das Software-Engineering-Team von Apollo leitete und die Flugsoftware für die Mondlandemissionen entwickelte, ist im Alter von 100 Jahren verstorben. Als eine der Pionierinnen der modernen Software-Engineering-Disziplin hinterließ Hamilton mit ihrer Arbeit an Systemzuverlässigkeit und Fehlertoleranz einen bleibenden Eindruck in der Informatikwelt.",
+          "meta": "1.626 Punkte · 176 Kommentare",
+          "snapshot": {
+            "sourceId": "49998895",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 1626,
+              "engagementCount": 176,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49998895",
+                  "popularity": 1626,
+                  "engagementCount": 176
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who",
+                  "popularity": 120,
+                  "engagementCount": 3
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "muglug",
+                "createdAt": "2026-10-07T21:16:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49998895"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49998895",
+              "popularity": 1626,
+              "engagementCount": 176
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who",
+              "popularity": 120,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "summary": "OpenAI hat akademische Preprints und Forschungsdaten veröffentlicht, die darauf abzielen, die mathematischen Schlussfolgerungsfähigkeiten von KI-Modellen zu verbessern. Diese Arbeit zielt darauf ab, einen Standard-Bewertungsrahmen für KI-Systeme zu schaffen, die komplexe mathematische Probleme lösen können.",
+          "meta": "1.285 Punkte · 1.457 Kommentare",
+          "snapshot": {
+            "sourceId": "49984923",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 1285,
+              "engagementCount": 1457,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49984923",
+                  "popularity": 1285,
+                  "engagementCount": 1457
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "OfficialTurkey",
+                "createdAt": "2026-10-06T22:17:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49984923"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49984923",
+              "popularity": 1285,
+              "engagementCount": 1457
+            }
+          ]
+        },
+        {
+          "title": "Claude Haiku 5.5",
+          "url": "https://www.anthropic.com/claude-haiku-5-5",
+          "summary": "Das von Anthropic entwickelte Claude 3.5 Haiku ist ein KI-Modell, das auf schnelle Reaktionszeiten ausgelegt ist. Im Vergleich zu Modellen der vorherigen Generation zeigt es eine höhere Leistung bei komplexen Aufgaben wie dem Programmieren und logischen Denken.",
+          "meta": "904 Punkte · 435 Kommentare",
+          "snapshot": {
+            "sourceId": "49996437",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 904,
+              "engagementCount": 435,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49996437",
+                  "popularity": 904,
+                  "engagementCount": 435
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "sfkgtbor",
+                "createdAt": "2026-10-07T18:01:32Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49996437"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49996437",
+              "popularity": 904,
+              "engagementCount": 435
+            }
+          ]
+        },
+        {
+          "title": "GPT‑6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone/",
+          "summary": "OpenAI präsentiert eine neue Vision für die Benutzererfahrung (intelligent UI), bei der KI-Modelle in Schnittstellen integriert werden. Dieser Ansatz zielt darauf ab, komplexe Software durch intelligente Schnittstellen zu ersetzen, die mit Befehlen in natürlicher Sprache arbeiten und Aktionen im Namen des Benutzers ausführen.",
+          "meta": "657 Punkte · 364 Kommentare",
+          "snapshot": {
+            "sourceId": "49996425",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 657,
+              "engagementCount": 364,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49996425",
+                  "popularity": 657,
+                  "engagementCount": 364
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "joshuawright11",
+                "createdAt": "2026-10-07T18:00:58Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49996425"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49996425",
+              "popularity": 657,
+              "engagementCount": 364
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+          "url": "https://bigwords.page/",
+          "summary": "Bigwords.page ist ein browserbasiertes Tool, das jeden Bildschirm in eine digitale Anzeigetafel verwandelt. Benutzer können ihre Bildschirme in eine Nachrichtentafel verwandeln, indem sie den Text, den sie am Ende der Webadresse eingeben, im Vollbildmodus anzeigen.",
+          "meta": "528 Punkte · 142 Kommentare",
+          "snapshot": {
+            "sourceId": "49994443",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 528,
+              "engagementCount": 142,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49994443",
+                  "popularity": 528,
+                  "engagementCount": 142
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "SpeakingOfBrad",
+                "createdAt": "2026-10-07T15:44:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49994443"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49994443",
+              "popularity": 528,
+              "engagementCount": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "Das auf Hugging Face geteilte JEV-27B-VL ist ein multimodales KI-Modell, das Bilder und Texte als Eingabe akzeptiert und textbasierte Ausgaben generiert. Das Modell bietet die Fähigkeit, visuelle Daten zu analysieren und auf deren Grundlage textbasierte Antworten zu erstellen.",
+          "meta": "♥ 2.502 · 1.533.034 Downloads",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-08T11:23:33.520Z",
+            "metadata": {
+              "popularity": 2502,
+              "engagementCount": 1533034,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2081,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "decision-index",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "dataset:SargeDev/jev-distill-corpus-v3",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Clef, entwickelt von Cloudflare, ist ein multimodales KI-Modell, das visuelle und textuelle Eingaben verarbeitet, um Textausgaben zu erzeugen. Dieses Modell wurde entwickelt, um Bildinhalte zu analysieren und zu interpretieren, um textbasierte Aufgaben zu erfüllen.",
+          "meta": "♥ 1.859 · 10.874 Downloads",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-08T11:23:33.520Z",
+            "metadata": {
+              "popularity": 1859,
+              "engagementCount": 10874,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1659,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "autotrust/GEV-26B-Decide",
+          "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+          "summary": "Das auf Hugging Face veröffentlichte GEV-26B-Decide ist ein KI-Modell, das für Textklassifizierungsaufgaben optimiert wurde. Es zielt darauf ab, den Prozess der Analyse komplexer Textdaten und deren Einordnung in bestimmte Kategorien zu automatisieren.",
+          "meta": "♥ 1.591 · 903.866 Downloads",
+          "snapshot": {
+            "sourceId": "autotrust/GEV-26B-Decide",
+            "capturedAt": "2026-10-08T11:23:33.520Z",
+            "metadata": {
+              "popularity": 1591,
+              "engagementCount": 903866,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1352,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "gemma4",
+                  "image-text-to-text",
+                  "system-one",
+                  "system-two",
+                  "adaptive-thinking",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "lora",
+                  "mixture-of-experts",
+                  "multimodal",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "base_model:google/gemma-4-26B-A4B-it",
+                  "base_model:adapter:google/gemma-4-26B-A4B-it",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Das von Google entwickelte EmbeddingGemma-2 ist ein Feature-Extraction-Modell, das Texte in numerische Vektoren umwandelt. Dieses Modell ermöglicht es großen Sprachmodellen (LLMs), Aufgaben wie semantische Suche und Daten-Clustering mit höherer Genauigkeit auszuführen.",
+          "meta": "♥ 1.088 · 21.148 Downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-08T11:23:33.520Z",
+            "metadata": {
+              "popularity": 1088,
+              "engagementCount": 21148,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1058,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, entwickelt vom deutschen KI-Unternehmen Aleph-Alpha, ist ein auf Textgenerierung fokussiertes Sprachmodell. Dieses Modell bietet eine Struktur, die für die Verarbeitung komplexer Unternehmensdaten und die Ausführung auf natürlicher Sprache basierender Aufgaben optimiert ist.",
+          "meta": "♥ 796 · 6.777 Downloads",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-08T11:23:33.520Z",
+            "metadata": {
+              "popularity": 796,
+              "engagementCount": 6777,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 734,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "TIDES: Implicit Time-Awareness in Selective State Space Models",
+          "url": "https://huggingface.co/papers/2605.09742",
+          "summary": "TIDES ermöglicht es selektiven Zustandsraummodellen (selective state space models), unregelmäßige Zeitreihen zu verarbeiten, indem Zeitunterschiede mit physischen Zeitintervallen anstelle einer gelernten Funktion abgeglichen werden. Diese Methode kombiniert die hohe Ausdruckskraft von Modellen wie Mamba mit dem Vorteil der Zeitempfindlichkeit kontinuierlicher Zeitmodelle.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2605.09742",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2605.09742",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/TaylanSoydan/TIDES"
+              }
+            }
+          }
+        },
+        {
+          "title": "NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis",
+          "url": "https://huggingface.co/papers/2610.04722",
+          "summary": "NAMVIS führt die Synthese neuer Ansichten (novel view synthesis) durch einen geometriebedingten autoregressiven Prozess anstelle einer iterativen Entrauschung (iterative denoising) durch. Diese Methode reduziert die Rechenkosten bei der 3D-Inhaltserstellung, indem sie diskrete visuelle Token von groben zu feinen Skalen vorhersagt.",
+          "meta": "16 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.04722",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.04722",
+                "publishedAt": "2026-10-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/corl-team/namvis",
+                "githubStars": 5
+              }
+            }
+          }
+        },
+        {
+          "title": "FastOPD: On-Policy Distillation for Lightweight VLA Deployment",
+          "url": "https://huggingface.co/papers/2610.02832",
+          "summary": "FastOPD ist ein Destillations-Framework, das groß angelegte Vision-Language-Action-Modelle in leichtere und effizientere Strukturen umwandelt. Diese Methode ermöglicht es, dass Basismodelle, die hohe Rechenkosten erfordern, in realen Robotikanwendungen schneller arbeiten.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.02832",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.02832",
+                "publishedAt": "2026-10-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SheetSage2: Coherent Lead-Sheet Transcription with Synthetic Supervision",
+          "url": "https://huggingface.co/papers/2610.05336",
+          "summary": "SheetSage2 ist ein integriertes Framework für die Musiktranskription, das Musikaufnahmen in Notenform umwandelt. Das System zielt darauf ab, die musikalische Konsistenz durch die Verwendung synthetischer Daten und strukturierter Dekodierungsmethoden zu verbessern.",
+          "meta": "3 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.05336",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05336",
+                "publishedAt": "2026-10-04T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "UniSkill: Learning Actor-Aligned Skill Proposals for an Evolving Policy",
+          "url": "https://huggingface.co/papers/2610.10164",
+          "summary": "UniSkill bietet eine Methode, die es auf Large Language Models basierenden Agenten ermöglicht, Fähigkeiten (Skills) aus vergangenen Interaktionen wiederzuverwenden. Dieser Ansatz optimiert die Prozesse der Aufgabenausführung und der Fähigkeitsextraktion simultan und ermöglicht es Agenten, sich in kontinuierlichen Lernprozessen (Continuous Learning) effizienter weiterzuentwickeln.",
+          "meta": "4 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.10164",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.10164",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/LimOkii/UniSKill",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Anti-Patterns in Software Blogging",
+          "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+          "summary": "Fehlerhafte Ansätze in softwareorientierten Blogbeiträgen mindern die Lesbarkeit und den Wert der Inhalte. Diese Arbeit befasst sich mit häufigen Fehlern, die im technischen Schreibprozess vermieden werden sollten, sowie mit Methoden für eine effektivere Darstellung.",
+          "meta": "91 Punkte · 46 Kommentare",
+          "snapshot": {
+            "sourceId": "rwdufq",
+            "capturedAt": "2026-10-08T11:23:33.918Z",
+            "metadata": {
+              "popularity": 91,
+              "engagementCount": 46,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
+                  "popularity": 91,
+                  "engagementCount": 46
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-10-07T08:09:33.721-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
+              "popularity": 91,
+              "engagementCount": 46
+            }
+          ]
+        },
+        {
+          "title": "Software developers are not okay",
+          "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+          "summary": "Softwareentwickler leiden aufgrund steigender Arbeitsbelastung und komplexer werdender technologischer Anforderungen unter Burnout. Diese Situation in der Branche weist auf einen Mangel an nachhaltigen Arbeitsmodellen und einen Rückgang der Entwicklerproduktivität hin.",
+          "meta": "73 Punkte · 54 Kommentare",
+          "snapshot": {
+            "sourceId": "0gvyif",
+            "capturedAt": "2026-10-08T11:23:33.918Z",
+            "metadata": {
+              "popularity": 73,
+              "engagementCount": 54,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
+                  "popularity": 73,
+                  "engagementCount": 54
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "philosophy",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-10-07T14:35:08.637-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
+              "popularity": 73,
+              "engagementCount": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "executables",
+      "explanation": "Fertige Programmdateien, die Befehle enthalten und direkt vom Computer ausgeführt werden können."
+    },
+    {
+      "term": "SVG",
+      "explanation": "Bilddateien, die mit mathematischen Formeln gezeichnet werden und beliebig vergrößert oder verkleinert werden können, ohne dass die Qualität leidet."
+    },
+    {
+      "term": "Factory Droid",
+      "explanation": "Automatisierungsroboter, die in Produktionslinien eingesetzt werden und darauf ausgelegt sind, bestimmte Aufgaben zu wiederholen."
+    },
+    {
+      "term": "native binaries",
+      "explanation": "Programmdateien, die direkt auf einem bestimmten Betriebssystem und Prozessor ohne zusätzliche Software ausgeführt werden können."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Der Prozess, bei dem ein fertiges Produkt in seine Einzelteile zerlegt wird, um dessen Funktionsweise zu verstehen und die zugrunde liegende Logik zu entschlüsseln."
+    },
+    {
+      "term": "skill",
+      "explanation": "Die Fähigkeit eines KI-Assistenten, sich auf ein bestimmtes Thema zu spezialisieren und eine benutzerdefinierte Aufgabe zu erfüllen."
+    },
+    {
+      "term": "persistent context",
+      "explanation": "Die Fähigkeit der künstlichen Intelligenz, frühere Konversationen nicht zu vergessen und den Kontext während des gesamten Chats beizubehalten, um konsistente Antworten zu liefern."
+    },
+    {
+      "term": "debugger",
+      "explanation": "Ein Analysewerkzeug, das Softwareentwickler verwenden, um Fehler in Programmen zu finden und zu beheben."
+    },
+    {
+      "term": "multi-process",
+      "explanation": "Die Fähigkeit eines Computers, mehrere Aufgaben gleichzeitig als unabhängige Prozesse auszuführen."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Kleine Hilfsprogramme, die nachträglich zum Hauptprogramm hinzugefügt werden, um ihm neue Funktionen zu verleihen."
+    },
+    {
+      "term": "crafting engine",
+      "explanation": "Der grundlegende Mechanismus, der es ermöglicht, in Spielen oder Systemen verschiedene Materialien zu kombinieren, um neue Gegenstände herzustellen."
+    },
+    {
+      "term": "preprints",
+      "explanation": "Entwurfsarbeiten, die noch keine wissenschaftliche Begutachtung durchlaufen haben und von Forschern veröffentlicht werden, um ihre Ergebnisse schnell zu teilen."
+    },
+    {
+      "term": "intelligent UI",
+      "explanation": "Eine intelligente Benutzeroberfläche, die die Gewohnheiten des Benutzers lernt, sich entsprechend anpasst und Aufgaben erleichtert."
+    },
+    {
+      "term": "multimodal AI",
+      "explanation": "Künstliche Intelligenz, die nicht nur Text, sondern gleichzeitig auch verschiedene Datentypen wie Bilder, Ton und Video verarbeiten kann."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Die Fähigkeit eines Systems, mehrere verschiedene Kommunikationskanäle wie Text, Ton oder Bild gleichzeitig zu nutzen."
+    },
+    {
+      "term": "text classification",
+      "explanation": "Die automatische Einteilung von schriftlichen Texten in bestimmte Kategorien oder Gruppen basierend auf deren Inhalt."
+    }
+  ]
+}

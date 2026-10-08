@@ -1,0 +1,400 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-08",
+  "capturedAt": "2026-10-08T11:23:33.342Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft is a content production engine developed for artists and designers. Written in Rust, this tool standardizes visual production processes by automating complex workflows in creative processes.",
+          "meta": "Rust · ★ 5,919 · +1,465 today",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-08T11:23:34.371Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5919,
+              "engagementCount": 1465,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1465
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Margaret Hamilton has died",
+          "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "summary": "Margaret Hamilton, who led the Apollo software engineering team and developed the flight software used in the Moon landing missions, has passed away at the age of 100. Recognized as one of the pioneers of the modern software engineering discipline, Hamilton left a mark on the computing world with her work on system reliability and fault tolerance.",
+          "meta": "1,626 points · 176 comments",
+          "snapshot": {
+            "sourceId": "49998895",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 1626,
+              "engagementCount": 176,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49998895",
+                  "popularity": 1626,
+                  "engagementCount": 176
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who",
+                  "popularity": 120,
+                  "engagementCount": 3
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "muglug",
+                "createdAt": "2026-10-07T21:16:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49998895"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49998895",
+              "popularity": 1626,
+              "engagementCount": 176
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who",
+              "popularity": 120,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "Claude Haiku 5.5",
+          "url": "https://www.anthropic.com/claude-haiku-5-5",
+          "summary": "Claude 3.5 Haiku, developed by Anthropic, is an AI model focused on fast response times. Compared to previous generation models, it demonstrates higher performance in complex tasks such as coding and reasoning.",
+          "meta": "904 points · 435 comments",
+          "snapshot": {
+            "sourceId": "49996437",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 904,
+              "engagementCount": 435,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49996437",
+                  "popularity": 904,
+                  "engagementCount": 435
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "sfkgtbor",
+                "createdAt": "2026-10-07T18:01:32Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49996437"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49996437",
+              "popularity": 904,
+              "engagementCount": 435
+            }
+          ]
+        },
+        {
+          "title": "GPT‑6 and Intelligent UI for everyone",
+          "url": "https://openai.com/index/gpt-6-for-everyone/",
+          "summary": "OpenAI presents a new user experience (intelligent UI) vision where AI models are integrated with interfaces. This approach aims to replace complex software with intelligent interfaces that operate via natural language commands and perform actions on behalf of the user.",
+          "meta": "657 points · 364 comments",
+          "snapshot": {
+            "sourceId": "49996425",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 657,
+              "engagementCount": 364,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49996425",
+                  "popularity": 657,
+                  "engagementCount": 364
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "joshuawright11",
+                "createdAt": "2026-10-07T18:00:58Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49996425"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49996425",
+              "popularity": 657,
+              "engagementCount": 364
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+          "url": "https://bigwords.page/",
+          "summary": "Bigwords.page is a browser-based tool that turns any screen into a digital sign. Users can turn their screens into a message board by displaying the text they type at the end of the web address in full-screen size.",
+          "meta": "528 points · 142 comments",
+          "snapshot": {
+            "sourceId": "49994443",
+            "capturedAt": "2026-10-08T11:23:33.675Z",
+            "metadata": {
+              "popularity": 528,
+              "engagementCount": 142,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49994443",
+                  "popularity": 528,
+                  "engagementCount": 142
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "SpeakingOfBrad",
+                "createdAt": "2026-10-07T15:44:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49994443"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49994443",
+              "popularity": 528,
+              "engagementCount": 142
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "TIDES: Implicit Time-Awareness in Selective State Space Models",
+          "url": "https://huggingface.co/papers/2605.09742",
+          "summary": "TIDES enables selective state space models to process irregular time series by mapping time differences to physical time intervals instead of a learned function. This method combines the high expressive power of models like Mamba with the time-sensitivity advantages of continuous-time models.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2605.09742",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2605.09742",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/TaylanSoydan/TIDES"
+              }
+            }
+          }
+        },
+        {
+          "title": "NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis",
+          "url": "https://huggingface.co/papers/2610.04722",
+          "summary": "NAMVIS performs novel view synthesis through a geometry-conditioned autoregressive process instead of iterative denoising. This method reduces computational costs in 3D content generation by predicting discrete visual tokens from coarse to fine scales.",
+          "meta": "16 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.04722",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.04722",
+                "publishedAt": "2026-10-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/corl-team/namvis",
+                "githubStars": 5
+              }
+            }
+          }
+        },
+        {
+          "title": "FastOPD: On-Policy Distillation for Lightweight VLA Deployment",
+          "url": "https://huggingface.co/papers/2610.02832",
+          "summary": "FastOPD is a distillation framework that converts large-scale Vision-Language-Action models into lighter and more efficient structures. This method allows base models that require high computational costs to run faster in real-world robotic applications.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.02832",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.02832",
+                "publishedAt": "2026-10-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SheetSage2: Coherent Lead-Sheet Transcription with Synthetic Supervision",
+          "url": "https://huggingface.co/papers/2610.05336",
+          "summary": "SheetSage2 is an integrated music transcription framework that converts music recordings into sheet music format. The system aims to increase musical consistency through the use of synthetic data and structured decoding methods.",
+          "meta": "3 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.05336",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05336",
+                "publishedAt": "2026-10-04T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "UniSkill: Learning Actor-Aligned Skill Proposals for an Evolving Policy",
+          "url": "https://huggingface.co/papers/2610.10164",
+          "summary": "UniSkill offers a method that enables large language model-based agents to reuse skills acquired from past interactions. This approach optimizes task execution and skill extraction processes simultaneously, allowing agents to develop more efficiently in continuous learning processes.",
+          "meta": "4 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.10164",
+            "capturedAt": "2026-10-08T11:23:33.523Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.10164",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/LimOkii/UniSKill",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Anti-Patterns in Software Blogging",
+          "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+          "summary": "Erroneous approaches encountered in software-focused blog posts reduce the readability and value of the content. This study addresses common mistakes to avoid in the technical writing process and methods that can be applied for more effective communication.",
+          "meta": "91 points · 46 comments",
+          "snapshot": {
+            "sourceId": "rwdufq",
+            "capturedAt": "2026-10-08T11:23:33.918Z",
+            "metadata": {
+              "popularity": 91,
+              "engagementCount": 46,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
+                  "popularity": 91,
+                  "engagementCount": 46
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-10-07T08:09:33.721-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rwdufq/anti_patterns_software_blogging",
+              "popularity": 91,
+              "engagementCount": 46
+            }
+          ]
+        },
+        {
+          "title": "Software developers are not okay",
+          "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+          "summary": "Software developers are experiencing burnout due to increasing workloads and increasingly complex technological expectations. This situation in the industry highlights the lack of sustainable work models and the decline in developer productivity.",
+          "meta": "73 points · 54 comments",
+          "snapshot": {
+            "sourceId": "0gvyif",
+            "capturedAt": "2026-10-08T11:23:33.918Z",
+            "metadata": {
+              "popularity": 73,
+              "engagementCount": 54,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
+                  "popularity": 73,
+                  "engagementCount": 54
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "philosophy",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-10-07T14:35:08.637-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/0gvyif/software_developers_are_not_okay",
+              "popularity": 73,
+              "engagementCount": 54
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "The ability of an artificial intelligence assistant to specialize in a specific subject and perform a task tailored to the user."
+    },
+    {
+      "term": "crafting engine",
+      "explanation": "The basic mechanism that allows for the creation of new items by combining different materials in games or systems."
+    },
+    {
+      "term": "intelligent UI",
+      "explanation": "An intelligent interface that learns the user's habits and adapts accordingly to facilitate tasks."
+    }
+  ]
+}
