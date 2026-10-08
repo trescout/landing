@@ -22,7 +22,7 @@
  *   - UPSTASH_REDIS_REST_URL · production dağıtık rate limit REST URL
  *   - UPSTASH_REDIS_REST_TOKEN · production dağıtık rate limit REST token
  *   - SUBSCRIBE_NOTIFY_ENABLED · yönetici bildirim e-postası kilidi ·
- *     VARSAYILAN KAPALI (2026-10-08). Yalnız 'true' değeri bildirimi açar.
+ *     VARSAYILAN AÇIK. Bildirim e-posta adresi taşımaz. 'false' kapatır.
  *   - SUBSCRIBE_PAUSED · kayıt durdurma kilidi · VARSAYILAN KAPALI KAYIT
  *     (2026-10-08). Yalnız 'false' değeri kayıtları yeniden açar.
  */
@@ -41,17 +41,14 @@ const NOTIFY_TO = 'hello@trescout.com';
 const NOTIFY_FROM = 'TreScout · Erken Erişim <hello@trescout.com>';
 
 /**
- * Yönetici bildirimi kilidi · varsayılanı KAPALI (2026-10-08, #210).
+ * Yönetici bildirimi kilidi · varsayılanı AÇIK.
  *
- * Bildirim, kayıt olan kişinin e-postasını hello@trescout.com'a, oradan da
- * Cloudflare yönlendirmesiyle kişisel bir kutuya kopyalıyordu. Bu alıcılar
- * Aydınlatma Metni'nde yoktu ve kopyalar saklama/silme taahhüdünün dışında
- * kalıyordu (veri minimizasyonu). Kayıtlar Resend panosunda zaten görünüyor.
- * Açmak için Vercel'de SUBSCRIBE_NOTIFY_ENABLED=true; açmadan önce alıcıyı
- * Aydınlatma Metni'ne ekleyin.
+ * Bildirim yalnız kaynak, sayfa ve zamanı taşır; kişinin e-posta adresini
+ * taşımaz (2026-10-08, #210). Bu yüzden kişisel kutuya kişisel veri gitmez.
+ * Kapatmak için Vercel'de SUBSCRIBE_NOTIFY_ENABLED=false.
  */
 function notifyEnabled() {
-  return (process.env.SUBSCRIBE_NOTIFY_ENABLED || 'false').trim().toLowerCase() === 'true';
+  return (process.env.SUBSCRIBE_NOTIFY_ENABLED || 'true').trim().toLowerCase() !== 'false';
 }
 
 /**
@@ -415,9 +412,13 @@ export default async function handler(req) {
   }
 
   try {
+    // Bildirim kişinin e-posta adresini TAŞIMAZ (2026-10-08, #210): adres
+    // hello@'ya, oradan yönlendirmeyle başka kutulara kopyalanıyordu ve bu
+    // alıcılar Aydınlatma Metni'nde yoktu. Yalnız kaynak, sayfa ve zaman
+    // gider; adres gerekirse Resend Audience'ta.
     const notifySubject = isDuplicate
-      ? `Tekrar kayıt: ${email}`
-      : `Yeni erken erişim kaydı: ${email}`;
+      ? `Tekrar kayıt · ${source}`
+      : `Yeni erken erişim kaydı · ${source}`;
 
     const notifyRes = await fetch(`${RESEND_API}/emails`, {
       method: 'POST',
@@ -430,11 +431,11 @@ export default async function handler(req) {
         to: NOTIFY_TO,
         subject: notifySubject,
         text: [
-          `E-posta: ${email}`,
           `Kaynak: ${source}`,
           path ? `Sayfa: https://trescout.com${path}` : '',
           `Tarih: ${new Date().toISOString()}`,
-          isDuplicate ? 'Not: Bu e-posta listede zaten kayıtlıydı.' : ''
+          isDuplicate ? 'Not: Bu e-posta listede zaten kayıtlıydı.' : '',
+          'Adres bildirime yazılmaz; Resend Audience panosunda görünür.'
         ].filter(Boolean).join('\n')
       })
     });

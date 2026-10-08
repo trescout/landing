@@ -25,7 +25,7 @@ delete process.env.UPSTASH_REDIS_REST_URL;
 delete process.env.UPSTASH_REDIS_REST_TOKEN;
 // Bu dosya kayıt AÇIKKEN bildirim davranışını sınar (kayıt durdurma ayrı test).
 process.env.SUBSCRIBE_PAUSED = 'false';
-// Bildirim varsayılanı KAPALI (2026-10-08) · bildirimi sınayan testler açıkça açar.
+// Bildirim varsayılanı AÇIK · testler durumu yine de açıkça kurar.
 process.env.SUBSCRIBE_NOTIFY_ENABLED = 'true';
 
 function bildirimKilidiniKapat() {
@@ -121,7 +121,7 @@ test('tekrar kayıtta (409) duplicate bayrağı döner, bildirim konusu buna gö
 
   assert.equal(response.status, 200);
   assert.deepEqual(await response.json(), { ok: true, duplicate: true });
-  assert.match(JSON.parse(calls[1].init.body).subject, /^Tekrar kayıt:/);
+  assert.match(JSON.parse(calls[1].init.body).subject, /^Tekrar kayıt ·/);
 });
 
 test('Audience isteği ağ hatası verirse 502 döner ve bildirim denenmez', async () => {

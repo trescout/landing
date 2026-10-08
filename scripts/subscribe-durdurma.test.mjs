@@ -1,8 +1,8 @@
 /**
  * Kayıt durdurma ve bildirim varsayılanları (2026-10-08, #210).
  *
- * Varsayılanlar hukuki koruma: metinler düzelene kadar kayıt alınmaz, kayıt
- * açılsa bile kişinin e-postası yönetici kutusuna kopyalanmaz. Biri env'i
+ * Varsayılanlar hukuki koruma: metinler düzelene kadar kayıt alınmaz; kayıt
+ * açılınca gelen yönetici bildirimi kişinin e-posta adresini taşımaz. Biri env'i
  * unutursa güvenli tarafta kalınmalı; bu test o varsayılanları kilitler.
  */
 import assert from 'node:assert/strict';
@@ -27,8 +27,10 @@ const moduleSource = source
 const { handler } = await import(`data:text/javascript;base64,${Buffer.from(moduleSource).toString('base64')}`);
 
 const istekler = [];
-globalThis.fetch = async (url) => {
+const govdeler = [];
+globalThis.fetch = async (url, init = {}) => {
   istekler.push(String(url));
+  govdeler.push(init.body || '');
   return new Response('{}', { status: 200, headers: { 'content-type': 'application/json' } });
 };
 
@@ -56,11 +58,16 @@ test('kapalı mesajı sayfanın dilinde', async () => {
   assert.match(body.error, /temporarily closed/);
 });
 
-test('kayıt açılınca bildirim varsayılanı kapalı: yalnız Audience isteği gider', async () => {
+test('kayıt açılınca bildirim gider ama kişinin e-posta adresini taşımaz', async () => {
   process.env.SUBSCRIBE_PAUSED = 'false';
   istekler.length = 0;
+  govdeler.length = 0;
   const res = await kayit();
   assert.equal(res.status, 200);
-  assert.deepEqual(istekler.map((u) => new URL(u).pathname), ['/audiences/test-audience-id/contacts']);
+  assert.deepEqual(istekler.map((u) => new URL(u).pathname), ['/audiences/test-audience-id/contacts', '/emails']);
+  const bildirim = JSON.parse(govdeler[1]);
+  assert.ok(!bildirim.subject.includes('kisi@example.com'), 'konu adresi taşımamalı');
+  assert.ok(!bildirim.text.includes('kisi@example.com'), 'gövde adresi taşımamalı');
+  assert.match(bildirim.text, /Kaynak: /);
   delete process.env.SUBSCRIBE_PAUSED;
 });
