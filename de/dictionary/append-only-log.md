@@ -1,4 +1,4 @@
-# Append-Only Log Unveränderlichkeit, Write-Ahead Logs und sequenzielle Speicherung
+# Append-Only Log: Unveränderlichkeit, Write-Ahead Logs und sequenzielle Speicherung
 
 
 **Kategorie:** Data & Infra  

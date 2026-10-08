@@ -1,4 +1,4 @@
-# Assembly Definition, Register und Systemarchitektur
+# Assembly: Definition, Register und Systemarchitektur
 
 Assembly bezeichnet zwei Kernkonzepte der Informatik: die hardwarenächste symbolische Programmiersprache zur direkten CPU-Steuerung und kompilierte Bereitstellungspakete (.NET Assemblies).
 

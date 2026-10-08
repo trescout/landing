@@ -1,4 +1,4 @@
-# Distributed Systems Mythes, théorème CAP, consensus et transactions Saga
+# Distributed Systems : Mythes, théorème CAP, consensus et transactions Saga
 
 
 **Catégorie:** Dev  

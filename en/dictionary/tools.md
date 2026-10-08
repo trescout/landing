@@ -1,33 +1,56 @@
-# What is Tools?
+# Tools: Developer tooling, Function Calling, and MCP
 
-They are auxiliary functions or tools that enable software to interact with the outside world to perform certain operations.
 
-## Overview
-In the world of AI, 'tools' enable the model to do tasks it cannot do on its own (such as searching the internet, using a calculator, or reading a file). When the model needs to use a tool, it does so as a function call. This enables the agent to transform from a system that merely produces text to an assistant that interacts with the world.
+**Category:** Dev  
 
-*Analogy: It is like a painter painting a painting using not only his hands but also auxiliary materials such as brushes and paint.*
+**Last updated:** 2026-09-19
 
-## How it works
-Add instructions (system prompts) that tell your agent which tool to use and when. Clearly define the input and output format of the tool so that the model does not make mistakes.
 
-## Where it is used
-It is used in agent-based systems, automation tools and RAG systems.
+Tools in computing refer to two pivotal domains: specialized software utilities that accelerate developer productivity, and structured interfaces enabling AI models to execute code, query APIs, and interact with the physical world.
 
-## Commonly confused with
-It is similar to plugins; Tools are functions that are usually integrated at the code level, while plugins offer more comprehensive features.
+
+## Etymology and the Tool Metaphor in Computing
+The word *tool* originates from Old English *tol* (an instrument for making or doing). In human history, toolmaking marked the boundary between biological constraints and cultural amplification. In software, Ken Thompson and Doug McIlroy shaped the Unix philosophy: write programs that do one thing well and compose them together through text streams.
+
+## 1. Developer Tools (DevTools)
+Modern software engineering advances through layers of developer tooling:
+- **Compilers & Build Systems:** Compilers (GCC, Clang, rustc) and build tools (Make, Vite, Turborepack) transform human abstractions into high-speed machine instructions.
+- **Debuggers & Profilers:** GDB, LLDB, and browser DevTools inspect call stacks, memory allocations, and network latency in real time.
+- **Static Analysis & Linters:** Tools like ESLint, Ruff, and SonarQube enforce code standards and intercept defects before compilation.
+
+## 2. The Turning Point in AI: Tool Use and Function Calling
+Traditional large language models (LLMs) are probabilistic text predictors trapped inside static weights. Tool use bridges four critical limitations:
+1. **Real-time Information:** Querying live web search APIs rather than relying on stale training cutoffs.
+2. **Mathematical Precision:** Offloading arithmetic to Python runtimes rather than guessing token probabilities.
+3. **External Action:** Sending emails, dispatching webhooks, or updating database rows.
+4. **System Observability:** Querying file trees and git histories to inspect running services.
+
+## 3. Model Context Protocol (MCP) as a Universal Standard
+As AI agents proliferated, custom tool schemas created severe integration fragmentation. Anthropic introduced the **Model Context Protocol (MCP)** as an open standard (analogous to the Language Server Protocol for IDEs). MCP defines a uniform JSON-RPC communication bridge between AI host clients and backend tool servers.
+
+## 4. Dual-Use Tools in Cybersecurity
+In security, software tools serve offensive and defensive purposes identically:
+- **Penetration Testing & Auditing:** Nmap (port scanning), Wireshark (packet analysis), and Burp Suite (web security) help engineers identify vulnerabilities before malicious adversaries exploit them.
+- **Automated Exploit Defense:** Dynamic fuzzers (AFL++) continuously bombard software interfaces with randomized inputs to discover zero-day memory corruptions.
+
+## Analogy
+A large language model without tools is like a brilliant scholar locked inside a windowless library room; equipping it with tools gives it hands, a calculator, a telephone, and access to the outside world.
 
 ## Frequently asked questions
-**Can artificial intelligence choose vehicles on its own?**
-Yes, advanced agents can decide which tool will solve which problem.
 
-**How do I make my own vehicle?**
-You can do this by writing a function and defining it to the agent through an API or library.
+**What does tool mean in the context of modern AI?**  
+In AI, a tool is an external function, API endpoint, or executable script that an LLM can invoke via structured JSON arguments to take real actions or fetch live data.
 
+**What is the Model Context Protocol (MCP)?**  
+MCP is an open standard that decouples AI models from data sources and tools, providing a plug-and-play architecture for LLM assistants.
+
+**How does an LLM decide which tool to use?**  
+The model inspects JSON descriptions and parameter schemas for available tools, selects the most relevant function, and outputs structured arguments that the host environment executes.
 
 ## Related terms
 - [MCP](/en/dictionary/mcp/)
 - [AI Agent](/en/dictionary/ai-agent/)
-- [Plugins](/en/dictionary/plugin/)
+- [Plugin](/en/dictionary/plugin/)
 - [SDK](/en/dictionary/sdk/)
 
 ## Related tools
@@ -36,4 +59,4 @@ You can do this by writing a function and defining it to the agent through an AP
 - [Claude Plugins Official](/en/discover/claude-plugins-official/)
 
 ---
-Source: TreScout Dictionary · https://trescout.com/en/dictionary/tools/
+Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/tools/

@@ -1,4 +1,4 @@
-# Patent Disclosure Divulgation technique, état de l'art et brevets logiciels
+# Patent Disclosure : Divulgation technique, état de l'art et brevets logiciels
 
 
 **Catégorie:** Dev  

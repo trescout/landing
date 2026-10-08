@@ -1,4 +1,4 @@
-# Distributed Systems Fallacies, CAP theorem, consensus, and sagas
+# Distributed Systems: Fallacies, CAP theorem, consensus, and sagas
 
 
 **Category:** Dev  

@@ -1,4 +1,4 @@
-# PKM Gestión del conocimiento personal, Zettelkasten y notas en red
+# PKM: Gestión del conocimiento personal, Zettelkasten y notas en red
 
 
 **Categoría:** Data & Infra  

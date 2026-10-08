@@ -1,4 +1,4 @@
-# PKM Persönliches Wissensmanagement, Zettelkasten und vernetztes Denken
+# PKM: Persönliches Wissensmanagement, Zettelkasten und vernetztes Denken
 
 
 **Kategorie:** Data & Infra  

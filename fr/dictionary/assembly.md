@@ -1,4 +1,4 @@
-# Assembly Définition, registres et architecture système
+# Assembly : Définition, registres et architecture système
 
 Le terme Assembly désigne deux réalités en informatique : d'une part le langage de programmation symbolique de plus bas niveau contrôlant directement le processeur (CPU), et d'autre part les unités de déploiement modulaires (.NET assembly).
 

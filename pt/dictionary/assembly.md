@@ -1,4 +1,4 @@
-# Assembly Definição, registradores e arquitetura de sistemas
+# Assembly: Definição, registradores e arquitetura de sistemas
 
 Assembly refere-se a dois conceitos essenciais na ciência da computação: a linguagem simbólica de mais baixo nível para controle direto da CPU e os pacotes de implantação modulares (.NET assemblies).
 

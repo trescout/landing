@@ -1,4 +1,4 @@
-# Append-Only Log Immutabilité, Write-Ahead Log et stockage séquentiel
+# Append-Only Log : Immutabilité, Write-Ahead Log et stockage séquentiel
 
 
 **Catégorie:** Data & Infra  

@@ -1,4 +1,4 @@
-# Distributed Systems Falacias, teorema CAP, consenso y patrón Saga
+# Distributed Systems: Falacias, teorema CAP, consenso y patrón Saga
 
 
 **Categoría:** Dev  

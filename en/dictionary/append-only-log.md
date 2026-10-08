@@ -1,4 +1,4 @@
-# Append-Only Log Immutability, Write-Ahead Logs, and distributed storage
+# Append-Only Log: Immutability, Write-Ahead Logs, and distributed storage
 
 
 **Category:** Data & Infra  

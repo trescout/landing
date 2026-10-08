@@ -1,4 +1,4 @@
-# Local Localhost, escopo de variáveis, Local-First e IA local
+# Local: Localhost, escopo de variáveis, Local-First e IA local
 
 
 **Categoria:** Dev  

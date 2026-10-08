@@ -1,4 +1,4 @@
-# Sun Code Conventions Java-Standards, Lesbarkeit und Software-Wartung
+# Sun Code Conventions: Java-Standards, Lesbarkeit und Software-Wartung
 
 
 **Kategorie:** Dev  

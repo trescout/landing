@@ -1,4 +1,4 @@
-# Sun Code Conventions Standards Java, lisibilité et maintenance logicielle
+# Sun Code Conventions : Standards Java, lisibilité et maintenance logicielle
 
 
 **Catégorie:** Dev  

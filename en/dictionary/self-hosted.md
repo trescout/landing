@@ -1,4 +1,4 @@
-# Self-Hosted Homelabs, cloud repatriation, and private infrastructure
+# Self-Hosted: Homelabs, cloud repatriation, and private infrastructure
 
 
 **Category:** Dev  

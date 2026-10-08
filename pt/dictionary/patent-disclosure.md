@@ -1,4 +1,4 @@
-# Patent Disclosure Divulgação técnica, estado da arte e propriedade intelectual
+# Patent Disclosure: Divulgação técnica, estado da arte e propriedade intelectual
 
 
 **Categoria:** Dev  

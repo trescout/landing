@@ -1,4 +1,4 @@
-# Assets Web-Ressourcen, 3D-Pipelines, ITAM und DAM-Systeme
+# Assets: Web-Ressourcen, 3D-Pipelines, ITAM und DAM-Systeme
 
 
 **Kategorie:** Dev  
