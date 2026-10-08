@@ -42,6 +42,10 @@ jobs:
         run: node --test tests/subscribe-rate-limit.test.mjs
       - name: Telemetry consent ve queue sözleşme testi
         run: node --test scripts/telemetry-contract.test.mjs
+      # Analitik sağlayıcıları (Vercel Analytics/Speed Insights) rızadan önce yüklenmesin.
+      # Test 2026-10-08'e kadar vardı ama CI'a bağlı değildi.
+      - name: Sağlayıcı rıza sözleşme testi
+        run: node --test scripts/provider-consent-contract.test.mjs
       - name: Rapor sayfası script sözleşme testi
         run: node --test scripts/report-page-contract.test.mjs
       - name: Telemetry kapsam kontrolü
