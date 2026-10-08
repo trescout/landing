@@ -2,15 +2,15 @@
 
 Hindsight bietet eine lernende Speicherebene (Memory Layer) für KI-Agenten. Diese Open-Source-Bibliothek verbessert die Entscheidungsprozesse von Agenten, indem sie Rückschlüsse aus vergangenen Interaktionen zieht, und sorgt dafür, dass Systeme im Laufe der Zeit konsistentere Ergebnisse liefern.
 
-- ★ 46.537
+- ★ 47.195
 - GitHub Trending · 2026-09-25
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 46,537 → 47,195, neueste Version v0.10.3 (8. Oktober 2026).
 - **7. Oktober 2026:** Sterne 44,051 → 46,537, neueste Version v0.10.2 (29. September 2026).
 - **1. Oktober 2026:** Sterne 41,939 → 44,051, neueste Version v0.10.2 (29. September 2026).
 - **29. September 2026:** Sterne 39,425 → 41,939, neueste Version v0.10.2 (29. September 2026).
-- **28. September 2026:** Sterne 35,563 → 39,425, neueste Version v0.10.1 (21. September 2026).
 
 ## Was es bringt
 
