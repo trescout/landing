@@ -23,15 +23,17 @@ process.env.RESEND_AUDIENCE_ID = 'test-audience-id';
 process.env.TRESCOUT_PREVIEW_ORIGINS = '';
 delete process.env.UPSTASH_REDIS_REST_URL;
 delete process.env.UPSTASH_REDIS_REST_TOKEN;
-// Bildirim kilidi varsayılanı AÇIK · her test kendi durumunu açıkça kurar.
-delete process.env.SUBSCRIBE_NOTIFY_ENABLED;
+// Bu dosya kayıt AÇIKKEN bildirim davranışını sınar (kayıt durdurma ayrı test).
+process.env.SUBSCRIBE_PAUSED = 'false';
+// Bildirim varsayılanı KAPALI (2026-10-08) · bildirimi sınayan testler açıkça açar.
+process.env.SUBSCRIBE_NOTIFY_ENABLED = 'true';
 
 function bildirimKilidiniKapat() {
   process.env.SUBSCRIBE_NOTIFY_ENABLED = 'false';
 }
 
 function bildirimKilidiniSifirla() {
-  delete process.env.SUBSCRIBE_NOTIFY_ENABLED;
+  process.env.SUBSCRIBE_NOTIFY_ENABLED = 'true';
 }
 
 const source = await readFile(new URL('../api/subscribe.js', import.meta.url), 'utf8');

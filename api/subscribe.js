@@ -22,7 +22,9 @@
  *   - UPSTASH_REDIS_REST_URL · production dağıtık rate limit REST URL
  *   - UPSTASH_REDIS_REST_TOKEN · production dağıtık rate limit REST token
  *   - SUBSCRIBE_NOTIFY_ENABLED · yönetici bildirim e-postası kilidi ·
- *     VARSAYILAN AÇIK (#227). Yalnız 'false' değeri bildirimi kapatır.
+ *     VARSAYILAN KAPALI (2026-10-08). Yalnız 'true' değeri bildirimi açar.
+ *   - SUBSCRIBE_PAUSED · kayıt durdurma kilidi · VARSAYILAN KAPALI KAYIT
+ *     (2026-10-08). Yalnız 'false' değeri kayıtları yeniden açar.
  */
 
 import { createRateLimiter } from './rate-limit.mjs';
@@ -39,13 +41,30 @@ const NOTIFY_TO = 'hello@trescout.com';
 const NOTIFY_FROM = 'TreScout · Erken Erişim <hello@trescout.com>';
 
 /**
- * Yönetici bildirimi kilidi · varsayılanı AÇIK.
+ * Yönetici bildirimi kilidi · varsayılanı KAPALI (2026-10-08, #210).
  *
- * Başarılı her kayıtta hello@trescout.com adresine bildirim e-postası gönderilir.
- * Kapatmak için Vercel'de SUBSCRIBE_NOTIFY_ENABLED=false set edilebilir.
+ * Bildirim, kayıt olan kişinin e-postasını hello@trescout.com'a, oradan da
+ * Cloudflare yönlendirmesiyle kişisel bir kutuya kopyalıyordu. Bu alıcılar
+ * Aydınlatma Metni'nde yoktu ve kopyalar saklama/silme taahhüdünün dışında
+ * kalıyordu (veri minimizasyonu). Kayıtlar Resend panosunda zaten görünüyor.
+ * Açmak için Vercel'de SUBSCRIBE_NOTIFY_ENABLED=true; açmadan önce alıcıyı
+ * Aydınlatma Metni'ne ekleyin.
  */
 function notifyEnabled() {
-  return (process.env.SUBSCRIBE_NOTIFY_ENABLED || 'true').trim().toLowerCase() !== 'false';
+  return (process.env.SUBSCRIBE_NOTIFY_ENABLED || 'false').trim().toLowerCase() === 'true';
+}
+
+/**
+ * Kayıt durdurma kilidi · varsayılanı KAYIT KAPALI (2026-10-08, #210).
+ *
+ * Form metni KVKK Kurulu'nun 2026/347 sayılı ilke kararına aykırı (aydınlatma
+ * ile onay tek kutuda) ve Aydınlatma Metni'nde veri sorumlusunun kimliği yok.
+ * Metinler avukat onayıyla düzeltilene kadar yeni kişisel veri alınmaz. Kontrol
+ * gövde okunmadan ve hız sınırlayıcıya (IP) gidilmeden yapılır. Yeniden açmak
+ * için Vercel'de SUBSCRIBE_PAUSED=false.
+ */
+function signupsPaused() {
+  return (process.env.SUBSCRIBE_PAUSED || 'true').trim().toLowerCase() !== 'false';
 }
 
 /** Allowed request origins (CSRF) */
@@ -84,6 +103,7 @@ const DISPOSABLE_DOMAINS = new Set([
 const MESAJ = {
   tr: {
     method: 'Bu yöntem desteklenmiyor',
+    kapali: 'Erken erişim kayıtları geçici olarak kapalı. Lütfen daha sonra tekrar deneyin.',
     istek: 'İstek geçersiz',
     limit: 'Çok fazla deneme · birkaç dakika sonra tekrar deneyin',
     format: 'Geçersiz istek formatı',
@@ -96,6 +116,7 @@ const MESAJ = {
   },
   en: {
     method: 'Method not allowed',
+    kapali: 'Early access sign-ups are temporarily closed. Please try again later.',
     istek: 'Invalid request',
     limit: 'Too many attempts · try again in a few minutes',
     format: 'Invalid request format',
@@ -108,6 +129,7 @@ const MESAJ = {
   },
   fr: {
     method: 'Méthode non autorisée',
+    kapali: "Les inscriptions à l'accès anticipé sont temporairement fermées. Veuillez réessayer plus tard.",
     istek: 'Requête invalide',
     limit: 'Trop de tentatives · réessayez dans quelques minutes',
     format: 'Format de requête invalide',
@@ -120,6 +142,7 @@ const MESAJ = {
   },
   pt: {
     method: 'Método não permitido',
+    kapali: 'As inscrições para o acesso antecipado estão temporariamente fechadas. Tente novamente mais tarde.',
     istek: 'Solicitação inválida',
     limit: 'Muitas tentativas · tente novamente em alguns minutos',
     format: 'Formato de solicitação inválido',
@@ -132,6 +155,7 @@ const MESAJ = {
   },
   es: {
     method: 'Método no permitido',
+    kapali: 'Las inscripciones al acceso anticipado están cerradas temporalmente. Inténtelo de nuevo más tarde.',
     istek: 'Solicitud no válida',
     limit: 'Demasiados intentos · inténtelo de nuevo en unos minutos',
     format: 'Formato de solicitud no válido',
@@ -144,6 +168,7 @@ const MESAJ = {
   },
   de: {
     method: 'Methode nicht erlaubt',
+    kapali: 'Die Anmeldung zum frühen Zugang ist vorübergehend geschlossen. Bitte versuchen Sie es später erneut.',
     istek: 'Ungültige Anfrage',
     limit: 'Zu viele Versuche · versuchen Sie es in einigen Minuten erneut',
     format: 'Ungültiges Anfrageformat',
@@ -245,6 +270,12 @@ export default async function handler(req) {
 
   if (req.method !== 'POST') {
     return errorResponse(M, 'method', 405);
+  }
+
+  // Kayıt durdurulduysa hiçbir şey işlenmez: gövde okunmaz, IP hız
+  // sınırlayıcıya gitmez, sağlayıcıya istek atılmaz.
+  if (signupsPaused()) {
+    return errorResponse(M, 'kapali', 503);
   }
 
   // CSRF · origin check

@@ -11,7 +11,8 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 | `UPSTASH_REDIS_REST_URL` | ❌ isteğe bağlı | Upstash Redis REST URL · dağıtık rate limit için (yoksa bellek içi fallback çalışır) |
 | `UPSTASH_REDIS_REST_TOKEN` | ❌ isteğe bağlı | Upstash Redis REST token · yalnız Vercel server env’de tutulur |
 | `UPSTASH_RATE_LIMIT_FAIL_CLOSED` | ❌ | Redis yoksa/çökerse formu 503 ile kapatma kilidi · **varsayılan KAPALI** |
-| `SUBSCRIBE_NOTIFY_ENABLED` | ❌ | Yönetici bildirim e-postası kilidi · **varsayılan AÇIK**, 'false' kapatır |
+| `SUBSCRIBE_NOTIFY_ENABLED` | ❌ | Yönetici bildirim e-postası kilidi · **varsayılan KAPALI** (2026-10-08), yalnız 'true' açar |
+| `SUBSCRIBE_PAUSED` | ❌ | Kayıt durdurma kilidi · **varsayılan KAYIT KAPALI** (2026-10-08), yalnız 'false' kayıtları açar |
 
 ## Kurulum adımları
 
@@ -74,25 +75,38 @@ npx vercel dev    # local server (api/ route'ları dahil)
 ### 5. Yönetici bildirim kilidi
 
 `api/subscribe.js` başarılı bir kayıttan sonra `hello@trescout.com` adresine
-bildirim e-postası gönderir. Bu gönderim **varsayılan olarak açıktır**.
+bildirim e-postası gönderebilir. 2026-10-08'den beri bu gönderim **varsayılan
+olarak kapalıdır** (#210): bildirim kişinin e-postasını Aydınlatma Metni'nde
+yazmayan alıcılara (Cloudflare yönlendirmesi, kişisel kutu) kopyalıyordu.
 
 | `SUBSCRIBE_NOTIFY_ENABLED` | Davranış |
 |---|---|
-| tanımsız, boş veya `true` | Bildirim gönderilir (varsayılan) |
-| `false` | Kayıt normal işler, `/emails` çağrısı **yapılmaz** |
+| tanımsız, boş veya `false` | Kayıt normal işler, `/emails` çağrısı **yapılmaz** (varsayılan) |
+| `true` | Bildirim gönderilir. Açmadan önce alıcıyı Aydınlatma Metni'ne ekleyin |
 
-Kilit kapalıyken kullanıcı tarafında hiçbir şey değişmez: kişi Audience'a
-eklenir ve form `{ ok: true }` alır. Yalnız sağlayıcının `/emails` uç noktasına
-gidilmez.
+## Kayıt durdurma
 
-Bildirimi kapatmak isterseniz Vercel `trescout-landing` projesinde
-`SUBSCRIBE_NOTIFY_ENABLED=false` set edip yeniden deploy edin.
+Erken erişim kayıtları 2026-10-08'den beri **varsayılan olarak durdurulmuştur**
+(#210): form metni KVKK 2026/347 ilke kararına aykırı ve Aydınlatma Metni'nde
+veri sorumlusunun kimliği yok. Durdurulmuşken API gövdeyi okumaz, IP'yi hız
+sınırlayıcıya göndermez, sağlayıcıya istek atmaz; formu dolduran kişi sayfanın
+dilinde "kayıtlar geçici olarak kapalı" mesajı görür (503, `code: "kapali"`).
+
+| `SUBSCRIBE_PAUSED` | Davranış |
+|---|---|
+| tanımsız, boş veya `false` dışında her değer | Kayıt alınmaz (varsayılan) |
+| `false` | Kayıtlar açık |
+
+Yeniden açmadan önce: avukat onaylı form ve Aydınlatma Metni yayında olmalı.
+Sonra Vercel `trescout-landing` projesinde `SUBSCRIBE_PAUSED=false` set edip
+yeniden deploy edin.
 
 ## Güvenlik notları
 
 - `RESEND_API_KEY`, `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` sadece sunucu tarafında kullanılır (Edge Function). Frontend'e sızmaz.
 - Upstash erişilemez olduğunda veya tanımlı değilken kayıtların kesilmemesi için process-memory fallback devreye girer (UPSTASH_RATE_LIMIT_FAIL_CLOSED=true olmadığı sürece).
-- Yönetici bildirimi varsayılan açıktır · kapatmak için `SUBSCRIBE_NOTIFY_ENABLED=false` yapılabilir.
+- Yönetici bildirimi varsayılan kapalıdır · açmak için `SUBSCRIBE_NOTIFY_ENABLED=true` (önce Aydınlatma Metni'ne alıcıyı ekleyin).
+- Kayıtlar varsayılan durdurulmuştur · açmak için `SUBSCRIBE_PAUSED=false`.
 - Vercel env vars şifrelenmiş saklanır.
 - Key sızdığında: Resend Dashboard'dan **revoke** → yeni key oluştur → Vercel'da güncelle → redeploy.
 - API key rotation: 6 ayda bir.
