@@ -2,12 +2,13 @@
 
 G0DM0D3 ist eine befreite KI-Chat-Schnittstelle, die darauf abzielt, die Sicherheitsebenen großer Sprachmodelle zu umgehen. Dieses mit TypeScript entwickelte Open-Source-Projekt ermöglicht Benutzern die uneingeschränkte Interaktion mit Modellen.
 
-- ★ 10.574
+- ★ 11.576
 - TypeScript
 - GitHub Trending · 2026-07-19
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 10,574 → 11,576.
 - **20. August 2026:** Sterne 9,570 → 10,574.
 
 ## Was es bringt

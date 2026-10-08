@@ -2,16 +2,16 @@
 
 Developed by Google, Angular is a comprehensive framework used to create scalable web applications. With its TypeScript-based structure, it offers tools that standardize and structure the development process in complex projects.
 
-- ★ 101,027
+- ★ 101,022
 - TypeScript
 - GitHub Trending · 2026-08-05
 
 ## Updates
 
+- **October 8, 2026:** Stars 101,027 → 101,022, latest release v22.2.2 (October 8, 2026).
 - **October 1, 2026:** Stars 101,033 → 101,027, latest release v22.2.1 (September 30, 2026).
 - **September 27, 2026:** Stars 101,006 → 101,033, latest release v22.2.0 (September 23, 2026).
 - **September 17, 2026:** Stars 100,994 → 101,006, latest release v22.1.7 (September 16, 2026).
-- **September 10, 2026:** Stars 101,002 → 100,994, latest release v22.1.6 (September 9, 2026).
 
 ## What you get
 

@@ -2,15 +2,15 @@
 
 GitHub Copilot SDK ofrece un kit de desarrollo de software (SDK) multiplataforma que permite a los desarrolladores integrar agentes de GitHub Copilot AI en sus aplicaciones y servicios. Esta herramienta, preparada en lenguaje Java, permite la creación de flujos de trabajo de inteligencia artificial personalizados con una estructura estándar en diferentes plataformas.
 
-- ★ 10.544
+- ★ 10.546
 - GitHub Trending · 2026-06-05
 
 ## Actualizaciones
 
+- **8 de octubre de 2026:** Estrellas 10,544 → 10,546, última versión v1.0.18 (8 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 10,534 → 10,544, última versión v1.0.17 (7 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 10,526 → 10,534, última versión v1.0.16 (30 de septiembre de 2026).
 - **29 de septiembre de 2026:** Estrellas 10,478 → 10,526, última versión v1.0.15 (28 de septiembre de 2026).
-- **16 de septiembre de 2026:** Estrellas 10,460 → 10,478, última versión v1.0.14 (16 de septiembre de 2026).
 
 ## Qué aporta
 

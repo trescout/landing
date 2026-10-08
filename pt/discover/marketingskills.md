@@ -2,16 +2,16 @@
 
 A biblioteca de habilidades de marketing desenvolvida para Claude Code e agentes de inteligência artificial oferece recursos especializados em áreas como otimização de taxa de conversão (CRO), redação, otimização de mecanismo de pesquisa (SEO), análise e engenharia de crescimento. Este conjunto de ferramentas permite que os modelos de IA executem tarefas orientadas para o marketing de uma forma mais profissional e orientada por dados.
 
-- ★ 53.677
+- ★ 53.749
 - JavaScript
 - GitHub Trending · 2026-07-06
 
 ## Atualizações
 
+- **8 de outubro de 2026:** Estrelas 53,677 → 53,749, versão mais recente v2.11.25 (8 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 53,534 → 53,677, versão mais recente v2.11.20 (8 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 52,554 → 53,534, versão mais recente v2.11.18 (7 de outubro de 2026).
 - **3 de outubro de 2026:** Estrelas 52,214 → 52,554, versão mais recente v2.11.17 (3 de outubro de 2026).
-- **2 de outubro de 2026:** Estrelas 51,869 → 52,214, versão mais recente v2.11.6 (1 de outubro de 2026).
 
 ## O que você ganha
 

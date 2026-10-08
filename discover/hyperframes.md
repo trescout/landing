@@ -2,16 +2,16 @@
 
 Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.
 
-- ★ 58.911
+- ★ 59.124
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
 
+- **8 Ekim 2026:** Yıldız 58.911 → 59.124, son sürüm v0.8.142 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 58.222 → 58.911, son sürüm v0.8.141 (8 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 57.588 → 58.222, son sürüm v0.8.140 (7 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 57.128 → 57.588, son sürüm v0.8.137 (6 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 57.008 → 57.128, son sürüm v0.8.133 (5 Ekim 2026).
 
 ## Ne kazandırır?
 

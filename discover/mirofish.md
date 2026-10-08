@@ -2,12 +2,13 @@
 
 MiroFish, çeşitli veri türlerini tahmin etmek amacıyla geliştirilen basit ve evrensel bir sürü zekâsı motoru (swarm intelligence engine) sunuyor. Python tabanlı bu araç, karmaşık sistemlerdeki örüntüleri tanımlamak için kolektif hesaplama yöntemlerinden yararlanıyor.
 
-- ★ 73.507
+- ★ 77.183
 - Python
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
 
+- **8 Ekim 2026:** Yıldız 73.507 → 77.183, son sürüm v0.1.2 (7 Mart 2026).
 - **15 Eylül 2026:** Yıldız 69.813 → 73.507, son sürüm v0.1.2 (7 Mart 2026).
 - **2 Ağustos 2026:** Yıldız 64.830 → 69.813, son sürüm v0.1.2 (7 Mart 2026).
 

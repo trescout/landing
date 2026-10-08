@@ -2,16 +2,16 @@
 
 Goose ist ein Open-Source-KI-Agent, der über Codevorschläge hinausgeht und die Installation, Ausführung, Bearbeitung und Prüfung von Software automatisiert. Dieses Tool wurde mit der Rust-Sprache entwickelt und zielt darauf ab, Softwareentwicklungs-Workflows durchgängig zu verwalten, indem es in verschiedene große Sprachmodelle (LLM) integriert wird.
 
-- ★ 54.890
+- ★ 55.085
 - Rust
 - GitHub Trending · 2026-06-08
 
 ## Aktualisierungen
 
+- **8. Oktober 2026:** Sterne 54,890 → 55,085, neueste Version v1.54.0 (8. Oktober 2026).
 - **3. Oktober 2026:** Sterne 54,692 → 54,890, neueste Version v1.53.0 (2. Oktober 2026).
 - **27. September 2026:** Sterne 54,416 → 54,692, neueste Version v1.52.0 (23. September 2026).
 - **18. September 2026:** Sterne 54,280 → 54,416, neueste Version v1.51.0 (17. September 2026).
-- **15. September 2026:** Sterne 54,051 → 54,280, neueste Version v1.50.1 (14. September 2026).
 
 ## Was es bringt
 
