@@ -7885,14 +7885,14 @@
     "slug": "supervision",
     "title": "Supervision",
     "tagline": "Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projeleri için yeniden kullanılabilir…",
-    "meta": "★ 51.146 · Python",
+    "meta": "★ 51.154 · Python",
     "image": "/assets/discover/og/supervision.webp",
     "source": "GitHub",
     "date": "2026-06-09",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 51146,
+    "stars": 51154,
     "lite": false,
     "headline": "Bilgisayarlı görü projeleri için araçlar",
     "last_review": "2026-10-08",
@@ -7966,6 +7966,13 @@
         "onceki_yildiz": 51118,
         "surum": "0.30.8",
         "surum_tarihi": "2026-10-06"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 51154,
+        "onceki_yildiz": 51146,
+        "surum": "0.30.9",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "Developed by Roboflow, Supervision can be reused for computer vision projects…",
@@ -18212,14 +18219,14 @@
     "slug": "folia-major",
     "title": "Folia Major",
     "tagline": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…",
-    "meta": "★ 3.872 · TypeScript",
+    "meta": "★ 3.906 · TypeScript",
     "image": "/assets/discover/og/folia-major.webp",
     "source": "GitHub",
     "date": "2026-07-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3872,
+    "stars": 3906,
     "lite": false,
     "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
     "last_review": "2026-10-08",
@@ -18384,6 +18391,13 @@
         "onceki_yildiz": 3516,
         "surum": "v0.7.15",
         "surum_tarihi": "2026-10-07"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 3906,
+        "onceki_yildiz": 3872,
+        "surum": "v0.7.16",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "Folia-major is a player that provides visualized lyric animations for local music files and online platforms.",
@@ -25135,7 +25149,7 @@
     "slug": "pi-web",
     "title": "Pi Web",
     "tagline": "Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor.",
-    "meta": "★ 7.033 · TypeScript",
+    "meta": "★ 7.166 · TypeScript",
     "image": "/assets/discover/og/pi-web.webp",
     "source": "GitHub",
     "date": "2026-07-22",
@@ -25143,7 +25157,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7033,
+    "stars": 7166,
     "lite": false,
     "headline": "Pi kodlama ajanı için web arayüzü",
     "last_review": "2026-10-08",
@@ -25203,6 +25217,13 @@
         "onceki_yildiz": 6855,
         "surum": "v0.10.0",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 7166,
+        "onceki_yildiz": 7033,
+        "surum": "v0.11.0",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "tagline_en": "Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent.",
@@ -32610,7 +32631,7 @@
     "slug": "unsloth",
     "title": "Unsloth",
     "tagline": "Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma…",
-    "meta": "★ 77.463 · Python",
+    "meta": "★ 77.490 · Python",
     "image": "/assets/discover/og/unsloth.webp",
     "source": "GitHub",
     "date": "2026-08-14",
@@ -32618,7 +32639,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 77463,
+    "stars": 77490,
     "lite": false,
     "headline": "Yerel yapay zekâ modellerini eğit ve çalıştır",
     "tagline_en": "Unsloth provides native training and execution for large language models (LLM) and diffusion models.",
@@ -32725,6 +32746,13 @@
         "onceki_yildiz": 77293,
         "surum": "v0.1.904-beta",
         "surum_tarihi": "2026-10-07"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 77490,
+        "onceki_yildiz": 77463,
+        "surum": "v0.1.905-beta",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "last_seen": "2026-08-17"
@@ -36700,14 +36728,14 @@
     "slug": "ponytail",
     "title": "Ponytail",
     "tagline": "Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti sistemidir.",
-    "meta": "★ 158.137 · JavaScript",
+    "meta": "★ 158.247 · JavaScript",
     "image": "/assets/discover/og/ponytail.webp",
     "source": "GitHub",
     "date": "2026-08-25",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 158137,
+    "stars": 158247,
     "summary": "Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti sistemidir. Amaç, görev için gereken kodu yazarken doğrulama, hata yönetimi, güvenlik ve erişilebilirliği korumaktır.",
     "lite": false,
     "tagline_en": "It is an MIT-licensed rule set and plug-in system for AI coding agents.",
@@ -36980,6 +37008,13 @@
         "yildiz": 158137,
         "onceki_yildiz": 156385,
         "surum": "v5.0.0",
+        "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 158247,
+        "onceki_yildiz": 158137,
+        "surum": "v5.1.0",
         "surum_tarihi": "2026-10-08"
       }
     ]
@@ -42773,7 +42808,7 @@
     "slug": "hindsight",
     "title": "Hindsight",
     "tagline": "Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor.",
-    "meta": "★ 46.537",
+    "meta": "★ 47.195",
     "image": "/assets/discover/og/hindsight.webp",
     "source": "GitHub",
     "date": "2026-09-25",
@@ -42781,7 +42816,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 46537,
+    "stars": 47195,
     "summary": "Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor. Geçmiş etkileşimlerden çıkarım yaparak ajanların karar alma süreçlerini iyileştiren bu açık kaynaklı kütüphane, sistemlerin zamanla daha tutarlı sonuçlar üretmesini sağlıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için akıllı bellek katmanı",
@@ -42825,6 +42860,13 @@
         "onceki_yildiz": 44051,
         "surum": "v0.10.2",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 47195,
+        "onceki_yildiz": 46537,
+        "surum": "v0.10.3",
+        "surum_tarihi": "2026-10-08"
       }
     ],
     "last_review": "2026-10-08",
@@ -44227,14 +44269,14 @@
     "slug": "anyps5",
     "title": "AnyPS5",
     "tagline": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir…",
-    "meta": "★ 12.968 · C++",
+    "meta": "★ 14.169 · C++",
     "image": "/assets/discover/og/anyps5.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12968,
+    "stars": 14169,
     "last_seen": "2026-10-08",
     "summary": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol özelindeki yürütülebilir dosyaların (executables) farklı platformlara taşınmasını sağlar.",
     "lite": false,
@@ -44268,6 +44310,13 @@
         "tarih": "2026-10-08",
         "yildiz": 12968,
         "onceki_yildiz": 8094,
+        "surum": "v0.1.1",
+        "surum_tarihi": "2026-09-28"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 14169,
+        "onceki_yildiz": 12968,
         "surum": "v0.1.1",
         "surum_tarihi": "2026-09-28"
       }
@@ -44367,7 +44416,7 @@
     "slug": "rea",
     "title": "REA",
     "tagline": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı…",
-    "meta": "★ 19.417 · TypeScript",
+    "meta": "★ 20.955 · TypeScript",
     "image": "/assets/discover/og/rea.webp",
     "source": "GitHub",
     "date": "2026-10-06",
@@ -44375,7 +44424,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 19417,
+    "stars": 20955,
     "last_seen": "2026-10-08",
     "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.",
     "lite": false,
@@ -44400,6 +44449,13 @@
         "tarih": "2026-10-08",
         "yildiz": 19417,
         "onceki_yildiz": 11451,
+        "surum": "rea-agents-6.0.0",
+        "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-08",
+        "yildiz": 20955,
+        "onceki_yildiz": 19417,
         "surum": "rea-agents-6.0.0",
         "surum_tarihi": "2026-10-08"
       }

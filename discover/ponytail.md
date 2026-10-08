@@ -2,7 +2,7 @@
 
 Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti sistemidir. Amaç, görev için gereken kodu yazarken doğrulama, hata yönetimi, güvenlik ve erişilebilirliği korumaktır.
 
-- ★ 158.137
+- ★ 158.247
 - JavaScript
 - GitHub Trending · 2026-08-25
 
@@ -38,10 +38,10 @@ Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti si
 
 ## Güncelleme
 
+- **8 Ekim 2026:** Yıldız 158.137 → 158.247, son sürüm v5.1.0 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 156.385 → 158.137, son sürüm v5.0.0 (8 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 155.501 → 156.385, son sürüm v4.13.0 (5 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 152.240 → 155.501, son sürüm v4.12.0 (5 Ekim 2026).
-- **3 Ekim 2026:** Yıldız 146.524 → 152.240, son sürüm v4.10.3 (3 Ekim 2026).
 
 ## Bu araç ne yapar?
 
