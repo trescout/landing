@@ -108,3 +108,5 @@ jobs:
       # isteği göndermez.
       - name: SEO/GEO kontrolü
         run: python3 scripts/check-seo-geo.py
+      - name: SSS şeması ↔ sayfa kontrolü
+        run: python3 scripts/check-sss-sema.py

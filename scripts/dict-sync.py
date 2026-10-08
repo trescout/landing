@@ -14,7 +14,7 @@ Akış:
 GEMINI_API_KEY: ortam değişkeni (CI secret) ya da ../trescout-app/.env.local (yerel).
 Kullanım: python3 scripts/dict-sync.py [--dry]   (--dry: yazma, sadece ne ekleneceğini göster)
 """
-import os, re, sys, json, glob, time, subprocess, urllib.request
+import os, re, sys, json, glob, html, time, subprocess, urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # landing repo kökü
 REPORTS = os.path.join(ROOT, "reports")
@@ -234,7 +234,10 @@ def render_page(e, en_map):
     dt=json.dumps({"@context":"https://schema.org","@type":"DefinedTerm","name":en,**({"alternateName":full} if full else {}),"inLanguage":"tr","description":tanim,"inDefinedTermSet":{"@type":"DefinedTermSet","name":"TreScout Teknoloji Sözlüğü","url":"https://trescout.com/dictionary/"},"url":canon},ensure_ascii=False,indent=2)
     faqjson=""
     if sss:
-        faq={"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q["soru"],"acceptedAnswer":{"@type":"Answer","text":q["cevap"]}} for q in sss]}
+        # Şema sayfada görünen SSS ile aynı metni taşımalı (Google eşleşme istiyor):
+        # görünen metin esc()'ten geçiyor, şema da aynı temizlikten. Answer.text HTML
+        # kabul ettiği için "<dal>" gibi düz metin kaçışlanır, yoksa etiket sanılıp düşer.
+        faq={"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":clean_typography(q["soru"]),"acceptedAnswer":{"@type":"Answer","text":html.escape(clean_typography(q["cevap"]),quote=False)}} for q in sss]}
         faqjson='<script type="application/ld+json">\n'+json.dumps(faq,ensure_ascii=False,indent=2)+'\n</script>\n'
     secs=f'<section class="disc-sec"><h2>Tanım</h2><p>{esc(tanim)}</p></section>'
     if analoji: secs+=f'<div class="dict-analogy">{esc(analoji)}</div>'

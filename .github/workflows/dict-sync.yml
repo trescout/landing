@@ -529,6 +529,10 @@ jobs:
       - name: SEO/GEO guard
         run: python3 scripts/check-seo-geo.py
 
+      # FAQPage şeması sayfada görünen SSS ile aynı olmalı (Google eşleşme istiyor)
+      - name: SSS şeması guard'ı
+        run: python3 scripts/check-sss-sema.py
+
       # Kaynak katalog veya üretilmiş TR/çok dilli keşif sayfalarında Portekizce
       # tagline sızıntısını engeller. Guard yalnız dosya okur; ağ/çeviri/e-posta
       # çağrısı yapmaz ve normal teknoloji terimlerini yanlış alarm vermemesi için
