@@ -1,4 +1,4 @@
-# PKM Gestion des connaissances, Zettelkasten et pensée en réseau
+# PKM : Gestion des connaissances, Zettelkasten et pensée en réseau
 
 
 **Catégorie:** Data & Infra  

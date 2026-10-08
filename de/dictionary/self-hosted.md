@@ -1,4 +1,4 @@
-# Self-Hosted Homelabs, Cloud-Repatriierung und eigene Server
+# Self-Hosted: Homelabs, Cloud-Repatriierung und eigene Server
 
 
 **Kategorie:** Dev  

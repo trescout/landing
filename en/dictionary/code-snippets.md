@@ -1,4 +1,4 @@
-# Code Snippets IDE templates, parametric expansion, and code governance
+# Code Snippets: IDE templates, parametric expansion, and code governance
 
 
 **Category:** Dev  

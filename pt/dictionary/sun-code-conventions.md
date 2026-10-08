@@ -1,4 +1,4 @@
-# Sun Code Conventions Padrões Java, legibilidade e manutenção de código
+# Sun Code Conventions: Padrões Java, legibilidade e manutenção de código
 
 
 **Categoria:** Dev  

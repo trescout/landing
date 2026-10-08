@@ -1,4 +1,4 @@
-# Code Snippets Modèles d'IDE, expansion paramétrique et gouvernance
+# Code Snippets : Modèles d'IDE, expansion paramétrique et gouvernance
 
 
 **Catégorie:** Dev  

@@ -1,4 +1,4 @@
-# Code Snippets IDE-Vorlagen, parametrische Expansion und Team-Governance
+# Code Snippets: IDE-Vorlagen, parametrische Expansion und Team-Governance
 
 
 **Kategorie:** Dev  

@@ -1,4 +1,4 @@
-# Patent Disclosure Offenlegungspflicht, Stand der Technik und Patentrecht
+# Patent Disclosure: Offenlegungspflicht, Stand der Technik und Patentrecht
 
 
 **Kategorie:** Dev  

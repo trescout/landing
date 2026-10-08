@@ -1,4 +1,4 @@
-# Assets Static assets, game pipelines, ITAM, and DAM systems
+# Assets: Static assets, game pipelines, ITAM, and DAM systems
 
 
 **Category:** Dev  

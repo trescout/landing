@@ -1,4 +1,4 @@
-# Distributed Systems Irrtümer, CAP-Theorem, Konsens und Saga-Muster
+# Distributed Systems: Irrtümer, CAP-Theorem, Konsens und Saga-Muster
 
 
 **Kategorie:** Dev  

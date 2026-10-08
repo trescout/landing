@@ -1,4 +1,4 @@
-# Code Snippets Plantillas de IDE, expansión paramétrica y estándares de equipo
+# Code Snippets: Plantillas de IDE, expansión paramétrica y estándares de equipo
 
 
 **Categoría:** Dev  

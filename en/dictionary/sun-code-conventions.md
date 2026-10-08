@@ -1,4 +1,4 @@
-# Sun Code Conventions Java standards, code readability, and maintenance
+# Sun Code Conventions: Java standards, code readability, and maintenance
 
 
 **Category:** Dev  

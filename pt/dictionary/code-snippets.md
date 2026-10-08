@@ -1,4 +1,4 @@
-# Code Snippets Modelos de IDE, expansão paramétrica e padrões de equipe
+# Code Snippets: Modelos de IDE, expansão paramétrica e padrões de equipe
 
 
 **Categoria:** Dev  

@@ -1,4 +1,4 @@
-# PKM Personal Knowledge Management, Zettelkasten, and networked thought
+# PKM: Personal Knowledge Management, Zettelkasten, and networked thought
 
 
 **Category:** Data & Infra  

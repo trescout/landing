@@ -1,4 +1,4 @@
-# Local Localhost, variable scope, Local-First, and Local AI
+# Local: Localhost, variable scope, Local-First, and Local AI
 
 
 **Category:** Dev  

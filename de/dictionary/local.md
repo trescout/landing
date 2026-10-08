@@ -1,4 +1,4 @@
-# Local Localhost, lokaler Scope, Local-First und lokale KI
+# Local: Localhost, lokaler Scope, Local-First und lokale KI
 
 
 **Kategorie:** Dev  

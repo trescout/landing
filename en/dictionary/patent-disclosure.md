@@ -1,4 +1,4 @@
-# Patent Disclosure Enabling disclosure, prior art, and software IP
+# Patent Disclosure: Enabling disclosure, prior art, and software IP
 
 
 **Category:** Dev  

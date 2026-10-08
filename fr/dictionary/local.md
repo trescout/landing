@@ -1,4 +1,4 @@
-# Local Localhost, portée des variables, Local-First et IA locale
+# Local : Localhost, portée des variables, Local-First et IA locale
 
 
 **Catégorie:** Dev  
