@@ -72,6 +72,9 @@ jobs:
       - name: Ana sayfa katalog türevi güncel mi
         run: python3 scripts/catalog-home.py --check
 
+      - name: .md uç noktaları güncel mi (HTML ↔ .md)
+        run: python3 scripts/md-uret.py --check
+
       - name: Başlık tutarlılık kontrolü (katalog ↔ sayfa H1)
         run: python3 scripts/check-headline-consistency.py
       - name: Marka tipografi kontrolü (🚀 · em dash)

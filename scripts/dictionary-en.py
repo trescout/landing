@@ -23,6 +23,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
 from translation_service import translate_text, translate_texts
 from sayfa_koruma import zayiflatir, damgalar, damga_yaz, damga_yolu, elle_duzenlenmis, icerik_damgasi, kayma_freni
+from html_md import md_dosyasi
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "dictionary")
@@ -388,33 +389,9 @@ def build(term, chrome):
 
 
 def markdown(term, h):
-    """Sayfanın .md karşılığı · llms.txt bunu okuyor. İngilizce .md'ler de
-    sabit kalıptan üretiliyordu, artık gerçek içerikten."""
-    g = h.split("<main", 1)[1].split("</main>")[0]
-    baslik = metin(blok(r'<h1 class="disc-title">(.*?)</h1>', g))
-    full = ingilizce_acilim(metin(blok(r'<p class="dict-en">(.*?)</p>', g)))
-    lead = metin(blok(r'<p class="disc-lead">(.*?)</p>', g))
-    sat = [f"# {baslik}", ""]
-    if full:
-        sat += [f"> {full}", ""]
-    sat += [lead, ""]
-    an = metin(blok(r'<div class="dict-analogy">(.*?)</div>', g))
-    for m in re.finditer(r'<section class="disc-sec"><h2>(.*?)</h2>(.*?)</section>', g, re.S):
-        h2, govde = metin(m.group(1)), m.group(2)
-        sat.append(f"## {h2}")
-        for q, a2 in re.findall(r'<p class="dict-faq-q">(.*?)</p><p class="dict-faq-a">(.*?)</p>', govde, re.S):
-            sat += [f"**{metin(q)}**", metin(a2), ""]
-        for lnk, ad in re.findall(r'<a href="([^"]+)">(.*?)</a>', govde, re.S):
-            sat.append(f"- [{metin(ad)}]({lnk})")
-        pm = re.search(r"<p>(.*?)</p>", govde, re.S)
-        if pm:
-            sat.append(metin(pm.group(1)))
-        sat.append("")
-        if an and h2 == "Overview":
-            sat += [f"*{an}*", ""]
-            an = ""
-    sat += ["---", D["md_kaynak_sozluk"].format(url=f"{BASE}{D['onek']}/dictionary/{term['slug']}/")]
-    return "\n".join(sat) + "\n"
+    """Sayfanın .md karşılığı · llms.txt bunu okuyor. Ortak dönüştürücüden (html_md.py);
+    md-uret.py her koşuda aynı çıktıyı tüm sayfalar için yeniden yazar."""
+    return md_dosyasi(h, D["md_kaynak_sozluk"].format(url=f"{BASE}{D['onek']}/dictionary/{term['slug']}/"), BASE)
 
 
 def main():
@@ -513,4 +490,5 @@ def main():
     print(f"✅ {yazilan} {LANG} sözlük sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 
-main()
+if __name__ == "__main__":
+    main()

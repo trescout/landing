@@ -24,6 +24,7 @@ MANIFEST = os.path.join(OG, "dictionary.json")
 SITEMAP = os.path.join(ROOT, "sitemap.xml")
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gemini_zinciri  # noqa: E402 · model zinciri, 429 ayrımı, istek aralığı
+from html_md import md_dosyasi  # noqa: E402 · .md sayfanın kendisinden (md-uret.py ile aynı)
 DRY = "--dry" in sys.argv
 CAT_TR = {"ai": "Yapay Zekâ", "dev": "Geliştirme", "data": "Veri & Altyapı"}
 import datetime
@@ -267,14 +268,7 @@ def render_page(e, en_map):
       '</article>\n</main>\n'+FOOTER+'\n<script src="/assets/subscribe.js" defer></script>\n<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>\n<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/provider-consent.js" defer></script>\n<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
     os.makedirs(os.path.join(DICT,slug),exist_ok=True)
     open(os.path.join(DICT,slug,"index.html"),"w",encoding="utf-8").write(head+body)
-    md=f"# {en} nedir?\n"+(f"\n> {full}\n" if full else "")+f"\n**Kategori:** {cattr}  \n**Son güncelleme:** {TODAY_ISO}\n\n{kisa}\n\n## Tanım\n{tanim}\n"
-    if analoji: md+=f"\n## Bir benzetmeyle\n{analoji}\n"
-    if nasil: md+=f"\n## Nasıl çalışır?\n{nasil}\n"
-    if nerede: md+=f"\n## Nerede kullanılır?\n{nerede}\n"
-    if kar: md+=f"\n## Sık karıştırılanlar\n{kar}\n"
-    if sss: md+="\n## Sıkça sorulanlar\n"+"".join(f"\n**{q['soru']}**  \n{q['cevap']}\n" for q in sss)
-    if rel: md+="\n## İlgili terimler\n"+"".join(f"- [{en_map.get(r,r)}](/dictionary/{r}/)\n" for r in rel if r in en_map)
-    md+=f"\n---\nKaynak: TreScout Teknoloji Sözlüğü · {canon}\nTreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.\n"
+    md=md_dosyasi(head+body,f"Kaynak: TreScout Teknoloji Sözlüğü · {canon}\nTreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.")
     open(os.path.join(DICT,slug+".md"),"w",encoding="utf-8").write(md)
 
 def render_index(manifest):
