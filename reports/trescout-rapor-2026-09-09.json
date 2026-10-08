@@ -363,7 +363,6 @@
               ],
               "rank": 1,
               "extra": {
-                "author": "procedurecall",
                 "createdAt": "2026-09-08T05:42:28Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49605915"
               }
@@ -399,7 +398,6 @@
               ],
               "rank": 2,
               "extra": {
-                "author": "tedsanders",
                 "createdAt": "2026-09-08T17:13:21Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49613262"
               }
@@ -435,7 +433,6 @@
               ],
               "rank": 3,
               "extra": {
-                "author": "utiiiD",
                 "createdAt": "2026-09-08T14:55:45Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49611251"
               }
@@ -471,7 +468,6 @@
               ],
               "rank": 4,
               "extra": {
-                "author": "yurivish",
                 "createdAt": "2026-09-09T00:40:40Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49619227"
               }
@@ -507,7 +503,6 @@
               ],
               "rank": 5,
               "extra": {
-                "author": "fittingopposite",
                 "createdAt": "2026-09-05T18:44:40Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49579443"
               }

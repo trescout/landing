@@ -336,7 +336,6 @@
               ],
               "rank": 1,
               "extra": {
-                "author": "l-one-lone",
                 "createdAt": "2026-08-24T13:05:25Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49419237"
               }
@@ -372,7 +371,6 @@
               ],
               "rank": 2,
               "extra": {
-                "author": "tosh",
                 "createdAt": "2026-08-24T15:08:17Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49420873"
               }
@@ -408,7 +406,6 @@
               ],
               "rank": 3,
               "extra": {
-                "author": "ComputerGuru",
                 "createdAt": "2026-08-24T15:28:04Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49421158"
               }
@@ -444,7 +441,6 @@
               ],
               "rank": 4,
               "extra": {
-                "author": "K7PJP",
                 "createdAt": "2026-08-24T22:13:40Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49426564"
               }
@@ -480,7 +476,6 @@
               ],
               "rank": 5,
               "extra": {
-                "author": "centrosphere",
                 "createdAt": "2026-08-24T17:05:38Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49422784"
               }

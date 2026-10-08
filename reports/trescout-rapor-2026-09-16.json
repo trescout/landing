@@ -303,7 +303,6 @@
               ],
               "rank": 1,
               "extra": {
-                "author": "arnemunthekaas",
                 "createdAt": "2026-09-15T12:31:10Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49711544"
               }
@@ -339,7 +338,6 @@
               ],
               "rank": 2,
               "extra": {
-                "author": "albelfio",
                 "createdAt": "2026-09-15T19:25:03Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49717558"
               }
@@ -375,7 +373,6 @@
               ],
               "rank": 3,
               "extra": {
-                "author": "ChrisArchitect",
                 "createdAt": "2026-09-15T17:52:18Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49716176"
               }
@@ -411,7 +408,6 @@
               ],
               "rank": 4,
               "extra": {
-                "author": "choult",
                 "createdAt": "2026-09-15T10:22:46Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49710253"
               }
@@ -447,7 +443,6 @@
               ],
               "rank": 5,
               "extra": {
-                "author": "leumon",
                 "createdAt": "2026-09-15T17:38:18Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49715947"
               }

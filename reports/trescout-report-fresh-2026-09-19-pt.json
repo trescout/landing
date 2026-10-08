@@ -170,7 +170,6 @@
               ],
               "rank": 1,
               "extra": {
-                "author": "theanonymousone",
                 "createdAt": "2026-09-18T19:03:09Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49758736"
               }
@@ -206,7 +205,6 @@
               ],
               "rank": 2,
               "extra": {
-                "author": "jcbhmr",
                 "createdAt": "2026-09-18T14:18:41Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49754785"
               }
@@ -242,7 +240,6 @@
               ],
               "rank": 3,
               "extra": {
-                "author": "ilreb",
                 "createdAt": "2026-09-18T09:42:22Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49752041"
               }
@@ -278,7 +275,6 @@
               ],
               "rank": 4,
               "extra": {
-                "author": "joeriddles",
                 "createdAt": "2026-09-17T21:48:38Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49747070"
               }
@@ -314,7 +310,6 @@
               ],
               "rank": 5,
               "extra": {
-                "author": "f311a",
                 "createdAt": "2026-09-18T18:51:46Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49758580"
               }

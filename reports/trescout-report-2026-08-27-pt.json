@@ -375,7 +375,6 @@
               ],
               "rank": 1,
               "extra": {
-                "author": "mfiguiere",
                 "createdAt": "2026-08-27T01:12:55Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49458161"
               }
@@ -411,7 +410,6 @@
               ],
               "rank": 2,
               "extra": {
-                "author": "GrumpySciGuy",
                 "createdAt": "2026-08-27T01:46:22Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49458418"
               }
@@ -447,7 +445,6 @@
               ],
               "rank": 3,
               "extra": {
-                "author": "sss111",
                 "createdAt": "2026-08-26T17:22:16Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49452709"
               }
@@ -483,7 +480,6 @@
               ],
               "rank": 4,
               "extra": {
-                "author": "nderjung",
                 "createdAt": "2026-08-26T17:42:22Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49452990"
               }
@@ -519,7 +515,6 @@
               ],
               "rank": 5,
               "extra": {
-                "author": "tmp10423288442",
                 "createdAt": "2026-08-26T23:55:44Z",
                 "hnUrl": "https://news.ycombinator.com/item?id=49457545"
               }
