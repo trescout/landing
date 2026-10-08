@@ -25292,7 +25292,7 @@
         "surum_tarihi": "2026-09-13"
       }
     ],
-    "tagline_en": "This tool, which allows you to create a free temporary email service using the Cloudflare infrastructure, allows you to receive and receive emails…",
+    "tagline_en": "Set up a free, serverless temp email service on Cloudflare Workers, Pages and D1 with your own domain.",
     "tagline_fr": "Cet outil, qui permet de créer un service de messagerie temporaire gratuit en utilisant l'infrastructure Cloudflare, permet de recevoir et de recevoir des emails…",
     "tagline_pt": "Esta ferramenta, que permite criar um serviço de e-mail temporário gratuito utilizando a infraestrutura Cloudflare, permite receber e receber e-mails…",
     "tagline_es": "Esta herramienta, que le permite crear un servicio de correo electrónico temporal gratuito utilizando la infraestructura de Cloudflare, le permite recibir y recibir correos electrónicos…",

@@ -1,61 +1,63 @@
-# Free temporary email on Cloudflare
+# Free temporary email service on Cloudflare
 
-Cloudflare Temp Email is an open-source platform that allows you to set up a completely free, serverless disposable email service running on your own domain using Cloudflare Workers, Pages, and D1/KV database infrastructure. It protects your personal privacy with inbox management, attachment storage, Telegram bot integration, and automatic cleanup mechanisms.
+Cloudflare Temp Email is an open-source platform that lets you create a completely free, serverless temporary email (disposable email) service with your own domain using Cloudflare Workers, Pages, and D1/KV storage. It protects personal privacy with inbox management, attachment handling, Telegram bot integration, and automated cleanup mechanisms.
 
 - ★ 11,734
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## What you get
-- Zero server and operational cost: It runs on Cloudflare's generous free tier (100,000 Workers requests per day, free Email Routing, and Pages hosting) without renting an external server.
-- Custom domain and unblockable addresses: Unlike general disposable email services, it generates single-use addresses with your own domain that do not get caught in websites' blacklists.
-- Fast email parsing with Rust and WASM: Processes complex incoming MIME, multipart, and HTML-content emails in milliseconds thanks to a WebAssembly module compiled with Rust.
-- Telegram bot and instant notifications: Receive notifications directly via Telegram when a new email arrives, read the message content, or instantly create a new address using bot commands.
-- Automatic cleaning and secure access: Automatically clears old messages and attachments after a set period; prevents unauthorized access with an admin password.
+- Zero server and operational costs: Runs on Cloudflare's generous free tier (100,000 Workers requests/day, free Email Routing, and Pages hosting) without leasing external servers.
+- Custom domain and unblockable addresses: Generates disposable addresses using your own domain that bypass blocklists targeting generic temp mail providers.
+- Fast email parsing with Rust and WASM: Efficiently handles complex MIME, multipart, and HTML emails in milliseconds via a compiled WebAssembly module.
+- Telegram bot and instant notifications: Receive incoming email notifications directly in Telegram, read message contents, or generate new addresses on the fly.
+- Automated cleanup and secure access: Automatically purges expired messages and attachments after a designated retention period while safeguarding administration via access credentials.
 
-## How to get started and installation options
-- Official installation guide →
+## Getting started and deployment options
+- Official documentation and setup guide →
 - Live demo interface →
+Deploying the project requires only a Cloudflare account and a domain managed on Cloudflare DNS. You can either deploy with one click by connecting the GitHub repository to Cloudflare Pages or deploy D1 databases and Worker functions locally using the Wrangler CLI.
 
-## Technical architecture and working principle
-- Cloudflare Email Routing integration: All MX traffic destined for your domain is handled by Cloudflare infrastructure and routed directly to the catcher Worker function via the catch-all rule.
-- Edge Worker and Rust WASM parser: The incoming email stream (raw stream) is transferred to the optimized Rust WASM engine running inside the Worker to quickly parse headers, body, HTML, and attachments.
-- Cloudflare D1 and R2 storage: Email texts and metadata are stored on Cloudflare D1, which is an edge SQLite database. File attachments are optionally written to Cloudflare R2 object storage.
-- Modern single-page application (SPA): The user-friendly web interface is served with zero latency via Cloudflare Pages' global CDN network.
-- REST APIs and external integrations: Offers the ability to generate new email addresses and query the inbox via REST API endpoints for automated tests or third-party software.
+## Technical architecture and inner workings
+- Cloudflare Email Routing integration: Inbound MX traffic is routed through Cloudflare and directed to the catch-all Worker handler.
+- Edge Worker & Rust WASM parser: Raw email streams are ingested into the optimized Rust WASM module to extract headers, body text, HTML, and attachments.
+- Cloudflare D1 & R2 storage: Message text and metadata are stored in edge SQLite via Cloudflare D1, while attachments are optionally offloaded to Cloudflare R2.
+- Modern Single Page Application (SPA): The frontend is delivered with zero latency through Cloudflare Pages' global edge CDN.
+- REST API & external integrations: Programmatic endpoints allow external test suites or CI/CD pipelines to create disposable addresses and fetch validation tokens.
+Cloudflare Temp Email eliminates the operational burden of hosting traditional SMTP servers (Postfix, Dovecot) through a modern serverless design:
 
-## Installation and sample deployment
-**Deployment Steps with Wrangler CLI**
+## Setup and deployment example
+**Wrangler CLI Deployment Steps**
 
 ```
-# 1. Depoyu klonlayin ve bagimliliklari kurun
+# 1. Clone repository and install dependencies
 git clone https://github.com/dreamhunter2333/cloudflare_temp_email.git
 cd cloudflare_temp_email
 pnpm install
 
-# 2. Cloudflare D1 veritabanini olusturun
+# 2. Create Cloudflare D1 database
 npx wrangler d1 create temp_email_db
 
-# 3. Veritabani semasini calistirin ve yayinlayin
+# 3. Apply schema and deploy
 npx wrangler d1 execute temp_email_db --file=./db/schema.sql
 pnpm run deploy
 ```
 
 
-## If you don't write code
-I want to set up the open-source temporary email project dreamhunter2333/cloudflare_temp_email running on Cloudflare with my own domain. I have a Cloudflare account and a domain connected to Cloudflare DNS. Can you explain step by step how to set up Email Routing, D1 database, and the Cloudflare Pages interface from scratch via the Cloudflare dashboard? Also, which configuration steps should I follow to forward incoming emails to my Telegram bot?
+## If you do not code
+I want to set up the open-source dreamhunter2333/cloudflare_temp_email disposable email project on Cloudflare using my own domain. I have a Cloudflare account and a custom domain configured on Cloudflare DNS. Can you explain step by step how to configure Email Routing catch-all rules, provision the D1 database, and deploy the Cloudflare Pages frontend? Also, what configuration values do I need to integrate incoming notifications with a Telegram bot?
 
 ## Frequently asked questions
-- Is Cloudflare's free plan enough for personal use? Yes. The Cloudflare free tier offers 100,000 Worker requests per day, free Email Routing, and a D1 database quota. For personal use and small teams, it is nearly impossible to exceed these limits, and the system runs at completely zero cost.
-- Is a custom domain required to use the service? Yes. To receive emails, you must have a domain name (or subdomain, e.g., mail.yourdomain.com) managed on Cloudflare DNS. This allows you to easily bypass sites that block public temporary email services.
-- Are incoming emails stored permanently? No, this is a temporary email service. As the system administrator, you can set the retention period for emails from the panel (for example, 1 hour, 24 hours, or 7 days); expired records are automatically deleted from D1 and R2 storage.
-- Can email replies be sent outbound via the service? Yes. Although Cloudflare Email Routing only supports receiving emails, when a project is connected to Resend, Brevo, or a custom SMTP server API, it also supports sending emails to the outside world and replying from the web panel.
-
-## Related dictionary terms
+- Is Cloudflare's free tier sufficient for personal use? Yes. Cloudflare's free tier provides 100,000 Worker requests per day along with free Email Routing and D1 quotas. For individual users and small teams, exceeding these limits is virtually impossible; the setup runs at zero cost.
+- Is a custom domain required? Yes. To receive inbound email, you need a domain or subdomain managed on Cloudflare DNS. This gives you a major advantage over shared temporary mail services that are blocked by web platforms.
+- Are incoming emails stored permanently? No, this is a disposable email service. Administrators can configure retention windows (such as 1 hour, 24 hours, or 7 days); expired records are purged automatically from storage.
+- Can the service send outgoing replies? Yes. While Cloudflare Email Routing only handles inbound delivery, the project supports outbound sending and replies when integrated with Resend, Brevo, or custom SMTP APIs.
 
 ## Links
 - GitHub repository →
 - Read in Turkish →
+
+## Related dictionary terms
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/cloudflare-temp-email/
