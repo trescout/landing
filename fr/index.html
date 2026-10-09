@@ -67,7 +67,6 @@
   <link rel="stylesheet" href="/assets/index.css">
 </head>
 <body>
-  <span id="top" aria-hidden="true"></span>
   <a class="skip-link" href="#main">Aller au contenu principal</a>
 
   <!-- ============== NAV ============== -->
@@ -83,17 +82,11 @@
         <p class="mid-line">TreScout parcourt les flux sources, résume l’essentiel et le réunit dans un seul rapport.</p>
         <p class="sub-line">GitHub Trending, Hacker News, ainsi que les modèles et Daily Papers de Hugging Face.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero-fr" id="hero-subscribe-form" action="/api/subscribe" method="post">
-          <div class="form-row">
-            <label class="visually-hidden" for="email-hero-fr">Adresse e-mail</label><input class="input" type="email" name="email" id="email-hero-fr" placeholder="Votre adresse e-mail" autocomplete="email" aria-label="Votre adresse e-mail" required>
-            <button class="btn btn-primary btn-large" type="submit">Soyez averti à l’ouverture de l’accès anticipé</button>
-          </div>
-          <p class="form-notice">Découvrez comment nous traitons vos données personnelles dans notre <a href="/fr/privacy.html" data-privacy-modal>notice de confidentialité</a>.</p><label class="form-consent"><input type="checkbox" name="consent" required><span>J'accepte de recevoir des e-mails concernant mon invitation à l'accès anticipé et le lancement de TreScout. Je peux retirer ce consentement à tout moment.</span></label>
-          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
-        </form>
-        <p class="hero-note">Pour le moment, nous recueillons des adresses pour la liste d’accès anticipé. S’inscrire ne signifie pas que l’accès est ouvert immédiatement ; nous vous contacterons au sujet d’une invitation et du lancement. Aucun message inutile.</p>
-        <!-- STATUS · ties the future-tense copy below to what actually runs today -->
-        <p class="hero-value-promise">Aujourd’hui : consultez de vrais rapports technologiques dans l’archive en ligne. Inscrivez-vous à la liste d’accès anticipé pour recevoir les informations d’invitation et de lancement. Nous annoncerons la livraison par e-mail, le choix de l’heure et les filtres lorsqu’ils seront prêts. Aucun message inutile. <a href="/fr/reports/" class="hero-archive-link">Consulter l’archive →</a></p>
+        <div class="hero-actions">
+          <a class="btn btn-primary btn-large" href="/fr/reports/">Lire les derniers rapports →</a>
+          <a class="btn btn-ghost btn-large" href="#top">Rejoindre la liste d’accès anticipé</a>
+        </div>
+        <p class="hero-value-promise">Les rapports sont accessibles à tous. L’envoi par e-mail, le choix de l’heure et les filtres par sujet arriveront avec l’accès anticipé.</p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
@@ -157,6 +150,30 @@
     </div>
   </section>
 
+  <!-- ============== DISCOVERY RADAR ============== -->
+  <section class="section reveal" id="discovery-radar" data-discovery-radar>
+    <div class="container">
+      <div class="radar-heading">
+        <span class="eyebrow">Parmi les découvertes récentes</span>
+        <h2 class="section-title">Que pouvez-vous découvrir aujourd’hui ?</h2>
+        <p class="section-lead">Filtrez les projets réels du catalogue TreScout par sujet. Chaque carte ouvre des notes détaillées sur la source et l’usage.</p>
+      </div>
+      <div class="radar-toolbar">
+        <div class="radar-filters" role="tablist" aria-label="Que pouvez-vous découvrir aujourd’hui ?">
+          <button type="button" role="tab" aria-selected="true" data-radar-filter="all">Tout</button><button type="button" role="tab" aria-selected="false" data-radar-filter="ai" tabindex="-1">IA</button><button type="button" role="tab" aria-selected="false" data-radar-filter="dev" tabindex="-1">Développement</button><button type="button" role="tab" aria-selected="false" data-radar-filter="learn" tabindex="-1">Apprentissage</button><button type="button" role="tab" aria-selected="false" data-radar-filter="selfhost" tabindex="-1">Auto-hébergé</button>
+        </div>
+        <a class="btn btn-ghost radar-all-link" href="/fr/discover/">Voir toutes les découvertes →</a>
+      </div>
+      <div class="radar-grid" data-radar-grid aria-live="polite" aria-busy="true">
+        <p class="radar-loading">Chargement des découvertes…</p>
+      </div>
+      <div class="radar-footer">
+        <span class="radar-note">Chargé depuis le catalogue · le contenu et les dates appartiennent aux sources.</span>
+        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Inscrivez-vous pour suivre les découvertes et les informations de lancement ↗</a>
+      </div>
+    </div>
+  </section>
+
   <!-- ============== BEYOND THE REPORT ============== -->
   <section class="section section-center reveal" id="beyond-report">
     <div class="container">
@@ -164,39 +181,6 @@
       <h2 class="section-title">À côté du rapport : découverte, glossaire et six langues.</h2>
       <p class="section-lead">Nous publions les rapports dans des archives. Nous présentons les outils et les termes des rapports sur leurs propres pages, et publions le tout en six langues.</p>
       <div class="features-grid features-grid-4"><a class="feature" href="/fr/reports/"><h3>Archive des rapports</h3><p>Les archives des rapports quotidiens. Ouvrez la journée manquée quand vous le souhaitez.</p></a><a class="feature" href="/fr/discover/"><h3>Découvrir</h3><p>Les outils open source des rapports, tels qu&#39;ils étaient le jour de leur entrée dans les tendances GitHub.</p></a><a class="feature" href="/fr/dictionary/"><h3>Glossaire</h3><p>Les termes techniques des rapports, expliqués pour qu&#39;une personne qui ne code pas puisse suivre.</p></a><div class="feature"><h3>Six langues</h3><p>Turc, anglais, français, portugais, espagnol et allemand.</p></div></div>
-    </div>
-  </section>
-
-  <!-- ============== HOW IT WORKS ============== -->
-  <section class="section section-center reveal" id="how-it-works">
-    <div class="container">
-      <span class="eyebrow">Comment ça marche</span>
-      <h2 class="section-title">Votre rapport technique quotidien, étape par étape.</h2>
-      <p class="section-lead">La sélection quotidienne commune est préparée en premier. Lorsque la livraison par e-mail ouvrira avec l’accès anticipé, vous choisirez l’heure de réception ; le balayage du jour est commun.</p>
-
-      <div class="pipeline">
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M3 16a9 9 0 0 1 18 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".3"/><path d="M6.5 16a5.5 5.5 0 0 1 11 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M10 16a2 2 0 0 1 4 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".85"/><circle cx="12" cy="19.5" r="1.7" fill="#F4D35E"/></svg></div>
-          <span class="step-number">01</span>
-          <h3>Balayage</h3>
-          <p>Réunit les temps forts quotidiens de GitHub Trending, Hacker News, ainsi que des modèles et Daily Papers de Hugging Face.</p>
-          <div class="step-chips" aria-hidden="true"><span>GitHub</span><span>Hacker News</span><span>HuggingFace</span></div>
-        </div>
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M4 6h16M4 10.5h13.5M4 15h15" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".45"/><path d="M4 19.5h7" stroke="#F4D35E" stroke-width="2.2" stroke-linecap="round"/></svg></div>
-          <span class="step-number">02</span>
-          <h3>Résumer</h3>
-          <p>Produit avec l’IA un rapport court et lisible. Les termes techniques restent dans leur forme originale entre parenthèses et sont expliqués dans la langue choisie pour le rapport.</p>
-          <p class="step-sample" aria-hidden="true">«…interface de ligne de commande <span class="step-sample-term">(CLI)</span> interaction motivée… »</p>
-        </div>
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><rect x="3" y="5.5" width="18" height="13" rx="2.5" stroke="#5FA8D3" stroke-width="1.6" opacity=".55"/><path d="M4.6 8 12 13.2 19.4 8" stroke="#F4D35E" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-          <span class="step-number">03</span>
-          <h3>Livrer</h3>
-          <p>Lorsque la livraison par e-mail sera disponible, le rapport arrivera à l’heure choisie. La sélection du jour est commune ; vous choisissez quand la lire.</p>
-          <div class="step-chips" aria-hidden="true"><span class="step-chip-accent">07:00</span><span>PDF</span><span>Boîte de réception</span></div>
-        </div>
-      </div>
     </div>
   </section>
 
@@ -311,217 +295,43 @@
 
   <!-- ============== DAILY FLOW PREVIEW ============== -->
 
-  <!-- ============== DISCOVERY RADAR ============== -->
-  <section class="section reveal" id="discovery-radar" data-discovery-radar>
+  <!-- ============== HOW IT WORKS ============== -->
+  <section class="section section-center reveal" id="how-it-works">
     <div class="container">
-      <div class="radar-heading">
-        <span class="eyebrow">Parmi les découvertes récentes</span>
-        <h2 class="section-title">Que pouvez-vous découvrir aujourd’hui ?</h2>
-        <p class="section-lead">Filtrez les projets réels du catalogue TreScout par sujet. Chaque carte ouvre des notes détaillées sur la source et l’usage.</p>
-      </div>
-      <div class="radar-toolbar">
-        <div class="radar-filters" role="tablist" aria-label="Que pouvez-vous découvrir aujourd’hui ?">
-          <button type="button" role="tab" aria-selected="true" data-radar-filter="all">Tout</button><button type="button" role="tab" aria-selected="false" data-radar-filter="ai" tabindex="-1">IA</button><button type="button" role="tab" aria-selected="false" data-radar-filter="dev" tabindex="-1">Développement</button><button type="button" role="tab" aria-selected="false" data-radar-filter="learn" tabindex="-1">Apprentissage</button><button type="button" role="tab" aria-selected="false" data-radar-filter="selfhost" tabindex="-1">Auto-hébergé</button>
+      <span class="eyebrow">Comment ça marche</span>
+      <h2 class="section-title">Votre rapport technique quotidien, étape par étape.</h2>
+      <p class="section-lead">La sélection quotidienne commune est préparée en premier. Lorsque la livraison par e-mail ouvrira avec l’accès anticipé, vous choisirez l’heure de réception ; le balayage du jour est commun.</p>
+
+      <div class="pipeline">
+        <div class="step">
+          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M3 16a9 9 0 0 1 18 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".3"/><path d="M6.5 16a5.5 5.5 0 0 1 11 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M10 16a2 2 0 0 1 4 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".85"/><circle cx="12" cy="19.5" r="1.7" fill="#F4D35E"/></svg></div>
+          <span class="step-number">01</span>
+          <h3>Balayage</h3>
+          <p>Réunit les temps forts quotidiens de GitHub Trending, Hacker News, ainsi que des modèles et Daily Papers de Hugging Face.</p>
+          <div class="step-chips" aria-hidden="true"><span>GitHub</span><span>Hacker News</span><span>HuggingFace</span></div>
         </div>
-        <a class="btn btn-ghost radar-all-link" href="/fr/discover/">Voir toutes les découvertes →</a>
-      </div>
-      <div class="radar-grid" data-radar-grid aria-live="polite" aria-busy="true">
-        <p class="radar-loading">Chargement des découvertes…</p>
-      </div>
-      <div class="radar-footer">
-        <span class="radar-note">Chargé depuis le catalogue · le contenu et les dates appartiennent aux sources.</span>
-        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Inscrivez-vous pour suivre les découvertes et les informations de lancement ↗</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============== DETAILED VIEW · 4 tabs ============== -->
-  <section class="section section-center reveal" id="details">
-    <div class="container">
-      <span class="eyebrow">Vue détaillée</span>
-      <h2 class="section-title">Tout ce dont vous avez besoin, d'un seul coup d'œil.</h2>
-
-      <div class="tabs" role="tablist" aria-label="Onglets de détail">
-        <button class="tab" role="tab" aria-selected="true" aria-controls="tabpanel-neden" id="tab-neden" tabindex="0">Pourquoi TreScout</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-ozellikler" id="tab-ozellikler" tabindex="-1">Caractéristiques</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-ilk-surum" id="tab-ilk-surum" tabindex="-1">Version 1.0</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-sonraki-alan" id="tab-sonraki-alan" tabindex="-1">Futurs secteurs verticaux</button>
-      </div>
-
-      <!-- TAB · Why TreScout -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-neden" aria-labelledby="tab-neden">
-        <h3 class="panel-title">« Je pourrais demander à l’IA manuellement », pourriez-vous dire, mais…</h3>
-        <div class="diff-table">
-          <div class="row head">
-            <div></div>
-            <div>Analyse manuelle / Outils d'IA bruts</div>
-            <div>TreScout</div>
-          </div>
-          <div class="row">
-            <div>Déclenchement</div>
-            <div class="cross">Requête manuelle à chaque fois</div>
-            <div class="check">✓ Analyse quotidienne automatique · choix de l'heure de livraison avec l'accès anticipé</div>
-          </div>
-          <div class="row">
-            <div>Multi-source</div>
-            <div class="cross">Ouvrir et rechercher des sites individuellement</div>
-            <div class="check">✓ GitHub unifié + Hacker News + HuggingFace…</div>
-          </div>
-          <div class="row">
-            <div>Glossaire technique</div>
-            <div class="cross">Le jargon se perd ou est à moitié traduit</div>
-            <div class="check">✓ Résumés structurés avec définitions des termes techniques joints</div>
-          </div>
-          <div class="row">
-            <div>Cohérence</div>
-            <div class="cross">Facile à oublier ou à manquer de temps pendant les journées de travail chargées</div>
-            <div class="check">✓ Un nouveau rapport chaque jour</div>
-          </div>
-          <div class="row">
-            <div>Archive</div>
-            <div class="cross">Onglets de navigateur perdus</div>
-            <div class="check">✓ Archive web + rapport PDF téléchargeable</div>
-          </div>
+        <div class="step">
+          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M4 6h16M4 10.5h13.5M4 15h15" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".45"/><path d="M4 19.5h7" stroke="#F4D35E" stroke-width="2.2" stroke-linecap="round"/></svg></div>
+          <span class="step-number">02</span>
+          <h3>Résumer</h3>
+          <p>Produit avec l’IA un rapport court et lisible. Les termes techniques restent dans leur forme originale entre parenthèses et sont expliqués dans la langue choisie pour le rapport.</p>
+          <p class="step-sample" aria-hidden="true">«…interface de ligne de commande <span class="step-sample-term">(CLI)</span> interaction motivée… »</p>
+        </div>
+        <div class="step">
+          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><rect x="3" y="5.5" width="18" height="13" rx="2.5" stroke="#5FA8D3" stroke-width="1.6" opacity=".55"/><path d="M4.6 8 12 13.2 19.4 8" stroke="#F4D35E" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+          <span class="step-number">03</span>
+          <h3>Livrer</h3>
+          <p>Lorsque la livraison par e-mail sera disponible, le rapport arrivera à l’heure choisie. La sélection du jour est commune ; vous choisissez quand la lire.</p>
+          <div class="step-chips" aria-hidden="true"><span class="step-chip-accent">07:00</span><span>PDF</span><span>Boîte de réception</span></div>
         </div>
       </div>
-
-      <!-- TAB · Features -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-ozellikler" aria-labelledby="tab-ozellikler" hidden>
-        <h3 class="panel-title">Simple. Rapide. A votre rythme.</h3>
-        <div class="features-bento">
-          <div class="feature feature-hero">
-            <div class="feature-icon">⏰</div>
-            <h3>Planification flexible <span class="roadmap-live roadmap-soon">AVEC ACCÈS ANTICIPÉ</span></h3>
-            <p>Choisissez l'heure de livraison qui correspond à votre routine matinale. Lisez dès que vous êtes prêt.</p>
-            <div class="time-strip" aria-hidden="true">
-              <div class="time-strip-rail">
-                <span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span>
-                <span class="time-strip-thumb time-strip-thumb--0900">09:00</span>
-              </div>
-              <div class="time-strip-labels">
-                <span>00:00</span>
-                <span>06:00</span>
-                <span>12:00</span>
-                <span>18:00</span>
-                <span>24:00</span>
-              </div>
-              <div class="time-strip-note">Sélectionnez n'importe quelle minute de la journée · ce qui fonctionne pour vous, fonctionne pour TreScout.</div>
-            </div>
-          </div>
-
-          <div class="features-bento-side">
-            <div class="feature">
-              <div class="feature-icon">📄</div>
-              <h3>Rapport PDF</h3>
-              <p>Formaté, archivable, propre. Téléchargez-le dans votre coffre-fort ou lisez-le directement depuis un e-mail.</p>
-            </div>
-            <div class="feature">
-              <div class="feature-icon">📚</div>
-              <h3>Glossaire des termes techniques</h3>
-              <p>Les termes techniques mentionnés dans les résumés sont clairement définis à la fin de chaque rapport. Gardez une longueur d’avance sur la technologie en évolution rapide.</p>
-              <div class="term-list" aria-hidden="true">
-                <div class="term-row"><code>fine-tuning</code><span class="term-arrow">→</span><span class="term-def">Personnalisation d'un modèle d'IA de base en s'entraînant sur vos données propriétaires</span></div>
-                <div class="term-row"><code>RAG</code><span class="term-arrow">→</span><span class="term-def">Récupérer le contexte de votre pool de documents avant de générer des réponses</span></div>
-                <div class="term-row"><code>MCP</code><span class="term-arrow">→</span><span class="term-def">Protocole ouvert permettant aux agents IA de se connecter à des outils externes</span></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- TAB · Version 1.0 -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-ilk-surum" aria-labelledby="tab-ilk-surum" hidden>
-        <div class="roadmap">
-          <div class="roadmap-track" aria-hidden="true"></div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">🎯</div>
-            <h3 class="roadmap-title">Filtres de sujets</h3>
-            <p>IA, Web, Mobile, DevOps · recevez des résumés strictement adaptés à vos intérêts.</p>
-          </div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">🔁</div>
-            <h3 class="roadmap-title">Rapports dédupliqués <span class="roadmap-live">EN DIRECT</span></h3>
-            <p>Un dépôt déjà apparu dans un rapport n'apparaîtra plus, même s'il reste tendance. Seules les nouvelles découvertes et les mises à jour majeures arrivent.<a href="/fr/reports/fresh/">Voir le nouveau rapport d'aujourd'hui →</a></p>
-          </div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">📦</div>
-            <h3 class="roadmap-title">Voûte historique</h3>
-            <p>Vous venez d'être abonné ? Retrouvez les archives des tendances historiques dès le premier jour.</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- TAB · Future Verticals -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-sonraki-alan" aria-labelledby="tab-sonraki-alan" hidden>
-        <h3 class="panel-title">Pas seulement la technologie.</h3>
-        <p class="panel-lead">TreScout commence par l'ingénierie logicielle, mais le moteur multi-agent sous-jacent s'adapte à tous les domaines en évolution rapide : revues médicales, mises à jour juridiques, réglementations du marché et actualités de l'industrie.</p>
-
-        <div class="vertical-cards">
-          <div class="vertical-card">
-            <div class="vertical-icon">🩺</div>
-            <h3>Médecine</h3>
-            <p>Nouveaux essais cliniques, mises à jour des lignes directrices, approbations de la FDA et percées médicales.</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">📖</div>
-            <h3>Universitaire</h3>
-            <p>Augmentations d'articles ArXiv, explosions de citations, actes de conférences, glossaires de recherche.</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">⚖️</div>
-            <h3>Loi</h3>
-            <p>Modifications législatives, décisions de justice, conformité et mises à jour réglementaires.</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">🏪</div>
-            <h3>PME/Entreprise</h3>
-            <p>Tendances du secteur, actualités des concurrents, mises à jour des réglementations fiscales et commerciales.</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">✦</div>
-            <h3>Un autre domaine</h3>
-            <p>Un domaine en évolution rapide qui n’est pas affiché ici ? Aidez-nous à choisir les sources…</p>
-          </div>
-        </div>
-
-        <div class="vertical-cta">
-          <p>Vous avez une suggestion de domaine ? Envoyez-nous un <a href="mailto:hello@trescout.com?subject=TreScout%20%C2%B7%20domain%20suggestion">e-mail</a>. Dites-nous quelles sources vous suivez quotidiennement ; votre expertise dans le domaine nous aide à créer plus rapidement des radars sur mesure.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============== COMMUNITY ============== -->
-  <section class="section section-center reveal" id="community">
-    <div class="container">
-      <h2 class="section-title"><span class="accent">Construisons ensemble</span></h2>
-      <div class="community-grid">
-        <a href="mailto:hello@trescout.com?subject=TreScout%20join%20team" class="community-card">
-          <div class="community-icon">🤝</div>
-          <div class="community-content">
-            <h3>Rejoignez l'équipe</h3>
-            <p>Vous croyez aux radars de connaissances automatisés ? Développeur, concepteur, chercheur ou créateur · contactez-nous et façonnez le produit avec nous.</p>
-            <span class="community-cta">hello@trescout.com →</span>
-          </div>
-        </a>
-
-        <a href="mailto:hello@trescout.com?subject=TreScout%20feedback" class="community-card">
-          <div class="community-icon">💬</div>
-          <div class="community-content">
-            <h3>Donner votre avis</h3>
-            <p>Vous avez trouvé un bug, vous avez une idée ou souhaitez une nouvelle fonctionnalité ? Nous lisons chaque message.</p>
-            <span class="community-cta">hello@trescout.com →</span>
-          </div>
-        </a>
-      </div>
+      <p class="section-more"><a class="btn btn-ghost" href="/fr/compare/rss-vs-ai/">Comparer TreScout au suivi manuel et au RSS →</a></p>
     </div>
   </section>
 
   <!-- ============== FINAL CTA ============== -->
   <section class="container" id="cta">
+    <span id="top" aria-hidden="true"></span>
     <div class="final-cta">
       <h2>Livré à votre heure. Parfait pour le café du matin.</h2>
       <p>La liste d’accès anticipé est ouverte. Soyez le premier à être averti au lancement.</p>
