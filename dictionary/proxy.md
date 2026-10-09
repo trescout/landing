@@ -68,6 +68,7 @@ Dışarıdan geleni sunucuya dağıtan yöndür. Yük dengeleme ve koruma sağla
 ## İlgili araçlar
 
 - [OmniRoute](https://trescout.com/discover/omniroute/)
+- [Litellm](https://trescout.com/discover/litellm/)
 - [FlClash](https://trescout.com/discover/flclash/)
 - [Nginx](https://trescout.com/discover/nginx/)
 - [Freellmapi](https://trescout.com/discover/freellmapi/)

@@ -65,6 +65,7 @@ I want to set up an encrypted file transfer tunnel between two different servers
 ## Related dictionary terms
 
 - [Root](https://trescout.com/en/dictionary/root/)
+- [IoT](https://trescout.com/en/dictionary/iot/)
 - [VPN](https://trescout.com/en/dictionary/vpn/)
 - [Mesh](https://trescout.com/en/dictionary/mesh/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)

@@ -69,8 +69,8 @@ Com base na arquitetura do Gitdiagram, crie o diagrama de sistema do repositóri
 - [Mermaid](https://trescout.com/pt/dictionary/mermaid/)
 - [LLM API](https://trescout.com/pt/dictionary/llm-api/)
 - [API Gateway](https://trescout.com/pt/dictionary/api-gateway/)
-- [Gateway](https://trescout.com/pt/dictionary/gateway/)
 - [Database](https://trescout.com/pt/dictionary/database/)
+- [Gateway](https://trescout.com/pt/dictionary/gateway/)
 
 ## Links
 

@@ -9098,5 +9098,57 @@
     "kisa_pt": "Interface inteligente que aprende os hábitos do usuário, moldando-se de acordo com eles e facilitando as tarefas.",
     "kisa_es": "Interfaz inteligente que aprende los hábitos del usuario para adaptarse a ellos y facilitar las tareas.",
     "kisa_de": "Eine intelligente Benutzeroberfläche, die die Gewohnheiten des Benutzers lernt, sich entsprechend anpasst und Aufgaben erleichtert."
+  },
+  {
+    "slug": "guardrails",
+    "en": "Guardrails",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin zararlı, yanıltıcı veya belirlenen kuralların dışına çıkan çıktılar üretmesini önleyen güvenlik ve denetim sınırlarıdır.",
+    "date": "2026-10-09",
+    "kisa_en": "Safety and control boundaries that prevent artificial intelligence models from producing harmful, misleading, or rule-violating outputs.",
+    "kisa_fr": "Ce sont des limites de sécurité et de contrôle qui empêchent les modèles d'intelligence artificielle de produire des résultats nocifs, trompeurs ou ne respectant pas les règles définies.",
+    "kisa_pt": "São limites de segurança e controle que impedem que modelos de inteligência artificial produzam saídas prejudiciais, enganosas ou fora das regras estabelecidas.",
+    "kisa_es": "Son límites de seguridad y control que evitan que los modelos de inteligencia artificial generen resultados perjudiciales, engañosos o que se desvíen de las reglas establecidas.",
+    "kisa_de": "Sicherheits- und Kontrollgrenzen, die verhindern, dass KI-Modelle schädliche, irreführende oder von den festgelegten Regeln abweichende Ausgaben erzeugen."
+  },
+  {
+    "slug": "intentional-crafting-engine",
+    "en": "Intentional Crafting Engine",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kullanıcının niyet ve hedeflerine odaklanarak içerik, kod veya dijital ürün üreten amaca yönelik bir üretim motorudur.",
+    "date": "2026-10-09",
+    "kisa_en": "A purpose-driven generation engine that creates content, code, or digital products by focusing on user intent and goals.",
+    "kisa_fr": "Il s'agit d'un moteur de production orienté vers un objectif qui génère du contenu, du code ou des produits numériques en se concentrant sur l'intention et les objectifs de l'utilisateur.",
+    "kisa_pt": "É um mecanismo de geração orientado a objetivos que produz conteúdo, código ou produtos digitais com foco nas intenções e metas do usuário.",
+    "kisa_es": "Es un motor de generación orientado a objetivos que produce contenido, código o productos digitales centrándose en la intención y las metas del usuario.",
+    "kisa_de": "Eine zielgerichtete Generierungs-Engine, die Inhalte, Code oder digitale Produkte erstellt, indem sie sich auf die Absichten und Ziele des Nutzers konzentriert."
+  },
+  {
+    "slug": "geometric-context-transformer",
+    "en": "Geometric Context Transformer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Verilerin uzamsal ve geometrik ilişkilerini dikkate alarak bağlamı işleyen ileri düzey bir yapay zekâ model mimarisidir.",
+    "date": "2026-10-09",
+    "kisa_en": "An advanced artificial intelligence model architecture that processes context by taking into account the spatial and geometric relationships of data.",
+    "kisa_fr": "Il s'agit d'une architecture de modèle d'intelligence artificielle avancée qui traite le contexte en prenant en compte les relations spatiales et géométriques des données.",
+    "kisa_pt": "É uma arquitetura avançada de modelo de inteligência artificial que processa o contexto levando em consideração as relações espaciais e geométricas dos dados.",
+    "kisa_es": "Es una arquitectura avanzada de modelos de inteligencia artificial que procesa el contexto teniendo en cuenta las relaciones espaciales y geométricas de los datos.",
+    "kisa_de": "Eine fortschrittliche KI-Modellarchitektur, die den Kontext unter Berücksichtigung der räumlichen und geometrischen Beziehungen von Daten verarbeitet."
+  },
+  {
+    "slug": "iot",
+    "en": "IoT",
+    "full": "Internet of Things",
+    "cat": "dev",
+    "kisa": "Fiziksel cihazların sensörler ve internet aracılığıyla birbirleriyle veri alışverişi yapmasını sağlayan nesnelerin interneti ağıdır.",
+    "date": "2026-10-09",
+    "kisa_en": "An Internet of Things network that enables physical devices to exchange data with each other via sensors and the internet.",
+    "kisa_fr": "Il s'agit du réseau de l'Internet des objets qui permet aux appareils physiques d'échanger des données entre eux grâce à des capteurs et à Internet.",
+    "kisa_pt": "É uma rede de Internet das Coisas que permite que dispositivos físicos troquem dados entre si por meio de sensores e da internet.",
+    "kisa_es": "Es una red del internet de las cosas que permite a los dispositivos físicos intercambiar datos entre sí a través de sensores e internet.",
+    "kisa_de": "Ein Internet-der-Dinge-Netzwerk, das es physischen Geräten ermöglicht, über Sensoren und das Internet Daten untereinander auszutauschen."
   }
 ]

@@ -39,6 +39,10 @@ Obligatoire si vous utilisez plusieurs modèles ou si vous souhaitez contrôler 
 - [AI Models](https://trescout.com/fr/dictionary/ai-models/)
 - [Security Scanner](https://trescout.com/fr/dictionary/security-scanner/)
 
+## Outils liés
+
+- [Litellm](https://trescout.com/fr/discover/litellm/)
+
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/ai-gateway/)
 
 ---

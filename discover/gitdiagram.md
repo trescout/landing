@@ -108,8 +108,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Mermaid](https://trescout.com/dictionary/mermaid/)
 - [LLM API](https://trescout.com/dictionary/llm-api/)
 - [API Gateway](https://trescout.com/dictionary/api-gateway/)
-- [Gateway](https://trescout.com/dictionary/gateway/)
 - [Database](https://trescout.com/dictionary/database/)
+- [Gateway](https://trescout.com/dictionary/gateway/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gitdiagram/

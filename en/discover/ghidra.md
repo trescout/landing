@@ -78,9 +78,9 @@ I want to inspect a suspicious binary file using Ghidra. Could you explain step 
 - [NSA](https://trescout.com/en/dictionary/nsa/)
 - [Assembly](https://trescout.com/en/dictionary/assembly/)
 - [Decompiler](https://trescout.com/en/dictionary/decompiler/)
+- [IoT](https://trescout.com/en/dictionary/iot/)
 - [Binary](https://trescout.com/en/dictionary/binary/)
 - [API](https://trescout.com/en/dictionary/api/)
-- [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** Malware researchers, vulnerability hunters, reverse engineering experts, and embedded system developers.
 - **License:** Apache-2.0 (Açık kaynak lisansı)

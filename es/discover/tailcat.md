@@ -65,6 +65,7 @@ Quiero configurar un túnel de transferencia de archivos cifrados entre dos serv
 ## Términos relacionados del glosario
 
 - [Root](https://trescout.com/es/dictionary/root/)
+- [IoT](https://trescout.com/es/dictionary/iot/)
 - [VPN](https://trescout.com/es/dictionary/vpn/)
 - [Mesh](https://trescout.com/es/dictionary/mesh/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)

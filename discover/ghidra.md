@@ -93,9 +93,9 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [NSA](https://trescout.com/dictionary/nsa/)
 - [Assembly](https://trescout.com/dictionary/assembly/)
 - [Decompiler](https://trescout.com/dictionary/decompiler/)
+- [IoT](https://trescout.com/dictionary/iot/)
 - [Binary](https://trescout.com/dictionary/binary/)
 - [API](https://trescout.com/dictionary/api/)
-- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ghidra/

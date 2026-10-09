@@ -68,6 +68,7 @@ Ja, bei zwischengespeicherten Inhalten, bei verschlüsseltem und Remote-Datenver
 ## Verwandte Werkzeuge
 
 - [OmniRoute](https://trescout.com/de/discover/omniroute/)
+- [Litellm](https://trescout.com/de/discover/litellm/)
 - [FlClash](https://trescout.com/de/discover/flclash/)
 - [Nginx](https://trescout.com/de/discover/nginx/)
 - [Freellmapi](https://trescout.com/de/discover/freellmapi/)

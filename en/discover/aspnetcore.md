@@ -51,6 +51,7 @@ I want to develop a modern, cloud-based and scalable web application using the A
 
 ## Related dictionary terms
 
+- [IoT](https://trescout.com/en/dictionary/iot/)
 - [Framework](https://trescout.com/en/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

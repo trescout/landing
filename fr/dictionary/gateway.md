@@ -69,6 +69,7 @@ Oui. Le passage est bloqué par des règles de pare-feu et les réseaux fonction
 ## Outils liés
 
 - [OmniRoute](https://trescout.com/fr/discover/omniroute/)
+- [Litellm](https://trescout.com/fr/discover/litellm/)
 - [Fanqiang](https://trescout.com/fr/discover/fanqiang/)
 - [Gitdiagram](https://trescout.com/fr/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/fr/discover/openwa/)

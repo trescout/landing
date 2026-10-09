@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır. Önek önbelleği (prefix-cache) kararlılığına odaklanan bu araç, geliştiricilerin uzun süreli oturumlarda kesintisiz kodlama desteği almasını sağlar.
 
-- ★ 35.747
+- ★ 35.752
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 35.747 → 35.752, son sürüm studio-v2.33.0 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 35.747 → 35.747, son sürüm studio-v2.32.0 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 35.744 → 35.747, son sürüm studio-v2.31.0 (8 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 35.742 → 35.744, son sürüm studio-v2.30.0 (7 Ekim 2026).
-- **6 Ekim 2026:** Yıldız 35.735 → 35.742, son sürüm studio-v2.29.0 (6 Ekim 2026).
 
 ## Ne kazandırır?
 

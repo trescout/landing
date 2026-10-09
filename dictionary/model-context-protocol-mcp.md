@@ -46,10 +46,10 @@ Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan son
 - [Servers](https://trescout.com/discover/servers/)
 - [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
+- [REA](https://trescout.com/discover/rea/)
 - [Openclaude](https://trescout.com/discover/openclaude/)
 - [Fastmcp](https://trescout.com/discover/fastmcp/)
 - [Context Mode](https://trescout.com/discover/context-mode/)
-- [REA](https://trescout.com/discover/rea/)
 - [Unity MCP](https://trescout.com/discover/unity-mcp/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

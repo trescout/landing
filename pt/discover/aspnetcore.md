@@ -51,6 +51,7 @@ Quero desenvolver um aplicativo Web moderno, escalonável e baseado em nuvem usa
 
 ## Termos relacionados do glossário
 
+- [IoT](https://trescout.com/pt/dictionary/iot/)
 - [Framework](https://trescout.com/pt/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

@@ -2,12 +2,13 @@
 
 Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş, Zig diliyle yazılmış bir başsız tarayıcı (headless browser). Geleneksel tarayıcılara kıyasla daha az kaynak tüketerek veri kazıma ve web otomasyonu işlemlerini hızlandırmayı amaçlıyor.
 
-- ★ 35.884
+- ★ 36.160
 - Zig
 - GitHub Trending · 2026-09-08
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 35.884 → 36.160, son sürüm 1.0.0 (2 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 35.689 → 35.884, son sürüm nightly (16 Temmuz 2024).
 - **2 Ekim 2026:** Yıldız 35.072 → 35.689, son sürüm 1.0.0 (2 Ekim 2026).
 - **8 Eylül 2026:** Yıldız 35.068 → 35.072, son sürüm nightly (16 Temmuz 2024).

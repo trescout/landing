@@ -2,16 +2,16 @@
 
 OpenHuman, desarrollado con el lenguaje Rust, es un asistente personal de inteligencia artificial que crea un primer recuerdo local de la vida del usuario. El software funciona como un orquestador que gestiona flotas de agentes de IA y una herramienta de análisis de sondeo.
 
-- ★ 40.292
+- ★ 41.718
 - Rust
 - GitHub Trending · 2026-08-24
 
 ## Actualizaciones
 
+- **9 de octubre de 2026:** Estrellas 40,292 → 41,718, última versión v0.64.15 (9 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 40,165 → 40,292, última versión v0.64.10 (30 de septiembre de 2026).
 - **29 de septiembre de 2026:** Estrellas 40,127 → 40,165, última versión v0.64.7 (29 de septiembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 39,171 → 40,127, última versión v0.64.4 (26 de septiembre de 2026).
-- **31 de agosto de 2026:** Estrellas 36,855 → 39,171, última versión v0.63.12 (7 de agosto de 2026).
 
 ## Qué aporta
 

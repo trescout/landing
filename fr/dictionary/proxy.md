@@ -68,6 +68,7 @@ Sur le contenu mis en cache oui, sur le trafic chiffré et distant, cela le rale
 ## Outils liés
 
 - [OmniRoute](https://trescout.com/fr/discover/omniroute/)
+- [Litellm](https://trescout.com/fr/discover/litellm/)
 - [FlClash](https://trescout.com/fr/discover/flclash/)
 - [Nginx](https://trescout.com/fr/discover/nginx/)
 - [Freellmapi](https://trescout.com/fr/discover/freellmapi/)

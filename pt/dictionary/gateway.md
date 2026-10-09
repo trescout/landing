@@ -69,6 +69,7 @@ Sim. Com regras de firewall, a passagem é bloqueada e as redes operam isoladas.
 ## Ferramentas relacionadas
 
 - [OmniRoute](https://trescout.com/pt/discover/omniroute/)
+- [Litellm](https://trescout.com/pt/discover/litellm/)
 - [Fanqiang](https://trescout.com/pt/discover/fanqiang/)
 - [Gitdiagram](https://trescout.com/pt/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/pt/discover/openwa/)

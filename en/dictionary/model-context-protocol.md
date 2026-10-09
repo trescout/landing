@@ -46,10 +46,10 @@ Yes, MCP has a structure that keeps data access permissions under control, thus 
 - [Servers](https://trescout.com/en/discover/servers/)
 - [Goose](https://trescout.com/en/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/en/discover/chrome-devtools-mcp/)
+- [REA](https://trescout.com/en/discover/rea/)
 - [Openclaude](https://trescout.com/en/discover/openclaude/)
 - [Fastmcp](https://trescout.com/en/discover/fastmcp/)
 - [Context Mode](https://trescout.com/en/discover/context-mode/)
-- [REA](https://trescout.com/en/discover/rea/)
 - [Unity MCP](https://trescout.com/en/discover/unity-mcp/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/model-context-protocol/)

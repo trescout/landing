@@ -2,12 +2,13 @@
 
 Miles is an enterprise-focused framework that manages reinforcement learning processes for large language models (LLMs) and vision-language models (VLMs). Developed to optimize post-training processes, this Python-based tool evolves in parallel with the slime project.
 
-- ★ 3,003
+- ★ 3,074
 - Python
 - GitHub Trending · 2026-09-05
 
 ## Updates
 
+- **October 9, 2026:** Stars 3,003 → 3,074, latest release v0.1.2 (October 9, 2026).
 - **September 27, 2026:** Stars 2,603 → 3,003, latest release v0.1.1 (September 26, 2026).
 - **September 5, 2026:** Stars 2,601 → 2,603, latest release v0.1.0 (August 18, 2026).
 

@@ -2,17 +2,17 @@
 
 claude-mem permet à vos agents IA d'effectuer des rappels inter-sessions. Il capture tout ce qui se passe au cours d'une session, le transforme en résumés significatifs grâce à l'IA et fournit un contexte pertinent lors de la session suivante. Compatible avec Claude Code, Codex, Gemini, Copilot et OpenCode.
 
-- ★ 97 401
+- ★ 98 855
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **9 octobre 2026:** Étoiles 97,401 → 98,855, dernière version v13.35.0 (9 octobre 2026).
 - **7 octobre 2026:** Étoiles 96,865 → 97,401, dernière version v13.34.2 (6 octobre 2026).
 - **6 octobre 2026:** Étoiles 96,356 → 96,865, dernière version v13.32.0 (6 octobre 2026).
 - **5 octobre 2026:** Étoiles 95,214 → 96,356, dernière version v13.31.0 (5 octobre 2026).
-- **3 octobre 2026:** Étoiles 94,746 → 95,214, dernière version v13.29.0 (3 octobre 2026).
 
 ## Ce que ça vous apporte
 

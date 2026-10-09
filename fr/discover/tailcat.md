@@ -65,6 +65,7 @@ Je souhaite configurer un tunnel de transfert de fichiers crypté entre deux ser
 ## Termes liés du glossaire
 
 - [Root](https://trescout.com/fr/dictionary/root/)
+- [IoT](https://trescout.com/fr/dictionary/iot/)
 - [VPN](https://trescout.com/fr/dictionary/vpn/)
 - [Mesh](https://trescout.com/fr/dictionary/mesh/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)

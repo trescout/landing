@@ -46,10 +46,10 @@ Ja, MCP verfügt über eine Struktur, die die Datenzugriffsberechtigungen unter 
 - [Servers](https://trescout.com/de/discover/servers/)
 - [Goose](https://trescout.com/de/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
+- [REA](https://trescout.com/de/discover/rea/)
 - [Openclaude](https://trescout.com/de/discover/openclaude/)
 - [Fastmcp](https://trescout.com/de/discover/fastmcp/)
 - [Context Mode](https://trescout.com/de/discover/context-mode/)
-- [REA](https://trescout.com/de/discover/rea/)
 - [Unity MCP](https://trescout.com/de/discover/unity-mcp/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/model-context-protocol/)
