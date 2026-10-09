@@ -2,16 +2,16 @@
 
 Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor. Java ile geliştirilen bu platform, MySQL, PostgreSQL ve Oracle gibi çok sayıda veritabanı sistemini tek bir grafik kullanıcı arayüzü (GUI) üzerinden yönetme imkânı sağlıyor.
 
-- ★ 28.268
+- ★ 28.307
 - Java
 - GitHub Trending · 2026-07-25
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 28.268 → 28.307, son sürüm v5.3.8 (9 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 28.110 → 28.268, son sürüm v5.3.7 (22 Eylül 2026).
 - **11 Eylül 2026:** Yıldız 28.063 → 28.110, son sürüm v5.3.6 (10 Eylül 2026).
 - **3 Eylül 2026:** Yıldız 27.994 → 28.063, son sürüm v5.3.5 (2 Eylül 2026).
-- **20 Ağustos 2026:** Yıldız 27.657 → 27.994, son sürüm v5.3.4 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 

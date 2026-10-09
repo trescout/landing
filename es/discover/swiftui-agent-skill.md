@@ -2,11 +2,12 @@
 
 SwiftUI-Agent-Skill ofrece paquetes de habilidades (skills) dedicados a modelos de IA para la herramienta de desarrollo de interfaces SwiftUI. Este recurso ayuda a que los asistentes de código de IA como Claude Code y Codex creen componentes de SwiftUI de manera más coherente y rápida.
 
-- ★ 5.212
+- ★ 5.265
 - GitHub Trending · 2026-10-09
 
 ## Actualizaciones
 
+- **9 de octubre de 2026:** Estrellas 5,212 → 5,265, última versión 2.0.0 (9 de octubre de 2026).
 - **9 de octubre de 2026:** Estrellas 5,207 → 5,212, última versión 1.1.0 (20 de abril de 2026).
 
 ## Qué aporta

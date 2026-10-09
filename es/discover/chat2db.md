@@ -2,16 +2,16 @@
 
 Chat2DB se destaca como una herramienta de gestión de bases de datos y un cliente SQL compatible con inteligencia artificial. Esta plataforma, desarrollada con Java, brinda la oportunidad de administrar múltiples sistemas de bases de datos como MySQL, PostgreSQL y Oracle a través de una única interfaz gráfica de usuario (GUI).
 
-- ★ 28.268
+- ★ 28.307
 - Java
 - GitHub Trending · 2026-07-25
 
 ## Actualizaciones
 
+- **9 de octubre de 2026:** Estrellas 28,268 → 28,307, última versión v5.3.8 (9 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 28,110 → 28,268, última versión v5.3.7 (22 de septiembre de 2026).
 - **11 de septiembre de 2026:** Estrellas 28,063 → 28,110, última versión v5.3.6 (10 de septiembre de 2026).
 - **3 de septiembre de 2026:** Estrellas 27,994 → 28,063, última versión v5.3.5 (2 de septiembre de 2026).
-- **20 de agosto de 2026:** Estrellas 27,657 → 27,994, última versión v5.3.4 (20 de agosto de 2026).
 
 ## Qué aporta
 

@@ -2,12 +2,13 @@
 
 Developed by GitHub, gh-stack is a command line tool that makes it easy to create and manage stacked pull requests during the software development process. It aims to speed up the review process by dividing complex code changes into small and independent parts.
 
-- ★ 1,609
+- ★ 1,643
 - Go
 - GitHub Trending · 2026-08-02
 
 ## Updates
 
+- **October 9, 2026:** Stars 1,609 → 1,643, latest release v0.2.1 (October 9, 2026).
 - **October 3, 2026:** Stars 1,432 → 1,609, latest release v0.2.0 (October 2, 2026).
 - **September 3, 2026:** Stars 911 → 1,432, latest release v0.1.1 (September 2, 2026).
 - **August 2, 2026:** Stars 860 → 911, latest release v0.1.0 (July 29, 2026).

@@ -4235,7 +4235,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 34.669",
+    "meta": "★ 34.757",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -4243,7 +4243,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34669,
+    "stars": 34757,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-10-09",
@@ -4625,6 +4625,13 @@
         "onceki_yildiz": 34636,
         "surum": "v18.8.6",
         "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 34757,
+        "onceki_yildiz": 34669,
+        "surum": "v18.8.7",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes.",
@@ -9145,14 +9152,14 @@
     "slug": "server",
     "title": "Server",
     "tagline": "Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya…",
-    "meta": "★ 3.128",
+    "meta": "★ 3.158",
     "image": "/assets/discover/og/server.webp",
     "source": "GitHub",
     "date": "2026-06-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3128,
+    "stars": 3158,
     "lite": false,
     "headline": "Açık kaynaklı dijital müzik sunucusu",
     "cmds": {
@@ -9235,6 +9242,13 @@
         "onceki_yildiz": 3078,
         "surum": "2.10.5",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 3158,
+        "onceki_yildiz": 3128,
+        "surum": "2.10.6",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "Music Assistant is an open-source media platform that combines different digital streaming services and connected speakers into a single interface.",
@@ -26489,7 +26503,7 @@
     "slug": "chat2db",
     "title": "Chat2DB",
     "tagline": "Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor.",
-    "meta": "★ 28.268 · Java",
+    "meta": "★ 28.307 · Java",
     "image": "/assets/discover/og/chat2db.webp",
     "source": "GitHub",
     "date": "2026-07-25",
@@ -26497,7 +26511,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28268,
+    "stars": 28307,
     "lite": false,
     "headline": "Yapay zekâ destekli veritabanı yönetimi",
     "last_review": "2026-10-09",
@@ -26543,6 +26557,13 @@
         "onceki_yildiz": 28110,
         "surum": "v5.3.7",
         "surum_tarihi": "2026-09-22"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 28307,
+        "onceki_yildiz": 28268,
+        "surum": "v5.3.8",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "Chat2DB stands out as an artificial intelligence-supported database management tool and SQL client.",
@@ -28377,14 +28398,14 @@
     "slug": "gh-stack",
     "title": "Gh Stack",
     "tagline": "GitHub tarafından geliştirilen gh-stack, yazılım geliştirme sürecinde yığınlı çekme istekleri (stacked pull requests)…",
-    "meta": "★ 1.609 · Go",
+    "meta": "★ 1.643 · Go",
     "image": "/assets/discover/og/gh-stack.webp",
     "source": "GitHub",
     "date": "2026-08-02",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1609,
+    "stars": 1643,
     "lite": false,
     "headline": "Yığınlı çekme isteklerini yönetin",
     "last_review": "2026-10-09",
@@ -28409,6 +28430,13 @@
         "onceki_yildiz": 1432,
         "surum": "v0.2.0",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 1643,
+        "onceki_yildiz": 1609,
+        "surum": "v0.2.1",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "Developed by GitHub, gh-stack is a system that handles stacked pull requests in the software development process.",
@@ -33229,7 +33257,7 @@
     "slug": "tooljet",
     "title": "ToolJet",
     "tagline": "ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama…",
-    "meta": "★ 41.049 · JavaScript",
+    "meta": "★ 41.055 · JavaScript",
     "image": "/assets/discover/og/tooljet.webp",
     "source": "GitHub",
     "date": "2026-08-15",
@@ -33237,7 +33265,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41049,
+    "stars": 41055,
     "lite": false,
     "headline": "Kod yazmadan kurumsal uygulamalar geliştirin",
     "tagline_en": "ToolJet is an open source application for developing in-house tools, dashboards and artificial intelligence agents.",
@@ -33407,6 +33435,13 @@
         "onceki_yildiz": 41049,
         "surum": "v3.20.241-lts",
         "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 41055,
+        "onceki_yildiz": 41049,
+        "surum": "v3.20.242-lts",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "last_seen": "2026-08-17"
@@ -34316,14 +34351,14 @@
     "slug": "openlogi",
     "title": "OpenLogi",
     "tagline": "OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.",
-    "meta": "★ 22.606 · Rust",
+    "meta": "★ 23.245 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 22606,
+    "stars": 23245,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
     "tagline_en": "OpenLogi is a native, local-first, open-source alternative to Logitech Options+, written in Rust. It configures buttons, DPI, and SmartShift without accounts or telemetry.",
@@ -34437,6 +34472,13 @@
         "onceki_yildiz": 22531,
         "surum": "v0.8.11",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 23245,
+        "onceki_yildiz": 22606,
+        "surum": "v0.8.12",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "last_seen": "2026-08-24",
@@ -42680,7 +42722,7 @@
     "slug": "codex-x",
     "title": "Codex-X",
     "tagline": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı…",
-    "meta": "★ 4.006",
+    "meta": "★ 4.124",
     "image": "/assets/discover/og/codex-x.webp",
     "source": "GitHub",
     "date": "2026-09-20",
@@ -42688,7 +42730,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4006,
+    "stars": 4124,
     "summary": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.",
     "lite": false,
     "headline": "Yapay zekâ model ayarlarını tek ekrandan yönetin",
@@ -42714,6 +42756,13 @@
         "onceki_yildiz": 3999,
         "surum": "v0.3.24",
         "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 4124,
+        "onceki_yildiz": 4006,
+        "surum": "v0.3.26",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "Codex-X is a visual desktop and command line tool written in Rust, developed to manage OpenAI Codex models...",
@@ -43556,14 +43605,14 @@
     "slug": "runner-images",
     "title": "Runner Images",
     "tagline": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun…",
-    "meta": "★ 13.414 · PowerShell",
+    "meta": "★ 13.445 · PowerShell",
     "image": "/assets/discover/og/runner-images.webp",
     "source": "GitHub",
     "date": "2026-09-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13414,
+    "stars": 13445,
     "last_seen": "2026-09-27",
     "summary": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.",
     "lite": false,
@@ -43592,6 +43641,13 @@
         "onceki_yildiz": 13393,
         "surum": "win11-vs2026-arm64/20260924.168",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 13445,
+        "onceki_yildiz": 13414,
+        "surum": "win22/20261004.326",
+        "surum_tarihi": "2026-10-05"
       }
     ],
     "tagline_en": "GitHub Actions runner images are part of the GitHub Actions platform, which automates software development processes...",
@@ -43604,7 +43660,7 @@
     "slug": "mobile-mcp",
     "title": "Mobile MCP",
     "tagline": "Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam…",
-    "meta": "★ 8.549 · TypeScript",
+    "meta": "★ 8.808 · TypeScript",
     "image": "/assets/discover/og/mobile-mcp.webp",
     "source": "GitHub",
     "date": "2026-09-27",
@@ -43612,7 +43668,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8549,
+    "stars": 8808,
     "last_seen": "2026-09-27",
     "summary": "Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, yapay zekâ modellerinin iOS ve Android platformlarıyla doğrudan etkileşime girerek görevleri yürütmesini sağlar.",
     "lite": false,
@@ -43646,6 +43702,13 @@
         "onceki_yildiz": 8544,
         "surum": "1.0.8",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 8808,
+        "onceki_yildiz": 8549,
+        "surum": "1.0.9",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "Mobile-mcp is a Model Context...",
@@ -43889,7 +43952,7 @@
     "slug": "dbx",
     "title": "DBX",
     "tagline": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi…",
-    "meta": "★ 25.357 · Rust",
+    "meta": "★ 25.380 · Rust",
     "image": "/assets/discover/og/dbx.webp",
     "source": "GitHub",
     "date": "2026-09-29",
@@ -43897,7 +43960,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25357,
+    "stars": 25380,
     "last_seen": "2026-10-01",
     "summary": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.",
     "lite": false,
@@ -43980,6 +44043,13 @@
         "onceki_yildiz": 25183,
         "surum": "v0.6.37",
         "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 25380,
+        "onceki_yildiz": 25357,
+        "surum": "v0.6.38",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "Developed in Rust, dbx is a lightweight 25 MB database client supporting more than 100 database types…",
@@ -44506,14 +44576,14 @@
     "slug": "e2e",
     "title": "E2e",
     "tagline": "TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni…",
-    "meta": "★ 8.012 · TypeScript",
+    "meta": "★ 8.338 · TypeScript",
     "image": "/assets/discover/og/e2e.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 8012,
+    "stars": 8338,
     "last_seen": "2026-10-07",
     "summary": "TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni nesil bir çerçeve (framework). Geliştiricilerin uygulama arayüzlerini farklı platformlarda hızlıca doğrulamasına olanak tanıyor.",
     "lite": false,
@@ -44554,6 +44624,13 @@
         "onceki_yildiz": 6873,
         "surum": "@e2e-dev/kernel@0.2.0",
         "surum_tarihi": "2026-10-06"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 8338,
+        "onceki_yildiz": 8012,
+        "surum": "@e2e-dev/smol@0.1.0",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "A new... that automates end-to-end testing processes for TypeScript-based e2e, web, and mobile applications...",
@@ -44566,7 +44643,7 @@
     "slug": "pstack-claude",
     "title": "Pstack Claude",
     "tagline": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan…",
-    "meta": "★ 1.684 · JavaScript",
+    "meta": "★ 1.691 · JavaScript",
     "image": "/assets/discover/og/pstack-claude.webp",
     "source": "GitHub",
     "date": "2026-10-05",
@@ -44574,7 +44651,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1684,
+    "stars": 1691,
     "last_seen": "2026-10-05",
     "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
     "lite": false,
@@ -44617,6 +44694,13 @@
         "onceki_yildiz": 1621,
         "surum": "v0.9.79",
         "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 1691,
+        "onceki_yildiz": 1684,
+        "surum": "v0.9.80",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "Pstack-claude, which adapts the core functions of the software development tool Cursor for different artificial intelligence models and platforms...",
@@ -44629,14 +44713,14 @@
     "slug": "anyps5",
     "title": "AnyPS5",
     "tagline": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir…",
-    "meta": "★ 18.624 · C++",
+    "meta": "★ 19.663 · C++",
     "image": "/assets/discover/og/anyps5.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 18624,
+    "stars": 19663,
     "last_seen": "2026-10-09",
     "summary": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol özelindeki yürütülebilir dosyaların (executables) farklı platformlara taşınmasını sağlar.",
     "lite": false,
@@ -44686,6 +44770,13 @@
         "onceki_yildiz": 14169,
         "surum": "v0.1.1",
         "surum_tarihi": "2026-09-28"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 19663,
+        "onceki_yildiz": 18624,
+        "surum": "v0.1.1",
+        "surum_tarihi": "2026-09-28"
       }
     ],
     "tagline_en": "AnyPS5, a... that automatically converts PlayStation 5 game files to run on Linux and Windows systems...",
@@ -44730,14 +44821,14 @@
     "slug": "opengym",
     "title": "openGym",
     "tagline": "OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu…",
-    "meta": "★ 7.653 · JavaScript",
+    "meta": "★ 8.392 · JavaScript",
     "image": "/assets/discover/og/opengym.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 7653,
+    "stars": 8392,
     "last_seen": "2026-10-07",
     "summary": "OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu yönetim aracıdır. Kullanıcıların verilerini kendi sunucularında barındırmalarına olanak tanıyan bu yazılım, popüler fitness uygulamalarından (Strong, Hevy) veri aktarımını destekler.",
     "lite": false,
@@ -44771,6 +44862,13 @@
         "onceki_yildiz": 6329,
         "surum": "v1.3.10",
         "surum_tarihi": "2026-10-07"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 8392,
+        "onceki_yildiz": 7653,
+        "surum": "v1.4.0",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "OpenGym, an open-source gym... that helps plan workout routines and track bodyweight exercises...",
@@ -44783,7 +44881,7 @@
     "slug": "rea",
     "title": "REA",
     "tagline": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı…",
-    "meta": "★ 34.379 · TypeScript",
+    "meta": "★ 37.239 · TypeScript",
     "image": "/assets/discover/og/rea.webp",
     "source": "GitHub",
     "date": "2026-10-06",
@@ -44791,7 +44889,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34379,
+    "stars": 37239,
     "last_seen": "2026-10-09",
     "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.",
     "lite": false,
@@ -44837,6 +44935,13 @@
         "tarih": "2026-10-09",
         "yildiz": 34379,
         "onceki_yildiz": 24429,
+        "surum": "rea-agents-6.1.0",
+        "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 37239,
+        "onceki_yildiz": 34379,
         "surum": "rea-agents-6.1.0",
         "surum_tarihi": "2026-10-09"
       }
@@ -45032,7 +45137,7 @@
     "slug": "swiftui-agent-skill",
     "title": "SwiftUI-Agent-Skill",
     "tagline": "SwiftUI-Agent-Skill, arayüz geliştirme aracı SwiftUI için yapay zekâ modellerine özel yetenek paketleri (skills) sunuyor.",
-    "meta": "★ 5.212",
+    "meta": "★ 5.265",
     "image": "/assets/discover/og/swiftui-agent-skill.webp",
     "source": "GitHub",
     "date": "2026-10-09",
@@ -45040,7 +45145,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5212,
+    "stars": 5265,
     "last_seen": "2026-10-09",
     "summary": "SwiftUI-Agent-Skill, arayüz geliştirme aracı SwiftUI için yapay zekâ modellerine özel yetenek paketleri (skills) sunuyor. Bu kaynak, Claude Code ve Codex gibi yapay zekâ kodlama asistanlarının SwiftUI bileşenlerini daha tutarlı ve hızlı oluşturmasına yardımcı oluyor.",
     "lite": false,
@@ -45053,6 +45158,13 @@
         "onceki_yildiz": 5207,
         "surum": "1.1.0",
         "surum_tarihi": "2026-04-20"
+      },
+      {
+        "tarih": "2026-10-09",
+        "yildiz": 5265,
+        "onceki_yildiz": 5212,
+        "surum": "2.0.0",
+        "surum_tarihi": "2026-10-09"
       }
     ],
     "tagline_en": "SwiftUI-Agent-Skill provides specialized skill packages (skills) for artificial intelligence models for the UI development tool SwiftUI.",
