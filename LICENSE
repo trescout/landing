@@ -35,3 +35,13 @@ you may NOT:
   - Build derivative products or services on top of it
 
 For inquiries or permission requests: hello@trescout.com
+
+Third-party components
+----------------------
+The restrictions above do not apply to third-party material in this
+repository, which remains under its own license:
+
+  - Inter typeface (assets/fonts/inter-*.woff2): SIL Open Font License 1.1,
+    Copyright (c) 2016 The Inter Project Authors. See assets/fonts/OFL.txt.
+  - Content described in reports (projects, papers, models, articles)
+    belongs to its respective owners; reports only link to and summarize it.
