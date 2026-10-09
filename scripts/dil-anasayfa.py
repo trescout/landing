@@ -107,7 +107,7 @@ html = f"""<!DOCTYPE html>
 <meta property="og:url" content="{BASE}{o}/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="{D["og_locale"]}">
-<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/nunito-sans-regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <!-- index.css · aydınlatma modal'ının ve onay ipucunun biçimleri burada -->
