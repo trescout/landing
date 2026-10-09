@@ -203,7 +203,7 @@ def gemini(existing, candidates, key):
                 raise
 
 # ---------- 3) render ----------
-LOGO='<svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><rect x="16" y="16" width="68" height="13" rx="6.5" fill="currentColor"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg>'
+LOGO='<svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg>'
 # DİKKAT · buradaki nav/footer eskiyebilir. Kanonik chrome tek yerde:
 # scripts/fix-all-headers-and-footers.js · iş akışı üretimden sonra onu çalıştırır.
 # Buradaki kalıbı elle güncellerseniz oradakiyle aynı olduğundan emin olun.
