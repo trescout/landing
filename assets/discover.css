@@ -20,7 +20,7 @@
 }
 
 .disc-title {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-display);
   font-size: clamp(36px, 7vw, 60px); line-height: 1.04;   /* hero 64px · alt sayfa ondan büyük olmaz */
   font-weight: 700; letter-spacing: -.02em; color: #fff;
   overflow-wrap: break-word; hyphens: auto;
@@ -41,7 +41,7 @@
 
 .disc-sec { margin-top: 44px; }
 .disc-sec h2 {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-display);
   font-size: 26px; font-weight: 700; color: #fff; margin-bottom: 16px;
 }
 .disc-sec p { font-size: 16.5px; line-height: 1.75; color: var(--ink-muted); margin-bottom: 14px; }
@@ -262,7 +262,7 @@
 .disc-index-hero { max-width: 760px; margin: 0 auto; padding: 48px 0 8px; text-align: center; }
 .disc-index-hero .disc-eyebrow { display: block; margin-bottom: 12px; }
 .disc-index-title {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-display);
   font-size: clamp(34px, 6vw, 54px); line-height: 1.08; font-weight: 700;
   letter-spacing: -.02em; color: #fff;
 }

@@ -40,7 +40,7 @@
 .dict-index-hero { max-width: 760px; margin: 0 auto; padding: 48px 0 8px; text-align: center; }
 .dict-index-hero .disc-eyebrow { display: block; margin-bottom: 12px; }
 .dict-index-title {
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-display);
   font-size: clamp(34px, 6vw, 54px); line-height: 1.08; font-weight: 700;
   letter-spacing: -.02em; color: #fff;
 }

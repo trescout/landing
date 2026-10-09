@@ -1,52 +1,69 @@
 #!/usr/bin/env python3
 """
-Logo geometri tutarlılık guard'ı (CI).
-Sayfalardaki TreScout marka işaretinin (3 radar yayı + T) ŞEKLİ her yerde aynı olmalı.
-Boyut (width/height/class), aria, renk/opaklık ve çerçeve (bg rect) bağlama göre meşru
-değişebilir → bunları YOK SAYAR. Sadece çekirdek geometriye bakar: yay path'leri (d) +
-T'nin crossbar/stem rect koordinatları. Böylece "404'te T-sapı height=36 vs 28" gibi
-gerçek sapmayı yakalar, meşru boyut farkını yakalamaz (nav 32px, 404 hero büyük vb).
+Logo geometri tutarlılık guard'ı (CI) · logo v2 (TS işareti, brand-kit logos/v2).
+Gezinme çubuğu ve alt bilgideki işaret (kalın sürüm: ufuk çizgisi + S yolu) her sayfada
+aynı geometride olmalı. Boyut (width/height) ve renk bağlama göre değişebilir: renk
+currentColor ile CSS'ten gelir (site.css · .logo-link svg). Bu yüzden yalnız çekirdek
+geometriye bakar: ufuk rect'i + S path'i + çizgi kalınlığı.
+
+Ayrıca eski v1 logosu (kare çerçeve + T + radar yayları) hiçbir sayfada kalmamalı:
+v2 geçişinden sonra bir üretici eski kodu yeniden basarsa burada yakalanır. Önceki
+guard yalnız v1 imzasını arıyordu; v1 kalmayınca "0 işaret, tutarlı" deyip sessizce
+geçecekti, o yüzden işaret sayısı da denetleniyor.
 Kullanım: python3 scripts/check-logo-consistency.py
 """
-import os, re, glob, sys
+import glob
+import os
+import re
+import sys
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SIG = 'M 20 56 A 30 30 0 0 1 80 56'  # dış radar yayı = marka imzası
-CANON = (
-    'M 20 56 A 30 30 0 0 1 80 56',
-    'M 30 56 A 20 20 0 0 1 70 56',
-    'M 40 56 A 10 10 0 0 1 60 56',
-    'r 20 56 60 11',     # T crossbar
-    'r 44.5 56 11 28',   # T stem
-)
+V1_IMZA = "M 20 56 A 30 30 0 0 1 80 56"  # v1 dış radar yayı
+S_YOLU = "M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81"  # v2 kalın S
+CANON = ('rect x="16" y="16" width="68" height="13" rx="6.5"', f'd="{S_YOLU}"', 'stroke-width="13"', 'stroke-linecap="round"')
+CHROME = re.compile(r'class="(?:logo-link|footer-logo)"')
 
-def core(svg):
-    paths = [d.strip() for d in re.findall(r'd="([^"]+)"', svg)]
-    rects = []
-    for r in re.findall(r'<rect\b[^>]*>', svg):
-        def g(k):
-            m = re.search(k + r'="([^"]+)"', r); return m.group(1) if m else '?'
-        x, y, w, h = g('x'), g('y'), g('width'), g('height')
-        if (x, y, w, h) == ('0', '0', '100', '100'):
-            continue  # bg çerçeve (framed/frameless farkı) → yok say
-        rects.append(f'r {x} {y} {w} {h}')
-    return tuple(sorted(paths + rects))
 
-bad, n = [], 0
-for p in sorted(glob.glob(os.path.join(ROOT, '**', '*.html'), recursive=True)):
-    if '/node_modules/' in p:
-        continue
-    t = open(p, encoding='utf-8').read()
-    for svg in re.findall(r'<svg[^>]*viewBox="0 0 100 100".*?</svg>', t, re.S):
-        if SIG not in svg:
-            continue  # marka işareti değil → atla
-        n += 1
-        if core(svg) != tuple(sorted(CANON)):
-            bad.append((os.path.relpath(p, ROOT), core(svg)))
-            break
+def main():
+    bad, eski, chrome_sayfa, isaret_yok, n = [], [], 0, [], 0
+    for p in sorted(glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True)):
+        if "/node_modules/" in p:
+            continue
+        rel = os.path.relpath(p, ROOT)
+        t = open(p, encoding="utf-8").read()
+        if V1_IMZA in t:
+            eski.append(rel)
+        svgs = [s for s in re.findall(r"<svg\b.*?</svg>", t, re.S) if S_YOLU in s]
+        for svg in svgs:
+            n += 1
+            eksik = [c for c in CANON if c not in svg]
+            if eksik:
+                bad.append((rel, eksik))
+        if CHROME.search(t):
+            chrome_sayfa += 1
+            if not svgs:
+                isaret_yok.append(rel)
 
-if bad:
-    print(f"❌ Logo geometrisi sapmış ({len(bad)} sayfa · beklenen şekil: 3 yay + crossbar 60x11 + stem 11x28):")
-    for f, g in bad[:20]:
-        print(f"   {f}: {g}")
-    sys.exit(1)
-print(f"✅ Logo geometrisi tutarlı: {n} marka işareti")
+    hata = False
+    if eski:
+        hata = True
+        print(f"❌ Eski v1 logosu {len(eski)} sayfada kalmış (kare çerçeve + T + radar yayları):")
+        for f in eski[:20]:
+            print(f"   {f}")
+    if bad:
+        hata = True
+        print(f"❌ Logo v2 geometrisi sapmış ({len(bad)} işaret):")
+        for f, eksik in bad[:20]:
+            print(f"   {f}: eksik {eksik}")
+    if isaret_yok:
+        hata = True
+        print(f"❌ Gezinme/alt bilgi logosu olan {len(isaret_yok)} sayfada v2 işareti yok:")
+        for f in isaret_yok[:20]:
+            print(f"   {f}")
+    if hata:
+        sys.exit(1)
+    print(f"✅ Logo v2 tutarlı: {n} işaret, {chrome_sayfa} sayfa, eski logo yok")
+
+
+if __name__ == "__main__":
+    main()

@@ -43,5 +43,7 @@ repository, which remains under its own license:
 
   - Inter typeface (assets/fonts/inter-*.woff2): SIL Open Font License 1.1,
     Copyright (c) 2016 The Inter Project Authors. See assets/fonts/OFL.txt.
+  - Nunito typeface (assets/fonts/nunito-*.woff2): SIL Open Font License 1.1,
+    Copyright 2014 The Nunito Project Authors. See assets/fonts/OFL-Nunito.txt.
   - Content described in reports (projects, papers, models, articles)
     belongs to its respective owners; reports only link to and summarize it.
