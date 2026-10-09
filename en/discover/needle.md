@@ -2,16 +2,16 @@
 
 Developed by Cactus Compute, Needle offers a 14 MB foundation model that can run on small hardware such as phones, wearable devices and robots. This lightweight structure aims to run artificial intelligence applications locally on edge devices with limited processing power.
 
-- ★ 12,717
+- ★ 13,721
 - Python
 - GitHub Trending · 2026-08-13
 
 ## Updates
 
+- **October 9, 2026:** Stars 12,717 → 13,721.
 - **September 27, 2026:** Stars 10,436 → 12,717.
 - **September 7, 2026:** Stars 9,378 → 10,436.
 - **August 27, 2026:** Stars 8,376 → 9,378.
-- **August 22, 2026:** Stars 7,348 → 8,376.
 
 ## What you get
 

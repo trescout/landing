@@ -2,13 +2,14 @@
 
 Les portefeuilles de développeurs sont une collection soignée d'exemples de portefeuilles dans lesquels les développeurs de logiciels présentent leurs projets et compétences personnels. Idéal pour vous inspirer lors de la conception de votre propre site.
 
-- ★ 25 746
+- ★ 27 037
 - Koleksiyon
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
 ## Mises à jour
 
+- **9 octobre 2026:** Étoiles 25,746 → 27,037.
 - **2 août 2026:** Étoiles 23,623 → 25,746.
 
 ## Ce que ça vous apporte

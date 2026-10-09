@@ -2,16 +2,16 @@
 
 Volcengine tarafından geliştirilen OpenViking, yapay zekâ ajanları için kendi kendini geliştiren bir bağlam veritabanı sunuyor. Bu sistem, ajan hafızasını, bilgi getirme (RAG) süreçlerini ve yetenekleri (skills) tek bir çatı altında birleştiriyor.
 
-- ★ 39.151
+- ★ 39.519
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 39.151 → 39.519, son sürüm v0.5.0 (9 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 38.859 → 39.151, son sürüm v0.4.23 (2 Ekim 2026).
 - **28 Eylül 2026:** Yıldız 38.733 → 38.859, son sürüm v0.4.22 (28 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 37.128 → 38.733, son sürüm v0.4.21 (20 Eylül 2026).
-- **14 Eylül 2026:** Yıldız 36.182 → 37.128, son sürüm v0.4.20 (14 Eylül 2026).
 
 ## Ne kazandırır?
 

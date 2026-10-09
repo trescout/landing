@@ -2,16 +2,16 @@
 
 Omlx é um servidor de inferência de grandes modelos de linguagem (LLM) local de próxima geração que oferece recursos de processamento em lote contínuo (continuous batching) e cache em SSD para computadores Mac com processadores Apple Silicon (M1/M2/M3/M4). Ele combina a infraestrutura Apple MLX com uma API compatível com OpenAI e uma interface na barra de menus do macOS.
 
-- ★ 22.409
+- ★ 22.655
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Atualizações
 
+- **9 de outubro de 2026:** Estrelas 22,409 → 22,655, versão mais recente v0.7.1.dev1 (9 de outubro de 2026).
 - **1 de outubro de 2026:** Estrelas 22,280 → 22,409, versão mais recente v0.7.0 (30 de setembro de 2026).
 - **27 de setembro de 2026:** Estrelas 21,147 → 22,280, versão mais recente v0.7.0rc1 (24 de setembro de 2026).
 - **31 de agosto de 2026:** Estrelas 20,793 → 21,147, versão mais recente v0.6.4 (29 de agosto de 2026).
-- **27 de agosto de 2026:** Estrelas 20,069 → 20,793, versão mais recente v0.6.3rc3 (24 de agosto de 2026).
 
 ## O que você ganha
 

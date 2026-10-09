@@ -2,16 +2,16 @@
 
 OpenViking wurde von Volcengine entwickelt und bietet eine sich selbst verbessernde Kontextdatenbank für KI-Agenten. Dieses System vereint Agentenspeicher, Information Retrieval (RAG)-Prozesse und -Fähigkeiten unter einem Dach.
 
-- ★ 39.151
+- ★ 39.519
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Aktualisierungen
 
+- **9. Oktober 2026:** Sterne 39,151 → 39,519, neueste Version v0.5.0 (9. Oktober 2026).
 - **3. Oktober 2026:** Sterne 38,859 → 39,151, neueste Version v0.4.23 (2. Oktober 2026).
 - **28. September 2026:** Sterne 38,733 → 38,859, neueste Version v0.4.22 (28. September 2026).
 - **27. September 2026:** Sterne 37,128 → 38,733, neueste Version v0.4.21 (20. September 2026).
-- **14. September 2026:** Sterne 36,182 → 37,128, neueste Version v0.4.20 (14. September 2026).
 
 ## Was es bringt
 

@@ -2,16 +2,16 @@
 
 Developed by Volcengine, OpenViking offers a self-improving context database for AI agents. This system combines agent memory, information retrieval (RAG) processes and abilities under a single roof.
 
-- ★ 39,151
+- ★ 39,519
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Updates
 
+- **October 9, 2026:** Stars 39,151 → 39,519, latest release v0.5.0 (October 9, 2026).
 - **October 3, 2026:** Stars 38,859 → 39,151, latest release v0.4.23 (October 2, 2026).
 - **September 28, 2026:** Stars 38,733 → 38,859, latest release v0.4.22 (September 28, 2026).
 - **September 27, 2026:** Stars 37,128 → 38,733, latest release v0.4.21 (September 20, 2026).
-- **September 14, 2026:** Stars 36,182 → 37,128, latest release v0.4.20 (September 14, 2026).
 
 ## What you get
 

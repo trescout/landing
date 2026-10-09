@@ -2,16 +2,16 @@
 
 Las plantillas de Claude Code proporcionan una interfaz de línea de comandos (CLI) para la herramienta Claude Code que simplifica la configuración y el monitoreo. Esta herramienta basada en Python estandariza el control de los desarrolladores sobre el asistente de codificación y la gestión del flujo de trabajo.
 
-- ★ 32.322
+- ★ 32.500
 - Python
 - GitHub Trending · 2026-07-11
 
 ## Actualizaciones
 
+- **9 de octubre de 2026:** Estrellas 32,322 → 32,500, última versión v1.29.7 (9 de octubre de 2026).
 - **3 de octubre de 2026:** Estrellas 30,768 → 32,322, última versión v1.29.6 (17 de septiembre de 2026).
 - **17 de septiembre de 2026:** Estrellas 30,567 → 30,768, última versión v1.29.6 (17 de septiembre de 2026).
 - **9 de septiembre de 2026:** Estrellas 30,058 → 30,567, última versión v1.29.5 (9 de septiembre de 2026).
-- **2 de agosto de 2026:** Estrellas 28,812 → 30,058, última versión v1.28.3 (15 de noviembre de 2025).
 
 ## Qué aporta
 

@@ -2,16 +2,16 @@
 
 Desarrollado por Cactus Compute, Needle ofrece un modelo básico de 14 MB que puede ejecutarse en hardware pequeño como teléfonos, dispositivos portátiles y robots. Esta estructura liviana tiene como objetivo ejecutar aplicaciones de inteligencia artificial localmente en dispositivos periféricos con potencia de procesamiento limitada.
 
-- ★ 12.717
+- ★ 13.721
 - Python
 - GitHub Trending · 2026-08-13
 
 ## Actualizaciones
 
+- **9 de octubre de 2026:** Estrellas 12,717 → 13,721.
 - **27 de septiembre de 2026:** Estrellas 10,436 → 12,717.
 - **7 de septiembre de 2026:** Estrellas 9,378 → 10,436.
 - **27 de agosto de 2026:** Estrellas 8,376 → 9,378.
-- **22 de agosto de 2026:** Estrellas 7,348 → 8,376.
 
 ## Qué aporta
 

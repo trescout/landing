@@ -2,13 +2,14 @@
 
 Portfólios de Desenvolvedores é uma coleção bacana de exemplos de portfólio onde desenvolvedores de software mostram seus projetos e competências pessoais. Ideal para inspiração ao projetar seu próprio site.
 
-- ★ 25.746
+- ★ 27.037
 - Koleksiyon
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
 ## Atualizações
 
+- **9 de outubro de 2026:** Estrelas 25,746 → 27,037.
 - **2 de agosto de 2026:** Estrelas 23,623 → 25,746.
 
 ## O que você ganha

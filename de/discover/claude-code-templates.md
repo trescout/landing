@@ -2,16 +2,16 @@
 
 Claude Code-Vorlagen bieten eine Befehlszeilenschnittstelle (CLI) für das Claude Code-Tool, die die Konfiguration und Überwachung vereinfacht. Dieses Python-basierte Tool standardisiert die Kontrolle der Entwickler über den Codierungsassistenten und das Workflow-Management.
 
-- ★ 32.322
+- ★ 32.500
 - Python
 - GitHub Trending · 2026-07-11
 
 ## Aktualisierungen
 
+- **9. Oktober 2026:** Sterne 32,322 → 32,500, neueste Version v1.29.7 (9. Oktober 2026).
 - **3. Oktober 2026:** Sterne 30,768 → 32,322, neueste Version v1.29.6 (17. September 2026).
 - **17. September 2026:** Sterne 30,567 → 30,768, neueste Version v1.29.6 (17. September 2026).
 - **9. September 2026:** Sterne 30,058 → 30,567, neueste Version v1.29.5 (9. September 2026).
-- **2. August 2026:** Sterne 28,812 → 30,058, neueste Version v1.28.3 (15. November 2025).
 
 ## Was es bringt
 

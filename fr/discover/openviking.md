@@ -2,16 +2,16 @@
 
 Développé par Volcengine, OpenViking propose une base de données contextuelle auto-améliorée pour les agents IA. Ce système combine la mémoire des agents, les processus et les capacités de recherche d'informations (RAG) sous un même toit.
 
-- ★ 39 151
+- ★ 39 519
 - Python
 - GitHub Trending · 2026-08-18
 
 ## Mises à jour
 
+- **9 octobre 2026:** Étoiles 39,151 → 39,519, dernière version v0.5.0 (9 octobre 2026).
 - **3 octobre 2026:** Étoiles 38,859 → 39,151, dernière version v0.4.23 (2 octobre 2026).
 - **28 septembre 2026:** Étoiles 38,733 → 38,859, dernière version v0.4.22 (28 septembre 2026).
 - **27 septembre 2026:** Étoiles 37,128 → 38,733, dernière version v0.4.21 (20 septembre 2026).
-- **14 septembre 2026:** Étoiles 36,182 → 37,128, dernière version v0.4.20 (14 septembre 2026).
 
 ## Ce que ça vous apporte
 
