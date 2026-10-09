@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1.0",
-  "generated_at": "2026-10-09T18:11:59.557926+00:00",
-  "source_git_commit": "aef9ca7f58c482c0667941a229bcaa92edcb2989",
+  "generated_at": "2026-10-09T18:12:36.244525+00:00",
+  "source_git_commit": "c4f0c2168d64f492c116598602f0b50af1c93c96",
   "content_version": "2026-10-09",
   "locales": [
     "tr",
@@ -65,6 +65,6 @@
     "llms.txt": "bffc4cdf3326aebfe9fa34621806c828070e3519338c742e64ba82cf3edc2c3e",
     "llms-full.txt": "6c5fb73a94f26c15769699aabd673a35c99a9bc70b9195b80055f7ecd2fd8c7c",
     "llms-en.txt": "c83ef6c001e1f0da67b5c23dad1e67cdcf5a0516c2abe2af1376cacf7d81eeb5",
-    "vercel.json": "88d5556033243657144b3281e935a4d56b85ffcf3397cb9e7a5801b21c4cbb7f"
+    "vercel.json": "7486425b4815d14476d378483d24e03c51547fb4a8f9cf19d873c9c08ac89964"
   }
 }
