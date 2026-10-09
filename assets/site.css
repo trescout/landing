@@ -58,53 +58,56 @@
  * ──────────────────────────────────────────────── */
 
 /* ---------- TOKENS ---------- */
+/* Tenis paleti · 2026-10-10. Burhan'ın tenis kortu fotoğrafından (Adobe Color) türetildi;
+   önceki lacivert + sarı koyu tema yaygın "yapay zekâ ile yapılmış site" görüntüsüne benziyordu.
+   Roller:
+   · --brand      saha turkuazının gölgedeki tonu · bant (nav, footer, ana sayfa başı). Üstünde --on-brand (beyaz, 4,7:1).
+   · --accent     koyu saha turkuazı · bağlantı, odak, etkileşim. Kâğıt zeminde 5,7:1.
+   · --pink       TEK vurgu · YALNIZ dolgu (ana düğme, "yeni" etiketi). Metin rengi olarak kullanmayın (kâğıtta 2:1);
+                  üstündeki metin --ink (7,5:1).
+   · --court      grafik turkuazı · çubuk, nokta, şerit. Metin için değil.
+   Metin üç renk: --ink, --ink-muted, bant üstünde --on-brand. */
 :root {
-  color-scheme: dark;
-  --brand: #1B4965;
-  --brand-light: #5FA8D3;
-  --accent: #F4D35E;
-  --accent-light: #F8DC72;
-  --accent-dark: #E5C24B;
-  --accent-deep: #D4B040;
-  --on-accent: #15202B;
-  --bg: #0F1929;
-  --bg-elevated: #1B2A40;
-  --border: #2E6488;  /* 2026-09-27 · #1B4965 zemine karşı 1,84:1 idi, çerçeveler seçilmiyordu (GG3 kaydı: "çok mu koyu"). #2E6488 2,77:1 · marka laciverti ailesinde, bir tık açık. */
-  --ink: #E8F1F5;
-  --ink-muted: #A8C0D0;
-  --success: #2EA043;
-  --danger-soft: #FFB3B3;
-  /* Product-format mockup tokens stay scoped by usage, not added to the brand palette. */
-  --mockup-paper: #FFFFFF;
-  --mockup-surface: #F2F4F7;
-  --mockup-surface-end: #E8EBEF;
-  --mockup-surface-alt: #ECEEF1;
-  --mockup-surface-alt-end: #DFE4EA;
-  --mockup-muted: #6B7785;
-  --mockup-muted-soft: #8B95A0;
-  --mockup-ink-muted: #4F6577;
-  --mockup-accent-paper: #FFF8E1;
-  --mockup-accent-ink: #806A1F;
-  --mockup-accent-deep: #9B8424;
-  --mockup-accent-label: #B8941F;
-  --mockup-window-red: #FF5F57;
-  --mockup-window-yellow: #FEBC2E;
-  --mockup-window-green: #28C840;
+  color-scheme: light;
+  --brand: #387F7C;
+  --on-brand: #FFFFFF;
+  --court: #3D8B88;
+  --brand-light: #3D8B88;  /* eski ad · --court ile aynı; metin için değil */
+  --accent: #2E6B68;
+  --accent-light: #387F7C;
+  --accent-dark: #245653;
+  --accent-deep: #1D4745;
+  --on-accent: #FFFFFF;
+  --pink: #F194B4;
+  --pink-dark: #EC7FA5;
+  --pink-soft: #FBE1EA;
+  --bg: #F4F6F5;
+  --bg-elevated: #FFFFFF;
+  --bg-sunken: #E8EDEB;   /* kod, istem ve not blokları */
+  --border: #C3BDB3;
+  --ink: #2A1D1C;
+  --ink-muted: #486581;
+  --success: #2F7D4A;
+  --danger: #A23B3B;
+  --danger-soft: #A23B3B;
   --font-body: 'Nunito Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
   --font-display: 'Nunito', system-ui, -apple-system, sans-serif;
-  --font-mono: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace;
-  --text-micro: 10px;
-  --text-label: 11px;
-  --text-meta: 12px;
+  /* Eş aralıklı yazı YALNIZ gerçek kod için (kurulum komutu, istem). Etiket, sayı, ad için kullanmayın. */
+  --font-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  /* Yazı ölçeği · yedi adım: 13 · 15 · 17 · 20 · 28 · 40 · 64. Eski ara değerler (10, 11, 12, 14, 16, 18)
+     en yakın adıma bağlandı; adlar geriye dönük uyum için duruyor. Yeni kural yazarken ara değer eklemeyin. */
+  --text-micro: 13px;
+  --text-label: 13px;
+  --text-meta: 13px;
   --text-caption: 13px;
-  --text-small: 14px;
+  --text-small: 15px;
   --text-body-sm: 15px;
-  --text-body: 16px;
-  --text-lead: 18px;
+  --text-body: 17px;
+  --text-lead: 20px;
   --text-heading: 20px;
-  --text-h2: clamp(24px, 3vw, 32px);
-  --text-h1: clamp(30px, 4.2vw, 44px);
-  --text-hero: clamp(40px, 5.4vw, 64px);
+  --text-h2: clamp(20px, 2.6vw, 28px);
+  --text-h1: clamp(28px, 4.4vw, 40px);
+  --text-hero: clamp(40px, 6vw, 64px);
 }
 
 /* ---------- RESET ---------- */
@@ -129,19 +132,19 @@ html { scroll-behavior: smooth; overflow-x: hidden; max-width: 100vw; }
   position: absolute;
   top: -40px;
   left: 8px;
-  background: var(--accent);
+  background: var(--ink);
   color: var(--bg);
   padding: 8px 16px;
   border-radius: 6px;
   font-size: var(--text-small);
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: none;
   z-index: 1000;
   transition: top 0.15s;
 }
 .skip-link:focus {
   top: 8px;
-  outline: 2px solid var(--bg);
+  outline: 2px solid var(--pink);
   outline-offset: 2px;
 }
 
@@ -149,6 +152,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--font-body);
+  font-size: var(--text-body);
   font-feature-settings: 'kern';
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
@@ -162,9 +166,13 @@ body {
 body > * { position: relative; z-index: 1; }
 nav, main, footer { position: relative; z-index: 2; }
 
-::selection { background: rgba(244, 211, 94, 0.3); color: var(--ink); }
+::selection { background: var(--pink-soft); color: var(--ink); }
 a { color: inherit; text-decoration: none; }
 button { font: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+/* Klavye odağı · tek kural, her yüzeyde aynı. Bant üstünde beyaz (aşağıda). */
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
+/* Sayılar hizalı · tarih, yıldız, madde sayısı */
+time, .num { font-variant-numeric: tabular-nums; }
 
 /* ---------- LAYOUT ---------- */
 .container {
@@ -173,63 +181,58 @@ button { font: inherit; cursor: pointer; border: none; background: none; color: 
   padding: 0 24px;
 }
 
-/* ---------- NAV ---------- */
+/* ---------- NAV · turkuaz bant ---------- */
 nav {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: var(--bg);
-  border-bottom: 1px solid rgba(95, 168, 211, 0.12);
-  transition: background 0.2s ease, border-color 0.2s ease;
+  background: var(--brand);
+  color: var(--on-brand);
 }
-nav.scrolled {
-  background: var(--bg);
-  border-bottom-color: rgba(95, 168, 211, 0.22);
-}
+nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
 .nav-inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 22px 0;
-  min-height: 76px;
+  gap: 24px;
+  /* Yalnız dikey dolgu · "padding: 14px 0" .container'ın yan dolgusunu sıfırlıyordu, dar
+     ekranda logo ve menü ekranın kenarına yapışıyordu */
+  padding-block: 14px;
+  min-height: 64px;
 }
 .logo-link {
   display: flex;
   align-items: center;
-  gap: 10px;
-  font-family: var(--font-display);
-  font-size: var(--text-heading);
-  font-weight: 800;
-  letter-spacing: -0.005em;
-  color: var(--ink);
-  transition: opacity 0.18s ease;
+  color: var(--on-brand);
 }
-/* Logo v2 işareti (kalın sürüm, 32 px ve altı) · fill/stroke currentColor · rengi buradan */
-.logo-link svg, .footer-logo svg { color: var(--accent); flex-shrink: 0; }
-.logo-link:hover { opacity: 0.85; }
-.logo-link svg { transition: transform 0.3s cubic-bezier(0.2, 0.8, 0.2, 1); }
-.logo-link:hover svg { transform: rotate(-4deg) scale(1.05); }
+/* Logo v2 işareti (kalın sürüm, 32 px ve altı) · stroke currentColor · rengi buradan.
+   Bant üstünde tek renk beyaz; logonun yanında ad yazılmıyor (aria-label taşıyor). */
+.logo-link svg, .footer-logo svg { color: var(--on-brand); flex-shrink: 0; }
 .nav-actions {
   display: flex;
-  gap: 8px;
+  gap: 4px;
   align-items: center;
 }
-/* Menü öğeleri çerçeveli ve genişlikleri SABİT · 2026-09-27 (Burhan'ın GG3 kaydı).
-   Her yuva, o öğenin altı dildeki en uzun karşılığına göre (ilk ölçüm Inter 600 14px; min-width olduğu için Nunito Sans'ta da taşmaz,
-   yatay dolgu 40px): Découvrir 112px · Dictionary 110px · Arquivo de relatórios
-   182px · Karşılaştır 109px. Dil değişince menü artık kaymıyor. Yeni dil
-   eklerken daha uzun bir etiket gelirse bu değerleri güncelleyin
+/* Menü öğeleri düz metin. Genişlikleri SABİT · 2026-09-27 (Burhan'ın GG3 kaydı: dil değişince
+   menü kaymasın). Her yuva o öğenin altı dildeki en uzun karşılığına göre: Découvrir · Dictionary ·
+   Arquivo de relatórios · Karşılaştır. Çerçeve 2026-10-10'da kalktı (v3), sabit yuva kaldı; metin
+   yuvada ortalı. Ölçüm (Nunito Sans 400 15px, en uzun etiket + 20px dolgu): 90 · 89 · 161 · 87 px.
+   Yeni dil eklerken daha uzun bir etiket gelirse bu değerleri güncelleyin
    (check-nav-consistency.py uzunluğu denetler). */
-.nav-actions > a.btn-ghost {
+.nav-actions .btn-ghost {
+  color: var(--on-brand);
+  font-size: var(--text-small);
+  font-weight: 400;
+  padding: 8px 10px;
+  border-radius: 4px;
   justify-content: center;
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 10px;
 }
+.nav-actions .btn-ghost:hover { color: var(--on-brand); text-decoration: underline; text-underline-offset: 4px; }
 @media (min-width: 641px) {
-  .nav-actions > a.btn-ghost:nth-of-type(1) { min-width: 7.1rem; }
-  .nav-actions > a.btn-ghost:nth-of-type(2) { min-width: 7rem; }
-  .nav-actions > a.btn-ghost:nth-of-type(3) { min-width: 11.5rem; }
-  .nav-actions > a.btn-ghost:nth-of-type(4) { min-width: 6.9rem; }
+  .nav-actions > a.btn-ghost:nth-of-type(1) { min-width: 5.7rem; }
+  .nav-actions > a.btn-ghost:nth-of-type(2) { min-width: 5.6rem; }
+  .nav-actions > a.btn-ghost:nth-of-type(3) { min-width: 10.1rem; }
+  .nav-actions > a.btn-ghost:nth-of-type(4) { min-width: 5.5rem; }
 }
 /* Dil seçici · JS'siz <details>. Bağlantı metni dil kodu (EN, FR...), görünen
    ad CSS'ten geliyor; ekran okuyucu aria-label'ı okur. */
@@ -237,35 +240,43 @@ nav.scrolled {
 .dil-secici > summary {
   list-style: none;
   cursor: pointer;
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 10px;
   user-select: none;
 }
 .dil-secici > summary::-webkit-details-marker { display: none; }
-.dil-secici > summary::after { content: "\25BE"; margin-left: 6px; font-size: 0.8em; opacity: 0.7; }
-.dil-secici[open] > summary { border-color: rgba(244, 211, 94, 0.45); }
+/* Açılır ok · CSS ile çizilen küçük köşe (yazı karakteri değil) */
+.dil-secici > summary::after {
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin-left: 8px;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: translateY(-3px) rotate(45deg);
+}
+.dil-secici[open] > summary { text-decoration: underline; text-underline-offset: 4px; }
 .dil-listesi {
   position: absolute;
   right: 0;
-  top: calc(100% + 6px);
+  top: calc(100% + 8px);
   z-index: 60;
   display: flex;
   flex-direction: column;
   min-width: 11rem;
   padding: 6px;
-  background: #132338;
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  border-radius: 12px;
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 6px;
 }
-.dil-listesi a.btn-ghost {
+.nav-actions .dil-listesi a.btn-ghost {
+  color: var(--ink);
   justify-content: flex-start;
   gap: 10px;
   padding: 8px 12px;
-  border: 0;
-  font-size: 14px;
+  font-size: var(--text-small);
 }
-.dil-listesi a.btn-ghost::after { font-weight: 500; opacity: 0.85; }
+.nav-actions .dil-listesi a.btn-ghost:hover { color: var(--ink); background: var(--bg); text-decoration: none; }
+.dil-listesi a.btn-ghost::after { color: var(--ink-muted); }
 .dil-listesi a[href^="/en/"]::after { content: "English"; }
 .dil-listesi a[href^="/fr/"]::after { content: "Français"; }
 .dil-listesi a[href^="/pt/"]::after { content: "Português"; }
@@ -276,22 +287,19 @@ nav.scrolled {
   .container { padding: 0 16px; }
   .nav-inner {
     flex-wrap: wrap;
-    gap: 10px 16px;
-    padding: 14px 0 10px;
+    gap: 6px 16px;
+    padding-block: 12px 8px;
   }
-  .logo-link { gap: 8px; }
-  /* Mobilde menü linklerini gizlemek yerine ikinci satırda kaydırılabilir tut.
-     Böylece ana bölümlere footer'a kadar inmeden ulaşılabilir. */
-  /* Dil seçiciyle menü 5 öğeye indi · yana kaydırmak yerine gerekirse iki satıra
-     yayılıyor. overflow-x:auto açılan dil listesini kırpardı; ayrıca PT/ES/DE
-     eskiden ekran dışında kalıyordu. */
+  /* Mobilde menü ikinci satırda, sola yaslı. İlk bağlantının metni logo ile aynı
+     hizada başlasın diye satırın sol dolgusu eksiye çekiliyor (yalnız metin içeri kaçmasın). */
   .nav-actions {
     flex: 1 1 100%;
     min-width: 0;
     width: 100%;
-    gap: 6px;
+    gap: 0 2px;
     flex-wrap: wrap;
     justify-content: flex-start;
+    margin-left: -10px;
   }
   /* Dil listesi mobilde menünün altında, kapsayıcı genişliğinde açılır · seçici
      satırın neresine düşerse düşsün ekrandan taşmasın. */
@@ -300,18 +308,17 @@ nav.scrolled {
   .dil-listesi {
     left: 0;
     right: 0;
-    top: calc(100% - 4px);
+    top: calc(100% - 2px);
     min-width: 0;
     flex-direction: row;
     flex-wrap: wrap;
   }
-  .dil-listesi a.btn-ghost { flex: 1 1 40%; }
-  .nav-actions::-webkit-scrollbar { display: none; }
+  .nav-actions .dil-listesi a.btn-ghost { flex: 1 1 40%; }
   .nav-actions .btn-ghost {
     display: inline-flex;
     flex: 0 0 auto;
-    padding: 8px 12px;
-    font-size: 12px;
+    padding: 8px 10px;
+    font-size: var(--text-small);
   }
 }
 
@@ -320,124 +327,270 @@ nav.scrolled {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 10px 20px;
-  border-radius: 10px;
+  padding: 10px 18px;
+  border-radius: 6px;
   font-size: var(--text-small);
-  font-weight: 600;
-  transition: transform 0.18s cubic-bezier(0.2, 0.8, 0.2, 1),
-              box-shadow 0.18s ease,
-              background 0.18s ease,
-              color 0.18s ease;
+  font-weight: 700;
+  line-height: 1.3;
+  transition: background 0.15s ease, color 0.15s ease;
   white-space: nowrap;
   position: relative;
 }
-.btn:focus-visible {
-  outline: 2px solid var(--accent);
-  outline-offset: 3px;
-}
+/* Ana eylem · pembe dolgu, metin mürekkep (7,5:1). Gölge, degrade, kalkma yok. */
 .btn-primary {
-  background: linear-gradient(180deg, #F8DC72 0%, #F4D35E 100%);
-  color: var(--bg);
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset,
-              0 4px 12px rgba(244, 211, 94, 0.15);
+  background: var(--pink);
+  color: var(--ink);
 }
-.btn-primary:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.25) inset,
-              0 12px 28px rgba(244, 211, 94, 0.32);
-}
-.btn-primary:active {
-  transform: translateY(0);
-  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset,
-              0 4px 10px rgba(244, 211, 94, 0.2);
-}
-.btn-ghost { color: var(--ink-muted); }
-.btn-ghost:hover { color: var(--ink); }
+.btn-primary:hover { background: var(--pink-dark); }
+.btn-ghost { color: var(--accent); }
+.btn-ghost:hover { color: var(--accent-dark); }
 
-/* ---------- SIGNUP CTA · rapor sayfaları (erken erişim dönüşümü) ---------- */
-.signup-cta {
-  margin: 28px 0;
-  padding: 20px 24px;
+/* ---------- KAYIT FORMU · ana sayfa, keşif, sözlük, karşılaştırma aynı biçim (subscribe.js / index.js bağlar) ---------- */
+.disc-cta-form { max-width: 480px; margin: 0 0 4px; }
+.cta-form { display: flex; flex-direction: column; gap: 10px; }
+.cta-form .form-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.cta-form .input {
+  flex: 1 1 220px; min-width: 160px; padding: 11px 14px; font: inherit; font-size: var(--text-small);
+  background: var(--bg-elevated); border: 1.5px solid var(--ink-muted);
+  border-radius: 6px; color: var(--ink);
+}
+.cta-form .input::placeholder { color: var(--ink-muted); }
+.cta-form .input:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent); }
+.disc-cta-form .btn { margin: 0; }
+.cta-form .form-consent {
+  display: grid; grid-template-columns: 18px 1fr; column-gap: 10px; align-items: start;
+  font-size: var(--text-caption); color: var(--ink-muted); cursor: pointer; line-height: 1.5;
+}
+.cta-form .form-consent input[type="checkbox"] {
+  width: 18px; height: 18px; margin-top: 1px; accent-color: var(--accent); cursor: pointer;
+}
+/* Bilgilendirme cümlesi · onay kutusunun DIŞINDA (KVKK 2026/347, #210) */
+.cta-form .form-notice { margin: 0; font-size: var(--text-caption); color: var(--ink-muted); line-height: 1.5; }
+.cta-form .form-notice a, .cta-form .form-consent a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.cta-form .form-notice a:hover, .cta-form .form-consent a:hover { color: var(--accent-dark); }
+.form-success {
+  max-width: 480px; padding: 12px 16px; border-radius: 6px;
+  background: var(--pink-soft); color: var(--ink); font-size: var(--text-small); line-height: 1.5;
+}
+.form-success strong { font-weight: 700; }
+.form-error {
+  max-width: 480px; margin: 10px 0 0; padding: 8px 12px; border-radius: 6px;
+  border: 1px solid var(--danger); color: var(--danger); font-size: var(--text-caption);
+}
+.disc-cta-all { display: inline-block; margin-top: 10px; }
+.disc-cta .disc-cta-all.btn { padding-left: 0; padding-right: 0; }
+.hp-field { position: absolute; left: -9999px; top: -9999px; width: 1px; height: 1px; opacity: 0; }
+
+/* ---------- AYDINLATMA METNİ PENCERESİ · ana sayfa ve "nasıl çalışır" (index.js açar) ---------- */
+.privacy-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(42, 29, 28, 0.55);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+  /* visibility 0.2s opacity geçişi bitince devreye girer · iframe tekerlek olaylarını yutmaz */
+  transition: opacity 0.2s ease, visibility 0s linear 0.2s;
+}
+.privacy-modal[aria-hidden="false"] {
+  opacity: 1;
+  pointer-events: auto;
+  visibility: visible;
+  transition: opacity 0.2s ease, visibility 0s linear 0s;
+}
+.privacy-modal-card {
   background: var(--bg-elevated);
-  border: 1px solid rgba(244, 211, 94, 0.28);
-  border-radius: 14px;
+  border-radius: 8px;
+  width: min(880px, 100%);
+  max-height: 92vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.privacy-modal-head {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 18px;
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.privacy-modal-head h2 {
+  font-family: var(--font-display);
+  font-size: var(--text-heading);
+  font-weight: 800;
+  color: var(--ink);
+  margin: 0;
+}
+.privacy-modal-x {
+  appearance: none;
+  background: transparent;
+  border: 0;
+  color: var(--ink);
+  /* 40px · parmakla kapatılabilsin (32px ölçülmüştü, yönerge 44px) */
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: var(--text-h2);
+  line-height: 1;
+  cursor: pointer;
+}
+.privacy-modal-x:hover { background: var(--bg-sunken); }
+.privacy-modal-body {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  min-height: 0;
+}
+.privacy-modal-iframe {
+  width: 100%;
+  height: 100%;
+  min-height: 420px;
+  border: none;
+  background: var(--bg);
+}
+.privacy-modal-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 12px 20px;
+  border-top: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.privacy-modal-options {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+.privacy-telemetry-option {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  color: var(--ink);
+  font-size: var(--text-caption);
+  line-height: 1.45;
+  cursor: pointer;
+}
+.privacy-telemetry-checkbox {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 auto;
+  margin-top: 0;
+  accent-color: var(--accent);
+}
+.privacy-telemetry-status {
+  min-height: 1em;
+  color: var(--ink-muted);
+  font-size: var(--text-caption);
+}
+.privacy-modal-confirm {
+  appearance: none;
+  background: var(--pink);
+  color: var(--ink);
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  font: inherit;
+  font-size: var(--text-small);
+  font-weight: 700;
+  cursor: pointer;
+}
+.privacy-modal-confirm:disabled { opacity: 0.5; cursor: not-allowed; }
+.privacy-modal-confirm:not(:disabled):hover { background: var(--pink-dark); }
+@media (max-width: 640px) {
+  .privacy-modal { padding: 12px; }
+  .privacy-modal-card { max-height: 96vh; }
+  .privacy-modal-foot {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+  .privacy-modal-options { align-items: stretch; }
+  .privacy-modal-confirm { width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .privacy-modal { transition: none; }
+}
+
+/* ---------- SIGNUP CTA · rapor sayfaları (erken erişim dönüşümü) ---------- */
+.signup-cta {
+  margin: 32px 0;
+  padding: 20px 0;
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
   flex-wrap: wrap;
 }
-.signup-cta p { margin: 0; font-size: var(--text-body-sm); line-height: 1.5; color: var(--ink); max-width: 58ch; }
-.signup-cta strong { color: var(--accent); font-weight: 700; }
+.signup-cta p { margin: 0; font-size: var(--text-small); line-height: 1.55; color: var(--ink); max-width: 58ch; }
+.signup-cta strong { font-weight: 700; }
 
-/* ---------- FOOTER ---------- */
+/* ---------- FOOTER · turkuaz bant ---------- */
 footer {
-  border-top: 1px solid rgba(95, 168, 211, 0.15);
-  background: linear-gradient(180deg, transparent 0%, rgba(15, 25, 41, 0.4) 100%);
-  padding: 64px 0 32px;
-  color: var(--ink-muted);
+  background: var(--brand);
+  color: var(--on-brand);
+  padding: 48px 0 28px;
   font-size: var(--text-small);
 }
 .footer-grid {
   display: grid;
   grid-template-columns: 1.6fr 1fr 1fr 1fr;
-  gap: 48px;
-  margin-bottom: 48px;
+  gap: 40px;
+  margin-bottom: 40px;
 }
 .footer-brand-block { max-width: 320px; }
 .footer-logo {
   display: flex;
   align-items: center;
-  gap: 10px;
-  font-family: var(--font-display);
-  font-size: var(--text-heading);
-  font-weight: 800;
-  letter-spacing: -0.005em;
-  color: var(--ink);
-  margin-bottom: 14px;
+  color: var(--on-brand);
+  margin-bottom: 12px;
 }
 .footer-tagline {
   font-size: var(--text-small);
   line-height: 1.55;
-  color: var(--ink-muted);
+  color: var(--on-brand);
 }
 .footer-col-title {
-  font-size: var(--text-label);
+  font-size: var(--text-small);
   font-weight: 700;
-  text-transform: none;
-  letter-spacing: normal;
-  color: var(--ink);
-  margin-bottom: 18px;
+  color: var(--on-brand);
+  margin-bottom: 12px;
 }
 .footer-col ul { list-style: none; padding: 0; margin: 0; }
-.footer-col li { margin-bottom: 11px; }
+.footer-col li { margin-bottom: 8px; }
 .footer-col a {
-  color: var(--ink-muted);
+  color: var(--on-brand);
   font-size: var(--text-small);
   text-decoration: none;
-  transition: color 0.15s;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
 }
-.footer-col a:hover { color: var(--accent); }
+.footer-col a:hover { text-decoration: underline; text-underline-offset: 4px; }
 .footer-bottom {
-  border-top: 1px solid rgba(95, 168, 211, 0.1);
-  padding-top: 28px;
+  border-top: 1px solid rgba(255, 255, 255, 0.35);
+  padding-top: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: var(--text-meta);
-  color: var(--ink-muted);
+  font-size: var(--text-caption);
+  color: var(--on-brand);
   gap: 16px;
   flex-wrap: wrap;
 }
-.footer-bottom-meta { opacity: 0.8; }
 @media (max-width: 768px) {
-  .footer-grid { grid-template-columns: 1fr 1fr; gap: 32px; }
+  .footer-grid { grid-template-columns: 1fr 1fr; gap: 28px; }
   .footer-brand-block { grid-column: 1 / -1; max-width: 100%; }
   .footer-bottom { flex-direction: column; align-items: flex-start; gap: 6px; }
 }
 
 /* Bölüm dolgusu · dizin sayfalarında inline stil yerine (CSP) */
 .container-pad { padding: 44px 24px 64px; }
+@media (max-width: 640px) { .container-pad { padding-left: 16px; padding-right: 16px; } }

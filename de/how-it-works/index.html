@@ -6,8 +6,8 @@
   <title>So funktioniert es · TreScout</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="apple-touch-icon" href="/brand-mark.png">
-  <meta name="theme-color" content="#0F1929">
-  <meta name="description" content="Wie TreScout seine Quellen durchsucht, wie der Bericht entsteht und was mit dem frühen Zugang kommt.">
+  <meta name="theme-color" content="#387F7C">
+  <meta name="description" content="Wie TreScout seine Quellen durchsucht, wie der Bericht entsteht und erscheint, und wo seine Grenzen liegen.">
   <link rel="canonical" href="https://trescout.com/de/how-it-works/">
   <link rel="alternate" hreflang="tr" href="https://trescout.com/how-it-works/">
   <link rel="alternate" hreflang="en" href="https://trescout.com/en/how-it-works/">
@@ -17,7 +17,7 @@
   <link rel="alternate" hreflang="de" href="https://trescout.com/de/how-it-works/">
   <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/how-it-works/">
   <meta property="og:title" content="So funktioniert es · TreScout">
-  <meta property="og:description" content="Wie TreScout seine Quellen durchsucht, wie der Bericht entsteht und was mit dem frühen Zugang kommt.">
+  <meta property="og:description" content="Wie TreScout seine Quellen durchsucht, wie der Bericht entsteht und erscheint, und wo seine Grenzen liegen.">
   <meta property="og:url" content="https://trescout.com/de/how-it-works/">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="de_DE">
@@ -28,11 +28,11 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@GetTreScout">
   <meta name="twitter:title" content="So funktioniert es · TreScout">
-  <meta name="twitter:description" content="Wie TreScout seine Quellen durchsucht, wie der Bericht entsteht und was mit dem frühen Zugang kommt.">
+  <meta name="twitter:description" content="Wie TreScout seine Quellen durchsucht, wie der Bericht entsteht und erscheint, und wo seine Grenzen liegen.">
   <meta name="twitter:image" content="https://trescout.com/og-image.png">
   <link rel="preload" href="/assets/fonts/nunito-sans-regular.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/site.css">
-  <link rel="stylesheet" href="/assets/index.css">
+  <link rel="stylesheet" href="/assets/discover.css">
 </head>
 <body>
   <a class="skip-link" href="#main">Zum Hauptinhalt springen</a>
@@ -41,179 +41,11 @@
   <nav><div class="container nav-inner"><a class="logo-link" href="/de/" aria-label="TreScout"><svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg></a><div class="nav-actions"><a href="/de/discover/" class="btn btn-ghost">Entdecken</a><a href="/de/dictionary/" class="btn btn-ghost">Glossar</a><a href="/de/reports/" class="btn btn-ghost">Berichtsarchiv</a><a href="/de/compare/rss-vs-ai/" class="btn btn-ghost">Vergleich</a><details class="dil-secici"><summary class="btn btn-ghost" aria-label="Sprache wählen">DE</summary><div class="dil-listesi"><a href="/" class="btn btn-ghost" aria-label="TR">TR</a><a href="/en/" class="btn btn-ghost" aria-label="EN">EN</a><a href="/fr/" class="btn btn-ghost" aria-label="FR">FR</a><a href="/pt/" class="btn btn-ghost" aria-label="PT">PT</a><a href="/es/" class="btn btn-ghost" aria-label="ES">ES</a></div></details></div></div></nav>
 
   <main id="main">
-
-  <section class="section section-center" id="hiw-intro">
-    <div class="container">
-      <h1 class="section-title">Wie funktioniert TreScout?</h1>
-      <p class="section-lead">TreScout durchsucht jeden Tag vier Quellen-Feeds, fasst die Höhepunkte mit künstlicher Intelligenz zusammen und bündelt sie in einem Bericht. Die Berichte sind für alle offen.</p>
-    </div>
-  </section>
-
-  <!-- ============== HOW IT WORKS ============== -->
-  <section class="section section-center reveal" id="how-it-works">
-    <div class="container">
-      <span class="eyebrow">So funktioniert es</span>
-      <h2 class="section-title">Ihr täglicher Technik-Bericht, Schritt für Schritt.</h2>
-      <p class="section-lead">Zuerst wird die gemeinsame tägliche Quellenauswahl erstellt. Wenn die E-Mail-Zustellung mit dem Vorabzugang startet, wählen Sie die Empfangszeit; der Tages-Scan ist gemeinsam.</p>
-
-      <div class="pipeline">
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M3 16a9 9 0 0 1 18 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".3"/><path d="M6.5 16a5.5 5.5 0 0 1 11 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M10 16a2 2 0 0 1 4 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".85"/><circle cx="12" cy="19.5" r="1.7" fill="#F4D35E"/></svg></div>
-          <span class="step-number">01</span>
-          <h3>Durchsuchen</h3>
-          <p>Sammelt tägliche Höhepunkte aus GitHub Trending, Hacker News sowie Hugging Face-Modellen und Daily Papers.</p>
-          <div class="step-chips" aria-hidden="true"><span>GitHub</span><span>Hacker News</span><span>HuggingFace</span></div>
-        </div>
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M4 6h16M4 10.5h13.5M4 15h15" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".45"/><path d="M4 19.5h7" stroke="#F4D35E" stroke-width="2.2" stroke-linecap="round"/></svg></div>
-          <span class="step-number">02</span>
-          <h3>Zusammenfassen</h3>
-          <p>Erstellt mit KI einen kurzen, gut lesbaren Bericht. Fachbegriffe bleiben in ihrer Originalform in Klammern und werden in der gewählten Berichtssprache im Glossar erklärt.</p>
-          <p class="step-sample" aria-hidden="true">„…Interaktion über die Kommandozeile <span class="step-sample-term">(CLI)</span> geführt…“</p>
-        </div>
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><rect x="3" y="5.5" width="18" height="13" rx="2.5" stroke="#5FA8D3" stroke-width="1.6" opacity=".55"/><path d="M4.6 8 12 13.2 19.4 8" stroke="#F4D35E" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-          <span class="step-number">03</span>
-          <h3>Liefern</h3>
-          <p>Wenn die E-Mail-Zustellung verfügbar ist, kommt der Bericht zur gewählten Uhrzeit an. Die Tagesauswahl ist gemeinsam; Sie entscheiden, wann Sie lesen.</p>
-          <div class="step-chips" aria-hidden="true"><span class="step-chip-accent">07:00</span><span>PDF</span><span>Posteingang</span></div>
-        </div>
-      </div>
-      <p class="section-more"><a class="btn btn-ghost" href="/de/compare/rss-vs-ai/">TreScout mit manueller Recherche und RSS vergleichen →</a></p>
-    </div>
-  </section>
-
-  <!-- ============== REPORT PREVIEW ============== -->
-  <section class="section reveal" id="preview">
-    <div class="container">
-      <div class="preview-split">
-        <div class="preview-text">
-          <span class="eyebrow">Bericht als PDF</span>
-          <h2 class="section-title">Vollständiger Bericht, müheloses Lesen.</h2>
-          <p class="section-lead">Die E-Mail bietet einen schnellen Überblick; ausführliche Trends, Quellenlinks und das Fachglossar erscheinen in einem PDF-Bericht in der gewählten Sprache.</p>
-          <ul class="bullet-list">
-            <li><span class="bullet-icon">📄</span><span><strong>Tägliche Funde</strong> nach Quelle gruppiert (GitHub, Hacker News, HuggingFace…)</span></li>
-            <li><span class="bullet-icon">📚</span><span><strong>Technik-Glossar</strong> · verständliche Definitionen für die heutigen KI- und Software-Begriffe</span></li>
-            <li><span class="bullet-icon">🗂️</span><span><strong>Archivierbar</strong> · aufgeräumte PDF-Berichte zum Herunterladen für Ihr dauerhaftes Archiv</span></li>
-            <li><span class="bullet-icon">🔗</span><span><strong>Anklickbare Quellenlinks</strong> · direkte Links zu Repositorys, Beiträgen und Modellkarten</span></li>
-          </ul>
-          <a class="preview-archive-cta" href="/reports/">
-            <span class="pac-live" id="js-arch-badge">LIVE</span>
-            <span class="pac-msg"><strong>Dies ist ein festes Beispiel.</strong> Aktuelle Berichte veröffentlichen wir täglich im Archiv · <span class="pac-go">Archiv ansehen →</span></span></span></span></span></span></span></span></span>
-          </a>
-
-
-          <div class="report-tasting" data-report-tasting>
-            <div class="report-tasting-kicker">Ein kurzes Beispiel aus einem Bericht</div>
-            <h3>Wie erscheint ein Quellen-Eintrag in Zusammenfassung und Glossar?</h3>
-            <p class="report-tasting-intro">Sehen Sie, wie ein GitHub-Trending-Eintrag vom Quellenlink zu einer kurzen Zusammenfassung und einer klaren Begriffserklärung wird.</p>
-            <div class="tasting-tabs" role="tablist" aria-label="Ein Report im Detail: Quelle, Zusammenfassung und Glossar">
-              <button type="button" role="tab" aria-selected="true" aria-controls="tasting-source" id="tasting-tab-source" data-tasting-tab="source">Quellen-Eintrag</button>
-              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-summary" id="tasting-tab-summary" data-tasting-tab="summary" tabindex="-1">TreScout-Zusammenfassung</button>
-              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-glossary" id="tasting-tab-glossary" data-tasting-tab="glossary" tabindex="-1">Glossar-Erklärung</button>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-source" aria-labelledby="tasting-tab-source" data-tasting-panel="source">
-              <span class="tasting-meta">GitHub Trending · Beispiel aus dem Bericht vom 25. August 2026</span>
-              <strong class="tasting-source-title">colbymchenry/codegraph</strong>
-              <p>Ein indexierter Code-Wissensgraph für Entwicklungswerkzeuge.</p>
-              <a href="https://github.com/colbymchenry/codegraph" target="_blank" rel="noopener noreferrer">Quelle öffnen ↗</a>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-summary" aria-labelledby="tasting-tab-summary" data-tasting-panel="summary" hidden>
-              <span class="tasting-meta">TreScout-Zusammenfassung</span>
-              <p>Dieses Projekt bietet einen Code-Wissensgraphen für Entwicklungswerkzeuge und unterstützt KI-gestützte Tools dabei, lokal mit weniger Tokens und Tool-Aufrufen zu arbeiten.</p>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-glossary" aria-labelledby="tasting-tab-glossary" data-tasting-panel="glossary" hidden>
-              <span class="tasting-meta">Glossar</span>
-              <strong class="tasting-source-title">Wissensgraph</strong>
-              <p>Eine Datenstruktur, die Beziehungen zwischen Code, Dateien und Komponenten gemeinsam darstellt.</p>
-            </div>
-            <p class="tasting-note">Festes Beispiel · der Quellenlink gehört zum zugehörigen Berichtseintrag.</p>
-          </div>
-        </div>
-
-        <div class="pdf-card">
-          <div class="pdf-carousel" role="region" aria-label="Beispielberichtseiten · 25. August 2026 · 10 Seiten">
-            <div class="pdf-carousel-badge">Beispielbericht · 25. August 2026</div>
-            <div class="pdf-carousel-track">
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=1" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 1 / 10 · Titelblatt · täglicher Technologiereport · open in new tab">
-                <img src="/assets/sample-pages/page-1.webp" alt="Titelblatt · täglicher Technologiereport" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">1 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=2" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 2 / 10 · Kurzüberblick und GitHub Trending · 1–6 · open in new tab">
-                <img src="/assets/sample-pages/page-2.webp" alt="Kurzüberblick und GitHub Trending · 1–6" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">2 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=3" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 3 / 10 · GitHub Trending · 7–12 · open in new tab">
-                <img src="/assets/sample-pages/page-3.webp" alt="GitHub Trending · 7–12" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">3 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=4" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 4 / 10 · GitHub Trending · 13–16 · open in new tab">
-                <img src="/assets/sample-pages/page-4.webp" alt="GitHub Trending · 13–16" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">4 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=5" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 5 / 10 · Hacker News · Höhepunkte · open in new tab">
-                <img src="/assets/sample-pages/page-5.webp" alt="Hacker News · Höhepunkte" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">5 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=6" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 6 / 10 · Hugging Face · Tagesmodelle · open in new tab">
-                <img src="/assets/sample-pages/page-6.webp" alt="Hugging Face · Tagesmodelle" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">6 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=7" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 7 / 10 · Hugging Face · Daily Papers · open in new tab">
-                <img src="/assets/sample-pages/page-7.webp" alt="Hugging Face · Daily Papers" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">7 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=8" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 8 / 10 · Lobsters · Höhepunkte · open in new tab">
-                <img src="/assets/sample-pages/page-8.webp" alt="Lobsters · Höhepunkte" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">8 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=9" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 9 / 10 · Fachglossar · 1 · open in new tab">
-                <img src="/assets/sample-pages/page-9.webp" alt="Fachglossar · 1" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">9 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-de.pdf#page=10" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 10 / 10 · Fachglossar · 2 und Schlussseite · open in new tab">
-                <img src="/assets/sample-pages/page-10.webp" alt="Fachglossar · 2 und Schlussseite" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">10 / 10</span>
-              </a>
-            </div>
-            <div class="pdf-carousel-hint">← scrollen · alle 10 Seiten →</div>
-          </div>
-          <div class="pdf-action">
-            <div class="pdf-action-info">
-              <div class="pdf-action-title">📎 trescout-bericht-<span class="pdf-date-token">2026-08-25</span>.pdf <span class="pdf-inline-badge">Beispiel</span></div>
-              <div class="pdf-action-meta">Beispiel aus dem Bericht vom 25. August 2026 · 233 KB</div>
-            </div>
-            <a class="pdf-action-btn" href="/reports/trescout-report-2026-08-25-de.pdf" download="trescout-report-2026-08-25-de.pdf" aria-label="Beispielbericht herunterladen">Herunterladen</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============== BEYOND THE REPORT ============== -->
-  <section class="section section-center reveal" id="beyond-report">
-    <div class="container">
-      <span class="eyebrow">Mehr als der Bericht</span>
-      <h2 class="section-title">Neben dem Bericht: Entdeckungen, Glossar und sechs Sprachen.</h2>
-      <p class="section-lead">Wir veröffentlichen die Berichte in einem Archiv. Die Tools und Begriffe aus den Berichten stellen wir auf eigenen Seiten vor und veröffentlichen alles in sechs Sprachen.</p>
-      <div class="features-grid features-grid-4"><a class="feature" href="/de/reports/"><h3>Berichtsarchiv</h3><p>Das Archiv der täglichen Berichte. Öffnen Sie einen verpassten Tag, wann immer Sie möchten.</p></a><a class="feature" href="/de/discover/"><h3>Entdecken</h3><p>Open-Source-Tools aus den Berichten, so wie sie an dem Tag waren, an dem sie in die GitHub-Trends kamen.</p></a><a class="feature" href="/de/dictionary/"><h3>Glossar</h3><p>Fachbegriffe aus den Berichten, so erklärt, dass auch Menschen ohne Programmierkenntnisse folgen können.</p></a><div class="feature"><h3>Sechs Sprachen</h3><p>Türkisch, Englisch, Französisch, Portugiesisch, Spanisch und Deutsch.</p></div></div>
-    </div>
-  </section>
-
-  <section class="section section-center reveal" id="early-access-next">
-    <div class="container">
-      <span class="eyebrow">Mit dem frühen Zugang</span>
-      <h2 class="section-title">Was kommt als Nächstes?</h2>
-      <p class="section-lead">E-Mail-Zustellung, die Wahl der Zustellzeit und Themenfilter kommen mit dem frühen Zugang. Wenn Sie sich auf die Liste setzen, erfahren Sie als Erste, wenn sie verfügbar sind.</p>
-      <p class="section-more"><a class="btn btn-primary btn-large" href="/de/#top">Auf die Liste für den frühen Zugang</a></p>
-    </div>
-  </section>
-
+<article class="disc hiw"><h1 class="disc-title">Wie funktioniert TreScout?</h1><p class="disc-lead">TreScout prüft jeden Tag Quellen-Feeds, fasst die Höhepunkte mit KI zusammen und bündelt sie in einem Bericht. Die Berichte sind öffentlich; zum Lesen ist keine Anmeldung nötig.</p><section class="disc-sec" id="tarama"><h2>Erfassung</h2><p>Jeden Tag prüfen wir GitHub Trending, Hacker News, Lobsters sowie die Modell- und Tagespaper-Feeds von Hugging Face und übernehmen die Höhepunkte jeder Quelle. Sterne, Punkte, Likes und Downloads sind die Werte zum Zeitpunkt der Erfassung; die Berichtsseite nennt die Uhrzeit.</p></section><section class="disc-sec" id="ozetleme"><h2>Zusammenfassung</h2><p>Jeder ausgewählte Eintrag wird mit KI in ein bis zwei Sätzen zusammengefasst. Fachbegriffe bleiben in Klammern in ihrer ursprünglichen Form; das Glossar am Ende des Berichts erklärt sie.</p><p>Ein Eintrag aus dem Bericht vom 9. Oktober 2026:</p><dl class="hiw-ornek"><dt>Quelleneintrag</dt><dd><a href="https://github.com/morluto/rea" rel="noopener" target="_blank">morluto/rea</a></dd><dt>TreScout-Zusammenfassung</dt><dd>Rea ist ein KI-gestütztes Reverse-Engineering-Tool, das alles von Anwendungsverhalten bis hin zu nativen Binärdateien analysiert. Diese in TypeScript entwickelte Software zielt darauf ab, die Arbeitsweise komplexer Systeme durch automatisierte Agenten zu entschlüsseln.</dd><dt>Glossareintrag</dt><dd><strong>reverse engineering</strong>: Der Prozess, bei dem ein fertiges Produkt in seine Einzelteile zerlegt wird, um dessen Funktionsweise und Logik zu verstehen.</dd></dl></section><section class="disc-sec" id="tekrar-filtresi"><h2>Wiederholungsfilter</h2><p>Jeder Bericht wird mit den Berichten der letzten 30 Tage verglichen. Einträge, die in diesem Zeitraum nicht vorkamen, werden als „neu“ markiert. Der Bericht „Nur Neues“ enthält nur diese Einträge.</p><p><a href="/de/reports/fresh/">Berichte „Nur Neues“</a></p></section><section class="disc-sec" id="yayin"><h2>Veröffentlichung</h2><p>Der Bericht erscheint jeden Tag als Webseite und als PDF, auf Türkisch, Englisch, Französisch, Portugiesisch, Spanisch und Deutsch. Frühere Berichte bleiben im Archiv. Open-Source-Projekte aus den Berichten haben eine Seite unter Entdecken, Begriffe eine Seite im Glossar.</p><ul class="hiw-baglantilar"><li><a href="/de/reports/">Berichtsarchiv</a></li><li><a href="/de/discover/">Entdecken</a></li><li><a href="/de/dictionary/">Glossar</a></li></ul></section><section class="disc-sec" id="sinirlar"><h2>Grenzen</h2><ul class="disc-wins"><li>Die Zusammenfassungen werden mit KI erstellt und können Fehler enthalten. Prüfen Sie vor wichtigen Entscheidungen die Quelle über den Link im jeweiligen Eintrag.</li><li>Die Zahlen gelten für den Zeitpunkt der Erfassung; die Quellseite kann sich seitdem geändert haben.</li><li>TreScout entwickelt die genannten Werkzeuge nicht; es wählt sie nur aus und stellt sie vor.</li><li>Berichte in anderen Sprachen werden maschinell aus dem türkischen Bericht übersetzt.</li></ul></section><section class="disc-sec" id="erken-erisim"><h2>Vorabzugang</h2><p>Die Berichte sind schon heute öffentlich. Wir arbeiten an Funktionen wie dem Versand per E-Mail, nennen dafür aber weder Termin noch Garantie. Wenn Sie sich in die Vorabzugangsliste eintragen, erhalten Sie die Einladung und Ankündigungen zum Start per E-Mail.</p><p><a class="btn btn-primary" href="/de/#top">In die Vorabzugangsliste eintragen</a></p></section></article>
   </main>
 
   <!-- ============== FOOTER ============== -->
-  <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg></div><p class="footer-tagline">TreScout durchsucht, fasst zusammen und veröffentlicht. Sie lesen nur.</p></div><div class="footer-col"><div class="footer-col-title">Produkt</div><ul><li><a href="/de/discover/">Entdecken</a></li><li><a href="/de/dictionary/">Glossar</a></li><li><a href="/de/reports/">Berichtsarchiv</a></li><li><a href="/de/compare/rss-vs-ai/">Vergleich</a></li><li><a href="/de/#top">Vorabzugang</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Kontakt</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Netzwerke</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Alle Rechte vorbehalten.</span></div></div></footer><script src="/assets/index.js" defer></script>
-  <script src="/assets/home-interactions.js" defer></script><!-- VERCEL ANALYTICS --><script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg></div><p class="footer-tagline">TreScout durchsucht, fasst zusammen und veröffentlicht. Sie lesen nur.</p></div><div class="footer-col"><div class="footer-col-title">Produkt</div><ul><li><a href="/de/discover/">Entdecken</a></li><li><a href="/de/dictionary/">Glossar</a></li><li><a href="/de/reports/">Berichtsarchiv</a></li><li><a href="/de/compare/rss-vs-ai/">Vergleich</a></li><li><a href="/de/#top">Vorabzugang</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Kontakt</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Netzwerke</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Alle Rechte vorbehalten.</span></div></div></footer><script src="/assets/index.js" defer></script><!-- VERCEL ANALYTICS --><script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
   <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script><div class="privacy-modal" id="privacy-modal" role="dialog" aria-modal="true" aria-labelledby="privacy-modal-title" aria-hidden="true">
     <div class="privacy-modal-card">
       <div class="privacy-modal-head">
