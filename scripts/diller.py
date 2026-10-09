@@ -1128,7 +1128,7 @@ def chrome(d, logo_svg):
            f'{logo_svg}<span>TreScout</span></a><div class="nav-actions">{nav_link}'
            f'{dil_secici(kod, diller)}</div></div></nav>')
 
-    nasil = (f'<li><a href="{o}/#how-it-works">{d["footer_nasil"]}</a></li>' if d.get("footer_nasil") else "")
+    nasil = (f'<li><a href="{o}/how-it-works/">{d["footer_nasil"]}</a></li>' if d.get("footer_nasil") else "")
     urun = nasil + "".join(f'<li><a href="{o}/{yol}/">{ad}</a></li>'
                            for ad, yol in zip(d["nav"], d["nav_yollar"]))
     footer = (f'<footer><div class="container"><div class="footer-grid">'

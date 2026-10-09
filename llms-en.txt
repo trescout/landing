@@ -2,7 +2,7 @@
 
 > TreScout scans GitHub, Hacker News and HuggingFace every day, summarizes the highlights and publishes one daily report on the web and as a PDF. Email delivery is being prepared for early access.
 
-Last updated: 2026-10-08 · 621 tools · 700 terms
+Last updated: 2026-10-09 · 621 tools · 700 terms
 
 ## Tech Dictionary
 
@@ -1347,7 +1347,7 @@ Archive of daily tech reports (PDF).
 
 TreScout scans sources, summarizes the signal, and is preparing email delivery for early access.
 
-- [How TreScout works](https://trescout.com/en/#how-it-works)
+- [How TreScout works](https://trescout.com/en/how-it-works/)
 - [Manual tracking comparison](https://trescout.com/en/compare/rss-vs-ai/)
 
 ## AI Crawlers & API Access

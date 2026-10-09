@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-10-08 · 621 araç · 700 terim
+Son güncelleme: 2026-10-09 · 621 araç · 700 terim
 
 ## Teknoloji Sözlüğü
 
@@ -1347,7 +1347,7 @@ Günlük teknoloji raporlarının arşivi (PDF).
 
 TreScout'un kaynak tarama, özetleme ve erken erişim modelini açıklayan sayfalar.
 
-- [TreScout nasıl çalışır](https://trescout.com/#how-it-works)
+- [TreScout nasıl çalışır](https://trescout.com/how-it-works/)
 - [Manuel takip ile karşılaştırma](https://trescout.com/compare/rss-vs-ai/)
 
 ## English

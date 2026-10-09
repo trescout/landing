@@ -1844,6 +1844,8 @@
 }
 .hero-actions .btn-ghost:hover { border-color: var(--accent); }
 .section-more { margin: 32px 0 0; text-align: center; }
+/* Nasıl Çalışır sayfasının girişi · ardından gelen bölümün üst boşluğu yeterli */
+section.section#hiw-intro { padding-bottom: 0; }
 .section-more .btn-ghost { white-space: normal; }
 .hero-value-promise {
   max-width: 560px;
