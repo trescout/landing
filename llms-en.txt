@@ -1353,7 +1353,7 @@ Archive of daily tech reports (PDF).
 
 TreScout scans sources, summarizes the signal, and is preparing email delivery for early access.
 
-- [How TreScout works](https://trescout.com/en/#how-it-works)
+- [How TreScout works](https://trescout.com/en/how-it-works/)
 - [Manual tracking comparison](https://trescout.com/en/compare/rss-vs-ai/)
 
 ## AI Crawlers & API Access

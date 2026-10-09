@@ -1353,7 +1353,7 @@ Günlük teknoloji raporlarının arşivi (PDF).
 
 TreScout'un kaynak tarama, özetleme ve erken erişim modelini açıklayan sayfalar.
 
-- [TreScout nasıl çalışır](https://trescout.com/#how-it-works)
+- [TreScout nasıl çalışır](https://trescout.com/how-it-works/)
 - [Manuel takip ile karşılaştırma](https://trescout.com/compare/rss-vs-ai/)
 
 ## English

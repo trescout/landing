@@ -36,7 +36,7 @@ const richTrFooter = `<footer>
       <div class="footer-col">
         <div class="footer-col-title">Ürün</div>
         <ul>
-          <li><a href="/#how-it-works">Nasıl Çalışır</a></li>
+          <li><a href="/how-it-works/">Nasıl Çalışır</a></li>
           <li><a href="/discover/">Keşif</a></li>
           <li><a href="/dictionary/">Sözlük</a></li>
           <li><a href="/reports/">Raporlar</a></li>
@@ -77,7 +77,7 @@ const richEnFooter = `<footer>
       <div class="footer-col">
         <div class="footer-col-title">Product</div>
         <ul>
-          <li><a href="/en/#how-it-works">How It Works</a></li>
+          <li><a href="/en/how-it-works/">How It Works</a></li>
           <li><a href="/en/discover/">Discover</a></li>
           <li><a href="/en/dictionary/">Dictionary</a></li>
           <li><a href="/en/reports/">Reports Archive</a></li>

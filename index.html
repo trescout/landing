@@ -68,7 +68,6 @@
   <link rel="stylesheet" href="/assets/index.css">
 </head>
 <body>
-  <span id="top" aria-hidden="true"></span>
   <a class="skip-link" href="#main">Ana içeriğe atla</a>
 
   <!-- ============== NAV ============== -->
@@ -84,22 +83,15 @@
         <p class="mid-line">TreScout kaynak akışlarını tarar, öne çıkanları özetler ve tek raporda bir araya getirir.</p>
         <p class="sub-line">GitHub Trending, Hacker News ve Hugging Face’in model ile günlük makale akışları.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero" data-page-type="home" data-cta-placement="hero" id="hero-subscribe-form" action="/api/subscribe" method="post">
-          <div class="form-row">
-            <label class="visually-hidden" for="email-hero-tr">E-posta adresi</label><input class="input" type="email" name="email" id="email-hero-tr" placeholder="E-postanızı yazın" autocomplete="email" aria-label="E-posta adresiniz" required>
-            <button class="btn btn-primary btn-large" type="submit">Erken erişim daveti alın</button>
-          </div>
-          <p class="form-notice">Kişisel verilerinizin nasıl işlendiğini <a href="/privacy.html" data-privacy-modal>Aydınlatma Metni</a>'nden inceleyebilirsiniz.</p><label class="form-consent"><input type="checkbox" name="consent" required><span>Erken erişim daveti ve TreScout lansman duyuruları için e-posta adresime ileti gönderilmesine onay veriyorum. Onayımı dilediğim zaman geri alabilirim.</span></label>
-          <!-- Honeypot · bot filtresi · gerçek kullanıcı görmez, doldurmaz -->
-          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
-        </form>
-        <p class="hero-note">Şimdilik erken erişim listesi için e-posta topluyoruz. Listeye katılmak doğrudan erişim açıldığı anlamına gelmez; davet ve yayına çıkış zamanı için size ayrıca haber veririz. Gereksiz ileti gönderilmez.</p>
-        <!-- DURUM · sayfadaki gelecek zamanlı anlatımı bugüne bağlar (ne çalışıyor / ne erken erişimle) -->
-        <p class="hero-value-promise">Bugün: Güncel teknoloji raporlarını canlı arşivde inceleyebilirsiniz. Erken erişim listesine kaydolduğunuzda e-posta teslimi, saat seçimi ve konu filtreleri açıldığında ilk haberdar olanlardan biri olursunuz. Gereksiz ileti gönderilmez. <a href="/reports/" class="hero-archive-link">Canlı arşivi inceleyin →</a></p>
+        <div class="hero-actions">
+          <a class="btn btn-primary btn-large" href="/reports/">Son raporları okuyun →</a>
+          <a class="btn btn-ghost btn-large" href="#top">Erken erişim listesine katılın</a>
+        </div>
+        <p class="hero-value-promise">Raporlar herkese açık; okumak için kayıt gerekmez. E-posta ile gönderim gibi özellikler üzerinde çalışıyoruz, ancak bunlar için bir tarih ya da garanti vermiyoruz. <a href="/how-it-works/" class="hero-archive-link">TreScout nasıl çalışır →</a></p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
-        <p class="hero-visual-label">TreScout size nasıl bir e-posta gönderir?</p>
+        <p class="hero-visual-label">E-posta biçiminde bir rapor taslağı</p>
         <div class="email-client">
           <div class="email-client-chrome">
             <div class="email-client-dots">
@@ -160,161 +152,6 @@
     </div>
   </section>
 
-  <!-- ============== BEYOND THE REPORT ============== -->
-  <section class="section section-center reveal" id="beyond-report">
-    <div class="container">
-      <span class="eyebrow">Raporun Ötesi</span>
-      <h2 class="section-title">Raporun yanında keşif, sözlük ve altı dil.</h2>
-      <p class="section-lead">Raporları arşivde yayımlıyoruz. Raporlara giren araçları ve terimleri ayrı sayfalarda anlatıyor, hepsini altı dilde yayımlıyoruz.</p>
-      <div class="features-grid features-grid-4"><a class="feature" href="/reports/"><h3>Rapor Arşivi</h3><p>Günlük raporların arşivi. Kaçırdığınız günü istediğiniz zaman açın.</p></a><a class="feature" href="/discover/"><h3>Keşif</h3><p>Raporlara giren açık kaynak araçlar, GitHub trendlerine ilk girdikleri günün hâliyle.</p></a><a class="feature" href="/dictionary/"><h3>Sözlük</h3><p>Raporlardaki teknik terimler, kod bilmeyen birinin de anlayacağı bir dille.</p></a><div class="feature"><h3>Altı Dil</h3><p>Türkçe, İngilizce, Fransızca, Portekizce, İspanyolca ve Almanca.</p></div></div>
-    </div>
-  </section>
-
-  <!-- ============== HOW IT WORKS ============== -->
-  <section class="section section-center reveal" id="how-it-works">
-    <div class="container">
-      <span class="eyebrow">Nasıl Çalışır</span>
-      <h2 class="section-title">Adım adım günlük teknoloji raporunuz.</h2>
-      <p class="section-lead">Önce günün ortak kaynak seçkisi hazırlanır. E-posta teslimi erken erişimde açıldığında, raporun size hangi saatte ulaşacağını seçersiniz; tarama o gün için ortaktır.</p>
-
-      <div class="pipeline">
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M3 16a9 9 0 0 1 18 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".3"/><path d="M6.5 16a5.5 5.5 0 0 1 11 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M10 16a2 2 0 0 1 4 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".85"/><circle cx="12" cy="19.5" r="1.7" fill="#F4D35E"/></svg></div>
-          <span class="step-number">01</span>
-          <h3>Tarama</h3>
-          <p>GitHub Trending, Hacker News ve Hugging Face’in model ile günlük makale akışlarından günün öne çıkanlarını sizin için toplar.</p>
-          <div class="step-chips" aria-hidden="true"><span>GitHub</span><span>Hacker News</span><span>HuggingFace</span></div>
-        </div>
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M4 6h16M4 10.5h13.5M4 15h15" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".45"/><path d="M4 19.5h7" stroke="#F4D35E" stroke-width="2.2" stroke-linecap="round"/></svg></div>
-          <span class="step-number">02</span>
-          <h3>Özetleme</h3>
-          <p>Yapay zekâ ile kısa ve okunabilir bir rapor üretir. Teknik terimler özgün haliyle parantez içinde korunur; seçtiğiniz dilde açıklamaları rapor sonundaki sözlükte yer alır.</p>
-          <p class="step-sample" aria-hidden="true">“…komut satırı arayüzü <span class="step-sample-term">(CLI)</span> tabanlı etkileşim…”</p>
-        </div>
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><rect x="3" y="5.5" width="18" height="13" rx="2.5" stroke="#5FA8D3" stroke-width="1.6" opacity=".55"/><path d="M4.6 8 12 13.2 19.4 8" stroke="#F4D35E" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-          <span class="step-number">03</span>
-          <h3>Teslim</h3>
-          <p>E-posta teslimi açıldığında rapor seçtiğiniz saatte gelen kutunuza ulaşır. Günün taraması ortaktır; siz ne zaman okuyacağınıza karar verirsiniz.</p>
-          <div class="step-chips" aria-hidden="true"><span class="step-chip-accent">07:00</span><span>PDF</span><span>Gelen kutusu</span></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============== REPORT PREVIEW ============== -->
-  <section class="section reveal" id="preview">
-    <div class="container">
-      <div class="preview-split">
-        <div class="preview-text">
-          <span class="eyebrow">PDF rapor</span>
-          <h2 class="section-title">Tam rapor, sade okuma.</h2>
-          <p class="section-lead">E-posta hızlı bir özet sunar; ayrıntılı trendler, kaynak bağlantıları ve Sektörden Terimler Sözlüğü seçtiğiniz dildeki PDF raporunda yer alır.</p>
-          <ul class="bullet-list">
-            <li><span class="bullet-icon">📄</span><span><strong>Günün öne çıkanları</strong>, kaynak gruplarına ayrılmış (GitHub, Hacker News, HuggingFace…)</span></li>
-            <li><span class="bullet-icon">📚</span><span><strong>Sektörden Terimler</strong> · İngilizce teknik terimlerin seçtiğiniz dildeki açıklamaları</span></li>
-            <li><span class="bullet-icon">🗂️</span><span><strong>Arşivlenebilir</strong> · indirilebilir PDF raporlar</span></li>
-            <li><span class="bullet-icon">🔗</span><span><strong>Tıklanabilir kaynak bağlantıları</strong> · doğrudan repo'ya, makaleye, modele giden linkler</span></li>
-          </ul>
-          <!-- CANLI ARŞİV · statik örneği gerçek/günlük arşive köprüler (sosyal kanıt) -->
-          <a class="preview-archive-cta" href="/reports/">
-            <span class="pac-live" id="js-arch-badge">CANLI</span>
-            <span class="pac-msg"><strong>Bu bir sabit örnek.</strong> Güncel raporları her gün arşivde yayımlıyoruz · <span class="pac-go">arşivi görün →</span></span>
-          </a>
-
-
-          <div class="report-tasting" data-report-tasting>
-            <div class="report-tasting-kicker">Raporun içinden kısa bir örnek</div>
-            <h3>Bir kaynak kaydı, özet ve sözlükte nasıl görünür?</h3>
-            <p class="report-tasting-intro">GitHub Trending’den seçilen bir kaydın kaynak bağlantısından kısa özete ve anlaşılır terim açıklamasına nasıl dönüştüğünü görün.</p>
-            <div class="tasting-tabs" role="tablist" aria-label="Bir raporun içinden: kaynak, özet ve sözlük">
-              <button type="button" role="tab" aria-selected="true" aria-controls="tasting-source" id="tasting-tab-source" data-tasting-tab="source">Kaynak kaydı</button>
-              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-summary" id="tasting-tab-summary" data-tasting-tab="summary" tabindex="-1">TreScout özeti</button>
-              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-glossary" id="tasting-tab-glossary" data-tasting-tab="glossary" tabindex="-1">Sözlük açıklaması</button>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-source" aria-labelledby="tasting-tab-source" data-tasting-panel="source">
-              <span class="tasting-meta">GitHub Trending · 25 Ağustos 2026 raporundan örnek</span>
-              <strong class="tasting-source-title">colbymchenry/codegraph</strong>
-              <p>Geliştirme araçları için önceden dizinlenmiş bir kod bilgi çizgesi sunuyor.</p>
-              <a href="https://github.com/colbymchenry/codegraph" target="_blank" rel="noopener noreferrer">Kaynağı aç ↗</a>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-summary" aria-labelledby="tasting-tab-summary" data-tasting-panel="summary" hidden>
-              <span class="tasting-meta">TreScout özeti</span>
-              <p>Geliştirme araçları için kod bilgi çizgesi sunan bu proje, yapay zekâ destekli araçların yerel ortamda daha az belirteç ve araç çağrısıyla çalışmasına yardımcı olmayı hedefliyor.</p>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-glossary" aria-labelledby="tasting-tab-glossary" data-tasting-panel="glossary" hidden>
-              <span class="tasting-meta">Sözlük</span>
-              <strong class="tasting-source-title">Bilgi çizgesi (knowledge graph)</strong>
-              <p>Kod, dosya ve bileşenler arasındaki ilişkileri birlikte temsil eden veri yapısı.</p>
-            </div>
-            <p class="tasting-note">Sabit örnek içerik · kaynak bağlantısı ilgili rapor kaydına aittir.</p>
-          </div>
-        </div>
-
-        <div class="pdf-card">
-          <div class="pdf-carousel" role="region" aria-label="Örnek rapor sayfaları · 25 Ağustos 2026 · 10 sayfa">
-            <div class="pdf-carousel-badge">Örnek rapor · 25 Ağustos 2026</div>
-            <div class="pdf-carousel-track">
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=1" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 1 / 10 · Kapak · günlük teknoloji raporu · open in new tab">
-                <img src="/assets/sample-pages/page-1.webp" alt="Kapak · günlük teknoloji raporu" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">1 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=2" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 2 / 10 · Birkaç Yudum ve GitHub Trending · 1–6 · open in new tab">
-                <img src="/assets/sample-pages/page-2.webp" alt="Birkaç Yudum ve GitHub Trending · 1–6" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">2 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=3" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 3 / 10 · GitHub Trending · 7–12 · open in new tab">
-                <img src="/assets/sample-pages/page-3.webp" alt="GitHub Trending · 7–12" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">3 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=4" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 4 / 10 · GitHub Trending · 13–16 · open in new tab">
-                <img src="/assets/sample-pages/page-4.webp" alt="GitHub Trending · 13–16" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">4 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=5" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 5 / 10 · Hacker News · öne çıkanlar · open in new tab">
-                <img src="/assets/sample-pages/page-5.webp" alt="Hacker News · öne çıkanlar" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">5 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=6" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 6 / 10 · Hugging Face · günün modelleri · open in new tab">
-                <img src="/assets/sample-pages/page-6.webp" alt="Hugging Face · günün modelleri" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">6 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=7" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 7 / 10 · Hugging Face · günün makaleleri · open in new tab">
-                <img src="/assets/sample-pages/page-7.webp" alt="Hugging Face · günün makaleleri" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">7 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=8" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 8 / 10 · Lobsters · öne çıkanlar · open in new tab">
-                <img src="/assets/sample-pages/page-8.webp" alt="Lobsters · öne çıkanlar" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">8 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=9" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 9 / 10 · Sektörden Terimler Sözlüğü · 1 · open in new tab">
-                <img src="/assets/sample-pages/page-9.webp" alt="Sektörden Terimler Sözlüğü · 1" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">9 / 10</span>
-              </a>
-              <a href="/reports/trescout-rapor-2026-08-25.pdf#page=10" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 10 / 10 · Sektörden Terimler Sözlüğü · 2 ve kapanış · open in new tab">
-                <img src="/assets/sample-pages/page-10.webp" alt="Sektörden Terimler Sözlüğü · 2 ve kapanış" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">10 / 10</span>
-              </a>
-            </div>
-            <div class="pdf-carousel-hint">← kaydırın · tüm 10 sayfa →</div>
-          </div>
-          <div class="pdf-action">
-            <div class="pdf-action-info">
-              <div class="pdf-action-title">📎 trescout-rapor-<span class="pdf-date-token">2026-08-25</span>.pdf <span class="pdf-inline-badge">örnek</span></div>
-              <div class="pdf-action-meta">25 Ağustos 2026 raporundan örnek · 233 KB</div>
-            </div>
-            <a class="pdf-action-btn" href="/reports/trescout-rapor-2026-08-25.pdf" download="trescout-rapor-2026-08-25.pdf" aria-label="Örnek raporu indir">İndir</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-
-  <!-- ============== DAILY FLOW PREVIEW ============== -->
-
   <!-- ============== DISCOVERY RADAR ============== -->
   <section class="section reveal" id="discovery-radar" data-discovery-radar>
     <div class="container">
@@ -334,223 +171,18 @@
       </div>
       <div class="radar-footer">
         <span class="radar-note">Katalogdan yüklenir · içerik ve tarihler kaynak kayıtlarına aittir.</span>
-        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Güncel keşifleri ve açılış bilgilerini takip etmek için listeye katılın ↗</a>
+        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Açılış duyuruları için erken erişim listesine katılın ↗</a>
       </div>
     </div>
   </section>
 
-  <!-- ============== DETAYLI BAKIŞ · 4 tab tek bölümde ============== -->
-  <section class="section section-center reveal" id="details">
-    <div class="container">
-      <span class="eyebrow">Detaylı Bakış</span>
-      <h2 class="section-title">İhtiyacınız olan her şey, tek bakışta.</h2>
-
-      <div class="tabs" role="tablist" aria-label="Detay sekmeleri">
-        <button class="tab" role="tab" aria-selected="true" aria-controls="tabpanel-neden" id="tab-neden" tabindex="0">Neden TreScout</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-ozellikler" id="tab-ozellikler" tabindex="-1">Özellikler</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-ilk-surum" id="tab-ilk-surum" tabindex="-1">İlk Sürümde</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-sonraki-alan" id="tab-sonraki-alan" tabindex="-1">Sonraki Alan</button>
-      </div>
-
-      <!-- TAB · Neden TreScout -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-neden" aria-labelledby="tab-neden">
-        <h3 class="panel-title">“Yapay zekâya sorabilirim.” diyebilirsiniz, ama…</h3>
-        <div class="diff-table">
-          <div class="row head">
-            <div></div>
-            <div>Manuel takip ve ayrı ayrı araçlar</div>
-            <div>TreScout</div>
-          </div>
-          <div class="row">
-            <div>Tetikleme</div>
-            <div class="cross">Her seferinde siz başlatırsınız</div>
-            <div class="check">✓ Günlük otomatik tarama · teslim saati seçimi erken erişimde</div>
-          </div>
-          <div class="row">
-            <div>Çoklu Kaynak</div>
-            <div class="cross">Kaynakları tek tek açıp ararsınız</div>
-            <div class="check">✓ GitHub + Hacker News + HuggingFace…</div>
-          </div>
-          <div class="row">
-            <div>Çoklu Dil + Teknik Terim</div>
-            <div class="cross">Teknik terimleri ayrıca aramanız gerekir</div>
-            <div class="check">✓ Seçtiğiniz dilde özet, özgün terim parantez içinde + sözlük</div>
-          </div>
-          <div class="row">
-            <div>Süreklilik</div>
-            <div class="cross">Takibi sizin hatırlamanız gerekir</div>
-            <div class="check">✓ Her gün yeni rapor</div>
-          </div>
-          <div class="row">
-            <div>Arşiv</div>
-            <div class="cross">Tarayıcı sekmesi</div>
-            <div class="check">✓ Web arşivi + indirilebilir PDF rapor</div>
-          </div>
-        </div>
-      </div>
-
-      <!-- TAB · Özellikler -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-ozellikler" aria-labelledby="tab-ozellikler" hidden>
-        <h3 class="panel-title">Sade. Hızlı. Kendi temponuzda.</h3>
-        <div class="features-bento">
-          <div class="feature feature-hero">
-            <div class="feature-icon">⏰</div>
-            <h3>Esnek Zamanlama <span class="roadmap-live roadmap-soon">ERKEN ERİŞİMLE</span></h3>
-            <p>Gönderim saatinizi siz seçin. Günün ortak raporu hazırlandıktan sonra size o saatte ulaşsın; ne zaman isterseniz okuyun.</p>
-            <div class="time-strip" aria-hidden="true">
-              <div class="time-strip-rail">
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-tick"></span>
-                <span class="time-strip-thumb time-strip-thumb--0900">09:00</span>
-              </div>
-              <div class="time-strip-labels">
-                <span>00:00</span>
-                <span>06:00</span>
-                <span>12:00</span>
-                <span>18:00</span>
-                <span>24:00</span>
-              </div>
-              <div class="time-strip-note">Sizin için uygun olan zaman, TreScout için de uygundur · tarama zamanı ortak, teslimat zamanı size göre.</div>
-            </div>
-          </div>
-
-          <div class="features-bento-side">
-            <div class="feature">
-              <div class="feature-icon">📄</div>
-              <h3>PDF Rapor</h3>
-              <p>Detaylı, formatlanmış, arşivlenebilir. İndirin, klasörünüze koyun, isterseniz e-postayı silin.</p>
-            </div>
-            <div class="feature">
-              <div class="feature-icon">📚</div>
-              <h3>Sektörden Terimler</h3>
-              <p>Raporu seçtiğiniz dilde okursunuz; teknik terimler özgün haliyle parantez içinde, açıklamaları raporun sonunda yer alır. Değişimlere hızlı adapte olursunuz.</p>
-              <div class="term-list" aria-hidden="true">
-                <div class="term-row"><code>fine-tuning</code><span class="term-arrow">→</span><span class="term-def">mevcut bir yapay zekâ modelini, sizin verinizle yeniden eğiterek özelleştirme</span></div>
-                <div class="term-row"><code>RAG</code><span class="term-arrow">→</span><span class="term-def">modelin cevap verirken kendi belge havuzunuzdan ilgili parçaları çekip kullanması</span></div>
-                <div class="term-row"><code>MCP</code><span class="term-arrow">→</span><span class="term-def">yapay zekâ ajanlarının harici araçlara bağlanmasını sağlayan açık protokol</span></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- TAB · İlk sürümde -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-ilk-surum" aria-labelledby="tab-ilk-surum" hidden>
-        <div class="roadmap">
-          <div class="roadmap-track" aria-hidden="true"></div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">🎯</div>
-            <h3 class="roadmap-title">Konu Filtreleri</h3>
-            <p>Yapay zekâ, web, mobil ve DevOps… Sadece ilgilendiğiniz alanlar gelsin.</p>
-          </div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">🔁</div>
-            <h3 class="roadmap-title">Tekrar İçermeyen Raporlar <span class="roadmap-live">YAYINDA</span></h3>
-            <p>Son 30 günde normal raporlarda yer alan kayıtlar tekrarsız raporda yeniden gösterilmez. Yalnızca yeni keşifler ve büyük güncellemeler öne çıkar. <a href="/reports/tekrarsiz/">Bugünkü tekrarsız raporu görün →</a></p>
-          </div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">📦</div>
-            <h3 class="roadmap-title">Geçmiş Arşivi</h3>
-            <p>Yeni katıldınız, eski trendleri merak ediyor musunuz? Önceki raporları web arşivinde gün gün inceleyebilirsiniz.</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- TAB · Sonraki alan -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-sonraki-alan" aria-labelledby="tab-sonraki-alan" hidden>
-        <h3 class="panel-title">Sadece teknoloji değil.</h3>
-        <p class="panel-lead">TreScout şu an geliştiriciler için ama bilgisi sürekli yenilenen her alan için aynı şey kurulabilir: Dergiler, tebliğler, regülasyonlar, sektör haberleri... Sıradaki alanı siz belirleyin.</p>
-
-        <div class="vertical-cards">
-          <div class="vertical-card">
-            <div class="vertical-icon">🩺</div>
-            <h3>Tıp</h3>
-            <p>Yeni klinik çalışmalar, kılavuz güncellemeleri, ilaç onayları…</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">📖</div>
-            <h3>Akademi</h3>
-            <p>Kendi alanınızdaki yeni makaleler, atıf patlamaları, konferans bildirileri, sözlük güncellemeleri…</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">⚖️</div>
-            <h3>Hukuk</h3>
-            <p>Mevzuat değişiklikleri, içtihat kararları, regülasyon güncellemeleri…</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">🏪</div>
-            <h3>Esnaf / KOBİ</h3>
-            <p>Sektör trendleri, tedarikçi haberleri, vergi ve yönetmelik değişiklikleri…</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">✦</div>
-            <h3>Başka bir alan</h3>
-            <p>Burada olmayan hızlı değişen bir alan mı? Kaynakları birlikte seçelim…</p>
-          </div>
-        </div>
-
-        <div class="vertical-cta">
-          <p>Bize hangi alanlarda rapor oluşturulsun istediğinizi <a href="mailto:hello@trescout.com?subject=TreScout%20%C2%B7%20alan%20%C3%B6nerisi&amp;body=Merhaba%2C%0A%0AHangi%20alanda%20rapor%20gelmesini%20isterim%3A%0A%0A%C5%9Eu%20kaynaklar%C4%B1%2Fkonular%C4%B1%20takip%20ediyorum%3A%0A%0A">e-posta</a> ile gönderin. Sizden "Ne takip ediyorum, hangi kaynaklar değerli?" gibi sorulara kısa cevaplar rica edeceğiz. Uzmanlığınız ürünün doğru ve hızlı kurulmasına yardımcı olacak. TreScout, sizin katkılarınızla sizin alanınızda da çalışmaya başlayacak.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============== JOIN / FEEDBACK · tek başlık altında ============== -->
-  <section class="section section-center reveal" id="community">
-    <div class="container">
-      <h2 class="section-title"><span class="accent">Birlikte Çalışalım</span></h2>
-      <div class="community-grid">
-        <a href="mailto:hello@trescout.com?subject=TreScout%20%C3%A7al%C4%B1%C5%9Fma%20talebi&amp;body=Merhaba%2C%0A%0ATreScout%20projesinde%20yer%20almak%20isterim.%20K%C4%B1sa%C3%A7a%20kendimi%20tan%C4%B1taca%C4%9F%C4%B1m%3A%0A%0A%E2%80%A2%20Ne%20yap%C4%B1yorum%3A%20%0A%E2%80%A2%20Neden%20kat%C4%B1lmak%20istiyorum%3A%20%0A%E2%80%A2%20%C4%B0lgili%20linkler%20(LinkedIn%2C%20portfolio%2C%20GitHub)%3A%20%0A%0AG%C3%B6r%C3%BC%C5%9Fmek%20%C3%BCzere%2C" class="community-card">
-          <div class="community-icon">🤝</div>
-          <div class="community-content">
-            <h3>Ekibe Katılın</h3>
-            <p>Projeye inanıyor, vakit ayırmak istiyorsanız bize yazın. Geliştirici, tasarımcı, içerik üreticisi ya da bambaşka bir şey, belki de bizim aklımıza bile gelmeyen bir şey · Kendi yerinizi kendiniz açın.</p>
-            <span class="community-cta">hello@trescout.com →</span>
-          </div>
-        </a>
-
-        <a href="mailto:hello@trescout.com?subject=TreScout%20geri%20bildirim&amp;body=Merhaba%2C%0A%0ATreScout%20hakk%C4%B1nda%20bir%20%C5%9Fey%20payla%C5%9Fmak%20istiyorum%3A%0A%0A%E2%80%A2%20Konu%20(sorun%20%2F%20%C3%B6neri%20%2F%20fikir)%3A%20%0A%E2%80%A2%20Detay%3A%20%0A%0ATe%C5%9Fekk%C3%BCrler%2C" class="community-card">
-          <div class="community-icon">💬</div>
-          <div class="community-content">
-            <h3>Geri Bildirim Verin</h3>
-            <p>Sayfada bir sorun, mesajda bir tutarsızlık, ürün için bir öneri · ne olursa olsun bize ulaşın.</p>
-            <span class="community-cta">hello@trescout.com →</span>
-          </div>
-        </a>
-      </div>
-    </div>
-  </section>
+  <!-- ============== DAILY FLOW PREVIEW ============== -->
 
   <!-- ============== FINAL CTA ============== -->
   <section class="container" id="cta">
+    <span id="top" aria-hidden="true"></span>
     <div class="final-cta">
-      <h2>İstediğiniz saatte. Kahvenize eşlikçi.</h2>
+      <h2>Erken erişim listesi</h2>
       <p>Erken erişim listesine katılın; davet ve yayına çıkış duyurusunu alın.</p>
       <form class="cta-form final-cta-form js-subscribe" data-source="final-cta" action="/api/subscribe" method="post">
         <div class="form-row">
@@ -579,7 +211,7 @@
       <div class="footer-col">
         <div class="footer-col-title">Ürün</div>
         <ul>
-          <li><a href="/#how-it-works">Nasıl Çalışır</a></li>
+          <li><a href="/how-it-works/">Nasıl Çalışır</a></li>
           <li><a href="/discover/">Keşif</a></li>
           <li><a href="/dictionary/">Sözlük</a></li>
           <li><a href="/reports/">Raporlar</a></li>

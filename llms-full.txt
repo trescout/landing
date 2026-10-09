@@ -54267,16 +54267,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama oluşturma platformu. JavaScript tabanlı bu altyapı, işletmelerin karmaşık iş akışlarını kod yazma ihtiyacını azaltarak dijitalleştirmesini sağlıyor.
 
-- ★ 41.049
+- ★ 41.055
 - JavaScript
 - GitHub Trending · 2026-08-15
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 41.049 → 41.055, son sürüm v3.20.242-lts (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 41.049 → 41.049, son sürüm v3.20.241-lts (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 41.040 → 41.049, son sürüm v3.20.240-lts (7 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 41.036 → 41.040, son sürüm v3.20.239-lts (5 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 41.024 → 41.036, son sürüm v3.20.238-lts (5 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -56198,16 +56198,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.
 
-- ★ 34.379
+- ★ 37.239
 - TypeScript
 - GitHub Trending · 2026-10-06
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 34.379 → 37.239, son sürüm rea-agents-6.1.0 (9 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 24.429 → 34.379, son sürüm rea-agents-6.1.0 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 20.955 → 24.429, son sürüm rea-agents-6.0.0 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 19.417 → 20.955, son sürüm rea-agents-6.0.0 (8 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 11.451 → 19.417, son sürüm rea-agents-6.0.0 (8 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -57388,15 +57388,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
 
-- ★ 34.669
+- ★ 34.757
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 34.669 → 34.757, son sürüm v18.8.7 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 34.636 → 34.669, son sürüm v18.8.6 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 34.622 → 34.636, son sürüm v18.8.5 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 34.508 → 34.622, son sürüm v18.8.4 (8 Ekim 2026).
-- **7 Ekim 2026:** Yıldız 34.452 → 34.508, son sürüm v18.8.0 (7 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -59608,16 +59608,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Chat2DB, yapay zekâ destekli bir veritabanı yönetim aracı ve SQL istemcisi (SQL client) olarak öne çıkıyor. Java ile geliştirilen bu platform, MySQL, PostgreSQL ve Oracle gibi çok sayıda veritabanı sistemini tek bir grafik kullanıcı arayüzü (GUI) üzerinden yönetme imkânı sağlıyor.
 
-- ★ 28.268
+- ★ 28.307
 - Java
 - GitHub Trending · 2026-07-25
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 28.268 → 28.307, son sürüm v5.3.8 (9 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 28.110 → 28.268, son sürüm v5.3.7 (22 Eylül 2026).
 - **11 Eylül 2026:** Yıldız 28.063 → 28.110, son sürüm v5.3.6 (10 Eylül 2026).
 - **3 Eylül 2026:** Yıldız 27.994 → 28.063, son sürüm v5.3.5 (2 Eylül 2026).
-- **20 Ağustos 2026:** Yıldız 27.657 → 27.994, son sürüm v5.3.4 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 
@@ -61287,16 +61287,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.
 
-- ★ 25.357
+- ★ 25.380
 - Rust
 - GitHub Trending · 2026-09-29
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 25.357 → 25.380, son sürüm v0.6.38 (9 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 25.183 → 25.357, son sürüm v0.6.37 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 24.988 → 25.183, son sürüm v0.6.36 (8 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 24.669 → 24.988, son sürüm v0.6.35 (6 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 24.470 → 24.669, son sürüm v0.6.34 (4 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -62087,16 +62087,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.
 
-- ★ 22.606
+- ★ 23.245
 - Rust
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 22.606 → 23.245, son sürüm v0.8.12 (9 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 22.531 → 22.606, son sürüm v0.8.11 (2 Ekim 2026).
 - **30 Eylül 2026:** Yıldız 22.300 → 22.531, son sürüm v0.8.10 (30 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 22.267 → 22.300, son sürüm v0.8.9 (27 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 21.261 → 22.267, son sürüm v0.8.8 (25 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -63338,16 +63338,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol özelindeki yürütülebilir dosyaların (executables) farklı platformlara taşınmasını sağlar.
 
-- ★ 18.624
+- ★ 19.663
 - C++
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 18.624 → 19.663, son sürüm v0.1.1 (28 Eylül 2026).
 - **9 Ekim 2026:** Yıldız 14.169 → 18.624, son sürüm v0.1.1 (28 Eylül 2026).
 - **8 Ekim 2026:** Yıldız 12.968 → 14.169, son sürüm v0.1.1 (28 Eylül 2026).
 - **8 Ekim 2026:** Yıldız 8.094 → 12.968, son sürüm v0.1.1 (28 Eylül 2026).
-- **7 Ekim 2026:** Yıldız 5.536 → 8.094, son sürüm v0.1.1 (28 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -67133,12 +67133,13 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.
 
-- ★ 13.414
+- ★ 13.445
 - PowerShell
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 13.414 → 13.445, son sürüm win22/20261004.326 (5 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 13.393 → 13.414, son sürüm win11-vs2026-arm64/20260924.168 (29 Eylül 2026).
 - **28 Eylül 2026:** Yıldız 13.377 → 13.393, son sürüm ubuntu22-arm64/20260920.137 (25 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 13.359 → 13.377, son sürüm win25/20260922.270 (23 Eylül 2026).
@@ -71258,16 +71259,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, yapay zekâ modellerinin iOS ve Android platformlarıyla doğrudan etkileşime girerek görevleri yürütmesini sağlar.
 
-- ★ 8.549
+- ★ 8.808
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 8.549 → 8.808, son sürüm 1.0.9 (9 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 8.544 → 8.549, son sürüm 1.0.8 (2 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 8.439 → 8.544, son sürüm 1.0.7 (1 Ekim 2026).
 - **30 Eylül 2026:** Yıldız 7.665 → 8.439, son sürüm 1.0.6 (30 Eylül 2026).
-- **27 Eylül 2026:** Yıldız 7.586 → 7.665, son sürüm 1.0.4 (13 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -72038,16 +72039,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 OpenGym, antrenman rutinlerini planlamaya ve vücut ağırlığı egzersizlerini takip etmeye yarayan açık kaynaklı bir spor salonu yönetim aracıdır. Kullanıcıların verilerini kendi sunucularında barındırmalarına olanak tanıyan bu yazılım, popüler fitness uygulamalarından (Strong, Hevy) veri aktarımını destekler.
 
-- ★ 7.653
+- ★ 8.392
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 7.653 → 8.392, son sürüm v1.4.0 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 6.329 → 7.653, son sürüm v1.3.10 (7 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 4.847 → 6.329, son sürüm v1.3.9 (28 Eylül 2026).
 - **6 Ekim 2026:** Yıldız 3.424 → 4.847, son sürüm v1.3.9 (28 Eylül 2026).
-- **5 Ekim 2026:** Yıldız 3.409 → 3.424, son sürüm v1.3.9 (28 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -72098,16 +72099,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni nesil bir çerçeve (framework). Geliştiricilerin uygulama arayüzlerini farklı platformlarda hızlıca doğrulamasına olanak tanıyor.
 
-- ★ 8.012
+- ★ 8.338
 - TypeScript
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 8.012 → 8.338, son sürüm @e2e-dev/smol@0.1.0 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 6.873 → 8.012, son sürüm @e2e-dev/kernel@0.2.0 (6 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 5.716 → 6.873, son sürüm @e2e-dev/kernel@0.2.0 (6 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 5.508 → 5.716, son sürüm @e2e-dev/kernel@0.2.0 (6 Ekim 2026).
-- **6 Ekim 2026:** Yıldız 3.786 → 5.508, son sürüm @e2e-dev/web@0.12.0 (4 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -76257,11 +76258,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 SwiftUI-Agent-Skill, arayüz geliştirme aracı SwiftUI için yapay zekâ modellerine özel yetenek paketleri (skills) sunuyor. Bu kaynak, Claude Code ve Codex gibi yapay zekâ kodlama asistanlarının SwiftUI bileşenlerini daha tutarlı ve hızlı oluşturmasına yardımcı oluyor.
 
-- ★ 5.212
+- ★ 5.265
 - GitHub Trending · 2026-10-09
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 5.212 → 5.265, son sürüm 2.0.0 (9 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 5.207 → 5.212, son sürüm 1.1.0 (20 Nisan 2026).
 
 ## Ne kazandırır?
@@ -77578,11 +77580,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.
 
-- ★ 4.006
+- ★ 4.124
 - GitHub Trending · 2026-09-20
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 4.006 → 4.124, son sürüm v0.3.26 (9 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 3.999 → 4.006, son sürüm v0.3.24 (1 Ekim 2026).
 - **30 Eylül 2026:** Yıldız 3.958 → 3.999, son sürüm v0.3.22 (30 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 3.816 → 3.958, son sürüm v0.3.21 (22 Eylül 2026).
@@ -78867,15 +78870,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
 
-- ★ 3.128
+- ★ 3.158
 - GitHub Trending · 2026-06-13
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 3.128 → 3.158, son sürüm 2.10.6 (9 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 3.078 → 3.128, son sürüm 2.10.5 (2 Ekim 2026).
 - **18 Eylül 2026:** Yıldız 3.058 → 3.078, son sürüm 2.10.4 (18 Eylül 2026).
 - **12 Eylül 2026:** Yıldız 3.029 → 3.058, son sürüm 2.10.3 (11 Eylül 2026).
-- **4 Eylül 2026:** Yıldız 3.018 → 3.029, son sürüm 2.10.2 (4 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -80381,16 +80384,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.
 
-- ★ 1.684
+- ★ 1.691
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 1.684 → 1.691, son sürüm v0.9.80 (9 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 1.621 → 1.684, son sürüm v0.9.79 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 1.509 → 1.621, son sürüm v0.9.78 (8 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 1.340 → 1.509, son sürüm v0.9.74 (6 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 1.292 → 1.340, son sürüm v0.9.69 (5 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -80429,12 +80432,13 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 GitHub tarafından geliştirilen gh-stack, yazılım geliştirme sürecinde yığınlı çekme istekleri (stacked pull requests) oluşturmayı ve yönetmeyi kolaylaştıran bir komut satırı aracıdır. Karmaşık kod değişikliklerini küçük ve bağımsız parçalara bölerek inceleme sürecini hızlandırmayı hedefler.
 
-- ★ 1.609
+- ★ 1.643
 - Go
 - GitHub Trending · 2026-08-02
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 1.609 → 1.643, son sürüm v0.2.1 (9 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 1.432 → 1.609, son sürüm v0.2.0 (2 Ekim 2026).
 - **3 Eylül 2026:** Yıldız 911 → 1.432, son sürüm v0.1.1 (2 Eylül 2026).
 - **2 Ağustos 2026:** Yıldız 860 → 911, son sürüm v0.1.0 (29 Temmuz 2026).

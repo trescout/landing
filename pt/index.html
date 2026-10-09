@@ -67,7 +67,6 @@
   <link rel="stylesheet" href="/assets/index.css">
 </head>
 <body>
-  <span id="top" aria-hidden="true"></span>
   <a class="skip-link" href="#main">Ir para o conteúdo principal</a>
 
   <!-- ============== NAV ============== -->
@@ -83,21 +82,15 @@
         <p class="mid-line">A TreScout percorre os fluxos das fontes, resume os destaques e reúne tudo em um único relatório.</p>
         <p class="sub-line">GitHub Trending, Hacker News e os modelos e Daily Papers do Hugging Face.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero-pt" id="hero-subscribe-form" action="/api/subscribe" method="post">
-          <div class="form-row">
-            <label class="visually-hidden" for="email-hero-pt">Endereço de e-mail</label><input class="input" type="email" name="email" id="email-hero-pt" placeholder="Seu e-mail" autocomplete="email" aria-label="Seu endereço de e-mail" required>
-            <button class="btn btn-primary btn-large" type="submit">Avise-me quando o acesso antecipado abrir</button>
-          </div>
-          <p class="form-notice">Saiba como tratamos seus dados pessoais no nosso <a href="/pt/privacy.html" data-privacy-modal>aviso de privacidade</a>.</p><label class="form-consent"><input type="checkbox" name="consent" required><span>Concordo em receber e-mails sobre meu convite de acesso antecipado e o lançamento do TreScout. Posso retirar este consentimento a qualquer momento.</span></label>
-          <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
-        </form>
-        <p class="hero-note">Por enquanto, estamos coletando e-mails para a lista de acesso antecipado. Entrar na lista não significa que o acesso será aberto imediatamente; avisaremos sobre um convite e o lançamento. Sem mensagens desnecessárias.</p>
-        <!-- STATUS · ties the future-tense copy below to what actually runs today -->
-        <p class="hero-value-promise">Hoje: explore relatórios atuais de tecnologia no arquivo online. Entre na lista de acesso antecipado para receber novidades sobre convite e lançamento. Avisaremos quando a entrega por e-mail, a escolha do horário e os filtros estiverem prontos. Sem mensagens desnecessárias. <a href="/pt/reports/" class="hero-archive-link">Explorar o arquivo →</a></p>
+        <div class="hero-actions">
+          <a class="btn btn-primary btn-large" href="/pt/reports/">Ler os relatórios mais recentes →</a>
+          <a class="btn btn-ghost btn-large" href="#top">Entrar na lista de acesso antecipado</a>
+        </div>
+        <p class="hero-value-promise">Os relatórios são abertos a todos; não é preciso cadastro para lê-los. Estamos trabalhando em recursos como o envio por e-mail, mas não damos data nem garantia para eles. <a href="/pt/how-it-works/" class="hero-archive-link">Como o TreScout funciona →</a></p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
-        <p class="hero-visual-label">Qual é a aparência de um resumo por e-mail do TreScout?</p>
+        <p class="hero-visual-label">Um rascunho de relatório em formato de e-mail</p>
         <div class="email-client">
           <div class="email-client-chrome">
             <div class="email-client-dots">
@@ -157,160 +150,6 @@
     </div>
   </section>
 
-  <!-- ============== BEYOND THE REPORT ============== -->
-  <section class="section section-center reveal" id="beyond-report">
-    <div class="container">
-      <span class="eyebrow">Além do relatório</span>
-      <h2 class="section-title">Ao lado do relatório: descobertas, glossário e seis idiomas.</h2>
-      <p class="section-lead">Publicamos os relatórios em um arquivo. Apresentamos as ferramentas e os termos dos relatórios em páginas próprias e publicamos tudo em seis idiomas.</p>
-      <div class="features-grid features-grid-4"><a class="feature" href="/pt/reports/"><h3>Arquivo de relatórios</h3><p>O arquivo dos relatórios diários. Abra o dia que você perdeu quando quiser.</p></a><a class="feature" href="/pt/discover/"><h3>Descobrir</h3><p>Ferramentas de código aberto dos relatórios, como estavam no dia em que entraram nas tendências do GitHub.</p></a><a class="feature" href="/pt/dictionary/"><h3>Glossário</h3><p>Termos técnicos dos relatórios, explicados para que quem não programa também acompanhe.</p></a><div class="feature"><h3>Seis idiomas</h3><p>Turco, inglês, francês, português, espanhol e alemão.</p></div></div>
-    </div>
-  </section>
-
-  <!-- ============== HOW IT WORKS ============== -->
-  <section class="section section-center reveal" id="how-it-works">
-    <div class="container">
-      <span class="eyebrow">Como funciona</span>
-      <h2 class="section-title">Seu relatório técnico diário, passo a passo.</h2>
-      <p class="section-lead">A seleção diária compartilhada das fontes vem primeiro. Quando a entrega por e-mail abrir no acesso antecipado, você escolherá o horário de recebimento; a varredura do dia é compartilhada.</p>
-
-      <div class="pipeline">
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M3 16a9 9 0 0 1 18 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".3"/><path d="M6.5 16a5.5 5.5 0 0 1 11 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M10 16a2 2 0 0 1 4 0" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".85"/><circle cx="12" cy="19.5" r="1.7" fill="#F4D35E"/></svg></div>
-          <span class="step-number">01</span>
-          <h3>Digitalizar</h3>
-          <p>Reúne os destaques diários do GitHub Trending, Hacker News e dos modelos e Daily Papers do Hugging Face.</p>
-          <div class="step-chips" aria-hidden="true"><span>GitHub</span><span>Hacker News</span><span>HuggingFace</span></div>
-        </div>
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><path d="M4 6h16M4 10.5h13.5M4 15h15" stroke="#5FA8D3" stroke-width="1.6" stroke-linecap="round" opacity=".45"/><path d="M4 19.5h7" stroke="#F4D35E" stroke-width="2.2" stroke-linecap="round"/></svg></div>
-          <span class="step-number">02</span>
-          <h3>Resumir</h3>
-          <p>Produz um relatório curto e legível com IA. Os termos técnicos permanecem na forma original entre parênteses e são explicados no idioma escolhido para o relatório.</p>
-          <p class="step-sample" aria-hidden="true">“…interface de linha de comando <span class="step-sample-term">(CLI)</span> interação motivada…”</p>
-        </div>
-        <div class="step">
-          <div class="step-icon"><svg class="step-glyph" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="none"><rect x="3" y="5.5" width="18" height="13" rx="2.5" stroke="#5FA8D3" stroke-width="1.6" opacity=".55"/><path d="M4.6 8 12 13.2 19.4 8" stroke="#F4D35E" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-          <span class="step-number">03</span>
-          <h3>Entregar</h3>
-          <p>Quando a entrega por e-mail estiver disponível, o relatório chegará no horário escolhido. A seleção do dia é compartilhada; você decide quando ler.</p>
-          <div class="step-chips" aria-hidden="true"><span class="step-chip-accent">07:00</span><span>PDF</span><span>Caixa de entrada</span></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============== REPORT PREVIEW ============== -->
-  <section class="section reveal" id="preview">
-    <div class="container">
-      <div class="preview-split">
-        <div class="preview-text">
-          <span class="eyebrow">Relatório PDF</span>
-          <h2 class="section-title">Relatório completo, leitura fácil.</h2>
-          <p class="section-lead">O e-mail traz um resumo rápido; tendências detalhadas, links das fontes e o glossário técnico aparecem em um relatório PDF no idioma escolhido.</p>
-          <ul class="bullet-list">
-            <li><span class="bullet-icon">📄</span><span><strong>Destaques diários</strong> agrupados por fonte (GitHub, Hacker News, HuggingFace…)</span></li>
-            <li><span class="bullet-icon">📚</span><span><strong>Dicionário Técnico</strong>· Definições em linguagem simples para termos modernos de IA e software</span></li>
-            <li><span class="bullet-icon">🗂️</span><span><strong>Arquivável</strong>· Limpe os relatórios em PDF para download para seu arquivo permanente</span></li>
-            <li><span class="bullet-icon">🔗</span><span><strong>Links de origem clicáveis</strong>· Links diretos para repositórios, documentos e cartões modelo</span></li>
-          </ul>
-          <a class="preview-archive-cta" href="/reports/">
-            <span class="pac-live" id="js-arch-badge">AO VIVO</span>
-            <span class="pac-msg"><strong>Este é um exemplo fixo.</strong> Publicamos os relatórios atuais todos os dias no arquivo · <span class="pac-go">ver arquivo →</span></span></span></span></span></span></span></span></span>
-          </a>
-
-
-          <div class="report-tasting" data-report-tasting>
-            <div class="report-tasting-kicker">Um exemplo curto de um relatório</div>
-            <h3>Como um registro de fonte aparece no resumo e no glossário?</h3>
-            <p class="report-tasting-intro">Veja como um registro do GitHub Trending passa do link da fonte a um resumo conciso e a uma explicação clara de um termo.</p>
-            <div class="tasting-tabs" role="tablist" aria-label="Dentro de um relatório: fonte, resumo e glossário">
-              <button type="button" role="tab" aria-selected="true" aria-controls="tasting-source" id="tasting-tab-source" data-tasting-tab="source">Registro da fonte</button>
-              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-summary" id="tasting-tab-summary" data-tasting-tab="summary" tabindex="-1">Resumo TreScout</button>
-              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-glossary" id="tasting-tab-glossary" data-tasting-tab="glossary" tabindex="-1">Explicação do glossário</button>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-source" aria-labelledby="tasting-tab-source" data-tasting-panel="source">
-              <span class="tasting-meta">GitHub Trending · exemplo do relatório de 25 de agosto de 2026</span>
-              <strong class="tasting-source-title">colbymchenry/codegraph</strong>
-              <p>Um grafo de conhecimento de código indexado para ferramentas de desenvolvimento.</p>
-              <a href="https://github.com/colbymchenry/codegraph" target="_blank" rel="noopener noreferrer">Abrir fonte ↗</a>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-summary" aria-labelledby="tasting-tab-summary" data-tasting-panel="summary" hidden>
-              <span class="tasting-meta">Resumo TreScout</span>
-              <p>Este projeto oferece um grafo de conhecimento de código para ferramentas de desenvolvimento e ajuda ferramentas com IA a trabalhar localmente com menos tokens e chamadas de ferramentas.</p>
-            </div>
-            <div class="tasting-panel" role="tabpanel" id="tasting-glossary" aria-labelledby="tasting-tab-glossary" data-tasting-panel="glossary" hidden>
-              <span class="tasting-meta">Glossário</span>
-              <strong class="tasting-source-title">Grafo de conhecimento</strong>
-              <p>Uma estrutura de dados que representa em conjunto as relações entre código, arquivos e componentes.</p>
-            </div>
-            <p class="tasting-note">Conteúdo de exemplo fixo · o link da fonte pertence ao item de relatório relacionado.</p>
-          </div>
-        </div>
-
-        <div class="pdf-card">
-          <div class="pdf-carousel" role="region" aria-label="Páginas do relatório de exemplo · 25 de agosto de 2026 · 10 páginas">
-            <div class="pdf-carousel-badge">Relatório de exemplo · 25 de agosto de 2026</div>
-            <div class="pdf-carousel-track">
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=1" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 1 / 10 · Capa · relatório diário de tecnologia · open in new tab">
-                <img src="/assets/sample-pages/page-1.webp" alt="Capa · relatório diário de tecnologia" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">1 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=2" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 2 / 10 · Resumo e GitHub Trending · 1–6 · open in new tab">
-                <img src="/assets/sample-pages/page-2.webp" alt="Resumo e GitHub Trending · 1–6" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">2 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=3" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 3 / 10 · GitHub Trending · 7–12 · open in new tab">
-                <img src="/assets/sample-pages/page-3.webp" alt="GitHub Trending · 7–12" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">3 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=4" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 4 / 10 · GitHub Trending · 13–16 · open in new tab">
-                <img src="/assets/sample-pages/page-4.webp" alt="GitHub Trending · 13–16" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">4 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=5" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 5 / 10 · Hacker News · destaques · open in new tab">
-                <img src="/assets/sample-pages/page-5.webp" alt="Hacker News · destaques" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">5 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=6" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 6 / 10 · Hugging Face · modelos do dia · open in new tab">
-                <img src="/assets/sample-pages/page-6.webp" alt="Hugging Face · modelos do dia" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">6 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=7" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 7 / 10 · Hugging Face · artigos do dia · open in new tab">
-                <img src="/assets/sample-pages/page-7.webp" alt="Hugging Face · artigos do dia" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">7 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=8" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 8 / 10 · Lobsters · destaques · open in new tab">
-                <img src="/assets/sample-pages/page-8.webp" alt="Lobsters · destaques" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">8 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=9" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 9 / 10 · Glossário técnico · 1 · open in new tab">
-                <img src="/assets/sample-pages/page-9.webp" alt="Glossário técnico · 1" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">9 / 10</span>
-              </a>
-              <a href="/reports/trescout-report-2026-08-25-pt.pdf#page=10" target="_blank" rel="noopener" class="pdf-carousel-slide" aria-label="Page 10 / 10 · Glossário técnico · 2 e encerramento · open in new tab">
-                <img src="/assets/sample-pages/page-10.webp" alt="Glossário técnico · 2 e encerramento" width="909" height="1287" loading="lazy" decoding="async">
-                <span class="pdf-carousel-pageno">10 / 10</span>
-              </a>
-            </div>
-            <div class="pdf-carousel-hint">← deslize · todas as 10 páginas →</div>
-          </div>
-          <div class="pdf-action">
-            <div class="pdf-action-info">
-              <div class="pdf-action-title">📎 trescout-relatório-<span class="pdf-date-token">2026-08-25</span>.pdf <span class="pdf-inline-badge">amostra</span></div>
-              <div class="pdf-action-meta">Exemplo do relatório de 25 de agosto de 2026 · 233 KB</div>
-            </div>
-            <a class="pdf-action-btn" href="/reports/trescout-report-2026-08-25-pt.pdf" download="trescout-report-2026-08-25-pt.pdf" aria-label="Baixar exemplo de relatório">Download</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-
-  <!-- ============== DAILY FLOW PREVIEW ============== -->
-
   <!-- ============== DISCOVERY RADAR ============== -->
   <section class="section reveal" id="discovery-radar" data-discovery-radar>
     <div class="container">
@@ -330,200 +169,18 @@
       </div>
       <div class="radar-footer">
         <span class="radar-note">Carregado do catálogo · conteúdo e datas pertencem aos registros das fontes.</span>
-        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Entre na lista para acompanhar descobertas e novidades do lançamento ↗</a>
+        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Entre na lista de acesso antecipado para anúncios de lançamento ↗</a>
       </div>
     </div>
   </section>
 
-  <!-- ============== DETAILED VIEW · 4 tabs ============== -->
-  <section class="section section-center reveal" id="details">
-    <div class="container">
-      <span class="eyebrow">Visualização detalhada</span>
-      <h2 class="section-title">Tudo o que você precisa, num único olhar.</h2>
-
-      <div class="tabs" role="tablist" aria-label="Guias de detalhes">
-        <button class="tab" role="tab" aria-selected="true" aria-controls="tabpanel-neden" id="tab-neden" tabindex="0">Por que TreScout</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-ozellikler" id="tab-ozellikler" tabindex="-1">Características</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-ilk-surum" id="tab-ilk-surum" tabindex="-1">Versão 1.0</button>
-        <button class="tab" role="tab" aria-selected="false" aria-controls="tabpanel-sonraki-alan" id="tab-sonraki-alan" tabindex="-1">Verticais Futuras</button>
-      </div>
-
-      <!-- TAB · Why TreScout -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-neden" aria-labelledby="tab-neden">
-        <h3 class="panel-title">“Eu poderia perguntar à IA manualmente”, você pode dizer, mas…</h3>
-        <div class="diff-table">
-          <div class="row head">
-            <div></div>
-            <div>Verificação manual/ferramentas de IA bruta</div>
-            <div>TreScout</div>
-          </div>
-          <div class="row">
-            <div>Acionamento</div>
-            <div class="cross">Consulta manual sempre</div>
-            <div class="check">✓ Varredura diária automática · escolha do horário de entrega no acesso antecipado</div>
-          </div>
-          <div class="row">
-            <div>Multifonte</div>
-            <div class="cross">Abra e pesquise sites individualmente</div>
-            <div class="check">✓ GitHub unificado + Hacker News + HuggingFace…</div>
-          </div>
-          <div class="row">
-            <div>Glossário Técnico</div>
-            <div class="cross">O jargão se perde ou é parcialmente traduzido</div>
-            <div class="check">✓ Resumos estruturados com definições de termos técnicos anexados</div>
-          </div>
-          <div class="row">
-            <div>Consistência</div>
-            <div class="cross">Fácil de esquecer ou ficar sem tempo durante dias de trabalho agitados</div>
-            <div class="check">✓ Um novo relatório todos os dias</div>
-          </div>
-          <div class="row">
-            <div>Arquivo</div>
-            <div class="cross">Guias perdidas do navegador</div>
-            <div class="check">✓ Arquivo web + relatório em PDF para baixar</div>
-          </div>
-        </div>
-      </div>
-
-      <!-- TAB · Features -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-ozellikler" aria-labelledby="tab-ozellikler" hidden>
-        <h3 class="panel-title">Simples. Rápido. No seu ritmo.</h3>
-        <div class="features-bento">
-          <div class="feature feature-hero">
-            <div class="feature-icon">⏰</div>
-            <h3>Agendamento flexível <span class="roadmap-live roadmap-soon">COM ACESSO ANTECIPADO</span></h3>
-            <p>Escolha o horário de entrega adequado à sua rotina matinal. Leia sempre que estiver pronto.</p>
-            <div class="time-strip" aria-hidden="true">
-              <div class="time-strip-rail">
-                <span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span><span class="time-strip-tick"></span>
-                <span class="time-strip-thumb time-strip-thumb--0900">09:00</span>
-              </div>
-              <div class="time-strip-labels">
-                <span>00:00</span>
-                <span>06:00</span>
-                <span>12:00</span>
-                <span>18:00</span>
-                <span>24:00</span>
-              </div>
-              <div class="time-strip-note">Selecione qualquer minuto do dia · o que funciona para você, funciona para o TreScout.</div>
-            </div>
-          </div>
-
-          <div class="features-bento-side">
-            <div class="feature">
-              <div class="feature-icon">📄</div>
-              <h3>Relatório PDF</h3>
-              <p>Formatado, arquivável, limpo. Baixe-o para o seu cofre ou leia diretamente do e-mail.</p>
-            </div>
-            <div class="feature">
-              <div class="feature-icon">📚</div>
-              <h3>Glossário de termos técnicos</h3>
-              <p>Os termos técnicos mencionados nos resumos são definidos claramente no final de cada relatório. Fique à frente da tecnologia em rápida evolução.</p>
-              <div class="term-list" aria-hidden="true">
-                <div class="term-row"><code>fine-tuning</code><span class="term-arrow">→</span><span class="term-def">Personalizando um modelo básico de IA treinando em seus dados proprietários</span></div>
-                <div class="term-row"><code>RAG</code><span class="term-arrow">→</span><span class="term-def">Recuperando o contexto do seu pool de documentos antes de gerar respostas</span></div>
-                <div class="term-row"><code>MCP</code><span class="term-arrow">→</span><span class="term-def">Protocolo aberto que permite que agentes de IA se conectem a ferramentas externas</span></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- TAB · Version 1.0 -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-ilk-surum" aria-labelledby="tab-ilk-surum" hidden>
-        <div class="roadmap">
-          <div class="roadmap-track" aria-hidden="true"></div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">🎯</div>
-            <h3 class="roadmap-title">Filtros de tópico</h3>
-            <p>IA, Web, Mobile, DevOps · receba resumos estritamente adaptados aos seus interesses.</p>
-          </div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">🔁</div>
-            <h3 class="roadmap-title">Relatórios desduplicados <span class="roadmap-live">AO VIVO</span></h3>
-            <p>Um repositório que já apareceu em um relatório não aparecerá novamente, mesmo que continue sendo tendência. Apenas novas descobertas e atualizações importantes chegam.<a href="/pt/reports/fresh/">Veja o relatório mais recente de hoje →</a></p>
-          </div>
-
-          <div class="roadmap-item">
-            <div class="roadmap-dot">📦</div>
-            <h3 class="roadmap-title">Cofre Histórico</h3>
-            <p>Recentemente inscrito? Acompanhe os arquivos históricos de tendências desde o primeiro dia.</p>
-          </div>
-        </div>
-      </div>
-
-      <!-- TAB · Future Verticals -->
-      <div class="tab-panel" role="tabpanel" id="tabpanel-sonraki-alan" aria-labelledby="tab-sonraki-alan" hidden>
-        <h3 class="panel-title">Não apenas tecnologia.</h3>
-        <p class="panel-lead">O TreScout começa com engenharia de software, mas o mecanismo multiagente subjacente se adapta a qualquer campo em rápida evolução: revistas médicas, atualizações jurídicas, regulamentações de mercado e notícias do setor.</p>
-
-        <div class="vertical-cards">
-          <div class="vertical-card">
-            <div class="vertical-icon">🩺</div>
-            <h3>Medicamento</h3>
-            <p>Novos ensaios clínicos, atualizações de diretrizes, aprovações da FDA e avanços médicos.</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">📖</div>
-            <h3>Academia</h3>
-            <p>Surtos de artigos ArXiv, explosões de citações, anais de conferências, glossários de pesquisa.</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">⚖️</div>
-            <h3>Lei</h3>
-            <p>Mudanças legislativas, decisões judiciais, compliance e atualizações regulatórias.</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">🏪</div>
-            <h3>PME/Empresa</h3>
-            <p>Tendências do setor, notícias sobre concorrentes, atualizações sobre regulamentações fiscais e comerciais.</p>
-          </div>
-          <div class="vertical-card">
-            <div class="vertical-icon">✦</div>
-            <h3>Outro campo</h3>
-            <p>Um campo em rápida mudança que não aparece aqui? Ajude-nos a escolher as fontes…</p>
-          </div>
-        </div>
-
-        <div class="vertical-cta">
-          <p>Tem uma sugestão de domínio? Deixe-nos um <a href="mailto:hello@trescout.com?subject=TreScout%20%C2%B7%20domain%20suggestion">e-mail</a>. Diga-nos quais fontes você monitora diariamente; sua experiência no domínio nos ajuda a construir radares personalizados com mais rapidez.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============== COMMUNITY ============== -->
-  <section class="section section-center reveal" id="community">
-    <div class="container">
-      <h2 class="section-title"><span class="accent">Vamos construir juntos</span></h2>
-      <div class="community-grid">
-        <a href="mailto:hello@trescout.com?subject=TreScout%20join%20team" class="community-card">
-          <div class="community-icon">🤝</div>
-          <div class="community-content">
-            <h3>Junte-se à equipe</h3>
-            <p>Acredita em radares de conhecimento automatizados? Desenvolvedor, designer, pesquisador ou criador · entre em contato e molde o produto conosco.</p>
-            <span class="community-cta">hello@trescout.com →</span>
-          </div>
-        </a>
-
-        <a href="mailto:hello@trescout.com?subject=TreScout%20feedback" class="community-card">
-          <div class="community-icon">💬</div>
-          <div class="community-content">
-            <h3>Dê feedback</h3>
-            <p>Encontrou um bug, tem uma ideia ou deseja um novo recurso? Lemos cada mensagem.</p>
-            <span class="community-cta">hello@trescout.com →</span>
-          </div>
-        </a>
-      </div>
-    </div>
-  </section>
+  <!-- ============== DAILY FLOW PREVIEW ============== -->
 
   <!-- ============== FINAL CTA ============== -->
   <section class="container" id="cta">
+    <span id="top" aria-hidden="true"></span>
     <div class="final-cta">
-      <h2>Entregue na sua hora. Perfeito para o café da manhã.</h2>
+      <h2>Lista de acesso antecipado</h2>
       <p>A lista de acesso antecipado está aberta. Seja o primeiro a ser notificado no lançamento.</p>
       <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-pt" action="/api/subscribe" method="post">
         <div class="form-row">

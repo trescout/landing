@@ -38,6 +38,7 @@ from diller import DILLER  # noqa: E402
 KALIPLAR = [
     ("ana sayfa", "index.html"),
     ("karşılaştırma", "compare/rss-vs-ai/index.html"),
+    ("nasıl çalışır", "how-it-works/index.html"),
 ]
 
 GRUPLAR = [

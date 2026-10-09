@@ -30,7 +30,7 @@ L += ["", "## Keşif", "",
       f"- [Keşif dizini]({B}/discover/)"]
 for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
     L.append(f"- [{c['title']}]({B}/discover/{c['slug']}/) (ham: {B}/discover/{c['slug']}.md): {clip(c.get('tagline', ''))}")
-L += ["", "## Raporlar", "", "Günlük teknoloji raporlarının arşivi (PDF).", "", f"- [Raporlar]({B}/reports/)", "", "## TreScout", "", "TreScout'un kaynak tarama, özetleme ve erken erişim modelini açıklayan sayfalar.", "", f"- [TreScout nasıl çalışır]({B}/#how-it-works)", f"- [Manuel takip ile karşılaştırma]({B}/compare/rss-vs-ai/)", ""]
+L += ["", "## Raporlar", "", "Günlük teknoloji raporlarının arşivi (PDF).", "", f"- [Raporlar]({B}/reports/)", "", "## TreScout", "", "TreScout'un kaynak tarama, özetleme ve erken erişim modelini açıklayan sayfalar.", "", f"- [TreScout nasıl çalışır]({B}/how-it-works/)", f"- [Manuel takip ile karşılaştırma]({B}/compare/rss-vs-ai/)", ""]
 
 # İngilizce taraf · 2026-08-07'ye kadar llms.txt yalnız Türkçe sayfaları listeliyordu,
 # yani 397 keşif + 481 sözlük + rapor arşivinin İngilizcesi yapay zekâ tarayıcılarına
@@ -140,7 +140,7 @@ E += ["", "## Discover", "",
       f"- [Discover index]({B}/en/discover/)"]
 for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
     E.append(f"- [{c['title']}]({B}/en/discover/{c['slug']}/) (raw: {B}/en/discover/{c['slug']}.md): {clip(c.get('tagline_en') or c.get('tagline', ''))}")
-E += ["", "## Reports", "", "Archive of daily tech reports (PDF).", "", f"- [Reports]({B}/en/reports/)", "", "## About TreScout", "", "TreScout scans sources, summarizes the signal, and is preparing email delivery for early access.", "", f"- [How TreScout works]({B}/en/#how-it-works)", f"- [Manual tracking comparison]({B}/en/compare/rss-vs-ai/)", "",
+E += ["", "## Reports", "", "Archive of daily tech reports (PDF).", "", f"- [Reports]({B}/en/reports/)", "", "## About TreScout", "", "TreScout scans sources, summarizes the signal, and is preparing email delivery for early access.", "", f"- [How TreScout works]({B}/en/how-it-works/)", f"- [Manual tracking comparison]({B}/en/compare/rss-vs-ai/)", "",
       "## AI Crawlers & API Access", "",
       "Every dictionary term and open-source project page is served as both HTML and plain Markdown:",
       f"- Append `.md` to any dictionary or discover URL to fetch raw Markdown.",
