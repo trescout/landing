@@ -2,16 +2,16 @@
 
 OpenGym ist ein Open-Source-Studioverwaltungstool zum Planen von Trainingsroutinen und Verfolgen von Eigengewichtsübungen. Die Software ermöglicht es Benutzern, ihre Daten auf eigenen Servern zu hosten, und unterstützt den Datenimport von beliebten Fitness-Apps (Strong, Hevy).
 
-- ★ 7.653
+- ★ 8.392
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Aktualisierungen
 
+- **9. Oktober 2026:** Sterne 7,653 → 8,392, neueste Version v1.4.0 (9. Oktober 2026).
 - **8. Oktober 2026:** Sterne 6,329 → 7,653, neueste Version v1.3.10 (7. Oktober 2026).
 - **7. Oktober 2026:** Sterne 4,847 → 6,329, neueste Version v1.3.9 (28. September 2026).
 - **6. Oktober 2026:** Sterne 3,424 → 4,847, neueste Version v1.3.9 (28. September 2026).
-- **5. Oktober 2026:** Sterne 3,409 → 3,424, neueste Version v1.3.9 (28. September 2026).
 
 ## Was es bringt
 

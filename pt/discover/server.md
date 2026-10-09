@@ -2,15 +2,15 @@
 
 Music Assistant é um gerenciador de biblioteca de mídia de código aberto que combina diferentes serviços de streaming digital e alto-falantes conectados em uma única interface. Este software de servidor baseado em Python permite a criação de um sistema central de gerenciamento de música em dispositivos em operação constante.
 
-- ★ 3.128
+- ★ 3.158
 - GitHub Trending · 2026-06-13
 
 ## Atualizações
 
+- **9 de outubro de 2026:** Estrelas 3,128 → 3,158, versão mais recente 2.10.6 (9 de outubro de 2026).
 - **2 de outubro de 2026:** Estrelas 3,078 → 3,128, versão mais recente 2.10.5 (2 de outubro de 2026).
 - **18 de setembro de 2026:** Estrelas 3,058 → 3,078, versão mais recente 2.10.4 (18 de setembro de 2026).
 - **12 de setembro de 2026:** Estrelas 3,029 → 3,058, versão mais recente 2.10.3 (11 de setembro de 2026).
-- **4 de setembro de 2026:** Estrelas 3,018 → 3,029, versão mais recente 2.10.2 (4 de setembro de 2026).
 
 ## O que você ganha
 

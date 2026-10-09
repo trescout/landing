@@ -2,11 +2,12 @@
 
 SwiftUI-Agent-Skill, arayüz geliştirme aracı SwiftUI için yapay zekâ modellerine özel yetenek paketleri (skills) sunuyor. Bu kaynak, Claude Code ve Codex gibi yapay zekâ kodlama asistanlarının SwiftUI bileşenlerini daha tutarlı ve hızlı oluşturmasına yardımcı oluyor.
 
-- ★ 5.212
+- ★ 5.265
 - GitHub Trending · 2026-10-09
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 5.212 → 5.265, son sürüm 2.0.0 (9 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 5.207 → 5.212, son sürüm 1.1.0 (20 Nisan 2026).
 
 ## Ne kazandırır?

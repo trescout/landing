@@ -2,12 +2,13 @@
 
 GitHub tarafından geliştirilen gh-stack, yazılım geliştirme sürecinde yığınlı çekme istekleri (stacked pull requests) oluşturmayı ve yönetmeyi kolaylaştıran bir komut satırı aracıdır. Karmaşık kod değişikliklerini küçük ve bağımsız parçalara bölerek inceleme sürecini hızlandırmayı hedefler.
 
-- ★ 1.609
+- ★ 1.643
 - Go
 - GitHub Trending · 2026-08-02
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 1.609 → 1.643, son sürüm v0.2.1 (9 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 1.432 → 1.609, son sürüm v0.2.0 (2 Ekim 2026).
 - **3 Eylül 2026:** Yıldız 911 → 1.432, son sürüm v0.1.1 (2 Eylül 2026).
 - **2 Ağustos 2026:** Yıldız 860 → 911, son sürüm v0.1.0 (29 Temmuz 2026).
