@@ -65,6 +65,7 @@ Desejo configurar um túnel de transferência de arquivos criptografados entre d
 ## Termos relacionados do glossário
 
 - [Root](https://trescout.com/pt/dictionary/root/)
+- [IoT](https://trescout.com/pt/dictionary/iot/)
 - [VPN](https://trescout.com/pt/dictionary/vpn/)
 - [Mesh](https://trescout.com/pt/dictionary/mesh/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)

@@ -2,16 +2,16 @@
 
 Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya yönetim çözümüdür. TypeScript ile yazılan bu platform, kullanıcılara kendi altyapıları üzerinde merkezi bir medya arşivi oluşturma imkânı tanır.
 
-- ★ 115.783
+- ★ 115.826
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 115.783 → 115.826, son sürüm v3.3.1 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 115.268 → 115.783, son sürüm v3.3.0 (7 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 114.389 → 115.268, son sürüm v3.2.4 (28 Eylül 2026).
 - **16 Eylül 2026:** Yıldız 114.210 → 114.389, son sürüm v3.2.2 (15 Eylül 2026).
-- **15 Eylül 2026:** Yıldız 113.808 → 114.210, son sürüm v3.2.1 (14 Eylül 2026).
 
 ## Ne kazandırır?
 

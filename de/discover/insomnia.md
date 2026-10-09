@@ -2,12 +2,13 @@
 
 Insomnia ist ein Open-Source-API-Client (Application Programming Interface), der die Protokolle GraphQL, REST, WebSockets, SSE und gRPC unterstützt. Die Software bietet plattformübergreifende Unterstützung mit Cloud-basierten, lokalen und Git-Speicheroptionen.
 
-- ★ 40.032
+- ★ 40.034
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Aktualisierungen
 
+- **9. Oktober 2026:** Sterne 40,032 → 40,034, neueste Version core@13.3.1 (9. Oktober 2026).
 - **27. September 2026:** Sterne 39,955 → 40,032, neueste Version core@13.3.0 (23. September 2026).
 - **27. August 2026:** Sterne 39,916 → 39,955, neueste Version core@13.2.0 (25. August 2026).
 - **2. August 2026:** Sterne 38,771 → 39,916, neueste Version core@13.1.0 (24. Juli 2026).

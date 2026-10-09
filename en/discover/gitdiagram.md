@@ -69,8 +69,8 @@ Generate a system diagram of the GitHub repository I examined, based on the Gitd
 - [Mermaid](https://trescout.com/en/dictionary/mermaid/)
 - [LLM API](https://trescout.com/en/dictionary/llm-api/)
 - [API Gateway](https://trescout.com/en/dictionary/api-gateway/)
-- [Gateway](https://trescout.com/en/dictionary/gateway/)
 - [Database](https://trescout.com/en/dictionary/database/)
+- [Gateway](https://trescout.com/en/dictionary/gateway/)
 
 ## Links
 

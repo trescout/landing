@@ -65,6 +65,7 @@ Ich möchte mit dem Tailcat-Tool einen verschlüsselten Dateiübertragungstunnel
 ## Verwandte Begriffe aus dem Glossar
 
 - [Root](https://trescout.com/de/dictionary/root/)
+- [IoT](https://trescout.com/de/dictionary/iot/)
 - [VPN](https://trescout.com/de/dictionary/vpn/)
 - [Mesh](https://trescout.com/de/dictionary/mesh/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)

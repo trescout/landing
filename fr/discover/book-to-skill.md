@@ -2,16 +2,16 @@
 
 Le projet book-to-skill convertit les formats de documents portables (PDF) de livres techniques en packs de compétences (compétences) utilisables pour Claude Code. Cet outil permet de référencer directement les ressources techniques et de les appliquer dans les processus de travail.
 
-- ★ 32 588
+- ★ 34 270
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Mises à jour
 
+- **9 octobre 2026:** Étoiles 32,588 → 34,270, dernière version v1.4.0 (10 août 2026).
 - **27 septembre 2026:** Étoiles 30,556 → 32,588, dernière version v1.4.0 (10 août 2026).
 - **14 septembre 2026:** Étoiles 29,048 → 30,556, dernière version v1.4.0 (10 août 2026).
 - **8 septembre 2026:** Étoiles 27,536 → 29,048, dernière version v1.4.0 (10 août 2026).
-- **31 août 2026:** Étoiles 26,044 → 27,536, dernière version v1.4.0 (10 août 2026).
 
 ## Ce que ça vous apporte
 

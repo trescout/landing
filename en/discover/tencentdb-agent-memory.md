@@ -2,16 +2,16 @@
 
 TencentDB Agent Memory offers a completely local long-term memory solution for artificial intelligence agents with a four-stage process. It performs data storage and recall operations without the need for external application programming interfaces (APIs).
 
-- ★ 27,396
+- ★ 27,855
 - TypeScript
 - GitHub Trending · 2026-07-09
 
 ## Updates
 
+- **October 9, 2026:** Stars 27,396 → 27,855, latest release v2.0.2 (October 9, 2026).
 - **September 28, 2026:** Stars 26,048 → 27,396, latest release v2.0.1 (August 25, 2026).
 - **September 7, 2026:** Stars 24,804 → 26,048, latest release v2.0.1 (August 25, 2026).
 - **August 27, 2026:** Stars 23,144 → 24,804, latest release v2.0.1 (August 25, 2026).
-- **August 19, 2026:** Stars 21,959 → 23,144, latest release v2.0.0 (August 3, 2026).
 
 ## What you get
 

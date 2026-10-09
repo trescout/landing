@@ -69,6 +69,7 @@ Ja. Mit Firewall-Regeln ist der Zugriff gesperrt und Netzwerke arbeiten isoliert
 ## Verwandte Werkzeuge
 
 - [OmniRoute](https://trescout.com/de/discover/omniroute/)
+- [Litellm](https://trescout.com/de/discover/litellm/)
 - [Fanqiang](https://trescout.com/de/discover/fanqiang/)
 - [Gitdiagram](https://trescout.com/de/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/de/discover/openwa/)

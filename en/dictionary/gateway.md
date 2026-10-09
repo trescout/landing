@@ -69,6 +69,7 @@ Yes. By using firewall rules, traffic is blocked, and the networks operate in is
 ## Related tools
 
 - [OmniRoute](https://trescout.com/en/discover/omniroute/)
+- [Litellm](https://trescout.com/en/discover/litellm/)
 - [Fanqiang](https://trescout.com/en/discover/fanqiang/)
 - [Gitdiagram](https://trescout.com/en/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/en/discover/openwa/)

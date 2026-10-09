@@ -69,8 +69,8 @@ Créez le diagramme système du référentiel GitHub que j'ai examiné sur la ba
 - [Mermaid](https://trescout.com/fr/dictionary/mermaid/)
 - [LLM API](https://trescout.com/fr/dictionary/llm-api/)
 - [API Gateway](https://trescout.com/fr/dictionary/api-gateway/)
-- [Gateway](https://trescout.com/fr/dictionary/gateway/)
 - [Database](https://trescout.com/fr/dictionary/database/)
+- [Gateway](https://trescout.com/fr/dictionary/gateway/)
 
 ## Liens
 

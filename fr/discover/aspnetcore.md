@@ -51,6 +51,7 @@ Je souhaite développer une application Web moderne, basée sur le cloud et évo
 
 ## Termes liés du glossaire
 
+- [IoT](https://trescout.com/fr/dictionary/iot/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

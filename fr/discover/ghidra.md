@@ -78,9 +78,9 @@ Je souhaite examiner un fichier binaire suspect à l'aide de Ghidra. Pouvez-vous
 - [NSA](https://trescout.com/fr/dictionary/nsa/)
 - [Assembly](https://trescout.com/fr/dictionary/assembly/)
 - [Decompiler](https://trescout.com/fr/dictionary/decompiler/)
+- [IoT](https://trescout.com/fr/dictionary/iot/)
 - [Binary](https://trescout.com/fr/dictionary/binary/)
 - [API](https://trescout.com/fr/dictionary/api/)
-- [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Chercheurs en logiciels malveillants, chasseurs de vulnérabilités, experts en ingénierie inverse et développeurs de systèmes embarqués.
 - **Licence:** Apache-2.0 (Açık kaynak lisansı)

@@ -2,16 +2,16 @@
 
 The book-to-skill project converts portable document formats (PDF) of technical books into usable skill packs (skills) for Claude Code. This tool enables technical resources to be directly referenced and applied in work processes.
 
-- ★ 32,588
+- ★ 34,270
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Updates
 
+- **October 9, 2026:** Stars 32,588 → 34,270, latest release v1.4.0 (August 10, 2026).
 - **September 27, 2026:** Stars 30,556 → 32,588, latest release v1.4.0 (August 10, 2026).
 - **September 14, 2026:** Stars 29,048 → 30,556, latest release v1.4.0 (August 10, 2026).
 - **September 8, 2026:** Stars 27,536 → 29,048, latest release v1.4.0 (August 10, 2026).
-- **August 31, 2026:** Stars 26,044 → 27,536, latest release v1.4.0 (August 10, 2026).
 
 ## What you get
 

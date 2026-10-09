@@ -46,10 +46,10 @@ Sim, o MCP possui uma estrutura que mantém sob controle as permissões de acess
 - [Servers](https://trescout.com/pt/discover/servers/)
 - [Goose](https://trescout.com/pt/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/pt/discover/chrome-devtools-mcp/)
+- [REA](https://trescout.com/pt/discover/rea/)
 - [Openclaude](https://trescout.com/pt/discover/openclaude/)
 - [Fastmcp](https://trescout.com/pt/discover/fastmcp/)
 - [Context Mode](https://trescout.com/pt/discover/context-mode/)
-- [REA](https://trescout.com/pt/discover/rea/)
 - [Unity MCP](https://trescout.com/pt/discover/unity-mcp/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/model-context-protocol/)

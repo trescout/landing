@@ -2,16 +2,16 @@
 
 AlphaXiv es un marco que le permite ejecutar agentes de investigación paralelos utilizando diferentes modelos de inteligencia artificial. Desarrollada en el lenguaje Rust, esta herramienta de código abierto tiene como objetivo acelerar los procesos de recopilación de datos en investigaciones académicas y técnicas.
 
-- ★ 6.690
+- ★ 6.791
 - Rust
 - GitHub Trending · 2026-09-12
 
 ## Actualizaciones
 
+- **9 de octubre de 2026:** Estrellas 6,690 → 6,791, última versión v0.2.18 (9 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 6,654 → 6,690, última versión v0.2.17 (7 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 6,454 → 6,654, última versión v0.2.16 (5 de octubre de 2026).
 - **3 de octubre de 2026:** Estrellas 6,177 → 6,454, última versión v0.2.15 (2 de octubre de 2026).
-- **30 de septiembre de 2026:** Estrellas 5,912 → 6,177, última versión v0.2.14 (30 de septiembre de 2026).
 
 ## Qué aporta
 

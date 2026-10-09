@@ -84,10 +84,10 @@ Go'da ctx context.Context parametresi, bir HTTP isteği iptal edildiğinde veya 
 - [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
+- [REA](https://trescout.com/discover/rea/)
 - [Openclaude](https://trescout.com/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/discover/code-review-graph/)
 - [Fastmcp](https://trescout.com/discover/fastmcp/)
-- [Context Mode](https://trescout.com/discover/context-mode/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

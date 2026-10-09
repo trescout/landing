@@ -2,12 +2,13 @@
 
 Miles, büyük dil modelleri (LLM) ve görsel dil modelleri (VLM) için pekiştirmeli öğrenme (reinforcement learning) süreçlerini yöneten kurumsal odaklı bir çerçeve. Eğitim sonrası süreçleri (post-training) optimize etmek amacıyla geliştirilen bu Python tabanlı araç, slime projesiyle eş zamanlı olarak evrimleşiyor.
 
-- ★ 3.003
+- ★ 3.074
 - Python
 - GitHub Trending · 2026-09-05
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 3.003 → 3.074, son sürüm v0.1.2 (9 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 2.603 → 3.003, son sürüm v0.1.1 (26 Eylül 2026).
 - **5 Eylül 2026:** Yıldız 2.601 → 2.603, son sürüm v0.1.0 (18 Ağustos 2026).
 

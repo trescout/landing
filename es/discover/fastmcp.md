@@ -2,16 +2,16 @@
 
 FastMCP es un marco basado en Python que facilita el desarrollo de servidores y clientes de Model Context Protocol (MCP). Permite a los desarrolladores integrar rápidamente modelos de IA con herramientas nativas.
 
-- ★ 27.981
+- ★ 28.020
 - Python
 - GitHub Trending · 2026-07-21
 
 ## Actualizaciones
 
+- **9 de octubre de 2026:** Estrellas 27,981 → 28,020, última versión v4.1.0 (8 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 27,907 → 27,981, última versión v4.0.11 (4 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 27,720 → 27,907, última versión v4.0.10 (25 de septiembre de 2026).
 - **18 de septiembre de 2026:** Estrellas 27,689 → 27,720, última versión v4.0.5 (17 de septiembre de 2026).
-- **16 de septiembre de 2026:** Estrellas 27,531 → 27,689, última versión v4.0.4 (16 de septiembre de 2026).
 
 ## Qué aporta
 

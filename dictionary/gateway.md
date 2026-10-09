@@ -69,6 +69,7 @@ Evet. Güvenlik duvarı kurallarıyla geçiş kapatılır, ağlar izole çalış
 ## İlgili araçlar
 
 - [OmniRoute](https://trescout.com/discover/omniroute/)
+- [Litellm](https://trescout.com/discover/litellm/)
 - [Fanqiang](https://trescout.com/discover/fanqiang/)
 - [Gitdiagram](https://trescout.com/discover/gitdiagram/)
 - [OpenWA](https://trescout.com/discover/openwa/)

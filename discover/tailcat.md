@@ -82,6 +82,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Root](https://trescout.com/dictionary/root/)
+- [IoT](https://trescout.com/dictionary/iot/)
 - [VPN](https://trescout.com/dictionary/vpn/)
 - [Mesh](https://trescout.com/dictionary/mesh/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

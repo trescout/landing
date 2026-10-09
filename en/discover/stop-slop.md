@@ -2,13 +2,14 @@
 
 Texts produced with artificial intelligence often contain predictable expressions, rhythms and structures. Stop Slop is a skill file that teaches Claude or any LLM to catch and clear these patterns. In this way, your texts will have a much more natural and human tone.
 
-- ★ 16,875
+- ★ 17,877
 - Claude Skill
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 9, 2026:** Stars 16,875 → 17,877.
 - **September 7, 2026:** Stars 15,870 → 16,875.
 - **August 19, 2026:** Stars 14,843 → 15,870.
 - **August 1, 2026:** Stars 4,876 → 14,843.

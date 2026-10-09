@@ -39,6 +39,10 @@ Birden fazla model kullanıyorsanız veya şirket içinde yapay zekâ kullanım�
 - [AI Models](https://trescout.com/dictionary/ai-models/)
 - [Security Scanner](https://trescout.com/dictionary/security-scanner/)
 
+## İlgili araçlar
+
+- [Litellm](https://trescout.com/discover/litellm/)
+
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 ---

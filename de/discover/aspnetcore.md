@@ -51,6 +51,7 @@ Ich möchte eine moderne, cloudbasierte und skalierbare Webanwendung mit dem ASP
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [IoT](https://trescout.com/de/dictionary/iot/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

@@ -2,16 +2,16 @@
 
 Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.
 
-- ★ 34.784
+- ★ 34.817
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
 
+- **9 Ekim 2026:** Yıldız 34.784 → 34.817, son sürüm v2026.10.6 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 34.773 → 34.784, son sürüm v2026.10.5 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 34.605 → 34.773, son sürüm v2026.10.4 (7 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 34.575 → 34.605, son sürüm v2026.10.3 (5 Ekim 2026).
-- **4 Ekim 2026:** Yıldız 34.574 → 34.575, son sürüm v2026.10.2 (4 Ekim 2026).
 
 ## Ne kazandırır?
 
