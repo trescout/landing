@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1.0",
-  "generated_at": "2026-10-09T17:29:53.117433+00:00",
-  "source_git_commit": "aef9ca7f58c482c0667941a229bcaa92edcb2989",
+  "generated_at": "2026-10-09T18:12:36.244525+00:00",
+  "source_git_commit": "c4f0c2168d64f492c116598602f0b50af1c93c96",
   "content_version": "2026-10-09",
   "locales": [
     "tr",
@@ -61,7 +61,7 @@
   "integrity_checksums": {
     "assets/discover/catalog.json": "297a193b188266167b138d1181703a19f6477d4c36eb0512a7ad54fbf0641063",
     "assets/dictionary/dictionary.json": "8792d868da51c41c2f2febcef16266bc9c35a6abeb31462044a938e612a013f3",
-    "sitemap.xml": "cb2e401cfde8d663591605e620e83b5f2a85fcf09f2516714827397d6ccf06dc",
+    "sitemap.xml": "985c8e686332e80a3d3be92e0cf73f27188b926199e160b9c8216d802a5bf42e",
     "llms.txt": "bffc4cdf3326aebfe9fa34621806c828070e3519338c742e64ba82cf3edc2c3e",
     "llms-full.txt": "6c5fb73a94f26c15769699aabd673a35c99a9bc70b9195b80055f7ecd2fd8c7c",
     "llms-en.txt": "c83ef6c001e1f0da67b5c23dad1e67cdcf5a0516c2abe2af1376cacf7d81eeb5",
