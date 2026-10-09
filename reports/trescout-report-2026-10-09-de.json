@@ -1,0 +1,800 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-09",
+  "capturedAt": "2026-10-09T11:21:15.946Z",
+  "editorial": "Im Ökosystem der künstlichen Intelligenz stehen heute effizienzorientierte Lightweight-Modelle und selbstverbessernde Systemarchitekturen (self-improvement architectures) im Vordergrund. Die Diskussionen über die industrielle Wirkung des DeepSeek 4.1 Flash-Modells verbinden sich mit der Popularität von Spracherkennungstools (speech-to-text), die bei geringem Speicherverbrauch eine hohe Leistung bieten.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea ist ein KI-gestütztes Reverse-Engineering-Tool, das alles von Anwendungsverhalten bis hin zu nativen Binärdateien analysiert. Diese in TypeScript entwickelte Software zielt darauf ab, die Arbeitsweise komplexer Systeme durch automatisierte Agenten zu entschlüsseln.",
+          "meta": "TypeScript · ★ 34.146 · +7.738 heute",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 34146,
+              "engagementCount": 7738,
+              "rank": 1,
+              "extra": {
+                "starsToday": 7738
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 ist ein Tool, das PlayStation 5-Executables automatisch auf Linux- und Windows-Betriebssysteme portiert. Diese in C++ entwickelte Software bietet einen Konvertierungsprozess, der es ermöglicht, konsolenspezifischen Spielcode auf verschiedenen Plattformen auszuführen.",
+          "meta": "C++ · ★ 18.534 · +4.669 heute",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 18534,
+              "engagementCount": 4669,
+              "rank": 2,
+              "extra": {
+                "starsToday": 4669
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Dieses von Matt Pocock geteilte Repository bündelt spezialisierte Skill-Sets, die Softwareentwickler für KI-Agenten verwenden. Diese vorgefertigten Befehle, die Entwickler in ihren eigenen Arbeitsumgebungen nutzen, zielen darauf ab, Automatisierungsprozesse zu standardisieren.",
+          "meta": "Shell · ★ 281.906 · +1.774 heute",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 281906,
+              "engagementCount": 1774,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1774
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design besteht aus 42 verschiedenen Diagrammtypen, die zur Visualisierung komplexer Softwareprozesse erstellt wurden, schattenfrei sind und direkt im HTML- und SVG-Format bereitgestellt werden. Diese Ressource, die zur Erläuterung der Arbeitsabläufe von KI-gestützten Codierungstools wie Claude Code und GitHub Copilot verwendet wird, bietet ein sauberes Design, ohne auf Bibliotheken von Drittanbietern angewiesen zu sein.",
+          "meta": "HTML · ★ 47.271 · +1.160 heute",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 47271,
+              "engagementCount": 1160,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1160
+              }
+            }
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Das von Alibaba entwickelte Open Code Review ist ein hybrides System, das Code-Review-Prozesse automatisiert. Durch die Kombination festgelegter Regelwerke (deterministic pipelines) mit Agenten für große Sprachmodelle (LLM) erkennt es Sicherheitslücken in der Software durch zeilenbasierte Kommentare.",
+          "meta": "Go · ★ 44.785 · +323 heute",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 44785,
+              "engagementCount": 323,
+              "rank": 5,
+              "extra": {
+                "starsToday": 323
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Die von Anthropic geteilten knowledge-work-plugins sind eine Open-Source-Plugin-Bibliothek, mit der Wissensarbeiter maßgeschneiderte Arbeitsabläufe für den KI-Assistenten Claude (KI-Modell) erstellen können. Dieses Python-basierte Toolset ermöglicht es Benutzern, verschiedene Automatisierungsfunktionen direkt in ihre Arbeitsumgebungen zu integrieren, um ihre Produktivität zu steigern.",
+          "meta": "Python · ★ 27.949 · +392 heute",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 27949,
+              "engagementCount": 392,
+              "rank": 6,
+              "extra": {
+                "starsToday": 392
+              }
+            }
+          }
+        },
+        {
+          "title": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "summary": "LiteLLM ist ein KI-Gateway, das über 100 Schnittstellen für große Sprachmodelle (LLM) in einem einzigen Standardformat vereint. Es bietet Softwareentwicklern Funktionen wie Kostenverfolgung, Lastverteilung und Guardrails, wodurch der Wechsel zwischen verschiedenen Modellanbietern erleichtert wird.",
+          "meta": "Python · ★ 60.446 · +95 heute",
+          "snapshot": {
+            "sourceId": "BerriAI/litellm",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60446,
+              "engagementCount": 95,
+              "rank": 7,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Die von Addy Osmani entwickelten agent-skills bieten produktionsreife technische Fähigkeiten (Skills) für KI-Codierungsagenten. Diese Bibliothek stellt standardisierte Werkzeuge bereit, damit Agenten, die Softwareentwicklungsprozesse automatisieren, komplexe Aufgaben ausführen können.",
+          "meta": "JavaScript · ★ 103.595 · +751 heute",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 103595,
+              "engagementCount": 751,
+              "rank": 8,
+              "extra": {
+                "starsToday": 751
+              }
+            }
+          }
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft ist eine intentional crafting engine, die für Künstler, Designer und Filmemacher entwickelt wurde. Dieses in Rust geschriebene Tool wird verwendet, um Arbeitsabläufe in kreativen Prozessen zu automatisieren und die Produktion digitaler Inhalte zu standardisieren.",
+          "meta": "Rust · ★ 9.618 · +2.103 heute",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 9618,
+              "engagementCount": 2103,
+              "rank": 9,
+              "extra": {
+                "starsToday": 2103
+              }
+            }
+          }
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "LingBot-Map ist ein auf einem geometrischen Kontext-Transformer basierendes Modell, das eine 3D-Rekonstruktion aus Datenströmen durchführt. Diese Arbeit, die für den Best Paper Award auf der ECCV 2026 nominiert wurde, zielt auf eine hohe Genauigkeit bei der Verarbeitung visueller Daten ab.",
+          "meta": "Python · ★ 17.517 · +109 heute",
+          "snapshot": {
+            "sourceId": "Robbyant/lingbot-map",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17517,
+              "engagementCount": 109,
+              "rank": 10,
+              "extra": {
+                "starsToday": 109
+              }
+            }
+          }
+        },
+        {
+          "title": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "summary": "SwiftUI-Agent-Skill bietet spezielle Skill-Pakete für KI-Modelle für das Interface-Design-Tool SwiftUI. Diese Ressource hilft KI-Codierungsassistenten wie Claude Code und Codex dabei, SwiftUI-Komponenten konsistenter und schneller zu erstellen.",
+          "meta": "★ 5.207 · +88 heute",
+          "snapshot": {
+            "sourceId": "twostraws/SwiftUI-Agent-Skill",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "popularity": 5207,
+              "engagementCount": 88,
+              "rank": 11,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+          "summary": "DeepSeek 4.1 Flash erregt mit seiner hohen Verarbeitungsgeschwindigkeit und dem Vorteil niedriger Kosten Aufmerksamkeit in der Welt der großen Sprachmodelle (Large Language Models). Das Modell fordert mit seiner Leistungseffizienz die aktuellen Industriestandards heraus und bietet Entwicklern eine zugänglichere KI-Infrastruktur.",
+          "meta": "811 Punkte · 717 Kommentare",
+          "snapshot": {
+            "sourceId": "50000488",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 811,
+              "engagementCount": 717,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50000488",
+                  "popularity": 811,
+                  "engagementCount": 717
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-08T00:14:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50000488"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50000488",
+              "popularity": 811,
+              "engagementCount": 717
+            }
+          ]
+        },
+        {
+          "title": "Whistle: Speech to Text in 16.9 MB",
+          "url": "https://cactuscompute.com/blog/whistle",
+          "summary": "Whistle ist ein Speech-to-Text-Tool, das nur 16,9 Megabyte groß ist und direkt auf dem Gerät läuft. Dank seiner leichtgewichtigen Struktur ermöglicht es eine schnelle und datenschutzorientierte Sprachverarbeitung ohne Internetverbindung.",
+          "meta": "792 Punkte · 159 Kommentare",
+          "snapshot": {
+            "sourceId": "50008427",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 792,
+              "engagementCount": 159,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50008427",
+                  "popularity": 792,
+                  "engagementCount": 159
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-08T16:59:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50008427"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50008427",
+              "popularity": 792,
+              "engagementCount": 159
+            }
+          ]
+        },
+        {
+          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+          "summary": "Es wurde festgestellt, dass die intelligente Kaffeemaschine der Eltern eines Nutzers innerhalb von zehn Tagen 1 Terabyte an Daten verbraucht hat. Dieser Vorfall hat die mangelnde Kontrolle über Netzwerksicherheit und Datennutzung bei Geräten des Internets der Dinge (IoT) in den Fokus gerückt.",
+          "meta": "733 Punkte · 450 Kommentare",
+          "snapshot": {
+            "sourceId": "49995495",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 450,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49995495",
+                  "popularity": 733,
+                  "engagementCount": 450
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-07T16:56:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49995495"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49995495",
+              "popularity": 733,
+              "engagementCount": 450
+            }
+          ]
+        },
+        {
+          "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+          "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+          "summary": "Nutzer verwenden benutzerdefinierte Zeichnungen, um ihre Dashboards im Hausautomationssystem Home Assistant zu personalisieren. Diese Methode, bei der eine Illustration des Hauses in eine digitale Benutzeroberfläche umgewandelt wird, ermöglicht die Steuerung intelligenter Geräte über eine visuelle Karte.",
+          "meta": "682 Punkte · 133 Kommentare",
+          "snapshot": {
+            "sourceId": "49986882",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 682,
+              "engagementCount": 133,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49986882",
+                  "popularity": 682,
+                  "engagementCount": 133
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-07T01:41:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49986882"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49986882",
+              "popularity": 682,
+              "engagementCount": 133
+            }
+          ]
+        },
+        {
+          "title": "Yes, and",
+          "url": "https://htmx.org/essays/yes-and/",
+          "summary": "HTMX ist eine Webentwicklungsbibliothek, die serverseitiges Rendering (Server-Side Rendering) mit clientseitiger Interaktion kombiniert. Als Alternative zu bestehenden JavaScript-Frameworks vereinfacht sie dynamische Inhaltsaktualisierungen über HTML-Attribute.",
+          "meta": "475 Punkte · 156 Kommentare",
+          "snapshot": {
+            "sourceId": "50003796",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 475,
+              "engagementCount": 156,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50003796",
+                  "popularity": 475,
+                  "engagementCount": 156
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-08T09:48:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50003796"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50003796",
+              "popularity": 475,
+              "engagementCount": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "Das auf HuggingFace geteilte JEV-27B-VL ist ein Bild-Text-zu-Text-Modell, das visuelle und textuelle Daten verarbeitet, um Textausgaben zu generieren. Dank seiner multimodalen Fähigkeiten analysiert es komplexe visuelle Inhalte und wandelt sie in aussagekräftige Texte um.",
+          "meta": "♥ 3.312 · 1.536.533 Downloads",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 3312,
+              "engagementCount": 1536533,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2758,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "decision-index",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "dataset:SargeDev/jev-distill-corpus-v3",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "autotrust/GEV-26B-Decide",
+          "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+          "summary": "Das auf HuggingFace geteilte GEV-26B-Decide ist ein KI-Modell, das für Textklassifizierungsaufgaben optimiert wurde. Es automatisiert den Prozess der Kategorisierung von Texten durch die Analyse komplexer Daten.",
+          "meta": "♥ 2.041 · 909.755 Downloads",
+          "snapshot": {
+            "sourceId": "autotrust/GEV-26B-Decide",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 2041,
+              "engagementCount": 909755,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1765,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "gemma4",
+                  "image-text-to-text",
+                  "system-one",
+                  "system-two",
+                  "adaptive-thinking",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "lora",
+                  "mixture-of-experts",
+                  "multimodal",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "base_model:google/gemma-4-26B-A4B-it",
+                  "base_model:adapter:google/gemma-4-26B-A4B-it",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Das von Google veröffentlichte EmbeddingGemma-2 ist ein Feature-Extraction-Modell, das Textdaten in numerische Vektoren umwandelt. Dieses Modell wird in Anwendungen wie Suchmaschinen und Empfehlungssystemen verwendet, um die semantische Ähnlichkeit zwischen Texten zu berechnen.",
+          "meta": "♥ 1.270 · 29.185 Downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 1270,
+              "engagementCount": 29185,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1230,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Das von Cloudflare entwickelte clef ist ein multimodales KI-Modell, das Bilder und Texte als Eingabe akzeptiert und Textausgaben generiert. Dieses Modell ermöglicht die Analyse visueller Inhalte für textbasierte Aufgaben.",
+          "meta": "♥ 1.911 · 12.066 Downloads",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 1911,
+              "engagementCount": 12066,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1193,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, entwickelt vom deutschen KI-Unternehmen Aleph-Alpha, ist ein großes Sprachmodell (Large Language Model) mit Textgenerierungsfähigkeiten. Das auf der Open-Source-KI-Plattform HuggingFace veröffentlichte Modell wurde entwickelt, um textbasierte Aufgaben in verschiedenen Anwendungsbereichen zu erfüllen.",
+          "meta": "♥ 826 · 8.474 Downloads",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 826,
+              "engagementCount": 8474,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 762,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+          "url": "https://huggingface.co/papers/2610.11794",
+          "summary": "Memento 3 ist eine Methode, die es großen Sprachmodellen (LLM) ermöglicht, durch die Nutzung eines externen Speichers ihre Interpretation der Außenwelt kontinuierlich zu verbessern. KI-Agenten passen sich neuen Umgebungen an, indem sie die aus ihren Erfahrungen gezogenen Schlussfolgerungen über in natürlicher Sprache verfasste Regelwerke (Rulebooks) aktualisieren.",
+          "meta": "3 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.11794",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11794",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue",
+          "url": "https://huggingface.co/papers/2610.06496",
+          "summary": "Große Sprachmodelle können in mehrstufigen Dialogen den Aufgabenfluss unterbrechen, wenn sie durch die bloße Erwähnung einer vom Benutzer abgelehnten Änderung beeinflusst werden. Das neue Benchmark-Tool namens Intent-Eval misst systematisch die Fähigkeit von Modellen, sich ändernde Benutzerabsichten in Bereichen wie Werkzeugnutzung, Programmierung und Mathematik zu verwalten.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.06496",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06496",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/junle-chen/intent",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+          "url": "https://huggingface.co/papers/2610.09059",
+          "summary": "EDiS ist ein Sparsification-Framework, das die Rechenkosten für Graph Neural Networks sencht. Indem der Graph einmal in diskrete Teilgraphen unterteilt wird, werden diese Teile in jeder Trainingsepoche neu kombiniert, was einen effizienten Trainingsprozess ermöglicht.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.09059",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09059",
+                "publishedAt": "2026-10-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SpaceFlow: Locally Controllable 3D Generation",
+          "url": "https://huggingface.co/papers/2610.12399",
+          "summary": "SpaceFlow ist eine Methode, die eine lokale Kontrolle über die Erstellung von 3D-Modellen mithilfe von Textbeschreibungen und geometrischen Grundformen ermöglicht. Benutzer können für bestimmte Bereiche des Objekts unterschiedliche Kontrollstufen festlegen, um die geometrische Wiedergabetreue und das Erscheinungsbild präzise zu steuern.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.12399",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12399",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/SpaceFlow3D/spaceflow",
+                "githubStars": 5
+              }
+            }
+          }
+        },
+        {
+          "title": "REMORY: Learning Residual Memory for Context Compaction",
+          "url": "https://huggingface.co/papers/2610.11287",
+          "summary": "REMORY ist eine neuronale Netzwerkarchitektur, die ergänzende Soft-Memory-Token aus Textzusammenfassungen für KI-Agenten generiert, die ein Langzeitgedächtnis benötigen. Diese Methode ermöglicht es großen Sprachmodellen (LLMs) mit begrenztem Kontextfenster, genauere Entscheidungen zu treffen, ohne die historischen Daten vollständig verarbeiten zu müssen.",
+          "meta": "2 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.11287",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11287",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/1ring2rta/Remory",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Fertige Programmdateien, die das Betriebssystem eines Computers direkt und ohne zusätzliche Werkzeuge ausführen kann."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Der Prozess, bei dem ein fertiges Produkt in seine Einzelteile zerlegt wird, um dessen Funktionsweise und Logik zu verstehen."
+    },
+    {
+      "term": "executables",
+      "explanation": "Anwendungsdateien, die durch einen Doppelklick auf dem Computer gestartet werden und eine bestimmte Aufgabe ausführen."
+    },
+    {
+      "term": "skill",
+      "explanation": "Eine spezielle Fähigkeit oder Funktion, die ein KI-System dem Benutzer bietet, indem es sich auf ein bestimmtes Thema spezialisiert."
+    },
+    {
+      "term": "deterministic pipelines",
+      "explanation": "Eine Abfolge regelmäßiger Prozessschritte, die bei gleicher Eingabe immer die gleiche Ausgabe liefert und keinen Raum für Überraschungen lässt."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit riesigen Datenmengen trainiert wurden und in der Lage sind, menschliche Sprache zu verstehen und Texte zu generieren."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Ein System, das als Brücke fungiert, um Anfragen an KI-Dienste zu verwalten, die Sicherheit zu gewährleisten und den Datenverkehr zu regulieren."
+    },
+    {
+      "term": "guardrails",
+      "explanation": "Sicherheitsgrenzen, die verhindern, dass ein KI-System fehlerhafte, schädliche oder unangemessene Inhalte generiert."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die Gesamtheit der spezialisierten Fähigkeiten, die KI-Systeme zur Erfüllung bestimmter Aufgaben einsetzen."
+    },
+    {
+      "term": "intentional crafting engine",
+      "explanation": "Eine spezielle Produktions-Engine, die darauf ausgelegt ist, Inhalte oder Produkte zu erstellen, die den Zielen des Benutzers entsprechen."
+    },
+    {
+      "term": "geometric context transformer",
+      "explanation": "Eine fortschrittliche Architektur der künstlichen Intelligenz, die die Position und Beziehung von Daten zueinander mathematisch analysiert und interpretiert."
+    },
+    {
+      "term": "large language models",
+      "explanation": "KI-Modelle, die mit riesigen Datenmengen trainiert wurden und in der Lage sind, menschliche Sprache zu verstehen und Texte zu generieren."
+    },
+    {
+      "term": "speech-to-text",
+      "explanation": "Eine Technologie, die gesprochene Worte anhört und diese simultan in geschriebenen Text umwandelt."
+    },
+    {
+      "term": "IoT",
+      "explanation": "Die Vernetzung physischer Geräte, wie Haushaltsgegenstände, mit dem Internet, damit sie miteinander und mit dem Benutzer kommunizieren können."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "Ein Verfahren, bei dem der Inhalt einer Webseite nicht auf dem Computer des Benutzers, sondern auf dem Server vorbereitet und fertig übermittelt wird."
+    },
+    {
+      "term": "frameworks",
+      "explanation": "Frameworks, die die Softwareentwicklung erleichtern, indem sie vorgefertigte Codestrukturen und eine Reihe von Regeln bereitstellen."
+    }
+  ]
+}

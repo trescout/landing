@@ -1,0 +1,414 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-09",
+  "capturedAt": "2026-10-09T11:21:15.946Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "summary": "LiteLLM is an AI gateway that unifies over 100 large language model (LLM) interfaces into a single standard format. It makes it easier for software developers to switch between different model providers by offering features such as cost tracking, load balancing, and guardrails.",
+          "meta": "Python · ★ 60,446 · +95 today",
+          "snapshot": {
+            "sourceId": "BerriAI/litellm",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60446,
+              "engagementCount": 95,
+              "rank": 7,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "LingBot-Map is a geometric context transformer-based model that performs 3D reconstruction from streaming data. Nominated for the best paper award at the ECCV 2026 conference, this study aims for high accuracy in processing visual data.",
+          "meta": "Python · ★ 17,517 · +109 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Robbyant/lingbot-map",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17517,
+              "engagementCount": 109,
+              "rank": 10,
+              "extra": {
+                "starsToday": 109
+              }
+            }
+          }
+        },
+        {
+          "title": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "summary": "SwiftUI-Agent-Skill offers AI model-specific skill packages for the interface development tool SwiftUI. This resource helps AI coding assistants like Claude Code and Codex create SwiftUI components more consistently and quickly.",
+          "meta": "★ 5,207 · +88 today",
+          "snapshot": {
+            "sourceId": "twostraws/SwiftUI-Agent-Skill",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "popularity": 5207,
+              "engagementCount": 88,
+              "rank": 11,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+          "summary": "DeepSeek 4.1 Flash is attracting attention in the world of large language models with its high processing speed and low-cost advantage. The model challenges current industry standards with its performance efficiency, offering developers a more accessible artificial intelligence infrastructure.",
+          "meta": "811 points · 717 comments",
+          "snapshot": {
+            "sourceId": "50000488",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 811,
+              "engagementCount": 717,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50000488",
+                  "popularity": 811,
+                  "engagementCount": 717
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-08T00:14:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50000488"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50000488",
+              "popularity": 811,
+              "engagementCount": 717
+            }
+          ]
+        },
+        {
+          "title": "Whistle: Speech to Text in 16.9 MB",
+          "url": "https://cactuscompute.com/blog/whistle",
+          "summary": "Whistle is a speech-to-text tool that is only 16.9 megabytes in size and runs on-device. Thanks to its lightweight structure, it offers fast and privacy-focused voice processing without the need for an internet connection.",
+          "meta": "792 points · 159 comments",
+          "snapshot": {
+            "sourceId": "50008427",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 792,
+              "engagementCount": 159,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50008427",
+                  "popularity": 792,
+                  "engagementCount": 159
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-08T16:59:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50008427"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50008427",
+              "popularity": 792,
+              "engagementCount": 159
+            }
+          ]
+        },
+        {
+          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+          "summary": "It was discovered that a smart coffee machine belonging to a user's parents consumed 1 terabyte of data in ten days. This situation brought up the lack of oversight regarding network security and data usage of Internet of Things (IoT) devices.",
+          "meta": "733 points · 450 comments",
+          "snapshot": {
+            "sourceId": "49995495",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 450,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49995495",
+                  "popularity": 733,
+                  "engagementCount": 450
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-07T16:56:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49995495"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49995495",
+              "popularity": 733,
+              "engagementCount": 450
+            }
+          ]
+        },
+        {
+          "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+          "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+          "summary": "Users are using custom drawings to personalize their control panels on the home automation system Home Assistant. This method, which turns an illustration of the house into a digital interface, allows smart devices to be managed via a visual map.",
+          "meta": "682 points · 133 comments",
+          "snapshot": {
+            "sourceId": "49986882",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 682,
+              "engagementCount": 133,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49986882",
+                  "popularity": 682,
+                  "engagementCount": 133
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-07T01:41:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49986882"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49986882",
+              "popularity": 682,
+              "engagementCount": 133
+            }
+          ]
+        },
+        {
+          "title": "Yes, and",
+          "url": "https://htmx.org/essays/yes-and/",
+          "summary": "HTMX is a web development library that combines server-side rendering with client-side interaction. As an alternative to existing JavaScript frameworks, it simplifies dynamic content updates through HTML attributes.",
+          "meta": "475 points · 156 comments",
+          "snapshot": {
+            "sourceId": "50003796",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 475,
+              "engagementCount": 156,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50003796",
+                  "popularity": 475,
+                  "engagementCount": 156
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-08T09:48:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50003796"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50003796",
+              "popularity": 475,
+              "engagementCount": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+          "url": "https://huggingface.co/papers/2610.11794",
+          "summary": "Memento 3 is a method that allows large language models (LLMs) to continuously improve models that make sense of the outside world by using external memory. Artificial intelligence agents adapt to new environments by updating the conclusions they draw from their experiences through rulebooks written in natural language.",
+          "meta": "3 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.11794",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11794",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue",
+          "url": "https://huggingface.co/papers/2610.06496",
+          "summary": "Large language models can disrupt task flow in multi-step dialogues by being influenced just by the mention of a change rejected by the user. A new benchmark tool called Intent-Eval systematically measures models' ability to manage changing user intentions in areas such as tool use, coding, and mathematics.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.06496",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06496",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/junle-chen/intent",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+          "url": "https://huggingface.co/papers/2610.09059",
+          "summary": "EDiS is a sparsification framework that reduces computational cost for graph neural networks. By partitioning the graph into disjoint subgraphs once, it recombines these parts during each training epoch to provide an efficient training process.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.09059",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09059",
+                "publishedAt": "2026-10-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SpaceFlow: Locally Controllable 3D Generation",
+          "url": "https://huggingface.co/papers/2610.12399",
+          "summary": "SpaceFlow is a method that provides local control over 3D model generation using text descriptions and geometric primitive shapes. Users can precisely manage geometric fidelity and appearance by assigning different levels of control to specific regions of the object.",
+          "meta": "2 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.12399",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12399",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/SpaceFlow3D/spaceflow",
+                "githubStars": 5
+              }
+            }
+          }
+        },
+        {
+          "title": "REMORY: Learning Residual Memory for Context Compaction",
+          "url": "https://huggingface.co/papers/2610.11287",
+          "summary": "REMORY is a neural network architecture that generates soft memory tokens to complement text summaries for AI agents requiring long-term memory. This method allows large language models (LLMs) with limited context windows to make more accurate decisions without processing historical data in its entirety.",
+          "meta": "2 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2610.11287",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11287",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/1ring2rta/Remory",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "A specialized capability or function offered to the user by an AI system that has become an expert in a specific subject."
+    },
+    {
+      "term": "LLM",
+      "explanation": "AI models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "A system that acts as a bridge to manage requests coming to AI services, ensure security, and regulate traffic."
+    },
+    {
+      "term": "guardrails",
+      "explanation": "Security boundaries that prevent an AI system from generating erroneous, harmful, or inappropriate content."
+    },
+    {
+      "term": "skills",
+      "explanation": "A set of specialized capabilities that AI systems use to perform specific tasks."
+    },
+    {
+      "term": "geometric context transformer",
+      "explanation": "An advanced artificial intelligence architecture that interprets data by mathematically analyzing its position and relationship to one another."
+    },
+    {
+      "term": "large language models",
+      "explanation": "AI models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "speech-to-text",
+      "explanation": "Technology that listens to spoken words and converts them into written text in real-time."
+    },
+    {
+      "term": "IoT",
+      "explanation": "The connection of physical devices, such as household items, to the internet to communicate with each other and the user."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "The process where a web page's content is prepared on the server rather than on the user's computer and sent in a ready-to-use state."
+    },
+    {
+      "term": "frameworks",
+      "explanation": "Skeleton systems that facilitate software development by providing ready-made code structures and a set of rules."
+    }
+  ]
+}

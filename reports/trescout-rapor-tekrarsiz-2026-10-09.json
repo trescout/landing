@@ -1,0 +1,414 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-09",
+  "capturedAt": "2026-10-09T11:21:15.946Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "summary": "LiteLLM, 100'den fazla büyük dil modeli (LLM) arayüzünü tek bir standart formatta birleştiren bir yapay zekâ ağ geçidi (AI gateway). Yazılım geliştiricilere maliyet takibi, yük dengeleme ve güvenlik duvarı (guardrails) gibi özellikler sunarak farklı model sağlayıcıları arasında geçiş yapmayı kolaylaştırıyor.",
+          "meta": "Python · ★ 60.446 · +95 bugün",
+          "snapshot": {
+            "sourceId": "BerriAI/litellm",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60446,
+              "engagementCount": 95,
+              "rank": 7,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "LingBot-Map, akış halindeki verilerden üç boyutlu yeniden oluşturma (3D reconstruction) yapan geometrik bağlam dönüştürücü (geometric context transformer) tabanlı bir modeldir. ECCV 2026 konferansında en iyi makale ödülüne aday gösterilen bu çalışma, görsel verilerin işlenmesinde yüksek doğruluk hedefliyor.",
+          "meta": "Python · ★ 17.517 · +109 bugün",
+          "snapshot": {
+            "sourceId": "Robbyant/lingbot-map",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17517,
+              "engagementCount": 109,
+              "rank": 10,
+              "extra": {
+                "starsToday": 109
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "summary": "SwiftUI-Agent-Skill, arayüz geliştirme aracı SwiftUI için yapay zekâ modellerine özel yetenek paketleri (skills) sunuyor. Bu kaynak, Claude Code ve Codex gibi yapay zekâ kodlama asistanlarının SwiftUI bileşenlerini daha tutarlı ve hızlı oluşturmasına yardımcı oluyor.",
+          "meta": "★ 5.207 · +88 bugün",
+          "snapshot": {
+            "sourceId": "twostraws/SwiftUI-Agent-Skill",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "popularity": 5207,
+              "engagementCount": 88,
+              "rank": 11,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+          "summary": "DeepSeek 4.1 Flash, yüksek işlem hızı ve düşük maliyet avantajıyla büyük dil modelleri (large language models) dünyasında dikkat çekiyor. Model, performans verimliliğiyle mevcut endüstri standartlarını zorlayarak geliştiricilere daha erişilebilir bir yapay zekâ altyapısı sunuyor.",
+          "meta": "811 oy · 717 yorum",
+          "snapshot": {
+            "sourceId": "50000488",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 811,
+              "engagementCount": 717,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50000488",
+                  "popularity": 811,
+                  "engagementCount": 717
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-08T00:14:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50000488"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50000488",
+              "popularity": 811,
+              "engagementCount": 717
+            }
+          ]
+        },
+        {
+          "title": "Whistle: Speech to Text in 16.9 MB",
+          "url": "https://cactuscompute.com/blog/whistle",
+          "summary": "Whistle, sadece 16,9 megabayt boyutunda olan ve cihaz üzerinde çalışan bir konuşmayı metne dönüştürme (speech-to-text) aracıdır. Hafif yapısı sayesinde internet bağlantısına ihtiyaç duymadan hızlı ve gizlilik odaklı ses işleme imkânı sunar.",
+          "meta": "792 oy · 159 yorum",
+          "snapshot": {
+            "sourceId": "50008427",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 792,
+              "engagementCount": 159,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50008427",
+                  "popularity": 792,
+                  "engagementCount": 159
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-08T16:59:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50008427"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50008427",
+              "popularity": 792,
+              "engagementCount": 159
+            }
+          ]
+        },
+        {
+          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+          "summary": "Bir kullanıcının ebeveynlerine ait akıllı kahve makinesinin on gün içinde 1 terabayt veri tükettiği tespit edildi. Bu durum, nesnelerin interneti (IoT) cihazlarının ağ güvenliği ve veri kullanımı üzerindeki denetim eksikliklerini gündeme getirdi.",
+          "meta": "733 oy · 450 yorum",
+          "snapshot": {
+            "sourceId": "49995495",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 450,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49995495",
+                  "popularity": 733,
+                  "engagementCount": 450
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-07T16:56:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49995495"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49995495",
+              "popularity": 733,
+              "engagementCount": 450
+            }
+          ]
+        },
+        {
+          "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+          "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+          "summary": "Kullanıcılar, ev otomasyon sistemi Home Assistant üzerinde kontrol panellerini kişiselleştirmek için özel çizimler kullanıyor. Evin illüstrasyonunu dijital bir arayüze dönüştüren bu yöntem, akıllı cihazların görsel bir harita üzerinden yönetilmesini sağlıyor.",
+          "meta": "682 oy · 133 yorum",
+          "snapshot": {
+            "sourceId": "49986882",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 682,
+              "engagementCount": 133,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49986882",
+                  "popularity": 682,
+                  "engagementCount": 133
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-07T01:41:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49986882"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49986882",
+              "popularity": 682,
+              "engagementCount": 133
+            }
+          ]
+        },
+        {
+          "title": "Yes, and",
+          "url": "https://htmx.org/essays/yes-and/",
+          "summary": "HTMX, sunucu tarafı işleme (server-side rendering) ile istemci tarafı etkileşimi birleştiren bir web geliştirme kütüphanesi. Mevcut JavaScript çerçevelerine (frameworks) alternatif olarak, HTML öznitelikleri üzerinden dinamik içerik güncellemelerini basitleştiriyor.",
+          "meta": "475 oy · 156 yorum",
+          "snapshot": {
+            "sourceId": "50003796",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 475,
+              "engagementCount": 156,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50003796",
+                  "popularity": 475,
+                  "engagementCount": 156
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-08T09:48:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50003796"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50003796",
+              "popularity": 475,
+              "engagementCount": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+          "url": "https://huggingface.co/papers/2610.11794",
+          "summary": "Memento 3, büyük dil modellerinin (LLM) dış bellek kullanarak dış dünyayı anlamlandıran modelleri sürekli geliştirmesini sağlayan bir yöntemdir. Yapay zekâ ajanları, doğal dilde yazılmış kural kitapları (rulebooks) aracılığıyla deneyimlerinden çıkardığı sonuçları güncelleyerek yeni ortamlara uyum sağlar.",
+          "meta": "3 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.11794",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11794",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue",
+          "url": "https://huggingface.co/papers/2610.06496",
+          "summary": "Büyük dil modelleri, çok adımlı diyaloglarda kullanıcı tarafından reddedilen bir değişikliğin sadece telaffuz edilmesinden etkilenerek görev akışını bozabiliyor. Intent-Eval adlı yeni kıyaslama aracı (benchmark), modellerin değişen kullanıcı niyetlerini yönetme becerisini araç kullanımı, kodlama ve matematik gibi alanlarda sistematik olarak ölçüyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.06496",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06496",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/junle-chen/intent",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+          "url": "https://huggingface.co/papers/2610.09059",
+          "summary": "EDiS, çizge sinir ağları (graph neural networks) için hesaplama maliyetini düşüren bir seyreltme çerçevesi (sparsification framework). Çizgeyi bir kez ayrık alt çizgelere bölerek, her eğitim döneminde bu parçaları yeniden birleştirip verimli bir eğitim süreci sağlıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.09059",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09059",
+                "publishedAt": "2026-10-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SpaceFlow: Locally Controllable 3D Generation",
+          "url": "https://huggingface.co/papers/2610.12399",
+          "summary": "SpaceFlow, metin tanımları ve geometrik temel şekiller kullanarak üç boyutlu model üretimi üzerinde yerel kontrol sağlayan bir yöntemdir. Kullanıcılar, nesnenin belirli bölgeleri için farklı kontrol seviyeleri atayarak geometrik sadakati ve görünümü hassas bir şekilde yönetebilir.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.12399",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12399",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/SpaceFlow3D/spaceflow",
+                "githubStars": 5
+              }
+            }
+          }
+        },
+        {
+          "title": "REMORY: Learning Residual Memory for Context Compaction",
+          "url": "https://huggingface.co/papers/2610.11287",
+          "summary": "REMORY, uzun süreli bellek gerektiren yapay zekâ ajanları için metin özetlerini tamamlayıcı yumuşak bellek belirteçleri (soft memory tokens) üreten bir sinir ağı mimarisi. Bu yöntem, sınırlı bağlam penceresine (context window) sahip büyük dil modellerinin (LLM) geçmiş veriyi tam olarak işlemeden daha doğru kararlar almasını sağlıyor.",
+          "meta": "2 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.11287",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11287",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/1ring2rta/Remory",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "Bir yapay zekâ sisteminin belirli bir konuda uzmanlaşarak kullanıcıya sunduğu özel yetenek veya işlev."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Yapay zekâ servislerine gelen istekleri yöneten, güvenliği sağlayan ve trafiği düzenleyen bir köprü görevi gören sistem."
+    },
+    {
+      "term": "guardrails",
+      "explanation": "Yapay zekânın hatalı, zararlı veya uygunsuz içerik üretmesini engelleyen güvenlik sınırları."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ sistemlerinin belirli görevleri yerine getirmek için kullandığı özelleşmiş yetenekler bütünü."
+    },
+    {
+      "term": "geometric context transformer",
+      "explanation": "Verilerin birbirine olan konumunu ve ilişkisini matematiksel olarak analiz ederek anlamlandıran gelişmiş bir yapay zekâ mimarisi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "speech-to-text",
+      "explanation": "Söylenen sözleri dinleyip bunları eş zamanlı olarak yazılı metne dönüştüren teknoloji."
+    },
+    {
+      "term": "IoT",
+      "explanation": "Evdeki eşyalar gibi fiziksel cihazların internete bağlanarak birbirleriyle ve kullanıcıyla haberleşmesi."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "Bir web sayfasının içeriğinin kullanıcının bilgisayarında değil, sunucuda hazırlanıp hazır halde gönderilmesi."
+    },
+    {
+      "term": "frameworks",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır kod yapıları ve kurallar bütünü sunan iskelet sistemler."
+    }
+  ]
+}

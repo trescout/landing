@@ -1,0 +1,414 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-09",
+  "capturedAt": "2026-10-09T11:21:15.946Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "summary": "LiteLLM é um gateway de IA que combina mais de 100 interfaces de grandes modelos de linguagem (LLM) em um único formato padrão. Ele oferece aos desenvolvedores de software recursos como rastreamento de custos, balanceamento de carga e firewalls (guardrails), facilitando a alternância entre diferentes provedores de modelos.",
+          "meta": "Python · ★ 60.446 · +95 hoje",
+          "snapshot": {
+            "sourceId": "BerriAI/litellm",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60446,
+              "engagementCount": 95,
+              "rank": 7,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "LingBot-Map é um modelo baseado em transformador de contexto geométrico (geometric context transformer) que realiza reconstrução 3D (3D reconstruction) a partir de dados em fluxo. Este trabalho, indicado ao prêmio de melhor artigo na conferência ECCV 2026, visa alta precisão no processamento de dados visuais.",
+          "meta": "Python · ★ 17.517 · +109 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Robbyant/lingbot-map",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17517,
+              "engagementCount": 109,
+              "rank": 10,
+              "extra": {
+                "starsToday": 109
+              }
+            }
+          }
+        },
+        {
+          "title": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "summary": "SwiftUI-Agent-Skill oferece pacotes de habilidades (skills) específicos para modelos de inteligência artificial para a ferramenta de desenvolvimento de interface SwiftUI. Este recurso ajuda assistentes de codificação de IA, como Claude Code e Codex, a criar componentes SwiftUI de forma mais consistente e rápida.",
+          "meta": "★ 5.207 · +88 hoje",
+          "snapshot": {
+            "sourceId": "twostraws/SwiftUI-Agent-Skill",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "popularity": 5207,
+              "engagementCount": 88,
+              "rank": 11,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+          "summary": "O DeepSeek 4.1 Flash chama a atenção no mundo dos grandes modelos de linguagem (large language models) com sua alta velocidade de processamento e vantagem de baixo custo. O modelo desafia os padrões atuais da indústria com sua eficiência de desempenho, oferecendo aos desenvolvedores uma infraestrutura de inteligência artificial mais acessível.",
+          "meta": "811 pontos · 717 comentários",
+          "snapshot": {
+            "sourceId": "50000488",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 811,
+              "engagementCount": 717,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50000488",
+                  "popularity": 811,
+                  "engagementCount": 717
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-08T00:14:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50000488"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50000488",
+              "popularity": 811,
+              "engagementCount": 717
+            }
+          ]
+        },
+        {
+          "title": "Whistle: Speech to Text in 16.9 MB",
+          "url": "https://cactuscompute.com/blog/whistle",
+          "summary": "O Whistle é uma ferramenta de conversão de fala em texto (speech-to-text) que possui apenas 16,9 megabytes e funciona diretamente no dispositivo. Graças à sua estrutura leve, oferece processamento de áudio rápido e focado na privacidade, sem a necessidade de conexão com a internet.",
+          "meta": "792 pontos · 159 comentários",
+          "snapshot": {
+            "sourceId": "50008427",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 792,
+              "engagementCount": 159,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50008427",
+                  "popularity": 792,
+                  "engagementCount": 159
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-08T16:59:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50008427"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50008427",
+              "popularity": 792,
+              "engagementCount": 159
+            }
+          ]
+        },
+        {
+          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+          "summary": "Foi detectado que a cafeteira inteligente dos pais de um usuário consumiu 1 terabyte de dados em dez dias. Esta situação trouxe à tona a falta de controle sobre a segurança de rede e o uso de dados de dispositivos da internet das coisas (IoT).",
+          "meta": "733 pontos · 450 comentários",
+          "snapshot": {
+            "sourceId": "49995495",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 450,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49995495",
+                  "popularity": 733,
+                  "engagementCount": 450
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-07T16:56:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49995495"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49995495",
+              "popularity": 733,
+              "engagementCount": 450
+            }
+          ]
+        },
+        {
+          "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+          "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+          "summary": "Os usuários utilizam desenhos personalizados para personalizar painéis de controle no sistema de automação residencial Home Assistant. Este método, que transforma a ilustração da casa em uma interface digital, permite que os dispositivos inteligentes sejam gerenciados através de um mapa visual.",
+          "meta": "682 pontos · 133 comentários",
+          "snapshot": {
+            "sourceId": "49986882",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 682,
+              "engagementCount": 133,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49986882",
+                  "popularity": 682,
+                  "engagementCount": 133
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-07T01:41:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49986882"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49986882",
+              "popularity": 682,
+              "engagementCount": 133
+            }
+          ]
+        },
+        {
+          "title": "Yes, and",
+          "url": "https://htmx.org/essays/yes-and/",
+          "summary": "HTMX é uma biblioteca de desenvolvimento web que combina renderização no lado do servidor (server-side rendering) com a interação no lado do cliente. Como alternativa aos frameworks JavaScript existentes, simplifica as atualizações de conteúdo dinâmico por meio de atributos HTML.",
+          "meta": "475 pontos · 156 comentários",
+          "snapshot": {
+            "sourceId": "50003796",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 475,
+              "engagementCount": 156,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50003796",
+                  "popularity": 475,
+                  "engagementCount": 156
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-08T09:48:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50003796"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50003796",
+              "popularity": 475,
+              "engagementCount": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+          "url": "https://huggingface.co/papers/2610.11794",
+          "summary": "O Memento 3 é um método que permite que grandes modelos de linguagem (LLM) melhorem continuamente os modelos que interpretam o mundo exterior usando memória externa. Agentes de inteligência artificial adaptam-se a novos ambientes atualizando as conclusões extraídas de suas experiências por meio de manuais de regras (rulebooks) escritos em linguagem natural.",
+          "meta": "3 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.11794",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11794",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue",
+          "url": "https://huggingface.co/papers/2610.06496",
+          "summary": "Grandes modelos de linguagem podem interromper o fluxo de tarefas em diálogos de várias etapas ao serem influenciados apenas pela menção de uma alteração rejeitada pelo usuário. A nova ferramenta de benchmark chamada Intent-Eval mede sistematicamente a capacidade dos modelos de gerenciar intenções variáveis do usuário em áreas como uso de ferramentas, codificação e matemática.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.06496",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06496",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/junle-chen/intent",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+          "url": "https://huggingface.co/papers/2610.09059",
+          "summary": "EDiS é uma estrutura de esparsificação (sparsification framework) que reduz o custo computacional para redes neurais em grafos (graph neural networks). Ao dividir o grafo em subgrafos discretos uma única vez, ele recombina essas partes a cada época de treinamento, proporcionando um processo de treinamento eficiente.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.09059",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09059",
+                "publishedAt": "2026-10-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SpaceFlow: Locally Controllable 3D Generation",
+          "url": "https://huggingface.co/papers/2610.12399",
+          "summary": "SpaceFlow é um método que fornece controle local sobre a geração de modelos 3D usando descrições de texto e formas geométricas básicas. Os usuários podem gerenciar com precisão a fidelidade geométrica e a aparência, atribuindo diferentes níveis de controle a regiões específicas do objeto.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.12399",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12399",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/SpaceFlow3D/spaceflow",
+                "githubStars": 5
+              }
+            }
+          }
+        },
+        {
+          "title": "REMORY: Learning Residual Memory for Context Compaction",
+          "url": "https://huggingface.co/papers/2610.11287",
+          "summary": "REMORY é uma arquitetura de rede neural que gera tokens de memória suave (soft memory tokens) complementares a resumos de texto para agentes de inteligência artificial que exigem memória de longo prazo. Este método permite que grandes modelos de linguagem (LLMs) com janelas de contexto limitadas tomem decisões mais precisas sem processar totalmente os dados históricos.",
+          "meta": "2 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2610.11287",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11287",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/1ring2rta/Remory",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "Uma habilidade ou função especial que um sistema de inteligência artificial oferece ao usuário ao se especializar em um determinado assunto."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com volumes massivos de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Um sistema que atua como uma ponte, gerenciando solicitações enviadas a serviços de inteligência artificial, garantindo a segurança e regulando o tráfego."
+    },
+    {
+      "term": "guardrails",
+      "explanation": "Limites de segurança que impedem que sistemas de inteligência artificial gerem conteúdo incorreto, prejudicial ou inadequado."
+    },
+    {
+      "term": "skills",
+      "explanation": "Um conjunto de habilidades especializadas que os sistemas de inteligência artificial utilizam para realizar tarefas específicas."
+    },
+    {
+      "term": "geometric context transformer",
+      "explanation": "Uma arquitetura avançada de inteligência artificial que analisa e interpreta matematicamente a posição e a relação dos dados entre si."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com volumes massivos de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "speech-to-text",
+      "explanation": "Tecnologia que ouve as palavras ditas e as converte simultaneamente em texto escrito."
+    },
+    {
+      "term": "IoT",
+      "explanation": "A conexão de dispositivos físicos, como eletrodomésticos, à internet para que se comuniquem entre si e com o usuário."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "O processo em que o conteúdo de uma página da web é preparado no servidor e enviado pronto, em vez de ser processado no computador do usuário."
+    },
+    {
+      "term": "frameworks",
+      "explanation": "Sistemas de estrutura que facilitam o desenvolvimento de software, oferecendo conjuntos de códigos prontos e regras."
+    }
+  ]
+}

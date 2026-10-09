@@ -1,0 +1,800 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-09",
+  "capturedAt": "2026-10-09T11:21:15.946Z",
+  "editorial": "No ecossistema de inteligência artificial, hoje destacam-se modelos leves (lightweight models) focados em eficiência e arquiteturas de autoaperfeiçoamento (self-improvement architectures). As discussões sobre o impacto industrial do modelo DeepSeek 4.1 Flash combinam-se com a popularidade de ferramentas de processamento de voz (speech-to-text) que oferecem alto desempenho com baixo uso de memória.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "Rea é uma ferramenta de engenharia reversa (reverse engineering) baseada em inteligência artificial que analisa tudo, desde comportamentos de aplicativos até binários nativos (native binaries). Desenvolvido em TypeScript, este software visa resolver a lógica de funcionamento de sistemas complexos por meio de agentes automatizados.",
+          "meta": "TypeScript · ★ 34.146 · +7.738 hoje",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 34146,
+              "engagementCount": 7738,
+              "rank": 1,
+              "extra": {
+                "starsToday": 7738
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 é uma ferramenta que porta automaticamente executáveis (executables) do PlayStation 5 para os sistemas operacionais Linux e Windows. Desenvolvido na linguagem C++, este software oferece um processo de conversão que permite que códigos de jogos exclusivos de console sejam executados em diferentes plataformas.",
+          "meta": "C++ · ★ 18.534 · +4.669 hoje",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 18534,
+              "engagementCount": 4669,
+              "rank": 2,
+              "extra": {
+                "starsToday": 4669
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositório, compartilhado por Matt Pocock, reúne conjuntos de habilidades (skill) personalizados que desenvolvedores de software usam para agentes de inteligência artificial. Esses comandos prontos, utilizados pelos desenvolvedores em seus próprios ambientes de trabalho, visam padronizar os processos de automação.",
+          "meta": "Shell · ★ 281.906 · +1.774 hoje",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 281906,
+              "engagementCount": 1774,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1774
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design consiste em 42 tipos diferentes de esquemas preparados para visualizar processos complexos de software, sem sombras e apresentados diretamente em formato HTML e SVG. Este recurso, usado para explicar os fluxos de trabalho de ferramentas de codificação baseadas em IA, como Claude Code e GitHub Copilot, oferece um design limpo sem a necessidade de bibliotecas de terceiros.",
+          "meta": "HTML · ★ 47.271 · +1.160 hoje",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 47271,
+              "engagementCount": 1160,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1160
+              }
+            }
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "O Open Code Review, desenvolvido pelo Alibaba, é um sistema híbrido que automatiza processos de revisão de código. Combinando conjuntos de regras predeterminadas (deterministic pipelines) com agentes de grandes modelos de linguagem (LLM), ele detecta vulnerabilidades de segurança de software com comentários linha a linha.",
+          "meta": "Go · ★ 44.785 · +323 hoje",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 44785,
+              "engagementCount": 323,
+              "rank": 5,
+              "extra": {
+                "starsToday": 323
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "O knowledge-work-plugins, compartilhado pela Anthropic, é uma biblioteca de plugins de código aberto que permite que trabalhadores do conhecimento criem fluxos de trabalho personalizados no assistente de inteligência artificial Claude (modelo de IA). Este conjunto de ferramentas baseado em Python permite que os usuários integrem várias capacidades de automação diretamente em seus ambientes de trabalho para aumentar a produtividade.",
+          "meta": "Python · ★ 27.949 · +392 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 27949,
+              "engagementCount": 392,
+              "rank": 6,
+              "extra": {
+                "starsToday": 392
+              }
+            }
+          }
+        },
+        {
+          "title": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "summary": "LiteLLM é um gateway de IA que combina mais de 100 interfaces de grandes modelos de linguagem (LLM) em um único formato padrão. Ele oferece aos desenvolvedores de software recursos como rastreamento de custos, balanceamento de carga e firewalls (guardrails), facilitando a alternância entre diferentes provedores de modelos.",
+          "meta": "Python · ★ 60.446 · +95 hoje",
+          "snapshot": {
+            "sourceId": "BerriAI/litellm",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60446,
+              "engagementCount": 95,
+              "rank": 7,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "O agent-skills, desenvolvido por Addy Osmani, oferece habilidades (skills) de engenharia de nível de produção para agentes de codificação de IA. Esta biblioteca fornece ferramentas padronizadas para que agentes que automatizam processos de desenvolvimento de software possam realizar tarefas complexas.",
+          "meta": "JavaScript · ★ 103.595 · +751 hoje",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 103595,
+              "engagementCount": 751,
+              "rank": 8,
+              "extra": {
+                "starsToday": 751
+              }
+            }
+          }
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft é um motor de criação intencional (intentional crafting engine) desenvolvido para artistas, designers e cineastas. Escrita na linguagem Rust, esta ferramenta é usada para automatizar fluxos de trabalho em processos criativos e padronizar a produção de conteúdo digital.",
+          "meta": "Rust · ★ 9.618 · +2.103 hoje",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 9618,
+              "engagementCount": 2103,
+              "rank": 9,
+              "extra": {
+                "starsToday": 2103
+              }
+            }
+          }
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "LingBot-Map é um modelo baseado em transformador de contexto geométrico (geometric context transformer) que realiza reconstrução 3D (3D reconstruction) a partir de dados em fluxo. Este trabalho, indicado ao prêmio de melhor artigo na conferência ECCV 2026, visa alta precisão no processamento de dados visuais.",
+          "meta": "Python · ★ 17.517 · +109 hoje",
+          "snapshot": {
+            "sourceId": "Robbyant/lingbot-map",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17517,
+              "engagementCount": 109,
+              "rank": 10,
+              "extra": {
+                "starsToday": 109
+              }
+            }
+          }
+        },
+        {
+          "title": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "summary": "SwiftUI-Agent-Skill oferece pacotes de habilidades (skills) específicos para modelos de inteligência artificial para a ferramenta de desenvolvimento de interface SwiftUI. Este recurso ajuda assistentes de codificação de IA, como Claude Code e Codex, a criar componentes SwiftUI de forma mais consistente e rápida.",
+          "meta": "★ 5.207 · +88 hoje",
+          "snapshot": {
+            "sourceId": "twostraws/SwiftUI-Agent-Skill",
+            "capturedAt": "2026-10-09T11:21:17.079Z",
+            "metadata": {
+              "popularity": 5207,
+              "engagementCount": 88,
+              "rank": 11,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+          "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+          "summary": "O DeepSeek 4.1 Flash chama a atenção no mundo dos grandes modelos de linguagem (large language models) com sua alta velocidade de processamento e vantagem de baixo custo. O modelo desafia os padrões atuais da indústria com sua eficiência de desempenho, oferecendo aos desenvolvedores uma infraestrutura de inteligência artificial mais acessível.",
+          "meta": "811 pontos · 717 comentários",
+          "snapshot": {
+            "sourceId": "50000488",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 811,
+              "engagementCount": 717,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50000488",
+                  "popularity": 811,
+                  "engagementCount": 717
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-08T00:14:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50000488"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50000488",
+              "popularity": 811,
+              "engagementCount": 717
+            }
+          ]
+        },
+        {
+          "title": "Whistle: Speech to Text in 16.9 MB",
+          "url": "https://cactuscompute.com/blog/whistle",
+          "summary": "O Whistle é uma ferramenta de conversão de fala em texto (speech-to-text) que possui apenas 16,9 megabytes e funciona diretamente no dispositivo. Graças à sua estrutura leve, oferece processamento de áudio rápido e focado na privacidade, sem a necessidade de conexão com a internet.",
+          "meta": "792 pontos · 159 comentários",
+          "snapshot": {
+            "sourceId": "50008427",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 792,
+              "engagementCount": 159,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50008427",
+                  "popularity": 792,
+                  "engagementCount": 159
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-08T16:59:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50008427"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50008427",
+              "popularity": 792,
+              "engagementCount": 159
+            }
+          ]
+        },
+        {
+          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+          "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+          "summary": "Foi detectado que a cafeteira inteligente dos pais de um usuário consumiu 1 terabyte de dados em dez dias. Esta situação trouxe à tona a falta de controle sobre a segurança de rede e o uso de dados de dispositivos da internet das coisas (IoT).",
+          "meta": "733 pontos · 450 comentários",
+          "snapshot": {
+            "sourceId": "49995495",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 450,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49995495",
+                  "popularity": 733,
+                  "engagementCount": 450
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-07T16:56:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49995495"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49995495",
+              "popularity": 733,
+              "engagementCount": 450
+            }
+          ]
+        },
+        {
+          "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+          "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+          "summary": "Os usuários utilizam desenhos personalizados para personalizar painéis de controle no sistema de automação residencial Home Assistant. Este método, que transforma a ilustração da casa em uma interface digital, permite que os dispositivos inteligentes sejam gerenciados através de um mapa visual.",
+          "meta": "682 pontos · 133 comentários",
+          "snapshot": {
+            "sourceId": "49986882",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 682,
+              "engagementCount": 133,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49986882",
+                  "popularity": 682,
+                  "engagementCount": 133
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-07T01:41:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49986882"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49986882",
+              "popularity": 682,
+              "engagementCount": 133
+            }
+          ]
+        },
+        {
+          "title": "Yes, and",
+          "url": "https://htmx.org/essays/yes-and/",
+          "summary": "HTMX é uma biblioteca de desenvolvimento web que combina renderização no lado do servidor (server-side rendering) com a interação no lado do cliente. Como alternativa aos frameworks JavaScript existentes, simplifica as atualizações de conteúdo dinâmico por meio de atributos HTML.",
+          "meta": "475 pontos · 156 comentários",
+          "snapshot": {
+            "sourceId": "50003796",
+            "capturedAt": "2026-10-09T11:21:16.205Z",
+            "metadata": {
+              "popularity": 475,
+              "engagementCount": 156,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50003796",
+                  "popularity": 475,
+                  "engagementCount": 156
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-08T09:48:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50003796"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50003796",
+              "popularity": 475,
+              "engagementCount": 156
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "autotrust/JEV-27B-VL",
+          "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+          "summary": "O JEV-27B-VL, compartilhado no HuggingFace, é um modelo de imagem para texto (image-text-to-text model) que processa dados visuais e textuais para produzir saídas de texto. Graças às suas capacidades multimodais, analisa conteúdos visuais complexos e os converte em textos significativos.",
+          "meta": "♥ 3.312 · 1.536.533 downloads",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-27B-VL",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 3312,
+              "engagementCount": 1536533,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2758,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "jev",
+                  "system-one",
+                  "system-two",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "multimodal",
+                  "vision",
+                  "zero-shot",
+                  "decision-index",
+                  "recommendation",
+                  "lora",
+                  "vllm",
+                  "conversational",
+                  "en",
+                  "dataset:SargeDev/jev-distill-corpus-v3",
+                  "arxiv:2512.16899",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:adapter:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "autotrust/GEV-26B-Decide",
+          "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+          "summary": "O GEV-26B-Decide, compartilhado no HuggingFace, é um modelo de inteligência artificial otimizado para tarefas de classificação de texto (text classification). Ele automatiza o processo de categorização de textos analisando dados complexos.",
+          "meta": "♥ 2.041 · 909.755 downloads",
+          "snapshot": {
+            "sourceId": "autotrust/GEV-26B-Decide",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 2041,
+              "engagementCount": 909755,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1765,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "gemma4",
+                  "image-text-to-text",
+                  "system-one",
+                  "system-two",
+                  "adaptive-thinking",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "lora",
+                  "mixture-of-experts",
+                  "multimodal",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "base_model:google/gemma-4-26B-A4B-it",
+                  "base_model:adapter:google/gemma-4-26B-A4B-it",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "O EmbeddingGemma-2, lançado pelo Google, é um modelo de extração de características (feature extraction) que converte dados de texto em vetores numéricos. Este modelo é usado para calcular a similaridade semântica entre textos em aplicações como motores de busca e sistemas de recomendação.",
+          "meta": "♥ 1.270 · 29.185 downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 1270,
+              "engagementCount": 29185,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1230,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "O clef, desenvolvido pela Cloudflare, é um modelo de inteligência artificial multimodal (multimodal model) que recebe imagens e textos como entrada e produz saídas de texto. Este modelo permite que conteúdos visuais sejam analisados e utilizados em tarefas baseadas em texto.",
+          "meta": "♥ 1.911 · 12.066 downloads",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 1911,
+              "engagementCount": 12066,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1193,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "O Kolibri-1, desenvolvido pela empresa alemã de inteligência artificial Aleph-Alpha, é um modelo de linguagem (large language model) com capacidade de geração de texto. Compartilhado na plataforma de inteligência artificial de código aberto HuggingFace, este modelo foi projetado para realizar tarefas baseadas em texto em diferentes áreas de aplicação.",
+          "meta": "♥ 826 · 8.474 downloads",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-09T11:21:16.098Z",
+            "metadata": {
+              "popularity": 826,
+              "engagementCount": 8474,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 762,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+          "url": "https://huggingface.co/papers/2610.11794",
+          "summary": "O Memento 3 é um método que permite que grandes modelos de linguagem (LLM) melhorem continuamente os modelos que interpretam o mundo exterior usando memória externa. Agentes de inteligência artificial adaptam-se a novos ambientes atualizando as conclusões extraídas de suas experiências por meio de manuais de regras (rulebooks) escritos em linguagem natural.",
+          "meta": "3 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.11794",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11794",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue",
+          "url": "https://huggingface.co/papers/2610.06496",
+          "summary": "Grandes modelos de linguagem podem interromper o fluxo de tarefas em diálogos de várias etapas ao serem influenciados apenas pela menção de uma alteração rejeitada pelo usuário. A nova ferramenta de benchmark chamada Intent-Eval mede sistematicamente a capacidade dos modelos de gerenciar intenções variáveis do usuário em áreas como uso de ferramentas, codificação e matemática.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.06496",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.06496",
+                "publishedAt": "2026-10-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/junle-chen/intent",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+          "url": "https://huggingface.co/papers/2610.09059",
+          "summary": "EDiS é uma estrutura de esparsificação (sparsification framework) que reduz o custo computacional para redes neurais em grafos (graph neural networks). Ao dividir o grafo em subgrafos discretos uma única vez, ele recombina essas partes a cada época de treinamento, proporcionando um processo de treinamento eficiente.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.09059",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09059",
+                "publishedAt": "2026-10-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SpaceFlow: Locally Controllable 3D Generation",
+          "url": "https://huggingface.co/papers/2610.12399",
+          "summary": "SpaceFlow é um método que fornece controle local sobre a geração de modelos 3D usando descrições de texto e formas geométricas básicas. Os usuários podem gerenciar com precisão a fidelidade geométrica e a aparência, atribuindo diferentes níveis de controle a regiões específicas do objeto.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.12399",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12399",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/SpaceFlow3D/spaceflow",
+                "githubStars": 5
+              }
+            }
+          }
+        },
+        {
+          "title": "REMORY: Learning Residual Memory for Context Compaction",
+          "url": "https://huggingface.co/papers/2610.11287",
+          "summary": "REMORY é uma arquitetura de rede neural que gera tokens de memória suave (soft memory tokens) complementares a resumos de texto para agentes de inteligência artificial que exigem memória de longo prazo. Este método permite que grandes modelos de linguagem (LLMs) com janelas de contexto limitadas tomem decisões mais precisas sem processar totalmente os dados históricos.",
+          "meta": "2 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2610.11287",
+            "capturedAt": "2026-10-09T11:21:16.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11287",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/1ring2rta/Remory",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Arquivos de programa prontos que o sistema operacional de um computador pode executar diretamente, sem a necessidade de outra ferramenta."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "O processo de desmontar um produto pronto para entender como ele funciona e decifrar sua lógica de operação."
+    },
+    {
+      "term": "executables",
+      "explanation": "Arquivos de aplicação que começam a rodar quando clicados duas vezes no computador e executam uma tarefa específica."
+    },
+    {
+      "term": "skill",
+      "explanation": "Uma habilidade ou função especial que um sistema de inteligência artificial oferece ao usuário ao se especializar em um determinado assunto."
+    },
+    {
+      "term": "deterministic pipelines",
+      "explanation": "Uma sequência de etapas de processamento regulares que sempre fornecem a mesma saída para a mesma entrada, sem deixar espaço para surpresas."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com volumes massivos de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Um sistema que atua como uma ponte, gerenciando solicitações enviadas a serviços de inteligência artificial, garantindo a segurança e regulando o tráfego."
+    },
+    {
+      "term": "guardrails",
+      "explanation": "Limites de segurança que impedem que sistemas de inteligência artificial gerem conteúdo incorreto, prejudicial ou inadequado."
+    },
+    {
+      "term": "skills",
+      "explanation": "Um conjunto de habilidades especializadas que os sistemas de inteligência artificial utilizam para realizar tarefas específicas."
+    },
+    {
+      "term": "intentional crafting engine",
+      "explanation": "Um motor de produção personalizado projetado para criar conteúdo ou produtos adequados aos objetivos do usuário."
+    },
+    {
+      "term": "geometric context transformer",
+      "explanation": "Uma arquitetura avançada de inteligência artificial que analisa e interpreta matematicamente a posição e a relação dos dados entre si."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com volumes massivos de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "speech-to-text",
+      "explanation": "Tecnologia que ouve as palavras ditas e as converte simultaneamente em texto escrito."
+    },
+    {
+      "term": "IoT",
+      "explanation": "A conexão de dispositivos físicos, como eletrodomésticos, à internet para que se comuniquem entre si e com o usuário."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "O processo em que o conteúdo de uma página da web é preparado no servidor e enviado pronto, em vez de ser processado no computador do usuário."
+    },
+    {
+      "term": "frameworks",
+      "explanation": "Sistemas de estrutura que facilitam o desenvolvimento de software, oferecendo conjuntos de códigos prontos e regras."
+    }
+  ]
+}
