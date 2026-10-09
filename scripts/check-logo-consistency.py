@@ -20,7 +20,9 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V1_IMZA = "M 20 56 A 30 30 0 0 1 80 56"  # v1 dış radar yayı
 S_YOLU = "M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81"  # v2 kalın S
-CANON = ('rect x="16" y="16" width="68" height="13" rx="6.5"', f'd="{S_YOLU}"', 'stroke-width="13"', 'stroke-linecap="round"')
+UFUK_YAYI = "M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54"  # T'nin üst çizgisi, halkalarla aynı merkezden kıvrık (2026-10-09)
+CANON = (f'd="{UFUK_YAYI}"', f'd="{S_YOLU}"', 'stroke-width="13"', 'stroke-linecap="round"')
+DUZ_UFUK = 'rect x="16" y="16" width="68" height="13" rx="6.5"'  # kıvrımdan önceki düz çizgi
 CHROME = re.compile(r'class="(?:logo-link|footer-logo)"')
 
 
@@ -31,7 +33,7 @@ def main():
             continue
         rel = os.path.relpath(p, ROOT)
         t = open(p, encoding="utf-8").read()
-        if V1_IMZA in t:
+        if V1_IMZA in t or DUZ_UFUK in t:
             eski.append(rel)
         svgs = [s for s in re.findall(r"<svg\b.*?</svg>", t, re.S) if S_YOLU in s]
         for svg in svgs:
@@ -47,7 +49,7 @@ def main():
     hata = False
     if eski:
         hata = True
-        print(f"❌ Eski v1 logosu {len(eski)} sayfada kalmış (kare çerçeve + T + radar yayları):")
+        print(f"❌ Eski logo {len(eski)} sayfada kalmış (v1 kare çerçeve ya da düz ufuk çizgili v2):")
         for f in eski[:20]:
             print(f"   {f}")
     if bad:
