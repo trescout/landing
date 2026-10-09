@@ -11,7 +11,7 @@
 
 .disc-top { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 16px; }
 .disc-eyebrow {
-  font-size: 12px; letter-spacing: .22em; text-transform: uppercase;
+  font-size: 12px; letter-spacing: normal; text-transform: none;
   color: var(--accent); font-weight: 700;
 }
 .disc-momentum {
@@ -25,7 +25,7 @@
   font-weight: 700; letter-spacing: -.02em; color: #fff;
   overflow-wrap: break-word; hyphens: auto;
 }
-.disc-title .disc-accent { color: var(--accent); }
+.disc-title .disc-accent { color: var(--ink-muted); }
 .disc-lead { margin-top: 22px; font-size: 19px; line-height: 1.65; color: var(--ink); }
 .disc-lead strong { color: #fff; }
 
@@ -150,7 +150,7 @@
 }
 .disc-demo-row { display: flex; flex-direction: column; gap: 6px; }
 .disc-demo-who {
-  font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+  font-size: 11px; letter-spacing: normal; text-transform: none;
   font-weight: 700; color: var(--ink-muted);
 }
 .disc-demo-who-ai { color: var(--accent); }
@@ -173,7 +173,7 @@
 .disc-fact:first-child { border-top: none; }
 .disc-fact-k {
   flex: 0 0 112px; font-size: 12.5px; font-weight: 700; color: var(--brand-light);
-  text-transform: uppercase; letter-spacing: .04em;
+  text-transform: none; letter-spacing: normal;
 }
 .disc-fact-v { font-size: 15px; color: var(--ink-muted); line-height: 1.5; }
 
@@ -337,7 +337,7 @@
 .comp-wrapper { max-width: 1180px; margin: 40px auto; padding: 0 24px 64px; }   /* site container'ıyla aynı genişlik */
 .comp-pill {
   display: inline-flex; align-items: center; gap: 8px; font-size: 12.5px; font-weight: 700;
-  letter-spacing: .08em; text-transform: uppercase; color: var(--accent);
+  letter-spacing: normal; text-transform: none; color: var(--accent);
   background: rgba(95, 168, 211, .12); border: 1px solid rgba(95, 168, 211, .25);
   padding: 6px 14px; border-radius: 999px; margin-bottom: 16px;
 }

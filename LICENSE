@@ -41,8 +41,8 @@ Third-party components
 The restrictions above do not apply to third-party material in this
 repository, which remains under its own license:
 
-  - Inter typeface (assets/fonts/inter-*.woff2): SIL Open Font License 1.1,
-    Copyright (c) 2016 The Inter Project Authors. See assets/fonts/OFL.txt.
+  - Nunito Sans typeface (assets/fonts/nunito-sans-*.woff2): SIL Open Font License 1.1,
+    Copyright 2016 The Nunito Sans Project Authors. See assets/fonts/OFL-NunitoSans.txt.
   - Nunito typeface (assets/fonts/nunito-*.woff2): SIL Open Font License 1.1,
     Copyright 2014 The Nunito Project Authors. See assets/fonts/OFL-Nunito.txt.
   - Content described in reports (projects, papers, models, articles)

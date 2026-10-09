@@ -357,7 +357,7 @@ def build(term, chrome):
             f'<meta name="twitter:description" content="{esc(aciklama[:155])}">\n'
             f'<meta name="twitter:image" content="{BASE}/og-image.png">\n'
             f'<script type="application/ld+json">\n{ld}\n</script>\n'
-            '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
+            '<link rel="preload" href="/assets/fonts/nunito-sans-regular.woff2" as="font" type="font/woff2" crossorigin>\n'
             '<link rel="stylesheet" href="/assets/site.css">\n'
             '<link rel="stylesheet" href="/assets/discover.css">\n'
             '<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')

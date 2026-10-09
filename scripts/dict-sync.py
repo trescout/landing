@@ -262,7 +262,7 @@ def render_page(e, en_map):
       f'<meta property="og:image" content="{ogimg}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="{esc(en+" nedir?")}">\n'
       f'<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="{esc(en+" nedir?")}">\n<meta name="twitter:description" content="{esc(kisa[:155])}">\n<meta name="twitter:image" content="{ogimg}">\n'
       f'<script type="application/ld+json">\n{dt}\n</script>\n{faqjson}<link rel="alternate" type="text/markdown" href="/dictionary/{slug}.md">\n'
-      '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>\n'
+      '<link rel="preload" href="/assets/fonts/nunito-sans-regular.woff2" as="font" type="font/woff2" crossorigin>\n\n'
       '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')
     body=('<body>\n<a class="skip-link" href="#main">Ana içeriğe atla</a>\n'+NAV+'\n<main id="main">\n<article class="disc">\n'
       '<a class="disc-back" href="/dictionary/">← Sözlük</a>\n'
@@ -304,7 +304,7 @@ def render_index(manifest):
       '<meta property="og:image:alt" content="Teknoloji Sözlüğü · TreScout">\n'
       '<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="Teknoloji Sözlüğü · TreScout">\n<meta name="twitter:description" content="Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları.">\n<meta name="twitter:image" content="https://trescout.com/assets/dictionary/og-default.webp">\n'
       f'<script type="application/ld+json">\n{jl}\n</script>\n'
-      '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
+      '<link rel="preload" href="/assets/fonts/nunito-sans-regular.woff2" as="font" type="font/woff2" crossorigin>\n'
       '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')
     # Sözlük DİZİNİ site genişliğini kullanır (.container) · detay sayfasının 720px'lik
     # okuma sütunu (.disc) yanlışlıkla buraya da uygulanmıştı: Türkçe dizin 2 sütun,

@@ -492,7 +492,7 @@ def build(slug, cat, chrome):
             f'<meta name="twitter:description" content="{esc(tagline_en)}">\n'
             f'<meta name="twitter:image" content="{ogimg}">\n'
             f'<script type="application/ld+json">\n{ld}\n</script>\n'
-            '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
+            '<link rel="preload" href="/assets/fonts/nunito-sans-regular.woff2" as="font" type="font/woff2" crossorigin>\n'
             '<link rel="stylesheet" href="/assets/site.css">\n'
             '<link rel="stylesheet" href="/assets/discover.css">\n</head>\n')
 
