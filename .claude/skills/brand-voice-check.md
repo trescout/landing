@@ -41,8 +41,8 @@ Kontrol listesi · her madde geçer olana kadar:
 ### Tagline (kilitli, değiştirme!)
 
 - [ ] Hero: "Teknoloji takibi artık bir iş yükü değil."
-- [ ] Mid: "TreScout tarar, özetler, gönderir. Siz sadece okursunuz."
-- [ ] Sub: "GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte."
+- [ ] Mid: "TreScout tarar, özetler, yayımlar. Siz sadece okursunuz."
+- [ ] Sub: "GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda."
 
 ### Pazarlama dolgu yok
 

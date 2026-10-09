@@ -119,7 +119,7 @@ DILLER = {
         "footer_iletisim": "Contact",
         "footer_sosyal": "Social",
         "footer_gizlilik": "Privacy Notice",
-        "footer_tagline": "TreScout scans, summarizes, and delivers. You just read.",
+        "footer_tagline": "TreScout scans, summarizes, and publishes. You just read.",
         "footer_alt": "© 2026 TreScout · All rights reserved.",
         "atla": "Skip to main content",
         # ── keşif sayfası
@@ -143,7 +143,7 @@ DILLER = {
         "lisans": "License",
         "bugun": "today",
         "cta_baslik": "Get similar discoveries in the daily report.",
-        "cta_metin": "TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.",
+        "cta_metin": "TreScout scouts GitHub, Hacker News and HuggingFace trends daily and publishes curated summaries.",
         "sorumluluk": ("TreScout did not build this tool · we found it in GitHub trends and wrote it up. "
                        "This page describes the repository as of {date}: The star count and our text belong "
                        "to that day, the repository may have changed since. Check the repository link for "
@@ -157,7 +157,7 @@ DILLER = {
         "son_guncelleme": "Last updated: {tarih}",
         "analoji": "Analogy:",
         "sozluk_cta_baslik": "Explore related tools and daily reports.",
-        "sozluk_cta_metin": "Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.",
+        "sozluk_cta_metin": "Daily reports are public. You can join the early access list for launch announcements.",
         # ── bölüm başlıkları (Türkçe → hedef dil)
         "bolumler": {
             "Ne kazandırır?": "What you get",
@@ -220,8 +220,7 @@ DILLER = {
         "rapor_yz": 'The summaries and translations in this report are prepared with AI. Before making important decisions, please check the source through the link provided with each item.',
         "rapor_not": ("Full report PDF: every item with its summary, source links and the glossary of "
                       "terms. Translated from the original Turkish edition."),
-        "rapor_cta": ("<strong>Get daily technology reports in your inbox.</strong> TreScout scans, "
-                      "summarizes, and delivers. You just read."),
+        "rapor_cta": "<strong>Early access list.</strong> You can join the list for early access invitations and launch announcements.",
         "rapor_cta_dugme": "Join Early Access List →",
         "rapor_banner_baslik": "Historical Translated Archive Notice",
         "rapor_banner": ("These English pages and report PDFs are translated from the original Turkish "
@@ -306,7 +305,7 @@ DILLER = {
         "footer_iletisim": "Contact",
         "footer_sosyal": "Réseaux",
         "footer_gizlilik": "Notice de confidentialité",
-        "footer_tagline": "TreScout analyse, résume et livre. Vous n'avez qu'à lire.",
+        "footer_tagline": "TreScout analyse, résume et publie. Vous n'avez qu'à lire.",
         "footer_alt": "© 2026 TreScout · Tous droits réservés.",
         "atla": "Aller au contenu principal",
         "kesif": "Découvrir",
@@ -342,7 +341,7 @@ DILLER = {
         "son_guncelleme": "Dernière mise à jour : {tarih}",
         "analoji": "Analogie :",
         "sozluk_cta_baslik": "Explorez les outils associés et les rapports quotidiens.",
-        "sozluk_cta_metin": "Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.",
+        "sozluk_cta_metin": "Les rapports quotidiens sont publics. Vous pouvez rejoindre la liste d'accès anticipé pour les annonces de lancement.",
         "bolumler": {
             "Ne kazandırır?": "Ce que ça vous apporte",
             "Kurulum": "Installation",
@@ -400,8 +399,7 @@ DILLER = {
         "rapor_yz": "Les résumés et traductions de ce rapport sont rédigés à l'aide de l'intelligence artificielle. Avant toute décision importante, nous vous recommandons de vérifier la source via le lien indiqué pour chaque élément.",
         "rapor_not": ("Le PDF complet : chaque élément avec son résumé, ses liens sources et le glossaire "
                       "des termes. Traduit de l'édition turque originale."),
-        "rapor_cta": ("<strong>Recevez le rapport quotidien dans votre boîte mail.</strong> TreScout "
-                      "analyse, résume et livre. Vous n'avez qu'à lire."),
+        "rapor_cta": "<strong>Liste d'accès anticipé.</strong> Vous pouvez rejoindre la liste pour recevoir des invitations d'accès anticipé et des annonces de lancement.",
         "rapor_cta_dugme": "Rejoindre l'accès anticipé →",
         "rapor_banner_baslik": "À propos de cette archive traduite",
         "rapor_banner": ("Ces pages et les PDF sont traduits des rapports quotidiens turcs originaux. La "
@@ -465,7 +463,7 @@ DILLER = {
         "modal_baslik": "Notice de confidentialité",
         "modal_kapat": "Fermer",
         "modal_onayla": "Enregistrer et fermer",
-        "ana_h1": "TreScout analyse, résume et livre. Vous n'avez qu'à lire.",
+        "ana_h1": "TreScout analyse, résume et publie. Vous n'avez qu'à lire.",
         "ana_lead": ("Chaque jour, TreScout parcourt GitHub, Hacker News et HuggingFace, "
                      "retient ce qui compte et le rassemble dans un seul rapport."),
         "ana_bolum": "Ce que vous trouverez ici",
@@ -497,7 +495,7 @@ DILLER = {
         "footer_iletisim": "Contato",
         "footer_sosyal": "Redes",
         "footer_gizlilik": "Aviso de privacidade",
-        "footer_tagline": "A TreScout busca, resume e entrega. Você só precisa ler.",
+        "footer_tagline": "A TreScout busca, resume e publica. Você só precisa ler.",
         "footer_alt": "© 2026 TreScout · Todos os direitos reservados.",
         "atla": "Ir para o conteúdo principal",
         "kesif": "Descobrir",
@@ -622,8 +620,7 @@ DILLER = {
         "rapor_yz": 'Os resumos e as traduções deste relatório são preparados com inteligência artificial. Antes de tomar decisões importantes, recomendamos conferir a fonte pelo link indicado em cada item.',
         "rapor_not": ("PDF completo: cada item com seu resumo, os links das fontes e o glossário de termos. "
                       "Traduzido da edição original em turco."),
-        "rapor_cta": ("<strong>Receba o relatório diário na sua caixa de entrada.</strong> A TreScout busca, "
-                      "resume e entrega. Você só precisa ler."),
+        "rapor_cta": "<strong>Lista de acesso antecipado.</strong> Você pode entrar na lista para convites de acesso antecipado e anúncios de lançamento.",
         "rapor_cta_dugme": "Entrar no acesso antecipado →",
         "rapor_banner_baslik": "Sobre este arquivo traduzido",
         "rapor_banner": ("Estas páginas e os PDFs são traduzidos dos relatórios diários originais em turco. "
@@ -688,7 +685,7 @@ DILLER = {
         "footer_iletisim": "Contacto",
         "footer_sosyal": "Redes",
         "footer_gizlilik": "Aviso de privacidad",
-        "footer_tagline": "TreScout rastrea, resume y entrega. Usted solo lee.",
+        "footer_tagline": "TreScout rastrea, resume y publica. Usted solo lee.",
         "footer_alt": "© 2026 TreScout · Todos los derechos reservados.",
         "atla": "Ir al contenido principal",
         "kesif": "Descubrir",
@@ -815,8 +812,7 @@ DILLER = {
         "rapor_yz": 'Los resúmenes y las traducciones de este informe se preparan con inteligencia artificial. Antes de tomar decisiones importantes, le recomendamos verificar la fuente mediante el enlace que acompaña a cada elemento.',
         "rapor_not": ("PDF completo: cada elemento con su resumen, los enlaces de las fuentes y el glosario "
                       "de términos. Traducido de la edición original en turco."),
-        "rapor_cta": ("<strong>Reciba el informe diario en su bandeja de entrada.</strong> TreScout "
-                      "rastrea, resume y entrega. Usted solo lee."),
+        "rapor_cta": "<strong>Lista de acceso anticipado.</strong> Puede unirse a la lista para recibir invitaciones de acceso anticipado y anuncios de lanzamiento.",
         "rapor_cta_dugme": "Unirse al acceso anticipado →",
         "rapor_banner_baslik": "Sobre este archivo traducido",
         "rapor_banner": ("Estas páginas y los PDF están traducidos de los informes diarios originales en "
@@ -882,7 +878,7 @@ DILLER = {
         "footer_iletisim": "Kontakt",
         "footer_sosyal": "Netzwerke",
         "footer_gizlilik": "Datenschutzhinweis",
-        "footer_tagline": "TreScout durchsucht, fasst zusammen und liefert. Sie lesen nur.",
+        "footer_tagline": "TreScout durchsucht, fasst zusammen und veröffentlicht. Sie lesen nur.",
         "footer_alt": "© 2026 TreScout · Alle Rechte vorbehalten.",
         "atla": "Zum Hauptinhalt springen",
         "kesif": "Entdecken",
@@ -1009,8 +1005,7 @@ DILLER = {
         "rapor_yz": 'Die Zusammenfassungen und Übersetzungen in diesem Bericht werden mit künstlicher Intelligenz erstellt. Bevor Sie wichtige Entscheidungen treffen, empfehlen wir, die Quelle über den Link bei jedem Eintrag zu prüfen.',
         "rapor_not": ("Vollständiges PDF: jeder Eintrag mit Zusammenfassung, die Links zu den Quellen und "
                       "das Glossar der Begriffe. Übersetzt aus der türkischen Originalausgabe."),
-        "rapor_cta": ("<strong>Erhalten Sie den Tagesbericht in Ihr Postfach.</strong> TreScout "
-                      "durchsucht, fasst zusammen und liefert. Sie lesen nur."),
+        "rapor_cta": "<strong>Vorabzugangsliste.</strong> Sie können sich für Einladungen zum Vorabzugang und Startankündigungen in die Liste eintragen.",
         "rapor_cta_dugme": "Vorabzugang sichern →",
         "rapor_banner_baslik": "Über dieses übersetzte Archiv",
         "rapor_banner": ("Diese Seiten und die PDF-Dateien sind aus den türkischen Original-Tagesberichten "

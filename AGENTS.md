@@ -194,9 +194,10 @@ Tam liste için `docs/BRAND.md`. Buradaki sadece en sık ihlal edilenler:
 - ❌ Trescout, trescout, TRESCOUT, TreSout
 
 ### Tagline (kilitli; değiştirme!)
+> 2026-10-09 · "gönderir" → "yayımlar", "istediğiniz saatte" çıktı: gönderim ve saat seçimi bugün yok, gelecek özellik vaat edilmez (Burhan).
 - Hero: "Teknoloji takibi artık bir iş yükü değil."
-- Mid: "TreScout tarar, özetler, gönderir. Siz sadece okursunuz."
-- Sub: "GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte."
+- Mid: "TreScout tarar, özetler, yayımlar. Siz sadece okursunuz."
+- Sub: "GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda."
 
 ### Renkler
 Tek kaynak: `docs/BRAND.md §3`. Hardcoded yeni renk eklemeyin; mevcut palet veya türevi kullanın.
