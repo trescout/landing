@@ -63,8 +63,8 @@ Le compilateur JIT détecte instantanément les blocs de code fréquemment utili
 - [BUN](https://trescout.com/fr/discover/bun/)
 - [Svelte](https://trescout.com/fr/discover/svelte/)
 - [Wand-Enhancer](https://trescout.com/fr/discover/wand-enhancer/)
-- [Onnxruntime](https://trescout.com/fr/discover/onnxruntime/)
 - [Univer](https://trescout.com/fr/discover/univer/)
+- [Onnxruntime](https://trescout.com/fr/discover/onnxruntime/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/runtime/)
 

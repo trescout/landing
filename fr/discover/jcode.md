@@ -2,16 +2,16 @@
 
 Développé avec le langage Rust, jcode offre un cadre pour tester et évaluer les agents d'intelligence artificielle orientés codage. Il fournit une infrastructure standard pour mesurer les performances des agents utilisés dans les processus de développement logiciel.
 
-- ★ 20 361
+- ★ 20 377
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 20,361 → 20,377, dernière version v0.94.0 (10 octobre 2026).
 - **9 octobre 2026:** Étoiles 20,324 → 20,361, dernière version v0.93.0 (9 octobre 2026).
 - **6 octobre 2026:** Étoiles 20,303 → 20,324, dernière version v0.91.0 (6 octobre 2026).
 - **5 octobre 2026:** Étoiles 20,262 → 20,303, dernière version v0.90.1 (5 octobre 2026).
-- **2 octobre 2026:** Étoiles 20,218 → 20,262, dernière version v0.90.0 (1 octobre 2026).
 
 ## Ce que ça vous apporte
 

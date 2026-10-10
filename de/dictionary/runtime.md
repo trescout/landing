@@ -63,8 +63,8 @@ Der JIT-Compiler erkennt häufig verwendete Codeblöcke („Hot Paths“) sofort
 - [BUN](https://trescout.com/de/discover/bun/)
 - [Svelte](https://trescout.com/de/discover/svelte/)
 - [Wand-Enhancer](https://trescout.com/de/discover/wand-enhancer/)
-- [Onnxruntime](https://trescout.com/de/discover/onnxruntime/)
 - [Univer](https://trescout.com/de/discover/univer/)
+- [Onnxruntime](https://trescout.com/de/discover/onnxruntime/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/runtime/)
 

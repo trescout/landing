@@ -13025,7 +13025,7 @@
     "slug": "jcode",
     "title": "Jcode",
     "tagline": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness)…",
-    "meta": "★ 20.361 · Rust",
+    "meta": "★ 20.377 · Rust",
     "image": "/assets/discover/og/jcode.webp",
     "source": "GitHub",
     "date": "2026-06-21",
@@ -13033,7 +13033,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 20361,
+    "stars": 20377,
     "lite": false,
     "headline": "Kodlama ajanları için yüksek performanslı çerçeve",
     "last_review": "2026-10-10",
@@ -13247,6 +13247,13 @@
         "onceki_yildiz": 20324,
         "surum": "v0.93.0",
         "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-10",
+        "yildiz": 20377,
+        "onceki_yildiz": 20361,
+        "surum": "v0.94.0",
+        "surum_tarihi": "2026-10-10"
       }
     ],
     "tagline_en": "Developed with the Rust language, jcode is a framework (harness) for testing and evaluating coding-oriented artificial intelligence agents.",
@@ -40798,7 +40805,7 @@
     "slug": "pi-desktop",
     "title": "PI-Desktop",
     "tagline": "PI-Desktop, yerel öncelikli (local-first) çalışma prensibiyle geliştirilen bir yapay zekâ kodlama ajanıdır.",
-    "meta": "★ 6.458 · TypeScript",
+    "meta": "★ 6.617 · TypeScript",
     "image": "/assets/discover/og/pi-desktop.webp",
     "source": "GitHub",
     "date": "2026-09-10",
@@ -40806,7 +40813,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6458,
+    "stars": 6617,
     "summary": "PI-Desktop, yerel öncelikli (local-first) çalışma prensibiyle geliştirilen bir yapay zekâ kodlama ajanıdır. Elektron (masaüstü uygulama geliştirme çatısı) ve Rust (sistem programlama dili) tabanlı mimarisiyle, kullanıcıların kendi eklentilerini kurabildiği kişiselleştirilebilir bir yazılım geliştirme ortamı sunar.",
     "lite": false,
     "headline": "Yapay zekâ kodlama ajanları için çalışma alanı",
@@ -40881,6 +40888,13 @@
         "onceki_yildiz": 6331,
         "surum": "v0.17.0",
         "surum_tarihi": "2026-10-07"
+      },
+      {
+        "tarih": "2026-10-10",
+        "yildiz": 6617,
+        "onceki_yildiz": 6458,
+        "surum": "v0.18.0",
+        "surum_tarihi": "2026-10-10"
       }
     ],
     "tagline_en": "PI-Desktop is an AI coding agent developed with a local-first working principle.",
@@ -43341,7 +43355,7 @@
     "slug": "univer",
     "title": "Univer",
     "tagline": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı…",
-    "meta": "★ 21.590",
+    "meta": "★ 22.527",
     "image": "/assets/discover/og/univer.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -43349,7 +43363,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21590,
+    "stars": 22527,
     "summary": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının (AI agents) ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış modüler bir yapı sunar.",
     "lite": false,
     "headline": "Açık kaynaklı ofis araçları seti",
@@ -43379,6 +43393,13 @@
         "onceki_yildiz": 21050,
         "surum": "v1.0.3",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-10",
+        "yildiz": 22527,
+        "onceki_yildiz": 21590,
+        "surum": "v1.0.4",
+        "surum_tarihi": "2026-10-10"
       }
     ],
     "last_review": "2026-10-10",
@@ -44362,7 +44383,7 @@
     "slug": "dbx",
     "title": "DBX",
     "tagline": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi…",
-    "meta": "★ 25.380 · Rust",
+    "meta": "★ 25.555 · Rust",
     "image": "/assets/discover/og/dbx.webp",
     "source": "GitHub",
     "date": "2026-09-29",
@@ -44370,7 +44391,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 25380,
+    "stars": 25555,
     "last_seen": "2026-10-01",
     "summary": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.",
     "lite": false,
@@ -44460,6 +44481,13 @@
         "onceki_yildiz": 25357,
         "surum": "v0.6.38",
         "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-10",
+        "yildiz": 25555,
+        "onceki_yildiz": 25380,
+        "surum": "v0.6.39",
+        "surum_tarihi": "2026-10-10"
       }
     ],
     "tagline_en": "Developed in Rust, dbx is a lightweight 25 MB database client supporting more than 100 database types…",
@@ -45319,7 +45347,7 @@
     "slug": "rea",
     "title": "REA",
     "tagline": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı…",
-    "meta": "★ 59.633 · TypeScript",
+    "meta": "★ 62.615 · TypeScript",
     "image": "/assets/discover/og/rea.webp",
     "source": "GitHub",
     "date": "2026-10-06",
@@ -45327,7 +45355,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 59633,
+    "stars": 62615,
     "last_seen": "2026-10-10",
     "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.",
     "lite": false,
@@ -45394,6 +45422,13 @@
         "tarih": "2026-10-10",
         "yildiz": 59633,
         "onceki_yildiz": 41148,
+        "surum": "rea-agents-6.3.0",
+        "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-10",
+        "yildiz": 62615,
+        "onceki_yildiz": 59633,
         "surum": "rea-agents-6.3.0",
         "surum_tarihi": "2026-10-09"
       }
