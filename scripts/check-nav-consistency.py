@@ -61,7 +61,7 @@ for p in sorted(glob.glob(os.path.join(ROOT, '**', '*.html'), recursive=True)):
 
 # Menü yuvaları sabit genişlikte (assets/site.css · .nav-actions nth-of-type).
 # Genişlikler en uzun etikete göre; yeni/uzun bir etiket gelirse CSS de güncellenmeli.
-YUVA_AZAMI = (9, 10, 21, 11)   # Découvrir · Dictionary · Arquivo de relatórios · Karşılaştır
+YUVA_AZAMI = (9, 10, 10, 11)   # Découvrir · Dictionary · Relatórios · Karşılaştır (2026-10-10: rapor etiketleri kısaldı)
 for onek, etiketler in [('tr/', EXPECTED_TR)] + sorted(SETLER.items()):
     for i, (etiket, azami) in enumerate(zip(etiketler[:4], YUVA_AZAMI)):
         if len(etiket) > azami:

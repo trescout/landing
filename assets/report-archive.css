@@ -1,7 +1,8 @@
 /* TreScout · rapor ARŞİV sayfası stilleri · site.css üzerine biner · generator (publish-report.ts) üretir
    v3 (2026-10-10): kart ızgarası, hap çipler ve kalkan kartlar yerine okuma listesi. Her gün bir satır. */
 
-  .archive-main { max-width: 860px; margin: 0 auto; padding: 48px 24px 40px; }
+  .archive-main { max-width: 1180px; margin: 0 auto; padding: 40px 24px 40px; }   /* kapsayıcı tüm sitede aynı */
+  .archive-main > * { max-width: 860px; }
   /* Üst etiket (eyebrow) v3'te kullanılmıyor · işaretleme üreticiden kalkana kadar gizli */
   .arch-eyebrow { display: none; }
   .arch-title { font-family: var(--font-display); font-size: var(--text-h1); line-height: 1.1; font-weight: 800; letter-spacing: -.01em; color: var(--ink); }

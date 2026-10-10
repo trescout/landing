@@ -35,14 +35,14 @@ M = {
         "aciklama": "TreScout'un kaynakları nasıl taradığını, raporu nasıl hazırlayıp yayımladığını ve sınırlarını öğrenin.",
         "h1": "TreScout nasıl çalışır?",
         "giris": ("TreScout her gün kaynak akışlarını tarar, öne çıkanları yapay zekâ ile özetler ve tek bir "
-                  "raporda bir araya getirir. Raporlar herkese açık; okumak için kayıt olmanız gerekmez."),
+                  "raporda bir araya getirir. Raporlar herkese açıktır, okumak için kayıt olmanız gerekmez."),
         "tarama": ("Tarama", "Her gün GitHub Trending, Hacker News ile Hugging Face'in model ve günlük "
-                   "makale akışları taranır; her kaynaktan o günün öne çıkan kayıtları alınır. Yıldız, oy, beğeni "
-                   "ve indirme sayıları tarama anındaki değerleri yansıtır; rapor sayfasında taramanın saati belirtilir."),
+                   "makale akışları taranır ve her kaynaktan o günün öne çıkan kayıtları alınır. Yıldız, oy, beğeni "
+                   "ve indirme sayıları tarama anındaki değerleri yansıtır. Rapor sayfasında taramanın saati belirtilir."),
         "ozet": ("Özetleme", "Seçilen her kayıt, yapay zekâ ile bir veya iki cümlelik kısa bir özete dönüştürülür. "
-                 "Teknik terimler özgün hâliyle parantez içinde korunur; anlamları raporun sonundaki sözlük "
+                 "Teknik terimler özgün hâliyle parantez içinde korunur. Anlamları raporun sonundaki sözlük "
                  "bölümünde açıklanır."),
-        "ornek": "9 Ekim 2026 raporundan bir kayıt:",
+        "ornek": "Örnek olarak 9 Ekim 2026 raporundan bir kayıt:",
         "ornek_etiket": ("Kaynak kaydı", "TreScout özeti", "Sözlük açıklaması"),
         "tekrar": ("Tekrar filtresi", "Her rapor, son 30 günün raporlarıyla karşılaştırılır. Bu süre içinde "
                    "listede yer almayan maddeler \u201cyeni\u201d olarak işaretlenir. Tekrarsız raporda yalnızca bu "
@@ -55,23 +55,23 @@ M = {
         "sinirlar": [
             "Özetler yapay zekâ ile hazırlanır ve hata içerebilir. Önemli bir karar vermeden önce maddedeki "
             "bağlantıdan kaynağı kontrol etmenizi öneririz.",
-            "Sayılar tarama anına aittir; kaynak sayfası sonradan değişmiş olabilir.",
-            "TreScout raporda geçen araçları geliştirmez; yalnızca seçer ve tanıtır.",
+            "Sayılar tarama anına aittir. Kaynak sayfası sonradan değişmiş olabilir.",
+            "TreScout raporda geçen araçları geliştirmez, yalnızca seçer ve tanıtır.",
             "Diğer dillerdeki raporlar, Türkçe rapordan makine çevirisiyle hazırlanır.",
         ],
-        "erken": ("Erken erişim", "Raporlar şu anda herkese açık. E-postayla gönderim gibi özellikler üzerinde "
-                  "çalışıyoruz, ancak bunlar için bir tarih ya da garanti vermiyoruz. Erken erişim listesine "
-                  "katılarak davet ve lansman duyurularını e-postayla alabilirsiniz."),
+        "erken": ("Erken erişim", "Raporlar şu anda herkese açıktır. E-postayla gönderim gibi özellikler üzerinde "
+                  "çalışıyoruz ancak bunlar için bir tarih ya da garanti vermiyoruz. Erken erişim başladığında "
+                  "haberdar olmak için listeye katılabilirsiniz."),
         "erken_git": "Erken erişim listesine katılın",
     },
     "en": {
         "aciklama": 'How TreScout scans its sources, how the report is prepared and published, and its limits.',
         "h1": "How does TreScout work?",
         "giris": ("Every day TreScout scans source feeds, summarizes the highlights with AI and collects them in "
-                  "one report. Reports are public; you don't need an account to read them."),
+                  "one report. Reports are public. You don't need an account to read them."),
         "tarama": ("Scanning", "Every day we scan GitHub Trending, Hacker News, and Hugging Face's model "
                    "and daily paper feeds, and take the day's highlights from each source. Star, point, like and "
-                   "download counts are the values at scan time; the report page shows when the scan happened."),
+                   "download counts are the values at scan time. The report page shows when the scan happened."),
         "ozet": ("Summarizing", "Each selected record is turned into a one or two sentence summary with AI. "
                  "Technical terms keep their original form in parentheses, and the glossary at the end of the "
                  "report explains them."),
@@ -87,26 +87,25 @@ M = {
         "sinirlar": [
             "Summaries are prepared with AI and may contain mistakes. Before making an important decision, "
             "check the source through the link in each item.",
-            "Counts belong to the moment of the scan; the source page may have changed since.",
-            "TreScout does not build the tools in the reports; it only selects and describes them.",
+            "Counts belong to the moment of the scan. The source page may have changed since.",
+            "TreScout does not build the tools in the reports. It only selects and describes them.",
             "Reports in other languages are machine-translated from the Turkish report.",
         ],
         "erken": ("Early access", "Reports are public today. We are working on features such as email delivery, "
-                  "but we give no date or guarantee for them. If you join the early access list, you will "
-                  "receive the invitation and launch announcements by email."),
+                  "but we give no date or guarantee for them. Join the list to hear when early access opens."),
         "erken_git": "Join the early access list",
     },
     "fr": {
         "aciklama": 'Comment TreScout parcourt ses sources, comment le rapport est préparé et publié, et ses limites.',
         "h1": "Comment fonctionne TreScout ?",
         "giris": ("Chaque jour, TreScout parcourt les flux sources, résume l'essentiel avec l'IA et le réunit dans "
-                  "un seul rapport. Les rapports sont publics ; aucune inscription n'est nécessaire pour les lire."),
+                  "un seul rapport. Les rapports sont publics . Aucune inscription n'est nécessaire pour les lire."),
         "tarama": ("Collecte", "Chaque jour, nous parcourons GitHub Trending, Hacker News ainsi que les "
                    "flux de modèles et d'articles du jour de Hugging Face, et retenons ce qui se démarque dans "
                    "chaque source. Les nombres d'étoiles, de points, de j'aime et de téléchargements sont ceux du "
-                   "moment de la collecte ; la page du rapport en indique l'heure."),
+                   "moment de la collecte . La page du rapport en indique l'heure."),
         "ozet": ("Résumé", "Chaque élément retenu est résumé en une ou deux phrases avec l'IA. Les termes "
-                 "techniques gardent leur forme d'origine entre parenthèses ; le glossaire à la fin du rapport "
+                 "techniques gardent leur forme d'origine entre parenthèses . Le glossaire à la fin du rapport "
                  "les explique."),
         "ornek": "Un élément du rapport du 9 octobre 2026 :",
         "ornek_etiket": ("Élément source", "Résumé TreScout", "Entrée du glossaire"),
@@ -122,23 +121,23 @@ M = {
         "sinirlar": [
             "Les résumés sont rédigés avec l'IA et peuvent contenir des erreurs. Avant toute décision "
             "importante, vérifiez la source grâce au lien de chaque élément.",
-            "Les chiffres correspondent au moment de la collecte ; la page source a pu changer depuis.",
-            "TreScout ne développe pas les outils cités ; il se contente de les sélectionner et de les présenter.",
+            "Les chiffres correspondent au moment de la collecte . La page source a pu changer depuis.",
+            "TreScout ne développe pas les outils cités . Il se contente de les sélectionner et de les présenter.",
             "Les rapports dans les autres langues sont traduits automatiquement à partir du rapport turc.",
         ],
         "erken": ("Accès anticipé", "Les rapports sont publics dès aujourd'hui. Nous travaillons sur des "
-                  "fonctionnalités comme l'envoi par e-mail, sans date ni garantie. En rejoignant la liste "
-                  "d'accès anticipé, vous recevrez par e-mail l'invitation et les annonces de lancement."),
+                  "fonctionnalités comme l'envoi par e-mail, sans date ni garantie. Inscrivez-vous pour être averti "
+                  "de l'ouverture de l'accès anticipé."),
         "erken_git": "Rejoindre la liste d'accès anticipé",
     },
     "pt": {
         "aciklama": 'Como o TreScout percorre suas fontes, como o relatório é preparado e publicado, e seus limites.',
         "h1": "Como o TreScout funciona?",
         "giris": ("Todos os dias o TreScout percorre os fluxos das fontes, resume os destaques com IA e reúne tudo "
-                  "em um único relatório. Os relatórios são públicos; não é preciso cadastro para ler."),
+                  "em um único relatório. Os relatórios são públicos. Não é preciso cadastro para ler."),
         "tarama": ("Coleta", "Todos os dias percorremos o GitHub Trending, o Hacker News e os fluxos "
                    "de modelos e de artigos do dia do Hugging Face, e selecionamos os destaques de cada fonte. "
-                   "Estrelas, pontos, curtidas e downloads são os valores do momento da coleta; a página do "
+                   "Estrelas, pontos, curtidas e downloads são os valores do momento da coleta. A página do "
                    "relatório mostra o horário."),
         "ozet": ("Resumo", "Cada item selecionado vira um resumo de uma ou duas frases feito com IA. Os termos "
                  "técnicos ficam na forma original entre parênteses, e o glossário no fim do relatório os explica."),
@@ -155,23 +154,23 @@ M = {
         "sinirlar": [
             "Os resumos são feitos com IA e podem conter erros. Antes de uma decisão importante, confira a "
             "fonte pelo link de cada item.",
-            "Os números são do momento da coleta; a página da fonte pode ter mudado depois.",
-            "O TreScout não desenvolve as ferramentas citadas; apenas as seleciona e apresenta.",
+            "Os números são do momento da coleta. A página da fonte pode ter mudado depois.",
+            "O TreScout não desenvolve as ferramentas citadas. Apenas as seleciona e apresenta.",
             "Os relatórios em outros idiomas são traduzidos automaticamente a partir do relatório em turco.",
         ],
         "erken": ("Acesso antecipado", "Os relatórios já são públicos. Estamos trabalhando em recursos como o "
-                  "envio por e-mail, mas não damos data nem garantia para eles. Ao entrar na lista de acesso "
-                  "antecipado, você recebe por e-mail o convite e os anúncios de lançamento."),
+                  "envio por e-mail, mas não damos data nem garantia para eles. Entre na lista para saber quando o "
+                  "acesso antecipado abrir."),
         "erken_git": "Entrar na lista de acesso antecipado",
     },
     "es": {
         "aciklama": 'Cómo TreScout recorre sus fuentes, cómo se prepara y publica el informe, y sus límites.',
         "h1": "¿Cómo funciona TreScout?",
         "giris": ("Cada día TreScout recorre los flujos de fuentes, resume lo más destacado con IA y lo reúne en un "
-                  "solo informe. Los informes son públicos; no necesita registrarse para leerlos."),
+                  "solo informe. Los informes son públicos. No necesita registrarse para leerlos."),
         "tarama": ("Recopilación", "Cada día recorremos GitHub Trending, Hacker News y los flujos de "
                    "modelos y artículos del día de Hugging Face, y tomamos lo más destacado de cada fuente. Las "
-                   "estrellas, puntos, me gusta y descargas son los valores del momento de la recopilación; la "
+                   "estrellas, puntos, me gusta y descargas son los valores del momento de la recopilación. La "
                    "página del informe indica la hora."),
         "ozet": ("Resumen", "Cada elemento seleccionado se convierte en un resumen de una o dos frases hecho con "
                  "IA. Los términos técnicos se mantienen en su forma original entre paréntesis, y el glosario al "
@@ -189,26 +188,26 @@ M = {
         "sinirlar": [
             "Los resúmenes se elaboran con IA y pueden contener errores. Antes de tomar una decisión "
             "importante, compruebe la fuente con el enlace de cada elemento.",
-            "Las cifras corresponden al momento de la recopilación; la página de origen puede haber cambiado.",
-            "TreScout no desarrolla las herramientas citadas; solo las selecciona y las presenta.",
+            "Las cifras corresponden al momento de la recopilación. La página de origen puede haber cambiado.",
+            "TreScout no desarrolla las herramientas citadas. Solo las selecciona y las presenta.",
             "Los informes en otros idiomas se traducen automáticamente a partir del informe en turco.",
         ],
         "erken": ("Acceso anticipado", "Los informes ya son públicos. Trabajamos en funciones como el envío por "
-                  "correo, pero no damos fecha ni garantía para ellas. Si se une a la lista de acceso anticipado, "
-                  "recibirá por correo la invitación y los anuncios de lanzamiento."),
+                  "correo, pero no damos fecha ni garantía para ellas. Únase a la lista para saber cuándo se abre el "
+                  "acceso anticipado."),
         "erken_git": "Unirse a la lista de acceso anticipado",
     },
     "de": {
         "aciklama": 'Wie TreScout seine Quellen durchsucht, wie der Bericht entsteht und erscheint, und wo seine Grenzen liegen.',
         "h1": "Wie funktioniert TreScout?",
         "giris": ("TreScout prüft jeden Tag Quellen-Feeds, fasst die Höhepunkte mit KI zusammen und bündelt sie in "
-                  "einem Bericht. Die Berichte sind öffentlich; zum Lesen ist keine Anmeldung nötig."),
+                  "einem Bericht. Die Berichte sind öffentlich. Zum Lesen ist keine Anmeldung nötig."),
         "tarama": ("Erfassung", "Jeden Tag prüfen wir GitHub Trending, Hacker News sowie die Modell- und "
                    "Tagespaper-Feeds von Hugging Face und übernehmen die Höhepunkte jeder Quelle. Sterne, Punkte, "
-                   "Likes und Downloads sind die Werte zum Zeitpunkt der Erfassung; die Berichtsseite nennt die "
+                   "Likes und Downloads sind die Werte zum Zeitpunkt der Erfassung. Die Berichtsseite nennt die "
                    "Uhrzeit."),
         "ozet": ("Zusammenfassung", "Jeder ausgewählte Eintrag wird mit KI in ein bis zwei Sätzen zusammengefasst. "
-                 "Fachbegriffe bleiben in Klammern in ihrer ursprünglichen Form; das Glossar am Ende des Berichts "
+                 "Fachbegriffe bleiben in Klammern in ihrer ursprünglichen Form. Das Glossar am Ende des Berichts "
                  "erklärt sie."),
         "ornek": "Ein Eintrag aus dem Bericht vom 9. Oktober 2026:",
         "ornek_etiket": ("Quelleneintrag", "TreScout-Zusammenfassung", "Glossareintrag"),
@@ -224,13 +223,13 @@ M = {
         "sinirlar": [
             "Die Zusammenfassungen werden mit KI erstellt und können Fehler enthalten. Prüfen Sie vor "
             "wichtigen Entscheidungen die Quelle über den Link im jeweiligen Eintrag.",
-            "Die Zahlen gelten für den Zeitpunkt der Erfassung; die Quellseite kann sich seitdem geändert haben.",
-            "TreScout entwickelt die genannten Werkzeuge nicht; es wählt sie nur aus und stellt sie vor.",
+            "Die Zahlen gelten für den Zeitpunkt der Erfassung. Die Quellseite kann sich seitdem geändert haben.",
+            "TreScout entwickelt die genannten Werkzeuge nicht. Es wählt sie nur aus und stellt sie vor.",
             "Berichte in anderen Sprachen werden maschinell aus dem türkischen Bericht übersetzt.",
         ],
         "erken": ("Vorabzugang", "Die Berichte sind schon heute öffentlich. Wir arbeiten an Funktionen wie dem "
-                  "Versand per E-Mail, nennen dafür aber weder Termin noch Garantie. Wenn Sie sich in die "
-                  "Vorabzugangsliste eintragen, erhalten Sie die Einladung und Ankündigungen zum Start per E-Mail."),
+                  "Versand per E-Mail, nennen dafür aber weder Termin noch Garantie. Tragen Sie sich ein, um zu "
+                  "erfahren, wann der Vorabzugang öffnet."),
         "erken_git": "In die Vorabzugangsliste eintragen",
     },
 }

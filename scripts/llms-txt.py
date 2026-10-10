@@ -61,7 +61,7 @@ if fr_terim or fr_arac:
           f"- [Glossaire]({B}/fr/dictionary/)",
           f"- [Découvrir]({B}/fr/discover/)"]
     if _var("fr/reports"):
-        L.append(f"- [Archive des rapports]({B}/fr/reports/)")
+        L.append(f"- [Rapports]({B}/fr/reports/)")
     L.append("")
     for t_ in sorted(fr_terim, key=lambda x: x["en"].lower()):
         L.append(f"- [Qu'est-ce que {t_['en']} ?]({B}/fr/dictionary/{t_['slug']}/) (brut: {B}/fr/dictionary/{t_['slug']}.md): {clip(t_.get('kisa_fr', ''))}")
@@ -77,7 +77,7 @@ if pt_terim or pt_arac:
           f"- [Glossário]({B}/pt/dictionary/)",
           f"- [Descobrir]({B}/pt/discover/)"]
     if _var("pt/reports"):
-        L.append(f"- [Arquivo de relatórios]({B}/pt/reports/)")
+        L.append(f"- [Relatórios]({B}/pt/reports/)")
     L.append("")
     for t_ in sorted(pt_terim, key=lambda x: x["en"].lower()):
         L.append(f"- [O que é {t_['en']}?]({B}/pt/dictionary/{t_['slug']}/) (bruto: {B}/pt/dictionary/{t_['slug']}.md): {clip(t_.get('kisa_pt', ''))}")
@@ -93,7 +93,7 @@ if es_terim or es_arac:
           f"- [Glosario]({B}/es/dictionary/)",
           f"- [Descubrir]({B}/es/discover/)"]
     if _var("es/reports"):
-        L.append(f"- [Archivo de informes]({B}/es/reports/)")
+        L.append(f"- [Informes]({B}/es/reports/)")
     L.append("")
     for t_ in sorted(es_terim, key=lambda x: x["en"].lower()):
         L.append(f"- [¿Qué es {t_['en']}?]({B}/es/dictionary/{t_['slug']}/) (bruto: {B}/es/dictionary/{t_['slug']}.md): {clip(t_.get('kisa_es', ''))}")

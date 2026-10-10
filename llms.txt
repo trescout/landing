@@ -2700,7 +2700,7 @@ Le même catalogue en français, traduit depuis la source turque. Markdown brut 
 - [Accueil](https://trescout.com/fr/)
 - [Glossaire](https://trescout.com/fr/dictionary/)
 - [Découvrir](https://trescout.com/fr/discover/)
-- [Archive des rapports](https://trescout.com/fr/reports/)
+- [Rapports](https://trescout.com/fr/reports/)
 
 - [Qu'est-ce que A-share ?](https://trescout.com/fr/dictionary/a-share/) (brut: https://trescout.com/fr/dictionary/a-share.md): Type d'action négociée sur les bourses chinoises et réservée aux investisseurs locaux.
 - [Qu'est-ce que ab ?](https://trescout.com/fr/dictionary/ab/) (brut: https://trescout.com/fr/dictionary/ab.md): Outil de test de performance simple utilisé pour mesurer combien d'utilisateurs un serveu…
@@ -4037,7 +4037,7 @@ O mesmo catálogo em português, traduzido da fonte em turco. Markdown bruto: ac
 - [Início](https://trescout.com/pt/)
 - [Glossário](https://trescout.com/pt/dictionary/)
 - [Descobrir](https://trescout.com/pt/discover/)
-- [Arquivo de relatórios](https://trescout.com/pt/reports/)
+- [Relatórios](https://trescout.com/pt/reports/)
 
 - [O que é A-share?](https://trescout.com/pt/dictionary/a-share/) (bruto: https://trescout.com/pt/dictionary/a-share.md): Um tipo de ação negociada nas bolsas de valores chinesas e reservada para investidores lo…
 - [O que é ab?](https://trescout.com/pt/dictionary/ab/) (bruto: https://trescout.com/pt/dictionary/ab.md): Uma ferramenta simples de teste de desempenho usada para medir quantas pessoas um servido…
@@ -5374,7 +5374,7 @@ El mismo catálogo en español, traducido de la fuente en turco. Markdown en bru
 - [Inicio](https://trescout.com/es/)
 - [Glosario](https://trescout.com/es/dictionary/)
 - [Descubrir](https://trescout.com/es/discover/)
-- [Archivo de informes](https://trescout.com/es/reports/)
+- [Informes](https://trescout.com/es/reports/)
 
 - [¿Qué es A-share?](https://trescout.com/es/dictionary/a-share/) (bruto: https://trescout.com/es/dictionary/a-share.md): Tipo de acción que cotiza en las bolsas de valores chinas y está reservada para inversore…
 - [¿Qué es ab?](https://trescout.com/es/dictionary/ab/) (bruto: https://trescout.com/es/dictionary/ab.md): Una herramienta sencilla de prueba de rendimiento que sirve para medir cuántas personas p…
