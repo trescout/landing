@@ -2,12 +2,13 @@
 
 Diese Next.js-basierte Anwendung kombiniert das Diagrammtool draw.io mit generativen KI-Funktionen. Benutzer können visuelle Diagramme durch Befehle in natürlicher Sprache erstellen und ihre vorhandenen Diagramme mit Unterstützung künstlicher Intelligenz bearbeiten.
 
-- ★ 35.699
+- ★ 36.160
 - TypeScript
 - GitHub Trending · 2026-07-12
 
 ## Aktualisierungen
 
+- **10. Oktober 2026:** Sterne 35,699 → 36,160, neueste Version v0.5.0 (10. Oktober 2026).
 - **8. September 2026:** Sterne 33,999 → 35,699, neueste Version v0.4.16 (21. Mai 2026).
 - **2. August 2026:** Sterne 33,359 → 33,999, neueste Version v0.4.16 (21. Mai 2026).
 

@@ -2,15 +2,15 @@
 
 Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar, karmaşık yazılım mimarilerini anlamak için kapsamlı bir kaynak sunuyor. Ölçeklenebilir sistem tasarımı (system design) süreçlerini ve temel mühendislik prensiplerini pratik örneklerle açıklıyor.
 
-- ★ 24.205
+- ★ 25.606
 - GitHub Trending · 2026-09-09
 
 ## Güncelleme
 
+- **10 Ekim 2026:** Yıldız 24.205 → 25.606.
 - **8 Ekim 2026:** Yıldız 22.766 → 24.205.
 - **2 Ekim 2026:** Yıldız 21.598 → 22.766.
 - **27 Eylül 2026:** Yıldız 19.361 → 21.598.
-- **12 Eylül 2026:** Yıldız 18.359 → 19.361.
 
 ## Ne kazandırır?
 

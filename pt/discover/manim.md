@@ -2,11 +2,12 @@
 
 Manim é um mecanismo de animação para criar vídeos matemáticos explicativos precisos por meio de programação. Você pode definir as animações em Python e começar com as cenas de exemplo do repositório 3b1b selecionado.
 
-- ★ 90.309
+- ★ 94.837
 - GitHub Trending · 2026-08-12
 
 ## Atualizações
 
+- **10 de outubro de 2026:** Estrelas 90,309 → 94,837, versão mais recente v1.7.2 (13 de dezembro de 2024).
 - **12 de agosto de 2026:** Estrelas 90,306 → 90,309, versão mais recente v1.7.2 (13 de dezembro de 2024).
 
 ## Instalação

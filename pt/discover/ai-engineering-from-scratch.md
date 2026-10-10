@@ -2,17 +2,17 @@
 
 Introdução à engenharia de inteligência artificial do zero: 485 aulas, 20 fases e aproximadamente 320 horas de conteúdo. Ele ensina todos os algoritmos, desde álgebra linear até agentes autônomos, primeiro com matemática e depois escrevendo código à mão. Este curso, que cobre as linguagens Python, TypeScript, Rust e Julia, é totalmente gratuito e de código aberto.
 
-- ★ 65.449
+- ★ 66.339
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **10 de outubro de 2026:** Estrelas 65,449 → 66,339, versão mais recente v2026.10.2 (10 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 65,029 → 65,449, versão mais recente v2026.10.1 (6 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 61,896 → 65,029, versão mais recente v2026.10 (27 de setembro de 2026).
 - **30 de setembro de 2026:** Estrelas 58,825 → 61,896, versão mais recente v2026.10 (27 de setembro de 2026).
-- **27 de setembro de 2026:** Estrelas 58,406 → 58,825, versão mais recente v2026.10 (27 de setembro de 2026).
 
 ## O que você aprende?
 

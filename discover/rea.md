@@ -2,16 +2,16 @@
 
 Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.
 
-- ★ 41.148
+- ★ 62.615
 - TypeScript
 - GitHub Trending · 2026-10-06
 
 ## Güncelleme
 
+- **10 Ekim 2026:** Yıldız 59.633 → 62.615, son sürüm rea-agents-6.3.0 (9 Ekim 2026).
+- **10 Ekim 2026:** Yıldız 41.148 → 59.633, son sürüm rea-agents-6.3.0 (9 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 37.239 → 41.148, son sürüm rea-agents-6.2.0 (9 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 34.379 → 37.239, son sürüm rea-agents-6.1.0 (9 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 24.429 → 34.379, son sürüm rea-agents-6.1.0 (9 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 20.955 → 24.429, son sürüm rea-agents-6.0.0 (8 Ekim 2026).
 
 ## Ne kazandırır?
 

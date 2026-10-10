@@ -2,12 +2,13 @@
 
 Escrcpy, Android cihazları bilgisayar üzerinden grafik arayüzle görüntülemeyi ve kontrol etmeyi sağlayan bir araçtır. Android ekranını bilgisayara yansıtan açık kaynaklı scrcpy yazılımı için görsel bir arayüz sunar.
 
-- ★ 11.570
+- ★ 12.012
 - JavaScript
 - GitHub Trending · 2026-09-09
 
 ## Güncelleme
 
+- **10 Ekim 2026:** Yıldız 11.570 → 12.012, son sürüm v3.3.1 (10 Ekim 2026).
 - **9 Eylül 2026:** Yıldız 11.562 → 11.570, son sürüm v3.2.0 (1 Eylül 2026).
 
 ## Ne kazandırır?

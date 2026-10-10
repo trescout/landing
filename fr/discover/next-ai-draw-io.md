@@ -2,12 +2,13 @@
 
 Cette application basée sur Next.js combine l'outil de création de diagrammes draw.io avec des capacités d'IA générative. Les utilisateurs peuvent créer des diagrammes visuels via des commandes en langage naturel et modifier leurs diagrammes existants avec la prise en charge de l'intelligence artificielle.
 
-- ★ 35 699
+- ★ 36 160
 - TypeScript
 - GitHub Trending · 2026-07-12
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 35,699 → 36,160, dernière version v0.5.0 (10 octobre 2026).
 - **8 septembre 2026:** Étoiles 33,999 → 35,699, dernière version v0.4.16 (21 mai 2026).
 - **2 août 2026:** Étoiles 33,359 → 33,999, dernière version v0.4.16 (21 mai 2026).
 

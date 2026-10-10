@@ -2,16 +2,16 @@
 
 LiveKit Agents é uma estrutura Python usada para desenvolver agentes de inteligência artificial de áudio e vídeo em tempo real. Ele permite que os desenvolvedores criem interações de voz de baixa latência, facilitando a criação de sistemas de IA que respondem como os humanos.
 
-- ★ 14.617
+- ★ 14.677
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Atualizações
 
+- **10 de outubro de 2026:** Estrelas 14,617 → 14,677, versão mais recente livekit-agents@1.8.6 (9 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 14,445 → 14,617, versão mais recente livekit-agents@1.8.5 (6 de outubro de 2026).
 - **2 de outubro de 2026:** Estrelas 14,368 → 14,445, versão mais recente livekit-agents@1.8.4 (1 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 14,221 → 14,368, versão mais recente livekit-agents@1.8.3 (26 de setembro de 2026).
-- **16 de setembro de 2026:** Estrelas 14,122 → 14,221, versão mais recente livekit-agents@1.8.2 (15 de setembro de 2026).
 
 ## O que você ganha
 

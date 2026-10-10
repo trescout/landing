@@ -70,8 +70,8 @@ Depende do serviço. Consulte a política antes de inserir dados sensíveis.
 
 ## Ferramentas relacionadas
 
-- [OmniRoute](https://trescout.com/pt/discover/omniroute/)
 - [AI Engineering from Scratch](https://trescout.com/pt/discover/ai-engineering-from-scratch/)
+- [OmniRoute](https://trescout.com/pt/discover/omniroute/)
 - [Awesome Gpt Image 2](https://trescout.com/pt/discover/awesome-gpt-image-2/)
 - [Flue](https://trescout.com/pt/discover/flue/)
 - [Codex-X](https://trescout.com/pt/discover/codex-x/)

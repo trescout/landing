@@ -2,12 +2,13 @@
 
 Escrcpy ist ein Tool, mit dem Android-Geräte über eine grafische Benutzeroberfläche auf dem Computer angezeigt und gesteuert werden können. Es bietet eine visuelle Oberfläche für die Open-Source-Software scrcpy, die den Android-Bildschirm auf den Computer spiegelt.
 
-- ★ 11.570
+- ★ 12.012
 - JavaScript
 - GitHub Trending · 2026-09-09
 
 ## Aktualisierungen
 
+- **10. Oktober 2026:** Sterne 11,570 → 12,012, neueste Version v3.3.1 (10. Oktober 2026).
 - **9. September 2026:** Sterne 11,562 → 11,570, neueste Version v3.2.0 (1. September 2026).
 
 ## Was es bringt

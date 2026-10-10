@@ -44,9 +44,9 @@ Oui, MCP dispose d'une structure qui maintient les autorisations d'accès aux do
 ## Outils liés
 
 - [Servers](https://trescout.com/fr/discover/servers/)
+- [REA](https://trescout.com/fr/discover/rea/)
 - [Goose](https://trescout.com/fr/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/fr/discover/chrome-devtools-mcp/)
-- [REA](https://trescout.com/fr/discover/rea/)
 - [Openclaude](https://trescout.com/fr/discover/openclaude/)
 - [Fastmcp](https://trescout.com/fr/discover/fastmcp/)
 - [Context Mode](https://trescout.com/fr/discover/context-mode/)

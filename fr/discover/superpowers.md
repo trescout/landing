@@ -2,17 +2,17 @@
 
 Superpowers est une méthodologie complète de développement logiciel de compétences composites pour vos agents de codage. Standardise les flux de travail basés sur des agents. Fonctionne avec Claude Code, Codex CLI, Gemini CLI et plus encore.
 
-- ★ 291 963
+- ★ 297 056
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 291,963 → 297,056, dernière version v7.0.0 (10 octobre 2026).
 - **27 septembre 2026:** Étoiles 288,623 → 291,963, dernière version v6.4.2 (25 septembre 2026).
 - **19 septembre 2026:** Étoiles 286,413 → 288,623, dernière version v6.4.1 (19 septembre 2026).
 - **14 septembre 2026:** Étoiles 272,477 → 286,413, dernière version v6.3.0 (12 août 2026).
-- **15 août 2026:** Étoiles 264,883 → 272,477, dernière version v6.3.0 (12 août 2026).
 
 ## Ce que ça vous apporte
 

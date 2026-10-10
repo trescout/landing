@@ -2,17 +2,17 @@
 
 Dieser Open-Source-Plugin-Satz von Anthropic vereint Fähigkeiten, Konnektoren, Slash-Befehle und Subagenten für jede Geschäftsfunktion. Diese Lösung, die es Claude ermöglicht, wie ein Experte auf seinem Gebiet zu agieren, umfasst 11 vorgefertigte Plugins, die für Claude Cowork entwickelt wurden.
 
-- ★ 26.989
+- ★ 28.563
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **10. Oktober 2026:** Sterne 26,989 → 28,563.
 - **7. Oktober 2026:** Sterne 25,686 → 26,989.
 - **27. September 2026:** Sterne 24,405 → 25,686.
 - **17. September 2026:** Sterne 23,222 → 24,405.
-- **1. August 2026:** Sterne 16,517 → 23,222.
 
 ## Was es bringt
 

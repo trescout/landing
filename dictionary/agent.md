@@ -48,7 +48,7 @@ Evet, eğer onlara gerekli izinleri ve araçları verirseniz dosyalarınızı y�
 - [Awesome LLM Apps](https://trescout.com/discover/awesome-llm-apps/)
 - [Browser Use](https://trescout.com/discover/browser-use/)
 - [Agent Skills](https://trescout.com/discover/agent-skills/)
-- [Taste Skill](https://trescout.com/discover/taste-skill/)
+- [Agent-Reach](https://trescout.com/discover/agent-reach/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

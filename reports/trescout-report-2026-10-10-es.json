@@ -1,0 +1,783 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-10",
+  "capturedAt": "2026-10-10T10:37:32.814Z",
+  "editorial": "La agenda tecnológica de hoy está dominada por la adquisición de Deno por parte de Cloudflare y los nuevos modelos de incrustación (embedding) publicados por Google. La actividad en GitHub y HuggingFace se centra en la optimización de la eficiencia de las herramientas de infraestructura y los modelos de inteligencia artificial.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea es una herramienta que analiza todo, desde comportamientos de aplicaciones hasta binarios nativos, mediante ingeniería inversa utilizando agentes de inteligencia artificial. Desarrollado en TypeScript, este proyecto tiene como objetivo automatizar el proceso de comprensión de estructuras de software complejas.",
+          "meta": "TypeScript · ★ 59.332 · +14.927 hoy",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 59332,
+              "engagementCount": 14927,
+              "rank": 1,
+              "extra": {
+                "starsToday": 14927
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 es una herramienta que sirve para portar automáticamente archivos ejecutables de PlayStation 5 a los sistemas operativos Linux y Windows. Desarrollado en C++, este software ofrece un proceso de conversión para que los juegos de consola puedan ejecutarse en diferentes plataformas.",
+          "meta": "C++ · ★ 24.176 · +5.868 hoy",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 24176,
+              "engagementCount": 5868,
+              "rank": 2,
+              "extra": {
+                "starsToday": 5868
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "mattpocock/skills es un repositorio que contiene paquetes de habilidades estructuradas que los desarrolladores de software utilizan para agentes de inteligencia artificial (AI agents). Comparte herramientas prácticas y definiciones de flujo de trabajo que los desarrolladores utilizan en sus propios directorios .agents.",
+          "meta": "Shell · ★ 283.526 · +1.687 hoy",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 283526,
+              "engagementCount": 1687,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1687
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design contiene 44 diseños de diagramas editoriales diferentes preparados para herramientas de inteligencia artificial como Claude Code, Codex, GitHub Copilot, Factory Droid y Pi. El proyecto ofrece plantillas visuales en formato HTML y SVG sin dependencias externas y libres de efectos de sombra.",
+          "meta": "HTML · ★ 48.417 · +1.739 hoy",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 48417,
+              "engagementCount": 1739,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1739
+              }
+            }
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "open-code-review, desarrollado por Alibaba, ofrece una arquitectura híbrida que combina tuberías (pipelines) deterministas con agentes de modelos de lenguaje grande (LLM) para automatizar los procesos de revisión de código. Escrita en Go, esta herramienta utiliza conjuntos de reglas multilingües para detectar vulnerabilidades de seguridad y funciona con interfaces compatibles con OpenAI y Anthropic.",
+          "meta": "Go · ★ 45.712 · +326 hoy",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 45712,
+              "engagementCount": 326,
+              "rank": 5,
+              "extra": {
+                "starsToday": 326
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "knowledge-work-plugins, desarrollado por Anthropic, es un repositorio de Python que contiene complementos (plugins) de código abierto que los trabajadores del conocimiento pueden utilizar dentro de Claude Cowork. Estas herramientas están diseñadas para automatizar flujos de trabajo complejos y aumentar la productividad.",
+          "meta": "Python · ★ 28.557 · +709 hoy",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 28557,
+              "engagementCount": 709,
+              "rank": 6,
+              "extra": {
+                "starsToday": 709
+              }
+            }
+          }
+        },
+        {
+          "title": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "summary": "BerriAI/litellm es una puerta de enlace (gateway) de inteligencia artificial que permite llamar a más de 100 interfaces de modelos de lenguaje grande (LLM) en un formato estándar único. Con su núcleo basado en Rust y su kit de desarrollo de software (SDK) en Python, ofrece funciones como seguimiento de costos, equilibrio de carga y medidas de seguridad.",
+          "meta": "Python · ★ 60.861 · +95 hoy",
+          "snapshot": {
+            "sourceId": "BerriAI/litellm",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60861,
+              "engagementCount": 95,
+              "rank": 7,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "addyosmani/agent-skills ofrece habilidades de ingeniería a nivel de producción para agentes de codificación de inteligencia artificial (AI coding agents). Desarrollada en JavaScript, esta biblioteca tiene como objetivo aumentar la funcionalidad de los agentes utilizados en los procesos de desarrollo de software.",
+          "meta": "JavaScript · ★ 104.299 · +436 hoy",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 104299,
+              "engagementCount": 436,
+              "rank": 8,
+              "extra": {
+                "starsToday": 436
+              }
+            }
+          }
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft es un motor de creación intencional desarrollado para artistas, diseñadores y cineastas. Preparada con el lenguaje de programación Rust, esta herramienta tiene como objetivo gestionar las etapas de producción en los procesos creativos.",
+          "meta": "Rust · ★ 12.751 · +3.752 hoy",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12751,
+              "engagementCount": 3752,
+              "rank": 9,
+              "extra": {
+                "starsToday": 3752
+              }
+            }
+          }
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "LingBot-Map, desarrollado por Robbyant, ofrece una arquitectura de transformador de contexto geométrico para procesos de reconstrucción 3D en streaming. Este trabajo basado en Python, candidato al premio al mejor artículo en ECCV 2026, propone un nuevo método para el procesamiento de datos espaciales.",
+          "meta": "Python · ★ 17.890 · +110 hoy",
+          "snapshot": {
+            "sourceId": "Robbyant/lingbot-map",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17890,
+              "engagementCount": 110,
+              "rank": 10,
+              "extra": {
+                "starsToday": 110
+              }
+            }
+          }
+        },
+        {
+          "title": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "summary": "twostraws/SwiftUI-Agent-Skill ofrece una habilidad de agente (agent skill) desarrollada para Claude Code, Codex y otras herramientas de inteligencia artificial para la creación de interfaces. Esta herramienta ayuda a que el código SwiftUI sea generado de manera más eficiente por los modelos de inteligencia artificial en los procesos de desarrollo de software.",
+          "meta": "★ 5.649 · +65 hoy",
+          "snapshot": {
+            "sourceId": "twostraws/SwiftUI-Agent-Skill",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "popularity": 5649,
+              "engagementCount": 65,
+              "rank": 11,
+              "extra": {
+                "starsToday": 65
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Cloudflare acquires Deno",
+          "url": "https://deno.com/blog/cloudflare",
+          "summary": "Cloudflare, proveedor de servicios de infraestructura web, ha adquirido la empresa de tiempo de ejecución (runtime) de JavaScript y TypeScript, Deno. Con esta fusión, el equipo de Deno continuará sus desarrollos en la plataforma de computación sin servidor (serverless) de Cloudflare.",
+          "meta": "1.243 puntos · 628 comentarios",
+          "snapshot": {
+            "sourceId": "50019911",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 1243,
+              "engagementCount": 628,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50019911",
+                  "popularity": 1243,
+                  "engagementCount": 628
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-09T13:03:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50019911"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50019911",
+              "popularity": 1243,
+              "engagementCount": 628
+            }
+          ]
+        },
+        {
+          "title": "Triple-A Minesweeper",
+          "url": "https://minesweeper.mikelacher.com/",
+          "summary": "Triple-A Minesweeper es un proyecto de juego basado en la web que presenta el clásico juego del buscaminas con gráficos y efectos visuales modernos. Combina la mecánica de juego clásica con una presentación visual de alta calidad, haciéndolo accesible a través del navegador.",
+          "meta": "993 puntos · 194 comentarios",
+          "snapshot": {
+            "sourceId": "50022292",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 993,
+              "engagementCount": 194,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50022292",
+                  "popularity": 993,
+                  "engagementCount": 194
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-09T15:51:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50022292"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50022292",
+              "popularity": 993,
+              "engagementCount": 194
+            }
+          ]
+        },
+        {
+          "title": "Sorry, I'm in a meeting",
+          "url": "https://iminafleeting.com/",
+          "summary": "Sorry, I'm in a meeting es una herramienta que detecta automáticamente los estados de las reuniones en su calendario y actualiza su estado en las aplicaciones de mensajería. Su objetivo es reducir la confusión en la comunicación permitiendo que sus colegas vean su disponibilidad en tiempo real.",
+          "meta": "910 puntos · 256 comentarios",
+          "snapshot": {
+            "sourceId": "50018088",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 910,
+              "engagementCount": 256,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50018088",
+                  "popularity": 910,
+                  "engagementCount": 256
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-09T09:21:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50018088"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50018088",
+              "popularity": 910,
+              "engagementCount": 256
+            }
+          ]
+        },
+        {
+          "title": "Our $445M Series D",
+          "url": "https://oxide.computer/blog/our-445m-series-d",
+          "summary": "El fabricante de hardware de servidores Oxide Computer ha obtenido 445 millones de dólares en una ronda de financiación de serie D. La empresa utilizará este capital para ampliar sus sistemas de servidores integrados (rack-scale computing) desarrollados para centros de datos empresariales.",
+          "meta": "660 puntos · 296 comentarios",
+          "snapshot": {
+            "sourceId": "50020014",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 660,
+              "engagementCount": 296,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50020014",
+                  "popularity": 660,
+                  "engagementCount": 296
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-09T13:12:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50020014"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50020014",
+              "popularity": 660,
+              "engagementCount": 296
+            }
+          ]
+        },
+        {
+          "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+          "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+          "summary": "Un creador de contenido declaró que las fuerzas de seguridad lo visitaron después de desarrollar un sistema de cámaras al estilo Flock para rastrear vehículos policiales. Dicho sistema funciona como una tecnología de vigilancia que identifica y registra automáticamente las matrículas de los vehículos.",
+          "meta": "578 puntos · 312 comentarios",
+          "snapshot": {
+            "sourceId": "50026555",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 578,
+              "engagementCount": 312,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50026555",
+                  "popularity": 578,
+                  "engagementCount": 312
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-09T21:06:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50026555"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50026555",
+              "popularity": 578,
+              "engagementCount": 312
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "embeddinggemma-2, desarrollado por Google, es un modelo de extracción de características (feature-extraction) que convierte textos en vectores numéricos. Se utiliza para transformar datos de texto en un formato legible por máquina en procesos de procesamiento de datos y búsqueda semántica.",
+          "meta": "♥ 1.416 · 45.605 descargas",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 1416,
+              "engagementCount": 45605,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1354,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "clef, desarrollado por Cloudflare, es un modelo de imagen-texto-a-texto que procesa entradas visuales y de texto para generar salidas de texto. Este modelo, alojado en la plataforma HuggingFace, está diseñado para procesos de procesamiento de datos multimodales.",
+          "meta": "♥ 1.961 · 13.579 descargas",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 1961,
+              "engagementCount": 13579,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 913,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "jialinyyzz/humanizer, compartido en HuggingFace, es un modelo de inteligencia artificial con capacidad de generación de texto (text-generation). Su objetivo es producir un lenguaje con un tono más natural y humano en los procesos de creación de contenido.",
+          "meta": "♥ 853 · 33.664 descargas",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 853,
+              "engagementCount": 33664,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 803,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, desarrollado por Aleph-Alpha, es un modelo de inteligencia artificial centrado en la generación de texto (text-generation). Accesible a través de la plataforma HuggingFace, este modelo ofrece capacidades de creación de texto para tareas de procesamiento de lenguaje.",
+          "meta": "♥ 850 · 10.496 descargas",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 850,
+              "engagementCount": 10496,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 738,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF es un modelo de inteligencia artificial con capacidad de generación de imágenes a partir de texto (text-to-image). El modelo se ofrece en formato de archivo GGUF como una versión libre de restricciones.",
+          "meta": "♥ 3.807 · 2.096.562 descargas",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 3807,
+              "engagementCount": 2096562,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 665,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "The Lattice of Transition Laws",
+          "url": "https://huggingface.co/papers/2610.11216",
+          "summary": "The Lattice of Transition Laws combina los métodos de difusión (diffusion) y autorregresión (autoregression), modelos generativos ampliamente utilizados, en un único marco. El estudio examina si el rendimiento de diferentes programas de decodificación (decoding) puede predecirse antes del procesamiento.",
+          "meta": "1 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2610.11216",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11216",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/TSUITUENYUE/The-Lattice-of-Transition-Laws",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics",
+          "url": "https://huggingface.co/papers/2609.38527",
+          "summary": "Este estudio en el campo de la robótica evolutiva examina la transferencia directa de un protocolo de comunicación coevolucionado desde una simulación 2D a un entorno físico 3D. En este proceso, realizado sin reentrenar los pesos de la red, se evalúa el rendimiento de señalización social de robots tipo e-puck en tareas de búsqueda de alimento.",
+          "meta": "0 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.38527",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.38527",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/ferdiex/essim",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
+          "url": "https://huggingface.co/papers/2610.09280",
+          "summary": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation examina la transferibilidad del mecanismo de comunicación desarrollado por dos agentes robóticos en un entorno bidimensional (2D) a un simulador tridimensional (3D) con reglas físicas. El estudio analiza cómo variables como la duración del episodio y las señales sociales afectan la funcionalidad de este método de comunicación en el nuevo entorno.",
+          "meta": "0 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2610.09280",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09280",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/ferdiex/essim2d3d",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+          "url": "https://huggingface.co/papers/2609.33987",
+          "summary": "Opera es un marco de crítico verbal desarrollado para agentes de codificación de largo horizonte (long-horizon coding agents) que rastrea las correcciones como notas persistentes. El sistema monitorea el proceso y realiza revisiones periódicas hasta que se resuelven los problemas diagnosticados para evitar que la retroalimentación sea ineficaz.",
+          "meta": "8 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.33987",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.33987",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/dongyuanjushi/Opera",
+                "githubStars": 6
+              }
+            }
+          }
+        },
+        {
+          "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+          "url": "https://huggingface.co/papers/2610.11169",
+          "summary": "Skill Constellations examina la red de intercambio en GitHub de los archivos de habilidades (SKILL.md) utilizados por los agentes de codificación de inteligencia artificial (como Claude Code y Codex). Este estudio aborda los riesgos de seguridad y los problemas de la cadena de suministro de software creados por la copia de habilidades sin un sistema de registro o seguimiento de versiones.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.11169",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11169",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/FahdSeddik/Skill-Constellations",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Archivos en lenguaje máquina que pueden ser ejecutados directamente por el procesador de la computadora sin necesidad de una conversión especial."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "El proceso de ingeniería inversa para comprender cómo funciona un software ya existente analizando su código o estructura."
+    },
+    {
+      "term": "executables",
+      "explanation": "Formatos de archivo ejecutables directamente en los que se hace clic para iniciar un programa en la computadora."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Programas de inteligencia artificial autónomos diseñados para tomar sus propias decisiones y realizar tareas específicas."
+    },
+    {
+      "term": "skills",
+      "explanation": "Conjuntos de habilidades o tareas específicas definidas para que los agentes de inteligencia artificial puedan realizar trabajos determinados."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Una secuencia de pasos de procesamiento automatizados por los que pasan los datos en orden para completar una tarea."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con volúmenes masivos de datos capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Pequeños programas auxiliares utilizados para ampliar las funciones del software principal o añadirle nuevas capacidades."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Software que actúa como un puente, proporcionando acceso a diferentes modelos de inteligencia artificial desde un único punto y gestionando las conexiones."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Conjunto de herramientas y bibliotecas de código que facilitan a los desarrolladores la creación de aplicaciones para una plataforma o sistema específico."
+    },
+    {
+      "term": "AI coding agents",
+      "explanation": "Software de inteligencia artificial que asume las tareas de escribir, depurar y editar código en los procesos de desarrollo de software."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Competencias técnicas que permiten a los agentes de inteligencia artificial trabajar bajo estándares profesionales de desarrollo de software."
+    },
+    {
+      "term": "intentional crafting engine",
+      "explanation": "Motor de software desarrollado por ArtCraft que permite a los usuarios generar contenido creativo orientado a objetivos específicos."
+    },
+    {
+      "term": "streaming 3D reconstruction",
+      "explanation": "Método de procesamiento y generación de modelos tridimensionales en tiempo real a medida que llegan los datos."
+    },
+    {
+      "term": "geometric context transformer",
+      "explanation": "Arquitectura de inteligencia artificial utilizada en LingBot-Map que analiza y da sentido a la información de forma y posición de los objetos."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "Habilidad especial adquirida por las herramientas de inteligencia artificial para diseñar o crear interfaces de usuario."
+    }
+  ]
+}

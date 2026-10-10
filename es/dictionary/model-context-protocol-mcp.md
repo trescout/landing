@@ -44,9 +44,9 @@ Es posible que se requieran algunos conocimientos técnicos durante la fase de i
 ## Herramientas relacionadas
 
 - [Servers](https://trescout.com/es/discover/servers/)
+- [REA](https://trescout.com/es/discover/rea/)
 - [Goose](https://trescout.com/es/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/es/discover/chrome-devtools-mcp/)
-- [REA](https://trescout.com/es/discover/rea/)
 - [Openclaude](https://trescout.com/es/discover/openclaude/)
 - [Fastmcp](https://trescout.com/es/discover/fastmcp/)
 - [Context Mode](https://trescout.com/es/discover/context-mode/)

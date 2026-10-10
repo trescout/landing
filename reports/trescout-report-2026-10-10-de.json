@@ -1,0 +1,783 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-10",
+  "capturedAt": "2026-10-10T10:37:32.814Z",
+  "editorial": "Die heutige Technologie-Agenda wird von der Übernahme von Deno durch das Unternehmen Cloudflare und den von Google veröffentlichten neuen Embedding-Modellen dominiert. Die Aktivitäten auf GitHub und HuggingFace konzentrieren sich auf die Effizienzoptimierung von Infrastruktur-Tools und Modellen der künstlichen Intelligenz.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea ist ein Tool, das alles von Anwendungsverhalten bis hin zu nativen Binärdateien mithilfe von KI-Agenten durch Reverse Engineering analysiert. Dieses in TypeScript entwickelte Projekt zielt darauf ab, den Prozess der Interpretation komplexer Softwarestrukturen zu automatisieren.",
+          "meta": "TypeScript · ★ 59.332 · +14.927 heute",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 59332,
+              "engagementCount": 14927,
+              "rank": 1,
+              "extra": {
+                "starsToday": 14927
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 ist ein Tool, das dazu dient, ausführbare PlayStation 5-Dateien automatisch auf Linux- und Windows-Betriebssysteme zu portieren. Diese in C++ entwickelte Software bietet einen Konvertierungsprozess, damit Konsolenspiele auf verschiedenen Plattformen ausgeführt werden können.",
+          "meta": "C++ · ★ 24.176 · +5.868 heute",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 24176,
+              "engagementCount": 5868,
+              "rank": 2,
+              "extra": {
+                "starsToday": 5868
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "mattpocock/skills ist ein Repository, das strukturierte Skill-Pakete enthält, die Softwareentwickler für KI-Agenten (AI agents) verwenden. Es stellt praktische Werkzeuge und Workflow-Definitionen zur Verfügung, die Entwickler in ihren eigenen .agents-Verzeichnissen nutzen können.",
+          "meta": "Shell · ★ 283.526 · +1.687 heute",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 283526,
+              "engagementCount": 1687,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1687
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design enthält 44 verschiedene redaktionelle Diagrammdesigns, die für KI-Tools wie Claude Code, Codex, GitHub Copilot, Factory Droid und Pi erstellt wurden. Das Projekt bietet visuelle Vorlagen im HTML- und SVG-Format ohne externe Abhängigkeiten und frei von Schatteneffekten.",
+          "meta": "HTML · ★ 48.417 · +1.739 heute",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 48417,
+              "engagementCount": 1739,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1739
+              }
+            }
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Das von Alibaba entwickelte open-code-review bietet eine hybride Architektur, die deterministische Pipelines mit Large Language Model (LLM)-Agenten kombiniert, um Code-Review-Prozesse zu automatisieren. Das in der Sprache Go geschriebene Tool verwendet mehrsprachige Regelsätze zur Erkennung von Sicherheitslücken und arbeitet mit Schnittstellen, die mit OpenAI und Anthropic kompatibel sind.",
+          "meta": "Go · ★ 45.712 · +326 heute",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 45712,
+              "engagementCount": 326,
+              "rank": 5,
+              "extra": {
+                "starsToday": 326
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Die von Anthropics entwickelten knowledge-work-plugins sind ein Python-Repository, das Open-Source-Plugins enthält, die Wissensarbeiter innerhalb von Claude Cowork nutzen können. Diese Tools wurden entwickelt, um komplexe Arbeitsabläufe zu automatisieren und die Produktivität zu steigern.",
+          "meta": "Python · ★ 28.557 · +709 heute",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 28557,
+              "engagementCount": 709,
+              "rank": 6,
+              "extra": {
+                "starsToday": 709
+              }
+            }
+          }
+        },
+        {
+          "title": "BerriAI/litellm",
+          "url": "https://github.com/BerriAI/litellm",
+          "summary": "BerriAI/litellm ist ein KI-Gateway, das den Aufruf von über 100 Large Language Model (LLM)-Schnittstellen in einem einheitlichen Standardformat ermöglicht. Mit seinem Rust-basierten Kern und dem Python Software Development Kit (SDK) bietet es Funktionen wie Kostenverfolgung, Lastverteilung und Sicherheitsmaßnahmen.",
+          "meta": "Python · ★ 60.861 · +95 heute",
+          "snapshot": {
+            "sourceId": "BerriAI/litellm",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60861,
+              "engagementCount": 95,
+              "rank": 7,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "addyosmani/agent-skills bietet Engineering-Fähigkeiten auf Produktionsebene für KI-Codierungsagenten (AI coding agents). Diese in JavaScript entwickelte Bibliothek zielt darauf ab, die Funktionalität von Agenten zu erweitern, die in Softwareentwicklungsprozessen eingesetzt werden.",
+          "meta": "JavaScript · ★ 104.299 · +436 heute",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 104299,
+              "engagementCount": 436,
+              "rank": 8,
+              "extra": {
+                "starsToday": 436
+              }
+            }
+          }
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft ist eine für Künstler, Designer und Filmemacher entwickelte intentional crafting engine. Das mit der Programmiersprache Rust erstellte Tool zielt darauf ab, die Produktionsphasen in kreativen Prozessen zu verwalten.",
+          "meta": "Rust · ★ 12.751 · +3.752 heute",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12751,
+              "engagementCount": 3752,
+              "rank": 9,
+              "extra": {
+                "starsToday": 3752
+              }
+            }
+          }
+        },
+        {
+          "title": "Robbyant/lingbot-map",
+          "url": "https://github.com/Robbyant/lingbot-map",
+          "summary": "LingBot-Map, entwickelt von Robbyant, bietet eine Geometric-Context-Transformer-Architektur für Streaming-3D-Rekonstruktionsprozesse. Diese auf Python basierende Arbeit, die für den Best Paper Award der ECCV 2026 nominiert ist, schlägt eine neue Methode zur Verarbeitung räumlicher Daten vor.",
+          "meta": "Python · ★ 17.890 · +110 heute",
+          "snapshot": {
+            "sourceId": "Robbyant/lingbot-map",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 17890,
+              "engagementCount": 110,
+              "rank": 10,
+              "extra": {
+                "starsToday": 110
+              }
+            }
+          }
+        },
+        {
+          "title": "twostraws/SwiftUI-Agent-Skill",
+          "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+          "summary": "twostraws/SwiftUI-Agent-Skill bietet eine Fähigkeit zur Erstellung von Benutzeroberflächen (Agent Skill), die für Claude Code, Codex und andere KI-Tools entwickelt wurde. Dieses Tool hilft dabei, SwiftUI-Code in Softwareentwicklungsprozessen effizienter durch KI-Modelle generieren zu lassen.",
+          "meta": "★ 5.649 · +65 heute",
+          "snapshot": {
+            "sourceId": "twostraws/SwiftUI-Agent-Skill",
+            "capturedAt": "2026-10-10T10:52:35.304Z",
+            "metadata": {
+              "popularity": 5649,
+              "engagementCount": 65,
+              "rank": 11,
+              "extra": {
+                "starsToday": 65
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Cloudflare acquires Deno",
+          "url": "https://deno.com/blog/cloudflare",
+          "summary": "Cloudflare, ein Anbieter von Web-Infrastrukturdiensten, hat das Unternehmen Deno, das eine JavaScript- und TypeScript-Laufzeitumgebung (Runtime) entwickelt, übernommen. Mit dieser Fusion wird das Deno-Team seine Entwicklungen auf der serverlosen (serverless) Computing-Plattform von Cloudflare fortsetzen.",
+          "meta": "1.243 Punkte · 628 Kommentare",
+          "snapshot": {
+            "sourceId": "50019911",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 1243,
+              "engagementCount": 628,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50019911",
+                  "popularity": 1243,
+                  "engagementCount": 628
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-09T13:03:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50019911"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50019911",
+              "popularity": 1243,
+              "engagementCount": 628
+            }
+          ]
+        },
+        {
+          "title": "Triple-A Minesweeper",
+          "url": "https://minesweeper.mikelacher.com/",
+          "summary": "Triple-A Minesweeper ist ein webbasiertes Spielprojekt, das den klassischen Minesweeper-Klassiker mit moderner Grafik und visuellen Effekten präsentiert. Es kombiniert klassische Spielmechaniken mit einer hochwertigen visuellen Darstellung und macht sie über den Browser zugänglich.",
+          "meta": "993 Punkte · 194 Kommentare",
+          "snapshot": {
+            "sourceId": "50022292",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 993,
+              "engagementCount": 194,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50022292",
+                  "popularity": 993,
+                  "engagementCount": 194
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-09T15:51:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50022292"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50022292",
+              "popularity": 993,
+              "engagementCount": 194
+            }
+          ]
+        },
+        {
+          "title": "Sorry, I'm in a meeting",
+          "url": "https://iminafleeting.com/",
+          "summary": "Sorry, I'm in a meeting ist ein Tool, das automatisch Besprechungsstatus in Ihrem Kalender erkennt und Ihren Status in Messaging-Apps aktualisiert. Es zielt darauf ab, Kommunikationsverwirrung zu reduzieren, indem es Kollegen ermöglicht, Ihre Verfügbarkeit in Echtzeit zu sehen.",
+          "meta": "910 Punkte · 256 Kommentare",
+          "snapshot": {
+            "sourceId": "50018088",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 910,
+              "engagementCount": 256,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50018088",
+                  "popularity": 910,
+                  "engagementCount": 256
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-09T09:21:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50018088"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50018088",
+              "popularity": 910,
+              "engagementCount": 256
+            }
+          ]
+        },
+        {
+          "title": "Our $445M Series D",
+          "url": "https://oxide.computer/blog/our-445m-series-d",
+          "summary": "Der Server-Hardwarehersteller Oxide Computer hat in einer Finanzierungsrunde der Serie D 445 Millionen US-Dollar erhalten. Das Unternehmen wird dieses Kapital nutzen, um seine integrierten Serversysteme (Rack-Scale Computing) für Unternehmensrechenzentren auszubauen.",
+          "meta": "660 Punkte · 296 Kommentare",
+          "snapshot": {
+            "sourceId": "50020014",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 660,
+              "engagementCount": 296,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50020014",
+                  "popularity": 660,
+                  "engagementCount": 296
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-09T13:12:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50020014"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50020014",
+              "popularity": 660,
+              "engagementCount": 296
+            }
+          ]
+        },
+        {
+          "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+          "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+          "summary": "Ein Content-Ersteller berichtete, dass er von Sicherheitskräften besucht wurde, nachdem er ein Kamerasystem im Flock-Stil entwickelt hatte, um Polizeifahrzeuge zu verfolgen. Das betreffende System fungiert als Überwachungstechnologie (surveillance technology), die Fahrzeugkennzeichen automatisch identifiziert und aufzeichnet.",
+          "meta": "578 Punkte · 312 Kommentare",
+          "snapshot": {
+            "sourceId": "50026555",
+            "capturedAt": "2026-10-10T10:37:33.098Z",
+            "metadata": {
+              "popularity": 578,
+              "engagementCount": 312,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50026555",
+                  "popularity": 578,
+                  "engagementCount": 312
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-09T21:06:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50026555"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50026555",
+              "popularity": 578,
+              "engagementCount": 312
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Das von Google entwickelte embeddinggemma-2 ist ein Modell zur Merkmalsextraktion (feature-extraction), das Texte in numerische Vektoren umwandelt. Es wird bei der Datenverarbeitung und semantischen Suche eingesetzt, um Textdaten in ein maschinenlesbares Format zu bringen.",
+          "meta": "♥ 1.416 · 45.605 Downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 1416,
+              "engagementCount": 45605,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1354,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Das von Cloudflare entwickelte clef ist ein Bild-Text-zu-Text-Modell (image-text-to-text), das visuelle und Texteingaben verarbeitet, um Textausgaben zu erzeugen. Dieses auf der HuggingFace-Plattform gehostete Modell ist für multimodale Datenverarbeitungsprozesse konzipiert.",
+          "meta": "♥ 1.961 · 13.579 Downloads",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 1961,
+              "engagementCount": 13579,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 913,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "Das auf HuggingFace geteilte jialinyyzz/humanizer ist ein KI-Modell mit Textgenerierungsfähigkeiten (text-generation). Es zielt darauf ab, bei der Inhaltserstellung eine natürlichere und menschenähnlichere Sprache zu erzeugen.",
+          "meta": "♥ 853 · 33.664 Downloads",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 853,
+              "engagementCount": 33664,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 803,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, entwickelt von Aleph-Alpha, ist ein auf Textgenerierung (text-generation) fokussiertes KI-Modell. Dieses über die HuggingFace-Plattform zugängliche Modell bietet Textgenerierungsfunktionen für Sprachverarbeitungsaufgaben.",
+          "meta": "♥ 850 · 10.496 Downloads",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 850,
+              "engagementCount": 10496,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 738,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF ist ein KI-Modell mit der Fähigkeit zur Text-zu-Bild-Generierung (text-to-image). Das Modell wird als unzensierte Version im GGUF-Dateiformat angeboten.",
+          "meta": "♥ 3.807 · 2.096.562 Downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-10-10T10:37:32.955Z",
+            "metadata": {
+              "popularity": 3807,
+              "engagementCount": 2096562,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 665,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "The Lattice of Transition Laws",
+          "url": "https://huggingface.co/papers/2610.11216",
+          "summary": "The Lattice of Transition Laws vereint die weit verbreiteten generativen Modelle Diffusion und Autoregression in einem einzigen Rahmenwerk. Die Studie untersucht, ob die Leistung verschiedener Dekodierungsprogramme (decoding) vor der Verarbeitung vorhergesagt werden kann.",
+          "meta": "1 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.11216",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11216",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/TSUITUENYUE/The-Lattice-of-Transition-Laws",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics",
+          "url": "https://huggingface.co/papers/2609.38527",
+          "summary": "Diese Studie im Bereich der evolutionären Robotik untersucht die direkte Übertragung eines ko-evolvierten Kommunikationsprotokolls von einer 2D-Simulation in eine 3D-physikalische Umgebung. In diesem Prozess, der ohne ein erneutes Training der Netzwerkgewichte durchgeführt wird, wird die soziale Signalleistung von Robotern des Typs e-puck bei der Nahrungssuche bewertet.",
+          "meta": "0 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.38527",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.38527",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/ferdiex/essim",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
+          "url": "https://huggingface.co/papers/2610.09280",
+          "summary": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation untersucht die Übertragbarkeit des Kommunikationsmechanismus, den zwei robotische Agenten in einer zweidimensionalen (2D) Umgebung entwickelt haben, auf einen dreidimensionalen (3D) Simulator mit physikalischen Regeln. Die Studie analysiert, wie Variablen wie die Episodendauer und soziale Hinweise die Funktionalität dieser Kommunikationsmethode in der neuen Umgebung beeinflussen.",
+          "meta": "0 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.09280",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09280",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/ferdiex/essim2d3d",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+          "url": "https://huggingface.co/papers/2609.33987",
+          "summary": "Opera ist ein Framework für verbale Kritiker, das für langfristige Coding-Agenten (long-horizon coding agents) entwickelt wurde und Korrekturen als dauerhafte Notizen verfolgt. Das System überwacht den Prozess und führt regelmäßige Überprüfungen durch, bis die diagnostizierten Probleme gelöst sind, um zu verhindern, dass Rückmeldungen wirkungslos bleiben.",
+          "meta": "8 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.33987",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.33987",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/dongyuanjushi/Opera",
+                "githubStars": 6
+              }
+            }
+          }
+        },
+        {
+          "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+          "url": "https://huggingface.co/papers/2610.11169",
+          "summary": "Skill Constellations untersucht das Netzwerk der auf GitHub geteilten Fähigkeitsdateien (SKILL.md), die von KI-Coding-Agenten (wie Claude Code und Codex) verwendet werden. Diese Studie befasst sich mit den Sicherheitsrisiken und Problemen der Software-Lieferkette, die durch das Kopieren von Fähigkeiten ohne Registrierungssystem oder Versionsverfolgung entstehen.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.11169",
+            "capturedAt": "2026-10-10T10:37:32.958Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11169",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/FahdSeddik/Skill-Constellations",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Maschinensprachdateien, die direkt vom Prozessor des Computers ausgeführt werden können und keine spezielle Konvertierung erfordern."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Der Prozess der Rückwärtsanalyse (Reverse Engineering) des Codes oder der Struktur einer fertigen Software, um zu verstehen, wie sie funktioniert."
+    },
+    {
+      "term": "executables",
+      "explanation": "Direkt ausführbare Dateiformate, auf die geklickt wird, um ein Programm auf dem Computer zu starten."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome KI-Programme, die in der Lage sind, selbstständig Entscheidungen zu treffen und für die Erfüllung spezifischer Aufgaben konzipiert sind."
+    },
+    {
+      "term": "skills",
+      "explanation": "Spezielle Fähigkeits- oder Aufgabensätze, die für KI-Agenten definiert wurden, um bestimmte Arbeiten ausführen zu können."
+    },
+    {
+      "term": "pipelines",
+      "explanation": "Eine Abfolge automatisierter Prozessschritte, bei denen Daten nacheinander durchlaufen, um eine Aufgabe abzuschließen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden und in der Lage sind, menschliche Sprache zu verstehen und Texte zu generieren."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Kleine Hilfsprogramme, die verwendet werden, um die Funktionen der Hauptsoftware zu erweitern oder ihr neue Fähigkeiten hinzuzufügen."
+    },
+    {
+      "term": "AI gateway",
+      "explanation": "Eine Software, die als Brücke fungiert, um von einem einzigen Punkt aus auf verschiedene KI-Modelle zuzugreifen und die Verbindungen zu verwalten."
+    },
+    {
+      "term": "SDK",
+      "explanation": "Eine Gesamtheit von Werkzeugen und Code-Bibliotheken, die es Entwicklern erleichtert, Anwendungen für eine bestimmte Plattform oder ein System zu entwickeln."
+    },
+    {
+      "term": "AI coding agents",
+      "explanation": "KI-Software, die Aufgaben wie das Schreiben, Debuggen und Bearbeiten von Code in Softwareentwicklungsprozessen übernimmt."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Technische Kompetenzen, die es KI-Agenten ermöglichen, Aufgaben nach professionellen Softwareentwicklungsstandards auszuführen."
+    },
+    {
+      "term": "intentional crafting engine",
+      "explanation": "Eine von ArtCraft entwickelte Software-Engine, die es Benutzern ermöglicht, kreative Inhalte für bestimmte Ziele zu erstellen."
+    },
+    {
+      "term": "streaming 3D reconstruction",
+      "explanation": "Eine Methode zur Echtzeit-Verarbeitung und Erstellung von 3D-Modellen, sobald Daten eintreffen."
+    },
+    {
+      "term": "geometric context transformer",
+      "explanation": "Eine in LingBot-Map verwendete KI-Architektur, die Form- und Positionsinformationen von Objekten analysiert und interpretiert."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "Die spezielle Fähigkeit, die KI-Tools beim Entwerfen oder Erstellen von Benutzeroberflächen erworben haben."
+    }
+  ]
+}

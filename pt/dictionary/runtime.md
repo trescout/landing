@@ -63,8 +63,8 @@ O compilador JIT detecta instantaneamente blocos de código usados ​​com fre
 - [BUN](https://trescout.com/pt/discover/bun/)
 - [Svelte](https://trescout.com/pt/discover/svelte/)
 - [Wand-Enhancer](https://trescout.com/pt/discover/wand-enhancer/)
-- [Onnxruntime](https://trescout.com/pt/discover/onnxruntime/)
 - [Univer](https://trescout.com/pt/discover/univer/)
+- [Onnxruntime](https://trescout.com/pt/discover/onnxruntime/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/runtime/)
 

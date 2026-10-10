@@ -2,16 +2,16 @@
 
 ArtCraft, sanatçılar ve tasarımcılar için geliştirilmiş bir içerik üretim motoru (crafting engine). Rust diliyle yazılan bu araç, yaratıcı süreçlerdeki karmaşık iş akışlarını otomatize ederek görsel üretim süreçlerini standartlaştırıyor.
 
-- ★ 10.791
+- ★ 12.785
 - Rust
 - GitHub Trending · 2026-10-08
 
 ## Güncelleme
 
+- **10 Ekim 2026:** Yıldız 10.791 → 12.785, son sürüm artcraft-v0.41.0 (26 Eylül 2026).
 - **9 Ekim 2026:** Yıldız 9.653 → 10.791, son sürüm artcraft-v0.41.0 (26 Eylül 2026).
 - **9 Ekim 2026:** Yıldız 7.549 → 9.653, son sürüm artcraft-v0.41.0 (26 Eylül 2026).
 - **8 Ekim 2026:** Yıldız 6.089 → 7.549, son sürüm artcraft-v0.41.0 (26 Eylül 2026).
-- **8 Ekim 2026:** Yıldız 5.919 → 6.089, son sürüm artcraft-v0.41.0 (26 Eylül 2026).
 
 ## Ne kazandırır?
 

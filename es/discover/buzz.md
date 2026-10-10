@@ -2,16 +2,16 @@
 
 Desarrollado por Block en Rust, Buzz está diseñado como una plataforma descentralizada de comunicación mental en colmena. Proporciona una infraestructura que admite el intercambio colectivo de datos y la interacción simultánea a través de una estructura de red distribuida.
 
-- ★ 35.636
+- ★ 35.803
 - Rust
 - GitHub Trending · 2026-07-24
 
 ## Actualizaciones
 
+- **10 de octubre de 2026:** Estrellas 35,636 → 35,803, última versión desktop-v0.5.28 (9 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 35,303 → 35,636, última versión desktop-v0.5.27 (6 de octubre de 2026).
 - **29 de septiembre de 2026:** Estrellas 34,835 → 35,303, última versión desktop-v0.5.26 (29 de septiembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 32,216 → 34,835, última versión desktop-v0.5.25 (24 de septiembre de 2026).
-- **6 de septiembre de 2026:** Estrellas 32,167 → 32,216, última versión desktop-v0.5.23 (5 de septiembre de 2026).
 
 ## Qué aporta
 

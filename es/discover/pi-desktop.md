@@ -2,16 +2,16 @@
 
 PI-Desktop es un agente de codificación de inteligencia artificial desarrollado con un principio de trabajo de prioridad local (local-first). Con su arquitectura basada en Electron (marco de desarrollo de aplicaciones de escritorio) y Rust (lenguaje de programación de sistemas), ofrece un entorno de desarrollo de software personalizable donde los usuarios pueden instalar sus propios complementos.
 
-- ★ 6.458
+- ★ 6.617
 - TypeScript
 - GitHub Trending · 2026-09-10
 
 ## Actualizaciones
 
+- **10 de octubre de 2026:** Estrellas 6,458 → 6,617, última versión v0.18.0 (10 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 6,331 → 6,458, última versión v0.17.0 (7 de octubre de 2026).
 - **4 de octubre de 2026:** Estrellas 6,247 → 6,331, última versión v0.16.1 (4 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 6,014 → 6,247, última versión v0.16.0 (1 de octubre de 2026).
-- **28 de septiembre de 2026:** Estrellas 6,006 → 6,014, última versión v0.15.10 (28 de septiembre de 2026).
 
 ## Qué aporta
 

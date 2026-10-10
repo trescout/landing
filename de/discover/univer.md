@@ -2,15 +2,15 @@
 
 Univer ist eine Open-Source-Plattform, die Office-Werkzeuge wie Tabellenkalkulationen, Dokumente und Präsentationen in einer einzigen Laufzeitumgebung (Runtime) vereint. Sie bietet eine modulare Struktur, die entwickelt wurde, um die Interaktion von KI-Agenten (AI Agents) mit Office-Software zu erleichtern.
 
-- ★ 21.590
+- ★ 22.527
 - GitHub Trending · 2026-09-23
 
 ## Aktualisierungen
 
+- **10. Oktober 2026:** Sterne 21,590 → 22,527, neueste Version v1.0.4 (10. Oktober 2026).
 - **29. September 2026:** Sterne 21,050 → 21,590, neueste Version v1.0.3 (29. September 2026).
 - **28. September 2026:** Sterne 19,922 → 21,050, neueste Version v1.0.2 (24. September 2026).
 - **27. September 2026:** Sterne 18,873 → 19,922, neueste Version v1.0.2 (24. September 2026).
-- **25. September 2026:** Sterne 15,941 → 18,050.
 
 ## Was es bringt
 

@@ -2,11 +2,12 @@
 
 PM Skills Marketplace propose plus de 100 compétences agents, commandes et plugins développés pour les processus de gestion de produits. Cette ressource vise à standardiser les flux de travail basés sur l'IA tout au long du cycle de vie du produit, de la découverte à la croissance.
 
-- ★ 26 032
+- ★ 26 866
 - GitHub Trending · 2026-06-09
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 26,032 → 26,866, dernière version v2.2.0 (10 octobre 2026).
 - **6 septembre 2026:** Étoiles 24,775 → 26,032, dernière version v2.1.0 (3 juillet 2026).
 - **2 août 2026:** Étoiles 12,983 → 24,775, dernière version v2.1.0 (3 juillet 2026).
 

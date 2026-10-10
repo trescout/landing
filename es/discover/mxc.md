@@ -2,12 +2,13 @@
 
 Desarrollado por Microsoft, MXC es una solución de contención y aislamiento en capas basada en políticas escrita en lenguaje Rust. Está diseñado para limitar de forma segura los recursos del sistema y aumentar la seguridad de las aplicaciones.
 
-- ★ 1.398
+- ★ 2.506
 - Rust
 - GitHub Trending · 2026-06-07
 
 ## Actualizaciones
 
+- **10 de octubre de 2026:** Estrellas 1,398 → 2,506, última versión v1.0.0 (7 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 641 → 1,398, última versión v1.0.0 (7 de octubre de 2026).
 
 ## Qué aporta

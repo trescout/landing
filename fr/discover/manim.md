@@ -2,11 +2,12 @@
 
 Manim est un moteur d’animation pour créer par programmation des vidéos mathématiques explicatives et précises. Vous pouvez définir les animations en Python et commencer avec les scènes d’exemple du dépôt 3b1b sélectionné.
 
-- ★ 90 309
+- ★ 94 837
 - GitHub Trending · 2026-08-12
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 90,309 → 94,837, dernière version v1.7.2 (13 décembre 2024).
 - **12 août 2026:** Étoiles 90,306 → 90,309, dernière version v1.7.2 (13 décembre 2024).
 
 ## Installation

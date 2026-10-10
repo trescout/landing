@@ -2,16 +2,16 @@
 
 Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için geliştirilen bir yetenek paketi (agent skills) koleksiyonudur. JavaScript tabanlı bu kütüphane, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasına olanak tanır.
 
-- ★ 18.610
+- ★ 18.885
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
 
+- **10 Ekim 2026:** Yıldız 18.610 → 18.885, son sürüm v0.7.20 (10 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 18.363 → 18.610, son sürüm v0.7.19 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 17.698 → 18.363, son sürüm v0.7.17 (8 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 17.095 → 17.698, son sürüm v0.7.15 (6 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 16.644 → 17.095, son sürüm v0.7.14 (5 Ekim 2026).
 
 ## Ne kazandırır?
 

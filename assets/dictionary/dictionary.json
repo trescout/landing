@@ -9150,5 +9150,18 @@
     "kisa_pt": "É uma rede de Internet das Coisas que permite que dispositivos físicos troquem dados entre si por meio de sensores e da internet.",
     "kisa_es": "Es una red del internet de las cosas que permite a los dispositivos físicos intercambiar datos entre sí a través de sensores e internet.",
     "kisa_de": "Ein Internet-der-Dinge-Netzwerk, das es physischen Geräten ermöglicht, über Sensoren und das Internet Daten untereinander auszutauschen."
+  },
+  {
+    "slug": "streaming-3d-reconstruction",
+    "en": "Streaming 3D Reconstruction",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kamera veya sensörlerden gelen veri akışını bekletmeden, anlık olarak üç boyutlu dijital modele dönüştürme yöntemidir.",
+    "date": "2026-10-10",
+    "kisa_en": "It is a method of converting the data stream coming from cameras or sensors into a three-dimensional digital model in real time, without delay.",
+    "kisa_fr": "Il s'agit d'une méthode permettant de convertir instantanément et sans délai le flux de données provenant de caméras ou de capteurs en un modèle numérique tridimensionnel.",
+    "kisa_pt": "É um método para converter o fluxo de dados provenientes de câmeras ou sensores em um modelo digital tridimensional, de forma instantânea e sem atraso.",
+    "kisa_es": "Es el método de convertir el flujo de datos proveniente de cámaras o sensores en un modelo digital tridimensional de manera instantánea y sin demora.",
+    "kisa_de": "Es ist ein Verfahren zur sofortigen und verzögerungsfreien Umwandlung des Datenstroms von Kameras oder Sensoren in ein dreidimensionales digitales Modell."
   }
 ]
