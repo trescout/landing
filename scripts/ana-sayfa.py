@@ -249,6 +249,14 @@ M = {
         "eposta": "E-Mail-Adresse", "eposta_yer": "Ihre E-Mail-Adresse", "katil": "Eintragen",
     },
 }
+# "yeni" yalnız hiç listelenmemiş madde; 30 günden önce listelenip dönen "yeniden" (2026-10-10, Burhan)
+for _k, (_e, _a) in {"tr": ("yeniden", "Son 30 günde yoktu, daha önceki raporlarda vardı"),
+                     "en": ("back", "Not in the last 30 days, but in earlier reports"),
+                     "fr": ("de retour", "Absent des 30 derniers jours, présent dans des rapports plus anciens"),
+                     "pt": ("de volta", "Não estava nos últimos 30 dias, mas sim em relatórios anteriores"),
+                     "es": ("de vuelta", "No estaba en los últimos 30 días, pero sí en informes anteriores"),
+                     "de": ("wieder da", "Nicht in den letzten 30 Tagen, aber in früheren Berichten")}.items():
+    M[_k]["yeniden"], M[_k]["yeniden_aciklama"] = _e, _a
 # Ay ve gün adları, binlik ayırıcı diller.py'den (Türkçe burada)
 for _kod, _d in DILLER.items():
     M[_kod].setdefault("aylar", _d["aylar"])
@@ -435,11 +443,13 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
     d = datetime.date.fromisoformat(t)
     son7 = sorted(x for x in butun_tarihler if x <= t)[-7:]
 
-    onceki = set()
+    onceki, eski = set(), set()
     for x in butun_tarihler:
         fark = (d - datetime.date.fromisoformat(x)).days
         if 0 < fark <= 30:
             onceki |= urller(x)
+        elif fark > 30:
+            eski |= urller(x)
 
     maddeler = [(s["sourceName"], it) for s in r["sections"] for it in s["items"]]
     n = len(maddeler)
@@ -486,8 +496,9 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
         for it in s["items"][: GOSTER.get(k, 1)]:
             varlik = [it["url"] in urller(x) for x in son7]
             sayilar, prog_dili = madde_sayilari(k, it, m)
-            yeni = (f' <span class="ana-yeni" title="{e(m["yeni_aciklama"])}">{e(m["yeni"])}</span>'
-                    if it["url"] not in onceki else "")
+            donen = it["url"] in eski
+            yeni = (f' <span class="ana-yeni" title="{e(m["yeniden_aciklama" if donen else "yeni_aciklama"])}">'
+                    f'{e(m["yeniden" if donen else "yeni"])}</span>' if it["url"] not in onceki else "")
             etiket = f'<span class="ana-iz-etiket">{e(m["son7"])}</span>' if ilk_madde else ""
             ilk_madde = False
             dil_satiri = f'<p class="ana-madde-dil">{e(prog_dili)}</p>' if prog_dili else ""
