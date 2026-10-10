@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import DILLER, nav_etiketleri
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-EXPECTED_TR = ('Keşif', 'Sözlük', 'Raporlar', 'Karşılaştır', 'EN', 'FR', 'PT', 'ES', 'DE')
+EXPECTED_TR = ('Keşif', 'Sözlük', 'Raporlar', 'EN', 'FR', 'PT', 'ES', 'DE')
 
 # Üretilen diller · nav = bölüm adları + "TR" düğmesi + erken erişim CTA'sı.
 # chrome() bu sırayla basıyor (diller.py), guard aynı sırayı bekliyor.
@@ -61,9 +61,9 @@ for p in sorted(glob.glob(os.path.join(ROOT, '**', '*.html'), recursive=True)):
 
 # Menü yuvaları sabit genişlikte (assets/site.css · .nav-actions nth-of-type).
 # Genişlikler en uzun etikete göre; yeni/uzun bir etiket gelirse CSS de güncellenmeli.
-YUVA_AZAMI = (9, 10, 10, 11)   # Découvrir · Dictionary · Relatórios · Karşılaştır (2026-10-10: rapor etiketleri kısaldı)
+YUVA_AZAMI = (9, 10, 10)   # Découvrir · Dictionary · Relatórios
 for onek, etiketler in [('tr/', EXPECTED_TR)] + sorted(SETLER.items()):
-    for i, (etiket, azami) in enumerate(zip(etiketler[:4], YUVA_AZAMI)):
+    for i, (etiket, azami) in enumerate(zip(etiketler[:3], YUVA_AZAMI)):
         if len(etiket) > azami:
             bad.append((f"{onek}menü {i + 1}. yuva", (f"'{etiket}' {len(etiket)} karakter > {azami} · "
                         "assets/site.css min-width ve YUVA_AZAMI güncellenmeli",)))

@@ -63,6 +63,10 @@ jobs:
         run: python3 scripts/check-footer-consistency.py
       - name: Logo geometri kontrolü
         run: python3 scripts/check-logo-consistency.py
+      - name: Favicon fallback consistency
+        run: |
+          python3 scripts/sync-favicon.py --self-test
+          python3 scripts/sync-favicon.py --check
       # Gemini model zinciri tek yerde · yeni betik tek modele bağlanmasın.
       - name: Gemini model zinciri kontrolü
         run: python3 scripts/check-gemini-zinciri.py

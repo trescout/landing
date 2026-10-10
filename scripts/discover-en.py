@@ -472,7 +472,7 @@ def build(slug, cat, chrome):
             '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             f'<title>{esc(title)} · {D["kesif"]} · TreScout</title>\n'
             f'<meta name="description" content="{esc(tagline_en)}">\n'
-            '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
+            '<link rel="icon" type="image/x-icon" sizes="16x16 32x32 48x48" href="/favicon.ico"> <link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
             f'<link rel="alternate" type="text/markdown" href="{D["onek"]}/discover/{slug}.md">\n'
             f'<link rel="canonical" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="tr" href="{canon_tr}">\n'

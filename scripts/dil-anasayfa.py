@@ -96,7 +96,7 @@ html = f"""<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TreScout · {D["ana_h1"]}</title>
 <meta name="description" content="{D["ana_lead"]}">
-<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/x-icon" sizes="16x16 32x32 48x48" href="/favicon.ico"> <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="{BASE}{o}/">
 <link rel="alternate" hreflang="tr" href="{BASE}/">
 <link rel="alternate" hreflang="en" href="{BASE}/en/">

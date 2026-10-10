@@ -95,6 +95,7 @@ ELLE KALAN İKİ ŞEY · unutulursa guard yakalamaz:
 """
 
 import re
+from urllib.parse import quote
 
 DILLER = {
     "en": {
@@ -108,9 +109,12 @@ DILLER = {
         # ── chrome (nav + footer) · KANONİK KAYNAK fix-all-headers-and-footers.js
         # Buradaki set yalnız YENİ dilin ilk üretiminde kullanılır (o dilde
         # kopyalanacak sayfa henüz yokken). Sonra normalize edici devralır.
-        "nav": ["Discover", "Dictionary", "Reports", "Compare"],
-        "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
-        "nav_cta": "Early Access",
+        "nav": ["Discover", "Dictionary", "Reports"],
+        "nav_yollar": ["discover", "dictionary", "reports"],
+        "footer_karsilastir": "Compare",
+        "footer_yazin": "Contact us",
+        "footer_katilin": "Join the team",
+        "nav_cta": "Stay informed",
         # Dil değiştirme düğmeleri · (etiket, o dilin URL öneki). Sıra menüde
         # göründüğü sıra. Hedef sayfa yoksa o dilin ana sayfasına düşer.
         "dil_dugmeleri": [("TR", ""), ("FR", "/fr"), ("PT", "/pt"), ("ES", "/es"), ("DE", "/de")],
@@ -299,9 +303,12 @@ DILLER = {
         "og_locale": "fr_FR",
         "tagline_alan": "tagline_fr",
         "kisa_alan": "kisa_fr",
-        "nav": ["Découvrir", "Glossaire", "Rapports", "Comparer"],
-        "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
-        "nav_cta": "Accès anticipé",
+        "nav": ["Découvrir", "Glossaire", "Rapports"],
+        "nav_yollar": ["discover", "dictionary", "reports"],
+        "footer_karsilastir": "Comparer",
+        "footer_yazin": "Écrivez-nous",
+        "footer_katilin": "Rejoignez l’équipe",
+        "nav_cta": "Restez informés",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("PT", "/pt"), ("ES", "/es"), ("DE", "/de")],
         "footer_nasil": "Comment ça marche",
         "footer_urun": "Produit",
@@ -490,9 +497,12 @@ DILLER = {
         "og_locale": "pt_BR",
         "tagline_alan": "tagline_pt",
         "kisa_alan": "kisa_pt",
-        "nav": ["Descobrir", "Glossário", "Relatórios", "Comparar"],
-        "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
-        "nav_cta": "Acesso antecipado",
+        "nav": ["Descobrir", "Glossário", "Relatórios"],
+        "nav_yollar": ["discover", "dictionary", "reports"],
+        "footer_karsilastir": "Comparar",
+        "footer_yazin": "Fale conosco",
+        "footer_katilin": "Faça parte da equipe",
+        "nav_cta": "Fique por dentro",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("ES", "/es"), ("DE", "/de")],
         "footer_nasil": "Como funciona",
         "footer_urun": "Produto",
@@ -681,9 +691,12 @@ DILLER = {
         "og_locale": "es_ES",
         "tagline_alan": "tagline_es",
         "kisa_alan": "kisa_es",
-        "nav": ["Descubrir", "Glosario", "Informes", "Comparar"],
-        "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
-        "nav_cta": "Acceso anticipado",
+        "nav": ["Descubrir", "Glosario", "Informes"],
+        "nav_yollar": ["discover", "dictionary", "reports"],
+        "footer_karsilastir": "Comparar",
+        "footer_yazin": "Escríbanos",
+        "footer_katilin": "Únase al equipo",
+        "nav_cta": "Manténgase al día",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("PT", "/pt"), ("DE", "/de")],
         "footer_nasil": "Cómo funciona",
         "footer_urun": "Producto",
@@ -875,9 +888,12 @@ DILLER = {
         "og_locale": "de_DE",
         "tagline_alan": "tagline_de",
         "kisa_alan": "kisa_de",
-        "nav": ["Entdecken", "Glossar", "Berichte", "Vergleich"],
-        "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
-        "nav_cta": "Vorabzugang",
+        "nav": ["Entdecken", "Glossar", "Berichte"],
+        "nav_yollar": ["discover", "dictionary", "reports"],
+        "footer_karsilastir": "Vergleich",
+        "footer_yazin": "Schreiben Sie uns",
+        "footer_katilin": "Werden Sie Teil des Teams",
+        "nav_cta": "Bleiben Sie informiert",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("PT", "/pt"), ("ES", "/es")],
         "footer_nasil": "So funktioniert's",
         "footer_urun": "Produkt",
@@ -1069,7 +1085,7 @@ def nav_etiketleri(d):
 def footer_etiketleri(d):
     """Footer 'Ürün' sütununda görünen etiketler · guard'lar bunu bekler."""
     bas = (d["footer_nasil"],) if d.get("footer_nasil") else ()
-    return bas + tuple(d["nav"]) + (d["nav_cta"],)
+    return bas + tuple(d["nav"]) + (d["footer_karsilastir"], d["nav_cta"])
 
 
 def dil(kod):
@@ -1133,13 +1149,16 @@ def chrome(d, logo_svg):
     nasil = (f'<li><a href="{o}/how-it-works/">{d["footer_nasil"]}</a></li>' if d.get("footer_nasil") else "")
     urun = nasil + "".join(f'<li><a href="{o}/{yol}/">{ad}</a></li>'
                            for ad, yol in zip(d["nav"], d["nav_yollar"]))
+    urun += f'<li><a href="{o}/compare/rss-vs-ai/">{d["footer_karsilastir"]}</a></li>'
+    katilim_konusu = quote(f'TreScout - {d["footer_katilin"]}')
     footer = (f'<footer><div class="container"><div class="footer-grid">'
               f'<div class="footer-brand-block"><div class="footer-logo">{logo_svg}</div>'
               f'<p class="footer-tagline">{d["footer_tagline"]}</p></div>'
               f'<div class="footer-col"><div class="footer-col-title">{d["footer_urun"]}</div><ul>{urun}'
               f'<li><a href="{o}/#top">{d["nav_cta"]}</a></li></ul></div>'
               f'<div class="footer-col"><div class="footer-col-title">{d["footer_iletisim"]}</div><ul>'
-              f'<li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li></ul></div>'
+              f'<li><a href="mailto:hello@trescout.com">{d["footer_yazin"]}</a></li>'
+              f'<li><a href="mailto:hello@trescout.com?subject={katilim_konusu}">{d["footer_katilin"]}</a></li></ul></div>'
               f'<div class="footer-col"><div class="footer-col-title">{d["footer_yasal"]}</div><ul>'
               f'<li><a href="{d["gizlilik_yolu"]}" target="_blank" rel="noopener">{d["footer_gizlilik"]}</a></li>'
               f'</ul></div>'

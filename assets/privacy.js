@@ -133,5 +133,8 @@
   }
 
   if (window.parent === window) mountPreference();
-  else initIframeGate();
+  else {
+    document.documentElement.classList.add('privacy-embedded');
+    initIframeGate();
+  }
 })();

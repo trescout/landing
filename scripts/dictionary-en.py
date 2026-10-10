@@ -338,7 +338,7 @@ def build(term, chrome):
             '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             f'<title>{D["nedir"].format(terim=esc(baslik))} · {D["sozluk"]} · TreScout</title>\n'
             f'<meta name="description" content="{esc(aciklama[:155])}">\n'
-            '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
+            '<link rel="icon" type="image/x-icon" sizes="16x16 32x32 48x48" href="/favicon.ico"> <link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
             f'<link rel="canonical" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="tr" href="{canon_tr}">\n'
             f'<link rel="alternate" hreflang="{D.get("hreflang", LANG)}" href="{canon_en}">\n'

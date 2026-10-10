@@ -98,9 +98,13 @@
 .ana-yan-baglanti { margin-top: 12px; }
 .ana-yan-baglanti a { color: var(--accent); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
 
-/* ---------- Alt · keşif + erken erişim ---------- */
+/* Discovery lives above the dictionary in the sidebar. */
+.ana-yan .ana-kesif { margin-top: 36px; }
+.ana-yan .ana-kesif p { margin-top: 10px; line-height: 1.6; color: var(--ink-muted); overflow-wrap: anywhere; }
+
+/* ---------- Notifications ---------- */
 .ana-alt {
-  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 72px;
+  display: block;
   padding-top: 56px; padding-bottom: 72px;
 }
 .ana-alt h2 { font-family: var(--font-display); font-weight: 800; font-size: var(--text-h2); line-height: 1.2; color: var(--ink); }

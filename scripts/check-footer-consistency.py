@@ -15,11 +15,12 @@ Kullanım: python3 scripts/check-footer-consistency.py
      bakmaz. Yeni dil eklerken artık ek adım yok.
 """
 import os, re, glob, sys
+from urllib.parse import quote
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import DILLER, footer_etiketleri
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-EXPECTED_TR = ('Nasıl Çalışır', 'Keşif', 'Sözlük', 'Raporlar', 'Karşılaştır', 'Erken Erişim')
+EXPECTED_TR = ('Nasıl Çalışır', 'Keşif', 'Sözlük', 'Raporlar', 'Karşılaştır', 'Haberdar olun')
 
 # footer "Ürün" sütunu · bölüm adları + erken erişim bağlantısı (chrome() sırası)
 SETLER = {f"{kod}/": footer_etiketleri(d) for kod, d in DILLER.items()}
@@ -28,6 +29,11 @@ BASLIKLAR = ['Ürün'] + [d["footer_urun"] for d in DILLER.values()]
 BASLIK_DESEN = re.compile(
     r'footer-col-title">(?:' + '|'.join(re.escape(b) for b in BASLIKLAR) + r')</div>\s*<ul>(.*?)</ul>',
     re.S)
+CONTACT_LABELS = {'tr/': ('Bize yazın', 'Ekibe katılın')}
+CONTACT_LABELS.update({f'{kod}/': (d['footer_yazin'], d['footer_katilin']) for kod, d in DILLER.items()})
+CONTACT_TITLES = ['İletişim'] + [d['footer_iletisim'] for d in DILLER.values()]
+CONTACT_PATTERN = re.compile(
+    r'footer-col-title">(?:' + '|'.join(re.escape(title) for title in CONTACT_TITLES) + r')</div>\s*<ul>(.*?)</ul>', re.S)
 
 
 def beklenen(rel_path):
@@ -63,6 +69,16 @@ for p in sorted(glob.glob(os.path.join(ROOT, '**', '*.html'), recursive=True)):
     sayac[dil_kodu] = sayac.get(dil_kodu, 0) + 1
     if links != beklenen(rel):
         bad.append((rel, links))
+    text = open(p, encoding='utf-8').read()
+    contact = CONTACT_PATTERN.search(text)
+    write, join = CONTACT_LABELS[dil_kodu]
+    expected_contact = (
+        ('mailto:hello@trescout.com', write),
+        ('mailto:hello@trescout.com?subject=' + quote('TreScout - ' + join), join),
+    )
+    actual_contact = tuple(re.findall(r'<a href="([^"]+)">([^<]+)</a>', contact.group(1))) if contact else ()
+    if actual_contact != expected_contact:
+        bad.append((rel, ('contact links differ', actual_contact)))
 
 if bad:
     print(f"❌ Footer tutarsız ({len(bad)}/{n} sayfa):")
