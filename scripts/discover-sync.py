@@ -192,27 +192,30 @@ def related_terms(summary):
         if slug not in hits and rx.search(summary or ''): hits.append(slug)
     return hits[:5]
 
-# ---- marka kart (font fallback: SF Pro → DejaVu → atla) ----
+# ---- marka kart · v3 tenis paleti (2026-10-10) ----
+KAPAK_VARLIK=os.path.join(os.path.dirname(os.path.abspath(__file__)),"kapak-varliklari")
 def make_card(slug,title,tagline,stars,lang,out,dil="tr"):
     """Marka kapak kartı (1200×630) · metin GÖRSELE gömülü olduğu için dile bağlı.
     2026-08-08'e kadar tek dosya üretiliyordu ve İngilizce/Fransızca sayfalarda
     da Türkçe etiket + Türkçe tanıtım cümlesi + Türkçe sayı biçimi görünüyordu.
-    Paylaşımda çıkan OG görseli de buydu."""
+    Paylaşımda çıkan OG görseli de buydu.
+    2026-10-10 (v3): turkuaz zemin, kâğıt rengi logo v2, Nunito/Nunito Sans (scripts/kapak-varliklari,
+    Pillow WOFF2 okuyamadığı için TTF). Büyük harfli "KEŞİF · GİTHUB" etiketi, degrade, yay
+    deseni ve ★ simgesi kalktı; Almanca artık Türkçe etikete düşmüyor."""
     try:
         from PIL import Image,ImageDraw,ImageFont
     except Exception:
         return False
-    FONT=next((p for p in ["/System/Library/Fonts/SFNS.ttf","/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"] if os.path.exists(p)),None)
-    if not FONT: return False
-    W,H=1200,630;PAD=76
-    NAVY=(27,73,101);YELLOW=(244,211,94);BLUE=(95,168,211);WHITE=(255,255,255);LIGHT=(205,218,229);BG_TOP=(19,44,67);BG_BOT=(9,17,28)
-    def f(s,w=400):
-        x=ImageFont.truetype(FONT,s)
-        try:x.set_variation_by_axes([100,max(17,min(96,s)),400,w])
-        except Exception:pass
-        return x
+    def yol(ad): return os.path.join(KAPAK_VARLIK,ad)
+    if not os.path.exists(yol("NunitoSans-Regular.ttf")): return False
+    W,H=1200,630;PAD=80
+    TEAL=(56,127,124);WHITE=(255,255,255)
+    BASLIK=ImageFont.truetype(yol("Nunito-ExtraBold.ttf"),64)
+    GOVDE=ImageFont.truetype(yol("NunitoSans-Regular.ttf"),28)
+    ALT=ImageFont.truetype(yol("NunitoSans-Regular.ttf"),24)
+    ALT_KALIN=ImageFont.truetype(yol("NunitoSans-Bold.ttf"),24)
     def wrap(d,t,fn,mw,ml):
-        ws=t.split();ls=[];c=""
+        ws=(t or "").split();ls=[];c=""
         for w in ws:
             x=(c+" "+w).strip()
             if d.textlength(x,font=fn)<=mw:c=x
@@ -221,29 +224,29 @@ def make_card(slug,title,tagline,stars,lang,out,dil="tr"):
                 c=w
                 if len(ls)==ml:break
         if c and len(ls)<ml:ls.append(c)
+        if len(ls)==ml and " ".join(ls)!=" ".join(ws):
+            son=ls[-1]
+            while son and d.textlength(son+"…",font=fn)>mw:son=son.rsplit(" ",1)[0] if " " in son else son[:-1]
+            ls[-1]=son+"…"
         return ls
-    img=Image.new("RGB",(W,H),BG_BOT);d=ImageDraw.Draw(img,"RGBA")
-    for yy in range(H):d.line([(0,yy),(W,yy)],fill=tuple(int(BG_TOP[i]+(BG_BOT[i]-BG_TOP[i])*(yy/H)) for i in range(3)))
-    for r in (520,400,280,160):d.arc([W-260-r,H-40-r,W-260+r,H-40+r],180,360,fill=(95,168,211,28),width=3)
-    k=52/100.0;x=y=PAD
-    d.rounded_rectangle([x,y,x+52,y+52],radius=int(22*k),fill=NAVY)
-    for r in (30,20,10):
-        rr=r*k;cx,cy=x+50*k,y+56*k;d.arc([cx-rr,cy-rr,cx+rr,cy+rr],180,360,fill=BLUE,width=2)
-    d.rounded_rectangle([x+20*k,y+56*k,x+80*k,y+67*k],radius=2,fill=YELLOW)
-    d.rounded_rectangle([x+44.5*k,y+56*k,x+55.5*k,y+84*k],radius=2,fill=YELLOW)
-    d.text((PAD+68,PAD+8),"TreScout",font=f(30,700),fill=WHITE)
-    ETIKET={"tr":"KEŞİF · GİTHUB","en":"DISCOVER · GITHUB","fr":"DÉCOUVRIR · GITHUB",
-            "pt":"DESCOBRIR · GITHUB","es":"DESCUBRIR · GITHUB"}
-    BINLIK={"tr":".","en":",","fr":"\u00a0","pt":".","es":"."}
+    img=Image.new("RGB",(W,H),TEAL);d=ImageDraw.Draw(img,"RGBA")
+    isaret=Image.open(yol("isaret-kagit-128.png")).convert("RGBA");isaret.thumbnail((76,76))
+    img.paste(isaret,(PAD,PAD-8),isaret)
+    BINLIK={"tr":".","en":",","fr":"\u00a0","pt":".","es":".","de":"."}
+    YILDIZ={"tr":"yıldız","en":"stars","fr":"étoiles","pt":"estrelas","es":"estrellas","de":"Sterne"}
     YEDEK={"tr":"TreScout Keşif","en":"TreScout Discover","fr":"TreScout Découvrir",
-           "pt":"TreScout Descobrir","es":"TreScout Descubrir"}
-    d.text((PAD,PAD+78),ETIKET.get(dil,ETIKET["tr"]),font=f(20,700),fill=YELLOW)
-    tf=f(64,800);tl=wrap(d,title,tf,W-2*PAD,2)
-    for i,ln in enumerate(tl):d.text((PAD,PAD+128+i*74),ln,font=tf,fill=WHITE)
-    gy=PAD+128+len(tl)*74+8
-    for ln in wrap(d,tagline,f(28,400),W-2*PAD,3):d.text((PAD,gy),ln,font=f(28,400),fill=LIGHT);gy+=40
-    foot=(f"★ {stars:,}".replace(',',BINLIK.get(dil,'.'))+(f" · {lang}" if lang else "")) if stars else (lang or YEDEK.get(dil,YEDEK["tr"]))
-    d.text((PAD,H-PAD-30),foot,font=f(24,500),fill=BLUE)
+           "pt":"TreScout Descobrir","es":"TreScout Descubrir","de":"TreScout Entdecken"}
+    tl=wrap(d,title,BASLIK,W-2*PAD,2);y=PAD+120
+    for ln in tl:d.text((PAD,y),ln,font=BASLIK,fill=WHITE);y+=76
+    y+=10
+    for ln in wrap(d,tagline,GOVDE,W-2*PAD-80,3):d.text((PAD,y),ln,font=GOVDE,fill=WHITE);y+=42
+    d.line([(PAD,H-PAD-52),(W-PAD,H-PAD-52)],fill=(255,255,255,115),width=1)
+    if stars:
+        foot=f"{stars:,}".replace(",",BINLIK.get(dil,"."))+" "+YILDIZ.get(dil,YILDIZ["tr"])+(f", {lang}" if lang else "")
+    else:
+        foot=lang or YEDEK.get(dil,YEDEK["tr"])
+    d.text((PAD,H-PAD-28),foot,font=ALT,fill=WHITE)
+    url="trescout.com";d.text((W-PAD-d.textlength(url,font=ALT_KALIN),H-PAD-28),url,font=ALT_KALIN,fill=WHITE)
     img.save(out,"WEBP",quality=86,method=6)
     return True
 
