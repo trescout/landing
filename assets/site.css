@@ -206,8 +206,7 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
   align-items: center;
   color: var(--on-brand);
 }
-/* Logo v2 işareti (kalın sürüm, 32 px ve altı) · stroke currentColor · rengi buradan.
-   Bant üstünde tek renk beyaz; logonun yanında ad yazılmıyor (aria-label taşıyor). */
+/* The standard filled mark inherits the shared header/footer foreground color. */
 .logo-link svg, .footer-logo svg { color: var(--on-brand); flex-shrink: 0; }
 .nav-actions {
   display: flex;
@@ -215,7 +214,7 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
   align-items: center;
 }
 /* Menü öğeleri düz metin. Genişlikleri SABİT · 2026-09-27 (Burhan'ın GG3 kaydı: dil değişince
-   menü kaymasın). 2026-10-10: rapor etiketleri kısaldı ("Reports Archive" → "Reports"), dört yuva
+   menü kaymasın). 2026-10-10: rapor etiketleri kısaldı ("Reports Archive" → "Reports"), üç yuva
    artık EŞİT genişlikte; aralıklar her dilde aynı. Ölçüm (Nunito Sans 400 15px): en uzun etiket
    Entdecken 70 px + 20 px dolgu = 90 px. Yeni dil eklerken daha uzun bir etiket gelirse güncelleyin
    (check-nav-consistency.py uzunluğu denetler). */
@@ -282,9 +281,7 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
 .dil-listesi a:not([href^="/en/"]):not([href^="/fr/"]):not([href^="/pt/"]):not([href^="/es/"]):not([href^="/de/"])::after { content: "Türkçe"; }
 @media (max-width: 640px) {
   .container { padding: 0 16px; }
-  /* Mobilde logo ve menü TEK satırda (2026-10-10). Karşılaştırma bağlantısı dar ekranda
-     menüden çıkar (alt bilgide duruyor); yine sığmazsa (ör. 320 px) menü kendiliğinden alt
-     satıra iner. */
+  /* Keep the logo and three navigation links together; wrap only when needed. */
   .nav-inner {
     flex-wrap: wrap;
     gap: 4px 12px;
@@ -298,7 +295,6 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
     gap: 0;
     flex-wrap: nowrap;
   }
-  .nav-actions > a.btn-ghost:nth-of-type(4) { display: none; }
   /* Dil listesi mobilde menünün altında, kapsayıcı genişliğinde açılır · seçici
      satırın neresine düşerse düşsün ekrandan taşmasın. */
   .nav-inner { position: relative; }

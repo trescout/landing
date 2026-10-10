@@ -196,7 +196,7 @@ function buildVariant(V) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}</title>
-<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/x-icon" sizes="16x16 32x32 48x48" href="/favicon.ico"> <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="description" content="${esc(metaDesc)}">
 <link rel="canonical" href="https://trescout.com${V.urlBase}/${dateStr}/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com${V.trUrlBase}/${dateStr}/">
@@ -322,7 +322,7 @@ ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${T.dizin_baslik}</title>
-<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/x-icon" sizes="16x16 32x32 48x48" href="/favicon.ico"> <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="description" content="${T.dizin_aciklama}">
 <link rel="canonical" href="https://trescout.com${V.urlBase}/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com${V.trUrlBase}/">

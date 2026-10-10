@@ -25,14 +25,14 @@ FOOTER = """<footer>
           <li><a href="/how-it-works/">Nasıl Çalışır</a></li>
           <li><a href="/discover/">Keşif</a></li>
           <li><a href="/dictionary/">Sözlük</a></li>
-          <li><a href="/reports/">Raporlar</a></li>
-          <li><a href="/#top">Erken Erişim</a></li>
+          <li><a href="/reports/">Raporlar</a></li><li><a href="/compare/rss-vs-ai/">Karşılaştır</a></li>
+          <li><a href="/#top">Haberdar olun</a></li>
         </ul>
       </div>
       <div class="footer-col">
         <div class="footer-col-title">İletişim</div>
         <ul>
-          <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
+          <li><a href="mailto:hello@trescout.com">Bize yazın</a></li><li><a href="mailto:hello@trescout.com?subject=TreScout%20-%20Ekibe%20kat%C4%B1l%C4%B1n">Ekibe katılın</a></li>
         </ul>
       </div>
       <div class="footer-col">

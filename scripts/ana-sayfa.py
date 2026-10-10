@@ -78,7 +78,7 @@ M = {
         "kesif_metin": ("Rapora giren her açık kaynak projesinin kendi sayfası var: ne işe yaradığı, nasıl "
                         "kurulduğu ve raporlardaki geçmişi. Şu anda {n} proje bulunuyor."),
         "kesif_bu": "Bu rapordan:", "kesif_git": "Keşfe gidin",
-        "erken_h2": "Erken erişim listesi",
+        "erken_h2": "Haberdar olun",
         "erken_metin": "Erken erişim başladığında haberdar olmak için listeye katılabilirsiniz. Hangi özelliklerin geleceği ve ne zaman geleceği henüz belli değil.",
         "eposta": "E-posta adresi", "eposta_yer": "E-posta adresiniz", "katil": "Listeye katılın",
     },
@@ -111,7 +111,7 @@ M = {
         "kesif_metin": ("Every open-source project that makes it into a report gets its own page: what it "
                         "does, how to set it up, and its history in our reports. {n} projects so far."),
         "kesif_bu": "From this report:", "kesif_git": "Go to Discover",
-        "erken_h2": "Early access list",
+        "erken_h2": "Stay informed",
         "erken_metin": "Join the list to hear when early access opens. Which features will come, and when, is not decided yet.",
         "eposta": "Email address", "eposta_yer": "Your email address", "katil": "Join the list",
     },
@@ -144,7 +144,7 @@ M = {
         "kesif_metin": ("Chaque projet open source retenu dans un rapport a sa propre page : à quoi il sert, "
                         "comment l'installer et son historique dans nos rapports. {n} projets à ce jour."),
         "kesif_bu": "Dans ce rapport :", "kesif_git": "Aller à Découvrir",
-        "erken_h2": "Liste d'accès anticipé",
+        "erken_h2": "Restez informés",
         "erken_metin": "Inscrivez-vous pour être averti de l'ouverture de l'accès anticipé. Les fonctionnalités et leur calendrier ne sont pas encore décidés.",
         "eposta": "Adresse e-mail", "eposta_yer": "Votre adresse e-mail", "katil": "Rejoindre la liste",
     },
@@ -177,7 +177,7 @@ M = {
         "kesif_metin": ("Cada projeto de código aberto que entra em um relatório tem sua própria página: para "
                         "que serve, como instalar e seu histórico nos relatórios. {n} projetos até agora."),
         "kesif_bu": "Deste relatório:", "kesif_git": "Ir para Descobrir",
-        "erken_h2": "Lista de acesso antecipado",
+        "erken_h2": "Fique por dentro",
         "erken_metin": "Entre na lista para saber quando o acesso antecipado abrir. Ainda não está definido quais recursos virão nem quando.",
         "eposta": "Endereço de e-mail", "eposta_yer": "Seu e-mail", "katil": "Entrar na lista",
     },
@@ -210,7 +210,7 @@ M = {
         "kesif_metin": ("Cada proyecto de código abierto que entra en un informe tiene su propia página: para "
                         "qué sirve, cómo instalarlo y su historial en los informes. {n} proyectos hasta ahora."),
         "kesif_bu": "De este informe:", "kesif_git": "Ir a Descubrir",
-        "erken_h2": "Lista de acceso anticipado",
+        "erken_h2": "Manténgase al día",
         "erken_metin": "Únase a la lista para saber cuándo se abre el acceso anticipado. Todavía no está decidido qué funciones llegarán ni cuándo.",
         "eposta": "Correo electrónico", "eposta_yer": "Su correo electrónico", "katil": "Unirse a la lista",
     },
@@ -244,7 +244,7 @@ M = {
                         "Seite: wofür es gut ist, wie man es einrichtet und seine Geschichte in unseren "
                         "Berichten. Bisher {n} Projekte."),
         "kesif_bu": "Aus diesem Bericht:", "kesif_git": "Zu Entdecken",
-        "erken_h2": "Vorabzugangsliste",
+        "erken_h2": "Bleiben Sie informiert",
         "erken_metin": "Tragen Sie sich ein, um zu erfahren, wann der Vorabzugang öffnet. Welche Funktionen wann kommen, steht noch nicht fest.",
         "eposta": "E-Mail-Adresse", "eposta_yer": "Ihre E-Mail-Adresse", "katil": "Eintragen",
     },
@@ -528,13 +528,6 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
         yol = f"{o}/dictionary/{slug_terim(gl['term'])}/"
         ad = (f'<a href="{yol}">{e(gl["term"])}</a>' if sayfa_var(yol) else e(gl["term"]))
         terimler.append(f'<li><p class="ana-terim">{ad}</p><p class="ana-terim-aciklama">{e(ilk_cumle(gl["explanation"], 140))}</p></li>')
-    yan = (
-        f'<aside class="ana-yan"><h2>{e(m["yan_kaynak"])}</h2><ul class="ana-dagilim">{dagilim}</ul>'
-        + (f'<h2>{e(m["yan_terim"])}</h2><ul class="ana-terimler">{"".join(terimler)}</ul>' if terimler else "")
-        + f'<p class="ana-yan-baglanti"><a href="{o}/dictionary/">{e(m["sozluk"].format(n=sayi(sayfa_sayisi(dil, "dictionary"), m)))}</a></p>'
-        f'</aside>'
-    )
-
     # keşif · bu rapordaki projelerin sayfaları
     projeler = []
     for k, it in maddeler:
@@ -548,6 +541,14 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
         f'<p>{e(m["kesif_metin"].format(n=sayi(sayfa_sayisi(dil, "discover"), m)))}</p>'
         + (f'<p class="ana-kesif-bu">{e(m["kesif_bu"])} {", ".join(projeler)}</p>' if projeler else "")
         + f'<p><a class="ana-git" href="{o}/discover/">{e(m["kesif_git"])}</a></p></section>'
+    )
+
+    yan = (
+        f'<aside class="ana-yan"><h2>{e(m["yan_kaynak"])}</h2><ul class="ana-dagilim">{dagilim}</ul>'
+        + kesif
+        + (f'<h2>{e(m["yan_terim"])}</h2><ul class="ana-terimler">{"".join(terimler)}</ul>' if terimler else "")
+        + f'<p class="ana-yan-baglanti"><a href="{o}/dictionary/">{e(m["sozluk"].format(n=sayi(sayfa_sayisi(dil, "dictionary"), m)))}</a></p>'
+        f'</aside>'
     )
 
     form_id = f"email-final-{dil}"
@@ -569,7 +570,7 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
     govde = (
         f'<div class="container ana-govde"><div class="ana-icerik"><h1>{e(m["h1"])}</h1>'
         f'<p class="ana-giris">{e(m["giris"])}</p>{"".join(bolumler)}{tamami}</div>{yan}</div>'
-        f'<div class="container ana-alt">{kesif}{erken}</div>'
+        f'<div class="container ana-alt">{erken}</div>'
     )
     return f'<main id="main">\n{bant}\n{govde}\n  </main>'
 

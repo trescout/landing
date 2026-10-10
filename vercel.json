@@ -39,7 +39,16 @@
       ]
     },
     {
-      "source": "/(favicon\\.svg|favicon\\.ico|apple-touch-icon\\.png|og-image\\.png|brand-mark\\.png)",
+      "source": "/(favicon\\.svg|favicon\\.ico)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/(apple-touch-icon\\.png|og-image\\.png|brand-mark\\.png)",
       "headers": [
         {
           "key": "Cache-Control",
