@@ -1,7 +1,8 @@
 /* TreScout · rapor KAPAK sayfası stilleri · site.css üzerine biner · generator (publish-report.ts) üretir
    v3 (2026-10-10): okuma sütunu; hap çip, kalkan düğme ve vurgulu üst etiket yok. */
 
-  .report-main { max-width: 720px; margin: 0 auto; padding: 40px 24px 48px; }   /* okuma sütunu · keşif/sözlük detayıyla aynı */
+  .report-main { max-width: 1180px; margin: 0 auto; padding: 40px 24px 48px; }   /* kapsayıcı tüm sitede aynı */
+  .report-main > * { max-width: 760px; }   /* okuma sütunu sola yaslı · keşif/sözlük detayıyla aynı */
   .rep-back { display: inline-block; font-size: var(--text-small); color: var(--accent); margin-bottom: 24px; }
   .rep-back:hover { color: var(--accent-dark); text-decoration: underline; text-underline-offset: 4px; }
   /* Üst etiket (eyebrow) v3'te kullanılmıyor · işaretleme üreticiden kalkana kadar gizli */

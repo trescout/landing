@@ -60,7 +60,7 @@ const richEnFooter = `<footer>
         <div class="footer-logo">
           <svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg>
         </div>
-        <p class="footer-tagline">TreScout scans, summarizes, and publishes. You just read.</p>
+        <p class="footer-tagline">TreScout scans and summarizes, so all you have to do is read.</p>
       </div>
       <div class="footer-col">
         <div class="footer-col-title">Product</div>
@@ -77,6 +77,11 @@ const richEnFooter = `<footer>
         <div class="footer-col-title">Contact</div>
         <ul>
           <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+          <div class="footer-col-title">Legal</div>
+          <ul>
           <li><a href="/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li>
         </ul>
       </div>

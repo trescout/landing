@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1.0",
-  "generated_at": "2026-10-09T22:02:50.939274+00:00",
-  "source_git_commit": "51cd645bd09fd064aa033fab59cc11f72ba78a69",
+  "generated_at": "2026-10-10T02:34:23.427984+00:00",
+  "source_git_commit": "729215c9a13edb8b9195f70e9ada7d5cd2295845",
   "content_version": "2026-10-10",
   "locales": [
     "tr",
@@ -62,7 +62,7 @@
     "assets/discover/catalog.json": "728d4920d5038f3a7a931f4c801bf5fd5f3af63c59166c969bb984a0e6d6b51f",
     "assets/dictionary/dictionary.json": "8792d868da51c41c2f2febcef16266bc9c35a6abeb31462044a938e612a013f3",
     "sitemap.xml": "8d83e84cb3d4617a37ca73fbd1c2f83ed16224de8392a500f0c6ee241c7dca03",
-    "llms.txt": "f7d1be3d30085b5f4d2001bb71023441402c48eadb3087c7eead9275a57393a9",
+    "llms.txt": "e6892fe6e8fffa9c3f7f68b666967cf1ed07442e4141441a7597c9111f57a7b0",
     "llms-full.txt": "5b700ff6a1033eead3a3c03a410b5babb04aa2e0872992e26431879ef4087cd3",
     "llms-en.txt": "50a6c58348a12d84efc23f6ad46058b8002cc5af68aa6d753e1890797e2b699d",
     "vercel.json": "7486425b4815d14476d378483d24e03c51547fb4a8f9cf19d873c9c08ac89964"

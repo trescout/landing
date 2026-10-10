@@ -181,10 +181,11 @@ time, .num { font-variant-numeric: tabular-nums; }
   padding: 0 24px;
 }
 
-/* ---------- NAV · turkuaz bant ---------- */
+/* ---------- NAV · turkuaz bant ----------
+   Sabit (sticky) değil (2026-10-10): içerik ağırlıklı, uzun okunan sayfalar; mobilde sabit
+   bant ekranın bir kısmını sürekli kaplıyordu. Menü ve alt bilgi her sayfada aynı yerde. */
 nav {
-  position: sticky;
-  top: 0;
+  position: relative;
   z-index: 100;
   background: var(--brand);
   color: var(--on-brand);
@@ -214,10 +215,9 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
   align-items: center;
 }
 /* Menü öğeleri düz metin. Genişlikleri SABİT · 2026-09-27 (Burhan'ın GG3 kaydı: dil değişince
-   menü kaymasın). Her yuva o öğenin altı dildeki en uzun karşılığına göre: Découvrir · Dictionary ·
-   Arquivo de relatórios · Karşılaştır. Çerçeve 2026-10-10'da kalktı (v3), sabit yuva kaldı; metin
-   yuvada ortalı. Ölçüm (Nunito Sans 400 15px, en uzun etiket + 20px dolgu): 90 · 89 · 161 · 87 px.
-   Yeni dil eklerken daha uzun bir etiket gelirse bu değerleri güncelleyin
+   menü kaymasın). 2026-10-10: rapor etiketleri kısaldı ("Reports Archive" → "Reports"), dört yuva
+   artık EŞİT genişlikte; aralıklar her dilde aynı. Ölçüm (Nunito Sans 400 15px): en uzun etiket
+   Entdecken 70 px + 20 px dolgu = 90 px. Yeni dil eklerken daha uzun bir etiket gelirse güncelleyin
    (check-nav-consistency.py uzunluğu denetler). */
 .nav-actions .btn-ghost {
   color: var(--on-brand);
@@ -229,10 +229,7 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
 }
 .nav-actions .btn-ghost:hover { color: var(--on-brand); text-decoration: underline; text-underline-offset: 4px; }
 @media (min-width: 641px) {
-  .nav-actions > a.btn-ghost:nth-of-type(1) { min-width: 5.7rem; }
-  .nav-actions > a.btn-ghost:nth-of-type(2) { min-width: 5.6rem; }
-  .nav-actions > a.btn-ghost:nth-of-type(3) { min-width: 10.1rem; }
-  .nav-actions > a.btn-ghost:nth-of-type(4) { min-width: 5.5rem; }
+  .nav-actions > a.btn-ghost { min-width: 5.7rem; }
 }
 /* Dil seçici · JS'siz <details>. Bağlantı metni dil kodu (EN, FR...), görünen
    ad CSS'ten geliyor; ekran okuyucu aria-label'ı okur. */
@@ -285,22 +282,23 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
 .dil-listesi a:not([href^="/en/"]):not([href^="/fr/"]):not([href^="/pt/"]):not([href^="/es/"]):not([href^="/de/"])::after { content: "Türkçe"; }
 @media (max-width: 640px) {
   .container { padding: 0 16px; }
+  /* Mobilde logo ve menü TEK satırda (2026-10-10). Karşılaştırma bağlantısı dar ekranda
+     menüden çıkar (alt bilgide duruyor); yine sığmazsa (ör. 320 px) menü kendiliğinden alt
+     satıra iner. */
   .nav-inner {
     flex-wrap: wrap;
-    gap: 6px 16px;
-    padding-block: 12px 8px;
+    gap: 4px 12px;
+    padding-block: 10px;
+    min-height: 56px;
   }
-  /* Mobilde menü ikinci satırda, sola yaslı. İlk bağlantının metni logo ile aynı
-     hizada başlasın diye satırın sol dolgusu eksiye çekiliyor (yalnız metin içeri kaçmasın). */
   .nav-actions {
-    flex: 1 1 100%;
+    flex: 0 1 auto;
     min-width: 0;
-    width: 100%;
-    gap: 0 2px;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    margin-left: -10px;
+    margin-left: auto;
+    gap: 0;
+    flex-wrap: nowrap;
   }
+  .nav-actions > a.btn-ghost:nth-of-type(4) { display: none; }
   /* Dil listesi mobilde menünün altında, kapsayıcı genişliğinde açılır · seçici
      satırın neresine düşerse düşsün ekrandan taşmasın. */
   .nav-inner { position: relative; }
@@ -317,9 +315,10 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
   .nav-actions .btn-ghost {
     display: inline-flex;
     flex: 0 0 auto;
-    padding: 8px 10px;
+    padding: 8px 7px;
     font-size: var(--text-small);
   }
+  .dil-secici > summary::after { margin-left: 6px; }
 }
 
 /* ---------- BUTTONS ---------- */
@@ -544,7 +543,7 @@ footer {
 }
 .footer-grid {
   display: grid;
-  grid-template-columns: 1.6fr 1fr 1fr 1fr;
+  grid-template-columns: 1.6fr repeat(4, 1fr);
   gap: 40px;
   margin-bottom: 40px;
 }

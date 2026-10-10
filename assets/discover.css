@@ -3,7 +3,10 @@
  * rozet, kalkan kart ve "01 02 03" sayaçları kalktı; ayrım çizgi, boşluk ve ağırlıkla.
  * Yazı ölçeği site.css'teki yedi adım; burada ara değer yok. */
 
-.disc { max-width: 720px; margin: 0 auto; padding: 40px 24px 64px; }
+/* Sayfa genişliği tüm sitede aynı (2026-10-10): kapsayıcı 1180 px, içerik logo hizasından başlar;
+   okuma sütunu 760 px ve SOLA yaslı (önce ortalanmış 720 px sütun her sayfada farklı bir sol kenar veriyordu). */
+.disc { max-width: 1180px; margin: 0 auto; padding: 40px 24px 64px; }
+.disc > * { max-width: 760px; }
 
 .disc-back {
   display: inline-block; font-size: var(--text-small); color: var(--accent);
@@ -239,7 +242,8 @@
 }
 
 /* ── Karşılaştırma sayfası ── */
-.comp-wrapper { max-width: 1180px; margin: 40px auto; padding: 0 24px 64px; }   /* site container'ıyla aynı genişlik */
+.comp-wrapper { max-width: 1180px; margin: 0 auto; padding: 40px 24px 64px; }   /* site container'ıyla aynı genişlik */
+.comp-wrapper > .disc-lead, .comp-wrapper > .disc-title { max-width: 760px; }
 /* Üst etiket hapı v3'te kullanılmıyor · işaretleme sayfadan kalkana kadar gizli */
 .comp-pill { display: none; }
 .comp-matrix-card {

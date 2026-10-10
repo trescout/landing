@@ -108,7 +108,7 @@ DILLER = {
         # ── chrome (nav + footer) · KANONİK KAYNAK fix-all-headers-and-footers.js
         # Buradaki set yalnız YENİ dilin ilk üretiminde kullanılır (o dilde
         # kopyalanacak sayfa henüz yokken). Sonra normalize edici devralır.
-        "nav": ["Discover", "Dictionary", "Reports Archive", "Compare"],
+        "nav": ["Discover", "Dictionary", "Reports", "Compare"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Early Access",
         # Dil değiştirme düğmeleri · (etiket, o dilin URL öneki). Sıra menüde
@@ -120,8 +120,9 @@ DILLER = {
         "footer_urun": "Product",
         "footer_iletisim": "Contact",
         "footer_sosyal": "Social",
+        "footer_yasal": "Legal",   # aydınlatma metni ayrı sütunda (2026-10-10)
         "footer_gizlilik": "Privacy Notice",
-        "footer_tagline": "TreScout scans, summarizes, and publishes. You just read.",
+        "footer_tagline": "TreScout scans and summarizes, so all you have to do is read.",
         "footer_alt": "© 2026 TreScout · All rights reserved.",
         "atla": "Skip to main content",
         # ── keşif sayfası
@@ -298,16 +299,17 @@ DILLER = {
         "og_locale": "fr_FR",
         "tagline_alan": "tagline_fr",
         "kisa_alan": "kisa_fr",
-        "nav": ["Découvrir", "Glossaire", "Archive des rapports", "Comparer"],
+        "nav": ["Découvrir", "Glossaire", "Rapports", "Comparer"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Accès anticipé",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("PT", "/pt"), ("ES", "/es"), ("DE", "/de")],
-        "footer_nasil": None,      # Türkçe ana sayfanın "nasıl çalışır" bölümü çevrilmedi
+        "footer_nasil": "Comment ça marche",
         "footer_urun": "Produit",
         "footer_iletisim": "Contact",
         "footer_sosyal": "Réseaux",
+        "footer_yasal": "Mentions légales",   # aydınlatma metni ayrı sütunda (2026-10-10)
         "footer_gizlilik": "Notice de confidentialité",
-        "footer_tagline": "TreScout analyse, résume et publie. Vous n'avez qu'à lire.",
+        "footer_tagline": "TreScout parcourt et résume, il ne vous reste qu'à lire.",
         "footer_alt": "© 2026 TreScout · Tous droits réservés.",
         "atla": "Aller au contenu principal",
         "kesif": "Découvrir",
@@ -488,16 +490,17 @@ DILLER = {
         "og_locale": "pt_BR",
         "tagline_alan": "tagline_pt",
         "kisa_alan": "kisa_pt",
-        "nav": ["Descobrir", "Glossário", "Arquivo de relatórios", "Comparar"],
+        "nav": ["Descobrir", "Glossário", "Relatórios", "Comparar"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Acesso antecipado",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("ES", "/es"), ("DE", "/de")],
-        "footer_nasil": None,
+        "footer_nasil": "Como funciona",
         "footer_urun": "Produto",
         "footer_iletisim": "Contato",
         "footer_sosyal": "Redes",
+        "footer_yasal": "Legal",   # aydınlatma metni ayrı sütunda (2026-10-10)
         "footer_gizlilik": "Aviso de privacidade",
-        "footer_tagline": "A TreScout busca, resume e publica. Você só precisa ler.",
+        "footer_tagline": "O TreScout percorre e resume, e você só precisa ler.",
         "footer_alt": "© 2026 TreScout · Todos os direitos reservados.",
         "atla": "Ir para o conteúdo principal",
         "kesif": "Descobrir",
@@ -678,16 +681,17 @@ DILLER = {
         "og_locale": "es_ES",
         "tagline_alan": "tagline_es",
         "kisa_alan": "kisa_es",
-        "nav": ["Descubrir", "Glosario", "Archivo de informes", "Comparar"],
+        "nav": ["Descubrir", "Glosario", "Informes", "Comparar"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Acceso anticipado",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("PT", "/pt"), ("DE", "/de")],
-        "footer_nasil": None,
+        "footer_nasil": "Cómo funciona",
         "footer_urun": "Producto",
         "footer_iletisim": "Contacto",
         "footer_sosyal": "Redes",
+        "footer_yasal": "Legal",   # aydınlatma metni ayrı sütunda (2026-10-10)
         "footer_gizlilik": "Aviso de privacidad",
-        "footer_tagline": "TreScout rastrea, resume y publica. Usted solo lee.",
+        "footer_tagline": "TreScout rastrea y resume, a usted solo le queda leer.",
         "footer_alt": "© 2026 TreScout · Todos los derechos reservados.",
         "atla": "Ir al contenido principal",
         "kesif": "Descubrir",
@@ -871,16 +875,17 @@ DILLER = {
         "og_locale": "de_DE",
         "tagline_alan": "tagline_de",
         "kisa_alan": "kisa_de",
-        "nav": ["Entdecken", "Glossar", "Berichtsarchiv", "Vergleich"],
+        "nav": ["Entdecken", "Glossar", "Berichte", "Vergleich"],
         "nav_yollar": ["discover", "dictionary", "reports", "compare/rss-vs-ai"],
         "nav_cta": "Vorabzugang",
         "dil_dugmeleri": [("TR", ""), ("EN", "/en"), ("FR", "/fr"), ("PT", "/pt"), ("ES", "/es")],
-        "footer_nasil": None,
+        "footer_nasil": "So funktioniert's",
         "footer_urun": "Produkt",
         "footer_iletisim": "Kontakt",
         "footer_sosyal": "Netzwerke",
+        "footer_yasal": "Rechtliches",   # aydınlatma metni ayrı sütunda (2026-10-10)
         "footer_gizlilik": "Datenschutzhinweis",
-        "footer_tagline": "TreScout durchsucht, fasst zusammen und veröffentlicht. Sie lesen nur.",
+        "footer_tagline": "TreScout durchsucht und fasst zusammen, Ihnen bleibt nur das Lesen.",
         "footer_alt": "© 2026 TreScout · Alle Rechte vorbehalten.",
         "atla": "Zum Hauptinhalt springen",
         "kesif": "Entdecken",
@@ -1122,19 +1127,20 @@ def chrome(d, logo_svg):
     )
     kod = o.strip("/") or "tr"
     nav = (f'<nav><div class="container nav-inner"><a class="logo-link" href="{o}/" aria-label="TreScout">'
-           f'{logo_svg}<span>TreScout</span></a><div class="nav-actions">{nav_link}'
+           f'{logo_svg}</a><div class="nav-actions">{nav_link}'
            f'{dil_secici(kod, diller)}</div></div></nav>')
 
     nasil = (f'<li><a href="{o}/how-it-works/">{d["footer_nasil"]}</a></li>' if d.get("footer_nasil") else "")
     urun = nasil + "".join(f'<li><a href="{o}/{yol}/">{ad}</a></li>'
                            for ad, yol in zip(d["nav"], d["nav_yollar"]))
     footer = (f'<footer><div class="container"><div class="footer-grid">'
-              f'<div class="footer-brand-block"><div class="footer-logo">{logo_svg}<span>TreScout</span></div>'
+              f'<div class="footer-brand-block"><div class="footer-logo">{logo_svg}</div>'
               f'<p class="footer-tagline">{d["footer_tagline"]}</p></div>'
               f'<div class="footer-col"><div class="footer-col-title">{d["footer_urun"]}</div><ul>{urun}'
               f'<li><a href="{o}/#top">{d["nav_cta"]}</a></li></ul></div>'
               f'<div class="footer-col"><div class="footer-col-title">{d["footer_iletisim"]}</div><ul>'
-              f'<li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>'
+              f'<li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li></ul></div>'
+              f'<div class="footer-col"><div class="footer-col-title">{d["footer_yasal"]}</div><ul>'
               f'<li><a href="{d["gizlilik_yolu"]}" target="_blank" rel="noopener">{d["footer_gizlilik"]}</a></li>'
               f'</ul></div>'
               f'<div class="footer-col"><div class="footer-col-title">{d["footer_sosyal"]}</div><ul>'

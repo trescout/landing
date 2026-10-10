@@ -109,7 +109,6 @@
 .ana-git { color: var(--accent); font-weight: 700; text-decoration: underline; text-underline-offset: 4px; }
 .ana-git:hover, .ana-kesif-bu a:hover, .ana-terim a:hover, .ana-yan-baglanti a:hover { color: var(--accent-dark); }
 .ana-erken .cta-form { margin-top: 16px; max-width: 520px; }
-#top { position: relative; top: -88px; }
 
 /* ---------- Dar ekran ---------- */
 @media (max-width: 960px) {

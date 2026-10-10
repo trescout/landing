@@ -64,7 +64,7 @@ const richEnFooter = `<footer>
         <div class="footer-logo">
           <svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg>
         </div>
-        <p class="footer-tagline">TreScout scans, summarizes, and publishes. You just read.</p>
+        <p class="footer-tagline">TreScout scans and summarizes, so all you have to do is read.</p>
       </div>
       <div class="footer-col">
         <div class="footer-col-title">Product</div>
@@ -72,7 +72,7 @@ const richEnFooter = `<footer>
           <li><a href="/en/how-it-works/">How It Works</a></li>
           <li><a href="/en/discover/">Discover</a></li>
           <li><a href="/en/dictionary/">Dictionary</a></li>
-          <li><a href="/en/reports/">Reports Archive</a></li>
+          <li><a href="/en/reports/">Reports</a></li>
           <li><a href="/en/compare/rss-vs-ai/">Compare</a></li>
           <li><a href="/en/#top">Early Access</a></li>
         </ul>
@@ -81,6 +81,11 @@ const richEnFooter = `<footer>
         <div class="footer-col-title">Contact</div>
         <ul>
           <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+          <div class="footer-col-title">Legal</div>
+          <ul>
           <li><a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a></li>
         </ul>
       </div>
@@ -165,7 +170,7 @@ ${JSON.stringify({
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/dictionary/${slug}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/dictionary/${slug}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
@@ -264,7 +269,7 @@ ${JSON.stringify({
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/discover/${slug}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="30" height="30" viewBox="12 14 76 76" aria-hidden="true"><path d="M 22.50 27.54 A 77.5 77.5 0 0 1 77.50 27.54" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/><path d="M 50 29 C 50 41, 35 40, 35 51 C 35 62, 65 60, 65 71 C 65 77, 58 81, 50 81" fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"/></svg></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/discover/${slug}/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
