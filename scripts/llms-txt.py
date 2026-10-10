@@ -18,7 +18,7 @@ def clip(s, n=90):
     return s if len(s) <= n else s[:n - 1].rstrip() + "…"
 
 L = ["# TreScout", "",
-     "> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.", "",
+     "> TreScout; GitHub, Hacker News ve Hugging Face gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler hazırlar ve web ile PDF rapor olarak yayımlar. Raporlar herkese açıktır; okumak için kayıt olmanız gerekmez.", "",
      f"Son güncelleme: {TODAY} · {len(cat)} araç · {len(man)} terim", "",
      "## Teknoloji Sözlüğü", "",
      "Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları. Her terimin ham Markdown sürümü URL sonuna `.md` eklenerek alınır (örn. " + B + "/dictionary/rag.md).", "",
@@ -106,7 +106,7 @@ print(f"llms.txt güncellendi · {len(man)} terim + {len(cat)} araç indekslendi
 
 # llms-full.txt üreteci (tam içerik birleştirmesi)
 F = ["# TreScout Full Knowledge Base (llms-full.txt)", "",
-     "> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.", "",
+     "> TreScout; GitHub, Hacker News ve Hugging Face gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler hazırlar ve web ile PDF rapor olarak yayımlar. Raporlar herkese açıktır; okumak için kayıt olmanız gerekmez.", "",
      f"Son güncelleme: {TODAY} · {len(cat)} araç · {len(man)} terim", "", "---", "",
      "# TEKNOLOJİ SÖZLÜĞÜ (TAM İÇERİK)", ""]
 for t in sorted(man, key=lambda x: x["en"].lower()):
@@ -127,7 +127,7 @@ print(f"llms-full.txt güncellendi · {len(F)} satır tam içerik haritalandı."
 
 # llms-en.txt üreteci (İngilizce dinamik indeks)
 E = ["# TreScout (English Index)", "",
-     "> TreScout scans GitHub, Hacker News and HuggingFace every day, summarizes the highlights and publishes one daily report on the web and as a PDF. Email delivery is being prepared for early access.", "",
+     "> TreScout scans GitHub, Hacker News and HuggingFace every day, summarizes the highlights and publishes one daily report on the web and as a PDF. Reports are public; no account is needed to read them.", "",
      f"Last updated: {TODAY} · {len(cat)} tools · {len(man)} terms", "",
      "## Tech Dictionary", "",
      "Plain-language definitions of AI and software terms. Append `.md` to any URL for raw Markdown (e.g. " + B + "/en/dictionary/rag.md).", "",
@@ -140,7 +140,7 @@ E += ["", "## Discover", "",
       f"- [Discover index]({B}/en/discover/)"]
 for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
     E.append(f"- [{c['title']}]({B}/en/discover/{c['slug']}/) (raw: {B}/en/discover/{c['slug']}.md): {clip(c.get('tagline_en') or c.get('tagline', ''))}")
-E += ["", "## Reports", "", "Archive of daily tech reports (PDF).", "", f"- [Reports]({B}/en/reports/)", "", "## About TreScout", "", "TreScout scans sources, summarizes the signal, and is preparing email delivery for early access.", "", f"- [How TreScout works]({B}/en/how-it-works/)", f"- [Manual tracking comparison]({B}/en/compare/rss-vs-ai/)", "",
+E += ["", "## Reports", "", "Archive of daily tech reports (PDF).", "", f"- [Reports]({B}/en/reports/)", "", "## About TreScout", "", "TreScout scans sources, summarizes the highlights and publishes a daily report. Reports are public.", "", f"- [How TreScout works]({B}/en/how-it-works/)", f"- [Manual tracking comparison]({B}/en/compare/rss-vs-ai/)", "",
       "## AI Crawlers & API Access", "",
       "Every dictionary term and open-source project page is served as both HTML and plain Markdown:",
       f"- Append `.md` to any dictionary or discover URL to fetch raw Markdown.",

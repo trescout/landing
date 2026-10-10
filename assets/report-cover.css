@@ -1,28 +1,29 @@
-/* TreScout · rapor KAPAK sayfası stilleri · site.css üzerine biner · generator (publish-report.ts) üretir */
+/* TreScout · rapor KAPAK sayfası stilleri · site.css üzerine biner · generator (publish-report.ts) üretir
+   v3 (2026-10-10): okuma sütunu; hap çip, kalkan düğme ve vurgulu üst etiket yok. */
 
-  /* kapak · iskelet /assets/site.css'te · chip + act burada (arşivle aynı dil) */
-  .report-main { max-width: 720px; margin: 0 auto; padding: 56px 24px 48px; }   /* okuma sütunu · keşif/sözlük detayıyla aynı */
-  .rep-back { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--ink-muted); margin-bottom: 28px; transition: color .15s; }
-  .rep-back:hover { color: var(--accent); }
-  .rep-eyebrow { font-size: 12px; letter-spacing: normal; text-transform: none; color: var(--accent); font-weight: 700; margin-bottom: 12px; }
-  .rep-title { font-family: var(--font-display); font-size: clamp(36px,7vw,60px); line-height: 1.04; font-weight: 700; letter-spacing: -.015em; color: #fff; }
-  .rep-chips { margin-top: 18px; display: flex; flex-wrap: wrap; gap: 8px; }
-  .chip { font-size: 12px; color: var(--brand-light); background: rgba(95,168,211,.1); border: 1px solid rgba(95,168,211,.22); padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
-  .chip-total { color: var(--accent); background: rgba(244,211,94,.1); border-color: rgba(244,211,94,.25); }
-  /* İngilizce arşiv rozeti · gün sayfaları bu stil dosyasını yüklüyor (report-archive.css'te de var) */
-  .chip-en { background: rgba(95,168,211,.15); border-color: rgba(95,168,211,.3); color: var(--accent); }
-  .rep-editorial { margin-top: 30px; font-size: 18px; line-height: 1.7; color: var(--ink); }
-  .rep-actions { margin-top: 38px; display: flex; gap: 12px; flex-wrap: wrap; }
-  .act { font-size: 15px; font-weight: 600; text-align: center; padding: 13px 26px; border-radius: 11px; transition: transform .12s, box-shadow .12s; }
-  .act-read { background: var(--accent); color: #15202B; }
-  .act-read:hover { transform: translateY(-1px); box-shadow: 0 10px 24px rgba(244,211,94,.24); }
-  .act-dl { color: var(--ink-muted); border: 1px solid rgba(95,168,211,0.28); }
-  .act-dl:hover { color: var(--accent); border-color: var(--accent); }
-  .rep-note { margin-top: 26px; font-size: 13.5px; color: var(--ink-muted); line-height: 1.6; }
-  .rep-discover-links { margin-top: 36px; padding-top: 24px; border-top: 1px solid rgba(95,168,211,0.18); }
-  .rep-links-title { font-size: 13px; font-weight: 700; text-transform: none; letter-spacing: normal; color: var(--brand-light); margin-bottom: 12px; }
-  .rep-links-grid { display: flex; flex-wrap: wrap; gap: 8px; }
-  .rep-link-item { font-size: 13.5px; color: var(--ink); background: rgba(95,168,211,0.08); border: 1px solid rgba(95,168,211,0.2); padding: 6px 12px; border-radius: 8px; text-decoration: none; transition: background .15s, border-color .15s, color .15s; }
-  .rep-link-item:hover { background: rgba(95,168,211,0.18); border-color: var(--accent); color: var(--accent); }
-  @media (max-width: 560px) { .report-main { padding: 36px 18px 36px; } .rep-actions .act { flex: 1; } }
-
+  .report-main { max-width: 720px; margin: 0 auto; padding: 40px 24px 48px; }   /* okuma sütunu · keşif/sözlük detayıyla aynı */
+  .rep-back { display: inline-block; font-size: var(--text-small); color: var(--accent); margin-bottom: 24px; }
+  .rep-back:hover { color: var(--accent-dark); text-decoration: underline; text-underline-offset: 4px; }
+  /* Üst etiket (eyebrow) v3'te kullanılmıyor · işaretleme üreticiden kalkana kadar gizli */
+  .rep-eyebrow { display: none; }
+  .rep-title { font-family: var(--font-display); font-size: var(--text-h1); line-height: 1.1; font-weight: 800; letter-spacing: -.01em; color: var(--ink); }
+  .rep-chips { margin-top: 12px; display: flex; flex-wrap: wrap; gap: 4px 16px; }
+  .chip { font-size: var(--text-caption); color: var(--ink-muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .chip-total { color: var(--ink); font-weight: 700; }
+  /* Çevrilmiş rapor rozeti · gün sayfaları bu stil dosyasını yüklüyor (report-archive.css'te de var) */
+  .chip-en { color: var(--ink); }
+  .rep-editorial { margin-top: 24px; font-size: var(--text-heading); line-height: 1.6; color: var(--ink); }
+  .rep-actions { margin-top: 28px; display: flex; gap: 20px; flex-wrap: wrap; align-items: center; }
+  .act { font-size: var(--text-small); font-weight: 700; }
+  .act-read { background: var(--pink); color: var(--ink); padding: 12px 18px; border-radius: 6px; }
+  .act-read:hover { background: var(--pink-dark); }
+  .act-dl { color: var(--accent); }
+  .act-dl:hover { color: var(--accent-dark); text-decoration: underline; text-underline-offset: 4px; }
+  .rep-captured, .rep-note { margin-top: 16px; font-size: var(--text-caption); color: var(--ink-muted); line-height: 1.6; }
+  .rep-note { font-size: var(--text-small); }
+  .rep-discover-links { margin-top: 32px; padding-top: 20px; border-top: 1px solid var(--border); }
+  .rep-links-title { font-family: var(--font-display); font-size: var(--text-heading); font-weight: 800; color: var(--ink); margin-bottom: 8px; }
+  .rep-links-grid { display: flex; flex-wrap: wrap; gap: 6px 20px; }
+  .rep-link-item { font-size: var(--text-small); color: var(--accent); }
+  .rep-link-item:hover { color: var(--accent-dark); text-decoration: underline; text-underline-offset: 4px; }
+  @media (max-width: 560px) { .report-main { padding: 28px 16px 36px; } }

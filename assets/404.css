@@ -17,112 +17,111 @@
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
-    :root {
-      --bg: #0F1929;
-      --brand: #1B4965;
-      --accent: #F4D35E;
-      --ink: #E8F1F5;
-      --ink-muted: #A8C0D0;
-    }
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body {
-      background: var(--bg);
-      color: var(--ink);
-      font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
-      min-height: 100vh;
-    }
-    .container {
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      padding: 40px 24px;
-      text-align: center;
-    }
-    .mark {
-      width: 88px;
-      height: 88px;
-      margin-bottom: 32px;
-      opacity: 0.95;
-    }
-    .code {
-      color: var(--ink-muted);
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 14px;
-      letter-spacing: 0.12em;
-      margin-bottom: 16px;
-    }
-    h1 {
-      font-family: 'Nunito', system-ui, -apple-system, sans-serif;
-      font-size: 52px;
-      font-weight: 700;
-      line-height: 1.15;
-      margin-bottom: 20px;
-      letter-spacing: -0.01em;
-    }
-    h1 .accent {
-      color: var(--accent);
-    }
-    p {
-      color: var(--ink-muted);
-      font-size: 18px;
-      line-height: 1.6;
-      max-width: 520px;
-      margin-bottom: 36px;
-    }
-    a.cta {
-      display: inline-block;
-      background: var(--accent);
-      color: var(--bg);
-      padding: 14px 32px;
-      font-weight: 600;
-      font-size: 15px;
-      border-radius: 12px;
-      text-decoration: none;
-      transition: transform 0.15s, box-shadow 0.15s;
-    }
-    a.cta:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 8px 24px rgba(244, 211, 94, 0.25);
-    }
-    @media (max-width: 540px) {
-      h1 { font-size: 40px; }
-      p { font-size: 16px; }
-    }
-  
+/* Nunito Sans · gövde yazısı · site.css'teki @font-face ile aynı */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/nunito-sans-regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/nunito-sans-bold.woff2') format('woff2');
+}
+
+/* Tenis paleti · site.css :root ile aynı değerler (bu sayfa site.css'i yüklemiyor) */
+:root {
+  --brand: #387F7C;
+  --accent: #2E6B68;
+  --pink: #F194B4;
+  --pink-dark: #EC7FA5;
+  --bg: #F4F6F5;
+  --border: #C3BDB3;
+  --ink: #2A1D1C;
+  --ink-muted: #486581;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Nunito Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  min-height: 100vh;
+}
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 16px;
+  text-align: center;
+}
+.mark {
+  width: 72px;
+  height: 72px;
+  margin-bottom: 28px;
+  color: var(--brand);
+}
+.code {
+  color: var(--ink-muted);
+  font-size: 15px;
+  font-variant-numeric: tabular-nums;
+  margin-bottom: 8px;
+}
+h1 {
+  font-family: 'Nunito', system-ui, -apple-system, sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 1.15;
+  margin-bottom: 16px;
+  letter-spacing: -0.01em;
+}
+p {
+  color: var(--ink-muted);
+  font-size: 17px;
+  line-height: 1.6;
+  max-width: 520px;
+  margin-bottom: 28px;
+}
+a.cta {
+  display: inline-block;
+  background: var(--pink);
+  color: var(--ink);
+  padding: 12px 18px;
+  font-weight: 700;
+  font-size: 15px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+a.cta:hover { background: var(--pink-dark); }
+@media (max-width: 540px) {
+  h1 { font-size: 28px; }
+}
 
 /* İçerik merkezleri · 404'ten çıkış kapıları (anasayfa tek seçenek kalmasın) */
 .hubs {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 22px;
+  gap: 8px 24px;
+  margin-top: 24px;
 }
 .hubs a {
-  font-size: 14px;
-  color: var(--ink-muted, #A8C0D0);
-  text-decoration: none;
-  padding: 7px 14px;
-  border: 1px solid rgba(95, 168, 211, 0.28);
-  border-radius: 999px;
-  transition: color .15s, border-color .15s, background .15s;
-}
-.hubs a:hover,
-.hubs a:focus-visible {
-  color: #F4D35E;
-  border-color: rgba(244, 211, 94, .55);
-  background: rgba(244, 211, 94, .08);
-  outline: none;
+  font-size: 15px;
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 4px;
 }
 /* İngilizce ziyaretçi · Vercel tek 404 sayfası sunuyor, sayfa iki dilli olsun */
 .en-note {
-  margin-top: 26px;
+  margin-top: 24px;
   font-size: 13px;
   line-height: 1.6;
-  color: var(--ink-muted, #A8C0D0);
-  opacity: .85;
+  color: var(--ink-muted);
 }
-.en-note a { color: inherit; border-bottom: 1px solid rgba(244, 211, 94, .4); text-decoration: none; }
-.en-note a:hover, .en-note a:focus-visible { color: #F4D35E; border-bottom-color: #F4D35E; outline: none; }
+.en-note a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }

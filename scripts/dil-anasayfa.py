@@ -110,8 +110,9 @@ html = f"""<!DOCTYPE html>
 <link rel="preload" href="/assets/fonts/nunito-sans-regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-<!-- index.css · aydınlatma modal'ının ve onay ipucunun biçimleri burada -->
-<link rel="stylesheet" href="/assets/index.css">
+<!-- home.css · ana sayfa v3 (scripts/ana-sayfa.py bu sayfanın <main>'ini doldurur);
+     aydınlatma penceresi ve kayıt formu site.css'te -->
+<link rel="stylesheet" href="/assets/home.css">
 </head>
 <body>
 <a class="skip-link" href="#main">{D["atla"]}</a>

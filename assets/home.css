@@ -1,0 +1,136 @@
+/* TreScout · ana sayfa v3 (2026-10-10) · site.css üzerine biner · işaretleme scripts/ana-sayfa.py
+ * Sayfanın kendine özgü öğeleri ürünün verisi: son raporun tarihi, gün şeridi (her gün bir
+ * çizgi), her maddenin son 7 rapordaki varlığı. Turkuaz bant nav ile birleşir; altı kâğıt zemin.
+ * Yazı ölçeği site.css'teki yedi adım. Pembe yalnız dolgu: ana düğme, "yeni" etiketi, bugünün işareti. */
+
+/* ---------- Bant · son rapor ---------- */
+.ana-bant { background: var(--brand); color: var(--on-brand); }
+.ana-bant-ic {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 40px 56px; align-items: end;
+  padding-top: 32px; padding-bottom: 40px;
+}
+.ana-gun { font-size: var(--text-body); }
+.ana-tarih {
+  margin-top: 4px; font-family: var(--font-display); font-weight: 800;
+  font-size: var(--text-hero); line-height: 1; letter-spacing: -.02em;
+}
+.ana-ozet { margin-top: 16px; font-size: var(--text-lead); line-height: 1.5; max-width: 34em; }
+.ana-eylem { margin-top: 24px; display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; }
+.ana-dugme { font-size: var(--text-body); padding: 12px 18px; }
+.ana-bant a:focus-visible { outline-color: var(--on-brand); }
+.ana-bant-baglanti { font-size: var(--text-body); text-decoration: underline; text-underline-offset: 4px; }
+.ana-bant-baglanti:hover { text-decoration-thickness: 2px; }
+.ana-serit-metni { font-size: var(--text-small); line-height: 1.5; max-width: 46em; margin-bottom: 12px; }
+
+/* Gün şeridi · SVG; renkler burada (CSP: satır içi stil yok) */
+.ana-serit { display: block; max-width: 100%; height: auto; overflow: visible; }
+.ana-serit .s-var { fill: var(--on-brand); }
+.ana-serit .s-yok { fill: var(--on-brand); opacity: .55; }
+.ana-serit .s-son { fill: var(--pink); }
+.ana-serit text { fill: var(--on-brand); font-size: 13px; font-family: var(--font-body); }
+.ana-serit-dar { display: none; }
+
+/* ---------- Gövde · rapordan seçmeler + yan sütun ---------- */
+.ana-govde {
+  display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 72px;
+  padding-top: 48px; padding-bottom: 16px;
+}
+.ana-icerik h1 {
+  font-family: var(--font-display); font-weight: 800; font-size: var(--text-h2);
+  line-height: 1.2; letter-spacing: -.01em; color: var(--ink);
+}
+.ana-giris { margin-top: 8px; font-size: var(--text-body); line-height: 1.6; color: var(--ink-muted); max-width: 40em; }
+
+.ana-kaynak { margin-top: 40px; }
+.ana-kaynak h2 {
+  font-family: var(--font-display); font-weight: 800; font-size: var(--text-heading);
+  color: var(--ink); padding-bottom: 8px; border-bottom: 2px solid var(--ink);
+}
+.ana-kaynak-sayi { font-family: var(--font-body); font-weight: 400; font-size: var(--text-small); color: var(--ink-muted); margin-left: 8px; }
+.ana-maddeler { list-style: none; }
+.ana-madde {
+  display: grid; grid-template-columns: 96px minmax(0, 1fr) 148px; gap: 24px;
+  padding: 16px 0; border-bottom: 1px solid var(--border);
+}
+.ana-iz { padding-top: 6px; }
+.ana-nokta { display: block; }
+.ana-nokta .n-var { fill: var(--court); stroke: var(--court); stroke-width: 1.5; }
+.ana-nokta .n-yok { fill: none; stroke: var(--court); stroke-width: 1.5; }
+.ana-nokta .n-son { fill: var(--pink); stroke: var(--ink); stroke-width: 1.5; }
+.ana-iz-etiket { display: block; margin-top: 6px; font-size: var(--text-caption); color: var(--ink-muted); line-height: 1.3; }
+.ana-madde-baslik { font-size: var(--text-body); font-weight: 700; line-height: 1.4; overflow-wrap: anywhere; }
+.ana-madde-baslik a { color: var(--ink); }
+.ana-madde-baslik a:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.ana-yeni {
+  display: inline-block; margin-left: 8px; padding: 0 6px; border-radius: 3px;
+  background: var(--pink); color: var(--ink);
+  font-size: var(--text-caption); font-weight: 700; line-height: 1.6; vertical-align: 2px;
+}
+.ana-madde-ozet { margin-top: 4px; font-size: var(--text-small); line-height: 1.6; color: var(--ink-muted); max-width: 44em; }
+.ana-madde-dil { margin-top: 4px; font-size: var(--text-caption); color: var(--ink-muted); }
+.ana-madde-sayi { text-align: right; font-size: var(--text-small); line-height: 1.6; color: var(--ink); font-variant-numeric: tabular-nums; }
+.ana-madde-sayi span { display: block; }
+
+.ana-tamami { margin-top: 24px; }
+.ana-dugme-koyu { background: var(--ink); color: var(--bg); font-size: var(--text-body); padding: 12px 18px; }
+.ana-dugme-koyu:hover { background: var(--accent-deep); color: var(--bg); }
+.ana-yz { margin-top: 16px; font-size: var(--text-caption); line-height: 1.6; color: var(--ink-muted); max-width: 44em; }
+
+/* Yan sütun */
+.ana-yan { padding-top: 4px; font-size: var(--text-small); }
+.ana-yan h2 { font-family: var(--font-display); font-weight: 800; font-size: var(--text-body); color: var(--ink); }
+.ana-yan h2 + * { margin-top: 8px; }
+.ana-yan h2:not(:first-child) { margin-top: 36px; }
+.ana-dagilim { list-style: none; }
+.ana-dagilim li {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; row-gap: 4px; column-gap: 12px;
+  padding: 6px 0;
+}
+.ana-dagilim .num { text-align: right; }
+.ana-cubuk { grid-column: 1 / -1; display: block; width: 100%; height: 6px; }
+.ana-cubuk .c-zemin { fill: var(--bg-sunken); }
+.ana-cubuk .c-dolu { fill: var(--court); }
+.ana-terimler { list-style: none; }
+.ana-terimler li { padding: 8px 0; }
+.ana-terim { font-weight: 700; }
+.ana-terim a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.ana-terim-aciklama { margin-top: 2px; color: var(--ink-muted); line-height: 1.5; }
+.ana-yan-baglanti { margin-top: 12px; }
+.ana-yan-baglanti a { color: var(--accent); font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+
+/* ---------- Alt · keşif + erken erişim ---------- */
+.ana-alt {
+  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 72px;
+  padding-top: 56px; padding-bottom: 72px;
+}
+.ana-alt h2 { font-family: var(--font-display); font-weight: 800; font-size: var(--text-h2); line-height: 1.2; color: var(--ink); }
+.ana-alt section > p { margin-top: 10px; font-size: var(--text-body); line-height: 1.6; color: var(--ink-muted); max-width: 36em; }
+.ana-kesif-bu a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.ana-git { color: var(--accent); font-weight: 700; text-decoration: underline; text-underline-offset: 4px; }
+.ana-git:hover, .ana-kesif-bu a:hover, .ana-terim a:hover, .ana-yan-baglanti a:hover { color: var(--accent-dark); }
+.ana-erken .cta-form { margin-top: 16px; max-width: 520px; }
+#top { position: relative; top: -88px; }
+
+/* ---------- Dar ekran ---------- */
+@media (max-width: 960px) {
+  .ana-bant-ic { grid-template-columns: 1fr; gap: 28px; }
+  .ana-govde { grid-template-columns: 1fr; gap: 40px; }
+  .ana-alt { grid-template-columns: 1fr; gap: 48px; }
+}
+@media (max-width: 720px) {
+  .ana-bant-ic { padding-top: 20px; padding-bottom: 28px; gap: 20px; }
+  .ana-ozet { font-size: var(--text-body); }
+  .ana-serit-genis { display: none; }
+  .ana-serit-dar { display: block; }
+  .ana-dugme { flex: 1 1 100%; justify-content: center; }
+  .ana-govde { padding-top: 28px; }
+  .ana-madde { grid-template-columns: 1fr auto; gap: 8px 16px; }
+  .ana-iz { grid-column: 1; grid-row: 1; padding-top: 4px; display: flex; align-items: center; gap: 10px; }
+  .ana-iz-etiket { margin-top: 0; }
+  .ana-madde-sayi { grid-column: 2; grid-row: 1; }
+  .ana-madde-govde { grid-column: 1 / -1; grid-row: 2; }
+  /* Dar ekranda yalnız ilk sayı (yıldız, oy, beğeni) · gerisi rapor sayfasında */
+  .ana-madde-sayi span + span { display: none; }
+  .ana-madde-sayi { white-space: nowrap; font-size: var(--text-caption); }
+  .ana-alt { padding-top: 40px; padding-bottom: 56px; }
+}

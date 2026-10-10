@@ -66,14 +66,9 @@ jobs:
       # Gemini model zinciri tek yerde · yeni betik tek modele bağlanmasın.
       - name: Gemini model zinciri kontrolü
         run: python3 scripts/check-gemini-zinciri.py
-      # Dizin kartı / menü dil düğmesi / ana sayfa radarı var olmayan sayfaya bağlanmasın.
+      # Dizin kartı / menü dil düğmesi / ana sayfa bağlantısı var olmayan sayfaya bağlanmasın.
       - name: Var olmayan sayfaya bağlantı kontrolü
         run: python3 scripts/check-dizin-baglantilari.py
-      # Ana sayfa kataloğu tam katalogdan türetiliyor · katalog değişip türev
-      # geride kalırsa ana sayfa eski kartları gösterir.
-      # Düzeltmesi: python3 scripts/catalog-home.py
-      - name: Ana sayfa katalog türevi güncel mi
-        run: python3 scripts/catalog-home.py --check
 
       - name: .md uç noktaları güncel mi (HTML ↔ .md)
         run: python3 scripts/md-uret.py --check

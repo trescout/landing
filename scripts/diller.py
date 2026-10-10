@@ -38,6 +38,8 @@ Sırayı bozmayın · 3'ten önce 4 yaparsanız keşif sayfaları çapraz bağla
         node scripts/build-en.js --lang=XX
         python3 scripts/kapak-gorselleri.py --lang=XX
         python3 scripts/dil-anasayfa.py --lang=XX     (küçük giriş sayfası)
+        python3 scripts/ana-sayfa.py                  (ana sayfanın <main>'i, son rapordan)
+        python3 scripts/nasil-calisir.py              ("nasıl çalışır" · M tablosuna dili ekleyin)
      Ana sayfayı tam çevirecekseniz dil-kabuk-tazele.py'ye ve
      check-sayfa-paritesi.py'ye o dili ekleyin · karşılaştırma ve aydınlatma
      metni de elle yazılır.

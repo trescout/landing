@@ -222,7 +222,7 @@ jobs:
       # gelmeden durdu (#241/#242/#250 ile aynı sınıf, bu adımlar atlanmıştı).
       # Güvenli: betik başarılı çevirileri ve önbelleği hata vermeden ÖNCE
       # yazıyor, başarısızlar için Türkçe yedek yazmıyor; eksik alan sayfalarda
-      # İngilizceye ya da boşa düşüyor (build-en.js, catalog-home.py, istemci).
+      # İngilizceye ya da boşa düşüyor (build-en.js, istemci).
       # Koşu sonda yine kırmızıya çekiliyor.
       - name: İngilizce tanıtım metinleri (tagline_en · kisa_en)
         id: tanitim_en
@@ -421,12 +421,12 @@ jobs:
             node scripts/build-reports-en.js --lang=$d
           done
 
-      # Ana sayfanın okuduğu hafif katalog türevi · katalog SON hâline geldikten
-      # sonra (tagline_XX çevirileri ve --refresh sonrası) basılmalı, yoksa ana
-      # sayfa bir tur eski kartları gösterir. Diller diller.py'den okunuyor ·
-      # burada dil adı yok.
-      - name: Ana sayfa kataloğu (hafif türev · tüm diller)
-        run: python3 scripts/catalog-home.py
+      # Ana sayfa (v3, 2026-10-10) son raporun verisinden basılıyor: tarih, madde
+      # sayısı, gün şeridi, son 7 rapordaki varlık. Rapor arşivi sayfalarından
+      # SONRA çalışmalı · rapor sayfası olmayan güne bağlanmaz. Tarih, bütün
+      # dillerde raporu olan en son gün (diller arası yapı aynı kalsın).
+      - name: Ana sayfa (son rapordan · tüm diller)
+        run: python3 scripts/ana-sayfa.py
 
       - name: AI'a hizmet · keşif index server-render + llms.txt
         run: |
@@ -609,8 +609,7 @@ jobs:
                 && python3 scripts/check-footer-consistency.py \
                 && python3 scripts/check-headline-consistency.py \
                 && python3 scripts/check-brand-typography.py \
-                && python3 scripts/check-hreflang.py \
-                && python3 scripts/catalog-home.py --check
+                && python3 scripts/check-hreflang.py
             }
             for deneme in 1 2 3 4 5; do
               if git push; then
