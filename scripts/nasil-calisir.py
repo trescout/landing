@@ -45,7 +45,7 @@ M = {
         "ornek": "Örnek olarak 9 Ekim 2026 raporundan bir kayıt:",
         "ornek_etiket": ("Kaynak kaydı", "TreScout özeti", "Sözlük açıklaması"),
         "tekrar": ("Tekrar filtresi", "Her rapor, son 30 günün raporlarıyla karşılaştırılır. Bu süre içinde "
-                   "listede yer almayan maddeler \u201cyeni\u201d olarak işaretlenir. Tekrarsız raporda yalnızca bu "
+                   "listede yer almayan maddeler, daha önce hiç listelenmediyse \u201cyeni\u201d, daha önceki raporlarda varsa \u201cyeniden\u201d olarak işaretlenir. Tekrarsız raporda yalnızca bu "
                    "maddeler yer alır."),
         "tekrarsiz": "Tekrarsız raporlar",
         "yayin": ("Yayın", "Rapor her gün Türkçe, İngilizce, Fransızca, Portekizce, İspanyolca ve Almanca "
@@ -78,7 +78,7 @@ M = {
         "ornek": "A record from the October 9, 2026 report:",
         "ornek_etiket": ("Source record", "TreScout summary", "Glossary entry"),
         "tekrar": ("Repeat filter", "Each report is compared with the reports of the last 30 days. Items that "
-                   "were not listed in that period are marked \u201cnew\u201d. The fresh-only report contains only those items."),
+                   "were not listed in that period are marked \u201cnew\u201d, or \u201cback\u201d if they appeared in earlier reports. The fresh-only report contains only those items."),
         "tekrarsiz": "Fresh-only reports",
         "yayin": ("Publishing", "The report is published every day as a web page and a PDF, in Turkish, English, "
                   "French, Portuguese, Spanish and German. Past reports stay in the archive. Open-source projects "
@@ -110,7 +110,7 @@ M = {
         "ornek": "Un élément du rapport du 9 octobre 2026 :",
         "ornek_etiket": ("Élément source", "Résumé TreScout", "Entrée du glossaire"),
         "tekrar": ("Filtre des répétitions", "Chaque rapport est comparé aux rapports des 30 derniers jours. Les "
-                   "éléments absents sur cette période sont marqués « nouveau ». Le rapport "
+                   "éléments absents sur cette période sont marqués « nouveau », ou « de retour » s'ils figuraient dans des rapports plus anciens. Le rapport "
                    "« nouveautés seulement » ne contient que ces éléments."),
         "tekrarsiz": "Rapports nouveautés seulement",
         "yayin": ("Publication", "Le rapport est publié chaque jour sous forme de page web et de PDF, en turc, "
@@ -144,7 +144,7 @@ M = {
         "ornek": "Um item do relatório de 9 de outubro de 2026:",
         "ornek_etiket": ("Item da fonte", "Resumo do TreScout", "Verbete do glossário"),
         "tekrar": ("Filtro de repetição", "Cada relatório é comparado com os relatórios dos últimos 30 dias. Itens "
-                   "que não apareceram nesse período recebem a marca “novo”. O relatório “somente "
+                   "que não apareceram nesse período recebem a marca “novo”, ou “de volta” se apareceram em relatórios anteriores. O relatório “somente "
                    "novidades” traz apenas esses itens."),
         "tekrarsiz": "Relatórios somente novidades",
         "yayin": ("Publicação", "O relatório é publicado todos os dias como página web e PDF, em turco, inglês, "
@@ -178,7 +178,7 @@ M = {
         "ornek": "Un elemento del informe del 9 de octubre de 2026:",
         "ornek_etiket": ("Elemento de la fuente", "Resumen de TreScout", "Entrada del glosario"),
         "tekrar": ("Filtro de repeticiones", "Cada informe se compara con los informes de los últimos 30 días. "
-                   "Los elementos que no aparecieron en ese periodo se marcan como «nuevo». El informe «solo "
+                   "Los elementos que no aparecieron en ese periodo se marcan como «nuevo», o «de vuelta» si aparecieron en informes anteriores. El informe «solo "
                    "novedades» contiene únicamente esos elementos."),
         "tekrarsiz": "Informes solo novedades",
         "yayin": ("Publicación", "El informe se publica cada día como página web y PDF, en turco, inglés, francés, "
@@ -212,7 +212,7 @@ M = {
         "ornek": "Ein Eintrag aus dem Bericht vom 9. Oktober 2026:",
         "ornek_etiket": ("Quelleneintrag", "TreScout-Zusammenfassung", "Glossareintrag"),
         "tekrar": ("Wiederholungsfilter", "Jeder Bericht wird mit den Berichten der letzten 30 Tage verglichen. "
-                   "Einträge, die in diesem Zeitraum nicht vorkamen, werden als „neu“ markiert. Der "
+                   "Einträge, die in diesem Zeitraum nicht vorkamen, werden als „neu“ markiert, oder als „wieder da“, wenn sie in früheren Berichten standen. Der "
                    "Bericht „Nur Neues“ enthält nur diese Einträge."),
         "tekrarsiz": "Berichte „Nur Neues“",
         "yayin": ("Veröffentlichung", "Der Bericht erscheint jeden Tag als Webseite und als PDF, auf Türkisch, "
