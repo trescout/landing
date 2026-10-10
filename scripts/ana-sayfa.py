@@ -304,7 +304,9 @@ def bosluk_listesi(gunler, m):
         ay = m["aylar"][gr[0].month - 1]
         out.append(m["gun_ay"].format(gun=gr[0].day, ay=ay) if len(gr) == 1
                    else m["aralik"].format(bas=gr[0].day, son=gr[-1].day, ay=ay))
-    return ", ".join(out)
+    # Aralık tireden satıra bölünmesin ("29-" / "30 Ağustos"): tirenin iki yanına
+    # sözcük birleştirici (U+2060), gün ile ay arasına bölünmez boşluk
+    return ", ".join(x.replace("-", "\u2060-\u2060").replace(" ", "\u00a0", 1) for x in out)
 
 
 # ── veri ─────────────────────────────────────────────────────────────────────
