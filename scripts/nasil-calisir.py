@@ -36,7 +36,7 @@ M = {
         "h1": "TreScout nasıl çalışır?",
         "giris": ("TreScout her gün kaynak akışlarını tarar, öne çıkanları yapay zekâ ile özetler ve tek bir "
                   "raporda bir araya getirir. Raporlar herkese açık; okumak için kayıt olmanız gerekmez."),
-        "tarama": ("Tarama", "Her gün GitHub Trending, Hacker News, Lobsters ile Hugging Face'in model ve günlük "
+        "tarama": ("Tarama", "Her gün GitHub Trending, Hacker News ile Hugging Face'in model ve günlük "
                    "makale akışları taranır; her kaynaktan o günün öne çıkan kayıtları alınır. Yıldız, oy, beğeni "
                    "ve indirme sayıları tarama anındaki değerleri yansıtır; rapor sayfasında taramanın saati belirtilir."),
         "ozet": ("Özetleme", "Seçilen her kayıt, yapay zekâ ile bir veya iki cümlelik kısa bir özete dönüştürülür. "
@@ -69,7 +69,7 @@ M = {
         "h1": "How does TreScout work?",
         "giris": ("Every day TreScout scans source feeds, summarizes the highlights with AI and collects them in "
                   "one report. Reports are public; you don't need an account to read them."),
-        "tarama": ("Scanning", "Every day we scan GitHub Trending, Hacker News, Lobsters, and Hugging Face's model "
+        "tarama": ("Scanning", "Every day we scan GitHub Trending, Hacker News, and Hugging Face's model "
                    "and daily paper feeds, and take the day's highlights from each source. Star, point, like and "
                    "download counts are the values at scan time; the report page shows when the scan happened."),
         "ozet": ("Summarizing", "Each selected record is turned into a one or two sentence summary with AI. "
@@ -101,7 +101,7 @@ M = {
         "h1": "Comment fonctionne TreScout ?",
         "giris": ("Chaque jour, TreScout parcourt les flux sources, résume l'essentiel avec l'IA et le réunit dans "
                   "un seul rapport. Les rapports sont publics ; aucune inscription n'est nécessaire pour les lire."),
-        "tarama": ("Collecte", "Chaque jour, nous parcourons GitHub Trending, Hacker News, Lobsters ainsi que les "
+        "tarama": ("Collecte", "Chaque jour, nous parcourons GitHub Trending, Hacker News ainsi que les "
                    "flux de modèles et d'articles du jour de Hugging Face, et retenons ce qui se démarque dans "
                    "chaque source. Les nombres d'étoiles, de points, de j'aime et de téléchargements sont ceux du "
                    "moment de la collecte ; la page du rapport en indique l'heure."),
@@ -136,7 +136,7 @@ M = {
         "h1": "Como o TreScout funciona?",
         "giris": ("Todos os dias o TreScout percorre os fluxos das fontes, resume os destaques com IA e reúne tudo "
                   "em um único relatório. Os relatórios são públicos; não é preciso cadastro para ler."),
-        "tarama": ("Coleta", "Todos os dias percorremos o GitHub Trending, o Hacker News, o Lobsters e os fluxos "
+        "tarama": ("Coleta", "Todos os dias percorremos o GitHub Trending, o Hacker News e os fluxos "
                    "de modelos e de artigos do dia do Hugging Face, e selecionamos os destaques de cada fonte. "
                    "Estrelas, pontos, curtidas e downloads são os valores do momento da coleta; a página do "
                    "relatório mostra o horário."),
@@ -169,7 +169,7 @@ M = {
         "h1": "¿Cómo funciona TreScout?",
         "giris": ("Cada día TreScout recorre los flujos de fuentes, resume lo más destacado con IA y lo reúne en un "
                   "solo informe. Los informes son públicos; no necesita registrarse para leerlos."),
-        "tarama": ("Recopilación", "Cada día recorremos GitHub Trending, Hacker News, Lobsters y los flujos de "
+        "tarama": ("Recopilación", "Cada día recorremos GitHub Trending, Hacker News y los flujos de "
                    "modelos y artículos del día de Hugging Face, y tomamos lo más destacado de cada fuente. Las "
                    "estrellas, puntos, me gusta y descargas son los valores del momento de la recopilación; la "
                    "página del informe indica la hora."),
@@ -203,7 +203,7 @@ M = {
         "h1": "Wie funktioniert TreScout?",
         "giris": ("TreScout prüft jeden Tag Quellen-Feeds, fasst die Höhepunkte mit KI zusammen und bündelt sie in "
                   "einem Bericht. Die Berichte sind öffentlich; zum Lesen ist keine Anmeldung nötig."),
-        "tarama": ("Erfassung", "Jeden Tag prüfen wir GitHub Trending, Hacker News, Lobsters sowie die Modell- und "
+        "tarama": ("Erfassung", "Jeden Tag prüfen wir GitHub Trending, Hacker News sowie die Modell- und "
                    "Tagespaper-Feeds von Hugging Face und übernehmen die Höhepunkte jeder Quelle. Sterne, Punkte, "
                    "Likes und Downloads sind die Werte zum Zeitpunkt der Erfassung; die Berichtsseite nennt die "
                    "Uhrzeit."),
