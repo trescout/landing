@@ -44,9 +44,9 @@ Sim, o MCP possui uma estrutura que mantém sob controle as permissões de acess
 ## Ferramentas relacionadas
 
 - [Servers](https://trescout.com/pt/discover/servers/)
+- [REA](https://trescout.com/pt/discover/rea/)
 - [Goose](https://trescout.com/pt/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/pt/discover/chrome-devtools-mcp/)
-- [REA](https://trescout.com/pt/discover/rea/)
 - [Openclaude](https://trescout.com/pt/discover/openclaude/)
 - [Fastmcp](https://trescout.com/pt/discover/fastmcp/)
 - [Context Mode](https://trescout.com/pt/discover/context-mode/)

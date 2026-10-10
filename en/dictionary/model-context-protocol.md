@@ -44,9 +44,9 @@ Yes, MCP has a structure that keeps data access permissions under control, thus 
 ## Related tools
 
 - [Servers](https://trescout.com/en/discover/servers/)
+- [REA](https://trescout.com/en/discover/rea/)
 - [Goose](https://trescout.com/en/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/en/discover/chrome-devtools-mcp/)
-- [REA](https://trescout.com/en/discover/rea/)
 - [Openclaude](https://trescout.com/en/discover/openclaude/)
 - [Fastmcp](https://trescout.com/en/discover/fastmcp/)
 - [Context Mode](https://trescout.com/en/discover/context-mode/)

@@ -2,7 +2,7 @@
 
 Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır. Kodları inceleyebilir, dosyalarda değişiklik yapabilir ve komut çalıştırabilir.
 
-- ★ 128.208
+- ★ 128.492
 - GitHub Trending · 2026-08-23
 
 ## Kurulum
@@ -31,10 +31,10 @@ codex
 
 ## Güncelleme
 
+- **10 Ekim 2026:** Yıldız 128.208 → 128.492, son sürüm rust-v0.162.1 (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 128.352 → 128.208, son sürüm rust-v0.162.0 (8 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 128.007 → 128.352, son sürüm rust-v0.161.0 (7 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 127.591 → 128.007, son sürüm rust-v0.160.1 (5 Ekim 2026).
-- **2 Ekim 2026:** Yıldız 127.445 → 127.591, son sürüm rust-v0.160.0 (1 Ekim 2026).
 
 ## Bu araç ne yapar?
 

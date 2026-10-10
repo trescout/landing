@@ -44,9 +44,9 @@ Evet, MCP veriye erişim yetkilerini kontrol altında tutan bir yapıya sahiptir
 ## İlgili araçlar
 
 - [Servers](https://trescout.com/discover/servers/)
+- [REA](https://trescout.com/discover/rea/)
 - [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
-- [REA](https://trescout.com/discover/rea/)
 - [Openclaude](https://trescout.com/discover/openclaude/)
 - [Fastmcp](https://trescout.com/discover/fastmcp/)
 - [Context Mode](https://trescout.com/discover/context-mode/)

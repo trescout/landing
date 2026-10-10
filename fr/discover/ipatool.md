@@ -2,12 +2,13 @@
 
 Ipatool est un outil de ligne de commande open source qui vous permet de rechercher, de concéder sous licence et de télécharger directement des packages d'applications iOS, iPadOS, tvOS et visionOS (fichiers IPA) depuis l'App Store d'Apple. Développé avec le langage Go, l'outil permet l'archivage d'applications et la recherche de sécurité sans avoir besoin d'un appareil iPhone physique ou d'un logiciel iTunes.
 
-- ★ 11 407
+- ★ 11 571
 - Go
 - GitHub Trending · 2026-08-31
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 11,407 → 11,571, dernière version v2.7.0 (9 octobre 2026).
 - **27 septembre 2026:** Étoiles 10,388 → 11,407, dernière version v2.6.0 (13 septembre 2026).
 
 ## Ce que ça vous apporte

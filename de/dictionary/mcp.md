@@ -87,10 +87,10 @@ Sein Design ist berechtigungsbasiert, Sie müssen jedoch den Zugriffsbereich des
 - [Servers](https://trescout.com/de/discover/servers/)
 - [OpenCut](https://trescout.com/de/discover/opencut/)
 - [AI Engineering from Scratch](https://trescout.com/de/discover/ai-engineering-from-scratch/)
+- [REA](https://trescout.com/de/discover/rea/)
 - [Goose](https://trescout.com/de/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](https://trescout.com/de/discover/codebase-memory-mcp/)
-- [REA](https://trescout.com/de/discover/rea/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/mcp/)
 

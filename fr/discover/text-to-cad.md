@@ -2,16 +2,16 @@
 
 Les outils Text-to-CAD sont un ensemble de compétences d'agent développées pour automatiser les processus de conception robotique et matérielle. Cette bibliothèque basée sur JavaScript permet de créer des modèles d'ingénierie complexes avec des commandes en langage naturel.
 
-- ★ 18 610
+- ★ 18 885
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 18,610 → 18,885, dernière version v0.7.20 (10 octobre 2026).
 - **9 octobre 2026:** Étoiles 18,363 → 18,610, dernière version v0.7.19 (9 octobre 2026).
 - **8 octobre 2026:** Étoiles 17,698 → 18,363, dernière version v0.7.17 (8 octobre 2026).
 - **6 octobre 2026:** Étoiles 17,095 → 17,698, dernière version v0.7.15 (6 octobre 2026).
-- **5 octobre 2026:** Étoiles 16,644 → 17,095, dernière version v0.7.14 (5 octobre 2026).
 
 ## Ce que ça vous apporte
 

@@ -87,10 +87,10 @@ Its design is permission-based, but you need to keep the server's access scope n
 - [Servers](https://trescout.com/en/discover/servers/)
 - [OpenCut](https://trescout.com/en/discover/opencut/)
 - [AI Engineering from Scratch](https://trescout.com/en/discover/ai-engineering-from-scratch/)
+- [REA](https://trescout.com/en/discover/rea/)
 - [Goose](https://trescout.com/en/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/en/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](https://trescout.com/en/discover/codebase-memory-mcp/)
-- [REA](https://trescout.com/en/discover/rea/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mcp/)
 

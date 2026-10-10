@@ -2,16 +2,16 @@
 
 Bun é uma ferramenta de alto desempenho que combina tempo de execução JavaScript, gerenciador de pacotes, executor de testes e empacotador sob o mesmo teto. Desenvolvida com a linguagem Rust, esta plataforma oferece uma infraestrutura integrada para acelerar os processos de desenvolvimento de software.
 
-- ★ 95.887
+- ★ 96.169
 - Rust
 - GitHub Trending · 2026-07-11
 
 ## Atualizações
 
+- **10 de outubro de 2026:** Estrelas 95,887 → 96,169, versão mais recente bun-v1.4.3 (10 de outubro de 2026).
 - **5 de setembro de 2026:** Estrelas 95,881 → 95,887, versão mais recente bun-v1.4.2 (5 de setembro de 2026).
 - **4 de setembro de 2026:** Estrelas 95,505 → 95,881, versão mais recente bun-v1.4.1 (4 de setembro de 2026).
 - **20 de agosto de 2026:** Estrelas 95,153 → 95,505, versão mais recente bun-v1.4.0 (20 de agosto de 2026).
-- **2 de agosto de 2026:** Estrelas 94,374 → 95,153, versão mais recente bun-v1.3.14 (13 de maio de 2026).
 
 ## O que você ganha
 

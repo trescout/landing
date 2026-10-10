@@ -2,16 +2,16 @@
 
 Prime-Agent, développé par PrimeIntellect, est un agent d'apprentissage par renforcement d'auto-réparation pour les processus de développement de logiciels et les tâches autonomes à long terme. Écrit en TypeScript, cet outil vise à augmenter l'efficacité du développement logiciel en automatisant des flux de travail complexes.
 
-- ★ 21 387
+- ★ 21 777
 - TypeScript
 - GitHub Trending · 2026-08-08
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 21,387 → 21,777, dernière version v0.10.0 (9 octobre 2026).
 - **29 septembre 2026:** Étoiles 21,378 → 21,387, dernière version v0.9.8 (29 septembre 2026).
 - **29 septembre 2026:** Étoiles 21,309 → 21,378, dernière version v0.9.7 (28 septembre 2026).
 - **27 septembre 2026:** Étoiles 20,880 → 21,309, dernière version v0.9.6 (24 septembre 2026).
-- **16 septembre 2026:** Étoiles 20,364 → 20,880, dernière version v0.9.5 (16 septembre 2026).
 
 ## Ce que ça vous apporte
 

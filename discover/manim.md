@@ -2,7 +2,7 @@
 
 Matematik videoları için kesin ve programatik animasyonlar üretmenize yardımcı olan bir animasyon motorudur. Animasyonları Python ile tanımlayabilir ve örnek sahneler üzerinden başlayabilirsiniz.
 
-- ★ 90.309
+- ★ 94.837
 - GitHub Trending · 2026-08-12
 
 ## Kurulum
@@ -25,6 +25,7 @@ manimgl example_scenes.py OpeningManimExample
 
 ## Güncelleme
 
+- **10 Ekim 2026:** Yıldız 90.309 → 94.837, son sürüm v1.7.2 (13 Aralık 2024).
 - **12 Ağustos 2026:** Yıldız 90.306 → 90.309, son sürüm v1.7.2 (13 Aralık 2024).
 
 ## Bu araç ne yapar?

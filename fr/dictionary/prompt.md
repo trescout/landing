@@ -70,8 +70,8 @@ Cela dépend du service. Il convient de lire la politique avant de saisir des do
 
 ## Outils liés
 
-- [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [AI Engineering from Scratch](https://trescout.com/fr/discover/ai-engineering-from-scratch/)
+- [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [Awesome Gpt Image 2](https://trescout.com/fr/discover/awesome-gpt-image-2/)
 - [Flue](https://trescout.com/fr/discover/flue/)
 - [Codex-X](https://trescout.com/fr/discover/codex-x/)

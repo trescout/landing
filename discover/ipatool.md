@@ -2,12 +2,13 @@
 
 Ipatool, Apple App Store üzerinden iOS, iPadOS, tvOS ve visionOS uygulama paketlerini (IPA dosyaları) doğrudan aramanızı, lisanslamanızı ve indirmenizi sağlayan açık kaynaklı bir komut satırı aracıdır. Go diliyle geliştirilen araç, fiziksel bir iPhone cihazına veya iTunes yazılımına ihtiyaç duymadan uygulama arşivleme ve güvenlik araştırmalarını mümkün kılar.
 
-- ★ 11.407
+- ★ 11.571
 - Go
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
 
+- **10 Ekim 2026:** Yıldız 11.407 → 11.571, son sürüm v2.7.0 (9 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 10.388 → 11.407, son sürüm v2.6.0 (13 Eylül 2026).
 
 ## Ne kazandırır?

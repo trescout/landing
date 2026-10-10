@@ -2,16 +2,16 @@
 
 Diagram-design, développé par Cathryn Lavery, comprend 29 types de diagrammes éditoriaux différents préparés pour l'outil de codage basé sur l'intelligence artificielle Claude Code. Cette bibliothèque présente clairement des diagrammes complexes directement en utilisant HTML et des graphiques vectoriels évolutifs (SVG) au lieu des outils de création de diagrammes standard.
 
-- ★ 45 611
+- ★ 48 430
 - HTML
 - GitHub Trending · 2026-08-13
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 45,611 → 48,430.
 - **8 octobre 2026:** Étoiles 42,493 → 45,611.
 - **27 septembre 2026:** Étoiles 40,046 → 42,493.
 - **15 septembre 2026:** Étoiles 38,136 → 40,046.
-- **11 septembre 2026:** Étoiles 35,747 → 38,136.
 
 ## Ce que ça vous apporte
 

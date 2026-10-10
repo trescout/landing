@@ -2,16 +2,16 @@
 
 Développé par Superlinked, SIE est un serveur d'inférence open source et un cluster de production utilisé pour exécuter les modèles dont les agents d'IA ont besoin. Cette structure basée sur Python vise à gérer des déploiements de modèles complexes et à fournir une infrastructure évolutive.
 
-- ★ 3 350
+- ★ 3 372
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Mises à jour
 
+- **10 octobre 2026:** Étoiles 3,350 → 3,372, dernière version v0.10.0 (9 octobre 2026).
 - **30 septembre 2026:** Étoiles 3,325 → 3,350, dernière version v0.9.0 (30 septembre 2026).
 - **27 septembre 2026:** Étoiles 3,198 → 3,325, dernière version v0.8.3 (26 septembre 2026).
 - **4 septembre 2026:** Étoiles 3,157 → 3,198, dernière version v0.7.3 (3 septembre 2026).
-- **3 septembre 2026:** Étoiles 3,155 → 3,157, dernière version v0.7.2 (27 août 2026).
 
 ## Ce que ça vous apporte
 

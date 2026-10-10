@@ -2,11 +2,12 @@
 
 Manim ist eine Animations-Engine für präzise, programmatisch erstellte erklärende Mathematikvideos. Sie können Animationen in Python definieren und mit den Beispielszenen des ausgewählten 3b1b-Repositories beginnen.
 
-- ★ 90.309
+- ★ 94.837
 - GitHub Trending · 2026-08-12
 
 ## Aktualisierungen
 
+- **10. Oktober 2026:** Sterne 90,309 → 94,837, neueste Version v1.7.2 (13. Dezember 2024).
 - **12. August 2026:** Sterne 90,306 → 90,309, neueste Version v1.7.2 (13. Dezember 2024).
 
 ## Installation

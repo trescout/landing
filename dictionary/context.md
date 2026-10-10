@@ -82,9 +82,9 @@ Go'da ctx context.Context parametresi, bir HTTP isteği iptal edildiğinde veya 
 
 - [Servers](https://trescout.com/discover/servers/)
 - [OmniRoute](https://trescout.com/discover/omniroute/)
+- [REA](https://trescout.com/discover/rea/)
 - [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
-- [REA](https://trescout.com/discover/rea/)
 - [Openclaude](https://trescout.com/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/discover/code-review-graph/)
 - [Fastmcp](https://trescout.com/discover/fastmcp/)
