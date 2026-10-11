@@ -1,0 +1,837 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-11",
+  "capturedAt": "2026-10-11T10:50:12.702Z",
+  "editorial": "Bugünün teknoloji gündemi Google'ın yeni gömme (embedding) modelleri ve açık kaynaklı yazılım araçları etrafında şekilleniyor. Özellikle GitHub üzerindeki sistem otomasyonu odaklı projeler ile akademik düzeydeki evrimsel robotik çalışmaları, geliştirici ekosisteminin teknik derinliğe olan ilgisini net bir şekilde yansıtıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi tersine mühendislik (reverse engineering) yöntemiyle çözümlemek için yapay zekâ ajanlarını kullanan bir araçtır. TypeScript diliyle geliştirilen bu proje, yazılım analiz süreçlerini otomatize etmeyi hedefler.",
+          "meta": "TypeScript · ★ 84.629 · +25.793 bugün",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 84629,
+              "engagementCount": 25793,
+              "rank": 1,
+              "extra": {
+                "starsToday": 25793
+              }
+            }
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5, PlayStation 5 çalıştırılabilir dosyalarını (executables) Linux ve Windows sistemlerine otomatik olarak taşıyan bir araçtır. C++ diliyle geliştirilen bu yazılım, oyun dosyalarının farklı platformlarda çalıştırılmasını sağlayan bir dönüştürme süreci sunar.",
+          "meta": "C++ · ★ 28.133 · +5.805 bugün",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 28133,
+              "engagementCount": 5805,
+              "rank": 2,
+              "extra": {
+                "starsToday": 5805
+              }
+            }
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft, sanatçılar, tasarımcılar ve film yapımcıları için geliştirilmiş bir kasıtlı üretim motorudur (crafting engine). Rust programlama diliyle yazılan bu proje, yaratıcı süreçlerde içerik oluşturma aşamasını yönetmeyi amaçlar.",
+          "meta": "Rust · ★ 15.676 · +3.222 bugün",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 15676,
+              "engagementCount": 3222,
+              "rank": 3,
+              "extra": {
+                "starsToday": 3222
+              }
+            }
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design, Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid ve Pi gibi yazılım geliştirme araçları için hazırlanan 44 farklı editoryal diyagram tasarımını içeriyor. Proje, harici bağımlılık içermeyen HTML ve SVG formatındaki görselleriyle standart diyagram araçlarına alternatif bir görselleştirme sunuyor.",
+          "meta": "HTML · ★ 49.472 · +1.190 bugün",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 49472,
+              "engagementCount": 1190,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1190
+              }
+            }
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode, yapay zekâ kodlama ajanları için bağlam penceresini (context window) optimize eden bir araçtır. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltır, oturum belleğini kalıcı hale getirir ve Model Bağlantı Protokolü (Model Context Protocol - MCP) üzerinden 17 farklı platforma yönlendirme sağlar.",
+          "meta": "TypeScript · ★ 26.545 · +178 bugün",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 26545,
+              "engagementCount": 178,
+              "rank": 5,
+              "extra": {
+                "starsToday": 178
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "mattpocock/skills, gerçek mühendisler için tasarlanmış bir dizi yetenek paketi (skills) sunuyor. Yazılım geliştiricilerin kendi ajan dizinlerinde (agents directory) kullanabileceği pratik araçları içeriyor.",
+          "meta": "Shell · ★ 285.249 · +1.736 bugün",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 285249,
+              "engagementCount": 1736,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1736
+              }
+            }
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Google tarafından geliştirilen Flutter, mobil ve diğer platformlar için hızlı bir şekilde görsel açıdan zengin uygulamalar oluşturmanıza olanak tanıyan bir kullanıcı arayüzü (UI) araç setidir. Dart programlama dilini kullanan bu açık kaynaklı proje, tek bir kod tabanı üzerinden çoklu platform desteği sunar.",
+          "meta": "Dart · ★ 179.719 · +88 bugün",
+          "snapshot": {
+            "sourceId": "flutter/flutter",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Dart",
+              "popularity": 179719,
+              "engagementCount": 88,
+              "rank": 7,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        },
+        {
+          "title": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "summary": "Google tarafından geliştirilen tensorflow, herkesin kullanımına açık bir makine öğrenmesi (machine learning) çerçevesidir. C++ diliyle yazılmış olan bu açık kaynaklı kütüphane, yapay zekâ modelleri geliştirmek ve eğitmek için geniş kapsamlı araçlar sunar.",
+          "meta": "C++ · ★ 200.857 · +26 bugün",
+          "snapshot": {
+            "sourceId": "tensorflow/tensorflow",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 200857,
+              "engagementCount": 26,
+              "rank": 8,
+              "extra": {
+                "starsToday": 26
+              }
+            }
+          }
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "hugohe3/ppt-master, belgeleri veya konu başlıklarını özgün şekiller, geçişler ve animasyonlar içeren yerel PowerPoint sunumlarına dönüştüren bir Python aracıdır. Kullanıcıların kendi .pptx şablonlarını kullanmalarına olanak tanırken, konuşmacı notlarından sesli anlatım ve veri destekli grafikler oluşturma imkânı sunar.",
+          "meta": "Python · ★ 60.009 · +461 bugün",
+          "snapshot": {
+            "sourceId": "hugohe3/ppt-master",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60009,
+              "engagementCount": 461,
+              "rank": 9,
+              "extra": {
+                "starsToday": 461
+              }
+            }
+          }
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (neural networks) için kullanılan bir makine öğrenmesi kütüphanesidir. Grafik işlem birimi (GPU) hızlandırma desteğiyle derin öğrenme modellerinin geliştirilmesini sağlar.",
+          "meta": "Python · ★ 104.250 · +84 bugün",
+          "snapshot": {
+            "sourceId": "pytorch/pytorch",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 104250,
+              "engagementCount": 84,
+              "rank": 10,
+              "extra": {
+                "starsToday": 84
+              }
+            }
+          }
+        },
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "summary": "Huggingface/transformers, metin, görüntü, ses ve çok modlu modeller için geliştirilmiş bir makine öğrenmesi (machine learning) kütüphanesidir. Hem çıkarım (inference) hem de eğitim süreçlerinde kullanılan bu Python tabanlı çerçeve, güncel yapay zekâ modellerini tanımlamak için kullanılır.",
+          "meta": "Python · ★ 167.488 · +96 bugün",
+          "snapshot": {
+            "sourceId": "huggingface/transformers",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 167488,
+              "engagementCount": 96,
+              "rank": 11,
+              "extra": {
+                "starsToday": 96
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Anthropics tarafından geliştirilen knowledge-work-plugins, bilgi çalışanlarının Claude Cowork üzerinde kullanması için tasarlanmış açık kaynaklı bir eklenti deposudur. Python diliyle hazırlanan bu araçlar, iş akışlarını geliştirmek amacıyla çeşitli işlevsel genişletmeler sunar.",
+          "meta": "Python · ★ 28.992 · +625 bugün",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 28992,
+              "engagementCount": 625,
+              "rank": 12,
+              "extra": {
+                "starsToday": 625
+              }
+            }
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "multica-ai/andrej-karpathy-skills, yapay zekâ destekli kodlama aracı Claude Code'un çalışma biçimini iyileştirmek için hazırlanan tek bir CLAUDE.md dosyasıdır. İçerik, büyük dil modelleriyle (large language models) kod yazarken karşılaşılan hatalara dair Andrej Karpathy'nin gözlemlerinden faydalanır.",
+          "meta": "★ 218.619 · +278 bugün",
+          "snapshot": {
+            "sourceId": "multica-ai/andrej-karpathy-skills",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "popularity": 218619,
+              "engagementCount": 278,
+              "rank": 13,
+              "extra": {
+                "starsToday": 278
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "2D Vehicles",
+          "url": "https://patkerr.co.uk/2d-vehicles/",
+          "summary": "2D Vehicles, iki boyutlu düzlemde araç hareketlerini ve fiziksel etkileşimlerini simüle eden bir yazılım projesidir. Proje, web tarayıcısı üzerinde çalışan basit araç mekaniklerini ve sürüş dinamiklerini görselleştirmeyi amaçlar.",
+          "meta": "490 oy · 102 yorum",
+          "snapshot": {
+            "sourceId": "49991852",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 490,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49991852",
+                  "popularity": 490,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-07T12:30:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49991852"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49991852",
+              "popularity": 490,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "The Lightbulb Computer",
+          "url": "https://lightbulbcomputer.com/",
+          "summary": "The Lightbulb Computer, ampullerin mantıksal işlemler gerçekleştirmek için kullanıldığı bir hesaplama modelini sergiliyor. Bu proje, geleneksel silikon tabanlı işlemciler yerine ışık kaynaklarını kullanarak temel mantık kapılarını (logic gates) fiziksel olarak nasıl oluşturabileceğinizi gösteriyor.",
+          "meta": "437 oy · 66 yorum",
+          "snapshot": {
+            "sourceId": "50029487",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 66,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50029487",
+                  "popularity": 437,
+                  "engagementCount": 66
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-10T04:12:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50029487"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50029487",
+              "popularity": 437,
+              "engagementCount": 66
+            }
+          ]
+        },
+        {
+          "title": "A city-building game in which the city would prefer you didn't",
+          "url": "https://housing.over.pizza/",
+          "summary": "Housing.over.pizza, oyuncunun şehir inşa etmeye çalıştığı ancak şehrin bu gelişime karşı direndiği bir şehir kurma oyunu (city-building game). Oyun, kentsel planlama ve konut politikaları üzerine eleştirel bir bakış açısı sunuyor.",
+          "meta": "358 oy · 121 yorum",
+          "snapshot": {
+            "sourceId": "50036864",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 358,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50036864",
+                  "popularity": 358,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-10T20:31:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50036864"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50036864",
+              "popularity": 358,
+              "engagementCount": 121
+            }
+          ]
+        },
+        {
+          "title": "Build your own decision model",
+          "url": "https://nishtahir.com/build-your-own-decision-model/",
+          "summary": "Kendi karar modelinizi oluşturmak, karmaşık süreçlerde mantıksal çerçeveler kurarak daha tutarlı seçimler yapmanıza yardımcı olur. Bu yaklaşım, kişisel veya profesyonel kararları yapılandırılmış bir sistem üzerinden değerlendirmenizi sağlar.",
+          "meta": "319 oy · 72 yorum",
+          "snapshot": {
+            "sourceId": "50037949",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 72,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50037949",
+                  "popularity": 319,
+                  "engagementCount": 72
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-10T22:50:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50037949"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50037949",
+              "popularity": 319,
+              "engagementCount": 72
+            }
+          ]
+        },
+        {
+          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
+          "summary": "Talorys, Cloudflare'in ücretsiz katmanı üzerinde çalışan, kendi sunucunuzda barındırabileceğiniz kişisel bir yapay zekâ ajanıdır (AI agent). Kullanıcılara, harici sunucu maliyeti olmadan kendi altyapıları üzerinden yapay zekâ destekli otomasyonlar kurma imkânı tanır.",
+          "meta": "296 oy · 134 yorum",
+          "snapshot": {
+            "sourceId": "50031614",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 296,
+              "engagementCount": 134,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50031614",
+                  "popularity": 296,
+                  "engagementCount": 134
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-10T10:52:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50031614"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50031614",
+              "popularity": 296,
+              "engagementCount": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Google tarafından sunulan embeddinggemma-2, metinleri sayısal vektörlere dönüştüren bir öznitelik çıkarımı (feature-extraction) modelidir. Veri işleme süreçlerinde metinlerin anlamsal temsillerini oluşturmak amacıyla kullanılır.",
+          "meta": "♥ 1.588 · 98.829 indirme",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 1588,
+              "engagementCount": 98829,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1467,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "HuggingFace üzerinde paylaşılan jialinyyzz/humanizer, metin oluşturma (text-generation) yeteneğine sahip bir yapay zekâ modelidir. Bu model, kullanıcıların metin üretimi süreçlerinde kullanabileceği bir dil işleme aracı olarak sunulmaktadır.",
+          "meta": "♥ 1.001 · 37.647 indirme",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 1001,
+              "engagementCount": 37647,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 876,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Cloudflare tarafından geliştirilen clef, görsel ve metin verilerini işleyerek metin çıktısı üreten bir görüntü-metin-metin (image-text-to-text) modelidir. HuggingFace üzerinde paylaşılan bu model, çok modlu veri işleme süreçleri için bir çözüm sunar.",
+          "meta": "♥ 2.011 · 14.351 indirme",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 2011,
+              "engagementCount": 14351,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 778,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 10
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF, metinden görsel oluşturma (text-to-image) yeteneğine sahip bir yapay zekâ modeli. HuggingFace platformunda paylaşılan bu model, kısıtlamasız (uncensored) bir sürüm olarak kullanıcılara sunuluyor.",
+          "meta": "♥ 3.922 · 2.188.658 indirme",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 3922,
+              "engagementCount": 2188658,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 668,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Aleph-Alpha tarafından geliştirilen Kolibri-1, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. HuggingFace platformu üzerinde paylaşılan bu model, kullanıcıların metin tabanlı görevleri yerine getirmesine olanak tanır.",
+          "meta": "♥ 878 · 12.550 indirme",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 878,
+              "engagementCount": 12550,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 499,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 7
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "The Lattice of Transition Laws",
+          "url": "https://huggingface.co/papers/2610.11216",
+          "summary": "The Lattice of Transition Laws, yaygın olarak kullanılan üretken modeller (generative models) olan difüzyon (diffusion) ve özbağlanımlı (autoregression) yöntemleri arasındaki farkları inceliyor. Çalışma, bu iki model türünün kod çözme (decoding) performanslarının sabit adım sayılarında önceden tahmin edilip edilemeyeceğini araştırıyor.",
+          "meta": "5 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.11216",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11216",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/TSUITUENYUE/The-Lattice-of-Transition-Laws",
+                "githubStars": 0
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics",
+          "url": "https://huggingface.co/papers/2609.38527",
+          "summary": "Evrimsel robotik (evolutionary robotics) alanındaki bu çalışma, birlikte evrimleşmiş bir iletişim protokolünün iki boyutlu simülasyondan üç boyutlu fiziksel ortama doğrudan aktarımını inceliyor. Ağ ağırlıkları yeniden eğitilmeden gerçekleştirilen bu süreçte, e-puck tipi robotların sosyal sinyalleşme kullanarak yiyecek arama görevindeki başarımı değerlendiriliyor.",
+          "meta": "4 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.38527",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.38527",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/ferdiex/essim",
+                "githubStars": 0
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
+          "url": "https://huggingface.co/papers/2610.09280",
+          "summary": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation, iki robotik ajan arasında birlikte evrilen iletişim mekanizmalarının iki boyutlu (2D) ortamdan fiziksel gerçekliğe sahip üç boyutlu (3D) simülasyonlara aktarımını inceliyor. Çalışma, bu mekanizmaların farklı fizik kuralları ve çevresel kısıtlamalar altında işlevselliğini koruyup korumadığını analiz ediyor.",
+          "meta": "4 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.09280",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09280",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/ferdiex/essim2d3d",
+                "githubStars": 0
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+          "url": "https://huggingface.co/papers/2609.33987",
+          "summary": "Opera, uzun vadeli kodlama ajanları (long-horizon coding agents) için düzeltmeleri kalıcı notlar olarak ele alan bir sözlü eleştirmen çerçevesidir. Bu sistem, teşhis edilen sorunlar çözülene kadar geri bildirimleri takip ederek hata düzeltme süreçlerini yönetir.",
+          "meta": "14 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.33987",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.33987",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/dongyuanjushi/Opera",
+                "githubStars": 7
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+          "url": "https://huggingface.co/papers/2610.11169",
+          "summary": "Skill Constellations, yapay zekâ kodlama ajanlarının (Claude Code, Codex) kullandığı yeteneklerin (skills) GitHub üzerindeki dağılımını ve güvenlik risklerini inceliyor. Çalışma, yeteneklerin kayıt sistemi veya sürüm takibi olmadan kopyalanmasının, yazılım tedarik zincirinde güvenlik açıklarının izlenmesini zorlaştırdığına dikkat çekiyor.",
+          "meta": "5 beğeni · 3 yorum",
+          "snapshot": {
+            "sourceId": "2610.11169",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11169",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/FahdSeddik/Skill-Constellations",
+                "githubStars": 0
+              }
+            }
+          },
+          "streakDays": 2
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Bilgisayarın işlemcisi tarafından doğrudan çalıştırılabilen, özel bir dönüştürme gerektirmeyen dosya biçimleri."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Hazır bir yazılımın nasıl çalıştığını anlamak için parçalarına ayrılıp arka planındaki kodların çözümlenmesi süreci."
+    },
+    {
+      "term": "executables",
+      "explanation": "Bilgisayarda bir programı başlatmak için çift tıklandığında çalışan, komutlar içeren dosyalar."
+    },
+    {
+      "term": "crafting engine",
+      "explanation": "ArtCraft şirketinin geliştirdiği, dijital sanat ve tasarım süreçlerini yöneten bir üretim altyapısı."
+    },
+    {
+      "term": "context window",
+      "explanation": "Yapay zekânın bir seferde hatırlayıp işleyebildiği metin veya veri kapasitesi."
+    },
+    {
+      "term": "Model Context Protocol - MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde iletişim kurmasını sağlayan bağlantı kuralı."
+    },
+    {
+      "term": "skills",
+      "explanation": "mattpocock şirketinin geliştirdiği, yazılım mühendislerinin teknik yetkinliklerini geliştirmelerine yardımcı olan eğitim içerikleri."
+    },
+    {
+      "term": "agents directory",
+      "explanation": "Yazılım geliştiricilerin kendi projelerinde kullanacakları yapay zekâ ajanlarını düzenli bir şekilde sakladıkları klasör veya dizin."
+    },
+    {
+      "term": "UI",
+      "explanation": "Kullanıcının bir yazılımla etkileşime girdiği düğmeler, menüler ve ekran tasarımlarının tamamı."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Bilgisayarların verileri inceleyerek kendi kendine öğrenmesini ve tahminlerde bulunmasını sağlayan teknoloji dalı."
+    },
+    {
+      "term": "neural networks",
+      "explanation": "İnsan beyninin çalışma şeklini taklit ederek karmaşık verileri analiz eden yapay zekâ mimarisi."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Özellikle görüntü işleme ve yapay zekâ hesaplamaları gibi yoğun işlemleri hızlandırmak için tasarlanmış özel donanım birimi."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, yeni veriler üzerinde tahmin veya analiz yapma süreci."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "logic gates",
+      "explanation": "Bilgisayarın temel karar verme mekanizmalarını oluşturan, giriş sinyallerine göre çıkış üreten elektronik devre birimleri."
+    },
+    {
+      "term": "city-building game",
+      "explanation": "Oyuncunun bir şehir planlayıp yönettiği, kaynakları ve binaları kontrol ederek yerleşim yerini büyütmeye çalıştığı oyun türü."
+    }
+  ]
+}

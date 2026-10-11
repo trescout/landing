@@ -1,0 +1,318 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-11",
+  "capturedAt": "2026-10-11T10:50:12.702Z",
+  "editorial": "Este informe contiene las tendencias que destacan por primera vez hoy, sin repetir los registros incluidos en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Flutter, desarrollado por Google, es un kit de herramientas de interfaz de usuario (UI) que le permite crear rápidamente aplicaciones visualmente atractivas para móviles y otras plataformas. Este proyecto de código abierto, que utiliza el lenguaje de programación Dart, ofrece soporte multiplataforma a partir de una única base de código.",
+          "meta": "Dart · ★ 179.719 · +88 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "flutter/flutter",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Dart",
+              "popularity": 179719,
+              "engagementCount": 88,
+              "rank": 7,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "hugohe3/ppt-master es una herramienta de Python que convierte documentos o temas en presentaciones de PowerPoint nativas que contienen formas, transiciones y animaciones originales. Permite a los usuarios utilizar sus propias plantillas .pptx, al tiempo que ofrece la posibilidad de crear narraciones de voz a partir de notas del orador y gráficos basados en datos.",
+          "meta": "Python · ★ 60.009 · +461 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "hugohe3/ppt-master",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60009,
+              "engagementCount": 461,
+              "rank": 9,
+              "extra": {
+                "starsToday": 461
+              }
+            }
+          }
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch es una biblioteca de aprendizaje automático basada en Python utilizada para cálculos de tensores y redes neuronales dinámicas. Con soporte de aceleración por unidad de procesamiento gráfico (GPU), permite el desarrollo de modelos de aprendizaje profundo.",
+          "meta": "Python · ★ 104.250 · +84 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "pytorch/pytorch",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 104250,
+              "engagementCount": 84,
+              "rank": 10,
+              "extra": {
+                "starsToday": 84
+              }
+            }
+          }
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "multica-ai/andrej-karpathy-skills es un único archivo CLAUDE.md preparado para mejorar la forma en que funciona la herramienta de codificación asistida por inteligencia artificial Claude Code. El contenido aprovecha las observaciones de Andrej Karpathy sobre los errores encontrados al escribir código con modelos de lenguaje grandes (large language models).",
+          "meta": "★ 218.619 · +278 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "multica-ai/andrej-karpathy-skills",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "popularity": 218619,
+              "engagementCount": 278,
+              "rank": 13,
+              "extra": {
+                "starsToday": 278
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "2D Vehicles",
+          "url": "https://patkerr.co.uk/2d-vehicles/",
+          "summary": "2D Vehicles es un proyecto de software que simula los movimientos de vehículos y sus interacciones físicas en un plano bidimensional. El proyecto tiene como objetivo visualizar mecánicas de vehículos simples y dinámicas de conducción que funcionan en un navegador web.",
+          "meta": "490 puntos · 102 comentarios",
+          "snapshot": {
+            "sourceId": "49991852",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 490,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49991852",
+                  "popularity": 490,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-07T12:30:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49991852"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49991852",
+              "popularity": 490,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "The Lightbulb Computer",
+          "url": "https://lightbulbcomputer.com/",
+          "summary": "The Lightbulb Computer exhibe un modelo de computación donde se utilizan bombillas para realizar operaciones lógicas. Este proyecto muestra cómo se pueden crear físicamente puertas lógicas básicas utilizando fuentes de luz en lugar de procesadores tradicionales basados en silicio.",
+          "meta": "437 puntos · 66 comentarios",
+          "snapshot": {
+            "sourceId": "50029487",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 66,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50029487",
+                  "popularity": 437,
+                  "engagementCount": 66
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-10T04:12:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50029487"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50029487",
+              "popularity": 437,
+              "engagementCount": 66
+            }
+          ]
+        },
+        {
+          "title": "A city-building game in which the city would prefer you didn't",
+          "url": "https://housing.over.pizza/",
+          "summary": "Housing.over.pizza es un juego de construcción de ciudades (city-building game) en el que el jugador intenta construir una ciudad, pero la ciudad se resiste a este desarrollo. El juego ofrece una perspectiva crítica sobre la planificación urbana y las políticas de vivienda.",
+          "meta": "358 puntos · 121 comentarios",
+          "snapshot": {
+            "sourceId": "50036864",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 358,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50036864",
+                  "popularity": 358,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-10T20:31:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50036864"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50036864",
+              "popularity": 358,
+              "engagementCount": 121
+            }
+          ]
+        },
+        {
+          "title": "Build your own decision model",
+          "url": "https://nishtahir.com/build-your-own-decision-model/",
+          "summary": "Crear su propio modelo de toma de decisiones le ayuda a tomar decisiones más coherentes mediante el establecimiento de marcos lógicos en procesos complejos. Este enfoque le permite evaluar decisiones personales o profesionales a través de un sistema estructurado.",
+          "meta": "319 puntos · 72 comentarios",
+          "snapshot": {
+            "sourceId": "50037949",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 72,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50037949",
+                  "popularity": 319,
+                  "engagementCount": 72
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-10T22:50:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50037949"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50037949",
+              "popularity": 319,
+              "engagementCount": 72
+            }
+          ]
+        },
+        {
+          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
+          "summary": "Talorys es un agente de inteligencia artificial (AI agent) personal que puede alojar en su propio servidor y que funciona en la capa gratuita de Cloudflare. Permite a los usuarios configurar automatizaciones asistidas por inteligencia artificial a través de su propia infraestructura sin costes de servidor externo.",
+          "meta": "296 puntos · 134 comentarios",
+          "snapshot": {
+            "sourceId": "50031614",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 296,
+              "engagementCount": 134,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50031614",
+                  "popularity": 296,
+                  "engagementCount": 134
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-10T10:52:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50031614"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50031614",
+              "popularity": 296,
+              "engagementCount": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Contenido educativo desarrollado por la empresa mattpocock que ayuda a los ingenieros de software a mejorar sus competencias técnicas."
+    },
+    {
+      "term": "UI",
+      "explanation": "El conjunto de botones, menús y diseños de pantalla con los que el usuario interactúa con un software."
+    },
+    {
+      "term": "neural networks",
+      "explanation": "Arquitectura de inteligencia artificial que analiza datos complejos imitando la forma en que funciona el cerebro humano."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Unidad de hardware especializada diseñada para acelerar procesos intensivos, como el procesamiento de imágenes y los cálculos de inteligencia artificial."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con volúmenes masivos de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "logic gates",
+      "explanation": "Unidades de circuitos electrónicos que forman los mecanismos básicos de toma de decisiones de una computadora, generando salidas basadas en señales de entrada."
+    },
+    {
+      "term": "city-building game",
+      "explanation": "Género de videojuegos en el que el jugador planifica y gestiona una ciudad, intentando expandir el asentamiento mediante el control de recursos y edificios."
+    }
+  ]
+}

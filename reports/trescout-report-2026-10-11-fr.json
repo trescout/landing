@@ -1,0 +1,821 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-11",
+  "capturedAt": "2026-10-11T10:50:12.702Z",
+  "editorial": "L'agenda technologique d'aujourd'hui est façonné par les nouveaux modèles d'embedding de Google et les outils logiciels open source. En particulier, les projets axés sur l'automatisation des systèmes sur GitHub et les travaux de robotique évolutionniste de niveau académique reflètent clairement l'intérêt de l'écosystème des développeurs pour la profondeur technique.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea est un outil qui utilise des agents d'intelligence artificielle pour analyser tout, des comportements des applications aux binaires natifs, par le biais de la rétro-ingénierie (reverse engineering). Développé en TypeScript, ce projet vise à automatiser les processus d'analyse logicielle.",
+          "meta": "TypeScript · ★ 84 629 · +25 793 aujourd'hui",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 84629,
+              "engagementCount": 25793,
+              "rank": 1,
+              "extra": {
+                "starsToday": 25793
+              }
+            }
+          }
+        },
+        {
+          "title": "boykopovar/AnyPS5",
+          "url": "https://github.com/boykopovar/AnyPS5",
+          "summary": "AnyPS5 est un outil qui porte automatiquement les exécutables de la PlayStation 5 vers les systèmes Linux et Windows. Développé en C++, ce logiciel propose un processus de conversion permettant d'exécuter des fichiers de jeux sur différentes plateformes.",
+          "meta": "C++ · ★ 28 133 · +5 805 aujourd'hui",
+          "snapshot": {
+            "sourceId": "boykopovar/AnyPS5",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 28133,
+              "engagementCount": 5805,
+              "rank": 2,
+              "extra": {
+                "starsToday": 5805
+              }
+            }
+          }
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft est un moteur de création (crafting engine) développé pour les artistes, les designers et les cinéastes. Écrit en langage de programmation Rust, ce projet vise à gérer la phase de création de contenu dans les processus créatifs.",
+          "meta": "Rust · ★ 15 676 · +3 222 aujourd'hui",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 15676,
+              "engagementCount": 3222,
+              "rank": 3,
+              "extra": {
+                "starsToday": 3222
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design contient 44 conceptions de diagrammes éditoriaux différents préparés pour des outils de développement logiciel tels que Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid et Pi. Le projet propose une alternative de visualisation aux outils de diagrammes standard avec ses visuels aux formats HTML et SVG sans dépendances externes.",
+          "meta": "HTML · ★ 49 472 · +1 190 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 49472,
+              "engagementCount": 1190,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1190
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode est un outil qui optimise la fenêtre de contexte (context window) pour les agents de codage par intelligence artificielle. En isolant les sorties de l'outil, il réduit la taille des données de 98 %, rend la mémoire de session persistante et permet le routage vers 17 plateformes différentes via le protocole de contexte de modèle (Model Context Protocol - MCP).",
+          "meta": "TypeScript · ★ 26 545 · +178 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 26545,
+              "engagementCount": 178,
+              "rank": 5,
+              "extra": {
+                "starsToday": 178
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "mattpocock/skills propose une série de packs de compétences (skills) conçus pour les vrais ingénieurs. Il contient des outils pratiques que les développeurs de logiciels peuvent utiliser dans leurs propres répertoires d'agents (agents directory).",
+          "meta": "Shell · ★ 285 249 · +1 736 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 285249,
+              "engagementCount": 1736,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1736
+              }
+            }
+          }
+        },
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Flutter, développé par Google, est une boîte à outils d'interface utilisateur (UI) qui vous permet de créer rapidement des applications visuellement riches pour le mobile et d'autres plateformes. Utilisant le langage de programmation Dart, ce projet open source offre un support multiplateforme à partir d'une base de code unique.",
+          "meta": "Dart · ★ 179 719 · +88 aujourd'hui",
+          "snapshot": {
+            "sourceId": "flutter/flutter",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Dart",
+              "popularity": 179719,
+              "engagementCount": 88,
+              "rank": 7,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        },
+        {
+          "title": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "summary": "TensorFlow, développé par Google, est un framework d'apprentissage automatique (machine learning) ouvert à tous. Écrite en C++, cette bibliothèque open source offre des outils complets pour développer et entraîner des modèles d'intelligence artificielle.",
+          "meta": "C++ · ★ 200 857 · +26 aujourd'hui",
+          "snapshot": {
+            "sourceId": "tensorflow/tensorflow",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 200857,
+              "engagementCount": 26,
+              "rank": 8,
+              "extra": {
+                "starsToday": 26
+              }
+            }
+          }
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "hugohe3/ppt-master est un outil Python qui transforme des documents ou des sujets en présentations PowerPoint natives contenant des formes, des transitions et des animations originales. Il permet aux utilisateurs d'utiliser leurs propres modèles .pptx tout en offrant la possibilité de créer des narrations vocales à partir de notes de l'orateur et des graphiques basés sur des données.",
+          "meta": "Python · ★ 60 009 · +461 aujourd'hui",
+          "snapshot": {
+            "sourceId": "hugohe3/ppt-master",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60009,
+              "engagementCount": 461,
+              "rank": 9,
+              "extra": {
+                "starsToday": 461
+              }
+            }
+          }
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch est une bibliothèque d'apprentissage automatique basée sur Python utilisée pour les calculs de tenseurs et les réseaux de neurones dynamiques (neural networks). Grâce au support de l'accélération par unité de traitement graphique (GPU), il permet le développement de modèles d'apprentissage profond.",
+          "meta": "Python · ★ 104 250 · +84 aujourd'hui",
+          "snapshot": {
+            "sourceId": "pytorch/pytorch",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 104250,
+              "engagementCount": 84,
+              "rank": 10,
+              "extra": {
+                "starsToday": 84
+              }
+            }
+          }
+        },
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "summary": "Huggingface/transformers est une bibliothèque d'apprentissage automatique (machine learning) développée pour les modèles de texte, d'image, audio et multimodaux. Utilisé à la fois pour les processus d'inférence et d'entraînement, ce framework basé sur Python est utilisé pour définir les modèles d'intelligence artificielle actuels.",
+          "meta": "Python · ★ 167 488 · +96 aujourd'hui",
+          "snapshot": {
+            "sourceId": "huggingface/transformers",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 167488,
+              "engagementCount": 96,
+              "rank": 11,
+              "extra": {
+                "starsToday": 96
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "knowledge-work-plugins, développé par Anthropics, est un dépôt de plugins open source conçu pour être utilisé par les travailleurs du savoir sur Claude Cowork. Développés en Python, ces outils offrent diverses extensions fonctionnelles visant à améliorer les flux de travail.",
+          "meta": "Python · ★ 28 992 · +625 aujourd'hui",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 28992,
+              "engagementCount": 625,
+              "rank": 12,
+              "extra": {
+                "starsToday": 625
+              }
+            }
+          }
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "multica-ai/andrej-karpathy-skills est un fichier CLAUDE.md unique préparé pour améliorer le fonctionnement de l'outil de codage assisté par intelligence artificielle Claude Code. Le contenu s'appuie sur les observations d'Andrej Karpathy concernant les erreurs rencontrées lors de l'écriture de code avec des grands modèles de langage (large language models).",
+          "meta": "★ 218 619 · +278 aujourd'hui",
+          "snapshot": {
+            "sourceId": "multica-ai/andrej-karpathy-skills",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "popularity": 218619,
+              "engagementCount": 278,
+              "rank": 13,
+              "extra": {
+                "starsToday": 278
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "2D Vehicles",
+          "url": "https://patkerr.co.uk/2d-vehicles/",
+          "summary": "2D Vehicles est un projet logiciel qui simule les mouvements de véhicules et leurs interactions physiques sur un plan bidimensionnel. Le projet vise à visualiser des mécaniques de véhicules simples et des dynamiques de conduite fonctionnant dans un navigateur web.",
+          "meta": "490 votes · 102 commentaires",
+          "snapshot": {
+            "sourceId": "49991852",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 490,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49991852",
+                  "popularity": 490,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-07T12:30:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49991852"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49991852",
+              "popularity": 490,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "The Lightbulb Computer",
+          "url": "https://lightbulbcomputer.com/",
+          "summary": "The Lightbulb Computer présente un modèle de calcul où des ampoules sont utilisées pour effectuer des opérations logiques. Ce projet montre comment créer physiquement des portes logiques (logic gates) en utilisant des sources lumineuses au lieu de processeurs traditionnels à base de silicium.",
+          "meta": "437 votes · 66 commentaires",
+          "snapshot": {
+            "sourceId": "50029487",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 66,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50029487",
+                  "popularity": 437,
+                  "engagementCount": 66
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-10T04:12:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50029487"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50029487",
+              "popularity": 437,
+              "engagementCount": 66
+            }
+          ]
+        },
+        {
+          "title": "A city-building game in which the city would prefer you didn't",
+          "url": "https://housing.over.pizza/",
+          "summary": "Housing.over.pizza est un jeu de construction de ville (city-building game) où le joueur tente de développer une ville, mais où celle-ci résiste à ce développement. Le jeu offre un regard critique sur l'urbanisme et les politiques de logement.",
+          "meta": "358 votes · 121 commentaires",
+          "snapshot": {
+            "sourceId": "50036864",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 358,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50036864",
+                  "popularity": 358,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-10T20:31:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50036864"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50036864",
+              "popularity": 358,
+              "engagementCount": 121
+            }
+          ]
+        },
+        {
+          "title": "Build your own decision model",
+          "url": "https://nishtahir.com/build-your-own-decision-model/",
+          "summary": "Créer votre propre modèle de décision vous aide à faire des choix plus cohérents en établissant des cadres logiques dans des processus complexes. Cette approche vous permet d'évaluer des décisions personnelles ou professionnelles via un système structuré.",
+          "meta": "319 votes · 72 commentaires",
+          "snapshot": {
+            "sourceId": "50037949",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 72,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50037949",
+                  "popularity": 319,
+                  "engagementCount": 72
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-10T22:50:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50037949"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50037949",
+              "popularity": 319,
+              "engagementCount": 72
+            }
+          ]
+        },
+        {
+          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
+          "summary": "Talorys est un agent d'intelligence artificielle (AI agent) personnel que vous pouvez héberger sur votre propre serveur, fonctionnant sur la couche gratuite de Cloudflare. Il permet aux utilisateurs de mettre en place des automatisations assistées par IA via leur propre infrastructure sans frais de serveur externe.",
+          "meta": "296 votes · 134 commentaires",
+          "snapshot": {
+            "sourceId": "50031614",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 296,
+              "engagementCount": 134,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50031614",
+                  "popularity": 296,
+                  "engagementCount": 134
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-10T10:52:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50031614"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50031614",
+              "popularity": 296,
+              "engagementCount": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "embeddinggemma-2, proposé par Google, est un modèle d'extraction de caractéristiques (feature-extraction) qui convertit les textes en vecteurs numériques. Il est utilisé pour créer des représentations sémantiques de textes dans les processus de traitement de données.",
+          "meta": "♥ 1 588 · 98 829 téléchargements",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 1588,
+              "engagementCount": 98829,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1467,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "jialinyyzz/humanizer, partagé sur HuggingFace, est un modèle d'intelligence artificielle doté de capacités de génération de texte (text-generation). Ce modèle est proposé comme un outil de traitement du langage que les utilisateurs peuvent exploiter dans leurs processus de production de texte.",
+          "meta": "♥ 1 001 · 37 647 téléchargements",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 1001,
+              "engagementCount": 37647,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 876,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "clef, développé par Cloudflare, est un modèle image-texte-vers-texte (image-text-to-text) qui traite des données visuelles et textuelles pour produire une sortie textuelle. Partagé sur HuggingFace, ce modèle offre une solution pour les processus de traitement de données multimodales.",
+          "meta": "♥ 2 011 · 14 351 téléchargements",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 2011,
+              "engagementCount": 14351,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 778,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF est un modèle d'intelligence artificielle capable de générer des images à partir de texte (text-to-image). Partagé sur la plateforme HuggingFace, ce modèle est proposé aux utilisateurs en tant que version non censurée (uncensored).",
+          "meta": "♥ 3 922 · 2 188 658 téléchargements",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 3922,
+              "engagementCount": 2188658,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 668,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "summary": "Kolibri-1, développé par Aleph-Alpha, est un modèle d'intelligence artificielle axé sur la génération de texte (text-generation). Partagé sur la plateforme HuggingFace, ce modèle permet aux utilisateurs d'accomplir des tâches basées sur le texte.",
+          "meta": "♥ 878 · 12 550 téléchargements",
+          "snapshot": {
+            "sourceId": "Aleph-Alpha/Kolibri-1",
+            "capturedAt": "2026-10-11T10:50:12.807Z",
+            "metadata": {
+              "popularity": 878,
+              "engagementCount": 12550,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 499,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "vllm",
+                  "safetensors",
+                  "kolibri1",
+                  "reasoning",
+                  "moe",
+                  "text-generation",
+                  "conversational",
+                  "de",
+                  "en",
+                  "arxiv:2512.11614",
+                  "arxiv:2601.17858",
+                  "base_model:Aleph-Alpha/Kolibri-1-BF16",
+                  "base_model:quantized:Aleph-Alpha/Kolibri-1-BF16",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "The Lattice of Transition Laws",
+          "url": "https://huggingface.co/papers/2610.11216",
+          "summary": "The Lattice of Transition Laws examine les différences entre les modèles génératifs couramment utilisés, à savoir la diffusion et l'autorégression. L'étude explore si les performances de décodage de ces deux types de modèles peuvent être prédites à l'avance avec un nombre fixe d'étapes.",
+          "meta": "5 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.11216",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11216",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/TSUITUENYUE/The-Lattice-of-Transition-Laws",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics",
+          "url": "https://huggingface.co/papers/2609.38527",
+          "summary": "Cette étude dans le domaine de la robotique évolutionniste examine le transfert direct d'un protocole de communication co-évolué d'une simulation bidimensionnelle vers un environnement physique tridimensionnel. Dans ce processus réalisé sans réentraînement des poids du réseau, la performance des robots de type e-puck dans une tâche de recherche de nourriture utilisant la signalisation sociale est évaluée.",
+          "meta": "4 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2609.38527",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.38527",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/ferdiex/essim",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation",
+          "url": "https://huggingface.co/papers/2610.09280",
+          "summary": "Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation examine le transfert de mécanismes de communication co-évolués entre deux agents robotiques d'un environnement 2D vers des simulations 3D dotées d'une réalité physique. L'étude analyse si ces mécanismes conservent leur fonctionnalité sous différentes lois physiques et contraintes environnementales.",
+          "meta": "4 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2610.09280",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.09280",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/ferdiex/essim2d3d",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+          "url": "https://huggingface.co/papers/2609.33987",
+          "summary": "Opera est un cadre de critique verbale pour les agents de codage à long terme (long-horizon coding agents) qui traite les corrections comme des notes persistantes. Ce système gère les processus de correction d'erreurs en suivant les retours jusqu'à ce que les problèmes diagnostiqués soient résolus.",
+          "meta": "14 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2609.33987",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.33987",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/dongyuanjushi/Opera",
+                "githubStars": 7
+              }
+            }
+          }
+        },
+        {
+          "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+          "url": "https://huggingface.co/papers/2610.11169",
+          "summary": "Skill Constellations examine la distribution des compétences (skills) utilisées par les agents de codage en intelligence artificielle (Claude Code, Codex) sur GitHub et les risques de sécurité associés. L'étude souligne que la copie de compétences sans système d'enregistrement ou suivi de version rend difficile le suivi des vulnérabilités dans la chaîne d'approvisionnement logicielle.",
+          "meta": "5 j'aime · 3 commentaires",
+          "snapshot": {
+            "sourceId": "2610.11169",
+            "capturedAt": "2026-10-11T10:50:12.816Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.11169",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/FahdSeddik/Skill-Constellations",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Formats de fichiers pouvant être exécutés directement par le processeur de l'ordinateur, sans nécessiter de conversion spéciale."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Processus consistant à décomposer un logiciel prêt à l'emploi pour comprendre son fonctionnement et analyser le code sous-jacent."
+    },
+    {
+      "term": "executables",
+      "explanation": "Fichiers contenant des commandes qui s'exécutent lors d'un double-clic pour lancer un programme sur l'ordinateur."
+    },
+    {
+      "term": "crafting engine",
+      "explanation": "Infrastructure de production développée par la société ArtCraft, qui gère les processus de création artistique et de design numérique."
+    },
+    {
+      "term": "context window",
+      "explanation": "Capacité de texte ou de données que l'intelligence artificielle peut mémoriser et traiter en une seule fois."
+    },
+    {
+      "term": "Model Context Protocol - MCP",
+      "explanation": "Règle de connexion permettant aux modèles d'intelligence artificielle de communiquer avec différentes sources de données de manière sécurisée et standardisée."
+    },
+    {
+      "term": "skills",
+      "explanation": "Contenus éducatifs développés par la société mattpocock, aidant les ingénieurs logiciels à améliorer leurs compétences techniques."
+    },
+    {
+      "term": "agents directory",
+      "explanation": "Un dossier ou répertoire où les développeurs de logiciels stockent de manière organisée les agents d'intelligence artificielle qu'ils utilisent dans leurs propres projets."
+    },
+    {
+      "term": "UI",
+      "explanation": "L'ensemble des boutons, menus et conceptions d'écran avec lesquels l'utilisateur interagit avec un logiciel."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Branche de la technologie qui permet aux ordinateurs d'apprendre par eux-mêmes et de faire des prédictions en analysant des données."
+    },
+    {
+      "term": "neural networks",
+      "explanation": "Architecture d'intelligence artificielle qui analyse des données complexes en imitant le fonctionnement du cerveau humain."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Unité matérielle spécialisée conçue pour accélérer les processus intensifs tels que le traitement d'images et les calculs d'intelligence artificielle."
+    },
+    {
+      "term": "inference",
+      "explanation": "Le processus par lequel un modèle d'intelligence artificielle entraîné effectue des prédictions ou des analyses sur de nouvelles données."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "logic gates",
+      "explanation": "Unités de circuits électroniques qui constituent les mécanismes de décision fondamentaux de l'ordinateur et produisent des sorties en fonction des signaux d'entrée."
+    },
+    {
+      "term": "city-building game",
+      "explanation": "Genre de jeu où le joueur planifie et gère une ville, en essayant de développer la colonie en contrôlant les ressources et les bâtiments."
+    }
+  ]
+}

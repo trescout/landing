@@ -1,0 +1,318 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-11",
+  "capturedAt": "2026-10-11T10:50:12.702Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "flutter/flutter",
+          "url": "https://github.com/flutter/flutter",
+          "summary": "Google tarafından geliştirilen Flutter, mobil ve diğer platformlar için hızlı bir şekilde görsel açıdan zengin uygulamalar oluşturmanıza olanak tanıyan bir kullanıcı arayüzü (UI) araç setidir. Dart programlama dilini kullanan bu açık kaynaklı proje, tek bir kod tabanı üzerinden çoklu platform desteği sunar.",
+          "meta": "Dart · ★ 179.719 · +88 bugün",
+          "snapshot": {
+            "sourceId": "flutter/flutter",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Dart",
+              "popularity": 179719,
+              "engagementCount": 88,
+              "rank": 7,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "hugohe3/ppt-master",
+          "url": "https://github.com/hugohe3/ppt-master",
+          "summary": "hugohe3/ppt-master, belgeleri veya konu başlıklarını özgün şekiller, geçişler ve animasyonlar içeren yerel PowerPoint sunumlarına dönüştüren bir Python aracıdır. Kullanıcıların kendi .pptx şablonlarını kullanmalarına olanak tanırken, konuşmacı notlarından sesli anlatım ve veri destekli grafikler oluşturma imkânı sunar.",
+          "meta": "Python · ★ 60.009 · +461 bugün",
+          "snapshot": {
+            "sourceId": "hugohe3/ppt-master",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60009,
+              "engagementCount": 461,
+              "rank": 9,
+              "extra": {
+                "starsToday": 461
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "pytorch/pytorch",
+          "url": "https://github.com/pytorch/pytorch",
+          "summary": "PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (neural networks) için kullanılan bir makine öğrenmesi kütüphanesidir. Grafik işlem birimi (GPU) hızlandırma desteğiyle derin öğrenme modellerinin geliştirilmesini sağlar.",
+          "meta": "Python · ★ 104.250 · +84 bugün",
+          "snapshot": {
+            "sourceId": "pytorch/pytorch",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 104250,
+              "engagementCount": 84,
+              "rank": 10,
+              "extra": {
+                "starsToday": 84
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "multica-ai/andrej-karpathy-skills, yapay zekâ destekli kodlama aracı Claude Code'un çalışma biçimini iyileştirmek için hazırlanan tek bir CLAUDE.md dosyasıdır. İçerik, büyük dil modelleriyle (large language models) kod yazarken karşılaşılan hatalara dair Andrej Karpathy'nin gözlemlerinden faydalanır.",
+          "meta": "★ 218.619 · +278 bugün",
+          "snapshot": {
+            "sourceId": "multica-ai/andrej-karpathy-skills",
+            "capturedAt": "2026-10-11T10:50:14.025Z",
+            "metadata": {
+              "popularity": 218619,
+              "engagementCount": 278,
+              "rank": 13,
+              "extra": {
+                "starsToday": 278
+              }
+            }
+          },
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "2D Vehicles",
+          "url": "https://patkerr.co.uk/2d-vehicles/",
+          "summary": "2D Vehicles, iki boyutlu düzlemde araç hareketlerini ve fiziksel etkileşimlerini simüle eden bir yazılım projesidir. Proje, web tarayıcısı üzerinde çalışan basit araç mekaniklerini ve sürüş dinamiklerini görselleştirmeyi amaçlar.",
+          "meta": "490 oy · 102 yorum",
+          "snapshot": {
+            "sourceId": "49991852",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 490,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49991852",
+                  "popularity": 490,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-07T12:30:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49991852"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49991852",
+              "popularity": 490,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "The Lightbulb Computer",
+          "url": "https://lightbulbcomputer.com/",
+          "summary": "The Lightbulb Computer, ampullerin mantıksal işlemler gerçekleştirmek için kullanıldığı bir hesaplama modelini sergiliyor. Bu proje, geleneksel silikon tabanlı işlemciler yerine ışık kaynaklarını kullanarak temel mantık kapılarını (logic gates) fiziksel olarak nasıl oluşturabileceğinizi gösteriyor.",
+          "meta": "437 oy · 66 yorum",
+          "snapshot": {
+            "sourceId": "50029487",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 66,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50029487",
+                  "popularity": 437,
+                  "engagementCount": 66
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-10T04:12:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50029487"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50029487",
+              "popularity": 437,
+              "engagementCount": 66
+            }
+          ]
+        },
+        {
+          "title": "A city-building game in which the city would prefer you didn't",
+          "url": "https://housing.over.pizza/",
+          "summary": "Housing.over.pizza, oyuncunun şehir inşa etmeye çalıştığı ancak şehrin bu gelişime karşı direndiği bir şehir kurma oyunu (city-building game). Oyun, kentsel planlama ve konut politikaları üzerine eleştirel bir bakış açısı sunuyor.",
+          "meta": "358 oy · 121 yorum",
+          "snapshot": {
+            "sourceId": "50036864",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 358,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50036864",
+                  "popularity": 358,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-10T20:31:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50036864"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50036864",
+              "popularity": 358,
+              "engagementCount": 121
+            }
+          ]
+        },
+        {
+          "title": "Build your own decision model",
+          "url": "https://nishtahir.com/build-your-own-decision-model/",
+          "summary": "Kendi karar modelinizi oluşturmak, karmaşık süreçlerde mantıksal çerçeveler kurarak daha tutarlı seçimler yapmanıza yardımcı olur. Bu yaklaşım, kişisel veya profesyonel kararları yapılandırılmış bir sistem üzerinden değerlendirmenizi sağlar.",
+          "meta": "319 oy · 72 yorum",
+          "snapshot": {
+            "sourceId": "50037949",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 72,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50037949",
+                  "popularity": 319,
+                  "engagementCount": 72
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-10T22:50:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50037949"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50037949",
+              "popularity": 319,
+              "engagementCount": 72
+            }
+          ]
+        },
+        {
+          "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+          "url": "https://github.com/rociiu/talorys",
+          "summary": "Talorys, Cloudflare'in ücretsiz katmanı üzerinde çalışan, kendi sunucunuzda barındırabileceğiniz kişisel bir yapay zekâ ajanıdır (AI agent). Kullanıcılara, harici sunucu maliyeti olmadan kendi altyapıları üzerinden yapay zekâ destekli otomasyonlar kurma imkânı tanır.",
+          "meta": "296 oy · 134 yorum",
+          "snapshot": {
+            "sourceId": "50031614",
+            "capturedAt": "2026-10-11T10:50:13.070Z",
+            "metadata": {
+              "popularity": 296,
+              "engagementCount": 134,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50031614",
+                  "popularity": 296,
+                  "engagementCount": 134
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-10T10:52:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50031614"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50031614",
+              "popularity": 296,
+              "engagementCount": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "mattpocock şirketinin geliştirdiği, yazılım mühendislerinin teknik yetkinliklerini geliştirmelerine yardımcı olan eğitim içerikleri."
+    },
+    {
+      "term": "UI",
+      "explanation": "Kullanıcının bir yazılımla etkileşime girdiği düğmeler, menüler ve ekran tasarımlarının tamamı."
+    },
+    {
+      "term": "neural networks",
+      "explanation": "İnsan beyninin çalışma şeklini taklit ederek karmaşık verileri analiz eden yapay zekâ mimarisi."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Özellikle görüntü işleme ve yapay zekâ hesaplamaları gibi yoğun işlemleri hızlandırmak için tasarlanmış özel donanım birimi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "logic gates",
+      "explanation": "Bilgisayarın temel karar verme mekanizmalarını oluşturan, giriş sinyallerine göre çıkış üreten elektronik devre birimleri."
+    },
+    {
+      "term": "city-building game",
+      "explanation": "Oyuncunun bir şehir planlayıp yönettiği, kaynakları ve binaları kontrol ederek yerleşim yerini büyütmeye çalıştığı oyun türü."
+    }
+  ]
+}
