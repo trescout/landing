@@ -17,6 +17,7 @@
 ## Homepage signup layout · 2026-10-12
 
 - User approved moving the single signup form to the upper right and history strip to the sidebar, then requested swapping the introduction and latest-report block.
+- Final user revision: full-report link and AI note move to the sidebar, immediately above publication history at the very bottom. Logo deferred; merge explicitly requested.
 - Preserve report data, legal consent and subscription behavior in six locales. Keep the existing caption below the date. Remove only the second uncertainty sentence from the existing signup copy.
 - Tool: Codex. Repository brainstorming, brand-voice, pre-review and traceability guidance used. No new marketing promises.
 - Gemini CLI was unavailable (missing configured key); user explicitly waived that check. Claude CLI review was also attempted but unavailable (not logged in); Codex self-review and executable/browser checks are recorded instead, not represented as a Claude review.

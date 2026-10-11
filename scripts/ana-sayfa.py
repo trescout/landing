@@ -550,12 +550,14 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
         + f'<p><a class="ana-git" href="{o}/discover/">{e(m["kesif_git"])}</a></p></section>'
     )
 
+    tamami = (f'<p class="ana-tamami"><a class="btn ana-dugme-koyu" href="{rapor_url}">'
+              f'{e(m["tamami"].format(n=n))}</a></p><p class="ana-yz">{e(m["yz"])}</p>')
     yan = (
-        f'<aside class="ana-yan">{gecmis}<h2>{e(m["yan_kaynak"])}</h2><ul class="ana-dagilim">{dagilim}</ul>'
+        f'<aside class="ana-yan"><h2>{e(m["yan_kaynak"])}</h2><ul class="ana-dagilim">{dagilim}</ul>'
         + kesif
         + (f'<h2>{e(m["yan_terim"])}</h2><ul class="ana-terimler">{"".join(terimler)}</ul>' if terimler else "")
         + f'<p class="ana-yan-baglanti"><a href="{o}/dictionary/">{e(m["sozluk"].format(n=sayi(sayfa_sayisi(dil, "dictionary"), m)))}</a></p>'
-        f'</aside>'
+        + tamami + gecmis + '</aside>'
     )
 
     form_id = f"email-final-{dil}"
@@ -572,11 +574,9 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
         f'</form></section>'
     )
 
-    tamami = (f'<p class="ana-tamami"><a class="btn ana-dugme-koyu" href="{rapor_url}">'
-              f'{e(m["tamami"].format(n=n))}</a></p><p class="ana-yz">{e(m["yz"])}</p>')
     govde = (
         f'<div class="container ana-govde"><div class="ana-icerik">{rapor_bilgisi}'
-        f'{"".join(bolumler)}{tamami}</div>{yan}</div>'
+        f'{"".join(bolumler)}</div>{yan}</div>'
     )
     bant = f'{giris_bandi}<div class="ana-bant-sag">{erken}</div></div></section>'
     return f'<main id="main">\n{bant}\n{govde}\n  </main>'

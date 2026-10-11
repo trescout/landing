@@ -29,7 +29,7 @@
 .ana-serit .s-son { fill: var(--pink); }
 .ana-serit text { fill: var(--on-brand); font-size: 13px; font-family: var(--font-body); }
 .ana-serit-dar { display: none; }
-.ana-gecmis { margin-bottom: 32px; color: var(--ink-muted); }
+.ana-gecmis { margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--border); color: var(--ink-muted); }
 .ana-gecmis .ana-serit .s-var, .ana-gecmis .ana-serit .s-yok { fill: var(--court); }
 .ana-gecmis .ana-serit text { fill: var(--ink-muted); }
 .ana-gecmis .ana-serit-genis { display: none; }
@@ -84,6 +84,7 @@
 
 /* Yan sütun */
 .ana-yan { padding-top: 4px; font-size: var(--text-small); }
+.ana-yan .ana-dugme-koyu { white-space: normal; width: 100%; justify-content: center; }
 .ana-yan h2 { font-family: var(--font-display); font-weight: 800; font-size: var(--text-body); color: var(--ink); }
 .ana-yan h2 + * { margin-top: 8px; }
 .ana-yan h2:not(:first-child) { margin-top: 36px; }

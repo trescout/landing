@@ -19,7 +19,12 @@ for (const locale of ['', 'en/', 'fr/', 'pt/', 'es/', 'de/']) {
     assert.ok(band.includes('name="website"'));
     assert.ok(band.includes('data-source="final-cta"'));
     assert.ok(!band.includes('ana-gecmis'));
-    assert.ok(main.includes('<aside class="ana-yan"><div class="ana-gecmis">'));
+    const sidebar = main.match(/<aside class="ana-yan">([\s\S]*?)<\/aside>/)[1];
+    assert.ok(sidebar.indexOf('ana-yan-baglanti') < sidebar.indexOf('ana-tamami'));
+    assert.ok(sidebar.indexOf('ana-tamami') < sidebar.indexOf('ana-yz'));
+    assert.ok(sidebar.indexOf('ana-yz') < sidebar.indexOf('ana-gecmis'));
+    assert.ok(sidebar.endsWith('</svg></div>'));
+    assert.equal((main.match(/class="ana-tamami"/g) || []).length, 1);
     assert.match(main, /ana-serit-dar[^>]+role="img" aria-label="[^"]+"/);
     assert.ok(!main.includes('ana-alt'));
   });
