@@ -4294,7 +4294,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 34.984",
+    "meta": "★ 35.009",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -4302,7 +4302,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34984,
+    "stars": 35009,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-10-11",
@@ -4698,6 +4698,13 @@
         "onceki_yildiz": 34757,
         "surum": "v18.9.0",
         "surum_tarihi": "2026-10-11"
+      },
+      {
+        "tarih": "2026-10-11",
+        "yildiz": 35009,
+        "onceki_yildiz": 34984,
+        "surum": "v18.9.1",
+        "surum_tarihi": "2026-10-11"
       }
     ],
     "tagline_en": "Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes.",
@@ -4940,7 +4947,7 @@
     "slug": "open-llm-vtuber",
     "title": "Open-LLM-VTuber",
     "tagline": "Open-LLM-VTuber, büyük dil modelleriyle (large language models) eller serbest sesli etkileşim kurulmasını ve canlı iki boyutlu…",
-    "meta": "★ 13.042",
+    "meta": "★ 14.042",
     "image": "/assets/discover/og/open-llm-vtuber.webp",
     "source": "GitHub",
     "date": "2026-06-03",
@@ -4948,7 +4955,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 13042,
+    "stars": 14042,
     "lite": false,
     "headline": "Canlı yapay zekâ karakteri oluşturun",
     "cmds": {
@@ -4972,6 +4979,13 @@
         "tarih": "2026-08-02",
         "yildiz": 13042,
         "onceki_yildiz": 8629,
+        "surum": "v1.2.1",
+        "surum_tarihi": "2025-08-26"
+      },
+      {
+        "tarih": "2026-10-11",
+        "yildiz": 14042,
+        "onceki_yildiz": 13042,
         "surum": "v1.2.1",
         "surum_tarihi": "2025-08-26"
       }
@@ -22578,14 +22592,14 @@
     "slug": "clypra",
     "title": "Clypra",
     "tagline": "Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır.",
-    "meta": "★ 3.307 · TypeScript",
+    "meta": "★ 3.317 · TypeScript",
     "image": "/assets/discover/og/clypra.webp",
     "source": "GitHub",
     "date": "2026-07-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3307,
+    "stars": 3317,
     "lite": false,
     "headline": "Açık kaynaklı masaüstü video düzenleyici",
     "last_review": "2026-10-11",
@@ -22708,6 +22722,13 @@
         "onceki_yildiz": 3304,
         "surum": "v1.5.9",
         "surum_tarihi": "2026-10-04"
+      },
+      {
+        "tarih": "2026-10-11",
+        "yildiz": 3317,
+        "onceki_yildiz": 3307,
+        "surum": "v1.6.0",
+        "surum_tarihi": "2026-10-11"
       }
     ],
     "tagline_en": "Clypra is an open source video editor application developed using Tauri, React and TypeScript.",
@@ -25664,7 +25685,7 @@
     "slug": "pi-web",
     "title": "Pi Web",
     "tagline": "Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor.",
-    "meta": "★ 7.236 · TypeScript",
+    "meta": "★ 7.239 · TypeScript",
     "image": "/assets/discover/og/pi-web.webp",
     "source": "GitHub",
     "date": "2026-07-22",
@@ -25672,7 +25693,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7236,
+    "stars": 7239,
     "lite": false,
     "headline": "Pi kodlama ajanı için web arayüzü",
     "last_review": "2026-10-11",
@@ -25746,6 +25767,13 @@
         "onceki_yildiz": 7166,
         "surum": "v0.11.1",
         "surum_tarihi": "2026-10-10"
+      },
+      {
+        "tarih": "2026-10-11",
+        "yildiz": 7239,
+        "onceki_yildiz": 7236,
+        "surum": "v0.12.0",
+        "surum_tarihi": "2026-10-11"
       }
     ],
     "tagline_en": "Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent.",
@@ -41637,14 +41665,14 @@
     "slug": "openflux",
     "title": "OpenFlux",
     "tagline": "Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır.",
-    "meta": "★ 2.061 · Go",
+    "meta": "★ 2.066 · Go",
     "image": "/assets/discover/og/openflux.webp",
     "source": "GitHub",
     "date": "2026-09-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2061,
+    "stars": 2066,
     "summary": "Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır. Eklenebilir taşıma protokolleri (pluggable transports) desteği sayesinde ağ trafiği üzerinde esnek analiz ve yönetim imkânı sunar.",
     "lite": false,
     "headline": "Ağ trafiği için TCP tünelleme",
@@ -41725,6 +41753,13 @@
         "yildiz": 2061,
         "onceki_yildiz": 2027,
         "surum": "v0.5.0",
+        "surum_tarihi": "2026-10-11"
+      },
+      {
+        "tarih": "2026-10-11",
+        "yildiz": 2066,
+        "onceki_yildiz": 2061,
+        "surum": "node-v1.3.1",
         "surum_tarihi": "2026-10-11"
       }
     ],
@@ -45614,7 +45649,7 @@
     "slug": "rea",
     "title": "REA",
     "tagline": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı…",
-    "meta": "★ 84.785 · TypeScript",
+    "meta": "★ 89.767 · TypeScript",
     "image": "/assets/discover/og/rea.webp",
     "source": "GitHub",
     "date": "2026-10-06",
@@ -45622,7 +45657,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 84785,
+    "stars": 89767,
     "last_seen": "2026-10-11",
     "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.",
     "lite": false,
@@ -45703,6 +45738,13 @@
         "tarih": "2026-10-11",
         "yildiz": 84785,
         "onceki_yildiz": 62615,
+        "surum": "rea-agents-6.4.0",
+        "surum_tarihi": "2026-10-11"
+      },
+      {
+        "tarih": "2026-10-11",
+        "yildiz": 89767,
+        "onceki_yildiz": 84785,
         "surum": "rea-agents-6.4.0",
         "surum_tarihi": "2026-10-11"
       }

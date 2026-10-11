@@ -2,16 +2,16 @@
 
 Clypra ist eine Open-Source-Videoeditoranwendung, die mit Tauri, React und TypeScript entwickelt wurde. Die Software zielt darauf ab, erweiterte Funktionen, die in kostenpflichtigen Videobearbeitungstools zu finden sind, als kostenlose Alternative anzubieten.
 
-- ★ 3.307
+- ★ 3.317
 - TypeScript
 - GitHub Trending · 2026-07-15
 
 ## Aktualisierungen
 
+- **11. Oktober 2026:** Sterne 3,307 → 3,317, neueste Version v1.6.0 (11. Oktober 2026).
 - **4. Oktober 2026:** Sterne 3,304 → 3,307, neueste Version v1.5.9 (4. Oktober 2026).
 - **3. Oktober 2026:** Sterne 3,295 → 3,304, neueste Version v1.5.8 (2. Oktober 2026).
 - **29. September 2026:** Sterne 3,292 → 3,295, neueste Version v1.5.7 (29. September 2026).
-- **29. September 2026:** Sterne 3,285 → 3,292, neueste Version v1.5.6 (29. September 2026).
 
 ## Was es bringt
 

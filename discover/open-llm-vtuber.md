@@ -2,11 +2,12 @@
 
 Open-LLM-VTuber, büyük dil modelleriyle (large language models) eller serbest sesli etkileşim kurulmasını ve canlı iki boyutlu (Live2D) karakterlerin yerel sistemlerde çalıştırılmasını sağlıyor. Sistem, sesli kesinti desteğiyle kullanıcı ile yapay zekâ arasında gerçek zamanlı bir iletişim deneyimi sunuyor.
 
-- ★ 13.042
+- ★ 14.042
 - GitHub Trending · 2026-06-03
 
 ## Güncelleme
 
+- **11 Ekim 2026:** Yıldız 13.042 → 14.042, son sürüm v1.2.1 (26 Ağustos 2025).
 - **2 Ağustos 2026:** Yıldız 8.629 → 13.042, son sürüm v1.2.1 (26 Ağustos 2025).
 
 ## Ne kazandırır?

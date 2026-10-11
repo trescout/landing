@@ -2,11 +2,12 @@
 
 Open-LLM-VTuber permite la interacción de voz manos libres con modelos de lenguaje grandes y la ejecución de caracteres bidimensionales en vivo (Live2D) en sistemas locales. El sistema ofrece una experiencia de comunicación en tiempo real entre el usuario y la inteligencia artificial con soporte de interrupción de voz.
 
-- ★ 13.042
+- ★ 14.042
 - GitHub Trending · 2026-06-03
 
 ## Actualizaciones
 
+- **11 de octubre de 2026:** Estrellas 13,042 → 14,042, última versión v1.2.1 (26 de agosto de 2025).
 - **2 de agosto de 2026:** Estrellas 8,629 → 13,042, última versión v1.2.1 (26 de agosto de 2025).
 
 ## Qué aporta
