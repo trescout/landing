@@ -2,16 +2,16 @@
 
 FreeLLMAPI brings together 34 different free large language model providers under a single REST API in OpenAI format, offering intelligent routing and fault tolerance.
 
-- ★ 31,427
+- ★ 33,101
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Updates
 
+- **October 11, 2026:** Stars 31,427 → 33,101, latest release v0.13.7 (October 11, 2026).
 - **October 7, 2026:** Stars 30,274 → 31,427, latest release v0.13.6 (October 7, 2026).
 - **October 3, 2026:** Stars 29,808 → 30,274, latest release v0.13.4 (October 3, 2026).
 - **October 1, 2026:** Stars 29,534 → 29,808, latest release v0.13.3 (September 30, 2026).
-- **September 29, 2026:** Stars 29,054 → 29,534, latest release v0.13.2 (September 29, 2026).
 
 ## What you get
 

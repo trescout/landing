@@ -2,11 +2,12 @@
 
 Esta biblioteca de Python publicada por Anthropic ofrece plantillas listas para usar y ejemplos de código para desarrollar aplicaciones de inteligencia artificial para la industria de servicios financieros. Su objetivo es guiar a los desarrolladores que desean automatizar los procesos de generación de informes y análisis de datos financieros.
 
-- ★ 37.453
+- ★ 39.327
 - GitHub Trending · 2026-09-21
 
 ## Actualizaciones
 
+- **11 de octubre de 2026:** Estrellas 37,453 → 39,327.
 - **25 de septiembre de 2026:** Estrellas 35,579 → 37,453.
 
 ## Qué aporta

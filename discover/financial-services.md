@@ -2,11 +2,12 @@
 
 Anthropic tarafından yayınlanan bu Python kütüphanesi, finansal hizmetler sektörüne yönelik yapay zekâ uygulamaları geliştirmek için hazır şablonlar ve kod örnekleri sunuyor. Finansal veri analizi ve raporlama süreçlerini otomatikleştirmek isteyen geliştiricilere rehberlik etmeyi amaçlıyor.
 
-- ★ 37.453
+- ★ 39.327
 - GitHub Trending · 2026-09-21
 
 ## Güncelleme
 
+- **11 Ekim 2026:** Yıldız 37.453 → 39.327.
 - **25 Eylül 2026:** Yıldız 35.579 → 37.453.
 
 ## Ne kazandırır?

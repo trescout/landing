@@ -2,9 +2,13 @@
 
 Apollo 11 görevinde kullanılan komuta ve ay modülü rehberlik bilgisayarının (Guidance Computer) orijinal kaynak kodu, montaj dili (Assembly) ile GitHub üzerinde erişime açıldı. Yazılım, Ay'a iniş yapan ilk insanlı görevde kullanılan hesaplama algoritmalarının teknik detaylarını belgeliyor.
 
-- ★ 70.068
+- ★ 73.844
 - Assembly
 - GitHub Trending · 2026-07-22
+
+## Güncelleme
+
+- **11 Ekim 2026:** Yıldız 70.068 → 73.844.
 
 ## Ne kazandırır?
 

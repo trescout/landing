@@ -2,11 +2,12 @@
 
 ConardLi tarafından geliştirilen garden-skills, web tasarımı, bilgi edinme ve görsel oluşturma gibi çeşitli alanlarda hazır yetenek paketleri (skills) sunan açık kaynaklı bir koleksiyondur. Geliştiricilerin projelerine entegre edebileceği bu modüler yapı, farklı işlevlerin merkezi bir düzenle kullanılmasını sağlar.
 
-- ★ 12.173
+- ★ 12.823
 - GitHub Trending · 2026-08-26
 
 ## Güncelleme
 
+- **11 Ekim 2026:** Yıldız 12.173 → 12.823, son sürüm motion-showreel-v0.1.0 (11 Ekim 2026).
 - **5 Eylül 2026:** Yıldız 11.152 → 12.173, son sürüm web-design-engineer-v1.3.0 (12 Temmuz 2026).
 - **27 Ağustos 2026:** Yıldız 11.139 → 11.152, son sürüm web-design-engineer-v1.3.0 (12 Temmuz 2026).
 

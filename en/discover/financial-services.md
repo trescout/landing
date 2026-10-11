@@ -2,11 +2,12 @@
 
 Published by Anthropic, this Python library provides ready-to-use templates and code examples for developing AI applications tailored to the financial services sector. It aims to guide developers looking to automate financial data analysis and reporting processes.
 
-- ★ 37,453
+- ★ 39,327
 - GitHub Trending · 2026-09-21
 
 ## Updates
 
+- **October 11, 2026:** Stars 37,453 → 39,327.
 - **September 25, 2026:** Stars 35,579 → 37,453.
 
 ## What you get

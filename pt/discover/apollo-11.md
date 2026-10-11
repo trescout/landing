@@ -2,9 +2,13 @@
 
 O código-fonte original do computador de comando e orientação do módulo lunar (Guidance Computer) utilizado na missão Apollo 11 foi disponibilizado no GitHub em linguagem assembly. O software documenta os detalhes técnicos dos algoritmos de cálculo utilizados na primeira missão tripulada a pousar na Lua.
 
-- ★ 70.068
+- ★ 73.844
 - Assembly
 - GitHub Trending · 2026-07-22
+
+## Atualizações
+
+- **11 de outubro de 2026:** Estrelas 70,068 → 73,844.
 
 ## O que você ganha
 

@@ -2,15 +2,15 @@
 
 RuView ist eine Sensing-Plattform, die WiFi Channel State Information (CSI) verwendet, um Veränderungen in der Umgebung zu untersuchen. Sie kann mit ESP32- oder Forschungs-NIC-Hardware betrieben werden; für eine Bewertung ohne Hardware stehen simulierte Daten zur Verfügung.
 
-- ★ 96.773
+- ★ 97.225
 - GitHub Trending · 2026-05-30
 
 ## Aktualisierungen
 
+- **11. Oktober 2026:** Sterne 96,773 → 97,225, neueste Version v3122 (10. Oktober 2026).
 - **7. Oktober 2026:** Sterne 96,651 → 96,773, neueste Version v3067 (6. Oktober 2026).
 - **6. Oktober 2026:** Sterne 96,464 → 96,651, neueste Version v3060 (5. Oktober 2026).
 - **5. Oktober 2026:** Sterne 95,926 → 96,464, neueste Version v3037 (4. Oktober 2026).
-- **2. Oktober 2026:** Sterne 95,751 → 95,926, neueste Version v2975 (2. Oktober 2026).
 
 ## Installation
 

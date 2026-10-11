@@ -9163,5 +9163,44 @@
     "kisa_pt": "É um método para converter o fluxo de dados provenientes de câmeras ou sensores em um modelo digital tridimensional, de forma instantânea e sem atraso.",
     "kisa_es": "Es el método de convertir el flujo de datos proveniente de cámaras o sensores en un modelo digital tridimensional de manera instantánea y sin demora.",
     "kisa_de": "Es ist ein Verfahren zur sofortigen und verzögerungsfreien Umwandlung des Datenstroms von Kameras oder Sensoren in ein dreidimensionales digitales Modell."
+  },
+  {
+    "slug": "agents-directory",
+    "en": "Agents Directory",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yazılım projelerinde yapay zekâ ajanlarının davranışlarını, araçlarını ve kurallarını bir arada tutan özel klasör yapısıdır.",
+    "date": "2026-10-11",
+    "kisa_en": "It is a specialized folder structure that keeps the behaviors, tools, and rules of AI agents together in software projects.",
+    "kisa_fr": "Structure de dossiers dédiée qui regroupe les comportements, les outils et les règles des agents d'intelligence artificielle dans les projets logiciels.",
+    "kisa_pt": "É uma estrutura de pastas especial em projetos de software que reúne os comportamentos, ferramentas e regras de agentes de inteligência artificial.",
+    "kisa_es": "Es una estructura de carpetas especializada que reúne los comportamientos, las herramientas y las reglas de los agentes de inteligencia artificial en proyectos de software.",
+    "kisa_de": "Eine spezielle Ordnerstruktur in Softwareprojekten, die das Verhalten, die Werkzeuge und die Regeln von KI-Agenten zusammenhält."
+  },
+  {
+    "slug": "logic-gates",
+    "en": "Logic Gates",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Giriş sinyallerine mantıksal kurallar uygulayarak ikili (0 veya 1) çıkış üreten temel elektronik devre birimleridir.",
+    "date": "2026-10-11",
+    "kisa_en": "They are fundamental electronic circuit units that produce a binary (0 or 1) output by applying logic rules to input signals.",
+    "kisa_fr": "Composants de circuits électroniques fondamentaux qui produisent une sortie binaire (0 ou 1) en appliquant des règles logiques aux signaux d'entrée.",
+    "kisa_pt": "São unidades básicas de circuitos eletrônicos que produzem uma saída binária (0 ou 1) aplicando regras lógicas aos sinais de entrada.",
+    "kisa_es": "Son unidades básicas de circuitos electrónicos que producen una salida binaria (0 o 1) aplicando reglas lógicas a las señales de entrada.",
+    "kisa_de": "Grundlegende elektronische Schaltungseinheiten, die durch das Anwenden logischer Regeln auf Eingangssignale ein binäres Ausgangssignal (0 oder 1) erzeugen."
+  },
+  {
+    "slug": "city-building-game",
+    "en": "City-building Game",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Oyuncuların sıfırdan bir kenti inşa ettiği, altyapıyı ve kaynakları yöneterek büyüttüğü strateji simülasyonu oyun türüdür.",
+    "date": "2026-10-11",
+    "kisa_en": "It is a strategy simulation game genre where players build a city from scratch and expand it by managing infrastructure and resources.",
+    "kisa_fr": "Genre de jeu de simulation stratégique dans lequel les joueurs construisent une ville à partir de zéro et la développent en gérant les infrastructures et les ressources.",
+    "kisa_pt": "É um gênero de jogo de estratégia e simulação no qual os jogadores constroem uma cidade do zero e a expandem gerenciando infraestrutura e recursos.",
+    "kisa_es": "Es un género de videojuegos de estrategia y simulación en el que los jugadores construyen una ciudad desde cero, haciéndola crecer mediante la gestión de infraestructuras y recursos.",
+    "kisa_de": "Ein Strategiesimulations-Spielgenre, bei dem Spieler eine Stadt von Grund auf neu aufbauen und sie durch die Verwaltung von Infrastruktur und Ressourcen vergrößern."
   }
 ]

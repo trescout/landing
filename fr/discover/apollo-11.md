@@ -2,9 +2,13 @@
 
 Le code source original de l'ordinateur de commande et de guidage du module lunaire (Guidance Computer) utilisé dans la mission Apollo 11 a été mis à disposition sur GitHub avec le langage assembleur. Le logiciel documente les détails techniques des algorithmes de calcul utilisés lors de la première mission habitée à atterrir sur la Lune.
 
-- ★ 70 068
+- ★ 73 844
 - Assembly
 - GitHub Trending · 2026-07-22
+
+## Mises à jour
+
+- **11 octobre 2026:** Étoiles 70,068 → 73,844.
 
 ## Ce que ça vous apporte
 

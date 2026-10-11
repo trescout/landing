@@ -2,9 +2,13 @@
 
 Der ursprüngliche Quellcode des in der Apollo-11-Mission verwendeten Befehls- und Mondlandemodul-Leitcomputers (Guidance Computer) wurde auf GitHub in Assemblersprache verfügbar gemacht. Die Software dokumentiert die technischen Details der Berechnungsalgorithmen, die bei der ersten bemannten Mondlandung zum Einsatz kamen.
 
-- ★ 70.068
+- ★ 73.844
 - Assembly
 - GitHub Trending · 2026-07-22
+
+## Aktualisierungen
+
+- **11. Oktober 2026:** Sterne 70,068 → 73,844.
 
 ## Was es bringt
 

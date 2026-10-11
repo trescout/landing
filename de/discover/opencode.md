@@ -2,7 +2,7 @@
 
 OpenCode ist ein Open-Source-Coding-Agent zur Automatisierung von Softwareentwicklungsprozessen. Dieses mit der TypeScript-Sprache entwickelte Tool bietet Funktionen zur autonomen Aufgabenausführung in Softwareprojekten.
 
-- ★ 212.128
+- ★ 212.636
 - TypeScript
 - GitHub Trending · 2026-06-28
 
@@ -10,10 +10,10 @@ OpenCode ist ein Open-Source-Coding-Agent zur Automatisierung von Softwareentwic
 
 ## Aktualisierungen
 
+- **11. Oktober 2026:** Sterne 212,128 → 212,636, neueste Version v1.19.0 (11. Oktober 2026).
 - **7. Oktober 2026:** Sterne 211,200 → 212,128, neueste Version v1.18.35 (6. Oktober 2026).
 - **1. Oktober 2026:** Sterne 210,526 → 211,200, neueste Version v1.18.34 (30. September 2026).
 - **28. September 2026:** Sterne 210,245 → 210,526, neueste Version v1.18.33 (28. September 2026).
-- **27. September 2026:** Sterne 207,514 → 210,245, neueste Version v1.18.32 (21. September 2026).
 
 ## Was es bringt
 

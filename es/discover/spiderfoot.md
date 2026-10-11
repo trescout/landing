@@ -2,12 +2,13 @@
 
 SpiderFoot es una herramienta de Python que automatiza la recopilación de inteligencia de código abierto (OSINT) para procesos de mapeo de superficies de ataque y inteligencia de amenazas. Permite detectar vulnerabilidades de seguridad en activos digitales mediante la integración de varias fuentes de datos.
 
-- ★ 22.178
+- ★ 23.302
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Actualizaciones
 
+- **11 de octubre de 2026:** Estrellas 22,178 → 23,302, última versión v4.0 (7 de abril de 2022).
 - **16 de septiembre de 2026:** Estrellas 21,076 → 22,178, última versión v4.0 (7 de abril de 2022).
 - **15 de agosto de 2026:** Estrellas 20,026 → 21,076, última versión v4.0 (7 de abril de 2022).
 - **2 de agosto de 2026:** Estrellas 18,921 → 20,026, última versión v4.0 (7 de abril de 2022).

@@ -2,12 +2,13 @@
 
 Tinycast is a lightweight application launcher, shortcut manager, and clipboard history tool developed for the macOS operating system. Written in Swift, this native software aims to accelerate desktop workflows by using system resources efficiently.
 
-- ★ 7,971
+- ★ 8,277
 - Swift
 - GitHub Trending · 2026-09-18
 
 ## Updates
 
+- **October 11, 2026:** Stars 7,971 → 8,277, latest release v0.11.19 (October 10, 2026).
 - **October 3, 2026:** Stars 7,552 → 7,971, latest release v0.11.12 (October 2, 2026).
 - **September 27, 2026:** Stars 6,290 → 7,552, latest release v0.11.3 (September 19, 2026).
 - **September 18, 2026:** Stars 6,286 → 6,290, latest release v0.10.23 (September 13, 2026).

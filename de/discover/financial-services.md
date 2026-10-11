@@ -2,11 +2,12 @@
 
 Diese von Anthropic veröffentlichte Python-Bibliothek bietet vorgefertigte Vorlagen und Codebeispiele für die Entwicklung von KI-Anwendungen im Finanzdienstleistungssektor. Sie soll Entwicklern als Leitfaden dienen, die Prozesse der Finanzdatenanalyse und Berichterstattung automatisieren möchten.
 
-- ★ 37.453
+- ★ 39.327
 - GitHub Trending · 2026-09-21
 
 ## Aktualisierungen
 
+- **11. Oktober 2026:** Sterne 37,453 → 39,327.
 - **25. September 2026:** Sterne 35,579 → 37,453.
 
 ## Was es bringt

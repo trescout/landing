@@ -2,11 +2,12 @@
 
 Développée par ConardLi, garden-skills est une collection open source qui propose des packages de compétences prêts à l'emploi dans divers domaines tels que la conception Web, l'acquisition d'informations et la création visuelle. Cette structure modulaire, que les développeurs peuvent intégrer dans leurs projets, permet d'utiliser différentes fonctions de manière centralisée.
 
-- ★ 12 173
+- ★ 12 823
 - GitHub Trending · 2026-08-26
 
 ## Mises à jour
 
+- **11 octobre 2026:** Étoiles 12,173 → 12,823, dernière version motion-showreel-v0.1.0 (11 octobre 2026).
 - **5 septembre 2026:** Étoiles 11,152 → 12,173, dernière version web-design-engineer-v1.3.0 (12 juillet 2026).
 - **27 août 2026:** Étoiles 11,139 → 11,152, dernière version web-design-engineer-v1.3.0 (12 juillet 2026).
 
