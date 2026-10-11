@@ -2,6 +2,7 @@
 
 | Tarih | Kişi | Görev | AI Aracı | Rol | PR/Commit |
 |---|---|---|---|---|---|
+| 2026-10-10 | Codex | Draft default share-cover redesign; version the OG, Twitter and Organization image URLs on six homepages; preserve homepage metadata during regeneration. Prompt archive: [brand share cover](prompts/2026-10-10-brand-share-cover.md) | OpenAI Codex | Plan, implementation and checks; new descriptor “Günlük teknoloji raporu” is a draft, existing tagline retained; Gemini CLI unavailable (missing GEMINI_API_KEY), Claude CLI not logged in; neither reviewed the copy | `feature/brand-share-cover` (draft, not approved for merge) |
 | 2026-10-10 | Codex | Move comparison to the footer; add contact/team mail links; align six privacy footers; move homepage discovery above the dictionary; rename notification headings; declare ICO fallback and shorten favicon cache | OpenAI Codex | Plan, implementation and checks; Turkish contact labels requested by Burhan; new notification label drafted by Codex, Gemini CLI unavailable (no configured API key), Claude review not performed | `feature/site-navigation-notifications` |
 | 2026-10-10 | Codex | Replace thick small-size logos with the canonical tapering-S mark in six page generators, 9,493 generated HTML pages and favicon assets; check complete logo paths in every navigation/footer container | OpenAI Codex | Implementation and verification; no user-facing copy changes | `feature/standard-logo-geometry` |
 | 2026-07-27 | Mustafa | Keşif enrichment · Parti A (Issue #30) | Antigravity | Skills Agent | Refs #30 |
