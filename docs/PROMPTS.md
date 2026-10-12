@@ -14,6 +14,14 @@
 
 [Brief, specialist prompts, review limitations and validation](prompts/2026-10-10-brand-share-cover.md).
 
+## Catalogue browsing · 2026-10-12
+
+- User approved shortening long dictionary/discovery lists while keeping playful random exploration, then asked to continue after homepage fixes.
+- Scope: first 24 matching records, explicit 24-record increments, search/filter across the full collection, filter/sort reset, random navigation from the full matched pool, keyboard focus on the first newly revealed result. Retain full server-rendered HTML for JavaScript-disabled readers and indexing.
+- Codex implementation and self-review; six localized short control labels. User waived Gemini review in this conversation. No Gemini/Claude review claimed. Unrelated apple-touch-icon.png edit preserved and excluded.
+- Tests: 13 Node regression tests cover both catalogues/six languages, batches, search, empty states, unavailable localized pages, full-pool random target, focus and static fallback. Browser checked 24 locale/type/viewport combinations; live filter/load-more/search interactions verified separately. No subscription submissions or content changes.
+- Still deferred: detail-page signup/sidebar redesign and logo orientation comparison.
+
 ## Homepage signup layout · 2026-10-12
 
 Follow-up: user requested two items per source instead of 3/2/2/1 and the existing latest-report label parenthesized beside the date. Change generator/CSS across six locales; preserve reports, consent and the user's unrelated apple-touch-icon.png edit. Add snapshot-backed item-count and inline-caption assertions. Codex implementation/review; no new translated copy.
