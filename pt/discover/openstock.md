@@ -51,8 +51,8 @@ Ajude-me a instalar um aplicativo de rastreamento de estoque de código aberto c
 ## Termos relacionados do glossário
 
 - [Self-hosting](https://trescout.com/pt/dictionary/self-hosting/)
-- [Clone](https://trescout.com/pt/dictionary/clone/)
 - [Localhost](https://trescout.com/pt/dictionary/localhost/)
+- [Clone](https://trescout.com/pt/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Aqueles que querem acompanhar o mercado de ações/ações

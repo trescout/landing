@@ -71,9 +71,9 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Clone](https://trescout.com/dictionary/clone/)
 - [Agentic](https://trescout.com/dictionary/agentic/)
 - [Localhost](https://trescout.com/dictionary/localhost/)
+- [Clone](https://trescout.com/dictionary/clone/)
 - [RAG](https://trescout.com/dictionary/rag/)
 - [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

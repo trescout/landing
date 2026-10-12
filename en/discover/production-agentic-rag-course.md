@@ -62,9 +62,9 @@ I want to develop an academic research assistant using the production-agentic-ra
 
 ## Related dictionary terms
 
-- [Clone](https://trescout.com/en/dictionary/clone/)
 - [Agentic](https://trescout.com/en/dictionary/agentic/)
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
+- [Clone](https://trescout.com/en/dictionary/clone/)
 - [RAG](https://trescout.com/en/dictionary/rag/)
 - [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

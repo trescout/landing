@@ -51,8 +51,8 @@ Help me install an open source stock tracking application called OpenStock; Down
 ## Related dictionary terms
 
 - [Self-hosting](https://trescout.com/en/dictionary/self-hosting/)
-- [Clone](https://trescout.com/en/dictionary/clone/)
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
+- [Clone](https://trescout.com/en/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Those who want to follow the stock market/shares

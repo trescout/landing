@@ -37,8 +37,8 @@ Para ejecutar el proyecto Univer en el entorno local, clona el repositorio en la
 
 ## Términos relacionados del glosario
 
-- [Clone](https://trescout.com/es/dictionary/clone/)
 - [Runtime](https://trescout.com/es/dictionary/runtime/)
+- [Clone](https://trescout.com/es/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Desarrolladores que desean agregar herramientas de oficina personalizables y espacios de trabajo impulsados por inteligencia artificial a sus propios productos.

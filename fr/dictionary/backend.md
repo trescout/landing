@@ -36,6 +36,7 @@ Parce qu'il est nécessaire d'assurer la sécurité des données et d'effectuer 
 
 ## Outils liés
 
+- [Open Webui](https://trescout.com/fr/discover/open-webui/)
 - [Supabase](https://trescout.com/fr/discover/supabase/)
 - [iii](https://trescout.com/fr/discover/iii/)
 - [Firebase Ios SDK](https://trescout.com/fr/discover/firebase-ios-sdk/)

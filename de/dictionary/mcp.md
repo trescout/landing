@@ -85,8 +85,8 @@ Sein Design ist berechtigungsbasiert, Sie müssen jedoch den Zugriffsbereich des
 
 - [Langflow](https://trescout.com/de/discover/langflow/)
 - [REA](https://trescout.com/de/discover/rea/)
-- [Servers](https://trescout.com/de/discover/servers/)
 - [OpenCut](https://trescout.com/de/discover/opencut/)
+- [Servers](https://trescout.com/de/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/de/discover/ai-engineering-from-scratch/)
 - [Goose](https://trescout.com/de/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)

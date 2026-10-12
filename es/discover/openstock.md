@@ -51,8 +51,8 @@ Ayúdame a instalar una aplicación de seguimiento de existencias de código abi
 ## Términos relacionados del glosario
 
 - [Self-hosting](https://trescout.com/es/dictionary/self-hosting/)
-- [Clone](https://trescout.com/es/dictionary/clone/)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
+- [Clone](https://trescout.com/es/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Aquellos que quieran seguir el mercado de valores/acciones.

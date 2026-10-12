@@ -37,8 +37,8 @@ Um das Univer-Projekt in der lokalen Umgebung auszuführen, klone das Repository
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Clone](https://trescout.com/de/dictionary/clone/)
 - [Runtime](https://trescout.com/de/dictionary/runtime/)
+- [Clone](https://trescout.com/de/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Entwickler, die ihren eigenen Produkten anpassbare Office-Tools und KI-gestützte Arbeitsbereiche hinzufügen möchten.

@@ -66,13 +66,13 @@ Sim. Basta executar git pull dentro da pasta. Se você tiver alterações, prime
 ## Ferramentas relacionadas
 
 - [MoneyPrinterTurbo](https://trescout.com/pt/discover/moneyprinterturbo/)
+- [BitNet](https://trescout.com/pt/discover/bitnet/)
 - [VoxCPM](https://trescout.com/pt/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/pt/discover/clone-wars/)
 - [Univer](https://trescout.com/pt/discover/univer/)
 - [OpenStock](https://trescout.com/pt/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/pt/discover/hermes-webui/)
 - [openGym](https://trescout.com/pt/discover/opengym/)
-- [Production Agentic RAG Course](https://trescout.com/pt/discover/production-agentic-rag-course/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/clone/)
 

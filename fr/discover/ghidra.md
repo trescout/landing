@@ -2,12 +2,13 @@
 
 Ghidra est un cadre complet d'ingénierie inverse logicielle (SRE) développé par la National Security Agency (NSA) et partagé en open source. Plateforme développée avec le noyau Java et C++ ; Il convertit les fichiers binaires compilés en code source, offrant aux chercheurs en sécurité des décompilations avancées, une analyse symbolique et une prise en charge multi-architecture.
 
-- ★ 79 733
+- ★ 84 292
 - Java
 - GitHub Trending · 2026-08-28
 
 ## Mises à jour
 
+- **12 octobre 2026:** Étoiles 79,733 → 84,292, dernière version Ghidra_12.1.4_build (21 septembre 2026).
 - **27 septembre 2026:** Étoiles 78,142 → 79,733, dernière version Ghidra_12.1.4_build (21 septembre 2026).
 - **17 septembre 2026:** Étoiles 74,145 → 78,142, dernière version Ghidra_12.1.3_build (18 août 2026).
 - **31 août 2026:** Étoiles 73,203 → 74,145, dernière version Ghidra_12.1.3_build (18 août 2026).

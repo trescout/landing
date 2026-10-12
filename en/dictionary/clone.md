@@ -66,13 +66,13 @@ Yes. Just run git pull inside the folder. If you have changes, you need to commi
 ## Related tools
 
 - [MoneyPrinterTurbo](https://trescout.com/en/discover/moneyprinterturbo/)
+- [BitNet](https://trescout.com/en/discover/bitnet/)
 - [VoxCPM](https://trescout.com/en/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/en/discover/clone-wars/)
 - [Univer](https://trescout.com/en/discover/univer/)
 - [OpenStock](https://trescout.com/en/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/en/discover/hermes-webui/)
 - [openGym](https://trescout.com/en/discover/opengym/)
-- [Production Agentic RAG Course](https://trescout.com/en/discover/production-agentic-rag-course/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/clone/)
 

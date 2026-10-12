@@ -62,9 +62,9 @@ Ich möchte mithilfe des Production-Agentic-Rag-Course-Projekts einen wissenscha
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Clone](https://trescout.com/de/dictionary/clone/)
 - [Agentic](https://trescout.com/de/dictionary/agentic/)
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
+- [Clone](https://trescout.com/de/dictionary/clone/)
 - [RAG](https://trescout.com/de/dictionary/rag/)
 - [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

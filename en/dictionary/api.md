@@ -47,10 +47,10 @@ Since it only allows sharing of permitted data, it only opens the relevant part 
 - [Firecrawl](https://trescout.com/en/discover/firecrawl/)
 - [Transformers](https://trescout.com/en/discover/transformers/)
 - [Langflow](https://trescout.com/en/discover/langflow/)
+- [Open Webui](https://trescout.com/en/discover/open-webui/)
 - [Free for Dev](https://trescout.com/en/discover/free-for-dev/)
 - [ComfyUI](https://trescout.com/en/discover/comfyui/)
 - [MoneyPrinterTurbo](https://trescout.com/en/discover/moneyprinterturbo/)
-- [Browser Use](https://trescout.com/en/discover/browser-use/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/api/)
 

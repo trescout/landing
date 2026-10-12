@@ -62,9 +62,9 @@ Quiero desarrollar un asistente de investigación académica utilizando el proye
 
 ## Términos relacionados del glosario
 
-- [Clone](https://trescout.com/es/dictionary/clone/)
 - [Agentic](https://trescout.com/es/dictionary/agentic/)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
+- [Clone](https://trescout.com/es/dictionary/clone/)
 - [RAG](https://trescout.com/es/dictionary/rag/)
 - [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

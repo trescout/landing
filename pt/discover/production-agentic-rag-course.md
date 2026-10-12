@@ -62,9 +62,9 @@ Quero desenvolver um assistente de pesquisa acadêmica usando o projeto de curso
 
 ## Termos relacionados do glossário
 
-- [Clone](https://trescout.com/pt/dictionary/clone/)
 - [Agentic](https://trescout.com/pt/dictionary/agentic/)
 - [Localhost](https://trescout.com/pt/dictionary/localhost/)
+- [Clone](https://trescout.com/pt/dictionary/clone/)
 - [RAG](https://trescout.com/pt/dictionary/rag/)
 - [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
