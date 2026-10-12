@@ -25,9 +25,9 @@ DICT = os.path.join(ROOT, "dictionary")
 OG = os.path.join(ROOT, "assets", "dictionary")
 MANIFEST = os.path.join(OG, "dictionary.json")
 SITEMAP = os.path.join(ROOT, "sitemap.xml")
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gemini_zinciri  # noqa: E402 · model zinciri, 429 ayrımı, istek aralığı
 from html_md import md_dosyasi  # noqa: E402 · .md sayfanın kendisinden (md-uret.py ile aynı)
+from kaldirilan import terim_engelli_mi  # noqa: E402 · hak sahibi bildirimiyle kaldırılan sözlük terimlerini süzer
 DRY = "--dry" in sys.argv
 CAT_TR = {"ai": "Yapay Zekâ", "dev": "Geliştirme", "data": "Veri & Altyapı"}
 import datetime
@@ -150,6 +150,8 @@ def collect_glossary():
         for e in g:
             t=(e.get("term") or "").strip(); ex=(e.get("explanation") or e.get("definition") or "").strip()
             if t and ex:
+                if terim_engelli_mi(t):
+                    continue
                 k=t.lower()
                 if k not in seen or len(ex)>len(seen[k][1]): seen[k]=(t,ex)
     # JSON'da yoksa PDF yedeği
@@ -157,6 +159,8 @@ def collect_glossary():
         source_pdfs = [pp for pp in glob.glob(os.path.join(REPORTS,"*.pdf")) if is_turkish_report_pdf(pp)]
         for pp in sorted(source_pdfs):
             for e in parse_pdf_glossary(pp):
+                if terim_engelli_mi(e["term"]):
+                    continue
                 k=e["term"].lower()
                 if k not in seen or len(e["explanation"])>len(seen[k][1]): seen[k]=(e["term"],e["explanation"])
     return [{"term":t,"explanation":x} for t,x in seen.values()]

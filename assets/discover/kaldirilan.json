@@ -1,11 +1,14 @@
 {
-  "_aciklama": "Hak sahibi bildirimi (DMCA vb.) ya da yayın kararıyla kaldırılan keşif kayıtları. Üretici bu depoları bir daha keşfe almaz; scripts/check-kaldirilan.py hiçbir yayın dosyasında izlerinin kalmadığını denetler. Kayıt eklemek: buraya yazın, sonra python3 scripts/kaldirilan.py --uygula.",
+  "_aciklama": "Hak sahibi bildirimi (DMCA vb.) ya da yayın kararıyla kaldırılan keşif ve sözlük kayıtları. Üretici bu depoları bir daha keşfe almaz; scripts/check-kaldirilan.py hiçbir yayın dosyasında izlerinin kalmadığını denetler. Kayıt eklemek: buraya yazın, sonra python3 scripts/kaldirilan.py --uygula.",
   "kayitlar": [
     {
       "slug": "wand-enhancer",
       "repolar": [
         "https://github.com/k1tbyte/wand-enhancer",
         "https://github.com/the1andonlych33s3/wand-enhancer"
+      ],
+      "sozluk_terimleri": [
+        "wemod"
       ],
       "tarih": "2026-10-12",
       "gerekce": "DMCA bildirimi · Web Sheriff, WeMod LLC adına (trescout.com/en/discover/wand-enhancer)"

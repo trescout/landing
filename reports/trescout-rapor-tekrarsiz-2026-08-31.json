@@ -647,10 +647,6 @@
   ],
   "glossary": [
     {
-      "term": "WeMod",
-      "explanation": "Bilgisayar oyunlarında hile yapmayı veya oyun ayarlarını değiştirmeyi kolaylaştıran bir yazılım platformu."
-    },
-    {
       "term": "large language model",
       "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
     },
