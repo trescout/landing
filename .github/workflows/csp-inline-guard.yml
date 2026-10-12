@@ -29,6 +29,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+      - name: Homepage signup layout contract
+        run: node --test scripts/home-layout.test.mjs
       - name: Rapor snapshot helper testi
         run: node --test scripts/report-snapshot.test.js
       - name: Erken erişim API sözleşme testi

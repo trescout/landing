@@ -79,7 +79,7 @@ M = {
                         "kurulduğu ve raporlardaki geçmişi. Şu anda {n} proje bulunuyor."),
         "kesif_bu": "Bu rapordan:", "kesif_git": "Keşfe gidin",
         "erken_h2": "Haberdar olun",
-        "erken_metin": "Erken erişim başladığında haberdar olmak için listeye katılabilirsiniz. Hangi özelliklerin geleceği ve ne zaman geleceği henüz belli değil.",
+        "erken_metin": "Erken erişim başladığında haberdar olmak için listeye katılabilirsiniz.",
         "eposta": "E-posta adresi", "eposta_yer": "E-posta adresiniz", "katil": "Listeye katılın",
     },
     "en": {
@@ -112,7 +112,7 @@ M = {
                         "does, how to set it up, and its history in our reports. {n} projects so far."),
         "kesif_bu": "From this report:", "kesif_git": "Go to Discover",
         "erken_h2": "Stay informed",
-        "erken_metin": "Join the list to hear when early access opens. Which features will come, and when, is not decided yet.",
+        "erken_metin": "Join the list to hear when early access opens.",
         "eposta": "Email address", "eposta_yer": "Your email address", "katil": "Join the list",
     },
     "fr": {
@@ -145,7 +145,7 @@ M = {
                         "comment l'installer et son historique dans nos rapports. {n} projets à ce jour."),
         "kesif_bu": "Dans ce rapport :", "kesif_git": "Aller à Découvrir",
         "erken_h2": "Restez informés",
-        "erken_metin": "Inscrivez-vous pour être averti de l'ouverture de l'accès anticipé. Les fonctionnalités et leur calendrier ne sont pas encore décidés.",
+        "erken_metin": "Inscrivez-vous pour être averti de l'ouverture de l'accès anticipé.",
         "eposta": "Adresse e-mail", "eposta_yer": "Votre adresse e-mail", "katil": "Rejoindre la liste",
     },
     "pt": {
@@ -178,7 +178,7 @@ M = {
                         "que serve, como instalar e seu histórico nos relatórios. {n} projetos até agora."),
         "kesif_bu": "Deste relatório:", "kesif_git": "Ir para Descobrir",
         "erken_h2": "Fique por dentro",
-        "erken_metin": "Entre na lista para saber quando o acesso antecipado abrir. Ainda não está definido quais recursos virão nem quando.",
+        "erken_metin": "Entre na lista para saber quando o acesso antecipado abrir.",
         "eposta": "Endereço de e-mail", "eposta_yer": "Seu e-mail", "katil": "Entrar na lista",
     },
     "es": {
@@ -211,7 +211,7 @@ M = {
                         "qué sirve, cómo instalarlo y su historial en los informes. {n} proyectos hasta ahora."),
         "kesif_bu": "De este informe:", "kesif_git": "Ir a Descubrir",
         "erken_h2": "Manténgase al día",
-        "erken_metin": "Únase a la lista para saber cuándo se abre el acceso anticipado. Todavía no está decidido qué funciones llegarán ni cuándo.",
+        "erken_metin": "Únase a la lista para saber cuándo se abre el acceso anticipado.",
         "eposta": "Correo electrónico", "eposta_yer": "Su correo electrónico", "katil": "Unirse a la lista",
     },
     "de": {
@@ -245,7 +245,7 @@ M = {
                         "Berichten. Bisher {n} Projekte."),
         "kesif_bu": "Aus diesem Bericht:", "kesif_git": "Zu Entdecken",
         "erken_h2": "Bleiben Sie informiert",
-        "erken_metin": "Tragen Sie sich ein, um zu erfahren, wann der Vorabzugang öffnet. Welche Funktionen wann kommen, steht noch nicht fest.",
+        "erken_metin": "Tragen Sie sich ein, um zu erfahren, wann der Vorabzugang öffnet.",
         "eposta": "E-Mail-Adresse", "eposta_yer": "Ihre E-Mail-Adresse", "katil": "Eintragen",
     },
 }
@@ -471,18 +471,25 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
                               else m["serit_bosluk_cok"].format(sayi=len(bos), son=tarih(bos[-1], m)))
 
     rapor_url = f"{o}/reports/{t}/"
-    bant = (
-        f'<section class="ana-bant" id="son-rapor" aria-labelledby="ana-tarih">'
+    giris_bandi = (
+        f'<section class="ana-bant" aria-labelledby="ana-baslik">'
         f'<div class="container ana-bant-ic"><div class="ana-bant-sol">'
-        f'<p class="ana-gun">{e(m["son_rapor"])}</p>'
+        f'<h1 id="ana-baslik">{e(m["h1"])}</h1><p class="ana-giris">{e(m["giris"])}</p>'
+        f'</div>'
+    )
+    rapor_bilgisi = (
+        f'<section class="ana-rapor-bilgisi" id="son-rapor" aria-labelledby="ana-tarih">'
         f'<p class="ana-tarih" id="ana-tarih"><time datetime="{t}">{e(tarih(t, m))}</time></p>'
+        f'<p class="ana-gun">{e(m["son_rapor"])}</p>'
         f'<p class="ana-ozet">{e(ozet)}</p>'
         f'<div class="ana-eylem"><a class="btn btn-primary ana-dugme" href="{rapor_url}">{e(m["oku"])}</a>'
         f'<a class="ana-bant-baglanti" href="{pdf_yolu(dil, t)}">{e(m["pdf"])}</a></div>'
-        f'</div><div class="ana-bant-sag"><p class="ana-serit-metni">{e(serit_metni)}</p>'
-        f'{serit(gunler[-SERIT_GENIS:], rapor_gunleri, t, m, "ana-serit-genis", m["serit_etiket"])}'
-        f'{serit(gunler[-SERIT_DAR:], rapor_gunleri, t, m, "ana-serit-dar")}'
-        f'</div></div></section>'
+        f'</section>'
+    )
+    gecmis = (
+        f'<div class="ana-gecmis"><p class="ana-serit-metni">{e(serit_metni)}</p>'
+        f'{serit(gunler[-SERIT_DAR:], rapor_gunleri, t, m, "ana-serit-dar", m["serit_etiket"])}'
+        f'</div>'
     )
 
     # kaynak bölümleri
@@ -543,12 +550,14 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
         + f'<p><a class="ana-git" href="{o}/discover/">{e(m["kesif_git"])}</a></p></section>'
     )
 
+    tamami = (f'<p class="ana-tamami"><a class="btn ana-dugme-koyu" href="{rapor_url}">'
+              f'{e(m["tamami"].format(n=n))}</a></p><p class="ana-yz">{e(m["yz"])}</p>')
     yan = (
         f'<aside class="ana-yan"><h2>{e(m["yan_kaynak"])}</h2><ul class="ana-dagilim">{dagilim}</ul>'
         + kesif
         + (f'<h2>{e(m["yan_terim"])}</h2><ul class="ana-terimler">{"".join(terimler)}</ul>' if terimler else "")
         + f'<p class="ana-yan-baglanti"><a href="{o}/dictionary/">{e(m["sozluk"].format(n=sayi(sayfa_sayisi(dil, "dictionary"), m)))}</a></p>'
-        f'</aside>'
+        + tamami + gecmis + '</aside>'
     )
 
     form_id = f"email-final-{dil}"
@@ -565,13 +574,11 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
         f'</form></section>'
     )
 
-    tamami = (f'<p class="ana-tamami"><a class="btn ana-dugme-koyu" href="{rapor_url}">'
-              f'{e(m["tamami"].format(n=n))}</a></p><p class="ana-yz">{e(m["yz"])}</p>')
     govde = (
-        f'<div class="container ana-govde"><div class="ana-icerik"><h1>{e(m["h1"])}</h1>'
-        f'<p class="ana-giris">{e(m["giris"])}</p>{"".join(bolumler)}{tamami}</div>{yan}</div>'
-        f'<div class="container ana-alt">{erken}</div>'
+        f'<div class="container ana-govde"><div class="ana-icerik">{rapor_bilgisi}'
+        f'{"".join(bolumler)}</div>{yan}</div>'
     )
+    bant = f'{giris_bandi}<div class="ana-bant-sag">{erken}</div></div></section>'
     return f'<main id="main">\n{bant}\n{govde}\n  </main>'
 
 

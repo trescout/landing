@@ -13,3 +13,13 @@
 ## Brand share cover · 2026-10-10
 
 [Brief, specialist prompts, review limitations and validation](prompts/2026-10-10-brand-share-cover.md).
+
+## Homepage signup layout · 2026-10-12
+
+- User approved moving the single signup form to the upper right and history strip to the sidebar, then requested swapping the introduction and latest-report block.
+- Final user revision: full-report link and AI note move to the sidebar, immediately above publication history at the very bottom. Logo deferred; merge explicitly requested.
+- Preserve report data, legal consent and subscription behavior in six locales. Keep the existing caption below the date. Remove only the second uncertainty sentence from the existing signup copy.
+- Tool: Codex. Repository brainstorming, brand-voice, pre-review and traceability guidance used. No new marketing promises.
+- Gemini CLI was unavailable (missing configured key); user explicitly waived that check. Claude CLI review was also attempted but unavailable (not logged in); Codex self-review and executable/browser checks are recorded instead, not represented as a Claude review.
+- Validation: homepage contract added to CI; subscription/provider/telemetry tests and site guards; responsive DOM checks at 320/390/1440 px across six locales; desktop/mobile screenshot inspection. Live consent-negative request returned 400 without submitting an email or creating a subscriber. This does not prove end-to-end production delivery or a cause for declining signups.
+- Deferred: catalogue pagination/random browsing, detail-page sidebars, rotated logo comparison, analytics/Audience investigation. Existing navigation spacing measured and left unchanged.
