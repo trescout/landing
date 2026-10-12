@@ -9,7 +9,7 @@
   display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 40px 56px; align-items: center;
   padding-top: 32px; padding-bottom: 40px;
 }
-.ana-gun { margin-top: 8px; font-size: var(--text-small); }
+.ana-gun { font-family: var(--font-body); font-size: var(--text-small); font-weight: 400; letter-spacing: normal; white-space: nowrap; }
 .ana-tarih {
   font-family: var(--font-display); font-weight: 800;
   font-size: var(--text-h2); line-height: 1.1; letter-spacing: -.02em;

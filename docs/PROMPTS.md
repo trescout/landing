@@ -16,6 +16,8 @@
 
 ## Homepage signup layout · 2026-10-12
 
+Follow-up: user requested two items per source instead of 3/2/2/1 and the existing latest-report label parenthesized beside the date. Change generator/CSS across six locales; preserve reports, consent and the user's unrelated apple-touch-icon.png edit. Add snapshot-backed item-count and inline-caption assertions. Codex implementation/review; no new translated copy.
+
 - User approved moving the single signup form to the upper right and history strip to the sidebar, then requested swapping the introduction and latest-report block.
 - Final user revision: full-report link and AI note move to the sidebar, immediately above publication history at the very bottom. Logo deferred; merge explicitly requested.
 - Preserve report data, legal consent and subscription behavior in six locales. Keep the existing caption below the date. Remove only the second uncertainty sentence from the existing signup copy.
