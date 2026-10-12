@@ -7163,19 +7163,6 @@
     "kisa_de": "Die amerikanische Regierungsbehörde, die durch die Überwachung von Internet- und Kommunikationsnetzwerken Informationen für die nationale Sicherheit sammelt."
   },
   {
-    "slug": "wemod",
-    "en": "WeMod",
-    "full": "",
-    "cat": "dev",
-    "kisa": "Bilgisayar oyunlarında hile yapmayı veya oyun ayarlarını değiştirmeyi kolaylaştıran bir yazılım platformu.",
-    "date": "2026-09-01",
-    "kisa_en": "A software platform that facilitates cheating in computer games or modifying game settings.",
-    "kisa_fr": "Une plateforme logicielle qui facilite la triche dans les jeux vidéo ou la modification des paramètres de jeu.",
-    "kisa_pt": "Uma plataforma de software que facilita a trapaça em jogos de computador ou a alteração das configurações dos jogos.",
-    "kisa_es": "Una plataforma de software que facilita hacer trampas en los videojuegos o modificar los ajustes del juego.",
-    "kisa_de": "Eine Softwareplattform, die das Schummeln in Computerspielen oder das Ändern von Spieleinstellungen erleichtert."
-  },
-  {
     "slug": "llm-inference",
     "en": "LLM Inference",
     "full": "",
