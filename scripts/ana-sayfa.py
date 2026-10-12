@@ -40,7 +40,7 @@ RAPOR = os.path.join(ROOT, "reports")
 DILLER_SIRA = ["tr"] + list(DILLER)
 
 # Ana sayfada kaynak başına gösterilen madde · raporun tamamı rapor sayfasında
-GOSTER = {"github": 3, "hackernews": 2, "huggingface": 2, "hfpapers": 1, "lobsters": 1}
+GOSTER = 2
 SERIT_GENIS, SERIT_DAR = 140, 60   # gün · masaüstü ve dar ekran şeridi
 ADIM = 5                           # px · bir gün (3 px çizgi + 2 px boşluk)
 
@@ -479,8 +479,8 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
     )
     rapor_bilgisi = (
         f'<section class="ana-rapor-bilgisi" id="son-rapor" aria-labelledby="ana-tarih">'
-        f'<p class="ana-tarih" id="ana-tarih"><time datetime="{t}">{e(tarih(t, m))}</time></p>'
-        f'<p class="ana-gun">{e(m["son_rapor"])}</p>'
+        f'<p class="ana-tarih" id="ana-tarih"><time datetime="{t}">{e(tarih(t, m))}</time> '
+        f'<span class="ana-gun">({e(m["son_rapor"])})</span></p>'
         f'<p class="ana-ozet">{e(ozet)}</p>'
         f'<div class="ana-eylem"><a class="btn btn-primary ana-dugme" href="{rapor_url}">{e(m["oku"])}</a>'
         f'<a class="ana-bant-baglanti" href="{pdf_yolu(dil, t)}">{e(m["pdf"])}</a></div>'
@@ -500,7 +500,7 @@ def main_html(dil, t, butun_tarihler, ortak_tarihler):
         if not s["items"] or k not in m["kaynaklar"]:
             continue
         lis = []
-        for it in s["items"][: GOSTER.get(k, 1)]:
+        for it in s["items"][:GOSTER]:
             varlik = [it["url"] in urller(x) for x in son7]
             sayilar, prog_dili = madde_sayilari(k, it, m)
             donen = it["url"] in eski

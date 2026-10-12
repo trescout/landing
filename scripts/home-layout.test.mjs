@@ -9,7 +9,15 @@ for (const locale of ['', 'en/', 'fr/', 'pt/', 'es/', 'de/']) {
     assert.equal((main.match(/<form\b/g) || []).length, 1);
     const band = main.slice(0, main.indexOf('<div class="container ana-govde">'));
     assert.ok(band.includes('<div class="ana-bant-sag"><section class="ana-erken" id="cta">'));
-    assert.ok(main.indexOf('class="ana-tarih"') < main.indexOf('class="ana-gun"'));
+    assert.match(main, /<p class="ana-tarih"[^>]*><time[^>]*>[^<]+<\/time> <span class="ana-gun">\([^<]+\)<\/span><\/p>/);
+    const date = main.match(/<time datetime="([^"]+)"/)[1];
+    const reportName = locale ? `trescout-report-${date}-${locale.slice(0, -1)}.json` : `trescout-rapor-${date}.json`;
+    const report = JSON.parse(readFileSync(new URL(`../reports/${reportName}`, import.meta.url), 'utf8'));
+    for (const section of main.matchAll(/<section class="ana-kaynak" id="kaynak-([^"]+)">([\s\S]*?)<\/section>/g)) {
+      const source = report.sections.find(s => s.sourceName === section[1]);
+      assert.ok(source);
+      assert.equal((section[2].match(/<li class="ana-madde">/g) || []).length, Math.min(2, source.items.length));
+    }
     assert.ok(band.includes('<h1 id="ana-baslik">'));
     assert.ok(!band.includes('class="ana-tarih"'));
     assert.ok(main.includes('<div class="ana-icerik"><section class="ana-rapor-bilgisi"'));
