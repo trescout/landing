@@ -300,4 +300,5 @@ allHtmls.forEach(relPath => {
   }
 });
 
+require('./catalog-layout.js').updateAll();
 console.log(`Completed! Fixed ${fixedHeaderCount} headers, ${fixedFooterCount} footers and normalized report scripts on ${normalizedReportScriptsCount} pages across all ${allHtmls.length} HTML files.`);

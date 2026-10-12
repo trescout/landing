@@ -385,4 +385,5 @@ ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
 }
 
 for (const V of VARIANTS) buildVariant(V);
+require('./catalog-layout.js').updateAll();
 console.log(`Rapor sayfaları tamam · dil: ${LANG}`);

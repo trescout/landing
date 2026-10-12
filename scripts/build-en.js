@@ -529,4 +529,5 @@ ${discKabuk.footer}
 fs.writeFileSync(path.join(discIndexDir, 'index.html'), discIndexHtml, 'utf8');
 console.log(`Üretildi · ${PRE}/discover/index.html (${catalog.length} kayıt)`);
 
+require('./catalog-layout.js').updateAll();
 console.log(`build-en.js tamamlandı · dil: ${LANG}`);

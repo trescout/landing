@@ -33,6 +33,8 @@ jobs:
         run: node --test scripts/home-layout.test.mjs
       - name: Catalogue browsing contract
         run: node --test scripts/catalog-browsing.test.mjs
+      - name: Catalogue sidebar contract
+        run: node --test scripts/catalog-layout.test.mjs
       - name: Rapor snapshot helper testi
         run: node --test scripts/report-snapshot.test.js
       - name: Erken erişim API sözleşme testi

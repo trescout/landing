@@ -72,7 +72,7 @@
   if (!grid) return;
 
   var TAG_ORDER = ["Yapay zekâ araçları", "Geliştirici aracı", "Üretkenlik", "Öğrenme", "Kod bilmeyenler için"];
-  var state = { q: "", tag: null, sort: "date", limit: 24 };
+  var state = { q: "", tag: null, sort: "date", limit: 16 };
   var items = [];
   var more, progress, random;
   var randomPool = [];
@@ -100,7 +100,7 @@
     grid.after(paging);
     more.addEventListener('click', function () {
       var next = state.limit;
-      state.limit += 24;
+      state.limit += 16;
       render();
       var firstNew = grid.querySelectorAll('.disc-card')[next];
       if (firstNew) firstNew.focus();
@@ -163,7 +163,7 @@
     box.querySelectorAll('.disc-chip').forEach(function (b) {
       b.addEventListener('click', function () {
         state.tag = b.getAttribute('data-tag') || null;
-        state.limit = 24;
+        state.limit = 16;
         chips(); render();
       });
     });
@@ -186,7 +186,7 @@
       if (!items.length) { grid.innerHTML = '<p class="disc-loading">Yakında ilk keşifler burada.</p>'; return; }
       browsingControls(); chips(); render();
       var s = document.getElementById('disc-search');
-      if (s) s.addEventListener('input', function () { state.q = s.value; state.limit = 24; render(); });
+      if (s) s.addEventListener('input', function () { state.q = s.value; state.limit = 16; render(); });
       var so = document.getElementById('disc-sort');
       /* Kontrol, listenin GERÇEK sırasını göstersin. Varsayılan 2026-08-19'da
          "stars"tan "date"e alındı ama açılır menünün ilk seçeneği "En çok
@@ -195,7 +195,7 @@
          değişse de ikisi ayrışmaz. */
       if (so) {
         so.value = state.sort;
-        so.addEventListener('change', function () { state.sort = so.value; state.limit = 24; render(); });
+        so.addEventListener('change', function () { state.sort = so.value; state.limit = 16; render(); });
       }
     })
     .catch(function () {
