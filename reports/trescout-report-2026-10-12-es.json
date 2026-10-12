@@ -1,0 +1,740 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-12",
+  "capturedAt": "2026-10-12T11:59:10.343Z",
+  "editorial": "Hoy, en la agenda tecnológica destacan los nuevos métodos de incrustación (embedding) que aumentan la eficiencia de los modelos de inteligencia artificial y los estudios académicos que miden el rendimiento del núcleo (kernel) de la GPU. Por otro lado, los debates en Hacker News se centran en la seguridad de las claves de acceso (passkeys) para la autenticación de identidad digital y la adaptación de juegos clásicos a sistemas modernos.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "rea, desarrollado con TypeScript, es una herramienta que analiza todo, desde el comportamiento de las aplicaciones hasta los archivos binarios nativos, mediante ingeniería inversa. Su objetivo es analizar los procesos de software utilizando agentes de inteligencia artificial.",
+          "meta": "TypeScript · ★ 131.776 · +45.495 hoy",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 131776,
+              "engagementCount": 45495,
+              "rank": 1,
+              "extra": {
+                "starsToday": 45495
+              }
+            }
+          }
+        },
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "bilawalsidhu/gods-eye-view es un simulador de satélite espía que funciona en el navegador y utiliza datos reales. Desarrollado con el lenguaje JavaScript, este proyecto presenta datos de inteligencia espacial en vivo sobre una esfera 3D fotorrealista.",
+          "meta": "JavaScript · ★ 52.634 · +1.903 hoy",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 52634,
+              "engagementCount": 1903,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1903
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode es una herramienta de TypeScript que proporciona optimización de la ventana de contexto para agentes de codificación de inteligencia artificial. Al aislar (sandboxing) las salidas de la herramienta, reduce el tamaño de los datos en un 98 por ciento, preserva la memoria de la sesión y redirige a 17 plataformas diferentes a través del Protocolo de Conexión de Modelos (MCP).",
+          "meta": "TypeScript · ★ 26.802 · +485 hoy",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 26802,
+              "engagementCount": 485,
+              "rank": 3,
+              "extra": {
+                "starsToday": 485
+              }
+            }
+          }
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft es un motor de creación intencional desarrollado para artistas, diseñadores y cineastas. Escrita en el lenguaje de programación Rust, esta herramienta está diseñada para gestionar las etapas de producción en los procesos creativos.",
+          "meta": "Rust · ★ 19.914 · +4.106 hoy",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 19914,
+              "engagementCount": 4106,
+              "rank": 4,
+              "extra": {
+                "starsToday": 4106
+              }
+            }
+          }
+        },
+        {
+          "title": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "summary": "open-webui es una interfaz fácil de usar que permite interactuar con modelos de inteligencia artificial como Ollama y la API de OpenAI. Ofrece una interfaz basada en web desarrollada para gestionar modelos de lenguaje locales o basados en la nube.",
+          "meta": "Python · ★ 154.419 · +142 hoy",
+          "snapshot": {
+            "sourceId": "open-webui/open-webui",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 154419,
+              "engagementCount": 142,
+              "rank": 5,
+              "extra": {
+                "starsToday": 142
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design ofrece 44 tipos diferentes de diseños de diagramas editoriales para herramientas de inteligencia artificial como Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid y Pi. El proyecto consiste en plantillas visuales preparadas directamente en formato HTML y SVG, que no contienen efectos de sombra y no requieren dependencias externas.",
+          "meta": "HTML · ★ 51.653 · +2.100 hoy",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 51653,
+              "engagementCount": 2100,
+              "rank": 6,
+              "extra": {
+                "starsToday": 2100
+              }
+            }
+          }
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM permite ejecutar grandes modelos de lenguaje (large language models) de 70 mil millones de parámetros en unidades de procesamiento gráfico (GPU) con solo 4 GB de memoria. Este método permite ejecutar modelos de inteligencia artificial que requieren un hardware de alto rendimiento en recursos limitados.",
+          "meta": "Jupyter Notebook · ★ 36.998 · +886 hoy",
+          "snapshot": {
+            "sourceId": "lyogavin/airllm",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 36998,
+              "engagementCount": 886,
+              "rank": 7,
+              "extra": {
+                "starsToday": 886
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "summary": "BitNet, desarrollado por Microsoft, ofrece un marco de inferencia oficial para grandes modelos de lenguaje (LLMs) de 1 bit. Escrita en C++, esta herramienta tiene como objetivo optimizar la ejecución de modelos de baja precisión de bits.",
+          "meta": "C++ · ★ 40.731 · +195 hoy",
+          "snapshot": {
+            "sourceId": "microsoft/BitNet",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 40731,
+              "engagementCount": 195,
+              "rank": 8,
+              "extra": {
+                "starsToday": 195
+              }
+            }
+          }
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Alishahryar1/free-claude-code es un proyecto de Python que proporciona acceso gratuito a diversas herramientas como Claude Code, Codex y VSCode a través de la terminal, aplicaciones, IDE o navegador. Ofrece a los usuarios más de 1.3 mil millones de tokens gratuitos, permitiéndoles utilizar diferentes modelos e interfaces a través de una única plataforma.",
+          "meta": "Python · ★ 58.287 · +506 hoy",
+          "snapshot": {
+            "sourceId": "Alishahryar1/free-claude-code",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 58287,
+              "engagementCount": 506,
+              "rank": 9,
+              "extra": {
+                "starsToday": 506
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Passkeys are a trap",
+          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+          "summary": "Las Passkeys (claves de acceso sin contraseña) se consideran una trampa que hace que los usuarios dependan de plataformas específicas y dificulta el acceso a las cuentas. El artículo sostiene que, a pesar de las ventajas de seguridad de esta tecnología, limita el control del usuario.",
+          "meta": "698 puntos · 402 comentarios",
+          "snapshot": {
+            "sourceId": "50048312",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 698,
+              "engagementCount": 402,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50048312",
+                  "popularity": 698,
+                  "engagementCount": 402
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-11T21:59:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50048312"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50048312",
+              "popularity": 698,
+              "engagementCount": 402
+            }
+          ]
+        },
+        {
+          "title": "Total Annihilation, rebuilt for modern computers",
+          "url": "https://nanolathe.gg/",
+          "summary": "Total Annihilation está siendo rediseñado para funcionar en computadoras modernas. El proyecto Nanolathe permite jugar al clásico juego de estrategia Total Annihilation de manera compatible con el hardware actual.",
+          "meta": "550 puntos · 210 comentarios",
+          "snapshot": {
+            "sourceId": "50045984",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 550,
+              "engagementCount": 210,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50045984",
+                  "popularity": 550,
+                  "engagementCount": 210
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-11T18:04:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50045984"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50045984",
+              "popularity": 550,
+              "engagementCount": 210
+            }
+          ]
+        },
+        {
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "summary": "Existe una desconexión grave en la comprensión común sobre las capacidades de los grandes modelos de lenguaje (large language models). Esta situación muestra que la brecha entre las expectativas sobre lo que pueden hacer los sistemas de inteligencia artificial y su rendimiento real en el mundo tecnológico se está ampliando.",
+          "meta": "503 puntos · 732 comentarios",
+          "snapshot": {
+            "sourceId": "50047422",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 503,
+              "engagementCount": 732,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50047422",
+                  "popularity": 503,
+                  "engagementCount": 732
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-11T20:20:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50047422"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50047422",
+              "popularity": 503,
+              "engagementCount": 732
+            }
+          ]
+        },
+        {
+          "title": "NYC's \"Click to Cancel\" rule is now in effect",
+          "url": "https://www.nyc.gov/main/click-to-cancel",
+          "summary": "La regla \"Click to Cancel\" (Clic para cancelar) que ha entrado en vigor en la ciudad de Nueva York tiene como objetivo simplificar los procesos de cancelación de suscripciones. Obliga a las empresas a ofrecer a los usuarios la opción de finalizar su suscripción con la misma facilidad con la que se inscribieron.",
+          "meta": "498 puntos · 245 comentarios",
+          "snapshot": {
+            "sourceId": "50045946",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 498,
+              "engagementCount": 245,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50045946",
+                  "popularity": 498,
+                  "engagementCount": 245
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-11T18:01:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50045946"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50045946",
+              "popularity": 498,
+              "engagementCount": 245
+            }
+          ]
+        },
+        {
+          "title": "Fingerprints are the new cookies",
+          "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+          "summary": "La tecnología de huella digital (fingerprint) está reemplazando a las cookies que los sitios web utilizan para rastrear a los usuarios. Este método continúa el seguimiento de datos personales identificando dispositivos a través de la configuración del navegador.",
+          "meta": "437 puntos · 223 comentarios",
+          "snapshot": {
+            "sourceId": "50048642",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 223,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50048642",
+                  "popularity": 437,
+                  "engagementCount": 223
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-11T22:33:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50048642"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50048642",
+              "popularity": 437,
+              "engagementCount": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Desarrollado por Google, embeddinggemma-2 es un modelo de extracción de características (feature-extraction) que convierte datos de texto en vectores numéricos. Este modelo, disponible en la plataforma HuggingFace, se utiliza para crear representaciones semánticas de textos en tareas de procesamiento de lenguaje natural.",
+          "meta": "♥ 1.835 · 115.763 descargas",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 1835,
+              "engagementCount": 115763,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1682,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "jialinyyzz/humanizer, compartido en HuggingFace, es un modelo de inteligencia artificial centrado en la generación de texto (text-generation). Ofrece una opción que los usuarios pueden preferir en sus procesos de creación de textos.",
+          "meta": "♥ 1.223 · 46.070 descargas",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 1223,
+              "engagementCount": 46070,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 996,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "clef, desarrollado por Cloudflare, es un modelo que procesa entradas visuales y de texto para producir una salida de texto (modelo image-text-to-text). Este modelo, compartido en la plataforma HuggingFace, ofrece capacidades de procesamiento de datos multimodales.",
+          "meta": "♥ 2.060 · 15.064 descargas",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 2060,
+              "engagementCount": 15064,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 618,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized es un modelo de inteligencia artificial que realiza la conversión de texto a imagen (text-to-image). El modelo destaca por su estructura sin censura (uncensored) y su formato comprimido (quantized).",
+          "meta": "♥ 4.045 · 2.188.658 descargas",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 4045,
+              "engagementCount": 2188658,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 600,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "mlx",
+                  "fp8",
+                  "nvfp4",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "summary": "Qwen/Qwen-Image-2.1-Turbo, compartido en HuggingFace, es un modelo de inteligencia artificial con capacidad de creación de imágenes a partir de texto (text-to-image). Permite a los usuarios convertir sus comandos escritos en contenido visual.",
+          "meta": "♥ 589 · 6.787 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1-Turbo",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 589,
+              "engagementCount": 6787,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 569,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:finetune:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "MetaKernelBench: Measuring GPU Kernel Knowledge Transfer Beyond Code",
+          "url": "https://huggingface.co/papers/2610.05014",
+          "summary": "MetaKernelBench mide qué tan bien los agentes de inteligencia artificial que optimizan núcleos de GPU pueden transferir las experiencias adquiridas entre lenguajes específicos de dominio (DSL). La herramienta evalúa, a través de 74 problemas diferentes, si el conocimiento aprendido en un área mejora los procesos de solución en otro lenguaje.",
+          "meta": "8 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.05014",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05014",
+                "publishedAt": "2026-10-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/YIGE24/MetaKernelBench"
+              }
+            }
+          }
+        },
+        {
+          "title": "Universal Textual Teaching for LLMs",
+          "url": "https://huggingface.co/papers/2610.12114",
+          "summary": "Universal Textual Teaching realiza la transferencia de conocimiento en grandes modelos de lenguaje (LLM) mediante un método basado en texto en lugar de entrenar los parámetros del modelo. Este enfoque tiene como objetivo superar las limitaciones de los métodos tradicionales de destilación de conocimiento (knowledge distillation), facilitando la reutilización e interpretación del conocimiento entre diferentes arquitecturas.",
+          "meta": "6 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.12114",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12114",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Less from More: Reinforcing Sparse Video Reasoning from Dense References",
+          "url": "https://huggingface.co/papers/2610.10893",
+          "summary": "El artículo \"Less from More: Reinforcing Sparse Video Reasoning from Dense References\" se centra en que los modelos de video-lenguaje (video-language models) realicen inferencias fiables con datos visuales limitados en lugar de procesar un gran número de fotogramas. El marco de entrenamiento denso-a-disperso (dense-to-sparse) llamado SAVER permite que el modelo realice inferencias con fotogramas dispersos tomando como referencia datos de video densos durante la fase de entrenamiento.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.10893",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.10893",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/lmsdss/SAVER",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Encore: Few-Shot Agentic Discovery of Manipulation Strategies",
+          "url": "https://huggingface.co/papers/2609.37359",
+          "summary": "Encore utiliza el método de aprendizaje de pocos ejemplos (few-shot learning) para descubrir estrategias de manipulación complejas en tareas robóticas. El sistema procesa las demostraciones proporcionadas como evidencia legible en lugar de datos de entrenamiento, acelerando el proceso de prueba y error de los agentes robóticos.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.37359",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37359",
+                "publishedAt": "2026-09-29T12:21:27.000Z",
+                "githubRepo": "https://github.com/YIFANK/encore",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
+          "url": "https://huggingface.co/papers/2610.13527",
+          "summary": "S-Space, que examina las capacidades de razonamiento espacial de los modelos de lenguaje multimodales, presenta un subespacio de representación lineal donde las representaciones de tokens de objetos codifican coordenadas en los ejes horizontal, vertical y de profundidad. Este estudio revela que dichos ejes espaciales existen de forma natural en la estructura interna de los modelos, independientemente de los datos específicos.",
+          "meta": "134 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.13527",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 134,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.13527",
+                "publishedAt": "2026-10-09T12:48:41.000Z",
+                "githubRepo": "https://github.com/mirros-lab/s-space",
+                "githubStars": 244
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Archivos de programa listos para usar que pueden ser ejecutados directamente por el procesador de la computadora y no requieren una instalación especial."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "El proceso de ingeniería inversa del código o la estructura de un software ya preparado para comprender cómo funciona."
+    },
+    {
+      "term": "spatial intelligence",
+      "explanation": "La capacidad de comprender las posiciones de objetos o datos en un entorno tridimensional y sus relaciones entre sí."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Un método de organización que permite a la inteligencia artificial utilizar de manera más eficiente la cantidad de información que puede procesar a la vez."
+    },
+    {
+      "term": "sandboxing",
+      "explanation": "La ejecución de un software en un área segura y aislada para evitar que dañe el resto del sistema."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Un protocolo de conexión estándar que permite a los modelos de inteligencia artificial comunicarse de forma segura con diferentes fuentes de datos y aplicaciones."
+    },
+    {
+      "term": "intentional crafting engine",
+      "explanation": "Una herramienta de software desarrollada por la empresa ArtCraft que permite a artistas y diseñadores generar contenido orientado a objetivos específicos."
+    },
+    {
+      "term": "interface",
+      "explanation": "La pantalla visual o panel de control que el usuario ve e interactúa para gestionar un software."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con volúmenes masivos de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Una unidad de hardware especializada diseñada para acelerar operaciones matemáticas intensivas, como el procesamiento de imágenes y los cálculos de inteligencia artificial."
+    },
+    {
+      "term": "LLMs",
+      "explanation": "Modelos de inteligencia artificial entrenados con volúmenes masivos de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "inference framework",
+      "explanation": "La infraestructura de software que permite a un modelo de inteligencia artificial entrenado realizar predicciones o generar resultados sobre nuevos datos."
+    },
+    {
+      "term": "token",
+      "explanation": "La unidad de datos más pequeña que utilizan los modelos de inteligencia artificial al procesar texto, correspondiente a fragmentos de palabras o caracteres."
+    },
+    {
+      "term": "Click to Cancel",
+      "explanation": "Norma legal que permite que los procesos de cancelación de suscripciones se realicen fácilmente con un solo clic, sin procesos complejos."
+    },
+    {
+      "term": "fingerprint",
+      "explanation": "Identidad digital única creada a partir de la configuración del dispositivo y la información del navegador del usuario, que sirve para reconocer a la persona en Internet."
+    },
+    {
+      "term": "cookies",
+      "explanation": "Pequeños archivos de datos que los sitios web dejan en el navegador para recordar las preferencias del usuario o realizar un seguimiento de las sesiones."
+    }
+  ]
+}

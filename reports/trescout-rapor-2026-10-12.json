@@ -1,0 +1,747 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-12",
+  "capturedAt": "2026-10-12T11:59:10.343Z",
+  "editorial": "Bugün teknoloji gündeminde yapay zeka modellerinin verimliliğini artıran yeni gömme (embedding) yöntemleri ve GPU çekirdek (kernel) performansını ölçümleyen akademik çalışmalar öne çıkıyor. Hacker News üzerindeki tartışmalar ise dijital kimlik doğrulama anahtarlarının (passkeys) güvenliği ve klasik oyunların modern sistemlere uyarlanması üzerine yoğunlaşıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "TypeScript ile geliştirilen rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi tersine mühendislik (reverse engineering) yöntemiyle analiz eden bir araçtır. Yapay zekâ ajanlarını kullanarak yazılım süreçlerini çözümlemeyi hedefler.",
+          "meta": "TypeScript · ★ 131.776 · +45.495 bugün",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 131776,
+              "engagementCount": 45495,
+              "rank": 1,
+              "extra": {
+                "starsToday": 45495
+              }
+            }
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "bilawalsidhu/gods-eye-view, tarayıcı üzerinde çalışan ve gerçek verileri kullanan bir casus uydu simülatörüdür. JavaScript diliyle geliştirilen bu proje, fotogerçekçi bir 3 boyutlu küre üzerinde canlı uzamsal istihbarat (spatial intelligence) verilerini sunar.",
+          "meta": "JavaScript · ★ 52.634 · +1.903 bugün",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 52634,
+              "engagementCount": 1903,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1903
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript aracıdır. Araç çıktılarını izole ederek (sandboxing) veri boyutunu yüzde 98 oranında azaltır, oturum hafızasını korur ve Model Bağlantı Protokolü (MCP) üzerinden 17 farklı platforma yönlendirme yapar.",
+          "meta": "TypeScript · ★ 26.802 · +485 bugün",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 26802,
+              "engagementCount": 485,
+              "rank": 3,
+              "extra": {
+                "starsToday": 485
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "ArtCraft, sanatçılar, tasarımcılar ve film yapımcıları için geliştirilmiş bir kasıtlı üretim motoru (intentional crafting engine). Rust programlama diliyle yazılan bu araç, yaratıcı süreçlerdeki üretim aşamalarını yönetmek için tasarlanmıştır.",
+          "meta": "Rust · ★ 19.914 · +4.106 bugün",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 19914,
+              "engagementCount": 4106,
+              "rank": 4,
+              "extra": {
+                "starsToday": 4106
+              }
+            }
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "summary": "open-webui, Ollama ve OpenAI API gibi yapay zekâ modelleriyle etkileşime geçmeyi sağlayan kullanıcı dostu bir arayüzdür. Yerel veya bulut tabanlı dil modellerini yönetmek için geliştirilmiş web tabanlı bir arayüz (interface) sunar.",
+          "meta": "Python · ★ 154.419 · +142 bugün",
+          "snapshot": {
+            "sourceId": "open-webui/open-webui",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 154419,
+              "engagementCount": 142,
+              "rank": 5,
+              "extra": {
+                "starsToday": 142
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design, Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid ve Pi gibi yapay zekâ araçlarına yönelik 44 farklı türde editoryal diyagram tasarımı sunuyor. Proje, gölge efektleri içermeyen ve harici bağımlılık gerektirmeyen, doğrudan HTML ve SVG formatında hazırlanan görsel şablonlardan oluşuyor.",
+          "meta": "HTML · ★ 51.653 · +2.100 bugün",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 51653,
+              "engagementCount": 2100,
+              "rank": 6,
+              "extra": {
+                "starsToday": 2100
+              }
+            }
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 70 milyar parametreli büyük dil modellerini (large language models) sadece 4 GB belleğe sahip grafik işlemcilerde (GPU) çalıştırmayı mümkün kılıyor. Bu yöntem, yüksek donanım gereksinimi duyan yapay zekâ modellerinin kısıtlı kaynaklarda çalıştırılmasına olanak tanıyor.",
+          "meta": "Jupyter Notebook · ★ 36.998 · +886 bugün",
+          "snapshot": {
+            "sourceId": "lyogavin/airllm",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 36998,
+              "engagementCount": 886,
+              "rank": 7,
+              "extra": {
+                "starsToday": 886
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "summary": "Microsoft tarafından geliştirilen BitNet, 1-bit büyük dil modelleri (LLMs) için resmi bir çıkarım çerçevesi (inference framework) sunuyor. C++ diliyle yazılan bu araç, düşük bit hassasiyetli modellerin çalıştırılmasını optimize etmeyi hedefliyor.",
+          "meta": "C++ · ★ 40.731 · +195 bugün",
+          "snapshot": {
+            "sourceId": "microsoft/BitNet",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 40731,
+              "engagementCount": 195,
+              "rank": 8,
+              "extra": {
+                "starsToday": 195
+              }
+            }
+          }
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Alishahryar1/free-claude-code, terminal, uygulama, IDE veya tarayıcı üzerinden Claude Code, Codex ve VSCode gibi çeşitli araçlara ücretsiz erişim sağlayan bir Python projesidir. Kullanıcılara 1,3 milyardan fazla ücretsiz belirteç (token) sunarak farklı modelleri ve arayüzleri tek bir platform üzerinden kullanma imkânı tanır.",
+          "meta": "Python · ★ 58.287 · +506 bugün",
+          "snapshot": {
+            "sourceId": "Alishahryar1/free-claude-code",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 58287,
+              "engagementCount": 506,
+              "rank": 9,
+              "extra": {
+                "starsToday": 506
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Passkeys are a trap",
+          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+          "summary": "Passkeys (parolasız giriş anahtarları), kullanıcıları belirli platformlara bağımlı kılan ve hesap erişimini zorlaştıran bir tuzak olarak değerlendiriliyor. Yazı, bu teknolojinin güvenlik avantajlarına rağmen kullanıcı kontrolünü kısıtladığını savunuyor.",
+          "meta": "698 oy · 402 yorum",
+          "snapshot": {
+            "sourceId": "50048312",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 698,
+              "engagementCount": 402,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50048312",
+                  "popularity": 698,
+                  "engagementCount": 402
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-11T21:59:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50048312"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50048312",
+              "popularity": 698,
+              "engagementCount": 402
+            }
+          ]
+        },
+        {
+          "title": "Total Annihilation, rebuilt for modern computers",
+          "url": "https://nanolathe.gg/",
+          "summary": "Total Annihilation, modern bilgisayarlarda çalışması için yeniden geliştiriliyor. Nanolathe projesi, klasik strateji oyunu Total Annihilation'ın güncel donanımlarla uyumlu bir şekilde oynanabilmesini sağlıyor.",
+          "meta": "550 oy · 210 yorum",
+          "snapshot": {
+            "sourceId": "50045984",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 550,
+              "engagementCount": 210,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50045984",
+                  "popularity": 550,
+                  "engagementCount": 210
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-11T18:04:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50045984"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50045984",
+              "popularity": 550,
+              "engagementCount": 210
+            }
+          ]
+        },
+        {
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "summary": "Büyük dil modellerinin (large language models) yeteneklerine dair ortak anlayışta ciddi bir kopukluk yaşanıyor. Bu durum, teknoloji dünyasında yapay zekâ sistemlerinin neler yapabileceğine yönelik beklentiler ile gerçek performans arasındaki farkın açıldığını gösteriyor.",
+          "meta": "503 oy · 732 yorum",
+          "snapshot": {
+            "sourceId": "50047422",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 503,
+              "engagementCount": 732,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50047422",
+                  "popularity": 503,
+                  "engagementCount": 732
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-11T20:20:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50047422"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50047422",
+              "popularity": 503,
+              "engagementCount": 732
+            }
+          ]
+        },
+        {
+          "title": "NYC's \"Click to Cancel\" rule is now in effect",
+          "url": "https://www.nyc.gov/main/click-to-cancel",
+          "summary": "New York şehrinin yürürlüğe giren \"İptal Etmek İçin Tıkla\" (Click to Cancel) kuralı, abonelik iptal süreçlerini basitleştirmeyi amaçlıyor. İşletmelerin, kullanıcılara üye oldukları yöntemle aynı kolaylıkta abonelik sonlandırma seçeneği sunmasını zorunlu kılıyor.",
+          "meta": "498 oy · 245 yorum",
+          "snapshot": {
+            "sourceId": "50045946",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 498,
+              "engagementCount": 245,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50045946",
+                  "popularity": 498,
+                  "engagementCount": 245
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-11T18:01:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50045946"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50045946",
+              "popularity": 498,
+              "engagementCount": 245
+            }
+          ]
+        },
+        {
+          "title": "Fingerprints are the new cookies",
+          "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+          "summary": "Dijital parmak izi (fingerprint) teknolojisi, internet sitelerinin kullanıcıları izlemek için kullandığı çerezlerin (cookies) yerini alıyor. Bu yöntem, tarayıcı yapılandırması üzerinden cihazları tanımlayarak kişisel verilerin takibini sürdürüyor.",
+          "meta": "437 oy · 223 yorum",
+          "snapshot": {
+            "sourceId": "50048642",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 223,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50048642",
+                  "popularity": 437,
+                  "engagementCount": 223
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-11T22:33:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50048642"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50048642",
+              "popularity": 437,
+              "engagementCount": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Google tarafından geliştirilen embeddinggemma-2, metin verilerini sayısal vektörlere dönüştüren bir özellik çıkarımı (feature-extraction) modelidir. HuggingFace platformunda sunulan bu model, doğal dil işleme görevlerinde metinlerin anlamsal temsilini oluşturmak için kullanılır.",
+          "meta": "♥ 1.835 · 115.763 indirme",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 1835,
+              "engagementCount": 115763,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1682,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 6
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "HuggingFace üzerinde paylaşılan jialinyyzz/humanizer, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Kullanıcıların metin oluşturma süreçlerinde tercih edebileceği bir seçenek sunar.",
+          "meta": "♥ 1.223 · 46.070 indirme",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 1223,
+              "engagementCount": 46070,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 996,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "Cloudflare/clef",
+          "url": "https://huggingface.co/Cloudflare/clef",
+          "summary": "Cloudflare tarafından geliştirilen clef, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir modeldir (image-text-to-text model). HuggingFace platformunda paylaşılan bu model, çok modlu veri işleme yetenekleri sunuyor.",
+          "meta": "♥ 2.060 · 15.064 indirme",
+          "snapshot": {
+            "sourceId": "Cloudflare/clef",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 2060,
+              "engagementCount": 15064,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 618,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "clef",
+                  "cloudflare",
+                  "systemone",
+                  "decision-model",
+                  "qwen3.8",
+                  "post-train",
+                  "image-text-to-typed-output",
+                  "multimodal",
+                  "structured-output",
+                  "classification",
+                  "custom-code",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:finetune:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 11
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized, metinden görsele dönüştürme (text-to-image) işlemi yapan bir yapay zekâ modelidir. Model, kısıtlamaları kaldırılmış (uncensored) yapısı ve sıkıştırılmış (quantized) formatıyla dikkat çekmektedir.",
+          "meta": "♥ 4.045 · 2.188.658 indirme",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 4045,
+              "engagementCount": 2188658,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 600,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "mlx",
+                  "fp8",
+                  "nvfp4",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "summary": "HuggingFace üzerinde paylaşılan Qwen/Qwen-Image-2.1-Turbo, metinden görsel oluşturma (text-to-image) yeteneğine sahip bir yapay zekâ modelidir. Kullanıcıların yazılı komutlarını görsel içeriklere dönüştürmesini sağlar.",
+          "meta": "♥ 589 · 6.787 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1-Turbo",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 589,
+              "engagementCount": 6787,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 569,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:finetune:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "MetaKernelBench: Measuring GPU Kernel Knowledge Transfer Beyond Code",
+          "url": "https://huggingface.co/papers/2610.05014",
+          "summary": "MetaKernelBench, GPU çekirdek optimizasyonu yapan yapay zekâ ajanlarının edindikleri deneyimleri farklı alanlara özgü diller (DSL) arasında ne kadar aktarabildiğini ölçüyor. Araç, 74 farklı problem üzerinden bir alanda öğrenilen bilgilerin başka bir dildeki çözüm süreçlerini iyileştirip iyileştirmediğini değerlendiriyor.",
+          "meta": "8 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.05014",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05014",
+                "publishedAt": "2026-10-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/YIGE24/MetaKernelBench"
+              }
+            }
+          }
+        },
+        {
+          "title": "Universal Textual Teaching for LLMs",
+          "url": "https://huggingface.co/papers/2610.12114",
+          "summary": "Universal Textual Teaching, büyük dil modellerinde (LLM) bilgi aktarımını model parametrelerini eğitmek yerine metin tabanlı bir yöntemle gerçekleştiriyor. Bu yaklaşım, bilginin farklı mimariler arasında yeniden kullanılmasını ve yorumlanmasını kolaylaştırarak geleneksel bilgi damıtma (knowledge distillation) yöntemlerinin kısıtlamalarını aşmayı hedefliyor.",
+          "meta": "6 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.12114",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12114",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Less from More: Reinforcing Sparse Video Reasoning from Dense References",
+          "url": "https://huggingface.co/papers/2610.10893",
+          "summary": "Less from More: Reinforcing Sparse Video Reasoning from Dense References makalesi, video-dil modellerinin (video-language models) çok sayıda kareyi işlemesi yerine kısıtlı görsel veriyle güvenilir çıkarım yapmasına odaklanıyor. SAVER adlı yoğun-seyrek (dense-to-sparse) eğitim çerçevesi, modelin eğitim aşamasında yoğun video verilerini referans alarak seyrek karelerle çıkarım yapmasını sağlıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.10893",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.10893",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/lmsdss/SAVER",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Encore: Few-Shot Agentic Discovery of Manipulation Strategies",
+          "url": "https://huggingface.co/papers/2609.37359",
+          "summary": "Encore, robotik görevlerdeki karmaşık manipülasyon stratejilerini keşfetmek için az örnekli öğrenme (few-shot learning) yöntemini kullanıyor. Sistem, verilen gösterimleri eğitim verisi yerine okunabilir kanıtlar olarak işleyerek robotik ajanların deneme yanılma sürecini hızlandırıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.37359",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37359",
+                "publishedAt": "2026-09-29T12:21:27.000Z",
+                "githubRepo": "https://github.com/YIFANK/encore",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
+          "url": "https://huggingface.co/papers/2610.13527",
+          "summary": "Çok modlu dil modellerinin (multimodal language models) uzamsal akıl yürütme yeteneklerini inceleyen S-Space, nesne belirteci temsillerinin yatay, dikey ve derinlik eksenlerindeki koordinatları kodladığı doğrusal bir temsil alt uzayı sunuyor. Bu çalışma, söz konusu uzamsal eksenlerin belirli verilerden bağımsız olarak modellerin iç yapısında doğal bir şekilde var olduğunu ortaya koyuyor.",
+          "meta": "134 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.13527",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 134,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.13527",
+                "publishedAt": "2026-10-09T12:48:41.000Z",
+                "githubRepo": "https://github.com/mirros-lab/s-space",
+                "githubStars": 244
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Bilgisayarın işlemcisi tarafından doğrudan çalıştırılabilen, özel bir kurulum gerektirmeyen hazır program dosyaları."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Hazır bir yazılımın nasıl çalıştığını anlamak için kodlarını veya yapısını geriye doğru çözümleme süreci."
+    },
+    {
+      "term": "spatial intelligence",
+      "explanation": "Nesnelerin veya verilerin üç boyutlu bir ortamdaki konumlarını ve birbirleriyle olan ilişkilerini anlama yeteneği."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Yapay zekânın bir seferde işleyebileceği bilgi miktarını daha verimli kullanmasını sağlayan düzenleme yöntemi."
+    },
+    {
+      "term": "sandboxing",
+      "explanation": "Bir yazılımın sistemin geri kalanına zarar vermemesi için güvenli ve izole edilmiş bir alanda çalıştırılması."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynakları ve uygulamalarla güvenli bir şekilde iletişim kurmasını sağlayan standart bir bağlantı protokolü."
+    },
+    {
+      "term": "intentional crafting engine",
+      "explanation": "ArtCraft şirketinin geliştirdiği, sanatçıların ve tasarımcıların belirli hedefler doğrultusunda içerik üretmesini sağlayan yazılım aracı."
+    },
+    {
+      "term": "interface",
+      "explanation": "Kullanıcının bir yazılımı yönetmek için gördüğü ve etkileşime girdiği görsel ekran veya kontrol paneli."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Görüntü işleme ve yapay zekâ hesaplamaları gibi yoğun matematiksel işlemleri hızlandırmak için tasarlanmış özel donanım birimi."
+    },
+    {
+      "term": "LLMs",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "inference framework",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin yeni veriler üzerinde tahmin yürütmesini veya sonuç üretmesini sağlayan yazılım altyapısı."
+    },
+    {
+      "term": "token",
+      "explanation": "Yapay zekâ modellerinin metni işlerken kullandığı, kelime veya karakter parçalarına karşılık gelen en küçük veri birimi."
+    },
+    {
+      "term": "Click to Cancel",
+      "explanation": "Abonelik iptal işlemlerinin karmaşık süreçler olmadan tek bir tıklamayla kolayca yapılabilmesini sağlayan yasal kural."
+    },
+    {
+      "term": "fingerprint",
+      "explanation": "Kullanıcının cihaz ayarları ve tarayıcı bilgileri üzerinden oluşturulan, kişiyi internette tanımaya yarayan benzersiz dijital kimlik."
+    },
+    {
+      "term": "cookies",
+      "explanation": "İnternet sitelerinin kullanıcı tercihlerini hatırlamak veya oturumları takip etmek için tarayıcıya bıraktığı küçük veri dosyaları."
+    }
+  ]
+}

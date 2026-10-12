@@ -1,0 +1,495 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-12",
+  "capturedAt": "2026-10-12T11:59:10.343Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "open-webui/open-webui",
+          "url": "https://github.com/open-webui/open-webui",
+          "summary": "open-webui is a user-friendly interface that allows interaction with artificial intelligence models such as Ollama and OpenAI API. It offers a web-based interface developed to manage local or cloud-based language models.",
+          "meta": "Python · ★ 154,419 · +142 today",
+          "snapshot": {
+            "sourceId": "open-webui/open-webui",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 154419,
+              "engagementCount": 142,
+              "rank": 5,
+              "extra": {
+                "starsToday": 142
+              }
+            }
+          }
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM makes it possible to run large language models with 70 billion parameters on graphics processors (GPUs) with only 4 GB of memory. This method allows AI models that require high hardware specifications to be run on limited resources.",
+          "meta": "Jupyter Notebook · ★ 36,998 · +886 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "lyogavin/airllm",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 36998,
+              "engagementCount": 886,
+              "rank": 7,
+              "extra": {
+                "starsToday": 886
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/BitNet",
+          "url": "https://github.com/microsoft/BitNet",
+          "summary": "BitNet, developed by Microsoft, offers an official inference framework for 1-bit large language models (LLMs). Written in C++, this tool aims to optimize the execution of low-bit precision models.",
+          "meta": "C++ · ★ 40,731 · +195 today",
+          "snapshot": {
+            "sourceId": "microsoft/BitNet",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 40731,
+              "engagementCount": 195,
+              "rank": 8,
+              "extra": {
+                "starsToday": 195
+              }
+            }
+          }
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Alishahryar1/free-claude-code is a Python project that provides free access to various tools such as Claude Code, Codex, and VSCode via terminal, application, IDE, or browser. It offers users over 1.3 billion free tokens, allowing them to use different models and interfaces through a single platform.",
+          "meta": "Python · ★ 58,287 · +506 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Alishahryar1/free-claude-code",
+            "capturedAt": "2026-10-12T11:59:11.363Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 58287,
+              "engagementCount": 506,
+              "rank": 9,
+              "extra": {
+                "starsToday": 506
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Passkeys are a trap",
+          "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+          "summary": "Passkeys (passwordless login keys) are considered a trap that makes users dependent on specific platforms and complicates account access. The article argues that despite the security advantages of this technology, it restricts user control.",
+          "meta": "698 points · 402 comments",
+          "snapshot": {
+            "sourceId": "50048312",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 698,
+              "engagementCount": 402,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50048312",
+                  "popularity": 698,
+                  "engagementCount": 402
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-11T21:59:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50048312"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50048312",
+              "popularity": 698,
+              "engagementCount": 402
+            }
+          ]
+        },
+        {
+          "title": "Total Annihilation, rebuilt for modern computers",
+          "url": "https://nanolathe.gg/",
+          "summary": "Total Annihilation is being redeveloped to run on modern computers. The Nanolathe project allows the classic strategy game Total Annihilation to be played in a way that is compatible with current hardware.",
+          "meta": "550 points · 210 comments",
+          "snapshot": {
+            "sourceId": "50045984",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 550,
+              "engagementCount": 210,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50045984",
+                  "popularity": 550,
+                  "engagementCount": 210
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-11T18:04:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50045984"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50045984",
+              "popularity": 550,
+              "engagementCount": 210
+            }
+          ]
+        },
+        {
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "summary": "There is a serious disconnect in the common understanding of the capabilities of large language models. This situation shows that the gap between expectations regarding what artificial intelligence systems can do and their actual performance in the technology world is widening.",
+          "meta": "503 points · 732 comments",
+          "snapshot": {
+            "sourceId": "50047422",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 503,
+              "engagementCount": 732,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50047422",
+                  "popularity": 503,
+                  "engagementCount": 732
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-11T20:20:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50047422"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50047422",
+              "popularity": 503,
+              "engagementCount": 732
+            }
+          ]
+        },
+        {
+          "title": "NYC's \"Click to Cancel\" rule is now in effect",
+          "url": "https://www.nyc.gov/main/click-to-cancel",
+          "summary": "New York City's newly enacted \"Click to Cancel\" rule aims to simplify subscription cancellation processes. It mandates that businesses offer users the option to terminate subscriptions with the same ease as the method they used to sign up.",
+          "meta": "498 points · 245 comments",
+          "snapshot": {
+            "sourceId": "50045946",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 498,
+              "engagementCount": 245,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50045946",
+                  "popularity": 498,
+                  "engagementCount": 245
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-11T18:01:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50045946"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50045946",
+              "popularity": 498,
+              "engagementCount": 245
+            }
+          ]
+        },
+        {
+          "title": "Fingerprints are the new cookies",
+          "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+          "summary": "Digital fingerprint technology is replacing the cookies that websites use to track users. This method continues the tracking of personal data by identifying devices through browser configuration.",
+          "meta": "437 points · 223 comments",
+          "snapshot": {
+            "sourceId": "50048642",
+            "capturedAt": "2026-10-12T11:59:10.567Z",
+            "metadata": {
+              "popularity": 437,
+              "engagementCount": 223,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50048642",
+                  "popularity": 437,
+                  "engagementCount": 223
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-11T22:33:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50048642"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50048642",
+              "popularity": 437,
+              "engagementCount": 223
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized is an artificial intelligence model that performs text-to-image conversion. The model draws attention with its uncensored structure and quantized format.",
+          "meta": "♥ 4,045 · 2,188,658 downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 4045,
+              "engagementCount": 2188658,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 600,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "mlx",
+                  "fp8",
+                  "nvfp4",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "summary": "Shared on HuggingFace, Qwen/Qwen-Image-2.1-Turbo is an artificial intelligence model with text-to-image generation capabilities. It allows users to convert written prompts into visual content.",
+          "meta": "♥ 589 · 6,787 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1-Turbo",
+            "capturedAt": "2026-10-12T11:59:10.423Z",
+            "metadata": {
+              "popularity": 589,
+              "engagementCount": 6787,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 569,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:finetune:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "MetaKernelBench: Measuring GPU Kernel Knowledge Transfer Beyond Code",
+          "url": "https://huggingface.co/papers/2610.05014",
+          "summary": "MetaKernelBench measures how well artificial intelligence agents performing GPU kernel optimization can transfer the experiences they have gained across different domain-specific languages (DSL). The tool evaluates whether knowledge learned in one area improves solution processes in another language across 74 different problems.",
+          "meta": "8 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.05014",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05014",
+                "publishedAt": "2026-10-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/YIGE24/MetaKernelBench"
+              }
+            }
+          }
+        },
+        {
+          "title": "Universal Textual Teaching for LLMs",
+          "url": "https://huggingface.co/papers/2610.12114",
+          "summary": "Universal Textual Teaching performs knowledge transfer in large language models (LLM) using a text-based method instead of training model parameters. This approach aims to overcome the limitations of traditional knowledge distillation methods by facilitating the reuse and interpretation of knowledge across different architectures.",
+          "meta": "6 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.12114",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12114",
+                "publishedAt": "2026-10-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Less from More: Reinforcing Sparse Video Reasoning from Dense References",
+          "url": "https://huggingface.co/papers/2610.10893",
+          "summary": "The article 'Less from More: Reinforcing Sparse Video Reasoning from Dense References' focuses on video-language models making reliable inferences with limited visual data instead of processing a large number of frames. The dense-to-sparse training framework called SAVER allows the model to make inferences with sparse frames by referencing dense video data during the training phase.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.10893",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.10893",
+                "publishedAt": "2026-10-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/lmsdss/SAVER",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Encore: Few-Shot Agentic Discovery of Manipulation Strategies",
+          "url": "https://huggingface.co/papers/2609.37359",
+          "summary": "Encore uses few-shot learning to discover complex manipulation strategies in robotic tasks. The system processes given demonstrations as readable evidence rather than training data, accelerating the trial-and-error process of robotic agents.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.37359",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37359",
+                "publishedAt": "2026-09-29T12:21:27.000Z",
+                "githubRepo": "https://github.com/YIFANK/encore",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
+          "url": "https://huggingface.co/papers/2610.13527",
+          "summary": "S-Space, which examines the spatial reasoning capabilities of multimodal language models, presents a linear representation subspace where object token representations encode coordinates on the horizontal, vertical, and depth axes. This study reveals that these spatial axes exist naturally within the internal structure of the models, independent of specific data.",
+          "meta": "134 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2610.13527",
+            "capturedAt": "2026-10-12T11:59:10.430Z",
+            "metadata": {
+              "popularity": 134,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.13527",
+                "publishedAt": "2026-10-09T12:48:41.000Z",
+                "githubRepo": "https://github.com/mirros-lab/s-space",
+                "githubStars": 244
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "interface",
+      "explanation": "The visual screen or control panel that the user sees and interacts with to manage software."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "GPU",
+      "explanation": "A specialized hardware unit designed to accelerate intensive mathematical operations such as image processing and artificial intelligence computations."
+    },
+    {
+      "term": "LLMs",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "inference framework",
+      "explanation": "The software infrastructure that enables a trained artificial intelligence model to make predictions or generate results on new data."
+    },
+    {
+      "term": "token",
+      "explanation": "The smallest unit of data, corresponding to words or character fragments, that artificial intelligence models use when processing text."
+    },
+    {
+      "term": "Click to Cancel",
+      "explanation": "A legal rule that allows subscription cancellation processes to be performed easily with a single click, without complex procedures."
+    },
+    {
+      "term": "fingerprint",
+      "explanation": "A unique digital identity created through a user's device settings and browser information, used to recognize the individual on the internet."
+    },
+    {
+      "term": "cookies",
+      "explanation": "Small data files that websites leave on a browser to remember user preferences or track sessions."
+    }
+  ]
+}
