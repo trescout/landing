@@ -18,6 +18,8 @@
 
 Follow-up: user approved a homepage-like right sidebar for dictionary, discovery and report indexes, with signup at the top and 16 catalogue results. Mobile stays content-first. Reuse localized homepage signup copy and canonical consent; retain full static lists and random exploration. Shared layout normalization runs in index generation and final publishing normalization. Test single form, localized privacy, stable regeneration and responsive widths. Detail pages and logo remain a separate task. Codex implementation/review; repository brainstorming, brand voice, traceability and pre-PR workflow applied; no Gemini/Claude review claimed.
 
+CI found pre-existing favicon whitespace drift in 256 report pages from the daily publisher. Preserve already-valid single ICO/SVG pairs regardless of separating whitespace; missing/duplicate fallback repair and self-tests remain. No logo assets changed. Browser validation: 42 route/viewport checks, all six locales at 1280/390 and Turkish/German at 320; no horizontal overflow.
+
 - User approved shortening long dictionary/discovery lists while keeping playful random exploration, then asked to continue after homepage fixes.
 - Scope: first 24 matching records, explicit 24-record increments, search/filter across the full collection, filter/sort reset, random navigation from the full matched pool, keyboard focus on the first newly revealed result. Retain full server-rendered HTML for JavaScript-disabled readers and indexing.
 - Codex implementation and self-review; six localized short control labels. User waived Gemini review in this conversation. No Gemini/Claude review claimed. Unrelated apple-touch-icon.png edit preserved and excluded.
