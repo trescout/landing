@@ -42,7 +42,6 @@ Dabei handelt es sich um kleine unabhängige Verarbeitungseinheiten innerhalb ei
 - [Llmfit](https://trescout.com/de/discover/llmfit/)
 - [CasaOS](https://trescout.com/de/discover/casaos/)
 - [Airllm](https://trescout.com/de/discover/airllm/)
-- [Wand-Enhancer](https://trescout.com/de/discover/wand-enhancer/)
 - [Omlx](https://trescout.com/de/discover/omlx/)
 - [Ktransformers](https://trescout.com/de/discover/ktransformers/)
 - [Pocket TTS](https://trescout.com/de/discover/pocket-tts/)

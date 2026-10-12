@@ -42,7 +42,6 @@ They are small independent processing units within a processor that can perform 
 - [Llmfit](https://trescout.com/en/discover/llmfit/)
 - [CasaOS](https://trescout.com/en/discover/casaos/)
 - [Airllm](https://trescout.com/en/discover/airllm/)
-- [Wand-Enhancer](https://trescout.com/en/discover/wand-enhancer/)
 - [Omlx](https://trescout.com/en/discover/omlx/)
 - [Ktransformers](https://trescout.com/en/discover/ktransformers/)
 - [Pocket TTS](https://trescout.com/en/discover/pocket-tts/)

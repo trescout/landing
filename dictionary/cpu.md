@@ -42,7 +42,6 @@ Bir işlemcinin içinde aynı anda birden fazla işi yapabilen bağımsız küç
 - [Llmfit](https://trescout.com/discover/llmfit/)
 - [CasaOS](https://trescout.com/discover/casaos/)
 - [Airllm](https://trescout.com/discover/airllm/)
-- [Wand-Enhancer](https://trescout.com/discover/wand-enhancer/)
 - [Omlx](https://trescout.com/discover/omlx/)
 - [Ktransformers](https://trescout.com/discover/ktransformers/)
 - [Pocket TTS](https://trescout.com/discover/pocket-tts/)

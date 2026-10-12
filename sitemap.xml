@@ -8017,12 +8017,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/discover/wand-enhancer/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/discover/weathernext/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -16969,12 +16963,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/de/discover/wand-enhancer/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/de/discover/weathernext/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -25820,12 +25808,6 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/vulnclaw/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/en/discover/wand-enhancer/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -34681,12 +34663,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/es/discover/wand-enhancer/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/es/discover/weathernext/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -43537,12 +43513,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://trescout.com/fr/discover/wand-enhancer/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://trescout.com/fr/discover/weathernext/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -52389,12 +52359,6 @@
   <url>
     <loc>https://trescout.com/pt/discover/vulnclaw/</loc>
     <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/pt/discover/wand-enhancer/</loc>
-    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

@@ -62,7 +62,6 @@ Der JIT-Compiler erkennt häufig verwendete Codeblöcke („Hot Paths“) sofort
 - [Deno](https://trescout.com/de/discover/deno/)
 - [BUN](https://trescout.com/de/discover/bun/)
 - [Svelte](https://trescout.com/de/discover/svelte/)
-- [Wand-Enhancer](https://trescout.com/de/discover/wand-enhancer/)
 - [Univer](https://trescout.com/de/discover/univer/)
 - [Onnxruntime](https://trescout.com/de/discover/onnxruntime/)
 
