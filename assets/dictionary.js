@@ -15,7 +15,7 @@
   var countEl = document.getElementById('dict-count');
   var emptyEl = document.getElementById('dict-empty');
   var total = cards.length;
-  var state = { q: '', cat: '', limit: 24 };
+  var state = { q: '', cat: '', limit: 16 };
   var labels = {tr: ['Daha fazla göster', 'Rastgele keşfet'], en: ['Show more', 'Explore randomly'], fr: ['Afficher plus', 'Découvrir au hasard'], 'pt-BR': ['Mostrar mais', 'Explorar ao acaso'], es: ['Mostrar más', 'Explorar al azar'], de: ['Mehr anzeigen', 'Zufällig entdecken']};
   var copy = labels[_l] || labels[_l.split('-')[0]] || labels.tr;
   var random = document.createElement('a');
@@ -64,16 +64,16 @@
 
   more.addEventListener('click', function () {
     var next = matches[state.limit];
-    state.limit += 24;
+    state.limit += 16;
     apply();
     if (next) next.focus();
   });
-  if (search) search.addEventListener('input', function () { state.q = search.value; state.limit = 24; apply(); });
+  if (search) search.addEventListener('input', function () { state.q = search.value; state.limit = 16; apply(); });
   if (chipBox) {
     chipBox.querySelectorAll('.dict-chip').forEach(function (b) {
       b.addEventListener('click', function () {
         state.cat = b.getAttribute('data-cat') || '';
-        state.limit = 24;
+        state.limit = 16;
         chipBox.querySelectorAll('.dict-chip').forEach(function (x) { x.classList.remove('dict-chip-active'); });
         b.classList.add('dict-chip-active');
         apply();

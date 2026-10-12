@@ -27,8 +27,9 @@ GENERATORS = (
 
 
 def normalize(text):
-    # A space keeps both inline HTML and quoted Python/JS templates valid.
-    return ICON_BLOCK.sub(lambda _: ICON_PAIR, text)
+    # A valid pair may use a newline (report publisher) or a space (templates).
+    # Preserve either; only repair a missing or duplicated fallback.
+    return ICON_BLOCK.sub(lambda m: m.group(0) if m.group(0).count(ICO_LINK) == 1 else ICON_PAIR, text)
 
 
 def self_test():
@@ -42,8 +43,9 @@ def self_test():
     for original in cases:
         updated = normalize(original)
         assert updated.count(ICO_LINK) == 1
-        assert ICON_PAIR in updated
+        assert updated.index(ICO_LINK) < updated.index(SVG_LINK)
         assert normalize(updated) == updated
+    assert normalize(ICO_LINK + "\n  " + SVG_LINK) == ICO_LINK + "\n  " + SVG_LINK
     assert normalize("<head></head>") == "<head></head>"
     print("Favicon normalization: existing pairs, duplicates and repeated runs pass")
 

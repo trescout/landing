@@ -57,11 +57,13 @@ for (const kind of ['dictionary', 'discover']) {
       const e = environment(kind, lang);
       await new Promise(resolve => setImmediate(resolve));
       const more = e.control('btn catalog-more'), random = e.control('catalog-random');
-      assert.equal(e.visible().length, 24);
+      assert.equal(e.visible().length, 16);
       assert.match(random.href, /\/item-60\/$/); // Includes hidden results; excludes unavailable item 61.
       more.fire('click');
+      assert.equal(e.visible().length, 32);
+      assert.match(e.focused().href, /\/item-17\/$/);
+      more.fire('click');
       assert.equal(e.visible().length, 48);
-      assert.match(e.focused().href, /\/item-25\/$/);
       more.fire('click');
       assert.equal(e.visible().length, 60);
       assert.equal(more.hidden, true);
@@ -73,12 +75,12 @@ for (const kind of ['dictionary', 'discover']) {
       assert.equal(random.hidden, true);
       assert.equal(more.hidden, true);
       e.search.value = ''; e.search.fire('input');
-      assert.equal(e.visible().length, 24);
+      assert.equal(e.visible().length, 16);
       assert.equal(more.hidden, false);
       if (kind === 'discover') {
         more.fire('click');
         e.sort.value = 'stars'; e.sort.fire('change');
-        assert.equal(e.visible().length, 24);
+        assert.equal(e.visible().length, 16);
       }
     });
   }

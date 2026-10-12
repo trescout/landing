@@ -36,7 +36,7 @@ def main():
     grid = "\n        " + "\n        ".join(card(c) for c in items) + "\n      "
     t = open(IDX, encoding="utf-8").read()
     # grid'i değiştir · bitişi <aside class="disc-cta"> ile çapala (iç içe </div>'lere takılmaz, idempotent)
-    t2 = re.sub(r'(<div id="discover-grid"[^>]*>).*?(</div>)(\s*<aside class="disc-cta")',
+    t2 = re.sub(r'(<div id="discover-grid"[^>]*>).*?(</div>)(\s*(?:<aside class="disc-cta"|<!-- /catalog-content -->))',
                 lambda m: m.group(1) + grid + m.group(2) + m.group(3), t, count=1, flags=re.S)
     # sayaç
     t2 = re.sub(r'(<p id="disc-count" class="disc-count">).*?(</p>)',
