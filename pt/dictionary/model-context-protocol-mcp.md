@@ -43,8 +43,8 @@ Pode ser necessário algum conhecimento técnico durante a fase de instalação,
 
 ## Ferramentas relacionadas
 
-- [Servers](https://trescout.com/pt/discover/servers/)
 - [REA](https://trescout.com/pt/discover/rea/)
+- [Servers](https://trescout.com/pt/discover/servers/)
 - [Goose](https://trescout.com/pt/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/pt/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/pt/discover/openclaude/)

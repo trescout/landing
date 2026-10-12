@@ -41,6 +41,7 @@ Alors qu'un framework établit le squelette de base de votre projet, une boîte 
 ## Outils liés
 
 - [MVT](https://trescout.com/fr/discover/mvt/)
+- [Agent Native](https://trescout.com/fr/discover/agent-native/)
 - [Agent Governance Toolkit](https://trescout.com/fr/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/fr/discover/agent-toolkit-for-aws/)
 

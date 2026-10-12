@@ -44,8 +44,8 @@ No, en proyectos muy pequeños y simples, a veces sólo los códigos básicos pu
 - [Next.js](https://trescout.com/es/discover/next-js/)
 - [Angular](https://trescout.com/es/discover/angular/)
 - [Tailwindcss](https://trescout.com/es/discover/tailwindcss/)
-- [Nuxt](https://trescout.com/es/discover/nuxt/)
 - [Hyperframes](https://trescout.com/es/discover/hyperframes/)
+- [Nuxt](https://trescout.com/es/discover/nuxt/)
 - [Cypress](https://trescout.com/es/discover/cypress/)
 - [CLI-Anything](https://trescout.com/es/discover/cli-anything/)
 

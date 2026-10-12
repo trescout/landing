@@ -44,8 +44,8 @@ Hayır, çok küçük ve basit projelerde bazen sadece temel kodlar yeterli olab
 - [Next.js](https://trescout.com/discover/next-js/)
 - [Angular](https://trescout.com/discover/angular/)
 - [Tailwindcss](https://trescout.com/discover/tailwindcss/)
-- [Nuxt](https://trescout.com/discover/nuxt/)
 - [Hyperframes](https://trescout.com/discover/hyperframes/)
+- [Nuxt](https://trescout.com/discover/nuxt/)
 - [Cypress](https://trescout.com/discover/cypress/)
 - [CLI-Anything](https://trescout.com/discover/cli-anything/)
 

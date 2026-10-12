@@ -41,6 +41,7 @@ Embora o Framework estabeleça o esqueleto básico do seu projeto, o kit de ferr
 ## Ferramentas relacionadas
 
 - [MVT](https://trescout.com/pt/discover/mvt/)
+- [Agent Native](https://trescout.com/pt/discover/agent-native/)
 - [Agent Governance Toolkit](https://trescout.com/pt/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/pt/discover/agent-toolkit-for-aws/)
 

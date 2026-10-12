@@ -2,12 +2,13 @@
 
 ESP32-Bit-Pirate, web tabanlı bir komut satırı arayüzü (CLI) üzerinden çok sayıda haberleşme protokolünü destekleyen bir donanım hackleme aracıdır. C++ diliyle geliştirilen bu sistem, farklı protokolleri tek bir platform üzerinden yöneterek donanım analizi süreçlerini kolaylaştırır.
 
-- ★ 5.357
+- ★ 5.968
 - C++
 - GitHub Trending · 2026-08-01
 
 ## Güncelleme
 
+- **12 Ekim 2026:** Yıldız 5.357 → 5.968, son sürüm v1.8 (11 Ekim 2026).
 - **7 Ağustos 2026:** Yıldız 5.281 → 5.357, son sürüm v1.7 (6 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 5.115 → 5.281, son sürüm v1.6 (5 Haziran 2026).
 

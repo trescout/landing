@@ -2,16 +2,16 @@
 
 Transcribe.cpp es una biblioteca de inferencia de voz a texto desarrollada en C++ que admite más de 16 familias de modelos. Utilizando la infraestructura ggml, esta herramienta permite que diferentes modelos de procesamiento de audio se ejecuten de manera eficiente en sistemas locales.
 
-- ★ 1.982
+- ★ 2.003
 - C++
 - GitHub Trending · 2026-07-21
 
 ## Actualizaciones
 
+- **12 de octubre de 2026:** Estrellas 1,982 → 2,003, última versión v0.4.0 (12 de octubre de 2026).
 - **4 de octubre de 2026:** Estrellas 1,981 → 1,982, última versión v0.3.1 (4 de octubre de 2026).
 - **3 de octubre de 2026:** Estrellas 1,963 → 1,981, última versión v0.3.0 (3 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 1,865 → 1,963, última versión v0.2.4 (25 de septiembre de 2026).
-- **31 de agosto de 2026:** Estrellas 1,825 → 1,865, última versión v0.2.3 (30 de agosto de 2026).
 
 ## Qué aporta
 

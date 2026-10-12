@@ -44,8 +44,8 @@ Nein, bei sehr kleinen und einfachen Projekten reichen manchmal nur einfache Cod
 - [Next.js](https://trescout.com/de/discover/next-js/)
 - [Angular](https://trescout.com/de/discover/angular/)
 - [Tailwindcss](https://trescout.com/de/discover/tailwindcss/)
-- [Nuxt](https://trescout.com/de/discover/nuxt/)
 - [Hyperframes](https://trescout.com/de/discover/hyperframes/)
+- [Nuxt](https://trescout.com/de/discover/nuxt/)
 - [Cypress](https://trescout.com/de/discover/cypress/)
 - [CLI-Anything](https://trescout.com/de/discover/cli-anything/)
 

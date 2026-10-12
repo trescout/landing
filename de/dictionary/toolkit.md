@@ -41,6 +41,7 @@ Während Framework das Grundgerüst Ihres Projekts festlegt, handelt es sich bei
 ## Verwandte Werkzeuge
 
 - [MVT](https://trescout.com/de/discover/mvt/)
+- [Agent Native](https://trescout.com/de/discover/agent-native/)
 - [Agent Governance Toolkit](https://trescout.com/de/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/de/discover/agent-toolkit-for-aws/)
 

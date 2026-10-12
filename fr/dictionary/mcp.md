@@ -84,8 +84,8 @@ Sa conception est basée sur les autorisations, mais vous devez garder la porté
 ## Outils liés
 
 - [Langflow](https://trescout.com/fr/discover/langflow/)
-- [Servers](https://trescout.com/fr/discover/servers/)
 - [REA](https://trescout.com/fr/discover/rea/)
+- [Servers](https://trescout.com/fr/discover/servers/)
 - [OpenCut](https://trescout.com/fr/discover/opencut/)
 - [AI Engineering from Scratch](https://trescout.com/fr/discover/ai-engineering-from-scratch/)
 - [Goose](https://trescout.com/fr/discover/goose/)

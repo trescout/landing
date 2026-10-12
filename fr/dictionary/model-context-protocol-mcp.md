@@ -43,8 +43,8 @@ Certaines connaissances techniques peuvent être requises lors de la phase d’i
 
 ## Outils liés
 
-- [Servers](https://trescout.com/fr/discover/servers/)
 - [REA](https://trescout.com/fr/discover/rea/)
+- [Servers](https://trescout.com/fr/discover/servers/)
 - [Goose](https://trescout.com/fr/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/fr/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/fr/discover/openclaude/)

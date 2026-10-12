@@ -2,16 +2,16 @@
 
 Développé par BuilderIO, agent-native est un framework TypeScript axé sur la création d'applications natives pour les agents d'intelligence artificielle. Il permet aux développeurs d'intégrer des flux de travail basés sur des agents directement dans l'architecture de l'application.
 
-- ★ 7 109
+- ★ 7 121
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Mises à jour
 
+- **12 octobre 2026:** Étoiles 7,109 → 7,121, dernière version @agent-native/toolkit@0.207.0 (11 octobre 2026).
 - **9 octobre 2026:** Étoiles 7,098 → 7,109, dernière version v0.1.278 (9 octobre 2026).
 - **8 octobre 2026:** Étoiles 7,094 → 7,098, dernière version v0.1.277 (8 octobre 2026).
 - **8 octobre 2026:** Étoiles 7,082 → 7,094, dernière version @agent-native/creative-context@0.8.35 (8 octobre 2026).
-- **7 octobre 2026:** Étoiles 7,082 → 7,082, dernière version @agent-native/otel@0.1.0 (7 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -46,10 +46,10 @@ Je souhaite définir une action pour mon application à l'aide du framework Agen
 
 - [Agent-native Applications](https://trescout.com/fr/dictionary/agent-native-applications/)
 - [Agent-native](https://trescout.com/fr/dictionary/agent-native/)
+- [Toolkit](https://trescout.com/fr/dictionary/toolkit/)
 - [Native](https://trescout.com/fr/dictionary/native/)
 - [Framework](https://trescout.com/fr/dictionary/framework/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
-- [CLI](https://trescout.com/fr/dictionary/cli/)
 
 - **Pour qui:** Pour les développeurs qui souhaitent faire sortir les agents IA de la fenêtre de discussion et les intégrer directement dans l'architecture de l'application.
 

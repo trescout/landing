@@ -2,16 +2,16 @@
 
 Transcribe.cpp, 16'dan fazla model ailesini destekleyen ve C++ diliyle geliştirilen bir konuşmayı metne dönüştürme (speech-to-text) çıkarım (inference) kütüphanesidir. Ggml altyapısını kullanan bu araç, farklı ses işleme modellerinin yerel sistemlerde verimli bir şekilde çalıştırılmasını sağlar.
 
-- ★ 1.982
+- ★ 2.003
 - C++
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
 
+- **12 Ekim 2026:** Yıldız 1.982 → 2.003, son sürüm v0.4.0 (12 Ekim 2026).
 - **4 Ekim 2026:** Yıldız 1.981 → 1.982, son sürüm v0.3.1 (4 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 1.963 → 1.981, son sürüm v0.3.0 (3 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 1.865 → 1.963, son sürüm v0.2.4 (25 Eylül 2026).
-- **31 Ağustos 2026:** Yıldız 1.825 → 1.865, son sürüm v0.2.3 (30 Ağustos 2026).
 
 ## Ne kazandırır?
 

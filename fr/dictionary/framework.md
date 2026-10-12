@@ -44,8 +44,8 @@ Non, dans des projets très petits et simples, seuls des codes de base peuvent p
 - [Next.js](https://trescout.com/fr/discover/next-js/)
 - [Angular](https://trescout.com/fr/discover/angular/)
 - [Tailwindcss](https://trescout.com/fr/discover/tailwindcss/)
-- [Nuxt](https://trescout.com/fr/discover/nuxt/)
 - [Hyperframes](https://trescout.com/fr/discover/hyperframes/)
+- [Nuxt](https://trescout.com/fr/discover/nuxt/)
 - [Cypress](https://trescout.com/fr/discover/cypress/)
 - [CLI-Anything](https://trescout.com/fr/discover/cli-anything/)
 

@@ -84,8 +84,8 @@ Seu design é baseado em permissão, mas você precisa manter o escopo de acesso
 ## Ferramentas relacionadas
 
 - [Langflow](https://trescout.com/pt/discover/langflow/)
-- [Servers](https://trescout.com/pt/discover/servers/)
 - [REA](https://trescout.com/pt/discover/rea/)
+- [Servers](https://trescout.com/pt/discover/servers/)
 - [OpenCut](https://trescout.com/pt/discover/opencut/)
 - [AI Engineering from Scratch](https://trescout.com/pt/discover/ai-engineering-from-scratch/)
 - [Goose](https://trescout.com/pt/discover/goose/)

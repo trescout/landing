@@ -43,8 +43,8 @@ Ja, MCP verfügt über eine Struktur, die die Datenzugriffsberechtigungen unter 
 
 ## Verwandte Werkzeuge
 
-- [Servers](https://trescout.com/de/discover/servers/)
 - [REA](https://trescout.com/de/discover/rea/)
+- [Servers](https://trescout.com/de/discover/servers/)
 - [Goose](https://trescout.com/de/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/de/discover/openclaude/)

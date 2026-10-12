@@ -43,8 +43,8 @@ Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan son
 
 ## İlgili araçlar
 
-- [Servers](https://trescout.com/discover/servers/)
 - [REA](https://trescout.com/discover/rea/)
+- [Servers](https://trescout.com/discover/servers/)
 - [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/discover/openclaude/)
