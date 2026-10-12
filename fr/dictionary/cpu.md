@@ -42,7 +42,6 @@ Ce sont de petites unités de traitement indépendantes au sein d’un processeu
 - [Llmfit](https://trescout.com/fr/discover/llmfit/)
 - [CasaOS](https://trescout.com/fr/discover/casaos/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
-- [Wand-Enhancer](https://trescout.com/fr/discover/wand-enhancer/)
 - [Omlx](https://trescout.com/fr/discover/omlx/)
 - [Ktransformers](https://trescout.com/fr/discover/ktransformers/)
 - [Pocket TTS](https://trescout.com/fr/discover/pocket-tts/)

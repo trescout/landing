@@ -42,7 +42,6 @@ Son pequeñas unidades de procesamiento independientes dentro de un procesador q
 - [Llmfit](https://trescout.com/es/discover/llmfit/)
 - [CasaOS](https://trescout.com/es/discover/casaos/)
 - [Airllm](https://trescout.com/es/discover/airllm/)
-- [Wand-Enhancer](https://trescout.com/es/discover/wand-enhancer/)
 - [Omlx](https://trescout.com/es/discover/omlx/)
 - [Ktransformers](https://trescout.com/es/discover/ktransformers/)
 - [Pocket TTS](https://trescout.com/es/discover/pocket-tts/)

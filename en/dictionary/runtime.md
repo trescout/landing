@@ -62,7 +62,6 @@ The JIT compiler instantly detects frequently used code blocks ("hot paths") whi
 - [Deno](https://trescout.com/en/discover/deno/)
 - [BUN](https://trescout.com/en/discover/bun/)
 - [Svelte](https://trescout.com/en/discover/svelte/)
-- [Wand-Enhancer](https://trescout.com/en/discover/wand-enhancer/)
 - [Univer](https://trescout.com/en/discover/univer/)
 - [Onnxruntime](https://trescout.com/en/discover/onnxruntime/)
 

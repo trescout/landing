@@ -62,7 +62,6 @@ El compilador JIT detecta instantáneamente bloques de código utilizados con fr
 - [Deno](https://trescout.com/es/discover/deno/)
 - [BUN](https://trescout.com/es/discover/bun/)
 - [Svelte](https://trescout.com/es/discover/svelte/)
-- [Wand-Enhancer](https://trescout.com/es/discover/wand-enhancer/)
 - [Univer](https://trescout.com/es/discover/univer/)
 - [Onnxruntime](https://trescout.com/es/discover/onnxruntime/)
 

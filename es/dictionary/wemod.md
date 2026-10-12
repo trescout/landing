@@ -38,10 +38,6 @@ No causa ningún daño permanente a los archivos originales del juego, ya que no
 - [RAM](https://trescout.com/es/dictionary/ram/)
 - [Software Reverse Engineering](https://trescout.com/es/dictionary/software-reverse-engineering/)
 
-## Herramientas relacionadas
-
-- [Wand-Enhancer](https://trescout.com/es/discover/wand-enhancer/)
-
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/wemod/)
 
 ---

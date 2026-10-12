@@ -65,25 +65,6 @@
           }
         },
         {
-          "title": "k1tbyte/Wand-Enhancer",
-          "url": "https://github.com/k1tbyte/Wand-Enhancer",
-          "summary": "Wand-Enhancer es un complemento de experiencia de usuario e interoperabilidad desarrollado para la herramienta de modificación de juegos Wand (WeMod). Escrito en el lenguaje C#, este software tiene como objetivo mejorar la funcionalidad y la interacción de la interfaz de la plataforma de modificación existente.",
-          "meta": "C# · ★ 23.091 · +718 hoy",
-          "snapshot": {
-            "sourceId": "k1tbyte/Wand-Enhancer",
-            "capturedAt": "2026-08-31T10:53:24.911Z",
-            "metadata": {
-              "language": "C#",
-              "popularity": 23091,
-              "engagementCount": 718,
-              "rank": 4,
-              "extra": {
-                "starsToday": 718
-              }
-            }
-          }
-        },
-        {
           "title": "majd/ipatool",
           "url": "https://github.com/majd/ipatool",
           "summary": "ipatool, desarrollado por Majd, es una herramienta de línea de comandos que permite buscar y descargar paquetes de aplicaciones (archivos IPA) para iOS, iPadOS, tvOS y visionOS desde la tienda de aplicaciones de Apple. Escrita en el lenguaje Go, esta herramienta facilita los procesos de gestión de paquetes para desarrolladores de software e investigadores al proporcionar acceso directo a los archivos de las aplicaciones.",

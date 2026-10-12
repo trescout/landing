@@ -2,7 +2,7 @@
 
 > TreScout scans GitHub, Hacker News and HuggingFace every day, summarizes the highlights and publishes one daily report on the web and as a PDF. Reports are public; no account is needed to read them.
 
-Last updated: 2026-10-12 · 625 tools · 712 terms
+Last updated: 2026-10-12 · 624 tools · 712 terms
 
 ## Tech Dictionary
 
@@ -1016,7 +1016,6 @@ Daily highlights of trending open-source projects with setup commands and AI-pow
 - [Cmux](https://trescout.com/en/discover/cmux/) (raw: https://trescout.com/en/discover/cmux.md): cmux, a Ghostty-based macOS terminal, offers notification support for vertical tabs and A…
 - [Kilocode](https://trescout.com/en/discover/kilocode/) (raw: https://trescout.com/en/discover/kilocode.md): Kilo is an all-in-one agent-based engineering platform designed to accelerate software de…
 - [SmsForwarder](https://trescout.com/en/discover/smsforwarder/) (raw: https://trescout.com/en/discover/smsforwarder.md): SmsForwarder sends text messages, calls and application notifications on Android devices…
-- [Wand-Enhancer](https://trescout.com/en/discover/wand-enhancer/) (raw: https://trescout.com/en/discover/wand-enhancer.md): Wand-Enhancer improves user experience and interoperability for the WeMod application.
 - [T3code](https://trescout.com/en/discover/t3code/) (raw: https://trescout.com/en/discover/t3code.md): T3Code is a toolset developed to improve and standardize code quality in TypeScript-based…
 - [Developer Portfolios](https://trescout.com/en/discover/developer-portfolios/) (raw: https://trescout.com/en/discover/developer-portfolios.md): A collection of developer portfolio examples to get inspiration for your own site.
 - [Pm Skills](https://trescout.com/en/discover/pm-skills/) (raw: https://trescout.com/en/discover/pm-skills.md): PM Skills Marketplace offers more than 100 agentic skills, commands and tools developed f…

@@ -38,10 +38,6 @@ Geralmente, como ele apenas altera os valores na memória, não causa danos perm
 - [RAM](https://trescout.com/pt/dictionary/ram/)
 - [Software Reverse Engineering](https://trescout.com/pt/dictionary/software-reverse-engineering/)
 
-## Ferramentas relacionadas
-
-- [Wand-Enhancer](https://trescout.com/pt/discover/wand-enhancer/)
-
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/wemod/)
 
 ---

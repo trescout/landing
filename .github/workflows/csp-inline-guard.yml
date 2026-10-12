@@ -80,6 +80,10 @@ jobs:
       - name: Var olmayan sayfaya bağlantı kontrolü
         run: python3 scripts/check-dizin-baglantilari.py
 
+      # Hak sahibi bildirimiyle kaldırılan keşif kaydı (assets/discover/kaldirilan.json) geri gelmesin.
+      - name: Kaldırılan keşif kayıtları kontrolü
+        run: python3 scripts/check-kaldirilan.py
+
       - name: .md uç noktaları güncel mi (HTML ↔ .md)
         run: python3 scripts/md-uret.py --check
 
