@@ -72,8 +72,40 @@
   if (!grid) return;
 
   var TAG_ORDER = ["Yapay zekâ araçları", "Geliştirici aracı", "Üretkenlik", "Öğrenme", "Kod bilmeyenler için"];
-  var state = { q: "", tag: null, sort: "date" };
+  var state = { q: "", tag: null, sort: "date", limit: 24 };
   var items = [];
+  var more, progress, random;
+  var randomPool = [];
+  function browsingControls() {
+    var labels = {tr: ['Daha fazla göster', 'Rastgele keşfet'], en: ['Show more', 'Explore randomly'], fr: ['Afficher plus', 'Découvrir au hasard'], 'pt-BR': ['Mostrar mais', 'Explorar ao acaso'], es: ['Mostrar más', 'Explorar al azar'], de: ['Mehr anzeigen', 'Zufällig entdecken']};
+    var copy = _dilSec(labels);
+    random = document.createElement('a');
+    random.className = 'catalog-random';
+    random.textContent = copy[1];
+    random.addEventListener('click', function () {
+      if (randomPool.length) random.href = yol(randomPool[Math.floor(Math.random() * randomPool.length)].slug);
+    });
+    grid.before(random);
+    var paging = document.createElement('div');
+    paging.className = 'catalog-browse';
+    more = document.createElement('button');
+    more.type = 'button';
+    more.className = 'btn catalog-more';
+    more.textContent = copy[0];
+    more.setAttribute('aria-controls', grid.id);
+    progress = document.createElement('span');
+    progress.setAttribute('aria-live', 'polite');
+    progress.setAttribute('aria-atomic', 'true');
+    paging.append(more, progress);
+    grid.after(paging);
+    more.addEventListener('click', function () {
+      var next = state.limit;
+      state.limit += 24;
+      render();
+      var firstNew = grid.querySelectorAll('.disc-card')[next];
+      if (firstNew) firstNew.focus();
+    });
+  }
 
   function card(it, index) {
     var imageLoading = index === 0 ? 'loading="eager" fetchpriority="high"' : 'loading="lazy"';
@@ -111,7 +143,12 @@
 
     var cnt = document.getElementById('disc-count');
     if (cnt) cnt.textContent = list.length === items.length ? (items.length + M.birim) : (list.length + ' / ' + items.length + M.birim);
-    grid.innerHTML = list.length ? list.map(card).join('') : '<p class="disc-loading">' + M.bos + '</p>';
+    grid.innerHTML = list.length ? list.slice(0, state.limit).map(card).join('') : '<p class="disc-loading">' + M.bos + '</p>';
+    more.hidden = state.limit >= list.length;
+    progress.textContent = Math.min(state.limit, list.length) + ' / ' + list.length + M.birim;
+    random.hidden = !list.length;
+    randomPool = list;
+    if (list.length) random.href = yol(list[Math.floor(Math.random() * list.length)].slug);
   }
 
   function chips() {
@@ -126,6 +163,7 @@
     box.querySelectorAll('.disc-chip').forEach(function (b) {
       b.addEventListener('click', function () {
         state.tag = b.getAttribute('data-tag') || null;
+        state.limit = 24;
         chips(); render();
       });
     });
@@ -146,9 +184,9 @@
       });
       if (Object.keys(basili).length) items = items.filter(function (it) { return basili[it.slug]; });
       if (!items.length) { grid.innerHTML = '<p class="disc-loading">Yakında ilk keşifler burada.</p>'; return; }
-      chips(); render();
+      browsingControls(); chips(); render();
       var s = document.getElementById('disc-search');
-      if (s) s.addEventListener('input', function () { state.q = s.value; render(); });
+      if (s) s.addEventListener('input', function () { state.q = s.value; state.limit = 24; render(); });
       var so = document.getElementById('disc-sort');
       /* Kontrol, listenin GERÇEK sırasını göstersin. Varsayılan 2026-08-19'da
          "stars"tan "date"e alındı ama açılır menünün ilk seçeneği "En çok
@@ -157,7 +195,7 @@
          değişse de ikisi ayrışmaz. */
       if (so) {
         so.value = state.sort;
-        so.addEventListener('change', function () { state.sort = so.value; render(); });
+        so.addEventListener('change', function () { state.sort = so.value; state.limit = 24; render(); });
       }
     })
     .catch(function () {

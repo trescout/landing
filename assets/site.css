@@ -337,6 +337,11 @@ nav :focus-visible, footer :focus-visible { outline-color: var(--on-brand); }
   color: var(--ink);
 }
 .btn-primary:hover { background: var(--pink-dark); }
+.catalog-browse { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin: 24px 0; }
+.catalog-browse span { font-size: var(--text-small); color: var(--ink-muted); }
+.catalog-more { background: var(--ink); color: var(--bg); cursor: pointer; }
+.catalog-random { display: inline-block; margin-top: 16px; color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.catalog-more[hidden], .catalog-random[hidden] { display: none; }
 .btn-ghost { color: var(--accent); }
 .btn-ghost:hover { color: var(--accent-dark); }
 
