@@ -24,6 +24,7 @@ Dear ImGui ist eine leichte grafische Benutzeroberflächenbibliothek für C++-Pr
 
 - [User Interface](https://trescout.com/de/dictionary/user-interface/)
 - [GUI](https://trescout.com/de/dictionary/gui/)
+- [Interface](https://trescout.com/de/dictionary/interface/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die mit C++ in schnellen Werkzeugentwicklungs-, Debugging- und Visualisierungsprozessen arbeiten.
 - **Lizenz:** MIT

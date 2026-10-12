@@ -66,10 +66,10 @@ Review this code review and prepare a structured list of any bugs or improvement
 
 - [Code Review](https://trescout.com/en/dictionary/code-review/)
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
+- [Interface](https://trescout.com/en/dictionary/interface/)
 - [Markdown](https://trescout.com/en/dictionary/markdown/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
-- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for developers who want to manage their code review processes with Vim shortcuts without leaving the terminal.
 - **License:** MIT

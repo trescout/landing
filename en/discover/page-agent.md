@@ -36,6 +36,7 @@ I want to manage interactions on the web page with natural language commands usi
 - [Page Agent](https://trescout.com/en/dictionary/page-agent/)
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
 - [GUI](https://trescout.com/en/dictionary/gui/)
+- [Interface](https://trescout.com/en/dictionary/interface/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

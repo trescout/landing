@@ -36,6 +36,7 @@ Se considera legal con fines de seguridad y prevención de fraudes; sin embargo,
 
 ## Términos relacionados
 
+- [Cookies](https://trescout.com/es/dictionary/cookies/)
 - [Digital Privacy](https://trescout.com/es/dictionary/digital-privacy/)
 - [Ad Tech](https://trescout.com/es/dictionary/ad-tech/)
 - [Web Scraping](https://trescout.com/es/dictionary/web-scraping/)

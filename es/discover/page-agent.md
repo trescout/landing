@@ -36,6 +36,7 @@ Quiero gestionar interacciones en la página web con comandos de lenguaje natura
 - [Page Agent](https://trescout.com/es/dictionary/page-agent/)
 - [User Interface](https://trescout.com/es/dictionary/user-interface/)
 - [GUI](https://trescout.com/es/dictionary/gui/)
+- [Interface](https://trescout.com/es/dictionary/interface/)
 - [Agent](https://trescout.com/es/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

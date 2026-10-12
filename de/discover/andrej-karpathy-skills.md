@@ -47,8 +47,8 @@ Nennen Sie zuerst den Plan, Unsicherheiten und betroffene Dateien für diese Auf
 ## Verwandte Begriffe aus dem Glossar
 
 - [Coding Agent](https://trescout.com/de/dictionary/coding-agent/)
-- [Plugin](https://trescout.com/de/dictionary/plugin/)
 - [Runtime](https://trescout.com/de/dictionary/runtime/)
+- [Plugin](https://trescout.com/de/dictionary/plugin/)
 - [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Agent](https://trescout.com/de/dictionary/agent/)

@@ -36,6 +36,7 @@ Não; a aba anônima apenas não salva o histórico de navegação e os cookies,
 
 ## Termos relacionados
 
+- [Cookies](https://trescout.com/pt/dictionary/cookies/)
 - [Digital Privacy](https://trescout.com/pt/dictionary/digital-privacy/)
 - [Ad Tech](https://trescout.com/pt/dictionary/ad-tech/)
 - [Web Scraping](https://trescout.com/pt/dictionary/web-scraping/)

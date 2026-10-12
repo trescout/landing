@@ -9241,5 +9241,18 @@
     "kisa_pt": "São pequenos arquivos de dados que os sites armazenam no navegador para lembrar as preferências do usuário e o status da sessão.",
     "kisa_es": "Son pequeños archivos de datos que los sitios web almacenan en el navegador para recordar las preferencias del usuario y el estado de la sesión.",
     "kisa_de": "Kleine Datendateien, die Websites im Browser speichern, um sich an Nutzerpräferenzen und den Sitzungsstatus zu erinnern."
+  },
+  {
+    "slug": "interface",
+    "en": "Interface",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcının bir sistemi yönetmesini veya iki yazılım bileşeninin birbiriyle konuşmasını sağlayan ortak iletişim sınırıdır.",
+    "date": "2026-10-12",
+    "kisa_en": "It is the shared communication boundary that allows a user to manage a system or two software components to talk to each other.",
+    "kisa_fr": "C'est une frontière de communication commune qui permet à un utilisateur de gérer un système ou à deux composants logiciels de communiquer entre eux.",
+    "kisa_pt": "É um limite de comunicação comum que permite a um usuário gerenciar um sistema ou a dois componentes de software conversarem entre si.",
+    "kisa_es": "Es el límite de comunicación común que permite a un usuario administrar un sistema o a dos componentes de software comunicarse entre sí.",
+    "kisa_de": "Es ist eine gemeinsame Kommunikationsgrenze, die es einem Benutzer ermöglicht, ein System zu verwalten, oder zwei Softwarekomponenten, miteinander zu kommunizieren."
   }
 ]

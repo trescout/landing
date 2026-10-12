@@ -41,6 +41,7 @@ I want to install Open WebUI to run local or cloud-based AI models on my compute
 ## Related dictionary terms
 
 - [Backend](https://trescout.com/en/dictionary/backend/)
+- [Interface](https://trescout.com/en/dictionary/interface/)
 - [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

@@ -2,16 +2,16 @@
 
 Soup es una biblioteca de Python que permite ajustar modelos de lenguaje grandes a través de un único archivo YAML. Puede entrenar modelos con 8 mil millones de parámetros utilizando el método de transmisión por capas en procesadores gráficos de portátiles con 4 GB de memoria.
 
-- ★ 7.988
+- ★ 8.615
 - Python
 - GitHub Trending · 2026-08-16
 
 ## Actualizaciones
 
+- **12 de octubre de 2026:** Estrellas 7,988 → 8,615, última versión v0.76.0 (12 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 7,309 → 7,988, última versión v0.75.2 (1 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 6,267 → 7,309, última versión v0.75.1 (21 de septiembre de 2026).
 - **13 de septiembre de 2026:** Estrellas 5,332 → 6,267, última versión v0.75.0 (12 de septiembre de 2026).
-- **5 de septiembre de 2026:** Estrellas 4,285 → 5,332, última versión v0.74.0 (4 de septiembre de 2026).
 
 ## Qué aporta
 

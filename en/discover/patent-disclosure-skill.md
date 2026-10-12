@@ -2,12 +2,13 @@
 
 The Python-based Patent Disclosure Skill analyzes technical invention drafts to generate technical descriptions, claims, and prior art comparisons in accordance with official patent formats.
 
-- ★ 10,360
+- ★ 11,377
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Updates
 
+- **October 12, 2026:** Stars 10,360 → 11,377.
 - **September 27, 2026:** Stars 6,058 → 10,360.
 
 ## What you get

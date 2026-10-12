@@ -36,6 +36,7 @@ Elle est considérée comme légale à des fins de sécurité et de prévention 
 
 ## Termes liés
 
+- [Cookies](https://trescout.com/fr/dictionary/cookies/)
 - [Digital Privacy](https://trescout.com/fr/dictionary/digital-privacy/)
 - [Ad Tech](https://trescout.com/fr/dictionary/ad-tech/)
 - [Web Scraping](https://trescout.com/fr/dictionary/web-scraping/)

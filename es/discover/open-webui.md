@@ -41,6 +41,7 @@ Quiero instalar Open WebUI para ejecutar modelos de inteligencia artificial loca
 ## Términos relacionados del glosario
 
 - [Backend](https://trescout.com/es/dictionary/backend/)
+- [Interface](https://trescout.com/es/dictionary/interface/)
 - [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

@@ -2,16 +2,16 @@
 
 Soup is a Python library that allows fine-tuning of large language models via a single YAML file. It can train models with 8 billion parameters using the layer streaming method on laptop graphics processors with 4 GB memory.
 
-- ★ 7,988
+- ★ 8,615
 - Python
 - GitHub Trending · 2026-08-16
 
 ## Updates
 
+- **October 12, 2026:** Stars 7,988 → 8,615, latest release v0.76.0 (October 12, 2026).
 - **October 2, 2026:** Stars 7,309 → 7,988, latest release v0.75.2 (October 1, 2026).
 - **September 27, 2026:** Stars 6,267 → 7,309, latest release v0.75.1 (September 21, 2026).
 - **September 13, 2026:** Stars 5,332 → 6,267, latest release v0.75.0 (September 12, 2026).
-- **September 5, 2026:** Stars 4,285 → 5,332, latest release v0.74.0 (September 4, 2026).
 
 ## What you get
 

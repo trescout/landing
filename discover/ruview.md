@@ -2,7 +2,7 @@
 
 WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.
 
-- ★ 97.225
+- ★ 97.574
 - GitHub Trending · 2026-05-30
 
 ## Kurulum
@@ -37,10 +37,10 @@ docker run -p 3000:3000 ruvnet/wifi-densepose:latest
 
 ## Güncelleme
 
+- **12 Ekim 2026:** Yıldız 97.225 → 97.574, son sürüm ruview-harness-v0.9.2 (12 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 96.773 → 97.225, son sürüm v3122 (10 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 96.651 → 96.773, son sürüm v3067 (6 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 96.464 → 96.651, son sürüm v3060 (5 Ekim 2026).
-- **5 Ekim 2026:** Yıldız 95.926 → 96.464, son sürüm v3037 (4 Ekim 2026).
 
 ## Bu araç ne yapar?
 

@@ -47,8 +47,8 @@ Primeiro apresente o plano, as incertezas e os arquivos afetados por esta tarefa
 ## Termos relacionados do glossário
 
 - [Coding Agent](https://trescout.com/pt/dictionary/coding-agent/)
-- [Plugin](https://trescout.com/pt/dictionary/plugin/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
+- [Plugin](https://trescout.com/pt/dictionary/plugin/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Agent](https://trescout.com/pt/dictionary/agent/)

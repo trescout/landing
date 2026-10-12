@@ -49,6 +49,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Backend](https://trescout.com/dictionary/backend/)
+- [Interface](https://trescout.com/dictionary/interface/)
 - [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

@@ -40,11 +40,12 @@ Bir işlemcinin içinde aynı anda birden fazla işi yapabilen bağımsız küç
 
 - [Tensorflow](https://trescout.com/discover/tensorflow/)
 - [Llmfit](https://trescout.com/discover/llmfit/)
-- [CasaOS](https://trescout.com/discover/casaos/)
 - [Airllm](https://trescout.com/discover/airllm/)
+- [CasaOS](https://trescout.com/discover/casaos/)
 - [Omlx](https://trescout.com/discover/omlx/)
 - [Ktransformers](https://trescout.com/discover/ktransformers/)
 - [Pocket TTS](https://trescout.com/discover/pocket-tts/)
+- [Tilelang](https://trescout.com/discover/tilelang/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

@@ -36,6 +36,7 @@ Zu Sicherheits- und Betrugspräventionszwecken gilt sie als legal; wenn sie jedo
 
 ## Verwandte Begriffe
 
+- [Cookies](https://trescout.com/de/dictionary/cookies/)
 - [Digital Privacy](https://trescout.com/de/dictionary/digital-privacy/)
 - [Ad Tech](https://trescout.com/de/dictionary/ad-tech/)
 - [Web Scraping](https://trescout.com/de/dictionary/web-scraping/)

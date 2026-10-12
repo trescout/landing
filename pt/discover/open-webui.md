@@ -41,6 +41,7 @@ Quero instalar o Open WebUI no meu computador para executar modelos de inteligê
 ## Termos relacionados do glossário
 
 - [Backend](https://trescout.com/pt/dictionary/backend/)
+- [Interface](https://trescout.com/pt/dictionary/interface/)
 - [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

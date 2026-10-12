@@ -66,10 +66,10 @@ Revise esta revisión de código y prepare una lista estructurada de cualquier e
 
 - [Code Review](https://trescout.com/es/dictionary/code-review/)
 - [User Interface](https://trescout.com/es/dictionary/user-interface/)
+- [Interface](https://trescout.com/es/dictionary/interface/)
 - [Markdown](https://trescout.com/es/dictionary/markdown/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
-- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para desarrolladores que quieren gestionar sus procesos de revisión de código con atajos de Vim sin salir del terminal.
 - **Licencia:** MIT

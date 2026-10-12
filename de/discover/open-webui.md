@@ -41,6 +41,7 @@ Ich möchte Open WebUI installieren, um lokale oder cloudbasierte KI-Modelle auf
 ## Verwandte Begriffe aus dem Glossar
 
 - [Backend](https://trescout.com/de/dictionary/backend/)
+- [Interface](https://trescout.com/de/dictionary/interface/)
 - [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

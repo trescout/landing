@@ -2,16 +2,16 @@
 
 AirLLM is a groundbreaking open-source library that runs massive large language models (LLMs) with 70 billion and 405 billion parameters on standard consumer-grade graphics cards with only 4 GB of video memory (VRAM), without the need for enterprise servers or expensive GPU clusters.
 
-- ★ 35,481
+- ★ 37,368
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
 ## Updates
 
+- **October 12, 2026:** Stars 35,481 → 37,368, latest release v4.0.0 (September 5, 2026).
 - **October 7, 2026:** Stars 33,755 → 35,481, latest release v4.0.0 (September 5, 2026).
 - **September 6, 2026:** Stars 33,307 → 33,755, latest release v4.0.0 (September 5, 2026).
 - **August 31, 2026:** Stars 31,598 → 33,307, latest release v3.3.0 (August 28, 2026).
-- **August 19, 2026:** Stars 30,796 → 31,598, latest release v3.2.0 (August 18, 2026).
 
 ## What you get
 

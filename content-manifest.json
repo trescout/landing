@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1.0",
-  "generated_at": "2026-10-12T15:42:38.428042+00:00",
-  "source_git_commit": "a5de7cc7d7315af682391bbe9f2fb71e7ec4ee11",
+  "generated_at": "2026-10-12T20:18:31.515513+00:00",
+  "source_git_commit": "8e590b193c7727c26029f729e9f3cb442b39e364",
   "content_version": "2026-10-12",
   "locales": [
     "tr",
@@ -59,12 +59,12 @@
     }
   },
   "integrity_checksums": {
-    "assets/discover/catalog.json": "82b6eab2cf04fa67d605f59e26e927a1b05fd7a03ec5acad944aea538f19be59",
-    "assets/dictionary/dictionary.json": "2e6b9c3a4db269ef5ef2dbc64cc364fe8b15e23e456acf0333b1c596e172b475",
-    "sitemap.xml": "4166bc80428fa96898cf5e8bb2f9ef3db7c924ebbb5e6fd9604d9fb0bb72ef07",
-    "llms.txt": "e18e5203af42e0269d8222cff02d4a4bf8cde59b579e17a84dfe411a5a0a0586",
-    "llms-full.txt": "726a086b957a18d0e8dbf1825173f8db7ba0fd1bf7a4fdced641d82392ab1e37",
-    "llms-en.txt": "8328c43dae00c5592e21c08f6885f0f8c5d617636aee82ff5d3215b773943565",
+    "assets/discover/catalog.json": "a77546c21a8df718e7d0c6c33f006107e8561527cbf04f223ac9c3070b4437bf",
+    "assets/dictionary/dictionary.json": "05b7616e479f35868f72c276d81eafc91bb0f1dea01a3cfed6680dfe2b99dc6c",
+    "sitemap.xml": "a8be7ac4ac9416e57bd645bf3e0369bafef199be2d99aa65eec1c802f33a5173",
+    "llms.txt": "9d9cdb9b213f04e1dc3014aedcc4a72617d1efdd07974268df33f451b37bc2c2",
+    "llms-full.txt": "b6c4acdeba8311baaa1d89c21c34ff29600998277eece30fd23083182f570535",
+    "llms-en.txt": "6a8a1d4f841f58db6af3f3a09f1b8af5c325512a919bc65c75df0dbe934688f9",
     "vercel.json": "55082000a6e680ebd235d3661093eef3e2450898d91cc9a3d57735f543840367"
   }
 }

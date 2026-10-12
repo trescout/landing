@@ -2,16 +2,16 @@
 
 Instatic es un moderno sistema de gestión de contenido visual (CMS) autohospedado basado en TypeScript. Permite a los usuarios ejecutar la interfaz de administración de contenido en sus propios servidores con un proceso de instalación rápido.
 
-- ★ 8.609
+- ★ 8.929
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Actualizaciones
 
+- **12 de octubre de 2026:** Estrellas 8,609 → 8,929, última versión v0.0.21 (12 de octubre de 2026).
 - **14 de septiembre de 2026:** Estrellas 8,568 → 8,609, última versión v0.0.20 (13 de septiembre de 2026).
 - **11 de septiembre de 2026:** Estrellas 8,368 → 8,568, última versión v0.0.19 (10 de septiembre de 2026).
 - **2 de septiembre de 2026:** Estrellas 8,329 → 8,368, última versión v0.0.18 (2 de septiembre de 2026).
-- **31 de agosto de 2026:** Estrellas 7,891 → 8,329, última versión v0.0.17 (30 de agosto de 2026).
 
 ## Qué aporta
 

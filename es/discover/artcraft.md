@@ -2,16 +2,16 @@
 
 ArtCraft es un motor de creación de contenido (crafting engine) desarrollado para artistas y diseñadores. Escrita en el lenguaje Rust, esta herramienta automatiza flujos de trabajo complejos en procesos creativos, estandarizando los procesos de producción visual.
 
-- ★ 19.954
+- ★ 21.267
 - Rust
 - GitHub Trending · 2026-10-08
 
 ## Actualizaciones
 
+- **12 de octubre de 2026:** Estrellas 19,954 → 21,267, última versión artcraft-v0.41.0 (26 de septiembre de 2026).
 - **12 de octubre de 2026:** Estrellas 18,152 → 19,954, última versión artcraft-v0.41.0 (26 de septiembre de 2026).
 - **12 de octubre de 2026:** Estrellas 15,696 → 18,152, última versión artcraft-v0.41.0 (26 de septiembre de 2026).
 - **11 de octubre de 2026:** Estrellas 12,785 → 15,696, última versión artcraft-v0.41.0 (26 de septiembre de 2026).
-- **10 de octubre de 2026:** Estrellas 10,791 → 12,785, última versión artcraft-v0.41.0 (26 de septiembre de 2026).
 
 ## Qué aporta
 

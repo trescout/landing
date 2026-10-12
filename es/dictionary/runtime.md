@@ -64,6 +64,7 @@ El compilador JIT detecta instantáneamente bloques de código utilizados con fr
 - [Svelte](https://trescout.com/es/discover/svelte/)
 - [Univer](https://trescout.com/es/discover/univer/)
 - [Onnxruntime](https://trescout.com/es/discover/onnxruntime/)
+- [OpenShell](https://trescout.com/es/discover/openshell/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/runtime/)
 

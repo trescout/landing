@@ -47,6 +47,7 @@ flutter run
 ## Verwandte Begriffe aus dem Glossar
 
 - [User Interface](https://trescout.com/de/dictionary/user-interface/)
+- [Interface](https://trescout.com/de/dictionary/interface/)
 - [Framework](https://trescout.com/de/dictionary/framework/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler, die Anwendungen für mehrere Plattformen gleichzeitig aus einer einzigen Codebasis entwickeln möchten.

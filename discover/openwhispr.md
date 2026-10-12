@@ -2,16 +2,16 @@
 
 OpenWhispr, ses dosyalarını metne dönüştüren (voice-to-text) ve yerel modeller ile bulut tabanlı seçenekleri birleştiren bir dikte uygulamasıdır. Gizlilik odaklı yapısıyla Nvidia Parakeet veya Whisper gibi modelleri kendi cihazınızda çalıştırmanıza veya kendi API anahtarınızla bulut servislerini kullanmanıza imkan tanır.
 
-- ★ 9.219
+- ★ 9.311
 - JavaScript
 - GitHub Trending · 2026-09-07
 
 ## Güncelleme
 
+- **12 Ekim 2026:** Yıldız 9.219 → 9.311, son sürüm v1.10.3 (12 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 8.205 → 9.219, son sürüm v1.10.2 (15 Eylül 2026).
 - **15 Eylül 2026:** Yıldız 8.031 → 8.205, son sürüm v1.10.2 (15 Eylül 2026).
 - **11 Eylül 2026:** Yıldız 7.660 → 8.031, son sürüm v1.10.0 (11 Eylül 2026).
-- **7 Eylül 2026:** Yıldız 7.659 → 7.660, son sürüm v1.9.2 (29 Ağustos 2026).
 
 ## Ne kazandırır?
 

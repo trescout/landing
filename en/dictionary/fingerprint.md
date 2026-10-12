@@ -36,6 +36,7 @@ It is considered legal for security and fraud prevention purposes; however, when
 
 ## Related terms
 
+- [Cookies](https://trescout.com/en/dictionary/cookies/)
 - [Digital Privacy](https://trescout.com/en/dictionary/digital-privacy/)
 - [Ad Tech](https://trescout.com/en/dictionary/ad-tech/)
 - [Web Scraping](https://trescout.com/en/dictionary/web-scraping/)

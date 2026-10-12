@@ -35,6 +35,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [User Interface](https://trescout.com/dictionary/user-interface/)
 - [GUI](https://trescout.com/dictionary/gui/)
+- [Interface](https://trescout.com/dictionary/interface/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/imgui/
