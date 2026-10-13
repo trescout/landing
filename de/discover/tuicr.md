@@ -66,10 +66,10 @@ Sehen Sie sich diese Codeüberprüfung an und erstellen Sie eine strukturierte L
 
 - [Code Review](https://trescout.com/de/dictionary/code-review/)
 - [User Interface](https://trescout.com/de/dictionary/user-interface/)
+- [Interface](https://trescout.com/de/dictionary/interface/)
 - [Markdown](https://trescout.com/de/dictionary/markdown/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
-- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die ihre Codeüberprüfungsprozesse mit Vim-Verknüpfungen verwalten möchten, ohne das Terminal zu verlassen.
 - **Lizenz:** MIT

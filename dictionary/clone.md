@@ -66,13 +66,13 @@ Evet. Klasör içinde git pull çalıştırmanız yeterlidir. Değişikliğiniz 
 ## İlgili araçlar
 
 - [MoneyPrinterTurbo](https://trescout.com/discover/moneyprinterturbo/)
+- [BitNet](https://trescout.com/discover/bitnet/)
 - [VoxCPM](https://trescout.com/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/discover/clone-wars/)
 - [Univer](https://trescout.com/discover/univer/)
 - [OpenStock](https://trescout.com/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/discover/hermes-webui/)
 - [openGym](https://trescout.com/discover/opengym/)
-- [Production Agentic RAG Course](https://trescout.com/discover/production-agentic-rag-course/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

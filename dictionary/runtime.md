@@ -62,9 +62,9 @@ JIT derleyici, program çalışırken sık kullanılan kod bloklarını ("hot pa
 - [Deno](https://trescout.com/discover/deno/)
 - [BUN](https://trescout.com/discover/bun/)
 - [Svelte](https://trescout.com/discover/svelte/)
-- [Wand-Enhancer](https://trescout.com/discover/wand-enhancer/)
 - [Univer](https://trescout.com/discover/univer/)
 - [Onnxruntime](https://trescout.com/discover/onnxruntime/)
+- [OpenShell](https://trescout.com/discover/openshell/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

@@ -29,16 +29,56 @@ def expected_slugs(catalog: list[dict[str, object]]) -> list[str]:
     ]
 
 
+from html.parser import HTMLParser
+
+
+class DiscoverGridParser(HTMLParser):
+    def __init__(self, prefix: str) -> None:
+        super().__init__()
+        self.prefix = prefix
+        self.in_grid = False
+        self.grid_depth = 0
+        self.found_grid = False
+        self.slugs: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        attr_dict = dict(attrs)
+        if attr_dict.get("id") == "discover-grid":
+            self.in_grid = True
+            self.found_grid = True
+            self.grid_depth = 1
+            return
+        if self.in_grid:
+            self.grid_depth += 1
+            if tag == "a":
+                classes = (attr_dict.get("class") or "").split()
+                if "disc-card" in classes:
+                    href = attr_dict.get("href") or ""
+                    m = re.match(rf"^{re.escape(self.prefix)}/discover/([^/]+)/?$", href)
+                    if m:
+                        self.slugs.append(m.group(1))
+
+    def handle_endtag(self, tag: str) -> None:
+        if self.in_grid:
+            self.grid_depth -= 1
+            if self.grid_depth == 0:
+                self.in_grid = False
+
+
+def extract_grid_slugs(html: str, prefix: str) -> list[str]:
+    parser = DiscoverGridParser(prefix)
+    parser.feed(html)
+    if not parser.found_grid:
+        raise ValueError("discovery grid boundary not found")
+    return parser.slugs
+
+
 def rendered_slugs(path: Path, prefix: str) -> list[str]:
     html = path.read_text(encoding="utf-8")
-    grid_start = html.find('id="discover-grid"')
-    grid_end = html.find('<p class="disc-empty"', grid_start)
-    if grid_end < 0:
-        grid_end = html.find('disc-cta', grid_start)
-    if grid_start < 0 or grid_end < 0:
-        raise ValueError(f"{path}: discovery grid boundary not found")
-    grid = html[grid_start:grid_end]
-    return re.findall(rf'href="{re.escape(prefix)}/discover/([^/]+)/"', grid)
+    try:
+        return extract_grid_slugs(html, prefix)
+    except ValueError as exc:
+        raise ValueError(f"{path}: {exc}") from exc
 
 
 def main() -> int:

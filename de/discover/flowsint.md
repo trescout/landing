@@ -46,8 +46,8 @@ Ich möchte das Flowsint-Tool installieren. Helfen Sie mir, die Installation abz
 
 - [Graph-based Investigation](https://trescout.com/de/dictionary/graph-based-investigation/)
 - [OSINT](https://trescout.com/de/dictionary/osint/)
-- [Clone](https://trescout.com/de/dictionary/clone/)
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
+- [Clone](https://trescout.com/de/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es handelt sich um eine Bewertungsplattform für Cybersicherheitsforscher, Journalisten und OSINT-Analysten.

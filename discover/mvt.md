@@ -2,15 +2,15 @@
 
 Mobile Verification Toolkit, mobil cihazlarda güvenlik ihlallerini tespit etmek için kullanılan bir adli bilişim aracıdır. Python diliyle geliştirilen bu yazılım, cihaz verilerini analiz ederek olası siber saldırı izlerini ortaya çıkarır.
 
-- ★ 15.221
+- ★ 15.319
 - GitHub Trending · 2026-09-22
 
 ## Güncelleme
 
+- **12 Ekim 2026:** Yıldız 15.221 → 15.319, son sürüm v2026.10.12 (12 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 14.955 → 15.221, son sürüm v2026.10.5 (5 Ekim 2026).
 - **28 Eylül 2026:** Yıldız 14.900 → 14.955, son sürüm v2026.9.28 (28 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 14.780 → 14.900, son sürüm v2026.9.21 (21 Eylül 2026).
-- **25 Eylül 2026:** Yıldız 13.746 → 14.780.
 
 ## Ne kazandırır?
 

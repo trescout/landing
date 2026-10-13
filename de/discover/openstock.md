@@ -51,8 +51,8 @@ Helfen Sie mir, eine Open-Source-Anwendung zur Bestandsverfolgung namens OpenSto
 ## Verwandte Begriffe aus dem Glossar
 
 - [Self-hosting](https://trescout.com/de/dictionary/self-hosting/)
-- [Clone](https://trescout.com/de/dictionary/clone/)
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
+- [Clone](https://trescout.com/de/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Diejenigen, die die Börse/Aktien verfolgen wollen

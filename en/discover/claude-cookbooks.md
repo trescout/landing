@@ -2,12 +2,13 @@
 
 Claude cookbooks shared by Anthropics provide practical code examples and Jupyter notebooks for using Claude models. This resource provides a variety of workflow templates to help developers speed up Claude integration into AI applications.
 
-- ★ 50,838
+- ★ 53,381
 - Jupyter Notebook
 - GitHub Trending · 2026-07-10
 
 ## Updates
 
+- **October 12, 2026:** Stars 50,838 → 53,381.
 - **August 2, 2026:** Stars 47,306 → 50,838.
 
 ## What you get

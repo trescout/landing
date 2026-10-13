@@ -62,9 +62,9 @@ Le compilateur JIT détecte instantanément les blocs de code fréquemment utili
 - [Deno](https://trescout.com/fr/discover/deno/)
 - [BUN](https://trescout.com/fr/discover/bun/)
 - [Svelte](https://trescout.com/fr/discover/svelte/)
-- [Wand-Enhancer](https://trescout.com/fr/discover/wand-enhancer/)
 - [Univer](https://trescout.com/fr/discover/univer/)
 - [Onnxruntime](https://trescout.com/fr/discover/onnxruntime/)
+- [OpenShell](https://trescout.com/fr/discover/openshell/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/runtime/)
 

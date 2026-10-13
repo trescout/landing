@@ -47,8 +47,8 @@ Commencez par exposer le plan, les incertitudes et les fichiers concernés par c
 ## Termes liés du glossaire
 
 - [Coding Agent](https://trescout.com/fr/dictionary/coding-agent/)
-- [Plugin](https://trescout.com/fr/dictionary/plugin/)
 - [Runtime](https://trescout.com/fr/dictionary/runtime/)
+- [Plugin](https://trescout.com/fr/dictionary/plugin/)
 - [AI Skills](https://trescout.com/fr/dictionary/ai-skills/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)

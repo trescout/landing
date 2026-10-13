@@ -7163,19 +7163,6 @@
     "kisa_de": "Die amerikanische Regierungsbehörde, die durch die Überwachung von Internet- und Kommunikationsnetzwerken Informationen für die nationale Sicherheit sammelt."
   },
   {
-    "slug": "wemod",
-    "en": "WeMod",
-    "full": "",
-    "cat": "dev",
-    "kisa": "Bilgisayar oyunlarında hile yapmayı veya oyun ayarlarını değiştirmeyi kolaylaştıran bir yazılım platformu.",
-    "date": "2026-09-01",
-    "kisa_en": "A software platform that facilitates cheating in computer games or modifying game settings.",
-    "kisa_fr": "Une plateforme logicielle qui facilite la triche dans les jeux vidéo ou la modification des paramètres de jeu.",
-    "kisa_pt": "Uma plataforma de software que facilita a trapaça em jogos de computador ou a alteração das configurações dos jogos.",
-    "kisa_es": "Una plataforma de software que facilita hacer trampas en los videojuegos o modificar los ajustes del juego.",
-    "kisa_de": "Eine Softwareplattform, die das Schummeln in Computerspielen oder das Ändern von Spieleinstellungen erleichtert."
-  },
-  {
     "slug": "llm-inference",
     "en": "LLM Inference",
     "full": "",
@@ -9202,5 +9189,70 @@
     "kisa_pt": "É um gênero de jogo de estratégia e simulação no qual os jogadores constroem uma cidade do zero e a expandem gerenciando infraestrutura e recursos.",
     "kisa_es": "Es un género de videojuegos de estrategia y simulación en el que los jugadores construyen una ciudad desde cero, haciéndola crecer mediante la gestión de infraestructuras y recursos.",
     "kisa_de": "Ein Strategiesimulations-Spielgenre, bei dem Spieler eine Stadt von Grund auf neu aufbauen und sie durch die Verwaltung von Infrastruktur und Ressourcen vergrößern."
+  },
+  {
+    "slug": "inference-framework",
+    "en": "Inference Framework",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Eğitilmiş yapay zekâ modellerinin üretim ortamında hızlı, verimli ve düşük maliyetle çalıştırılmasını sağlayan yazılım altyapısıdır.",
+    "date": "2026-10-12",
+    "kisa_en": "It is the software infrastructure that enables trained artificial intelligence models to run quickly, efficiently, and at low cost in a production environment.",
+    "kisa_fr": "Infrastructure logicielle permettant d'exécuter des modèles d'intelligence artificielle entraînés dans un environnement de production de manière rapide, efficace et à faible coût.",
+    "kisa_pt": "É a infraestrutura de software que permite a execução rápida, eficiente e de baixo custo de modelos treinados de inteligência artificial em ambiente de produção.",
+    "kisa_es": "Es la infraestructura de software que permite ejecutar modelos de inteligencia artificial entrenados en entornos de producción de manera rápida, eficiente y a bajo costo.",
+    "kisa_de": "Eine Softwareinfrastruktur, die die schnelle, effiziente und kostengünstige Ausführung trainierter KI-Modelle in Produktionsumgebungen ermöglicht."
+  },
+  {
+    "slug": "click-to-cancel",
+    "en": "Click to Cancel",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Abonelik iptal işlemlerinin karmaşık süreçler olmadan tek bir tıklamayla kolayca yapılabilmesini şart koşan yasal düzenleme kuralıdır.",
+    "date": "2026-10-12",
+    "kisa_en": "It is a regulatory rule requiring subscription cancellations to be easily made with a single click without complex processes.",
+    "kisa_fr": "Règle réglementaire exigeant que les démarches de résiliation d'abonnement puissent être effectuées facilement en un seul clic, sans processus complexes.",
+    "kisa_pt": "É a regra regulatória que exige que os cancelamentos de assinaturas possam ser realizados facilmente com um único clique, sem processos complexos.",
+    "kisa_es": "Es una norma regulatoria que estipula que las cancelaciones de suscripciones puedan realizarse fácilmente con un solo clic, sin procesos complejos.",
+    "kisa_de": "Eine gesetzliche Regelung, die vorschreibt, dass Kündigungen von Abonnements ohne komplizierte Prozesse mit nur einem Klick durchgeführt werden können."
+  },
+  {
+    "slug": "fingerprint",
+    "en": "Fingerprint",
+    "full": "Device Fingerprint",
+    "cat": "data",
+    "kisa": "Kullanıcının cihaz ayarları ve tarayıcı özellikleri üzerinden oluşturulan benzersiz dijital kimliktir.",
+    "date": "2026-10-12",
+    "kisa_en": "It is a unique digital identity generated from the user's device settings and browser characteristics.",
+    "kisa_fr": "Identité numérique unique générée à partir des paramètres de l'appareil et des caractéristiques du navigateur de l'utilisateur.",
+    "kisa_pt": "É uma identidade digital única gerada com base nas configurações do dispositivo e nas características do navegador do usuário.",
+    "kisa_es": "Es una identidad digital única generada a partir de la configuración del dispositivo y las características del navegador del usuario.",
+    "kisa_de": "Eine eindeutige digitale Identität, die auf Basis der Geräteeinstellungen und Browsereigenschaften des Nutzers erstellt wird."
+  },
+  {
+    "slug": "cookies",
+    "en": "Cookies",
+    "full": "HTTP Cookies",
+    "cat": "dev",
+    "kisa": "İnternet sitelerinin kullanıcı tercihlerini ve oturum durumunu hatırlamak için tarayıcıda sakladığı küçük veri dosyalarıdır.",
+    "date": "2026-10-12",
+    "kisa_en": "They are small data files stored in the browser by websites to remember user preferences and session status.",
+    "kisa_fr": "Petits fichiers de données que les sites Internet stockent dans le navigateur pour mémoriser les préférences de l'utilisateur et l'état de la session.",
+    "kisa_pt": "São pequenos arquivos de dados que os sites armazenam no navegador para lembrar as preferências do usuário e o status da sessão.",
+    "kisa_es": "Son pequeños archivos de datos que los sitios web almacenan en el navegador para recordar las preferencias del usuario y el estado de la sesión.",
+    "kisa_de": "Kleine Datendateien, die Websites im Browser speichern, um sich an Nutzerpräferenzen und den Sitzungsstatus zu erinnern."
+  },
+  {
+    "slug": "interface",
+    "en": "Interface",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kullanıcının bir sistemi yönetmesini veya iki yazılım bileşeninin birbiriyle konuşmasını sağlayan ortak iletişim sınırıdır.",
+    "date": "2026-10-12",
+    "kisa_en": "It is the shared communication boundary that allows a user to manage a system or two software components to talk to each other.",
+    "kisa_fr": "C'est une frontière de communication commune qui permet à un utilisateur de gérer un système ou à deux composants logiciels de communiquer entre eux.",
+    "kisa_pt": "É um limite de comunicação comum que permite a um usuário gerenciar um sistema ou a dois componentes de software conversarem entre si.",
+    "kisa_es": "Es el límite de comunicación común que permite a un usuario administrar un sistema o a dos componentes de software comunicarse entre sí.",
+    "kisa_de": "Es ist eine gemeinsame Kommunikationsgrenze, die es einem Benutzer ermöglicht, ein System zu verwalten, oder zwei Softwarekomponenten, miteinander zu kommunizieren."
   }
 ]

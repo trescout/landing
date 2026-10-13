@@ -36,6 +36,7 @@ Porque é necessário garantir a segurança dos dados e realizar cálculos compl
 
 ## Ferramentas relacionadas
 
+- [Open Webui](https://trescout.com/pt/discover/open-webui/)
 - [Supabase](https://trescout.com/pt/discover/supabase/)
 - [iii](https://trescout.com/pt/discover/iii/)
 - [Firebase Ios SDK](https://trescout.com/pt/discover/firebase-ios-sdk/)

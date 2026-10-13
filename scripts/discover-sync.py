@@ -14,6 +14,7 @@ Kullanım: python3 scripts/discover-sync.py [--dry]
 import os, re, sys, json, glob, html, time, base64, datetime, urllib.request, urllib.error
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from riza_formu import blok as riza_blok  # noqa: E402 · kayıt formu bilgilendirme + onay · tek kaynak
+from kaldirilan import engelli_mi  # noqa: E402 · hak sahibi bildirimiyle kaldırılan depolar geri gelmez
 RIZA = riza_blok("tr")
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPORTS=os.path.join(ROOT,"reports"); DISC=os.path.join(ROOT,"discover")
@@ -78,6 +79,7 @@ def report_items():
             for it in sec.get("items",[]):
                 u=norm_url(it.get("url",""))
                 if not u: continue
+                if engelli_mi(u, slugify(it.get("title",""))): continue   # assets/discover/kaldirilan.json
                 # Dosya adı sırası kronolojik DEĞİL (ana raporların hepsi
                 # tekrarsızlardan önce geliyor) · tarih karşılaştırması şart.
                 #   _ilk   : raporda ilk görüldüğü gün · yeni kayıt O GÜNÜN

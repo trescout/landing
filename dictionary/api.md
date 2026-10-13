@@ -47,10 +47,10 @@ Sadece izin verilen verilerin paylaşılmasına olanak tanıdığı için sistem
 - [Firecrawl](https://trescout.com/discover/firecrawl/)
 - [Transformers](https://trescout.com/discover/transformers/)
 - [Langflow](https://trescout.com/discover/langflow/)
+- [Open Webui](https://trescout.com/discover/open-webui/)
 - [Free for Dev](https://trescout.com/discover/free-for-dev/)
 - [ComfyUI](https://trescout.com/discover/comfyui/)
 - [MoneyPrinterTurbo](https://trescout.com/discover/moneyprinterturbo/)
-- [Browser Use](https://trescout.com/discover/browser-use/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

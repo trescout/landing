@@ -2,12 +2,13 @@
 
 Los libros de cocina de Claude compartidos por Anthropics proporcionan ejemplos de código prácticos y cuadernos Jupyter para usar los modelos de Claude. Este recurso proporciona una variedad de plantillas de flujo de trabajo para ayudar a los desarrolladores a acelerar la integración de Claude en aplicaciones de IA.
 
-- ★ 50.838
+- ★ 53.381
 - Jupyter Notebook
 - GitHub Trending · 2026-07-10
 
 ## Actualizaciones
 
+- **12 de octubre de 2026:** Estrellas 50,838 → 53,381.
 - **2 de agosto de 2026:** Estrellas 47,306 → 50,838.
 
 ## Qué aporta

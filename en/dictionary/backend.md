@@ -36,6 +36,7 @@ Because it is necessary to ensure the security of data and to perform complex ca
 
 ## Related tools
 
+- [Open Webui](https://trescout.com/en/discover/open-webui/)
 - [Supabase](https://trescout.com/en/discover/supabase/)
 - [iii](https://trescout.com/en/discover/iii/)
 - [Firebase Ios SDK](https://trescout.com/en/discover/firebase-ios-sdk/)

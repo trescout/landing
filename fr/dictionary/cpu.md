@@ -40,12 +40,12 @@ Ce sont de petites unités de traitement indépendantes au sein d’un processeu
 
 - [Tensorflow](https://trescout.com/fr/discover/tensorflow/)
 - [Llmfit](https://trescout.com/fr/discover/llmfit/)
-- [CasaOS](https://trescout.com/fr/discover/casaos/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
-- [Wand-Enhancer](https://trescout.com/fr/discover/wand-enhancer/)
+- [CasaOS](https://trescout.com/fr/discover/casaos/)
 - [Omlx](https://trescout.com/fr/discover/omlx/)
 - [Ktransformers](https://trescout.com/fr/discover/ktransformers/)
 - [Pocket TTS](https://trescout.com/fr/discover/pocket-tts/)
+- [Tilelang](https://trescout.com/fr/discover/tilelang/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/cpu/)
 

@@ -36,6 +36,7 @@ Weil es notwendig ist, die Sicherheit der Daten zu gewährleisten und komplexe B
 
 ## Verwandte Werkzeuge
 
+- [Open Webui](https://trescout.com/de/discover/open-webui/)
 - [Supabase](https://trescout.com/de/discover/supabase/)
 - [iii](https://trescout.com/de/discover/iii/)
 - [Firebase Ios SDK](https://trescout.com/de/discover/firebase-ios-sdk/)

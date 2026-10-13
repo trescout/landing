@@ -46,8 +46,8 @@ Quero instalar a ferramenta Flowsint. Ajude-me a concluir a instalação executa
 
 - [Graph-based Investigation](https://trescout.com/pt/dictionary/graph-based-investigation/)
 - [OSINT](https://trescout.com/pt/dictionary/osint/)
-- [Clone](https://trescout.com/pt/dictionary/clone/)
 - [Localhost](https://trescout.com/pt/dictionary/localhost/)
+- [Clone](https://trescout.com/pt/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É uma plataforma de revisão desenvolvida para pesquisadores de segurança cibernética, jornalistas e analistas OSINT.

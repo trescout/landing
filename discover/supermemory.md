@@ -2,17 +2,17 @@
 
 **Supermemory**, yapay zekâ çağı için tasarlanmış, yüksek **ölçeklenebilir bir bellek motoru** ve API sunar. Uygulamalarınıza kalıcı ve sorgulanabilir bir hafıza katmanı eklemenizi sağlar.
 
-- ★ 30.438
+- ★ 31.198
 - TypeScript
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
 ## Güncelleme
 
+- **12 Ekim 2026:** Yıldız 30.438 → 31.198, son sürüm server-v0.0.9 (12 Ekim 2026).
 - **19 Eylül 2026:** Yıldız 28.943 → 30.438, son sürüm server-v0.0.8 (17 Ağustos 2026).
 - **18 Ağustos 2026:** Yıldız 28.924 → 28.943, son sürüm server-v0.0.8 (17 Ağustos 2026).
 - **15 Ağustos 2026:** Yıldız 28.742 → 28.924, son sürüm server-v0.0.7 (15 Ağustos 2026).
-- **2 Ağustos 2026:** Yıldız 23.582 → 28.742, son sürüm server-v0.0.6 (19 Temmuz 2026).
 
 - **Kimin için:** AI uygulaması geliştiren ekipler
 - **Zorluk:** Orta · geliştirici aracı

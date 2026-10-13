@@ -62,9 +62,9 @@ Je souhaite développer un assistant de recherche universitaire en utilisant le 
 
 ## Termes liés du glossaire
 
-- [Clone](https://trescout.com/fr/dictionary/clone/)
 - [Agentic](https://trescout.com/fr/dictionary/agentic/)
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
+- [Clone](https://trescout.com/fr/dictionary/clone/)
 - [RAG](https://trescout.com/fr/dictionary/rag/)
 - [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

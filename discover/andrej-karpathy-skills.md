@@ -56,8 +56,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Coding Agent](https://trescout.com/dictionary/coding-agent/)
-- [Plugin](https://trescout.com/dictionary/plugin/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
+- [Plugin](https://trescout.com/dictionary/plugin/)
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Agent](https://trescout.com/dictionary/agent/)

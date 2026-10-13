@@ -2,16 +2,16 @@
 
 Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır. TypeScript ile yazılan platform, karmaşıklıktan arındırılmış iş akışları oluşturmayı hedefler.
 
-- ★ 9.451
+- ★ 9.456
 - TypeScript
 - GitHub Trending · 2026-08-01
 
 ## Güncelleme
 
+- **12 Ekim 2026:** Yıldız 9.451 → 9.456, son sürüm v2.44.0 (12 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 9.444 → 9.451, son sürüm v2.41.1 (11 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 9.433 → 9.444, son sürüm v2.38.0 (10 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 9.418 → 9.433, son sürüm v2.37.0 (10 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 9.375 → 9.418, son sürüm v2.36.0 (9 Ekim 2026).
 
 ## Ne kazandırır?
 

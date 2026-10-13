@@ -37,8 +37,8 @@ To run the Univer project locally, clone the repository with the git clone https
 
 ## Related dictionary terms
 
-- [Clone](https://trescout.com/en/dictionary/clone/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
+- [Clone](https://trescout.com/en/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Developers who want to add customizable office tools and AI-powered workspaces to their products.

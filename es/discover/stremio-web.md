@@ -2,12 +2,13 @@
 
 Stremio es una aplicación de reproductor multimedia que combina diferentes proveedores de contenido en una sola interfaz. Esta versión basada en web permite a los usuarios ver series y películas a través del navegador sin necesidad de realizar ninguna instalación.
 
-- ★ 14.129
+- ★ 14.524
 - JavaScript
 - GitHub Trending · 2026-09-07
 
 ## Actualizaciones
 
+- **12 de octubre de 2026:** Estrellas 14,129 → 14,524, última versión v5.0.0-beta.42 (12 de octubre de 2026).
 - **5 de octubre de 2026:** Estrellas 13,968 → 14,129, última versión v5.0.0-beta.41 (5 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 13,631 → 13,968, última versión v5.0.0-beta.40 (23 de septiembre de 2026).
 - **7 de septiembre de 2026:** Estrellas 13,627 → 13,631, última versión v5.0.0-beta.39 (27 de julio de 2026).

@@ -85,8 +85,8 @@ Sa conception est basée sur les autorisations, mais vous devez garder la porté
 
 - [Langflow](https://trescout.com/fr/discover/langflow/)
 - [REA](https://trescout.com/fr/discover/rea/)
-- [Servers](https://trescout.com/fr/discover/servers/)
 - [OpenCut](https://trescout.com/fr/discover/opencut/)
+- [Servers](https://trescout.com/fr/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/fr/discover/ai-engineering-from-scratch/)
 - [Goose](https://trescout.com/fr/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/fr/discover/chrome-devtools-mcp/)

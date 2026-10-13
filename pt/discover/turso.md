@@ -2,16 +2,16 @@
 
 Turso oferece um banco de dados SQL em processo compatível com SQLite. Este sistema, desenvolvido em linguagem Rust, simplifica os processos de gerenciamento de dados integrando-se aos processos da aplicação.
 
-- ★ 24.649
+- ★ 24.741
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Atualizações
 
+- **12 de outubro de 2026:** Estrelas 24,649 → 24,741, versão mais recente v0.8.3 (12 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 24,445 → 24,649, versão mais recente v0.8.2 (6 de outubro de 2026).
 - **29 de setembro de 2026:** Estrelas 24,428 → 24,445, versão mais recente v0.8.1 (29 de setembro de 2026).
 - **29 de setembro de 2026:** Estrelas 23,620 → 24,428, versão mais recente v0.8.0 (29 de setembro de 2026).
-- **2 de agosto de 2026:** Estrelas 20,466 → 23,620, versão mais recente v0.7.2 (30 de julho de 2026).
 
 ## O que você ganha
 

@@ -2,12 +2,13 @@
 
 OpenCut es un proyecto de desarrollo de aplicaciones basado en TypeScript que ofrece una alternativa de código abierto para procesos de edición de vídeo. Con el objetivo de brindar una experiencia de usuario similar a CapCut, esta plataforma tiene como objetivo hacer que las herramientas de edición de video sean accesibles.
 
-- ★ 89.201
+- ★ 93.727
 - TypeScript
 - GitHub Trending · 2026-07-14
 
 ## Actualizaciones
 
+- **12 de octubre de 2026:** Estrellas 89,201 → 93,727, última versión v0.3.0 (15 de abril de 2026).
 - **11 de septiembre de 2026:** Estrellas 84,934 → 89,201, última versión v0.3.0 (15 de abril de 2026).
 - **19 de agosto de 2026:** Estrellas 80,488 → 84,934, última versión v0.3.0 (15 de abril de 2026).
 - **2 de agosto de 2026:** Estrellas 67,464 → 80,488, última versión v0.3.0 (15 de abril de 2026).

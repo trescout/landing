@@ -60,12 +60,6 @@
           "meta": "TypeScript · ★ 2.329 · +16 heute"
         },
         {
-          "title": "k1tbyte/Wand-Enhancer",
-          "url": "https://github.com/k1tbyte/Wand-Enhancer",
-          "summary": "Wand-Enhancer ist ein C#-basiertes Plugin, das die Benutzererfahrung verbessert und die Interoperabilität für die WeMod-Anwendung erhöht. Es optimiert die Kontrolle der Benutzer über die Tools, indem es die Funktionalität der Anwendung erweitert.",
-          "meta": "C# · ★ 7.061 · +609 heute"
-        },
-        {
           "title": "pingdotgg/t3code",
           "url": "https://github.com/pingdotgg/t3code",
           "summary": "T3Code ist ein Toolset, das zur Verbesserung und Standardisierung der Codequalität in TypeScript-basierten Projekten entwickelt wurde. Es bietet Entwicklern Automatisierungsunterstützung bei Typsicherheits- und Codebearbeitungsprozessen.",

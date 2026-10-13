@@ -85,8 +85,8 @@ Tasarımı izin temellidir, ancak sunucunun erişim kapsamını dar tutmanız ve
 
 - [Langflow](https://trescout.com/discover/langflow/)
 - [REA](https://trescout.com/discover/rea/)
-- [Servers](https://trescout.com/discover/servers/)
 - [OpenCut](https://trescout.com/discover/opencut/)
+- [Servers](https://trescout.com/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
 - [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)

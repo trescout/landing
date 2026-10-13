@@ -41,13 +41,13 @@ Non, le modèle fait uniquement des prédictions en utilisant les informations d
 ## Outils liés
 
 - [Llama.cpp](https://trescout.com/fr/discover/llama-cpp/)
+- [BitNet](https://trescout.com/fr/discover/bitnet/)
 - [Ds4](https://trescout.com/fr/discover/ds4/)
 - [LTX 2](https://trescout.com/fr/discover/ltx-2/)
 - [Stable Diffusion.cpp](https://trescout.com/fr/discover/stable-diffusion-cpp/)
 - [Magnitude](https://trescout.com/fr/discover/magnitude/)
 - [Model-Optimizer](https://trescout.com/fr/discover/model-optimizer/)
 - [SIE](https://trescout.com/fr/discover/sie/)
-- [Switchyard](https://trescout.com/fr/discover/switchyard/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/inference/)
 

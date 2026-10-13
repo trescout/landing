@@ -75,10 +75,10 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Code Review](https://trescout.com/dictionary/code-review/)
 - [User Interface](https://trescout.com/dictionary/user-interface/)
+- [Interface](https://trescout.com/dictionary/interface/)
 - [Markdown](https://trescout.com/dictionary/markdown/)
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [Rust](https://trescout.com/dictionary/rust/)
-- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tuicr/

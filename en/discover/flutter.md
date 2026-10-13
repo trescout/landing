@@ -47,6 +47,7 @@ flutter run
 ## Related dictionary terms
 
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
+- [Interface](https://trescout.com/en/dictionary/interface/)
 - [Framework](https://trescout.com/en/dictionary/framework/)
 
 - **Who it is for:** It is for software developers who want to develop applications for multiple platforms simultaneously from a single code base.

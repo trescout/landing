@@ -24,6 +24,7 @@ Dear ImGui é uma biblioteca leve de interface gráfica de usuário para projeto
 
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
 - [GUI](https://trescout.com/pt/dictionary/gui/)
+- [Interface](https://trescout.com/pt/dictionary/interface/)
 
 - **Para quem é:** É adequado para desenvolvedores de software que trabalham com C++ em processos rápidos de desenvolvimento de ferramentas, depuração e visualização.
 - **Licença:** MIT

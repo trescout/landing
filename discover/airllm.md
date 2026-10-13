@@ -2,16 +2,16 @@
 
 AirLLM, 70 milyar ve 405 milyar parametreli dev büyük dil modellerini (LLM) kurumsal sunuculara veya pahalı GPU kümelerine ihtiyaç duymadan, yalnızca 4 GB video belleğine (VRAM) sahip standart tüketici sınıfı ekran kartlarında çalıştıran çığır açıcı bir açık kaynak kütüphanedir.
 
-- ★ 35.481
+- ★ 37.368
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
 
+- **12 Ekim 2026:** Yıldız 35.481 → 37.368, son sürüm v4.0.0 (5 Eylül 2026).
 - **7 Ekim 2026:** Yıldız 33.755 → 35.481, son sürüm v4.0.0 (5 Eylül 2026).
 - **6 Eylül 2026:** Yıldız 33.307 → 33.755, son sürüm v4.0.0 (5 Eylül 2026).
 - **31 Ağustos 2026:** Yıldız 31.598 → 33.307, son sürüm v3.3.0 (28 Ağustos 2026).
-- **19 Ağustos 2026:** Yıldız 30.796 → 31.598, son sürüm v3.2.0 (18 Ağustos 2026).
 
 ## Ne kazandırır?
 

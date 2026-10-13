@@ -65,25 +65,6 @@
           }
         },
         {
-          "title": "k1tbyte/Wand-Enhancer",
-          "url": "https://github.com/k1tbyte/Wand-Enhancer",
-          "summary": "Wand-Enhancer, oyun modlama aracı Wand (WeMod) için geliştirilmiş bir kullanıcı deneyimi ve birlikte çalışabilirlik eklentisidir. C# diliyle yazılan bu yazılım, mevcut modlama platformunun işlevselliğini ve arayüz etkileşimini geliştirmeyi hedefler.",
-          "meta": "C# · ★ 23.091 · +718 bugün",
-          "snapshot": {
-            "sourceId": "k1tbyte/Wand-Enhancer",
-            "capturedAt": "2026-08-31T10:53:24.911Z",
-            "metadata": {
-              "language": "C#",
-              "popularity": 23091,
-              "engagementCount": 718,
-              "rank": 4,
-              "extra": {
-                "starsToday": 718
-              }
-            }
-          }
-        },
-        {
           "title": "majd/ipatool",
           "url": "https://github.com/majd/ipatool",
           "summary": "Majd tarafından geliştirilen ipatool, Apple uygulama mağazasından iOS, iPadOS, tvOS ve visionOS için uygulama paketlerini (IPA dosyaları) aramanıza ve indirmenize olanak tanıyan bir komut satırı aracıdır. Go diliyle yazılan bu araç, uygulama dosyalarına doğrudan erişim sağlayarak yazılım geliştiricilerin ve araştırmacıların paket yönetimi süreçlerini kolaylaştırır.",
@@ -896,10 +877,6 @@
     {
       "term": "skills",
       "explanation": "Dijital asistanların veya yazılımların kullanıcıya yardımcı olmak için kullanabildiği özelleşmiş işlevler."
-    },
-    {
-      "term": "WeMod",
-      "explanation": "Bilgisayar oyunlarında hile yapmayı veya oyun ayarlarını değiştirmeyi kolaylaştıran bir yazılım platformu."
     },
     {
       "term": "large language model",

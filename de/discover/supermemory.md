@@ -2,17 +2,17 @@
 
 Supermemory bietet eine hoch skalierbare Speicher-Engine und API, die für das Zeitalter der künstlichen Intelligenz entwickelt wurden. Es ermöglicht Ihnen, Ihren Anwendungen eine persistente und abfragbare Speicherschicht hinzuzufügen.
 
-- ★ 30.438
+- ★ 31.198
 - TypeScript
 - MIT
 - GitHub Trending · 1 Haziran 2026
 
 ## Aktualisierungen
 
+- **12. Oktober 2026:** Sterne 30,438 → 31,198, neueste Version server-v0.0.9 (12. Oktober 2026).
 - **19. September 2026:** Sterne 28,943 → 30,438, neueste Version server-v0.0.8 (17. August 2026).
 - **18. August 2026:** Sterne 28,924 → 28,943, neueste Version server-v0.0.8 (17. August 2026).
 - **15. August 2026:** Sterne 28,742 → 28,924, neueste Version server-v0.0.7 (15. August 2026).
-- **2. August 2026:** Sterne 23,582 → 28,742, neueste Version server-v0.0.6 (19. Juli 2026).
 
 ## Was es bringt
 

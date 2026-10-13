@@ -55,8 +55,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Graph-based Investigation](https://trescout.com/dictionary/graph-based-investigation/)
 - [OSINT](https://trescout.com/dictionary/osint/)
-- [Clone](https://trescout.com/dictionary/clone/)
 - [Localhost](https://trescout.com/dictionary/localhost/)
+- [Clone](https://trescout.com/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

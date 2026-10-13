@@ -66,13 +66,13 @@ Ja. Führen Sie einfach git pull im Ordner aus. Wenn Sie Änderungen haben, müs
 ## Verwandte Werkzeuge
 
 - [MoneyPrinterTurbo](https://trescout.com/de/discover/moneyprinterturbo/)
+- [BitNet](https://trescout.com/de/discover/bitnet/)
 - [VoxCPM](https://trescout.com/de/discover/voxcpm/)
 - [Clone-Wars](https://trescout.com/de/discover/clone-wars/)
 - [Univer](https://trescout.com/de/discover/univer/)
 - [OpenStock](https://trescout.com/de/discover/openstock/)
 - [Hermes WebUI](https://trescout.com/de/discover/hermes-webui/)
 - [openGym](https://trescout.com/de/discover/opengym/)
-- [Production Agentic RAG Course](https://trescout.com/de/discover/production-agentic-rag-course/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/clone/)
 

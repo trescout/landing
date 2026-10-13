@@ -47,10 +47,10 @@ Uma vez que só permite a partilha de dados permitidos, abre apenas a parte rele
 - [Firecrawl](https://trescout.com/pt/discover/firecrawl/)
 - [Transformers](https://trescout.com/pt/discover/transformers/)
 - [Langflow](https://trescout.com/pt/discover/langflow/)
+- [Open Webui](https://trescout.com/pt/discover/open-webui/)
 - [Free for Dev](https://trescout.com/pt/discover/free-for-dev/)
 - [ComfyUI](https://trescout.com/pt/discover/comfyui/)
 - [MoneyPrinterTurbo](https://trescout.com/pt/discover/moneyprinterturbo/)
-- [Browser Use](https://trescout.com/pt/discover/browser-use/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/api/)
 

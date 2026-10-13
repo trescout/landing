@@ -46,8 +46,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Clone](https://trescout.com/dictionary/clone/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
+- [Clone](https://trescout.com/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

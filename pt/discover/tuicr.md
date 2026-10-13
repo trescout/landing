@@ -66,10 +66,10 @@ Revise esta revisão de código e prepare uma lista estruturada de quaisquer bug
 
 - [Code Review](https://trescout.com/pt/dictionary/code-review/)
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
+- [Interface](https://trescout.com/pt/dictionary/interface/)
 - [Markdown](https://trescout.com/pt/dictionary/markdown/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
-- [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É para desenvolvedores que desejam gerenciar seus processos de revisão de código com atalhos do Vim sem sair do terminal.
 - **Licença:** MIT

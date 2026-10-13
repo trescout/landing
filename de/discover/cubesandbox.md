@@ -2,16 +2,16 @@
 
 CubeSandbox wurde von TencentCloud in Rust entwickelt und bietet eine sofortige, gleichzeitige und sichere Arbeitsumgebung (Sandbox) für Agenten der künstlichen Intelligenz (KI-Agenten). Dieses Tool, das sich durch seine leichte Struktur auszeichnet, ermöglicht den Betrieb agentenbasierter Systeme in einem isolierten Bereich.
 
-- ★ 12.714
+- ★ 12.892
 - Rust
 - GitHub Trending · 2026-07-02
 
 ## Aktualisierungen
 
+- **12. Oktober 2026:** Sterne 12,714 → 12,892, neueste Version v0.7.3 (12. Oktober 2026).
 - **27. September 2026:** Sterne 12,161 → 12,714, neueste Version v0.7.2 (24. September 2026).
 - **11. September 2026:** Sterne 11,512 → 12,161, neueste Version v0.7.1 (11. September 2026).
 - **31. August 2026:** Sterne 10,828 → 11,512, neueste Version v0.7.0 (28. August 2026).
-- **2. August 2026:** Sterne 6,927 → 10,828, neueste Version v0.6.0 (24. Juli 2026).
 
 ## Was es bringt
 

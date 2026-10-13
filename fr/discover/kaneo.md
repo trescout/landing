@@ -2,16 +2,16 @@
 
 Kaneo est un outil de gestion de projet open source développé avec une interface orientée utilisateur. Écrite en TypeScript, la plateforme vise à créer des flux de travail sans complexité.
 
-- ★ 9 451
+- ★ 9 456
 - TypeScript
 - GitHub Trending · 2026-08-01
 
 ## Mises à jour
 
+- **12 octobre 2026:** Étoiles 9,451 → 9,456, dernière version v2.44.0 (12 octobre 2026).
 - **12 octobre 2026:** Étoiles 9,444 → 9,451, dernière version v2.41.1 (11 octobre 2026).
 - **11 octobre 2026:** Étoiles 9,433 → 9,444, dernière version v2.38.0 (10 octobre 2026).
 - **10 octobre 2026:** Étoiles 9,418 → 9,433, dernière version v2.37.0 (10 octobre 2026).
-- **9 octobre 2026:** Étoiles 9,375 → 9,418, dernière version v2.36.0 (9 octobre 2026).
 
 ## Ce que ça vous apporte
 

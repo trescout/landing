@@ -60,6 +60,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [User Interface](https://trescout.com/dictionary/user-interface/)
+- [Interface](https://trescout.com/dictionary/interface/)
 - [Framework](https://trescout.com/dictionary/framework/)
 
 ---

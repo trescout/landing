@@ -36,6 +36,7 @@ Tüm modern web uygulamalarında, mobil uygulamaların arka planında ve API sis
 
 ## İlgili araçlar
 
+- [Open Webui](https://trescout.com/discover/open-webui/)
 - [Supabase](https://trescout.com/discover/supabase/)
 - [iii](https://trescout.com/discover/iii/)
 - [Firebase Ios SDK](https://trescout.com/discover/firebase-ios-sdk/)

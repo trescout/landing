@@ -51,8 +51,8 @@ Aidez-moi à installer une application open source de suivi des stocks appelée 
 ## Termes liés du glossaire
 
 - [Self-hosting](https://trescout.com/fr/dictionary/self-hosting/)
-- [Clone](https://trescout.com/fr/dictionary/clone/)
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
+- [Clone](https://trescout.com/fr/dictionary/clone/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Ceux qui veulent suivre la bourse/les actions
