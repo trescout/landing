@@ -2,12 +2,13 @@
 
 Pumpkin wurde mit der Programmiersprache Rust entwickelt und bietet eine Open-Source-Infrastruktur, die darauf abzielt, Minecraft-Server schneller und effizienter zu hosten. Ziel ist es, Serververwaltungsprozesse mit seiner Speichersicherheit und seiner auf hohe Leistung ausgerichteten Struktur zu optimieren.
 
-- ★ 11.354
+- ★ 12.370
 - Rust
 - GitHub Trending · 2026-07-23
 
 ## Aktualisierungen
 
+- **13. Oktober 2026:** Sterne 11,354 → 12,370, neueste Version 0.2.0+26.3-26.51 (20. September 2026).
 - **27. September 2026:** Sterne 11,082 → 11,354, neueste Version 0.2.0+26.3-26.51 (20. September 2026).
 - **5. September 2026:** Sterne 10,510 → 11,082, neueste Version 0.1.0-dev+26.2-26.45 (4. September 2026).
 - **2. August 2026:** Sterne 8,562 → 10,510.

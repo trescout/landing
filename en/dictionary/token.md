@@ -44,8 +44,8 @@ Since computers understand numbers, not words, we need to convert the text into 
 - [Caveman](https://trescout.com/en/discover/caveman/)
 - [Codegraph](https://trescout.com/en/discover/codegraph/)
 - [OmniRoute](https://trescout.com/en/discover/omniroute/)
-- [Codebase Memory MCP](https://trescout.com/en/discover/codebase-memory-mcp/)
 - [Open Code Review](https://trescout.com/en/discover/open-code-review/)
+- [Codebase Memory MCP](https://trescout.com/en/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/en/discover/airllm/)
 - [Book to Skill](https://trescout.com/en/discover/book-to-skill/)
 

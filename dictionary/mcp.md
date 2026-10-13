@@ -83,8 +83,8 @@ Tasarımı izin temellidir, ancak sunucunun erişim kapsamını dar tutmanız ve
 
 ## İlgili araçlar
 
-- [Langflow](https://trescout.com/discover/langflow/)
 - [REA](https://trescout.com/discover/rea/)
+- [Langflow](https://trescout.com/discover/langflow/)
 - [OpenCut](https://trescout.com/discover/opencut/)
 - [Servers](https://trescout.com/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)

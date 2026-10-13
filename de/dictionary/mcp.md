@@ -83,8 +83,8 @@ Sein Design ist berechtigungsbasiert, Sie müssen jedoch den Zugriffsbereich des
 
 ## Verwandte Werkzeuge
 
-- [Langflow](https://trescout.com/de/discover/langflow/)
 - [REA](https://trescout.com/de/discover/rea/)
+- [Langflow](https://trescout.com/de/discover/langflow/)
 - [OpenCut](https://trescout.com/de/discover/opencut/)
 - [Servers](https://trescout.com/de/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/de/discover/ai-engineering-from-scratch/)

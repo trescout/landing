@@ -2,16 +2,16 @@
 
 Desarrollado por Heygen, Hyperframes ofrece un marco que convierte códigos HTML directamente en video. Diseñada para facilitar a los agentes de inteligencia artificial la producción de contenido visual, esta herramienta convierte interfaces basadas en web en formato de vídeo.
 
-- ★ 61.695
+- ★ 62.356
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Actualizaciones
 
+- **13 de octubre de 2026:** Estrellas 61,695 → 62,356, última versión v0.8.152 (13 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 61,026 → 61,695, última versión v0.8.150 (12 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 60,566 → 61,026, última versión v0.8.149 (11 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 60,069 → 60,566, última versión v0.8.147 (11 de octubre de 2026).
-- **10 de octubre de 2026:** Estrellas 59,479 → 60,069, última versión v0.8.145 (10 de octubre de 2026).
 
 ## Qué aporta
 

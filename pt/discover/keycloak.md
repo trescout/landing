@@ -2,16 +2,16 @@
 
 Keycloak oferece soluções de gerenciamento de identidade e acesso de código aberto para aplicativos e serviços modernos. Esta plataforma baseada em Java é usada para padronizar processos centralizados de autenticação e autorização.
 
-- ★ 37.079
+- ★ 37.330
 - Java
 - GitHub Trending · 2026-06-28
 
 ## Atualizações
 
+- **13 de outubro de 2026:** Estrelas 37,079 → 37,330, versão mais recente 26.8.1 (13 de outubro de 2026).
 - **1 de outubro de 2026:** Estrelas 37,077 → 37,079, versão mais recente 26.8.0 (1 de outubro de 2026).
 - **1 de outubro de 2026:** Estrelas 36,819 → 37,077, versão mais recente 26.7.5 (30 de setembro de 2026).
 - **17 de setembro de 2026:** Estrelas 36,517 → 36,819, versão mais recente 26.7.4 (16 de setembro de 2026).
-- **31 de agosto de 2026:** Estrelas 36,268 → 36,517, versão mais recente 26.7.3 (31 de agosto de 2026).
 
 ## O que você ganha
 

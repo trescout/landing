@@ -2,16 +2,16 @@
 
 Yapay zekâ kodlama ajanları için geliştirilen bu kütüphane, üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. Yazılım geliştirme süreçlerini otomatize eden ajanların teknik kapasitesini artırmak için standartlaştırılmış araçlar sağlıyor.
 
-- ★ 100.641
+- ★ 106.026
 - Shell
 - GitHub Trending · 2026-06-10
 
 ## Güncelleme
 
+- **13 Ekim 2026:** Yıldız 100.641 → 106.026, son sürüm 0.6.12 (3 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 99.292 → 100.641, son sürüm 0.6.12 (3 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 96.084 → 99.292, son sürüm 0.6.11 (26 Eylül 2026).
 - **18 Eylül 2026:** Yıldız 92.321 → 96.084, son sürüm 0.6.10 (18 Eylül 2026).
-- **5 Eylül 2026:** Yıldız 91.114 → 92.321, son sürüm 0.6.9 (5 Eylül 2026).
 
 ## Ne kazandırır?
 

@@ -2,16 +2,16 @@
 
 Magnitude ist ein Open-Source-Inferenzserver, der mit bestehenden KI-Agenten integriert wird und es Ihnen ermöglicht, lokale Modelle auszuführen, die für Ihre Hardware optimiert sind. Er lässt sich nahtlos mit Coding-Assistenten wie Cline und verschiedenen Open-Source-Modellen kombinieren, um die Nutzung lokaler Rechenleistung zu erleichtern.
 
-- ★ 6.657
+- ★ 6.711
 - TypeScript
 - GitHub Trending · 2026-09-04
 
 ## Aktualisierungen
 
+- **13. Oktober 2026:** Sterne 6,657 → 6,711, neueste Version @magnitudedev/cli@0.2.8 (12. Oktober 2026).
 - **12. Oktober 2026:** Sterne 6,455 → 6,657, neueste Version @magnitudedev/cli@0.2.7 (11. Oktober 2026).
 - **6. Oktober 2026:** Sterne 6,312 → 6,455, neueste Version @magnitudedev/cli@0.2.6 (5. Oktober 2026).
 - **3. Oktober 2026:** Sterne 6,220 → 6,312, neueste Version @magnitudedev/cli@0.2.5 (3. Oktober 2026).
-- **2. Oktober 2026:** Sterne 5,768 → 6,220, neueste Version @magnitudedev/cli@0.2.4 (2. Oktober 2026).
 
 ## Was es bringt
 

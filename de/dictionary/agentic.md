@@ -42,8 +42,8 @@ Nein, die meisten KIs sind passive Systeme, die nur auf Ihren Befehl warten.
 
 - [Ponytail](https://trescout.com/de/discover/ponytail/)
 - [MinerU](https://trescout.com/de/discover/mineru/)
-- [Claude Code Best Practice](https://trescout.com/de/discover/claude-code-best-practice/)
 - [OpenMontage](https://trescout.com/de/discover/openmontage/)
+- [Claude Code Best Practice](https://trescout.com/de/discover/claude-code-best-practice/)
 - [Kilocode](https://trescout.com/de/discover/kilocode/)
 - [Pm Skills](https://trescout.com/de/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/de/discover/personal-ai-infrastructure/)

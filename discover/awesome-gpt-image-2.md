@@ -2,16 +2,16 @@
 
 GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlayan (Prompt as Code) bir istem mühendisliği (prompt engineering) kütüphanesi. 470'ten fazla tersine mühendislik yapılmış örnek ve 20'den fazla endüstriyel şablon ile yapay zekâ modellerinden tutarlı sonuçlar almayı kolaylaştırıyor.
 
-- ★ 32.734
+- ★ 34.422
 - JavaScript
 - GitHub Trending · 2026-08-24
 
 ## Güncelleme
 
+- **13 Ekim 2026:** Yıldız 32.734 → 34.422.
 - **19 Eylül 2026:** Yıldız 31.160 → 32.734.
 - **11 Eylül 2026:** Yıldız 29.494 → 31.160.
 - **9 Eylül 2026:** Yıldız 27.621 → 29.494.
-- **3 Eylül 2026:** Yıldız 26.288 → 27.621.
 
 ## Ne kazandırır?
 

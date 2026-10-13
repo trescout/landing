@@ -2,12 +2,13 @@
 
 Lingbot-map est un modèle de base 3D à rétroaction conçu pour reconstruire des scènes à partir de données en streaming. Le projet optimise les processus de visualisation en traitant des données environnementales complexes, grâce à son architecture développée en langage Python.
 
-- ★ 17 060
+- ★ 18 061
 - Python
 - GitHub Trending · 2026-06-29
 
 ## Mises à jour
 
+- **13 octobre 2026:** Étoiles 17,060 → 18,061.
 - **16 septembre 2026:** Étoiles 16,054 → 17,060.
 - **2 août 2026:** Étoiles 8,439 → 16,054.
 

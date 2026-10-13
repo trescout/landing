@@ -42,8 +42,8 @@ No, most AIs are passive systems that just wait for your command.
 
 - [Ponytail](https://trescout.com/en/discover/ponytail/)
 - [MinerU](https://trescout.com/en/discover/mineru/)
-- [Claude Code Best Practice](https://trescout.com/en/discover/claude-code-best-practice/)
 - [OpenMontage](https://trescout.com/en/discover/openmontage/)
+- [Claude Code Best Practice](https://trescout.com/en/discover/claude-code-best-practice/)
 - [Kilocode](https://trescout.com/en/discover/kilocode/)
 - [Pm Skills](https://trescout.com/en/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/en/discover/personal-ai-infrastructure/)

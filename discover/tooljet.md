@@ -2,16 +2,16 @@
 
 ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geliştirmeye yarayan açık kaynaklı bir uygulama oluşturma platformu. JavaScript tabanlı bu altyapı, işletmelerin karmaşık iş akışlarını kod yazma ihtiyacını azaltarak dijitalleştirmesini sağlıyor.
 
-- ★ 41.053
+- ★ 41.092
 - JavaScript
 - GitHub Trending · 2026-08-15
 
 ## Güncelleme
 
+- **13 Ekim 2026:** Yıldız 41.053 → 41.092, son sürüm v3.20.244-lts (13 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 41.055 → 41.053, son sürüm v3.20.243-lts (9 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 41.049 → 41.055, son sürüm v3.20.242-lts (9 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 41.049 → 41.049, son sürüm v3.20.241-lts (8 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 41.040 → 41.049, son sürüm v3.20.240-lts (7 Ekim 2026).
 
 ## Ne kazandırır?
 

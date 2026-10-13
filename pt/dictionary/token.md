@@ -44,8 +44,8 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 - [Caveman](https://trescout.com/pt/discover/caveman/)
 - [Codegraph](https://trescout.com/pt/discover/codegraph/)
 - [OmniRoute](https://trescout.com/pt/discover/omniroute/)
-- [Codebase Memory MCP](https://trescout.com/pt/discover/codebase-memory-mcp/)
 - [Open Code Review](https://trescout.com/pt/discover/open-code-review/)
+- [Codebase Memory MCP](https://trescout.com/pt/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
 - [Book to Skill](https://trescout.com/pt/discover/book-to-skill/)
 

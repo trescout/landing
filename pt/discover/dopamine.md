@@ -2,16 +2,16 @@
 
 Dopamine é uma ferramenta de jailbreak semi-independente desenvolvida para dispositivos que executam iOS 15 a 16.6.1. Ele permite que os usuários personalizem o dispositivo com privilégios administrativos, contornando as restrições do sistema.
 
-- ★ 6.737
+- ★ 6.898
 - C
 - GitHub Trending · 2026-08-11
 
 ## Atualizações
 
+- **13 de outubro de 2026:** Estrelas 6,737 → 6,898, versão mais recente 3.0.11 (12 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 6,395 → 6,737, versão mais recente 3.0.10 (23 de setembro de 2026).
 - **23 de agosto de 2026:** Estrelas 6,273 → 6,395, versão mais recente 3.0.9 (22 de agosto de 2026).
 - **15 de agosto de 2026:** Estrelas 6,086 → 6,273, versão mais recente 3.0.7 (15 de agosto de 2026).
-- **11 de agosto de 2026:** Estrelas 6,086 → 6,086, versão mais recente 3.0.4 (9 de agosto de 2026).
 
 ## O que você ganha
 

@@ -42,8 +42,8 @@ Non, la plupart des IA sont des systèmes passifs qui attendent simplement votre
 
 - [Ponytail](https://trescout.com/fr/discover/ponytail/)
 - [MinerU](https://trescout.com/fr/discover/mineru/)
-- [Claude Code Best Practice](https://trescout.com/fr/discover/claude-code-best-practice/)
 - [OpenMontage](https://trescout.com/fr/discover/openmontage/)
+- [Claude Code Best Practice](https://trescout.com/fr/discover/claude-code-best-practice/)
 - [Kilocode](https://trescout.com/fr/discover/kilocode/)
 - [Pm Skills](https://trescout.com/fr/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/fr/discover/personal-ai-infrastructure/)

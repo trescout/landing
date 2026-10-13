@@ -2,16 +2,16 @@
 
 Homebrew ist ein Befehlszeilen-Tool zur Verwaltung von Softwarepaketen auf dem macOS-Betriebssystem. BrewUI ist eine offizielle Desktop-Anwendung, mit der Sie die komplexen Befehle dieses Tools über eine grafische Benutzeroberfläche (GUI) verwalten können.
 
-- ★ 2.374
+- ★ 2.508
 - Swift
 - GitHub Trending · 2026-09-16
 
 ## Aktualisierungen
 
+- **13. Oktober 2026:** Sterne 2,374 → 2,508, neueste Version v0.6.0 (13. Oktober 2026).
 - **30. September 2026:** Sterne 2,283 → 2,374, neueste Version v0.5.0 (30. September 2026).
 - **27. September 2026:** Sterne 2,014 → 2,283, neueste Version v0.4.4 (22. September 2026).
 - **18. September 2026:** Sterne 1,658 → 2,014, neueste Version v0.4.3 (17. September 2026).
-- **16. September 2026:** Sterne 1,654 → 1,658, neueste Version v0.4.2 (15. September 2026).
 
 ## Was es bringt
 

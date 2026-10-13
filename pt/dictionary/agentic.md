@@ -42,8 +42,8 @@ Não, a maioria das IAs são sistemas passivos que apenas aguardam o seu comando
 
 - [Ponytail](https://trescout.com/pt/discover/ponytail/)
 - [MinerU](https://trescout.com/pt/discover/mineru/)
-- [Claude Code Best Practice](https://trescout.com/pt/discover/claude-code-best-practice/)
 - [OpenMontage](https://trescout.com/pt/discover/openmontage/)
+- [Claude Code Best Practice](https://trescout.com/pt/discover/claude-code-best-practice/)
 - [Kilocode](https://trescout.com/pt/discover/kilocode/)
 - [Pm Skills](https://trescout.com/pt/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/pt/discover/personal-ai-infrastructure/)

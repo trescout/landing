@@ -2,16 +2,16 @@
 
 GPT-Image2 ist eine Prompt-Engineering-Bibliothek, die Bilderstellungsprozesse als Code definiert (Prompt as Code). Mit mehr als 470 Reverse-Engineering-Beispielen und mehr als 20 Industrievorlagen ist es einfach, konsistente Ergebnisse aus KI-Modellen zu erzielen.
 
-- ★ 32.734
+- ★ 34.422
 - JavaScript
 - GitHub Trending · 2026-08-24
 
 ## Aktualisierungen
 
+- **13. Oktober 2026:** Sterne 32,734 → 34,422.
 - **19. September 2026:** Sterne 31,160 → 32,734.
 - **11. September 2026:** Sterne 29,494 → 31,160.
 - **9. September 2026:** Sterne 27,621 → 29,494.
-- **3. September 2026:** Sterne 26,288 → 27,621.
 
 ## Was es bringt
 

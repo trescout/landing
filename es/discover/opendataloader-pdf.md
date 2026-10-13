@@ -2,16 +2,16 @@
 
 OpenDataLoader PDF es un analizador de PDF de código abierto que pone datos a disposición de modelos de inteligencia artificial. Este proyecto basado en Java acelera los procesos de procesamiento de datos al automatizar la accesibilidad de los documentos PDF.
 
-- ★ 29.447
+- ★ 29.669
 - Java
 - GitHub Trending · 2026-06-04
 
 ## Actualizaciones
 
+- **13 de octubre de 2026:** Estrellas 29,447 → 29,669, última versión v2.5.13 (13 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 29,384 → 29,447, última versión v2.5.12 (1 de octubre de 2026).
 - **27 de septiembre de 2026:** Estrellas 29,312 → 29,384, última versión v2.5.11 (22 de septiembre de 2026).
 - **18 de septiembre de 2026:** Estrellas 29,278 → 29,312, última versión v2.5.10 (18 de septiembre de 2026).
-- **16 de septiembre de 2026:** Estrellas 29,080 → 29,278, última versión v2.5.9 (16 de septiembre de 2026).
 
 ## Qué aporta
 

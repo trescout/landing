@@ -2,16 +2,16 @@
 
 Grafana, farklı veri kaynaklarından gelen metrikleri, günlükleri (logs) ve izleme verilerini (traces) tek bir arayüzde birleştiren açık kaynaklı bir gözlemlenebilirlik ve veri görselleştirme platformudur. Prometheus, Elasticsearch ve PostgreSQL gibi birçok sistemle entegre çalışarak karmaşık veri setlerinin analiz edilmesini sağlar.
 
-- ★ 76.987
+- ★ 77.283
 - TypeScript
 - GitHub Trending · 2026-06-27
 
 ## Güncelleme
 
+- **13 Ekim 2026:** Yıldız 76.987 → 77.283, son sürüm v13.2.4 (13 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 76.770 → 76.987, son sürüm v13.2.3 (29 Eylül 2026).
 - **16 Eylül 2026:** Yıldız 76.559 → 76.770, son sürüm v13.2.2 (15 Eylül 2026).
 - **2 Eylül 2026:** Yıldız 76.290 → 76.559, son sürüm v13.2.1 (2 Eylül 2026).
-- **18 Ağustos 2026:** Yıldız 76.138 → 76.290, son sürüm v13.2.0 (18 Ağustos 2026).
 
 ## Ne kazandırır?
 

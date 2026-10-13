@@ -2,17 +2,17 @@
 
 iii is a method of creating, extending and monitoring all services in your backend stack (queue, cron, HTTP, state, observability, agents, sandbox) in real time. It makes parts that normally present separate integration difficulties manageable from a single point.
 
-- ★ 18,824
+- ★ 18,839
 - Rust
 - Lisans: yok
 - GitHub Trending · 28 May 2026
 
 ## Updates
 
+- **October 13, 2026:** Stars 18,824 → 18,839, latest release iii/v0.24.5 (October 13, 2026).
 - **October 2, 2026:** Stars 18,809 → 18,824, latest release iii/v0.24.4 (October 2, 2026).
 - **September 27, 2026:** Stars 18,767 → 18,809, latest release iii/v0.24.3 (September 25, 2026).
 - **September 18, 2026:** Stars 18,662 → 18,767, latest release iii/v0.24.0 (September 17, 2026).
-- **September 2, 2026:** Stars 18,570 → 18,662, latest release iii/v0.23.0 (September 1, 2026).
 
 ## What you get
 

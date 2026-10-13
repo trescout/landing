@@ -42,8 +42,8 @@ No, la mayoría de las IA son sistemas pasivos que simplemente esperan tus órde
 
 - [Ponytail](https://trescout.com/es/discover/ponytail/)
 - [MinerU](https://trescout.com/es/discover/mineru/)
-- [Claude Code Best Practice](https://trescout.com/es/discover/claude-code-best-practice/)
 - [OpenMontage](https://trescout.com/es/discover/openmontage/)
+- [Claude Code Best Practice](https://trescout.com/es/discover/claude-code-best-practice/)
 - [Kilocode](https://trescout.com/es/discover/kilocode/)
 - [Pm Skills](https://trescout.com/es/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/es/discover/personal-ai-infrastructure/)

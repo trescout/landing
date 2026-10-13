@@ -44,8 +44,8 @@ Puisque les ordinateurs comprennent les nombres et non les mots, nous devons con
 - [Caveman](https://trescout.com/fr/discover/caveman/)
 - [Codegraph](https://trescout.com/fr/discover/codegraph/)
 - [OmniRoute](https://trescout.com/fr/discover/omniroute/)
-- [Codebase Memory MCP](https://trescout.com/fr/discover/codebase-memory-mcp/)
 - [Open Code Review](https://trescout.com/fr/discover/open-code-review/)
+- [Codebase Memory MCP](https://trescout.com/fr/discover/codebase-memory-mcp/)
 - [Airllm](https://trescout.com/fr/discover/airllm/)
 - [Book to Skill](https://trescout.com/fr/discover/book-to-skill/)
 

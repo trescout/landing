@@ -83,8 +83,8 @@ Its design is permission-based, but you need to keep the server's access scope n
 
 ## Related tools
 
-- [Langflow](https://trescout.com/en/discover/langflow/)
 - [REA](https://trescout.com/en/discover/rea/)
+- [Langflow](https://trescout.com/en/discover/langflow/)
 - [OpenCut](https://trescout.com/en/discover/opencut/)
 - [Servers](https://trescout.com/en/discover/servers/)
 - [AI Engineering from Scratch](https://trescout.com/en/discover/ai-engineering-from-scratch/)

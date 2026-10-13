@@ -2,12 +2,13 @@
 
 Logto bietet eine Authentifizierungs- und Autorisierungsinfrastruktur basierend auf den Protokollen Open Authentication (OIDC) und OAuth 2.1 für SaaS- und künstliche Intelligenzanwendungen. Es vereint Funktionen wie Mandantenfähigkeit, Single Sign-On (SSO) und rollenbasierte Zugriffskontrolle (RBAC) in einer mit TypeScript entwickelten Struktur.
 
-- ★ 14.646
+- ★ 14.676
 - TypeScript
 - GitHub Trending · 2026-06-30
 
 ## Aktualisierungen
 
+- **13. Oktober 2026:** Sterne 14,646 → 14,676, neueste Version v1.45.0 (13. Oktober 2026).
 - **30. September 2026:** Sterne 14,484 → 14,646, neueste Version v1.44.0 (30. September 2026).
 - **31. August 2026:** Sterne 14,271 → 14,484, neueste Version v1.43.0 (31. August 2026).
 - **2. August 2026:** Sterne 12,903 → 14,271, neueste Version v1.42.0 (30. Juli 2026).

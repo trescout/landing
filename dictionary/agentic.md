@@ -42,8 +42,8 @@ Hayır, çoğu yapay zekâ sadece sizin komutunuzu bekleyen pasif sistemlerdir.
 
 - [Ponytail](https://trescout.com/discover/ponytail/)
 - [MinerU](https://trescout.com/discover/mineru/)
-- [Claude Code Best Practice](https://trescout.com/discover/claude-code-best-practice/)
 - [OpenMontage](https://trescout.com/discover/openmontage/)
+- [Claude Code Best Practice](https://trescout.com/discover/claude-code-best-practice/)
 - [Kilocode](https://trescout.com/discover/kilocode/)
 - [Pm Skills](https://trescout.com/discover/pm-skills/)
 - [Personal_AI_Infrastructure](https://trescout.com/discover/personal-ai-infrastructure/)

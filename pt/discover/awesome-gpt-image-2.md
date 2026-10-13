@@ -2,16 +2,16 @@
 
 GPT-Image2 é uma biblioteca de engenharia imediata que define processos de criação de imagens como código (Prompt as Code). Com mais de 470 exemplos de engenharia reversa e mais de 20 modelos industriais, fica mais fácil obter resultados consistentes de modelos de IA.
 
-- ★ 32.734
+- ★ 34.422
 - JavaScript
 - GitHub Trending · 2026-08-24
 
 ## Atualizações
 
+- **13 de outubro de 2026:** Estrelas 32,734 → 34,422.
 - **19 de setembro de 2026:** Estrelas 31,160 → 32,734.
 - **11 de setembro de 2026:** Estrelas 29,494 → 31,160.
 - **9 de setembro de 2026:** Estrelas 27,621 → 29,494.
-- **3 de setembro de 2026:** Estrelas 26,288 → 27,621.
 
 ## O que você ganha
 

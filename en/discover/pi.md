@@ -2,16 +2,16 @@
 
 Pi is an AI agent toolkit that provides a unified interface for large language models and automates software development processes. It facilitates coding tasks by managing agent loops via a terminal-based user interface (TUI) and a command-line interface (CLI).
 
-- ★ 113,434
+- ★ 114,829
 - TypeScript
 - GitHub Trending · 2026-09-16
 
 ## Updates
 
+- **October 13, 2026:** Stars 113,434 → 114,829, latest release v1.2.0 (October 12, 2026).
 - **October 8, 2026:** Stars 112,852 → 113,434, latest release v1.1.0 (October 7, 2026).
 - **October 6, 2026:** Stars 112,575 → 112,852, latest release v1.0.4 (October 5, 2026).
 - **October 5, 2026:** Stars 112,309 → 112,575, latest release v1.0.3 (October 5, 2026).
-- **October 4, 2026:** Stars 111,516 → 112,309, latest release v1.0.2 (October 4, 2026).
 
 ## What you get
 

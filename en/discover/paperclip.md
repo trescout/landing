@@ -2,16 +2,16 @@
 
 Paperclip is an open source platform that allows you to manage workplace AI agents through a single interface. Developed with TypeScript, this tool allows you to control the workflows of agents used for different tasks from a central point.
 
-- ★ 98,241
+- ★ 101,377
 - TypeScript
 - GitHub Trending · 2026-08-11
 
 ## Updates
 
+- **October 13, 2026:** Stars 98,241 → 101,377, latest release v2026.1012.0 (October 12, 2026).
 - **October 7, 2026:** Stars 96,016 → 98,241, latest release v2026.1005.0 (October 6, 2026).
 - **October 2, 2026:** Stars 92,029 → 96,016, latest release v2026.1001.0 (October 2, 2026).
 - **September 28, 2026:** Stars 87,410 → 92,029, latest release v2026.916.1 (September 21, 2026).
-- **September 27, 2026:** Stars 80,899 → 87,410, latest release v2026.916.1 (September 21, 2026).
 
 ## What you get
 

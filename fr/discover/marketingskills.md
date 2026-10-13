@@ -2,16 +2,16 @@
 
 La bibliothèque de compétences marketing développée pour Claude Code et les agents d'intelligence artificielle offre des capacités spécialisées dans des domaines tels que l'optimisation du taux de conversion (CRO), la rédaction, l'optimisation des moteurs de recherche (SEO), l'analyse et l'ingénierie de croissance. Cet ensemble d'outils permet aux modèles d'IA d'effectuer des tâches orientées marketing de manière plus professionnelle et basée sur les données.
 
-- ★ 53 874
+- ★ 54 503
 - JavaScript
 - GitHub Trending · 2026-07-06
 
 ## Mises à jour
 
+- **13 octobre 2026:** Étoiles 53,874 → 54,503, dernière version v2.11.27 (13 octobre 2026).
 - **9 octobre 2026:** Étoiles 53,749 → 53,874, dernière version v2.11.26 (8 octobre 2026).
 - **8 octobre 2026:** Étoiles 53,677 → 53,749, dernière version v2.11.25 (8 octobre 2026).
 - **8 octobre 2026:** Étoiles 53,534 → 53,677, dernière version v2.11.20 (8 octobre 2026).
-- **7 octobre 2026:** Étoiles 52,554 → 53,534, dernière version v2.11.18 (7 octobre 2026).
 
 ## Ce que ça vous apporte
 

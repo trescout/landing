@@ -2,16 +2,16 @@
 
 Ein MIT-lizenziertes Regelwerk und Plugin-System, das bei Agenten-gesteuerten Codieraufgaben Validierung, Fehlerbehandlung, Sicherheit und Barrierefreiheit sicherstellen soll. Regeln werden angewendet, nachdem der betroffene Code gelesen wurde.
 
-- ★ 158.247
+- ★ 162.432
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Aktualisierungen
 
+- **13. Oktober 2026:** Sterne 158,247 → 162,432, neueste Version v5.2.0 (13. Oktober 2026).
 - **8. Oktober 2026:** Sterne 158,137 → 158,247, neueste Version v5.1.0 (8. Oktober 2026).
 - **8. Oktober 2026:** Sterne 156,385 → 158,137, neueste Version v5.0.0 (8. Oktober 2026).
 - **6. Oktober 2026:** Sterne 155,501 → 156,385, neueste Version v4.13.0 (5. Oktober 2026).
-- **5. Oktober 2026:** Sterne 152,240 → 155,501, neueste Version v4.12.0 (5. Oktober 2026).
 
 ## Installation
 
