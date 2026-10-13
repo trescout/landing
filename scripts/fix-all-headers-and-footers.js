@@ -301,4 +301,5 @@ allHtmls.forEach(relPath => {
 });
 
 require('./catalog-layout.js').updateAll();
+require('child_process').execFileSync(process.execPath, [path.join(__dirname, 'detail-layout.js')], {stdio: 'inherit'});
 console.log(`Completed! Fixed ${fixedHeaderCount} headers, ${fixedFooterCount} footers and normalized report scripts on ${normalizedReportScriptsCount} pages across all ${allHtmls.length} HTML files.`);
