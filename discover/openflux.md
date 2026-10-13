@@ -2,16 +2,16 @@
 
 Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır. Eklenebilir taşıma protokolleri (pluggable transports) desteği sayesinde ağ trafiği üzerinde esnek analiz ve yönetim imkânı sunar.
 
-- ★ 2.092
+- ★ 2.107
 - Go
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
 
+- **13 Ekim 2026:** Yıldız 2.092 → 2.107, son sürüm v0.7.2 (13 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 2.088 → 2.092, son sürüm v0.7.0 (13 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 2.066 → 2.088, son sürüm v0.6.0 (12 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 2.061 → 2.066, son sürüm node-v1.3.1 (11 Ekim 2026).
-- **11 Ekim 2026:** Yıldız 2.027 → 2.061, son sürüm v0.5.0 (11 Ekim 2026).
 
 ## Ne kazandırır?
 

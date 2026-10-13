@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://trescout.com/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://trescout.com/dictionary/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -91,6 +91,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://trescout.com/reports/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/compare/rss-vs-ai/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -98,7 +104,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -116,7 +122,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/reports/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -705,6 +711,12 @@
   <url>
     <loc>https://trescout.com/dictionary/bluetooth-mesh/</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/dictionary/borrow-checker/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1677,6 +1689,12 @@
   <url>
     <loc>https://trescout.com/dictionary/factory-droid/</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/dictionary/feature-extraction/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3817,6 +3835,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/swiftpm/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/syntax/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -4117,6 +4141,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/unsoundness/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/user-experience/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -4364,7 +4394,7 @@
   </url>
   <url>
     <loc>https://trescout.com/dictionary/xcode/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4616,7 +4646,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/archify/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4922,7 +4952,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/caveman/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5240,7 +5270,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/copilot-sdk/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5414,7 +5444,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/desktopcommandermcp/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5618,7 +5648,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/firebase-ios-sdk/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5672,7 +5702,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/folia-major/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5714,7 +5744,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/freellmapi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6218,7 +6248,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/langflow/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7046,7 +7076,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/pentagi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7484,7 +7514,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/spec-kit/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7760,7 +7790,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/tolaria/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7922,7 +7952,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/unsloth/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8095,6 +8125,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/discover/xtool/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/discover/yaml-cpp/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -8138,7 +8174,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8162,7 +8198,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8180,13 +8216,13 @@
   </url>
   <url>
     <loc>https://trescout.com/es/reports/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8204,13 +8240,13 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/reports/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8228,9 +8264,843 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/reports/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-05-26/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-05-27/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-05-28/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-05-29/</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-05-30/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-05-31/</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-01/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-02/</loc>
+    <lastmod>2026-06-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-03/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-04/</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-05/</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-06/</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-07/</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-08/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-09/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-10/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-11/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-12/</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-13/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-14/</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-15/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-16/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-17/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-18/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-19/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-20/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-21/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-22/</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-23/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-24/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-25/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-26/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-27/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-28/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-29/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-06-30/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-01/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-02/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-03/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-04/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-05/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-06/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-07/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-08/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-09/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-10/</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-11/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-12/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-13/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-14/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-15/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-16/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-17/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-18/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-19/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-20/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-21/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-22/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-23/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-24/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-25/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-26/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-27/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-28/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-29/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-30/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-07-31/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-01/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-02/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-03/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-04/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-05/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-06/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-07/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-08/</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-09/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-10/</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-11/</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-12/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-13/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-14/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-15/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-16/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-17/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-18/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-19/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-20/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-21/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-22/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-23/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-24/</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-25/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-26/</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-27/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-28/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-08-31/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-01/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-02/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-03/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-04/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-05/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-06/</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-07/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-08/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-09/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-10/</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-11/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-12/</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-13/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-14/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-15/</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-16/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-18/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-19/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-20/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-21/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-22/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-23/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-24/</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-25/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-26/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-27/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-28/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-29/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-09-30/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-01/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-02/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-03/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-04/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-05/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-06/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-07/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-08/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-09/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-10/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-11/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-12/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://trescout.com/de/compare/rss-vs-ai/</loc>
@@ -8823,6 +9693,12 @@
   <url>
     <loc>https://trescout.com/de/dictionary/bluetooth-mesh/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/dictionary/borrow-checker/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9795,6 +10671,12 @@
   <url>
     <loc>https://trescout.com/de/dictionary/factory-droid/</loc>
     <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/dictionary/feature-extraction/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11935,6 +12817,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/swiftpm/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/syntax/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -12235,6 +13123,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/unsoundness/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/user-experience/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -12482,7 +13376,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/xcode/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -12734,7 +13628,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/archify/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13040,7 +13934,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/caveman/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13358,7 +14252,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/copilot-sdk/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13532,7 +14426,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/desktopcommandermcp/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13736,7 +14630,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/firebase-ios-sdk/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13790,7 +14684,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/folia-major/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13832,7 +14726,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/freellmapi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -14336,7 +15230,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/langflow/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -15164,7 +16058,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/pentagi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -15602,7 +16496,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/spec-kit/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -15878,7 +16772,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/tolaria/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16040,7 +16934,7 @@
   </url>
   <url>
     <loc>https://trescout.com/de/discover/unsloth/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -16209,6 +17103,12 @@
   <url>
     <loc>https://trescout.com/de/discover/wrenai/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/discover/xtool/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17077,8 +17977,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/reports/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/reports/fresh/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17673,6 +18579,12 @@
   <url>
     <loc>https://trescout.com/en/dictionary/bluetooth-mesh/</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/en/dictionary/borrow-checker/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18645,6 +19557,12 @@
   <url>
     <loc>https://trescout.com/en/dictionary/factory-droid/</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/en/dictionary/feature-extraction/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -20785,6 +21703,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/swiftpm/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/syntax/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -21085,6 +22009,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/unsoundness/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/user-experience/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -21332,7 +22262,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/xcode/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21584,7 +22514,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/archify/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21890,7 +22820,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/caveman/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22208,7 +23138,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/copilot-sdk/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22382,7 +23312,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/desktopcommandermcp/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22586,7 +23516,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/firebase-ios-sdk/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22640,7 +23570,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/folia-major/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22682,7 +23612,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/freellmapi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23186,7 +24116,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/langflow/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24014,7 +24944,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/pentagi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24452,7 +25382,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/spec-kit/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24728,7 +25658,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/tolaria/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24890,7 +25820,7 @@
   </url>
   <url>
     <loc>https://trescout.com/en/discover/unsloth/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25059,6 +25989,12 @@
   <url>
     <loc>https://trescout.com/en/discover/wrenai/</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/en/discover/xtool/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25927,6 +26863,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/reports/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/reports/fresh/</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -26523,6 +27465,12 @@
   <url>
     <loc>https://trescout.com/es/dictionary/bluetooth-mesh/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/es/dictionary/borrow-checker/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27495,6 +28443,12 @@
   <url>
     <loc>https://trescout.com/es/dictionary/factory-droid/</loc>
     <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/es/dictionary/feature-extraction/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -29635,6 +30589,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/swiftpm/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/syntax/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -29935,6 +30895,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/unsoundness/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/user-experience/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -30182,7 +31148,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/xcode/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -30434,7 +31400,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/archify/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -30740,7 +31706,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/caveman/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -31058,7 +32024,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/copilot-sdk/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -31232,7 +32198,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/desktopcommandermcp/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -31436,7 +32402,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/firebase-ios-sdk/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -31490,7 +32456,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/folia-major/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -31532,7 +32498,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/freellmapi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -32036,7 +33002,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/langflow/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -32864,7 +33830,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/pentagi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33302,7 +34268,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/spec-kit/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33578,7 +34544,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/tolaria/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33740,7 +34706,7 @@
   </url>
   <url>
     <loc>https://trescout.com/es/discover/unsloth/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -33909,6 +34875,12 @@
   <url>
     <loc>https://trescout.com/es/discover/wrenai/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/es/discover/xtool/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -34777,8 +35749,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/reports/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/reports/fresh/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -35373,6 +36351,12 @@
   <url>
     <loc>https://trescout.com/fr/dictionary/bluetooth-mesh/</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/fr/dictionary/borrow-checker/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -36345,6 +37329,12 @@
   <url>
     <loc>https://trescout.com/fr/dictionary/factory-droid/</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/fr/dictionary/feature-extraction/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38485,6 +39475,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/swiftpm/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/syntax/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -38785,6 +39781,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/unsoundness/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/user-experience/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -39032,7 +40034,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/xcode/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -39284,7 +40286,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/archify/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -39590,7 +40592,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/caveman/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -39908,7 +40910,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/copilot-sdk/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -40082,7 +41084,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/desktopcommandermcp/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -40286,7 +41288,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/firebase-ios-sdk/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -40340,7 +41342,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/folia-major/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -40382,7 +41384,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/freellmapi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -40886,7 +41888,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/langflow/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -41714,7 +42716,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/pentagi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42152,7 +43154,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/spec-kit/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42428,7 +43430,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/tolaria/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42590,7 +43592,7 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/discover/unsloth/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42759,6 +43761,12 @@
   <url>
     <loc>https://trescout.com/fr/discover/wrenai/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/fr/discover/xtool/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -43627,8 +44635,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/reports/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/reports/fresh/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -44223,6 +45237,12 @@
   <url>
     <loc>https://trescout.com/pt/dictionary/bluetooth-mesh/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/pt/dictionary/borrow-checker/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -45195,6 +46215,12 @@
   <url>
     <loc>https://trescout.com/pt/dictionary/factory-droid/</loc>
     <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/pt/dictionary/feature-extraction/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -47335,6 +48361,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/swiftpm/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/syntax/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -47635,6 +48667,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/unsoundness/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/user-experience/</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -47882,7 +48920,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/xcode/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48134,7 +49172,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/archify/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48440,7 +49478,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/caveman/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48758,7 +49796,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/copilot-sdk/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48932,7 +49970,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/desktopcommandermcp/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49136,7 +50174,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/firebase-ios-sdk/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49190,7 +50228,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/folia-major/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49232,7 +50270,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/freellmapi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49736,7 +50774,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/langflow/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -50564,7 +51602,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/pentagi/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -51002,7 +52040,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/spec-kit/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -51278,7 +52316,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/tolaria/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -51440,7 +52478,7 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/discover/unsloth/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -51609,6 +52647,12 @@
   <url>
     <loc>https://trescout.com/pt/discover/wrenai/</loc>
     <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/pt/discover/xtool/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -52477,10 +53521,724 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/reports/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/reports/fresh/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-15/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-16/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-17/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-18/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-19/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-20/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-21/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-22/</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-23/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-24/</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-25/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-26/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-27/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-28/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-29/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-06-30/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-01/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-02/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-03/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-04/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-05/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-06/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-07/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-08/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-09/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-10/</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-11/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-12/</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-13/</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-14/</loc>
+    <lastmod>2026-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-15/</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-16/</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-17/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-18/</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-19/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-20/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-21/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-22/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-23/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-24/</loc>
+    <lastmod>2026-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-25/</loc>
+    <lastmod>2026-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-26/</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-27/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-28/</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-29/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-30/</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-07-31/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-01/</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-02/</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-03/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-04/</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-05/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-06/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-07/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-08/</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-09/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-10/</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-11/</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-12/</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-13/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-14/</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-15/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-16/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-17/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-18/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-19/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-20/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-21/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-22/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-23/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-24/</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-25/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-26/</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-27/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-28/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-08-31/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-01/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-02/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-03/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-04/</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-05/</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-06/</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-07/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-08/</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-09/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-10/</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-11/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-12/</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-13/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-14/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-15/</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-16/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-18/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-19/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-20/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-21/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-22/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-23/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-24/</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-25/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-26/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-27/</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-28/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-29/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-09-30/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-01/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-02/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-03/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-04/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-05/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-06/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-07/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-08/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-09/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-10/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-11/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-12/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/reports/tekrarsiz/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://trescout.com/de/reports/fresh/2026-06-15/</loc>
@@ -53181,6 +54939,12 @@
   <url>
     <loc>https://trescout.com/de/reports/fresh/2026-10-12/</loc>
     <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/reports/fresh/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -53887,6 +55651,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/reports/fresh/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/reports/fresh/2026-06-15/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -54585,6 +56355,12 @@
   <url>
     <loc>https://trescout.com/es/reports/fresh/2026-10-12/</loc>
     <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/es/reports/fresh/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -55291,6 +57067,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/reports/fresh/2026-10-13/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/reports/fresh/2026-06-15/</loc>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -55993,1550 +57775,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://trescout.com/reports/</loc>
+    <loc>https://trescout.com/pt/reports/fresh/2026-10-13/</loc>
     <lastmod>2026-10-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-13/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-12/</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-11/</loc>
-    <lastmod>2026-10-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-10/</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-09/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-08/</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-07/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-06/</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-05/</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-04/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-03/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-02/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-10-01/</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-30/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-29/</loc>
-    <lastmod>2026-09-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-28/</loc>
-    <lastmod>2026-09-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-27/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-26/</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-25/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-24/</loc>
-    <lastmod>2026-09-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-23/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-22/</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-21/</loc>
-    <lastmod>2026-09-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-20/</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-19/</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-18/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-16/</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-15/</loc>
-    <lastmod>2026-09-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-14/</loc>
-    <lastmod>2026-09-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-13/</loc>
-    <lastmod>2026-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-12/</loc>
-    <lastmod>2026-09-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-11/</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-10/</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-09/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-08/</loc>
-    <lastmod>2026-09-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-07/</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-06/</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-05/</loc>
-    <lastmod>2026-09-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-04/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-03/</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-02/</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-09-01/</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-31/</loc>
-    <lastmod>2026-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-28/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-27/</loc>
-    <lastmod>2026-08-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-26/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-25/</loc>
-    <lastmod>2026-08-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-24/</loc>
-    <lastmod>2026-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-23/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-22/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-21/</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-20/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-19/</loc>
-    <lastmod>2026-08-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-18/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-17/</loc>
-    <lastmod>2026-08-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-16/</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-15/</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-14/</loc>
-    <lastmod>2026-08-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-13/</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-12/</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-11/</loc>
-    <lastmod>2026-08-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-10/</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-09/</loc>
-    <lastmod>2026-08-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-08/</loc>
-    <lastmod>2026-08-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-07/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-06/</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-05/</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-04/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-03/</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-02/</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-08-01/</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-31/</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-30/</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-29/</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-28/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-27/</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-26/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-25/</loc>
-    <lastmod>2026-07-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-24/</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-23/</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-22/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-21/</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-20/</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-19/</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-18/</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-17/</loc>
-    <lastmod>2026-07-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-16/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-15/</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-14/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-13/</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-12/</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-11/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-10/</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-09/</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-08/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-07/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-06/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-05/</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-04/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-03/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-02/</loc>
-    <lastmod>2026-07-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-07-01/</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-30/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-29/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-28/</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-27/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-26/</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-25/</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-24/</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-23/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-22/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-21/</loc>
-    <lastmod>2026-06-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-20/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-19/</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-18/</loc>
-    <lastmod>2026-06-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-17/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-16/</loc>
-    <lastmod>2026-06-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-15/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-14/</loc>
-    <lastmod>2026-06-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-13/</loc>
-    <lastmod>2026-06-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-12/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-11/</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-10/</loc>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-09/</loc>
-    <lastmod>2026-06-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-08/</loc>
-    <lastmod>2026-06-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-07/</loc>
-    <lastmod>2026-06-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-06/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-05/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-04/</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-03/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-02/</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-06-01/</loc>
-    <lastmod>2026-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-05-31/</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-05-30/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-05-29/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-05-28/</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-05-27/</loc>
-    <lastmod>2026-05-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/2026-05-26/</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-13/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-12/</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-11/</loc>
-    <lastmod>2026-10-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-10/</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-09/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-08/</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-07/</loc>
-    <lastmod>2026-10-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-06/</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-05/</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-04/</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-03/</loc>
-    <lastmod>2026-10-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-02/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-10-01/</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-30/</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-29/</loc>
-    <lastmod>2026-09-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-28/</loc>
-    <lastmod>2026-09-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-27/</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-26/</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-25/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-24/</loc>
-    <lastmod>2026-09-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-23/</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-22/</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-21/</loc>
-    <lastmod>2026-09-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-20/</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-19/</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-18/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-16/</loc>
-    <lastmod>2026-09-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-15/</loc>
-    <lastmod>2026-09-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-14/</loc>
-    <lastmod>2026-09-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-13/</loc>
-    <lastmod>2026-09-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-12/</loc>
-    <lastmod>2026-09-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-11/</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-10/</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-09/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-08/</loc>
-    <lastmod>2026-09-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-07/</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-06/</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-05/</loc>
-    <lastmod>2026-09-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-04/</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-03/</loc>
-    <lastmod>2026-09-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-02/</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-09-01/</loc>
-    <lastmod>2026-09-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-31/</loc>
-    <lastmod>2026-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-28/</loc>
-    <lastmod>2026-08-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-27/</loc>
-    <lastmod>2026-08-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-26/</loc>
-    <lastmod>2026-08-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-25/</loc>
-    <lastmod>2026-08-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-24/</loc>
-    <lastmod>2026-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-23/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-22/</loc>
-    <lastmod>2026-08-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-21/</loc>
-    <lastmod>2026-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-20/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-19/</loc>
-    <lastmod>2026-08-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-18/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-17/</loc>
-    <lastmod>2026-08-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-16/</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-15/</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-14/</loc>
-    <lastmod>2026-08-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-13/</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-12/</loc>
-    <lastmod>2026-08-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-11/</loc>
-    <lastmod>2026-08-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-10/</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-09/</loc>
-    <lastmod>2026-08-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-08/</loc>
-    <lastmod>2026-08-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-07/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-06/</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-05/</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-04/</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-03/</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-02/</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-08-01/</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-31/</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-30/</loc>
-    <lastmod>2026-07-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-29/</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-28/</loc>
-    <lastmod>2026-07-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-27/</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-26/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-25/</loc>
-    <lastmod>2026-07-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-24/</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-23/</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-22/</loc>
-    <lastmod>2026-07-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-21/</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-20/</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-19/</loc>
-    <lastmod>2026-07-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-18/</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-17/</loc>
-    <lastmod>2026-07-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-16/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-15/</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-14/</loc>
-    <lastmod>2026-07-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-13/</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-12/</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-11/</loc>
-    <lastmod>2026-07-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-10/</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-09/</loc>
-    <lastmod>2026-07-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-08/</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-07/</loc>
-    <lastmod>2026-07-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-06/</loc>
-    <lastmod>2026-07-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-05/</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-04/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-03/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-02/</loc>
-    <lastmod>2026-07-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-07-01/</loc>
-    <lastmod>2026-07-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-30/</loc>
-    <lastmod>2026-06-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-29/</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-28/</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-27/</loc>
-    <lastmod>2026-06-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-26/</loc>
-    <lastmod>2026-06-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-25/</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-24/</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-23/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-22/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-21/</loc>
-    <lastmod>2026-06-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-20/</loc>
-    <lastmod>2026-06-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-19/</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-18/</loc>
-    <lastmod>2026-06-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-17/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-16/</loc>
-    <lastmod>2026-06-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://trescout.com/reports/tekrarsiz/2026-06-15/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

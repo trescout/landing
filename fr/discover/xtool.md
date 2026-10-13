@@ -1,0 +1,38 @@
+# Développez des applications iOS sur différents systèmes d'exploitation
+
+xtool est une alternative multiplateforme à Xcode qui vous permet de compiler et de déployer des applications iOS sur Linux, Windows et macOS à l'aide du Swift Package Manager (SwiftPM). En éliminant la dépendance à l'environnement de développement Xcode d'Apple, il prend en charge le processus de développement d'applications sur différents systèmes d'exploitation.
+
+- ★ 9 070
+- Swift
+- GitHub Trending · 2026-10-13
+
+## Mises à jour
+
+- **13 octobre 2026:** Étoiles 9,046 → 9,070, dernière version 1.21.0 (5 octobre 2026).
+
+## Ce que ça vous apporte
+
+- Compilez et déployez des applications sur différents systèmes d'exploitation.
+- Interagissez par programmation avec les services de développement Apple.
+- Signez les applications et installez-les sur votre appareil.
+
+## Pour commencer
+
+- Source officielle →
+
+## Termes liés du glossaire
+
+- [Xcode](https://trescout.com/fr/dictionary/xcode/)
+
+- **Pour qui:** Convient à ceux qui souhaitent développer des applications iOS sur différents systèmes d'exploitation.
+- **Licence:** MIT
+
+## Liens
+
+- [Dépôt GitHub →](https://xtool.sh)
+- [Lire en turc →](https://trescout.com/discover/xtool/)
+
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+
+---
+Source : TreScout Découvrir · https://trescout.com/fr/discover/xtool/

@@ -36,6 +36,7 @@ Hayır, Xcode sadece Apple'ın macOS işletim sisteminde çalışır.
 ## İlgili araçlar
 
 - [Ipatool](https://trescout.com/discover/ipatool/)
+- [Xtool](https://trescout.com/discover/xtool/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

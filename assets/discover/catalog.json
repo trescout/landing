@@ -806,10 +806,10 @@
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "AI ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 100.313 · Apache-2.0",
+    "meta": "★ 100.384 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 100313,
+    "stars": 100384,
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
@@ -991,6 +991,13 @@
         "yildiz": 100313,
         "onceki_yildiz": 100043,
         "surum": "v13.37.0",
+        "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 100384,
+        "onceki_yildiz": 100313,
+        "surum": "v13.38.0",
         "surum_tarihi": "2026-10-13"
       }
     ],
@@ -5538,7 +5545,7 @@
     "tagline_pt": "AirLLM é uma solução gráfica para modelos de linguagem grande com 70 bilhões de parâmetros, com apenas 4 GB de memória de vídeo (VRAM).",
     "tagline_es": "AirLLM es una solución gráfica para modelos de lenguajes grandes con 70 mil millones de parámetros, con solo 4 GB de memoria de video (VRAM).",
     "tagline_de": "AirLLM ist eine grafische Lösung für große Sprachmodelle mit 70 Milliarden Parametern und nur 4 GB Videospeicher (VRAM).",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "cmds": {
       "kurulum": [
         {
@@ -5662,14 +5669,14 @@
     "slug": "spec-kit",
     "title": "Spec Kit",
     "tagline": "GitHub tarafından yayınlanan spec-kit, şartname odaklı geliştirme (spec-driven development) süreçlerini başlatmak için gerekli…",
-    "meta": "★ 140.661 · Python",
+    "meta": "★ 141.105 · Python",
     "image": "/assets/discover/og/spec-kit.webp",
     "source": "GitHub",
     "date": "2026-06-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 140661,
+    "stars": 141105,
     "lite": false,
     "headline": "Yapay zekâ ile şartname odaklı geliştirme",
     "last_review": "2026-10-13",
@@ -5827,6 +5834,13 @@
         "onceki_yildiz": 140632,
         "surum": "v1.1.3",
         "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 141105,
+        "onceki_yildiz": 140661,
+        "surum": "v1.2.0",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "tagline_en": "Published by GitHub, spec-kit is a tool required to start specification-driven development processes.",
@@ -5919,7 +5933,7 @@
     "slug": "copilot-sdk",
     "title": "Copilot SDK",
     "tagline": "GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini…",
-    "meta": "★ 10.545",
+    "meta": "★ 10.551",
     "image": "/assets/discover/og/copilot-sdk.webp",
     "source": "GitHub",
     "date": "2026-06-05",
@@ -5927,7 +5941,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 10545,
+    "stars": 10551,
     "lite": false,
     "headline": "Uygulamanıza yapay zekâ ajanları ekleyin",
     "cmds": {
@@ -6010,6 +6024,13 @@
         "onceki_yildiz": 10546,
         "surum": "v1.0.19",
         "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 10551,
+        "onceki_yildiz": 10545,
+        "surum": "v1.0.21",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "tagline_en": "GitHub Copilot SDK allows developers to integrate GitHub Copilot AI agents into their applications and services.",
@@ -7885,14 +7906,14 @@
     "slug": "tolaria",
     "title": "Tolaria",
     "tagline": "Tolaria, Markdown tabanlı bilgi tabanlarını yönetmek için geliştirilen bir masaüstü uygulamasıdır.",
-    "meta": "★ 19.906 · TypeScript",
+    "meta": "★ 20.061 · TypeScript",
     "image": "/assets/discover/og/tolaria.webp",
     "source": "GitHub",
     "date": "2026-06-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 19906,
+    "stars": 20061,
     "lite": false,
     "headline": "Markdown bilgi tabanı masaüstü uygulaması",
     "last_review": "2026-10-13",
@@ -7938,6 +7959,13 @@
         "onceki_yildiz": 19727,
         "surum": "v2026-09-24",
         "surum_tarihi": "2026-09-24"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 20061,
+        "onceki_yildiz": 19906,
+        "surum": "v2026-10-13",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "tagline_en": "Tolaria is a desktop application developed for managing Markdown-based knowledge bases.",
@@ -13728,7 +13756,7 @@
     "slug": "cognee",
     "title": "Cognee",
     "tagline": "Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur.",
-    "meta": "★ 32.168 · Python",
+    "meta": "★ 32.188 · Python",
     "image": "/assets/discover/og/cognee.webp",
     "source": "GitHub",
     "date": "2026-06-22",
@@ -13736,7 +13764,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32168,
+    "stars": 32188,
     "lite": false,
     "headline": "Yapay zekâ ajanınıza kalıcı hafıza",
     "last_review": "2026-10-13",
@@ -13844,6 +13872,13 @@
         "yildiz": 32168,
         "onceki_yildiz": 31532,
         "surum": "v1.6.4.dev0",
+        "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 32188,
+        "onceki_yildiz": 32168,
+        "surum": "v1.6.4",
         "surum_tarihi": "2026-10-13"
       }
     ],
@@ -14008,7 +14043,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 62.356 · TypeScript",
+    "meta": "★ 62.561 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -14016,7 +14051,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 62356,
+    "stars": 62561,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-13",
@@ -14460,6 +14495,13 @@
         "yildiz": 62356,
         "onceki_yildiz": 61695,
         "surum": "v0.8.152",
+        "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 62561,
+        "onceki_yildiz": 62356,
+        "surum": "v0.8.153",
         "surum_tarihi": "2026-10-13"
       }
     ],
@@ -17871,7 +17913,7 @@
     "slug": "caveman",
     "title": "Caveman",
     "tagline": "Caveman, Claude Code için geliştirilen ve yapay zekâ modelinin dil kullanımını basitleştirerek belirteç (token) tüketimini…",
-    "meta": "★ 110.510 · JavaScript",
+    "meta": "★ 111.432 · JavaScript",
     "image": "/assets/discover/og/caveman.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -17879,7 +17921,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 110510,
+    "stars": 111432,
     "lite": false,
     "headline": "Yapay zekâ yanıtlarını kısaltarak tasarruf edin",
     "last_review": "2026-10-13",
@@ -17981,6 +18023,13 @@
         "onceki_yildiz": 109692,
         "surum": "v3.2.0",
         "surum_tarihi": "2026-10-08"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 111432,
+        "onceki_yildiz": 110510,
+        "surum": "v4.0.1",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "tagline_en": "Caveman, developed for Claude Code, simplifies the language use of the artificial intelligence model and reduces token consumption.",
@@ -18168,7 +18217,7 @@
     "slug": "langflow",
     "title": "Langflow",
     "tagline": "Langflow, yapay zekâ destekli ajanlar ve iş akışları oluşturmak için görsel bir arayüz sunan Python tabanlı bir geliştirme…",
-    "meta": "★ 155.555 · Python",
+    "meta": "★ 155.615 · Python",
     "image": "/assets/discover/og/langflow.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -18176,7 +18225,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 155555,
+    "stars": 155615,
     "lite": false,
     "headline": "Görsel arayüzle yapay zekâ iş akışları",
     "last_review": "2026-10-13",
@@ -18264,6 +18313,13 @@
         "onceki_yildiz": 155378,
         "surum": "v1.12.5",
         "surum_tarihi": "2026-10-06"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 155615,
+        "onceki_yildiz": 155555,
+        "surum": "v1.12.6",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "tagline_en": "Langflow is a Python-based development tool that offers a visual interface for creating AI-powered agents and workflows.",
@@ -18896,14 +18952,14 @@
     "slug": "folia-major",
     "title": "Folia Major",
     "tagline": "Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı…",
-    "meta": "★ 5.014 · TypeScript",
+    "meta": "★ 5.900 · TypeScript",
     "image": "/assets/discover/og/folia-major.webp",
     "source": "GitHub",
     "date": "2026-07-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 5014,
+    "stars": 5900,
     "lite": false,
     "headline": "Müzik deneyimini görselleştiren şarkı oynatıcı",
     "last_review": "2026-10-13",
@@ -19089,6 +19145,13 @@
         "onceki_yildiz": 4259,
         "surum": "v0.7.18",
         "surum_tarihi": "2026-10-11"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 5900,
+        "onceki_yildiz": 5014,
+        "surum": "v0.7.19",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "tagline_en": "Folia-major is a player that provides visualized lyric animations for local music files and online platforms.",
@@ -20485,7 +20548,7 @@
     "slug": "desktopcommandermcp",
     "title": "DesktopCommanderMCP",
     "tagline": "DesktopCommanderMCP, Claude için geliştirilen ve yapay zekâ modeline uçbirim denetimi (terminal control), dosya sistemi…",
-    "meta": "★ 9.830 · TypeScript",
+    "meta": "★ 10.028 · TypeScript",
     "image": "/assets/discover/og/desktopcommandermcp.webp",
     "source": "GitHub",
     "date": "2026-07-09",
@@ -20493,7 +20556,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 9830,
+    "stars": 10028,
     "lite": false,
     "headline": "Yapay zekâ ile bilgisayarınızı yönetin",
     "last_review": "2026-10-13",
@@ -20532,6 +20595,13 @@
         "onceki_yildiz": 9633,
         "surum": "v0.2.52",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 10028,
+        "onceki_yildiz": 9830,
+        "surum": "v0.3.0",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "tagline_en": "DesktopCommanderMCP, developed for Claude and based on the artificial intelligence model, terminal control, file system…",
@@ -20732,7 +20802,7 @@
     "slug": "pentagi",
     "title": "Pentagi",
     "tagline": "Go diliyle geliştirilen Pentagi, karmaşık sızma testlerini (penetration testing) gerçekleştirebilen tam otonom yapay zekâ…",
-    "meta": "★ 26.612 · Go",
+    "meta": "★ 28.092 · Go",
     "image": "/assets/discover/og/pentagi.webp",
     "source": "GitHub",
     "date": "2026-07-10",
@@ -20740,7 +20810,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 26612,
+    "stars": 28092,
     "lite": false,
     "headline": "Otonom sızma testi için yapay zekâ",
     "last_review": "2026-10-13",
@@ -20777,6 +20847,13 @@
         "tarih": "2026-10-12",
         "yildiz": 26612,
         "onceki_yildiz": 25256,
+        "surum": "v2.2.0",
+        "surum_tarihi": "2026-10-05"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 28092,
+        "onceki_yildiz": 26612,
         "surum": "v2.2.0",
         "surum_tarihi": "2026-10-05"
       }
@@ -33198,7 +33275,7 @@
         "onceki_yildiz": 48430
       }
     ],
-    "last_seen": "2026-10-12"
+    "last_seen": "2026-10-13"
   },
   {
     "slug": "macro",
@@ -33865,7 +33942,7 @@
     "slug": "unsloth",
     "title": "Unsloth",
     "tagline": "Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma…",
-    "meta": "★ 77.879 · Python",
+    "meta": "★ 77.941 · Python",
     "image": "/assets/discover/og/unsloth.webp",
     "source": "GitHub",
     "date": "2026-08-14",
@@ -33873,7 +33950,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 77879,
+    "stars": 77941,
     "lite": false,
     "headline": "Yerel yapay zekâ modellerini eğit ve çalıştır",
     "tagline_en": "Unsloth provides native training and execution for large language models (LLM) and diffusion models.",
@@ -33994,6 +34071,13 @@
         "onceki_yildiz": 77490,
         "surum": "v0.1.906-beta",
         "surum_tarihi": "2026-10-12"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 77941,
+        "onceki_yildiz": 77879,
+        "surum": "v0.1.907-beta",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "last_seen": "2026-08-17"
@@ -38732,14 +38816,14 @@
     "slug": "archify",
     "title": "Archify",
     "tagline": "Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ…",
-    "meta": "★ 81.841",
+    "meta": "★ 82.984",
     "image": "/assets/discover/og/archify.webp",
     "source": "GitHub",
     "date": "2026-08-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 81841,
+    "stars": 82984,
     "summary": "Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ yeteneğidir (agent skill). Karmaşık sistem tasarımlarını görselleştirmek için kullanılan bu araç, diyagramların yüksek çözünürlüklü dışa aktarımını destekler.",
     "headline": "Yapay zekâ ile interaktif sistem şemaları oluşturun",
     "lite": false,
@@ -38848,6 +38932,13 @@
         "onceki_yildiz": 77819,
         "surum": "v3.0.1",
         "surum_tarihi": "2026-09-28"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 82984,
+        "onceki_yildiz": 81841,
+        "surum": "v3.1.0",
+        "surum_tarihi": "2026-10-13"
       }
     ],
     "last_review": "2026-10-13",
@@ -39300,7 +39391,7 @@
     "tagline_pt": "Gods-eye-view é uma ferramenta de inteligência espacial que visualiza dados de satélite em tempo real em um globo 3D baseado em navegador.",
     "tagline_es": "Gods-eye-view es una herramienta de inteligencia espacial que visualiza datos satelitales en tiempo real en un globo 3D basado en navegador.",
     "tagline_de": "Gods-eye-view ist ein Spatial-Intelligence-Tool, das Echtzeit-Satellitendaten auf einem browserbasierten 3D-Globus visualisiert.",
-    "last_seen": "2026-10-12"
+    "last_seen": "2026-10-13"
   },
   {
     "slug": "gitnexus",
@@ -39488,7 +39579,7 @@
     "slug": "freellmapi",
     "title": "Freellmapi",
     "tagline": "FreeLLMAPI, 34 ücretsiz yapay zekâ sağlayıcısını OpenAI uyumlu tek bir REST uç noktasında birleştiren ters proxy servisidir.",
-    "meta": "★ 33.595 · TypeScript",
+    "meta": "★ 34.584 · TypeScript",
     "image": "/assets/discover/og/freellmapi.webp",
     "source": "GitHub",
     "date": "2026-08-28",
@@ -39496,7 +39587,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 33595,
+    "stars": 34584,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
     "lite": false,
     "tagline_en": "FreeLLMAPI is a reverse proxy service that combines 34 free AI providers into a single OpenAI-compatible REST endpoint.",
@@ -39578,6 +39669,13 @@
         "onceki_yildiz": 33363,
         "surum": "v0.13.10",
         "surum_tarihi": "2026-10-12"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 34584,
+        "onceki_yildiz": 33595,
+        "surum": "v0.14.2",
+        "surum_tarihi": "2026-10-13"
       }
     ]
   },
@@ -40337,7 +40435,7 @@
     "tagline_pt": "VoiceStudio é uma ferramenta de código aberto que realiza processos como clonagem de voz, dublagem e transcrição sem a necessidade de internet...",
     "tagline_es": "VoiceStudio es una herramienta de código abierto que realiza procesos como clonación de voz, doblaje y transcripción sin necesidad de internet...",
     "tagline_de": "VoiceStudio ist eine Open-Source-Anwendung, die Aufgaben wie Stimmenklonen, Synchronisation und Transkription ohne Internetverbindung durchführt...",
-    "last_seen": "2026-10-01"
+    "last_seen": "2026-10-13"
   },
   {
     "slug": "sequoia-x",
@@ -41397,7 +41495,7 @@
     "tagline_pt": "Context-mode é uma ferramenta que fornece otimização da janela de contexto para agentes de codificação de inteligência artificial...",
     "tagline_es": "Context-mode es una herramienta que proporciona optimización de la ventana de contexto para agentes de codificación de inteligencia artificial...",
     "tagline_de": "Context-mode ist ein Tool, das eine Optimierung des Kontextfensters (context window optimization) für KI-Codierungs-Agenten bietet...",
-    "last_seen": "2026-10-12"
+    "last_seen": "2026-10-13"
   },
   {
     "slug": "camofox-browser",
@@ -42384,14 +42482,14 @@
     "slug": "openflux",
     "title": "OpenFlux",
     "tagline": "Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır.",
-    "meta": "★ 2.092 · Go",
+    "meta": "★ 2.107 · Go",
     "image": "/assets/discover/og/openflux.webp",
     "source": "GitHub",
     "date": "2026-09-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2092,
+    "stars": 2107,
     "summary": "Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır. Eklenebilir taşıma protokolleri (pluggable transports) desteği sayesinde ağ trafiği üzerinde esnek analiz ve yönetim imkânı sunar.",
     "lite": false,
     "headline": "Ağ trafiği için TCP tünelleme",
@@ -42493,6 +42591,13 @@
         "yildiz": 2092,
         "onceki_yildiz": 2088,
         "surum": "v0.7.0",
+        "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 2107,
+        "onceki_yildiz": 2092,
+        "surum": "v0.7.2",
         "surum_tarihi": "2026-10-13"
       }
     ],
@@ -46235,7 +46340,7 @@
     "slug": "pstack-claude",
     "title": "Pstack Claude",
     "tagline": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan…",
-    "meta": "★ 1.917 · JavaScript",
+    "meta": "★ 1.926 · JavaScript",
     "image": "/assets/discover/og/pstack-claude.webp",
     "source": "GitHub",
     "date": "2026-10-05",
@@ -46243,7 +46348,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 1917,
+    "stars": 1926,
     "last_seen": "2026-10-05",
     "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
     "lite": false,
@@ -46313,6 +46418,13 @@
         "yildiz": 1917,
         "onceki_yildiz": 1825,
         "surum": "v0.9.83",
+        "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 1926,
+        "onceki_yildiz": 1917,
+        "surum": "v0.9.84",
         "surum_tarihi": "2026-10-13"
       }
     ],
@@ -46559,7 +46671,7 @@
       "Geliştirici aracı"
     ],
     "stars": 194215,
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.",
     "lite": false,
     "headline": "Yapay zekâ ile tersine mühendislik",
@@ -46803,7 +46915,7 @@
       "Geliştirici aracı"
     ],
     "stars": 24531,
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-13",
     "summary": "ArtCraft, sanatçılar ve tasarımcılar için geliştirilmiş bir içerik üretim motoru (crafting engine). Rust diliyle yazılan bu araç, yaratıcı süreçlerdeki karmaşık iş akışlarını otomatize ederek görsel üretim süreçlerini standartlaştırıyor.",
     "lite": false,
     "headline": "Tasarımcılar için içerik üretim motoru",
@@ -47024,5 +47136,39 @@
     "tagline_pt": "O BitNet, desenvolvido pela Microsoft, é um framework de inferência oficial para grandes modelos de linguagem (LLMs) de 1 bit (inference…",
     "tagline_es": "BitNet, desarrollado por Microsoft, es un marco de inferencia oficial para modelos de lenguaje grande (LLM) de 1 bit (inference…",
     "tagline_de": "Das von Microsoft entwickelte BitNet ist ein offizielles Inferenz-Framework (inference… für 1-Bit große Sprachmodelle (LLMs)."
+  },
+  {
+    "slug": "xtool",
+    "title": "Xtool",
+    "tagline": "xtool, iOS uygulamalarını Linux, Windows ve macOS üzerinde Swift Paket Yöneticisi (SwiftPM) ile derleyip dağıtmanıza olanak…",
+    "meta": "★ 9.070 · Swift",
+    "image": "/assets/discover/og/xtool.webp",
+    "source": "GitHub",
+    "date": "2026-10-13",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 9070,
+    "last_seen": "2026-10-13",
+    "summary": "xtool, iOS uygulamalarını Linux, Windows ve macOS üzerinde Swift Paket Yöneticisi (SwiftPM) ile derleyip dağıtmanıza olanak tanıyan, platformlar arası bir Xcode alternatifidir. Apple'ın geliştirme ortamı Xcode'a bağımlılığı ortadan kaldırarak farklı işletim sistemlerinde uygulama geliştirme sürecini destekler.",
+    "lite": false,
+    "headline": "Farklı işletim sistemlerinde ios uygulaması geliştirin",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-10-13",
+    "guncellemeler": [
+      {
+        "tarih": "2026-10-13",
+        "yildiz": 9070,
+        "onceki_yildiz": 9046,
+        "surum": "1.21.0",
+        "surum_tarihi": "2026-10-05"
+      }
+    ],
+    "tagline_en": "xtool allows you to compile and deploy iOS applications on Linux, Windows, and macOS using the Swift Package Manager (SwiftPM)…",
+    "tagline_fr": "xtool vous permet de compiler et de déployer des applications iOS sur Linux, Windows et macOS avec le gestionnaire de paquets Swift (SwiftPM)…",
+    "tagline_pt": "xtool permite compilar e implantar aplicativos iOS no Linux, Windows e macOS com o Swift Package Manager (SwiftPM)...",
+    "tagline_es": "xtool te permite compilar y desplegar aplicaciones de iOS en Linux, Windows y macOS con Swift Package Manager (SwiftPM)...",
+    "tagline_de": "xtool ermöglicht es Ihnen, iOS-Anwendungen unter Linux, Windows und macOS mit dem Swift Package Manager (SwiftPM) zu kompilieren und zu verteilen…"
   }
 ]

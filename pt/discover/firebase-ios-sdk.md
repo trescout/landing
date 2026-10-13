@@ -23,6 +23,7 @@ O Firebase, uma plataforma de desenvolvimento móvel oferecida pelo Google, forn
 
 ## Termos relacionados do glossário
 
+- [Swift Package Manager](https://trescout.com/pt/dictionary/swiftpm/)
 - [Backend](https://trescout.com/pt/dictionary/backend/)
 - [SDK](https://trescout.com/pt/dictionary/sdk/)
 

@@ -34,6 +34,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
+- [Swift Package Manager](https://trescout.com/dictionary/swiftpm/)
 - [Backend](https://trescout.com/dictionary/backend/)
 - [SDK](https://trescout.com/dictionary/sdk/)
 
