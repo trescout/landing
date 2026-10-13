@@ -2,7 +2,7 @@
 
 > TreScout; GitHub, Hacker News ve Hugging Face gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler hazırlar ve web ile PDF rapor olarak yayımlar. Raporlar herkese açıktır; okumak için kayıt olmanız gerekmez.
 
-Son güncelleme: 2026-10-12 · 624 araç · 712 terim
+Son güncelleme: 2026-10-13 · 624 araç · 712 terim
 
 ## Teknoloji Sözlüğü
 

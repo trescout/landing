@@ -111,6 +111,11 @@ jobs:
           print(f"→ önceki koşulardan {n} çeviri geri kazanıldı")
           PY
 
+      # Actions cache, kaldırma kaydından daha eski olabilir. Geri yüklenen
+      # çeviriler yayın girdisine dönüşmeden kanonik kaldırma listesiyle temizle.
+      - name: Geri yüklenen önbellekten kaldırılan içerikleri temizle
+        run: python3 scripts/kaldirilan.py --uygula
+
       # Generator syntax hatası varsa API/LLM çağrıları ve içerik yazımı başlamadan
       # önce fail etsin. Özellikle üretilen Python stringlerinde yarım kalmış
       # satırlar günlük hattı sessizce durdurmamalı.
@@ -609,7 +614,8 @@ jobs:
                 && python3 scripts/check-footer-consistency.py \
                 && python3 scripts/check-headline-consistency.py \
                 && python3 scripts/check-brand-typography.py \
-                && python3 scripts/check-hreflang.py
+                && python3 scripts/check-hreflang.py \
+                && python3 scripts/check-kaldirilan.py
             }
             for deneme in 1 2 3 4 5; do
               if git push; then
