@@ -2,6 +2,7 @@
 
 | Tarih | Kişi | Görev | AI Aracı | Rol | PR/Commit |
 |---|---|---|---|---|---|
+| 2026-10-13 | Codex | Dictionary/discovery detail sidebars with contextual links above existing signup, mobile content-first fallback | OpenAI Codex | User-approved plan; repository design/brand/pre-review workflow; existing homepage labels reused, no external review claimed | `feat/detail-sidebars` |
 | 2026-10-12 | Codex | Shared sidebar signup for catalogue/report indexes, 16-result browsing, mobile content-first layout | OpenAI Codex | User-approved plan; repository design/brand/pre-review workflow; existing localized homepage copy reused, no external model review claimed | `feat/catalog-sidebars` |
 | 2026-10-12 | Codex | Progressive 24-result browsing and full-filter-pool random links for dictionary/discovery in six locales, keyboard focus and full static fallback preserved | OpenAI Codex | User-approved follow-up; Codex implementation, localized short labels and review; Gemini waiver from conversation, no external model review claimed | `feat/catalog-browsing` |
 | 2026-10-12 | Codex | Equal two-item source previews; existing latest-report label in parentheses beside date in six locales; snapshot-backed regression checks | OpenAI Codex | User-requested layout, no new translated copy; Codex implementation and review | `fix/home-preview-balance` |
