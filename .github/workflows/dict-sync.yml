@@ -618,6 +618,8 @@ jobs:
                 && python3 scripts/check-kaldirilan.py
             }
             for deneme in 1 2 3 4 5; do
+              # Every push, including the first attempt, must pass the removal guard.
+              python3 scripts/check-kaldirilan.py || exit 1
               if git push; then
                 echo "Yeni içerik eklendi ve push edildi (deneme $deneme)."
                 exit 0
