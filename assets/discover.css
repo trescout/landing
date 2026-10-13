@@ -23,7 +23,7 @@
 .detail-sidebar .form-row { flex-direction: column; align-items: stretch; }
 .detail-sidebar .input { width: 100%; min-width: 0; flex: none; }
 .detail-sidebar .disc-cta .btn { margin: 0; font-size: var(--text-small); white-space: normal; }
-.detail-sidebar .disc-cta-all { margin-top: 20px !important; }
+.detail-sidebar .disc-cta .disc-cta-all { margin-top: 20px; }
 .detail-reading .disc-meta { flex-wrap: wrap; }
 .detail-reading .disc-meta li { white-space: normal; }
 @media (max-width: 1000px) {
