@@ -1,0 +1,373 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-13",
+  "capturedAt": "2026-10-13T18:57:46.005Z",
+  "editorial": "Dieser Bericht enthält die Trends, die heute zum ersten Mal hervorgehoben wurden, ohne die Einträge zu wiederholen, die in den regulären Berichten der letzten 30 Tage enthalten waren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "summary": "Das von Vercel Labs entwickelte skills ist ein Open-Source-Tool für Fähigkeiten (skills) von KI-Agenten. Diese Struktur, auf die Entwickler schnell über den npx-Befehl zugreifen können, zielt darauf ab, die Funktionalität in agentenbasierten Anwendungen zu standardisieren.",
+          "meta": "TypeScript · ★ 34.340 · +187 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "vercel-labs/skills",
+            "capturedAt": "2026-10-13T18:57:47.085Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 34340,
+              "engagementCount": 187,
+              "rank": 6,
+              "extra": {
+                "starsToday": 187
+              }
+            }
+          }
+        },
+        {
+          "title": "xtool-org/xtool",
+          "url": "https://github.com/xtool-org/xtool",
+          "summary": "xtool ist eine plattformübergreifende Xcode-Alternative, mit der Sie iOS-Anwendungen unter Linux, Windows und macOS mit dem Swift Package Manager (SwiftPM) kompilieren und verteilen können. Es beseitigt die Abhängigkeit von Apples Entwicklungsumgebung Xcode und unterstützt den Prozess der Anwendungsentwicklung auf verschiedenen Betriebssystemen.",
+          "meta": "Swift · ★ 9.046 · +1.182 heute",
+          "snapshot": {
+            "sourceId": "xtool-org/xtool",
+            "capturedAt": "2026-10-13T18:57:47.085Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 9046,
+              "engagementCount": 1182,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1182
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GLM-Legal",
+          "url": "https://z.ai/blog/glm-legal",
+          "summary": "GLM-Legal ist ein großes Sprachmodell (large language model), das für die Analyse und Verarbeitung von Texten im Rechtsbereich entwickelt wurde. Es bietet spezialisierte Fähigkeiten für das Verständnis juristischer Dokumente und die Verwaltung rechtlicher Prozesse.",
+          "meta": "657 Punkte · 357 Kommentare",
+          "snapshot": {
+            "sourceId": "50058507",
+            "capturedAt": "2026-10-13T18:57:46.279Z",
+            "metadata": {
+              "popularity": 657,
+              "engagementCount": 357,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50058507",
+                  "popularity": 657,
+                  "engagementCount": 357
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-12T16:11:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50058507"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50058507",
+              "popularity": 657,
+              "engagementCount": 357
+            }
+          ]
+        },
+        {
+          "title": "AI is a tool and using it well takes skill",
+          "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+          "summary": "Der effektive Einsatz von KI als Werkzeug hängt von den Fähigkeiten der Benutzer ab. Diese Technologie erfordert eine Kompetenz, die bei Anwendung der richtigen Methoden die Produktivität steigern kann.",
+          "meta": "601 Punkte · 474 Kommentare",
+          "snapshot": {
+            "sourceId": "50063427",
+            "capturedAt": "2026-10-13T18:57:46.279Z",
+            "metadata": {
+              "popularity": 601,
+              "engagementCount": 474,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50063427",
+                  "popularity": 601,
+                  "engagementCount": 474
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-12T21:40:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50063427"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50063427",
+              "popularity": 601,
+              "engagementCount": 474
+            }
+          ]
+        },
+        {
+          "title": "11 year old unsoundness bugs found in Rust borrow checker",
+          "url": "https://github.com/rust-lang/rust/issues/164250",
+          "summary": "Im Borrow Checker der Programmiersprache Rust, der für die Speichersicherheit sorgt, wurden seit 11 Jahren bestehende Unsoundness-Probleme entdeckt. Dies zeigt, dass bestimmte Codestrukturen, die vom Compiler als sicher eingestuft werden, tatsächlich zu Speicherfehlern führen können.",
+          "meta": "580 Punkte · 333 Kommentare",
+          "snapshot": {
+            "sourceId": "50069499",
+            "capturedAt": "2026-10-13T18:57:46.279Z",
+            "metadata": {
+              "popularity": 580,
+              "engagementCount": 333,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50069499",
+                  "popularity": 580,
+                  "engagementCount": 333
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-13T10:27:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50069499"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50069499",
+              "popularity": 580,
+              "engagementCount": 333
+            }
+          ]
+        },
+        {
+          "title": "Gemini 4 Argon",
+          "url": "https://deepmind.google/models/gemini/",
+          "summary": "Gemini 4 Argon, entwickelt von Google, wurde als das neueste große Sprachmodell (Large Language Model) des Unternehmens angekündigt. Dieses Modell bietet neue Fähigkeiten bei der Verarbeitung von Texten und multimodalen Daten.",
+          "meta": "545 Punkte · 422 Kommentare",
+          "snapshot": {
+            "sourceId": "50073879",
+            "capturedAt": "2026-10-13T18:57:46.279Z",
+            "metadata": {
+              "popularity": 545,
+              "engagementCount": 422,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50073879",
+                  "popularity": 545,
+                  "engagementCount": 422
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-13T16:03:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50073879"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50073879",
+              "popularity": 545,
+              "engagementCount": 422
+            }
+          ]
+        },
+        {
+          "title": "Apple HomeView",
+          "url": "https://www.apple.com/apple-homeview/",
+          "summary": "Apple HomeView ist eine von Apple bereitgestellte Schnittstelle, die es ermöglicht, Smart-Home-Geräte von einem zentralen Punkt aus zu verwalten. Sie erlaubt es Benutzern, ihre vernetzten Geräte im Haus über einen einzigen Bildschirm zu steuern.",
+          "meta": "503 Punkte · 621 Kommentare",
+          "snapshot": {
+            "sourceId": "50071017",
+            "capturedAt": "2026-10-13T18:57:46.279Z",
+            "metadata": {
+              "popularity": 503,
+              "engagementCount": 621,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50071017",
+                  "popularity": 503,
+                  "engagementCount": 621
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-13T13:02:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50071017"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50071017",
+              "popularity": 503,
+              "engagementCount": 621
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "UNITAS: A 3D-Native World Action Model for Embodied Manipulation",
+          "url": "https://huggingface.co/papers/2610.12099",
+          "summary": "UNITAS ist ein Weltaktionsmodell (World Action Model), das bei robotischen Manipulationsaufgaben physische Bewegungen und deren Auswirkungen auf die Umgebung im dreidimensionalen Raum modelliert. Im Gegensatz zu herkömmlichen videobasierten Ansätzen zielt es darauf ab, robotische Interaktionen konsistenter zu verarbeiten, indem es metrische 3D-Daten anstelle von visuellen Projektionen verwendet.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.12099",
+            "capturedAt": "2026-10-13T18:57:46.195Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12099",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/DexForce/UNITAS"
+              }
+            }
+          }
+        },
+        {
+          "title": "Visual Grounding Safety in Vision-Language Models",
+          "url": "https://huggingface.co/papers/2610.05637",
+          "summary": "Vision-Language-Modelle werden darauf trainiert, strukturierte Ausgaben wie Koordinaten oder Begrenzungsrahmen für Roboter und Schnittstellen zu erzeugen. Diese Studie untersucht systematisch die Sicherheitsausrichtung (Safety Alignment) dieser Ausgabekanäle anhand von drei verschiedenen Benchmarks.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.05637",
+            "capturedAt": "2026-10-13T18:57:46.195Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.05637",
+                "publishedAt": "2026-10-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction-Reality Gaps",
+          "url": "https://huggingface.co/papers/2610.02740",
+          "summary": "Prospective Hindsight bietet ein selbstkalibrierendes Trainingsprinzip für Reinforcement Learning für KI-Agenten, die langfristige Aufgaben ausführen. Die Methode verbessert den Trainingsprozess, indem sie die Differenz zwischen der Vorhersage des Agenten vor der Aktion und seiner Bewertung nach der Aktion nutzt.",
+          "meta": "3 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.02740",
+            "capturedAt": "2026-10-13T18:57:46.195Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.02740",
+                "publishedAt": "2026-10-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Evaluating LLM Creativity through Long-Tail Performance",
+          "url": "https://huggingface.co/papers/2610.12998",
+          "summary": "Evaluating LLM Creativity through Long-Tail Performance schlägt eine Methode zur Messung der Kreativität großer Sprachmodelle (LLM) vor, die auf der Long-Tail-Performance in der Referenz-Eingabe-Ausgabe-Verteilung basiert. Dieser Ansatz bietet einen neuen Bewertungsrahmen, der Neuheit und Qualität kombiniert, um Diskrepanzen in Kreativitäts-Benchmarks zu beheben.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.12998",
+            "capturedAt": "2026-10-13T18:57:46.195Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12998",
+                "publishedAt": "2026-10-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/YichenZW/longtail-creativity",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score",
+          "url": "https://huggingface.co/papers/2610.03825",
+          "summary": "Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score untersucht, wie Benchmark-Ergebnisse eher von der Wahl der Referenz als von der Systemausgabe beeinflusst werden. Die Studie, die an einem sechssprachigen Datensatz durchgeführt wurde, zeigt, dass eine Änderung der Referenz die Leistungswerte um bis zu 4,95 F-Punkte verändern kann.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.03825",
+            "capturedAt": "2026-10-13T18:57:46.195Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.03825",
+                "publishedAt": "2026-10-02T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Eine von Vercel Labs entwickelte Sammlung funktionaler Fähigkeiten, die KI-Agenten benötigen, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Mit riesigen Datenmengen trainierte KI-Modelle, die menschliche Sprache verstehen und Texte generieren können."
+    },
+    {
+      "term": "SwiftPM",
+      "explanation": "Ein Werkzeug zur Verwaltung, zum Herunterladen und zum Kompilieren von Codepaketen, die in der von Apple entwickelten Programmiersprache geschrieben wurden."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Ein KI-Modell mit umfassenden Sprachfähigkeiten, das darauf trainiert wurde, Texte in spezifischen Bereichen wie dem Recht zu verstehen und zu verarbeiten."
+    },
+    {
+      "term": "borrow checker",
+      "explanation": "Ein Mechanismus, der verhindert, dass in Rust geschriebene Programme Speicherfehler verursachen, und der überwacht, wie Daten verwendet werden."
+    },
+    {
+      "term": "unsoundness",
+      "explanation": "Der Umstand, dass die Regeln, für die eine Programmiersprache Sicherheit beansprucht, tatsächlich fehlerhaft oder unvollständig sind."
+    }
+  ]
+}
