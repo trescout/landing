@@ -44,8 +44,8 @@ Realiza bien la mayoría de las tareas estándar, pero aún requiere control hum
 - [Andrej Karpathy Skills](https://trescout.com/es/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/es/discover/opencode/)
 - [Openinterpreter](https://trescout.com/es/discover/openinterpreter/)
-- [Continue](https://trescout.com/es/discover/continue/)
 - [Oh My Pi](https://trescout.com/es/discover/oh-my-pi/)
+- [Continue](https://trescout.com/es/discover/continue/)
 - [Kilocode](https://trescout.com/es/discover/kilocode/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/coding-agent/)

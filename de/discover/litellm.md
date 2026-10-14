@@ -2,12 +2,13 @@
 
 LiteLLM ist ein KI-Gateway (AI Gateway), das Schnittstellen von über 100 großen Sprachmodellen (LLMs) in einem einheitlichen Standardformat zusammenführt. Es bietet Softwareentwicklern Funktionen wie Kostenverfolgung, Lastverteilung und Guardrails, wodurch der Wechsel zwischen verschiedenen Modellanbietern erleichtert wird.
 
-- ★ 60.948
+- ★ 61.213
 - Python
 - GitHub Trending · 2026-10-09
 
 ## Aktualisierungen
 
+- **14. Oktober 2026:** Sterne 60,948 → 61,213, neueste Version v1.105.1 (14. Oktober 2026).
 - **11. Oktober 2026:** Sterne 60,449 → 60,948, neueste Version v1.105.0 (11. Oktober 2026).
 - **9. Oktober 2026:** Sterne 60,446 → 60,449, neueste Version v1.104.2 (8. Oktober 2026).
 

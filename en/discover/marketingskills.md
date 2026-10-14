@@ -2,16 +2,16 @@
 
 The marketingskills library developed for Claude Code and artificial intelligence agents offers specialized capabilities in areas such as conversion rate optimization (CRO), copywriting, search engine optimization (SEO), analytics and growth engineering. This toolset enables AI models to carry out marketing-oriented tasks in a more professional and data-driven manner.
 
-- ★ 54,503
+- ★ 54,637
 - JavaScript
 - GitHub Trending · 2026-07-06
 
 ## Updates
 
+- **October 14, 2026:** Stars 54,503 → 54,637, latest release v2.11.29 (October 14, 2026).
 - **October 13, 2026:** Stars 53,874 → 54,503, latest release v2.11.27 (October 13, 2026).
 - **October 9, 2026:** Stars 53,749 → 53,874, latest release v2.11.26 (October 8, 2026).
 - **October 8, 2026:** Stars 53,677 → 53,749, latest release v2.11.25 (October 8, 2026).
-- **October 8, 2026:** Stars 53,534 → 53,677, latest release v2.11.20 (October 8, 2026).
 
 ## What you get
 

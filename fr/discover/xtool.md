@@ -2,12 +2,13 @@
 
 xtool est une alternative multiplateforme à Xcode qui vous permet de compiler et de déployer des applications iOS sur Linux, Windows et macOS à l'aide du Swift Package Manager (SwiftPM). En éliminant la dépendance à l'environnement de développement Xcode d'Apple, il prend en charge le processus de développement d'applications sur différents systèmes d'exploitation.
 
-- ★ 9 070
+- ★ 9 959
 - Swift
 - GitHub Trending · 2026-10-13
 
 ## Mises à jour
 
+- **14 octobre 2026:** Étoiles 9,070 → 9,959, dernière version 1.22.2 (14 octobre 2026).
 - **13 octobre 2026:** Étoiles 9,046 → 9,070, dernière version 1.21.0 (5 octobre 2026).
 
 ## Ce que ça vous apporte

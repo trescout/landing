@@ -44,8 +44,8 @@ Es erledigt die meisten Standardaufgaben gut, erfordert aber in sehr komplexen o
 - [Andrej Karpathy Skills](https://trescout.com/de/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/de/discover/opencode/)
 - [Openinterpreter](https://trescout.com/de/discover/openinterpreter/)
-- [Continue](https://trescout.com/de/discover/continue/)
 - [Oh My Pi](https://trescout.com/de/discover/oh-my-pi/)
+- [Continue](https://trescout.com/de/discover/continue/)
 - [Kilocode](https://trescout.com/de/discover/kilocode/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/coding-agent/)

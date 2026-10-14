@@ -2,16 +2,16 @@
 
 Cordis es un metamarco que combina componentes espaciales y temporales. Esta herramienta basada en TypeScript, que permite el desarrollo de sistemas complejos en una estructura modular, permite que diferentes partes de la aplicación funcionen en armonía entre sí.
 
-- ★ 8.253
+- ★ 9.168
 - TypeScript
 - GitHub Trending · 2026-08-16
 
 ## Actualizaciones
 
+- **14 de octubre de 2026:** Estrellas 8,253 → 9,168, última versión v4.0.0-rc.11 (14 de octubre de 2026).
 - **9 de septiembre de 2026:** Estrellas 7,891 → 8,253, última versión v4.0.0-rc.10 (8 de septiembre de 2026).
 - **31 de agosto de 2026:** Estrellas 6,995 → 7,891, última versión v4.0.0-rc.9 (29 de agosto de 2026).
 - **22 de agosto de 2026:** Estrellas 5,981 → 6,995.
-- **18 de agosto de 2026:** Estrellas 4,187 → 5,981.
 
 ## Qué aporta
 

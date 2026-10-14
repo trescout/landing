@@ -2,16 +2,16 @@
 
 Esta biblioteca, desenvolvida para agentes de codificação de inteligência artificial, oferece habilidades de engenharia em nível de produção. Fornece ferramentas padronizadas para aumentar a capacidade técnica dos agentes que automatizam processos de desenvolvimento de software.
 
-- ★ 106.026
+- ★ 106.401
 - Shell
 - GitHub Trending · 2026-06-10
 
 ## Atualizações
 
+- **14 de outubro de 2026:** Estrelas 106,026 → 106,401, versão mais recente 0.6.13 (13 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 100,641 → 106,026, versão mais recente 0.6.12 (3 de outubro de 2026).
 - **3 de outubro de 2026:** Estrelas 99,292 → 100,641, versão mais recente 0.6.12 (3 de outubro de 2026).
 - **27 de setembro de 2026:** Estrelas 96,084 → 99,292, versão mais recente 0.6.11 (26 de setembro de 2026).
-- **18 de setembro de 2026:** Estrelas 92,321 → 96,084, versão mais recente 0.6.10 (18 de setembro de 2026).
 
 ## O que você ganha
 

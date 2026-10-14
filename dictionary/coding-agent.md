@@ -44,8 +44,8 @@ Hayır, daha çok sizin angarya işlerinizi azaltan bir yardımcı pilot gibi ç
 - [Andrej Karpathy Skills](https://trescout.com/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/discover/opencode/)
 - [Openinterpreter](https://trescout.com/discover/openinterpreter/)
-- [Continue](https://trescout.com/discover/continue/)
 - [Oh My Pi](https://trescout.com/discover/oh-my-pi/)
+- [Continue](https://trescout.com/discover/continue/)
 - [Kilocode](https://trescout.com/discover/kilocode/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

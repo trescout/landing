@@ -49,8 +49,8 @@ L’intelligence artificielle va changer la façon dont de nombreux travaux sont
 - [Superpowers](https://trescout.com/fr/discover/superpowers/)
 - [ECC](https://trescout.com/fr/discover/ecc/)
 - [Hermes Agent](https://trescout.com/fr/discover/hermes-agent/)
+- [REA](https://trescout.com/fr/discover/rea/)
 - [Opencode](https://trescout.com/fr/discover/opencode/)
-- [Tensorflow](https://trescout.com/fr/discover/tensorflow/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/artificial-intelligence/)
 

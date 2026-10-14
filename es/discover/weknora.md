@@ -2,16 +2,16 @@
 
 Desarrollado por Tencent, WeKnora es una plataforma de código abierto que transforma documentos sin procesar en una base de conocimientos consultable (RAG), un agente de razonamiento autónomo y un sistema wiki que se actualiza automáticamente. Escrita en el lenguaje de programación Go, esta herramienta tiene como objetivo convertir datos no estructurados en activos de información accesibles a nivel empresarial.
 
-- ★ 33.718
+- ★ 33.893
 - Go
 - GitHub Trending · 2026-09-18
 
 ## Actualizaciones
 
+- **14 de octubre de 2026:** Estrellas 33,718 → 33,893, última versión v0.8.3 (14 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 31,949 → 33,718, última versión v0.8.2 (24 de septiembre de 2026).
 - **4 de octubre de 2026:** Estrellas 30,355 → 31,949, última versión v0.8.2 (24 de septiembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 26,676 → 30,355, última versión v0.8.2 (24 de septiembre de 2026).
-- **18 de septiembre de 2026:** Estrellas 26,667 → 26,676, última versión v0.8.0 (3 de septiembre de 2026).
 
 ## Qué aporta
 

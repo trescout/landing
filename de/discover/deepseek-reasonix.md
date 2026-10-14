@@ -2,16 +2,16 @@
 
 DeepSeek-Reasonix ist ein KI-Coding-Agent, der auf dem Terminal läuft und auf DeepSeek-Modellen basiert. Dieses Tool konzentriert sich auf die Stabilität des Präfix-Cache und stellt sicher, dass Entwickler über lange Sitzungen hinweg unterbrechungsfreie Codierungsunterstützung erhalten.
 
-- ★ 35.775
+- ★ 35.786
 - Go
 - GitHub Trending · 2026-08-03
 
 ## Aktualisierungen
 
+- **14. Oktober 2026:** Sterne 35,775 → 35,786, neueste Version studio-v2.39.0 (14. Oktober 2026).
 - **13. Oktober 2026:** Sterne 35,769 → 35,775, neueste Version studio-v2.38.0 (13. Oktober 2026).
 - **12. Oktober 2026:** Sterne 35,767 → 35,769, neueste Version studio-v2.37.0 (12. Oktober 2026).
 - **12. Oktober 2026:** Sterne 35,759 → 35,767, neueste Version studio-v2.36.0 (11. Oktober 2026).
-- **11. Oktober 2026:** Sterne 35,752 → 35,759, neueste Version studio-v2.35.0 (11. Oktober 2026).
 
 ## Was es bringt
 

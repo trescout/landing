@@ -44,8 +44,8 @@ It does most standard tasks well, but still requires human control in very compl
 - [Andrej Karpathy Skills](https://trescout.com/en/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/en/discover/opencode/)
 - [Openinterpreter](https://trescout.com/en/discover/openinterpreter/)
-- [Continue](https://trescout.com/en/discover/continue/)
 - [Oh My Pi](https://trescout.com/en/discover/oh-my-pi/)
+- [Continue](https://trescout.com/en/discover/continue/)
 - [Kilocode](https://trescout.com/en/discover/kilocode/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/coding-agent/)

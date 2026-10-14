@@ -4,17 +4,17 @@ Yapay zekâ ajanları arayüz üretirken çoğu zaman şablon odaklı sonuçlar 
 
 *Görsel: taste-skill (proje deposundan)*
 
-- ★ 91.389
+- ★ 95.827
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **14 Ekim 2026:** Yıldız 91.389 → 95.827, son sürüm v2.0.0 (13 Ekim 2026).
 - **30 Eylül 2026:** Yıldız 86.983 → 91.389.
 - **14 Eylül 2026:** Yıldız 82.815 → 86.983.
 - **31 Ağustos 2026:** Yıldız 77.614 → 82.815.
-- **18 Ağustos 2026:** Yıldız 73.831 → 77.614.
 
 - **Kimin için:** AI ile arayüz / frontend üretenler
 - **Zorluk:** Orta · AI agent kullanımı

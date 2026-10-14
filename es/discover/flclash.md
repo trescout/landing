@@ -2,17 +2,17 @@
 
 Choque Fl; Es un cliente proxy multiplataforma basado en ClashMeta. Fue desarrollado con Dart y tiene una estructura de código abierto, fácil de usar y sin publicidad.
 
-- ★ 54.202
+- ★ 55.669
 - Dart
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
 ## Actualizaciones
 
+- **14 de octubre de 2026:** Estrellas 54,202 → 55,669, última versión v0.9.0 (14 de octubre de 2026).
 - **3 de octubre de 2026:** Estrellas 52,097 → 54,202, última versión v0.8.99 (3 de octubre de 2026).
 - **14 de septiembre de 2026:** Estrellas 51,594 → 52,097, última versión v0.8.98 (14 de septiembre de 2026).
 - **10 de septiembre de 2026:** Estrellas 49,138 → 51,594, última versión v0.8.97 (10 de septiembre de 2026).
-- **18 de agosto de 2026:** Estrellas 48,759 → 49,138, última versión v0.8.96 (17 de agosto de 2026).
 
 *Görsel: FlClash (proje deposundan)*
 

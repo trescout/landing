@@ -44,8 +44,8 @@ Il accomplit bien la plupart des tâches standard, mais nécessite toujours un c
 - [Andrej Karpathy Skills](https://trescout.com/fr/discover/andrej-karpathy-skills/)
 - [Opencode](https://trescout.com/fr/discover/opencode/)
 - [Openinterpreter](https://trescout.com/fr/discover/openinterpreter/)
-- [Continue](https://trescout.com/fr/discover/continue/)
 - [Oh My Pi](https://trescout.com/fr/discover/oh-my-pi/)
+- [Continue](https://trescout.com/fr/discover/continue/)
 - [Kilocode](https://trescout.com/fr/discover/kilocode/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/coding-agent/)

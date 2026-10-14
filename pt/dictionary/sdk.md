@@ -47,8 +47,8 @@ Pode ser escrito, mas é preciso codificar tudo do zero, o que leva muito tempo.
 - [OmniRoute](https://trescout.com/pt/discover/omniroute/)
 - [Sentry](https://trescout.com/pt/discover/sentry/)
 - [Freellmapi](https://trescout.com/pt/discover/freellmapi/)
-- [Opendataloader PDF](https://trescout.com/pt/discover/opendataloader-pdf/)
 - [CUA](https://trescout.com/pt/discover/cua/)
+- [Opendataloader PDF](https://trescout.com/pt/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/pt/discover/iii/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/sdk/)

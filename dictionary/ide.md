@@ -45,8 +45,8 @@ Bazı IDE'ler belirli dillere odaklanmıştır, bazıları ise eklentiler sayesi
 
 - [Cline](https://trescout.com/discover/cline/)
 - [Free Claude Code](https://trescout.com/discover/free-claude-code/)
-- [Continue](https://trescout.com/discover/continue/)
 - [Oh My Pi](https://trescout.com/discover/oh-my-pi/)
+- [Continue](https://trescout.com/discover/continue/)
 - [Checkstyle](https://trescout.com/discover/checkstyle/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

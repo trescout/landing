@@ -2,13 +2,14 @@
 
 ASP.NET Core ist ein plattformübergreifendes .NET-Framework zur Entwicklung moderner cloudbasierter Webanwendungen unter Windows, macOS und Linux. Diese in der Sprache C# entwickelte Struktur ermöglicht die Erstellung leistungsstarker und skalierbarer Webdienste.
 
-- ★ 38.431
+- ★ 38.471
 - GitHub Trending · 2026-06-19
 
 **Hinweis von TreScout:** Die Entwicklungsinfrastruktur für Webanwendungen von Microsoft. Die Vorstellung, dass es auf Windows angewiesen ist, ist überholt, es läuft auch unter Linux reibungslos. Leistungsstark für die Arbeit im Unternehmen: Vorgefertigte Teile für Benutzeranmeldung, Datenbankzugriff und Überwachung sind sofort einsatzbereit. Wenn Sie die Sprache C# nicht beherrschen, sind die Lernkosten hoch und für eine kleine Aufgabe zu schwer.
 
 ## Aktualisierungen
 
+- **14. Oktober 2026:** Sterne 38,431 → 38,471, neueste Version v10.0.13 (13. Oktober 2026).
 - **9. September 2026:** Sterne 38,367 → 38,431, neueste Version v10.0.12 (8. September 2026).
 - **12. August 2026:** Sterne 38,339 → 38,367, neueste Version v10.0.11 (11. August 2026).
 - **2. August 2026:** Sterne 38,124 → 38,339, neueste Version v8.0.29 (14. Juli 2026).

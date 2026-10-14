@@ -47,8 +47,8 @@ Yazılır ama her şeyi sıfırdan kodlamanız gerekir, bu da çok uzun sürer.
 - [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Sentry](https://trescout.com/discover/sentry/)
 - [Freellmapi](https://trescout.com/discover/freellmapi/)
-- [Opendataloader PDF](https://trescout.com/discover/opendataloader-pdf/)
 - [CUA](https://trescout.com/discover/cua/)
+- [Opendataloader PDF](https://trescout.com/discover/opendataloader-pdf/)
 - [iii](https://trescout.com/discover/iii/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

@@ -45,8 +45,8 @@ Some IDEs are focused on specific languages, while others can work in almost any
 
 - [Cline](https://trescout.com/en/discover/cline/)
 - [Free Claude Code](https://trescout.com/en/discover/free-claude-code/)
-- [Continue](https://trescout.com/en/discover/continue/)
 - [Oh My Pi](https://trescout.com/en/discover/oh-my-pi/)
+- [Continue](https://trescout.com/en/discover/continue/)
 - [Checkstyle](https://trescout.com/en/discover/checkstyle/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ide/)

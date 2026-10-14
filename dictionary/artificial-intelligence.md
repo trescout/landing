@@ -49,8 +49,8 @@ Yapay zekâ birçok işin yapılış şeklini değiştirecek, ancak genellikle i
 - [Superpowers](https://trescout.com/discover/superpowers/)
 - [ECC](https://trescout.com/discover/ecc/)
 - [Hermes Agent](https://trescout.com/discover/hermes-agent/)
+- [REA](https://trescout.com/discover/rea/)
 - [Opencode](https://trescout.com/discover/opencode/)
-- [Tensorflow](https://trescout.com/discover/tensorflow/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 

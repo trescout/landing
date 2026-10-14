@@ -2,15 +2,15 @@
 
 n8n combina un canvas visual, código personalizado, agentes de IA y workflows en una plataforma de automatización fair-code. Admite despliegues autoalojados o en la nube y puede incluir distintos proveedores de modelos en los workflows.
 
-- ★ 207.216
+- ★ 207.332
 - GitHub Trending · 2026-08-23
 
 ## Actualizaciones
 
+- **14 de octubre de 2026:** Estrellas 207,216 → 207,332, última versión n8n@2.43.5 (14 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 207,074 → 207,216, última versión n8n@2.43.4 (12 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 206,789 → 207,074, última versión n8n@2.42.7 (12 de octubre de 2026).
 - **9 de octubre de 2026:** Estrellas 206,884 → 206,789, última versión n8n@2.42.6 (9 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 206,804 → 206,884, última versión n8n@2.42.5 (8 de octubre de 2026).
 
 ## Instalación
 
