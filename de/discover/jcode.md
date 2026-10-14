@@ -2,16 +2,16 @@
 
 Jcode wurde mit der Rust-Sprache entwickelt und bietet ein Framework zum Testen und Bewerten codierungsorientierter Agenten für künstliche Intelligenz. Es bietet eine Standardinfrastruktur zur Messung der Leistung von Agenten, die in Softwareentwicklungsprozessen verwendet werden.
 
-- ★ 20.491
+- ★ 20.726
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Aktualisierungen
 
+- **14. Oktober 2026:** Sterne 20,491 → 20,726, neueste Version v0.96.0 (14. Oktober 2026).
 - **12. Oktober 2026:** Sterne 20,377 → 20,491, neueste Version v0.95.0 (12. Oktober 2026).
 - **10. Oktober 2026:** Sterne 20,361 → 20,377, neueste Version v0.94.0 (10. Oktober 2026).
 - **9. Oktober 2026:** Sterne 20,324 → 20,361, neueste Version v0.93.0 (9. Oktober 2026).
-- **6. Oktober 2026:** Sterne 20,303 → 20,324, neueste Version v0.91.0 (6. Oktober 2026).
 
 ## Was es bringt
 

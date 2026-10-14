@@ -65,12 +65,12 @@ I want to train a walking policy for the Microduck robot using Pollen Robotics' 
 
 ## Related dictionary terms
 
+- [Robotics](https://trescout.com/en/dictionary/robotics/)
 - [Reinforcement Learning](https://trescout.com/en/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/en/dictionary/cpu/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 - [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
-- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Robotics researchers, mechatronics engineers, reinforcement learning experts, and hobbyists.
 - **License:** Apache-2.0 (Açık kaynak lisansı)

@@ -9306,5 +9306,57 @@
     "kisa_pt": "Um processo que extrai informações importantes de textos e as converte em dados numéricos que o computador pode entender.",
     "kisa_es": "Un proceso que extrae información importante de los textos y la convierte en datos numéricos que la computadora puede entender.",
     "kisa_de": "Ein Prozess, der wichtige Informationen aus Texten extrahiert und sie in numerische Daten umwandelt, die der Computer verstehen kann."
+  },
+  {
+    "slug": "agent-skills-tool",
+    "en": "Agent Skills Tool",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ ajanlarına yeni işlevler ve yetenekler kazandırmak için kullanılan bir araç.",
+    "date": "2026-10-14",
+    "kisa_en": "A tool used to give new functions and capabilities to artificial intelligence agents.",
+    "kisa_fr": "Un outil utilisé pour doter les agents d'intelligence artificielle de nouvelles fonctions et capacités.",
+    "kisa_pt": "Uma ferramenta usada para dotar os agentes de inteligência artificial de novas funções e capacidades.",
+    "kisa_es": "Una herramienta utilizada para dotar a los agentes de inteligencia artificial de nuevas funciones y capacidades.",
+    "kisa_de": "Ein Werkzeug, das verwendet wird, um KI-Agenten neue Funktionen und Fähigkeiten zu verleihen."
+  },
+  {
+    "slug": "cross-platform",
+    "en": "Cross-platform",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Farklı işletim sistemlerinde veya cihazlarda sorunsuz bir şekilde çalışabilen yazılım türü.",
+    "date": "2026-10-14",
+    "kisa_en": "A type of software that can run smoothly across different operating systems or devices.",
+    "kisa_fr": "Type de logiciel capable de fonctionner de manière fluide sur différents systèmes d'exploitation ou appareils.",
+    "kisa_pt": "Tipo de software que pode funcionar sem problemas em diferentes sistemas operacionais ou dispositivos.",
+    "kisa_es": "Un tipo de software que puede funcionar sin problemas en diferentes sistemas operativos o dispositivos.",
+    "kisa_de": "Eine Softwareart, die nahtlos auf verschiedenen Betriebssystemen oder Geräten funktionieren kann."
+  },
+  {
+    "slug": "robotics",
+    "en": "Robotics",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Robotların tasarımı, üretimi ve fiziksel dünyadaki görevleri yerine getirmesiyle ilgilenen teknoloji alanı.",
+    "date": "2026-10-14",
+    "kisa_en": "The field of technology concerned with the design, manufacturing, and performance of tasks in the physical world by robots.",
+    "kisa_fr": "Domaine technologique qui s'intéresse à la conception, à la production des robots et à l'exécution de tâches dans le monde physique.",
+    "kisa_pt": "Área tecnológica que lida com o projeto, a fabricação e a execução de tarefas no mundo físico por robôs.",
+    "kisa_es": "El campo tecnológico que se ocupa del diseño, la producción de robots y la realización de tareas en el mundo físico.",
+    "kisa_de": "Der Technologiebereich, der sich mit dem Design, der Herstellung und der Ausführung physischer Aufgaben durch Roboter in der realen Welt befasst."
+  },
+  {
+    "slug": "policies",
+    "en": "Policies",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kurumların güvenlik ve kullanım standartlarını belirleyen, sistem üzerinde uygulanan kurallar bütünü.",
+    "date": "2026-10-14",
+    "kisa_en": "A set of rules applied to a system that establishes security and usage standards for organizations.",
+    "kisa_fr": "Ensemble de règles appliquées sur un système, définissant les normes de sécurité et d'utilisation des organisations.",
+    "kisa_pt": "Conjunto de regras aplicadas no sistema, que estabelece os padrões de segurança e uso para as organizações.",
+    "kisa_es": "Un conjunto de reglas aplicadas en el sistema que establecen los estándares de seguridad y uso para las organizaciones.",
+    "kisa_de": "Ein Regelwerk, das Sicherheits- und Nutzungsstandards von Institutionen festlegt und auf das System angewendet wird."
   }
 ]

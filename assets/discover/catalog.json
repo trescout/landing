@@ -1818,14 +1818,14 @@
     "slug": "crawl4ai",
     "title": "Crawl4AI",
     "tagline": "LLM dostu açık kaynak web tarayıcı: web verisini yapay zekâ için temiz bilgiye dönüştürün.",
-    "meta": "★ 84.312 · Apache-2.0",
+    "meta": "★ 85.514 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-29",
     "tags": [
       "Geliştirici aracı",
       "Yapay zekâ araçları"
     ],
-    "stars": 84312,
+    "stars": 85514,
     "image": "/assets/discover/og/crawl4ai.webp",
     "headline": "Web Verilerini yapay zekâya Hazırlayın",
     "last_review": "2026-10-14",
@@ -1850,6 +1850,13 @@
         "onceki_yildiz": 80563,
         "surum": "v0.9.4",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-10-14",
+        "yildiz": 85514,
+        "onceki_yildiz": 84312,
+        "surum": "v0.9.5",
+        "surum_tarihi": "2026-10-14"
       }
     ],
     "tagline_en": "LLM-friendly open source web browser: transform web data into clean information for AI.",
@@ -13376,7 +13383,7 @@
     "slug": "jcode",
     "title": "Jcode",
     "tagline": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness)…",
-    "meta": "★ 20.491 · Rust",
+    "meta": "★ 20.726 · Rust",
     "image": "/assets/discover/og/jcode.webp",
     "source": "GitHub",
     "date": "2026-06-21",
@@ -13384,7 +13391,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 20491,
+    "stars": 20726,
     "lite": false,
     "headline": "Kodlama ajanları için yüksek performanslı çerçeve",
     "last_review": "2026-10-14",
@@ -13612,6 +13619,13 @@
         "onceki_yildiz": 20377,
         "surum": "v0.95.0",
         "surum_tarihi": "2026-10-12"
+      },
+      {
+        "tarih": "2026-10-14",
+        "yildiz": 20726,
+        "onceki_yildiz": 20491,
+        "surum": "v0.96.0",
+        "surum_tarihi": "2026-10-14"
       }
     ],
     "tagline_en": "Developed with the Rust language, jcode is a framework (harness) for testing and evaluating coding-oriented artificial intelligence agents.",
@@ -20034,7 +20048,7 @@
     "slug": "ai-job-search",
     "title": "AI Job Search",
     "tagline": "Claude Code altyapısını kullanan ai-job-search, iş arama sürecini otomatikleştiren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 44.486 · TypeScript",
+    "meta": "★ 46.736 · TypeScript",
     "image": "/assets/discover/og/ai-job-search.webp",
     "source": "GitHub",
     "date": "2026-07-08",
@@ -20042,7 +20056,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 44486,
+    "stars": 46736,
     "lite": false,
     "headline": "Claude Code ile otomatik iş başvurusu",
     "last_review": "2026-10-14",
@@ -20121,6 +20135,13 @@
         "tarih": "2026-09-29",
         "yildiz": 44486,
         "onceki_yildiz": 43175,
+        "surum": "v1.7.2",
+        "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-14",
+        "yildiz": 46736,
+        "onceki_yildiz": 44486,
         "surum": "v1.7.2",
         "surum_tarihi": "2026-09-29"
       }
@@ -24891,7 +24912,7 @@
     "slug": "astrbot",
     "title": "AstrBot",
     "tagline": "AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan…",
-    "meta": "★ 41.705 · Python",
+    "meta": "★ 41.866 · Python",
     "image": "/assets/discover/og/astrbot.webp",
     "source": "GitHub",
     "date": "2026-07-20",
@@ -24899,7 +24920,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41705,
+    "stars": 41866,
     "lite": false,
     "headline": "Mesajlaşma uygulamaları için yapay zekâ ajanı",
     "last_review": "2026-10-14",
@@ -24980,6 +25001,13 @@
         "onceki_yildiz": 41267,
         "surum": "v4.29.0-beta.2",
         "surum_tarihi": "2026-10-10"
+      },
+      {
+        "tarih": "2026-10-14",
+        "yildiz": 41866,
+        "onceki_yildiz": 41705,
+        "surum": "v4.29.0",
+        "surum_tarihi": "2026-10-14"
       }
     ],
     "tagline_en": "AstrBot works integrated with various instant messaging platforms, large language models and plug-ins.",
@@ -24993,7 +25021,7 @@
     "slug": "wrenai",
     "title": "WrenAI",
     "tagline": "Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (text-to-SQL) dönüştürerek verileri otomatik olarak…",
-    "meta": "★ 17.870 · Python",
+    "meta": "★ 17.871 · Python",
     "image": "/assets/discover/og/wrenai.webp",
     "source": "GitHub",
     "date": "2026-07-20",
@@ -25001,7 +25029,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 17870,
+    "stars": 17871,
     "lite": false,
     "headline": "Yapay zekâ ile otomatik iş zekâsı",
     "last_review": "2026-10-14",
@@ -25081,6 +25109,13 @@
         "yildiz": 17870,
         "onceki_yildiz": 17756,
         "surum": "wren-semantic-core-v0.5.0",
+        "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-14",
+        "yildiz": 17871,
+        "onceki_yildiz": 17870,
+        "surum": "wren-core-py-v0.8.1",
         "surum_tarihi": "2026-10-14"
       }
     ],
@@ -31750,14 +31785,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 34.966 · Rust",
+    "meta": "★ 34.991 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 34966,
+    "stars": 34991,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -32016,6 +32051,13 @@
         "onceki_yildiz": 34900,
         "surum": "v2026.10.9",
         "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-14",
+        "yildiz": 34991,
+        "onceki_yildiz": 34966,
+        "surum": "v2026.10.10",
+        "surum_tarihi": "2026-10-14"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",
@@ -44216,7 +44258,7 @@
     "slug": "coder",
     "title": "Coder",
     "tagline": "Coder, yazılımcılar ve yapay zekâ ajanları için güvenli geliştirme ortamları (development environments) sağlayan bir platform.",
-    "meta": "★ 16.848 · Go",
+    "meta": "★ 17.008 · Go",
     "image": "/assets/discover/og/coder.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -44224,7 +44266,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 16848,
+    "stars": 17008,
     "summary": "Coder, yazılımcılar ve yapay zekâ ajanları için güvenli geliştirme ortamları (development environments) sağlayan bir platform. Bulut tabanlı altyapısı sayesinde kodlama süreçlerini standartlaştırarak geliştirme ortamlarını merkezi bir şekilde yönetmenize olanak tanıyor.",
     "lite": false,
     "headline": "Bulut tabanlı güvenli geliştirme ortamları",
@@ -44256,6 +44298,13 @@
         "yildiz": 16848,
         "onceki_yildiz": 16710,
         "surum": "v2.36.7",
+        "surum_tarihi": "2026-10-05"
+      },
+      {
+        "tarih": "2026-10-14",
+        "yildiz": 17008,
+        "onceki_yildiz": 16848,
+        "surum": "v2.37.4",
         "surum_tarihi": "2026-10-05"
       }
     ],
@@ -46924,7 +46973,7 @@
     "slug": "rea",
     "title": "REA",
     "tagline": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı…",
-    "meta": "★ 223.438 · TypeScript",
+    "meta": "★ 227.917 · TypeScript",
     "image": "/assets/discover/og/rea.webp",
     "source": "GitHub",
     "date": "2026-10-06",
@@ -46932,7 +46981,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 223438,
+    "stars": 227917,
     "last_seen": "2026-10-14",
     "summary": "Rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu yazılım, karmaşık sistemlerin çalışma mantığını otomatize edilmiş süreçlerle çözümlemeyi amaçlar.",
     "lite": false,
@@ -47057,6 +47106,13 @@
         "onceki_yildiz": 194215,
         "surum": "rea-agents-6.4.0",
         "surum_tarihi": "2026-10-11"
+      },
+      {
+        "tarih": "2026-10-14",
+        "yildiz": 227917,
+        "onceki_yildiz": 223438,
+        "surum": "rea-agents-6.5.0",
+        "surum_tarihi": "2026-10-14"
       }
     ],
     "tagline_en": "Rea, based on AI agents that analyze everything from application behaviors to native binaries...",

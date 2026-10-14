@@ -65,12 +65,12 @@ Je souhaite former une politique de marche pour le robot Microduck à l'aide de 
 
 ## Termes liés du glossaire
 
+- [Robotics](https://trescout.com/fr/dictionary/robotics/)
 - [Reinforcement Learning](https://trescout.com/fr/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/fr/dictionary/cpu/)
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
 - [API](https://trescout.com/fr/dictionary/api/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
-- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Chercheurs en robotique, ingénieurs en mécatronique, experts en apprentissage par renforcement et amateurs.
 - **Licence:** Apache-2.0 (Açık kaynak lisansı)

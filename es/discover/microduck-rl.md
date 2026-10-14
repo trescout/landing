@@ -65,12 +65,12 @@ Quiero entrenar una política de caminata para el robot Microduck utilizando la 
 
 ## Términos relacionados del glosario
 
+- [Robotics](https://trescout.com/es/dictionary/robotics/)
 - [Reinforcement Learning](https://trescout.com/es/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/es/dictionary/cpu/)
 - [GPU](https://trescout.com/es/dictionary/gpu/)
 - [API](https://trescout.com/es/dictionary/api/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
-- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Investigadores de robótica, ingenieros de mecatrónica, expertos en aprendizaje por refuerzo y aficionados.
 - **Licencia:** Apache-2.0 (Açık kaynak lisansı)

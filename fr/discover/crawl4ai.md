@@ -2,13 +2,14 @@
 
 Crawl4AI ; est un robot d'exploration et un grattoir Web open source optimisé pour les grands modèles de langage. Il convertit les pages Web dans des formats propres et structurés (Markdown, etc.) que les modèles d'intelligence artificielle peuvent facilement traiter.
 
-- ★ 84 312
+- ★ 85 514
 - Python
 - Apache-2.0
 - GitHub Trending · 29 May 2026
 
 ## Mises à jour
 
+- **14 octobre 2026:** Étoiles 84,312 → 85,514, dernière version v0.9.5 (14 octobre 2026).
 - **27 septembre 2026:** Étoiles 80,563 → 84,312, dernière version v0.9.4 (23 septembre 2026).
 - **31 août 2026:** Étoiles 75,853 → 80,563, dernière version v0.9.3 (31 août 2026).
 - **2 août 2026:** Étoiles 67,194 → 75,853, dernière version v0.9.2 (15 juillet 2026).

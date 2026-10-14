@@ -65,12 +65,12 @@ Ich möchte mithilfe der microduck_rl-Bibliothek von Pollen Robotics eine Gehric
 
 ## Verwandte Begriffe aus dem Glossar
 
+- [Robotics](https://trescout.com/de/dictionary/robotics/)
 - [Reinforcement Learning](https://trescout.com/de/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/de/dictionary/cpu/)
 - [GPU](https://trescout.com/de/dictionary/gpu/)
 - [API](https://trescout.com/de/dictionary/api/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
-- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Robotikforscher, Mechatroniker, Experten für Reinforcement Learning und Bastler.
 - **Lizenz:** Apache-2.0 (Açık kaynak lisansı)
