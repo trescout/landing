@@ -1,0 +1,746 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-14",
+  "capturedAt": "2026-10-14T09:32:05.041Z",
+  "editorial": "Bugün geliştirici araçları (developer tools) ve görselleştirme sistemleri üzerinde yoğunlaşan bir hareketlilik gözlemleniyor. Anthropic tarafında kaynak yönetimi (source control) mimarisi güncellenirken, robotik dünyası için geliştirilen dünya modelleri (world models) akademik ilginin merkezinde yer alıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea, uygulama davranışlarından yerel ikili dosyalara (native binaries) kadar her şeyi analiz eden yapay zekâ ajanları tabanlı bir tersine mühendislik (reverse engineering) aracıdır. TypeScript ile geliştirilen bu proje, karmaşık yazılım yapılarını çözümlemek için otomatik süreçler sunar.",
+          "meta": "TypeScript · ★ 223.212 · +54.679 bugün",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 223212,
+              "engagementCount": 54679,
+              "rank": 1,
+              "extra": {
+                "starsToday": 54679
+              }
+            }
+          },
+          "streakDays": 9
+        },
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "bilawalsidhu/gods-eye-view, tarayıcı üzerinde çalışan ve gerçek verileri kullanan bir casus uydu simülatörü. JavaScript ile geliştirilen bu proje, fotogerçekçi bir 3 boyutlu dünya küresi üzerinde canlı açık kaynaklı uzamsal istihbarat (spatial intelligence) sunuyor.",
+          "meta": "JavaScript · ★ 56.060 · +1.961 bugün",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 56060,
+              "engagementCount": 1961,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1961
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio, ses kopyalama, ses tasarımı, video seslendirme ve metin dökümü gibi işlemleri gerçekleştiren açık kaynaklı bir ses işleme aracıdır. ElevenLabs, ses sentezleme servisi, yerine tamamen yerel olarak çalışabilen ve 646 dili destekleyen bir alternatif sunar.",
+          "meta": "Python · ★ 64.620 · +1.748 bugün",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 64620,
+              "engagementCount": 1748,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1748
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir araçtır. Araç çıktılarını izole ederek veri boyutunu küçültür, oturum belleğini korur ve Model Bağlantı Protokolü (Model Context Protocol - MCP) üzerinden 17 farklı platformda yönlendirme yapar.",
+          "meta": "TypeScript · ★ 28.625 · +969 bugün",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 28625,
+              "engagementCount": 969,
+              "rank": 4,
+              "extra": {
+                "starsToday": 969
+              }
+            }
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design, Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid ve Pi gibi yazılım geliştirme araçları için hazırlanan 44 farklı editoryal diyagram tasarımını içeriyor. Proje, bağımsız HTML ve SVG dosyaları kullanarak gölge içermeyen ve görsel karmaşadan arındırılmış bir tasarım dili sunuyor.",
+          "meta": "HTML · ★ 54.870 · +1.815 bugün",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 54870,
+              "engagementCount": 1815,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1815
+              }
+            }
+          },
+          "streakDays": 9
+        },
+        {
+          "title": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "summary": "Vercel Labs tarafından geliştirilen skills, yapay zekâ ajanları için açık kaynaklı bir yetenek aracı (agent skills tool) sunuyor. TypeScript diliyle yazılan bu proje, npx komutu aracılığıyla ajanların işlevselliğini genişletmeyi sağlıyor.",
+          "meta": "TypeScript · ★ 34.805 · +190 bugün",
+          "snapshot": {
+            "sourceId": "vercel-labs/skills",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 34805,
+              "engagementCount": 190,
+              "rank": 6,
+              "extra": {
+                "starsToday": 190
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM, 2.8 trilyon parametreli büyük dil modellerini (LLM) sadece 4 GB belleğe sahip grafik işlem birimlerinde (GPU) çalıştırmayı mümkün kılıyor. Bu yazılım, yüksek donanım gereksinimi duyan modellerin kısıtlı kaynaklarda çalıştırılmasını sağlayan bir çıkarım (inference) aracıdır.",
+          "meta": "Jupyter Notebook · ★ 38.574 · +1.001 bugün",
+          "snapshot": {
+            "sourceId": "lyogavin/airllm",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 38574,
+              "engagementCount": 1001,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1001
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "Rust diliyle geliştirilen ArtCraft, sanatçılar, tasarımcılar ve film yapımcıları için tasarlanmış bir içerik üretim motorudur (crafting engine). Kullanıcılara yaratıcı projelerinde bilinçli bir üretim süreci yönetme imkânı sağlar.",
+          "meta": "Rust · ★ 26.805 · +4.081 bugün",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 26805,
+              "engagementCount": 4081,
+              "rank": 8,
+              "extra": {
+                "starsToday": 4081
+              }
+            }
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "xtool-org/xtool",
+          "url": "https://github.com/xtool-org/xtool",
+          "summary": "xtool, iOS uygulamalarının geliştirilmesi ve dağıtılması için Xcode yazılımına alternatif olarak geliştirilen platformlar arası (cross-platform) bir araçtır. Swift paket yöneticisi (SwiftPM) aracılığıyla Linux, Windows ve macOS üzerinde uygulama oluşturma imkânı sağlar.",
+          "meta": "Swift · ★ 9.953 · +1.198 bugün",
+          "snapshot": {
+            "sourceId": "xtool-org/xtool",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 9953,
+              "engagementCount": 1198,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1198
+              }
+            }
+          },
+          "streakDays": 2
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 4 Argon",
+          "url": "https://deepmind.google/models/gemini/",
+          "summary": "Google tarafından geliştirilen Gemini 4 Argon, robotik sistemlerin kontrolü ve yönetimi için optimize edilmiş bir yapay zekâ modelidir. Fiziksel dünyadaki görevleri yerine getiren robotik uygulamalar (robotics) için özel yetenekler sunar.",
+          "meta": "1.292 oy · 898 yorum",
+          "snapshot": {
+            "sourceId": "50073879",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 1292,
+              "engagementCount": 898,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50073879",
+                  "popularity": 1292,
+                  "engagementCount": 898
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-13T16:03:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50073879"
+              }
+            }
+          },
+          "streakDays": 2,
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50073879",
+              "popularity": 1292,
+              "engagementCount": 898
+            }
+          ]
+        },
+        {
+          "title": "Redesigning source control at Anthropic",
+          "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "summary": "Anthropic, mühendislik süreçlerinde kaynak kontrolü (source control) sistemini yeniden tasarladığını duyurdu. Şirket, ölçeklenebilirlik ve geliştirici deneyimini iyileştirmek amacıyla mevcut altyapısını güncellediğini belirtiyor.",
+          "meta": "766 oy · 762 yorum",
+          "snapshot": {
+            "sourceId": "50073633",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 766,
+              "engagementCount": 762,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50073633",
+                  "popularity": 766,
+                  "engagementCount": 762
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-13T15:49:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50073633"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50073633",
+              "popularity": 766,
+              "engagementCount": 762
+            }
+          ]
+        },
+        {
+          "title": "Apple HomeView",
+          "url": "https://www.apple.com/apple-homeview/",
+          "summary": "Apple HomeView, Apple tarafından sunulan ve akıllı ev cihazlarını merkezi bir noktadan yönetmeye yarayan bir arayüzdür. Kullanıcıların evlerindeki uyumlu cihazları tek bir ekran üzerinden takip etmelerini ve kontrol etmelerini sağlar.",
+          "meta": "726 oy · 850 yorum",
+          "snapshot": {
+            "sourceId": "50071017",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 726,
+              "engagementCount": 850,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50071017",
+                  "popularity": 726,
+                  "engagementCount": 850
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-13T13:02:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50071017"
+              }
+            }
+          },
+          "streakDays": 2,
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50071017",
+              "popularity": 726,
+              "engagementCount": 850
+            }
+          ]
+        },
+        {
+          "title": "11 year old unsoundness bugs found in Rust borrow checker",
+          "url": "https://github.com/rust-lang/rust/issues/164250",
+          "summary": "Rust programlama dilinin bellek güvenliğini sağlayan ödünç alma denetleyicisinde (borrow checker), 11 yıldır varlığı bilinmeyen hatalar tespit edildi. Bu durum, derleyicinin güvenli kabul ettiği kodların aslında bellek hatalarına yol açabileceğini gösteriyor.",
+          "meta": "720 oy · 402 yorum",
+          "snapshot": {
+            "sourceId": "50069499",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 720,
+              "engagementCount": 402,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50069499",
+                  "popularity": 720,
+                  "engagementCount": 402
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-13T10:27:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50069499"
+              }
+            }
+          },
+          "streakDays": 2,
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50069499",
+              "popularity": 720,
+              "engagementCount": 402
+            }
+          ]
+        },
+        {
+          "title": "Firefox Enterprise",
+          "url": "https://www.firefox.com/en-US/enterprise/",
+          "summary": "Firefox Enterprise, kurumların tarayıcı yönetimini kolaylaştıran bir kurumsal yapılandırma aracı. İşletmelerin tarayıcı ayarlarını merkezi olarak yönetmesine ve güvenlik politikalarını (policies) uygulamasına olanak tanıyor.",
+          "meta": "709 oy · 301 yorum",
+          "snapshot": {
+            "sourceId": "50070302",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 709,
+              "engagementCount": 301,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50070302",
+                  "popularity": 709,
+                  "engagementCount": 301
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-13T12:00:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50070302"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50070302",
+              "popularity": 709,
+              "engagementCount": 301
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Google tarafından geliştirilen embeddinggemma-2, metinleri sayısal vektörlere dönüştüren bir öznitelik çıkarımı (feature extraction) modelidir. HuggingFace üzerinde yer alan bu model, doğal dil işleme görevlerinde metin verilerini anlamlandırmak için kullanılır.",
+          "meta": "♥ 2.155 · 124.930 indirme",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 2155,
+              "engagementCount": 124930,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1286,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 8
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "HuggingFace üzerinde paylaşılan jialinyyzz/humanizer, metin üretimi (text-generation) gerçekleştiren bir yapay zekâ modelidir. Kullanıcıların metin oluşturma süreçlerinde tercih ettiği bu model, 1568 popülerlik puanına sahiptir.",
+          "meta": "♥ 1.568 · 54.039 indirme",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 1568,
+              "engagementCount": 54039,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1071,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "summary": "Qwen/Qwen-Image-2.1-Turbo, metinden görsele (text-to-image) dönüştürme işlemi yapan bir yapay zekâ modelidir. HuggingFace platformu üzerinde paylaşılan bu model, metin tabanlı komutları görsel içeriğe dönüştürme yeteneği sunar.",
+          "meta": "♥ 733 · 9.665 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1-Turbo",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 9665,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 687,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:finetune:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized, metinden görsel oluşturma (text-to-image) yeteneğine sahip bir yapay zekâ modelidir. HuggingFace platformunda paylaşılan bu model, içerik kısıtlamaları kaldırılmış ve sıkıştırılmış (quantized) bir sürüm olarak sunulmaktadır.",
+          "meta": "♥ 4.239 · 2.247.929 indirme",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 4239,
+              "engagementCount": 2247929,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 536,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "mlx",
+                  "fp8",
+                  "nvfp4",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM-V-4.7-35B-A3B, görsel ve metin verilerini işleyerek metin çıktısı üreten bir yapay zekâ modelidir (image-text-to-text model). Model, çok modlu (multimodal) veri işleme yetenekleriyle karmaşık görsel içerikleri anlamlandırma sürecinde kullanılmaktadır.",
+          "meta": "♥ 523 · 630 indirme",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 523,
+              "engagementCount": 630,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 459,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GreenWAM: A World Foundation Model for Robotics",
+          "url": "https://huggingface.co/papers/2610.18774",
+          "summary": "GreenWAM, robotik sistemler için hem eylemlerin çevreyi nasıl değiştireceğini tahmin eden bir dünya modeli (world model) hem de bu eylemleri seçen bir politika (policy) olarak işlev gören bir temel modeldir (foundation model). Farklı robotik gövdeler arasında ortak bir anatomik eylem alanı (anatomical action space) kullanarak robotik dünyasında standart bir çalışma yöntemi sunmayı amaçlar.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.18774",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18774",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/greenvla/GreenWAM"
+              }
+            }
+          }
+        },
+        {
+          "title": "FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching",
+          "url": "https://huggingface.co/papers/2610.17552",
+          "summary": "FlashVSR+, hibrit dikkat (hybrid attention) ve ödül verimi dağılım eşleştirme (reward-yield distribution matching) yöntemlerini kullanarak video süper çözünürlük (video super-resolution) işlemlerini daha verimli hale getiriyor. Model, difüzyon damıtma (diffusion distillation) süreçlerindeki yüksek maliyet ve insan tercihlerine uyum sağlama sorunlarını mimari ve eğitim stratejisi iyileştirmeleriyle çözmeyi hedefliyor.",
+          "meta": "9 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.17552",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17552",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/OpenImagingLab/FlashVSR_Plus",
+                "githubStars": 11
+              }
+            }
+          }
+        },
+        {
+          "title": "LifeSearch: Benchmarking Deep Research Agents for Real-World Life and Productivity",
+          "url": "https://huggingface.co/papers/2610.18092",
+          "summary": "LifeSearch, derin araştırma ajanlarının (deep research agents) gerçek hayat ve profesyonel üretkenlik senaryolarındaki performansını ölçmek için geliştirilmiş bir kıyaslama aracıdır (benchmark). Gerçek kullanıcı sorgularından türetilen 203 farklı görev üzerinden, bu ajanların çok adımlı akıl yürütme ve internet araması yeteneklerini değerlendirmeyi amaçlar.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.18092",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18092",
+                "publishedAt": "2026-10-13T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SHELDON: Reasoning through Dual Search over Hypothesis and Observation Spaces",
+          "url": "https://huggingface.co/papers/2610.18025",
+          "summary": "SHELDON, büyük dil modellerinin (large language models) akıl yürütme süreçlerinde hipotez ve gözlem alanları üzerinde ikili arama yaparak çözüm üreten bir yöntem sunuyor. Bu yaklaşım, gözlem keşfini mevcut hipotezlere bağımlı olmaktan kurtararak daha geniş bir keşif alanı oluşturmayı hedefliyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.18025",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18025",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/stanford-oval/sheldon",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "EviScene: Beyond \"Is It AI?\" for Agentic Image Factuality Assessment",
+          "url": "https://huggingface.co/papers/2610.14609",
+          "summary": "EviScene, bir görselin sadece yapay zekâ tarafından üretilip üretilmediğini değil, içerdiği durumun olgusal doğruluğunu da değerlendiren bir sistemdir. Verilen talimatlar doğrultusunda görseldeki durumu inceleyerek kanıta dayalı açıklamalar sunar ve olgusal doğrulama (image factuality assessment) sürecini otomatikleştirir.",
+          "meta": "35 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.14609",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 35,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.14609",
+                "publishedAt": "2026-10-10T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Bilgisayarın işlemcisi tarafından doğrudan çalıştırılabilen, özel bir dönüştürme gerektirmeyen hazır program dosyaları."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Bir yazılımın nasıl çalıştığını anlamak için kodlarını veya yapısını geriye doğru çözümleme süreci."
+    },
+    {
+      "term": "spatial intelligence",
+      "explanation": "Dünya üzerindeki nesnelerin ve verilerin konumlarını, birbirleriyle olan ilişkilerini analiz ederek anlamlı bilgiler üretme yeteneği."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Yapay zekânın aynı anda işleyebileceği bilgi miktarını verimli kullanarak daha hızlı ve doğru sonuç almasını sağlayan yöntem."
+    },
+    {
+      "term": "Model Context Protocol - MCP",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynakları ve araçlarla standart bir şekilde iletişim kurmasını sağlayan bir bağlantı protokolü."
+    },
+    {
+      "term": "agent skills tool",
+      "explanation": "Vercel Labs tarafından geliştirilen, yapay zekâ ajanlarına yeni işlevler ve yetenekler kazandırmak için kullanılan bir araç."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Özellikle görüntü işleme ve yapay zekâ hesaplamaları gibi yoğun matematiksel işlemleri hızlıca yapabilen özel işlemci birimi."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, yeni veriler üzerinde tahmin veya analiz yapma süreci."
+    },
+    {
+      "term": "crafting engine",
+      "explanation": "Sanatçıların ve tasarımcıların dijital içerik üretmelerini kolaylaştıran, içerik oluşturma süreçlerini yöneten bir yazılım altyapısı."
+    },
+    {
+      "term": "cross-platform",
+      "explanation": "Farklı işletim sistemlerinde veya cihazlarda sorunsuz bir şekilde çalışabilen yazılım türü."
+    },
+    {
+      "term": "SwiftPM",
+      "explanation": "Swift diliyle yazılan projelerin kütüphanelerini ve dosyalarını düzenli bir şekilde yönetmeye yarayan araç."
+    },
+    {
+      "term": "robotics",
+      "explanation": "Robotların tasarımı, üretimi ve fiziksel dünyadaki görevleri yerine getirmesiyle ilgilenen teknoloji alanı."
+    },
+    {
+      "term": "source control",
+      "explanation": "Yazılım geliştirme sürecinde kodlarda yapılan değişiklikleri kaydeden, takip eden ve düzenleyen sistem."
+    },
+    {
+      "term": "borrow checker",
+      "explanation": "Rust dilinde belleğin hatalı kullanımını engelleyerek programın çökmesini önleyen güvenlik denetleyicisi."
+    },
+    {
+      "term": "policies",
+      "explanation": "Kurumların güvenlik ve kullanım standartlarını belirleyen, sistem üzerinde uygulanan kurallar bütünü."
+    }
+  ]
+}

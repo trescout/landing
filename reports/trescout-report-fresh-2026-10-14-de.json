@@ -1,0 +1,253 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-14",
+  "capturedAt": "2026-10-14T09:32:05.041Z",
+  "editorial": "Dieser Bericht enthält die Trends, die heute zum ersten Mal hervorgehoben wurden, ohne die Einträge zu wiederholen, die in den regulären Berichten der letzten 30 Tage enthalten waren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Redesigning source control at Anthropic",
+          "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "summary": "Anthropic hat angekündigt, sein Quellcodeverwaltungssystem (source control) in den technischen Prozessen neu zu gestalten. Das Unternehmen gibt an, seine bestehende Infrastruktur aktualisiert zu haben, um die Skalierbarkeit und die Entwicklererfahrung zu verbessern.",
+          "meta": "766 Punkte · 762 Kommentare",
+          "snapshot": {
+            "sourceId": "50073633",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 766,
+              "engagementCount": 762,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50073633",
+                  "popularity": 766,
+                  "engagementCount": 762
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-13T15:49:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50073633"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50073633",
+              "popularity": 766,
+              "engagementCount": 762
+            }
+          ]
+        },
+        {
+          "title": "Firefox Enterprise",
+          "url": "https://www.firefox.com/en-US/enterprise/",
+          "summary": "Firefox Enterprise ist ein Konfigurationstool für Unternehmen, das die Browserverwaltung vereinfacht. Es ermöglicht Unternehmen, Browsereinstellungen zentral zu verwalten und Sicherheitsrichtlinien (Policies) durchzusetzen.",
+          "meta": "709 Punkte · 301 Kommentare",
+          "snapshot": {
+            "sourceId": "50070302",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 709,
+              "engagementCount": 301,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50070302",
+                  "popularity": 709,
+                  "engagementCount": 301
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-13T12:00:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50070302"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50070302",
+              "popularity": 709,
+              "engagementCount": 301
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "Das von OpenBMB entwickelte MiniCPM-V-4.7-35B-A3B ist ein KI-Modell (Image-Text-to-Text-Modell), das visuelle und textuelle Daten verarbeitet, um Textausgaben zu erzeugen. Das Modell wird aufgrund seiner multimodalen Datenverarbeitungsfähigkeiten zur Interpretation komplexer visueller Inhalte eingesetzt.",
+          "meta": "♥ 523 · 630 Downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 523,
+              "engagementCount": 630,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 459,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GreenWAM: A World Foundation Model for Robotics",
+          "url": "https://huggingface.co/papers/2610.18774",
+          "summary": "GreenWAM ist ein Basismodell (Foundation Model) für Robotersysteme, das sowohl als Weltmodell (World Model), das vorhersagt, wie Aktionen die Umgebung verändern, als auch als Richtlinie (Policy) zur Auswahl dieser Aktionen fungiert. Es zielt darauf ab, eine Standardarbeitsmethode in der Robotik anzubieten, indem es einen gemeinsamen anatomischen Aktionsraum (Anatomical Action Space) über verschiedene robotische Körper hinweg nutzt.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.18774",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18774",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/greenvla/GreenWAM"
+              }
+            }
+          }
+        },
+        {
+          "title": "FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching",
+          "url": "https://huggingface.co/papers/2610.17552",
+          "summary": "FlashVSR+ macht Video-Super-Resolution-Prozesse effizienter, indem es Methoden der hybriden Aufmerksamkeit (Hybrid Attention) und des Reward-Yield-Distribution-Matchings verwendet. Das Modell zielt darauf ab, die hohen Kosten bei der Diffusionsdestillation (Diffusion Distillation) und die Probleme bei der Anpassung an menschliche Präferenzen durch Verbesserungen der Architektur und der Trainingsstrategie zu lösen.",
+          "meta": "9 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.17552",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17552",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/OpenImagingLab/FlashVSR_Plus",
+                "githubStars": 11
+              }
+            }
+          }
+        },
+        {
+          "title": "LifeSearch: Benchmarking Deep Research Agents for Real-World Life and Productivity",
+          "url": "https://huggingface.co/papers/2610.18092",
+          "summary": "LifeSearch ist ein Benchmark-Tool, das entwickelt wurde, um die Leistung von Deep-Research-Agenten in realen und professionellen Produktivitätsszenarien zu messen. Es zielt darauf ab, die mehrstufigen Schlussfolgerungs- und Internetsuchfähigkeiten dieser Agenten anhand von 203 verschiedenen Aufgaben zu bewerten, die aus echten Benutzeranfragen abgeleitet wurden.",
+          "meta": "5 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.18092",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18092",
+                "publishedAt": "2026-10-13T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SHELDON: Reasoning through Dual Search over Hypothesis and Observation Spaces",
+          "url": "https://huggingface.co/papers/2610.18025",
+          "summary": "SHELDON bietet eine Methode, bei der große Sprachmodelle (Large Language Models) Lösungen generieren, indem sie eine binäre Suche über Hypothesen- und Beobachtungsräume in ihren Schlussfolgerungsprozessen durchführen. Dieser Ansatz zielt darauf ab, die Entdeckung von Beobachtungen von der Abhängigkeit bestehender Hypothesen zu befreien und einen breiteren Entdeckungsraum zu schaffen.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.18025",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18025",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/stanford-oval/sheldon",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "EviScene: Beyond \"Is It AI?\" for Agentic Image Factuality Assessment",
+          "url": "https://huggingface.co/papers/2610.14609",
+          "summary": "EviScene ist ein System, das nicht nur bewertet, ob ein Bild von einer künstlichen Intelligenz generiert wurde, sondern auch die faktische Richtigkeit der darin enthaltenen Situation überprüft. Es untersucht die Situation im Bild gemäß den gegebenen Anweisungen, liefert evidenzbasierte Erklärungen und automatisiert den Prozess der faktischen Bildüberprüfung (image factuality assessment).",
+          "meta": "35 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.14609",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 35,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.14609",
+                "publishedAt": "2026-10-10T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "robotics",
+      "explanation": "Ein Technologiebereich, der sich mit dem Design, der Herstellung und der Ausführung von Aufgaben in der physischen Welt durch Roboter befasst."
+    },
+    {
+      "term": "source control",
+      "explanation": "Ein System, das Änderungen am Code während des Softwareentwicklungsprozesses aufzeichnet, nachverfolgt und verwaltet."
+    },
+    {
+      "term": "policies",
+      "explanation": "Eine Gesamtheit von Regeln, die auf einem System angewendet werden und die Sicherheits- und Nutzungsstandards von Organisationen festlegen."
+    }
+  ]
+}

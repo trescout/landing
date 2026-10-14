@@ -1,0 +1,730 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-14",
+  "capturedAt": "2026-10-14T09:32:05.041Z",
+  "editorial": "Aujourd'hui, on observe une activité intense centrée sur les outils de développement (developer tools) et les systèmes de visualisation. Du côté d'Anthropic, l'architecture de contrôle de source (source control) est en cours de mise à jour, tandis que les modèles mondiaux (world models) développés pour le monde de la robotique sont au centre de l'intérêt académique.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea est un outil de rétro-ingénierie (reverse engineering) basé sur des agents d'intelligence artificielle qui analyse tout, des comportements des applications aux binaires natifs (native binaries). Développé en TypeScript, ce projet propose des processus automatisés pour analyser des structures logicielles complexes.",
+          "meta": "TypeScript · ★ 223 212 · +54 679 aujourd'hui",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 223212,
+              "engagementCount": 54679,
+              "rank": 1,
+              "extra": {
+                "starsToday": 54679
+              }
+            }
+          }
+        },
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "bilawalsidhu/gods-eye-view est un simulateur de satellite espion fonctionnant dans le navigateur et utilisant des données réelles. Développé en JavaScript, ce projet offre une intelligence spatiale (spatial intelligence) open source en direct sur un globe 3D photoréaliste.",
+          "meta": "JavaScript · ★ 56 060 · +1 961 aujourd'hui",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 56060,
+              "engagementCount": 1961,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1961
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio est un outil de traitement audio open source qui effectue des opérations telles que le clonage vocal, la conception sonore, le doublage vidéo et la transcription de texte. Il propose une alternative entièrement locale et capable de prendre en charge 646 langues, remplaçant le service de synthèse vocale ElevenLabs.",
+          "meta": "Python · ★ 64 620 · +1 748 aujourd'hui",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 64620,
+              "engagementCount": 1748,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1748
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode est un outil qui assure l'optimisation de la fenêtre de contexte (context window optimization) pour les agents de codage par intelligence artificielle. Il réduit la taille des données en isolant les sorties de l'outil, préserve la mémoire de session et effectue le routage sur 17 plateformes différentes via le protocole de contexte de modèle (Model Context Protocol - MCP).",
+          "meta": "TypeScript · ★ 28 625 · +969 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 28625,
+              "engagementCount": 969,
+              "rank": 4,
+              "extra": {
+                "starsToday": 969
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "cathrynlavery/diagram-design contient 44 conceptions de diagrammes éditoriaux différents préparés pour des outils de développement logiciel tels que Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid et Pi. Le projet propose un langage de conception sans ombre et épuré, utilisant des fichiers HTML et SVG indépendants.",
+          "meta": "HTML · ★ 54 870 · +1 815 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 54870,
+              "engagementCount": 1815,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1815
+              }
+            }
+          }
+        },
+        {
+          "title": "vercel-labs/skills",
+          "url": "https://github.com/vercel-labs/skills",
+          "summary": "Développé par Vercel Labs, skills propose un outil de compétences open source (agent skills tool) pour les agents d'intelligence artificielle. Écrit en TypeScript, ce projet permet d'étendre les fonctionnalités des agents via la commande npx.",
+          "meta": "TypeScript · ★ 34 805 · +190 aujourd'hui",
+          "snapshot": {
+            "sourceId": "vercel-labs/skills",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 34805,
+              "engagementCount": 190,
+              "rank": 6,
+              "extra": {
+                "starsToday": 190
+              }
+            }
+          }
+        },
+        {
+          "title": "lyogavin/airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "summary": "AirLLM permet d'exécuter des grands modèles de langage (LLM) de 2,8 billions de paramètres sur des unités de traitement graphique (GPU) ne disposant que de 4 Go de mémoire. Ce logiciel est un outil d'inférence (inference) qui permet d'exécuter des modèles nécessitant des ressources matérielles élevées sur des systèmes aux ressources limitées.",
+          "meta": "Jupyter Notebook · ★ 38 574 · +1 001 aujourd'hui",
+          "snapshot": {
+            "sourceId": "lyogavin/airllm",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 38574,
+              "engagementCount": 1001,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1001
+              }
+            }
+          }
+        },
+        {
+          "title": "storytold/artcraft",
+          "url": "https://github.com/storytold/artcraft",
+          "summary": "Développé en Rust, ArtCraft est un moteur de création (crafting engine) conçu pour les artistes, les designers et les cinéastes. Il permet aux utilisateurs de gérer un processus de production conscient dans leurs projets créatifs.",
+          "meta": "Rust · ★ 26 805 · +4 081 aujourd'hui",
+          "snapshot": {
+            "sourceId": "storytold/artcraft",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 26805,
+              "engagementCount": 4081,
+              "rank": 8,
+              "extra": {
+                "starsToday": 4081
+              }
+            }
+          }
+        },
+        {
+          "title": "xtool-org/xtool",
+          "url": "https://github.com/xtool-org/xtool",
+          "summary": "xtool est un outil multiplateforme (cross-platform) développé comme alternative au logiciel Xcode pour le développement et la distribution d'applications iOS. Il permet de créer des applications sur Linux, Windows et macOS via le gestionnaire de paquets Swift (SwiftPM).",
+          "meta": "Swift · ★ 9 953 · +1 198 aujourd'hui",
+          "snapshot": {
+            "sourceId": "xtool-org/xtool",
+            "capturedAt": "2026-10-14T09:47:08.111Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 9953,
+              "engagementCount": 1198,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1198
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 4 Argon",
+          "url": "https://deepmind.google/models/gemini/",
+          "summary": "Gemini 4 Argon, développé par Google, est un modèle d'intelligence artificielle optimisé pour le contrôle et la gestion des systèmes robotiques. Il offre des capacités spécifiques pour les applications robotiques (robotics) qui accomplissent des tâches dans le monde physique.",
+          "meta": "1 292 votes · 898 commentaires",
+          "snapshot": {
+            "sourceId": "50073879",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 1292,
+              "engagementCount": 898,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50073879",
+                  "popularity": 1292,
+                  "engagementCount": 898
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-13T16:03:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50073879"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50073879",
+              "popularity": 1292,
+              "engagementCount": 898
+            }
+          ]
+        },
+        {
+          "title": "Redesigning source control at Anthropic",
+          "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "summary": "Anthropic a annoncé qu'elle repensait son système de contrôle de source (source control) dans ses processus d'ingénierie. L'entreprise indique qu'elle a mis à jour son infrastructure actuelle afin d'améliorer l'évolutivité et l'expérience des développeurs.",
+          "meta": "766 votes · 762 commentaires",
+          "snapshot": {
+            "sourceId": "50073633",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 766,
+              "engagementCount": 762,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50073633",
+                  "popularity": 766,
+                  "engagementCount": 762
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-13T15:49:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50073633"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50073633",
+              "popularity": 766,
+              "engagementCount": 762
+            }
+          ]
+        },
+        {
+          "title": "Apple HomeView",
+          "url": "https://www.apple.com/apple-homeview/",
+          "summary": "Apple HomeView est une interface proposée par Apple qui permet de gérer les appareils domestiques intelligents à partir d'un point central. Elle permet aux utilisateurs de suivre et de contrôler les appareils compatibles dans leur maison via un écran unique.",
+          "meta": "726 votes · 850 commentaires",
+          "snapshot": {
+            "sourceId": "50071017",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 726,
+              "engagementCount": 850,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50071017",
+                  "popularity": 726,
+                  "engagementCount": 850
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-13T13:02:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50071017"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50071017",
+              "popularity": 726,
+              "engagementCount": 850
+            }
+          ]
+        },
+        {
+          "title": "11 year old unsoundness bugs found in Rust borrow checker",
+          "url": "https://github.com/rust-lang/rust/issues/164250",
+          "summary": "Des erreurs présentes depuis 11 ans ont été détectées dans le vérificateur d'emprunt (borrow checker) du langage de programmation Rust, qui assure la sécurité mémoire. Cela montre que le code que le compilateur considère comme sûr peut en réalité entraîner des erreurs de mémoire.",
+          "meta": "720 votes · 402 commentaires",
+          "snapshot": {
+            "sourceId": "50069499",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 720,
+              "engagementCount": 402,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50069499",
+                  "popularity": 720,
+                  "engagementCount": 402
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-13T10:27:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50069499"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50069499",
+              "popularity": 720,
+              "engagementCount": 402
+            }
+          ]
+        },
+        {
+          "title": "Firefox Enterprise",
+          "url": "https://www.firefox.com/en-US/enterprise/",
+          "summary": "Firefox Enterprise est un outil de configuration d'entreprise qui facilite la gestion des navigateurs pour les organisations. Il permet aux entreprises de gérer centralement les paramètres du navigateur et d'appliquer des politiques de sécurité (policies).",
+          "meta": "709 votes · 301 commentaires",
+          "snapshot": {
+            "sourceId": "50070302",
+            "capturedAt": "2026-10-14T09:32:05.296Z",
+            "metadata": {
+              "popularity": 709,
+              "engagementCount": 301,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50070302",
+                  "popularity": 709,
+                  "engagementCount": 301
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-13T12:00:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50070302"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50070302",
+              "popularity": 709,
+              "engagementCount": 301
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Développé par Google, embeddinggemma-2 est un modèle d'extraction de caractéristiques (feature extraction) qui transforme des textes en vecteurs numériques. Disponible sur HuggingFace, ce modèle est utilisé pour donner du sens aux données textuelles dans les tâches de traitement du langage naturel.",
+          "meta": "♥ 2 155 · 124 930 téléchargements",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 2155,
+              "engagementCount": 124930,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1286,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "Partagé sur HuggingFace, jialinyyzz/humanizer est un modèle d'intelligence artificielle qui effectue de la génération de texte (text-generation). Ce modèle, privilégié par les utilisateurs dans leurs processus de création de texte, possède un score de popularité de 1568.",
+          "meta": "♥ 1 568 · 54 039 téléchargements",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 1568,
+              "engagementCount": 54039,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1071,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "summary": "Qwen/Qwen-Image-2.1-Turbo est un modèle d'intelligence artificielle qui effectue la conversion de texte en image (text-to-image). Partagé sur la plateforme HuggingFace, ce modèle offre la capacité de transformer des commandes textuelles en contenu visuel.",
+          "meta": "♥ 733 · 9 665 téléchargements",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1-Turbo",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 9665,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 687,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:finetune:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "summary": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized est un modèle d'intelligence artificielle capable de générer des images à partir de texte (text-to-image). Partagé sur la plateforme HuggingFace, ce modèle est proposé en tant que version quantifiée (quantized) et sans restrictions de contenu.",
+          "meta": "♥ 4 239 · 2 247 929 téléchargements",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 4239,
+              "engagementCount": 2247929,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 536,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "mlx",
+                  "fp8",
+                  "nvfp4",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "Développé par OpenBMB, MiniCPM-V-4.7-35B-A3B est un modèle d'intelligence artificielle qui traite des données visuelles et textuelles pour produire une sortie textuelle (modèle image-text-to-text). Le modèle est utilisé dans le processus d'interprétation de contenus visuels complexes grâce à ses capacités de traitement de données multimodales.",
+          "meta": "♥ 523 · 630 téléchargements",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-14T09:32:05.174Z",
+            "metadata": {
+              "popularity": 523,
+              "engagementCount": 630,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 459,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GreenWAM: A World Foundation Model for Robotics",
+          "url": "https://huggingface.co/papers/2610.18774",
+          "summary": "GreenWAM est un modèle de fondation (foundation model) pour les systèmes robotiques qui fonctionne à la fois comme un modèle du monde (world model) prédisant comment les actions modifieront l'environnement et comme une politique (policy) sélectionnant ces actions. Il vise à offrir une méthode de travail standard dans le monde de la robotique en utilisant un espace d'action anatomique commun entre différents corps robotiques.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.18774",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18774",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/greenvla/GreenWAM"
+              }
+            }
+          }
+        },
+        {
+          "title": "FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching",
+          "url": "https://huggingface.co/papers/2610.17552",
+          "summary": "FlashVSR+ rend les opérations de super-résolution vidéo (video super-resolution) plus efficaces en utilisant des méthodes d'attention hybride (hybrid attention) et de correspondance de distribution de rendement de récompense (reward-yield distribution matching). Le modèle vise à résoudre les problèmes de coût élevé et d'alignement avec les préférences humaines dans les processus de distillation par diffusion (diffusion distillation) grâce à des améliorations de l'architecture et de la stratégie d'entraînement.",
+          "meta": "9 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.17552",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17552",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/OpenImagingLab/FlashVSR_Plus",
+                "githubStars": 11
+              }
+            }
+          }
+        },
+        {
+          "title": "LifeSearch: Benchmarking Deep Research Agents for Real-World Life and Productivity",
+          "url": "https://huggingface.co/papers/2610.18092",
+          "summary": "LifeSearch est un outil d'évaluation (benchmark) développé pour mesurer la performance des agents de recherche approfondie (deep research agents) dans des scénarios de vie réelle et de productivité professionnelle. À travers 203 tâches différentes dérivées de requêtes réelles d'utilisateurs, il vise à évaluer les capacités de raisonnement multi-étapes et de recherche sur Internet de ces agents.",
+          "meta": "5 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.18092",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18092",
+                "publishedAt": "2026-10-13T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SHELDON: Reasoning through Dual Search over Hypothesis and Observation Spaces",
+          "url": "https://huggingface.co/papers/2610.18025",
+          "summary": "SHELDON propose une méthode qui génère des solutions en effectuant une recherche binaire sur les espaces d'hypothèses et d'observations dans les processus de raisonnement des grands modèles de langage (large language models). Cette approche vise à créer un espace de découverte plus large en libérant la découverte d'observations de sa dépendance aux hypothèses existantes.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.18025",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.18025",
+                "publishedAt": "2026-10-13T00:00:00.000Z",
+                "githubRepo": "https://github.com/stanford-oval/sheldon",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "EviScene: Beyond \"Is It AI?\" for Agentic Image Factuality Assessment",
+          "url": "https://huggingface.co/papers/2610.14609",
+          "summary": "EviScene est un système qui évalue non seulement si une image est générée par intelligence artificielle, mais aussi la véracité factuelle de la situation qu'elle contient. En examinant la situation dans l'image conformément aux instructions fournies, il propose des explications fondées sur des preuves et automatise le processus d'évaluation de la véracité factuelle des images (image factuality assessment).",
+          "meta": "35 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2610.14609",
+            "capturedAt": "2026-10-14T09:32:05.178Z",
+            "metadata": {
+              "popularity": 35,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.14609",
+                "publishedAt": "2026-10-10T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Fichiers de programmes prêts à l'emploi pouvant être exécutés directement par le processeur de l'ordinateur, sans nécessiter de conversion spéciale."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Processus d'analyse inverse du code ou de la structure d'un logiciel pour comprendre son fonctionnement."
+    },
+    {
+      "term": "spatial intelligence",
+      "explanation": "Capacité à produire des informations significatives en analysant les emplacements des objets et des données sur Terre, ainsi que leurs relations entre eux."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Méthode permettant à l'intelligence artificielle d'obtenir des résultats plus rapides et plus précis en utilisant efficacement la quantité d'informations qu'elle peut traiter simultanément."
+    },
+    {
+      "term": "Model Context Protocol - MCP",
+      "explanation": "Protocole de connexion permettant aux modèles d'intelligence artificielle de communiquer de manière standardisée avec différentes sources de données et outils."
+    },
+    {
+      "term": "agent skills tool",
+      "explanation": "Outil développé par Vercel Labs, utilisé pour doter les agents d'intelligence artificielle de nouvelles fonctions et capacités."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Unité de traitement spécialisée capable d'effectuer rapidement des opérations mathématiques intensives, telles que le traitement d'images et les calculs d'intelligence artificielle."
+    },
+    {
+      "term": "inference",
+      "explanation": "Processus par lequel un modèle d'intelligence artificielle entraîné effectue des prédictions ou des analyses sur de nouvelles données."
+    },
+    {
+      "term": "crafting engine",
+      "explanation": "Infrastructure logicielle qui facilite la production de contenu numérique pour les artistes et les designers, et gère les processus de création de contenu."
+    },
+    {
+      "term": "cross-platform",
+      "explanation": "Type de logiciel capable de fonctionner sans problème sur différents systèmes d'exploitation ou appareils."
+    },
+    {
+      "term": "SwiftPM",
+      "explanation": "Outil permettant de gérer de manière organisée les bibliothèques et les fichiers des projets écrits en langage Swift."
+    },
+    {
+      "term": "robotics",
+      "explanation": "Domaine technologique traitant de la conception, de la production et de l'exécution de tâches dans le monde physique par des robots."
+    },
+    {
+      "term": "source control",
+      "explanation": "Système qui enregistre, suit et organise les modifications apportées au code lors du processus de développement logiciel."
+    },
+    {
+      "term": "borrow checker",
+      "explanation": "Contrôleur de sécurité en langage Rust qui empêche le plantage du programme en évitant une utilisation incorrecte de la mémoire."
+    },
+    {
+      "term": "policies",
+      "explanation": "Ensemble de règles appliquées sur un système qui définit les normes de sécurité et d'utilisation des institutions."
+    }
+  ]
+}
