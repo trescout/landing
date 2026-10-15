@@ -206,12 +206,15 @@ def bolumler(b):
     """Bölümleri LİSTE olarak döndürür · analoji Türkçedeki gibi ilk bölümün
     hemen ardına girsin diye (tek metin olsaydı sona eklenirdi)."""
     out = []
-    for m in re.finditer(r'<section class="disc-sec"><h2>(.*?)</h2>(.*?)</section>', b, re.S):
+    # \s*: derin sözlük sayfalarında bölüm satır sonlu yazılmış ("<section ...>\n<h2>").
+    # Tek satırlık desen onları göremiyordu, çeviri 7 bölümden 1'e düşüyor ve koruma
+    # sayfayı donduruyordu (2026-10-15: 39 terim × 5 dil, Türkçenin eski sade sürümü kaldı)
+    for m in re.finditer(r'<section class="disc-sec">\s*<h2>(.*?)</h2>(.*?)</section>', b, re.S):
         h2, govde = metin(m.group(1)), m.group(2)
         yeni = BASLIK.get(h2) or tr2en(h2)
         if 'class="dict-faq"' in govde:
             items = ""
-            for q, a in re.findall(r'<p class="dict-faq-q">(.*?)</p><p class="dict-faq-a">(.*?)</p>', govde, re.S):
+            for q, a in re.findall(r'<p class="dict-faq-q">(.*?)</p>\s*<p class="dict-faq-a">(.*?)</p>', govde, re.S):
                 items += (f'<div class="dict-faq-item"><p class="dict-faq-q">{esc(tr2en(metin(q)))}</p>'
                           f'<p class="dict-faq-a">{esc(tr2en(metin(a)))}</p></div>')
             if items:
@@ -232,10 +235,21 @@ def bolumler(b):
             # kod) çeviri Türkçenin yarısında kalıyordu (benchmark: 310 → 172
             # kelime). Paragraf ve liste maddeleri çevrilir, kod olduğu gibi kalır.
             parcalar = []
-            for m2 in re.finditer(r"<(p|pre|ul|ol)\b[^>]*>(.*?)</\1>", govde, re.S):
+            # h3 ve tablo da · derin sayfalarda alt başlık ve karşılaştırma tablosu var
+            for m2 in re.finditer(r"<(p|pre|ul|ol|h3|table)\b[^>]*>(.*?)</\1>", govde, re.S):
                 etiket, ic = m2.group(1), m2.group(2)
                 if etiket == "pre":
                     parcalar.append(m2.group(0))
+                elif etiket == "h3":
+                    if metin(ic):
+                        parcalar.append(f"<h3>{esc(tr2en(metin(ic)))}</h3>")
+                elif etiket == "table":
+                    def hucre(c):
+                        x = metin(c.group(3))
+                        return f"<{c.group(1)}{c.group(2)}>{esc(tr2en(x)) if x else ''}</{c.group(1)}>"
+                    parcalar.append(m2.group(0)[:m2.start(2) - m2.start(0)]
+                                    + re.sub(r"<(td|th)(\b[^>]*)>(.*?)</\1>", hucre, ic, flags=re.S)
+                                    + "</table>")
                 elif etiket == "p":
                     p_html = _paragraf_cevir(ic)
                     if p_html:
