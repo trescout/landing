@@ -1,6 +1,6 @@
 # Was ist State Kernel?
 
-*Glossar · Dev · Zuletzt aktualisiert: 6. August 2026*
+*Dev · Zuletzt aktualisiert: 6. August 2026*
 
 Es handelt sich um die grundlegende Kernstruktur, die alle aktuellen Arbeitsinformationen und Daten einer Software im Speicher hält.
 

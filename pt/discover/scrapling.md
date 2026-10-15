@@ -30,7 +30,7 @@ pip install scrapling
 
 ## Instalação (comando único)
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a instalar a biblioteca de web scraping de código aberto chamada Scrapling; Instale-o com 'pip install "scrapling[fetchers]"' e execute o comando 'scrapling install', então vamos extrair o conteúdo de uma página da web para um arquivo Markdown com o comando 'scrapling extract get https://example.com content.md'.
 

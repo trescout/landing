@@ -1,6 +1,6 @@
 # Web-based Solutions nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 15 Temmuz 2026*
+*Geliştirme · Son güncelleme: 15 Temmuz 2026*
 
 Bilgisayarınıza herhangi bir kurulum yapmadan, sadece internet tarayıcısı üzerinden erişip kullanabildiğiniz yazılım hizmetleridir.
 
@@ -38,8 +38,8 @@ Verileriniz sunucuda olduğu için, hizmeti sağlayan firmanın güvenlik önlem
 - [SaaS](https://trescout.com/dictionary/saas/)
 - [Web Interface](https://trescout.com/dictionary/web-interface/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/web-based-solutions/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

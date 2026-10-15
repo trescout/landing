@@ -40,7 +40,7 @@ Published by JetBrains, go-modern-guidelines helps artificial intelligence codin
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 From now on, use modern Go standards when writing code. Consider the version of Go in the project's go.mod file, opting for the latest language features and standard library additions from version 1.0 to 1.27. Use functions like `max(a, b)` instead of `if-else` blocks, modern methods like `slices.Contains` instead of manual loops, and up-to-date patterns like `cmp.Or` instead of nil checks.
 

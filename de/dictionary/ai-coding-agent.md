@@ -1,6 +1,6 @@
 # Was ist AI Coding Agent?
 
-*Glossar · Dev · Zuletzt aktualisiert: 3. Juni 2026*
+*Dev · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um einen auf künstlicher Intelligenz basierenden Assistenten, der während des Softwareentwicklungsprozesses Code schreibt, debuggt und zur Projektarchitektur beiträgt.
 

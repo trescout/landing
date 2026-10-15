@@ -32,7 +32,7 @@ Der automatische Upload kann den Nutzungsbedingungen der Plattformen (Spam-/Auto
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das Social-Auto-Upload-Repository (github.com/dreammis/social-auto-upload) und melden Sie sich mit dem Befehlszeilentool „sau“ zunächst mit „sau douyin login“ bei meinem Konto an und laden Sie dann mit dem Befehl „sau douyin upload-video“ automatisch ein Video mit Titel und Beschreibung hoch.
 

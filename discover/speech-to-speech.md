@@ -53,7 +53,7 @@ python scripts/listen_and_play_realtime.py --host 127.0.0.1 --port 8765
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu aracı kullanarak kendi yerel sesli ajanımı kurmak istiyorum. VAD, STT, LLM ve TTS bileşenlerini kullanarak düşük gecikmeli bir ses hattı oluşturmak için izlemem gereken temel adımlar nelerdir? Hangi komutla sunucuyu ayağa kaldırabilirim ve OpenAI Realtime uyumlu bir istemci ile nasıl bağlantı kurabilirim?
 
@@ -76,4 +76,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/speech-to-speech/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

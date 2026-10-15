@@ -39,7 +39,7 @@ Der Einstieg in die spdlog-Bibliothek ist äußerst mühelos. Sobald Sie die Hea
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die spdlog-Bibliothek mit asynchroner Architektur mithilfe von CMake in einem modernen C++-Projekt konfigurieren. Können Sie die Datei CMakeLists.txt mit einer Beispiel-C++-Initialisierungsfunktion vorbereiten, die die Datei rotiert, wenn das Protokoll eine Größe von 10 MB erreicht, außerdem eine Farbausgabe an die Konsole liefert und sie bei Fehlerstufe sofort auf die Festplatte schreibt?
 

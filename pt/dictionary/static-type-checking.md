@@ -1,6 +1,6 @@
 # O que é Static Type Checking?
 
-*Glossário · Dev · Última atualização: 22 de agosto de 2026*
+*Dev · Última atualização: 22 de agosto de 2026*
 
 É um mecanismo de segurança que encontra automaticamente erros de dados antes mesmo de o código ser executado.
 

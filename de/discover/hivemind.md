@@ -37,7 +37,7 @@ hivemind status
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Hivemind-Tool eine gemeinsame Speicherschicht zwischen meinen KI-Agenten erstellen. Erklären Sie nach Abschluss der Installation mit dem Befehl npm install -g @deeplake/hivemind && hivemind install Schritt für Schritt, wie meine Agenten historische Sitzungsdaten effizienter teilen und diese Daten automatisch in Skill-Dateien umwandeln können.
 

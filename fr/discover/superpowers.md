@@ -35,7 +35,7 @@ Donnez des super pouvoirs à votre agent avec TreScout ; Des étapes de démarr
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez le plugin Superpowers en exécutant la commande '/plugin install superpowers@claude-plugins-official' dans Claude Code ; Désormais, lorsque je souhaite améliorer quelque chose, les compétences entrent automatiquement en jeu.
 

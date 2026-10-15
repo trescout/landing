@@ -1,6 +1,6 @@
 # Qu'est-ce que Digital Privacy ?
 
-*Glossaire · Data · Dernière mise à jour : 19 septembre 2026*
+*Data · Dernière mise à jour : 19 septembre 2026*
 
 La confidentialité numérique (digital privacy) est le droit des individus de contrôler et de limiter qui peut collecter, stocker et traiter les données personnelles qu'ils génèrent sur Internet, sur des appareils intelligents et via des services numériques.
 

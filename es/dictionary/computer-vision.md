@@ -1,6 +1,6 @@
 # ¿Qué es Computer Vision?
 
-*Glosario · AI · Última actualización: 9 de junio de 2026*
+*AI · Última actualización: 9 de junio de 2026*
 
 Es una tecnología que permite a las computadoras analizar datos visuales (fotos, videos) y dar sentido a los objetos, personas o eventos que contienen.
 

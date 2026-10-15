@@ -29,7 +29,7 @@ bash <(curl -fsSL https://moonrepo.dev/install/proto.sh)
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 En vous basant sur l'architecture du projet OpenCut en cours de réécriture, notamment sa structure de base basée sur Rust, son système de plug-ins et les fonctionnalités du serveur MCP proposées aux agents d'intelligence artificielle, expliquez en détail comment cet outil peut automatiser les flux de montage vidéo et l'impact du futur support des plug-ins sur les processus créatifs.
 

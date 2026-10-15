@@ -44,7 +44,7 @@ python demo/vibevoice_asr_inference_from_file.py --model_path microsoft/VibeVoic
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero analizar la grabación de audio de 60 minutos que tengo usando el modelo VibeVoice. Necesito recuperar quiénes son los oradores, cuándo hablaron y el contenido que dijeron como un archivo de texto estructurado. También quiero agregar palabras clave personalizadas para que el modelo reconozca los términos técnicos con mayor precisión. ¿Cómo puedo estructurar este proceso?
 

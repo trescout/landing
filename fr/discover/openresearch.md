@@ -37,7 +37,7 @@ orx up
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite lancer un projet de recherche sur OpenResearch. En utilisant un agent IA comme Claude Code ou OpenCode, je veux que tu effectues une revue de littérature, que tu développes des hypothèses et que tu conçoives des expériences pour tester ces hypothèses. Tout au long du travail, gère le processus de manière autonome en enregistrant toutes les découvertes, les résultats d'expériences et les modifications de code dans l'espace de travail local d'OpenResearch.
 

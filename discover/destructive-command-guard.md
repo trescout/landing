@@ -29,7 +29,7 @@ curl -fsSL "https://raw.githubusercontent.com/Dicklesworthstone/destructive_comm
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yapay zekâ ajanımın sistemimde çalıştırdığı komutları denetlemek için Destructive Command Guard kullanıyorum. Lütfen tehlikeli git, dosya sistemi veya veritabanı silme komutlarını çalıştırmadan önce güvenlik kurallarını göz önünde bulundur, riskli bir işlem yapman gerekiyorsa önce beni bilgilendir ve onayımı al.
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/destructive-command-guard/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

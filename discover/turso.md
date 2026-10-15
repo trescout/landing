@@ -44,7 +44,7 @@ tursodb
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Turso veritabanı ile SQLite uyumlu bir süreç içi veritabanı yönetmek istiyorum. Mevcut kurulumum üzerinden veritabanı tabloları oluşturma, veri ekleme ve sorgulama süreçlerinde bana rehberlik et. Özellikle SQLite sözdizimi ile nasıl etkileşime gireceğim ve verileri nasıl yöneteceğim konusunda örnekler sun.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/turso/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

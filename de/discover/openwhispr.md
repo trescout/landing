@@ -32,7 +32,7 @@ npm run dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich verwende OpenWhispr, um meine Sprachnotizen und Meeting-Aufzeichnungen zu transkribieren. Ich möchte eine datenschutzorientierte Arbeitsumgebung schaffen; wie kann ich die Transkription am effizientesten durchführen, ohne meine Audiodaten durch die Nutzung lokaler Modelle vom Gerät zu übertragen, und wie kann ich die KI-Assistentenfunktionen in meinen Arbeitsablauf integrieren?
 

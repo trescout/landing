@@ -33,7 +33,7 @@ npm install @zvec/zvec
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I need to create a collection using the Zvec library. Can you create sample code in Python that allows me to define a schema, add appropriate vector data to that schema, and then search with a specific vector query? Please use a structure that specifies the file path for the data to be persistent.
 

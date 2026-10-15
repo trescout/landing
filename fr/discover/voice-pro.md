@@ -27,7 +27,7 @@ git clone https://github.com/abus-aikorea/voice-pro.git
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je traduire et doubler rapidement une vidéo YouTube dans une autre langue à l'aide de l'outil Voice-Pro ? Expliquez étape par étape ce que je dois faire et ce à quoi je dois faire attention lorsque j'utilise la fonction de transcription vocale.
 

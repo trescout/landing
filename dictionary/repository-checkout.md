@@ -1,6 +1,6 @@
 # Repository Checkout nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
+*Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Repository checkout, deponun belirli bir sürümünü çalışma alanınıza indirme işlemidir.
 
@@ -69,8 +69,8 @@ Dal geçmenin modern komutudur. Checkout çok iş yaptığı için Git ikiye bö
 
 - [Checkout](https://trescout.com/discover/checkout/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/repository-checkout/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

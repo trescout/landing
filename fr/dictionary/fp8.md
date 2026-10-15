@@ -1,6 +1,6 @@
 # Qu'est-ce que FP8 ?
 
-*Glossaire · AI · Dernière mise à jour : 15 août 2026*
+*AI · Dernière mise à jour : 15 août 2026*
 
 > 8-bit Floating Point
 

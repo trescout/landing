@@ -1,6 +1,6 @@
 # Was ist Reasoning Capabilities?
 
-*Glossar · AI · Zuletzt aktualisiert: 27. September 2026*
+*AI · Zuletzt aktualisiert: 27. September 2026*
 
 Die Fähigkeit einer künstlichen Intelligenz, komplexe Probleme durch schrittweises Denken und Denken zu lösen.
 

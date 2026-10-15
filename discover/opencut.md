@@ -29,7 +29,7 @@ bash <(curl -fsSL https://moonrepo.dev/install/proto.sh)
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenCut projesinin yeniden yazılma sürecindeki mimarisini, özellikle Rust tabanlı çekirdek yapısını, eklenti sistemini ve yapay zekâ ajanları için sunulan MCP sunucusu özelliklerini temel alarak bu aracın video düzenleme iş akışlarını nasıl otomatize edebileceğini ve gelecekteki eklenti desteğinin yaratıcı süreçlere etkisini detaylıca açıkla.
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/opencut/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

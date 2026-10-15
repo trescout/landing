@@ -44,7 +44,7 @@ Sie können es über den Plugin-Markt von Claude Cowork installieren. Die Liste 
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das meiner Rolle entsprechende Plugin, indem Sie die Befehle „claude Plugin Marketplace Add Anthropics/Knowledge-Work-Plugins“ und dann „Claude Plugin Install Sales@Knowledge-Work-Plugins“ in Claude Code ausführen (ich kann die gewünschte Rolle schreiben, z. B. Finanzen oder Marketing, anstelle von Vertrieb).
 

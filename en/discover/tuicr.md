@@ -58,7 +58,7 @@ tuicr pr 125
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Review this code review and prepare a structured list of any bugs or improvement suggestions you find, with each comment identified by file path and line number. While doing the review, provide concrete suggestions that will increase the readability and performance of the code, based on the data in markdown format that I copied from tuicr.
 

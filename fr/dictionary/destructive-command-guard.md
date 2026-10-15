@@ -1,6 +1,6 @@
 # Qu'est-ce que Destructive Command Guard ?
 
-*Glossaire · Dev · Dernière mise à jour : 13 juillet 2026*
+*Dev · Dernière mise à jour : 13 juillet 2026*
 
 Il s'agit d'un bouclier de sécurité qui vous arrête avant d'exécuter des commandes risquant de supprimer des données ou de corrompre le système.
 

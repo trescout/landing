@@ -31,7 +31,7 @@ make setup
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to start a video production using the OpenMontage system. I want you to manage the entire process from research to editing by determining the subject, target time and visual style. Please first create a production plan, make a cost estimate, and proceed to asset production with my approval.
 

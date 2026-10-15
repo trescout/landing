@@ -61,7 +61,7 @@ Die Installation erfolgt üblicherweise mit Docker auf dem eigenen Server; Insta
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein Open-Source-CRM namens Twenty installieren. Erstellen Sie im Terminal eine neue App mit dem Befehl „npx create-twenty-app my-app“ und veröffentlichen Sie sie dann mit „npx twenty app:publish --private“ in meinem Arbeitsbereich. Sagen Sie mir auch, wie man es mit Docker Compose zum Selbsthosten ausführt.
 

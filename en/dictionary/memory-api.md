@@ -1,6 +1,6 @@
 # What is Memory API?
 
-*Dictionary · Dev · Last updated: June 3, 2026*
+*Dev · Last updated: June 3, 2026*
 
 Port that allows software to add data to artificial intelligence memory or query existing information.
 

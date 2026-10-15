@@ -1,6 +1,6 @@
 # Was ist Benchmark?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 Benchmark (zu Deutsch Vergleichsmaßstab) ist das Messen und Vergleichen der Leistung anhand eines Standardtests.
 

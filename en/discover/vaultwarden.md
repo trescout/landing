@@ -34,7 +34,7 @@ docker run --detach --name vaultwarden \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me install Vaultwarden, a tool that provides password management on my own server. This tool is server software compatible with Bitwarden clients. Since I will be installing using Docker, explain step by step how to configure the image commands to pull and run, mounting a volume to persist my data, and taking into account HTTPS requirements.
 

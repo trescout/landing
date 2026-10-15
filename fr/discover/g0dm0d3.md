@@ -34,7 +34,7 @@ python3 -m http.server 8000
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 À l'aide de l'interface G0DM0D3, activez le moteur ULTRAPLINIAN, qui pilote plusieurs modèles via les fournisseurs de modèles que je spécifie (OpenRouter, Venice ou serveur local). Appliquez les techniques de mélange d'entrées en Fourchelang pour mes enquêtes d'équipe rouge et configurez automatiquement les paramètres d'échantillonnage les mieux adaptés au contexte de la requête avec la fonctionnalité AutoTune.
 

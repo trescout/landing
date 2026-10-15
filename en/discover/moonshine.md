@@ -45,7 +45,7 @@ moonshine-voice mic --language en
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a voice interface using the Moonshine library. Help me create the basic Python code structure needed to convert the sound coming from my microphone into text in real time and perform intent recognition operations on this text. Also, explain the configuration settings I should pay attention to for the system to run with low latency.
 

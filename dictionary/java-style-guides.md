@@ -1,6 +1,6 @@
 # Java Style Guides nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 1 Eylül 2026*
+*Geliştirme · Son güncelleme: 1 Eylül 2026*
 
 Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan standartlar ve kurallar bütünü.
 
@@ -38,8 +38,8 @@ Genellikle projenin veya çalıştığınız kurumun belirlediği standart rehbe
 - [Code Review](https://trescout.com/dictionary/code-review/)
 - [Specification](https://trescout.com/dictionary/specification/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/java-style-guides/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

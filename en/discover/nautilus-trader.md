@@ -35,7 +35,7 @@ pip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/si
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I need to design a deterministic trading strategy running on the Rust core with multi-exchange support using the NautilusTrader trading engine. How can I construct strategy logic using the Python control plane and what modular structures should I use to ensure code consistency when moving from the research environment to the live environment?
 

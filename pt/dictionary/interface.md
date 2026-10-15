@@ -1,6 +1,6 @@
 # O que é Interface?
 
-*Glossário · Dev · Última atualização: 12 de outubro de 2026*
+*Dev · Última atualização: 12 de outubro de 2026*
 
 É o limite de comunicação comum que permite a um usuário gerenciar um sistema ou a dois componentes de software conversarem entre si.
 

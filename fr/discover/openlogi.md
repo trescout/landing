@@ -36,7 +36,7 @@ brew install --cask aprilnea/tap/openlogi@latest
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux un contrôle total sur ma souris, mon clavier et ma webcam Logitech. Comment configurer mes raccourcis clavier, mes paramètres de sensibilité DPI et les contrôles d'image de la caméra à l'aide d'OpenLogi ? Expliquez étape par étape comment personnaliser mes appareils et créer des profils basés sur des applications, notamment avec le fichier de configuration au format TOML.
 

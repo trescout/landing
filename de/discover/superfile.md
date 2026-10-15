@@ -35,7 +35,7 @@ spf
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meine Dateivorgänge im Terminal visueller und effizienter verwalten. Ich habe das Superfile-Tool installiert und möchte es verwenden. Können Sie mir grundlegende Dateiverwaltungsbefehle und Verknüpfungen erklären und mir zeigen, wie ich die Benutzeroberfläche effizienter nutzen kann?
 

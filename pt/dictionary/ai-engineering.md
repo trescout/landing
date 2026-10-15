@@ -1,6 +1,6 @@
 # O que é AI Engineering?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 A engenharia de IA (cuja tradução para o turco é yapay zekâ mühendisliği) é a disciplina de transformar modelos em sistemas confiáveis que funcionam em produção.
 

@@ -33,7 +33,7 @@ Puede instalarlo fácilmente en su propio sistema siguiendo la documentación (a
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale la aplicación de personajes virtuales de inteligencia artificial llamada AIRI en mi computadora: si estoy en macOS, ejecute el comando 'brew install --cask airi', si estoy en Windows, ejecute el comando 'winget install MoeruAI.AIRI' y abra la aplicación.
 

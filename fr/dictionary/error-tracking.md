@@ -1,6 +1,6 @@
 # Qu'est-ce que Error Tracking ?
 
-*Glossaire · Dev · Dernière mise à jour : 3 octobre 2026*
+*Dev · Dernière mise à jour : 3 octobre 2026*
 
 Processus de suivi qui capture, regroupe et notifie en temps réel aux développeurs les erreurs d'exécution survenant dans les applications.
 

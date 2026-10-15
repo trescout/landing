@@ -32,7 +32,7 @@ huggingface-cli download meituan-longcat/LongCat-Video-Avatar-1.5 --local-dir ./
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 LongCat-Video projesini sistemime kurmak istiyorum. Lütfen 'git clone --single-branch --branch main https://github.com/meituan-longcat/LongCat-Video' ve 'cd LongCat-Video' komutlarıyla kaynak kodları indirmem, ardından model kütüphanesi Hugging Face üzerinden gerekli dosyalara ulaşmak için 'pip install "huggingface_hub[cli]"' ile indirme komutlarını adım adım çalıştırmam konusunda bana rehberlik edin.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/longcat-video/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

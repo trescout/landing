@@ -1,6 +1,6 @@
 # What is Mixture of Experts?
 
-*Dictionary · AI · Last updated: September 2, 2026*
+*AI · Last updated: September 2, 2026*
 
 > MoE
 

@@ -53,7 +53,7 @@ bun run dev
 
 ## Se você não sabe programar: Prompt do agente de inteligência artificial
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Com base na arquitetura do Gitdiagram, crie o diagrama de sistema do repositório do GitHub que examinei. Detecte os principais componentes, direções de fluxo de dados, pontos de entrada (entry points) e dependências externas no repositório. Desenhe a arquitetura como um fluxograma no formato Mermaid.js e explique a função de cada componente em duas frases cada.
 

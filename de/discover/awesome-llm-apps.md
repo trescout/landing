@@ -21,7 +21,7 @@ Das awesome-llm-apps-Repository bietet mehr als 100 direkt ausführbare KI-Agent
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meine eigenen Projekte mit den Vorlagen für künstliche Intelligenz-Agenten in diesem Tool entwickeln. Können Sie mir anhand der über 100 verfügbaren Beispiele Schritt für Schritt erklären, welche grundlegenden Schritte ich befolgen muss, um eine Python-basierte RAG-Anwendung oder ein Multiagentensystem zu erstellen, und wie ich diese Vorlagen anpassen kann?
 

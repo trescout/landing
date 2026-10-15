@@ -25,7 +25,7 @@ pip install higgsfield==0.0.3
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Um große KI-Modelle zu trainieren und das Ressourcenmanagement zu übernehmen, kannst du die Bibliothek installieren, indem du den Befehl pip install higgsfield==0.0.3 im Terminal ausführst, und sie in deinem Projekt verwenden.
 

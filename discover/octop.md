@@ -37,7 +37,7 @@ octop init
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Octop platformunda çok kullanıcılı ve çok ajanlı bir çalışma ortamı kurmak istiyorum. Kişisel asistanım, aile üyelerim veya küçük ekip arkadaşlarım için farklı uzmanlıklara sahip ajanlar tanımlayarak, bu ajanların yerel verilerim üzerinde güvenli bir şekilde çalışmasını ve web arayüzü veya mesajlaşma kanalları üzerinden benimle iş birliği yapmasını sağla. Ajanların MBTI kişilik özelliklerini yapılandır, RAG (Retrieval-Augmented Generation - belgelerden anlamlı bilgi getiren teknoloji) ile özel belgelerimden yanıt üretmelerini sağla ve görevlerimi otomatize et.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/octop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

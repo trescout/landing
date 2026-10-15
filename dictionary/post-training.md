@@ -1,6 +1,6 @@
 # Post-training nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 5 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 5 Eylül 2026*
 
 Temel eğitimi bitmiş bir modelin, belirli görevlerde daha iyi performans göstermesi için yapılan iyileştirme sürecidir.
 
@@ -38,8 +38,8 @@ Modelin daha güvenli ve kullanıcı dostu yanıtlar vermesi için davranışlar
 
 - [Miles](https://trescout.com/discover/miles/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/post-training/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

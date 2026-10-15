@@ -45,7 +45,7 @@ npm run cli:dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Im Maka-Arbeitsbereich müssen Sie ein Projekt analysieren, die Dateien mit den erforderlichen Tools organisieren und alle Ihre Aktionen in einem nachvollziehbaren Protokoll festhalten. Kontrollieren Sie Berechtigungen im gesamten Workflow, bewahren Sie Modellmeldungen auf und verwalten Sie den Prozess im Fehlerfall auf wiederherstellbare Weise.
 

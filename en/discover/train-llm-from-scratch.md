@@ -20,7 +20,7 @@ train-llm-from-scratch offers a simple, step-by-step method of training a large 
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 This repository (FareedKhan-dev/train-llm-from-scratch) is a tutorial on training a transformer/LLM from scratch with PyTorch. Review the README and give me a step-by-step implementation plan in Turkish: explaining the required hardware (GPU), data download and pre-processing, model configuration, training and text generation stages, in order.
 

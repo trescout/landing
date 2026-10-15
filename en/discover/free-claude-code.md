@@ -43,7 +43,7 @@ fcc-codex
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Act as a coding agent for me. Using the provider I configured through Free Claude Code, carry out the software tasks I give you, analyze code fragments and make suggestions. When performing operations, base the model settings on the local management panel and produce efficient solutions by using Claude Code or Codex capabilities during the coding process.
 

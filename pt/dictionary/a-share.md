@@ -1,6 +1,6 @@
 # O que é A-share?
 
-*Glossário · Data · Última atualização: 27 de setembro de 2026*
+*Data · Última atualização: 27 de setembro de 2026*
 
 Um tipo de ação negociada nas bolsas de valores chinesas e reservada a investidores locais.
 

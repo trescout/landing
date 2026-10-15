@@ -1,6 +1,6 @@
 # AI Engineering nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
 AI engineering (Türkçe karşılığıyla **yapay zekâ mühendisliği**), modelleri yayında çalışan güvenilir sisteme dönüştürme disiplinidir.
 
@@ -73,8 +73,8 @@ Bir API ile küçük bir RAG uygulaması kurup eval seti yazmakla. Ölçmeyi ö�
 
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-engineering/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

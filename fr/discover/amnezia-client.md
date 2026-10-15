@@ -36,7 +36,7 @@ deploy/build.sh
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je configurer un réseau VPN sécurisé sur mon propre serveur en utilisant Amnezia VPN ? Veuillez expliquer étape par étape le processus d'installation, les informations SSH requises pour se connecter au serveur et comment configurer des protocoles tels que OpenVPN, WireGuard ou XRay.
 

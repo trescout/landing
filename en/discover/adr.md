@@ -29,7 +29,7 @@ export ANTHROPIC_API_KEY="..." OPENAI_API_KEY="..."
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I protect my enterprise AI agents against vulnerabilities? How can I monitor agent activities, detect threats, and evaluate the defense power of my system by making security comparisons using the ADR system? Please explain the steps I need to follow in this process and how to configure the observability features that ADR offers.
 

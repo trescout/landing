@@ -28,7 +28,7 @@ go build
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Caddy adlı genişletilebilir web sunucusunu kaynak kodundan derlemek ve test etmek istiyorum. Projeyi klonlayıp dizine geçtikten sonra derleme komutunu çalıştırabilir ve test komutlarıyla modülleri doğrulayabilirim.
 
@@ -47,4 +47,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/caddy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

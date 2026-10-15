@@ -78,7 +78,7 @@ O sistema não é uma fonte de verdade única. Use backup e controle de versão 
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Inicie um fluxo wiki local no Obsidian associando fontes aos livros de fontes e alegações.
 

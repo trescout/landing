@@ -1,6 +1,6 @@
 # Text Classification nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 28 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 28 Eylül 2026*
 
 Yazılı bir metnin konusunu veya içeriğini analiz ederek önceden belirlenmiş kategorilere ayırma işlemidir.
 
@@ -39,8 +39,8 @@ Evet: Metinleri olumlu, olumsuz veya nötr olarak kategorize ettiği için özel
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Machine Learning](https://trescout.com/dictionary/machine-learning/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/text-classification/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

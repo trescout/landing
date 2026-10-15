@@ -23,7 +23,7 @@ ENCRYPTION_KEY=$(openssl rand -hex 32) docker run -d -p 3000:3000 \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir seyahat asistanısın. TREK üzerindeki MCP (Model Context Protocol) araçlarını kullanarak benim için 3 günlük bir Paris seyahat planı hazırla, bütçemi günlük harcama limitlerine göre ayarla ve yanıma almam gerekenler için bir paketleme listesi oluştur.
 
@@ -47,4 +47,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trek/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

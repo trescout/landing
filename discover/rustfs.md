@@ -41,7 +41,7 @@ docker compose -f docker-compose-simple.yml up -d
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 RustFS kullanarak yüksek performanslı bir nesne depolama ortamı kurmak istiyorum. Sistemin S3 uyumluluğundan faydalanarak verilerimi nasıl yönetebilirim ve dağıtık mimari üzerinde ölçeklendirme yaparken nelere dikkat etmeliyim? Apache 2.0 lisanslı bu sistemin kurulumu ve temel yapılandırma ayarları hakkında bana adım adım rehberlik et.
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/rustfs/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

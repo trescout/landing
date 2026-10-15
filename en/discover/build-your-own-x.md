@@ -25,7 +25,7 @@ You can choose the technology you are interested in on the GitHub page and follo
 
 ## How to use it with AI?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I'll give you a list of links to step-by-step guides called 'build-your-own-x' that will teach you how to build your own technology (database, operating system, programming language, web server, etc.) from scratch. Review this list and list which projects I should start with according to my current level and goal, and you will get a weekly work plan. My level: [eg. beginner]. My goal: [eg. making my own web server].
 

@@ -1,6 +1,6 @@
 # Harness nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
+*Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Harness (Türkçe karşılığıyla **test koşum takımı**), kodu otomatik test eden çerçevedir.
 
@@ -76,8 +76,8 @@ Ekipçe belirlenir. Kritik yolda yüksek, kenarda düşük tutulur.
 - [Munder Difflin](https://trescout.com/discover/munder-difflin/)
 - [Claude Code Harness](https://trescout.com/discover/claude-code-harness/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/harness/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

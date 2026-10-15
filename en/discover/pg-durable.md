@@ -40,7 +40,7 @@ SELECT df.start(
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a workflow using the pg_durable plugin on PostgreSQL. How should I configure the df.start() function to manage a fault-tolerant and persistent process within the database? How can I create a structure that processes data and can continue from where it left off in case of error, using the ~> and |=> operators that connect SQL steps? Please explain this process with examples using SQL commands.
 

@@ -37,7 +37,7 @@ npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-librar
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a visual prompt engineer. Using the structural protocols in the Awesome GPT Image 2 library, the image subject I specified; Break it down into atomic parts like lighting, materials, layout and visual details. Ensure that the request you produce gives consistent and controllable results by artificial intelligence models.
 

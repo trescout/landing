@@ -36,7 +36,7 @@ docker compose --file docker/docker-compose.yml up --detach
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Veritabanı tablolarımı analiz et, karmaşık SQL sorgularını doğal dilde açıkla ve mevcut sorgularımı performans için optimize et. Veritabanı şemamdaki ilişkileri anlamama yardımcı ol ve gerekli DDL/DML komutlarını oluştur.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chat2db/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -50,7 +50,7 @@ cd council-of-high-intelligence
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous faites partie d'un comité consultatif sur l'IA. Lorsque vous analysez la question sur laquelle je dois me prononcer, ne vous en tenez pas à un seul point de vue. Remettez en question les hypothèses qui sous-tendent le problème en considérant différents domaines d’expertise et des points de vue opposés. À la fin de la discussion, fournissez-moi une synthèse impartiale, indiquant les points d'accord et les risques non résolus.
 

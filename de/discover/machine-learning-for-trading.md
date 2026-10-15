@@ -29,7 +29,7 @@ conda activate ml4t
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich Modelle des maschinellen Lernens in Datenanalyse- und Strategieentwicklungsprozessen auf Finanzmärkten einsetzen? Erklären Sie anhand der Fallstudien in diesem Tool Schritt für Schritt den Arbeitsablauf einer Handelsstrategie von der Datenquelle bis zur Live-Verarbeitung und die Rolle von KI-Agenten in diesem Prozess.
 

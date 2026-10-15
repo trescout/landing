@@ -29,7 +29,7 @@ pip install lmcache
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso otimizar o gerenciamento de cache KV para modelos de linguagem grandes usando a biblioteca LMCache? Quais são as etapas básicas que devo seguir após a instalação para aumentar o desempenho e tornar o uso de memória eficiente, especialmente em consultas de contexto longo? Explique como posso integrar esta camada ao meu sistema de inferência existente, considerando o princípio de funcionamento independente do mecanismo declarado na documentação.
 

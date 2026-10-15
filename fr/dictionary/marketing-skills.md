@@ -1,6 +1,6 @@
 # Qu'est-ce que Marketing Skills ?
 
-*Glossaire · AI · Dernière mise à jour : 22 septembre 2026*
+*AI · Dernière mise à jour : 22 septembre 2026*
 
 Les compétences en marketing (marketing skills) sont les aptitudes à faire parvenir le produit au bon public.
 

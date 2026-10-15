@@ -1,6 +1,6 @@
 # O que é Cloning?
 
-*Glossário · Dev · Última atualização: 26 de junho de 2026*
+*Dev · Última atualização: 26 de junho de 2026*
 
 É o processo de duplicar um projeto de software ou dados inteiros, copiando-os para outro local.
 

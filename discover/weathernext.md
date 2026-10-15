@@ -26,7 +26,7 @@ pip install git+https://github.com/google-deepmind/weathernext.git@v0.3.0
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 WeatherNext modelini kullanarak belirli bir bölge için orta vadeli hava durumu tahmini yapmam gerekiyor. Model ağırlıklarını Google Cloud Bucket üzerinden nasıl yükleyebilirim ve hava durumu verilerini (sıcaklık, rüzgar hızı gibi) işleyerek tahmin döngüsünü nasıl başlatabilirim? Özellikle kasırga takibi için gerekli olan adımları açıklar mısın?
 
@@ -47,4 +47,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/weathernext/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

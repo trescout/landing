@@ -1,6 +1,6 @@
 # Qu'est-ce que Best Practices ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Les bonnes pratiques (best practices en anglais) sont des méthodes de travail éprouvées et approuvées par la communauté.
 

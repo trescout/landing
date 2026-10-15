@@ -31,7 +31,7 @@ pnpm install
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ao usar esta ferramenta que processa localmente as gravações das minhas reuniões, quero converter minhas transcrições de áudio em texto e extrair resumos desses textos de uma forma que proteja minha privacidade. Como posso criar notas de reunião mais eficientes com modelos locais e, ao mesmo tempo, garantir que meus dados não saiam do meu dispositivo?
 

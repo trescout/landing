@@ -1,6 +1,6 @@
 # Görsel İş Akışları ve AI Otomasyonu
 
-n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
+n8n, görsel canvas, özel kod, yapay zekâ ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 
 - ★ 207.332
 - GitHub Trending · 2026-08-23
@@ -36,7 +36,7 @@ n8n ile iş akışlarını görsel canvas üzerinde oluşturabilir, JavaScript, 
 
 ## Kimin için?
 
-İş akışlarında görsel tasarımı özel kod ve AI ajanlarıyla birleştirmek isteyen ekipler.
+İş akışlarında görsel tasarımı özel kod ve yapay zekâ ajanlarıyla birleştirmek isteyen ekipler.
 
 ## Ne beklememeli?
 
@@ -44,7 +44,7 @@ Yalnızca kapalı kaynak lisanslı ürünler arayan veya iş akışlarını kod 
 
 ## Öne çıkanlar
 
-- Görsel canvas, özel kod ve AI ajanlarını aynı iş akışında birleştirme
+- Görsel canvas, özel kod ve yapay zekâ ajanlarını aynı iş akışında birleştirme
 - JavaScript, Python ve npm paketleriyle genişletilebilir yapı
 - Self-host veya cloud dağıtım seçenekleri
 - İnsan onayı, gözlemlenebilirlik, rol tabanlı erişim ve audit trail özellikleri
@@ -64,7 +64,7 @@ n8n, Sustainable Use License altında source-available olarak dağıtılır. Kul
 
 İlk adım için hazır istem
 
-Görsel canvas üzerinde, bir girdiyi alan, bir AI modeliyle işleyen ve sonucu sonraki adıma aktaran örnek bir iş akışı tasarlamama yardımcı olun.
+Görsel canvas üzerinde, bir girdiyi alan, bir yapay zekâ modeliyle işleyen ve sonucu sonraki adıma aktaran örnek bir iş akışı tasarlamama yardımcı olun.
 
 ## Bağlantılar
 
@@ -83,4 +83,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/n8n/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

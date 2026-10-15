@@ -1,6 +1,6 @@
 # What is Emulator?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 An emulator is a system layer that allows you to run software from foreign platforms on your own device by software imitating the physical hardware architecture of a computer, mobile device or game console.
 

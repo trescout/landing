@@ -1,6 +1,6 @@
 # Was ist Systematic Trading?
 
-*Glossar · Data · Zuletzt aktualisiert: 29. Juli 2026*
+*Data · Zuletzt aktualisiert: 29. Juli 2026*
 
 Anlageentscheidungen werden emotionslos, im Rahmen vorgegebener Regeln und eines disziplinierten Plans getroffen.
 

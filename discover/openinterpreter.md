@@ -37,7 +37,7 @@ i
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda bir kodlama ajanı olarak görev yapmanı istiyorum. Yerel ortamımda kod çalıştırarak karmaşık görevleri otomatize etmeni, gerektiğinde web veya yerel uygulamaları test etmeni bekliyorum. İşlemleri gerçekleştirirken düşük maliyetli modelleri optimize eden yapıları kullan ve terminal üzerinden komutlarımı güvenli bir şekilde yürüt.
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openinterpreter/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

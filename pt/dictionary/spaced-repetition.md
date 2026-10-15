@@ -1,6 +1,6 @@
 # O que é Spaced Repetition?
 
-*Glossário · Data · Última atualização: 19 de setembro de 2026*
+*Data · Última atualização: 19 de setembro de 2026*
 
 É um método de aprendizagem que permite a repetição de informações em intervalos de tempo específicos para evitar o esquecimento.
 

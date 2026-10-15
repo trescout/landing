@@ -1,6 +1,6 @@
 # Code-Graph nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 4 Ağustos 2026*
+*Geliştirme · Son güncelleme: 4 Ağustos 2026*
 
 Yazılım projelerindeki kod bloklarının, fonksiyonların ve dosyaların birbirleriyle olan ilişkilerini görselleştiren bir harita yapısıdır.
 
@@ -30,7 +30,7 @@ Bir fonksiyonu silmek veya değiştirmek istediğinizde, bu fonksiyonun başka n
 
 **Otomatik oluşturulabilir mi?**
 
-Evet, modern geliştirme araçları ve AI destekli sistemler kodunuzu analiz ederek bu haritayı otomatik çizebilir.
+Evet, modern geliştirme araçları ve yapay zekâ destekli sistemler kodunuzu analiz ederek bu haritayı otomatik çizebilir.
 
 ## İlgili terimler
 
@@ -39,8 +39,8 @@ Evet, modern geliştirme araçları ve AI destekli sistemler kodunuzu analiz ede
 - [System Design](https://trescout.com/dictionary/system-design/)
 - [IDE](https://trescout.com/dictionary/ide/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-graph/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

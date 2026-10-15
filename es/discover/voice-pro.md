@@ -27,7 +27,7 @@ git clone https://github.com/abus-aikorea/voice-pro.git
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo traducir y doblar rápidamente un vídeo de YouTube a un idioma diferente utilizando la herramienta Voice-Pro? Explique paso a paso qué debo hacer y a qué debo prestar atención cuando uso la función de transcripción de voz.
 

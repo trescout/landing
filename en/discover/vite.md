@@ -40,7 +40,7 @@ npm run dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 For me, I want to start a modern web project. How do I set up my development environment using Vite and what steps should I follow to prepare my project for release? Explain basic configuration recommendations for rapid development and optimized build processes.
 

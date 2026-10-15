@@ -1,6 +1,6 @@
 # O que é Agent Development Environment?
 
-*Glossário · AI · Última atualização: 25 de junho de 2026*
+*AI · Última atualização: 25 de junho de 2026*
 
 É um ambiente de desenvolvimento de software especializado usado para criar, testar e gerenciar assistentes de inteligência artificial.
 

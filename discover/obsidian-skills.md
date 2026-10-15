@@ -31,7 +31,7 @@ git clone https://github.com/kepano/obsidian-skills.git ~/.opencode/skills/obsid
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Obsidian notlarımı yönetmek için Obsidian-skills aracını kullanıyorum. Lütfen bu yetenek setini kullanarak notlarımdaki Markdown dosyalarını düzenle, JSON Canvas içeriklerini güncelle veya Obsidian CLI komut satırı arayüzü üzerinden gerekli işlemleri gerçekleştir. Özellikle notlarımda yer alan karmaşık yapıları, bağlantıları ve özellikleri koruyarak verimli bir bilgi yönetimi akışı oluşturmanı istiyorum.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/obsidian-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

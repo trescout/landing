@@ -1,6 +1,6 @@
 # Qu'est-ce que Userspace ?
 
-*Glossaire · Dev · Dernière mise à jour : 3 août 2026*
+*Dev · Dernière mise à jour : 3 août 2026*
 
 Une zone sûre où les applications utilisateur s'exécutent sans interférer avec le noyau de l'ordinateur.
 

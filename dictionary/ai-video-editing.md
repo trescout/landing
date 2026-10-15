@@ -1,6 +1,6 @@
 # AI Video Editing nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 2 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 2 Ağustos 2026*
 
 Videolardaki kesme, efekt ekleme veya görüntü iyileştirme gibi işlemleri yapay zekâ yardımıyla otomatik yapma sürecidir.
 
@@ -38,8 +38,8 @@ Basit kurgularda mükemmeldir, ancak sanatsal dokunuşlar hala insan gözü gere
 - [Generative AI](https://trescout.com/dictionary/generative-ai/)
 - [Multimodal](https://trescout.com/dictionary/multimodal/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-video-editing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

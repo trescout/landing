@@ -1,6 +1,6 @@
 # ¿Qué es Markdown?
 
-*Glosario · Dev · Última actualización: 3 de junio de 2026*
+*Dev · Última actualización: 3 de junio de 2026*
 
 Un lenguaje de formato ligero utilizado para dar formato al texto, permitiendo escribir con caracteres simples.
 

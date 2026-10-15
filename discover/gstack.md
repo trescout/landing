@@ -28,7 +28,7 @@ cd ~/gstack && ./setup
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen artık benim sanal mühendislik ekibimsin. Gstack araçlarını kullanarak projemi analiz et, /office-hours ile stratejimi belirle, /autoplan ile iş planımı oluştur ve /review ile kod kalitesini denetle. Yazılım geliştirme sürecinde bir CEO, tasarımcı ve mühendislik yöneticisi gibi davranarak tüm aşamaları otomatize et.
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gstack/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

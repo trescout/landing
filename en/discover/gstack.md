@@ -28,7 +28,7 @@ cd ~/gstack && ./setup
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are now my virtual engineering team. Analyze my project using Gstack tools, determine my strategy with /office-hours, create my work plan with /autoplan, and check the code quality with /review. Automate all stages of the software development process by acting as a CEO, designer and engineering manager.
 

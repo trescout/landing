@@ -1,6 +1,6 @@
 # What is AI Coding Agent?
 
-*Dictionary · Dev · Last updated: June 3, 2026*
+*Dev · Last updated: June 3, 2026*
 
 It is an artificial intelligence-based assistant that writes code, debugs and contributes to the project architecture during the software development process.
 

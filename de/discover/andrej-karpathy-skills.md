@@ -40,7 +40,7 @@ Dieses Paket gibt Agenten Richtlinien; generierten Code, Änderungsumfang und Te
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Nennen Sie zuerst den Plan, Unsicherheiten und betroffene Dateien für diese Aufgabe. Schlagen Sie danach den einfachsten Ansatz vor und nehmen Sie nur die für das Ziel erforderlichen Änderungen vor.
 

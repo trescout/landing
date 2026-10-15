@@ -37,7 +37,7 @@ strix --target ./app-directory
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Strix aracını kullanarak belirlediğim hedef üzerinde kapsamlı bir güvenlik taraması gerçekleştir. Taramayı başlatırken gerekli API anahtarlarımı yapılandır ve bulguları doğrulanabilir kanıtlarla birlikte raporla. Uygulama dizinimdeki veya belirttiğim URL üzerindeki zafiyetleri analiz ederek, bulguları ve çözüm önerilerini içeren detaylı bir rapor sun.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/strix/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

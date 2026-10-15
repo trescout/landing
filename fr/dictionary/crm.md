@@ -1,6 +1,6 @@
 # Qu'est-ce que CRM ?
 
-*Glossaire · Data · Dernière mise à jour : 22 septembre 2026*
+*Data · Dernière mise à jour : 22 septembre 2026*
 
 > Customer Relationship Management
 

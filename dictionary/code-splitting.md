@@ -1,6 +1,6 @@
 # Code Splitting nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 6 Ağustos 2026*
+*Geliştirme · Son güncelleme: 6 Ağustos 2026*
 
 Web sitesinin yüklenme hızını artırmak için büyük kod dosyalarını küçük parçalara bölüp sadece ihtiyaç anında yükleme yöntemidir.
 
@@ -37,8 +37,8 @@ Bundling ile karıştırılabilir; bundling dosyaları birleştirirken, code spl
 
 - [Webpack](https://trescout.com/discover/webpack/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-splitting/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

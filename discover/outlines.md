@@ -43,7 +43,7 @@ model = outlines.from_transformers(
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Outlines kütüphanesini kullanarak bir yapay zekâ modelinden gelen yanıtı belirli bir Pydantic veri yapısına veya Python tipine (örneğin int veya Literal) göre kısıtlamak istiyorum. Modelin çıktısının her zaman istediğim şemaya uygun olmasını sağlamak için model nesnesini tanımladıktan sonra model(istem, çıktı_tipi) fonksiyonunu nasıl kullanabilirim? Lütfen karmaşık nesneler için Pydantic modelini nasıl tanımlayacağımı ve bu yapıyı model çıktısına nasıl uygulayacağımı örnekle açıkla.
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/outlines/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

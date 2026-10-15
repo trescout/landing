@@ -1,6 +1,6 @@
 # Face Swapping nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
 Face swapping (Türkçe karşılığıyla **yüz değiştirme**), bir yüzdeki ifadeyi başka yüze videoda aktarma işlemidir.
 
@@ -65,8 +65,8 @@ Göz ritmi, kenar yumuşaklığı ve ışık uyumu incelenir. Tespit araçları 
 
 - [Faceswap](https://trescout.com/discover/faceswap/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/face-swapping/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

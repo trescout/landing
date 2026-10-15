@@ -36,7 +36,7 @@ npm init @logto
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a secure authentication system for my application using Logto. How can I configure multi-tenancy and role-based access control features in this structure based on OIDC and OAuth 2.1 protocols? Can you explain the basic steps I need to follow to manage user login flows and enterprise SSO integration in my SaaS project?
 

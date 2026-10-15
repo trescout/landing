@@ -40,7 +40,7 @@ gt mayor attach
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Iniciei uma sessão de 'Prefeito' em meu espaço de trabalho Gas Town. Quero que você analise meus projetos e tarefas atuais nos quais estou trabalhando, identifique lacunas nos fluxos de trabalho atuais e crie um plano de próximas etapas para processos em andamento. Priorizar o trabalho revisando as estruturas de 'plataforma' existentes e os registros de 'esferas' para garantir a coordenação entre agentes.
 

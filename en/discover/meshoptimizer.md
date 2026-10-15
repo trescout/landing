@@ -27,7 +27,7 @@ git clone -b v1.2 https://github.com/zeux/meshoptimizer.git
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to optimize the three-dimensional network data I have. How can I make my vertex and index data more efficient by using the Meshoptimizer library? Explain the basic steps I need to follow, especially in the vertex cache optimization and index buffer editing processes, using the functions offered by the library.
 

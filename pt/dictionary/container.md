@@ -1,6 +1,6 @@
 # O que é Container?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 O container é o empacotamento do código de uma aplicação junto com suas dependências em um único pacote, garantindo que ela seja executada da mesma forma em qualquer ambiente.
 

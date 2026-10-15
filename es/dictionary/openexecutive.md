@@ -1,6 +1,6 @@
 # ¿Qué es OpenExecutive?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 > Capa de Ejecución Organizacional Autónoma
 

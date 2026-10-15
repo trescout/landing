@@ -1,6 +1,6 @@
 # What is Digital Privacy?
 
-*Dictionary · Data · Last updated: September 19, 2026*
+*Data · Last updated: September 19, 2026*
 
 Digital Privacy is the right of individuals to control and limit who can collect, store, and process the personal data they generate on the internet, smart devices, and digital services.
 

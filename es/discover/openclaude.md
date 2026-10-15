@@ -36,7 +36,7 @@ openclaude
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero optimizar mi flujo de trabajo basado en terminal mientras trabajo en OpenClaude. Crea un plan de trabajo para aumentar mi productividad en mis tareas de codificación utilizando herramientas de archivos, la función de búsqueda grep y la integración de MCP (Model Context Protocol). Además, explica paso a paso cómo configurar mis ajustes de proveedor con el comando `/provider` y cómo incluir modelos de GitHub.
 

@@ -1,6 +1,6 @@
 # Was ist Omni-channel?
 
-*Glossar · Data · Zuletzt aktualisiert: 22. September 2026*
+*Data · Zuletzt aktualisiert: 22. September 2026*
 
 Omni-Channel (auf Türkisch: integrierter Kanal) bezeichnet die synchrone Zusammenarbeit aller Vertriebskanäle.
 

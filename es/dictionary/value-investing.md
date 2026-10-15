@@ -1,6 +1,6 @@
 # ¿Qué es Value Investing?
 
-*Glosario · Data · Última actualización: 27 de junio de 2026*
+*Data · Última actualización: 27 de junio de 2026*
 
 Es una estrategia de compra de activos que cree que tienen un precio inferior a su valor real para obtener ganancias a largo plazo.
 

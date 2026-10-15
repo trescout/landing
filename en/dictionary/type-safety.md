@@ -1,6 +1,6 @@
 # What is Type Safety?
 
-*Dictionary · Dev · Last updated: July 13, 2026*
+*Dev · Last updated: July 13, 2026*
 
 It is a security rule that prevents the wrong type of data from being used in the software and catches errors while writing code.
 

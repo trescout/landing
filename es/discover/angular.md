@@ -44,7 +44,7 @@ ng serve
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero desarrollar una aplicación web moderna usando Angular. Explícame paso a paso los pasos que debo seguir en la configuración del proyecto, estructura básica de componentes y procesos de desarrollo de aplicaciones, utilizando herramientas Angular CLI.
 

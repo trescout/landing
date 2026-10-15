@@ -66,7 +66,7 @@ A extensão do navegador envia o conteúdo indexado ao servidor Hister configura
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Abra a interface local, indexe as páginas selecionadas com a extensão do navegador e verifique as pesquisas usando filtros de consulta.
 

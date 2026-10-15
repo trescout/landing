@@ -59,7 +59,7 @@ skillspector scan https://github.com/user/my-skill
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero fazer a triagem de segurança de uma habilidade de agente de IA usando a ferramenta SkillSpector. Como uso o comando 'skillspector scan ./my-skill/' para procurar talentos em um diretório local e quais parâmetros devo adicionar ao comando para salvar os resultados da verificação em 'report.json' no formato JSON?
 

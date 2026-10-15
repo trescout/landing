@@ -39,7 +39,7 @@ pnpm dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Acting as an AI manager, I define the subtasks necessary to achieve the main business goal I have set, assign these tasks to the appropriate agents, set budget limits, and control the progress in the process by regularly reporting the work done.
 

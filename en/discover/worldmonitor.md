@@ -43,7 +43,7 @@ npm run dev:energy     # energy.worldmonitor.app
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Let me analyze global news feeds, geopolitical developments and infrastructure data using the Worldmonitor tool. Identify correlations between military, economic and environmental events by synthesizing over 500 news sources. Build situational awareness and guide visualization of complex data flows using data such as country instability index and financial market signals.
 

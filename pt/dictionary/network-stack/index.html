@@ -55,7 +55,7 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-19">Última atualização: 19 de setembro de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Dev</span><time class="dict-time" datetime="2026-09-19">Última atualização: 19 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Network Stack</span>?</h1>
 <p class="disc-lead">Pilha de rede é o conjunto de camadas de driver de hardware, kernel e protocolo de espaço do usuário que permitem que um sistema operacional ou hardware transmita, roteie e receba pacotes de dados pela rede.</p>
 <section class="disc-sec"><h2>Arquitetura da Camada 1: OSI Camada 7 vs TCP/IP Camada 4</h2><p>Na comunicação em rede, o modelo OSI de 7 camadas definido pela ISO é usado na teoria, e na prática o modelo TCP/IP, que forma a espinha dorsal da Internet:</p><ul><li>Camada de aplicação (L7): HTTP/HTTPS, DNS, SSH, gRPC. É o nível em que os dados são apresentados ou produzidos ao usuário.</li><li>Camada de Transporte (L4): TCP (transmissão confiável e sequencial), UDP (streaming orientado a taxas) e QUIC (HTTP/3 base). A unidade de dados do protocolo é chamada Segmento.</li><li>Camada Internet/Rede (L3): IPv4, IPv6, ICMP, BGP. Ele permite que os pacotes sejam roteados ao redor do mundo. A unidade de dados do protocolo é chamada Pacote.</li><li>Interface de Rede/Camada de Link (L2/L1): Ethernet (802.3), Wi-Fi (802.11), fibra óptica e linhas de cobre. The protocol data unit is defined as Frame.</li></ul></section>

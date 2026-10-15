@@ -1,6 +1,6 @@
 # Was ist Factory Droid?
 
-*Glossar · AI · Zuletzt aktualisiert: 8. Oktober 2026*
+*AI · Zuletzt aktualisiert: 8. Oktober 2026*
 
 Automatisierungsroboter, die in Produktionslinien eingesetzt werden und darauf ausgelegt sind, bestimmte Aufgaben zu wiederholen.
 

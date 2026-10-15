@@ -23,7 +23,7 @@ You can navigate our GitHub page according to your platform and easily choose th
 
 ## How to use it with AI?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I will give you a categorized list of free apps for Windows, macOS and Linux called 'awesome-free-apps'. Review the list and suggest which free and open source applications I should use based on my needs (e.g. sound, browser, developer tools, security), with a brief description of each and which platform it runs on.
 

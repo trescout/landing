@@ -1,6 +1,6 @@
 # Bluetooth Mesh nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 27 Temmuz 2026*
+*Geliştirme · Son güncelleme: 27 Temmuz 2026*
 
 Birden fazla cihazın birbirine bağlanarak geniş bir alanda ağ kurmasını sağlayan kablosuz iletişim teknolojisi.
 
@@ -42,8 +42,8 @@ Cihaz sayısı arttıkça ağın kapsama alanı da genişler.
 - [Bitchat](https://trescout.com/discover/bitchat/)
 - [Bitchat Android](https://trescout.com/discover/bitchat-android/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/bluetooth-mesh/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

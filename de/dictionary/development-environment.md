@@ -1,6 +1,6 @@
 # Was ist Development Environment?
 
-*Glossar · Dev · Zuletzt aktualisiert: 28. September 2026*
+*Dev · Zuletzt aktualisiert: 28. September 2026*
 
 Es handelt sich um einen sicheren Arbeitsbereich, der alle digitalen Tools enthält, die Softwareentwickler zum Schreiben von Code, zum Testen und Ausführen ihrer Projekte verwenden.
 

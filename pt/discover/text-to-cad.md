@@ -29,7 +29,7 @@ npx skills install earthtojake/text-to-cad
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um assistente de engenharia. Crie modelos 3D, arquivos de estrutura robótica ou desenhos de produção de acordo com os requisitos técnicos que eu especificar usando a biblioteca text-to-cad. Preparar minhas solicitações de projeto em formatos apropriados, como STEP, DXF ou URDF, e validá-las usando ferramentas de visualização locais.
 

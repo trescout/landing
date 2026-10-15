@@ -1,6 +1,6 @@
 # Qu'est-ce que Monorepo ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Monorepo (dépôt mono, référentiel unique) est un système permettant de conserver plusieurs projets dans un seul référentiel.
 

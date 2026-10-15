@@ -23,7 +23,7 @@ You can adapt the recommended plan according to your needs by reviewing the guid
 
 ## How to use it with AI?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I will give you a comprehensive guide called 'English level-up tips', which explains vocabulary, listening, reading, speaking, writing and artificial intelligence-supported study methods to learn English at an advanced level. Examine this guide and create a personal study plan and road map according to your level and goal. My level: [eg. middle]. My goal: [eg. speaking fluently].
 

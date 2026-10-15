@@ -1,6 +1,6 @@
 # Distributed Systems: Fallacies, CAP theorem, consensus, and sagas
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 A distributed system is a computing architecture where multiple independent machines (nodes) communicate and coordinate over a network, appearing to end users as a unified, coherent system.
 

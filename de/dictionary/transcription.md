@@ -1,6 +1,6 @@
 # Was ist Transcription?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 Transkription ist der Prozess der Umwandlung von Audioaufnahmen in geschriebenen Text.
 

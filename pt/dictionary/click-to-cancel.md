@@ -1,6 +1,6 @@
 # O que é Click to Cancel?
 
-*Glossário · Dev · Última atualização: 12 de outubro de 2026*
+*Dev · Última atualização: 12 de outubro de 2026*
 
 É uma regra regulatória que exige que os processos de cancelamento de assinatura sejam feitos facilmente com um único clique, sem processos complexos.
 

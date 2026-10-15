@@ -1,6 +1,6 @@
 # IoT nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 9 Ekim 2026*
+*Geliştirme · Son güncelleme: 9 Ekim 2026*
 
 > Internet of Things
 
@@ -47,8 +47,8 @@ Sensörlerden akan devasa veri yapay zekâ modellerine beslenerek arızaların �
 - [Aspnetcore](https://trescout.com/discover/aspnetcore/)
 - [Tailcat](https://trescout.com/discover/tailcat/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/iot/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -32,7 +32,7 @@ npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarıma yazılım çalıştırma ortamı Node kurulu değilse 'brew install node' komutunu kullanarak yükle. Ardından kodlama asistanıma SwiftUI uzmanlığı kazandırmak için 'npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-pro' komutunu çalıştır ve bu yeteneği projelerimde kullanıma hazır hale getir.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swiftui-agent-skill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

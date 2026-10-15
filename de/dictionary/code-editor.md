@@ -1,6 +1,6 @@
 # Was ist Code Editor?
 
-*Glossar · Dev · Zuletzt aktualisiert: 27. September 2026*
+*Dev · Zuletzt aktualisiert: 27. September 2026*
 
 Ein spezieller Texteditor, mit dem Softwareentwickler beim Schreiben von Computercodes von Funktionen wie Farbgebung und Fehlerprüfung profitieren.
 

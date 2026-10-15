@@ -78,7 +78,7 @@ El sistema no es una fuente de verdad. Usa además copias de seguridad y control
 
 ## Primer prompt
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Inicia un flujo wiki local en Obsidian asociando las fuentes con libros de fuentes y de reclamaciones.
 

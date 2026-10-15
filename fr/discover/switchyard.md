@@ -45,7 +45,7 @@ curl http://localhost:4000/health
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Agissez comme un routeur de trafic IA pour moi. En utilisant Switchyard, je souhaite que vous répartissiez les requêtes de mes agents de codage comme Claude Code ou Codex entre différents modèles, traduisiez automatiquement entre les formats OpenAI et Anthropic API et surveilliez toutes les métriques opérationnelles. Gérez les demandes entrantes avec des algorithmes de routage structurés et effectuez des tests A/B ou un équilibrage de charge entre différents modèles si nécessaire.
 

@@ -30,7 +30,7 @@ docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Music Assistant kullanarak dijital müzik kütüphanemi nasıl yapılandırabilirim? Home Assistant üzerinde kurulumu tamamladıktan sonra farklı yayın servislerini ve hoparlörlerimi sisteme nasıl tanıtabileceğim konusunda bana adım adım bir rehber oluştur.
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/server/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

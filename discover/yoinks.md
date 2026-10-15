@@ -47,7 +47,7 @@ yoinks
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 YouTube, X, Instagram veya TikTok gibi platformlardan video indirmek istiyorum. Uçbirim üzerinde çalışan bu aracı kullanarak, verdiğim video bağlantısını doğrudan yerel indirme klasörüme kaydedecek ve çözünürlük seçeneklerini sunacak şekilde yapılandır. İşlem sırasında reklam veya yönlendirme içermeyen, temiz bir indirme süreci yürütülmesini sağla.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/yoinks/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

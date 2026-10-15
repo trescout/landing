@@ -48,7 +48,7 @@ npm install && npm start
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a web browser manager. Access target websites using Camofox-browser. Use this browser, which is hidden at the C++ level, to avoid being caught by bot detection. When extracting data from web pages, prefer lighter accessibility snapshots instead of raw HTML. Use stable identifiers for elements you need to interact with and manage sessions by isolating them on a per-user basis.
 

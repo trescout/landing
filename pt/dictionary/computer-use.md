@@ -1,6 +1,6 @@
 # O que é Computer Use?
 
-*Glossário · AI · Última atualização: 18 de julho de 2026*
+*AI · Última atualização: 18 de julho de 2026*
 
 É a capacidade da inteligência artificial de ver a tela e gerenciar o computador usando o mouse e o teclado, assim como um ser humano.
 

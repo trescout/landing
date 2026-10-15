@@ -38,7 +38,7 @@ http://localhost:8065
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo hacer más eficientes los procesos de comunicación de mi equipo de desarrollo de software utilizando la plataforma Mattermost? ¿Qué pasos debo seguir para fortalecer la colaboración en equipo utilizando funciones como la automatización del flujo de trabajo, las llamadas de voz y el uso compartido de pantalla que ofrece la plataforma?
 

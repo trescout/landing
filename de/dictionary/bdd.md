@@ -1,6 +1,6 @@
 # Was ist BDD?
 
-*Glossar · Dev · Zuletzt aktualisiert: 12. Juli 2026*
+*Dev · Zuletzt aktualisiert: 12. Juli 2026*
 
 > Behavior-Driven Development
 

@@ -1,6 +1,6 @@
 # Prompt as Code nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 24 Ağustos 2026*
+*Geliştirme · Son güncelleme: 24 Ağustos 2026*
 
 Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.
 
@@ -40,8 +40,8 @@ Komutun farklı girdilerle beklenen sonucu verip vermediğini otomatik olarak ko
 
 - [Awesome Gpt Image 2](https://trescout.com/discover/awesome-gpt-image-2/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/prompt-as-code/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

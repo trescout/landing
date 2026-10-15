@@ -1,6 +1,6 @@
 # ¿Qué es Text Extraction?
 
-*Glosario · Data · Última actualización: 6 de agosto de 2026*
+*Data · Última actualización: 6 de agosto de 2026*
 
 Es el proceso de convertir datos escritos en documentos digitales o imágenes a formato de texto que la computadora puede procesar.
 

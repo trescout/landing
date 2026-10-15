@@ -37,7 +37,7 @@ fprime-bootstrap project
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero desarrollar un proyecto de sistema integrado utilizando el marco F 'desarrollado por la NASA. Al crear la arquitectura de mi proyecto, ¿cómo puedo establecer una estructura basada en componentes, definir interfaces y administrar colas e hilos de mensajes con este marco? Sugiera un flujo de desarrollo utilizando las herramientas de modelado proporcionadas por el marco F'.
 

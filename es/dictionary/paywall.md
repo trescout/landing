@@ -1,6 +1,6 @@
 # ¿Qué es Paywall?
 
-*Glosario · Data · Última actualización: 19 de septiembre de 2026*
+*Data · Última actualización: 19 de septiembre de 2026*
 
 Un paywall (muro de pago) es un sistema de control de acceso (gatekeeper) digital que restringe el acceso a contenidos digitales en Internet y exige a los usuarios una suscripción de pago, un pago único o un registro.
 

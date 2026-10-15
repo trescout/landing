@@ -1,6 +1,6 @@
 # Was ist Logs?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Log ist eine zeitgestempelte Zeile von Systemereignissen.
 

@@ -38,7 +38,7 @@ npx skills add https://github.com/cloudflare/security-audit-skill \
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Inicie uma auditoria de segurança abrangente para esta base de código. Mapeie a arquitetura para identificar pontos de entrada e, em seguida, execute uma varredura em várias etapas para detectar vulnerabilidades de segurança. Submeta cada candidato a vulnerabilidade encontrado a um processo de verificação independente, classificando-o como verificado, a ser verificado ou rejeitado. Relate os resultados em um formato estruturado e documente todas as descobertas de acordo com os padrões de segurança do projeto.
 

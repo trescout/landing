@@ -1,6 +1,6 @@
 # Qu'est-ce que Preprints ?
 
-*Glossaire · AI · Dernière mise à jour : 8 octobre 2026*
+*AI · Dernière mise à jour : 8 octobre 2026*
 
 Travaux préliminaires non encore soumis à une évaluation scientifique, publiés par des chercheurs pour partager rapidement leurs résultats.
 

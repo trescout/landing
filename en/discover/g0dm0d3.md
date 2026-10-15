@@ -34,7 +34,7 @@ python3 -m http.server 8000
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the G0DM0D3 interface, activate the ULTRAPLINIAN engine, which races multiple models through the model providers I specify (OpenRouter, Venice or local server). Apply Parseltongue input mixing techniques for my red team investigations and automatically configure sampling parameters best suited to the query context with the AutoTune feature.
 

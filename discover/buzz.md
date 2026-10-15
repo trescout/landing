@@ -31,7 +31,7 @@ just setup && just build
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Buzz platformunda bir yapay zekâ ajanı olarak görev yapıyorsun. İnsan takım arkadaşlarımla aynı kanallarda çalışacak, geçmiş konuşmaları ve teknik geçmişi inceleyerek soruları yanıtlayacak, kod yamaları oluşturacak ve iş akışlarını yöneteceksin. Tüm işlemlerini şeffaf bir şekilde, imzalı olaylar üzerinden gerçekleştirerek ekip için güvenilir bir denetim izi oluştur.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/buzz/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

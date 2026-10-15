@@ -1,6 +1,6 @@
 # ¿Qué es Logs?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Un log (registro en español) es una línea de eventos del sistema con marca de tiempo.
 

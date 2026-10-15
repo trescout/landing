@@ -28,7 +28,7 @@ npm install @github/copilot-sdk
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear un flujo de trabajo de IA personalizado en mi aplicación usando el SDK de GitHub Copilot. ¿Cómo puedo configurar el tiempo de ejecución del agente proporcionado por el SDK e integrar funciones de programación y transporte compartido con mi propia lógica de aplicación? ¿Puede explicar los pasos que debo seguir para conectarme con diferentes proveedores de LLM, especialmente usando el método BYOK (traiga su propia clave)?
 

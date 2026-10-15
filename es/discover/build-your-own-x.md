@@ -25,7 +25,7 @@ Puede elegir la tecnología que le interesa en la página de GitHub y seguir las
 
 ## ¿Cómo usarlo con IA?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Le daré una lista de enlaces a guías paso a paso llamadas 'build-your-own-x' que le enseñarán cómo construir su propia tecnología (base de datos, sistema operativo, lenguaje de programación, servidor web, etc.) desde cero. Revise esta lista y enumere con qué proyectos debo comenzar de acuerdo con mi nivel y objetivo actual, y obtendrá un plan de trabajo semanal. Mi nivel: [ej. principiante]. Mi objetivo: [ej. haciendo mi propio servidor web].
 

@@ -34,7 +34,7 @@ Integrated into Claude Code with installation in the repository; then implements
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Set up this disciplined workflow in Claude Code by running '/plugin marketplace add Chachamaru127/claude-code-harness', then '/plugin install claude-code-harness@claude-code-harness-marketplace' and '/harness-setup', then get started with '/harness-plan'.
 

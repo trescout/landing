@@ -1,6 +1,6 @@
 # Was ist Diffusion Model?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um eine Methode der künstlichen Intelligenz, die aus verrauschten Daten saubere und aussagekräftige Bilder erzeugt.
 

@@ -1,6 +1,6 @@
 # What is AI Observability?
 
-*Dictionary · AI · Last updated: July 17, 2026*
+*AI · Last updated: July 17, 2026*
 
 It is the process of tracking how artificial intelligence systems make decisions and where they make mistakes by monitoring their inner world.
 

@@ -36,7 +36,7 @@ curl -L "https://github.com/unclebob/swarm-forge/archive/refs/heads/${BRANCH}.ta
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are part of a software development team. Complete the task given to you by following the rules of the Swarm Forge system and the configuration files in the project directory. Work collaboratively with other agents while performing your duties, use Git work trees, and maintain code quality, testability, and architectural standards by adhering to established role definitions.
 

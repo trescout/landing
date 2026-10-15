@@ -51,7 +51,7 @@ python -m ods.server --port 8000
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Können Sie anhand von Code- und Terminalschritten erklären, wie ich die PDF-Dokumente meines Unternehmens in die lokale Vektordatenbank importiere, indem ich den ODS-Server auf meinem PC installiere, und wie ich dann RAG-Fragen und -Antworten auf der Grundlage dieser Dokumente über ein lokales Llama 3-Modell durchführe?
 

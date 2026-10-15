@@ -1,6 +1,6 @@
 # What is Secrets?
 
-*Dictionary · Dev · Last updated: June 4, 2026*
+*Dev · Last updated: June 4, 2026*
 
 These are the passwords, API keys and access codes that software applications need to operate securely.
 

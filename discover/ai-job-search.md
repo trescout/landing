@@ -47,7 +47,7 @@ cd .agents/skills/linkedin-search/cli && bun install && cd ../../../..
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code içerisindeyken /setup komutunu kullanarak profilini oluştur. Ardından /scrape komutuyla uygun iş ilanlarını listele ve /apply komutunu kullanarak seçtiğin ilan için öz geçmiş ve ön yazı taslağını oluşturmasını sağla. Süreç boyunca yapay zekânın ilanla olan uyumunu değerlendirmesini ve mülakat hazırlığı için geri bildirim vermesini iste.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-job-search/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

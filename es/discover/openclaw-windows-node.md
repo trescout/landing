@@ -35,7 +35,7 @@ dotnet run --project src/OpenClaw.Cli -- --help
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Utilizo la herramienta OpenClaw Windows Node. Quiero administrar las conexiones de mi puerta de enlace local para este asistente de inteligencia artificial, al que accedo a través de la bandeja del sistema, y ​​verificar operaciones como el envío de mensajes a través de WebSocket. ¿Cómo puedo verificar el estado de mi conexión y configurar los permisos de nodo en el sistema usando las herramientas CLI disponibles?
 

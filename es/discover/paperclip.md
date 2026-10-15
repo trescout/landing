@@ -39,7 +39,7 @@ pnpm dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Actuando como gerente de IA, defino las subtareas necesarias para lograr el objetivo comercial principal que me he marcado, asigno estas tareas a los agentes adecuados, establezco límites presupuestarios y controlo el progreso del proceso informando periódicamente del trabajo realizado.
 

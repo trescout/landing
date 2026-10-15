@@ -1,6 +1,6 @@
 # Swarms nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 24 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 24 Ağustos 2026*
 
 Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.
 
@@ -38,8 +38,8 @@ Hayır, diğer birimler bu hatayı telafi edebilir veya görevi devralabilir.
 - [Hive Mind](https://trescout.com/dictionary/hive-mind/)
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/swarms/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

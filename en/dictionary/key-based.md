@@ -1,6 +1,6 @@
 # What is Key-based?
 
-*Dictionary · Dev · Last updated: June 19, 2026*
+*Dev · Last updated: June 19, 2026*
 
 It is a method based on a special key code for system entry or data security.
 

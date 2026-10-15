@@ -60,7 +60,7 @@ OpenMAIC, eğitim teknolojilerinde ve yapay zekâ araştırmalarında yenilikçi
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenMAIC platformunda kendi ders notlarımı yükleyerek bir Sokratik tartışma ortamı simüle etmek istiyorum. Ajanların rollerini (öğretmen, meraklı öğrenci, eleştirel sorgulayıcı) nasıl tanımlayacağımı ve yerel bir Ollama modeliyle bu sınıfı nasıl ayağa kaldıracağımı adım adım açıklar mısın?
 
@@ -93,4 +93,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openmaic/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

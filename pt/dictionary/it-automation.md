@@ -1,6 +1,6 @@
 # O que é IT Automation?
 
-*Glossário · Dev · Última atualização: 31 de julho de 2026*
+*Dev · Última atualização: 31 de julho de 2026*
 
 Tarefas rotineiras e repetitivas em sistemas computacionais são realizadas por software sem a necessidade de humanos.
 

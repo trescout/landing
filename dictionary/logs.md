@@ -1,6 +1,6 @@
 # Logs nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
+*Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Log (Türkçe karşılığıyla **kayıt**), sistem olaylarının zaman damgalı satırlarıdır.
 
@@ -72,8 +72,8 @@ Hayır. Parola ve kimlik kayda girmez, maskelenir.
 - [Grafana](https://trescout.com/discover/grafana/)
 - [Modly](https://trescout.com/discover/modly/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/logs/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

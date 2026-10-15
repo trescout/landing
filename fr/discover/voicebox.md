@@ -33,7 +33,7 @@ just dev     # starts backend + desktop app
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je gère les processus de transcription vocale et de doublage sur Voicebox. Aidez-moi à déterminer le moteur TTS le plus approprié pour le profil vocal choisi, montrez-moi comment ajouter une emphase émotionnelle dans le texte et expliquez étape par étape comment configurer l'appel de voiture voicebox.speak nécessaire pour que mon agent IA local réponde vocalement.
 

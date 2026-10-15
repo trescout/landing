@@ -1,6 +1,6 @@
 # Was ist Web Scraping?
 
-*Glossar · Data · Zuletzt aktualisiert: 3. Juni 2026*
+*Data · Zuletzt aktualisiert: 3. Juni 2026*
 
 Softwareprozess, der mithilfe automatischer Methoden Daten von Websites sammelt und aufzeichnet.
 

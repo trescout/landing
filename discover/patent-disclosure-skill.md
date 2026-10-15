@@ -57,7 +57,7 @@ Ar-Ge ekipleri ve patent uzmanları bu aracı fikri mülkiyet süreçlerini hız
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Geliştirdiğim dağıtık bir veritabanı önbellekleme algoritması için patent disclosure skill kullanarak resmi bir buluş bildirim metni hazırlamak istiyorum. Algoritmanın akışını girdi olarak verip bağımsız istemleri, buluşun teknik alanını ve önceki teknikle olan farkları nasıl üreteceğimi adım adım açıklar mısın?
 
@@ -90,4 +90,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/patent-disclosure-skill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

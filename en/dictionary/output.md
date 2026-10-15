@@ -1,6 +1,6 @@
 # What is Output?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Output is the data produced as a result of the process.
 

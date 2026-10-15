@@ -1,6 +1,6 @@
 # Was ist Design Language?
 
-*Glossar · Dev · Zuletzt aktualisiert: 3. Juni 2026*
+*Dev · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um eine Reihe von Regeln, die dafür sorgen, dass die visuelle Welt und das Benutzererlebnis eines Produkts konsistent bleiben.
 

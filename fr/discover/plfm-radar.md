@@ -45,7 +45,7 @@ PLFM RADAR est un système radar à balayage de phase open source fonctionnant �
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite examiner les schémas matériels à commande de phase 10,5 GHz et les blocs de traitement du signal FPGA du projet PLFM RADAR. Pourriez-vous préparer un script Python de simulation expliquant la génération du signal chirp FMCW, le calcul FFT 2D Portée-Doppler et le transfert de données vers un écran radar PPI basé sur Python ? Pourriez-vous montrer étape par étape l'algorithme de détection de distance et de vitesse pour une cible artificielle ?
 

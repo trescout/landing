@@ -29,7 +29,7 @@ curl -o- https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/inst
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Sur la base de la structure sans identifiant utilisateur et des méthodes de cryptage de bout en bout de SimpleX Chat, créez un petit guide expliquant comment cette plate-forme offre une expérience de messagerie axée sur la confidentialité.
 

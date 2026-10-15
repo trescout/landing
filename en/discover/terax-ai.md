@@ -27,7 +27,7 @@ pnpm tauri dev          # development
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Create system prompts specific to my project using the artificial intelligence panel in Terax and manage the project memory via the TERAX.md file. Accept or reject AI-powered differences for code edits, and perform multi-step tasks with approval using plan mode.
 

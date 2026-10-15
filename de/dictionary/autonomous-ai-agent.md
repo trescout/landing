@@ -1,6 +1,6 @@
 # Was ist Autonomous AI Agent?
 
-*Glossar · AI · Zuletzt aktualisiert: 6. Juni 2026*
+*AI · Zuletzt aktualisiert: 6. Juni 2026*
 
 Es handelt sich um ein Softwaresystem, das seine eigenen Ziele festlegen und komplexe Aufgaben durchgängig ohne menschliches Eingreifen ausführen kann.
 

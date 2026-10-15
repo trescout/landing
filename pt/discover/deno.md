@@ -43,7 +43,7 @@ deno run --allow-net server.ts
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero criar um servidor web usando o tempo de execução Deno. Como faço para criar um arquivo chamado server.ts em TypeScript, escrever um bloco de código que retorne uma resposta simples usando a função Deno.serve e, em seguida, executar este servidor concedendo permissões de rede?
 

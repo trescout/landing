@@ -1,6 +1,6 @@
 # O que é Multimodal Large Language Model?
 
-*Glossário · AI · Última atualização: 7 de agosto de 2026*
+*AI · Última atualização: 7 de agosto de 2026*
 
 Não apenas com texto; São modelos avançados de inteligência artificial que podem processar simultaneamente diversos tipos de dados como imagem, áudio e vídeo.
 

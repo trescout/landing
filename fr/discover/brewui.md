@@ -29,7 +29,7 @@ brew install --cask homebrew-app
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise l'application BrewUI pour gérer mes paquets Homebrew. Je souhaite découvrir, installer, mettre à jour et gérer les paquets en toute sécurité au sein de l'application. En utilisant cette interface qui me permet de voir de manière transparente les opérations effectuées par Homebrew en arrière-plan, comment puis-je optimiser la configuration des paquets sur mon système et définir des variables personnalisées via le fichier brew.env ?
 

@@ -1,6 +1,6 @@
 # Neural Networks nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
 
 İnsan beyninin çalışma şeklinden esinlenerek bilgiyi katmanlar halinde işleyen yapay zekâ yapısı.
 
@@ -39,8 +39,8 @@ Sadece esinlenilmiştir, biyolojik olarak birebir aynısı değildir.
 - [Tensorflow](https://trescout.com/discover/tensorflow/)
 - [Pytorch](https://trescout.com/discover/pytorch/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/neural-networks/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

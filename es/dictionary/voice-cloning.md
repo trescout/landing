@@ -1,6 +1,6 @@
 # ¿Qué es Voice Cloning?
 
-*Glosario · AI · Última actualización: 3 de junio de 2026*
+*AI · Última actualización: 3 de junio de 2026*
 
 Se trata de una tecnología de inteligencia artificial que crea nuevas frases imitando la voz de una persona concreta.
 

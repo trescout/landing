@@ -44,7 +44,7 @@ Sie können die vorgefertigte Seite (openstock-ods.vercel.app) direkt nutzen ode
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, eine Open-Source-Anwendung zur Bestandsverfolgung namens OpenStock zu installieren. Laden Sie das Repository mit „git clone https://github.com/Open-Dev-Society/OpenStock.git“, „cd OpenStock“ herunter und führen Sie „pnpm install“ aus, legen Sie die erforderlichen .env-Variablen fest und starten Sie den Entwicklungsserver mit „pnpm dev“ und öffnen Sie ihn unter http://localhost:3000.
 

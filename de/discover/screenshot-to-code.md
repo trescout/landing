@@ -35,7 +35,7 @@ pnpm dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Analysieren Sie den Screenshot und erstellen Sie eine saubere und funktionale Codestruktur, die das Design im Bild genau widerspiegelt. Bereiten Sie die Ausgabe im HTML- oder React-Format mit Tailwind CSS vor. Extrahieren Sie die echten Logos und Assets im Bild und fügen Sie sie in den Code ein, um alle Elemente des Designs responsiv zu codieren.
 

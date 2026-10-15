@@ -37,7 +37,7 @@ coder server
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar um ambiente de desenvolvimento baseado em nuvem usando a plataforma Coder. Como posso estruturar meus espaços de trabalho definidos com Terraform e como posso gerenciar centralmente os agentes de IA que operam na minha infraestrutura? Você poderia explicar passo a passo como configurar um túnel Wireguard para uma conexão segura e como ativar o recurso de desligamento automático de recursos ociosos para reduzir os custos de infraestrutura?
 

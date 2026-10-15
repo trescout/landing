@@ -35,7 +35,7 @@ brew install witr
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero entender de qual fonte foi iniciado um processo, porta ou contêiner em execução no meu sistema e sua cadeia de execução no sistema. Como posso usar a ferramenta witr para monitorar esse processo e detectar por que ele está em execução?
 

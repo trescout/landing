@@ -29,7 +29,7 @@ npm install effect
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Effect-Bibliothek in mein TypeScript-basiertes Projekt einbinden. Führe die erforderliche Installation mit dem Befehl 'npm install effect' durch und stelle sicher, dass die 'strict'-Typprüfungseinstellung in der 'tsconfig.json' des Projekts aktiviert ist.
 

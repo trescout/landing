@@ -39,7 +39,7 @@ docker compose up -d postgres redis
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un démon. Je souhaite que vous effectuiez les tâches que je définis de manière autonome à l'aide des outils Node.js, Python et git. Pendant que vous travaillez, créez des commits adaptés au projet que je développe, démarrez des sous-tâches parallèles si nécessaire et rendez vos actions traçables sur GitHub.
 

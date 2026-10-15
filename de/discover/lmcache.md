@@ -29,7 +29,7 @@ pip install lmcache
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich die KV-Cache-Verwaltung für große Sprachmodelle mithilfe der LMCache-Bibliothek optimieren? Welche grundlegenden Schritte sollte ich nach der Installation befolgen, um die Leistung zu steigern und die Speichernutzung effizient zu gestalten, insbesondere bei Abfragen mit langem Kontext? Erklären Sie, wie ich diese Ebene unter Berücksichtigung des in der Dokumentation angegebenen Engine-unabhängigen Arbeitsprinzips in mein bestehendes Inferenzsystem integrieren kann.
 

@@ -1,6 +1,6 @@
 # Was ist Harness?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Harness, Code automatisch testet, ist ein Framework für automatisierte Tests.
 

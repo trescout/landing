@@ -1,6 +1,6 @@
 # Was ist Rendering?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Rendering ist der Prozess, bei dem Rohdaten in das Bild umgewandelt werden, das Sie auf dem Bildschirm sehen.
 

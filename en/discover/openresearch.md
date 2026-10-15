@@ -37,7 +37,7 @@ orx up
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to start a research project on OpenResearch. Using an AI agent like Claude Code or OpenCode, I want you to conduct a literature review, develop hypotheses, and design experiments to test these hypotheses. Throughout the study, manage the process autonomously by recording all findings, experiment results, and code changes in the OpenResearch local workspace.
 

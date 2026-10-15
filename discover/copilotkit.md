@@ -31,7 +31,7 @@ npm install @copilotkit/react-core
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 CopilotKit kullanarak uygulamama yapay zekâ yetenekleri eklemek istiyorum. Projemin altyapısına uygun olarak npx copilotkit@latest create -f \<framework> veya mevcut projem için npx copilotkit@latest init komutlarını kullanarak kurulumu nasıl yapılandırabilirim? Ajanların arayüzle etkileşimini sağlamak ve Generative UI özelliklerini kullanmaya başlamak için izlemem gereken temel adımları açıkla.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/copilotkit/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

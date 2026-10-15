@@ -1,6 +1,6 @@
 # What is Page Agent?
 
-*Dictionary · AI · Last updated: July 5, 2026*
+*AI · Last updated: July 5, 2026*
 
 It is a special artificial intelligence assistant that scans web pages and performs actions such as clicking or entering data on behalf of the user.
 

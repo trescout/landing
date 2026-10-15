@@ -37,7 +37,7 @@ npx cypress open
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create end-to-end test cases for my web application using Cypress. How can I configure my browser-based tests, create and run a basic test file, using this tool that I have included in my project with the npm install cypress --save-dev or yarn add cypress --dev commands?
 

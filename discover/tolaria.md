@@ -53,9 +53,9 @@ pnpm tauri dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
-Tolaria masaüstü uygulamasını kullanarak Markdown tabanlı bilgi tabanımı nasıl yapılandırabilirim? Uygulamanın Git tabanlı yapısını, çevrimdışı çalışma prensibini ve AI ajanlarıyla uyumlu çalışma özelliklerini kullanarak notlarımı nasıl organize edeceğimi, standart Markdown dosyalarımı nasıl yöneteceğimi ve klavye odaklı komut paletinden nasıl verim alacağımı adım adım açıkla.
+Tolaria masaüstü uygulamasını kullanarak Markdown tabanlı bilgi tabanımı nasıl yapılandırabilirim? Uygulamanın Git tabanlı yapısını, çevrimdışı çalışma prensibini ve yapay zekâ ajanlarıyla uyumlu çalışma özelliklerini kullanarak notlarımı nasıl organize edeceğimi, standart Markdown dosyalarımı nasıl yöneteceğimi ve klavye odaklı komut paletinden nasıl verim alacağımı adım adım açıkla.
 
 - **Kimin için:** Kişisel bilgi yönetimini Markdown dosyaları ve Git sürüm kontrolü ile yerel, çevrimdışı ve özgür bir sistemde tutmak isteyen kullanıcılar içindir.
 - **Lisans:** AGPL-3.0
@@ -73,4 +73,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tolaria/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

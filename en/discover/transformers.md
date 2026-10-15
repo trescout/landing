@@ -36,7 +36,7 @@ uv pip install '.[torch]'
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a text rendering model using the Transformers library. How can I get started quickly using the Pipeline API? Can you help with step by step code example and explanation?
 

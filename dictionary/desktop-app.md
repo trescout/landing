@@ -1,6 +1,6 @@
 # Desktop App nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 9 Haziran 2026*
+*Geliştirme · Son güncelleme: 9 Haziran 2026*
 
 İnternet tarayıcısına ihtiyaç duymadan doğrudan bilgisayarınızın işletim sistemi üzerinde çalışan yazılımlardır.
 
@@ -38,8 +38,8 @@ Hayır, birçok masaüstü uygulaması internet bağlantısı olmadan çalışab
 - [Offline](https://trescout.com/dictionary/offline/)
 - [Web Interface](https://trescout.com/dictionary/web-interface/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/desktop-app/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

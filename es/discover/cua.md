@@ -47,7 +47,7 @@ lume run macos-sequoia-vanilla:latest
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero desarrollar un agente de uso de computadora utilizando la infraestructura CUA. Ayúdenme a configurar la estructura básica de Python que permitirá a mi agente interactuar con aplicaciones de escritorio en segundo plano, hacer clic con el mouse y enviar entradas de teclado. Cree un boceto de código de muestra que ejecute comandos y tome capturas de pantalla en un entorno Linux utilizando el SDK de CUA Sandbox.
 

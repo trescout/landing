@@ -58,7 +58,7 @@ Esta página é sobre o ManimGL. O nome do pacote é `manimgl`; não use as inst
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você pode me ajudar a escrever uma cena simples do ManimGL em que um círculo se transforma em um quadrado?
 

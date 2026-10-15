@@ -34,7 +34,7 @@ obliteratus ui
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yapay zekâ modelindeki reddetme davranışlarını analiz et ve bu davranışları tetikleyen içsel yapıları, modelin genel dil yeteneklerine zarar vermeden cerrahi bir yöntemle temizle. İşlem sırasında SVD ayrıştırması gibi teknikleri kullanarak kısıtlamaları belirle ve modelin yapay engeller olmadan yanıt vermesini sağla.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/obliteratus/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

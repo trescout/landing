@@ -43,7 +43,7 @@ LocalSend works on the local network without an internet connection or third-par
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I send a photo from my computer to my phone on the same local network?
 

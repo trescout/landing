@@ -46,7 +46,7 @@ jcode --provider ollama --model llama3.2 run 'hello'
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to test the performance and multi-session management ability of my coding-focused AI agent. Allow me to optimize my agent's resource usage and set up a standard testing environment using the jcode framework.
 

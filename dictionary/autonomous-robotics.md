@@ -1,6 +1,6 @@
 # Autonomous Robotics nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
 Autonomous robotics (Türkçe karşılığıyla **otonom robotik**), desteksiz hareket eden makineler bilimidir.
 
@@ -61,8 +61,8 @@ Kumandalı insan elindedir, otonom hedefle baş başadır.
 - [Physical AI](https://trescout.com/dictionary/physical-ai/)
 - [World Models](https://trescout.com/dictionary/world-model/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/autonomous-robotics/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Neural Kana-Kanji Conversion Engine?
 
-*Dictionary · AI · Last updated: July 2, 2026*
+*AI · Last updated: July 2, 2026*
 
 It is an artificial intelligence-based software engine that converts Japanese phonetic writing into meaningful characters.
 

@@ -50,7 +50,7 @@ python run_inference.py -m models/BitNet-b1.58-2B-4T/ggml-model-i2_s.gguf -p "Yo
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda BitNet altyapısını kullanarak 1-bit yapay zekâ modelini çalıştırmak istiyorum. Öncelikle 'git clone --recursive https://github.com/microsoft/BitNet.git' komutuyla projeyi klonlayıp klasörüne girme, paket yöneticisi Conda ile Python 3.10 ortamı açıp gereksinimleri kurma adımlarında bana rehberlik et. Ardından açık kaynak model platformu Hugging Face üzerinden microsoft/BitNet-b1.58-2B-4T-gguf modelini indirip 'setup_env.py' ile hazırlama ve son olarak 'run_inference.py' betiğiyle sohbet modunu başlatma adımlarını kodlama bilmeyen birinin anlayacağı sadelikte, adım adım açıkla.
 
@@ -74,4 +74,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bitnet/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

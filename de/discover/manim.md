@@ -58,7 +58,7 @@ Dieser Eintrag gilt für ManimGL. Der Paketname lautet `manimgl`; verwenden Sie 
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Können Sie mir helfen, eine einfache ManimGL-Szene zu schreiben, in der sich ein Kreis in ein Quadrat verwandelt?
 

@@ -43,7 +43,7 @@ Este es un modelo de investigación; No es un consejo de inversión ni una herra
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale el modelo de pronóstico financiero de Kronos: descargue el repositorio y ejecute 'pip install -r requisitos.txt' en él, luego ejecute el script 'python ejemplos/prediction_example.py' para generar un pronóstico de precios en datos de línea K (gráfico de velas) y graficar el resultado.
 

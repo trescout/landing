@@ -1,6 +1,6 @@
 # Rust nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 14 Haziran 2026*
+*Geliştirme · Son güncelleme: 14 Haziran 2026*
 
 Hafıza güvenliğini ön planda tutan, yüksek performanslı bir sistem programlama dilidir.
 
@@ -44,8 +44,8 @@ Hem çok hızlı olması hem de yazılım hatalarını ciddi oranda azaltması n
 - [Openinterpreter](https://trescout.com/discover/openinterpreter/)
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/rust/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

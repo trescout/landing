@@ -1,6 +1,6 @@
 # O que é Preprints?
 
-*Glossário · AI · Última atualização: 8 de outubro de 2026*
+*AI · Última atualização: 8 de outubro de 2026*
 
 Trabalhos preliminares que ainda não passaram por uma avaliação científica e que os pesquisadores publicam para compartilhar seus resultados rapidamente.
 

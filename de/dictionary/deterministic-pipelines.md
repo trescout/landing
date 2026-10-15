@@ -1,6 +1,6 @@
 # Was ist Deterministic Pipelines?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Eine deterministische Pipeline ist eine Pipeline, die bei jedem Durchlauf mit derselben Eingabe die gleiche Ausgabe erzeugt.
 

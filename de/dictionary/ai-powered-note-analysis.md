@@ -1,6 +1,6 @@
 # Was ist AI-powered Note Analysis?
 
-*Glossar · AI · Zuletzt aktualisiert: 5. Juni 2026*
+*AI · Zuletzt aktualisiert: 5. Juni 2026*
 
 Die wichtigen Informationen in den Notizen werden durch künstliche Intelligenz gefunden und zusammengefasst bzw. organisiert.
 

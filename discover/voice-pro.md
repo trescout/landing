@@ -27,7 +27,7 @@ git clone https://github.com/abus-aikorea/voice-pro.git
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Voice-Pro aracını kullanarak bir YouTube videosunu nasıl hızlıca farklı bir dile çevirip seslendirebilirim? Adım adım yapmam gerekenleri ve ses kopyalama özelliğini kullanırken dikkat etmem gerekenleri açıkla.
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/voice-pro/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Playlist ne demek? Nedir, nasıl kullanılır?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
 
 Playlist (Türkçe karşılığıyla **çalma veya oynatma listesi**), dijital ses, video veya veri içeriklerinin belirli bir sıraya, temaya veya algoritmik mantığa göre art arda yürütülmek üzere bir araya getirildiği sıralı koleksiyondur.
 
@@ -59,8 +59,8 @@ Uygulamada 'Kitaplığım' bölümüne gidip '+' (Yeni Liste) butonuna basarak b
 - [Batch Processing](https://trescout.com/dictionary/batch-processing/)
 - [AI Models](https://trescout.com/dictionary/ai-models/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/playlist/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

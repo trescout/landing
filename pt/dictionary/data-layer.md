@@ -1,6 +1,6 @@
 # O que é Data Layer?
 
-*Glossário · Dev · Última atualização: 17 de julho de 2026*
+*Dev · Última atualização: 17 de julho de 2026*
 
 É a camada intermediária que permite que seu aplicativo se comunique com o banco de dados e organize os dados.
 

@@ -40,7 +40,7 @@ gt mayor attach
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Gas Town çalışma alanımda bir 'Mayor' oturumu başlattım. Şu anki projelerimi ve üzerinde çalıştığım görevleri analiz etmeni, mevcut iş akışlarındaki eksiklikleri belirlemeni ve devam eden süreçler için bir sonraki adım planını oluşturmanı istiyorum. Ajanlar arası koordinasyonu sağlamak adına mevcut 'rig' yapılarını ve 'bead' kayıtlarını gözden geçirerek işleri önceliklendir.
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gastown/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Qu'est-ce que AI-slop ?
 
-*Glossaire · AI · Dernière mise à jour : 14 juillet 2026*
+*AI · Dernière mise à jour : 14 juillet 2026*
 
 Il s’agit d’un amas de contenus rapidement produits par l’intelligence artificielle, de mauvaise qualité et n’ajoutant généralement aucune valeur.
 

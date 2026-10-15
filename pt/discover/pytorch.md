@@ -38,7 +38,7 @@ pip install --group dev
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver modelos de aprendizagem profunda usando a biblioteca PyTorch. Acompanhe-me nos cálculos de tensores, na criação de redes neurais dinâmicas e no aproveitamento da aceleração da GPU. Em particular, explique como usar os componentes torch.nn e torch.autograd, como integrá-los à estrutura Python e como otimizar os processos de treinamento do modelo.
 

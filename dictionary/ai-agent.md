@@ -1,6 +1,6 @@
 # AI Agent nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
 AI agent (Türkçe karşılığıyla **yapay zekâ ajanı**), hedefe ulaşmak için araç kullanan ve karar alan otonom yazılımdır.
 
@@ -75,8 +75,8 @@ Arama, dosya, takvim, API ve kod çalıştırma gibi tanımlı yetenekleri. List
 - [AI Agent Book](https://trescout.com/discover/ai-agent-book/)
 - [Hiring Agent](https://trescout.com/discover/hiring-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

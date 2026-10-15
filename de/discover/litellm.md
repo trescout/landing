@@ -37,7 +37,7 @@ litellm --model gpt-4o
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein Assistent für Softwareentwicklung. Wir möchten das Tool LiteLLM in unserem Projekt verwenden, um verschiedene KI-Modelle von einem zentralen Ort aus zu verwalten. Hilf mir zuerst, die Bibliothek zu installieren, indem ich den Befehl 'uv add litellm' im Terminal ausführe. Erkläre mir dann Schritt für Schritt, wie ich mit den Befehlen 'uv tool install 'litellm[proxy]'' und 'litellm --model gpt-4o' einen lokalen Gateway-Server für das große Sprachmodell gpt-4o starte und Modelle über diesen Server leite.
 

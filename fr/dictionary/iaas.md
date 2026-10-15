@@ -1,6 +1,6 @@
 # Qu'est-ce que IaaS ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 > Infrastructure as a Service
 

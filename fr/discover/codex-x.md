@@ -42,7 +42,7 @@ pnpm --dir apps/desktop tauri build
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite collecter les modèles d'invite et les paramètres du fournisseur que j'ai préparés pour mon assistant de codage d'intelligence artificielle à l'aide de Codex-X dans une interface visuelle unique. Aidez-moi à configurer mes clés API et à synchroniser l'historique de mes sessions en installant et en lançant l'application dans mon environnement local.
 

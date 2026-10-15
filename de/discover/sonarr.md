@@ -69,7 +69,7 @@ http://localhost:8989
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Dienste Sonarr, qBittorrent, Prowlarr und Jellyfin gemeinsam auf Docker auf meinem Heimserver ausführen. Können Sie bitte Schritt für Schritt die vollständige Datei „docker-compose.yml“ erklären, die eine Single-Volume-Mount-Struktur und die ersten Einstellungen enthält, die ich im Sonarr-Webpanel vornehmen muss, damit Hardlinks reibungslos funktionieren?
 

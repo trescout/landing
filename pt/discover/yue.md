@@ -44,7 +44,7 @@ python examples/generate.py --request examples/song.json \
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero criar uma música usando o YuE2. Por favor, prepare um plano editável de melodia e acordes com base na letra e no estilo musical que desejo. Em seguida, use este plano para produzir uma gravação completa da música, incluindo vocais e acompanhamento instrumental. Se eu tiver um arquivo de notação, permita-me usá-lo para realizar edições.
 

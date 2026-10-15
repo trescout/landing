@@ -1,6 +1,6 @@
 # ¿Qué es Workflow Orchestration Framework?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Un marco de orquestación de flujos de trabajo es la infraestructura que pone en cola las tareas dependientes y gestiona los errores.
 

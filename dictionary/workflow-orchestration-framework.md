@@ -1,6 +1,6 @@
 # Workflow Orchestration Framework nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
+*Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Workflow orchestration framework, bağımlı görevleri sıraya koyup hatayı yöneten altyapıdır.
 
@@ -71,8 +71,8 @@ Ekosistem ve ekip bilgisine göre. Küçük işte hafif, büyük hatta tam donan
 
 - [Prefect](https://trescout.com/discover/prefect/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/workflow-orchestration-framework/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

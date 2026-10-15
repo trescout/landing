@@ -46,7 +46,7 @@ dx bundle
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo desarrollar una aplicación para plataformas web, de escritorio o móviles en Rust usando Dioxus? Explique paso a paso el proceso de creación de una interfaz de usuario simple utilizando una estructura basada en componentes, administración de estado y función de actualización instantánea de código con el comando 'dxserve'.
 

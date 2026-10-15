@@ -1,6 +1,6 @@
 # O que é Fine-tuned Ruleset?
 
-*Glossário · AI · Última atualização: 28 de julho de 2026*
+*AI · Última atualização: 28 de julho de 2026*
 
 Um conjunto de regras que são refinadas ao serem treinadas com dados especiais para realizar melhor um determinado trabalho.
 

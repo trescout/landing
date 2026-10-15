@@ -46,7 +46,7 @@ libretranslate --port 5000
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to host the LibreTranslate tool on my own server. Could you please explain, as a step-by-step guide, the steps I need to follow to install this open source translation engine based on the Argos Translate library on my system and make it ready for offline use, without getting bogged down in technical details?
 

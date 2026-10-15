@@ -22,7 +22,7 @@ Projeto N.O.M.A.D; É um projeto de construção de computadores off-line, autos
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Em um sistema baseado em Debian (recomendado Ubuntu), cole e execute o comando de instalação abaixo no terminal e abra http://localhost:8080 no navegador para me ajudar a usar o servidor de informações offline.
 

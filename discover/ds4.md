@@ -56,7 +56,7 @@ make cpu              # CPU-only diagnostics build
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim sistemimdeki donanım özelliklerine göre en uygun DeepSeek veya GLM modelini seçmemde yardımcı ol. Hangi indirme komutunu kullanmalıyım ve SSD üzerinden veri akışı (streaming) özelliğini aktif ederek bellek darboğazını nasıl aşabilirim? Ayrıca, kurduğum bu yapay zekâ sistemini yerel bir sunucu olarak kullanabilmem için gerekli temel yapılandırma ayarlarını açıkla.
 
@@ -78,4 +78,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ds4/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

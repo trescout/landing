@@ -1,6 +1,6 @@
 # Grammar Checker nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 25 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 25 Temmuz 2026*
 
 Yazılı metinlerdeki dil bilgisi, imla ve noktalama hatalarını otomatik olarak tespit edip düzelten yazılımlardır.
 
@@ -41,8 +41,8 @@ Günümüzde birçok araç Türkçe dahil pek çok dili desteklemektedir.
 
 - [Harper](https://trescout.com/discover/harper/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/grammar-checker/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

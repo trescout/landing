@@ -1,6 +1,6 @@
 # What is IT Automation?
 
-*Dictionary · Dev · Last updated: July 31, 2026*
+*Dev · Last updated: July 31, 2026*
 
 Routine and repetitive tasks in computer systems are carried out by software without the need for humans.
 

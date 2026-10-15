@@ -30,7 +30,7 @@ brew tap abue-ammar/tinycast
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Tinycast üzerinde yapay zekâ özelliklerini aktif etmek için kendi API anahtarınızı veya kurulu bir yapay zekâ hesabı bilgilerini Ayarlar menüsünden tanımlayın. Bu işlemden sonra palet üzerinden doğrudan sohbet başlatabilir, seçili metinler üzerinde dil bilgisi düzeltme, özetleme veya çeviri gibi hızlı işlemleri gerçekleştirebilirsiniz.
 
@@ -51,4 +51,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tinycast/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

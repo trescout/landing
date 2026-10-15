@@ -29,7 +29,7 @@ curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I automate my software development processes using the Goose tool? Explain step by step which AI providers I can connect and how to configure plugins via Model Context Protocol.
 

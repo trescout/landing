@@ -1,6 +1,6 @@
 # Qu'est-ce que Multivariate Testing ?
 
-*Glossaire · Dev · Dernière mise à jour : 27 septembre 2026*
+*Dev · Dernière mise à jour : 27 septembre 2026*
 
 > Multivariate Testing
 

@@ -1,6 +1,6 @@
 # O que é Headless Browser?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Headless browser (traduzido para o português como navegador sem interface gráfica), é um navegador completo que roda sem tela.
 

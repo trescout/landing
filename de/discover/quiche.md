@@ -39,7 +39,7 @@ cargo run --bin quiche-server -- --cert apps/src/bin/cert.crt --key apps/src/bin
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte QUIC-Pakete verarbeiten und Netzwerkverbindungszustände verwalten, indem ich diese in der Programmiersprache Rust geschriebene Bibliothek nutze. Welche Schritte muss ich befolgen, um den Client und den Server nach dem Klonen des Projekts auszuführen?
 

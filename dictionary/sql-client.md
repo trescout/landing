@@ -1,6 +1,6 @@
 # SQL Client nedir, ne demek?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 22 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 22 Eylül 2026*
 
 SQL Client (Türkçe karşılığıyla **SQL istemcisi**), ilişkisel veritabanlarına bağlanıp SQL sorgusu çalıştırmanızı sağlayan uygulamadır.
 
@@ -70,8 +70,8 @@ Hayır. İstemci yalnızca bağlantı penceresidir. Veri sunucuda durur, istemci
 
 - [Chat2DB](https://trescout.com/discover/chat2db/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/sql-client/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

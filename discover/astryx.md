@@ -39,7 +39,7 @@ yarn add -D @astryxdesign/cli
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum. Projemde halihazırda kullandığım stil yöntemlerini bozmadan, @astryxdesign/core paketindeki bileşenleri nasıl yapılandırabilirim? Bileşenleri özelleştirmek ve CLI aracını kullanarak dokümantasyon veya şablonlara erişmek için izlemem gereken standart yöntemler nelerdir?
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astryx/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

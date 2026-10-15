@@ -36,7 +36,7 @@ docker compose up -d
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Conduza pesquisas detalhadas de palavras-chave para meu site usando recursos OpenSEO e analise meus dados de classificação atuais para fornecer sugestões de melhorias.
 

@@ -28,7 +28,7 @@ git clone https://github.com/permissionlesstech/bitchat-android.git
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bitchat Android uygulamasını kullanıyorum. Bluetooth üzerinden çevremdeki diğer kullanıcılarla güvenli bir şekilde nasıl mesajlaşabilirim? Uygulama içerisindeki /j, /m ve /w gibi komutları kullanarak bir kanala nasıl katılırım ve özel mesaj gönderirim? Lütfen bu komutların işlevlerini ve mesh ağının çalışma mantığını basitçe açıkla.
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bitchat-android/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

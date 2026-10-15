@@ -1,6 +1,6 @@
 # Data Processing nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 3 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 3 Eylül 2026*
 
 Ham verinin toplanıp anlamlı ve kullanılabilir bilgilere dönüştürülmesi sürecidir.
 
@@ -38,8 +38,8 @@ Genellikle veri hatları (pipeline) kullanılarak tamamen otomatikleştirilir.
 - [BI](https://trescout.com/dictionary/bi/)
 - [Knowledge Graph](https://trescout.com/dictionary/knowledge-graph/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/data-processing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

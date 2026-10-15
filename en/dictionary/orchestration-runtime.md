@@ -1,6 +1,6 @@
 # What is Orchestration Runtime?
 
-*Dictionary · AI · Last updated: September 27, 2026*
+*AI · Last updated: September 27, 2026*
 
 It is the runtime environment that manages complex artificial intelligence workflows and organizes the sequence of different tasks.
 

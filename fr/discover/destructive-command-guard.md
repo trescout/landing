@@ -29,7 +29,7 @@ curl -fsSL "https://raw.githubusercontent.com/Dicklesworthstone/destructive_comm
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise Destructive Command Guard pour contrôler les commandes que mon agent IA exécute sur mon système. Veuillez tenir compte des règles de sécurité avant d'exécuter des commandes dangereuses de suppression de git, de système de fichiers ou de base de données. Si vous devez prendre une action risquée, informez-moi d'abord et obtenez mon approbation.
 

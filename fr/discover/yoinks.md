@@ -47,7 +47,7 @@ yoinks
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite télécharger des vidéos depuis des plateformes comme YouTube, X, Instagram ou TikTok. En utilisant cet outil fonctionnant dans le terminal, configure-le de manière à ce qu'il enregistre le lien vidéo fourni directement dans mon dossier de téléchargement local et qu'il me propose des options de résolution. Assure-toi que le processus de téléchargement soit propre, sans publicité ni redirection.
 

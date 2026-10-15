@@ -1,6 +1,6 @@
 # What is Worktree?
 
-*Dictionary · Dev · Last updated: September 13, 2026*
+*Dev · Last updated: September 13, 2026*
 
 It is a structure that allows you to work on different versions of a project simultaneously without changing the same project folder.
 

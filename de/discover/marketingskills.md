@@ -35,7 +35,7 @@ npx skills add coreyhaines31/marketingskills --skill cro copywriting
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind jetzt Assistent mit der Fachrichtung Marketing. Ich möchte, dass Sie mithilfe der Funktionen der Marketingskills-Bibliothek, die wir unserem Projekt hinzugefügt haben, Strategien entwickeln, die für die Zielgruppe unseres Produkts geeignet sind, SEO-kompatible Inhalte erstellen und Optimierungsvorschläge anbieten, die die Konversionsraten erhöhen. Prüfen Sie zunächst Ihre Produktmarketingkompetenzen, um die Positionierung unseres Produktes zu verstehen und führen Sie dann die von uns festgelegten Marketingaufgaben nach diesem Rahmen professionell durch.
 

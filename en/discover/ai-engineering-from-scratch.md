@@ -27,7 +27,7 @@ Each lesson follows the same cycle: analyze the problem, do the math, write the 
 
 ## How to use it with AI?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I'll give you the content of a 20-phase, 500+ lesson open source curriculum called 'ai-engineering-from-scratch' that teaches AI engineering from scratch. Review the README and the roadmap and it gives me a personal study plan, in Turkish, divided into weeks: which phase should I start from, what are the prerequisites and in what order should I proceed? My level: [eg. beginner].
 

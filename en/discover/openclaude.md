@@ -36,7 +36,7 @@ openclaude
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to optimize my terminal-based workflow while working on OpenClaude. Create a work plan that will increase my productivity in coding tasks by using file tools, the grep search feature, and MCP (Model Context Protocol) integration. Also, explain step-by-step how to configure my provider settings using the `/provider` command and how to include GitHub models.
 

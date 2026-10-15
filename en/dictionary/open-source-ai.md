@@ -1,6 +1,6 @@
 # What is Open Source AI?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 Open source AI (open source artificial intelligence in Turkish) are models whose weights and codes can be examined and run by anyone.
 

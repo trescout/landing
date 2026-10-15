@@ -1,6 +1,6 @@
 # O que é AI Video Editing?
 
-*Glossário · AI · Última atualização: 2 de agosto de 2026*
+*AI · Última atualização: 2 de agosto de 2026*
 
 É o processo de realizar automaticamente operações como cortar, adicionar efeitos ou aprimorar imagens em vídeos com o auxílio da inteligência artificial.
 

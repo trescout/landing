@@ -37,7 +37,7 @@ semantica
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Transforme meus dados em um gráfico de conhecimento estruturado usando Semantica. Manter os dados em uma estrutura relacional para tornar meus processos de decisão rastreáveis, para que eu possa auditar e relatar de forma transparente os motivos das decisões tomadas pelo meu sistema de IA.
 

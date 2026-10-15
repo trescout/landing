@@ -1,6 +1,6 @@
 # What is Systems Programming?
 
-*Dictionary · Dev · Last updated: September 28, 2026*
+*Dev · Last updated: September 28, 2026*
 
 It is the process of developing core software, such as operating systems and drivers, that communicates directly with hardware.
 

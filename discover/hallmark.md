@@ -29,7 +29,7 @@ npx skills add nutlope/hallmark
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Hallmark stil dosyasını kullanarak yapay zekâ tarafından üretilmiş gibi görünmeyen, özgün bir arayüz tasarımı oluştur. Tasarımda standart şablonlardan kaçın, yirmi farklı tema arasından uygun olanı seç ve elli yedi maddelik kalite testlerinden geçecek şekilde özgün bir yapı kur.
 
@@ -48,4 +48,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hallmark/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

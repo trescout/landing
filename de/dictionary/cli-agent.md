@@ -1,6 +1,6 @@
 # Was ist CLI Agent?
 
-*Glossar · Dev · Zuletzt aktualisiert: 21. Juli 2026*
+*Dev · Zuletzt aktualisiert: 21. Juli 2026*
 
 > Command Line Interface Agent
 

@@ -40,7 +40,7 @@ npx -y @modelcontextprotocol/server-memory
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mein KI-Modell über Model Context Protocol (MCP)-Referenzserver an externe Datenquellen anbinden. Leiten Sie mich zunächst dazu an, den Speicher-Server mit dem Befehl npx -y @modelcontextprotocol/server-memory zu starten und die Konfiguration des Desktop-Clients vorzunehmen. Erklären Sie außerdem die Schritte zur Bereitstellung des Zugriffs auf Code-Repositorys mit dem Befehl uvx mcp-server-git.
 

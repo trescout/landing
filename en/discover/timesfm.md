@@ -40,7 +40,7 @@ git clone https://github.com/google-research/timesfm.git
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to do time series forecasting using the TimesFM library. How can I configure the 200M parameter structure with version 2.5 of this basic model developed by Google? How should I determine max_context and max_horizon values, especially during the compile phase of the model, and in what format should I provide data input to the forecast function? Can you explain with an example code structure?
 

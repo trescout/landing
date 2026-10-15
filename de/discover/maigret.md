@@ -36,7 +36,7 @@ maigret kullanici-adi
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Maigret-Tool einen umfassenden Scan des digitalen Fußabdrucks eines Zielbenutzernamens durchführen. Bitte erläutern Sie den grundlegenden Befehl, mit dem ich das Vorhandensein dieses Benutzernamens auf mehr als 3000 Websites überprüfen kann, und die Parameter, die ich zum Melden der erhaltenen Daten verwenden kann.
 

@@ -1,6 +1,6 @@
 # Was ist Agentic System?
 
-*Glossar · AI · Zuletzt aktualisiert: 21. Juni 2026*
+*AI · Zuletzt aktualisiert: 21. Juni 2026*
 
 Autonome Strukturen, die selbstständig Entscheidungen treffen und Maßnahmen ergreifen, um Ziele ohne menschliches Eingreifen zu erreichen.
 

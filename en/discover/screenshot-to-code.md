@@ -35,7 +35,7 @@ pnpm dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Analyze the screenshot and create a clean, functional code structure that perfectly reflects the design in the image. Prepare the output in HTML or React format using Tailwind CSS. Extract real logos and assets from the image to include in the code, and code all elements of the design in a responsive manner.
 

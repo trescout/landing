@@ -51,7 +51,7 @@ launch.bat
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Modly uygulamasını kullanarak bir görseli 3D modele dönüştürmek istiyorum. Uygulama içerisinde 'Workflows' sekmesine giderek 'Image -> Generate Mesh -> Add to Scene' akışını kurmama yardımcı ol. Ardından 'Generate' sekmesinden ilgili iş akışını seçerek 3D model üretimini başlatmamı sağla. Eğer bir hata alırsam 'Settings/Logs/Errors' kısmından sorunu nasıl analiz edebilirim?
 
@@ -73,4 +73,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/modly/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

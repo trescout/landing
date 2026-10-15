@@ -30,7 +30,7 @@ comfy install
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte einen knotenbasierten Workflow für meinen visuellen Produktionsprozess erstellen. Bitte entwerfen Sie eine modulare Struktur mit logischen Verbindungen vom Eingabeknoten bis zum Ausgang, die es mir ermöglicht, mithilfe von Modellen wie Stable Diffusion oder Flux ein Bild in professioneller Qualität zu erzielen. Erklären Sie Schritt für Schritt die grundlegenden Knoten, Modellladeschritte und Parameteroptimierungen, die ich benötige.
 

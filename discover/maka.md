@@ -45,7 +45,7 @@ npm run cli:dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Maka çalışma alanında bir projeyi analiz etmen, gerekli araçları kullanarak dosyaları düzenlemen ve yaptığın tüm işlemleri izlenebilir bir kayıt günlüğünde saklaman gerekiyor. İş akışın boyunca izinleri kontrol et, model mesajlarını koru ve hata durumunda süreci kurtarılabilir bir şekilde yönet.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/maka/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

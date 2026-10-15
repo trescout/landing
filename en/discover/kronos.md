@@ -43,7 +43,7 @@ This is a research model; It is not investment advice or a ready-made earning to
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the Kronos financial forecast model: download the repository and run 'pip install -r requirements.txt' in it, then run the script 'python examples/prediction_example.py' to generate a price forecast on K-line (candle chart) data and graph the result.
 

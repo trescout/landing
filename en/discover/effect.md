@@ -29,7 +29,7 @@ npm install effect
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to include the Effect library in my TypeScript-based project. Perform the necessary installation using the 'npm install effect' command and ensure that the 'strict' type-checking setting is enabled in 'tsconfig.json'.
 

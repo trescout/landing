@@ -43,7 +43,7 @@ omh setup
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale e configure o plugin Oh My Hermes no Hermes Agent. Durante o processo de instalação, utilize o instalador apropriado para o sistema operacional, conclua a configuração interativa do modelo, realize a conversa da cadeia de modelos e execute as etapas do 'doctor'. Mantendo a configuração atual do Hermes, aplique apenas as alterações de instalação documentadas e relate o resultado da operação.
 

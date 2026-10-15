@@ -33,7 +33,7 @@ npm install @zvec/zvec
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich muss eine Sammlung mit der Zvec-Bibliothek erstellen. Können Sie Beispielcode in Python erstellen, der es mir ermöglicht, ein Schema zu definieren, diesem Schema entsprechende Vektordaten hinzuzufügen und dann mit einer bestimmten Vektorabfrage zu suchen? Bitte verwenden Sie eine Struktur, die den Dateipfad angibt, damit die Daten dauerhaft bleiben.
 

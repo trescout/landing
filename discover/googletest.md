@@ -61,7 +61,7 @@ Modern C++ projelerinde sahte nesnelerle bağımlılıkları yalıtarak test yaz
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Modern bir C++ projesinde GoogleTest ve GoogleMock kullanarak bir veri ayrıştırıcı (parser) sınıfı için birim testleri yazmak istiyorum. CMakeLists.txt dosyamı nasıl yapılandıracağımı, örnek bir TEST_F test fikstürünü ve MOCK_METHOD ile sahte nesne oluşturup çağrı beklentilerini nasıl doğrulayacağımı kod örnekleriyle açıklar mısın?
 
@@ -94,4 +94,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/googletest/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

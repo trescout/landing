@@ -1,6 +1,6 @@
 # Qu'est-ce que CLI ?
 
-*Glossaire · Dev · Dernière mise à jour : 3 juin 2026*
+*Dev · Dernière mise à jour : 3 juin 2026*
 
 > Command Line Interface
 

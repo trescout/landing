@@ -49,7 +49,7 @@ cn
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como assistente de desenvolvimento de software, oriente-me no processo de escrita de código usando modelos de linguagem nativa, reestruturação de blocos de código existentes e depuração. Analise os arquivos em meu ambiente de trabalho, forneça sugestões para melhorar a qualidade do código e me ajude a detectar erros lógicos complexos.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Agents Directory?
 
-*Glosario · AI · Última actualización: 11 de octubre de 2026*
+*AI · Última actualización: 11 de octubre de 2026*
 
 Es una estructura de carpetas especializada en proyectos de software que mantiene unidos los comportamientos, las herramientas y las reglas de los agentes de inteligencia artificial.
 

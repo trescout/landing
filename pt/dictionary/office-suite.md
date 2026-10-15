@@ -1,6 +1,6 @@
 # O que é Office Suite?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Um pacote de escritório (office suite) é um conjunto de softwares que reúne documentos, planilhas e apresentações sob uma mesma plataforma.
 

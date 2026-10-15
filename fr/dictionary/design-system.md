@@ -1,6 +1,6 @@
 # Qu'est-ce que Design System ?
 
-*Glossaire · Dev · Dernière mise à jour : 2 juillet 2026*
+*Dev · Dernière mise à jour : 2 juillet 2026*
 
 Il s'agit de l'ensemble des normes de conception et des composants utilisés lors du développement d'applications.
 

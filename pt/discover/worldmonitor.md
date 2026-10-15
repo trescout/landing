@@ -43,7 +43,7 @@ npm run dev:energy     # energy.worldmonitor.app
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Deixe-me analisar feeds de notícias globais, desenvolvimentos geopolíticos e dados de infraestrutura usando a ferramenta Worldmonitor. Identifique correlações entre eventos militares, econômicos e ambientais sintetizando mais de 500 fontes de notícias. Desenvolva consciência situacional e oriente a visualização de fluxos de dados complexos usando dados como índice de instabilidade do país e sinais do mercado financeiro.
 

@@ -43,7 +43,7 @@ npx @mobilenext/mobile-mcp@latest
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 List the applications on the connected mobile devices and scan the elements on the screen using the Model Context Protocol server that communicates with the mobile development tools on my computer.
 

@@ -44,7 +44,7 @@ python demo.py --model_path /path/to/lingbot-map-long.pt \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 LingBot-Map kullanarak akış halindeki verilerden 3D sahne oluşturmak istiyorum. Kurulumu tamamladım ve model dosyam hazır. Courthouse örneğini çalıştırmak için gerekli olan komutu kullanarak, yerel tarayıcımda görselleştirme arayüzünü nasıl başlatabilirim?
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/lingbot-map/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

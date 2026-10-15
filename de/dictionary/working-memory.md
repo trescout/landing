@@ -1,6 +1,6 @@
 # Was ist Working Memory in der KI?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 > Englisch: Working Memory · Wortherkunft: altenglisch weorc (Werk/Arbeit) + lateinisch memoria (Gedächtnis)
 

@@ -1,6 +1,6 @@
 # ¿Qué es Coding Assistants?
 
-*Glosario · Dev · Última actualización: 18 de septiembre de 2026*
+*Dev · Última actualización: 18 de septiembre de 2026*
 
 Son asistentes basados ​​en inteligencia artificial que aceleran la escritura de código, depuran y ofrecen sugerencias durante el proceso de desarrollo de software.
 

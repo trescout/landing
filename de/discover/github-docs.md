@@ -19,7 +19,7 @@ GitHub Docs ist ein Open-Source-Repository, das den Quellcode der Dokumentation 
 
 ## Wie nutzt man es mit KI?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Dieses Repository (github/docs) ist das Quell-Repository für die offizielle Open-Source-Dokumentation von GitHub. Wenn ich mir die Inhaltsstruktur und den Beitragsleitfaden anschaue, erhalte ich eine Roadmap auf Türkisch: Wie kann ich zu dieser Dokumentation beitragen, wo finde ich die Inhaltsdateien und welche Schritte muss ich für meinen ersten Beitrag befolgen?
 

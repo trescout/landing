@@ -42,7 +42,7 @@ ov chat   # in another terminal
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Construire une gestion de contexte pour un agent d'intelligence artificielle à l'aide de la base de données OpenViking. Il structure les informations via le protocole viking:// en séparant les informations en couches de résumé L0, d'aperçu L1 et de détail L2. En plaçant la mémoire, les ressources et les capacités de l'agent dans ce système de fichiers virtuel, cela lui permet de parcourir les répertoires pendant l'interrogation et de créer une mémoire à long terme en apprenant des sessions passées.
 

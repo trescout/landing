@@ -19,7 +19,7 @@ GitHub Docs é um repositório de código aberto que contém o código-fonte da 
 
 ## Como usá-lo com IA?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Este repositório (github/docs) é o repositório fonte da documentação oficial de código aberto do GitHub. Examine a estrutura do conteúdo e o guia de contribuição e ele me dará um roteiro em turco: como posso contribuir para esta documentação, onde encontrar os arquivos de conteúdo e quais etapas preciso seguir para minha primeira contribuição.
 

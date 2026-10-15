@@ -28,7 +28,7 @@ npx skills add K-Dense-AI/scientific-agent-skills
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Start using the library's 166 ready-made skills and database connections to help me with my scientific research processes.
 

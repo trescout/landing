@@ -1,6 +1,6 @@
 # ¿Qué es Text Generation Model?
 
-*Glosario · AI · Última actualización: 17 de agosto de 2026*
+*AI · Última actualización: 17 de agosto de 2026*
 
 Es un modelo de inteligencia artificial que produce textos significativos siguiendo una oración o tema inicial determinado.
 

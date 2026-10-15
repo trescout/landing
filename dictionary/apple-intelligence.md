@@ -1,6 +1,6 @@
 # Apple Intelligence nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 5 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 5 Ekim 2026*
 
 Apple ekosistemindeki cihazlara entegre çalışan, gizlilik odaklı kişisel yapay zekâ sistemidir.
 
@@ -39,8 +39,8 @@ Hayır: Buluta giden istekler özel sunucu mimarisinde anlık olarak işlenir ve
 - [Local-first](https://trescout.com/dictionary/local-first/)
 - [Generative AI](https://trescout.com/dictionary/generative-ai/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/apple-intelligence/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

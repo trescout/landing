@@ -1,6 +1,6 @@
 # Hive Mind Communication nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 26 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 26 Temmuz 2026*
 
 Bir grubun üyelerinin bilgiyi anlık paylaşarak tek bir zihin gibi hareket etmesini sağlayan iletişim yöntemidir.
 
@@ -42,8 +42,8 @@ Bilgi her yere aktığı için, bu sistemlerde verinin kim tarafından görülec
 
 - [Buzz](https://trescout.com/discover/buzz/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/hive-mind-communication/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

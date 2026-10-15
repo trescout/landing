@@ -1,6 +1,6 @@
 # ¿Qué es Compile-time?
 
-*Glosario · Dev · Última actualización: 7 de junio de 2026*
+*Dev · Última actualización: 7 de junio de 2026*
 
 Es la fase de preparación donde el código escrito se traduce a un lenguaje que la computadora pueda entender y se verifican los errores.
 

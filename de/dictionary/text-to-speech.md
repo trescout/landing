@@ -1,6 +1,6 @@
 # Was ist Text-to-Speech?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 > TTS
 

@@ -1,6 +1,6 @@
 # Agent Workspace nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 4 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 4 Ekim 2026*
 
 Yapay zekâ ajanlarının kendilerine verilen görevleri yerine getirmek için dosya oluşturup düzenleyebildikleri ve araçları çalıştırabildikleri güvenli dijital çalışma alanıdır.
 
@@ -43,8 +43,8 @@ Evet, TreScout entegrasyonları sayesinde ajanın çalışma alanındaki tüm do
 
 - [Cloudflare Os](https://trescout.com/discover/cloudflare-os/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-workspace/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

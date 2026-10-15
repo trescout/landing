@@ -38,7 +38,7 @@ cd my-project
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir AI kodlama ajanı kullanırken, projenin temel ilkelerini belirlemek için /speckit.constitution komutunu kullanarak kalite ve performans standartlarını tanımla. Ardından /speckit.specify ile inşa etmek istediğin uygulamanın hedeflerini açıkla, /speckit.plan ile teknik mimarini belirt ve son olarak /speckit.tasks ile görev listesini oluşturup /speckit.implement komutuyla uygulamayı geliştir.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/spec-kit/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

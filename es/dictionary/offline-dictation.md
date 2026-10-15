@@ -1,6 +1,6 @@
 # ¿Qué es Offline Dictation?
 
-*Glosario · AI · Última actualización: 30 de junio de 2026*
+*AI · Última actualización: 30 de junio de 2026*
 
 Es una tecnología que convierte instantáneamente palabras habladas en texto sin necesidad de conexión a Internet.
 

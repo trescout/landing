@@ -27,7 +27,7 @@ docker run --gpus all -it cupy/cupy
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die GPU-Beschleunigung in meinem Python-Code anstelle von NumPy oder SciPy nutzen. Wie kann ich meine vorhandenen NumPy-Codes mit CuPy auf der GPU ausführen und Low-Level-CUDA-Funktionen wie RawKernels in mein Projekt integrieren?
 

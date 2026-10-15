@@ -1,6 +1,6 @@
 # Texture Painting nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 12 Eylül 2026*
+*Geliştirme · Son güncelleme: 12 Eylül 2026*
 
 Üç boyutlu modellerin yüzeyini dijital fırçalarla boyayarak onlara renk, doku ve detay kazandırma sürecidir.
 
@@ -38,8 +38,8 @@ Modellerin dijital dünyada gerçekçi ve ikna edici görünmesini sağlayan en 
 - [Rendering](https://trescout.com/dictionary/rendering/)
 - [Assets](https://trescout.com/dictionary/assets/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/texture-painting/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

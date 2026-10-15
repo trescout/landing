@@ -1,6 +1,6 @@
 # Was ist VPN?
 
-*Glossar · Dev · Zuletzt aktualisiert: 11. Juni 2026*
+*Dev · Zuletzt aktualisiert: 11. Juni 2026*
 
 > Virtual Private Network
 

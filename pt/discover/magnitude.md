@@ -30,7 +30,7 @@ magnitude setup
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Configure modelos locais para mim com o Magnitude CLI. Instale-o com `npm i -g @magnitudedev/cli` (ou meu gerenciador de pacotes), depois execute `magnitude docs onboarding` e siga as instruções.
 

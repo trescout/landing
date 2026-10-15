@@ -1,6 +1,6 @@
 # Native Binaries nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 6 Ekim 2026*
+*Geliştirme · Son güncelleme: 6 Ekim 2026*
 
 Belirli bir işletim sistemi ve işlemci mimarisi için doğrudan çalıştırılabilir şekilde derlenmiş program dosyalarıdır.
 
@@ -43,8 +43,8 @@ Rust, C++, Go ve Zig gibi sistem programlama dilleri doğrudan yerel ikili dosya
 
 - [REA](https://trescout.com/discover/rea/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/native-binaries/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

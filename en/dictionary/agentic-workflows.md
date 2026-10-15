@@ -1,6 +1,6 @@
 # What is Agentic Workflows?
 
-*Dictionary · AI · Last updated: June 27, 2026*
+*AI · Last updated: June 27, 2026*
 
 Artificial intelligence tools make their own decisions and complete a job end-to-end without human intervention.
 

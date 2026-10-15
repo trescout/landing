@@ -1,6 +1,6 @@
 # What is Kernels?
 
-*Dictionary · Dev · Last updated: July 30, 2026*
+*Dev · Last updated: July 30, 2026*
 
 The most basic part of the operating system that manages the communication between the computer's hardware and software.
 

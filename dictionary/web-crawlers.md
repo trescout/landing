@@ -1,6 +1,6 @@
 # Web Crawlers nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 31 Ağustos 2026*
+*Veri & Altyapı · Son güncelleme: 31 Ağustos 2026*
 
 İnternetteki sayfaları otomatik olarak gezip verileri kaydeden yazılım botlarıdır.
 
@@ -33,8 +33,8 @@ Site sahipleri 'robots.txt' dosyası ile botların hangi kısımları gezip geze
 - [Web Scraping](https://trescout.com/dictionary/web-scraping/)
 - [Data Pipeline](https://trescout.com/dictionary/data-pipeline/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/web-crawlers/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

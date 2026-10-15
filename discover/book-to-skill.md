@@ -39,7 +39,7 @@ book-to-skill --check                          # report which extractors are ins
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu teknik kaynağı bir yetenek paketi olarak kullanıyorum. Lütfen içeriği analiz ederken sadece dönüştürülen bölümlere ve yapılandırılmış dosyalara sadık kal. Bir soru sorduğumda ilgili bölümü referans alarak yanıt ver ve halüsinasyondan kaçınarak sadece belgedeki teknik bilgileri kullan.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/book-to-skill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

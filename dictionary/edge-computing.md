@@ -1,6 +1,6 @@
 # Edge Computing nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 23 Haziran 2026*
+*Geliştirme · Son güncelleme: 23 Haziran 2026*
 
 Verilerin merkezi bir sunucuya gönderilmeden, verinin üretildiği cihazın kendisinde veya çok yakınında işlenmesidir.
 
@@ -38,8 +38,8 @@ Veri cihazdan çıkmadığı için mahremiyet açısından genellikle daha güve
 - [Physical AI](https://trescout.com/dictionary/physical-ai/)
 - [Autonomous Robotics](https://trescout.com/dictionary/autonomous-robotics/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/edge-computing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -34,7 +34,7 @@ python3 -m http.server 8000
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Usando a interface G0DM0D3, ative o mecanismo ULTRAPLINIAN, que executa vários modelos por meio dos provedores de modelos que eu especifico (OpenRouter, Venice ou servidor local). Aplique técnicas de mixagem de entrada de língua de cobra para minhas investigações da equipe vermelha e configure automaticamente os parâmetros de amostragem mais adequados ao contexto de consulta com o recurso AutoTune.
 

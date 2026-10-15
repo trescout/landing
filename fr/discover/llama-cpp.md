@@ -40,7 +40,7 @@ llama-cli -m my_model.gguf
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter de grands modèles de langage localement sur mon ordinateur. Comment puis-je exécuter mon propre fichier de modèle à l'aide de l'outil llama.cpp avec la commande «llama-cli -m my_model.gguf» ou télécharger et lancer un modèle directement depuis Hugging Face avec la commande «llama-cli -hf ggml-org/gemma-3-1b-it-GGUF» ? Pouvez-vous m'aider avec la configuration matérielle requise ou la sélection du modèle auquel je dois prêter attention dans ce processus ?
 

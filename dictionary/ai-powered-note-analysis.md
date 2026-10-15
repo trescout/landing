@@ -1,6 +1,6 @@
 # AI-powered Note Analysis nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 5 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 5 Haziran 2026*
 
 Tutulan notlardaki önemli bilgilerin yapay zekâ tarafından bulunup özetlenmesi veya düzenlenmesi.
 
@@ -42,8 +42,8 @@ OCR teknolojisi ile birleştirildiğinde evet, edebilir.
 
 - [Open Notebook](https://trescout.com/discover/open-notebook/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-powered-note-analysis/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

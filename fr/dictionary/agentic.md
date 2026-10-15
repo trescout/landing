@@ -1,6 +1,6 @@
 # Qu'est-ce que Agentic ?
 
-*Glossaire · AI · Dernière mise à jour : 25 juillet 2026*
+*AI · Dernière mise à jour : 25 juillet 2026*
 
 C’est la capacité d’une intelligence artificielle à planifier et agir seule, sans intervention humaine, en cohérence avec la cible qui lui est assignée.
 

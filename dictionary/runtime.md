@@ -1,6 +1,6 @@
 # Runtime ne demek, nedir ve nasıl çalışır?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Runtime (çalışma zamanı), bir programın derleme evresinden sonra bilgisayar işlemcisinde ve belleğinde fiilen çalıştırıldığı zaman dilimini ve bu yürütmeyi mümkün kılan yazılımsal altyapıyı (Runtime Environment) ifade eder.
 
@@ -66,8 +66,8 @@ JIT derleyici, program çalışırken sık kullanılan kod bloklarını ("hot pa
 - [Onnxruntime](https://trescout.com/discover/onnxruntime/)
 - [OpenShell](https://trescout.com/discover/openshell/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/runtime/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

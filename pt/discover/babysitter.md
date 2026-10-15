@@ -19,7 +19,7 @@ Babysitter fornece um mecanismo de controle determinístico para que uma força 
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o plugin Babysitter no Claude Code usando os comandos 'claude plugin marketplace add a5c-ai/babysitter' seguido de 'claude plugin install --scope user babysitter@a5c.ai' e, em seguida, inicie um fluxo de trabalho controlado passo a passo com o comando '/babysitter:call'.
 

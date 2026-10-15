@@ -1,6 +1,6 @@
 # What is Coding Assistants?
 
-*Dictionary · Dev · Last updated: September 18, 2026*
+*Dev · Last updated: September 18, 2026*
 
 These are AI-based assistants that accelerate coding, debug, and provide suggestions during the software development process.
 

@@ -1,6 +1,6 @@
 # O que é Application?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Aplicativo é um software de usuário que executa um trabalho específico.
 

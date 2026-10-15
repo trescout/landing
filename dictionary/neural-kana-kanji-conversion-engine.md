@@ -1,6 +1,6 @@
 # Neural Kana-Kanji Conversion Engine nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 2 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 2 Temmuz 2026*
 
 Japonca fonetik yazımı, anlamlı karakterlere dönüştüren yapay zekâ tabanlı bir yazılım motorudur.
 
@@ -38,8 +38,8 @@ Japoncada aynı sesle okunan ama farklı anlamlara gelen çok fazla kelime oldu�
 
 - [Karukan](https://trescout.com/discover/karukan/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/neural-kana-kanji-conversion-engine/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Bluetooth Mesh?
 
-*Dictionary · Dev · Last updated: July 27, 2026*
+*Dev · Last updated: July 27, 2026*
 
 Wireless communication technology that allows multiple devices to connect to each other and establish a network in a wide area.
 

@@ -43,7 +43,7 @@ llmfit
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Analysieren Sie die Hardwarespezifikationen meines Systems und empfehlen Sie basierend auf meiner verfügbaren RAM-, CPU- und GPU-Kapazität die besten KI-Modelle für die Ausführung. Sortieren Sie die Modelle nach Leistung, Speicherverbrauch und Qualitätskriterien und listen Sie diejenigen auf, die am besten zu mir passen.
 

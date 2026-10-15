@@ -44,7 +44,7 @@ swc index.ts -o index.js
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I have a web development project and I want to speed up my compilation processes. How can I process my JavaScript and TypeScript files more efficiently using the SWC (Speedy Web Compiler) tool written in Rust? How can I configure this tool according to my project's needs and what should I consider when switching from other tools like Babel?
 

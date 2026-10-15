@@ -1,6 +1,6 @@
 # O que é Looped Language Models?
 
-*Glossário · AI · Última atualização: 28 de setembro de 2026*
+*AI · Última atualização: 28 de setembro de 2026*
 
 São modelos de inteligência artificial cíclicos que realizam raciocínio passo a passo usando suas próprias saídas geradas como entrada novamente.
 

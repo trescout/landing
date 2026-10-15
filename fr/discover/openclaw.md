@@ -36,7 +36,7 @@ npm install -g openclaw@latest --allow-scripts=openclaw
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite installer l'assistant d'intelligence artificielle OpenClaw sur mon ordinateur. Pouvez-vous m'aider étape par étape à finaliser l'installation en exécutant le script de téléchargement curl adapté à mon système d'exploitation ou la commande d'installation globale via npm, puis à lancer le premier assistant de configuration ?
 

@@ -42,7 +42,7 @@ npm run dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim için modern bir web projesi başlatmak istiyorum. Vite kullanarak geliştirme ortamımı nasıl kurabilirim ve projemi yayına hazırlamak için hangi adımları izlemeliyim? Hızlı geliştirme ve optimize edilmiş derleme süreçleri için temel yapılandırma önerilerini açıkla.
 
@@ -61,4 +61,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vite/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is AGI?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 > Artificial General Intelligence
 

@@ -1,6 +1,6 @@
 # Live Transcription nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 6 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 6 Temmuz 2026*
 
 Konuşulan sesin anlık olarak metne dönüştürülüp eşzamanlı olarak ekranda gösterilmesi sürecidir.
 
@@ -38,8 +38,8 @@ Modelin eğitildiği dil desteğine bağlıdır, güncel sistemler artık birço
 - [Transcription](https://trescout.com/dictionary/transcription/)
 - [AI-powered Note Analysis](https://trescout.com/dictionary/ai-powered-note-analysis/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/live-transcription/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

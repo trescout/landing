@@ -1,6 +1,6 @@
 # O que é City-building Game?
 
-*Glossário · Dev · Última atualização: 11 de outubro de 2026*
+*Dev · Última atualização: 11 de outubro de 2026*
 
 É um gênero de jogo de simulação de estratégia em que os jogadores constroem uma cidade do zero, fazendo-a crescer através da gestão de infraestrutura e recursos.
 

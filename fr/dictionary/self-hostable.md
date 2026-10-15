@@ -1,6 +1,6 @@
 # Qu'est-ce que Self-hostable ?
 
-*Glossaire · Dev · Dernière mise à jour : 7 juillet 2026*
+*Dev · Dernière mise à jour : 7 juillet 2026*
 
 Cela signifie qu'un logiciel peut être exécuté sur votre propre infrastructure au lieu de l'externaliser.
 

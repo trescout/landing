@@ -43,7 +43,7 @@ prefect server start
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to automate my data workflows using Python. Help me create a simple data pipeline using the flow and task decorators from the Prefect library. Explain with sample codes how I can integrate error management, scheduling and monitoring features, and how I can turn a Python file into a production-level workflow.
 

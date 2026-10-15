@@ -1,6 +1,6 @@
 # What is Syntax?
 
-*Dictionary · Dev · Last updated: September 5, 2026*
+*Dev · Last updated: September 5, 2026*
 
 These are the writing rules that must be followed for code to run without errors in a programming language.
 

@@ -48,7 +48,7 @@ iroh node id
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar uma conexão de rede baseada em switch usando a biblioteca Iroh. Você pode criar um exemplo básico de estrutura de código que mostre como posso criar um endpoint em Rust, conectar-se a outro endpoint por meio de chave pública e iniciar um fluxo de dados seguro com o protocolo QUIC?
 

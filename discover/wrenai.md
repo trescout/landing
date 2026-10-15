@@ -36,7 +36,7 @@ npx skills add Canner/WrenAI            # auto-detects Claude Code, Cursor, Clin
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 WrenAI kullanarak veritabanı bağlantımı yapılandır, proje iskeletini oluştur ve ilk sorgumu çalıştır. Ardından raw klasöründeki iş mantığı verilerini projeme dahil ederek bağlamı zenginleştir.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wrenai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

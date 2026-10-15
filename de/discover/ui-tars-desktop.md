@@ -41,7 +41,7 @@ agent-tars --provider volcengine --model doubao-1-5-thinking-vision-pro-250428 -
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Beschreiben Sie eine komplexe Aufgabe, die ich auf meinem Computer oder Browser ausführen soll. Beispielsweise kann es sein, dass ich Sie auffordere, eine bestimmte Website aufzurufen und Daten einzugeben oder einen Flugbuchungsprozess zu verwalten. Bitte analysieren Sie die visuelle Schnittstelle und führen Sie die Schritte selbstständig aus.
 

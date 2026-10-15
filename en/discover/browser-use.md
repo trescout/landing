@@ -35,7 +35,7 @@ uv run agent.py
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 To automate browser-based operations, install the library with the `uv add browser-use` command, add your OpenAI API key to the .env file, and run the browser agent with the `uv run agent.py` command.
 

@@ -34,7 +34,7 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda yerel veya bulut tabanlı yapay zekâ modellerini çalıştırmak için Open WebUI kurmak istiyorum. Yazılım paketleme aracı Docker üzerinden `docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main` komutunu kullanarak ya da Python tarafında `pip install open-webui` komutu ile kurulumu nasıl tamamlayacağımı, arayüze tarayıcıdan nasıl erişeceğimi adım adım ve teknik terimleri basitleştirerek anlat.
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-webui/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

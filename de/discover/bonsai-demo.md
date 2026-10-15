@@ -47,7 +47,7 @@ BONSAI_MODEL=4B ./scripts/start_llama_server.sh
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe des Bonsai-Demo-Projekts KI-Modelle auf meinem lokalen Gerät ausführen. Nachdem ich das für die Installation erforderliche Git-Repository geklont habe, muss ich meine HuggingFace-Token-Informationen definieren und die Abhängigkeiten und Modelle mit dem Befehl ./setup.sh herunterladen. Dann kann ich mit dem Befehl ./scripts/start_llama_server.sh den lokalen Server hochfahren und über Port 8080 über meinen Browser mit der KI interagieren.
 

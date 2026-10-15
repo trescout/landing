@@ -49,7 +49,7 @@ omp completions fish > ~/.config/fish/completions/omp.fish
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich habe angefangen, das Oh My Pi-Tool auf meinem Terminal zu verwenden. Wie kann ich meinen Workflow optimieren, indem ich in meinen Projekten erweiterte Funktionen wie LSP-Unterstützung, Debugging und Subagentenverwaltung mit diesem KI-Codierungsagenten verwende? Erklären Sie Schritt für Schritt, wie Sie die integrierten Tools, die dieses Tool bietet, am effizientesten nutzen, insbesondere bei der Codebearbeitung, dem Lesen von Dateien und dem Debuggen.
 

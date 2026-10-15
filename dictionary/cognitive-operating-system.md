@@ -1,6 +1,6 @@
 # Cognitive Operating System nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 27 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 27 Haziran 2026*
 
 İnsan zihninin çalışma prensiplerini taklit ederek bilgiyi işleyen ve karar alma süreçlerini yöneten gelişmiş yazılım mimarisidir.
 
@@ -38,8 +38,8 @@ Geleneksel işletim sistemleriyle karıştırılabilir; bu sistem yazılım değ
 
 - [Zhangxuefeng Skill](https://trescout.com/discover/zhangxuefeng-skill/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/cognitive-operating-system/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

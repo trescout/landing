@@ -1,6 +1,6 @@
 # ¿Qué es Orchestration Runtime?
 
-*Glosario · AI · Última actualización: 27 de septiembre de 2026*
+*AI · Última actualización: 27 de septiembre de 2026*
 
 Es el entorno de trabajo el que gestiona flujos de trabajo complejos de IA y organiza la secuencia de diferentes tareas.
 

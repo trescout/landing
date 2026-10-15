@@ -30,7 +30,7 @@ herdr
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terminal üzerinde çalışan tüm yapay zekâ ajanlarımı tek bir merkezden yönetmek ve her birinin çalışma durumunu (bekliyor, çalışıyor, tamamlandı) anlık olarak görmek istiyorum. Herdr kullanarak bu ajanları farklı çalışma alanlarına ve sekmelere ayırıp, terminali kapatsam bile süreçlerin arka planda devam etmesini sağlayacak şekilde yapılandırmama yardımcı ol.
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/herdr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

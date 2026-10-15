@@ -15,7 +15,7 @@ FreeLLMAPI brings together 34 different free large language model providers unde
 
 ## What you get
 
-- 34 free model providers: Single-point access to dozens of free providers including Google Gemini, Groq, Cloudflare Workers AI and HuggingFace.
+- 34 free model providers: Single-point access to dozens of free providers including Google Gemini, Groq, Cloudflare Workers AI and Hugging Face.
 - OpenAI REST API compatibility: Ability to work with LangChain, LlamaIndex, and existing AI applications without changing code thanks to the /v1/chat/completions endpoint.
 - Smart routing and failure recovery: Automatic failover to an alternative provider when a provider reaches a rate limit or encounters an error.
 - Streaming (Server-Sent Events) support: The ability to receive model outputs in real-time, word by word as a stream.
@@ -57,7 +57,7 @@ curl http://localhost:3000/v1/chat/completions \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Could you explain with code examples how to run FreeLLMAPI on my local server using Docker, how to direct the OpenAI Node.js SDK to this local endpoint, and how to enable automatic fallback model usage when a provider errors out?
 

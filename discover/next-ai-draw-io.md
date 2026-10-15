@@ -39,7 +39,7 @@ npm run dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir akış şeması oluşturmanı istiyorum. Kullanıcı kimlik doğrulama sürecini giriş yapma, çok faktörlü doğrulama ve oturum yönetimi adımlarını içerecek şekilde görselleştir.
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/next-ai-draw-io/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

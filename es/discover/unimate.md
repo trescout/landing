@@ -36,7 +36,7 @@ python -m unimate.inference.sample \
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo animar mis modelos de personajes con diferentes estructuras esqueléticas en un formato estándar utilizando el proyecto UniMate? Explica paso a paso el proceso de creación de animaciones aprovechando el conjunto de datos UniML3D y los puntos de control preentrenados que ofrece el proyecto.
 

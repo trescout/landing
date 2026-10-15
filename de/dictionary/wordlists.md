@@ -1,6 +1,6 @@
 # Was ist Wordlists?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Wortliste (Wortliste auf Türkisch) ist die Liste der im Sicherheitstest getesteten Kandidaten.
 

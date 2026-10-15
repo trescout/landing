@@ -1,6 +1,6 @@
 # What is Refactoring?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Refactoring is the process of simplifying code while preserving its behavior.
 

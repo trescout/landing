@@ -34,7 +34,7 @@ brew install --cask tonhowtf/tap/omniget
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OmniGet uygulamasını kullanarak bir kursu veya videoyu nasıl indirebilirim? Uygulamanın içerisindeki yerleşik oynatıcıyı ve e-kitap okuyucuyu nasıl kullanırım? İndirme işlemlerini grafik arayüz üzerinden nasıl başlatıp yönetebileceğimi adım adım açıkla.
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/omniget/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

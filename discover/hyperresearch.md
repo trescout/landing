@@ -28,7 +28,7 @@ pip install hyperresearch && hyperresearch install
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir derin araştırma uzmanısın. Hyperresearch aracını kullanarak [ARAŞTIRMA KONUNUZU BURAYA YAZIN] hakkında kapsamlı bir rapor hazırla. Araştırma sürecinde tarafsız kal, tüm iddiaları kaynaklarla doğrula ve elde ettiğin verileri kalıcı bilgi tabanına ekle. Raporu oluştururken akademik ve teknik kaynakları önceliklendir, çelişkili bilgileri analiz et ve sonuçları net bir şekilde özetle.
 
@@ -47,4 +47,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hyperresearch/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

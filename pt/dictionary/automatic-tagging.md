@@ -1,6 +1,6 @@
 # O que é Automatic Tagging?
 
-*Glossário · Data · Última atualização: 22 de setembro de 2026*
+*Data · Última atualização: 22 de setembro de 2026*
 
 A rotulagem automática (em turco, otomatik etiketleme) é o processo de ler o conteúdo e aplicar etiquetas.
 

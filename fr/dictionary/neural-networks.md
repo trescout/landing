@@ -1,6 +1,6 @@
 # Qu'est-ce que Neural Networks ?
 
-*Glossaire · AI · Dernière mise à jour : 27 septembre 2026*
+*AI · Dernière mise à jour : 27 septembre 2026*
 
 Une structure d’intelligence artificielle qui traite les informations par couches, inspirée du fonctionnement du cerveau humain.
 

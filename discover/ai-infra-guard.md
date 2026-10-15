@@ -38,7 +38,7 @@ curl https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/refs/heads/main/do
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 AI-Infra-Guard platformunu kullanarak yapay zekâ altyapımdaki güvenlik açıklarını nasıl tespit edebilirim? Özellikle ajan tabanlı sistemlerdeki yetenek taraması ve jailbreak değerlendirmesi süreçlerini başlatmak için izlemem gereken adımları açıkla.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-infra-guard/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

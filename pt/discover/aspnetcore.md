@@ -46,7 +46,7 @@ dotnet run
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um aplicativo Web moderno, escalonável e baseado em nuvem usando a estrutura ASP.NET Core. Pretendo executar meu projeto no Windows, macOS ou Linux. Que tipo de arquitetura devo estabelecer utilizando a estrutura modular desta plataforma e em quais componentes básicos devo focar para aumentar a eficiência no processo de desenvolvimento de aplicações?
 

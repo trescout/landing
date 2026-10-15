@@ -36,7 +36,7 @@ curl -L "https://github.com/unclebob/swarm-forge/archive/refs/heads/${BRANCH}.ta
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yazılım geliştirme ekibinin parçasısın. Swarm Forge sisteminin kurallarına ve proje dizinindeki yapılandırma dosyalarına uyarak sana verilen görevi yerine getir. Görevini yaparken diğer ajanlarla iş birliği içinde çalış, Git çalışma ağaçlarını kullan ve belirlenen rol tanımlarına sadık kalarak kodun kalitesini, test edilebilirliğini ve mimari standartlarını koru.
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swarm-forge/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

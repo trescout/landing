@@ -1,6 +1,6 @@
 # Self-hosting nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 3 Haziran 2026*
+*Geliştirme · Son güncelleme: 3 Haziran 2026*
 
 Yazılımları kendi sunucularınızda veya bilgisayarlarınızda barındırma yöntemidir.
 
@@ -48,8 +48,8 @@ Evet, temel düzeyde sunucu yönetimi ve ağ bilgisi gerektirir.
 - [Self-Hosting-Guide](https://trescout.com/discover/self-hosting-guide/)
 - [OpenStock](https://trescout.com/discover/openstock/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/self-hosting/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

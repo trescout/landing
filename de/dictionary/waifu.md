@@ -1,6 +1,6 @@
 # Was ist Waifu?
 
-*Glossar · AI · Zuletzt aktualisiert: 19. September 2026*
+*AI · Zuletzt aktualisiert: 19. September 2026*
 
 Waifu ist ein beliebter Begriff, der in Anime, Manga und Videospielen fiktive Charaktere beschreibt, zu denen Benutzer eine emotionale Bindung aufbauen, während er in der Welt der künstlichen Intelligenz personalisierte virtuelle Begleiter (AI companion) bezeichnet.
 

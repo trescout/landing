@@ -33,7 +33,7 @@ vcpkg/vcpkg install libvpx libyuv opus aom
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite établir une connexion bureau à distance à l'aide de RustDesk. Comment puis-je configurer mon propre serveur pour assurer la sécurité de mes données et quels sont les paramètres de sécurité de base auxquels je dois prêter attention lors de la connexion ?
 

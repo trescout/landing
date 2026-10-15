@@ -42,7 +42,7 @@ ov chat   # in another terminal
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Construct context management for an artificial intelligence agent using the OpenViking database. It structures the information via the viking:// protocol by separating the information into L0 summary, L1 overview and L2 detail layers. By placing the agent's memory, resources, and capabilities in this virtual file system, it allows it to navigate directories during interrogation and create long-term memory by learning from past sessions.
 

@@ -34,7 +34,7 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to install Open WebUI to run local or cloud-based AI models on my computer. Explain step by step and simplifying technical terms how to complete the installation using the command `docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main` via the software packaging tool Docker or using the `pip install open-webui` command on the Python side, and how to access the interface from a browser.
 

@@ -38,7 +38,7 @@ graphify install               # register the skill with your AI assistant
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich habe dieses Projektverzeichnis mit Graphify in einen Wissensgraphen umgewandelt. Anhand dieser Struktur möchte ich nun, dass Sie die Beziehungen zwischen Konzepten im Projekt analysieren, erklären, wie komplexe Codeblöcke miteinander verbunden sind, und die Rolle von Masterknoten wie „APIRouter“ im System detailliert beschreiben. Bitte unterscheiden Sie zwischen Informationen, die direkt aus dem Quellcode stammen, und abgeleiteten Verbindungen, indem Sie bei Ihrer Analyse die Tags „EXTRACTED“ und „INFERRED“ berücksichtigen.
 

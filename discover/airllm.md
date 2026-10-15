@@ -33,7 +33,7 @@ pip install airllm
 
 ## Teknik mimari ve çalışma prensibi
 
-Geleneksel LLM çıkarım motorları (vLLM, Ollama veya HuggingFace) modelin tüm ağırlıklarının aynı anda GPU video belleğinde (VRAM) bulunmasını şart koşar. 70 milyar parametreli bir model 16-bit hassasiyette yaklaşık 140 GB, 4-bit kuantize edilmiş halde ise en az 35-40 GB VRAM gerektirir. **AirLLM** bu temel paradigmayı kökten değiştirir:
+Geleneksel LLM çıkarım motorları (vLLM, Ollama veya Hugging Face) modelin tüm ağırlıklarının aynı anda GPU video belleğinde (VRAM) bulunmasını şart koşar. 70 milyar parametreli bir model 16-bit hassasiyette yaklaşık 140 GB, 4-bit kuantize edilmiş halde ise en az 35-40 GB VRAM gerektirir. **AirLLM** bu temel paradigmayı kökten değiştirir:
 
 - **Transformer katmanlarının ardışık doğası:** Bir Transformer ağı 80 bağımsız katmandan oluşur. Her katman bir önceki katmanın tensör çıktısını girdi olarak alır. Modelin tamamının bellekte durması teorik olarak zorunlu değildir.
 - **Katman katman akış (Sequential Offloading):** AirLLM yalnızca o an hesaplanan tek bir katmanı VRAM'e taşır (yaklaşık 1.5 GB). İlgili katmanın ileri besleme (forward pass) hesabı bittiğinde bellek boşaltılır ve diskten sıradaki katman çekilir.
@@ -42,18 +42,18 @@ Geleneksel LLM çıkarım motorları (vLLM, Ollama veya HuggingFace) modelin tü
 
 ## Örnek Python kullanımı
 
-AirLLM, HuggingFace AutoModel API'sine çok benzer, son derece sade bir Python sözdizimine sahiptir:
+AirLLM, Hugging Face AutoModel API'sine çok benzer, son derece sade bir Python sözdizimine sahiptir:
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 AirLLM kütüphanesini kullanarak 70 milyar parametreli bir modeli (örneğin meta-llama/Llama-3-70B-Instruct) 4GB VRAM kapasitesine sahip yerel ekran kartımda çalıştırmak istiyorum. Kurulum için pip install airllm komutunu kullandım. Modelimi yüklemek, metin girdisiyle çıktı almak ve bellek taşmasını önlemek için gerekli olan Python kodunu açıklar mısın? Süreçte disk alanımın yeterli olduğundan emin olmam gerektiğini biliyorum, izlemem gereken adımları detaylandırır mısın?
 
 - **Kimin için:** Sınırlı donanım kaynaklarına sahip olup yüksek kapasiteli 70B ve 405B modellerini yerel olarak test etmek, veri madenciliği ve değerlendirme yapmak isteyen araştırmacılar içindir.
 - **Lisans:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
 - **Gereksinim:** Minimum 4 GB VRAM GPU ve yüksek hızlı NVMe SSD disk alanı
-- **Ekosistem:** Python, PyTorch ve HuggingFace Transformers
+- **Ekosistem:** Python, PyTorch ve Hugging Face Transformers
 
 ## Sıkça sorulan sorular
 
@@ -79,4 +79,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/airllm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -37,7 +37,7 @@ openspec init
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to start a development process using OpenSpec. Please review my current code structure and make suggestions and help me create a plan that includes technical requirements, design details, and implementation tasks for a new feature with the `/opsx:propose` command.
 

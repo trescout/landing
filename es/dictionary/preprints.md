@@ -1,6 +1,6 @@
 # ¿Qué es Preprints?
 
-*Glosario · AI · Última actualización: 8 de octubre de 2026*
+*AI · Última actualización: 8 de octubre de 2026*
 
 Borradores de estudios que aún no han pasado por una evaluación científica y que los investigadores publican para compartir sus resultados rápidamente.
 

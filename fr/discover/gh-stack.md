@@ -49,7 +49,7 @@ gh stack add api-endpoints
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise l'outil gh-stack pour créer des demandes d'extraction empilées sur GitHub. Incluez mes branches de travail existantes dans une structure de pile, gérez les dépendances entre les branches et transférez la pile vers GitHub pour accélérer le processus de révision du code.
 

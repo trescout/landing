@@ -1,6 +1,6 @@
 # What is Common Libraries?
 
-*Dictionary · Dev · Last updated: July 12, 2026*
+*Dev · Last updated: July 12, 2026*
 
 Pre-prepared code packages so that software developers can easily perform frequently used operations.
 

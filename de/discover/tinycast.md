@@ -30,7 +30,7 @@ brew tap abue-ammar/tinycast
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Um KI-Funktionen in Tinycast zu aktivieren, hinterlegen Sie Ihren eigenen API-Schlüssel oder die Daten eines eingerichteten KI-Kontos im Einstellungsmenü. Danach können Sie direkt über die Palette Chats starten sowie schnelle Aktionen wie Grammatikkorrektur, Zusammenfassungen oder Übersetzungen für ausgewählte Texte durchführen.
 

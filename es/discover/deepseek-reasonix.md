@@ -49,7 +49,7 @@ reasonix run "implement the TODOs in main.go"
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Mientras trabajo con este agente de codificación de inteligencia artificial que se ejecuta en la terminal, desarrollo sugerencias de código teniendo en cuenta la estructura actual y los objetivos de mi proyecto. Concéntrese en producir respuestas consistentes y de bajo costo durante nuestras largas sesiones utilizando la estabilidad de la caché de prefijo. Al escribir o depurar código, proporcione soluciones modulares y limpias que se ajusten a las necesidades del proyecto.
 

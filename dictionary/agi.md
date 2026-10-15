@@ -1,6 +1,6 @@
 # AGI nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
 > Artificial General Intelligence
 
@@ -63,8 +63,8 @@ Dönüştürür. Rutin erir, denetim ve yaratı kalır.
 - [Foundation Model](https://trescout.com/dictionary/foundation-model/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agi/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

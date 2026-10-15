@@ -43,7 +43,7 @@ sudo HOST=your-domain-name.com docker compose up
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 DocuSeal kullanarak dijital belge imzalama süreçlerimi nasıl optimize edebilirim? PDF formlarını çevrim içi doldurulabilir hale getirme, imza doğrulama ve kullanıcı yönetimi özelliklerini kendi sunucumda yapılandırmak için izlemem gereken adımları açıkla. Ayrıca, Docker üzerinden kurulum yaptıktan sonra SMTP ayarlarıyla otomatik e-posta bildirimlerini nasıl aktif edebileceğim konusunda rehberlik et.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/docuseal/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

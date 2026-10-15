@@ -39,7 +39,7 @@ docker run -d \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 MasterDnsVPN aracını kullanarak sansürlü bir ağda DNS tünelleme üzerinden güvenli bağlantı kurmak istiyorum. Paylaşılan otomatik kurulum betiğini kullanarak sunucu tarafını nasıl yapılandırabilirim ve istemci tarafında bağlantıyı sağlamak için hangi temel adımları izlemeliyim? Lütfen kurulum sürecinde dikkat etmem gereken ağ gereksinimlerini ve Docker üzerinden çalıştırma yöntemini detaylandır.
 
@@ -61,4 +61,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/masterdnsvpn/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

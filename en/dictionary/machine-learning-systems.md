@@ -1,6 +1,6 @@
 # What is Machine Learning Systems?
 
-*Dictionary · AI · Last updated: July 3, 2026*
+*AI · Last updated: July 3, 2026*
 
 They are computer systems that learn on their own by analyzing data and can make more accurate predictions over time.
 

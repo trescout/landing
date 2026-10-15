@@ -37,7 +37,7 @@ openspec init
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenSpec kullanarak bir geliştirme süreci başlatmak istiyorum. Lütfen mevcut kod yapımı inceleyerek önerilerde bulun ve `/opsx:propose` komutu ile yeni bir özellik için teknik gereksinimleri, tasarım detaylarını ve uygulama görevlerini içeren bir plan oluşturmama yardımcı ol.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openspec/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

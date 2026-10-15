@@ -1,6 +1,6 @@
 # O que é Data Processing?
 
-*Glossário · Data · Última atualização: 3 de setembro de 2026*
+*Data · Última atualização: 3 de setembro de 2026*
 
 É o processo de coleta de dados brutos e sua transformação em informações significativas e utilizáveis.
 

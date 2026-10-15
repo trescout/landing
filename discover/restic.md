@@ -43,7 +43,7 @@ restic init --repo /path/to/repo
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Verilerimi Restic kullanarak güvenli bir şekilde yedeklemek istiyorum. Yerel bir klasörü veya belirli bir dizini şifreli bir yedekleme deposuna nasıl aktarabilirim? Yedekleme deposunu oluşturma ve ilk yedekleme işlemini başlatma adımlarını, verilerimin şifrelenmesini sağlayacak şekilde adım adım açıklar mısın?
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/restic/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

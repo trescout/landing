@@ -1,6 +1,6 @@
 # Text Generation Model nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 17 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 17 Ağustos 2026*
 
 Verilen bir başlangıç cümlesini veya konuyu takip ederek anlamlı metinler üreten yapay zekâ modelidir.
 
@@ -38,8 +38,8 @@ Eğitildiği verilere bağlı olarak dünyanın pek çok dilinde metin üretebil
 - [Generative AI](https://trescout.com/dictionary/generative-ai/)
 - [Prompt](https://trescout.com/dictionary/prompt/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/text-generation-model/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

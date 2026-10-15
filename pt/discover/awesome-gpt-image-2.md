@@ -37,7 +37,7 @@ npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-librar
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um engenheiro de prompt visual. Usando os protocolos estruturais da biblioteca Awesome GPT Image 2, o assunto da imagem que especifiquei; Divida-o em partes atômicas, como iluminação, materiais, layout e detalhes visuais. Garanta que a solicitação que você produz forneça resultados consistentes e controláveis ​​por modelos de inteligência artificial.
 

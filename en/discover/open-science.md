@@ -39,7 +39,7 @@ npm run dev:web
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Assist me in my scientific research process. Support me by writing Python or R code during literature reviews, hypothesis development, and data analysis processes. Understand my research goals and, by reading files, searching the web, and querying scientific data, produce traceable results, tables, and charts.
 

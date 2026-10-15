@@ -39,7 +39,7 @@ docker run -d \
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero establecer una conexión segura mediante un túnel DNS en una red censurada utilizando la herramienta MasterDnsVPN. ¿Cómo puedo configurar el lado del servidor usando el script de instalación automática compartido y qué pasos básicos debo seguir para asegurar la conexión en el lado del cliente? Detalle los requisitos de red a los que debo prestar atención durante el proceso de instalación y el método para ejecutarlo a través de Docker.
 

@@ -1,6 +1,6 @@
 # Diff File Editing nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 10 Temmuz 2026*
+*Geliştirme · Son güncelleme: 10 Temmuz 2026*
 
 Bir dosyanın tamamını değiştirmek yerine, sadece eski ve yeni sürüm arasındaki farkları (diff) uygulayarak güncelleme yapma yöntemidir.
 
@@ -38,8 +38,8 @@ Daha az veri transferi sağlar ve dosyanın geri kalanındaki yanlışlıkla yap
 
 - [DesktopCommanderMCP](https://trescout.com/discover/desktopcommandermcp/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/diff-file-editing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist Document Parsing?
 
-*Glossar · Data · Zuletzt aktualisiert: 3. Juni 2026*
+*Data · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um die Umwandlung von Daten in komplexen Dokumenten in ein Format, das der Computer verstehen kann.
 

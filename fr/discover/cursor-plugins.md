@@ -30,7 +30,7 @@ git clone https://github.com/cursor-plugins/cursor-plugins.git
 
 ## Comment l'utiliser avec l'IA ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à installer les plugins Cursor officiels de ce référentiel (par exemple, les plugins qui effectuent des révisions de code ou des contrôles de sécurité) du marché des plugins Cursor pour le projet sur lequel je travaille dans l'éditeur Cursor, et expliquez étape par étape comment les utiliser.
 

@@ -37,7 +37,7 @@ teamai init https://github.com/yourorg/yourrepo
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 TeamAI CLI kullanarak ekibimizin ortak çalışma kurallarını, becerilerini ve yapay zekâ ajan yapılandırmalarını yönetmek istiyorum. Ekip deposunu projemize tanımladıktan sonra, tüm üyelerin en güncel kurallara ve çalışma prensiplerine göre hareket etmesini sağlamak için gerekli senkronizasyon adımlarını nasıl yönetebilirim?
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/teamai-cli/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

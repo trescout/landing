@@ -1,6 +1,6 @@
 # Was ist Agent Skills Tool?
 
-*Glossar · AI · Zuletzt aktualisiert: 14. Oktober 2026*
+*AI · Zuletzt aktualisiert: 14. Oktober 2026*
 
 Ein Werkzeug, mit dem KI-Agenten neue Funktionen und Fähigkeiten verliehen werden.
 

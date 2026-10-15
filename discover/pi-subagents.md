@@ -28,7 +28,7 @@
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 'pi install npm:pi-subagents' komutuyla bu paketi kur, sonra '/run reviewer' ile bir kod incelemesi yaptır ya da '/parallel' ile birden çok uzman alt-ajanı (örn. inceleyici, planlayıcı) aynı anda çalıştırarak işi onlara dağıt.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pi-subagents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

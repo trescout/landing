@@ -1,6 +1,6 @@
 # What is Terminal?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Terminal is the interface where you talk to the computer with text commands.
 

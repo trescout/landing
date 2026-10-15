@@ -1,6 +1,6 @@
 # Reinforcement Learning Agent nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 8 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 8 Ağustos 2026*
 
 Deneme yanılma yoluyla ödül kazanarak doğru kararları almayı öğrenen yazılım birimidir.
 
@@ -38,8 +38,8 @@ Hayır, sadece verilen ödül mekanizmasına göre en verimli yolu bulmaya çal�
 
 - [Prime Agent](https://trescout.com/discover/prime-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/reinforcement-learning-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

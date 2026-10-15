@@ -1,6 +1,6 @@
 # RAG nedir, ne demek?
 
-*Sözlük · Yapay Zekâ Modelleri · Son güncelleme: 20 Eylül 2026*
+*Yapay Zekâ Modelleri · Son güncelleme: 20 Eylül 2026*
 
 > Retrieval-Augmented Generation
 
@@ -78,8 +78,8 @@ Doküman ayrıştırıcılar, metin parçalama araçları, bir embedding modeli,
 - [OpenViking](https://trescout.com/discover/openviking/)
 - [PageIndex](https://trescout.com/discover/pageindex/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/rag/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

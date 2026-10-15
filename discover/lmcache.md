@@ -29,7 +29,7 @@ pip install lmcache
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 LMCache kütüphanesini kullanarak büyük dil modelleri için KV önbelleği yönetimini nasıl optimize edebilirim? Özellikle uzun bağlamlı sorgularda performans artışı sağlamak ve bellek kullanımını verimli hale getirmek için kurulum sonrası izlemem gereken temel adımlar nelerdir? Dokümantasyonda belirtilen engine-independent (motor bağımsız) çalışma prensibini göz önünde bulundurarak, mevcut çıkarım sistemime bu katmanı nasıl entegre edebileceğimi açıkla.
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/lmcache/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

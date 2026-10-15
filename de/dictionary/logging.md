@@ -1,6 +1,6 @@
 # Was ist Logging?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Unter Protokollierung versteht man das chronologische Aufzeichnen der Programmereignisse.
 

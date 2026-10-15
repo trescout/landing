@@ -37,7 +37,7 @@ container system start
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I manage OCI-compliant Linux containers using the container tool on my Mac with an Apple silicon processor? After using the container system start command to make sure the system is running properly, can you explain what basic steps I should follow to pull and run a container image?
 

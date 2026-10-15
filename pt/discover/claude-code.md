@@ -40,7 +40,7 @@ claude
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Digitei em meu terminal 'curl -fsSL https://claude.ai/install.sh | Instale a ferramenta oficial Claude Code da Anthropic com o comando 'bash', vá para a pasta do meu projeto e digite 'claude' para iniciá-la e peça para me ajudar a escrever o código.
 

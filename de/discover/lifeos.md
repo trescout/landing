@@ -27,7 +27,7 @@ curl -fsSL https://ourlifeos.ai/install.sh | bash
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Lesen Sie https://ourlifeos.ai/install und installieren Sie LifeOS für mich.
 

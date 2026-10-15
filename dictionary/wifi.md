@@ -1,6 +1,6 @@
 # WiFi nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 11 Haziran 2026*
+*Geliştirme · Son güncelleme: 11 Haziran 2026*
 
 > Wireless Fidelity
 
@@ -44,8 +44,8 @@ Güçlü bir şifreleme (WPA3 gibi) kullanırsanız oldukça güvenlidir.
 
 - [RuView](https://trescout.com/discover/ruview/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/wifi/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Presence Detection nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 7 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 7 Temmuz 2026*
 
 Bir ortamda insan varlığını sensörler veya yazılım yardımıyla tespit eden teknolojidir.
 
@@ -37,8 +37,8 @@ Kızılötesi, kamera, Bluetooth veya Wi-Fi sinyalleri gibi çeşitli yöntemler
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
 - [Physical AI](https://trescout.com/dictionary/physical-ai/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/presence-detection/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

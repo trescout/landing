@@ -40,7 +40,7 @@ npm run dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a web application using the Svelte library. Set up a basic project structure for me to create a simple web interface using Svelte's compile-time approach and component-based structure, which differs from traditional frameworks. Explain what I need to pay attention to so that the code runs efficiently in the browser.
 

@@ -49,7 +49,7 @@ officecli add deck.pptx / --type slide --prop title="Hello, World!"
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você pode gerenciar arquivos Word, Excel e PowerPoint com a ferramenta OfficeCLI preparada para você. Para usar esta ferramenta, instale o arquivo de habilidade necessário executando o seguinte comando: curl -fsSL https://officecli.ai/SKILL.md. Após este processo, você poderá ler, editar e criar documentos de escritório através da linha de comando.
 

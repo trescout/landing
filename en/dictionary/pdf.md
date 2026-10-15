@@ -1,6 +1,6 @@
 # What is PDF?
 
-*Dictionary · Data · Last updated: June 8, 2026*
+*Data · Last updated: June 8, 2026*
 
 > Portable Document Format
 

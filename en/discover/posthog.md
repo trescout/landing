@@ -29,7 +29,7 @@ PostHog is a comprehensive platform that brings together tools such as artificia
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I need to analyze user behavior in my product using the PostHog platform. What tools should I use to detect errors, review session replays, and monitor the performance of my AI-powered features? Explain the steps I need to follow to automate data collection and analysis processes.
 

@@ -45,7 +45,7 @@ moonshine-voice mic --language en
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe der Moonshine-Bibliothek eine Sprachschnittstelle entwickeln. Helfen Sie mir, die grundlegende Python-Codestruktur zu erstellen, die erforderlich ist, um den von meinem Mikrofon kommenden Ton in Echtzeit in Text umzuwandeln und Absichtserkennungsvorgänge an diesem Text durchzuführen. Erklären Sie außerdem die Konfigurationseinstellungen, auf die ich achten sollte, damit das System mit geringer Latenz läuft.
 

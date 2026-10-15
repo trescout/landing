@@ -1,6 +1,6 @@
 # Agent Multiplexer nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 5 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 5 Temmuz 2026*
 
 Farklı uzmanlıklara sahip yapay zekâ yardımcılarını tek bir merkezden yönetip, gelen görevleri en uygun asistana yönlendiren sistemdir.
 
@@ -38,8 +38,8 @@ Uzmanlaşmış ajanlar, genel amaçlı tek bir ajandan çok daha kaliteli sonuç
 
 - [Herdr](https://trescout.com/discover/herdr/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-multiplexer/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

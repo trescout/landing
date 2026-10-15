@@ -1,6 +1,6 @@
 # O que é Tutoring?
 
-*Glossário · AI · Última atualização: 19 de setembro de 2026*
+*AI · Última atualização: 19 de setembro de 2026*
 
 A tutoria (em turco, aulas particulares ou orientação individual) é um processo de ensino personalizado e adaptado ao nível de conhecimento, deficiências e velocidade de compreensão do aluno.
 

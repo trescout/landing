@@ -46,7 +46,7 @@ node src/cli/index.js <command>
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 TradingView masaüstü uygulamam ile bağlantı kurdun. Şimdi grafik üzerinde teknik analiz yapmanı, Pine Script kodlarını incelemeni veya grafik ayarlarını değiştirmemi istediğimde bu aracı kullanarak TradingView arayüzüne müdahale etmeni istiyorum. Lütfen grafik verilerini okumak, gösterge değerlerini analiz etmek veya yeni çizimler eklemek için gerekli komutları çalıştır.
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tradingview-mcp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Logs?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 A log is a time-stamped line of system events.
 

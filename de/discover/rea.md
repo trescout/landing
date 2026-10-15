@@ -45,7 +45,7 @@ npx -y rea-agents@latest analyze /Applications/Notes.app
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Reverse-Engineering-Tool REA auf meinem System konfigurieren. Führe zunächst die erforderlichen Installationsschritte mit dem Befehl 'npx rea-agents setup' aus und stelle die MCP-Verbindung (Model Context Protocol, KI-Tool-Protokoll) für meine KI-Schnittstelle her. Führe anschließend den Befehl 'npx -y rea-agents@latest doctor' aus, um die Abhängigkeiten zu überprüfen, untersuche eine von mir ausgewählte lokale Anwendung und erkläre mit Beweisen, wie das von mir gesuchte Feature funktioniert.
 

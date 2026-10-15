@@ -26,7 +26,7 @@ pip install git+https://github.com/google-deepmind/weathernext.git@v0.3.0
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I need to make a medium-term weather forecast for a specific region using the WeatherNext model. How can I load model weights via Google Cloud Bucket and start the forecast cycle by processing weather data (like temperature, wind speed)? Can you specifically explain the steps required for hurricane tracking?
 

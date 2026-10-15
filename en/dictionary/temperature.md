@@ -1,6 +1,6 @@
 # What is Temperature?
 
-*Dictionary · AI · Last updated: June 3, 2026*
+*AI · Last updated: June 3, 2026*
 
 It is the setting that determines the creativity level of the answers produced by artificial intelligence.
 

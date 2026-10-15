@@ -51,7 +51,7 @@ docker run -d --pull=always --name dbx -p 4224:4224 \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Befolge die notwendigen Schritte, um die dbx-Anwendung zu installieren und auszuführen. Verwende für die Desktop-Anwendung den Befehl brew install --cask dbx und für das Befehlszeilentool npm install -g @dbx-app/cli
 # oder via Homebrew

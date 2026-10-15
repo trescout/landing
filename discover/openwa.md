@@ -71,7 +71,7 @@ docker compose --profile full up -d
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenWA aracını kullanarak WhatsApp üzerinden mesajlaşma süreçlerimi otomatize etmek istiyorum. REST API uç noktalarını kullanarak yeni bir oturum oluşturmak, mesaj göndermek ve gelen mesajları webhook üzerinden dinlemek için gerekli temel yapılandırma adımlarını bana açıkla. Özellikle çoklu oturum yönetimi ve API anahtarı güvenliği konularında dikkat etmem gerekenleri belirt.
 
@@ -94,4 +94,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openwa/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -34,7 +34,7 @@ docker run --detach --name vaultwarden \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir bei der Installation von Vaultwarden, einem Tool, das die Passwortverwaltung auf meinem eigenen Server ermöglicht. Dieses Tool ist eine Serversoftware, die mit Bitwarden-Clients kompatibel ist. Da ich die Installation mit Docker durchführen werde, erklären Sie mir Schritt für Schritt, wie Sie die Image-Befehle zum Abrufen und Ausführen konfigurieren, ein Volume bereitstellen, um meine Daten beizubehalten, und wie Sie HTTPS-Anforderungen berücksichtigen.
 

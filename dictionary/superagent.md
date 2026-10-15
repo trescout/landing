@@ -1,6 +1,6 @@
 # SuperAgent nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 22 Haziran 2026*
 
 Birden fazla görevi aynı anda yönetebilen ve karmaşık işlemleri çözebilen gelişmiş yapay zekâ yardımcısı.
 
@@ -42,8 +42,8 @@ Hayır, SuperAgent olması için çoklu görev yönetimi ve ileri düzey araç k
 
 - [Deer Flow](https://trescout.com/discover/deer-flow/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/superagent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

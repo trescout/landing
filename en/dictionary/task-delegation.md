@@ -1,6 +1,6 @@
 # What is Task Delegation?
 
-*Dictionary · AI · Last updated: July 6, 2026*
+*AI · Last updated: July 6, 2026*
 
 It is the transfer of responsibility for the completion of a job to another person or artificial intelligence system.
 

@@ -33,7 +33,7 @@ npm run dev
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero projetar uma ontologia usando Ontology-Playground. Carregue o modelo inicial selecionando um campo como Varejo, Saúde ou Finanças. Em seguida, adicione novos tipos de entidade a este modelo, defina os relacionamentos entre eles e mostre as etapas necessárias para exportar este modelo que criei no formato RDF/XML.
 

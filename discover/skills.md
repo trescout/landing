@@ -29,7 +29,7 @@ npx skills add google/skills
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Google ürünleri ve teknolojileriyle etkileşim kuran yapay zekâ ajanları geliştirmek istiyorum. npx skills add google/skills komutu ile yüklediğim kütüphaneyi kullanarak Gemini API, BigQuery veya Cloud Run gibi servisleri ajanıma nasıl entegre edebilirim? Hangi yetenekleri seçmem gerektiği konusunda bana rehberlik et.
 
@@ -51,4 +51,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

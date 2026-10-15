@@ -1,6 +1,6 @@
 # ApacheBench (ab) nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 29 Eylül 2026*
+*Geliştirme · Son güncelleme: 29 Eylül 2026*
 
 > Apache HTTP Server Benchmarking Tool
 
@@ -45,8 +45,8 @@ Saniyede tamamlanan istek sayısı (Requests per second) ve yanıtların milisan
 
 - [HEY](https://trescout.com/discover/hey/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/apache-bench/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

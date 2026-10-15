@@ -1,6 +1,6 @@
 # Was ist Dial Keys?
 
-*Glossar · Dev · Zuletzt aktualisiert: 18. Juni 2026*
+*Dev · Zuletzt aktualisiert: 18. Juni 2026*
 
 Es handelt sich um eine rotierende mechanische Tastatur, die zum Wählen von Nummern auf alten Telefonen verwendet wird.
 

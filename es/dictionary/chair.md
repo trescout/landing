@@ -1,6 +1,6 @@
 # ¿Qué es Chair?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Chair, es la persona que dirige una junta directiva y supervisa el rumbo de la organización.
 

@@ -43,7 +43,7 @@ make docker-start   # Start services (auto-detects sandbox mode from config.yaml
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Klonen Sie das DeerFlow-Repository auf meinen Computer und führen Sie dann den Befehl „make setup“ aus, um die erforderliche Konfiguration für die lokale Entwicklungsumgebung abzuschließen. Helfen Sie mir, während des Einrichtungsassistenten Optionen wie LLM-Anbieter, Websucheinstellungen und Sicherheitseinstellungen zu konfigurieren.
 

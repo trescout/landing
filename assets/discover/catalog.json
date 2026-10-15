@@ -812,7 +812,7 @@
   {
     "slug": "claude-mem",
     "title": "claude-mem",
-    "tagline": "AI ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
+    "tagline": "Yapay zekâ ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
     "meta": "★ 100.574 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
@@ -1649,7 +1649,7 @@
   {
     "slug": "airi",
     "title": "AIRI",
-    "tagline": "Kendi sunucunuzda barınan, sesli sohbet edebilen ve oyun oynayabilen AI karakteri.",
+    "tagline": "Kendi sunucunuzda barınan, sesli sohbet edebilen ve oyun oynayabilen yapay zekâ karakteri.",
     "meta": "★ 48.711 · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
@@ -1697,7 +1697,7 @@
   {
     "slug": "markitdown",
     "title": "MarkItDown",
-    "tagline": "Word, PDF, Excel ve PowerPoint belgelerini AI dostu Markdown formatına çevirir · Microsoft.",
+    "tagline": "Word, PDF, Excel ve PowerPoint belgelerini yapay zekâ dostu Markdown formatına çevirir · Microsoft.",
     "meta": "★ 187.180 · MIT",
     "source": "GitHub",
     "date": "2026-05-29",
@@ -1758,7 +1758,7 @@
   {
     "slug": "harness",
     "title": "Harness · Ajan Ekip Fabrikası",
-    "tagline": "Claude Code için alana özel AI ajan ekipleri tasarlayan meta-beceri.",
+    "tagline": "Claude Code için alana özel yapay zekâ ajan ekipleri tasarlayan meta-beceri.",
     "meta": "★ 8.581 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-29",
@@ -1921,7 +1921,7 @@
   {
     "slug": "compound-engineering-plugin",
     "title": "Compound Engineering",
-    "tagline": "Her işin bir sonrakini kolaylaştırdığı, AI destekli mühendislik eklentisi (Claude Code/Codex/Cursor).",
+    "tagline": "Her işin bir sonrakini kolaylaştırdığı, yapay zekâ destekli mühendislik eklentisi (Claude Code/Codex/Cursor).",
     "meta": "★ 25.481 · MIT",
     "source": "GitHub",
     "date": "2026-05-29",
@@ -2151,7 +2151,7 @@
   {
     "slug": "claude-code",
     "title": "Claude Code",
-    "tagline": "Terminalde çalışan ve kod tabanınızı anlayan AI ajan kodlama aracı (Anthropic ürünü).",
+    "tagline": "Terminalde çalışan ve kod tabanınızı anlayan yapay zekâ ajan kodlama aracı (Anthropic ürünü).",
     "meta": "★ 150.735 · Açık kaynak değil",
     "source": "GitHub",
     "date": "2026-05-30",
@@ -3605,7 +3605,7 @@
   {
     "slug": "hermes-webui",
     "title": "Hermes WebUI",
-    "tagline": "Hermes AI ajanlarınızı web tarayıcısı veya mobil cihazınızdan kolayca yönetin.",
+    "tagline": "Hermes yapay zekâ ajanlarınızı web tarayıcısı veya mobil cihazınızdan kolayca yönetin.",
     "meta": "★ 18.381 · MIT",
     "source": "GitHub",
     "date": "2026-06-01",
@@ -3770,7 +3770,7 @@
   {
     "slug": "babysitter",
     "title": "Babysitter",
-    "tagline": "AI ajan iş gücünü hatasız yönetmek için deterministik denetim mekanizması.",
+    "tagline": "Yapay zekâ ajan iş gücünü hatasız yönetmek için deterministik denetim mekanizması.",
     "meta": "★ 1.632 · MIT",
     "source": "GitHub",
     "date": "2026-06-01",
@@ -37183,7 +37183,7 @@
   {
     "slug": "n8n",
     "title": "N8n",
-    "tagline": "n8n, görsel canvas, özel kod ve AI ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
+    "tagline": "n8n, görsel canvas, özel kod ve yapay zekâ ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
     "meta": "★ 207.332",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",

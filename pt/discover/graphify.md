@@ -38,7 +38,7 @@ graphify install               # register the skill with your AI assistant
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Converti este diretório de projeto em um gráfico de conhecimento usando Graphify. Agora, usando essa estrutura, quero que você analise as relações entre os conceitos no projeto, explique como os blocos de código complexos estão conectados entre si e detalhe a função dos nós mestres como 'APIRouter' no sistema. Distinga entre informações provenientes diretamente do código-fonte e conexões inferidas, levando em consideração as tags 'EXTRACTED' e 'INFERRED' ao realizar sua análise.
 

@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/wonderwhy-er/DesktopCommanderMCP/re
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda dosya yönetimi, terminal komutları ve belge düzenleme işlemlerini yapabilmen için Desktop Commander MCP araçlarını kullanmanı istiyorum. Lütfen dosya sisteminde arama yapma, terminal üzerinden süreçleri yönetme ve ihtiyaç duyduğumda Excel veya PDF gibi belgeler üzerinde gerekli değişiklikleri gerçekleştirme yeteneklerini aktif ederek bana yardımcı ol.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/desktopcommandermcp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

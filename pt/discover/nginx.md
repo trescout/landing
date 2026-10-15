@@ -43,7 +43,7 @@ sudo systemctl start nginx
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar um servidor web ou proxy reverso usando NGINX. Quais etapas devo seguir para atender aos requisitos do sistema e como posso interpretar as informações do módulo obtidas com o comando nginx -V? Por favor, oriente-me sobre as diretrizes básicas às quais devo prestar atenção durante o processo de instalação e configuração.
 

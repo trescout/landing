@@ -28,7 +28,7 @@ git clone https://github.com/permissionlesstech/bitchat-android.git
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Yo uso la aplicación Bitchat para Android. ¿Cómo puedo enviar mensajes de forma segura a otros usuarios a mi alrededor a través de Bluetooth? ¿Cómo me uno a un canal y envío un mensaje privado usando comandos como /j, /m y /w dentro de la aplicación? Explique simplemente las funciones de estos comandos y la lógica de funcionamiento de la red en malla.
 

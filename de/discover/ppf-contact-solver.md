@@ -35,7 +35,7 @@ Dies ist keine Endbenutzeranwendung. Für die Nutzung sind Kenntnisse in Program
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Führen Sie den physikalischen Kontaktlöser ppf-contact-solver von ZOZO mit Docker aus (NVIDIA-GPU erforderlich): Führen Sie den folgenden Docker-Befehl aus, öffnen Sie dann http://localhost:8080 im Browser und probieren Sie die vorgefertigten JupyterLab-Beispiele aus.
 

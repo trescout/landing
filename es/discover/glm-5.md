@@ -39,7 +39,7 @@ vllm serve zai-org/GLM-5.2-FP8
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un asistente de ingeniería de IA. Divida las tareas complejas de desarrollo de software, revise su estrategia en cada paso y mantenga la coherencia durante largas sesiones. Administre la profundidad del pensamiento utilizando el parámetro 'reasoning_effort' en tareas de codificación; Apunte a obtener los mejores resultados eligiendo la configuración "máxima" en flujos de trabajo de alta complejidad.
 

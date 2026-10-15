@@ -1,6 +1,6 @@
 # ¿Qué es Engineering Skills?
 
-*Glosario · Dev · Última actualización: 11 de junio de 2026*
+*Dev · Última actualización: 11 de junio de 2026*
 
 Es la capacidad de diseñar y construir sistemas utilizando la lógica y las matemáticas para resolver problemas complejos.
 

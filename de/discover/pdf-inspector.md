@@ -36,7 +36,7 @@ npm install @firecrawl/pdf-inspector
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich muss die PDF-Datei, die ich habe, analysieren. Klassifizieren Sie diese Datei, um festzustellen, ob es sich um ein textbasiertes oder ein gescanntes Dokument handelt. Wenn es textbasiert ist, konvertieren Sie es in ein sauberes Markdown-Format und behalten dabei den Text, die Tabellen und Überschriften bei. Bestimmen Sie die Lesereihenfolge korrekt, indem Sie die Struktur- und Schriftartinformationen der Datei selbst verwenden, ohne OCR zu verwenden.
 

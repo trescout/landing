@@ -67,7 +67,7 @@ Ghidra, karmaşık siber güvenlik ve yazılım denetim süreçlerinde temel ara
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Şüpheli bir ikili (binary) dosyayı Ghidra kullanarak incelemek istiyorum. Ghidra'da yeni bir proje açma, dosyayı içe aktarma, otomatik analizi (Auto Analysis) çalıştırma, Decompiler penceresinde fonksiyonları inceleme ve dışarıya çağrılan şüpheli API fonksiyonlarını tespit etme adımlarını adım adım açıklar mısın?
 
@@ -100,4 +100,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ghidra/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

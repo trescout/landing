@@ -25,7 +25,7 @@ pip install higgsfield==0.0.3
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Büyük yapay zekâ modellerini eğitmek ve kaynak yönetimini yapmak için terminal üzerinden pip install higgsfield==0.0.3 komutunu çalıştırarak kütüphaneyi kurabilir ve projende kullanmaya başlayabilirsin.
 
@@ -47,4 +47,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/higgsfield/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Engineering Skills nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 11 Haziran 2026*
+*Geliştirme · Son güncelleme: 11 Haziran 2026*
 
 Karmaşık problemleri çözmek için mantık ve matematik kullanarak sistemler tasarlama ve inşa etme yeteneğidir.
 
@@ -42,8 +42,8 @@ Kesinlikle, hayatın her alanındaki karmaşık sorunları daha kolay çözmeniz
 
 - [Agent Skills](https://trescout.com/discover/agent-skills/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/engineering-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

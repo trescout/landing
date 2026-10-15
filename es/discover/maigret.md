@@ -36,7 +36,7 @@ maigret kullanici-adi
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero realizar un escaneo completo de la huella digital de un nombre de usuario objetivo utilizando la herramienta Maigret. Explique el comando básico que me permitirá verificar la presencia de este nombre de usuario en más de 3000 sitios web y los parámetros que puedo usar para informar los datos obtenidos.
 

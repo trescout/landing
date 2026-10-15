@@ -15,7 +15,7 @@
 - **14 Eylül 2026:** Yıldız 272.477 → 286.413, son sürüm v6.3.0 (12 Ağustos 2026).
 
 - **Kimin için:** AI kodlama ajanı kullanan geliştiriciler
-- **Zorluk:** Orta · AI asistanına eklenir
+- **Zorluk:** Orta · yapay zekâ asistanına eklenir
 - **Ne sunar:** Beceri çerçevesi + geliştirme metodolojisi
 - **Çalışır:** Claude Code, Codex, Gemini CLI…
 - **Ücret:** Ücretsiz · açık kaynak (MIT)
@@ -43,7 +43,7 @@ Ajanınıza TreScout ile süper güçler kazandırın; Claude Code, Codex ve Gem
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code'da '/plugin install superpowers@claude-plugins-official' komutunu çalıştırarak Superpowers eklentisini kur; bundan sonra bir şey geliştirmemi istediğimde beceriler otomatik devreye girer.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/superpowers/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

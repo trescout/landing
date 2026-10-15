@@ -50,7 +50,7 @@ sia web
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero melhorar o desempenho de um agente de IA usando a estrutura SIA. Após concluir a instalação, qual comando devo usar para iniciar o ciclo de autoaperfeiçoamento selecionando uma das tarefas disponíveis (por exemplo, gpqa) e como devo interpretar as saídas no final do processo (target_agent.py, agent_execution.json, melhoria.md)? Além disso, como posso incluir meu próprio diretório de tarefas personalizado no sistema?
 

@@ -43,7 +43,7 @@ Docker wird auf einem Server oder NAS installiert. Die Installationsanleitung fi
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte den Jellyfin-Medienserver installieren. Laden Sie die für mein Betriebssystem geeignete Version von der offiziellen Seite jellyfin.org/downloads herunter und installieren Sie sie, oder helfen Sie mir, sie mit dem Image „jellyfin/jellyfin“ auszuführen, wenn ich Docker verwende.
 

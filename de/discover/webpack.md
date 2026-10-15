@@ -35,7 +35,7 @@ yarn add webpack --dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Als Webentwickler möchte ich JavaScript-Dateien und andere statische Assets effizient in meine Projekte packen. Wie kann ich mit Webpack meine Module verwalten, die Codeaufteilung konfigurieren und für mein Projekt geeignete Loader definieren? Helfen Sie mir, ein Beispiel für eine Konfigurationsdatei für Anfänger zu erstellen.
 

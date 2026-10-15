@@ -1,6 +1,6 @@
 # Semantic Metadata nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 17 Temmuz 2026*
+*Veri & Altyapı · Son güncelleme: 17 Temmuz 2026*
 
 Verinin sadece ne olduğunu değil, ne anlama geldiğini ve diğer verilerle bağını açıklayan etikettir.
 
@@ -42,8 +42,8 @@ Genellikle sistemler otomatik olarak ekler, ancak bazen insanlar tarafından man
 
 - [Ossie](https://trescout.com/discover/ossie/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/semantic-metadata/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

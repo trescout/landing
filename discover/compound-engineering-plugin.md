@@ -14,8 +14,8 @@
 - **2 Ekim 2026:** Yıldız 25.331 → 25.365, son sürüm compound-engineering-v3.30.3 (1 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 25.280 → 25.331, son sürüm compound-engineering-v3.30.1 (29 Eylül 2026).
 
-- **Kimin için:** AI ile geliştirme yapan ekipler
-- **Zorluk:** Orta · AI asistanına eklenir
+- **Kimin için:** Yapay zekâ ile geliştirme yapan ekipler
+- **Zorluk:** Orta · yapay zekâ asistanına eklenir
 - **Ne sunar:** Bileşik mühendislik becerileri + ajanları
 - **Çalışır:** Claude Code, Codex, Cursor…
 - **Ücret:** Ücretsiz · açık kaynak (MIT)
@@ -51,7 +51,7 @@ Yapay zekâ asistanınıza eklenti olarak kurabilir, ardından becerileri ve aja
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code'da çalışıyorsan şu iki komutu sırayla çalıştırarak Compound Engineering eklentisini kur: '/plugin marketplace add EveryInc/compound-engineering-plugin' ve ardından '/plugin install compound-engineering'; kurulum bitince herhangi bir projede '/ce-setup' komutunu çalıştırarak ortamı hazırla.
 
@@ -72,4 +72,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/compound-engineering-plugin/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

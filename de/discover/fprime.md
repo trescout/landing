@@ -37,7 +37,7 @@ fprime-bootstrap project
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein eingebettetes Systemprojekt unter Verwendung des von der NASA entwickelten F'-Frameworks entwickeln. Wie kann ich beim Erstellen der Architektur meines Projekts mit diesem Framework eine komponentenbasierte Struktur einrichten, Schnittstellen definieren und Nachrichtenwarteschlangen und Threads verwalten? Bitte schlagen Sie einen Entwicklungsablauf unter Verwendung der vom F'-Framework bereitgestellten Modellierungstools vor.
 

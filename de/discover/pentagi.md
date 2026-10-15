@@ -30,7 +30,7 @@ docker compose up -d
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem PentAGI-System einen autonomen Penetrationstest auf dem Zielsystem starten. Wie kann ich den erforderlichen Workflow für diesen Agenten für künstliche Intelligenz konfigurieren, der in der Docker-Umgebung ausgeführt wird, um Sicherheitslücken zu erkennen, mit Tools wie nmap und sqlmap zu scannen und die Ergebnisse in einem detaillierten Bericht darzustellen?
 

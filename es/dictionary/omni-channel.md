@@ -1,6 +1,6 @@
 # ¿Qué es Omni-channel?
 
-*Glosario · Data · Última actualización: 22 de septiembre de 2026*
+*Data · Última actualización: 22 de septiembre de 2026*
 
 Omni-channel (equivalente en turco a canal integrado) es el funcionamiento sincronizado de todos los canales de venta.
 

@@ -29,7 +29,7 @@ npx skills add nutlope/hallmark
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Crie um design de interface exclusivo que não pareça ter sido criado por IA usando o arquivo de estilo Hallmark. Evite modelos padrão no design, escolha o apropriado entre vinte temas diferentes e crie uma estrutura única que passará em cinquenta e sete testes de qualidade.
 

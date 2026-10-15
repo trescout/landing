@@ -49,7 +49,7 @@ npx claude-code-templates@latest --chats
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite optimiser mon environnement de travail Claude Code. Comment puis-je répertorier et installer les agents appropriés, les commandes personnalisées et les intégrations MCP nécessaires pour mon projet à l'aide de la commande npx claude-code-templates@latest ? De plus, quelle commande dois-je exécuter pour vérifier si mon installation est saine ?
 

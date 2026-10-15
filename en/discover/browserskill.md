@@ -29,7 +29,7 @@ export PATH="${BSK_INSTALL_DIR:-$HOME/.local/bin}:$PATH"
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are connected to BrowserSkill, a browser automation tool. You can now perform tasks on the internet on my behalf using my existing browser sessions. When performing an action, borrow my open tabs in the browser, release them when you are finished, and do not touch my other tabs. If you encounter a verification code, login screen, or confirmation window, pause the process and ask for my help.
 

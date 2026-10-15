@@ -41,7 +41,7 @@ Incluye clonación de voz. Suplantar la voz de una persona sin permiso crea prob
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Ejecute 'pip install voxcpm' para instalar la herramienta de conversión de texto a voz VoxCPM, luego genere un archivo de audio con el comando 'voxcpm design --text "Hello world" --output out.wav'; Si quiero, clonar ese sonido usando 'voxcpm clone' con un archivo de sonido de referencia.
 

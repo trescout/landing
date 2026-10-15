@@ -1,6 +1,6 @@
 # ¿Qué es AI Companion?
 
-*Glosario · AI · Última actualización: 14 de julio de 2026*
+*AI · Última actualización: 14 de julio de 2026*
 
 Es una aplicación de inteligencia artificial que interactúa con el usuario, se hace amigo de él o le ayuda en las tareas diarias.
 

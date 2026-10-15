@@ -1,6 +1,6 @@
 # What is Code Agent?
 
-*Dictionary · AI · Last updated: July 21, 2026*
+*AI · Last updated: July 21, 2026*
 
 It is an artificial intelligence that autonomously undertakes tasks such as writing code, debugging and testing in software development processes.
 

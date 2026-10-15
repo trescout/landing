@@ -27,7 +27,7 @@ pip install paddleocr
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero converter os documentos PDF e visuais que possuo em dados estruturados que os modelos de inteligência artificial possam processar. Como posso converter o texto, tabelas e fórmulas dos meus documentos para o formato Markdown ou JSON com a mais alta precisão, usando modelos como PP-OCRv6 ou HPD-Parsing do PaddleOCR? Quais configurações devo escolher para alta eficiência e velocidade neste processo?
 

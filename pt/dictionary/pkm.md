@@ -1,6 +1,6 @@
 # O que é Personal Knowledge Management?
 
-*Glossário · Data · Última atualização: 27 de agosto de 2026*
+*Data · Última atualização: 27 de agosto de 2026*
 
 > Personal Knowledge Management
 

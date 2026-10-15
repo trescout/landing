@@ -1,6 +1,6 @@
 # Deployment ne demek, nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Deployment (yazılım dağıtımı / canlıya alma), yerel ortamda geliştirilen ve test edilen bir yazılım bileşeninin, derlenerek hedef sunuculara veya bulut altyapısına kurulması ve son kullanıcıların erişimine açılması sürecidir.
 
@@ -75,8 +75,8 @@ Expand-Contract (Genişlet ve Daralt) deseniyle yönetilir. Önce geriye dönük
 - [Argo Cd](https://trescout.com/discover/argo-cd/)
 - [Openship](https://trescout.com/discover/openship/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/deployment/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

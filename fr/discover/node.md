@@ -23,7 +23,7 @@ Node.js offre un environnement d'exécution qui permet d'exécuter du code JavaS
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer une application serveur basée sur JavaScript à l'aide de l'environnement Node.js. Pouvez-vous expliquer les fonctionnalités d'exécution de base offertes par cette plate-forme et les éléments structurels auxquels je dois prêter attention lors de la création d'applications réseau évolutives ?
 

@@ -36,7 +36,7 @@ docker compose --file docker/docker-compose.yml up --detach
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Analise minhas tabelas de banco de dados, explique consultas SQL complexas em linguagem natural e otimize minhas consultas existentes para desempenho. Ajude-me a entender os relacionamentos em meu esquema de banco de dados e a criar os comandos DDL/DML necessários.
 

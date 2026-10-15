@@ -39,7 +39,7 @@ langflow run
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create an artificial intelligence agent using Langflow. Guide me in designing a basic language model flow using the visual interface. Explain step by step which components I need to drag, how to connect these components together, and how I can export the flow I created as an API.
 

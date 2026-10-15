@@ -35,7 +35,7 @@ brew install witr
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to understand from which source a process, port or container running in my system was started and its execution chain on the system. How can I use the witr tool to monitor this process and detect why it is running?
 

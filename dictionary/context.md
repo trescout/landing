@@ -1,6 +1,6 @@
 # Context nedir ve ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
 
 **Context** (Türkçe karşılığıyla **bağlam**), bir verinin, komutun veya sürecin doğru şekilde yorumlanabilmesi ve yürütülebilmesi için ihtiyaç duyduğu çevresel ve anlamsal bilgilerin bütünüdür.
 
@@ -89,8 +89,8 @@ Go'da ctx context.Context parametresi, bir HTTP isteği iptal edildiğinde veya 
 - [Code Review Graph](https://trescout.com/discover/code-review-graph/)
 - [Fastmcp](https://trescout.com/discover/fastmcp/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/context/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

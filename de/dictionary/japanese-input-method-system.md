@@ -1,6 +1,6 @@
 # Was ist Japanese Input Method System?
 
-*Glossar · Dev · Zuletzt aktualisiert: 2. Juli 2026*
+*Dev · Zuletzt aktualisiert: 2. Juli 2026*
 
 > IME
 

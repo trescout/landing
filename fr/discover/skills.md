@@ -29,7 +29,7 @@ npx skills add google/skills
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer des agents d'intelligence artificielle qui interagissent avec les produits et technologies Google. Comment puis-je intégrer des services tels que l'API Gemini, BigQuery ou Cloud Run dans mon agent à l'aide de la bibliothèque que j'ai installée avec la commande npx skills add google/skills ? Guidez-moi sur les talents que je devrais choisir.
 

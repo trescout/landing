@@ -46,7 +46,7 @@ node src/cli/index.js <command>
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie haben sich mit meiner TradingView-Desktopanwendung verbunden. Wenn ich nun möchte, dass Sie eine technische Analyse des Diagramms durchführen, Pine-Script-Codes überprüfen oder Diagrammeinstellungen ändern, möchte ich, dass Sie mit diesem Tool in die TradingView-Oberfläche eingreifen. Bitte führen Sie die erforderlichen Befehle aus, um Diagrammdaten zu lesen, Indikatorwerte zu analysieren oder neue Diagramme hinzuzufügen.
 

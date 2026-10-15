@@ -37,7 +37,7 @@ docker run -p 8080:8080 stremio-web
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I personalize my series and movie watching experience using the Stremio Web interface? Guide me on how to manage add-ons, synchronize my watchlist, and control the player more efficiently using keyboard shortcuts.
 

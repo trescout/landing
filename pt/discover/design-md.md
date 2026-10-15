@@ -47,7 +47,7 @@ npx @google/design.md diff DESIGN.md DESIGN-v2.md
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Revise o arquivo DESIGN.md que define a identidade visual e o sistema de design do meu projeto. Atenha-se a essa estrutura em todos os códigos que você criar, consultando a paleta de cores, regras de tipografia, valores de espaço e definições de componentes neste arquivo. Use valores diretamente do sistema de design e evite criar inconsistências visuais.
 

@@ -1,6 +1,6 @@
 # Data Residency nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 9 Ağustos 2026*
+*Veri & Altyapı · Son güncelleme: 9 Ağustos 2026*
 
 Verilerin yasal nedenlerle belirli bir coğrafi bölge veya ülke sınırları içinde tutulması zorunluluğudur.
 
@@ -38,8 +38,8 @@ Evet, bulut sağlayıcıları artık verinin nerede duracağını seçme imkanı
 - [Self-hosting](https://trescout.com/dictionary/self-hosting/)
 - [Local-first](https://trescout.com/dictionary/local-first/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/data-residency/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -36,7 +36,7 @@ uv pip install '.[torch]'
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Transformers kütüphanesini kullanarak bir metin oluşturma modeli çalıştırmak istiyorum. Pipeline API'sini kullanarak nasıl hızlı bir başlangıç yapabilirim? Adım adım kod örneği ve açıklama ile yardımcı olur musun?
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/transformers/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist AI Observability?
 
-*Glossar · AI · Zuletzt aktualisiert: 17. Juli 2026*
+*AI · Zuletzt aktualisiert: 17. Juli 2026*
 
 Dabei handelt es sich um den Prozess der Verfolgung, wie künstliche Intelligenzsysteme Entscheidungen treffen und wo sie Fehler machen, indem sie ihre innere Welt überwachen.
 

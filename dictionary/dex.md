@@ -1,6 +1,6 @@
 # DEX nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 12 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 12 Eylül 2026*
 
 > Decentralized Exchange
 
@@ -40,8 +40,8 @@ Aracı olmadığı için varlıklarınızın kontrolü sizdedir, ancak akıllı 
 - [dApps](https://trescout.com/dictionary/dapps/)
 - [Digital Privacy](https://trescout.com/dictionary/digital-privacy/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/dex/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

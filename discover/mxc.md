@@ -41,7 +41,7 @@ wxc-exec.exe config.json
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Microsoft tarafından geliştirilen MXC aracını kullanarak güvenilmeyen bir kod parçacığını yalıtılmış bir kapsayıcıda çalıştırmak istiyorum. Projenin GitHub deposundaki dokümantasyona göre, JSON tabanlı bir yapılandırma dosyası hazırlamam ve platformuma uygun ikili dosyayı kullanmam gerekiyor. Bana, bir Python betiğini kısıtlı dosya sistemi ve ağ erişimiyle çalıştırmamı sağlayacak örnek bir JSON yapılandırma dosyası oluşturur musun ve bu yapılandırmayı wxc-exec.exe ile nasıl çalıştıracağımı adım adım açıklar mısın?
 
@@ -61,4 +61,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mxc/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

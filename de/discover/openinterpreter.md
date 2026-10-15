@@ -37,7 +37,7 @@ i
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte, dass Sie als Programmieragent auf meinem Computer fungieren. Ich erwarte von Ihnen, dass Sie komplexe Aufgaben automatisieren, indem Sie Code in meiner lokalen Umgebung ausführen und bei Bedarf Web- oder lokale Anwendungen testen. Verwenden Sie Strukturen, die kostengünstige Modelle bei der Durchführung von Transaktionen optimieren und führen Sie meine Befehle sicher über das Terminal aus.
 

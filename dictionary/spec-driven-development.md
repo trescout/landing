@@ -1,6 +1,6 @@
 # Spec-driven Development nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 5 Haziran 2026*
+*Geliştirme · Son güncelleme: 5 Haziran 2026*
 
 Yazılımı kodlamaya başlamadan önce tüm detayların ve kuralların önceden belirlenmiş bir belgeye göre yapılması.
 
@@ -43,8 +43,8 @@ Yapılabilir ancak her değişiklik dokümanın güncellenmesini gerektirir.
 - [Spec Kit](https://trescout.com/discover/spec-kit/)
 - [OpenSpec](https://trescout.com/discover/openspec/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/spec-driven-development/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

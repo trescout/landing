@@ -28,7 +28,7 @@ docker run -d --name pgrust -e POSTGRES_PASSWORD=secret malisper/pgrust:v0.1 && 
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cuál es el objetivo principal del proyecto Pgrust, cómo se garantiza la compatibilidad del disco con PostgreSQL existente y cómo se utiliza la programación respaldada por inteligencia artificial en el desarrollo del proyecto? Cuéntenos sobre la compatibilidad de la versión actual de Pgrust con Postgres 18.3 y su éxito en las pruebas de regresión.
 

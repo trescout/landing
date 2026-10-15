@@ -1,6 +1,6 @@
 # Attention nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 30 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 30 Temmuz 2026*
 
 Yapay zekânın bir metin veya veri içindeki en önemli parçalara odaklanmasını sağlayan mekanizma.
 
@@ -44,8 +44,8 @@ Transformer mimarisini kullanan neredeyse tüm modern yapay zekâ modellerinde s
 - [Minimind](https://trescout.com/discover/minimind/)
 - [FlashKDA](https://trescout.com/discover/flashkda/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/attention/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

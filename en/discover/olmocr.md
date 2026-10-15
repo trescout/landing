@@ -34,7 +34,7 @@ conda activate olmocr
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to convert the PDF documents I have into a clean Markdown format that artificial intelligence models can easily read. Can you explain to me step by step the installation steps required for this process and the method of running it on the local GPU?
 

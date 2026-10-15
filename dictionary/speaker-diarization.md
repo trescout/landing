@@ -1,6 +1,6 @@
 # Speaker Diarization nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
 
 Speaker Diarization (konuşmacı ayrımı veya günlükleme), çok katılımcılı bir ses kaydında ses dalgalarını analiz ederek "kim, ne zaman konuştu?" sorusunu yanıtlayan ve konuşma dilimlerini konuşmacı kimliklerine göre etiketleyen yapay zekâ teknolojisidir.
 
@@ -59,8 +59,8 @@ Birden fazla kişinin aynı anda konuştuğu (overlapping speech), sözlerin bir
 
 - [Meetily](https://trescout.com/discover/meetily/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/speaker-diarization/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Local-first?
 
-*Dictionary · Dev · Last updated: July 19, 2026*
+*Dev · Last updated: July 19, 2026*
 
 It is a software approach based on keeping and processing data on the device without being dependent on an internet connection.
 

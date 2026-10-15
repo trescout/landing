@@ -1,6 +1,6 @@
 # Was ist API Gateway?
 
-*Glossar · Dev · Zuletzt aktualisiert: 17. Juni 2026*
+*Dev · Zuletzt aktualisiert: 17. Juni 2026*
 
 Es handelt sich um ein zentrales Eingangstor, das alle Anfragen von außen entgegennimmt, sie an die richtigen Orte leitet und Sicherheitskontrollen durchführt.
 

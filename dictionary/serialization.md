@@ -1,6 +1,6 @@
 # Serialization nedir, ne demek ve nasıl çalışır?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Serialization (serileştirme), bir programlama dilinin çalışma belleğinde (RAM) dinamik olarak tahsis edilen nesneleri, veri yapılarını ve işaretçi (pointer) grafiklerini; ağ üzerinden iletilebilir veya diskte saklanabilir düz, doğrusal bir bayt akışına (byte stream) ya da metin formatına dönüştürme işlemidir.
 
@@ -118,8 +118,8 @@ Yazılım güncellendikçe veri modelleri değişir. Protobuf ve Avro gibi siste
 
 - [YAML Cpp](https://trescout.com/discover/yaml-cpp/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/serialization/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

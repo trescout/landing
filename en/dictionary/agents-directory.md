@@ -1,6 +1,6 @@
 # What is Agents Directory?
 
-*Dictionary · AI · Last updated: October 11, 2026*
+*AI · Last updated: October 11, 2026*
 
 It is a special folder structure in software projects that keeps the behaviors, tools, and rules of artificial intelligence agents together.
 

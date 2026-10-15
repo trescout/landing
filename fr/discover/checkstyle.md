@@ -51,7 +51,7 @@ java -jar checkstyle-10.18.0-all.jar -c /google_checks.xml src/
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pouvez-vous expliquer avec des exemples de pom.
 

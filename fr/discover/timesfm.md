@@ -40,7 +40,7 @@ git clone https://github.com/google-research/timesfm.git
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite effectuer des prévisions de séries chronologiques à l'aide de la bibliothèque TimesFM. Comment configurer la structure des paramètres 200M avec la version 2.5 de ce modèle de base développé par Google ? Comment dois-je déterminer les valeurs max_context et max_horizon, en particulier pendant la phase de compilation du modèle, et dans quel format dois-je fournir des données d'entrée à la fonction de prévision ? Pouvez-vous expliquer avec un exemple de structure de code ?
 

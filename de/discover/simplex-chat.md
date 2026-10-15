@@ -29,7 +29,7 @@ curl -o- https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/inst
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie auf der Grundlage der benutzerkennungsfreien Struktur und der Ende-zu-Ende-Verschlüsselungsmethoden von SimpleX Chat einen kurzen Leitfaden, der erklärt, wie diese Plattform ein datenschutzorientiertes Messaging-Erlebnis bietet.
 

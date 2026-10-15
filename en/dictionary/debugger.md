@@ -1,6 +1,6 @@
 # What is Debugger?
 
-*Dictionary · Dev · Last updated: October 7, 2026*
+*Dev · Last updated: October 7, 2026*
 
 It is a debugging tool that allows finding and fixing bugs in software by tracking them step by step.
 

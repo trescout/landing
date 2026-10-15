@@ -35,7 +35,7 @@ motrix add https://example.com/file.iso --save-dir ~/Downloads
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me manage download tasks using the Motrix command line interface. Use 'motrix list' to view the download list, 'motrix add [URL] --save-dir [DIRECTORY]' to add a new file, and 'motrix watch --stats' to track live download progress. If I need to connect to a remote server, activate the 'motrix pair' command.
 

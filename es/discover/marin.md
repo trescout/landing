@@ -70,7 +70,7 @@ La prueba smoke en CPU es sólo para la verificación inicial. Las dependencias 
 
 ## Primer prompt
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Ejecuta como verificación inicial el flujo offline de TinyStories entrenando un modelo pequeño en CPU.
 

@@ -38,7 +38,7 @@ python -m cli.main
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite analyser les données des marchés financiers à l'aide de l'outil TradingAgents. J'ai terminé l'installation et configuré mes clés API nécessaires. Comment puis-je initialiser le système pour que les agents évaluent les conditions du marché et effectuent des analyses techniques et fondamentales ? Avec quelle commande puis-je activer des agents de trading autonomes et démarrer le processus de création de stratégie ?
 

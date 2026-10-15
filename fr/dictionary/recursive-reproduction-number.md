@@ -1,6 +1,6 @@
 # Qu'est-ce que Recursive Reproduction Number ?
 
-*Glossaire · AI · Dernière mise à jour : 2 septembre 2026*
+*AI · Dernière mise à jour : 2 septembre 2026*
 
 Il s'agit du taux de croissance d'un système d'intelligence artificielle dans son processus d'auto-amélioration et de reproduction.
 

@@ -1,6 +1,6 @@
 # What is Fine-tuning?
 
-*Dictionary · AI · Last updated: June 3, 2026*
+*AI · Last updated: June 3, 2026*
 
 It is the process of specifically training a ready-made artificial intelligence model for a specific task or area of ​​expertise.
 

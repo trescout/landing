@@ -1,6 +1,6 @@
 # Graph-based Investigation nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 3 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 3 Haziran 2026*
 
 Veriler arasındaki ilişkileri bir ağ haritası üzerinde görselleştirerek, gizli bağlantıları keşfetme yöntemidir.
 
@@ -41,8 +41,8 @@ Görselleştirme araçları sayesinde, mantığı anlayan herkes ilişkileri tak
 
 - [Flowsint](https://trescout.com/discover/flowsint/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/graph-based-investigation/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

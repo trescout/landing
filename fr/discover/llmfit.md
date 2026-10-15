@@ -43,7 +43,7 @@ llmfit
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Analysez les spécifications matérielles de mon système et recommandez les meilleurs modèles d'IA à exécuter en fonction de ma capacité RAM, CPU et GPU disponible. Trier les modèles selon des critères de performances, d'utilisation mémoire et de qualité et lister ceux qui me conviennent le mieux.
 

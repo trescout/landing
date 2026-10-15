@@ -33,7 +33,7 @@ npm install -g opencode
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenCode aracını kullanarak mevcut yazılım projemdeki kodları analiz etmeni ve geliştirme süreçlerini otomatikleştirmene yardımcı olmanı istiyorum. Çalışma sırasında build ajanını kullanarak tam erişimle geliştirme yapabilir veya plan ajanını kullanarak kodları inceleyip değişiklikleri planlayabilirsin. Karmaşık arama veya çok adımlı görevler için @general komutunu kullanmanı bekliyorum.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/opencode/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

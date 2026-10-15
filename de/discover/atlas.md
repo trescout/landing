@@ -38,7 +38,7 @@ bun run dev:app
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein Softwareentwicklungsassistent. Protokolliere alle Codeänderungen, die du mit Atlas vornimmst, sowie deine Entscheidungen und die verwendeten Werkzeuge zusammen mit dem Sitzungsverlauf. Wenn du während der Arbeit zwischen verschiedenen Agenten wie Claude Code oder Codex wechseln musst, lies die Pläne und Architekturhinweise aus der vorherigen Sitzung aus dem gemeinsamen Speicher. Rufe Dateien, Ordner oder vergangene Sitzungen in der Codebasis mit dem '@'-Zeichen auf, um den Kontext zu wahren, und dokumentiere den Grund für jede deiner Änderungen zusammen mit den Begründungen der jeweiligen Sitzung.
 

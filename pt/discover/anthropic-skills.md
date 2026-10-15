@@ -35,7 +35,7 @@ Você define a habilidade relevante como uma habilidade para Claude (por exemplo
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Enquanto estiver no Claude Code, adicione o repositório de habilidades da Anthropic como um mercado com o comando '/plugin marketplace add anthropics/skills' e, em seguida, instale as habilidades do documento com '/plugin install document-skills@anthropic-agent-skills'; Em seguida, peça a ele para usar a habilidade relevante para extrair campos de formulário de um PDF, por exemplo.
 

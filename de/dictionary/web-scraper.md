@@ -1,6 +1,6 @@
 # Was ist Web Scraper?
 
-*Glossar · Data · Zuletzt aktualisiert: 15. August 2026*
+*Data · Zuletzt aktualisiert: 15. August 2026*
 
 Es handelt sich um ein Softwaretool, das automatisch Daten von Websites sammelt und in eine organisierte Liste umwandelt.
 

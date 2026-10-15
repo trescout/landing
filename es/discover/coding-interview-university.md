@@ -15,7 +15,7 @@ Coding-interview-university ofrece un plan de estudio integral que cubre los con
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Me estoy preparando para una entrevista de ingeniería de software utilizando el plan de estudios de Coding Interview University. Cree un plan de estudio diario para que aprenda las estructuras de datos, los algoritmos y los temas de informática que se tratan en este recurso. ¿Puedes preparar una hoja de ruta desde el nivel principiante hasta el avanzado que incluya las materias básicas que necesito aprender, el orden en que debo estudiarlas y los recursos con los que puedo practicar?
 

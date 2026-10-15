@@ -58,7 +58,7 @@ Ipatool, Apple ekosisteminin özel istemci protokollerini çözümleyerek doğru
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 iOS için geliştirilen bir uygulamanın IPA paketini ipatool kullanarak bilgisayarıma indirmek, içeriğini açarak gömülü kütüphaneleri ve Info.plist dosyasındaki izin yapılandırmalarını güvenlik açısından incelemek istiyorum. Terminalde ipatool ile nasıl oturum açacağımı, arama yapıp indireceğimi ve ardından IPA dosyasını çıkartıp statik analiz yapacağımı adım adım açıklar mısın?
 
@@ -91,4 +91,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ipatool/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -61,7 +61,7 @@ find .cursor/rules -name "*.mdc" | wc -l  # Should show 346
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code veya kullandığın kodlama ajanı için bu kütüphanedeki yetenek paketlerini aktif et. Mühendislik, pazarlama veya C-seviyesi danışmanlık gibi alanlarda uzmanlaşmış betikleri kullanarak iş akışımı standartlaştır ve üretkenliğimi artır. İhtiyacım olan spesifik yetenekleri (örneğin güvenlik denetimi veya ürün geliştirme) projeme entegre et.
 
@@ -82,4 +82,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

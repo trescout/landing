@@ -43,7 +43,7 @@ Docker está instalado en un servidor o NAS. La guía de instalación está en j
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar el servidor de medios Jellyfin; Descargue e instale la versión adecuada para mi sistema operativo desde la página oficial jellyfin.org/downloads, o ayúdeme a ejecutarla con la imagen 'jellyfin/jellyfin' si uso Docker.
 

@@ -34,7 +34,7 @@ brew install --cask tonhowtf/tap/omniget
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich einen Kurs oder ein Video mit der OmniGet-Anwendung herunterladen? Wie verwende ich den integrierten Player und den E-Book-Reader der Anwendung? Erklären Sie Schritt für Schritt, wie ich Download-Vorgänge über die grafische Benutzeroberfläche starten und verwalten kann.
 

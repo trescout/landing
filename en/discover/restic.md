@@ -41,7 +41,7 @@ restic init --repo /path/to/repo
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to back up my data securely using Restic. How can I export a local folder or specific directory to an encrypted backup storage? Can you please explain step by step how to create the backup store and start the initial backup process so that my data is encrypted?
 

@@ -35,7 +35,7 @@ cd armorpaint/paint
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Assist me in my 3D modeling and texture painting processes. Enable me to prepare realistic coatings for my models using physically based rendering techniques. Provide step-by-step guidance when I encounter technical issues or get stuck during the texture creation phase.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Stealth Headless Browser?
 
-*Glosario · Dev · Última actualización: 8 de septiembre de 2026*
+*Dev · Última actualización: 8 de septiembre de 2026*
 
 Un navegador invisible que evita ser detectado como robot al eludir los firewalls de los sitios web.
 

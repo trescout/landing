@@ -36,7 +36,7 @@ docker compose up -d
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Open Notebook aracını kurmak istiyorum. Docker Desktop yüklü durumda. Öncelikle curl komutu ile docker-compose.yml dosyasını indirmem, ardından dosya içindeki OPEN_NOTEBOOK_ENCRYPTION_KEY kısmını kendime özel bir şifre ile değiştirmem gerekiyor. Son aşamada ise docker compose up -d komutunu çalıştırarak kurulumu tamamlamam lazım. Bu süreçte dikkat etmem gereken başka bir ayar veya adım var mı?
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-notebook/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

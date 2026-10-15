@@ -36,7 +36,7 @@ brew upgrade --cask cmux
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 cmux est un terminal macOS qui permet de suivre les notifications, de gérer les fenêtres avec des onglets verticaux et horizontaux et d'utiliser le navigateur intégré tout en travaillant avec des agents de codage d'intelligence artificielle. Résumez les étapes nécessaires pour installer et commencer à utiliser cet outil.
 

@@ -29,7 +29,7 @@ npm install -g codebase-memory-mcp
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Index this project to help you analyze my codebase and answer structured queries more efficiently. After indexing the project, I want you to provide in-depth information about my code base using relationships between functions, classes, and call chains.
 

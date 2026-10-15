@@ -1,6 +1,6 @@
 # Assembly nedir, ne demek ve nasıl çalışır?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Assembly, bilgisayar bilimlerinde iki temel kavrama karşılık gelir: Birincisi donanım işlemcisine (CPU) doğrudan hükmeden en düşük seviyeli sembolik programlama dili (Assembly Language); ikincisi ise derlenmiş yazılım modüllerinin (.NET assembly) dağıtılabilir tek bir paket haline getirilmesidir.
 
@@ -87,8 +87,8 @@ CISC (x86-64), tek bir komutta birden çok alt işlemi ve bellek erişimini yapa
 - [Ghidra](https://trescout.com/discover/ghidra/)
 - [Apollo-11](https://trescout.com/discover/apollo-11/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/assembly/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

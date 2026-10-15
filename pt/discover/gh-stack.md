@@ -49,7 +49,7 @@ gh stack add api-endpoints
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Eu uso a ferramenta gh-stack para criar solicitações pull empilhadas no GitHub. Incluir minhas ramificações de trabalho existentes em uma estrutura de pilha, gerenciar dependências entre ramificações e enviar a pilha para o GitHub para acelerar o processo de revisão de código.
 

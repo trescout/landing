@@ -36,7 +36,7 @@ python -m unimate.inference.sample \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 UniMate projesini kullanarak elimdeki farklı iskelet yapısına sahip karakter modellerini nasıl standart bir formatta hareketlendirebilirim? Projenin sunduğu UniML3D veri setinden ve önceden eğitilmiş kontrol noktalarından faydalanarak animasyon oluşturma sürecini adım adım açıkla.
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/unimate/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist Headless Browser?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Headless-Browser ist ein vollwertiger Webbrowser, der ohne grafische Benutzeroberfläche arbeitet.
 

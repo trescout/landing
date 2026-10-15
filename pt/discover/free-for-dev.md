@@ -47,7 +47,7 @@ free-for-dev é uma enorme biblioteca de recursos de código aberto que lista ma
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero estabelecer uma infraestrutura de nuvem moderna que consista em serviços totalmente gratuitos para uma nova iniciativa web. Você poderia descrever um plano de arquitetura de custo zero e etapas de instalação que combine os provedores gratuitos mais populares na lista gratuita para desenvolvedores (hospedagem, banco de dados, autenticação e serviço de e-mail) e não exceda os limites de cota?
 

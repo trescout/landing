@@ -29,7 +29,7 @@ brew install AIEraDev/tap/clypra
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to make a professional edit using the Clypra video editor. How can I perform operations such as automatic subtitling and smart reframing on my videos in the most efficient way, using the hardware-accelerated processing and artificial intelligence-supported features offered by the application? Can you recommend a step-by-step workflow?
 

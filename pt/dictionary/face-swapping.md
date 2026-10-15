@@ -1,6 +1,6 @@
 # O que é Face Swapping?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 Face swapping (troca de rostos) é o processo de transferir a expressão de um rosto para outro em um vídeo.
 

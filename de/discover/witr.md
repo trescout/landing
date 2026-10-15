@@ -35,7 +35,7 @@ brew install witr
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte verstehen, von welcher Quelle ein in meinem System laufender Prozess, Port oder Container gestartet wurde und welche Ausführungskette er auf dem System hat. Wie kann ich mit dem Tool witr diesen Prozess überwachen und erkennen, warum er ausgeführt wird?
 

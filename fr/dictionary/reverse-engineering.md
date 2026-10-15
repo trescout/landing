@@ -1,6 +1,6 @@
 # Qu'est-ce que Reverse Engineering ?
 
-*Glossaire · Dev · Dernière mise à jour : 6 octobre 2026*
+*Dev · Dernière mise à jour : 6 octobre 2026*
 
 C'est le processus qui consiste à démonter un produit, un système ou un logiciel fini afin de comprendre son fonctionnement et d'en décrypter les principes de fonctionnement.
 

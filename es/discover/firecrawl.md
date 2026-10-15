@@ -31,7 +31,7 @@ npm install @mendable/firecrawl-js
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Usando Firecrawl, escanee los datos en el sitio web que especifiqué y conviértalos a un formato Markdown limpio que los modelos de inteligencia artificial puedan procesar fácilmente. Al capturar el contenido de la página, limpie estructuras complejas y extraiga solo texto significativo, datos estructurados o información visual esencial.
 

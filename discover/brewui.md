@@ -29,7 +29,7 @@ brew install --cask homebrew-app
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Homebrew paketlerini yönetmek için BrewUI uygulamasını kullanıyorum. Uygulama içerisinde paketleri güvenli bir şekilde keşfetmek, yüklemek, güncellemek ve yönetmek istiyorum. Homebrew'un arka planda yaptığı işlemleri şeffaf bir şekilde görmemi sağlayan bu arayüzü kullanarak, sistemimdeki paket yapılandırmasını nasıl optimize edebilirim ve brew.env dosyası üzerinden özel değişkenleri nasıl tanımlayabilirim?
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/brewui/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

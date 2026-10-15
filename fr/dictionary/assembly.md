@@ -1,6 +1,6 @@
 # Assembly : Définition, registres et architecture système
 
-*Glossaire · Dev · Dernière mise à jour : 19 septembre 2026*
+*Dev · Dernière mise à jour : 19 septembre 2026*
 
 Le terme Assembly désigne deux réalités en informatique : d'une part le langage de programmation symbolique de plus bas niveau contrôlant directement le processeur (CPU), et d'autre part les unités de déploiement modulaires (.NET assembly).
 

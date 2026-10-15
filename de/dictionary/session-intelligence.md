@@ -1,6 +1,6 @@
 # Was ist Session Intelligence?
 
-*Glossar · AI · Zuletzt aktualisiert: 14. Juni 2026*
+*AI · Zuletzt aktualisiert: 14. Juni 2026*
 
 Ein System, das das Verhalten der Benutzer durch die Analyse ihrer Interaktionen versteht und darauf abzielt, ein besseres Erlebnis zu bieten.
 

@@ -1,6 +1,6 @@
 # Agent-native Applications nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 20 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 20 Haziran 2026*
 
 Yapay zekâ ajanlarının karar alıp işlemleri yürütmesi için özel olarak tasarlanmış uygulamalardır.
 
@@ -42,8 +42,8 @@ Evet, ancak tasarım odak noktası ajanların verimliliğidir.
 
 - [Agent Native](https://trescout.com/discover/agent-native/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-native-applications/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

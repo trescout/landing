@@ -1,6 +1,6 @@
 # Was ist System Prompts?
 
-*Glossar · AI · Zuletzt aktualisiert: 10. Juni 2026*
+*AI · Zuletzt aktualisiert: 10. Juni 2026*
 
 Dabei handelt es sich um eine Reihe grundlegender Anweisungen, die bestimmen, wie sich künstliche Intelligenz verhält und welchen Regeln sie folgt.
 

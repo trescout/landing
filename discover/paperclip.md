@@ -39,7 +39,7 @@ pnpm dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yapay zekâ yöneticisi gibi davranarak, belirlediğim ana iş hedefine ulaşmak için gerekli olan alt görevleri tanımla, bu görevleri uygun ajanlara ata, bütçe sınırlarını belirle ve yapılan çalışmaları düzenli olarak raporlayarak süreçteki ilerlemeyi kontrol et.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/paperclip/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

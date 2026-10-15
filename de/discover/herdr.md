@@ -30,7 +30,7 @@ herdr
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte alle meine Agenten für künstliche Intelligenz, die auf dem Terminal laufen, von einem einzigen Zentrum aus verwalten und sofort den Arbeitsstatus (wartend, ausgeführt, abgeschlossen) jedes einzelnen von ihnen sehen. Mithilfe von Herdr kann ich diese Agenten so konfigurieren, dass sie in verschiedene Arbeitsbereiche und Registerkarten unterteilt werden, sodass die Prozesse im Hintergrund weiterlaufen, auch wenn ich das Terminal schließe.
 

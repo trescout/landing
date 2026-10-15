@@ -38,7 +38,7 @@ crawl4ai-download
 
 ## Installation (einzelner Befehl)
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, den Open-Source-Webcrawler Crawl4AI zu installieren; Versuchen wir es, indem wir es mit „pip install -U crawl4ai“ installieren, dann „crawl4ai-setup“ ausführen und eine Webseite mit dem Befehl „crwl https://www.nbcnews.com/business -o markdown“ in LLM-freundliches Markdown konvertieren.
 

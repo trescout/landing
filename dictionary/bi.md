@@ -1,6 +1,6 @@
 # BI nedir, ne demek?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 22 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 22 Eylül 2026*
 
 > Business Intelligence
 
@@ -75,8 +75,8 @@ Basit haliyle evet. Tek e-tablo raporu bile BI başlangıcıdır.
 - [WrenAI](https://trescout.com/discover/wrenai/)
 - [Ossie](https://trescout.com/discover/ossie/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/bi/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

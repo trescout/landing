@@ -1,6 +1,6 @@
 # Intelligent UI nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 8 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 8 Ekim 2026*
 
 Kullanıcının alışkanlıklarını öğrenerek ona göre şekil alan ve işleri kolaylaştıran akıllı arayüz.
 
@@ -34,8 +34,8 @@ Evet, her bireyin kullanım alışkanlığına göre kişiselleştirilmiş bir d
 - [User Interface](https://trescout.com/dictionary/user-interface/)
 - [AI Companion](https://trescout.com/dictionary/ai-companion/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/intelligent-ui/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

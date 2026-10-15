@@ -66,7 +66,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero ejecutar un modelo de lenguaje nativo grande usando el servidor Omlx en mi Apple Silicon Mac. Después de completar la instalación con Homebrew, ¿puede explicar paso a paso cómo ejecutar el servidor en segundo plano, administrar la selección del modelo desde la barra de menú y conectarse a este modelo local a través del editor de código de cursor o la biblioteca openai de Python?
 

@@ -1,6 +1,6 @@
 # Code Intelligence Graph nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 18 Temmuz 2026*
+*Geliştirme · Son güncelleme: 18 Temmuz 2026*
 
 Bir yazılım projesindeki tüm dosyaların, fonksiyonların ve değişkenlerin birbirleriyle olan ilişkilerini gösteren detaylı bir haritadır.
 
@@ -38,8 +38,8 @@ Sadece bir dosya listesi veya basit bir klasör yapısı değildir; kodun mantı
 
 - [Code Review Graph](https://trescout.com/discover/code-review-graph/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-intelligence-graph/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

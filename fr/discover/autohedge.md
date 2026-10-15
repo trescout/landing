@@ -34,7 +34,7 @@ autohedge
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer une stratégie d'investissement en utilisant le système AutoHedge. Je veux que vous effectuiez une analyse de marché avec le Director Agent, que vous évaluiez les données techniques avec le Quant Agent et que vous déterminiez la taille des positions avec le Risk Management Agent. Avant d'exécuter les transactions, rapportez toutes les analyses de risques via ce framework basé sur l'IA.
 

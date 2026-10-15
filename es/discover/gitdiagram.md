@@ -53,7 +53,7 @@ bun run dev
 
 ## Si no sabe codificar: mensaje del agente de IA
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Cree el diagrama del sistema del repositorio de GitHub que revisé basado en la arquitectura de Gitdiagram. Identifique los componentes principales, direcciones del flujo de datos, puntos de entrada y dependencias externas en el repositorio. Dibuje la arquitectura como un diagrama de flujo en formato Mermaid.js y describa la función de cada componente en dos oraciones.
 

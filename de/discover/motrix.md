@@ -35,7 +35,7 @@ motrix add https://example.com/file.iso --save-dir ~/Downloads
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, Download-Aufgaben mithilfe der Motrix-Befehlszeilenschnittstelle zu verwalten. Verwenden Sie „motrix list“, um die Download-Liste anzuzeigen, „motrix add [URL] --save-dir [VERZEICHNIS]“, um eine neue Datei hinzuzufügen, und „motrix watch --stats“, um den Fortschritt des Live-Downloads zu verfolgen. Wenn ich eine Verbindung zu einem Remote-Server herstellen muss, aktiviere den Befehl „motrix pair“.
 

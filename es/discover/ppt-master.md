@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero convertir el documento que tengo en un archivo de presentación editable usando PPT-Master. Analice el contenido del documento, cree la estructura de diapositivas, agregue las animaciones necesarias y notas del orador para preparar un archivo PPTX profesional. Tenga la seguridad de que puedo realizar cambios en la presentación resultante en PowerPoint.
 

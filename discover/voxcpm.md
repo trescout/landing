@@ -49,7 +49,7 @@ Ses kopyalama (voice cloning) içerir. Bir kişinin sesini **izni olmadan** takl
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 VoxCPM metinden konuşma aracını kurmak için 'pip install voxcpm' komutunu çalıştır, sonra 'voxcpm design --text "Merhaba dünya" --output out.wav' komutuyla bir ses dosyası üret; istersem referans bir ses dosyasıyla 'voxcpm clone' kullanarak o sesi klonla.
 
@@ -72,4 +72,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/voxcpm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

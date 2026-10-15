@@ -1,6 +1,6 @@
 # Was ist Routing Pack?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Routing-Paket ist ein Datenpaket, das Netzwerkgeräte verwenden, um Routing-Informationen untereinander auszutauschen.
 

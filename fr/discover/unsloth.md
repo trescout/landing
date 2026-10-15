@@ -37,7 +37,7 @@ unsloth start claude
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite entraîner un modèle d'IA sur mon ordinateur local à l'aide d'Unsloth. Pouvez-vous expliquer étape par étape les paramètres de configuration optimaux qui me permettront d'utiliser mes ressources matérielles de la manière la plus efficace, d'optimiser l'utilisation de la mémoire et d'accélérer le processus de réglage fin ?
 

@@ -29,7 +29,7 @@ export ANTHROPIC_API_KEY="..." OPENAI_API_KEY="..."
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kurumsal yapay zekâ ajanlarımı güvenlik açıklarına karşı nasıl koruyabilirim? ADR sistemini kullanarak ajan faaliyetlerini nasıl izleyebilir, tehditleri nasıl tespit edebilir ve güvenlik kıyaslaması yaparak sistemimin savunma gücünü nasıl değerlendirebilirim? Lütfen bu süreçte izlemem gereken adımları ve ADR'nin sunduğu gözlemlenebilirlik özelliklerini nasıl yapılandıracağımı açıkla.
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/adr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -28,7 +28,7 @@ go build
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero compilar a partir do código-fonte e testar o servidor web extensível chamado Caddy. Após clonar o projeto e entrar no diretório, posso executar o comando de compilação e verificar os módulos com os comandos de teste.
 

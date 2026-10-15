@@ -29,7 +29,7 @@ curl -o- https://raw.githubusercontent.com/simplex-chat/simplex-chat/stable/inst
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Based on SimpleX Chat's user identifier-free structure and end-to-end encryption methods, create a short guide explaining how this platform provides a privacy-oriented messaging experience.
 

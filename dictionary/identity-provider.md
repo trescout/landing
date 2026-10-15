@@ -1,6 +1,6 @@
 # Identity Provider nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
+*Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Identity provider (Türkçe karşılığıyla **kimlik sağlayıcı**), girişleri doğrulayan merkezi servistir.
 
@@ -67,8 +67,8 @@ Evet, açık kaynak seçenekler vardır. Yama ve yedek disiplini size aittir.
 - [OIDC](https://trescout.com/dictionary/oidc/)
 - [RBAC](https://trescout.com/dictionary/rbac/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/identity-provider/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

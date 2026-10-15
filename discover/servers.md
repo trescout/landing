@@ -40,7 +40,7 @@ npx -y @modelcontextprotocol/server-memory
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Model Bağlam Protokolü (MCP) referans sunucularını kullanarak yapay zekâ modelimi dış veri kaynaklarına bağlamak istiyorum. Öncelikle npx -y @modelcontextprotocol/server-memory komutuyla bellek sunucusunu başlatmamda ve masaüstü istemcisi konfigürasyonunu yapılandırmamda bana rehberlik edin. Ayrıca uvx mcp-server-git komutunu kullanarak kod depolarına erişim sağlama adımlarını açıklayın.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/servers/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

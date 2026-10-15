@@ -29,7 +29,7 @@ export PATH="${BSK_INSTALL_DIR:-$HOME/.local/bin}:$PATH"
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du hast eine Verbindung zu BrowserSkill, einem Browser-Automatisierungstool. Ab jetzt kannst du meine vorhandenen Browsersitzungen nutzen, um Aufgaben im Internet für mich zu erledigen. Wenn du eine Aktion ausführst, leihe dir meine offenen Tabs im Browser, gib sie nach Abschluss der Arbeit wieder frei und berühre meine anderen Tabs nicht. Wenn du auf einen Bestätigungscode, einen Anmeldebildschirm oder ein Bestätigungsfenster stößt, halte den Vorgang an und bitte mich um Hilfe.
 

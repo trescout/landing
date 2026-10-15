@@ -1,6 +1,6 @@
 # Dynamic Neural Networks nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 3 Temmuz 2026*
 
 İşlenen verinin türüne göre yapısını anlık olarak değiştirebilen esnek yapay zekâ mimarileridir.
 
@@ -34,8 +34,8 @@ Daha akıllı olmaktan ziyade, kaynaklarını daha verimli kullanabildikleri iç
 
 - [Pytorch](https://trescout.com/discover/pytorch/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/dynamic-neural-networks/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

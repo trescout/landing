@@ -56,7 +56,7 @@ docker compose up --build -d
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop an academic research assistant using the production-agentic-rag-course project. For the basic installation of the project, after downloading the repository with the git clone command, I need to configure the .env file and install the dependencies with uv sync. Then, I want to verify that the system is working at http://localhost:8000/api/v1/health by starting all services with the docker compose up --build -d command. Can you guide me about the API keys and service configurations I should pay attention to in this process?
 

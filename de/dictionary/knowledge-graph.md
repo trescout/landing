@@ -1,6 +1,6 @@
 # Was ist Knowledge Graph?
 
-*Glossar · Data · Zuletzt aktualisiert: 3. Juni 2026*
+*Data · Zuletzt aktualisiert: 3. Juni 2026*
 
 Es handelt sich um ein strukturiertes Informationsnetzwerk, das Beziehungen zwischen Daten und Konzepten verbindet.
 

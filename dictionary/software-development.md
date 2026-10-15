@@ -1,6 +1,6 @@
 # Software Development nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 27 Eylül 2026*
+*Geliştirme · Son güncelleme: 27 Eylül 2026*
 
 Bilgisayarların, telefonların veya diğer akıllı cihazların çalışmasını sağlayan programların tasarlanması ve kodlanması sürecidir.
 
@@ -44,8 +44,8 @@ Hayır, yazılımların güncel kalması ve yeni hataların düzeltilmesi için 
 - [Modern Software Dev Assignments](https://trescout.com/discover/modern-software-dev-assignments/)
 - [U3 SDK](https://trescout.com/discover/u3-sdk/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/software-development/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

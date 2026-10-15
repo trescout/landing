@@ -35,7 +35,7 @@ yay -S stably-orca-bin
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Lancez plusieurs agents IA simultanément dans différents espaces de travail sur Orca. Envoyez une commande à cinq agents différents simultanément, comparez les résultats et combinez le meilleur. Permettez-moi de suivre le statut de travail des agents via l'application mobile et de m'envoyer des notifications lorsque le processus est terminé.
 

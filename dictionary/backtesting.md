@@ -1,6 +1,6 @@
 # Backtesting nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 29 Temmuz 2026*
+*Veri & Altyapı · Son güncelleme: 29 Temmuz 2026*
 
 Bir yatırım stratejisinin geçmişteki piyasa verileri kullanılarak ne kadar başarılı olacağını test etme yöntemidir.
 
@@ -44,8 +44,8 @@ Geçmişteki fiyat hareketleri, işlem hacimleri ve ekonomik göstergeler kullan
 - [Tick Stock Panel](https://trescout.com/discover/tick-stock-panel/)
 - [Free Stockdb](https://trescout.com/discover/free-stockdb/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/backtesting/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

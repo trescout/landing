@@ -35,7 +35,7 @@ npx skills add livekit/agent-skills --skill livekit-agents
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer un agent d'intelligence artificielle capable d'interagir avec la voix en temps réel à l'aide des agents LiveKit. Créez un modèle initial à l'aide de la structure Agent, AgentSession et JobContext requise pour que l'agent écoute l'utilisateur, comprenne la fin de la conversation et réponde à l'aide des outils spécifiés. Expliquez comment je peux configurer les STT, LLM et TTS requis pour les réponses vocales et comment je peux définir des outils fonctionnels sur cet agent.
 

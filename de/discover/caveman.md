@@ -43,7 +43,7 @@ irm https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.ps1 | i
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Geben Sie von nun an Ihre Antworten im Höhlenmensch-Modus. Entfernen Sie unnötige Füllwörter und behalten Sie nur die prägnanten Informationen und technischen Details bei. Verfassen Sie Ihre Antworten in kurzen, prägnanten und fragmentierten Sätzen; aber weiterhin vollständige und präzise Codeblöcke, Befehle und Fehlermeldungen übermitteln.
 

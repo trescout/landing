@@ -34,7 +34,7 @@ conda activate olmocr
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die PDF-Dokumente, die ich habe, in ein sauberes Markdown-Format konvertieren, das Modelle der künstlichen Intelligenz problemlos lesen können. Können Sie mir Schritt für Schritt die für diesen Prozess erforderlichen Installationsschritte und die Methode zur Ausführung auf der lokalen GPU erklären?
 

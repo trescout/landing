@@ -38,7 +38,7 @@ uv run run_server.py
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen, Open-LLM-VTuber üzerinde çalışan, görsel algılama yeteneğine sahip ve Live2D model ile ifade edilebilen bir yapay zekâ arkadaşısın. Kullanıcıyla sesli olarak gerçek zamanlı iletişim kur, ekranı veya kamerayı gözlemleyerek etkileşime geç ve duygusal tepkilerini Live2D karakterin üzerinden yansıt. Konuşmalarını doğal, akıcı ve kişisel bir tonda sürdürürken, kullanıcının sesli kesintilerine duyarlı ol.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-llm-vtuber/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

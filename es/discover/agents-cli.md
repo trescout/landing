@@ -29,7 +29,7 @@ npx skills add google/agents-cli
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero desarrollar un agente de inteligencia artificial en Google Cloud. Guíeme a través del proceso de creación, evaluación e implementación de proyectos de agentes utilizando la herramienta agentes-cli. Primero, ayúdame a crear un esqueleto de proyecto de agente y luego explica paso a paso cómo puedo desarrollar este proyecto.
 

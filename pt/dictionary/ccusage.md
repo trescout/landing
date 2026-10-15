@@ -1,6 +1,6 @@
 # O que é CCUsage?
 
-*Glossário · Dev · Última atualização: 14 de junho de 2026*
+*Dev · Última atualização: 14 de junho de 2026*
 
 > Compute Consumption Usage
 

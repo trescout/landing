@@ -36,7 +36,7 @@ brew install --cask aprilnea/tap/openlogi@latest
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want full control over my Logitech mouse, keyboard and webcam. How do I configure my keybindings, DPI sensitivity settings, and camera image controls using OpenLogi? Explain step by step how I can customize my devices and create application-based profiles, especially with the configuration file in TOML format.
 

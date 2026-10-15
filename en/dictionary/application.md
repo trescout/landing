@@ -1,6 +1,6 @@
 # What is Application?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Application is user software that performs a specific job.
 

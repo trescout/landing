@@ -40,7 +40,7 @@ python
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Tell me about TensorFlow installation and first testing steps. Explain how I can perform basic addition operations by running the python command after installing the library with the pip install tensorflow command.
 

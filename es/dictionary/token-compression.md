@@ -1,6 +1,6 @@
 # ¿Qué es Token Compression?
 
-*Glosario · AI · Última actualización: 2 de julio de 2026*
+*AI · Última actualización: 2 de julio de 2026*
 
 Es un método técnico que permite que los modelos de inteligencia artificial funcionen de manera más rápida y eficiente al reducir la cantidad de datos que procesan.
 

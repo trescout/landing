@@ -1,6 +1,6 @@
 # ¿Qué es IT Automation?
 
-*Glosario · Dev · Última actualización: 31 de julio de 2026*
+*Dev · Última actualización: 31 de julio de 2026*
 
 Las tareas rutinarias y repetitivas en los sistemas informáticos se llevan a cabo mediante software sin necesidad de humanos.
 

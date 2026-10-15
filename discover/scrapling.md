@@ -38,7 +38,7 @@ pip install scrapling
 
 ## Kurulum (tek komut)
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Scrapling adlı açık kaynaklı web kazıma kütüphanesini kurmama yardım et; 'pip install "scrapling[fetchers]"' ile yükleyip 'scrapling install' komutunu çalıştır, sonra 'scrapling extract get https://example.com content.md' komutuyla bir web sayfasının içeriğini Markdown dosyasına çıkaralım.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/scrapling/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

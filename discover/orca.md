@@ -35,7 +35,7 @@ yay -S stably-orca-bin
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Orca üzerinde birden fazla yapay zekâ ajanını eş zamanlı olarak farklı çalışma alanlarında başlat. Bir komutu beş farklı ajana aynı anda göndererek sonuçları karşılaştır ve en iyi olanı birleştir. Ajanların çalışma durumunu mobil uygulama üzerinden takip etmemi sağla ve süreç tamamlandığında bana bildirim gönder.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/orca/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

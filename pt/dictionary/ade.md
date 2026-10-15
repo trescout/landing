@@ -1,6 +1,6 @@
 # O que é ADE?
 
-*Glossário · Dev · Última atualização: 12 de agosto de 2026*
+*Dev · Última atualização: 12 de agosto de 2026*
 
 > Application Development Environment
 

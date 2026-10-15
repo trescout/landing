@@ -41,7 +41,7 @@ agent-tars --provider volcengine --model doubao-1-5-thinking-vision-pro-250428 -
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda veya tarayıcımda gerçekleştirmemi istediğin karmaşık bir görevi tanımla. Örneğin, belirli bir web sitesine gidip veri girişi yapmanı veya bir uçuş rezervasyonu sürecini yönetmeni isteyebilirim. Lütfen görsel arayüzü analiz ederek adımları otonom şekilde tamamla.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ui-tars-desktop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Model Context Protocol?
 
-*Dictionary · AI · Last updated: July 20, 2026*
+*AI · Last updated: July 20, 2026*
 
 > MCP
 

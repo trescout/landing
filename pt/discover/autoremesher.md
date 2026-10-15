@@ -55,7 +55,7 @@ make -j$(sysctl -n hw.logicalcpu)
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero converter o arquivo do modelo 3D que possuo em uma estrutura de malha retangular. Como posso processar meu arquivo de entrada com um número alvo especificado de quadriláteros, escala de arestas e configurações de arestas vivas usando a ferramenta Autoremesher? Crie um exemplo de configuração que eu possa usar por meio da linha de comando.
 

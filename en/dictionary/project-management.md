@@ -1,6 +1,6 @@
 # What is Project Management?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Project management is the discipline of planning time, resources and tasks to achieve the goal.
 

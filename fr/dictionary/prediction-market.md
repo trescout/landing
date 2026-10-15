@@ -1,6 +1,6 @@
 # Qu'est-ce que Prediction Market ?
 
-*Glossaire · Data · Dernière mise à jour : 3 juin 2026*
+*Data · Dernière mise à jour : 3 juin 2026*
 
 Il s'agit d'un marché créé pour prédire les résultats d'événements futurs.
 

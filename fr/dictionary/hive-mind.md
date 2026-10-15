@@ -1,6 +1,6 @@
 # Qu'est-ce que Hive Mind ?
 
-*Glossaire · AI · Dernière mise à jour : 24 août 2026*
+*AI · Dernière mise à jour : 24 août 2026*
 
 C’est le fait de nombreuses unités d’intelligence artificielle interconnectées agissant comme une intelligence collective.
 

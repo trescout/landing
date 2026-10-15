@@ -37,7 +37,7 @@ litellm --model gpt-4o
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a software development assistant. In our project, we want to use the LiteLLM tool to manage different AI models from a single central hub. First, help me install the library by running the 'uv add litellm' command in the terminal. Then, explain step-by-step how to start a local gateway server for the large language model gpt-4o using the commands 'uv tool install 'litellm[proxy]'' and 'litellm --model gpt-4o', and how I can route models through this server.
 

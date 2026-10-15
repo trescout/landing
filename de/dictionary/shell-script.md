@@ -1,6 +1,6 @@
 # Was ist Shell Script?
 
-*Glossar · Dev · Zuletzt aktualisiert: 17. August 2026*
+*Dev · Zuletzt aktualisiert: 17. August 2026*
 
 Hierbei handelt es sich um kleine Skripte, die das Betriebssystem des Computers anweisen, die erforderliche Arbeit in der richtigen Reihenfolge auszuführen.
 

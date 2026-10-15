@@ -1,6 +1,6 @@
 # Data Logger nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 16 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 16 Haziran 2026*
 
 Sensörlerden gelen verileri belirli aralıklarla kaydedip depolayan elektronik cihazdır.
 
@@ -42,8 +42,8 @@ Hayır, sensör veriyi sadece algılar; data logger ise bu veriyi zamanla ilişk
 
 - [Teslamate](https://trescout.com/discover/teslamate/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/data-logger/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

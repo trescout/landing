@@ -66,7 +66,7 @@ Use o projeto de acordo com as regulamentações aplicáveis. O texto oficial de
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quais são as diferenças entre usar uma instância pública do Invidious e hospedar minha própria instância?
 

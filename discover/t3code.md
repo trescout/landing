@@ -37,7 +37,7 @@ npx t3@latest
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 T3 Code aracını kullanarak Codex, Claude, Cursor veya OpenCode sağlayıcılarından birini yapılandır ve kodlama ajanı arayüzünü başlat. Seçtiğin sağlayıcının kimlik doğrulama işlemlerini tamamladıktan sonra aracı çalıştırarak projelerin üzerinde kodlama desteği almaya başla.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/t3code/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

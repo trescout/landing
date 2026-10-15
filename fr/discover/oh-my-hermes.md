@@ -43,7 +43,7 @@ omh setup
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez et configurez l'extension Oh My Hermes sur Hermes Agent. Pendant le processus d'installation, utilisez l'installateur approprié pour le système d'exploitation, terminez l'installation interactive du modèle, effectuez la discussion sur la chaîne de modèles et exécutez les étapes de diagnostic (doctor). Tout en conservant la configuration Hermes existante, appliquez uniquement les modifications d'installation documentées et rapportez le résultat de l'opération.
 

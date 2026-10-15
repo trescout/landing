@@ -30,7 +30,7 @@ winget install Microsoft.PowerToys
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Utilizo la colección de utilidades PowerToys para aumentar mi productividad en el sistema operativo Windows. Guíeme sobre qué herramientas pueden optimizar mi flujo de trabajo y explíqueme qué utilidad debo usar para realizar ciertas tareas.
 

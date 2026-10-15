@@ -27,7 +27,7 @@ Chaque leçon suit le même cycle : analyser le problème, faire le calcul, éc
 
 ## Comment l'utiliser avec l'IA ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je vais vous donner le contenu d'un programme open source en 20 phases et plus de 500 leçons appelé « ai-engineering-from-scratch » qui enseigne l'ingénierie de l'IA à partir de zéro. Relisez le README et la feuille de route et cela me donne un plan d'étude personnel, en turc, divisé en semaines : par quelle phase dois-je commencer, quels sont les prérequis et dans quel ordre dois-je procéder ? Mon niveau : [ex. débutant].
 

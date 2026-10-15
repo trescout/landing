@@ -39,7 +39,7 @@ cat install.sh
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 NVIDIA SM90 veya SM100 mimarili donanımımda DeepGEMM kütüphanesini kurmak istiyorum. İlk olarak depoyu alt modülleriyle klonlayıp geliştirme ortamını hazırlamak için '# Submodule must be cloned\ngit clone --recursive git@github.com:deepseek-ai/DeepGEMM.git\ncd DeepGEMM\n\n# Link some essential includes and build the C++ extension\ncat develop.sh\n./develop.sh' komutlarını çalıştırın. Ardından kurulumu tamamlamak için 'cat install.sh\n./install.sh' komutunu uygulayın ve Python ortamında 'import deep_gemm' komutuyla kütüphaneyi kullanıma hazır hâle getirin.
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/deepgemm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

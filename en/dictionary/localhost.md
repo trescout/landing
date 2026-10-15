@@ -1,6 +1,6 @@
 # What is Localhost?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Localhost is the special network name that addresses your computer itself. Its equivalent address is 127.0.0.1.
 

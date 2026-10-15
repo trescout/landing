@@ -1,6 +1,6 @@
 # Qu'est-ce que Clean Code ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Le code propre est le code qui peut être lu par les humains.
 

@@ -38,7 +38,7 @@ astrbot run
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear un asistente de inteligencia artificial personalizable en mis plataformas de mensajería usando AstrBot. Ayúdeme a crear un agente de IA que se configure según mis necesidades y se integre en mis flujos de trabajo personales y profesionales, utilizando el soporte de complementos de la plataforma, las capacidades multimodales y las funciones del espacio de trabajo del agente.
 

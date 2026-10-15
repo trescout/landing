@@ -47,7 +47,7 @@ pnpm dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar y configurar el proyecto Kaneo. Explique paso a paso cómo utilizar la herramienta drim para una instalación rápida del proyecto y la configuración del archivo .env necesaria para ejecutarlo en mi propio servidor con Docker Compose. Además, resuma las características clave del proyecto y cómo se puede personalizar para un flujo de trabajo eficiente, según la información de la documentación.
 

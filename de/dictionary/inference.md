@@ -1,6 +1,6 @@
 # Was ist Inference?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um den Prozess, bei dem ein trainiertes Modell der künstlichen Intelligenz Vorhersagen zu neuen Daten trifft.
 

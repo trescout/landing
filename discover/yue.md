@@ -44,7 +44,7 @@ python examples/generate.py --request examples/song.json \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 YuE2 kullanarak bir şarkı oluşturmak istiyorum. Lütfen bana şarkı sözlerini ve istediğim müzik tarzını temel alan, düzenlenebilir bir melodi ve akor planı hazırla. Ardından bu planı kullanarak vokaller ve enstrüman eşliği içeren tam bir şarkı kaydı üret. Eğer elimde bir notasyon dosyası varsa, bu dosyayı kullanarak düzenleme yapmamı sağla.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/yue/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

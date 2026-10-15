@@ -36,7 +36,7 @@ maigret kullanici-adi
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to perform a comprehensive digital footprint scan on a target username using the Maigret tool. Please explain the basic command that will allow me to check the presence of this username on more than 3000 websites and the parameters I can use to report the data obtained.
 

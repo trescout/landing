@@ -32,7 +32,7 @@ docker-compose up -d
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to view content on Twitter while protecting my privacy. Walk me through step-by-step how to install and configure Nitter, which will allow me to access Twitter without running JavaScript, hiding my IP address and browser fingerprint.
 

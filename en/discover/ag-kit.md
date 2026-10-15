@@ -51,7 +51,7 @@ printf '%s' '{"tool_args":{"CommandLine":"rm -rf /"}}' \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 In this project, I set up the Antigravity workspace and activated the AG Kit tools. I want to manage my tasks using the rules, expert agent roles and workflows defined in the .agents/ folder in the project directory. Make sure the security hook is active and plan complex workflows with the /coordinate or /orchestrate commands.
 

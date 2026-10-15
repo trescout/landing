@@ -1,6 +1,6 @@
 # ROM nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 4 Temmuz 2026*
+*Geliştirme · Son güncelleme: 4 Temmuz 2026*
 
 > Read-Only Memory
 
@@ -41,8 +41,8 @@ RAM ile karıştırılır; RAM geçicidir ve bilgisayar kapanınca silinir, ROM 
 - [Romm](https://trescout.com/discover/romm/)
 - [Lighthouse](https://trescout.com/discover/lighthouse/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/rom/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

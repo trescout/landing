@@ -1,6 +1,6 @@
 # O que é Zero-shot?
 
-*Glossário · AI · Última atualização: 13 de setembro de 2026*
+*AI · Última atualização: 13 de setembro de 2026*
 
 É a capacidade da inteligência artificial de realizar uma tarefa que nunca viu antes, apenas com uma explicação.
 

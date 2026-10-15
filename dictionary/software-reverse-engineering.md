@@ -1,6 +1,6 @@
 # Software Reverse Engineering nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 31 Ağustos 2026*
+*Geliştirme · Son güncelleme: 31 Ağustos 2026*
 
 Hazır bir yazılımın nasıl çalıştığını anlamak için kodlarını veya yapısını geriye doğru çözümleme işlemidir.
 
@@ -34,8 +34,8 @@ Güvenlik araştırmaları için genellikle kabul görür ancak telif hakları v
 - [Binary](https://trescout.com/dictionary/binary/)
 - [Security Scanner](https://trescout.com/dictionary/security-scanner/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/software-reverse-engineering/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

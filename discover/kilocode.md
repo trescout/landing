@@ -49,7 +49,7 @@ kilo run --auto "run tests and fix any failures"
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yazılım geliştirme ajanı olarak, mevcut proje dizinimde doğal dilden kod oluşturma, hata ayıklama veya mimari planlama süreçlerimi yönetmene ihtiyacım var. Kilo'nun sunduğu 500'den fazla model arasından görevime en uygun olanı seçerek, yazdığın kodları kendi kendini denetleme mekanizmanla gözden geçirip performans ve güvenlik standartlarına uygun şekilde teslim etmeni istiyorum.
 
@@ -73,4 +73,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kilocode/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Kernels nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 30 Temmuz 2026*
+*Geliştirme · Son güncelleme: 30 Temmuz 2026*
 
 Bilgisayarın donanımı ile yazılımları arasındaki iletişimi yöneten işletim sisteminin en temel parçası.
 
@@ -44,8 +44,8 @@ Evet, örneğin Linux çekirdeği ile Windows çekirdeği farklı mimarilere sah
 - [Tilelang](https://trescout.com/discover/tilelang/)
 - [FlashKDA](https://trescout.com/discover/flashkda/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/kernels/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

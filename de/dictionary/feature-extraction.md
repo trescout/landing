@@ -1,6 +1,6 @@
 # Was ist Feature Extraction?
 
-*Glossar · AI · Zuletzt aktualisiert: 13. Oktober 2026*
+*AI · Zuletzt aktualisiert: 13. Oktober 2026*
 
 Ein Prozess, der wichtige Informationen aus Texten extrahiert und sie in numerische Daten umwandelt, die ein Computer verstehen kann.
 

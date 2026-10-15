@@ -53,7 +53,7 @@ pnpm tauri dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I structure my Markdown-based knowledge base using the Tolaria desktop application? Explain step by step how to organize my notes, manage my standard Markdown files, and get productive from the keyboard-oriented command palette, using the application's Git-based structure, offline working principle, and features compatible with AI agents.
 

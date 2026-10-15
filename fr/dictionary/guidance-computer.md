@@ -1,6 +1,6 @@
 # Qu'est-ce que Guidance Computer ?
 
-*Glossaire · AI · Dernière mise à jour : 23 juillet 2026*
+*AI · Dernière mise à jour : 23 juillet 2026*
 
 C'est le cerveau du guidage qui calcule l'itinéraire d'un véhicule ou d'un système et lui permet d'atteindre la cible de manière autonome.
 

@@ -37,7 +37,7 @@ hermes
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite bénéficier du cycle d'apprentissage autonome tout en travaillant avec Hermes Agent. Quelles commandes dois-je utiliser pour que le système se souvienne de mes conversations passées, crée de nouvelles compétences à travers des tâches et se personnalise au fil du temps ? Pouvez-vous m'expliquer les étapes de base que je dois suivre, notamment pour basculer entre les différents modèles et connecter les plateformes de messagerie au système ?
 

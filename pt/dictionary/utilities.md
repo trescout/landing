@@ -1,6 +1,6 @@
 # O que é Utilities?
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 Utilitários são pacotes de módulos independentes, práticos e de propósito único que realizam manutenção e gerenciamento em sistemas operacionais e executam tarefas rotineiras frequentemente repetidas em projetos de software.
 

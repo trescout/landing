@@ -1,6 +1,6 @@
 # Database Client nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 29 Eylül 2026*
+*Geliştirme · Son güncelleme: 29 Eylül 2026*
 
 Veri tabanındaki bilgilere ulaşmanızı ve onları yönetmenizi sağlayan aracı program.
 
@@ -39,8 +39,8 @@ DBeaver, pgAdmin veya MySQL Workbench gibi yazılımlar bu kategoriye girer.
 
 - [DBX](https://trescout.com/discover/dbx/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/database-client/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

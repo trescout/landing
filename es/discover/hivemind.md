@@ -37,7 +37,7 @@ hivemind status
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear una capa de memoria común entre mis agentes de IA usando la herramienta Hivemind. Después de completar la instalación con el comando npm install -g @deeplake/hivemind && hivemind install, explique paso a paso cómo mis agentes pueden compartir datos históricos de sesiones de manera más eficiente y cómo convertir automáticamente estos datos en archivos de habilidades.
 

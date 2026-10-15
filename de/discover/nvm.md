@@ -42,7 +42,7 @@ nvm install 24
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mehrere Versionen von Node.js auf meinem Computer verwalten. Wie installiere ich Node.js Version 24 und wechsle mit dem NVM-Tool zwischen verschiedenen Versionen? Können Sie den Vorgang des Versionswechsels über die Befehlszeile Schritt für Schritt erklären?
 

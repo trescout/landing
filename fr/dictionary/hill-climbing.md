@@ -1,6 +1,6 @@
 # Qu'est-ce que Hill Climbing ?
 
-*Glossaire · AI · Dernière mise à jour : 11 août 2026*
+*AI · Dernière mise à jour : 11 août 2026*
 
 C'est une méthode de recherche qui progresse en apportant constamment de petites améliorations pour arriver à la meilleure solution.
 

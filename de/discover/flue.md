@@ -45,7 +45,7 @@ flue run hello --target node \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe des Flue-Frameworks einen Agenten für künstliche Intelligenz entwickeln. Wie kann ich in meinem Projekt einen Workflow mit TypeScript definieren? Wie kann ich konkret das Modell mit der Funktion „createAgent“ konfigurieren und über session.prompt mit meinem Agenten interagieren? Können Sie anhand eines einfachen „Hallo Welt“-Beispiels Schritt für Schritt erklären, wie ich einen Agenten zur Laufzeit starten und Ergebnisse erzielen kann?
 

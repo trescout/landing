@@ -35,7 +35,7 @@ Vous définissez la compétence pertinente comme une compétence pour Claude (ex
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Dans Claude Code, ajoutez le référentiel de compétences d'Anthropic en tant que marketplace avec la commande '/plugin marketplace add anthropics/skills', puis installez document skills avec '/plugin install document-skills@anthropic-agent-skills' ; Demandez-lui ensuite d'utiliser la compétence pertinente pour extraire les champs d'un formulaire d'un PDF, par exemple.
 

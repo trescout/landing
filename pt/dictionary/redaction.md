@@ -1,6 +1,6 @@
 # O que é Redaction?
 
-*Glossário · Data · Última atualização: 5 de outubro de 2026*
+*Data · Última atualização: 5 de outubro de 2026*
 
 É o processo de tarja ou exclusão permanente de informações confidenciais ou sensíveis de documentos.
 

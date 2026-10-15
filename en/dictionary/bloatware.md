@@ -1,6 +1,6 @@
 # What is Bloatware?
 
-*Dictionary · Dev · Last updated: June 18, 2026*
+*Dev · Last updated: June 18, 2026*
 
 They are software pre-installed on the computer or phone, which usually take up unnecessary space and slow down the system.
 

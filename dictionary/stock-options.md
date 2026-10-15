@@ -1,6 +1,6 @@
 # Stock Options nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 28 Eylül 2026*
+*Geliştirme · Son güncelleme: 28 Eylül 2026*
 
 Şirketlerin çalışanlarına belirli bir fiyattan gelecekte hisse satın alma hakkı tanıyan finansal teşvik mekanizmasıdır.
 
@@ -39,8 +39,8 @@ Hayır. Şirketin değeri düşerse veya halka arz gerçekleşmezse opsiyonları
 - [Open Source](https://trescout.com/dictionary/open-source/)
 - [Best Practices](https://trescout.com/dictionary/best-practices/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/stock-options/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

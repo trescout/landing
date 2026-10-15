@@ -34,7 +34,7 @@ npm install @strands-agents/harness
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Python veya TypeScript ortamımda strands-harness paketini kurarak yapay zekâ ajan döngüsünü başlatmak ve test etmek istiyorum. Gerekli kütüphaneyi yükledikten sonra basit bir ajan oluşturup örnek bir görev vermemi sağlayacak kodu yazar mısın?
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/harness-sdk/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # O que é Graph-native?
 
-*Glossário · Data · Última atualização: 11 de agosto de 2026*
+*Data · Última atualização: 11 de agosto de 2026*
 
 É um projeto de sistema baseado em uma estrutura na qual os dados são conectados entre si por meio de nós.
 

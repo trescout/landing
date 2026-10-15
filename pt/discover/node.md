@@ -23,7 +23,7 @@ Node.js oferece um ambiente de execução que permite que o código JavaScript s
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um aplicativo de servidor baseado em JavaScript usando o ambiente Node.js. Você pode explicar os recursos básicos de tempo de execução que esta plataforma oferece e os elementos estruturais aos quais devo prestar atenção ao criar aplicativos de rede escaláveis?
 

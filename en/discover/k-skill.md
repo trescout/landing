@@ -32,7 +32,7 @@ npx --yes skills add NomaDamas/k-skill --skill srt-booking -g
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 In the next tasks I give you, use the skills provided by the k-skill library to access local services. If you need to perform a transportation query, public data search, or local operation, manage the process by deploying the relevant capabilities in this library. When performing transactions, do not forget to obtain the necessary login information or confirmations from the user.
 

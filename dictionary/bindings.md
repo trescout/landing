@@ -1,6 +1,6 @@
 # Bindings nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 8 Haziran 2026*
+*Geliştirme · Son güncelleme: 8 Haziran 2026*
 
 Farklı programlama dillerinin birbirinin kütüphanelerini kullanabilmesini sağlayan köprülerdir.
 
@@ -42,8 +42,8 @@ Genellikle çok az bir performans kaybı olsa da, sağladığı kolaylık buna d
 
 - [Turbovec](https://trescout.com/discover/turbovec/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/bindings/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

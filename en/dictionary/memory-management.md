@@ -1,6 +1,6 @@
 # What is Memory Management?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Memory Management is the process of allocating the physical and virtual random access memory (RAM) of the computer among running software, protecting it and returning it to the system when use is finished.
 

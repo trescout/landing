@@ -1,6 +1,6 @@
 # O que é CRISPR?
 
-*Glossário · AI · Última atualização: 13 de junho de 2026*
+*AI · Última atualização: 13 de junho de 2026*
 
 > Clustered Regularly Interspaced Short Palindromic Repeats
 

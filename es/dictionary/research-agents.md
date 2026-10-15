@@ -1,6 +1,6 @@
 # ¿Qué es Research Agents?
 
-*Glosario · AI · Última actualización: 12 de septiembre de 2026*
+*AI · Última actualización: 12 de septiembre de 2026*
 
 Son programas de inteligencia artificial que realizan investigaciones profundas en Internet en su lugar y resumen la información.
 

@@ -37,7 +37,7 @@ headroom perf
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite optimiser la consommation de données contextuelles et de fichiers journaux par mon agent IA à l'aide de l'outil Headroom. J'ai terminé l'installation avec la commande "pip install "headroom-ai[all]"" dans l'environnement Python. Comment dois-je configurer les commandes « headroom wrap claude » ou « headroom proxy --port 8787 » pour réduire la quantité de jetons utilisés par mon agent ? De plus, comment dois-je interpréter les données d'épargne que j'obtiens avec la commande « headroom perf » ?
 

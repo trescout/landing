@@ -1,6 +1,6 @@
 # Was ist Code Splitting?
 
-*Glossar · Dev · Zuletzt aktualisiert: 6. August 2026*
+*Dev · Zuletzt aktualisiert: 6. August 2026*
 
 Um die Ladegeschwindigkeit der Website zu erhöhen, werden große Codedateien in kleine Teile aufgeteilt und nur bei Bedarf geladen.
 

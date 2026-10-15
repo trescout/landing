@@ -1,6 +1,6 @@
 # O que é Agentic Engineering Platform?
 
-*Glossário · AI · Última atualização: 19 de junho de 2026*
+*AI · Última atualização: 19 de junho de 2026*
 
 É um ambiente de desenvolvimento abrangente usado para criar, gerenciar e testar agentes autônomos de inteligência artificial.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Unsoundness ?
 
-*Glossaire · Dev · Dernière mise à jour : 13 octobre 2026*
+*Dev · Dernière mise à jour : 13 octobre 2026*
 
 Situation où les règles par lesquelles un langage de programmation prétend être sûr sont en fait erronées ou incomplètes.
 

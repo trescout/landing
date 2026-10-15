@@ -58,7 +58,7 @@ MiniMind'ın modüler yapısı, bir dil modelinin ham metinden diyaloğa dönü�
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 MiniMind deposunu kullanarak PyTorch ile sıfırdan 64M parametreli bir dil modeli eğitmek istiyorum. Kendi Türkçe metin veri kümeme göre tokenizer'ı nasıl hazırlayacağımı, 1-pretrain.py betiğini nasıl çalıştıracağımı ve ardından LoRA ile nasıl ince ayar yapacağımı adım adım açıklar mısın?
 
@@ -91,4 +91,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/minimind/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

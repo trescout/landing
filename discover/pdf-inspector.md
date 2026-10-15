@@ -36,7 +36,7 @@ npm install @firecrawl/pdf-inspector
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki PDF dosyasını analiz etmem gerekiyor. Bu dosyayı metin tabanlı mı yoksa taranmış bir belge mi olduğunu anlamak için sınıflandır. Eğer metin tabanlıysa, içerisindeki metinleri, tabloları ve başlıkları koruyarak temiz bir Markdown formatına dönüştür. İşlemi yaparken OCR kullanmadan, dosyanın kendi yapısını ve yazı tipi bilgilerini kullanarak okuma sırasını doğru bir şekilde belirle.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pdf-inspector/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

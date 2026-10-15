@@ -1,6 +1,6 @@
 # Was ist User Experience?
 
-*Glossar · Dev · Zuletzt aktualisiert: 13. Juli 2026*
+*Dev · Zuletzt aktualisiert: 13. Juli 2026*
 
 > UX
 

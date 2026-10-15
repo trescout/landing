@@ -27,7 +27,7 @@ from diller import DILLER
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = "https://trescout.com"
 CHECK = "--check" in sys.argv
-TR_SON = "TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler."
+TR_SON = "TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler."
 
 
 def hedefler():

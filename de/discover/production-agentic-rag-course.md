@@ -56,7 +56,7 @@ docker compose up --build -d
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe des Production-Agentic-Rag-Course-Projekts einen wissenschaftlichen Mitarbeiter entwickeln. Für die Basisinstallation des Projekts muss ich nach dem Herunterladen des Repositorys mit dem Befehl „git clone“ die .env-Datei konfigurieren und die Abhängigkeiten mit UV-Sync installieren. Dann möchte ich überprüfen, ob das System unter http://localhost:8000/api/v1/health funktioniert, indem ich alle Dienste mit dem Befehl docker compose up --build -d starte. Können Sie mir Hinweise zu den API-Schlüsseln und Dienstkonfigurationen geben, auf die ich in diesem Prozess achten sollte?
 

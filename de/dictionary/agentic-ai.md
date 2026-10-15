@@ -1,6 +1,6 @@
 # Was ist Agentic AI?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Das bedeutet, dass künstliche Intelligenz die Initiative ergreift, um Ziele zu erreichen, anstatt nur Texte zu produzieren.
 

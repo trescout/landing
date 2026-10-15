@@ -1,6 +1,6 @@
 # What is FP8?
 
-*Dictionary · AI · Last updated: August 15, 2026*
+*AI · Last updated: August 15, 2026*
 
 > 8-bit Floating Point
 

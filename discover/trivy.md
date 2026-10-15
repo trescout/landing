@@ -57,7 +57,7 @@ Trivy, modern yazılım dağıtım süreçlerinde bir kalite kapısı (quality g
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 GitHub Actions üzerinde her kod gönderiminde (push) ve çekme isteğinde (PR) Docker imajımı ve kaynak kodlarımı Trivy ile tarayan bir güvenlik iş akışı (workflow) kurmak istiyorum. Yalnızca CRITICAL ve HIGH seviyesindeki güvenlik açıklarında derlemeyi durduran (exit-code 1), bulguları SARIF formatında GitHub Security panosuna yükleyen ve CycloneDX formatında SBOM dosyası oluşturan eksiksiz bir .github/workflows/trivy.yml dosyası hazırlar mısın?
 
@@ -90,4 +90,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trivy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

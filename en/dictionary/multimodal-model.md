@@ -1,6 +1,6 @@
 # What is Multimodal Model?
 
-*Dictionary · AI · Last updated: August 2, 2026*
+*AI · Last updated: August 2, 2026*
 
 It is an artificial intelligence model that can simultaneously process not only text but also different types of data such as images, audio and video.
 

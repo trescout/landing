@@ -45,7 +45,7 @@ curl http://localhost:4000/health
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Actúa como un enrutador de tráfico de IA para mí. Con Switchyard, quiero que distribuya las solicitudes de mis agentes de codificación como Claude Code o Codex entre diferentes modelos, traduzca automáticamente entre los formatos OpenAI y Anthropic API y supervise todas las métricas operativas. Administre las solicitudes entrantes con algoritmos de enrutamiento estructurados y realice pruebas A/B o equilibrio de carga entre diferentes modelos cuando sea necesario.
 

@@ -1,6 +1,6 @@
 # Was ist Self-orchestration?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Künstliche Intelligenz plant komplexe Aufgaben selbstständig und steuert die notwendigen Schritte der Reihe nach.
 

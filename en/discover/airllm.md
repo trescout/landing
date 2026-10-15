@@ -38,11 +38,11 @@ pip install airllm
 
 ## Example Python usage
 
-AirLLM has an extremely simple Python syntax, very similar to the HuggingFace AutoModel API:
+AirLLM has an extremely simple Python syntax, very similar to the Hugging Face AutoModel API:
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a 70 billion parameter model (for example, meta-llama/Llama-3-70B-Instruct) on my local graphics card with 4GB VRAM capacity using the AirLLM library. I used the pip install airllm command for installation. Could you explain the Python code required to load my model, get output with text input, and prevent out-of-memory errors? I know I need to make sure my disk space is sufficient in the process, could you detail the steps I need to follow?
 
@@ -65,7 +65,7 @@ I want to run a 70 billion parameter model (for example, meta-llama/Llama-3-70B-
 - **Who it is for:** It is intended for researchers who have limited hardware resources and want to test high-capacity 70B and 405B models locally, perform data mining, and evaluation.
 - **License:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
 - **Requirement:** Minimum 4 GB VRAM GPU and high-speed NVMe SSD disk space
-- **Ecosystem:** Python, PyTorch, and HuggingFace Transformers
+- **Ecosystem:** Python, PyTorch, and Hugging Face Transformers
 
 ## Links
 

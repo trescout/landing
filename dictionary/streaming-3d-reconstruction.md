@@ -1,6 +1,6 @@
 # Streaming 3D Reconstruction nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 10 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 10 Ekim 2026*
 
 Kamera veya sensörlerden gelen veri akışını bekletmeden, anlık olarak üç boyutlu dijital modele dönüştürme yöntemidir.
 
@@ -39,8 +39,8 @@ LiDAR veya derinlik kameraları işlemi hızlandırsa da gelişmiş yapay zekâ 
 - [Spatial Intelligence](https://trescout.com/dictionary/spatial-intelligence/)
 - [Physical AI](https://trescout.com/dictionary/physical-ai/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/streaming-3d-reconstruction/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

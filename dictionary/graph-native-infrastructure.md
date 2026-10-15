@@ -1,6 +1,6 @@
 # Graph-native Infrastructure nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 8 Ağustos 2026*
+*Veri & Altyapı · Son güncelleme: 8 Ağustos 2026*
 
 Veriler arasındaki doğrudan bağlantıları temel alarak tasarlanmış özel bir veri depolama yapısıdır.
 
@@ -38,8 +38,8 @@ Veriler arasındaki derin ve karmaşık ilişkileri saniyeler içinde sorgulaman
 
 - [Semantica](https://trescout.com/discover/semantica/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/graph-native-infrastructure/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

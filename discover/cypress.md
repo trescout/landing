@@ -39,7 +39,7 @@ npx cypress open
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Cypress kullanarak web uygulamam için uçtan uca test senaryoları oluşturmak istiyorum. npm install cypress --save-dev veya yarn add cypress --dev komutlarıyla projeme dahil ettiğim bu aracı kullanarak tarayıcı tabanlı testlerimi nasıl yapılandırabilirim, temel bir test dosyasını nasıl oluşturup çalıştırabilirim?
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cypress/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

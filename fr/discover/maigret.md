@@ -36,7 +36,7 @@ maigret kullanici-adi
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite effectuer une analyse complète de l'empreinte numérique sur un nom d'utilisateur cible à l'aide de l'outil Maigret. Veuillez expliquer la commande de base qui me permettra de vérifier la présence de ce nom d'utilisateur sur plus de 3000 sites Web et les paramètres que je peux utiliser pour rapporter les données obtenues.
 

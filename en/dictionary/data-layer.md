@@ -1,6 +1,6 @@
 # What is Data Layer?
 
-*Dictionary · Dev · Last updated: July 17, 2026*
+*Dev · Last updated: July 17, 2026*
 
 It is the middle layer that allows your application to talk to the database and organizes the data.
 

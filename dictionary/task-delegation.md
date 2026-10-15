@@ -1,6 +1,6 @@
 # Task Delegation nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 6 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 6 Temmuz 2026*
 
 Bir işin tamamlanması için sorumluluğun başka bir kişiye veya yapay zekâ sistemine devredilmesidir.
 
@@ -38,8 +38,8 @@ Görev tanımı ne kadar netse, devir süreci o kadar başarılı olur.
 - [Subagents](https://trescout.com/dictionary/subagents/)
 - [AI Agents](https://trescout.com/dictionary/ai-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/task-delegation/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -38,7 +38,7 @@ npx @agent-native/core@latest skills add visual-plan
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe des Agent-Native-Frameworks eine Aktion für meine Anwendung definieren. Mithilfe der Funktion „defineAction“ können Sie mir dabei helfen, eine Struktur zu erstellen, die die eingehenden Daten in der Datenbank verarbeitet und sowohl für die Benutzeroberfläche als auch für den Agenten der künstlichen Intelligenz zugänglich ist.
 

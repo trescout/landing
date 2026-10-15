@@ -1,6 +1,6 @@
 # O que é Web UI?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 > Web User Interface
 

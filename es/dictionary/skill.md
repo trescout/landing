@@ -1,6 +1,6 @@
 # ¿Qué es Skill?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 Una habilidad (Skill en su equivalente en turco) es una unidad definida que permite a un asistente de inteligencia artificial realizar tareas utilizando una herramienta externa.
 

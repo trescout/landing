@@ -1,6 +1,6 @@
 # Desktop Client nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 20 Temmuz 2026*
+*Geliştirme · Son güncelleme: 20 Temmuz 2026*
 
 Bilgisayarınıza yükleyerek doğrudan masaüstü ortamında çalıştırdığınız yazılım uygulamasıdır.
 
@@ -38,8 +38,8 @@ Daha yüksek performans ve donanım erişimi gerektiren işler için evet, ancak
 
 - [Jellium Desktop](https://trescout.com/discover/jellium-desktop/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/desktop-client/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -43,7 +43,7 @@ cline --team-name auth-sprint "Plan and implement user authentication with tests
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Projemin dosya yapısını analiz et, mevcut kod standartlarını ve .clinerules dosyasındaki kuralları dikkate alarak belirlediğim görevi yerine getir. Kod değişikliklerini yaparken hata denetimi yap, gerekli komutları terminal üzerinde çalıştır ve her adımda onayımı alarak ilerle.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cline/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

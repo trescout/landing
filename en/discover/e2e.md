@@ -29,7 +29,7 @@ npx e2e init
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the testing tool, set up automated tests with steps written in natural language for my web or mobile application and generate the configuration file.
 

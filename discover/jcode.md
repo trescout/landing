@@ -46,7 +46,7 @@ jcode --provider ollama --model llama3.2 run 'hello'
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kodlama odaklı yapay zekâ ajanımın performansını ve çoklu oturum yönetimi becerisini test etmek istiyorum. jcode çerçevesini kullanarak ajanımın kaynak kullanımını optimize etmemi ve standart bir test ortamı kurmamı sağla.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jcode/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

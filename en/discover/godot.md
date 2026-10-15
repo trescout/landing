@@ -36,7 +36,7 @@ winget install GodotEngine.GodotEngine
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a two- or three-dimensional game project with the Godot engine. Can you prepare a step-by-step beginner's guide for me on basic interface usage, scene creation logic and project structure to get me started in the game development process?
 

@@ -58,7 +58,7 @@ Cette fiche concerne ManimGL. Le nom du paquet est `manimgl` ; n’utilisez pas 
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pouvez-vous m’aider à écrire une scène ManimGL simple dans laquelle un cercle se transforme en carré ?
 

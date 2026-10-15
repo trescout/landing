@@ -127,7 +127,7 @@ print(f"llms-full.txt güncellendi · {len(F)} satır tam içerik haritalandı."
 
 # llms-en.txt üreteci (İngilizce dinamik indeks)
 E = ["# TreScout (English Index)", "",
-     "> TreScout scans GitHub, Hacker News and HuggingFace every day, summarizes the highlights and publishes one daily report on the web and as a PDF. Reports are public; no account is needed to read them.", "",
+     "> TreScout scans GitHub, Hacker News and Hugging Face every day, summarizes the highlights and publishes one daily report on the web and as a PDF. Reports are public; no account is needed to read them.", "",
      f"Last updated: {TODAY} · {len(cat)} tools · {len(man)} terms", "",
      "## Tech Dictionary", "",
      "Plain-language definitions of AI and software terms. Append `.md` to any URL for raw Markdown (e.g. " + B + "/en/dictionary/rag.md).", "",

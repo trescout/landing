@@ -44,7 +44,7 @@ python examples/generate.py --request examples/song.json \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein Lied mit YuE2 erstellen. Bitte erstelle mir einen editierbaren Melodie- und Akkordplan basierend auf meinen Liedtexten und dem gewünschten Musikstil. Erzeuge anschließend eine vollständige Liedaufnahme mit Gesang und instrumentaler Begleitung unter Verwendung dieses Plans. Falls ich eine Notationsdatei habe, ermögliche mir die Bearbeitung unter Verwendung dieser Datei.
 

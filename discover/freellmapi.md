@@ -15,7 +15,7 @@ FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli sağlayıcısını OpenAI fo
 
 ## Ne kazandırır?
 
-- **34 ücretsiz model sağlayıcısı:** Google Gemini, Groq, Cloudflare Workers AI ve HuggingFace dahil onlarca ücretsiz sağlayıcıya tek noktadan erişim.
+- **34 ücretsiz model sağlayıcısı:** Google Gemini, Groq, Cloudflare Workers AI ve Hugging Face dahil onlarca ücretsiz sağlayıcıya tek noktadan erişim.
 - **OpenAI REST API uyumluluğu:** /v1/chat/completions uç noktası sayesinde LangChain, LlamaIndex ve mevcut yapay zekâ uygulamalarıyla kod değiştirmeden çalışma.
 - **Akıllı yönlendirme ve arıza kurtarma:** Bir sağlayıcı hız sınırına (rate limit) ulaştığında veya hata verdiğinde otomatik olarak alternatif sağlayıcıya geçiş.
 - **Streaming (Server-Sent Events) desteği:** Model çıktılarını gerçek zamanlı kelime kelime akış olarak alabilme imkânı.
@@ -63,7 +63,7 @@ Geliştiriciler FreeLLMAPI ile maliyet oluşturmadan üretim ortamına yakın te
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 FreeLLMAPI aracını Docker ile yerel sunucumda nasıl çalıştıracağımı, OpenAI Node.js SDK'sını bu yerel uç noktaya nasıl yönlendireceğimi ve bir sağlayıcı hata verdiğinde otomatik yedek model kullanımını nasıl sağlayacağımı kod örnekleriyle açıklar mısın?
 
@@ -96,4 +96,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/freellmapi/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

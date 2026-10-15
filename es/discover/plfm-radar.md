@@ -45,7 +45,7 @@ PLFM RADAR es un sistema de radar de matriz en fase de código abierto que funci
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Me gustaría revisar los esquemas de hardware de matriz en fase de 10,5 GHz y los bloques de procesamiento de señales FPGA del proyecto PLFM RADAR. ¿Puede crear un script de simulación en Python que describa la generación de señales de chirrido FMCW, el cálculo de FFT 2D Range-Doppler y la transferencia de datos a una pantalla de radar PPI basada en Python? ¿Puedes mostrar paso a paso el algoritmo de detección de distancia y velocidad para un objetivo artificial?
 

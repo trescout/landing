@@ -1,6 +1,6 @@
 # What is Centralized Memory Layer?
 
-*Dictionary · AI · Last updated: June 11, 2026*
+*AI · Last updated: June 11, 2026*
 
 It is a common memory area that allows artificial intelligence systems to remember past information and experiences from a single center.
 

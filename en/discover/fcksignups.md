@@ -29,7 +29,7 @@ npm run dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the list of open-source tools provided by the NoSignups project, list privacy-focused digital services that do not require registration or email from the user. Explain how these tools are grouped into categories such as design, development, productivity, and data analytics. Provide guidance specifically on finding alternatives that do not require account creation.
 

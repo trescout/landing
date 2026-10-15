@@ -1,6 +1,6 @@
 # What is Text Generation?
 
-*Dictionary · AI · Last updated: August 7, 2026*
+*AI · Last updated: August 7, 2026*
 
 It is the computer's ability to produce text by constructing meaningful and natural sentences based on the commands given.
 

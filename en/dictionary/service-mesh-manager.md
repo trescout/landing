@@ -1,6 +1,6 @@
 # What is Service Mesh Manager?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Service mesh manager is the console and toolset that monitors and manages service traffic.
 

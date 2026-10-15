@@ -39,7 +39,7 @@ claude
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Richten Sie https://github.com/browser-use/video-use für mich ein. Lesen Sie zuerst install.md, um dieses Repo zu installieren, verbinden Sie ffmpeg, registrieren Sie den Skill bei dem Agenten, unter dem Sie ausgeführt werden, und richten Sie den ElevenLabs-API-Schlüssel ein. Bitten Sie mich, ihn bei Bedarf einzufügen. Lesen Sie dann SKILL.md für den täglichen Gebrauch und lesen Sie immer helpers/, denn dort befinden sich die Bearbeitungsskripte. Transkribieren Sie nach der Installation nichts selbst. Sagen Sie mir einfach, dass es fertig ist, und warten Sie, bis ich das Filmmaterial in einem Ordner ablege.
 

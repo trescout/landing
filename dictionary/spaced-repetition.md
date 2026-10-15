@@ -1,6 +1,6 @@
 # Spaced Repetition nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
 
 Bilgilerin unutulmasını engellemek için belirli zaman aralıklarıyla tekrar edilmesini sağlayan bir öğrenme yöntemidir.
 
@@ -38,8 +38,8 @@ Beyniniz gereksiz bulduğu bilgileri zamanla siler; bu yöntem beyninize bilgini
 
 - [Anki](https://trescout.com/discover/anki/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/spaced-repetition/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

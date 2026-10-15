@@ -1,6 +1,6 @@
 # What is BDD?
 
-*Dictionary · Dev · Last updated: July 12, 2026*
+*Dev · Last updated: July 12, 2026*
 
 > Behavior-Driven Development
 

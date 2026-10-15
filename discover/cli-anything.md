@@ -35,7 +35,7 @@ npx skills add HKUDS/CLI-Anything --skill cli-hub-meta-skill -g -y
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Şu andan itibaren bir yapay zekâ ajanı olarak hareket et ve CLI-Anything kullanarak sistemimdeki yazılımları kontrol et. Kullanılabilir araçları listelemek için CLI-Hub'ı kullan, ihtiyaç duyduğum yazılım için gerekli olan komut satırı arayüzünü yükle ve ardından bu yazılımı benim yerime yöneterek işlemleri gerçekleştir. İşlemleri yaparken hata payını düşürmek için sistemin sağladığı rehberlik dosyalarını takip et.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cli-anything/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

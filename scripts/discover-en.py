@@ -226,7 +226,10 @@ def bolumler(t, localized=None):
         # tanınıyordu; aynı yapıdaki "disc-prompts" ve "disc-list" bölümleri
         # else dalına düşüp <p> aranıyordu, bulunamayınca SESSİZCE atılıyordu
         # (2026-08-15). Yeni bir liste sınıfı gelirse burası kendiliğinden alır.
-        liste = re.search(r'<(ul|ol) class="(disc-[a-z-]+)">(.*?)</\1>', govde, re.S)
+        # disc-links HARİÇ: o, paragrafın altındaki kaynak bağlantısı. Liste sanılınca
+        # paragraf düşüyor, bağlantı düz metne dönüyordu ("Official source →",
+        # 139 araç × 5 dil, 2026-08-15'ten beri). Else dalı ikisini birlikte kuruyor.
+        liste = re.search(r'<(ul|ol) class="(disc-(?!links")[a-z-]+)">(.*?)</\1>', govde, re.S)
         if liste and 'class="disc-cmd"' not in govde and 'class="disc-related"' not in govde:
             override = value(key)
             if isinstance(override, list):
@@ -421,7 +424,11 @@ def build(slug, cat, chrome):
     title = c.get("title") or metin(blok(r"<title>(.*?)</title>", t)).split(" · ")[0]
     headline = schema_text(localized.get("headline") or tr2en(metin(blok(r'<h1 class="disc-title">(.*?)</h1>', t))))
     lead = schema_text(localized.get("lead") or tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', t))))
-    url = blok(r'<ul class="disc-links"><li><a href="([^"]+)"', t)
+    # Depo adresi Türkçe sayfanın yapılandırılmış verisinden · ilk disc-links bağlantısı
+    # bazen "Nasıl başlanır"daki ESKİ/başka depoydu (2026-10-15: universal-android-
+    # debloater-next-generation çevirileri arşivlenmiş 0x192 deposunu gösteriyordu)
+    url = (blok(r'"codeRepository":\s*"([^"]+)"', t)
+           or blok(r'<ul class="disc-links"><li><a href="([^"]+)"', t))
     sources = [source for source in (c.get("sources") or []) if isinstance(source, dict) and source.get("url")]
     date = c.get("date", "")
     mom = metin(blok(r'<span class="disc-momentum">(.*?)</span>', t))
@@ -496,8 +503,9 @@ def build(slug, cat, chrome):
             '<link rel="stylesheet" href="/assets/site.css">\n'
             '<link rel="stylesheet" href="/assets/discover.css">\n</head>\n')
 
-    eyebrow = (f'{D["kesif"]} · GitHub · {esc(title)}' if headline.strip().lower() != title.strip().lower()
-               else f'{D["kesif"]} · GitHub')
+    # Üst etiket: bölüm adı geri bağlantıda zaten var; deponun gerçek yazımı (2026-10-15)
+    _m = re.match(r"https?://github\.com/([^/?#]+/[^/?#]+)", url or "")
+    eyebrow = f'GitHub · {esc(_m.group(1) if _m else title)}'
     govde = ('<body>\n<a class="skip-link" href="#main">Skip to main content</a>\n' + nav +
              '\n<main id="main">\n<article class="disc">\n'
              f'<a class="disc-back" href="{D["onek"]}/discover/">{D["kesif_geri"]}</a>\n'

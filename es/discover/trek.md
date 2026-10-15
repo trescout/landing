@@ -23,7 +23,7 @@ ENCRYPTION_KEY=$(openssl rand -hex 32) docker run -d -p 3000:3000 \
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un asistente de viaje. Usando las herramientas MCP (Protocolo de contexto modelo) en TREK, cree un plan de viaje de 3 días a París para mí, ajuste mi presupuesto según los límites de gasto diario y cree una lista de equipaje para lo que necesito llevar conmigo.
 

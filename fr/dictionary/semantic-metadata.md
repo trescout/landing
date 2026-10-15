@@ -1,6 +1,6 @@
 # Qu'est-ce que Semantic Metadata ?
 
-*Glossaire · Data · Dernière mise à jour : 17 juillet 2026*
+*Data · Dernière mise à jour : 17 juillet 2026*
 
 C'est une étiquette qui explique non seulement ce que sont les données, mais aussi ce qu'elles signifient et leur lien avec d'autres données.
 

@@ -45,7 +45,7 @@ npm run cli:dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 In the Maka workspace, you need to analyze a project, organize the files using the necessary tools, and keep all your actions in a traceable log. Control permissions throughout your workflow, preserve model messages, and manage the process in a recoverable manner in case of errors.
 

@@ -1,6 +1,6 @@
 # What is Local Agent Workflows?
 
-*Dictionary · AI · Last updated: August 11, 2026*
+*AI · Last updated: August 11, 2026*
 
 They are autonomous task processes that run directly on your own computer, without the need for the Internet.
 

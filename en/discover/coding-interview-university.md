@@ -15,7 +15,7 @@ Coding-interview-university offers a comprehensive study plan covering the basic
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I'm preparing for a software engineering interview using the Coding Interview University curriculum. Create a daily study plan for me to learn the data structures, algorithms and computer science topics covered in this resource. Can you prepare a road map from beginner to advanced level that includes the basic subjects I need to learn, the order in which I should study them, and the resources I can practice with?
 

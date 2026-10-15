@@ -1,6 +1,6 @@
 # ¿Qué es Compilation?
 
-*Glosario · Dev · Última actualización: 14 de junio de 2026*
+*Dev · Última actualización: 14 de junio de 2026*
 
 Es el proceso de convertir códigos escritos cerca del lenguaje humano en lenguaje de máquina que el procesador de la computadora pueda entender.
 

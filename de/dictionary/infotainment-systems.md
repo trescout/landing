@@ -1,6 +1,6 @@
 # Was ist Infotainment Systems?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Infotainment-Systeme sind Touchscreen-Panels im Fahrzeug, die Navigation, Musik und Fahrzeugeinstellungen vereinen.
 

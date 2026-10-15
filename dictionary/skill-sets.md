@@ -1,6 +1,6 @@
 # Skill Sets nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 2 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 2 Ağustos 2026*
 
 Bir kişinin veya yapay zekânın belirli bir işi veya görevi yerine getirmek için sahip olduğu yetenekler bütünüdür.
 
@@ -42,8 +42,8 @@ Ajanın hangi işleri yapıp hangilerini yapamayacağını belirlemek için gere
 
 - [K Skill](https://trescout.com/discover/k-skill/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/skill-sets/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # SVG nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 15 Ağustos 2026*
+*Geliştirme · Son güncelleme: 15 Ağustos 2026*
 
 > Scalable Vector Graphics
 
@@ -45,8 +45,8 @@ Hayır, SVG daha çok çizimler ve logolar için uygundur; gerçekçi fotoğrafl
 - [Diagram Design](https://trescout.com/discover/diagram-design/)
 - [Gitdiagram](https://trescout.com/discover/gitdiagram/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/svg/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

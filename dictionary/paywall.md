@@ -1,6 +1,6 @@
 # Paywall nedir, ne demek?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
 
 Paywall (ödeme duvarı), internet üzerindeki dijital içeriklere erişimi kısıtlayan ve kullanıcılardan ücretli abonelik, tek seferlik ödeme veya kayıt talep eden bir dijital kapı bekçisi (gatekeeper) sistemidir.
 
@@ -66,8 +66,8 @@ Ziyaretçinin sitedeki davranışlarını ve profillerini makine öğrenimiyle a
 - [API](https://trescout.com/dictionary/api/)
 - [Deployment](https://trescout.com/dictionary/deployment/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/paywall/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

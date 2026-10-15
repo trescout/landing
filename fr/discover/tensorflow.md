@@ -40,7 +40,7 @@ python
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Parlez-moi de l'installation de TensorFlow et des premières étapes de test. Expliquez comment je peux effectuer des opérations d'ajout de base en exécutant la commande python après avoir installé la bibliothèque avec la commande pip install tensorflow.
 

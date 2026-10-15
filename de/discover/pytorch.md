@@ -38,7 +38,7 @@ pip install --group dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Deep-Learning-Modelle mithilfe der PyTorch-Bibliothek entwickeln. Führen Sie mich durch Tensorberechnungen, die Erstellung dynamischer neuronaler Netze und die Nutzung der GPU-Beschleunigung. Erklären Sie insbesondere, wie Sie die Komponenten Torch.nn und Torch.autograd verwenden, wie Sie sie in das Python-Framework integrieren und wie Sie die Modelltrainingsprozesse optimieren.
 

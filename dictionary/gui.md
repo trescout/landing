@@ -1,6 +1,6 @@
 # GUI nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 5 Temmuz 2026*
+*Geliştirme · Son güncelleme: 5 Temmuz 2026*
 
 > Graphical User Interface
 
@@ -48,8 +48,8 @@ Görsel öğelerin çizilmesi işlemci gücü gerektirir, bu yüzden çok basit 
 - [PLFM RADAR](https://trescout.com/discover/plfm-radar/)
 - [BrewUI](https://trescout.com/discover/brewui/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/gui/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

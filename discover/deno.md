@@ -43,7 +43,7 @@ deno run --allow-net server.ts
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Deno çalışma zamanını kullanarak bir web sunucusu oluşturmak istiyorum. TypeScript dilinde server.ts adında bir dosya oluşturup içine Deno.serve fonksiyonunu kullanarak basit bir yanıt döndüren kod bloğunu nasıl yazarım ve ardından bu sunucuyu ağ izinlerini vererek nasıl çalıştırırım?
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/deno/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

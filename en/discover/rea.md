@@ -45,7 +45,7 @@ npx -y rea-agents@latest analyze /Applications/Notes.app
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to configure the REA reverse engineering tool on my system. First, complete the necessary installation steps with the 'npx rea-agents setup' command and establish the MCP (Model Context Protocol) connection for my AI interface. Then, run the 'npx -y rea-agents@latest doctor' command to check dependencies, inspect a local application of my choice, and explain with evidence how the feature I am looking for works.
 

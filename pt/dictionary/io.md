@@ -1,6 +1,6 @@
 # O que é I/O?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 > Input/Output
 

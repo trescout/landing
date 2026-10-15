@@ -36,7 +36,7 @@ winget install GodotEngine.GodotEngine
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um projeto de jogo bidimensional ou tridimensional com o motor Godot. Você pode preparar um guia passo a passo para iniciantes sobre o uso básico da interface, lógica de criação de cena e estrutura do projeto para me iniciar no processo de desenvolvimento do jogo?
 

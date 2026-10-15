@@ -46,7 +46,7 @@ dx bundle
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Dioxus kullanarak Rust dilinde web, masaüstü veya mobil platformlar için nasıl uygulama geliştirebilirim? Bileşen tabanlı yapıyı, durum yönetimini ve 'dx serve' komutu ile anlık kod yenileme özelliğini kullanarak basit bir kullanıcı arayüzü oluşturma sürecini adım adım açıkla.
 
@@ -68,4 +68,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/dioxus/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

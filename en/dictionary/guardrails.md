@@ -1,6 +1,6 @@
 # What is Guardrails?
 
-*Dictionary · AI · Last updated: October 9, 2026*
+*AI · Last updated: October 9, 2026*
 
 They are safety and control boundaries that prevent artificial intelligence models from producing harmful, misleading, or out-of-bounds outputs.
 

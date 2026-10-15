@@ -1,6 +1,6 @@
 # ¿Qué es World Model?
 
-*Glosario · AI · Última actualización: 3 de junio de 2026*
+*AI · Última actualización: 3 de junio de 2026*
 
 Es el sistema que permite a la inteligencia artificial comprender cómo funciona el mundo físico.
 

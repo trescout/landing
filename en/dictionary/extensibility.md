@@ -1,6 +1,6 @@
 # What is Extensibility?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Extensibility is the ability of a software to gain new capabilities with plug-ins and modules without touching its main code.
 

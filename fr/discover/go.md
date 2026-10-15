@@ -37,7 +37,7 @@ go version
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer un logiciel simple, fiable et efficace avec le langage de programmation Go. Expliquez à un développeur débutant la syntaxe de base de ce langage, sa gestion de la concurrence et comment il est utilisé dans les projets de cloud computing modernes.
 

@@ -29,7 +29,7 @@ git clone --recurse-submodules <this repo>
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Madeira-Projekt installieren und ausführen. Können Sie mir als jemand ohne Programmierkenntnisse Schritt für Schritt erklären, wie ich diese Kompatibilitätsschicht auf meinem iPhone ohne Jailbreak konfiguriere? Erklären Sie mir, wie ich den erforderlichen Debugger einrichte und die Sideloading-Schritte durchführe.
 

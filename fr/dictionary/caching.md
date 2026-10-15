@@ -1,6 +1,6 @@
 # Qu'est-ce que Caching ?
 
-*Glossaire · Data · Dernière mise à jour : 22 septembre 2026*
+*Data · Dernière mise à jour : 22 septembre 2026*
 
 La mise en cache (caching) consiste à copier des données fréquemment utilisées vers une couche rapide.
 

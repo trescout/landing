@@ -35,7 +35,7 @@ Verpackt im Agentskills.io-Standard; Sie können es als Fähigkeit zu Ihrem KI-A
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Fügen Sie diese Community-Bibliothek für Cybersicherheitskompetenzen zu Claude Code hinzu, indem Sie „npx skills add mukul975/Anthropic-Cybersecurity-Skills“ im Terminal ausführen (beachten Sie, dass dies nicht das offizielle Projekt von Anthropic ist), und listen Sie mir dann auf, welche Sicherheitskompetenzen zur Verwendung bereit sind.
 

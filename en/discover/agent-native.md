@@ -38,7 +38,7 @@ npx @agent-native/core@latest skills add visual-plan
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to define an action for my application using the Agent-Native framework. Using the defineAction function, help me create a structure that will process the incoming data into the database and be accessible to both the user interface and the artificial intelligence agent.
 

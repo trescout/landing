@@ -1,6 +1,6 @@
 # ¿Qué es Memory Management?
 
-*Glosario · Dev · Última actualización: 19 de septiembre de 2026*
+*Dev · Última actualización: 19 de septiembre de 2026*
 
 La gestión de memoria (memory management) es el proceso de asignar, proteger y devolver al sistema la memoria de acceso aleatorio (RAM) física y virtual de la computadora entre los programas en ejecución una vez que se termina de utilizar.
 

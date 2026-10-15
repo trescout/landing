@@ -45,7 +45,7 @@ claude
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite personnaliser le système Career-Ops. Laissez le système évaluer les offres d'emploi en fonction des critères qui me conviennent le mieux, en fonction de mon CV et de mes objectifs de carrière. Aidez-moi à effectuer tous les réglages nécessaires pour compléter la configuration de mon profil et ajouter des entreprises spécifiques à ma liste de surveillance.
 

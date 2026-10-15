@@ -25,7 +25,7 @@ pip install higgsfield==0.0.3
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 To train large AI models and manage resources, you can install the library by running the pip install higgsfield==0.0.3 command in your terminal and start using it in your project.
 

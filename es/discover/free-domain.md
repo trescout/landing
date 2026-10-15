@@ -27,7 +27,7 @@ Lo aplicas con la directiva en el repositorio: seleccionas el dominio, lo conect
 
 ## ¿Cómo usarlo con IA?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 DigitalPlat FreeDomain es un servicio de nombres de dominio gratuito, no es un software para instalar. Vaya a https://dash.domain.digitalplat.org/ y guíeme paso a paso para registrar un nombre de dominio gratuito desde extensiones como .dpdns.org, .us.kg, .qzz.io y dígame cómo conectarlo con Cloudflare DNS.
 

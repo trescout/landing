@@ -1,6 +1,6 @@
 # Global Intelligence Dashboard nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 20 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 20 Haziran 2026*
 
 Dünyanın farklı noktalarından gelen verileri merkezi bir noktada toplayıp görselleştiren yönetim ekranıdır.
 
@@ -42,8 +42,8 @@ Sensörler, haber akışları, sosyal medya verileri veya kurumsal veri tabanlar
 
 - [Worldmonitor](https://trescout.com/discover/worldmonitor/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/global-intelligence-dashboard/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

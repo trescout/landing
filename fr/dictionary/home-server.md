@@ -1,6 +1,6 @@
 # Qu'est-ce qu'un Home Server ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 > Serveur Domestique Personnel
 

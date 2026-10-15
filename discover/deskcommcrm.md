@@ -37,7 +37,7 @@ bash hostgator-setup-kit/install.sh
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 DeskcommCRM kurulumunu gerçekleştirdim. WhatsApp üzerinden gelen mesajları karşılayacak, müşterileri nitelendirecek ve satış sürecini yönetecek bir yapay zekâ ajanı yapılandırmama yardımcı ol. Hangi API anahtarlarını nereye tanımlamam gerektiğini ve ilk WhatsApp numaramı QR kod ile nasıl bağlayacağımı adım adım açıkla.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/deskcommcrm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

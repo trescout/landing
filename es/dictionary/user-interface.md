@@ -1,6 +1,6 @@
 # ¿Qué es User Interface?
 
-*Glosario · Dev · Última actualización: 25 de junio de 2026*
+*Dev · Última actualización: 25 de junio de 2026*
 
 > UI
 

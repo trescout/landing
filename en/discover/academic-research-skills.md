@@ -43,7 +43,7 @@ Academic Research Skills is a Python library developed for Claude Code that auto
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to use the Academic Research Skills plugin to manage my academic research process. Initiate a Socratic dialogue to create the structural plan for my article and help me manage the process by determining which stage of my research I am in.
 

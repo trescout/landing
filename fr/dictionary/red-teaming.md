@@ -1,6 +1,6 @@
 # Qu'est-ce que Red Teaming ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Le red teaming (que l'on peut traduire par « équipe rouge ») est une méthode de test qui consiste à se comporter comme un attaquant pour identifier des vulnérabilités.
 

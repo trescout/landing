@@ -1,6 +1,6 @@
 # Qu'est-ce que Vector Index ?
 
-*Glossaire · Data · Dernière mise à jour : 8 juin 2026*
+*Data · Dernière mise à jour : 8 juin 2026*
 
 Il s'agit d'une méthode de cartographie utilisée pour rechercher et trouver rapidement les équivalents numériques (vecteurs) des données.
 

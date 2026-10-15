@@ -1,6 +1,6 @@
 # Was ist Backup Program?
 
-*Glossar · Data · Zuletzt aktualisiert: 22. September 2026*
+*Data · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Backup-Programm ist eine Software, die Daten regelmäßig kopiert.
 

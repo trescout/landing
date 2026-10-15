@@ -1,6 +1,6 @@
 # Qu'est-ce que Robotics ?
 
-*Glossaire · AI · Dernière mise à jour : 14 octobre 2026*
+*AI · Dernière mise à jour : 14 octobre 2026*
 
 Domaine technologique qui s'intéresse à la conception, à la fabrication des robots et à l'exécution de tâches dans le monde physique.
 

@@ -1,6 +1,6 @@
 # Was ist Layer Streaming?
 
-*Glossar · Data · Zuletzt aktualisiert: 22. September 2026*
+*Data · Zuletzt aktualisiert: 22. September 2026*
 
 Layer Streaming (auf Deutsch als Layered Streaming bezeichnet) ist die schrittweise Verarbeitung von Daten.
 

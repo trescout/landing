@@ -1,6 +1,6 @@
 # Qu'est-ce que Embed ?
 
-*Glossaire · Data · Dernière mise à jour : 27 septembre 2026*
+*Data · Dernière mise à jour : 27 septembre 2026*
 
 Processus de conversion de données en listes numériques permettant aux ordinateurs de comprendre la relation sémantique entre elles.
 

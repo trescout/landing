@@ -51,7 +51,7 @@ launch.bat
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero convertir una imagen en un modelo 3D usando la aplicación Modly. Ayúdame a configurar el flujo 'Imagen -> Generar malla -> Agregar a escena' yendo a la pestaña 'Flujos de trabajo' en la aplicación. Luego permítanme comenzar la generación del modelo 3D seleccionando el flujo de trabajo relevante en la pestaña "Generar". Si recibo un error, ¿cómo puedo analizar el problema en la sección 'Configuración/Registros/Errores'?
 

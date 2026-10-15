@@ -1,6 +1,6 @@
 # ¿Qué es Clone?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 El clonado (en turco "Clone") es el proceso de crear una copia local de un repositorio Git remoto junto con todo su historial.
 

@@ -1,6 +1,6 @@
 # AI Capabilities nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 24 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 24 Haziran 2026*
 
 Yapay zekâ sistemlerinin analiz etme, öğrenme, içerik üretme veya problem çözme gibi gerçekleştirebildiği tüm işlevlerdir.
 
@@ -38,8 +38,8 @@ Hayır, bazı modeller yaratıcılıkta, bazıları ise mantıksal analizde veya
 - [AI Models](https://trescout.com/dictionary/ai-models/)
 - [Foundation Model](https://trescout.com/dictionary/foundation-model/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-capabilities/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -43,7 +43,7 @@ cognee-cli -ui
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Al usar Cognee, quiero almacenar mis datos en una estructura de gráfico de conocimiento y permitir que mi agente recupere estos datos manteniéndolos en su memoria a largo plazo. Cree un flujo de trabajo que me permita memorizar datos con la función cognee.remember() y generar respuestas significativas basadas en estos datos con cognee.recall().
 

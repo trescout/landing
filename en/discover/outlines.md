@@ -43,7 +43,7 @@ model = outlines.from_transformers(
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to restrict the response from an AI model to a specific Pydantic data structure or Python type (e.g. int or Literal) using the Outlines library. How can I use the model(request, output_type) function after defining the model object to ensure that the model's output always conforms to the schema I want? Please explain with example how to define the Pydantic model for complex objects and apply this structure to the model output.
 

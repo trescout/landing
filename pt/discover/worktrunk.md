@@ -49,7 +49,7 @@ wt switch -c -x claude feat
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero usar o Worktrunk para criar uma nova árvore de trabalho no meu projeto Git existente e iniciar uma tarefa paralela nesta área. Como devo usar os comandos wt para gerenciar árvores de trabalho tão facilmente quanto branches e como posso aproveitar os hooks para automatizar meu fluxo de trabalho?
 

@@ -1,6 +1,6 @@
 # Tokenizer nedir, ne demek ve nasıl çalışır?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
 
 Tokenizer (jetonlaştırıcı veya simgeleştirici), doğal dildeki metinleri büyük dil modellerinin (LLM) ve sinir ağlarının matematiksel olarak işleyebileceği sayısal jetonlara (token ID) dönüştüren temel veri işleme bileşenidir.
 
@@ -72,8 +72,8 @@ Evet; son dönemde geliştirilen MambaByte ve MegaByte gibi yeni nesil sinir ağ
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
 - [Minimind](https://trescout.com/discover/minimind/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/tokenizer/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

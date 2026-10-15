@@ -1,6 +1,6 @@
 # What is System Programming Language?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 System programming languages ​​are languages ​​that speak to hardware.
 

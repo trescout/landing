@@ -37,7 +37,7 @@ npx t3@latest
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the T3 Code tool, configure one of the Codex, Claude, Cursor or OpenCode providers and launch the coding agent interface. After completing the authentication process of the provider you have chosen, run the tool and start receiving coding support on your projects.
 

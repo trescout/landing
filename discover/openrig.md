@@ -30,7 +30,7 @@ rig setup --dry-run
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenRig kullanarak Claude Code ve Codex ajanlarını tek bir sistemde koordine etmek istiyorum. Node.js ve tmux gereksinimlerini kontrol ettikten sonra npm install -g @openrig/cli ve rig setup --dry-run komutları ile kurulum planını inceleyip takımı başlatma adımlarına geçmem konusunda bana yardımcı ol.
 
@@ -51,4 +51,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openrig/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

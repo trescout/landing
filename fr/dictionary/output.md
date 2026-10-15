@@ -1,6 +1,6 @@
 # Qu'est-ce que Output ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 La sortie (avec son équivalent turc) est la donnée produite par le résultat de l'opération.
 

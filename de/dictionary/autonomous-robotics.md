@@ -1,6 +1,6 @@
 # Was ist Autonomous Robotics?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 Autonome Robotik ist die Wissenschaft von Maschinen, die sich ohne Unterstützung bewegen können.
 

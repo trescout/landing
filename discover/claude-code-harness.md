@@ -42,7 +42,7 @@ Depodaki kurulum ile Claude Code'a entegre edilir; ardından planla, yap ve göz
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code'da '/plugin marketplace add Chachamaru127/claude-code-harness', ardından '/plugin install claude-code-harness@claude-code-harness-marketplace' ve '/harness-setup' komutlarını çalıştırarak bu disiplinli iş akışını kur, sonra '/harness-plan' ile işime başla.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-harness/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

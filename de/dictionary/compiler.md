@@ -1,6 +1,6 @@
 # Was ist Compiler?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Compiler ist ein Programm, das den von Ihnen geschriebenen Code in Maschinensprache übersetzt, die der Computer ausführen kann.
 

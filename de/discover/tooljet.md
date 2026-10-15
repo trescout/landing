@@ -35,7 +35,7 @@ docker run \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, mit über 60 vorgefertigten Komponenten auf ToolJet ein mit der Datenbank verbundenes internes Bedienfeld per Drag-and-Drop zu erstellen. Entwerfen Sie eine Anwendungsarchitektur, die Daten visualisiert und teaminterne Arbeitsabläufe automatisiert, die ich mithilfe von JavaScript und Python anpassen kann.
 

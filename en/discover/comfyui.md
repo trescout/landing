@@ -30,7 +30,7 @@ comfy install
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a node-based workflow for my visual production process. Please design a modular structure with logical connections from the input node to the output that will allow me to achieve a professional quality image using models such as Stable Diffusion or Flux. Explain step by step the basic nodes, model loading steps and parameter optimizations I need.
 

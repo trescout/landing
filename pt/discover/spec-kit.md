@@ -38,7 +38,7 @@ cd my-project
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ao usar um agente de codificação de IA, defina padrões de qualidade e desempenho usando o comando /speckit.constitution para determinar as linhas de base do projeto. Em seguida, explique os objetivos do aplicativo que você deseja construir com /speckit.specify, especifique sua arquitetura técnica com /speckit.plan e, finalmente, crie a lista de tarefas com /speckit.tasks e desenvolva o aplicativo com o comando /speckit.implement.
 

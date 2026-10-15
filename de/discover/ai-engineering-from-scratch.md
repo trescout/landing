@@ -27,7 +27,7 @@ Jede Lektion folgt demselben Zyklus: Problem analysieren, rechnen, Code schreibe
 
 ## Wie nutzt man es mit KI?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich gebe Ihnen den Inhalt eines 20-Phasen-Open-Source-Lehrplans mit mehr als 500 Lektionen namens „AI-Engineering von Grund auf“, der KI-Engineering von Grund auf lehrt. Wenn ich die README-Datei und die Roadmap durchschaue, erhalte ich einen persönlichen Lernplan auf Türkisch, der in Wochen unterteilt ist: Mit welcher Phase soll ich beginnen, was sind die Voraussetzungen und in welcher Reihenfolge soll ich fortfahren? Mein Niveau: [zB. Anfänger].
 

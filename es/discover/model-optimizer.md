@@ -25,7 +25,7 @@ pip install -U nvidia-modelopt[all]
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero comprimir y optimizar modelos de aprendizaje profundo utilizando la biblioteca NVIDIA Model Optimizer. ¿Podrías explicarme cómo instalar esta herramienta y qué pasos debo seguir para acelerar los modelos?
 

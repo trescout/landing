@@ -1,6 +1,6 @@
 # Was ist Differential Equations?
 
-*Glossar · Data · Zuletzt aktualisiert: 9. September 2026*
+*Data · Zuletzt aktualisiert: 9. September 2026*
 
 Grundlegende mathematische Gleichungen, die in der Physik und im Ingenieurwesen verwendet werden, um die Änderungsraten von Variablen zueinander zu berechnen.
 

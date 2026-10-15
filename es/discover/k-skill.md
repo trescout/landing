@@ -32,7 +32,7 @@ npx --yes skills add NomaDamas/k-skill --skill srt-booking -g
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 En las próximas tareas que le asigne, utilice las habilidades proporcionadas por la biblioteca k-skill para acceder a los servicios locales. Si necesita realizar una consulta de transporte, una búsqueda de datos públicos u una operación local, administre el proceso implementando las capacidades relevantes en esta biblioteca. Al realizar transacciones, no olvide obtener la información de inicio de sesión necesaria o las confirmaciones del usuario.
 

@@ -48,7 +48,7 @@ npx ui-skills get baseline-ui
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Als Designingenieur möchte ich meine Fähigkeiten in der Schnittstellenentwicklung verbessern. Listen Sie mit dem UI-Fähigkeiten-Tool die technischen Kompetenzen in der Bewegungskategorie auf und erläutern Sie die Schritte, die zum Erwerb der grundlegenden UI-Fähigkeiten erforderlich sind.
 

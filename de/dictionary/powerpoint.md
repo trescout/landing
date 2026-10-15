@@ -1,6 +1,6 @@
 # Was ist PowerPoint?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 PowerPoint ist die folienbasierte Präsentationsanwendung von Microsoft.
 

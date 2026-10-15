@@ -1,6 +1,6 @@
 # O que é CLI Tool?
 
-*Glossário · Dev · Última atualização: 27 de setembro de 2026*
+*Dev · Última atualização: 27 de setembro de 2026*
 
 > Command Line Interface Tool
 

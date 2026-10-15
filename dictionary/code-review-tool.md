@@ -1,6 +1,6 @@
 # Code Review Tool nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 15 Eylül 2026*
+*Geliştirme · Son güncelleme: 15 Eylül 2026*
 
 Yazılımcıların yazdığı kodları hatalara veya iyileştirmelere karşı otomatik olarak inceleyen denetim aracı.
 
@@ -39,8 +39,8 @@ Birçoğu sadece uyarı verir, ancak gelişmiş olanlar 'otomatik düzeltme' ön
 - [Clean Code](https://trescout.com/dictionary/clean-code/)
 - [Continuous Integration](https://trescout.com/dictionary/continuous-integration/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-review-tool/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

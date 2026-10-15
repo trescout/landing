@@ -41,7 +41,7 @@ Beinhaltet das Klonen von Stimmen. Die Nachahmung der Stimme einer Person ohne E
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Führen Sie „pip install voxcpm“ aus, um das Text-to-Speech-Tool VoxCPM zu installieren, und generieren Sie dann eine Audiodatei mit dem Befehl „voxcpm design --text „Hello world“ --output out.wav“; Wenn ich möchte, klone ich diesen Sound mit „voxcpm clone“ mit einer Referenz-Sounddatei.
 

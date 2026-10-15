@@ -1,6 +1,6 @@
 # Was ist Control Plane?
 
-*Glossar · Dev · Zuletzt aktualisiert: 31. August 2026*
+*Dev · Zuletzt aktualisiert: 31. August 2026*
 
 Es handelt sich um die zentrale Verwaltungsebene, die den Betrieb eines Systems verwaltet und den Datenverkehr und die Einstellungen steuert.
 

@@ -1,6 +1,6 @@
 # AI Team Operations nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 17 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 17 Temmuz 2026*
 
 Yapay zekâ projelerini geliştiren ekiplerin iş akışlarını verimli yönetme disiplinidir.
 
@@ -42,8 +42,8 @@ Modelin doğruluğu kadar, ekibin bu modeli ne kadar hızlı güncelleyebildiği
 
 - [Lobehub](https://trescout.com/discover/lobehub/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-team-operations/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

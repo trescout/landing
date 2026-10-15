@@ -29,7 +29,7 @@ npm run electron:dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Open-Generative-AI platformunu kullanarak, içerik filtrelerine takılmadan yüksek kaliteli görsel ve videolar oluşturmak istiyorum. Platformun sunduğu 200'den fazla model arasından, yaratıcı projelerim için en uygun olanları nasıl seçebilirim ve bu modellerin sunduğu özgür üretim imkânlarını kullanarak profesyonel bir iş akışını kendi yerel sistemimde nasıl kurgulayabilirim?
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-generative-ai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Click to Cancel nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 12 Ekim 2026*
+*Geliştirme · Son güncelleme: 12 Ekim 2026*
 
 Abonelik iptal işlemlerinin karmaşık süreçler olmadan tek bir tıklamayla kolayca yapılabilmesini şart koşan yasal düzenleme kuralıdır.
 
@@ -40,8 +40,8 @@ Hayır; web siteleri, mobil uygulamalar ve telefonla başlatılan tüm dijital a
 - [CRO](https://trescout.com/dictionary/cro/)
 - [GDPR](https://trescout.com/dictionary/gdpr/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/click-to-cancel/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

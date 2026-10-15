@@ -37,7 +37,7 @@ fprime-bootstrap project
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop an embedded system project using the F' framework developed by NASA. When creating the architecture of my project, how can I establish a component-based structure, define interfaces, and manage message queues and threads with this framework? Please suggest a development flow using the modeling tools provided by the F' framework.
 

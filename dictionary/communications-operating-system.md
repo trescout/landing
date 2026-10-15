@@ -1,6 +1,6 @@
 # Communications Operating System nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 18 Haziran 2026*
+*Geliştirme · Son güncelleme: 18 Haziran 2026*
 
 Farklı iletişim araçlarını ve kanallarını tek bir merkezden yönetmeyi sağlayan yazılım platformudur.
 
@@ -38,8 +38,8 @@ Sadece bir mesajlaşma uygulaması ile karıştırılmamalıdır; bu bir yöneti
 
 - [Rocket.Chat](https://trescout.com/discover/rocket-chat/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/communications-operating-system/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

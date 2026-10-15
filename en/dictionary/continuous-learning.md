@@ -1,6 +1,6 @@
 # What is Continuous Learning?
 
-*Dictionary · AI · Last updated: June 4, 2026*
+*AI · Last updated: June 4, 2026*
 
 It is the process of development of an artificial intelligence system by constantly updating its information as it encounters new data, without forgetting it.
 

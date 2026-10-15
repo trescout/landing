@@ -1,6 +1,6 @@
 # What is Best Practices?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Best practices (with its Turkish equivalent en iyi uygulamalar) are tried and community-approved working methods.
 

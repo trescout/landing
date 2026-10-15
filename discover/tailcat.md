@@ -57,7 +57,7 @@ Tailcat, geliştiricilere ve sistem yöneticilerine karmaşık VPN yapılandırm
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Tailcat aracını kullanarak iki farklı sunucu arasında Tailscale mesh ağı üzerinden şifreli bir dosya transferi tüneli kurmak istiyorum. Sunucu tarafında dinleyiciyi nasıl başlatacağımı, istemci tarafında tar arşivini standart çıktıdan nasıl aktaracağımı ve tsnet kimlik doğrulamasını nasıl yöneteceğimi açıklar mısın?
 
@@ -90,4 +90,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tailcat/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

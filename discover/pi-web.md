@@ -36,7 +36,7 @@ pi-web
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pi kodlama ajanı ile yaptığım çalışmaları görselleştirmek ve oturumlarımı daha verimli yönetmek istiyorum. Pi Web aracını kullanarak yerel oturum dosyalarımı tarayıcı üzerinden nasıl görüntüleyebilirim, sohbet geçmişimi nasıl düzenleyebilirim ve proje dosyalarımı arayüz üzerinden nasıl önizleyebilirim? Kurulum sonrası tarayıcıda açılan çalışma alanını kullanarak model yapılandırması ve yetenek yönetimi işlemlerini nasıl daha kolay yapabileceğimi adım adım açıkla.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pi-web/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -33,7 +33,7 @@ vcpkg/vcpkg install libvpx libyuv opus aom
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 RustDesk kullanarak uzak masaüstü bağlantısı kurmak istiyorum. Veri güvenliğimi sağlamak adına kendi sunucumu nasıl yapılandırabilirim ve bağlantı sırasında dikkat etmem gereken temel güvenlik ayarları nelerdir?
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/rustdesk/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

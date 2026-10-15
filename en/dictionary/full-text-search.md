@@ -1,6 +1,6 @@
 # What is Full Text Search?
 
-*Dictionary · Data · Last updated: September 22, 2026*
+*Data · Last updated: September 22, 2026*
 
 Full text search is a search method that finds words in the entire content of documents.
 

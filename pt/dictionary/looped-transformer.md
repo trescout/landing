@@ -1,6 +1,6 @@
 # O que é Looped Transformer?
 
-*Glossário · AI · Última atualização: 2 de setembro de 2026*
+*AI · Última atualização: 2 de setembro de 2026*
 
 É uma arquitetura de inteligência artificial que reduz o uso de memória ao utilizar as mesmas camadas de processamento repetidamente.
 

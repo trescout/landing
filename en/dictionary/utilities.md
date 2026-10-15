@@ -1,6 +1,6 @@
 # What is Utilities?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Utilities are independent, practical and single-purpose module packages that undertake maintenance and management in operating systems and perform frequently repeated routine tasks in software projects.
 

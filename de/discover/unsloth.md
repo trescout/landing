@@ -37,7 +37,7 @@ unsloth start claude
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit Unsloth ein KI-Modell auf meinem lokalen Computer trainieren. Können Sie mir Schritt für Schritt die optimalen Konfigurationseinstellungen erläutern, die es mir ermöglichen, meine Hardwareressourcen optimal zu nutzen, die Speichernutzung zu optimieren und den Feinabstimmungsprozess zu beschleunigen?
 

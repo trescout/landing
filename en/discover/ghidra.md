@@ -63,7 +63,7 @@ analyzeHeadless /proje/dizini ProjeAdi -import hedef_dosya.bin -postScript Guven
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to inspect a suspicious binary file using Ghidra. Could you explain step by step the steps for opening a new project in Ghidra, importing the file, running Auto Analysis, inspecting functions in the Decompiler window, and detecting suspicious externally called API functions?
 

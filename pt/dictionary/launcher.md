@@ -1,6 +1,6 @@
 # O que é Launcher?
 
-*Glossário · Dev · Última atualização: 18 de setembro de 2026*
+*Dev · Última atualização: 18 de setembro de 2026*
 
 É uma ferramenta de interface que permite encontrar e iniciar aplicativos rapidamente em computadores ou dispositivos móveis.
 

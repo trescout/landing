@@ -44,7 +44,7 @@ ng serve
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a modern web application using Angular. Explain to me step by step the steps I need to follow in the project setup, basic component structure and application development processes, using Angular CLI tools.
 

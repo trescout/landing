@@ -34,7 +34,7 @@ Registra automáticamente las acciones realizadas por el agente durante la sesi�
 
 ## Instalación (comando único)
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale Claude-Mem ejecutando 'npx claude-mem install' en la terminal, luego reinicie Claude Code; Después de eso, la memoria de sesiones anteriores se trasladará automáticamente a sesiones nuevas.
 

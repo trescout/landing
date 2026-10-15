@@ -35,7 +35,7 @@ pnpm dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Ekran görüntüsünü analiz et ve görseldeki tasarımı birebir yansıtan, temiz ve işlevsel bir kod yapısı oluştur. Çıktıyı Tailwind CSS kullanarak HTML veya React formatında hazırla. Görseldeki gerçek logoları ve varlıkları ayıklayarak koda dahil et, tasarımın tüm öğelerini duyarlı (responsive) bir şekilde kodla.
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/screenshot-to-code/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

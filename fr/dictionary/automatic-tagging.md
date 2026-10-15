@@ -1,6 +1,6 @@
 # Qu'est-ce que Automatic Tagging ?
 
-*Glossaire · Data · Dernière mise à jour : 22 septembre 2026*
+*Data · Dernière mise à jour : 22 septembre 2026*
 
 Le taggage automatique (ou étiquetage automatique en français) est le processus qui consiste à lire le contenu et à y apposer des étiquettes.
 

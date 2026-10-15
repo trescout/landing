@@ -51,7 +51,7 @@ python run_skill.py --input bulus_taslagi.txt --output patent_disclosure.md
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to prepare a formal invention disclosure text for a distributed database caching algorithm I developed using the patent disclosure skill. Could you explain step-by-step how I can generate independent claims, the technical field of the invention, and the differences from prior art by providing the algorithm's flow as input?
 

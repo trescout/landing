@@ -1,6 +1,6 @@
 # Qu'est-ce que Type-safe ?
 
-*Glossaire · Dev · Dernière mise à jour : 9 juillet 2026*
+*Dev · Dernière mise à jour : 9 juillet 2026*
 
 C'est une discipline qui garantit le fonctionnement sûr des logiciels en empêchant une utilisation incorrecte des types de données.
 

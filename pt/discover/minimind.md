@@ -52,7 +52,7 @@ python 5-eval.py
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero treinar um modelo de linguagem de 64M de parâmetros do zero com PyTorch usando o repositório MiniMind. Você poderia explicar passo a passo como preparar o tokenizer para meu próprio conjunto de dados de texto em turco, como executar o script 1-pretrain.py e, em seguida, como fazer o ajuste fino com LoRA?
 

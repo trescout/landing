@@ -1,6 +1,6 @@
 # ¿Qué es OIDC?
 
-*Glosario · Dev · Última actualización: 30 de junio de 2026*
+*Dev · Última actualización: 30 de junio de 2026*
 
 > OpenID Connect
 

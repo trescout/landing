@@ -1,6 +1,6 @@
 # O que é Script?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Um script (com equivalente em turco betik) é uma breve sequência de comandos cuja única função é executar tarefas automaticamente.
 

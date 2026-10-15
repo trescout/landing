@@ -1,6 +1,6 @@
 # Qu'est-ce que Financial Services ?
 
-*Glossaire · Dev · Dernière mise à jour : 27 septembre 2026*
+*Dev · Dernière mise à jour : 27 septembre 2026*
 
 Tous les services professionnels liés à la gestion financière, tels que la banque, l'investissement et l'assurance.
 

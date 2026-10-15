@@ -39,7 +39,7 @@ cargo run --bin quiche-server -- --cert apps/src/bin/cert.crt --key apps/src/bin
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Gostaria de processar pacotes QUIC e gerenciar estados de conexão de rede usando esta biblioteca escrita na linguagem de programação Rust. Depois de clonar o projeto, quais passos devo seguir para executar o cliente e o servidor?
 

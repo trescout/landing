@@ -38,7 +38,7 @@ cd my-project
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 When using an AI coding agent, define quality and performance standards using the /speckit.constitution command to determine the project's baselines. Then, explain the goals of the application you want to build with /speckit.specify, specify your technical architecture with /speckit.plan, and finally create the task list with /speckit.tasks and develop the application with the /speckit.implement command.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Keybindings?
 
-*Glosario · Dev · Última actualización: 19 de septiembre de 2026*
+*Dev · Última actualización: 19 de septiembre de 2026*
 
 Una asignación de teclas (o keybinding), es la acción de asignar a una tecla del teclado o a una combinación de teclas (por ejemplo, Ctrl+C, Cmd+K) la tarea de activar instantáneamente un comando, acción o macro específico dentro de un software.
 

@@ -29,7 +29,7 @@ cd book && bash build_pdf.sh
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un expert en développement d'agents d'intelligence artificielle. Expliquez-moi étape par étape comment mettre en place le système de mémoire d'un agent et intégrer des outils externes (appel d'outils), en vous basant sur la formule 'Agent = LLM + Contexte + Outils'. Expliquez avec des exemples quelles approches d'ingénierie je dois utiliser pour optimiser la gestion du contexte, en particulier dans les processus RAG (Retrieval-Augmented Generation).
 

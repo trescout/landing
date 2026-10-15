@@ -41,7 +41,7 @@ wxc-exec.exe config.json
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run an untrusted code snippet in an isolated container using the MXC tool developed by Microsoft. According to the documentation in the project's GitHub repository, I need to prepare a JSON-based configuration file and use the binary appropriate for my platform. Can you create a sample JSON configuration file for me that will allow me to run a Python script with restricted file system and network access, and explain step by step how to run this configuration with wxc-exec.exe?
 

@@ -25,7 +25,7 @@ Added as a skill to Claude Code; Then, you can ask them to establish a team of a
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the Harness plugin by running the commands '/plugin marketplace add revfactory/harness' and then '/plugin install harness@harness-marketplace' in Claude Code, then ask it to set up an artificial intelligence agent team suitable for my project by saying "Create a harness for this project".
 

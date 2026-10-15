@@ -49,7 +49,7 @@ docker compose -f docker-compose.local.yml logs sub2api | grep "admin password"
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sub2API platformunu kullanarak Claude, OpenAI, Gemini ve Grok gibi farklı yapay zekâ servislerini tek bir API ağ geçidi üzerinden nasıl yapılandırabilirim? Abonelik kotalarımı verimli dağıtmak ve mevcut yazılım araçlarımla entegre etmek için izlemem gereken temel adımları açıkla. Ayrıca, bu platformu kullanırken Anthropic gibi sağlayıcıların hizmet şartlarına uyum sağlamak adına dikkat etmem gereken yasal ve teknik hususları özetle.
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sub2api/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

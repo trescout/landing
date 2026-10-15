@@ -41,7 +41,7 @@ docker compose -f docker-compose-simple.yml up -d
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a high-performance object storage environment using RustFS. How can I manage my data by leveraging the system's S3 compatibility, and what should I pay attention to when scaling on a distributed architecture? Provide me with a step-by-step guide on the installation and basic configuration settings of this Apache 2.0 licensed system.
 

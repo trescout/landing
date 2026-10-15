@@ -20,7 +20,7 @@ train-llm-from-scratch oferece um método simples e passo a passo de treinar um 
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Este repositório (FareedKhan-dev/train-llm-from-scratch) é um tutorial sobre como treinar um transformador/LLM do zero com PyTorch. Revise o README e forneça um plano de implementação passo a passo em turco: explicando o hardware necessário (GPU), download e pré-processamento de dados, configuração do modelo, treinamento e etapas de geração de texto, em ordem.
 

@@ -1,6 +1,6 @@
 # O que é PVR?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 > Personal Video Recorder
 

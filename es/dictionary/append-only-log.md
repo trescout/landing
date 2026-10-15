@@ -1,6 +1,6 @@
 # Append-Only Log: Inmutabilidad, Write-Ahead Logs y almacenamiento secuencial
 
-*Glosario · Data & Infra · Última actualización: 20 de septiembre de 2026*
+*Data & Infra · Última actualización: 20 de septiembre de 2026*
 
 Un append-only log (registro de solo adición) es un diseño de almacenamiento donde los nuevos datos se escriben únicamente al final del archivo, garantizando que el historial previo resulte estrictamente inmutable.
 

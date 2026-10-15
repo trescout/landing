@@ -1,6 +1,6 @@
 # O que é Append-only?
 
-*Glossário · Data · Última atualização: 24 de agosto de 2026*
+*Data · Última atualização: 24 de agosto de 2026*
 
 É um método de gravação no qual os dados só podem ser anexados, não podendo ser alterados ou excluídos.
 

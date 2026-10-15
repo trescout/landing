@@ -49,7 +49,7 @@ omp completions fish > ~/.config/fish/completions/omp.fish
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'ai commencé à utiliser l'outil Oh My Pi sur mon terminal. Comment puis-je optimiser mon flux de travail en utilisant des fonctionnalités avancées telles que la prise en charge LSP, le débogage et la gestion des sous-agents dans mes projets avec cet agent de codage IA ? Expliquez étape par étape comment utiliser les outils intégrés offerts par cet outil de la manière la plus efficace, notamment dans l'édition de code, la lecture de fichiers et le débogage.
 

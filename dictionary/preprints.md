@@ -1,6 +1,6 @@
 # Preprints nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 8 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 8 Ekim 2026*
 
 Henüz bilimsel bir değerlendirmeden geçmemiş, araştırmacıların sonuçlarını hızlıca paylaşmak için yayınladığı taslak çalışmalar.
 
@@ -34,8 +34,8 @@ Bilimsel tartışma için harikadır ancak henüz resmi süzgeçten geçmediği 
 - [Benchmark](https://trescout.com/dictionary/benchmark/)
 - [Foundation Models](https://trescout.com/dictionary/foundation-models/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/preprints/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

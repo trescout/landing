@@ -37,7 +37,7 @@ strix --target ./app-directory
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Perform a comprehensive security scan on the target I specified using the Strix tool. Configure my required API keys when starting the scan and report findings with verifiable evidence. Analyze the vulnerabilities in my application directory or on the URL I specify and provide a detailed report containing findings and solution suggestions.
 

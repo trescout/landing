@@ -49,7 +49,7 @@ npx claude-code-templates@latest --chats
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code çalışma ortamımı optimize etmek istiyorum. npx claude-code-templates@latest komutunu kullanarak projeme uygun ajanları, özel komutları ve gerekli MCP entegrasyonlarını nasıl listeleyip kurabilirim? Ayrıca kurulumumun sağlıklı olup olmadığını kontrol etmek için hangi komutu çalıştırmalıyım?
 
@@ -71,4 +71,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-templates/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

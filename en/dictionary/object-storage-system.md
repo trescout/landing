@@ -1,6 +1,6 @@
 # What is Object Storage System?
 
-*Dictionary · Data · Last updated: September 19, 2026*
+*Data · Last updated: September 19, 2026*
 
 It is a large-scale storage method that stores data with unique identifiers instead of file folders.
 

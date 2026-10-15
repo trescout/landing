@@ -1,6 +1,6 @@
 # Was ist Memory?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um die Fähigkeit künstlicher Intelligenz, vergangene Interaktionen zu speichern und auf der Grundlage dieser Informationen zukünftige Reaktionen zu personalisieren.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Phased Array Radar ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Le radar à anten active (ou radar à balayage électronique) est un système radar fixe qui dirige son faisceau par voie électronique.
 

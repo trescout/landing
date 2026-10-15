@@ -1,6 +1,6 @@
 # Qu'est-ce que Reinforcement Learning ?
 
-*Glossaire · AI · Dernière mise à jour : 31 août 2026*
+*AI · Dernière mise à jour : 31 août 2026*
 
 C'est le processus par lequel l'intelligence artificielle apprend à prendre les bonnes décisions par essais et erreurs et en utilisant un mécanisme de récompense.
 

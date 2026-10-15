@@ -1,6 +1,6 @@
 # ¿Qué es Introduction to Autonomous Robots?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 Los robots autónomos son máquinas que se mueven por su entorno sin recibir órdenes constantes.
 

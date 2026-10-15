@@ -39,7 +39,7 @@ claude
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Configurez https://github.com/browser-use/video-use pour moi. Lisez d'abord install.md pour installer ce dépôt, connectez ffmpeg, enregistrez la compétence auprès de l'agent sous lequel vous utilisez et configurez la clé API ElevenLabs · demandez-moi de la coller lorsque vous en avez besoin. Ensuite, lisez SKILL.md pour une utilisation quotidienne et lisez toujours helpers/ car c'est là que se trouvent les scripts d'édition. Après l'installation, ne transcrivez rien par vous-même · dites-moi simplement que c'est prêt et attendez que je dépose les images dans un dossier.
 

@@ -1,6 +1,6 @@
 # Was ist Memory API?
 
-*Glossar · Dev · Zuletzt aktualisiert: 3. Juni 2026*
+*Dev · Zuletzt aktualisiert: 3. Juni 2026*
 
 Port, der es Software ermöglicht, Daten zum Speicher der künstlichen Intelligenz hinzuzufügen oder vorhandene Informationen abzufragen.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Voice to Text ?
 
-*Glossaire · AI · Dernière mise à jour : 29 juin 2026*
+*AI · Dernière mise à jour : 29 juin 2026*
 
 Technologie qui convertit les mots prononcés en texte numérique en analysant les ondes sonores.
 

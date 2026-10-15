@@ -1,6 +1,6 @@
 # What is BI?
 
-*Dictionary · Data · Last updated: September 22, 2026*
+*Data · Last updated: September 22, 2026*
 
 > Business Intelligence
 

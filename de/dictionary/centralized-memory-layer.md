@@ -1,6 +1,6 @@
 # Was ist Centralized Memory Layer?
 
-*Glossar · AI · Zuletzt aktualisiert: 11. Juni 2026*
+*AI · Zuletzt aktualisiert: 11. Juni 2026*
 
 Es handelt sich um einen gemeinsamen Speicherbereich, der es Systemen der künstlichen Intelligenz ermöglicht, vergangene Informationen und Erfahrungen von einem einzigen Zentrum aus zu speichern.
 

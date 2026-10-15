@@ -43,7 +43,7 @@ git push no-mistakes
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 In this project, I want to improve the code quality by using the no-mistakes tool. Please initiate the necessary configuration in my current working directory, pass my code changes through the AI-assisted verification pipeline, and ensure that a clean PR is generated when all checks are completed successfully.
 

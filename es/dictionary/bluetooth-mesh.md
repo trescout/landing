@@ -1,6 +1,6 @@
 # ¿Qué es Bluetooth Mesh?
 
-*Glosario · Dev · Última actualización: 27 de julio de 2026*
+*Dev · Última actualización: 27 de julio de 2026*
 
 Tecnología de comunicación inalámbrica que permite que múltiples dispositivos se conecten entre sí y establezcan una red en un área amplia.
 

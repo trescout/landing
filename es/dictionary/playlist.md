@@ -1,6 +1,6 @@
 # ¿Qué es Playlist?
 
-*Glosario · Data · Última actualización: 19 de septiembre de 2026*
+*Data · Última actualización: 19 de septiembre de 2026*
 
 Una lista de reproducción es una colección secuencial de contenidos de audio, vídeo o datos digitales reunidos para reproducirse repetidamente según un determinado orden, tema o lógica algorítmica.
 

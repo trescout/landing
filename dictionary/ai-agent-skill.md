@@ -1,6 +1,6 @@
 # AI Agent Skill nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 6 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 6 Haziran 2026*
 
 Yapay zekâ temsilcisinin bir işi tamamlamak için kullanabileceği, internette arama yapmak veya dosya düzenlemek gibi özel becerilerdir.
 
@@ -16,7 +16,7 @@ Geliştiriciler, ajana belirli API'leri veya araçları kullanma izni verir. Aja
 
 ## Nerede kullanılır?
 
-AI ajan platformlarında ve otomasyon araçlarında sıkça kullanılır.
+Yapay zekâ ajan platformlarında ve otomasyon araçlarında sıkça kullanılır.
 
 ## Sık karıştırılanlar
 
@@ -42,8 +42,8 @@ Hayır, ajanın amacına göre (örneğin kod yazma ajanı vs. araştırma ajan�
 
 - [Last30days Skill](https://trescout.com/discover/last30days-skill/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-agent-skill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

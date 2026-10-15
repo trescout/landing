@@ -43,7 +43,7 @@ btb
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilibili bilet alım süreçlerini otomatikleştirmek istiyorum. Bu aracın kurulumu ve kullanımıyla ilgili temel adımları, dokümantasyon sayfalarındaki bilgiler ışığında bana açıklar mısın?
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bilitickerbuy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -44,7 +44,7 @@ annotated_frame = box_annotator.annotate(scene=image.copy(), detections=detectio
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich habe die Bibliothek mit dem Befehl pip install supervision in einer Python 3.9-Umgebung oder höher installiert. Ich möchte die Ergebnisse der Objekterkennung visualisieren und meinen Datensatz in meinem Computer-Vision-Projekt verwalten. Wie kann ich mithilfe der Supervision-Bibliothek Objekterkennungsergebnisse auf einem Bild markieren und wie kann ich Datensätze in verschiedenen Formaten (COCO, YOLO usw.) laden und konvertieren? Bitte helfen Sie mir, einen Beispielworkflow mit den von der Bibliothek bereitgestellten Annotator- und Datensatz-Hilfstools zu erstellen.
 

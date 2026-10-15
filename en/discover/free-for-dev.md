@@ -47,7 +47,7 @@ free-for-dev is a massive open-source resource library listing over a thousand S
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a modern cloud infrastructure consisting entirely of free services for a new web startup. Can you explain a zero-cost architecture plan and setup steps that combine the most popular free providers from the free-for-dev list (hosting, database, authentication, and email service) without exceeding quota limits?
 

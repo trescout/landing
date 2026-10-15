@@ -43,7 +43,7 @@ git push no-mistakes
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Dans ce projet, je souhaite améliorer la qualité du code en utilisant l'outil sans erreur. Please initiate the necessary configuration in my current working directory, pass my code changes through the AI-assisted verification pipeline, and ensure that a clean PR is generated when all checks are completed successfully.
 

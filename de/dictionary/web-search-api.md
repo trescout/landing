@@ -1,6 +1,6 @@
 # Was ist Web Search API?
 
-*Glossar · Dev · Zuletzt aktualisiert: 6. Oktober 2026*
+*Dev · Zuletzt aktualisiert: 6. Oktober 2026*
 
 Es ist eine Brücke, die es Software und KI-Agenten ermöglicht, im Internet zu suchen und aktuelle Ergebnisse als strukturierte Daten abzurufen.
 

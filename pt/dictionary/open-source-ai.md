@@ -1,6 +1,6 @@
 # O que é Open Source AI?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 IA de código aberto (inteligência artificial de código aberto em turco) são modelos cujos pesos e códigos podem ser examinados e executados por qualquer pessoa.
 

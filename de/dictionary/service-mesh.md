@@ -1,6 +1,6 @@
 # Was ist Service Mesh?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Service Mesh ist die unsichtbare Infrastrukturschicht, die den Datenverkehr von Microservices verwaltet.
 

@@ -52,7 +52,7 @@ python3 user_scanner.py -e hedef@ornek.com
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Können Sie Schritt für Schritt erklären, wie ich mit dem User-Scanner-Tool in einem Sicherheitsaudit mehr als 465 Plattformen mit einem einzigen Benutzernamen scannen, die Ergebnisse im JSON-Format exportieren und verdächtige Profile auflisten kann?
 

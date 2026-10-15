@@ -1,6 +1,6 @@
 # ¿Qué es Prompt?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 Prompt (con su equivalente en turco) es la instrucción escrita dada al modelo.
 

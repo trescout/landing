@@ -1,6 +1,6 @@
 # Qu'est-ce que Quad Remeshing ?
 
-*Glossaire · AI · Dernière mise à jour : 10 juillet 2026*
+*AI · Dernière mise à jour : 10 juillet 2026*
 
 Il s'agit du processus de conversion de la surface d'un modèle 3D complexe composé de triangles en parties plus régulières et rectangulaires (quads).
 

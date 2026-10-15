@@ -36,7 +36,7 @@ python -m unimate.inference.sample \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I animate character models with different skeletal structures in a standard format using the UniMate project? Explain the animation generation process step-by-step by utilizing the UniML3D dataset and pre-trained checkpoints provided by the project.
 

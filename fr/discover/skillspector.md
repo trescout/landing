@@ -59,7 +59,7 @@ skillspector scan https://github.com/user/my-skill
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite contrôler la sécurité d'une compétence d'agent IA à l'aide de l'outil SkillSpector. Comment utiliser la commande « skillsspector scan ./my-skill/ » pour rechercher des talents dans un répertoire local et quels paramètres dois-je ajouter à la commande pour enregistrer les résultats de l'analyse dans « report.json » au format JSON ?
 

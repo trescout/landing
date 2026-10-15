@@ -41,7 +41,7 @@ loopx status
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Trabalharemos em um projeto de longo prazo com você. Quero gerenciar nossas tarefas, metas e logs de progresso com o bean de estado LoopX. À medida que você trabalha, verifique o status atual em cada etapa, registre evidências do trabalho concluído e permaneça dentro dos limites da cota determinando a próxima tarefa (fazer). Deixe um rastro verificável por meio do LoopX ao delegar tarefas ou passar para uma nova fase.
 

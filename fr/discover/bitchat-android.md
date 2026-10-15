@@ -28,7 +28,7 @@ git clone https://github.com/permissionlesstech/bitchat-android.git
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise l'application Android Bitchat. Comment puis-je envoyer des messages en toute sécurité aux autres utilisateurs autour de moi via Bluetooth ? Comment puis-je rejoindre une chaîne et envoyer un message privé à l'aide de commandes telles que /j, /m et /w dans l'application ? Veuillez expliquer simplement les fonctions de ces commandes et la logique de fonctionnement du réseau maillé.
 

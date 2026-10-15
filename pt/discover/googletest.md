@@ -55,7 +55,7 @@ ctest --test-dir build --output-on-failure
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Gostaria de escrever testes unitários para uma classe de analisador (parser) de dados usando GoogleTest e GoogleMock em um projeto C++ moderno. Poderia explicar com exemplos de código como configurar meu arquivo CMakeLists.txt, um exemplo de fixture de teste TEST_F e como criar um objeto mock com MOCK_METHOD e validar expectativas de chamada?
 

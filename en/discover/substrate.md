@@ -29,7 +29,7 @@ curl -X POST -H "Host: my-counter-1.demo.actors.resources.substrate.ate.dev" -i 
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use the Substrate infrastructure to run AI agents at scale. In this system running on Kubernetes (container management system), I want to manage the lifecycle of actors, use resources efficiently and perform high-density agent deployments. How can I optimize the configuration required to maintain the state of my agents and activate them quickly, using the performant operating environment offered by Substrate?
 

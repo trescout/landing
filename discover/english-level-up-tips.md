@@ -27,9 +27,9 @@
 
 GitHub sayfasındaki rehberi inceleyerek önerilen planı kendinize göre uyarlayabilirsiniz. Herhangi bir kurulum gerektirmez.
 
-## AI ile nasıl kullanılır?
+## Yapay zekâ ile nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sana 'English level-up tips' adlı, İngilizceyi ileri seviyede öğrenmek için kelime, dinleme, okuma, konuşma, yazma ve yapay zekâ destekli çalışma yöntemlerini anlatan kapsamlı bir rehber vereceğim. Bu rehberi incele ve seviyeme ile hedefime göre kişisel bir çalışma planı ve yol haritası çıkar. Seviyem: [örn. orta]. Hedefim: [örn. akıcı konuşmak].
 
@@ -47,4 +47,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/english-level-up-tips/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

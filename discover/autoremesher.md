@@ -55,7 +55,7 @@ make -j$(sysctl -n hw.logicalcpu)
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki 3D model dosyasını dörtgen ağ yapısına dönüştürmek istiyorum. Autoremesher aracını kullanarak giriş dosyamı belirtilen hedef dörtgen sayısı, kenar ölçeklendirme ve keskin kenar ayarlarıyla nasıl işleyebilirim? Lütfen komut satırı üzerinden kullanabileceğim örnek bir yapılandırma oluştur.
 
@@ -75,4 +75,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autoremesher/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

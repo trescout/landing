@@ -28,7 +28,7 @@ pip install moss-tts
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das MOSS-TTS-Sprachproduktionsmodell: Laden Sie das Repository mit „git clone https://github.com/OpenMOSS/MOSS-TTS.git“ herunter, gehen Sie hinein und installieren Sie die Abhängigkeiten, öffnen Sie dann die Gradio-Schnittstelle mit „python clis/moss_tts_app.py“ und generieren Sie Sprache aus Text.
 

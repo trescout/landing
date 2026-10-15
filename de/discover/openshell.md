@@ -38,7 +38,7 @@ npx skills add NVIDIA/OpenShell
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Um das OpenShell-Tool zu installieren und zu testen, kannst du folgende Befehle verwenden: curl -LsSf https://raw.githubusercontent.com/NVIDIA/OpenShell/main/install.sh | sh und anschließend den Befehl openshell sandbox create --name demo ausführen, um eine Demoumgebung zu erstellen.
 

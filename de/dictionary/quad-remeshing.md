@@ -1,6 +1,6 @@
 # Was ist Quad Remeshing?
 
-*Glossar · AI · Zuletzt aktualisiert: 10. Juli 2026*
+*AI · Zuletzt aktualisiert: 10. Juli 2026*
 
 Dabei handelt es sich um den Prozess der Umwandlung der Oberfläche eines komplexen 3D-Modells, das aus Dreiecken besteht, in regelmäßigere und rechteckigere Teile (Quads).
 

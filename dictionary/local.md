@@ -1,6 +1,6 @@
 # Local ne demek, nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Local (yerel), bilişim ve yazılım dünyasında işlemlerin, verilerin veya hesaplama döngülerinin uzak bir bulut sunucusu yerine doğrudan kullanıcının kendi fiziksel cihazında, işletim sistemi çekirdeğinde veya fonksiyonel bellek kapsamında çalıştırılmasıdır.
 
@@ -96,8 +96,8 @@ Tam veri gizliliğidir. Kodlar, belgeler ve kullanıcı soruları harici bir bul
 - [DBX](https://trescout.com/discover/dbx/)
 - [Magnitude](https://trescout.com/discover/magnitude/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/local/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

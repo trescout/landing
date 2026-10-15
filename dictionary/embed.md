@@ -1,6 +1,6 @@
 # Embed nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 27 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 27 Eylül 2026*
 
 Verileri, bilgisayarların aralarındaki anlam ilişkisini anlayabileceği sayısal listelere dönüştürme işlemi.
 
@@ -38,8 +38,8 @@ Bilgisayarlar kelimelerin doğrudan anlamını bilmez, sadece sayılarla işlem 
 
 - [FxEmbed](https://trescout.com/discover/fxembed/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/embed/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

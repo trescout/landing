@@ -50,7 +50,7 @@ curl -fsSL https://get.casaos.io/update | sudo bash
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Auf meinem persönlichen Heimserver ist CasaOS installiert. Ich möchte die Dienste AdGuard Home (Werbeblocker), Jellyfin (Medien-Streaming) und Tailscale (sicherer Zugriff von außerhalb des Hauses) für alle Geräte in meinem Zuhause installieren und konfigurieren. Können Sie Schritt für Schritt erklären, wie ich diese Dienste über das CasaOS-Webpanel mittels benutzerdefiniertem Docker Compose oder dem App Store installiere und wie ich die Festplattenfreigabe einrichte?
 

@@ -29,7 +29,7 @@ npm install @copilotkit/react-core
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite ajouter des fonctionnalités d'intelligence artificielle à mon application à l'aide de CopilotKit. Comment configurer l'installation en fonction de l'infrastructure de mon projet à l'aide des commandes npx copilotkit@latest create -f \<framework> ou npx copilotkit@latest init pour mon projet en cours ? Expliquez les étapes de base que je dois suivre pour amener les agents à interagir avec l'interface et à commencer à utiliser les fonctionnalités de l'interface utilisateur générative.
 

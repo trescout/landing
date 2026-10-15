@@ -1,6 +1,6 @@
 # Was ist Orchestrator?
 
-*Glossar · Dev · Zuletzt aktualisiert: 27. September 2026*
+*Dev · Zuletzt aktualisiert: 27. September 2026*
 
 Es ist ein zentrales Verwaltungssystem, das das kompatible Zusammenspiel verschiedener Softwarekomponenten oder KI-Werkzeuge steuert.
 

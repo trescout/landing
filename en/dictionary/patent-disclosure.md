@@ -1,6 +1,6 @@
 # Patent Disclosure: Enabling disclosure, prior art, and software IP
 
-*Dictionary · Dev · Last updated: September 20, 2026*
+*Dev · Last updated: September 20, 2026*
 
 Patent disclosure is the foundational legal requirement that an inventor must publicly disclose their technical invention in sufficient, clear detail so that a person skilled in the art can replicate it without undue experimentation.
 

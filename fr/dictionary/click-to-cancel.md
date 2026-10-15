@@ -1,6 +1,6 @@
 # Qu'est-ce que Click to Cancel ?
 
-*Glossaire · Dev · Dernière mise à jour : 12 octobre 2026*
+*Dev · Dernière mise à jour : 12 octobre 2026*
 
 Il s'agit d'une règle réglementaire qui exige que les procédures d'annulation d'abonnement puissent être effectuées facilement en un seul clic, sans processus complexes.
 

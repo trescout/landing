@@ -49,7 +49,7 @@ docker run -d --name lightpanda -p 127.0.0.1:9222:9222 lightpanda/browser:nightl
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir web otomasyon uzmanısın. Lightpanda başsız tarayıcıyı kullanarak belirtilen web sitesindeki verileri en verimli şekilde çekmeni istiyorum. Bellek kullanımını optimize et, robots.txt kurallarına uy ve elde ettiğin veriyi yapılandırılmış bir formatta sun. İşlemi gerçekleştirirken hata payını düşürmek için gerekli bekleme sürelerini (wait-selector veya wait-ms) dinamik olarak ayarla.
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/browser/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

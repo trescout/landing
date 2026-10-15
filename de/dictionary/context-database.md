@@ -1,6 +1,6 @@
 # Was ist Context Database?
 
-*Glossar · Data · Zuletzt aktualisiert: 19. August 2026*
+*Data · Zuletzt aktualisiert: 19. August 2026*
 
 Dabei handelt es sich um einen privaten Datenspeicher, der die von der künstlichen Intelligenz benötigten Informationen speichert, um konsistentere und personalisiertere Antworten zu erstellen.
 

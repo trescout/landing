@@ -37,7 +37,7 @@ npx cypress open
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer des cas de test de bout en bout pour mon application Web à l'aide de Cypress. Comment puis-je configurer mes tests basés sur un navigateur, créer et exécuter un fichier de test de base, en utilisant cet outil que j'ai inclus dans mon projet avec les commandes npm install cypress --save-dev ou Yarn Add Cypress --dev ?
 

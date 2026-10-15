@@ -1,6 +1,6 @@
 # O que é TUI?
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 > Text User Interface
 

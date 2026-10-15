@@ -41,7 +41,7 @@ loopx status
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 We will work on a long-term project with you. I want to manage our tasks, goals, and progress logs with the LoopX state bean. As you work, check the current status at each step, record evidence of completed work, and stay within quota limits by determining the next todo (todo). Leave a verifiable trail through LoopX when delegating tasks or moving to a new phase.
 

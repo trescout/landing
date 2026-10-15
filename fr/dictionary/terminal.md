@@ -1,6 +1,6 @@
 # Qu'est-ce que Terminal ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Le terminal est l'interface où vous parlez à l'ordinateur avec des commandes textuelles.
 

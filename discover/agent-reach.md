@@ -44,7 +44,7 @@ agent-reach doctor
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Lütfen Agent Reach aracını kurmama yardımcı ol. GitHub üzerindeki resmi kurulum dokümanını (https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md) kullanarak gerekli tüm araçları ve yapılandırmaları sistemime otomatik olarak yükle. Kurulum tamamlandıktan sonra, hangi platformların aktif olduğunu kontrol etmek için gerekli tanı komutunu çalıştır.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-reach/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -34,7 +34,7 @@ Es zeichnet automatisch die vom Agenten während der Sitzung durchgeführten Akt
 
 ## Installation (einzelner Befehl)
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie Claude-Mem, indem Sie „npx claude-mem install“ im Terminal ausführen und dann Claude Code neu starten. Danach wird der Speicher früherer Sitzungen automatisch auf neue Sitzungen übertragen.
 

@@ -1,6 +1,6 @@
 # What is Interoperability?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Interoperability is the ability of different systems to exchange data with common standards.
 

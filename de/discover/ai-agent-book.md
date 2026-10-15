@@ -29,7 +29,7 @@ cd book && bash build_pdf.sh
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind Experte für die Entwicklung von Agenten für künstliche Intelligenz. Erklären Sie mir Schritt für Schritt, wie Sie das Speichersystem eines Agenten einrichten und externe Tools (Tool-Calling) integrieren, basierend auf der Formel „Agent = LLM + Kontext + Tools“. Erklären Sie anhand von Beispielen, welche Engineering-Ansätze ich zur Optimierung des Kontextmanagements insbesondere in RAG-Prozessen (Retrieval-Augmented Generation) verwenden sollte.
 

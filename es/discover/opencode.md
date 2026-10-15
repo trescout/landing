@@ -31,7 +31,7 @@ npm install -g opencode
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Me gustaría que analizaras los códigos de mi proyecto de software actual utilizando la herramienta OpenCode y ayudaras a automatizar los procesos de desarrollo. Puede desarrollar con acceso completo durante el tiempo de ejecución utilizando el agente de compilación, o puede revisar los códigos y los cambios del plan utilizando el agente de plan. Para búsquedas complejas o tareas de varios pasos, espero que utilices @general.
 

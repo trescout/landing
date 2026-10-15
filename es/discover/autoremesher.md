@@ -55,7 +55,7 @@ make -j$(sysctl -n hw.logicalcpu)
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero convertir el archivo del modelo 3D que tengo en una estructura de malla rectangular. ¿Cómo puedo procesar mi archivo de entrada con un número objetivo específico de cuadriláteros, escalado de bordes y configuraciones de bordes afilados usando la herramienta Autoremesher? Cree una configuración de muestra que pueda usar a través de la línea de comando.
 

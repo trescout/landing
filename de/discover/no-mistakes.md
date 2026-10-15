@@ -43,7 +43,7 @@ git push no-mistakes
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 In diesem Projekt möchte ich die Codequalität durch den Einsatz des Fehlerfreiheitstools verbessern. Bitte initiieren Sie die erforderliche Konfiguration in meinem aktuellen Arbeitsverzeichnis, leiten Sie meine Codeänderungen durch die KI-gestützte Verifizierungspipeline und stellen Sie sicher, dass eine saubere PR generiert wird, wenn alle Prüfungen erfolgreich abgeschlossen wurden.
 

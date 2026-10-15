@@ -33,7 +33,7 @@ choco install photogimp
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo aplicar el parche PhotoGIMP necesario para convertir el programa GIMP a la interfaz y los accesos directos de Photoshop? ¿Cuáles son los pasos de copia de seguridad a los que debo prestar atención al colocar los archivos de configuración adecuados para mi sistema operativo en la carpeta GIMP?
 

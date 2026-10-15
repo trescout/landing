@@ -50,7 +50,7 @@ vulnclaw run <target>
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a penetration tester. Using the VulnClaw tool, collect information on the target system, perform vulnerability scanning and exploitation steps. Use the target-oriented solve engine while performing the operations, verify your findings and create a structured report and Python-based PoC code at the end of the process. At each stage, proceed based on the real data you obtain and avoid assumptions.
 

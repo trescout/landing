@@ -1,6 +1,6 @@
 # What is Regulatory Restriction?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Regulatory restriction is the legal framework that limits the development, data use, distribution or export of technologies by governments, international authorities or sectoral regulatory bodies with binding rules.
 

@@ -40,7 +40,7 @@ JetBrains tarafından yayınlanan go-modern-guidelines, yapay zekâ kodlama asis
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bundan sonra kod yazarken modern Go standartlarını kullan. Projenin go.mod dosyasındaki Go sürümünü dikkate alarak, 1.0 sürümünden 1.27 sürümüne kadar olan en güncel dil özelliklerini ve standart kütüphane eklemelerini tercih et. `if-else` blokları yerine `max(a, b)` gibi fonksiyonları, manuel döngüler yerine `slices.Contains` gibi modern yöntemleri ve nil kontrolleri yerine `cmp.Or` gibi güncel kalıpları kullan.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/go-modern-guidelines/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

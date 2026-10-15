@@ -38,7 +38,7 @@ pip install --group dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop deep learning models using the PyTorch library. Walk me through tensor calculations, creating dynamic neural networks, and leveraging GPU acceleration. In particular, explain how to use the torch.nn and torch.autograd components, how to integrate them with the Python structure, and how to optimize the model training processes.
 

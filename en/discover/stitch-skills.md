@@ -42,7 +42,7 @@ npx skills --help
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Analyze my existing interface code using the Stitch Skills library and import it into a Stitch project. Then, create React components using this design system and verify that the project complies with design standards.
 

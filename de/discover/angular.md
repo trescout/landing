@@ -44,7 +44,7 @@ ng serve
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine moderne Webanwendung mit Angular entwickeln. Erklären Sie mir Schritt für Schritt die Schritte, die ich bei der Projekteinrichtung, der grundlegenden Komponentenstruktur und den Anwendungsentwicklungsprozessen mit Angular CLI-Tools befolgen muss.
 

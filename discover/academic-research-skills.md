@@ -43,7 +43,7 @@ Academic Research Skills, Claude Code için geliştirilen ve akademik süreçler
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Akademik araştırma sürecimi yönetmek için Academic Research Skills eklentisini kullanmak istiyorum. Makalemin yapısal planını oluşturmak için Sokratik bir diyalog başlat ve araştırmamın hangi aşamasında olduğumu belirleyerek süreci yönetmeme yardımcı ol.
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/academic-research-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

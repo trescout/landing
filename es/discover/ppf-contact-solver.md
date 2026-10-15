@@ -35,7 +35,7 @@ Esta no es una aplicación de usuario final. Se requieren conocimientos de progr
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Ejecute el solucionador de contactos físicos ppf-contact-solver de ZOZO con Docker (se requiere GPU NVIDIA): ejecute el siguiente comando de Docker, luego abra http://localhost:8080 en el navegador y pruebe los ejemplos de JupyterLab ya preparados.
 

@@ -1,6 +1,6 @@
 # O que é Personal Cloud?
 
-*Glossário · Data · Última atualização: 22 de setembro de 2026*
+*Data · Última atualização: 22 de setembro de 2026*
 
 Personal cloud (em português, nuvem pessoal) é um formato de nuvem em que os dados ficam armazenados no seu próprio dispositivo.
 

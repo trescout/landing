@@ -1,6 +1,6 @@
 # ¿Qué es Nameservers?
 
-*Glosario · Dev · Última actualización: 17 de agosto de 2026*
+*Dev · Última actualización: 17 de agosto de 2026*
 
 Es una guía telefónica que convierte los nombres de sitios web utilizados por las personas en direcciones numéricas que las computadoras entienden.
 

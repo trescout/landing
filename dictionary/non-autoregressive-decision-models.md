@@ -1,6 +1,6 @@
 # Non-autoregressive Decision Models nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
 
 Sırayla değil, tüm kararları aynı anda vererek daha hızlı çalışan yapay zekâ modelleridir.
 
@@ -34,8 +34,8 @@ Hızlı olmasına rağmen, bazı karmaşık metin veya mantık görevlerinde sı
 - [Inference Engine](https://trescout.com/dictionary/inference-engine/)
 - [Introduction to Autonomous Robots](https://trescout.com/dictionary/autonomous-robots-intro/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/non-autoregressive-decision-models/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Sideloader?
 
-*Dictionary · Dev · Last updated: September 12, 2026*
+*Dev · Last updated: September 12, 2026*
 
 It is a tool or method that allows you to install applications directly onto your device via a file, bypassing official app stores.
 

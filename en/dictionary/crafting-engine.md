@@ -1,6 +1,6 @@
 # What is Crafting Engine?
 
-*Dictionary · Dev · Last updated: October 8, 2026*
+*Dev · Last updated: October 8, 2026*
 
 The fundamental mechanism that allows for the creation of new items by combining different materials in games or systems.
 

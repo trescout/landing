@@ -1,6 +1,6 @@
 # Qu'est-ce que Presence Detection ?
 
-*Glossaire · AI · Dernière mise à jour : 7 juillet 2026*
+*AI · Dernière mise à jour : 7 juillet 2026*
 
 C'est une technologie qui détecte la présence humaine dans un environnement à l'aide de capteurs ou de logiciels.
 

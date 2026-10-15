@@ -36,7 +36,7 @@ npm install -g openclaw@latest --allow-scripts=openclaw
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarıma OpenClaw yapay zekâ asistanını kurmak istiyorum. İşletim sistemime uygun olarak curl indirme betiğini ya da npm üzerinden global kurulum komutunu çalıştırarak kurulumu tamamlamama ve ardından ilk yapılandırma sihirbazını başlatmama adım adım yardımcı olur musun?
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openclaw/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

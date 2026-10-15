@@ -50,7 +50,7 @@ vulnclaw run <target>
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind Penetrationstester. Sammeln Sie mit dem VulnClaw-Tool Informationen über das Zielsystem, führen Sie Schwachstellenscans und Ausnutzungsschritte durch. Nutzen Sie die zielgerichtete Lösungs-Engine bei der Durchführung der Operationen, verifizieren Sie Ihre Erkenntnisse und erstellen Sie am Ende des Prozesses einen strukturierten Bericht und Python-basierten PoC-Code. Gehen Sie in jeder Phase auf der Grundlage der realen Daten vor, die Sie erhalten, und vermeiden Sie Annahmen.
 

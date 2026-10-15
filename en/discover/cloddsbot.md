@@ -45,7 +45,7 @@ clodds start
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a trading assistant. I want you to perform analysis on cryptocurrency markets and prediction platforms using CloddsBot with over 118 strategies. Manage automated trading operations within my specified budget by applying risk management rules and provide me with reports by monitoring market data.
 

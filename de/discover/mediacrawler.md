@@ -58,7 +58,7 @@ uv run main.py --help
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem MediaCrawler-Tool Daten von einer bestimmten Social-Media-Plattform abrufen. Bitte lassen Sie mich die Einstellungen in der Datei config/base_config.py überprüfen und Schritt für Schritt erklären, wie ich den Befehl uv run main.py konfigurieren sollte, um Beitrags- und Kommentarinformationen durch eine Stichwortsuche für die xhs-Plattform zu sammeln.
 

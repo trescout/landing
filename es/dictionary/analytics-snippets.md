@@ -1,6 +1,6 @@
 # ¿Qué es Analytics Snippets?
 
-*Glosario · Data · Última actualización: 17 de agosto de 2026*
+*Data · Última actualización: 17 de agosto de 2026*
 
 Son pequeños fragmentos de código que los sitios web agregan a sus páginas para rastrear el comportamiento de los visitantes.
 

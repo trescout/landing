@@ -1,6 +1,6 @@
 # ¿Qué es Common User Passwords Profiler?
 
-*Glosario · Dev · Última actualización: 1 de julio de 2026*
+*Dev · Última actualización: 1 de julio de 2026*
 
 > CUPS
 

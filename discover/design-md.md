@@ -47,7 +47,7 @@ npx @google/design.md diff DESIGN.md DESIGN-v2.md
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Projemin görsel kimliğini ve tasarım sistemini tanımlayan DESIGN.md dosyasını incele. Bu dosyada yer alan renk paleti, tipografi kuralları, boşluk değerleri ve bileşen tanımlarını referans alarak oluşturacağın tüm kodlarda bu yapıya sadık kal. Tasarım sistemindeki değerleri doğrudan kullan ve herhangi bir görsel tutarsızlık oluşturmaktan kaçın.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/design-md/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

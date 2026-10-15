@@ -1,6 +1,6 @@
 # Sun Code Conventions: Padrões Java, legibilidade e manutenção de código
 
-*Glossário · Dev · Última atualização: 20 de setembro de 2026*
+*Dev · Última atualização: 20 de setembro de 2026*
 
 As Sun Code Conventions for the Java Programming Language, publicadas pela Sun Microsystems em 1999, formam o documento histórico que padronizou convenções de nomenclatura e legibilidade na programação corporativa.
 

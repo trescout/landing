@@ -36,7 +36,7 @@ npm install @firecrawl/pdf-inspector
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I need to analyze the PDF file I have. Classify this file to see if it is text-based or a scanned document. If it is text-based, convert it to a clean Markdown format, preserving the text, tables and headings. Determine the reading order correctly by using the file's own structure and font information, without using OCR.
 

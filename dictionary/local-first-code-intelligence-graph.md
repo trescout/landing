@@ -1,6 +1,6 @@
 # Local-first Code Intelligence Graph nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 21 Temmuz 2026*
+*Geliştirme · Son güncelleme: 21 Temmuz 2026*
 
 Yazılım projelerindeki kod parçalarının ilişkilerini internete ihtiyaç duymadan yerel bilgisayarınızda haritalayan bir sistemdir.
 
@@ -38,8 +38,8 @@ Evet, sistem tamamen yerel çalıştığı için internet bağlantısına ihtiya
 - [Local-first](https://trescout.com/dictionary/local-first/)
 - [AI Coding Agent](https://trescout.com/dictionary/ai-coding-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/local-first-code-intelligence-graph/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

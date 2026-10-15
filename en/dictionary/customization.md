@@ -1,6 +1,6 @@
 # What is Customization?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Customization means adapting the ready-made product to your own needs.
 

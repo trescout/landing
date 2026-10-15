@@ -1,6 +1,6 @@
 # What is Development Framework?
 
-*Dictionary · Dev · Last updated: July 20, 2026*
+*Dev · Last updated: July 20, 2026*
 
 It is a working framework that accelerates the software development process and offers ready-made structures and rules.
 

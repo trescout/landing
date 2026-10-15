@@ -1,6 +1,6 @@
 # Distributed ne demek, nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Distributed (dağıtık), bilgi işlem dünyasında donanım, veri ve hesaplama süreçlerinin tek bir merkezi makine yerine ağ üzerinden birbirine bağlı çok sayıda bağımsız sunucuya (düğüme) paylaştırılması ve bu sistemin son kullanıcıya tek bir bütün bilgisayarmış gibi hizmet vermesidir.
 
@@ -99,8 +99,8 @@ Ağdaki sunuculardan birkaçı çökse dahi, geriye kalan çoğunluk düğümler
 - [Elasticsearch](https://trescout.com/discover/elasticsearch/)
 - [Cassandra](https://trescout.com/discover/cassandra/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/distributed/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

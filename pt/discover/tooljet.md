@@ -35,7 +35,7 @@ docker run \
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a criar um painel de operações internas de arrastar e soltar conectado ao banco de dados usando mais de 60 componentes prontos no ToolJet. Projetar uma arquitetura de aplicativo que visualize dados e automatize fluxos de trabalho dentro da equipe que posso personalizar usando JavaScript e Python.
 

@@ -37,7 +37,7 @@ npx t3@latest
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Konfigurieren Sie mit dem T3-Code-Tool einen der Codex-, Claude-, Cursor- oder OpenCode-Anbieter und starten Sie die Coding-Agent-Schnittstelle. Nachdem Sie den Authentifizierungsprozess des von Ihnen gewählten Anbieters abgeschlossen haben, führen Sie das Tool aus und erhalten Sie Codierungsunterstützung für Ihre Projekte.
 

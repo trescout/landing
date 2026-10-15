@@ -1,6 +1,6 @@
 # Was ist Clone?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Klon (auf Türkisch klonlama) ist der Prozess, bei dem eine lokale Kopie eines entfernten Git-Repositorys samt seiner gesamten Historie erstellt wird.
 

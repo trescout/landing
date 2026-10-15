@@ -1,6 +1,6 @@
 # Deepfake nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 30 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 30 Temmuz 2026*
 
 Yapay zekâ ile bir kişinin sesini veya görüntüsünü başka birine gerçeğinden ayırt edilemeyecek şekilde uyarlama teknolojisi.
 
@@ -42,8 +42,8 @@ Kullanım amacına göre değişir; izinsiz ve kötü niyetli kullanım birçok 
 
 - [Faceswap](https://trescout.com/discover/faceswap/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/deepfake/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

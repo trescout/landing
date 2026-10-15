@@ -1,6 +1,6 @@
 # Was ist Office Suite?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Eine Office-Suite ist eine Softwaregruppe, die Dokumente, Tabellen und Präsentationen unter einem Dach vereint.
 

@@ -1,6 +1,6 @@
 # What is Testing Framework?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Testing framework (test framework in Turkish) is a ready-made infrastructure that writes and runs tests.
 

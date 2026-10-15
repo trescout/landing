@@ -1,6 +1,6 @@
 # What is Context Database?
 
-*Dictionary · Data · Last updated: August 19, 2026*
+*Data · Last updated: August 19, 2026*
 
 It is a private data store that stores the information needed by artificial intelligence to produce more consistent and personalized responses.
 

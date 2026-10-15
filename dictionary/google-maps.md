@@ -1,6 +1,6 @@
 # Google Maps nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 29 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 29 Eylül 2026*
 
 Konum, uydu görüntüsü, canlı trafik bilgisi ve rota planlaması sunan web tabanlı dijital harita platformudur.
 
@@ -43,8 +43,8 @@ Evet. Google Maps API hizmetleri aracılığıyla haritalar, rota hesaplama ve y
 
 - [Gods Eye View](https://trescout.com/discover/gods-eye-view/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/google-maps/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

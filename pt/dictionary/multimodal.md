@@ -1,6 +1,6 @@
 # O que é Multimodal?
 
-*Glossário · AI · Última atualização: 3 de junho de 2026*
+*AI · Última atualização: 3 de junho de 2026*
 
 É uma habilidade de inteligência artificial que pode processar simultaneamente diferentes tipos de dados, como texto, áudio, visual e vídeo.
 

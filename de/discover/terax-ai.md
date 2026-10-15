@@ -27,7 +27,7 @@ pnpm tauri dev          # development
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie mit dem Bedienfeld für künstliche Intelligenz in Terax projektspezifische Systemansagen und verwalten Sie den Projektspeicher über die Datei TERAX.md. Akzeptieren oder lehnen Sie KI-gestützte Unterschiede für Codebearbeitungen ab und führen Sie mehrstufige Aufgaben mit Genehmigung im Planmodus aus.
 

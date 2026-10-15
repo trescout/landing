@@ -35,7 +35,7 @@ pip install "cactus-needle[gpu]"
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yapay zekâ asistanısın. Kullanıcıdan gelen metni analiz et ve tanımladığım Python fonksiyonlarını kullanarak gerekli araç çağrılarını yap veya metin içerisinden istenen verileri yapılandırılmış JSON formatında çıkar. Yanıtlarında her zaman modelin sağladığı güven skorunu göz önünde bulundur ve düşük güven seviyelerinde işlemi onaylat.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/needle/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

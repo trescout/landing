@@ -1,6 +1,6 @@
 # ¿Qué es Agentic Coding Tool?
 
-*Glosario · Dev · Última actualización: 3 de junio de 2026*
+*Dev · Última actualización: 3 de junio de 2026*
 
 Son asistentes autónomos de inteligencia artificial que no sólo escriben código en los procesos de desarrollo de software, sino que también depuran errores y gestionan el flujo del proyecto.
 

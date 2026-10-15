@@ -1,6 +1,6 @@
 # Was ist API?
 
-*Glossar · Dev · Zuletzt aktualisiert: 3. Juni 2026*
+*Dev · Zuletzt aktualisiert: 3. Juni 2026*
 
 > Application Programming Interface
 

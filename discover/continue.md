@@ -51,7 +51,7 @@ cn
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yazılım geliştirme asistanı olarak, yerel dil modellerini kullanarak kod yazma, mevcut kod bloklarını yeniden yapılandırma ve hata ayıklama süreçlerinde bana rehberlik et. Çalışma ortamımdaki dosyaları analiz ederek kod kalitesini artıracak öneriler sun ve karmaşık mantıksal hataları tespit etmemde yardımcı ol.
 
@@ -75,4 +75,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/continue/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

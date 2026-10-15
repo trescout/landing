@@ -1,6 +1,6 @@
 # Agent Skills nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
 Agent skills (Türkçe karşılığıyla **ajan yetenekleri**), bir ajanın belirli bir görevi tutarlı biçimde yapması için gereken talimatları, araçları ve kaynakları bir araya getiren paketlerdir.
 
@@ -76,8 +76,8 @@ Evet. Platformlar yaygın yetenekleri paketler, özel iş için kendiniz yazars�
 - [Text to Cad](https://trescout.com/discover/text-to-cad/)
 - [Claude Obsidian](https://trescout.com/discover/claude-obsidian/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

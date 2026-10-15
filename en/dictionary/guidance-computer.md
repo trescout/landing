@@ -1,6 +1,6 @@
 # What is Guidance Computer?
 
-*Dictionary · AI · Last updated: July 23, 2026*
+*AI · Last updated: July 23, 2026*
 
 It is the guidance brain that calculates the route of a vehicle or system and enables it to reach the target autonomously.
 

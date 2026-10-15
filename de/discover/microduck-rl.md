@@ -52,7 +52,7 @@ python -m microduck_rl.enjoy --checkpoint checkpoint.pt
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe der microduck_rl-Bibliothek von Pollen Robotics eine Gehrichtlinie für den Microduck-Roboter trainieren. Können Sie die Schritte zum Konfigurieren der MuJoCo-Umgebung, zum Initialisieren des Trainingsbefehls mit dem PPO-Algorithmus und zum Übertragen der resultierenden Steuerungsrichtlinie auf den physischen Roboter erläutern?
 

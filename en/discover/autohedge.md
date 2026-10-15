@@ -34,7 +34,7 @@ autohedge
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create an investment strategy using the AutoHedge system. I would like you to perform market analysis with the Director Agent, evaluate technical data with the Quant Agent, and determine position sizing with the Risk Management Agent. Report all risk analyses through this AI-based framework before executing any trades.
 

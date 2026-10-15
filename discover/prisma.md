@@ -42,7 +42,7 @@ npx create-db --interactive
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Prisma kullanarak Node.js projemde veritabanı etkileşimlerini nasıl kurgulayabilirim? Veri modelimi oluşturmak için Prisma şemasını nasıl yapılandırmalıyım ve veritabanı bağlantı ayarlarını prisma.config.ts dosyasında nasıl tanımlarım? Ayrıca, veritabanı değişikliklerini yönetmek için Prisma Migrate sistemini nasıl kullanabilirim?
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/prisma/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

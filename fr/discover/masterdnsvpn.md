@@ -39,7 +39,7 @@ docker run -d \
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite établir une connexion sécurisée via un tunneling DNS dans un réseau censuré à l'aide de l'outil MasterDnsVPN. Comment puis-je configurer le côté serveur à l’aide du script d’installation automatique partagé et quelles étapes de base dois-je suivre pour garantir la connexion côté client ? Veuillez détailler les exigences réseau auxquelles je dois prêter attention pendant le processus d'installation et la méthode d'exécution via Docker.
 

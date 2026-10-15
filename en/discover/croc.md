@@ -49,7 +49,7 @@ croc code-phrase
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to transfer files securely between two computers using the Croc tool. How can I match the code expression given to me when I run the 'croc send [file_name]' command on the sender side with the 'croc [code_expression]' command on the receiving side and start the transfer? Is there a special setting I should pay attention to to ensure that end-to-end encryption is provided during the transfer and the process is secure?
 

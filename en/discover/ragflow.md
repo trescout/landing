@@ -35,7 +35,7 @@ docker compose -f docker/docker-compose.yml up -d
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to transform the complex documents and unstructured data I have into a high-quality information source that artificial intelligence models can understand. How can I process my data using RAGFlow, configure document fragmentation templates, and create an error-free, source-referencing AI agent using this data?
 

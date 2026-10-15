@@ -1,6 +1,6 @@
 # Research Agents nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 12 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 12 Eylül 2026*
 
 İnternette sizin yerinize derinlemesine araştırma yapıp bilgileri özetleyen yapay zekâ yazılımlarıdır.
 
@@ -42,8 +42,8 @@ Kaynağı doğrulamak önemlidir, ancak araştırmayı hızlandırmak için mük
 
 - [OpenResearch](https://trescout.com/discover/openresearch/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/research-agents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

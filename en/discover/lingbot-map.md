@@ -44,7 +44,7 @@ python demo.py --model_path /path/to/lingbot-map-long.pt \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a 3D scene from streaming data using LingBot-Map. I completed the installation and my model file is ready. How can I launch the visualization interface in my local browser using the command required to run the Courthouse instance?
 

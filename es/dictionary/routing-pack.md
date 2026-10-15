@@ -1,6 +1,6 @@
 # ¿Qué es Routing Pack?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Un paquete de enrutamiento (Routing Pack) es un paquete de datos que los dispositivos de red utilizan para transferir información de enrutamiento entre sí.
 

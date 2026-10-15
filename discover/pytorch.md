@@ -38,7 +38,7 @@ pip install --group dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PyTorch kütüphanesini kullanarak derin öğrenme modelleri geliştirmek istiyorum. Tensör hesaplamaları, dinamik sinir ağları oluşturma ve GPU hızlandırmasından faydalanma konularında bana adım adım rehberlik et. Özellikle torch.nn ve torch.autograd bileşenlerini nasıl kullanacağımı, Python yapısıyla nasıl entegre edeceğimi ve model eğitim süreçlerini nasıl optimize edebileceğimi açıkla.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pytorch/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

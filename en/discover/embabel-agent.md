@@ -31,7 +31,7 @@ cd embabel-agent-examples/scripts/kotlin
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to design an artificial intelligence agent that can plan targeted action, running on the Java Virtual Machine using the Embabel framework. Help me create a flow that can make dynamic decisions, compatible with existing object models in my code, by using @Agent, @Goal and @Action structures in a Spring-based architecture.
 

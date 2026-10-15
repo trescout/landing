@@ -1,6 +1,6 @@
 # Qu'est-ce que Hard Budget Caps ?
 
-*Glossaire · Dev · Dernière mise à jour : 4 octobre 2026*
+*Dev · Dernière mise à jour : 4 octobre 2026*
 
 Il s'agit d'une limite supérieure stricte imposée aux ressources qu'un projet ou un système peut consommer, qui arrête immédiatement les opérations lorsqu'elle est dépassée.
 

@@ -1,6 +1,6 @@
 # Fingerprint nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 12 Ekim 2026*
+*Veri & Altyapı · Son güncelleme: 12 Ekim 2026*
 
 > Device Fingerprint
 
@@ -42,8 +42,8 @@ Güvenlik ve dolandırıcılık önleme amacıyla yasal kabul edilir; ancak rekl
 - [Web Scraping](https://trescout.com/dictionary/web-scraping/)
 - [Stealth Headless Browser](https://trescout.com/dictionary/stealth-headless-browser/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/fingerprint/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

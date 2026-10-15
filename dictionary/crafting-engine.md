@@ -1,6 +1,6 @@
 # Crafting Engine nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 8 Ekim 2026*
+*Geliştirme · Son güncelleme: 8 Ekim 2026*
 
 Oyunlarda veya sistemlerde farklı malzemeleri birleştirerek yeni eşyalar üretilmesini sağlayan temel mekanizma.
 
@@ -33,8 +33,8 @@ Genelde oyunlar için düşünülse de, malzeme birleştirme mantığı içeren 
 
 - [Artcraft](https://trescout.com/discover/artcraft/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/crafting-engine/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

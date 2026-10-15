@@ -55,7 +55,7 @@ make -j$(sysctl -n hw.logicalcpu)
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to convert the 3D model file I have into a rectangular mesh structure. How can I process my input file with specified target number of quadrilaterals, edge scaling and sharp edge settings using the Autoremesher tool? Please create a sample configuration that I can use via the command line.
 

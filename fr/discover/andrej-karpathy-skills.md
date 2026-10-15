@@ -40,7 +40,7 @@ Ce paquet donne des indications aux agents ; vous devez toujours vérifier le co
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Commencez par exposer le plan, les incertitudes et les fichiers concernés par cette tâche. Proposez ensuite l’approche la plus simple et ne faites que les changements nécessaires.
 

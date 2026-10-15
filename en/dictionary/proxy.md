@@ -1,6 +1,6 @@
 # What is Proxy?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Proxy (in Turkish, proxy server) is the intermediary that transmits your requests to the target on your behalf.
 

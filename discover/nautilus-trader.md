@@ -35,7 +35,7 @@ pip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/si
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 NautilusTrader alım satım motorunu kullanarak çoklu borsa desteğine sahip, Rust çekirdeği üzerinde çalışan deterministik bir alım satım stratejisi tasarlamam gerekiyor. Python kontrol düzlemini kullanarak strateji mantığını nasıl kurgulayabilirim ve araştırma ortamından canlı ortama geçişte kod tutarlılığını sağlamak için hangi modüler yapıları kullanmalıyım?
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nautilus-trader/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

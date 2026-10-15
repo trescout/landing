@@ -1,6 +1,6 @@
 # Was ist High Bandwidth Memory?
 
-*Glossar · Dev · Zuletzt aktualisiert: 27. September 2026*
+*Dev · Zuletzt aktualisiert: 27. September 2026*
 
 > HBM
 

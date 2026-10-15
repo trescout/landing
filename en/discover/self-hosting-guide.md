@@ -40,7 +40,7 @@ npm run dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up my own server. Based on the information in the Self-Hosting-Guide, what are the basic steps I should follow to create a media server or cloud storage on my local network? Which hardware and software tools should I consider first?
 

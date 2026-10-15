@@ -66,7 +66,7 @@ Utilisez le projet conformément aux réglementations applicables. Le texte offi
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Quelles sont les différences entre l’utilisation d’une instance Invidious publique et l’hébergement de ma propre instance ?
 

@@ -39,7 +39,7 @@ npm run dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux que vous créiez un organigramme. Visualisez le processus d'authentification des utilisateurs, y compris la connexion, l'authentification multifacteur et la gestion des sessions.
 

@@ -1,6 +1,6 @@
 # ¿Qué es AI-generated Content?
 
-*Glosario · AI · Última actualización: 17 de julio de 2026*
+*AI · Última actualización: 17 de julio de 2026*
 
 Se trata de todo tipo de contenidos digitales creados por modelos de inteligencia artificial sin intervención humana.
 

@@ -43,7 +43,7 @@ python -c "from openmed import extract_pii; print([(e.label, e.text) for e in ex
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenMed kütüphanesini kullanarak tıbbi metin analizi yapmak istiyorum. Cihazımda Python yüklü. Öncelikle pip install "openmed[hf]" komutuyla kurulumu tamamladım. Şimdi elimdeki klinik notları analiz etmek ve içerisindeki tıbbi terimleri veya kişisel verileri (PII) tespit etmek için Python kodumda hangi fonksiyonları çağırmalıyım? Lütfen bana model seçimi ve çıktıları yazdırma konusunda basit bir örnek kod bloğu oluştur.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openmed/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

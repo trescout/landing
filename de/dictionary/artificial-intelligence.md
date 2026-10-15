@@ -1,6 +1,6 @@
 # Was ist Artificial Intelligence?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 > AI
 

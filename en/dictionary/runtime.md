@@ -1,6 +1,6 @@
 # What is Runtime?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Runtime refers to the time period in which a program is actually executed in the computer processor and memory after the compilation phase, and the software infrastructure (Runtime Environment) that makes this execution possible.
 

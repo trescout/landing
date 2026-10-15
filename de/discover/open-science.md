@@ -39,7 +39,7 @@ npm run dev:web
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Unterstütze mich bei meinem wissenschaftlichen Forschungsprozess. Hilf mir bei der Literaturrecherche, der Hypothesenentwicklung und bei Datenanalyseprozessen, indem du Python- oder R-Code schreibst. Verstehe meine Forschungsziele, lies Dateien, durchsuche das Web und frage wissenschaftliche Daten ab, um nachvollziehbare Ergebnisse, Tabellen und Grafiken zu erstellen.
 

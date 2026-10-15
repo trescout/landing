@@ -34,7 +34,7 @@ Bir proxy istemcisi yalnızca araçtır; **bulunduğunuz ülkenin yasalarına ve
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 FlClash adlı çok platformlu açık kaynaklı proxy istemcisini kullanmak istiyorum; GitHub Releases sayfasından (https://github.com/chen08209/FlClash/releases) işletim sistemime (Android, Windows, macOS ya da Linux) uygun kurulum dosyasını indirip kurmama ve bir abonelik bağlantısı ekleyerek yapılandırmama yardım et.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flclash/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

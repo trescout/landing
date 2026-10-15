@@ -37,7 +37,7 @@ http://localhost:8080
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich meine PDF-Dokumente mit dem Stirling-PDF-Tool bearbeiten, konvertieren und zusammenführen? Zeigen Sie mir, wie ich über 50 Tools am effizientesten nutzen kann, und helfen Sie mir, meine Arbeitsabläufe zu automatisieren und meine Dokumente lokal sicher aufzubewahren.
 

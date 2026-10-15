@@ -1,6 +1,6 @@
 # Adblocker nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 17 Ağustos 2026*
+*Geliştirme · Son güncelleme: 17 Ağustos 2026*
 
 İnternet tarayıcınızda reklamların görünmesini engelleyen bir yazılım eklentisidir.
 
@@ -38,8 +38,8 @@ Birçok web sitesi gelirini reklamlar üzerinden sağlar; bu yüzden bazı sitel
 - [User Experience](https://trescout.com/dictionary/user-experience/)
 - [Web Interface](https://trescout.com/dictionary/web-interface/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/adblocker/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

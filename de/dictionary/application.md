@@ -1,6 +1,6 @@
 # Was ist Application?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Eine Anwendung ist eine Benutzersoftware, die eine bestimmte Aufgabe ausführt.
 

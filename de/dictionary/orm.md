@@ -1,6 +1,6 @@
 # Was ist ORM?
 
-*Glossar · Dev · Zuletzt aktualisiert: 9. Juli 2026*
+*Dev · Zuletzt aktualisiert: 9. Juli 2026*
 
 > Object-Relational Mapping
 

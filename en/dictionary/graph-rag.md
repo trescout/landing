@@ -1,6 +1,6 @@
 # What is Graph RAG?
 
-*Dictionary · AI · Last updated: August 31, 2026*
+*AI · Last updated: August 31, 2026*
 
 > Graph Retrieval-Augmented Generation
 

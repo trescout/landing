@@ -56,7 +56,7 @@ docker compose up --build -d
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Production-agentic-rag-course projesini kullanarak bir akademik araştırma asistanı geliştirmek istiyorum. Projenin temel kurulumu için git clone komutu ile depoyu indirdikten sonra .env dosyasını yapılandırıp uv sync ile bağımlılıkları yüklemem gerekiyor. Ardından docker compose up --build -d komutu ile tüm servisleri başlatarak http://localhost:8000/api/v1/health adresi üzerinden sistemin çalıştığını doğrulamak istiyorum. Bu süreçte dikkat etmem gereken API anahtarları ve servis yapılandırmaları hakkında bana rehberlik eder misin?
 
@@ -80,4 +80,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/production-agentic-rag-course/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

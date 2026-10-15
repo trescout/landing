@@ -34,7 +34,7 @@ pytest
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero escrever testes unitários no meu projeto Python. Como posso criar um arquivo de teste simples usando Pytest e executar os testes que escrevi através do terminal? Por favor, conte-me sobre a estrutura assert que devo usar ao definir funções de teste e as convenções de nomenclatura de arquivos para descoberta automática de testes.
 

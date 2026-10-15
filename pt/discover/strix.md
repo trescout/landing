@@ -37,7 +37,7 @@ strix --target ./app-directory
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Execute uma verificação de segurança abrangente no alvo especificado usando a ferramenta Strix. Configure minhas chaves de API necessárias ao iniciar a verificação e relate as descobertas com evidências verificáveis. Analise as vulnerabilidades no diretório do meu aplicativo ou na URL que eu especificar e forneça um relatório detalhado contendo descobertas e sugestões de soluções.
 

@@ -1,6 +1,6 @@
 # Factory Droid nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 8 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 8 Ekim 2026*
 
 Üretim hatlarında görev yapan, belirli işleri tekrarlamak üzere tasarlanmış otomasyon robotları.
 
@@ -35,8 +35,8 @@ Genellikle insanların yapmakta zorlandığı tehlikeli, yorucu ve tekrara dayal
 - [Physical AI](https://trescout.com/dictionary/physical-ai/)
 - [Operating System for Robotics](https://trescout.com/dictionary/operating-system-for-robotics/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/factory-droid/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

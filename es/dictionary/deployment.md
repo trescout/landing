@@ -1,6 +1,6 @@
 # ¿Qué es Deployment?
 
-*Glosario · Dev · Última actualización: 19 de septiembre de 2026*
+*Dev · Última actualización: 19 de septiembre de 2026*
 
 La implementación (deployment / puesta en producción) es el proceso mediante el cual un componente de software desarrollado y probado en un entorno local se compila, se instala en servidores de destino o en una infraestructura en la nube, y se pone a disposición de los usuarios finales.
 

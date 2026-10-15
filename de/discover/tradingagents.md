@@ -38,7 +38,7 @@ python -m cli.main
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Finanzmarktdaten mit dem TradingAgents-Tool analysieren. Ich habe die Installation abgeschlossen und meine erforderlichen API-Schlüssel konfiguriert. Wie kann ich das System initialisieren, damit Agenten die Marktbedingungen bewerten und technische und fundamentale Analysen durchführen können? Mit welchem ​​Befehl kann ich autonome Handelsagenten aktivieren und den Strategieerstellungsprozess starten?
 

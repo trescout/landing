@@ -27,7 +27,7 @@ scripts/deploy-managed-agent.sh gl-reconciler
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the Claude Cowork plugin to generate financial analyses and valuation models, and initiate market research and revenue assessment processes.
 

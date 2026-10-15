@@ -1,6 +1,6 @@
 # What is Cookies?
 
-*Dictionary · Dev · Last updated: October 12, 2026*
+*Dev · Last updated: October 12, 2026*
 
 > HTTP Cookies
 

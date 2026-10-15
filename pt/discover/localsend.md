@@ -43,7 +43,7 @@ O LocalSend funciona na rede local sem conexão com a internet ou servidor de te
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como envio uma foto do meu computador para o celular na mesma rede local?
 

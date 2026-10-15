@@ -1,6 +1,6 @@
 # Was ist OSINT?
 
-*Glossar · Data · Zuletzt aktualisiert: 22. September 2026*
+*Data · Zuletzt aktualisiert: 22. September 2026*
 
 > Open Source Intelligence
 

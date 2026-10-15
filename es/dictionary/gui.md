@@ -1,6 +1,6 @@
 # ¿Qué es GUI?
 
-*Glosario · Dev · Última actualización: 5 de julio de 2026*
+*Dev · Última actualización: 5 de julio de 2026*
 
 > Graphical User Interface
 

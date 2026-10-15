@@ -27,7 +27,7 @@ Cada lição segue o mesmo ciclo: analisar o problema, fazer as contas, escrever
 
 ## Como usá-lo com IA?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Darei a você o conteúdo de um currículo de código aberto com mais de 500 aulas e 20 fases chamado 'engenharia de IA do zero', que ensina engenharia de IA do zero. Revise o README e o roteiro e ele me dará um plano de estudo pessoal, em turco, dividido em semanas: por qual fase devo começar, quais são os pré-requisitos e em que ordem devo prosseguir? Meu nível: [ex. novato].
 

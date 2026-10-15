@@ -47,9 +47,9 @@ BONSAI_MODEL=4B ./scripts/start_llama_server.sh
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
-Bonsai-demo projesini kullanarak yerel cihazımda yapay zekâ modellerini çalıştırmak istiyorum. Kurulum için gerekli olan git deposunu klonladıktan sonra, HuggingFace token bilgilerimi tanımlayıp ./setup.sh komutuyla bağımlılıkları ve modelleri indirmem gerekiyor. Ardından, ./scripts/start_llama_server.sh komutunu kullanarak yerel sunucuyu ayağa kaldırabilir ve tarayıcım üzerinden 8080 portu ile yapay zekâ ile etkileşime geçebilirim.
+Bonsai-demo projesini kullanarak yerel cihazımda yapay zekâ modellerini çalıştırmak istiyorum. Kurulum için gerekli olan git deposunu klonladıktan sonra, Hugging Face token bilgilerimi tanımlayıp ./setup.sh komutuyla bağımlılıkları ve modelleri indirmem gerekiyor. Ardından, ./scripts/start_llama_server.sh komutunu kullanarak yerel sunucuyu ayağa kaldırabilir ve tarayıcım üzerinden 8080 portu ile yapay zekâ ile etkileşime geçebilirim.
 
 - **Kimin için:** Yerel donanımında yüksek verimli yapay zekâ modellerini çalıştırmak isteyen geliştiriciler için uygundur.
 - **Lisans:** Apache-2.0
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bonsai-demo/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

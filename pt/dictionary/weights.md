@@ -1,6 +1,6 @@
 # O que é Weights?
 
-*Glossário · AI · Última atualização: 27 de setembro de 2026*
+*AI · Última atualização: 27 de setembro de 2026*
 
 São valores numéricos que os modelos de inteligência artificial aprendem durante o treinamento e que moldam suas decisões.
 

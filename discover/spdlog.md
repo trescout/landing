@@ -43,7 +43,7 @@ spdlog kütüphanesinin benzersiz hızı, modüler ve sıfır ek yük (zero-over
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Modern bir C++ projesinde CMake kullanarak spdlog kütüphanesini asenkron mimariyle yapılandırmak istiyorum. Günlük 10MB boyuta ulaştığında dosyayı döndüren (rotating file), aynı zamanda konsola renkli çıktı veren ve hata (error) seviyesinde anında diske yazan (flush) örnek bir C++ başlatma fonksiyonu ile birlikte CMakeLists.txt dosyasını hazırlar mısın?
 
@@ -73,4 +73,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/spdlog/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

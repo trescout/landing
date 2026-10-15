@@ -1,6 +1,6 @@
 # Context Database nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 19 Ağustos 2026*
+*Veri & Altyapı · Son güncelleme: 19 Ağustos 2026*
 
 Yapay zekânın daha tutarlı ve kişiselleştirilmiş yanıtlar üretebilmesi için ihtiyaç duyduğu bilgileri saklayan özel veri deposudur.
 
@@ -38,8 +38,8 @@ Context database yapısı, verilerin nerede ve nasıl saklandığına bağlı ol
 - [Vector Database](https://trescout.com/dictionary/vector-database/)
 - [Long-term Memory](https://trescout.com/dictionary/long-term-memory/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/context-database/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

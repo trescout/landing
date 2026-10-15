@@ -44,7 +44,7 @@ soup train
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Soup kütüphanesini kullanarak 8 milyar parametreli bir yapay zekâ modelini 4 GB grafik belleğine sahip bilgisayarımda eğitmek istiyorum. Katman akış özelliğini aktif eden ve 4-bit nicemleme kullanan bir YAML yapılandırma dosyası oluşturmama yardımcı ol. Eğitim sürecini başlatmak için gerekli olan soup.yaml dosyasının içeriğini hazırla ve ardından bu dosyayı kullanarak eğitimi nasıl başlatacağımı adım adım açıkla.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/soup/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

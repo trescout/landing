@@ -1,6 +1,6 @@
 # Was ist Coding Agent?
 
-*Glossar · AI · Zuletzt aktualisiert: 18. Juni 2026*
+*AI · Zuletzt aktualisiert: 18. Juni 2026*
 
 Dabei handelt es sich um ein künstliches Intelligenzsystem, das Softwareentwicklungsprozesse automatisiert und eigenständig Code schreiben kann.
 

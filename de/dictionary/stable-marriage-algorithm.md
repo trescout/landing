@@ -1,6 +1,6 @@
 # Was ist Stable Marriage Algorithm?
 
-*Glossar · Data · Zuletzt aktualisiert: 1. Oktober 2026*
+*Data · Zuletzt aktualisiert: 1. Oktober 2026*
 
 Eine mathematische Methode, die Elemente aus zwei verschiedenen Gruppen so zusammenführt, dass die für sie geeignetste Zuordnung entsteht.
 

@@ -29,7 +29,7 @@ npx skills install earthtojake/text-to-cad
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir mühendislik asistanısın. text-to-cad kütüphanesini kullanarak belirttiğim teknik gereksinimlere uygun 3D modeller, robotik yapı dosyaları veya üretim çizimleri oluştur. Tasarım taleplerimi STEP, DXF veya URDF gibi uygun formatlarda hazırla ve yerel önizleme araçlarını kullanarak doğrula.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/text-to-cad/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -44,7 +44,7 @@ poetry run python src/main.py --ticker AAPL,MSFT,NVDA
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu araç, finansal piyasaları analiz etmek için Warren Buffett, Peter Lynch ve Michael Burry gibi ünlü yatırımcıların stratejilerini taklit eden otonom ajanlar kullanır. Yapay zekâ ajanlarına belirli hisse senedi sembollerini (örneğin AAPL, MSFT) vererek, bu ajanların piyasa verilerini, temel göstergeleri ve teknik analizleri nasıl değerlendirdiğini ve bir yatırım fonu mantığıyla nasıl karar ürettiklerini inceleyebilirsin.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-hedge-fund/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

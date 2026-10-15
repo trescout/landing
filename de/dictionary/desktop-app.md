@@ -1,6 +1,6 @@
 # Was ist Desktop App?
 
-*Glossar · Dev · Zuletzt aktualisiert: 9. Juni 2026*
+*Dev · Zuletzt aktualisiert: 9. Juni 2026*
 
 Dabei handelt es sich um Software, die direkt auf dem Betriebssystem Ihres Computers ausgeführt wird, ohne dass ein Internetbrowser erforderlich ist.
 

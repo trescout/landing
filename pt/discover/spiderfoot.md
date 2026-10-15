@@ -50,7 +50,7 @@ python3 ./sf.py -l 127.0.0.1:5001
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero iniciar uma varredura OSINT em um destino usando a ferramenta SpiderFoot. Meu alvo é um domínio/endereço IP. Que passos devo seguir para usar esta ferramenta para analisar a visibilidade dos meus ativos digitais na internet e quais vulnerabilidades eles podem ter? Explique como funcionam os mais de 200 módulos e como devo interpretar os resultados.
 

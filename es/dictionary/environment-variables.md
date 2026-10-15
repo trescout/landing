@@ -1,6 +1,6 @@
 # ¿Qué es Environment Variables?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Las variables de entorno son identificadores que mantienen la configuración fuera del código.
 

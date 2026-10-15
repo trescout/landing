@@ -35,7 +35,7 @@ docker run \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me create a database-connected, drag-and-drop internal operations panel using 60+ ready-made components on ToolJet. Design an application architecture that visualizes data and automates intra-team workflows that I can customize using JavaScript and Python.
 

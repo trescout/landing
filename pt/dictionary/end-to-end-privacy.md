@@ -1,6 +1,6 @@
 # O que é End-to-End Privacy?
 
-*Glossário · Dev · Última atualização: 28 de junho de 2026*
+*Dev · Última atualização: 28 de junho de 2026*
 
 É um método de segurança no qual os dados só podem ser lidos pelo remetente e pelo destinatário, e ninguém entre eles pode acessá-los.
 

@@ -44,7 +44,7 @@ curl -fsSL https://hindsight.vectorize.io/get-cli | bash          # CLI
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yapay zekâ ajanımın geçmiş etkileşimlerden öğrenmesini, sadece konuşma geçmişini hatırlamakla kalmayıp zamanla daha tutarlı kararlar almasını istiyorum. Projeme bu bellek katmanını entegre etmek için gerekli sunucu kurulumunu ve istemci bağlantılarını yapılandırmama yardım et.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hindsight/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

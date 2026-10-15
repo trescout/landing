@@ -1,6 +1,6 @@
 # ¿Qué es Meta-framework?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Metamarco (en turco, marco superior) es la estructura que reúne las bibliotecas en un único orden.
 

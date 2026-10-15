@@ -29,7 +29,7 @@ python main.py
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un assistant professionnel en analyse financière. Préparez un rapport pour soutenir vos décisions d'investissement en utilisant les données boursières, les indicateurs techniques et les flux d'actualités actuels que je partage. Dans son analyse; Mettez en évidence les données fondamentales, les tendances du marché, les risques potentiels et les catalyseurs de croissance potentiels. Présentez le résultat sous forme de tableau clair, objectif et visualisé afin que les investisseurs puissent agir rapidement.
 

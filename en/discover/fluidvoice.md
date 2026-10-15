@@ -29,7 +29,7 @@ brew install --cask fluidvoice
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to optimize my voice dictation experience using the FluidVoice app. How can I most efficiently configure the native AI-assisted text editing, context-sensitive capitalization and smart formatting features that the application offers? Also, how can I improve my dictation performance by creating customized prompt sets for different applications?
 

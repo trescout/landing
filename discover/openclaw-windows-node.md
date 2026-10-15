@@ -35,7 +35,7 @@ dotnet run --project src/OpenClaw.Cli -- --help
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenClaw Windows Node aracını kullanıyorum. Sistem tepsisi üzerinden erişim sağladığım bu yapay zekâ asistanı için yerel ağ geçidi bağlantılarımı yönetmek ve WebSocket üzerinden mesaj gönderimi gibi işlemleri doğrulamak istiyorum. Mevcut CLI araçlarını kullanarak bağlantı durumumu nasıl kontrol edebilirim ve sistem üzerindeki düğüm izinlerini nasıl yapılandırabilirim?
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openclaw-windows-node/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

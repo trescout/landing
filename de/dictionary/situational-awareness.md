@@ -1,6 +1,6 @@
 # Was ist Situational Awareness?
 
-*Glossar · AI · Zuletzt aktualisiert: 20. Juni 2026*
+*AI · Zuletzt aktualisiert: 20. Juni 2026*
 
 Es ist die Fähigkeit eines Systems, Ereignisse in seiner Umgebung sofort wahrzunehmen und die Situation richtig zu interpretieren.
 

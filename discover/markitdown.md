@@ -57,7 +57,7 @@ Başlık, liste ve tabloları korunmuş **temiz Markdown** · doğrudan ChatGPT 
 
 ## Kurulum + kullanım
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terminalde pip install 'markitdown[all]' komutuyla MarkItDown'ı kur, ardından 'markitdown dosya-adi.pdf > document.md' komutunu çalıştırarak bir PDF, Word, Excel ya da PowerPoint dosyasını Markdown'a dönüştür.
 
@@ -80,4 +80,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/markitdown/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -32,7 +32,7 @@ Le téléchargement automatique peut être soumis aux conditions d’utilisation
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez le référentiel social-auto-upload (github.com/dreammis/social-auto-upload) et utilisez son outil de ligne de commande « sau » pour vous connecter d'abord à mon compte avec « sau douyin login », puis téléchargez automatiquement une vidéo avec titre et description avec la commande « sau douyin upload-video ».
 

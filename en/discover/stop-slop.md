@@ -28,7 +28,7 @@ Texts produced with artificial intelligence often contain predictable expression
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Download this repository (https://github.com/hardikpandya/stop-slop) and add the stop-slop skill as a skill to Claude Code; Then use this skill to clean up AI-specific clichés from the texts I write.
 

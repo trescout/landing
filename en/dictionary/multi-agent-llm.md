@@ -1,6 +1,6 @@
 # What is Multi-agent LLM?
 
-*Dictionary · AI · Last updated: June 3, 2026*
+*AI · Last updated: June 3, 2026*
 
 It is a working system in which multiple artificial intelligence models cooperate to solve complex tasks.
 

@@ -1,6 +1,6 @@
 # What is Serialization?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Serialization is the dynamic allocation of objects, data structures, and pointer graphics in the working memory (RAM) of a programming language; It is the process of converting data into a flat, linear byte stream or text format that can be transmitted over the network or stored on disk.
 

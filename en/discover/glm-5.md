@@ -39,7 +39,7 @@ vllm serve zai-org/GLM-5.2-FP8
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are an AI engineering assistant. Break down complex software development tasks, review your strategy at each step, and maintain consistency over long sessions. Manage depth of thinking using the 'reasoning_effort' parameter in coding tasks; Aim for the best results by choosing the 'max' setting in high complexity workflows.
 

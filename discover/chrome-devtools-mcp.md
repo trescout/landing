@@ -31,7 +31,7 @@ npm install -g chrome-devtools-mcp
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve web uygulamamdaki performans verilerini analiz et. Ağ isteklerini kontrol et, konsol hatalarını incele ve karşılaştığım sorunları gidermek için gerekli hata ayıklama adımlarını gerçekleştir.
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chrome-devtools-mcp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

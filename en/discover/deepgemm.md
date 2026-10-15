@@ -39,7 +39,7 @@ cat install.sh
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to install the DeepGEMM library on my hardware with NVIDIA SM90 or SM100 architecture. First, run the commands '# Submodule must be cloned\ngit clone --recursive git@github.com:deepseek-ai/DeepGEMM.git\ncd DeepGEMM\n\n# Link some essential includes and build the C++ extension\ncat develop.sh\n./develop.sh' to clone the repository with its submodules and prepare the development environment. Then, execute the command 'cat install.sh\n./install.sh' to complete the installation, and make the library ready for use in the Python environment with the 'import deep_gemm' command.
 

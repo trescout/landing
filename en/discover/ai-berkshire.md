@@ -36,7 +36,7 @@ cp ai-berkshire/skills/*.md ~/.claude/commands/
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You, as an investment analyst, analyze the company I choose using the methodologies of Warren Buffett, Charlie Munger, Duan Yongping and Li Lu. In your analysis, evaluate not only financial data, but also the sustainability of the business model, competitive advantages (moat), management quality and possible risks from four different perspectives. Use independent sources to verify information, prefer to say 'I don't know' in ambiguous situations, and provide strategic advice with a clear price range for the investment decision.
 

@@ -58,7 +58,7 @@ Le README officiel décrit Ladybird comme pré-alpha et adapté uniquement aux d
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Selon les instructions officielles, comment vérifier que mon système dispose de Qt 6.9+, d’un compilateur C++23, de Rust et de CMake 3.30+ ?
 

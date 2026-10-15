@@ -1,6 +1,6 @@
 # Load Generator nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 30 Eylül 2026*
+*Geliştirme · Son güncelleme: 30 Eylül 2026*
 
 Bir sistemin ne kadar yoğun trafiği kaldırabileceğini ölçmek için yapay kullanıcı trafiği oluşturan araç.
 
@@ -38,8 +38,8 @@ Evet, kapasite sınırını aşarsanız test edilen sistemi geçici olarak yava�
 - [Monitoring Tool](https://trescout.com/dictionary/monitoring-tool/)
 - [Deployment](https://trescout.com/dictionary/deployment/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/load-generator/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

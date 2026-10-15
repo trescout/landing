@@ -30,7 +30,7 @@ rig setup --dry-run
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero coordinar los agentes Claude Code y Codex en un solo sistema utilizando OpenRig. Después de verificar los requisitos de Node.js y tmux, ayúdame a revisar el plan de instalación con los comandos npm install -g @openrig/cli y rig setup --dry-run, y luego avanza a los pasos para iniciar el equipo.
 

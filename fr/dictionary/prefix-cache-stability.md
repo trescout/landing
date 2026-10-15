@@ -1,6 +1,6 @@
 # Qu'est-ce que Prefix Cache Stability ?
 
-*Glossaire · AI · Dernière mise à jour : 6 août 2026*
+*AI · Dernière mise à jour : 6 août 2026*
 
 C’est une technique qui permet à l’intelligence artificielle de répondre aux mêmes questions de manière beaucoup plus rapide et cohérente en gardant dans sa mémoire les informations qu’elle a préalablement traitées.
 

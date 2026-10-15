@@ -41,7 +41,7 @@ npm run preview    # preview the production build
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Dê aos meus agentes que trabalham no Munder Difflin a seguinte tarefa: criar uma equipe usando ferramentas existentes de inteligência artificial baseadas em terminal, distribuir tarefas por meio de um agente gerente chamado Michael e concluir todos os processos de forma autônoma, armazenando-os em uma camada de memória comum.
 

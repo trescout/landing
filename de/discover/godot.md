@@ -36,7 +36,7 @@ winget install GodotEngine.GodotEngine
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein zwei- oder dreidimensionales Spielprojekt mit der Godot-Engine entwickeln. Können Sie für mich eine Schritt-für-Schritt-Anleitung für Anfänger zur grundlegenden Verwendung der Benutzeroberfläche, zur Szenenerstellungslogik und zur Projektstruktur vorbereiten, um mir den Einstieg in den Spieleentwicklungsprozess zu erleichtern?
 

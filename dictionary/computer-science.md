@@ -1,6 +1,6 @@
 # Computer Science nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 5 Haziran 2026*
+*Geliştirme · Son güncelleme: 5 Haziran 2026*
 
 Bilgisayarların çalışma prensiplerini, yazılım geliştirmeyi ve veri işleme yöntemlerini inceleyen bilim dalı.
 
@@ -44,8 +44,8 @@ Yapay zekâ, bilgisayar bilimlerinin bir alt dalı olarak sistemlerin öğrenme 
 - [Computer Science](https://trescout.com/discover/computer-science/)
 - [Cs Self Learning](https://trescout.com/discover/cs-self-learning/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/computer-science/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

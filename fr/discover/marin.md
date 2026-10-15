@@ -70,7 +70,7 @@ Le test smoke CPU sert uniquement à la validation initiale. Les dépendances CP
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Lancez comme première validation l'entraînement d'un petit modèle sur CPU avec le flux TinyStories hors ligne.
 

@@ -29,7 +29,7 @@ npx skills add mvanhorn/last30days-skill -g
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yapay zekâ ajanısın. Last30days-skill aracını kullanarak [ARANACAK KONU VEYA KİŞİ] hakkında son 30 güne ait Reddit, X, YouTube, Hacker News ve Polymarket verilerini tara. Bu kaynaklardaki etkileşimleri, gerçek zamanlı verileri ve topluluk görüşlerini sentezleyerek bana kısa, somut ve doğrulanabilir bir özet sun.
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/last30days-skill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

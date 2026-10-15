@@ -58,7 +58,7 @@ pnpm run deploy
 
 ## If you do not code
 
-🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)
+Paste into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up the open-source dreamhunter2333/cloudflare_temp_email disposable email project on Cloudflare using my own domain. I have a Cloudflare account and a custom domain configured on Cloudflare DNS. Can you explain step by step how to configure Email Routing catch-all rules, provision the D1 database, and deploy the Cloudflare Pages frontend? Also, what configuration values do I need to integrate incoming notifications with a Telegram bot?
 

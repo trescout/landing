@@ -1,6 +1,6 @@
 # Was ist Code Intelligence Graph?
 
-*Glossar · Dev · Zuletzt aktualisiert: 18. Juli 2026*
+*Dev · Zuletzt aktualisiert: 18. Juli 2026*
 
 Dabei handelt es sich um eine detaillierte Karte, die die Beziehungen aller Dateien, Funktionen und Variablen in einem Softwareprojekt zeigt.
 

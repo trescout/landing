@@ -1,6 +1,6 @@
 # Self-Hosted: Homelabs, cloud repatriation, and private infrastructure
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Self-hosted describes the software architecture and operational practice of deploying, configuring, and maintaining web services and applications on personally owned physical hardware or private servers rather than paying third-party SaaS vendors.
 

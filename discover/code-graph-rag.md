@@ -49,7 +49,7 @@ cgr start --repo-path /path/to/repo --update-graph
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Code-Graph-RAG aracını kullanarak kod depomu analiz et. Kod tabanındaki fonksiyonlar, sınıflar ve modüller arasındaki ilişkileri kullanarak sorduğum sorulara yanıt ver. Kod üzerinde yapmam gereken değişiklikleri veya optimizasyonları, aracın sağladığı yapısal analiz yeteneklerini kullanarak öner.
 
@@ -71,4 +71,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/code-graph-rag/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

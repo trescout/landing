@@ -46,7 +46,7 @@ libretranslate --port 5000
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero hospedar a ferramenta LibreTranslate em meu próprio servidor. Você poderia explicar, como um guia passo a passo, as etapas que preciso seguir para instalar este mecanismo de tradução de código aberto baseado na biblioteca Argos Translate em meu sistema e prepará-lo para uso offline, sem se prender a detalhes técnicos?
 

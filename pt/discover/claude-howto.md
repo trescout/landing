@@ -49,7 +49,7 @@ chmod +x ~/.claude/hooks/*.sh
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Eu uso o Claude Code e quero otimizar meu fluxo de trabalho usando os modelos deste guia. Ajude-me a determinar meu nível atual executando o comando /self-assessment no Claude Code e, em seguida, crie um caminho de aprendizagem personalizado para mim, começando com o módulo 01-slash-commands.
 

@@ -1,6 +1,6 @@
 # Was ist Best Practices?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Best Practices (auf Türkisch "en iyi uygulamalar"), sind bewährte und von der Community anerkannte Arbeitsmethoden.
 

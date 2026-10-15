@@ -1,6 +1,6 @@
 # O que é E-signature?
 
-*Glossário · Dev · Última atualização: 18 de julho de 2026*
+*Dev · Última atualização: 18 de julho de 2026*
 
 > Electronic Signature
 

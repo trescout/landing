@@ -1,6 +1,6 @@
 # Was ist Domain-Specific Language?
 
-*Glossar · Dev · Zuletzt aktualisiert: 2. Oktober 2026*
+*Dev · Zuletzt aktualisiert: 2. Oktober 2026*
 
 > DSL
 

@@ -37,7 +37,7 @@ semantica
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Transformez mes données en un graphe de connaissances structuré grâce à Semantica. Conservez les données dans une structure relationnelle pour rendre mes processus décisionnels traçables, afin que je puisse auditer et rapporter de manière transparente les raisons des décisions prises par mon système d'IA.
 

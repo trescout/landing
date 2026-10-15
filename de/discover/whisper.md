@@ -46,7 +46,7 @@ whisper audio.flac --model turbo
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meine Audiodatei mit dem Whisper-Tool in Text umwandeln. Ich habe die notwendigen Installationen auf meinem System vorgenommen. Welche grundlegende Befehlsstruktur muss ich im Terminal eingeben, um den Inhalt meiner Audiodatei in Text zu übersetzen, und wie sollte ich den Sprachspezifikationsparameter für Audiodateien in verschiedenen Sprachen verwenden?
 

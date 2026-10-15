@@ -1,6 +1,6 @@
 # ¿Qué es Digital Twin?
 
-*Glosario · Data · Última actualización: 22 de septiembre de 2026*
+*Data · Última actualización: 22 de septiembre de 2026*
 
 El gemelo digital (digital twin) es una réplica de un objeto alimentada con datos en tiempo real.
 

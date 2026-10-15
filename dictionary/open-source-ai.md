@@ -1,6 +1,6 @@
 # Open Source AI nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 22 Eylül 2026*
 
 Open source AI (Türkçe karşılığıyla **açık kaynak yapay zekâ**), ağırlık ve kodları herkesin inceleyip çalıştırabildiği modellerdir.
 
@@ -65,8 +65,8 @@ Küçük ve kuantize modellerle yerelde başlayın. İhtiyaç büyürse sunucuya
 - [Self-Hosting](https://trescout.com/dictionary/self-hosting/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/open-source-ai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

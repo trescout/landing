@@ -53,11 +53,11 @@ uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False
 
 ## Dürüst not
 
-Çalışması için bir AI model API anahtarı + kurulum gerekir; API kullanımı ücretli olabilir. Üretilen videoların telif ve platform kurallarına uygunluğu kullanıcının sorumluluğundadır.
+Çalışması için bir yapay zekâ model API anahtarı + kurulum gerekir; API kullanımı ücretli olabilir. Üretilen videoların telif ve platform kurallarına uygunluğu kullanıcının sorumluluğundadır.
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 MoneyPrinterTurbo'yu kur ve çalıştır: 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git' ile depoyu indir, dizine girip 'docker-compose up' komutuyla başlat, sonra tarayıcıdan http://127.0.0.1:8501 adresindeki web arayüzünü aç.
 
@@ -80,4 +80,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/moneyprinterturbo/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

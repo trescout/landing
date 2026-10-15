@@ -43,7 +43,7 @@ npx @mobilenext/mobile-mcp@latest
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımdaki mobil geliştirme araçlarıyla iletişim kuran Model Bağlam Protokolü (Model Context Protocol) sunucusunu kullanarak bağlı olan mobil cihazlardaki uygulamaları listele ve ekrandaki ögeleri tara.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mobile-mcp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

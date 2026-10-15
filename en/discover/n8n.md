@@ -60,7 +60,7 @@ n8n is source-available under the Sustainable Use License. Review the official l
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me design a workflow on the visual canvas that accepts an input, processes it with an AI model and passes the result to the next step.
 

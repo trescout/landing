@@ -1,6 +1,6 @@
 # What is Offline-first?
 
-*Dictionary · Dev · Last updated: September 28, 2026*
+*Dev · Last updated: September 28, 2026*
 
 It is a software design approach that allows an application to continue operating all its core functions uninterrupted even if the internet connection is lost.
 

@@ -1,6 +1,6 @@
 # User Interface nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 25 Haziran 2026*
+*Geliştirme · Son güncelleme: 25 Haziran 2026*
 
 > UI
 
@@ -43,8 +43,8 @@ Hayır, UI görsel kısımları (renk, düğme) kapsarken, UX kullanıcının o 
 - [Page Agent](https://trescout.com/discover/page-agent/)
 - [Tuicr](https://trescout.com/discover/tuicr/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/user-interface/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

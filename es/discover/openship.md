@@ -48,7 +48,7 @@ openship deploy
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero publicar un proyecto usando Openship. Mientras está en el directorio del proyecto, ¿es suficiente conectar el directorio al proyecto con el comando openship init y luego ejecutar el comando openship desplegar? ¿Puedes explicar paso a paso cómo se gestiona automáticamente la base de datos y la configuración SSL en este proceso?
 

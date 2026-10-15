@@ -1,6 +1,6 @@
 # What is IoT?
 
-*Dictionary · Dev · Last updated: October 9, 2026*
+*Dev · Last updated: October 9, 2026*
 
 > Internet of Things
 

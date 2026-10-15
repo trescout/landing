@@ -1,6 +1,6 @@
 # Was ist Orchestration Runtime?
 
-*Glossar · AI · Zuletzt aktualisiert: 27. September 2026*
+*AI · Zuletzt aktualisiert: 27. September 2026*
 
 Es ist die Arbeitsumgebung, die komplexe KI-Workflows verwaltet und den Ablauf unterschiedlicher Aufgaben organisiert.
 

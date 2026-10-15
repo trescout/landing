@@ -29,7 +29,7 @@ brew install --cask codexbar
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I most efficiently track the limits and reset times of the artificial intelligence services I use on CodexBar? Specifically, how can I configure this tool using my API keys or browser sessions without having to log in?
 

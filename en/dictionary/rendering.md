@@ -1,6 +1,6 @@
 # What is Rendering?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Rendering is the process of converting raw data into the image you see on the screen.
 

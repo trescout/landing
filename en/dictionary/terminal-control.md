@@ -1,6 +1,6 @@
 # What is Terminal Control?
 
-*Dictionary · Dev · Last updated: July 10, 2026*
+*Dev · Last updated: July 10, 2026*
 
 It is the process of giving instructions to the computer directly via the command line, without using a graphical interface (mouse and windows).
 

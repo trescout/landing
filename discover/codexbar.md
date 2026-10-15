@@ -29,7 +29,7 @@ brew install --cask codexbar
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 CodexBar üzerinde kullandığım yapay zekâ servislerinin limitlerini ve sıfırlanma sürelerini nasıl en verimli şekilde takip edebilirim? Özellikle oturum açma zorunluluğu olmadan API anahtarlarımı veya tarayıcı oturumlarımı kullanarak bu aracı nasıl yapılandırabilirim?
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codexbar/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist Machine Learning?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Es handelt sich um eine Technologie, die es Computern ermöglicht, selbstständig zu lernen, indem sie aus Daten lernen.
 

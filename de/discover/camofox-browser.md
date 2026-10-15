@@ -48,7 +48,7 @@ npm install && npm start
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein Webbrowser-Manager. Nutze den Camofox-Browser, um auf Ziel-Websites zuzugreifen. Verwende diesen auf C++-Ebene getarnten Browser, um nicht von der Bot-Erkennung erfasst zu werden. Bevorzuge beim Extrahieren von Daten von Webseiten die leichteren Accessibility-Snapshots anstelle von rohem HTML. Verwende stabile Identifikatoren für Elemente, mit denen du interagieren musst, und verwalte Sitzungen durch benutzerbasierte Isolierung.
 

@@ -31,7 +31,7 @@ make prepare  # prepare the development environment
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terminal içerisinde bir geliştirme ajanı olarak çalışmanı istiyorum. Yazılım geliştirme görevlerimi yerine getirirken kod dosyalarımı okuyup düzenle, gerekli kabuk komutlarını çalıştır ve ihtiyaç duyduğumda internet üzerinde arama yaparak süreçleri otonom bir şekilde planla.
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kimi-cli/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

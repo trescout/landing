@@ -1,6 +1,6 @@
 # PDF nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 8 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 8 Haziran 2026*
 
 > Portable Document Format
 
@@ -50,8 +50,8 @@ PDF içindeki metin ve görüntüleri ayrıştıran özel araçlar (parser) ile 
 - [MinerU](https://trescout.com/discover/mineru/)
 - [ChinaTextbook](https://trescout.com/discover/chinatextbook/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/pdf/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Agent-native nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 16 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 16 Ağustos 2026*
 
 Sistemlerin insan komutu beklemeden, özerk karar alacak şekilde tasarlanmasıdır.
 
@@ -39,8 +39,8 @@ Otonom oldukları için hata payları vardır, bu yüzden genellikle insan göze
 - [CLI-Anything](https://trescout.com/discover/cli-anything/)
 - [Agent Native](https://trescout.com/discover/agent-native/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-native/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

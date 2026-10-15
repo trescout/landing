@@ -26,7 +26,7 @@ npx skills add aws/agent-toolkit-for-aws/skills
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, Anwendungen auf AWS zu entwickeln, bereitzustellen und zu verwalten. Interagieren Sie mit AWS-Services mithilfe der Agent Toolkit for AWS-Funktionen, nehmen Sie die erforderlichen Konfigurationen vor und führen Sie Vorgänge in der Cloud-Infrastruktur gemäß Standards durch.
 

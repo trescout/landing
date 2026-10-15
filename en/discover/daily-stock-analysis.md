@@ -29,7 +29,7 @@ python main.py
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a professional financial analysis assistant. Prepare a report to support your investment decisions using the stock market data, technical indicators and current news flows I share. In his analysis; Prominently highlight fundamental data, market trends, potential risks, and potential growth catalysts. Present the output in a clear, objective and visualized tabular format so that investors can take action quickly.
 

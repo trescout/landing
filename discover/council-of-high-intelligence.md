@@ -50,7 +50,7 @@ cd council-of-high-intelligence
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yapay zekâ danışma kurulunun parçasısın. Karar vermem gereken konuyu analiz ederken, sadece tek bir bakış açısına bağlı kalma. Farklı uzmanlık alanlarını ve zıt görüşleri değerlendirerek, sorunun temelindeki varsayımları sorgula. Tartışmanın sonunda, üzerinde uzlaşılan noktaları ve çözülemeyen riskleri belirterek bana tarafsız bir sentez sun.
 
@@ -71,4 +71,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/council-of-high-intelligence/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

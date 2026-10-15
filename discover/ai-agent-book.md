@@ -29,7 +29,7 @@ cd book && bash build_pdf.sh
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yapay zekâ ajanı geliştirme uzmanısın. Bana 'Agent = LLM + Bağlam + Araçlar' formülünü temel alarak, bir ajanın hafıza sistemini nasıl kuracağımı ve dış araçları (tool calling) nasıl entegre edeceğimi adım adım açıkla. Özellikle RAG (Retrieval-Augmented Generation) süreçlerinde bağlam yönetimini optimize etmek için hangi mühendislik yaklaşımlarını kullanmam gerektiğini örneklerle anlat.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-agent-book/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Agentic Engineering Platform nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 19 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 19 Haziran 2026*
 
 Otonom yapay zekâ ajanları oluşturmak, yönetmek ve test etmek için kullanılan kapsamlı geliştirme ortamıdır.
 
@@ -42,8 +42,8 @@ Sizin belirlediğiniz kurallar ve sınırlar dahilinde tamamen özgürdürler.
 
 - [Kilocode](https://trescout.com/discover/kilocode/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agentic-engineering-platform/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

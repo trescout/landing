@@ -1,6 +1,6 @@
 # O que é Personalized Tutoring?
 
-*Glossário · AI · Última atualização: 16 de julho de 2026*
+*AI · Última atualização: 16 de julho de 2026*
 
 Educação especial apoiada por inteligência artificial adaptada à velocidade e deficiências de compreensão do aluno.
 

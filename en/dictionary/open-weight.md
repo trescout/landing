@@ -1,6 +1,6 @@
 # What is Open Weight?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 Open weight refers to AI models whose model files are publicly available.
 

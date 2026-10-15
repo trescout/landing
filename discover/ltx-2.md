@@ -45,7 +45,7 @@ uv run python -m ltx_pipelines.distilled --distilled-checkpoint-path models/ltx-
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Lütfen LTX-2 modelini kullanarak, istediğim sahneyi detaylı bir şekilde betimleyen ve ses ile video senkronizasyonunu içeren bir video oluştur. Sahne detaylarını, karakterin görünümünü, kamera açısını ve konuşma metnini belirterek modelin çıktı üretmesini sağla.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ltx-2/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

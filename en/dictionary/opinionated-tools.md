@@ -1,6 +1,6 @@
 # What is Opinionated Tools?
 
-*Dictionary · Dev · Last updated: June 28, 2026*
+*Dev · Last updated: June 28, 2026*
 
 They are software tools that predetermine and impose the best working method rather than offering the user too many options.
 

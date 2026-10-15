@@ -1,6 +1,6 @@
 # What is Web Search API?
 
-*Dictionary · Dev · Last updated: October 6, 2026*
+*Dev · Last updated: October 6, 2026*
 
 It is a bridge that allows software and artificial intelligence agents to search the internet and retrieve up-to-date results as structured data.
 

@@ -1,6 +1,6 @@
 # Was ist Image-to-Video?
 
-*Glossar · AI · Zuletzt aktualisiert: 17. August 2026*
+*AI · Zuletzt aktualisiert: 17. August 2026*
 
 Dabei handelt es sich um eine Technologie, die mithilfe künstlicher Intelligenz ein Standbild in ein bewegtes Video verwandelt.
 

@@ -29,7 +29,7 @@ uv pip install fastmcp
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 FastMCP kullanarak bir Python fonksiyonunu Model Bağlam Protokolü (MCP) uyumlu bir araca dönüştürmek istiyorum. @mcp.tool dekoratörünü kullanarak basit bir toplama işlemi yapan bir araç tanımla ve FastMCP sunucusunu başlatacak temel yapıyı kur.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fastmcp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

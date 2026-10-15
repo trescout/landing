@@ -1,6 +1,6 @@
 # ¿Qué es Claude Code Templates?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 Las plantillas de Claude Code son esqueletos de archivos predefinidos que aceleran el inicio de un proyecto con Claude Code.
 

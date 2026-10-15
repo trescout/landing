@@ -29,7 +29,7 @@ npx skills add nutlope/hallmark
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Create a unique interface design that doesn't look like it was created by AI using the Hallmark style file. Avoid standard templates in design, choose the appropriate one among twenty different themes, and create a unique structure that will pass fifty-seven quality tests.
 

@@ -31,7 +31,7 @@ Claude Code'a beceri olarak eklenir; ardından dilediğiniz alan için bir ajan 
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code'da '/plugin marketplace add revfactory/harness' ve ardından '/plugin install harness@harness-marketplace' komutlarını çalıştırarak Harness eklentisini kur, sonra "Bu proje için bir harness oluştur" diyerek projeme uygun bir yapay zekâ ajan ekibi kurmasını iste.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/harness/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

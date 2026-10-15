@@ -52,7 +52,7 @@ python3 user_scanner.py -e hedef@ornek.com
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pourriez-vous expliquer étape par étape comment je peux effectuer une analyse sur plus de 465 plateformes via un seul nom d'utilisateur en utilisant l'outil User-Scanner lors d'un audit de sécurité, exporter les résultats obtenus au format JSON et lister les profils suspects ?
 

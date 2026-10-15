@@ -1,6 +1,6 @@
 # Browser State nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 26 Temmuz 2026*
+*Geliştirme · Son güncelleme: 26 Temmuz 2026*
 
 İnternet tarayıcınızın o anki oturumunda aktif olan tüm verilerin ve ayarların kaydedildiği durumdur.
 
@@ -38,8 +38,8 @@ Bir web ajanı, tarayıcı durumunu okuyarak kullanıcının o an hangi sayfada 
 - [Web Interface](https://trescout.com/dictionary/web-interface/)
 - [Local-first](https://trescout.com/dictionary/local-first/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/browser-state/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

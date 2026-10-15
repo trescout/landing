@@ -29,7 +29,7 @@ npm run dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 En utilisant la liste d'outils open source fournie par le projet NoSignups, dressez une liste des services numériques axés sur la confidentialité qui ne demandent ni inscription ni e-mail à l'utilisateur. Expliquez comment ces outils sont regroupés dans des catégories telles que le design, le développement, la productivité et l'analyse de données. Fournissez des conseils sur la recherche d'alternatives ne nécessitant pas la création de compte.
 

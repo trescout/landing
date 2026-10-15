@@ -1,6 +1,6 @@
 # Was ist Continuous Depth Batching?
 
-*Glossar · AI · Zuletzt aktualisiert: 29. September 2026*
+*AI · Zuletzt aktualisiert: 29. September 2026*
 
 Es handelt sich um eine Methode, die es Modellen der künstlichen Intelligenz ermöglicht, eine große Anzahl gleichzeitig eingehender Anfragen kontinuierlich und schnell ohne Wartezeit zu verarbeiten.
 

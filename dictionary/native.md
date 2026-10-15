@@ -1,6 +1,6 @@
 # Native nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 11 Eylül 2026*
+*Geliştirme · Son güncelleme: 11 Eylül 2026*
 
 Bir yazılımın, çalıştığı cihazın işletim sistemi için özel olarak üretilmiş ve en yüksek performansı verecek şekilde tasarlanmış olmasıdır.
 
@@ -45,8 +45,8 @@ Genellikle bir tarayıcı içinde veya bir çevirici katman aracılığıyla ça
 - [Stitch Skills](https://trescout.com/discover/stitch-skills/)
 - [Agent Native](https://trescout.com/discover/agent-native/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/native/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

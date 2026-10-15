@@ -43,7 +43,7 @@ Unciv is an open source, minimalist and cross-platform desktop and Android adapt
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to prepare a valid JSON mod structure for the game Unciv. Can you create a sample Unciv mod template that includes a special cavalry unit and a special library building that gives a bonus to science and culture production as a leader ability? Can you explain step by step which JSON files I should save in which folder structure and how I can test this from the in-game Mod Manager interface?
 

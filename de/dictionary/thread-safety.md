@@ -1,6 +1,6 @@
 # Was ist Thread-safety?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Thread Safety (auf Türkisch İş Parçacığı Güvenliği), bedeutet, dass Code Daten nicht beschädigt, wenn er gleichzeitig von mehreren Threads ausgeführt wird.
 

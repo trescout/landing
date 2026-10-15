@@ -1,6 +1,6 @@
 # ¿Qué es Live Streams?
 
-*Glosario · Dev · Última actualización: 14 de junio de 2026*
+*Dev · Última actualización: 14 de junio de 2026*
 
 Es la transmisión simultánea de un evento o imagen a la audiencia a través de internet.
 

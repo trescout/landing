@@ -46,7 +46,7 @@ dotnet run
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine moderne, cloudbasierte und skalierbare Webanwendung mit dem ASP.NET Core-Framework entwickeln. Ich habe vor, mein Projekt unter Windows, macOS oder Linux auszuführen. Welche Art von Architektur sollte ich mithilfe der modularen Struktur dieser Plattform aufbauen und auf welche Grundkomponenten sollte ich mich konzentrieren, um die Effizienz im Anwendungsentwicklungsprozess zu steigern?
 

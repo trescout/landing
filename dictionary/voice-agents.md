@@ -1,6 +1,6 @@
 # Voice Agents nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 29 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 29 Temmuz 2026*
 
 Kullanıcıyla sesli iletişim kuran, soruları yanıtlayan ve komutları yerine getiren yapay zekâ asistanlarıdır.
 
@@ -42,8 +42,8 @@ Ses verileri genellikle anonimleştirilir ancak gizlilik ayarlarınızı kontrol
 
 - [Speech to Speech](https://trescout.com/discover/speech-to-speech/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/voice-agents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

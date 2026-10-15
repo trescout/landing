@@ -54,7 +54,7 @@ pnpm run dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to simulate a Socratic discussion environment by uploading my own lecture notes on the OpenMAIC platform. Could you explain step-by-step how to define the roles of the agents (teacher, curious student, critical questioner) and how to set up this class with a local Ollama model?
 

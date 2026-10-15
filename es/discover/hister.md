@@ -66,7 +66,7 @@ La extensión del navegador envía el contenido de las páginas indexadas al ser
 
 ## Primer prompt
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Abre la interfaz local y, usando la extensión del navegador, indexa las páginas seleccionadas y valida la búsqueda usando filtros de consulta.
 

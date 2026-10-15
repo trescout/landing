@@ -27,7 +27,7 @@ git clone https://github.com/abus-aikorea/voice-pro.git
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich mit dem Voice-Pro-Tool schnell ein YouTube-Video übersetzen und in eine andere Sprache synchronisieren? Erkläre Schritt für Schritt, was ich tun muss und worauf ich bei der Nutzung der Sprachtranskriptionsfunktion achten sollte.
 

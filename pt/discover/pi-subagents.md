@@ -22,7 +22,7 @@ pi-subagents é uma biblioteca TypeScript desenvolvida para gerenciar processos 
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale este pacote com o comando 'pi install npm:pi-subagents' e, em seguida, execute uma revisão de código com '/run reviewer' ou execute vários subagentes especialistas (por exemplo, revisor, agendador) simultaneamente com '/parallel' e distribua o trabalho para eles.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Emulator?
 
-*Glosario · Dev · Última actualización: 19 de septiembre de 2026*
+*Dev · Última actualización: 19 de septiembre de 2026*
 
 Un emulador es una capa de sistema que imita mediante software la arquitectura de hardware físico de una computadora, dispositivo móvil o consola de videojuegos, permitiéndole ejecutar software de plataformas externas en su propio dispositivo.
 

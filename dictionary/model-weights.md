@@ -1,6 +1,6 @@
 # Model Weights nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 29 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 29 Eylül 2026*
 
 Yapay zekânın eğitim sırasında öğrendiği bilgileri sakladığı ve kararlarını belirleyen sayısal değerler.
 
@@ -34,8 +34,8 @@ Evet, ince ayar veya ek eğitim süreçleriyle bu sayılar güncellenebilir.
 - [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
 - [Open Weights](https://trescout.com/dictionary/open-weights/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/model-weights/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

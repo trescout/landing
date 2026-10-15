@@ -29,7 +29,7 @@ uv pip install fastmcp
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero converter uma função Python em uma ferramenta compatível com Model Context Protocol (MCP) usando FastMCP. Defina uma ferramenta que realize uma adição simples usando o decorador @mcp.tool e configure a estrutura básica para iniciar o servidor FastMCP.
 

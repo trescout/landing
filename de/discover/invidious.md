@@ -66,7 +66,7 @@ Nutzen Sie das Projekt im Einklang mit den geltenden Vorschriften. Der offiziell
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Welche Unterschiede gibt es zwischen der Nutzung einer öffentlichen Invidious-Instanz und dem Betrieb einer eigenen Instanz?
 

@@ -33,7 +33,7 @@ git clone -b main https://github.com/microsoft/TRELLIS.2.git --recursive
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to convert my 2D image into a 3D model. Explain the basic processing steps and sample Python code structure required for me to create a 3D asset that preserves complex topologies, with high-quality textures and physics-based material properties, using the TRELLIS.2 model.
 

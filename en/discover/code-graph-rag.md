@@ -49,7 +49,7 @@ cgr start --repo-path /path/to/repo --update-graph
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Analyze my code repository using the Code-Graph-RAG tool. Answer my questions using relationships between functions, classes, and modules in your code base. Suggest changes or optimizations I should make to the code using the structural analysis capabilities provided by the tool.
 

@@ -1,6 +1,6 @@
 # Was ist STT?
 
-*Glossar · AI · Zuletzt aktualisiert: 19. September 2026*
+*AI · Zuletzt aktualisiert: 19. September 2026*
 
 > Speech-to-Text
 

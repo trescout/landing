@@ -35,7 +35,7 @@ npx @colbymchenry/codegraph
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the Codegraph tool in my project by running the command `npm i -g @colbymchenry/codegraph` via the npm package manager. Then, complete the process by running the command `npx @colbymchenry/codegraph` to configure AI assistants.
 

@@ -20,7 +20,7 @@ Les portefeuilles de développeurs sont une collection soignée d'exemples de po
 
 ## Comment l'utiliser avec l'IA ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je vais vous donner une liste de liens vers des sites de portfolio personnels inspirants de développeurs de logiciels appelés « portfolios de développeurs ». Examinez la liste et choisissez les portfolios les plus adaptés que je peux prendre comme exemple en fonction de ma profession, et vous obtiendrez une feuille de route sur la façon de créer mon propre site de portfolio. Mon domaine : [par ex. développeur front-end]. Mon objectif : [par ex. portfolio impressionnant pour postuler à un emploi].
 

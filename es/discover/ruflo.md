@@ -35,7 +35,7 @@ npm install -g ruflo@latest
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Estás en un entorno de trabajo integrado con Ruflo. Optimice su flujo de trabajo utilizando las herramientas, las funciones de memoria y los enjambres de agentes de Ruflo para realizar tareas. Mejore sus próximos pasos aprendiendo de patrones exitosos y coordine con otros agentes para gestionar tareas complejas.
 

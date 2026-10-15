@@ -72,7 +72,7 @@ Laptop RSSI-only mode is intended for coarse presence and motion detection and d
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I evaluate a simple motion-detection scenario from WiFi CSI data using simulated data?
 

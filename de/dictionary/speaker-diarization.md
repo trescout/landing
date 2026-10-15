@@ -1,6 +1,6 @@
 # Was ist Speaker Diarization?
 
-*Glossar · AI · Zuletzt aktualisiert: 19. September 2026*
+*AI · Zuletzt aktualisiert: 19. September 2026*
 
 Speaker Diarization (Sprecher-Diarisierung oder Protokollierung) ist eine Technologie der künstlichen Intelligenz, die Schallwellen in einer Audioaufnahme mit mehreren Teilnehmern analysiert, um die Frage „Wer hat wann gesprochen?“ zu beantworten und Sprachsegmente den jeweiligen Sprecheridentitäten zuzuordnen.
 

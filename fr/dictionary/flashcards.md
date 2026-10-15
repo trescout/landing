@@ -1,6 +1,6 @@
 # Qu'est-ce que Flashcards ?
 
-*Glossaire · AI · Dernière mise à jour : 22 septembre 2026*
+*AI · Dernière mise à jour : 22 septembre 2026*
 
 Les Flashcards sont de petites cartes d’apprentissage avec des questions au recto et des réponses au verso.
 

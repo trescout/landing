@@ -1,6 +1,6 @@
 # What is Shell?
 
-*Dictionary · Dev · Last updated: July 13, 2026*
+*Dev · Last updated: July 13, 2026*
 
 It is an interface that allows you to control the computer by typing text commands directly instead of a graphical interface.
 

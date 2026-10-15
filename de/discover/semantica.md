@@ -37,7 +37,7 @@ semantica
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Verwandeln Sie meine Daten mit Semantica in einen strukturierten Wissensgraphen. Halten Sie Daten in einer relationalen Struktur, um meine Entscheidungsprozesse nachvollziehbar zu machen, damit ich die Gründe für die Entscheidungen, die mein KI-System trifft, transparent prüfen und melden kann.
 

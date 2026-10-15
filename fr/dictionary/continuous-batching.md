@@ -1,6 +1,6 @@
 # Qu'est-ce que Continuous Batching ?
 
-*Glossaire · AI · Dernière mise à jour : 22 septembre 2026*
+*AI · Dernière mise à jour : 22 septembre 2026*
 
 Le traitement par lots continu (continuous batching en anglais) est une technique qui intègre les requêtes dans le moteur sans les faire attendre.
 

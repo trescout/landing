@@ -36,7 +36,7 @@ npm init @logto
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit Logto ein sicheres Authentifizierungssystem für meine Anwendung einrichten. Wie kann ich Mandantenfähigkeit und rollenbasierte Zugriffskontrollfunktionen in dieser Struktur basierend auf den Protokollen OIDC und OAuth 2.1 konfigurieren? Können Sie die grundlegenden Schritte erläutern, die ich befolgen muss, um Benutzeranmeldeflüsse und die Enterprise-SSO-Integration in meinem SaaS-Projekt zu verwalten?
 

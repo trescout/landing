@@ -1,6 +1,6 @@
 # What is Agentic AI?
 
-*Dictionary · AI · Last updated: June 3, 2026*
+*AI · Last updated: June 3, 2026*
 
 It means that artificial intelligence takes the initiative to achieve goals instead of just producing text.
 

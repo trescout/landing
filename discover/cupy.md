@@ -27,7 +27,7 @@ docker run --gpus all -it cupy/cupy
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Python kodumda NumPy veya SciPy yerine GPU hızlandırmasından faydalanmak istiyorum. Mevcut NumPy kodlarımı CuPy kullanarak nasıl GPU üzerinde çalıştırabilirim ve RawKernels gibi düşük seviyeli CUDA özelliklerini projeme nasıl entegre edebilirim?
 
@@ -47,4 +47,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cupy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

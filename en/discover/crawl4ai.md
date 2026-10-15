@@ -38,7 +38,7 @@ crawl4ai-download
 
 ## Installation (single command)
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me install open source web crawler called Crawl4AI; Let's try it by installing it with 'pip install -U crawl4ai', then running 'crawl4ai-setup' and converting a web page to LLM-friendly Markdown with the command 'crwl https://www.nbcnews.com/business -o markdown'.
 

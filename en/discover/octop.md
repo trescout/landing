@@ -37,7 +37,7 @@ octop init
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a multi-user and multi-agent work environment on the Octop platform. Define agents with different areas of expertise for my personal assistant, family members, or small team members, and ensure these agents work securely on my local data and collaborate with me via the web interface or messaging channels. Configure the MBTI personality traits of the agents, enable them to generate responses from my private documents using RAG (Retrieval-Augmented Generation), and automate my tasks.
 

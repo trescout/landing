@@ -1,6 +1,6 @@
 # ¿Qué es Attention?
 
-*Glosario · AI · Última actualización: 30 de julio de 2026*
+*AI · Última actualización: 30 de julio de 2026*
 
 Un mecanismo que permite a la inteligencia artificial centrarse en las piezas más importantes dentro de un texto o datos.
 

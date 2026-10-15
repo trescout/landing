@@ -1,6 +1,6 @@
 # Was ist Frontier AI?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 > Spitzenforschung der Künstlichen Intelligenz
 

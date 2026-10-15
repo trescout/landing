@@ -29,7 +29,7 @@ brew install --cask fluidvoice
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite optimiser mon expérience de dictée vocale à l'aide de l'application FluidVoice. Comment puis-je configurer le plus efficacement possible les fonctionnalités natives d'édition de texte assistées par l'IA, de capitalisation contextuelle et de formatage intelligent qu'offre l'application ? De plus, comment puis-je améliorer les performances de ma dictée en créant des ensembles d'invites personnalisés pour différentes applications ?
 

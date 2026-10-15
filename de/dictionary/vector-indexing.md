@@ -1,6 +1,6 @@
 # Was ist Vector Indexing?
 
-*Glossar · Data · Zuletzt aktualisiert: 9. Juni 2026*
+*Data · Zuletzt aktualisiert: 9. Juni 2026*
 
 Dabei handelt es sich um den Prozess der Umwandlung großer Datensätze in eine digitale Karte, anhand derer ein Computer in Sekundenschnelle aussagekräftige Ähnlichkeiten finden kann.
 

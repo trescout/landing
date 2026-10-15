@@ -1,6 +1,6 @@
 # ¿Qué es Toolchain Bootstrapping?
 
-*Glosario · Dev · Última actualización: 1 de agosto de 2026*
+*Dev · Última actualización: 1 de agosto de 2026*
 
 Es el proceso de mejorar gradualmente una herramienta de software hasta que alcance la capacidad de compilarse o construirse por sí misma.
 

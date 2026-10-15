@@ -36,7 +36,7 @@ npm install
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Con este proyecto, analice el sitio web de destino, extraiga elementos y activos de diseño, escriba propiedades de componentes y ejecute renderizadores paralelos para reconstruirlo en la estructura Next.js.
 

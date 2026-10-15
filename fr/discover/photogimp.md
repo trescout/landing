@@ -33,7 +33,7 @@ choco install photogimp
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je appliquer le correctif PhotoGIMP requis pour convertir le programme GIMP en interface et raccourcis Photoshop ? Quelles sont les étapes de sauvegarde auxquelles je dois prêter attention lorsque je place les fichiers de paramètres adaptés à mon système d'exploitation dans le dossier GIMP ?
 

@@ -30,7 +30,7 @@ comfy install
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear un flujo de trabajo basado en nodos para mi proceso de producción visual. Diseñe una estructura modular con conexiones lógicas desde el nodo de entrada a la salida que me permitirá lograr una imagen de calidad profesional utilizando modelos como Stable Diffusion o Flux. Explicar paso a paso los nodos básicos, pasos de carga del modelo y optimizaciones de parámetros que necesito.
 

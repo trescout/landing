@@ -29,7 +29,7 @@ curl -fsSL https://setup.agpt.co/install.sh -o install.sh && bash install.sh
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Créer un agent autonome utilisant les capacités de recherche sur Internet, de gestion de fichiers et de planification des flux de travail pour atteindre l'objectif que je me suis fixé. Attendez-vous à ce que je définisse clairement le résultat du travail et exécute automatiquement toutes les étapes nécessaires du processus.
 

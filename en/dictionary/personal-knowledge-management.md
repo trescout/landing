@@ -1,6 +1,6 @@
 # PKM: Personal Knowledge Management, Zettelkasten, and networked thought
 
-*Dictionary · Data & Infra · Last updated: September 20, 2026*
+*Data & Infra · Last updated: September 20, 2026*
 
 Personal Knowledge Management (PKM) is the systematic practice and software tooling through which individuals capture, organize, synthesize, and retrieve digital knowledge to augment long-term memory and creative output.
 

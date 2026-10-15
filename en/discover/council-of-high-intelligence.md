@@ -50,7 +50,7 @@ cd council-of-high-intelligence
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are part of an AI advisory board. When analyzing the issue I need to decide on, do not stick to only one point of view. Question the underlying assumptions of the problem by considering different areas of expertise and opposing views. At the end of the discussion, provide me with an unbiased synthesis, indicating points of agreement and unresolved risks.
 

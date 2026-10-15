@@ -1,6 +1,6 @@
 # Was ist Swarms?
 
-*Glossar · AI · Zuletzt aktualisiert: 24. August 2026*
+*AI · Zuletzt aktualisiert: 24. August 2026*
 
 Dabei handelt es sich um eine Ansammlung kleiner Einheiten künstlicher Intelligenz, die koordiniert zusammenarbeiten, um komplexe Aufgaben zu lösen.
 

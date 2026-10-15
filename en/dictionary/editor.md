@@ -1,6 +1,6 @@
 # What is Editor?
 
-*Dictionary · Dev · Last updated: July 31, 2026*
+*Dev · Last updated: July 31, 2026*
 
 It is a special writing program used by software developers to write, edit and debug code.
 

@@ -1,6 +1,6 @@
 # Agentic AI nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 20 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 20 Eylül 2026*
 
 > Ajanik Yapay Zekâ
 
@@ -71,8 +71,8 @@ Farklı rollerde (araştırmacı, yazar, denetçi) uzmanlaşmış küçük ajanl
 
 - [Personal_AI_Infrastructure](https://trescout.com/discover/personal-ai-infrastructure/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agentic-ai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

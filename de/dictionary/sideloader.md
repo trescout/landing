@@ -1,6 +1,6 @@
 # Was ist Sideloader?
 
-*Glossar · Dev · Zuletzt aktualisiert: 12. September 2026*
+*Dev · Zuletzt aktualisiert: 12. September 2026*
 
 Ein Werkzeug oder eine Methode, mit der Anwendungen direkt über eine Datei auf Ihr Gerät geladen werden, anstatt sie aus offiziellen App-Stores zu beziehen.
 

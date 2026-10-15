@@ -43,7 +43,7 @@ informe.pdf · presentación.pptx · tabla.xlsx
 
 ## Instalación + uso
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale MarkItDown usando el comando pip install 'markitdown[all]' en la terminal, luego convierta un archivo PDF, Word, Excel o PowerPoint a Markdown ejecutando el comando 'markitdown filename.pdf > document.md'.
 

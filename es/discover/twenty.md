@@ -61,7 +61,7 @@ Suele instalarse en tu propio servidor con Docker; Los pasos de instalación se 
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar un CRM de código abierto llamado Twenty; cree una nueva aplicación en la terminal con el comando 'npx create-twenty-app my-app', luego publíquela en mi espacio de trabajo con 'npx veinte app:publish --private'. Dígame también cómo ejecutarlo con Docker Compose para autohospedaje.
 

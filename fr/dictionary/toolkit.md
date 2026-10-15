@@ -1,6 +1,6 @@
 # Qu'est-ce que Toolkit ?
 
-*Glossaire · Dev · Dernière mise à jour : 2 octobre 2026*
+*Dev · Dernière mise à jour : 2 octobre 2026*
 
 Il s'agit d'un ensemble regroupant des outils, des bibliothèques et des guides qui vous permettent d'effectuer une tâche spécifique plus facilement et plus rapidement.
 

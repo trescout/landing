@@ -1,6 +1,6 @@
 # ¿Qué es ApacheBench (ab)?
 
-*Glosario · Dev · Última actualización: 29 de septiembre de 2026*
+*Dev · Última actualización: 29 de septiembre de 2026*
 
 > Apache HTTP Server Benchmarking Tool
 

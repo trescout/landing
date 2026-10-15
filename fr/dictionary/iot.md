@@ -1,6 +1,6 @@
 # Qu'est-ce que IoT ?
 
-*Glossaire · Dev · Dernière mise à jour : 9 octobre 2026*
+*Dev · Dernière mise à jour : 9 octobre 2026*
 
 > Internet of Things
 

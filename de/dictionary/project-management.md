@@ -1,6 +1,6 @@
 # Was ist Project Management?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Projektmanagement ist die Disziplin der Planung von Zeit, Ressourcen und Aufgaben, um ein Ziel zu erreichen.
 

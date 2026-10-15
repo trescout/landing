@@ -33,7 +33,7 @@ docker compose up -d
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite installer le logiciel de suivi d'entraînement openGym sur la plateforme de gestion de conteneurs Docker. Pourriez-vous m'expliquer étape par étape les instructions d'installation commençant par la commande 'git clone https://github.com/DuarteSantos8/openGym', comment configurer le fichier de variables d'environnement '.env', et comment accéder à l'application depuis un navigateur une fois l'installation terminée ?
 

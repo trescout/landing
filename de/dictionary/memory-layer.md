@@ -1,6 +1,6 @@
 # Was ist Memory Layer?
 
-*Glossar · AI · Zuletzt aktualisiert: 27. September 2026*
+*AI · Zuletzt aktualisiert: 27. September 2026*
 
 Es handelt sich um die digitale Gedächtnisschicht, die es Modellen der künstlichen Intelligenz ermöglicht, sich an vergangene Interaktionen zu erinnern.
 

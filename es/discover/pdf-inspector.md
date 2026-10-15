@@ -36,7 +36,7 @@ npm install @firecrawl/pdf-inspector
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Necesito analizar el archivo PDF que tengo. Clasifique este archivo para ver si está basado en texto o es un documento escaneado. Si está basado en texto, conviértalo a un formato Markdown limpio, conservando el texto, las tablas y los encabezados. Determina correctamente el orden de lectura utilizando la propia estructura del archivo y la información de fuentes, sin utilizar OCR.
 

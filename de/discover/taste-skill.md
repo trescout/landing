@@ -28,7 +28,7 @@ Wenn Sie den Skill zu Ihrem KI-Agenten hinzufügen (Schritte unter tasteskill.de
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie Taste Skills, indem Sie im Terminal den Befehl „npx skills add https://github.com/Leonxlnx/taste-skill“ ausführen. Bitten Sie dann den Agenten, diese Fähigkeit bei der Erstellung der Benutzeroberfläche zu befolgen und ein erstklassiges Design mit besserem Layout, besserer Typografie und Animation zu erstellen.
 

@@ -1,6 +1,6 @@
 # Was ist Caching?
 
-*Glossar · Data · Zuletzt aktualisiert: 22. September 2026*
+*Data · Zuletzt aktualisiert: 22. September 2026*
 
 Beim Caching handelt es sich um das häufige Kopieren von Daten auf eine schnelle Ebene.
 

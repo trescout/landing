@@ -37,7 +37,7 @@ ego-browser follow @ego_agent on x.com for me
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Configurez ego lite pour moi : https://github.com/citrolabs/ego-lite. Lisez `skills/ego-browser/references/install.md` et suivez les étapes pour installer ego lite.
 

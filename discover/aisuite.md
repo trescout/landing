@@ -32,7 +32,7 @@ pip install 'aisuite[all]'        # with all provider SDKs
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Aisuite kütüphanesini kullanarak farklı yapay zekâ modellerini tek bir arayüz üzerinden nasıl yönetebilirim? Özellikle OpenAI ve Anthropic gibi farklı sağlayıcılar arasında geçiş yaparken kod yapımı nasıl kurmalıyım ve Python fonksiyonlarımı modele araç olarak nasıl tanıtabilirim? Lütfen aisuite kütüphanesinin sunduğu Chat Completions ve Agents API yapılarını kullanarak basit bir örnek oluştur.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/aisuite/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

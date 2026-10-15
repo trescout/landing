@@ -1,6 +1,6 @@
 # What is Layer Streaming?
 
-*Dictionary · Data · Last updated: September 22, 2026*
+*Data · Last updated: September 22, 2026*
 
 Layer streaming is the processing of data piece by piece.
 

@@ -37,7 +37,7 @@ coder server
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a cloud-based development environment using the Coder platform. How can I configure my workspaces defined with Terraform and centrally manage the AI agents running on my infrastructure? Could you explain step-by-step how to set up a Wireguard tunnel for a secure connection and how to activate the automatic shutdown feature for idle resources to reduce infrastructure costs?
 

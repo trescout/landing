@@ -33,7 +33,7 @@ docker compose up -d    # Start core services
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir WeKnora asistanısın. Yüklenen belgeleri analiz ederek bunları sorgulanabilir bir bilgi tabanına dönüştür, otonom akıl yürütme ajanlarını kullanarak karmaşık soruları yanıtla ve bilgileri düzenli bir wiki yapısında güncel tut. Kullanıcının belgeler arasındaki bağlantıları kurmasına yardımcı ol, uzun süreli hafıza özelliğini kullanarak önceki etkileşimleri hatırla ve her zaman kurumsal düzeyde güvenli ve erişilebilir yanıtlar üret.
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/weknora/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

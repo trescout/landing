@@ -1,6 +1,6 @@
 # Digital Twin nedir, ne demek?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 22 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 22 Eylül 2026*
 
 Digital twin (Türkçe karşılığıyla **dijital ikiz**), nesnenin canlı veriyle beslenen kopyasıdır.
 
@@ -67,8 +67,8 @@ Fabrika, şehir ve enerjide. Kritik varlık önce gelir.
 - [Data Pipeline](https://trescout.com/dictionary/data-pipeline/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/digital-twin/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

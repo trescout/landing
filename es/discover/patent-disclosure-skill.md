@@ -51,7 +51,7 @@ python run_skill.py --input bulus_taslagi.txt --output patent_disclosure.md
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Me gustaría preparar un texto formal de divulgación de invenciones utilizando la habilidad de divulgación de patentes para un algoritmo de almacenamiento en caché de bases de datos distribuidas que he desarrollado. ¿Puede darnos el flujo del algoritmo como entrada y explicar paso a paso cómo generar reivindicaciones independientes, el campo técnico de la invención y las diferencias con el estado de la técnica?
 

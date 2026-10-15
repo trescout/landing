@@ -54,7 +54,7 @@ pnpm run dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine sokratische Diskussionsumgebung simulieren, indem ich meine eigenen Vorlesungsnotizen auf die OpenMAIC-Plattform hochlade. Können Sie Schritt für Schritt erklären, wie die Rollen der Agenten (Lehrer, neugieriger Schüler, kritischer Fragesteller) definiert werden und wie diese Klasse mit einem lokalen Ollama-Modell gefördert wird?
 

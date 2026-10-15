@@ -40,7 +40,7 @@ git clone https://github.com/google-research/timesfm.git
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Zeitreihenvorhersagen mithilfe der TimesFM-Bibliothek durchführen. Wie kann ich die 200M-Parameterstruktur mit Version 2.5 dieses von Google entwickelten Basismodells konfigurieren? Wie sollte ich die Werte max_context und max_horizon bestimmen, insbesondere während der Kompilierungsphase des Modells, und in welchem ​​Format sollte ich Dateneingaben für die Prognosefunktion bereitstellen? Können Sie dies anhand einer Beispielcodestruktur erklären?
 

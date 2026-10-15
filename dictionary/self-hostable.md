@@ -1,6 +1,6 @@
 # Self-hostable nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 7 Temmuz 2026*
+*Geliştirme · Son güncelleme: 7 Temmuz 2026*
 
 Bir yazılımın dışarıdan hizmet almak yerine kendi altyapınızda çalıştırılabilir olmasıdır.
 
@@ -43,8 +43,8 @@ Evet, kurulum ve bakım süreçleri için temel düzeyde sunucu yönetimi veya k
 
 - [Karakeep](https://trescout.com/discover/karakeep/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/self-hostable/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

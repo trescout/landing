@@ -28,7 +28,7 @@ pip install hyperresearch && hyperresearch install
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Tu es un expert en recherche approfondie. En utilisant l'outil Hyperresearch, prépare un rapport complet sur [INSÉREZ VOTRE SUJET DE RECHERCHE ICI]. Reste impartial tout au long du processus de recherche, vérifie toutes les affirmations avec des sources et ajoute les données obtenues à la base de connaissances permanente. Lors de la rédaction du rapport, donne la priorité aux sources académiques et techniques, analyse les informations contradictoires et résume clairement les résultats.
 

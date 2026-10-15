@@ -28,7 +28,7 @@ npx skills add tt-a1i/archify -g
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Utilisez Archify pour schématiser une requête Web : le navigateur appelle l'API, l'API vérifie Redis et un échec de cache interroge PostgreSQL et remplit le cache.
 

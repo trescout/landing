@@ -1,6 +1,6 @@
 # O que é Runtime?
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 Tempo de execução refere-se ao período de tempo em que um programa é efetivamente executado no processador e na memória do computador após a fase de compilação, e à infraestrutura de software (Runtime Environment) que possibilita essa execução.
 

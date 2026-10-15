@@ -41,7 +41,7 @@ btb
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero automatizar os processos de compra de ingressos Bilibili. Você pode me explicar os passos básicos para instalar e usar esta ferramenta, com base nas informações das páginas de documentação?
 

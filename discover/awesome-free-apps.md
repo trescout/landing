@@ -27,9 +27,9 @@
 
 GitHub sayfamızda platformunuza göre gezinebilir ve ihtiyacınız olan uygulamayı kolayca seçebilirsiniz. Kurulum yapmanıza gerek kalmadan doğrudan inceleyebilirsiniz.
 
-## AI ile nasıl kullanılır?
+## Yapay zekâ ile nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sana 'awesome-free-apps' adlı, Windows, macOS ve Linux için ücretsiz uygulamaların kategorilere ayrılmış bir listesini vereceğim. Listeyi incele ve ihtiyaçlarıma göre (örn. ses, tarayıcı, geliştirici araçları, güvenlik) hangi ücretsiz ve mümkünse açık kaynaklı uygulamaları kullanmam gerektiğini, her biri için kısa açıklama ve hangi platformda çalıştığıyla birlikte öner.
 
@@ -48,4 +48,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-free-apps/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

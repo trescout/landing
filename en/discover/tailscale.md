@@ -29,7 +29,7 @@ go install tailscale.com/cmd/tailscale{,d}
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I set up a secure network between my different devices using Tailscale and benefit from the encryption advantages provided by the WireGuard protocol in the process? Can you explain how two-factor authentication contributes to my network security and the basic steps I need to follow to connect my devices?
 

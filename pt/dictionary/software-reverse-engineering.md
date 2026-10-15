@@ -1,6 +1,6 @@
 # O que é Software Reverse Engineering?
 
-*Glossário · Dev · Última atualização: 31 de agosto de 2026*
+*Dev · Última atualização: 31 de agosto de 2026*
 
 É o processo de analisar o código ou a estrutura de um software pronto para entender como ele funciona.
 

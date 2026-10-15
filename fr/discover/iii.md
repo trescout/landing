@@ -27,7 +27,7 @@ Pour commencer et accéder à la documentation, vous pouvez visiter iii.dev.
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pour essayer iii, créez d'abord un projet avec « iii project init myapp », faites « cd myapp » et démarrez le moteur avec la commande « iii », puis ajoutez des fonctionnalités avec des commandes comme « iii worker add queue » et connectez-les toutes dans le même système live ; Si le SDK est requis, installez « npm install iii-sdk ».
 

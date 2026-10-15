@@ -1,6 +1,6 @@
 # Qu'est-ce que Observability ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 L'observabilité est la capacité de comprendre l'intérieur du système avec des données externes.
 

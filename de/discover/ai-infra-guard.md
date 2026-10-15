@@ -38,7 +38,7 @@ curl https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/refs/heads/main/do
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich mithilfe der AI-Infra-Guard-Plattform Schwachstellen in meiner Infrastruktur für künstliche Intelligenz erkennen? Erklären Sie die Schritte, die ich befolgen muss, um die Skill-Scanning- und Jailbreak-Bewertungsprozesse zu starten, insbesondere in agentenbasierten Systemen.
 

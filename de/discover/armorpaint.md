@@ -35,7 +35,7 @@ cd armorpaint/paint
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Unterstütze mich bei meinen Prozessen der 3D-Modellierung und Texturbemalung. Hilf mir dabei, realistische Oberflächen für meine Modelle unter Verwendung von physikbasierten Rendering-Techniken zu erstellen. Führe mich Schritt für Schritt, wenn ich auf technische Probleme stoße oder bei der Texturerstellung feststecke.
 

@@ -52,7 +52,7 @@ Hazır siteyi (openstock-ods.vercel.app) doğrudan kullanabilir veya kendi sunuc
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenStock adlı açık kaynaklı borsa takip uygulamasını kurmama yardım et; depoyu 'git clone https://github.com/Open-Dev-Society/OpenStock.git' ile indir, 'cd OpenStock' yapıp 'pnpm install' çalıştır, gerekli .env değişkenlerini ayarla ve 'pnpm dev' ile geliştirme sunucusunu başlatıp http://localhost:3000 adresinde aç.
 
@@ -74,4 +74,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openstock/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

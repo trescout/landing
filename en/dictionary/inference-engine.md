@@ -1,6 +1,6 @@
 # What is Inference Engine?
 
-*Dictionary · AI · Last updated: August 3, 2026*
+*AI · Last updated: August 3, 2026*
 
 A software engine that uses a trained artificial intelligence model to produce predictions or results based on new inputs given to it.
 

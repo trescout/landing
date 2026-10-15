@@ -1,6 +1,6 @@
 # O que é Ternary?
 
-*Glossário · AI · Última atualização: 28 de setembro de 2026*
+*AI · Última atualização: 28 de setembro de 2026*
 
 É um sistema que opera não apenas em dois, mas em três estados ou valores diferentes.
 

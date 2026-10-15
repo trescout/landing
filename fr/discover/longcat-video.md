@@ -32,7 +32,7 @@ huggingface-cli download meituan-longcat/LongCat-Video-Avatar-1.5 --local-dir ./
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite installer le projet LongCat-Video sur mon système. Veuillez me guider étape par étape pour télécharger le code source avec les commandes 'git clone --single-branch --branch main https://github.com/meituan-longcat/LongCat-Video' et 'cd LongCat-Video', puis pour exécuter les commandes de téléchargement avec 'pip install "huggingface_hub[cli]"' afin d'accéder aux fichiers requis via la bibliothèque de modèles Hugging Face.
 

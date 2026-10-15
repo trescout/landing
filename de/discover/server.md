@@ -28,7 +28,7 @@ docker run --network host --privileged -v ma-data:/data ghcr.io/music-assistant/
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich meine digitale Musikbibliothek mit Music Assistant strukturieren? Erstellen Sie nach Abschluss der Einrichtung von Home Assistant eine Schritt-für-Schritt-Anleitung, wie ich verschiedene Streaming-Dienste und meine Lautsprecher in das System einbinden kann.
 

@@ -32,7 +32,7 @@ npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Si el entorno de ejecución de software Node no está instalado en mi ordenador, instálalo usando el comando 'brew install node'. A continuación, ejecuta el comando 'npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-pro' para dotar a mi asistente de código de especialización en SwiftUI y dejar esta habilidad lista para usar en mis proyectos.
 

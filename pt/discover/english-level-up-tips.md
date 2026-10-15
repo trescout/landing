@@ -23,7 +23,7 @@ Você pode adaptar o plano recomendado de acordo com suas necessidades revisando
 
 ## Como usá-lo com IA?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Darei a você um guia completo chamado 'Dicas para subir de nível de inglês', que explica vocabulário, compreensão auditiva, leitura, fala, escrita e métodos de estudo apoiados por inteligência artificial para aprender inglês em um nível avançado. Examine este guia e crie um plano de estudo pessoal e um roteiro de acordo com seu nível e objetivo. Meu nível: [ex. meio]. Meu objetivo: [por exemplo. falando fluentemente].
 

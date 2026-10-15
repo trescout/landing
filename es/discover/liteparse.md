@@ -30,7 +30,7 @@ pip install liteparse
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale la herramienta de análisis de PDF LiteParse con 'pip install liteparse', luego extraiga el texto de un PDF con el comando 'lit parse document.pdf' o guárdelo como JSON estructurado con cuadros delimitadores con 'lit parse document.pdf --format json -o output.json'.
 

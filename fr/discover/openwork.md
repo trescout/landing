@@ -29,7 +29,7 @@ pnpm dev:worktree
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez OpenWork sur mon ordinateur, configurez mon premier espace de travail et ouvrez-le prêt à l'emploi. Suivez les étapes sur https://openworklabs.com/start.md?v=hero
 

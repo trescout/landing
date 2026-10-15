@@ -1,6 +1,6 @@
 # Few-shot Learning nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
 Yapay zekanın çok az örnekle yeni bir görevi öğrenme yeteneğidir.
 
@@ -39,8 +39,8 @@ Görev çok karmaşıksa veya modelin kapasitesi düşükse örnekler yeterli ol
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/few-shot-learning/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

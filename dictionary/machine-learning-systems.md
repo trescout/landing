@@ -1,6 +1,6 @@
 # Machine Learning Systems nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 3 Temmuz 2026*
 
 Verileri analiz ederek kendi kendine öğrenen ve zamanla daha doğru tahminler yapabilen bilgisayar sistemleridir.
 
@@ -34,8 +34,8 @@ Makine öğrenimi, yapay zekanın veriden öğrenme odaklı alt dalıdır; her y
 
 - [Cs249r Book](https://trescout.com/discover/cs249r-book/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/machine-learning-systems/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

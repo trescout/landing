@@ -1,6 +1,6 @@
 # Operating System for Robotics nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 30 Haziran 2026*
+*Geliştirme · Son güncelleme: 30 Haziran 2026*
 
 > ROS
 
@@ -36,8 +36,8 @@ Temel kavramları öğrenmek için mühendis olmanıza gerek yok, ancak robotik 
 - [Physical AI](https://trescout.com/dictionary/physical-ai/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/operating-system-for-robotics/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

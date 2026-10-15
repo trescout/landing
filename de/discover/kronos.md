@@ -43,7 +43,7 @@ Dies ist ein Forschungsmodell; Es handelt sich nicht um eine Anlageberatung oder
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das Kronos-Finanzprognosemodell: Laden Sie das Repository herunter und führen Sie darin „pip install -r require.txt“ aus. Führen Sie dann das Skript „python examples/prediction_example.py“ aus, um eine Preisprognose für K-Line-Daten (Kerzendiagramm) zu generieren und das Ergebnis grafisch darzustellen.
 

@@ -1,6 +1,6 @@
 # Was ist Runner Images?
 
-*Glossar · Dev · Zuletzt aktualisiert: 27. September 2026*
+*Dev · Zuletzt aktualisiert: 27. September 2026*
 
 Vorgefertigte Pakete für virtuelle Umgebungen, die alle Einstellungen und Dateien enthalten, die für die Ausführung der Software erforderlich sind.
 

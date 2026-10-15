@@ -1,6 +1,6 @@
 # Was ist RBAC?
 
-*Glossar · Dev · Zuletzt aktualisiert: 2. Juli 2026*
+*Dev · Zuletzt aktualisiert: 2. Juli 2026*
 
 > Role-Based Access Control
 

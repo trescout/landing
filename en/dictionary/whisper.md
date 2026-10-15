@@ -1,6 +1,6 @@
 # What is Whisper?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 Whisper is an open source speech recognition model developed by OpenAI.
 

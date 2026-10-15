@@ -27,7 +27,7 @@ git clone -b v1.2 https://github.com/zeux/meshoptimizer.git
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die dreidimensionalen Netzwerkdaten, die ich habe, optimieren. Wie kann ich meine Vertex- und Indexdaten mithilfe der Meshoptimizer-Bibliothek effizienter gestalten? Erklären Sie die grundlegenden Schritte, die ich befolgen muss, insbesondere bei der Vertex-Cache-Optimierung und den Bearbeitungsprozessen des Indexpuffers, unter Verwendung der von der Bibliothek angebotenen Funktionen.
 

@@ -35,7 +35,7 @@ yay -S stably-orca-bin
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Inicie múltiples agentes de IA simultáneamente en diferentes espacios de trabajo en Orca. Envía un comando a cinco agentes diferentes simultáneamente, compara los resultados y combina el mejor. Permítame rastrear el estado laboral de los agentes a través de la aplicación móvil y enviarme notificaciones cuando se complete el proceso.
 

@@ -1,6 +1,6 @@
 # O que é Tokenizer-free?
 
-*Glossário · AI · Última atualização: 3 de junho de 2026*
+*AI · Última atualização: 3 de junho de 2026*
 
 Arquitetura de inteligência artificial que processa diretamente dados brutos sem quebrar os textos em pequenos pedaços.
 

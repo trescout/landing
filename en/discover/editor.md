@@ -37,7 +37,7 @@ bun dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create an architectural scene using Pascal Editor. Help me build a basic 3D structure using the @pascal-app/core and @pascal-app/viewer packages included in the project architecture. Walk me through step by step how to configure the useScene and useViewer hooks to manage the scene state, define the node hierarchy (Site, Building, Level), and integrate a NodeRenderer component into the scene.
 

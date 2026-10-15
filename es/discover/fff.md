@@ -42,7 +42,7 @@ For any file search or grep in the current git-indexed directory, use fff tools.
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Utilice herramientas fff para todas las operaciones de búsqueda de archivos y rastreo de contenido (grep) en mi proyecto. Estas herramientas arrojarán resultados más eficientes gracias a sus funciones de clasificación basada en frecuencia y de indexación rápida.
 

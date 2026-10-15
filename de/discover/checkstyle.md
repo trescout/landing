@@ -51,7 +51,7 @@ java -jar checkstyle-10.18.0-all.jar -c /google_checks.xml src/
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Können Sie anhand von pom.xml- und checkstyle.xml-Beispielen erklären, wie ich das Checkstyle-Plugin mit Maven in einem bestehenden Spring Boot-Projekt konfiguriere, die Google Java Style-Regeln als Basis nutze und das Zeilenlängenlimit gemäß unseren Teamstandards auf 120 Zeichen aktualisiere?
 

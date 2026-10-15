@@ -1,6 +1,6 @@
 # Qu'est-ce que Container ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Un conteneur permet de regrouper le code d'une application et ses dépendances dans un seul paquet afin qu'il fonctionne de la même manière dans n'importe quel environnement.
 

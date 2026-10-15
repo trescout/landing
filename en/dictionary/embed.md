@@ -1,6 +1,6 @@
 # What is Embed?
 
-*Dictionary · Data · Last updated: September 27, 2026*
+*Data · Last updated: September 27, 2026*
 
 The process of converting data into numerical lists that computers can understand the semantic relationship between.
 

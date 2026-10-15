@@ -1,6 +1,6 @@
 # Was ist Cloud Computing?
 
-*Glossar · Dev · Zuletzt aktualisiert: 19. September 2026*
+*Dev · Zuletzt aktualisiert: 19. September 2026*
 
 Cloud Computing ist die Bereitstellung von IT-Ressourcen wie Servern, Speicher, Datenbanken, Netzwerken und Software über das Internet aus entfernten Rechenzentren bei Bedarf (on-demand), anstatt diese auf physischer lokaler Infrastruktur zu betreiben.
 

@@ -1,6 +1,6 @@
 # Was ist Vibe Coding?
 
-*Glossar · AI · Zuletzt aktualisiert: 19. Juni 2026*
+*AI · Zuletzt aktualisiert: 19. Juni 2026*
 
 Es handelt sich um einen Ansatz zum Schreiben von Code mit künstlicher Intelligenz, bei dem einfach beschrieben wird, was Sie wollen, ohne auf technische Details einzugehen.
 

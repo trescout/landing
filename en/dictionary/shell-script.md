@@ -1,6 +1,6 @@
 # What is Shell Script?
 
-*Dictionary · Dev · Last updated: August 17, 2026*
+*Dev · Last updated: August 17, 2026*
 
 These are small scripts that instruct the computer's operating system to do the work that needs to be done in order.
 

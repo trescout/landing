@@ -1,6 +1,6 @@
 # Qu'est-ce que Web Scraper ?
 
-*Glossaire · Data · Dernière mise à jour : 15 août 2026*
+*Data · Dernière mise à jour : 15 août 2026*
 
 Il s'agit d'un outil logiciel qui collecte automatiquement les données des sites Web et les transforme en une liste organisée.
 

@@ -40,7 +40,7 @@ npm run dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar mi propio servidor. Según la información de la Guía de autohospedaje, ¿cuáles son los pasos básicos que debo seguir para crear un servidor de medios o almacenamiento en la nube en mi red local? ¿Qué herramientas de hardware y software debo considerar primero?
 

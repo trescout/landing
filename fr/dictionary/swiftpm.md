@@ -1,6 +1,6 @@
 # Qu'est-ce que Swift Package Manager ?
 
-*Glossaire · Dev · Dernière mise à jour : 13 octobre 2026*
+*Dev · Dernière mise à jour : 13 octobre 2026*
 
 > Swift Package Manager
 

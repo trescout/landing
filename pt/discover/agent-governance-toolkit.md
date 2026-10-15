@@ -26,7 +26,7 @@ pip install agent-governance-toolkit[full]
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Estou desenvolvendo um agente de inteligência artificial e quero restringir o uso de ferramentas por esse agente. Você pode preparar um exemplo de estrutura de código para eu criar um arquivo de política YAML usando agent-governance-toolkit e como proteger as funções da ferramenta em meu código Python de acordo com esta política?
 

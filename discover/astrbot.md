@@ -38,7 +38,7 @@ astrbot run
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 AstrBot kullanarak mesajlaşma platformlarımda özelleştirilebilir bir yapay zekâ asistanı oluşturmak istiyorum. Platformun sunduğu eklenti desteği, çok modlu yetenekler ve ajan çalışma alanı özelliklerini kullanarak, ihtiyaçlarıma göre yapılandırılmış, hem kişisel hem de profesyonel iş akışlarıma entegre çalışan bir yapay zekâ ajanı kurmama yardımcı ol.
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astrbot/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

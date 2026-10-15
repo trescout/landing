@@ -49,7 +49,7 @@ wt switch -c -x claude feat
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Worktrunk kullanarak mevcut Git projemde yeni bir çalışma ağacı oluşturmak ve bu alanda paralel bir görev başlatmak istiyorum. Çalışma ağaçlarını dallar kadar kolay yönetebilmem için wt komutlarını nasıl kullanmalıyım ve iş akışımı otomatize etmek için kancalardan nasıl faydalanabilirim?
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/worktrunk/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

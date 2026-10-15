@@ -1,6 +1,6 @@
 # Was ist Human Effort?
 
-*Glossar · Dev · Zuletzt aktualisiert: 13. Juni 2026*
+*Dev · Zuletzt aktualisiert: 13. Juni 2026*
 
 Es ist die Gesamtheit der geistigen und körperlichen Anstrengungen, die Menschen unternehmen, um ein Projekt oder eine Aufgabe abzuschließen.
 

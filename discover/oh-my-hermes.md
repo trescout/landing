@@ -43,7 +43,7 @@ omh setup
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Hermes Agent üzerinde Oh My Hermes eklentisini kur ve yapılandır. Kurulum sürecinde işletim sistemi için uygun olan yükleyiciyi kullan, etkileşimli model kurulumunu tamamla, model zinciri görüşmesini yap ve doctor adımlarını çalıştır. Mevcut Hermes yapılandırmasını koruyarak sadece belgelenmiş kurulum değişikliklerini uygula ve işlem sonucunu raporla.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/oh-my-hermes/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Smart Contracts?
 
-*Dictionary · Dev · Last updated: August 18, 2026*
+*Dev · Last updated: August 18, 2026*
 
 They are digital contracts that work automatically when certain conditions are met and do not require an intermediary.
 

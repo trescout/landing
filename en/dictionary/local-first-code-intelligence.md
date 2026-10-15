@@ -1,6 +1,6 @@
 # What is Local-first Code Intelligence?
 
-*Dictionary · Dev · Last updated: July 20, 2026*
+*Dev · Last updated: July 20, 2026*
 
 Software development tools provide code suggestions by processing data directly on your local device without sending it to the cloud.
 

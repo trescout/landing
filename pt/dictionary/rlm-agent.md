@@ -1,6 +1,6 @@
 # O que é RLM Agent?
 
-*Glossário · AI · Última atualização: 10 de agosto de 2026*
+*AI · Última atualização: 10 de agosto de 2026*
 
 > Reinforcement Learning Model Agent
 

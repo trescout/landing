@@ -37,7 +37,7 @@ http://localhost:8080
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I edit, convert and merge my PDF documents using the Stirling-PDF tool? Guide me on how to make the most of 50+ tools and help me automate my workflows, keeping my documents safe locally.
 

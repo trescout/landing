@@ -1,6 +1,6 @@
 # What is Value Investing?
 
-*Dictionary · Data · Last updated: June 27, 2026*
+*Data · Last updated: June 27, 2026*
 
 It is a strategy of purchasing assets that you believe are priced below their true value for long-term gain.
 

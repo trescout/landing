@@ -1,6 +1,6 @@
 # Was ist NAS?
 
-*Glossar · Data · Zuletzt aktualisiert: 14. Juni 2026*
+*Data · Zuletzt aktualisiert: 14. Juni 2026*
 
 > Network Attached Storage
 

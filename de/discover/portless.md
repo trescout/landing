@@ -42,7 +42,7 @@ portless myapp next dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte, dass meine in der lokalen Entwicklungsumgebung laufenden Dienste permanente Adressen mit der Endung .localhost anstelle von Portnummern verwenden. Führe mein Projekt mit dem Portless-Tool aus und ermögliche mir den Zugriff auf meine Dienste über identifizierbare Adressen wie https://myapp.localhost.
 

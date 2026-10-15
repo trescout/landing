@@ -31,9 +31,9 @@
 
 Repo'daki yönergeyle başvurursunuz: domain'i seçer, DNS'inize bağlarsınız. Adım adım rehber GitHub sayfasında.
 
-## AI ile nasıl kullanılır?
+## Yapay zekâ ile nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 DigitalPlat FreeDomain ücretsiz bir alan adı servisidir, kurulacak bir yazılım değil. https://dash.domain.digitalplat.org/ adresine gidip .dpdns.org, .us.kg, .qzz.io gibi uzantılardan ücretsiz bir alan adı kaydetmem için bana adım adım rehberlik et ve Cloudflare DNS ile nasıl bağlayacağımı anlat.
 
@@ -51,4 +51,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/free-domain/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

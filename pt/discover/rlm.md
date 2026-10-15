@@ -42,7 +42,7 @@ make quickstart
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Usando a biblioteca RLM, construa uma estrutura que permita ao modelo de linguagem decompor a entrada, analisá-la e fazer chamadas recursivas dentro de si mesmo. Ao instanciar a classe RLM, defina a configuração do modelo que você usa como backend e permita que o modelo interaja com o ambiente de código para resolver tarefas complexas.
 

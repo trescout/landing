@@ -1,6 +1,6 @@
 # What is Hill Climbing?
 
-*Dictionary · AI · Last updated: August 11, 2026*
+*AI · Last updated: August 11, 2026*
 
 It is a search method that progresses by constantly making small improvements to reach the best solution.
 

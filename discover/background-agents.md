@@ -39,7 +39,7 @@ docker compose up -d postgres redis
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir arka plan yazılım ajanısın. Belirlediğim görevleri Node.js, Python ve git araçlarını kullanarak otonom şekilde gerçekleştirmeni istiyorum. Çalışırken geliştirdiğim projeye uygun commitler oluştur, gerekli durumlarda paralel alt görevler başlat ve yaptığın işlemleri GitHub üzerinden takip edilebilir kıl.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/background-agents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

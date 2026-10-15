@@ -1,6 +1,6 @@
 # What is Adblocker?
 
-*Dictionary · Dev · Last updated: August 17, 2026*
+*Dev · Last updated: August 17, 2026*
 
 It is a software plug-in that prevents ads from appearing in your internet browser.
 

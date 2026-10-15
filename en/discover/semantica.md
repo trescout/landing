@@ -37,7 +37,7 @@ semantica
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Transform my data into a structured knowledge graph using Semantica. Keep data in a relational structure to make my decision processes traceable, so I can transparently audit and report the reasons for the decisions my AI system makes.
 

@@ -35,7 +35,7 @@ spf
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to manage my file operations more visually and efficiently in the terminal. I have installed the Superfile tool and want to start using it. Can you guide me on basic file management commands, shortcuts, and how I can use the interface more efficiently?
 

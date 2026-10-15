@@ -29,7 +29,7 @@ npx e2e init
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Richten Sie mit dem Testtool automatisierte Tests mit in natürlicher Sprache geschriebenen Schritten für meine Web- oder mobile Anwendung ein und erstellen Sie die Konfigurationsdatei.
 

@@ -39,7 +39,7 @@ pip install -U flash-linear-attention
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero acelerar alguns cálculos de Delta Attention usando a ferramenta FlashKDA. Como posso otimizar o mecanismo de atenção do meu modelo usando a função chunk_kda em torch.inference_mode(), integrada à biblioteca flash-linear-attention? Crie um exemplo de aplicação, levando em consideração os parâmetros necessários e os requisitos de hardware aos quais preciso prestar atenção.
 

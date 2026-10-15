@@ -1,6 +1,6 @@
 # Was ist ab?
 
-*Glossar · Dev · Zuletzt aktualisiert: 1. Oktober 2026*
+*Dev · Zuletzt aktualisiert: 1. Oktober 2026*
 
 > ApacheBench
 

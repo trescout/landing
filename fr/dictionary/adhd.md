@@ -1,6 +1,6 @@
 # Qu'est-ce que ADHD ?
 
-*Glossaire · AI · Dernière mise à jour : 22 juillet 2026*
+*AI · Dernière mise à jour : 22 juillet 2026*
 
 > Attention Deficit Hyperactivity Disorder
 

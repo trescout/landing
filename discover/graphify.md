@@ -38,7 +38,7 @@ graphify install               # register the skill with your AI assistant
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu proje dizinini Graphify kullanarak bir bilgi çizgesine dönüştürdüm. Şimdi bu yapıyı kullanarak projedeki kavramlar arasındaki ilişkileri analiz etmeni, karmaşık kod bloklarının birbirine nasıl bağlandığını açıklamanı ve 'APIRouter' gibi ana düğümlerin sistemdeki rolünü detaylandırmanı istiyorum. Lütfen analizlerini yaparken 'EXTRACTED' ve 'INFERRED' etiketlerini dikkate alarak doğrudan kaynak koddan gelen bilgiler ile çıkarımsanan bağlantıları ayırt et.
 
@@ -61,4 +61,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/graphify/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

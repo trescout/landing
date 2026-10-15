@@ -1,6 +1,6 @@
 # O que é Digital Privacy?
 
-*Glossário · Data · Última atualização: 19 de setembro de 2026*
+*Data · Última atualização: 19 de setembro de 2026*
 
 Privacidade digital é o direito dos indivíduos de controlar e limitar quem pode coletar, armazenar e processar os dados pessoais que produzem na internet, em dispositivos inteligentes e em serviços digitais.
 

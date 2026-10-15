@@ -1,6 +1,6 @@
 # Speech-to-Speech nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
 
 Speech-to-Speech (S2S / sesten sese yapay zekâ), ses dalgalarını ara bir metin katmanına dönüştürmeden doğrudan kaynaktan hedefe analiz edip yeni bir ses sinyali üreten uçtan uca derin öğrenme teknolojisidir.
 
@@ -67,8 +67,8 @@ Gerçekçi ses klonlama teknolojisi kimlik taklidi ve dolandırıcılık riski t
 
 - [Speech to Speech](https://trescout.com/discover/speech-to-speech/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/speech-to-speech/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

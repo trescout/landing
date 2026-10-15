@@ -34,7 +34,7 @@ autohedge
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 AutoHedge sistemini kullanarak bir yatırım stratejisi oluşturmak istiyorum. Sistemdeki Director Agent ile piyasa analizi yapmanı, Quant Agent ile teknik verileri değerlendirmeni ve Risk Management Agent ile pozisyon büyüklüğünü belirlemeni istiyorum. İşlemleri gerçekleştirmeden önce tüm risk analizlerini yapay zekâ tabanlı bu çerçeve üzerinden raporla.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autohedge/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

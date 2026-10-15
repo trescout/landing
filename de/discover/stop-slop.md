@@ -28,7 +28,7 @@ Mit künstlicher Intelligenz erstellte Texte enthalten oft vorhersehbare Ausdrü
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Laden Sie dieses Repository herunter (https://github.com/hardikpandya/stop-slop) und fügen Sie den Stop-Slop-Skill als Skill zu Claude Code hinzu; Dann nutzen Sie diese Fähigkeit, um KI-spezifische Klischees aus den von mir verfassten Texten zu entfernen.
 

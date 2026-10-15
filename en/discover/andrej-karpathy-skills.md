@@ -40,7 +40,7 @@ This package gives agents guidance; you should still verify generated code, chan
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 First state the plan, uncertainties and affected files for this task. Then suggest the simplest approach and make only the changes required for the goal.
 

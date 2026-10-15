@@ -35,7 +35,7 @@ yay -S stably-orca-bin
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Starten Sie mehrere KI-Agenten gleichzeitig in verschiedenen Arbeitsbereichen auf Orca. Senden Sie einen Befehl gleichzeitig an fünf verschiedene Agenten, vergleichen Sie die Ergebnisse und kombinieren Sie den besten. Lassen Sie mich den Arbeitsstatus der Agenten über die mobile App verfolgen und mir Benachrichtigungen senden, wenn der Vorgang abgeschlossen ist.
 

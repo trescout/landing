@@ -1,6 +1,6 @@
 # What is Java Style Guides?
 
-*Dictionary · Dev · Last updated: September 1, 2026*
+*Dev · Last updated: September 1, 2026*
 
 A set of standards and rules used to ensure that code written in the Java language is organized and readable.
 

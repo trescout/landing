@@ -26,7 +26,7 @@ pip install git+https://github.com/google-deepmind/weathernext.git@v0.3.0
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Necesito hacer un pronóstico del tiempo a medio plazo para una región específica utilizando el modelo WeatherNext. ¿Cómo puedo cargar pesos del modelo a través de Google Cloud Bucket e iniciar el ciclo de pronóstico procesando datos meteorológicos (como temperatura, velocidad del viento)? ¿Puede explicar específicamente los pasos necesarios para el seguimiento de huracanes?
 

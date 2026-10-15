@@ -1,6 +1,6 @@
 # Yapay zekâ ajanlarınızı webden yönetin
 
-**Hermes WebUI**, Hermes AI ajanlarını **web tarayıcısı veya mobil cihazlar** üzerinden yönetmenizi sağlayan bir arayüzdür. Ajan etkileşimlerini tek bir merkezden takip edip kontrol etmenize olanak tanır.
+**Hermes WebUI**, Hermes yapay zekâ ajanlarını **web tarayıcısı veya mobil cihazlar** üzerinden yönetmenizi sağlayan bir arayüzdür. Ajan etkileşimlerini tek bir merkezden takip edip kontrol etmenize olanak tanır.
 
 - ★ 18.381
 - Python
@@ -13,7 +13,7 @@
 - **15 Ağustos 2026:** Yıldız 16.850 → 17.366, son sürüm v0.52.113 (14 Ağustos 2026).
 - **2 Ağustos 2026:** Yıldız 10.353 → 16.850, son sürüm v0.52.106 (29 Temmuz 2026).
 
-- **Kimin için:** Hermes/AI ajanı kullananlar
+- **Kimin için:** Hermes/yapay zekâ ajanı kullananlar
 - **Zorluk:** Orta
 - **Ne sunar:** Ajan yönetimi için web/mobil arayüz
 - **Ücret:** Ücretsiz · açık kaynak (MIT)
@@ -47,7 +47,7 @@ python3 bootstrap.py
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Hermes WebUI'yi kur: 'git clone https://github.com/nesquena/hermes-webui.git hermes-webui' ile indir, dizine gir ve 'python3 bootstrap.py' komutunu çalıştır; ardından açılan tarayıcıdaki arayüzden Hermes ajanını kullan.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hermes-webui/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

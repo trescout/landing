@@ -42,7 +42,7 @@ The Agency-agents project creates a digital agency structure by bringing togethe
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I make my work processes more efficient by using expert artificial intelligence agents in the Agency Agents project? Can you explain the steps I need to follow to determine which agents are right for me and get set up?
 

@@ -1,6 +1,6 @@
 # Tools: Ferramentas de desenvolvedor, Function Calling e MCP
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 Tools (ferramentas) representam dois eixos cruciais na tecnologia: utilitários de software que elevam a produtividade dos programadores e conectores que permitem a agentes de IA executar código e consultar APIs externas.
 

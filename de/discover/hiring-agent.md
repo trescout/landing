@@ -43,7 +43,7 @@ python score.py /path/to/resume.pdf
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Handeln Sie als Personalvermittler und analysieren Sie bereitgestellte Lebenslaufdaten und technische Beiträge auf GitHub. Bewerten Sie die Projekte, technischen Fähigkeiten und Berufserfahrung des Kandidaten nach objektiven Kriterien. Berücksichtigen Sie bei der Bewertung die Codequalität des Kandidaten auf GitHub, die Häufigkeit der Beiträge und die Relevanz seiner Projekte für reale Anwendungen. Erstellen Sie abschließend einen transparenten und fairen Bewertungsbericht, der die Stärken und Schwächen des Kandidaten hervorhebt.
 

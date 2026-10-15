@@ -34,7 +34,7 @@ make deploy AX_IMAGE_REPO=<your-registry>
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das von Google entwickelte Tool AX installieren, das die Orchestrierung für KI-Agenten ermöglicht. Installieren Sie zunächst das Befehlszeilentool, indem Sie den Befehl `go install github.com/google/ax/cmd/ax@latest` ausführen. Stellen Sie anschließend die Steuerungsebene mit dem Befehl `make deploy AX_IMAGE_REPO=\<your-registry>` bereit.
 

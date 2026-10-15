@@ -1,6 +1,6 @@
 # ¿Qué es Agent Skills?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 Las habilidades de agente (agent skills) son paquetes que reúnen las instrucciones, herramientas y recursos necesarios para que un agente realice una tarea específica de manera consistente.
 

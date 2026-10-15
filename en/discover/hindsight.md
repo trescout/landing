@@ -44,7 +44,7 @@ curl -fsSL https://hindsight.vectorize.io/get-cli | bash          # CLI
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want my AI agent to learn from past interactions, not just remembering the conversation history, but also making more consistent decisions over time. Help me configure the necessary server setup and client connections to integrate this memory layer into my project.
 

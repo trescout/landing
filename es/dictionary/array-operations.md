@@ -1,6 +1,6 @@
 # ¿Qué es Array Operations?
 
-*Glosario · Dev · Última actualización: 30 de junio de 2026*
+*Dev · Última actualización: 30 de junio de 2026*
 
 Se trata de operaciones matemáticas colectivas realizadas sobre grupos de datos alineados uno al lado del otro en la memoria de la computadora.
 

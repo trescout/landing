@@ -49,7 +49,7 @@ Requer uma chave API do modelo AI + instalação para funcionar; O uso da API po
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale e execute MoneyPrinterTurbo: Baixe o repositório com 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git', entre no diretório e inicie-o com o comando 'docker-compose up' e abra a interface web do navegador em http://127.0.0.1:8501.
 

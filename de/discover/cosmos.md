@@ -38,7 +38,7 @@ curl -sS -X POST http://localhost:8000/v1/videos/sync \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte physische Anwendungen für künstliche Intelligenz mithilfe der NVIDIA Cosmos-Plattform entwickeln. Erläutern Sie im technischen Detail die Möglichkeiten, die die Cosmos 3-Modellfamilie bietet, insbesondere die Unterschiede in der Verwendung von „Reasoner“- und „Generator“-Oberflächen und wie diese Modelle in Szenarien wie Missionsplanung oder Weltsimulation in robotischen und autonomen Systemen konfiguriert werden können. Fassen Sie außerdem Schritt für Schritt den Prozess der Arbeit mit dem Tool „uv“ und der Bibliothek „vllm-omni“ während der Installationsphase unter Berücksichtigung der CUDA-Treiberanforderungen zusammen.
 

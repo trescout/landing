@@ -47,7 +47,7 @@ droidasc getclass app.apk Lcom/poc/Main; -o Main.java
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Act as an Android application researcher. Help me find a specific class in an APK file, parse the AndroidManifest.xml file, or search for references within the code using the Droid ASC tool. When generating commands, use the tool's getclass, getmanifest, and findrefs commands with the correct parameters and explain how I should interpret the outputs.
 

@@ -44,7 +44,7 @@ http://localhost:8899
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Reclip aracını kullanarak internet üzerindeki video bağlantılarını MP4 veya MP3 formatında yerel cihazıma indirmek istiyorum. İndirme işlemini başlatmak için bağlantıları giriş kutusuna yapıştırıp format seçimi yaptıktan sonra Fetch butonuna basarak video bilgilerini yüklemem ve ardından Download butonunu kullanmam gerekiyor. Bu süreçte toplu indirme yapabilir ve video çözünürlüğünü tercihlerime göre ayarlayabilirim.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/reclip/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

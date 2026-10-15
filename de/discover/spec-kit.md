@@ -38,7 +38,7 @@ cd my-project
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wenn Sie einen KI-Codierungsagenten verwenden, definieren Sie Qualitäts- und Leistungsstandards mithilfe des Befehls /speckit.constitution, um die Grundlinien des Projekts zu bestimmen. Erklären Sie dann die Ziele der Anwendung, die Sie mit /speckit.specify erstellen möchten, geben Sie Ihre technische Architektur mit /speckit.plan an und erstellen Sie schließlich die Aufgabenliste mit /speckit.tasks und entwickeln Sie die Anwendung mit dem Befehl /speckit.implement.
 

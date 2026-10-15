@@ -1,6 +1,6 @@
 # ¿Qué es Cyber Capabilities?
 
-*Glosario · Dev · Última actualización: 15 de agosto de 2026*
+*Dev · Última actualización: 15 de agosto de 2026*
 
 Son capacidades y herramientas técnicas utilizadas para proteger o intervenir en sistemas digitales.
 

@@ -1,6 +1,6 @@
 # Was ist Xcode?
 
-*Glossar · Dev · Zuletzt aktualisiert: 14. Juli 2026*
+*Dev · Zuletzt aktualisiert: 14. Juli 2026*
 
 Es handelt sich um die offizielle Softwareentwicklungsumgebung zur Entwicklung von Anwendungen für Apple-Geräte (iPhone, Mac, iPad).
 

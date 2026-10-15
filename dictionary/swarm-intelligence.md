@@ -1,6 +1,6 @@
 # Swarm Intelligence nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 8 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 8 Ağustos 2026*
 
 Basit yeteneklere sahip çok sayıda birimin bir araya gelerek tek bir akıllı sistem gibi davranmasıdır.
 
@@ -39,8 +39,8 @@ Hayır, bu sistemlerin en büyük avantajı birimlerin birbirini yedeklemesi ve 
 - [MiroFish](https://trescout.com/discover/mirofish/)
 - [AutoHedge](https://trescout.com/discover/autohedge/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/swarm-intelligence/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

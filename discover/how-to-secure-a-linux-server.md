@@ -25,7 +25,7 @@ sudo apt install libpam-pwquality
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir Linux sunucusu yöneticisiyim. Sunucumun güvenliğini artırmak istiyorum. How-To-Secure-A-Linux-Server rehberindeki en iyi uygulamaları temel alarak; SSH yapılandırmamı nasıl daha güvenli hale getirebilirim, sudo ve su yetkilerini nasıl kısıtlayabilirim ve sistemimde otomatik güvenlik güncellemelerini nasıl aktif edebilirim? Lütfen bu işlemleri yaparken dikkat etmem gereken temel prensipleri ve hata yapmamak için izlemem gereken adımları açıkla.
 
@@ -46,4 +46,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/how-to-secure-a-linux-server/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

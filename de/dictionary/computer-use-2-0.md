@@ -1,6 +1,6 @@
 # Was ist Computer Use 2.0?
 
-*Glossar · AI · Zuletzt aktualisiert: 7. Oktober 2026*
+*AI · Zuletzt aktualisiert: 7. Oktober 2026*
 
 Dies ist die fortgeschrittene Version der Fähigkeit von KI-Modellen, den Computerbildschirm wie ein Mensch zu sehen und komplexe Software sowie Websites durch Maus- und Tastaturbewegungen direkt zu steuern.
 

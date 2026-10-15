@@ -41,7 +41,7 @@ langflow run
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Langflow kullanarak bir yapay zekâ ajanı oluşturmak istiyorum. Görsel arayüzü kullanarak temel bir dil modeli akışı tasarlamamda bana rehberlik et. Hangi bileşenleri sürüklemem gerektiğini, bu bileşenleri nasıl birbirine bağlayacağımı ve oluşturduğum akışı bir API olarak nasıl dışa aktarabileceğimi adım adım açıkla.
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/langflow/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

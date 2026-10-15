@@ -1,6 +1,6 @@
 # Was ist Secrets?
 
-*Glossar · Dev · Zuletzt aktualisiert: 4. Juni 2026*
+*Dev · Zuletzt aktualisiert: 4. Juni 2026*
 
 Dies sind die Passwörter, API-Schlüssel und Zugangscodes, die Softwareanwendungen für den sicheren Betrieb benötigen.
 

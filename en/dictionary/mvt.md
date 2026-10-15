@@ -1,6 +1,6 @@
 # What is Multivariate Testing?
 
-*Dictionary · Dev · Last updated: September 27, 2026*
+*Dev · Last updated: September 27, 2026*
 
 > Multivariate Testing
 

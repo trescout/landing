@@ -1,6 +1,6 @@
 # ¿Qué es Kernels?
 
-*Glosario · Dev · Última actualización: 30 de julio de 2026*
+*Dev · Última actualización: 30 de julio de 2026*
 
 La parte más básica del sistema operativo que gestiona la comunicación entre el hardware y el software de la computadora.
 

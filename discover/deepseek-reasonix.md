@@ -49,7 +49,7 @@ reasonix run "implement the TODOs in main.go"
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terminal üzerinde çalışan bu yapay zekâ kodlama ajanı ile çalışırken, projemin mevcut yapısını ve hedeflerini göz önünde bulundurarak kod önerileri geliştir. Önek önbelleği kararlılığını kullanarak uzun süreli oturumlarımızda tutarlı ve düşük maliyetli yanıtlar üretmeye odaklan. Kod yazarken veya hata ayıklarken, projenin gereksinimlerine uygun, modüler ve temiz çözümler sun.
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/deepseek-reasonix/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

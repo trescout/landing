@@ -1,6 +1,6 @@
 # Model Context Protocol nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 2 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 2 Ağustos 2026*
 
 > Model Context Protocol
 
@@ -52,8 +52,8 @@ Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan son
 - [Context Mode](https://trescout.com/discover/context-mode/)
 - [Unity MCP](https://trescout.com/discover/unity-mcp/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/model-context-protocol-mcp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

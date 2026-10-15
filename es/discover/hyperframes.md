@@ -47,7 +47,7 @@ npx hyperframes render       # render to MP4
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Usando /hyperframes, cree una introducción de producto de 10 segundos con un título que aparece gradualmente, un video de fondo y una música de fondo sutil.
 

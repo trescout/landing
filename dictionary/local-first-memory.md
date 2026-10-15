@@ -1,6 +1,6 @@
 # Local-first Memory nedir, ne demek?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 22 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 22 Eylül 2026*
 
 Local-first memory (Türkçe karşılığıyla **önce-yerel bellek**), verinin cihazda durduğu yaklaşımdır.
 
@@ -66,8 +66,8 @@ Cihaz şifrelemesiyle evet. Kayıp cihaza karşı kilit şarttır.
 - [Memory System](https://trescout.com/dictionary/memory-system/)
 - [Self-hosting](https://trescout.com/dictionary/self-hosting/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/local-first-memory/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -39,7 +39,7 @@ npx skills add blader/humanizer --global
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Transform the text below into a more natural and human-written narrative by removing expressions that sound like they were written by AI, excessive sales language, and unnecessary filler words. Without changing the technical information, numerical data, and proper nouns in the original text, only make the sentence structure and style more fluent.
 

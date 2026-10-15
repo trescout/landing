@@ -58,7 +58,7 @@ tuicr pr 125
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu kod incelemesini incele ve bulduğun hataları veya iyileştirme önerilerini, her bir yorumun dosya yolu ve satır numarasıyla belirtildiği yapılandırılmış bir liste halinde hazırla. İncelemeyi yaparken tuicr üzerinden kopyaladığım markdown formatındaki veriyi baz alarak, kodun okunabilirliğini ve performansını artıracak somut öneriler sun.
 
@@ -82,4 +82,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tuicr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

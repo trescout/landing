@@ -1,6 +1,6 @@
 # What is System Design?
 
-*Dictionary · Dev · Last updated: June 29, 2026*
+*Dev · Last updated: June 29, 2026*
 
 The process of planning the architecture, communication of parts and data flow of large and complex software systems.
 

@@ -1,6 +1,6 @@
 # Was ist Remote Code Execution?
 
-*Glossar · Dev · Zuletzt aktualisiert: 6. September 2026*
+*Dev · Zuletzt aktualisiert: 6. September 2026*
 
 > RCE
 

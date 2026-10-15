@@ -1,6 +1,6 @@
 # ¿Qué es Vibe Coding?
 
-*Glosario · AI · Última actualización: 19 de junio de 2026*
+*AI · Última actualización: 19 de junio de 2026*
 
 Es un enfoque para escribir código con inteligencia artificial simplemente describiendo lo que se quiere, sin entrar en detalles técnicos.
 

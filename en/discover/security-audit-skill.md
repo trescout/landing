@@ -38,7 +38,7 @@ npx skills add https://github.com/cloudflare/security-audit-skill \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Initiate a comprehensive security audit for this codebase. Map the architecture to identify entry points, then perform a multi-stage scan to detect vulnerabilities. Subject each potential vulnerability you find to an independent verification process, classifying them as verified, requiring verification, or rejected. Report the results in a structured format and document all findings according to the project's security standards.
 

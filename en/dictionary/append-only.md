@@ -1,6 +1,6 @@
 # What is Append-only?
 
-*Dictionary · Data · Last updated: August 24, 2026*
+*Data · Last updated: August 24, 2026*
 
 It is a recording method in which data can only be appended, cannot be changed or deleted.
 

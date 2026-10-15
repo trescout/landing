@@ -28,7 +28,7 @@ Quando você adiciona a habilidade ao seu agente de IA (etapas em tasteskill.dev
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o Taste Skills executando o comando 'npx skills add https://github.com/Leonxlnx/taste-skill' no terminal; Em seguida, peça ao agente que siga essa habilidade na hora de fazer a interface e produza um design premium com melhor layout, tipografia e animação.
 

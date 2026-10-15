@@ -34,7 +34,7 @@ python3 -m http.server 8000
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 G0DM0D3 arayüzünü kullanarak, belirlediğim model sağlayıcıları (OpenRouter, Venice veya yerel sunucu) üzerinden çoklu model yarıştıran ULTRAPLINIAN motorunu aktif et. Kırmızı takım araştırmalarım için Parseltongue giriş karıştırma tekniklerini uygula ve AutoTune özelliği ile sorgu bağlamına en uygun örnekleme parametrelerini otomatik olarak yapılandır.
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/g0dm0d3/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

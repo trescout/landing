@@ -34,7 +34,7 @@ obliteratus ui
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Analyze rejection behaviors in an AI model and surgically remove the internal structures that trigger these behaviors without harming the model's general language capabilities. During the process, use techniques such as SVD decomposition to identify constraints and ensure the model responds without artificial obstacles.
 

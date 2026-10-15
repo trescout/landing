@@ -1,6 +1,6 @@
 # Reinforcement Learning nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 31 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 31 Ağustos 2026*
 
 Yapay zekânın deneme yanılma yoluyla ve ödül mekanizmasını kullanarak doğru kararlar vermeyi öğrenmesidir.
 
@@ -40,8 +40,8 @@ Supervised learning ile karıştırılabilir; onda doğru cevap verilir, bunda i
 - [Miles](https://trescout.com/discover/miles/)
 - [Microduck Rl](https://trescout.com/discover/microduck-rl/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/reinforcement-learning/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

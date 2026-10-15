@@ -1,6 +1,6 @@
 # Was ist Web Crawlers?
 
-*Glossar · Data · Zuletzt aktualisiert: 31. August 2026*
+*Data · Zuletzt aktualisiert: 31. August 2026*
 
 Dabei handelt es sich um Software-Bots, die automatisch Seiten im Internet durchsuchen und Daten aufzeichnen.
 

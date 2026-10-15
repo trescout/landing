@@ -45,7 +45,7 @@ pnpm dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PI-Desktop üzerinde çalışıyorum. Yerel projelerimdeki kodları analiz etmen, dosyaları düzenlemen ve terminal komutlarını çalıştırman için sana yetki veriyorum. İşlemleri yaparken önce bir uygulama planı oluşturmanı, kritik değişikliklerde benden onay almanı ve tüm süreci şeffaf bir şekilde raporlamanı istiyorum. Kod yazarken mevcut proje yapısına sadık kal ve hata durumunda gerekli testleri yaparak ilerle.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pi-desktop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

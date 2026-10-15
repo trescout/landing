@@ -1,6 +1,6 @@
 # What is Autonomous Robotics?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 Autonomous robotics is the science of machines that operate without external support.
 

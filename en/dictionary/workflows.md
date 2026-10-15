@@ -1,6 +1,6 @@
 # What is Workflows?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Workflow (referred to in Turkish as iş akışı) is the structured sequence of steps in a process.
 

@@ -27,7 +27,7 @@ npm install page-agent
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PageAgent kullanarak web sayfasındaki etkileşimleri doğal dil komutlarıyla yönetmek istiyorum. Belirlediğim yapay zekâ modelini kullanarak sayfa üzerindeki butonlara tıklama, form doldurma veya veri girişi gibi işlemleri gerçekleştirmesini istiyorum.
 
@@ -51,4 +51,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/page-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

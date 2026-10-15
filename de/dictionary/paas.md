@@ -1,6 +1,6 @@
 # Was ist PaaS?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 > Platform as a Service
 

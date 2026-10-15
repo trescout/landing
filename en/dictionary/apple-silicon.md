@@ -1,6 +1,6 @@
 # What is Apple Silicon?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Apple Silicon is Apple's in-house design for Mac and iPad devices; It is an ARM-based high-performance SoC (System on a Chip) processor family that brings together the CPU, GPU, Neural Engine and Unified Memory on a single silicon wafer.
 

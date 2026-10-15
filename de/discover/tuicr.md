@@ -58,7 +58,7 @@ tuicr pr 125
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sehen Sie sich diese Codeüberprüfung an und erstellen Sie eine strukturierte Liste aller gefundenen Fehler oder Verbesserungsvorschläge, wobei jeder Kommentar durch Dateipfad und Zeilennummer gekennzeichnet ist. Machen Sie bei der Überprüfung konkrete Vorschläge, die die Lesbarkeit und Leistung des Codes verbessern, basierend auf den Daten im Markdown-Format, die ich von tuicr kopiert habe.
 

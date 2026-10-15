@@ -37,7 +37,7 @@ npx skills add bradautomates/claude-video -g
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want you to analyze the video I shared using the Claude Video tool. Answer the content of the video, its important moments and the questions I ask, based on the visual frames in the video and the audio transcript. If there is no subtitle in the video, convert the audio to text using Whisper API and analyze it by examining the visual details (frames).
 

@@ -35,7 +35,7 @@ npm install -g ruflo@latest
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Ruflo ile entegre bir çalışma ortamındasın. Görevleri yerine getirirken Ruflo'nun sağladığı araçları, hafıza özelliklerini ve ajan sürülerini kullanarak iş akışını optimize et. Başarılı olan kalıplardan öğrenerek sonraki adımları kendi kendine iyileştir ve karmaşık görevleri yönetmek için diğer ajanlarla koordineli çalış.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ruflo/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

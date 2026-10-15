@@ -47,9 +47,9 @@ BONSAI_MODEL=4B ./scripts/start_llama_server.sh
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
-Je souhaite exécuter des modèles d'IA sur mon appareil local à l'aide du projet bonsai-demo. Après avoir cloné le référentiel git requis pour l'installation, je dois définir les informations de mon jeton HuggingFace et télécharger les dépendances et les modèles avec la commande ./setup.sh. Ensuite, en utilisant la commande ./scripts/start_llama_server.sh, je peux mettre en place le serveur local et interagir avec l'IA via le port 8080 via mon navigateur.
+Je souhaite exécuter des modèles d'IA sur mon appareil local à l'aide du projet bonsai-demo. Après avoir cloné le référentiel git requis pour l'installation, je dois définir les informations de mon jeton Hugging Face et télécharger les dépendances et les modèles avec la commande ./setup.sh. Ensuite, en utilisant la commande ./scripts/start_llama_server.sh, je peux mettre en place le serveur local et interagir avec l'IA via le port 8080 via mon navigateur.
 
 ## Termes liés du glossaire
 

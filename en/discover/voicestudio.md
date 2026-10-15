@@ -32,7 +32,7 @@ bun run desktop
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I perform voice cloning, video dubbing, or text-to-speech operations on my local hardware using VoiceStudio? Explain the basic steps I need to follow to manage audio models within the application, perform cloning by adding a new voice sample, and execute multilingual voice synthesis processes in the most efficient way.
 

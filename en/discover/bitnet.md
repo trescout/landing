@@ -50,7 +50,7 @@ python run_inference.py -m models/BitNet-b1.58-2B-4T/ggml-model-i2_s.gguf -p "Yo
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a 1-bit artificial intelligence model on my computer using the BitNet infrastructure. First, guide me through cloning the project with the 'git clone --recursive https://github.com/microsoft/BitNet.git' command and navigating into its directory, creating a Python 3.10 environment with the Conda package manager, and installing the requirements. Next, explain step by step, with enough simplicity for someone who does not know coding to understand, how to download the microsoft/BitNet-b1.58-2B-4T-gguf model via the open-source model platform Hugging Face, set it up using 'setup_env.py', and finally launch chat mode using the 'run_inference.py' script.
 

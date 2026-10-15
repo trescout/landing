@@ -1,6 +1,6 @@
 # ¿Qué es Knowledge Graph Engine?
 
-*Glosario · Data · Última actualización: 22 de junio de 2026*
+*Data · Última actualización: 22 de junio de 2026*
 
 Infraestructura de software que establece conexiones complejas entre información y permite consultarla.
 

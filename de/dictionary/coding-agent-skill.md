@@ -1,6 +1,6 @@
 # Was ist Coding Agent Skill?
 
-*Glossar · AI · Zuletzt aktualisiert: 7. Oktober 2026*
+*AI · Zuletzt aktualisiert: 7. Oktober 2026*
 
 Dies sind Fähigkeitsdefinitionen, bei denen KI-basierte Software-Agenten auf Softwareentwicklungsschritte wie das Schreiben von Code, das Debugging, das Testen und das Bereitstellen von Projekten spezialisiert sind.
 

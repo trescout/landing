@@ -1,6 +1,6 @@
 # Was ist Embedding?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um die Umwandlung von Wörtern oder Daten in numerische Zeichenfolgen, damit diese von künstlicher Intelligenz verstanden werden können.
 

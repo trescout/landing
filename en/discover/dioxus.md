@@ -46,7 +46,7 @@ dx bundle
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I develop an application in Rust for web, desktop or mobile platforms using Dioxus? Explain step by step the process of creating a simple user interface using component-based structure, state management, and instant code refresh feature with 'dx serve' command.
 

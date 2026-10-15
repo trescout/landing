@@ -15,7 +15,7 @@ A Universidade de Entrevista de Codificação oferece um plano de estudo abrange
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Estou me preparando para uma entrevista de engenharia de software usando o currículo da Coding Interview University. Crie um plano de estudo diário para que eu aprenda as estruturas de dados, algoritmos e tópicos de ciência da computação abordados neste recurso. Você pode preparar um roteiro do nível iniciante ao avançado que inclua os assuntos básicos que preciso aprender, a ordem em que devo estudá-los e os recursos com os quais posso praticar?
 

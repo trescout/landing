@@ -1,6 +1,6 @@
 # Systematic Trading nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 29 Temmuz 2026*
+*Veri & Altyapı · Son güncelleme: 29 Temmuz 2026*
 
 Yatırım kararlarının duygulardan arındırılmış, önceden belirlenmiş kurallar ve disiplinli bir plan çerçevesinde verilmesidir.
 
@@ -42,8 +42,8 @@ Evet, ancak sağlam bir strateji ve teknik bilgi gerektirir.
 
 - [Awesome Systematic Trading](https://trescout.com/discover/awesome-systematic-trading/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/systematic-trading/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

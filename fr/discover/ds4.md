@@ -56,7 +56,7 @@ make cpu              # CPU-only diagnostics build
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à choisir le modèle DeepSeek ou GLM le plus approprié en fonction des fonctionnalités matérielles de mon système. Quelle commande de téléchargement dois-je utiliser et comment puis-je surmonter le goulot d'étranglement de la mémoire en activant la fonction de streaming sur SSD ? Expliquez également les paramètres de configuration de base requis pour que j'utilise ce système d'intelligence artificielle que j'ai installé en tant que serveur local.
 

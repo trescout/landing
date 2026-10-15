@@ -30,7 +30,7 @@ comfy install
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero criar um fluxo de trabalho baseado em nós para meu processo de produção visual. Projete uma estrutura modular com conexões lógicas do nó de entrada à saída que me permitirá obter uma imagem de qualidade profissional usando modelos como Difusão Estável ou Fluxo. Explique passo a passo os nós básicos, etapas de carregamento do modelo e otimizações de parâmetros que preciso.
 

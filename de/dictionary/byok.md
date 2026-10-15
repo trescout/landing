@@ -1,6 +1,6 @@
 # Was ist BYOK?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 > Bring Your Own Key
 

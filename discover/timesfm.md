@@ -40,7 +40,7 @@ git clone https://github.com/google-research/timesfm.git
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 TimesFM kütüphanesini kullanarak zaman serisi tahminleme yapmak istiyorum. Google tarafından geliştirilen bu temel modelin 2.5 sürümü ile 200M parametreli yapıyı nasıl yapılandırabilirim? Özellikle modelin derlenmesi (compile) aşamasında max_context ve max_horizon değerlerini nasıl belirlemeliyim ve tahminleme (forecast) fonksiyonuna veri girişlerini hangi formatta sağlamalıyım? Örnek bir kod yapısı ile açıklayabilir misin?
 
@@ -61,4 +61,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/timesfm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

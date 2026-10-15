@@ -1,6 +1,6 @@
 # PDF Inspector nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
 
 **PDF Inspector** (PDF denetim ve inceleme aracı), PDF belgelerinin iç yapısını, nesne hiyerarşisini (Object Tree), gömülü fontlarını, renk uzaylarını, meta verilerini ve potansiyel güvenlik risklerini kod ve bayt düzeyinde inceleyen teknik analiz yazılımıdır.
 
@@ -90,8 +90,8 @@ Hayır; parser belgenin içeriğindeki metin ve veriyi çıkarmaya odaklanırken
 
 - [PDF Inspector](https://trescout.com/discover/pdf-inspector/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/pdf-inspector/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

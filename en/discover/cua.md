@@ -47,7 +47,7 @@ lume run macos-sequoia-vanilla:latest
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a computer usage agent using the CUA infrastructure. Help me set up the basic Python structure that will allow my agent to interact with desktop applications in the background, make mouse clicks, and send keyboard input. Create a sample code sketch that runs commands and takes screenshots in a Linux environment using the CUA Sandbox SDK.
 

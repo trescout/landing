@@ -1,6 +1,6 @@
 # What is Memory?
 
-*Dictionary · AI · Last updated: June 3, 2026*
+*AI · Last updated: June 3, 2026*
 
 It is the ability of artificial intelligence to store past interactions and personalize its future responses based on this information.
 

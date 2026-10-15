@@ -11,7 +11,7 @@
 
 - **2 Ağustos 2026:** Yıldız 1.101 → 1.632, son sürüm v0.0.188 (26 Haziran 2026).
 
-- **Kimin için:** Çoklu AI ajanı çalıştıran geliştiriciler
+- **Kimin için:** Çoklu yapay zekâ ajanı çalıştıran geliştiriciler
 - **Zorluk:** Orta–ileri
 - **Ne sunar:** Ajanlar için deterministik denetim
 - **Ücret:** Ücretsiz · açık kaynak (MIT)
@@ -25,7 +25,7 @@
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code'a 'claude plugin marketplace add a5c-ai/babysitter' ve ardından 'claude plugin install --scope user babysitter@a5c.ai' komutlarıyla Babysitter eklentisini kur, sonra '/babysitter:call' komutuyla adım adım denetlenen bir iş akışı başlat.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/babysitter/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

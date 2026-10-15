@@ -40,7 +40,7 @@ Este pacote orienta agentes; ainda é necessário verificar o código gerado, o 
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Primeiro apresente o plano, as incertezas e os arquivos afetados por esta tarefa. Depois sugira a abordagem mais simples e faça apenas as alterações necessárias para o objetivo.
 

@@ -1,6 +1,6 @@
 # Static Site Generator nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 3 Ağustos 2026*
+*Geliştirme · Son güncelleme: 3 Ağustos 2026*
 
 Hazır içerikleri ve şablonları alıp, kullanıcıya sunulmaya hazır sabit web sayfalarına dönüştüren araç.
 
@@ -38,8 +38,8 @@ Hayır, veritabanı gerektirmez, bu da onu çok hızlı kılar.
 - [Frontend Stack](https://trescout.com/dictionary/frontend-stack/)
 - [CMS](https://trescout.com/dictionary/cms/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/static-site-generator/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

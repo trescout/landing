@@ -1,6 +1,6 @@
 # Server Hardening nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 10 Temmuz 2026*
+*Geliştirme · Son güncelleme: 10 Temmuz 2026*
 
 Bir sunucudaki gereksiz özellikleri kapatarak ve güvenlik ayarlarını sıkılaştırarak saldırı riskini azaltma işlemidir.
 
@@ -38,8 +38,8 @@ Sistem güncellemeleri ve yeni servis kurulumları yapıldığında sürekli ola
 
 - [How-To-Secure-A-Linux-Server](https://trescout.com/discover/how-to-secure-a-linux-server/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/server-hardening/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

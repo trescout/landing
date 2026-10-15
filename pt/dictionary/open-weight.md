@@ -1,6 +1,6 @@
 # O que é Open Weight?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 > Pesos de Modelo Publicamente Acessíveis
 

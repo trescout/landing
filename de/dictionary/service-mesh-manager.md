@@ -1,6 +1,6 @@
 # Was ist Service Mesh Manager?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Der Service-Mesh-Manager ist eine Konsole und ein Toolset, das den Dienstverkehr überwacht und verwaltet.
 

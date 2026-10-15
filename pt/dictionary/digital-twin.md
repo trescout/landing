@@ -1,6 +1,6 @@
 # O que é um Gêmeo Digital?
 
-*Glossário · Data · Última atualização: 22 de setembro de 2026*
+*Data · Última atualização: 22 de setembro de 2026*
 
 > Gêmeo Digital
 

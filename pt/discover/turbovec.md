@@ -34,7 +34,7 @@ cargo add turbovec
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero usar a biblioteca turbovec para acelerar as operações de pesquisa baseadas em vetores em meus projetos Python ou Rust. Ajude-me a configurar um sistema RAG ou estrutura de banco de dados vetorial usando as funções básicas de indexação, anexação de dados e pesquisa desta ferramenta construída no algoritmo TurboQuant. Explique com código de exemplo como configurar índices de 4 bits, o que economiza memória especificamente, e como aplicar recursos de filtragem durante a pesquisa.
 

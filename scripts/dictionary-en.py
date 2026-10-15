@@ -367,7 +367,7 @@ def build(term, chrome):
     govde = (f'<body>\n<a class="skip-link" href="#main">{D["atla"]}</a>\n' + nav +
              '\n<main id="main">\n<article class="disc">\n'
              f'<a class="disc-back" href="{D["onek"]}/dictionary/">{D["sozluk_geri"]}</a>\n'
-             f'<div class="disc-top"><span class="disc-eyebrow">{D["sozluk"]} · {esc(kat)}</span>{zaman}</div>\n'
+             f'<div class="disc-top"><span class="disc-eyebrow">{esc(kat)}</span>{zaman}</div>\n'
              f'<h1 class="disc-title">{h1_baslik}</h1>\n'
              + (f'<p class="dict-en">{esc(full)}</p>\n' if full else "")
              + f'<p class="disc-lead">{esc(lead)}</p>\n'

@@ -1,6 +1,6 @@
 # Text-to-CAD nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Temmuz 2026*
+*Geliştirme · Son güncelleme: 22 Temmuz 2026*
 
 > Text to Computer-Aided Design
 
@@ -44,8 +44,8 @@ Hayır, mühendislere daha hızlı prototipleme yapma imkanı veren bir yardımc
 
 - [Text to Cad](https://trescout.com/discover/text-to-cad/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/text-to-cad/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

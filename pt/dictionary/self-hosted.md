@@ -1,6 +1,6 @@
 # Self-Hosted: Homelabs, repatriação da nuvem e infraestrutura própria
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 Self-hosted (auto-hospedagem) é a prática e arquitetura de engenharia que consiste em instalar, operar e manter softwares e serviços web em servidores físicos próprios em vez de alugar plataformas SaaS de terceiros.
 

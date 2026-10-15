@@ -1,6 +1,6 @@
 # Bundler nedir, ne işe yarar?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Bundler (modül paketleyici), modern web ve yazılım geliştirme ekosisteminde yüzlerce bağımsız parçaya bölünmüş kaynak kodları (JavaScript, TypeScript, CSS, HTML, grafik ve yazı tipi varlıkları) ile harici kütüphane bağımlılıklarını analiz eden, bu varlıkları tarayıcıların en hızlı ve verimli biçimde çalıştırabileceği optimize dosya paketlerine (bundle) dönüştüren geliştirme aracıdır.
 
@@ -89,8 +89,8 @@ Uygulama kodunun tek bir büyük dosya yerine parçalı dosyalara bölünmesini 
 
 - [Webpack](https://trescout.com/discover/webpack/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/bundler/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

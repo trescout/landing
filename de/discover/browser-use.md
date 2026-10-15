@@ -35,7 +35,7 @@ uv run agent.py
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Um browserbasierte Prozesse zu automatisieren, installieren Sie die Bibliothek mit dem Befehl uv add browser-use, fügen Sie Ihren OpenAI-API-Schlüssel zur .env-Datei hinzu und führen Sie den Browser-Agenten mit dem Befehl uv run agent.py aus.
 

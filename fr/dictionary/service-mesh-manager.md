@@ -1,6 +1,6 @@
 # Qu'est-ce que Service Mesh Manager ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Le gestionnaire de maillage de services (service mesh manager) est une console et un ensemble d'outils qui surveillent et gèrent le trafic des services.
 

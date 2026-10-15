@@ -29,7 +29,7 @@ git clone --recurse-submodules <this repo>
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Madeira projesini kurmak ve çalıştırmak istiyorum. Kod bilmeyen biri olarak bana bu uyumluluk katmanını jailbreaksiz iPhone cihazımda nasıl yapılandıracağımı adım adım açıklar mısın? Gerekli olan hata ayıklayıcıyı ve sideloading adımlarını nasıl yapacağımı anlat.
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/madeira/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

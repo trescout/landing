@@ -35,7 +35,7 @@ pip install "cactus-needle[gpu]"
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are an artificial intelligence assistant. Analyze the text coming from the user and make the necessary tool calls using the Python functions I defined or extract the desired data from the text in structured JSON format. Always consider the confidence score provided by the model in your answers and confirm the transaction at low confidence levels.
 

@@ -30,7 +30,7 @@ brew tap abue-ammar/tinycast
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Para activar las funciones de inteligencia artificial en Tinycast, defina su propia clave API o la información de una cuenta de IA configurada desde el menú de Ajustes. Después de este proceso, podrá iniciar chats directamente desde la paleta y realizar operaciones rápidas como corrección gramatical, resumen o traducción en textos seleccionados.
 

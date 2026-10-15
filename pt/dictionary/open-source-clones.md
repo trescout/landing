@@ -1,6 +1,6 @@
 # O que é Open-Source Clones?
 
-*Glossário · Dev · Última atualização: 15 de junho de 2026*
+*Dev · Última atualização: 15 de junho de 2026*
 
 São versões semelhantes de softwares populares criados pela cópia pública de seus códigos-fonte.
 

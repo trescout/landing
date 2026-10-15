@@ -41,7 +41,7 @@ restic init --repo /path/to/repo
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero fazer backup dos meus dados com segurança usando Restic. Como posso exportar uma pasta local ou diretório específico para um armazenamento de backup criptografado? Você pode explicar passo a passo como criar o repositório de backup e iniciar o processo de backup inicial para que meus dados sejam criptografados?
 

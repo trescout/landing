@@ -49,7 +49,7 @@ kilo run --auto "run tests and fix any failures"
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 En tant qu'agent de développement logiciel, j'ai besoin de vous pour gérer mes processus de génération de code en langage naturel, de débogage ou de planification d'architecture dans mon répertoire de projet actuel. Je souhaite que vous choisissiez celui qui convient le mieux à ma tâche parmi plus de 500 modèles proposés par Kilo, que vous examiniez les codes que vous avez écrits avec votre propre mécanisme d'auto-audit et que vous les livriez conformément aux normes de performance et de sécurité.
 

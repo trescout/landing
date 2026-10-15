@@ -1,6 +1,6 @@
 # O que é In-process Vector Database?
 
-*Glossário · Data · Última atualização: 17 de junho de 2026*
+*Data · Última atualização: 17 de junho de 2026*
 
 É um sistema rápido de armazenamento de dados que mantém os dados de inteligência artificial diretamente na memória da própria aplicação, sem precisar ir para um servidor separado.
 

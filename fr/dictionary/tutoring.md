@@ -1,6 +1,6 @@
 # Qu'est-ce que Tutoring ?
 
-*Glossaire · AI · Dernière mise à jour : 19 septembre 2026*
+*AI · Dernière mise à jour : 19 septembre 2026*
 
 Le tutorat est un processus d'enseignement personnalisé, adapté au niveau de connaissances, aux lacunes et au rythme d'apprentissage d'un élève.
 

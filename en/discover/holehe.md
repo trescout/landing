@@ -43,7 +43,7 @@ holehe test@gmail.com
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the Holehe tool, check which platforms the [E-MAIL_ADRESI] address is registered on and present the results in a list.
 

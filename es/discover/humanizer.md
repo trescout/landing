@@ -39,7 +39,7 @@ npx skills add blader/humanizer --global
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Transforma el siguiente texto en una narrativa más natural y humana, eliminando expresiones que suenan como si hubieran sido escritas por inteligencia artificial, lenguaje de ventas excesivo y palabras de relleno innecesarias. Sin alterar la información técnica, los datos numéricos ni los nombres propios del texto original, haz que la estructura de las oraciones y el estilo sean más fluidos.
 

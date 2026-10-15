@@ -35,7 +35,7 @@ Empaquetado en el estándar agentkills.io; Puedes agregarlo como una habilidad a
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Agregue esta biblioteca comunitaria de habilidades de ciberseguridad a Claude Code ejecutando 'npx skills add mukul975/Anthropic-Cybersecurity-Skills' en la terminal (tenga en cuenta que este no es el proyecto oficial de Anthropic), luego indique qué habilidades de seguridad están listas para usar.
 

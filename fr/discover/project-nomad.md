@@ -22,7 +22,7 @@ Projet N.O.M.A.D ; Il s'agit d'un projet de construction informatique autonome e
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Sur un système basé sur Debian (Ubuntu recommandé), collez et exécutez la commande d'installation ci-dessous dans le terminal, puis ouvrez http://localhost:8080 depuis le navigateur pour m'aider à utiliser le serveur d'informations hors ligne.
 

@@ -1,6 +1,6 @@
 # What is NSA?
 
-*Dictionary · Data · Last updated: September 1, 2026*
+*Data · Last updated: September 1, 2026*
 
 > National Security Agency
 

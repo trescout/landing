@@ -26,7 +26,7 @@ pip install git+https://github.com/google-deepmind/weathernext.git@v0.3.0
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich muss mit dem WeatherNext-Modell eine mittelfristige Wettervorhersage für eine bestimmte Region erstellen. Wie kann ich Modellgewichte über Google Cloud Bucket laden und den Vorhersagezyklus durch die Verarbeitung von Wetterdaten (wie Temperatur, Windgeschwindigkeit) starten? Können Sie die Schritte, die zur Hurrikanverfolgung erforderlich sind, konkret erläutern?
 

@@ -37,7 +37,7 @@ http://localhost:8080
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo editar, convertir y fusionar mis documentos PDF usando la herramienta Stirling-PDF? Guíame sobre cómo hacer el uso más eficiente de más de 50 herramientas y ayúdame a automatizar mis flujos de trabajo, manteniendo mis documentos seguros localmente.
 

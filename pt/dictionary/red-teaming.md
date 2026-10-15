@@ -1,6 +1,6 @@
 # O que é Red Teaming?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Red teaming, o teste equivalente em português como equipe vermelha, é um método de teste que consiste em agir como um invasor para encontrar vulnerabilidades.
 

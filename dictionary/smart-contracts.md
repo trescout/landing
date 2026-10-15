@@ -1,6 +1,6 @@
 # Smart Contracts nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 18 Ağustos 2026*
+*Geliştirme · Son güncelleme: 18 Ağustos 2026*
 
 Belirli koşullar sağlandığında otomatik olarak çalışan ve aracı gerektirmeyen dijital sözleşmelerdir.
 
@@ -42,8 +42,8 @@ Kodun hatasız yazılması gerekir; hatalı kodlar açık oluşturabilir.
 
 - [Genlayer Project Boilerplate](https://trescout.com/discover/genlayer-project-boilerplate/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/smart-contracts/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

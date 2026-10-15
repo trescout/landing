@@ -1,6 +1,6 @@
 # Qu'est-ce que Testing Framework ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Un framework de test (ou cadre de test) est une infrastructure prête à l'emploi permettant d'écrire et d'exécuter des tests.
 

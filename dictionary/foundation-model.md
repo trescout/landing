@@ -1,6 +1,6 @@
 # Foundation Model nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
 Birçok farklı uygulama için temel oluşturan, geniş kapsamlı eğitilmiş ana yapay zekâ modelleridir.
 
@@ -47,8 +47,8 @@ Genel işler için yeterlidir ancak profesyonel ihtiyaçlar için genellikle üz
 - [Lingbot Map](https://trescout.com/discover/lingbot-map/)
 - [Needle](https://trescout.com/discover/needle/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/foundation-model/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

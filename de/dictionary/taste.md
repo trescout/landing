@@ -1,6 +1,6 @@
 # Was ist Taste?
 
-*Glossar · AI · Zuletzt aktualisiert: 7. August 2026*
+*AI · Zuletzt aktualisiert: 7. August 2026*
 
 Es ist die Fähigkeit, die ästhetische und funktionale Qualität eines technologischen Produkts oder Designs zu unterscheiden.
 

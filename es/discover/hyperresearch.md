@@ -28,7 +28,7 @@ pip install hyperresearch && hyperresearch install
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un experto en investigación profunda. Utilizando la herramienta Hyperresearch, prepara un informe exhaustivo sobre [ESCRIBE AQUÍ TU TEMA DE INVESTIGACIÓN]. Mantén la imparcialidad durante el proceso de investigación, verifica todas las afirmaciones con fuentes y añade los datos obtenidos a la base de conocimientos permanente. Al crear el informe, prioriza las fuentes académicas y técnicas, analiza la información contradictoria y resume los resultados de forma clara.
 

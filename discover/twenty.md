@@ -16,7 +16,7 @@
 
 - **Kimin için:** Kendi CRM'ini kurmak isteyen teknik ekipler
 - **Zorluk:** İleri · self-host (geliştirici gerekir)
-- **Ne sunar:** Özelleştirilebilir, AI destekli CRM
+- **Ne sunar:** Özelleştirilebilir, yapay zekâ destekli CRM
 - **Ücret:** Açık kaynak · self-host ücretsiz
 - **Lisans:** Standart-dışı (NOASSERTION) · ayrıntı aşağıda
 
@@ -24,7 +24,7 @@
 
 - Salesforce'a **ücretsiz ve açık kaynaklı** bir alternatif.
 - Self-host seçeneğiyle verileriniz üzerinde **tam kontrol**.
-- AI destekli modern iş akışları.
+- Yapay zekâ destekli modern iş akışları.
 - İş ihtiyaçlarınıza göre uyarlanabilir esnek yapı taşları.
 
 ## Kurulum
@@ -69,7 +69,7 @@ Genellikle Docker ile kendi sunucunuza kurulur; kurulum adımları dokümantasyo
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Twenty adlı açık kaynaklı CRM'i kurmak istiyorum; terminalde 'npx create-twenty-app my-app' komutuyla yeni bir uygulama oluştur, ardından 'npx twenty app:publish --private' ile çalışma alanıma yayınla. Self-hosting için Docker Compose ile nasıl çalıştıracağımı da anlat.
 
@@ -92,4 +92,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/twenty/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

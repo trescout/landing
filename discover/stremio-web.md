@@ -37,7 +37,7 @@ docker run -p 8080:8080 stremio-web
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Stremio Web arayüzünü kullanarak dizi ve film izleme deneyimimi nasıl kişiselleştirebilirim? Eklentileri nasıl yönetebileceğim, izleme listemi nasıl senkronize edeceğim ve klavye kısayollarını kullanarak oynatıcıyı nasıl daha verimli kontrol edebileceğim konusunda bana rehberlik et.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stremio-web/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

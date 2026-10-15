@@ -38,7 +38,7 @@ make dev
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero instalar a ferramenta Flowsint. Ajude-me a concluir a instalação executando git clone https://github.com/reconurge/flowsint.git, cdflowsint e make prod comandos respectivamente em um sistema com Docker e Make instalados. Eu sei que preciso criar uma conta em http://localhost:5173/register após a instalação, explique as etapas básicas que posso encontrar neste processo.
 

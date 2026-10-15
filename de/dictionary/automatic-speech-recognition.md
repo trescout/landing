@@ -1,6 +1,6 @@
 # Was ist Automatic Speech Recognition?
 
-*Glossar · AI · Zuletzt aktualisiert: 29. September 2026*
+*AI · Zuletzt aktualisiert: 29. September 2026*
 
 > ASR
 

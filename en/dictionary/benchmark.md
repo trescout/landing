@@ -1,6 +1,6 @@
 # What is Benchmark?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 A benchmark is the measurement and comparison of performance using a standard test.
 

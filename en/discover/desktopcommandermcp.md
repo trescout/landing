@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/wonderwhy-er/DesktopCommanderMCP/re
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want you to use Desktop Commander MCP tools to perform file management, terminal commands and document editing on my computer. Please help me by enabling the capabilities to search the file system, manage processes via the terminal, and make necessary changes to documents such as Excel or PDF when I need it.
 

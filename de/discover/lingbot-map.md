@@ -44,7 +44,7 @@ python demo.py --model_path /path/to/lingbot-map-long.pt \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit LingBot-Map eine 3D-Szene aus Streaming-Daten erstellen. Ich habe die Installation abgeschlossen und meine Modelldatei ist fertig. Wie kann ich die Visualisierungsoberfläche in meinem lokalen Browser mit dem Befehl starten, der zum Ausführen der Courthouse-Instanz erforderlich ist?
 

@@ -1,6 +1,6 @@
 # ¿Qué es Agentic Workflows?
 
-*Glosario · AI · Última actualización: 27 de junio de 2026*
+*AI · Última actualización: 27 de junio de 2026*
 
 Las herramientas de inteligencia artificial toman sus propias decisiones y completan un trabajo de principio a fin sin intervención humana.
 

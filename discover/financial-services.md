@@ -27,7 +27,7 @@ scripts/deploy-managed-agent.sh gl-reconciler
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Finansal analizler ve değerleme modelleri oluşturmak için Claude Cowork eklentisini kur ve piyasa araştırması ile gelir değerlendirmesi süreçlerini başlat.
 
@@ -48,4 +48,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/financial-services/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

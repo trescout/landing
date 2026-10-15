@@ -37,7 +37,7 @@ fprime-bootstrap project
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um projeto de sistema embarcado utilizando o framework F' desenvolvido pela NASA. Ao criar a arquitetura do meu projeto, como posso estabelecer uma estrutura baseada em componentes, definir interfaces e gerenciar filas e threads de mensagens com este framework? Por favor, sugira um fluxo de desenvolvimento usando as ferramentas de modelagem fornecidas pela estrutura F'.
 

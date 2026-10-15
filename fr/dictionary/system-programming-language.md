@@ -1,6 +1,6 @@
 # Qu'est-ce que System Programming Language ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Un langage de programmation système est un langage qui communique avec le matériel.
 

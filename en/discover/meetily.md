@@ -31,7 +31,7 @@ pnpm install
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 By using this tool that locally processes my meeting recordings, I want to convert my audio transcripts into text and extract summaries from these texts in a way that protects my privacy. How can I create the most efficient meeting notes with local models, while ensuring my data doesn't leave my device?
 

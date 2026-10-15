@@ -1,6 +1,6 @@
 # ¿Qué es Operating System for Robotics?
 
-*Glosario · Dev · Última actualización: 30 de junio de 2026*
+*Dev · Última actualización: 30 de junio de 2026*
 
 > ROS
 

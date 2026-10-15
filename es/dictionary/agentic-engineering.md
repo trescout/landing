@@ -1,6 +1,6 @@
 # ¿Qué es Agentic Engineering?
 
-*Glosario · AI · Última actualización: 19 de junio de 2026*
+*AI · Última actualización: 19 de junio de 2026*
 
 Es la disciplina de diseñar sistemas de software autónomos que puedan tomar sus propias decisiones y alcanzar sus objetivos.
 

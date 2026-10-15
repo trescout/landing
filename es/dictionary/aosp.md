@@ -1,6 +1,6 @@
 # ¿Qué es AOSP?
 
-*Glosario · Dev · Última actualización: 19 de septiembre de 2026*
+*Dev · Última actualización: 19 de septiembre de 2026*
 
 > Android Open Source Project
 

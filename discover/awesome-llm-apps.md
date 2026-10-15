@@ -21,7 +21,7 @@ Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zek
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu araçta bulunan yapay zekâ ajanı şablonlarını kullanarak kendi projelerimi geliştirmek istiyorum. Mevcut 100'den fazla örnek arasından, Python tabanlı bir RAG uygulaması veya çoklu ajan sistemi kurmak için izlemem gereken temel adımları ve bu şablonları nasıl özelleştireceğimi adım adım açıklar mısın?
 
@@ -44,4 +44,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-llm-apps/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -34,7 +34,7 @@ docker run --detach --name vaultwarden \
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a instalar o Vaultwarden, uma ferramenta que fornece gerenciamento de senhas em meu próprio servidor. Esta ferramenta é um software de servidor compatível com clientes Bitwarden. Como irei instalar usando Docker, explique passo a passo como configurar os comandos de imagem para puxar e executar, montando um volume para persistir meus dados e levando em consideração os requisitos de HTTPS.
 

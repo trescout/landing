@@ -45,7 +45,7 @@ sudo systemctl start nginx
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 NGINX kullanarak bir web sunucusu veya ters vekil sunucu kurmak istiyorum. Sistemin gereksinimlerini karşılamak için hangi adımları izlemeliyim ve nginx -V komutu ile elde ettiğim modül bilgilerini nasıl yorumlayabilirim? Lütfen kurulum ve yapılandırma sürecinde dikkat etmem gereken temel direktifler konusunda bana rehberlik et.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nginx/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

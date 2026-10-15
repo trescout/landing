@@ -1,6 +1,6 @@
 # Qu'est-ce que ab ?
 
-*Glossaire · Dev · Dernière mise à jour : 1 octobre 2026*
+*Dev · Dernière mise à jour : 1 octobre 2026*
 
 > ApacheBench
 

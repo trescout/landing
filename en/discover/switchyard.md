@@ -45,7 +45,7 @@ curl http://localhost:4000/health
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Act as an AI traffic router for me. Using Switchyard, I want you to distribute the requests of my coding agents like Claude Code or Codex between different models, automatically translate between OpenAI and Anthropic API formats, and monitor all operational metrics. Manage incoming requests with structured routing algorithms and perform A/B testing or load balancing between different models when necessary.
 

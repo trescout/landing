@@ -29,7 +29,7 @@ brew install AIEraDev/tap/clypra
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero fazer uma edição profissional usando o editor de vídeo Clypra. Como posso realizar operações como legendagem automática e reenquadramento inteligente em meus vídeos da maneira mais eficiente, usando o processamento acelerado por hardware e os recursos suportados por inteligência artificial oferecidos pelo aplicativo? Você pode recomendar um fluxo de trabalho passo a passo?
 

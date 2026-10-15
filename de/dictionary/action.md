@@ -1,6 +1,6 @@
 # Was ist Action?
 
-*Glossar · AI · Zuletzt aktualisiert: 4. Juli 2026*
+*AI · Zuletzt aktualisiert: 4. Juli 2026*
 
 Dabei handelt es sich um die konkrete Aktion, die eine künstliche Intelligenz oder Software auf Befehl in der Außenwelt oder innerhalb des Systems ausführt.
 

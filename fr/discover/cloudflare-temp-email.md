@@ -54,7 +54,7 @@ pnpm run deploy
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite configurer le projet de messagerie temporaire open source dreamhunter2333/cloudflare_temp_email exécuté sur Cloudflare avec mon propre domaine. J'ai un compte Cloudflare et un domaine connecté au DNS Cloudflare. Pouvez-vous s'il vous plaît me dire étape par étape comment configurer le routage du routage des e-mails, la base de données D1 et l'interface Cloudflare Pages à partir de zéro via le tableau de bord Cloudflare ? De plus, quelles étapes de configuration dois-je suivre pour transférer les e-mails entrants vers mon bot Telegram ?
 

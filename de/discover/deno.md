@@ -43,7 +43,7 @@ deno run --allow-net server.ts
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte einen Webserver mit der Deno-Laufzeitumgebung erstellen. Wie erstelle ich eine Datei mit dem Namen server.ts in TypeScript, schreibe einen Codeblock, der mithilfe der Deno.serve-Funktion eine einfache Antwort zurückgibt, und führe diesen Server dann aus, indem ich Netzwerkberechtigungen erteile?
 

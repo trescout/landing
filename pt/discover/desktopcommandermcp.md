@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/wonderwhy-er/DesktopCommanderMCP/re
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero que você use as ferramentas Desktop Commander MCP para realizar gerenciamento de arquivos, comandos de terminal e edição de documentos em meu computador. Por favor, ajude-me ativando os recursos de pesquisa no sistema de arquivos, gerenciamento de processos por meio do terminal e realização das alterações necessárias em documentos como Excel ou PDF quando necessário.
 

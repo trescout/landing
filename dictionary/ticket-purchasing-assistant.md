@@ -1,6 +1,6 @@
 # Ticket Purchasing Assistant nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 22 Haziran 2026*
 
 Kullanıcı adına bilet arayıp satın alma işlemlerini gerçekleştiren dijital yardımcı.
 
@@ -42,8 +42,8 @@ Entegrasyon sağlandığı sürece uçak, tren, konser veya sinema bileti alabil
 
 - [biliTickerBuy](https://trescout.com/discover/bilitickerbuy/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ticket-purchasing-assistant/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

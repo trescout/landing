@@ -52,7 +52,7 @@ python -m microduck_rl.enjoy --checkpoint checkpoint.pt
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to train a walking policy for the Microduck robot using Pollen Robotics' microduck_rl library. Could you explain the steps for configuring the MuJoCo environment, initiating the training command with the PPO algorithm, and transferring the resulting control policy to the physical robot?
 

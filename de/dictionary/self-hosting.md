@@ -1,6 +1,6 @@
 # Was ist Self-hosting?
 
-*Glossar · Dev · Zuletzt aktualisiert: 3. Juni 2026*
+*Dev · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um eine Methode zum Hosten von Software auf Ihren eigenen Servern oder Computern.
 

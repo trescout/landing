@@ -1,6 +1,6 @@
 # Was ist Instances?
 
-*Glossar · Dev · Zuletzt aktualisiert: 6. September 2026*
+*Dev · Zuletzt aktualisiert: 6. September 2026*
 
 Dies ist jede einzelne, gleichzeitig laufende Kopie einer Software oder eines Systems.
 

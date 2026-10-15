@@ -1,6 +1,6 @@
 # ¿Qué es OpenStreetMap?
 
-*Glosario · Data · Última actualización: 22 de septiembre de 2026*
+*Data · Última actualización: 22 de septiembre de 2026*
 
 OpenStreetMap (abreviado como OSM) es el mapa del mundo libre y abierto, creado de forma colaborativa por voluntarios.
 

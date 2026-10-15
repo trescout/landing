@@ -32,7 +32,7 @@ La carga automática puede estar sujeta a los términos de uso de las plataforma
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale el repositorio de carga automática social (github.com/dreammis/social-auto-upload) y use su herramienta de línea de comando 'sau' para iniciar sesión primero en mi cuenta con 'sau douyin login', luego cargue automáticamente un video con título y descripción con el comando 'sau douyin upload-video'.
 

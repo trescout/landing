@@ -1,6 +1,6 @@
 # Computer Use 2.0 nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 7 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 7 Ekim 2026*
 
 Yapay zekâ modellerinin bilgisayar ekranını bir insan gibi görerek, fare ve klavye hareketleriyle karmaşık yazılımları ve web sitelerini doğrudan yönetebilme yeteneğinin gelişmiş versiyonudur.
 
@@ -40,8 +40,8 @@ Evet, yapay zekânın işletim sistemiyle konuşmasını sağlayan özel aracı 
 - [VLM](https://trescout.com/dictionary/vlm/)
 - [Sandbox](https://trescout.com/dictionary/sandbox/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/computer-use-2-0/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

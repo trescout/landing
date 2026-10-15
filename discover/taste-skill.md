@@ -16,7 +16,7 @@ Yapay zekâ ajanları arayüz üretirken çoğu zaman şablon odaklı sonuçlar 
 - **14 Eylül 2026:** Yıldız 82.815 → 86.983.
 - **31 Ağustos 2026:** Yıldız 77.614 → 82.815.
 
-- **Kimin için:** AI ile arayüz / frontend üretenler
+- **Kimin için:** Yapay zekâ ile arayüz / frontend üretenler
 - **Zorluk:** Orta · AI agent kullanımı
 - **Format:** Agent Skills (taşınabilir)
 - **Çalışır:** AI agent'ları (frontend üretiminde)
@@ -34,7 +34,7 @@ Skill'i AI agent'ınıza eklediğinizde (adımlar tasteskill.dev adresinde), ara
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terminalde 'npx skills add https://github.com/Leonxlnx/taste-skill' komutunu çalıştırarak Taste Skill becerilerini kur; sonra ajandan arayüz yaparken bu beceriyi takip ederek daha iyi düzen, tipografi ve animasyona sahip premium bir tasarım üretmesini iste.
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/taste-skill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

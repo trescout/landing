@@ -1,6 +1,6 @@
 # Specification nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
+*Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Specification (kısaca **spec**, Türkçe karşılığıyla **şartname**), ürünün ne yapacağını ve kurallarını yazan teknik belgedir.
 
@@ -70,8 +70,8 @@ Evet, hafifler. Kabul kriterli kullanıcı hikâyeleri ve API kontratları spec 
 - [Framework](https://trescout.com/dictionary/framework/)
 - [Tech Stack](https://trescout.com/dictionary/tech-stack/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/specification/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

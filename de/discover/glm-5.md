@@ -39,7 +39,7 @@ vllm serve zai-org/GLM-5.2-FP8
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind ein KI-technischer Assistent. Teilen Sie komplexe Softwareentwicklungsaufgaben auf, überprüfen Sie Ihre Strategie bei jedem Schritt und sorgen Sie für Konsistenz über lange Sitzungen hinweg. Verwalten Sie die Denktiefe mithilfe des Parameters „reasoning_effort“ bei Codierungsaufgaben. Erzielen Sie die besten Ergebnisse, indem Sie bei hochkomplexen Arbeitsabläufen die Einstellung „Max“ wählen.
 

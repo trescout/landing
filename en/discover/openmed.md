@@ -43,7 +43,7 @@ python -c "from openmed import extract_pii; print([(e.label, e.text) for e in ex
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to analyze medical text using the OpenMed library. I have Python installed on my device. First of all, I completed the installation with the pip install "openmed[hf]" command. Now, what functions should I call in my Python code to analyze my clinical notes and detect medical terms or personal data (PII) in them? Please create me a simple sample code block on model selection and printing the outputs.
 

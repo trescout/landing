@@ -33,7 +33,7 @@ npm run dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine Ontologie mit Ontology-Playground entwerfen. Laden Sie die Startervorlage, indem Sie ein Feld wie Einzelhandel, Gesundheitswesen oder Finanzen auswählen. Fügen Sie dieser Vorlage dann neue Entitätstypen hinzu, definieren Sie die Beziehungen zwischen ihnen und zeigen Sie mir die Schritte, die ich zum Exportieren dieses von mir erstellten Modells im RDF/XML-Format benötige.
 

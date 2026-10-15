@@ -1,6 +1,6 @@
 # O que é Object Storage System?
 
-*Glossário · Data · Última atualização: 19 de setembro de 2026*
+*Data · Última atualização: 19 de setembro de 2026*
 
 É um método de armazenamento em larga escala que guarda dados com identificadores únicos em vez de pastas de arquivos.
 

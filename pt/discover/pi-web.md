@@ -36,7 +36,7 @@ pi-web
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero visualizar meu trabalho com o agente de codificação Pi e gerenciar minhas sessões com mais eficiência. Como posso visualizar meus arquivos de sessão local por meio do navegador, editar meu histórico de bate-papo e visualizar meus arquivos de projeto por meio da interface usando a ferramenta Pi Web? Explique passo a passo como posso facilitar a configuração do modelo e o gerenciamento de talentos usando o espaço de trabalho aberto no navegador após a instalação.
 

@@ -51,7 +51,7 @@ tailcat hedef-node 8080
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite configurer un tunnel de transfert de fichiers crypté entre deux serveurs différents sur le réseau maillé Tailscale à l'aide de l'outil Tailcat. Pouvez-vous expliquer comment démarrer l'écouteur côté serveur, comment diffuser l'archive tar à partir de la sortie standard côté client et comment gérer l'authentification tsnet ?
 

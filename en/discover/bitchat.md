@@ -27,7 +27,7 @@ brew install just
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I safely message my close circle when there is no internet, using the Bluetooth mesh and Nostr protocol hybrid structure offered by the Bitchat application? Walk me through step-by-step how to start a local community chat using the IRC-style commands and location-based channel features the app offers.
 

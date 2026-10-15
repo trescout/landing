@@ -23,7 +23,7 @@ Puedes navegar por nuestra página de GitHub según tu plataforma y elegir fáci
 
 ## ¿Cómo usarlo con IA?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Le daré una lista categorizada de aplicaciones gratuitas para Windows, macOS y Linux llamadas "aplicaciones gratuitas increíbles". Revise la lista y sugiera qué aplicaciones gratuitas y de código abierto debería usar según mis necesidades (por ejemplo, sonido, navegador, herramientas de desarrollo, seguridad), con una breve descripción de cada una y en qué plataforma se ejecuta.
 

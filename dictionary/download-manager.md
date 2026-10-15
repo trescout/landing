@@ -1,6 +1,6 @@
 # Download Manager nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 18 Ağustos 2026*
+*Geliştirme · Son güncelleme: 18 Ağustos 2026*
 
 İnternetten dosya indirme sürecini hızlandıran ve kesintiye uğrayan indirmeleri kaldığı yerden devam ettiren bir yardımcı araçtır.
 
@@ -41,8 +41,8 @@ Pek çok ücretsiz ve açık kaynaklı seçeneği mevcuttur.
 
 - [Motrix](https://trescout.com/discover/motrix/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/download-manager/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

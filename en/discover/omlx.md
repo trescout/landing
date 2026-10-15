@@ -66,7 +66,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a local large language model using the Omlx server on my Apple Silicon Mac. Could you explain step by step how to run the server in the background after completing the installation via Homebrew, manage model selection from the menu bar, and connect to this local model via the Cursor code editor or the Python openai library?
 

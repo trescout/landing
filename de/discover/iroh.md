@@ -48,7 +48,7 @@ iroh node id
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe der Iroh-Bibliothek eine Switch-basierte Netzwerkverbindung einrichten. Können Sie eine einfache Beispielcodestruktur erstellen, die zeigt, wie ich einen Endpunkt in Rust erstellen, über einen öffentlichen Schlüssel eine Verbindung zu einem anderen Endpunkt herstellen und einen sicheren Datenfluss mit dem QUIC-Protokoll initiieren kann?
 

@@ -51,7 +51,7 @@ trivy image imaj-adi:etiket
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar un flujo de trabajo de seguridad en GitHub Actions que escanee mi imagen de Docker y mis códigos fuente con Trivy en cada solicitud de inserción y extracción de código (PR). ¿Puede crear un archivo .github/workflows/trivy.yml completo que detenga la compilación solo en vulnerabilidades CRÍTICAS y de ALTO nivel (código de salida 1), cargue los hallazgos en el panel de seguridad de GitHub en formato SARIF y cree un archivo SBOM en formato CycloneDX?
 

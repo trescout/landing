@@ -1,6 +1,6 @@
 # Borrow Checker nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 13 Ekim 2026*
+*Geliştirme · Son güncelleme: 13 Ekim 2026*
 
 Rust dilinde yazılan programların bellek hataları yapmasını engelleyen ve verilerin nasıl kullanıldığını denetleyen mekanizma.
 
@@ -40,8 +40,8 @@ Hayır, sadece derleme aşamasında çalışır ve çalışma zamanında ekstra 
 - [Systems Programming](https://trescout.com/dictionary/systems-programming/)
 - [Memory Management](https://trescout.com/dictionary/memory-management/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/borrow-checker/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

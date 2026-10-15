@@ -1,6 +1,6 @@
 # Jupyter Notebooks nedir, ne işe yarar?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
 
 Jupyter Notebook (Jupyter Not Defteri), Python, R ve Julia gibi dillerde canlı kod çalıştırma, zengin metin, matematiksel formüller ve veri görselleştirmelerini tek bir etkileşimli web dokümanında birleştiren açık kaynaklı hesaplama ortamıdır.
 
@@ -70,8 +70,8 @@ Kodları depoya göndermeden önce hücre çıktılarını temizlemek (Clear All
 - [Cosmos](https://trescout.com/discover/cosmos/)
 - [Train LLM from Scratch](https://trescout.com/discover/train-llm-from-scratch/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/jupyter-notebooks/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

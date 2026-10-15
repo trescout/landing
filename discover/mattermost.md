@@ -40,7 +40,7 @@ http://localhost:8065
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Mattermost platformunu kullanarak yazılım geliştirme ekibimin iletişim süreçlerini nasıl daha verimli hale getirebilirim? Platformun sunduğu iş akışı otomasyonu, sesli görüşme ve ekran paylaşımı gibi özellikleri kullanarak ekip içi iş birliğini güçlendirmek için hangi adımları izlemeliyim?
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mattermost/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

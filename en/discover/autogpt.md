@@ -29,7 +29,7 @@ curl -fsSL https://setup.agpt.co/install.sh -o install.sh && bash install.sh
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Create an autonomous agent using internet searching, file management and workflow planning capabilities to achieve the goal I set. Expect me to clearly define the outcome of the job and automatically execute all necessary steps in the process.
 

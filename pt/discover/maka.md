@@ -45,7 +45,7 @@ npm run cli:dev
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 No espaço de trabalho Maka, você precisa analisar um projeto, organizar os arquivos usando as ferramentas necessárias e manter todas as suas ações em um registro rastreável. Controle as permissões em todo o seu fluxo de trabalho, preserve as mensagens do modelo e gerencie o processo de forma recuperável em caso de erros.
 

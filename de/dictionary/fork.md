@@ -1,6 +1,6 @@
 # Was ist Fork?
 
-*Glossar · Dev · Zuletzt aktualisiert: 27. September 2026*
+*Dev · Zuletzt aktualisiert: 27. September 2026*
 
 Der Prozess, eine Kopie eines vorhandenen Softwareprojekts zu erstellen und damit zu beginnen, selbstständig neue Änderungen daran vorzunehmen.
 

@@ -23,7 +23,7 @@ Sie können auf unserer GitHub-Seite entsprechend Ihrer Plattform navigieren und
 
 ## Wie nutzt man es mit KI?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich werde Ihnen eine kategorisierte Liste kostenloser Apps für Windows, macOS und Linux mit dem Namen „awesome-free-apps“ geben. Sehen Sie sich die Liste an und schlagen Sie vor, welche kostenlosen und Open-Source-Anwendungen ich je nach meinen Anforderungen verwenden sollte (z. B. Sound, Browser, Entwicklertools, Sicherheit), mit einer kurzen Beschreibung der einzelnen Anwendungen und der Plattform, auf der sie ausgeführt werden.
 

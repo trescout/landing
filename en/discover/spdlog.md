@@ -39,7 +39,7 @@ Getting started with the spdlog library is extremely effortless. Once you includ
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to configure the spdlog library with asynchronous architecture using CMake in a modern C++ project. Can you prepare the CMakeLists.txt file with a sample C++ initialization function that rotates the file when the log reaches 10MB in size, also gives color output to the console, and flushes it to disk immediately upon error level?
 

@@ -39,7 +39,7 @@ yarn add -D @astryxdesign/cli
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine Schnittstellenkomponente mit dem Astryx-Designsystem erstellen. Wie kann ich Komponenten im @astryxdesign/core-Paket strukturieren, ohne die Stilmethoden zu zerstören, die ich bereits in meinem Projekt verwende? Welche Standardmethoden sollte ich befolgen, um Komponenten anzupassen und mit dem CLI-Tool auf Dokumentation oder Vorlagen zuzugreifen?
 

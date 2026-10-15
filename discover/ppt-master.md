@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki belgeyi PPT-Master kullanarak düzenlenebilir bir sunum dosyasına dönüştürmek istiyorum. Belgenin içeriğini analiz et, slayt yapısını oluştur, gerekli animasyonları ve konuşmacı notlarını ekleyerek profesyonel bir PPTX dosyası hazırla. Sonuçta ortaya çıkan sunumun üzerinde PowerPoint içerisinde değişiklik yapabileceğimden emin ol.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ppt-master/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

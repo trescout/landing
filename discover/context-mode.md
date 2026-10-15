@@ -43,7 +43,7 @@ Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyon
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yapay zekâ ajanım, bundan sonra veri işleme görevlerini doğrudan yapmak yerine, bu veriyi analiz edecek kodu yazıp çalıştırmanı istiyorum. Veri boyutunu minimize etmek için context-mode araçlarını kullan, oturum geçmişimi SQLite üzerinde tut ve sadece gerekli olan sonuçları bana raporla. Gereksiz açıklamalardan kaçınarak sadece kod üretimine ve verimli bağlam yönetimine odaklan.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/context-mode/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -50,7 +50,7 @@ vulnclaw run <target>
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un probador de penetración. Utilizando la herramienta VulnClaw, recopile información sobre el sistema de destino, realice escaneo de vulnerabilidades y pasos de explotación. Utilice el motor de resolución orientado a objetivos mientras realiza las operaciones, verifique sus hallazgos y cree un informe estructurado y un código PoC basado en Python al final del proceso. En cada etapa, proceda en base a los datos reales que obtenga y evite suposiciones.
 

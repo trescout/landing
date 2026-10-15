@@ -49,7 +49,7 @@ gh stack add api-endpoints
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich verwende das Tool gh-stack, um gestapelte Pull-Anfragen auf GitHub zu erstellen. Binden Sie meine vorhandenen Arbeitszweige in eine Stapelstruktur ein, verwalten Sie Abhängigkeiten zwischen Zweigen und übertragen Sie den Stapel auf GitHub, um den Codeüberprüfungsprozess zu beschleunigen.
 

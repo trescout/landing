@@ -43,7 +43,7 @@ claude: /1start-mathmodel 完成这个数学建模任务
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un experto en modelado matemático. Utilizando MathModelAgent, analiza el problema complejo que te presento, establece los modelos matemáticos necesarios, escribe los códigos de Python para analizar los datos y reporta los resultados en formato de artículo académico. Durante el trabajo, utiliza plantillas de Typst, realiza comprobaciones de errores y mantente fiel a los estándares académicos profesionales en cada etapa.
 

@@ -36,7 +36,7 @@ brew upgrade --cask cmux
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 cmux, yapay zekâ kodlama ajanları ile çalışırken bildirimleri takip etmemi, dikey ve yatay sekmelerle pencereleri yönetmemi ve yerleşik tarayıcıyı kullanmamı sağlayan macOS terminalidir. Bu aracı kurmak ve kullanmaya başlamak için gereken adımları özetle.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cmux/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

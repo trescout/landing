@@ -48,7 +48,7 @@ docker compose down
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Completé la instalación de Grok2API e inicié sesión en el panel de administración. Ahora bien, ¿cómo puedo definir mis cuentas Grok Build, Web o Console en el sistema, cómo hago coincidencias de modelos y qué pasos puedo seguir para generar la clave API para uso externo? Por favor explique este proceso paso a paso.
 
