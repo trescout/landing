@@ -38,10 +38,6 @@ Genellikle standart web yapılarında çalışır ancak çok karmaşık güvenli
 - [Autonomous Agent](https://trescout.com/dictionary/autonomous-agent/)
 - [Web Scraping](https://trescout.com/dictionary/web-scraping/)
 
-## İlgili araçlar
-
-- [Page Agent](https://trescout.com/discover/page-agent/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

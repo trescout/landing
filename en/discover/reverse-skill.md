@@ -37,7 +37,6 @@ Use this project as a guide in a penetration testing or reverse engineering task
 
 - [Routing Pack](https://trescout.com/en/dictionary/routing-pack/)
 - [Toolchain Bootstrapping](https://trescout.com/en/dictionary/toolchain-bootstrapping/)
-- [Skill](https://trescout.com/en/dictionary/skill/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for security researchers who want to use artificial intelligence agents more efficiently in penetration testing and reverse engineering processes.

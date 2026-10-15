@@ -47,8 +47,8 @@ Primero indica el plan, las incertidumbres y los archivos afectados por esta tar
 ## Términos relacionados del glosario
 
 - [Coding Agent](https://trescout.com/es/dictionary/coding-agent/)
-- [Runtime](https://trescout.com/es/dictionary/runtime/)
 - [Plugin](https://trescout.com/es/dictionary/plugin/)
+- [Runtime](https://trescout.com/es/dictionary/runtime/)
 - [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Agent](https://trescout.com/es/dictionary/agent/)

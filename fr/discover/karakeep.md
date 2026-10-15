@@ -27,7 +27,9 @@ brew install karakeep
 
 ## Pour commencer
 
-- Source officielle →
+Pour installer, vous pouvez suivre le guide d'installation de Docker sur la page de documentation officielle. Pour les étapes détaillées et les options de configuration, consultez simplement le guide d'installation sur docs.karakeep.app.
+
+- [Source officielle →](https://karakeep.app)
 
 ## Termes liés du glossaire
 
@@ -41,7 +43,7 @@ brew install karakeep
 
 ## Liens
 
-- [Dépôt GitHub →](https://karakeep.app)
+- [Dépôt GitHub →](https://github.com/karakeep-app/karakeep)
 - [Lire en turc →](https://trescout.com/discover/karakeep/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-07 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

@@ -20,7 +20,9 @@ Anthropic propose un annuaire officiel qui rassemble dans un seul centre les plu
 
 ## Pour commencer
 
-- Source officielle →
+Vous pouvez parcourir les plugins disponibles en utilisant le menu '/plugin > Découvrir' dans l'interface Claude Code. Pour installer des plugins, utilisez simplement la commande '/plugin install {plugin-name}@claude-plugins-official' dans la ligne de commande Claude Code.
+
+- [Source officielle →](https://code.claude.com/docs/en/plugins)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ Anthropic propose un annuaire officiel qui rassemble dans un seul centre les plu
 
 ## Liens
 
-- [Dépôt GitHub →](https://code.claude.com/docs/en/plugins)
+- [Dépôt GitHub →](https://github.com/anthropics/claude-plugins-official)
 - [Lire en turc →](https://trescout.com/discover/claude-plugins-official/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

@@ -21,14 +21,16 @@ Dopamine is a semi-independent jailbreak tool developed for devices running iOS 
 
 ## Getting started
 
-- Official source →
+To start using the Dopamine tool, you can visit the official website https://ellekit.space/dopamine/ and follow the download link appropriate for your device.
+
+- [Official source →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
 
 - **Who it is for:** It is for users who want to have administrator rights by bypassing system restrictions on their iOS devices.
 - **License:** MIT
 
 ## Links
 
-- [GitHub repository →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
+- [GitHub repository →](https://github.com/opa334/Dopamine)
 - [Read in Turkish →](https://trescout.com/discover/dopamine/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

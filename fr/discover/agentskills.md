@@ -19,7 +19,9 @@ Agent Skills est un projet de spécification technique et de documentation qui s
 
 ## Pour commencer
 
-- Source officielle →
+Agent Skills est une installation standard plutôt qu'une installation logicielle. Pour commencer, vous pouvez consulter la documentation officielle sur agentskills.io, parcourir le répertoire d'exemples sur GitHub pour voir des exemples de fonctionnalités et commencer à développer vos capacités dans cette structure de dossiers au format standard.
+
+- [Source officielle →](https://agentskills.io)
 
 ## Termes liés du glossaire
 
@@ -34,7 +36,7 @@ Agent Skills est un projet de spécification technique et de documentation qui s
 
 ## Liens
 
-- [Dépôt GitHub →](https://agentskills.io)
+- [Dépôt GitHub →](https://github.com/agentskills/agentskills)
 - [Lire en turc →](https://trescout.com/discover/agentskills/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

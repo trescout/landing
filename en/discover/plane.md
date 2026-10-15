@@ -43,7 +43,9 @@ chmod +x setup.sh
 
 ## Getting started
 
-- Official source →
+To get started quickly, you can create a free account through Plane Cloud. If you want to host it on your own infrastructure, you can install it on your own server by following the Docker or Kubernetes installation guides on the official documentation page.
+
+- [Official source →](http://plane.so)
 
 ## Related dictionary terms
 
@@ -55,7 +57,7 @@ chmod +x setup.sh
 
 ## Links
 
-- [GitHub repository →](http://plane.so)
+- [GitHub repository →](https://github.com/makeplane/plane)
 - [Read in Turkish →](https://trescout.com/discover/plane/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

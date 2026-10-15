@@ -48,8 +48,8 @@ Yapay zekâ birçok işin yapılış şeklini değiştirecek, ancak genellikle i
 - [Coding Interview University](https://trescout.com/discover/coding-interview-university/)
 - [Superpowers](https://trescout.com/discover/superpowers/)
 - [ECC](https://trescout.com/discover/ecc/)
-- [Hermes Agent](https://trescout.com/discover/hermes-agent/)
 - [REA](https://trescout.com/discover/rea/)
+- [Hermes Agent](https://trescout.com/discover/hermes-agent/)
 - [Opencode](https://trescout.com/discover/opencode/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

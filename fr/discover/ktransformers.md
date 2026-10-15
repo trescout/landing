@@ -2,12 +2,13 @@
 
 Ktransformers offre un cadre flexible qui prend en charge les optimisations matérielles hétérogènes dans les processus d'inférence et de réglage fin de grands modèles de langage. Cette structure vise à augmenter les performances du modèle en utilisant efficacement différentes ressources matérielles.
 
-- ★ 19 517
+- ★ 19 604
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 19,517 → 19,604, dernière version v0.7.2 (15 octobre 2026).
 - **15 septembre 2026:** Étoiles 19,255 → 19,517, dernière version v0.7.1 (15 septembre 2026).
 - **18 août 2026:** Étoiles 19,145 → 19,255, dernière version v0.7.0 (17 août 2026).
 - **2 août 2026:** Étoiles 18,491 → 19,145, dernière version v0.6.4 (23 juillet 2026).

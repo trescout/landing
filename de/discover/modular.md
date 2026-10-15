@@ -20,7 +20,9 @@ Die Modulare Plattform bietet eine leistungsstarke Infrastruktur für KI-Projekt
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Sie können die Anleitungen auf der offiziellen Website verwenden, um mit der Nutzung der Plattform zu beginnen. Schauen Sie sich einfach die MAX-Schnellstartanleitung an, um Modelle für künstliche Intelligenz auszuführen und das MAX-Framework zu verwenden, und die Mojo-Schnellstartanleitung, um mit der Programmiersprache Mojo zu beginnen.
+
+- [Offizielle Quelle →](https://docs.modular.com/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -30,7 +32,7 @@ Die Modulare Plattform bietet eine leistungsstarke Infrastruktur für KI-Projekt
 
 ## Links
 
-- [GitHub-Repository →](https://docs.modular.com/)
+- [GitHub-Repository →](https://github.com/modular/modular)
 - [Auf Türkisch lesen →](https://trescout.com/discover/modular/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

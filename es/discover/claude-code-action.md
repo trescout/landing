@@ -18,7 +18,9 @@ Claude Code Action, desarrollado por Anthropic, es una herramienta que permite a
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para iniciar la instalación, abra la herramienta de terminal Claude Code y ejecute el comando /install-github-app. Este comando le guiará en la configuración de la aplicación de GitHub y las claves secretas necesarias. Para proveedores de nube alternativos, puede consultar las guías correspondientes en la documentación.
+
+- [Fuente oficial →](https://claude.ai/code)
 
 ## Términos relacionados del glosario
 
@@ -31,7 +33,7 @@ Claude Code Action, desarrollado por Anthropic, es una herramienta que permite a
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://claude.ai/code)
+- [Repositorio en GitHub →](https://github.com/anthropics/claude-code-action)
 - [Leer en turco →](https://trescout.com/discover/claude-code-action/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-27: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

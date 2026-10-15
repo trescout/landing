@@ -20,7 +20,9 @@ The iptv-org project, which gathers public television channels around the world 
 
 ## Getting started
 
-- Official source →
+You don't need any installation to use this tool. Copy the link to the project's main playlist, https://iptv-org.github.io/iptv/index.m3u, and start watching by pasting it into the network stream or URL opening section of any video player that supports live streaming.
+
+- [Official source →](https://iptv-org.github.io)
 
 ## Related dictionary terms
 
@@ -31,7 +33,7 @@ The iptv-org project, which gathers public television channels around the world 
 
 ## Links
 
-- [GitHub repository →](https://iptv-org.github.io)
+- [GitHub repository →](https://github.com/iptv-org/iptv)
 - [Read in Turkish →](https://trescout.com/discover/iptv/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

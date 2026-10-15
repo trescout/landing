@@ -19,7 +19,9 @@ O Firebase, uma plataforma de desenvolvimento móvel oferecida pelo Google, forn
 
 ## Como começar
 
-- Fonte oficial →
+Para a instalação, você pode consultar a documentação oficial de introdução do Firebase e usar os métodos do Swift Package Manager ou CocoaPods. Para instruções detalhadas, você pode consultar os guias de instalação e início no site do Firebase.
+
+- [Fonte oficial →](https://firebase.google.com)
 
 ## Termos relacionados do glossário
 
@@ -32,7 +34,7 @@ O Firebase, uma plataforma de desenvolvimento móvel oferecida pelo Google, forn
 
 ## Links
 
-- [Repositório no GitHub →](https://firebase.google.com)
+- [Repositório no GitHub →](https://github.com/firebase/firebase-ios-sdk)
 - [Ler em turco →](https://trescout.com/discover/firebase-ios-sdk/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-01: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

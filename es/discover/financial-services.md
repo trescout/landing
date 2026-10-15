@@ -33,7 +33,6 @@ Instale el complemento Claude Cowork para crear análisis financieros y modelos 
 
 ## Términos relacionados del glosario
 
-- [Financial Services](https://trescout.com/es/dictionary/financial-services/)
 - [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

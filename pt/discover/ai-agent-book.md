@@ -35,7 +35,6 @@ Você é um especialista em desenvolvimento de agentes de inteligência artifici
 
 ## Termos relacionados do glossário
 
-- [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
 - [RAG](https://trescout.com/pt/dictionary/rag/)
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)

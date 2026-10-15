@@ -19,14 +19,16 @@ Hyprland ist ein Fenstermanager, der auf dem Wayland-Compositor läuft und eine 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Für Installationsschritte und eine Anleitung zu den ersten Schritten müssen Sie die offizielle Dokumentationsseite besuchen. Die entsprechenden Installationsanweisungen und die Kurzanleitung finden Sie auf der offiziellen Wiki-Seite von Hyprland.
+
+- [Offizielle Quelle →](https://hypr.land)
 
 - **Für wen es gedacht ist:** Es eignet sich für Nutzer, die die Desktop-Umgebung an ihre Bedürfnisse anpassen möchten und einen leistungsstarken Fenstermanager auf Wayland-Basis suchen.
 - **Lizenz:** BSD-3-Clause
 
 ## Links
 
-- [GitHub-Repository →](https://hypr.land)
+- [GitHub-Repository →](https://github.com/hyprwm/Hyprland)
 - [Auf Türkisch lesen →](https://trescout.com/discover/hyprland/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-22 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

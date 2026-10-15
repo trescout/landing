@@ -39,7 +39,6 @@ Instale la aplicación de personajes virtuales de inteligencia artificial llamad
 
 ## Términos relacionados del glosario
 
-- [AI Companion](https://trescout.com/es/dictionary/ai-companion/)
 - [Companion](https://trescout.com/es/dictionary/companion/)
 - [Self-hosting](https://trescout.com/es/dictionary/self-hosting/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)

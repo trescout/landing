@@ -30,7 +30,9 @@ python3 cupp.py -i
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar a ferramenta, primeiro certifique-se de que o Python 3 esteja instalado no seu computador. Visite a página GitHub do projeto, baixe os arquivos para o seu computador e comece a executar os comandos acessando o diretório onde a ferramenta está localizada através do terminal.
+
+- [Fonte oficial →](https://travis-ci.org/Mebus/cupp)
 
 ## Termos relacionados do glossário
 
@@ -43,7 +45,7 @@ python3 cupp.py -i
 
 ## Links
 
-- [Repositório no GitHub →](https://travis-ci.org/Mebus/cupp)
+- [Repositório no GitHub →](https://github.com/Mebus/cupp)
 - [Ler em turco →](https://trescout.com/discover/cupp/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-01: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

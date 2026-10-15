@@ -21,7 +21,9 @@ Ever Gauzy is an open-source business management platform that brings together c
 
 ## Getting started
 
-- Official source →
+To start using the platform, you can visit the official website at https://gauzy.co or check out the demo environment at https://demo.gauzy.co to try it out quickly. If you wish to install the software on your own computer or run it on a server, you can examine the download options at https://gauzy.co/downloads and refer to the documentation page at https://docs.gauzy.co for installation steps.
+
+- [Official source →](https://gauzy.co)
 
 ## Related dictionary terms
 
@@ -33,7 +35,7 @@ Ever Gauzy is an open-source business management platform that brings together c
 
 ## Links
 
-- [GitHub repository →](https://gauzy.co)
+- [GitHub repository →](https://github.com/ever-co/ever-gauzy)
 - [Read in Turkish →](https://trescout.com/discover/ever-gauzy/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-14: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

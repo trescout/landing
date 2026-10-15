@@ -2,12 +2,13 @@
 
 Microsoft tarafından geliştirilen TRELLIS, metin veya görsel girdilerini üç boyutlu (3D) modellere dönüştüren bir yapısal gizli temsil (structured latent) mimarisi. Bu teknoloji, yüksek kaliteli 3D varlıkları hızlı ve kompakt bir şekilde oluşturmak için üretken yapay zekâ (generative AI) yöntemlerini kullanıyor.
 
-- ★ 11.002
+- ★ 12.009
 - Python
 - GitHub Trending · 2026-08-02
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 11.002 → 12.009.
 - **3 Eylül 2026:** Yıldız 9.992 → 11.002.
 
 ## Ne kazandırır?

@@ -18,7 +18,9 @@ Esta guía, preparada por estudiantes de la Universidad de Pekín, ofrece una ho
 
 ## Cómo empezar
 
-- Fuente oficial →
+No necesita ninguna configuración para comenzar con esta guía. Puede revisar todos los contenidos del curso y los planes de estudio en línea de forma gratuita visitando el sitio web oficial del proyecto, csdiy.wiki.
+
+- [Fuente oficial →](https://csdiy.wiki)
 
 ## Términos relacionados del glosario
 
@@ -29,7 +31,7 @@ Esta guía, preparada por estudiantes de la Universidad de Pekín, ofrece una ho
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://csdiy.wiki)
+- [Repositorio en GitHub →](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Leer en turco →](https://trescout.com/discover/cs-self-learning/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-20: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

@@ -18,7 +18,9 @@ The Introduction to Autonomous Robots project presents the basic principles and 
 
 ## Getting started
 
-- Official source →
+This project contains the source codes of a textbook written on autonomous robots. To create a PDF version of the book, you can click the green 'Code' button on the GitHub page and download the files to your computer with the 'Download ZIP' option, or you can work on the project by transferring it to an online LaTeX editor such as Overleaf.
+
+- [Official source →](https://introduction-to-autonomous-robots.github.io/)
 
 ## Related dictionary terms
 
@@ -29,7 +31,7 @@ The Introduction to Autonomous Robots project presents the basic principles and 
 
 ## Links
 
-- [GitHub repository →](https://introduction-to-autonomous-robots.github.io/)
+- [GitHub repository →](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 - [Read in Turkish →](https://trescout.com/discover/introduction-to-autonomous-robots/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

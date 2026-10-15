@@ -38,7 +38,6 @@ Utilizo la herramienta Obsidian-skills para gestionar mis notas de Obsidian. Uti
 ## Términos relacionados del glosario
 
 - [Markdown](https://trescout.com/es/dictionary/markdown/)
-- [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

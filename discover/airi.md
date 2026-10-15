@@ -56,7 +56,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [AI Companion](https://trescout.com/dictionary/ai-companion/)
 - [Companion](https://trescout.com/dictionary/companion/)
 - [Self-hosting](https://trescout.com/dictionary/self-hosting/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

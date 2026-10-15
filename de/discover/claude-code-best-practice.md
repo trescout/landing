@@ -19,7 +19,9 @@ In diesem für Claude Code entwickelten Leitfaden werden die Übergangsprozesse 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Bei diesem Tool handelt es sich nicht um eine Softwarebibliothek, sondern um eine umfassende Anleitung zur Verwendung von Claude Code. Um zu beginnen, können Sie die Links in der Tabelle im GitHub-Repository überprüfen, um mehr über Themen wie Subagenten, Befehle und Fähigkeiten zu erfahren, und die offizielle Claude Code-Dokumentation besuchen.
+
+- [Offizielle Quelle →](https://linkedin.com/in/shanraisshan)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -34,7 +36,7 @@ In diesem für Claude Code entwickelten Leitfaden werden die Übergangsprozesse 
 
 ## Links
 
-- [GitHub-Repository →](https://linkedin.com/in/shanraisshan)
+- [GitHub-Repository →](https://github.com/shanraisshan/claude-code-best-practice)
 - [Auf Türkisch lesen →](https://trescout.com/discover/claude-code-best-practice/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-24 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -67,8 +67,8 @@ I want to prepare a formal invention disclosure text for a distributed database 
 - [Disclosure](https://trescout.com/en/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/en/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/en/dictionary/multimodal/)
-- [Markdown](https://trescout.com/en/dictionary/markdown/)
 - [Skill](https://trescout.com/en/dictionary/skill/)
+- [Markdown](https://trescout.com/en/dictionary/markdown/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 
 - **Who it is for:** Patent attorneys, intellectual property managers, R&D engineers, and inventors.

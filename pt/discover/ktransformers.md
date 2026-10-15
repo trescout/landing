@@ -2,12 +2,13 @@
 
 Ktransformers oferece uma estrutura flexível que suporta otimizações de hardware heterogêneas nos processos de inferência e ajuste fino de grandes modelos de linguagem. Essa estrutura visa aumentar o desempenho do modelo utilizando diferentes recursos de hardware de forma eficiente.
 
-- ★ 19.517
+- ★ 19.604
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Atualizações
 
+- **15 de outubro de 2026:** Estrelas 19,517 → 19,604, versão mais recente v0.7.2 (15 de outubro de 2026).
 - **15 de setembro de 2026:** Estrelas 19,255 → 19,517, versão mais recente v0.7.1 (15 de setembro de 2026).
 - **18 de agosto de 2026:** Estrelas 19,145 → 19,255, versão mais recente v0.7.0 (17 de agosto de 2026).
 - **2 de agosto de 2026:** Estrelas 18,491 → 19,145, versão mais recente v0.6.4 (23 de julho de 2026).

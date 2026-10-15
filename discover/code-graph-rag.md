@@ -2,16 +2,16 @@
 
 Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak ve sorgulamak için bilgi grafikleri (knowledge graphs) ile getirme destekli üretim (RAG) yöntemini birleştiriyor. Geliştiricilerin farklı dillerdeki kod tabanlarını yapay zekâ yardımıyla analiz etmelerine ve düzenlemelerine olanak tanıyor.
 
-- ★ 5.189
+- ★ 5.259
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 5.189 → 5.259, son sürüm v0.2.0 (15 Ekim 2026).
 - **29 Eylül 2026:** Yıldız 5.180 → 5.189, son sürüm v0.1.38 (29 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 5.146 → 5.180, son sürüm v0.0.996 (26 Eylül 2026).
 - **17 Eylül 2026:** Yıldız 5.113 → 5.146, son sürüm v0.0.945 (16 Eylül 2026).
-- **10 Eylül 2026:** Yıldız 4.924 → 5.113, son sürüm v0.0.895 (9 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -65,7 +65,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Monorepo](https://trescout.com/dictionary/monorepo/)
-- [Graph RAG](https://trescout.com/dictionary/graph-rag/)
 - [RAG](https://trescout.com/dictionary/rag/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

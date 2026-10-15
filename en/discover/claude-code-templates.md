@@ -55,7 +55,6 @@ I want to optimize my Claude Code work environment. How can I list and install t
 
 ## Related dictionary terms
 
-- [Claude Code Templates](https://trescout.com/en/dictionary/claude-code-templates/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

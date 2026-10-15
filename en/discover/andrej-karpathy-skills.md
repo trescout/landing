@@ -47,8 +47,8 @@ First state the plan, uncertainties and affected files for this task. Then sugge
 ## Related dictionary terms
 
 - [Coding Agent](https://trescout.com/en/dictionary/coding-agent/)
-- [Runtime](https://trescout.com/en/dictionary/runtime/)
 - [Plugin](https://trescout.com/en/dictionary/plugin/)
+- [Runtime](https://trescout.com/en/dictionary/runtime/)
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Agent](https://trescout.com/en/dictionary/agent/)

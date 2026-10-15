@@ -2,16 +2,16 @@
 
 OpenSpec, yapay zekâ kod asistanları için şartname odaklı geliştirme (spec-driven development) süreçlerini destekleyen bir TypeScript kütüphanesidir. Yazılım geliştirme aşamalarında teknik gereksinimlerin standartlaştırılmasını ve kod üretim süreçlerinin daha kontrollü ilerlemesini sağlar.
 
-- ★ 71.132
+- ★ 72.001
 - TypeScript
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 71.132 → 72.001, son sürüm v1.14.2 (15 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 70.815 → 71.132, son sürüm v1.14.1 (6 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 70.448 → 70.815, son sürüm v1.14.0 (30 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 68.748 → 70.448, son sürüm v1.13.2 (23 Eylül 2026).
-- **17 Eylül 2026:** Yıldız 67.850 → 68.748, son sürüm v1.13.1 (17 Eylül 2026).
 
 ## Ne kazandırır?
 

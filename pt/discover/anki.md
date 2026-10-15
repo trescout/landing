@@ -19,7 +19,9 @@ Anki é um software de flashcards que facilita o aprendizado usando o algoritmo 
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar o aplicativo Anki, você pode visitar o site oficial em apps.ankiweb.net. Baixe e instale a versão para computador a partir de lá para começar a criar seus próprios flashcards imediatamente.
+
+- [Fonte oficial →](https://apps.ankiweb.net)
 
 ## Termos relacionados do glossário
 
@@ -30,7 +32,7 @@ Anki é um software de flashcards que facilita o aprendizado usando o algoritmo 
 
 ## Links
 
-- [Repositório no GitHub →](https://apps.ankiweb.net)
+- [Repositório no GitHub →](https://github.com/ankitects/anki)
 - [Ler em turco →](https://trescout.com/discover/anki/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-19: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

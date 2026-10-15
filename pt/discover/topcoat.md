@@ -29,7 +29,9 @@ cargo install topcoat
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a trabalhar com o Topcoat, você deve seguir o guia de primeiros passos na documentação oficial do GitHub. Usando este guia, você pode criar um novo projeto, instalar a ferramenta CLI necessária e iniciar o servidor de desenvolvimento.
+
+- [Fonte oficial →](https://crates.io/crates/topcoat)
 
 ## Termos relacionados do glossário
 
@@ -42,7 +44,7 @@ cargo install topcoat
 
 ## Links
 
-- [Repositório no GitHub →](https://crates.io/crates/topcoat)
+- [Repositório no GitHub →](https://github.com/tokio-rs/topcoat)
 - [Ler em turco →](https://trescout.com/discover/topcoat/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-21: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

@@ -20,7 +20,9 @@ Miles est un framework axé sur l'entreprise qui gère les processus d'apprentis
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à travailler avec Miles, vous devez suivre le guide d'installation sur le site de documentation officiel. Vous pouvez visiter miles.radixark.com/docs/getting-started/installation pour connaître les images de conteneur adaptées à vos besoins matériels et les étapes d'installation.
+
+- [Source officielle →](https://miles.radixark.com)
 
 ## Termes liés du glossaire
 
@@ -35,7 +37,7 @@ Miles est un framework axé sur l'entreprise qui gère les processus d'apprentis
 
 ## Liens
 
-- [Dépôt GitHub →](https://miles.radixark.com)
+- [Dépôt GitHub →](https://github.com/radixark/miles)
 - [Lire en turc →](https://trescout.com/discover/miles/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

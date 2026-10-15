@@ -46,7 +46,6 @@ Utilizo este recurso técnico como un paquete de habilidades. Cíñete únicamen
 ## Términos relacionados del glosario
 
 - [Markdown](https://trescout.com/es/dictionary/markdown/)
-- [Skill](https://trescout.com/es/dictionary/skill/)
 - [Token](https://trescout.com/es/dictionary/token/)
 - [PDF](https://trescout.com/es/dictionary/pdf/)
 - [AI Skills](https://trescout.com/es/dictionary/ai-skills/)

@@ -2,17 +2,17 @@
 
 Claude Code Harness introduce la disciplina de planificar, hacer, revisar y entregar, frenando la tendencia a que el trabajo crudo de los agentes se desmorone. Evita que los planes se pierdan en el chat, limita las pruebas y garantiza una producción de código más consistente. Aunque Claude se centra en el código, también ofrece rutas de integración para Codex y OpenCode.
 
-- ★ 3.092
+- ★ 3.164
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 3,092 → 3,164, última versión v5.16.0 (15 de octubre de 2026).
 - **6 de septiembre de 2026:** Estrellas 3,076 → 3,092, última versión v5.15.0 (6 de septiembre de 2026).
 - **31 de agosto de 2026:** Estrellas 3,071 → 3,076, última versión v5.14.1 (31 de agosto de 2026).
 - **27 de agosto de 2026:** Estrellas 3,070 → 3,071, última versión v5.13.1 (25 de agosto de 2026).
-- **24 de agosto de 2026:** Estrellas 3,068 → 3,070, última versión v5.12.0 (24 de agosto de 2026).
 
 ## Qué aporta
 

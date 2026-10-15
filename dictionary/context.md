@@ -87,7 +87,7 @@ Go'da ctx context.Context parametresi, bir HTTP isteği iptal edildiğinde veya 
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/discover/code-review-graph/)
-- [Fastmcp](https://trescout.com/discover/fastmcp/)
+- [Context Mode](https://trescout.com/discover/context-mode/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

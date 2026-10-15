@@ -20,7 +20,9 @@ Das von Anthropic entwickelte Community-Plugin-Verzeichnis für die Tools Claude
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Sie können Plugins für Claude Cowork unter claude.com/plugins installieren. Für Claude Code können Sie Plugins über den Marktplatz hinzufügen und installieren, indem Sie die in der entsprechenden Dokumentation angegebenen Befehlszeilentools verwenden.
+
+- [Offizielle Quelle →](https://claude.com/product/cowork)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -31,7 +33,7 @@ Das von Anthropic entwickelte Community-Plugin-Verzeichnis für die Tools Claude
 
 ## Links
 
-- [GitHub-Repository →](https://claude.com/product/cowork)
+- [GitHub-Repository →](https://github.com/anthropics/claude-plugins-community)
 - [Auf Türkisch lesen →](https://trescout.com/discover/claude-plugins-community/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-24 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

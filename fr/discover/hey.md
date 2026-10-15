@@ -18,7 +18,9 @@ Développé en Go, hey est un outil de test de charge utilisé pour mesurer les 
 
 ## Pour commencer
 
-- Source officielle →
+Pour l'installation, vous pouvez utiliser les liens de téléchargement adaptés à votre système d'exploitation Linux, macOS ou Windows, ou l'installer via le gestionnaire de paquets Homebrew pour macOS avec la commande correspondante.
+
+- [Source officielle →](https://storage.googleapis.com/hey-releases/hey_linux_amd64)
 
 ## Termes liés du glossaire
 
@@ -31,7 +33,7 @@ Développé en Go, hey est un outil de test de charge utilisé pour mesurer les 
 
 ## Liens
 
-- [Dépôt GitHub →](https://storage.googleapis.com/hey-releases/hey_linux_amd64)
+- [Dépôt GitHub →](https://github.com/rakyll/hey)
 - [Lire en turc →](https://trescout.com/discover/hey/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-29 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

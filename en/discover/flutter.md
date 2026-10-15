@@ -42,7 +42,9 @@ flutter run
 
 ## Getting started
 
-- Official source →
+To start developing with Flutter, you need to visit the official website flutter.dev. You can complete the guided installation by following the 'Get Started' section on the site for installation steps and download options suitable for your operating system.
+
+- [Official source →](https://flutter.dev)
 
 ## Related dictionary terms
 
@@ -55,7 +57,7 @@ flutter run
 
 ## Links
 
-- [GitHub repository →](https://flutter.dev)
+- [GitHub repository →](https://github.com/flutter/flutter)
 - [Read in Turkish →](https://trescout.com/discover/flutter/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

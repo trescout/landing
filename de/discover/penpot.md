@@ -37,7 +37,9 @@ docker compose -p penpot -f docker-compose.yaml up -d
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um Penpot zu nutzen, können Sie die offizielle Website penpot.app besuchen. Sie können das Design über den Browser verwenden oder, wenn Sie es auf Ihren eigenen Servern installieren möchten, die Anleitungen zum Selbsthosting im Abschnitt „Technische Dokumente“ lesen.
+
+- [Offizielle Quelle →](https://penpot.app)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -49,7 +51,7 @@ docker compose -p penpot -f docker-compose.yaml up -d
 
 ## Links
 
-- [GitHub-Repository →](https://penpot.app)
+- [GitHub-Repository →](https://github.com/penpot/penpot)
 - [Auf Türkisch lesen →](https://trescout.com/discover/penpot/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

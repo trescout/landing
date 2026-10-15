@@ -18,7 +18,9 @@ Dieser von Studenten der Peking-Universität erstellte Leitfaden bietet eine umf
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Sie benötigen keine Einrichtung, um mit dieser Anleitung zu beginnen. Sie können alle Kursinhalte und Studienpläne kostenlos online einsehen, indem Sie die offizielle Website des Projekts, csdiy.wiki, besuchen.
+
+- [Offizielle Quelle →](https://csdiy.wiki)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -29,7 +31,7 @@ Dieser von Studenten der Peking-Universität erstellte Leitfaden bietet eine umf
 
 ## Links
 
-- [GitHub-Repository →](https://csdiy.wiki)
+- [GitHub-Repository →](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Auf Türkisch lesen →](https://trescout.com/discover/cs-self-learning/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

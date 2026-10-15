@@ -18,7 +18,9 @@ Ce guide, préparé par des étudiants de l'Université de Pékin, propose une f
 
 ## Pour commencer
 
-- Source officielle →
+Vous n'avez besoin d'aucune configuration pour commencer avec ce guide. Vous pouvez consulter gratuitement tous les contenus de cours et les plans d'études en ligne en visitant le site officiel du projet, csdiy.wiki.
+
+- [Source officielle →](https://csdiy.wiki)
 
 ## Termes liés du glossaire
 
@@ -29,7 +31,7 @@ Ce guide, préparé par des étudiants de l'Université de Pékin, propose une f
 
 ## Liens
 
-- [Dépôt GitHub →](https://csdiy.wiki)
+- [Dépôt GitHub →](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Lire en turc →](https://trescout.com/discover/cs-self-learning/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-20 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

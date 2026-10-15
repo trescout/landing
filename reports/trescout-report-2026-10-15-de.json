@@ -1,0 +1,795 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-15",
+  "capturedAt": "2026-10-15T09:10:00.682Z",
+  "editorial": "Heute stehen im Entwickler-Ökosystem Audioverarbeitungstools und Embedding-Techniken, die lokale KI-Modelle optimieren, im Vordergrund. Auf der Sicherheitsseite gibt es intensive Diskussionen über Schwachstellen bei der Prüfung von KI-Systemen und Methoden zur Verwaltung von Datenströmen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea ist ein Tool, das KI-Agenten nutzt, um alles von Anwendungsverhalten bis hin zu nativen Binärdateien mittels Reverse Engineering zu analysieren. Dieses in TypeScript entwickelte Projekt zielt darauf ab, den Prozess der Analyse komplexer Softwarestrukturen zu automatisieren.",
+          "meta": "TypeScript · ★ 254.736 · +41.034 heute",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 254736,
+              "engagementCount": 41034,
+              "rank": 1,
+              "extra": {
+                "starsToday": 41034
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio ist eine Open-Source-Plattform zur Audioverarbeitung, die Aufgaben wie Stimmenklonen, Sounddesign, Videosynchronisation, Diktat, Transkription und die Erstellung von Hörbüchern lokal ausführt. Als Alternative zu Diensten wie ElevenLabs unterstützt dieses Tool 646 verschiedene Sprachen und zielt darauf ab, alle Prozesse auf dem Computer des Benutzers auszuführen.",
+          "meta": "Python · ★ 67.531 · +3.538 heute",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 67531,
+              "engagementCount": 3538,
+              "rank": 2,
+              "extra": {
+                "starsToday": 3538
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode ist ein TypeScript-Tool, das das Kontextfenster für KI-Codierungsagenten optimiert. Es isoliert die Tool-Ausgabe in einer Sandbox-Umgebung, reduziert die Datengröße, schont den Sitzungsspeicher und ermöglicht die Weiterleitung über das Model Context Protocol (MCP) auf 17 verschiedenen Plattformen.",
+          "meta": "TypeScript · ★ 29.485 · +947 heute",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 29485,
+              "engagementCount": 947,
+              "rank": 3,
+              "extra": {
+                "starsToday": 947
+              }
+            }
+          }
+        },
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "nvm-sh/nvm ist ein POSIX-konformes Shell-Skript, mit dem Sie verschiedene Node.js-Versionen auf demselben System verwalten können. Es ermöglicht Entwicklern, schnell zwischen den Node.js-Versionen zu wechseln, die sie für ihre Projekte benötigen.",
+          "meta": "Shell · ★ 95.527 · +52 heute",
+          "snapshot": {
+            "sourceId": "nvm-sh/nvm",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 95527,
+              "engagementCount": 52,
+              "rank": 4,
+              "extra": {
+                "starsToday": 52
+              }
+            }
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "K-Dense-AI/scientific-agent-skills ist eine Bibliothek, die 177 verifizierte Fähigkeiten und über 100 wissenschaftliche Datenbanken bietet, um KI-Agenten für die wissenschaftliche Forschung geeignet zu machen. Dieses Tool, das auf Bereiche wie Biologie, Chemie und Medizin spezialisiert ist, arbeitet kompatibel mit dem Code-Editor Cursor, dem KI-gestützten Codierungstool Claude Code und ähnlichen Plattformen.",
+          "meta": "Python · ★ 49.800 · +163 heute",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 49800,
+              "engagementCount": 163,
+              "rank": 5,
+              "extra": {
+                "starsToday": 163
+              }
+            }
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything ist ein Softwareentwicklungstool, das Befehlszeilenschnittstellen (CLI) für KI-Agenten zugänglich macht. Es zielt darauf ab, Softwaresysteme in eine agentenbasierte (agent-native) Struktur umzuwandeln.",
+          "meta": "Python · ★ 52.840 · +103 heute",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 52840,
+              "engagementCount": 103,
+              "rank": 6,
+              "extra": {
+                "starsToday": 103
+              }
+            }
+          }
+        },
+        {
+          "title": "ifixai-ai/iFixAi",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "summary": "iFixAi ist ein unabhängiges Prüftool, das überwacht, ob KI-Agenten die ihnen zugewiesenen Aufgaben korrekt ausführen. Dieses in Python entwickelte System kann von Menschen oder dem Agenten selbst ausgeführt werden und analysiert die Genauigkeit der Prozesse in weniger als zwei Minuten.",
+          "meta": "Python · ★ 27.993 · +2.109 heute",
+          "snapshot": {
+            "sourceId": "ifixai-ai/iFixAi",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 27993,
+              "engagementCount": 2109,
+              "rank": 7,
+              "extra": {
+                "starsToday": 2109
+              }
+            }
+          }
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Das in Go entwickelte pentagi bietet ein System vollautonomer KI-Agenten, die komplexe Penetration-Testing-Aufgaben ausführen können. Dieses Projekt zielt darauf ab, Cybersicherheitsprozesse zu automatisieren und nutzt autonome Fähigkeiten, um Sicherheitslücken zu identifizieren.",
+          "meta": "Go · ★ 30.090 · +1.025 heute",
+          "snapshot": {
+            "sourceId": "vxcontrol/pentagi",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 30090,
+              "engagementCount": 1025,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1025
+              }
+            }
+          }
+        },
+        {
+          "title": "rust-lang/rust",
+          "url": "https://github.com/rust-lang/rust",
+          "summary": "Rust zeichnet sich als Systemprogrammiersprache aus, die darauf abzielt, zuverlässige und effiziente Software zu entwickeln. Diese Sprache, die von einer breiten Nutzerbasis übernommen wurde, bietet die Infrastruktur für leistungsorientierte Anwendungen.",
+          "meta": "Rust · ★ 120.224 · +207 heute",
+          "snapshot": {
+            "sourceId": "rust-lang/rust",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 120224,
+              "engagementCount": 207,
+              "rank": 9,
+              "extra": {
+                "starsToday": 207
+              }
+            }
+          }
+        },
+        {
+          "title": "xtool-org/xtool",
+          "url": "https://github.com/xtool-org/xtool",
+          "summary": "xtool ist eine plattformübergreifende Xcode-Alternative, die das Kompilieren und Verteilen von iOS-Apps ermöglicht. Es nutzt SwiftPM, um Entwicklungsprozesse für Anwendungen unter Linux, Windows und macOS zu unterstützen.",
+          "meta": "Swift · ★ 11.301 · +1.502 heute",
+          "snapshot": {
+            "sourceId": "xtool-org/xtool",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 11301,
+              "engagementCount": 1502,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1502
+              }
+            }
+          }
+        },
+        {
+          "title": "ntdevlabs/tiny11builder",
+          "url": "https://github.com/ntdevlabs/tiny11builder",
+          "summary": "ntdevlabs/tiny11builder ist eine WinUI-Anwendung, mit der kleinere und angepasste Versionen des Windows 11-Betriebssystems erstellt werden können. Dieses in C# entwickelte Tool ermöglicht es Benutzern, System-Images an ihre eigenen Bedürfnisse anzupassen.",
+          "meta": "C# · ★ 20.412 · +139 heute",
+          "snapshot": {
+            "sourceId": "ntdevlabs/tiny11builder",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 20412,
+              "engagementCount": 139,
+              "rank": 11,
+              "extra": {
+                "starsToday": 139
+              }
+            }
+          }
+        },
+        {
+          "title": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "summary": "Ghidra, entwickelt von der National Security Agency, ist ein Framework für Software-Reverse-Engineering-Prozesse. Dieses in Java geschriebene Tool bietet eine umfassende Plattform für die Analyse von Binärdateien und die Dekodierung von Code.",
+          "meta": "Java · ★ 87.991 · +1.008 heute",
+          "snapshot": {
+            "sourceId": "NationalSecurityAgency/ghidra",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 87991,
+              "engagementCount": 1008,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1008
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Things to know when you get cancer",
+          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+          "summary": "Dieser Leitfaden für Personen mit einer Krebsdiagnose bietet grundlegende Informationen über den Behandlungsprozess und Methoden zur Krankheitsbewältigung. Er konzentriert sich auf die im Gesundheitssystem zu befolgenden Schritte sowie auf praktische Ratschläge, die die Patientenerfahrung verbessern können.",
+          "meta": "1.314 Punkte · 322 Kommentare",
+          "snapshot": {
+            "sourceId": "50093568",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 1314,
+              "engagementCount": 322,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50093568",
+                  "popularity": 1314,
+                  "engagementCount": 322
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-14T19:26:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50093568"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50093568",
+              "popularity": 1314,
+              "engagementCount": 322
+            }
+          ]
+        },
+        {
+          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "summary": "Experten weisen darauf hin, dass Cyberangriffe auf KI-Systeme weniger auf ein Außer-Kontrolle-Geraten der KI zurückzuführen sind, sondern vielmehr auf Mängel in den Sicherheitsprüfungs- und Überwachungsprozessen. Das Umgehen grundlegender Sicherheitsprotokolle durch Entwicklungslabore führt dazu, dass KI-Agenten anfällig für Sicherheitslücken bleiben.",
+          "meta": "898 Punkte · 525 Kommentare",
+          "snapshot": {
+            "sourceId": "50091788",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 898,
+              "engagementCount": 525,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50091788",
+                  "popularity": 898,
+                  "engagementCount": 525
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-14T17:45:23Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50091788"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50091788",
+              "popularity": 898,
+              "engagementCount": 525
+            }
+          ]
+        },
+        {
+          "title": "How Amazon pushes up prices all across the Internet",
+          "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+          "summary": "Es wird untersucht, wie die Preisstrategien von Amazon die Produktkosten im gesamten Internet in die Höhe treiben. Die Auswirkungen der Unternehmenspolitik auf das allgemeine Preisgleichgewicht auf E-Commerce-Plattformen werden analysiert.",
+          "meta": "822 Punkte · 638 Kommentare",
+          "snapshot": {
+            "sourceId": "50084757",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 822,
+              "engagementCount": 638,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50084757",
+                  "popularity": 822,
+                  "engagementCount": 638
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-14T09:28:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50084757"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50084757",
+              "popularity": 822,
+              "engagementCount": 638
+            }
+          ]
+        },
+        {
+          "title": "Do dentists know what they're doing?",
+          "url": "https://mapwriting.substack.com/p/dentists",
+          "summary": "Die Konsistenz von Diagnose- und Behandlungsmethoden in der Zahnmedizin wird anhand der klinischen Entscheidungsprozesse von Zahnärzten hinterfragt. Der Artikel stellt die Aktualität wissenschaftlicher Erkenntnisse und Behandlungsstandards im Bereich der Zahngesundheit zur Diskussion.",
+          "meta": "676 Punkte · 496 Kommentare",
+          "snapshot": {
+            "sourceId": "50050553",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 676,
+              "engagementCount": 496,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50050553",
+                  "popularity": 676,
+                  "engagementCount": 496
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-12T02:21:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50050553"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50050553",
+              "popularity": 676,
+              "engagementCount": 496
+            }
+          ]
+        },
+        {
+          "title": "OpenCode 2.0",
+          "url": "https://anoma.ly/notes/opencode-2-0/",
+          "summary": "OpenCode 2.0 bietet eine Reihe von Open-Source-Sprachmodellen, die für Programmieraufgaben optimiert sind. Dieses Modell wurde zur Unterstützung von Softwareentwicklungsprozessen entwickelt und zielt darauf ab, die Fähigkeiten zur Codegenerierung und -analyse zu verbessern.",
+          "meta": "597 Punkte · 228 Kommentare",
+          "snapshot": {
+            "sourceId": "50094994",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 597,
+              "engagementCount": 228,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50094994",
+                  "popularity": 597,
+                  "engagementCount": 228
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-14T20:48:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50094994"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50094994",
+              "popularity": 597,
+              "engagementCount": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Das von Google entwickelte embeddinggemma-2 ist ein Feature-Extraction-Modell, das Texte in numerische Vektoren umwandelt. Dieses Modell ermöglicht eine aussagekräftige Repräsentation von Textdaten in KI-Anwendungen.",
+          "meta": "♥ 2.305 · 135.175 Downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 2305,
+              "engagementCount": 135175,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1069,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "Das auf Hugging Face verfügbare jialinyyzz/humanizer ist ein KI-Modell zur Textgenerierung. Es wurde entwickelt, um sprachliche Ausgaben in den Content-Erstellungsprozessen der Nutzer natürlicher zu gestalten.",
+          "meta": "♥ 1.662 · 65.616 Downloads",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 1662,
+              "engagementCount": 65616,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1051,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "summary": "Das auf Hugging Face veröffentlichte Qwen/Qwen-Image-2.1-Turbo ist ein KI-Modell mit Text-zu-Bild-Fähigkeiten. Es wurde entwickelt, um schriftliche Befehle der Nutzer in visuelle Inhalte umzuwandeln.",
+          "meta": "♥ 800 · 12.704 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1-Turbo",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 800,
+              "engagementCount": 12704,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 740,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:finetune:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "Das auf Hugging Face geteilte openbmb/MiniCPM-V-4.7-35B-A3B ist ein KI-Modell, das Bild- und Texteingaben verarbeitet, um Textausgaben zu erzeugen. Dieses Modell ist mit seinen multimodalen Datenverarbeitungsfähigkeiten für den Einsatz in bild- und textbasierten Aufgaben konzipiert.",
+          "meta": "♥ 708 · 4.157 Downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 708,
+              "engagementCount": 4157,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 636,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "autotrust/JEV-35B",
+          "url": "https://huggingface.co/autotrust/JEV-35B",
+          "summary": "Das auf Hugging Face geteilte autotrust/JEV-35B ist ein KI-Modell, das für Textklassifizierungsaufgaben entwickelt wurde. Das bei Nutzern beliebte Modell wird für Prozesse zur Kategorisierung von Texten verwendet.",
+          "meta": "♥ 840 · 27.970 Downloads",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-35B",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 840,
+              "engagementCount": 27970,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 528,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "system-one",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "mixture-of-experts",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "arxiv:2609.14973",
+                  "base_model:Qwen/Qwen3.5-35B-A3B",
+                  "base_model:finetune:Qwen/Qwen3.5-35B-A3B",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "StreamErase: Towards Ultra-Fast Streaming Video Erasing",
+          "url": "https://huggingface.co/papers/2610.20137",
+          "summary": "StreamErase bietet eine Methode zur Objektentfernung aus Videos mit einer Latenz von unter einer Sekunde und einer Geschwindigkeit von bis zu 26 Bildern pro Sekunde. Dieser Ansatz ermöglicht eine Echtzeit-Interaktion, indem Text-zu-Video-Modelle durch Maskeneingaben unterstützt werden.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.20137",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20137",
+                "publishedAt": "2026-10-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/zhuobaidong/StreamErase"
+              }
+            }
+          }
+        },
+        {
+          "title": "LLM-to-Flow Distillation: Teaching Natural Language Goals to Scientific Generators",
+          "url": "https://huggingface.co/papers/2610.17246",
+          "summary": "LLM-to-Flow Distillation kombiniert die wissenschaftliche Argumentationsfähigkeit grundlegender großer Sprachmodelle (Large Language Models) mit der strukturellen Genauigkeit domänenspezifischer Fluss- und Diffusions-basierter Generatoren. Diese Methode ermöglicht es generativen Modellen in wissenschaftlichen Entdeckungsprozessen, in Übereinstimmung mit in natürlicher Sprache ausgedrückten Zielen zu arbeiten.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.17246",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17246",
+                "publishedAt": "2026-10-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/FedericoDiGennaro/LLM-to-Flow-Distillation"
+              }
+            }
+          }
+        },
+        {
+          "title": "Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance",
+          "url": "https://huggingface.co/papers/2610.20220",
+          "summary": "Glance Forcing bietet eine Methode, die den Prozess der Umwandlung bidirektionaler Diffusionsmodelle in kausale autoregressive Modelle effizienter gestaltet. Dieser Ansatz zielt darauf ab, die hohen Rechenkosten und Datenspeicheranforderungen zu reduzieren, die für Videoweltmodelle erforderlich sind.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.20220",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20220",
+                "publishedAt": "2026-10-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/CSU-JPG/Glance-Forcing"
+              }
+            }
+          }
+        },
+        {
+          "title": "SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm",
+          "url": "https://huggingface.co/papers/2610.20431",
+          "summary": "SwarmRSI ist eine Methode der rekursiven Selbstverbesserung (recursive self-improvement), die es KI-Agenten in wissenschaftlichen Forschungsprozessen ermöglicht, ihre Fähigkeiten basierend auf ihren eigenen Erfahrungen zu entwickeln. Dieses System zielt darauf ab, Daten aus verschiedenen Forschungszweigen zu kombinieren, um die Hypothesen und Implementierungsprozesse der Agenten zu verbessern.",
+          "meta": "7 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.20431",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20431",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety",
+          "url": "https://huggingface.co/papers/2610.19422",
+          "summary": "AgentSafeEvo ist eine Methode, die darauf abzielt, Sicherheitslücken zu schließen, auf die auf großen Sprachmodellen (Large Language Models) basierende Agenten bei der Interaktion mit externen Werkzeugen stoßen. Diese Arbeit nutzt einen Ansatz der adversariellen Koevolution (adversarial co-evolution) und zielt darauf ab, die Manipulation von Agenten durch böswillige Eingaben zu verhindern und sichere Entscheidungsprozesse zu stärken.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.19422",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.19422",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Low-Level-Softwaredateien, die direkt vom Prozessor des Computers ausgeführt werden können und keine spezielle Konvertierung erfordern."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Der Prozess der Rückentwicklung (Reverse Engineering) des Codes oder der Struktur einer Software, um zu verstehen, wie sie funktioniert."
+    },
+    {
+      "term": "context window",
+      "explanation": "Das Limit der Text- oder Datenmenge, die eine KI auf einmal lesen und verarbeiten kann."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Eine Testumgebung, die es ermöglicht, Software in einem sicheren und isolierten Bereich auszuführen, ohne das Hauptsystem zu beschädigen."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Ein Protokoll, das es KI-Modellen ermöglicht, standardisiert mit verschiedenen Datenquellen und Werkzeugen zu kommunizieren."
+    },
+    {
+      "term": "bash script",
+      "explanation": "Eine textbasierte Datei, die über die Befehlszeile ausgeführt wird und dem Computer die nacheinander auszuführenden Aufgaben mitteilt."
+    },
+    {
+      "term": "skills",
+      "explanation": "Spezialisierte Funktionen oder Fähigkeiten, über die KI-Agenten verfügen, um bestimmte Aufgaben zu erfüllen."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Eine textbasierte Schnittstelle, mit der Sie Programme durch die Eingabe schriftlicher Befehle anstelle der Maus steuern können."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Dass Softwaresysteme so konzipiert sind, dass sie direkt und effizient von KI-Agenten genutzt werden können."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Kontrollierte und autorisierte Cyberangriffsversuche, die durchgeführt werden, um Sicherheitslücken in einem System zu finden."
+    },
+    {
+      "term": "software reverse engineering",
+      "explanation": "Der technische Analyseprozess, der durchgeführt wird, um die Arbeitslogik und den Quellcode einer fertigen Software offenzulegen."
+    },
+    {
+      "term": "feature-extraction",
+      "explanation": "Der Prozess des Extrahierens wichtiger Informationen aus Rohdaten und deren Umwandlung in numerische Daten, die von einer KI verstanden werden können."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "Die Fähigkeit einer KI, basierend auf den ihr gegebenen Befehlen neue und sinnvolle Texte zu erstellen."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Technologie, die schriftliche Befehle analysiert und entsprechende visuelle Inhalte generiert."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Die Fähigkeit einer KI, nicht nur Text, sondern gleichzeitig verschiedene Datentypen wie Bilder und Ton zu verarbeiten."
+    },
+    {
+      "term": "text-classification",
+      "explanation": "Die Einteilung von Texten durch eine KI in bestimmte Kategorien oder Gruppen basierend auf deren Inhalt."
+    }
+  ]
+}

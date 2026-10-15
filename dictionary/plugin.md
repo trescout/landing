@@ -81,8 +81,8 @@ MCP, yapay zekâ modellerinin harici araçlar, veritabanları ve servislerle kon
 - [Anthropic Skills](https://trescout.com/discover/anthropic-skills/)
 - [Understand Anything](https://trescout.com/discover/understand-anything/)
 - [Claude Plugins Official](https://trescout.com/discover/claude-plugins-official/)
-- [Codex Plugin Cc](https://trescout.com/discover/codex-plugin-cc/)
 - [Knowledge Work Plugins](https://trescout.com/discover/knowledge-work-plugins/)
+- [Compound Engineering](https://trescout.com/discover/compound-engineering-plugin/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

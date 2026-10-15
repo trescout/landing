@@ -19,7 +19,9 @@ Anki ist eine Karteikarten-Software, die das Lernen durch einen Algorithmus zur 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung der Anki-App zu beginnen, können Sie die offizielle Website apps.ankiweb.net besuchen. Sie können die Computerversion von dort herunterladen und installieren, um sofort mit der Erstellung Ihrer eigenen Karteikarten zu beginnen.
+
+- [Offizielle Quelle →](https://apps.ankiweb.net)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -30,7 +32,7 @@ Anki ist eine Karteikarten-Software, die das Lernen durch einen Algorithmus zur 
 
 ## Links
 
-- [GitHub-Repository →](https://apps.ankiweb.net)
+- [GitHub-Repository →](https://github.com/ankitects/anki)
 - [Auf Türkisch lesen →](https://trescout.com/discover/anki/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-19 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

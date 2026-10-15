@@ -60,7 +60,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Code Intelligence Graph](https://trescout.com/dictionary/code-intelligence-graph/)
 - [Context Reduction](https://trescout.com/dictionary/context-reduction/)
-- [Code Review](https://trescout.com/dictionary/code-review/)
 - [Context](https://trescout.com/dictionary/context/)
 - [Token](https://trescout.com/dictionary/token/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

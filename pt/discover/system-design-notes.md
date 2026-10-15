@@ -20,7 +20,9 @@ Notas compiladas do livro 'System Design Interview - An Insider's Guide', oferec
 
 ## Como começar
 
-- Fonte oficial →
+Este recurso não é uma ferramenta de software, mas uma compilação de notas sobre design de sistemas. Para explorar os tópicos relacionados, você pode seguir os links na página do projeto ou visitar o site onde as notas estão hospedadas diretamente pelo seu navegador.
+
+- [Fonte oficial →](https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu)
 
 ## Termos relacionados do glossário
 
@@ -30,7 +32,7 @@ Notas compiladas do livro 'System Design Interview - An Insider's Guide', oferec
 
 ## Links
 
-- [Repositório no GitHub →](https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu)
+- [Repositório no GitHub →](https://github.com/liquidslr/system-design-notes)
 - [Ler em turco →](https://trescout.com/discover/system-design-notes/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

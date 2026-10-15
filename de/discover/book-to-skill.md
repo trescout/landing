@@ -46,7 +46,6 @@ Ich verwende diese technische Ressource als Kompetenzpaket. Bitte beschränken S
 ## Verwandte Begriffe aus dem Glossar
 
 - [Markdown](https://trescout.com/de/dictionary/markdown/)
-- [Skill](https://trescout.com/de/dictionary/skill/)
 - [Token](https://trescout.com/de/dictionary/token/)
 - [PDF](https://trescout.com/de/dictionary/pdf/)
 - [AI Skills](https://trescout.com/de/dictionary/ai-skills/)

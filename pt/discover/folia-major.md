@@ -21,7 +21,9 @@ Folia-major é uma interface de player que fornece animações de letras visuali
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usá-lo diretamente, você pode baixar e instalar a versão desktop para Windows, macOS ou Linux na seção Releases na página GitHub. Se quiser utilizá-lo na web ou hospedá-lo em seu próprio servidor, você pode revisar o método de distribuição com um clique com Vercel no guia oficial do projeto.
+
+- [Fonte oficial →](https://folia-site.vercel.app/)
 
 ## Termos relacionados do glossário
 
@@ -32,7 +34,7 @@ Folia-major é uma interface de player que fornece animações de letras visuali
 
 ## Links
 
-- [Repositório no GitHub →](https://folia-site.vercel.app/)
+- [Repositório no GitHub →](https://github.com/chthollyphile/folia-major)
 - [Ler em turco →](https://trescout.com/discover/folia-major/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-05: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

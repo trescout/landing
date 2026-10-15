@@ -29,7 +29,9 @@ pip install cubesandbox
 
 ## Getting started
 
-- Official source →
+For installation and usage details, you can review the Quick Start guide in the documentation section of the GitHub repository. To access the web interface, simply visit http://\<control-node IP>:12088 from your browser after installation.
+
+- [Official source →](https://cubesandbox.com)
 
 ## Related dictionary terms
 
@@ -42,7 +44,7 @@ pip install cubesandbox
 
 ## Links
 
-- [GitHub repository →](https://cubesandbox.com)
+- [GitHub repository →](https://github.com/TencentCloud/CubeSandbox)
 - [Read in Turkish →](https://trescout.com/discover/cubesandbox/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-02: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

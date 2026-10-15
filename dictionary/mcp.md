@@ -90,7 +90,7 @@ Tasarımı izin temellidir, ancak sunucunun erişim kapsamını dar tutmanız ve
 - [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
 - [Goose](https://trescout.com/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/discover/chrome-devtools-mcp/)
-- [Codebase Memory MCP](https://trescout.com/discover/codebase-memory-mcp/)
+- [Claude Howto](https://trescout.com/discover/claude-howto/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

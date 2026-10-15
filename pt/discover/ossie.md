@@ -18,7 +18,9 @@ Apache Ossie é uma iniciativa da indústria que visa padronizar a troca de meta
 
 ## Como começar
 
-- Fonte oficial →
+Apache Ossie é uma especificação de padrões e não uma instalação de software. Você pode obter informações sobre como as ferramentas de dados usadas podem ser compatíveis com este padrão examinando os documentos técnicos e os arquivos de esquema na pasta core-spec na página GitHub do projeto.
+
+- [Fonte oficial →](https://ossie.apache.org/)
 
 ## Termos relacionados do glossário
 
@@ -32,7 +34,7 @@ Apache Ossie é uma iniciativa da indústria que visa padronizar a troca de meta
 
 ## Links
 
-- [Repositório no GitHub →](https://ossie.apache.org/)
+- [Repositório no GitHub →](https://github.com/apache/ossie)
 - [Ler em turco →](https://trescout.com/discover/ossie/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-17: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

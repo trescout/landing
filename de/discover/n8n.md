@@ -2,15 +2,15 @@
 
 n8n verbindet eine visuelle Arbeitsfläche, eigenen Code, KI-Agenten und Workflows in einer Fair-Code-Automatisierungsplattform. Die Plattform unterstützt selbst betriebene oder Cloud-Bereitstellungen und kann verschiedene Modellanbieter in Workflows einbinden.
 
-- ★ 207.332
+- ★ 207.437
 - GitHub Trending · 2026-08-23
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 207,332 → 207,437, neueste Version n8n@2.43.6 (15. Oktober 2026).
 - **14. Oktober 2026:** Sterne 207,216 → 207,332, neueste Version n8n@2.43.5 (14. Oktober 2026).
 - **13. Oktober 2026:** Sterne 207,074 → 207,216, neueste Version n8n@2.43.4 (12. Oktober 2026).
 - **12. Oktober 2026:** Sterne 206,789 → 207,074, neueste Version n8n@2.42.7 (12. Oktober 2026).
-- **9. Oktober 2026:** Sterne 206,884 → 206,789, neueste Version n8n@2.42.6 (9. Oktober 2026).
 
 ## Installation
 
@@ -69,6 +69,7 @@ Helfen Sie mir, auf der visuellen Arbeitsfläche einen Workflow zu entwerfen, de
 - [Self-hosting](https://trescout.com/de/dictionary/self-hosting/)
 - [Container](https://trescout.com/de/dictionary/container/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 ## Links
 

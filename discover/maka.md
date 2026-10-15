@@ -2,12 +2,13 @@
 
 Apache Maka, model mesajlarını, araç etkileşimlerini, izin kararlarını ve sonlandırma olaylarını yalnızca yeni kayıt eklenebilen bir günlükte tutan yerel öncelikli bir yapay zekâ ajanı çalışma alanıdır.
 
-- ★ 4.732
+- ★ 5.745
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 4.732 → 5.745.
 - **5 Eylül 2026:** Yıldız 3.701 → 4.732.
 - **27 Ağustos 2026:** Yıldız 2.064 → 3.701, son sürüm v0.1.11 (18 Ağustos 2026).
 - **22 Ağustos 2026:** Yıldız 2.062 → 2.064, son sürüm v0.1.11 (18 Ağustos 2026).

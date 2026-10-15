@@ -33,7 +33,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Exercises Dataset](https://trescout.com/dictionary/exercises-dataset/)
 - [API](https://trescout.com/dictionary/api/)
 
 ---

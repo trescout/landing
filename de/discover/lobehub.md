@@ -43,7 +43,9 @@ docker compose up -d
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung von LobeHub zu beginnen, können Sie die offizielle Website besuchen oder die Installationsoptionen mit Vercel, Zeabur, Sealos, Alibaba Cloud oder Docker im Abschnitt „Self Hosting“ im GitHub-Repository überprüfen. Für detaillierte Informationen und aktuelle Dokumentation werfen Sie einfach einen Blick auf die offizielle Dokumentseite des Projekts.
+
+- [Offizielle Quelle →](https://lobehub.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -54,7 +56,7 @@ docker compose up -d
 
 ## Links
 
-- [GitHub-Repository →](https://lobehub.com)
+- [GitHub-Repository →](https://github.com/lobehub/lobehub)
 - [Auf Türkisch lesen →](https://trescout.com/discover/lobehub/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -39,7 +39,6 @@ Installez l'application de personnage virtuel d'intelligence artificielle appel√
 
 ## Termes li√©s du glossaire
 
-- [AI Companion](https://trescout.com/fr/dictionary/ai-companion/)
 - [Companion](https://trescout.com/fr/dictionary/companion/)
 - [Self-hosting](https://trescout.com/fr/dictionary/self-hosting/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)

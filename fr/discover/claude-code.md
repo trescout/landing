@@ -1,8 +1,8 @@
-# Codage assisté par l'IA dans le terminal
+# Codage assisté par intelligence artificielle dans le terminal
 
 Claude Code; Il s'agit d'un outil de codage basé sur un agent qui réside dans votre terminal et possède une compréhension approfondie de votre base de code. Il accélère votre processus de développement en lisant les fichiers, en apportant des modifications et en exécutant des tests avec des commandes en langage naturel. (Vous pouvez utiliser de nombreux outils de cette page avec.)
 
-- ★ 150 735
+- ★ 150 959
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@ Claude Code; Il s'agit d'un outil de codage basé sur un agent qui réside dans 
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 150,735 → 150,959, dernière version v2.1.300 (14 octobre 2026).
 - **14 octobre 2026:** Étoiles 149,972 → 150,735, dernière version v2.1.299 (14 octobre 2026).
 - **10 octobre 2026:** Étoiles 149,709 → 149,972, dernière version v2.1.296 (9 octobre 2026).
 - **8 octobre 2026:** Étoiles 149,845 → 149,709, dernière version v2.1.295 (8 octobre 2026).
-- **8 octobre 2026:** Étoiles 149,700 → 149,845, dernière version v2.1.294 (8 octobre 2026).
 
 ## Ce que ça vous apporte
 

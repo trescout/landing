@@ -26,7 +26,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Terminal](https://trescout.com/dictionary/terminal/)
-- [Agent](https://trescout.com/dictionary/agent/)
 - [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

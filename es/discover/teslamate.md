@@ -37,7 +37,9 @@ docker compose up -d
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para la instalación y uso, debe visitar la página de documentación oficial. Puede comenzar revisando la documentación oficial en https://docs.teslamate.org para conocer todos los pasos de instalación, guías de configuración e instrucciones actualizadas.
+
+- [Fuente oficial →](https://docs.teslamate.org)
 
 ## Términos relacionados del glosario
 
@@ -49,7 +51,7 @@ docker compose up -d
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://docs.teslamate.org)
+- [Repositorio en GitHub →](https://github.com/teslamate-org/teslamate)
 - [Leer en turco →](https://trescout.com/discover/teslamate/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-16: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

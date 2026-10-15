@@ -19,7 +19,9 @@ This guide developed for Claude Code discusses the transition processes from vib
 
 ## Getting started
 
-- Official source →
+This tool is not a software library, but a comprehensive guide to using Claude Code. To get started, you can review the links in the table in the GitHub repository to learn about topics such as sub-agents, commands, and skills, and visit the official Claude Code documentation.
+
+- [Official source →](https://linkedin.com/in/shanraisshan)
 
 ## Related dictionary terms
 
@@ -34,7 +36,7 @@ This guide developed for Claude Code discusses the transition processes from vib
 
 ## Links
 
-- [GitHub repository →](https://linkedin.com/in/shanraisshan)
+- [GitHub repository →](https://github.com/shanraisshan/claude-code-best-practice)
 - [Read in Turkish →](https://trescout.com/discover/claude-code-best-practice/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-24: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

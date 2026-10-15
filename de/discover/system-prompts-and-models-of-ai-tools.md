@@ -15,13 +15,14 @@ Systemeingabeaufforderungen und verwendete Sprachmodelle (KI-Modelle) beliebter 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Bei diesem Tool handelt es sich um ein Informationsarchiv, für das keine Installation erforderlich ist. Sie können über Ihren Browser die entsprechende Repository-Seite auf GitHub besuchen, um auf die Systemanweisungen und Modellinformationen der Tools für künstliche Intelligenz zuzugreifen, die Sie untersuchen möchten.
+
+- [Offizielle Quelle →](https://github.com/latitude-dev/latitude-llm)
 
 ## Verwandte Begriffe aus dem Glossar
 
 - [System Prompts](https://trescout.com/de/dictionary/system-prompts/)
 - [AI Models](https://trescout.com/de/dictionary/ai-models/)
-- [Tools](https://trescout.com/de/dictionary/tools/)
 - [Generative AI](https://trescout.com/de/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
@@ -30,7 +31,7 @@ Systemeingabeaufforderungen und verwendete Sprachmodelle (KI-Modelle) beliebter 
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/latitude-dev/latitude-llm)
+- [GitHub-Repository →](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Auf Türkisch lesen →](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-10 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

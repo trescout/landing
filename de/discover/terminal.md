@@ -35,7 +35,9 @@ wt
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Sie können die Windows-Terminalanwendung ganz einfach aus dem Microsoft Store herunterladen. Alternativ können Sie die aktuelle Version manuell von der Release-Seite auf GitHub herunterladen oder sie mit Paketmanagern wie Winget, Chocolatey oder Scoop auf Ihrem Computer installieren.
+
+- [Offizielle Quelle →](https://aka.ms/terminal)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -47,7 +49,7 @@ wt
 
 ## Links
 
-- [GitHub-Repository →](https://aka.ms/terminal)
+- [GitHub-Repository →](https://github.com/microsoft/terminal)
 - [Auf Türkisch lesen →](https://trescout.com/discover/terminal/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -18,7 +18,6 @@ First you need to get an API key through DeepSeek Platform. Then, review the tab
 ## Related dictionary terms
 
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
-- [Agent](https://trescout.com/en/dictionary/agent/)
 - [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

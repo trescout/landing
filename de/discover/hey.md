@@ -18,7 +18,9 @@ hey, entwickelt in der Sprache Go, ist ein Lasttest-Tool zur Messung der Leistun
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Für die Installation können Sie die passenden Download-Links für Ihr Betriebssystem Linux, macOS oder Windows verwenden oder die Installation unter macOS über den Paketmanager Homebrew mit dem entsprechenden Befehl durchführen.
+
+- [Offizielle Quelle →](https://storage.googleapis.com/hey-releases/hey_linux_amd64)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -31,7 +33,7 @@ hey, entwickelt in der Sprache Go, ist ein Lasttest-Tool zur Messung der Leistun
 
 ## Links
 
-- [GitHub-Repository →](https://storage.googleapis.com/hey-releases/hey_linux_amd64)
+- [GitHub-Repository →](https://github.com/rakyll/hey)
 - [Auf Türkisch lesen →](https://trescout.com/discover/hey/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-29 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

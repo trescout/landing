@@ -17,7 +17,9 @@ Le référentiel system-design-101 de ByteByteGoHq explique les architectures sy
 
 ## Pour commencer
 
-- Source officielle →
+Cet outil n'est pas une bibliothèque logicielle mais une ressource pédagogique complète. Pour commencer, vous pouvez parcourir la liste de contenu dans le référentiel GitHub et accéder aux guides explicatifs sur le site officiel de ByteByteGo en cliquant sur le titre qui vous intéresse.
+
+- [Source officielle →](https://bytebytego.com/guides)
 
 ## Termes liés du glossaire
 
@@ -27,7 +29,7 @@ Le référentiel system-design-101 de ByteByteGoHq explique les architectures sy
 
 ## Liens
 
-- [Dépôt GitHub →](https://bytebytego.com/guides)
+- [Dépôt GitHub →](https://github.com/ByteByteGoHq/system-design-101)
 - [Lire en turc →](https://trescout.com/discover/system-design-101/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-29 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

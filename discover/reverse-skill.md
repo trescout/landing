@@ -46,7 +46,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [Routing Pack](https://trescout.com/dictionary/routing-pack/)
 - [Toolchain Bootstrapping](https://trescout.com/dictionary/toolchain-bootstrapping/)
-- [Skill](https://trescout.com/dictionary/skill/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

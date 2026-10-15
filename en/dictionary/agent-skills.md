@@ -70,11 +70,11 @@ Yes. Platforms package common capabilities, and you write your own for custom wo
 - [Agent Skills](https://trescout.com/en/discover/agent-skills/)
 - [Taste Skill](https://trescout.com/en/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/en/discover/openmontage/)
-- [Scientific Agent Skills](https://trescout.com/en/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](https://trescout.com/en/discover/awesome-agent-skills/)
 - [Agentskills](https://trescout.com/en/discover/agentskills/)
 - [Text to Cad](https://trescout.com/en/discover/text-to-cad/)
 - [Claude Obsidian](https://trescout.com/en/discover/claude-obsidian/)
+- [Stitch Skills](https://trescout.com/en/discover/stitch-skills/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent-skills/)
 

@@ -21,7 +21,9 @@ Palmier Pro was developed as a video editor that runs on the macOS operating sys
 
 ## Getting started
 
-- Official source →
+Download and install the Palmier Pro app on your macOS device using the download link on the official GitHub page. After running the application, you can log in to use artificial intelligence tools or configure MCP integrations from the Help menu within the application.
+
+- [Official source →](https://palmier.io)
 
 ## Related dictionary terms
 
@@ -36,7 +38,7 @@ Palmier Pro was developed as a video editor that runs on the macOS operating sys
 
 ## Links
 
-- [GitHub repository →](https://palmier.io)
+- [GitHub repository →](https://github.com/palmier-io/palmier-pro)
 - [Read in Turkish →](https://trescout.com/discover/palmier-pro/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

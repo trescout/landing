@@ -34,7 +34,9 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 ## Getting started
 
-- Official source →
+To start using this tool, you can visit the official website tailwindcss.com and review the installation and usage documentation.
+
+- [Official source →](https://tailwindcss.com/)
 
 ## Related dictionary terms
 
@@ -47,7 +49,7 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 
 ## Links
 
-- [GitHub repository →](https://tailwindcss.com/)
+- [GitHub repository →](https://github.com/tailwindlabs/tailwindcss)
 - [Read in Turkish →](https://trescout.com/discover/tailwindcss/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

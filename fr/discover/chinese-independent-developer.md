@@ -18,7 +18,9 @@ Cette base de données open source, qui recense les projets réalisés par des d
 
 ## Pour commencer
 
-- Source officielle →
+Cet outil ne nécessite pas d'installation de logiciel. Pour consulter les projets, vous pouvez visiter la page d'accueil sur GitHub et naviguer directement en cliquant sur les sites Web des applications répertoriées ou sur les liens de leurs référentiels respectifs.
+
+- [Source officielle →](https://github.com/xhdndmm)
 
 ## Termes liés du glossaire
 
@@ -28,7 +30,7 @@ Cette base de données open source, qui recense les projets réalisés par des d
 
 ## Liens
 
-- [Dépôt GitHub →](https://github.com/xhdndmm)
+- [Dépôt GitHub →](https://github.com/1c7/chinese-independent-developer)
 - [Lire en turc →](https://trescout.com/discover/chinese-independent-developer/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-15 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

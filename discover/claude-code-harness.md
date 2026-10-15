@@ -2,17 +2,17 @@
 
 **Claude Code Harness**, ham ajan çalışmasının dağılma eğilimini frenleyerek **planla, yap, gözden geçir ve teslim et** disiplinini sunar. Planların sohbette kaybolmasını önler, testleri sınırlandırır ve daha tutarlı kod üretimi sağlar. Claude Code merkezli olsa da Codex ve OpenCode için de entegrasyon yolları sunar.
 
-- ★ 3.092
+- ★ 3.164
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 3.092 → 3.164, son sürüm v5.16.0 (15 Ekim 2026).
 - **6 Eylül 2026:** Yıldız 3.076 → 3.092, son sürüm v5.15.0 (6 Eylül 2026).
 - **31 Ağustos 2026:** Yıldız 3.071 → 3.076, son sürüm v5.14.1 (31 Ağustos 2026).
 - **27 Ağustos 2026:** Yıldız 3.070 → 3.071, son sürüm v5.13.1 (25 Ağustos 2026).
-- **24 Ağustos 2026:** Yıldız 3.068 → 3.070, son sürüm v5.12.0 (24 Ağustos 2026).
 
 - **Kimin için:** Claude Code ile ciddi iş yapan geliştiriciler
 - **Zorluk:** Orta · Claude Code kullanımı

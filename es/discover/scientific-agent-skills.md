@@ -2,15 +2,15 @@
 
 Scientific-Agent-Skills es una biblioteca de habilidades ya preparada que adapta los agentes de inteligencia artificial a los procesos de investigación científica. Ofreciendo 163 capacidades validadas y más de 100 bases de datos en los campos de la biología, la química y la medicina, se integra con plataformas como el editor de código Cursor o el asistente de IA Claude Code.
 
-- ★ 47.342
+- ★ 49.814
 - GitHub Trending · 2026-08-26
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 47,342 → 49,814, última versión v2.72.0 (1 de octubre de 2026).
 - **2 de octubre de 2026:** Estrellas 47,133 → 47,342, última versión v2.72.0 (1 de octubre de 2026).
 - **29 de septiembre de 2026:** Estrellas 46,808 → 47,133, última versión v2.70.0 (29 de septiembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 44,519 → 46,808, última versión v2.69.0 (11 de septiembre de 2026).
-- **12 de septiembre de 2026:** Estrellas 44,381 → 44,519, última versión v2.69.0 (11 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -34,9 +34,6 @@ Comience a utilizar las 166 habilidades listas para usar y las conexiones de bas
 
 ## Términos relacionados del glosario
 
-- [Agent Skills](https://trescout.com/es/dictionary/agent-skills/)
-- [AI Skills](https://trescout.com/es/dictionary/ai-skills/)
-- [Agent](https://trescout.com/es/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es para investigadores que realizan investigaciones científicas y desean integrar asistentes de inteligencia artificial en los procesos de laboratorio.

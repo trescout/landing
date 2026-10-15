@@ -43,7 +43,6 @@ Elles fonctionnent généralement à l'intérieur d'un navigateur ou via une cou
 - [Meshery](https://trescout.com/fr/discover/meshery/)
 - [Tinycast](https://trescout.com/fr/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/fr/discover/stitch-skills/)
-- [Agent Native](https://trescout.com/fr/discover/agent-native/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/native/)
 

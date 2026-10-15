@@ -14,7 +14,9 @@ LibreChat es una plataforma de chat de código abierto que combina diferentes mo
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a usar LibreChat, puede visitar el sitio de documentación oficial y seguir los pasos de instalación. Puede aprovechar las guías en docs.librechat.ai para instalar la plataforma en su propio servidor o implementarla rápidamente a través de servicios en la nube.
+
+- [Fuente oficial →](https://librechat.ai/)
 
 ## Términos relacionados del glosario
 
@@ -25,7 +27,7 @@ LibreChat es una plataforma de chat de código abierto que combina diferentes mo
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://librechat.ai/)
+- [Repositorio en GitHub →](https://github.com/danny-avila/LibreChat)
 - [Leer en turco →](https://trescout.com/discover/librechat/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-16: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

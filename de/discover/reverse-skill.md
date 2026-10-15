@@ -37,7 +37,6 @@ Verwenden Sie dieses Projekt als Leitfaden für eine Penetrationstest- oder Reve
 
 - [Routing Pack](https://trescout.com/de/dictionary/routing-pack/)
 - [Toolchain Bootstrapping](https://trescout.com/de/dictionary/toolchain-bootstrapping/)
-- [Skill](https://trescout.com/de/dictionary/skill/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Sicherheitsforscher, die künstliche Intelligenz bei Penetrationstests und Reverse-Engineering-Prozessen effizienter einsetzen möchten.

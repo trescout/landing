@@ -1,8 +1,8 @@
-# Codificação assistida por IA no terminal
+# Codificação suportada por inteligência artificial no terminal
 
 Código Cláudio; É uma ferramenta de codificação baseada em agente que fica em seu terminal e tem um conhecimento profundo de sua base de código. Ele acelera seu processo de desenvolvimento lendo arquivos, fazendo alterações e executando testes com comandos de linguagem natural. (Você pode usar muitas das ferramentas desta página com ele.)
 
-- ★ 150.735
+- ★ 150.959
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@ Código Cláudio; É uma ferramenta de codificação baseada em agente que fica 
 
 ## Atualizações
 
+- **15 de outubro de 2026:** Estrelas 150,735 → 150,959, versão mais recente v2.1.300 (14 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 149,972 → 150,735, versão mais recente v2.1.299 (14 de outubro de 2026).
 - **10 de outubro de 2026:** Estrelas 149,709 → 149,972, versão mais recente v2.1.296 (9 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 149,845 → 149,709, versão mais recente v2.1.295 (8 de outubro de 2026).
-- **8 de outubro de 2026:** Estrelas 149,700 → 149,845, versão mais recente v2.1.294 (8 de outubro de 2026).
 
 ## O que você ganha
 

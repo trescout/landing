@@ -20,7 +20,9 @@ GitNexus es un motor de análisis de código que se ejecuta en el navegador y tr
 
 ## Cómo empezar
 
-- Fuente oficial →
+Ejecute el comando de análisis abriendo la terminal en el directorio principal de su proyecto. Este proceso indexa su código base y crea automáticamente la configuración necesaria para los editores de IA que utiliza.
+
+- [Fuente oficial →](https://gitnexus.vercel.app)
 
 ## Términos relacionados del glosario
 
@@ -33,7 +35,7 @@ GitNexus es un motor de análisis de código que se ejecuta en el navegador y tr
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://gitnexus.vercel.app)
+- [Repositorio en GitHub →](https://github.com/abhigyanpatwari/GitNexus)
 - [Leer en turco →](https://trescout.com/discover/gitnexus/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

@@ -18,7 +18,9 @@ Der von AhmadIbrahiim entwickelte Website-Downloader ermöglicht das Herunterlad
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um das Tool zu verwenden, laden Sie die Codes von der GitHub-Seite auf Ihren Computer herunter. Gehen Sie dann über das Terminal in den Projektordner, installieren Sie die notwendigen Abhängigkeiten und starten Sie die Anwendung. Nachdem die Anwendung ausgeführt wurde, können Sie den Download starten, indem Sie über Ihren Browser die lokale Adresse aufrufen.
+
+- [Offizielle Quelle →](https://website-downloader.onrender.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -30,7 +32,7 @@ Der von AhmadIbrahiim entwickelte Website-Downloader ermöglicht das Herunterlad
 
 ## Links
 
-- [GitHub-Repository →](https://website-downloader.onrender.com)
+- [GitHub-Repository →](https://github.com/AhmadIbrahiim/Website-downloader)
 - [Auf Türkisch lesen →](https://trescout.com/discover/website-downloader/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-08 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -18,7 +18,9 @@ TypeWords ist ein Schreibübungstool mit einer Vue-basierten Benutzeroberfläche
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Sie müssen nichts installieren, um das Tool zu nutzen; Sie können direkt über Ihren Browser unter https://typewords.cc mit dem Üben beginnen. Wenn Sie es auf Ihrem eigenen Computer ausführen möchten, können Sie nach der Installation der Node.js-Entwicklungsumgebung den Quellcode des Projekts von GitHub herunterladen, die erforderlichen Abhängigkeiten über das Terminal installieren und es auf Ihrem lokalen Server starten.
+
+- [Offizielle Quelle →](https://typewords.cc)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -29,7 +31,7 @@ TypeWords ist ein Schreibübungstool mit einer Vue-basierten Benutzeroberfläche
 
 ## Links
 
-- [GitHub-Repository →](https://typewords.cc)
+- [GitHub-Repository →](https://github.com/zyronon/TypeWords)
 - [Auf Türkisch lesen →](https://trescout.com/discover/typewords/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-03 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

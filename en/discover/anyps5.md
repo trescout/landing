@@ -21,7 +21,9 @@ AnyPS5 is a tool that automatically converts PlayStation 5 game files to run on 
 
 ## Getting started
 
-- Official source →
+To get started with the project, you can review the USAGE.md user guide and BUILD.md compilation instructions available in the GitHub repository. You can check the COMPATIBILITY.md compatibility table to learn the status of tested games.
+
+- [Official source →](https://boykopovar.github.io/AnyPS5)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ AnyPS5 is a tool that automatically converts PlayStation 5 game files to run on 
 
 ## Links
 
-- [GitHub repository →](https://boykopovar.github.io/AnyPS5)
+- [GitHub repository →](https://github.com/boykopovar/AnyPS5)
 - [Read in Turkish →](https://trescout.com/discover/anyps5/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

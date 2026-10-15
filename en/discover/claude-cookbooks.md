@@ -19,7 +19,9 @@ Claude cookbooks shared by Anthropics provide practical code examples and Jupyte
 
 ## Getting started
 
-- Official source →
+You can review the Jupyter notebooks you want to use by accessing the Claude Cookbooks repository via GitHub. To get started, you should first grab a free Claude API key from the Anthropic official site and check out the recommended Claude API Fundamentals course to learn the basic concepts.
+
+- [Official source →](https://www.anthropic.com)
 
 ## Related dictionary terms
 
@@ -34,7 +36,7 @@ Claude cookbooks shared by Anthropics provide practical code examples and Jupyte
 
 ## Links
 
-- [GitHub repository →](https://www.anthropic.com)
+- [GitHub repository →](https://github.com/anthropics/claude-cookbooks)
 - [Read in Turkish →](https://trescout.com/discover/claude-cookbooks/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-10: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

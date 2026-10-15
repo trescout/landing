@@ -55,7 +55,6 @@ Ich möchte meine Claude Code-Arbeitsumgebung optimieren. Wie kann ich mit dem B
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Claude Code Templates](https://trescout.com/de/dictionary/claude-code-templates/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)

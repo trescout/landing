@@ -35,7 +35,6 @@ Sie sind Experte für die Entwicklung von Agenten für künstliche Intelligenz. 
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [AI Agent](https://trescout.com/de/dictionary/ai-agent/)
 - [RAG](https://trescout.com/de/dictionary/rag/)
 - [PDF](https://trescout.com/de/dictionary/pdf/)
 - [LLM](https://trescout.com/de/dictionary/llm/)

@@ -79,8 +79,8 @@ MCP est un protocole de plug-in ouvert qui standardise la manière dont les mod�
 - [Anthropic Skills](https://trescout.com/fr/discover/anthropic-skills/)
 - [Understand Anything](https://trescout.com/fr/discover/understand-anything/)
 - [Claude Plugins Official](https://trescout.com/fr/discover/claude-plugins-official/)
-- [Codex Plugin Cc](https://trescout.com/fr/discover/codex-plugin-cc/)
 - [Knowledge Work Plugins](https://trescout.com/fr/discover/knowledge-work-plugins/)
+- [Compound Engineering](https://trescout.com/fr/discover/compound-engineering-plugin/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/plugin/)
 

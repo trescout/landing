@@ -20,7 +20,9 @@ A Anthropic oferece um diretório oficial que coleta plugins de alta qualidade d
 
 ## Como começar
 
-- Fonte oficial →
+Você pode navegar pelos plug-ins disponíveis usando o menu '/plugin > Descobrir' na interface do Claude Code. Para instalar plugins, basta usar o comando '/plugin install {plugin-name}@claude-plugins-official' na linha de comando do Claude Code.
+
+- [Fonte oficial →](https://code.claude.com/docs/en/plugins)
 
 ## Termos relacionados do glossário
 
@@ -32,7 +34,7 @@ A Anthropic oferece um diretório oficial que coleta plugins de alta qualidade d
 
 ## Links
 
-- [Repositório no GitHub →](https://code.claude.com/docs/en/plugins)
+- [Repositório no GitHub →](https://github.com/anthropics/claude-plugins-official)
 - [Ler em turco →](https://trescout.com/discover/claude-plugins-official/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-24: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

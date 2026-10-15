@@ -2,16 +2,16 @@
 
 Macro é um espaço de trabalho que combina ferramentas de negócios como e-mail, chat, documentos e gerenciamento de tarefas com uma memória comum de inteligência artificial. Desenvolvido com a linguagem Rust, esta plataforma conecta diferentes fluxos de trabalho em uma única interface.
 
-- ★ 4.666
+- ★ 4.680
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Atualizações
 
+- **15 de outubro de 2026:** Estrelas 4,666 → 4,680, versão mais recente v2026.10.14.0 (14 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 4,627 → 4,666, versão mais recente v2026.10.13.1 (13 de outubro de 2026).
 - **11 de outubro de 2026:** Estrelas 4,613 → 4,627, versão mais recente v2026.10.10.0 (10 de outubro de 2026).
 - **10 de outubro de 2026:** Estrelas 4,598 → 4,613, versão mais recente v2026.10.9.1 (9 de outubro de 2026).
-- **9 de outubro de 2026:** Estrelas 4,584 → 4,598, versão mais recente v2026.10.8.1 (8 de outubro de 2026).
 
 ## O que você ganha
 
@@ -21,7 +21,9 @@ Macro é um espaço de trabalho que combina ferramentas de negócios como e-mail
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar a plataforma Macro, basta acessar o site oficial macro.com e se cadastrar. Você pode revisar a página de documentação em docs.macro.com para obter informações sobre todos os recursos e detalhes de uso oferecidos pela plataforma.
+
+- [Fonte oficial →](https://macro.com)
 
 ## Termos relacionados do glossário
 
@@ -33,7 +35,7 @@ Macro é um espaço de trabalho que combina ferramentas de negócios como e-mail
 
 ## Links
 
-- [Repositório no GitHub →](https://macro.com)
+- [Repositório no GitHub →](https://github.com/macro-inc/macro)
 - [Ler em turco →](https://trescout.com/discover/macro/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-13: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

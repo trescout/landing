@@ -28,14 +28,16 @@ brew install grpc
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar o gRPC, você deve primeiro visitar o site oficial grpc.io. Você pode seguir as etapas de instalação adequadas ao seu projeto revisando os guias de início rápido e tutoriais específicos para a linguagem de programação que você usa na seção de documentação aqui.
+
+- [Fonte oficial →](https://grpc.io)
 
 - **Para quem é:** Destina-se a desenvolvedores de software que desejam estabelecer comunicação de rede rápida e confiável entre serviços desenvolvidos com diferentes linguagens de programação.
 - **Licença:** Apache-2.0
 
 ## Links
 
-- [Repositório no GitHub →](https://grpc.io)
+- [Repositório no GitHub →](https://github.com/grpc/grpc)
 - [Ler em turco →](https://trescout.com/discover/grpc/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-11: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

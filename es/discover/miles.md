@@ -20,7 +20,9 @@ Miles es un marco orientado a empresas que gestiona procesos de aprendizaje por 
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a trabajar con Miles, debe seguir la guía de instalación en el sitio oficial de documentación. Puede visitar miles.radixark.com/docs/getting-started/installation para conocer las imágenes de contenedor adecuadas para sus requisitos de hardware y los pasos de instalación.
+
+- [Fuente oficial →](https://miles.radixark.com)
 
 ## Términos relacionados del glosario
 
@@ -35,7 +37,7 @@ Miles es un marco orientado a empresas que gestiona procesos de aprendizaje por 
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://miles.radixark.com)
+- [Repositorio en GitHub →](https://github.com/radixark/miles)
 - [Leer en turco →](https://trescout.com/discover/miles/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

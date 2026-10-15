@@ -37,14 +37,16 @@ docker compose up -d
 
 ## Cómo empezar
 
-- Fuente oficial →
+Esta herramienta es un software basado en web y debe ejecutarse en un servidor web. Para conocer los pasos de instalación y configuración, debe visitar la documentación de instalación oficial de Snipe-IT y revisar los requisitos del sistema.
+
+- [Fuente oficial →](https://snipeitapp.com)
 
 - **Para quién es:** Es para organizaciones y administradores de sistemas que desean monitorear periódicamente su inventario de TI, débitos de hardware y licencias de software.
 - **Licencia:** AGPL-3.0
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://snipeitapp.com)
+- [Repositorio en GitHub →](https://github.com/grokability/snipe-it)
 - [Leer en turco →](https://trescout.com/discover/snipe-it/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-30: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

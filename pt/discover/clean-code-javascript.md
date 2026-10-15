@@ -14,7 +14,9 @@ Este guia, que adapta princípios de código limpo à linguagem JavaScript, ofer
 
 ## Como começar
 
-- Fonte oficial →
+Esta ferramenta é um guia, não uma biblioteca de software. Ao visitar o repositório clean-code-javascript no GitHub, você pode examinar seções como nomenclatura de variáveis, design de funções e princípios SOLID, e melhorar a qualidade do seu código aplicando esses padrões em seus próprios projetos.
+
+- [Fonte oficial →](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## Termos relacionados do glossário
 
@@ -25,7 +27,7 @@ Este guia, que adapta princípios de código limpo à linguagem JavaScript, ofer
 
 ## Links
 
-- [Repositório no GitHub →](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Repositório no GitHub →](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Ler em turco →](https://trescout.com/discover/clean-code-javascript/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-03: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

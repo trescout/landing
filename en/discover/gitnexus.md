@@ -20,7 +20,9 @@ GitNexus is a browser-based code analysis engine that transforms code repositori
 
 ## Getting started
 
-- Official source →
+Open the terminal in your project's root directory and run the analysis command. This process indexes your codebase and automatically generates the necessary configuration for the AI editors you use.
+
+- [Official source →](https://gitnexus.vercel.app)
 
 ## Related dictionary terms
 
@@ -33,7 +35,7 @@ GitNexus is a browser-based code analysis engine that transforms code repositori
 
 ## Links
 
-- [GitHub repository →](https://gitnexus.vercel.app)
+- [GitHub repository →](https://github.com/abhigyanpatwari/GitNexus)
 - [Read in Turkish →](https://trescout.com/discover/gitnexus/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -72,7 +72,6 @@ Capacidades definidas como pesquisa, arquivo, calendário, API e execução de c
 - [Awesome LLM Apps](https://trescout.com/pt/discover/awesome-llm-apps/)
 - [Taste Skill](https://trescout.com/pt/discover/taste-skill/)
 - [Last30days Skill](https://trescout.com/pt/discover/last30days-skill/)
-- [AI Agent Book](https://trescout.com/pt/discover/ai-agent-book/)
 - [Hiring Agent](https://trescout.com/pt/discover/hiring-agent/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-agent/)

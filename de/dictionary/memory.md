@@ -42,7 +42,6 @@ Auf den meisten Systemen können Sie diese Daten mit dem Befehl „Speicher lös
 
 - [Mempalace](https://trescout.com/de/discover/mempalace/)
 - [Hindsight](https://trescout.com/de/discover/hindsight/)
-- [Codebase Memory MCP](https://trescout.com/de/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/de/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/de/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/de/discover/ai-memory/)

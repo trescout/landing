@@ -2,12 +2,13 @@
 
 OBLITERATUS befasst sich mit der Analyse von Sicherheitsbarriereaspekten, der Erkennung von Ausrichtungsspuren, der Bewertung der Verteidigungsrobustheit und Techniken zum Entfernen von Ablehnungs- und Sicherheitsbarrieresignalen aus Sprachmodellen.
 
-- ★ 7.994
+- ★ 8.803
 - Python
 - GitHub Trending · 2026-08-22
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 7,994 → 8,803, neueste Version v0.1.4 (15. Oktober 2026).
 - **24. August 2026:** Sterne 7,838 → 7,994, neueste Version v0.1.3 (23. August 2026).
 
 ## Was es bringt

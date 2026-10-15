@@ -29,7 +29,9 @@ pip install GeoLibre
 
 ## Pour commencer
 
-- Source officielle →
+Vous n'avez besoin d'aucune installation pour commencer à utiliser GeoLibre. Vous pouvez accéder à la version Web via votre navigateur ou visiter la page de téléchargement sur le site officiel pour télécharger le programme d'installation de votre système d'exploitation de bureau.
+
+- [Source officielle →](https://geolibre.app)
 
 ## Termes liés du glossaire
 
@@ -42,7 +44,7 @@ pip install GeoLibre
 
 ## Liens
 
-- [Dépôt GitHub →](https://geolibre.app)
+- [Dépôt GitHub →](https://github.com/opengeos/GeoLibre)
 - [Lire en turc →](https://trescout.com/discover/geolibre/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

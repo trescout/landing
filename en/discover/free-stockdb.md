@@ -21,7 +21,9 @@ Free-stockdb is a native quantitative analysis engine that handles daily and min
 
 ## Getting started
 
-- Official source →
+If you are a Windows user, download the current version from the Releases section on the GitHub page. After opening the file you downloaded, run the data update tool and wait for the data to be synchronized to your local folder, and then launch the stockdb application.
+
+- [Official source →](https://github.com/hello245m/free-stockdb/releases/download/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC0.2.1/free-stockdb-windows-v0.2.1-more-power.zip)
 
 ## Related dictionary terms
 
@@ -34,7 +36,7 @@ Free-stockdb is a native quantitative analysis engine that handles daily and min
 
 ## Links
 
-- [GitHub repository →](https://github.com/hello245m/free-stockdb/releases/download/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC0.2.1/free-stockdb-windows-v0.2.1-more-power.zip)
+- [GitHub repository →](https://github.com/hello245m/free-stockdb)
 - [Read in Turkish →](https://trescout.com/discover/free-stockdb/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

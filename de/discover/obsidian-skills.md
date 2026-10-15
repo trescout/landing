@@ -38,7 +38,6 @@ Ich verwende das Obsidian-Skills-Tool, um meine Obsidian-Notizen zu verwalten. B
 ## Verwandte Begriffe aus dem Glossar
 
 - [Markdown](https://trescout.com/de/dictionary/markdown/)
-- [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

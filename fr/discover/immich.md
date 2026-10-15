@@ -2,16 +2,16 @@
 
 Immich est une solution de gestion multimédia auto-hébergée haute performance développée pour gérer les fichiers photo et vidéo. Écrite en TypeScript, cette plateforme permet aux utilisateurs de créer une archive multimédia centrale sur leur propre infrastructure.
 
-- ★ 115 826
+- ★ 116 286
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 115,826 → 116,286, dernière version v3.3.3 (14 octobre 2026).
 - **9 octobre 2026:** Étoiles 115,783 → 115,826, dernière version v3.3.1 (8 octobre 2026).
 - **8 octobre 2026:** Étoiles 115,268 → 115,783, dernière version v3.3.0 (7 octobre 2026).
 - **29 septembre 2026:** Étoiles 114,389 → 115,268, dernière version v3.2.4 (28 septembre 2026).
-- **16 septembre 2026:** Étoiles 114,210 → 114,389, dernière version v3.2.2 (15 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -39,7 +39,9 @@ docker compose up -d
 
 ## Pour commencer
 
-- Source officielle →
+Visitez la page de documentation officielle pour les détails d'installation et d'utilisation. Vous pouvez démarrer votre gestion des médias sur votre propre serveur en suivant les guides d'installation sur https://immich.app/.
+
+- [Source officielle →](https://immich.app)
 
 ## Termes liés du glossaire
 
@@ -50,7 +52,7 @@ docker compose up -d
 
 ## Liens
 
-- [Dépôt GitHub →](https://immich.app)
+- [Dépôt GitHub →](https://github.com/immich-app/immich)
 - [Lire en turc →](https://trescout.com/discover/immich/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

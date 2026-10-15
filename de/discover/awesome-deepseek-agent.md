@@ -18,7 +18,6 @@ Zuerst müssen Sie einen API-Schlüssel über die DeepSeek-Plattform erhalten. S
 ## Verwandte Begriffe aus dem Glossar
 
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
-- [Agent](https://trescout.com/de/dictionary/agent/)
 - [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

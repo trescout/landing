@@ -19,7 +19,9 @@ El repositorio ChinaTextbook ofrece un archivo digital de libros de texto utiliz
 
 ## Cómo empezar
 
-- Fuente oficial →
+Puede ver o descargar directamente libros de texto de nivel primario, secundario, secundario y universitario en formato PDF visitando la página de GitHub del repositorio de ChinaTextbook. Si el archivo que descargó está dividido en partes, puede descargar la herramienta de combinación en su computadora yendo al enlace '下载文件合并程序' en la página del proyecto y fusionarlo ejecutándolo en la misma carpeta con los archivos relevantes.
+
+- [Fuente oficial →](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
 
 ## Términos relacionados del glosario
 
@@ -29,7 +31,7 @@ El repositorio ChinaTextbook ofrece un archivo digital de libros de texto utiliz
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
+- [Repositorio en GitHub →](https://github.com/TapXWorld/ChinaTextbook)
 - [Leer en turco →](https://trescout.com/discover/chinatextbook/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-08: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

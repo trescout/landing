@@ -18,7 +18,9 @@ byoungd/up ist ein umfassender Leitfaden, der Ressourcen zur persönlichen Entwi
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um den Leitfaden zu lesen, können Sie die Markdown-Dateien im GitHub-Repository in Ihrem Browser durchsuchen oder die E-Book-Versionen im EPUB- und PDF-Format über die Links im Repository herunterladen. Sie können die Arbeitsvorlagen in den Dokumenten nutzen, um Ihre eigenen Ziele zu planen.
+
+- [Offizielle Quelle →](https://biezou.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -30,7 +32,7 @@ byoungd/up ist ein umfassender Leitfaden, der Ressourcen zur persönlichen Entwi
 
 ## Links
 
-- [GitHub-Repository →](https://biezou.com)
+- [GitHub-Repository →](https://github.com/byoungd/up)
 - [Auf Türkisch lesen →](https://trescout.com/discover/up/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

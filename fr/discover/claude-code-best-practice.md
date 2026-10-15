@@ -19,7 +19,9 @@ Ce guide développé pour Claude Code traite des processus de transition de l'ap
 
 ## Pour commencer
 
-- Source officielle →
+Cet outil n'est pas une bibliothèque de logiciels, mais un guide complet d'utilisation de Claude Code. Pour commencer, vous pouvez consulter les liens dans le tableau du référentiel GitHub pour en savoir plus sur des sujets tels que les sous-agents, les commandes et les compétences, et visiter la documentation officielle de Claude Code.
+
+- [Source officielle →](https://linkedin.com/in/shanraisshan)
 
 ## Termes liés du glossaire
 
@@ -34,7 +36,7 @@ Ce guide développé pour Claude Code traite des processus de transition de l'ap
 
 ## Liens
 
-- [Dépôt GitHub →](https://linkedin.com/in/shanraisshan)
+- [Dépôt GitHub →](https://github.com/shanraisshan/claude-code-best-practice)
 - [Lire en turc →](https://trescout.com/discover/claude-code-best-practice/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

@@ -37,7 +37,9 @@ http://localhost:8080
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um Keycloak verwenden zu können, müssen Sie das Distributionspaket von der offiziellen Website herunterladen und auf Ihren Computer extrahieren. Alternativ können Sie es auch schnell mit Docker ausführen. Detaillierte Installations- und Konfigurationsschritte finden Sie auf der offiziellen Dokumentationsseite.
+
+- [Offizielle Quelle →](https://www.keycloak.org)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -49,7 +51,7 @@ http://localhost:8080
 
 ## Links
 
-- [GitHub-Repository →](https://www.keycloak.org)
+- [GitHub-Repository →](https://github.com/keycloak/keycloak)
 - [Auf Türkisch lesen →](https://trescout.com/discover/keycloak/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -18,7 +18,9 @@ YimMenuV2 ist eine experimentelle Menümodifikation, die für Grand Theft Auto 5
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Laden Sie zunächst die YimMenuV2-Datei von der GitHub-Release-Seite herunter und holen Sie sich ein Injektor-Tool. Deaktivieren Sie BattlEye in den Rockstar Launcher-Einstellungen, starten Sie dann das Spiel und fügen Sie die heruntergeladene DLL-Datei mithilfe des Injektors zum Spiel hinzu.
+
+- [Offizielle Quelle →](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -30,7 +32,7 @@ YimMenuV2 ist eine experimentelle Menümodifikation, die für Grand Theft Auto 5
 
 ## Links
 
-- [GitHub-Repository →](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html)
+- [GitHub-Repository →](https://github.com/YimMenu/YimMenuV2)
 - [Auf Türkisch lesen →](https://trescout.com/discover/yimmenuv2/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

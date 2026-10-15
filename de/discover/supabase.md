@@ -42,7 +42,9 @@ supabase start
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Supabase ist eine cloudbasierte Plattform, Sie müssen keine Installation durchführen. Um zu beginnen, können Sie zu supabase.com gehen, ein Konto erstellen und das Control Panel über den Browser verwenden.
+
+- [Offizielle Quelle →](https://supabase.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -56,7 +58,7 @@ supabase start
 
 ## Links
 
-- [GitHub-Repository →](https://supabase.com)
+- [GitHub-Repository →](https://github.com/supabase/supabase)
 - [Auf Türkisch lesen →](https://trescout.com/discover/supabase/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

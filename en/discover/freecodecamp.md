@@ -16,14 +16,16 @@ freeCodeCamp is an open source learning platform that offers free educational ma
 
 ## Getting started
 
-- Official source →
+freeCodeCamp is a web-based learning platform, not a software tool. You don't need any setup to get started; You can go directly to freeCodeCamp.org, create an account and immediately access the free training curriculum offered.
+
+- [Official source →](https://contribute.freecodecamp.org)
 
 - **Who it is for:** It is for anyone who wants to step into the software world or who aims to improve their existing technical skills with free and hands-on projects.
 - **License:** BSD-3-Clause
 
 ## Links
 
-- [GitHub repository →](https://contribute.freecodecamp.org)
+- [GitHub repository →](https://github.com/freeCodeCamp/freeCodeCamp)
 - [Read in Turkish →](https://trescout.com/discover/freecodecamp/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

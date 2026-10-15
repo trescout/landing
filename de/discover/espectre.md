@@ -21,14 +21,16 @@ ESPectre ist ein System, das die Bewegungserkennung über die Analyse der Wi-Fi-
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um ESPectre verwenden zu können, müssen Sie dem offiziellen SETUP.md-Dokument des Projekts folgen. In diesem Dokument werden die Installationsschritte und Konfigurationsprozesse ausführlich erläutert. Sie können auch die Datei TUNING.md verwenden, um die für Ihre Umgebung am besten geeigneten Einstellungen vorzunehmen.
+
+- [Offizielle Quelle →](https://espectre.dev)
 
 - **Für wen es gedacht ist:** Es richtet sich an Benutzer, die sich für Heimautomatisierung interessieren und nach kostengünstigen Bewegungserkennungslösungen suchen, ohne die Privatsphäre zu beeinträchtigen.
 - **Lizenz:** GPL-3.0
 
 ## Links
 
-- [GitHub-Repository →](https://espectre.dev)
+- [GitHub-Repository →](https://github.com/francescopace/espectre)
 - [Auf Türkisch lesen →](https://trescout.com/discover/espectre/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-10 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

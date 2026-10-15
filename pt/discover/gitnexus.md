@@ -20,7 +20,9 @@ GitNexus é um mecanismo de análise de código executado no navegador e transfo
 
 ## Como começar
 
-- Fonte oficial →
+Execute o comando analyze abrindo o terminal no diretório principal do seu projeto. Este processo indexa sua base de código e cria automaticamente a configuração necessária para os editores de IA que você usa.
+
+- [Fonte oficial →](https://gitnexus.vercel.app)
 
 ## Termos relacionados do glossário
 
@@ -33,7 +35,7 @@ GitNexus é um mecanismo de análise de código executado no navegador e transfo
 
 ## Links
 
-- [Repositório no GitHub →](https://gitnexus.vercel.app)
+- [Repositório no GitHub →](https://github.com/abhigyanpatwari/GitNexus)
 - [Ler em turco →](https://trescout.com/discover/gitnexus/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-28: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

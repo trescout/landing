@@ -18,7 +18,9 @@ Developed in Go, hey is a load testing tool used to measure the performance of w
 
 ## Getting started
 
-- Official source →
+For installation, you can use the download links suitable for your Linux, macOS, or Windows operating system, or install it via the Homebrew package manager for macOS using the relevant command.
+
+- [Official source →](https://storage.googleapis.com/hey-releases/hey_linux_amd64)
 
 ## Related dictionary terms
 
@@ -31,7 +33,7 @@ Developed in Go, hey is a load testing tool used to measure the performance of w
 
 ## Links
 
-- [GitHub repository →](https://storage.googleapis.com/hey-releases/hey_linux_amd64)
+- [GitHub repository →](https://github.com/rakyll/hey)
 - [Read in Turkish →](https://trescout.com/discover/hey/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -19,7 +19,9 @@ Les livres de recettes Claude partagés par Anthropics fournissent des exemples 
 
 ## Pour commencer
 
-- Source officielle →
+Vous pouvez consulter les notebooks Jupyter que vous souhaitez utiliser en accédant au référentiel Claude Cookbooks via GitHub. Pour commencer, vous devez d'abord récupérer une clé API Claude gratuite sur le site officiel d'Anthropic et consulter le cours recommandé sur les principes fondamentaux de l'API Claude pour apprendre les concepts de base.
+
+- [Source officielle →](https://www.anthropic.com)
 
 ## Termes liés du glossaire
 
@@ -34,7 +36,7 @@ Les livres de recettes Claude partagés par Anthropics fournissent des exemples 
 
 ## Liens
 
-- [Dépôt GitHub →](https://www.anthropic.com)
+- [Dépôt GitHub →](https://github.com/anthropics/claude-cookbooks)
 - [Lire en turc →](https://trescout.com/discover/claude-cookbooks/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-10 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

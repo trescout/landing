@@ -15,13 +15,14 @@ Os prompts do sistema e os modelos de linguagem usados (modelos de IA) de ferram
 
 ## Como começar
 
-- Fonte oficial →
+Esta ferramenta é um arquivo de informações que não requer instalação. Você pode visitar a página do repositório relevante no GitHub através do seu navegador para acessar as instruções do sistema e as informações do modelo das ferramentas de inteligência artificial que deseja examinar.
+
+- [Fonte oficial →](https://github.com/latitude-dev/latitude-llm)
 
 ## Termos relacionados do glossário
 
 - [System Prompts](https://trescout.com/pt/dictionary/system-prompts/)
 - [AI Models](https://trescout.com/pt/dictionary/ai-models/)
-- [Tools](https://trescout.com/pt/dictionary/tools/)
 - [Generative AI](https://trescout.com/pt/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
@@ -30,7 +31,7 @@ Os prompts do sistema e os modelos de linguagem usados (modelos de IA) de ferram
 
 ## Links
 
-- [Repositório no GitHub →](https://github.com/latitude-dev/latitude-llm)
+- [Repositório no GitHub →](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Ler em turco →](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-10: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

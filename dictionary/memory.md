@@ -42,7 +42,6 @@ Genellikle sadece sizin hesabınızla ilişkilidir, ancak gizlilik ayarlarınız
 
 - [Mempalace](https://trescout.com/discover/mempalace/)
 - [Hindsight](https://trescout.com/discover/hindsight/)
-- [Codebase Memory MCP](https://trescout.com/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/discover/ai-memory/)

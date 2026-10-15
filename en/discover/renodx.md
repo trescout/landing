@@ -14,7 +14,9 @@ Renodx is a conversion engine that adds high dynamic range (HDR) support to olde
 
 ## Getting started
 
-- Official source →
+To start using the tool, you can review the list of available mods on the project's Wiki page on GitHub or check out the utilities section on the official page to download developer tools. It is recommended to follow the documentation pages for installation and usage details.
+
+- [Official source →](https://renodx.com/)
 
 ## Related dictionary terms
 
@@ -26,7 +28,7 @@ Renodx is a conversion engine that adds high dynamic range (HDR) support to olde
 
 ## Links
 
-- [GitHub repository →](https://renodx.com/)
+- [GitHub repository →](https://github.com/clshortfuse/renodx)
 - [Read in Turkish →](https://trescout.com/discover/renodx/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

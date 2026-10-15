@@ -21,7 +21,9 @@ Free-stockdb ist eine native quantitative Analyse-Engine, die Tages- und Minuten
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Wenn Sie ein Windows-Benutzer sind, laden Sie die aktuelle Version aus dem Abschnitt „Releases“ auf der GitHub-Seite herunter. Nachdem Sie die heruntergeladene Datei geöffnet haben, führen Sie das Datenaktualisierungstool aus und warten Sie, bis die Daten mit Ihrem lokalen Ordner synchronisiert wurden. Starten Sie dann die Stockdb-Anwendung.
+
+- [Offizielle Quelle →](https://github.com/hello245m/free-stockdb/releases/download/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC0.2.1/free-stockdb-windows-v0.2.1-more-power.zip)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -34,7 +36,7 @@ Free-stockdb ist eine native quantitative Analyse-Engine, die Tages- und Minuten
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/hello245m/free-stockdb/releases/download/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC0.2.1/free-stockdb-windows-v0.2.1-more-power.zip)
+- [GitHub-Repository →](https://github.com/hello245m/free-stockdb)
 - [Auf Türkisch lesen →](https://trescout.com/discover/free-stockdb/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-29 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

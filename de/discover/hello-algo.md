@@ -20,7 +20,9 @@ Hello 算法 ist eine Open-Source-Bildungsplattform, die Datenstrukturen und Alg
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Hello Algo-Plattform zu beginnen, können Sie die offizielle Website hello-algo.com besuchen. Sie können auf der Website auf interaktive Lektionen zugreifen und den Abschnitt „Versionen“ auf der GitHub-Seite verwenden, um Ressourcen im PDF- oder E-Book-Format herunterzuladen.
+
+- [Offizielle Quelle →](https://www.hello-algo.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -30,7 +32,7 @@ Hello 算法 ist eine Open-Source-Bildungsplattform, die Datenstrukturen und Alg
 
 ## Links
 
-- [GitHub-Repository →](https://www.hello-algo.com)
+- [GitHub-Repository →](https://github.com/krahets/hello-algo)
 - [Auf Türkisch lesen →](https://trescout.com/discover/hello-algo/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

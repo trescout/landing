@@ -21,7 +21,9 @@ Dive into LLMs is a training series that teaches the working principles of large
 
 ## Getting started
 
-- Official source →
+Visit the official GitHub page of the project and select the topic that interests you from the table under the heading '教程目录'. You can access Jupyter Notebook files by clicking the '脚本' link on the relevant line and start practical training by running these files in your own environment.
+
+- [Official source →](https://github.com/Lordog/dive-into-llms/stargazers)
 
 ## Related dictionary terms
 
@@ -33,7 +35,7 @@ Dive into LLMs is a training series that teaches the working principles of large
 
 ## Links
 
-- [GitHub repository →](https://github.com/Lordog/dive-into-llms/stargazers)
+- [GitHub repository →](https://github.com/Lordog/dive-into-llms)
 - [Read in Turkish →](https://trescout.com/discover/dive-into-llms/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

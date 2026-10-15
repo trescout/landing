@@ -1,0 +1,488 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-15",
+  "capturedAt": "2026-10-15T09:10:00.682Z",
+  "editorial": "Este informe contiene las tendencias que destacan por primera vez hoy, sin repetir los registros incluidos en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "nvm-sh/nvm es un script de shell compatible con POSIX que le permite gestionar diferentes versiones de Node.js en el mismo sistema. Permite a los desarrolladores cambiar rápidamente entre las versiones de Node.js que necesitan según sus proyectos.",
+          "meta": "Shell · ★ 95.527 · +52 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "nvm-sh/nvm",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 95527,
+              "engagementCount": 52,
+              "rank": 4,
+              "extra": {
+                "starsToday": 52
+              }
+            }
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "K-Dense-AI/scientific-agent-skills es una biblioteca que ofrece 177 habilidades verificadas y más de 100 bases de datos científicas para adaptar los agentes de inteligencia artificial a la investigación científica. Esta herramienta, especializada en campos como la biología, la química y la medicina, funciona de manera compatible con plataformas como el editor de código Cursor, la herramienta de codificación asistida por IA Claude Code y similares.",
+          "meta": "Python · ★ 49.800 · +163 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 49800,
+              "engagementCount": 163,
+              "rank": 5,
+              "extra": {
+                "starsToday": 163
+              }
+            }
+          }
+        },
+        {
+          "title": "ifixai-ai/iFixAi",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "summary": "iFixAi es una herramienta de auditoría independiente que verifica si los agentes de inteligencia artificial realizan correctamente las tareas que se les asignan. Este sistema, desarrollado en Python, puede ser ejecutado por un humano o por el propio agente para analizar la precisión de los procesos en menos de dos minutos.",
+          "meta": "Python · ★ 27.993 · +2.109 hoy",
+          "snapshot": {
+            "sourceId": "ifixai-ai/iFixAi",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 27993,
+              "engagementCount": 2109,
+              "rank": 7,
+              "extra": {
+                "starsToday": 2109
+              }
+            }
+          }
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "pentagi, desarrollado en el lenguaje Go, ofrece un sistema de agentes de inteligencia artificial totalmente autónomos capaces de realizar tareas complejas de pruebas de penetración (penetration testing). Este proyecto, que tiene como objetivo automatizar los procesos de ciberseguridad, utiliza capacidades autónomas para detectar vulnerabilidades de seguridad.",
+          "meta": "Go · ★ 30.090 · +1.025 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "vxcontrol/pentagi",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 30090,
+              "engagementCount": 1025,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1025
+              }
+            }
+          }
+        },
+        {
+          "title": "rust-lang/rust",
+          "url": "https://github.com/rust-lang/rust",
+          "summary": "Rust destaca como un lenguaje de programación de sistemas que tiene como objetivo desarrollar software confiable y eficiente. Adoptado por una amplia base de usuarios, este lenguaje proporciona la infraestructura para aplicaciones orientadas al rendimiento.",
+          "meta": "Rust · ★ 120.224 · +207 hoy",
+          "snapshot": {
+            "sourceId": "rust-lang/rust",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 120224,
+              "engagementCount": 207,
+              "rank": 9,
+              "extra": {
+                "starsToday": 207
+              }
+            }
+          }
+        },
+        {
+          "title": "ntdevlabs/tiny11builder",
+          "url": "https://github.com/ntdevlabs/tiny11builder",
+          "summary": "ntdevlabs/tiny11builder es una aplicación WinUI que sirve para crear versiones más pequeñas y personalizadas del sistema operativo Windows 11. Desarrollada en C#, esta herramienta permite a los usuarios dimensionar las imágenes del sistema según sus propias necesidades.",
+          "meta": "C# · ★ 20.412 · +139 hoy",
+          "snapshot": {
+            "sourceId": "ntdevlabs/tiny11builder",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 20412,
+              "engagementCount": 139,
+              "rank": 11,
+              "extra": {
+                "starsToday": 139
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Things to know when you get cancer",
+          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+          "summary": "Esta guía, preparada para personas diagnosticadas con cáncer, ofrece información básica sobre el proceso de tratamiento y los métodos para afrontar la enfermedad. Se centra en los pasos a seguir dentro del sistema de salud y en consejos prácticos que pueden mejorar la experiencia del paciente.",
+          "meta": "1.314 puntos · 322 comentarios",
+          "snapshot": {
+            "sourceId": "50093568",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 1314,
+              "engagementCount": 322,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50093568",
+                  "popularity": 1314,
+                  "engagementCount": 322
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-14T19:26:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50093568"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50093568",
+              "popularity": 1314,
+              "engagementCount": 322
+            }
+          ]
+        },
+        {
+          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "summary": "Los expertos señalan que la base de los informes sobre ciberataques a sistemas de inteligencia artificial no radica en que la IA se salga de control, sino en las deficiencias en los procesos de auditoría y monitoreo de seguridad. El hecho de que los laboratorios de desarrollo omitan protocolos de seguridad básicos hace que los agentes de IA permanezcan vulnerables a brechas de seguridad.",
+          "meta": "898 puntos · 525 comentarios",
+          "snapshot": {
+            "sourceId": "50091788",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 898,
+              "engagementCount": 525,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50091788",
+                  "popularity": 898,
+                  "engagementCount": 525
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-14T17:45:23Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50091788"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50091788",
+              "popularity": 898,
+              "engagementCount": 525
+            }
+          ]
+        },
+        {
+          "title": "How Amazon pushes up prices all across the Internet",
+          "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+          "summary": "Se examina cómo las estrategias de precios de Amazon aumentan los costos de los productos en todo Internet. Se analiza cómo las políticas implementadas por la empresa afectan el equilibrio general de precios en las plataformas de comercio electrónico.",
+          "meta": "822 puntos · 638 comentarios",
+          "snapshot": {
+            "sourceId": "50084757",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 822,
+              "engagementCount": 638,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50084757",
+                  "popularity": 822,
+                  "engagementCount": 638
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-14T09:28:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50084757"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50084757",
+              "popularity": 822,
+              "engagementCount": 638
+            }
+          ]
+        },
+        {
+          "title": "Do dentists know what they're doing?",
+          "url": "https://mapwriting.substack.com/p/dentists",
+          "summary": "La consistencia de los métodos de diagnóstico y tratamiento en las prácticas odontológicas se cuestiona a través de los procesos de toma de decisiones clínicas de los dentistas. El artículo abre un debate sobre la actualidad de la evidencia científica y los estándares de tratamiento en el campo de la salud dental.",
+          "meta": "676 puntos · 496 comentarios",
+          "snapshot": {
+            "sourceId": "50050553",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 676,
+              "engagementCount": 496,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50050553",
+                  "popularity": 676,
+                  "engagementCount": 496
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-12T02:21:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50050553"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50050553",
+              "popularity": 676,
+              "engagementCount": 496
+            }
+          ]
+        },
+        {
+          "title": "OpenCode 2.0",
+          "url": "https://anoma.ly/notes/opencode-2-0/",
+          "summary": "OpenCode 2.0 ofrece una serie de modelos de lenguaje de código abierto optimizados para tareas de programación. Diseñado para apoyar los procesos de desarrollo de software, este modelo tiene como objetivo mejorar las capacidades de generación y análisis de código.",
+          "meta": "597 puntos · 228 comentarios",
+          "snapshot": {
+            "sourceId": "50094994",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 597,
+              "engagementCount": 228,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50094994",
+                  "popularity": 597,
+                  "engagementCount": 228
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-14T20:48:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50094994"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50094994",
+              "popularity": 597,
+              "engagementCount": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "autotrust/JEV-35B",
+          "url": "https://huggingface.co/autotrust/JEV-35B",
+          "summary": "Autotrust/JEV-35B, compartido en Hugging Face, es un modelo de inteligencia artificial desarrollado para tareas de clasificación de texto. Este modelo, que ha despertado el interés de los usuarios, se utiliza en procesos de categorización de textos.",
+          "meta": "♥ 840 · 27.970 descargas",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-35B",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 840,
+              "engagementCount": 27970,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 528,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "system-one",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "mixture-of-experts",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "arxiv:2609.14973",
+                  "base_model:Qwen/Qwen3.5-35B-A3B",
+                  "base_model:finetune:Qwen/Qwen3.5-35B-A3B",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "StreamErase: Towards Ultra-Fast Streaming Video Erasing",
+          "url": "https://huggingface.co/papers/2610.20137",
+          "summary": "StreamErase ofrece un método para realizar operaciones de eliminación de objetos de videos con una latencia inferior a un segundo y una velocidad de hasta 26 fotogramas por segundo. Este enfoque permite la interacción en tiempo real al respaldar los modelos de texto a video con entrada de máscara.",
+          "meta": "0 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.20137",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20137",
+                "publishedAt": "2026-10-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/zhuobaidong/StreamErase"
+              }
+            }
+          }
+        },
+        {
+          "title": "LLM-to-Flow Distillation: Teaching Natural Language Goals to Scientific Generators",
+          "url": "https://huggingface.co/papers/2610.17246",
+          "summary": "La destilación LLM-to-Flow combina la capacidad de razonamiento científico de los grandes modelos de lenguaje (large language models) con la precisión estructural de los generadores basados en flujo y difusión específicos de cada dominio. Este método permite que los modelos generativos en los procesos de descubrimiento científico funcionen de manera coherente con los objetivos expresados en lenguaje natural.",
+          "meta": "0 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.17246",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17246",
+                "publishedAt": "2026-10-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/FedericoDiGennaro/LLM-to-Flow-Distillation"
+              }
+            }
+          }
+        },
+        {
+          "title": "Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance",
+          "url": "https://huggingface.co/papers/2610.20220",
+          "summary": "Glance Forcing presenta un método que hace más eficiente el proceso de convertir modelos de difusión bidireccional (bidirectional diffusion) en modelos autorregresivos (autoregressive). Este enfoque tiene como objetivo reducir los altos costos computacionales y los requisitos de almacenamiento de datos necesarios para los modelos de mundo de video.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.20220",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20220",
+                "publishedAt": "2026-10-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/CSU-JPG/Glance-Forcing"
+              }
+            }
+          }
+        },
+        {
+          "title": "SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm",
+          "url": "https://huggingface.co/papers/2610.20431",
+          "summary": "SwarmRSI es un método de automejora recursiva (recursive self-improvement) que permite a los agentes de inteligencia artificial mejorar sus capacidades basándose en sus propias experiencias en los procesos de investigación científica. Este sistema tiene como objetivo mejorar las hipótesis y los procesos de implementación de los agentes combinando datos de diferentes ramas de investigación.",
+          "meta": "7 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.20431",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20431",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety",
+          "url": "https://huggingface.co/papers/2610.19422",
+          "summary": "AgentSafeEvo es un método destinado a abordar las vulnerabilidades de seguridad que enfrentan los agentes basados en grandes modelos de lenguaje (large language model) al interactuar con herramientas externas. Utilizando un enfoque de coevolución adversaria (adversarial co-evolution), este estudio tiene como objetivo fortalecer los procesos de toma de decisiones seguros al evitar que los agentes sean manipulados por entradas maliciosas.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2610.19422",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.19422",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "bash script",
+      "explanation": "Un archivo de texto que se ejecuta a través de la línea de comandos y le indica a la computadora las tareas que debe realizar sucesivamente."
+    },
+    {
+      "term": "skills",
+      "explanation": "Funciones o capacidades especializadas que poseen los agentes de inteligencia artificial para poder realizar tareas específicas."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Intentos de ciberataque controlados y autorizados realizados con el fin de encontrar vulnerabilidades de seguridad en un sistema."
+    },
+    {
+      "term": "text-classification",
+      "explanation": "Clasificación de textos por parte de la inteligencia artificial en categorías o grupos específicos según su contenido."
+    }
+  ]
+}

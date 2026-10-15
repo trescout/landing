@@ -18,7 +18,9 @@ Cilium ist ein Infrastruktur-Tool, das die eBPF-Technologie nutzt, um Netzwerkve
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Für detaillierte Informationen zur Installation und Nutzung von Cilium können Sie die offizielle Dokumentationsseite cilium.io besuchen. Für Installationsanleitungen und Konfigurationsschritte folgen Sie einfach den Links auf der GitHub-Seite des Projekts.
+
+- [Offizielle Quelle →](https://cilium.io)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -29,7 +31,7 @@ Cilium ist ein Infrastruktur-Tool, das die eBPF-Technologie nutzt, um Netzwerkve
 
 ## Links
 
-- [GitHub-Repository →](https://cilium.io)
+- [GitHub-Repository →](https://github.com/cilium/cilium)
 - [Auf Türkisch lesen →](https://trescout.com/discover/cilium/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-18 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

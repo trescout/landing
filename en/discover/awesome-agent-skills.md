@@ -18,7 +18,9 @@ Compiled by VoltAgent, awesome-agent-skills brings together more than 1000 artif
 
 ## Getting started
 
-- Official source →
+To use this collection, visit the Awesome Agent Skills page on GitHub. You can select the skill you need from the table, access its documentation via the relevant link, and integrate it into the artificial intelligence assistant you use.
+
+- [Official source →](https://officialskills.sh/)
 
 ## Related dictionary terms
 
@@ -33,7 +35,7 @@ Compiled by VoltAgent, awesome-agent-skills brings together more than 1000 artif
 
 ## Links
 
-- [GitHub repository →](https://officialskills.sh/)
+- [GitHub repository →](https://github.com/VoltAgent/awesome-agent-skills)
 - [Read in Turkish →](https://trescout.com/discover/awesome-agent-skills/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-24: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

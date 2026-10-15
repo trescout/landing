@@ -14,7 +14,9 @@ Das von der Headunit wiederbelebte Projekt stellt eine Anwendung bereit, mit der
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Laden Sie die App über den Google Play Store oder Amazon Appstore auf Ihr Gerät herunter. Für eine drahtlose Verbindung wird empfohlen, auch die Anwendung „Wireless Helper“ auf Ihrem Telefon zu installieren. Detaillierte Installationsschritte und Verbindungseinstellungen finden Sie im Wiki-Abschnitt auf der GitHub-Seite.
+
+- [Offizielle Quelle →](https://headunit.andrerinas.com/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -25,7 +27,7 @@ Das von der Headunit wiederbelebte Projekt stellt eine Anwendung bereit, mit der
 
 ## Links
 
-- [GitHub-Repository →](https://headunit.andrerinas.com/)
+- [GitHub-Repository →](https://github.com/andreknieriem/headunit-revived)
 - [Auf Türkisch lesen →](https://trescout.com/discover/headunit-revived/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-25 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

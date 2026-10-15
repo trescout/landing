@@ -38,10 +38,6 @@ Connaître le code est un grand avantage car cela vous permet de comprendre le f
 - [Vulnerability Scanning](https://trescout.com/fr/dictionary/vulnerability-scanning/)
 - [Engineering Skills](https://trescout.com/fr/dictionary/engineering-skills/)
 
-## Outils liés
-
-- [Anthropic Cybersecurity Skills](https://trescout.com/fr/discover/anthropic-cybersecurity-skills/)
-
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/cybersecurity-skills/)
 
 ---

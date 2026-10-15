@@ -14,7 +14,9 @@ Renodx é um motor de conversão que adiciona suporte a alta faixa dinâmica (HD
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar a ferramenta, você pode conferir a lista de mods disponíveis na página Wiki do projeto no GitHub ou dar uma olhada na seção de utilitários na página oficial para baixar as ferramentas de desenvolvimento. Recomenda-se seguir as páginas de documentação para detalhes de instalação e uso.
+
+- [Fonte oficial →](https://renodx.com/)
 
 ## Termos relacionados do glossário
 
@@ -26,7 +28,7 @@ Renodx é um motor de conversão que adiciona suporte a alta faixa dinâmica (HD
 
 ## Links
 
-- [Repositório no GitHub →](https://renodx.com/)
+- [Repositório no GitHub →](https://github.com/clshortfuse/renodx)
 - [Ler em turco →](https://trescout.com/discover/renodx/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-05: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

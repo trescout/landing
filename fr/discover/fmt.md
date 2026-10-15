@@ -19,7 +19,9 @@ fmt est une bibliothèque de formatage de texte moderne développée pour le lan
 
 ## Pour commencer
 
-- Source officielle →
+Vous pouvez apprendre à l'intégrer à votre projet en visitant la page de documentation officielle. Si vous souhaitez essayer la bibliothèque, vous pouvez tester votre code en utilisant l'outil Compiler Explorer qui fonctionne dans le navigateur.
+
+- [Source officielle →](https://fmt.dev)
 
 ## Termes liés du glossaire
 
@@ -30,7 +32,7 @@ fmt est une bibliothèque de formatage de texte moderne développée pour le lan
 
 ## Liens
 
-- [Dépôt GitHub →](https://fmt.dev)
+- [Dépôt GitHub →](https://github.com/fmtlib/fmt)
 - [Lire en turc →](https://trescout.com/discover/fmt/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

@@ -2,12 +2,13 @@
 
 OpenAI tarafından geliştirilen Codex eklentisi, Claude Code üzerinde kod inceleme süreçlerini otomatize etmek ve görev delegasyonu sağlamak için kullanılıyor. Bu araç, yazılım geliştirme iş akışlarında farklı yapay zekâ modellerinin (large language models) entegre çalışmasına olanak tanıyor.
 
-- ★ 32.597
+- ★ 34.241
 - JavaScript
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 32.597 → 34.241, son sürüm v1.0.6 (8 Temmuz 2026).
 - **31 Ağustos 2026:** Yıldız 30.950 → 32.597, son sürüm v1.0.6 (8 Temmuz 2026).
 - **2 Ağustos 2026:** Yıldız 22.800 → 30.950, son sürüm v1.0.6 (8 Temmuz 2026).
 
@@ -50,7 +51,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Plugin](https://trescout.com/dictionary/plugin/)
 - [Large Language Models](https://trescout.com/dictionary/large-language-models/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

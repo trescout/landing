@@ -18,7 +18,9 @@ Awesome-artificial-intelligence is a comprehensive resource list that brings tog
 
 ## Getting started
 
-- Official source →
+This tool does not require a software installation; is a list of resources. To start your learning journey, you can review the books in the 'Learn' section of the README file and browse current artificial intelligence frameworks and guides through the links in the 'Build' section.
+
+- [Official source →](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956)
 
 ## Related dictionary terms
 
@@ -29,7 +31,7 @@ Awesome-artificial-intelligence is a comprehensive resource list that brings tog
 
 ## Links
 
-- [GitHub repository →](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956)
+- [GitHub repository →](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Read in Turkish →](https://trescout.com/discover/awesome-artificial-intelligence/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -19,7 +19,9 @@ fmt ist eine moderne Textformatierungsbibliothek, die für die Programmiersprach
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Besuchen Sie die offizielle Dokumentationsseite, um zu erfahren, wie Sie sie in Ihr Projekt integrieren können. Wenn Sie die Bibliothek ausprobieren möchten, können Sie Ihre Codes mit dem browserbasierten Compiler Explorer-Tool testen.
+
+- [Offizielle Quelle →](https://fmt.dev)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -30,7 +32,7 @@ fmt ist eine moderne Textformatierungsbibliothek, die für die Programmiersprach
 
 ## Links
 
-- [GitHub-Repository →](https://fmt.dev)
+- [GitHub-Repository →](https://github.com/fmtlib/fmt)
 - [Auf Türkisch lesen →](https://trescout.com/discover/fmt/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-03 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

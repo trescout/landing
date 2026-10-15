@@ -29,7 +29,6 @@ Je souhaite développer mes propres projets en utilisant les modèles d'agents d
 
 - [AI Agent](https://trescout.com/fr/dictionary/ai-agent/)
 - [RAG](https://trescout.com/fr/dictionary/rag/)
-- [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Agent](https://trescout.com/fr/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

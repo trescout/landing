@@ -19,7 +19,9 @@ Le référentiel ChinaTextbook propose une archive numérique des manuels utilis
 
 ## Pour commencer
 
-- Source officielle →
+Vous pouvez directement consulter ou télécharger des manuels scolaires aux niveaux primaire, secondaire, secondaire et universitaire au format PDF en visitant la page GitHub du référentiel ChinaTextbook. Si le fichier que vous avez téléchargé est divisé en morceaux, vous pouvez télécharger l'outil de fusion sur votre ordinateur en cliquant sur le lien « 下载文件合并程序 » sur la page du projet et le fusionner en l'exécutant dans le même dossier que les fichiers concernés.
+
+- [Source officielle →](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
 
 ## Termes liés du glossaire
 
@@ -29,7 +31,7 @@ Le référentiel ChinaTextbook propose une archive numérique des manuels utilis
 
 ## Liens
 
-- [Dépôt GitHub →](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
+- [Dépôt GitHub →](https://github.com/TapXWorld/ChinaTextbook)
 - [Lire en turc →](https://trescout.com/discover/chinatextbook/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

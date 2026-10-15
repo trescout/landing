@@ -42,11 +42,9 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Page Agent](https://trescout.com/dictionary/page-agent/)
 - [User Interface](https://trescout.com/dictionary/user-interface/)
 - [GUI](https://trescout.com/dictionary/gui/)
 - [Interface](https://trescout.com/dictionary/interface/)
-- [Agent](https://trescout.com/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

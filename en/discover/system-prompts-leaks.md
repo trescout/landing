@@ -20,7 +20,9 @@ The system_prompts_leaks repository shared on GitHub brings together system prom
 
 ## Getting started
 
-- Official source →
+This tool does not require a software installation. By going to the System Prompts Leaks repository on GitHub, you can click on the folder of the artificial intelligence model or company you want to examine and read the relevant system prompt files directly from your browser.
+
+- [Official source →](https://asgeirtj.github.io/system_prompts_leaks/)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ The system_prompts_leaks repository shared on GitHub brings together system prom
 
 ## Links
 
-- [GitHub repository →](https://asgeirtj.github.io/system_prompts_leaks/)
+- [GitHub repository →](https://github.com/asgeirtj/system_prompts_leaks)
 - [Read in Turkish →](https://trescout.com/discover/system-prompts-leaks/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-22: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -19,7 +19,9 @@ fmt is a modern text formatting library developed for the C++ programming langua
 
 ## Getting started
 
-- Official source →
+You can learn how to include it in your project by visiting the official documentation page. If you would like to try the library, you can test your code using the browser-based Compiler Explorer tool.
+
+- [Official source →](https://fmt.dev)
 
 ## Related dictionary terms
 
@@ -30,7 +32,7 @@ fmt is a modern text formatting library developed for the C++ programming langua
 
 ## Links
 
-- [GitHub repository →](https://fmt.dev)
+- [GitHub repository →](https://github.com/fmtlib/fmt)
 - [Read in Turkish →](https://trescout.com/discover/fmt/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

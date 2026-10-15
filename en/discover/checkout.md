@@ -18,7 +18,9 @@ Developed by GitHub, actions/checkout is a tool that automates repository checko
 
 ## Getting started
 
-- Official source →
+You can enable the tool to download your repository to the workspace by adding the - uses: actions/checkout@v7 line to the steps section of your GitHub Actions workflow file. You can customize the copy behavior by defining parameters such as fetch-depth or submodules under the with block according to your need.
+
+- [Official source →](https://github.com/features/actions)
 
 ## Related dictionary terms
 
@@ -31,7 +33,7 @@ Developed by GitHub, actions/checkout is a tool that automates repository checko
 
 ## Links
 
-- [GitHub repository →](https://github.com/features/actions)
+- [GitHub repository →](https://github.com/actions/checkout)
 - [Read in Turkish →](https://trescout.com/discover/checkout/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

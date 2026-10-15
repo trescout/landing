@@ -21,14 +21,16 @@ Dopamin ist ein halbunabhängiges Jailbreak-Tool, das für Geräte mit iOS 15 bi
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Verwendung des Dopamin-Tools zu beginnen, können Sie die offizielle Website https://ellekit.space/dopamine/ besuchen und dem für Ihr Gerät entsprechenden Download-Link folgen.
+
+- [Offizielle Quelle →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
 
 - **Für wen es gedacht ist:** Es ist für Benutzer gedacht, die Administratorrechte haben möchten, indem sie Systembeschränkungen auf ihren iOS-Geräten umgehen.
 - **Lizenz:** MIT
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e)
+- [GitHub-Repository →](https://github.com/opa334/Dopamine)
 - [Auf Türkisch lesen →](https://trescout.com/discover/dopamine/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-11 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

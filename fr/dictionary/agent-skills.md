@@ -70,11 +70,11 @@ Oui. Les plateformes regroupent les compétences courantes, et vous écrivez les
 - [Agent Skills](https://trescout.com/fr/discover/agent-skills/)
 - [Taste Skill](https://trescout.com/fr/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/fr/discover/openmontage/)
-- [Scientific Agent Skills](https://trescout.com/fr/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](https://trescout.com/fr/discover/awesome-agent-skills/)
 - [Agentskills](https://trescout.com/fr/discover/agentskills/)
 - [Text to Cad](https://trescout.com/fr/discover/text-to-cad/)
 - [Claude Obsidian](https://trescout.com/fr/discover/claude-obsidian/)
+- [Stitch Skills](https://trescout.com/fr/discover/stitch-skills/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agent-skills/)
 

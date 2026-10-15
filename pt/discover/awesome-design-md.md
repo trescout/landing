@@ -19,7 +19,9 @@ Awesome-design-md é uma coleção de documentos de design (DESIGN.md) de sistem
 
 ## Como começar
 
-- Fonte oficial →
+Selecione um arquivo DESIGN.md adequado ao seu projeto na coleção do repositório awesome-design-md. Copie o conteúdo do arquivo relevante e salve-o como um arquivo de texto no diretório principal do seu projeto. Em seguida, basta referenciar este arquivo à ferramenta de codificação de inteligência artificial que você está usando e dar o comando ‘Crie-me uma página parecida com esta’.
+
+- [Fonte oficial →](https://getdesign.md/)
 
 ## Termos relacionados do glossário
 
@@ -31,7 +33,7 @@ Awesome-design-md é uma coleção de documentos de design (DESIGN.md) de sistem
 
 ## Links
 
-- [Repositório no GitHub →](https://getdesign.md/)
+- [Repositório no GitHub →](https://github.com/VoltAgent/awesome-design-md)
 - [Ler em turco →](https://trescout.com/discover/awesome-design-md/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-10: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

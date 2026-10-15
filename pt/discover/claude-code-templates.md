@@ -55,7 +55,6 @@ Quero otimizar meu ambiente de trabalho do Claude Code. Como posso listar e inst
 
 ## Termos relacionados do glossário
 
-- [Claude Code Templates](https://trescout.com/pt/dictionary/claude-code-templates/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)

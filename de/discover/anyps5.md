@@ -21,7 +21,9 @@ AnyPS5 ist ein Tool, das PlayStation 5-Spieldateien automatisch so konvertiert, 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung des Projekts zu beginnen, können Sie die im GitHub-Repository befindliche Anleitung USAGE.md und die Kompilierungsanweisungen BUILD.md lesen. Einen Blick auf die Kompatibilitätstabelle COMPATIBILITY.md können Sie werfen, um den Status getesteter Spiele zu erfahren.
+
+- [Offizielle Quelle →](https://boykopovar.github.io/AnyPS5)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ AnyPS5 ist ein Tool, das PlayStation 5-Spieldateien automatisch so konvertiert, 
 
 ## Links
 
-- [GitHub-Repository →](https://boykopovar.github.io/AnyPS5)
+- [GitHub-Repository →](https://github.com/boykopovar/AnyPS5)
 - [Auf Türkisch lesen →](https://trescout.com/discover/anyps5/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-05 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -19,7 +19,9 @@ Harvey Labs is a benchmarking tool designed to measure and improve the capabilit
 
 ## Getting started
 
-- Official source →
+To get started, check out the docs/tutorial.md file among the documentation on the GitHub page. This guide walks you through how to manage an M&A data room mission end-to-end, from setup to report review.
+
+- [Official source →](https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark)
 
 ## Related dictionary terms
 
@@ -31,7 +33,7 @@ Harvey Labs is a benchmarking tool designed to measure and improve the capabilit
 
 ## Links
 
-- [GitHub repository →](https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark)
+- [GitHub repository →](https://github.com/harveyai/harvey-labs)
 - [Read in Turkish →](https://trescout.com/discover/harvey-labs/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-10: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

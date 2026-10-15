@@ -21,7 +21,9 @@ Dive into LLM est une série de formations qui enseigne les principes de fonctio
 
 ## Pour commencer
 
-- Source officielle →
+Visitez la page officielle GitHub du projet et sélectionnez le sujet qui vous intéresse dans le tableau sous le titre « 教程目录 ». Vous pouvez accéder aux fichiers Jupyter Notebook en cliquant sur le lien « 脚本 » sur la ligne correspondante et démarrer une formation pratique en exécutant ces fichiers dans votre propre environnement.
+
+- [Source officielle →](https://github.com/Lordog/dive-into-llms/stargazers)
 
 ## Termes liés du glossaire
 
@@ -33,7 +35,7 @@ Dive into LLM est une série de formations qui enseigne les principes de fonctio
 
 ## Liens
 
-- [Dépôt GitHub →](https://github.com/Lordog/dive-into-llms/stargazers)
+- [Dépôt GitHub →](https://github.com/Lordog/dive-into-llms)
 - [Lire en turc →](https://trescout.com/discover/dive-into-llms/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

@@ -14,7 +14,9 @@ Cloudflare a lancé un espace de travail d'agents (agent workspace) prenant en c
 
 ## Pour commencer
 
-- Source officielle →
+Pour tester rapidement le système, vous pouvez visiter l'adresse web os.cloudflare.app/deploy et effectuer le déploiement sur votre compte Cloudflare. Vous pouvez également suivre les étapes de la documentation officielle pour exécuter le projet localement sur votre ordinateur.
+
+- [Source officielle →](https://os.cloudflare.app)
 
 ## Termes liés du glossaire
 
@@ -27,7 +29,7 @@ Cloudflare a lancé un espace de travail d'agents (agent workspace) prenant en c
 
 ## Liens
 
-- [Dépôt GitHub →](https://os.cloudflare.app)
+- [Dépôt GitHub →](https://github.com/cloudflare/cloudflare-os)
 - [Lire en turc →](https://trescout.com/discover/cloudflare-os/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

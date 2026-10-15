@@ -2,16 +2,16 @@
 
 Iloader, entwickelt mit TypeScript, ist ein benutzerfreundlicher Sideloader, der den Prozess der App-Installation auf iOS-Geräten erleichtert. Er vereinfacht die Installation von Apps außerhalb des offiziellen Apple-Stores und verbessert so die Entwickler- und Benutzererfahrung.
 
-- ★ 3.934
+- ★ 3.970
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 3,934 → 3,970, neueste Version v2.3.8 (15. Oktober 2026).
 - **14. Oktober 2026:** Sterne 3,738 → 3,934, neueste Version v2.3.7 (13. Oktober 2026).
 - **6. Oktober 2026:** Sterne 3,710 → 3,738, neueste Version v2.3.6 (6. Oktober 2026).
 - **4. Oktober 2026:** Sterne 3,605 → 3,710, neueste Version v2.3.5 (3. Oktober 2026).
-- **27. September 2026:** Sterne 2,962 → 3,605, neueste Version v2.3.4 (23. September 2026).
 
 ## Was es bringt
 
@@ -21,7 +21,9 @@ Iloader, entwickelt mit TypeScript, ist ein benutzerfreundlicher Sideloader, der
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Besuchen Sie die offizielle Website iloader.app und laden Sie die für Ihr Betriebssystem passende Version herunter. Nachdem Sie die erforderlichen Treiber wie iTunes (für Windows) auf Ihrem Computer installiert haben, können Sie Ihr Gerät anschließen, die Anwendung starten und sich mit Ihren Apple-ID-Daten anmelden.
+
+- [Offizielle Quelle →](https://iloader.app)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ Iloader, entwickelt mit TypeScript, ist ein benutzerfreundlicher Sideloader, der
 
 ## Links
 
-- [GitHub-Repository →](https://iloader.app)
+- [GitHub-Repository →](https://github.com/nab138/iloader)
 - [Auf Türkisch lesen →](https://trescout.com/discover/iloader/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

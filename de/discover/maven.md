@@ -42,14 +42,16 @@ mvn package
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung von Apache Maven zu beginnen, können Sie die offizielle Apache Maven-Homepage besuchen und die aktuelle Version von der Download-Seite herunterladen. Für Installations- und Nutzungsdetails wird empfohlen, den Dokumentationsabschnitt auf derselben Seite zu lesen.
+
+- [Offizielle Quelle →](https://maven.apache.org/ref/current)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die die Entwicklungs-, Kompilierungs- und Verwaltungsprozesse von Java-basierten Softwareprojekten standardisieren möchten.
 - **Lizenz:** Apache-2.0
 
 ## Links
 
-- [GitHub-Repository →](https://maven.apache.org/ref/current)
+- [GitHub-Repository →](https://github.com/apache/maven)
 - [Auf Türkisch lesen →](https://trescout.com/discover/maven/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

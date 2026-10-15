@@ -43,7 +43,9 @@ brew services start grafana
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser Grafana, visitez le site officiel grafana.com/get. Vous pouvez consulter les documents sur grafana.com/docs/grafana/latest/setup-grafana/installation/ pour accéder aux guides d'installation adaptés à vos besoins.
+
+- [Source officielle →](https://grafana.com)
 
 ## Termes liés du glossaire
 
@@ -55,7 +57,7 @@ brew services start grafana
 
 ## Liens
 
-- [Dépôt GitHub →](https://grafana.com)
+- [Dépôt GitHub →](https://github.com/grafana/grafana)
 - [Lire en turc →](https://trescout.com/discover/grafana/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-27 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

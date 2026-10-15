@@ -37,7 +37,9 @@ dbt run
 
 ## Getting started
 
-- Official source →
+You can access the installation guide by visiting the official dbt documentation page. You can choose one of the dbt Core or Fusion options according to your needs and follow the installation steps on your local computer.
+
+- [Official source →](https://getdbt.com)
 
 ## Related dictionary terms
 
@@ -48,7 +50,7 @@ dbt run
 
 ## Links
 
-- [GitHub repository →](https://getdbt.com)
+- [GitHub repository →](https://github.com/dbt-labs/dbt-core)
 - [Read in Turkish →](https://trescout.com/discover/dbt-core/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

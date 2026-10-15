@@ -48,8 +48,8 @@ La inteligencia artificial cambiará la forma en que se realizan muchos trabajos
 - [Coding Interview University](https://trescout.com/es/discover/coding-interview-university/)
 - [Superpowers](https://trescout.com/es/discover/superpowers/)
 - [ECC](https://trescout.com/es/discover/ecc/)
-- [Hermes Agent](https://trescout.com/es/discover/hermes-agent/)
 - [REA](https://trescout.com/es/discover/rea/)
+- [Hermes Agent](https://trescout.com/es/discover/hermes-agent/)
 - [Opencode](https://trescout.com/es/discover/opencode/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/artificial-intelligence/)

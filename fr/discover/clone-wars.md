@@ -13,7 +13,9 @@ Clone-Wars rassemble sous un même toit plus de 100 clones open source de platef
 
 ## Pour commencer
 
-- Source officielle →
+Clone-Wars n'est pas un outil logiciel, mais un guide répertoriant les clones open source de plateformes populaires. Pour accéder aux détails du projet que vous souhaitez examiner, vous pouvez visiter le site officiel gourav.io/clone-wars et accéder directement aux codes sources et au contenu de formation des projets concernés via les liens dans le tableau.
+
+- [Source officielle →](https://gourav.io/clone-wars)
 
 ## Termes liés du glossaire
 
@@ -26,7 +28,7 @@ Clone-Wars rassemble sous un même toit plus de 100 clones open source de platef
 
 ## Liens
 
-- [Dépôt GitHub →](https://gourav.io/clone-wars)
+- [Dépôt GitHub →](https://github.com/GorvGoyl/Clone-Wars)
 - [Lire en turc →](https://trescout.com/discover/clone-wars/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-15 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

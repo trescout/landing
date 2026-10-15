@@ -18,7 +18,9 @@ Public-apis is a comprehensive list of free application programming interfaces (
 
 ## Getting started
 
-- Official source →
+To find the data you need, you can visit the Public-apis repository on GitHub and search through the categorized list. After selecting the APIs you want to integrate into your project, simply create an account on the official websites of the relevant services and get your API key.
+
+- [Official source →](https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)
 
 ## Related dictionary terms
 
@@ -29,7 +31,7 @@ Public-apis is a comprehensive list of free application programming interfaces (
 
 ## Links
 
-- [GitHub repository →](https://APILayer.com/?utm_source=Github&amp;utm_medium=Referral&amp;utm_campaign=Public-apis-repo)
+- [GitHub repository →](https://github.com/public-apis/public-apis)
 - [Read in Turkish →](https://trescout.com/discover/public-apis/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

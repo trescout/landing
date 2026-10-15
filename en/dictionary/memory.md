@@ -42,7 +42,6 @@ On most systems you can delete this data with the 'clear memory' or 'forget' com
 
 - [Mempalace](https://trescout.com/en/discover/mempalace/)
 - [Hindsight](https://trescout.com/en/discover/hindsight/)
-- [Codebase Memory MCP](https://trescout.com/en/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/en/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/en/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/en/discover/ai-memory/)

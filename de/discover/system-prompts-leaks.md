@@ -20,7 +20,9 @@ Das auf GitHub freigegebene Repository system_prompts_leaks bündelt Systempromp
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Für dieses Tool ist keine Softwareinstallation erforderlich. Wenn Sie das System Prompts Leaks-Repository auf GitHub aufrufen, können Sie auf den Ordner des Modells oder Unternehmens für künstliche Intelligenz klicken, das Sie untersuchen möchten, und die relevanten System-Prompt-Dateien direkt in Ihrem Browser lesen.
+
+- [Offizielle Quelle →](https://asgeirtj.github.io/system_prompts_leaks/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ Das auf GitHub freigegebene Repository system_prompts_leaks bündelt Systempromp
 
 ## Links
 
-- [GitHub-Repository →](https://asgeirtj.github.io/system_prompts_leaks/)
+- [GitHub-Repository →](https://github.com/asgeirtj/system_prompts_leaks)
 - [Auf Türkisch lesen →](https://trescout.com/discover/system-prompts-leaks/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-22 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

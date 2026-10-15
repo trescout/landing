@@ -1,8 +1,8 @@
-# Codificación asistida por IA en la terminal
+# Codificación apoyada por inteligencia artificial en el terminal
 
 Código Claude; Es una herramienta de codificación basada en agentes que reside en su terminal y tiene un conocimiento profundo de su código base. Acelera su proceso de desarrollo leyendo archivos, realizando cambios y ejecutando pruebas con comandos de lenguaje natural. (Puede utilizar muchas de las herramientas de esta página con él).
 
-- ★ 150.735
+- ★ 150.959
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@ Código Claude; Es una herramienta de codificación basada en agentes que reside
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 150,735 → 150,959, última versión v2.1.300 (14 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 149,972 → 150,735, última versión v2.1.299 (14 de octubre de 2026).
 - **10 de octubre de 2026:** Estrellas 149,709 → 149,972, última versión v2.1.296 (9 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 149,845 → 149,709, última versión v2.1.295 (8 de octubre de 2026).
-- **8 de octubre de 2026:** Estrellas 149,700 → 149,845, última versión v2.1.294 (8 de octubre de 2026).
 
 ## Qué aporta
 

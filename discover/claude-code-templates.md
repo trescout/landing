@@ -64,7 +64,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Claude Code Templates](https://trescout.com/dictionary/claude-code-templates/)
 - [MCP](https://trescout.com/dictionary/mcp/)
 - [CLI](https://trescout.com/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)

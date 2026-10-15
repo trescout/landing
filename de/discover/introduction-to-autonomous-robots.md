@@ -18,7 +18,9 @@ Das Projekt „Einführung in autonome Roboter“ stellt die Grundprinzipien und
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Dieses Projekt enthält die Quellcodes eines Lehrbuchs über autonome Roboter. Um eine PDF-Version des Buchs zu erstellen, können Sie auf der GitHub-Seite auf die grüne Schaltfläche „Code“ klicken und die Dateien mit der Option „ZIP herunterladen“ auf Ihren Computer herunterladen. Alternativ können Sie an dem Projekt arbeiten, indem Sie es in einen Online-LaTeX-Editor wie Overleaf übertragen.
+
+- [Offizielle Quelle →](https://introduction-to-autonomous-robots.github.io/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -29,7 +31,7 @@ Das Projekt „Einführung in autonome Roboter“ stellt die Grundprinzipien und
 
 ## Links
 
-- [GitHub-Repository →](https://introduction-to-autonomous-robots.github.io/)
+- [GitHub-Repository →](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 - [Auf Türkisch lesen →](https://trescout.com/discover/introduction-to-autonomous-robots/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-15 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

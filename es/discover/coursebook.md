@@ -19,7 +19,9 @@ El coursebook preparado por la Universidad de Illinois es un libro de texto de c
 
 ## Cómo empezar
 
-- Fuente oficial →
+No necesita ejecutar ningún código para leer este recurso. Puede descargar directamente la versión PDF o EPUB actualizada del libro utilizando los enlaces en la página principal del proyecto, o puede examinar la versión HTML desde su navegador web.
+
+- [Fuente oficial →](http://cs241.cs.illinois.edu/coursebook)
 
 ## Términos relacionados del glosario
 
@@ -31,7 +33,7 @@ El coursebook preparado por la Universidad de Illinois es un libro de texto de c
 
 ## Enlaces
 
-- [Repositorio en GitHub →](http://cs241.cs.illinois.edu/coursebook)
+- [Repositorio en GitHub →](https://github.com/cs341-illinois/coursebook)
 - [Leer en turco →](https://trescout.com/discover/coursebook/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-28: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

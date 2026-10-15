@@ -70,11 +70,11 @@ Evet. Platformlar yaygın yetenekleri paketler, özel iş için kendiniz yazars�
 - [Agent Skills](https://trescout.com/discover/agent-skills/)
 - [Taste Skill](https://trescout.com/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/discover/openmontage/)
-- [Scientific Agent Skills](https://trescout.com/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](https://trescout.com/discover/awesome-agent-skills/)
 - [Agentskills](https://trescout.com/discover/agentskills/)
 - [Text to Cad](https://trescout.com/discover/text-to-cad/)
 - [Claude Obsidian](https://trescout.com/discover/claude-obsidian/)
+- [Stitch Skills](https://trescout.com/discover/stitch-skills/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

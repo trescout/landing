@@ -34,10 +34,6 @@ Sizi gerçekten hissetmez ancak eğitildiği veriler sayesinde duygularınızı 
 - [Autonomous Agent](https://trescout.com/dictionary/autonomous-agent/)
 - [LLM](https://trescout.com/dictionary/llm/)
 
-## İlgili araçlar
-
-- [AIRI](https://trescout.com/discover/airi/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

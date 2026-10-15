@@ -46,7 +46,6 @@ I use this technical resource as a skillset package. Please stick to only the co
 ## Related dictionary terms
 
 - [Markdown](https://trescout.com/en/dictionary/markdown/)
-- [Skill](https://trescout.com/en/dictionary/skill/)
 - [Token](https://trescout.com/en/dictionary/token/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)

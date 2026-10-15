@@ -2,16 +2,16 @@
 
 Macro ist ein Arbeitsbereich, der Geschäftstools wie E-Mail, Chat, Dokumente und Aufgabenverwaltung mit einem gemeinsamen Speicher für künstliche Intelligenz kombiniert. Diese mit der Rust-Sprache entwickelte Plattform verbindet verschiedene Arbeitsabläufe in einer einzigen Oberfläche.
 
-- ★ 4.666
+- ★ 4.680
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 4,666 → 4,680, neueste Version v2026.10.14.0 (14. Oktober 2026).
 - **14. Oktober 2026:** Sterne 4,627 → 4,666, neueste Version v2026.10.13.1 (13. Oktober 2026).
 - **11. Oktober 2026:** Sterne 4,613 → 4,627, neueste Version v2026.10.10.0 (10. Oktober 2026).
 - **10. Oktober 2026:** Sterne 4,598 → 4,613, neueste Version v2026.10.9.1 (9. Oktober 2026).
-- **9. Oktober 2026:** Sterne 4,584 → 4,598, neueste Version v2026.10.8.1 (8. Oktober 2026).
 
 ## Was es bringt
 
@@ -21,7 +21,9 @@ Macro ist ein Arbeitsbereich, der Geschäftstools wie E-Mail, Chat, Dokumente un
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung der Macro-Plattform zu beginnen, gehen Sie einfach auf die offizielle Website Macro.com und registrieren Sie sich. Auf der Dokumentationsseite unter docs.macro.com finden Sie Informationen zu allen Funktionen und Nutzungsdetails der Plattform.
+
+- [Offizielle Quelle →](https://macro.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -33,7 +35,7 @@ Macro ist ein Arbeitsbereich, der Geschäftstools wie E-Mail, Chat, Dokumente un
 
 ## Links
 
-- [GitHub-Repository →](https://macro.com)
+- [GitHub-Repository →](https://github.com/macro-inc/macro)
 - [Auf Türkisch lesen →](https://trescout.com/discover/macro/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

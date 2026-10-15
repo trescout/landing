@@ -39,8 +39,8 @@ Muitas vezes, os aplicativos locais podem fazer backup na nuvem de maneira cript
 - [Openhuman](https://trescout.com/pt/discover/openhuman/)
 - [PI-Desktop](https://trescout.com/pt/discover/pi-desktop/)
 - [Agentsview](https://trescout.com/pt/discover/agentsview/)
-- [Open Science](https://trescout.com/pt/discover/open-science/)
 - [Wigolo](https://trescout.com/pt/discover/wigolo/)
+- [Open Science](https://trescout.com/pt/discover/open-science/)
 - [Starnet](https://trescout.com/pt/discover/starnet/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/local-first/)

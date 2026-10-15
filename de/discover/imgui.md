@@ -2,12 +2,13 @@
 
 Dear ImGui ist eine leichte grafische Benutzeroberflächenbibliothek für C++-Projekte, die mit minimalen Abhängigkeiten arbeitet. Es ermöglicht Softwareentwicklern, eine einfache Schnittstelle für Rapid-Prototyping- und Werkzeugentwicklungsprozesse zu erstellen.
 
-- ★ 75.457
+- ★ 76.656
 - C++
 - GitHub Trending · 2026-07-28
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 75,457 → 76,656, neueste Version v1.93.0 (14. Oktober 2026).
 - **2. August 2026:** Sterne 75,256 → 75,457, neueste Version v1.92.9b (31. Juli 2026).
 
 ## Was es bringt
@@ -18,7 +19,9 @@ Dear ImGui ist eine leichte grafische Benutzeroberflächenbibliothek für C++-Pr
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um Ihr Projekt zu starten, fügen Sie einfach alle .cpp- und .h-Dateien, die mit imgui beginnen, im GitHub-Repository zu Ihrem bestehenden Projekt hinzu. Anschließend können Sie mit der Erstellung Ihrer eigenen grafischen Oberfläche beginnen, indem Sie die Beispielanwendungen im Backends-Ordner untersuchen.
+
+- [Offizielle Quelle →](https://github.com/ocornut/imgui/wiki/Funding)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -31,7 +34,7 @@ Dear ImGui ist eine leichte grafische Benutzeroberflächenbibliothek für C++-Pr
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/ocornut/imgui/wiki/Funding)
+- [GitHub-Repository →](https://github.com/ocornut/imgui)
 - [Auf Türkisch lesen →](https://trescout.com/discover/imgui/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

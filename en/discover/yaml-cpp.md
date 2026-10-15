@@ -26,7 +26,9 @@ brew install yaml-cpp
 
 ## Getting started
 
-- Official source →
+To start using the tool, you must first download and install the CMake software from its official website. You can then run CMake configuration commands by creating a 'build' folder in your project's source code directory or integrate it into your project using CMake's FetchContent feature. For detailed usage examples and API documentation, you can check out the Wiki section on the GitHub page.
+
+- [Official source →](https://codedocs.xyz/jbeder/yaml-cpp)
 
 ## Related dictionary terms
 
@@ -40,7 +42,7 @@ brew install yaml-cpp
 
 ## Links
 
-- [GitHub repository →](https://codedocs.xyz/jbeder/yaml-cpp)
+- [GitHub repository →](https://github.com/jbeder/yaml-cpp)
 - [Read in Turkish →](https://trescout.com/discover/yaml-cpp/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

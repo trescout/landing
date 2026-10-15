@@ -20,7 +20,9 @@ Esta lista, que reúne bibliotecas, estratégias e recursos educacionais na áre
 
 ## Como começar
 
-- Fonte oficial →
+Esta ferramenta não requer instalação de software; É um guia completo que compila bibliotecas, livros e recursos educacionais necessários para desenvolver estratégias comerciais sistemáticas. Ao examinar os títulos na página do GitHub, você pode clicar nas categorias de seu interesse (backtesting, análise de dados, estratégias, etc.) e acessar os recursos relevantes.
+
+- [Fonte oficial →](https://paperswithbacktest.com)
 
 ## Termos relacionados do glossário
 
@@ -32,7 +34,7 @@ Esta lista, que reúne bibliotecas, estratégias e recursos educacionais na áre
 
 ## Links
 
-- [Repositório no GitHub →](https://paperswithbacktest.com)
+- [Repositório no GitHub →](https://github.com/paperswithbacktest/awesome-systematic-trading)
 - [Ler em turco →](https://trescout.com/discover/awesome-systematic-trading/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-29: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

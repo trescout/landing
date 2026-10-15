@@ -35,7 +35,6 @@ You are an artificial intelligence agent development expert. Explain me step by 
 
 ## Related dictionary terms
 
-- [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 - [RAG](https://trescout.com/en/dictionary/rag/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
 - [LLM](https://trescout.com/en/dictionary/llm/)

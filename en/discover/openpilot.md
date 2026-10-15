@@ -18,7 +18,9 @@ Developed by Comma AI, openpilot is an open source operating system designed for
 
 ## Getting started
 
-- Official source →
+To use this tool, you must have a compatible comma device, a cable harness suitable for your vehicle, and a supported vehicle model. For detailed information about the installation process and hardware requirements, you can visit the official documentation page (docs.comma.ai) and installation guide (comma.ai/setup).
+
+- [Official source →](https://comma.ai/openpilot)
 
 ## Related dictionary terms
 
@@ -30,7 +32,7 @@ Developed by Comma AI, openpilot is an open source operating system designed for
 
 ## Links
 
-- [GitHub repository →](https://comma.ai/openpilot)
+- [GitHub repository →](https://github.com/commaai/openpilot)
 - [Read in Turkish →](https://trescout.com/discover/openpilot/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-27: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

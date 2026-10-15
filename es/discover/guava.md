@@ -20,7 +20,9 @@ Desarrollado por Google, Guava es un conjunto de herramientas que contiene bibli
 
 ## Cómo empezar
 
-- Fuente oficial →
+Dependiendo de la herramienta de configuración que utilice para agregar la biblioteca Guava a su proyecto, deberá definir las dependencias necesarias en sus archivos Maven o Gradle. Puede comenzar eligiendo una de las versiones JRE o Android según las necesidades de su proyecto y agregando los códigos de dependencia relevantes al archivo de configuración de su proyecto.
+
+- [Fuente oficial →](https://guava.dev/)
 
 ## Términos relacionados del glosario
 
@@ -32,7 +34,7 @@ Desarrollado por Google, Guava es un conjunto de herramientas que contiene bibli
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://guava.dev/)
+- [Repositorio en GitHub →](https://github.com/google/guava)
 - [Leer en turco →](https://trescout.com/discover/guava/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

@@ -18,7 +18,9 @@ The awesome-generative-ai-guide repository collects current research, interview 
 
 ## Getting started
 
-- Official source →
+This tool does not require any installation. By visiting the official page on GitHub, you can review the topics that interest you and access the free courses, roadmaps and technical documents offered via direct links.
+
+- [Official source →](https://www.linkedin.com/in/areganti/)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ The awesome-generative-ai-guide repository collects current research, interview 
 
 ## Links
 
-- [GitHub repository →](https://www.linkedin.com/in/areganti/)
+- [GitHub repository →](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 - [Read in Turkish →](https://trescout.com/discover/awesome-generative-ai-guide/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

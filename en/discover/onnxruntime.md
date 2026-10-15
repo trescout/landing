@@ -21,7 +21,9 @@ ONNX Runtime is a cross-platform high-performance accelerator for machine learni
 
 ## Getting started
 
-- Official source →
+You can access usage documents and training guides by visiting the official website, onnxruntime.ai. You can integrate it into your projects by examining the sample code repositories prepared for inference or model training processes according to your needs.
+
+- [Official source →](https://onnxruntime.ai)
 
 ## Related dictionary terms
 
@@ -33,7 +35,7 @@ ONNX Runtime is a cross-platform high-performance accelerator for machine learni
 
 ## Links
 
-- [GitHub repository →](https://onnxruntime.ai)
+- [GitHub repository →](https://github.com/microsoft/onnxruntime)
 - [Read in Turkish →](https://trescout.com/discover/onnxruntime/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-22: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -18,7 +18,9 @@ Universal Android Debloater Next Generation ist eine in Rust entwickelte plattfo
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit dem Tool zu beginnen, gehen Sie zum Wiki-Bereich auf der GitHub-Seite. Wenn Sie hier die Seiten „Erste Schritte“ und „Nutzungsanleitung“ lesen, können Sie die erforderlichen Schritte für Ihr Gerät befolgen und die Anwendung herunterladen und auf Ihrem Computer ausführen.
+
+- [Offizielle Quelle →](https://github.com/0x192/universal-android-debloater)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -31,7 +33,7 @@ Universal Android Debloater Next Generation ist eine in Rust entwickelte plattfo
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/0x192/universal-android-debloater)
+- [GitHub-Repository →](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 - [Auf Türkisch lesen →](https://trescout.com/discover/universal-android-debloater-next-generation/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

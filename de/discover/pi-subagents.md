@@ -46,7 +46,6 @@ pi install npm:pi-subagents
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Subagents](https://trescout.com/de/dictionary/subagents/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

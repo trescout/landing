@@ -16,7 +16,9 @@ Diese Ressource bietet einen kostenlosen und auf Selbstlernen ausgerichteten Leh
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit diesem Lehrplan zu beginnen, besuchen Sie einfach die offizielle OSSU CS-Website oder das GitHub-Repository. Sie können Kurse auf der Website überprüfen, Ihren Studienplan erstellen und mit anderen Studenten interagieren, indem Sie der Discord-Community beitreten.
+
+- [Offizielle Quelle →](https://cs.ossu.dev)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -27,7 +29,7 @@ Diese Ressource bietet einen kostenlosen und auf Selbstlernen ausgerichteten Leh
 
 ## Links
 
-- [GitHub-Repository →](https://cs.ossu.dev)
+- [GitHub-Repository →](https://github.com/ossu/computer-science)
 - [Auf Türkisch lesen →](https://trescout.com/discover/computer-science/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

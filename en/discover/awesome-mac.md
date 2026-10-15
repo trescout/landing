@@ -2,12 +2,13 @@
 
 Awesome-mac is a comprehensive resource repository that categorizes and lists high-quality software developed for the macOS operating system. This archive, which allows users to easily find applications that suit their needs, functions as a systematic organization tool.
 
-- ★ 110,588
+- ★ 116,180
 - Swift
 - GitHub Trending · 2026-08-12
 
 ## Updates
 
+- **October 15, 2026:** Stars 110,588 → 116,180, latest release v2.1.0 (March 30, 2026).
 - **August 12, 2026:** Stars 110,586 → 110,588, latest release v2.1.0 (March 30, 2026).
 
 ## What you get
@@ -18,14 +19,16 @@ Awesome-mac is a comprehensive resource repository that categorizes and lists hi
 
 ## Getting started
 
-- Official source →
+This tool does not require a software installation. By visiting the relevant GitHub page, you can browse the categorized list of macOS applications and directly examine the software you need.
+
+- [Official source →](https://git.io/macx)
 
 - **Who it is for:** It is suitable for anyone who is a new Mac user or wants to equip their system with the best tools.
 - **License:** CC0-1.0
 
 ## Links
 
-- [GitHub repository →](https://git.io/macx)
+- [GitHub repository →](https://github.com/jaywcjlove/awesome-mac)
 - [Read in Turkish →](https://trescout.com/discover/awesome-mac/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

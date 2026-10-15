@@ -18,7 +18,9 @@ Dieser von Microsoft erstellte Schulungsinhalt bietet einen 21-Stunden-Lehrplan 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit den Schulungsinhalten zu beginnen, können Sie die offizielle Seite auf GitHub besuchen oder die Dateien mit den oben genannten Befehlen auf Ihren Computer herunterladen. Befolgen Sie dann einfach die Anleitung im Ordner „00-course-setup“ im Repository, um Ihre Entwicklungsumgebung vorzubereiten.
+
+- [Offizielle Quelle →](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -31,7 +33,7 @@ Dieser von Microsoft erstellte Schulungsinhalt bietet einen 21-Stunden-Lehrplan 
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+- [GitHub-Repository →](https://github.com/microsoft/generative-ai-for-beginners)
 - [Auf Türkisch lesen →](https://trescout.com/discover/generative-ai-for-beginners/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-02 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

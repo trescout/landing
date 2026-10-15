@@ -20,7 +20,9 @@ Das Projekt iptv-org, das öffentlich-rechtliche Fernsehsender auf der ganzen We
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Sie benötigen keine Installation, um dieses Tool zu verwenden. Kopieren Sie den Link zur Hauptplaylist des Projekts, https://iptv-org.github.io/iptv/index.m3u, und beginnen Sie mit der Wiedergabe, indem Sie ihn in den Netzwerk-Stream oder den URL-Öffnungsbereich eines beliebigen Videoplayers einfügen, der Live-Streaming unterstützt.
+
+- [Offizielle Quelle →](https://iptv-org.github.io)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -31,7 +33,7 @@ Das Projekt iptv-org, das öffentlich-rechtliche Fernsehsender auf der ganzen We
 
 ## Links
 
-- [GitHub-Repository →](https://iptv-org.github.io)
+- [GitHub-Repository →](https://github.com/iptv-org/iptv)
 - [Auf Türkisch lesen →](https://trescout.com/discover/iptv/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

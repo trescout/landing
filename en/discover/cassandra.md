@@ -36,7 +36,9 @@ docker run -p 9042:9042 cassandra
 
 ## Getting started
 
-- Official source →
+To start using Apache Cassandra, visit the download page on the official website to get the installation files. Then, by following the 'Getting Started' guide in the documentation, you can open the archive file, start the server and start your database operations via the CQL command line interface.
+
+- [Official source →](https://cassandra.apache.org/)
 
 ## Related dictionary terms
 
@@ -49,7 +51,7 @@ docker run -p 9042:9042 cassandra
 
 ## Links
 
-- [GitHub repository →](https://cassandra.apache.org/)
+- [GitHub repository →](https://github.com/apache/cassandra)
 - [Read in Turkish →](https://trescout.com/discover/cassandra/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

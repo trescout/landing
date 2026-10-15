@@ -60,7 +60,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Subagents](https://trescout.com/dictionary/subagents/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

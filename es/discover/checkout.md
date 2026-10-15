@@ -18,7 +18,9 @@ Desarrollado por GitHub, Actions/Checkout es una herramienta que automatiza los 
 
 ## Cómo empezar
 
-- Fuente oficial →
+Puedes habilitar la herramienta para descargar tu repositorio al espacio de trabajo agregando la línea - uses: action/checkout@v7 a la sección de pasos de tu archivo de flujo de trabajo de GitHub Actions. Puede personalizar el comportamiento de la copia definiendo parámetros como profundidad de búsqueda o submódulos bajo el bloque with según sus necesidades.
+
+- [Fuente oficial →](https://github.com/features/actions)
 
 ## Términos relacionados del glosario
 
@@ -31,7 +33,7 @@ Desarrollado por GitHub, Actions/Checkout es una herramienta que automatiza los 
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://github.com/features/actions)
+- [Repositorio en GitHub →](https://github.com/actions/checkout)
 - [Leer en turco →](https://trescout.com/discover/checkout/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

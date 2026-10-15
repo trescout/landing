@@ -2,16 +2,16 @@
 
 Desenvolvido pela Microsoft, o Visual Studio Code é um editor de código de código aberto que acelera os processos de desenvolvimento de software. Escrito em TypeScript, esta ferramenta oferece um ambiente de trabalho personalizável para diferentes linguagens de programação e plataformas, graças ao seu amplo suporte a extensões.
 
-- ★ 193.773
+- ★ 193.634
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Atualizações
 
+- **15 de outubro de 2026:** Estrelas 193,773 → 193,634, versão mais recente 1.142.0 (14 de outubro de 2026).
 - **14 de outubro de 2026:** Estrelas 193,616 → 193,773, versão mais recente 1.141.1 (13 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 193,318 → 193,616, versão mais recente 1.141.0 (7 de outubro de 2026).
 - **1 de outubro de 2026:** Estrelas 193,169 → 193,318, versão mais recente 1.140.0 (30 de setembro de 2026).
-- **27 de setembro de 2026:** Estrelas 193,142 → 193,169, versão mais recente 1.139.1 (25 de setembro de 2026).
 
 ## O que você ganha
 
@@ -21,7 +21,9 @@ Desenvolvido pela Microsoft, o Visual Studio Code é um editor de código de có
 
 ## Como começar
 
-- Fonte oficial →
+Pode baixar o Visual Studio Code para os sistemas operativos Windows, macOS e Linux através do site oficial. Pode instalar a versão Insiders para obter as versões mais recentes todos os dias.
+
+- [Fonte oficial →](https://code.visualstudio.com)
 
 ## Termos relacionados do glossário
 
@@ -33,7 +35,7 @@ Desenvolvido pela Microsoft, o Visual Studio Code é um editor de código de có
 
 ## Links
 
-- [Repositório no GitHub →](https://code.visualstudio.com)
+- [Repositório no GitHub →](https://github.com/microsoft/vscode)
 - [Ler em turco →](https://trescout.com/discover/vscode/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-27: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

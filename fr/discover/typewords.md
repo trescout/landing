@@ -18,7 +18,9 @@ TypeWords est un outil d'exercice de dactylographie basé sur une interface Vue 
 
 ## Pour commencer
 
-- Source officielle →
+Aucune installation n'est nécessaire pour commencer à utiliser l'outil ; vous pouvez vous rendre sur https://typewords.cc depuis votre navigateur et commencer à pratiquer immédiatement. Si vous souhaitez l'exécuter sur votre propre ordinateur, après avoir installé l'environnement de développement Node.js, vous pouvez télécharger le code source du projet depuis GitHub et lancer le serveur local en installant les dépendances nécessaires via le terminal.
+
+- [Source officielle →](https://typewords.cc)
 
 ## Termes liés du glossaire
 
@@ -29,7 +31,7 @@ TypeWords est un outil d'exercice de dactylographie basé sur une interface Vue 
 
 ## Liens
 
-- [Dépôt GitHub →](https://typewords.cc)
+- [Dépôt GitHub →](https://github.com/zyronon/TypeWords)
 - [Lire en turc →](https://trescout.com/discover/typewords/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

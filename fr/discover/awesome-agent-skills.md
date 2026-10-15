@@ -18,7 +18,9 @@ Compilé par VoltAgent, Awesome-agent-skills regroupe plus de 1000 compétences 
 
 ## Pour commencer
 
-- Source officielle →
+Pour utiliser cette collection, visitez la page Awesome Agent Skills sur GitHub. Vous pouvez sélectionner la compétence dont vous avez besoin dans le tableau, accéder à sa documentation via le lien approprié et l'intégrer dans l'assistant d'intelligence artificielle que vous utilisez.
+
+- [Source officielle →](https://officialskills.sh/)
 
 ## Termes liés du glossaire
 
@@ -33,7 +35,7 @@ Compilé par VoltAgent, Awesome-agent-skills regroupe plus de 1000 compétences 
 
 ## Liens
 
-- [Dépôt GitHub →](https://officialskills.sh/)
+- [Dépôt GitHub →](https://github.com/VoltAgent/awesome-agent-skills)
 - [Lire en turc →](https://trescout.com/discover/awesome-agent-skills/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

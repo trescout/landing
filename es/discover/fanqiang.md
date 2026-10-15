@@ -19,7 +19,9 @@ El proyecto Fanqiang es una herramienta de entrada escrita en Kotlin, desarrolla
 
 ## Cómo empezar
 
-- Fuente oficial →
+El proyecto Fanqiang es una biblioteca completa de guías y herramientas en lugar de una instalación directa de software. Dependiendo del tipo de dispositivo que necesite (Windows, macOS, Android, iOS o consola de juegos), navegue hasta la carpeta o página wiki adecuada en GitHub. Descargue las herramientas recomendadas siguiendo los enlaces de la guía correspondiente y complete su configuración leyendo atentamente los manuales de usuario incluidos.
+
+- [Fuente oficial →](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)
 
 ## Términos relacionados del glosario
 
@@ -29,7 +31,7 @@ El proyecto Fanqiang es una herramienta de entrada escrita en Kotlin, desarrolla
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)
+- [Repositorio en GitHub →](https://github.com/bannedbook/fanqiang)
 - [Leer en turco →](https://trescout.com/discover/fanqiang/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

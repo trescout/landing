@@ -39,7 +39,6 @@ Se você possui hierarquias complexas ou múltiplas conexões entre seus dados, 
 ## Ferramentas relacionadas
 
 - [GitNexus](https://trescout.com/pt/discover/gitnexus/)
-- [Code Graph RAG](https://trescout.com/pt/discover/code-graph-rag/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/graph-rag/)
 

@@ -14,7 +14,9 @@ The headunit-revived project provides an application that allows viewing the And
 
 ## Getting started
 
-- Official source →
+Download the app to your device via Google Play Store or Amazon Appstore. For wireless connection, it is recommended that you also install the 'Wireless Helper' application on your phone. For detailed installation steps and connection settings, you can review the Wiki section on the GitHub page.
+
+- [Official source →](https://headunit.andrerinas.com/)
 
 ## Related dictionary terms
 
@@ -25,7 +27,7 @@ The headunit-revived project provides an application that allows viewing the And
 
 ## Links
 
-- [GitHub repository →](https://headunit.andrerinas.com/)
+- [GitHub repository →](https://github.com/andreknieriem/headunit-revived)
 - [Read in Turkish →](https://trescout.com/discover/headunit-revived/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

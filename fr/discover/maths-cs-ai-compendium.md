@@ -18,7 +18,9 @@ Maths-cs-ai-compendium propose une collection complète de ressources couvrant l
 
 ## Pour commencer
 
-- Source officielle →
+Vous n'avez besoin d'aucune installation pour commencer avec ce guide. Vous pouvez lire tous les chapitres en ligne et consulter immédiatement le guide d'étude en visitant le site officiel du projet, henryndubuaku.github.io/maths-cs-ai-compendium.
+
+- [Source officielle →](https://henryndubuaku.github.io/maths-cs-ai-compendium)
 
 ## Termes liés du glossaire
 
@@ -30,7 +32,7 @@ Maths-cs-ai-compendium propose une collection complète de ressources couvrant l
 
 ## Liens
 
-- [Dépôt GitHub →](https://henryndubuaku.github.io/maths-cs-ai-compendium)
+- [Dépôt GitHub →](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 - [Lire en turc →](https://trescout.com/discover/maths-cs-ai-compendium/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-15 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

@@ -20,7 +20,9 @@ Guava wurde von Google entwickelt und ist ein Toolkit mit Kernbibliotheken, die 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Abhängig vom Konfigurationstool, mit dem Sie die Guava-Bibliothek zu Ihrem Projekt hinzufügen, müssen Sie die erforderlichen Abhängigkeiten in Ihren Maven- oder Gradle-Dateien definieren. Sie können beginnen, indem Sie entsprechend den Anforderungen Ihres Projekts eine der JRE- oder Android-Versionen auswählen und die relevanten Abhängigkeitscodes zur Konfigurationsdatei Ihres Projekts hinzufügen.
+
+- [Offizielle Quelle →](https://guava.dev/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ Guava wurde von Google entwickelt und ist ein Toolkit mit Kernbibliotheken, die 
 
 ## Links
 
-- [GitHub-Repository →](https://guava.dev/)
+- [GitHub-Repository →](https://github.com/google/guava)
 - [Auf Türkisch lesen →](https://trescout.com/discover/guava/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-07 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

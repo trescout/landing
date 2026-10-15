@@ -19,7 +19,9 @@ This selection, prepared for Claude Code, the coding assistant developed by Anth
 
 ## Getting started
 
-- Official source →
+This tool is a resource list for developers using Claude Code. To get started, you can visit the official Claude Code documentation by Anthropic and customize your project using the guides, plugins and skill packs in this list.
+
+- [Official source →](https://awesome.re)
 
 ## Related dictionary terms
 
@@ -30,7 +32,7 @@ This selection, prepared for Claude Code, the coding assistant developed by Anth
 
 ## Links
 
-- [GitHub repository →](https://awesome.re)
+- [GitHub repository →](https://github.com/hesreallyhim/awesome-claude-code)
 - [Read in Turkish →](https://trescout.com/discover/awesome-claude-code/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-06: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

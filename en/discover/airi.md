@@ -39,7 +39,6 @@ Install the artificial intelligence virtual character application called AIRI on
 
 ## Related dictionary terms
 
-- [AI Companion](https://trescout.com/en/dictionary/ai-companion/)
 - [Companion](https://trescout.com/en/dictionary/companion/)
 - [Self-hosting](https://trescout.com/en/dictionary/self-hosting/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)

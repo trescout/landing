@@ -2,7 +2,7 @@
 
 n8n, görsel canvas, özel kod, yapay zekâ ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 
-- ★ 207.332
+- ★ 207.437
 - GitHub Trending · 2026-08-23
 
 ## Kurulum
@@ -25,10 +25,10 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 207.332 → 207.437, son sürüm n8n@2.43.6 (15 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 207.216 → 207.332, son sürüm n8n@2.43.5 (14 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 207.074 → 207.216, son sürüm n8n@2.43.4 (12 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 206.789 → 207.074, son sürüm n8n@2.42.7 (12 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 206.884 → 206.789, son sürüm n8n@2.42.6 (9 Ekim 2026).
 
 ## Bu araç ne yapar?
 
@@ -80,6 +80,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Self-hosting](https://trescout.com/dictionary/self-hosting/)
 - [Container](https://trescout.com/dictionary/container/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/n8n/

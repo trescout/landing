@@ -21,7 +21,9 @@ Zapret-discord-youtube é uma ferramenta que visa fornecer acesso a plataformas 
 
 ## Como começar
 
-- Fonte oficial →
+Baixe o arquivo acessando o link da versão mais recente na página oficial do GitHub. Desbloqueie o arquivo em suas propriedades e extraia seu conteúdo para uma pasta que não contenha caracteres especiais ou alfabeto cirílico. Você pode então executar estratégias ou instalar serviços usando os arquivos .bat na pasta.
+
+- [Fonte oficial →](https://github.com/Flowseal)
 
 ## Termos relacionados do glossário
 
@@ -31,7 +33,7 @@ Zapret-discord-youtube é uma ferramenta que visa fornecer acesso a plataformas 
 
 ## Links
 
-- [Repositório no GitHub →](https://github.com/Flowseal)
+- [Repositório no GitHub →](https://github.com/Flowseal/zapret-discord-youtube)
 - [Ler em turco →](https://trescout.com/discover/zapret-discord-youtube/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-25: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

@@ -46,7 +46,6 @@ Eu uso este recurso técnico como um pacote de habilidades. Atenha-se apenas às
 ## Termos relacionados do glossário
 
 - [Markdown](https://trescout.com/pt/dictionary/markdown/)
-- [Skill](https://trescout.com/pt/dictionary/skill/)
 - [Token](https://trescout.com/pt/dictionary/token/)
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)

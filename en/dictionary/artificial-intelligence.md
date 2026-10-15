@@ -48,8 +48,8 @@ Artificial intelligence will change the way many jobs are done, but will general
 - [Coding Interview University](https://trescout.com/en/discover/coding-interview-university/)
 - [Superpowers](https://trescout.com/en/discover/superpowers/)
 - [ECC](https://trescout.com/en/discover/ecc/)
-- [Hermes Agent](https://trescout.com/en/discover/hermes-agent/)
 - [REA](https://trescout.com/en/discover/rea/)
+- [Hermes Agent](https://trescout.com/en/discover/hermes-agent/)
 - [Opencode](https://trescout.com/en/discover/opencode/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/artificial-intelligence/)

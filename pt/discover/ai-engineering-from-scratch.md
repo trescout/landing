@@ -2,17 +2,17 @@
 
 Introdução à engenharia de inteligência artificial do zero: 485 aulas, 20 fases e aproximadamente 320 horas de conteúdo. Ele ensina todos os algoritmos, desde álgebra linear até agentes autônomos, primeiro com matemática e depois escrevendo código à mão. Este curso, que cobre as linguagens Python, TypeScript, Rust e Julia, é totalmente gratuito e de código aberto.
 
-- ★ 66.339
+- ★ 69.356
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Atualizações
 
+- **15 de outubro de 2026:** Estrelas 66,339 → 69,356, versão mais recente v2026.10.3 (15 de outubro de 2026).
 - **10 de outubro de 2026:** Estrelas 65,449 → 66,339, versão mais recente v2026.10.2 (10 de outubro de 2026).
 - **7 de outubro de 2026:** Estrelas 65,029 → 65,449, versão mais recente v2026.10.1 (6 de outubro de 2026).
 - **6 de outubro de 2026:** Estrelas 61,896 → 65,029, versão mais recente v2026.10 (27 de setembro de 2026).
-- **30 de setembro de 2026:** Estrelas 58,825 → 61,896, versão mais recente v2026.10 (27 de setembro de 2026).
 
 ## O que você aprende?
 
@@ -33,12 +33,12 @@ Darei a você o conteúdo de um currículo de código aberto com mais de 500 aul
 
 ## Termos relacionados do glossário
 
-- [AI Engineering](https://trescout.com/pt/dictionary/ai-engineering/)
 - [Tokenizer](https://trescout.com/pt/dictionary/tokenizer/)
 - [Attention](https://trescout.com/pt/dictionary/attention/)
 - [Prompt](https://trescout.com/pt/dictionary/prompt/)
 - [MCP](https://trescout.com/pt/dictionary/mcp/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
+- [Open Source](https://trescout.com/pt/dictionary/open-source/)
 
 - **Para quem é:** Aqueles que querem aprender IA fundamentalmente, e não superficialmente
 - **Dificuldade:** Ele progride desde o início, fase por fase

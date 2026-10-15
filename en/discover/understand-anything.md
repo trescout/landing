@@ -77,7 +77,7 @@ Because it is at the center of the "understanding code and information by asking
 
 ## Links
 
-- GitHub repository →
+- [GitHub repository →](https://github.com/Lum1104/Understand-Anything)
 - [Read in Turkish →](https://trescout.com/discover/understand-anything/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

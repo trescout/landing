@@ -51,7 +51,6 @@ Este proyecto tiene instalado code-review-graph. Cree el gráfico de revisión d
 
 - [Code Intelligence Graph](https://trescout.com/es/dictionary/code-intelligence-graph/)
 - [Context Reduction](https://trescout.com/es/dictionary/context-reduction/)
-- [Code Review](https://trescout.com/es/dictionary/code-review/)
 - [Context](https://trescout.com/es/dictionary/context/)
 - [Token](https://trescout.com/es/dictionary/token/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

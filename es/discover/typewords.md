@@ -18,7 +18,9 @@ TypeWords es una herramienta de ejercicios de escritura que permite a los usuari
 
 ## Cómo empezar
 
-- Fuente oficial →
+No necesita ninguna instalación para empezar a utilizar la herramienta; puede ir a https://typewords.cc desde su navegador y comenzar a practicar de inmediato. Si desea ejecutarlo en su propia computadora, después de instalar el entorno de desarrollo de software Node.js, puede descargar el código fuente del proyecto desde GitHub e iniciar el servidor local instalando las dependencias necesarias a través de la terminal.
+
+- [Fuente oficial →](https://typewords.cc)
 
 ## Términos relacionados del glosario
 
@@ -29,7 +31,7 @@ TypeWords es una herramienta de ejercicios de escritura que permite a los usuari
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://typewords.cc)
+- [Repositorio en GitHub →](https://github.com/zyronon/TypeWords)
 - [Leer en turco →](https://trescout.com/discover/typewords/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-03: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

@@ -33,7 +33,6 @@ Installez le plugin Claude Cowork pour créer des analyses financières et des m
 
 ## Termes liés du glossaire
 
-- [Financial Services](https://trescout.com/fr/dictionary/financial-services/)
 - [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

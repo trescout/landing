@@ -21,7 +21,9 @@ Developed with the Rust programming language, Pumpkin offers an open source infr
 
 ## Getting started
 
-- Official source →
+The Pumpkin project is still under development. For installation and operation steps, you can proceed by reviewing the Quick Start guide on the official documentation page.
+
+- [Official source →](https://pumpkinmc.org/)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ Developed with the Rust programming language, Pumpkin offers an open source infr
 
 ## Links
 
-- [GitHub repository →](https://pumpkinmc.org/)
+- [GitHub repository →](https://github.com/Pumpkin-MC/Pumpkin)
 - [Read in Turkish →](https://trescout.com/discover/pumpkin/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

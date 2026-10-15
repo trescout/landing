@@ -39,7 +39,6 @@ Verileriniz arasında karmaşık hiyerarşiler veya çoklu bağlantılar varsa G
 ## İlgili araçlar
 
 - [GitNexus](https://trescout.com/discover/gitnexus/)
-- [Code Graph RAG](https://trescout.com/discover/code-graph-rag/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

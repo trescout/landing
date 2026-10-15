@@ -1,4 +1,4 @@
-# Prepare Web Data for AI
+# Prepare web data for AI
 
 Crawl4AI; is an open source web crawler and scraper optimized for large language models. It converts web pages into clean and structured formats (Markdown, etc.) that artificial intelligence models can easily process.
 

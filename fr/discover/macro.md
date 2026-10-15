@@ -2,16 +2,16 @@
 
 Macro est un espace de travail qui combine des outils professionnels tels que la messagerie électronique, le chat, la gestion de documents et de tâches avec une mémoire commune d'intelligence artificielle. Développée avec le langage Rust, cette plateforme connecte différents workflows dans une seule interface.
 
-- ★ 4 666
+- ★ 4 680
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 4,666 → 4,680, dernière version v2026.10.14.0 (14 octobre 2026).
 - **14 octobre 2026:** Étoiles 4,627 → 4,666, dernière version v2026.10.13.1 (13 octobre 2026).
 - **11 octobre 2026:** Étoiles 4,613 → 4,627, dernière version v2026.10.10.0 (10 octobre 2026).
 - **10 octobre 2026:** Étoiles 4,598 → 4,613, dernière version v2026.10.9.1 (9 octobre 2026).
-- **9 octobre 2026:** Étoiles 4,584 → 4,598, dernière version v2026.10.8.1 (8 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -21,7 +21,9 @@ Macro est un espace de travail qui combine des outils professionnels tels que la
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser la plateforme Macro, rendez-vous simplement sur le site officiel macro.com et inscrivez-vous. Vous pouvez consulter la page de documentation sur docs.macro.com pour obtenir des informations sur toutes les fonctionnalités et détails d'utilisation offerts par la plateforme.
+
+- [Source officielle →](https://macro.com)
 
 ## Termes liés du glossaire
 
@@ -33,7 +35,7 @@ Macro est un espace de travail qui combine des outils professionnels tels que la
 
 ## Liens
 
-- [Dépôt GitHub →](https://macro.com)
+- [Dépôt GitHub →](https://github.com/macro-inc/macro)
 - [Lire en turc →](https://trescout.com/discover/macro/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-13 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

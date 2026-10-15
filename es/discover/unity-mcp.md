@@ -21,7 +21,9 @@ Unity MCP proporciona un puente entre grandes modelos de lenguaje y el editor de
 
 ## Cómo empezar
 
-- Fuente oficial →
+Abra su proyecto de Unity y vaya a la ventana del Administrador de paquetes. Haga clic en 'Agregar paquete desde la URL de git' y pegue la dirección https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main. Una vez completada la instalación, vaya a la pestaña 'MCP para Unity' en el menú Ventana y complete los ajustes de configuración.
+
+- [Fuente oficial →](https://www.coplay.dev)
 
 ## Términos relacionados del glosario
 
@@ -37,7 +39,7 @@ Unity MCP proporciona un puente entre grandes modelos de lenguaje y el editor de
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://www.coplay.dev)
+- [Repositorio en GitHub →](https://github.com/CoplayDev/unity-mcp)
 - [Leer en turco →](https://trescout.com/discover/unity-mcp/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

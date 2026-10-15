@@ -21,7 +21,9 @@ Cordis é uma metaestrutura que combina componentes espaciais e temporais. Esta 
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar o Cordis, você pode revisar os conceitos básicos no cordis-primer, a página de documentação oficial do projeto. Você também pode dar uma olhada no artigo acadêmico compartilhado no GitHub para entender a lógica de funcionamento do sistema.
+
+- [Fonte oficial →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
 
 ## Termos relacionados do glossário
 
@@ -32,7 +34,7 @@ Cordis é uma metaestrutura que combina componentes espaciais e temporais. Esta 
 
 ## Links
 
-- [Repositório no GitHub →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
+- [Repositório no GitHub →](https://github.com/cordiverse/cordis)
 - [Ler em turco →](https://trescout.com/discover/cordis/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

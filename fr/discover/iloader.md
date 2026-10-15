@@ -2,16 +2,16 @@
 
 Développé avec TypeScript, iloader est un sideloader convivial qui facilite le processus d'installation d'applications sur les appareils iOS. Il simplifie l'installation d'applications en dehors de la boutique officielle d'Apple, améliorant ainsi l'expérience des développeurs et des utilisateurs.
 
-- ★ 3 934
+- ★ 3 970
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 3,934 → 3,970, dernière version v2.3.8 (15 octobre 2026).
 - **14 octobre 2026:** Étoiles 3,738 → 3,934, dernière version v2.3.7 (13 octobre 2026).
 - **6 octobre 2026:** Étoiles 3,710 → 3,738, dernière version v2.3.6 (6 octobre 2026).
 - **4 octobre 2026:** Étoiles 3,605 → 3,710, dernière version v2.3.5 (3 octobre 2026).
-- **27 septembre 2026:** Étoiles 2,962 → 3,605, dernière version v2.3.4 (23 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -21,7 +21,9 @@ Développé avec TypeScript, iloader est un sideloader convivial qui facilite le
 
 ## Pour commencer
 
-- Source officielle →
+Rendez-vous sur le site officiel iloader.app pour télécharger la version adaptée à votre système d'exploitation. Après avoir installé les pilotes nécessaires sur votre ordinateur, tels qu'iTunes (pour Windows), connectez votre appareil, lancez l'application et connectez-vous avec vos identifiants Apple ID.
+
+- [Source officielle →](https://iloader.app)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ Développé avec TypeScript, iloader est un sideloader convivial qui facilite le
 
 ## Liens
 
-- [Dépôt GitHub →](https://iloader.app)
+- [Dépôt GitHub →](https://github.com/nab138/iloader)
 - [Lire en turc →](https://trescout.com/discover/iloader/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

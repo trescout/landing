@@ -18,7 +18,9 @@ Este guia, preparado por estudantes da Universidade de Pequim, oferece um roteir
 
 ## Como começar
 
-- Fonte oficial →
+Você não precisa de nenhuma configuração para começar a usar este guia. Você pode revisar todos os conteúdos do curso e planos de estudo online gratuitamente, visitando o site oficial do projeto, csdiy.wiki.
+
+- [Fonte oficial →](https://csdiy.wiki)
 
 ## Termos relacionados do glossário
 
@@ -29,7 +31,7 @@ Este guia, preparado por estudantes da Universidade de Pequim, oferece um roteir
 
 ## Links
 
-- [Repositório no GitHub →](https://csdiy.wiki)
+- [Repositório no GitHub →](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Ler em turco →](https://trescout.com/discover/cs-self-learning/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-20: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

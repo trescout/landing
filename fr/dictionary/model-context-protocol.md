@@ -48,8 +48,8 @@ Oui, MCP dispose d'une structure qui maintient les autorisations d'accès aux do
 - [Goose](https://trescout.com/fr/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/fr/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/fr/discover/openclaude/)
-- [Fastmcp](https://trescout.com/fr/discover/fastmcp/)
 - [Context Mode](https://trescout.com/fr/discover/context-mode/)
+- [Fastmcp](https://trescout.com/fr/discover/fastmcp/)
 - [Unity MCP](https://trescout.com/fr/discover/unity-mcp/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/model-context-protocol/)

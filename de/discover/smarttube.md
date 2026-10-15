@@ -20,14 +20,16 @@ SmartTube ist ein für Android TV-Geräte entwickelter YouTube-Client, der erwei
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Installieren Sie die Downloader-App auf Ihrem Android TV-Gerät. Öffnen Sie die App, geben Sie kutt.to/stn_beta für die Beta-Version oder kutt.to/stn_stable für die stabile Version ein und schließen Sie die Installation ab, indem Sie die Sicherheitsbestätigungen auf dem Bildschirm befolgen.
+
+- [Offizielle Quelle →](https://smarttubeapp.github.io)
 
 - **Für wen es gedacht ist:** Für Benutzer, die ein anpassbareres und werbefreies YouTube-Erlebnis auf ihrem Android TV oder ihrer TV-Box suchen.
 - **Lizenz:** MIT
 
 ## Links
 
-- [GitHub-Repository →](https://smarttubeapp.github.io)
+- [GitHub-Repository →](https://github.com/yuliskov/SmartTube)
 - [Auf Türkisch lesen →](https://trescout.com/discover/smarttube/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-13 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

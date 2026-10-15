@@ -18,7 +18,9 @@ Sentry ist ein Fehlerüberwachungstool, das Softwarefehler in Echtzeit verfolgt 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um die Fehlerverfolgungsplattform Sentry zu nutzen, können Sie die offizielle Website besuchen und ein neues Konto erstellen. Für die Integration in Ihr Projekt können Sie den Schritten auf der offiziellen Dokumentationsseite folgen.
+
+- [Offizielle Quelle →](https://sentry.io)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -29,7 +31,7 @@ Sentry ist ein Fehlerüberwachungstool, das Softwarefehler in Echtzeit verfolgt 
 
 ## Links
 
-- [GitHub-Repository →](https://sentry.io)
+- [GitHub-Repository →](https://github.com/getsentry/sentry)
 - [Auf Türkisch lesen →](https://trescout.com/discover/sentry/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-03 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

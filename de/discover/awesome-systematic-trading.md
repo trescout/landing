@@ -20,7 +20,9 @@ Diese Liste, die Bibliotheken, Strategien und Bildungsressourcen im Bereich des 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Für dieses Tool ist keine Softwareinstallation erforderlich. Es handelt sich um einen umfassenden Leitfaden, der die Bibliotheken, Bücher und Bildungsressourcen zusammenstellt, die zur Entwicklung systematischer Handelsstrategien erforderlich sind. Wenn Sie sich die Titel auf der GitHub-Seite ansehen, können Sie auf die Kategorien klicken, die Sie interessieren (Backtesting, Datenanalyse, Strategien usw.) und auf die relevanten Ressourcen zugreifen.
+
+- [Offizielle Quelle →](https://paperswithbacktest.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ Diese Liste, die Bibliotheken, Strategien und Bildungsressourcen im Bereich des 
 
 ## Links
 
-- [GitHub-Repository →](https://paperswithbacktest.com)
+- [GitHub-Repository →](https://github.com/paperswithbacktest/awesome-systematic-trading)
 - [Auf Türkisch lesen →](https://trescout.com/discover/awesome-systematic-trading/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-29 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

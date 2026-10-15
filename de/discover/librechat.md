@@ -14,7 +14,9 @@ LibreChat ist eine Open-Source-Chat-Plattform, die verschiedene KI-Modelle und T
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung von LibreChat zu beginnen, können Sie die offizielle Dokumentationsseite besuchen und den Installationsschritten folgen. Nutzen Sie die Anleitungen unter docs.librechat.ai, um die Plattform auf Ihrem eigenen Server zu installieren oder schnell über Cloud-Dienste bereitzustellen.
+
+- [Offizielle Quelle →](https://librechat.ai/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -25,7 +27,7 @@ LibreChat ist eine Open-Source-Chat-Plattform, die verschiedene KI-Modelle und T
 
 ## Links
 
-- [GitHub-Repository →](https://librechat.ai/)
+- [GitHub-Repository →](https://github.com/danny-avila/LibreChat)
 - [Auf Türkisch lesen →](https://trescout.com/discover/librechat/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

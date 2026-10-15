@@ -18,7 +18,9 @@ Sentry is an error tracking tool that tracks software errors in real time and mo
 
 ## Getting started
 
-- Official source →
+To start using the error tracking platform Sentry, you can visit the official website and create a new account. To integrate it into your project, you can follow the steps on the official documentation page.
+
+- [Official source →](https://sentry.io)
 
 ## Related dictionary terms
 
@@ -29,7 +31,7 @@ Sentry is an error tracking tool that tracks software errors in real time and mo
 
 ## Links
 
-- [GitHub repository →](https://sentry.io)
+- [GitHub repository →](https://github.com/getsentry/sentry)
 - [Read in Turkish →](https://trescout.com/discover/sentry/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

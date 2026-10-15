@@ -21,7 +21,9 @@ Das LLVM-Projekt ist eine Infrastruktur, die modulare und wiederverwendbare Comp
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um auf den Quellcode des Projekts zuzugreifen und eine Installation durchzuführen, müssen Sie die Seite „Getting Started with LLVM“ auf der offiziellen LLVM-Website besuchen. Indem Sie die dort aufgeführten Schritte befolgen, erhalten Sie detaillierte Informationen zu den Kompilierungs- und Ausführungsprozessen.
+
+- [Offizielle Quelle →](http://llvm.org)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -31,7 +33,7 @@ Das LLVM-Projekt ist eine Infrastruktur, die modulare und wiederverwendbare Comp
 
 ## Links
 
-- [GitHub-Repository →](http://llvm.org)
+- [GitHub-Repository →](https://github.com/llvm/llvm-project)
 - [Auf Türkisch lesen →](https://trescout.com/discover/llvm-project/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-07 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

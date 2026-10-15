@@ -55,7 +55,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Markdown](https://trescout.com/dictionary/markdown/)
-- [Skill](https://trescout.com/dictionary/skill/)
 - [Token](https://trescout.com/dictionary/token/)
 - [PDF](https://trescout.com/dictionary/pdf/)
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)

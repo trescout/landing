@@ -21,7 +21,9 @@ SmartlyDressedGames compartilhou o kit de desenvolvimento de software U3-SDK des
 
 ## Como começar
 
-- Fonte oficial →
+Baixe ou copie o projeto para o seu computador. Em seguida, instale a versão especificada do Unity 2022.3.62f3 por meio do Unity Hub e certifique-se de que o jogo Unturned esteja instalado no Steam. Finalmente, você pode iniciar o projeto abrindo-o com o editor Unity e indo para a cena Assets/GameStartup.unity.
+
+- [Fonte oficial →](https://smartlydressedgames.com/unturned/)
 
 ## Termos relacionados do glossário
 
@@ -34,7 +36,7 @@ SmartlyDressedGames compartilhou o kit de desenvolvimento de software U3-SDK des
 
 ## Links
 
-- [Repositório no GitHub →](https://smartlydressedgames.com/unturned/)
+- [Repositório no GitHub →](https://github.com/SmartlyDressedGames/U3-SDK)
 - [Ler em turco →](https://trescout.com/discover/u3-sdk/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-10: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

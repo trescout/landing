@@ -43,7 +43,9 @@ docker run -p 8080:8080 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
 
 ## Cómo empezar
 
-- Fuente oficial →
+Puede ir a la página de descarga en el sitio web oficial, jenkins.io, seleccionar el archivo WAR, la imagen de Docker o uno de los paquetes locales adecuados para su plataforma y seguir los pasos de instalación.
+
+- [Fuente oficial →](https://www.jenkins.io)
 
 ## Términos relacionados del glosario
 
@@ -55,7 +57,7 @@ docker run -p 8080:8080 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://www.jenkins.io)
+- [Repositorio en GitHub →](https://github.com/jenkinsci/jenkins)
 - [Leer en turco →](https://trescout.com/discover/jenkins/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-27: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

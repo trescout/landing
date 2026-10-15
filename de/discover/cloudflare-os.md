@@ -14,7 +14,9 @@ Cloudflare hat einen Agent-Arbeitsbereich (Agent Workspace) eingeführt, der die
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um das System schnell auszuprobieren, können Sie die Website os.cloudflare.app/deploy besuchen und das Projekt in Ihrem Cloudflare-Cloud-Konto bereitstellen. Alternativ können Sie den Schritten in der offiziellen Dokumentation folgen, um das Projekt lokal auf Ihrem eigenen Computer auszuführen.
+
+- [Offizielle Quelle →](https://os.cloudflare.app)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -27,7 +29,7 @@ Cloudflare hat einen Agent-Arbeitsbereich (Agent Workspace) eingeführt, der die
 
 ## Links
 
-- [GitHub-Repository →](https://os.cloudflare.app)
+- [GitHub-Repository →](https://github.com/cloudflare/cloudflare-os)
 - [Auf Türkisch lesen →](https://trescout.com/discover/cloudflare-os/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-10-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

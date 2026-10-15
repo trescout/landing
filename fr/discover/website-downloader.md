@@ -18,7 +18,9 @@ Le téléchargeur de sites Web, développé par AhmadIbrahiim, permet de téléc
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser l'outil, téléchargez les codes de la page GitHub sur votre ordinateur. Rendez-vous ensuite dans le dossier du projet via le terminal, installez les dépendances nécessaires et démarrez l'application. Une fois l'application exécutée, vous pouvez commencer le téléchargement en accédant à son adresse locale via votre navigateur.
+
+- [Source officielle →](https://website-downloader.onrender.com)
 
 ## Termes liés du glossaire
 
@@ -30,7 +32,7 @@ Le téléchargeur de sites Web, développé par AhmadIbrahiim, permet de téléc
 
 ## Liens
 
-- [Dépôt GitHub →](https://website-downloader.onrender.com)
+- [Dépôt GitHub →](https://github.com/AhmadIbrahiim/Website-downloader)
 - [Lire en turc →](https://trescout.com/discover/website-downloader/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
