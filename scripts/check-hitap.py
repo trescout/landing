@@ -79,6 +79,7 @@ def sayfa_sayimi():
             sayi = 0
             for yol in yollar:
                 s = AJAN.sub(" ", open(yol, encoding="utf-8").read())
+                s = re.sub(r'<p class="disc-ai-ek">.*?</p>', " ", s, flags=re.S)  # ajan istemi sabit satırları
                 s = re.sub(r"<script.*?</script>|<style.*?</style>|<(nav|footer)[\s\S]*?</\1>", " ", s, flags=re.S)
                 if rx.search(html.unescape(re.sub(r"<[^>]+>", " ", s))):
                     sayi += 1
