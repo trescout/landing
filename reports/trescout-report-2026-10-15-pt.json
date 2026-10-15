@@ -1,0 +1,795 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-15",
+  "capturedAt": "2026-10-15T09:10:00.682Z",
+  "editorial": "Hoje, no ecossistema de desenvolvedores, ferramentas de processamento de áudio e técnicas de embedding que otimizam modelos locais de inteligência artificial estão em destaque. No lado da segurança, há discussões intensas sobre vulnerabilidades na auditoria de sistemas de IA e métodos para gerenciar o fluxo de dados.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea é uma ferramenta que utiliza agentes de IA para analisar tudo, desde comportamentos de aplicativos até binários nativos, por meio de engenharia reversa. Desenvolvido em TypeScript, este projeto visa automatizar o processo de análise de estruturas de software complexas.",
+          "meta": "TypeScript · ★ 254.736 · +41.034 hoje",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 254736,
+              "engagementCount": 41034,
+              "rank": 1,
+              "extra": {
+                "starsToday": 41034
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio é uma plataforma de processamento de áudio de código aberto que realiza localmente tarefas como clonagem de voz, design de som, dublagem de vídeo, ditado, transcrição e criação de audiolivros. Oferecendo uma alternativa a serviços como o ElevenLabs, esta ferramenta visa executar todos os processos no computador do usuário, com suporte para 646 idiomas diferentes.",
+          "meta": "Python · ★ 67.531 · +3.538 hoje",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 67531,
+              "engagementCount": 3538,
+              "rank": 2,
+              "extra": {
+                "starsToday": 3538
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode é uma ferramenta TypeScript que otimiza a janela de contexto para agentes de codificação de IA. Ela isola a saída da ferramenta em um ambiente sandbox para reduzir o tamanho dos dados, preservar a memória da sessão e fornecer roteamento em 17 plataformas diferentes por meio do Model Context Protocol (MCP).",
+          "meta": "TypeScript · ★ 29.485 · +947 hoje",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 29485,
+              "engagementCount": 947,
+              "rank": 3,
+              "extra": {
+                "starsToday": 947
+              }
+            }
+          }
+        },
+        {
+          "title": "nvm-sh/nvm",
+          "url": "https://github.com/nvm-sh/nvm",
+          "summary": "nvm-sh/nvm é um script de shell compatível com POSIX que permite gerenciar diferentes versões do Node.js no mesmo sistema. Ele permite que os desenvolvedores alternem rapidamente entre as versões do Node.js necessárias para seus projetos.",
+          "meta": "Shell · ★ 95.527 · +52 hoje",
+          "snapshot": {
+            "sourceId": "nvm-sh/nvm",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 95527,
+              "engagementCount": 52,
+              "rank": 4,
+              "extra": {
+                "starsToday": 52
+              }
+            }
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "K-Dense-AI/scientific-agent-skills é uma biblioteca que oferece 177 habilidades verificadas e mais de 100 bancos de dados científicos para tornar os agentes de IA adequados para pesquisas científicas. Especializada em áreas como biologia, química e medicina, esta ferramenta funciona de forma compatível com o editor de código Cursor, a ferramenta de codificação assistida por IA Claude Code e plataformas similares.",
+          "meta": "Python · ★ 49.800 · +163 hoje",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 49800,
+              "engagementCount": 163,
+              "rank": 5,
+              "extra": {
+                "starsToday": 163
+              }
+            }
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything é uma ferramenta de desenvolvimento de software que torna as interfaces de linha de comando (CLI) acessíveis para agentes de IA. O objetivo é transformar sistemas de software em uma estrutura adequada para operações baseadas em agentes (agent-native).",
+          "meta": "Python · ★ 52.840 · +103 hoje",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 52840,
+              "engagementCount": 103,
+              "rank": 6,
+              "extra": {
+                "starsToday": 103
+              }
+            }
+          }
+        },
+        {
+          "title": "ifixai-ai/iFixAi",
+          "url": "https://github.com/ifixai-ai/iFixAi",
+          "summary": "iFixAi é uma ferramenta de auditoria independente que verifica se os agentes de IA estão executando corretamente as tarefas que lhes foram atribuídas. Desenvolvido em Python, este sistema pode ser executado por humanos ou pelo próprio agente para analisar a precisão dos processos em menos de dois minutos.",
+          "meta": "Python · ★ 27.993 · +2.109 hoje",
+          "snapshot": {
+            "sourceId": "ifixai-ai/iFixAi",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 27993,
+              "engagementCount": 2109,
+              "rank": 7,
+              "extra": {
+                "starsToday": 2109
+              }
+            }
+          }
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Desenvolvido na linguagem Go, o pentagi oferece um sistema de agentes de IA totalmente autônomos capazes de realizar tarefas complexas de teste de penetração (penetration testing). Este projeto, que visa automatizar processos de segurança cibernética, utiliza capacidades autônomas para detectar vulnerabilidades de segurança.",
+          "meta": "Go · ★ 30.090 · +1.025 hoje",
+          "snapshot": {
+            "sourceId": "vxcontrol/pentagi",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 30090,
+              "engagementCount": 1025,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1025
+              }
+            }
+          }
+        },
+        {
+          "title": "rust-lang/rust",
+          "url": "https://github.com/rust-lang/rust",
+          "summary": "Rust destaca-se como uma linguagem de programação de sistemas que visa desenvolver softwares confiáveis e eficientes. Adotada por uma ampla base de usuários, esta linguagem fornece a infraestrutura necessária para aplicações focadas em desempenho.",
+          "meta": "Rust · ★ 120.224 · +207 hoje",
+          "snapshot": {
+            "sourceId": "rust-lang/rust",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 120224,
+              "engagementCount": 207,
+              "rank": 9,
+              "extra": {
+                "starsToday": 207
+              }
+            }
+          }
+        },
+        {
+          "title": "xtool-org/xtool",
+          "url": "https://github.com/xtool-org/xtool",
+          "summary": "xtool é uma alternativa multiplataforma ao Xcode que permite a compilação e distribuição de aplicativos iOS. Utilizando o SwiftPM, ele suporta processos de desenvolvimento de aplicativos no Linux, Windows e macOS.",
+          "meta": "Swift · ★ 11.301 · +1.502 hoje",
+          "snapshot": {
+            "sourceId": "xtool-org/xtool",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 11301,
+              "engagementCount": 1502,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1502
+              }
+            }
+          }
+        },
+        {
+          "title": "ntdevlabs/tiny11builder",
+          "url": "https://github.com/ntdevlabs/tiny11builder",
+          "summary": "ntdevlabs/tiny11builder é um aplicativo WinUI usado para criar versões menores e personalizadas do sistema operacional Windows 11. Desenvolvida em C#, esta ferramenta permite que os usuários redimensionem as imagens do sistema de acordo com suas próprias necessidades.",
+          "meta": "C# · ★ 20.412 · +139 hoje",
+          "snapshot": {
+            "sourceId": "ntdevlabs/tiny11builder",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 20412,
+              "engagementCount": 139,
+              "rank": 11,
+              "extra": {
+                "starsToday": 139
+              }
+            }
+          }
+        },
+        {
+          "title": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "summary": "O Ghidra, desenvolvido pela National Security Agency, é uma estrutura usada para processos de engenharia reversa de software (software reverse engineering). Escrita em Java, esta ferramenta oferece uma plataforma abrangente para a análise de arquivos binários e a decodificação de código.",
+          "meta": "Java · ★ 87.991 · +1.008 hoje",
+          "snapshot": {
+            "sourceId": "NationalSecurityAgency/ghidra",
+            "capturedAt": "2026-10-15T09:10:01.927Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 87991,
+              "engagementCount": 1008,
+              "rank": 12,
+              "extra": {
+                "starsToday": 1008
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Things to know when you get cancer",
+          "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+          "summary": "Este guia, preparado para indivíduos diagnosticados com câncer, oferece informações básicas sobre o processo de tratamento e métodos para lidar com a doença. Foca nos passos a serem seguidos no sistema de saúde e em conselhos práticos que podem melhorar a experiência do paciente.",
+          "meta": "1.314 pontos · 322 comentários",
+          "snapshot": {
+            "sourceId": "50093568",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 1314,
+              "engagementCount": 322,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50093568",
+                  "popularity": 1314,
+                  "engagementCount": 322
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-14T19:26:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50093568"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50093568",
+              "popularity": 1314,
+              "engagementCount": 322
+            }
+          ]
+        },
+        {
+          "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+          "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+          "summary": "Especialistas afirmam que a base dos relatórios de ataques cibernéticos contra sistemas de inteligência artificial não reside na perda de controle da IA, mas sim em falhas nos processos de auditoria e monitoramento de segurança. O fato de os laboratórios de desenvolvimento ignorarem protocolos básicos de segurança torna os agentes de IA vulneráveis a brechas de segurança.",
+          "meta": "898 pontos · 525 comentários",
+          "snapshot": {
+            "sourceId": "50091788",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 898,
+              "engagementCount": 525,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50091788",
+                  "popularity": 898,
+                  "engagementCount": 525
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-14T17:45:23Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50091788"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50091788",
+              "popularity": 898,
+              "engagementCount": 525
+            }
+          ]
+        },
+        {
+          "title": "How Amazon pushes up prices all across the Internet",
+          "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+          "summary": "Examina-se como as estratégias de precificação da Amazon elevam os custos dos produtos em toda a internet. Analisa-se como as políticas aplicadas pela empresa afetam o equilíbrio geral de preços nas plataformas de comércio eletrônico.",
+          "meta": "822 pontos · 638 comentários",
+          "snapshot": {
+            "sourceId": "50084757",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 822,
+              "engagementCount": 638,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50084757",
+                  "popularity": 822,
+                  "engagementCount": 638
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-14T09:28:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50084757"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50084757",
+              "popularity": 822,
+              "engagementCount": 638
+            }
+          ]
+        },
+        {
+          "title": "Do dentists know what they're doing?",
+          "url": "https://mapwriting.substack.com/p/dentists",
+          "summary": "A consistência dos métodos de diagnóstico e tratamento nas práticas odontológicas é questionada através dos processos de tomada de decisão clínica dos dentistas. O artigo abre para discussão a atualidade das evidências científicas e dos padrões de tratamento na área da saúde bucal.",
+          "meta": "676 pontos · 496 comentários",
+          "snapshot": {
+            "sourceId": "50050553",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 676,
+              "engagementCount": 496,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50050553",
+                  "popularity": 676,
+                  "engagementCount": 496
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-12T02:21:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50050553"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50050553",
+              "popularity": 676,
+              "engagementCount": 496
+            }
+          ]
+        },
+        {
+          "title": "OpenCode 2.0",
+          "url": "https://anoma.ly/notes/opencode-2-0/",
+          "summary": "O OpenCode 2.0 oferece uma série de modelos de linguagem de código aberto otimizados para tarefas de codificação. Projetado para apoiar processos de desenvolvimento de software, este modelo visa aprimorar as capacidades de geração e análise de código.",
+          "meta": "597 pontos · 228 comentários",
+          "snapshot": {
+            "sourceId": "50094994",
+            "capturedAt": "2026-10-15T09:10:00.918Z",
+            "metadata": {
+              "popularity": 597,
+              "engagementCount": 228,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50094994",
+                  "popularity": 597,
+                  "engagementCount": 228
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-14T20:48:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50094994"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50094994",
+              "popularity": 597,
+              "engagementCount": 228
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "O embeddinggemma-2, desenvolvido pelo Google, é um modelo de extração de características (feature-extraction) que converte textos em vetores numéricos. Este modelo permite que dados de texto sejam representados de forma significativa em aplicações de inteligência artificial.",
+          "meta": "♥ 2.305 · 135.175 downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 2305,
+              "engagementCount": 135175,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1069,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "O jialinyyzz/humanizer, disponível no Hugging Face, é um modelo de inteligência artificial que realiza geração de texto (text-generation). Foi projetado para tornar as saídas linguísticas mais naturais nos processos de criação de conteúdo dos usuários.",
+          "meta": "♥ 1.662 · 65.616 downloads",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 1662,
+              "engagementCount": 65616,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1051,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "summary": "O Qwen/Qwen-Image-2.1-Turbo, publicado no Hugging Face, é um modelo de inteligência artificial com capacidade de geração de imagem a partir de texto (text-to-image). Foi desenvolvido para converter comandos escritos dos usuários em conteúdo visual.",
+          "meta": "♥ 800 · 12.704 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1-Turbo",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 800,
+              "engagementCount": 12704,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 740,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:finetune:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "O openbmb/MiniCPM-V-4.7-35B-A3B, compartilhado no Hugging Face, é um modelo de inteligência artificial que processa entradas visuais e de texto para produzir saídas de texto. Este modelo foi projetado para ser usado em tarefas baseadas em imagem e texto com capacidades de processamento de dados multimodais (multimodal).",
+          "meta": "♥ 708 · 4.157 downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 708,
+              "engagementCount": 4157,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 636,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "autotrust/JEV-35B",
+          "url": "https://huggingface.co/autotrust/JEV-35B",
+          "summary": "O autotrust/JEV-35B, compartilhado no Hugging Face, é um modelo de inteligência artificial desenvolvido para tarefas de classificação de texto (text-classification). Este modelo, que tem atraído o interesse dos usuários, é utilizado em processos de categorização de textos.",
+          "meta": "♥ 840 · 27.970 downloads",
+          "snapshot": {
+            "sourceId": "autotrust/JEV-35B",
+            "capturedAt": "2026-10-15T09:10:00.755Z",
+            "metadata": {
+              "popularity": 840,
+              "engagementCount": 27970,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 528,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "system-one",
+                  "typed-decisions",
+                  "decision-model",
+                  "calibrated-probabilities",
+                  "jev",
+                  "noul",
+                  "choice",
+                  "score",
+                  "mixture-of-experts",
+                  "vllm",
+                  "text-classification",
+                  "en",
+                  "arxiv:2609.14973",
+                  "base_model:Qwen/Qwen3.5-35B-A3B",
+                  "base_model:finetune:Qwen/Qwen3.5-35B-A3B",
+                  "license:apache-2.0",
+                  "model-index",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "StreamErase: Towards Ultra-Fast Streaming Video Erasing",
+          "url": "https://huggingface.co/papers/2610.20137",
+          "summary": "O StreamErase oferece um método que realiza operações de remoção de objetos de vídeos com uma latência inferior a um segundo e uma velocidade de até 26 quadros por segundo. Esta abordagem permite a interação em tempo real ao apoiar modelos de conversão de texto para vídeo com entrada de máscara.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.20137",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20137",
+                "publishedAt": "2026-10-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/zhuobaidong/StreamErase"
+              }
+            }
+          }
+        },
+        {
+          "title": "LLM-to-Flow Distillation: Teaching Natural Language Goals to Scientific Generators",
+          "url": "https://huggingface.co/papers/2610.17246",
+          "summary": "A destilação LLM-to-Flow combina a capacidade de raciocínio científico dos grandes modelos de linguagem (large language models) com a precisão estrutural de geradores baseados em fluxo e difusão específicos para cada domínio. Este método permite que modelos generativos operem em processos de descoberta científica de forma alinhada com objetivos expressos em linguagem natural.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.17246",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.17246",
+                "publishedAt": "2026-10-12T00:00:00.000Z",
+                "githubRepo": "https://github.com/FedericoDiGennaro/LLM-to-Flow-Distillation"
+              }
+            }
+          }
+        },
+        {
+          "title": "Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance",
+          "url": "https://huggingface.co/papers/2610.20220",
+          "summary": "O Glance Forcing apresenta um método que torna mais eficiente o processo de conversão de modelos de difusão bidirecional (bidirectional diffusion) em modelos autorregressivos causais. Esta abordagem visa reduzir os altos custos computacionais e os requisitos de armazenamento de dados necessários para modelos de mundo de vídeo.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.20220",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20220",
+                "publishedAt": "2026-10-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/CSU-JPG/Glance-Forcing"
+              }
+            }
+          }
+        },
+        {
+          "title": "SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm",
+          "url": "https://huggingface.co/papers/2610.20431",
+          "summary": "SwarmRSI é um método de autoaperfeiçoamento recursivo (recursive self-improvement) que permite que agentes de inteligência artificial desenvolvam suas habilidades com base em suas próprias experiências em processos de pesquisa científica. Este sistema visa melhorar as hipóteses e os processos de implementação dos agentes, combinando dados de diferentes ramos de pesquisa.",
+          "meta": "7 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.20431",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20431",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety",
+          "url": "https://huggingface.co/papers/2610.19422",
+          "summary": "AgentSafeEvo é um método que visa eliminar as vulnerabilidades de segurança enfrentadas por agentes baseados em grandes modelos de linguagem (large language model) durante o processo de interação com ferramentas externas. Utilizando uma abordagem de coevolução adversária (adversarial co-evolution), este estudo visa fortalecer os processos de tomada de decisão segura, impedindo que os agentes sejam manipulados por entradas maliciosas.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.19422",
+            "capturedAt": "2026-10-15T09:10:00.773Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.19422",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Arquivos de software de baixo nível que podem ser executados diretamente pelo processador do computador, sem a necessidade de uma conversão especial."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "O processo de analisar retroativamente o código ou a estrutura de um software para entender como ele funciona."
+    },
+    {
+      "term": "context window",
+      "explanation": "O limite da quantidade de texto ou dados que uma inteligência artificial pode ler e processar de uma só vez."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Ambiente de teste que permite que softwares sejam executados em uma área segura e isolada sem danificar o sistema principal."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Um protocolo que permite que modelos de inteligência artificial se comuniquem de forma padronizada com diferentes fontes de dados e ferramentas."
+    },
+    {
+      "term": "bash script",
+      "explanation": "Um arquivo de texto executado via linha de comando que instrui o computador sobre as tarefas que ele deve realizar em sequência."
+    },
+    {
+      "term": "skills",
+      "explanation": "Funções ou capacidades especializadas que os agentes de inteligência artificial possuem para realizar tarefas específicas."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas inserindo comandos escritos, em vez de usar o mouse."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Sistemas de software projetados para serem usados direta e eficientemente por agentes de inteligência artificial."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Tentativas de ataques cibernéticos controlados e autorizados, realizados com o objetivo de encontrar vulnerabilidades de segurança em um sistema."
+    },
+    {
+      "term": "software reverse engineering",
+      "explanation": "Processo de análise técnica realizado para revelar a lógica de funcionamento e o código-fonte de um software pronto."
+    },
+    {
+      "term": "feature-extraction",
+      "explanation": "Processo de extrair informações importantes de dados brutos e convertê-las em dados numéricos que a inteligência artificial possa compreender."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "A capacidade da inteligência artificial de criar textos novos e significativos com base nos comandos fornecidos."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Tecnologia que analisa comandos escritos e gera conteúdos visuais adequados a eles."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Capacidade da inteligência artificial de processar não apenas texto, mas também diferentes tipos de dados, como imagens e áudio, simultaneamente."
+    },
+    {
+      "term": "text-classification",
+      "explanation": "A classificação de textos pela inteligência artificial em categorias ou grupos específicos de acordo com seu conteúdo."
+    }
+  ]
+}
