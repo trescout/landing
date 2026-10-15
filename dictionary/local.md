@@ -89,10 +89,6 @@ Tam veri gizliliğidir. Kodlar, belgeler ve kullanıcı soruları harici bir bul
 
 ## İlgili araçlar
 
-- [Magnitude](https://trescout.com/discover/magnitude/)
-
-## İlgili araçlar
-
 - [DBX](https://trescout.com/discover/dbx/)
 - [Magnitude](https://trescout.com/discover/magnitude/)
 

@@ -86,13 +86,6 @@ Bir tool (araç) genellikle tek bir amaca hizmet eden yalın bir fonksiyon çağ
 ## İlgili araçlar
 
 - [ECC](https://trescout.com/discover/ecc/)
-- [System Prompts and Models of AI Tools](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
-- [Claude Plugins Official](https://trescout.com/discover/claude-plugins-official/)
-
-## İlgili araçlar
-
-- [ECC](https://trescout.com/discover/ecc/)
-- [System Prompts and Models of AI Tools](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
 - [Claude Plugins Official](https://trescout.com/discover/claude-plugins-official/)
 - [Treg](https://trescout.com/discover/treg/)
 

@@ -26,6 +26,7 @@ OG = os.path.join(ROOT, "assets", "dictionary")
 MANIFEST = os.path.join(OG, "dictionary.json")
 SITEMAP = os.path.join(ROOT, "sitemap.xml")
 import gemini_zinciri  # noqa: E402 · model zinciri, 429 ayrımı, istek aralığı
+from marka_metin import json_duzelt  # noqa: E402 · Gemini çıktısında marka yazımı (yapay zekâ, Hugging Face)
 from html_md import md_dosyasi  # noqa: E402 · .md sayfanın kendisinden (md-uret.py ile aynı)
 from kaldirilan import terim_engelli_mi  # noqa: E402 · hak sahibi bildirimiyle kaldırılan sözlük terimlerini süzer
 DRY = "--dry" in sys.argv
@@ -195,15 +196,17 @@ def gemini(existing, candidates, key):
         raw_text = gemini_zinciri.metin(gemini_zinciri.istek(body, key, timeout=150, deneme_sayisi=5))
         if not raw_text:
             raise RuntimeError("Gemini yanıt vermedi (kota ya da erişim)")
+        # İngilizce terim adı, slug, kategori ve ilişki listesi olduğu gibi kalır
+        atla = ("en", "full", "slug", "cat", "related")
         try:
-            return json.loads(raw_text)
+            return json_duzelt(json.loads(raw_text), atla)
         except Exception:
             fence = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw_text)
             if fence:
-                return json.loads(fence.group(1).strip())
+                return json_duzelt(json.loads(fence.group(1).strip()), atla)
             arr = re.search(r'\[\s*\{[\s\S]*\}\s*\]', raw_text)
             if arr:
-                return json.loads(arr.group(0).strip())
+                return json_duzelt(json.loads(arr.group(0).strip()), atla)
             if attempt == 1:
                 raise
 

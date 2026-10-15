@@ -103,10 +103,6 @@ Her müşteri talebini plansızca ürüne eklemek, yazılımı yavaşlatır, ara
 
 - [YimMenuV2](https://trescout.com/discover/yimmenuv2/)
 
-## İlgili araçlar
-
-- [YimMenuV2](https://trescout.com/discover/yimmenuv2/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

@@ -80,6 +80,7 @@ def report_items():
                 u=norm_url(it.get("url",""))
                 if not u: continue
                 if engelli_mi(u, slugify(it.get("title",""))): continue   # assets/discover/kaldirilan.json
+                if it.get("summary"): it["summary"]=duzelt(it["summary"])   # rapor özeti katalog ve sayfaya girmeden (marka_metin.py)
                 # Dosya adı sırası kronolojik DEĞİL (ana raporların hepsi
                 # tekrarsızlardan önce geliyor) · tarih karşılaştırması şart.
                 #   _ilk   : raporda ilk görüldüğü gün · yeni kayıt O GÜNÜN
@@ -269,6 +270,7 @@ VERCEL='<script type="text/plain" data-consent-src="/_vercel/insights/script.js"
 # ============ ZENGİN OTO (README'den gerçek komut + Gemini anlatım) ============
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gemini_zinciri  # noqa: E402 · model zinciri, 429 ayrımı, istek aralığı
+from marka_metin import duzelt, json_duzelt  # noqa: E402 · Gemini çıktısında marka yazımı
 def gemini_key():
     k=os.environ.get("GEMINI_API_KEY")
     if k: return k
@@ -370,7 +372,8 @@ def gemini_enrich(title,summary,readme,blocks,key):
     for attempt in range(2):
         raw=gemini_zinciri.metin(gemini_zinciri.istek(body,key,timeout=120))
         if not raw: return None
-        try: return json.loads(raw)
+        # Komutlar birebir kalır (README'den), diğer metin alanlarında marka yazımı düzelir
+        try: return json_duzelt(json.loads(raw), atla=("komut",))
         except Exception: continue
     return None
 
@@ -616,6 +619,7 @@ def normalize_headline(s):
     basıldıkları için son adımda ilk harf tekrar büyütülür.
     """
     s=re.sub(r'\bAI\b','yapay zekâ',s)
+    s=duzelt(s)   # Hugging Face, şapkalı yapay zekâ (marka_metin.py)
     s=re.sub(r'(?i)yapay\s+zek[aâ](\w*)', lambda m: 'yapay zekâ'+m.group(1), s)
     return _bas_harf_buyut(s.replace('—','·').strip())
 

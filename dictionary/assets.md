@@ -88,11 +88,6 @@ Sahip olduğunuzu bilmediğiniz bir varlığı koruyamazsınız. Kurumun tüm di
 - [Website-downloader](https://trescout.com/discover/website-downloader/)
 - [U3 SDK](https://trescout.com/discover/u3-sdk/)
 
-## İlgili araçlar
-
-- [Website-downloader](https://trescout.com/discover/website-downloader/)
-- [U3 SDK](https://trescout.com/discover/u3-sdk/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
