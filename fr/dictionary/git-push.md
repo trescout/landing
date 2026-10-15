@@ -24,17 +24,23 @@ Lorsque git push est exécuté, non seulement les différences de texte sont env
 
 ## 2. Modèles de commandes les plus fréquemment utilisés (Cheatsheet)
 
+### Soumettre une branche et se connecter en amont pour la première fois
+
 ```
 git push -u origin feature/auth
 ```
 
 L'indicateur -u ou --set-upstream relie en permanence votre branche locale à la branche distante. Après cet appariement, il vous suffit de taper git push ou git pull dans la même branche.
 
+### Envoi forcé sécurisé : --force-with-lease
+
 ```
 git push --force-with-lease
 ```
 
 Lorsque le push standard est rejeté après git commit --amend ou git rebase, l'utilisation de git push -f peut supprimer les commits de vos coéquipiers sur le serveur. --force-with-lease est un verrou de sécurité qui permet l'écrasement uniquement si personne d'autre ne s'est engagé dans cette branche après vous.
+
+### Suppression d'une branche distante et de balises
 
 ```
 git push origin --delete eski-ozellik-dali

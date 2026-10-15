@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1.0",
-  "generated_at": "2026-10-15T10:29:30.576358+00:00",
-  "source_git_commit": "1b1164e50b5bc10e8a89777cf0d03f228f34f74a",
+  "generated_at": "2026-10-15T13:08:03.161685+00:00",
+  "source_git_commit": "50438824f2a91747861fc7e88dd017e25347ca33",
   "content_version": "2026-10-15",
   "locales": [
     "tr",
@@ -59,12 +59,12 @@
     }
   },
   "integrity_checksums": {
-    "assets/discover/catalog.json": "dfca78cee969b11a4812d68e7d796528d2446bf6924af745a19e2af2041281eb",
+    "assets/discover/catalog.json": "d42484b53aaed8562794a62934d4e44601bd3b26ef575c83f3fb43dd30fc8469",
     "assets/dictionary/dictionary.json": "f7b08a0064eb8deec7dfff79a9ff9fc7044cb58f944fe5b34cd9f6834eb520fc",
-    "sitemap.xml": "1213e86e2e47d3fdddd7d7201babbbe4c219ced1d59198222e35bcea12ff9c4f",
-    "llms.txt": "f7fece5d82e11db7f98a615a2acd394a592de16eb632041797928bf32cded4f5",
-    "llms-full.txt": "67aaf7ec478aee01bda370c6362c37aec92b9e74d130dd50ae4bac6572e37e53",
-    "llms-en.txt": "e59fa6150e0d7b766cb0383112b36506b839b6fdb495caa6987dec4ae5ec2c7b",
+    "sitemap.xml": "68b9dedd1ebfce6d0b8c10b0e92c5185842b2c8d77a6fce576203de2eb923dc3",
+    "llms.txt": "513651fff2e0ce6d0927df4f846bcec6870be3c2a15ee57945f5308690a86086",
+    "llms-full.txt": "05a2baa690e37eba48d765595c4f3c5f72cd08df1090ffef22e249fd218dba63",
+    "llms-en.txt": "0670a1dd0e5b4f1b378727f90d509571d2d9b153e577312202bb69c1e91ff455",
     "vercel.json": "55082000a6e680ebd235d3661093eef3e2450898d91cc9a3d57735f543840367"
   }
 }

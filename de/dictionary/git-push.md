@@ -24,17 +24,23 @@ Beim Ausführen von git push werden nicht nur Textunterschiede übertragen; stat
 
 ## 2. Die am häufigsten verwendeten Befehlsvorlagen (Cheatsheet)
 
+### Erstmaliges Pushen eines Branches und Upstream-Verknüpfung
+
 ```
 git push -u origin feature/auth
 ```
 
 Das Flag -u oder --set-upstream verknüpft Ihren lokalen Branch dauerhaft mit dem Remote-Branch. Nach dieser Zuordnung reicht es aus, wenn Sie sich auf demselben Branch befinden, einfach nur git push oder git pull einzugeben.
 
+### Sicheres Force-Push: --force-with-lease
+
 ```
 git push --force-with-lease
 ```
 
 Wenn ein Standard-Push nach git commit --amend oder git rebase abgelehnt wird, kann die Verwendung von git push -f die Commits Ihrer Teamkollegen auf dem Server löschen. --force-with-lease ist eine Sicherheitsfunktion, die das Überschreiben nur dann zulässt, wenn nach Ihnen niemand anderes Commits auf diesen Branch gepusht hat.
+
+### Remote-Branch und Tags löschen
 
 ```
 git push origin --delete eski-ozellik-dali

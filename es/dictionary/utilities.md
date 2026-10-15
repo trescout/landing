@@ -42,6 +42,8 @@ Las propiedades ideales de una función de utilidad son:
 
 **3. Alta reutilización:** Se puede llamar independientemente de cualquier capa del proyecto.
 
+### Peligro: antipatrón del cajón de basura
+
 A medida que los proyectos crecen, la carpeta utils/ a menudo se convierte en un "cajón basura" de código que los desarrolladores no saben dónde guardar. archivos utils.ts o helpers.py que alcanzan miles de líneas; Conduce a dependencias circulares, cobertura de pruebas deficiente y límites de dominio poco claros.
 
 Para superar este problema en la arquitectura de software moderna, las funciones se trasladan a módulos comerciales relevantes con diseño orientado al dominio (DDD), se establecen espacios de nombres específicos como string-utils o date-utils en lugar de bolsas generales y se adoptan métodos integrados en los estándares del lenguaje.

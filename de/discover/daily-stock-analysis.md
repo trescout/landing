@@ -2,16 +2,16 @@
 
 Unterstützt durch große Sprachmodelle analysiert dieses System Marktdaten und Echtzeitnachrichten aus mehreren Quellen und bietet visualisierte Panels für Investitionsentscheidungen. Es standardisiert Analyseprozesse für verschiedene Börsen mit automatischen Benachrichtigungen und kostenloser geplanter Studienunterstützung.
 
-- ★ 64.727
+- ★ 66.393
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 64,727 → 66,393, neueste Version v3.33.0 (15. Oktober 2026).
 - **7. September 2026:** Sterne 63,731 → 64,727, neueste Version v3.32.0 (6. September 2026).
 - **24. August 2026:** Sterne 61,388 → 63,731, neueste Version v3.31.0 (23. August 2026).
 - **10. August 2026:** Sterne 59,863 → 61,388, neueste Version v3.30.0 (9. August 2026).
-- **2. August 2026:** Sterne 45,304 → 59,863, neueste Version v3.29.0 (2. August 2026).
 
 ## Was es bringt
 

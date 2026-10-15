@@ -22,6 +22,8 @@ Les systèmes basés sur des plugins sont généralement construits avec Microke
 
 **2. Modules enfichables :** Il s'agit de composants développés indépendamment qui se connectent au système via les hooks et les interfaces d'application (API) fournis par le noyau.
 
+### Mécanismes de communication et sécurité
+
 **Crochets :** Dans les systèmes basés sur des événements, les plugins s'accrochent à des moments spécifiques du système (par exemple, les hooks Action et Filter dans WordPress).
 
 **Interface du fournisseur de services (SPI) :** Dans les systèmes Java et d'entreprise, les plug-ins s'intègrent au système en appliquant des interfaces standard.

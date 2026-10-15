@@ -23,6 +23,8 @@ LSP ist ein JSON-RPC 2.0-Nachrichtenprotokoll zwischen dem Editor (Client) und d
 
 Umfangreiche semantische Analyse- und Typanalysevorgänge werden in einem vom Hauptthread des Editors (UI-Thread) getrennten Betriebssystemprozess ausgeführt. Auf diese Weise wird Ihr Editor auch bei Projekten mit 100.000 Zeilen niemals einfrieren oder hängen bleiben.
 
+### Grundlegende Protokollzyklen und Anforderungstypen
+
 ```
    Editör (LSP Client)                   Dil Sunucusu (Language Server)
           │                                            │

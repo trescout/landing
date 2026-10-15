@@ -42,6 +42,8 @@ Die idealen Eigenschaften einer Nutzenfunktion sind:
 
 **3. Hohe Wiederverwendbarkeit:** Es kann unabhängig von jeder Ebene des Projekts aufgerufen werden.
 
+### Gefahr: Junk Drawer Anti-Pattern
+
 Wenn Projekte wachsen, verwandelt sich der Ordner utils/ oft in eine „Junk-Schublade“ mit Code, den Entwickler nicht wissen, wo sie sie ablegen sollen. utils.ts- oder helpers.py-Datei, die Tausende von Zeilen umfasst; Dies führt zu zirkulären Abhängigkeiten, schlechter Testabdeckung und unklaren Domänengrenzen.
 
 Um dieses Problem in der modernen Softwarearchitektur zu überwinden, werden Funktionen mit domänenorientiertem Design (DDD) in relevante Geschäftsmodule verschoben, anstelle allgemeiner Taschen spezifische Namensräume wie String-Utils oder Datums-Utils eingerichtet und integrierte Methoden in Sprachstandards übernommen.

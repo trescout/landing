@@ -23,6 +23,8 @@ LSP es un protocolo de mensajería JSON-RPC 2.0 que funciona entre un editor (cl
 
 Las operaciones pesadas de análisis semántico y resolución de tipos se ejecutan en un proceso del sistema operativo separado del hilo principal del editor (hilo de UI); de esta manera, su editor nunca se congela ni se bloquea, incluso en proyectos de 100 mil líneas.
 
+### Ciclo básico del protocolo y tipos de solicitud
+
 ```
    Editör (LSP Client)                   Dil Sunucusu (Language Server)
           │                                            │

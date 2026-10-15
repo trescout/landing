@@ -32,6 +32,8 @@ Technisch gesehen wird eine Paywall nach zwei verschiedenen Logiken aufgebaut:
 
 **Server-Side Paywall (Serverseitig):** Die Sitzung, das Cookie oder das JWT-Authentifizierungs-Token des Nutzers wird auf dem Server oder auf der CDN/Edge-Ebene (Cloudflare Workers, Fastly VCL) überprüft. Nicht-Abonnenten erhalten nur den ersten Absatz des Artikels; der Rest ist in der Serverantwort gar nicht erst enthalten. Aus Sicherheitssicht ist dies nicht zu umgehen.
 
+### SEO- und Indexierungs-Dilemma (Cloaking-Sackgasse)
+
 Damit Suchmaschinen (Google) einen Artikel indexieren können, müssen sie den Text lesen können. Wenn jedoch Inhalte, die vor Nutzern verborgen sind, für Suchmaschinen-Bots sichtbar gemacht werden, gilt dies als Cloaking und kann zu einer Abstrafung führen. Um dieses Problem zu lösen, hat Google die Verwendung von Schema.org-Markup (mit isAccessibleForFree: false und hasPart: WebPageElement unter Angabe eines CSS-Selektors) zur Pflicht gemacht. Auf diese Weise erkennt die Suchmaschine, dass der Inhalt kostenpflichtig ist, und indexiert die Seite korrekt, ohne sie abzustrafen.
 
 ## Soziologische Dimension: Epistemische Kluft (Epistemic Divide)

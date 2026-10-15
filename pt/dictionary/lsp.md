@@ -23,6 +23,8 @@ LSP, editör (Client) ile dil analiz motoru (Server) arasında genellikle yerel 
 
 Processos pesados de análise semântica e resolução de tipos são executados em um processo do sistema operacional separado da thread principal do editor (thread de UI); dessa forma, mesmo em projetos de 100 mil linhas, seu editor nunca trava ou apresenta lentidão.
 
+### Ciclo Básico do Protocolo e Tipos de Requisição
+
 ```
    Editör (LSP Client)                   Dil Sunucusu (Language Server)
           │                                            │

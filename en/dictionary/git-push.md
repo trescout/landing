@@ -24,17 +24,23 @@ When git push is run, not only text diffs are sent; Commit, Tree and Blob object
 
 ## 2. Most frequently used command templates (Cheatsheet)
 
+### Pushing a Branch for the First Time and Setting Upstream
+
 ```
 git push -u origin feature/auth
 ```
 
 The -u or --set-upstream flag permanently links your local branch to the remote branch. After this pairing, you only need to type git push or git pull while on the same branch.
 
+### Safe Force Push: --force-with-lease
+
 ```
 git push --force-with-lease
 ```
 
 When standard push is rejected after git commit --amend or git rebase, using git push -f can delete the commits of your teammates on the server. --force-with-lease is a security lock that allows squashing only if no one else has committed to that branch after you.
+
+### Deleting a Remote Branch and Tags
 
 ```
 git push origin --delete eski-ozellik-dali

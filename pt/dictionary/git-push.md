@@ -24,17 +24,23 @@ Quando se executa git push, não são enviados apenas os diffs de texto; os obje
 
 ## 2. Modelos de comandos mais utilizados (Cheatsheet)
 
+### Enviando um Branch pela Primeira Vez e Vinculando o Upstream
+
 ```
 git push -u origin feature/auth
 ```
 
 O sinalizador -u ou --set-upstream vincula permanentemente sua ramificação local à ramificação remota. Após esse mapeamento, basta digitar apenas git push ou git pull quando estiver na mesma ramificação.
 
+### Push Forçado Seguro: --force-with-lease
+
 ```
 git push --force-with-lease
 ```
 
 Quando o push padrão é rejeitado após git commit --amend ou git rebase, usar git push -f pode apagar os commits dos seus colegas de equipe no servidor. Já o --force-with-lease é uma trava de segurança que só permite a sobrescrita se mais ninguém tiver enviado commits para essa ramificação depois de você.
+
+### Excluindo Branch Remoto e Tags
 
 ```
 git push origin --delete eski-ozellik-dali

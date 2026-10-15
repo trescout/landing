@@ -2,12 +2,13 @@
 
 Likec4 ist ein Tool, das Softwarearchitektur direkt aus dem Quellcode visualisiert und die Erstellung von Live-Diagrammen ermöglicht. Ziel ist die Kontinuität der technischen Dokumentation durch Architekturdiagramme, die gleichzeitig mit der Codebasis aktualisiert werden.
 
-- ★ 5.749
+- ★ 5.878
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 5,749 → 5,878, neueste Version v1.60.0 (15. Oktober 2026).
 - **27. September 2026:** Sterne 5,618 → 5,749, neueste Version v1.59.4 (21. September 2026).
 - **3. September 2026:** Sterne 5,328 → 5,618, neueste Version v1.59.3 (2. September 2026).
 - **2. August 2026:** Sterne 4,419 → 5,328, neueste Version v1.59.2 (22. Juli 2026).

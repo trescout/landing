@@ -42,6 +42,8 @@ The ideal properties of a utility function are:
 
 **3. High Reusability:** It can be called independently from any layer of the project.
 
+### Hazard: Junk Drawer anti-pattern
+
 As projects grow, the utils/ folder often turns into a junk drawer where developers dump code they don't know where else to put. When utils.ts or helpers.py files reach thousands of lines, it leads to circular dependencies, poor test coverage, and blurred domain boundaries.
 
 In modern software architecture, to overcome this problem, functions are moved into relevant business modules using domain-driven design (DDD), specific namespaces such as string-utils or date-utils are established instead of a general catch-all, and built-in methods in language standards are adopted.

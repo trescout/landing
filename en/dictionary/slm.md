@@ -1,64 +1,74 @@
-# What is an SLM?
+# What is SLM?
 
 *Artificial Intelligence · Last updated: September 22, 2026*
 
 > Small Language Model
 
-An SLM (Small Language Model) is a compact, resource-efficient language model typically containing between 1 billion and 8 billion parameters, engineered to deliver high performance on consumer edge devices.
+SLM (Small Language Model) is a compact model that runs with few resources.
 
-## Definition and Etymology
+## Definition and Word Origin
 
-While massive frontier models require distributed data center clusters, SLMs prioritize parameter efficiency, high-quality curated training data, and low-latency inference. They enable private, cost-effective artificial intelligence directly on smartphones, laptops, and embedded edge processors.
+It has few parameters, small architecture and efficiency focus. His general culture is narrow and he is quick in his duties. It runs on phones and laptops without internet.
 
-## Everyday Context and Practical Usage
+***Analogy:** It is like a handbook carried in a bag instead of an encyclopedia.*
 
-**On-Device Smartphone Assistants:** Running conversational tasks and summarization locally in airplane mode without network latency.
-**Specialized Edge Computing:** Powering domain-specific industrial sensors, local code completions, and embedded IoT appliances.
-**Cost-Efficient Microservices:** Handling high-throughput routing, classification, and entity extraction at a fraction of cloud LLM costs.
+## How to Know and Use in Daily Life?
+
+**Mobile:** On-device assistant.
+**Security:** A job with no data.
+**Classification:** Single duty lines.
 
 ## Technical Depth and Architecture
 
-Key Architectural Innovations:
+Scale:
 
-**Data Quality Over Parameter Volume:** Trained on synthetic reasoning datasets and textbook-quality corpora (e.g., Microsoft Phi, Google Gemma, Apple OpenELM).
-**Extreme Quantization Efficiency:** Optimized to execute in 4-bit integer precision (AWQ, GGUF) with minimal loss in reasoning fidelity.
-**Memory Footprint:** Fitting fully inside 2 GB to 6 GB of VRAM, running at dozens of tokens per second on consumer laptop NPUs.
+**Dimension:** 1-8 billion parameter bands.
+**Quantization:** Reduced weight.
+**Fine adjustment:** Adaptation to the task.
 
-## Commonly Confused With
+Local trial:
 
-Often confused with inferior, underperforming models. An SLM is not an incomplete model; it is a laser-focused, distilled system trained on dense data to solve specific real-world tasks without wasteful computational overhead.
+```
+ollama run phi
+```
 
-## Cross-Disciplinary Perspectives
+Rule: In general questions, giant is sufficient, in specific matters, small is sufficient. It determines the balance of cost and speed.
 
-**Reference:** Carrying a specialized pocket reference handbook in your backpack vs accessing a multi-volume library encyclopedia.
-**Transportation:** Navigating dense city traffic on an agile electric scooter vs driving a heavy commercial tractor.
-**Tools:** Having a precision pocket multitool on your belt vs wheeling a heavy industrial workshop cart.
+## Frequently Mixed Things
 
-*It functions like carrying a compact, highly reliable pocket handbook rather than lugging around a multi-volume library encyclopedia: it gives you immediate answers anywhere.*
+He is considered weak. Generally narrow, strong in duty. One is an encyclopedia, the other is a manual.
+
+## Use in Different Disciplines
+
+**Manual:** Summary carried in the bag.
+**Torch:** Targeted light.
+**scooter:** Short distance vehicle.
 
 ## Frequently Asked Questions
 
-**How many parameters define a Small Language Model?**
+**Less intelligent?**
 
-Typically between 1 billion and 8 billion parameters, small enough to fit within consumer RAM.
+Generally narrow, skilled at the task. Size varies depending on the job.
 
-**Can an SLM outperform larger language models?**
+**Why small instead of giant?**
 
-On domain-specific tasks (such as code completion or structured data extraction), a well-fine-tuned SLM often equals or outperforms massive generic models.
+For speed, cost and privacy. No data will be released, the bill will not be inflated.
 
-**What are prominent examples of Small Language Models?**
+**Which one to start with?**
 
-Microsoft Phi-3/Phi-4, Google Gemma 2B/7B, Meta Llama 3 8B, and Mistral 7B.
+At the local with one of the popular little ones. The need grows.
 
-**How fast do SLMs run on consumer laptops?**
+**When is it not enough?**
 
-Using runtimes like llama.cpp or Apple MLX, modern SLMs routinely generate 30 to 80+ tokens per second on Apple Silicon and modern x86 chips.
+It requires a giant in broad knowledge and reasoning. Hybrid order is established.
 
 ## Related terms
 
-- [Foundation Model](https://trescout.com/en/dictionary/foundation-model/)
-- [On-device STT](https://trescout.com/en/dictionary/on-device-stt/)
-- [Open Weight](https://trescout.com/en/dictionary/open-weight/)
+- [LLM](https://trescout.com/en/dictionary/llm/)
+- [Quantization](https://trescout.com/en/dictionary/quantization/)
+- [Offline](https://trescout.com/en/dictionary/offline/)
+- [Open Weights](https://trescout.com/en/dictionary/open-weights/)
+- [Distillation](https://trescout.com/en/dictionary/distillation/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/slm/)
 

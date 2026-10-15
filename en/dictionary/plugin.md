@@ -22,6 +22,8 @@ Plugin-based systems are generally built with Microkernel Pattern. In this archi
 
 **2. Plug-in Modules:** They are independently developed components that connect to the system through the hooks and application interfaces (APIs) provided by the kernel.
 
+### Communication mechanisms and security
+
 **Hooks:** In event-based systems, plugins hook to specific moments of the system (e.g. Action and Filter hooks in WordPress).
 
 **Service Provider Interface (SPI):** In Java and enterprise systems, plug-ins integrate into the system by applying standard interfaces.

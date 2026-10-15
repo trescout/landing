@@ -23,6 +23,8 @@ LSP, l'éditeur (Client) et le moteur d'analyse linguistique (Server) communique
 
 Les opérations lourdes d'analyse sémantique et de résolution de types sont exécutées dans un processus du système d'exploitation distinct du thread principal de l'éditeur (thread UI) ; ainsi, même sur des projets de 100 000 lignes, votre éditeur ne se fige jamais et ne ralentit pas.
 
+### Cycle de protocole de base et types de requêtes
+
 ```
    Editör (LSP Client)                   Dil Sunucusu (Language Server)
           │                                            │

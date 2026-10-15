@@ -32,6 +32,8 @@ Desde un punto de vista técnico, un muro de pago se construye con dos lógicas 
 
 **Server-Side Paywall (Muro de pago del lado del servidor):** La sesión, la cookie o el token de autenticación JWT del usuario se verifican en el servidor o en la capa CDN/Edge (Cloudflare Workers, Fastly VCL). A los usuarios que no están suscritos solo se les presenta el primer párrafo del artículo; el resto ni siquiera se encuentra en la respuesta del servidor. Desde el punto de vista de la seguridad, es imposible de vulnerar.
 
+### El dilema del SEO y la indexación (El problema del encubrimiento o cloaking)
+
 Para que los motores de búsqueda (Google) puedan indexar un artículo, deben ser capaces de leer el texto. Sin embargo, si el contenido oculto a los usuarios se muestra a los bots de los motores de búsqueda, esto se considera "cloaking" (encubrimiento) y puede resultar en una penalización. Para resolver este problema, Google ha hecho obligatorio el uso del marcado Schema.org (especificando isAccessibleForFree: false y hasPart: WebPageElement junto con un selector CSS). De esta manera, el motor de búsqueda entiende que el contenido es de pago e indexa la página correctamente sin aplicar penalizaciones.
 
 ## Dimensión sociológica: Brecha epistémica (Epistemic Divide)

@@ -22,6 +22,8 @@ Plugin-basierte Systeme werden in der Regel mit einer Microkernel-Architektur (M
 
 **2. Plugin-Module (Plug-in Modules):** Unabhängig entwickelte Komponenten, die über die vom Kern bereitgestellten Hooks und Anwendungsschnittstellen (APIs) an das System angebunden werden.
 
+### Kommunikationsmechanismen und Sicherheit
+
 **Hooks:** In ereignisbasierten Systemen hängen sich Plugins an bestimmte Zeitpunkte des Systems (z. B. Action- und Filter-Hooks in WordPress).
 
 **Service Provider Interface (SPI):** In Java und Unternehmenssystemen werden Plugins durch die Implementierung von Standardschnittstellen in das System integriert.

@@ -16,6 +16,8 @@ In software, "emitter" is not a single structure, but represents two huge discip
 
 In event-based programming, Emitter is the heart of the Observer and Publish-Subscribe design patterns. It enables the components in the system to communicate through events (loose coupling) instead of directly recognizing each other (tight coupling).
 
+### EventEmitter in the world of Node.js and JavaScript
+
 Node.js's reactive and asynchronous I/O structure is based on the EventEmitter class within the events module:
 
 **emit(event, [...args]):** Triggers the event with the specified name and alerts all registered listeners.
@@ -25,6 +27,8 @@ Node.js's reactive and asynchronous I/O structure is based on the EventEmitter c
 **once(event, listener):** It captures the event only once when it first occurs and then automatically deletes the recording.
 
 **Important Technical Detail:** Contrary to popular belief, Node.js EventEmitter runs event listeners synchronously by default. If a listener blocks, subsequent listeners wait. For asynchronous execution setImmediate() or process.nextTick() is used.
+
+### Risk of Memory Leak
 
 The most common mistake in the Event Emitter architecture is not removing the listeners (removeListener or off) of objects whose life cycle has ended. This prevents objects from being cleaned by Garbage Collector and causes a MaxListenersExceededWarning warning in Node.js.
 

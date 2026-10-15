@@ -2,17 +2,17 @@
 
 Desenvolvido com a linguagem Rust, SWC oferece uma plataforma rápida de compilação e agrupamento para projetos web. Ele acelera processos modernos de desenvolvimento web processando arquivos JavaScript e TypeScript com alto desempenho.
 
-- ★ 34.206
+- ★ 34.204
 - GitHub Trending · 2026-06-14
 
 **Nota da TreScout:** Ele traduz o código JavaScript moderno que você escreve em um formato que os navegadores entendem, muito mais rápido do que ferramentas mais antigas que fazem o mesmo trabalho. Ele não faz nenhuma verificação de erros, apenas traduz. Alguns frameworks populares já utilizam isso internamente, você pode estar utilizando sem perceber.
 
 ## Atualizações
 
+- **15 de outubro de 2026:** Estrelas 34,206 → 34,204, versão mais recente v1.16.19-nightly-20261015.1 (15 de outubro de 2026).
 - **11 de outubro de 2026:** Estrelas 34,208 → 34,206, versão mais recente v1.16.18 (11 de outubro de 2026).
 - **30 de setembro de 2026:** Estrelas 34,208 → 34,208, versão mais recente v1.16.13 (30 de setembro de 2026).
 - **29 de setembro de 2026:** Estrelas 34,208 → 34,208, versão mais recente v1.16.12 (29 de setembro de 2026).
-- **28 de setembro de 2026:** Estrelas 34,191 → 34,208, versão mais recente v1.16.10-nightly-20260928.1 (28 de setembro de 2026).
 
 ## O que você ganha
 

@@ -22,6 +22,8 @@ Los sistemas basados en plugins suelen construirse con una arquitectura de micro
 
 **2. Módulos de complementos (Plug-in Modules):** Son componentes desarrollados de forma independiente que se conectan al sistema a través de ganchos (hooks) e interfaces de aplicación (API) proporcionadas por el núcleo.
 
+### Mecanismos de comunicación y seguridad
+
 **Ganchos (Hooks):** En los sistemas basados en eventos, los complementos se enganchan a momentos específicos del sistema (por ejemplo, los hooks de Acción y Filtro en WordPress).
 
 **Interfaz de proveedor de servicios (SPI):** En Java y los sistemas empresariales, los complementos se integran al sistema mediante la implementación de interfaces estándar.

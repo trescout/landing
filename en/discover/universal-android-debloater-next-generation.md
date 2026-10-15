@@ -18,7 +18,7 @@ Universal Android Debloater Next Generation is a cross-platform graphical interf
 
 ## Getting started
 
-To start using the tool, go to the Wiki section on its GitHub page. Follow the 'Getting started' and 'Usage guide' pages there for the steps your device needs, then download the app and run it on your computer.
+To get started with the tool, go to the Wiki section on the GitHub page. By reviewing the 'Getting started' and 'Usage guide' pages here, you can follow the necessary steps for your device and download and run the application on your computer.
 
 - [Official source →](https://github.com/0x192/universal-android-debloater)
 

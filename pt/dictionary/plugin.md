@@ -22,6 +22,8 @@ Sistemas baseados em plugins são geralmente construídos com a Arquitetura de M
 
 **2. Módulos de Plugin (Plug-in Modules):** São componentes desenvolvidos de forma independente que se conectam ao sistema por meio de ganchos (hooks) e interfaces de aplicação (API) oferecidas pelo núcleo.
 
+### Mecanismos de comunicação e segurança
+
 **Ganchos (Hooks):** Em sistemas baseados em eventos, os plugins se conectam a momentos específicos do sistema (por exemplo, os hooks de Ação e Filtro no WordPress).
 
 **Interface de Provedor de Serviço (SPI):** Em Java e sistemas corporativos, os plugins integram-se ao sistema implementando interfaces padrão.

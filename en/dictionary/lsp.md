@@ -23,6 +23,8 @@ LSP is a JSON-RPC 2.0 messaging protocol between the editor (Client) and the lan
 
 Heavy semantic analysis and type parsing operations are carried out in a separate operating system process from the editor's main thread (UI thread); In this way, your editor will never freeze or hang even in projects with 100 thousand lines.
 
+### Basic Protocol Cycle and Request Types
+
 ```
    Editör (LSP Client)                   Dil Sunucusu (Language Server)
           │                                            │

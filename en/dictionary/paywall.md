@@ -32,6 +32,8 @@ Technically, a paywall is built using two different logics:
 
 **Server-Side Paywall:** The user's session, cookie, or JWT authentication token is checked on the server or at the CDN/Edge layer (Cloudflare Workers, Fastly VCL). Non-subscribing users are only served the first paragraph of the article; the rest is not even present in the server response. In terms of security, it is impossible to bypass.
 
+### The SEO and Indexing Dilemma (The Cloaking Deadlock)
+
 For search engines (like Google) to index an article, they need to read the text. However, if content hidden from users is exposed to search engine bots, this may be considered cloaking and result in a penalty. To solve this issue, Google requires Schema.org markup (specifying isAccessibleForFree: false and hasPart: WebPageElement along with a CSS selector). This allows the search engine to understand that the content is paid and correctly indexes the page without issuing a penalty.
 
 ## Sociological dimension: The Epistemic Divide

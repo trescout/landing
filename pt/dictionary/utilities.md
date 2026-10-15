@@ -42,6 +42,8 @@ As propriedades ideais de uma função de utilidade são:
 
 **3. Alta Reutilização:** Pode ser chamado independentemente de qualquer camada do projeto.
 
+### Perigo: antipadrão da gaveta de lixo eletrônico
+
 À medida que os projetos crescem, a pasta utils/ muitas vezes se transforma em uma “gaveta de lixo” de código que os desenvolvedores não sabem onde colocar. Arquivo utils.ts ou helpers.py atingindo milhares de linhas; Isso leva a dependências circulares, cobertura de teste deficiente e limites de domínio pouco claros.
 
 Para superar esse problema na arquitetura de software moderna, as funções são movidas para módulos de negócios relevantes com design orientado a domínio (DDD), namespaces específicos, como string-utils ou date-utils, são estabelecidos em vez de pacotes gerais, e métodos integrados em padrões de linguagem são adotados.

@@ -24,17 +24,23 @@ Cuando se ejecuta git push, no solo se envían las diferencias de texto; los obj
 
 ## 2. Plantillas de comandos más utilizadas (Cheatsheet)
 
+### Enviar una rama por primera vez y vincular upstream
+
 ```
 git push -u origin feature/auth
 ```
 
 El indicador -u o --set-upstream vincula permanentemente su rama local con la rama remota. Después de este emparejamiento, basta con escribir solo git push o git pull mientras se encuentra en la misma rama.
 
+### Forzado seguro de envío: --force-with-lease
+
 ```
 git push --force-with-lease
 ```
 
 Cuando git push estándar es rechazado después de git commit --amend o git rebase, usar git push -f puede borrar las confirmaciones de tus compañeros en el servidor. --force-with-lease, por otro lado, es un bloqueo de seguridad que solo permite sobrescribir si nadie más ha enviado confirmaciones a esa rama después de ti.
+
+### Eliminar una rama remota y etiquetas
 
 ```
 git push origin --delete eski-ozellik-dali

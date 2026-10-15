@@ -9902,14 +9902,14 @@
     "slug": "swc",
     "title": "SWC",
     "tagline": "Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor.",
-    "meta": "★ 34.206",
+    "meta": "★ 34.204",
     "image": "/assets/discover/og/swc.webp",
     "source": "GitHub",
     "date": "2026-06-14",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 34206,
+    "stars": 34204,
     "lite": false,
     "headline": "Web projelerinizi Rust hızında derleyin",
     "headline_locked": true,
@@ -9997,6 +9997,13 @@
         "onceki_yildiz": 34208,
         "surum": "v1.16.18",
         "surum_tarihi": "2026-10-11"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 34204,
+        "onceki_yildiz": 34206,
+        "surum": "v1.16.19-nightly-20261015.1",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Developed with the Rust language, SWC offers a fast compilation and bundling platform for web projects.",
@@ -11004,14 +11011,14 @@
     "slug": "openwa",
     "title": "OpenWA",
     "tagline": "OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor.",
-    "meta": "★ 14.976 · TypeScript",
+    "meta": "★ 15.471 · TypeScript",
     "image": "/assets/discover/og/openwa.webp",
     "source": "GitHub",
     "date": "2026-06-17",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 14976,
+    "stars": 15471,
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı ağ geçidi",
     "last_review": "2026-10-15",
@@ -11155,6 +11162,13 @@
         "onceki_yildiz": 14622,
         "surum": "v0.24.0",
         "surum_tarihi": "2026-10-03"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 15471,
+        "onceki_yildiz": 14976,
+        "surum": "v0.25.0",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "OpenWA offers a free and open source API gateway solution for the WhatsApp messaging protocol.",
@@ -13765,7 +13779,7 @@
     "slug": "daily-stock-analysis",
     "title": "Daily Stock Analysis",
     "tagline": "Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı…",
-    "meta": "★ 64.727 · Python",
+    "meta": "★ 66.393 · Python",
     "image": "/assets/discover/og/daily-stock-analysis.webp",
     "source": "GitHub",
     "date": "2026-06-22",
@@ -13773,7 +13787,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 64727,
+    "stars": 66393,
     "lite": false,
     "headline": "Yapay zekâ ile otomatik borsa analizi",
     "last_review": "2026-10-15",
@@ -13805,6 +13819,13 @@
         "onceki_yildiz": 63731,
         "surum": "v3.32.0",
         "surum_tarihi": "2026-09-06"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 66393,
+        "onceki_yildiz": 64727,
+        "surum": "v3.33.0",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Supported by large language models, this system combines multi-source market data and real-time…",
@@ -14260,7 +14281,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 64.018 · TypeScript",
+    "meta": "★ 64.164 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -14268,7 +14289,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 64018,
+    "stars": 64164,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-15",
@@ -14733,6 +14754,13 @@
         "yildiz": 64018,
         "onceki_yildiz": 63171,
         "surum": "v0.8.161",
+        "surum_tarihi": "2026-10-15"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 64164,
+        "onceki_yildiz": 64018,
+        "surum": "v0.8.162",
         "surum_tarihi": "2026-10-15"
       }
     ],
@@ -26799,14 +26827,14 @@
     "slug": "likec4",
     "title": "Likec4",
     "tagline": "Likec4, yazılım mimarisini doğrudan kaynak kod üzerinden görselleştiren ve canlı diyagramlar oluşturulmasını sağlayan bir araçtır.",
-    "meta": "★ 5.749 · TypeScript",
+    "meta": "★ 5.878 · TypeScript",
     "image": "/assets/discover/og/likec4.webp",
     "source": "GitHub",
     "date": "2026-07-23",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 5749,
+    "stars": 5878,
     "lite": false,
     "headline": "Yazılım mimarinizi canlı diyagramlarla görselleştirin",
     "last_review": "2026-10-15",
@@ -26831,6 +26859,13 @@
         "onceki_yildiz": 5618,
         "surum": "v1.59.4",
         "surum_tarihi": "2026-09-21"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 5878,
+        "onceki_yildiz": 5749,
+        "surum": "v1.60.0",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Likec4 is a tool that visualizes software architecture directly from the source code and enables the creation of live diagrams.",
@@ -32056,14 +32091,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 34.991 · Rust",
+    "meta": "★ 35.034 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 34991,
+    "stars": 35034,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -32329,6 +32364,13 @@
         "onceki_yildiz": 34966,
         "surum": "v2026.10.10",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 35034,
+        "onceki_yildiz": 34991,
+        "surum": "v2026.10.11",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",
@@ -36012,14 +36054,14 @@
     "slug": "openlogi",
     "title": "OpenLogi",
     "tagline": "OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.",
-    "meta": "★ 23.254 · Rust",
+    "meta": "★ 23.621 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 23254,
+    "stars": 23621,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
     "tagline_en": "OpenLogi is a native, local-first, open-source alternative to Logitech Options+, written in Rust. It configures buttons, DPI, and SmartShift without accounts or telemetry.",
@@ -36147,6 +36189,13 @@
         "onceki_yildiz": 23245,
         "surum": "v0.8.13",
         "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 23621,
+        "onceki_yildiz": 23254,
+        "surum": "v0.8.14",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "last_seen": "2026-08-24",
@@ -47033,14 +47082,14 @@
     "slug": "e2e",
     "title": "E2e",
     "tagline": "TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni…",
-    "meta": "★ 10.659 · TypeScript",
+    "meta": "★ 10.701 · TypeScript",
     "image": "/assets/discover/og/e2e.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 10659,
+    "stars": 10701,
     "last_seen": "2026-10-07",
     "summary": "TypeScript tabanlı e2e, web ve mobil uygulamalar için uçtan uca test (end-to-end testing) süreçlerini otomatikleştiren yeni nesil bir çerçeve (framework). Geliştiricilerin uygulama arayüzlerini farklı platformlarda hızlıca doğrulamasına olanak tanıyor.",
     "lite": false,
@@ -47102,6 +47151,13 @@
         "onceki_yildiz": 9489,
         "surum": "@e2e-dev/smol@0.1.1",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 10701,
+        "onceki_yildiz": 10659,
+        "surum": "@e2e-dev/web@0.15.1",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "A new... that automates end-to-end testing processes for TypeScript-based e2e, web, and mobile applications...",
@@ -47212,14 +47268,14 @@
     "slug": "anyps5",
     "title": "AnyPS5",
     "tagline": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir…",
-    "meta": "★ 36.023 · C++",
+    "meta": "★ 37.857 · C++",
     "image": "/assets/discover/og/anyps5.webp",
     "source": "GitHub",
     "date": "2026-10-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 36023,
+    "stars": 37857,
     "last_seen": "2026-10-11",
     "summary": "AnyPS5, PlayStation 5 oyun dosyalarını otomatik olarak Linux ve Windows sistemlerinde çalışabilecek şekilde dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, konsol özelindeki yürütülebilir dosyaların (executables) farklı platformlara taşınmasını sağlar.",
     "lite": false,
@@ -47323,6 +47379,13 @@
         "tarih": "2026-10-14",
         "yildiz": 36023,
         "onceki_yildiz": 34374,
+        "surum": "v0.1.2",
+        "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 37857,
+        "onceki_yildiz": 36023,
         "surum": "v0.1.2",
         "surum_tarihi": "2026-10-14"
       }

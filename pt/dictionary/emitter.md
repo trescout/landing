@@ -18,6 +18,8 @@ Code Emitter: É o engenheiro-chefe que recebe os planos técnicos detalhados (A
 
 Na programação orientada a eventos, o Emitter é o coração dos padrões de projeto Observer (Observador) e Publish-Subscribe (Publicar-Assinar). Ele permite que os componentes do sistema se comuniquem por meio de eventos (acoplamento fraco), em vez de se conhecerem diretamente (acoplamento forte).
 
+### EventEmitter no mundo Node.js e JavaScript
+
 A estrutura de I/O reativa e assíncrona do Node.js baseia-se na classe EventEmitter dentro do módulo events:
 
 **emit(event, [...args]):** Aciona o evento com o nome especificado e notifica todos os ouvintes registrados.
@@ -27,6 +29,8 @@ A estrutura de I/O reativa e assíncrona do Node.js baseia-se na classe EventEmi
 **once(evento, ouvinte):** Captura o evento apenas uma vez, na primeira ocorrência, e remove o registro automaticamente em seguida.
 
 **Detalhe Técnico Importante:** Ao contrário da crença popular, o EventEmitter do Node.js executa ouvintes de eventos de forma síncrona por padrão. Se um ouvinte bloquear, os ouvintes subsequentes aguardarão. Para execução assíncrona, utiliza-se setImmediate() ou process.nextTick().
+
+### Risco de Vazamento de Memória (Memory Leak)
 
 O erro mais comum na arquitetura Event Emitter é não remover os ouvintes (removeListener ou off) de objetos cujo ciclo de vida terminou. Isso impede que os objetos sejam limpos pelo Garbage Collector e causa o aviso MaxListenersExceededWarning no Node.js.
 

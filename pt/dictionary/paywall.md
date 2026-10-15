@@ -32,6 +32,8 @@ Tecnicamente, um paywall é construído com duas lógicas diferentes:
 
 **Server-Side Paywall (Paywall no Lado do Servidor):** A sessão, o cookie ou o token de autenticação JWT do usuário são verificados no servidor ou na camada CDN/Edge (Cloudflare Workers, Fastly VCL). Apenas o primeiro parágrafo do artigo é apresentado aos usuários que não são assinantes; o restante nem sequer está presente na resposta do servidor. Em termos de segurança, é impossível de contornar.
 
+### O Dilema de SEO e Indexação (O Impasse do Cloaking)
+
 Para que os motores de busca (Google) possam indexar um artigo, eles precisam ler o texto. No entanto, se o conteúdo ocultado dos usuários for exibido abertamente aos bots dos motores de busca, isso é considerado "cloaking" (ocultação) e pode resultar em penalizações. Para resolver esse problema, o Google tornou obrigatória a marcação Schema.org (especificando isAccessibleForFree: false e hasPart: WebPageElement com um seletor CSS). Dessa forma, o motor de busca entende que o conteúdo é pago e indexa a página corretamente, sem aplicar penalizações.
 
 ## Dimensão sociológica: Desigualdade epistêmica (Epistemic Divide)

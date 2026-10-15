@@ -1,74 +1,78 @@
-# Assembly: Definition, registers, and system architecture
+# What is Assembly?
 
 *Development · Last updated: September 19, 2026*
 
-Assembly refers to two fundamental concepts in computer science: the lowest-level symbolic programming language that directly instructs the central processing unit (CPU), and compiled deployment packages (.NET assemblies) that bundle executable modules.
+Assembly refers to two basic concepts in computer science: First, the lowest-level symbolic programming language (Assembly Language) that directly governs the hardware processor (CPU); The second is to turn compiled software modules (.NET assembly) into a single distributable package.
 
-## 1. Low-Level Programming Language (Assembly Language)
+## 1. Low-level programming language (Assembly Language)
 
-Computer processors only understand binary machine code (0s and 1s, or opcodes). Assembly language replaces raw hexadecimal opcodes with human-readable mnemonics:
+The computer processor only understands binary signals (machine code / opcodes) 0 and 1. Assembly language consists of human-readable symbolic abbreviations (mnemonics) corresponding to these raw machine codes:
 
-- `MOV`: Transfers data between registers or memory addresses.
-- `ADD` / `SUB`: Executes arithmetic addition and subtraction directly on registers.
-- `PUSH` / `POP`: Adds or removes 64-bit values onto the call stack.
-- `JMP` / `JE` / `JNE`: Branches program execution flow based on condition flags.
+- MOV: Copies data from one register to another or memory address.
+- ADD / SUB: Executes mathematical addition and subtraction operations.
+- PUSH / POP: Adds or pulls data to the call stack.
+- JMP / JE / JNE: Branches the program flow to another memory address according to the comparison result.
 
-Assembly source code is assembled directly into binary machine instructions using tools like NASM or GAS without any virtual machine overhead.
+Written assembly codes are directly translated into machine code through converters called Assemblers (nasm, gas); There is no virtual machine layer in between.
 
-## 2. CPU Registers and x86-64 Architecture
+***Analogy:** Assembly language is like placing the gears, springs and shafts in a clock one by one with tweezers under a microscope; It provides the highest precision and performance but requires great care. Software assembly means placing this delicate mechanism inside the case and boxing it as a working wristwatch.*
 
-In modern 64-bit x86-64 processors, key registers serve specialized and general computational functions:
+## 2. Processor registers and x86-64 architecture
 
-- **General Purpose Registers:** `RAX` (accumulator and return value), `RBX` (base register), `RCX` (loop counter), `RDX` (I/O and arithmetic), `RDI` and `RSI` (destination and source index pointers for string/block transfers).
-- **Special Purpose Registers:** `RSP` (Stack Pointer - points to the top of the stack), `RBP` (Base Pointer - frame base), `RIP` (Instruction Pointer - points to the next instruction), and `RFLAGS` (status flags such as Zero, Carry, and Sign).
+The most critical registers on a modern 64-bit x86-64 processor are:
 
-## 3. CISC vs RISC: x86-64 vs ARM64 Differences
+- General Purpose Registers: RAX (accumulator and function return), RBX (base data pointer), RCX (loop counter), RDX (input/output data), RDI and RSI (target and source pointers).
+- Special Purpose Registers: RSP (Stack Pointer - top of the stack), RBP (Base Pointer - base of the function frame), RIP (Instruction Pointer - address of the next instruction to be executed) and RFLAGS (Zero, Carry flags).
 
-x86-64 architecture follows the **CISC** (Complex Instruction Set Computer) philosophy, offering variable-length instructions capable of direct memory manipulation. Conversely, ARM64 (Apple Silicon, mobile chipsets) adheres to **RISC** (Reduced Instruction Set Computer) design with uniform 32-bit instructions and a strict load-store model, maximizing silicon energy efficiency.
+## 3. CISC vs RISC: difference between x86-64 and ARM64
 
-## 4. System Calls (Syscalls) and Linux x86-64 Example
+x86-64 architecture works with CISC (Complex Instruction Set) philosophy; It has variable instruction sizes and rich instructions that can operate directly on memory. ARM64 (Apple Silicon, Mobile) is based on RISC (Reduced Instruction Set); It provides great superiority in energy efficiency with its fixed 32-bit command length and Load-Store architecture.
+
+## 4. System calls (Syscall) and Linux x86-64 example
 
 ```
 section .text
 global _start
 
 _start:
-    ; 1. Print message to stdout (sys_write = syscall 1)
-    mov rax, 1          ; syscall: sys_write
-    mov rdi, 1          ; file descriptor: stdout
-    mov rsi, msg        ; memory buffer address
-    mov rdx, 14         ; message length
-    syscall             ; switch to kernel space
+    ; 1. Ekrana "Merhaba" yazdır (sys_write = syscall 1)
+    mov rax, 1          ; syscall numarası: 1 (sys_write)
+    mov rdi, 1          ; dosya tanıtıcı: 1 (stdout)
+    mov rsi, mesaj      ; metnin bellek adresi
+    mov rdx, 8          ; metin uzunluğu
+    syscall             ; çekirdeğe geçiş yap
 
-    ; 2. Terminate program cleanly (sys_exit = syscall 60)
-    mov rax, 60         ; syscall: sys_exit
-    xor rdi, rdi        ; return code 0
+    ; 2. Programı güvenle sonlandır (sys_exit = syscall 60)
+    mov rax, 60         ; syscall numarası: 60 (sys_exit)
+    xor rdi, rdi        ; çıkış kodu 0
     syscall
 
 section .data
-    msg db "Hello, world!", 10
+    mesaj db "Merhaba", 10
 ```
 
-## 5. .NET Assemblies and WebAssembly (WASM)
+## 5. .NET Assembly and WebAssembly (WASM)
 
-- **.NET Assembly:** In modern managed runtimes, compiled C# produces Common Intermediate Language (CIL) bytes and metadata packaged as `.dll` or `.exe` assemblies.
-- **WebAssembly (WASM):** A portable binary code format executing in browser sandboxes at near-native speed, compiled from languages like Rust, C++, and Go.
-
-*Assembly language is like assembling the gears, escapement, and springs of a mechanical watch with tweezers under a microscope; it offers unmatched precision and control, but requires painstaking attention to detail.*
+- .NET Assembly: When C# code is compiled, a logical assembly package (Assembly) is created in .dll or .exe format containing CIL/MSIL bytecodes and metadata.
+- WebAssembly (WASM): A portable stack virtual machine bytecode that allows C, C++, and Rust code to run in the browser with near-native performance.
 
 ## Frequently asked questions
 
-**What is Assembly language and what is it used for?**
+**What does assembly mean and what does it do?**
 
-Assembly is a low-level symbolic language that corresponds 1-to-1 with machine instruction sets, used for firmware, OS kernels, high-performance engines, and security analysis.
+Assembly is the lowest-level symbolic programming language that corresponds 1 to 1 to the hardware instruction set of the computer processor. It is used to directly control CPU registers and memory.
 
-**What is the difference between an assembler and a compiler?**
+**What is the difference between Assembler and Compiler?**
 
-A compiler translates abstract high-level languages (C++, Rust) into optimized assembly or machine code, whereas an assembler translates symbolic mnemonics directly into binary opcodes without restructuring algorithms.
+The compiler (C, C++, Rust) analyzes and optimizes and translates complex human logic and loops into machine code. Assembler, on the other hand, converts assembly instructions, which are already symbolic versions of machine code, directly into binary byte code.
 
-**Where is Assembly still used today?**
+**Where is assembly language still used today?**
 
-It is indispensable in operating system bootloaders, device drivers, embedded systems, reverse engineering, exploit development, and real-time graphics optimizations.
+It is actively used in operating system kernels (bootloader), hardware device drivers, reverse engineering, malware analysis, cyber vulnerability detection and embedded systems (IoT/microcontroller).
+
+**What is the difference between CISC and RISC?**
+
+CISC (x86-64) has a rich instruction set that can perform multiple subprocesses and memory accesses in a single instruction; RISC (ARM), on the other hand, is a simplified and energy-efficient architecture that runs each command in a single clock cycle.
 
 ## Related terms
 
@@ -80,9 +84,8 @@ It is indispensable in operating system bootloaders, device drivers, embedded sy
 
 ## Related tools
 
+- [Ghidra](https://trescout.com/en/discover/ghidra/)
 - [Apollo-11](https://trescout.com/en/discover/apollo-11/)
-
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/assembly/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/assembly/)
 

@@ -42,6 +42,8 @@ Les caractéristiques idéales d'une fonction utilitaire sont les suivantes :
 
 **3. Haute réutilisabilité (High Reusability) :** Elle peut être appelée indépendamment depuis n'importe quelle couche du projet.
 
+### Danger : L'anti-pattern du « tiroir à bazar » (Junk Drawer)
+
 À mesure que les projets se développent, le dossier utils/ se transforme souvent en un « tiroir fourre-tout » où les développeurs déversent du code sans savoir où le placer. Le fait qu'un fichier utils.ts ou helpers.py atteigne des milliers de lignes entraîne des dépendances circulaires, une faible couverture de tests et des limites de domaine floues.
 
 Dans l'architecture logicielle moderne, pour surmonter ce problème, les fonctions sont déplacées vers leurs modules métier respectifs grâce à la conception pilotée par le domaine (DDD), des espaces de noms spécifiques tels que string-utils ou date-utils sont créés au lieu d'un fourre-tout général, et les méthodes intégrées aux standards du langage sont adoptées.
