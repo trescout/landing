@@ -59,7 +59,10 @@
       var box = btn.closest('.disc-cmd, .disc-ai');
       var code = box && (box.querySelector('code') || box.querySelector('.disc-ai-text'));
       if (!code || !navigator.clipboard) return;
-      navigator.clipboard.writeText(code.textContent.trim()).then(function () {
+      // Ajan istemi: gövde + sabit satırlar (depo, sistem, klasör, anahtar, hata) ayrı satırlarda
+      var parts = [code].concat(Array.prototype.slice.call(box.querySelectorAll('.disc-ai-ek')));
+      var text = parts.map(function (el) { return el.textContent.trim(); }).join('\n');
+      navigator.clipboard.writeText(text).then(function () {
         var prev = btn.textContent;
         btn.textContent = M.kopyalandi;
         setTimeout(function () { btn.textContent = prev; }, 1500);

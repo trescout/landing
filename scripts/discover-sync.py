@@ -15,6 +15,7 @@ import os, re, sys, json, glob, html, time, base64, datetime, urllib.request, ur
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from riza_formu import blok as riza_blok  # noqa: E402 · kayıt formu bilgilendirme + onay · tek kaynak
 from kaldirilan import engelli_mi  # noqa: E402 · hak sahibi bildirimiyle kaldırılan depolar geri gelmez
+import ajan_istemi  # noqa: E402 · "Kod bilmiyorsanız" istemine sabit satırlar (depo, sistem, klasör, anahtar, hata)
 RIZA = riza_blok("tr")
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPORTS=os.path.join(ROOT,"reports"); DISC=os.path.join(ROOT,"discover")
@@ -329,6 +330,23 @@ def _norm(s):
 def verbatim_ok(cmd,hay):
     c=_norm(cmd); return bool(c) and c in hay
 
+# İstem gövdesindeki komutlar da README'ye karşı sınanır (UYDURMA ENGELİ'nin ikizi; kurulum
+# komutları verbatim_ok'tan geçiyordu, ai_prompt geçmiyordu). 2026-10-16 ölçümü: ~53 komut
+# anışından 6'sı sayfanın komut bloklarında yoktu (ör. "brew install airi", "yarn add cypress").
+ISTEM_KOMUT=re.compile(r'(?i)\b(pip3?|pipx|uv|npm|npx|pnpm|yarn|bun|brew|docker|git|cargo|go|curl)\s+'
+                       r'(install|i|add|run|clone|tool|get|dev|compose)\b\s*((?:-\S+\s+)*)([\w@./\[\]-]*)')
+_ISTEM_DOLGU={"ile","veya","ve","komutu","komutunu","komutuyla","kullanarak","sonra","için"}
+def istem_komut_sorunlari(istem,hay):
+    """İstemde anılan, README'de (araç + alt komut + paket) karşılığı olmayan komutlar."""
+    out=[]
+    for arac,alt,_bayrak,paket in ISTEM_KOMUT.findall(istem or ""):
+        paket=paket.strip("[]'\".").lower()
+        if paket in _ISTEM_DOLGU: paket=""
+        if arac.lower()=="docker" and alt.lower()=="compose" and not paket: continue  # düz anma
+        if _norm(f"{arac} {alt}").lower() not in hay.lower() or (paket and paket not in hay.lower()):
+            out.append(f"{arac} {alt} {paket}".strip())
+    return out
+
 # ---- Gemini: README'den zengin içerik (UYDURMA YOK, komut birebir) ----
 ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bir GitHub aracını tanıtıyorsun. "
  "Sana README ve ondan AYIKLANMIŞ gerçek komut blokları verilecek (boş da olabilir). "
@@ -347,7 +365,7 @@ ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bi
  '"kurulum"([{"baslik","komut"}] 0-2, komut SADECE verilen bloklardan birebir),'
  '"calistirma"([{"baslik","komut"}] 0-2, ilk kullanım),'
  '"nasil_baslanir"(EĞER gerçek kurulum komutu YOKSA kod bilmeyenin nasıl başlayacağını 1-3 cümle DÜZ METİN anlat: kabuk komutu YAZMA, README\'de geçen indirme/resmî site/doküman yolunu tarif et. Komut varsa boş bırak),'
- '"ai_prompt"(kod bilmeyenin yapay zekâ ajanına yapıştıracağı tek paragraf Türkçe istem; yalnızca gerçek komutlara dayan),'
+ '"ai_prompt"(kod bilmeyenin yapay zekâ ajanına yapıştıracağı tek paragraf Türkçe istem, okurun ajana sesi: neyi kurup çalıştırmak istediğini (amaç) ve hangi gerçek komutlarla yapılacağını söyle; komutu YALNIZ verilen bloklardan birebir al, blokta olmayan komut yazma. İşletim sistemi ve ön koşul kontrolü, güvenli klasör, API anahtarı ve hata satırları sayfada ayrıca ekleniyor, bunları yazma),'
  '"kimin_icin"(tek cümle)}. Başka metin yok.')
 def start_url(md):
     """README'nin kurulum/indirme bölümündeki ilk gerçek URL (linki uydurmadan vermek için).
@@ -362,9 +380,10 @@ def start_url(md):
         if u and not BAD.search(u): return u
     return ""
 
-def gemini_enrich(title,summary,readme,blocks,key):
+def gemini_enrich(title,summary,readme,blocks,key,duzeltme=""):
     payload=("ARAÇ: "+title+"\nÖZET: "+(summary or "")+"\n\nREADME:\n"+readme[:8000]+
-             "\n\nAYIKLANAN GERÇEK KOMUTLAR (komutu yalnızca bunlardan, birebir seç):\n"+json.dumps(blocks,ensure_ascii=False))
+             "\n\nAYIKLANAN GERÇEK KOMUTLAR (komutu yalnızca bunlardan, birebir seç):\n"+json.dumps(blocks,ensure_ascii=False)+
+             ("\n\nDÜZELTME: "+duzeltme if duzeltme else ""))
     body={"systemInstruction":{"parts":[{"text":ENRICH_SYS}]},"contents":[{"parts":[{"text":payload}]}],
           "generationConfig":{"temperature":0.4,"responseMimeType":"application/json","maxOutputTokens":2048}}
     # Kota/erişim hatasında zincir None döner, tekrar denemek sonucu değiştirmez;
@@ -393,6 +412,14 @@ def enrich_entry(url,title,summary,key):
                 for x in (g.get(grp) or []) if isinstance(x,dict) and verbatim_ok(x.get("komut",""),hay)]
     g["kazanimlar"]=[clean_typography(str(x)) for x in (g.get("kazanimlar") or [])][:4]
     g["ai_prompt"]=clean_typography(str(g.get("ai_prompt") or ""))
+    sorun=istem_komut_sorunlari(g["ai_prompt"],hay)
+    if sorun:   # kodla yakalanan hata modele bir kez söylenir (dış geri bildirimle yansıtma)
+        print(f"  ! istemde README'de olmayan komut: {', '.join(sorun)} · bir kez düzeltme isteniyor")
+        g2=gemini_enrich(title,summary,readme,blocks,key,duzeltme="Önceki yanıttaki ai_prompt README'de geçmeyen komut içeriyordu: "
+                         +", ".join(sorun)+". ai_prompt'ta yalnız verilen bloklardaki komutları birebir kullan ya da komut yazma.")
+        yeni=clean_typography(str(g2.get("ai_prompt") or "")) if isinstance(g2,dict) else ""
+        if yeni and not istem_komut_sorunlari(yeni,hay): g["ai_prompt"]=yeni
+        else: print("  ! düzelmedi · istem korunuyor; sayfadaki 'README'deki resmî talimatları esas al' satırı ajanı depoya yönlendirir")
     g["kimin_icin"]=clean_typography(str(g.get("kimin_icin") or ""))
     g["nasil_baslanir"]=clean_typography(str(g.get("nasil_baslanir") or "").strip())
     meta=fetch_meta(owner,repo); g["license"]=meta.get("license","")
@@ -406,7 +433,7 @@ def cmd_block(it):
             '<button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div>'
             '<pre><code>'+esc_code(it.get("komut",""))+'</code></pre></div>')
 
-def rich_sections(g, cmds=None):
+def rich_sections(g, cmds=None, url=""):
     s=""
     if g.get("kazanimlar"):
         s+='<section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins">'+"".join(f"<li>{esc(x)}</li>" for x in g["kazanimlar"])+'</ul></section>\n      '
@@ -426,7 +453,9 @@ def rich_sections(g, cmds=None):
         s+=('<section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head">'
             '<span>Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span>'
             '<button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div>'
-            '<p class="disc-ai-text">'+esc(g["ai_prompt"])+'</p></div></section>\n      ')
+            '<p class="disc-ai-text">'+esc(g["ai_prompt"])+'</p>'
+            + ajan_istemi.ek_html(ajan_istemi.satirlar(ajan_istemi.TR, url, g["ai_prompt"]), esc)
+            + '</div></section>\n      ')
     facts=""
     if g.get("kimin_icin"): facts+='<div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">'+esc(g["kimin_icin"])+'</span></div>'
     if g.get("license"): facts+='<div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">'+esc(g["license"])+'</span></div>'
@@ -502,7 +531,7 @@ def build_page(e, rich=None):
     # ↑ · marka kuralı 🚀'yi yasaklıyor (hype). Aynı bilgiyi tipografik işaretle veriyoruz.
     mom=f'<span class="disc-momentum">↑ {esc(momentum)}</span>' if momentum else ''
     editorial_html=editorial_sections(e.get("editorial"))
-    rich_html=rich_sections(rich or {}, e.get("cmds")) if (rich or e.get("cmds")) else ''
+    rich_html=rich_sections(rich or {}, e.get("cmds"), url) if (rich or e.get("cmds")) else ''
     notu=(e.get("trescout_notu") or "").strip()   # elle yazılan editöryel yargı · README özetinden farkımız
     not_html=f'<aside class="disc-note"><p><strong>TreScout notu:</strong> {esc(notu)}</p></aside>\n      ' if notu else ''
     guncelleme_html=update_section(e.get("guncellemeler"))

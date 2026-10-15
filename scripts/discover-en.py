@@ -31,6 +31,7 @@ from translation_service import translate_text, translate_texts
 from sayfa_koruma import zayiflatir, damgalar, damga_yaz, damga_yolu, elle_duzenlenmis, icerik_damgasi, kayma_freni
 from html_md import md_dosyasi
 from riza_formu import blok as riza_blok  # kayıt formu bilgilendirme + onay · tek kaynak
+import ajan_istemi  # "Kod bilmiyorsanız" istemine sabit satırlar · Türkçe sayfa taşıyorsa bu dilde basılır
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "discover")
@@ -247,10 +248,16 @@ def bolumler(t, localized=None):
             if 'class="disc-ai"' in govde:
                 istem = value("first_prompt") or tr2en(metin(blok(r'<p class="disc-ai-text">(.*?)</p>', govde)))
                 ajan_label = labels.get("prompt_label") or D["ajan_istem"]
+                # Sabit satırlar (depo, sistem, klasör, anahtar, hata) · Türkçe sayfa taşıyorsa,
+                # aynı kararla (depo adresi, anahtar satırı Türkçe gövdeye göre) bu dilde.
+                ek = ""
+                if 'class="disc-ai-ek"' in govde:
+                    tr_govde = metin(blok(r'<p class="disc-ai-text">(.*?)</p>', govde))
+                    ek = ajan_istemi.ek_html(ajan_istemi.satirlar(D, ajan_istemi._depo(t), tr_govde), esc)
                 ic += ('<div class="disc-ai"><div class="disc-ai-head">'
                        f'<span>{esc(ajan_label)}</span>'
                        f'<button type="button" class="disc-copy" aria-label="{D["kopyala_istem"]}">{D["kopyala"]}</button></div>'
-                       '<p class="disc-ai-text">' + esc(istem) + '</p></div>')
+                       '<p class="disc-ai-text">' + esc(istem) + '</p>' + ek + '</div>')
             if 'class="disc-cmd"' in govde:
                 ic += cmd_bloklari(govde, localized)
             out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2>{ic}</section>\n      '
