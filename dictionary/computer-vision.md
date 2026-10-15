@@ -6,7 +6,7 @@ Bilgisayarların görsel verileri (fotoğraf, video) analiz edip içindeki nesne
 
 ## Tanım
 
-Computer vision, yapay zekanın dünyayı bir insan gibi görmesini ve yorumlamasını sağlar. Sadece pikselleri değil, o piksellerin ne anlama geldiğini (örneğin bir kedi mi, bir trafik kazası mı) çözümler. Bu teknoloji sayesinde makineler görsel dünyayı işleyebilir.
+Computer vision, yapay zekânın dünyayı bir insan gibi görmesini ve yorumlamasını sağlar. Sadece pikselleri değil, o piksellerin ne anlama geldiğini (örneğin bir kedi mi, bir trafik kazası mı) çözümler. Bu teknoloji sayesinde makineler görsel dünyayı işleyebilir.
 
 *Bir bebeğin etrafındaki nesneleri yavaş yavaş tanımayı öğrenmesi gibidir; önce şekilleri, sonra nesneleri, sonra da anlamlarını kavrar.*
 

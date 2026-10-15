@@ -16,7 +16,7 @@ Yazılım belgeyi tarar, başlıkları, paragrafları ve tabloları birbirinden 
 
 ## Nerede kullanılır?
 
-Faturaların otomatik işlenmesinde, sözleşmelerin analiz edilmesinde veya uzun raporların yapay zekaya özetletilmesinde kullanılır.
+Faturaların otomatik işlenmesinde, sözleşmelerin analiz edilmesinde veya uzun raporların yapay zekâya özetletilmesinde kullanılır.
 
 ## Sık karıştırılanlar
 

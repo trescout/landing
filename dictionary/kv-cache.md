@@ -4,7 +4,7 @@
 
 > Key-Value Cache
 
-Yapay zekanın daha önce işlediği kelimeleri belleğinde tutarak aynı işlemleri tekrar yapmasını engelleyen bir hızlandırma yöntemidir.
+Yapay zekânın daha önce işlediği kelimeleri belleğinde tutarak aynı işlemleri tekrar yapmasını engelleyen bir hızlandırma yöntemidir.
 
 ## Tanım
 
@@ -28,7 +28,7 @@ Context Window ile karıştırılabilir ancak bu bir kapasite sınırı değil, 
 
 **KV Cache neden önemlidir?**
 
-Yapay zekanın aynı cümleyi tekrar tekrar hesaplamasını engelleyerek işlemci üzerindeki yükü azaltır ve yanıtı hızlandırır.
+Yapay zekânın aynı cümleyi tekrar tekrar hesaplamasını engelleyerek işlemci üzerindeki yükü azaltır ve yanıtı hızlandırır.
 
 **Bellek dolarsa ne olur?**
 

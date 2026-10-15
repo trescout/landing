@@ -8,7 +8,7 @@ Belirli bir kişinin sesini taklit ederek yeni cümleler kuran yapay zekâ tekno
 
 Voice Cloning (Ses Klonlama), belirli bir kişinin sesini örnek olarak alıp, o kişinin hiç söylemediği cümleleri sanki o söylemiş gibi üreten bir yapay zekâ teknolojisidir. Bu teknoloji, kişiselleştirilmiş ses deneyimleri yaratmak için kullanılır.
 
-*Şöyle düşünün: Bir ressamın birinin yüzünü sadece birkaç fotoğrafa bakarak mükemmel şekilde çizebilmesi gibi, yapay zekanın da bir sesin tınısını kopyalamasıdır.*
+*Şöyle düşünün: Bir ressamın birinin yüzünü sadece birkaç fotoğrafa bakarak mükemmel şekilde çizebilmesi gibi, yapay zekânın da bir sesin tınısını kopyalamasıdır.*
 
 ## Nasıl çalışır?
 

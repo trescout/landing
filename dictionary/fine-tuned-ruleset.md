@@ -6,7 +6,7 @@ Belirli bir işi daha iyi yapması için özel verilerle eğitilerek hassaslaşt
 
 ## Tanım
 
-Genel amaçlı bir yapay zekayı, belirli bir sektörün veya işin uzmanı haline getirmek için kullanılan kurallar setidir. Bu süreç, modelin genel bilgisini korurken, sizin özel ihtiyaçlarınıza göre ince ayar yapmasını sağlar. Daha az hata payı ve daha yüksek odaklanma hedefler.
+Genel amaçlı bir yapay zekâyı, belirli bir sektörün veya işin uzmanı haline getirmek için kullanılan kurallar setidir. Bu süreç, modelin genel bilgisini korurken, sizin özel ihtiyaçlarınıza göre ince ayar yapmasını sağlar. Daha az hata payı ve daha yüksek odaklanma hedefler.
 
 *Genel bir üniversite mezununu işe alıp, ona sadece sizin şirketinizin çalışma prensiplerini ve gizli tariflerini öğreten özel bir oryantasyon eğitimi vermek gibidir.*
 

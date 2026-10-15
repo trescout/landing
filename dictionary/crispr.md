@@ -8,7 +8,7 @@ Canlıların genetik kodlarını bir kelime işlemciyle metin düzenler gibi de�
 
 ## Tanım
 
-CRISPR, DNA dizilimindeki hatalı kısımları bulup bunları kesmeye veya değiştirmeye yarayan bir teknolojidir. Bilgisayar kodundaki bir hatayı silip yerine doğrusunu yazmaya benzer şekilde çalışır. Günümüzde biyoteknoloji ve yapay zekanın kesiştiği alanlarda, genetik verilerin analizi için sıkça kullanılır.
+CRISPR, DNA dizilimindeki hatalı kısımları bulup bunları kesmeye veya değiştirmeye yarayan bir teknolojidir. Bilgisayar kodundaki bir hatayı silip yerine doğrusunu yazmaya benzer şekilde çalışır. Günümüzde biyoteknoloji ve yapay zekânın kesiştiği alanlarda, genetik verilerin analizi için sıkça kullanılır.
 
 *Bir belgedeki yanlış yazılmış bir kelimeyi bulup, onu silip yerine doğrusunu yazan bir 'bul ve değiştir' aracı gibidir.*
 
@@ -22,7 +22,7 @@ Tıp araştırmalarında, tarım teknolojilerinde ve genetik hastalıkların ted
 
 ## Sıkça sorulanlar
 
-**CRISPR ile yapay zekanın ilişkisi nedir?**
+**CRISPR ile yapay zekânın ilişkisi nedir?**
 
 Yapay zekâ, genetik dizilimleri analiz ederek CRISPR'ın hangi noktaya müdahale etmesi gerektiğini daha hızlı ve hatasız belirler.
 

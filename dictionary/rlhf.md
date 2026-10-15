@@ -4,11 +4,11 @@
 
 > Reinforcement Learning from Human Feedback
 
-Yapay zekayı insan geri bildirimleriyle eğiten bir iyileştirme sürecidir.
+Yapay zekâyı insan geri bildirimleriyle eğiten bir iyileştirme sürecidir.
 
 ## Tanım
 
-RLHF, yapay zekanın verdiği yanıtların insanlar tarafından puanlanarak modelin daha güvenli ve yardımcı hale getirilmesidir. Bu süreç, modelin sadece bilgili değil aynı zamanda insan tercihlerine uygun davranmasını sağlar.
+RLHF, yapay zekânın verdiği yanıtların insanlar tarafından puanlanarak modelin daha güvenli ve yardımcı hale getirilmesidir. Bu süreç, modelin sadece bilgili değil aynı zamanda insan tercihlerine uygun davranmasını sağlar.
 
 *Şöyle düşünün: Bir stajyere işi öğretmek gibidir. Stajyer bir rapor hazırlar, siz de 'bu kısım çok iyi ama şu üslubu değiştir' diyerek onu eğitirsiniz. Zamanla stajyer sizin neyi beğeneceğinizi öğrenir.*
 

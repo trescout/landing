@@ -163,11 +163,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 4 Temmuz 2026*
 
-Bir yapay zekanın veya yazılımın, kendisine verilen komut üzerine dış dünyada veya sistem içinde yaptığı somut işlemdir.
+Bir yapay zekânın veya yazılımın, kendisine verilen komut üzerine dış dünyada veya sistem içinde yaptığı somut işlemdir.
 
 ## Tanım
 
-Action, bir yapay zekâ modelinin sadece metin üretmekle kalmayıp, bir e-posta göndermek, bir dosyayı silmek veya bir web sitesine veri girmek gibi fiziksel veya dijital bir değişikliğe yol açan adımıdır. Yapay zekayı bir 'düşünür' olmaktan çıkarıp bir 'yapıcı' haline getiren mekanizmadır.
+Action, bir yapay zekâ modelinin sadece metin üretmekle kalmayıp, bir e-posta göndermek, bir dosyayı silmek veya bir web sitesine veri girmek gibi fiziksel veya dijital bir değişikliğe yol açan adımıdır. Yapay zekâyı bir 'düşünür' olmaktan çıkarıp bir 'yapıcı' haline getiren mekanizmadır.
 
 *Bir aşçının sadece yemek tarifi okuması değil, mutfağa girip ocağı yakıp malzemeleri doğramasıdır.*
 
@@ -556,7 +556,7 @@ Bir sistemin zayıf noktalarını bulmak için kötü niyetli saldırıları tak
 
 ## Tanım
 
-Bu yöntem, bir yazılımın veya yapay zekanın ne kadar dayanıklı olduğunu anlamak için kullanılır. Güvenlik uzmanları, sistemin hata yapmasını veya savunmasını aşmasını sağlamak için kasıtlı olarak hatalı veya yanıltıcı girdiler gönderir. Amaç, sistemin gerçek bir saldırı anında nasıl tepki vereceğini önceden görmektir.
+Bu yöntem, bir yazılımın veya yapay zekânın ne kadar dayanıklı olduğunu anlamak için kullanılır. Güvenlik uzmanları, sistemin hata yapmasını veya savunmasını aşmasını sağlamak için kasıtlı olarak hatalı veya yanıltıcı girdiler gönderir. Amaç, sistemin gerçek bir saldırı anında nasıl tepki vereceğini önceden görmektir.
 
 *Bir kalenin surlarını test etmek için kale muhafızı gibi davranıp gizlice içeri sızmaya çalışmak gibidir.*
 
@@ -578,7 +578,7 @@ Sadece hata ayıklama ile karıştırılmamalıdır; burada odak noktasında kö
 
 Sistemi gerçek saldırganlardan önce test edip açıklarını kapatmak için yapılır.
 
-**Yapay zekada nasıl çalışır?**
+**Yapay zekâda nasıl çalışır?**
 
 Modele onu kandıracak veya etik dışı yanıt vermeye zorlayacak sorular sorarak direnci ölçülür.
 
@@ -1506,7 +1506,7 @@ Sadece komutları yerine getiren değil, bir hedef doğrultusunda kendi planın�
 
 ## Nasıl çalışır?
 
-Geliştiriciler, yapay zekaya bir hedef ve kullanabileceği araçlar tanımlar. Sistem, bu araçları kullanarak adım adım ilerler ve her adımda aldığı sonuçlara göre stratejisini günceller.
+Geliştiriciler, yapay zekâya bir hedef ve kullanabileceği araçlar tanımlar. Sistem, bu araçları kullanarak adım adım ilerler ve her adımda aldığı sonuçlara göre stratejisini günceller.
 
 ## Nerede kullanılır?
 
@@ -1820,7 +1820,7 @@ Sıradan yapay zekâ modelleri sadece bir soruya cevap verir. Agentic workflow i
 
 ## Nasıl çalışır?
 
-Yapay zekaya hedef verilir, o da kendi içinde alt görevlere bölerek süreci yönetir.
+Yapay zekâya hedef verilir, o da kendi içinde alt görevlere bölerek süreci yönetir.
 
 ## Nerede kullanılır?
 
@@ -2580,7 +2580,7 @@ Finansal piyasalarda, borsa işlemlerinde ve büyük ölçekli varlık yönetim 
 
 ## Sık karıştırılanlar
 
-Algoritmik ticaretten (algorithmic trading) farkı, yapay zekanın sadece kural takip etmeyip, veriden öğrenerek kendi stratejisini geliştirebilmesidir.
+Algoritmik ticaretten (algorithmic trading) farkı, yapay zekânın sadece kural takip etmeyip, veriden öğrenerek kendi stratejisini geliştirebilmesidir.
 
 ## Sıkça sorulanlar
 
@@ -8109,7 +8109,7 @@ Yazılım geliştirme süreçlerini otomatize eden ve bağımsız olarak kod yaz
 
 ## Tanım
 
-Coding agent, bir yazılımcının yaptığı temel işleri üstlenen gelişmiş bir yapay zekadır. Sadece kod yazmakla kalmaz, aynı zamanda mevcut kodlardaki hataları bulur, testleri çalıştırır ve projenin genel mimarisine uygun güncellemeler yapar. İnsan müdahalesine ihtiyaç duymadan karmaşık görevleri uçtan uca tamamlayabilir.
+Coding agent, bir yazılımcının yaptığı temel işleri üstlenen gelişmiş bir yapay zekâdır. Sadece kod yazmakla kalmaz, aynı zamanda mevcut kodlardaki hataları bulur, testleri çalıştırır ve projenin genel mimarisine uygun güncellemeler yapar. İnsan müdahalesine ihtiyaç duymadan karmaşık görevleri uçtan uca tamamlayabilir.
 
 *Sanki yanınızda hiç yorulmayan, milyonlarca satır kod ezberlemiş ve hata yapma payı düşük, çok hızlı bir yazılımcı stajyeriniz varmış gibi düşünebilirsiniz.*
 
@@ -8912,11 +8912,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 18 Temmuz 2026*
 
-Yapay zekanın tıpkı bir insan gibi ekranı görüp fare ve klavye kullanarak bilgisayarı yönetebilme yeteneğidir.
+Yapay zekânın tıpkı bir insan gibi ekranı görüp fare ve klavye kullanarak bilgisayarı yönetebilme yeteneğidir.
 
 ## Tanım
 
-Bu teknoloji, yapay zekanın sadece metin yazmakla kalmayıp, bir kullanıcı gibi bilgisayar arayüzüyle etkileşime girmesini sağlar. Yapay zekâ ekrandaki pencereleri, butonları ve menüleri algılar; ardından tıklama, yazma veya sürükleme gibi işlemleri gerçekleştirir. Bu sayede karmaşık yazılım süreçlerini otomatize etmek mümkün hale gelir.
+Bu teknoloji, yapay zekânın sadece metin yazmakla kalmayıp, bir kullanıcı gibi bilgisayar arayüzüyle etkileşime girmesini sağlar. Yapay zekâ ekrandaki pencereleri, butonları ve menüleri algılar; ardından tıklama, yazma veya sürükleme gibi işlemleri gerçekleştirir. Bu sayede karmaşık yazılım süreçlerini otomatize etmek mümkün hale gelir.
 
 *Sanki bilgisayarın başına bir yardımcı oturmuş ve sizin yerinize fareyi tutup klavyeye basarak işleri hallediyormuş gibi düşünebilirsiniz.*
 
@@ -8936,7 +8936,7 @@ AI Agent kavramı ile çok yakındır ancak Computer Use, özellikle ekran aray�
 
 **Bu özellik güvenli mi?**
 
-Yapay zekaya hangi işlemlere izin verdiğinizi kontrol edebildiğiniz sürece güvenlidir, ancak kritik işlemlerde insan onayı her zaman önerilir.
+Yapay zekâya hangi işlemlere izin verdiğinizi kontrol edebildiğiniz sürece güvenlidir, ancak kritik işlemlerde insan onayı her zaman önerilir.
 
 ## İlgili terimler
 
@@ -9016,7 +9016,7 @@ Bilgisayarların görsel verileri (fotoğraf, video) analiz edip içindeki nesne
 
 ## Tanım
 
-Computer vision, yapay zekanın dünyayı bir insan gibi görmesini ve yorumlamasını sağlar. Sadece pikselleri değil, o piksellerin ne anlama geldiğini (örneğin bir kedi mi, bir trafik kazası mı) çözümler. Bu teknoloji sayesinde makineler görsel dünyayı işleyebilir.
+Computer vision, yapay zekânın dünyayı bir insan gibi görmesini ve yorumlamasını sağlar. Sadece pikselleri değil, o piksellerin ne anlama geldiğini (örneğin bir kedi mi, bir trafik kazası mı) çözümler. Bu teknoloji sayesinde makineler görsel dünyayı işleyebilir.
 
 *Bir bebeğin etrafındaki nesneleri yavaş yavaş tanımayı öğrenmesi gibidir; önce şekilleri, sonra nesneleri, sonra da anlamlarını kavrar.*
 
@@ -9654,7 +9654,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 18 Temmuz 2026*
 
-Yapay zekaya verilen devasa bilgiyi, modelin daha hızlı ve doğru çalışması için gereksiz detaylardan arındırıp özetleme işlemidir.
+Yapay zekâya verilen devasa bilgiyi, modelin daha hızlı ve doğru çalışması için gereksiz detaylardan arındırıp özetleme işlemidir.
 
 ## Tanım
 
@@ -9703,11 +9703,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın tek seferde hatırlayabildiği ve işleyebildiği bilgi kapasitesidir.
+Yapay zekânın tek seferde hatırlayabildiği ve işleyebildiği bilgi kapasitesidir.
 
 ## Tanım
 
-Yapay zekanın tek bir konuşma veya işlem sırasında hafızasında tutabildiği toplam bilgi miktarıdır. Bu sınır, modelin geçmişi ne kadar iyi hatırlayacağını belirler.
+Yapay zekânın tek bir konuşma veya işlem sırasında hafızasında tutabildiği toplam bilgi miktarıdır. Bu sınır, modelin geçmişi ne kadar iyi hatırlayacağını belirler.
 
 *Şöyle düşünün: Bir masanın büyüklüğü gibidir; masaya ne kadar çok kağıt sığdırırsanız, yapay zekâ o kadar çok bilgiyi aynı anda göz önünde bulundurabilir.*
 
@@ -10079,7 +10079,7 @@ Bir yapay zekâ sisteminin yeni verilerle karşılaştıkça bilgilerini unutmad
 
 ## Tanım
 
-Sürekli öğrenme, yapay zekanın durağan kalmayıp dünyadaki değişimlere ayak uydurmasını sağlar. Normalde bir model eğitilir ve öyle kalır, ancak sürekli öğrenen modeller yeni deneyimlerden ders çıkararak performanslarını artırır. Bu, sistemin zamanla daha akıllı ve uyumlu hale gelmesini sağlar.
+Sürekli öğrenme, yapay zekânın durağan kalmayıp dünyadaki değişimlere ayak uydurmasını sağlar. Normalde bir model eğitilir ve öyle kalır, ancak sürekli öğrenen modeller yeni deneyimlerden ders çıkararak performanslarını artırır. Bu, sistemin zamanla daha akıllı ve uyumlu hale gelmesini sağlar.
 
 *Okuldan mezun olup bilgiyi donduran bir öğrenci yerine, hayat boyu okumaya ve yeni şeyler öğrenmeye devam eden bir uzman gibidir.*
 
@@ -10480,7 +10480,7 @@ Canlıların genetik kodlarını bir kelime işlemciyle metin düzenler gibi de�
 
 ## Tanım
 
-CRISPR, DNA dizilimindeki hatalı kısımları bulup bunları kesmeye veya değiştirmeye yarayan bir teknolojidir. Bilgisayar kodundaki bir hatayı silip yerine doğrusunu yazmaya benzer şekilde çalışır. Günümüzde biyoteknoloji ve yapay zekanın kesiştiği alanlarda, genetik verilerin analizi için sıkça kullanılır.
+CRISPR, DNA dizilimindeki hatalı kısımları bulup bunları kesmeye veya değiştirmeye yarayan bir teknolojidir. Bilgisayar kodundaki bir hatayı silip yerine doğrusunu yazmaya benzer şekilde çalışır. Günümüzde biyoteknoloji ve yapay zekânın kesiştiği alanlarda, genetik verilerin analizi için sıkça kullanılır.
 
 *Bir belgedeki yanlış yazılmış bir kelimeyi bulup, onu silip yerine doğrusunu yazan bir 'bul ve değiştir' aracı gibidir.*
 
@@ -10494,7 +10494,7 @@ Tıp araştırmalarında, tarım teknolojilerinde ve genetik hastalıkların ted
 
 ## Sıkça sorulanlar
 
-**CRISPR ile yapay zekanın ilişkisi nedir?**
+**CRISPR ile yapay zekânın ilişkisi nedir?**
 
 Yapay zekâ, genetik dizilimleri analiz ederek CRISPR'ın hangi noktaya müdahale etmesi gerektiğini daha hızlı ve hatasız belirler.
 
@@ -11174,7 +11174,7 @@ Veri önce toplanır, hatalı kısımlar temizlenir, ihtiyaç duyulan formatta d
 
 ## Nerede kullanılır?
 
-Yapay zekayı eğitmek için büyük miktarda verinin hazırlanmasında veya günlük satış raporlarının oluşturulmasında kullanılır.
+Yapay zekâyı eğitmek için büyük miktarda verinin hazırlanmasında veya günlük satış raporlarının oluşturulmasında kullanılır.
 
 ## Sık karıştırılanlar
 
@@ -13271,7 +13271,7 @@ Yazılım belgeyi tarar, başlıkları, paragrafları ve tabloları birbirinden 
 
 ## Nerede kullanılır?
 
-Faturaların otomatik işlenmesinde, sözleşmelerin analiz edilmesinde veya uzun raporların yapay zekaya özetletilmesinde kullanılır.
+Faturaların otomatik işlenmesinde, sözleşmelerin analiz edilmesinde veya uzun raporların yapay zekâya özetletilmesinde kullanılır.
 
 ## Sık karıştırılanlar
 
@@ -14985,7 +14985,7 @@ Bir konuyu öğrenirken pratik yapmanızı sağlayan düzenlenmiş alıştırma 
 
 ## Tanım
 
-Alıştırma veri seti, belirli bir beceriyi veya konuyu pekiştirmeniz için hazırlanan yapılandırılmış örnekler topluluğudur. Genellikle bir yapay zekayı eğitmek veya bir öğrencinin seviyesini ölçmek için kullanılır. Bu veriler, öğrenme sürecini daha verimli hale getirmek için özel olarak seçilir.
+Alıştırma veri seti, belirli bir beceriyi veya konuyu pekiştirmeniz için hazırlanan yapılandırılmış örnekler topluluğudur. Genellikle bir yapay zekâyı eğitmek veya bir öğrencinin seviyesini ölçmek için kullanılır. Bu veriler, öğrenme sürecini daha verimli hale getirmek için özel olarak seçilir.
 
 *Bir yabancı dil öğrenirken çözdüğünüz test kitapçığı gibidir; her soru, öğrendiğiniz bilgiyi gerçek hayatta nasıl kullanacağınızı görmenizi sağlar.*
 
@@ -15449,11 +15449,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın çok az örnekle yeni bir görevi öğrenme yeteneğidir.
+Yapay zekânın çok az örnekle yeni bir görevi öğrenme yeteneğidir.
 
 ## Tanım
 
-Az örnekli öğrenme, yapay zekanın daha önce hiç görmediği bir görevi sadece birkaç örnek görerek öğrenmesidir. Bu yöntem, modelin her seferinde sıfırdan eğitilmesine gerek kalmadan hızlıca uyum sağlamasına olanak tanır.
+Az örnekli öğrenme, yapay zekânın daha önce hiç görmediği bir görevi sadece birkaç örnek görerek öğrenmesidir. Bu yöntem, modelin her seferinde sıfırdan eğitilmesine gerek kalmadan hızlıca uyum sağlamasına olanak tanır.
 
 *Şöyle düşünün: Bir çocuğa sadece iki tane elma gösterip elmanın ne olduğunu öğretmek gibidir.*
 
@@ -15556,7 +15556,7 @@ Belirli bir işi daha iyi yapması için özel verilerle eğitilerek hassaslaşt
 
 ## Tanım
 
-Genel amaçlı bir yapay zekayı, belirli bir sektörün veya işin uzmanı haline getirmek için kullanılan kurallar setidir. Bu süreç, modelin genel bilgisini korurken, sizin özel ihtiyaçlarınıza göre ince ayar yapmasını sağlar. Daha az hata payı ve daha yüksek odaklanma hedefler.
+Genel amaçlı bir yapay zekâyı, belirli bir sektörün veya işin uzmanı haline getirmek için kullanılan kurallar setidir. Bu süreç, modelin genel bilgisini korurken, sizin özel ihtiyaçlarınıza göre ince ayar yapmasını sağlar. Daha az hata payı ve daha yüksek odaklanma hedefler.
 
 *Genel bir üniversite mezununu işe alıp, ona sadece sizin şirketinizin çalışma prensiplerini ve gizli tariflerini öğreten özel bir oryantasyon eğitimi vermek gibidir.*
 
@@ -17754,17 +17754,17 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 9 Haziran 2026*
 
-Yapay zekanın sadece sağlanan kaynak belgelere sadık kalarak oluşturduğu, uydurma içermeyen özetleme yöntemidir.
+Yapay zekânın sadece sağlanan kaynak belgelere sadık kalarak oluşturduğu, uydurma içermeyen özetleme yöntemidir.
 
 ## Tanım
 
-Grounded summary, yapay zekanın kendi genel bilgi dağarcığı yerine, kullanıcının verdiği dokümanlar üzerindeki bilgilere odaklanarak özet çıkarmasıdır. Bu yöntem, modelin hayal gücünü veya yanlış bilgileri (halüsinasyon) devre dışı bırakarak güvenilir sonuçlar üretmesini sağlar. Özellikle hukuki veya teknik metinlerde doğruluk payını artırmak için kullanılır.
+Grounded summary, yapay zekânın kendi genel bilgi dağarcığı yerine, kullanıcının verdiği dokümanlar üzerindeki bilgilere odaklanarak özet çıkarmasıdır. Bu yöntem, modelin hayal gücünü veya yanlış bilgileri (halüsinasyon) devre dışı bırakarak güvenilir sonuçlar üretmesini sağlar. Özellikle hukuki veya teknik metinlerde doğruluk payını artırmak için kullanılır.
 
 *Bir öğrencinin sınavda sadece önündeki kitaba bakarak cevap vermesi gibidir; dışarıdan bilgi katmadan sadece kaynakta ne yazıyorsa onu aktarır.*
 
 ## Nasıl çalışır?
 
-Önce özetlenecek metinler sisteme yüklenir ve yapay zekaya bu metinlerin dışına çıkmaması talimatı verilir. Sistem, metindeki anahtar noktaları belirleyip bunları kaynakla eşleştirerek tutarlı bir özet oluşturur.
+Önce özetlenecek metinler sisteme yüklenir ve yapay zekâya bu metinlerin dışına çıkmaması talimatı verilir. Sistem, metindeki anahtar noktaları belirleyip bunları kaynakla eşleştirerek tutarlı bir özet oluşturur.
 
 ## Nerede kullanılır?
 
@@ -17778,7 +17778,7 @@ Hallucination ile karıştırılabilir; grounded summary aslında halüsinasyonu
 
 **Grounded summary neden önemlidir?**
 
-Yapay zekanın uydurma bilgi vermesini engeller ve verilen kaynağa bağlı kalmasını sağlar.
+Yapay zekânın uydurma bilgi vermesini engeller ve verilen kaynağa bağlı kalmasını sağlar.
 
 **Her zaman doğru sonuç verir mi?**
 
@@ -17966,7 +17966,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın gerçekte olmayan bilgileri sanki doğruymuş gibi sunmasıdır.
+Yapay zekânın gerçekte olmayan bilgileri sanki doğruymuş gibi sunmasıdır.
 
 ## Tanım
 
@@ -17984,11 +17984,11 @@ Model, eğitim verileri arasında kurduğu bağlantılar zayıf olduğunda veya 
 
 ## Sık karıştırılanlar
 
-Yalan söylemekle karıştırılır, ancak yapay zekanın bir niyeti veya bilinci yoktur; sadece olasılıkları takip eder.
+Yalan söylemekle karıştırılır, ancak yapay zekânın bir niyeti veya bilinci yoktur; sadece olasılıkları takip eder.
 
 ## Sıkça sorulanlar
 
-**Yapay zekanın uydurmasını nasıl engellerim?**
+**Yapay zekânın uydurmasını nasıl engellerim?**
 
 Ona 'bilmiyorsan bilmiyorum de' talimatı vererek veya RAG gibi yöntemlerle dış kaynaklara başvurmasını sağlayarak.
 
@@ -19600,7 +19600,7 @@ Kullanıcı bir soru sorar, model bu soruyu kendi içindeki devasa sayısal ağl
 
 ## Nerede kullanılır?
 
-ChatGPT ile sohbet ettiğiniz veya bir yapay zekaya görsel çizdirdiğiniz her an inference süreci gerçekleşir.
+ChatGPT ile sohbet ettiğiniz veya bir yapay zekâya görsel çizdirdiğiniz her an inference süreci gerçekleşir.
 
 ## Sık karıştırılanlar
 
@@ -21064,7 +21064,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 > Key-Value Cache
 
-Yapay zekanın daha önce işlediği kelimeleri belleğinde tutarak aynı işlemleri tekrar yapmasını engelleyen bir hızlandırma yöntemidir.
+Yapay zekânın daha önce işlediği kelimeleri belleğinde tutarak aynı işlemleri tekrar yapmasını engelleyen bir hızlandırma yöntemidir.
 
 ## Tanım
 
@@ -21088,7 +21088,7 @@ Context Window ile karıştırılabilir ancak bu bir kapasite sınırı değil, 
 
 **KV Cache neden önemlidir?**
 
-Yapay zekanın aynı cümleyi tekrar tekrar hesaplamasını engelleyerek işlemci üzerindeki yükü azaltır ve yanıtı hızlandırır.
+Yapay zekânın aynı cümleyi tekrar tekrar hesaplamasını engelleyerek işlemci üzerindeki yükü azaltır ve yanıtı hızlandırır.
 
 **Bellek dolarsa ne olur?**
 
@@ -21361,7 +21361,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 16 Temmuz 2026*
 
-Yapay zekanın eski bilgilerini kaybetmeden yeni verilerle sürekli öğrenme yeteneği.
+Yapay zekânın eski bilgilerini kaybetmeden yeni verilerle sürekli öğrenme yeteneği.
 
 ## Tanım
 
@@ -23107,9 +23107,9 @@ Büyük veri setleri modele verilir, model bu verilerdeki desenleri (patterns) b
 
 ## Sıkça sorulanlar
 
-**Yapay zekadan farkı nedir?**
+**Yapay zekâdan farkı nedir?**
 
-Makine öğrenimi, yapay zekanın veriden öğrenme odaklı alt dalıdır; her yapay zekâ makine öğrenimi kullanmaz.
+Makine öğrenimi, yapay zekânın veriden öğrenme odaklı alt dalıdır; her yapay zekâ makine öğrenimi kullanmaz.
 
 ## İlgili terimler
 
@@ -23663,11 +23663,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 9 Haziran 2026*
 
-Yapay zekanın geçmiş etkileşimleri, kullanıcı tercihlerini ve verileri hatırlamasını sağlayan depolama mimarisidir.
+Yapay zekânın geçmiş etkileşimleri, kullanıcı tercihlerini ve verileri hatırlamasını sağlayan depolama mimarisidir.
 
 ## Tanım
 
-Memory system, yapay zekanın sadece o anki konuşmaya değil, geçmişteki bilgilere de erişmesini sağlar. Bu sistem sayesinde yapay zekâ, sizin kim olduğunuzu veya daha önce ne konuştuğunuzu unutmaz. Bu, kişiselleştirilmiş ve sürekliliği olan bir kullanıcı deneyimi için kritik öneme sahiptir.
+Memory system, yapay zekânın sadece o anki konuşmaya değil, geçmişteki bilgilere de erişmesini sağlar. Bu sistem sayesinde yapay zekâ, sizin kim olduğunuzu veya daha önce ne konuştuğunuzu unutmaz. Bu, kişiselleştirilmiş ve sürekliliği olan bir kullanıcı deneyimi için kritik öneme sahiptir.
 
 *Bir insanın günlük tutması gibidir; konuşulanları not alır ve ihtiyaç duyduğunda sayfaları çevirip hatırlar.*
 
@@ -24186,7 +24186,7 @@ Yapay zekâ destekli kod editörlerinde, kurumsal veri analiz araçlarında ve a
 
 ## Sık karıştırılanlar
 
-API ile karıştırılabilir; ancak API genel bir iletişim yöntemiyken, MCP özellikle yapay zekanın bağlam (context) ve veri ihtiyacına odaklanmış, bu iş için özelleşmiş bir standarttır.
+API ile karıştırılabilir; ancak API genel bir iletişim yöntemiyken, MCP özellikle yapay zekânın bağlam (context) ve veri ihtiyacına odaklanmış, bu iş için özelleşmiş bir standarttır.
 
 ## Sıkça sorulanlar
 
@@ -24196,7 +24196,7 @@ Her uygulama için ayrı ayrı bağlantı kodu yazmak yerine, MCP ile bir kez st
 
 **MCP güvenli mi?**
 
-Evet, MCP veriye erişim yetkilerini kontrol altında tutan bir yapıya sahiptir, böylece yapay zekanın sadece izin verilen verilere erişmesini sağlar.
+Evet, MCP veriye erişim yetkilerini kontrol altında tutan bir yapıya sahiptir, böylece yapay zekânın sadece izin verilen verilere erişmesini sağlar.
 
 ## İlgili terimler
 
@@ -24235,13 +24235,13 @@ Yapay zekâ modellerinin farklı veri kaynaklarıyla ve araçlarla güvenli bir 
 
 ## Tanım
 
-Farklı yapay zekâ uygulamalarının, veritabanları veya yerel dosyalar gibi dış kaynaklara erişirken kullandığı ortak bir iletişim protokolüdür. Bu protokol sayesinde, bir yapay zekâ modeli her farklı araç için özel bir kod yazmanıza gerek kalmadan, standart bir yöntemle veri alıp verebilir. Yani yapay zekanızın farklı kaynaklara bağlanması için gereken evrensel bir fiş veya priz sistemi gibi düşünebilirsiniz.
+Farklı yapay zekâ uygulamalarının, veritabanları veya yerel dosyalar gibi dış kaynaklara erişirken kullandığı ortak bir iletişim protokolüdür. Bu protokol sayesinde, bir yapay zekâ modeli her farklı araç için özel bir kod yazmanıza gerek kalmadan, standart bir yöntemle veri alıp verebilir. Yani yapay zekânızın farklı kaynaklara bağlanması için gereken evrensel bir fiş veya priz sistemi gibi düşünebilirsiniz.
 
-*Farklı ülkelerden gelen insanların ortak bir dil olan İngilizceyi kullanarak birbirini anlaması gibidir; MCP de yapay zekanın veritabanlarıyla konuşurken kullandığı ortak bir dildir.*
+*Farklı ülkelerden gelen insanların ortak bir dil olan İngilizceyi kullanarak birbirini anlaması gibidir; MCP de yapay zekânın veritabanlarıyla konuşurken kullandığı ortak bir dildir.*
 
 ## Nasıl çalışır?
 
-Geliştiriciler, uygulamalarına MCP sunucuları ekleyerek yapay zekanın bu kaynaklara erişmesini sağlar. Ardından yapay zekâ, bu protokolü kullanarak veriyi çeker veya ilgili işlemi gerçekleştirir. Siz sadece hangi veriye erişmek istediğinizi belirtirsiniz, gerisini protokol halleder.
+Geliştiriciler, uygulamalarına MCP sunucuları ekleyerek yapay zekânın bu kaynaklara erişmesini sağlar. Ardından yapay zekâ, bu protokolü kullanarak veriyi çeker veya ilgili işlemi gerçekleştirir. Siz sadece hangi veriye erişmek istediğinizi belirtirsiniz, gerisini protokol halleder.
 
 ## Nerede kullanılır?
 
@@ -24259,7 +24259,7 @@ Her uygulama için ayrı ayrı bağlantı yöntemleri geliştirmek yerine, tek b
 
 **MCP kullanmak için yazılımcı olmam gerekir mi?**
 
-Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan sonra yapay zekanızın yeteneklerini artırmak için standart bir yöntem sunar.
+Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan sonra yapay zekânızın yeteneklerini artırmak için standart bir yöntem sunar.
 
 ## İlgili terimler
 
@@ -24727,7 +24727,7 @@ Metin, ses, görsel ve video gibi farklı veri türlerini aynı anda işleyebile
 
 ## Tanım
 
-Multimodal, yapay zekanın metin, ses, görüntü ve video gibi farklı veri türlerini aynı anda işleyebilme ve bunlar arasında bağlantı kurabilme yeteneğidir. Model, sadece okumakla kalmaz, aynı zamanda görebilir ve duyabilir.
+Multimodal, yapay zekânın metin, ses, görüntü ve video gibi farklı veri türlerini aynı anda işleyebilme ve bunlar arasında bağlantı kurabilme yeteneğidir. Model, sadece okumakla kalmaz, aynı zamanda görebilir ve duyabilir.
 
 *Şöyle düşünün: Sadece okuyarak öğrenen birinden ziyade, hem okuyan hem izleyen hem de dinleyerek dünyayı algılayan bir insan gibidir.*
 
@@ -28088,7 +28088,7 @@ Hayır, bazıları sadece düz metin alırken bazıları tabloları ve karmaşı
 
 **Neden RAG sistemleri için önemlidir?**
 
-Çünkü yapay zekaya bir belgeyi okutmadan önce onu düzgünce parçalara ayırmanız gerekir.
+Çünkü yapay zekâya bir belgeyi okutmadan önce onu düzgünce parçalara ayırmanız gerekir.
 
 ## İlgili terimler
 
@@ -28518,7 +28518,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ## Tanım
 
-Kişiselleştirilmiş eğitim, yapay zekanın öğrencinin nerede zorlandığını tespit edip müfredatı ona göre şekillendirmesidir. Standart bir sınıf anlatımından farklı olarak, öğrenci bir konuyu anlamadıysa sistem konuyu basitleştirir veya farklı örneklerle anlatır. Bu sayede öğrenme süreci tamamen kişiye özel bir tempoda ilerler.
+Kişiselleştirilmiş eğitim, yapay zekânın öğrencinin nerede zorlandığını tespit edip müfredatı ona göre şekillendirmesidir. Standart bir sınıf anlatımından farklı olarak, öğrenci bir konuyu anlamadıysa sistem konuyu basitleştirir veya farklı örneklerle anlatır. Bu sayede öğrenme süreci tamamen kişiye özel bir tempoda ilerler.
 
 *Sınıfta 30 kişiye aynı anda ders anlatan bir öğretmen yerine, sadece sizinle ilgilenen ve anlamadığınız yerleri farklı yollarla tekrar eden özel bir hoca gibidir.*
 
@@ -28954,9 +28954,9 @@ Yazılım ekosisteminde bu terimler sıklıkla birbirinin yerine kullanılsa da 
 
 **Mod:** Oyun dünyasında (özellikle Minecraft gibi) oyun mekaniklerini, grafiklerini ve mantığını değiştiren kullanıcı yapımı eklentilerdir.
 
-## Yapay zeka çağında eklentiler ve Model Context Protocol (MCP)
+## Yapay zekâ çağında eklentiler ve Model Context Protocol (MCP)
 
-Yapay zeka devrimiyle birlikte eklenti mimarisi yepyeni bir boyut kazanmıştır. Büyük dil modelleri (LLM) kapalı birer bilgi deposu olmaktan çıkıp, eklentiler ve "Araç Çağırma" (Tool/Function Calling) mekanizmaları sayesinde web'de arama yapabilen, veritabanı sorgulayabilen ve API'ler üzerinden eyleme geçebilen otonom ajanlara dönüşmüştür. Anthropic'in geliştirdiği **Model Context Protocol (MCP)**, LLM'lerin farklı veri kaynaklarına ve araçlara standart bir eklenti protokolüyle bağlanmasını sağlayarak modern eklenti mimarisinin en güncel örneğini oluşturmaktadır.
+Yapay zekâ devrimiyle birlikte eklenti mimarisi yepyeni bir boyut kazanmıştır. Büyük dil modelleri (LLM) kapalı birer bilgi deposu olmaktan çıkıp, eklentiler ve "Araç Çağırma" (Tool/Function Calling) mekanizmaları sayesinde web'de arama yapabilen, veritabanı sorgulayabilen ve API'ler üzerinden eyleme geçebilen otonom ajanlara dönüşmüştür. Anthropic'in geliştirdiği **Model Context Protocol (MCP)**, LLM'lerin farklı veri kaynaklarına ve araçlara standart bir eklenti protokolüyle bağlanmasını sağlayarak modern eklenti mimarisinin en güncel örneğini oluşturmaktadır.
 
 *Bir müzisyenin elektro gitar amfisini düşünün: Amfinin kendisi temel ses yükseltme görevini üstlenir (çekirdek). Müzisyen amfi ile gitar arasına distortion, chorus veya delay pedalları takarak (plugin) amfinin devrelerine hiç dokunmadan sınırsız sayıda yeni ses tonu elde edebilir.*
 
@@ -28976,7 +28976,7 @@ Plugin terimi daha çok uygulamanın çekirdek yeteneklerini ve veri motorunu ge
 
 **Model Context Protocol (MCP) eklenti midir?**
 
-MCP, yapay zeka modellerinin harici araçlar, veritabanları ve servislerle konuşmasını standartlaştıran açık bir eklenti protokolüdür.
+MCP, yapay zekâ modellerinin harici araçlar, veritabanları ve servislerle konuşmasını standartlaştıran açık bir eklenti protokolüdür.
 
 ## İlgili terimler
 
@@ -30124,17 +30124,17 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekadan en iyi sonucu almak için verilen komutları optimize etme sanatıdır.
+Yapay zekâdan en iyi sonucu almak için verilen komutları optimize etme sanatıdır.
 
 ## Tanım
 
-Prompt mühendisliği, yapay zekadan en doğru, yaratıcı veya spesifik yanıtı alabilmek için komutları yapılandırma becerisidir. İyi bir komut, yapay zekanın bağlamı doğru anlamasını ve hedeflenen çıktıyı üretmesini sağlar.
+Prompt mühendisliği, yapay zekâdan en doğru, yaratıcı veya spesifik yanıtı alabilmek için komutları yapılandırma becerisidir. İyi bir komut, yapay zekânın bağlamı doğru anlamasını ve hedeflenen çıktıyı üretmesini sağlar.
 
 *Şöyle düşünün: Bir asistana talimat vermek gibidir. 'Bana bir rapor yaz' demek yerine, 'Sen bir pazarlama uzmanısın, şu verileri kullanarak 300 kelimelik, profesyonel ve ikna edici bir özet yaz' demek çok daha kaliteli bir sonuç verir.*
 
 ## Nasıl çalışır?
 
-Kullanıcı, yapay zekaya bir rol atar, görevi tanımlar, bağlamı açıklar ve istediği formatı belirtir. Bu yapılandırılmış girdi, modelin odaklanmasını sağlar ve hata payını azaltır.
+Kullanıcı, yapay zekâya bir rol atar, görevi tanımlar, bağlamı açıklar ve istediği formatı belirtir. Bu yapılandırılmış girdi, modelin odaklanmasını sağlar ve hata payını azaltır.
 
 ## Nerede kullanılır?
 
@@ -30591,7 +30591,7 @@ Sağlam bir QA mimarisi Mike Cohn'un Test Piramidi prensibine dayanır:
 
 *Hata ayıklamak (debugging) ameliyat masasında müdahale etmek, yazılım testi yapmak ise laboratuvar tahlili almaktır. QA ise toplum sağlığı ve koruyucu hekimlik protokolüdür: Sağlıklı beslenme rehberleri, aşı takvimleri ve hijyen kuralları koyarak hastalanma riskini baştan yok etmeyi hedefler.*
 
-## Yapay zeka ve LLM çağında QA
+## Yapay zekâ ve LLM çağında QA
 
 Büyük dil modelleri (LLM) gibi olasılıksal (non-deterministic) sistemlerin yaygınlaşmasıyla QA disiplini yeni bir evreye girmiştir:
 
@@ -30599,7 +30599,7 @@ Büyük dil modelleri (LLM) gibi olasılıksal (non-deterministic) sistemlerin y
 
 **Semantik Regresyon Testleri:** Prompt şablonlarında yapılan bir değişikliğin önceki yanıt kalitesini bozup bozmadığını ölçen kıyaslama kümeleri (benchmarks).
 
-**Yapay Zeka Destekli Test Üretimi:** Test senaryolarının ve görsel arayüz regresyon farklarının yapay zeka modelleriyle otomatik tespiti.
+**Yapay zekâ Destekli Test Üretimi:** Test senaryolarının ve görsel arayüz regresyon farklarının yapay zekâ modelleriyle otomatik tespiti.
 
 ## Sıkça sorulanlar
 
@@ -30615,7 +30615,7 @@ Test ve QC mevcut koddaki hataları bulmaya odaklanan reaktif adımlardır. QA i
 
 Shift-Left test süreçlerini geliştirmenin en başına (kod yazım anına) çekmeyi; Shift-Right ise canlı ortamdaki sistem sağlığını ve kullanıcı davranışlarını anlık izlemeyi ifade eder.
 
-**Yapay zeka ve LLM tabanlı uygulamalarda QA nasıl yapılır?**
+**Yapay zekâ ve LLM tabanlı uygulamalarda QA nasıl yapılır?**
 
 Geleneksel testlerin yanı sıra halüsinasyon oranları, semantik benzerlik, prompt regresyonu ve RAG doğruluk metriklerini ölçen özel değerlendirme (evals) çerçeveleri kullanılır.
 
@@ -32145,11 +32145,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 > Reinforcement Learning from Human Feedback
 
-Yapay zekayı insan geri bildirimleriyle eğiten bir iyileştirme sürecidir.
+Yapay zekâyı insan geri bildirimleriyle eğiten bir iyileştirme sürecidir.
 
 ## Tanım
 
-RLHF, yapay zekanın verdiği yanıtların insanlar tarafından puanlanarak modelin daha güvenli ve yardımcı hale getirilmesidir. Bu süreç, modelin sadece bilgili değil aynı zamanda insan tercihlerine uygun davranmasını sağlar.
+RLHF, yapay zekânın verdiği yanıtların insanlar tarafından puanlanarak modelin daha güvenli ve yardımcı hale getirilmesidir. Bu süreç, modelin sadece bilgili değil aynı zamanda insan tercihlerine uygun davranmasını sağlar.
 
 *Şöyle düşünün: Bir stajyere işi öğretmek gibidir. Stajyer bir rapor hazırlar, siz de 'bu kısım çok iyi ama şu üslubu değiştir' diyerek onu eğitirsiniz. Zamanla stajyer sizin neyi beğeneceğinizi öğrenir.*
 
@@ -34589,7 +34589,7 @@ Bir sistemin çevresindeki olayları anlık olarak algılayıp durumu doğru yor
 
 ## Tanım
 
-Durumsal farkındalık, bir yapay zekanın veya insanın çevresinde olup bitenleri sadece görmesi değil, bu bilgilerin ne anlama geldiğini anlamasıdır. Sistem, mevcut verileri analiz ederek gelecekte ne olabileceğini tahmin eder ve buna göre aksiyon alır. Bu yetenek, özellikle otonom sistemlerin güvenli çalışması için kritiktir.
+Durumsal farkındalık, bir yapay zekânın veya insanın çevresinde olup bitenleri sadece görmesi değil, bu bilgilerin ne anlama geldiğini anlamasıdır. Sistem, mevcut verileri analiz ederek gelecekte ne olabileceğini tahmin eder ve buna göre aksiyon alır. Bu yetenek, özellikle otonom sistemlerin güvenli çalışması için kritiktir.
 
 *Araba kullanırken sadece yolu değil, yayaları, diğer araçları ve trafik ışıklarını da hesaba katarak güvenli bir sürüş yapmaya çalışmanız gibidir.*
 
@@ -34613,7 +34613,7 @@ Sadece veri toplama ile karıştırılmamalıdır; farkındalık, veriyi anlamla
 
 **İnsanlardaki farkındalıktan farkı nedir?**
 
-İnsanlar sezgiseldir, yapay zekalar ise tamamen matematiksel hesaplamalara ve sensör verilerine dayanır.
+İnsanlar sezgiseldir, yapay zekâlar ise tamamen matematiksel hesaplamalara ve sensör verilerine dayanır.
 
 ## İlgili terimler
 
@@ -35473,13 +35473,13 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın yazılı metinleri insan sesine dönüştürme teknolojisidir.
+Yapay zekânın yazılı metinleri insan sesine dönüştürme teknolojisidir.
 
 ## Tanım
 
 Speech Synthesis (Konuşma Sentezi), yazılı metinlerin yapay zekâ yardımıyla yapay ses dalgalarına dönüştürülmesini ifade eden genel teknik terimdir. Metinden Sese teknolojisinin bilimsel ve teknik ismidir.
 
-*Şöyle düşünün: Bir müzisyenin notalara bakarak enstrümanıyla ses üretmesi gibi, yapay zekanın da metne bakarak ses üretmesidir.*
+*Şöyle düşünün: Bir müzisyenin notalara bakarak enstrümanıyla ses üretmesi gibi, yapay zekânın da metne bakarak ses üretmesidir.*
 
 ## Nasıl çalışır?
 
@@ -37267,7 +37267,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 8 Temmuz 2026*
 
-Yapay zekanın gizli talimatlarının kullanıcı tarafından ortaya çıkarılmasıdır.
+Yapay zekânın gizli talimatlarının kullanıcı tarafından ortaya çıkarılmasıdır.
 
 ## Tanım
 
@@ -37312,7 +37312,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 10 Haziran 2026*
 
-Yapay zekanın nasıl davranacağını ve hangi kurallara uyacağını belirleyen temel talimatlar bütünüdür.
+Yapay zekânın nasıl davranacağını ve hangi kurallara uyacağını belirleyen temel talimatlar bütünüdür.
 
 ## Tanım
 
@@ -37913,11 +37913,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın ürettiği cevapların yaratıcılık seviyesini belirleyen ayardır.
+Yapay zekânın ürettiği cevapların yaratıcılık seviyesini belirleyen ayardır.
 
 ## Tanım
 
-Sıcaklık, yapay zekanın ürettiği yanıtların ne kadar yaratıcı veya ne kadar tahmin edilebilir olacağını belirleyen bir ayardır. Düşük sıcaklık daha net ve tutarlı cevaplar verirken, yüksek sıcaklık daha özgün ve bazen beklenmedik cevaplar üretir.
+Sıcaklık, yapay zekânın ürettiği yanıtların ne kadar yaratıcı veya ne kadar tahmin edilebilir olacağını belirleyen bir ayardır. Düşük sıcaklık daha net ve tutarlı cevaplar verirken, yüksek sıcaklık daha özgün ve bazen beklenmedik cevaplar üretir.
 
 *Şöyle düşünün: Bir yazarın her gün aynı tarzda yazması (düşük sıcaklık) ile her gün farklı üsluplar denemesi (yüksek sıcaklık) arasındaki fark gibidir.*
 
@@ -38895,11 +38895,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın metinleri işlemek için kullandığı en küçük anlam birimidir.
+Yapay zekânın metinleri işlemek için kullandığı en küçük anlam birimidir.
 
 ## Tanım
 
-Yapay zekanın dili işlemek için kullandığı en temel parçacıklardır. Bir kelime, hece veya noktalama işareti modelin dünyasında bir sayısal koda karşılık gelir.
+Yapay zekânın dili işlemek için kullandığı en temel parçacıklardır. Bir kelime, hece veya noktalama işareti modelin dünyasında bir sayısal koda karşılık gelir.
 
 *Şöyle düşünün: Bir kitabı okurken harfleri değil de kelimeleri veya heceleri birer tuğla gibi üst üste dizerek anlamlı bir duvar inşa etmek gibidir.*
 
@@ -40384,9 +40384,9 @@ Modern yazılım mimarisinde bu sorunu aşmak için alana dayalı tasarım (DDD)
 
 *Bir mutfak düşünün: Fırın ve ocak uygulamanın ana mimarisidir (framework). Mutfak çekmecesindeki tirbüşon, sarımsak ezici veya soyacak ise utility araçlarıdır. Tek başlarına bir ziyafet hazırlayamazlar; ancak onlar olmadan aşçının işi katbekat zorlaşır ve zaman kaybedilir.*
 
-## Yapay zeka ve oyun geliştirmede: Utility AI
+## Yapay zekâ ve oyun geliştirmede: Utility AI
 
-Oyun geliştirme ve yapay zeka alanında "Utility AI", karar verme mekanizmalarında kullanılan matematiksel bir modeldir. Klasik sonlu durum makineleri (FSM) veya davranış ağaçları (Behavior Trees) yerine; her olası eyleme mevcut durum parametrelerine göre bir fayda puanı (utility score) atanır ve karakter en yüksek faydayı sağlayan eylemi seçer.
+Oyun geliştirme ve yapay zekâ alanında "Utility AI", karar verme mekanizmalarında kullanılan matematiksel bir modeldir. Klasik sonlu durum makineleri (FSM) veya davranış ağaçları (Behavior Trees) yerine; her olası eyleme mevcut durum parametrelerine göre bir fayda puanı (utility score) atanır ve karakter en yüksek faydayı sağlayan eylemi seçer.
 
 ## Sıkça sorulanlar
 
@@ -40710,7 +40710,7 @@ Teknik ayrıntılara girmeden, sadece ne istediğinizi tarif ederek yapay zekâ 
 
 ## Tanım
 
-Yazılım geliştirme sürecinde karmaşık kod satırlarıyla uğraşmak yerine, yapay zekaya doğal dilde komutlar vererek uygulama geliştirme yöntemidir. Bu yaklaşım, geliştiricinin teknik detaylardan ziyade ürünün hissiyatına ve işlevine odaklanmasını sağlar. Kodun nasıl yazıldığı değil, sonucun ne olduğu ön plandadır.
+Yazılım geliştirme sürecinde karmaşık kod satırlarıyla uğraşmak yerine, yapay zekâya doğal dilde komutlar vererek uygulama geliştirme yöntemidir. Bu yaklaşım, geliştiricinin teknik detaylardan ziyade ürünün hissiyatına ve işlevine odaklanmasını sağlar. Kodun nasıl yazıldığı değil, sonucun ne olduğu ön plandadır.
 
 *Bir restoranda mutfağa girip yemek yapmayı öğrenmek yerine, şefe sadece ne yemek istediğinizi tarif edip sonucu beklemeniz gibidir.*
 
@@ -41087,7 +41087,7 @@ Belirli bir kişinin sesini taklit ederek yeni cümleler kuran yapay zekâ tekno
 
 Voice Cloning (Ses Klonlama), belirli bir kişinin sesini örnek olarak alıp, o kişinin hiç söylemediği cümleleri sanki o söylemiş gibi üreten bir yapay zekâ teknolojisidir. Bu teknoloji, kişiselleştirilmiş ses deneyimleri yaratmak için kullanılır.
 
-*Şöyle düşünün: Bir ressamın birinin yüzünü sadece birkaç fotoğrafa bakarak mükemmel şekilde çizebilmesi gibi, yapay zekanın da bir sesin tınısını kopyalamasıdır.*
+*Şöyle düşünün: Bir ressamın birinin yüzünü sadece birkaç fotoğrafa bakarak mükemmel şekilde çizebilmesi gibi, yapay zekânın da bir sesin tınısını kopyalamasıdır.*
 
 ## Nasıl çalışır?
 
@@ -42576,13 +42576,13 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın fiziksel dünyanın nasıl işlediğini anlamasını sağlayan sistemdir.
+Yapay zekânın fiziksel dünyanın nasıl işlediğini anlamasını sağlayan sistemdir.
 
 ## Tanım
 
-Dünya modeli, yapay zekanın sadece metinleri değil, fiziksel dünyanın kurallarını ve neden-sonuç ilişkilerini kavramasını sağlayan bir yapıdır. Bu sistem, gelecekte ne olabileceğine dair tahminler yürüterek yapay zekanın daha gerçekçi kararlar almasına yardımcı olur.
+Dünya modeli, yapay zekânın sadece metinleri değil, fiziksel dünyanın kurallarını ve neden-sonuç ilişkilerini kavramasını sağlayan bir yapıdır. Bu sistem, gelecekte ne olabileceğine dair tahminler yürüterek yapay zekânın daha gerçekçi kararlar almasına yardımcı olur.
 
-*Şöyle düşünün: Bir çocuğun oyuncağını yere bıraktığında düşeceğini bilmesi gibi, yapay zekanın da fiziksel dünyanın temel işleyişini öğrenmesidir.*
+*Şöyle düşünün: Bir çocuğun oyuncağını yere bıraktığında düşeceğini bilmesi gibi, yapay zekânın da fiziksel dünyanın temel işleyişini öğrenmesidir.*
 
 ## Nasıl çalışır?
 
@@ -42600,7 +42600,7 @@ Sadece bir veri tabanı veya basit bir tahmin algoritması ile karıştırılmam
 
 **Dünya modeli neden önemlidir?**
 
-Yapay zekanın gerçek dünyada daha güvenli ve öngörülü hareket etmesini sağlar.
+Yapay zekânın gerçek dünyada daha güvenli ve öngörülü hareket etmesini sağlar.
 
 **Her yapay zekâ bir dünya modeline sahip midir?**
 
@@ -42778,11 +42778,11 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın hiç eğitim almadığı bir konuyu tahmin etme yeteneğidir.
+Yapay zekânın hiç eğitim almadığı bir konuyu tahmin etme yeteneğidir.
 
 ## Tanım
 
-Sıfır örnekli öğrenme, yapay zekanın daha önce hiç eğitim almadığı veya örnek görmediği bir konuda tahmin yapabilme yeteneğidir. Model, sahip olduğu genel dünya bilgisi sayesinde hiç görmediği bir görevi mantık yürüterek çözer.
+Sıfır örnekli öğrenme, yapay zekânın daha önce hiç eğitim almadığı veya örnek görmediği bir konuda tahmin yapabilme yeteneğidir. Model, sahip olduğu genel dünya bilgisi sayesinde hiç görmediği bir görevi mantık yürüterek çözer.
 
 *Şöyle düşünün: Hiç görmediğiniz bir yabancı dildeki kelimeyi, cümlenin gelişinden tahmin etmeye çalışmak gibidir.*
 
@@ -77882,7 +77882,7 @@ NVIDIA Model Optimizer, derin öğrenme modellerini nicemleme (quantization), da
 
 - nicemleme ve budama ile hizli calisma
 - model boyutunu kucultme
-- yapay zeka ekosistemleriyle uyumlu export
+- yapay zekâ ekosistemleriyle uyumlu export
 
 ## Kurulum
 

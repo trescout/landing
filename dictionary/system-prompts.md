@@ -2,7 +2,7 @@
 
 *Yapay Zekâ · Son güncelleme: 10 Haziran 2026*
 
-Yapay zekanın nasıl davranacağını ve hangi kurallara uyacağını belirleyen temel talimatlar bütünüdür.
+Yapay zekânın nasıl davranacağını ve hangi kurallara uyacağını belirleyen temel talimatlar bütünüdür.
 
 ## Tanım
 

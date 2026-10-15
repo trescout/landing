@@ -2,11 +2,11 @@
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın hiç eğitim almadığı bir konuyu tahmin etme yeteneğidir.
+Yapay zekânın hiç eğitim almadığı bir konuyu tahmin etme yeteneğidir.
 
 ## Tanım
 
-Sıfır örnekli öğrenme, yapay zekanın daha önce hiç eğitim almadığı veya örnek görmediği bir konuda tahmin yapabilme yeteneğidir. Model, sahip olduğu genel dünya bilgisi sayesinde hiç görmediği bir görevi mantık yürüterek çözer.
+Sıfır örnekli öğrenme, yapay zekânın daha önce hiç eğitim almadığı veya örnek görmediği bir konuda tahmin yapabilme yeteneğidir. Model, sahip olduğu genel dünya bilgisi sayesinde hiç görmediği bir görevi mantık yürüterek çözer.
 
 *Şöyle düşünün: Hiç görmediğiniz bir yabancı dildeki kelimeyi, cümlenin gelişinden tahmin etmeye çalışmak gibidir.*
 

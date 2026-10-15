@@ -13,7 +13,7 @@ NVIDIA Model Optimizer, derin öğrenme modellerini nicemleme (quantization), da
 
 - nicemleme ve budama ile hizli calisma
 - model boyutunu kucultme
-- yapay zeka ekosistemleriyle uyumlu export
+- yapay zekâ ekosistemleriyle uyumlu export
 
 ## Kurulum
 

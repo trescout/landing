@@ -8,13 +8,13 @@ Yapay zekâ modellerinin farklı veri kaynaklarıyla ve araçlarla güvenli bir 
 
 ## Tanım
 
-Farklı yapay zekâ uygulamalarının, veritabanları veya yerel dosyalar gibi dış kaynaklara erişirken kullandığı ortak bir iletişim protokolüdür. Bu protokol sayesinde, bir yapay zekâ modeli her farklı araç için özel bir kod yazmanıza gerek kalmadan, standart bir yöntemle veri alıp verebilir. Yani yapay zekanızın farklı kaynaklara bağlanması için gereken evrensel bir fiş veya priz sistemi gibi düşünebilirsiniz.
+Farklı yapay zekâ uygulamalarının, veritabanları veya yerel dosyalar gibi dış kaynaklara erişirken kullandığı ortak bir iletişim protokolüdür. Bu protokol sayesinde, bir yapay zekâ modeli her farklı araç için özel bir kod yazmanıza gerek kalmadan, standart bir yöntemle veri alıp verebilir. Yani yapay zekânızın farklı kaynaklara bağlanması için gereken evrensel bir fiş veya priz sistemi gibi düşünebilirsiniz.
 
-*Farklı ülkelerden gelen insanların ortak bir dil olan İngilizceyi kullanarak birbirini anlaması gibidir; MCP de yapay zekanın veritabanlarıyla konuşurken kullandığı ortak bir dildir.*
+*Farklı ülkelerden gelen insanların ortak bir dil olan İngilizceyi kullanarak birbirini anlaması gibidir; MCP de yapay zekânın veritabanlarıyla konuşurken kullandığı ortak bir dildir.*
 
 ## Nasıl çalışır?
 
-Geliştiriciler, uygulamalarına MCP sunucuları ekleyerek yapay zekanın bu kaynaklara erişmesini sağlar. Ardından yapay zekâ, bu protokolü kullanarak veriyi çeker veya ilgili işlemi gerçekleştirir. Siz sadece hangi veriye erişmek istediğinizi belirtirsiniz, gerisini protokol halleder.
+Geliştiriciler, uygulamalarına MCP sunucuları ekleyerek yapay zekânın bu kaynaklara erişmesini sağlar. Ardından yapay zekâ, bu protokolü kullanarak veriyi çeker veya ilgili işlemi gerçekleştirir. Siz sadece hangi veriye erişmek istediğinizi belirtirsiniz, gerisini protokol halleder.
 
 ## Nerede kullanılır?
 
@@ -32,7 +32,7 @@ Her uygulama için ayrı ayrı bağlantı yöntemleri geliştirmek yerine, tek b
 
 **MCP kullanmak için yazılımcı olmam gerekir mi?**
 
-Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan sonra yapay zekanızın yeteneklerini artırmak için standart bir yöntem sunar.
+Kurulum aşamasında biraz teknik bilgi gerekebilir ancak sistem kurulduktan sonra yapay zekânızın yeteneklerini artırmak için standart bir yöntem sunar.
 
 ## İlgili terimler
 

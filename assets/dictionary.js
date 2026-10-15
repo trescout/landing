@@ -39,12 +39,19 @@
     if (matches.length) random.href = matches[Math.floor(Math.random() * matches.length)].href;
   });
 
+  // Arama aksan ve şapkaya duyarsız (2026-10-15): "yapay zeka" yazan "yapay zekâ"yı,
+  // "gelistirme" yazan "geliştirme"yi bulsun. Önce yalnız toLowerCase vardı · şapkalı
+  // yazılan binlerce kayıt klavyeden aranamıyordu.
+  function katla(s) {
+    return String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ı/g, 'i');
+  }
+
   function apply() {
-    var q = state.q.toLowerCase().trim();
+    var q = katla(state.q).trim();
     var shown = 0;
     matches = cards.filter(function (c) {
       var okCat = !state.cat || c.getAttribute('data-cat') === state.cat;
-      var hay = (c.getAttribute('data-search') || '').toLowerCase();
+      var hay = katla(c.getAttribute('data-search'));
       var okQ = !q || hay.indexOf(q) >= 0;
       return okCat && okQ;
     });

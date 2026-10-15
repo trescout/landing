@@ -44,7 +44,7 @@ Sağlam bir QA mimarisi Mike Cohn'un Test Piramidi prensibine dayanır:
 
 *Hata ayıklamak (debugging) ameliyat masasında müdahale etmek, yazılım testi yapmak ise laboratuvar tahlili almaktır. QA ise toplum sağlığı ve koruyucu hekimlik protokolüdür: Sağlıklı beslenme rehberleri, aşı takvimleri ve hijyen kuralları koyarak hastalanma riskini baştan yok etmeyi hedefler.*
 
-## Yapay zeka ve LLM çağında QA
+## Yapay zekâ ve LLM çağında QA
 
 Büyük dil modelleri (LLM) gibi olasılıksal (non-deterministic) sistemlerin yaygınlaşmasıyla QA disiplini yeni bir evreye girmiştir:
 
@@ -52,7 +52,7 @@ Büyük dil modelleri (LLM) gibi olasılıksal (non-deterministic) sistemlerin y
 
 **Semantik Regresyon Testleri:** Prompt şablonlarında yapılan bir değişikliğin önceki yanıt kalitesini bozup bozmadığını ölçen kıyaslama kümeleri (benchmarks).
 
-**Yapay Zeka Destekli Test Üretimi:** Test senaryolarının ve görsel arayüz regresyon farklarının yapay zeka modelleriyle otomatik tespiti.
+**Yapay zekâ Destekli Test Üretimi:** Test senaryolarının ve görsel arayüz regresyon farklarının yapay zekâ modelleriyle otomatik tespiti.
 
 ## Sıkça sorulanlar
 
@@ -68,7 +68,7 @@ Test ve QC mevcut koddaki hataları bulmaya odaklanan reaktif adımlardır. QA i
 
 Shift-Left test süreçlerini geliştirmenin en başına (kod yazım anına) çekmeyi; Shift-Right ise canlı ortamdaki sistem sağlığını ve kullanıcı davranışlarını anlık izlemeyi ifade eder.
 
-**Yapay zeka ve LLM tabanlı uygulamalarda QA nasıl yapılır?**
+**Yapay zekâ ve LLM tabanlı uygulamalarda QA nasıl yapılır?**
 
 Geleneksel testlerin yanı sıra halüsinasyon oranları, semantik benzerlik, prompt regresyonu ve RAG doğruluk metriklerini ölçen özel değerlendirme (evals) çerçeveleri kullanılır.
 

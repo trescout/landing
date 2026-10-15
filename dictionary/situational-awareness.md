@@ -6,7 +6,7 @@ Bir sistemin çevresindeki olayları anlık olarak algılayıp durumu doğru yor
 
 ## Tanım
 
-Durumsal farkındalık, bir yapay zekanın veya insanın çevresinde olup bitenleri sadece görmesi değil, bu bilgilerin ne anlama geldiğini anlamasıdır. Sistem, mevcut verileri analiz ederek gelecekte ne olabileceğini tahmin eder ve buna göre aksiyon alır. Bu yetenek, özellikle otonom sistemlerin güvenli çalışması için kritiktir.
+Durumsal farkındalık, bir yapay zekânın veya insanın çevresinde olup bitenleri sadece görmesi değil, bu bilgilerin ne anlama geldiğini anlamasıdır. Sistem, mevcut verileri analiz ederek gelecekte ne olabileceğini tahmin eder ve buna göre aksiyon alır. Bu yetenek, özellikle otonom sistemlerin güvenli çalışması için kritiktir.
 
 *Araba kullanırken sadece yolu değil, yayaları, diğer araçları ve trafik ışıklarını da hesaba katarak güvenli bir sürüş yapmaya çalışmanız gibidir.*
 
@@ -30,7 +30,7 @@ Sadece veri toplama ile karıştırılmamalıdır; farkındalık, veriyi anlamla
 
 **İnsanlardaki farkındalıktan farkı nedir?**
 
-İnsanlar sezgiseldir, yapay zekalar ise tamamen matematiksel hesaplamalara ve sensör verilerine dayanır.
+İnsanlar sezgiseldir, yapay zekâlar ise tamamen matematiksel hesaplamalara ve sensör verilerine dayanır.
 
 ## İlgili terimler
 

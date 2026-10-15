@@ -6,7 +6,7 @@ Metin, ses, görsel ve video gibi farklı veri türlerini aynı anda işleyebile
 
 ## Tanım
 
-Multimodal, yapay zekanın metin, ses, görüntü ve video gibi farklı veri türlerini aynı anda işleyebilme ve bunlar arasında bağlantı kurabilme yeteneğidir. Model, sadece okumakla kalmaz, aynı zamanda görebilir ve duyabilir.
+Multimodal, yapay zekânın metin, ses, görüntü ve video gibi farklı veri türlerini aynı anda işleyebilme ve bunlar arasında bağlantı kurabilme yeteneğidir. Model, sadece okumakla kalmaz, aynı zamanda görebilir ve duyabilir.
 
 *Şöyle düşünün: Sadece okuyarak öğrenen birinden ziyade, hem okuyan hem izleyen hem de dinleyerek dünyayı algılayan bir insan gibidir.*
 

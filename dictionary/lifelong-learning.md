@@ -2,7 +2,7 @@
 
 *Yapay Zekâ · Son güncelleme: 16 Temmuz 2026*
 
-Yapay zekanın eski bilgilerini kaybetmeden yeni verilerle sürekli öğrenme yeteneği.
+Yapay zekânın eski bilgilerini kaybetmeden yeni verilerle sürekli öğrenme yeteneği.
 
 ## Tanım
 

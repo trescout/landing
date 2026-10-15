@@ -16,7 +16,7 @@ Veri önce toplanır, hatalı kısımlar temizlenir, ihtiyaç duyulan formatta d
 
 ## Nerede kullanılır?
 
-Yapay zekayı eğitmek için büyük miktarda verinin hazırlanmasında veya günlük satış raporlarının oluşturulmasında kullanılır.
+Yapay zekâyı eğitmek için büyük miktarda verinin hazırlanmasında veya günlük satış raporlarının oluşturulmasında kullanılır.
 
 ## Sık karıştırılanlar
 

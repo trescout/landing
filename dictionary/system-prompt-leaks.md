@@ -2,7 +2,7 @@
 
 *Yapay Zekâ · Son güncelleme: 8 Temmuz 2026*
 
-Yapay zekanın gizli talimatlarının kullanıcı tarafından ortaya çıkarılmasıdır.
+Yapay zekânın gizli talimatlarının kullanıcı tarafından ortaya çıkarılmasıdır.
 
 ## Tanım
 

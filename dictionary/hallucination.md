@@ -2,7 +2,7 @@
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın gerçekte olmayan bilgileri sanki doğruymuş gibi sunmasıdır.
+Yapay zekânın gerçekte olmayan bilgileri sanki doğruymuş gibi sunmasıdır.
 
 ## Tanım
 
@@ -20,11 +20,11 @@ Model, eğitim verileri arasında kurduğu bağlantılar zayıf olduğunda veya 
 
 ## Sık karıştırılanlar
 
-Yalan söylemekle karıştırılır, ancak yapay zekanın bir niyeti veya bilinci yoktur; sadece olasılıkları takip eder.
+Yalan söylemekle karıştırılır, ancak yapay zekânın bir niyeti veya bilinci yoktur; sadece olasılıkları takip eder.
 
 ## Sıkça sorulanlar
 
-**Yapay zekanın uydurmasını nasıl engellerim?**
+**Yapay zekânın uydurmasını nasıl engellerim?**
 
 Ona 'bilmiyorsan bilmiyorum de' talimatı vererek veya RAG gibi yöntemlerle dış kaynaklara başvurmasını sağlayarak.
 

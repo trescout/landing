@@ -6,7 +6,7 @@ Bir konuyu öğrenirken pratik yapmanızı sağlayan düzenlenmiş alıştırma 
 
 ## Tanım
 
-Alıştırma veri seti, belirli bir beceriyi veya konuyu pekiştirmeniz için hazırlanan yapılandırılmış örnekler topluluğudur. Genellikle bir yapay zekayı eğitmek veya bir öğrencinin seviyesini ölçmek için kullanılır. Bu veriler, öğrenme sürecini daha verimli hale getirmek için özel olarak seçilir.
+Alıştırma veri seti, belirli bir beceriyi veya konuyu pekiştirmeniz için hazırlanan yapılandırılmış örnekler topluluğudur. Genellikle bir yapay zekâyı eğitmek veya bir öğrencinin seviyesini ölçmek için kullanılır. Bu veriler, öğrenme sürecini daha verimli hale getirmek için özel olarak seçilir.
 
 *Bir yabancı dil öğrenirken çözdüğünüz test kitapçığı gibidir; her soru, öğrendiğiniz bilgiyi gerçek hayatta nasıl kullanacağınızı görmenizi sağlar.*
 

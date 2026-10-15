@@ -48,9 +48,9 @@ Modern yazılım mimarisinde bu sorunu aşmak için alana dayalı tasarım (DDD)
 
 *Bir mutfak düşünün: Fırın ve ocak uygulamanın ana mimarisidir (framework). Mutfak çekmecesindeki tirbüşon, sarımsak ezici veya soyacak ise utility araçlarıdır. Tek başlarına bir ziyafet hazırlayamazlar; ancak onlar olmadan aşçının işi katbekat zorlaşır ve zaman kaybedilir.*
 
-## Yapay zeka ve oyun geliştirmede: Utility AI
+## Yapay zekâ ve oyun geliştirmede: Utility AI
 
-Oyun geliştirme ve yapay zeka alanında "Utility AI", karar verme mekanizmalarında kullanılan matematiksel bir modeldir. Klasik sonlu durum makineleri (FSM) veya davranış ağaçları (Behavior Trees) yerine; her olası eyleme mevcut durum parametrelerine göre bir fayda puanı (utility score) atanır ve karakter en yüksek faydayı sağlayan eylemi seçer.
+Oyun geliştirme ve yapay zekâ alanında "Utility AI", karar verme mekanizmalarında kullanılan matematiksel bir modeldir. Klasik sonlu durum makineleri (FSM) veya davranış ağaçları (Behavior Trees) yerine; her olası eyleme mevcut durum parametrelerine göre bir fayda puanı (utility score) atanır ve karakter en yüksek faydayı sağlayan eylemi seçer.
 
 ## Sıkça sorulanlar
 

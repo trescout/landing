@@ -2,17 +2,17 @@
 
 *Yapay Zekâ · Son güncelleme: 9 Haziran 2026*
 
-Yapay zekanın sadece sağlanan kaynak belgelere sadık kalarak oluşturduğu, uydurma içermeyen özetleme yöntemidir.
+Yapay zekânın sadece sağlanan kaynak belgelere sadık kalarak oluşturduğu, uydurma içermeyen özetleme yöntemidir.
 
 ## Tanım
 
-Grounded summary, yapay zekanın kendi genel bilgi dağarcığı yerine, kullanıcının verdiği dokümanlar üzerindeki bilgilere odaklanarak özet çıkarmasıdır. Bu yöntem, modelin hayal gücünü veya yanlış bilgileri (halüsinasyon) devre dışı bırakarak güvenilir sonuçlar üretmesini sağlar. Özellikle hukuki veya teknik metinlerde doğruluk payını artırmak için kullanılır.
+Grounded summary, yapay zekânın kendi genel bilgi dağarcığı yerine, kullanıcının verdiği dokümanlar üzerindeki bilgilere odaklanarak özet çıkarmasıdır. Bu yöntem, modelin hayal gücünü veya yanlış bilgileri (halüsinasyon) devre dışı bırakarak güvenilir sonuçlar üretmesini sağlar. Özellikle hukuki veya teknik metinlerde doğruluk payını artırmak için kullanılır.
 
 *Bir öğrencinin sınavda sadece önündeki kitaba bakarak cevap vermesi gibidir; dışarıdan bilgi katmadan sadece kaynakta ne yazıyorsa onu aktarır.*
 
 ## Nasıl çalışır?
 
-Önce özetlenecek metinler sisteme yüklenir ve yapay zekaya bu metinlerin dışına çıkmaması talimatı verilir. Sistem, metindeki anahtar noktaları belirleyip bunları kaynakla eşleştirerek tutarlı bir özet oluşturur.
+Önce özetlenecek metinler sisteme yüklenir ve yapay zekâya bu metinlerin dışına çıkmaması talimatı verilir. Sistem, metindeki anahtar noktaları belirleyip bunları kaynakla eşleştirerek tutarlı bir özet oluşturur.
 
 ## Nerede kullanılır?
 
@@ -26,7 +26,7 @@ Hallucination ile karıştırılabilir; grounded summary aslında halüsinasyonu
 
 **Grounded summary neden önemlidir?**
 
-Yapay zekanın uydurma bilgi vermesini engeller ve verilen kaynağa bağlı kalmasını sağlar.
+Yapay zekânın uydurma bilgi vermesini engeller ve verilen kaynağa bağlı kalmasını sağlar.
 
 **Her zaman doğru sonuç verir mi?**
 

@@ -2,11 +2,11 @@
 
 *Yapay Zekâ · Son güncelleme: 18 Temmuz 2026*
 
-Yapay zekanın tıpkı bir insan gibi ekranı görüp fare ve klavye kullanarak bilgisayarı yönetebilme yeteneğidir.
+Yapay zekânın tıpkı bir insan gibi ekranı görüp fare ve klavye kullanarak bilgisayarı yönetebilme yeteneğidir.
 
 ## Tanım
 
-Bu teknoloji, yapay zekanın sadece metin yazmakla kalmayıp, bir kullanıcı gibi bilgisayar arayüzüyle etkileşime girmesini sağlar. Yapay zekâ ekrandaki pencereleri, butonları ve menüleri algılar; ardından tıklama, yazma veya sürükleme gibi işlemleri gerçekleştirir. Bu sayede karmaşık yazılım süreçlerini otomatize etmek mümkün hale gelir.
+Bu teknoloji, yapay zekânın sadece metin yazmakla kalmayıp, bir kullanıcı gibi bilgisayar arayüzüyle etkileşime girmesini sağlar. Yapay zekâ ekrandaki pencereleri, butonları ve menüleri algılar; ardından tıklama, yazma veya sürükleme gibi işlemleri gerçekleştirir. Bu sayede karmaşık yazılım süreçlerini otomatize etmek mümkün hale gelir.
 
 *Sanki bilgisayarın başına bir yardımcı oturmuş ve sizin yerinize fareyi tutup klavyeye basarak işleri hallediyormuş gibi düşünebilirsiniz.*
 
@@ -26,7 +26,7 @@ AI Agent kavramı ile çok yakındır ancak Computer Use, özellikle ekran aray�
 
 **Bu özellik güvenli mi?**
 
-Yapay zekaya hangi işlemlere izin verdiğinizi kontrol edebildiğiniz sürece güvenlidir, ancak kritik işlemlerde insan onayı her zaman önerilir.
+Yapay zekâya hangi işlemlere izin verdiğinizi kontrol edebildiğiniz sürece güvenlidir, ancak kritik işlemlerde insan onayı her zaman önerilir.
 
 ## İlgili terimler
 
