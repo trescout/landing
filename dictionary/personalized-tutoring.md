@@ -6,7 +6,7 @@
 
 ## Tanım
 
-Kişiselleştirilmiş eğitim, yapay zekanın öğrencinin nerede zorlandığını tespit edip müfredatı ona göre şekillendirmesidir. Standart bir sınıf anlatımından farklı olarak, öğrenci bir konuyu anlamadıysa sistem konuyu basitleştirir veya farklı örneklerle anlatır. Bu sayede öğrenme süreci tamamen kişiye özel bir tempoda ilerler.
+Kişiselleştirilmiş eğitim, yapay zekânın öğrencinin nerede zorlandığını tespit edip müfredatı ona göre şekillendirmesidir. Standart bir sınıf anlatımından farklı olarak, öğrenci bir konuyu anlamadıysa sistem konuyu basitleştirir veya farklı örneklerle anlatır. Bu sayede öğrenme süreci tamamen kişiye özel bir tempoda ilerler.
 
 *Sınıfta 30 kişiye aynı anda ders anlatan bir öğretmen yerine, sadece sizinle ilgilenen ve anlamadığınız yerleri farklı yollarla tekrar eden özel bir hoca gibidir.*
 

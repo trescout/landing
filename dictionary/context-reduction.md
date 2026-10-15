@@ -2,7 +2,7 @@
 
 *Yapay Zekâ · Son güncelleme: 18 Temmuz 2026*
 
-Yapay zekaya verilen devasa bilgiyi, modelin daha hızlı ve doğru çalışması için gereksiz detaylardan arındırıp özetleme işlemidir.
+Yapay zekâya verilen devasa bilgiyi, modelin daha hızlı ve doğru çalışması için gereksiz detaylardan arındırıp özetleme işlemidir.
 
 ## Tanım
 

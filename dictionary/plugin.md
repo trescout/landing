@@ -40,9 +40,9 @@ Yazılım ekosisteminde bu terimler sıklıkla birbirinin yerine kullanılsa da 
 
 **Mod:** Oyun dünyasında (özellikle Minecraft gibi) oyun mekaniklerini, grafiklerini ve mantığını değiştiren kullanıcı yapımı eklentilerdir.
 
-## Yapay zeka çağında eklentiler ve Model Context Protocol (MCP)
+## Yapay zekâ çağında eklentiler ve Model Context Protocol (MCP)
 
-Yapay zeka devrimiyle birlikte eklenti mimarisi yepyeni bir boyut kazanmıştır. Büyük dil modelleri (LLM) kapalı birer bilgi deposu olmaktan çıkıp, eklentiler ve "Araç Çağırma" (Tool/Function Calling) mekanizmaları sayesinde web'de arama yapabilen, veritabanı sorgulayabilen ve API'ler üzerinden eyleme geçebilen otonom ajanlara dönüşmüştür. Anthropic'in geliştirdiği **Model Context Protocol (MCP)**, LLM'lerin farklı veri kaynaklarına ve araçlara standart bir eklenti protokolüyle bağlanmasını sağlayarak modern eklenti mimarisinin en güncel örneğini oluşturmaktadır.
+Yapay zekâ devrimiyle birlikte eklenti mimarisi yepyeni bir boyut kazanmıştır. Büyük dil modelleri (LLM) kapalı birer bilgi deposu olmaktan çıkıp, eklentiler ve "Araç Çağırma" (Tool/Function Calling) mekanizmaları sayesinde web'de arama yapabilen, veritabanı sorgulayabilen ve API'ler üzerinden eyleme geçebilen otonom ajanlara dönüşmüştür. Anthropic'in geliştirdiği **Model Context Protocol (MCP)**, LLM'lerin farklı veri kaynaklarına ve araçlara standart bir eklenti protokolüyle bağlanmasını sağlayarak modern eklenti mimarisinin en güncel örneğini oluşturmaktadır.
 
 *Bir müzisyenin elektro gitar amfisini düşünün: Amfinin kendisi temel ses yükseltme görevini üstlenir (çekirdek). Müzisyen amfi ile gitar arasına distortion, chorus veya delay pedalları takarak (plugin) amfinin devrelerine hiç dokunmadan sınırsız sayıda yeni ses tonu elde edebilir.*
 
@@ -62,7 +62,7 @@ Plugin terimi daha çok uygulamanın çekirdek yeteneklerini ve veri motorunu ge
 
 **Model Context Protocol (MCP) eklenti midir?**
 
-MCP, yapay zeka modellerinin harici araçlar, veritabanları ve servislerle konuşmasını standartlaştıran açık bir eklenti protokolüdür.
+MCP, yapay zekâ modellerinin harici araçlar, veritabanları ve servislerle konuşmasını standartlaştıran açık bir eklenti protokolüdür.
 
 ## İlgili terimler
 

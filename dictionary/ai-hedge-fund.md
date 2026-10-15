@@ -20,7 +20,7 @@ Finansal piyasalarda, borsa işlemlerinde ve büyük ölçekli varlık yönetim 
 
 ## Sık karıştırılanlar
 
-Algoritmik ticaretten (algorithmic trading) farkı, yapay zekanın sadece kural takip etmeyip, veriden öğrenerek kendi stratejisini geliştirebilmesidir.
+Algoritmik ticaretten (algorithmic trading) farkı, yapay zekânın sadece kural takip etmeyip, veriden öğrenerek kendi stratejisini geliştirebilmesidir.
 
 ## Sıkça sorulanlar
 

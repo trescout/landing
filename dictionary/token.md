@@ -2,11 +2,11 @@
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın metinleri işlemek için kullandığı en küçük anlam birimidir.
+Yapay zekânın metinleri işlemek için kullandığı en küçük anlam birimidir.
 
 ## Tanım
 
-Yapay zekanın dili işlemek için kullandığı en temel parçacıklardır. Bir kelime, hece veya noktalama işareti modelin dünyasında bir sayısal koda karşılık gelir.
+Yapay zekânın dili işlemek için kullandığı en temel parçacıklardır. Bir kelime, hece veya noktalama işareti modelin dünyasında bir sayısal koda karşılık gelir.
 
 *Şöyle düşünün: Bir kitabı okurken harfleri değil de kelimeleri veya heceleri birer tuğla gibi üst üste dizerek anlamlı bir duvar inşa etmek gibidir.*
 

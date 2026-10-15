@@ -6,7 +6,7 @@ Bir yapay zekâ sisteminin yeni verilerle karşılaştıkça bilgilerini unutmad
 
 ## Tanım
 
-Sürekli öğrenme, yapay zekanın durağan kalmayıp dünyadaki değişimlere ayak uydurmasını sağlar. Normalde bir model eğitilir ve öyle kalır, ancak sürekli öğrenen modeller yeni deneyimlerden ders çıkararak performanslarını artırır. Bu, sistemin zamanla daha akıllı ve uyumlu hale gelmesini sağlar.
+Sürekli öğrenme, yapay zekânın durağan kalmayıp dünyadaki değişimlere ayak uydurmasını sağlar. Normalde bir model eğitilir ve öyle kalır, ancak sürekli öğrenen modeller yeni deneyimlerden ders çıkararak performanslarını artırır. Bu, sistemin zamanla daha akıllı ve uyumlu hale gelmesini sağlar.
 
 *Okuldan mezun olup bilgiyi donduran bir öğrenci yerine, hayat boyu okumaya ve yeni şeyler öğrenmeye devam eden bir uzman gibidir.*
 

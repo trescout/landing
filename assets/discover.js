@@ -120,12 +120,19 @@
       '</div></a>';
   }
 
+  // Arama aksan ve şapkaya duyarsız (2026-10-15): "yapay zeka" yazan "yapay zekâ"yı,
+  // "gelistirme" yazan "geliştirme"yi bulsun. Önce yalnız toLowerCase vardı · şapkalı
+  // yazılan binlerce kayıt klavyeden aranamıyordu.
+  function katla(s) {
+    return String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ı/g, 'i');
+  }
+
   function render() {
-    var q = state.q.toLowerCase().trim();
+    var q = katla(state.q).trim();
     var list = items.filter(function (it) {
       if (state.tag && (it.tags || []).indexOf(state.tag) < 0) return false;
       if (q) {
-        var hay = ((it.title || '') + ' ' + (tanitim(it) || '')).toLowerCase();
+        var hay = katla((it.title || '') + ' ' + (tanitim(it) || ''));
         if (hay.indexOf(q) < 0) return false;
       }
       return true;

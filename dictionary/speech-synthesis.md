@@ -2,13 +2,13 @@
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın yazılı metinleri insan sesine dönüştürme teknolojisidir.
+Yapay zekânın yazılı metinleri insan sesine dönüştürme teknolojisidir.
 
 ## Tanım
 
 Speech Synthesis (Konuşma Sentezi), yazılı metinlerin yapay zekâ yardımıyla yapay ses dalgalarına dönüştürülmesini ifade eden genel teknik terimdir. Metinden Sese teknolojisinin bilimsel ve teknik ismidir.
 
-*Şöyle düşünün: Bir müzisyenin notalara bakarak enstrümanıyla ses üretmesi gibi, yapay zekanın da metne bakarak ses üretmesidir.*
+*Şöyle düşünün: Bir müzisyenin notalara bakarak enstrümanıyla ses üretmesi gibi, yapay zekânın da metne bakarak ses üretmesidir.*
 
 ## Nasıl çalışır?
 

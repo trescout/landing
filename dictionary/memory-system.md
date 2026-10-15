@@ -2,11 +2,11 @@
 
 *Yapay Zekâ · Son güncelleme: 9 Haziran 2026*
 
-Yapay zekanın geçmiş etkileşimleri, kullanıcı tercihlerini ve verileri hatırlamasını sağlayan depolama mimarisidir.
+Yapay zekânın geçmiş etkileşimleri, kullanıcı tercihlerini ve verileri hatırlamasını sağlayan depolama mimarisidir.
 
 ## Tanım
 
-Memory system, yapay zekanın sadece o anki konuşmaya değil, geçmişteki bilgilere de erişmesini sağlar. Bu sistem sayesinde yapay zekâ, sizin kim olduğunuzu veya daha önce ne konuştuğunuzu unutmaz. Bu, kişiselleştirilmiş ve sürekliliği olan bir kullanıcı deneyimi için kritik öneme sahiptir.
+Memory system, yapay zekânın sadece o anki konuşmaya değil, geçmişteki bilgilere de erişmesini sağlar. Bu sistem sayesinde yapay zekâ, sizin kim olduğunuzu veya daha önce ne konuştuğunuzu unutmaz. Bu, kişiselleştirilmiş ve sürekliliği olan bir kullanıcı deneyimi için kritik öneme sahiptir.
 
 *Bir insanın günlük tutması gibidir; konuşulanları not alır ve ihtiyaç duyduğunda sayfaları çevirip hatırlar.*
 

@@ -2,17 +2,17 @@
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekadan en iyi sonucu almak için verilen komutları optimize etme sanatıdır.
+Yapay zekâdan en iyi sonucu almak için verilen komutları optimize etme sanatıdır.
 
 ## Tanım
 
-Prompt mühendisliği, yapay zekadan en doğru, yaratıcı veya spesifik yanıtı alabilmek için komutları yapılandırma becerisidir. İyi bir komut, yapay zekanın bağlamı doğru anlamasını ve hedeflenen çıktıyı üretmesini sağlar.
+Prompt mühendisliği, yapay zekâdan en doğru, yaratıcı veya spesifik yanıtı alabilmek için komutları yapılandırma becerisidir. İyi bir komut, yapay zekânın bağlamı doğru anlamasını ve hedeflenen çıktıyı üretmesini sağlar.
 
 *Şöyle düşünün: Bir asistana talimat vermek gibidir. 'Bana bir rapor yaz' demek yerine, 'Sen bir pazarlama uzmanısın, şu verileri kullanarak 300 kelimelik, profesyonel ve ikna edici bir özet yaz' demek çok daha kaliteli bir sonuç verir.*
 
 ## Nasıl çalışır?
 
-Kullanıcı, yapay zekaya bir rol atar, görevi tanımlar, bağlamı açıklar ve istediği formatı belirtir. Bu yapılandırılmış girdi, modelin odaklanmasını sağlar ve hata payını azaltır.
+Kullanıcı, yapay zekâya bir rol atar, görevi tanımlar, bağlamı açıklar ve istediği formatı belirtir. Bu yapılandırılmış girdi, modelin odaklanmasını sağlar ve hata payını azaltır.
 
 ## Nerede kullanılır?
 

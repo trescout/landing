@@ -16,7 +16,7 @@ Kullanıcı bir soru sorar, model bu soruyu kendi içindeki devasa sayısal ağl
 
 ## Nerede kullanılır?
 
-ChatGPT ile sohbet ettiğiniz veya bir yapay zekaya görsel çizdirdiğiniz her an inference süreci gerçekleşir.
+ChatGPT ile sohbet ettiğiniz veya bir yapay zekâya görsel çizdirdiğiniz her an inference süreci gerçekleşir.
 
 ## Sık karıştırılanlar
 

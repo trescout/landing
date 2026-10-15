@@ -6,7 +6,7 @@ Yazılım geliştirme süreçlerini otomatize eden ve bağımsız olarak kod yaz
 
 ## Tanım
 
-Coding agent, bir yazılımcının yaptığı temel işleri üstlenen gelişmiş bir yapay zekadır. Sadece kod yazmakla kalmaz, aynı zamanda mevcut kodlardaki hataları bulur, testleri çalıştırır ve projenin genel mimarisine uygun güncellemeler yapar. İnsan müdahalesine ihtiyaç duymadan karmaşık görevleri uçtan uca tamamlayabilir.
+Coding agent, bir yazılımcının yaptığı temel işleri üstlenen gelişmiş bir yapay zekâdır. Sadece kod yazmakla kalmaz, aynı zamanda mevcut kodlardaki hataları bulur, testleri çalıştırır ve projenin genel mimarisine uygun güncellemeler yapar. İnsan müdahalesine ihtiyaç duymadan karmaşık görevleri uçtan uca tamamlayabilir.
 
 *Sanki yanınızda hiç yorulmayan, milyonlarca satır kod ezberlemiş ve hata yapma payı düşük, çok hızlı bir yazılımcı stajyeriniz varmış gibi düşünebilirsiniz.*
 

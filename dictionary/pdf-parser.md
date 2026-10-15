@@ -30,7 +30,7 @@ Hayır, bazıları sadece düz metin alırken bazıları tabloları ve karmaşı
 
 **Neden RAG sistemleri için önemlidir?**
 
-Çünkü yapay zekaya bir belgeyi okutmadan önce onu düzgünce parçalara ayırmanız gerekir.
+Çünkü yapay zekâya bir belgeyi okutmadan önce onu düzgünce parçalara ayırmanız gerekir.
 
 ## İlgili terimler
 

@@ -6,7 +6,7 @@ Bir sistemin zayıf noktalarını bulmak için kötü niyetli saldırıları tak
 
 ## Tanım
 
-Bu yöntem, bir yazılımın veya yapay zekanın ne kadar dayanıklı olduğunu anlamak için kullanılır. Güvenlik uzmanları, sistemin hata yapmasını veya savunmasını aşmasını sağlamak için kasıtlı olarak hatalı veya yanıltıcı girdiler gönderir. Amaç, sistemin gerçek bir saldırı anında nasıl tepki vereceğini önceden görmektir.
+Bu yöntem, bir yazılımın veya yapay zekânın ne kadar dayanıklı olduğunu anlamak için kullanılır. Güvenlik uzmanları, sistemin hata yapmasını veya savunmasını aşmasını sağlamak için kasıtlı olarak hatalı veya yanıltıcı girdiler gönderir. Amaç, sistemin gerçek bir saldırı anında nasıl tepki vereceğini önceden görmektir.
 
 *Bir kalenin surlarını test etmek için kale muhafızı gibi davranıp gizlice içeri sızmaya çalışmak gibidir.*
 
@@ -28,7 +28,7 @@ Sadece hata ayıklama ile karıştırılmamalıdır; burada odak noktasında kö
 
 Sistemi gerçek saldırganlardan önce test edip açıklarını kapatmak için yapılır.
 
-**Yapay zekada nasıl çalışır?**
+**Yapay zekâda nasıl çalışır?**
 
 Modele onu kandıracak veya etik dışı yanıt vermeye zorlayacak sorular sorarak direnci ölçülür.
 

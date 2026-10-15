@@ -6,7 +6,7 @@ Teknik ayrıntılara girmeden, sadece ne istediğinizi tarif ederek yapay zekâ 
 
 ## Tanım
 
-Yazılım geliştirme sürecinde karmaşık kod satırlarıyla uğraşmak yerine, yapay zekaya doğal dilde komutlar vererek uygulama geliştirme yöntemidir. Bu yaklaşım, geliştiricinin teknik detaylardan ziyade ürünün hissiyatına ve işlevine odaklanmasını sağlar. Kodun nasıl yazıldığı değil, sonucun ne olduğu ön plandadır.
+Yazılım geliştirme sürecinde karmaşık kod satırlarıyla uğraşmak yerine, yapay zekâya doğal dilde komutlar vererek uygulama geliştirme yöntemidir. Bu yaklaşım, geliştiricinin teknik detaylardan ziyade ürünün hissiyatına ve işlevine odaklanmasını sağlar. Kodun nasıl yazıldığı değil, sonucun ne olduğu ön plandadır.
 
 *Bir restoranda mutfağa girip yemek yapmayı öğrenmek yerine, şefe sadece ne yemek istediğinizi tarif edip sonucu beklemeniz gibidir.*
 

@@ -2,11 +2,11 @@
 
 *Yapay Zekâ · Son güncelleme: 4 Temmuz 2026*
 
-Bir yapay zekanın veya yazılımın, kendisine verilen komut üzerine dış dünyada veya sistem içinde yaptığı somut işlemdir.
+Bir yapay zekânın veya yazılımın, kendisine verilen komut üzerine dış dünyada veya sistem içinde yaptığı somut işlemdir.
 
 ## Tanım
 
-Action, bir yapay zekâ modelinin sadece metin üretmekle kalmayıp, bir e-posta göndermek, bir dosyayı silmek veya bir web sitesine veri girmek gibi fiziksel veya dijital bir değişikliğe yol açan adımıdır. Yapay zekayı bir 'düşünür' olmaktan çıkarıp bir 'yapıcı' haline getiren mekanizmadır.
+Action, bir yapay zekâ modelinin sadece metin üretmekle kalmayıp, bir e-posta göndermek, bir dosyayı silmek veya bir web sitesine veri girmek gibi fiziksel veya dijital bir değişikliğe yol açan adımıdır. Yapay zekâyı bir 'düşünür' olmaktan çıkarıp bir 'yapıcı' haline getiren mekanizmadır.
 
 *Bir aşçının sadece yemek tarifi okuması değil, mutfağa girip ocağı yakıp malzemeleri doğramasıdır.*
 

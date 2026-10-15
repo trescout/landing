@@ -22,7 +22,7 @@ Yapay zekâ destekli kod editörlerinde, kurumsal veri analiz araçlarında ve a
 
 ## Sık karıştırılanlar
 
-API ile karıştırılabilir; ancak API genel bir iletişim yöntemiyken, MCP özellikle yapay zekanın bağlam (context) ve veri ihtiyacına odaklanmış, bu iş için özelleşmiş bir standarttır.
+API ile karıştırılabilir; ancak API genel bir iletişim yöntemiyken, MCP özellikle yapay zekânın bağlam (context) ve veri ihtiyacına odaklanmış, bu iş için özelleşmiş bir standarttır.
 
 ## Sıkça sorulanlar
 
@@ -32,7 +32,7 @@ Her uygulama için ayrı ayrı bağlantı kodu yazmak yerine, MCP ile bir kez st
 
 **MCP güvenli mi?**
 
-Evet, MCP veriye erişim yetkilerini kontrol altında tutan bir yapıya sahiptir, böylece yapay zekanın sadece izin verilen verilere erişmesini sağlar.
+Evet, MCP veriye erişim yetkilerini kontrol altında tutan bir yapıya sahiptir, böylece yapay zekânın sadece izin verilen verilere erişmesini sağlar.
 
 ## İlgili terimler
 

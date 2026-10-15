@@ -12,7 +12,7 @@ Sadece komutları yerine getiren değil, bir hedef doğrultusunda kendi planın�
 
 ## Nasıl çalışır?
 
-Geliştiriciler, yapay zekaya bir hedef ve kullanabileceği araçlar tanımlar. Sistem, bu araçları kullanarak adım adım ilerler ve her adımda aldığı sonuçlara göre stratejisini günceller.
+Geliştiriciler, yapay zekâya bir hedef ve kullanabileceği araçlar tanımlar. Sistem, bu araçları kullanarak adım adım ilerler ve her adımda aldığı sonuçlara göre stratejisini günceller.
 
 ## Nerede kullanılır?
 

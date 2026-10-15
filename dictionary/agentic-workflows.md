@@ -12,7 +12,7 @@ Sıradan yapay zekâ modelleri sadece bir soruya cevap verir. Agentic workflow i
 
 ## Nasıl çalışır?
 
-Yapay zekaya hedef verilir, o da kendi içinde alt görevlere bölerek süreci yönetir.
+Yapay zekâya hedef verilir, o da kendi içinde alt görevlere bölerek süreci yönetir.
 
 ## Nerede kullanılır?
 

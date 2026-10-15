@@ -2,11 +2,11 @@
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın tek seferde hatırlayabildiği ve işleyebildiği bilgi kapasitesidir.
+Yapay zekânın tek seferde hatırlayabildiği ve işleyebildiği bilgi kapasitesidir.
 
 ## Tanım
 
-Yapay zekanın tek bir konuşma veya işlem sırasında hafızasında tutabildiği toplam bilgi miktarıdır. Bu sınır, modelin geçmişi ne kadar iyi hatırlayacağını belirler.
+Yapay zekânın tek bir konuşma veya işlem sırasında hafızasında tutabildiği toplam bilgi miktarıdır. Bu sınır, modelin geçmişi ne kadar iyi hatırlayacağını belirler.
 
 *Şöyle düşünün: Bir masanın büyüklüğü gibidir; masaya ne kadar çok kağıt sığdırırsanız, yapay zekâ o kadar çok bilgiyi aynı anda göz önünde bulundurabilir.*
 

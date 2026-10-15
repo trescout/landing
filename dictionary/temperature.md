@@ -2,11 +2,11 @@
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın ürettiği cevapların yaratıcılık seviyesini belirleyen ayardır.
+Yapay zekânın ürettiği cevapların yaratıcılık seviyesini belirleyen ayardır.
 
 ## Tanım
 
-Sıcaklık, yapay zekanın ürettiği yanıtların ne kadar yaratıcı veya ne kadar tahmin edilebilir olacağını belirleyen bir ayardır. Düşük sıcaklık daha net ve tutarlı cevaplar verirken, yüksek sıcaklık daha özgün ve bazen beklenmedik cevaplar üretir.
+Sıcaklık, yapay zekânın ürettiği yanıtların ne kadar yaratıcı veya ne kadar tahmin edilebilir olacağını belirleyen bir ayardır. Düşük sıcaklık daha net ve tutarlı cevaplar verirken, yüksek sıcaklık daha özgün ve bazen beklenmedik cevaplar üretir.
 
 *Şöyle düşünün: Bir yazarın her gün aynı tarzda yazması (düşük sıcaklık) ile her gün farklı üsluplar denemesi (yüksek sıcaklık) arasındaki fark gibidir.*
 

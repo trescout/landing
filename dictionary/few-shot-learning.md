@@ -2,11 +2,11 @@
 
 *Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
-Yapay zekanın çok az örnekle yeni bir görevi öğrenme yeteneğidir.
+Yapay zekânın çok az örnekle yeni bir görevi öğrenme yeteneğidir.
 
 ## Tanım
 
-Az örnekli öğrenme, yapay zekanın daha önce hiç görmediği bir görevi sadece birkaç örnek görerek öğrenmesidir. Bu yöntem, modelin her seferinde sıfırdan eğitilmesine gerek kalmadan hızlıca uyum sağlamasına olanak tanır.
+Az örnekli öğrenme, yapay zekânın daha önce hiç görmediği bir görevi sadece birkaç örnek görerek öğrenmesidir. Bu yöntem, modelin her seferinde sıfırdan eğitilmesine gerek kalmadan hızlıca uyum sağlamasına olanak tanır.
 
 *Şöyle düşünün: Bir çocuğa sadece iki tane elma gösterip elmanın ne olduğunu öğretmek gibidir.*
 

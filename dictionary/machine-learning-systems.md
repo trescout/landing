@@ -20,9 +20,9 @@ Büyük veri setleri modele verilir, model bu verilerdeki desenleri (patterns) b
 
 ## Sıkça sorulanlar
 
-**Yapay zekadan farkı nedir?**
+**Yapay zekâdan farkı nedir?**
 
-Makine öğrenimi, yapay zekanın veriden öğrenme odaklı alt dalıdır; her yapay zekâ makine öğrenimi kullanmaz.
+Makine öğrenimi, yapay zekânın veriden öğrenme odaklı alt dalıdır; her yapay zekâ makine öğrenimi kullanmaz.
 
 ## İlgili terimler
 
