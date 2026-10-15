@@ -454,7 +454,10 @@ def build(slug, cat, chrome):
     _kapak = os.path.join(ROOT, "assets", "discover", "og", f"{slug}-{LANG}.webp")
     ogimg = (f"{BASE}/assets/discover/og/{slug}-{LANG}.webp"
              if os.path.exists(_kapak) else f"{BASE}/assets/discover/og/{slug}.webp")
-    tagline_en = c.get("tagline_en") or lead
+    # Sayfanın KENDİ dilindeki tanıtım · eskiden her dilde tagline_en alınıyordu (değişken
+    # adı yalnız İngilizcenin olduğu döneme ait): 2026-10-15'te FR/PT/ES/DE'de 324'er
+    # sayfanın içi kendi dilinde, arama açıklaması İngilizceydi
+    tagline_en = c.get(f"tagline_{LANG}") or lead
     # Bazı kaynaklar tek cümlelik tagline ile gelir. Arama ve AI özetleyicileri
     # için açıklamayı ürün adıyla bağla; kısa/bağlamsız metadata geri dönmesin.
     if len(tagline_en.strip()) < 90:

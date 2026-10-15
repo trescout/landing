@@ -27,7 +27,10 @@ function snapshotTotal(report) {
 
 function sourceLabel(sectionName, translations) {
   const turkishLabel = SOURCE_LABEL_TR[sectionName] || sectionName;
-  return translations[turkishLabel] || turkishLabel;
+  // Çeviri tablosu PARÇA tutuyor ("Günün Modelleri" → "Modelle des Tages"); etiketin
+  // tamamı aranınca hiç eşleşmiyordu, çeviri arşivlerinde Türkçe kalıyordu (2026-08-24'ten beri)
+  return translations[turkishLabel]
+    || turkishLabel.split(' · ').map((part) => translations[part] || part).join(' · ');
 }
 
 function snapshotNote(capturedAtText, label, escapeHtml) {

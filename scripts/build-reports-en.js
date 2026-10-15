@@ -181,6 +181,9 @@ function buildVariant(V) {
     const arsiv = dateStr <= D.rapor_arsiv_esigi;
     const badgeTag = arsiv ? `<span class="chip chip-en">${D.rapor_rozet}</span>` : '';
     const metaDesc = metaAciklama(tarih, editorial, V.kind);
+    // Tekrarsız raporun başlığı normalle aynıydı (5 dilde ~120 çift, 2026-10-15); Türkçede
+    // "TreScout Tekrarsız Rapor" diye ayrışıyor · diğer dillerde varyant etiketi eklenir
+    const sayfaBaslik = `${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}${V.kind === 'fresh' ? ` · ${D.rapor_varyant.fresh.geri}` : ''}`;
     const enYol = V.kind === 'fresh' ? 'reports/fresh' : 'reports';
     const { nav, footer } = kabuk({
       TR: `${V.trUrlBase}/${dateStr}/`,
@@ -195,7 +198,7 @@ function buildVariant(V) {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}</title>
+<title>${sayfaBaslik}</title>
 <link rel="icon" type="image/x-icon" sizes="16x16 32x32 48x48" href="/favicon.ico"> <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="description" content="${esc(metaDesc)}">
 <link rel="canonical" href="https://trescout.com${V.urlBase}/${dateStr}/">
@@ -206,7 +209,7 @@ function buildVariant(V) {
 <link rel="alternate" hreflang="es" href="https://trescout.com/es${V.urlBase.slice(PRE.length)}/${dateStr}/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de${V.urlBase.slice(PRE.length)}/${dateStr}/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/${dateStr}/">
-<meta property="og:title" content="${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}">
+<meta property="og:title" content="${sayfaBaslik}">
 <meta property="og:description" content="${esc(metaDesc)}">
 <meta property="og:url" content="https://trescout.com${V.urlBase}/${dateStr}/">
 <meta property="og:type" content="article">
@@ -214,18 +217,18 @@ function buildVariant(V) {
 <meta property="og:image" content="${ogImage}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="${esc(D.rapor_sayfa_baslik.replace('{tarih}', tarih))}">
+<meta property="og:image:alt" content="${esc(sayfaBaslik)}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="${esc(D.rapor_sayfa_baslik.replace('{tarih}', tarih))}">
+<meta name="twitter:title" content="${esc(sayfaBaslik)}">
 <meta name="twitter:description" content="${esc(metaDesc)}">
 <meta name="twitter:image" content="${ogImage}">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Report",
-  "headline": "${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}",
-  "name": "${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}",
+  "headline": "${sayfaBaslik}",
+  "name": "${sayfaBaslik}",
   "datePublished": "${dateStr}",
   "dateModified": "${dateStr}",
   "inLanguage": "${D.html_lang}",
