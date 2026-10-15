@@ -1,6 +1,6 @@
 # Qu'est-ce que Code Editor ?
 
-*Dev · Dernière mise à jour : 27 septembre 2026*
+*Développement · Dernière mise à jour : 27 septembre 2026*
 
 Un éditeur de texte spécial où les développeurs de logiciels bénéficient de fonctionnalités telles que la coloration et la vérification des erreurs lors de l'écriture de codes informatiques.
 

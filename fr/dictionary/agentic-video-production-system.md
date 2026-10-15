@@ -1,6 +1,6 @@
 # Qu'est-ce que Agentic Video Production System ?
 
-*AI · Dernière mise à jour : 20 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 20 juin 2026*
 
 Ce sont des systèmes intelligents qui éditent et éditent des vidéos sans intervention humaine.
 

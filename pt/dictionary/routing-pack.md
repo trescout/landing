@@ -1,6 +1,6 @@
 # O que é Routing Pack?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Routing Pack é o pacote de dados que os dispositivos de rede usam para transferir informações de roteamento entre si.
 

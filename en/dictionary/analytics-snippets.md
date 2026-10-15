@@ -1,6 +1,6 @@
 # What is Analytics Snippets?
 
-*Data · Last updated: August 17, 2026*
+*Data & Infra · Last updated: August 17, 2026*
 
 They are small pieces of code that websites add to their pages to track visitor behavior.
 

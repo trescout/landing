@@ -1,6 +1,6 @@
 # ¿Qué es Code Review?
 
-*Dev · Última actualización: 6 de julio de 2026*
+*Desarrollo · Última actualización: 6 de julio de 2026*
 
 Es el proceso en el que los desarrolladores de software examinan los códigos de los demás para encontrar errores y mejorar la calidad.
 

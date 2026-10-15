@@ -1,6 +1,6 @@
 # Qu'est-ce que Physically Based Rendering ?
 
-*Dev · Dernière mise à jour : 11 septembre 2026*
+*Développement · Dernière mise à jour : 11 septembre 2026*
 
 > Physically Based Rendering
 

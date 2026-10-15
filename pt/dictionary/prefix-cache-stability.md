@@ -1,6 +1,6 @@
 # O que é Prefix Cache Stability?
 
-*AI · Última atualização: 6 de agosto de 2026*
+*Inteligência artificial · Última atualização: 6 de agosto de 2026*
 
 É uma técnica que permite à inteligência artificial responder às mesmas perguntas com muito mais rapidez e consistência, mantendo na memória as informações que processou anteriormente.
 

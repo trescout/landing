@@ -1,6 +1,6 @@
 # What is Automatic Tagging?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 Automatic tagging is the process of reading the content and pasting a tag.
 

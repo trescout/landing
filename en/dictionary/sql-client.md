@@ -1,6 +1,6 @@
 # What is SQL Client?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 SQL Client is an application that allows you to connect to relational databases and run SQL queries.
 

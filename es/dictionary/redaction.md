@@ -1,6 +1,6 @@
 # ¿Qué es Redaction?
 
-*Data · Última actualización: 5 de octubre de 2026*
+*Datos e infraestructura · Última actualización: 5 de octubre de 2026*
 
 Es el proceso de oscurecer o eliminar permanentemente información sensible o confidencial de los documentos.
 

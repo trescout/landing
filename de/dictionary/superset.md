@@ -1,6 +1,6 @@
 # Was ist Superset?
 
-*Dev · Zuletzt aktualisiert: 11. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 11. Juli 2026*
 
 Es handelt sich um eine umfassendere Struktur, die alle Funktionen eines vorhandenen Systems umfasst und neue Funktionen hinzufügt.
 

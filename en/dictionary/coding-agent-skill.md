@@ -1,6 +1,6 @@
 # What is Coding Agent Skill?
 
-*AI · Last updated: October 7, 2026*
+*Artificial Intelligence · Last updated: October 7, 2026*
 
 These are skill definitions where artificial intelligence-based software agents specialize in software development steps such as coding, debugging, testing, and deploying projects.
 

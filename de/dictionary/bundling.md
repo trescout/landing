@@ -1,6 +1,6 @@
 # Was ist Bundling?
 
-*Dev · Zuletzt aktualisiert: 14. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 14. Juni 2026*
 
 Dabei handelt es sich um die Kombination vieler kleiner Codedateien, die für das Funktionieren von Websites erforderlich sind und in einem einzigen Paket zusammengefasst werden.
 

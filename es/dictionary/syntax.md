@@ -1,6 +1,6 @@
 # ¿Qué es Syntax?
 
-*Dev · Última actualización: 5 de septiembre de 2026*
+*Desarrollo · Última actualización: 5 de septiembre de 2026*
 
 Son las reglas de escritura que deben seguirse en un lenguaje de programación para que el código funcione sin errores.
 

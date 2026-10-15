@@ -1,6 +1,6 @@
 # Was ist Temperature?
 
-*AI · Zuletzt aktualisiert: 3. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. Juni 2026*
 
 Es ist das Setting, das den Kreativitätsgrad der von künstlicher Intelligenz erzeugten Antworten bestimmt.
 

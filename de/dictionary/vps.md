@@ -1,6 +1,6 @@
 # Was ist VPS?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 > Virtual Private Server
 

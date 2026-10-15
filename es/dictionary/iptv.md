@@ -1,6 +1,6 @@
 # ¿Qué es IPTV?
 
-*Data · Última actualización: 13 de junio de 2026*
+*Datos e infraestructura · Última actualización: 13 de junio de 2026*
 
 > Internet Protocol Television
 

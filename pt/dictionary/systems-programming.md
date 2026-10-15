@@ -1,6 +1,6 @@
 # O que é Systems Programming?
 
-*Dev · Última atualização: 28 de setembro de 2026*
+*Desenvolvimento · Última atualização: 28 de setembro de 2026*
 
 É o processo de desenvolvimento de softwares fundamentais, como sistemas operacionais e drivers, que se comunicam diretamente com o hardware.
 

@@ -1,6 +1,6 @@
 # O que é Phased Array Radar?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 O radar de varredura eletrônica (conhecido em turco como faz dizili radar) é um sistema de radar estacionário que direciona o feixe eletronicamente.
 

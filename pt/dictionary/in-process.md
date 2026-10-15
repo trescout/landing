@@ -1,6 +1,6 @@
 # O que é In-process?
 
-*Dev · Última atualização: 19 de junho de 2026*
+*Desenvolvimento · Última atualização: 19 de junho de 2026*
 
 É a execução de um processo dentro da área de trabalho do próprio programa, sem a necessidade de ajuda externa.
 

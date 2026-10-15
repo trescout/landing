@@ -1,6 +1,6 @@
 # Qu'est-ce que la Local-first Memory ?
 
-*Data · Dernière mise à jour : 22 septembre 2026*
+*Données et infra · Dernière mise à jour : 22 septembre 2026*
 
 > Mémoire et Architecture 'Local-First'
 

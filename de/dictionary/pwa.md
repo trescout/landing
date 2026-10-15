@@ -1,6 +1,6 @@
 # Was ist PWA?
 
-*Dev · Zuletzt aktualisiert: 26. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 26. Juni 2026*
 
 > Progressive Web App
 

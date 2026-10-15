@@ -1,6 +1,6 @@
 # What is Environment Variables?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Environment variables are identifiers that keep settings outside of the code.
 

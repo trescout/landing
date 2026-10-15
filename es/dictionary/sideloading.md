@@ -1,6 +1,6 @@
 # ¿Qué es Sideloading?
 
-*Dev · Última actualización: 12 de septiembre de 2026*
+*Desarrollo · Última actualización: 12 de septiembre de 2026*
 
 Es el método de instalar aplicaciones en su dispositivo directamente a través de archivos, fuera de las tiendas de aplicaciones oficiales.
 

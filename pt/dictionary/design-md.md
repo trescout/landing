@@ -1,6 +1,6 @@
 # O que é DESIGN.md?
 
-*Dev · Última atualização: 10 de julho de 2026*
+*Desenvolvimento · Última atualização: 10 de julho de 2026*
 
 É um arquivo de documentação que explica as decisões arquitetônicas e a lógica de design de um projeto de software.
 

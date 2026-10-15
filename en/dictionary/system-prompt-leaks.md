@@ -1,6 +1,6 @@
 # What is System Prompt Leaks?
 
-*AI · Last updated: July 8, 2026*
+*Artificial Intelligence · Last updated: July 8, 2026*
 
 It is the revealing of the hidden instructions of artificial intelligence by the user.
 

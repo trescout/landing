@@ -1,6 +1,6 @@
 # What is Swarm Intelligence Engine?
 
-*AI · Last updated: June 6, 2026*
+*Artificial Intelligence · Last updated: June 6, 2026*
 
 It is a management mechanism that allows many small units to come together and act as a single intelligent system.
 

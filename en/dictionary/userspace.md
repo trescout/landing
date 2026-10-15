@@ -1,6 +1,6 @@
 # What is Userspace?
 
-*Dev · Last updated: August 3, 2026*
+*Development · Last updated: August 3, 2026*
 
 A safe area where user applications run without interfering with the computer's kernel.
 

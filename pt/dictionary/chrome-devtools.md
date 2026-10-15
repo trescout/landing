@@ -1,6 +1,6 @@
 # O que é Chrome DevTools?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Chrome DevTools é o painel do desenvolvedor no navegador.
 

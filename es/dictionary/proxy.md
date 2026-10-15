@@ -1,6 +1,6 @@
 # ¿Qué es Proxy?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Proxy (en turco, servidor proxy) es el intermediario que transmite sus solicitudes al objetivo en su nombre.
 

@@ -1,6 +1,6 @@
 # O que é Newsgroup?
 
-*Dev · Última atualização: 12 de setembro de 2026*
+*Desenvolvimento · Última atualização: 12 de setembro de 2026*
 
 É uma plataforma de mensagens e discussão em torno de tópicos específicos, popular nos primórdios da internet.
 

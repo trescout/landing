@@ -1,6 +1,6 @@
 # Qu'est-ce que Code Agent ?
 
-*AI · Dernière mise à jour : 21 juillet 2026*
+*Intelligence artificielle · Dernière mise à jour : 21 juillet 2026*
 
 Il s'agit d'une intelligence artificielle qui entreprend de manière autonome des tâches telles que l'écriture de code, le débogage et les tests dans les processus de développement de logiciels.
 

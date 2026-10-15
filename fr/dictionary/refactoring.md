@@ -1,6 +1,6 @@
 # Qu'est-ce que Refactoring ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Le refactoring (ou restructuration) consiste à simplifier le code tout en préservant son comportement.
 

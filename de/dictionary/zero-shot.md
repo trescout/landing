@@ -1,6 +1,6 @@
 # Was ist Zero-shot?
 
-*AI · Zuletzt aktualisiert: 13. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 13. September 2026*
 
 Es ist die Fähigkeit einer künstlichen Intelligenz, eine Aufgabe, für die sie keine Beispiele gesehen hat, allein durch eine Beschreibung zu erfüllen.
 

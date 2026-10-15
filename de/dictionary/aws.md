@@ -1,6 +1,6 @@
 # Was ist Amazon Web Services?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 > Amazon Web Services
 

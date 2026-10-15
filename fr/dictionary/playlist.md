@@ -1,6 +1,6 @@
 # Qu'est-ce que Playlist ?
 
-*Data · Dernière mise à jour : 19 septembre 2026*
+*Données et infra · Dernière mise à jour : 19 septembre 2026*
 
 Une playlist est une collection ordonnée de contenus audio, vidéo ou de données numériques, regroupés pour être lus successivement selon une séquence, un thème ou une logique algorithmique spécifique.
 

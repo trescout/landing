@@ -1,6 +1,6 @@
 # O que é Inference Server?
 
-*AI · Última atualização: 3 de setembro de 2026*
+*Inteligência artificial · Última atualização: 3 de setembro de 2026*
 
 É um sistema de servidor especializado onde modelos de inteligência artificial são executados para gerar respostas a perguntas recebidas.
 

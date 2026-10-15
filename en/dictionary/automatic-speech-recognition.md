@@ -1,6 +1,6 @@
 # What is Automatic Speech Recognition?
 
-*AI · Last updated: September 29, 2026*
+*Artificial Intelligence · Last updated: September 29, 2026*
 
 > ASR
 

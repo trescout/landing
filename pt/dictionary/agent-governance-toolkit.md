@@ -1,6 +1,6 @@
 # O que é Agent Governance Toolkit?
 
-*AI · Última atualização: 29 de julho de 2026*
+*Inteligência artificial · Última atualização: 29 de julho de 2026*
 
 É um conjunto de ferramentas de gestão que garantem que os sistemas autónomos de inteligência artificial operem de forma segura, ética e de acordo com as regras.
 

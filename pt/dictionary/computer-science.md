@@ -1,6 +1,6 @@
 # O que é Computer Science?
 
-*Dev · Última atualização: 5 de junho de 2026*
+*Desenvolvimento · Última atualização: 5 de junho de 2026*
 
 O ramo da ciência que estuda os princípios de funcionamento dos computadores, desenvolvimento de software e métodos de processamento de dados.
 

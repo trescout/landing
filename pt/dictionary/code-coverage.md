@@ -1,6 +1,6 @@
 # O que é Code Coverage?
 
-*Dev · Última atualização: 3 de agosto de 2026*
+*Desenvolvimento · Última atualização: 3 de agosto de 2026*
 
 Uma métrica que mede quanto dos testes de software de código escrito realmente são executados e verificados.
 

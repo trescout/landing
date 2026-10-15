@@ -1,6 +1,6 @@
 # ¿Qué es Core Libraries?
 
-*Dev · Última actualización: 7 de agosto de 2026*
+*Desarrollo · Última actualización: 7 de agosto de 2026*
 
 Son paquetes de código estándar que un software necesita para realizar sus funciones básicas.
 

@@ -1,6 +1,6 @@
 # Was ist Git Push?
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Git Push ist der grundlegende Git-Befehl, der committete Codeblöcke, die Commit-Historie und Objekte aus Ihrer lokalen Entwicklungsumgebung auf einen Remote-Git-Server überträgt und den Remote-Branch aktualisiert.
 

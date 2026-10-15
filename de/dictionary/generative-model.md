@@ -1,6 +1,6 @@
 # Was ist Generative Model?
 
-*AI · Zuletzt aktualisiert: 16. August 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 16. August 2026*
 
 Es handelt sich um Modelle der künstlichen Intelligenz, die neue und originelle Inhalte erstellen können.
 

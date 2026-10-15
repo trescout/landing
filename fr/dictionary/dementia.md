@@ -1,6 +1,6 @@
 # Qu'est-ce que Dementia ?
 
-*AI · Dernière mise à jour : 16 août 2026*
+*Intelligence artificielle · Dernière mise à jour : 16 août 2026*
 
 Il s’agit d’une condition dans laquelle la mémoire, la réflexion et les capacités de la vie quotidienne sont gravement affaiblies en raison de lésions des cellules nerveuses du cerveau.
 

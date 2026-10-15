@@ -1,6 +1,6 @@
 # What is Prompt?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 Prompt is a written instruction given to the model.
 

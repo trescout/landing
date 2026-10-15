@@ -1,6 +1,6 @@
 # Qu'est-ce que Prompt Injection ?
 
-*AI · Dernière mise à jour : 27 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 27 septembre 2026*
 
 Ce sont des instructions trompeuses données à l'intelligence artificielle pour la duper et lui faire contourner ses règles de sécurité.
 

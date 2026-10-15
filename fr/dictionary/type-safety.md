@@ -1,6 +1,6 @@
 # Qu'est-ce que Type Safety ?
 
-*Dev · Dernière mise à jour : 13 juillet 2026*
+*Développement · Dernière mise à jour : 13 juillet 2026*
 
 Il s'agit d'une règle de sécurité qui empêche l'utilisation d'un mauvais type de données dans le logiciel et détecte les erreurs lors de l'écriture du code.
 

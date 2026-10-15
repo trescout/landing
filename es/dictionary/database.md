@@ -1,6 +1,6 @@
 # ¿Qué es Database?
 
-*Data · Última actualización: 14 de junio de 2026*
+*Datos e infraestructura · Última actualización: 14 de junio de 2026*
 
 Un entorno digital donde la información se almacena periódicamente y se puede acceder a ella y gestionarla fácilmente cuando sea necesario.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Serialization?
 
-*Dev · Última actualización: 19 de septiembre de 2026*
+*Desarrollo · Última actualización: 19 de septiembre de 2026*
 
 La serialización es el proceso de convertir objetos, estructuras de datos y gráficos de punteros asignados dinámicamente en la memoria de trabajo (RAM) de un lenguaje de programación en un flujo de bytes plano y lineal o en un formato de texto que puede transmitirse a través de una red o almacenarse en un disco.
 

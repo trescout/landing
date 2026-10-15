@@ -1,6 +1,6 @@
 # What is Video Editor?
 
-*Dev · Last updated: June 20, 2026*
+*Development · Last updated: June 20, 2026*
 
 They are software that edits image and audio files and turns them into a video.
 

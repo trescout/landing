@@ -1,6 +1,6 @@
 # ¿Qué es Marketing Skills?
 
-*AI · Última actualización: 22 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
 Las habilidades de marketing son las habilidades para entregar el producto a la audiencia adecuada.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Source Control ?
 
-*Dev · Dernière mise à jour : 3 septembre 2026*
+*Développement · Dernière mise à jour : 3 septembre 2026*
 
 C'est un système de suivi qui enregistre toutes les modifications de code dans les projets logiciels et permet de revenir en arrière.
 

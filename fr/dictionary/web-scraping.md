@@ -1,6 +1,6 @@
 # Qu'est-ce que Web Scraping ?
 
-*Data · Dernière mise à jour : 3 juin 2026*
+*Données et infra · Dernière mise à jour : 3 juin 2026*
 
 Processus logiciel qui collecte et enregistre les données des sites Web à l'aide de méthodes automatiques.
 

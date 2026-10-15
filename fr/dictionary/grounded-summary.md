@@ -1,6 +1,6 @@
 # Qu'est-ce que Grounded Summary ?
 
-*AI · Dernière mise à jour : 9 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 9 juin 2026*
 
 Il s'agit d'une méthode sommaire qui n'implique pas de fabrication et est créée par l'intelligence artificielle en adhérant uniquement aux documents sources fournis.
 

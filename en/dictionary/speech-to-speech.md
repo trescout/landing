@@ -1,6 +1,6 @@
 # What is Speech-to-Speech?
 
-*AI · Last updated: September 19, 2026*
+*Artificial Intelligence · Last updated: September 19, 2026*
 
 Speech-to-Speech (S2S / voice-to-speech artificial intelligence) is an end-to-end deep learning technology that analyzes sound waves directly from source to target without converting them into an intermediate text layer and produces a new voice signal.
 

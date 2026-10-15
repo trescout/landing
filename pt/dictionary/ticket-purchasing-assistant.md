@@ -1,6 +1,6 @@
 # O que é Ticket Purchasing Assistant?
 
-*AI · Última atualização: 22 de junho de 2026*
+*Inteligência artificial · Última atualização: 22 de junho de 2026*
 
 Um assistente digital que busca ingressos e faz compras em nome do usuário.
 

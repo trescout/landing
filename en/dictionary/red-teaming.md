@@ -1,6 +1,6 @@
 # What is Red Teaming?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Red teaming is a testing method that involves acting like an attacker to find vulnerabilities.
 

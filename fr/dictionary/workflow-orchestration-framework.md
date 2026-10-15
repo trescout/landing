@@ -1,6 +1,6 @@
 # Qu'est-ce que Workflow Orchestration Framework ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Un framework d'orchestration de flux de travail est l'infrastructure qui met en file d'attente les tâches dépendantes et gère les erreurs.
 

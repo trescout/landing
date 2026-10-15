@@ -1,6 +1,6 @@
 # ¿Qué es Persistent Context?
 
-*AI · Última actualización: 4 de octubre de 2026*
+*Inteligencia artificial · Última actualización: 4 de octubre de 2026*
 
 Es la capacidad de los modelos de inteligencia artificial para recordar y retener en la memoria las conversaciones pasadas y la información importante compartida con usted, incluso después de cerrar la sesión.
 

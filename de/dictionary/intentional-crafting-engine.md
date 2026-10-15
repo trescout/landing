@@ -1,6 +1,6 @@
 # Was ist Intentional Crafting Engine?
 
-*AI · Zuletzt aktualisiert: 9. Oktober 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 9. Oktober 2026*
 
 Es handelt sich um eine zielgerichtete Erstellungs-Engine, die Inhalte, Code oder digitale Produkte generiert, indem sie sich auf die Absichten und Ziele des Benutzers konzentriert.
 

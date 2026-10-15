@@ -1,6 +1,6 @@
 # Qu'est-ce que Inference Framework ?
 
-*AI · Dernière mise à jour : 12 octobre 2026*
+*Intelligence artificielle · Dernière mise à jour : 12 octobre 2026*
 
 Il s'agit de l'infrastructure logicielle qui permet d'exécuter des modèles d'intelligence artificielle entraînés de manière rapide, efficace et économique dans un environnement de production.
 

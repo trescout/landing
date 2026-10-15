@@ -1,6 +1,6 @@
 # What is Transcription?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 Transcription is the process of transcribing the audio recording into written text.
 

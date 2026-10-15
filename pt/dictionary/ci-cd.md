@@ -1,6 +1,6 @@
 # O que é CI/CD?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 > Continuous Integration / Continuous Deployment
 

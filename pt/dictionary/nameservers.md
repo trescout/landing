@@ -1,6 +1,6 @@
 # O que é Nameservers?
 
-*Dev · Última atualização: 17 de agosto de 2026*
+*Desenvolvimento · Última atualização: 17 de agosto de 2026*
 
 É uma lista telefônica que converte nomes de sites usados por pessoas em endereços numéricos que os computadores entendem.
 

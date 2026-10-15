@@ -1,6 +1,6 @@
 # Was ist Inference?
 
-*AI · Zuletzt aktualisiert: 3. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um den Prozess, bei dem ein trainiertes Modell der künstlichen Intelligenz Vorhersagen zu neuen Daten trifft.
 

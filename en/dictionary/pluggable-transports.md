@@ -1,6 +1,6 @@
 # What is Pluggable Transports?
 
-*Dev · Last updated: September 12, 2026*
+*Development · Last updated: September 12, 2026*
 
 These are connection methods used to bypass censorship and blocks by disguising internet traffic.
 

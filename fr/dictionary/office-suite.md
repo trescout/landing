@@ -1,6 +1,6 @@
 # Qu'est-ce que Office Suite ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 La suite Office est un groupe de logiciels qui rassemble des documents, des tableaux et des présentations sous un même toit.
 

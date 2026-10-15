@@ -1,6 +1,6 @@
 # Was ist WiFi?
 
-*Dev · Zuletzt aktualisiert: 11. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 11. Juni 2026*
 
 > Wireless Fidelity
 

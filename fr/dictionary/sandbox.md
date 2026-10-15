@@ -1,6 +1,6 @@
 # Qu'est-ce que Sandbox ?
 
-*Dev · Dernière mise à jour : 16 juin 2026*
+*Développement · Dernière mise à jour : 16 juin 2026*
 
 Il s'agit d'une zone de travail isolée où les nouveaux logiciels ou codes peuvent être testés en toute sécurité sans endommager le système principal.
 

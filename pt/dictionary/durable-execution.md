@@ -1,6 +1,6 @@
 # O que é Durable Execution?
 
-*Dev · Última atualização: 8 de junho de 2026*
+*Desenvolvimento · Última atualização: 8 de junho de 2026*
 
 É um sistema que permite que um processo continue com segurança de onde parou, mesmo que haja um erro ou interrupção.
 

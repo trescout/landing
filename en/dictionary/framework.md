@@ -1,6 +1,6 @@
 # What is Framework?
 
-*Dev · Last updated: June 7, 2026*
+*Development · Last updated: June 7, 2026*
 
 It is a set of ready-made structures and rules used to speed up work when developing software.
 

@@ -1,6 +1,6 @@
 # O que é System Design?
 
-*Dev · Última atualização: 29 de junho de 2026*
+*Desenvolvimento · Última atualização: 29 de junho de 2026*
 
 O processo de planejamento da arquitetura, comunicação de peças e fluxo de dados de sistemas de software grandes e complexos.
 

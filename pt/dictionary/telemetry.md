@@ -1,6 +1,6 @@
 # O que é Telemetria (Telemetry)?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 > Inglês: Telemetry · Etimologia: grego tele (longe, distante) + metron (medida)
 

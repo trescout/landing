@@ -1,6 +1,6 @@
 # What is Tutoring?
 
-*AI · Last updated: September 19, 2026*
+*Artificial Intelligence · Last updated: September 19, 2026*
 
 Tutoring (in Turkish, private tutoring or one-on-one guidance) is a personalized teaching process adapted to a student's knowledge level, deficiencies and speed of understanding.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Context Window Optimization ?
 
-*AI · Dernière mise à jour : 8 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 8 septembre 2026*
 
 Ajustements techniques permettant à l'intelligence artificielle de produire des résultats plus longs et cohérents en utilisant de manière optimale son espace mémoire limité.
 

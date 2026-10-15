@@ -1,6 +1,6 @@
 # What is Agent Ready?
 
-*AI · Last updated: July 2, 2026*
+*Artificial Intelligence · Last updated: July 2, 2026*
 
 It is state information that indicates that a software or artificial intelligence system is ready to undertake autonomous tasks.
 

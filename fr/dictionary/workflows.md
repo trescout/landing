@@ -1,6 +1,6 @@
 # Qu'est-ce que Workflows ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Workflow (en français, flux de travail) est une séquence d'étapes ordonnée pour accomplir une tâche.
 

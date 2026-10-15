@@ -1,6 +1,6 @@
 # What is Enterprise Resource Planning?
 
-*Dev · Last updated: June 4, 2026*
+*Development · Last updated: June 4, 2026*
 
 > ERP
 

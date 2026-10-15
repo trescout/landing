@@ -1,6 +1,6 @@
 # What is Code Splitting?
 
-*Dev · Last updated: August 6, 2026*
+*Development · Last updated: August 6, 2026*
 
 In order to increase the loading speed of the website, it is a method of dividing large code files into small pieces and loading them only when needed.
 

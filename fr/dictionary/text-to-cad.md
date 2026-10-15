@@ -1,6 +1,6 @@
 # Qu'est-ce que Text-to-CAD ?
 
-*Dev · Dernière mise à jour : 22 juillet 2026*
+*Développement · Dernière mise à jour : 22 juillet 2026*
 
 > Text to Computer-Aided Design
 

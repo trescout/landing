@@ -1,6 +1,6 @@
 # Was ist Kontext (Context)? KI vs. Betriebssysteme
 
-*AI · Zuletzt aktualisiert: 19. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 19. September 2026*
 
 > Englisch: Context · Wortherkunft: lateinisch contexere (zusammenweben, verknüpfen)
 

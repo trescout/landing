@@ -1,6 +1,6 @@
 # Was ist Append-only?
 
-*Data · Zuletzt aktualisiert: 24. August 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 24. August 2026*
 
 Es handelt sich um eine Aufzeichnungsmethode, bei der Daten nur angehängt, nicht verändert oder gelöscht werden können.
 

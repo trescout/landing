@@ -1,6 +1,6 @@
 # What is Open Source?
 
-*Dev · Last updated: June 3, 2026*
+*Development · Last updated: June 3, 2026*
 
 They are software whose source codes are open to everyone to access and develop.
 

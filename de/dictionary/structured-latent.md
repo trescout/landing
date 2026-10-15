@@ -1,6 +1,6 @@
 # Was ist Structured Latent?
 
-*AI · Zuletzt aktualisiert: 2. August 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 2. August 2026*
 
 Dabei handelt es sich um die Umwandlung komplexer Daten in eine regelmäßige und aussagekräftige mathematische Form, die künstliche Intelligenz leichter verstehen kann.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Debugger ?
 
-*Dev · Dernière mise à jour : 7 octobre 2026*
+*Développement · Dernière mise à jour : 7 octobre 2026*
 
 C'est un outil de débogage qui permet de trouver et de corriger les erreurs dans les logiciels en les suivant pas à pas.
 

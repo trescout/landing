@@ -1,6 +1,6 @@
 # ¿Qué es BI?
 
-*Data · Última actualización: 22 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 22 de septiembre de 2026*
 
 > Business Intelligence
 

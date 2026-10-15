@@ -1,6 +1,6 @@
 # O que é Destructive Command Guard?
 
-*Dev · Última atualização: 13 de julho de 2026*
+*Desenvolvimento · Última atualização: 13 de julho de 2026*
 
 É um escudo de segurança que o impede antes de executar comandos que correm o risco de excluir dados ou corromper o sistema.
 

@@ -1,6 +1,6 @@
 # Was ist Prompt?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Prompt (mit seiner türkischen Entsprechung istem) ist eine schriftliche Anweisung, die dem Modell gegeben wird.
 

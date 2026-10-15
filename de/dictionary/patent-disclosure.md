@@ -1,6 +1,6 @@
 # Patent Disclosure: Offenlegungspflicht, Stand der Technik und Patentrecht
 
-*Dev · Zuletzt aktualisiert: 20. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 20. September 2026*
 
 Patent Disclosure (Offenlegungspflicht) bezeichnet das grundlegende Rechtsprinzip, wonach ein Erfinder seine technische Neuerung in der Patentschrift so präzise offenlegen muss, dass ein Fachmann sie ohne unzumutbaren Aufwand nachbauen kann.
 

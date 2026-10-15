@@ -1,6 +1,6 @@
 # Was ist Copywriting?
 
-*Dev · Zuletzt aktualisiert: 7. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 7. September 2026*
 
 Es handelt sich um überzeugendes Texten, das darauf ausgelegt ist, Menschen dazu zu bewegen, eine bestimmte Handlung auszuführen oder ein Produkt zu kaufen.
 

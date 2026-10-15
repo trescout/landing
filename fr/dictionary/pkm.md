@@ -1,6 +1,6 @@
 # Qu'est-ce que Personal Knowledge Management ?
 
-*Data · Dernière mise à jour : 27 août 2026*
+*Données et infra · Dernière mise à jour : 27 août 2026*
 
 > Personal Knowledge Management
 

@@ -1,6 +1,6 @@
 # ¿Qué es Smart Meters?
 
-*Data · Última actualización: 30 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 30 de septiembre de 2026*
 
 Dispositivos que miden instantáneamente el consumo de electricidad o agua y envían los datos al centro de forma digital.
 

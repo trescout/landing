@@ -320,7 +320,10 @@ def build(term, chrome):
     analoji = analoji.replace("Şöyle düşünün:", "").strip()
     analoji_html = (f'<div class="dict-analogy"><strong>{D["analoji"]}</strong> {esc(tr2en(analoji))}</div>\n'
                     if analoji else "")
-    kat = KATEGORI.get(term.get("cat", ""), (term.get("cat") or "Tech").title())
+    # Kategori adı dizin sayfasındaki filtre düğmesiyle AYNI (diller.py tek kaynak).
+    # KATEGORI tablosunda "dev"/"data" yoktu, sayfalar "Dev"/"Data" kısaltmasına düşüyordu (2026-10-15)
+    kat = (dict(D["sozluk_dizin_cipler"]).get(term.get("cat", ""))
+           or KATEGORI.get(term.get("cat", ""), (term.get("cat") or "Tech").title()))
     # "Son güncelleme" rozeti · Türkçe sayfada var, İngilizcede yoktu (parite)
     gt = re.search(r'<time class="dict-time" datetime="([^"]+)"', b)
     zaman = (f'<time class="dict-time" datetime="{gt.group(1)}">{D["son_guncelleme"].format(tarih=tarih_en(gt.group(1)))}</time>'

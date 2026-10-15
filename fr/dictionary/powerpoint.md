@@ -1,6 +1,6 @@
 # Qu'est-ce que PowerPoint ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 PowerPoint est l'application de présentation basée sur des diapositives de Microsoft.
 

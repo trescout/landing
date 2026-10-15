@@ -1,6 +1,6 @@
 # O que é Session Replay?
 
-*Dev · Última atualização: 17 de julho de 2026*
+*Desenvolvimento · Última atualização: 17 de julho de 2026*
 
 É uma tecnologia que permite gravar e assistir todos os movimentos do usuário no seu site como um filme.
 

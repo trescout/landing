@@ -1,6 +1,6 @@
 # ¿Qué es Backend?
 
-*Dev · Última actualización: 19 de septiembre de 2026*
+*Desarrollo · Última actualización: 19 de septiembre de 2026*
 
 Es la parte de una aplicación que no es visible para el usuario, donde se procesan los datos y que se ejecuta en el servidor.
 

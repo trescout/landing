@@ -1,6 +1,6 @@
 # What is Persistent Ads?
 
-*Dev · Last updated: September 27, 2026*
+*Development · Last updated: September 27, 2026*
 
 These are ads that constantly appear as you browse web pages or remain fixed in a corner of the screen.
 

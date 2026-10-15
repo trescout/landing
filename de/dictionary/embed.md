@@ -1,6 +1,6 @@
 # Was ist Embed?
 
-*Data · Zuletzt aktualisiert: 27. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 27. September 2026*
 
 Der Prozess der Umwandlung von Daten in numerische Listen, damit Computer die semantische Beziehung zwischen ihnen verstehen können.
 

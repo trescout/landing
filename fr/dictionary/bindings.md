@@ -1,6 +1,6 @@
 # Qu'est-ce que Bindings ?
 
-*Dev · Dernière mise à jour : 8 juin 2026*
+*Développement · Dernière mise à jour : 8 juin 2026*
 
 Ce sont des ponts qui permettent à différents langages de programmation d'utiliser les bibliothèques des uns et des autres.
 

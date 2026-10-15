@@ -1,6 +1,6 @@
 # O que é Production Pipeline?
 
-*Dev · Última atualização: 19 de setembro de 2026*
+*Desenvolvimento · Última atualização: 19 de setembro de 2026*
 
 O pipeline de produção (production pipeline) é uma cadeia de processos de engenharia integrados que permite que o código-fonte escrito pelos desenvolvedores de software seja compilado, testado, submetido a varreduras de segurança, empacotado e implantado no ambiente de produção com zero tempo de inatividade.
 

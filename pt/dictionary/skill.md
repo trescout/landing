@@ -1,6 +1,6 @@
 # O que é Skill?
 
-*AI · Última atualização: 22 de setembro de 2026*
+*Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
 Skill (com a equivalência em turco de yetenek), é uma unidade definida que permite a um assistente de inteligência artificial realizar tarefas utilizando uma ferramenta externa.
 

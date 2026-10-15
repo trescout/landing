@@ -1,6 +1,6 @@
 # O que é Computer Vision Library?
 
-*AI · Última atualização: 8 de junho de 2026*
+*Inteligência artificial · Última atualização: 8 de junho de 2026*
 
 São ferramentas de software prontas que permitem aos computadores processar e dar sentido aos dados visuais.
 

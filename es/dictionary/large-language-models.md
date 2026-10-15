@@ -1,6 +1,6 @@
 # ¿Qué es Large Language Models?
 
-*AI · Última actualización: 6 de agosto de 2026*
+*Inteligencia artificial · Última actualización: 6 de agosto de 2026*
 
 > Large Language Models
 

@@ -1,6 +1,6 @@
 # O que é Layer Streaming?
 
-*Data · Última atualização: 22 de setembro de 2026*
+*Dados e infraestrutura · Última atualização: 22 de setembro de 2026*
 
 O streaming de camadas é o processamento de dados peça por peça.
 

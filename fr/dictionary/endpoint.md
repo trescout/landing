@@ -1,6 +1,6 @@
 # Qu'est-ce que Endpoint ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Le point de terminaison est l’extrémité de l’appareil ou de l’API du côté utilisateur du réseau.
 

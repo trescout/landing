@@ -1,6 +1,6 @@
 # Qu'est-ce que Shell ?
 
-*Dev · Dernière mise à jour : 13 juillet 2026*
+*Développement · Dernière mise à jour : 13 juillet 2026*
 
 C'est une interface qui vous permet de contrôler l'ordinateur en tapant directement des commandes de texte au lieu d'une interface graphique.
 

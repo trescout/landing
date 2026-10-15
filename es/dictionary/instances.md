@@ -1,6 +1,6 @@
 # ¿Qué es Instances?
 
-*Dev · Última actualización: 6 de septiembre de 2026*
+*Desarrollo · Última actualización: 6 de septiembre de 2026*
 
 Es cada copia independiente de un software o sistema que se ejecuta al mismo tiempo.
 

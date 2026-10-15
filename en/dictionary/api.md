@@ -1,6 +1,6 @@
 # What is API?
 
-*Dev · Last updated: June 3, 2026*
+*Development · Last updated: June 3, 2026*
 
 > Application Programming Interface
 

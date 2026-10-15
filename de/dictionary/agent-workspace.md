@@ -1,6 +1,6 @@
 # Was ist Agent Workspace?
 
-*AI · Zuletzt aktualisiert: 4. Oktober 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 4. Oktober 2026*
 
 Es ist ein sicherer digitaler Arbeitsbereich, in dem KI-Agenten Dateien erstellen, bearbeiten und Tools ausführen können, um ihnen zugewiesene Aufgaben zu erfüllen.
 

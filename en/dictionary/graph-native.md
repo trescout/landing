@@ -1,6 +1,6 @@
 # What is Graph-native?
 
-*Data · Last updated: August 11, 2026*
+*Data & Infra · Last updated: August 11, 2026*
 
 It is a system design based on a structure in which data is connected to each other through nodes.
 

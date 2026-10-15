@@ -1,6 +1,6 @@
 # Was ist System Programming Language?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Eine Systemprogrammiersprache (auf Türkisch als Systemprogrammierungs-Sprache bezeichnet) ist eine Sprache, die direkt mit der Hardware kommuniziert.
 

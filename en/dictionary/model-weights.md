@@ -1,6 +1,6 @@
 # What is Model Weights?
 
-*AI · Last updated: September 29, 2026*
+*Artificial Intelligence · Last updated: September 29, 2026*
 
 Numerical values where artificial intelligence stores the information learned during training and determines its decisions.
 

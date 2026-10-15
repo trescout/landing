@@ -1,6 +1,6 @@
 # O que é Keybindings?
 
-*Dev · Última atualização: 19 de setembro de 2026*
+*Desenvolvimento · Última atualização: 19 de setembro de 2026*
 
 Keybind (ou keybinding / atalho de tecla) é a atribuição de uma tecla de atalho ou combinação de teclas (por exemplo, Ctrl+C, Cmd+K) para acionar instantaneamente um comando, ação ou macro específico dentro de um software.
 

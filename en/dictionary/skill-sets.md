@@ -1,6 +1,6 @@
 # What is Skill Sets?
 
-*AI · Last updated: August 2, 2026*
+*Artificial Intelligence · Last updated: August 2, 2026*
 
 It is the set of abilities that a person or artificial intelligence has to perform a specific job or task.
 

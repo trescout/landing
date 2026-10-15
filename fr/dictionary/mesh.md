@@ -1,6 +1,6 @@
 # Qu'est-ce que Mesh ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Le maillage (mesh en anglais) est une architecture réseau dans laquelle des appareils ou des services se connectent et transfèrent des données entre eux sans dépendre d'un serveur central.
 

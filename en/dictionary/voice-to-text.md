@@ -1,6 +1,6 @@
 # What is Voice to Text?
 
-*AI · Last updated: June 29, 2026*
+*Artificial Intelligence · Last updated: June 29, 2026*
 
 Technology that converts spoken words into digital text by analyzing sound waves.
 

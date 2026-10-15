@@ -1,6 +1,6 @@
 # What is Stock Options?
 
-*Dev · Last updated: September 28, 2026*
+*Development · Last updated: September 28, 2026*
 
 It is a financial incentive mechanism that grants employees the right to purchase company shares in the future at a specified price.
 

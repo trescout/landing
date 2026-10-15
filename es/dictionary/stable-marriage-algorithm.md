@@ -1,6 +1,6 @@
 # ¿Qué es Stable Marriage Algorithm?
 
-*Data · Última actualización: 1 de octubre de 2026*
+*Datos e infraestructura · Última actualización: 1 de octubre de 2026*
 
 Método matemático que reúne elementos de dos grupos diferentes de manera que se logre la coincidencia más adecuada entre ellos.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Control Plane?
 
-*Dev · Última actualización: 31 de agosto de 2026*
+*Desarrollo · Última actualización: 31 de agosto de 2026*
 
 Es la capa de gestión central que gestiona cómo funciona un sistema y controla el tráfico y la configuración.
 

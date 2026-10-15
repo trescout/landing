@@ -1,6 +1,6 @@
 # Was ist Root?
 
-*Dev · Zuletzt aktualisiert: 17. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 17. Juni 2026*
 
 Es handelt sich um das Konto mit der höchsten Autorisierung, das uneingeschränkten Zugriff auf alle Dateien, Einstellungen und Befehle eines Betriebssystems bietet.
 

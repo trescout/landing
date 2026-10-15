@@ -1,6 +1,6 @@
 # Was ist Infrastructure as Code?
 
-*Dev · Zuletzt aktualisiert: 12. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 12. Juli 2026*
 
 > IaC
 

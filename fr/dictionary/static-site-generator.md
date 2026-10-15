@@ -1,6 +1,6 @@
 # Qu'est-ce que Static Site Generator ?
 
-*Dev · Dernière mise à jour : 3 août 2026*
+*Développement · Dernière mise à jour : 3 août 2026*
 
 Un outil qui prend du contenu et des modèles prêts à l'emploi et les transforme en pages Web fixes prêtes à être présentées à l'utilisateur.
 

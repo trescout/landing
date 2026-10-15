@@ -1,6 +1,6 @@
 # Qu'est-ce que Script ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Un script (dont l'équivalent en turc est betik) est une courte suite de commandes qui exécute automatiquement une seule tâche.
 

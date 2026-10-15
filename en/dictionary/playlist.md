@@ -1,6 +1,6 @@
 # What is Playlist?
 
-*Data · Last updated: September 19, 2026*
+*Data & Infra · Last updated: September 19, 2026*
 
 A playlist (or "çalma listesi" / "oynatma listesi" in Turkish) is a sequential collection of digital audio, video, or data content brought together to be played back consecutively according to a specific order, theme, or algorithmic logic.
 

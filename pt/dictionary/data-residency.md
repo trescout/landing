@@ -1,6 +1,6 @@
 # O que é Data Residency?
 
-*Data · Última atualização: 9 de agosto de 2026*
+*Dados e infraestrutura · Última atualização: 9 de agosto de 2026*
 
 É a obrigação de manter os dados dentro das fronteiras de uma determinada região geográfica ou país por motivos legais.
 

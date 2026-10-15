@@ -1,6 +1,6 @@
 # ¿Qué es Agentic Skills Framework?
 
-*AI · Última actualización: 11 de junio de 2026*
+*Inteligencia artificial · Última actualización: 11 de junio de 2026*
 
 Se trata de un conjunto de reglas que se utilizan para mejorar la capacidad de la inteligencia artificial para actuar de forma independiente y utilizar vehículos.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que IDE ?
 
-*Dev · Dernière mise à jour : 3 août 2026*
+*Développement · Dernière mise à jour : 3 août 2026*
 
 > Integrated Development Environment
 

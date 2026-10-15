@@ -1,6 +1,6 @@
 # What is Wordlists?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 A wordlist is a list of candidates tested during security testing.
 

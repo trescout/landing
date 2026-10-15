@@ -1,6 +1,6 @@
 # Was ist Weights?
 
-*AI · Zuletzt aktualisiert: 27. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 27. September 2026*
 
 Dies sind die numerischen Werte, die KI-Modelle während des Trainings lernen und die ihre Entscheidungen formen.
 

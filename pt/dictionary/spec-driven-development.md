@@ -1,6 +1,6 @@
 # O que é Spec-driven Development?
 
-*Dev · Última atualização: 5 de junho de 2026*
+*Desenvolvimento · Última atualização: 5 de junho de 2026*
 
 Antes de começar a codificar o software, todos os detalhes e regras são feitos de acordo com um documento pré-determinado.
 

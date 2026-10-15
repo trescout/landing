@@ -1,6 +1,6 @@
 # Qu'est-ce que Code Intelligence Graph ?
 
-*Dev · Dernière mise à jour : 18 juillet 2026*
+*Développement · Dernière mise à jour : 18 juillet 2026*
 
 Il s'agit d'une carte détaillée qui montre les relations de tous les fichiers, fonctions et variables d'un projet logiciel.
 

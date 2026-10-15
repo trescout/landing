@@ -1,6 +1,6 @@
 # Was ist Home Automation?
 
-*AI · Zuletzt aktualisiert: 19. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 19. September 2026*
 
 Unter Hausautomation (Smart Home Automation) versteht man die automatische Verwaltung von Beleuchtungs-, Klima-, Sicherheits- und Energiesystemen innerhalb des Wohnsitzes mithilfe von Sensoren, Netzwerkprotokollen und Softwareregeln, ohne dass ein menschliches Eingreifen erforderlich ist.
 

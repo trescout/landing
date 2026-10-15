@@ -1,6 +1,6 @@
 # O que é LSP?
 
-*Dev · Última atualização: 19 de setembro de 2026*
+*Desenvolvimento · Última atualização: 19 de setembro de 2026*
 
 > Language Server Protocol
 

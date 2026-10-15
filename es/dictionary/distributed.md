@@ -1,6 +1,6 @@
 # Distributed Systems: Falacias, teorema CAP, consenso y patrón Saga
 
-*Dev · Última actualización: 19 de septiembre de 2026*
+*Desarrollo · Última actualización: 19 de septiembre de 2026*
 
 Un sistema distribuido es una arquitectura informática formada por múltiples ordenadores independientes interconectados por red que colaboran para ofrecer un servicio unificado y tolerante a fallos.
 

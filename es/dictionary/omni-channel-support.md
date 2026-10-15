@@ -1,6 +1,6 @@
 # ¿Qué es Omni-channel Support?
 
-*Dev · Última actualización: 16 de junio de 2026*
+*Desarrollo · Última actualización: 16 de junio de 2026*
 
 Es la estructura de soporte que permite a los clientes llegar a una marca de forma ininterrumpida y conectada a través de todos los canales.
 

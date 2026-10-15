@@ -1,6 +1,6 @@
 # What is Home Automation?
 
-*AI · Last updated: September 19, 2026*
+*Artificial Intelligence · Last updated: September 19, 2026*
 
 Home Automation (smart home automation) is the automatic management of lighting, air conditioning, security and energy systems within the home with sensors, network protocols and software rules, without the need for human intervention.
 

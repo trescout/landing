@@ -1,6 +1,6 @@
 # Qu'est-ce que Emulator ?
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Un émulateur est une couche système qui imite par logiciel l'architecture matérielle physique d'un ordinateur, d'un appareil mobile ou d'une console de jeux, vous permettant ainsi d'exécuter sur votre propre appareil des logiciels appartenant à des plates-formes étrangères.
 

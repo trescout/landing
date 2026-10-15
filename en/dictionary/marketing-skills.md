@@ -1,6 +1,6 @@
 # What is Marketing Skills?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 Marketing skills are the skills to deliver the product to the right audience.
 

@@ -1,6 +1,6 @@
 # Was ist Compile-time?
 
-*Dev · Zuletzt aktualisiert: 7. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 7. Juni 2026*
 
 In der Vorbereitungsphase wird der geschriebene Code in eine für den Computer verständliche Sprache übersetzt und auf Fehler überprüft.
 

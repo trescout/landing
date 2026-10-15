@@ -1,6 +1,6 @@
 # What is Weights?
 
-*AI · Last updated: September 27, 2026*
+*Artificial Intelligence · Last updated: September 27, 2026*
 
 They are numerical values learned by artificial intelligence models during training that shape their decisions.
 

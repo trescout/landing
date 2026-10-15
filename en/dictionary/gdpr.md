@@ -1,6 +1,6 @@
 # What is GDPR?
 
-*Data · Last updated: August 9, 2026*
+*Data & Infra · Last updated: August 9, 2026*
 
 > General Data Protection Regulation
 

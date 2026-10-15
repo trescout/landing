@@ -1,6 +1,6 @@
 # PKM: Gestión del conocimiento personal, Zettelkasten y notas en red
 
-*Data & Infra · Última actualización: 20 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 20 de septiembre de 2026*
 
 PKM (Personal Knowledge Management o gestión del conocimiento personal) comprende los hábitos y herramientas digitales mediante los que una persona recopila, conecta y transforma información en saber duradero.
 

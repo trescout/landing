@@ -1,6 +1,6 @@
 # Qu'est-ce que Benchmark ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 Le benchmark (ou test de référence en français) est une mesure et une comparaison des performances au moyen d'un test standard.
 

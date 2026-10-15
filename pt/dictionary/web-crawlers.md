@@ -1,6 +1,6 @@
 # O que é Web Crawlers?
 
-*Data · Última atualização: 31 de agosto de 2026*
+*Dados e infraestrutura · Última atualização: 31 de agosto de 2026*
 
 São bots de software que navegam automaticamente pelas páginas da internet e registram dados.
 

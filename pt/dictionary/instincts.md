@@ -1,6 +1,6 @@
 # O que é Instincts?
 
-*AI · Última atualização: 3 de junho de 2026*
+*Inteligência artificial · Última atualização: 3 de junho de 2026*
 
 São reações rápidas e automáticas que a inteligência artificial dá sem pensar, utilizando os padrões que aprendeu durante o processo de treinamento.
 

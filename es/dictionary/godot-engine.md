@@ -1,6 +1,6 @@
 # ¿Qué es Godot Engine?
 
-*Dev · Última actualización: 3 de junio de 2026*
+*Desarrollo · Última actualización: 3 de junio de 2026*
 
 Es una plataforma de software completamente gratuita y de código abierto que se utiliza para el desarrollo de juegos.
 

@@ -1,6 +1,6 @@
 # What is Prediction Market?
 
-*Data · Last updated: June 3, 2026*
+*Data & Infra · Last updated: June 3, 2026*
 
 It is a marketplace created to predict the outcomes of future events.
 

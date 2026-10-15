@@ -1,6 +1,6 @@
 # ¿Qué es Testing Framework?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Un framework de pruebas (su equivalente en turco es test çatısı) es una infraestructura lista para usar que escribe y ejecuta pruebas.
 

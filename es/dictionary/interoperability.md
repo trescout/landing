@@ -1,6 +1,6 @@
 # ¿Qué es Interoperability?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 La interoperabilidad es la capacidad de diferentes sistemas para intercambiar datos con estándares comunes.
 

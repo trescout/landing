@@ -1,6 +1,6 @@
 # Assembly: Definición, registros y arquitectura de sistemas
 
-*Dev · Última actualización: 19 de septiembre de 2026*
+*Desarrollo · Última actualización: 19 de septiembre de 2026*
 
 Assembly representa dos conceptos fundamentales en ciencias de la computación: el lenguaje simbólico de más bajo nivel que controla directamente el procesador (CPU), y los paquetes compilados de despliegue (.NET assemblies).
 

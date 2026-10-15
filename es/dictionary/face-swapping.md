@@ -1,6 +1,6 @@
 # ¿Qué es Face Swapping?
 
-*AI · Última actualización: 22 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
 El intercambio de rostros (face swapping) es el proceso de transferir la expresión de una cara a otra en un video.
 

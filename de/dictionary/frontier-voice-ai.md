@@ -1,6 +1,6 @@
 # Was ist Frontier Voice AI?
 
-*AI · Zuletzt aktualisiert: 30. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 30. Juli 2026*
 
 Die fortschrittlichsten Technologien der künstlichen Sprachintelligenz, die wie ein Mensch natürlich, emotional und in Echtzeit reagieren können.
 

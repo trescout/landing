@@ -1,6 +1,6 @@
 # ¿Qué es Voice Synthesis?
 
-*AI · Última actualización: 20 de julio de 2026*
+*Inteligencia artificial · Última actualización: 20 de julio de 2026*
 
 Es la tecnología de expresar textos escritos con una voz humana natural y fluida mediante una computadora.
 

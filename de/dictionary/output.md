@@ -1,6 +1,6 @@
 # Was ist Output?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Output (Türkçe karşılığıyla çıktı), işlem sonucu üretilen veridir.
 

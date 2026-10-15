@@ -1,6 +1,6 @@
 # ¿Qué es Endpoint?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Endpoint (en español, punto final) es el dispositivo en el extremo del usuario de la red o el extremo de una API.
 

@@ -1,6 +1,6 @@
 # O que é Apple Intelligence?
 
-*AI · Última atualização: 5 de outubro de 2026*
+*Inteligência artificial · Última atualização: 5 de outubro de 2026*
 
 É um sistema de inteligência artificial pessoal focado em privacidade, integrado aos dispositivos do ecossistema Apple.
 

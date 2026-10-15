@@ -1,6 +1,6 @@
 # What is Monorepo?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Monorepo (mono repository, single repository) is a system of keeping multiple projects in a single repository.
 

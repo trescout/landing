@@ -1,6 +1,6 @@
 # O que é Logs?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Log, que significa registro em português, são linhas de eventos do sistema com carimbo de data/hora.
 

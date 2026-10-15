@@ -1,6 +1,6 @@
 # O que é Rust?
 
-*Dev · Última atualização: 14 de junho de 2026*
+*Desenvolvimento · Última atualização: 14 de junho de 2026*
 
 É uma linguagem de programação de sistema de alto desempenho que prioriza a segurança da memória.
 

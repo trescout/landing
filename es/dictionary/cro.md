@@ -1,6 +1,6 @@
 # ¿Qué es CRO?
 
-*Data · Última actualización: 6 de julio de 2026*
+*Datos e infraestructura · Última actualización: 6 de julio de 2026*
 
 > Conversion Rate Optimization
 

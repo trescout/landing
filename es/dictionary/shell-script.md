@@ -1,6 +1,6 @@
 # ¿Qué es Shell Script?
 
-*Dev · Última actualización: 17 de agosto de 2026*
+*Desarrollo · Última actualización: 17 de agosto de 2026*
 
 Estos son pequeños scripts que le indican al sistema operativo de la computadora que haga el trabajo que debe realizarse en orden.
 

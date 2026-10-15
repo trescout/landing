@@ -1,6 +1,6 @@
 # Qu'est-ce que Telemetry ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 La télémétrie est la collecte et la transmission automatiques d'informations sur l'état des logiciels et des appareils vers un centre de données.
 

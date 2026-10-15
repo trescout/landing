@@ -1,6 +1,6 @@
 # Was ist Batch Processing?
 
-*Dev · Zuletzt aktualisiert: 10. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 10. Juni 2026*
 
 Dabei handelt es sich um die automatische Ausführung vieler Vorgänge im Hintergrund als Gruppe und nicht einzeln.
 

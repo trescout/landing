@@ -1,6 +1,6 @@
 # What is Service Mesh?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Service mesh is the invisible infrastructure layer that manages the traffic of microservices.
 

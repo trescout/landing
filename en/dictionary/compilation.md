@@ -1,6 +1,6 @@
 # What is Compilation?
 
-*Dev · Last updated: June 14, 2026*
+*Development · Last updated: June 14, 2026*
 
 It is the process of converting codes written close to human language into machine language that the computer's processor can understand.
 

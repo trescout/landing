@@ -1,6 +1,6 @@
 # Qu'est-ce que Localhost ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Localhost est le nom de réseau privé par lequel votre ordinateur se désigne lui-même. Son équivalent est l'adresse 127.0.0.1.
 

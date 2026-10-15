@@ -1,6 +1,6 @@
 # What is Multimodal Large Language Model?
 
-*AI · Last updated: August 7, 2026*
+*Artificial Intelligence · Last updated: August 7, 2026*
 
 Not just with text; They are advanced artificial intelligence models that can simultaneously process different types of data such as image, audio and video.
 

@@ -1,6 +1,6 @@
 # O que é Agent-native Applications?
 
-*AI · Última atualização: 20 de junho de 2026*
+*Inteligência artificial · Última atualização: 20 de junho de 2026*
 
 São aplicativos desenvolvidos especificamente para que agentes de inteligência artificial tomem decisões e realizem transações.
 

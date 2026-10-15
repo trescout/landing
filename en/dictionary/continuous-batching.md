@@ -1,6 +1,6 @@
 # What is Continuous Batching?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 Continuous batching is a technique that feeds requests into the engine without making them wait.
 

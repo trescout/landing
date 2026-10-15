@@ -1,6 +1,6 @@
 # Qu'est-ce que Regulatory Restriction ?
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Une restriction réglementaire (regulatory restriction) est un cadre juridique par lequel les gouvernements, les autorités internationales ou les organismes de réglementation sectoriels limitent le développement, l'utilisation des données, la distribution ou l'exportation de technologies par des règles contraignantes.
 

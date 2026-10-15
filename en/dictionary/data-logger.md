@@ -1,6 +1,6 @@
 # What is Data Logger?
 
-*Data · Last updated: June 16, 2026*
+*Data & Infra · Last updated: June 16, 2026*
 
 It is an electronic device that records and stores data from sensors at regular intervals.
 

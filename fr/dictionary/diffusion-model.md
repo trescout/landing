@@ -1,6 +1,6 @@
 # Qu'est-ce que Diffusion Model ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit d’une méthode d’intelligence artificielle qui produit des images nettes et significatives à partir de données bruitées.
 

@@ -1,6 +1,6 @@
 # What is Cloud Development Environments?
 
-*Dev · Last updated: September 19, 2026*
+*Development · Last updated: September 19, 2026*
 
 > CDE
 

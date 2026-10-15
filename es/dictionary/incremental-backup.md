@@ -1,6 +1,6 @@
 # ¿Qué es Incremental Backup?
 
-*Data · Última actualización: 12 de junio de 2026*
+*Datos e infraestructura · Última actualización: 12 de junio de 2026*
 
 Es un método de copia de seguridad que ahorra tiempo y espacio al guardar solo los archivos que han cambiado desde la última copia de seguridad.
 

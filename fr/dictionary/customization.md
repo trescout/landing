@@ -1,6 +1,6 @@
 # Qu'est-ce que Customization ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 La personnalisation consiste à adapter un produit prêt à l'emploi à vos propres besoins.
 

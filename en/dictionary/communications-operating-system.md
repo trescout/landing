@@ -1,6 +1,6 @@
 # What is Communications Operating System?
 
-*Dev · Last updated: June 18, 2026*
+*Development · Last updated: June 18, 2026*
 
 It is a software platform that allows managing different communication tools and channels from a single center.
 

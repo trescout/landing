@@ -1,6 +1,6 @@
 # Qu'est-ce que Redaction ?
 
-*Data · Dernière mise à jour : 5 octobre 2026*
+*Données et infra · Dernière mise à jour : 5 octobre 2026*
 
 Il s'agit du processus d'occultation ou de suppression permanente d'informations sensibles ou confidentielles dans des documents.
 

@@ -1,6 +1,6 @@
 # What is Deployment Platform?
 
-*Dev · Last updated: September 29, 2026*
+*Development · Last updated: September 29, 2026*
 
 A service that allows you to upload the software you develop to the internet and make it available to everyone.
 

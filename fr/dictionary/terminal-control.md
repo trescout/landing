@@ -1,6 +1,6 @@
 # Qu'est-ce que Terminal Control ?
 
-*Dev · Dernière mise à jour : 10 juillet 2026*
+*Développement · Dernière mise à jour : 10 juillet 2026*
 
 C'est le processus qui consiste à donner des instructions à l'ordinateur directement via la ligne de commande, sans utiliser d'interface graphique (souris et fenêtres).
 

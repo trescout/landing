@@ -1,6 +1,6 @@
 # Was ist Algorithmic Trading?
 
-*Data · Zuletzt aktualisiert: 3. Juni 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 3. Juni 2026*
 
 Kauf- und Verkaufstransaktionen an der Börse und an den Finanzmärkten werden im Rahmen vorgegebener Regeln automatisch durch Software durchgeführt.
 

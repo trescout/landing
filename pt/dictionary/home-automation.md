@@ -1,6 +1,6 @@
 # O que é Home Automation?
 
-*AI · Última atualização: 19 de setembro de 2026*
+*Inteligência artificial · Última atualização: 19 de setembro de 2026*
 
 Automação residencial (automação residencial inteligente) é o gerenciamento automático dos sistemas de iluminação, ar condicionado, segurança e energia dentro da residência com sensores, protocolos de rede e regras de software, sem necessidade de intervenção humana.
 

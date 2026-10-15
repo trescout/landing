@@ -1,6 +1,6 @@
 # Was ist Telemetry?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Telemetrie (Fernmessung auf Türkisch) ist die automatische Erfassung von Statusinformationen von Software und Geräten und deren Übermittlung an die Zentrale.
 

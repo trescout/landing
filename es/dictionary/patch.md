@@ -1,6 +1,6 @@
 # ¿Qué es Patch?
 
-*Dev · Última actualización: 9 de julio de 2026*
+*Desarrollo · Última actualización: 9 de julio de 2026*
 
 Es un pequeño parche de actualización que se aplica para corregir errores o eliminar deficiencias en el software.
 

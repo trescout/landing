@@ -1,6 +1,6 @@
 # Distributed Systems: Irrtümer, CAP-Theorem, Konsens und Saga-Muster
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Ein verteiltes System (Distributed System) ist ein Verbund unabhängiger Rechnerknoten, die über ein Computernetzwerk kommunizieren und zusammenarbeiten, um für den Anwender wie ein einziges, konsistentes Gesamtsystem zu wirken.
 

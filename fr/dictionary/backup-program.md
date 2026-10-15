@@ -1,6 +1,6 @@
 # Qu'est-ce que Backup Program ?
 
-*Data · Dernière mise à jour : 22 septembre 2026*
+*Données et infra · Dernière mise à jour : 22 septembre 2026*
 
 Un logiciel de sauvegarde (backup program en anglais) est un programme qui copie régulièrement les données.
 

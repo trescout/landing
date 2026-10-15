@@ -1,6 +1,6 @@
 # Qu'est-ce que Productivity ?
 
-*AI · Dernière mise à jour : 19 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 19 septembre 2026*
 
 La productivité est la mesure de performance fondamentale qui exprime le rapport entre les ressources dépensées (temps, énergie, travail ou capital) et la qualité du résultat obtenu.
 

@@ -1,6 +1,6 @@
 # Was ist Specification?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Eine Spezifikation (kurz Spec, deutsch Lastenheft oder Pflichtenheft) ist ein technisches Dokument, das beschreibt, was ein Produkt leisten soll und welche Regeln dabei gelten.
 

@@ -1,6 +1,6 @@
 # What is Spatial Intelligence?
 
-*AI · Last updated: August 31, 2026*
+*Artificial Intelligence · Last updated: August 31, 2026*
 
 It is the ability of computers to perceive and make sense of the position and movement of objects in the physical world.
 

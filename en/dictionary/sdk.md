@@ -1,6 +1,6 @@
 # What is SDK?
 
-*Dev · Last updated: June 16, 2026*
+*Development · Last updated: June 16, 2026*
 
 > Software Development Kit
 

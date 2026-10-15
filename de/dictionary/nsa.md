@@ -1,6 +1,6 @@
 # Was ist NSA?
 
-*Data · Zuletzt aktualisiert: 1. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 1. September 2026*
 
 > National Security Agency
 

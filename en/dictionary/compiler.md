@@ -1,6 +1,6 @@
 # What is Compiler?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Compiler is a program that translates the code you write into machine language that the computer can run.
 

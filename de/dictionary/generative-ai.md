@@ -1,6 +1,6 @@
 # Was ist Generative AI?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 Generative KI ist die allgemeine Bezeichnung für Modelle, die neue Inhalte produzieren.
 

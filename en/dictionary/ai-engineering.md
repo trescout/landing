@@ -1,6 +1,6 @@
 # What is AI Engineering?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 AI engineering is the discipline of turning models into reliable, production-ready systems.
 

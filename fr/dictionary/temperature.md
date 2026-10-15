@@ -1,6 +1,6 @@
 # Qu'est-ce que Temperature ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 C’est le cadre qui détermine le niveau de créativité des réponses produites par l’intelligence artificielle.
 

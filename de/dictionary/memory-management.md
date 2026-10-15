@@ -1,6 +1,6 @@
 # Was ist Memory Management?
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Beim Speichermanagement handelt es sich um den Prozess der Zuteilung des physischen und virtuellen Arbeitsspeichers (RAM) des Computers unter laufender Software, dessen Schutz und die Rückgabe an das System nach Beendigung der Nutzung.
 

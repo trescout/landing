@@ -1,6 +1,6 @@
 # Qu'est-ce que Agents Directory ?
 
-*AI · Dernière mise à jour : 11 octobre 2026*
+*Intelligence artificielle · Dernière mise à jour : 11 octobre 2026*
 
 Il s'agit d'une structure de dossier spéciale qui regroupe les comportements, les outils et les règles des agents d'intelligence artificielle dans les projets logiciels.
 

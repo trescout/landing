@@ -1,6 +1,6 @@
 # O que é Autonomous Robotics?
 
-*AI · Última atualização: 22 de setembro de 2026*
+*Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
 Robótica autônoma é a ciência das máquinas que se movimentam sem assistência.
 

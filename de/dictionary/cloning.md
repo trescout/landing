@@ -1,6 +1,6 @@
 # Was ist Cloning?
 
-*Dev · Zuletzt aktualisiert: 26. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 26. Juni 2026*
 
 Dabei handelt es sich um den Vorgang des Duplizierens eines Softwareprojekts oder ganzer Daten durch Kopieren an einen anderen Ort.
 

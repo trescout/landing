@@ -1,6 +1,6 @@
 # Was ist Graph RAG?
 
-*AI · Zuletzt aktualisiert: 31. August 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 31. August 2026*
 
 > Graph Retrieval-Augmented Generation
 

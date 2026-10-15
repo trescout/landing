@@ -1,6 +1,6 @@
 # What is Chrome DevTools?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Chrome DevTools is the in-browser developer panel.
 

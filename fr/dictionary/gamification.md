@@ -1,6 +1,6 @@
 # Qu'est-ce que Gamification ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 La gamification est l'utilisation d'éléments de jeu tels que des points, des badges et des niveaux pour augmenter la motivation dans des tâches non liées au jeu.
 

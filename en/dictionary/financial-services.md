@@ -1,6 +1,6 @@
 # What is Financial Services?
 
-*Dev · Last updated: September 27, 2026*
+*Development · Last updated: September 27, 2026*
 
 All professional services related to money management, such as banking, investment, and insurance.
 

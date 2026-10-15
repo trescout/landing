@@ -1,6 +1,6 @@
 # O que é Best Practices?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 As melhores práticas, conhecidas em turco como "en iyi uygulamalar", são métodos de trabalho testados e aprovados pela comunidade.
 

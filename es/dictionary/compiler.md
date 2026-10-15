@@ -1,6 +1,6 @@
 # ¿Qué es Compiler?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Un compilador (derleyici en turco) es un programa que traduce el código que escribes al lenguaje máquina que el ordenador puede ejecutar.
 

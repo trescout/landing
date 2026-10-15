@@ -1,6 +1,6 @@
 # Distributed Systems : Mythes, théorème CAP, consensus et transactions Saga
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Un système distribué (ou système réparti) est une architecture informatique composée de multiples machines autonomes reliées par un réseau qui coordonnent leurs actions pour paraître unifiées aux utilisateurs.
 

@@ -1,6 +1,6 @@
 # What is Incremental Backup?
 
-*Data · Last updated: June 12, 2026*
+*Data & Infra · Last updated: June 12, 2026*
 
 It is a backup method that saves time and space by saving only the files that have changed since the last backup.
 

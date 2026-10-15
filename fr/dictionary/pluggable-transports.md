@@ -1,6 +1,6 @@
 # Qu'est-ce que Pluggable Transports ?
 
-*Dev · Dernière mise à jour : 12 septembre 2026*
+*Développement · Dernière mise à jour : 12 septembre 2026*
 
 Ce sont des méthodes de connexion utilisées pour contourner la censure et les blocages en dissimulant le trafic Internet.
 

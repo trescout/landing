@@ -1,6 +1,6 @@
 # Qu'est-ce que Memory System ?
 
-*AI · Dernière mise à jour : 9 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 9 juin 2026*
 
 C’est l’architecture de stockage qui permet à l’intelligence artificielle de mémoriser les interactions passées, les préférences des utilisateurs et les données.
 

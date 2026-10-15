@@ -1,6 +1,6 @@
 # What is Virtual Machines?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 A virtual machine is an independent computer that shares hardware.
 

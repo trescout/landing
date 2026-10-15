@@ -1,6 +1,6 @@
 # O que é Opinionated Tools?
 
-*Dev · Última atualização: 28 de junho de 2026*
+*Desenvolvimento · Última atualização: 28 de junho de 2026*
 
 São ferramentas de software que predeterminam e impõem o melhor método de trabalho em vez de oferecer muitas opções ao usuário.
 

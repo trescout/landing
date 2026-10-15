@@ -1,6 +1,6 @@
 # Qu'est-ce que DNS Tunneling ?
 
-*Dev · Dernière mise à jour : 11 juin 2026*
+*Développement · Dernière mise à jour : 11 juin 2026*
 
 Il s'agit d'une méthode permettant de faire passer secrètement le trafic Internet via le système normalement utilisé pour trouver des adresses.
 

@@ -1,6 +1,6 @@
 # O que é AI Coding Assistants?
 
-*Dev · Última atualização: 14 de julho de 2026*
+*Desenvolvimento · Última atualização: 14 de julho de 2026*
 
 São ferramentas de inteligência artificial que oferecem sugestões aos desenvolvedores de software na hora de escrever códigos, encontram erros e agilizam o processo de desenvolvimento.
 

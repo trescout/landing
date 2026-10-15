@@ -1,6 +1,6 @@
 # Was ist Refactoring?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Refactoring (auf Deutsch: Umgestaltung) ist die Vereinfachung von Code unter Beibehaltung seines Verhaltens.
 

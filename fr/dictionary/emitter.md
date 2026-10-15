@@ -1,6 +1,6 @@
 # Qu'est-ce que Emitter ?
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Emitter est un terme critique qui apparaît dans deux domaines fondamentaux du génie logiciel : le mécanisme qui annonce les changements d'état aux écouteurs dans les architectures événementielles (Event Emitter) et le module de génération de code (Code Emitter) qui convertit le code analysé en langage machine cible ou en bytecode dans la technologie de compilateur (Compiler).
 

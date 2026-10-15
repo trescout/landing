@@ -1,6 +1,6 @@
 # Qu'est-ce que Experts Streamed from Disk ?
 
-*AI · Dernière mise à jour : 14 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 14 septembre 2026*
 
 Il s'agit d'une méthode consistant à charger instantanément des parties de modèles d'intelligence artificielle massifs depuis le disque lorsqu'elles ne tiennent pas dans la mémoire.
 

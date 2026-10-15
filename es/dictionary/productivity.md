@@ -1,6 +1,6 @@
 # ¿Qué es Productivity?
 
-*AI · Última actualización: 19 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 19 de septiembre de 2026*
 
 La productividad (verimlilik en su equivalente en turco) es la métrica de éxito fundamental que expresa la proporción entre los recursos gastados (tiempo, energía, trabajo o capital) y la producción de calidad generada.
 

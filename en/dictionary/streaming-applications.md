@@ -1,6 +1,6 @@
 # What is Streaming Applications?
 
-*Dev · Last updated: June 17, 2026*
+*Development · Last updated: June 17, 2026*
 
 These are applications that offer instant viewing or listening by pulling large files piece by piece over the internet, without having to download them completely.
 

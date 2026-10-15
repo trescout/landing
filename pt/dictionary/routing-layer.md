@@ -1,6 +1,6 @@
 # O que é Routing Layer?
 
-*Dev · Última atualização: 27 de setembro de 2026*
+*Desenvolvimento · Última atualização: 27 de setembro de 2026*
 
 A camada de roteamento digital que gerencia o tráfego para que os dados ou solicitações recebidos cheguem ao destino correto.
 

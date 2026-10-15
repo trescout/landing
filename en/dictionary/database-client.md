@@ -1,6 +1,6 @@
 # What is Database Client?
 
-*Dev · Last updated: September 29, 2026*
+*Development · Last updated: September 29, 2026*
 
 A tool program that allows you to access and manage information in the database.
 

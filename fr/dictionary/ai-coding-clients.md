@@ -1,6 +1,6 @@
 # Qu'est-ce que AI Coding Clients ?
 
-*Dev · Dernière mise à jour : 6 août 2026*
+*Développement · Dernière mise à jour : 6 août 2026*
 
 Il s'agit de logiciels basés sur l'intelligence artificielle qui accompagnent le développeur dans les tâches de codage, de débogage et de réalisation de projet pendant le processus de développement logiciel.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Userspace?
 
-*Dev · Última actualización: 3 de agosto de 2026*
+*Desarrollo · Última actualización: 3 de agosto de 2026*
 
 Un área segura donde se ejecutan las aplicaciones del usuario sin interferir con el kernel de la computadora.
 

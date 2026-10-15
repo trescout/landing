@@ -1,6 +1,6 @@
 # Was ist Sandboxing?
 
-*Dev · Zuletzt aktualisiert: 3. Oktober 2026*
+*Entwicklung · Zuletzt aktualisiert: 3. Oktober 2026*
 
 Eine Technik, bei der Software oder verdächtiger Code in einer isolierten Umgebung ausgeführt wird, um Schäden am Hauptsystem und an der Umgebung zu verhindern.
 

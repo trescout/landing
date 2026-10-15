@@ -1,6 +1,6 @@
 # O que é Prompt Injection?
 
-*AI · Última atualização: 27 de setembro de 2026*
+*Inteligência artificial · Última atualização: 27 de setembro de 2026*
 
 São comandos enganosos dados para enganar a inteligência artificial e fazer com que ela ultrapasse as regras de segurança.
 

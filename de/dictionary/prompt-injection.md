@@ -1,6 +1,6 @@
 # Was ist Prompt Injection?
 
-*AI · Zuletzt aktualisiert: 27. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 27. September 2026*
 
 Dies sind irreführende Befehle, die der künstlichen Intelligenz gegeben werden, um sie auszutricksen und Sicherheitsregeln zu umgehen.
 

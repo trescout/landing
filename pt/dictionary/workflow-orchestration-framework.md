@@ -1,6 +1,6 @@
 # O que é Workflow Orchestration Framework?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Uma estrutura de orquestração de fluxo de trabalho é a infraestrutura que enfileira tarefas dependentes e gerencia erros.
 

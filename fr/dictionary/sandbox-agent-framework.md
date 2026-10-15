@@ -1,6 +1,6 @@
 # Qu'est-ce que Sandbox Agent Framework ?
 
-*AI · Dernière mise à jour : 19 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 19 juin 2026*
 
 C'est l'infrastructure qui permet aux agents d'intelligence artificielle de travailler dans une zone sûre sans endommager le système principal.
 

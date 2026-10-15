@@ -1,6 +1,6 @@
 # Qu'est-ce que Product Development Cycle ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Le cycle de développement d'un produit correspond aux étapes du parcours du produit, de l'idée à l'utilisateur.
 

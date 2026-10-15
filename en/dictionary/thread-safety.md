@@ -1,6 +1,6 @@
 # What is Thread-safety?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Thread safety means that a code does not corrupt data when executed by more than one thread at the same time.
 

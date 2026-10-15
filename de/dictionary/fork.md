@@ -1,6 +1,6 @@
 # Was ist Fork?
 
-*Dev · Zuletzt aktualisiert: 27. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 27. September 2026*
 
 Der Prozess, eine Kopie eines vorhandenen Softwareprojekts zu erstellen und damit zu beginnen, selbstständig neue Änderungen daran vorzunehmen.
 

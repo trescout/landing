@@ -1,6 +1,6 @@
 # ¿Qué es Application?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 La aplicación es un software de usuario que realiza un trabajo específico.
 

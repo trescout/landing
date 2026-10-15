@@ -1,6 +1,6 @@
 # What is Specification?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Specification (spec for short, specification in Turkish) is a technical document that writes what the product will do and its rules.
 

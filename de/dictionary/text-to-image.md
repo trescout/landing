@@ -1,6 +1,6 @@
 # Was ist Text-to-Image?
 
-*AI · Zuletzt aktualisiert: 28. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 28. September 2026*
 
 Dabei handelt es sich um eine Technologie der künstlichen Intelligenz, die geschriebene Textanweisungen analysiert und entsprechende Originalbilder erstellt.
 

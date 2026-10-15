@@ -1,6 +1,6 @@
 # What is Native?
 
-*Dev · Last updated: September 11, 2026*
+*Development · Last updated: September 11, 2026*
 
 It refers to software that is specifically built for the operating system of the device it runs on and is designed to provide the highest performance.
 

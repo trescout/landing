@@ -1,6 +1,6 @@
 # Append-Only Log : Immutabilité, Write-Ahead Log et stockage séquentiel
 
-*Data & Infra · Dernière mise à jour : 20 septembre 2026*
+*Données et infra · Dernière mise à jour : 20 septembre 2026*
 
 Un append-only log (journal à ajout seul) est une structure de données où les nouveaux enregistrements s'écrivent exclusivement à la suite à la fin du fichier, les données existantes demeurant rigoureusement immuables.
 

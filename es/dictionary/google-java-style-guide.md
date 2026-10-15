@@ -1,6 +1,6 @@
 # ¿Qué es Google Java Style Guide?
 
-*Diccionario · Des · Última actualización: 20 de septiembre de 2026*
+*Desarrollo · Última actualización: 20 de septiembre de 2026*
 
 El Google Java Style Guide es un compendio de estándares oficiales de programación definido por Google para garantizar legibilidad, coherencia y facilidad de mantenimiento en proyectos Java corporativos y de código abierto.
 

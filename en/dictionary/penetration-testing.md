@@ -1,6 +1,6 @@
 # What is Penetration Testing?
 
-*Dev · Last updated: July 1, 2026*
+*Development · Last updated: July 1, 2026*
 
 These are controlled cyber attack attempts made by experts to test the security of systems.
 

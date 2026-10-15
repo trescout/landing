@@ -1,6 +1,6 @@
 # What is ab (ApacheBench)?
 
-*Dev · Last updated: October 1, 2026*
+*Development · Last updated: October 1, 2026*
 
 > ApacheBench
 

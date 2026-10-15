@@ -1,6 +1,6 @@
 # O que é System Prompts?
 
-*AI · Última atualização: 10 de junho de 2026*
+*Inteligência artificial · Última atualização: 10 de junho de 2026*
 
 É um conjunto de instruções básicas que determinam como a inteligência artificial se comportará e quais regras ela seguirá.
 

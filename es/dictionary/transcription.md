@@ -1,6 +1,6 @@
 # ¿Qué es Transcription?
 
-*AI · Última actualización: 22 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
 La transcripción es el proceso de convertir una grabación de audio en texto escrito.
 

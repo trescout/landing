@@ -1,6 +1,6 @@
 # What is Benchmark?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 A benchmark is the measurement and comparison of performance using a standard test.
 

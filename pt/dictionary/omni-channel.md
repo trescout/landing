@@ -1,6 +1,6 @@
 # O que é Omni-channel?
 
-*Data · Última atualização: 22 de setembro de 2026*
+*Dados e infraestrutura · Última atualização: 22 de setembro de 2026*
 
 Omni-channel (tradução em português: omnicanalidade) é a operação síncrona de todos os canais de vendas.
 

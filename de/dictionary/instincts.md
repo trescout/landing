@@ -1,6 +1,6 @@
 # Was ist Instincts?
 
-*AI · Zuletzt aktualisiert: 3. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um schnelle und automatische Reaktionen, die künstliche Intelligenz ohne nachzudenken ausführt und dabei die Muster nutzt, die sie während des Trainingsprozesses gelernt hat.
 

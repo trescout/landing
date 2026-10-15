@@ -1,6 +1,6 @@
 # Was ist Endpoint Detection and Response?
 
-*Dev · Zuletzt aktualisiert: 14. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 14. September 2026*
 
 > Endpoint Detection and Response
 

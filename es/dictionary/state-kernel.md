@@ -1,6 +1,6 @@
 # ¿Qué es State Kernel?
 
-*Dev · Última actualización: 6 de agosto de 2026*
+*Desarrollo · Última actualización: 6 de agosto de 2026*
 
 Es la estructura central básica que mantiene en la memoria toda la información y los datos de trabajo actuales de un software.
 

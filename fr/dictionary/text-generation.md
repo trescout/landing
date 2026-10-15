@@ -1,6 +1,6 @@
 # Qu'est-ce que Text Generation ?
 
-*AI · Dernière mise à jour : 7 août 2026*
+*Intelligence artificielle · Dernière mise à jour : 7 août 2026*
 
 C'est la capacité de l'ordinateur à produire du texte en construisant des phrases significatives et naturelles basées sur les commandes données.
 

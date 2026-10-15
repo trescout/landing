@@ -1,6 +1,6 @@
 # What is Load Generator?
 
-*Dev · Last updated: September 30, 2026*
+*Development · Last updated: September 30, 2026*
 
 A tool that generates artificial user traffic to measure how much traffic a system can handle.
 

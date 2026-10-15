@@ -1,6 +1,6 @@
 # O que é Harness?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Harness (em português, conjunto de testes) é uma estrutura que testa o código automaticamente.
 

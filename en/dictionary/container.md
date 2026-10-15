@@ -1,6 +1,6 @@
 # What is Container?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 A container packages an application with its code and dependencies into a single unit, ensuring it runs identically in any environment.
 

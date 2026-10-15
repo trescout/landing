@@ -1,6 +1,6 @@
 # Was ist Attention Mechanism?
 
-*AI · Zuletzt aktualisiert: 29. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 29. September 2026*
 
 Eine Methode, die es künstlicher Intelligenz ermöglicht, die Bedeutung besser zu erfassen, indem sie sich auf die wichtigsten Wörter in einem Text konzentriert.
 

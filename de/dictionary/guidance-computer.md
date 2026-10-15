@@ -1,6 +1,6 @@
 # Was ist Guidance Computer?
 
-*AI · Zuletzt aktualisiert: 23. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 23. Juli 2026*
 
 Es ist das Führungsgehirn, das die Route eines Fahrzeugs oder Systems berechnet und es ihm ermöglicht, das Ziel autonom zu erreichen.
 

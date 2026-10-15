@@ -1,6 +1,6 @@
 # Was ist Deep Learning?
 
-*AI · Zuletzt aktualisiert: 1. August 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 1. August 2026*
 
 Dabei handelt es sich um eine Methode des maschinellen Lernens, die es Computern ermöglicht, mithilfe künstlicher neuronaler Netze selbstständig aus großen Datenmengen zu lernen.
 

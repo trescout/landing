@@ -1,6 +1,6 @@
 # What is Key-based?
 
-*Dev · Last updated: June 19, 2026*
+*Development · Last updated: June 19, 2026*
 
 It is a method based on a special key code for system entry or data security.
 

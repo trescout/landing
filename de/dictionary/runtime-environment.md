@@ -1,6 +1,6 @@
 # Was ist Runtime Environment?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Die Laufzeitumgebung (Runtime Environment) ist die Bibliotheks- und Ressourcenebene, in der der Code ausgeführt wird.
 

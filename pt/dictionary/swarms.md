@@ -1,6 +1,6 @@
 # O que é Swarms?
 
-*AI · Última atualização: 24 de agosto de 2026*
+*Inteligência artificial · Última atualização: 24 de agosto de 2026*
 
 É um conjunto de pequenas unidades de inteligência artificial que trabalham em coordenação para resolver tarefas complexas.
 

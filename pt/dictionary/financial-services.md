@@ -1,6 +1,6 @@
 # O que é Financial Services?
 
-*Dev · Última atualização: 27 de setembro de 2026*
+*Desenvolvimento · Última atualização: 27 de setembro de 2026*
 
 Todos os serviços profissionais relacionados à gestão de dinheiro, como bancos, investimentos e seguros.
 

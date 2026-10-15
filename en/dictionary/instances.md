@@ -1,6 +1,6 @@
 # What is Instances?
 
-*Dev · Last updated: September 6, 2026*
+*Development · Last updated: September 6, 2026*
 
 It is each independent copy of a software or system running at the same time.
 

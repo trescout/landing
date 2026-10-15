@@ -1,6 +1,6 @@
 # ¿Qué es Architecture Diagrams?
 
-*Dev · Última actualización: 25 de julio de 2026*
+*Desarrollo · Última actualización: 25 de julio de 2026*
 
 Son diagramas visuales que muestran los componentes de un sistema de software complejo y sus relaciones entre sí.
 

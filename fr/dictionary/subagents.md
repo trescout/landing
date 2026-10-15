@@ -1,6 +1,6 @@
 # Qu'est-ce que Subagents ?
 
-*AI · Dernière mise à jour : 24 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 24 juin 2026*
 
 Il s’agit d’unités auxiliaires qui effectuent des tâches plus petites et spécifiques sous la direction d’un système principal d’intelligence artificielle.
 

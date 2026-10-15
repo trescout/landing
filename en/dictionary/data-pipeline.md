@@ -1,6 +1,6 @@
 # What is Data Pipeline?
 
-*Data · Last updated: June 3, 2026*
+*Data & Infra · Last updated: June 3, 2026*
 
 It is the process of taking data from one place, processing it and moving it to another place.
 

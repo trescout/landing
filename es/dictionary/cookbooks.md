@@ -1,6 +1,6 @@
 # ¿Qué es Cookbooks?
 
-*Dev · Última actualización: 10 de julio de 2026*
+*Desarrollo · Última actualización: 10 de julio de 2026*
 
 Son guías técnicas que ofrecen soluciones prácticas y listas para usar a problemas comunes que surgen al utilizar una tecnología en particular.
 

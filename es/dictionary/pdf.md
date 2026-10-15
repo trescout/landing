@@ -1,6 +1,6 @@
 # ¿Qué es PDF?
 
-*Data · Última actualización: 8 de junio de 2026*
+*Datos e infraestructura · Última actualización: 8 de junio de 2026*
 
 > Portable Document Format
 

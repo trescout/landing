@@ -1,6 +1,6 @@
 # ¿Qué es Root?
 
-*Dev · Última actualización: 17 de junio de 2026*
+*Desarrollo · Última actualización: 17 de junio de 2026*
 
 Es la cuenta autorizada de más alto nivel que proporciona acceso ilimitado a todos los archivos, configuraciones y comandos de un sistema operativo.
 

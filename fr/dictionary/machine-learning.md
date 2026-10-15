@@ -1,6 +1,6 @@
 # Qu'est-ce que Machine Learning ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit d’une technologie qui permet aux ordinateurs d’apprendre par eux-mêmes en apprenant à partir des données.
 

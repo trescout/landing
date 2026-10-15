@@ -1,6 +1,6 @@
 # Was ist Cyber Capabilities?
 
-*Dev · Zuletzt aktualisiert: 15. August 2026*
+*Entwicklung · Zuletzt aktualisiert: 15. August 2026*
 
 Dabei handelt es sich um technische Fähigkeiten und Werkzeuge, die zum Schutz oder zum Eingriff in digitale Systeme dienen.
 

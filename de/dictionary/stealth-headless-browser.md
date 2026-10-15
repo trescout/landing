@@ -1,6 +1,6 @@
 # Was ist Stealth Headless Browser?
 
-*Dev · Zuletzt aktualisiert: 8. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 8. September 2026*
 
 Ein unsichtbarer Browser, der Firewalls auf Websites umgeht und verhindert, dass er als Bot erkannt wird.
 

@@ -1,6 +1,6 @@
 # Was ist Local-first Memory?
 
-*Data · Zuletzt aktualisiert: 22. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 22. September 2026*
 
 > Lokale Speicherarchitektur
 

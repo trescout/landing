@@ -1,6 +1,6 @@
 # What is Headless Browser?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 A headless browser is a full browser that runs without a graphical user interface.
 

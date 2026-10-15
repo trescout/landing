@@ -1,6 +1,6 @@
 # Qu'est-ce que Open Source AI ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 L'IA open source (intelligence artificielle à code source ouvert) désigne des modèles dont les poids et le code peuvent être examinés et exécutés par tout le monde.
 

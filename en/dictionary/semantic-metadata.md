@@ -1,6 +1,6 @@
 # What is Semantic Metadata?
 
-*Data · Last updated: July 17, 2026*
+*Data & Infra · Last updated: July 17, 2026*
 
 It is a label that explains not only what the data is, but also what it means and its connection with other data.
 

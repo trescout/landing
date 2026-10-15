@@ -1,6 +1,6 @@
 # Code Snippets : Modèles d'IDE, expansion paramétrique et gouvernance
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Un code snippet (extrait de code ou fragment réutilisable) est un bloc de code paramétré inséré instantanément dans un éditeur pour éliminer le code passe-partout (boilerplate) et accélérer le développement.
 

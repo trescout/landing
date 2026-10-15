@@ -1,6 +1,6 @@
 # O que é Agentic AI?
 
-*AI · Última atualização: 3 de junho de 2026*
+*Inteligência artificial · Última atualização: 3 de junho de 2026*
 
 Significa que a inteligência artificial toma a iniciativa de atingir objetivos em vez de apenas produzir texto.
 

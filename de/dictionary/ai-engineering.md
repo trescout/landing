@@ -1,6 +1,6 @@
 # Was ist AI Engineering?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 AI Engineering (auf Deutsch KI-Engineering) ist die Disziplin, Modelle in zuverlässige, im Live-Betrieb arbeitende Systeme zu überführen.
 

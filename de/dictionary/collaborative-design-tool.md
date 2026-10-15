@@ -1,6 +1,6 @@
 # Was ist Collaborative Design Tool?
 
-*Dev · Zuletzt aktualisiert: 28. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 28. September 2026*
 
 Dabei handelt es sich um digitale Werkzeuge, die es Designern und Softwareentwicklern ermöglichen, über einen Internetbrowser gleichzeitig am gleichen Interface-Design zu arbeiten.
 

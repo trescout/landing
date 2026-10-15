@@ -1,6 +1,6 @@
 # O que é ADB?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 > Android Debug Bridge
 

@@ -1,6 +1,6 @@
 # What is Prompt Injection?
 
-*AI · Last updated: September 27, 2026*
+*Artificial Intelligence · Last updated: September 27, 2026*
 
 These are deceptive commands given to trick artificial intelligence into bypassing its security rules.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Memory API?
 
-*Dev · Última actualización: 3 de junio de 2026*
+*Desarrollo · Última actualización: 3 de junio de 2026*
 
 Puerto que permite al software agregar datos a la memoria de inteligencia artificial o consultar información existente.
 

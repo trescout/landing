@@ -1,6 +1,6 @@
 # What is Non-autoregressive Decision Models?
 
-*AI · Last updated: September 27, 2026*
+*Artificial Intelligence · Last updated: September 27, 2026*
 
 These are artificial intelligence models that work faster by making all decisions simultaneously rather than sequentially.
 

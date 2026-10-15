@@ -1,6 +1,6 @@
 # Qu'est-ce que Parser ?
 
-*Dev · Dernière mise à jour : 11 juillet 2026*
+*Développement · Dernière mise à jour : 11 juillet 2026*
 
 Il s'agit d'un analyseur qui décompose des données ou du code complexes en éléments significatifs que l'ordinateur peut traiter étape par étape.
 

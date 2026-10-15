@@ -1,6 +1,6 @@
 # O que é STT?
 
-*AI · Última atualização: 19 de setembro de 2026*
+*Inteligência artificial · Última atualização: 19 de setembro de 2026*
 
 > Speech-to-Text
 

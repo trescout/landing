@@ -1,6 +1,6 @@
 # What is Attention?
 
-*AI · Last updated: July 30, 2026*
+*Artificial Intelligence · Last updated: July 30, 2026*
 
 A mechanism that allows artificial intelligence to focus on the most important pieces within a text or data.
 

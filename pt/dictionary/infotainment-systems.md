@@ -1,6 +1,6 @@
 # O que é Infotainment Systems?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Sistemas de infotainment são painéis sensíveis ao toque que integram navegação, música e configurações do veículo.
 

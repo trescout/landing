@@ -1,6 +1,6 @@
 # ¿Qué es Jupyter Notebooks?
 
-*Data · Última actualización: 19 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 19 de septiembre de 2026*
 
 Jupyter Notebook es un entorno informático de código abierto que combina ejecución de código en vivo en lenguajes como Python, R y Julia, texto enriquecido, fórmulas matemáticas y visualizaciones de datos en un único documento web interactivo.
 

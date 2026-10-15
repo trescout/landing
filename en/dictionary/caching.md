@@ -1,6 +1,6 @@
 # What is Caching?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 Caching is the frequent copying of data to a fast floor.
 

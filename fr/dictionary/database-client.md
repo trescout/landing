@@ -1,6 +1,6 @@
 # Qu'est-ce que Database Client ?
 
-*Dev · Dernière mise à jour : 29 septembre 2026*
+*Développement · Dernière mise à jour : 29 septembre 2026*
 
 Un programme intermédiaire qui vous permet d'accéder et de gérer les informations de la base de données.
 

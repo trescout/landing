@@ -1,6 +1,6 @@
 # ¿Qué es Agentic Apps?
 
-*AI · Última actualización: 27 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 27 de septiembre de 2026*
 
 > Agentic Applications
 

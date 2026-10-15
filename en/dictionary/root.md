@@ -1,6 +1,6 @@
 # What is Root?
 
-*Dev · Last updated: June 17, 2026*
+*Development · Last updated: June 17, 2026*
 
 It is the highest level authorized account that provides unlimited access to all files, settings and commands on an operating system.
 

@@ -1,6 +1,6 @@
 # What is Desktop App?
 
-*Dev · Last updated: June 9, 2026*
+*Development · Last updated: June 9, 2026*
 
 They are software that runs directly on your computer's operating system without the need for an internet browser.
 

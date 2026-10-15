@@ -1,6 +1,6 @@
 # What is Taste?
 
-*AI · Last updated: August 7, 2026*
+*Artificial Intelligence · Last updated: August 7, 2026*
 
 It is the ability to distinguish the aesthetic and functional quality of a technological product or design.
 

@@ -1,6 +1,6 @@
 # What is Runtime Environment?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Runtime environment is the library and source layer where the code runs.
 

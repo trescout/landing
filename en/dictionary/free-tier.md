@@ -1,6 +1,6 @@
 # What is Free Tier?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Free tier is the limited free version of the service.
 

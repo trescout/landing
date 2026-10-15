@@ -1,6 +1,6 @@
 # Was ist Flashcards?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 Flashcards (auf Deutsch Lernkarten) sind kleine Lernkarten, die auf der Vorderseite eine Frage und auf der Rückseite die dazugehörige Antwort enthalten.
 

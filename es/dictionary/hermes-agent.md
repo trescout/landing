@@ -1,6 +1,6 @@
 # ¿Qué es Hermes Agent?
 
-*AI · Última actualización: 3 de junio de 2026*
+*Inteligencia artificial · Última actualización: 3 de junio de 2026*
 
 Es una unidad especial de inteligencia artificial que puede tomar decisiones autónomas en nombre del usuario y completar determinadas tareas de un extremo a otro.
 

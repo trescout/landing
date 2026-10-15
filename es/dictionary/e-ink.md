@@ -1,6 +1,6 @@
 # ¿Qué es E-ink?
 
-*Dev · Última actualización: 16 de septiembre de 2026*
+*Desarrollo · Última actualización: 16 de septiembre de 2026*
 
 > Electronic Ink
 

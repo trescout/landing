@@ -1,6 +1,6 @@
 # Was ist Memory System?
 
-*AI · Zuletzt aktualisiert: 9. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 9. Juni 2026*
 
 Es ist die Speicherarchitektur, die es künstlicher Intelligenz ermöglicht, sich vergangene Interaktionen, Benutzerpräferenzen und Daten zu merken.
 

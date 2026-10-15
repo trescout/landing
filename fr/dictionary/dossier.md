@@ -1,6 +1,6 @@
 # Qu'est-ce que Dossier ?
 
-*Data · Dernière mise à jour : 11 juin 2026*
+*Données et infra · Dernière mise à jour : 11 juin 2026*
 
 Il s'agit d'un système de fichiers organisé dans lequel sont rassemblés tous les documents et informations sur un sujet ou une personne particulière.
 

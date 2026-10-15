@@ -1,6 +1,6 @@
 # Qu'est-ce que Logs ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Un log est une ligne d'événements système horodatée.
 

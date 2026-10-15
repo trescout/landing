@@ -1,6 +1,6 @@
 # ¿Qué es Sideloader?
 
-*Dev · Última actualización: 12 de septiembre de 2026*
+*Desarrollo · Última actualización: 12 de septiembre de 2026*
 
 Es la herramienta o método que permite instalar aplicaciones en su dispositivo directamente desde un archivo, fuera de las tiendas de aplicaciones oficiales.
 

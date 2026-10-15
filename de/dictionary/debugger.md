@@ -1,6 +1,6 @@
 # Was ist Debugger?
 
-*Dev · Zuletzt aktualisiert: 7. Oktober 2026*
+*Entwicklung · Zuletzt aktualisiert: 7. Oktober 2026*
 
 Ein Debugger ist ein Fehlerbehebungstool, mit dem Fehler in Software Schritt für Schritt verfolgt, gefunden und behoben werden können.
 

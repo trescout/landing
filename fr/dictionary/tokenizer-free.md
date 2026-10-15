@@ -1,6 +1,6 @@
 # Qu'est-ce que Tokenizer-free ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 Architecture d'intelligence artificielle qui traite directement les données brutes sans diviser les textes en petits morceaux.
 

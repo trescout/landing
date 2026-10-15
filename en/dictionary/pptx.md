@@ -1,6 +1,6 @@
 # What is a PPTX file?
 
-*Dev · Last updated: September 1, 2026*
+*Data & Infra · Last updated: September 1, 2026*
 
 A PPTX file is an open XML-based, ZIP-compressed presentation file format established as the default standard for Microsoft PowerPoint 2007 and subsequent office suites. It structures slides, media assets, and vector layouts in modular XML schemas.
 

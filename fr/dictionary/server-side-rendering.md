@@ -1,6 +1,6 @@
 # Qu'est-ce que Server-side Rendering ?
 
-*Dev · Dernière mise à jour : 6 août 2026*
+*Développement · Dernière mise à jour : 6 août 2026*
 
 > SSR
 

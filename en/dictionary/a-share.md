@@ -1,6 +1,6 @@
 # What is A-share?
 
-*Data · Last updated: September 27, 2026*
+*Data & Infra · Last updated: September 27, 2026*
 
 A type of stock traded on Chinese stock exchanges and reserved for local investors.
 

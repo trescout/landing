@@ -1,6 +1,6 @@
 # Was ist Multi-agent?
 
-*AI · Zuletzt aktualisiert: 26. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 26. Juni 2026*
 
 Dabei handelt es sich um die Zusammenarbeit von mehr als einer KI-Software für ein gemeinsames Ziel durch Aufteilung einer komplexen Aufgabe.
 

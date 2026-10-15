@@ -1,6 +1,6 @@
 # ¿Qué es Context Database?
 
-*Data · Última actualización: 19 de agosto de 2026*
+*Datos e infraestructura · Última actualización: 19 de agosto de 2026*
 
 Es un almacén de datos privado que almacena la información que necesita la inteligencia artificial para producir respuestas más consistentes y personalizadas.
 

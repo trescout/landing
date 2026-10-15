@@ -1,6 +1,6 @@
 # O que é Context Reduction?
 
-*AI · Última atualização: 18 de julho de 2026*
+*Inteligência artificial · Última atualização: 18 de julho de 2026*
 
 É o processo de resumir as enormes informações fornecidas à inteligência artificial, purificando-as de detalhes desnecessários para que o modelo funcione com mais rapidez e precisão.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Deterministic Pipelines?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Una canalización determinista es una canalización que produce el mismo resultado en cada ejecución con la misma entrada.
 

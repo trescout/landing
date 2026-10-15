@@ -1,6 +1,6 @@
 # What is Redaction?
 
-*Data · Last updated: October 5, 2026*
+*Data & Infra · Last updated: October 5, 2026*
 
 It is the process of permanently blacking out or deleting sensitive or confidential information from documents.
 

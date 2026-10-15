@@ -1,6 +1,6 @@
 # Qu'est-ce que OpenStreetMap ?
 
-*Data · Dernière mise à jour : 22 septembre 2026*
+*Données et infra · Dernière mise à jour : 22 septembre 2026*
 
 OpenStreetMap (OSM en abrégé) est une carte du monde gratuite et ouverte élaborée par des bénévoles.
 

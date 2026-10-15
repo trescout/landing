@@ -1,6 +1,6 @@
 # Was ist Digital Preservation?
 
-*Data · Zuletzt aktualisiert: 27. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 27. September 2026*
 
 Es ist der Prozess, der sicherstellt, dass digitale Daten und Dateien über viele Jahre hinweg gegen Risiken wie Formatveralterung oder Beschädigung lesbar bleiben.
 

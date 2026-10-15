@@ -1,6 +1,6 @@
 # ¿Qué es Voice Agents?
 
-*AI · Última actualización: 29 de julio de 2026*
+*Inteligencia artificial · Última actualización: 29 de julio de 2026*
 
 Son asistentes de inteligencia artificial que se comunican con el usuario por voz, responden preguntas y ejecutan órdenes.
 

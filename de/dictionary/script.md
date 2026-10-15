@@ -1,6 +1,6 @@
 # Was ist Script?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Skript ist eine kurze Befehlsfolge, deren einzige Aufgabe darin besteht, automatisierte Aktionen auszuführen.
 

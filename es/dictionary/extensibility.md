@@ -1,6 +1,6 @@
 # ¿Qué es Extensibility?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 La extensibilidad es la capacidad de un software para obtener nuevas capacidades con complementos y módulos sin tocar su código principal.
 

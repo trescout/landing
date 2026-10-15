@@ -1,6 +1,6 @@
 # ¿Qué es Decision Models?
 
-*AI · Última actualización: 29 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 29 de septiembre de 2026*
 
 Son mecanismos de decisión que determinan automáticamente la opción más lógica o rentable mediante el procesamiento de datos y ciertas reglas de negocio.
 

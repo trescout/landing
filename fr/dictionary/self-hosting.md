@@ -1,6 +1,6 @@
 # Qu'est-ce que Self-hosting ?
 
-*Dev · Dernière mise à jour : 3 juin 2026*
+*Développement · Dernière mise à jour : 3 juin 2026*
 
 Il s'agit d'une méthode d'hébergement de logiciels sur vos propres serveurs ou ordinateurs.
 

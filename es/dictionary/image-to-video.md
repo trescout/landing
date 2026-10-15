@@ -1,6 +1,6 @@
 # ¿Qué es Image-to-Video?
 
-*AI · Última actualización: 17 de agosto de 2026*
+*Inteligencia artificial · Última actualización: 17 de agosto de 2026*
 
 Es una tecnología que convierte una imagen fija en un vídeo en movimiento mediante inteligencia artificial.
 

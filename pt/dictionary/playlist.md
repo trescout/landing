@@ -1,6 +1,6 @@
 # O que é Playlist?
 
-*Data · Última atualização: 19 de setembro de 2026*
+*Dados e infraestrutura · Última atualização: 19 de setembro de 2026*
 
 Playlist é uma coleção sequencial de conteúdos digitais de áudio, vídeo ou dados reunidos para serem reproduzidos repetidamente de acordo com uma determinada ordem, tema ou lógica algorítmica.
 

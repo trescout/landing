@@ -1,6 +1,6 @@
 # Qu'est-ce que Physical AI ?
 
-*AI · Dernière mise à jour : 5 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 5 juin 2026*
 
 Systèmes d'intelligence artificielle capables de contrôler des objets du monde physique, tels que des robots, et d'interagir avec l'environnement.
 

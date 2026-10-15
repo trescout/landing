@@ -1,6 +1,6 @@
 # O que é Code Knowledge Graph?
 
-*Dev · Última atualização: 3 de outubro de 2026*
+*Desenvolvimento · Última atualização: 3 de outubro de 2026*
 
 É uma estrutura que mapeia os elementos de código em projetos de software e suas relações na forma de uma rede de conhecimento.
 

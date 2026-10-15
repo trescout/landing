@@ -1,6 +1,6 @@
 # O que é Autonomous Agent?
 
-*AI · Última atualização: 4 de junho de 2026*
+*Inteligência artificial · Última atualização: 4 de junho de 2026*
 
 É um software que estabelece metas por conta própria, sem intervenção humana, e toma as medidas necessárias para atingir essas metas.
 

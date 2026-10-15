@@ -1,6 +1,6 @@
 # ¿Qué es Agentic Skills?
 
-*AI · Última actualización: 9 de junio de 2026*
+*Inteligencia artificial · Última actualización: 9 de junio de 2026*
 
 Es un conjunto de capacidades avanzadas que utilizan los sistemas autónomos de inteligencia artificial para gestionar procesos complejos y alcanzar objetivos.
 

@@ -1,6 +1,6 @@
 # Was ist Launcher?
 
-*Dev · Zuletzt aktualisiert: 18. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 18. September 2026*
 
 Ein Interface-Tool, mit dem Sie Anwendungen auf Computern oder Mobilgeräten schnell finden und starten können.
 

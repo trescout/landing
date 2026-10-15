@@ -1,6 +1,6 @@
 # Was ist Frontend Stack?
 
-*Dev · Zuletzt aktualisiert: 6. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 6. Juni 2026*
 
 Dabei handelt es sich um eine Reihe von Softwaretools, mit denen der für den Benutzer sichtbare Teil einer Website oder Anwendung erstellt wird.
 

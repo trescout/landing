@@ -1,6 +1,6 @@
 # Was ist Data Processing?
 
-*Data · Zuletzt aktualisiert: 3. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 3. September 2026*
 
 Es ist der Prozess, bei dem Rohdaten gesammelt und in sinnvolle und nutzbare Informationen umgewandelt werden.
 

@@ -1,6 +1,6 @@
 # O que é ab?
 
-*Dev · Última atualização: 1 de outubro de 2026*
+*Desenvolvimento · Última atualização: 1 de outubro de 2026*
 
 > ApacheBench
 

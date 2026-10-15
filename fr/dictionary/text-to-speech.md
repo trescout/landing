@@ -1,6 +1,6 @@
 # Qu'est-ce que Text-to-Speech ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 > TTS
 

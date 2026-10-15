@@ -1,6 +1,6 @@
 # ¿Qué es Utilities?
 
-*Dev · Última actualización: 19 de septiembre de 2026*
+*Desarrollo · Última actualización: 19 de septiembre de 2026*
 
 Las utilidades son paquetes de módulos independientes, prácticos y de propósito único que se encargan del mantenimiento y la gestión de los sistemas operativos y realizan tareas rutinarias que se repiten con frecuencia en proyectos de software.
 

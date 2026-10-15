@@ -1,6 +1,6 @@
 # ¿Qué es Shell?
 
-*Dev · Última actualización: 13 de julio de 2026*
+*Desarrollo · Última actualización: 13 de julio de 2026*
 
 Es una interfaz que le permite controlar la computadora escribiendo comandos de texto directamente en lugar de una interfaz gráfica.
 

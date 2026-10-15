@@ -1,6 +1,6 @@
 # ¿Qué es Continuous Batching?
 
-*AI · Última actualización: 22 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
 El procesamiento por lotes continuo (Continuous batching en su equivalente en turco) es la técnica que introduce las solicitudes en el motor sin hacerlas esperar.
 

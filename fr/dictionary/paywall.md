@@ -1,6 +1,6 @@
 # Qu'est-ce que Paywall ?
 
-*Data · Dernière mise à jour : 19 septembre 2026*
+*Données et infra · Dernière mise à jour : 19 septembre 2026*
 
 Un paywall (mur payant) est un système de gardien (gatekeeper) numérique qui restreint l'accès au contenu numérique sur Internet et exige des utilisateurs un abonnement payant, un paiement unique ou une inscription.
 

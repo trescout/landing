@@ -1,6 +1,6 @@
 # Qu'est-ce que Free Tier ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Le free tier (ou offre gratuite) est une version gratuite limitée du service.
 

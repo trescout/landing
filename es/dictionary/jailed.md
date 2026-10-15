@@ -1,6 +1,6 @@
 # ¿Qué es Jailed?
 
-*Dev · Última actualización: 29 de septiembre de 2026*
+*Desarrollo · Última actualización: 29 de septiembre de 2026*
 
 Es una situación en la que un programa se ejecuta en un área aislada y restringida, impidiéndole acceder al resto del sistema operativo.
 

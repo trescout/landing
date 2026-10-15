@@ -1,6 +1,6 @@
 # Was ist Utility-first?
 
-*Dev · Zuletzt aktualisiert: 6. August 2026*
+*Entwicklung · Zuletzt aktualisiert: 6. August 2026*
 
 Es handelt sich um einen Ansatz zur schnellen Erstellung von Stilen mithilfe vordefinierter kleiner und funktionaler Befehle (Klassen) beim Entwerfen.
 

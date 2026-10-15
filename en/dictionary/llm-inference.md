@@ -1,6 +1,6 @@
 # What is LLM Inference?
 
-*AI · Last updated: September 1, 2026*
+*Artificial Intelligence · Last updated: September 1, 2026*
 
 The process of a trained artificial intelligence model generating a response to a given question.
 

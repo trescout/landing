@@ -1,6 +1,6 @@
 # Was ist Toolkit?
 
-*Dev · Zuletzt aktualisiert: 2. Oktober 2026*
+*Entwicklung · Zuletzt aktualisiert: 2. Oktober 2026*
 
 Es handelt sich um ein Set, das Werkzeuge, Bibliotheken und Anleitungen vereint, die es Ihnen ermöglichen, eine bestimmte Aufgabe einfacher und schneller zu erledigen.
 

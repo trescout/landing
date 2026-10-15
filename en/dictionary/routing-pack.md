@@ -1,6 +1,6 @@
 # What is Routing Pack?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Routing Pack is the data packet used by network devices to transfer routing information to each other.
 

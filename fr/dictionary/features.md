@@ -1,6 +1,6 @@
 # Qu'est-ce que Features ?
 
-*Dev · Dernière mise à jour : 16 juillet 2026*
+*Développement · Dernière mise à jour : 16 juillet 2026*
 
 Capacités et fonctions distinctes qu'un logiciel ou un produit offre aux utilisateurs.
 

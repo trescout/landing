@@ -1,6 +1,6 @@
 # Qu'est-ce que Technology Enthusiasts Weekly ?
 
-*Dev · Dernière mise à jour : 28 septembre 2026*
+*Développement · Dernière mise à jour : 28 septembre 2026*
 
 Il s'agit d'un bulletin d'information qui résume chaque semaine les derniers développements du monde technologique, les innovations en matière d'intelligence artificielle et les tendances logicielles.
 

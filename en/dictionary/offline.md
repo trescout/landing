@@ -1,6 +1,6 @@
 # What is Offline?
 
-*Dev · Last updated: June 3, 2026*
+*Development · Last updated: June 3, 2026*
 
 The system works with the device's own resources, without the need for an internet connection.
 

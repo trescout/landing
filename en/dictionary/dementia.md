@@ -1,6 +1,6 @@
 # What is Dementia?
 
-*AI · Last updated: August 16, 2026*
+*Artificial Intelligence · Last updated: August 16, 2026*
 
 It is a condition in which memory, thinking and daily living skills are severely weakened due to damage to nerve cells in the brain.
 

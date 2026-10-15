@@ -1,6 +1,6 @@
 # What is TDD?
 
-*Dev · Last updated: July 11, 2026*
+*Development · Last updated: July 11, 2026*
 
 > Test-Driven Development
 

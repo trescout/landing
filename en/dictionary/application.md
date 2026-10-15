@@ -1,6 +1,6 @@
 # What is Application?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Application is user software that performs a specific job.
 

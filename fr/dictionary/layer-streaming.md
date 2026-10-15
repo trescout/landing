@@ -1,6 +1,6 @@
 # Qu'est-ce que Layer Streaming ?
 
-*Data · Dernière mise à jour : 22 septembre 2026*
+*Données et infra · Dernière mise à jour : 22 septembre 2026*
 
 Le streaming en couches est le traitement des données pièce par pièce.
 

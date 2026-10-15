@@ -1,6 +1,6 @@
 # Tools: Entwicklertools, Function Calling und MCP
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Tools (Werkzeuge) bezeichnen zwei Schlüsselbereiche der Informationstechnik: Softwareprogramme zur Steigerung der Entwicklerproduktivität und Schnittstellen, über die KI-Modelle Code ausführen und externe APIs ansteuern können.
 

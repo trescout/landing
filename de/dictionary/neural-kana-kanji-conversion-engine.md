@@ -1,6 +1,6 @@
 # Was ist Neural Kana-Kanji Conversion Engine?
 
-*AI · Zuletzt aktualisiert: 2. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 2. Juli 2026*
 
 Dabei handelt es sich um eine auf künstlicher Intelligenz basierende Software-Engine, die japanische phonetische Schrift in bedeutungsvolle Zeichen umwandelt.
 

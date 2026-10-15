@@ -1,6 +1,6 @@
 # Was ist Diagrams?
 
-*Dev · Zuletzt aktualisiert: 23. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 23. Juli 2026*
 
 Es handelt sich um visuell vereinfachte Diagramme komplexer Systeme, Prozesse oder Strukturen.
 

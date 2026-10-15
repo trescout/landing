@@ -1,6 +1,6 @@
 # What is Executables?
 
-*Dev · Last updated: October 5, 2026*
+*Development · Last updated: October 5, 2026*
 
 Programs that the computer can run directly, commonly known as installation or application files.
 

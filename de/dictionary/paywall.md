@@ -1,6 +1,6 @@
 # Was ist Paywall?
 
-*Data · Zuletzt aktualisiert: 19. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 19. September 2026*
 
 Eine Paywall (Bezahlschranke) ist ein digitales Gatekeeper-System, das den Zugriff auf digitale Inhalte im Internet einschränkt und von Nutzern ein kostenpflichtiges Abonnement, eine einmalige Zahlung oder eine Registrierung verlangt.
 

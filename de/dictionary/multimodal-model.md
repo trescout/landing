@@ -1,6 +1,6 @@
 # Was ist Multimodal Model?
 
-*AI · Zuletzt aktualisiert: 2. August 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 2. August 2026*
 
 Dabei handelt es sich um ein Modell der künstlichen Intelligenz, das nicht nur Text, sondern auch verschiedene Datentypen wie Bilder, Audio und Video gleichzeitig verarbeiten kann.
 

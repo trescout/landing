@@ -1,6 +1,6 @@
 # What is Code Review Tool?
 
-*Dev · Last updated: September 15, 2026*
+*Development · Last updated: September 15, 2026*
 
 An audit tool that automatically examines code written by developers for errors or improvements.
 

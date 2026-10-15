@@ -1,6 +1,6 @@
 # What is Foundation Model?
 
-*AI · Last updated: June 3, 2026*
+*Artificial Intelligence · Last updated: June 3, 2026*
 
 They are extensively trained mainstream AI models that form the basis for many different applications.
 

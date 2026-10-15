@@ -1,6 +1,6 @@
 # Qu'est-ce que Video Editor ?
 
-*Dev · Dernière mise à jour : 20 juin 2026*
+*Développement · Dernière mise à jour : 20 juin 2026*
 
 Ce sont des logiciels qui éditent des fichiers image et audio et les transforment en vidéo.
 

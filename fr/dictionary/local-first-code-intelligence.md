@@ -1,6 +1,6 @@
 # Qu'est-ce que Local-first Code Intelligence ?
 
-*Dev · Dernière mise à jour : 20 juillet 2026*
+*Développement · Dernière mise à jour : 20 juillet 2026*
 
 Les outils de développement logiciel fournissent des suggestions de code en traitant les données directement sur votre appareil local sans les envoyer vers le cloud.
 

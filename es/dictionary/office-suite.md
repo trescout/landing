@@ -1,6 +1,6 @@
 # ¿Qué es Office Suite?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Una suite ofimática es un conjunto de programas que agrupa documentos, hojas de cálculo y presentaciones bajo una misma plataforma.
 

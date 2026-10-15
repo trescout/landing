@@ -1,6 +1,6 @@
 # Qu'est-ce que Artificial Intelligence ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 > AI
 

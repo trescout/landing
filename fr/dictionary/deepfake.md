@@ -1,6 +1,6 @@
 # Qu'est-ce que Deepfake ?
 
-*AI · Dernière mise à jour : 30 juillet 2026*
+*Intelligence artificielle · Dernière mise à jour : 30 juillet 2026*
 
 Technologie permettant d'adapter la voix ou l'image d'une personne à une autre personne d'une manière impossible à distinguer de la réalité, grâce à l'intelligence artificielle.
 

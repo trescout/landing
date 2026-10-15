@@ -1,6 +1,6 @@
 # What is OpenExecutive?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 OpenExecutive is an open-source management layer that automates corporate processes.
 

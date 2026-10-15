@@ -1,6 +1,6 @@
 # ¿Qué es Machine Learning Systems?
 
-*AI · Última actualización: 3 de julio de 2026*
+*Inteligencia artificial · Última actualización: 3 de julio de 2026*
 
 Son sistemas informáticos que aprenden por sí solos analizando datos y pueden hacer predicciones más precisas con el tiempo.
 

@@ -1,6 +1,6 @@
 # O que é Web Search API?
 
-*Dev · Última atualização: 6 de outubro de 2026*
+*Desenvolvimento · Última atualização: 6 de outubro de 2026*
 
 É uma ponte que permite que softwares e agentes de inteligência artificial realizem pesquisas na internet e recebam resultados atualizados como dados organizados.
 

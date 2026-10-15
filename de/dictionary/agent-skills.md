@@ -1,6 +1,6 @@
 # Was ist Agent Skills?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 Agent-Skills sind Pakete, die Anweisungen, Tools und Ressourcen bündeln, die ein Agent benötigt, um eine bestimmte Aufgabe konsistent auszuführen.
 

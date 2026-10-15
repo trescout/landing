@@ -1,6 +1,6 @@
 # Qu'est-ce que Deployment ?
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Le déploiement (deployment) est le processus par lequel un composant logiciel, développé et testé dans un environnement local, est compilé, installé sur des serveurs cibles ou une infrastructure cloud, et rendu accessible aux utilisateurs finaux.
 

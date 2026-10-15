@@ -1,6 +1,6 @@
 # O que é IRC?
 
-*Dev · Última atualização: 27 de julho de 2026*
+*Desenvolvimento · Última atualização: 27 de julho de 2026*
 
 > Internet Relay Chat
 

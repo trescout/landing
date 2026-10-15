@@ -1,6 +1,6 @@
 # ¿Qué es Free Tier?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 El nivel gratuito es la versión gratuita limitada del servicio.
 

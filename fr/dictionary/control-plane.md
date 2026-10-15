@@ -1,6 +1,6 @@
 # Qu'est-ce que Control Plane ?
 
-*Dev · Dernière mise à jour : 31 août 2026*
+*Développement · Dernière mise à jour : 31 août 2026*
 
 Il s'agit de la couche de gestion centrale qui régit le fonctionnement d'un système et contrôle le trafic ainsi que les paramètres.
 

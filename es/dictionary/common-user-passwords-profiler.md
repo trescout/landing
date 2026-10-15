@@ -1,6 +1,6 @@
 # ¿Qué es Common User Passwords Profiler?
 
-*Dev · Última actualización: 1 de julio de 2026*
+*Desarrollo · Última actualización: 1 de julio de 2026*
 
 > CUPS
 

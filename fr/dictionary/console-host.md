@@ -1,6 +1,6 @@
 # Qu'est-ce que Console Host ?
 
-*Dev · Dernière mise à jour : 20 juillet 2026*
+*Développement · Dernière mise à jour : 20 juillet 2026*
 
 Il s'agit d'un environnement de fenêtre dans lequel des commandes textuelles sont écrites sur l'ordinateur et les résultats sont affichés.
 

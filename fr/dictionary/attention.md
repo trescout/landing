@@ -1,6 +1,6 @@
 # Qu'est-ce que Attention ?
 
-*AI · Dernière mise à jour : 30 juillet 2026*
+*Intelligence artificielle · Dernière mise à jour : 30 juillet 2026*
 
 Un mécanisme qui permet à l’intelligence artificielle de se concentrer sur les éléments les plus importants d’un texte ou d’une donnée.
 

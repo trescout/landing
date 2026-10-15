@@ -1,6 +1,6 @@
 # O que é SVG?
 
-*Dev · Última atualização: 15 de agosto de 2026*
+*Desenvolvimento · Última atualização: 15 de agosto de 2026*
 
 > Scalable Vector Graphics
 

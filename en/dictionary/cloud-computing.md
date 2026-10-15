@@ -1,6 +1,6 @@
 # What is Cloud Computing?
 
-*Dev · Last updated: September 19, 2026*
+*Development · Last updated: September 19, 2026*
 
 Cloud Computing is the provision of computing resources such as servers, storage, databases, networks and software on-demand from remote data centers over the Internet instead of physical local infrastructures.
 

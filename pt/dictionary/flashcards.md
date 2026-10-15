@@ -1,6 +1,6 @@
 # O que é Flashcards?
 
-*AI · Última atualização: 22 de setembro de 2026*
+*Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
 Flashcards (em português, cartões de memória) são pequenos cartões de aprendizagem que contêm uma pergunta na parte frontal e a resposta no verso.
 

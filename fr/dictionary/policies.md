@@ -1,6 +1,6 @@
 # Qu'est-ce que Policies ?
 
-*Dev · Dernière mise à jour : 14 octobre 2026*
+*Développement · Dernière mise à jour : 14 octobre 2026*
 
 Ensemble de règles appliquées sur le système qui déterminent les normes de sécurité et d'utilisation des institutions.
 

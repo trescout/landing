@@ -1,6 +1,6 @@
 # What is Product Development Cycle?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Product development cycle is the stages of the product's journey from idea to user.
 

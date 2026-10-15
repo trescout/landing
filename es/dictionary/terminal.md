@@ -1,6 +1,6 @@
 # ¿Qué es Terminal?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 La terminal es la interfaz a través de la cual se comunica con el ordenador mediante comandos de texto.
 

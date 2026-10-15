@@ -1,6 +1,6 @@
 # Qu'est-ce que Static Typing ?
 
-*Dev · Dernière mise à jour : 11 juillet 2026*
+*Développement · Dernière mise à jour : 11 juillet 2026*
 
 C'est une règle selon laquelle les types de données dans le programme sont déterminés avec précision au stade de l'écriture avant l'exécution du code.
 

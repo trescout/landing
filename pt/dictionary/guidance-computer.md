@@ -1,6 +1,6 @@
 # O que é Guidance Computer?
 
-*AI · Última atualização: 23 de julho de 2026*
+*Inteligência artificial · Última atualização: 23 de julho de 2026*
 
 É o cérebro orientador que calcula a rota de um veículo ou sistema e permite que ele alcance o alvo de forma autônoma.
 

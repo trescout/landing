@@ -1,6 +1,6 @@
 # Qu'est-ce que Rendering ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Le rendering (ou rendu) est le processus de conversion des données brutes en l'image que vous voyez à l'écran.
 

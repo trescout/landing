@@ -1,6 +1,6 @@
 # ¿Qué es Hallucination?
 
-*AI · Última actualización: 3 de junio de 2026*
+*Inteligencia artificial · Última actualización: 3 de junio de 2026*
 
 La inteligencia artificial presenta información que en realidad no existe como si fuera cierta.
 

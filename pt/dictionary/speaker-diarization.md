@@ -1,6 +1,6 @@
 # O que é Speaker Diarization?
 
-*AI · Última atualização: 19 de setembro de 2026*
+*Inteligência artificial · Última atualização: 19 de setembro de 2026*
 
 A diarização de oradores (Speaker Diarization) é uma tecnologia de inteligência artificial que analisa ondas sonoras em uma gravação de áudio com múltiplos participantes para responder à pergunta "quem falou quando?" e rotular os segmentos de fala de acordo com as identidades dos oradores.
 

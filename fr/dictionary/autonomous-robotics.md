@@ -1,6 +1,6 @@
 # Qu'est-ce que la Robotique Autonome ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 > Robotique Autonome
 

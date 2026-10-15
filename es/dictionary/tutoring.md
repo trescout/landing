@@ -1,6 +1,6 @@
 # ¿Qué es Tutoring?
 
-*AI · Última actualización: 19 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 19 de septiembre de 2026*
 
 La tutoría (en turco, tutoría privada u orientación individual) es un proceso de enseñanza personalizado y adaptado al nivel de conocimientos, deficiencias y velocidad de comprensión del estudiante.
 

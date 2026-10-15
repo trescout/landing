@@ -1,6 +1,6 @@
 # What is Jailed?
 
-*Dev · Last updated: September 29, 2026*
+*Development · Last updated: September 29, 2026*
 
 It is the condition of running a program in an isolated and restricted area by preventing it from accessing the rest of the operating system.
 

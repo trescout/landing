@@ -1,6 +1,6 @@
 # Qu'est-ce que Bundler ?
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Bundler (module bundler) est un outil de développement qui analyse les codes sources (JavaScript, TypeScript, CSS, HTML, ressources graphiques et de polices) et les dépendances de bibliothèques externes divisées en centaines de parties indépendantes dans l'écosystème moderne de développement Web et logiciel, et transforme ces actifs en packages de fichiers optimisés (bundles) que les navigateurs peuvent exécuter de la manière la plus rapide et la plus efficace.
 

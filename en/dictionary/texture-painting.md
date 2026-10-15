@@ -1,6 +1,6 @@
 # What is Texture Painting?
 
-*Dev · Last updated: September 12, 2026*
+*Development · Last updated: September 12, 2026*
 
 It is the process of adding color, texture, and detail to the surface of three-dimensional models by painting them with digital brushes.
 

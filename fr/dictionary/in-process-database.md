@@ -1,6 +1,6 @@
 # Qu'est-ce que In-process Database ?
 
-*Data · Dernière mise à jour : 23 juin 2026*
+*Données et infra · Dernière mise à jour : 23 juin 2026*
 
 Il s'agit d'un système de stockage de données léger qui s'exécute directement dans l'application sans avoir besoin d'un serveur séparé.
 

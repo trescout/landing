@@ -1,6 +1,6 @@
 # Was ist Web Interface?
 
-*Dev · Zuletzt aktualisiert: 3. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um eine visuelle Schnittstelle, die es Ihnen ermöglicht, komplexe Software oder Modelle künstlicher Intelligenz einfach über Ihren Internetbrowser zu verwalten.
 

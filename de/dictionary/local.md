@@ -1,6 +1,6 @@
 # Local: Localhost, lokaler Scope, Local-First und lokale KI
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Der Begriff lokal (local) beschreibt in der Informationstechnik Hardwareressourcen, Speicherplätze, Netzwerkverbindungen und Ausführungsumgebungen, die sich physisch auf dem Endgerät des Benutzers befinden, im Gegensatz zu entfernten Cloud-Diensten.
 

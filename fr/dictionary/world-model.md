@@ -1,6 +1,6 @@
 # Qu'est-ce que World Model ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 C’est le système qui permet à l’intelligence artificielle de comprendre le fonctionnement du monde physique.
 

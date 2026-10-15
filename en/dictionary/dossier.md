@@ -1,6 +1,6 @@
 # What is Dossier?
 
-*Data · Last updated: June 11, 2026*
+*Data & Infra · Last updated: June 11, 2026*
 
 It is an organized file system in which all documents and information about a particular subject or person are brought together.
 

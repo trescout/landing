@@ -1,6 +1,6 @@
 # Patent Disclosure : Divulgation technique, état de l'art et brevets logiciels
 
-*Dev · Dernière mise à jour : 20 septembre 2026*
+*Développement · Dernière mise à jour : 20 septembre 2026*
 
 La divulgation de brevet (patent disclosure) est l'obligation légale imposant à un inventeur de décrire publiquement son innovation de manière claire et complète pour qu'un homme du métier puisse la reproduire.
 

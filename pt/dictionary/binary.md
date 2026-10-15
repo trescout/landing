@@ -1,6 +1,6 @@
 # O que é Binary?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Binary (com o equivalente em turco ikili), é a linguagem de máquina que funciona com 0 e 1.
 

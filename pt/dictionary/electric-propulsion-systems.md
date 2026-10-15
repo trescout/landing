@@ -1,6 +1,6 @@
 # O que é Electric Propulsion Systems?
 
-*Dev · Última atualização: 4 de setembro de 2026*
+*Desenvolvimento · Última atualização: 4 de setembro de 2026*
 
 São conjuntos de motores que utilizam energia elétrica em vez de combustível para mover veículos.
 

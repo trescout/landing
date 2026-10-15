@@ -1,6 +1,6 @@
 # What is LoRA?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 > Low-Rank Adaptation
 

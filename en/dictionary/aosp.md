@@ -1,6 +1,6 @@
 # What is AOSP?
 
-*Dev · Last updated: September 19, 2026*
+*Development · Last updated: September 19, 2026*
 
 > Android Open Source Project
 

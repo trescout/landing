@@ -1,6 +1,6 @@
 # Qu'est-ce qu'un Jumeau Numérique ?
 
-*Data · Dernière mise à jour : 22 septembre 2026*
+*Données et infra · Dernière mise à jour : 22 septembre 2026*
 
 > Jumeau Numérique
 

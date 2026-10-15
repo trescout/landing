@@ -1,6 +1,6 @@
 # Self-Hosted: Homelabs, repatriación de la nube e infraestructura propia
 
-*Dev · Última actualización: 19 de septiembre de 2026*
+*Desarrollo · Última actualización: 19 de septiembre de 2026*
 
 Self-hosted (autoalojamiento) es la práctica técnica de instalar, configurar y operar servicios informáticos y aplicaciones web en servidores físicos propios en lugar de contratar servicios comerciales SaaS.
 

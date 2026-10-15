@@ -1,6 +1,6 @@
 # Was ist Context Window?
 
-*AI · Zuletzt aktualisiert: 3. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um die Informationskapazität, die sich künstliche Intelligenz merken und gleichzeitig verarbeiten kann.
 

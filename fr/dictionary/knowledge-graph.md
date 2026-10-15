@@ -1,6 +1,6 @@
 # Qu'est-ce que Knowledge Graph ?
 
-*Data · Dernière mise à jour : 3 juin 2026*
+*Données et infra · Dernière mise à jour : 3 juin 2026*
 
 Il s'agit d'un réseau d'informations structuré qui relie les relations entre les données et les concepts.
 

@@ -1,6 +1,6 @@
 # What is Electric Propulsion Systems?
 
-*Dev · Last updated: September 4, 2026*
+*Development · Last updated: September 4, 2026*
 
 These are motor assemblies that use electrical energy instead of fuel to move vehicles.
 

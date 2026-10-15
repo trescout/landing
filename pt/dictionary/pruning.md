@@ -1,6 +1,6 @@
 # O que é Pruning?
 
-*AI · Última atualização: 27 de setembro de 2026*
+*Inteligência artificial · Última atualização: 27 de setembro de 2026*
 
 É o processo de tornar o modelo mais eficiente, excluindo conexões desnecessárias que não afetam o desempenho do modelo de inteligência artificial.
 

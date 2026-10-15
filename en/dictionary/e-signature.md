@@ -1,6 +1,6 @@
 # What is E-signature?
 
-*Dev · Last updated: July 18, 2026*
+*Development · Last updated: July 18, 2026*
 
 > Electronic Signature
 

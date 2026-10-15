@@ -1,6 +1,6 @@
 # Was ist Persistent Ads?
 
-*Dev · Zuletzt aktualisiert: 27. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 27. September 2026*
 
 Hierbei handelt es sich um Werbeanzeigen, die beim Surfen auf Internetseiten ständig in einer Ecke des Bildschirms erscheinen oder dort fixiert bleiben.
 

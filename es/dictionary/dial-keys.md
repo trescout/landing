@@ -1,6 +1,6 @@
 # ¿Qué es Dial Keys?
 
-*Dev · Última actualización: 18 de junio de 2026*
+*Desarrollo · Última actualización: 18 de junio de 2026*
 
 Es un teclado mecánico giratorio que se utiliza para marcar números en teléfonos antiguos.
 

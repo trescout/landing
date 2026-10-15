@@ -1,6 +1,6 @@
 # What is Bindings?
 
-*Dev · Last updated: June 8, 2026*
+*Development · Last updated: June 8, 2026*
 
 They are bridges that enable different programming languages ​​to use each other's libraries.
 

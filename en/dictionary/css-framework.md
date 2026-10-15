@@ -1,6 +1,6 @@
 # What is CSS Framework?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 CSS framework (CSS framework in Turkish) is a tool set that offers ready-made styles.
 

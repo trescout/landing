@@ -1,6 +1,6 @@
 # What is Auto-fallback?
 
-*Dev · Last updated: July 25, 2026*
+*Development · Last updated: July 25, 2026*
 
 When an error occurs in a system or the main method fails, the system automatically switches to a safer or alternative method.
 

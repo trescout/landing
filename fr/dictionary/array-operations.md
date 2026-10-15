@@ -1,6 +1,6 @@
 # Qu'est-ce que Array Operations ?
 
-*Dev · Dernière mise à jour : 30 juin 2026*
+*Développement · Dernière mise à jour : 30 juin 2026*
 
 Il s'agit d'opérations mathématiques collectives effectuées sur des groupes de données alignées côte à côte dans la mémoire de l'ordinateur.
 

@@ -1,6 +1,6 @@
 # What is PVR?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 > Personal Video Recorder
 

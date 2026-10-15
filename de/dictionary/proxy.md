@@ -1,6 +1,6 @@
 # Was ist Proxy?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Proxy (auf Türkisch: Proxy-Server) ist der Vermittler, der Ihre Anfragen in Ihrem Namen an das Ziel übermittelt.
 

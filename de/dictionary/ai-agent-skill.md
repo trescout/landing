@@ -1,6 +1,6 @@
 # Was ist AI Agent Skill?
 
-*AI · Zuletzt aktualisiert: 6. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 6. Juni 2026*
 
 Hierbei handelt es sich um spezifische Fähigkeiten, die ein KI-Agent zur Erledigung einer Aufgabe einsetzen kann, beispielsweise zum Durchsuchen des Internets oder zum Organisieren einer Datei.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que AI Models ?
 
-*AI · Dernière mise à jour : 10 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 10 juin 2026*
 
 Ce sont des structures mathématiques qui acquièrent la capacité de faire des prédictions ou de produire du contenu en étant entraînées avec de grandes quantités de données.
 

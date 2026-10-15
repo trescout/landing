@@ -1,6 +1,6 @@
 # O que é User Experience?
 
-*Dev · Última atualização: 13 de julho de 2026*
+*Desenvolvimento · Última atualização: 13 de julho de 2026*
 
 > UX
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Network Stack ?
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 La pile réseau (Network Stack) est l'ensemble des pilotes matériels, du noyau (kernel) et des couches de protocole de l'espace utilisateur qui permettent à un système d'exploitation ou à un matériel de transmettre, router et recevoir des paquets de données sur un réseau.
 

@@ -1,6 +1,6 @@
 # What is Secrets?
 
-*Dev · Last updated: June 4, 2026*
+*Development · Last updated: June 4, 2026*
 
 These are the passwords, API keys and access codes that software applications need to operate securely.
 

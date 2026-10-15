@@ -1,6 +1,6 @@
 # What is ETF?
 
-*Data · Last updated: July 29, 2026*
+*Data & Infra · Last updated: July 29, 2026*
 
 > Exchange Traded Fund
 

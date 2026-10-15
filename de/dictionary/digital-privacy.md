@@ -1,6 +1,6 @@
 # Was ist Digital Privacy?
 
-*Data · Zuletzt aktualisiert: 19. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 19. September 2026*
 
 Digitale Privatsphäre (dijital gizlilik veya sayısal mahremiyet) ist das Recht von Einzelpersonen, zu kontrollieren und zu begrenzen, wer die persönlichen Daten, die sie im Internet, auf intelligenten Geräten und in digitalen Diensten erzeugen, sammeln, speichern und verarbeiten darf.
 

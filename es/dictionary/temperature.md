@@ -1,6 +1,6 @@
 # ¿Qué es Temperature?
 
-*AI · Última actualización: 3 de junio de 2026*
+*Inteligencia artificial · Última actualización: 3 de junio de 2026*
 
 Es el entorno el que determina el nivel de creatividad de las respuestas producidas por la inteligencia artificial.
 

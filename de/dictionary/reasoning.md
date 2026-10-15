@@ -1,6 +1,6 @@
 # Was ist Reasoning?
 
-*AI · Zuletzt aktualisiert: 30. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 30. September 2026*
 
 Es ist die Fähigkeit der künstlichen Intelligenz, Schritt für Schritt Schlussfolgerungen zu ziehen, indem sie die ihr gegebenen Informationen durch einen logischen Filter leitet und nicht nur auf dem Auswendiglernen basiert.
 

@@ -1,6 +1,6 @@
 # O que é Project Management?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Gestão de projetos é a disciplina de planejar tempo, recursos e tarefas para alcançar um objetivo.
 

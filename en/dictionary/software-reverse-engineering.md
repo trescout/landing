@@ -1,6 +1,6 @@
 # What is Software Reverse Engineering?
 
-*Dev · Last updated: August 31, 2026*
+*Development · Last updated: August 31, 2026*
 
 It is the process of reverse-analyzing the code or structure of a ready-made software to understand how it works.
 

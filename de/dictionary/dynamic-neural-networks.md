@@ -1,6 +1,6 @@
 # Was ist Dynamic Neural Networks?
 
-*AI · Zuletzt aktualisiert: 3. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. Juli 2026*
 
 Dabei handelt es sich um flexible Architekturen künstlicher Intelligenz, die ihre Struktur je nach Art der verarbeiteten Daten sofort ändern können.
 

@@ -1,6 +1,6 @@
 # Was ist Routing Layer?
 
-*Dev · Zuletzt aktualisiert: 27. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 27. September 2026*
 
 Die digitale Routing-Schicht, die den Datenverkehr so ​​verwaltet, dass eingehende Daten oder Anfragen das richtige Ziel erreichen.
 

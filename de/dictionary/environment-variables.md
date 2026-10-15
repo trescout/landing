@@ -1,6 +1,6 @@
 # Was ist Environment Variables?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Umgebungsvariablen sind Bezeichner, die Einstellungen außerhalb des Codes halten.
 

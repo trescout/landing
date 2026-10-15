@@ -1,6 +1,6 @@
 # Was ist Introduction to Autonomous Robots?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 Autonome Roboter sind Maschinen, die sich in ihrer Umgebung bewegen, ohne ständig Befehle zu erhalten.
 

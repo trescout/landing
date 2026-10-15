@@ -1,6 +1,6 @@
 # Was ist Communications Operating System?
 
-*Dev · Zuletzt aktualisiert: 18. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 18. Juni 2026*
 
 Es handelt sich um eine Softwareplattform, die die Verwaltung verschiedener Kommunikationstools und -kanäle von einem einzigen Zentrum aus ermöglicht.
 

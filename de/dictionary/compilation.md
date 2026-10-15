@@ -1,6 +1,6 @@
 # Was ist Compilation?
 
-*Dev · Zuletzt aktualisiert: 14. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 14. Juni 2026*
 
 Dabei handelt es sich um den Prozess der Umwandlung von Codes, die der menschlichen Sprache ähneln, in Maschinensprache, die der Prozessor des Computers verstehen kann.
 

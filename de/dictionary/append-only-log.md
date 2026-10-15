@@ -1,6 +1,6 @@
 # Append-Only Log: Unveränderlichkeit, Write-Ahead Logs und sequenzielle Speicherung
 
-*Data & Infra · Zuletzt aktualisiert: 20. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 20. September 2026*
 
 Ein Append-Only Log (reines Anfügeprotokoll) ist ein Speicherprinzip, bei dem neue Datensätze ausnahmslos an das Dateiende angehängt werden; bestehende Einträge sind absolut unveränderlich und können niemals überschrieben werden.
 

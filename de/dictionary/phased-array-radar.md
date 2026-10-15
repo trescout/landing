@@ -1,6 +1,6 @@
 # Was ist Phased Array Radar?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Phased-Array-Radar ist ein stationäres Radarsystem, das seinen Strahl elektronisch steuert.
 

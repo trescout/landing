@@ -1,6 +1,6 @@
 # Was ist Trading Agent?
 
-*AI · Zuletzt aktualisiert: 29. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 29. Juni 2026*
 
 Software für künstliche Intelligenz, die Daten auf den Finanzmärkten analysiert und automatische Handelsentscheidungen für Sie trifft.
 

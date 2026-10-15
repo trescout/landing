@@ -1,6 +1,6 @@
 # Was ist Streaming 3D Reconstruction?
 
-*AI · Zuletzt aktualisiert: 10. Oktober 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 10. Oktober 2026*
 
 Es ist eine Methode, bei der eingehende Datenströme von Kameras oder Sensoren ohne Verzögerung sofort in ein dreidimensionales digitales Modell umgewandelt werden.
 

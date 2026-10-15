@@ -1,6 +1,6 @@
 # What is Hive Mind?
 
-*AI · Last updated: August 24, 2026*
+*Artificial Intelligence · Last updated: August 24, 2026*
 
 It is the act of many interconnected artificial intelligence units acting as a collective intelligence.
 

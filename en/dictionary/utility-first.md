@@ -1,6 +1,6 @@
 # What is Utility-first?
 
-*Dev · Last updated: August 6, 2026*
+*Development · Last updated: August 6, 2026*
 
 It is an approach to quickly create styles using predefined small and functional commands (classes) when designing.
 

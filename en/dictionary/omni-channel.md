@@ -1,6 +1,6 @@
 # What is Omni-channel?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 Omni-channel refers to the synchronous operation of all sales channels.
 

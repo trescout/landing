@@ -1,6 +1,6 @@
 # O que é RAG?
 
-*AI · Última atualização: 3 de junho de 2026*
+*Inteligência artificial · Última atualização: 3 de junho de 2026*
 
 > Retrieval-Augmented Generation
 

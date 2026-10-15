@@ -1,6 +1,6 @@
 # Qu'est-ce que Cloud Computing ?
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Le cloud computing (informatique en nuage) est la mise à disposition de ressources informatiques telles que des serveurs, du stockage, des bases de données, des réseaux et des logiciels via Internet, à partir de centres de données distants et selon les besoins instantanés (on-demand), en remplacement d'infrastructures physiques locales.
 

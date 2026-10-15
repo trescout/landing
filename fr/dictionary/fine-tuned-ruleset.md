@@ -1,6 +1,6 @@
 # Qu'est-ce que Fine-tuned Ruleset ?
 
-*AI · Dernière mise à jour : 28 juillet 2026*
+*Intelligence artificielle · Dernière mise à jour : 28 juillet 2026*
 
 Un ensemble de règles qui sont affinées en étant entraînées avec des données spéciales pour mieux faire un certain travail.
 

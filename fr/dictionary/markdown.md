@@ -1,6 +1,6 @@
 # Qu'est-ce que Markdown ?
 
-*Dev · Dernière mise à jour : 3 juin 2026*
+*Développement · Dernière mise à jour : 3 juin 2026*
 
 Un langage de formatage léger utilisé pour formater du texte, permettant d'écrire avec des caractères simples.
 

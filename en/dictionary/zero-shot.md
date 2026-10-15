@@ -1,6 +1,6 @@
 # What is Zero-shot?
 
-*AI · Last updated: September 13, 2026*
+*Artificial Intelligence · Last updated: September 13, 2026*
 
 It is the ability of artificial intelligence to perform a task it has never seen an example of, using only a description.
 

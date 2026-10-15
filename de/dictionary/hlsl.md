@@ -1,6 +1,6 @@
 # Was ist HLSL?
 
-*Dev · Zuletzt aktualisiert: 5. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 5. September 2026*
 
 > High-Level Shader Language
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Xcode ?
 
-*Dev · Dernière mise à jour : 14 juillet 2026*
+*Développement · Dernière mise à jour : 14 juillet 2026*
 
 Il s'agit de l'environnement de développement logiciel officiel utilisé pour développer des applications pour les appareils Apple (iPhone, Mac, iPad).
 

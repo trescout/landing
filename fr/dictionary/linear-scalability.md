@@ -1,6 +1,6 @@
 # Qu'est-ce que Linear Scalability ?
 
-*Data · Dernière mise à jour : 28 juillet 2026*
+*Données et infra · Dernière mise à jour : 28 juillet 2026*
 
 À mesure que la quantité de ressources ajoutées au système augmente, les performances augmentent au même rythme.
 

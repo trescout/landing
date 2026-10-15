@@ -1,6 +1,6 @@
 # What is Home Server?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 A home server is a personal server that runs continuously at home.
 

@@ -1,6 +1,6 @@
 # What is Agentic?
 
-*AI · Last updated: July 25, 2026*
+*Artificial Intelligence · Last updated: July 25, 2026*
 
 It is the ability of an artificial intelligence to plan and take action on its own, without human intervention, in line with the target given to it.
 

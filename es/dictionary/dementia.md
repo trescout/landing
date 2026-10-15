@@ -1,6 +1,6 @@
 # ¿Qué es Dementia?
 
-*AI · Última actualización: 16 de agosto de 2026*
+*Inteligencia artificial · Última actualización: 16 de agosto de 2026*
 
 Es una afección en la que la memoria, el pensamiento y las habilidades de la vida diaria se ven gravemente debilitados debido al daño a las células nerviosas del cerebro.
 

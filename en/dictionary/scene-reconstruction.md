@@ -1,6 +1,6 @@
 # What is Scene Reconstruction?
 
-*AI · Last updated: July 19, 2026*
+*Artificial Intelligence · Last updated: July 19, 2026*
 
 It is the process of creating three-dimensional digital models of physical environments based on images.
 

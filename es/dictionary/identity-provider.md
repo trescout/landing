@@ -1,6 +1,6 @@
 # ¿Qué es un Identity Provider?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 > Proveedor de Identidad Digital
 

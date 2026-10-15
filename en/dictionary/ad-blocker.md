@@ -1,6 +1,6 @@
 # What is Ad Blocker?
 
-*Dev · Last updated: September 2, 2026*
+*Development · Last updated: September 2, 2026*
 
 It is a software tool that stops advertising content on web pages from loading.
 

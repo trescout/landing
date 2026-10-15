@@ -1,6 +1,6 @@
 # Qu'est-ce que Graph-native Infrastructure ?
 
-*Data · Dernière mise à jour : 8 août 2026*
+*Données et infra · Dernière mise à jour : 8 août 2026*
 
 Il s'agit d'une structure spéciale de stockage de données conçue sur la base de connexions directes entre les données.
 

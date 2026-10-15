@@ -1,6 +1,6 @@
 # Qu'est-ce que Swarm Intelligence ?
 
-*AI · Dernière mise à jour : 8 août 2026*
+*Intelligence artificielle · Dernière mise à jour : 8 août 2026*
 
 Il s’agit du regroupement de nombreuses unités dotées de capacités simples et agissant comme un système intelligent unique.
 

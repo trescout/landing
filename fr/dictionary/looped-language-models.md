@@ -1,6 +1,6 @@
 # Qu'est-ce que Looped Language Models ?
 
-*AI · Dernière mise à jour : 28 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 28 septembre 2026*
 
 Il s’agit de modèles d’intelligence artificielle circulaires qui raisonnent étape par étape en utilisant à nouveau les résultats qu’ils produisent comme entrées.
 

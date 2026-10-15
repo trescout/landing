@@ -1,6 +1,6 @@
 # Qu'est-ce que Output ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 La sortie (avec son équivalent turc) est la donnée produite par le résultat de l'opération.
 
