@@ -33,6 +33,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import DILLER  # noqa: E402
+from marka_metin import duzelt, duzelt_hf  # noqa: E402 · rapor özetinde marka yazımı
 from riza_formu import blok as riza_blok  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -329,7 +330,15 @@ def tarihler(dil):
 
 
 def yukle(dil, t):
-    return json.load(open(json_yolu(dil, t), encoding="utf-8"))
+    # Rapor özetleri Gemini çıktısı · marka yazımı ana sayfaya girmeden düzelir
+    # (eski raporlarda "HuggingFace", "yapay zeka" var; marka denetimi ana sayfayı tarıyor)
+    d = json.load(open(json_yolu(dil, t), encoding="utf-8"))
+    f = duzelt if dil == "tr" else duzelt_hf
+    for sec in d.get("sections", []):
+        for it in sec.get("items", []):
+            if isinstance(it.get("summary"), str):
+                it["summary"] = f(it["summary"])
+    return d
 
 
 _URL_ONBELLEK = {}

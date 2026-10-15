@@ -97,6 +97,8 @@ jobs:
         run: python3 scripts/check-brand-typography.py
       - name: Site içi bağlantılar (kırık hedef yok)
         run: python3 scripts/check-ic-baglantilar.py
+      - name: Çeviri bağlantıları Türkçeyle tutarlı (kaynak bağlantısı, depo adresi)
+        run: python3 scripts/check-ceviri-baglantilari.py
 
       # Aydınlatma/rıza · her kayıt formu SAYFANIN DİLİNDEKİ metne bağlanmalı.
       # 2026-08-06'da İngilizce sayfadan aydınlatma yapılmadan kayıt alındı.

@@ -36,8 +36,11 @@ TERMS=[(t["slug"],[rx(p) for p in pats(t)]) for t in man]
 
 # mevcut bölümleri kaldır (refresh) · \n?[ \t]* sondaki girintiyi de yutar →
 # yeniden eklemede 6 boşluk birikmez (idempotent · whitespace drift yok)
-RE_DICTTERMS=re.compile(r'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2>.*?</section>\n?[ \t]*',re.S)
-RE_TOOLS=re.compile(r'<section class="disc-sec"><h2>İlgili araçlar</h2>.*?</section>\n?[ \t]*',re.S)
+# \s*: elle zenginleştirilmiş sayfalarda bölüm satır sonlu yazılmış ("<section ...>\n<h2>").
+# Tek satırlık desen onları göremiyordu, her koşuda yeni kopya ekleniyordu (2026-10-15: 9 sözlük
+# sayfasında "İlgili araçlar" iki kez)
+RE_DICTTERMS=re.compile(r'<section class="disc-sec">\s*<h2>İlgili sözlük terimleri</h2>.*?</section>\n?[ \t]*',re.S)
+RE_TOOLS=re.compile(r'<section class="disc-sec">\s*<h2>İlgili araçlar</h2>.*?</section>\n?[ \t]*',re.S)
 
 def prose(t):
     t=re.sub(r'(?s)<(script|style|nav|footer|form)\b.*?</\1>',' ',t)
