@@ -107,6 +107,11 @@ jobs:
       # Rapor kapaklarında yapay zekâ şeffaflık beyanı (AB YZ Yasası m.50).
       - name: YZ şeffaflık beyanı kontrolü
         run: python3 scripts/check-ai-disclosure.py
+      # Keşif/sözlük notunda yapay zekâ beyanı. Eski notlu sayfaları içerik hattı
+      # beyanlar (yz_beyani.py --uygula); burada her sayfanın beyanlı ya da
+      # beyanlanabilir olduğu denetlenir (notu hiç tanınmayan sayfa kırar).
+      - name: YZ beyanı (keşif ve sözlük)
+        run: python3 scripts/yz_beyani.py --gecis
       # Kayıt formu bilgilendirme + onay bloğu tek kaynaktan (KVKK 2026/347, #210).
       - name: Rıza formu kanonik blok kontrolü
         run: python3 scripts/riza_formu.py --check

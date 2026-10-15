@@ -490,6 +490,12 @@ jobs:
       # .md uç noktaları sayfanın SON hâlinden · ölü çip temizliğinden SONRA (yoksa
       # .md silinmiş sayfaya bağlantı taşır). Elle düzenlenmiş (korunan) sayfaların
       # .md'si de buradan tazelenir · üreticiler onlara dokunmadığı için kayıyordu.
+      # Keşif/sözlük sayfa notunda yapay zekâ beyanı (raporlardaki beyanın ikizi).
+      # Üreticiler yeni notu basıyor; bu adım korunan/eski sayfaları da beyanlar ve
+      # damganın içinde kalan eski <div> notlu sayfaların damgasını yeniler.
+      # .md'den ÖNCE: .md sayfanın son hâlinden üretilir.
+      - name: YZ beyanı (keşif ve sözlük sayfaları)
+        run: python3 scripts/yz_beyani.py --uygula
       - name: .md uç noktaları (tüm dillerde sözlük ve keşif)
         run: python3 scripts/md-uret.py
 
@@ -530,6 +536,8 @@ jobs:
       # Rapor kapaklarında yapay zekâ şeffaflık beyanı (AB YZ Yasası m.50).
       - name: YZ şeffaflık beyanı kontrolü
         run: python3 scripts/check-ai-disclosure.py
+      - name: YZ beyanı kontrolü (keşif ve sözlük)
+        run: python3 scripts/yz_beyani.py
 
       - name: Sayfa paritesi (diller arası yapı)
         run: python3 scripts/check-sayfa-paritesi.py

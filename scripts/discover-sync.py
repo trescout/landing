@@ -526,7 +526,7 @@ def build_page(e, rich=None):
       f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
       f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{guncelleme_html}{shot_html}{editorial_html}{rich_html}{relsec}\n'
       f'{source_links(e, url)}\n'
-      f'<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun {date} tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>\n'
+      f'<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun {date} tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>\n'
       f'<aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporlarda bulun.</strong> TreScout her gün GitHub, Hacker News ve Hugging Face\'i tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p>'
       +make_form(slug)+f'<a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>\n'
       '</article>\n</main>\n'+FOOTER+'\n'+('<script src="/assets/discover.js" defer></script>\n' if rich else '')+'<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
