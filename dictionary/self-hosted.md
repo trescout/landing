@@ -88,17 +88,6 @@ Self-hosted sistemlerde donanım bozulduğunda veriyi kurtaracak bir müşteri h
 ## İlgili araçlar
 
 - [Immich](https://trescout.com/discover/immich/)
-- [Chatwoot](https://trescout.com/discover/chatwoot/)
-- [Open-Generative-AI](https://trescout.com/discover/open-generative-ai/)
-- [OpenWA](https://trescout.com/discover/openwa/)
-- [Openship](https://trescout.com/discover/openship/)
-- [Instatic](https://trescout.com/discover/instatic/)
-- [TREK](https://trescout.com/discover/trek/)
-- [Celld](https://trescout.com/discover/celld/)
-
-## İlgili araçlar
-
-- [Immich](https://trescout.com/discover/immich/)
 - [CasaOS](https://trescout.com/discover/casaos/)
 - [Chatwoot](https://trescout.com/discover/chatwoot/)
 - [Open-Generative-AI](https://trescout.com/discover/open-generative-ai/)

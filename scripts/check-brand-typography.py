@@ -4,6 +4,11 @@ Marka tipografi guard'ı (CI) · yayına giden sayfalarda iki kesin kural:
 
   1. 🚀 YASAK · hype işareti (AGENTS.md marka bölümü).
   2. Em dash (—) YASAK · Türkçede yok, yerine · , . : kullanılır.
+  3. 🤖 YASAK · 2.665 sayfada ajan istemi etiketindeydi (2026-10-15 temizlendi).
+  4. "HuggingFace" değil "Hugging Face" (model kimliği/URL hariç) · tarihli raporlar hariç.
+  5. Türkçe sayfada şapkasız "yapay zeka" yok · tarihli raporlar hariç.
+4 ve 5'in kaynağı Gemini çıktısı; üreticiler marka_metin.py ile yayından önce düzeltiyor,
+bu guard düzeltmenin atlandığı yolu yakalar.
 
 Neden gerekti: 2026-08-06 denetiminde 🚀 **361 keşif sayfasında** çıktı ·
 `discover-sync.py` momentum rozetine basıyordu ve kimse fark etmemişti.
@@ -19,7 +24,12 @@ import os, re, sys, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KOD = re.compile(r"<pre\b.*?</pre>|<code\b.*?</code>", re.S | re.I)
-YASAK = (("🚀", "hype işareti · marka kuralı"), ("—", "em dash · Türkçede yok, · kullanın"))
+YASAK = (("🚀", "hype işareti · marka kuralı"), ("—", "em dash · Türkçede yok, · kullanın"),
+         ("🤖", "emoji · marka kuralı"))
+DILLER = ("en/", "fr/", "pt/", "es/", "de/")
+# (desen, sebep, yalnız Türkçe mi) · tarihli rapor gövdeleri o günün metni, dokunulmaz
+DESEN = ((re.compile(r"(?<![\w/.@-])HuggingFace(?![\w/-])"), "\"Hugging Face\" yazılır", False),
+         (re.compile(r"\b[Yy]apay [Zz]eka(?![â\w])|\b[Yy]apay [Zz]eka(?=[a-zçğıöşü])"), "şapkalı \"yapay zekâ\"", True))
 
 
 def main():
@@ -32,6 +42,14 @@ def main():
             for isaret, sebep in YASAK:
                 if isaret in satir:
                     ihlal.append((rel, i, isaret, sebep, satir.strip()[:70]))
+            if "/reports/" in "/" + rel:
+                continue
+            for desen, sebep, yalniz_tr in DESEN:
+                if yalniz_tr and rel.startswith(DILLER):
+                    continue
+                m = desen.search(satir)
+                if m:
+                    ihlal.append((rel, i, m.group(0), sebep, satir.strip()[:70]))
 
     if ihlal:
         print(f"✗ {len(ihlal)} marka tipografi ihlali:")
@@ -40,7 +58,7 @@ def main():
         if len(ihlal) > 15:
             print(f"   … +{len(ihlal)-15} ihlal daha")
         sys.exit(1)
-    print("✓ marka tipografisi temiz · 🚀 ve em dash yok")
+    print("✓ marka tipografisi temiz · 🚀, 🤖, em dash, HuggingFace ve şapkasız yapay zeka yok")
 
 
 main()

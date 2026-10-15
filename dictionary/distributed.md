@@ -94,11 +94,6 @@ Ağdaki sunuculardan birkaçı çökse dahi, geriye kalan çoğunluk düğümler
 - [Elasticsearch](https://trescout.com/discover/elasticsearch/)
 - [Cassandra](https://trescout.com/discover/cassandra/)
 
-## İlgili araçlar
-
-- [Elasticsearch](https://trescout.com/discover/elasticsearch/)
-- [Cassandra](https://trescout.com/discover/cassandra/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
