@@ -1,6 +1,6 @@
 # What is Packet Fragmentation?
 
-*Dev · Last updated: June 25, 2026*
+*Development · Last updated: June 25, 2026*
 
 It is the process of dividing the data sent over the Internet into smaller pieces according to the carrying capacity of the network.
 

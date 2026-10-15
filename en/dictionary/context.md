@@ -1,6 +1,6 @@
 # What is Context? AI vs Systems
 
-*AI · Last updated: September 19, 2026*
+*Artificial Intelligence · Last updated: September 19, 2026*
 
 > English: Context · Etymology: Latin contexere (to weave together)
 

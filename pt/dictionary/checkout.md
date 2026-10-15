@@ -1,6 +1,6 @@
 # O que é Checkout? E-Commerce vs Git
 
-*Dev · Última atualização: 19 de setembro de 2026*
+*Desenvolvimento · Última atualização: 19 de setembro de 2026*
 
 > Inglês: Checkout · Etimologia: inglês check (conferir) + out (conclusão, saída)
 

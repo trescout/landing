@@ -1,6 +1,6 @@
 # Qu'est-ce que Learning Mechanism ?
 
-*AI · Dernière mise à jour : 27 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 27 septembre 2026*
 
 Ensemble de méthodes qui permettent à un système de produire de meilleurs résultats au fil du temps en extrayant des modèles à partir de données.
 

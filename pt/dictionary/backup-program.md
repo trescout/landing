@@ -1,6 +1,6 @@
 # O que é Backup Program?
 
-*Data · Última atualização: 22 de setembro de 2026*
+*Dados e infraestrutura · Última atualização: 22 de setembro de 2026*
 
 Um programa de backup (correspondente a yedekleme programı em turco) é um software que copia dados regularmente.
 

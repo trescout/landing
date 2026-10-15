@@ -1,6 +1,6 @@
 # O que é Graph-based Investigation?
 
-*Data · Última atualização: 3 de junho de 2026*
+*Dados e infraestrutura · Última atualização: 3 de junho de 2026*
 
 É um método de descobrir conexões ocultas através da visualização das relações entre os dados em um mapa de rede.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Concurrency?
 
-*Dev · Última actualización: 7 de junio de 2026*
+*Desarrollo · Última actualización: 7 de junio de 2026*
 
 Es la capacidad que tiene una computadora de gestionar múltiples procesos simultáneamente y ejecutarlos por partes.
 

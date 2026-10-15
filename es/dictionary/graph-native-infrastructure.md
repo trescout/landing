@@ -1,6 +1,6 @@
 # ¿Qué es Graph-native Infrastructure?
 
-*Data · Última actualización: 8 de agosto de 2026*
+*Datos e infraestructura · Última actualización: 8 de agosto de 2026*
 
 Es una estructura especial de almacenamiento de datos diseñada en base a conexiones directas entre datos.
 

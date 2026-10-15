@@ -1,6 +1,6 @@
 # Was ist Logs?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Log ist eine zeitgestempelte Zeile von Systemereignissen.
 

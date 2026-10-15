@@ -1,6 +1,6 @@
 # O que é CSS Framework?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Framework CSS (framework CSS em turco) é um conjunto de ferramentas que oferece estilos prontos.
 

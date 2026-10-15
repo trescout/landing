@@ -1,6 +1,6 @@
 # Was ist Preprints?
 
-*AI · Zuletzt aktualisiert: 8. Oktober 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 8. Oktober 2026*
 
 Entwurfsarbeiten, die noch kein wissenschaftliches Begutachtungsverfahren durchlaufen haben und von Forschern veröffentlicht werden, um ihre Ergebnisse schnell zu teilen.
 

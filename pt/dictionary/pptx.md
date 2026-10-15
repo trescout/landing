@@ -1,6 +1,6 @@
 # O que é um arquivo PPTX?
 
-*Dicionário · Des · Última atualização: 1 de setembro de 2026*
+*Dados e infraestrutura · Última atualização: 1 de setembro de 2026*
 
 Um arquivo PPTX é um formato moderno de apresentação baseado em esquemas abertos XML e compactação ZIP, introduzido como padrão a partir do Microsoft PowerPoint 2007. Ele organiza slides, mídias e diagramas em estruturas modulares legíveis.
 

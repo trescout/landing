@@ -1,6 +1,6 @@
 # O que é Research Framework?
 
-*AI · Última atualização: 26 de junho de 2026*
+*Inteligência artificial · Última atualização: 26 de junho de 2026*
 
 É um conjunto de métodos e ferramentas padrão usados para realizar um processo de pesquisa passo a passo.
 

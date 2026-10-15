@@ -1,6 +1,6 @@
 # ¿Qué es Really Simple Syndication?
 
-*Data · Última actualización: 2 de agosto de 2026*
+*Datos e infraestructura · Última actualización: 2 de agosto de 2026*
 
 > RSS
 

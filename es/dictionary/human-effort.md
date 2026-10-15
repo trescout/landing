@@ -1,6 +1,6 @@
 # ¿Qué es Human Effort?
 
-*Dev · Última actualización: 13 de junio de 2026*
+*Desarrollo · Última actualización: 13 de junio de 2026*
 
 Es la totalidad del esfuerzo físico y mental que realizan las personas para completar un proyecto o tarea.
 

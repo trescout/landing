@@ -1,6 +1,6 @@
 # What is IaaS?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 > Infrastructure as a Service
 

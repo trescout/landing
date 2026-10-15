@@ -1,6 +1,6 @@
 # O que é Cookies?
 
-*Dev · Última atualização: 12 de outubro de 2026*
+*Desenvolvimento · Última atualização: 12 de outubro de 2026*
 
 > HTTP Cookies
 

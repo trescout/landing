@@ -1,6 +1,6 @@
 # ¿Qué es Personal Cloud?
 
-*Data · Última actualización: 22 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 22 de septiembre de 2026*
 
 Nube personal (su equivalente en turco, kişisel bulut) es un sistema en la nube en el que los datos residen en su propio dispositivo.
 

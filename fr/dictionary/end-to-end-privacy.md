@@ -1,6 +1,6 @@
 # Qu'est-ce que End-to-End Privacy ?
 
-*Dev · Dernière mise à jour : 28 juin 2026*
+*Développement · Dernière mise à jour : 28 juin 2026*
 
 Il s'agit d'une méthode de sécurité dans laquelle les données ne peuvent être lues que par l'expéditeur et le destinataire, et personne entre les deux ne peut y accéder.
 

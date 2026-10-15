@@ -1,6 +1,6 @@
 # What is Transformer?
 
-*AI · Last updated: June 3, 2026*
+*Artificial Intelligence · Last updated: June 3, 2026*
 
 It is a powerful architectural structure that forms the basis of modern artificial intelligence models.
 

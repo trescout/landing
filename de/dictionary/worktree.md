@@ -1,6 +1,6 @@
 # Was ist Worktree?
 
-*Dev · Zuletzt aktualisiert: 13. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 13. September 2026*
 
 Eine Struktur, die es Ihnen ermöglicht, gleichzeitig an verschiedenen Versionen eines Projekts zu arbeiten, ohne den ursprünglichen Projektordner zu verändern.
 

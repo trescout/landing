@@ -1,6 +1,6 @@
 # O que é Open Source Healthcare AI?
 
-*AI · Última atualização: 11 de junho de 2026*
+*Inteligência artificial · Última atualização: 11 de junho de 2026*
 
 São softwares de inteligência artificial que são compartilhados para que todos possam examiná-los e aprimorá-los na área da saúde.
 

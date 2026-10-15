@@ -1,6 +1,6 @@
 # Was ist Global Intelligence Dashboard?
 
-*Data · Zuletzt aktualisiert: 20. Juni 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 20. Juni 2026*
 
 Dabei handelt es sich um einen Verwaltungsbildschirm, der an zentraler Stelle Daten aus verschiedenen Teilen der Welt sammelt und visualisiert.
 

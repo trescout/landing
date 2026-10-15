@@ -1,6 +1,6 @@
 # What is Fork?
 
-*Dev · Last updated: September 27, 2026*
+*Development · Last updated: September 27, 2026*
 
 The process of taking a copy of an existing software project and starting to make independent new modifications on it.
 

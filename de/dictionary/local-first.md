@@ -1,6 +1,6 @@
 # Was ist Local-first?
 
-*Dev · Zuletzt aktualisiert: 19. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. Juli 2026*
 
 Dabei handelt es sich um einen Softwareansatz, der darauf basiert, Daten auf dem Gerät zu speichern und zu verarbeiten, ohne auf eine Internetverbindung angewiesen zu sein.
 

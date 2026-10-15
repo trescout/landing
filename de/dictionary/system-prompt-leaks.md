@@ -1,6 +1,6 @@
 # Was ist System Prompt Leaks?
 
-*AI · Zuletzt aktualisiert: 8. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 8. Juli 2026*
 
 Es ist die Offenlegung der verborgenen Anweisungen der künstlichen Intelligenz durch den Benutzer.
 

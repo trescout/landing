@@ -1,6 +1,6 @@
 # O que é Page Agent?
 
-*AI · Última atualização: 5 de julho de 2026*
+*Inteligência artificial · Última atualização: 5 de julho de 2026*
 
 É um assistente especial de inteligência artificial que verifica páginas da web e executa ações como clicar ou inserir dados em nome do usuário.
 

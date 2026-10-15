@@ -1,6 +1,6 @@
 # What is Network Stack?
 
-*Dev · Last updated: September 19, 2026*
+*Development · Last updated: September 19, 2026*
 
 The Network Stack is the collection of hardware drivers, kernel, and user-space protocol layers that enable an operating system or hardware to transmit, route, and receive data packets over a network.
 

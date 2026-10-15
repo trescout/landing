@@ -1,6 +1,6 @@
 # O que é AI Code Editor?
 
-*AI · Última atualização: 20 de agosto de 2026*
+*Inteligência artificial · Última atualização: 20 de agosto de 2026*
 
 É uma ferramenta de edição inteligente que detecta erros instantaneamente e ajuda na escrita de código durante o desenvolvimento de software.
 

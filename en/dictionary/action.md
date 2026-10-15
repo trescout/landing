@@ -1,6 +1,6 @@
 # What is Action?
 
-*AI · Last updated: July 4, 2026*
+*Artificial Intelligence · Last updated: July 4, 2026*
 
 It is the concrete action that an artificial intelligence or software performs in the outside world or within the system upon the command given to it.
 

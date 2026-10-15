@@ -1,6 +1,6 @@
 # Was ist Attention?
 
-*AI · Zuletzt aktualisiert: 30. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 30. Juli 2026*
 
 Ein Mechanismus, der es künstlicher Intelligenz ermöglicht, sich auf die wichtigsten Teile eines Textes oder von Daten zu konzentrieren.
 

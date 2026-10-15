@@ -1,6 +1,6 @@
 # What is Paywall?
 
-*Data · Last updated: September 19, 2026*
+*Data & Infra · Last updated: September 19, 2026*
 
 A paywall is a digital gatekeeper system that restricts access to digital content on the internet and requires a paid subscription, one-time payment, or registration from users.
 

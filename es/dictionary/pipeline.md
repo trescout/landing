@@ -1,6 +1,6 @@
 # ¿Qué es Pipeline?
 
-*Dev · Última actualización: 20 de junio de 2026*
+*Desarrollo · Última actualización: 20 de junio de 2026*
 
 Se trata de una serie de pasos automáticos por los que los datos pasan desde un estado sin procesar hasta llegar a un resultado procesado.
 

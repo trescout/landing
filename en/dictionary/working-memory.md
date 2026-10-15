@@ -1,6 +1,6 @@
 # What is Working Memory?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 Working memory (in Turkish, çalışma belleği) is the temporary information the model holds for the task at hand.
 

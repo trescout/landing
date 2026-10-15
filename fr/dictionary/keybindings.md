@@ -1,6 +1,6 @@
 # Qu'est-ce que Keybindings ?
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Le raccourci clavier (ou raccourci clavier) est l'affectation d'une touche du clavier ou d'une combinaison de touches (par exemple Ctrl+C, Cmd+K) pour déclencher instantanément une commande, une action ou une macro spécifique dans le logiciel.
 

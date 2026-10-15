@@ -1,6 +1,6 @@
 # What is Multi-player Swarms?
 
-*AI · Last updated: August 22, 2026*
+*Artificial Intelligence · Last updated: August 22, 2026*
 
 They are artificial intelligence groups that communicate and cooperate with each other for a common goal.
 

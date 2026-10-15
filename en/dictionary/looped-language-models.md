@@ -1,6 +1,6 @@
 # What is Looped Language Models?
 
-*AI · Last updated: September 28, 2026*
+*Artificial Intelligence · Last updated: September 28, 2026*
 
 They are looped artificial intelligence models that perform step-by-step reasoning by reusing their own generated outputs as inputs.
 

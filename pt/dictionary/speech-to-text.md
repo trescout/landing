@@ -1,6 +1,6 @@
 # O que é Speech-to-Text?
 
-*AI · Última atualização: 22 de setembro de 2026*
+*Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
 Speech-to-text (abreviado como STT, conversão de fala em texto) é a tecnologia que converte áudio em texto escrito.
 

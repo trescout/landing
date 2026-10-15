@@ -1,6 +1,6 @@
 # What is Live Transcription?
 
-*AI · Last updated: July 6, 2026*
+*Artificial Intelligence · Last updated: July 6, 2026*
 
 It is the process of instantly converting spoken audio into text and displaying it on the screen simultaneously.
 

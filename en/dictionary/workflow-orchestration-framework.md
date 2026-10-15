@@ -1,6 +1,6 @@
 # What is Workflow Orchestration Framework?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Workflow orchestration framework is the infrastructure that queues dependent tasks and manages the error.
 

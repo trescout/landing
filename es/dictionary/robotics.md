@@ -1,6 +1,6 @@
 # ¿Qué es Robotics?
 
-*AI · Última actualización: 14 de octubre de 2026*
+*Inteligencia artificial · Última actualización: 14 de octubre de 2026*
 
 Área tecnológica que se ocupa del diseño, la producción y la realización de tareas en el mundo físico por parte de los robots.
 

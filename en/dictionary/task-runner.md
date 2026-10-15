@@ -1,6 +1,6 @@
 # What is Task Runner?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Task runner is a tool that runs repetitive tasks sequentially.
 

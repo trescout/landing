@@ -1,6 +1,6 @@
 # ¿Qué es GIS?
 
-*Data · Última actualización: 28 de julio de 2026*
+*Datos e infraestructura · Última actualización: 28 de julio de 2026*
 
 > Geographic Information System
 

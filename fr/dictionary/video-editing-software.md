@@ -1,6 +1,6 @@
 # Qu'est-ce que Video Editing Software ?
 
-*Dev · Dernière mise à jour : 27 septembre 2026*
+*Développement · Dernière mise à jour : 27 septembre 2026*
 
 Programmes d'édition numérique pour couper des images, ajouter des effets et éditer des sons.
 

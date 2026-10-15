@@ -1,6 +1,6 @@
 # O que é Copywriting?
 
-*Dev · Última atualização: 7 de setembro de 2026*
+*Desenvolvimento · Última atualização: 7 de setembro de 2026*
 
 É a redação persuasiva preparada com o objetivo de convencer as pessoas a realizar uma determinada ação ou comprar um produto.
 

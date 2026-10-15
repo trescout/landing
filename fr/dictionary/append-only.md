@@ -1,6 +1,6 @@
 # Qu'est-ce que Append-only ?
 
-*Data · Dernière mise à jour : 24 août 2026*
+*Données et infra · Dernière mise à jour : 24 août 2026*
 
 Il s'agit d'une méthode d'enregistrement dans laquelle les données peuvent uniquement être ajoutées, ne peuvent pas être modifiées ou supprimées.
 

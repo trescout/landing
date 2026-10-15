@@ -1,6 +1,6 @@
 # Was ist Syntax?
 
-*Dev · Zuletzt aktualisiert: 5. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 5. September 2026*
 
 Dies sind die Schreibregeln, die in einer Programmiersprache befolgt werden müssen, damit der Code fehlerfrei ausgeführt werden kann.
 

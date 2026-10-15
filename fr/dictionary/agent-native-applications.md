@@ -1,6 +1,6 @@
 # Qu'est-ce que Agent-native Applications ?
 
-*AI · Dernière mise à jour : 20 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 20 juin 2026*
 
 Il s'agit d'applications spécialement conçues pour permettre aux agents d'intelligence artificielle de prendre des décisions et d'effectuer des transactions.
 

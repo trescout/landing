@@ -1,6 +1,6 @@
 # Patent Disclosure: Divulgación técnica, estado del arte y patentes
 
-*Dev · Última actualización: 20 de septiembre de 2026*
+*Desarrollo · Última actualización: 20 de septiembre de 2026*
 
 Patent disclosure (divulgación de patente o suficiencia descriptiva) es el requisito legal que obliga al inventor a detallar su creación técnica de forma tan precisa que un experto en la materia pueda reproducirla.
 

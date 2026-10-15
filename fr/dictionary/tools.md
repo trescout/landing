@@ -1,6 +1,6 @@
 # Tools : Outillage développeur, Function Calling et MCP
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Les outils (tools) désignent deux domaines vitaux en informatique : les utilitaires qui décuplent la productivité des développeurs, et les interfaces permettant aux modèles d'IA d'interagir avec le monde extérieur.
 

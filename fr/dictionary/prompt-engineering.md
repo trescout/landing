@@ -1,6 +1,6 @@
 # Qu'est-ce que Prompt Engineering ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 C’est l’art d’optimiser les commandes données pour tirer le meilleur parti de l’intelligence artificielle.
 

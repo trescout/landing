@@ -1,6 +1,6 @@
 # What is Agent Tools?
 
-*AI · Last updated: September 27, 2026*
+*Artificial Intelligence · Last updated: September 27, 2026*
 
 Helper software components that enable artificial intelligence to interact with the outside world or perform operations on the internet.
 

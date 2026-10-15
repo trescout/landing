@@ -1,6 +1,6 @@
 # What is Concurrency?
 
-*Dev · Last updated: June 7, 2026*
+*Development · Last updated: June 7, 2026*
 
 It is the ability of a computer to manage multiple processes simultaneously and execute them in parts.
 

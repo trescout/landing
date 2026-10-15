@@ -1,6 +1,6 @@
 # Qu'est-ce que Environment Variables ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Les variables d'environnement sont des identifiants qui permettent de conserver les paramètres en dehors du code.
 

@@ -1,6 +1,6 @@
 # What is Digital Twin?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 Digital twin is a copy of the object fed with live data.
 

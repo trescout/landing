@@ -1,6 +1,6 @@
 # Qu'est-ce que Inference ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit du processus par lequel un modèle d’intelligence artificielle entraîné fait des prédictions sur de nouvelles données.
 

@@ -1,6 +1,6 @@
 # O que é Tutoring Models?
 
-*AI · Última atualização: 18 de julho de 2026*
+*Inteligência artificial · Última atualização: 18 de julho de 2026*
 
 São sistemas de inteligência artificial que explicam passo a passo os assuntos aos alunos, esclarecem dúvidas e fornecem suporte educacional personalizado.
 

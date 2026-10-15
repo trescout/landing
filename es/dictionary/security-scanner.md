@@ -1,6 +1,6 @@
 # ¿Qué es Security Scanner?
 
-*Dev · Última actualización: 15 de junio de 2026*
+*Desarrollo · Última actualización: 15 de junio de 2026*
 
 Es una herramienta que detecta automáticamente vulnerabilidades en software o sistemas de red.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Script?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Un script (o secuencia de comandos) es una serie corta de comandos cuya única función es automatizar tareas.
 

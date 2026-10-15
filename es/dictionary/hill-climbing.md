@@ -1,6 +1,6 @@
 # ¿Qué es Hill Climbing?
 
-*AI · Última actualización: 11 de agosto de 2026*
+*Inteligencia artificial · Última actualización: 11 de agosto de 2026*
 
 Es un método de búsqueda que avanza realizando constantemente pequeñas mejoras para llegar a la mejor solución.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Zero-day Exploit?
 
-*Dev · Última actualización: 3 de junio de 2026*
+*Desarrollo · Última actualización: 3 de junio de 2026*
 
 Se trata de una vulnerabilidad de seguridad recién descubierta que aún no se ha resuelto.
 

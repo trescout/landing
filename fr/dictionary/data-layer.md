@@ -1,6 +1,6 @@
 # Qu'est-ce que Data Layer ?
 
-*Dev · Dernière mise à jour : 17 juillet 2026*
+*Développement · Dernière mise à jour : 17 juillet 2026*
 
 C'est la couche intermédiaire qui permet à votre application de communiquer avec la base de données et d'organiser les données.
 

@@ -1,6 +1,6 @@
 # O que é Reinforcement Learning Agent?
 
-*AI · Última atualização: 8 de agosto de 2026*
+*Inteligência artificial · Última atualização: 8 de agosto de 2026*
 
 É uma unidade de software que aprende a tomar as decisões certas ganhando recompensas por tentativa e erro.
 

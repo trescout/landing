@@ -1,6 +1,6 @@
 # Qu'est-ce que Web Compiler ?
 
-*Dev · Dernière mise à jour : 17 juin 2026*
+*Développement · Dernière mise à jour : 17 juin 2026*
 
 C'est un outil qui rend vos codes exécutables directement via votre navigateur Internet, sans rien installer sur votre ordinateur.
 

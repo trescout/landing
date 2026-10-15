@@ -1,6 +1,6 @@
 # Qu'est-ce que Ternary ?
 
-*AI · Dernière mise à jour : 28 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 28 septembre 2026*
 
 Il s’agit d’un système qui fonctionne non seulement sur deux, mais sur trois états ou valeurs différents.
 

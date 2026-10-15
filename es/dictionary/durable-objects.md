@@ -1,6 +1,6 @@
 # ¿Qué es Durable Objects?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Los objetos duraderos son pequeñas unidades de nube que mantienen su estado.
 

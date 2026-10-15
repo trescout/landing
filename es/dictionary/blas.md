@@ -1,6 +1,6 @@
 # ¿Qué es BLAS?
 
-*Dev · Última actualización: 6 de octubre de 2026*
+*Desarrollo · Última actualización: 6 de octubre de 2026*
 
 > Basic Linear Algebra Subprograms
 

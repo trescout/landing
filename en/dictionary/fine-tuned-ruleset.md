@@ -1,6 +1,6 @@
 # What is Fine-tuned Ruleset?
 
-*AI · Last updated: July 28, 2026*
+*Artificial Intelligence · Last updated: July 28, 2026*
 
 A set of rules that are refined by being trained with special data to do a certain job better.
 

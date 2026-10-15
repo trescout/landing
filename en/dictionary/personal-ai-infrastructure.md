@@ -1,6 +1,6 @@
 # What is Personal AI Infrastructure?
 
-*AI · Last updated: June 7, 2026*
+*Artificial Intelligence · Last updated: June 7, 2026*
 
 It is the individual digital infrastructure required for the operation of artificial intelligence tools that process your personal data.
 

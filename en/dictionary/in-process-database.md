@@ -1,6 +1,6 @@
 # What is In-process Database?
 
-*Data · Last updated: June 23, 2026*
+*Data & Infra · Last updated: June 23, 2026*
 
 It is a lightweight data storage system that runs directly within the application without the need for a separate server.
 

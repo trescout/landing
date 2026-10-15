@@ -1,6 +1,6 @@
 # O que é Quantization?
 
-*AI · Última atualização: 3 de junho de 2026*
+*Inteligência artificial · Última atualização: 3 de junho de 2026*
 
 É um processo de redução de tamanho para tornar os modelos de inteligência artificial mais leves e rápidos.
 

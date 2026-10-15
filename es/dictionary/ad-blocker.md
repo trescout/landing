@@ -1,6 +1,6 @@
 # ¿Qué es Ad Blocker?
 
-*Dev · Última actualización: 2 de septiembre de 2026*
+*Desarrollo · Última actualización: 2 de septiembre de 2026*
 
 Es una herramienta de software que detiene la carga de contenido publicitario en las páginas de internet.
 

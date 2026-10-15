@@ -1,6 +1,6 @@
 # Was ist AI Gateway?
 
-*AI · Zuletzt aktualisiert: 2. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 2. Juli 2026*
 
 Dabei handelt es sich um eine Gateway-Software, die den Datenverkehr zu Modellen der künstlichen Intelligenz verwaltet und steuert.
 

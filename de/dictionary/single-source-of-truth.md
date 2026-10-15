@@ -1,6 +1,6 @@
 # Was ist Single Source of Truth?
 
-*Data · Zuletzt aktualisiert: 17. Juli 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 17. Juli 2026*
 
 > SSOT
 

@@ -1,6 +1,6 @@
 # O que é AI-slop?
 
-*AI · Última atualização: 14 de julho de 2026*
+*Inteligência artificial · Última atualização: 14 de julho de 2026*
 
 É um amontoado de conteúdo produzido rapidamente pela inteligência artificial, de baixa qualidade e geralmente sem agregar valor.
 

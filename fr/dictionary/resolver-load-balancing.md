@@ -1,6 +1,6 @@
 # Qu'est-ce que Resolver Load Balancing ?
 
-*Dev · Dernière mise à jour : 11 juin 2026*
+*Développement · Dernière mise à jour : 11 juin 2026*
 
 Il s'agit du processus permettant d'éviter la surcharge du système en distribuant les requêtes d'adresses Internet à plusieurs serveurs.
 

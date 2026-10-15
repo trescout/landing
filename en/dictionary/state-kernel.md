@@ -1,6 +1,6 @@
 # What is State Kernel?
 
-*Dev · Last updated: August 6, 2026*
+*Development · Last updated: August 6, 2026*
 
 It is the basic core structure that keeps all the current working information and data of a software in memory.
 

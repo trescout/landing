@@ -1,6 +1,6 @@
 # Qu'est-ce que Repository Checkout ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 L'extraction du référentiel est le processus de téléchargement d'une version spécifique du référentiel sur votre espace de travail.
 

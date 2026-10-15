@@ -1,6 +1,6 @@
 # What is Containers?
 
-*Dev · Last updated: June 12, 2026*
+*Development · Last updated: June 12, 2026*
 
 They are lightweight packages that contain everything required for a software to run and can be moved to different environments without any problems.
 

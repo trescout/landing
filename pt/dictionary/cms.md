@@ -1,6 +1,6 @@
 # O que é CMS?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 > Content Management System
 

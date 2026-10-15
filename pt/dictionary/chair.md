@@ -1,6 +1,6 @@
 # O que é Chair?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Chair (em português, presidente) é a pessoa que lidera um conselho administrativo e supervisiona a direção da organização.
 

@@ -1,6 +1,6 @@
 # Was ist Vector Index?
 
-*Data · Zuletzt aktualisiert: 8. Juni 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 8. Juni 2026*
 
 Dabei handelt es sich um eine Zuordnungsmethode zum schnellen Suchen und Finden numerischer Äquivalente (Vektoren) von Daten.
 

@@ -1,6 +1,6 @@
 # O que é Productivity?
 
-*AI · Última atualização: 19 de setembro de 2026*
+*Inteligência artificial · Última atualização: 19 de setembro de 2026*
 
 Produtividade é a métrica de sucesso fundamental que expressa a proporção entre os recursos gastos (tempo, energia, esforço ou capital) e a saída de qualidade produzida.
 

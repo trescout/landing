@@ -1,6 +1,6 @@
 # O que é SpeechAnalyzer?
 
-*AI · Última atualização: 14 de julho de 2026*
+*Inteligência artificial · Última atualização: 14 de julho de 2026*
 
 É uma ferramenta de análise que converte gravações de áudio em texto e analisa a emoção, o tom ou o significado deste texto.
 

@@ -1,6 +1,6 @@
 # Was ist ein Identity Provider?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 > Zentraler Identitätsdienst
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Stealth Headless Browser ?
 
-*Dev · Dernière mise à jour : 8 septembre 2026*
+*Développement · Dernière mise à jour : 8 septembre 2026*
 
 Un navigateur invisible qui contourne les pare-feu des sites web et empêche la détection en tant que robot.
 

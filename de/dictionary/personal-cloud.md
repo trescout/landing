@@ -1,6 +1,6 @@
 # Was ist Personal Cloud?
 
-*Data · Zuletzt aktualisiert: 22. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 22. September 2026*
 
 Personal Cloud ist ein Cloud-Modell, bei dem die Daten auf dem eigenen Gerät gespeichert werden.
 

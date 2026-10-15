@@ -1,6 +1,6 @@
 # O que é Google Cloud?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 > Google Cloud Platform
 

@@ -1,6 +1,6 @@
 # Was ist Keybindings?
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Eine Tastenkombination (oder Keybinding / Tastenbelegung) ist die Zuweisung einer bestimmten Taste oder Tastenkombination (z. B. Strg+C, Cmd+K), um in einer Software sofort einen bestimmten Befehl, eine Aktion oder ein Makro auszulösen.
 

@@ -1,6 +1,6 @@
 # Was ist Observability?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Beobachtbarkeit ist die Fähigkeit, das Innere des Systems anhand externer Daten zu verstehen.
 

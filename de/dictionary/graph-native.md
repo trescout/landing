@@ -1,6 +1,6 @@
 # Was ist Graph-native?
 
-*Data · Zuletzt aktualisiert: 11. August 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 11. August 2026*
 
 Es handelt sich um ein Systemdesign, das auf einer Struktur basiert, in der Daten über Knoten miteinander verbunden sind.
 

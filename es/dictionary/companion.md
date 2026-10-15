@@ -1,6 +1,6 @@
 # ¿Qué es Companion?
 
-*AI · Última actualización: 16 de julio de 2026*
+*Inteligencia artificial · Última actualización: 16 de julio de 2026*
 
 Es un asistente digital que chatea con el usuario, le asiste en las tareas diarias.
 

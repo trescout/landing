@@ -1,6 +1,6 @@
 # Qu'est-ce que Browser State ?
 
-*Dev · Dernière mise à jour : 26 juillet 2026*
+*Développement · Dernière mise à jour : 26 juillet 2026*
 
 Il s'agit de l'état dans lequel toutes les données et paramètres actifs dans la session en cours de votre navigateur Internet sont enregistrés.
 

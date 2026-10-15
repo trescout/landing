@@ -1,6 +1,6 @@
 # Was ist Containers?
 
-*Dev · Zuletzt aktualisiert: 12. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 12. Juni 2026*
 
 Dabei handelt es sich um leichtgewichtige Pakete, die alles enthalten, was für die Ausführung einer Software erforderlich ist, und die problemlos in verschiedene Umgebungen verschoben werden können.
 

@@ -1,6 +1,6 @@
 # ¿Qué es VPN?
 
-*Dev · Última actualización: 11 de junio de 2026*
+*Desarrollo · Última actualización: 11 de junio de 2026*
 
 > Virtual Private Network
 

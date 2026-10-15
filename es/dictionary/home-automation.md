@@ -1,6 +1,6 @@
 # ¿Qué es Home Automation?
 
-*AI · Última actualización: 19 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 19 de septiembre de 2026*
 
 La Domótica (domótica inteligente) es la gestión automática de los sistemas de iluminación, aire acondicionado, seguridad y energía dentro de la residencia con sensores, protocolos de red y reglas de software, sin necesidad de intervención humana.
 

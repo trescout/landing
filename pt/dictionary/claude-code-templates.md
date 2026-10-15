@@ -1,6 +1,6 @@
 # O que é Claude Code Templates?
 
-*AI · Última atualização: 22 de setembro de 2026*
+*Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
 Os modelos do Claude Code são esqueletos de arquivos prontos que aceleram a inicialização de projetos com o Claude Code.
 

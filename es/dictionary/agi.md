@@ -1,6 +1,6 @@
 # ¿Qué es la AGI?
 
-*AI · Última actualización: 22 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
 > Inteligencia Artificial General
 

@@ -1,6 +1,6 @@
 # What is Trading Agent?
 
-*AI · Last updated: June 29, 2026*
+*Artificial Intelligence · Last updated: June 29, 2026*
 
 Artificial intelligence software that analyzes data in financial markets and makes automatic trading decisions for you.
 

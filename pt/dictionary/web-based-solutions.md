@@ -1,6 +1,6 @@
 # O que é Web-based Solutions?
 
-*Dev · Última atualização: 15 de julho de 2026*
+*Desenvolvimento · Última atualização: 15 de julho de 2026*
 
 São serviços de software que você pode acessar e utilizar apenas através de um navegador de internet, sem qualquer instalação em seu computador.
 

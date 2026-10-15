@@ -1,6 +1,6 @@
 # O que é ARQ?
 
-*Dev · Última atualização: 12 de junho de 2026*
+*Desenvolvimento · Última atualização: 12 de junho de 2026*
 
 > Automatic Repeat Request
 

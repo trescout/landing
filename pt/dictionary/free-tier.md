@@ -1,6 +1,6 @@
 # O que é Free Tier?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Free tier (em português, camada gratuita) é a versão gratuita limitada de um serviço.
 

@@ -1,6 +1,6 @@
 # Was ist Stock Options?
 
-*Dev · Zuletzt aktualisiert: 28. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 28. September 2026*
 
 Dabei handelt es sich um einen finanziellen Anreizmechanismus, der den Mitarbeitern von Unternehmen das Recht gibt, künftig Aktien zu einem bestimmten Preis zu erwerben.
 

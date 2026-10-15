@@ -1,6 +1,6 @@
 # What is Robotics?
 
-*AI · Last updated: October 14, 2026*
+*Artificial Intelligence · Last updated: October 14, 2026*
 
 The field of technology concerned with the design, manufacturing, and performance of tasks in the physical world by robots.
 

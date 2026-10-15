@@ -1,6 +1,6 @@
 # Qu'est-ce que Clone ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Le clonage est le processus de création d'une copie locale d'un dépôt Git distant, avec l'ensemble de son historique.
 

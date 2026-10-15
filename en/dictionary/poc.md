@@ -1,6 +1,6 @@
 # What is PoC?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 > Proof of Concept
 

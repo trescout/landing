@@ -1,6 +1,6 @@
 # O que é Compiler?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Compiler (em turco, derleyici), é o programa que converte o código que você escreve para a linguagem de máquina que o computador pode executar.
 

@@ -1,6 +1,6 @@
 # What is CRM?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 > Customer Relationship Management
 

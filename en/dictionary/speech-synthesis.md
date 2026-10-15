@@ -1,6 +1,6 @@
 # What is Speech Synthesis?
 
-*AI · Last updated: June 3, 2026*
+*Artificial Intelligence · Last updated: June 3, 2026*
 
 It is the technology of artificial intelligence to convert written texts into human voices.
 

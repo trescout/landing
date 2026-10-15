@@ -1,6 +1,6 @@
 # Qu'est-ce que CPU ?
 
-*Dev · Dernière mise à jour : 8 juillet 2026*
+*Développement · Dernière mise à jour : 8 juillet 2026*
 
 > Central Processing Unit
 

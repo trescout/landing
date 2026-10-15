@@ -1,6 +1,6 @@
 # Was ist Live2D?
 
-*AI · Zuletzt aktualisiert: 4. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 4. Juni 2026*
 
 Dabei handelt es sich um eine Technologie, die Figuren Leben einhaucht, indem sie zweidimensionale Zeichnungen so bewegt, als wären sie dreidimensional.
 

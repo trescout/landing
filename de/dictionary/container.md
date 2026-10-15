@@ -1,6 +1,6 @@
 # Was ist Container?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Container sorgt dafür, dass Code und Abhängigkeiten einer Anwendung in einem einzigen Paket in jeder Umgebung identisch ausgeführt werden.
 

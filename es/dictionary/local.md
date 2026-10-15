@@ -1,6 +1,6 @@
 # Local: Localhost, ámbito de variables, Local-First e IA local
 
-*Dev · Última actualización: 19 de septiembre de 2026*
+*Desarrollo · Última actualización: 19 de septiembre de 2026*
 
 El concepto de local en computación hace referencia a los componentes físicos, interfaces de red, entornos de memoria y discos instalados en el propio equipo del usuario, en contraposición a las plataformas remotas en la nube.
 

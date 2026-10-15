@@ -1,6 +1,6 @@
 # What is Native Binaries?
 
-*Dev · Last updated: October 6, 2026*
+*Development · Last updated: October 6, 2026*
 
 They are program files compiled to run directly for a specific operating system and processor architecture.
 

@@ -1,6 +1,6 @@
 # Was ist Repository Checkout?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Beim Auschecken des Repositorys wird eine bestimmte Version des Repositorys in Ihren Arbeitsbereich heruntergeladen.
 

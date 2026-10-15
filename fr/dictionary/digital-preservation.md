@@ -1,6 +1,6 @@
 # Qu'est-ce que Digital Preservation ?
 
-*Data · Dernière mise à jour : 27 septembre 2026*
+*Données et infra · Dernière mise à jour : 27 septembre 2026*
 
 C'est le processus qui garantit que les données et les fichiers numériques restent lisibles pendant de nombreuses années malgré des risques tels que l'obsolescence des formats ou la corruption.
 

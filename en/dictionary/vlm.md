@@ -1,6 +1,6 @@
 # What is VLM?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 > Vision Language Model
 

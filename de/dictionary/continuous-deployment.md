@@ -1,6 +1,6 @@
 # Was ist Continuous Deployment?
 
-*Dev · Zuletzt aktualisiert: 28. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 28. Juli 2026*
 
 > CD
 

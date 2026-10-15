@@ -1,6 +1,6 @@
 # ¿Qué es Multi-process?
 
-*Dev · Última actualización: 7 de octubre de 2026*
+*Desarrollo · Última actualización: 7 de octubre de 2026*
 
 Es el método mediante el cual un programa de ordenador ejecuta sus tareas simultáneamente dividiéndolas en múltiples subprocesos que son completamente independientes entre sí y poseen su propio espacio de memoria privado.
 

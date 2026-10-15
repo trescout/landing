@@ -1,6 +1,6 @@
 # ¿Qué es Japanese Input Method System?
 
-*Dev · Última actualización: 2 de julio de 2026*
+*Desarrollo · Última actualización: 2 de julio de 2026*
 
 > IME
 

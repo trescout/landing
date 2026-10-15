@@ -1,6 +1,6 @@
 # What is Diffusion Model?
 
-*AI · Last updated: June 3, 2026*
+*Artificial Intelligence · Last updated: June 3, 2026*
 
 It is an artificial intelligence method that produces clean and meaningful images from noisy data.
 

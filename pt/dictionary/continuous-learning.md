@@ -1,6 +1,6 @@
 # O que é Continuous Learning?
 
-*AI · Última atualização: 4 de junho de 2026*
+*Inteligência artificial · Última atualização: 4 de junho de 2026*
 
 É o processo de desenvolvimento de um sistema de inteligência artificial atualizando constantemente suas informações à medida que encontra novos dados, sem esquecê-los.
 

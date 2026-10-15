@@ -1,6 +1,6 @@
 # What is Array Operations?
 
-*Dev · Last updated: June 30, 2026*
+*Development · Last updated: June 30, 2026*
 
 These are collective mathematical operations performed on groups of data lined up side by side in computer memory.
 

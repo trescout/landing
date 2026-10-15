@@ -1,6 +1,6 @@
 # Qu'est-ce que Prompt ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 Un prompt (avec son équivalent turc istem) est une instruction écrite donnée au modèle.
 

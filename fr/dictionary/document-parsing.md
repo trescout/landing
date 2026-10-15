@@ -1,6 +1,6 @@
 # Qu'est-ce que Document Parsing ?
 
-*Data · Dernière mise à jour : 3 juin 2026*
+*Données et infra · Dernière mise à jour : 3 juin 2026*
 
 Il s'agit de la conversion de données contenues dans des documents complexes dans un format compréhensible par l'ordinateur.
 

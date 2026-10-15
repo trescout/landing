@@ -1,6 +1,6 @@
 # ¿Qué es Thread-safety?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 La seguridad de los hilos (Thread safety), en su equivalente en turco iş parçacığı güvenliği, es la garantía de que un fragmento de código no corrompe los datos cuando es ejecutado simultáneamente por múltiples hilos.
 

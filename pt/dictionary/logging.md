@@ -1,6 +1,6 @@
 # O que é Logging?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Logging (em português, registro de eventos) é a gravação cronológica dos eventos de um programa.
 

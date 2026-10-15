@@ -1,6 +1,6 @@
 # Qu'est-ce que Multimodal AI ?
 
-*AI · Dernière mise à jour : 19 août 2026*
+*Intelligence artificielle · Dernière mise à jour : 19 août 2026*
 
 L’intelligence artificielle ne fonctionne pas uniquement avec le texte ; C’est la capacité de traiter simultanément différents types de données telles que les images, l’audio et la vidéo.
 

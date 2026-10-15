@@ -1,6 +1,6 @@
 # Was ist Native?
 
-*Dev · Zuletzt aktualisiert: 11. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 11. September 2026*
 
 Dies bedeutet, dass eine Software speziell für das Betriebssystem des Geräts, auf dem sie läuft, entwickelt wurde und darauf ausgelegt ist, die höchste Leistung zu erbringen.
 

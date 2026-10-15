@@ -1,6 +1,6 @@
 # Was ist Inference Engine?
 
-*AI · Zuletzt aktualisiert: 3. August 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. August 2026*
 
 Eine Software-Engine, die ein trainiertes Modell der künstlichen Intelligenz verwendet, um Vorhersagen oder Ergebnisse auf der Grundlage neuer Eingaben zu erstellen.
 

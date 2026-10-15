@@ -1,6 +1,6 @@
 # O que é Backtesting?
 
-*Data · Última atualização: 29 de julho de 2026*
+*Dados e infraestrutura · Última atualização: 29 de julho de 2026*
 
 É um método para testar o sucesso de uma estratégia de investimento usando dados históricos de mercado.
 

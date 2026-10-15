@@ -1,6 +1,6 @@
 # Qu'est-ce que BYOK ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 > Bring Your Own Key
 

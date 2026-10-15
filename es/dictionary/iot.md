@@ -1,6 +1,6 @@
 # ¿Qué es IoT?
 
-*Dev · Última actualización: 9 de octubre de 2026*
+*Desarrollo · Última actualización: 9 de octubre de 2026*
 
 > Internet of Things
 

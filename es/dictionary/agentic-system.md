@@ -1,6 +1,6 @@
 # ¿Qué es Agentic System?
 
-*AI · Última actualización: 21 de junio de 2026*
+*Inteligencia artificial · Última actualización: 21 de junio de 2026*
 
 Estructuras autónomas que toman decisiones y actúan por sí mismas para lograr objetivos sin intervención humana.
 

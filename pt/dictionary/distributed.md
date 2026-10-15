@@ -1,6 +1,6 @@
 # Distributed Systems: Falácias, teorema CAP, consenso e padrão Saga
 
-*Dev · Última atualização: 19 de setembro de 2026*
+*Desenvolvimento · Última atualização: 19 de setembro de 2026*
 
 Um sistema distribuído é uma infraestrutura computacional composta por múltiplos nós independentes conectados por rede que cooperam entre si para operar como uma única aplicação coerente.
 

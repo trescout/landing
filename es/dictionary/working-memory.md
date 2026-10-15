@@ -1,6 +1,6 @@
 # ¿Qué es la Working Memory en IA?
 
-*AI · Última actualización: 22 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
 > Inglés: Working Memory · Etimología: inglés antiguo weorc (trabajo) + latín memoria (recuerdo)
 

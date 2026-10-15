@@ -1,6 +1,6 @@
 # O que é Trading Strategies?
 
-*Data · Última atualização: 29 de junho de 2026*
+*Dados e infraestrutura · Última atualização: 29 de junho de 2026*
 
 Um conjunto de regras lógicas que determinam em que condições comprar ou vender ao investir.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Cross-platform ?
 
-*Dev · Dernière mise à jour : 14 octobre 2026*
+*Développement · Dernière mise à jour : 14 octobre 2026*
 
 Type de logiciel capable de fonctionner de manière fluide sur différents systèmes d'exploitation ou appareils.
 

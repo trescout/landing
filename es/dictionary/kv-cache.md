@@ -1,6 +1,6 @@
 # ¿Qué es KV Cache?
 
-*AI · Última actualización: 13 de junio de 2026*
+*Inteligencia artificial · Última actualización: 13 de junio de 2026*
 
 > Key-Value Cache
 

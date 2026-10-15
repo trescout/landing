@@ -1,6 +1,6 @@
 # ¿Qué es Debugger?
 
-*Dev · Última actualización: 7 de octubre de 2026*
+*Desarrollo · Última actualización: 7 de octubre de 2026*
 
 Es una herramienta de depuración que permite encontrar y corregir errores en el software mediante un seguimiento paso a paso.
 

@@ -1,6 +1,6 @@
 # O que é Contexto (Context)? IA e Sistemas
 
-*AI · Última atualização: 19 de setembro de 2026*
+*Inteligência artificial · Última atualização: 19 de setembro de 2026*
 
 > Inglês: Context · Etimologia: latim contexere (tecer junto, entrelaçar)
 

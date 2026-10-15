@@ -1,6 +1,6 @@
 # What is Trading Strategies?
 
-*Data · Last updated: June 29, 2026*
+*Data & Infra · Last updated: June 29, 2026*
 
 A set of logical rules that determine under what conditions to buy or sell when investing.
 

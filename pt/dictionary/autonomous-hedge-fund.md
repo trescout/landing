@@ -1,6 +1,6 @@
 # O que é Autonomous Hedge Fund?
 
-*AI · Última atualização: 9 de setembro de 2026*
+*Inteligência artificial · Última atualização: 9 de setembro de 2026*
 
 Gestão de fundos baseada em inteligência artificial que analisa dados de mercado e toma decisões de investimento por conta própria, sem intervenção humana.
 

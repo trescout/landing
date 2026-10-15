@@ -1,6 +1,6 @@
 # What is GUI?
 
-*Dev · Last updated: July 5, 2026*
+*Development · Last updated: July 5, 2026*
 
 > Graphical User Interface
 

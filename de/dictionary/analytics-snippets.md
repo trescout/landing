@@ -1,6 +1,6 @@
 # Was ist Analytics Snippets?
 
-*Data · Zuletzt aktualisiert: 17. August 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 17. August 2026*
 
 Dabei handelt es sich um kleine Codestücke, die Websites ihren Seiten hinzufügen, um das Besucherverhalten zu verfolgen.
 

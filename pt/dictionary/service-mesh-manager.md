@@ -1,6 +1,6 @@
 # O que é Service Mesh Manager?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 O gerenciador de malha de serviço é um console e um conjunto de ferramentas que monitora e gerencia o tráfego de serviço.
 

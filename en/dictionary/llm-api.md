@@ -1,6 +1,6 @@
 # What is LLM API?
 
-*AI · Last updated: October 2, 2026*
+*Artificial Intelligence · Last updated: October 2, 2026*
 
 > Large Language Model Application Programming Interface
 

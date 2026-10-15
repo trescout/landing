@@ -1,6 +1,6 @@
 # Qu'est-ce que Database ?
 
-*Data · Dernière mise à jour : 14 juin 2026*
+*Données et infra · Dernière mise à jour : 14 juin 2026*
 
 Un environnement numérique dans lequel les informations sont stockées régulièrement et peuvent être facilement accessibles et gérées en cas de besoin.
 

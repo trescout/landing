@@ -1,6 +1,6 @@
 # Local : Localhost, portée des variables, Local-First et IA locale
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Le terme local en informatique qualifie les ressources matérielles, logiciels et espaces de stockage situés directement sur l'ordinateur physique de l'utilisateur, par opposition aux services distants du cloud.
 

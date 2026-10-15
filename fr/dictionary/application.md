@@ -1,6 +1,6 @@
 # Qu'est-ce que Application ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Une application (dont l'équivalent turc est uygulama) est un logiciel utilisateur qui effectue une tâche spécifique.
 

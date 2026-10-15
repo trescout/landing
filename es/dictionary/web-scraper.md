@@ -1,6 +1,6 @@
 # ¿Qué es Web Scraper?
 
-*Data · Última actualización: 15 de agosto de 2026*
+*Datos e infraestructura · Última actualización: 15 de agosto de 2026*
 
 Es una herramienta de software que recopila automáticamente datos de sitios web y los convierte en una lista organizada.
 

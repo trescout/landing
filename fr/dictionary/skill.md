@@ -1,6 +1,6 @@
 # Qu'est-ce que Skill ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 Une compétence (skill en anglais), dans sa correspondance turque, est une unité définie qui permet à un assistant d'intelligence artificielle d'accomplir des tâches à l'aide d'un outil externe.
 

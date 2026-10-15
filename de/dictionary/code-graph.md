@@ -1,6 +1,6 @@
 # Was ist Code-Graph?
 
-*Dev · Zuletzt aktualisiert: 4. August 2026*
+*Entwicklung · Zuletzt aktualisiert: 4. August 2026*
 
 Dabei handelt es sich um eine Kartenstruktur, die die Beziehungen zwischen Codeblöcken, Funktionen und Dateien in Softwareprojekten visualisiert.
 

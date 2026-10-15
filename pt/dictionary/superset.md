@@ -1,6 +1,6 @@
 # O que é Superset?
 
-*Dev · Última atualização: 11 de julho de 2026*
+*Desenvolvimento · Última atualização: 11 de julho de 2026*
 
 É uma estrutura mais abrangente que inclui todos os recursos de um sistema existente e adiciona novos recursos.
 

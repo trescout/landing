@@ -1,6 +1,6 @@
 # Qu'est-ce que dApps ?
 
-*Dev · Dernière mise à jour : 19 août 2026*
+*Développement · Dernière mise à jour : 19 août 2026*
 
 > Decentralized Applications
 

@@ -1,6 +1,6 @@
 # Was ist Local-first Code Intelligence?
 
-*Dev · Zuletzt aktualisiert: 20. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 20. Juli 2026*
 
 Softwareentwicklungstools liefern Codevorschläge, indem sie Daten direkt auf Ihrem lokalen Gerät verarbeiten, ohne sie an die Cloud zu senden.
 

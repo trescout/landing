@@ -1,6 +1,6 @@
 # What is BYOK?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 > Bring Your Own Key
 

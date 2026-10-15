@@ -1,6 +1,6 @@
 # What is Foundation Models?
 
-*AI · Last updated: August 27, 2026*
+*Artificial Intelligence · Last updated: August 27, 2026*
 
 These are comprehensive artificial intelligence models that serve as a foundation for different tasks.
 

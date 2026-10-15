@@ -1,6 +1,6 @@
 # Qu'est-ce que Factory Droid ?
 
-*AI · Dernière mise à jour : 8 octobre 2026*
+*Intelligence artificielle · Dernière mise à jour : 8 octobre 2026*
 
 Robots d'automatisation travaillant sur les lignes de production, conçus pour répéter des tâches spécifiques.
 

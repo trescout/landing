@@ -1,6 +1,6 @@
 # What is Core Libraries?
 
-*Dev · Last updated: August 7, 2026*
+*Development · Last updated: August 7, 2026*
 
 They are standard code packages that a software needs to perform its basic functions.
 

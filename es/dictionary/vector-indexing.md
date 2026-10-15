@@ -1,6 +1,6 @@
 # ¿Qué es Vector Indexing?
 
-*Data · Última actualización: 9 de junio de 2026*
+*Datos e infraestructura · Última actualización: 9 de junio de 2026*
 
 Es el proceso de convertir grandes conjuntos de datos en un mapa digital en el que una computadora puede encontrar similitudes significativas en segundos.
 

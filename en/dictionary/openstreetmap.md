@@ -1,6 +1,6 @@
 # What is OpenStreetMap?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 OpenStreetMap (OSM for short) is a free and open world map drawn together by volunteers.
 

@@ -1,6 +1,6 @@
 # What is Interface?
 
-*Dev · Last updated: October 12, 2026*
+*Development · Last updated: October 12, 2026*
 
 It is a common communication boundary that allows a user to manage a system or two software components to communicate with each other.
 

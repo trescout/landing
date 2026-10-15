@@ -1,6 +1,6 @@
 # What is ROM?
 
-*Dev · Last updated: July 4, 2026*
+*Development · Last updated: July 4, 2026*
 
 > Read-Only Memory
 

@@ -1,6 +1,6 @@
 # What is TUI?
 
-*Dev · Last updated: September 19, 2026*
+*Development · Last updated: September 19, 2026*
 
 > Text User Interface
 

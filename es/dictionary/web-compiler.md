@@ -1,6 +1,6 @@
 # ¿Qué es Web Compiler?
 
-*Dev · Última actualización: 17 de junio de 2026*
+*Desarrollo · Última actualización: 17 de junio de 2026*
 
 Es una herramienta que hace que sus códigos sean ejecutables directamente a través de su navegador de Internet, sin instalar nada en su computadora.
 

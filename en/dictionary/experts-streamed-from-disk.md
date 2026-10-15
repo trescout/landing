@@ -1,6 +1,6 @@
 # What is Experts Streamed from Disk?
 
-*AI · Last updated: September 14, 2026*
+*Artificial Intelligence · Last updated: September 14, 2026*
 
 It is a method of loading parts of massive artificial intelligence models from the disk on-the-fly when they do not fit into memory.
 

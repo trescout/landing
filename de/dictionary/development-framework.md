@@ -1,6 +1,6 @@
 # Was ist Development Framework?
 
-*Dev · Zuletzt aktualisiert: 20. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 20. Juli 2026*
 
 Es handelt sich um ein Framework, das den Softwareentwicklungsprozess beschleunigt und vorgefertigte Strukturen und Regeln bietet.
 

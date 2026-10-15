@@ -1,6 +1,6 @@
 # ¿Qué es Semantic Metadata?
 
-*Data · Última actualización: 17 de julio de 2026*
+*Datos e infraestructura · Última actualización: 17 de julio de 2026*
 
 Es una etiqueta que explica no sólo qué son los datos, sino también qué significan y su conexión con otros datos.
 

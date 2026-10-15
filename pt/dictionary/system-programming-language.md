@@ -1,6 +1,6 @@
 # O que é System Programming Language?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Linguagem de programação de sistemas (com o equivalente em turco sistem programlama dili) são linguagens que conversam com o hardware.
 

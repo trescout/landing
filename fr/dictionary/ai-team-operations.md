@@ -1,6 +1,6 @@
 # Qu'est-ce que AI Team Operations ?
 
-*AI · Dernière mise à jour : 17 juillet 2026*
+*Intelligence artificielle · Dernière mise à jour : 17 juillet 2026*
 
 C'est la discipline de gérer efficacement les flux de travail des équipes développant des projets d'intelligence artificielle.
 

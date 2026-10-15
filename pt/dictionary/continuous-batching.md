@@ -1,6 +1,6 @@
 # O que é Continuous Batching?
 
-*AI · Última atualização: 22 de setembro de 2026*
+*Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
 Continuous batching (com tradução em português para loteamento contínuo) é a técnica que aceita solicitações no motor sem fazê-las esperar.
 

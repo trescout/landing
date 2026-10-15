@@ -1,6 +1,6 @@
 # O que é Deployment?
 
-*Dev · Última atualização: 19 de setembro de 2026*
+*Desenvolvimento · Última atualização: 19 de setembro de 2026*
 
 Deployment (implantação de software / lançamento em produção), é o processo pelo qual um componente de software, desenvolvido e testado em um ambiente local, é compilado e instalado em servidores de destino ou em uma infraestrutura de nuvem, tornando-se acessível aos usuários finais.
 

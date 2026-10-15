@@ -1,6 +1,6 @@
 # Qu'est-ce que Fine-tuning ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 Il s'agit du processus de formation spécifique d'un modèle d'intelligence artificielle prêt à l'emploi pour une tâche ou un domaine d'expertise spécifique.
 

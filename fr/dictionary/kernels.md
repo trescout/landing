@@ -1,6 +1,6 @@
 # Qu'est-ce que Kernels ?
 
-*Dev · Dernière mise à jour : 30 juillet 2026*
+*Développement · Dernière mise à jour : 30 juillet 2026*
 
 La partie la plus basique du système d'exploitation qui gère la communication entre le matériel et les logiciels de l'ordinateur.
 

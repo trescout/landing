@@ -1,6 +1,6 @@
 # O que é Editor?
 
-*Dev · Última atualização: 31 de julho de 2026*
+*Desenvolvimento · Última atualização: 31 de julho de 2026*
 
 É um programa de escrita especial usado por desenvolvedores de software para escrever, editar e depurar código.
 

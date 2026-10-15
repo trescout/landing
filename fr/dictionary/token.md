@@ -1,6 +1,6 @@
 # Qu'est-ce que Token ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit de la plus petite unité de signification utilisée par l’intelligence artificielle pour traiter les textes.
 

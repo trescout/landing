@@ -1,6 +1,6 @@
 # O que é Agent?
 
-*AI · Última atualização: 9 de julho de 2026*
+*Inteligência artificial · Última atualização: 9 de julho de 2026*
 
 Uma unidade de software inteligente que pode tomar decisões por conta própria e usar ferramentas para executar a tarefa pretendida.
 

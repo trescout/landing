@@ -1,6 +1,6 @@
 # Qu'est-ce que Offline Dictation ?
 
-*AI · Dernière mise à jour : 30 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 30 juin 2026*
 
 Il s'agit d'une technologie qui convertit instantanément les mots prononcés en texte sans nécessiter de connexion Internet.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Situational Awareness ?
 
-*AI · Dernière mise à jour : 20 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 20 juin 2026*
 
 C'est la capacité d'un système à percevoir instantanément les événements de son environnement et à interpréter correctement la situation.
 

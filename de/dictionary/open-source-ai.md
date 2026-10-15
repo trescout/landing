@@ -1,6 +1,6 @@
 # Was ist Open Source AI?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 Open-Source-KI (auf Türkisch Open-Source-Künstliche Intelligenz) sind Modelle, deren Gewichte und Codes von jedem untersucht und ausgeführt werden können.
 

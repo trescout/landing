@@ -1,6 +1,6 @@
 # Was ist Agentic AI?
 
-*AI · Zuletzt aktualisiert: 3. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. Juni 2026*
 
 Das bedeutet, dass künstliche Intelligenz die Initiative ergreift, um Ziele zu erreichen, anstatt nur Texte zu produzieren.
 

@@ -1,6 +1,6 @@
 # What is Flashcards?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 Flashcards are small learning cards with questions on the front and answers on the back.
 

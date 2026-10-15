@@ -1,6 +1,6 @@
 # What is Tokenizer-free?
 
-*AI · Last updated: June 3, 2026*
+*Artificial Intelligence · Last updated: June 3, 2026*
 
 Artificial intelligence architecture that processes directly on raw data without breaking the texts into small pieces.
 

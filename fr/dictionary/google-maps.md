@@ -1,6 +1,6 @@
 # Qu'est-ce que Google Maps ?
 
-*Data · Dernière mise à jour : 29 septembre 2026*
+*Données et infra · Dernière mise à jour : 29 septembre 2026*
 
 Il s'agit d'une plate-forme de cartes numériques basée sur le Web qui offre la localisation, des vues satellite, des informations routières en direct et la planification d'itinéraires.
 

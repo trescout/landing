@@ -1,6 +1,6 @@
 # O que é Local-first Code Intelligence?
 
-*Dev · Última atualização: 20 de julho de 2026*
+*Desenvolvimento · Última atualização: 20 de julho de 2026*
 
 As ferramentas de desenvolvimento de software fornecem sugestões de código processando dados diretamente no seu dispositivo local, sem enviá-los para a nuvem.
 

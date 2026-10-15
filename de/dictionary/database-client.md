@@ -1,6 +1,6 @@
 # Was ist Database Client?
 
-*Dev · Zuletzt aktualisiert: 29. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 29. September 2026*
 
 Ein Zwischenprogramm, mit dem Sie auf Informationen in der Datenbank zugreifen und diese verwalten können.
 

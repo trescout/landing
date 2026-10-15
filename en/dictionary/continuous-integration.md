@@ -1,6 +1,6 @@
 # What is Continuous Integration?
 
-*Dev · Last updated: July 3, 2026*
+*Development · Last updated: July 3, 2026*
 
 > CI
 

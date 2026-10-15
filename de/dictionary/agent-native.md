@@ -1,6 +1,6 @@
 # Was ist Agent-native?
 
-*AI · Zuletzt aktualisiert: 16. August 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 16. August 2026*
 
 Systeme sind darauf ausgelegt, autonome Entscheidungen zu treffen, ohne auf menschliche Befehle warten zu müssen.
 

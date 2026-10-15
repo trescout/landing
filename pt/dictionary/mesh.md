@@ -1,6 +1,6 @@
 # O que é Mesh?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Mesh (em português, rede em malha) é uma estrutura de rede em que dispositivos ou serviços se conectam e transferem dados entre si sem depender de um servidor central.
 

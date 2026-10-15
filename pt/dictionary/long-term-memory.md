@@ -1,6 +1,6 @@
 # O que é Long-term Memory?
 
-*AI · Última atualização: 22 de junho de 2026*
+*Inteligência artificial · Última atualização: 22 de junho de 2026*
 
 A inteligência artificial armazena informações e experiências passadas por um longo tempo e lembra-se delas quando necessário.
 

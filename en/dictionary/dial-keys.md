@@ -1,6 +1,6 @@
 # What is Dial Keys?
 
-*Dev · Last updated: June 18, 2026*
+*Development · Last updated: June 18, 2026*
 
 It is a rotating mechanical keypad used to dial numbers on old phones.
 

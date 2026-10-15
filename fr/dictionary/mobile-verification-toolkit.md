@@ -1,6 +1,6 @@
 # Qu'est-ce que Mobile Verification Toolkit ?
 
-*Dev · Dernière mise à jour : 27 septembre 2026*
+*Développement · Dernière mise à jour : 27 septembre 2026*
 
 > MVT
 

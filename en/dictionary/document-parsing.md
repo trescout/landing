@@ -1,6 +1,6 @@
 # What is Document Parsing?
 
-*Data · Last updated: June 3, 2026*
+*Data & Infra · Last updated: June 3, 2026*
 
 It is the conversion of data in complex documents into a format that the computer can understand.
 

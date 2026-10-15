@@ -1,6 +1,6 @@
 # Qu'est-ce que Open-Source Clones ?
 
-*Dev · Dernière mise à jour : 15 juin 2026*
+*Développement · Dernière mise à jour : 15 juin 2026*
 
 Il s'agit de versions similaires de logiciels populaires créés en copiant publiquement leurs codes sources.
 

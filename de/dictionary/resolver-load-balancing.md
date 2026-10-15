@@ -1,6 +1,6 @@
 # Was ist Resolver Load Balancing?
 
-*Dev · Zuletzt aktualisiert: 11. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 11. Juni 2026*
 
 Dabei handelt es sich um den Prozess, eine Systemüberlastung zu verhindern, indem Internet-Adressabfragen auf mehrere Server verteilt werden.
 

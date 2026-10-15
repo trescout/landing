@@ -1,6 +1,6 @@
 # What is Research Agents?
 
-*AI · Last updated: September 12, 2026*
+*Artificial Intelligence · Last updated: September 12, 2026*
 
 These are artificial intelligence software programs that conduct in-depth research on your behalf on the internet and summarize the information.
 

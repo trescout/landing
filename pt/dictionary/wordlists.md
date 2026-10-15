@@ -1,6 +1,6 @@
 # O que é Wordlists?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Wordlist, a lista de candidatos testados em testes de segurança.
 

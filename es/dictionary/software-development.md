@@ -1,6 +1,6 @@
 # ¿Qué es Software Development?
 
-*Dev · Última actualización: 27 de septiembre de 2026*
+*Desarrollo · Última actualización: 27 de septiembre de 2026*
 
 Es el proceso de diseñar y codificar los programas que hacen funcionar a las computadoras, teléfonos u otros dispositivos inteligentes.
 

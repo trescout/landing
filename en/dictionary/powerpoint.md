@@ -1,6 +1,6 @@
 # What is PowerPoint?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 PowerPoint is Microsoft's slide-based presentation application.
 

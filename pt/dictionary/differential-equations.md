@@ -1,6 +1,6 @@
 # O que é Differential Equations?
 
-*Data · Última atualização: 9 de setembro de 2026*
+*Dados e infraestrutura · Última atualização: 9 de setembro de 2026*
 
 Equações matemáticas fundamentais usadas na física e na engenharia que calculam as taxas de variação das variáveis em relação umas às outras.
 

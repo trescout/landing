@@ -1,6 +1,6 @@
 # What is Rust?
 
-*Dev · Last updated: June 14, 2026*
+*Development · Last updated: June 14, 2026*
 
 It is a high-performance system programming language that prioritizes memory security.
 

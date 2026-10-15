@@ -1,6 +1,6 @@
 # ¿Qué es AI Capabilities?
 
-*AI · Última actualización: 24 de junio de 2026*
+*Inteligencia artificial · Última actualización: 24 de junio de 2026*
 
 Todas estas son funciones que pueden realizar los sistemas de inteligencia artificial, como analizar, aprender, producir contenidos o resolver problemas.
 

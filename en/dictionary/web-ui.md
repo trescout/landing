@@ -1,6 +1,6 @@
 # What is Web UI?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 > Web User Interface
 

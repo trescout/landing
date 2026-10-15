@@ -1,6 +1,6 @@
 # Qu'est-ce que Secrets ?
 
-*Dev · Dernière mise à jour : 4 juin 2026*
+*Développement · Dernière mise à jour : 4 juin 2026*
 
 Il s'agit des mots de passe, des clés API et des codes d'accès dont les applications logicielles ont besoin pour fonctionner en toute sécurité.
 

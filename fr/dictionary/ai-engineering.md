@@ -1,6 +1,6 @@
 # Qu'est-ce que AI Engineering ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 L'AI engineering (en français, l'ingénierie de l'intelligence artificielle) est la discipline qui consiste à transformer des modèles en systèmes fiables fonctionnant en production.
 

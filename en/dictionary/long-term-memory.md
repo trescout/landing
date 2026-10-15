@@ -1,6 +1,6 @@
 # What is Long-term Memory?
 
-*AI · Last updated: June 22, 2026*
+*Artificial Intelligence · Last updated: June 22, 2026*
 
 Artificial intelligence stores past information and experiences for a long time and remembers them when needed.
 

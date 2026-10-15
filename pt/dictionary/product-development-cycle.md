@@ -1,6 +1,6 @@
 # O que é Product Development Cycle?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 > Inglês: Product Development Cycle · Etimologia: latim producere (produzir) + grego kyklos (círculo/ciclo)
 

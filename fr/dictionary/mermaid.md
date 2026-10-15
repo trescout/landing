@@ -1,6 +1,6 @@
 # Qu'est-ce que Mermaid ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Mermaid est une bibliothèque JavaScript open source qui permet de créer des diagrammes à partir de texte.
 

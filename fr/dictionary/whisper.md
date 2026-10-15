@@ -1,6 +1,6 @@
 # Qu'est-ce que Whisper ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 Whisper est un modèle de reconnaissance vocale open source développé par OpenAI.
 

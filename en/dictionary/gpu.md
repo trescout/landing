@@ -1,6 +1,6 @@
 # What is GPU?
 
-*Dev · Last updated: June 29, 2026*
+*Development · Last updated: June 29, 2026*
 
 > Graphics Processing Unit
 

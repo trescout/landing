@@ -1,6 +1,6 @@
 # What is Skill?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 Skill is the defined unit that enables the artificial intelligence assistant to do work with an external tool.
 

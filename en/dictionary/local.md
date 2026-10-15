@@ -1,6 +1,6 @@
 # Local: Localhost, variable scope, Local-First, and Local AI
 
-*Dev · Last updated: September 19, 2026*
+*Development · Last updated: September 19, 2026*
 
 Local in computing describes hardware resources, execution environments, network interfaces, and storage mechanisms that operate directly on the user's immediate physical device rather than across remote cloud networks.
 

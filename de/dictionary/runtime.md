@@ -1,6 +1,6 @@
 # Was ist Runtime?
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Unter Laufzeit versteht man den Zeitraum, in dem ein Programm nach der Kompilierungsphase tatsächlich im Prozessor und Speicher des Computers ausgeführt wird, sowie die Software-Infrastruktur (Laufzeitumgebung), die diese Ausführung ermöglicht.
 

@@ -1,6 +1,6 @@
 # Was ist Microservices?
 
-*Dev · Zuletzt aktualisiert: 3. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 3. September 2026*
 
 Es ist eine Architektur, bei der große Software in kleine, jeweils unabhängig arbeitende Teile zerlegt wird.
 

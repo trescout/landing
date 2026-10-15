@@ -1,6 +1,6 @@
 # Was ist Foundation Model?
 
-*AI · Zuletzt aktualisiert: 3. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um umfassend trainierte Mainstream-KI-Modelle, die die Grundlage für viele verschiedene Anwendungen bilden.
 

@@ -1,6 +1,6 @@
 # PKM: Persönliches Wissensmanagement, Zettelkasten und vernetztes Denken
 
-*Data & Infra · Zuletzt aktualisiert: 20. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 20. September 2026*
 
 Personal Knowledge Management (PKM / persönliches Wissensmanagement) umfasst die methodischen Routinen und Werkzeuge, mit denen Einzelpersonen Informationen erfassen, verknüpfen und abrufen, um ihr Langzeitgedächtnis und ihre kreative Produktivität zu stärken.
 

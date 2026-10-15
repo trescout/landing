@@ -1,6 +1,6 @@
 # O que é Source Control?
 
-*Dev · Última atualização: 3 de setembro de 2026*
+*Desenvolvimento · Última atualização: 3 de setembro de 2026*
 
 É um sistema de rastreamento que registra todas as alterações de código em projetos de software e permite retornar ao histórico.
 

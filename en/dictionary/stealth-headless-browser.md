@@ -1,6 +1,6 @@
 # What is Stealth Headless Browser?
 
-*Dev · Last updated: September 8, 2026*
+*Development · Last updated: September 8, 2026*
 
 An invisible browser that bypasses firewalls on websites and prevents detection as a bot.
 

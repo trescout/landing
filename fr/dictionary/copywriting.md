@@ -1,6 +1,6 @@
 # Qu'est-ce que Copywriting ?
 
-*Dev · Dernière mise à jour : 7 septembre 2026*
+*Développement · Dernière mise à jour : 7 septembre 2026*
 
 Il s'agit de la rédaction publicitaire persuasive préparée dans le but de convaincre les gens d'entreprendre une action spécifique ou d'acheter un produit.
 

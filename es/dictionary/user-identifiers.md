@@ -1,6 +1,6 @@
 # ¿Qué es User Identifiers?
 
-*Dev · Última actualización: 27 de junio de 2026*
+*Desarrollo · Última actualización: 27 de junio de 2026*
 
 Son marcadores de identidad únicos que se utilizan para distinguir a cada usuario en los sistemas digitales.
 

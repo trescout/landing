@@ -1,6 +1,6 @@
 # Was ist Shell?
 
-*Dev · Zuletzt aktualisiert: 13. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 13. Juli 2026*
 
 Dabei handelt es sich um eine Schnittstelle, mit der Sie den Computer steuern können, indem Sie anstelle einer grafischen Oberfläche Textbefehle direkt eingeben.
 

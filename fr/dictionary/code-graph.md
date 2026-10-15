@@ -1,6 +1,6 @@
 # Qu'est-ce que Code-Graph ?
 
-*Dev · Dernière mise à jour : 4 août 2026*
+*Développement · Dernière mise à jour : 4 août 2026*
 
 Il s'agit d'une structure cartographique qui visualise les relations entre les blocs de code, les fonctions et les fichiers dans les projets logiciels.
 

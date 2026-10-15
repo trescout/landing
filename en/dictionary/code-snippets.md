@@ -1,6 +1,6 @@
 # Code Snippets: IDE templates, parametric expansion, and code governance
 
-*Dev · Last updated: September 19, 2026*
+*Development · Last updated: September 19, 2026*
 
 Code snippets are reusable, parameterized blocks of source code that developers quickly insert into text editors to eliminate boilerplate, accelerate development, and standardize architectural patterns.
 

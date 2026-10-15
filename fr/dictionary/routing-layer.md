@@ -1,6 +1,6 @@
 # Qu'est-ce que Routing Layer ?
 
-*Dev · Dernière mise à jour : 27 septembre 2026*
+*Développement · Dernière mise à jour : 27 septembre 2026*
 
 Couche de routage numérique qui gère le trafic afin que les données ou demandes entrantes atteignent la bonne destination.
 

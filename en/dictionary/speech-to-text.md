@@ -1,6 +1,6 @@
 # What is Speech-to-Text?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 Speech-to-text (STT for short) is the technology that converts speech into written text.
 

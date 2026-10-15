@@ -1,6 +1,6 @@
 # What is Mesh?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Mesh is a network structure in which devices or services connect to each other and transfer data without being connected to a central server.
 

@@ -1,6 +1,6 @@
 # O que é Feature Extraction?
 
-*AI · Última atualização: 13 de outubro de 2026*
+*Inteligência artificial · Última atualização: 13 de outubro de 2026*
 
 Um processo que extrai informações importantes de textos e as converte em dados numéricos que o computador consegue entender.
 

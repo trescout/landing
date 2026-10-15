@@ -1,6 +1,6 @@
 # Was ist Cognitive Operating System?
 
-*AI · Zuletzt aktualisiert: 27. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 27. Juni 2026*
 
 Dabei handelt es sich um eine fortschrittliche Softwarearchitektur, die Informationen verarbeitet und Entscheidungsprozesse verwaltet, indem sie die Arbeitsprinzipien des menschlichen Geistes nachahmt.
 

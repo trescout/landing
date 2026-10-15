@@ -1,6 +1,6 @@
 # What is SSO?
 
-*Dev · Last updated: June 26, 2026*
+*Development · Last updated: June 26, 2026*
 
 > Single Sign-On
 

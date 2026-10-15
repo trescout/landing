@@ -1,6 +1,6 @@
 # Qu'est-ce que Bluetooth Mesh ?
 
-*Dev · Dernière mise à jour : 27 juillet 2026*
+*Développement · Dernière mise à jour : 27 juillet 2026*
 
 Technologie de communication sans fil qui permet à plusieurs appareils de se connecter les uns aux autres et d'établir un réseau dans une zone étendue.
 

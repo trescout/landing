@@ -1,6 +1,6 @@
 # Was ist Extensibility?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Unter Erweiterbarkeit versteht man die Fähigkeit einer Software, mit Plug-Ins und Modulen neue Fähigkeiten zu erlangen, ohne ihren Hauptcode anzutasten.
 

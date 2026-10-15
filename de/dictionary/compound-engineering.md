@@ -1,6 +1,6 @@
 # Was ist Compound Engineering?
 
-*Dev · Zuletzt aktualisiert: 3. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 3. Juni 2026*
 
 Es handelt sich um einen KI-gestützten Arbeitsansatz, bei dem jeder technische Schritt gebündelt wird, um den nächsten zu erleichtern.
 

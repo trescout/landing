@@ -1,6 +1,6 @@
 # Was ist Spaced Repetition?
 
-*Data · Zuletzt aktualisiert: 19. September 2026*
+*Daten und Infrastruktur · Zuletzt aktualisiert: 19. September 2026*
 
 Dies ist eine Lernmethode, bei der Informationen in bestimmten Zeitabständen wiederholt werden, um das Vergessen zu verhindern.
 

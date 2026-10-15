@@ -1,6 +1,6 @@
 # O que é PDF Parser?
 
-*Data · Última atualização: 4 de junho de 2026*
+*Dados e infraestrutura · Última atualização: 4 de junho de 2026*
 
 É uma ferramenta que lê dados complexos em arquivos PDF e os converte em um formato organizado que o computador pode processar.
 

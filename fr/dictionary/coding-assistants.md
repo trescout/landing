@@ -1,6 +1,6 @@
 # Qu'est-ce que Coding Assistants ?
 
-*Dev · Dernière mise à jour : 18 septembre 2026*
+*Développement · Dernière mise à jour : 18 septembre 2026*
 
 Ce sont des assistants basés sur l'intelligence artificielle qui accélèrent l'écriture de code, déboguent et proposent des suggestions tout au long du processus de développement logiciel.
 

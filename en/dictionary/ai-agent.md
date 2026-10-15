@@ -1,6 +1,6 @@
 # What is AI Agent?
 
-*AI · Last updated: September 22, 2026*
+*Artificial Intelligence · Last updated: September 22, 2026*
 
 AI agent (in Turkish, artificial intelligence agent) is autonomous software that uses tools and makes decisions to achieve the goal.
 

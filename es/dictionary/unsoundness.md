@@ -1,6 +1,6 @@
 # ¿Qué es Unsoundness?
 
-*Dev · Última actualización: 13 de octubre de 2026*
+*Desarrollo · Última actualización: 13 de octubre de 2026*
 
 Situación en la que las reglas que un lenguaje de programación afirma que son seguras son en realidad defectuosas o incompletas.
 

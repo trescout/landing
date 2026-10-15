@@ -1,6 +1,6 @@
 # What is Durable Objects?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Durable objects are small cloud units that maintain their state.
 

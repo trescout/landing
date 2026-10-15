@@ -1,6 +1,6 @@
 # ¿Qué es Intentional Crafting Engine?
 
-*AI · Última actualización: 9 de octubre de 2026*
+*Inteligencia artificial · Última actualización: 9 de octubre de 2026*
 
 Es un motor de producción orientado a un propósito que genera contenido, código o productos digitales centrándose en la intención y los objetivos del usuario.
 

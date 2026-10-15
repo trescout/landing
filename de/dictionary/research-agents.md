@@ -1,6 +1,6 @@
 # Was ist Research Agents?
 
-*AI · Zuletzt aktualisiert: 12. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 12. September 2026*
 
 Dies sind KI-Softwares, die an Ihrer Stelle tiefgreifende Recherchen im Internet durchführen und Informationen zusammenfassen.
 

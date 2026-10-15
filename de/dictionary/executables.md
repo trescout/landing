@@ -1,6 +1,6 @@
 # Was ist Executables?
 
-*Dev · Zuletzt aktualisiert: 5. Oktober 2026*
+*Entwicklung · Zuletzt aktualisiert: 5. Oktober 2026*
 
 Programme, die der Computer direkt ausführen kann und die meistens als Installations- oder Anwendungsdateien bekannt sind.
 

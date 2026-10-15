@@ -1,6 +1,6 @@
 # O que é Thread-safety?
 
-*Dev · Última atualização: 22 de setembro de 2026*
+*Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
 Thread safety (Türkçe karşılığıyla iş parçacığı güvenliği), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.
 

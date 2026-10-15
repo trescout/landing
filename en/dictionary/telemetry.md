@@ -1,6 +1,6 @@
 # What is Telemetry?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Telemetry is the automatic collection and transmission of status information from software and devices to a central location.
 

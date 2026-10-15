@@ -1,6 +1,6 @@
 # Qu'est-ce que City-building Game ?
 
-*Dev · Dernière mise à jour : 11 octobre 2026*
+*Développement · Dernière mise à jour : 11 octobre 2026*
 
 Il s'agit d'un genre de jeu de simulation stratégique où les joueurs construisent une ville à partir de zéro et la font grandir en gérant les infrastructures et les ressources.
 

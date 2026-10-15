@@ -1,6 +1,6 @@
 # ¿Qué es Click to Cancel?
 
-*Dev · Última actualización: 12 de octubre de 2026*
+*Desarrollo · Última actualización: 12 de octubre de 2026*
 
 Es una regla de regulación legal que exige que los procesos de cancelación de suscripciones se puedan realizar fácilmente con un solo clic, sin procesos complicados.
 

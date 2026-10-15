@@ -1,6 +1,6 @@
 # ¿Qué es Gateway?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Gateway es el punto de conexión que gestiona el tráfico entre diferentes redes.
 

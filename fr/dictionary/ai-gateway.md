@@ -1,6 +1,6 @@
 # Qu'est-ce que AI Gateway ?
 
-*AI · Dernière mise à jour : 2 juillet 2026*
+*Intelligence artificielle · Dernière mise à jour : 2 juillet 2026*
 
 Il s'agit d'un logiciel de passerelle qui gère et contrôle le trafic vers les modèles d'intelligence artificielle.
 

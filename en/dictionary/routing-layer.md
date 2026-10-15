@@ -1,6 +1,6 @@
 # What is Routing Layer?
 
-*Dev · Last updated: September 27, 2026*
+*Development · Last updated: September 27, 2026*
 
 A digital routing layer that manages traffic to ensure incoming data or requests reach the correct destination.
 

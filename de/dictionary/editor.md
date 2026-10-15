@@ -1,6 +1,6 @@
 # Was ist Editor?
 
-*Dev · Zuletzt aktualisiert: 31. Juli 2026*
+*Entwicklung · Zuletzt aktualisiert: 31. Juli 2026*
 
 Es handelt sich um ein spezielles Schreibprogramm, das von Softwareentwicklern zum Schreiben, Bearbeiten und Debuggen von Code verwendet wird.
 

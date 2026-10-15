@@ -1,6 +1,6 @@
 # O que é Adblocker?
 
-*Dev · Última atualização: 17 de agosto de 2026*
+*Desenvolvimento · Última atualização: 17 de agosto de 2026*
 
 É um plug-in de software que impede a exibição de anúncios no seu navegador de internet.
 

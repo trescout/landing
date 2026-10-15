@@ -1,6 +1,6 @@
 # Was ist Endpoint?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Endpoint (auf Deutsch Endpunkt) ist das Gerät am Benutzerende des Netzwerks oder das API-Ende.
 

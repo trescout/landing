@@ -1,6 +1,6 @@
 # Assembly: Definition, registers, and system architecture
 
-*Dev · Last updated: September 19, 2026*
+*Development · Last updated: September 19, 2026*
 
 Assembly refers to two fundamental concepts in computer science: the lowest-level symbolic programming language that directly instructs the central processing unit (CPU), and compiled deployment packages (.NET assemblies) that bundle executable modules.
 

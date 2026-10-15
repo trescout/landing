@@ -1,6 +1,6 @@
 # Qu'est-ce que Scene Reconstruction ?
 
-*AI · Dernière mise à jour : 19 juillet 2026*
+*Intelligence artificielle · Dernière mise à jour : 19 juillet 2026*
 
 C'est le processus de création de modèles numériques tridimensionnels d'environnements physiques basés sur des images.
 

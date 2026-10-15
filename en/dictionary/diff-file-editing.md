@@ -1,6 +1,6 @@
 # What is Diff File Editing?
 
-*Dev · Last updated: July 10, 2026*
+*Development · Last updated: July 10, 2026*
 
 It is a method of updating a file by applying only the differences (diffs) between the old and new version, instead of changing the entire file.
 

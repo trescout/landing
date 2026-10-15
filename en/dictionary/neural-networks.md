@@ -1,6 +1,6 @@
 # What is Neural Networks?
 
-*AI · Last updated: September 27, 2026*
+*Artificial Intelligence · Last updated: September 27, 2026*
 
 An artificial intelligence structure that processes information in layers, inspired by the way the human brain works.
 

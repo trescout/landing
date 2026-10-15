@@ -1,6 +1,6 @@
 # Qu'est-ce que Durable Objects ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 Les objets durables sont de petites unités cloud qui conservent leur état.
 

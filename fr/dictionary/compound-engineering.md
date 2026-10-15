@@ -1,6 +1,6 @@
 # Qu'est-ce que Compound Engineering ?
 
-*Dev · Dernière mise à jour : 3 juin 2026*
+*Développement · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit d’une approche de travail basée sur l’IA dans laquelle chaque étape d’ingénierie s’accumule pour faciliter la suivante.
 

@@ -1,6 +1,6 @@
 # O que é Context Engine?
 
-*AI · Última atualização: 19 de setembro de 2026*
+*Inteligência artificial · Última atualização: 19 de setembro de 2026*
 
 É o sistema que reúne dados históricos e informações atuais necessários para que a inteligência artificial produza resultados mais precisos.
 

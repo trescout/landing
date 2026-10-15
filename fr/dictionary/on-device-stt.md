@@ -1,6 +1,6 @@
 # Qu'est-ce que l'On-device STT ?
 
-*AI · Dernière mise à jour : 22 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
 > Reconnaissance Vocale Embarquée sur l'Appareil
 

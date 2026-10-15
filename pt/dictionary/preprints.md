@@ -1,6 +1,6 @@
 # O que é Preprints?
 
-*AI · Última atualização: 8 de outubro de 2026*
+*Inteligência artificial · Última atualização: 8 de outubro de 2026*
 
 Trabalhos preliminares que ainda não passaram por uma avaliação científica e que os pesquisadores publicam para compartilhar seus resultados rapidamente.
 

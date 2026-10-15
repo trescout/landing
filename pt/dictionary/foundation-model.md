@@ -1,6 +1,6 @@
 # O que é Foundation Model?
 
-*AI · Última atualização: 3 de junho de 2026*
+*Inteligência artificial · Última atualização: 3 de junho de 2026*
 
 Eles são modelos convencionais de IA amplamente treinados que formam a base para muitas aplicações diferentes.
 

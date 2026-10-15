@@ -1,6 +1,6 @@
 # ¿Qué es Ad Tech?
 
-*Data · Última actualización: 3 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 3 de septiembre de 2026*
 
 > Advertising Technology
 

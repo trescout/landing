@@ -1,6 +1,6 @@
 # Qu'est-ce que Tokenizer ?
 
-*AI · Dernière mise à jour : 19 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 19 septembre 2026*
 
 Le Tokenizer (tokeniseur ou segmentateur) est le composant fondamental de traitement de données qui convertit les textes en langage naturel en jetons numériques (token ID) que les grands modèles de langage (LLM) et les réseaux de neurones peuvent traiter mathématiquement.
 

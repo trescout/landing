@@ -1,6 +1,6 @@
 # What is Design System?
 
-*Dev · Last updated: July 2, 2026*
+*Development · Last updated: July 2, 2026*
 
 It is the set of design standards and components used when developing applications.
 

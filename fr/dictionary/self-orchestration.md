@@ -1,6 +1,6 @@
 # Qu'est-ce que Self-orchestration ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 L’intelligence artificielle planifie seule des tâches complexes et gère les étapes nécessaires dans l’ordre.
 

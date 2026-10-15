@@ -1,6 +1,6 @@
 # ¿Qué es Reverse Engineering?
 
-*Dev · Última actualización: 6 de octubre de 2026*
+*Desarrollo · Última actualización: 6 de octubre de 2026*
 
 Es el proceso de desmontar un producto, sistema o software terminado para comprender cómo funciona y descifrar sus principios de funcionamiento.
 

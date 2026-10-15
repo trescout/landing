@@ -1,6 +1,6 @@
 # Was ist LLM Inference?
 
-*AI · Zuletzt aktualisiert: 1. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 1. September 2026*
 
 Der Prozess, bei dem ein trainiertes Modell der künstlichen Intelligenz eine Antwort auf eine ihm gestellte Frage erstellt.
 

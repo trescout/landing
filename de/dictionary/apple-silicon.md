@@ -1,6 +1,6 @@
 # Was ist Apple Silicon?
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Apple Silicon ist eine von Apple intern entwickelte, ARM-basierte Hochleistungs-SoC-Prozessorfamilie (System on a Chip) für Mac- und iPad-Geräte, die CPU, GPU, Neural Engine und Unified Memory auf einer einzigen Siliziumplatte vereint.
 

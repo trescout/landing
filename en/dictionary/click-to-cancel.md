@@ -1,6 +1,6 @@
 # What is Click to Cancel?
 
-*Dev · Last updated: October 12, 2026*
+*Development · Last updated: October 12, 2026*
 
 It is a regulatory rule that mandates subscription cancellations can be made easily with a single click, without complex processes.
 

@@ -1,6 +1,6 @@
 # What is Geometric Context Transformer?
 
-*AI · Last updated: October 9, 2026*
+*Artificial Intelligence · Last updated: October 9, 2026*
 
 It is an advanced artificial intelligence model architecture that processes context by taking into account the spatial and geometric relationships of data.
 

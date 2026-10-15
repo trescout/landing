@@ -1,6 +1,6 @@
 # Was ist Chair?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Chair, im Deutschen als Vorsitzender bezeichnet, ist die Person, die einen Vorstand leitet und die strategische Ausrichtung des Unternehmens überwacht.
 

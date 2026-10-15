@@ -1,6 +1,6 @@
 # Qu'est-ce que Penetration Testing ?
 
-*Dev · Dernière mise à jour : 1 juillet 2026*
+*Développement · Dernière mise à jour : 1 juillet 2026*
 
 Il s’agit de tentatives de cyberattaques contrôlées réalisées par des experts pour tester la sécurité des systèmes.
 

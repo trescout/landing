@@ -1,6 +1,6 @@
 # Qu'est-ce que Open Source ?
 
-*Dev · Dernière mise à jour : 3 juin 2026*
+*Développement · Dernière mise à jour : 3 juin 2026*
 
 Ce sont des logiciels dont les codes sources sont ouverts à tous pour accéder et développer.
 

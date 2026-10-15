@@ -1,6 +1,6 @@
 # O que é Benchmark?
 
-*AI · Última atualização: 22 de setembro de 2026*
+*Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
 Benchmark (com o equivalente em turco, critério de comparação) é a medição e comparação de desempenho através de um teste padrão.
 

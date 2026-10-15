@@ -1,6 +1,6 @@
 # Qu'est-ce que Embed ?
 
-*Data · Dernière mise à jour : 27 septembre 2026*
+*Données et infra · Dernière mise à jour : 27 septembre 2026*
 
 Processus de conversion de données en listes numériques permettant aux ordinateurs de comprendre la relation sémantique entre elles.
 

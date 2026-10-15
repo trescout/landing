@@ -1,6 +1,6 @@
 # Was ist On-device STT?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 > Lokale Spracherkennung auf dem Endgerät
 

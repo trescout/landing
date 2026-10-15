@@ -1,6 +1,6 @@
 # O que é RAG Chunks?
 
-*AI · Última atualização: 3 de junho de 2026*
+*Inteligência artificial · Última atualização: 3 de junho de 2026*
 
 É uma versão de documentos longos divididos em pequenos pedaços para que a inteligência artificial possa compreendê-los com mais facilidade.
 

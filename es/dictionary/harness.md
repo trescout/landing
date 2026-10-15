@@ -1,6 +1,6 @@
 # ¿Qué es Harness?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Harness, el marco que automatiza las pruebas de código.
 

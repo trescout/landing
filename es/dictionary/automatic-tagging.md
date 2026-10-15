@@ -1,6 +1,6 @@
 # ¿Qué es Automatic Tagging?
 
-*Data · Última actualización: 22 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 22 de septiembre de 2026*
 
 El etiquetado automático es el proceso que consiste en leer el contenido y aplicarle etiquetas.
 

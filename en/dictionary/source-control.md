@@ -1,6 +1,6 @@
 # What is Source Control?
 
-*Dev · Last updated: September 3, 2026*
+*Development · Last updated: September 3, 2026*
 
 It is a tracking system that records all code changes in software projects and allows for reverting to previous versions.
 

@@ -1,6 +1,6 @@
 # O que é Foundation Models?
 
-*AI · Última atualização: 27 de agosto de 2026*
+*Inteligência artificial · Última atualização: 27 de agosto de 2026*
 
 São modelos de inteligência artificial de amplo espectro que servem como base para diferentes tarefas.
 

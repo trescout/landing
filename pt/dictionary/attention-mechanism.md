@@ -1,6 +1,6 @@
 # O que é Attention Mechanism?
 
-*AI · Última atualização: 29 de setembro de 2026*
+*Inteligência artificial · Última atualização: 29 de setembro de 2026*
 
 Método que permite à inteligência artificial compreender melhor o significado ao focar nas palavras mais importantes dentro de um texto.
 

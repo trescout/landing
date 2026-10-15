@@ -1,6 +1,6 @@
 # ¿Qué es Mixture of Experts?
 
-*AI · Última actualización: 2 de septiembre de 2026*
+*Inteligencia artificial · Última actualización: 2 de septiembre de 2026*
 
 > MoE
 

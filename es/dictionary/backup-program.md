@@ -1,6 +1,6 @@
 # ¿Qué es Backup Program?
 
-*Data · Última actualización: 22 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 22 de septiembre de 2026*
 
 Un programa de respaldo es un software que copia datos de forma regular.
 

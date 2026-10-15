@@ -1,6 +1,6 @@
 # Was ist Computer Use?
 
-*AI · Zuletzt aktualisiert: 18. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 18. Juli 2026*
 
 Es ist die Fähigkeit der künstlichen Intelligenz, den Bildschirm zu sehen und den Computer mit Maus und Tastatur zu steuern, genau wie ein Mensch.
 

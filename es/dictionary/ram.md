@@ -1,6 +1,6 @@
 # ¿Qué es RAM?
 
-*Data · Última actualización: 22 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 22 de septiembre de 2026*
 
 > Random Access Memory
 

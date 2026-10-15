@@ -1,6 +1,6 @@
 # What is Omni-channel Desk?
 
-*AI · Last updated: June 12, 2026*
+*Artificial Intelligence · Last updated: June 12, 2026*
 
 It is a support system that collects all different communication channels such as e-mails, messages and calls from customers on a single screen.
 

@@ -1,6 +1,6 @@
 # Was ist QA?
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 > Quality Assurance
 

@@ -1,6 +1,6 @@
 # O que é Network Stack?
 
-*Dev · Última atualização: 19 de setembro de 2026*
+*Desenvolvimento · Última atualização: 19 de setembro de 2026*
 
 Pilha de rede é o conjunto de camadas de driver de hardware, kernel e protocolo de espaço do usuário que permitem que um sistema operacional ou hardware transmita, roteie e receba pacotes de dados pela rede.
 

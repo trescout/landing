@@ -1,6 +1,6 @@
 # What is Traces?
 
-*Dev · Last updated: June 27, 2026*
+*Development · Last updated: June 27, 2026*
 
 These are monitoring records that show step by step through which stages a transaction goes through in the system.
 

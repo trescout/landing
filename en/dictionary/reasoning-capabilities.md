@@ -1,6 +1,6 @@
 # What is Reasoning Capabilities?
 
-*AI · Last updated: September 27, 2026*
+*Artificial Intelligence · Last updated: September 27, 2026*
 
 The ability of an artificial intelligence to solve complex problems through reasoning and step-by-step thinking.
 

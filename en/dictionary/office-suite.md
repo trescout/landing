@@ -1,6 +1,6 @@
 # What is Office Suite?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Office suite is a software group that gathers documents, tables and presentations under one roof.
 

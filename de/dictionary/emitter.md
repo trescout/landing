@@ -1,6 +1,6 @@
 # Was ist Emitter?
 
-*Dev · Zuletzt aktualisiert: 19. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
 Emitter (Sender) ist ein kritischer Begriff in der Softwaretechnik, der in zwei grundlegenden Bereichen auftaucht: Als Mechanismus, der Zustandsänderungen in ereignisgesteuerten Architekturen (Event-Driven Architecture) an Zuhörer meldet (Event Emitter), und als Codegenerierungsmodul in der Compiler-Technologie, das den analysierten Code in die Zielmaschinensprache oder in Bytecode umwandelt (Code Emitter).
 

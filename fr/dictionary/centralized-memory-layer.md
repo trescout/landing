@@ -1,6 +1,6 @@
 # Qu'est-ce que Centralized Memory Layer ?
 
-*AI · Dernière mise à jour : 11 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 11 juin 2026*
 
 Il s’agit d’une zone de mémoire commune qui permet aux systèmes d’intelligence artificielle de mémoriser des informations et des expériences passées à partir d’un seul centre.
 

@@ -1,6 +1,6 @@
 # Was ist Clean Code?
 
-*Dev · Zuletzt aktualisiert: 22. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 22. September 2026*
 
 Sauberer Code ist der Code, der von Menschen gelesen werden kann.
 

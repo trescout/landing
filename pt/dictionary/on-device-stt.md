@@ -1,6 +1,6 @@
 # O que é On-device STT?
 
-*AI · Última atualização: 22 de setembro de 2026*
+*Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
 > Reconhecimento de Voz no Próprio Dispositivo
 

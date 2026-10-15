@@ -1,6 +1,6 @@
 # ¿Qué es DEX?
 
-*Data · Última actualización: 12 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 12 de septiembre de 2026*
 
 > Decentralized Exchange
 

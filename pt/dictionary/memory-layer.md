@@ -1,6 +1,6 @@
 # O que é Memory Layer?
 
-*AI · Última atualização: 27 de setembro de 2026*
+*Inteligência artificial · Última atualização: 27 de setembro de 2026*
 
 É a camada de memória digital que permite que os modelos de inteligência artificial se lembrem de interações passadas.
 

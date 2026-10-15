@@ -1,6 +1,6 @@
 # ¿Qué es Decompiler?
 
-*Dev · Última actualización: 16 de septiembre de 2026*
+*Desarrollo · Última actualización: 16 de septiembre de 2026*
 
 Es una herramienta de traducción que convierte el código máquina de nuevo a un lenguaje de programación legible.
 

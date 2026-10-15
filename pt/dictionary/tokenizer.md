@@ -1,6 +1,6 @@
 # O que é Tokenizer?
 
-*AI · Última atualização: 19 de setembro de 2026*
+*Inteligência artificial · Última atualização: 19 de setembro de 2026*
 
 O tokenizador (ou conversor em tokens) é o componente fundamental de processamento de dados que transforma textos em linguagem natural em tokens numéricos (IDs de tokens) que os grandes modelos de linguagem (LLMs) e redes neurais podem processar matematicamente.
 

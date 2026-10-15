@@ -1,6 +1,6 @@
 # Qu'est-ce que Runtime Environment ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 L'environnement d'exécution (runtime environment) est la couche de bibliothèques et de ressources sur laquelle le code s'exécute.
 

@@ -1,6 +1,6 @@
 # Was ist Notebooks?
 
-*Dev · Zuletzt aktualisiert: 20. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 20. Juni 2026*
 
 Dabei handelt es sich um interaktive Arbeitsumgebungen, in denen Sie sich beim Schreiben von Code Notizen machen und die Ergebnisse sofort sehen können.
 

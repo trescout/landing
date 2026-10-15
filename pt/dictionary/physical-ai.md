@@ -1,6 +1,6 @@
 # O que é Physical AI?
 
-*AI · Última atualização: 5 de junho de 2026*
+*Inteligência artificial · Última atualização: 5 de junho de 2026*
 
 Sistemas de inteligência artificial que podem controlar objetos do mundo físico, como robôs, e interagir com o meio ambiente.
 

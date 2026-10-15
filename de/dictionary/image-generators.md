@@ -1,6 +1,6 @@
 # Was ist Image Generators?
 
-*AI · Zuletzt aktualisiert: 27. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 27. September 2026*
 
 Es handelt sich um Systeme, die schriftliche Befehle entgegennehmen und Bilder oder Fotos von Grund auf neu erstellen.
 

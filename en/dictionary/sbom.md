@@ -1,6 +1,6 @@
 # What is SBOM?
 
-*Dev · Last updated: June 4, 2026*
+*Development · Last updated: June 4, 2026*
 
 > Software Bill of Materials
 

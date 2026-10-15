@@ -1,6 +1,6 @@
 # Was ist Open Weights?
 
-*AI · Zuletzt aktualisiert: 3. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um die Weitergabe der trainierten internen Parameter des Modells der künstlichen Intelligenz an alle.
 

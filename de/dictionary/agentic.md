@@ -1,6 +1,6 @@
 # Was ist Agentic?
 
-*AI · Zuletzt aktualisiert: 25. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 25. Juli 2026*
 
 Dabei handelt es sich um die Fähigkeit einer künstlichen Intelligenz, eigenständig, ohne menschliches Eingreifen, entsprechend dem ihr vorgegebenen Ziel zu planen und Maßnahmen zu ergreifen.
 

@@ -1,6 +1,6 @@
 # Sun Code Conventions : Standards Java, lisibilité et maintenance logicielle
 
-*Dev · Dernière mise à jour : 20 septembre 2026*
+*Développement · Dernière mise à jour : 20 septembre 2026*
 
 Les Sun Code Conventions for the Java Programming Language, publiées en 1999 par Sun Microsystems, représentent le document fondateur ayant instauré les standards universels de nommage et de lisibilité pour le développement objet moderne.
 

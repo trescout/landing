@@ -1,6 +1,6 @@
 # Code Snippets: Modelos de IDE, expansão paramétrica e padrões de equipe
 
-*Dev · Última atualização: 19 de setembro de 2026*
+*Desenvolvimento · Última atualização: 19 de setembro de 2026*
 
 Code snippets (trechos de código ou fragmentos reutilizáveis) são blocos pré-programados de código-fonte inseridos instantaneamente em editores de texto para poupar tempo e eliminar código repetitivo.
 

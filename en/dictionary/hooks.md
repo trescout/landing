@@ -1,6 +1,6 @@
 # What is Hooks?
 
-*Dev · Last updated: September 6, 2026*
+*Development · Last updated: September 6, 2026*
 
 These are connection points that allow you to intervene at specific moments during the software's execution process and perform custom operations.
 

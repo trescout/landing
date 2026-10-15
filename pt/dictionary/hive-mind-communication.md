@@ -1,6 +1,6 @@
 # O que é Hive Mind Communication?
 
-*AI · Última atualização: 26 de julho de 2026*
+*Inteligência artificial · Última atualização: 26 de julho de 2026*
 
 É um método de comunicação que permite que os membros de um grupo atuem como uma única mente, compartilhando informações instantaneamente.
 

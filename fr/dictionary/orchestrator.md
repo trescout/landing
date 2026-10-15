@@ -1,6 +1,6 @@
 # Qu'est-ce que Orchestrator ?
 
-*Dev · Dernière mise à jour : 27 septembre 2026*
+*Développement · Dernière mise à jour : 27 septembre 2026*
 
 C'est un système de gestion centralisé qui orchestre le fonctionnement harmonieux de différents composants logiciels ou outils d'intelligence artificielle.
 

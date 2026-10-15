@@ -1,6 +1,6 @@
 # What is Local-first Memory?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 Local-first memory is an approach where data resides on the device.
 

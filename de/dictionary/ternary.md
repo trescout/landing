@@ -1,6 +1,6 @@
 # Was ist Ternary?
 
-*AI · Zuletzt aktualisiert: 28. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 28. September 2026*
 
 Es handelt sich um ein System, das nicht nur mit zwei, sondern mit drei verschiedenen Zuständen oder Werten arbeitet.
 

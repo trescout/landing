@@ -1,6 +1,6 @@
 # ¿Qué es Meta-skill?
 
-*AI · Última actualización: 3 de junio de 2026*
+*Inteligencia artificial · Última actualización: 3 de junio de 2026*
 
 Capacidad de alto nivel que permite aprender nuevas habilidades o utilizar las existentes de manera más efectiva.
 

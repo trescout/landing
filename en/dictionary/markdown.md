@@ -1,6 +1,6 @@
 # What is Markdown?
 
-*Dev · Last updated: June 3, 2026*
+*Development · Last updated: June 3, 2026*
 
 A lightweight formatting language used to format text, allowing writing with simple characters.
 

@@ -1,6 +1,6 @@
 # ¿Qué es AI-powered Note Analysis?
 
-*AI · Última actualización: 5 de junio de 2026*
+*Inteligencia artificial · Última actualización: 5 de junio de 2026*
 
 La información importante de las notas se encuentra y se resume u organiza mediante inteligencia artificial.
 

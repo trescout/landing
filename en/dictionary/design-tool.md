@@ -1,6 +1,6 @@
 # What is Design Tool?
 
-*Dev · Last updated: June 23, 2026*
+*Development · Last updated: June 23, 2026*
 
 It is digital design software that allows you to create visual content, graphics or user interfaces.
 

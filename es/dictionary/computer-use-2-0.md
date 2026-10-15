@@ -1,6 +1,6 @@
 # ¿Qué es Computer Use 2.0?
 
-*AI · Última actualización: 7 de octubre de 2026*
+*Inteligencia artificial · Última actualización: 7 de octubre de 2026*
 
 Es la versión avanzada de la capacidad de los modelos de inteligencia artificial para gestionar directamente software complejo y sitios web mediante movimientos de ratón y teclado, viendo la pantalla de la computadora como lo haría un humano.
 

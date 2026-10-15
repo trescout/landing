@@ -1,6 +1,6 @@
 # O que é Smart Contracts?
 
-*Dev · Última atualização: 18 de agosto de 2026*
+*Desenvolvimento · Última atualização: 18 de agosto de 2026*
 
 São contratos digitais que funcionam automaticamente quando determinadas condições são atendidas e não necessitam de intermediário.
 

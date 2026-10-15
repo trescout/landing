@@ -1,6 +1,6 @@
 # What is Rendering?
 
-*Dev · Last updated: September 22, 2026*
+*Development · Last updated: September 22, 2026*
 
 Rendering is the process of converting raw data into the image you see on the screen.
 

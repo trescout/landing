@@ -1,6 +1,6 @@
 # O que é HDR?
 
-*Dev · Última atualização: 5 de setembro de 2026*
+*Desenvolvimento · Última atualização: 5 de setembro de 2026*
 
 > High Dynamic Range
 

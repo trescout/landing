@@ -1,6 +1,6 @@
 # Was ist Text Generation Model?
 
-*AI · Zuletzt aktualisiert: 17. August 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 17. August 2026*
 
 Dabei handelt es sich um ein Modell der künstlichen Intelligenz, das aussagekräftige Texte produziert, indem es einem vorgegebenen Anfangssatz oder Thema folgt.
 

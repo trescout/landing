@@ -1,6 +1,6 @@
 # O que é VRAM?
 
-*Dev · Última atualização: 19 de julho de 2026*
+*Desenvolvimento · Última atualização: 19 de julho de 2026*
 
 > Video Random Access Memory
 

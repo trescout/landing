@@ -1,6 +1,6 @@
 # Self-Hosted : Homelabs, rapatriement cloud et serveurs privés
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 L'auto-hébergement (self-hosted) est la pratique consistant à installer, exploiter et administrer des applications logicielles sur ses propres serveurs physiques ou machines virtuelles privées plutôt que de dépendre de solutions SaaS tierces.
 

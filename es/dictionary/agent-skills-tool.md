@@ -1,6 +1,6 @@
 # ¿Qué es Agent Skills Tool?
 
-*AI · Última actualización: 14 de octubre de 2026*
+*Inteligencia artificial · Última actualización: 14 de octubre de 2026*
 
 Herramienta utilizada para dotar a los agentes de inteligencia artificial de nuevas funciones y capacidades.
 

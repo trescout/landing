@@ -1,6 +1,6 @@
 # ¿Qué es Container?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Un contenedor es una única aplicación empaquetada con su código y dependencias, diseñada para ejecutarse de la misma manera en cualquier entorno.
 

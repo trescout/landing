@@ -1,6 +1,6 @@
 # ¿Qué es Cloud Native?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 Cloud native (o su traducción al turco bulut yerlisi), es un enfoque para diseñar aplicaciones de modo que aprovechen al máximo la flexibilidad y escalabilidad de la nube.
 

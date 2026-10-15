@@ -1,6 +1,6 @@
 # O que é Download Manager?
 
-*Dev · Última atualização: 18 de agosto de 2026*
+*Desenvolvimento · Última atualização: 18 de agosto de 2026*
 
 É uma ferramenta auxiliar que agiliza o processo de download de arquivos da Internet e retoma downloads interrompidos de onde pararam.
 

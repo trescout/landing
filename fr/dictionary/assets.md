@@ -1,6 +1,6 @@
 # Assets : Ressources web, pipelines 3D, ITAM et gestion DAM
 
-*Dev · Dernière mise à jour : 19 septembre 2026*
+*Développement · Dernière mise à jour : 19 septembre 2026*
 
 Les assets (actifs ou ressources numériques) désignent les composants non exécutables essentiels aux logiciels : images, typographies, maillages 3D, inventaire informatique d'entreprise et bibliothèques multimédias.
 

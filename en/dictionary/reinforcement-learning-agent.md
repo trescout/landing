@@ -1,6 +1,6 @@
 # What is Reinforcement Learning Agent?
 
-*AI · Last updated: August 8, 2026*
+*Artificial Intelligence · Last updated: August 8, 2026*
 
 It is a software unit that learns to make the right decisions by gaining rewards through trial and error.
 

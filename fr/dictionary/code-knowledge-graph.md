@@ -1,6 +1,6 @@
 # Qu'est-ce que Code Knowledge Graph ?
 
-*Dev · Dernière mise à jour : 3 octobre 2026*
+*Développement · Dernière mise à jour : 3 octobre 2026*
 
 Structure qui cartographie les éléments de code des projets logiciels et leurs relations sous la forme d'un réseau d'information.
 

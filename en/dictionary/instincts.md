@@ -1,6 +1,6 @@
 # What is Instincts?
 
-*AI · Last updated: June 3, 2026*
+*Artificial Intelligence · Last updated: June 3, 2026*
 
 These are fast and automatic reactions that artificial intelligence gives without thinking, using the patterns it has learned during the training process.
 

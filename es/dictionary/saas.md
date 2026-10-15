@@ -1,6 +1,6 @@
 # ¿Qué es SaaS?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 > Software as a Service
 

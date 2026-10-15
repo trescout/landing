@@ -1,6 +1,6 @@
 # Was ist Click to Cancel?
 
-*Dev · Zuletzt aktualisiert: 12. Oktober 2026*
+*Entwicklung · Zuletzt aktualisiert: 12. Oktober 2026*
 
 Es handelt sich um eine gesetzliche Regelung, die vorschreibt, dass Kündigungsverfahren von Abonnements einfach und ohne komplizierte Prozesse mit nur einem Klick durchgeführt werden können müssen.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Prompt as Code?
 
-*Dev · Última actualización: 24 de agosto de 2026*
+*Desarrollo · Última actualización: 24 de agosto de 2026*
 
 Es la gestión, el control de versiones y las pruebas de comandos de inteligencia artificial como código de software.
 

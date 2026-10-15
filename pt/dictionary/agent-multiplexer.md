@@ -1,6 +1,6 @@
 # O que é Agent Multiplexer?
 
-*AI · Última atualização: 5 de julho de 2026*
+*Inteligência artificial · Última atualização: 5 de julho de 2026*
 
 É um sistema que gerencia assistentes de inteligência artificial com diferentes especializações a partir de um único centro e direciona as tarefas recebidas para o assistente mais adequado.
 

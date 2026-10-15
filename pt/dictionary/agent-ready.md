@@ -1,6 +1,6 @@
 # O que é Agent Ready?
 
-*AI · Última atualização: 2 de julho de 2026*
+*Inteligência artificial · Última atualização: 2 de julho de 2026*
 
 São informações de estado que indicam que um software ou sistema de inteligência artificial está pronto para realizar tarefas autônomas.
 

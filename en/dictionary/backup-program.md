@@ -1,6 +1,6 @@
 # What is Backup Program?
 
-*Data · Last updated: September 22, 2026*
+*Data & Infra · Last updated: September 22, 2026*
 
 Backup program is software that copies data regularly.
 

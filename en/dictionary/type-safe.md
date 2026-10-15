@@ -1,6 +1,6 @@
 # What is Type-safe?
 
-*Dev · Last updated: July 9, 2026*
+*Development · Last updated: July 9, 2026*
 
 It is a discipline that ensures the safe operation of software by preventing incorrect use of data types.
 

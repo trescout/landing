@@ -1,6 +1,6 @@
 # Qu'est-ce que Containers ?
 
-*Dev · Dernière mise à jour : 12 juin 2026*
+*Développement · Dernière mise à jour : 12 juin 2026*
 
 Ce sont des packages légers qui contiennent tout ce qui est nécessaire au fonctionnement d'un logiciel et peuvent être déplacés vers différents environnements sans aucun problème.
 

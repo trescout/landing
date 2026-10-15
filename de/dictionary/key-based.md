@@ -1,6 +1,6 @@
 # Was ist Key-based?
 
-*Dev · Zuletzt aktualisiert: 19. Juni 2026*
+*Entwicklung · Zuletzt aktualisiert: 19. Juni 2026*
 
 Es handelt sich um eine Methode, die auf einem speziellen Schlüsselcode für den Systemzugang oder die Datensicherheit basiert.
 

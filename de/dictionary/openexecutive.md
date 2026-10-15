@@ -1,6 +1,6 @@
 # Was ist OpenExecutive?
 
-*AI · Zuletzt aktualisiert: 22. September 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
 > Autonome organisatorische Ausführungsschicht
 

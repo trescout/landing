@@ -1,6 +1,6 @@
 # What is Destructive Command Guard?
 
-*Dev · Last updated: July 13, 2026*
+*Development · Last updated: July 13, 2026*
 
 It is a security shield that stops you before you run commands that risk deleting data or corrupting the system.
 

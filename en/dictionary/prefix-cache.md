@@ -1,6 +1,6 @@
 # What is Prefix Cache?
 
-*AI · Last updated: August 3, 2026*
+*Artificial Intelligence · Last updated: August 3, 2026*
 
 An acceleration method that prevents artificial intelligence from repeating the same operations by keeping the text beginnings it has previously processed in memory.
 

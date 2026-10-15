@@ -1,6 +1,6 @@
 # Was ist AI Capabilities?
 
-*AI · Zuletzt aktualisiert: 24. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 24. Juni 2026*
 
 Das sind alles Funktionen, die künstliche Intelligenzsysteme übernehmen können, etwa analysieren, lernen, Inhalte produzieren oder Probleme lösen.
 

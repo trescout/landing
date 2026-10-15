@@ -1,6 +1,6 @@
 # Was ist Agents Directory?
 
-*AI · Zuletzt aktualisiert: 11. Oktober 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 11. Oktober 2026*
 
 Es handelt sich um eine spezielle Ordnerstruktur in Softwareprojekten, die das Verhalten, die Werkzeuge und die Regeln von KI-Agenten an einem Ort bündelt.
 

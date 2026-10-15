@@ -1,6 +1,6 @@
 # What is Coding Assistant?
 
-*AI · Last updated: August 4, 2026*
+*Artificial Intelligence · Last updated: August 4, 2026*
 
 It is an artificial intelligence-supported assistant that offers you suggestions during the software development process, speeds up your code writing and detects errors.
 

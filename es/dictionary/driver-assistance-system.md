@@ -1,6 +1,6 @@
 # ¿Qué es Driver Assistance System?
 
-*AI · Última actualización: 27 de junio de 2026*
+*Inteligencia artificial · Última actualización: 27 de junio de 2026*
 
 > Advanced Driver Assistance Systems (ADAS)
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Logging ?
 
-*Dev · Dernière mise à jour : 22 septembre 2026*
+*Développement · Dernière mise à jour : 22 septembre 2026*
 
 La journalisation (ou logging) consiste à enregistrer les événements d'un programme de manière chronologique.
 

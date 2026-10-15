@@ -1,6 +1,6 @@
 # What is Optical Character Recognition?
 
-*Data · Last updated: June 5, 2026*
+*Data & Infra · Last updated: June 5, 2026*
 
 > OCR
 

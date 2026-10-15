@@ -1,6 +1,6 @@
 # Qu'est-ce que Data Processing ?
 
-*Data · Dernière mise à jour : 3 septembre 2026*
+*Données et infra · Dernière mise à jour : 3 septembre 2026*
 
 C'est le processus par lequel des données brutes sont collectées et transformées en informations significatives et utilisables.
 

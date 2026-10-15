@@ -1,6 +1,6 @@
 # O que é Dashboard?
 
-*Dev · Última atualização: 22 de junho de 2026*
+*Desenvolvimento · Última atualização: 22 de junho de 2026*
 
 Painel que permite rastrear visualmente dados e estatísticas complexas em uma única tela.
 

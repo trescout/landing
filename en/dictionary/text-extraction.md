@@ -1,6 +1,6 @@
 # What is Text Extraction?
 
-*Data · Last updated: August 6, 2026*
+*Data & Infra · Last updated: August 6, 2026*
 
 It is the process of converting written data in digital documents or images into text format that the computer can process.
 

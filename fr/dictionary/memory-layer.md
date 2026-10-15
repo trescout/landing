@@ -1,6 +1,6 @@
 # Qu'est-ce que Memory Layer ?
 
-*AI · Dernière mise à jour : 27 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 27 septembre 2026*
 
 C’est la couche de mémoire numérique qui permet aux modèles d’intelligence artificielle de se souvenir des interactions passées.
 

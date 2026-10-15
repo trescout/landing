@@ -1,6 +1,6 @@
 # O que é Logic Gates?
 
-*Dev · Última atualização: 11 de outubro de 2026*
+*Desenvolvimento · Última atualização: 11 de outubro de 2026*
 
 São unidades de circuitos eletrônicos básicos que produzem uma saída binária (0 ou 1) aplicando regras lógicas aos sinais de entrada.
 

@@ -1,6 +1,6 @@
 # What is Runner Images?
 
-*Dev · Last updated: September 27, 2026*
+*Development · Last updated: September 27, 2026*
 
 Ready-to-use virtual environment packages containing all the settings and files required for the software to run.
 

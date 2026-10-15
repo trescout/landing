@@ -1,6 +1,6 @@
 # Was ist Financial Services?
 
-*Dev · Zuletzt aktualisiert: 27. September 2026*
+*Entwicklung · Zuletzt aktualisiert: 27. September 2026*
 
 Alle professionellen Dienstleistungen im Zusammenhang mit der Geldverwaltung, wie Bankgeschäfte, Investitionen und Versicherungen.
 

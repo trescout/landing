@@ -1,6 +1,6 @@
 # Was ist Agentic Engineering Platform?
 
-*AI · Zuletzt aktualisiert: 19. Juni 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 19. Juni 2026*
 
 Es handelt sich um eine umfassende Entwicklungsumgebung zum Erstellen, Verwalten und Testen autonomer Agenten für künstliche Intelligenz.
 

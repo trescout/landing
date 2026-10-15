@@ -1,6 +1,6 @@
 # Was ist Logic Gates?
 
-*Dev · Zuletzt aktualisiert: 11. Oktober 2026*
+*Entwicklung · Zuletzt aktualisiert: 11. Oktober 2026*
 
 Es handelt sich um elementare elektronische Schaltungseinheiten, die durch Anwendung logischer Regeln auf Eingangssignale einen binären (0 oder 1) Ausgang erzeugen.
 

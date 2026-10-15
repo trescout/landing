@@ -1,6 +1,6 @@
 # What is ARQ?
 
-*Dev · Last updated: June 12, 2026*
+*Development · Last updated: June 12, 2026*
 
 > Automatic Repeat Request
 

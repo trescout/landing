@@ -1,6 +1,6 @@
 # Qu'est-ce que Agent Tools ?
 
-*AI · Dernière mise à jour : 27 septembre 2026*
+*Intelligence artificielle · Dernière mise à jour : 27 septembre 2026*
 
 Logiciels auxiliaires qui permettent à l’IA d’interagir avec le monde extérieur ou d’effectuer des transactions sur Internet.
 

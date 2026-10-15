@@ -1,6 +1,6 @@
 # ¿Qué es Reinforcement Learning?
 
-*AI · Última actualización: 31 de agosto de 2026*
+*Inteligencia artificial · Última actualización: 31 de agosto de 2026*
 
 La inteligencia artificial aprende a tomar las decisiones correctas mediante prueba y error y utilizando el mecanismo de recompensa.
 

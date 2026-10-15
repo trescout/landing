@@ -1,6 +1,6 @@
 # What is Unsoundness?
 
-*Dev · Last updated: October 13, 2026*
+*Development · Last updated: October 13, 2026*
 
 The situation where the rules a programming language claims are safe are actually flawed or incomplete.
 

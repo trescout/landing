@@ -1,6 +1,6 @@
 # Qu'est-ce que LLM ?
 
-*AI · Dernière mise à jour : 3 juin 2026*
+*Intelligence artificielle · Dernière mise à jour : 3 juin 2026*
 
 > Large Language Model
 

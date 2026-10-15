@@ -1,6 +1,6 @@
 # ¿Qué es Clean Code?
 
-*Dev · Última actualización: 22 de septiembre de 2026*
+*Desarrollo · Última actualización: 22 de septiembre de 2026*
 
 El código limpio es el código que los humanos pueden leer.
 

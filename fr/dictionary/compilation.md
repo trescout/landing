@@ -1,6 +1,6 @@
 # Qu'est-ce que Compilation ?
 
-*Dev · Dernière mise à jour : 14 juin 2026*
+*Développement · Dernière mise à jour : 14 juin 2026*
 
 Il s'agit du processus de conversion de codes écrits proches du langage humain en langage machine que le processeur de l'ordinateur peut comprendre.
 

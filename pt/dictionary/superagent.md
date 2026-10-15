@@ -1,6 +1,6 @@
 # O que é SuperAgent?
 
-*AI · Última atualização: 22 de junho de 2026*
+*Inteligência artificial · Última atualização: 22 de junho de 2026*
 
 Assistente avançado de inteligência artificial que pode gerenciar múltiplas tarefas simultaneamente e resolver operações complexas.
 

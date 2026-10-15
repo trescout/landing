@@ -1,6 +1,6 @@
 # Was ist ADHD?
 
-*AI · Zuletzt aktualisiert: 22. Juli 2026*
+*Künstliche Intelligenz · Zuletzt aktualisiert: 22. Juli 2026*
 
 > Attention Deficit Hyperactivity Disorder
 
