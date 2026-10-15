@@ -2,63 +2,65 @@
 
 *Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
-> Lokale Spracherkennung auf dem Endgerät
+> On-device Speech-to-Text
 
-On-device STT (Speech-to-Text auf dem Gerät) bezeichnet Spracherkennungstechnologien, die gesprochenes Audio direkt auf der Hardware des Nutzers in Text umwandeln, ohne Tondateien an externe Cloud-Server zu senden.
+On-Device STT (deutsch: geräteinterne Spracherkennung) ist die Umwandlung von Sprache in Text direkt auf dem Gerät.
 
 ## Definition und Wortherkunft
 
-Vor dem Hintergrund strenger Datenschutzanforderungen und gewünschter Null-Latenz führt On-Device STT neuronale Akustikmodelle direkt auf lokalen NPUs und Grafikchips aus. Sprachaufnahmen verlassen das Endgerät zu keinem Zeitpunkt.
+„On-device“ bedeutet „auf dem Gerät“. Das lokale Modell arbeitet, ohne auf die Cloud zuzugreifen. Die Privatsphäre bleibt gewahrt und Unterbrechungen haben keine Auswirkungen. Es ist wie ein Übersetzer, der das Wörterbuch im Kopf trägt.
 
-## Alltägliche Anwendung und Praxis
+***Analogie:** Es ist, als wäre man mit einem Übersetzer im selben Raum, der das Wörterbuch im Kopf trägt.*
 
-**Smartphones und Tablets:** Zuverlässige Spracheingabe im Flugmodus ohne Internetempfang.
-**Vertrauliche Diktate:** Lokale Protokollierung von Patientengesprächen, Anwaltsnotizen und Vorstandsmeetings.
-**Smart-Home-Steuerung:** Sprachbediente Haushaltsgeräte, die lokale Befehle ausführen, ohne das Wohnzimmer abzuhören.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+
+**Hinweise:** Sprachnotiz im Flugzeug.
+**Befehl:** Offline-Assistent.
+**Zugänglichkeit:** Untertitel auf dem Gerät.
 
 ## Technische Tiefe und Architektur
 
-Architektur und Inferenz-Stack:
+Gleichgewicht:
 
-**Quantisierte Akustikmodelle:** Kompakte neuronale Netze (Whisper.cpp, Vosk) mit 4-Bit- und 8-Bit-Quantisierung für minimale Ressourcennutzung.
-**NPU-Hardwarebeschleunigung:** Nutzung integrierter KI-Kerne (Apple Neural Engine, Qualcomm NPU) zur Schonung des Akkus.
-**Voice Activity Detection (VAD):** Energiesparende Vorstufen (Silero VAD), die Sprechpausen und Stille vor der Inferenz ausfiltern.
+**Modellgröße:** Verkleinerte (quantisierte) Version.
+**Hardware:** NPU und Beschleuniger.
+**Akku:** Kosten für das ständige Mithören.
 
-## Häufig verwechselt mit
+Regel: Die Cloud ist präzise, das Gerät ist privat. Sensible Aufgaben werden auf dem Gerät erledigt, schwierige Aufgaben in der Cloud.
 
-Wird häufig mit Cloud-Sprach-APIs verwechselt. Cloud-Dienste leiten Audiodaten über das Internet an Rechenzentren weiter; On-Device STT löst die Inferenz vollständig autonom auf dem lokalen Chip.
+## Häufig gemischte Dinge
 
-## Interdisziplinäre Perspektiven
+Cloud-Erkennung wird vermutet. Sie läuft auf dem Server, Daten gehen nach außen. Dies läuft auf dem Gerät, Daten bleiben.
 
-**Dolmetschen:** Ein persönlicher Dolmetscher vor Ort im Raum vs. eine telefonische Übersetzungszentrale.
-**Protokollführung:** Ein Stenograf live im Gerichtssaal vs. der postalische Versand von Tonbändern an ein Schreibbüro.
-**Fotografie:** Eigene Dunkelkammer im Keller vs. das Einsenden von Filmen an ein Fotolabor.
+## Einsatz in verschiedenen Disziplinen
 
-*Es gleicht einem persönlichen Übersetzer, der direkt neben Ihnen im Raum sitzt: Er hört zu und tippt den Text sofort mit, ohne dass Fremde am Telefon mithören.*
+**Wörterbuch:** Der im Kopf getragene Wortschatz.
+**Taschenrechner:** Betrieb ohne Akku.
+**Taschenlampe:** Licht ohne Netzwerk.
 
-## Häufige Fragen
+## Häufig gestellte Fragen
 
-**Ist die Erkennungsgenauigkeit vergleichbar mit Cloud-Diensten?**
+**Warum statt Cloud?**
 
-Ja, moderne quantisierte Modelle wie Whisper-small erreichen auf Standard-Datensätzen nahezu identische Fehlerraten.
+Keine Verbindung erforderlich, Daten bleiben auf dem Gerät. Bevorzugt bei vertraulichen Arbeiten.
 
-**Funktioniert die Transkription vollständig offline?**
+**Sinkt die Genauigkeit?**
 
-Ja, sobald die Modellgewichte lokal gespeichert sind, wird keine Internetverbindung mehr benötigt.
+Im Vergleich zur Cloud etwas. Für den täglichen Gebrauch ausreichend, kritische Texte werden überprüft.
 
-**Wie viel Speicherplatz belegt ein solches Sprachmodell?**
+**Welches Gerät führt es aus?**
 
-Je nach Komprimierung und Parameteranzahl bewegen sich kompakte Modelle zwischen 40 MB und 350 MB.
+Neue Telefone und Computer. Geräte mit NPU laufen flüssiger.
 
-**Welche Open-Source-Engines treiben diese Entwicklung an?**
+**Verbraucht es Akku?**
 
-Whisper.cpp, Sherpa-ONNX, Vosk und WhisperX.
+Ja. Kontinuierliches Zuhören hat seinen Preis, es wird bei Bedarf aktiviert.
 
 ## Verwandte Begriffe
 
+- [STT](https://trescout.com/de/dictionary/stt/)
 - [Speech-to-Text](https://trescout.com/de/dictionary/speech-to-text/)
-- [SLM](https://trescout.com/de/dictionary/slm/)
-- [Digitale Privatsphäre](https://trescout.com/de/dictionary/digital-privacy/)
+- [Local](https://trescout.com/de/dictionary/local/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/on-device-stt/)
 

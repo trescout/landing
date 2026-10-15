@@ -1,64 +1,71 @@
-# Qu'est-ce qu'un Identity Provider ?
+# Qu'est-ce que Identity Provider ?
 
 *Développement · Dernière mise à jour : 22 septembre 2026*
 
-> Fournisseur d'Identité Numérique
+Un fournisseur d'identité (identity provider en anglais) est un service centralisé qui authentifie les connexions.
 
-Un Identity Provider (IdP / Fournisseur d'Identité) est un service d'authentification centralisé qui crée, gère et valide les identités numériques des utilisateurs sur de multiples applications.
+## Définition et origine du mot
 
-## Définition et étymologie
+Au lieu d'un mot de passe différent pour chaque application, la connexion s'effectue à partir d'un point central. L'application demande qui vous êtes au service et reçoit une approbation. Votre mot de passe n'est pas distribué aux applications, il reste au centre.
 
-Dans les architectures logicielles modernes, les applications ne doivent plus gérer de mots de passe en interne. L'IdP découple l'authentification de la logique métier, permettant aux utilisateurs de s'authentifier une seule fois pour accéder à plusieurs services via le Single Sign-On (SSO).
+***Analogie :** C'est similaire à présenter son passeport à la réception d'un hôtel pour obtenir une clé magnétique ; la porte de la chambre fait confiance à l'approbation de la réception.*
 
-## Usage quotidien et contexte pratique
+## Comment connaître et utiliser dans la vie quotidienne ?
 
-**Connexion tierce :** Boutons 'Se connecter avec Google ou GitHub' intégrés dans les applications web.
-**Gestion d'entreprise :** Contrôle des accès et de la double authentification (MFA) via Okta ou Microsoft Entra ID.
-**Infrastructures auto-hébergées :** Déploiement de Keycloak ou Authentik pour sécuriser des parcs de microservices.
+**Entreprise:** Tous les systèmes avec une seule connexion.
+**Web :** Connexion avec un compte social.
+**Entreprise :** Cycle de vie des employés.
 
 ## Profondeur technique et architecture
 
-Protocoles et briques de sécurité :
+Flux :
 
-**OpenID Connect (OIDC) :** Couche d'identité reposant sur OAuth 2.0 fournissant des jetons JWT signés cryptographiquement.
-**SAML 2.0 :** Standard basé sur XML prédominant dans les systèmes d'information d'entreprise.
-**Authentification forte (MFA) :** Clés de sécurité physiques (FIDO2/WebAuthn) et applications d'authentification TOTP.
+```
+giriş → doğrulama → jeton → uygulama
+```
 
-## Souvent confondu avec
+Parties:
 
-Souvent confondu avec un fournisseur de service (Service Provider / SP). L'IdP répond à la question 'Qui êtes-vous ?' (authentification), tandis que le gestionnaire d'autorisations tranche 'Qu'avez-vous le droit de faire ?' (autorisation).
+**Jeton d'identité :** La preuve de qui vous êtes.
+**Jeton d'accès :** L'autorisation de ce que vous pouvez faire.
+**MFA :** Preuve supplémentaire en plus du mot de passe.
+**Session :** Authentification unique (SSO).
 
-## Perspectives interdisciplinaires
+Règle : La durée du jeton est courte, le renouvellement s'effectue en arrière-plan.
 
-**Voyage :** L'administration délivrant un passeport officiel vs le visa d'entrée vérifié aux frontières.
-**Hôtellerie :** La réception d'un hôtel vérifiant une pièce d'identité et remettant une carte d'accès vs la serrure de la chambre.
-**Finance :** L'agence bancaire délivrant un moyen de paiement vs les terminaux de paiement commerçants.
+## Choses fréquemment mélangées
 
-*C'est l'équivalent de la réception d'un hôtel : vous montrez votre passeport à l'accueil pour obtenir une carte magnétique, qui vous ouvre ensuite les portes sans avoir à justifier de votre identité à chaque couloir.*
+On le prend pour un gestionnaire de mots de passe. L'un stocke le mot de passe, l'autre confirme l'identité. L'un est un coffre-fort, l'autre un notaire.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
 
-**Quel est le principal avantage d'un fournisseur d'identité ?**
+**Réception:** Clé magnétique contre passeport.
+**Notaire :** Vérification d'identité.
+**Contrôle des passeports :** Passage par tampon.
 
-Il évite de disperser les mots de passe dans des dizaines de bases distinctes et simplifie l'expérience grâce au SSO.
+## Foire aux questions
 
-**Comment transmet-il les informations aux applications ?**
+**Est-ce sécuritaire?**
 
-Par l'émission de jetons chiffrés et signés (tokens JWT) attestant de l'identité vérifiée de l'utilisateur.
+Oui. Comme le mot de passe n'est pas diffusé à chaque application, la surface d'attaque est réduite.
 
-**Existe-t-il des IdP open source et auto-hébergeables ?**
+**Que se passe-t-il si le système tombe en panne ?**
 
-Oui, des solutions reconnues comme Keycloak, Authentik et Authelia permettent une maîtrise totale de ses identités.
+Les applications connectées sont affectées. La redondance et un plan d'accès d'urgence sont indispensables.
 
-**Que se passe-t-il en cas de panne de l'IdP ?**
+**Quelle est la différence avec le SSO ?**
 
-L'accès aux services connectés est bloqué ; la haute disponibilité et la mise en cache de jetons sont donc fondamentales.
+Le SSO est une expérience de connexion unique, c'est l'infrastructure du fournisseur. L'un est le visage, l'autre est la colonne vertébrale.
+
+**Puis-je l'installer moi-même ?**
+
+Oui, il existe des options open source. La discipline des correctifs et des sauvegardes vous incombe.
 
 ## Termes liés
 
-- [Cloud Computing](https://trescout.com/fr/dictionary/cloud-computing/)
-- [Endpoint](https://trescout.com/fr/dictionary/endpoint/)
-- [Application](https://trescout.com/fr/dictionary/application/)
+- [SSO](https://trescout.com/fr/dictionary/sso/)
+- [OIDC](https://trescout.com/fr/dictionary/oidc/)
+- [RBAC](https://trescout.com/fr/dictionary/rbac/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/identity-provider/)
 

@@ -2,62 +2,69 @@
 
 *Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
-> Öffentlich zugängliche Modellgewichte
-
-Open Weight bezeichnet KI-Modelle, deren trainierte Parametergewichte frei heruntergeladen werden können, sodass Entwickler das neuronale Netz auf eigener Hardware ausführen, quantisieren und anpassen können.
+Open Weight ist ein Modell der künstlichen Intelligenz, dessen Modelldateien für jedermann zugänglich sind.
 
 ## Definition und Wortherkunft
 
-Im Unterschied zu geschlossenen Cloud-APIs, die den Zugriff auf kostenpflichtige Token-Aufrufe beschränken, stellen Open-Weight-Modelle die rohen Tensordateien bereit. Dies ermöglicht volle Datenhoheit, Unabhängigkeit von externen Schnittstellen und verlustarme lokale Inferenz.
+Es werden numerische Werte geteilt, die als Gehirn des Modells gelten. Der Downloader installiert und führt es auf seinem eigenen Computer aus. Trainingsdaten müssen nicht offen sein, diese Unterscheidung ist entscheidend.
 
-## Alltägliche Anwendung und Praxis
+***Analogie:** Es ist, als würde man das Rezept und die Zutaten der Mahlzeit teilen und sie in jedermanns eigener Küche zubereiten.*
 
-**Lokale Inferenz auf Arbeitsplatzrechnern:** Ausführung quantisierter Sprachmodelle auf Laptops ohne ständige Internetverbindung.
-**Strikter Datenschutz:** Sensible Unternehmensdaten und Programmcode verlassen niemals das lokale Firmennetzwerk.
-**Kosteneffizienz bei hohen Volumina:** Ersetzung laufender API-Abonnements durch einmalig amortisierte Serverhardware.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+
+**Lokal:** Assistent ohne Internet.
+**Sonderprojekt:** Eigene Anpassung.
+**Forschung:** Basismodellexperiment.
 
 ## Technische Tiefe und Architektur
 
-Technische Funktionsweise von Open Weights:
+Dreieck:
 
-**Tensor-Formate:** Bereitstellung in modernen Safetensors- oder GGUF-Archiven mit 4-Bit- oder 8-Bit-Ganzzahlquantisierung.
-**Laufzeit-Engines:** Hochperformante Ausführung über Tools wie vLLM, Ollama, llama.cpp und TGI.
-**Ressourcenschonende Anpassung (PEFT):** Verhaltensoptimierung über leichtgewichtige LoRA-Adapter ohne Neuberechnung des Basismodells.
+**Gewicht:** Trainierte Dateien.
+**Code:** Betriebssoftware.
+**Daten:** Der Trainingssatz ist im Allgemeinen geschlossen.
 
-## Häufig verwechselt mit
+Beispiel herunterladen:
 
-Wird häufig mit vollwertiger Open-Source-KI verwechselt. Open Source verlangt die vollständige Offenlegung des Trainingscodes und der Datensätze; Open Weight stellt primär das fertige Zahlenwerk der trainierten Gewichte bereit.
+```
+git lfs install
+git clone https://huggingface.co/ornek/model
+```
 
-## Interdisziplinäre Perspektiven
+Lizenzhinweis: Apache und MIT sind kostenlos, Community-Lizenzen können Einschränkungen auferlegen. Man kann kein kommerzielles Unternehmen gründen, ohne den Text zu lesen.
 
-**Backen:** Einen fertigen Vorteig erhalten und im eigenen Ofen frisch ausbacken vs. ein verpacktes Brot im Supermarkt kaufen.
-**Software:** Eine native Binärdatei lokal installieren vs. eine Cloud-SaaS-Lösung im Browser mieten.
-**Musik:** Zugriff auf die Original-Tonspuren für ein Remix haben vs. einen Song über einen Streaming-Dienst anhören.
+## Häufig gemischte Dinge
 
-*Es gleicht dem Bereitstellen von Zutaten und Anleitung, sodass jeder das Gericht in seiner eigenen Küche frisch zubereiten und nachwürzen kann.*
+Es gilt als Open-Source-KI. Dazu gehört auch Code- und Prozesstransparenz, es geht lediglich darum, die endgültige Version zu teilen. Der Unterschied im Umfang bestimmt die Lizenz.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
 
-**Welche Möglichkeiten eröffnen offene Modellgewichte?**
+**Rezept:** Eine gemeinsame Mahlzeit mit ihren Zutaten.
+**Lehrbuch:** Die Quelle, die jeder liest.
+**Samen:** Gemeinsamer Vorfahren-Samen.
 
-Sie können Modelle auf eigenen Servern hosten, für Mobilgeräte optimieren, mit eigenen Daten nachtrainieren und offline nutzen.
+## Häufig gestellte Fragen
 
-**Worin liegt der Hauptvorteil gegenüber geschlossenen APIs?**
+**Was ist der Unterschied zu Open Source?**
 
-Vollständige Datenhoheit, Ausfallsicherheit ohne Internet und planbare Betriebskosten bei großen Anfragemengen.
+Open Source umfasst Daten und Prozesse, Open Weight teilt die endgültige Version. Der Umfang ist unterschiedlich.
 
-**Welche Hardware wird für gängige 8B-Modelle benötigt?**
+**Sind die Daten auch offen?**
 
-Ein handelsüblicher Rechner mit 16 GB Arbeitsspeicher oder eine Grafikkarte mit 8 bis 12 GB VRAM reicht für 4-Bit-Modelle völlig aus.
+Normalerweise nein. Das Gewicht liegt auf, das Trainingsset bleibt geschlossen.
 
-**Dürfen Open-Weight-Modelle kommerziell eingesetzt werden?**
+**Wird es kommerziell genutzt?**
 
-Die meisten modernen Modellfamilien (wie Llama, Mistral und Qwen) gestatten die kommerzielle Nutzung im Rahmen ihrer Lizenzbedingungen ausdrücklich.
+Es variiert je nach Lizenz. Apache und MIT können Community-Texte kostenlos lesen.
+
+**Wird Hardware benötigt?**
+
+Variiert je nach Modell. Die Kleinen laufen auf dem Laptop, die Großen auf dem Server.
 
 ## Verwandte Begriffe
 
-- [Open Source AI](https://trescout.com/de/dictionary/open-source-ai/)
-- [Foundation Model](https://trescout.com/de/dictionary/foundation-model/)
+- [Open Weights](https://trescout.com/de/dictionary/open-weights/)
+- [LLM](https://trescout.com/de/dictionary/llm/)
 - [SLM](https://trescout.com/de/dictionary/slm/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/open-weight/)

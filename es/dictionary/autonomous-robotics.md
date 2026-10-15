@@ -1,67 +1,65 @@
-# ¿Qué es la Robótica Autónoma?
+# ¿Qué es Autonomous Robotics?
 
 *Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
-> Robótica Autónoma
+La robótica autónoma es la ciencia de las máquinas que se desplazan sin asistencia.
 
-La robótica autónoma (**autonomous robotics**) es el campo interdisciplinario que diseña y construye máquinas capaces de percibir su entorno, planificar trayectorias y ejecutar tareas físicas sin intervención humana directa.
+## Definición y origen de la palabra
 
-## Definición y etimología
+Los robots ven con sensores, mapean y calculan rutas. Ejecutan comandos y cambian de estrategia según la situación. Generan soluciones ante la incertidumbre.
 
-Los robots autónomos capturan información del mundo real mediante sensores ópticos y de proximidad, generan modelos espaciales y determinan sus movimientos óptimos. Aplican instrucciones generales y ajustan sus maniobras de inmediato ante imprevistos u obstáculos móviles.
+***Analogía:** No es un coche teledirigido, es como un vehículo autónomo que encuentra su camino según el tráfico.*
 
-## Contexto cotidiano y uso práctico
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
 
-**Logística e Intralogística:** Vehículos de guiado automático (AGV) que desplazan mercancías en almacenes gigantescos.
-**Agricultura Inteligente:** Máquinas que detectan malezas y dosifican fertilizantes de forma autónoma.
-**Inspección y Defensa:** Vehículos no tripulados para exploración subterránea, marina o espacial.
+**Almacén:** Transporte entre estanterías.
+**Agricultura:** Seguimiento de hileras.
+**Exploración:** Escaneo de áreas peligrosas.
 
 ## Profundidad técnica y arquitectura
 
-Bloques de la Arquitectura de Control:
+Regiones:
 
-**Percepción Sensorial:** Sensores LiDAR, cámaras de profundidad, sonares y unidades de medición inercial (IMU).
-**Navegación SLAM:** Localización y mapeo simultáneos para orientarse sin depender de señales satelitales.
-**Planificación de Trayectorias:** Algoritmos cinemáticos que esquivan obstáculos en tiempo real.
-**Capa de Actuación:** Motores de precisión, servomecanismos y sistemas redundantes de frenado de seguridad.
+**Percepción:** Cámara, lidar y radar.
+**SLAM:** Localización y mapeo simultáneos.
+**Plan:** Ruta alrededor de obstáculos.
+**Supervisión:** Parada por error.
 
-El marco de trabajo ROS (Robot Operating System) proporciona los estándares de mensajería modular entre sensores, algoritmos de visión y controladores de potencia.
+ROS es el marco común. La inteligencia artificial procesa los datos de imagen y sensores, y alimenta el mecanismo de decisión.
 
-## Suele confundirse con
+## Cosas frecuentemente mezcladas
 
-Suele confundirse con robots industriales de cadena de montaje. Los brazos industriales ejecutan movimientos repetitivos preprogramados en jaulas de seguridad; los robots autónomos conviven con personas en entornos dinámicos y cambiantes.
+Se cree que es un robot programado. Este repite una ruta fija, aquel genera soluciones ante la incertidumbre. Uno es una cinta transportadora, el otro es un chófer.
 
-## Perspectivas interdisciplinares
+## Uso en diferentes disciplinas
 
-**Vehículo Autónomo:** Conducción inteligente adaptada al tráfico urbano.
-**Piloto Automático:** Mantenimiento de rumbo y altitud en aviación comercial.
-**Paloma Mensajera:** Orientación biológica innata hacia un punto geográfico sin ruta fija.
-
-*A diferencia de un coche teledirigido que depende de un mando en manos de una persona, un robot autónomo es como un vehículo sin conductor que decide su propia ruta esquivando baches y peatones.*
+**Vehículo autónomo:** Camino según el tráfico.
+**Piloto automático:** Mantenimiento de ruta.
+**Paloma mensajera:** Regreso al objetivo.
 
 ## Preguntas frecuentes
 
-**¿Pueden equivocarse los robots autónomos?**
+**¿No comete errores?**
 
-Sí. La niebla, el polvo o reflejos lumínicos anómalos pueden degradar la percepción, por lo que se emplean fusiones multisensoriales y algoritmos de validación cruzada.
+Los comete. Se apoya en una capa de seguridad y en el aprendizaje.
 
-**¿Cuáles son sus aplicaciones más consolidadas?**
+**¿Dónde se usa?**
 
-Los centros logísticos de comercio electrónico y la agricultura tecnificada encabezan la adopción masiva.
+En almacenes, agricultura y exploración. Destaca en tareas repetitivas y peligrosas.
 
-**¿Qué factores determinan su coste?**
+**¿Cuánto cuesta?**
 
-El coste del hardware sensorial (especialmente escáneres LiDAR) y los procesadores especializados de bajo consumo para procesamiento neuronal en el borde.
+Tiene un coste de sensores y software. Se paga a cambio de la ganancia en mano de obra.
 
-**¿En qué se distingue de un dron manejado por radiofrecuencia?**
+**¿Cuál es la diferencia con el que tiene control remoto?**
 
-El dron teledirigido sigue las órdenes milimétricas del piloto; el robot autónomo recibe la orden 've al punto B' y resuelve el trayecto por sí mismo.
+El que tiene control remoto está en manos humanas, el autónomo está a solas con su objetivo.
 
 ## Términos relacionados
 
-- [Introducción a la Robótica Autónoma](https://trescout.com/es/dictionary/autonomous-robots-intro/)
-- [IA Física](https://trescout.com/es/dictionary/physical-ai/)
-- [Modelos de Mundo](https://trescout.com/es/dictionary/world-model/)
+- [Introduction to Autonomous Robots](https://trescout.com/es/dictionary/autonomous-robots-intro/)
+- [Physical AI](https://trescout.com/es/dictionary/physical-ai/)
+- [World Models](https://trescout.com/es/dictionary/world-model/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/autonomous-robotics/)
 

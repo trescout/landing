@@ -2,63 +2,71 @@
 
 *Künstliche Intelligenz · Zuletzt aktualisiert: 22. September 2026*
 
-> Autonome organisatorische Ausführungsschicht
-
-OpenExecutive ist eine quelloffene Orchestrierungsschicht für KI-Agenten, die Unternehmensprozesse automatisiert, operative Ziele überwacht und verteilte Arbeitsabläufe koordiniert.
+OpenExecutive ist eine Open-Source-Verwaltungsschicht, die Unternehmensprozesse automatisiert.
 
 ## Definition und Wortherkunft
 
-Als Bindeglied zwischen strategischen Vorgaben und technischer Umsetzung fungiert OpenExecutive wie ein Betriebssystem für digitale Organisationen. Es vernetzt autonome Software-Agenten mit Versionsverwaltungen, Datenbanken und Ticketsystemen.
+„Offen“ bedeutet offen und „exekutiv“ bedeutet Administrator. Es bindet Entscheidungs-, Berichts- und Betriebsabläufe an Regeln. Es nimmt die Routinelast und überlässt die strategische Entscheidung den Menschen.
 
-## Alltägliche Anwendung und Praxis
+***Analogie:** Es ist wie ein digitaler Assistent, der Abteilungen sofortige Daten bereitstellt und den Betrieb überwacht.*
 
-**Sprint- und Aufgabenorchestrierung:** Automatische Überführung strategischer Quartalsziele in konkrete GitHub-Issues und technische Meilensteine.
-**Kontinuierliche Betriebs-Audits:** Permanente Überwachung von Cloud-Budgets und Systemgesundheit im laufenden Betrieb.
-**Kompakte Management-Briefings:** Zusammenfassung verstreuter Telemetriedaten zu präzisen Entscheidungsgrundlagen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+
+**Bericht:** Automatische Zusammenfassung und Verteilung.
+**Genehmigung:** Routing nach Regel.
+**Überwachung:** Abweichungswarnung.
 
 ## Technische Tiefe und Architektur
 
-Architektur und Systemaufbau:
+Schicht:
 
-**Agenten-Workflow-Engine:** Zustandsmaschine zur Steuerung asynchroner Zusammenarbeit zwischen spezialisierten Software-Agenten.
-**Unternehmens-Schnittstellen:** Standardisierte Adapter für Git-Repositories, Slack, CRM-Datenbanken und Cloud-Infrastrukturen.
-**Eskalations- und Kontrollschleifen:** Menschliche Prüfpunkte (Human-in-the-Loop) für risikobehaftete administrative oder finanzielle Aktionen.
+**Datenverbindung:** Zugriff auf Quellsysteme.
+**Regel-Engine:** Schwellenwert- und Bedingungsdefinition.
+**Aktion:** Benachrichtigung, Aufzeichnung und Auslösung.
+**Menschliche Zustimmung:** Bleiben Sie nicht beim entscheidenden Schritt stehen.
 
-## Häufig verwechselt mit
+Beispielregel:
 
-Wird häufig mit gewöhnlichen Projektmanagement-Tools (Jira, Linear) verwechselt. Klassische Systeme verwalten Aufgaben rein passiv; OpenExecutive delegiert, überwacht und erledigt Aufgaben aktiv durch KI-gestützte Code-Agenten.
+```
+kural: stok < 10 → satınalma talebi aç
+sahip: operasyon müdürü
+```
 
-## Interdisziplinäre Perspektiven
+Regel: Automatisierung empfiehlt, Verantwortlichkeit bestätigt. Die Signatur liegt im Menschen.
 
-**Luftfahrt:** Ein Autopilot-System, das Steuerflächen laufend korrigiert vs. das manuelle Durchblättern eines Flughandbuchs.
-**Produktion:** Eine automatisierte Fertigungsstraße mit Sensorüberwachung vs. handschriftliche Klemmbrett-Listen in der Fabrikhalle.
-**Logistik:** Ein autonomes Warenwirtschaftssystem mit automatischer Nachbestellung vs. manuelle Lagerbestandszählungen.
+## Häufig gemischte Dinge
 
-*Er agiert wie ein digitaler Stabschef: Er koordiniert Abteilungen rund um die Uhr, liefert Echtzeitdaten und stellt sicher, dass Beschlüsse planmäßig umgesetzt werden.*
+Es wird mit einem Chatbot verwechselt. Der Bot antwortet, diese Ebene wird in den Prozess eingebettet. Das eine ist das Fenster, das andere die Sanitäranlagen.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
 
-**Welche Kernaufgabe erfüllt OpenExecutive?**
+**Helfer:** Unterstützen Sie bei der Durchführung von Routinearbeiten.
+**Autopilot:** Ein System, das den Kurs hält.
+**Sekretariat:** Reihenfolge des Dokumentenflusses.
 
-Die lückenlose Übersetzung übergeordneter Unternehmensstrategien in automatisierte, programmatisch ausgeführte Arbeitsschritte.
+## Häufig gestellte Fragen
 
-**Wie erfolgt die Anbindung an bestehende Software?**
+**Ersetzt es den Manager?**
 
-Über REST- und GraphQL-Schnittstellen zu Plattformen wie GitHub, Datenbanken und internen Kommunikationskanälen.
+Nein. Die Routine nimmt die Arbeit, die strategische Entscheidung bleibt bei der Person.
 
-**Werden menschliche Führungskräfte überflüssig?**
+**Wie wird die Datensicherheit gewährleistet?**
 
-Nein, die Plattform entlastet Führungskräfte von Koordinationsroutinen, damit mehr Zeit für Strategie und Teamführung bleibt.
+Der Zugriffsbereich wird eng gehalten, der kritische Schritt wird genehmigt. Es wird ein Prüfprotokoll geführt.
 
-**Kann die Plattform selbst betrieben werden?**
+**Wo soll ich anfangen?**
 
-Ja, die Software ist vollständig quelloffen und auf sicheres On-Premises-Hosting ausgelegt.
+Mit einem einzigen wiederholten Vorgang. Es wird abgemessen und dann ausgebreitet.
+
+**Was ist der Vorteil von Open Source?**
+
+Es ist die Freiheit zu kontrollieren und anzupassen. Sie sind für das Hosting verantwortlich.
 
 ## Verwandte Begriffe
 
 - [AI Agent](https://trescout.com/de/dictionary/ai-agent/)
-- [Application](https://trescout.com/de/dictionary/application/)
-- [Deterministische Pipelines](https://trescout.com/de/dictionary/deterministic-pipelines/)
+- [Enterprise Resource Planning](https://trescout.com/de/dictionary/enterprise-resource-planning/)
+- [Agentic System](https://trescout.com/de/dictionary/agentic-system/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/openexecutive/)
 

@@ -1,64 +1,71 @@
-# O que é um Identity Provider?
+# O que é Identity Provider?
 
 *Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
-> Provedor de Identidade Digital
+Identity provider (provedor de identidade), é o serviço central que valida os logins.
 
-Um Identity Provider (IdP / Provedor de Identidade) é um sistema centralizado de autenticação que cria, gerencia e valida identidades de usuários em múltiplos aplicativos e serviços.
+## Definição e origem da palavra
 
-## Definição e etimologia
+Em vez de uma senha separada para cada aplicativo, o login é feito a partir de um único centro. O aplicativo pergunta ao serviço quem você é e recebe a confirmação. Sua senha não é distribuída para os aplicativos, ela permanece no centro.
 
-Na engenharia de software contemporânea, cada aplicação não deve guardar senhas de forma isolada. O IdP desacopla a segurança da lógica de negócios, permitindo que o usuário faça login uma única vez (Single Sign-On / SSO) para acessar todos os sistemas autorizados.
+***Analogia:** É semelhante a mostrar o passaporte na recepção do hotel para receber um cartão-chave; a porta do quarto confia na aprovação da recepção.*
 
-## Contexto cotidiano e uso prático
+## Como conhecer e usar no dia a dia?
 
-**Login Social:** Botões de 'Entrar com Google ou Apple' encontrados em sites e aplicativos móveis.
-**Gestão Corporativa:** Controle unificado de acessos e políticas de MFA em empresas com Okta ou Azure AD.
-**Serviços Auto-hospedados:** Instalação de servidores Keycloak e Authentik para proteger microsserviços internos.
+**Empresa:** Todos os sistemas com um único login.
+**Web:** Login com conta social.
+**Institucional:** Ciclo de vida do funcionário.
 
-## Profundidade técnica e arquitetura
+## Profundidade Técnica e Arquitetura
 
-Protocolos e Padrões Arquiteturais:
+Fluxo:
 
-**OpenID Connect (OIDC):** Camada de identidade construída sobre OAuth 2.0 que emite tokens JSON Web Token (JWT) assinados.
-**SAML 2.0:** Padrão federado baseado em XML muito empregado em infraestruturas legadas corporativas.
-**Múltiplo Fator (MFA):** Exigência de chaves de hardware FIDO2, biometria e aplicativos de códigos temporais (TOTP).
+```
+giriş → doğrulama → jeton → uygulama
+```
 
-## Costuma ser confundido com
+Peças:
 
-Frequentemente confundido com um Service Provider (SP) ou servidor de autorização. O IdP responde 'Quem é você?' (autenticação); o servidor de recursos decide 'O que você tem permissão para fazer?' (autorização).
+**Token de identidade:** O documento de quem você é.
+**Token de acesso:** A permissão do que você pode fazer.
+**MFA:** Segundo fator de prova além da senha.
+**Sessão:** Single Sign-On (SSO).
 
-## Perspectivas interdisciplinares
+Regra: O tempo do token é mantido curto, a renovação ocorre em segundo plano.
 
-**Diplomacia:** O cartório emitindo o passaporte cidadão vs fiscais de fronteira checando o visto de permanência.
-**Hotelaria:** A recepção conferindo documentos e emitindo a chave magnética vs a fechadura eletrônica do quarto.
-**Segurança:** O crachá emitido pela portaria central vs catracas de departamentos específicos.
+## Coisas frequentemente misturadas
 
-*É comparável à recepção de um hotel: você valida sua identidade uma única vez no balcão, ganha um cartão magnético codificado e entra no seu quarto sem precisar mostrar o passaporte a cada porta.*
+É confundido com um gerenciador de senhas. Ele armazena a senha, este confirma a identidade. Um é um cofre, o outro é um tabelião.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
 
-**Por que adotar um Identity Provider?**
+**Recepção:** Passaporte versus cartão-chave.
+**Tabelião:** Autenticação de identidade.
+**Controle de passaporte:** Passagem com carimbo.
 
-Reduz drasticamente os riscos de vazamento de senhas, centraliza revogações de acesso e oferece login único (SSO).
+## Perguntas Frequentes
 
-**Como o IdP avisa a aplicação que o usuário é legítimo?**
+**É seguro?**
 
-Ele envia um token criptográfico assinado contendo dados verificados (claims) do usuário.
+Sim. Como a senha não é distribuída para cada aplicativo, a superfície de ataque diminui.
 
-**Posso manter meu próprio IdP no meu servidor?**
+**O que acontece se o sistema travar?**
 
-Sim, ferramentas abertas como Keycloak, Authentik e Authelia oferecem controle completo de dados on-premises.
+Os aplicativos conectados são afetados. A redundância e um plano de acesso de emergência são essenciais.
 
-**O que ocorre se o IdP sair do ar?**
+**Qual é a diferença do SSO?**
 
-Novos acessos são impedidos; redundância, balanceamento de carga e caches de token são vitais.
+SSO é uma experiência de login único, é a infraestrutura do provedor. Um é o rosto, o outro é a espinha dorsal.
+
+**Posso configurar eu mesmo?**
+
+Sim, existem opções de código aberto. A disciplina de patches e backups é de sua responsabilidade.
 
 ## Termos relacionados
 
-- [Cloud Computing](https://trescout.com/pt/dictionary/cloud-computing/)
-- [Endpoint](https://trescout.com/pt/dictionary/endpoint/)
-- [Application](https://trescout.com/pt/dictionary/application/)
+- [SSO](https://trescout.com/pt/dictionary/sso/)
+- [OIDC](https://trescout.com/pt/dictionary/oidc/)
+- [RBAC](https://trescout.com/pt/dictionary/rbac/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/identity-provider/)
 

@@ -1,67 +1,67 @@
-# Qu'est-ce que l'AGI ?
+# Qu'est-ce que AGI ?
 
 *Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
-> Intelligence Artificielle Générale
+> Artificial General Intelligence
 
-L'AGI (**Artificial General Intelligence**, intelligence artificielle générale) désigne une IA hypothétique capable d'égaler ou de dépasser l'intelligence humaine dans toutes les tâches intellectuelles.
+L'AGI (Artificial General Intelligence, intelligence artificielle générale) est une intelligence ciblée capable d'accomplir n'importe quelle tâche intellectuelle au niveau humain.
 
-## Définition et étymologie
+## Définition et origine du mot
 
-Alors que les modèles actuels sont des spécialistes étroits cantonnés à des domaines précis, l'AGI est polyvalente : elle apprend dans des domaines inconnus, change de stratégie et transfère ses compétences sans reprogrammation. Elle constitue l'horizon ultime de la recherche en IA.
+Les modèles actuels sont des spécialistes étroits, l'AGI est polyvalente : elle apprend dans des domaines inconnus et change de stratégie. L'horizon des recherches dépasse encore celui des produits.
 
-## Usage quotidien et contexte pratique
+***Analogie :** C'est comme une intelligence qui cuisine et écrit de la poésie, plutôt qu'un maître d'échecs.*
 
-**Recherche de pointe :** L'objectif ultime guidant les feuilles de route des laboratoires d'IA.
-**Politique et gouvernance :** Le cœur des débats réglementaires, des traités de sécurité et des normes d'alignement.
-**Éducation :** Une réflexion philosophique sur les compétences humaines indispensables à l'ère autonome.
+## Comment connaître et utiliser dans la vie quotidienne ?
+
+**Recherche:** Objectif de la feuille de route.
+**Politique :** Débat sur la réglementation.
+**Éducation:** Philosophie du programme.
 
 ## Profondeur technique et architecture
 
-Distinctions architecturales fondamentales :
+Distinctions :
 
-**IA étroite :** Excellence confinée à une tâche unique (traduction, diagnostic médical, échecs).
-**IA générale :** Transfert autonome de connaissances entre disciplines disparates.
-**Critère de validation :** Seuil d'expertise sans assistance dans des environnements nouveaux.
+**Étroit :** Expert dans une seule tâche.
+**Général :** Transfert entre les tâches.
+**Critère :** Seuil d'expertise dans un nouveau domaine.
 
-La trajectoire technique associe modèles de fondation massifs, boucles d'agents autonomes et apprentissage par renforcement avec rétroaction vérifiable.
+La voie : le grand modèle, la boucle d'agent et l'apprentissage par rétroaction fusionnent. L'estimation du calendrier est une spéculation, le débat sur les critères est réel.
 
-## Souvent confondu avec
+## Choses fréquemment mélangées
 
-Souvent confondue avec les grands modèles de langage (LLM). Les LLM actuels sont des experts étroits prédisant des jetons ; l'AGI est un objectif systémique global. L'un est un athlète d'exception, l'autre est l'idéal olympique complet.
+Les modèles de langage sont présumés. Ce sont des experts étroits, alors que l'objectif est général. L'un est un athlète, l'autre est un rêve olympique.
 
-## Perspectives interdisciplinaires
+## Utilisation dans différentes disciplines
 
-**Maître d'échecs :** Maîtrise parfaite d'un jeu déterministe.
-**Chef cuisinier :** Intuition pratique et gestion globale d'une cuisine.
-**Poète :** Sensibilité et créativité linguistique globale.
+**Échecs :** Maître d'un seul jeu.
+**Cuisinier :** Cuisine générale.
+**Poète :** Langage général.
 
-*Au lieu d'un logiciel qui ne sait que jouer aux échecs, imaginez un esprit capable à la fois de cuisiner, d'écrire des poèmes et de concevoir des microprocesseurs.*
+## Foire aux questions
 
-## Questions fréquentes
+**Comment le comprendre ?**
 
-**Comment reconnaîtra-t-on l'avènement de l'AGI ?**
+On s'en approche lorsqu'il démontre une expertise sans aide dans un nouveau domaine.
 
-L'AGI sera atteinte lorsqu'un système autonome démontrera une expertise de niveau supérieur sans aide humaine dans des disciplines scientifiques et pratiques totalement inédites.
+**Est-ce dangereux ?**
 
-**L'AGI est-elle intrinsèquement dangereuse ?**
+La vérifiabilité est controversée. La recherche en sécurité l'accompagne.
 
-L'alignement des valeurs et la contrôlabilité font l'objet de vifs débats éthiques et scientifiques ; la recherche en sécurité doit impérativement précéder l'autonomie.
+**Quand cela arrivera-t-il ?**
 
-**Quand l'AGI verra-t-elle le jour ?**
+C'est inconnu. Les prévisions sont dispersées, les critères sont clairs.
 
-Les prévisions des chercheurs varient de quelques années à plusieurs décennies ; les échéances restent incertaines, mais les métriques de mesure sont précises.
+**Cela terminera-t-il le travail ?**
 
-**Remplacera-t-elle le travail humain ?**
-
-Elle le transformera en profondeur. Les tâches cognitives répétitives s'effacent, laissant la supervision stratégique, la créativité et le jugement éthique aux humains.
+Cela transforme. La routine fond, le contrôle et la créativité demeurent.
 
 ## Termes liés
 
 - [World Model](https://trescout.com/fr/dictionary/world-model/)
 - [AI Agent](https://trescout.com/fr/dictionary/ai-agent/)
 - [Foundation Model](https://trescout.com/fr/dictionary/foundation-model/)
-- [Intelligence Artificielle](https://trescout.com/fr/dictionary/artificial-intelligence/)
+- [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agi/)
 

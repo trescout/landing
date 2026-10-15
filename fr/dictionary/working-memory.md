@@ -1,67 +1,65 @@
-# Qu'est-ce que la Working Memory en IA ?
+# Qu'est-ce que Working Memory ?
 
 *Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
-> Anglais : Working Memory · Étymologie : vieil anglais weorc (travail) + latin memoria (mémoire)
+La mémoire de travail, ou çalışma belleği en turc, est l'information temporaire que le modèle conserve pour la tâche en cours.
 
-La working memory (mémoire de travail) en intelligence artificielle désigne l'ensemble des informations temporaires et actives conservées dans la fenêtre de contexte d'un modèle pour mener à bien un raisonnement ou une tâche en cours.
+## Définition et origine du mot
 
-## Définition et étymologie
+Une fois la tâche terminée ou le contexte modifié, le contenu est effacé. Le conteneur de la fenêtre de contexte est l'information active au sein de la mémoire de travail. L'historique des discussions et les résultats intermédiaires s'y trouvent.
 
-Elle représente l'établi temporaire du modèle : une fois la tâche achevée ou la session réinitialisée, ce brouillon de travail s'efface. La fenêtre de contexte sert de contenant physique, tandis que les données et jetons qui y sont injectés constituent la mémoire active du calcul.
+***Analogie :** C'est comme des notes temporaires prises sur le côté lors de la résolution de maths ; une fois le problème résolu, elles n'ont plus d'importance.*
 
-## Usage quotidien et contexte pratique
+## Comment connaître et utiliser dans la vie quotidienne ?
 
-Fonctions principales de la mémoire de travail :
-
-- **Continuité du dialogue :** Retenir les questions et réponses précédentes au fil d'une conversation.
-- **Brouillon de raisonnement :** Conserver les étapes intermédiaires lors d'un prompt guidé pas à pas (Chain-of-Thought).
-- **Coordination d'outils :** Stocker temporairement les réponses d'API avant de rédiger la réponse finale.
+**Discussion :** Mémorisation des messages précédents.
+**Raisonnement :** Conservation des étapes intermédiaires.
+**Véhicule :** Mise en attente des résultats d'appel.
 
 ## Profondeur technique et architecture
 
-Gestion du budget de jetons (tokens) :
+Calcul du budget :
 
-- **Capacité maximale :** Sur une fenêtre de 128 000 jetons, si l'historique en occupe 100 000, il ne reste que 28 000 jetons pour réfléchir et répondre.
-- **Cache KV (Key-Value) :** Les modèles de type Transformer conservent en mémoire GPU les représentations des jetons passés pour accélérer la génération.
-- **Stratégies d'éviction :** Lorsque la limite approche, le système résume les messages anciens pour libérer de l'espace.
+```
+bağlam: 128K token
+geçmiş: 100K → kalan 28K
+```
 
-## Souvent confondu avec
+En cas de dépassement, le modèle dit adieu à l'ancien : un élagage, un résumé ou un défilement est appliqué. Différence RAG : Le RAG apporte des informations de l'extérieur, tandis que la mémoire de travail conserve l'information instantanée. Les deux fonctionnent ensemble.
 
-On la confond souvent avec la mémoire à long terme. La mémoire à long terme est une base de données persistante (comme un profil utilisateur). La mémoire de travail est la mémoire vive temporaire qui disparaît dès la fermeture de la session.
+## Choses fréquemment mélangées
 
-## Perspectives interdisciplinaires
+On la prend à tort pour une mémoire à long terme. Celle-ci est le profil permanent, alors que celle-là est l'établi temporaire. Lorsque la session se ferme, cet espace se vide.
 
-Analogies dans d'autres domaines :
+## Utilisation dans différentes disciplines
 
-- **Mathématiques :** La feuille de brouillon où l'on pose ses calculs intermédiaires avant de la jeter.
-- **Menuiserie :** L'établi sur lequel on dépose ses outils pendant la fabrication, rangé en fin de journée.
-- **Informatique :** La mémoire vive (RAM) par rapport au disque dur de stockage permanent.
+**Remarque :** Le brouillon jeté une fois le problème résolu.
+**Rester:** L'outil rangé une fois le travail terminé.
+**RAM :** La zone effacée lorsque l'alimentation est coupée.
 
-*C'est comme une feuille de brouillon sur laquelle on note des calculs intermédiaires pour résoudre un problème de géométrie : une fois le résultat trouvé, on jette le brouillon.*
+## Foire aux questions
 
-## Questions fréquentes
+**Que se passe-t-il si elle est saturée ?**
 
-**Que se passe-t-il lorsque la mémoire de travail d'une IA est saturée ?**
+Les anciennes informations sont oubliées, le contexte glisse. Géré par la synthèse et l'élagage.
 
-Elle doit supprimer les échanges les plus anciens, synthétiser l'historique ou risquer d'oublier le début de la consigne.
+**Comment l'agrandir ?**
 
-**Quelle est la différence entre mémoire de travail et poids du modèle ?**
+On choisit un modèle à grande fenêtre ou on ajoute des informations externes avec le RAG.
 
-Les poids représentent les connaissances permanentes apprises lors de l'entraînement ; la mémoire de travail est le texte passager injecté dans l'invite.
+**Quelle est la différence du RAG ?**
 
-**Peut-on agrandir la mémoire de travail indéfiniment ?**
+Le RAG apporte des éléments de l'extérieur, la mémoire retient le moment présent. Les deux sont complémentaires.
 
-Non, car les coûts de calcul augmentent rapidement et le modèle risque de perdre de sa précision au milieu de contextes trop longs.
+**Oublie-t-il ?**
 
-**À quoi sert le cache KV ?**
-
-Il évite de recalculer l'attention des jetons précédents à chaque nouveau mot produit, divisant le temps de réponse par dix.
+Oui. C'est un espace temporaire, la persistance n'est pas attendue. Les informations permanentes sont écrites à l'extérieur.
 
 ## Termes liés
 
 - [Memory](https://trescout.com/fr/dictionary/memory/)
 - [Context Window](https://trescout.com/fr/dictionary/context-window/)
+- [Long-term Memory](https://trescout.com/fr/dictionary/long-term-memory/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/working-memory/)
 

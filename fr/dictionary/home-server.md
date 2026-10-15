@@ -1,64 +1,72 @@
-# Qu'est-ce qu'un Home Server ?
+# Qu'est-ce que Home Server ?
 
 *Développement · Dernière mise à jour : 22 septembre 2026*
 
-> Serveur Domestique Personnel
+Un serveur domestique (ou home server en anglais) est un serveur personnel qui fonctionne en permanence à la maison.
 
-Un home server (serveur domestique) est un ordinateur connecté en continu au réseau local d'un foyer pour héberger des sauvegardes, des bibliothèques multimédias et des services auto-hébergés.
+## Définition et origine du mot
 
-## Définition et étymologie
+Home signifie maison. Votre propre cloud est configuré, les fichiers sont sauvegardés, les médias sont gérés. Il est motivé par l'affranchissement des abonnements et le contrôle total.
 
-Le serveur domestique incarne le principe de souveraineté numérique et de priorité au local. Au lieu de confier l'intégralité de sa vie numérique à des serveurs cloud distants, l'utilisateur conserve la propriété et le contrôle physique de ses données.
+***Analogie :** Il est comme le bibliothécaire de la maison qui organise et présente les biens numériques.*
 
-## Usage quotidien et contexte pratique
+## Comment connaître et utiliser dans la vie quotidienne ?
 
-**Diffusion multimédia :** Hébergement d'un catalogue personnel de films et de musique via Jellyfin sans abonnement.
-**Sauvegardes automatisées :** Sauvegardes régulières de tous les ordinateurs et téléphones de la maison.
-**Domotique résiliente :** Exécution de Home Assistant sans aucune dépendance envers une connexion Internet externe.
+**Médias :** Archive de films et de musique.
+**Sauvegarde :** Photos de famille.
+**Automatisation :** Appareils domestiques.
 
 ## Profondeur technique et architecture
 
-Architecture matérielle et logicielle :
+Installation:
 
-**Matériel :** Mini-PC compacts basse consommation, anciens ordinateurs de bureau reconditionnés ou monocartes ARM.
-**Système d'exploitation :** Debian, Ubuntu Server ou hyperviseurs de virtualisation comme Proxmox VE.
-**Conteneurisation :** Déploiement isolé des services avec Docker et routage par proxy inverse (Caddy, Traefik).
+**Matériel :** Ancien PC, mini-appareil ou NAS.
+**Système :** Distribution Linux légère.
+**Service:** Gestion par conteneurs.
+**Accéder:** Tunnel sécurisé.
 
-## Souvent confondu avec
+Services :
 
-Souvent confondu avec un simple boîtier NAS grand public. Si le NAS se limite souvent au stockage réseau basique (SMB), le serveur domestique exécute des bases de données et des applications complètes.
+```
+docker ps --format "table {{.Names}}	{{.Status}}"
+```
 
-## Perspectives interdisciplinaires
+Règle : La sauvegarde est également conservée hors de la maison. Une seule copie ne suffit pas.
 
-**Culture :** Une bibliothèque personnelle chez soi plutôt que la location de livres à l'extérieur.
-**Énergie :** Des panneaux solaires sur le toit face à la dépendance exclusive au réseau électrique général.
-**Logistique :** Un cellier familial privé face aux livraisons quotidiennes à flux tendu.
+## Choses fréquemment mélangées
 
-*Il agit comme un bibliothécaire et archiviste privé à domicile, gérant vos archives numériques et vos services multimédias.*
+On le confond avec un ordinateur de bureau. Celui-ci s'allume de temps en temps, celui-là fonctionne 24h/24 et 7j/7. L'un est un bureau de travail, l'autre est de garde.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
 
-**Quelle est la consommation électrique d'un serveur domestique ?**
+**Préposé :** L'assistant qui maintient l'ordre.
+**Archive:** Salle des archives.
+**Garde-manger :** Entrepôt de stock.
 
-Les mini-PC modernes consomment généralement entre 5 et 15 watts au repos, pour un coût électrique mensuel minime.
+## Foire aux questions
 
-**Peut-on y accéder de l'extérieur en toute sécurité ?**
+**Pourquoi faut-il un serveur ?**
 
-Oui, grâce à des VPN chiffrés modernes comme WireGuard ou Tailscale sans ouvrir de ports vulnérables sur votre box.
+Pour le contrôle et pour s'affranchir des abonnements. Les données restent à la maison.
 
-**Quel système choisir pour débuter ?**
+**Consomme-t-il de l'électricité ?**
 
-Ubuntu Server avec Docker, ou des environnements prêts à l'emploi comme CasaOS ou TrueNAS.
+Un petit appareil en consomme peu. C'est suivi par des mesures.
 
-**Faut-il du matériel professionnel coûteux ?**
+**Internet est-il nécessaire ?**
 
-Non, un ordinateur reconditionné ou un mini-PC silencieux convient parfaitement pour la grande majorité des usages.
+Non en réseau domestique, oui pour l'accès externe. Le tunnel est configuré de manière sécurisée.
+
+**Est-ce sécuritaire?**
+
+Oui, avec des mises à jour et une discipline en matière de mots de passe. Les ports exposés vers l'extérieur sont contrôlés.
 
 ## Termes liés
 
-- [Auto-hébergement](https://trescout.com/fr/dictionary/self-hosted/)
-- [Domotique](https://trescout.com/fr/dictionary/home-automation/)
-- [Cloud Personnel](https://trescout.com/fr/dictionary/personal-cloud/)
+- [Self-hosting](https://trescout.com/fr/dictionary/self-hosting/)
+- [NAS](https://trescout.com/fr/dictionary/nas/)
+- [Personal Cloud](https://trescout.com/fr/dictionary/personal-cloud/)
+- [Backup Program](https://trescout.com/fr/dictionary/backup-program/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/home-server/)
 

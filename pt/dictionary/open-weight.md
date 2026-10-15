@@ -2,62 +2,69 @@
 
 *Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
-> Pesos de Modelo Publicamente Acessíveis
+O peso aberto é um modelo de inteligência artificial cujos arquivos de modelo estão abertos a todos.
 
-Open weight refere-se a modelos de IA cujos pesos de parâmetros treinados estão disponíveis para download público, permitindo que desenvolvedores rodem, quantizem e façam fine-tuning em hardware próprio.
+## Definição e origem da palavra
 
-## Definição e etimologia
+Os valores numéricos, considerados o cérebro do modelo, são compartilhados. O downloader instala e executa em seu próprio computador. Os dados de treinamento não precisam ser abertos; esta distinção é crítica.
 
-Diferente das plataformas proprietárias fechadas que operam apenas sob cobrança por requisição, os modelos open weight liberam a estrutura neural diretamente para o desenvolvedor. Isso assegura privacidade absoluta e elimina intermediários.
+***Analogia:** É como compartilhar a receita e os ingredientes da refeição e prepará-la na cozinha de cada um.*
 
-## Contexto cotidiano e uso prático
+## Como conhecer e usar no dia a dia?
 
-**Execução Local em Dispositivos:** Carregamento de modelos quantizados em notebooks de trabalho sem depender de acesso à internet.
-**Privacidade Total de Dados:** Garantia de que segredos comerciais e registros pessoais não serão transmitidos para servidores remotos.
-**Independência de Custos:** Substituição de faturas recorrentes de API por infraestrutura própria amortizada.
+**Local:** Assistente sem internet.
+**Projeto especial:** Personalização interna.
+**Pesquisar:** Experimento de modelo básico.
 
-## Profundidade técnica e arquitetura
+## Profundidade Técnica e Arquitetura
 
-Estrutura Técnica dos Pesos Abertos:
+Triângulo:
 
-**Formatos de Arquivo:** Pacotes disponibilizados em Safetensors ou contêineres GGUF com precisão em FP16 ou quantização INT4/INT8.
-**Runtimes de Incorrência:** Aceleração em servidores corporativos através de vLLM, Ollama e llama.cpp.
-**Ajuste Fino Eficiente (LoRA):** Treinamento de adaptadores leves para tarefas específicas sem alterar os pesos fundamentais do modelo.
+**Peso:** Arquivos treinados.
+**Código:** Software operacional.
+**Dados:** O conjunto de treinamento geralmente é fechado.
 
-## Costuma ser confundido com
+Baixe exemplo:
 
-Frequentemente confundido com código aberto completo. O open source estrito inclui o código de treino e a base de dados; o open weight distribui os parâmetros matemáticos consolidados para uso imediato.
+```
+git lfs install
+git clone https://huggingface.co/ornek/model
+```
 
-## Perspectivas interdisciplinares
+Nota sobre licença: Apache e MIT são gratuitos, licenças comunitárias podem impor limites. Não se pode iniciar um negócio comercial sem ler o texto.
 
-**Padaria:** Ter a massa preparada para assar no próprio forno vs comprar o pão pronto embalado.
-**Computação:** Instalar um programa compilado no disco local vs usar um site de ferramentas online.
-**Música:** Ter acesso aos canais de áudio isolados para remixar vs ouvir uma música compactada em streaming.
+## Coisas frequentemente misturadas
 
-*É equivalente a fornecer os ingredientes e instruções de preparo para que cada pessoa possa cozinhar a receita na sua própria casa com total liberdade.*
+É considerada IA ​​de código aberto. Isso inclui transparência de código e processo, é apenas compartilhar a versão final. A diferença no escopo determina a licença.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
 
-**O que é possível fazer com os pesos de um modelo aberto?**
+**Receita:** Uma refeição partilhada com os seus ingredientes.
+**Livro didático:** A fonte que todos lêem.
+**Semente:** Semente ancestral compartilhada.
 
-Você pode hospedar o modelo no seu servidor, convertê-lo para rodar em celulares, aplicar ajustes finos e utilizá-lo sem internet.
+## Perguntas Frequentes
 
-**Qual a vantagem frente a serviços como o ChatGPT?**
+**Qual é a diferença com código aberto?**
 
-Privacidade incondicional, previsibilidade de custos e controle total sobre as versões e respostas do modelo.
+Open Source inclui dados e processos, o peso aberto compartilha a versão final. O escopo é diferente.
 
-**Qual configuração de máquina é necessária para modelos 7B ou 8B?**
+**Os dados também estão abertos?**
 
-Um computador com 16 GB de RAM ou placa de vídeo de 8 GB roda com tranquilidade modelos comprimidos em 4 bits.
+Geralmente não. O peso está colocado, o conjunto de treinamento permanece fechado.
 
-**Posso usar em produtos comerciais?**
+**É usado comercialmente?**
 
-Sim, as licenças dos principais modelos (Llama, Mistral, Qwen) autorizam expressamente o uso comercial na maioria dos cenários.
+Varia dependendo da licença. Apache e MIT são livres para ler textos da comunidade.
+
+**É necessário hardware?**
+
+Varia dependendo do modelo. Os pequenos rodam no laptop, os grandes no servidor.
 
 ## Termos relacionados
 
-- [Open Source AI](https://trescout.com/pt/dictionary/open-source-ai/)
-- [Foundation Model](https://trescout.com/pt/dictionary/foundation-model/)
+- [Open Weights](https://trescout.com/pt/dictionary/open-weights/)
+- [LLM](https://trescout.com/pt/dictionary/llm/)
 - [SLM](https://trescout.com/pt/dictionary/slm/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-weight/)

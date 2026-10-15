@@ -2,63 +2,65 @@
 
 *Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
-> Reconhecimento de Voz no Próprio Dispositivo
+> On-device Speech-to-Text
 
-On-device STT (Speech-to-Text no dispositivo) refere-se ao reconhecimento de fala que processa e converte áudio em texto diretamente no hardware do usuário, sem trafegar gravações sonoras para servidores em nuvem.
+On-device STT (reconhecimento de fala no dispositivo) é a conversão de áudio em texto diretamente no dispositivo.
 
-## Definição e etimologia
+## Definição e origem da palavra
 
-Motivado pela proteção de dados e pela necessidade de digitação sem atrasos, o STT local processa ondas sonoras diretamente em NPUs e aceleradores neurais locais. O áudio do microfone nunca é transmitido pela internet.
+"On-device" significa no dispositivo. O modelo funciona localmente sem ir para a nuvem. A privacidade é protegida e não há interrupções. É como um tradutor que carrega o dicionário na própria cabeça.
 
-## Contexto cotidiano e uso prático
+***Analogia:** É como estar na mesma sala com um tradutor que carrega o dicionário na mente.*
 
-**Dispositivos Móveis:** Ditado contínuo em mensageiros mesmo em viagens ou locais sem sinal de celular.
-**Consultórios e Escritórios:** Degravação sigilosa de depoimentos jurídicos e prontuários médicos.
-**Assistentes Residenciais:** Caixas de som inteligentes que entendem comandos sem monitorar a rotina da casa.
+## Como conhecer e usar no dia a dia?
 
-## Profundidade técnica e arquitetura
+**Notas:** Nota de voz no avião.
+**Comando:** Assistente offline.
+**Acessibilidade:** Legendas no dispositivo.
 
-Mecanismos Arquiteturais:
+## Profundidade Técnica e Arquitetura
 
-**Modelos Quantizados:** Redes neurais compactas (Whisper.cpp, Vosk) convertidas para 4 ou 8 bits sem perda perceptível de acurácia.
-**Processamento em NPU:** Execução nativa em silício especializado (Apple Neural Engine, Qualcomm AI Engine) poupando a bateria.
-**Detecção Ativa de Voz (VAD):** Algoritmos leves que descartam silêncio antes do acionamento dos módulos de linguagem.
+Equilíbrio:
 
-## Costuma ser confundido com
+**Tamanho do modelo:** Versão reduzida (quantizada).
+**Hardware:** NPU e acelerador.
+**Bateria:** Custo de escuta contínua.
 
-Frequentemente confundido com APIs de voz baseadas em nuvem. A nuvem depende de conexão e servidores de terceiros; o STT no dispositivo trabalha com total autonomia e privacidade inviolável.
+Regra: A nuvem é precisa, o dispositivo é privado. O trabalho sensível é feito no dispositivo, o trabalho difícil é feito na nuvem.
 
-## Perspectivas interdisciplinares
+## Coisas frequentemente misturadas
 
-**Tradução:** Ter um intérprete ao seu lado na sala de reuniões vs fazer chamada telefônica para um serviço internacional.
-**Taquigrafia:** Um escrivão registrando a sessão presencialmente vs enviar fitas para transcrição externa.
-**Revelação:** Ter um laboratório fotográfico próprio em casa vs enviar o rolo de filme pelo correio.
+O reconhecimento na nuvem é uma ilusão. Ele roda no servidor, os dados saem. Este roda no dispositivo, os dados permanecem.
 
-*É comparável a ter um tradutor presencial no mesmo ambiente: suas palavras viram texto imediatamente sem ninguém escutando pela linha telefônica.*
+## Use em diferentes disciplinas
 
-## Perguntas frequentes
+**Dicionário:** Vocabulário carregado na mente.
+**Calculadora:** Processamento sem bateria.
+**Lanterna:** Luz sem rede.
 
-**A precisão do reconhecimento local é comparável à da nuvem?**
+## Perguntas Frequentes
 
-Sim, arquiteturas destiladas modernas do Whisper alcançam precisão quase idêntica em fala cotidiana.
+**Por que em vez da nuvem?**
 
-**O sistema funciona 100% desconectado?**
+Não é necessária conexão, os dados permanecem no dispositivo. É preferível para trabalhos confidenciais.
 
-Sim, todo o vocabulário e a rede neural ficam armazenados na memória interna do aparelho.
+**A precisão diminui?**
 
-**Qual o consumo de armazenamento no celular ou PC?**
+Um pouco em comparação com a nuvem. É suficiente para o trabalho diário, textos críticos são revisados.
 
-Os modelos otimizados ocupam entre 40 MB e 350 MB de espaço.
+**Qual dispositivo executa?**
 
-**Quais são as ferramentas open source mais populares?**
+Telefones e computadores novos. Aqueles com NPU funcionam de forma fluida.
 
-Whisper.cpp, Sherpa-ONNX, Vosk e WhisperX.
+**Consome bateria?**
+
+Sim. A escuta contínua tem um custo, é ativada no momento da necessidade.
 
 ## Termos relacionados
 
+- [STT](https://trescout.com/pt/dictionary/stt/)
 - [Speech-to-Text](https://trescout.com/pt/dictionary/speech-to-text/)
-- [SLM](https://trescout.com/pt/dictionary/slm/)
-- [Privacidade Digital](https://trescout.com/pt/dictionary/digital-privacy/)
+- [Local](https://trescout.com/pt/dictionary/local/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/on-device-stt/)
 

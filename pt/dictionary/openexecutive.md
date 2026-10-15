@@ -2,63 +2,71 @@
 
 *Inteligência artificial · Última atualização: 22 de setembro de 2026*
 
-> Camada de Execução Organizacional Autônoma
+OpenExecutive é uma camada de gerenciamento de código aberto que automatiza processos empresariais.
 
-O OpenExecutive é uma camada aberta de gestão autônoma projetada para orquestrar fluxos de trabalho de agentes de IA, acompanhar indicadores organizacionais e automatizar operações corporativas.
+## Definição e origem da palavra
 
-## Definição e etimologia
+“Aberto” significa aberto e “executivo” significa administrador. Ele vincula fluxos de decisões, relatórios e operações a regras. Assume o fardo da rotina e deixa a decisão estratégica para as pessoas.
 
-Ligando a estratégia executiva à execução técnica cotidiana, o OpenExecutive opera como um sistema operacional para empresas digitais. Ele conecta agentes inteligentes a repositórios de código, bancos de dados e sistemas de chamados.
+***Analogia:** É como um assistente digital que fornece dados instantâneos aos departamentos e supervisiona a operação.*
 
-## Contexto cotidiano e uso prático
+## Como conhecer e usar no dia a dia?
 
-**Orquestração de Metas e Sprints:** Quebra automática de metas corporativas em tarefas técnicas executáveis no GitHub.
-**Auditorias Operacionais:** Verificação permanente da estabilidade de microsserviços e consumo de recursos de nuvem.
-**Relatórios Executivos:** Consolidação de métricas fragmentadas em resumos diários para tomada de decisão rápida.
+**Relatório:** Resumo e distribuição automáticos.
+**Aprovação:** Roteamento por regra.
+**Monitoramento:** Aviso de desvio.
 
-## Profundidade técnica e arquitetura
+## Profundidade Técnica e Arquitetura
 
-Arquitetura do Sistema:
+Camada:
 
-**Motor de Fluxo de Agentes:** Máquina de estados que gerencia a cooperação entre múltiplos agentes especializados em paralelo.
-**Conectores Empresariais:** Interfaces de comunicação nativas com GitHub, Slack, sistemas de CRM e nuvens públicas.
-**Mecanismos de Supervisão:** Portões de aprovação com intervenção humana obrigatória para operações de alto impacto financeiro.
+**Conexão de dados:** Acesso aos sistemas de origem.
+**Mecanismo de regras:** Definição de limite e condição.
+**Ação:** Notificação, gravação e acionamento.
+**Aprovação humana:** Não pare na etapa crítica.
 
-## Costuma ser confundido com
+Regra de exemplo:
 
-Frequentemente confundido com um painel tradicional de projetos (como Jira ou Linear). O painel tradicional apenas registra anotações humanas; o OpenExecutive atribui, supervisiona e conclui demandas por meio de agentes programáveis.
+```
+kural: stok < 10 → satınalma talebi aç
+sahip: operasyon müdürü
+```
 
-## Perspectivas interdisciplinares
+Regra: A automação recomenda, a responsabilidade confirma. A assinatura está no humano.
 
-**Aviação:** Piloto automático mantendo parâmetros de altitude e rota vs manual impresso de navegação.
-**Indústria:** Robótica industrial ajustando o ritmo de esteiras vs prancheta de conferência manual no galpão.
-**Hospitais:** Monitoramento automatizado de sinais vitais com alertas sonoros vs anotações esporádicas em papel.
+## Coisas frequentemente misturadas
 
-*Funciona como um chefe de gabinete digital dedicado: coordenando equipes, alimentando setores com dados em tempo real e garantindo que as ordens sejam cumpridas com rigor.*
+É confundido com um bot de bate-papo. O bot responde, esta camada está incorporada no processo. Uma é a janela, a outra é o encanamento.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
 
-**Qual o objetivo central do OpenExecutive?**
+**Ajudante:** Apoiar a realização de trabalhos de rotina.
+**Piloto automático:** Sistema que mantém a rota.
+**Secretariado:** Ordem de fluxo de documentos.
 
-Conectar a visão estratégica das lideranças com a execução programática diária por meio de agentes de IA.
+## Perguntas Frequentes
 
-**Como ele conversa com a infraestrutura da empresa?**
+**Ele substitui o gerente?**
 
-Através de conectores REST e GraphQL com GitHub, bancos de dados e ferramentas de suporte.
+Não. A rotina leva o trabalho, a decisão estratégica fica com a pessoa.
 
-**A ferramenta elimina lideranças humanas?**
+**Como é garantida a segurança dos dados?**
 
-Não, ela remove burocracias de acompanhamento para que gestores foquem em inovação e relacionamento.
+O escopo do acesso é mantido restrito e a etapa crítica é aprovada. Um registro de auditoria é mantido.
 
-**É viável rodar em servidores próprios?**
+**Por onde começar?**
 
-Sim, seu código aberto foi projetado para execução on-premises com total soberania de dados.
+Com um único processo repetido. É medido e depois espalhado.
+
+**Qual é a vantagem do código aberto?**
+
+É a liberdade de controlar e se adaptar. Você é responsável pela hospedagem.
 
 ## Termos relacionados
 
 - [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
-- [Application](https://trescout.com/pt/dictionary/application/)
-- [Pipelines Determinísticos](https://trescout.com/pt/dictionary/deterministic-pipelines/)
+- [Enterprise Resource Planning](https://trescout.com/pt/dictionary/enterprise-resource-planning/)
+- [Agentic System](https://trescout.com/pt/dictionary/agentic-system/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/openexecutive/)
 

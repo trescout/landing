@@ -2,63 +2,71 @@
 
 *Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
-> Capa de Ejecución Organizacional Autónoma
+OpenExecutive es una capa de gestión de código abierto que automatiza los procesos empresariales.
 
-OpenExecutive es una capa de gestión y orquestación de código abierto diseñada para coordinar flujos de trabajo de agentes de IA, supervisar métricas operativas y automatizar procesos empresariales.
+## Definición y origen de la palabra
 
-## Definición y etimología
+"Abierto" significa abierto y "ejecutivo" significa administrador. Vincula los flujos de decisiones, informes y operaciones a reglas. Asume la carga rutinaria y deja la decisión estratégica a las personas.
 
-Al unir la estrategia directiva con la ejecución técnica sobre el terreno, OpenExecutive funciona como un sistema operativo para empresas tecnológicas. Conecta agentes inteligentes con repositorios de código, bases de datos y sistemas de incidencias.
+***Analogía:** Es como un asistente digital que proporciona datos instantáneos a los departamentos y supervisa la operación.*
 
-## Contexto cotidiano e uso práctico
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
 
-**Planificación de Objetivos y Sprints:** Conversión automatizada de metas estratégicas en tareas e hitos técnicos en GitHub.
-**Auditorías Operativas Continuas:** Monitorización ininterrumpida de presupuestos en la nube y salud de los despliegues.
-**Informes Ejecutivos Sintéticos:** Agregación de métricas de negocio dispersas en boletines ejecutivos directos y claros.
+**Informe:** Resumen y distribución automática.
+**Aprobación:** Enrutamiento por regla.
+**Monitoreo:** Advertencia de desviación.
 
 ## Profundidad técnica y arquitectura
 
-Arquitectura de Componentes:
+Capa:
 
-**Motor de Orquestación de Agentes:** Máquina de estados que coordina la colaboración asíncrona entre agentes de software especializados.
-**Conectores Corporativos:** Enlaces estandarizados con repositorios Git, herramientas de mensajería (Slack) y bases de datos relacionales.
-**Puntos de Control Humano:** Filtros de supervisión obligatorios para operaciones con consecuencias críticas o presupuestarias.
+**Conexión de datos:** Acceso a sistemas fuente.
+**Motor de reglas:** Definición de umbrales y condiciones.
+**Acción:** Notificación, grabación y activación.
+**Aprobación humana:** No se detenga en el paso crítico.
 
-## Suele confundirse con
+Regla de ejemplo:
 
-Suele confundirse con un gestor pasivo de tareas (Jira, Linear). Las herramientas tradicionales solo almacenan tarjetas escritas por personas; OpenExecutive asigna, supervisa y ejecuta labores de forma activa mediante agentes de software.
+```
+kural: stok < 10 → satınalma talebi aç
+sahip: operasyon müdürü
+```
 
-## Perspectivas interdisciplinares
+Regla: la automatización recomienda, la responsabilidad confirma. La firma está en lo humano.
 
-**Navegación:** Sistema de piloto automático que corrige el rumbo de una aeronave vs consulta manual de mapas en cabina.
-**Manufactura:** Supervisión robotizada en tiempo real de una planta industrial vs revisiones visuales en hojas de papel.
-**Sanidad:** Monitorización continua en unidades de cuidados intensivos vs revisiones periódicas esporádicas.
+## Cosas frecuentemente mezcladas
 
-*Actúa como un eficiente jefe de gabinete digital: mantiene sincronizados a los departamentos, analiza datos en tiempo real y vigila que las directrices se cumplan sin desvíos.*
+Se confunde con un chatbot. El bot responde, esta capa está incrustada en el proceso. Una es la ventana, la otra es la plomería.
+
+## Uso en diferentes disciplinas
+
+**Ayudante:** Apoyo en la realización de trabajos rutinarios.
+**Piloto automático:** Un sistema que mantiene el rumbo.
+**Secretaría:** Orden de flujo de documentos.
 
 ## Preguntas frecuentes
 
-**¿Cuál es la función principal de OpenExecutive?**
+**¿Reemplaza al gerente?**
 
-Materializar la estrategia empresarial en tareas ejecutables programadas mediante agentes autónomos de IA.
+No. La rutina se lleva el trabajo, la decisión estratégica queda en la persona.
 
-**¿Cómo se integra con los sistemas existentes?**
+**¿Cómo se garantiza la seguridad de los datos?**
 
-Mediante conectores API para plataformas de control de versiones, mensajería interna y motores de base de datos.
+El alcance del acceso se mantiene limitado y se aprueba el paso crítico. Se mantiene un registro de auditoría.
 
-**¿Sustituye a los responsables de equipo?**
+**¿Por dónde empezar?**
 
-No, asume la carga burocrática de coordinación para que las personas se concentren en el criterio técnico y el negocio.
+Con un solo proceso repetido. Se mide y luego se extiende.
 
-**¿Se puede implementar en servidores locales?**
+**¿Cuál es la ventaja del código abierto?**
 
-Sí, el software es de código abierto y está preparado para funcionar bajo control local absoluto.
+Es la libertad de controlar y adaptarse. Eres responsable del hosting.
 
 ## Términos relacionados
 
 - [AI Agent](https://trescout.com/es/dictionary/ai-agent/)
-- [Application](https://trescout.com/es/dictionary/application/)
-- [Pipelines Deterministas](https://trescout.com/es/dictionary/deterministic-pipelines/)
+- [Enterprise Resource Planning](https://trescout.com/es/dictionary/enterprise-resource-planning/)
+- [Agentic System](https://trescout.com/es/dictionary/agentic-system/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/openexecutive/)
 

@@ -1,74 +1,78 @@
-# Assembly: Definition, Register und Systemarchitektur
+# Was ist Assembly?
 
 *Entwicklung · Zuletzt aktualisiert: 19. September 2026*
 
-Assembly bezeichnet zwei Kernkonzepte der Informatik: die hardwarenächste symbolische Programmiersprache zur direkten CPU-Steuerung und kompilierte Bereitstellungspakete (.NET Assemblies).
+Assembler bezieht sich auf zwei grundlegende Konzepte in der Informatik: Erstens die symbolische Programmiersprache der niedrigsten Ebene (Assemblersprache), die den Hardwareprozessor (CPU) direkt steuert; Die zweite besteht darin, kompilierte Softwaremodule (.NET-Assembly) in ein einziges verteilbares Paket umzuwandeln.
 
-## 1. Hardwarenahe Programmiersprache (Assembly Language)
+## 1. Programmiersprache auf niedriger Ebene (Assemblersprache)
 
-Prozessoren verarbeiten ausschließlich binäre Maschinencodes (Opcodes). Die Assemblersprache ersetzt diese Bitfolgen durch lesbare Mnemonics:
+Der Computerprozessor versteht nur die binären Signale 0 und 1 (Maschinencode/Opcodes). Die Assemblersprache besteht aus für Menschen lesbaren symbolischen Abkürzungen (Mnemoniken), die diesen rohen Maschinencodes entsprechen:
 
-- `MOV`: Überträgt Daten zwischen Registern oder Hauptspeicheradressen.
-- `ADD` / `SUB`: Führt arithmetische Berechnungen direkt im Prozessor aus.
-- `PUSH` / `POP`: Schreibt oder liest Werte auf dem Aufruf-Stack.
-- `JMP` / `JE` / `JNE`: Verzweigt den Programmablauf anhand gesetzter Prozessor-Flags.
+- MOV: Kopiert Daten von einem Register in ein anderes oder in eine andere Speicheradresse.
+- ADD/SUB: Führt mathematische Additions- und Subtraktionsoperationen aus.
+- PUSH/POP: Fügt Daten zum Aufrufstapel hinzu oder ruft ihn ab.
+- JMP / JE / JNE: Verzweigt den Programmablauf entsprechend dem Vergleichsergebnis auf eine andere Speicheradresse.
 
-Der Quellcode wird von Assemblern wie NASM oder GAS ohne zwischengeschaltete Virtual Machine unmittelbar in Maschinencode übersetzt.
+Geschriebene Assembler-Codes werden durch Konverter namens Assembler (nasm, gas) direkt in Maschinencode übersetzt. Dazwischen gibt es keine virtuelle Maschinenschicht.
 
-## 2. CPU-Register und x86-64-Architektur
+***Analogie:** Die Assemblersprache ist so, als würde man die Zahnräder, Federn und Wellen einer Uhr nacheinander mit einer Pinzette unter dem Mikroskop platzieren; Es bietet höchste Präzision und Leistung, erfordert jedoch große Sorgfalt. Bei der Software-Montage wird dieser empfindliche Mechanismus in das Gehäuse eingebaut und als funktionierende Armbanduhr verpackt.*
 
-Moderne 64-Bit-Prozessoren der x86-64-Familie verfügen über spezialisierte und universelle Register:
+## 2. Prozessorregister und x86-64-Architektur
 
-- **Allzweckregister:** `RAX` (Akkumulator und Rückgabewert), `RBX` (Basisregister), `RCX` (Schleifenzähler), `RDX` (I/O-Daten), `RDI` und `RSI` (Ziel- und Quellindizes für Pufferoperationen).
-- **Spezialregister:** `RSP` (Stack Pointer), `RBP` (Frame Base Pointer), `RIP` (Instruction Pointer für den nächsten Befehl) sowie `RFLAGS` (Statusflags wie Carry, Sign und Zero).
+Die kritischsten Register auf einem modernen 64-Bit-x86-64-Prozessor sind:
 
-## 3. CISC vs. RISC: Unterschiede zwischen x86-64 und ARM64
+- Allzweckregister: RAX (Akkumulator und Funktionsrückgabe), RBX (Basisdatenzeiger), RCX (Schleifenzähler), RDX (Eingabe-/Ausgabedaten), RDI und RSI (Ziel- und Quellzeiger).
+- Spezialregister: RSP (Stapelzeiger – Oberseite des Stapels), RBP (Basiszeiger – Basis des Funktionsrahmens), RIP (Befehlszeiger – Adresse des nächsten auszuführenden Befehls) und RFLAGS (Null-, Übertragsflags).
 
-Die x86-64-Architektur basiert auf dem **CISC**-Prinzip (komplexer Befehlssatz) mit variabler Befehlslänge und direkten Speicheroperationen. ARM64 (Apple Silicon, moderne Mobilprozessoren) nutzt hingegen **RISC** (reduzierter Befehlssatz) mit festen 32-Bit-Befehlen und strikter Load-Store-Architektur für höchste Energieeffizienz.
+## 3. CISC vs. RISC: Unterschied zwischen x86-64 und ARM64
 
-## 4. Systemaufrufe (Syscalls) und Linux-x86-64-Beispiel
+Die x86-64-Architektur arbeitet mit der CISC-Philosophie (Complex Instruction Set). Es verfügt über variable Befehlsgrößen und umfangreiche Befehle, die direkt im Speicher ausgeführt werden können. ARM64 (Apple Silicon, Mobile) basiert auf RISC (Reduced Instruction Set); Mit seiner festen 32-Bit-Befehlslänge und der Load-Store-Architektur bietet es eine hervorragende Energieeffizienz.
+
+## 4. Beispiel für Systemaufrufe (Syscall) und Linux x86-64
 
 ```
 section .text
 global _start
 
 _start:
-    ; 1. Ausgabe auf stdout (sys_write = syscall 1)
-    mov rax, 1          ; Syscall-Nummer: 1 (sys_write)
-    mov rdi, 1          ; Dateideskriptor: 1 (stdout)
-    mov rsi, msg        ; Pufferadresse im Speicher
-    mov rdx, 14         ; Textlänge
-    syscall             ; Wechsel in den Kernel-Modus
+    ; 1. Ekrana "Merhaba" yazdır (sys_write = syscall 1)
+    mov rax, 1          ; syscall numarası: 1 (sys_write)
+    mov rdi, 1          ; dosya tanıtıcı: 1 (stdout)
+    mov rsi, mesaj      ; metnin bellek adresi
+    mov rdx, 8          ; metin uzunluğu
+    syscall             ; çekirdeğe geçiş yap
 
-    ; 2. Programm beenden (sys_exit = syscall 60)
-    mov rax, 60         ; Syscall-Nummer: 60 (sys_exit)
-    xor rdi, rdi        ; Exit-Code 0
+    ; 2. Programı güvenle sonlandır (sys_exit = syscall 60)
+    mov rax, 60         ; syscall numarası: 60 (sys_exit)
+    xor rdi, rdi        ; çıkış kodu 0
     syscall
 
 section .data
-    msg db "Hallo, Welt!", 10
+    mesaj db "Merhaba", 10
 ```
 
-## 5. .NET Assemblies und WebAssembly (WASM)
+## 5. .NET Assembly und WebAssembly (WASM)
 
-- **.NET Assembly:** Beim Kompilieren von C#-Projekten entsteht eine Einheit aus Zwischencode (CIL) und Metadaten als `.dll`- oder `.exe`-Datei.
-- **WebAssembly (WASM):** Ein portables Binärformat, das hardwarenahen Code aus Sprachen wie Rust oder C++ sicher und performant im Webbrowser ausführt.
+- .NET-Assembly: Beim Kompilieren von C#-Code wird ein logisches Assemblypaket (Assembly) im DLL- oder EXE-Format erstellt, das CIL/MSIL-Bytecodes und Metadaten enthält.
+- WebAssembly (WASM): Ein portabler Stack-Bytecode für virtuelle Maschinen, der die Ausführung von C-, C++- und Rust-Code im Browser mit nahezu nativer Leistung ermöglicht.
 
-*Assembler-Programmierung gleicht dem präzisen Einsetzen mikroskopisch kleiner Zahnräder und Federn in ein mechanisches Uhrwerk: Sie liefert maximale Kontrolle und Effizienz, verlangt jedoch höchste Genauigkeit.*
+## Häufige Fragen
 
-## Häufig gestellte Fragen
+**Was bedeutet Montage und was bewirkt sie?**
 
-**Was bedeutet Assembly und wofür wird es verwendet?**
+Assembler ist die unterste symbolische Programmiersprache, die 1 zu 1 dem Hardware-Befehlssatz des Computerprozessors entspricht. Es wird zur direkten Steuerung von CPU-Registern und Speicher verwendet.
 
-Es ist die hardwarenächste symbolische Sprache, die Prozessorbefehle direkt abbildet und vor allem für Betriebssysteme, Treiber und IT-Sicherheitsanalysen genutzt wird.
+**Was ist der Unterschied zwischen Assembler und Compiler?**
 
-**Was unterscheidet einen Assembler von einem Compiler?**
+Der Compiler (C, C++, Rust) analysiert und optimiert und übersetzt komplexe menschliche Logik und Schleifen in Maschinencode. Assembler hingegen wandelt Assembleranweisungen, die bereits symbolische Versionen von Maschinencode sind, direkt in binären Bytecode um.
 
-Ein Compiler übersetzt komplexe, abstrakte Programmiersprachen in Maschinencode, während ein Assembler einfache Mnemonics eins zu eins in Prozessor-Opcodes überführt.
+**Wo wird Assemblersprache heute noch verwendet?**
 
-**Wo kommt Assembly heute noch zum Einsatz?**
+Es wird aktiv in Betriebssystemkernen (Bootloader), Hardware-Gerätetreibern, Reverse Engineering, Malware-Analyse, Cyber-Schwachstellenerkennung und eingebetteten Systemen (IoT/Mikrocontroller) eingesetzt.
 
-In Bootloadern, Echtzeit-Betriebssystemen, Reverse-Engineering, Firmware für Mikrocontroller und hochoptimierten Kryptografie-Bibliotheken.
+**Was ist der Unterschied zwischen CISC und RISC?**
+
+CISC (x86-64) verfügt über einen umfangreichen Befehlssatz, der mehrere Unterprozesse und Speicherzugriffe in einem einzigen Befehl ausführen kann; RISC (ARM) hingegen ist eine vereinfachte und energieeffiziente Architektur, die jeden Befehl in einem einzigen Taktzyklus ausführt.
 
 ## Verwandte Begriffe
 
@@ -80,9 +84,8 @@ In Bootloadern, Echtzeit-Betriebssystemen, Reverse-Engineering, Firmware für Mi
 
 ## Verwandte Werkzeuge
 
+- [Ghidra](https://trescout.com/de/discover/ghidra/)
 - [Apollo-11](https://trescout.com/de/discover/apollo-11/)
-
-Diese Erklärung wurde in einfacher Sprache für TreScout verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/assembly/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/assembly/)
 

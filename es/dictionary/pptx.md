@@ -1,83 +1,86 @@
-# ¿Qué es un archivo PPTX?
+# ¿Qué es PPTX?
 
-*Datos e infraestructura · Última actualización: 1 de septiembre de 2026*
+*Datos e infraestructura · Última actualización: 19 de septiembre de 2026*
 
-Un archivo PPTX es un formato de presentación estándar basado en esquemas abiertos XML y compresión ZIP, introducido a partir de Microsoft PowerPoint 2007. Organiza diapositivas, objetos vectoriales y elementos multimedia en paquetes modulares.
+> PowerPoint Presentation
+
+PPTX (PowerPoint Presentation) es un formato de archivo de estándar abierto (Office Open XML - OOXML) desarrollado por Microsoft y utilizado para almacenar presentaciones visuales basadas en diapositivas, plantillas, gráficos, elementos multimedia y efectos de transición.
 
 ## 1. Anatomía interna de un archivo PPTX: Arquitectura ZIP y XML
 
-Muchos usuarios consideran el PPTX un archivo binario indivisible; técnicamente, un archivo `.pptx` es un **archivo comprimido ZIP** que contiene una jerarquía estructurada de ficheros XML.
+Muchos usuarios piensan en PPTX como un documento de una sola pieza; sin embargo, técnicamente un archivo .pptx es un archivo ZIP comprimido con una jerarquía de carpetas específica.
 
-Al cambiar la extensión a `.zip` y descomprimirlo se revela la siguiente estructura:
+Cuando cambias la extensión de cualquier archivo .pptx a .zip y lo extraes, aparece la siguiente estructura:
 
-- **`[Content_Types].xml`:** Declara los tipos MIME de todos los recursos del paquete.
-- **`_rels/`:** Directorio de relaciones (`.rels`) que vincula diapositivas con imágenes y recursos.
-- **`ppt/slides/`:** Cada diapositiva es un documento XML independiente (`slide1.xml`, `slide2.xml`) con sus cuadros de texto y coordenadas.
-- **`ppt/media/`:** Almacena todas las imágenes de alta resolución, vídeos y audios en su formato original sin pérdidas. Descomprimir el archivo es la forma más rápida de extraer imágenes intactas.
-- **`ppt/slideLayouts/` y `ppt/slideMasters/`:** Contiene las plantillas maestras y esquemas de diseño.
+- [Content_Types].xml: Enumera los tipos MIME de todos los componentes del archivo (tipos de medios, esquemas XML).
+- _rels/: Es el catálogo de relaciones que define los vínculos (.rels) entre los archivos y los componentes.
+- ppt/slides/: Cada diapositiva es un archivo XML independiente (slide1.xml, slide2.xml). Los textos, las coordenadas de las formas y los formatos de la diapositiva se almacenan aquí.
+- ppt/media/: Todas las imágenes en alta resolución, grabaciones de audio y videos incrustados en la presentación se encuentran en este directorio en su formato original. Para extraer una imagen de la presentación sin pérdida de calidad, abrir el archivo como ZIP es el método más práctico.
+- ppt/slideLayouts/ y ppt/slideMasters/: Contienen las plantillas de diseño y los diseños de temas.
 
-Esta estructura abierta facilita la reparación de archivos corruptos directamente a nivel de código XML.
+Gracias a esta arquitectura abierta, incluso cuando los archivos de presentación se corrompen, se pueden reparar a nivel de XML o los recursos multimedia que contienen se pueden recuperar fácilmente.
 
-## 2. Cómo abrir archivos PPTX (Opciones gratuitas y de pago)
+***Analogía:** Es como un álbum de presentación de diapositivas digital; a medida que pasas las páginas, los textos, gráficos y el flujo de la presentación se muestran en orden.*
 
-Es perfectamente posible visualizar, editar y proyectar presentaciones PPTX sin tener instalado Microsoft PowerPoint:
+## 2. ¿Cómo abrir un archivo PPTX? (Opciones gratuitas y de pago)
 
-### Herramientas en la nube y navegador (Sin instalar nada)
+Es posible ver, editar o presentar archivos PPTX incluso sin Microsoft PowerPoint:
 
-- **Google Presentaciones (Google Slides):** Edición colaborativa directa en el navegador con opción de descarga en formato PPTX.
-- **Microsoft 365 Web (PowerPoint Online):** Versión gratuita en línea que mantiene la fidelidad tipográfica original.
-- **Canva y Pitch:** Herramientas modernas de diseño visual con soporte para importar archivos PPTX.
+### Soluciones basadas en la nube y en el navegador (Sin instalación)
 
-### Suites ofimáticas de escritorio
+- Google Slides: Puedes editar archivos PPTX subidos a Google Drive directamente en el navegador, trabajar en equipo de forma simultánea y volver a descargarlos como PPTX.
+- Microsoft 365 Web (PowerPoint Online): Funciona a través del navegador con una cuenta gratuita de Microsoft y compatibilidad con fuentes y animaciones originales.
+- Canva y Pitch: Ofrecen soporte para importar archivos PPTX para presentaciones orientadas al diseño visual moderno.
 
-- **LibreOffice Impress:** Suite completa de código abierto y completamente gratuita.
-- **Apple Keynote:** Aplicación nativa y fluida para macOS e iOS con excelente compatibilidad PPTX.
-- **OnlyOffice:** Suite ofimática de código abierto con una compatibilidad extraordinaria con los estándares OpenXML.
+### Paquetes de Office de Escritorio
 
-## 3. Conversión y generación de PPTX mediante código
+- LibreOffice Impress: Es una alternativa de escritorio avanzada, de código abierto y totalmente gratuita.
+- Apple Keynote es una herramienta nativa, de alto rendimiento y compatible con PPTX para usuarios de macOS e iOS.
+- OnlyOffice: Es una suite ofimática de código abierto que ofrece la compatibilidad más cercana con los estándares de archivos de Microsoft Office.
 
-- **PPTX a PDF:** Convertir la presentación a PDF fija los elementos y evita descuadres de fuentes en otros ordenadores.
-- **Generación mediante programación:**
-  - **Python (`python-pptx`):** Genera informes y diapositivas de forma automatizada conectándose a bases de datos.
-  - **Node.js (`pptxgenjs`):** Permite compilar presentaciones dinámicas en aplicaciones web.
-  - **Inteligencia Artificial Generativa:** Herramientas como Gamma o Beautiful.ai generan presentaciones completas a partir de instrucciones en texto.
+## 3. Conversión de PPTX y Generación mediante Software
 
-## 4. Seguridad y macros: PPTX vs PPTM
+- PPTX a PDF: Para evitar que las fuentes se desplacen o que el diseño se desconfigure al abrir la presentación en otros dispositivos, la forma más segura es convertirla al formato PDF.
+- Generación de PPTX mediante programación: Python (python-pptx): Puede plasmar informes de bases de datos, gráficos de análisis o briefings automáticos directamente en diapositivas a través del código.
+- Node.js (pptxgenjs): Se utiliza para generar archivos de presentación dinámicos desde aplicaciones web.
+- Creación con Inteligencia Artificial: herramientas de IA generativa como Gamma y Beautiful.ai pueden crear archivos PPTX profesionales a partir de instrucciones de texto en cuestión de minutos.
 
-- **Bloqueo de macros:** Los archivos estándar `.pptx` no pueden ejecutar macros de Visual Basic (VBA), impidiendo la propagación de malware.
-- **Extensión `.pptm`:** Si una presentación incluye macros o rutinas automatizadas, debe guardarse obligatoriamente con la extensión `.pptm`.
+## 4. Seguridad y Cumplimiento: PPTX frente a PPTM
 
-## Comparativa entre PPT y PPTX
+- Peligro de macros: Los archivos .pptx estándar no pueden contener macros de Visual Basic for Applications (VBA) incrustadas. Esta regla se ha implementado para evitar que el software malicioso se propague a través de documentos de Office.
+- Extensión .pptm: Si una presentación contiene automatización o macros, la extensión debe ser obligatoriamente .pptm. Se debe tener siempre precaución con los archivos .pptm recibidos como archivos adjuntos en correos electrónicos.
+
+## Comparación entre PPT y PPTX
 
 | Característica | Formato antiguo (.PPT) | Formato moderno (.PPTX) |
 |---|---|---|
-| **Estructura** | Binario cerrado (BIFF) | XML comprimido (contenedor ZIP) |
-| **Tamaño** | Mayor (compresión básica) | Compacto (compresión ZIP nativa) |
-| **Recuperación** | Un byte corrupto daña todo el archivo | Las diapositivas dañadas se pueden aislar |
-| **Estandarización** | Formato propietario comercial | Estándar internacional ISO/IEC 29500 (OpenXML) |
-| **Extracción de medios** | Difícil sin programas especializados | Acceso directo renombrando a .zip |
+| Estructura | Binario (BIFF) | XML comprimido (Contenedor ZIP) |
+| Tamaño de archivo | Grande (compresión débil) | Pequeño (compresión ZIP automática) |
+| Resistencia a daños | Si se corrompe un solo byte, el archivo no se abre | Se puede omitir la diapositiva dañada y recuperar las demás |
+| Estándar abierto | Formato comercial cerrado | Estándar internacional ISO/IEC 29500 (OpenXML) |
+| Acceso a medios | Requiere un analizador difícil / especial | Las imágenes y los videos se pueden extraer directamente abriendo el ZIP |
 
 ## Preguntas frecuentes
 
-**¿Qué es exactamente un archivo PPTX?**
+**¿Qué es un archivo PPTX?**
 
-PPTX es el formato abierto de presentaciones adoptado en Microsoft PowerPoint 2007, compuesto por documentos XML estructurados y comprimidos en un contenedor ZIP.
+PPTX es un formato de archivo de presentación moderno basado en una estructura XML abierta y comprimido con el algoritmo ZIP, que se convirtió en estándar a partir de Microsoft PowerPoint 2007.
 
-**¿Cómo abrir un archivo PPTX sin PowerPoint?**
+**¿Cómo abro un archivo PPTX si no tengo PowerPoint en mi computadora?**
 
-Puedes abrirlo gratuitamente con Google Slides, LibreOffice Impress, OnlyOffice o la versión web gratuita de Microsoft 365 en cualquier navegador.
+Puede usar la aplicación web Google Slides, descargar los programas gratuitos LibreOffice u OnlyOffice, o abrir la versión web gratuita de Microsoft 365 a través de su navegador.
 
-**¿Cómo extraer las fotos de una presentación con la máxima calidad?**
+**¿Cómo puedo extraer las imágenes de un archivo PPTX con la más alta calidad?**
 
-Cambia la extensión de .pptx a .zip, descomprime la carpeta y localiza el directorio ppt/media, donde figuran las imágenes en resolución original.
+Cambie la extensión del archivo de .pptx a .zip y extráigalo con un descompresor de archivos. Todas las imágenes de la presentación se encuentran en su calidad original dentro de la carpeta ppt/media.
 
-**¿Por qué se desalinean los textos al abrir un PPTX en otro PC?**
+**¿Por qué un archivo PPTX a veces se ve dañado en diferentes computadoras?**
 
-Ocurre cuando el equipo de destino no tiene instaladas las mismas tipografías. La solución pasa por incrustar las fuentes al guardar o exportar a PDF.
+Si las fuentes especiales utilizadas en la presentación no están instaladas en el otro ordenador, el sistema seleccionará una fuente predeterminada, lo que provocará que el texto se desplace. La solución es incrustar las fuentes en el archivo (Embed Fonts) al guardar la presentación o exportarla como PDF.
 
-**¿Qué diferencia hay entre PPTX y PDF?**
+**¿Cuál es la diferencia entre PPTX y PDF?**
 
-PPTX es un archivo editable con transiciones y elementos interactivos para presentar en vivo. PDF es un formato cerrado de solo lectura que asegura que el diseño se vea idéntico en cualquier dispositivo.
+PPTX es editable, un recurso de presentación dinámico que incluye animaciones y transiciones de diapositivas. PDF, por otro lado, es un formato de lectura final o impresión con diseño fijo, sin animaciones e independiente del dispositivo.
 
 ## Términos relacionados
 
@@ -90,7 +93,7 @@ PPTX es un archivo editable con transiciones y elementos interactivos para prese
 
 - [Ppt Master](https://trescout.com/es/discover/ppt-master/)
 
-Esta explicación fue redactada de forma accesible para TreScout y traducida del original en turco · la versión en turco prevalece. [Leer en turco →](https://trescout.com/dictionary/pptx/)
+Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/pptx/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/pptx/

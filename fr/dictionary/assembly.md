@@ -1,74 +1,78 @@
-# Assembly : Définition, registres et architecture système
+# Qu'est-ce que Assembly ?
 
 *Développement · Dernière mise à jour : 19 septembre 2026*
 
-Le terme Assembly désigne deux réalités en informatique : d'une part le langage de programmation symbolique de plus bas niveau contrôlant directement le processeur (CPU), et d'autre part les unités de déploiement modulaires (.NET assembly).
+En informatique, le terme « assembly » (assemblage) correspond à deux concepts fondamentaux : premièrement, le langage de programmation symbolique de plus bas niveau qui commande directement le processeur matériel (CPU) (langage d'assemblage) ; deuxièmement, le regroupement de modules logiciels compilés (.NET assembly) en un seul paquet distribuable.
 
-## 1. Langage de programmation bas niveau (Assembly Language)
+## 1. Langage de programmation de bas niveau (langage d'assemblage)
 
-Le processeur ne traite que des signaux binaires (code machine / opcodes). Le langage d'assemblage remplace ces octets bruts par des abréviations mnémotechniques lisibles :
+Le processeur d'un ordinateur ne comprend que les signaux binaires 0 et 1 (code machine / opcodes). Le langage assembleur est constitué d'abréviations symboliques lisibles par l'homme (mnémoniques) qui correspondent à ces codes machine bruts :
 
-- `MOV` : copie des données entre registres ou adresses mémoire.
-- `ADD` / `SUB` : effectue des calculs arithmétiques.
-- `PUSH` / `POP` : empile ou dépile des valeurs sur la pile d'appels (stack).
-- `JMP` / `JE` / `JNE` : modifie l'ordre d'exécution selon les indicateurs d'état.
+- MOV : Copie des données d'un registre à un autre ou vers une adresse mémoire.
+- ADD / SUB : Effectue des opérations mathématiques d'addition et de soustraction.
+- PUSH / POP : Ajoute ou retire des données de la pile d'appels (call stack).
+- JMP / JE / JNE : Branche le flux du programme vers une autre adresse mémoire en fonction du résultat de la comparaison.
 
-Les fichiers sources sont transformés directement en code machine par un assembleur (nasm, gas) sans machine virtuelle intermédiaire.
+Le code assembleur écrit est converti directement en code machine via des traducteurs appelés assembleurs (nasm, gas) ; il n'y a pas de couche de machine virtuelle intermédiaire.
 
-## 2. Registres processeur et architecture x86-64
+***Analogie :** Le langage assembleur ressemble à l'installation, une par une, des engrenages, des ressorts et des axes d'une montre sous un microscope avec une pince à épiler ; il offre la plus haute précision et performance, mais exige une grande attention. L'assemblage logiciel, quant à lui, consiste à placer ce mécanisme précis dans le boîtier et à l'emballer comme une montre-bracelet fonctionnelle.*
 
-Dans un processeur 64 bits x86-64, les registres essentiels se divisent en deux groupes :
+## 2. Registres de processeur et architecture x86-64
 
-- **Registres généraux :** `RAX` (accumulateur et valeur de retour), `RBX` (registre de base), `RCX` (compteur de boucle), `RDX` (données), `RDI` et `RSI` (destinations et sources de transferts de blocs).
-- **Registres spécialisés :** `RSP` (pointeur de pile), `RBP` (pointeur de trame), `RIP` (pointeur d'instruction vers la commande suivante) et `RFLAGS` (drapeaux d'état).
+Dans un processeur x86-64 64 bits moderne, les registres les plus critiques sont les suivants :
 
-## 3. CISC vs RISC : différences entre x86-64 et ARM64
+- Registres à usage général : RAX (accumulateur et retour de fonction), RBX (pointeur de données de base), RCX (compteur de boucle), RDX (données d'entrée/sortie), RDI et RSI (pointeurs de destination et de source).
+- Registres à usage spécifique : RSP (Stack Pointer - pointeur de pile), RBP (Base Pointer - pointeur de base du cadre de pile), RIP (Instruction Pointer - adresse de la prochaine instruction à exécuter) et RFLAGS (indicateurs Zero, Carry).
 
-L'architecture x86-64 repose sur le modèle **CISC** (jeu d'instructions complexe) permettant des instructions à longueur variable manipulant directement la mémoire. ARM64 (Apple Silicon, smartphones) adopte le modèle **RISC** (jeu d'instructions réduit) à longueur fixe de 32 bits et architecture Load-Store, offrant un rendement énergétique remarquable.
+## 3. CISC vs RISC : différence entre x86-64 et ARM64
 
-## 4. Appels système (Syscall) et exemple sous Linux x86-64
+L'architecture x86-64 fonctionne selon la philosophie CISC (Complex Instruction Set Computer) ; elle dispose d'instructions de taille variable et d'un jeu d'instructions riche capable d'opérer directement sur la mémoire. L'architecture ARM64 (Apple Silicon, Mobile), quant à elle, est basée sur le RISC (Reduced Instruction Set Computer) ; grâce à une longueur d'instruction fixe de 32 bits et à une architecture Load-Store, elle offre une supériorité majeure en matière d'efficacité énergétique.
+
+## 4. Appels système (Syscall) et exemple Linux x86-64
 
 ```
 section .text
 global _start
 
 _start:
-    ; 1. Écriture sur la sortie standard (sys_write = syscall 1)
-    mov rax, 1          ; numéro de syscall: 1 (sys_write)
-    mov rdi, 1          ; descripteur de fichier: 1 (stdout)
-    mov rsi, msg        ; adresse mémoire du texte
-    mov rdx, 14         ; longueur du message
-    syscall             ; basculement en mode noyau
+    ; 1. Ekrana "Merhaba" yazdır (sys_write = syscall 1)
+    mov rax, 1          ; syscall numarası: 1 (sys_write)
+    mov rdi, 1          ; dosya tanıtıcı: 1 (stdout)
+    mov rsi, mesaj      ; metnin bellek adresi
+    mov rdx, 8          ; metin uzunluğu
+    syscall             ; çekirdeğe geçiş yap
 
-    ; 2. Terminaison propre (sys_exit = syscall 60)
-    mov rax, 60         ; numéro de syscall: 60 (sys_exit)
-    xor rdi, rdi        ; code de sortie 0
+    ; 2. Programı güvenle sonlandır (sys_exit = syscall 60)
+    mov rax, 60         ; syscall numarası: 60 (sys_exit)
+    xor rdi, rdi        ; çıkış kodu 0
     syscall
 
 section .data
-    msg db "Bonjour monde!", 10
+    mesaj db "Merhaba", 10
 ```
 
-## 5. .NET Assembly et WebAssembly (WASM)
+## 5. Assembly .NET et WebAssembly (WASM)
 
-- **.NET Assembly :** Lors de la compilation d'un projet C#, le code intermédiaire CIL et ses métadonnées sont encapsulés dans un fichier `.dll` ou `.exe` nommé assembly.
-- **WebAssembly (WASM) :** Format binaire portable permettant d'exécuter du code compilé (Rust, C++) dans le navigateur avec des performances quasi natives.
-
-*Le langage assembleur ressemble au montage minutieux des ressorts, rouages et balanciers d'une montre mécanique à la pince de précision : il offre une puissance absolue au prix d'une rigueur sans concession.*
+- Assembly .NET : Lorsque le code C# est compilé, un package d'assemblage logique est créé sous la forme d'un fichier .dll ou .exe contenant des octets CIL/MSIL et des métadonnées.
+- WebAssembly (WASM) : un format de bytecode pour machine virtuelle à pile, portable, permettant aux codes C, C++ et Rust de s'exécuter dans le navigateur avec des performances proches de la vitesse native.
 
 ## Questions fréquentes
 
-**Qu'est-ce que le langage Assembly et à quoi sert-il ?**
+**Que signifie l'assembleur et à quoi sert-il ?**
 
-C'est le langage symbolique le plus proche du matériel, correspondant directement aux instructions du processeur, indispensable pour les pilotes et l'ingénierie inverse.
+L'assembleur est le langage de programmation symbolique de plus bas niveau qui correspond 1 pour 1 au jeu d'instructions matériel du processeur. Il est utilisé pour contrôler directement les registres du CPU et la mémoire.
 
 **Quelle est la différence entre un assembleur et un compilateur ?**
 
-Le compilateur transforme un code de haut niveau structuré en instructions machines, tandis que l'assembleur traduit les mnémoniques un pour un en octets binaires sans restructuration logique.
+Le compilateur (C, C++, Rust) analyse la logique humaine complexe et les boucles pour les traduire et les optimiser en code machine. L'assembleur, quant à lui, convertit directement les instructions assembleur, qui sont déjà une forme symbolique du code machine, en code binaire.
 
-**Où utilise-t-on encore l'assembleur aujourd'hui ?**
+**Où le langage assembleur est-il encore utilisé aujourd'hui ?**
 
-Dans les chargeurs d'amorçage (bootloaders), les systèmes embarqués critiques, l'analyse de malwares et l'optimisation de moteurs graphiques.
+Les chargeurs de démarrage (bootloaders), les pilotes de périphériques matériels, l'ingénierie inverse, l'analyse de logiciels malveillants, la détection de vulnérabilités en cybersécurité et les systèmes embarqués (IoT/microcontrôleurs) sont activement utilisés.
+
+**Quelle est la différence entre CISC et RISC ?**
+
+Le CISC (x86-64) possède un jeu d'instructions riche capable d'effectuer plusieurs sous-opérations et accès mémoire en une seule instruction ; le RISC (ARM) est une architecture simplifiée et à haute efficacité énergétique où chaque instruction est conçue pour s'exécuter en un seul cycle d'horloge.
 
 ## Termes liés
 
@@ -80,9 +84,8 @@ Dans les chargeurs d'amorçage (bootloaders), les systèmes embarqués critiques
 
 ## Outils liés
 
+- [Ghidra](https://trescout.com/fr/discover/ghidra/)
 - [Apollo-11](https://trescout.com/fr/discover/apollo-11/)
-
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/assembly/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/assembly/)
 

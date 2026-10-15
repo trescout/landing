@@ -1,74 +1,78 @@
-# Assembly: Definición, registros y arquitectura de sistemas
+# ¿Qué es Assembly?
 
 *Desarrollo · Última actualización: 19 de septiembre de 2026*
 
-Assembly representa dos conceptos fundamentales en ciencias de la computación: el lenguaje simbólico de más bajo nivel que controla directamente el procesador (CPU), y los paquetes compilados de despliegue (.NET assemblies).
+El ensamblaje se refiere a dos conceptos básicos en informática: primero, el lenguaje de programación simbólico de nivel más bajo (lenguaje ensamblador) que gobierna directamente el procesador de hardware (CPU); El segundo es convertir los módulos de software compilados (ensamblaje .NET) en un único paquete distribuible.
 
-## 1. Lenguaje de Bajo Nivel (Assembly Language)
+## 1. Lenguaje de programación de bajo nivel (lenguaje ensamblador)
 
-La CPU procesa exclusivamente código máquina binario (opcodes). El lenguaje assembly convierte estas instrucciones binarias en nemónicos comprensibles por desarrolladores:
+El procesador de la computadora solo entiende las señales binarias 0 y 1 (código de máquina/códigos de operación). El lenguaje ensamblador consta de abreviaturas simbólicas (mnemotécnicas) legibles por humanos correspondientes a estos códigos de máquina sin procesar:
 
-- `MOV`: Transfiere información entre registros o posiciones de memoria.
-- `ADD` / `SUB`: Ejecuta operaciones de suma y resta aritmética.
-- `PUSH` / `POP`: Inserta y extrae datos de la pila de llamadas (call stack).
-- `JMP` / `JE` / `JNE`: Altera el flujo de ejecución evaluando banderas de estado.
+- MOV: Copia datos de un registro a otro o dirección de memoria.
+- ADD/SUB: Ejecuta operaciones matemáticas de suma y resta.
+- PUSH/POP: Agrega o extrae datos a la pila de llamadas.
+- JMP / JE / JNE: bifurca el flujo del programa a otra dirección de memoria según el resultado de la comparación.
 
-El código fuente se compila a código de máquina mediante ensambladores directos (nasm, gas) sin necesidad de entornos virtuales intermedios.
+Los códigos ensambladores escritos se traducen directamente a código máquina a través de convertidores llamados ensambladores (nasm, gas); No hay ninguna capa de máquina virtual intermedia.
 
-## 2. Registros de CPU y Arquitectura x86-64
+***Analogía:** El lenguaje ensamblador es como colocar los engranajes, resortes y ejes de un reloj uno a uno con unas pinzas bajo un microscopio; Proporciona la mayor precisión y rendimiento, pero requiere mucho cuidado. El ensamblaje del software significa colocar este delicado mecanismo dentro de la caja y empaquetarlo como un reloj de pulsera que funcione.*
 
-En los procesadores modernos de 64 bits x86-64 encontramos registros dedicados y de propósito general:
+## 2. Registros del procesador y arquitectura x86-64
 
-- **Registros de Propósito General:** `RAX` (acumulador y valor de retorno), `RBX` (registro base), `RCX` (contador de bucles), `RDX` (datos de E/S), `RDI` y `RSI` (índices destino y origen).
-- **Registros Especializados:** `RSP` (puntero de pila), `RBP` (puntero base del marco), `RIP` (puntero a la siguiente instrucción) y `RFLAGS` (banderas de desbordamiento, signo y cero).
+Los registros más críticos en un procesador x86-64 moderno de 64 bits son:
 
-## 3. CISC vs RISC: Comparativa entre x86-64 y ARM64
+- Registros de propósito general: RAX (acumulador y retorno de función), RBX (puntero de datos base), RCX (contador de bucle), RDX (datos de entrada/salida), RDI y RSI (punteros de destino y fuente).
+- Registros de propósito especial: RSP (Puntero de pila - parte superior de la pila), RBP (Puntero base - base del marco de función), RIP (Puntero de instrucción - dirección de la siguiente instrucción a ejecutar) y RFLAGS (Cero, Banderas de acarreo).
 
-La arquitectura x86-64 implementa la filosofía **CISC** (conjunto complejo de instrucciones) con instrucciones de longitud variable. En cambio, ARM64 (Apple Silicon, chips móviles) adopta **RISC** (conjunto reducido de instrucciones) con comandos fijos de 32 bits y arquitectura Load-Store, destacando en eficiencia energética.
+## 3. CISC vs RISC: diferencia entre x86-64 y ARM64
 
-## 4. Llamadas al Sistema (Syscalls) y Ejemplo Linux x86-64
+La arquitectura x86-64 funciona con la filosofía CISC (Conjunto de instrucciones complejas); Tiene tamaños de instrucción variables e instrucciones ricas que pueden operar directamente en la memoria. ARM64 (Apple Silicon, Mobile) se basa en RISC (conjunto de instrucciones reducido); Proporciona una gran superioridad en eficiencia energética con su longitud de comando fija de 32 bits y su arquitectura Load-Store.
+
+## 4. Llamadas al sistema (Syscall) y ejemplo de Linux x86-64
 
 ```
 section .text
 global _start
 
 _start:
-    ; 1. Escribir en salida estándar (sys_write = syscall 1)
-    mov rax, 1          ; número syscall: 1 (sys_write)
-    mov rdi, 1          ; descriptor: 1 (stdout)
-    mov rsi, msg        ; puntero a memoria del mensaje
-    mov rdx, 14         ; tamaño en bytes
-    syscall             ; salto al kernel
+    ; 1. Ekrana "Merhaba" yazdır (sys_write = syscall 1)
+    mov rax, 1          ; syscall numarası: 1 (sys_write)
+    mov rdi, 1          ; dosya tanıtıcı: 1 (stdout)
+    mov rsi, mesaj      ; metnin bellek adresi
+    mov rdx, 8          ; metin uzunluğu
+    syscall             ; çekirdeğe geçiş yap
 
-    ; 2. Finalizar programa (sys_exit = syscall 60)
-    mov rax, 60         ; número syscall: 60 (sys_exit)
-    xor rdi, rdi        ; código de salida 0
+    ; 2. Programı güvenle sonlandır (sys_exit = syscall 60)
+    mov rax, 60         ; syscall numarası: 60 (sys_exit)
+    xor rdi, rdi        ; çıkış kodu 0
     syscall
 
 section .data
-    msg db "¡Hola, mundo!", 10
+    mesaj db "Merhaba", 10
 ```
 
-## 5. .NET Assembly y WebAssembly (WASM)
+## 5. Ensamblaje .NET y ensamblaje web (WASM)
 
-- **.NET Assembly:** Conjunto empaquetado de código binario intermedio CIL y metadatos distribuido como archivos `.dll` o `.exe`.
-- **WebAssembly (WASM):** Formato binario portable ejecutado en el navegador web con aislamiento de memoria y velocidad cercana al código nativo.
-
-*El lenguaje ensamblador es similar a colocar cada diminuto engranaje y espiral de un reloj mecánico con pinzas bajo lupa: entrega control y velocidad absolutos, pero exige extrema meticulosidad.*
+- Ensamblaje .NET: cuando se compila el código C#, se crea un paquete de ensamblaje lógico (Assembly) en formato .dll o .exe que contiene códigos de bytes y metadatos CIL/MSIL.
+- WebAssembly (WASM): un código de bytes de máquina virtual de pila portátil que permite que el código C, C++ y Rust se ejecute en el navegador con un rendimiento casi nativo.
 
 ## Preguntas frecuentes
 
-**¿Qué significa Assembly y para qué se utiliza?**
+**¿Qué significa asamblea y para qué sirve?**
 
-Es el lenguaje de programación más cercano al hardware físico, asignando nemónicos directamente a instrucciones de procesador para sistemas operativos y drivers.
+El ensamblador es el lenguaje de programación simbólico de nivel más bajo que corresponde 1 a 1 al conjunto de instrucciones de hardware del procesador de la computadora. Se utiliza para controlar directamente los registros y la memoria de la CPU.
 
-**¿Cuál es la diferencia entre un ensamblador y un compilador?**
+**¿Cuál es la diferencia entre ensamblador y compilador?**
 
-Un compilador traduce estructuras complejas de alto nivel a código máquina; un ensamblador solo mapea nemónicos simbólicos directamente a secuencias binarias fijas.
+El compilador (C, C++, Rust) analiza, optimiza y traduce lógica humana compleja y bucles en código de máquina. Assembler, por otro lado, convierte las instrucciones ensambladoras, que ya son versiones simbólicas del código de máquina, directamente en código de bytes binario.
 
-**¿Dónde se sigue usando Assembly en la actualidad?**
+**¿Dónde se sigue utilizando el lenguaje ensamblador hoy en día?**
 
-En cargadores de arranque (bootloaders), microcontroladores embebidos, ingeniería inversa de seguridad y módulos de alto rendimiento.
+Se utiliza activamente en núcleos de sistemas operativos (cargador de arranque), controladores de dispositivos de hardware, ingeniería inversa, análisis de malware, detección de vulnerabilidades cibernéticas y sistemas integrados (IoT/microcontrolador).
+
+**¿Cuál es la diferencia entre CISC y RISC?**
+
+CISC (x86-64) tiene un rico conjunto de instrucciones que puede realizar múltiples subprocesos y accesos a memoria en una sola instrucción; RISC (ARM), por otro lado, es una arquitectura simplificada y energéticamente eficiente que ejecuta cada comando en un único ciclo de reloj.
 
 ## Términos relacionados
 
@@ -80,9 +84,8 @@ En cargadores de arranque (bootloaders), microcontroladores embebidos, ingenier�
 
 ## Herramientas relacionadas
 
+- [Ghidra](https://trescout.com/es/discover/ghidra/)
 - [Apollo-11](https://trescout.com/es/discover/apollo-11/)
-
-Esta explicación se redactó en lenguaje llano para TreScout y se **tradujo automáticamente** a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/assembly/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/assembly/)
 

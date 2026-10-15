@@ -8,10 +8,10 @@ ToolJet, kurum içi araçlar, gösterge panelleri ve yapay zekâ ajanları geli�
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 41.092 → 41.092, son sürüm v3.20.246-lts (15 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 41.092 → 41.092, son sürüm v3.20.245-lts (14 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 41.053 → 41.092, son sürüm v3.20.244-lts (13 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 41.055 → 41.053, son sürüm v3.20.243-lts (9 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 41.049 → 41.055, son sürüm v3.20.242-lts (9 Ekim 2026).
 
 ## Ne kazandırır?
 

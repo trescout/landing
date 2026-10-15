@@ -4140,7 +4140,7 @@
     "slug": "impeccable",
     "title": "Impeccable",
     "tagline": "Impeccable, yapay zekâ modellerinin tasarım çıktılarını iyileştirmek için geliştirilmiş bir tasarım dili (design language)…",
-    "meta": "★ 78.944",
+    "meta": "★ 81.523",
     "image": "/assets/discover/og/impeccable.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -4148,7 +4148,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 78944,
+    "stars": 81523,
     "lite": false,
     "headline": "Yapay zekâ tasarımlarınızı mükemmelleştirin",
     "last_review": "2026-10-15",
@@ -4285,6 +4285,13 @@
         "onceki_yildiz": 78834,
         "surum": "skill-v4.5.2",
         "surum_tarihi": "2026-10-09"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 81523,
+        "onceki_yildiz": 78944,
+        "surum": "engine-v0.1.15",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Impeccable is a design language developed to improve the design outputs of artificial intelligence models.",
@@ -4453,7 +4460,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 35.495",
+    "meta": "★ 35.537",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -4461,7 +4468,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 35495,
+    "stars": 35537,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-10-15",
@@ -4899,6 +4906,13 @@
         "onceki_yildiz": 35383,
         "surum": "v18.11.0",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 35537,
+        "onceki_yildiz": 35495,
+        "surum": "v18.11.1",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes.",
@@ -18316,7 +18330,7 @@
     "slug": "chrome-devtools-mcp",
     "title": "Chrome Devtools MCP",
     "tagline": "Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding…",
-    "meta": "★ 52.641 · TypeScript",
+    "meta": "★ 53.589 · TypeScript",
     "image": "/assets/discover/og/chrome-devtools-mcp.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -18324,7 +18338,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 52641,
+    "stars": 53589,
     "lite": false,
     "headline": "Yapay zekâ için tarayıcı hata ayıklama",
     "last_review": "2026-10-15",
@@ -18363,6 +18377,13 @@
         "onceki_yildiz": 51328,
         "surum": "chrome-devtools-mcp-v1.10.1",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 53589,
+        "onceki_yildiz": 52641,
+        "surum": "chrome-devtools-mcp-v1.11.0",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "This server, developed for Chrome DevTools, allows coding artificial intelligence agents (coding…",
@@ -20159,7 +20180,7 @@
     "slug": "karakeep",
     "title": "Karakeep",
     "tagline": "Karakeep, bağlantıları, notları ve görselleri tek bir merkezde toplayan, kendi sunucunuzda barındırabileceğiniz…",
-    "meta": "★ 28.260 · TypeScript",
+    "meta": "★ 29.676 · TypeScript",
     "image": "/assets/discover/og/karakeep.webp",
     "source": "GitHub",
     "date": "2026-07-07",
@@ -20168,7 +20189,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28260,
+    "stars": 29676,
     "lite": false,
     "headline": "Kendi sunucunuzda dijital arşiv yönetimi",
     "last_review": "2026-10-15",
@@ -20184,6 +20205,13 @@
         "tarih": "2026-08-12",
         "yildiz": 28260,
         "onceki_yildiz": 28017,
+        "surum": "v0.33.2",
+        "surum_tarihi": "2026-08-11"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 29676,
+        "onceki_yildiz": 28260,
         "surum": "v0.33.2",
         "surum_tarihi": "2026-08-11"
       }
@@ -26522,7 +26550,7 @@
     "slug": "pi-web",
     "title": "Pi Web",
     "tagline": "Pi-web, Pi kodlama ajanı için geliştirilmiş bir web tabanlı kullanıcı arayüzü (web UI) sunuyor.",
-    "meta": "★ 7.311 · TypeScript",
+    "meta": "★ 7.392 · TypeScript",
     "image": "/assets/discover/og/pi-web.webp",
     "source": "GitHub",
     "date": "2026-07-22",
@@ -26530,7 +26558,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7311,
+    "stars": 7392,
     "lite": false,
     "headline": "Pi kodlama ajanı için web arayüzü",
     "last_review": "2026-10-15",
@@ -26618,6 +26646,13 @@
         "onceki_yildiz": 7239,
         "surum": "v0.12.1",
         "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 7392,
+        "onceki_yildiz": 7311,
+        "surum": "v0.12.2",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent.",
@@ -35068,6 +35103,13 @@
         "onceki_yildiz": 41092,
         "surum": "v3.20.245-lts",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 41092,
+        "onceki_yildiz": 41092,
+        "surum": "v3.20.246-lts",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "last_seen": "2026-08-17"
@@ -36509,7 +36551,7 @@
     "slug": "ghost",
     "title": "Ghost",
     "tagline": "Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.",
-    "meta": "★ 55.528 · JavaScript",
+    "meta": "★ 55.541 · JavaScript",
     "image": "/assets/discover/og/ghost.webp",
     "source": "GitHub",
     "date": "2026-08-22",
@@ -36517,7 +36559,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 55528,
+    "stars": 55541,
     "lite": false,
     "headline": "Modern içerik ve bülten platformu",
     "last_review": "2026-10-15",
@@ -36591,6 +36633,13 @@
         "onceki_yildiz": 55493,
         "surum": "v6.70.0",
         "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 55541,
+        "onceki_yildiz": 55528,
+        "surum": "v6.71.0",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Ghost is an independent technology platform for modern publishing, memberships, subscriptions, and newsletters.",
@@ -42309,7 +42358,7 @@
     "slug": "browser",
     "title": "Browser",
     "tagline": "Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş, Zig diliyle yazılmış bir başsız tarayıcı…",
-    "meta": "★ 36.160 · Zig",
+    "meta": "★ 36.546 · Zig",
     "image": "/assets/discover/og/browser.webp",
     "source": "GitHub",
     "date": "2026-09-08",
@@ -42317,7 +42366,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 36160,
+    "stars": 36546,
     "summary": "Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş, Zig diliyle yazılmış bir başsız tarayıcı (headless browser). Geleneksel tarayıcılara kıyasla daha az kaynak tüketerek veri kazıma ve web otomasyonu işlemlerini hızlandırmayı amaçlıyor.",
     "lite": false,
     "headline": "Hızlı ve hafif yapay zekâ tarayıcısı",
@@ -42350,6 +42399,13 @@
         "onceki_yildiz": 35884,
         "surum": "1.0.0",
         "surum_tarihi": "2026-10-02"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 36546,
+        "onceki_yildiz": 36160,
+        "surum": "1.0.1",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Lightpanda is a headless browser written in the Zig language, specifically developed for AI and automation processes...",
@@ -44494,14 +44550,14 @@
     "slug": "cilium",
     "title": "Cilium",
     "tagline": "Cilium, ağ trafiğini yönetmek, güvenlik sağlamak ve sistem izlenebilirliği (observability) sunmak için eBPF teknolojisini…",
-    "meta": "★ 25.329 · Go",
+    "meta": "★ 25.661 · Go",
     "image": "/assets/discover/og/cilium.webp",
     "source": "GitHub",
     "date": "2026-09-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 25329,
+    "stars": 25661,
     "summary": "Cilium, ağ trafiğini yönetmek, güvenlik sağlamak ve sistem izlenebilirliği (observability) sunmak için eBPF teknolojisini kullanan bir altyapı aracıdır. Özellikle Kubernetes gibi konteyner düzenleme platformlarında ağ katmanını yüksek performansla yönetmek için tercih edilir.",
     "lite": false,
     "headline": "Ağ trafiğini eBPF ile yönetin",
@@ -44515,6 +44571,13 @@
         "onceki_yildiz": 25329,
         "surum": "v1.20.2",
         "surum_tarihi": "2026-09-16"
+      },
+      {
+        "tarih": "2026-10-15",
+        "yildiz": 25661,
+        "onceki_yildiz": 25329,
+        "surum": "v1.20.3",
+        "surum_tarihi": "2026-10-15"
       }
     ],
     "tagline_en": "Cilium utilizes eBPF technology to manage network traffic, provide security, and offer system observability...",

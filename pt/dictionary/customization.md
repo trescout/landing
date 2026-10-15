@@ -1,65 +1,65 @@
-# O que é Customização?
+# O que é Customization?
 
 *Desenvolvimento · Última atualização: 22 de setembro de 2026*
 
-> Customização de Software
+Customization (termo correspondente em português: personalização) é a adaptação de um produto pronto às suas próprias necessidades.
 
-Customização (ou personalização de software) é o processo de ajustar produtos, interfaces e regras de negócio para atender às necessidades específicas de um usuário ou fluxo de trabalho.
+## Definição e origem da palavra
 
-## Definição e etimologia
+"Customize" significa adaptar de acordo com as preferências. Vai desde a cor da interface até a regra de fluxo de trabalho. O objetivo é que o produto se adapte a você, e não você ao produto. A metáfora do alfaiate é adequada: compra-se um terno pronto e ele é ajustado ao corpo.
 
-Customizar significa moldar uma tecnologia existente às exigências da rotina. Isso abrange desde a escolha de temas visuais e atalhos de teclado até a automação de processos internos e criação de integrações via API. A meta fundamental é fazer o software trabalhar para a pessoa, e não o contrário.
+***Analogia:** É como comprar um terno pronto e ir ao alfaiate para ajustá-lo às suas próprias medidas.*
 
-## Contexto cotidiano e uso prático
+## Como conhecer e usar no dia a dia?
 
-**Interfaces de Usuário:** Ajuste de painéis, layouts de trabalho e paletas de cores.
-**Sistemas Corporativos:** Criação de campos customizados, funis de venda e gatilhos de notificação em ERPs.
-**Ambientes de Programação:** Instalação de extensões e regras de formatação de código sob demanda.
+**Tema:** Modo escuro e seleção de cores.
+**Atalho:** Atribuições de teclas.
+**Institucional:** Fluxo de aprovação e definições de campos.
 
-## Profundidade técnica e arquitetura
+## Profundidade Técnica e Arquitetura
 
-Mecanismos Técnicos de Customização :
+Camadas de adaptação, do mais barato ao mais caro:
 
-**Configuração Declarativa:** Arquivos estruturados (JSON/YAML) que alteram parâmetros sem recompilação.
-**Ecossistema de Plugins:** Ganchos (hooks) de ciclo de vida que injetam lógica em pontos pré-definidos.
-**Camada de Scripts:** Execução de pequenos scripts do usuário em ambientes isolados.
+**Configuração:** A seleção pelo menu é isenta de riscos.
+**Configuração:** Escrever regras com arquivos e modelos.
+**Extensão:** Adicionar recursos sem tocar no núcleo.
+**Bifurcação (Forking):** Copiar o código e seguir um caminho separado é a opção mais cara.
 
-Uma boa engenharia de software isola as customizações em módulos externos, permitindo que o sistema central receba correções de segurança sem quebrar regras locais.
+Regra: Quanto mais alta a camada, maior o custo de atualização. Cada nova versão do produto bifurcado é mesclada manualmente.
 
-## Costuma ser confundido com
+## Coisas frequentemente misturadas
 
-Costuma ser confundida com simples preferências do sistema. Trocar o idioma é uma parametrização básica; customização transforma o funcionamento operacional da ferramenta.
+É semelhante à personalização (Personalization). A diferença é a seguinte: na customização você ajusta o sistema, enquanto na personalização o sistema observa você e se ajusta. Um é trabalho manual, o outro é automático.
 
-## Perspectivas interdisciplinares
+## Use em diferentes disciplinas
 
-**Alfaiataria:** Ajustar o caimento de uma peça de vestuário às medidas exatas do corpo.
-**Mecânica Automotiva:** Ajustar amortecedores e bancos para o conforto de um motorista específico.
-**Ergonomia:** Regular a inclinação de cadeiras e monitores para evitar lesões laborais.
+**Alfaiate:** Adaptação de roupas prontas ao corpo.
+**Mobília:** Mandar fazer um armário sob medida.
+**Automóvel:** Seleção de pacote de equipamentos.
 
-*É como levar um terno recém-comprado ao alfaiate para ajustar as mangas e a cintura até que ele fique sob medida para o seu corpo.*
+## Perguntas Frequentes
 
-## Perguntas frequentes
+**Todo software pode ser personalizado?**
 
-**Qual a diferença entre configurar e customizar?**
+Não. Os produtos em caixa fechada não oferecem ajustes. Você precisa perguntar sobre as camadas de personalização antes de comprar.
 
-Configurar é escolher entre alternativas já existentes no painel; customizar é adicionar comportamentos, regras ou campos inéditos ao sistema.
+**Qual é a diferença para a personalização (personalization)?**
 
-**Customizar em excesso pode gerar dívida técnica?**
+Na customização (customization) você ajusta, na personalização o sistema observa você. Um é trabalho manual, o outro é automático.
 
-Sim. Sistemas excessivamente modificados fora dos padrões do fabricante tornam atualizações de versão complexas e onerosas.
+**Qual é o limite?**
 
-**Como garantir estabilidade ao customizar?**
+É o ponto em que o núcleo se torna impossível de atualizar. Um produto excessivamente customizado não pode ser renovado, ele trava.
 
-Utilizando exclusivamente APIs públicas documentadas e arquiteturas desacopladas baseadas em eventos.
+**A atualização estraga a customização?**
 
-**Quando evitar o desenvolvimento customizado?**
-
-Quando os fluxos nativos do produto resolvem a maior parte do problema, evitando custos de manutenção contínua.
+Na camada de plug-in geralmente não, no bifurcamento (forking) geralmente sim. É por isso que a menor camada suficiente é escolhida.
 
 ## Termos relacionados
 
-- [Extensibilidade](https://trescout.com/pt/dictionary/extensibility/)
 - [Plugin](https://trescout.com/pt/dictionary/plugin/)
+- [Framework](https://trescout.com/pt/dictionary/framework/)
+- [User Experience](https://trescout.com/pt/dictionary/user-experience/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/customization/)
 

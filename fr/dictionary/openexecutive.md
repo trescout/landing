@@ -1,64 +1,72 @@
-# Qu'est-ce qu'OpenExecutive ?
+# Qu'est-ce que OpenExecutive ?
 
 *Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
-> Couche d'Exécution Organisationnelle Autonome
+OpenExecutive est une couche de gestion open source qui automatise les processus d'entreprise.
 
-OpenExecutive est une couche logicielle open source d'orchestration d'agents conçue pour automatiser les processus d'entreprise, coordonner les flux de travail et suivre les objectifs opérationnels.
+## Définition et origine du mot
 
-## Définition et étymologie
+Open signifie ouvert et executive signifie exécutif. Il encadre les flux de décision, de reporting et opérationnels. Il allège la charge routinière et laisse les décisions stratégiques à l'humain.
 
-Faisant le pont entre la stratégie globale et l'exécution technique, OpenExecutive agit comme un système d'exploitation pour organisations numériques. Il pilote des agents autonomes connectés aux dépôts de code, bases de données et outils de gestion.
+***Analogie :** C'est comme un assistant numérique qui fournit des données en temps réel aux départements et supervise les opérations.*
 
-## Usage quotidien et contexte pratique
+## Comment connaître et utiliser dans la vie quotidienne ?
 
-**Planification de sprints :** Décomposition automatique d'objectifs trimestriels en tickets et jalons techniques exécutables.
-**Audits opérationnels réguliers :** Surveillance continue des budgets d'infrastructure et de la santé des services déployés.
-**Synthèses exécutives :** Compilation automatique de métriques complexes en rapports stratégiques clairs.
+**Rapport :** Résumé et distribution automatiques.
+**Approbation :** Routage basé sur des règles.
+**Surveillance :** Alerte de déviation.
 
 ## Profondeur technique et architecture
 
-Architecture logicielle :
+Couche :
 
-**Moteur d'orchestration d'agents :** Machine à états gérant la collaboration asynchrone entre plusieurs agents spécialisés.
-**Connecteurs d'entreprise :** Modules d'intégration avec GitHub, Slack, les CRM et les fournisseurs de cloud.
-**Garde-fous décisionnels :** Portes de validation humaine pour les actions financières ou opérationnelles critiques.
+**Connexion aux données :** Accès aux systèmes sources.
+**Moteur de règles :** Définition des seuils et des conditions.
+**Action :** Notification, enregistrement et déclenchement.
+**Validation humaine :** Arrêt à une étape critique.
 
-## Souvent confondu avec
+Exemple de règle :
 
-Souvent confondu avec un simple tableau de suivi de tâches (Jira, Linear). Un tableau enregistre passivement l'action humaine ; OpenExecutive délègue et exécute activement les tâches via des agents logiciels.
+```
+kural: stok < 10 → satınalma talebi aç
+sahip: operasyon müdürü
+```
 
-## Perspectives interdisciplinaires
+Règle : L'automatisation propose, la responsabilité valide. La signature appartient à l'humain.
 
-**Aviation :** Un pilote automatique corrigeant la trajectoire en continu vs un manuel de vol statique.
-**Industrie :** Une chaîne de fabrication robotisée supervisant les cadences vs une fiche d'atelier papier.
-**Logistique :** Un centre de tri autonome ajustant les flux en temps réel vs un registre de suivi manuel.
+## Choses fréquemment mélangées
 
-*Il agit comme un chef de cabinet numérique infatigable : coordonnant les services, distribuant l'information en temps réel et veillant à l'exécution rigoureuse des directives.*
+On le prend pour un chatbot. Le bot répond, cette couche est intégrée au processus. L'un est la fenêtre, l'autre est l'installation.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
 
-**Quel est l'objectif premier d'OpenExecutive ?**
+**Assistant :** Support prenant en charge les tâches routinières.
+**Pilote automatique :** Un système qui maintient le cap.
+**Secrétariat :** Gestion du flux documentaire.
 
-Accélérer l'exécution opérationnelle en confiant la coordination des flux techniques et organisationnels à des agents IA.
+## Foire aux questions
 
-**Comment s'intègre-t-il dans les outils existants ?**
+**Remplace-t-il le manager ?**
 
-Par des connecteurs d'API standards dialoguant avec GitHub, les bases de données et les outils de messagerie.
+Non. Il prend en charge les tâches routinières, la décision stratégique reste humaine.
 
-**Remplace-t-il les décideurs humains ?**
+**Comment la sécurité des données est-elle assurée ?**
 
-Non, il les décharge des arbitrages logistiques répétitifs pour leur permettre de se concentrer sur la stratégie.
+La portée de l'accès est restreinte, les étapes critiques sont soumises à approbation. Un journal d'audit est conservé.
 
-**Peut-on l'héberger sur ses propres serveurs ?**
+**Par où commencer ?**
 
-Oui, son code open source est pensé pour un déploiement sécurisé sur infrastructure privée.
+Avec un seul processus répétitif. Il est mesuré, puis déployé.
+
+**Quel est l'avantage de l'open source ?**
+
+C'est la liberté d'audit et de personnalisation. La responsabilité de l'hébergement vous incombe.
 
 ## Termes liés
 
 - [AI Agent](https://trescout.com/fr/dictionary/ai-agent/)
-- [Application](https://trescout.com/fr/dictionary/application/)
-- [Pipelines Déterministes](https://trescout.com/fr/dictionary/deterministic-pipelines/)
+- [Enterprise Resource Planning](https://trescout.com/fr/dictionary/enterprise-resource-planning/)
+- [Agentic System](https://trescout.com/fr/dictionary/agentic-system/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/openexecutive/)
 

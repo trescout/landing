@@ -1,68 +1,64 @@
-# ¿Qué es la Telemetría (Telemetry)?
+# ¿Qué es Telemetry?
 
 *Desarrollo · Última actualización: 22 de septiembre de 2026*
 
-> Inglés: Telemetry · Etimología: griego tele (lejos, a distancia) + metron (medida)
+La telemetría (medición remota en turco) es la recopilación automática de información de estado de software y dispositivos y su transmisión al centro.
 
-La telemetría (telemetry) es el proceso automatizado de medir, recopilar y transmitir datos de estado, registros, métricas y trazas diagnósticas desde aplicaciones remotas hacia consolas centrales de supervisión.
+## Definición y origen de la palabra
 
-## Definición y etimología
+La palabra proviene de las raíces griegas tele (lejos) y metron (medida). Las aplicaciones envían informes al desarrollador sobre cómo está funcionando el software: qué característica se utiliza mucho, dónde falla la aplicación. Es un flujo de datos que fluye silenciosamente en segundo plano para el usuario.
 
-El término procede del griego tele (distante) y metron (medida). En la ingeniería de software actual, la telemetría proporciona visibilidad en tiempo real sobre el funcionamiento de las aplicaciones: qué apartados son los más usados, dónde se producen caídas y qué llamadas presentan latencias anómalas.
+***Analogía:** Es como si los sensores dentro de un automóvil informaran continuamente al panel del conductor sobre la temperatura del motor y el estado del combustible.*
 
-## Contexto cotidiano e uso práctico
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
 
-Casos frecuentes de uso de la telemetría :
-
-- **Diagnóstico de Errores:** Registro y envío de informes de fallo detallados tras una excepción no controlada.
-- **Métricas de Uso:** Análisis agregado del comportamiento de los usuarios para mejorar la interfaz.
-- **Salud de Infraestructura:** Control de consumo de memoria, disco y red en clústeres de servidores.
+**Depuración:** Recopilación automática de informes de fallos.
+**Veredicto del producto:** Simplificación del botón menos utilizado.
+**Actuación:** Monitoreo del tiempo de arranque de una versión a otra.
 
 ## Profundidad técnica y arquitectura
 
-Los tres pilares de la observabilidad moderna :
+Los tres pilares de la observabilidad:
 
-- **Logs:** Mensajes con sello de tiempo que certifican que un hecho concreto ha tenido lugar.
-- **Métricas:** Agrupaciones numéricas que permiten calcular porcentajes de error y cargas de trabajo.
-- **Trazas (Traces):** Reconstrucción del recorrido de una petición entre distintos microservicios.
-- **OpenTelemetry:** Estándar libre promovido para unificar la captura de datos sin ataduras a proveedores.
+**Registro:** Líneas de eventos ("pago iniciado", "pago finalizado").
+**Métrico:** Métricas numéricas (número de solicitudes, latencia promedio).
+**Rastro:** Un registro del recorrido de la solicitud entre servicios.
 
-## Suele confundirse con
+Para la recopilación se utilizan estándares abiertos como OpenTelemetry. Se observan dos reglas: en caso de mucho tráfico, enviar muestras (sampling) en lugar de cada solicitud y no registrar datos personales (correo electrónico, ubicación). Puede ver qué datos van y desactivarlos en la sección de configuración de la aplicación.
 
-A menudo se confunde con la generación de logs. Un log es una línea de evento aislada; la telemetría abarca el conjunto estructurado de métricas numéricas, trazas distribuidas y logs centralizados.
+## Cosas frecuentemente mezcladas
 
-## Perspectivas interdisciplinares
+Se puede confundir con la tala. El registro es la línea de evento única. Una métrica es un resumen numérico. La huella es el viaje del deseo. Telemetría es el nombre de recopilar y transmitir estos tres.
 
-Modelos similares en otras actividades :
+## Uso en diferentes disciplinas
 
-- **Medicina:** El monitor de constantes vitales que envía pulsaciones y oxígeno a la sala de enfermería.
-- **Aviación:** Los sistemas de abordo que emiten telemetría de turbinas a los equipos de pista.
-- **Competición:** Los coches de carreras que transmiten miles de telemetrías por segundo al muro de boxes.
-
-*Es como el conjunto de indicadores y sensores de un coche que avisan de la temperatura del refrigerante y la presión del aceite en el salpicadero del conductor.*
+**Hospital:** El monitor del paciente transmite el pulso a la pantalla de la enfermera.
+**Aviación:** Almacenar datos de vuelo en una caja negra.
+**Energía:** Los contadores reportan el consumo al centro.
 
 ## Preguntas frecuentes
 
-**¿Afecta la telemetría a la privacidad personal?**
+**¿Afecta a mi privacidad?**
 
-Las buenas prácticas exigen disociar cualquier dato personal (PII) antes de transmitir la información y dar opción de desactivarla.
+Generalmente se recopilan datos anónimos y agregados. Puede ver qué datos se envían y desactivarlos en la sección de configuración de la aplicación.
 
-**¿En qué se diferencian telemetría y monitorización?**
+**¿Cuál es la diferencia con la observabilidad?**
 
-La telemetria es el vehículo técnico que recoge y traslada los datos; la monitorización interpreta esos datos y alerta de incidentes.
+La telemetría recopila y transmite datos. La observabilidad es la capacidad de comprender el interior del sistema con los datos recopilados. Uno es el medio, el otro es la meta.
 
-**¿Por qué OpenTelemetry es tan relevante?**
+**¿Se puede cerrar?**
 
-Porque consolida métricas, trazas y registros bajo un protocolo libre, evitando quedar sujeto a soluciones de pago cerradas.
+En la mayoría de aplicaciones eso sí, está desactivado desde los ajustes. Los dispositivos corporativos pueden permanecer abiertos según la política.
 
-**¿Qué ocurre si se interrumpe la conexión de red?**
+**¿Tiene algún costo?**
 
-Los agentes de telemetría almacenan los datos localmente en un búfer y los retransmiten cuando el enlace vuelve a estar operativo.
+Sí. Hay una tarifa de transporte y almacenamiento de datos. Es por eso que el muestreo se realiza con mucho tráfico, algunos de ellos se envían, no todos los eventos.
 
 ## Términos relacionados
 
 - [Logs](https://trescout.com/es/dictionary/logs/)
 - [Observability](https://trescout.com/es/dictionary/observability/)
+- [Traces](https://trescout.com/es/dictionary/traces/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/telemetry/)
 

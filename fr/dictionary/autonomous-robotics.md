@@ -1,67 +1,65 @@
-# Qu'est-ce que la Robotique Autonome ?
+# Qu'est-ce que Autonomous Robotics ?
 
 *Intelligence artificielle · Dernière mise à jour : 22 septembre 2026*
 
-> Robotique Autonome
+La robotique autonome est la science des machines capables de se déplacer sans assistance.
 
-La robotique autonome (**autonomous robotics**) est la discipline scientifique concevant des machines capables de percevoir leur environnement, de planifier leurs mouvements et d'agir sans guidage humain continu.
+## Définition et origine du mot
 
-## Définition et étymologie
+Les robots voient avec des capteurs, cartographient, calculent l'itinéraire. Ils exécutent la commande, changent de stratégie selon la situation. Ils produisent des solutions dans l'incertitude.
 
-Les robots autonomes observent leur environnement à l'aide de capteurs, cartographient l'espace et calculent leurs trajectoires. Ils exécutent des directives tout en adaptant leur comportement en temps réel face aux imprévus et aux obstacles rencontrés.
+***Analogie :** Ce n'est pas une voiture télécommandée, c'est comme un véhicule autonome qui trouve son chemin en fonction du trafic.*
 
-## Usage quotidien et contexte pratique
+## Comment connaître et utiliser dans la vie quotidienne ?
 
-**Entrepôts logistiques :** Chariots automatisés déplaçant des marchandises entre les rayons.
-**Agriculture de précision :** Robots désherbeurs et cueilleurs guidés par caméra le long des sillons.
-**Exploration extrême :** Sondes sous-marines et rovers spatiaux explorant des zones inaccessibles à l'homme.
+**Entrepôt :** Transport entre les rayonnages.
+**Agriculture :** Suivi de rang.
+**Exploration :** Balayage de zones dangereuses.
 
 ## Profondeur technique et architecture
 
-Architecture technique fondamentale :
+Parties:
 
-**Perception :** Caméras stéréoscopiques, capteurs LiDAR, télémètres et centrales inertielles (IMU).
-**SLAM :** Localisation et cartographie simultanées en temps réel sans dépendance au GPS.
-**Planification :** Algorithmes de recherche d'itinéraire et évitement dynamique d'obstacles.
-**Contrôle et sécurité :** Boucles d'asservissement moteur et protocoles d'arrêt d'urgence matériel.
+**Perception :** Caméra, lidar et radar.
+**SLAM :** Localisation et cartographie simultanées.
+**Plan :** Itinéraire de contournement d'obstacles.
+**Contrôle :** Arrêt sur erreur.
 
-Le framework ROS (Robot Operating System) constitue le standard de l'industrie, orchestrant les flux de données entre capteurs, modèles d'IA et actionneurs physiques.
+ROS est un cadre commun. L'intelligence artificielle traite les données d'image et de capteur, alimentant le mécanisme de décision.
 
-## Souvent confondu avec
+## Choses fréquemment mélangées
 
-Souvent confondue avec la robotique industrielle programmée. Un bras d'assemblage répète indéfiniment une trajectoire préétablie dans un milieu contrôlé ; un robot autonome prend des décisions face à l'imprévu.
+On le croit être un robot programmé. L'un répète un chemin fixe, l'autre génère des solutions dans l'incertitude. L'un est une chaîne de montage, l'autre est un chauffeur.
 
-## Perspectives interdisciplinaires
+## Utilisation dans différentes disciplines
 
-**Véhicule autonome :** Conduite adaptée au trafic et à la météo.
-**Pilote automatique :** Maintien d'altitude et de cap en vol.
-**Pigeon voyageur :** Orientation biologique instinctive vers sa destination.
+**Véhicule autonome :** Trajet en fonction du trafic.
+**Pilote automatique :** Maintien de trajectoire.
+**Pigeon voyageur :** Retour à la cible.
 
-*Ce n'est pas une petite voiture télécommandée dirigée à distance, mais un véhicule autonome qui trouve son chemin tout seul à travers les embouteillages.*
+## Foire aux questions
 
-## Questions fréquentes
+**Ne fait-il pas d'erreurs ?**
 
-**Un robot autonome peut-il commettre des erreurs ?**
+Si. Il est soutenu par une couche de sécurité et l'apprentissage.
 
-Oui. Des capteurs encrassés ou des situations inédites peuvent induire des erreurs ; la fusion multi-capteurs et des garde-fous logiciels limitent ces risques.
+**Où est-il utilisé ?**
 
-**Où trouve-t-on le plus de robots autonomes aujourd'hui ?**
+Dans l'entrepôt, l'agriculture et l'exploration. Il est en première ligne pour les tâches répétitives et dangereuses.
 
-Dans la logistique pour le tri de colis, dans l'agriculture moderne et dans les missions d'inspection d'infrastructures à risque.
+**Qu'est-ce que ça coûte ?**
 
-**Quels sont les freins techniques majeurs ?**
+Il y a un coût pour les capteurs et le logiciel. Il est payé en échange du gain de main-d'œuvre.
 
-Le coût des capteurs optiques et la consommation électrique des puces d'IA embarquées nécessaires au traitement instantané des flux LiDAR.
+**Quelle est la différence avec la version télécommandée ?**
 
-**En quoi diffère-t-il d'un drone télécommandé ?**
-
-Le drone télécommandé dépend directement des mains d'un pilote ; le robot autonome reçoit un ordre final et gère chaque micro-décision de façon indépendante.
+La version télécommandée est contrôlée par l'homme, tandis que la version autonome est livrée à elle-même face à sa cible.
 
 ## Termes liés
 
-- [Introduction à la robotique autonome](https://trescout.com/fr/dictionary/autonomous-robots-intro/)
-- [IA physique](https://trescout.com/fr/dictionary/physical-ai/)
-- [Modèles de monde](https://trescout.com/fr/dictionary/world-model/)
+- [Introduction to Autonomous Robots](https://trescout.com/fr/dictionary/autonomous-robots-intro/)
+- [Physical AI](https://trescout.com/fr/dictionary/physical-ai/)
+- [World Models](https://trescout.com/fr/dictionary/world-model/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/autonomous-robotics/)
 

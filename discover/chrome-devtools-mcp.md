@@ -2,16 +2,16 @@
 
 Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding agents) tarayıcı tabanlı hata ayıklama süreçlerini yönetmesini sağlıyor. Model Bağlam Protokolü (Model Context Protocol) üzerinden çalışan bu araç, ajanların web uygulamalarını doğrudan incelemesine ve hata giderme işlemlerini otomatize etmesine olanak tanıyor.
 
-- ★ 52.641
+- ★ 53.589
 - TypeScript
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 52.641 → 53.589, son sürüm chrome-devtools-mcp-v1.11.0 (15 Ekim 2026).
 - **27 Eylül 2026:** Yıldız 51.328 → 52.641, son sürüm chrome-devtools-mcp-v1.10.1 (23 Eylül 2026).
 - **8 Eylül 2026:** Yıldız 49.801 → 51.328, son sürüm chrome-devtools-mcp-v1.9.0 (8 Eylül 2026).
 - **27 Ağustos 2026:** Yıldız 48.884 → 49.801, son sürüm chrome-devtools-mcp-v1.8.0 (25 Ağustos 2026).
-- **11 Ağustos 2026:** Yıldız 48.381 → 48.884, son sürüm chrome-devtools-mcp-v1.7.0 (10 Ağustos 2026).
 
 ## Ne kazandırır?
 

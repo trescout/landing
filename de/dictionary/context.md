@@ -1,62 +1,91 @@
-# Was ist Kontext (Context)? KI vs. Betriebssysteme
+# Was ist Context?
 
 *Künstliche Intelligenz · Zuletzt aktualisiert: 19. September 2026*
 
-> Englisch: Context · Wortherkunft: lateinisch contexere (zusammenweben, verknüpfen)
+Der Kontext ist die Gesamtheit der umgebungsbezogenen und semantischen Informationen, die ein Datum, ein Befehl oder ein Prozess benötigt, um korrekt interpretiert und ausgeführt werden zu können.
 
-Kontext (Context) ist ein universeller Grundbegriff der Informatik, der entweder das aktive Eingabe- und Erinnerungsfenster großer Sprachmodelle oder den hardwarespezifischen Prozessorzustand bei der Prozessverwaltung von Betriebssystemen bezeichnet.
+## 1. Kontext in künstlicher Intelligenz und LLMs
 
-*Wenn Sie zu einem Freund sagen 'Ja, er hat zugestimmt', versteht er Sie nicht; sagen Sie jedoch 'Bezüglich unseres Gesprächs von gestern über den Urlaubsplan', liefern Sie den notwendigen Kontext für das Verständnis.*
+Große Sprachmodelle (LLM) verfügen nicht über ein dauerhaftes Gedächtnis oder ein Erfahrungsspeichersystem wie Menschen; bei jeder Abfrage "erinnern" sie sich nur an die Daten, die in diesem Moment in das Kontextfenster (context window) aufgenommen wurden.
 
-## 1. Der Kontext in Künstlicher Intelligenz und LLMs
+### Transformer und der Aufmerksamkeitsmechanismus (Self-Attention)
 
-Große Sprachmodelle besitzen zwischen einzelnen API-Abfragen kein fortlaufendes Bewusstsein. Um Fragen präzise zu beantworten, sind sie vollständig auf ihr **Kontextfenster** angewiesen: die Abfolge aller Tokens (Systemanweisungen, bisheriger Chatverlauf und RAG-Textauszüge), die der Anfrage mitgegeben werden. Die Größe dieses Fensters bestimmt, wie viele Zusammenhänge das Modell gleichzeitig erfassen kann.
+In der Transformer-Architektur wird der Kontext hergestellt, indem die Beziehung eines Wortes am Anfang eines Satzes zu einem Wort am Ende gewichtet wird (Query-, Key-, Value-Vektoren). Das Modell löst auf, ob das Wort "Bank" ein Finanzinstitut oder ein Flussufer ist, indem es nur den Kontext des Satzes betrachtet, in dem es vorkommt.
 
-## 2. Kontext in Betriebssystemen und Systemprogrammierung
+### Kontextfenster (Context Window) und seine Grenzen
 
-In Betriebssystemen beschreibt der Kontext den vollständigen Zustand eines CPU-Kerns bei der Programmausführung: Hardware-Register, Programmzähler (PC) und Speichertabellen. Wenn das System von einem Thread zu einem anderen wechselt, führt es einen **Kontextwechsel (Context Switch)** durch, indem es den alten Zustand sichert und den neuen in die Prozessorregister lädt.
+- Token-Kapazität: Die maximale Länge, die ein Modell auf einmal lesen und als Antwort generieren kann (z. B. 8K, 32K, 128K oder 1M+ Token).
+- Speicherkosten (KV-Cache): Mit zunehmender Kontextlänge steigt der Speicherbedarf der Aufmerksamkeitsmatrix quadratisch an. Um diese Last zu verringern, werden FlashAttention und KV-Cache-Optimierungen eingesetzt.
+- Lost-in-the-Middle-Problem: Untersuchungen zeigen, dass LLMs Informationen am Anfang und am Ende langer Texte besser verarbeiten können als Informationen in der Mitte.
+- RAG (Retrieval-Augmented Generation): Anstatt Millionen von Seiten an Unternehmensdaten in das Kontextfenster zu quetschen, werden mithilfe einer Suchmaschine oder einer Vektordatenbank nur die für die Abfrage relevantesten Absätze gefiltert und dem Modell als Kontext bereitgestellt.
 
-## Gegenüberstellung verschiedener Fachdisziplinen
+***Analogie:** Wenn Sie sich mit einem Freund unterhalten und nur sagen: "Ja, das hat er auch gesagt", wird er Sie nicht verstehen; wenn Sie jedoch sagen: "Ich spreche von dem Film, über den wir gestern gesprochen haben", haben Sie den notwendigen Kontext (Context) geliefert.*
 
-Einsatzformen des Begriffs in der Softwaretechnik:
+## 2. Kontext in Betriebssystemen und Programmierung
 
-- **KI-Sprachmodelle:** Token-Puffer und KV-Cache als unmittelbares Arbeitsgedächtnis während der Inferenz.
-- **Betriebssysteme:** Process Control Blocks (PCB) zur Sicherung von CPU-Registern beim Multitasking.
-- **Web-Frameworks:** Kontext-Objekte (in Go oder React) zur hierarchischen Weitergabe von Abbruchsignalen und Authentifizierungsdaten.
+In der Systemprogrammierung bezieht sich "Kontext" auf alle Variablen- und Registerwerte, die den aktuellen Zustand eines Programms während seiner Ausführung vollständig widerspiegeln.
+
+### Kontextwechsel (Context Switching)
+
+Ein Betriebssystem, das Multitasking ausführt, verteilt den CPU-Kern auf verschiedene Prozesse und Threads:
+
+1. Die CPU-Register (RAX, RSP, RIP usw.), der Stack-Pointer und die Speicherseiten des laufenden Prozesses werden im Process Control Block (PCB) gespeichert.
+2. Die Register des nächsten Prozesses werden in die CPU zurückgeladen.
+3. Kosten: Kontextwechsel sind auf Hardwareebene sehr kostspielig, da sie dazu führen, dass die CPU-L1/L2-Caches und die TLB-Adresszuordnungen (Translation Lookaside Buffer) ungültig werden (Cache-Pollution).
+
+### Kontextverwaltung in Programmiersprachen
+
+- Go (context.Context): Wird verwendet, um Abbruchsignale (Cancellation), Fristen (Deadline) und anforderungsbezogene Metadaten zwischen Netzwerkanfragen oder asynchronen Goroutinen zu übertragen.
+- Python (with-Blöcke): Kontextmanager machen Ressourcenbereinigungen, wie das Lesen von Dateien oder das Öffnen und Schließen von Datenbankverbindungen, sicher.
+- React (Context API): Globale Zustände tief in den Komponentenbaum zu übertragen, ohne Props einzeln durch Zwischenkomponenten weiterreichen zu müssen (ohne Prop Drilling).
+
+## Vergleich: Das Konzept des Kontexts in verschiedenen Disziplinen
+
+| Bereich | Der vom Kontext repräsentierte Wert | Typische Komponenten | Aufgetretene Probleme |
+|---|---|---|---|
+| Künstliche Intelligenz (LLM) | Eingabeaufforderung + Chat-Verlauf + Dokumente | Token, Attention-Masken, KV-Cache | Token-Limit, Halluzination, Speicherverbrauch |
+| Betriebssysteme | Hardware-Momentaufnahme eines Prozesses | Register, Programmzähler, Seitentabellen | CPU-Latenz, Cache-Misses, TLB-Flush |
+| Softwareentwicklung | Anfrage-Lebenszyklus und Umgebungsdaten | Timeout-Signal, Autorisierungs-Token | Speicherleck, nicht abgebrochene asynchrone Aufrufe |
 
 ## Häufige Fragen
 
-**Was bedeutet das Phänomen 'lost in the middle' bei KI-Modellen?**
+**Was bedeutet Context und was ist das deutsche Äquivalent?**
 
-Dass Sprachmodelle Fakten am Anfang und am Ende langer Eingabetexte deutlich zuverlässiger erfassen als in der Mitte großer Textblöcke.
+Das deutsche Äquivalent ist "Kontext". Es bezeichnet die Bedingungen, den Hintergrund und die Gesamtheit der damit verbundenen ergänzenden Umstände, in denen sich ein Ausdruck, eine Information oder ein Vorgang befindet.
 
-**Warum sind CPU-Kontextwechsel rechenintensiv?**
+**Was ist der Unterschied zwischen Prompt und Kontext?**
 
-Weil das Sichern und Wiederherstellen von Registerwerten Prozessorzyklen kostet und schnelle CPU-Caches entwertet werden.
+Ein Prompt ist die direkte Eingabe, Frage oder Handlungsanweisung an die KI ("Erkläre diesen Code"). Der Kontext hingegen sind die zusätzlichen Informationen, der vollständige Code, Umgebungsvariablen oder frühere Konversationen, die bereitgestellt werden, damit das Modell diese Anweisung korrekt ausführen kann.
 
-**Welchen Nutzen hat die Context-API in React?**
+**Warum ist das Context Window (Kontextfenster) begrenzt?**
 
-Sie erlaubt die direkte Übergabe globaler Daten (wie Anmeldezustaende oder Farbschemata) an tiefe Unterkomponenten ohne manuelle Parameterweitergabe.
+In der Transformer-Architektur wird jedes Token mit allen anderen Token kreuzverknüpft. Da diese mathematische Berechnung und der gespeicherte Speicher (KV-Cache) quadratisch mit der Kontextlänge zunehmen, stellt der GPU-Speicher eine hardwareseitige Grenze dar.
 
-**Wie verarbeitet die Transformer-Architektur den Kontext?**
+**Warum führt ein "Context Switch" im Betriebssystem zu einem Leistungsverlust?**
 
-Über Aufmerksamkeitsmatrizen, die berechnen, wie stark jedes Wort im Eingabefenster semantisch mit allen anderen Wörtern zusammenhängt.
+Beim Wechsel von einem Prozess zum anderen muss die CPU die Register speichern, den Speicherbereich des neuen Prozesses laden und die Prozessor-Caches (L1/L2/L3 und TLB) leeren und neu füllen. Dies führt zu einem direkten Prozessorverlust im Bereich von Mikrosekunden.
+
+**Warum wird das context-Paket in der Sprache Go als erster Parameter an jede Funktion übergeben?**
+
+Der Parameter ctx context.Context in Go verhindert die unnötige Verschwendung von Serverressourcen, indem er sicherstellt, dass Datenbankabfragen und Hintergrundaufgaben im Backend gestoppt werden, wenn eine HTTP-Anfrage abgebrochen wird oder ein Timeout auftritt.
 
 ## Verwandte Begriffe
 
 - [Context Window](https://trescout.com/de/dictionary/context-window/)
-- [Working Memory](https://trescout.com/de/dictionary/working-memory/)
+- [Prompt](https://trescout.com/de/dictionary/prompt/)
+- [RAG](https://trescout.com/de/dictionary/rag/)
+- [Runtime](https://trescout.com/de/dictionary/runtime/)
 
-## Verwandte Tools
+## Verwandte Werkzeuge
 
+- [REA](https://trescout.com/de/discover/rea/)
+- [Servers](https://trescout.com/de/discover/servers/)
+- [OmniRoute](https://trescout.com/de/discover/omniroute/)
 - [Goose](https://trescout.com/de/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/de/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/de/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/de/discover/code-review-graph/)
-- [Fastmcp](https://trescout.com/de/discover/fastmcp/)
 - [Context Mode](https://trescout.com/de/discover/context-mode/)
-- [Unity MCP](https://trescout.com/de/discover/unity-mcp/)
-- [DesktopCommanderMCP](https://trescout.com/de/discover/desktopcommandermcp/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/context/)
 

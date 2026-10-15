@@ -1,64 +1,70 @@
-# ¿Qué es la Local-first Memory?
+# ¿Qué es Local-first Memory?
 
 *Datos e infraestructura · Última actualización: 22 de septiembre de 2026*
 
-> Arquitectura de Memoria Local Primero
+La memoria local primero es el enfoque donde los datos permanecen en el dispositivo.
 
-Local-first memory (memoria con prioridad local) es un patrón de diseño donde el estado principal y los datos de la aplicación se guardan y gestionan en el dispositivo del usuario, dejando la nube como capa complementaria de respaldo.
+## Definición y origen de la palabra
 
-## Definición y etimología
+"Local primero" significa local primero. Se basa en el dispositivo y no en la nube. Funciona de forma interrumpida, la privacidad está protegida. Tenga en cuenta que las aplicaciones y la IA local son de este orden.
 
-Frente a las arquitecturas tradicionales dependientes de servidores remotos continuos, el enfoque local-first garantiza latencia cero e independencia absoluta de la conexión a Internet. El dispositivo del usuario es el dueño primario de la información.
+***Analogía:** Es como guardar la información en un cajón cerrado con llave en casa en lugar de en la caja fuerte de un banco.*
 
-## Contexto cotidiano e uso práctico
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
 
-**Gestión de Notas y Conocimiento:** Herramientas como Obsidian o Logseq que preservan archivos de texto plano en el disco local.
-**Pizarras de Diseño Colaborativo:** Aplicaciones que funcionan sin conexión y fusionan cambios concurrentes sin pérdidas.
-**Contexto de Agentes de IA:** Historiales y bases vectoriales alojadas en el dispositivo para resguardar la privacidad personal.
+**Notas:** Cuaderno sin conexión.
+**Deber:** Lista local.
+**Medios:** Archivo de dispositivos.
 
 ## Profundidad técnica y arquitectura
 
-Fundamentos Técnicos y Estructura:
+Diseño:
 
-**Almacenamiento Local de Alto Rendimiento:** SQLite e IndexedDB resolviendo consultas en milisegundos sin llamadas de red.
-**Estructuras CRDT:** Algoritmos matemáticos (Yjs, Automerge) diseñados para combinar ediciones concurrentes sin bloqueos centrales.
-**Cifrado de Extremo a Extremo:** Conductos de sincronización donde los servidores de retransmisión no tienen acceso a los datos legibles.
+**Base de datos local:** Archivo en el dispositivo.
+**Sincronicidad:** Fusión libre de conflictos con CRDT.
+**Respaldo:** Disciplina de copia separada.
 
-## Suele confundirse con
+Registro del navegador:
 
-Suele confundirse con una caché sin conexión clásica. La caché es una copia subordinada al servidor central; en local-first, la copia del dispositivo local es la fuente de verdad definitiva.
+```
+localStorage.setItem("not", metin);
+```
 
-## Perspectivas interdisciplinares
+Regla: si el dispositivo se estropea, se pierden datos. La copia de seguridad se guarda en la nube o en disco.
 
-**Finanzas:** Guardar dinero en efectivo en una caja fuerte doméstica frente a depender por completo de la banca electrónica.
-**Escritura:** Redactar en una libreta física frente a escribir en un documento compartido en la nube.
-**Herramientas:** Tener tu propia caja de llaves en el garaje frente a alquilarlas por horas en cada avería.
+## Cosas frecuentemente mezcladas
 
-*Se asemeja a guardar sus pertenencias en un cajón con llave en su propia vivienda en lugar de en una caja de seguridad bancaria: accede a ellas al instante sin pedir autorización a terceros.*
+Se considera un modo fuera de línea. Ésa es la situación temporal, éste es el orden de propiedad. Los datos son tuyos, no alquilados.
+
+## Uso en diferentes disciplinas
+
+**Cajón:** Cajón de casa cerrado con llave.
+**Caja fuerte:** Confianza personal.
+**Cartera:** Valor de bolsillo.
 
 ## Preguntas frecuentes
 
-**¿Por qué está creciendo el interés en local-first?**
+**¿Qué pasa si el dispositivo se rompe?**
 
-Porque ofrece interfaces que nunca se congelan por caídas de red y garantiza una privacidad digital total.
+Los datos se han ido. La copia de seguridad se guarda en un lugar aparte, la nube no se considera automática.
 
-**¿Cómo se sincronizan varios usuarios sin sobreescrituras accidentales?**
+**¿Qué tal sincrónico?**
 
-Mediante estructuras CRDT que resuelven los conflictos de edición simultánea de manera matemática determinista.
+Se fusiona sin conflictos con CRDT. Una vez que los dispositivos se encuentran, se sincronizan.
 
-**¿Se eliminan por completo los servidores en este esquema?**
+**¿Cuándo nube?**
 
-No, se utilizan servidores ligeros como repetidores cifrados para intercambiar cambios entre dispositivos autorizados.
+Cuando se necesita compartir y realizar copias de seguridad. Lo local es la base, la nube es la copia.
 
-**¿Qué bases de datos son habituales en proyectos local-first?**
+**¿Es seguro?**
 
-SQLite (WASM), RxDB, PGlite, ElectricSQL e IndexedDB combinadas con Yjs o Automerge.
+Sí, con cifrado del dispositivo. El bloqueo contra la pérdida del dispositivo es imprescindible.
 
 ## Términos relacionados
 
-- [Nube Personal](https://trescout.com/es/dictionary/personal-cloud/)
-- [Runtime](https://trescout.com/es/dictionary/runtime/)
-- [Privacidad Digital](https://trescout.com/es/dictionary/digital-privacy/)
+- [Local-first](https://trescout.com/es/dictionary/local-first/)
+- [Memory System](https://trescout.com/es/dictionary/memory-system/)
+- [Self-hosting](https://trescout.com/es/dictionary/self-hosting/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/local-first-memory/)
 

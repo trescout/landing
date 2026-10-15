@@ -2,16 +2,16 @@
 
 Dieser für Chrome DevTools entwickelte Server ermöglicht es Codierungs-Agenten für künstliche Intelligenz, browserbasierte Debugging-Prozesse zu verwalten. Mithilfe des Model Context Protocol ermöglicht dieses Tool Agenten die direkte Inspektion von Webanwendungen und die Automatisierung von Debugging-Prozessen.
 
-- ★ 52.641
+- ★ 53.589
 - TypeScript
 - GitHub Trending · 2026-07-03
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 52,641 → 53,589, neueste Version chrome-devtools-mcp-v1.11.0 (15. Oktober 2026).
 - **27. September 2026:** Sterne 51,328 → 52,641, neueste Version chrome-devtools-mcp-v1.10.1 (23. September 2026).
 - **8. September 2026:** Sterne 49,801 → 51,328, neueste Version chrome-devtools-mcp-v1.9.0 (8. September 2026).
 - **27. August 2026:** Sterne 48,884 → 49,801, neueste Version chrome-devtools-mcp-v1.8.0 (25. August 2026).
-- **11. August 2026:** Sterne 48,381 → 48,884, neueste Version chrome-devtools-mcp-v1.7.0 (10. August 2026).
 
 ## Was es bringt
 

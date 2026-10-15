@@ -1,64 +1,64 @@
-# ¿Qué es la Frontier AI?
+# ¿Qué es Frontier AI?
 
 *Inteligencia artificial · Última actualización: 22 de septiembre de 2026*
 
-> Inteligencia Artificial de Frontera
+Frontier AI (inteligencia artificial fronteriza en turco) son los modelos actuales más capaces.
 
-Frontier AI (IA de frontera) describe a los modelos de inteligencia artificial más avanzados y potentes del momento, capaces de superar los límites conocidos en razonamiento lógico, multimodalidad y autonomía.
+## Definición y origen de la palabra
 
-## Definición y etimología
+"Frontera" significa frontera. Son sistemas con un alto poder de procesamiento y capacidad de razonamiento, más allá de los estándares. Pasa del descubrimiento científico al plan estratégico.
 
-El concepto designa el umbral tecnológico más puntero donde convergen centros de supercomputación, arquitecturas profundas y conjuntos de datos masivos. Estos sistemas destacan por exhibir capacidades emergentes no programadas de forma explícita.
+***Analogía:** Entre los vehículos estándar, es como un coche de Fórmula 1; Es el más rápido y avanzado.*
 
-## Contexto cotidiano e uso práctico
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
 
-**Investigación Científica:** Diseño de fármacos, síntesis de nuevos materiales y biología computacional.
-**Desarrollo de Software Autónomo:** Refactorización masiva de arquitecturas de microservicios y resolución de incidencias complejas.
-**Gobernanza y Geopolítica:** Eje de cumbres internacionales de seguridad y auditoría algorítmica.
+**Investigación:** Literatura y diseño experimental.
+**Ingeniería:** Generación de código complejo.
+**Análisis:** Resumen de grandes datos.
 
 ## Profundidad técnica y arquitectura
 
-Pilares Técnicos Fundamentales:
+Determinantes:
 
-**Potencia de Cálculo Masiva:** Ciclos de entrenamiento ejecutados sobre decenas de miles de GPU con umbrales superiores a 10^26 FLOPs.
-**Comprensión Multimodal Unificada:** Razonamiento simbiótico sobre código fuente, representaciones visuales, audio y grafos relacionales.
-**Alineamiento por Refuerzo:** Protocolos de verificación automatizada para asegurar comportamiento seguro y predecible.
+**Escala:** Tamaño de datos y transacciones.
+**Evaluación:** Conjuntos de pruebas desafiantes.
+**Alineación:** Capas de seguridad.
 
-## Suele confundirse con
+Nota de acceso: Dado que el costo es alto, generalmente se ofrece a través de API o servicio pago. La asignación directa de peso varía según el modelo.
 
-Suele confundirse con asistentes conversacionales estándar. Las herramientas habituales procesan patrones simples; los modelos de frontera resuelven tareas complejas con descomposición de objetivos y uso de herramientas.
+## Cosas frecuentemente mezcladas
 
-## Perspectivas interdisciplinares
+Se cree que es AGI. Frontier es el mejor hoy en día, AGI es la inteligencia general dirigida. Uno es el pico actual, el otro es el horizonte.
 
-**Competición:** Un monoplaza de Fórmula 1 al límite del rendimiento frente a utilitarios urbanos.
-**Exploración Espacial:** Sondas de espacio profundo frente a aviones comerciales de ruta fija.
-**Nanotecnología:** Manipulación atómica experimental frente a cadenas de montaje tradicionales.
+## Uso en diferentes disciplinas
 
-*Entre los medios de transporte convencionales, es como un coche de Fórmula 1: la cima absoluta de la velocidad, la ingeniería y el desarrollo continuo.*
+**Fórmula 1:** El coche más rápido en la pista.
+**Everest:** La ruta cumbre del montañismo.
+**Aviones experimentales:** Plataforma de prueba de límites.
 
 ## Preguntas frecuentes
 
-**¿Qué convierte a un modelo en Frontier AI?**
+**¿Todos pueden usarlo?**
 
-Superar de forma demostrable los máximos registros históricos en pruebas de razonamiento, programación y adaptabilidad.
+Debido al costo, generalmente a través de un servicio pago. Las pesas abiertas son la excepción.
 
-**¿Por qué requiere protocolos de seguridad estrictos?**
+**¿Cuál es la diferencia de AGI?**
 
-Por su capacidad de operar con autonomía extendida y el riesgo de generar vectores imprevistos de ejecución.
+Frontier es el pico actual, AGI es el objetivo de inteligencia general. Uno es hoy, el otro es mañana.
 
-**¿Es lo mismo Frontier AI que AGI?**
+**¿Cómo acceder?**
 
-No. Frontier AI es la cúspide alcanzada en la actualidad; la AGI es la meta teórica de emular toda la inteligencia humana.
+Por API y suscripción. La cuota y el precio varían según el modelo.
 
-**¿Dónde se investigan estos sistemas?**
+**¿Cuál es el riesgo?**
 
-En laboratorios de investigación punteros respaldados por infraestructuras de supercomputación a escala global.
+El talento poderoso conlleva riesgos si se maneja mal. El acceso es escalonado y controlado.
 
 ## Términos relacionados
 
 - [AGI](https://trescout.com/es/dictionary/agi/)
 - [Foundation Model](https://trescout.com/es/dictionary/foundation-model/)
-- [Inteligencia Artificial](https://trescout.com/es/dictionary/artificial-intelligence/)
+- [LLM](https://trescout.com/es/dictionary/llm/)
 
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/frontier-ai/)
 

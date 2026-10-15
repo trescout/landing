@@ -1,64 +1,93 @@
-# Qu'est-ce que le Contexte (Context) ? IA et Systèmes
+# Qu'est-ce que Context ?
 
 *Intelligence artificielle · Dernière mise à jour : 19 septembre 2026*
 
-> Anglais : Context · Étymologie : latin contexere (tisser ensemble, assembler)
+Le contexte est l'ensemble des informations environnementales et sémantiques dont une donnée, une commande ou un processus a besoin pour être interprété et exécuté correctement.
 
-Le contexte (context) est une notion clé de l'informatique désignant soit la fenêtre de mémoire textuelle d'un grand modèle de langage, soit l'état matériel d'un processeur lors de l'exécution de processus.
+## 1. Le contexte (Context) dans l'Intelligence Artificielle et les LLM
 
-*Si vous lancez à un ami 'Oui, ils sont d'accord', il ne comprendra rien ; mais si vous précisez 'Au sujet du film dont nous parlions hier', vous lui donnez le contexte indispensable à la compréhension.*
+Les grands modèles de langage (LLM) ne possèdent pas de mémoire permanente ou de mémoire d'expérience semblable à celle des humains ; à chaque requête, ils "se souviennent" uniquement des données incluses à ce moment-là dans la fenêtre de contexte (context window).
 
-## 1. Le contexte en Intelligence Artificielle et LLM
+### Le mécanisme de Transformer et d'Attention (Self-Attention)
 
-Les modèles de langage ne disposent pas d'une mémoire continue comme le cerveau humain. Pour interpréter une question et y répondre précisément, ils s'appuient sur la **fenêtre de contexte** : la suite de jetons (tokens) transmise lors de chaque appel (consignes système, historique d'échange, documents RAG). La taille de cette fenêtre détermine la quantité d'informations qu'un modèle peut analyser en un seul calcul.
+Dans l'architecture Transformer, le contexte est établi en pondérant la relation entre un mot au début d'une phrase et un mot à la fin (via les vecteurs Requête/Query, Clé/Key, Valeur/Value). Le modèle détermine si le mot "banque" désigne une institution financière ou une rive de rivière uniquement en examinant le contexte de la phrase dans laquelle il apparaît.
 
-## 2. Le contexte dans les systèmes d'exploitation
+### Fenêtre de contexte (Context Window) et ses limites
 
-En programmation système, le contexte correspond à l'état complet d'un processeur à un instant T pour un fil d'exécution : registres CPU, compteur ordinal (PC) et pointeur de pile. Lorsqu'un système multitâche met en pause une tâche pour en exécuter une autre, il effectue un **changement de contexte (context switch)** en sauvegardant cet état en mémoire.
+- Capacité en jetons : Il s'agit de la longueur maximale qu'un modèle peut lire et générer en une seule fois (par ex. 8K, 32K, 128K ou 1M+ de jetons).
+- Coût de la mémoire (KV Cache) : à mesure que le contexte s'allonge, les besoins en mémoire de la matrice d'attention augmentent de manière quadratique. Pour alléger cette charge, des optimisations telles que FlashAttention et KV-Cache sont utilisées.
+- Problème du milieu perdu (Lost in the Middle) : Des recherches montrent que les LLM se concentrent mieux sur les informations situées au début et à la fin des longs textes par rapport à celles qui se trouvent au milieu.
+- RAG (Retrieval-Augmented Generation) : au lieu d'intégrer des millions de pages de données d'entreprise dans la fenêtre de contexte, seuls les paragraphes les plus pertinents par rapport à la requête sont filtrés à l'aide d'un moteur de recherche ou d'une base de données vectorielle et transmis au modèle en tant que contexte.
 
-## Tableau comparatif entre disciplines
+***Analogie :** Lorsque vous discutez avec un ami, si vous dites simplement "Oui, il a dit ça aussi", il ne vous comprendra pas ; mais si vous dites "Je parle de ce film dont nous avons parlé hier", vous fournissez le contexte nécessaire.*
 
-Manifestations concrètes du contexte selon le domaine :
+## 2. Contexte dans les systèmes d'exploitation et la programmation
 
-- **IA Générative :** Jetons textuels et cache d'attention (KV Cache) fournissant la mémoire de travail immédiate.
-- **Systèmes d'exploitation :** Bloc de contrôle de processus (PCB) sauvegardant les registres matériels du CPU.
-- **Développement Web :** Objets de contexte (comme dans React ou Go) transmettant signaux d'annulation et droits d'accès à travers l'arbre d'exécution.
+En programmation système, le « contexte » désigne l'ensemble des valeurs de variables et de registres qui reflètent parfaitement l'état actuel d'un programme lors de son exécution.
+
+### Changement de contexte (Context Switching)
+
+Un système d'exploitation multitâche partage le cœur du CPU entre différents processus et threads :
+
+1. Les registres du CPU du processus en cours d'exécution (RAX, RSP, RIP, etc.), le pointeur de pile et les pages mémoire sont enregistrés dans le bloc de contrôle de processus (PCB - Process Control Block).
+2. Les registres du processus suivant sont rechargés dans le CPU.
+3. Coût : Le changement de contexte est très coûteux au niveau matériel, car il provoque l'invalidation des caches L1/L2 du processeur et des tables de correspondance d'adresses TLB (Translation Lookaside Buffer), ce qui entraîne une pollution du cache.
+
+### Gestion du contexte dans les langages
+
+- Go (context.Context) : utilisé pour transporter des signaux d'annulation, des délais (deadline) et des métadonnées contextuelles de requête entre des requêtes réseau ou des goroutines asynchrones.
+- Python (blocs with) : Les gestionnaires de contexte (Context Managers) sécurisent les opérations de nettoyage des ressources, telles que la lecture de fichiers ou l'ouverture/fermeture de connexions à des bases de données.
+- React (Context API) : c'est une méthode permettant de transmettre l'état global en profondeur dans l'arbre des composants sans avoir à passer les props un par un aux composants intermédiaires (sans prop drilling).
+
+## Comparaison : Le concept de contexte dans différentes disciplines
+
+| Domaine | Valeur représentée par le contexte | Composants typiques | Problèmes rencontrés |
+|---|---|---|---|
+| Intelligence Artificielle (LLM) | Invite d'entrée + Historique de discussion + Documents | Jetons, Masques d'attention, Cache KV | Limite de jetons, Hallucination, Consommation de mémoire |
+| Systèmes d'exploitation | État instantané matériel d'un processus | Registres, Compteur de programme, Tables de pages | Latence du CPU, Échecs de cache, Actualisations du TLB |
+| Développement logiciel | Cycle de vie de la requête et données d'environnement | Signal de délai d'attente (Timeout), Jeton d'authentification | Fuite de mémoire, Appels asynchrones non annulés |
 
 ## Questions fréquentes
 
-**Qu'appelle-t-on l'effet 'lost in the middle' dans les LLMs ?**
+**Que signifie Context et quel est son équivalent en turc ?**
 
-Le phénomène où un modèle d'IA mémorise mieux le début et la fin de son invite que les informations situées au cœur de longs textes.
+Son équivalent en turc est "bağlam" (contexte). Il désigne l'ensemble des conditions, de l'arrière-plan et des situations complémentaires qui entourent une expression, une donnée ou une opération.
 
-**Pourquoi les changements de contexte CPU sont-ils coûteux ?**
+**Quelle est la différence entre Prompt et Context ?**
 
-Parce qu'ils obligent à vider les caches processeur rapides et à recharger les tables de pages virtuelles en mémoire.
+Le prompt est l'entrée, la question ou la consigne d'action directement donnée à l'intelligence artificielle ("Explique ce code"). Le context, quant à lui, est l'information supplémentaire fournie pour que le modèle exécute cette consigne correctement, telle que le code complet, les variables d'environnement ou l'historique des conversations.
 
-**À quoi sert le contexte dans React ?**
+**Pourquoi le Context Window (Fenêtre de contexte) est-il limité ?**
 
-À propager des données globales (thème, utilisateur connecté) aux composants enfants sans devoir passer manuellement des props à chaque étage.
+Dans l'architecture Transformer, chaque jeton est mis en corrélation croisée avec tous les autres jetons. Ce calcul mathématique et la mémoire stockée (KV-Cache) augmentent proportionnellement au carré de la longueur du contexte, ce qui fait que la mémoire du GPU constitue une limite matérielle.
 
-**Comment les Transformers calculent-ils le contexte ?**
+**Pourquoi le "Context Switch" (changement de contexte) dans le système d'exploitation entraîne-t-il une perte de performance ?**
 
-Par des matrices d'attention qui mesurent le lien sémantique existant entre chaque mot de la séquence active.
+Lors du passage d'un processus à un autre, le processeur doit sauvegarder ses registres, charger l'espace mémoire du nouveau processus et vider puis recharger les caches du processeur (L1/L2/L3 et TLB). Cette situation entraîne une perte directe de temps de traitement de l'ordre de la microseconde.
+
+**Pourquoi le paquet context en Go est-il transmis en tant que premier paramètre à chaque fonction ?**
+
+En Go, le paramètre ctx context.Context empêche le gaspillage des ressources du serveur en garantissant que, lorsqu'une requête HTTP est annulée ou expire, les requêtes de base de données sous-jacentes et les tâches en arrière-plan sont également interrompues.
 
 ## Termes liés
 
 - [Context Window](https://trescout.com/fr/dictionary/context-window/)
-- [Working Memory](https://trescout.com/fr/dictionary/working-memory/)
+- [Prompt](https://trescout.com/fr/dictionary/prompt/)
+- [RAG](https://trescout.com/fr/dictionary/rag/)
+- [Runtime](https://trescout.com/fr/dictionary/runtime/)
 
 ## Outils liés
 
+- [REA](https://trescout.com/fr/discover/rea/)
+- [Servers](https://trescout.com/fr/discover/servers/)
+- [OmniRoute](https://trescout.com/fr/discover/omniroute/)
 - [Goose](https://trescout.com/fr/discover/goose/)
 - [Chrome Devtools MCP](https://trescout.com/fr/discover/chrome-devtools-mcp/)
 - [Openclaude](https://trescout.com/fr/discover/openclaude/)
 - [Code Review Graph](https://trescout.com/fr/discover/code-review-graph/)
-- [Fastmcp](https://trescout.com/fr/discover/fastmcp/)
 - [Context Mode](https://trescout.com/fr/discover/context-mode/)
-- [Unity MCP](https://trescout.com/fr/discover/unity-mcp/)
-- [DesktopCommanderMCP](https://trescout.com/fr/discover/desktopcommandermcp/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/context/)
+Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/context/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/context/
