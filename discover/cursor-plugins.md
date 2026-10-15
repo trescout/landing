@@ -1,4 +1,4 @@
-# Cursor Editörünü Eklentilerle Özelleştirin
+# Cursor editörünü eklentilerle özelleştirin
 
 **Cursor Plugins**; Cursor kod editörü için hazırlanan **resmi eklenti spesifikasyonu** ve hazır resmi eklentileri içerir. Geliştiricilerin kendi eklentilerini oluşturmalarına olanak tanır.
 

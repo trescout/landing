@@ -1,4 +1,4 @@
-# Yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın
+# Yapay zekâ ajanınıza kalıcı hafıza kazandırın
 
 **claude-mem**, yapay zekâ ajanlarınızın **oturumlar arası hatırlama** yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, yapay zekâ ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 

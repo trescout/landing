@@ -1,4 +1,4 @@
-# İngilizcenizi İleri Seviyeye Taşıyın
+# İngilizcenizi ileri seviyeye taşıyın
 
 **English Level Up Tips**, ileri seviye İngilizce için stratejik çalışma planları, seçilmiş kaynaklar ve yöntemler sunan kapsamlı bir rehberdir. Dil becerilerini gerçekten geliştirmek isteyenler için derli toplu bir kaynak niteliğindedir.
 

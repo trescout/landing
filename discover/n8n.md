@@ -1,4 +1,4 @@
-# Görsel İş Akışları ve AI Otomasyonu
+# Görsel iş akışları ve yapay zekâ otomasyonu
 
 n8n, görsel canvas, özel kod, yapay zekâ ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 

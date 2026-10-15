@@ -1,4 +1,4 @@
-# Yerel Ağda Dosya ve Mesaj Paylaşımı
+# Yerel ağda dosya ve mesaj paylaşımı
 
 Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.
 

@@ -1,4 +1,4 @@
-# Açıklayıcı Matematik Animasyonlarını Programlayın
+# Açıklayıcı matematik animasyonlarını programlayın
 
 Matematik videoları için kesin ve programatik animasyonlar üretmenize yardımcı olan bir animasyon motorudur. Animasyonları Python ile tanımlayabilir ve örnek sahneler üzerinden başlayabilirsiniz.
 

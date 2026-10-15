@@ -1,4 +1,4 @@
-# Borsa Verilerini Ücretsiz Takip Edin
+# Borsa verilerini ücretsiz takip edin
 
 **OpenStock**, pahalı borsa platformlarına karşı geliştirilmiş açık kaynaklı bir alternatiftir. Gerçek zamanlı fiyat takibi, **kişiselleştirilmiş uyarılar** ve şirket analizleri sunar. Herkes için erişilebilir ve sonsuza dek ücretsizdir.
 

@@ -1,4 +1,4 @@
-# Veri Mühendisliğinde Uzmanlaşın
+# Veri mühendisliğinde uzmanlaşın
 
 **Data Engineering Zoomcamp**, üretime hazır **veri hatları (data pipelines)** oluşturmayı kapsayan, DataTalksClub tarafından sunulan dokuz haftalık ücretsiz bir eğitimdir. Uygulamalı ve projeye dayalı bir müfredat sunar.
 

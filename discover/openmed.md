@@ -1,4 +1,4 @@
-# Sağlıkta Açık Kaynak yapay zekâ
+# Sağlıkta açık kaynak yapay zekâ
 
 OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ (artificial intelligence) modellerini ve veri setlerini bir araya getiren bir platformdur. Tıp odaklı uygulamalar için geliştirilen bu Python tabanlı kütüphane, sağlık verilerinin işlenmesi süreçlerini standartlaştırmayı amaçlar.
 

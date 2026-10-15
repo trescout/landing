@@ -1,4 +1,4 @@
-# Kubernetes Dağıtımlarını Otomatize Edin
+# Kubernetes dağıtımlarını otomatikleştirin
 
 Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir araçtır. Uygulama durumlarını Git depolarıyla senkronize ederek altyapı üzerinde otomatik güncellemeler sağlar.
 

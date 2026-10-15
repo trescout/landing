@@ -1,4 +1,4 @@
-# Yapay Zekâ Kodlama Aracıları İçin Kural Seti
+# Yapay zekâ kodlama araçları için kural seti
 
 Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti sistemidir. Amaç, görev için gereken kodu yazarken doğrulama, hata yönetimi, güvenlik ve erişilebilirliği korumaktır.
 

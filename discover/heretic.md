@@ -1,4 +1,4 @@
-# Dil Modellerinde Güvenlik Sınırlarını Aşın
+# Dil modellerinde güvenlik sınırlarını aşın
 
 **Heretic**, transformer tabanlı dil modellerinden **güvenlik hizalaması (safety alignment)** kısıtlarını, pahalı yeniden eğitim süreçlerine gerek kalmadan kaldıran teknik bir araçtır. 'Abliteration' tekniğini kullanan bu çözüm, ileri düzey ve araştırma odaklı bir yapıdadır.
 

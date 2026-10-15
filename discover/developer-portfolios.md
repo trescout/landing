@@ -1,4 +1,4 @@
-# İlham Veren Geliştirici Portfolyoları
+# İlham veren geliştirici portfolyoları
 
 **Developer Portfolios**, yazılımcıların kişisel projelerini ve yetkinliklerini sergilediği **portfolyo örneklerinden** oluşan derli toplu bir koleksiyondur. Kendi sitenizi tasarlarken ilham almak için idealdir.
 

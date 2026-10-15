@@ -340,7 +340,7 @@ ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bi
  "Yer yoksa adı HİÇ YAZMA: açıklanmamış ürün adı ('Captain ile', 'Dify ve RAGFlow ile uyumlu') okura hiçbir şey söylemez, "
  "onun yerine ne işe yaradığını yaz ('hazır sorulara otomatik yanıt verir'). Bu kural özellikle kısa maddeler için geçerli. "
  'ÇIKTI yalnızca JSON: {'
- '"baslik"(aracın ne yaptığını yakalayan KISA çekici Türkçe başlık, 2-6 kelime, blog başlığı gibi; repo adını tekrarlama, abartı/hype yok, em dash yok, AI yerine "yapay zekâ" (şapkalı/küçük), nokta opsiyonel · ör. "yapay zekâ ajanınıza kalıcı hafıza"),'
+ '"baslik"(aracın ne yaptığını yakalayan KISA çekici Türkçe başlık, 2-6 kelime, blog başlığı gibi; repo adını tekrarlama, abartı/hype yok, em dash yok, cümle düzeninde (yalnız ilk kelime ve özel adlar büyük), AI yerine "yapay zekâ" (şapkalı/küçük), nokta opsiyonel · ör. "yapay zekâ ajanınıza kalıcı hafıza"),'
  '"kazanimlar"(3 kısa somut madde),'
  '"kurulum"([{"baslik","komut"}] 0-2, komut SADECE verilen bloklardan birebir),'
  '"calistirma"([{"baslik","komut"}] 0-2, ilk kullanım),'
@@ -594,6 +594,7 @@ def base_entry(n, rich, reason, key=None):
 
 HEADLINE_SYS=("Sen TreScout için Türkçe içerik editörüsün. Verilen GitHub aracı için KISA çekici bir başlık yaz: "
   "2-6 kelime, aracın ne yaptığını yakalasın, blog başlığı gibi. 'siz' dili; repo adını tekrarlama; "
+  "cümle düzeninde yaz: yalnız ilk kelime ve özel adlar büyük harfle ('Kendi medya sunucunuzu kurun', 'Claude Code ile disiplinli geliştirme'); "
   "abartı/hype yok; em dash (—) YASAK. Yalnızca tanıtımda GEÇEN yeteneği yaz, yetenek uydurma: "
   "araç yapay zekâ ile ilgili değilse başlıkta 'yapay zekâ' GEÇMESİN (web sunucusu, derleyici, kütüphane, "
   "veri deposu gibi araçlara yapay zekâ iddiası eklemek yanlış bilgidir). Yapay zekâdan söz edeceksen "

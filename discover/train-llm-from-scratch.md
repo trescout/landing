@@ -1,4 +1,4 @@
-# Sıfırdan Kendi LLM Modelini Eğit
+# Sıfırdan kendi LLM modelinizi eğitin
 
 **train-llm-from-scratch**, veri setini indirme aşamasından metin üretimine kadar bir **büyük dil modelini sıfırdan eğitmenin** sade ve adım adım yöntemini sunar. Öğrenme süreciniz için pratik bir kaynaktır.
 

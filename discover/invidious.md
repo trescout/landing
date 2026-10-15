@@ -1,4 +1,4 @@
-# YouTube için Açık Kaynaklı Alternatif Arayüz
+# YouTube için açık kaynaklı alternatif arayüz
 
 Invidious, YouTube için açık kaynaklı alternatif bir arayüzdür. Resmî README; reklam ve takip olmadan kullanım, JavaScript gerektirmeme, Google’dan bağımsız abonelikler ile veri içe ve dışa aktarma özelliklerini listeler.
 
