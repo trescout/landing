@@ -2,12 +2,13 @@
 
 BrowserSkill, desarrollado por Tencent, es una herramienta de automatización de navegador que permite a los agentes de IA gestionar sesiones de navegación activas sin interrumpir el trabajo del usuario. A través de una interfaz de línea de comandos y una extensión de navegador, permite que cualquier agente de IA acceda a los datos del navegador donde ya se ha iniciado sesión.
 
-- ★ 7.941
+- ★ 8.935
 - TypeScript
 - GitHub Trending · 2026-09-18
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 7,941 → 8,935, última versión cli-v0.3.3 (15 de octubre de 2026).
 - **30 de septiembre de 2026:** Estrellas 7,375 → 7,941, última versión cli-v0.3.2 (30 de septiembre de 2026).
 - **27 de septiembre de 2026:** Estrellas 4,730 → 7,375, última versión cli-v0.3.1 (23 de septiembre de 2026).
 - **18 de septiembre de 2026:** Estrellas 4,721 → 4,730, última versión cli-v0.3.0 (17 de septiembre de 2026).

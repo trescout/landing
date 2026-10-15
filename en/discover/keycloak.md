@@ -37,7 +37,9 @@ http://localhost:8080
 
 ## Getting started
 
-- Official source →
+To start using Keycloak, you need to download the distribution package from the official website and extract it to your computer. Alternatively, you can quickly run it using Docker. You can visit the official documentation page for detailed installation and configuration steps.
+
+- [Official source →](https://www.keycloak.org)
 
 ## Related dictionary terms
 
@@ -49,7 +51,7 @@ http://localhost:8080
 
 ## Links
 
-- [GitHub repository →](https://www.keycloak.org)
+- [GitHub repository →](https://github.com/keycloak/keycloak)
 - [Read in Turkish →](https://trescout.com/discover/keycloak/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

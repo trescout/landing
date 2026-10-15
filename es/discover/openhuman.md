@@ -21,7 +21,9 @@ OpenHuman, desarrollado con el lenguaje Rust, es un asistente personal de inteli
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para descargar los archivos de instalación, puede visitar tinyhumans.ai/openhuman o utilizar la página de la última versión en GitHub. Si desea realizar la instalación a través de la terminal, puede revisar el archivo INSTALL.md en la documentación del proyecto para obtener notas y métodos detallados sobre la plataforma.
+
+- [Fuente oficial →](https://tinyhumans.ai/openhuman)
 
 ## Términos relacionados del glosario
 
@@ -35,7 +37,7 @@ OpenHuman, desarrollado con el lenguaje Rust, es un asistente personal de inteli
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://tinyhumans.ai/openhuman)
+- [Repositorio en GitHub →](https://github.com/tinyhumansai/openhuman)
 - [Leer en turco →](https://trescout.com/discover/openhuman/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-24: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

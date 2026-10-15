@@ -25,7 +25,6 @@ Esta herramienta no requiere ninguna instalación. Después de descargar los arc
 
 ## Términos relacionados del glosario
 
-- [Exercises Dataset](https://trescout.com/es/dictionary/exercises-dataset/)
 - [API](https://trescout.com/es/dictionary/api/)
 
 - **Para quién es:** Es adecuado para desarrolladores de software que desarrollan aplicaciones en el campo de las tecnologías deportivas e investigadores orientados al fitness.

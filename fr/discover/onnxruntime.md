@@ -21,7 +21,9 @@ ONNX Runtime est un accélérateur multiplateforme hautes performances pour l'in
 
 ## Pour commencer
 
-- Source officielle →
+Vous pouvez accéder aux documents d'utilisation et aux guides de formation en visitant le site officiel, onnxruntime.ai. Vous pouvez l'intégrer dans vos projets en examinant les exemples de référentiels de code préparés pour l'inférence ou en modélisant les processus de formation en fonction de vos besoins.
+
+- [Source officielle →](https://onnxruntime.ai)
 
 ## Termes liés du glossaire
 
@@ -33,7 +35,7 @@ ONNX Runtime est un accélérateur multiplateforme hautes performances pour l'in
 
 ## Liens
 
-- [Dépôt GitHub →](https://onnxruntime.ai)
+- [Dépôt GitHub →](https://github.com/microsoft/onnxruntime)
 - [Lire en turc →](https://trescout.com/discover/onnxruntime/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-22 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

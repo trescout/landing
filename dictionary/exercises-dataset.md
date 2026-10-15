@@ -34,10 +34,6 @@ Ham veri setleri ile karıştırılabilir; ancak bu setler sadece öğrenme odak
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [Engineering Skills](https://trescout.com/dictionary/engineering-skills/)
 
-## İlgili araçlar
-
-- [Exercises Dataset](https://trescout.com/discover/exercises-dataset/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

@@ -41,7 +41,6 @@ Fügen Sie diese Community-Bibliothek für Cybersicherheitskompetenzen zu Claude
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Cybersecurity Skills](https://trescout.com/de/dictionary/cybersecurity-skills/)
 - [AI Skills](https://trescout.com/de/dictionary/ai-skills/)
 - [CLI](https://trescout.com/de/dictionary/cli/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)

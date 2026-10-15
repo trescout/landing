@@ -18,7 +18,9 @@ byoungd/up est un guide complet offrant un large éventail de ressources de dév
 
 ## Pour commencer
 
-- Source officielle →
+Pour lire le guide, vous pouvez consulter les fichiers Markdown du dépôt GitHub depuis votre navigateur ou télécharger les versions e-book au format EPUB et PDF via les liens du dépôt. Vous pouvez utiliser les modèles de travail inclus dans les documents pour planifier vos propres objectifs.
+
+- [Source officielle →](https://biezou.com)
 
 ## Termes liés du glossaire
 
@@ -30,7 +32,7 @@ byoungd/up est un guide complet offrant un large éventail de ressources de dév
 
 ## Liens
 
-- [Dépôt GitHub →](https://biezou.com)
+- [Dépôt GitHub →](https://github.com/byoungd/up)
 - [Lire en turc →](https://trescout.com/discover/up/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

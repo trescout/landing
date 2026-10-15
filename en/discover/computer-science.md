@@ -16,7 +16,9 @@ Offering a free and self-learning oriented curriculum in the field of computer s
 
 ## Getting started
 
-- Official source →
+To get started with this curriculum, simply visit the official OSSU CS website or GitHub repository. You can review courses on the website, create your study plan, and interact with other students by joining the Discord community.
+
+- [Official source →](https://cs.ossu.dev)
 
 ## Related dictionary terms
 
@@ -27,7 +29,7 @@ Offering a free and self-learning oriented curriculum in the field of computer s
 
 ## Links
 
-- [GitHub repository →](https://cs.ossu.dev)
+- [GitHub repository →](https://github.com/ossu/computer-science)
 - [Read in Turkish →](https://trescout.com/discover/computer-science/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-17: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

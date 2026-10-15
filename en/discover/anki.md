@@ -19,7 +19,9 @@ Anki is a flashcard software that facilitates learning by using the spaced repet
 
 ## Getting started
 
-- Official source →
+To start using the Anki application, you can visit the official website at apps.ankiweb.net. You can download and install the desktop version from there and start creating your own flashcards immediately.
+
+- [Official source →](https://apps.ankiweb.net)
 
 ## Related dictionary terms
 
@@ -30,7 +32,7 @@ Anki is a flashcard software that facilitates learning by using the spaced repet
 
 ## Links
 
-- [GitHub repository →](https://apps.ankiweb.net)
+- [GitHub repository →](https://github.com/ankitects/anki)
 - [Read in Turkish →](https://trescout.com/discover/anki/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-19: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

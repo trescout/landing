@@ -34,10 +34,6 @@ It doesn't really feel you, but thanks to the data it has been trained on, it ca
 - [Autonomous Agent](https://trescout.com/en/dictionary/autonomous-agent/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 
-## Related tools
-
-- [AIRI](https://trescout.com/en/discover/airi/)
-
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-companion/)
 
 ---

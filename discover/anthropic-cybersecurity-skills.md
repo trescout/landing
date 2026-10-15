@@ -58,7 +58,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [Cybersecurity Skills](https://trescout.com/dictionary/cybersecurity-skills/)
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [CLI](https://trescout.com/dictionary/cli/)
 - [Open Source](https://trescout.com/dictionary/open-source/)

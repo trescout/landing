@@ -20,7 +20,9 @@ This list, which brings together libraries, strategies and educational resources
 
 ## Getting started
 
-- Official source →
+This tool does not require a software installation; It is a comprehensive guide compiling the libraries, books and educational resources necessary to develop systematic trading strategies. By examining the titles on the GitHub page, you can click on the categories that interest you (backtesting, data analysis, strategies, etc.) and access the relevant resources.
+
+- [Official source →](https://paperswithbacktest.com)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ This list, which brings together libraries, strategies and educational resources
 
 ## Links
 
-- [GitHub repository →](https://paperswithbacktest.com)
+- [GitHub repository →](https://github.com/paperswithbacktest/awesome-systematic-trading)
 - [Read in Turkish →](https://trescout.com/discover/awesome-systematic-trading/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

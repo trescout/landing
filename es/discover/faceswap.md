@@ -34,7 +34,9 @@ python setup.py
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a utilizar la herramienta, primero debe revisar el archivo INSTALL.md en la página de GitHub y completar los pasos de instalación apropiados para su sistema. Después de la instalación, puede usar la línea de comando en la carpeta donde se encuentra el proyecto para extraer caras, entrenar modelos o realizar conversiones.
+
+- [Fuente oficial →](https://www.faceswap.dev)
 
 ## Términos relacionados del glosario
 
@@ -47,7 +49,7 @@ python setup.py
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://www.faceswap.dev)
+- [Repositorio en GitHub →](https://github.com/deepfakes/faceswap)
 - [Leer en turco →](https://trescout.com/discover/faceswap/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-30: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

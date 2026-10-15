@@ -42,7 +42,6 @@ Na maioria dos sistemas você pode excluir esses dados com o comando ‘clear me
 
 - [Mempalace](https://trescout.com/pt/discover/mempalace/)
 - [Hindsight](https://trescout.com/pt/discover/hindsight/)
-- [Codebase Memory MCP](https://trescout.com/pt/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/pt/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/pt/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/pt/discover/ai-memory/)

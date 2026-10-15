@@ -2,16 +2,16 @@
 
 O LMCache oferece uma camada que aumenta a velocidade de inferência otimizando o gerenciamento do cache de valor-chave (cache KV) para modelos de linguagem grandes. Este sistema, que torna eficiente o uso de memória, visa reduzir a carga computacional em consultas que utilizam o mesmo contexto.
 
-- ★ 11.779
+- ★ 12.074
 - Python
 - GitHub Trending · 2026-06-13
 
 ## Atualizações
 
+- **15 de outubro de 2026:** Estrelas 11,779 → 12,074, versão mais recente v0.5.6 (14 de outubro de 2026).
 - **13 de setembro de 2026:** Estrelas 11,587 → 11,779, versão mais recente v0.5.5 (12 de setembro de 2026).
 - **31 de agosto de 2026:** Estrelas 11,251 → 11,587, versão mais recente operator-v0.5.4 (28 de agosto de 2026).
 - **21 de agosto de 2026:** Estrelas 11,038 → 11,251, versão mais recente v0.5.4 (20 de agosto de 2026).
-- **6 de agosto de 2026:** Estrelas 10,985 → 11,038, versão mais recente v0.5.3 (5 de agosto de 2026).
 
 ## O que você ganha
 

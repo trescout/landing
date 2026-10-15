@@ -21,7 +21,9 @@ Développé avec le langage de programmation Rust, Pumpkin propose une infrastru
 
 ## Pour commencer
 
-- Source officielle →
+Le projet Pumpkin est toujours en développement. Pour les étapes d'installation et de fonctionnement, vous pouvez procéder en consultant le guide de démarrage rapide sur la page de documentation officielle.
+
+- [Source officielle →](https://pumpkinmc.org/)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ Développé avec le langage de programmation Rust, Pumpkin propose une infrastru
 
 ## Liens
 
-- [Dépôt GitHub →](https://pumpkinmc.org/)
+- [Dépôt GitHub →](https://github.com/Pumpkin-MC/Pumpkin)
 - [Lire en turc →](https://trescout.com/discover/pumpkin/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

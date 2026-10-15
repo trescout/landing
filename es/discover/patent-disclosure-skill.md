@@ -67,8 +67,8 @@ Me gustaría preparar un texto formal de divulgación de invenciones utilizando 
 - [Disclosure](https://trescout.com/es/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/es/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/es/dictionary/multimodal/)
-- [Markdown](https://trescout.com/es/dictionary/markdown/)
 - [Skill](https://trescout.com/es/dictionary/skill/)
+- [Markdown](https://trescout.com/es/dictionary/markdown/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 
 - **Para quién es:** Abogados de patentes, gestores de propiedad intelectual, ingenieros de I+D e inventores.

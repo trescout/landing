@@ -2,12 +2,13 @@
 
 Developed by Tencent, BrowserSkill is a browser automation tool that allows AI agents to manage active browser sessions without interrupting the user's work. Through a command-line interface and a browser extension, it enables any AI agent to access existing logged-in browser data.
 
-- ★ 7,941
+- ★ 8,935
 - TypeScript
 - GitHub Trending · 2026-09-18
 
 ## Updates
 
+- **October 15, 2026:** Stars 7,941 → 8,935, latest release cli-v0.3.3 (October 15, 2026).
 - **September 30, 2026:** Stars 7,375 → 7,941, latest release cli-v0.3.2 (September 30, 2026).
 - **September 27, 2026:** Stars 4,730 → 7,375, latest release cli-v0.3.1 (September 23, 2026).
 - **September 18, 2026:** Stars 4,721 → 4,730, latest release cli-v0.3.0 (September 17, 2026).

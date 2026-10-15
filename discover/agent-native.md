@@ -2,16 +2,16 @@
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 
-- ★ 7.155
+- ★ 7.259
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 7.155 → 7.259, son sürüm v0.1.281 (14 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 7.130 → 7.155, son sürüm v0.1.280 (13 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 7.121 → 7.130, son sürüm v0.1.279 (12 Ekim 2026).
 - **12 Ekim 2026:** Yıldız 7.109 → 7.121, son sürüm @agent-native/toolkit@0.207.0 (11 Ekim 2026).
-- **9 Ekim 2026:** Yıldız 7.098 → 7.109, son sürüm v0.1.278 (9 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -55,9 +55,9 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Agent-native Applications](https://trescout.com/dictionary/agent-native-applications/)
 - [Agent-native](https://trescout.com/dictionary/agent-native/)
 - [Toolkit](https://trescout.com/dictionary/toolkit/)
-- [Native](https://trescout.com/dictionary/native/)
 - [Framework](https://trescout.com/dictionary/framework/)
-- [Agent](https://trescout.com/dictionary/agent/)
+- [CLI](https://trescout.com/dictionary/cli/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-native/

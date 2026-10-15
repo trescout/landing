@@ -18,7 +18,9 @@ O compêndio Maths-cs-ai oferece uma coleção abrangente de recursos que cobrem
 
 ## Como começar
 
-- Fonte oficial →
+Você não precisa de nenhuma instalação para começar a usar este guia. Você pode ler todos os capítulos online e dar uma olhada imediata no guia de estudo visitando o site oficial do projeto, henryndubuaku.github.io/maths-cs-ai-compendium.
+
+- [Fonte oficial →](https://henryndubuaku.github.io/maths-cs-ai-compendium)
 
 ## Termos relacionados do glossário
 
@@ -30,7 +32,7 @@ O compêndio Maths-cs-ai oferece uma coleção abrangente de recursos que cobrem
 
 ## Links
 
-- [Repositório no GitHub →](https://henryndubuaku.github.io/maths-cs-ai-compendium)
+- [Repositório no GitHub →](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 - [Ler em turco →](https://trescout.com/discover/maths-cs-ai-compendium/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-15: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

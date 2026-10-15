@@ -18,7 +18,6 @@ Primeiro você precisa obter uma chave API por meio da plataforma DeepSeek. Em s
 ## Termos relacionados do glossário
 
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
-- [Agent](https://trescout.com/pt/dictionary/agent/)
 - [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

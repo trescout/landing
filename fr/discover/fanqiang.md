@@ -19,7 +19,9 @@ Le projet Fanqiang est un outil de passerelle écrit en Kotlin, développé pour
 
 ## Pour commencer
 
-- Source officielle →
+Le projet Fanqiang est une bibliothèque complète de guides et d'outils plutôt qu'une installation directe de logiciel. Selon le type d'appareil dont vous avez besoin (Windows, macOS, Android, iOS ou console de jeu), accédez au dossier ou à la page wiki appropriée sur GitHub. Téléchargez les outils recommandés en suivant les liens dans le guide correspondant et complétez votre configuration en lisant attentivement les manuels d'utilisation inclus.
+
+- [Source officielle →](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)
 
 ## Termes liés du glossaire
 
@@ -29,7 +31,7 @@ Le projet Fanqiang est un outil de passerelle écrit en Kotlin, développé pour
 
 ## Liens
 
-- [Dépôt GitHub →](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)
+- [Dépôt GitHub →](https://github.com/bannedbook/fanqiang)
 - [Lire en turc →](https://trescout.com/discover/fanqiang/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

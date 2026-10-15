@@ -2,16 +2,16 @@
 
 Code-graph-rag combine des graphiques de connaissances et une génération assistée par récupération (RAG) pour comprendre et interroger des structures complexes dans de grands référentiels de code. Il permet aux développeurs d'analyser et d'éditer des bases de code dans différents langages à l'aide de l'intelligence artificielle.
 
-- ★ 5 189
+- ★ 5 259
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 5,189 → 5,259, dernière version v0.2.0 (15 octobre 2026).
 - **29 septembre 2026:** Étoiles 5,180 → 5,189, dernière version v0.1.38 (29 septembre 2026).
 - **27 septembre 2026:** Étoiles 5,146 → 5,180, dernière version v0.0.996 (26 septembre 2026).
 - **17 septembre 2026:** Étoiles 5,113 → 5,146, dernière version v0.0.945 (16 septembre 2026).
-- **10 septembre 2026:** Étoiles 4,924 → 5,113, dernière version v0.0.895 (9 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -56,7 +56,6 @@ Analysez mon référentiel de code à l'aide de l'outil Code-Graph-RAG. Réponde
 ## Termes liés du glossaire
 
 - [Monorepo](https://trescout.com/fr/dictionary/monorepo/)
-- [Graph RAG](https://trescout.com/fr/dictionary/graph-rag/)
 - [RAG](https://trescout.com/fr/dictionary/rag/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 

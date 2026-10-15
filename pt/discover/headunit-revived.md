@@ -14,7 +14,9 @@ O projeto revivido da unidade principal fornece um aplicativo que permite visual
 
 ## Como começar
 
-- Fonte oficial →
+Baixe o aplicativo para o seu dispositivo através da Google Play Store ou Amazon Appstore. Para conexão sem fio, é recomendado que você instale também o aplicativo ‘Wireless Helper’ em seu telefone. Para etapas detalhadas de instalação e configurações de conexão, você pode revisar a seção Wiki na página do GitHub.
+
+- [Fonte oficial →](https://headunit.andrerinas.com/)
 
 ## Termos relacionados do glossário
 
@@ -25,7 +27,7 @@ O projeto revivido da unidade principal fornece um aplicativo que permite visual
 
 ## Links
 
-- [Repositório no GitHub →](https://headunit.andrerinas.com/)
+- [Repositório no GitHub →](https://github.com/andreknieriem/headunit-revived)
 - [Ler em turco →](https://trescout.com/discover/headunit-revived/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-25: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

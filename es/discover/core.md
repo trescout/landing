@@ -43,7 +43,9 @@ hass
 
 ## Cómo empezar
 
-- Fuente oficial →
+Visita home-assistant.io para comenzar la configuración. Puede instalar el sistema en su dispositivo siguiendo los pasos apropiados para su Raspberry Pi o servidor local a través de la sección de instrucciones de instalación en el sitio.
+
+- [Fuente oficial →](https://www.home-assistant.io)
 
 ## Términos relacionados del glosario
 
@@ -55,7 +57,7 @@ hass
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://www.home-assistant.io)
+- [Repositorio en GitHub →](https://github.com/home-assistant/core)
 - [Leer en turco →](https://trescout.com/discover/core/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

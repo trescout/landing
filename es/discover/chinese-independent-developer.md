@@ -18,7 +18,9 @@ Esta base de datos de código abierto, que enumera proyectos realizados por desa
 
 ## Cómo empezar
 
-- Fuente oficial →
+Esta herramienta no requiere instalación de software. Para revisar los proyectos, puede visitar la página de inicio en GitHub y navegar directamente haciendo clic en los sitios web de las aplicaciones enumeradas o en sus respectivos enlaces de repositorio.
+
+- [Fuente oficial →](https://github.com/xhdndmm)
 
 ## Términos relacionados del glosario
 
@@ -28,7 +30,7 @@ Esta base de datos de código abierto, que enumera proyectos realizados por desa
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://github.com/xhdndmm)
+- [Repositorio en GitHub →](https://github.com/1c7/chinese-independent-developer)
 - [Leer en turco →](https://trescout.com/discover/chinese-independent-developer/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-15: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

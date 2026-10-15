@@ -21,7 +21,9 @@ Folia-major ist eine Player-Schnittstelle, die visualisierte Textanimationen fü
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um direkt mit der Nutzung zu beginnen, können Sie die Desktop-Version für Windows, macOS oder Linux im Abschnitt „Releases“ auf der GitHub-Seite herunterladen und installieren. Wenn Sie es im Web verwenden oder auf Ihrem eigenen Server hosten möchten, können Sie sich die Ein-Klick-Verteilungsmethode mit Vercel im offiziellen Leitfaden des Projekts ansehen.
+
+- [Offizielle Quelle →](https://folia-site.vercel.app/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ Folia-major ist eine Player-Schnittstelle, die visualisierte Textanimationen fü
 
 ## Links
 
-- [GitHub-Repository →](https://folia-site.vercel.app/)
+- [GitHub-Repository →](https://github.com/chthollyphile/folia-major)
 - [Auf Türkisch lesen →](https://trescout.com/discover/folia-major/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-05 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

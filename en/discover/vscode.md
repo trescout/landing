@@ -2,16 +2,16 @@
 
 Developed by Microsoft, Visual Studio Code is an open source code editor that accelerates software development processes. Written in TypeScript, this tool offers a customizable working environment for different programming languages ​​and platforms thanks to its extensive plug-in support.
 
-- ★ 193,773
+- ★ 193,634
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Updates
 
+- **October 15, 2026:** Stars 193,773 → 193,634, latest release 1.142.0 (October 14, 2026).
 - **October 14, 2026:** Stars 193,616 → 193,773, latest release 1.141.1 (October 13, 2026).
 - **October 7, 2026:** Stars 193,318 → 193,616, latest release 1.141.0 (October 7, 2026).
 - **October 1, 2026:** Stars 193,169 → 193,318, latest release 1.140.0 (September 30, 2026).
-- **September 27, 2026:** Stars 193,142 → 193,169, latest release 1.139.1 (September 25, 2026).
 
 ## What you get
 
@@ -21,7 +21,9 @@ Developed by Microsoft, Visual Studio Code is an open source code editor that ac
 
 ## Getting started
 
-- Official source →
+You can download it from the Visual Studio Code website for Windows, macOS and Linux operating systems. You can install the Insiders edition to get the latest releases every day.
+
+- [Official source →](https://code.visualstudio.com)
 
 ## Related dictionary terms
 
@@ -33,7 +35,7 @@ Developed by Microsoft, Visual Studio Code is an open source code editor that ac
 
 ## Links
 
-- [GitHub repository →](https://code.visualstudio.com)
+- [GitHub repository →](https://github.com/microsoft/vscode)
 - [Read in Turkish →](https://trescout.com/discover/vscode/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-27: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

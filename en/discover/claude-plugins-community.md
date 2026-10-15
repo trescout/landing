@@ -20,7 +20,9 @@ The community plugin directory created for Claude Cowork and Claude Code tools d
 
 ## Getting started
 
-- Official source →
+You can install plugins for Claude Cowork at claude.com/plugins. For Claude Code, you can add and install plugins via the marketplace using the command line tools specified in the relevant documentation.
+
+- [Official source →](https://claude.com/product/cowork)
 
 ## Related dictionary terms
 
@@ -31,7 +33,7 @@ The community plugin directory created for Claude Cowork and Claude Code tools d
 
 ## Links
 
-- [GitHub repository →](https://claude.com/product/cowork)
+- [GitHub repository →](https://github.com/anthropics/claude-plugins-community)
 - [Read in Turkish →](https://trescout.com/discover/claude-plugins-community/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-24: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

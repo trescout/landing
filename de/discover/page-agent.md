@@ -33,11 +33,9 @@ Ich möchte Interaktionen auf der Webseite mit Befehlen in natürlicher Sprache 
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Page Agent](https://trescout.com/de/dictionary/page-agent/)
 - [User Interface](https://trescout.com/de/dictionary/user-interface/)
 - [GUI](https://trescout.com/de/dictionary/gui/)
 - [Interface](https://trescout.com/de/dictionary/interface/)
-- [Agent](https://trescout.com/de/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Entwickler, die ihre Webanwendungen um Assistenten künstlicher Intelligenz erweitern möchten, die mit natürlicher Sprache gesteuert werden können.

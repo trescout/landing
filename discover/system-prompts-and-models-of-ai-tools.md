@@ -32,7 +32,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [System Prompts](https://trescout.com/dictionary/system-prompts/)
 - [AI Models](https://trescout.com/dictionary/ai-models/)
-- [Tools](https://trescout.com/dictionary/tools/)
 - [Generative AI](https://trescout.com/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

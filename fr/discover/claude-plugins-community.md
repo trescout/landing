@@ -20,7 +20,9 @@ Le répertoire de plugins communautaires créé pour les outils Claude Cowork et
 
 ## Pour commencer
 
-- Source officielle →
+Vous pouvez installer des plugins pour Claude Cowork sur claude.com/plugins. Pour Claude Code, vous pouvez ajouter et installer des plugins via la Marketplace en utilisant les outils de ligne de commande spécifiés dans la documentation correspondante.
+
+- [Source officielle →](https://claude.com/product/cowork)
 
 ## Termes liés du glossaire
 
@@ -31,7 +33,7 @@ Le répertoire de plugins communautaires créé pour les outils Claude Cowork et
 
 ## Liens
 
-- [Dépôt GitHub →](https://claude.com/product/cowork)
+- [Dépôt GitHub →](https://github.com/anthropics/claude-plugins-community)
 - [Lire en turc →](https://trescout.com/discover/claude-plugins-community/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-24 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

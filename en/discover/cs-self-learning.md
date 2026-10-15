@@ -18,7 +18,9 @@ This guide, prepared by Peking University students, offers a comprehensive road 
 
 ## Getting started
 
-- Official source →
+You don't need any setup to get started with this guide. You can review all course contents and study plans online for free by visiting the official website of the project, csdiy.wiki.
+
+- [Official source →](https://csdiy.wiki)
 
 ## Related dictionary terms
 
@@ -29,7 +31,7 @@ This guide, prepared by Peking University students, offers a comprehensive road 
 
 ## Links
 
-- [GitHub repository →](https://csdiy.wiki)
+- [GitHub repository →](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Read in Turkish →](https://trescout.com/discover/cs-self-learning/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -15,13 +15,14 @@ Les invites système et les modèles de langage utilisés (modèles d'IA) des ou
 
 ## Pour commencer
 
-- Source officielle →
+Cet outil est une archive d'informations qui ne nécessite aucune installation. Vous pouvez visiter la page du référentiel pertinente sur GitHub via votre navigateur pour accéder aux instructions système et aux informations de modèle des outils d'intelligence artificielle que vous souhaitez examiner.
+
+- [Source officielle →](https://github.com/latitude-dev/latitude-llm)
 
 ## Termes liés du glossaire
 
 - [System Prompts](https://trescout.com/fr/dictionary/system-prompts/)
 - [AI Models](https://trescout.com/fr/dictionary/ai-models/)
-- [Tools](https://trescout.com/fr/dictionary/tools/)
 - [Generative AI](https://trescout.com/fr/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
@@ -30,7 +31,7 @@ Les invites système et les modèles de langage utilisés (modèles d'IA) des ou
 
 ## Liens
 
-- [Dépôt GitHub →](https://github.com/latitude-dev/latitude-llm)
+- [Dépôt GitHub →](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Lire en turc →](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-10 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

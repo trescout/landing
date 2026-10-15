@@ -19,7 +19,9 @@ The Fanqiang project is a gateway tool written in Kotlin, developed to bypass in
 
 ## Getting started
 
-- Official source →
+The Fanqiang project is a comprehensive library of guides and tools rather than a direct software installation. Depending on the type of device you need (Windows, macOS, Android, iOS, or game console), navigate to the appropriate folder or wiki page on GitHub. Download the recommended tools by following the links in the relevant guide and complete your configuration by carefully reading the user manuals included.
+
+- [Official source →](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)
 
 ## Related dictionary terms
 
@@ -29,7 +31,7 @@ The Fanqiang project is a gateway tool written in Kotlin, developed to bypass in
 
 ## Links
 
-- [GitHub repository →](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)
+- [GitHub repository →](https://github.com/bannedbook/fanqiang)
 - [Read in Turkish →](https://trescout.com/discover/fanqiang/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

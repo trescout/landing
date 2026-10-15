@@ -79,8 +79,8 @@ MCP ist ein offenes Plugin-Protokoll, das die Kommunikation von KI-Modellen mit 
 - [Anthropic Skills](https://trescout.com/de/discover/anthropic-skills/)
 - [Understand Anything](https://trescout.com/de/discover/understand-anything/)
 - [Claude Plugins Official](https://trescout.com/de/discover/claude-plugins-official/)
-- [Codex Plugin Cc](https://trescout.com/de/discover/codex-plugin-cc/)
 - [Knowledge Work Plugins](https://trescout.com/de/discover/knowledge-work-plugins/)
+- [Compound Engineering](https://trescout.com/de/discover/compound-engineering-plugin/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/plugin/)
 

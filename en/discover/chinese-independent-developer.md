@@ -18,7 +18,9 @@ This open source database, which lists projects carried out by Chinese independe
 
 ## Getting started
 
-- Official source →
+This tool does not require a software installation. To review the projects, you can visit the home page on GitHub and browse directly by clicking on the websites of the listed applications or their respective repository links.
+
+- [Official source →](https://github.com/xhdndmm)
 
 ## Related dictionary terms
 
@@ -28,7 +30,7 @@ This open source database, which lists projects carried out by Chinese independe
 
 ## Links
 
-- [GitHub repository →](https://github.com/xhdndmm)
+- [GitHub repository →](https://github.com/1c7/chinese-independent-developer)
 - [Read in Turkish →](https://trescout.com/discover/chinese-independent-developer/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

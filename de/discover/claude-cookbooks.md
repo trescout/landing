@@ -19,7 +19,9 @@ Von Anthropics geteilte Claude-Kochbücher bieten praktische Codebeispiele und J
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Sie können die Jupyter-Notebooks, die Sie verwenden möchten, überprüfen, indem Sie über GitHub auf das Claude Cookbooks-Repository zugreifen. Um zu beginnen, sollten Sie sich zunächst einen kostenlosen Claude API-Schlüssel von der offiziellen Anthropic-Website besorgen und sich den empfohlenen Claude API Fundamentals-Kurs ansehen, um die Grundkonzepte zu erlernen.
+
+- [Offizielle Quelle →](https://www.anthropic.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -34,7 +36,7 @@ Von Anthropics geteilte Claude-Kochbücher bieten praktische Codebeispiele und J
 
 ## Links
 
-- [GitHub-Repository →](https://www.anthropic.com)
+- [GitHub-Repository →](https://github.com/anthropics/claude-cookbooks)
 - [Auf Türkisch lesen →](https://trescout.com/discover/claude-cookbooks/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-10 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -18,7 +18,9 @@ Le référentiel Awesome-generative-ai-guide rassemble en un seul endroit les re
 
 ## Pour commencer
 
-- Source officielle →
+Cet outil ne nécessite aucune installation. En visitant la page officielle de GitHub, vous pouvez consulter les sujets qui vous intéressent et accéder aux cours gratuits, feuilles de route et documents techniques proposés via des liens directs.
+
+- [Source officielle →](https://www.linkedin.com/in/areganti/)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ Le référentiel Awesome-generative-ai-guide rassemble en un seul endroit les re
 
 ## Liens
 
-- [Dépôt GitHub →](https://www.linkedin.com/in/areganti/)
+- [Dépôt GitHub →](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 - [Lire en turc →](https://trescout.com/discover/awesome-generative-ai-guide/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-20 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

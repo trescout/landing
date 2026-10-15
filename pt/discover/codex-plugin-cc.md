@@ -2,12 +2,13 @@
 
 Desenvolvido pela OpenAI, o plugin Codex é usado no Claude Code para automatizar processos de revisão de código e fornecer delegação de tarefas. Esta ferramenta permite a integração de diferentes modelos de inteligência artificial (modelos de grandes linguagens) em fluxos de trabalho de desenvolvimento de software.
 
-- ★ 32.597
+- ★ 34.241
 - JavaScript
 - GitHub Trending · 2026-07-03
 
 ## Atualizações
 
+- **15 de outubro de 2026:** Estrelas 32,597 → 34,241, versão mais recente v1.0.6 (8 de julho de 2026).
 - **31 de agosto de 2026:** Estrelas 30,950 → 32,597, versão mais recente v1.0.6 (8 de julho de 2026).
 - **2 de agosto de 2026:** Estrelas 22,800 → 30,950, versão mais recente v1.0.6 (8 de julho de 2026).
 
@@ -41,7 +42,6 @@ Inicie uma revisão do meu código existente usando o plugin Codex dentro do Cla
 
 ## Termos relacionados do glossário
 
-- [Plugin](https://trescout.com/pt/dictionary/plugin/)
 - [Large Language Models](https://trescout.com/pt/dictionary/large-language-models/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

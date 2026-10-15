@@ -2,16 +2,16 @@
 
 Next.js es un marco utilizado para desarrollar aplicaciones web basadas en React y proporciona funciones como renderizado del lado del servidor y generación de sitios estáticos. Se está convirtiendo en una opción común entre los desarrolladores, ya que ofrece optimizaciones orientadas al rendimiento y soluciones de infraestructura escalables en proyectos web modernos.
 
-- ★ 143.229
+- ★ 143.019
 - JavaScript
 - GitHub Trending · 2026-07-11
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 143,229 → 143,019, última versión v16.4.1 (14 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 142,954 → 143,229, última versión v16.4.0 (7 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 142,883 → 142,954, última versión v16.3.8 (30 de septiembre de 2026).
 - **29 de septiembre de 2026:** Estrellas 142,648 → 142,883, última versión v16.3.7 (29 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 142,248 → 142,648, última versión v16.3.6 (22 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -38,7 +38,9 @@ npm run dev
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a trabajar con Next.js, puede visitar el sitio web oficial nextjs.org y obtener información básica realizando el curso de aprendizaje aquí. También puede revisar la página de documentación en nextjs.org/docs para obtener todos los detalles técnicos y guías de usuario.
+
+- [Fuente oficial →](https://nextjs.org)
 
 ## Términos relacionados del glosario
 
@@ -52,7 +54,7 @@ npm run dev
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://nextjs.org)
+- [Repositorio en GitHub →](https://github.com/vercel/next.js)
 - [Leer en turco →](https://trescout.com/discover/next-js/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-11: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

@@ -68,13 +68,13 @@ Milyarlarca parametrenin her bir token üretiminde GPU/NPU video belleğinde (VR
 ## İlgili araçlar
 
 - [Andrej Karpathy Skills](https://trescout.com/discover/andrej-karpathy-skills/)
-- [Awesome LLM Apps](https://trescout.com/discover/awesome-llm-apps/)
 - [MoneyPrinterTurbo](https://trescout.com/discover/moneyprinterturbo/)
 - [TradingAgents](https://trescout.com/discover/tradingagents/)
 - [Ragflow](https://trescout.com/discover/ragflow/)
 - [Servers](https://trescout.com/discover/servers/)
 - [Crawl4AI](https://trescout.com/discover/crawl4ai/)
 - [Deer Flow](https://trescout.com/discover/deer-flow/)
+- [Unsloth](https://trescout.com/discover/unsloth/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

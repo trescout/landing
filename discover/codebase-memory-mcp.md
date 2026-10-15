@@ -47,9 +47,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Knowledge Graph](https://trescout.com/dictionary/knowledge-graph/)
-- [Memory](https://trescout.com/dictionary/memory/)
 - [Token](https://trescout.com/dictionary/token/)
-- [MCP](https://trescout.com/dictionary/mcp/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

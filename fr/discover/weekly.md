@@ -13,13 +13,15 @@ Destinée aux passionnés de technologie, cette newsletter hebdomadaire rassembl
 
 ## Pour commencer
 
-- Source officielle →
+Pour lire du contenu technologique ou y contribuer, rendez-vous sur la page web du projet officiel sur GitHub, consultez les articles récents en cliquant sur les liens des numéros publiés et effectuez vos démarches directement sur la page si vous souhaitez contribuer.
+
+- [Source officielle →](https://github.com/ruanyf/weekly/issues)
 
 - **Pour qui:** S'adresse à toute personne souhaitant suivre chaque semaine les technologies actuelles, les innovations du monde du logiciel et les opportunités de carrière.
 
 ## Liens
 
-- [Dépôt GitHub →](https://github.com/ruanyf/weekly/issues)
+- [Dépôt GitHub →](https://github.com/ruanyf/weekly)
 - [Lire en turc →](https://trescout.com/discover/weekly/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-20 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

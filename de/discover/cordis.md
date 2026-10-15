@@ -21,7 +21,9 @@ Cordis ist ein Meta-Framework, das räumliche und zeitliche Komponenten kombinie
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit Cordis zu beginnen, können Sie die Grundkonzepte auf cordis-primer, der offiziellen Dokumentationsseite des Projekts, nachlesen. Sie können sich auch den auf GitHub veröffentlichten wissenschaftlichen Artikel ansehen, um die Arbeitslogik des Systems zu verstehen.
+
+- [Offizielle Quelle →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ Cordis ist ein Meta-Framework, das räumliche und zeitliche Komponenten kombinie
 
 ## Links
 
-- [GitHub-Repository →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
+- [GitHub-Repository →](https://github.com/cordiverse/cordis)
 - [Auf Türkisch lesen →](https://trescout.com/discover/cordis/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

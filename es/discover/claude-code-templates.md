@@ -55,7 +55,6 @@ Quiero optimizar mi entorno de trabajo de Claude Code. ¿Cómo puedo enumerar e 
 
 ## Términos relacionados del glosario
 
-- [Claude Code Templates](https://trescout.com/es/dictionary/claude-code-templates/)
 - [MCP](https://trescout.com/es/dictionary/mcp/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)

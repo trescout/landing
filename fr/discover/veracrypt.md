@@ -32,13 +32,15 @@ winget install IDRIX.VeraCrypt
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser VeraCrypt, vous pouvez visiter le site officiel veracrypt.jp et télécharger le fichier d'installation adapté à votre système d'exploitation. Si vous souhaitez compiler à partir du code source, vous pouvez suivre les étapes spécifiques à votre système en examinant les fichiers CompilingGuideline dans le dossier de documentation du référentiel.
+
+- [Source officielle →](https://veracrypt.jp)
 
 - **Pour qui:** Il s'adresse aux utilisateurs particuliers et aux professionnels qui souhaitent protéger leurs données avec des méthodes de cryptage fortes.
 
 ## Liens
 
-- [Dépôt GitHub →](https://veracrypt.jp)
+- [Dépôt GitHub →](https://github.com/veracrypt/VeraCrypt)
 - [Lire en turc →](https://trescout.com/discover/veracrypt/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-30 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

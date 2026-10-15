@@ -14,7 +14,9 @@ Renodx ist eine Konvertierungs-Engine, die alten DirectX-Spielen Unterstützung 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung des Tools zu beginnen, können Sie die Liste der verfügbaren Mods auf der Wiki-Seite des Projekts auf GitHub einsehen oder den Bereich für Hilfsprogramme auf der offiziellen Seite besuchen, um die Entwicklertools herunterzuladen. Es wird empfohlen, die Dokumentationsseiten für Details zur Installation und Verwendung zu befolgen.
+
+- [Offizielle Quelle →](https://renodx.com/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -26,7 +28,7 @@ Renodx ist eine Konvertierungs-Engine, die alten DirectX-Spielen Unterstützung 
 
 ## Links
 
-- [GitHub-Repository →](https://renodx.com/)
+- [GitHub-Repository →](https://github.com/clshortfuse/renodx)
 - [Auf Türkisch lesen →](https://trescout.com/discover/renodx/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-05 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

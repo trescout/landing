@@ -19,7 +19,9 @@ Firebase, a mobile development platform offered by Google, provides a software d
 
 ## Getting started
 
-- Official source →
+For installation, you can review the official Firebase get started documentation and use Swift Package Manager or CocoaPods methods. For detailed instructions, you can check out the setup and getting started guides on the Firebase website.
+
+- [Official source →](https://firebase.google.com)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ Firebase, a mobile development platform offered by Google, provides a software d
 
 ## Links
 
-- [GitHub repository →](https://firebase.google.com)
+- [GitHub repository →](https://github.com/firebase/firebase-ios-sdk)
 - [Read in Turkish →](https://trescout.com/discover/firebase-ios-sdk/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-01: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

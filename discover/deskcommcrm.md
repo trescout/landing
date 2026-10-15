@@ -2,16 +2,16 @@
 
 DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.
 
-- ★ 4.530
+- ★ 4.599
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 4.530 → 4.599, son sürüm v1.81.0 (15 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 4.513 → 4.530, son sürüm v1.80.0 (11 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 4.497 → 4.513, son sürüm v1.79.0 (10 Ekim 2026).
 - **9 Ekim 2026:** Yıldız 4.487 → 4.497, son sürüm v1.78.0 (8 Ekim 2026).
-- **8 Ekim 2026:** Yıldız 4.457 → 4.487, son sürüm v1.77.0 (8 Ekim 2026).
 
 ## Ne kazandırır?
 

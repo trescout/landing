@@ -37,15 +37,17 @@ mesheryctl system start
 
 ## Getting started
 
-- Official source →
+To start using Meshery, you can visit meshery.io via your browser or try the Cloud Native Playground environment offered directly via the play.meshery.io link.
+
+- [Official source →](https://meshery.io)
 
 ## Related dictionary terms
 
 - [Cloud Native](https://trescout.com/en/dictionary/cloud-native/)
 - [Service Mesh](https://trescout.com/en/dictionary/service-mesh/)
 - [Bash Script](https://trescout.com/en/dictionary/bash-script/)
-- [Script](https://trescout.com/en/dictionary/script/)
 - [Native](https://trescout.com/en/dictionary/native/)
+- [Script](https://trescout.com/en/dictionary/script/)
 - [Mesh](https://trescout.com/en/dictionary/mesh/)
 
 - **Who it is for:** It is suitable for engineers who manage Kubernetes-based cloud infrastructures and want to visualize complex configuration processes.
@@ -53,7 +55,7 @@ mesheryctl system start
 
 ## Links
 
-- [GitHub repository →](https://meshery.io)
+- [GitHub repository →](https://github.com/meshery/meshery)
 - [Read in Turkish →](https://trescout.com/discover/meshery/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

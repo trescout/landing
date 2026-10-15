@@ -19,7 +19,9 @@ Anki est un logiciel de cartes mémoire qui facilite l'apprentissage en utilisan
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser l'application Anki, vous pouvez visiter le site officiel apps.ankiweb.net. Vous pouvez télécharger et installer la version pour ordinateur à partir de là et commencer immédiatement à créer vos propres cartes mémoire.
+
+- [Source officielle →](https://apps.ankiweb.net)
 
 ## Termes liés du glossaire
 
@@ -30,7 +32,7 @@ Anki est un logiciel de cartes mémoire qui facilite l'apprentissage en utilisan
 
 ## Liens
 
-- [Dépôt GitHub →](https://apps.ankiweb.net)
+- [Dépôt GitHub →](https://github.com/ankitects/anki)
 - [Lire en turc →](https://trescout.com/discover/anki/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-19 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

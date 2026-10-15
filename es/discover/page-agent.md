@@ -33,11 +33,9 @@ Quiero gestionar interacciones en la página web con comandos de lenguaje natura
 
 ## Términos relacionados del glosario
 
-- [Page Agent](https://trescout.com/es/dictionary/page-agent/)
 - [User Interface](https://trescout.com/es/dictionary/user-interface/)
 - [GUI](https://trescout.com/es/dictionary/gui/)
 - [Interface](https://trescout.com/es/dictionary/interface/)
-- [Agent](https://trescout.com/es/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para desarrolladores que desean agregar asistentes de inteligencia artificial que puedan controlarse con lenguaje natural a sus aplicaciones web.

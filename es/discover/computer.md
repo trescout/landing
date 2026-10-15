@@ -21,7 +21,9 @@ Desarrollada por Cloudflare, Computer es una biblioteca TypeScript que brinda a 
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a utilizar esta herramienta, primero debe incluir el paquete Cloudflare Computer en su proyecto. Para conocer los pasos de instalación, el mapa de puntos de entrada y ejemplos de uso del sistema de archivos, puede revisar el archivo README ubicado en el directorio paquetes/computadora en el repositorio de GitHub.
+
+- [Fuente oficial →](https://github.com/vercel-labs/just-bash)
 
 ## Términos relacionados del glosario
 
@@ -32,7 +34,7 @@ Desarrollada por Cloudflare, Computer es una biblioteca TypeScript que brinda a 
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://github.com/vercel-labs/just-bash)
+- [Repositorio en GitHub →](https://github.com/cloudflare/computer)
 - [Leer en turco →](https://trescout.com/discover/computer/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-06: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

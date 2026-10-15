@@ -21,14 +21,16 @@ ESPectre is a system that performs motion detection via Wi-Fi channel state info
 
 ## Getting started
 
-- Official source →
+To start using ESPectre, you need to follow the official SETUP.md document of the project. This document explains the installation steps and configuration processes in detail. You can also use the TUNING.md file to make the most appropriate settings for your environment.
+
+- [Official source →](https://espectre.dev)
 
 - **Who it is for:** It is for users interested in home automation who are looking for low-cost motion detection solutions without compromising privacy.
 - **License:** GPL-3.0
 
 ## Links
 
-- [GitHub repository →](https://espectre.dev)
+- [GitHub repository →](https://github.com/francescopace/espectre)
 - [Read in Turkish →](https://trescout.com/discover/espectre/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-10: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

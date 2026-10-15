@@ -25,7 +25,6 @@ Cet outil ne nécessite aucune installation. Après avoir téléchargé les fich
 
 ## Termes liés du glossaire
 
-- [Exercises Dataset](https://trescout.com/fr/dictionary/exercises-dataset/)
 - [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Il convient aux développeurs de logiciels qui développent des applications dans le domaine des technologies sportives et aux chercheurs axés sur le fitness.

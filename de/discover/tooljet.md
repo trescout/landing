@@ -8,10 +8,10 @@ ToolJet ist eine Open-Source-Plattform zur Anwendungserstellung für die Entwick
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 41,092 → 41,092, neueste Version v3.20.245-lts (14. Oktober 2026).
 - **13. Oktober 2026:** Sterne 41,053 → 41,092, neueste Version v3.20.244-lts (13. Oktober 2026).
 - **9. Oktober 2026:** Sterne 41,055 → 41,053, neueste Version v3.20.243-lts (9. Oktober 2026).
 - **9. Oktober 2026:** Sterne 41,049 → 41,055, neueste Version v3.20.242-lts (9. Oktober 2026).
-- **8. Oktober 2026:** Sterne 41,049 → 41,049, neueste Version v3.20.241-lts (8. Oktober 2026).
 
 ## Was es bringt
 

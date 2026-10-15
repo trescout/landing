@@ -33,11 +33,9 @@ Je souhaite gérer les interactions sur la page Web avec des commandes en langag
 
 ## Termes liés du glossaire
 
-- [Page Agent](https://trescout.com/fr/dictionary/page-agent/)
 - [User Interface](https://trescout.com/fr/dictionary/user-interface/)
 - [GUI](https://trescout.com/fr/dictionary/gui/)
 - [Interface](https://trescout.com/fr/dictionary/interface/)
-- [Agent](https://trescout.com/fr/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs qui souhaitent ajouter à leurs applications Web des assistants d’intelligence artificielle contrôlables en langage naturel.

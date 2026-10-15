@@ -15,13 +15,14 @@ System prompts and used language models (AI models) of popular artificial intell
 
 ## Getting started
 
-- Official source →
+This tool is an information archive that does not require any installation. You can visit the relevant repository page on GitHub through your browser to access the system instructions and model information of the artificial intelligence tools you want to examine.
+
+- [Official source →](https://github.com/latitude-dev/latitude-llm)
 
 ## Related dictionary terms
 
 - [System Prompts](https://trescout.com/en/dictionary/system-prompts/)
 - [AI Models](https://trescout.com/en/dictionary/ai-models/)
-- [Tools](https://trescout.com/en/dictionary/tools/)
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
@@ -30,7 +31,7 @@ System prompts and used language models (AI models) of popular artificial intell
 
 ## Links
 
-- [GitHub repository →](https://github.com/latitude-dev/latitude-llm)
+- [GitHub repository →](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Read in Turkish →](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-10: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

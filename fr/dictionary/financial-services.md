@@ -38,10 +38,6 @@ Il comprend les banques, les sociétés de courtage, les compagnies d'assurance 
 - [SaaS](https://trescout.com/fr/dictionary/saas/)
 - [Database](https://trescout.com/fr/dictionary/database/)
 
-## Outils liés
-
-- [Financial Services](https://trescout.com/fr/discover/financial-services/)
-
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/financial-services/)
 
 ---

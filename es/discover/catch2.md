@@ -28,7 +28,9 @@ brew install catch2
 
 ## Cómo empezar
 
-- Fuente oficial →
+Catch2 está estructurado como una biblioteca. Para comenzar, puede aprender cómo incluirlo en su proyecto revisando la guía 'Tutorial' en la sección de documentación de la página de GitHub.
+
+- [Fuente oficial →](https://discord.gg/4CWS9zD)
 
 ## Términos relacionados del glosario
 
@@ -41,7 +43,7 @@ brew install catch2
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://discord.gg/4CWS9zD)
+- [Repositorio en GitHub →](https://github.com/catchorg/Catch2)
 - [Leer en turco →](https://trescout.com/discover/catch2/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-11: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

@@ -20,7 +20,9 @@ Diese von der Harvard University gemeinsam genutzte Ressource bietet einen umfas
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit diesem Projekt zu beginnen, können Sie die offizielle Website mlsysbook.ai besuchen. Sie können Ihren Lernprozess beginnen, indem Sie theoretisches Wissen mit praktischer Arbeit über das Lehrbuch, interaktive Labore und TinyTorch-Module auf der Website kombinieren.
+
+- [Offizielle Quelle →](http://mlsysbook.ai/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ Diese von der Harvard University gemeinsam genutzte Ressource bietet einen umfas
 
 ## Links
 
-- [GitHub-Repository →](http://mlsysbook.ai/)
+- [GitHub-Repository →](https://github.com/harvard-edge/cs249r_book)
 - [Auf Türkisch lesen →](https://trescout.com/discover/cs249r-book/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-03 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

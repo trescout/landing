@@ -14,7 +14,9 @@ Jellium-desktop é um cliente de desktop não oficial desenvolvido em Rust para 
 
 ## Como começar
 
-- Fonte oficial →
+Você pode usar os links de download na página do GitHub para começar a usar o aplicativo Jellium Desktop. Após baixar a versão adequada ao seu sistema operacional (Windows, macOS ou Linux), instale o aplicativo em seu sistema executando o arquivo de instalação e acesse-o inserindo as informações do seu servidor Jellyfin.
+
+- [Fonte oficial →](https://github.com/andrewrabert/jellium-desktop)
 
 ## Termos relacionados do glossário
 

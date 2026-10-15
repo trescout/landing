@@ -20,7 +20,9 @@ La plateforme modulaire fournit une infrastructure hautes performances pour les 
 
 ## Pour commencer
 
-- Source officielle →
+Vous pouvez utiliser les guides sur le site officiel pour commencer à utiliser la plateforme. Jetez simplement un œil au guide de démarrage rapide MAX pour exécuter des modèles d'intelligence artificielle et utiliser le framework MAX, ainsi qu'au guide de démarrage rapide Mojo pour démarrer avec le langage de programmation Mojo.
+
+- [Source officielle →](https://docs.modular.com/)
 
 ## Termes liés du glossaire
 
@@ -30,7 +32,7 @@ La plateforme modulaire fournit une infrastructure hautes performances pour les 
 
 ## Liens
 
-- [Dépôt GitHub →](https://docs.modular.com/)
+- [Dépôt GitHub →](https://github.com/modular/modular)
 - [Lire en turc →](https://trescout.com/discover/modular/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-20 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

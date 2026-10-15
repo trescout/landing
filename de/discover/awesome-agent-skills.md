@@ -18,7 +18,9 @@ Awesome-agent-skills wurde von VoltAgent zusammengestellt und vereint mehr als 1
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um diese Sammlung zu verwenden, besuchen Sie die Seite „Awesome Agent Skills“ auf GitHub. Sie können den von Ihnen benötigten Skill aus der Tabelle auswählen, über den entsprechenden Link auf dessen Dokumentation zugreifen und ihn in den von Ihnen verwendeten Assistenten für künstliche Intelligenz integrieren.
+
+- [Offizielle Quelle →](https://officialskills.sh/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -33,7 +35,7 @@ Awesome-agent-skills wurde von VoltAgent zusammengestellt und vereint mehr als 1
 
 ## Links
 
-- [GitHub-Repository →](https://officialskills.sh/)
+- [GitHub-Repository →](https://github.com/VoltAgent/awesome-agent-skills)
 - [Auf Türkisch lesen →](https://trescout.com/discover/awesome-agent-skills/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-24 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

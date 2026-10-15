@@ -14,7 +14,9 @@ Renodx est un moteur de conversion qui ajoute la prise en charge de la plage dyn
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser l'outil, vous pouvez consulter la liste des mods disponibles sur la page Wiki du projet sur GitHub ou parcourir la section des utilitaires sur le site officiel pour télécharger les outils de développement. Il est recommandé de suivre les pages de documentation pour les détails d'installation et d'utilisation.
+
+- [Source officielle →](https://renodx.com/)
 
 ## Termes liés du glossaire
 
@@ -26,7 +28,7 @@ Renodx est un moteur de conversion qui ajoute la prise en charge de la plage dyn
 
 ## Liens
 
-- [Dépôt GitHub →](https://renodx.com/)
+- [Dépôt GitHub →](https://github.com/clshortfuse/renodx)
 - [Lire en turc →](https://trescout.com/discover/renodx/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

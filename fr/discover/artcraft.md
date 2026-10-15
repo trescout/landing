@@ -2,16 +2,16 @@
 
 ArtCraft est un moteur de création de contenu (crafting engine) développé pour les artistes et les designers. Écrit en Rust, cet outil automatise les flux de travail complexes des processus créatifs et standardise les processus de production visuelle.
 
-- ★ 26 817
+- ★ 28 441
 - Rust
 - GitHub Trending · 2026-10-08
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 26,817 → 28,441, dernière version artcraft-v0.41.0 (26 septembre 2026).
 - **14 octobre 2026:** Étoiles 24,531 → 26,817, dernière version artcraft-v0.41.0 (26 septembre 2026).
 - **13 octobre 2026:** Étoiles 21,267 → 24,531, dernière version artcraft-v0.41.0 (26 septembre 2026).
 - **12 octobre 2026:** Étoiles 19,954 → 21,267, dernière version artcraft-v0.41.0 (26 septembre 2026).
-- **12 octobre 2026:** Étoiles 18,152 → 19,954, dernière version artcraft-v0.41.0 (26 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -21,7 +21,9 @@ ArtCraft est un moteur de création de contenu (crafting engine) développé pou
 
 ## Pour commencer
 
-- Source officielle →
+Vous pouvez télécharger l'application sur le site officiel getartcraft.com ou consulter les versions sur GitHub pour la compilation à partir du code source.
+
+- [Source officielle →](https://getartcraft.com)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ ArtCraft est un moteur de création de contenu (crafting engine) développé pou
 
 ## Liens
 
-- [Dépôt GitHub →](https://getartcraft.com)
+- [Dépôt GitHub →](https://github.com/storytold/artcraft)
 - [Lire en turc →](https://trescout.com/discover/artcraft/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

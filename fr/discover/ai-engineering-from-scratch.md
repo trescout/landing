@@ -2,17 +2,17 @@
 
 Introduction à l'ingénierie de l'intelligence artificielle à partir de zéro : 485 leçons, 20 phases et environ 320 heures de contenu. Il enseigne tous les algorithmes, de l'algèbre linéaire aux agents autonomes, d'abord avec les mathématiques puis en écrivant du code à la main. Ce cours, qui couvre les langages Python, TypeScript, Rust et Julia, est entièrement gratuit et open source.
 
-- ★ 66 339
+- ★ 69 356
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 66,339 → 69,356, dernière version v2026.10.3 (15 octobre 2026).
 - **10 octobre 2026:** Étoiles 65,449 → 66,339, dernière version v2026.10.2 (10 octobre 2026).
 - **7 octobre 2026:** Étoiles 65,029 → 65,449, dernière version v2026.10.1 (6 octobre 2026).
 - **6 octobre 2026:** Étoiles 61,896 → 65,029, dernière version v2026.10 (27 septembre 2026).
-- **30 septembre 2026:** Étoiles 58,825 → 61,896, dernière version v2026.10 (27 septembre 2026).
 
 ## Qu'est-ce qu'on apprend ?
 
@@ -33,12 +33,12 @@ Je vais vous donner le contenu d'un programme open source en 20 phases et plus d
 
 ## Termes liés du glossaire
 
-- [AI Engineering](https://trescout.com/fr/dictionary/ai-engineering/)
 - [Tokenizer](https://trescout.com/fr/dictionary/tokenizer/)
 - [Attention](https://trescout.com/fr/dictionary/attention/)
 - [Prompt](https://trescout.com/fr/dictionary/prompt/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
+- [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Ceux qui veulent apprendre l’IA de manière fondamentale plutôt que superficielle
 - **Difficulté:** Il progresse depuis le début, étape par étape

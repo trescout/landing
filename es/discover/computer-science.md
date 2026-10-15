@@ -16,7 +16,9 @@ Al ofrecer un plan de estudios gratuito y orientado al autoaprendizaje en el cam
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar con este plan de estudios, simplemente visite el sitio web oficial de OSSU CS o el repositorio de GitHub. Puedes revisar cursos en el sitio web, crear tu plan de estudio e interactuar con otros estudiantes uniéndote a la comunidad de Discord.
+
+- [Fuente oficial →](https://cs.ossu.dev)
 
 ## Términos relacionados del glosario
 
@@ -27,7 +29,7 @@ Al ofrecer un plan de estudios gratuito y orientado al autoaprendizaje en el cam
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://cs.ossu.dev)
+- [Repositorio en GitHub →](https://github.com/ossu/computer-science)
 - [Leer en turco →](https://trescout.com/discover/computer-science/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-17: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

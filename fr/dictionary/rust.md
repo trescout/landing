@@ -37,12 +37,12 @@ Parce que c'est très rapide et réduit considérablement les erreurs logicielle
 
 - [Next.js](https://trescout.com/fr/discover/next-js/)
 - [Rustdesk](https://trescout.com/fr/discover/rustdesk/)
+- [Rust](https://trescout.com/fr/discover/rust/)
 - [Deno](https://trescout.com/fr/discover/deno/)
 - [BUN](https://trescout.com/fr/discover/bun/)
 - [OpenCut](https://trescout.com/fr/discover/opencut/)
-- [Vaultwarden](https://trescout.com/fr/discover/vaultwarden/)
-- [Openinterpreter](https://trescout.com/fr/discover/openinterpreter/)
 - [AI Engineering from Scratch](https://trescout.com/fr/discover/ai-engineering-from-scratch/)
+- [Vaultwarden](https://trescout.com/fr/discover/vaultwarden/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/rust/)
 

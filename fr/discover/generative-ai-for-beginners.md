@@ -18,7 +18,9 @@ Ce contenu de formation préparé par Microsoft propose un programme de 21 leço
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer avec le contenu de la formation, vous pouvez visiter la page officielle sur GitHub ou télécharger les fichiers sur votre ordinateur à l'aide des commandes ci-dessus. Ensuite, suivez simplement le guide dans le dossier « 00-course-setup » du référentiel pour préparer votre environnement de développement.
+
+- [Source officielle →](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
 
 ## Termes liés du glossaire
 
@@ -31,7 +33,7 @@ Ce contenu de formation préparé par Microsoft propose un programme de 21 leço
 
 ## Liens
 
-- [Dépôt GitHub →](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+- [Dépôt GitHub →](https://github.com/microsoft/generative-ai-for-beginners)
 - [Lire en turc →](https://trescout.com/discover/generative-ai-for-beginners/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-02 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

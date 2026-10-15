@@ -20,7 +20,9 @@ Developed by Google, Guava is a toolkit containing core libraries frequently nee
 
 ## Getting started
 
-- Official source →
+Depending on the configuration tool you use to add the Guava library to your project, you need to define the necessary dependencies in your Maven or Gradle files. You can start by choosing one of the JRE or Android versions according to the needs of your project and adding the relevant dependency codes to your project's configuration file.
+
+- [Official source →](https://guava.dev/)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ Developed by Google, Guava is a toolkit containing core libraries frequently nee
 
 ## Links
 
-- [GitHub repository →](https://guava.dev/)
+- [GitHub repository →](https://github.com/google/guava)
 - [Read in Turkish →](https://trescout.com/discover/guava/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-07: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

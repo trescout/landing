@@ -2,16 +2,16 @@
 
 Macro es un espacio de trabajo que combina herramientas empresariales como correo electrónico, chat, documentos y gestión de tareas con una memoria de inteligencia artificial común. Desarrollada con el lenguaje Rust, esta plataforma conecta diferentes flujos de trabajo en una única interfaz.
 
-- ★ 4.666
+- ★ 4.680
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 4,666 → 4,680, última versión v2026.10.14.0 (14 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 4,627 → 4,666, última versión v2026.10.13.1 (13 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 4,613 → 4,627, última versión v2026.10.10.0 (10 de octubre de 2026).
 - **10 de octubre de 2026:** Estrellas 4,598 → 4,613, última versión v2026.10.9.1 (9 de octubre de 2026).
-- **9 de octubre de 2026:** Estrellas 4,584 → 4,598, última versión v2026.10.8.1 (8 de octubre de 2026).
 
 ## Qué aporta
 
@@ -21,7 +21,9 @@ Macro es un espacio de trabajo que combina herramientas empresariales como corre
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a utilizar la plataforma Macro, simplemente vaya al sitio web oficial macro.com y regístrese. Puede revisar la página de documentación en docs.macro.com para obtener información sobre todas las funciones y detalles de uso que ofrece la plataforma.
+
+- [Fuente oficial →](https://macro.com)
 
 ## Términos relacionados del glosario
 
@@ -33,7 +35,7 @@ Macro es un espacio de trabajo que combina herramientas empresariales como corre
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://macro.com)
+- [Repositorio en GitHub →](https://github.com/macro-inc/macro)
 - [Leer en turco →](https://trescout.com/discover/macro/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-13: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

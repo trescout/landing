@@ -19,7 +19,9 @@ The ChinaTextbook repository offers a digital archive of textbooks used in the C
 
 ## Getting started
 
-- Official source →
+You can directly view or download textbooks at primary, secondary, high school and university levels in PDF format by visiting the GitHub page of the ChinaTextbook repository. If the file you downloaded is divided into pieces, you can download the merge tool to your computer by going to the '下载文件合并程序' link on the project page and merge it by running it in the same folder with the relevant files.
+
+- [Official source →](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
 
 ## Related dictionary terms
 
@@ -29,7 +31,7 @@ The ChinaTextbook repository offers a digital archive of textbooks used in the C
 
 ## Links
 
-- [GitHub repository →](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf)
+- [GitHub repository →](https://github.com/TapXWorld/ChinaTextbook)
 - [Read in Turkish →](https://trescout.com/discover/chinatextbook/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

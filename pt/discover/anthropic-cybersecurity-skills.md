@@ -41,7 +41,6 @@ Adicione esta biblioteca comunitária de habilidades de segurança cibernética 
 
 ## Termos relacionados do glossário
 
-- [Cybersecurity Skills](https://trescout.com/pt/dictionary/cybersecurity-skills/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 - [CLI](https://trescout.com/pt/dictionary/cli/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)

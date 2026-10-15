@@ -50,7 +50,9 @@ http://localhost:3000
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à installer Rocket.Chat, vous pouvez consulter le guide de déploiement sur la page de documentation officielle. Vous pouvez choisir l'une des méthodes Docker, Podman ou Kubernetes pour héberger sur votre propre serveur, ou envisager l'option Launchpad pour un démarrage plus rapide. Pour toutes les exigences techniques et les étapes d'installation détaillées, visitez le site de documentation officiel de Rocket.Chat.
+
+- [Source officielle →](https://rocket.chat/)
 
 ## Termes liés du glossaire
 
@@ -61,7 +63,7 @@ http://localhost:3000
 
 ## Liens
 
-- [Dépôt GitHub →](https://rocket.chat/)
+- [Dépôt GitHub →](https://github.com/RocketChat/Rocket.Chat)
 - [Lire en turc →](https://trescout.com/discover/rocket-chat/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-18 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

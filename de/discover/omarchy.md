@@ -21,7 +21,9 @@ Omarchy wurde von Basecamp entwickelt und ist ein modernes und originelles Konfi
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um Omarchy zu verwenden, können Sie omarchy.org besuchen und die Installationsanleitung auf der offiziellen Website lesen. Um alle Details und Konfigurationsmöglichkeiten des Systems zu erfahren, schauen Sie sich einfach das Online-Handbuch unter learn.omacom.io an.
+
+- [Offizielle Quelle →](https://omarchy.org)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -35,7 +37,7 @@ Omarchy wurde von Basecamp entwickelt und ist ein modernes und originelles Konfi
 
 ## Links
 
-- [GitHub-Repository →](https://omarchy.org)
+- [GitHub-Repository →](https://github.com/basecamp/omarchy)
 - [Auf Türkisch lesen →](https://trescout.com/discover/omarchy/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-17 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

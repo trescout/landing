@@ -41,7 +41,6 @@ Although it takes time at first, it saves serious time in the long run as it pre
 ## Related tools
 
 - [Open Code Review](https://trescout.com/en/discover/open-code-review/)
-- [Code Review Graph](https://trescout.com/en/discover/code-review-graph/)
 - [Tuicr](https://trescout.com/en/discover/tuicr/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-review/)

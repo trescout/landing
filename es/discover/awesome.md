@@ -17,14 +17,16 @@ Awesome Lists ofrece colecciones seleccionadas de recursos sobre una variedad de
 
 ## Cómo empezar
 
-- Fuente oficial →
+Esta herramienta no requiere instalación de software. Para encontrar la tecnología o el tema que le interesa, puede visitar el sitio web oficial, awesome.re, y acceder a los recursos que busca a través de listas categorizadas.
+
+- [Fuente oficial →](https://github.com/stingalleman/awesome-audiovisual#readme)
 
 - **Para quién es:** Es adecuado para cualquier persona que quiera acceder a recursos de calidad sobre desarrollo de software, tecnología y herramientas digitales desde un único centro.
 - **Licencia:** CC0-1.0
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://github.com/stingalleman/awesome-audiovisual#readme)
+- [Repositorio en GitHub →](https://github.com/sindresorhus/awesome)
 - [Leer en turco →](https://trescout.com/discover/awesome/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

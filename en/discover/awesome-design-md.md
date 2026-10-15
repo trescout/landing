@@ -19,7 +19,9 @@ Awesome-design-md is a collection of design documents (DESIGN.md) from popular b
 
 ## Getting started
 
-- Official source →
+Select a DESIGN.md file that suits your project from the collection in the awesome-design-md repository. Copy the contents of the relevant file and save it as a text file in the main directory of your project. Then, simply reference this file to the artificial intelligence coding tool you are using and give the command 'Create me a page that looks like this'.
+
+- [Official source →](https://getdesign.md/)
 
 ## Related dictionary terms
 
@@ -31,7 +33,7 @@ Awesome-design-md is a collection of design documents (DESIGN.md) from popular b
 
 ## Links
 
-- [GitHub repository →](https://getdesign.md/)
+- [GitHub repository →](https://github.com/VoltAgent/awesome-design-md)
 - [Read in Turkish →](https://trescout.com/discover/awesome-design-md/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-10: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

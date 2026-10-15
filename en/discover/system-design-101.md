@@ -17,7 +17,9 @@ The system-design-101 repository by ByteByteGoHq explains complex system archite
 
 ## Getting started
 
-- Official source →
+This tool is not a software library but a comprehensive educational resource. To get started, you can browse the content list in the GitHub repository and access the explanatory guides on ByteByteGo's official website by clicking on the title that interests you.
+
+- [Official source →](https://bytebytego.com/guides)
 
 ## Related dictionary terms
 
@@ -27,7 +29,7 @@ The system-design-101 repository by ByteByteGoHq explains complex system archite
 
 ## Links
 
-- [GitHub repository →](https://bytebytego.com/guides)
+- [GitHub repository →](https://github.com/ByteByteGoHq/system-design-101)
 - [Read in Turkish →](https://trescout.com/discover/system-design-101/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-29: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -18,7 +18,9 @@ Public-apis é uma lista abrangente de interfaces de programação de aplicativo
 
 ## Como começar
 
-- Fonte oficial →
+Para encontrar os dados necessários, você pode visitar o repositório Public-apis no GitHub e pesquisar na lista categorizada. Depois de selecionar as APIs que deseja integrar ao seu projeto, basta criar uma conta nos sites oficiais dos serviços relevantes e obter a sua chave API.
+
+- [Fonte oficial →](https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)
 
 ## Termos relacionados do glossário
 
@@ -29,7 +31,7 @@ Public-apis é uma lista abrangente de interfaces de programação de aplicativo
 
 ## Links
 
-- [Repositório no GitHub →](https://APILayer.com/?utm_source=Github&amp;utm_medium=Referral&amp;utm_campaign=Public-apis-repo)
+- [Repositório no GitHub →](https://github.com/public-apis/public-apis)
 - [Ler em turco →](https://trescout.com/discover/public-apis/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

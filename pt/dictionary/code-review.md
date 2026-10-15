@@ -41,7 +41,6 @@ Embora leve tempo no início, economiza muito tempo no longo prazo, pois evita e
 ## Ferramentas relacionadas
 
 - [Open Code Review](https://trescout.com/pt/discover/open-code-review/)
-- [Code Review Graph](https://trescout.com/pt/discover/code-review-graph/)
 - [Tuicr](https://trescout.com/pt/discover/tuicr/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-review/)

@@ -18,7 +18,9 @@ Desenvolvido pela Comma AI, openpilot é um sistema operacional de código abert
 
 ## Como começar
 
-- Fonte oficial →
+Para usar esta ferramenta, você deve ter um dispositivo de vírgula compatível, um chicote de cabos adequado ao seu veículo e um modelo de veículo compatível. Para obter informações detalhadas sobre o processo de instalação e requisitos de hardware, você pode visitar a página de documentação oficial (docs.comma.ai) e o guia de instalação (comma.ai/setup).
+
+- [Fonte oficial →](https://comma.ai/openpilot)
 
 ## Termos relacionados do glossário
 
@@ -30,7 +32,7 @@ Desenvolvido pela Comma AI, openpilot é um sistema operacional de código abert
 
 ## Links
 
-- [Repositório no GitHub →](https://comma.ai/openpilot)
+- [Repositório no GitHub →](https://github.com/commaai/openpilot)
 - [Ler em turco →](https://trescout.com/discover/openpilot/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-27: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

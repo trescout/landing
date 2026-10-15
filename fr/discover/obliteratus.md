@@ -2,12 +2,13 @@
 
 OBLITERATUS aborde l'analyse des aspects des barrières de sécurité, la détection des traces d'alignement, l'évaluation de la robustesse de la défense et les techniques permettant de supprimer les signaux de rejet et de barrière de sécurité des modèles de langage.
 
-- ★ 7 994
+- ★ 8 803
 - Python
 - GitHub Trending · 2026-08-22
 
 ## Mises à jour
 
+- **15 octobre 2026:** Étoiles 7,994 → 8,803, dernière version v0.1.4 (15 octobre 2026).
 - **24 août 2026:** Étoiles 7,838 → 7,994, dernière version v0.1.3 (23 août 2026).
 
 ## Ce que ça vous apporte

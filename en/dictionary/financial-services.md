@@ -38,10 +38,6 @@ It covers banks, brokerage firms, insurance companies, and payment institutions.
 - [SaaS](https://trescout.com/en/dictionary/saas/)
 - [Database](https://trescout.com/en/dictionary/database/)
 
-## Related tools
-
-- [Financial Services](https://trescout.com/en/discover/financial-services/)
-
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/financial-services/)
 
 ---

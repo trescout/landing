@@ -18,14 +18,16 @@ SmsForwarder é uma ferramenta que encaminha mensagens de texto, chamadas e noti
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar a ferramenta, visite a página oficial de lançamentos no GitHub. Baixe o arquivo APK atualizado na página para o seu dispositivo e conclua a instalação. Para obter instruções detalhadas sobre o manual do usuário e as etapas de configuração, você pode revisar a página Wiki do GitHub do projeto.
+
+- [Fonte oficial →](https://github.com/pppscn/SmsForwarder/releases)
 
 - **Para quem é:** É para usuários que desejam acompanhar as mensagens e notificações em seu dispositivo Android a partir de um ponto central ou gerenciar seu dispositivo remotamente.
 - **Licença:** BSD-2-Clause
 
 ## Links
 
-- [Repositório no GitHub →](https://github.com/pppscn/SmsForwarder/releases)
+- [Repositório no GitHub →](https://github.com/pppscn/SmsForwarder)
 - [Ler em turco →](https://trescout.com/discover/smsforwarder/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-21: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

@@ -27,7 +27,9 @@ brew install abseil
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung von Abseil zu beginnen, sollten Sie das Abseil Quickstart-Dokument auf der offiziellen Website besuchen. In diesem Leitfaden erfahren Sie, wie Sie Ihre Entwicklungsumgebung vorbereiten, Codes herunterladen und eine einfache Binärdatei ausführen.
+
+- [Offizielle Quelle →](https://abseil.io)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -38,7 +40,7 @@ brew install abseil
 
 ## Links
 
-- [GitHub-Repository →](https://abseil.io)
+- [GitHub-Repository →](https://github.com/abseil/abseil-cpp)
 - [Auf Türkisch lesen →](https://trescout.com/discover/abseil-cpp/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-11 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

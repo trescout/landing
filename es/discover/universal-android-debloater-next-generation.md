@@ -18,7 +18,9 @@ Universal Android Debloater Next Generation es una interfaz gráfica multiplataf
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar con la herramienta, vaya a la sección Wiki en la página de GitHub. Al revisar las páginas "Introducción" y "Guía de uso" aquí, puede seguir los pasos necesarios para su dispositivo y descargar y ejecutar la aplicación en su computadora.
+
+- [Fuente oficial →](https://github.com/0x192/universal-android-debloater)
 
 ## Términos relacionados del glosario
 
@@ -31,7 +33,7 @@ Universal Android Debloater Next Generation es una interfaz gráfica multiplataf
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://github.com/0x192/universal-android-debloater)
+- [Repositorio en GitHub →](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
 - [Leer en turco →](https://trescout.com/discover/universal-android-debloater-next-generation/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-17: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

@@ -37,7 +37,9 @@ docker compose up -d
 
 ## Pour commencer
 
-- Source officielle →
+Pour démarrer l'installation, vous devez visiter le guide de démarrage rapide sur la page de documentation officielle. Vous pouvez suivre les étapes d'installation en accédant au guide correspondant sur le site de documentation RomM.
+
+- [Source officielle →](https://romm.app)
 
 ## Termes liés du glossaire
 
@@ -48,7 +50,7 @@ docker compose up -d
 
 ## Liens
 
-- [Dépôt GitHub →](https://romm.app)
+- [Dépôt GitHub →](https://github.com/rommapp/romm)
 - [Lire en turc →](https://trescout.com/discover/romm/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

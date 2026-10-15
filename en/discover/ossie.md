@@ -18,7 +18,9 @@ Apache Ossie is an industry initiative that aims to standardize the exchange of 
 
 ## Getting started
 
-- Official source →
+Apache Ossie is a standards specification rather than a software installation. You can obtain information about how the data tools you use can be made compatible with this standard by examining the technical documents and schema files under the core-spec folder on the project's GitHub page.
+
+- [Official source →](https://ossie.apache.org/)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ Apache Ossie is an industry initiative that aims to standardize the exchange of 
 
 ## Links
 
-- [GitHub repository →](https://ossie.apache.org/)
+- [GitHub repository →](https://github.com/apache/ossie)
 - [Read in Turkish →](https://trescout.com/discover/ossie/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-17: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

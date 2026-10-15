@@ -20,7 +20,9 @@ GitNexus ist eine Code-Analyse-Engine, die im Browser läuft und Code-Repository
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Führen Sie den Analysebefehl aus, indem Sie das Terminal im Hauptverzeichnis Ihres Projekts öffnen. Dieser Prozess indiziert Ihre Codebasis und erstellt automatisch die erforderliche Konfiguration für die von Ihnen verwendeten KI-Editoren.
+
+- [Offizielle Quelle →](https://gitnexus.vercel.app)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -33,7 +35,7 @@ GitNexus ist eine Code-Analyse-Engine, die im Browser läuft und Code-Repository
 
 ## Links
 
-- [GitHub-Repository →](https://gitnexus.vercel.app)
+- [GitHub-Repository →](https://github.com/abhigyanpatwari/GitNexus)
 - [Auf Türkisch lesen →](https://trescout.com/discover/gitnexus/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-28 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

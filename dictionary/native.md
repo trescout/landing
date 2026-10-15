@@ -43,7 +43,6 @@ Genellikle bir tarayıcı içinde veya bir çevirici katman aracılığıyla ça
 - [Meshery](https://trescout.com/discover/meshery/)
 - [Tinycast](https://trescout.com/discover/tinycast/)
 - [Stitch Skills](https://trescout.com/discover/stitch-skills/)
-- [Agent Native](https://trescout.com/discover/agent-native/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

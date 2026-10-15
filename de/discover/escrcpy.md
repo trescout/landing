@@ -19,14 +19,16 @@ Escrcpy ist ein Tool, mit dem Android-Geräte über eine grafische Benutzeroberf
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung des Tools zu beginnen, besuchen Sie einfach die offizielle Release-Seite auf GitHub und laden Sie das für Ihr Betriebssystem passende Paket herunter. Wenn Sie macOS verwenden, können Sie die Anweisungen auf der entsprechenden Dokumentationsseite befolgen, um die Installation über den Homebrew-Paketmanager durchzuführen.
+
+- [Offizielle Quelle →](https://viarotel.eu.org/)
 
 - **Für wen es gedacht ist:** Geeignet für jeden, der sein Android-Telefon oder -Tablet über eine grafische Benutzeroberfläche auf dem Computer verwalten möchte.
 - **Lizenz:** Apache-2.0
 
 ## Links
 
-- [GitHub-Repository →](https://viarotel.eu.org/)
+- [GitHub-Repository →](https://github.com/viarotel-org/escrcpy)
 - [Auf Türkisch lesen →](https://trescout.com/discover/escrcpy/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-09 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

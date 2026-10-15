@@ -19,7 +19,9 @@ PM Skills Marketplace oferece mais de 100 habilidades de agente, comandos e plug
 
 ## Como começar
 
-- Fonte oficial →
+Se você estiver usando Claude Cowork, vá ao menu 'Personalizar' na interface, selecione 'Adicionar mercado do GitHub' na seção 'Navegar por plug-ins' e conclua a instalação digitando 'phuryn/pm-skills'. Para outras ferramentas de IA, você pode começar copiando os arquivos de habilidades no repositório GitHub para os caminhos de pasta especificados na documentação da ferramenta relevante (por exemplo, .cursor/skills/).
+
+- [Fonte oficial →](https://www.productcompass.pm/p/pm-skills-2-red-team-ship)
 
 ## Termos relacionados do glossário
 
@@ -33,7 +35,7 @@ PM Skills Marketplace oferece mais de 100 habilidades de agente, comandos e plug
 
 ## Links
 
-- [Repositório no GitHub →](https://www.productcompass.pm/p/pm-skills-2-red-team-ship)
+- [Repositório no GitHub →](https://github.com/phuryn/pm-skills)
 - [Ler em turco →](https://trescout.com/discover/pm-skills/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

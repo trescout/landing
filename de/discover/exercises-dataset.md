@@ -25,7 +25,6 @@ Für dieses Tool ist keine Installation erforderlich. Nachdem Sie die Dateien au
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Exercises Dataset](https://trescout.com/de/dictionary/exercises-dataset/)
 - [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Softwareentwickler, die Anwendungen im Bereich Sporttechnologien entwickeln, und fitnessorientierte Forscher.

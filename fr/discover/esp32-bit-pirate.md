@@ -20,7 +20,9 @@ ESP32-Bit-Pirate est un outil de piratage matériel qui prend en charge plusieur
 
 ## Pour commencer
 
-- Source officielle →
+Installez le logiciel adapté à votre appareil via votre navigateur à l'aide de l'outil Web Flasher sur le site officiel. Ensuite, accédez à l'interface de ligne de commande en vous connectant à votre appareil avec une application de terminal série ou un terminal série Web basé sur un navigateur.
+
+- [Source officielle →](https://geo-tp.github.io/ESP32-Bit-Pirate/)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ ESP32-Bit-Pirate est un outil de piratage matériel qui prend en charge plusieur
 
 ## Liens
 
-- [Dépôt GitHub →](https://geo-tp.github.io/ESP32-Bit-Pirate/)
+- [Dépôt GitHub →](https://github.com/geo-tp/ESP32-Bit-Pirate)
 - [Lire en turc →](https://trescout.com/discover/esp32-bit-pirate/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-01 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

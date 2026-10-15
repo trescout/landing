@@ -67,8 +67,8 @@ Ich möchte einen formellen Text zur Offenlegung einer Erfindung unter Verwendun
 - [Disclosure](https://trescout.com/de/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/de/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/de/dictionary/multimodal/)
-- [Markdown](https://trescout.com/de/dictionary/markdown/)
 - [Skill](https://trescout.com/de/dictionary/skill/)
+- [Markdown](https://trescout.com/de/dictionary/markdown/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 
 - **Für wen es gedacht ist:** Patentanwälte, Manager für geistiges Eigentum, F&E-Ingenieure und Erfinder.

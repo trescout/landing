@@ -42,7 +42,6 @@ Sur la plupart des systèmes, vous pouvez supprimer ces données avec la command
 
 - [Mempalace](https://trescout.com/fr/discover/mempalace/)
 - [Hindsight](https://trescout.com/fr/discover/hindsight/)
-- [Codebase Memory MCP](https://trescout.com/fr/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/fr/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/fr/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/fr/discover/ai-memory/)

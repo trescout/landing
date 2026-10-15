@@ -18,7 +18,9 @@ Actions/Checkout wurde von GitHub entwickelt und ist ein Tool, das Repository-Ch
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Sie können dem Tool ermöglichen, Ihr Repository in den Arbeitsbereich herunterzuladen, indem Sie die Zeile „-uses: actions/checkout@v7“ zum Abschnitt „steps“ Ihrer GitHub Actions-Workflowdatei hinzufügen. Sie können das Kopierverhalten anpassen, indem Sie Parameter wie Abruftiefe oder Submodule unter dem with-Block entsprechend Ihren Anforderungen definieren.
+
+- [Offizielle Quelle →](https://github.com/features/actions)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -31,7 +33,7 @@ Actions/Checkout wurde von GitHub entwickelt und ist ein Tool, das Repository-Ch
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/features/actions)
+- [GitHub-Repository →](https://github.com/actions/checkout)
 - [Auf Türkisch lesen →](https://trescout.com/discover/checkout/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-03 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

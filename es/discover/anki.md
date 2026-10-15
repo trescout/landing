@@ -19,7 +19,9 @@ Anki es un software de tarjetas didácticas que facilita el aprendizaje mediante
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a usar la aplicación Anki, puede visitar el sitio web oficial en apps.ankiweb.net. Puede descargar e instalar la versión de escritorio desde allí y comenzar a crear sus propias tarjetas didácticas de inmediato.
+
+- [Fuente oficial →](https://apps.ankiweb.net)
 
 ## Términos relacionados del glosario
 
@@ -30,7 +32,7 @@ Anki es un software de tarjetas didácticas que facilita el aprendizaje mediante
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://apps.ankiweb.net)
+- [Repositorio en GitHub →](https://github.com/ankitects/anki)
 - [Leer en turco →](https://trescout.com/discover/anki/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-19: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

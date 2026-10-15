@@ -13,7 +13,9 @@ Clone-Wars vereint mehr als 100 Open-Source-Klone beliebter Plattformen wie Airb
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Clone-Wars ist kein Softwaretool, sondern ein Leitfaden, der Open-Source-Klone beliebter Plattformen auflistet. Um auf die Details des Projekts zuzugreifen, das Sie untersuchen möchten, können Sie die offizielle Website gourav.io/clone-wars besuchen und über die Links in der Tabelle direkt auf die Quellcodes und Schulungsinhalte der relevanten Projekte zugreifen.
+
+- [Offizielle Quelle →](https://gourav.io/clone-wars)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -26,7 +28,7 @@ Clone-Wars vereint mehr als 100 Open-Source-Klone beliebter Plattformen wie Airb
 
 ## Links
 
-- [GitHub-Repository →](https://gourav.io/clone-wars)
+- [GitHub-Repository →](https://github.com/GorvGoyl/Clone-Wars)
 - [Auf Türkisch lesen →](https://trescout.com/discover/clone-wars/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-15 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -29,7 +29,9 @@ brew install harper
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a utilizar la herramienta Harper, puede visitar el sitio web oficial writewithharper.com. Puede completar la instalación revisando las guías de integración adecuadas para el editor de texto que utiliza, como Visual Studio Code, Neovim, Helix, Emacs o Zed, en la sección de documentación del sitio.
+
+- [Fuente oficial →](https://writewithharper.com)
 
 ## Términos relacionados del glosario
 
@@ -41,7 +43,7 @@ brew install harper
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://writewithharper.com)
+- [Repositorio en GitHub →](https://github.com/Automattic/harper)
 - [Leer en turco →](https://trescout.com/discover/harper/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-24: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

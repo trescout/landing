@@ -38,7 +38,6 @@ I use the Obsidian-skills tool to manage my Obsidian notes. Please use this skil
 ## Related dictionary terms
 
 - [Markdown](https://trescout.com/en/dictionary/markdown/)
-- [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

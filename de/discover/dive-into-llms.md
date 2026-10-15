@@ -21,7 +21,9 @@
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Besuchen Sie die offizielle GitHub-Seite des Projekts und wählen Sie aus der Tabelle unter der Überschrift „教程目录“ das Thema aus, das Sie interessiert. Sie können auf Jupyter Notebook-Dateien zugreifen, indem Sie in der entsprechenden Zeile auf den Link „Weiter“ klicken und mit der praktischen Schulung beginnen, indem Sie diese Dateien in Ihrer eigenen Umgebung ausführen.
+
+- [Offizielle Quelle →](https://github.com/Lordog/dive-into-llms/stargazers)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -33,7 +35,7 @@
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/Lordog/dive-into-llms/stargazers)
+- [GitHub-Repository →](https://github.com/Lordog/dive-into-llms)
 - [Auf Türkisch lesen →](https://trescout.com/discover/dive-into-llms/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-25 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

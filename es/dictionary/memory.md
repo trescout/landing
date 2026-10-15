@@ -42,7 +42,6 @@ En la mayoría de los sistemas, puede eliminar estos datos con el comando "borra
 
 - [Mempalace](https://trescout.com/es/discover/mempalace/)
 - [Hindsight](https://trescout.com/es/discover/hindsight/)
-- [Codebase Memory MCP](https://trescout.com/es/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/es/discover/cognee/)
 - [TencentDB-Agent-Memory](https://trescout.com/es/discover/tencentdb-agent-memory/)
 - [AI Memory](https://trescout.com/es/discover/ai-memory/)

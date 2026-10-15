@@ -19,7 +19,9 @@ Esta seleção, elaborada para Claude Code, assistente de codificação desenvol
 
 ## Como começar
 
-- Fonte oficial →
+Esta ferramenta é uma lista de recursos para desenvolvedores que usam o Claude Code. Para começar, você pode visitar a documentação oficial do Claude Code da Anthropic e personalizar seu projeto usando os guias, plugins e pacotes de habilidades desta lista.
+
+- [Fonte oficial →](https://awesome.re)
 
 ## Termos relacionados do glossário
 
@@ -30,7 +32,7 @@ Esta seleção, elaborada para Claude Code, assistente de codificação desenvol
 
 ## Links
 
-- [Repositório no GitHub →](https://awesome.re)
+- [Repositório no GitHub →](https://github.com/hesreallyhim/awesome-claude-code)
 - [Ler em turco →](https://trescout.com/discover/awesome-claude-code/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-06: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

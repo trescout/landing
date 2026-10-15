@@ -18,7 +18,9 @@ Website-downloader, developed by AhmadIbrahiim, allows downloading all source co
 
 ## Getting started
 
-- Official source →
+To start using the tool, download the codes from the GitHub page to your computer. Then go to the project folder via the terminal, install the necessary dependencies and start the application. After the application runs, you can start downloading by going to its local address via your browser.
+
+- [Official source →](https://website-downloader.onrender.com)
 
 ## Related dictionary terms
 
@@ -30,7 +32,7 @@ Website-downloader, developed by AhmadIbrahiim, allows downloading all source co
 
 ## Links
 
-- [GitHub repository →](https://website-downloader.onrender.com)
+- [GitHub repository →](https://github.com/AhmadIbrahiim/Website-downloader)
 - [Read in Turkish →](https://trescout.com/discover/website-downloader/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

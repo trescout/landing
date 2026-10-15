@@ -51,7 +51,6 @@ This project has code-review-graph installed. Please create the code review grap
 
 - [Code Intelligence Graph](https://trescout.com/en/dictionary/code-intelligence-graph/)
 - [Context Reduction](https://trescout.com/en/dictionary/context-reduction/)
-- [Code Review](https://trescout.com/en/dictionary/code-review/)
 - [Context](https://trescout.com/en/dictionary/context/)
 - [Token](https://trescout.com/en/dictionary/token/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)

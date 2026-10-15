@@ -67,8 +67,8 @@ Gostaria de preparar um documento formal de notificação de invenção para um 
 - [Disclosure](https://trescout.com/pt/dictionary/disclosure/)
 - [patent disclosure](https://trescout.com/pt/dictionary/patent-disclosure/)
 - [Multimodal](https://trescout.com/pt/dictionary/multimodal/)
-- [Markdown](https://trescout.com/pt/dictionary/markdown/)
 - [Skill](https://trescout.com/pt/dictionary/skill/)
+- [Markdown](https://trescout.com/pt/dictionary/markdown/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 
 - **Para quem é:** Agentes de patentes, gestores de propriedade intelectual, engenheiros de P&D e inventores.

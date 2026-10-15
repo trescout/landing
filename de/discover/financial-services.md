@@ -33,7 +33,6 @@ Installieren Sie das Claude Cowork-Plugin, um Finanzanalysen und Bewertungsmodel
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [Financial Services](https://trescout.com/de/dictionary/financial-services/)
 - [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

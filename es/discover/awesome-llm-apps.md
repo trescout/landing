@@ -29,7 +29,6 @@ Quiero desarrollar mis propios proyectos utilizando las plantillas de agentes de
 
 - [AI Agent](https://trescout.com/es/dictionary/ai-agent/)
 - [RAG](https://trescout.com/es/dictionary/rag/)
-- [LLM](https://trescout.com/es/dictionary/llm/)
 - [Agent](https://trescout.com/es/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

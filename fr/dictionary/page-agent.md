@@ -38,10 +38,6 @@ Il fonctionne généralement sur des structures Web standards, mais peut rencont
 - [Autonomous Agent](https://trescout.com/fr/dictionary/autonomous-agent/)
 - [Web Scraping](https://trescout.com/fr/dictionary/web-scraping/)
 
-## Outils liés
-
-- [Page Agent](https://trescout.com/fr/discover/page-agent/)
-
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/page-agent/)
 
 ---

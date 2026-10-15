@@ -19,7 +19,9 @@ Préparé par l'Université de l'Illinois, le manuel de cours est un manuel open
 
 ## Pour commencer
 
-- Source officielle →
+Vous n'avez pas besoin d'exécuter de code pour lire cette ressource. Vous pouvez télécharger directement la version PDF ou EPUB actuelle du livre en utilisant les liens sur la page d'accueil du projet, ou vous pouvez consulter la version HTML depuis votre navigateur Web.
+
+- [Source officielle →](http://cs241.cs.illinois.edu/coursebook)
 
 ## Termes liés du glossaire
 
@@ -31,7 +33,7 @@ Préparé par l'Université de l'Illinois, le manuel de cours est un manuel open
 
 ## Liens
 
-- [Dépôt GitHub →](http://cs241.cs.illinois.edu/coursebook)
+- [Dépôt GitHub →](https://github.com/cs341-illinois/coursebook)
 - [Lire en turc →](https://trescout.com/discover/coursebook/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-28 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

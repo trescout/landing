@@ -37,7 +37,9 @@ protoc --cpp_out=. dosya.proto
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar o Protobuf, você pode visitar o site de documentação oficial ou baixar binários pré-compilados adequados para o seu sistema operacional na página de versões do GitHub. Para instalar bibliotecas de tempo de execução específicas para a linguagem de programação usada, você deve seguir as instruções nos diretórios de origem relevantes.
+
+- [Fonte oficial →](http://protobuf.dev)
 
 ## Termos relacionados do glossário
 
@@ -48,7 +50,7 @@ protoc --cpp_out=. dosya.proto
 
 ## Links
 
-- [Repositório no GitHub →](http://protobuf.dev)
+- [Repositório no GitHub →](https://github.com/protocolbuffers/protobuf)
 - [Ler em turco →](https://trescout.com/discover/protobuf/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-18: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

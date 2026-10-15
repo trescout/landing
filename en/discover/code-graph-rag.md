@@ -2,16 +2,16 @@
 
 Code-graph-rag combines knowledge graphs and fetch-assisted generation (RAG) to understand and query complex structures in large code repositories. It allows developers to analyze and edit code bases in different languages ​​with the help of artificial intelligence.
 
-- ★ 5,189
+- ★ 5,259
 - Python
 - GitHub Trending · 2026-08-10
 
 ## Updates
 
+- **October 15, 2026:** Stars 5,189 → 5,259, latest release v0.2.0 (October 15, 2026).
 - **September 29, 2026:** Stars 5,180 → 5,189, latest release v0.1.38 (September 29, 2026).
 - **September 27, 2026:** Stars 5,146 → 5,180, latest release v0.0.996 (September 26, 2026).
 - **September 17, 2026:** Stars 5,113 → 5,146, latest release v0.0.945 (September 16, 2026).
-- **September 10, 2026:** Stars 4,924 → 5,113, latest release v0.0.895 (September 9, 2026).
 
 ## What you get
 
@@ -56,7 +56,6 @@ Analyze my code repository using the Code-Graph-RAG tool. Answer my questions us
 ## Related dictionary terms
 
 - [Monorepo](https://trescout.com/en/dictionary/monorepo/)
-- [Graph RAG](https://trescout.com/en/dictionary/graph-rag/)
 - [RAG](https://trescout.com/en/dictionary/rag/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

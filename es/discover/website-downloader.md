@@ -18,7 +18,9 @@ El descargador de sitios web, desarrollado por AhmadIbrahiim, permite descargar 
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a utilizar la herramienta, descargue los códigos de la página de GitHub a su computadora. Luego vaya a la carpeta del proyecto a través de la terminal, instale las dependencias necesarias e inicie la aplicación. Después de que se ejecute la aplicación, puede comenzar a descargarla accediendo a su dirección local a través de su navegador.
+
+- [Fuente oficial →](https://website-downloader.onrender.com)
 
 ## Términos relacionados del glosario
 
@@ -30,7 +32,7 @@ El descargador de sitios web, desarrollado por AhmadIbrahiim, permite descargar 
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://website-downloader.onrender.com)
+- [Repositorio en GitHub →](https://github.com/AhmadIbrahiim/Website-downloader)
 - [Leer en turco →](https://trescout.com/discover/website-downloader/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-08: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

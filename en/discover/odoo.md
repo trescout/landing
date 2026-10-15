@@ -39,7 +39,9 @@ http://localhost:8069
 
 ## Getting started
 
-- Official source →
+To start installing Odoo, you need to follow the installation instructions on the official Odoo documentation page. To learn the software, you can check out the Odoo eLearning platform or the Scale-up business game.
+
+- [Official source →](https://www.odoo.com)
 
 ## Related dictionary terms
 
@@ -49,7 +51,7 @@ http://localhost:8069
 
 ## Links
 
-- [GitHub repository →](https://www.odoo.com)
+- [GitHub repository →](https://github.com/odoo/odoo)
 - [Read in Turkish →](https://trescout.com/discover/odoo/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

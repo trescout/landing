@@ -55,7 +55,6 @@ Je souhaite optimiser mon environnement de travail Claude Code. Comment puis-je 
 
 ## Termes liés du glossaire
 
-- [Claude Code Templates](https://trescout.com/fr/dictionary/claude-code-templates/)
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
 - [CLI](https://trescout.com/fr/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)

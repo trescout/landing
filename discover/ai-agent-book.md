@@ -44,7 +44,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [AI Agent](https://trescout.com/dictionary/ai-agent/)
 - [RAG](https://trescout.com/dictionary/rag/)
 - [PDF](https://trescout.com/dictionary/pdf/)
 - [LLM](https://trescout.com/dictionary/llm/)

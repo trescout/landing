@@ -2,17 +2,17 @@
 
 Introduction to artificial intelligence engineering from scratch: 485 lessons, 20 phases and approximately 320 hours of content. He teaches every algorithm, from linear algebra to autonomous agents, first with mathematics and then by writing code by hand. This course, which covers Python, TypeScript, Rust and Julia languages, is completely free and open source.
 
-- ★ 66,339
+- ★ 69,356
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Updates
 
+- **October 15, 2026:** Stars 66,339 → 69,356, latest release v2026.10.3 (October 15, 2026).
 - **October 10, 2026:** Stars 65,449 → 66,339, latest release v2026.10.2 (October 10, 2026).
 - **October 7, 2026:** Stars 65,029 → 65,449, latest release v2026.10.1 (October 6, 2026).
 - **October 6, 2026:** Stars 61,896 → 65,029, latest release v2026.10 (September 27, 2026).
-- **September 30, 2026:** Stars 58,825 → 61,896, latest release v2026.10 (September 27, 2026).
 
 ## What do you learn?
 
@@ -33,12 +33,12 @@ I'll give you the content of a 20-phase, 500+ lesson open source curriculum call
 
 ## Related dictionary terms
 
-- [AI Engineering](https://trescout.com/en/dictionary/ai-engineering/)
 - [Tokenizer](https://trescout.com/en/dictionary/tokenizer/)
 - [Attention](https://trescout.com/en/dictionary/attention/)
 - [Prompt](https://trescout.com/en/dictionary/prompt/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
 - [Rust](https://trescout.com/en/dictionary/rust/)
+- [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** Those who want to learn AI fundamentally rather than superficially
 - **Difficulty:** It progresses from the beginning forward, phase by phase

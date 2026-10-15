@@ -21,7 +21,9 @@ Mise é uma ferramenta que permite gerenciar ferramentas de desenvolvimento de s
 
 ## Como começar
 
-- Fonte oficial →
+Para instalar, você pode visitar a seção ‘Introdução’ na página de documentação oficial e seguir as etapas apropriadas para o seu sistema operacional. Após a instalação, é necessário configurar os comandos ‘activate’ necessários para que a ferramenta funcione integrada ao seu shell, de acordo com o seu tipo de terminal, através da mesma documentação.
+
+- [Fonte oficial →](https://mise.jdx.dev)
 
 ## Termos relacionados do glossário
 
@@ -35,7 +37,7 @@ Mise é uma ferramenta que permite gerenciar ferramentas de desenvolvimento de s
 
 ## Links
 
-- [Repositório no GitHub →](https://mise.jdx.dev)
+- [Repositório no GitHub →](https://github.com/jdx/mise)
 - [Ler em turco →](https://trescout.com/discover/mise/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-08: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

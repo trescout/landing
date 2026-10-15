@@ -35,7 +35,9 @@ sudo snap install insomnia
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar o Insomnia, você pode acessar o site oficial https://insomnia.rest e baixar e executar o arquivo de instalação adequado ao seu sistema operacional. Você pode começar a usar o aplicativo com seu recurso nativo Scratch Pad sem criar uma conta ou criar uma conta gratuita para obter mais recursos.
+
+- [Fonte oficial →](https://insomnia.rest)
 
 ## Termos relacionados do glossário
 
@@ -46,7 +48,7 @@ sudo snap install insomnia
 
 ## Links
 
-- [Repositório no GitHub →](https://insomnia.rest)
+- [Repositório no GitHub →](https://github.com/Kong/insomnia)
 - [Ler em turco →](https://trescout.com/discover/insomnia/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-19: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

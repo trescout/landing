@@ -26,7 +26,9 @@ npm install baileys
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a utilizar esta biblioteca, primero puede revisar la guía actual en https://baileys.wiki. También puedes acceder a información básica accediendo a la documentación antigua del proyecto desde el archivo README en GitHub o desde la página de inicio de NPM.
+
+- [Fuente oficial →](https://baileys.wiki/)
 
 ## Términos relacionados del glosario
 
@@ -37,7 +39,7 @@ npm install baileys
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://baileys.wiki/)
+- [Repositorio en GitHub →](https://github.com/WhiskeySockets/Baileys)
 - [Leer en turco →](https://trescout.com/discover/baileys/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-31: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

@@ -35,7 +35,9 @@ wt
 
 ## Cómo empezar
 
-- Fuente oficial →
+Puede descargar fácilmente la aplicación Windows Terminal desde Microsoft Store. Alternativamente, puede descargar manualmente la versión actual desde la página de Lanzamientos en GitHub o instalarla en su computadora usando administradores de paquetes como Winget, Chocolatey o Scoop.
+
+- [Fuente oficial →](https://aka.ms/terminal)
 
 ## Términos relacionados del glosario
 
@@ -47,7 +49,7 @@ wt
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://aka.ms/terminal)
+- [Repositorio en GitHub →](https://github.com/microsoft/terminal)
 - [Leer en turco →](https://trescout.com/discover/terminal/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-20: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

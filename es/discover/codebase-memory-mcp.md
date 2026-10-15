@@ -36,9 +36,7 @@ Indexe este proyecto para ayudarle a analizar mi código base y responder consul
 ## Términos relacionados del glosario
 
 - [Knowledge Graph](https://trescout.com/es/dictionary/knowledge-graph/)
-- [Memory](https://trescout.com/es/dictionary/memory/)
 - [Token](https://trescout.com/es/dictionary/token/)
-- [MCP](https://trescout.com/es/dictionary/mcp/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Para desarrolladores que desean analizar bases de código más rápido y optimizar el consumo de tokens de los agentes de IA.

@@ -38,7 +38,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
 - [RAG](https://trescout.com/dictionary/rag/)
-- [LLM](https://trescout.com/dictionary/llm/)
 - [Agent](https://trescout.com/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

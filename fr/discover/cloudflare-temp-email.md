@@ -23,8 +23,10 @@ Cloudflare Temp Email est une plate-forme open source qui vous permet de configu
 
 ## Comment démarrer et options de configuration
 
-- Guide d'installation officiel →
-- Interface de démonstration en direct →
+Pour mettre en service le projet, il suffit d'avoir un compte Cloudflare et un nom de domaine géré sur Cloudflare DNS. Vous pouvez soit connecter le référentiel GitHub via Cloudflare Pages en un seul clic et le distribuer avec une interface graphique, soit publier la base de données D1 et les fonctions Worker depuis votre environnement local via Wrangler CLI.
+
+- [Resmî kurulum rehberi →](https://temp-mail-docs.awsl.uk)
+- [Canlı demo arayüzü →](https://mail.awsl.uk)
 
 ## Architecture technique et principe de fonctionnement
 
@@ -80,7 +82,7 @@ Je souhaite configurer le projet de messagerie temporaire open source dreamhunte
 
 ## Liens
 
-- [Dépôt GitHub →](https://temp-mail-docs.awsl.uk)
+- [Dépôt GitHub →](https://github.com/dreamhunter2333/cloudflare_temp_email)
 - [Lire en turc →](https://trescout.com/discover/cloudflare-temp-email/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

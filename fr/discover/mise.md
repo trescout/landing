@@ -21,7 +21,9 @@ Mise est un outil qui vous permet de gérer les outils de développement logicie
 
 ## Pour commencer
 
-- Source officielle →
+Pour l'installer, vous pouvez visiter la section « Démarrage » sur la page de documentation officielle et suivre les étapes appropriées à votre système d'exploitation. Après l'installation, vous devez configurer les commandes 'activate' nécessaires au fonctionnement intégré de l'outil à votre shell, en fonction de votre type de terminal, via la même documentation.
+
+- [Source officielle →](https://mise.jdx.dev)
 
 ## Termes liés du glossaire
 
@@ -35,7 +37,7 @@ Mise est un outil qui vous permet de gérer les outils de développement logicie
 
 ## Liens
 
-- [Dépôt GitHub →](https://mise.jdx.dev)
+- [Dépôt GitHub →](https://github.com/jdx/mise)
 - [Lire en turc →](https://trescout.com/discover/mise/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

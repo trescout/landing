@@ -43,7 +43,9 @@ ansible-playbook site.yml
 
 ## Como começar
 
-- Fonte oficial →
+Para instalar o Ansible, você precisa visitar o guia de instalação no site oficial. Você pode encontrar etapas detalhadas para diferentes sistemas operacionais no guia de instalação na página de documentação oficial do Ansible.
+
+- [Fonte oficial →](https://www.ansible.com/)
 
 ## Termos relacionados do glossário
 
@@ -54,7 +56,7 @@ ansible-playbook site.yml
 
 ## Links
 
-- [Repositório no GitHub →](https://www.ansible.com/)
+- [Repositório no GitHub →](https://github.com/ansible/ansible)
 - [Ler em turco →](https://trescout.com/discover/ansible/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-04: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

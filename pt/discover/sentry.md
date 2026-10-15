@@ -18,7 +18,9 @@ O Sentry é uma ferramenta de rastreamento de erros que monitora erros de softwa
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar a plataforma de rastreamento de erros Sentry, você pode visitar o site oficial e criar uma nova conta. Para realizar a integração com o seu projeto, você pode seguir as etapas descritas na página de documentação oficial.
+
+- [Fonte oficial →](https://sentry.io)
 
 ## Termos relacionados do glossário
 
@@ -29,7 +31,7 @@ O Sentry é uma ferramenta de rastreamento de erros que monitora erros de softwa
 
 ## Links
 
-- [Repositório no GitHub →](https://sentry.io)
+- [Repositório no GitHub →](https://github.com/getsentry/sentry)
 - [Ler em turco →](https://trescout.com/discover/sentry/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-10-03: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

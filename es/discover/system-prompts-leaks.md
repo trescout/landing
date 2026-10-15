@@ -20,7 +20,9 @@ El repositorio system_prompts_leaks compartido en GitHub reúne indicaciones del
 
 ## Cómo empezar
 
-- Fuente oficial →
+Esta herramienta no requiere instalación de software. Al ir al repositorio de fugas de mensajes del sistema en GitHub, puede hacer clic en la carpeta del modelo o empresa de inteligencia artificial que desea examinar y leer los archivos de mensajes del sistema relevantes directamente desde su navegador.
+
+- [Fuente oficial →](https://asgeirtj.github.io/system_prompts_leaks/)
 
 ## Términos relacionados del glosario
 
@@ -32,7 +34,7 @@ El repositorio system_prompts_leaks compartido en GitHub reúne indicaciones del
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://asgeirtj.github.io/system_prompts_leaks/)
+- [Repositorio en GitHub →](https://github.com/asgeirtj/system_prompts_leaks)
 - [Leer en turco →](https://trescout.com/discover/system-prompts-leaks/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-22: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

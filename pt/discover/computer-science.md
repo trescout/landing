@@ -16,7 +16,9 @@ Oferecendo um currículo gratuito e de autoaprendizagem na área de ciência da 
 
 ## Como começar
 
-- Fonte oficial →
+Para começar com este currículo, basta visitar o site oficial do OSSU CS ou o repositório GitHub. Você pode revisar os cursos no site, criar seu plano de estudos e interagir com outros alunos ingressando na comunidade Discord.
+
+- [Fonte oficial →](https://cs.ossu.dev)
 
 ## Termos relacionados do glossário
 
@@ -27,7 +29,7 @@ Oferecendo um currículo gratuito e de autoaprendizagem na área de ciência da 
 
 ## Links
 
-- [Repositório no GitHub →](https://cs.ossu.dev)
+- [Repositório no GitHub →](https://github.com/ossu/computer-science)
 - [Ler em turco →](https://trescout.com/discover/computer-science/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-17: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

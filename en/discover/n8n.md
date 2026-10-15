@@ -2,15 +2,15 @@
 
 n8n combines a visual canvas, custom code, AI agents and workflows in a fair-code automation platform. It supports self-hosted or cloud deployment and can include different model providers in your workflows.
 
-- ★ 207,332
+- ★ 207,437
 - GitHub Trending · 2026-08-23
 
 ## Updates
 
+- **October 15, 2026:** Stars 207,332 → 207,437, latest release n8n@2.43.6 (October 15, 2026).
 - **October 14, 2026:** Stars 207,216 → 207,332, latest release n8n@2.43.5 (October 14, 2026).
 - **October 13, 2026:** Stars 207,074 → 207,216, latest release n8n@2.43.4 (October 12, 2026).
 - **October 12, 2026:** Stars 206,789 → 207,074, latest release n8n@2.42.7 (October 12, 2026).
-- **October 9, 2026:** Stars 206,884 → 206,789, latest release n8n@2.42.6 (October 9, 2026).
 
 ## Installation
 
@@ -69,6 +69,7 @@ Help me design a workflow on the visual canvas that accepts an input, processes 
 - [Self-hosting](https://trescout.com/en/dictionary/self-hosting/)
 - [Container](https://trescout.com/en/dictionary/container/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 ## Links
 

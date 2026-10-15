@@ -29,7 +29,6 @@ Ich möchte meine eigenen Projekte mit den Vorlagen für künstliche Intelligenz
 
 - [AI Agent](https://trescout.com/de/dictionary/ai-agent/)
 - [RAG](https://trescout.com/de/dictionary/rag/)
-- [LLM](https://trescout.com/de/dictionary/llm/)
 - [Agent](https://trescout.com/de/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

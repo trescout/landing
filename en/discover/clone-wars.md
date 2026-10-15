@@ -13,7 +13,9 @@ Clone-Wars brings together more than 100 open source clones of popular platforms
 
 ## Getting started
 
-- Official source →
+Clone-Wars is not a software tool, but a guide listing open source clones of popular platforms. To access the details of the project you want to examine, you can visit the official website gourav.io/clone-wars and directly access the source codes and training content of the relevant projects through the links in the table.
+
+- [Official source →](https://gourav.io/clone-wars)
 
 ## Related dictionary terms
 
@@ -26,7 +28,7 @@ Clone-Wars brings together more than 100 open source clones of popular platforms
 
 ## Links
 
-- [GitHub repository →](https://gourav.io/clone-wars)
+- [GitHub repository →](https://github.com/GorvGoyl/Clone-Wars)
 - [Read in Turkish →](https://trescout.com/discover/clone-wars/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

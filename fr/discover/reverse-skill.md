@@ -37,7 +37,6 @@ Utilisez ce projet comme guide dans une tâche de test d’intrusion ou d’ing�
 
 - [Routing Pack](https://trescout.com/fr/dictionary/routing-pack/)
 - [Toolchain Bootstrapping](https://trescout.com/fr/dictionary/toolchain-bootstrapping/)
-- [Skill](https://trescout.com/fr/dictionary/skill/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux chercheurs en sécurité qui souhaitent utiliser plus efficacement les agents d'intelligence artificielle dans les processus de tests d'intrusion et d'ingénierie inverse.

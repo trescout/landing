@@ -1,0 +1,62 @@
+# Audit AI agents
+
+iFixAi is an independent auditing tool that verifies whether AI agents perform their assigned tasks correctly. Developed in Python, this system can be run by humans or the agent itself to analyze process accuracy in under two minutes.
+
+- ★ 28,006
+- Python
+- GitHub Trending · 2026-10-15
+
+## Updates
+
+- **October 15, 2026:** Stars 27,993 → 28,006, latest release v4.2.0 (October 15, 2026).
+
+## What you get
+
+- Tests whether your AI agents perform their tasks correctly.
+- Provides a detailed analysis report in less than two minutes.
+- Preemptively catches system vulnerabilities and overlooked errors.
+
+## Installation
+
+**Install the package**
+
+```
+pip install "ifixai[openai]"   # or anthropic, gemini, etc.: install the provider extra you'll test
+```
+
+**Open the setup wizard**
+
+```
+ifixai setup                    # arrow-key wizard: pick provider, model, judge, suite → writes ifixai.yaml
+```
+
+## Running it
+
+**Run the tool**
+
+```
+ifixai run                      # no flags needed; reports land in ./ifixai-results/
+```
+
+## If you don't write code
+
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
+
+I want to check whether my AI agent is working correctly and achieving its goals. For this purpose, perform the necessary tests using the tool named iFixAi and report the results.
+
+## Related dictionary terms
+
+- [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
+
+- **Who it is for:** It is for software developers who build AI agents and want to audit the accuracy of the processes.
+- **License:** Apache-2.0
+
+## Links
+
+- [GitHub repository →](https://github.com/ifixai-ai/iFixAi)
+- [Read in Turkish →](https://trescout.com/discover/ifixai/)
+
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+
+---
+Source: TreScout Discover · https://trescout.com/en/discover/ifixai/

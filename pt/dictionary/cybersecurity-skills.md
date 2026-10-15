@@ -38,10 +38,6 @@ Como os modelos de IA processam dados, as competências em segurança cibernéti
 - [Vulnerability Scanning](https://trescout.com/pt/dictionary/vulnerability-scanning/)
 - [Engineering Skills](https://trescout.com/pt/dictionary/engineering-skills/)
 
-## Ferramentas relacionadas
-
-- [Anthropic Cybersecurity Skills](https://trescout.com/pt/discover/anthropic-cybersecurity-skills/)
-
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cybersecurity-skills/)
 
 ---

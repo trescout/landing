@@ -36,9 +36,7 @@ Index this project to help you analyze my codebase and answer structured queries
 ## Related dictionary terms
 
 - [Knowledge Graph](https://trescout.com/en/dictionary/knowledge-graph/)
-- [Memory](https://trescout.com/en/dictionary/memory/)
 - [Token](https://trescout.com/en/dictionary/token/)
-- [MCP](https://trescout.com/en/dictionary/mcp/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** For developers who want to analyze code bases faster and optimize token consumption of AI agents.

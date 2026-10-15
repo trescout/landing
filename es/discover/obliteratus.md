@@ -2,12 +2,13 @@
 
 OBLITERTUS aborda el análisis de aspectos de barreras de seguridad, detección de rastros de alineación, evaluación de la solidez de la defensa y técnicas para eliminar señales de rechazo y barreras de seguridad de modelos de lenguaje.
 
-- ★ 7.994
+- ★ 8.803
 - Python
 - GitHub Trending · 2026-08-22
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 7,994 → 8,803, última versión v0.1.4 (15 de octubre de 2026).
 - **24 de agosto de 2026:** Estrellas 7,838 → 7,994, última versión v0.1.3 (23 de agosto de 2026).
 
 ## Qué aporta

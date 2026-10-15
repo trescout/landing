@@ -21,7 +21,9 @@ Free-stockdb est un moteur d'analyse quantitative natif qui gère les données q
 
 ## Pour commencer
 
-- Source officielle →
+Si vous êtes un utilisateur Windows, téléchargez la version actuelle à partir de la section Releases de la page GitHub. Après avoir ouvert le fichier que vous avez téléchargé, exécutez l'outil de mise à jour des données et attendez que les données soient synchronisées avec votre dossier local, puis lancez l'application stockdb.
+
+- [Source officielle →](https://github.com/hello245m/free-stockdb/releases/download/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC0.2.1/free-stockdb-windows-v0.2.1-more-power.zip)
 
 ## Termes liés du glossaire
 
@@ -34,7 +36,7 @@ Free-stockdb est un moteur d'analyse quantitative natif qui gère les données q
 
 ## Liens
 
-- [Dépôt GitHub →](https://github.com/hello245m/free-stockdb/releases/download/%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%AC0.2.1/free-stockdb-windows-v0.2.1-more-power.zip)
+- [Dépôt GitHub →](https://github.com/hello245m/free-stockdb)
 - [Lire en turc →](https://trescout.com/discover/free-stockdb/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-29 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

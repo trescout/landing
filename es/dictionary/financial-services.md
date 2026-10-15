@@ -38,10 +38,6 @@ Incluye bancos, casas de bolsa, compañías de seguros e instituciones de pago.
 - [SaaS](https://trescout.com/es/dictionary/saas/)
 - [Database](https://trescout.com/es/dictionary/database/)
 
-## Herramientas relacionadas
-
-- [Financial Services](https://trescout.com/es/discover/financial-services/)
-
 Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/financial-services/)
 
 ---

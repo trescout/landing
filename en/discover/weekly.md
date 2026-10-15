@@ -13,13 +13,15 @@ Prepared for technology enthusiasts, the weekly newsletter compiles current digi
 
 ## Getting started
 
-- Official source →
+To read or contribute to technology content, go to the official project's web page on GitHub, review current articles by clicking on the links in the published issues, and act on the page to contribute whenever you wish.
+
+- [Official source →](https://github.com/ruanyf/weekly/issues)
 
 - **Who it is for:** It is for everyone who wants to follow current technologies, innovations in the software world and career opportunities on a weekly basis.
 
 ## Links
 
-- [GitHub repository →](https://github.com/ruanyf/weekly/issues)
+- [GitHub repository →](https://github.com/ruanyf/weekly)
 - [Read in Turkish →](https://trescout.com/discover/weekly/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -2,16 +2,16 @@
 
 Immich is a high-performance self-hosted media management solution developed to manage photo and video files. Written in TypeScript, this platform allows users to create a central media archive on their own infrastructure.
 
-- ★ 115,826
+- ★ 116,286
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Updates
 
+- **October 15, 2026:** Stars 115,826 → 116,286, latest release v3.3.3 (October 14, 2026).
 - **October 9, 2026:** Stars 115,783 → 115,826, latest release v3.3.1 (October 8, 2026).
 - **October 8, 2026:** Stars 115,268 → 115,783, latest release v3.3.0 (October 7, 2026).
 - **September 29, 2026:** Stars 114,389 → 115,268, latest release v3.2.4 (September 28, 2026).
-- **September 16, 2026:** Stars 114,210 → 114,389, latest release v3.2.2 (September 15, 2026).
 
 ## What you get
 
@@ -39,7 +39,9 @@ docker compose up -d
 
 ## Getting started
 
-- Official source →
+Visit the official documentation page for installation and usage details. You can start your media management on your own server by following the installation guides at https://immich.app/.
+
+- [Official source →](https://immich.app)
 
 ## Related dictionary terms
 
@@ -50,7 +52,7 @@ docker compose up -d
 
 ## Links
 
-- [GitHub repository →](https://immich.app)
+- [GitHub repository →](https://github.com/immich-app/immich)
 - [Read in Turkish →](https://trescout.com/discover/immich/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-05: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -38,10 +38,6 @@ Inclui bancos, corretoras, seguradoras e instituições de pagamento.
 - [SaaS](https://trescout.com/pt/dictionary/saas/)
 - [Database](https://trescout.com/pt/dictionary/database/)
 
-## Ferramentas relacionadas
-
-- [Financial Services](https://trescout.com/pt/discover/financial-services/)
-
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/financial-services/)
 
 ---

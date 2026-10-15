@@ -21,7 +21,9 @@ AnyPS5 est un outil qui convertit automatiquement les fichiers de jeux PlayStati
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser le projet, vous pouvez consulter le guide d'utilisation USAGE.md et les instructions de compilation BUILD.md disponibles sur le dépôt GitHub. Vous pouvez jeter un œil au tableau de compatibilité COMPATIBILITY.md pour connaître l'état des jeux testés.
+
+- [Source officielle →](https://boykopovar.github.io/AnyPS5)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ AnyPS5 est un outil qui convertit automatiquement les fichiers de jeux PlayStati
 
 ## Liens
 
-- [Dépôt GitHub →](https://boykopovar.github.io/AnyPS5)
+- [Dépôt GitHub →](https://github.com/boykopovar/AnyPS5)
 - [Lire en turc →](https://trescout.com/discover/anyps5/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-10-05 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

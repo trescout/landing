@@ -21,7 +21,9 @@ Palmier Pro wurde als Videoeditor entwickelt, der auf dem Betriebssystem macOS l
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Laden Sie die Palmier Pro-App über den Download-Link auf der offiziellen GitHub-Seite herunter und installieren Sie sie auf Ihrem macOS-Gerät. Nachdem Sie die Anwendung ausgeführt haben, können Sie sich über das Hilfemenü in der Anwendung anmelden, um Tools für künstliche Intelligenz zu verwenden oder MCP-Integrationen zu konfigurieren.
+
+- [Offizielle Quelle →](https://palmier.io)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -36,7 +38,7 @@ Palmier Pro wurde als Videoeditor entwickelt, der auf dem Betriebssystem macOS l
 
 ## Links
 
-- [GitHub-Repository →](https://palmier.io)
+- [GitHub-Repository →](https://github.com/palmier-io/palmier-pro)
 - [Auf Türkisch lesen →](https://trescout.com/discover/palmier-pro/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

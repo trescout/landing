@@ -23,8 +23,10 @@ Cloudflare Temp Email es una plataforma de código abierto que le permite config
 
 ## Cómo empezar y opciones de instalación
 
-- Guía de instalación oficial →
-- Interfaz de demostración en vivo →
+Para implementar el proyecto, basta con tener una cuenta de Cloudflare y un nombre de dominio gestionado en Cloudflare DNS. Puede desplegarlo a través de la interfaz gráfica conectando su repositorio de GitHub con un solo clic en Cloudflare Pages, o puede publicar la base de datos D1 y las funciones Worker desde su entorno local utilizando la herramienta Wrangler CLI.
+
+- [Resmî kurulum rehberi →](https://temp-mail-docs.awsl.uk)
+- [Canlı demo arayüzü →](https://mail.awsl.uk)
 
 ## Arquitectura técnica y principio de funcionamiento
 
@@ -80,7 +82,7 @@ Quiero configurar el proyecto de correo electrónico temporal de código abierto
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://temp-mail-docs.awsl.uk)
+- [Repositorio en GitHub →](https://github.com/dreamhunter2333/cloudflare_temp_email)
 - [Leer en turco →](https://trescout.com/discover/cloudflare-temp-email/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-23: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

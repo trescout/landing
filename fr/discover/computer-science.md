@@ -16,7 +16,9 @@ Proposant un programme d'études gratuit et orienté vers l'auto-apprentissage d
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer ce programme, visitez simplement le site Web officiel d'OSSU CS ou le référentiel GitHub. Vous pouvez consulter les cours sur le site Web, créer votre plan d'études et interagir avec d'autres étudiants en rejoignant la communauté Discord.
+
+- [Source officielle →](https://cs.ossu.dev)
 
 ## Termes liés du glossaire
 
@@ -27,7 +29,7 @@ Proposant un programme d'études gratuit et orienté vers l'auto-apprentissage d
 
 ## Liens
 
-- [Dépôt GitHub →](https://cs.ossu.dev)
+- [Dépôt GitHub →](https://github.com/ossu/computer-science)
 - [Lire en turc →](https://trescout.com/discover/computer-science/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-17 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

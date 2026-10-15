@@ -18,7 +18,9 @@ Diese Open-Source-Datenbank, die von unabhängigen chinesischen Entwicklern durc
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Für dieses Tool ist keine Softwareinstallation erforderlich. Um die Projekte zu überprüfen, können Sie die Homepage auf GitHub besuchen und direkt durchsuchen, indem Sie auf die Websites der aufgelisteten Anwendungen oder deren jeweilige Repository-Links klicken.
+
+- [Offizielle Quelle →](https://github.com/xhdndmm)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -28,7 +30,7 @@ Diese Open-Source-Datenbank, die von unabhängigen chinesischen Entwicklern durc
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/xhdndmm)
+- [GitHub-Repository →](https://github.com/1c7/chinese-independent-developer)
 - [Auf Türkisch lesen →](https://trescout.com/discover/chinese-independent-developer/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-15 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

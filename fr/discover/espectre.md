@@ -21,14 +21,16 @@ ESPectre est un système qui effectue une détection de mouvement via une analys
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser ESPectre, vous devez suivre le document officiel SETUP.md du projet. Ce document explique en détail les étapes d'installation et les processus de configuration. Vous pouvez également utiliser le fichier TUNING.md pour définir les paramètres les plus appropriés pour votre environnement.
+
+- [Source officielle →](https://espectre.dev)
 
 - **Pour qui:** Il s'adresse aux utilisateurs intéressés par la domotique et qui recherchent des solutions de détection de mouvement à faible coût sans compromettre la confidentialité.
 - **Licence:** GPL-3.0
 
 ## Liens
 
-- [Dépôt GitHub →](https://espectre.dev)
+- [Dépôt GitHub →](https://github.com/francescopace/espectre)
 - [Lire en turc →](https://trescout.com/discover/espectre/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-10 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

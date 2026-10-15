@@ -39,10 +39,6 @@ Yes, they can usually exchange information through the host agent or directly vi
 - [Multi-agent LLM](https://trescout.com/en/dictionary/multi-agent-llm/)
 - [Autonomous AI Agent](https://trescout.com/en/dictionary/autonomous-ai-agent/)
 
-## Related tools
-
-- [Pi Subagents](https://trescout.com/en/discover/pi-subagents/)
-
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/subagents/)
 
 ---

@@ -2,12 +2,13 @@
 
 Desarrollado por OpenAI, el complemento Codex se utiliza en Claude Code para automatizar los procesos de revisión de código y proporcionar delegación de tareas. Esta herramienta permite la integración de diferentes modelos de inteligencia artificial (modelos de lenguaje grande) en los flujos de trabajo de desarrollo de software.
 
-- ★ 32.597
+- ★ 34.241
 - JavaScript
 - GitHub Trending · 2026-07-03
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 32,597 → 34,241, última versión v1.0.6 (8 de julio de 2026).
 - **31 de agosto de 2026:** Estrellas 30,950 → 32,597, última versión v1.0.6 (8 de julio de 2026).
 - **2 de agosto de 2026:** Estrellas 22,800 → 30,950, última versión v1.0.6 (8 de julio de 2026).
 
@@ -41,7 +42,6 @@ Iniciar una revisión de mi código existente utilizando el complemento Codex de
 
 ## Términos relacionados del glosario
 
-- [Plugin](https://trescout.com/es/dictionary/plugin/)
 - [Large Language Models](https://trescout.com/es/dictionary/large-language-models/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

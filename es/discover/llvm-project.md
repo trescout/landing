@@ -21,7 +21,9 @@ El Proyecto LLVM es una infraestructura que ofrece tecnologías de compilador y 
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para acceder al código fuente del proyecto y realizar la instalación, debe visitar la página Getting Started with LLVM en el sitio web oficial de LLVM. Siguiendo los pasos que aparecen en esta página, podrá obtener información detallada sobre los procesos de compilación y ejecución.
+
+- [Fuente oficial →](http://llvm.org)
 
 ## Términos relacionados del glosario
 
@@ -31,7 +33,7 @@ El Proyecto LLVM es una infraestructura que ofrece tecnologías de compilador y 
 
 ## Enlaces
 
-- [Repositorio en GitHub →](http://llvm.org)
+- [Repositorio en GitHub →](https://github.com/llvm/llvm-project)
 - [Leer en turco →](https://trescout.com/discover/llvm-project/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-07: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

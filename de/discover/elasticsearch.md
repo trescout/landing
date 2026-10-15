@@ -43,7 +43,9 @@ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elas
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Der einfachste Einstieg in Elasticsearch ist die Erstellung einer verwalteten Bereitstellung über Elastic Cloud. Wenn Sie Ihre eigene Installation verwalten möchten, können Sie alternativ die Download-Seite auf der offiziellen Website besuchen oder sich die Docker-basierten Starter-Skripte ansehen, die für lokale Entwicklungsumgebungen verfügbar sind.
+
+- [Offizielle Quelle →](https://www.elastic.co/products/elasticsearch)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -54,7 +56,7 @@ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elas
 
 ## Links
 
-- [GitHub-Repository →](https://www.elastic.co/products/elasticsearch)
+- [GitHub-Repository →](https://github.com/elastic/elasticsearch)
 - [Auf Türkisch lesen →](https://trescout.com/discover/elasticsearch/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

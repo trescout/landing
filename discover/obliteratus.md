@@ -2,12 +2,13 @@
 
 OBLITERATUS, güvenlik bariyeri yönlerinin analizini, hizalama izlerinin tespitini, savunma dayanıklılığının değerlendirilmesini ve dil modellerinden ret ile güvenlik bariyeri sinyallerini kaldırma tekniklerini ele alır.
 
-- ★ 7.994
+- ★ 8.803
 - Python
 - GitHub Trending · 2026-08-22
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 7.994 → 8.803, son sürüm v0.1.4 (15 Ekim 2026).
 - **24 Ağustos 2026:** Yıldız 7.838 → 7.994, son sürüm v0.1.3 (23 Ağustos 2026).
 
 ## Ne kazandırır?

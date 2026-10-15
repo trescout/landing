@@ -17,7 +17,9 @@ El repositorio system-design-101 de ByteByteGoHq explica arquitecturas de sistem
 
 ## Cómo empezar
 
-- Fuente oficial →
+Esta herramienta no es una biblioteca de software sino un recurso educativo integral. Para comenzar, puedes navegar por la lista de contenidos en el repositorio de GitHub y acceder a las guías explicativas en el sitio web oficial de ByteByteGo haciendo clic en el título que te interese.
+
+- [Fuente oficial →](https://bytebytego.com/guides)
 
 ## Términos relacionados del glosario
 
@@ -27,7 +29,7 @@ El repositorio system-design-101 de ByteByteGoHq explica arquitecturas de sistem
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://bytebytego.com/guides)
+- [Repositorio en GitHub →](https://github.com/ByteByteGoHq/system-design-101)
 - [Leer en turco →](https://trescout.com/discover/system-design-101/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-29: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

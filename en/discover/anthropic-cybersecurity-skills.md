@@ -41,7 +41,6 @@ Add this community cybersecurity skills library to Claude Code by running 'npx s
 
 ## Related dictionary terms
 
-- [Cybersecurity Skills](https://trescout.com/en/dictionary/cybersecurity-skills/)
 - [AI Skills](https://trescout.com/en/dictionary/ai-skills/)
 - [CLI](https://trescout.com/en/dictionary/cli/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)

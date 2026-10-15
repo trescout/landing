@@ -39,7 +39,6 @@ Installieren Sie die virtuelle Zeichenanwendung für künstliche Intelligenz nam
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [AI Companion](https://trescout.com/de/dictionary/ai-companion/)
 - [Companion](https://trescout.com/de/dictionary/companion/)
 - [Self-hosting](https://trescout.com/de/dictionary/self-hosting/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)

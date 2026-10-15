@@ -19,7 +19,9 @@ Das Fanqiang-Projekt ist ein in Kotlin geschriebenes Gateway-Tool, das entwickel
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Das Fanqiang-Projekt ist keine direkte Softwareinstallation, sondern eine umfassende Bibliothek mit Anleitungen und Tools. Navigieren Sie je nach benötigtem Gerätetyp (Windows, macOS, Android, iOS oder Spielekonsole) zum entsprechenden Ordner oder zur entsprechenden Wiki-Seite auf GitHub. Laden Sie die empfohlenen Tools herunter, indem Sie den Links im entsprechenden Handbuch folgen, und schließen Sie Ihre Konfiguration ab, indem Sie die mitgelieferten Benutzerhandbücher sorgfältig lesen.
+
+- [Offizielle Quelle →](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -29,7 +31,7 @@ Das Fanqiang-Projekt ist ein in Kotlin geschriebenes Gateway-Tool, das entwickel
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/bannedbook/fanqiang/tree/master/fqnews2)
+- [GitHub-Repository →](https://github.com/bannedbook/fanqiang)
 - [Auf Türkisch lesen →](https://trescout.com/discover/fanqiang/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

@@ -14,7 +14,9 @@ El proyecto revivido por la unidad central proporciona una aplicación que permi
 
 ## Cómo empezar
 
-- Fuente oficial →
+Descargue la aplicación a su dispositivo a través de Google Play Store o Amazon Appstore. Para una conexión inalámbrica, se recomienda que también instale la aplicación 'Wireless Helper' en su teléfono. Para conocer los pasos de instalación detallados y la configuración de conexión, puede revisar la sección Wiki en la página de GitHub.
+
+- [Fuente oficial →](https://headunit.andrerinas.com/)
 
 ## Términos relacionados del glosario
 
@@ -25,7 +27,7 @@ El proyecto revivido por la unidad central proporciona una aplicación que permi
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://headunit.andrerinas.com/)
+- [Repositorio en GitHub →](https://github.com/andreknieriem/headunit-revived)
 - [Leer en turco →](https://trescout.com/discover/headunit-revived/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-06-25: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

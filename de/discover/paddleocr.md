@@ -2,13 +2,14 @@
 
 PaddleOCR wurde von PaddlePaddle entwickelt und ist ein leichtes optisches Zeichenerkennungstool, das PDF- und visuelle Dokumente in strukturierte Daten für große Sprachmodelle umwandelt. Diese Bibliothek, die mehr als 100 Sprachen unterstützt, standardisiert den Datenfluss zwischen visuellen Inhalten und Modellen der künstlichen Intelligenz.
 
-- ★ 86.787
+- ★ 91.141
 - GitHub Trending · 2026-06-05
 
 **Hinweis von TreScout:** Es wandelt den Text im gescannten Dokument und Bild in bearbeitbaren Text um und erkennt auch Tabellen. Es ist eine der leistungsstärksten kostenlosen Optionen, aber der größte Teil der Installation ist die Berechnungsbibliothek darunter. · Installieren Sie es in einem separaten Arbeitsbereich. Es funktioniert ohne Grafikkarte, ist aber langsam. Es funktioniert für türkische Dokumente, aber probieren Sie es mit Ihren eigenen Beispielen: Das Ergebnis hängt stark von der Scanqualität des Dokuments ab.
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 86,787 → 91,141, neueste Version v3.7.0 (11. Juni 2026).
 - **2. August 2026:** Sterne 80,160 → 86,787, neueste Version v3.7.0 (11. Juni 2026).
 
 ## Was es bringt

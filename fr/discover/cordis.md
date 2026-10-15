@@ -21,7 +21,9 @@ Cordis est un méta-framework qui combine des composants spatiaux et temporels. 
 
 ## Pour commencer
 
-- Source officielle →
+Pour commencer à utiliser Cordis, vous pouvez revoir les concepts de base sur cordis-primer, la page de documentation officielle du projet. Vous pouvez également consulter l'article académique partagé sur GitHub pour comprendre la logique de fonctionnement du système.
+
+- [Source officielle →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ Cordis est un méta-framework qui combine des composants spatiaux et temporels. 
 
 ## Liens
 
-- [Dépôt GitHub →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
+- [Dépôt GitHub →](https://github.com/cordiverse/cordis)
 - [Lire en turc →](https://trescout.com/discover/cordis/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-16 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

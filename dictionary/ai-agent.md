@@ -72,7 +72,6 @@ Arama, dosya, takvim, API ve kod çalıştırma gibi tanımlı yetenekleri. List
 - [Awesome LLM Apps](https://trescout.com/discover/awesome-llm-apps/)
 - [Taste Skill](https://trescout.com/discover/taste-skill/)
 - [Last30days Skill](https://trescout.com/discover/last30days-skill/)
-- [AI Agent Book](https://trescout.com/discover/ai-agent-book/)
 - [Hiring Agent](https://trescout.com/discover/hiring-agent/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -69,10 +69,6 @@ En mettant en place une petite application RAG avec une API et en écrivant un e
 - [Engineering Skills](https://trescout.com/fr/dictionary/engineering-skills/)
 - [AI Agent](https://trescout.com/fr/dictionary/ai-agent/)
 
-## Outils liés
-
-- [AI Engineering from Scratch](https://trescout.com/fr/discover/ai-engineering-from-scratch/)
-
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/ai-engineering/)
 
 ---

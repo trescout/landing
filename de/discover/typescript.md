@@ -41,7 +41,9 @@ tsc index.ts
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Verwendung von TypeScript zu beginnen, können Sie die Anleitung „TypeScript in 5 Minuten“ auf der offiziellen Website lesen oder die TypeScript Playground-Umgebung ausprobieren, die über den Browser ausgeführt wird. Wenn Sie es installieren möchten, können Sie es über den npm-Paketmanager in Ihr Projekt einbinden.
+
+- [Offizielle Quelle →](https://www.typescriptlang.org)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -53,7 +55,7 @@ tsc index.ts
 
 ## Links
 
-- [GitHub-Repository →](https://www.typescriptlang.org)
+- [GitHub-Repository →](https://github.com/microsoft/TypeScript)
 - [Auf Türkisch lesen →](https://trescout.com/discover/typescript/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-11 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

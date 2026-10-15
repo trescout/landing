@@ -70,11 +70,11 @@ Sim. As plataformas empacotam habilidades comuns; para trabalhos específicos, v
 - [Agent Skills](https://trescout.com/pt/discover/agent-skills/)
 - [Taste Skill](https://trescout.com/pt/discover/taste-skill/)
 - [OpenMontage](https://trescout.com/pt/discover/openmontage/)
-- [Scientific Agent Skills](https://trescout.com/pt/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](https://trescout.com/pt/discover/awesome-agent-skills/)
 - [Agentskills](https://trescout.com/pt/discover/agentskills/)
 - [Text to Cad](https://trescout.com/pt/discover/text-to-cad/)
 - [Claude Obsidian](https://trescout.com/pt/discover/claude-obsidian/)
+- [Stitch Skills](https://trescout.com/pt/discover/stitch-skills/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-skills/)
 

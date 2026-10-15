@@ -49,7 +49,9 @@ terraform -version
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar o Terraform, você pode visitar as páginas de documentação no site oficial. Para instalação e etapas básicas, é recomendável seguir os guias de introdução na plataforma de aprendizagem da HashiCorp.
+
+- [Fonte oficial →](http://developer.hashicorp.com/terraform)
 
 ## Termos relacionados do glossário
 
@@ -60,7 +62,7 @@ terraform -version
 
 ## Links
 
-- [Repositório no GitHub →](http://developer.hashicorp.com/terraform)
+- [Repositório no GitHub →](https://github.com/hashicorp/terraform)
 - [Ler em turco →](https://trescout.com/discover/terraform/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-11: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

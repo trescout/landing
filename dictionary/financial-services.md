@@ -38,10 +38,6 @@ Bankaları, aracı kurumları, sigorta şirketlerini ve ödeme kuruluşlarını 
 - [SaaS](https://trescout.com/dictionary/saas/)
 - [Database](https://trescout.com/dictionary/database/)
 
-## İlgili araçlar
-
-- [Financial Services](https://trescout.com/discover/financial-services/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

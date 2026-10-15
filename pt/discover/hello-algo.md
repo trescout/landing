@@ -20,7 +20,9 @@ Hello 算法 é uma plataforma educacional de código aberto que ensina estrutur
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar a plataforma Hello Algo, você pode visitar o site oficial hello-algo.com. Você pode acessar aulas interativas no site e usar a seção de versões na página do GitHub para baixar recursos em formato PDF ou e-book.
+
+- [Fonte oficial →](https://www.hello-algo.com)
 
 ## Termos relacionados do glossário
 
@@ -30,7 +32,7 @@ Hello 算法 é uma plataforma educacional de código aberto que ensina estrutur
 
 ## Links
 
-- [Repositório no GitHub →](https://www.hello-algo.com)
+- [Repositório no GitHub →](https://github.com/krahets/hello-algo)
 - [Ler em turco →](https://trescout.com/discover/hello-algo/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-16: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

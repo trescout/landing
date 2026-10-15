@@ -21,7 +21,9 @@ Developed in C# language, optimizerDuck is an open source tool that offers perfo
 
 ## Getting started
 
-- Official source →
+To start using the tool, visit the official releases page on GitHub. Download the current version from the relevant link and start configuring the settings by running the .exe file directly without any installation.
+
+- [Official source →](https://optimizerduck.vercel.app/)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ Developed in C# language, optimizerDuck is an open source tool that offers perfo
 
 ## Links
 
-- [GitHub repository →](https://optimizerduck.vercel.app/)
+- [GitHub repository →](https://github.com/itsfatduck/optimizerDuck)
 - [Read in Turkish →](https://trescout.com/discover/optimizerduck/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

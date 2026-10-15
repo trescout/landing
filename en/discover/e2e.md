@@ -2,16 +2,16 @@
 
 A TypeScript-based next-generation framework that automates end-to-end (e2e) testing processes for web and mobile applications. It enables developers to quickly verify application interfaces across different platforms.
 
-- ★ 9,489
+- ★ 10,659
 - TypeScript
 - GitHub Trending · 2026-10-05
 
 ## Updates
 
+- **October 15, 2026:** Stars 9,489 → 10,659, latest release @e2e-dev/smol@0.1.1 (October 14, 2026).
 - **October 12, 2026:** Stars 8,338 → 9,489, latest release @e2e-dev/limrun@0.2.0 (October 12, 2026).
 - **October 9, 2026:** Stars 8,012 → 8,338, latest release @e2e-dev/smol@0.1.0 (October 9, 2026).
 - **October 8, 2026:** Stars 6,873 → 8,012, latest release @e2e-dev/kernel@0.2.0 (October 6, 2026).
-- **October 7, 2026:** Stars 5,716 → 6,873, latest release @e2e-dev/kernel@0.2.0 (October 6, 2026).
 
 ## What you get
 

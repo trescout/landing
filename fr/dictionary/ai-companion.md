@@ -34,10 +34,6 @@ Il ne vous ressent pas vraiment, mais grâce aux données sur lesquelles il a é
 - [Autonomous Agent](https://trescout.com/fr/dictionary/autonomous-agent/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 
-## Outils liés
-
-- [AIRI](https://trescout.com/fr/discover/airi/)
-
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/ai-companion/)
 
 ---

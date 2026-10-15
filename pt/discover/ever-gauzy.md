@@ -21,7 +21,9 @@ Ever Gauzy é uma plataforma de gestão empresarial de código aberto que reúne
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar a plataforma, você pode visitar o site oficial em https://gauzy.co ou conferir o ambiente de demonstração em https://demo.gauzy.co para testar rapidamente. Se desejar instalar o software em seu próprio computador ou executá-lo em um servidor, você pode verificar as opções de download em https://gauzy.co/downloads e consultar a página de documentação em https://docs.gauzy.co para as etapas de instalação.
+
+- [Fonte oficial →](https://gauzy.co)
 
 ## Termos relacionados do glossário
 
@@ -33,7 +35,7 @@ Ever Gauzy é uma plataforma de gestão empresarial de código aberto que reúne
 
 ## Links
 
-- [Repositório no GitHub →](https://gauzy.co)
+- [Repositório no GitHub →](https://github.com/ever-co/ever-gauzy)
 - [Ler em turco →](https://trescout.com/discover/ever-gauzy/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-09-14: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

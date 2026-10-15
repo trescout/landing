@@ -20,7 +20,9 @@ Miles ist ein unternehmensorientiertes Framework, das Reinforcement-Learning-Pro
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit Miles zu beginnen, müssen Sie dem Installationsleitfaden auf der offiziellen Dokumentationsseite folgen. Besuchen Sie miles.radixark.com/docs/getting-started/installation, um mehr über die Container-Images und Installationsschritte zu erfahren, die Ihren Hardwareanforderungen entsprechen.
+
+- [Offizielle Quelle →](https://miles.radixark.com)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -35,7 +37,7 @@ Miles ist ein unternehmensorientiertes Framework, das Reinforcement-Learning-Pro
 
 ## Links
 
-- [GitHub-Repository →](https://miles.radixark.com)
+- [GitHub-Repository →](https://github.com/radixark/miles)
 - [Auf Türkisch lesen →](https://trescout.com/discover/miles/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-05 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

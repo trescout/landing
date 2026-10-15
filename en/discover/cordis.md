@@ -21,7 +21,9 @@ Cordis is a meta-framework that combines spatial and temporal components. This T
 
 ## Getting started
 
-- Official source →
+To start using Cordis, you can review the basic concepts on cordis-primer, the official documentation page of the project. You can also take a look at the academic article shared on GitHub to understand the working logic of the system.
+
+- [Official source →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ Cordis is a meta-framework that combines spatial and temporal components. This T
 
 ## Links
 
-- [GitHub repository →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
+- [GitHub repository →](https://github.com/cordiverse/cordis)
 - [Read in Turkish →](https://trescout.com/discover/cordis/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

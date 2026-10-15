@@ -29,7 +29,6 @@ I want to develop my own projects using the artificial intelligence agent templa
 
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 - [RAG](https://trescout.com/en/dictionary/rag/)
-- [LLM](https://trescout.com/en/dictionary/llm/)
 - [Agent](https://trescout.com/en/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

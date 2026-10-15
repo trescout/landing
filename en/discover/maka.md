@@ -2,12 +2,13 @@
 
 Apache Maka is a local-first AI agent workspace that keeps model messages, tool interactions, consent decisions, and termination events in a log that can only be added to new records.
 
-- ★ 4,732
+- ★ 5,745
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Updates
 
+- **October 15, 2026:** Stars 4,732 → 5,745.
 - **September 5, 2026:** Stars 3,701 → 4,732.
 - **August 27, 2026:** Stars 2,064 → 3,701, latest release v0.1.11 (August 18, 2026).
 - **August 22, 2026:** Stars 2,062 → 2,064, latest release v0.1.11 (August 18, 2026).

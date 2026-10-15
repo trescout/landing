@@ -21,7 +21,9 @@ Desenvolvido pela Basecamp, Omarchy é uma ferramenta de configuração moderna 
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar o Omarchy, você pode visitar omarchy.org e revisar o guia de instalação no site oficial. Para conhecer todos os detalhes e opções de configuração do sistema, basta conferir o manual online em learn.omacom.io.
+
+- [Fonte oficial →](https://omarchy.org)
 
 ## Termos relacionados do glossário
 
@@ -35,7 +37,7 @@ Desenvolvido pela Basecamp, Omarchy é uma ferramenta de configuração moderna 
 
 ## Links
 
-- [Repositório no GitHub →](https://omarchy.org)
+- [Repositório no GitHub →](https://github.com/basecamp/omarchy)
 - [Ler em turco →](https://trescout.com/discover/omarchy/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-17: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

@@ -21,7 +21,9 @@ Mise is a tool that allows you to manage software development tools, environment
 
 ## Getting started
 
-- Official source →
+To install, you can visit the 'Getting started' section on the official documentation page and follow the steps appropriate for your operating system. After installation, you need to configure the 'activate' commands required for the tool to work integrated with your shell, according to your terminal type, via the same documentation.
+
+- [Official source →](https://mise.jdx.dev)
 
 ## Related dictionary terms
 
@@ -35,7 +37,7 @@ Mise is a tool that allows you to manage software development tools, environment
 
 ## Links
 
-- [GitHub repository →](https://mise.jdx.dev)
+- [GitHub repository →](https://github.com/jdx/mise)
 - [Read in Turkish →](https://trescout.com/discover/mise/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-08: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

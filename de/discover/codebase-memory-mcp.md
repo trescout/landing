@@ -36,9 +36,7 @@ Indizieren Sie dieses Projekt, um Ihnen bei der Analyse meiner Codebasis und der
 ## Verwandte Begriffe aus dem Glossar
 
 - [Knowledge Graph](https://trescout.com/de/dictionary/knowledge-graph/)
-- [Memory](https://trescout.com/de/dictionary/memory/)
 - [Token](https://trescout.com/de/dictionary/token/)
-- [MCP](https://trescout.com/de/dictionary/mcp/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Entwickler, die Codebasen schneller analysieren und den Token-Verbrauch von KI-Agenten optimieren möchten.

@@ -2,16 +2,16 @@
 
 Visual Studio Code, desarrollado por Microsoft, es un editor de código de código abierto que acelera los procesos de desarrollo de software. Escrito en TypeScript, esta herramienta ofrece un entorno de trabajo personalizable para diferentes lenguajes de programación y plataformas gracias a su amplio soporte de extensiones.
 
-- ★ 193.773
+- ★ 193.634
 - TypeScript
 - GitHub Trending · 2026-09-27
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 193,773 → 193,634, última versión 1.142.0 (14 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 193,616 → 193,773, última versión 1.141.1 (13 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 193,318 → 193,616, última versión 1.141.0 (7 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 193,169 → 193,318, última versión 1.140.0 (30 de septiembre de 2026).
-- **27 de septiembre de 2026:** Estrellas 193,142 → 193,169, última versión 1.139.1 (25 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -21,7 +21,9 @@ Visual Studio Code, desarrollado por Microsoft, es un editor de código de códi
 
 ## Cómo empezar
 
-- Fuente oficial →
+Puede descargar Visual Studio Code para los sistemas operativos Windows, macOS y Linux a través del sitio web oficial. Puede instalar la versión Insiders para recibir las últimas versiones todos los días.
+
+- [Fuente oficial →](https://code.visualstudio.com)
 
 ## Términos relacionados del glosario
 
@@ -33,7 +35,7 @@ Visual Studio Code, desarrollado por Microsoft, es un editor de código de códi
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://code.visualstudio.com)
+- [Repositorio en GitHub →](https://github.com/microsoft/vscode)
 - [Leer en turco →](https://trescout.com/discover/vscode/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-27: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

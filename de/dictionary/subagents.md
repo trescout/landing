@@ -39,10 +39,6 @@ Ja, sie können normalerweise Informationen über den Host-Agenten oder direkt �
 - [Multi-agent LLM](https://trescout.com/de/dictionary/multi-agent-llm/)
 - [Autonomous AI Agent](https://trescout.com/de/dictionary/autonomous-ai-agent/)
 
-## Verwandte Werkzeuge
-
-- [Pi Subagents](https://trescout.com/de/discover/pi-subagents/)
-
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/subagents/)
 
 ---

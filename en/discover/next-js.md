@@ -2,16 +2,16 @@
 
 Next.js is a framework used to develop React-based web applications and provides features such as server-side rendering and static site generation. It is becoming a common choice among developers as it offers performance-oriented optimizations and scalable infrastructure solutions in modern web projects.
 
-- ★ 143,229
+- ★ 143,019
 - JavaScript
 - GitHub Trending · 2026-07-11
 
 ## Updates
 
+- **October 15, 2026:** Stars 143,229 → 143,019, latest release v16.4.1 (October 14, 2026).
 - **October 7, 2026:** Stars 142,954 → 143,229, latest release v16.4.0 (October 7, 2026).
 - **October 1, 2026:** Stars 142,883 → 142,954, latest release v16.3.8 (September 30, 2026).
 - **September 29, 2026:** Stars 142,648 → 142,883, latest release v16.3.7 (September 29, 2026).
-- **September 27, 2026:** Stars 142,248 → 142,648, latest release v16.3.6 (September 22, 2026).
 
 ## What you get
 
@@ -38,7 +38,9 @@ npm run dev
 
 ## Getting started
 
-- Official source →
+To start working with Next.js, you can visit the official website nextjs.org and get basic information by taking the learning course here. You can also review the documentation page at nextjs.org/docs for all technical details and user guides.
+
+- [Official source →](https://nextjs.org)
 
 ## Related dictionary terms
 
@@ -52,7 +54,7 @@ npm run dev
 
 ## Links
 
-- [GitHub repository →](https://nextjs.org)
+- [GitHub repository →](https://github.com/vercel/next.js)
 - [Read in Turkish →](https://trescout.com/discover/next-js/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-11: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -48,8 +48,8 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 - [Coding Interview University](https://trescout.com/de/discover/coding-interview-university/)
 - [Superpowers](https://trescout.com/de/discover/superpowers/)
 - [ECC](https://trescout.com/de/discover/ecc/)
-- [Hermes Agent](https://trescout.com/de/discover/hermes-agent/)
 - [REA](https://trescout.com/de/discover/rea/)
+- [Hermes Agent](https://trescout.com/de/discover/hermes-agent/)
 - [Opencode](https://trescout.com/de/discover/opencode/)
 
 Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/artificial-intelligence/)

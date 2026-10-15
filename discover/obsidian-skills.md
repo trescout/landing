@@ -47,7 +47,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [Markdown](https://trescout.com/dictionary/markdown/)
-- [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [CLI](https://trescout.com/dictionary/cli/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

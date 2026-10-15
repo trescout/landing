@@ -14,7 +14,9 @@ Cloudflare introduced an agent workspace that supports document generation, appl
 
 ## Getting started
 
-- Official source →
+To quickly try the system, you can visit the web address os.cloudflare.app/deploy and deploy it to your Cloudflare cloud service account. Alternatively, you can run the project locally on your computer by following the steps in the official documentation.
+
+- [Official source →](https://os.cloudflare.app)
 
 ## Related dictionary terms
 
@@ -27,7 +29,7 @@ Cloudflare introduced an agent workspace that supports document generation, appl
 
 ## Links
 
-- [GitHub repository →](https://os.cloudflare.app)
+- [GitHub repository →](https://github.com/cloudflare/cloudflare-os)
 - [Read in Turkish →](https://trescout.com/discover/cloudflare-os/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-10-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

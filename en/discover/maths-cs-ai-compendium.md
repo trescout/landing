@@ -18,7 +18,9 @@ Maths-cs-ai-compendium offers a comprehensive collection of resources covering m
 
 ## Getting started
 
-- Official source →
+You don't need any installation to get started with this guide. You can read all chapters online and take a look at the study guide immediately by visiting the official website of the project, henryndubuaku.github.io/maths-cs-ai-compendium.
+
+- [Official source →](https://henryndubuaku.github.io/maths-cs-ai-compendium)
 
 ## Related dictionary terms
 
@@ -30,7 +32,7 @@ Maths-cs-ai-compendium offers a comprehensive collection of resources covering m
 
 ## Links
 
-- [GitHub repository →](https://henryndubuaku.github.io/maths-cs-ai-compendium)
+- [GitHub repository →](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 - [Read in Turkish →](https://trescout.com/discover/maths-cs-ai-compendium/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-15: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

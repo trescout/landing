@@ -21,7 +21,9 @@ Computer wurde von Cloudflare entwickelt und ist eine TypeScript-Bibliothek, die
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um dieses Tool verwenden zu können, müssen Sie zunächst das Cloudflare-Computerpaket in Ihr Projekt einbinden. Informationen zu Installationsschritten, einer Einstiegspunktkarte und Beispielen für die Dateisystemnutzung finden Sie in der README-Datei im Verzeichnis „packages/computer“ im GitHub-Repository.
+
+- [Offizielle Quelle →](https://github.com/vercel-labs/just-bash)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ Computer wurde von Cloudflare entwickelt und ist eine TypeScript-Bibliothek, die
 
 ## Links
 
-- [GitHub-Repository →](https://github.com/vercel-labs/just-bash)
+- [GitHub-Repository →](https://github.com/cloudflare/computer)
 - [Auf Türkisch lesen →](https://trescout.com/discover/computer/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-06 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

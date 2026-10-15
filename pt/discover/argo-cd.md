@@ -43,7 +43,9 @@ kubectl port-forward svc/argocd-server -n argocd 8080:443
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar o Argo CD, você pode visitar a página de documentação oficial e seguir os passos de instalação. Você pode revisar a demonstração ao vivo para entender como o projeto funciona e navegar no site de documentação do Argo CD para acessar guias completos.
+
+- [Fonte oficial →](https://argo-cd.readthedocs.io)
 
 ## Termos relacionados do glossário
 
@@ -56,7 +58,7 @@ kubectl port-forward svc/argocd-server -n argocd 8080:443
 
 ## Links
 
-- [Repositório no GitHub →](https://argo-cd.readthedocs.io)
+- [Repositório no GitHub →](https://github.com/argoproj/argo-cd)
 - [Ler em turco →](https://trescout.com/discover/argo-cd/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-09: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

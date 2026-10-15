@@ -14,14 +14,16 @@ El aprendizaje basado en proyectos es una lista que reúne recursos que enseñan
 
 ## Cómo empezar
 
-- Fuente oficial →
+Dado que se trata de una lista de software, no requiere instalación. Puede seleccionar el lenguaje de programación que le interesa de la lista, hacer clic en los enlaces a continuación y comenzar a examinar los proyectos.
+
+- [Fuente oficial →](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 - **Para quién es:** Es para desarrolladores que desean aprender los procesos de desarrollo de software mediante la creación de aplicaciones del mundo real en lugar de conocimientos teóricos.
 - **Licencia:** MIT
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://gitter.im/practical-tutorials/community?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge)
+- [Repositorio en GitHub →](https://github.com/practical-tutorials/project-based-learning)
 - [Leer en turco →](https://trescout.com/discover/project-based-learning/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

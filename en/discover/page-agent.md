@@ -33,11 +33,9 @@ I want to manage interactions on the web page with natural language commands usi
 
 ## Related dictionary terms
 
-- [Page Agent](https://trescout.com/en/dictionary/page-agent/)
 - [User Interface](https://trescout.com/en/dictionary/user-interface/)
 - [GUI](https://trescout.com/en/dictionary/gui/)
 - [Interface](https://trescout.com/en/dictionary/interface/)
-- [Agent](https://trescout.com/en/dictionary/agent/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for developers who want to add artificial intelligence assistants that can be controlled with natural language to their web applications.

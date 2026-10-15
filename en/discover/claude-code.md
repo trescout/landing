@@ -1,8 +1,8 @@
-# AI-Assisted Coding in Terminal
+# Artificial intelligence-supported coding in the terminal
 
 Claude Code; It is an agent-based coding tool that lives in your terminal and has a deep understanding of your codebase. It accelerates your development process by reading files, making changes and running tests with natural language commands. (You can use many of the tools on this page with it.)
 
-- ★ 150,735
+- ★ 150,959
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -11,10 +11,10 @@ Claude Code; It is an agent-based coding tool that lives in your terminal and ha
 
 ## Updates
 
+- **October 15, 2026:** Stars 150,735 → 150,959, latest release v2.1.300 (October 14, 2026).
 - **October 14, 2026:** Stars 149,972 → 150,735, latest release v2.1.299 (October 14, 2026).
 - **October 10, 2026:** Stars 149,709 → 149,972, latest release v2.1.296 (October 9, 2026).
 - **October 8, 2026:** Stars 149,845 → 149,709, latest release v2.1.295 (October 8, 2026).
-- **October 8, 2026:** Stars 149,700 → 149,845, latest release v2.1.294 (October 8, 2026).
 
 ## What you get
 

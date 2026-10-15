@@ -18,7 +18,9 @@ Desarrollado en el lenguaje Go, hey es una herramienta de prueba de carga utiliz
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para la instalación, puede utilizar los enlaces de descarga adecuados para su sistema operativo Linux, macOS o Windows, o bien realizar la instalación en macOS a través del gestor de paquetes Homebrew utilizando el comando correspondiente.
+
+- [Fuente oficial →](https://storage.googleapis.com/hey-releases/hey_linux_amd64)
 
 ## Términos relacionados del glosario
 
@@ -31,7 +33,7 @@ Desarrollado en el lenguaje Go, hey es una herramienta de prueba de carga utiliz
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://storage.googleapis.com/hey-releases/hey_linux_amd64)
+- [Repositorio en GitHub →](https://github.com/rakyll/hey)
 - [Leer en turco →](https://trescout.com/discover/hey/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-29: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

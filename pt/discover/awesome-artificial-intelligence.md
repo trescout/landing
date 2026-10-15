@@ -18,7 +18,9 @@ Awesome-artificial-inteligência é uma lista abrangente de recursos que reúne 
 
 ## Como começar
 
-- Fonte oficial →
+Esta ferramenta não requer instalação de software; é uma lista de recursos. Para iniciar sua jornada de aprendizado, você pode revisar os livros na seção ‘Aprender’ do arquivo README e navegar pelas estruturas e guias atuais de inteligência artificial através dos links na seção ‘Construir’.
+
+- [Fonte oficial →](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956)
 
 ## Termos relacionados do glossário
 
@@ -29,7 +31,7 @@ Awesome-artificial-inteligência é uma lista abrangente de recursos que reúne 
 
 ## Links
 
-- [Repositório no GitHub →](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956)
+- [Repositório no GitHub →](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Ler em turco →](https://trescout.com/discover/awesome-artificial-intelligence/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-19: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

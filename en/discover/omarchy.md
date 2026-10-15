@@ -21,7 +21,9 @@ Developed by Basecamp, Omarchy is a modern and original configuration tool for L
 
 ## Getting started
 
-- Official source →
+To start using Omarchy, you can visit omarchy.org and review the installation guide on the official website. To learn all the details and configuration options of the system, just check out the online manual at learn.omacom.io.
+
+- [Official source →](https://omarchy.org)
 
 ## Related dictionary terms
 
@@ -35,7 +37,7 @@ Developed by Basecamp, Omarchy is a modern and original configuration tool for L
 
 ## Links
 
-- [GitHub repository →](https://omarchy.org)
+- [GitHub repository →](https://github.com/basecamp/omarchy)
 - [Read in Turkish →](https://trescout.com/discover/omarchy/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-17: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

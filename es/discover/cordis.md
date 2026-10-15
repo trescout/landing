@@ -21,7 +21,9 @@ Cordis es un metamarco que combina componentes espaciales y temporales. Esta her
 
 ## Cómo empezar
 
-- Fuente oficial →
+Para comenzar a usar Cordis, puedes revisar los conceptos básicos en cordis-primer, la página de documentación oficial del proyecto. También puedes consultar el artículo académico compartido en GitHub para comprender la lógica de funcionamiento del sistema.
+
+- [Fuente oficial →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
 
 ## Términos relacionados del glosario
 
@@ -32,7 +34,7 @@ Cordis es un metamarco que combina componentes espaciales y temporales. Esta her
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)
+- [Repositorio en GitHub →](https://github.com/cordiverse/cordis)
 - [Leer en turco →](https://trescout.com/discover/cordis/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-16: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

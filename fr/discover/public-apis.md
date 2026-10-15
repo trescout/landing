@@ -18,7 +18,9 @@ Public-apis est une liste complète d'interfaces de programmation d'applications
 
 ## Pour commencer
 
-- Source officielle →
+Pour trouver les données dont vous avez besoin, vous pouvez visiter le référentiel Public-apis sur GitHub et effectuer une recherche dans la liste catégorisée. Après avoir sélectionné les API que vous souhaitez intégrer à votre projet, créez simplement un compte sur les sites officiels des services concernés et récupérez votre clé API.
+
+- [Source officielle →](https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo)
 
 ## Termes liés du glossaire
 
@@ -29,7 +31,7 @@ Public-apis est une liste complète d'interfaces de programmation d'applications
 
 ## Liens
 
-- [Dépôt GitHub →](https://APILayer.com/?utm_source=Github&amp;utm_medium=Referral&amp;utm_campaign=Public-apis-repo)
+- [Dépôt GitHub →](https://github.com/public-apis/public-apis)
 - [Lire en turc →](https://trescout.com/discover/public-apis/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-16 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

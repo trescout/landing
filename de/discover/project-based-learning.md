@@ -14,14 +14,16 @@ Projektbasiertes Lernen ist eine Liste, die Ressourcen zusammenfasst, die Softwa
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Da es sich um eine Softwareliste handelt, ist keine Installation erforderlich. Sie können die Programmiersprache, die Sie interessiert, aus der Liste auswählen, auf die untenstehenden Links klicken und mit der Untersuchung der Projekte beginnen.
+
+- [Offizielle Quelle →](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 - **Für wen es gedacht ist:** Es richtet sich an Entwickler, die Softwareentwicklungsprozesse durch die Erstellung realer Anwendungen und nicht durch theoretisches Wissen erlernen möchten.
 - **Lizenz:** MIT
 
 ## Links
 
-- [GitHub-Repository →](https://gitter.im/practical-tutorials/community?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge)
+- [GitHub-Repository →](https://github.com/practical-tutorials/project-based-learning)
 - [Auf Türkisch lesen →](https://trescout.com/discover/project-based-learning/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

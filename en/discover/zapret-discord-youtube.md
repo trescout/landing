@@ -21,7 +21,9 @@ Zapret-discord-youtube is a tool that aims to provide access to restricted platf
 
 ## Getting started
 
-- Official source →
+Download the archive file by going to the latest version link on the official GitHub page. Unblock the archive in its properties and extract its contents to a folder that does not contain special characters or the Cyrillic alphabet. You can then run strategies or install services using the .bat files in the folder.
+
+- [Official source →](https://github.com/Flowseal)
 
 ## Related dictionary terms
 
@@ -31,7 +33,7 @@ Zapret-discord-youtube is a tool that aims to provide access to restricted platf
 
 ## Links
 
-- [GitHub repository →](https://github.com/Flowseal)
+- [GitHub repository →](https://github.com/Flowseal/zapret-discord-youtube)
 - [Read in Turkish →](https://trescout.com/discover/zapret-discord-youtube/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

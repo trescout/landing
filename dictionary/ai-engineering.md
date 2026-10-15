@@ -69,10 +69,6 @@ Bir API ile küçük bir RAG uygulaması kurup eval seti yazmakla. Ölçmeyi ö�
 - [Engineering Skills](https://trescout.com/dictionary/engineering-skills/)
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
 
-## İlgili araçlar
-
-- [AI Engineering from Scratch](https://trescout.com/discover/ai-engineering-from-scratch/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

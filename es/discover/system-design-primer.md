@@ -16,7 +16,9 @@ System Design Primer ofrece un recurso de aprendizaje integral para aquellos que
 
 ## Cómo empezar
 
-- Fuente oficial →
+Esta guía es un depósito de documentación en GitHub. Para comenzar, puede visitar directamente la página de GitHub del proyecto, revisar los títulos del contenido y comenzar a leer las notas de trabajo preparadas sobre cuestiones de diseño del sistema. Si desea reforzar la información, puede descargar y utilizar archivos Anki (software que permite la memorización con tarjetas didácticas) desde los enlaces correspondientes.
+
+- [Fuente oficial →](https://github.com/donnemartin/system-design-primer/issues/170)
 
 ## Términos relacionados del glosario
 
@@ -26,7 +28,7 @@ System Design Primer ofrece un recurso de aprendizaje integral para aquellos que
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://github.com/donnemartin/system-design-primer/issues/170)
+- [Repositorio en GitHub →](https://github.com/donnemartin/system-design-primer)
 - [Leer en turco →](https://trescout.com/discover/system-design-primer/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-04: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

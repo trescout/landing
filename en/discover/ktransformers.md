@@ -2,12 +2,13 @@
 
 Ktransformers offers a flexible framework that supports heterogeneous hardware optimizations in the inference and fine-tuning processes of large language models. This structure aims to increase model performance by using different hardware resources efficiently.
 
-- ★ 19,517
+- ★ 19,604
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Updates
 
+- **October 15, 2026:** Stars 19,517 → 19,604, latest release v0.7.2 (October 15, 2026).
 - **September 15, 2026:** Stars 19,255 → 19,517, latest release v0.7.1 (September 15, 2026).
 - **August 18, 2026:** Stars 19,145 → 19,255, latest release v0.7.0 (August 17, 2026).
 - **August 2, 2026:** Stars 18,491 → 19,145, latest release v0.6.4 (July 23, 2026).

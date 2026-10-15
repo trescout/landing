@@ -20,7 +20,9 @@ The Modular Platform provides high-performance infrastructure for AI projects an
 
 ## Getting started
 
-- Official source →
+You can use the guides on the official website to start using the platform. Just take a look at the MAX quick start guide to run artificial intelligence models and use the MAX framework, and the Mojo quick start guide to get started with the Mojo programming language.
+
+- [Official source →](https://docs.modular.com/)
 
 ## Related dictionary terms
 
@@ -30,7 +32,7 @@ The Modular Platform provides high-performance infrastructure for AI projects an
 
 ## Links
 
-- [GitHub repository →](https://docs.modular.com/)
+- [GitHub repository →](https://github.com/modular/modular)
 - [Read in Turkish →](https://trescout.com/discover/modular/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

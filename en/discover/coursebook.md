@@ -19,7 +19,9 @@ Prepared by the University of Illinois, this coursebook is an open-source textbo
 
 ## Getting started
 
-- Official source →
+You do not need to run any code to read this resource. You can directly download the current PDF or EPUB version of the book using the links on the project's homepage or view the HTML version in your web browser.
+
+- [Official source →](http://cs241.cs.illinois.edu/coursebook)
 
 ## Related dictionary terms
 
@@ -31,7 +33,7 @@ Prepared by the University of Illinois, this coursebook is an open-source textbo
 
 ## Links
 
-- [GitHub repository →](http://cs241.cs.illinois.edu/coursebook)
+- [GitHub repository →](https://github.com/cs341-illinois/coursebook)
 - [Read in Turkish →](https://trescout.com/discover/coursebook/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

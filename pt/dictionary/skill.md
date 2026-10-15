@@ -80,8 +80,8 @@ Os desenvolvedores escrevem, as plataformas distribuem na loja. Escrever uma boa
 - [Awesome Claude Skills](https://trescout.com/pt/discover/awesome-claude-skills/)
 - [Last30days Skill](https://trescout.com/pt/discover/last30days-skill/)
 - [I Have Adhd](https://trescout.com/pt/discover/i-have-adhd/)
-- [Reverse Skill](https://trescout.com/pt/discover/reverse-skill/)
-- [Book to Skill](https://trescout.com/pt/discover/book-to-skill/)
+- [OfficeCLI](https://trescout.com/pt/discover/officecli/)
+- [Security Audit Skill](https://trescout.com/pt/discover/security-audit-skill/)
 
 Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/skill/)
 

@@ -65,10 +65,6 @@ Oui. Le squelette de l'équipe est le plus précieux, il renaît de ses cendres.
 - [Coding Agents](https://trescout.com/fr/dictionary/coding-agent/)
 - [Tech Stack](https://trescout.com/fr/dictionary/tech-stack/)
 
-## Outils liés
-
-- [Claude Code Templates](https://trescout.com/fr/discover/claude-code-templates/)
-
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/claude-code-templates/)
 
 ---

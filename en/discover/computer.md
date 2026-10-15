@@ -21,7 +21,9 @@ Developed by Cloudflare, Computer is a TypeScript library that gives artificial 
 
 ## Getting started
 
-- Official source →
+To start using this tool, you first need to include the Cloudflare Computer package in your project. For installation steps, entry point map and examples of file system usage, you can review the README file located in the packages/computer directory in the GitHub repository.
+
+- [Official source →](https://github.com/vercel-labs/just-bash)
 
 ## Related dictionary terms
 
@@ -32,7 +34,7 @@ Developed by Cloudflare, Computer is a TypeScript library that gives artificial 
 
 ## Links
 
-- [GitHub repository →](https://github.com/vercel-labs/just-bash)
+- [GitHub repository →](https://github.com/cloudflare/computer)
 - [Read in Turkish →](https://trescout.com/discover/computer/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-06: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

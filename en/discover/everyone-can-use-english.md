@@ -19,14 +19,16 @@ Everyone-can-use-english is an open source educational project that supports the
 
 ## Getting started
 
-- Official source →
+You can visit enjoy.bot to start using it immediately via your browser. Additionally, if you want to practice with subtitle support in YouTube and Netflix videos, you can download the browser add-on to your device via the Chrome Web Store.
+
+- [Official source →](https://1000h.org)
 
 - **Who it is for:** It is suitable for anyone who wants to improve their English language skills with the help of a structured curriculum and digital tools.
 - **License:** GPL-3.0
 
 ## Links
 
-- [GitHub repository →](https://1000h.org)
+- [GitHub repository →](https://github.com/ZuodaoTech/everyone-can-use-english)
 - [Read in Turkish →](https://trescout.com/discover/everyone-can-use-english/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-13: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

@@ -18,7 +18,9 @@ O projeto Introdução aos Robôs Autônomos apresenta os princípios básicos e
 
 ## Como começar
 
-- Fonte oficial →
+Este projeto contém os códigos-fonte de um livro escrito em robôs autônomos. Para criar uma versão PDF do livro, você pode clicar no botão verde ‘Código’ na página do GitHub e baixar os arquivos para o seu computador com a opção ‘Baixar ZIP’, ou você pode trabalhar no projeto transferindo-o para um editor LaTeX online como o Overleaf.
+
+- [Fonte oficial →](https://introduction-to-autonomous-robots.github.io/)
 
 ## Termos relacionados do glossário
 
@@ -29,7 +31,7 @@ O projeto Introdução aos Robôs Autônomos apresenta os princípios básicos e
 
 ## Links
 
-- [Repositório no GitHub →](https://introduction-to-autonomous-robots.github.io/)
+- [Repositório no GitHub →](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 - [Ler em turco →](https://trescout.com/discover/introduction-to-autonomous-robots/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-06-15: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

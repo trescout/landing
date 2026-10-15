@@ -21,7 +21,9 @@ OptimiererDuck wurde in der C#-Sprache entwickelt und ist ein Open-Source-Tool, 
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Nutzung des Tools zu beginnen, besuchen Sie die offizielle Release-Seite auf GitHub. Laden Sie die aktuelle Version über den entsprechenden Link herunter und beginnen Sie mit der Konfiguration der Einstellungen, indem Sie die .exe-Datei direkt und ohne Installation ausführen.
+
+- [Offizielle Quelle →](https://optimizerduck.vercel.app/)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -32,7 +34,7 @@ OptimiererDuck wurde in der C#-Sprache entwickelt und ist ein Open-Source-Tool, 
 
 ## Links
 
-- [GitHub-Repository →](https://optimizerduck.vercel.app/)
+- [GitHub-Repository →](https://github.com/itsfatduck/optimizerDuck)
 - [Auf Türkisch lesen →](https://trescout.com/discover/optimizerduck/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-16 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

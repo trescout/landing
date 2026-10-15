@@ -65,10 +65,6 @@ Evet. Ekip iskeleti en değerlisidir, tekrardan doğar.
 - [Coding Agents](https://trescout.com/dictionary/coding-agent/)
 - [Tech Stack](https://trescout.com/dictionary/tech-stack/)
 
-## İlgili araçlar
-
-- [Claude Code Templates](https://trescout.com/discover/claude-code-templates/)
-
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---

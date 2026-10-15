@@ -20,7 +20,9 @@ Le référentiel system_prompts_leaks partagé sur GitHub rassemble les invites 
 
 ## Pour commencer
 
-- Source officielle →
+Cet outil ne nécessite pas d'installation de logiciel. En accédant au référentiel System Prompts Leaks sur GitHub, vous pouvez cliquer sur le dossier du modèle d'intelligence artificielle ou de l'entreprise que vous souhaitez examiner et lire les fichiers d'invite système pertinents directement depuis votre navigateur.
+
+- [Source officielle →](https://asgeirtj.github.io/system_prompts_leaks/)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ Le référentiel system_prompts_leaks partagé sur GitHub rassemble les invites 
 
 ## Liens
 
-- [Dépôt GitHub →](https://asgeirtj.github.io/system_prompts_leaks/)
+- [Dépôt GitHub →](https://github.com/asgeirtj/system_prompts_leaks)
 - [Lire en turc →](https://trescout.com/discover/system-prompts-leaks/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-22 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

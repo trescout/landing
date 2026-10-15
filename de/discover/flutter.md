@@ -42,7 +42,9 @@ flutter run
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Um mit der Entwicklung mit Flutter zu beginnen, müssen Sie die offizielle Website flutter.dev besuchen. Sie können die geführte Installation abschließen, indem Sie dem Abschnitt „Erste Schritte“ auf der Website folgen, um Installationsschritte und Download-Optionen zu finden, die für Ihr Betriebssystem geeignet sind.
+
+- [Offizielle Quelle →](https://flutter.dev)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -55,7 +57,7 @@ flutter run
 
 ## Links
 
-- [GitHub-Repository →](https://flutter.dev)
+- [GitHub-Repository →](https://github.com/flutter/flutter)
 - [Auf Türkisch lesen →](https://trescout.com/discover/flutter/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-25 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

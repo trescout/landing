@@ -23,9 +23,11 @@ Unciv is an open source, minimalist and cross-platform desktop and Android adapt
 
 ## How to get started and installation options
 
-- Google Play Store Page →
-- F-Droid Open Source Repository →
-- itch.io Desktop Versions →
+To play the Unciv project on your device, you can choose the distribution channel suitable for your platform. On the mobile side, Android users can install via the Google Play Store or the privacy-focused F-Droid repository. On the desktop side, direct MSI or portable ZIP files for Windows, Flatpak package or itch.io distributions for Linux can be preferred.
+
+- [Google Play Store Sayfası →](https://play.google.com/store/apps/details?id=com.unciv.app)
+- [F-Droid Açık Kaynak Deposu →](https://f-droid.org/packages/com.unciv.app/)
+- [itch.io Masaüstü Sürümleri →](https://yairm210.itch.io/unciv)
 
 ## Technical architecture and working principle
 
@@ -67,7 +69,7 @@ I want to prepare a valid JSON mod structure for the game Unciv. Can you create 
 
 ## Links
 
-- [GitHub repository →](https://play.google.com/store/apps/details?id=com.unciv.app)
+- [GitHub repository →](https://github.com/yairm210/Unciv)
 - [Read in Turkish →](https://trescout.com/discover/unciv/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-18: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

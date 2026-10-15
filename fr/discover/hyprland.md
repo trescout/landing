@@ -19,14 +19,16 @@ Hyprland est un gestionnaire de fenêtres qui fonctionne sur le compositeur Wayl
 
 ## Pour commencer
 
-- Source officielle →
+Pour les étapes d'installation et le guide de démarrage, vous devez visiter la page de documentation officielle. Vous pouvez accéder aux instructions d'installation pertinentes et au guide de démarrage rapide sur la page wiki officielle d'Hyprland.
+
+- [Source officielle →](https://hypr.land)
 
 - **Pour qui:** Il convient aux utilisateurs qui souhaitent personnaliser l'environnement de bureau en fonction de leurs besoins et recherchent un gestionnaire de fenêtres performant basé sur Wayland.
 - **Licence:** BSD-3-Clause
 
 ## Liens
 
-- [Dépôt GitHub →](https://hypr.land)
+- [Dépôt GitHub →](https://github.com/hyprwm/Hyprland)
 - [Lire en turc →](https://trescout.com/discover/hyprland/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-22 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

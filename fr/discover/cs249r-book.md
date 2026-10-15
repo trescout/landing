@@ -20,7 +20,9 @@ Cette ressource, partagée par l'Université Harvard, propose un guide technique
 
 ## Pour commencer
 
-- Source officielle →
+Pour démarrer ce projet, vous pouvez visiter le site officiel mlsysbook.ai. Vous pouvez commencer votre processus d'apprentissage en combinant connaissances théoriques et travaux pratiques grâce au manuel, aux laboratoires interactifs et aux modules TinyTorch du site.
+
+- [Source officielle →](http://mlsysbook.ai/)
 
 ## Termes liés du glossaire
 
@@ -32,7 +34,7 @@ Cette ressource, partagée par l'Université Harvard, propose un guide technique
 
 ## Liens
 
-- [Dépôt GitHub →](http://mlsysbook.ai/)
+- [Dépôt GitHub →](https://github.com/harvard-edge/cs249r_book)
 - [Lire en turc →](https://trescout.com/discover/cs249r-book/)
 
 TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-03 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.

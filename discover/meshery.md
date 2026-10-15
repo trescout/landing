@@ -57,8 +57,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Cloud Native](https://trescout.com/dictionary/cloud-native/)
 - [Service Mesh](https://trescout.com/dictionary/service-mesh/)
 - [Bash Script](https://trescout.com/dictionary/bash-script/)
-- [Script](https://trescout.com/dictionary/script/)
 - [Native](https://trescout.com/dictionary/native/)
+- [Script](https://trescout.com/dictionary/script/)
 - [Mesh](https://trescout.com/dictionary/mesh/)
 
 ---

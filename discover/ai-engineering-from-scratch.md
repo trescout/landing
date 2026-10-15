@@ -2,17 +2,17 @@
 
 Yapay zekâ mühendisliğine sıfırdan giriş: **485 ders, 20 faz ve yaklaşık 320 saatlik içerik.** Lineer cebirden otonom ajanlara kadar her algoritmayı önce matematiğiyle, ardından **elle kod yazarak** öğretir. Python, TypeScript, Rust ve Julia dillerini kapsayan bu kurs tamamen ücretsiz ve açık kaynaklıdır.
 
-- ★ 66.339
+- ★ 69.356
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
 
+- **15 Ekim 2026:** Yıldız 66.339 → 69.356, son sürüm v2026.10.3 (15 Ekim 2026).
 - **10 Ekim 2026:** Yıldız 65.449 → 66.339, son sürüm v2026.10.2 (10 Ekim 2026).
 - **7 Ekim 2026:** Yıldız 65.029 → 65.449, son sürüm v2026.10.1 (6 Ekim 2026).
 - **6 Ekim 2026:** Yıldız 61.896 → 65.029, son sürüm v2026.10 (27 Eylül 2026).
-- **30 Eylül 2026:** Yıldız 58.825 → 61.896, son sürüm v2026.10 (27 Eylül 2026).
 
 - **Kimin için:** AI'ı yüzeysel değil temelden öğrenmek isteyenler
 - **Zorluk:** Başlangıçtan ileriye · faz faz ilerler
@@ -48,12 +48,12 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ## İlgili sözlük terimleri
 
-- [AI Engineering](https://trescout.com/dictionary/ai-engineering/)
 - [Tokenizer](https://trescout.com/dictionary/tokenizer/)
 - [Attention](https://trescout.com/dictionary/attention/)
 - [Prompt](https://trescout.com/dictionary/prompt/)
 - [MCP](https://trescout.com/dictionary/mcp/)
 - [Rust](https://trescout.com/dictionary/rust/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-engineering-from-scratch/

@@ -19,7 +19,9 @@ PM Skills Marketplace bietet mehr als 100 Agentenfähigkeiten, Befehle und Plugi
 
 ## So fangen Sie an
 
-- Offizielle Quelle →
+Wenn Sie Claude Cowork verwenden, gehen Sie in der Benutzeroberfläche zum Menü „Anpassen“, wählen Sie im Abschnitt „Plugins durchsuchen“ die Option „Marktplatz von GitHub hinzufügen“ und schließen Sie die Installation ab, indem Sie „phuryn/pm-skills“ eingeben. Bei anderen KI-Tools können Sie damit beginnen, die Skill-Dateien im GitHub-Repository in die Ordnerpfade zu kopieren, die in der Dokumentation des entsprechenden Tools angegeben sind (z. B. .cursor/skills/).
+
+- [Offizielle Quelle →](https://www.productcompass.pm/p/pm-skills-2-red-team-ship)
 
 ## Verwandte Begriffe aus dem Glossar
 
@@ -33,7 +35,7 @@ PM Skills Marketplace bietet mehr als 100 Agentenfähigkeiten, Befehle und Plugi
 
 ## Links
 
-- [GitHub-Repository →](https://www.productcompass.pm/p/pm-skills-2-red-team-ship)
+- [GitHub-Repository →](https://github.com/phuryn/pm-skills)
 - [Auf Türkisch lesen →](https://trescout.com/discover/pm-skills/)
 
 TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-09 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.

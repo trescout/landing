@@ -18,7 +18,9 @@ O downloader de sites, desenvolvido por AhmadIbrahiim, permite baixar todos os c
 
 ## Como começar
 
-- Fonte oficial →
+Para começar a usar a ferramenta, baixe os códigos da página do GitHub para o seu computador. Em seguida, acesse a pasta do projeto através do terminal, instale as dependências necessárias e inicie a aplicação. Após a execução do aplicativo, você pode iniciar o download acessando seu endereço local por meio do navegador.
+
+- [Fonte oficial →](https://website-downloader.onrender.com)
 
 ## Termos relacionados do glossário
 
@@ -30,7 +32,7 @@ O downloader de sites, desenvolvido por AhmadIbrahiim, permite baixar todos os c
 
 ## Links
 
-- [Repositório no GitHub →](https://website-downloader.onrender.com)
+- [Repositório no GitHub →](https://github.com/AhmadIbrahiim/Website-downloader)
 - [Ler em turco →](https://trescout.com/discover/website-downloader/)
 
 A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-07-08: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.

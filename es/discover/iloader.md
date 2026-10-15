@@ -2,16 +2,16 @@
 
 Desarrollado con TypeScript, iloader es un cargador lateral (sideloader) fácil de usar que simplifica el proceso de instalación de aplicaciones en dispositivos iOS. Mejora la experiencia del desarrollador y del usuario al simplificar la instalación de aplicaciones fuera de la tienda oficial de Apple.
 
-- ★ 3.934
+- ★ 3.970
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Actualizaciones
 
+- **15 de octubre de 2026:** Estrellas 3,934 → 3,970, última versión v2.3.8 (15 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 3,738 → 3,934, última versión v2.3.7 (13 de octubre de 2026).
 - **6 de octubre de 2026:** Estrellas 3,710 → 3,738, última versión v2.3.6 (6 de octubre de 2026).
 - **4 de octubre de 2026:** Estrellas 3,605 → 3,710, última versión v2.3.5 (3 de octubre de 2026).
-- **27 de septiembre de 2026:** Estrellas 2,962 → 3,605, última versión v2.3.4 (23 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -21,7 +21,9 @@ Desarrollado con TypeScript, iloader es un cargador lateral (sideloader) fácil 
 
 ## Cómo empezar
 
-- Fuente oficial →
+Visite el sitio web oficial iloader.app para descargar la versión adecuada para su sistema operativo. Después de instalar los controladores necesarios en su computadora, como iTunes (para Windows), conecte su dispositivo, ejecute la aplicación e inicie sesión con sus credenciales de Apple ID.
+
+- [Fuente oficial →](https://iloader.app)
 
 ## Términos relacionados del glosario
 
@@ -32,7 +34,7 @@ Desarrollado con TypeScript, iloader es un cargador lateral (sideloader) fácil 
 
 ## Enlaces
 
-- [Repositorio en GitHub →](https://iloader.app)
+- [Repositorio en GitHub →](https://github.com/nab138/iloader)
 - [Leer en turco →](https://trescout.com/discover/iloader/)
 
 TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-09-12: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.

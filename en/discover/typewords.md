@@ -18,7 +18,9 @@ TypeWords is a typing exercise tool that allows users to improve their typing sp
 
 ## Getting started
 
-- Official source →
+You do not need to perform any installation to start using the tool; you can go to https://typewords.cc from your browser and start practicing immediately. If you want to run it on your own computer, after installing the Node.js software development environment, you can download the project's source code from GitHub and start it on your local server by installing the necessary dependencies via the terminal.
+
+- [Official source →](https://typewords.cc)
 
 ## Related dictionary terms
 
@@ -29,7 +31,7 @@ TypeWords is a typing exercise tool that allows users to improve their typing sp
 
 ## Links
 
-- [GitHub repository →](https://typewords.cc)
+- [GitHub repository →](https://github.com/zyronon/TypeWords)
 - [Read in Turkish →](https://trescout.com/discover/typewords/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

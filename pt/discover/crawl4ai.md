@@ -1,4 +1,4 @@
-# Prepare dados da Web para IA
+# Prepare dados da web para IA
 
 Crawl4AI; é um rastreador e raspador da web de código aberto otimizado para modelos de linguagem grandes. Ele converte páginas da web em formatos limpos e estruturados (Markdown, etc.) que os modelos de inteligência artificial podem processar facilmente.
 

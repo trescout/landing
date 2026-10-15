@@ -2,17 +2,17 @@
 
 Einführung in die Technik der künstlichen Intelligenz von Grund auf: 485 Lektionen, 20 Phasen und ca. 320 Stunden Inhalt. Er lehrt jeden Algorithmus, von der linearen Algebra bis hin zu autonomen Agenten, zunächst mit Mathematik und dann durch manuelles Schreiben von Code. Dieser Kurs, der die Sprachen Python, TypeScript, Rust und Julia abdeckt, ist völlig kostenlos und Open Source.
 
-- ★ 66.339
+- ★ 69.356
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 66,339 → 69,356, neueste Version v2026.10.3 (15. Oktober 2026).
 - **10. Oktober 2026:** Sterne 65,449 → 66,339, neueste Version v2026.10.2 (10. Oktober 2026).
 - **7. Oktober 2026:** Sterne 65,029 → 65,449, neueste Version v2026.10.1 (6. Oktober 2026).
 - **6. Oktober 2026:** Sterne 61,896 → 65,029, neueste Version v2026.10 (27. September 2026).
-- **30. September 2026:** Sterne 58,825 → 61,896, neueste Version v2026.10 (27. September 2026).
 
 ## Was lernt man?
 
@@ -33,12 +33,12 @@ Ich gebe Ihnen den Inhalt eines 20-Phasen-Open-Source-Lehrplans mit mehr als 500
 
 ## Verwandte Begriffe aus dem Glossar
 
-- [AI Engineering](https://trescout.com/de/dictionary/ai-engineering/)
 - [Tokenizer](https://trescout.com/de/dictionary/tokenizer/)
 - [Attention](https://trescout.com/de/dictionary/attention/)
 - [Prompt](https://trescout.com/de/dictionary/prompt/)
 - [MCP](https://trescout.com/de/dictionary/mcp/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
+- [Open Source](https://trescout.com/de/dictionary/open-source/)
 
 - **Für wen es gedacht ist:** Diejenigen, die KI grundlegend und nicht oberflächlich erlernen möchten
 - **Schwierigkeit:** Es schreitet von Anfang an Schritt für Schritt voran

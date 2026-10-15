@@ -20,7 +20,9 @@ Hello 算法 is an open source educational platform that teaches data structures
 
 ## Getting started
 
-- Official source →
+To get started with the Hello Algo platform, you can visit the official website hello-algo.com. You can access interactive lessons on the site, and use the versions section on the GitHub page to download resources in PDF or e-book format.
+
+- [Official source →](https://www.hello-algo.com)
 
 ## Related dictionary terms
 
@@ -30,7 +32,7 @@ Hello 算法 is an open source educational platform that teaches data structures
 
 ## Links
 
-- [GitHub repository →](https://www.hello-algo.com)
+- [GitHub repository →](https://github.com/krahets/hello-algo)
 - [Read in Turkish →](https://trescout.com/discover/hello-algo/)
 
 TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-16: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.

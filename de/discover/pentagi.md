@@ -2,16 +2,16 @@
 
 Pentagi wurde mit der Go-Sprache entwickelt und bietet ein System vollständig autonomer künstlicher Intelligenz-Agenten (KI-Agenten), die komplexe Penetrationstests durchführen können. Das System zielt darauf ab, autonome Arbeitsabläufe zur Erkennung und Ausnutzung von Schwachstellen zu standardisieren.
 
-- ★ 28.092
+- ★ 30.107
 - Go
 - GitHub Trending · 2026-07-10
 
 ## Aktualisierungen
 
+- **15. Oktober 2026:** Sterne 28,092 → 30,107, neueste Version v2.2.0 (5. Oktober 2026).
 - **13. Oktober 2026:** Sterne 26,612 → 28,092, neueste Version v2.2.0 (5. Oktober 2026).
 - **12. Oktober 2026:** Sterne 25,256 → 26,612, neueste Version v2.2.0 (5. Oktober 2026).
 - **5. Oktober 2026:** Sterne 24,299 → 25,256, neueste Version v2.2.0 (5. Oktober 2026).
-- **14. September 2026:** Sterne 22,593 → 24,299, neueste Version v2.1.0 (29. Mai 2026).
 
 ## Was es bringt
 
