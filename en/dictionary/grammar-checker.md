@@ -1,6 +1,6 @@
 # What is Grammar Checker?
 
-*Dictionary · AI · Last updated: July 25, 2026*
+*AI · Last updated: July 25, 2026*
 
 They are software that automatically detects and corrects grammar, spelling and punctuation errors in written texts.
 

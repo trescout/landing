@@ -44,7 +44,7 @@ Você pode instalá-lo como um pacote npm (ecc-universal) ou como um aplicativo 
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o sistema da operadora ECC executando os comandos '/plugin marketplace add https://github.com/affaan-m/ECC' e depois '/plugin install ecc@ecc' no Claude Code; em seguida, use o comando /security-scan para executar uma verificação de segurança em meu projeto.
 

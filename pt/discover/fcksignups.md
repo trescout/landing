@@ -29,7 +29,7 @@ npm run dev
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Usando a lista de ferramentas de código aberto fornecida pelo projeto NoSignups, liste serviços digitais focados em privacidade que não exigem registro ou e-mail do usuário. Explique como essas ferramentas são agrupadas em categorias como design, desenvolvimento, produtividade e análise de dados. Forneça orientação sobre como encontrar alternativas que não exijam a criação de conta.
 

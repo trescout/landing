@@ -43,7 +43,7 @@ prefect server start
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Python kullanarak veri iş akışlarımı otomatize etmek istiyorum. Prefect kütüphanesindeki flow ve task dekoratörlerini kullanarak basit bir veri hattı oluşturmama yardımcı ol. Hata yönetimi, zamanlama ve izleme özelliklerini nasıl entegre edebileceğimi, bir Python dosyasını nasıl üretim seviyesinde bir iş akışına dönüştürebileceğimi örnek kodlarla açıkla.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/prefect/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

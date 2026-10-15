@@ -1,6 +1,6 @@
 # Qu'est-ce que GPU ?
 
-*Glossaire · Dev · Dernière mise à jour : 29 juin 2026*
+*Dev · Dernière mise à jour : 29 juin 2026*
 
 > Graphics Processing Unit
 

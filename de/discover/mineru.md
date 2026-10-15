@@ -39,7 +39,7 @@ uv pip install -e .[all]
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die komplexen PDF- und Office-Dokumente, die ich habe, in ein Format konvertieren, das mein Agent für künstliche Intelligenz verstehen kann. Ich muss diese Dateien mit dem MinerU-Tool in das Markdown- oder JSON-Format konvertieren. Wie kann ich diesen Transformationsprozess starten und die Ergebnisse in meinen agentenbasierten Arbeitsabläufen am effizientesten nutzen?
 

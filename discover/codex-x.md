@@ -42,7 +42,7 @@ pnpm --dir apps/desktop tauri build
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Codex-X kullanarak yapay zekâ kodlama asistanım için hazırladığım istem şablonlarını ve sağlayıcı ayarlarını tek bir görsel arayüzde toplamak istiyorum. Uygulamayı yerel ortamımda kurup başlatarak API anahtarlarımı yapılandırmama ve oturum geçmişimi senkronize etmeme yardım et.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codex-x/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

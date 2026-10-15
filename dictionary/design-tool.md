@@ -1,6 +1,6 @@
 # Design Tool nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 23 Haziran 2026*
+*Geliştirme · Son güncelleme: 23 Haziran 2026*
 
 Görsel içerik, grafik veya kullanıcı arayüzleri oluşturmanızı sağlayan dijital tasarım yazılımıdır.
 
@@ -38,8 +38,8 @@ Yapay zekâ artık basit komutlarla karmaşık tasarımlar yapmanıza veya mevcu
 - [Generative UI](https://trescout.com/dictionary/generative-ui/)
 - [Frontend Stack](https://trescout.com/dictionary/frontend-stack/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/design-tool/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

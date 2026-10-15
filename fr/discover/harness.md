@@ -25,7 +25,7 @@ Ajouté comme compétence à Claude Code ; Ensuite, vous pouvez leur demander d
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez le plugin Harness en exécutant les commandes '/plugin marketplace add revfactory/harness' puis '/plugin install harnais@harness-marketplace' dans Claude Code, puis demandez-lui de mettre en place une équipe d'agents d'intelligence artificielle adaptée à mon projet en disant "Créer un harnais pour ce projet".
 

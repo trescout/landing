@@ -45,7 +45,7 @@ npx -y rea-agents@latest analyze /Applications/Notes.app
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar a ferramenta de engenharia reversa REA no meu sistema. Primeiro, conclua as etapas de instalação necessárias com o comando 'npx rea-agents setup' e estabeleça a conexão MCP (Model Context Protocol, protocolo de ferramentas de IA) para a minha interface de inteligência artificial. Em seguida, execute o comando 'npx -y rea-agents@latest doctor' para verificar as dependências, inspecionar um aplicativo local escolhido por mim e explicar com evidências como o recurso que estou procurando funciona.
 

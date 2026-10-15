@@ -42,7 +42,7 @@ agent-reach doctor
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Ayúdenme a instalar la herramienta Agent Reach. Instale automáticamente todas las herramientas y configuraciones necesarias en mi sistema usando el documento de instalación oficial en GitHub (https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md). Una vez que se complete la instalación, ejecute el comando de diagnóstico necesario para verificar qué plataformas están activas.
 

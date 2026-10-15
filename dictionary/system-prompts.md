@@ -1,6 +1,6 @@
 # System Prompts nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 10 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 10 Haziran 2026*
 
 Yapay zekanın nasıl davranacağını ve hangi kurallara uyacağını belirleyen temel talimatlar bütünüdür.
 
@@ -16,7 +16,7 @@ Geliştiriciler, modelin ayarlar kısmına veya API üzerinden sistem istemlerin
 
 ## Nerede kullanılır?
 
-ChatGPT gibi sohbet robotlarının arka planında, yapay zekâ uygulamalarının yapılandırma dosyalarında ve özel geliştirilmiş AI araçlarında kullanılır.
+ChatGPT gibi sohbet robotlarının arka planında, yapay zekâ uygulamalarının yapılandırma dosyalarında ve özel geliştirilmiş yapay zekâ araçlarında kullanılır.
 
 ## Sık karıştırılanlar
 
@@ -43,8 +43,8 @@ Modelin alakasız konulardan kaçınmasını ve tutarlı bir kişilik sergilemes
 - [System Prompts and Models of AI Tools](https://trescout.com/discover/system-prompts-and-models-of-ai-tools/)
 - [System Prompts Leaks](https://trescout.com/discover/system-prompts-leaks/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/system-prompts/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

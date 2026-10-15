@@ -43,7 +43,7 @@ npm run dev:energy     # energy.worldmonitor.app
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Worldmonitor aracını kullanarak küresel haber akışlarını, jeopolitik gelişmeleri ve altyapı verilerini analiz etmemi sağla. 500'den fazla haber kaynağını sentezleyerek askeri, ekonomik ve çevresel olaylar arasındaki korelasyonları belirle. Ülke istikrarsızlık endeksi ve finansal piyasa sinyalleri gibi verileri kullanarak durum farkındalığı oluştur ve karmaşık veri akışlarını görselleştirme konusunda rehberlik et.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/worldmonitor/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -39,7 +39,7 @@ python -m pytest
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a video showing my travels using the Timeline.json file I have. After installing the necessary dependencies in the Python environment, what command should I use to convert my 2025 data into a file named 'my_trip_2025.mp4' with 'steady' camera motion and 'balanced' compression settings?
 

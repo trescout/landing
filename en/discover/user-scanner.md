@@ -52,7 +52,7 @@ python3 user_scanner.py -e hedef@ornek.com
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Can you explain step by step how I can scan more than 465 platforms using a single username using the User-Scanner tool in a security audit, export the findings in JSON format and list suspicious profiles?
 

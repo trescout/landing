@@ -1,6 +1,6 @@
 # Was ist Code Review?
 
-*Glossar · Dev · Zuletzt aktualisiert: 6. Juli 2026*
+*Dev · Zuletzt aktualisiert: 6. Juli 2026*
 
 Dabei untersuchen Softwareentwickler gegenseitig ihre Codes, um Fehler zu finden und die Qualität zu verbessern.
 

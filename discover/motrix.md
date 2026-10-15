@@ -35,7 +35,7 @@ motrix add https://example.com/file.iso --save-dir ~/Downloads
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Motrix komut satırı arayüzünü kullanarak indirme görevlerini yönetmeme yardımcı ol. İndirme listesini görüntülemek için 'motrix list', yeni bir dosya eklemek için 'motrix add [URL] --save-dir [DİZİN]' ve indirme ilerlemesini canlı takip etmek için 'motrix watch --stats' komutlarını kullan. Uzak bir sunucuya bağlanmam gerekirse 'motrix pair' komutunu devreye al.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/motrix/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

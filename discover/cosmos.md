@@ -38,7 +38,7 @@ curl -sS -X POST http://localhost:8000/v1/videos/sync \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 NVIDIA Cosmos platformunu kullanarak fiziksel yapay zekâ uygulamaları geliştirmek istiyorum. Cosmos 3 model ailesinin sunduğu yetenekleri, özellikle 'Reasoner' ve 'Generator' yüzeylerinin kullanım farklarını, bu modellerin robotik ve otonom sistemlerdeki görev planlama veya dünya simülasyonu gibi senaryolarda nasıl yapılandırılacağını teknik detaylarıyla açıkla. Ayrıca, kurulum aşamasında 'uv' aracı ve 'vllm-omni' kütüphanesi ile çalışma süreçlerini, CUDA sürücü gereksinimlerini göz önünde bulundurarak adım adım özetle.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cosmos/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

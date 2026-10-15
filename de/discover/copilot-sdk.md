@@ -28,7 +28,7 @@ npm install @github/copilot-sdk
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem GitHub Copilot SDK einen benutzerdefinierten KI-Workflow in meiner Anwendung erstellen. Wie kann ich die vom SDK bereitgestellte Agentenlaufzeit konfigurieren und Planungs- und Ride-Hailing-Funktionen in meine eigene Anwendungslogik integrieren? Können Sie mir bitte die Schritte erläutern, die ich bei der Verbindung mit verschiedenen LLM-Anbietern befolgen sollte, insbesondere bei Verwendung der BYOK-Methode (Bring Your Own Key)?
 

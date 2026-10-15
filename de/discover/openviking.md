@@ -42,7 +42,7 @@ ov chat   # in another terminal
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie mithilfe der OpenViking-Datenbank ein Kontextmanagement für einen Agenten für künstliche Intelligenz. Es strukturiert die Informationen über das viking://-Protokoll, indem es die Informationen in L0-Zusammenfassungs-, L1-Übersichts- und L2-Detailschichten unterteilt. Indem der Speicher, die Ressourcen und die Fähigkeiten des Agenten in diesem virtuellen Dateisystem platziert werden, kann er während der Abfrage durch Verzeichnisse navigieren und durch Lernen aus vergangenen Sitzungen ein Langzeitgedächtnis erstellen.
 

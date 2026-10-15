@@ -1,6 +1,6 @@
 # ¿Qué es Wordlists?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Wordlist (lista de palabras en turco) es la lista de candidatos evaluados en la prueba de seguridad.
 

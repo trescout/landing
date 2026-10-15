@@ -29,7 +29,7 @@ git clone https://github.com/zhaoxuya520/reverse-skill.git
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Verwenden Sie dieses Projekt als Leitfaden für eine Penetrationstest- oder Reverse-Engineering-Aufgabe. Bevor Sie Ihre Aufgabe ausführen, lesen Sie die Anweisungen in der Datei README_AI.md, befolgen Sie die Routing-Regeln in der Datei RULES.md und starten Sie den Workflow, indem Sie über MASTER-ROUTING.md die richtige Methodik bestimmen.
 

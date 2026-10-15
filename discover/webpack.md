@@ -35,7 +35,7 @@ yarn add webpack --dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir web geliştiricisi olarak, projelerimdeki JavaScript dosyalarını ve diğer statik varlıkları verimli bir şekilde paketlemek istiyorum. Webpack kullanarak modüllerimi nasıl yönetebilirim, kod bölme işlemini nasıl yapılandırabilirim ve projeme uygun yükleyicileri (loaders) nasıl tanımlayabilirim? Başlangıç seviyesinde bir yapılandırma dosyası örneği oluşturmama yardımcı ol.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/webpack/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

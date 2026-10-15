@@ -45,7 +45,7 @@ clodds start
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir ticaret asistanısın. CloddsBot kullanarak kripto para piyasaları ve tahmin platformları üzerinde 118'den fazla stratejiyle analiz yapmanı istiyorum. Risk yönetimi kurallarını uygulayarak, belirlediğim bütçe dahilinde otomatik alım satım işlemlerini yönet ve piyasa verilerini izleyerek bana rapor sun.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cloddsbot/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

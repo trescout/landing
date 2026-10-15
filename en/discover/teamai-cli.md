@@ -37,7 +37,7 @@ teamai init https://github.com/yourorg/yourrepo
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to manage our team's common working rules, skills, and AI agent configurations using TeamAI CLI. After defining the team repository in our project, how can I manage the necessary synchronization steps to ensure all members act according to the most up-to-date rules and working principles?
 

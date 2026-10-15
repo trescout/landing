@@ -1,6 +1,6 @@
 # O que é Syntax?
 
-*Glossário · Dev · Última atualização: 5 de setembro de 2026*
+*Dev · Última atualização: 5 de setembro de 2026*
 
 São as regras de escrita que devem ser seguidas para que o código funcione sem erros em uma linguagem de programação.
 

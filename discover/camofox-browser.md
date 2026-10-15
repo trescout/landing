@@ -48,7 +48,7 @@ npm install && npm start
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir web tarayıcı yöneticisisin. Camofox-browser kullanarak hedef web sitelerine erişim sağla. Bot tespitine takılmamak için C++ seviyesinde gizlenen bu tarayıcıyı kullan. Web sayfalarından veri çekerken ham HTML yerine daha hafif olan erişilebilirlik anlık görüntülerini (accessibility snapshots) tercih et. Etkileşim kurman gereken öğeler için kararlı tanımlayıcıları kullan ve oturumları kullanıcı bazlı yalıtarak yönet.
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/camofox-browser/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -41,7 +41,7 @@ docker compose -f docker-compose-simple.yml up -d
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine hochperformante Objektspeicherumgebung mit RustFS aufbauen. Wie kann ich die S3-Kompatibilität des Systems nutzen, um meine Daten zu verwalten, und worauf sollte ich bei der Skalierung in einer verteilten Architektur achten? Führen Sie mich Schritt für Schritt durch die Installation und die grundlegenden Konfigurationseinstellungen dieses unter der Apache 2.0-Lizenz stehenden Systems.
 

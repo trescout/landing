@@ -1,6 +1,6 @@
 # Qu'est-ce que Text-to-CAD ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 juillet 2026*
+*Dev · Dernière mise à jour : 22 juillet 2026*
 
 > Text to Computer-Aided Design
 

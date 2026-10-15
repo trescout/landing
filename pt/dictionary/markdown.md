@@ -1,6 +1,6 @@
 # O que é Markdown?
 
-*Glossário · Dev · Última atualização: 3 de junho de 2026*
+*Dev · Última atualização: 3 de junho de 2026*
 
 Uma linguagem de formatação leve usada para formatar texto, permitindo escrever com caracteres simples.
 

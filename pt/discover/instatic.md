@@ -29,7 +29,7 @@ INSTATIC_IMAGE=ghcr.io/corebunch/instatic:latest docker compose -f compose.prod.
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Usando o agente de inteligência artificial na interface de edição de páginas, crie nós editáveis que atendam aos critérios de design especificados, tenham uma estrutura HTML semântica e sejam formatados com CSS. Permita que o agente se integre com modelos como Claude, OpenAI ou OpenRouter para construir automaticamente a estrutura da página e os componentes de conteúdo.
 

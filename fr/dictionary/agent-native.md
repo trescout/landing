@@ -1,6 +1,6 @@
 # Qu'est-ce que Agent-native ?
 
-*Glossaire · AI · Dernière mise à jour : 16 août 2026*
+*AI · Dernière mise à jour : 16 août 2026*
 
 Les systèmes sont conçus pour prendre des décisions autonomes sans attendre les commandes humaines.
 

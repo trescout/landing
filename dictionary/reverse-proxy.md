@@ -1,6 +1,6 @@
 # Reverse Proxy nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 7 Haziran 2026*
+*Geliştirme · Son güncelleme: 7 Haziran 2026*
 
 İnternetten gelen istekleri karşılayıp uygun sunuculara dağıtan ve güvenliği sağlayan bir trafik yönlendiricisidir.
 
@@ -43,8 +43,8 @@ Hem bir yazılım hem de bu yazılımın çalıştığı bir sunucu katmanıdır
 - [OmniRoute](https://trescout.com/discover/omniroute/)
 - [Nginx](https://trescout.com/discover/nginx/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/reverse-proxy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

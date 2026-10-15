@@ -33,7 +33,7 @@ npx wigolo doctor
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Wigolo kullanarak web üzerinde araştırma yap, verileri çek ve bulgularını kaynak göstererek sentezle. İşlemleri gerçekleştirirken yerel öncelikli (local-first) çalışma prensibine sadık kal, API anahtarı gerektirmeyen temel araçları kullan ve elde ettiğin sonuçları yapılandırılmış bir şekilde raporla.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wigolo/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

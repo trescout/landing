@@ -15,7 +15,7 @@ FreeLLMAPI fornece roteamento inteligente e tolerância a falhas agregando 34 di
 
 ## O que você ganha
 
-- 34 provedores de modelos gratuitos: acesso completo a dezenas de provedores gratuitos, incluindo Google Gemini, Groq, Cloudflare Workers AI e HuggingFace.
+- 34 provedores de modelos gratuitos: acesso completo a dezenas de provedores gratuitos, incluindo Google Gemini, Groq, Cloudflare Workers AI e Hugging Face.
 - Compatibilidade da API REST OpenAI: trabalhe com LangChain, LlamaIndex e aplicativos de IA existentes sem alterar o código, graças ao endpoint /v1/chat/completions.
 - Roteamento inteligente e recuperação de falhas: Mude automaticamente para um provedor alternativo quando um provedor atingir o limite de taxa ou falhar.
 - Suporte a streaming (eventos enviados pelo servidor): Possibilidade de receber saídas do modelo como um fluxo palavra por palavra em tempo real.
@@ -57,7 +57,7 @@ curl http://localhost:3000/v1/chat/completions \
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você pode explicar com exemplos de código como executar a ferramenta FreeLLMAPI em meu servidor local com Docker, como apontar o SDK OpenAI Node.js para este endpoint local e como habilitar o uso de um modelo de fallback automático quando um provedor falha?
 

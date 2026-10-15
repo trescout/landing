@@ -49,7 +49,7 @@ bun run index.tsx
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I run a JavaScript or TypeScript-based project faster using Bun and what should I pay attention to when porting my Node.js projects to Bun? Explain step by step how I can integrate the package manager and testing tool features offered by Bun into my project.
 

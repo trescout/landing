@@ -72,7 +72,7 @@ Kusursuz bir ev medya sunucusu (Homelab) için Sonarr diğer açık kaynak araç
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Ev sunucumda Docker üzerinde Sonarr, qBittorrent, Prowlarr ve Jellyfin servislerini birlikte çalıştırmak istiyorum. Sabit bağlantıların (hardlink) sorunsuz çalışması için tek bir kök dizin bağlama (volume mount) yapısını içeren eksiksiz bir docker-compose.yml dosyası ve Sonarr web panelinde yapmam gereken ilk ayarları adım adım açıklar mısın?
 
@@ -105,4 +105,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sonarr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

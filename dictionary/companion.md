@@ -1,6 +1,6 @@
 # Companion nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 16 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 16 Temmuz 2026*
 
 Kullanıcıyla sohbet eden, ona yardımcı olan veya günlük işlerinde eşlik eden dijital asistandır.
 
@@ -43,8 +43,8 @@ Evet, günümüzde birçok uygulama üzerinden kişisel yapay zekâ arkadaşın�
 - [AIRI](https://trescout.com/discover/airi/)
 - [Invidious](https://trescout.com/discover/invidious/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/companion/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

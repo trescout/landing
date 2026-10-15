@@ -35,7 +35,7 @@ npm install -g @openai/codex
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Starten Sie eine Überprüfung meines vorhandenen Codes mithilfe des Codex-Plugins in Claude Code und berichten Sie über die Ergebnisse. Wenn es sich um eine komplexe Aufgabe handelt, delegieren Sie sie mit dem Befehl /codex:rescue an Codex und führen Sie sie im Hintergrund aus, damit ich den Fortschritt mit /codex:status verfolgen kann.
 

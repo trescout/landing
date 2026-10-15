@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to convert the document I have into an editable presentation file using PPT-Master. Analyze the content of the document, create the slide structure, add the necessary animations and speaker notes to prepare a professional PPTX file. Rest assured that I can make changes to the resulting presentation within PowerPoint.
 

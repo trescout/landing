@@ -37,7 +37,7 @@ git clone https://github.com/SnailSploit/claude-red ~/.claude/skills/claude-red
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Şu andan itibaren bir sızma testi uzmanı gibi davranmanı istiyorum. Paylaştığım beceri dosyalarındaki metodolojileri kullanarak güvenlik açıklarını analiz et, saldırı yüzeylerini değerlendir ve siber güvenlik araştırmalarımda bana rehberlik et.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-red/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

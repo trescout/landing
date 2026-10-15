@@ -49,7 +49,7 @@ docker compose -f docker-compose.local.yml logs sub2api | grep "admin password"
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich mithilfe der Sub2API-Plattform verschiedene KI-Dienste wie Claude, OpenAI, Gemini und Grok über ein einziges API-Gateway konfigurieren? Erklären Sie die grundlegenden Schritte, die ich befolgen muss, um meine Abonnementkontingente effizient zuzuweisen und sie in meine vorhandenen Softwaretools zu integrieren. Fassen Sie außerdem die rechtlichen und technischen Aspekte zusammen, auf die ich achten muss, um bei der Nutzung dieser Plattform die Nutzungsbedingungen von Anbietern wie Anthropic einzuhalten.
 

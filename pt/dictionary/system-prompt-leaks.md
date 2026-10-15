@@ -1,6 +1,6 @@
 # O que é System Prompt Leaks?
 
-*Glossário · AI · Última atualização: 8 de julho de 2026*
+*AI · Última atualização: 8 de julho de 2026*
 
 É a revelação das instruções ocultas da inteligência artificial pelo usuário.
 

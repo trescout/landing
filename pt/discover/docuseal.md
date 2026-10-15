@@ -43,7 +43,7 @@ sudo HOST=your-domain-name.com docker compose up
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso otimizar meus processos de assinatura digital de documentos usando DocuSeal? Explique as etapas que preciso seguir para tornar os formulários PDF preenchíveis on-line, configurar a verificação de assinatura e os recursos de gerenciamento de usuários em meu próprio servidor. Além disso, oriente-me sobre como ativar notificações automáticas por e-mail com configurações SMTP após a instalação via Docker.
 

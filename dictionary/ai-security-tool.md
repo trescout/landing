@@ -1,6 +1,6 @@
 # AI Security Tool nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 29 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 29 Haziran 2026*
 
 Yapay zekâ modellerini siber saldırılara, veri sızıntılarına ve kötü niyetli manipülasyonlara karşı koruyan yazılım.
 
@@ -42,8 +42,8 @@ Evet, her veri denetimden geçtiği için çok küçük bir gecikme yaşanabilir
 
 - [Strix](https://trescout.com/discover/strix/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-security-tool/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

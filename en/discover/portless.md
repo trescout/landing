@@ -42,7 +42,7 @@ portless myapp next dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want the services running in my local development environment to use persistent addresses with the .localhost extension instead of port numbers. Run my project using the Portless tool and enable me to access my services via identifiable addresses like https://myapp.localhost.
 

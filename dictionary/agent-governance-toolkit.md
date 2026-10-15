@@ -1,6 +1,6 @@
 # Agent Governance Toolkit nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 29 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 29 Temmuz 2026*
 
 Otonom yapay zekâ sistemlerinin güvenli, etik ve kurallara uygun çalışmasını sağlayan yönetim araçları setidir.
 
@@ -42,8 +42,8 @@ Sadece güvenlik duvarı ile karıştırılmamalıdır; bu araçlar etik ve oper
 
 - [Agent Governance Toolkit](https://trescout.com/discover/agent-governance-toolkit/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-governance-toolkit/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

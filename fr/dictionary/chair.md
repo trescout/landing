@@ -1,6 +1,6 @@
 # Qu'est-ce que Chair ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Un chair (en français, président ou présidente) est la personne qui dirige un conseil d'administration et supervise la direction d'une institution.
 

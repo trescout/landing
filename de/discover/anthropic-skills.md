@@ -35,7 +35,7 @@ Sie definieren den relevanten Skill als Skill für Claude (z. B. Claude Code ode
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Fügen Sie in Claude Code das Skills-Repository von Anthropic als Marktplatz mit dem Befehl „/plugin marketplace add anthropics/skills“ hinzu und installieren Sie dann Document Skills mit „/plugin install document-skills@anthropic-agent-skills“; Bitten Sie ihn dann, die entsprechende Fähigkeit einzusetzen, um beispielsweise Formularfelder aus einem PDF zu extrahieren.
 

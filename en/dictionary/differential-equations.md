@@ -1,6 +1,6 @@
 # What is Differential Equations?
 
-*Dictionary · Data · Last updated: September 9, 2026*
+*Data · Last updated: September 9, 2026*
 
 Fundamental mathematical equations used in physics and engineering that calculate the rates of change of variables with respect to each other.
 

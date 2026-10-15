@@ -36,7 +36,7 @@ curl -L "https://github.com/unclebob/swarm-forge/archive/refs/heads/${BRANCH}.ta
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres parte de un equipo de desarrollo de software. Complete la tarea que se le asignó siguiendo las reglas del sistema Swarm Forge y los archivos de configuración en el directorio del proyecto. Trabaje en colaboración con otros agentes mientras realiza sus tareas, utilice árboles de trabajo de Git y mantenga la calidad del código, la capacidad de prueba y los estándares arquitectónicos al adherirse a las definiciones de roles establecidas.
 

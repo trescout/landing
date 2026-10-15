@@ -1,6 +1,6 @@
 # ¿Qué es PDF Inspector?
 
-*Glosario · Data · Última actualización: 6 de agosto de 2026*
+*Data · Última actualización: 6 de agosto de 2026*
 
 Es una herramienta que le permite examinar en detalle el texto, los datos visuales y estructurales de los documentos PDF y detectar errores.
 

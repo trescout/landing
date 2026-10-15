@@ -1,6 +1,6 @@
 # CRO nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 6 Temmuz 2026*
+*Veri & Altyapı · Son güncelleme: 6 Temmuz 2026*
 
 > Conversion Rate Optimization
 
@@ -40,8 +40,8 @@ Test süreçleri ve veri toplama aşamaları olduğu için sabırlı olunması g
 
 - [Marketingskills](https://trescout.com/discover/marketingskills/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/cro/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

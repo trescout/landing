@@ -30,7 +30,7 @@ open http://localhost:31337
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim için Personal AI Infrastructure (PAI) sistemini kullanarak kişisel bir yaşam işletim sistemi kurmak istiyorum. Mevcut kurulum komutunu kullanarak sistemi hazır hale getirmeme ve ardından localhost:31337 adresindeki yaşam panosu üzerinden ilk mülakatımı yaparak dijital asistanımı yapılandırmama yardımcı olur musun?
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/personal-ai-infrastructure/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

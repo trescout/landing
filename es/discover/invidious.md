@@ -66,7 +66,7 @@ Utiliza el proyecto de acuerdo con la normativa aplicable. El texto oficial de r
 
 ## Primer prompt
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Qué diferencias hay entre utilizar una instancia pública de Invidious y alojar mi propia instancia?
 

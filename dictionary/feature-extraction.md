@@ -1,6 +1,6 @@
 # Feature Extraction nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 13 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 13 Ekim 2026*
 
 Metinlerdeki önemli bilgileri alıp bunları bilgisayarın anlayabileceği sayısal verilere dönüştüren bir süreç.
 
@@ -40,8 +40,8 @@ Metin, ses, görsel ve sayısal zaman serisi verilerinin hepsinde kullanılabili
 - [NLP](https://trescout.com/dictionary/nlp/)
 - [Data Pipeline](https://trescout.com/dictionary/data-pipeline/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/feature-extraction/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

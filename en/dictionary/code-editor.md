@@ -1,6 +1,6 @@
 # What is Code Editor?
 
-*Dictionary · Dev · Last updated: September 27, 2026*
+*Dev · Last updated: September 27, 2026*
 
 A special text editor that developers use to benefit from features such as syntax highlighting and error checking while writing computer code.
 

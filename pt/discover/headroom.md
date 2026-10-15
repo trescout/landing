@@ -37,7 +37,7 @@ headroom perf
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero otimizar o consumo de dados contextuais e arquivos de log do meu agente de IA usando a ferramenta Headroom. Concluí a instalação com o comando "pip install "headroom-ai[all]"" no ambiente Python. Como devo configurar os comandos "headroom wrap claude" ou "headroom proxy --port 8787" para reduzir a quantidade de tokens que meu agente usa? Além disso, como devo interpretar os dados de economia obtidos com o comando "headroom perf"?
 

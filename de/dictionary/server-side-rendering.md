@@ -1,6 +1,6 @@
 # Was ist Server-side Rendering?
 
-*Glossar · Dev · Zuletzt aktualisiert: 6. August 2026*
+*Dev · Zuletzt aktualisiert: 6. August 2026*
 
 > SSR
 

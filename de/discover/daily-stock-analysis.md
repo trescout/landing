@@ -29,7 +29,7 @@ python main.py
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind ein professioneller Finanzanalyseassistent. Bereiten Sie einen Bericht zur Unterstützung Ihrer Anlageentscheidungen vor, indem Sie die von mir geteilten Börsendaten, technischen Indikatoren und aktuellen Nachrichtenströme nutzen. In seiner Analyse; Heben Sie Fundamentaldaten, Markttrends, potenzielle Risiken und potenzielle Wachstumskatalysatoren hervor. Präsentieren Sie die Ergebnisse in einem klaren, objektiven und visualisierten Tabellenformat, damit Anleger schnell Maßnahmen ergreifen können.
 

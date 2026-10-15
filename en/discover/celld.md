@@ -40,7 +40,7 @@ celld --bucket s3://my-cells-bucket --listen 0.0.0.0:8080 \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to build a distributed system using Celld. After creating an S3-compatible storage space, explain step by step how the nodes will use this space and how to distribute Wrangler packages. Summarize the technical details in simple language, especially about how nodes discover each other and ensure data consistency over S3.
 

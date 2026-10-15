@@ -35,7 +35,7 @@ Dale a tu agente superpoderes con TreScout; Los pasos de inicio rápido para Cla
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale el complemento Superpowers ejecutando el comando '/plugin install superpowers@claude-plugins-official' en Claude Code; A partir de ahora, cuando quiero mejorar algo, las habilidades entran en juego automáticamente.
 

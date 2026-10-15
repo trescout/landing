@@ -1,6 +1,6 @@
 # Qu'est-ce que Personal Cloud ?
 
-*Glossaire · Data · Dernière mise à jour : 22 septembre 2026*
+*Data · Dernière mise à jour : 22 septembre 2026*
 
 Le cloud personnel est un système cloud dans lequel les données résident sur votre propre appareil.
 

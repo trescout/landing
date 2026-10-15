@@ -1,6 +1,6 @@
 # Reverse Engineering nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 6 Ekim 2026*
+*Geliştirme · Son güncelleme: 6 Ekim 2026*
 
 Bitmiş bir ürünün, sistemin veya yazılımın nasıl çalıştığını anlamak için onu parçalarına ayırarak çalışma prensiplerini çözme sürecidir.
 
@@ -43,8 +43,8 @@ Fiziksel bir makineyi inceliyorsanız mekanik bilgi yeterlidir. Ancak dijital d�
 
 - [REA](https://trescout.com/discover/rea/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/reverse-engineering/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

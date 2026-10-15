@@ -1,6 +1,6 @@
 # ¿Qué es Benchmark?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 Un benchmark (con su equivalente en español, prueba de rendimiento) es la medición y comparación del desempeño mediante una prueba estándar.
 

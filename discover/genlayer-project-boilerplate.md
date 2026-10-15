@@ -38,7 +38,7 @@ npm run dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim için bir GenLayer akıllı sözleşmesi geliştir. Bu sözleşme internetten güncel verileri çekebilmeli ve yapay zekâ modelleriyle bu verileri işleyerek mantıksal kararlar verebilmeli. Kodun hata içermemesi için linter kurallarına uygun olmasını sağla ve geliştirme sürecinde hızlı geri bildirim almak için doğrudan bellek üzerinde çalışan test senaryoları oluştur.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/genlayer-project-boilerplate/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

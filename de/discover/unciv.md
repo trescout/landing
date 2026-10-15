@@ -43,7 +43,7 @@ Unciv ist eine Open-Source-, minimalistische und plattformübergreifende Desktop
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine gültige JSON-Mod-Struktur für das Spiel Unciv vorbereiten. Können Sie eine Beispiel-Unciv-Mod-Vorlage erstellen, die eine spezielle Kavallerieeinheit und ein spezielles Bibliotheksgebäude enthält, das als Anführerfähigkeit einen Bonus auf Wissenschafts- und Kulturproduktion verleiht? Können Sie Schritt für Schritt erklären, welche JSON-Dateien ich in welcher Ordnerstruktur speichern soll und wie ich dies über die Mod-Manager-Oberfläche im Spiel testen kann?
 

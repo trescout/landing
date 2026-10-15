@@ -43,7 +43,7 @@ docker compose up -d
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 AiToEarn platformunu kullanarak içerik üretim süreçlerimi otomatize etmek istiyorum. Öncelikle aitoearn.ai veya aitoearn.cn üzerinden bir hesap oluşturup API Key'imi aldım. Bu anahtarı kullanarak Claude, Cursor veya OpenClaw gibi araçlara entegrasyonu nasıl tamamlayabilirim? Ayrıca, içeriklerimi birden fazla sosyal medya platformunda eş zamanlı yayınlamak ve gelir elde etme modellerini (CPS, CPE, CPM) aktif etmek için izlemem gereken temel adımları açıklar mısın?
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/aitoearn/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

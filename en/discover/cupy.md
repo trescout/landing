@@ -27,7 +27,7 @@ docker run --gpus all -it cupy/cupy
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to take advantage of GPU acceleration in my Python code instead of NumPy or SciPy. How can I run my existing NumPy codes on the GPU using CuPy and integrate low-level CUDA features like RawKernels into my project?
 

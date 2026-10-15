@@ -37,7 +37,7 @@ go version
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit der Programmiersprache Go einfache, zuverlässige und effiziente Software entwickeln. Erklären Sie einem unerfahrenen Entwickler die grundlegende Syntax dieser Sprache, ihr Parallelitätsmanagement und wie sie in modernen Cloud-Computing-Projekten verwendet wird.
 

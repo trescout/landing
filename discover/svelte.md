@@ -42,7 +42,7 @@ npm run dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Svelte kütüphanesini kullanarak web uygulaması geliştirmek istiyorum. Svelte'in geleneksel çerçevelerden farkı olan derleme zamanı yaklaşımını ve bileşen tabanlı yapısını kullanarak basit bir web arayüzü oluşturmam için bana temel bir proje yapısı kur. Kodun tarayıcıda verimli çalışması için dikkat etmem gerekenleri açıkla.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/svelte/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

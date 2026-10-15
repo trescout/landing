@@ -33,7 +33,7 @@ choco install photogimp
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich den PhotoGIMP-Patch anwenden, der zum Konvertieren des GIMP-Programms in die Photoshop-Benutzeroberfläche und die Verknüpfungen erforderlich ist? Welche Sicherungsschritte sollte ich beachten, wenn ich die für mein Betriebssystem geeigneten Einstellungsdateien im GIMP-Ordner ablege?
 

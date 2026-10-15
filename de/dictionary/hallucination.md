@@ -1,6 +1,6 @@
 # Was ist Hallucination?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Künstliche Intelligenz stellt Informationen, die tatsächlich nicht existieren, so dar, als ob sie wahr wären.
 

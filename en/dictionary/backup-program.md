@@ -1,6 +1,6 @@
 # What is Backup Program?
 
-*Dictionary · Data · Last updated: September 22, 2026*
+*Data · Last updated: September 22, 2026*
 
 Backup program is software that copies data regularly.
 

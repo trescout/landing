@@ -78,7 +78,7 @@ Ce système n'est pas une source d'exactitude garantie. Utilisez des sauvegardes
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Démarrez un flux wiki Obsidian local en liant les sources aux registres de sources et d'affirmations.
 

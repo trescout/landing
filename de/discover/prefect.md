@@ -43,7 +43,7 @@ prefect server start
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meine Datenworkflows mit Python automatisieren. Helfen Sie mir, eine einfache Datenpipeline mit den Flow- und Task-Dekoratoren aus der Prefect-Bibliothek zu erstellen. Erklären Sie anhand von Beispielcodes, wie ich Fehlermanagement-, Planungs- und Überwachungsfunktionen integrieren und eine Python-Datei in einen Workflow auf Produktionsebene umwandeln kann.
 

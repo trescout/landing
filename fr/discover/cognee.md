@@ -43,7 +43,7 @@ cognee-cli -ui
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Grâce à Cognee, je souhaite stocker mes données dans une structure de graphe de connaissances et permettre à mon agent de rappeler ces données en les conservant dans sa mémoire à long terme. Veuillez créer un flux de travail qui me permettra de mémoriser des données avec la fonction cognee.remember() et de générer des réponses significatives basées sur ces données avec cognee.recall().
 

@@ -31,7 +31,7 @@ make setup
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero iniciar uma produção de vídeo utilizando o sistema OpenMontage. Quero que você gerencie todo o processo, desde a pesquisa até a edição, determinando o assunto, o tempo alvo e o estilo visual. Primeiro crie um plano de produção, faça uma estimativa de custos e prossiga para a produção de ativos com minha aprovação.
 

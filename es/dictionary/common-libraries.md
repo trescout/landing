@@ -1,6 +1,6 @@
 # ¿Qué es Common Libraries?
 
-*Glosario · Dev · Última actualización: 12 de julio de 2026*
+*Dev · Última actualización: 12 de julio de 2026*
 
 Paquetes de código preparados previamente para que los desarrolladores de software puedan realizar fácilmente operaciones utilizadas con frecuencia.
 

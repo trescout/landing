@@ -27,7 +27,7 @@ npm install page-agent
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero gerenciar interações na página da web com comandos de linguagem natural usando PageAgent. Quero que ele execute operações como clicar em botões da página, preencher formulários ou inserir dados usando o modelo de inteligência artificial que determinei.
 

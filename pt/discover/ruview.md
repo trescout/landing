@@ -72,7 +72,7 @@ O modo RSSI-only em laptop serve para detecção grosseira de presença e movime
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso avaliar um cenário simples de detecção de movimento usando dados CSI simulados do WiFi?
 

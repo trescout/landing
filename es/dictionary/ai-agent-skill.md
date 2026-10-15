@@ -1,6 +1,6 @@
 # ¿Qué es AI Agent Skill?
 
-*Glosario · AI · Última actualización: 6 de junio de 2026*
+*AI · Última actualización: 6 de junio de 2026*
 
 Son habilidades específicas que un agente de IA puede utilizar para completar un trabajo, como buscar en Internet u organizar un archivo.
 

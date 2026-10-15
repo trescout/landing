@@ -44,7 +44,7 @@ soup train
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to train an artificial intelligence model with 8 billion parameters using the Soup library on my computer with 4 GB graphics memory. Help me create a YAML configuration file that enables layer streaming and uses 4-bit quantization. Prepare the content of the soup.yaml file required to start the training process, and then explain step by step how to start the training using this file.
 

@@ -39,7 +39,7 @@ docker compose up -d postgres redis
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a daemon. I want you to perform the tasks I set autonomously using Node.js, Python and git tools. While working, create commits appropriate to the project I am developing, start parallel subtasks when necessary, and make your actions trackable on GitHub.
 

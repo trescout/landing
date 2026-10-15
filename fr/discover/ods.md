@@ -51,14 +51,14 @@ python -m ods.server --port 8000
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pouvez-vous expliquer, avec le code et les étapes du terminal, comment importer les documents PDF de mon entreprise dans la base de données vectorielles locale en installant le serveur ODS sur mon ordinateur personnel, puis comment effectuer des requêtes Q&R RAG basées sur ces documents via un modèle Llama 3 local ?
 
 ## Questions fréquemment posées
 
 - Est-ce que ça fonctionne complètement hors ligne sans connexion Internet ? Oui. Une fois les poids de modèle requis téléchargés, ODS peut fonctionner dans des environnements complètement hors ligne (avec espace d'air) sans nécessiter de connexion réseau.
-- Quels formats de modèles prend-il en charge ? Prend en charge tous les modèles ouverts (Llama 3, Mistral, Qwen, DeepSeek) et les poids HuggingFace purs au format GGUF.
+- Quels formats de modèles prend-il en charge ? Prend en charge tous les modèles ouverts (Llama 3, Mistral, Qwen, DeepSeek) et les poids Hugging Face purs au format GGUF.
 - Existe-t-il une interface Web disponible ? Oui. ODS est livré avec un panneau Web intégré ; Vous pouvez gérer des modèles, télécharger des fichiers et ouvrir des sessions de discussion.
 - Est-ce que ça fonctionne avec CPU uniquement, sans GPU ? Oui. Grâce au noyau llama.cpp, il peut également fonctionner sur un processeur pur avec une grande efficacité en utilisant les jeux d'instructions AVX2/AVX-512.
 

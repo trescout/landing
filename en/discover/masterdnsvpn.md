@@ -39,7 +39,7 @@ docker run -d \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to establish a secure connection via DNS tunneling in a censored network using the MasterDnsVPN tool. How can I configure the server side using the shared auto-install script and what basic steps should I follow to ensure the connection on the client side? Please detail the network requirements I should pay attention to during the installation process and the method of running it via Docker.
 

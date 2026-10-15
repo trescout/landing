@@ -34,7 +34,7 @@ conda activate olmocr
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki PDF belgelerini yapay zekâ modellerinin kolayca okuyabileceği temiz bir Markdown formatına dönüştürmek istiyorum. Bu işlem için gerekli olan kurulum adımlarını ve yerel GPU üzerinde çalıştırma yöntemini bana adım adım açıklar mısın?
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/olmocr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

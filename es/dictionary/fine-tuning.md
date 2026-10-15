@@ -1,6 +1,6 @@
 # ¿Qué es Fine-tuning?
 
-*Glosario · AI · Última actualización: 3 de junio de 2026*
+*AI · Última actualización: 3 de junio de 2026*
 
 Es el proceso de entrenar específicamente un modelo de inteligencia artificial ya preparado para una tarea o área de especialización específica.
 

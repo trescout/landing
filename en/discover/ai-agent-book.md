@@ -29,7 +29,7 @@ cd book && bash build_pdf.sh
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are an artificial intelligence agent development expert. Explain me step by step how to set up an agent's memory system and integrate external tools (tool calling), based on the formula 'Agent = LLM + Context + Tools'. Explain with examples which engineering approaches I should use to optimize context management, especially in RAG (Retrieval-Augmented Generation) processes.
 

@@ -26,7 +26,7 @@ npx skills add aws/agent-toolkit-for-aws/skills
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 AWS üzerinde uygulama geliştirme, dağıtma ve yönetme süreçlerimde bana yardımcı ol. Agent Toolkit for AWS yeteneklerini kullanarak AWS servisleriyle etkileşime geç, gerekli yapılandırmaları yap ve bulut altyapısı üzerindeki işlemlerimi standartlara uygun şekilde yürüt.
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-toolkit-for-aws/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

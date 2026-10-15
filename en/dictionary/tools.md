@@ -1,6 +1,6 @@
 # Tools: Developer tooling, Function Calling, and MCP
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Tools in computing refer to two pivotal domains: specialized software utilities that accelerate developer productivity, and structured interfaces enabling AI models to execute code, query APIs, and interact with the physical world.
 

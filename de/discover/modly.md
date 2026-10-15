@@ -51,7 +51,7 @@ launch.bat
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit der Modly-Anwendung ein Bild in ein 3D-Modell konvertieren. Helfen Sie mir, den Ablauf „Bild -> Netz generieren -> Zur Szene hinzufügen“ einzurichten, indem Sie in der Anwendung auf die Registerkarte „Workflows“ gehen. Lassen Sie mich dann mit der Generierung des 3D-Modells beginnen, indem ich auf der Registerkarte „Generieren“ den entsprechenden Workflow auswähle. Wenn ich eine Fehlermeldung erhalte, wie kann ich das Problem im Abschnitt „Einstellungen/Protokolle/Fehler“ analysieren?
 

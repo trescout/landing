@@ -32,7 +32,7 @@ npm run dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise OpenWhispr pour transcrire mes notes vocales et mes enregistrements de réunions. Je souhaite créer un environnement de travail axé sur la confidentialité ; comment puis-je effectuer des transcriptions de la manière la plus efficace en utilisant des modèles locaux sans que mes données audio ne quittent mon appareil, et comment puis-je configurer les fonctionnalités d'assistant IA dans mon flux de travail ?
 

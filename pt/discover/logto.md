@@ -36,7 +36,7 @@ npm init @logto
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar um sistema de autenticação seguro para meu aplicativo usando o Logto. Como posso configurar recursos de multilocação e controle de acesso baseado em função nesta estrutura baseada nos protocolos OIDC e OAuth 2.1? Você pode explicar as etapas básicas que preciso seguir para gerenciar fluxos de login de usuários e integração de SSO empresarial em meu projeto de SaaS?
 

@@ -1,6 +1,6 @@
 # Launcher nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 18 Eylül 2026*
+*Geliştirme · Son güncelleme: 18 Eylül 2026*
 
 Bilgisayar veya mobil cihazlarda uygulamaları hızla bulup başlatmanızı sağlayan bir arayüz aracıdır.
 
@@ -43,8 +43,8 @@ Bilgisayarın çalışma hızını doğrudan artırmaz, ancak sizin uygulama aç
 - [Tinycast](https://trescout.com/discover/tinycast/)
 - [YimMenuV2](https://trescout.com/discover/yimmenuv2/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/launcher/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

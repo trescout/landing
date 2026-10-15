@@ -48,7 +48,7 @@ npx ui-skills get baseline-ui
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 As a design engineer, I want to improve my interface development skills. Using the UI Skills tool, list the technical competencies in the motion category and explain the steps required to acquire the baseline-UI skill.
 

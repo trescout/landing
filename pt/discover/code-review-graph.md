@@ -43,7 +43,7 @@ code-review-graph build
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Este projeto tem gráfico de revisão de código instalado. Crie o gráfico de revisão de código do projeto e peça ao meu assistente de IA para analisar as alterações do código lendo apenas o contexto necessário.
 

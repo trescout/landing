@@ -1,6 +1,6 @@
 # Qu'est-ce que Fingerprint ?
 
-*Glossaire · Data · Dernière mise à jour : 12 octobre 2026*
+*Data · Dernière mise à jour : 12 octobre 2026*
 
 > Device Fingerprint
 

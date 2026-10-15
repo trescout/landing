@@ -61,7 +61,7 @@ It is usually installed on your own server with Docker; installation steps are i
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to install an open source CRM called Twenty; create a new app in the terminal with the command 'npx create-twenty-app my-app', then publish it to my workspace with 'npx twenty app:publish --private'. Also tell me how to run it with Docker Compose for self-hosting.
 

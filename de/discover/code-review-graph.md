@@ -43,7 +43,7 @@ code-review-graph build
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 In diesem Projekt ist Code-Review-Graph installiert. Bitte erstellen Sie das Codeüberprüfungsdiagramm des Projekts und lassen Sie meinen KI-Assistenten die Codeänderungen analysieren, indem er nur den erforderlichen Kontext liest.
 

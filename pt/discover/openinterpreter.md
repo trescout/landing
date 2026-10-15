@@ -37,7 +37,7 @@ i
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero que você atue como agente de codificação no meu computador. Espero que você automatize tarefas complexas executando código em meu ambiente local, testando aplicativos da Web ou locais quando necessário. Utilizar estruturas que otimizem modelos de baixo custo na realização de transações e executar meus comandos com segurança através do terminal.
 

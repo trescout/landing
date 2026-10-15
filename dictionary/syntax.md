@@ -1,6 +1,6 @@
 # Syntax nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 5 Eylül 2026*
+*Geliştirme · Son güncelleme: 5 Eylül 2026*
 
 Bir programlama dilinde kodun hatasız çalışması için uyulması gereken yazım kurallarıdır.
 
@@ -34,8 +34,8 @@ Hata mesajındaki satır numarasını kontrol edin ve yazım kurallarını tekra
 - [Script](https://trescout.com/dictionary/script/)
 - [Clean Code](https://trescout.com/dictionary/clean-code/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/syntax/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

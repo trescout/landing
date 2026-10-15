@@ -15,7 +15,7 @@ ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçların
 - **9 Eylül 2026:** Yıldız 245.070 → 254.644, son sürüm v2.2.1 (8 Eylül 2026).
 
 - **Kimin için:** Claude Code / Codex / Cursor kullanan geliştiriciler
-- **Zorluk:** Orta–ileri · AI asistanı kullanmaya aşina olmak gerekir
+- **Zorluk:** Orta–ileri · yapay zekâ asistanı kullanmaya aşina olmak gerekir
 - **Kurulum:** npm paketi (ecc-universal) ya da GitHub App
 - **Ücret:** Ücretsiz · açık kaynak (MIT)
 - **Çalışır:** Claude Code, Codex, Cursor, OpenCode…
@@ -52,7 +52,7 @@ npm paketi (`ecc-universal`) veya GitHub uygulaması olarak kurabilirsiniz. Adı
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code'da '/plugin marketplace add https://github.com/affaan-m/ECC' ve ardından '/plugin install ecc@ecc' komutlarını çalıştırarak ECC operatör sistemini kur; sonra projemde güvenlik taraması yapmak için /security-scan komutunu kullan.
 
@@ -75,4 +75,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ecc/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

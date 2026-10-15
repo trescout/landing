@@ -37,7 +37,7 @@ teamai init https://github.com/yourorg/yourrepo
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die gemeinsamen Arbeitsregeln, Fähigkeiten und KI-Agentenkonfigurationen unseres Teams mithilfe von TeamAI CLI verwalten. Wie kann ich nach der Definition des Team-Repositorys in unserem Projekt die notwendigen Synchronisierungsschritte verwalten, um sicherzustellen, dass alle Mitglieder gemäß den aktuellsten Regeln und Arbeitsprinzipien handeln?
 

@@ -33,7 +33,7 @@ npm install @zvec/zvec
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Zvec kütüphanesini kullanarak bir koleksiyon oluşturmam gerekiyor. Python dilinde bir şema tanımlayıp, bu şemaya uygun vektör verilerini eklememi ve ardından belirli bir vektör sorgusu ile arama yapmamı sağlayan örnek kodu oluşturur musun? Lütfen verilerin kalıcı olması için dosya yolu belirten bir yapı kullan.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/zvec/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

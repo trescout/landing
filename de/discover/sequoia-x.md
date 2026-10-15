@@ -40,7 +40,7 @@ python main.py
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Tool Sequoia-X verwenden, um Aktien am chinesischen Markt mittels technischer Analysemethoden zu scannen. Nachdem ich die notwendigen Installationen in meiner Python-Umgebung vorgenommen habe, werde ich den Backfill-Modus nutzen, um historische Daten zu laden, und anschließend den täglichen Betriebsmodus, um nach Marktschluss automatische Scans und Benachrichtigungen zu erhalten. Dabei möchte ich sicherstellen, dass die Daten in einer lokalen SQLite-Datenbank gespeichert und die Ergebnisse über Feishu versendet werden.
 

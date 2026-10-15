@@ -33,7 +33,7 @@ just dev     # starts backend + desktop app
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich kümmere mich um die Sprachtranskription und Synchronisation auf Voicebox. Helfen Sie mir, die am besten geeignete TTS-Engine für mein gewähltes Sprachprofil zu ermitteln, zeigen Sie mir, wie ich emotionale Betonung in Texten hinzufüge, und erklären Sie mir Schritt für Schritt, wie ich den voicebox.speak-Autoruf konfiguriere, der erforderlich ist, damit mein lokaler KI-Agent mit Sprache antworten kann.
 

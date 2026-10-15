@@ -37,7 +37,7 @@ npx cypress open
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit Cypress End-to-End-Testfälle für meine Webanwendung erstellen. Wie kann ich meine browserbasierten Tests konfigurieren, eine grundlegende Testdatei erstellen und ausführen, indem ich dieses Tool verwende, das ich mit den Befehlen npm install cypress --save-dev oder Yarn add cypress --dev in mein Projekt eingebunden habe?
 

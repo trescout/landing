@@ -1,6 +1,6 @@
 # O que é Durable Objects?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Objetos duráveis ​​são pequenas unidades de nuvem que mantêm seu estado.
 

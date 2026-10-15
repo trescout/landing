@@ -41,7 +41,7 @@ curl http://localhost:8080/v1/embeddings \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to run a model for an AI agent via the SIE server. How can I manage the tasks my agent needs, such as search, data extraction, and text generation, through a single API? How can I configure the embedding creation and text generation processes using the OpenAI-compatible endpoints provided by SIE?
 

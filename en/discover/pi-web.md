@@ -36,7 +36,7 @@ pi-web
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to visualize my work with the Pi coding agent and manage my sessions more efficiently. How can I view my local session files through the browser, edit my chat history, and preview my project files through the interface using the Pi Web tool? Explain step by step how I can make model configuration and talent management easier by using the workspace opened in the browser after installation.
 

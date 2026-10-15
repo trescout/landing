@@ -34,7 +34,7 @@ make deploy AX_IMAGE_REPO=<your-registry>
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Google tarafından geliştirilen ve yapay zekâ ajanları için orkestrasyon sağlayan AX aracını kurmak istiyorum. İlk olarak `go install github.com/google/ax/cmd/ax@latest` komutunu çalıştırarak komut satırı aracını yükleyin. Ardından `make deploy AX_IMAGE_REPO=\<your-registry>` komutunu kullanarak kontrol düzlemini dağıtın.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ax/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

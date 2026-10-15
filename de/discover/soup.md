@@ -44,7 +44,7 @@ soup train
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mithilfe der Soup-Bibliothek auf meinem Computer mit 4 GB Grafikspeicher ein Modell der künstlichen Intelligenz mit 8 Milliarden Parametern trainieren. Helfen Sie mir, eine YAML-Konfigurationsdatei zu erstellen, die Layer-Streaming ermöglicht und 4-Bit-Quantisierung verwendet. Bereiten Sie den Inhalt der Datei „soup.yaml“ vor, die zum Starten des Trainingsprozesses erforderlich ist, und erklären Sie dann Schritt für Schritt, wie Sie das Training mithilfe dieser Datei starten.
 

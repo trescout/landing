@@ -52,7 +52,7 @@ python -m microduck_rl.enjoy --checkpoint checkpoint.pt
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero treinar uma política de caminhada (walking) para o robô Microduck usando a biblioteca microduck_rl da Pollen Robotics. Você poderia explicar como configurar o ambiente MuJoCo, como iniciar o comando de treinamento com o algoritmo PPO e os passos para transferir a política de controle resultante para o robô físico?
 

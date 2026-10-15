@@ -36,7 +36,7 @@ python3 GhostTR.py
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je collecter des informations sur un numéro cible ou un nom d'utilisateur à l'aide de l'outil GhostTrack ? Expliquez étape par étape comment utiliser les fonctionnalités de suivi du téléphone, de suivi IP et de suivi du nom d'utilisateur proposées par l'outil.
 

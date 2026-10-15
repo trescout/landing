@@ -58,7 +58,7 @@ uv run main.py --help
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 MediaCrawler aracını kullanarak belirtilen sosyal medya platformundan veri çekmek istiyorum. Lütfen config/base_config.py dosyasındaki ayarları kontrol etmemi sağla ve xhs platformu için anahtar kelime araması yaparak gönderi ve yorum bilgilerini toplamam için gerekli olan uv run main.py komutunu nasıl yapılandırmam gerektiğini adım adım açıkla.
 
@@ -77,4 +77,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mediacrawler/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

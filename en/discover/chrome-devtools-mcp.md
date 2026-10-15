@@ -29,7 +29,7 @@ npm install -g chrome-devtools-mcp
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Connect to my active browser session using the Chrome DevTools MCP server and analyze performance data from my web application. Check network requests, examine console errors, and perform the necessary debugging steps to troubleshoot any issues I'm encountering.
 

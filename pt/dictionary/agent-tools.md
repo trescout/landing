@@ -1,6 +1,6 @@
 # O que é Agent Tools?
 
-*Glossário · AI · Última atualização: 27 de setembro de 2026*
+*AI · Última atualização: 27 de setembro de 2026*
 
 Softwares auxiliares que permitem à IA interagir com o mundo exterior ou realizar transações na Internet.
 

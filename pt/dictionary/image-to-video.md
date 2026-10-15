@@ -1,6 +1,6 @@
 # O que é Image-to-Video?
 
-*Glossário · AI · Última atualização: 17 de agosto de 2026*
+*AI · Última atualização: 17 de agosto de 2026*
 
 É uma tecnologia que transforma uma imagem estática em um vídeo em movimento por meio de inteligência artificial.
 

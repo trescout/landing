@@ -1,6 +1,6 @@
 # Coding Agent nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 18 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 18 Haziran 2026*
 
 Yazılım geliştirme süreçlerini otomatize eden ve bağımsız olarak kod yazabilen yapay zekâ sistemidir.
 
@@ -48,8 +48,8 @@ Hayır, daha çok sizin angarya işlerinizi azaltan bir yardımcı pilot gibi ç
 - [Continue](https://trescout.com/discover/continue/)
 - [Kilocode](https://trescout.com/discover/kilocode/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/coding-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

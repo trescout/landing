@@ -43,7 +43,7 @@
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code içindeyken '/plugin marketplace add anthropics/skills' komutuyla Anthropic'in beceri deposunu marketplace olarak ekle, ardından '/plugin install document-skills@anthropic-agent-skills' ile belge becerilerini kur; sonra örneğin bir PDF'ten form alanlarını çıkarması için ilgili beceriyi kullanmasını iste.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/anthropic-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

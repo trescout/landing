@@ -28,7 +28,7 @@ go build
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to compile and test the extensible web server named Caddy from its source code. After cloning the project and navigating to the directory, I can run the build command and verify the modules with test commands.
 

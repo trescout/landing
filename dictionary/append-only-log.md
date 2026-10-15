@@ -1,6 +1,6 @@
 # Append-only log nedir, ne demek?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 20 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 20 Eylül 2026*
 
 Append-only log (yalnızca ekleme yapılabilen kütük), verilerin asla yerinde değiştirilmediği veya silinmediği, her yeni işlemin dosyanın sonuna kronolojik sırayla eklendiği değişmez (immutable) bir veri yapısı mimarisidir.
 
@@ -65,8 +65,8 @@ Değişmez kütükteki kullanıcı verileri özel bir anahtarla şifrelenir; kul
 - [Runtime](https://trescout.com/dictionary/runtime/)
 - [Memory Management](https://trescout.com/dictionary/memory-management/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/append-only-log/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

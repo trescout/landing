@@ -41,7 +41,7 @@ agent-tars --provider volcengine --model doubao-1-5-thinking-vision-pro-250428 -
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Describe a complex task you want me to perform on my computer or browser. For example, I might ask you to go to a specific website and enter data or manage a flight booking process. Please analyze the visual interface and complete the steps autonomously.
 

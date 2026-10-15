@@ -43,7 +43,7 @@ uv run python -m ltx_pipelines.distilled --distilled-checkpoint-path models/ltx-
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Please create a video using the LTX-2 model that describes the scene I want in detail and includes audio and video synchronization. Have the model produce output by specifying scene details, character's appearance, camera angle and speech text.
 

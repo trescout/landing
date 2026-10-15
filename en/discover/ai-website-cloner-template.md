@@ -36,7 +36,7 @@ npm install
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using this project, analyze the target website, extract design elements and assets, write component properties, and run parallel renderers to rebuild it in the Next.js structure.
 

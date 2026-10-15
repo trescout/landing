@@ -1,6 +1,6 @@
 # Qu'est-ce que Transformer ?
 
-*Glossaire · AI · Dernière mise à jour : 3 juin 2026*
+*AI · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit d’une structure architecturale puissante qui constitue la base des modèles modernes d’intelligence artificielle.
 

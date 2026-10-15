@@ -1,6 +1,6 @@
 # Qu'est-ce que Local-first Code Intelligence Graph ?
 
-*Glossaire · Dev · Dernière mise à jour : 21 juillet 2026*
+*Dev · Dernière mise à jour : 21 juillet 2026*
 
 Il s'agit d'un système qui cartographie les relations entre les éléments de code dans les projets logiciels sur votre ordinateur local sans avoir besoin d'Internet.
 

@@ -57,7 +57,7 @@ Checkstyle'ı yazılım geliştirme döngüsünün parçası haline getirmek kod
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Mevcut bir Spring Boot projesinde Maven ile Checkstyle eklentisini nasıl yapılandıracağımı, Google Java Style kurallarını nasıl temel alacağımı ve ekip standartlarımıza göre satır uzunluğu sınırını 120 karaktere nasıl güncelleyeceğimi pom.xml ve checkstyle.xml örnekleriyle açıklar mısın?
 
@@ -90,4 +90,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/checkstyle/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

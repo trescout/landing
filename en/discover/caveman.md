@@ -43,7 +43,7 @@ irm https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.ps1 | i
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 From now on, give your answers in Caveman mode. Remove unnecessary filler words, keep only the concise information and technical details. Compose your answers in short, concise and fragmented sentences; but continue to convey complete and precise code blocks, commands and error messages.
 

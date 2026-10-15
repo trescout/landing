@@ -1,6 +1,6 @@
 # Agent Tools nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
 
 Yapay zekânın dış dünyayla etkileşime girmesini veya internette işlem yapmasını sağlayan yardımcı yazılım parçaları.
 
@@ -42,8 +42,8 @@ Eğer doğru kısıtlamalar ve izinler verilmezse yapay zekâ istem dışı işl
 
 - [Treg](https://trescout.com/discover/treg/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-tools/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

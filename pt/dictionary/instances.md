@@ -1,6 +1,6 @@
 # O que é Instances?
 
-*Glossário · Dev · Última atualização: 6 de setembro de 2026*
+*Dev · Última atualização: 6 de setembro de 2026*
 
 É cada cópia independente de um software ou sistema em execução simultânea.
 

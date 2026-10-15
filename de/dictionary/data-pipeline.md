@@ -1,6 +1,6 @@
 # Was ist Data Pipeline?
 
-*Glossar · Data · Zuletzt aktualisiert: 3. Juni 2026*
+*Data · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um den Prozess, bei dem Daten von einem Ort übernommen, verarbeitet und an einen anderen Ort verschoben werden.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que LLM-Wiki ?
 
-*Glossaire · AI · Dernière mise à jour : 4 août 2026*
+*AI · Dernière mise à jour : 4 août 2026*
 
 Il s'agit d'une bibliothèque d'informations structurée où les modèles d'intelligence artificielle sont alimentés à partir de sources externes pour fournir des réponses plus précises et à jour.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Development Environment ?
 
-*Glossaire · Dev · Dernière mise à jour : 28 septembre 2026*
+*Dev · Dernière mise à jour : 28 septembre 2026*
 
 Il s'agit d'un espace de travail sécurisé qui contient tous les outils numériques que les développeurs de logiciels utilisent pour écrire du code, tester et exécuter leurs projets.
 

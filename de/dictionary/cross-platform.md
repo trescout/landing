@@ -1,6 +1,6 @@
 # Was ist Cross-platform?
 
-*Glossar · Dev · Zuletzt aktualisiert: 14. Oktober 2026*
+*Dev · Zuletzt aktualisiert: 14. Oktober 2026*
 
 Eine Softwareart, die nahtlos auf verschiedenen Betriebssystemen oder Geräten funktionieren kann.
 

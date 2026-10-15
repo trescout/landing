@@ -37,7 +37,7 @@ pip install mempalace
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 MemPalace aracını kullanarak yerel yapay zekâ bellek sistemimi kurmak istiyorum. Proje dosyalarımı ve konuşma geçmişimi taratıp anlamsal arama yapabileceğim bir yapı oluşturmak için izlemem gereken temel adımları, kurulumdan ilk aramaya kadar olan süreci bana adım adım açıklar mısın?
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mempalace/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -35,7 +35,7 @@ yay -S stably-orca-bin
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Launch multiple AI agents simultaneously in different workspaces on Orca. Send a command to five different agents simultaneously, compare the results and combine the best one. Let me track the agents' work status via the mobile app and send me notifications when the process is completed.
 

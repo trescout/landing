@@ -36,7 +36,7 @@ deploy/build.sh
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Amnezia VPN kullanarak kendi sunucumda nasıl güvenli bir VPN ağı kurabilirim? Lütfen kurulum sürecini, sunucuya bağlanmak için gereken SSH bilgilerini ve OpenVPN, WireGuard veya XRay gibi protokolleri nasıl yapılandıracağımı adım adım açıkla.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/amnezia-client/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # ¿Qué es Adblocker?
 
-*Glosario · Dev · Última actualización: 17 de agosto de 2026*
+*Dev · Última actualización: 17 de agosto de 2026*
 
 Es un complemento de software que evita que aparezcan anuncios en su navegador de Internet.
 

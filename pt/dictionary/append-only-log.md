@@ -1,6 +1,6 @@
 # Append-Only Log: Imutabilidade, Write-Ahead Logs e armazenamento sequencial
 
-*Glossário · Data & Infra · Última atualização: 20 de setembro de 2026*
+*Data & Infra · Última atualização: 20 de setembro de 2026*
 
 Append-only log (registro somente de acréscimo) é uma estrutura de armazenamento de dados onde novos registros são inseridos exclusivamente no final do arquivo, mantendo o histórico absolutamente imutável.
 

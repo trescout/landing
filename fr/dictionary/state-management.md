@@ -1,6 +1,6 @@
 # Qu'est-ce que State Management ?
 
-*Glossaire · Dev · Dernière mise à jour : 3 juin 2026*
+*Dev · Dernière mise à jour : 3 juin 2026*
 
 Il s'agit d'une méthode de suivi de l'état actuel et des données d'un logiciel.
 

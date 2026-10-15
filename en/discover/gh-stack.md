@@ -49,7 +49,7 @@ gh stack add api-endpoints
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use the gh-stack tool to create stacked pull requests on GitHub. Include my existing working branches in a stack structure, manage dependencies between branches, and push the stack to GitHub to speed up the code review process.
 

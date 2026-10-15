@@ -1,6 +1,6 @@
 # What is Swarms?
 
-*Dictionary · AI · Last updated: August 24, 2026*
+*AI · Last updated: August 24, 2026*
 
 It is a collection of small artificial intelligence units that work in coordination to solve complex tasks.
 

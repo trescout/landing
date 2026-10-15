@@ -1,6 +1,6 @@
 # Was ist Reinforcement Learning?
 
-*Glossar · AI · Zuletzt aktualisiert: 31. August 2026*
+*AI · Zuletzt aktualisiert: 31. August 2026*
 
 Künstliche Intelligenz lernt durch Versuch und Irrtum und durch den Einsatz des Belohnungsmechanismus, die richtigen Entscheidungen zu treffen.
 

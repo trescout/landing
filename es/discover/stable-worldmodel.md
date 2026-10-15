@@ -19,7 +19,7 @@ modelo de mundo estable; Es una plataforma que garantiza que la investigación s
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale stable-worldmodel en mi entorno Python con el comando 'pip install stable-worldmodel[all]' y ayúdeme a preparar un pequeño script que recopile datos en un entorno PushT de muestra y entrene y evalúe un modelo mundial.
 

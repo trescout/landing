@@ -24,9 +24,9 @@
 - Tasarım ve içerik oluşturma süreçlerinizde ilham kaynağı olur.
 - Kendi sitenizi planlarken güvenilir bir referans sunar.
 
-## AI ile nasıl kullanılır?
+## Yapay zekâ ile nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sana 'developer-portfolios' adlı, yazılım geliştiricilerin ilham verici kişisel portföy sitelerinin bağlantılarından oluşan bir liste vereceğim. Listeyi incele ve mesleğime göre örnek alabileceğim en uygun portföyleri seç, kendi portföy sitemi nasıl kuracağıma dair bir yol haritası çıkar. Alanım: [örn. frontend geliştirici]. Hedefim: [örn. iş başvurusu için etkileyici bir portföy].
 
@@ -44,4 +44,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/developer-portfolios/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

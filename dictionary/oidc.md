@@ -1,6 +1,6 @@
 # OIDC nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 30 Haziran 2026*
+*Geliştirme · Son güncelleme: 30 Haziran 2026*
 
 > OpenID Connect
 
@@ -39,8 +39,8 @@ Hayır, sadece kimliğinizin doğrulandığına dair bir dijital onay paylaşıl
 
 - [Logto](https://trescout.com/discover/logto/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/oidc/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -50,7 +50,7 @@ opendataloader_pdf.convert(
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite analyser les fichiers PDF dont je dispose à l'aide de l'outil PDF OpenDataLoader et les convertir en formats de données structurés (Markdown ou JSON) que je peux utiliser dans les processus RAG ou LLM. Pouvez-vous m'aider à créer un script à exécuter sur mon ordinateur local à l'aide du SDK Python qui extraira les tableaux, les titres et le texte de mes documents dans le bon ordre de lecture ? Expliquez également étape par étape comment activer le mode hybride pour les pages complexes et personnaliser la sortie.
 

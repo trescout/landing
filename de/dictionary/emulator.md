@@ -1,6 +1,6 @@
 # Was ist Emulator?
 
-*Glossar · Dev · Zuletzt aktualisiert: 19. September 2026*
+*Dev · Zuletzt aktualisiert: 19. September 2026*
 
 Ein Emulator ist eine Systemschicht, die die physische Hardwarearchitektur eines Computers, Mobilgeräts oder einer Spielekonsole softwarebasiert nachbildet, sodass Sie Software von fremden Plattformen auf Ihrem eigenen Gerät ausführen können.
 

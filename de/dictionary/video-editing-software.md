@@ -1,6 +1,6 @@
 # Was ist Video Editing Software?
 
-*Glossar · Dev · Zuletzt aktualisiert: 27. September 2026*
+*Dev · Zuletzt aktualisiert: 27. September 2026*
 
 Digitale Bearbeitungsprogramme zum Schneiden von Bildern, Hinzufügen von Effekten und Bearbeiten von Sounds.
 

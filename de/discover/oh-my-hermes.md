@@ -43,7 +43,7 @@ omh setup
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren und konfigurieren Sie das Oh My Hermes-Plugin auf dem Hermes Agent. Verwenden Sie während des Installationsprozesses den für das Betriebssystem geeigneten Installer, schließen Sie die interaktive Modellinstallation ab, führen Sie das Modellketten-Gespräch durch und führen Sie die Doctor-Schritte aus. Behalten Sie die bestehende Hermes-Konfiguration bei, wenden Sie nur die dokumentierten Installationsänderungen an und berichten Sie über das Ergebnis des Vorgangs.
 

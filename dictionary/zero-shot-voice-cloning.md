@@ -1,6 +1,6 @@
 # Zero-shot Voice Cloning nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 2 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 2 Ağustos 2026*
 
 Bir kişinin sesini sadece çok kısa bir örnekten yola çıkarak, önceden özel bir eğitim almadan kopyalama teknolojisidir.
 
@@ -42,8 +42,8 @@ Modelin o kişiye özel bir 'öğrenme' sürecinden geçmesine gerek kalmadığ�
 
 - [Voice Pro](https://trescout.com/discover/voice-pro/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/zero-shot-voice-cloning/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

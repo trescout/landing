@@ -1,6 +1,6 @@
 # Was ist Core Libraries?
 
-*Glossar · Dev · Zuletzt aktualisiert: 7. August 2026*
+*Dev · Zuletzt aktualisiert: 7. August 2026*
 
 Dabei handelt es sich um Standardcodepakete, die eine Software benötigt, um ihre Grundfunktionen auszuführen.
 

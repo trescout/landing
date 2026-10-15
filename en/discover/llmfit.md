@@ -43,7 +43,7 @@ llmfit
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Analyze my system's hardware specifications and recommend the best AI models to run based on my available RAM, CPU and GPU capacity. Sort the models according to performance, memory usage and quality criteria and list the ones that suit me best.
 

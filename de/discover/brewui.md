@@ -29,7 +29,7 @@ brew install --cask homebrew-app
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich verwende die BrewUI-Anwendung, um Homebrew-Pakete zu verwalten. Ich möchte Pakete innerhalb der Anwendung sicher entdecken, installieren, aktualisieren und verwalten. Wie kann ich die Paketkonfiguration auf meinem System optimieren und benutzerdefinierte Variablen über die Datei brew.env definieren, indem ich diese Schnittstelle verwende, die mir ermöglicht, die Hintergrundprozesse von Homebrew transparent zu sehen?
 

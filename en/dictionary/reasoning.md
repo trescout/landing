@@ -1,6 +1,6 @@
 # What is Reasoning?
 
-*Dictionary · AI · Last updated: September 30, 2026*
+*AI · Last updated: September 30, 2026*
 
 It is the ability of artificial intelligence to draw conclusions step by step by passing the information given to it through a logical filter, rather than just based on memorization.
 

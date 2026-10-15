@@ -1,6 +1,6 @@
 # Token nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
 Yapay zekanın metinleri işlemek için kullandığı en küçük anlam birimidir.
 
@@ -49,8 +49,8 @@ Bilgisayarlar kelimeleri değil sayıları anladığı için metni matematiksel 
 - [Airllm](https://trescout.com/discover/airllm/)
 - [Book to Skill](https://trescout.com/discover/book-to-skill/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/token/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

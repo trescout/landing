@@ -1,6 +1,6 @@
 # O que é Digital Preservation?
 
-*Glossário · Data · Última atualização: 27 de setembro de 2026*
+*Data · Última atualização: 27 de setembro de 2026*
 
 É o processo de garantir que dados e arquivos digitais permaneçam legíveis por muitos anos contra riscos como obsolescência de formato ou deterioração.
 

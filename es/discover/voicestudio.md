@@ -32,7 +32,7 @@ bun run desktop
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo realizar clonación de voz, doblaje de video o lectura de texto en mi hardware local utilizando VoiceStudio? Explica los pasos básicos que debo seguir para gestionar los modelos de voz dentro de la aplicación, realizar la clonación añadiendo una nueva muestra de voz y ejecutar los procesos de síntesis de voz multilingüe de la manera más eficiente.
 

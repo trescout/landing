@@ -28,7 +28,7 @@ npx likec4 start
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yazılım mimarimi görselleştirmek istiyorum. LikeC4 kullanarak kod tabanımdan canlı diyagramlar oluşturmam için izlemem gereken temel adımlar nelerdir ve kendi mimari modelimi tanımlarken nelere dikkat etmeliyim?
 
@@ -48,4 +48,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/likec4/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

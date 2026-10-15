@@ -38,7 +38,7 @@ crawl4ai-download
 
 ## Instalação (comando único)
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a instalar o rastreador da web de código aberto chamado Crawl4AI; Vamos tentar instalá-lo com 'pip install -U crawl4ai', executando 'crawl4ai-setup' e convertendo uma página da web em Markdown compatível com LLM com o comando 'crwl https://www.nbcnews.com/business -o markdown'.
 

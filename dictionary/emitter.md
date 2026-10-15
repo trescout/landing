@@ -1,6 +1,6 @@
 # Emitter ne demek, nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Emitter (yayıcı), yazılım mühendisliğinde iki temel alanda karşımıza çıkan kritik bir terimdir: Olay güdümlü mimarilerde (Event-Driven Architecture) durum değişikliklerini dinleyicilere duyuran mekanizma (Event Emitter) ve derleyici teknolojisinde (Compiler) analiz edilen kodu hedef makine diline veya baytkoda dönüştüren kod üretim modülü (Code Emitter).
 
@@ -71,8 +71,8 @@ Event Emitter genellikle çoklu yayın (multicast) yapar ve anlık olay bildirim
 
 - [YAML Cpp](https://trescout.com/discover/yaml-cpp/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/emitter/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

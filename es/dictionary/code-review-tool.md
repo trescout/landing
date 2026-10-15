@@ -1,6 +1,6 @@
 # ¿Qué es Code Review Tool?
 
-*Glosario · Dev · Última actualización: 15 de septiembre de 2026*
+*Dev · Última actualización: 15 de septiembre de 2026*
 
 Herramienta de auditoría que examina automáticamente el código escrito por los desarrolladores en busca de errores o mejoras.
 

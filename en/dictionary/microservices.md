@@ -1,6 +1,6 @@
 # What is Microservices?
 
-*Dictionary · Dev · Last updated: September 3, 2026*
+*Dev · Last updated: September 3, 2026*
 
 It is an architecture that breaks down large software into small pieces, each of which operates independently.
 

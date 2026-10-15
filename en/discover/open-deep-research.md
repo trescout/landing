@@ -46,7 +46,7 @@ uvx --refresh --from "langgraph-cli[inmem]" --with-editable . --python 3.11 lang
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Conduct an in-depth analysis of [WRITE YOUR RESEARCH TOPIC HERE] using the Open Deep Research tool. Plan your research process, collect data online, and synthesize your findings to create a comprehensive report.
 

@@ -1,6 +1,6 @@
 # What is DESIGN.md?
 
-*Dictionary · Dev · Last updated: July 10, 2026*
+*Dev · Last updated: July 10, 2026*
 
 It is a documentation file that explains the architectural decisions and design logic of a software project.
 

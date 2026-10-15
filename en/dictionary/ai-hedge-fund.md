@@ -1,6 +1,6 @@
 # What is AI Hedge Fund?
 
-*Dictionary · Data · Last updated: July 13, 2026*
+*Data · Last updated: July 13, 2026*
 
 It is an investment fund that leaves its investment decisions entirely or largely to artificial intelligence algorithms.
 

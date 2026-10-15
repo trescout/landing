@@ -1,6 +1,6 @@
 # Dossier nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 11 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 11 Haziran 2026*
 
 Belirli bir konu veya kişi hakkındaki tüm belgelerin ve bilgilerin bir araya getirildiği düzenli bir dosya sistemidir.
 
@@ -42,8 +42,8 @@ Not alma uygulamaları veya veri tabanları ile kolayca yönetilebilir.
 
 - [Maigret](https://trescout.com/discover/maigret/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/dossier/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

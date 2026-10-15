@@ -1,6 +1,6 @@
 # O que é Hive Mind Communication Platform?
 
-*Glossário · AI · Última atualização: 24 de julho de 2026*
+*AI · Última atualização: 24 de julho de 2026*
 
 Um campo de comunicação coletiva que permite que indivíduos ou sistemas atuem como uma única mente coletiva.
 

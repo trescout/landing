@@ -35,7 +35,7 @@ docker run \
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à créer un panneau d'opérations internes connecté à une base de données, par glisser-déposer, à l'aide de plus de 60 composants prêts à l'emploi sur ToolJet. Concevoir une architecture d'application qui visualise les données et automatise les flux de travail intra-équipe que je peux personnaliser à l'aide de JavaScript et Python.
 

@@ -1,6 +1,6 @@
 # Page Agent nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 5 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 5 Temmuz 2026*
 
 İnternet sayfalarını tarayıp kullanıcı adına tıklama veya veri girişi gibi işlemler yapan özel bir yapay zekâ yardımcısıdır.
 
@@ -42,8 +42,8 @@ Genellikle standart web yapılarında çalışır ancak çok karmaşık güvenli
 
 - [Page Agent](https://trescout.com/discover/page-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/page-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

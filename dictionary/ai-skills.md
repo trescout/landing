@@ -1,6 +1,6 @@
 # AI Skills nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
 > Skills
 
@@ -52,8 +52,8 @@ Evet, uygun altyapı ve API bağlantıları ile bir modele yeni yetenekler kazan
 - [Awesome Claude Code](https://trescout.com/discover/awesome-claude-code/)
 - [Academic Research Skills](https://trescout.com/discover/academic-research-skills/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

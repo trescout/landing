@@ -1,6 +1,6 @@
 # ¿Qué es Layer Streaming?
 
-*Glosario · Data · Última actualización: 22 de septiembre de 2026*
+*Data · Última actualización: 22 de septiembre de 2026*
 
 La transmisión por capas es el procesamiento de datos pieza por pieza.
 

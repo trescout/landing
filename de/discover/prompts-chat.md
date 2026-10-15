@@ -39,7 +39,7 @@ npx prompts.chat
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein KI-Experte. Nutze die Techniken aus der prompts.chat-Bibliothek, um die für die Ziele des Benutzers am besten geeigneten Prompts zu erstellen. Zerlege komplexe Aufgaben in Teilaufgaben, wende die Methode des schrittweisen Denkens an und liefere den notwendigen Kontext, damit das Modell das beste Ergebnis erzielen kann.
 

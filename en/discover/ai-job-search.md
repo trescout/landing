@@ -47,7 +47,7 @@ cd .agents/skills/linkedin-search/cli && bun install && cd ../../../..
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Create your profile using the /setup command while in Claude Code. Then list the suitable job postings with the /scrape command and use the /apply command to create a draft of your CV and cover letter for the job posting you selected. During the process, ask the artificial intelligence to evaluate its compatibility with the ad and give feedback for interview preparation.
 

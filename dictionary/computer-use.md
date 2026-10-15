@@ -1,6 +1,6 @@
 # Computer Use nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 18 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 18 Temmuz 2026*
 
 Yapay zekanın tıpkı bir insan gibi ekranı görüp fare ve klavye kullanarak bilgisayarı yönetebilme yeteneğidir.
 
@@ -38,8 +38,8 @@ Yapay zekaya hangi işlemlere izin verdiğinizi kontrol edebildiğiniz sürece g
 
 - [Cwc Workshops](https://trescout.com/discover/cwc-workshops/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/computer-use/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

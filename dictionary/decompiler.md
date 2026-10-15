@@ -1,6 +1,6 @@
 # Decompiler nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 16 Eylül 2026*
+*Geliştirme · Son güncelleme: 16 Eylül 2026*
 
 Makine kodunu tekrar okunabilir bir yazılım diline dönüştüren bir çeviri aracıdır.
 
@@ -43,8 +43,8 @@ Teknik olarak çoğu edilebilir ancak bazı yazılımlar, bu işlemi zorlaştır
 - [Ghidra](https://trescout.com/discover/ghidra/)
 - [ASC](https://trescout.com/discover/asc/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/decompiler/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

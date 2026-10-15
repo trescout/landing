@@ -1,6 +1,6 @@
 # ¿Qué es Code-Graph?
 
-*Glosario · Dev · Última actualización: 4 de agosto de 2026*
+*Dev · Última actualización: 4 de agosto de 2026*
 
 Es una estructura de mapa que visualiza las relaciones entre bloques de código, funciones y archivos en proyectos de software.
 

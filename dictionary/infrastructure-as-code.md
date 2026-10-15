@@ -1,6 +1,6 @@
 # Infrastructure as Code nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 12 Temmuz 2026*
+*Geliştirme · Son güncelleme: 12 Temmuz 2026*
 
 > IaC
 
@@ -35,8 +35,8 @@ Bulut bilişimde, büyük ölçekli sistemlerin yönetiminde ve yazılımın sü
 
 - [Terraform](https://trescout.com/discover/terraform/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/infrastructure-as-code/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

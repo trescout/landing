@@ -49,7 +49,7 @@ pocket-tts serve
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to convert text to voice using the Pocket TTS tool. Explain how to configure the necessary commands and sound model to quickly produce an audio file on my computer using only processor power. In particular, explain step by step how I can change the default audio settings and clone my audio using my own audio file.
 

@@ -40,7 +40,7 @@ O go-modern-guidelines, publicado pela JetBrains, ajuda os assistentes de codifi
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 De agora em diante, use padrões Go modernos ao escrever código. Considere a versão do Go no arquivo go.mod do projeto, optando pelos recursos de linguagem mais recentes e adições de biblioteca padrão da versão 1.0 a 1.27. Use funções como `max(a, b)` em vez de blocos `if-else`, métodos modernos como `slices.Contains` em vez de loops manuais e padrões atualizados como `cmp.Or` em vez de verificações nulas.
 

@@ -49,7 +49,7 @@ agentsview usage daily
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite analyser l'historique des sessions et les données de coût de mes agents de codage IA à l'aide de l'outil Agentsview. Quelles commandes dois-je utiliser pour découvrir les sessions des agents installés sur mon ordinateur, consulter le récapitulatif de mes coûts quotidiens et consulter les détails d'utilisation des jetons avec un filtre d'agent spécifique ? Veuillez m'expliquer étape par étape comment utiliser les commandes agentsview usage quotidien et agentsview session usage \<id> et comment interpréter les résultats.
 

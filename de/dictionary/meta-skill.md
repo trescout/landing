@@ -1,6 +1,6 @@
 # Was ist Meta-skill?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Hochwertige Fähigkeiten, die es ermöglichen, neue Fähigkeiten zu erlernen oder vorhandene Fähigkeiten effektiver zu nutzen.
 

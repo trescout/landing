@@ -29,7 +29,7 @@ INSTATIC_IMAGE=ghcr.io/corebunch/instatic:latest docker compose -f compose.prod.
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 À l'aide de l'agent d'intelligence artificielle dans l'interface d'édition de page, créez des nœuds modifiables conformes aux critères de conception spécifiés, ayant une structure HTML sémantique et formatés avec CSS. Permettez à l'agent de s'intégrer à des modèles tels que Claude, OpenAI ou OpenRouter pour créer automatiquement la structure de la page et les composants de contenu.
 

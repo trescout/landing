@@ -1,6 +1,6 @@
 # Qu'est-ce que Offline-first ?
 
-*Glossaire · Dev · Dernière mise à jour : 28 septembre 2026*
+*Dev · Dernière mise à jour : 28 septembre 2026*
 
 Il s'agit d'une approche de conception logicielle qui continue d'exécuter toutes les fonctions de base de l'application sans interruption même si la connexion Internet est perdue.
 

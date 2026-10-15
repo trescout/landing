@@ -1,6 +1,6 @@
 # ¿Qué es Features?
 
-*Glosario · Dev · Última actualización: 16 de julio de 2026*
+*Dev · Última actualización: 16 de julio de 2026*
 
 Las distintas capacidades y funciones que un software o producto ofrece a los usuarios.
 

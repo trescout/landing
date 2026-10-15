@@ -37,7 +37,7 @@ bash hostgator-setup-kit/install.sh
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I have completed the DeskcommCRM installation. Help me configure an AI agent that will handle incoming WhatsApp messages, qualify customers, and manage the sales process. Explain step-by-step which API keys I need to define and where, and how to connect my first WhatsApp number via QR code.
 

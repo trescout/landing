@@ -29,7 +29,7 @@ pip install .
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'exécute de grands modèles de langage de manière hétérogène sur CPU et GPU à l'aide de ktransformers. Comment puis-je intégrer la bibliothèque kt-kernel dans mon système pour utiliser efficacement mes ressources matérielles et optimiser les performances d'inférence de modèle, et quels sont les paramètres de configuration optimaux pour les modèles MoE ?
 

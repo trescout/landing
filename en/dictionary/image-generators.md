@@ -1,6 +1,6 @@
 # What is Image Generators?
 
-*Dictionary · AI · Last updated: September 27, 2026*
+*AI · Last updated: September 27, 2026*
 
 These are systems that take written prompts and create images or photographs from scratch.
 

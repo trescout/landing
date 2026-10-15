@@ -19,7 +19,7 @@ stable-worldmodel; It is a platform that ensures that research on 'world models'
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install stable-worldmodel in my Python environment with the command 'pip install stable-worldmodel[all]' and help me prepare a small script that collects data in a sample PushT environment and trains and evaluates a world model.
 

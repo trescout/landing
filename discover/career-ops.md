@@ -45,7 +45,7 @@ claude
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Career-Ops sistemini kişiselleştirmek istiyorum. Özgeçmişimi ve kariyer hedeflerimi temel alarak, sistemin iş ilanlarını benim için en uygun kriterlere göre değerlendirmesini sağla. Profil yapılandırmamı tamamlamak ve belirli şirketleri takip listeme eklemek için gerekli olan tüm ayarları yapmama yardımcı ol.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/career-ops/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Human Effort nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 13 Haziran 2026*
+*Geliştirme · Son güncelleme: 13 Haziran 2026*
 
 Bir projenin veya görevin tamamlanması için insanların harcadığı zihinsel ve fiziksel çabanın bütünüdür.
 
@@ -34,8 +34,8 @@ Karar verme, etik yargı ve karmaşık bağlamları anlama konusunda makineler h
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 - [Engineering Skills](https://trescout.com/dictionary/engineering-skills/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/human-effort/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

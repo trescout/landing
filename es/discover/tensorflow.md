@@ -40,7 +40,7 @@ python
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Proporciona información sobre la instalación de TensorFlow y los primeros pasos de prueba. Explica cómo puedo realizar operaciones básicas de suma ejecutando el comando python después de instalar la biblioteca con el comando pip install tensorflow.
 

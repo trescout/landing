@@ -1,6 +1,6 @@
 # Was ist Concurrency?
 
-*Glossar · Dev · Zuletzt aktualisiert: 7. Juni 2026*
+*Dev · Zuletzt aktualisiert: 7. Juni 2026*
 
 Es ist die Fähigkeit eines Computers, mehrere Prozesse gleichzeitig zu verwalten und in Teilen auszuführen.
 

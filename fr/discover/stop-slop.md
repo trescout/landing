@@ -28,7 +28,7 @@ Les textes produits avec l’intelligence artificielle contiennent souvent des e
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Téléchargez ce référentiel (https://github.com/hardikpandya/stop-slop) et ajoutez la compétence stop-slop en tant que compétence à Claude Code ; Utilisez ensuite cette compétence pour nettoyer les clichés spécifiques à l'IA des textes que j'écris.
 

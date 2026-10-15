@@ -39,7 +39,7 @@ pnpm dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Agissant en tant que responsable de l'IA, je définis les sous-tâches nécessaires pour atteindre l'objectif commercial principal que je me suis fixé, assigne ces tâches aux agents appropriés, fixe les limites budgétaires et contrôle l'avancement du processus en rendant régulièrement compte du travail effectué.
 

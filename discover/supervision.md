@@ -44,7 +44,7 @@ annotated_frame = box_annotator.annotate(scene=image.copy(), detections=detectio
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Python 3.9 veya üzeri bir ortamda pip install supervision komutuyla kütüphaneyi kurdum. Bilgisayarlı görü projemde nesne tespiti sonuçlarını görselleştirmek ve veri setimi yönetmek istiyorum. Supervision kütüphanesini kullanarak nesne tespiti sonuçlarını bir görüntü üzerine nasıl işaretleyebilirim ve farklı formatlardaki (COCO, YOLO vb.) veri setlerini nasıl yükleyip dönüştürebilirim? Lütfen kütüphanenin sunduğu annotator ve dataset yardımcı araçlarını kullanarak örnek bir iş akışı oluşturmama yardımcı ol.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/supervision/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

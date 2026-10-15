@@ -29,7 +29,7 @@ curl -X POST -H "Host: my-counter-1.demo.actors.resources.substrate.ate.dev" -i 
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yapay zekâ ajanlarını ölçekli bir şekilde çalıştırmak için Substrate altyapısını kullanıyorum. Kubernetes (konteyner yönetim sistemi) üzerinde çalışan bu sistemde, aktörlerin yaşam döngüsünü yönetmek, kaynakları verimli kullanmak ve yüksek yoğunluklu ajan dağıtımları gerçekleştirmek istiyorum. Substrate'in sunduğu performanslı çalışma ortamını kullanarak ajanlarımın durumunu korumak ve hızlı bir şekilde aktif hale getirmek için gerekli yapılandırmayı nasıl optimize edebilirim?
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/substrate/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

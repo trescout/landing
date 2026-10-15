@@ -30,7 +30,7 @@ git clone https://github.com/cursor-plugins/cursor-plugins.git
 
 ## How to use it with AI?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me install the official Cursor plugins from this repository (for example, plugins that do code review or security checks) from the Cursor plugin market for the project I am working on in the Cursor editor, and explain step by step how to use them.
 

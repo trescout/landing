@@ -36,7 +36,7 @@ npm install
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Analysieren Sie mit diesem Projekt die Zielwebsite, extrahieren Sie Designelemente und Assets, schreiben Sie Komponenteneigenschaften und führen Sie parallele Renderer aus, um sie in der Next.js-Struktur neu zu erstellen.
 

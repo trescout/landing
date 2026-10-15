@@ -59,7 +59,7 @@ curl http://127.0.0.1:8420/health
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Konfigurieren Sie den Langzeitspeicher meines KI-Agenten mit TencentDB Agent Memory. Verwenden Sie anstelle eines flachen Vektorstapels von Daten symbolische Mermaid-Diagramme für kurzfristige Aufgaben und eine geschichtete Speicherpyramide L0-L3 für langfristige Erfahrungen. Ermöglichen Sie dem Agenten, vergangene Konversationen, atomare Fakten und Benutzerpräferenzen in dieser hierarchischen Struktur zu speichern und sie bei Bedarf mit vollständiger Rückverfolgbarkeit über node_id abzurufen.
 

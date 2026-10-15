@@ -1,6 +1,6 @@
 # Was ist Companion?
 
-*Glossar · AI · Zuletzt aktualisiert: 16. Juli 2026*
+*AI · Zuletzt aktualisiert: 16. Juli 2026*
 
 Es handelt sich um einen digitalen Assistenten, der mit dem Benutzer chattet und ihn bei täglichen Aufgaben unterstützt.
 

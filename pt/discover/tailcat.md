@@ -51,7 +51,7 @@ tailcat hedef-node 8080
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Desejo configurar um túnel de transferência de arquivos criptografados entre dois servidores diferentes na rede mesh Tailscale usando a ferramenta Tailcat. Você pode explicar como iniciar o ouvinte no lado do servidor, como transmitir o arquivo tar da saída padrão no lado do cliente e como gerenciar a autenticação tsnet?
 

@@ -37,7 +37,7 @@ litellm --model gpt-4o
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Tu es un assistant de développement logiciel. Dans notre projet, nous souhaitons utiliser l'outil LiteLLM pour gérer différents modèles d'intelligence artificielle depuis un point central unique. Tout d'abord, permets-moi d'installer la bibliothèque en exécutant la commande 'uv add litellm' dans le terminal. Ensuite, explique-moi étape par étape comment démarrer un serveur de passerelle local pour le grand modèle de langage gpt-4o avec les commandes 'uv tool install 'litellm[proxy]'' et 'litellm --model gpt-4o', et comment je peux router les modèles via ce serveur.
 

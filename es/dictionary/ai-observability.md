@@ -1,6 +1,6 @@
 # ¿Qué es AI Observability?
 
-*Glosario · AI · Última actualización: 17 de julio de 2026*
+*AI · Última actualización: 17 de julio de 2026*
 
 Es el proceso de rastrear cómo los sistemas de inteligencia artificial toman decisiones y dónde cometen errores mediante el seguimiento de su mundo interior.
 

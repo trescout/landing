@@ -1,6 +1,6 @@
 # O que é Code Splitting?
 
-*Glossário · Dev · Última atualização: 6 de agosto de 2026*
+*Dev · Última atualização: 6 de agosto de 2026*
 
 Para aumentar a velocidade de carregamento do site, é um método de dividir grandes arquivos de código em pequenos pedaços e carregá-los somente quando necessário.
 

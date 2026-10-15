@@ -38,7 +38,7 @@ npm run dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Develop a GenLayer smart contract for me. This contract should be able to pull up-to-date data from the internet and make logical decisions by processing this data with artificial intelligence models. Ensure that the code complies with linter rules to be error-free, and create test cases that run directly in memory to get quick feedback during the development process.
 

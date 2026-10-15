@@ -41,7 +41,7 @@ curl http://localhost:8080/v1/embeddings \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 SIE sunucusu üzerinden bir yapay zekâ ajanı için model çalıştırmak istiyorum. Ajanımın ihtiyaç duyduğu arama, veri çıkarma ve metin üretimi gibi görevleri tek bir API üzerinden nasıl yönetebilirim? SIE'nin sunduğu OpenAI uyumlu uç noktaları kullanarak embedding oluşturma ve metin üretme süreçlerini nasıl yapılandırabilirim?
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sie/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

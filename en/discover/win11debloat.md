@@ -46,7 +46,7 @@ Set-Location .\Win11Debloat\Win11Debloat-master
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to uninstall unnecessary applications on my Windows 11 operating system, turn off telemetry data, and disable features such as AI-powered Copilot. How can I make my system more lightweight and privacy-focused using the Win11Debloat tool? Please explain step by step what I need to pay attention to to maintain system stability when using this tool and how I can customize it safely.
 

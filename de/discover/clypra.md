@@ -29,7 +29,7 @@ brew install AIEraDev/tap/clypra
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte einen professionellen Schnitt mit dem Clypra-Videoeditor durchführen. Wie kann ich Vorgänge wie die automatische Untertitelung und das intelligente Reframing meiner Videos mithilfe der hardwarebeschleunigten Verarbeitung und der durch künstliche Intelligenz unterstützten Funktionen der Anwendung am effizientesten durchführen? Können Sie einen Schritt-für-Schritt-Workflow empfehlen?
 

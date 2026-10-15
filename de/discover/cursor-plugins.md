@@ -30,7 +30,7 @@ git clone https://github.com/cursor-plugins/cursor-plugins.git
 
 ## Wie nutzt man es mit KI?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, die offiziellen Cursor-Plugins aus diesem Repository (z. B. Plugins, die Codeüberprüfungen oder Sicherheitsüberprüfungen durchführen) vom Cursor-Plugin-Markt für das Projekt, an dem ich arbeite, im Cursor-Editor zu installieren, und erklären Sie Schritt für Schritt, wie Sie sie verwenden.
 

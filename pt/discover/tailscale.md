@@ -29,7 +29,7 @@ go install tailscale.com/cmd/tailscale{,d}
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso configurar uma rede segura entre meus diferentes dispositivos usando Tailscale e me beneficiar das vantagens de criptografia fornecidas pelo protocolo WireGuard no processo? Você pode explicar como a autenticação de dois fatores contribui para a segurança da minha rede e as etapas básicas que preciso seguir para conectar meus dispositivos?
 

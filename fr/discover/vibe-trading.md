@@ -59,7 +59,7 @@ vibe-trading alpha bench --zoo gtja191 --universe csi300 --period 2018-2025 --to
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite négocier sur les marchés financiers avec l'agent Vibe-Trading. S'il vous plaît, aidez-moi à analyser les données actuelles du marché, à tester les stratégies que j'ai identifiées et à gérer mes connexions de courtage en toute sécurité. Expliquez étape par étape comment configurer des processus de trading automatisés, en déterminant spécifiquement mes mandats de trading et mes limites de risque.
 

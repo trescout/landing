@@ -20,7 +20,7 @@ train-llm-from-scratch propose une méthode simple, étape par étape, pour entr
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Ce référentiel (FareedKhan-dev/train-llm-from-scratch) est un tutoriel sur la formation d'un transformateur/LLM à partir de zéro avec PyTorch. Consultez le README et donnez-moi un plan de mise en œuvre étape par étape en turc : expliquant le matériel requis (GPU), le téléchargement et le prétraitement des données, la configuration du modèle, les étapes de formation et de génération de texte, dans l'ordre.
 

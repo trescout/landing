@@ -1,6 +1,6 @@
 # Logic Gates nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 11 Ekim 2026*
+*Geliştirme · Son güncelleme: 11 Ekim 2026*
 
 Giriş sinyallerine mantıksal kurallar uygulayarak ikili (0 veya 1) çıkış üreten temel elektronik devre birimleridir.
 
@@ -40,8 +40,8 @@ Günümüzün gelişmiş işlemcilerinde milyarlarca transistör ve dolayısıyl
 - [Runtime](https://trescout.com/dictionary/runtime/)
 - [Concurrency](https://trescout.com/dictionary/concurrency/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/logic-gates/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

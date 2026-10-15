@@ -35,7 +35,7 @@ brew install witr
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux comprendre à partir de quelle source un processus, un port ou un conteneur exécuté dans mon système a été démarré et sa chaîne d'exécution sur le système. Comment puis-je utiliser l'outil witr pour surveiller ce processus et détecter pourquoi il est en cours d'exécution ?
 

@@ -1,6 +1,6 @@
 # What is GGUF?
 
-*Dictionary · AI · Last updated: September 2, 2026*
+*AI · Last updated: September 2, 2026*
 
 > GPT-Generated Unified Format
 

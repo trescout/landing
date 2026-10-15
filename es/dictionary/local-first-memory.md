@@ -1,6 +1,6 @@
 # ¿Qué es la Local-first Memory?
 
-*Glosario · Data · Última actualización: 22 de septiembre de 2026*
+*Data · Última actualización: 22 de septiembre de 2026*
 
 > Arquitectura de Memoria Local Primero
 

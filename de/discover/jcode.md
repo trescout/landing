@@ -46,7 +46,7 @@ jcode --provider ollama --model llama3.2 run 'hello'
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Leistung und die Fähigkeit zur Verwaltung mehrerer Sitzungen meines codierungsorientierten KI-Agenten testen. Ermöglichen Sie mir, die Ressourcennutzung meines Agenten zu optimieren und mithilfe des Jcode-Frameworks eine Standardtestumgebung einzurichten.
 

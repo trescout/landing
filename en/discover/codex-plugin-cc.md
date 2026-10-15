@@ -35,7 +35,7 @@ npm install -g @openai/codex
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Start a review of my existing code using the Codex plugin within Claude Code and report the findings. If there's a complex task, delegate it to Codex with the /codex:rescue command and run it in the background, allowing me to track progress with /codex:status.
 

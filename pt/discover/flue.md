@@ -45,7 +45,7 @@ flue run hello --target node \
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um agente de inteligência artificial usando o framework Flue. Como posso definir um fluxo de trabalho usando TypeScript em meu projeto? Especificamente, como posso configurar o modelo com a função createAgent e interagir com meu agente com session.prompt? Usando um exemplo simples de 'hello-world', você pode explicar passo a passo como posso iniciar um agente em tempo de execução e obter resultados?
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Deterministic Pipelines ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Un pipeline déterministe est un pipeline qui produit le même résultat à chaque exécution avec la même entrée.
 

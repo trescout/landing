@@ -1,6 +1,6 @@
 # Was ist Agent-native?
 
-*Glossar · AI · Zuletzt aktualisiert: 16. August 2026*
+*AI · Zuletzt aktualisiert: 16. August 2026*
 
 Systeme sind darauf ausgelegt, autonome Entscheidungen zu treffen, ohne auf menschliche Befehle warten zu müssen.
 

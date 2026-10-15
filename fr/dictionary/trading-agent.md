@@ -1,6 +1,6 @@
 # Qu'est-ce que Trading Agent ?
 
-*Glossaire · AI · Dernière mise à jour : 29 juin 2026*
+*AI · Dernière mise à jour : 29 juin 2026*
 
 Logiciel d'intelligence artificielle qui analyse les données des marchés financiers et prend des décisions de trading automatiques pour vous.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Declarative Continuous Deployment ?
 
-*Glossaire · Dev · Dernière mise à jour : 9 juillet 2026*
+*Dev · Dernière mise à jour : 9 juillet 2026*
 
 C'est la méthode qui définit l'état final du système et garantit que les mises à jour atteignent automatiquement cet objectif.
 

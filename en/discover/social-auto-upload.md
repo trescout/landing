@@ -32,7 +32,7 @@ Automatic upload may be subject to the platforms' terms of use (spam/automation 
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the social-auto-upload repository (github.com/dreammis/social-auto-upload) and use its 'sau' command line tool to first log into my account with 'sau douyin login', then auto-upload a video with title and description with the 'sau douyin upload-video' command.
 

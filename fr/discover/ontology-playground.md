@@ -33,7 +33,7 @@ npm run dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite concevoir une ontologie en utilisant Ontology-Playground. Chargez le modèle de démarrage en sélectionnant un champ tel que Vente au détail, Santé ou Finance. Ensuite, ajoutez de nouveaux types d'entités à ce modèle, définissez les relations entre elles et montrez-moi les étapes dont j'ai besoin pour exporter ce modèle que j'ai créé au format RDF/XML.
 

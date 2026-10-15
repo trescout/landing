@@ -1,6 +1,6 @@
 # ¿Qué es Tech Stack?
 
-*Glosario · Dev · Última actualización: 19 de septiembre de 2026*
+*Dev · Última actualización: 19 de septiembre de 2026*
 
 Tech stack es el conjunto de lenguajes de programación, bibliotecas, bases de datos, API e infraestructuras de nube reunidos para desarrollar, ejecutar, escalar y monitorear una aplicación de software.
 

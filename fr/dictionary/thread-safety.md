@@ -1,6 +1,6 @@
 # Qu'est-ce que Thread-safety ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 La sécurité des threads (thread safety) désigne la capacité d'un code à ne pas corrompre les données lorsqu'il est exécuté simultanément par plusieurs threads.
 

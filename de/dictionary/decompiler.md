@@ -1,6 +1,6 @@
 # Was ist Decompiler?
 
-*Glossar · Dev · Zuletzt aktualisiert: 16. September 2026*
+*Dev · Zuletzt aktualisiert: 16. September 2026*
 
 Ein Übersetzungstool, das Maschinencode wieder in eine lesbare Programmiersprache umwandelt.
 

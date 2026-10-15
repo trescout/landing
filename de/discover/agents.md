@@ -35,7 +35,7 @@ npx skills add livekit/agent-skills --skill livekit-agents
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte einen Agenten für künstliche Intelligenz entwickeln, der mithilfe von LiveKit-Agenten mit Echtzeit-Sprache interagieren kann. Erstellen Sie eine erste Vorlage mit der Agent-, AgentSession- und JobContext-Struktur, die erforderlich ist, damit der Agent dem Benutzer zuhören, die Enden der Konversation verstehen und mit den angegebenen Tools antworten kann. Erklären Sie, wie ich die für Sprachantworten erforderlichen STT, LLM und TTS konfigurieren und wie ich funktionale Tools auf diesem Agenten definieren kann.
 

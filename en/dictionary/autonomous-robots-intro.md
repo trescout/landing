@@ -1,6 +1,6 @@
 # What is Introduction to Autonomous Robots?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 Autonomous robots are machines that constantly move around without receiving commands.
 

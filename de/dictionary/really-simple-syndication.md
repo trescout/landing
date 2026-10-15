@@ -1,6 +1,6 @@
 # Was ist Really Simple Syndication?
 
-*Glossar · Data · Zuletzt aktualisiert: 2. August 2026*
+*Data · Zuletzt aktualisiert: 2. August 2026*
 
 > RSS
 

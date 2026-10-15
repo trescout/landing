@@ -1,6 +1,6 @@
 # Text Extraction nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 6 Ağustos 2026*
+*Veri & Altyapı · Son güncelleme: 6 Ağustos 2026*
 
 Dijital belgeler veya görseller içindeki yazılı verilerin, bilgisayarın işleyebileceği metin formatına dönüştürülmesi işlemidir.
 
@@ -34,8 +34,8 @@ Modern modellerle evet, ancak yazının okunabilirliği sonuç kalitesini doğru
 - [Document Parsing](https://trescout.com/dictionary/document-parsing/)
 - [PDF Parser](https://trescout.com/dictionary/pdf-parser/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/text-extraction/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

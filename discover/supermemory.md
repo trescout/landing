@@ -46,7 +46,7 @@ npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 supermemory'yi yapay zekâ asistanıma kalıcı hafıza eklemek için kur: 'npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes' komutuyla MCP sunucusunu Claude'a bağla ve çalıştığını doğrula.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/supermemory/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

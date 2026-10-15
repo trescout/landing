@@ -1,6 +1,6 @@
 # Qu'est-ce que Spatial Reasoning ?
 
-*Glossaire · AI · Dernière mise à jour : 10 août 2026*
+*AI · Dernière mise à jour : 10 août 2026*
 
 La capacité de saisir mentalement la position, la taille et le mouvement des objets dans l’espace.
 

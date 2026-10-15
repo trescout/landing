@@ -36,7 +36,7 @@ pip install moss-tts
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 MOSS-TTS ses üretim modelini kur: 'git clone https://github.com/OpenMOSS/MOSS-TTS.git' ile depoyu indir, içine girip bağımlılıkları kur, sonra 'python clis/moss_tts_app.py' ile Gradio arayüzünü açıp metinden konuşma üret.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/moss-tts/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

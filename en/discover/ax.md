@@ -34,7 +34,7 @@ make deploy AX_IMAGE_REPO=<your-registry>
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to install the AX tool, developed by Google, which provides orchestration for AI agents. First, install the command-line tool by running the `go install github.com/google/ax/cmd/ax@latest` command. Then, deploy the control plane using the `make deploy AX_IMAGE_REPO=\<your-registry>` command.
 

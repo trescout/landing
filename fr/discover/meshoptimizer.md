@@ -27,7 +27,7 @@ git clone -b v1.2 https://github.com/zeux/meshoptimizer.git
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite optimiser les données réseau tridimensionnelles dont je dispose. Comment puis-je rendre mes données de sommet et d'index plus efficaces en utilisant la bibliothèque Meshoptimizer ? Expliquez les étapes de base que je dois suivre, en particulier dans les processus d'optimisation du cache de sommets et d'édition du tampon d'index, en utilisant les fonctions offertes par la bibliothèque.
 

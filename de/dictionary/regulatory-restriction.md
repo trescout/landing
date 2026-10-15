@@ -1,6 +1,6 @@
 # Was ist Regulatory Restriction?
 
-*Glossar · Dev · Zuletzt aktualisiert: 19. September 2026*
+*Dev · Zuletzt aktualisiert: 19. September 2026*
 
 Regulatorische Beschränkungen sind der rechtliche Rahmen, der die Entwicklung, Datennutzung, Verbreitung oder den Export von Technologien durch Regierungen, internationale Behörden oder sektorale Regulierungsbehörden mit verbindlichen Regeln einschränkt.
 

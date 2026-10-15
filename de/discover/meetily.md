@@ -31,7 +31,7 @@ pnpm install
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Durch die Verwendung dieses Tools, das meine Besprechungsaufzeichnungen lokal verarbeitet, möchte ich meine Audiotranskripte in Text umwandeln und Zusammenfassungen aus diesen Texten extrahieren, und zwar auf eine Weise, die meine Privatsphäre schützt. Wie kann ich Besprechungsnotizen mit lokalen Modellen am effizientesten erstellen und gleichzeitig sicherstellen, dass meine Daten mein Gerät nicht verlassen?
 

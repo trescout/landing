@@ -1,6 +1,6 @@
 # Qu'est-ce que Extensibility ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 L'extensibilité (ou extensibility en anglais) est la capacité d'un logiciel à acquérir de nouvelles fonctionnalités grâce à des extensions et des modules, sans modifier son code principal.
 

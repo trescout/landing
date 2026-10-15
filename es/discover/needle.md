@@ -35,7 +35,7 @@ pip install "cactus-needle[gpu]"
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un asistente de inteligencia artificial. Analizar el texto proveniente del usuario y realizar las llamadas a herramientas necesarias usando las funciones de Python que definí o extraer los datos deseados del texto en formato JSON estructurado. Considere siempre la puntuación de confianza proporcionada por el modelo en sus respuestas y confirme la transacción con niveles de confianza bajos.
 

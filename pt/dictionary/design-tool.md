@@ -1,6 +1,6 @@
 # O que é Design Tool?
 
-*Glossário · Dev · Última atualização: 23 de junho de 2026*
+*Dev · Última atualização: 23 de junho de 2026*
 
 É um software de design digital que permite criar conteúdo visual, gráficos ou interfaces de usuário.
 

@@ -1,6 +1,6 @@
 # Was ist Parser?
 
-*Glossar · Dev · Zuletzt aktualisiert: 11. Juli 2026*
+*Dev · Zuletzt aktualisiert: 11. Juli 2026*
 
 Dabei handelt es sich um einen Parser, der komplexe Daten oder Code in sinnvolle Teile zerlegt, die der Computer Schritt für Schritt verarbeiten kann.
 

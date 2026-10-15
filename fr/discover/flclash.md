@@ -28,7 +28,7 @@ Un client proxy n'est qu'un outil ; Il est de votre responsabilité de l'utilis
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite utiliser un client proxy open source multiplateforme appelé FlClash ; Aidez-moi à télécharger et installer le fichier d'installation adapté à mon système d'exploitation (Android, Windows, macOS ou Linux) à partir de la page GitHub Releases (https://github.com/chen08209/FlClash/releases) et à le configurer en ajoutant un lien d'abonnement.
 

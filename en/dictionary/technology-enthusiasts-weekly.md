@@ -1,6 +1,6 @@
 # What is Technology Enthusiasts Weekly?
 
-*Dictionary · Dev · Last updated: September 28, 2026*
+*Dev · Last updated: September 28, 2026*
 
 It is an informative newsletter that weekly summarizes the latest developments in the tech world, artificial intelligence innovations, and software trends.
 

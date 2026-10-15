@@ -23,7 +23,7 @@ Node.js, JavaScript kodunun tarayıcı dışında çalıştırılmasını sağla
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Node.js ortamını kullanarak JavaScript tabanlı bir sunucu uygulaması geliştirmek istiyorum. Bu platformun sunduğu temel çalışma zamanı özelliklerini ve ölçeklenebilir ağ uygulamaları oluştururken dikkat etmem gereken yapısal unsurları açıklar mısın?
 
@@ -43,4 +43,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/node/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

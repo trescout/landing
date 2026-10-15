@@ -1,6 +1,6 @@
 # What is Grounded Summary?
 
-*Dictionary · AI · Last updated: June 9, 2026*
+*AI · Last updated: June 9, 2026*
 
 It is a summary method that does not involve fabrication and is created by artificial intelligence by adhering only to the source documents provided.
 

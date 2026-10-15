@@ -1,6 +1,6 @@
 # Intentional Crafting Engine nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 9 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 9 Ekim 2026*
 
 Kullanıcının niyet ve hedeflerine odaklanarak içerik, kod veya dijital ürün üreten amaca yönelik bir üretim motorudur.
 
@@ -39,8 +39,8 @@ Sadece tekil kod blokları yazmak yerine, projenin mimari vizyonuna tam uyumlu, 
 - [Generative AI](https://trescout.com/dictionary/generative-ai/)
 - [Vibe Coding](https://trescout.com/dictionary/vibe-coding/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/intentional-crafting-engine/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

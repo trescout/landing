@@ -39,7 +39,7 @@ npm run dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero que crees un diagrama de flujo. Visualice el proceso de autenticación de usuarios, incluido el inicio de sesión, la autenticación multifactor y la gestión de sesiones.
 

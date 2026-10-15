@@ -27,7 +27,7 @@ brew install just
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bitchat uygulamasının sunduğu Bluetooth mesh ve Nostr protokolü hibrit yapısını kullanarak, internetin olmadığı durumlarda yakın çevremle nasıl güvenli bir şekilde mesajlaşabilirim? Uygulamanın sunduğu IRC tarzı komutları ve konum tabanlı kanal özelliklerini kullanarak yerel bir topluluk sohbetini nasıl başlatacağımı adım adım açıkla.
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bitchat/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Qu'est-ce que Wordlists ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 La liste de mots (Wordlist) est la liste de candidats testés lors d'un test de sécurité.
 

@@ -23,7 +23,7 @@ Node.js offers a runtime environment that allows JavaScript code to be run outsi
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a JavaScript-based server application using the Node.js environment. Can you explain the basic runtime features that this platform offers and the structural elements I should pay attention to when creating scalable network applications?
 

@@ -1,6 +1,6 @@
 # ¿Qué es Learning Mechanism?
 
-*Glosario · AI · Última actualización: 27 de septiembre de 2026*
+*AI · Última actualización: 27 de septiembre de 2026*
 
 Un conjunto de métodos que permiten que un sistema produzca mejores resultados con el tiempo extrayendo patrones de los datos.
 

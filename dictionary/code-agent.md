@@ -1,6 +1,6 @@
 # Code Agent nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 21 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 21 Temmuz 2026*
 
 Yazılım geliştirme süreçlerinde kod yazma, hata ayıklama ve test etme gibi görevleri otonom olarak üstlenen bir yapay zekâdır.
 
@@ -38,8 +38,8 @@ Ajanlar hata yapabilir, bu yüzden her zaman bir insan denetimi ve test süreçl
 - [Autonomous Agent](https://trescout.com/dictionary/autonomous-agent/)
 - [Coding Agents](https://trescout.com/dictionary/coding-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

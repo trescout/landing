@@ -46,7 +46,7 @@ uvx --refresh --from "langgraph-cli[inmem]" --with-editable . --python 3.11 lang
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Conduza uma análise aprofundada de [ESCREVA SEU TÓPICO DE PESQUISA AQUI] usando a ferramenta Open Deep Research. Planeje seu processo de pesquisa, colete dados on-line e sintetize suas descobertas para criar um relatório abrangente.
 

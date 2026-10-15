@@ -1,6 +1,6 @@
 # Hill Climbing nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 11 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 11 Ağustos 2026*
 
 En iyi çözüme ulaşmak için sürekli küçük iyileştirmeler yaparak ilerleyen bir arama yöntemidir.
 
@@ -34,8 +34,8 @@ Sadece ileriye dönük küçük adımlara odaklandığı için, bazen en iyi son
 - [Algorithmic Trading](https://trescout.com/dictionary/algorithmic-trading/)
 - [Agentic Workflows](https://trescout.com/dictionary/agentic-workflows/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/hill-climbing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

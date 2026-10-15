@@ -1,6 +1,6 @@
 # Qu'est-ce que API Gateway ?
 
-*Glossaire · Dev · Dernière mise à jour : 17 juin 2026*
+*Dev · Dernière mise à jour : 17 juin 2026*
 
 Il s'agit d'un portail d'entrée central qui répond à toutes les demandes du monde extérieur, les oriente vers les bons endroits et effectue les contrôles de sécurité.
 

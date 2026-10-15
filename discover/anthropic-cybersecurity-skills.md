@@ -14,7 +14,7 @@ Yapay zekâ ajanları için geliştirilmiş **754 hazır siber güvenlik beceris
 - **20 Ağustos 2026:** Yıldız 28.821 → 30.300, son sürüm v1.3.0 (22 Haziran 2026).
 - **18 Ağustos 2026:** Yıldız 27.085 → 28.821, son sürüm v1.3.0 (22 Haziran 2026).
 
-- **Kimin için:** Güvenlik analistleri + AI ajanlarıyla çalışanlar
+- **Kimin için:** Güvenlik analistleri + yapay zekâ ajanlarıyla çalışanlar
 - **Durum:** Topluluk projesi · Anthropic ile resmi bağı YOK
 - **İçerik:** 754 beceri · 26 alan · 5 çerçeve
 - **Çalışır:** Claude Code, Copilot, Codex, Cursor, Gemini CLI…
@@ -39,11 +39,11 @@ git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git
 
 ## Nasıl başlanır?
 
-agentskills.io standardında paketlenmiştir; AI asistanınıza yetenek olarak ekleyebilirsiniz. Hızlı başlangıç adımları depoda mevcuttur. Üretim öncesinde her yeteneği kendi bağlamınızda doğrulayın.
+agentskills.io standardında paketlenmiştir; yapay zekâ asistanınıza yetenek olarak ekleyebilirsiniz. Hızlı başlangıç adımları depoda mevcuttur. Üretim öncesinde her yeteneği kendi bağlamınızda doğrulayın.
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terminalde 'npx skills add mukul975/Anthropic-Cybersecurity-Skills' komutunu çalıştırarak bu topluluk siber güvenlik beceri kütüphanesini Claude Code'a ekle (bunun Anthropic'in resmi projesi olmadığını unutma), sonra bana hangi güvenlik becerilerinin kullanıma hazır olduğunu listele.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/anthropic-cybersecurity-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

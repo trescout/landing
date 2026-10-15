@@ -1,6 +1,6 @@
 # Trading Strategies nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 29 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 29 Haziran 2026*
 
 Yatırım yaparken hangi koşullarda alım veya satım yapılacağını belirleyen mantıksal kurallar dizisi.
 
@@ -38,8 +38,8 @@ Genellikle veri analistleri veya yapay zekâ modelleri geçmiş verileri inceley
 - [Trading Agent](https://trescout.com/dictionary/trading-agent/)
 - [Data Pipeline](https://trescout.com/dictionary/data-pipeline/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/trading-strategies/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

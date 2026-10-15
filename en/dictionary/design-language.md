@@ -1,6 +1,6 @@
 # What is Design Language?
 
-*Dictionary · Dev · Last updated: June 3, 2026*
+*Dev · Last updated: June 3, 2026*
 
 It is a set of rules that keeps the visual world and user experience of a product consistent.
 

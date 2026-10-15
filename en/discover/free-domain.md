@@ -27,7 +27,7 @@ You apply with the directive in the repo: you select the domain, connect it to y
 
 ## How to use it with AI?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 DigitalPlat FreeDomain is a free domain name service, not software to install. Go to https://dash.domain.digitalplat.org/ and guide me step by step to register a free domain name from extensions like .dpdns.org, .us.kg, .qzz.io and tell me how to connect it with Cloudflare DNS.
 

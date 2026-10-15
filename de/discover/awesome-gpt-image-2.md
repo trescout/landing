@@ -37,7 +37,7 @@ npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-librar
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind ein visueller Prompt-Ingenieur. Unter Verwendung der Strukturprotokolle in der Awesome GPT Image 2-Bibliothek habe ich das Bildsubjekt angegeben; Zerlegen Sie es in atomare Teile wie Beleuchtung, Materialien, Layout und visuelle Details. Stellen Sie sicher, dass die von Ihnen erstellte Anfrage durch Modelle der künstlichen Intelligenz konsistente und kontrollierbare Ergebnisse liefert.
 

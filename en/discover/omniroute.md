@@ -45,7 +45,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ## AI prompt for non-coders
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Prepare a routing configuration using the OmniRoute AI gateway that includes OpenAI, Anthropic, and local Ollama models. Create a fallback rule that automatically switches to the secondary model if the primary model fails to respond, and list the steps to run it with Docker Compose.
 

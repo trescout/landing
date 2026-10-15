@@ -37,7 +37,7 @@ strix --target ./app-directory
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Führen Sie mit dem Strix-Tool einen umfassenden Sicherheitsscan auf dem von mir angegebenen Ziel durch. Konfigurieren Sie beim Starten des Scans meine erforderlichen API-Schlüssel und melden Sie Ergebnisse mit überprüfbaren Beweisen. Analysieren Sie die Schwachstellen in meinem Anwendungsverzeichnis oder auf der von mir angegebenen URL und stellen Sie einen detaillierten Bericht mit Ergebnissen und Lösungsvorschlägen bereit.
 

@@ -1,6 +1,6 @@
 # Was ist TDD?
 
-*Glossar · Dev · Zuletzt aktualisiert: 11. Juli 2026*
+*Dev · Zuletzt aktualisiert: 11. Juli 2026*
 
 > Test-Driven Development
 

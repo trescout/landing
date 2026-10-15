@@ -37,7 +37,7 @@ pip install mempalace
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mein lokales KI-Speichersystem mit dem MemPalace-Tool einrichten. Können Sie mir die grundlegenden Schritte erklären, die ich befolgen muss, um eine Struktur zu erstellen, in der ich meine Projektdateien und den Konversationsverlauf scannen und semantische Suchen durchführen kann, sowie den Prozess von der Installation bis zur ersten Suche?
 

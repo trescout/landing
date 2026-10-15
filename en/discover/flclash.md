@@ -28,7 +28,7 @@ A proxy client is just a tool; It is your responsibility to use it in accordance
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to use a multiplatform open source proxy client called FlClash; Help me download and install the installation file suitable for my operating system (Android, Windows, macOS or Linux) from the GitHub Releases page (https://github.com/chen08209/FlClash/releases) and configure it by adding a subscription link.
 

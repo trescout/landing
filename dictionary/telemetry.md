@@ -1,6 +1,6 @@
 # Telemetry nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
+*Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Telemetry (Türkçe karşılığıyla **uzaktan ölçüm**), yazılım ve cihazların durum bilgisini otomatik toplayıp merkeze iletmesidir.
 
@@ -60,8 +60,8 @@ Evet. Veri taşıma ve saklama bedeli vardır. Bu yüzden yüksek trafikte örne
 - [Observability](https://trescout.com/dictionary/observability/)
 - [Traces](https://trescout.com/dictionary/traces/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/telemetry/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -61,7 +61,7 @@ find .cursor/rules -name "*.mdc" | wc -l  # Should show 346
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Activate the skill packages in this library for Claude Code or the coding agent you use. Standardize my workflow and increase my productivity using specialized scripts in fields like engineering, marketing, or C-level consulting. Integrate the specific capabilities I need (e.g. security auditing or product development) into my project.
 

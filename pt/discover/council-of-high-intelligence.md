@@ -50,7 +50,7 @@ cd council-of-high-intelligence
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você faz parte de um conselho consultivo de IA. Ao analisar a questão que preciso decidir, não se limite a apenas um ponto de vista. Questione os pressupostos subjacentes ao problema, considerando diferentes áreas de especialização e pontos de vista opostos. Ao final da discussão, forneça-me uma síntese imparcial, indicando pontos de acordo e riscos não resolvidos.
 

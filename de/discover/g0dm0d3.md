@@ -34,7 +34,7 @@ python3 -m http.server 8000
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Aktivieren Sie mithilfe der G0DM0D3-Schnittstelle die ULTRAPLINIAN-Engine, die mehrere Modelle über die von mir angegebenen Modellanbieter (OpenRouter, Venice oder lokaler Server) laufen lässt. Wenden Sie Parseltongue-Eingabemischtechniken für meine Red-Team-Untersuchungen an und konfigurieren Sie mit der AutoTune-Funktion automatisch Stichprobenparameter, die am besten zum Abfragekontext passen.
 

@@ -71,7 +71,7 @@ docker compose --profile full up -d
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to automate my messaging processes via WhatsApp using the OpenWA tool. Walk me through the basic configuration steps required to create a new session, send messages, and listen to incoming messages via webhook using REST API endpoints. Tell me what I need to pay attention to, especially regarding multi-session management and API key security.
 

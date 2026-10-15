@@ -1,6 +1,6 @@
 # O que é Temperature?
 
-*Glossário · AI · Última atualização: 3 de junho de 2026*
+*AI · Última atualização: 3 de junho de 2026*
 
 É o cenário que determina o nível de criatividade das respostas produzidas pela inteligência artificial.
 

@@ -33,7 +33,7 @@ cmake --build build
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite convertir un fichier audio local en texte à l'aide de l'outil Transcribe.cpp. Comment puis-je traiter mon fichier audio au format WAV mono 16 kHz à l'aide de l'outil transcribe-cli compilé sur mon système et du fichier modèle au format GGUF que j'ai téléchargé ? Veuillez expliquer la structure de commande requise pour ce processus et les chemins de fichiers auxquels je dois prêter attention.
 

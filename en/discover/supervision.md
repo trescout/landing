@@ -44,7 +44,7 @@ annotated_frame = box_annotator.annotate(scene=image.copy(), detections=detectio
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I installed the library with the pip install supervision command in a Python 3.9 or above environment. I want to visualize object detection results and manage my dataset in my computer vision project. How can I mark object detection results on an image using the Supervision library and how can I load and convert datasets in different formats (COCO, YOLO, etc.)? Please help me create a sample workflow using the annotator and dataset helper tools provided by the library.
 

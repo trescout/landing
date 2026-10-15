@@ -29,7 +29,7 @@ conda activate ml4t
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso usar modelos de aprendizado de máquina em processos de análise de dados e desenvolvimento de estratégias nos mercados financeiros? Com base nos estudos de caso desta ferramenta, explique passo a passo o fluxo de trabalho de uma estratégia de negociação, desde a fonte de dados até o processamento ao vivo, e o papel dos agentes de IA nesse processo.
 

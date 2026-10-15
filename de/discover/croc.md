@@ -49,7 +49,7 @@ croc code-phrase
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Dateien mit dem Croc-Tool sicher zwischen zwei Computern übertragen. Wie kann ich den mir gegebenen Codeausdruck abgleichen, wenn ich den Befehl „croc send [Dateiname]“ auf der Senderseite mit dem Befehl „croc [Codeausdruck]“ auf der Empfängerseite ausführe und die Übertragung starte? Gibt es eine besondere Einstellung, auf die ich achten sollte, um sicherzustellen, dass bei der Übertragung eine Ende-zu-Ende-Verschlüsselung erfolgt und der Vorgang sicher ist?
 

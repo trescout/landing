@@ -36,7 +36,7 @@ python3 GhostTR.py
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso coletar informações sobre um número de destino ou nome de usuário usando a ferramenta GhostTrack? Explique passo a passo como usar os recursos de rastreamento de telefone, rastreamento de IP e rastreamento de nome de usuário oferecidos pela ferramenta.
 

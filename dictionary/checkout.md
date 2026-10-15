@@ -1,6 +1,6 @@
 # Checkout nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 **Checkout**, bağlama göre iki temel anlama sahip kritik bir terimdir: E-ticaret ve SaaS ekosisteminde müşterinin siparişini tamamladığı **ödeme akışı**; yazılım geliştirmede ise Git versiyon kontrolünde dal veya sürüm değiştirme komutudur (`git checkout`).
 
@@ -108,8 +108,8 @@ Geleneksel e-ticaret platformlarının monolitik yapısından ayrılarak, ödeme
 
 - [Checkout](https://trescout.com/discover/checkout/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/checkout/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

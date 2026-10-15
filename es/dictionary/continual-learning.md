@@ -1,6 +1,6 @@
 # ¿Qué es Continual Learning?
 
-*Glosario · AI · Última actualización: 8 de junio de 2026*
+*AI · Última actualización: 8 de junio de 2026*
 
 Es la capacidad de la inteligencia artificial de mantenerse actualizado constantemente sin olvidar información antigua mientras aprende nueva información.
 

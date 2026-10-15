@@ -1,6 +1,6 @@
 # What is Development Environment?
 
-*Dictionary · Dev · Last updated: September 28, 2026*
+*Dev · Last updated: September 28, 2026*
 
 It is a secure workspace containing all the digital tools that developers use to write code, test, and run their projects.
 

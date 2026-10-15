@@ -36,7 +36,7 @@ maigret kullanici-adi
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero realizar uma verificação abrangente da pegada digital em um nome de usuário de destino usando a ferramenta Maigret. Explique o comando básico que me permitirá verificar a presença deste nome de usuário em mais de 3.000 sites e os parâmetros que posso usar para relatar os dados obtidos.
 

@@ -1,6 +1,6 @@
 # Spatial Intelligence nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 31 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 31 Ağustos 2026*
 
 Bilgisayarların fiziksel dünyadaki nesnelerin konumunu ve hareketini algılayıp anlamlandırma yeteneğidir.
 
@@ -38,8 +38,8 @@ Computer Vision ile karıştırılabilir ancak bu sadece görmeyi değil, görme
 
 - [Gods Eye View](https://trescout.com/discover/gods-eye-view/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/spatial-intelligence/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

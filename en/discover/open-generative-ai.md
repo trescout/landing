@@ -29,7 +29,7 @@ npm run electron:dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the Open-Generative-AI platform, I want to create high-quality images and videos without getting stuck in content filters. How can I choose the most suitable ones for my creative projects among the more than 200 models offered by the platform and how can I set up a professional workflow in my own local system using the free production opportunities offered by these models?
 

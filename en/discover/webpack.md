@@ -35,7 +35,7 @@ yarn add webpack --dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 As a web developer, I want to efficiently package JavaScript files and other static assets in my projects. How can I manage my modules, configure code splitting, and define loaders suitable for my project using Webpack? Help me create a beginner configuration file example.
 

@@ -1,6 +1,6 @@
 # Was ist Linux Server Security?
 
-*Glossar · Dev · Zuletzt aktualisiert: 10. Juli 2026*
+*Dev · Zuletzt aktualisiert: 10. Juli 2026*
 
 Dabei handelt es sich um die Disziplin der Stärkung und des Schutzes von Open-Source-Serversystemen vor Cyber-Bedrohungen.
 

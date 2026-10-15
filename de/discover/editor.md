@@ -37,7 +37,7 @@ bun dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Pascal Editor eine Architekturszene erstellen. Helfen Sie mir, eine grundlegende 3D-Struktur mit den in der Projektarchitektur enthaltenen Paketen @pascal-app/core und @pascal-app/viewer zu erstellen. Führen Sie mich Schritt für Schritt durch die Konfiguration der useScene- und useViewer-Hooks, um den Szenenstatus zu verwalten, die Knotenhierarchie (Standort, Gebäude, Ebene) zu definieren und eine NodeRenderer-Komponente in die Szene zu integrieren.
 

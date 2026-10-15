@@ -25,7 +25,7 @@ Agregado como habilidad a Claude Code; Luego, puedes pedirles que establezcan un
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale el complemento Harness ejecutando los comandos '/plugin Marketplace add revfactory/harness' y luego '/plugin install Harness@harness-marketplace' en Claude Code, luego pídale que configure un equipo de agentes de inteligencia artificial adecuado para mi proyecto diciendo "Crear un arnés para este proyecto".
 

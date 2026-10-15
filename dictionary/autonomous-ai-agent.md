@@ -1,6 +1,6 @@
 # Autonomous AI Agent nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 6 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 6 Haziran 2026*
 
 İnsan müdahalesi olmadan kendi hedeflerini belirleyip karmaşık görevleri uçtan uca yerine getirebilen yazılım sistemidir.
 
@@ -38,8 +38,8 @@ Evet, tanımlanan sınırlar ve yetkiler dahilinde dışarıdan bir müdahaleye 
 - [Agentic AI](https://trescout.com/dictionary/agentic-ai/)
 - [Self-orchestration](https://trescout.com/dictionary/self-orchestration/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/autonomous-ai-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # O que é Traces?
 
-*Glossário · Dev · Última atualização: 27 de junho de 2026*
+*Dev · Última atualização: 27 de junho de 2026*
 
 São registros de monitoramento que mostram passo a passo por quais etapas uma transação passa no sistema.
 

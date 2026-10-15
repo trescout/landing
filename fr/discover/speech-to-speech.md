@@ -53,7 +53,7 @@ python scripts/listen_and_play_realtime.py --host 127.0.0.1 --port 8765
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite configurer mon propre agent vocal local à l'aide de cet outil. Quelles sont les étapes de base que je dois suivre pour créer un pipeline audio à faible latence à l'aide des composants VAD, STT, LLM et TTS ? Avec quelle commande puis-je mettre le serveur en marche et me connecter à un client compatible OpenAI Realtime ?
 

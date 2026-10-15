@@ -1,6 +1,6 @@
 # What is Launcher?
 
-*Dictionary · Dev · Last updated: September 18, 2026*
+*Dev · Last updated: September 18, 2026*
 
 It is an interface tool that allows you to quickly find and launch applications on computers or mobile devices.
 

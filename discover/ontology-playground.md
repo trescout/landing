@@ -33,7 +33,7 @@ npm run dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Ontology-Playground kullanarak bir ontoloji tasarlamak istiyorum. Retail, Healthcare veya Finance gibi alanlardan birini seçerek başlangıç şablonunu yükle. Ardından, bu şablona yeni varlık türleri ekle, aralarındaki ilişkileri tanımla ve oluşturduğum bu modeli RDF/XML formatında dışa aktarmam için gerekli adımları göster.
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ontology-playground/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

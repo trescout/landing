@@ -1,6 +1,6 @@
 # ¿Qué es Routing Layer?
 
-*Glosario · Dev · Última actualización: 27 de septiembre de 2026*
+*Dev · Última actualización: 27 de septiembre de 2026*
 
 La capa de enrutamiento digital que gestiona el tráfico para que los datos o solicitudes entrantes lleguen al destino correcto.
 

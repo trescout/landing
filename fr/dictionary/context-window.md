@@ -1,6 +1,6 @@
 # Qu'est-ce que Context Window ?
 
-*Glossaire · AI · Dernière mise à jour : 3 juin 2026*
+*AI · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit de la capacité d’information que l’intelligence artificielle peut mémoriser et traiter en même temps.
 

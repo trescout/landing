@@ -32,7 +32,7 @@ pip install 'aisuite[all]'        # with all provider SDKs
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je gérer différents modèles d'intelligence artificielle via une seule interface à l'aide de la bibliothèque Aisuite ? Comment dois-je configurer ma structure de code et introduire mes fonctions Python en tant qu'outils dans le modèle, en particulier lors du basculement entre différents fournisseurs comme OpenAI et Anthropic ? Veuillez créer un exemple simple en utilisant les structures API Chat Completions et Agents fournies par la bibliothèque aisuite.
 

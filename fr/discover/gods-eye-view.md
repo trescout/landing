@@ -30,7 +30,7 @@ npm run dev -- --host localhost --port 4173
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aide-moi à installer le projet depuis https://github.com/bilawalsidhu/gods-eye-view sur mon ordinateur. Explique-moi étape par étape comment obtenir une clé API Google Maps et comment l'insérer dans le fichier .env. Aide-moi également à configurer l'avertissement de facturation et le quota d'utilisation pour la clé Google. Enfin, démarre le serveur de développement et ouvre-le dans le navigateur. Je ne suis pas développeur, explique chaque opération avec des mots simples et demande toujours mon accord avant toute étape susceptible d'entraîner des frais.
 

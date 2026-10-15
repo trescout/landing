@@ -1,6 +1,6 @@
 # O que é Specification?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Specification (abreviado como spec, ou especificação em português) é o documento técnico que descreve o que o produto fará e as suas regras.
 

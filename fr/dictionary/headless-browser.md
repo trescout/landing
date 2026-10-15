@@ -1,6 +1,6 @@
 # Qu'est-ce que Headless Browser ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Un navigateur sans tête (headless browser en anglais) est un navigateur complet qui fonctionne sans interface graphique.
 

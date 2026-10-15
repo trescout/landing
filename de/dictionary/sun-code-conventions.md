@@ -1,6 +1,6 @@
 # Sun Code Conventions: Java-Standards, Lesbarkeit und Software-Wartung
 
-*Glossar · Dev · Zuletzt aktualisiert: 20. September 2026*
+*Dev · Zuletzt aktualisiert: 20. September 2026*
 
 Die 1999 von Sun Microsystems veröffentlichten Sun Code Conventions for the Java Programming Language gelten als das historische Referenzwerk, das weltweite Standards für Code-Formatierung und Namensgebung in der objektorientierten Softwareentwicklung etablierte.
 

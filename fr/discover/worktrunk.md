@@ -49,7 +49,7 @@ wt switch -c -x claude feat
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer une nouvelle arborescence de travail dans mon projet Git existant en utilisant Worktrunk et démarrer une tâche parallèle dans cet espace. Comment dois-je utiliser les commandes wt pour gérer les arborescences de travail aussi facilement que les branches, et comment puis-je tirer parti des hooks pour automatiser mon flux de travail ?
 

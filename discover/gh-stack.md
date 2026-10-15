@@ -49,7 +49,7 @@ gh stack add api-endpoints
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 GitHub üzerinde yığınlı çekme istekleri (stacked pull requests) oluşturmak için gh-stack aracını kullanıyorum. Mevcut çalışma dallarımı bir yığın yapısına dahil et, dallar arasındaki bağımlılıkları yönet ve kod inceleme sürecini hızlandırmak için yığını GitHub'a gönder.
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gh-stack/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

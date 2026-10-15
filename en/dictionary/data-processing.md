@@ -1,6 +1,6 @@
 # What is Data Processing?
 
-*Dictionary · Data · Last updated: September 3, 2026*
+*Data · Last updated: September 3, 2026*
 
 It is the process of collecting raw data and converting it into meaningful and usable information.
 

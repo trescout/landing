@@ -31,7 +31,7 @@ conda activate ml4t
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Finansal piyasalarda veri analizi ve strateji geliştirme süreçlerinde makine öğrenimi modellerini nasıl kullanabilirim? Bu araçtaki vaka çalışmalarını temel alarak, bir ticaret stratejisinin veri kaynağından canlı işleme aşamasına kadar olan iş akışını ve yapay zekâ ajanlarının bu süreçteki rolünü adım adım açıkla.
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/machine-learning-for-trading/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

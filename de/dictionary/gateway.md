@@ -1,6 +1,6 @@
 # Was ist Gateway?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Gateway ist der Verbindungspunkt, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet.
 

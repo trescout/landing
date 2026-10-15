@@ -1,6 +1,6 @@
 # What is Code Coverage?
 
-*Dictionary · Dev · Last updated: August 3, 2026*
+*Dev · Last updated: August 3, 2026*
 
 A metric that measures how much of the written code software tests actually run and check.
 

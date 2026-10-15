@@ -41,7 +41,7 @@ restic init --repo /path/to/repo
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meine Daten mit Restic sicher sichern. Wie kann ich einen lokalen Ordner oder ein bestimmtes Verzeichnis in einen verschlüsselten Backup-Speicher exportieren? Können Sie bitte Schritt für Schritt erklären, wie das Backup-Repository erstellt und der erste Backup-Prozess gestartet wird, damit meine Daten verschlüsselt werden?
 

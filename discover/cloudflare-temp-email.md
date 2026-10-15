@@ -58,7 +58,7 @@ pnpm run deploy
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Cloudflare üzerinde çalışan dreamhunter2333/cloudflare_temp_email açık kaynaklı geçici e-posta projesini kendi alan adımla kurmak istiyorum. Cloudflare hesabım ve Cloudflare DNS'e bağlı bir alan adım var. Cloudflare panosu üzerinden Email Routing yönlendirmesini, D1 veritabanını ve Cloudflare Pages arayüzünü sıfırdan nasıl kuracağımı adım adım anlatır mısın? Ayrıca gelen e-postaları Telegram botuma yönlendirmek için hangi yapılandırma adımlarını izlemeliyim?
 
@@ -90,4 +90,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cloudflare-temp-email/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

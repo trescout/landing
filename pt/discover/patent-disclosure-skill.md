@@ -51,7 +51,7 @@ python run_skill.py --input bulus_taslagi.txt --output patent_disclosure.md
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Gostaria de preparar um documento formal de notificação de invenção para um algoritmo de cache de banco de dados distribuído que desenvolvi, utilizando a habilidade de patent disclosure. Você poderia explicar passo a passo como fornecer o fluxo do algoritmo como entrada e gerar as reivindicações independentes, o campo técnico da invenção e as diferenças em relação ao estado da técnica?
 

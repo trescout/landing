@@ -29,7 +29,7 @@ npm install -g codebase-memory-mcp
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Indexe este proyecto para ayudarle a analizar mi código base y responder consultas estructuradas de manera más eficiente. Después de indexar el proyecto, quiero que proporcione información detallada sobre mi código base utilizando relaciones entre funciones, clases y cadenas de llamadas.
 

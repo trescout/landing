@@ -1,6 +1,6 @@
 # ¿Qué es Post-training?
 
-*Glosario · AI · Última actualización: 5 de septiembre de 2026*
+*AI · Última actualización: 5 de septiembre de 2026*
 
 Es el proceso de mejora realizado para que un modelo que ha terminado su entrenamiento básico tenga un mejor rendimiento en tareas específicas.
 

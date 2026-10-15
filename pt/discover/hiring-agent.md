@@ -43,7 +43,7 @@ python score.py /path/to/resume.pdf
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Atuar como recrutador e analisar dados de currículo fornecidos e contribuições técnicas no GitHub. Pontue os projetos, habilidades técnicas e experiência profissional do candidato de acordo com critérios objetivos. Ao pontuar, considere a qualidade do código do candidato no GitHub, a frequência das contribuições e a relevância de seus projetos para aplicações do mundo real. Em última análise, crie um relatório de avaliação transparente e justo que destaque os pontos fortes e fracos do candidato.
 

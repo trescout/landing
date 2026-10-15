@@ -27,7 +27,7 @@ scripts/deploy-managed-agent.sh gl-reconciler
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das Claude Cowork-Plugin, um Finanzanalysen und Bewertungsmodelle zu erstellen, und starten Sie Prozesse für Marktforschung und Umsatzbewertung.
 

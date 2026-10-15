@@ -45,7 +45,7 @@ pnpm dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I am working on PI-Desktop. I authorize you to analyze the code in my local projects, edit files, and execute terminal commands. When performing tasks, I want you to first create an implementation plan, get my approval for critical changes, and report the entire process transparently. While writing code, stick to the existing project structure and proceed by performing the necessary tests in case of errors.
 

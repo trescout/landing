@@ -1,6 +1,6 @@
 # Qu'est-ce que Zero-shot Learning ?
 
-*Glossaire · AI · Dernière mise à jour : 3 juin 2026*
+*AI · Dernière mise à jour : 3 juin 2026*
 
 C’est la capacité de l’intelligence artificielle à prédire quelque chose pour lequel elle n’a aucune formation.
 

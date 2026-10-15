@@ -36,7 +36,7 @@ brew install --cask aprilnea/tap/openlogi@latest
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die volle Kontrolle über meine Logitech-Maus, -Tastatur und -Webcam haben. Wie konfiguriere ich meine Tastenkombinationen, DPI-Empfindlichkeitseinstellungen und Kamerabildsteuerungen mit OpenLogi? Erklären Sie Schritt für Schritt, wie ich meine Geräte anpassen und anwendungsbasierte Profile erstellen kann, insbesondere mit der Konfigurationsdatei im TOML-Format.
 

@@ -1,6 +1,6 @@
 # What is Policies?
 
-*Dictionary · Dev · Last updated: October 14, 2026*
+*Dev · Last updated: October 14, 2026*
 
 A set of rules applied on the system that define the security and usage standards of institutions.
 

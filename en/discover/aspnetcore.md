@@ -46,7 +46,7 @@ dotnet run
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a modern, cloud-based and scalable web application using the ASP.NET Core framework. I plan to run my project on Windows, macOS or Linux. What kind of architecture should I establish using the modular structure of this platform and what basic components should I focus on to increase efficiency in the application development process?
 

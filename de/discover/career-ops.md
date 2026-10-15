@@ -45,7 +45,7 @@ claude
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Career-Ops-System personalisieren. Lassen Sie das System Stellenausschreibungen anhand der für mich am besten geeigneten Kriterien bewerten, basierend auf meinem Lebenslauf und meinen Karrierezielen. Helfen Sie mir, alle notwendigen Einstellungen vorzunehmen, um meine Profilkonfiguration abzuschließen und bestimmte Unternehmen zu meiner Merkliste hinzuzufügen.
 

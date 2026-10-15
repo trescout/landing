@@ -1,6 +1,6 @@
 # O que é Offline?
 
-*Glossário · Dev · Última atualização: 3 de junho de 2026*
+*Dev · Última atualização: 3 de junho de 2026*
 
 O sistema funciona com recursos próprios do aparelho, sem necessidade de conexão com a internet.
 

@@ -39,7 +39,7 @@ http://localhost:8080
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Stirling-PDF aracını kullanarak PDF belgelerim üzerinde düzenleme, dönüştürme ve birleştirme işlemlerini nasıl yapabilirim? Belgelerimi yerel olarak güvende tutarak 50'den fazla araçtan en verimli şekilde nasıl yararlanabileceğim konusunda bana rehberlik et ve iş akışlarımı otomatize etmeme yardımcı ol.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stirling-pdf/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

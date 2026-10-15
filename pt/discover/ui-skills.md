@@ -48,7 +48,7 @@ npx ui-skills get baseline-ui
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como engenheiro de design, quero aprimorar minhas habilidades de desenvolvimento de interfaces. Usando a ferramenta UI Skills, liste as competências técnicas na categoria de movimento e explique as etapas necessárias para adquirir a habilidade básica de UI.
 

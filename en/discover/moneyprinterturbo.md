@@ -49,7 +49,7 @@ Requires an AI model API key + installation to work; API usage may be charged. I
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install and run MoneyPrinterTurbo: Download the repository with 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git', enter the directory and launch it with the 'docker-compose up' command, then open the web interface from the browser at http://127.0.0.1:8501.
 

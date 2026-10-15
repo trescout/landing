@@ -1,6 +1,6 @@
 # Qu'est-ce que Jailed ?
 
-*Glossaire · Dev · Dernière mise à jour : 29 septembre 2026*
+*Dev · Dernière mise à jour : 29 septembre 2026*
 
 Il s'agit d'une situation dans laquelle un programme est exécuté dans une zone isolée et restreinte, l'empêchant d'accéder au reste du système d'exploitation.
 

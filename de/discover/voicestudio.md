@@ -32,7 +32,7 @@ bun run desktop
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich mit VoiceStudio Stimmklonung, Videosynchronisation oder Text-to-Speech auf meiner lokalen Hardware durchführen? Erkläre die grundlegenden Schritte zur Verwaltung der Sprachmodelle innerhalb der Anwendung, zum Klonen durch Hinzufügen eines neuen Stimmbeispiels und zur effizientesten Durchführung mehrsprachiger Sprachsyntheseprozesse.
 

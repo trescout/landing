@@ -1,6 +1,6 @@
 # Code Knowledge Graph nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 3 Ekim 2026*
+*Geliştirme · Son güncelleme: 3 Ekim 2026*
 
 Yazılım projelerindeki kod ögelerini ve aralarındaki ilişkileri bir bilgi ağ ağı şeklinde haritalandıran yapıdır.
 
@@ -39,8 +39,8 @@ Yapay zekânın kod hakkında eksik veya hatalı çıkarımlar yapmasını engel
 - [Code Intelligence Graph](https://trescout.com/dictionary/code-intelligence-graph/)
 - [LLM](https://trescout.com/dictionary/llm/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/code-knowledge-graph/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -44,7 +44,7 @@ tursodb
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine SQLite-kompatible In-Process-Datenbank mit der Turso-Datenbank verwalten. Führen Sie mich durch den Prozess des Erstellens von Datenbanktabellen, des Einfügens von Daten und des Abfragens durch mein aktuelles Setup. Geben Sie insbesondere Beispiele für die Interaktion mit der SQLite-Syntax und die Verwaltung von Daten.
 

@@ -34,7 +34,7 @@ pytest
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to write unit tests in my Python project. How can I create a simple test file using Pytest and run the tests I wrote through the terminal? Please tell me about the assert structure I should use when defining test functions and the file naming conventions for automatic discovery of tests.
 

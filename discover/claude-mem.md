@@ -1,6 +1,6 @@
 # Yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın
 
-**claude-mem**, AI ajanlarınızın **oturumlar arası hatırlama** yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, AI ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
+**claude-mem**, yapay zekâ ajanlarınızın **oturumlar arası hatırlama** yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, yapay zekâ ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 
 - ★ 100.574
 - TypeScript
@@ -44,7 +44,7 @@ Ajanın oturumda yaptığı işlemleri otomatik kaydeder.
 
 2 · Özetle
 
-AI ile anlamlı, sıkıştırılmış özetlere dönüştürür.
+Yapay zekâ ile anlamlı, sıkıştırılmış özetlere dönüştürür.
 
 3 · Hatırlat
 
@@ -52,7 +52,7 @@ Sonraki oturumda ilgili bağlamı ajana geri verir.
 
 ## Kurulum (tek komut)
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terminalde 'npx claude-mem install' komutunu çalıştırarak Claude-Mem'i kur, sonra Claude Code'u yeniden başlat; bundan sonra önceki oturumların hafızası yeni oturumlara otomatik olarak taşınacaktır.
 
@@ -72,4 +72,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-mem/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

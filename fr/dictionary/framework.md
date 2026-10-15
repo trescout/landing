@@ -1,6 +1,6 @@
 # Qu'est-ce que Framework ?
 
-*Glossaire · Dev · Dernière mise à jour : 7 juin 2026*
+*Dev · Dernière mise à jour : 7 juin 2026*
 
 Il s'agit d'un ensemble de structures et de règles prêtes à l'emploi utilisées pour accélérer le travail lors du développement de logiciels.
 

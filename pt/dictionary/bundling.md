@@ -1,6 +1,6 @@
 # O que é Bundling?
 
-*Glossário · Dev · Última atualização: 14 de junho de 2026*
+*Dev · Última atualização: 14 de junho de 2026*
 
 É a combinação de muitos pequenos arquivos de código necessários para o funcionamento dos sites e transformados em um único pacote.
 

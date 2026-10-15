@@ -61,7 +61,7 @@ find .cursor/rules -name "*.mdc" | wc -l  # Should show 346
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Active los paquetes de habilidades en esta biblioteca para Claude Code o el agente de codificación que utilice. Estandarice mi flujo de trabajo y aumente mi productividad utilizando scripts especializados en campos como ingeniería, marketing o consultoría de nivel C. Integrar las capacidades específicas que necesito (por ejemplo, auditoría de seguridad o desarrollo de productos) en mi proyecto.
 

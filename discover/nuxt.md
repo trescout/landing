@@ -29,7 +29,7 @@ npm create nuxt@latest <my-project>
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Vue.js tabanlı projelerim için Nuxt çerçevesini kullanmak istiyorum. Projemi başlatmak ve sunucu taraflı işleme özelliklerinden faydalanarak tam yığın bir web uygulaması geliştirmek için izlemem gereken temel adımları, bileşen yapısını ve SEO optimizasyonu için kullanabileceğim araçları açıklar mısın?
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nuxt/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

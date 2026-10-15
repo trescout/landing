@@ -44,7 +44,7 @@ You can use the ready-made site (openstock-ods.vercel.app) directly or install i
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me install an open source stock tracking application called OpenStock; Download the repository with 'git clone https://github.com/Open-Dev-Society/OpenStock.git', 'cd OpenStock' and run 'pnpm install', set the necessary .env variables and start the development server with 'pnpm dev' and open it at http://localhost:3000.
 

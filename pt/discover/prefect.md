@@ -43,7 +43,7 @@ prefect server start
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero automatizar meus fluxos de trabalho de dados usando Python. Ajude-me a criar um pipeline de dados simples usando os decoradores de fluxo e tarefas da biblioteca Prefect. Explique com códigos de amostra como posso integrar recursos de gerenciamento de erros, agendamento e monitoramento e como posso transformar um arquivo Python em um fluxo de trabalho de nível de produção.
 

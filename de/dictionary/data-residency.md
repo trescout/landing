@@ -1,6 +1,6 @@
 # Was ist Data Residency?
 
-*Glossar · Data · Zuletzt aktualisiert: 9. August 2026*
+*Data · Zuletzt aktualisiert: 9. August 2026*
 
 Dabei handelt es sich um die Verpflichtung, Daten aus rechtlichen Gründen innerhalb der Grenzen einer bestimmten geografischen Region oder eines bestimmten Landes aufzubewahren.
 

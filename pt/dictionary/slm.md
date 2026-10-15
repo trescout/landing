@@ -1,6 +1,6 @@
 # O que é SLM?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 > Small Language Model
 

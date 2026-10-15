@@ -39,7 +39,7 @@ npx prompts.chat
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are an artificial intelligence expert. Use the techniques in the prompts.chat library to create the most suitable prompts for the user's goals. Break down complex tasks, apply step-by-step thinking methods, and provide the necessary context for the model to produce the best results.
 

@@ -27,7 +27,7 @@ Para começar e acessar a documentação, você pode visitar iii.dev.
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Para tentar o iii, primeiro crie um projeto com 'iii project init myapp', faça 'cd myapp' e inicie o mecanismo com o comando 'iii', depois adicione recursos com comandos como 'iii trabalhador adicionar fila' e conecte todos eles no mesmo sistema ativo; Se o SDK for necessário, instale 'npm install iii-sdk'.
 

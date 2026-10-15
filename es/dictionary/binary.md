@@ -1,6 +1,6 @@
 # ¿Qué es Binary?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Binary (en turco ikili), es el lenguaje de máquina que funciona con 0 y 1.
 

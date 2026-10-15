@@ -72,7 +72,7 @@ Los porcentajes provienen de promedios de un benchmark agentic corregido en 12 t
 
 ## Primer prompt
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Escribe sólo el código necesario para la tarea y luego revisa los cambios en términos de validación, manejo de errores, seguridad y accesibilidad.
 

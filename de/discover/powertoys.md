@@ -30,7 +30,7 @@ winget install Microsoft.PowerToys
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich verwende die PowerToys-Dienstprogrammsammlung, um meine Produktivität auf dem Windows-Betriebssystem zu steigern. Zeigen Sie mir, welche Tools meinen Arbeitsablauf optimieren können, und erklären Sie mir, welches Dienstprogramm ich zur Erledigung bestimmter Aufgaben verwenden sollte.
 

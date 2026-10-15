@@ -1,6 +1,6 @@
 # Attention Mechanism nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 29 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 29 Eylül 2026*
 
 Yapay zekânın bir metin içindeki en önemli kelimelere odaklanarak anlamı daha iyi kavramasını sağlayan yöntem.
 
@@ -34,8 +34,8 @@ Genel bellek veya sadece kelime sayma yöntemleriyle karıştırılabilir, ancak
 - [Attention](https://trescout.com/dictionary/attention/)
 - [LLM](https://trescout.com/dictionary/llm/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/attention-mechanism/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

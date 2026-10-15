@@ -51,7 +51,7 @@ python run_skill.py --input bulus_taslagi.txt --output patent_disclosure.md
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte einen formellen Text zur Offenlegung einer Erfindung unter Verwendung der Fähigkeiten zur Patentoffenlegung für einen von mir entwickelten verteilten Datenbank-Caching-Algorithmus vorbereiten. Können Sie den Ablauf des Algorithmus als Eingabe angeben und Schritt für Schritt erklären, wie unabhängige Ansprüche generiert werden, das technische Gebiet der Erfindung und die Unterschiede zum Stand der Technik?
 

@@ -1,6 +1,6 @@
 # Graph RAG nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 31 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 31 Ağustos 2026*
 
 > Graph Retrieval-Augmented Generation
 
@@ -41,8 +41,8 @@ Verileriniz arasında karmaşık hiyerarşiler veya çoklu bağlantılar varsa G
 - [GitNexus](https://trescout.com/discover/gitnexus/)
 - [Code Graph RAG](https://trescout.com/discover/code-graph-rag/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/graph-rag/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

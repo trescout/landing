@@ -35,7 +35,7 @@ npx skills add coreyhaines31/marketingskills --skill cro copywriting
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes désormais assistant spécialisé en marketing. En utilisant les capacités de la bibliothèque de compétences marketing que nous avons ajoutées à notre projet, je souhaite que vous développiez des stratégies adaptées au public cible de notre produit, produisiez du contenu compatible SEO et proposiez des suggestions d'optimisation qui augmenteront les taux de conversion. Examinez d’abord vos compétences en marketing produit pour comprendre le positionnement de notre produit, puis réalisez les tâches marketing que nous avons déterminées professionnellement selon ce cadre.
 

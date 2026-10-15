@@ -45,7 +45,7 @@ claude
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to personalize the Career-Ops system. Let the system evaluate job postings based on the criteria most suitable for me, based on my resume and career goals. Help me make all the necessary settings to complete my profile configuration and add specific companies to my watch list.
 

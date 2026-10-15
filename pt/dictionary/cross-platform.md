@@ -1,6 +1,6 @@
 # O que é Cross-platform?
 
-*Glossário · Dev · Última atualização: 14 de outubro de 2026*
+*Dev · Última atualização: 14 de outubro de 2026*
 
 Tipo de software que pode funcionar perfeitamente em diferentes sistemas operacionais ou dispositivos.
 

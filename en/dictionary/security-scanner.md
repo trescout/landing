@@ -1,6 +1,6 @@
 # What is Security Scanner?
 
-*Dictionary · Dev · Last updated: June 15, 2026*
+*Dev · Last updated: June 15, 2026*
 
 It is a tool that automatically detects vulnerabilities in software or network systems.
 

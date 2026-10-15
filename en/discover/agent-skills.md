@@ -30,7 +30,7 @@ claude --plugin-dir /path/to/agent-skills
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want you to work like a software engineer. Using the Agent Skills library, apply /spec, /plan, /build, /test, /review, /code-simplify and /ship commands in accordance with standards at every stage of my software development process. Produce code by following workflows, quality control points, and engineering best practices.
 

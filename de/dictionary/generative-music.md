@@ -1,6 +1,6 @@
 # Was ist Generative Music?
 
-*Glossar · AI · Zuletzt aktualisiert: 28. September 2026*
+*AI · Zuletzt aktualisiert: 28. September 2026*
 
 Es handelt sich um eine Musikrichtung, die durch künstliche Intelligenz und Algorithmen dynamisch komponiert und ständig erneuert wird.
 

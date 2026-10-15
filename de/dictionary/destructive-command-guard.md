@@ -1,6 +1,6 @@
 # Was ist Destructive Command Guard?
 
-*Glossar · Dev · Zuletzt aktualisiert: 13. Juli 2026*
+*Dev · Zuletzt aktualisiert: 13. Juli 2026*
 
 Es handelt sich um einen Sicherheitsschild, der Sie daran hindert, Befehle auszuführen, bei denen das Risiko besteht, dass Daten gelöscht oder das System beschädigt werden.
 

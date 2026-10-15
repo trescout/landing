@@ -1,6 +1,6 @@
 # Was ist SpeechAnalyzer?
 
-*Glossar · AI · Zuletzt aktualisiert: 14. Juli 2026*
+*AI · Zuletzt aktualisiert: 14. Juli 2026*
 
 Dabei handelt es sich um ein Analysetool, das Audioaufnahmen in Text umwandelt und die Emotion, den Ton oder die Bedeutung in diesem Text analysiert.
 

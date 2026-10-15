@@ -1,6 +1,6 @@
 # What is GDPR?
 
-*Dictionary · Data · Last updated: August 9, 2026*
+*Data · Last updated: August 9, 2026*
 
 > General Data Protection Regulation
 

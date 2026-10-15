@@ -29,7 +29,7 @@ pip install lmcache
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je optimiser la gestion du cache KV pour les grands modèles de langage à l'aide de la bibliothèque LMCache ? Quelles sont les étapes de base que je dois suivre après l'installation pour augmenter les performances et rendre l'utilisation de la mémoire efficace, en particulier dans les requêtes à contexte long ? Expliquez comment je peux intégrer cette couche dans mon système d'inférence existant, en tenant compte du principe de fonctionnement indépendant du moteur énoncé dans la documentation.
 

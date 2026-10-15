@@ -32,7 +32,7 @@ docker-compose up -d
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite afficher du contenu sur Twitter tout en protégeant ma vie privée. Expliquez-moi étape par étape comment installer et configurer Nitter, ce qui me permettra d'accéder à Twitter sans exécuter JavaScript, en masquant mon adresse IP et l'empreinte digitale de mon navigateur.
 

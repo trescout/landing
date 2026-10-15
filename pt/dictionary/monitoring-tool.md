@@ -1,6 +1,6 @@
 # O que é Monitoring Tool?
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 São softwares que monitoram continuamente se os sistemas estão funcionando corretamente e emitem alertas em caso de erro.
 

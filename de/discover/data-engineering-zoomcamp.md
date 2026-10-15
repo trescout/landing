@@ -19,7 +19,7 @@ Data Engineering Zoomcamp ist ein kostenloser neunwöchiger Kurs des DataTalksCl
 
 ## Wie nutzt man es mit KI?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich gebe Ihnen den Inhalt eines kostenlosen 9-wöchigen Kurses namens „Data Engineering Zoomcamp“, der Data Engineering mit Tools wie Docker, Terraform, BigQuery, dbt, Spark und Kafka lehrt. Sehen Sie sich den Lehrplan an und legen Sie anhand meines Wissensstands fest, mit welchem ​​Modul ich beginnen soll, und erstellen Sie einen wöchentlichen Lernplan für mich. Mein Niveau: [zB. Anfänger]. Mein Ziel: [zB. Dateningenieur werden].
 

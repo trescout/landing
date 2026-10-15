@@ -42,7 +42,7 @@ agent-reach doctor
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Bitte helfen Sie mir bei der Installation des Agent Reach-Tools. Installieren Sie automatisch alle erforderlichen Tools und Konfigurationen auf meinem System mithilfe des offiziellen Installationsdokuments auf GitHub (https://raw.githubusercontent.com/Panniantong/agent-reach/main/docs/install.md). Führen Sie nach Abschluss der Installation den erforderlichen Diagnosebefehl aus, um zu überprüfen, welche Plattformen aktiv sind.
 

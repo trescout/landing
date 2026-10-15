@@ -30,7 +30,7 @@ open http://localhost:31337
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 For me, I want to build a personal life operating system using the Personal AI Infrastructure (PAI) system. Can you help me get the system ready using the existing installation command and then configure my digital assistant by making my first interview via the lifeboard at localhost:31337?
 

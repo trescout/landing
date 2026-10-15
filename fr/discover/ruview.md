@@ -72,7 +72,7 @@ Le mode RSSI seul sur ordinateur portable vise une détection grossière de pré
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment évaluer un scénario simple de détection de mouvement avec des données WiFi CSI simulées ?
 

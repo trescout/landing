@@ -1,6 +1,6 @@
 # Core Libraries nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 7 Ağustos 2026*
+*Geliştirme · Son güncelleme: 7 Ağustos 2026*
 
 Bir yazılımın temel işlevlerini yerine getirmesi için ihtiyaç duyduğu standart kod paketleridir.
 
@@ -38,8 +38,8 @@ Yazılım geliştirme sürecini hızlandırır, hataları azaltır ve kodun daha
 
 - [Guava](https://trescout.com/discover/guava/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/core-libraries/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

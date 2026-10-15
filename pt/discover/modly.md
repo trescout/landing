@@ -51,7 +51,7 @@ launch.bat
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero converter uma imagem em um modelo 3D usando o aplicativo Modly. Ajude-me a configurar o fluxo 'Imagem -> Gerar malha -> Adicionar à cena' acessando a guia 'Fluxos de trabalho' no aplicativo. Então, deixe-me iniciar a geração do modelo 3D selecionando o fluxo de trabalho relevante na guia “Gerar”. Se eu receber um erro, como posso analisar o problema na seção 'Configurações/Registros/Erros'?
 

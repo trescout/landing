@@ -29,7 +29,7 @@ export ANTHROPIC_API_KEY="..." OPENAI_API_KEY="..."
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso proteger meus agentes empresariais de IA contra vulnerabilidades? Como posso monitorar as atividades dos agentes, detectar ameaças e avaliar o poder de defesa do meu sistema fazendo comparações de segurança usando o sistema ADR? Explique as etapas que preciso seguir neste processo e como configurar os recursos de observabilidade que o ADR oferece.
 

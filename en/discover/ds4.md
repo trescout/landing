@@ -56,7 +56,7 @@ make cpu              # CPU-only diagnostics build
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me choose the most suitable DeepSeek or GLM model according to the hardware features of my system. Which download command should I use and how can I overcome the memory bottleneck by activating the streaming feature over SSD? Also, explain the basic configuration settings required for me to use this artificial intelligence system I have installed as a local server.
 

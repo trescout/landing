@@ -1,6 +1,6 @@
 # Was ist Texture Painting?
 
-*Glossar · Dev · Zuletzt aktualisiert: 12. September 2026*
+*Dev · Zuletzt aktualisiert: 12. September 2026*
 
 Es ist der Prozess, die Oberfläche von dreidimensionalen Modellen mit digitalen Pinseln zu bemalen, um ihnen Farbe, Textur und Details zu verleihen.
 

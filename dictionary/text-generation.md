@@ -1,6 +1,6 @@
 # Text Generation nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 7 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 7 Ağustos 2026*
 
 Bilgisayarın verilen komutlara dayanarak anlamlı ve doğal cümleler kurarak metin üretmesidir.
 
@@ -34,8 +34,8 @@ Evet, bazen gerçek dışı bilgiler üretebilir, buna 'halüsinasyon' denir.
 - [Prompt](https://trescout.com/dictionary/prompt/)
 - [Hallucination](https://trescout.com/dictionary/hallucination/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/text-generation/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

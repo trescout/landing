@@ -51,7 +51,7 @@ Bu bir araştırma modelidir; yatırım tavsiyesi ya da hazır kazanç aracı de
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kronos finansal tahmin modelini kur: depoyu indirip içinde 'pip install -r requirements.txt' çalıştır, sonra 'python examples/prediction_example.py' betiğini çalıştırarak K-line (mum grafiği) verisi üzerinde bir fiyat tahmini üret ve sonucu grafikle.
 
@@ -72,4 +72,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kronos/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

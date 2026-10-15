@@ -1,6 +1,6 @@
 # Qu'est-ce que Vector Database ?
 
-*Glossaire · Data · Dernière mise à jour : 3 juin 2026*
+*Data · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit d’un type particulier de base de données dans laquelle l’intelligence artificielle stocke les données afin de pouvoir les retrouver rapidement en fonction de leur signification.
 

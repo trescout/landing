@@ -19,7 +19,7 @@ GitHub Docs est un référentiel open source contenant le code source de la docu
 
 ## Comment l'utiliser avec l'IA ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Ce référentiel (github/docs) est le référentiel source de la documentation open source officielle de GitHub. Examinez la structure du contenu et le guide de contribution et cela me donne une feuille de route en turc : comment puis-je contribuer à cette documentation, où trouver les fichiers de contenu et quelles étapes je dois suivre pour ma première contribution.
 

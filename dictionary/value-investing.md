@@ -1,6 +1,6 @@
 # Value Investing nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 27 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 27 Haziran 2026*
 
 Gerçek değerinden daha düşük fiyatlandığını düşündüğünüz varlıkları uzun vadeli kazanç için satın alma stratejisidir.
 
@@ -34,8 +34,8 @@ Hayır, bu strateji genellikle uzun yıllar süren bir sabır ve analiz süreci 
 - [Prediction Market](https://trescout.com/dictionary/prediction-market/)
 - [Data Pipeline](https://trescout.com/dictionary/data-pipeline/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/value-investing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

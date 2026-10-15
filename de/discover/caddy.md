@@ -28,7 +28,7 @@ go build
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte den erweiterbaren Webserver namens Caddy aus dem Quellcode kompilieren und testen. Nachdem ich das Projekt geklont und in das Verzeichnis gewechselt bin, kann ich den Kompilierungsbefehl ausführen und die Module mit Testbefehlen verifizieren.
 

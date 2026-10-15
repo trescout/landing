@@ -15,7 +15,7 @@ FreeLLMAPI fournit un routage intelligent et une tolérance aux pannes en regrou
 
 ## Ce que ça vous apporte
 
-- 34 fournisseurs de modèles gratuits : accès unique à des dizaines de fournisseurs gratuits, notamment Google Gemini, Groq, Cloudflare Workers AI et HuggingFace.
+- 34 fournisseurs de modèles gratuits : accès unique à des dizaines de fournisseurs gratuits, notamment Google Gemini, Groq, Cloudflare Workers AI et Hugging Face.
 - Compatibilité de l'API OpenAI REST : travaillez avec LangChain, LlamaIndex et les applications d'IA existantes sans modifier le code, grâce au point de terminaison /v1/chat/completions.
 - Routage intelligent et récupération en cas de panne : passez automatiquement à un autre fournisseur lorsqu'un fournisseur atteint la limite de débit ou tombe en panne.
 - Prise en charge du streaming (événements envoyés par le serveur) : possibilité de recevoir les sorties du modèle sous forme de flux mot par mot en temps réel.
@@ -57,7 +57,7 @@ curl http://localhost:3000/v1/chat/completions \
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pouvez-vous expliquer avec des exemples de code comment exécuter l'outil FreeLLMAPI sur mon serveur local avec Docker, comment faire pointer le SDK OpenAI Node.js vers ce point de terminaison local et comment activer l'utilisation d'un modèle de secours automatique en cas de défaillance d'un fournisseur ?
 

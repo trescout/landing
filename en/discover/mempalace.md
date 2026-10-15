@@ -37,7 +37,7 @@ pip install mempalace
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up my local AI memory system using the MemPalace tool. Can you explain to me the basic steps I need to follow to create a structure where I can scan my project files and conversation history and perform semantic searches, and the process from installation to the first search?
 

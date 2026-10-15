@@ -1,6 +1,6 @@
 # Qu'est-ce que Executables ?
 
-*Glossaire · Dev · Dernière mise à jour : 5 octobre 2026*
+*Dev · Dernière mise à jour : 5 octobre 2026*
 
 Programmes que l'ordinateur peut exécuter directement, généralement connus sous le nom de fichiers d'installation ou d'application.
 

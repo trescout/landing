@@ -1,6 +1,6 @@
 # O que é Plugin?
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 Um plugin é um componente de software modular independente que adiciona novos recursos, ferramentas e funcionalidades a um sistema sem alterar o código principal do software ou exigir recompilação.
 

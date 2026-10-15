@@ -43,7 +43,7 @@ sudo systemctl start nginx
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a web server or reverse proxy using NGINX. What steps should I follow to meet the requirements of the system and how can I interpret the module information I obtain with the nginx -V command? Please guide me on the basic directives that I should pay attention to during the installation and configuration process.
 

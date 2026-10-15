@@ -37,7 +37,7 @@ pip install mempalace
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar meu sistema de memória AI local usando a ferramenta MemPalace. Você pode me explicar os passos básicos que preciso seguir para criar uma estrutura onde eu possa escanear meus arquivos de projeto e histórico de conversas e realizar pesquisas semânticas, e o processo desde a instalação até a primeira pesquisa?
 

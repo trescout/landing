@@ -1,6 +1,6 @@
 # Recursive Reproduction Number nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 2 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 2 Eylül 2026*
 
 Bir yapay zekâ sisteminin kendi kendini geliştirme ve çoğaltma sürecindeki büyüme hızıdır.
 
@@ -38,8 +38,8 @@ Sistem çok hızlı bir şekilde tahmin edilemez bir seviyeye ulaşabilir.
 - [Autonomous AI Agent](https://trescout.com/dictionary/autonomous-ai-agent/)
 - [Continuous Learning](https://trescout.com/dictionary/continuous-learning/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/recursive-reproduction-number/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

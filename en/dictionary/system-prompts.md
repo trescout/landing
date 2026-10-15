@@ -1,6 +1,6 @@
 # What is System Prompts?
 
-*Dictionary · AI · Last updated: June 10, 2026*
+*AI · Last updated: June 10, 2026*
 
 It is a set of basic instructions that determine how artificial intelligence will behave and what rules it will follow.
 

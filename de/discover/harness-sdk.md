@@ -34,7 +34,7 @@ npm install @strands-agents/harness
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Paket strands-harness in meiner Python- oder TypeScript-Umgebung installieren, um den KI-Agenten-Loop zu starten und zu testen. Kannst du nach dem Installieren der erforderlichen Bibliothek einen Code schreiben, mit dem ich einen einfachen Agenten erstellen und ihm eine Beispielaufgabe zuweisen kann?
 

@@ -36,7 +36,7 @@ cp ai-berkshire/skills/*.md ~/.claude/commands/
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Als Investmentanalyst analysieren Sie das von mir ausgewählte Unternehmen anhand der Methoden von Warren Buffett, Charlie Munger, Duan Yongping und Li Lu. Bewerten Sie in Ihrer Analyse nicht nur Finanzdaten, sondern auch die Nachhaltigkeit des Geschäftsmodells, Wettbewerbsvorteile (Burggraben), Managementqualität und mögliche Risiken aus vier verschiedenen Perspektiven. Nutzen Sie unabhängige Quellen, um Informationen zu überprüfen, sagen Sie in unklaren Situationen lieber „Ich weiß nicht“ und geben Sie strategische Ratschläge mit einer klaren Preisspanne für die Investitionsentscheidung.
 

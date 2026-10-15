@@ -29,9 +29,9 @@
 
 GitHub sayfasında ilgilendiğiniz teknolojiyi seçebilir ve adım adım hazırlanan rehberleri takip edebilirsiniz.
 
-## AI ile nasıl kullanılır?
+## Yapay zekâ ile nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sana 'build-your-own-x' adlı, sıfırdan kendi teknolojini (veritabanı, işletim sistemi, programlama dili, web sunucusu gibi) yapmayı öğreten adım adım rehber bağlantılarından oluşan bir liste vereceğim. Bu listeyi incele ve mevcut seviyeme ve hedefime göre hangi projelerden başlamam gerektiğini sırala, bana haftalık bir çalışma planı çıkar. Seviyem: [örn. yeni başlayan]. Hedefim: [örn. kendi web sunucumu yapmak].
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/build-your-own-x/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

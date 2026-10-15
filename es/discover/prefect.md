@@ -43,7 +43,7 @@ prefect server start
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero automatizar mis flujos de trabajo de datos usando Python. Ayúdame a crear una canalización de datos simple utilizando los decoradores de flujo y tareas de la biblioteca Prefect. Explique con códigos de muestra cómo puedo integrar funciones de gestión de errores, programación y monitoreo, y cómo puedo convertir un archivo Python en un flujo de trabajo a nivel de producción.
 

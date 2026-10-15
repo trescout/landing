@@ -1,6 +1,6 @@
 # What is Script?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Script is a short sequence of commands that performs a single task automatically.
 

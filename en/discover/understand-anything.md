@@ -47,7 +47,7 @@ What does this project do and where should I look to make changes?
 
 ## Try it in 2 minutes
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the Understand Anything plugin in Claude Code with the commands '/plugin marketplace add Lum1104/Understand-Anything' and '/plugin install understand-anything', then in my project run '/understand' to analyze the codebase and open the interactive knowledge graph panel with '/understand-dashboard'.
 

@@ -1,6 +1,6 @@
 # What is Tokenizer?
 
-*Dictionary · AI · Last updated: September 19, 2026*
+*AI · Last updated: September 19, 2026*
 
 Tokenizer is the basic data processing component that converts natural language texts into numerical tokens (token IDs) that large language models (LLMs) and neural networks can mathematically process.
 

@@ -1,6 +1,6 @@
 # AI Observability nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 17 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 17 Temmuz 2026*
 
 Yapay zekâ sistemlerinin iç dünyasını izleyerek nasıl karar verdiğini ve nerede hata yaptığını takip etme sürecidir.
 
@@ -42,8 +42,8 @@ Evet, çünkü yapay zekânın her kararını kaydetmek büyük veri yükü olu�
 
 - [Posthog](https://trescout.com/discover/posthog/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-observability/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

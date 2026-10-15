@@ -1,6 +1,6 @@
 # What is Vector Index?
 
-*Dictionary · Data · Last updated: June 8, 2026*
+*Data · Last updated: June 8, 2026*
 
 It is a mapping method used to quickly search and find the numerical equivalents (vectors) of data.
 

@@ -29,7 +29,7 @@ brew install --cask codexbar
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso rastrear com mais eficiência os limites e tempos de redefinição dos serviços de inteligência artificial que uso no CodexBar? Especificamente, como posso configurar esta ferramenta usando minhas chaves de API ou sessões do navegador sem precisar fazer login?
 

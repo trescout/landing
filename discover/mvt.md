@@ -42,7 +42,7 @@ mvt completion bash
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim için mobil cihaz adli bilişim aracı olan Mobile Verification Toolkit üzerinde kurulum ve komut çalıştırma adımlarında bana rehberlik et. uv tool install mvt komutunu kullanarak aracı kuralım ve ardından mvt completion bash komutunu çalıştırarak kabuk tamamlama betiğini oluşturalım.
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mvt/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

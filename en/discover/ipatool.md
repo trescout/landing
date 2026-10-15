@@ -52,7 +52,7 @@ ipatool download -b org.telegram.Telegram-iOS
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to download the IPA package of an iOS application to my computer using ipatool, unpack its contents, and examine the embedded libraries and permission configurations in the Info.plist file from a security perspective. Could you explain step-by-step how to log in, search, and download using ipatool in the terminal, and then how to extract the IPA file and perform static analysis?
 

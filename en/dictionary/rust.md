@@ -1,6 +1,6 @@
 # What is Rust?
 
-*Dictionary · Dev · Last updated: June 14, 2026*
+*Dev · Last updated: June 14, 2026*
 
 It is a high-performance system programming language that prioritizes memory security.
 

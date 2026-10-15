@@ -1,6 +1,6 @@
 # What is Edge Computing?
 
-*Dictionary · Dev · Last updated: June 23, 2026*
+*Dev · Last updated: June 23, 2026*
 
 It is the processing of data on or very close to the device itself where the data is produced, without being sent to a central server.
 

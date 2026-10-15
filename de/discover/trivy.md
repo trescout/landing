@@ -51,7 +51,7 @@ trivy image imaj-adi:etiket
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte einen Sicherheitsworkflow auf GitHub Actions einrichten, der mein Docker-Image und meine Quellcodes mit Trivy bei jeder Code-Push- und Pull-Anfrage (PR) scannt. Können Sie eine vollständige .github/workflows/trivy.yml-Datei erstellen, die den Build nur bei Schwachstellen KRITISCH und HOHER Stufe stoppt (Exit-Code 1), die Ergebnisse im SARIF-Format in das GitHub-Sicherheitsdashboard hochlädt und eine SBOM-Datei im CycloneDX-Format erstellt?
 

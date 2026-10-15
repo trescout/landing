@@ -36,7 +36,7 @@ uv pip install '.[torch]'
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter un modèle de rendu de texte à l'aide de la bibliothèque Transformers. Comment puis-je démarrer rapidement avec l'API Pipeline ? Pouvez-vous nous aider avec un exemple de code et une explication étape par étape ?
 

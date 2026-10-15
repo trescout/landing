@@ -42,7 +42,7 @@ nvm install 24
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to manage multiple versions of Node.js on my computer. How do I install Node.js version 24 and switch between different versions using the NVM tool? Can you explain step by step the process of changing the version on the command line?
 

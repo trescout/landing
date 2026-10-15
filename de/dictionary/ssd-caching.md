@@ -1,6 +1,6 @@
 # Was ist SSD Caching?
 
-*Glossar · Dev · Zuletzt aktualisiert: 18. August 2026*
+*Dev · Zuletzt aktualisiert: 18. August 2026*
 
 Dabei handelt es sich um den Prozess, die Gesamtreaktionszeit des Computers zu erhöhen, indem häufig verwendete Daten auf schnellen SSD-Festplatten gespeichert werden.
 

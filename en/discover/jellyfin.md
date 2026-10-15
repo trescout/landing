@@ -43,7 +43,7 @@ Docker is installed on a server or NAS. Installation guide is at jellyfin.org; A
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to install Jellyfin media server; Download and install the version suitable for my operating system from the official jellyfin.org/downloads page, or help me run it with the 'jellyfin/jellyfin' image if I use Docker.
 

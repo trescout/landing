@@ -35,7 +35,7 @@ pnpm dev
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Analise a captura de tela e crie uma estrutura de código limpa e funcional que reflita exatamente o design da imagem. Prepare a saída em formato HTML ou React usando Tailwind CSS. Extraia os logotipos e ativos reais da imagem e inclua-os no código, codificando todos os elementos do design de forma responsiva.
 

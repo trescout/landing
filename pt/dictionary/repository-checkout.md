@@ -1,6 +1,6 @@
 # O que é Repository Checkout?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Check-out do repositório é o processo de download de uma versão específica do repositório para o seu espaço de trabalho.
 

@@ -1,6 +1,6 @@
 # O que é Unsoundness?
 
-*Glossário · Dev · Última atualização: 13 de outubro de 2026*
+*Dev · Última atualização: 13 de outubro de 2026*
 
 A situação em que as regras que uma linguagem de programação afirma serem seguras são, na verdade, defeituosas ou incompletas.
 

@@ -1,6 +1,6 @@
 # What is Database?
 
-*Dictionary · Data · Last updated: June 14, 2026*
+*Data · Last updated: June 14, 2026*
 
 A digital environment where information is stored regularly and can be easily accessed and managed when needed.
 

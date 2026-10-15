@@ -41,7 +41,7 @@ Inclui clonagem de voz. Personificar a voz de uma pessoa sem permissão cria pro
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Execute 'pip install voxcpm' para instalar a ferramenta de conversão de texto em fala VoxCPM e, em seguida, gere um arquivo de áudio com o comando 'voxcpm design --text "Hello world" --output out.wav'; Se eu quiser, clone esse som usando 'voxcpm clone' com um arquivo de som de referência.
 

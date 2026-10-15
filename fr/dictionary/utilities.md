@@ -1,6 +1,6 @@
 # Qu'est-ce que Utilities ?
 
-*Glossaire · Dev · Dernière mise à jour : 19 septembre 2026*
+*Dev · Dernière mise à jour : 19 septembre 2026*
 
 Les utilitaires (ou fonctions auxiliaires) sont des paquets de modules indépendants, pratiques et à usage unique qui assurent la maintenance et la gestion dans les systèmes d'exploitation, et qui effectuent des tâches routinières répétitives dans les projets logiciels.
 

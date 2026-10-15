@@ -1,6 +1,6 @@
 # Was ist Object Storage System?
 
-*Glossar · Data · Zuletzt aktualisiert: 19. September 2026*
+*Data · Zuletzt aktualisiert: 19. September 2026*
 
 Eine groß angelegte Speichermethode, die Daten anstelle von Dateiordnern mit eindeutigen Identifikatoren speichert.
 

@@ -1,6 +1,6 @@
 # Was ist Durable Objects?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Dauerhafte Objekte sind kleine Wolkeneinheiten, die ihren Zustand beibehalten.
 

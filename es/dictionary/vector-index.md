@@ -1,6 +1,6 @@
 # ¿Qué es Vector Index?
 
-*Glosario · Data · Última actualización: 8 de junio de 2026*
+*Data · Última actualización: 8 de junio de 2026*
 
 Es un método de mapeo que se utiliza para buscar y encontrar rápidamente los equivalentes numéricos (vectores) de los datos.
 

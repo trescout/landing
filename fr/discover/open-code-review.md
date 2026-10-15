@@ -29,7 +29,7 @@ npm install -g @alibaba-group/open-code-review
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Passez en revue mes modifications Git actuelles à l’aide de l’outil Open Code Review. Analysez les fichiers dans la base de code, détectez les erreurs ligne par ligne et créez des commentaires structurés. Minimisez les faux positifs en suivant des règles déterministes pendant le processus d'examen et concentrez-vous uniquement sur les erreurs critiques de sécurité ou de logique.
 

@@ -41,7 +41,7 @@ restic init --repo /path/to/repo
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite sauvegarder mes données en toute sécurité à l'aide de Restic. Comment puis-je exporter un dossier local ou un répertoire spécifique vers un stockage de sauvegarde crypté ? Pouvez-vous s'il vous plaît expliquer étape par étape comment créer le magasin de sauvegarde et démarrer le processus de sauvegarde initial afin que mes données soient cryptées ?
 

@@ -1,6 +1,6 @@
 # O que é Runner Images?
 
-*Glossário · Dev · Última atualização: 27 de setembro de 2026*
+*Dev · Última atualização: 27 de setembro de 2026*
 
 Pacotes de ambiente virtual prontos que contêm todas as configurações e arquivos necessários para a execução do software.
 

@@ -1,6 +1,6 @@
 # Was ist Database?
 
-*Glossar · Data · Zuletzt aktualisiert: 14. Juni 2026*
+*Data · Zuletzt aktualisiert: 14. Juni 2026*
 
 Eine digitale Umgebung, in der Informationen regelmäßig gespeichert werden und bei Bedarf einfach abgerufen und verwaltet werden können.
 

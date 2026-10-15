@@ -1,6 +1,6 @@
 # Fine-tuned Ruleset nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 28 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 28 Temmuz 2026*
 
 Belirli bir işi daha iyi yapması için özel verilerle eğitilerek hassaslaştırılmış kurallar bütünü.
 
@@ -34,8 +34,8 @@ Modelin saçmalamasını engellemek ve her zaman sizin belirlediğiniz standartl
 - [System Prompts](https://trescout.com/dictionary/system-prompts/)
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/fine-tuned-ruleset/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

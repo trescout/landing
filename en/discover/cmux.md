@@ -36,7 +36,7 @@ brew upgrade --cask cmux
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 cmux is a macOS terminal that allows me to track notifications while working with AI coding agents, manage windows with vertical and horizontal tabs, and use the built-in browser. Summarize the steps required to install and start using this tool.
 

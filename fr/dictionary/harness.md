@@ -1,6 +1,6 @@
 # Qu'est-ce que Harness ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Harness (Türkçe karşılığıyla test koşum takımı), kodu otomatik olarak test eden bir çerçevedir.
 

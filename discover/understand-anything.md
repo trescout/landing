@@ -31,7 +31,7 @@ Karşınızda tanımadığınız 200.000 satırlık bir kod tabanı veya devasa 
 - **1 Ağustos 2026:** Yıldız 35.132 → 77.021, son sürüm v2.9.0 (10 Temmuz 2026), depo taşındı, yeni adresi Egonex-AI/Understand-Anything.
 
 - **Kimin için:** Bir kodu ya da doküman yığınını hızlı anlamak isteyen herkes
-- **Zorluk:** Başlangıç–orta · bir AI asistanı gerekir
+- **Zorluk:** Başlangıç–orta · bir yapay zekâ asistanı gerekir
 - **Kurulum:** ~5 dakika · ya da 0 (canlı demo)
 - **Ücret:** Ücretsiz · açık kaynak (MIT)
 - **Çalışır:** Claude Code, Codex, Antigravity, Gemini CLI, Cursor…
@@ -65,7 +65,7 @@ Kısa bir özet, en kritik birkaç dosyanın listesi ve parçaların birbirine n
 
 ## 2 dakikada deneyin
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code'da '/plugin marketplace add Lum1104/Understand-Anything' ve '/plugin install understand-anything' komutlarıyla Understand Anything eklentisini kur, sonra projemde '/understand' komutunu çalıştırarak kod tabanını analiz et ve '/understand-dashboard' ile etkileşimli bilgi grafiği panelini aç.
 
@@ -75,7 +75,7 @@ Claude Code'da '/plugin marketplace add Lum1104/Understand-Anything' ve '/plugin
 
 Kurduktan sonra asistana dosyalarınızı işaret edip düz cümleyle sorun.
 
-**Gerçekçi olalım:** "tek tıkla çalışır" değil. Çalışan bir AI asistanı (ve çoğu zaman bir hesap) gerekir. Hiç kurulum istemeyen tek yol yukarıdaki canlı demo.
+**Gerçekçi olalım:** "tek tıkla çalışır" değil. Çalışan bir yapay zekâ asistanı (ve çoğu zaman bir hesap) gerekir. Hiç kurulum istemeyen tek yol yukarıdaki canlı demo.
 
 ## Neden gündemde?
 
@@ -83,9 +83,9 @@ Kurduktan sonra asistana dosyalarınızı işaret edip düz cümleyle sorun.
 
 ## Sınırları · dürüstçe
 
-- Sihir değil: cevapların kalitesi, kullandığınız AI modeline bağlı.
+- Sihir değil: cevapların kalitesi, kullandığınız yapay zekâ modeline bağlı.
 - Çok büyük ve dağınık projelerde ilk tarama zaman alabilir.
-- Bir AI asistanı kurmanız (ve çoğu zaman bir hesap açmanız) gerekir.
+- Bir yapay zekâ asistanı kurmanız (ve çoğu zaman bir hesap açmanız) gerekir.
 
 ## Bağlantılar
 
@@ -106,4 +106,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/understand-anything/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

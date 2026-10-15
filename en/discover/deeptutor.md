@@ -49,7 +49,7 @@ deeptutor start    # starts backend + frontend; keep the terminal open
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I personalize my learning process using the DeepTutor system? Explain the basic steps I need to follow to create my own AI partners and optimize my lifelong learning experience by integrating my custom training materials into this system.
 

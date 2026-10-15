@@ -1,6 +1,6 @@
 # Was ist Apple Intelligence?
 
-*Glossar · AI · Zuletzt aktualisiert: 5. Oktober 2026*
+*AI · Zuletzt aktualisiert: 5. Oktober 2026*
 
 Es ist ein datenschutzorientiertes persönliches KI-System, das integriert auf Geräten im Apple-Ökosystem funktioniert.
 

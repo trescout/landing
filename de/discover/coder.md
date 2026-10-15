@@ -37,7 +37,7 @@ coder server
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine cloudbasierte Entwicklungsumgebung mit der Coder-Plattform einrichten. Wie kann ich meine mit Terraform definierten Arbeitsbereiche konfigurieren und die auf meiner Infrastruktur laufenden KI-Agenten zentral verwalten? Können Sie Schritt für Schritt erklären, wie ich einen Wireguard-Tunnel für eine sichere Verbindung einrichte und wie ich die Funktion zum automatischen Herunterfahren ungenutzter Ressourcen aktiviere, um die Infrastrukturkosten zu senken?
 

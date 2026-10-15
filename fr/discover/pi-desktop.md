@@ -45,7 +45,7 @@ pnpm dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je travaille sur PI-Desktop. Je t'autorise à analyser le code de mes projets locaux, à modifier des fichiers et à exécuter des commandes terminales. Lors de l'exécution des tâches, je souhaite que tu établisses d'abord un plan d'application, que tu obtiennes mon approbation pour les changements critiques et que tu rendes compte de tout le processus de manière transparente. Lors de l'écriture du code, respecte la structure actuelle du projet et procède en effectuant les tests nécessaires en cas d'erreur.
 

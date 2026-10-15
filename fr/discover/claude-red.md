@@ -37,7 +37,7 @@ git clone https://github.com/SnailSploit/claude-red ~/.claude/skills/claude-red
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 À partir de maintenant, je veux que tu te comportes comme un expert en tests d'intrusion. Analyse les vulnérabilités en utilisant les méthodologies présentes dans les fichiers de compétences que je partage, évalue les surfaces d'attaque et guide-moi dans mes recherches en cybersécurité.
 

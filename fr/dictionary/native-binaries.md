@@ -1,6 +1,6 @@
 # Qu'est-ce que Native Binaries ?
 
-*Glossaire · Dev · Dernière mise à jour : 6 octobre 2026*
+*Dev · Dernière mise à jour : 6 octobre 2026*
 
 Ce sont des fichiers de programme compilés pour être directement exécutables pour un système d'exploitation et une architecture de processeur spécifiques.
 

@@ -35,7 +35,7 @@ Packaged in agentskills.io standard; You can add it as a skill to your AI assist
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Add this community cybersecurity skills library to Claude Code by running 'npx skills add mukul975/Anthropic-Cybersecurity-Skills' in the terminal (note that this is not Anthropic's official project), then list me which security skills are ready to use.
 

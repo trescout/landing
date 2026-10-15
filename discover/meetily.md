@@ -31,7 +31,7 @@ pnpm install
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Toplantı kayıtlarımı yerel olarak işleyen bu aracı kullanarak, gizliliğimi koruyacak şekilde ses dökümlerimi metne dönüştürmek ve bu metinlerden özetler çıkarmak istiyorum. Verilerimin cihazımdan ayrılmadığından emin olarak, yerel modellerle en verimli toplantı notlarını nasıl oluşturabilirim?
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/meetily/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

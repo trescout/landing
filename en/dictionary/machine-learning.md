@@ -1,6 +1,6 @@
 # What is Machine Learning?
 
-*Dictionary · AI · Last updated: June 3, 2026*
+*AI · Last updated: June 3, 2026*
 
 It is technology that enables computers to learn on their own by learning from data.
 

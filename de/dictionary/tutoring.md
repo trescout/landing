@@ -1,6 +1,6 @@
 # Was ist Tutoring?
 
-*Glossar · AI · Zuletzt aktualisiert: 19. September 2026*
+*AI · Zuletzt aktualisiert: 19. September 2026*
 
 Nachhilfe (auf Türkisch, Privatunterricht oder Einzelberatung) ist ein personalisierter Unterrichtsprozess, der an den Wissensstand, die Defizite und die Geschwindigkeit des Verstehens eines Schülers angepasst ist.
 

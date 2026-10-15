@@ -44,7 +44,7 @@ python -m tools.cookie_fetcher --config config.yml
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Douyin platformundaki videoları, fotoğraf albümlerini ve müzikleri filigransız olarak bilgisayarıma indirmek istiyorum. Bu aracı kullanarak toplu indirme yapmamı sağlayacak, SQLite veritabanı ile mükerrer kayıtları engelleyecek ve tarayıcı yedekleme özelliğini aktif edecek şekilde yapılandırma dosyamı nasıl hazırlamalıyım? İndirme işlemlerini başlatmak için hangi komutları kullanmam gerektiğini adım adım açıkla.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/douyin-downloader/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

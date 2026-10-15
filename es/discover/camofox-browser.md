@@ -48,7 +48,7 @@ npm install && npm start
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un administrador de navegadores web. Accede a los sitios web objetivo utilizando Camofox-browser. Utiliza este navegador, oculto a nivel de C++, para evitar ser detectado como bot. Al extraer datos de páginas web, prefiere las instantáneas de accesibilidad (accessibility snapshots), que son más ligeras que el HTML sin procesar. Utiliza identificadores estables para los elementos con los que necesites interactuar y gestiona las sesiones aislándolas por usuario.
 

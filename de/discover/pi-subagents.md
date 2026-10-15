@@ -22,7 +22,7 @@ pi-subagents ist eine TypeScript-Bibliothek, die zur Verwaltung asynchroner Suba
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie dieses Paket mit dem Befehl „pi install npm:pi-subagents“, führen Sie dann eine Codeüberprüfung mit „/run reviewer“ durch oder führen Sie mehrere Experten-Subagenten (z. B. Reviewer, Scheduler) gleichzeitig mit „/parallel“ aus und verteilen Sie die Arbeit an sie.
 

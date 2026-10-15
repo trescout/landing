@@ -27,7 +27,7 @@ git clone -b v1.2 https://github.com/zeux/meshoptimizer.git
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero optimizar los datos de red tridimensionales que tengo. ¿Cómo puedo hacer que mis datos de vértices e índices sean más eficientes utilizando la biblioteca Meshoptimizer? Explicar los pasos básicos que debo seguir, especialmente en los procesos de optimización de la caché de vértices y edición del búfer de índice, utilizando las funciones que ofrece la biblioteca.
 

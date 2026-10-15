@@ -31,7 +31,7 @@ make prepare  # prepare the development environment
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je veux que vous travailliez en tant qu'agent de développement au sein du terminal. Tout en effectuant mes tâches de développement logiciel, je lis et modifie mes fichiers de code, exécute les commandes shell nécessaires et planifie les processus de manière autonome en recherchant sur Internet lorsque j'en ai besoin.
 

@@ -1,6 +1,6 @@
 # O que é Single Source of Truth?
 
-*Glossário · Data · Última atualização: 17 de julho de 2026*
+*Data · Última atualização: 17 de julho de 2026*
 
 > SSOT
 

@@ -1,6 +1,6 @@
 # Was ist Tutoring Models?
 
-*Glossar · AI · Zuletzt aktualisiert: 18. Juli 2026*
+*AI · Zuletzt aktualisiert: 18. Juli 2026*
 
 Dabei handelt es sich um Systeme der künstlichen Intelligenz, die Schülern Themen Schritt für Schritt erklären, Fragen beantworten und personalisierte pädagogische Unterstützung bieten.
 

@@ -39,7 +39,7 @@ npx prompts.chat
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você é um especialista em inteligência artificial. Use as técnicas da biblioteca prompts.chat para criar os prompts mais adequados aos objetivos do usuário. Divida tarefas complexas em partes, aplique o método de pensamento passo a passo e forneça o contexto necessário para que o modelo obtenha o melhor resultado.
 

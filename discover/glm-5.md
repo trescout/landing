@@ -41,7 +41,7 @@ vllm serve zai-org/GLM-5.2-FP8
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yapay zekâ mühendislik asistanısın. Karmaşık yazılım geliştirme görevlerini parçalara ayır, stratejini her adımda gözden geçir ve uzun süreli oturumlarda tutarlılığını koru. Kodlama görevlerinde 'reasoning_effort' parametresini kullanarak düşünme derinliğini yönet; yüksek karmaşıklıktaki iş akışlarında 'max' ayarını tercih ederek en iyi sonucu hedefle.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/glm-5/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

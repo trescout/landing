@@ -1,6 +1,6 @@
 # Was ist Nameservers?
 
-*Glossar · Dev · Zuletzt aktualisiert: 17. August 2026*
+*Dev · Zuletzt aktualisiert: 17. August 2026*
 
 Es handelt sich um ein Telefonbuch, das von Menschen verwendete Website-Namen in numerische Adressen umwandelt, die Computer verstehen.
 

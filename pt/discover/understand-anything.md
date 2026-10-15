@@ -47,7 +47,7 @@ O que este projeto faz e onde devo procurar para fazer alterações?
 
 ## Experimente em 2 minutos
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o plugin Understanding Anything no Claude Code com os comandos '/plugin marketplace add Lum1104/Understand-Anything' e '/plugin install Understanding-anything', depois no meu projeto execute '/understand' para analisar a base de código e abrir o painel interativo do gráfico de conhecimento com '/understand-dashboard'.
 

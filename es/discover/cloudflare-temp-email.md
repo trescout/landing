@@ -54,7 +54,7 @@ pnpm run deploy
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar el proyecto de correo electrónico temporal de código abierto dreamhunter2333/cloudflare_temp_email que se ejecuta en Cloudflare con mi propio dominio. Tengo una cuenta de Cloudflare y un dominio vinculado a Cloudflare DNS. ¿Podrías explicarme paso a paso cómo configurar desde cero el enrutamiento de correo electrónico (Email Routing), la base de datos D1 y la interfaz de Cloudflare Pages a través del panel de control de Cloudflare? Además, ¿qué pasos de configuración debo seguir para redirigir los correos electrónicos entrantes a mi bot de Telegram?
 

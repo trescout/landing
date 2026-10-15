@@ -1,6 +1,6 @@
 # Was ist Offline?
 
-*Glossar · Dev · Zuletzt aktualisiert: 3. Juni 2026*
+*Dev · Zuletzt aktualisiert: 3. Juni 2026*
 
 Das System arbeitet mit den eigenen Ressourcen des Geräts, ohne dass eine Internetverbindung erforderlich ist.
 

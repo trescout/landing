@@ -40,7 +40,7 @@ gt mayor attach
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich habe in meinem Gas Town-Arbeitsbereich eine „Bürgermeister“-Sitzung gestartet. Ich möchte, dass Sie meine aktuellen Projekte und Aufgaben, an denen ich arbeite, analysieren, Lücken in aktuellen Arbeitsabläufen identifizieren und einen nächsten Schrittplan für laufende Prozesse erstellen. Priorisieren Sie die Arbeit, indem Sie vorhandene „Rig“-Strukturen und „Perlen“-Aufzeichnungen überprüfen, um die Koordination zwischen den Agenten sicherzustellen.
 

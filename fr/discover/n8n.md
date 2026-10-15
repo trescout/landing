@@ -60,7 +60,7 @@ n8n est disponible avec le code source sous la Sustainable Use License. Consulte
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à concevoir sur le canvas visuel un workflow qui reçoit une entrée, la traite avec un modèle d’IA et transmet le résultat à l’étape suivante.
 

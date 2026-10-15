@@ -1,6 +1,6 @@
 # Was ist LLM-Wiki?
 
-*Glossar · AI · Zuletzt aktualisiert: 4. August 2026*
+*AI · Zuletzt aktualisiert: 4. August 2026*
 
 Es handelt sich um eine strukturierte Informationsbibliothek, in der Modelle der künstlichen Intelligenz aus externen Quellen gespeist werden, um genauere und aktuellere Antworten zu liefern.
 

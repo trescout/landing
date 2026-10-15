@@ -1,6 +1,6 @@
 # Qu'est-ce que Foundation Model ?
 
-*Glossaire · AI · Dernière mise à jour : 3 juin 2026*
+*AI · Dernière mise à jour : 3 juin 2026*
 
 Il s’agit de modèles d’IA grand public largement formés qui constituent la base de nombreuses applications différentes.
 

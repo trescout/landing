@@ -1,6 +1,6 @@
 # Context Window Optimization nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 8 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 8 Eylül 2026*
 
 Yapay zekânın sınırlı hafıza alanını en verimli şekilde kullanarak daha uzun ve tutarlı sonuçlar üretmesini sağlayan teknik düzenlemeler.
 
@@ -38,8 +38,8 @@ Her modelin bir kapasitesi vardır ve bu kapasite dolduğunda model eski bilgile
 
 - [Context Mode](https://trescout.com/discover/context-mode/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/context-window-optimization/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

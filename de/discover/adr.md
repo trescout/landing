@@ -29,7 +29,7 @@ export ANTHROPIC_API_KEY="..." OPENAI_API_KEY="..."
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich die KI-Agenten meines Unternehmens vor Schwachstellen schützen? Wie kann ich Agentenaktivitäten überwachen, Bedrohungen erkennen und die Verteidigungsleistung meines Systems bewerten, indem ich Sicherheitsvergleiche mit dem ADR-System durchführe? Bitte erläutern Sie die Schritte, die ich in diesem Prozess befolgen muss, und wie ich die Observability-Funktionen von ADR konfigurieren kann.
 

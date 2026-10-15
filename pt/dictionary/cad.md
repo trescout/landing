@@ -1,6 +1,6 @@
 # O que é CAD?
 
-*Glossário · Dev · Última atualização: 5 de outubro de 2026*
+*Dev · Última atualização: 5 de outubro de 2026*
 
 > Computer-Aided Design
 

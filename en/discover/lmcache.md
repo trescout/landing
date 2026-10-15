@@ -29,7 +29,7 @@ pip install lmcache
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I optimize KV cache management for large language models using the LMCache library? What are the basic steps I should follow after installation to increase performance and make memory usage efficient, especially in long-context queries? Explain how I can integrate this layer into my existing inference system, considering the engine-independent working principle stated in the documentation.
 

@@ -70,7 +70,7 @@ O teste rápido na CPU é apenas para verificação inicial. Dependências para 
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Execute como verificação inicial o fluxo TinyStories offline treinando um pequeno modelo na CPU.
 

@@ -1,6 +1,6 @@
 # O que é Texture Painting?
 
-*Glossário · Dev · Última atualização: 12 de setembro de 2026*
+*Dev · Última atualização: 12 de setembro de 2026*
 
 É o processo de pintar a superfície de modelos tridimensionais com pincéis digitais para dar-lhes cor, textura e detalhes.
 

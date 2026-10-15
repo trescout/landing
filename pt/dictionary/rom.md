@@ -1,6 +1,6 @@
 # O que é ROM?
 
-*Glossário · Dev · Última atualização: 4 de julho de 2026*
+*Dev · Última atualização: 4 de julho de 2026*
 
 > Read-Only Memory
 

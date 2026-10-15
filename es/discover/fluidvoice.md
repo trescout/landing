@@ -29,7 +29,7 @@ brew install --cask fluidvoice
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero optimizar mi experiencia de dictado de voz usando la aplicación FluidVoice. ¿Cómo puedo configurar de manera más eficiente las funciones nativas de edición de texto asistida por IA, uso de mayúsculas sensibles al contexto y formato inteligente que ofrece la aplicación? Además, ¿cómo puedo mejorar el rendimiento de mi dictado creando conjuntos de mensajes personalizados para diferentes aplicaciones?
 

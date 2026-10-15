@@ -44,7 +44,7 @@ http://localhost:8899
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte das Reclip-Tool verwenden, um Videolinks aus dem Internet im MP4- oder MP3-Format auf mein lokales Gerät herunterzuladen. Um den Download-Vorgang zu starten, muss ich die Links in das Eingabefeld einfügen, das Format auswählen, auf die Schaltfläche „Fetch“ klicken, um die Videoinformationen zu laden, und dann die Schaltfläche „Download“ verwenden. Während dieses Vorgangs kann ich Massen-Downloads durchführen und die Videoauflösung nach meinen Wünschen anpassen.
 

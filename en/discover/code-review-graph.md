@@ -43,7 +43,7 @@ code-review-graph build
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 This project has code-review-graph installed. Please create the code review graph of the project and have my AI assistant analyze the code changes by only reading the necessary context.
 

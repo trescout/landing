@@ -36,7 +36,7 @@ python3 GhostTR.py
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I collect information on a target number or username using the GhostTrack tool? Explain step by step how to use the phone tracking, IP tracking and username tracking features offered by the tool.
 

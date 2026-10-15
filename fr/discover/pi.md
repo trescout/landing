@@ -39,7 +39,7 @@ cd "pi-${VERSION}"
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Tu es un assistant de développement logiciel. Analyse ma base de code actuelle, identifie les tâches à accomplir et aide-moi à gérer les processus de codage de manière interactive via le terminal. Lors de l'exécution des opérations, utilise les fournisseurs d'IA unifiés pour proposer les solutions les plus appropriées et gère les appels d'outils nécessaires tout au long du processus.
 

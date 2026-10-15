@@ -38,7 +38,7 @@ astrbot run
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit AstrBot einen anpassbaren Assistenten für künstliche Intelligenz auf meinen Messaging-Plattformen erstellen. Helfen Sie mir, einen KI-Agenten zu erstellen, der entsprechend meinen Anforderungen konfiguriert ist und sich sowohl in meine persönlichen als auch in meine beruflichen Arbeitsabläufe integriert, indem Sie die Plug-in-Unterstützung, die multimodalen Funktionen und die Funktionen des Agentenarbeitsbereichs der Plattform nutzen.
 

@@ -48,7 +48,7 @@ iroh node id
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up a switch-based network connection using the Iroh library. Can you create a basic example code structure that shows how I can create an endpoint in Rust, connect to another endpoint via public key, and initiate secure data flow with the QUIC protocol?
 

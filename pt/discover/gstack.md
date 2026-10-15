@@ -28,7 +28,7 @@ cd ~/gstack && ./setup
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você agora é minha equipe de engenharia virtual. Analise meu projeto usando ferramentas Gstack, determine minha estratégia com /office-hours, crie meu plano de trabalho com /autoplan e verifique a qualidade do código com /review. Automatize todas as etapas do processo de desenvolvimento de software atuando como CEO, designer e gerente de engenharia.
 

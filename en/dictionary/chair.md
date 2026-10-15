@@ -1,6 +1,6 @@
 # What is Chair?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Chair is the person who manages a board of directors and oversees the course of the institution.
 

@@ -1,6 +1,6 @@
 # Was ist Experts Streamed from Disk?
 
-*Glossar · AI · Zuletzt aktualisiert: 14. September 2026*
+*AI · Zuletzt aktualisiert: 14. September 2026*
 
 Dies ist eine Methode, bei der Teile riesiger KI-Modelle bei Bedarf von der Festplatte geladen werden, wenn sie nicht in den Arbeitsspeicher passen.
 

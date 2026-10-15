@@ -39,7 +39,7 @@ Começar a usar a biblioteca spdlog é extremamente fácil. Depois de incluir o 
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar a biblioteca spdlog com arquitetura assíncrona usando CMake em um projeto C++ moderno. Você pode preparar o arquivo CMakeLists.txt com uma função de inicialização C++ de amostra que gira o arquivo quando o log atinge 10 MB de tamanho, também fornece saída colorida para o console e o libera no disco imediatamente após o nível de erro?
 

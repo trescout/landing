@@ -31,7 +31,7 @@ npm install -g codebase-memory-mcp
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kod tabanımı analiz etmen ve yapısal sorguları daha verimli yanıtlaman için bu projeyi indeksle. Projeyi indeksledikten sonra fonksiyonlar, sınıflar ve çağrı zincirleri arasındaki ilişkileri kullanarak kod tabanım hakkında derinlemesine bilgi sunmanı istiyorum.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codebase-memory-mcp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

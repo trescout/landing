@@ -26,7 +26,7 @@ npx skills add aws/agent-toolkit-for-aws/skills
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me develop, deploy and manage applications on AWS. Interact with AWS services using the Agent Toolkit for AWS capabilities, make the necessary configurations and carry out operations on the cloud infrastructure in accordance with standards.
 

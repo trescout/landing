@@ -28,7 +28,7 @@ Lorsque vous ajoutez la compétence à votre agent IA (étapes sur Tasteskill.de
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez Taste Skills en exécutant la commande « npx skills add https://github.com/Leonxlnx/taste-skill » dans le terminal ; Demandez ensuite à l'agent de suivre cette compétence lors de la création de l'interface et de produire un design haut de gamme avec une meilleure mise en page, typographie et animation.
 

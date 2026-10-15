@@ -1,6 +1,6 @@
 # Was ist Hermes Agent?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Dabei handelt es sich um eine spezielle Einheit künstlicher Intelligenz, die im Namen des Nutzers autonome Entscheidungen treffen und bestimmte Aufgaben durchgängig erledigen kann.
 

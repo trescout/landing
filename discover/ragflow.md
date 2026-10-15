@@ -35,7 +35,7 @@ docker compose -f docker/docker-compose.yml up -d
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki karmaşık dokümanları ve yapılandırılmamış verileri, yapay zekâ modellerinin anlayabileceği yüksek kaliteli bir bilgi kaynağına dönüştürmek istiyorum. RAGFlow kullanarak verilerimi nasıl işleyebilirim, doküman parçalama şablonlarını nasıl yapılandırabilirim ve bu verileri kullanarak nasıl hatasız, kaynak gösteren bir yapay zekâ ajanı oluşturabilirim?
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ragflow/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

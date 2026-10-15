@@ -1,6 +1,6 @@
 # Was ist Live2D?
 
-*Glossar · AI · Zuletzt aktualisiert: 4. Juni 2026*
+*AI · Zuletzt aktualisiert: 4. Juni 2026*
 
 Dabei handelt es sich um eine Technologie, die Figuren Leben einhaucht, indem sie zweidimensionale Zeichnungen so bewegt, als wären sie dreidimensional.
 

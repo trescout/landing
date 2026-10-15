@@ -1,6 +1,6 @@
 # Qu'est-ce que Smart Meters ?
 
-*Glossaire · Data · Dernière mise à jour : 30 septembre 2026*
+*Data · Dernière mise à jour : 30 septembre 2026*
 
 Des appareils qui mesurent instantanément la consommation d’électricité ou d’eau et envoient les données au centre par voie numérique.
 

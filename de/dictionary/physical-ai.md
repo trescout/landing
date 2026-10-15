@@ -1,6 +1,6 @@
 # Was ist Physical AI?
 
-*Glossar · AI · Zuletzt aktualisiert: 5. Juni 2026*
+*AI · Zuletzt aktualisiert: 5. Juni 2026*
 
 Künstliche Intelligenzsysteme, die Objekte in der physischen Welt, beispielsweise Roboter, steuern und mit der Umgebung interagieren können.
 

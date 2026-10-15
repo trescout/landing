@@ -29,7 +29,7 @@ curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo automatizar mis procesos de desarrollo de software utilizando la herramienta Goose? Explique paso a paso qué proveedores de IA puedo conectar y cómo configurar complementos a través del Protocolo de contexto modelo.
 

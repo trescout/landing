@@ -1,6 +1,6 @@
 # Qu'est-ce que Offensive Security Skills ?
 
-*Glossaire · Dev · Dernière mise à jour : 13 septembre 2026*
+*Dev · Dernière mise à jour : 13 septembre 2026*
 
 Il s'agit de la capacité à effectuer des tests de sécurité en pensant comme un attaquant afin de découvrir les vulnérabilités des systèmes.
 

@@ -51,7 +51,7 @@ Docker, bir sunucu ya da NAS üzerine kurulur. Kurulum rehberi jellyfin.org'da; 
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Jellyfin medya sunucusunu kurmak istiyorum; resmi jellyfin.org/downloads sayfasından işletim sistemime uygun sürümü indirip kur ya da Docker kullanıyorsam 'jellyfin/jellyfin' imajıyla çalıştırmama yardım et.
 
@@ -71,4 +71,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jellyfin/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

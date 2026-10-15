@@ -1,6 +1,6 @@
 # Design Language nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 3 Haziran 2026*
+*Geliştirme · Son güncelleme: 3 Haziran 2026*
 
 Bir ürünün görsel dünyasını ve kullanıcı deneyimini tutarlı kılan kurallar bütünüdür.
 
@@ -40,8 +40,8 @@ Her seferinde yeni bir tasarım yapma ihtiyacını ortadan kaldırır, önceden 
 
 - [Impeccable](https://trescout.com/discover/impeccable/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/design-language/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist Workflow Orchestration Framework?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Workflow-Orchestration-Framework ist die Infrastruktur, die abhängige Aufgaben in eine Reihenfolge bringt und Fehler verwaltet.
 

@@ -51,7 +51,7 @@ printf '%s' '{"tool_args":{"CommandLine":"rm -rf /"}}' \
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Dans ce projet, j'ai mis en place un espace de travail Antigravity et activé les outils AG Kit. Je souhaite gérer mes tâches en utilisant les règles, les rôles d'agent expert et les workflows définis dans le dossier .agents/ du répertoire du projet. Assurez-vous que le hook de sécurité est actif et planifiez des flux de travail complexes avec les commandes /coordonner ou /orchestrate.
 

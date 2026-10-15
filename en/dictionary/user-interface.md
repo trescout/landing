@@ -1,6 +1,6 @@
 # What is User Interface?
 
-*Dictionary · Dev · Last updated: June 25, 2026*
+*Dev · Last updated: June 25, 2026*
 
 > UI
 

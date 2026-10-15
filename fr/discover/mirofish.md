@@ -36,7 +36,7 @@ npm run dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite démarrer une simulation à l'aide de l'outil MiroFish. Je dois d’abord configurer mon fichier .env ; Comment ajouter correctement ma clé API LLM et les informations Zep Cloud à ce fichier ? Ensuite, quelles étapes dois-je suivre pour créer un monde numérique avec lequel les agents interagiront en téléchargeant l’ensemble de données ou le texte de l’histoire dont je dispose dans le système ? Comment puis-je obtenir les résultats de la simulation et du rapport de prédiction de la manière la plus efficace possible ?
 

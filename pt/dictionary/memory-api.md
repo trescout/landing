@@ -1,6 +1,6 @@
 # O que é Memory API?
 
-*Glossário · Dev · Última atualização: 3 de junho de 2026*
+*Dev · Última atualização: 3 de junho de 2026*
 
 Porta que permite ao software adicionar dados à memória de inteligência artificial ou consultar informações existentes.
 

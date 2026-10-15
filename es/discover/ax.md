@@ -34,7 +34,7 @@ make deploy AX_IMAGE_REPO=<your-registry>
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar la herramienta AX, desarrollada por Google y que proporciona orquestación para agentes de inteligencia artificial. Primero, instale la herramienta de línea de comandos ejecutando el comando `go install github.com/google/ax/cmd/ax@latest`. A continuación, implemente el plano de control utilizando el comando `make deploy AX_IMAGE_REPO=\<your-registry>`.
 

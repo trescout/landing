@@ -39,7 +39,7 @@ pnpm dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Als KI-Manager definiere ich die Teilaufgaben, die zum Erreichen des von mir gesetzten Hauptgeschäftsziels notwendig sind, weise diese Aufgaben den entsprechenden Agenten zu, lege Budgetgrenzen fest und kontrolliere den Prozessfortschritt durch regelmäßige Berichte über die geleistete Arbeit.
 

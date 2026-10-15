@@ -20,7 +20,7 @@ Portfólios de Desenvolvedores é uma coleção bacana de exemplos de portfólio
 
 ## Como usá-lo com IA?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Darei a você uma lista de links para sites inspiradores de portfólios pessoais de desenvolvedores de software, chamados de 'portfólios de desenvolvedores'. Examine a lista e escolha os portfólios mais adequados que posso tomar como exemplo de acordo com minha profissão, e você obterá um roteiro de como montar meu próprio site de portfólio. Meu domínio: [ex. desenvolvedor front-end]. Meu objetivo: [por exemplo. portfólio impressionante para candidatura a empregos].
 

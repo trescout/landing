@@ -58,7 +58,7 @@ Robotik araştırmacıları microduck_rl ile laboratuvar ortamında güvenli alg
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pollen Robotics'in microduck_rl kütüphanesini kullanarak Microduck robotu için bir yürüme (walking) politikası eğitmek istiyorum. MuJoCo ortamını nasıl yapılandıracağımı, PPO algoritması ile eğitim komutunu nasıl başlatacağımı ve ortaya çıkan kontrol politikasını fiziksel robota aktarma adımlarını açıklar mısın?
 
@@ -91,4 +91,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/microduck-rl/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

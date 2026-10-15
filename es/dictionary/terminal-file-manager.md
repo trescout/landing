@@ -1,6 +1,6 @@
 # ¿Qué es Terminal File Manager?
 
-*Glosario · Dev · Última actualización: 27 de julio de 2026*
+*Dev · Última actualización: 27 de julio de 2026*
 
 Una herramienta que le permite administrar sus archivos solo a través de la línea de comando en lugar de ventanas visuales.
 

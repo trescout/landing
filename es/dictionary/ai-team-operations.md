@@ -1,6 +1,6 @@
 # ¿Qué es AI Team Operations?
 
-*Glosario · AI · Última actualización: 17 de julio de 2026*
+*AI · Última actualización: 17 de julio de 2026*
 
 Es la disciplina de gestionar eficientemente los flujos de trabajo de los equipos que desarrollan proyectos de inteligencia artificial.
 

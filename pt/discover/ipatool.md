@@ -52,7 +52,7 @@ ipatool download -b org.telegram.Telegram-iOS
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Desejo baixar o pacote IPA de um aplicativo desenvolvido para iOS no meu computador usando o ipatool, extrair seu conteúdo e examinar as bibliotecas incorporadas e as configurações de permissão no arquivo Info.plist para fins de segurança. Você poderia explicar passo a passo como fazer login, pesquisar e baixar com o ipatool no terminal e, em seguida, como extrair o arquivo IPA e realizar a análise estática?
 

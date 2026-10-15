@@ -44,7 +44,7 @@ Puede instalarlo desde el mercado de complementos de Claude Cowork. La lista de 
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale el complemento apropiado para mi función ejecutando los comandos 'claude plugin Marketplace add anthropics/knowledge-work-plugins' y luego 'claude plugin install sales@knowledge-work-plugins' en Claude Code (puedo escribir el rol que quiero, como finanzas o marketing, en lugar de ventas).
 

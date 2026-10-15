@@ -1,6 +1,6 @@
 # Multi-agent nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 26 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 26 Haziran 2026*
 
 Birden fazla yapay zekâlı yazılımın, karmaşık bir görevi bölüşerek ortak bir hedef için iş birliği yapmasıdır.
 
@@ -46,8 +46,8 @@ Görevler çok karmaşıklaştığında, uzmanlaşmış küçük modeller birle�
 - [AI Berkshire](https://trescout.com/discover/ai-berkshire/)
 - [Openrig](https://trescout.com/discover/openrig/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/multi-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Context Reduction?
 
-*Dictionary · AI · Last updated: July 18, 2026*
+*AI · Last updated: July 18, 2026*
 
 It is the process of summarizing the huge information given to artificial intelligence by purifying it from unnecessary details so that the model works faster and more accurately.
 

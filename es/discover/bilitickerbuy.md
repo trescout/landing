@@ -41,7 +41,7 @@ btb
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero automatizar los procesos de compra de billetes de Bilibili. ¿Puede explicarme los pasos básicos para instalar y utilizar esta herramienta, según la información de las páginas de documentación?
 

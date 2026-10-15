@@ -1,6 +1,6 @@
 # ¿Qué es Repository Checkout?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 La compra del repositorio es el proceso de descargar una versión específica del repositorio a su espacio de trabajo.
 

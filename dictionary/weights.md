@@ -1,6 +1,6 @@
 # Weights nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
 
 Yapay zekâ modellerinin eğitim sırasında öğrendiği ve kararlarını şekillendiren sayısal değerlerdir.
 
@@ -39,8 +39,8 @@ Evet, açık ağırlıklı yani open weights modellerde bu sayısal değerler he
 - [Fine-tuning](https://trescout.com/dictionary/fine-tuning/)
 - [GGUF](https://trescout.com/dictionary/gguf/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/weights/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

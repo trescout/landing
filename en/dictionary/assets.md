@@ -1,6 +1,6 @@
 # Assets: Static assets, game pipelines, ITAM, and DAM systems
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Assets in computing refer to non-executable or auxiliary digital resources, including media files, fonts, 3D meshes, tracked hardware/software enterprise inventory, and centralized creative media repositories.
 

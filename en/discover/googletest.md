@@ -55,7 +55,7 @@ ctest --test-dir build --output-on-failure
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to write unit tests for a data parser class using GoogleTest and GoogleMock in a modern C++ project. Could you explain with code examples how to configure my CMakeLists.txt file, provide an example TEST_F test fixture, and show how to create a mock object with MOCK_METHOD and verify call expectations?
 

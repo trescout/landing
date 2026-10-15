@@ -31,7 +31,7 @@ pnpm dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 To run the Univer project locally, clone the repository with the git clone https://github.com/dream-num/univer.git command in the terminal, then run the pnpm dev command after installing the dependencies with cd univer and pnpm install.
 

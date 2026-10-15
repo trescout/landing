@@ -1,6 +1,6 @@
 # ¿Qué es Enterprise Resource Planning?
 
-*Glosario · Dev · Última actualización: 4 de junio de 2026*
+*Dev · Última actualización: 4 de junio de 2026*
 
 > ERP
 

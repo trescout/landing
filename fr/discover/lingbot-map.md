@@ -44,7 +44,7 @@ python demo.py --model_path /path/to/lingbot-map-long.pt \
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer une scène 3D à partir de données diffusées en continu à l'aide de LingBot-Map. J'ai terminé l'installation et mon fichier modèle est prêt. Comment puis-je lancer l'interface de visualisation dans mon navigateur local à l'aide de la commande requise pour exécuter l'instance Courthouse ?
 

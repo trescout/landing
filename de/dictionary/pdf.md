@@ -1,6 +1,6 @@
 # Was ist PDF?
 
-*Glossar · Data · Zuletzt aktualisiert: 8. Juni 2026*
+*Data · Zuletzt aktualisiert: 8. Juni 2026*
 
 > Portable Document Format
 

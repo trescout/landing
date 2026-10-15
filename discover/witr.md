@@ -35,7 +35,7 @@ brew install witr
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sistemimde çalışan bir sürecin, portun veya konteynerin hangi kaynak tarafından başlatıldığını ve sistem üzerindeki çalışma zincirini anlamak istiyorum. Bu süreci izlemek ve neden çalıştığını tespit etmek için witr aracını nasıl kullanabilirim?
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/witr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

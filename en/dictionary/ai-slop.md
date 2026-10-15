@@ -1,6 +1,6 @@
 # What is AI-slop?
 
-*Dictionary · AI · Last updated: July 14, 2026*
+*AI · Last updated: July 14, 2026*
 
 It is a pile of content that is quickly produced by artificial intelligence, is of low quality and generally does not add any value.
 

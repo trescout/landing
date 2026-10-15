@@ -1,6 +1,6 @@
 # What is User Experience?
 
-*Dictionary · Dev · Last updated: July 13, 2026*
+*Dev · Last updated: July 13, 2026*
 
 > UX
 

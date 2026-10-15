@@ -56,7 +56,7 @@ docker compose up --build -d
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver um assistente de pesquisa acadêmica usando o projeto de curso de agente de produção. Para a instalação básica do projeto, após baixar o repositório com o comando git clone, preciso configurar o arquivo .env e instalar as dependências com uv sync. Então, quero verificar se o sistema está funcionando em http://localhost:8000/api/v1/health iniciando todos os serviços com o comando docker compose up --build -d. Você pode me orientar sobre as chaves de API e configurações de serviço às quais devo prestar atenção neste processo?
 

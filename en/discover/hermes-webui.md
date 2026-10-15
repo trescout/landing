@@ -39,7 +39,7 @@ python3 bootstrap.py
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install Hermes WebUI: download with 'git clone https://github.com/nesquena/hermes-webui.git hermes-webui', enter the directory and run 'python3 bootstrap.py'; Then use the Hermes agent from the interface in the opened browser.
 

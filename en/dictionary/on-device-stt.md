@@ -1,6 +1,6 @@
 # What is On-device STT?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 > On-device Speech-to-Text
 

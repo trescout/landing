@@ -1,6 +1,6 @@
 # Physically Based Rendering nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 11 Eylül 2026*
+*Geliştirme · Son güncelleme: 11 Eylül 2026*
 
 > Physically Based Rendering
 
@@ -40,8 +40,8 @@ Nesnelerin farklı ışık koşullarında (gün ışığı, gece, lamba altı) t
 - [Design Tool](https://trescout.com/dictionary/design-tool/)
 - [Godot Engine](https://trescout.com/dictionary/godot-engine/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/pbr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

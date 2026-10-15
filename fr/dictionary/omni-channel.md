@@ -1,6 +1,6 @@
 # Qu'est-ce que Omni-channel ?
 
-*Glossaire · Data · Dernière mise à jour : 22 septembre 2026*
+*Data · Dernière mise à jour : 22 septembre 2026*
 
 L'omnicanalité (ou approche omnicanale) est la synchronisation de tous les canaux de vente.
 

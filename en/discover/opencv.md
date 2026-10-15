@@ -27,7 +27,7 @@ pip install opencv-python
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop image processing projects using the OpenCV library. How can I implement basic image processing techniques, object detection or machine learning processes in my computer vision applications? Guide me on the basic functions I can use in my projects and how I can benefit from the standard infrastructure offered by this library.
 

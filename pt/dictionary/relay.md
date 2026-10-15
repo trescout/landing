@@ -1,6 +1,6 @@
 # O que é Relay?
 
-*Glossário · Dev · Última atualização: 23 de julho de 2026*
+*Dev · Última atualização: 23 de julho de 2026*
 
 É um sistema que transfere dados de um ponto a outro e os transporta para locais onde o sinal não consegue chegar ou faz a ponte da conexão.
 

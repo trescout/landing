@@ -51,7 +51,7 @@ whichllm run "qwen 2.5 1.5b gguf"
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Usando a ferramenta Whichllm, desejo listar os modelos locais de grande linguagem que melhor atendem às minhas especificações de hardware e ver as estimativas de desempenho desses modelos. Como posso filtrar os modelos com as pontuações de benchmark mais altas com base na capacidade de GPU ou CPU do meu sistema, bem como planejar o hardware necessário para um modelo específico?
 

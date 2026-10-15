@@ -31,7 +31,7 @@ npm install -g opencode
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I would like you to analyze the codes in my current software project using the OpenCode tool and help automate the development processes. You can develop with full access during runtime using the build agent, or you can review the codes and plan changes using the plan agent. For complex searches or multi-step tasks, I expect you to use @general.
 

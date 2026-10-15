@@ -1,6 +1,6 @@
 # What is Graph-based Investigation?
 
-*Dictionary · Data · Last updated: June 3, 2026*
+*Data · Last updated: June 3, 2026*
 
 It is a method of discovering hidden connections by visualizing the relationships between data on a network map.
 

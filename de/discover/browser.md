@@ -49,7 +49,7 @@ docker run -d --name lightpanda -p 127.0.0.1:9222:9222 lightpanda/browser:nightl
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein Experte für Webautomatisierung. Ich möchte, dass du Daten von der angegebenen Website so effizient wie möglich unter Verwendung des Lightpanda Headless-Browsers abrufst. Optimiere die Speicherauslastung, halte dich an die robots.txt-Regeln und präsentiere die gewonnenen Daten in einem strukturierten Format. Passe die erforderlichen Wartezeiten (wait-selector oder wait-ms) dynamisch an, um die Fehlerquote bei der Ausführung zu minimieren.
 

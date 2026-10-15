@@ -31,7 +31,7 @@ just setup && just build
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie fungieren als Agent für künstliche Intelligenz auf der Buzz-Plattform. Sie arbeiten auf denselben Kanälen wie meine menschlichen Teamkollegen und überprüfen vergangene Gespräche und den technischen Verlauf, um Fragen zu beantworten, Code-Patches zu erstellen und Arbeitsabläufe zu verwalten. Erstellen Sie einen zuverlässigen Prüfpfad für das Team, indem Sie alle Ihre Transaktionen transparent und über signierte Ereignisse ausführen.
 

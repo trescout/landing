@@ -1,6 +1,6 @@
 # HDR nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 5 Eylül 2026*
+*Geliştirme · Son güncelleme: 5 Eylül 2026*
 
 > High Dynamic Range
 
@@ -41,8 +41,8 @@ Hayır, HDR içerikleri görüntüleyebilmek için özel olarak üretilmiş HDR 
 - [Sonarr](https://trescout.com/discover/sonarr/)
 - [Renodx](https://trescout.com/discover/renodx/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/hdr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

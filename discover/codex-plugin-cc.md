@@ -35,7 +35,7 @@ npm install -g @openai/codex
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code içerisinde Codex eklentisini kullanarak mevcut kodum üzerinde bir inceleme başlat ve bulguları raporla. Eğer karmaşık bir görev varsa, bunu /codex:rescue komutu ile Codex'e devret ve arka planda çalıştırarak ilerlemeyi /codex:status ile takip etmemi sağla.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codex-plugin-cc/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

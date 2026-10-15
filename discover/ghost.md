@@ -43,7 +43,7 @@ ghost install
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Ghost platformunu kullanarak profesyonel bir içerik sitesi kurmak istiyorum. Node.js tabanlı bu içerik yönetim sistemini (CMS) kendi sunucumda veya yerel ortamımda çalıştırmak için izlemem gereken adımları, Ghost CLI aracını kullanarak nasıl yapılandıracağımı ve kurulum sonrası dikkat etmem gereken temel yönetim ipuçlarını adım adım açıkla.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ghost/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

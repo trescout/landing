@@ -42,7 +42,7 @@ portless myapp next dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero que los servicios que se ejecutan en mi entorno de desarrollo local utilicen direcciones persistentes con la extensión .localhost en lugar de números de puerto. Ejecuta mi proyecto usando la herramienta Portless y permíteme acceder a mis servicios a través de direcciones identificables como https://myapp.localhost.
 

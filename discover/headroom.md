@@ -37,7 +37,7 @@ headroom perf
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Headroom aracını kullanarak yapay zekâ ajanımın bağlamsal veri ve günlük dosyası tüketimini optimize etmek istiyorum. Python ortamında "pip install "headroom-ai[all]"" komutuyla kurulumu tamamladım. Ajanımın kullandığı jeton miktarını düşürmek için "headroom wrap claude" veya "headroom proxy --port 8787" komutlarını nasıl yapılandırmalıyım? Ayrıca "headroom perf" komutu ile elde ettiğim tasarruf verilerini nasıl yorumlamalıyım?
 
@@ -61,4 +61,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/headroom/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Qu'est-ce que Nameservers ?
 
-*Glossaire · Dev · Dernière mise à jour : 17 août 2026*
+*Dev · Dernière mise à jour : 17 août 2026*
 
 Il s'agit d'un annuaire téléphonique qui convertit les noms de sites Web utilisés par les internautes en adresses numériques compréhensibles par les ordinateurs.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Backtesting ?
 
-*Glossaire · Data · Dernière mise à jour : 29 juillet 2026*
+*Data · Dernière mise à jour : 29 juillet 2026*
 
 Il s'agit d'une méthode permettant de tester le succès d'une stratégie d'investissement en utilisant des données historiques de marché.
 

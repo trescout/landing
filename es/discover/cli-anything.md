@@ -35,7 +35,7 @@ npx skills add HKUDS/CLI-Anything --skill cli-hub-meta-skill -g -y
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 De ahora en adelante, actuaré como agente de IA y controlaré el software de mi sistema mediante CLI-Anything. Utilice CLI-Hub para enumerar las herramientas disponibles, cargar la interfaz de línea de comandos necesaria para el software que necesito y luego administrar ese software por mí. Siga los archivos de guía proporcionados por el sistema para reducir el margen de error al realizar transacciones.
 

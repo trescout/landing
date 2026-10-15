@@ -53,7 +53,7 @@ bun run dev
 
 ## If you don't know how to code: AI agent prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Generate a system diagram of the GitHub repository I examined, based on the Gitdiagram architecture. Identify the main components, data flow directions, entry points, and external dependencies in the repository. Draw the architecture as a flowchart in Mermaid.js format and explain the function of each component in two sentences each.
 

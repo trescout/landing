@@ -47,7 +47,7 @@ yoinks
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Videos von Plattformen wie YouTube, X, Instagram oder TikTok herunterladen. Konfiguriere dieses Terminal-Tool so, dass es den von mir bereitgestellten Videolink direkt in meinem lokalen Download-Ordner speichert und mir Auflösungsoptionen anbietet. Stelle sicher, dass der Download-Prozess sauber abläuft und keine Werbung oder Weiterleitungen enthält.
 

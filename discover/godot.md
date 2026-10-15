@@ -38,7 +38,7 @@ winget install GodotEngine.GodotEngine
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Godot motoru ile iki veya üç boyutlu bir oyun projesi geliştirmek istiyorum. Oyun geliştirme sürecine başlamam için temel arayüz kullanımı, sahne oluşturma mantığı ve proje yapısı hakkında bana adım adım bir başlangıç rehberi hazırlar mısın?
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/godot/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

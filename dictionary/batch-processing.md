@@ -1,6 +1,6 @@
 # Batch Processing nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 10 Haziran 2026*
+*Geliştirme · Son güncelleme: 10 Haziran 2026*
 
 Çok sayıda işlemin tek tek değil, bir grup halinde arka planda otomatik olarak gerçekleştirilmesidir.
 
@@ -38,8 +38,8 @@ Bir grup içinde hata oluşursa, sistem genellikle hangi verinin hata verdiğini
 - [Inference](https://trescout.com/dictionary/inference/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/batch-processing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

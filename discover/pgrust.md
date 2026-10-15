@@ -28,7 +28,7 @@ docker run -d --name pgrust -e POSTGRES_PASSWORD=secret malisper/pgrust:v0.1 && 
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pgrust projesinin temel amacı nedir, mevcut PostgreSQL ile disk uyumluluğu nasıl sağlanıyor ve projenin geliştirilmesinde yapay zekâ destekli programlamadan nasıl yararlanılıyor? Pgrust'un şu anki sürümünün Postgres 18.3 ile uyumluluk durumu ve regresyon testlerindeki başarısı hakkında bilgi ver.
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pgrust/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

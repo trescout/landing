@@ -1,6 +1,6 @@
 # Experts Streamed from Disk nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 14 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 14 Eylül 2026*
 
 Devasa yapay zekâ modellerinin parçalarının, belleğe sığmadığında diskten anlık olarak yüklenmesi yöntemidir.
 
@@ -38,8 +38,8 @@ Modelin bu mimariyle tasarlanmış olması gerekir; yani parçalı (Mixture of E
 - [RAM](https://trescout.com/dictionary/ram/)
 - [Inference Engine](https://trescout.com/dictionary/inference-engine/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/experts-streamed-from-disk/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

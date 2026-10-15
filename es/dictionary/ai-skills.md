@@ -1,6 +1,6 @@
 # ¿Qué es AI Skills?
 
-*Glosario · AI · Última actualización: 3 de junio de 2026*
+*AI · Última actualización: 3 de junio de 2026*
 
 > Skills
 

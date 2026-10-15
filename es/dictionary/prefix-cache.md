@@ -1,6 +1,6 @@
 # ¿Qué es Prefix Cache?
 
-*Glosario · AI · Última actualización: 3 de agosto de 2026*
+*AI · Última actualización: 3 de agosto de 2026*
 
 Un método de aceleración que evita que la inteligencia artificial repita las mismas operaciones manteniendo en la memoria los inicios del texto que ha procesado previamente.
 

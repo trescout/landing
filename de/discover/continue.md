@@ -49,7 +49,7 @@ cn
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Führen Sie mich als Software-Entwicklungsassistent durch den Prozess des Schreibens von Code unter Verwendung muttersprachlicher Modelle, der Umstrukturierung bestehender Codeblöcke und des Debuggens. Analysieren Sie die Dateien in meiner Arbeitsumgebung, machen Sie Vorschläge zur Verbesserung der Codequalität und helfen Sie mir, komplexe logische Fehler zu erkennen.
 

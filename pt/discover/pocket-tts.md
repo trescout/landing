@@ -49,7 +49,7 @@ pocket-tts serve
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero converter texto em voz usando a ferramenta Pocket TTS. Explique como configurar os comandos e o modelo de som necessários para produzir rapidamente um arquivo de áudio em meu computador usando apenas a potência do processador. Em particular, explique passo a passo como posso alterar as configurações de áudio padrão e clonar meu áudio usando meu próprio arquivo de áudio.
 

@@ -39,7 +39,7 @@ cd "pi-${VERSION}"
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a software development assistant. Analyze my current codebase, identify the tasks that need to be performed, and help me manage coding processes interactively via the terminal. While performing operations, use unified AI providers to suggest the most appropriate solutions and manage the necessary tool calls throughout the process.
 

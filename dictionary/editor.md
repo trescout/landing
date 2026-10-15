@@ -1,6 +1,6 @@
 # Editor nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 31 Temmuz 2026*
+*Geliştirme · Son güncelleme: 31 Temmuz 2026*
 
 Yazılımcıların kod yazmak, düzenlemek ve hataları ayıklamak için kullandığı özel bir yazı programıdır.
 
@@ -40,8 +40,8 @@ Evet, ama kod editörleri hata bulma ve otomatik tamamlama gibi özelliklerle i�
 - [Palmier Pro](https://trescout.com/discover/palmier-pro/)
 - [Clypra](https://trescout.com/discover/clypra/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/editor/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

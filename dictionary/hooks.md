@@ -1,6 +1,6 @@
 # Hooks nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 6 Eylül 2026*
+*Geliştirme · Son güncelleme: 6 Eylül 2026*
 
 Yazılımın çalışma sürecinde belirli anlarda devreye girip özel işlemler yapmanıza olanak tanıyan bağlantı noktalarıdır.
 
@@ -38,8 +38,8 @@ Ana kodu değiştirmek, yazılım güncellendiğinde tüm değişikliklerinizin 
 
 - [Everything Claude Code](https://trescout.com/discover/everything-claude-code/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/hooks/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

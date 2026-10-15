@@ -1,6 +1,6 @@
 # Multi-player Swarms nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 22 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 22 Ağustos 2026*
 
 Ortak bir hedef için birbirleriyle iletişim kurarak iş birliği yapan yapay zekâ gruplarıdır.
 
@@ -38,8 +38,8 @@ Sürü yapısı, işleri bölümlere ayırarak çok daha karmaşık ve uzun sür
 - [Multi-agent](https://trescout.com/dictionary/multi-agent/)
 - [Agentic System](https://trescout.com/dictionary/agentic-system/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/multi-player-swarms/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

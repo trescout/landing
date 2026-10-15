@@ -39,7 +39,7 @@ python -m pytest
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear un video que muestre mis viajes usando el archivo Timeline.json que tengo. Después de instalar las dependencias necesarias en el entorno Python, ¿qué comando debo usar para convertir mis datos de 2025 en un archivo llamado 'my_trip_2025.mp4' con un movimiento de cámara 'constante' y configuraciones de compresión 'equilibradas'?
 

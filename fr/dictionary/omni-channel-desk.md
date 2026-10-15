@@ -1,6 +1,6 @@
 # Qu'est-ce que Omni-channel Desk ?
 
-*Glossaire · AI · Dernière mise à jour : 12 juin 2026*
+*AI · Dernière mise à jour : 12 juin 2026*
 
 Il s'agit d'un système d'assistance qui rassemble tous les différents canaux de communication tels que les e-mails, les messages et les appels des clients sur un seul écran.
 

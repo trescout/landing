@@ -1,6 +1,6 @@
 # O que é Introduction to Autonomous Robots?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 Os robôs autônomos são máquinas que se movem em seu ambiente sem receber comandos contínuos.
 

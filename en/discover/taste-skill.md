@@ -28,7 +28,7 @@ When you add the skill to your AI agent (steps at tasteskill.dev), it is automat
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install Taste Skills by running the command 'npx skills add https://github.com/Leonxlnx/taste-skill' in the terminal; Then ask the agent to follow this skill when making the interface and produce a premium design with better layout, typography and animation.
 

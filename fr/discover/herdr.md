@@ -30,7 +30,7 @@ herdr
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite gérer tous mes agents d'intelligence artificielle exécutés sur le terminal à partir d'un seul centre et voir instantanément l'état de fonctionnement (en attente, en cours d'exécution, terminé) de chacun d'eux. Utilisez Herdr pour m'aider à configurer ces agents afin de les séparer en différents espaces de travail et onglets afin que les processus se poursuivent en arrière-plan même si je ferme le terminal.
 

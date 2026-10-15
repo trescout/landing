@@ -54,7 +54,7 @@ pnpm run dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero simular un entorno de discusión socrático cargando mis propios apuntes de clase en la plataforma OpenMAIC. ¿Puedes explicar paso a paso cómo definir los roles de los agentes (maestro, estudiante curioso, interrogador crítico) y cómo plantear esta clase con un modelo local de Ollama?
 

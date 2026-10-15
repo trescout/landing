@@ -1,6 +1,6 @@
 # Qu'est-ce que Multi-agent LLM ?
 
-*Glossaire · AI · Dernière mise à jour : 3 juin 2026*
+*AI · Dernière mise à jour : 3 juin 2026*
 
 Il s'agit d'un système fonctionnel dans lequel plusieurs modèles d'intelligence artificielle coopèrent pour résoudre des tâches complexes.
 

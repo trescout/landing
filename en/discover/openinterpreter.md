@@ -37,7 +37,7 @@ i
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want you to act as a coding agent on my computer. I expect you to automate complex tasks by running code in my local environment, testing web or local applications when necessary. Use structures that optimize low-cost models when performing transactions and execute my commands safely through the terminal.
 

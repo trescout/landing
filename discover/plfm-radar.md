@@ -53,7 +53,7 @@ Açık kaynak faz dizili radar altyapısı geniş bir uygulama yelpazesine sahip
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PLFM RADAR projesinin 10.5 GHz faz dizili donanım şemalarını ve FPGA sinyal işleme bloklarını incelemek istiyorum. FMCW cıvıltı sinyali üretimini, Menzil-Doppler 2D FFT hesaplamasını ve Python tabanlı PPI radar ekranına veri aktarımını açıklayan bir simülasyon Python betiği hazırlar mısın? Yapay bir hedef için mesafe ve hız tespit algoritmasını adım adım gösterir misin?
 
@@ -84,4 +84,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/plfm-radar/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -43,7 +43,7 @@ python score.py /path/to/resume.pdf
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir işe alım uzmanı gibi davranarak, sağlanan özgeçmiş verilerini ve GitHub üzerindeki teknik katkıları analiz et. Adayın projelerini, teknik becerilerini ve iş deneyimlerini objektif kriterlere göre puanla. Puanlamanı yaparken adayın GitHub üzerindeki kod kalitesini, katkı sıklığını ve projelerinin gerçek dünya uygulamalarıyla olan ilgisini göz önünde bulundur. Sonuç olarak, adayın güçlü ve zayıf yönlerini belirten, şeffaf ve adil bir değerlendirme raporu oluştur.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hiring-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

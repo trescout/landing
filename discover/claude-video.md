@@ -37,7 +37,7 @@ npx skills add bradautomates/claude-video -g
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Video aracını kullanarak paylaştığım videoyu analiz etmeni istiyorum. Videonun içeriğini, önemli anlarını ve sorduğum soruları, videodaki görsel kareleri ve ses transkriptini temel alarak yanıtla. Eğer videoda altyazı yoksa Whisper API kullanarak sesleri metne dönüştür ve görsel detayları (kareleri) inceleyerek analizini gerçekleştir.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-video/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

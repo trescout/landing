@@ -49,7 +49,7 @@ pocket-tts serve
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Pocket TTS-Tool Text in Sprache umwandeln. Erklären Sie, wie Sie die erforderlichen Befehle und das Soundmodell konfigurieren, um schnell und nur mit Prozessorleistung eine Audiodatei auf meinem Computer zu erstellen. Erklären Sie insbesondere Schritt für Schritt, wie ich die Standard-Audioeinstellungen ändern und mein Audio mithilfe meiner eigenen Audiodatei klonen kann.
 

@@ -47,7 +47,7 @@ pnpm dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to install and configure the Kaneo project. Explain step by step how to use the drim tool for quick installation of the project and the .env file settings required to run it on my own server with Docker Compose. Also, summarize the key features of the project and how it can be customized for an efficient workflow, based on the information in the documentation.
 

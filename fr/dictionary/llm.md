@@ -1,6 +1,6 @@
 # Qu'est-ce que LLM ?
 
-*Glossaire · AI · Dernière mise à jour : 3 juin 2026*
+*AI · Dernière mise à jour : 3 juin 2026*
 
 > Large Language Model
 

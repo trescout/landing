@@ -42,7 +42,7 @@ npx create-db --interactive
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso configurar interações de banco de dados em meu projeto Node.js usando Prisma? Como devo configurar o esquema Prisma para criar meu modelo de dados e definir as configurações de conexão com o banco de dados no arquivo prisma.config.ts? Além disso, como posso usar o sistema Prisma Migrate para gerenciar alterações no banco de dados?
 

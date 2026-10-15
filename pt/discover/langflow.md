@@ -39,7 +39,7 @@ langflow run
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero criar um agente de inteligência artificial usando Langflow. Oriente-me no design de um fluxo de modelo de linguagem básico usando a interface visual. Explique passo a passo quais componentes preciso arrastar, como conectar esses componentes e como posso exportar o fluxo que criei como uma API.
 

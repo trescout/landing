@@ -1,6 +1,6 @@
 # Image-to-Video nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 17 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 17 Ağustos 2026*
 
 Hareketsiz bir resmi yapay zekâ kullanarak hareketli bir videoya dönüştüren teknolojidir.
 
@@ -38,8 +38,8 @@ Modelin karmaşıklığına göre birkaç saniye ile birkaç dakika arasında de
 - [Multimodal Model](https://trescout.com/dictionary/multimodal-model/)
 - [AI Video Editing](https://trescout.com/dictionary/ai-video-editing/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/image-to-video/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Qu'est-ce que Spatial Intelligence ?
 
-*Glossaire · AI · Dernière mise à jour : 31 août 2026*
+*AI · Dernière mise à jour : 31 août 2026*
 
 C'est la capacité des ordinateurs à percevoir et à interpréter la position et le mouvement des objets dans le monde physique.
 

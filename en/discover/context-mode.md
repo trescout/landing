@@ -43,7 +43,7 @@ Context-mode is a TypeScript library that provides context window optimization f
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 My AI agent, from now on, instead of performing data processing tasks directly, I want you to write and execute the code that will analyze this data. Use context-mode tools to minimize data size, keep my session history in SQLite, and report only the necessary results to me. Avoid unnecessary explanations and focus solely on code generation and efficient context management.
 

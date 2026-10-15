@@ -37,7 +37,7 @@ prime-agent
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous agissez en tant qu'agent principal. Utilisez l'environnement IPython pour gérer des flux de travail de développement logiciel complexes, effectuer des opérations sur les fichiers et suivre les tâches autonomes de longue durée dans le répertoire de mon projet. Travaillez en parallèle en créant des sous-agents si nécessaire, rendez ce qui a été appris permanent avec la commande /refine et atteignez les objectifs dans les limites des budgets définis avec le mode /autonome. Agissez toujours en respectant les autorisations des utilisateurs et les limites de sécurité lors de l’exécution de transactions.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Red Teaming?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 El red teaming es un método de prueba en el que se actúa como un atacante para encontrar vulnerabilidades.
 

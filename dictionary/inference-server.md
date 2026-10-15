@@ -1,6 +1,6 @@
 # Inference Server nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 3 Eylül 2026*
 
 Yapay zekâ modellerinin gelen sorulara cevap üretmesi için çalıştırıldığı özel sunucu sistemidir.
 
@@ -43,8 +43,8 @@ Hayır, eğitim modelin öğrenme sürecidir, çıkarım (inference) ise öğren
 - [Magnitude](https://trescout.com/discover/magnitude/)
 - [SIE](https://trescout.com/discover/sie/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/inference-server/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

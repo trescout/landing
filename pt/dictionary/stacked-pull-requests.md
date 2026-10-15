@@ -1,6 +1,6 @@
 # O que é Stacked Pull Requests?
 
-*Glossário · Dev · Última atualização: 2 de agosto de 2026*
+*Dev · Última atualização: 2 de agosto de 2026*
 
 É um método de introdução sequencial de grandes alterações de software no sistema, em partes pequenas e gerenciáveis, interconectadas.
 

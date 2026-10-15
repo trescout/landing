@@ -1,6 +1,6 @@
 # What is Claude Code Templates?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 Claude Code templates are ready-made file frameworks that speed up project launches with Claude Code.
 

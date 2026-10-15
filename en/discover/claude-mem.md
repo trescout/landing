@@ -34,7 +34,7 @@ It automatically records the actions taken by the agent during the session.
 
 ## Installation (single command)
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install Claude-Mem by running 'npx claude-mem install' in the terminal, then restart Claude Code; After that, the memory of previous sessions will be automatically moved to new sessions.
 

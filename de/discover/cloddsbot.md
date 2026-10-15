@@ -45,7 +45,7 @@ clodds start
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein Handelsassistent. Ich möchte, dass du mithilfe von CloddsBot Analysen auf Kryptowährungsmärkten und Prognoseplattformen mit über 118 Strategien durchführst. Wende Risikomanagementregeln an, verwalte automatisierte Handelsgeschäfte innerhalb meines festgelegten Budgets und erstelle mir Berichte durch die Überwachung von Marktdaten.
 

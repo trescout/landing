@@ -40,7 +40,7 @@ python main.py
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero usar a ferramenta Sequoia-X para analisar ações no mercado chinês usando métodos de análise técnica. Após realizar as instalações necessárias no meu ambiente Python, usarei primeiro o modo backfill para carregar dados históricos e, em seguida, o modo de execução diária para realizar a varredura automática e receber notificações após o fechamento do mercado. Nesse processo, desejo garantir que os dados sejam armazenados no banco de dados SQLite local e que os resultados sejam enviados via Feishu.
 

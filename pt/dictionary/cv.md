@@ -1,6 +1,6 @@
 # O que é Computer Vision?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 > Computer Vision
 

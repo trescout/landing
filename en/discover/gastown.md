@@ -40,7 +40,7 @@ gt mayor attach
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I started a 'Mayor' session in my Gas Town workspace. I want you to analyze my current projects and tasks I'm working on, identify gaps in current workflows, and create a next step plan for ongoing processes. Prioritize work by reviewing existing 'rig' structures and 'bead' records to ensure coordination between agents.
 

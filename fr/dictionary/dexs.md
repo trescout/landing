@@ -1,6 +1,6 @@
 # Qu'est-ce que DEXs ?
 
-*Glossaire · Data · Dernière mise à jour : 12 septembre 2026*
+*Data · Dernière mise à jour : 12 septembre 2026*
 
 > Decentralized Exchanges
 

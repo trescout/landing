@@ -25,7 +25,7 @@ sudo apt install libpam-pwquality
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I'm a Linux server administrator. I want to increase the security of my server. Based on the best practices in the How-To-Secure-A-Linux-Server guide; How can I make my SSH configuration more secure, restrict sudo and su privileges, and enable automatic security updates on my system? Please explain the basic principles I should pay attention to when doing these operations and the steps I should follow to avoid making mistakes.
 

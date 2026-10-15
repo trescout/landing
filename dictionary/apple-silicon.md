@@ -1,6 +1,6 @@
 # Apple Silicon nedir ve nasıl çalışır?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Apple Silicon, Apple'ın Mac ve iPad cihazları için kendi bünyesinde tasarladığı; CPU, GPU, Neural Engine ve birleşik belleği (Unified Memory) tek bir silikon plaka üzerinde buluşturan ARM tabanlı yüksek performanslı SoC (System on a Chip) işlemci ailesidir.
 
@@ -73,8 +73,8 @@ Evet, macOS işletim sistemine entegre gelen Rosetta 2 çeviri motoru sayesinde 
 - [Palmier Pro](https://trescout.com/discover/palmier-pro/)
 - [Openmed](https://trescout.com/discover/openmed/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/apple-silicon/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

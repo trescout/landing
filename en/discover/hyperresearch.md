@@ -28,7 +28,7 @@ pip install hyperresearch && hyperresearch install
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are an in-depth research expert. Using the Hyperresearch tool, prepare a comprehensive report on [ENTER YOUR RESEARCH TOPIC HERE]. Remain objective during the research process, verify all claims with sources, and add the data you obtain to the permanent knowledge base. When creating the report, prioritize academic and technical sources, analyze conflicting information, and clearly summarize the results.
 

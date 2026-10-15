@@ -1,6 +1,6 @@
 # Prefix Cache nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 3 Ağustos 2026*
 
 Yapay zekânın daha önce işlediği metin başlangıçlarını hafızada tutarak aynı işlemleri tekrar yapmasını engelleyen hızlandırma yöntemi.
 
@@ -38,8 +38,8 @@ Evet, ancak bellekte yer kapladığı için sistemin kapasitesine göre yönetil
 - [Context Window](https://trescout.com/dictionary/context-window/)
 - [Inference](https://trescout.com/dictionary/inference/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/prefix-cache/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

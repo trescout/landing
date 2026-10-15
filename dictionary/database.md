@@ -1,6 +1,6 @@
 # Database nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 14 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 14 Haziran 2026*
 
 Bilgilerin düzenli bir şekilde saklandığı, ihtiyaç duyulduğunda kolayca erişilip yönetilebildiği dijital ortam.
 
@@ -47,8 +47,8 @@ Hayır, verinin türüne göre (tablolar veya belgeler) farklı veritabanı tipl
 - [Zvec](https://trescout.com/discover/zvec/)
 - [Cassandra](https://trescout.com/discover/cassandra/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/database/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

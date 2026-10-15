@@ -1,6 +1,6 @@
 # Was ist Traces?
 
-*Glossar · Dev · Zuletzt aktualisiert: 27. Juni 2026*
+*Dev · Zuletzt aktualisiert: 27. Juni 2026*
 
 Hierbei handelt es sich um Überwachungsaufzeichnungen, die Schritt für Schritt zeigen, welche Phasen eine Transaktion im System durchläuft.
 

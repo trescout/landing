@@ -46,7 +46,7 @@ node src/cli/index.js <command>
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You have connected to my TradingView desktop application. Now, when I want you to perform technical analysis on the chart, review Pine Script codes, or change chart settings, I want you to intervene in the TradingView interface using this tool. Please run the necessary commands to read chart data, analyze indicator values, or add new plots.
 

@@ -58,7 +58,7 @@ This entry is for ManimGL. The package name is `manimgl`; do not use the install
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Can you help me write a simple ManimGL scene in which a circle transforms into a square?
 

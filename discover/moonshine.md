@@ -45,7 +45,7 @@ moonshine-voice mic --language en
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Moonshine kütüphanesini kullanarak sesli bir arayüz geliştirmek istiyorum. Mikrofonumdan gelen sesi gerçek zamanlı olarak metne dönüştürmek ve bu metin üzerinden niyet tanıma işlemleri yapmak için gerekli temel Python kod yapısını oluşturmama yardımcı ol. Ayrıca, sistemin düşük gecikmeli çalışması için dikkat etmem gereken yapılandırma ayarlarını açıkla.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/moonshine/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -29,7 +29,7 @@ PostHog est une plateforme complète qui rassemble des outils tels que l'observa
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je dois analyser le comportement des utilisateurs dans mon produit à l'aide de la plateforme PostHog. Quels outils dois-je utiliser pour détecter les erreurs, examiner les rediffusions de session et surveiller les performances de mes fonctionnalités basées sur l'IA ? Expliquez les étapes que je dois suivre pour automatiser les processus de collecte et d'analyse de données.
 

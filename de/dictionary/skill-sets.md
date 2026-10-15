@@ -1,6 +1,6 @@
 # Was ist Skill Sets?
 
-*Glossar · AI · Zuletzt aktualisiert: 2. August 2026*
+*AI · Zuletzt aktualisiert: 2. August 2026*
 
 Dabei handelt es sich um die Gesamtheit der Fähigkeiten, über die eine Person oder künstliche Intelligenz verfügt, um eine bestimmte Aufgabe oder Aufgabe auszuführen.
 

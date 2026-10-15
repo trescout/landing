@@ -37,7 +37,7 @@ hermes
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to benefit from the autonomous learning cycle while working with Hermes Agent. What commands should I use so that the system remembers my past conversations, creates new skills through tasks, and becomes personalized over time? Can you explain the basic steps I need to follow, especially to switch between different models and connect messaging platforms to the system?
 

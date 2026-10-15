@@ -1,6 +1,6 @@
 # O que é Meta-framework?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Meta-framework (em turco, framework superior) é a estrutura que reúne as bibliotecas em uma única ordem.
 

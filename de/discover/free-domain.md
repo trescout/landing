@@ -27,7 +27,7 @@ Sie bewerben sich mit der Anweisung im Repo: Sie wählen die Domain aus, verbind
 
 ## Wie nutzt man es mit KI?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 DigitalPlat FreeDomain ist ein kostenloser Domain-Name-Dienst, keine zu installierende Software. Gehen Sie zu https://dash.domain.digitalplat.org/ und führen Sie mich Schritt für Schritt durch die Registrierung eines kostenlosen Domainnamens mit Erweiterungen wie .dpdns.org, .us.kg, .qzz.io und erklären Sie mir, wie ich ihn mit Cloudflare DNS verbinden kann.
 

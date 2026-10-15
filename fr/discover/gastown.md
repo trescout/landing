@@ -40,7 +40,7 @@ gt mayor attach
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'ai commencé une session « Maire » dans mon espace de travail Gas Town. Je souhaite que vous analysiez mes projets et tâches actuels sur lesquels je travaille, que vous identifiiez les lacunes dans les flux de travail actuels et que vous créiez un plan pour les prochaines étapes pour les processus en cours. Hiérarchiser le travail en examinant les structures « rig » et les enregistrements « perles » existants pour assurer la coordination inter-agents.
 

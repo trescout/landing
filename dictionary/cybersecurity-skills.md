@@ -1,6 +1,6 @@
 # Cybersecurity Skills nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 24 Haziran 2026*
+*Geliştirme · Son güncelleme: 24 Haziran 2026*
 
 Dijital sistemleri ve verileri siber tehditlere karşı korumak için gereken teknik bilgi ve yetkinlikler bütünüdür.
 
@@ -42,8 +42,8 @@ Yapay zekâ modelleri veri işlediği için, bu verilerin çalınmasını veya m
 
 - [Anthropic Cybersecurity Skills](https://trescout.com/discover/anthropic-cybersecurity-skills/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/cybersecurity-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist Swarm Intelligence?
 
-*Glossar · AI · Zuletzt aktualisiert: 8. August 2026*
+*AI · Zuletzt aktualisiert: 8. August 2026*
 
 Dabei handelt es sich um die Zusammenführung vieler Einheiten mit einfachen Funktionen, die als ein einziges intelligentes System fungieren.
 

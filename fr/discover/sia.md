@@ -50,7 +50,7 @@ sia web
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite améliorer les performances d'un agent IA en utilisant le framework SIA. Une fois l'installation terminée, quelle commande dois-je utiliser pour démarrer le cycle d'auto-amélioration en sélectionnant l'une des tâches disponibles (par exemple gpqa) et comment dois-je interpréter les résultats à la fin du processus (target_agent.py, agent_execution.json, enhancement.md) ? De plus, comment puis-je inclure mon propre répertoire de tâches personnalisé dans le système ?
 

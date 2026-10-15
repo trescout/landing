@@ -39,7 +39,7 @@ npm run dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want you to create a flowchart. Visualize the user authentication process including login, multi-factor authentication, and session management.
 

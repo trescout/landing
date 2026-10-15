@@ -49,7 +49,7 @@ reasonix run "implement the TODOs in main.go"
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 While working with this artificial intelligence coding agent running on the terminal, develop code suggestions taking into account the current structure and goals of my project. Focus on producing consistent, low-cost responses across our long sessions using prefix cache stability. When writing or debugging code, provide modular and clean solutions that fit the needs of the project.
 

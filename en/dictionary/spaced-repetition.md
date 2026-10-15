@@ -1,6 +1,6 @@
 # What is Spaced Repetition?
 
-*Dictionary · Data · Last updated: September 19, 2026*
+*Data · Last updated: September 19, 2026*
 
 It is a learning method that ensures information is repeated at specific time intervals to prevent it from being forgotten.
 

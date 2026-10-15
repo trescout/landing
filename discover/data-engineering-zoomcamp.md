@@ -23,9 +23,9 @@
 - Uygulamalı ve proje odaklı bir yaklaşım izler.
 - 9 haftalık yapılandırılmış bir program içerir.
 
-## AI ile nasıl kullanılır?
+## Yapay zekâ ile nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sana 'Data Engineering Zoomcamp' adlı, veri mühendisliğini Docker, Terraform, BigQuery, dbt, Spark ve Kafka gibi araçlarla öğreten 9 haftalık ücretsiz bir kursun içeriğini vereceğim. Müfredatı incele ve bilgi düzeyime göre hangi modülden başlamam gerektiğini belirle, bana haftalık bir çalışma planı çıkar. Seviyem: [örn. yeni başlayan]. Hedefim: [örn. veri mühendisi olmak].
 
@@ -43,4 +43,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/data-engineering-zoomcamp/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

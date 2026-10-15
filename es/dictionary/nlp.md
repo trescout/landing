@@ -1,6 +1,6 @@
 # ¿Qué es NLP?
 
-*Glosario · AI · Última actualización: 3 de junio de 2026*
+*AI · Última actualización: 3 de junio de 2026*
 
 > Natural Language Processing
 

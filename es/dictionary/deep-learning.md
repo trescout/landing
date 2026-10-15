@@ -1,6 +1,6 @@
 # ¿Qué es Deep Learning?
 
-*Glosario · AI · Última actualización: 1 de agosto de 2026*
+*AI · Última actualización: 1 de agosto de 2026*
 
 Es un método de aprendizaje automático que permite a las computadoras aprender por sí solas a partir de big data utilizando redes neuronales artificiales.
 

@@ -49,7 +49,7 @@ wt switch -c -x claude feat
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a new worktree in my existing Git project using Worktrunk and start a parallel task in this space. How should I use wt commands to manage worktrees as easily as branches, and how can I leverage hooks to automate my workflow?
 

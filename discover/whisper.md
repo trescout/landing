@@ -48,7 +48,7 @@ whisper audio.flac --model turbo
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Whisper aracını kullanarak elimdeki ses dosyasını metne dönüştürmek istiyorum. Sistemimde gerekli kurulumları yaptım. Ses dosyamın içeriğini metne çevirmek için terminale yazmam gereken temel komut yapısı nedir ve farklı dillerdeki ses dosyaları için dil belirtme parametresini nasıl kullanmalıyım?
 
@@ -68,4 +68,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/whisper/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

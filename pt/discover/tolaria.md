@@ -53,7 +53,7 @@ pnpm tauri dev
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso estruturar minha base de conhecimento baseada em Markdown usando o aplicativo desktop Tolaria? Explique passo a passo como organizar minhas anotações, gerenciar meus arquivos Markdown padrão e obter produtividade a partir da paleta de comandos orientada ao teclado, usando a estrutura baseada em Git do aplicativo, o princípio de funcionamento offline e recursos compatíveis com agentes de IA.
 

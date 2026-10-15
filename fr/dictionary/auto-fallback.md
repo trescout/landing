@@ -1,6 +1,6 @@
 # Qu'est-ce que Auto-fallback ?
 
-*Glossaire · Dev · Dernière mise à jour : 25 juillet 2026*
+*Dev · Dernière mise à jour : 25 juillet 2026*
 
 Lorsqu'une erreur se produit dans un système ou que la méthode principale échoue, le système passe automatiquement à une méthode plus sûre ou alternative.
 

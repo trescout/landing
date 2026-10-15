@@ -29,7 +29,7 @@ INSTATIC_IMAGE=ghcr.io/corebunch/instatic:latest docker compose -f compose.prod.
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie mithilfe des Agenten für künstliche Intelligenz in der Seitenbearbeitungsoberfläche bearbeitbare Knoten, die den festgelegten Designkriterien entsprechen, eine semantische HTML-Struktur aufweisen und mit CSS formatiert sind. Ermöglichen Sie dem Agenten die Integration mit Modellen wie Claude, OpenAI oder OpenRouter, um die Seitenstruktur und Inhaltskomponenten automatisch zu erstellen.
 

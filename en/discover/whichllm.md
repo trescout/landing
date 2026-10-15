@@ -51,7 +51,7 @@ whichllm run "qwen 2.5 1.5b gguf"
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the Whichllm tool, I want to list the local big language models that best suit my hardware specifications and see the performance estimates of these models. How can I filter the models with the highest benchmark scores based on the GPU or CPU capacity in my system, as well as plan the hardware required for a particular model?
 

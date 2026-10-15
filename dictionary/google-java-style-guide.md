@@ -1,6 +1,6 @@
 # Google Java Style Guide nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 20 Eylül 2026*
+*Geliştirme · Son güncelleme: 20 Eylül 2026*
 
 Google Java Style Guide, Google tarafından açık kaynak ve kurumsal Java projelerinde kod okunabilirliğini, tutarlılığını ve bakım kolaylığını sağlamak amacıyla belirlenmiş resmi kodlama standartları bütünüdür.
 
@@ -65,8 +65,8 @@ Hayır; Google Java Style Guide kurallar dokümanıdır, Checkstyle ise bu kural
 - [Production Pipeline](https://trescout.com/dictionary/production-pipeline/)
 - [TDD](https://trescout.com/dictionary/tdd/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/google-java-style-guide/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

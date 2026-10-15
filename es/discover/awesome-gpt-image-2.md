@@ -37,7 +37,7 @@ npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-librar
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un ingeniero de avisos visuales. Usando los protocolos estructurales en la biblioteca Awesome GPT Image 2, el tema de la imagen que especifiqué; Divídalo en partes atómicas como iluminación, materiales, diseño y detalles visuales. Asegúrese de que la solicitud que produzca proporcione resultados consistentes y controlables mediante modelos de inteligencia artificial.
 

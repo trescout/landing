@@ -39,7 +39,7 @@ npx skills add blader/humanizer --global
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wandle den folgenden Text in eine natürlichere, menschlich wirkende Ausdrucksweise um, indem du KI-typische Formulierungen, übertriebene Verkaufssprache und unnötige Füllwörter entfernst. Behalte dabei die technischen Informationen, numerischen Daten und Eigennamen des Originaltextes bei und verändere lediglich die Satzstruktur und den Stil, um ihn flüssiger zu gestalten.
 

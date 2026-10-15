@@ -1,6 +1,6 @@
 # Document Parsing nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 3 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 3 Haziran 2026*
 
 Karmaşık belgelerdeki verilerin bilgisayarın anlayacağı formata dönüştürülmesidir.
 
@@ -39,8 +39,8 @@ Bilgisayarlar ham PDF dosyalarını anlamaz, onları anlamlı veriye dönüştü
 - [RAG](https://trescout.com/dictionary/rag/)
 - [NLP](https://trescout.com/dictionary/nlp/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/document-parsing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

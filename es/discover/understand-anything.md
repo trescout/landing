@@ -47,7 +47,7 @@
 
 ## Pruébalo en 2 minutos
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale el complemento Understand Anything en Claude Code con los comandos '/plugin Marketplace add Lum1104/Understand-Anything' y '/plugin install learn-anything', luego en mi proyecto ejecute '/understand' para analizar el código base y abra el panel de gráfico de conocimiento interactivo con '/understand-dashboard'.
 

@@ -1,6 +1,6 @@
 # Ternary nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 28 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 28 Eylül 2026*
 
 Sadece iki değil, üç farklı durum veya değer üzerinden işlem yapan sistemdir.
 
@@ -39,8 +39,8 @@ Geleneksel işlemciler ikili sistemle çalışsa da yazılım simülasyonları v
 - [LLM Inference](https://trescout.com/dictionary/llm-inference/)
 - [FP8](https://trescout.com/dictionary/fp8/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ternary/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist Copywriting?
 
-*Glossar · Dev · Zuletzt aktualisiert: 7. September 2026*
+*Dev · Zuletzt aktualisiert: 7. September 2026*
 
 Es handelt sich um überzeugendes Texten, das darauf ausgelegt ist, Menschen dazu zu bewegen, eine bestimmte Handlung auszuführen oder ein Produkt zu kaufen.
 

@@ -1,6 +1,6 @@
 # O que é Machine Learning Systems?
 
-*Glossário · AI · Última atualização: 3 de julho de 2026*
+*AI · Última atualização: 3 de julho de 2026*
 
 São sistemas de computador que aprendem por conta própria analisando dados e podem fazer previsões mais precisas ao longo do tempo.
 

@@ -1,6 +1,6 @@
 # What is Speaker Diarization?
 
-*Dictionary · AI · Last updated: September 19, 2026*
+*AI · Last updated: September 19, 2026*
 
 Speaker Diarization (speaker separation or logging) analyzes sound waves in a multi-participant audio recording to find out "who spoke when?" It is an artificial intelligence technology that answers the question and labels speech segments according to speaker identities.
 

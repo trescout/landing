@@ -1,6 +1,6 @@
 # O que é Task Runner?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 O executor de tarefas é uma ferramenta que executa tarefas repetitivas sequencialmente.
 

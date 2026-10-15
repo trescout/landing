@@ -30,7 +30,7 @@ claude --plugin-dir /path/to/agent-skills
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero que você trabalhe como um engenheiro de software. Usando a biblioteca Agent Skills, aplique os comandos /spec, /plan, /build, /test, /review, /code-simplify e /ship de acordo com os padrões em cada estágio do meu processo de desenvolvimento de software. Produza código seguindo fluxos de trabalho, pontos de controle de qualidade e práticas recomendadas de engenharia.
 

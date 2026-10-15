@@ -58,7 +58,7 @@ The official README describes Ladybird as pre-alpha and suitable only for develo
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 According to the official build instructions, how can I check whether my system has Qt 6.9+, a C++23 compiler, Rust and CMake 3.30+?
 

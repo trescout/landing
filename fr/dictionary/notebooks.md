@@ -1,6 +1,6 @@
 # Qu'est-ce que Notebooks ?
 
-*Glossaire · Dev · Dernière mise à jour : 20 juin 2026*
+*Dev · Dernière mise à jour : 20 juin 2026*
 
 Ce sont des environnements de travail interactifs dans lesquels vous pouvez prendre des notes tout en écrivant du code et voir les résultats instantanément.
 

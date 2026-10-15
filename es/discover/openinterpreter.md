@@ -37,7 +37,7 @@ i
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero que actúes como agente codificador en mi computadora. Espero que automatice tareas complejas ejecutando código en mi entorno local y probando aplicaciones web o locales cuando sea necesario. Utilizar estructuras que optimicen modelos de bajo costo al realizar transacciones y ejecutar mis comandos de forma segura a través del terminal.
 

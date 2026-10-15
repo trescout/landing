@@ -43,7 +43,7 @@ cognee-cli -ui
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using Cognee, I want to store my data in a knowledge graph structure and allow my agent to recall this data by keeping it in its long-term memory. Please create a workflow that will allow me to memorize data with the cognee.remember() function and generate meaningful responses based on this data with cognee.recall().
 

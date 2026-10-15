@@ -1,6 +1,6 @@
 # Cloud Computing nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Cloud Computing (bulut bilişim), sunucu, depolama, veritabanı, ağ ve yazılım gibi bilgi işlem kaynaklarının fiziksel yerel altyapılar yerine internet üzerinden uzaktaki veri merkezlerinden anlık ihtiyaç doğrultusunda (on-demand) sunulmasıdır.
 
@@ -82,8 +82,8 @@ Açık kaynak standartları (Docker konteynerleri, Kubernetes), bağımsız veri
 
 - [DevOps-Interview-Guide](https://trescout.com/discover/devops-interview-guide/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/cloud-computing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

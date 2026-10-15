@@ -1,6 +1,6 @@
 # Assets: Recursos web, pipelines 3D, ITAM e gestão DAM
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 Assets (recursos ou ativos digitais) representam os elementos auxiliares não executáveis indispensáveis a sistemas de software : arquivos de mídia, tipografias, malhas 3D, inventários de TI corporativos e repositórios multimídia.
 

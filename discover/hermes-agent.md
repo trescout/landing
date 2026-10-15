@@ -37,7 +37,7 @@ hermes
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Hermes Agent ile çalışırken otonom öğrenme döngüsünden faydalanmak istiyorum. Sistemin geçmiş konuşmalarımı hatırlaması, görevler üzerinden yeni beceriler oluşturması ve zamanla kişiselleşmesi için hangi komutları kullanmalıyım? Özellikle farklı modeller arasında geçiş yapmak ve mesajlaşma platformlarını sisteme bağlamak için izlemem gereken temel adımları açıklar mısın?
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hermes-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

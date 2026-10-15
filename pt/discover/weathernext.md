@@ -26,7 +26,7 @@ pip install git+https://github.com/google-deepmind/weathernext.git@v0.3.0
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Preciso fazer uma previsão meteorológica de médio prazo para uma região específica usando o modelo WeatherNext. Como posso carregar pesos de modelo por meio do Google Cloud Bucket e iniciar o ciclo de previsão processando dados meteorológicos (como temperatura, velocidade do vento)? Você pode explicar especificamente as etapas necessárias para o rastreamento de furacões?
 

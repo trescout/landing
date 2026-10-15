@@ -42,7 +42,7 @@ mvt completion bash
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Leite mich durch die Schritte zur Installation und Ausführung von Befehlen für das mobile forensische Tool Mobile Verification Toolkit. Lass uns das Tool mit dem Befehl uv tool install mvt installieren und danach das Shell-Vervollständigungsskript durch Ausführen des Befehls mvt completion bash generieren.
 

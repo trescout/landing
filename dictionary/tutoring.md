@@ -1,6 +1,6 @@
 # Tutoring ne demek? Nedir ve nasıl çalışır?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 19 Eylül 2026*
 
 Tutoring (Türkçe karşılığıyla **özel ders verme veya birebir rehberlik**), bir öğrencinin bilgi düzeyine, eksiklerine ve anlama hızına göre uyarlanmış kişiselleştirilmiş öğretim sürecidir.
 
@@ -73,8 +73,8 @@ Teaching çoğunlukla kalabalık bir sınıfa standart bir plan doğrultusunda b
 
 - [DeepTutor](https://trescout.com/discover/deeptutor/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/tutoring/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

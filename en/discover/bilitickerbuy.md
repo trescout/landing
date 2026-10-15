@@ -41,7 +41,7 @@ btb
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to automate Bilibili ticket purchasing processes. Can you explain to me the basic steps for installing and using this tool, based on the information on the documentation pages?
 

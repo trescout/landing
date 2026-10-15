@@ -1,6 +1,6 @@
 # Was ist Pluggable Transports?
 
-*Glossar · Dev · Zuletzt aktualisiert: 12. September 2026*
+*Dev · Zuletzt aktualisiert: 12. September 2026*
 
 Dies sind Verbindungsmethoden, die dazu dienen, Zensur und Blockaden durch das Verschleiern des Internetverkehrs zu umgehen.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Computer Use ?
 
-*Glossaire · AI · Dernière mise à jour : 18 juillet 2026*
+*AI · Dernière mise à jour : 18 juillet 2026*
 
 C’est la capacité de l’intelligence artificielle à voir l’écran et à gérer l’ordinateur à l’aide d’une souris et d’un clavier, tout comme un humain.
 

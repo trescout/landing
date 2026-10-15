@@ -1,6 +1,6 @@
 # E-signature nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 18 Temmuz 2026*
+*Geliştirme · Son güncelleme: 18 Temmuz 2026*
 
 > Electronic Signature
 
@@ -40,8 +40,8 @@ E-imza, belgenin bütünlüğünü matematiksel olarak ispatlayabilir, fiziksel 
 
 - [Docuseal](https://trescout.com/discover/docuseal/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/e-signature/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

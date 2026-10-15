@@ -44,7 +44,7 @@ http://localhost:8899
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero usar la herramienta Reclip para descargar enlaces de vídeo de Internet en formato MP4 o MP3 a mi dispositivo local. Para iniciar el proceso de descarga, debo pegar los enlaces en el cuadro de entrada, seleccionar el formato, hacer clic en el botón Fetch para cargar la información del vídeo y luego usar el botón Download. En este proceso, puedo realizar descargas masivas y ajustar la resolución del vídeo según mis preferencias.
 

@@ -1,6 +1,6 @@
 # Userspace nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 3 Ağustos 2026*
+*Geliştirme · Son güncelleme: 3 Ağustos 2026*
 
 Bilgisayarın çekirdeğine (kernel) müdahale etmeden, kullanıcı uygulamalarının çalıştığı güvenli alan.
 
@@ -37,8 +37,8 @@ Güvenlik ve kararlılık için; uygulamaların sistemi bozmasını engellemek a
 - [Runtime](https://trescout.com/dictionary/runtime/)
 - [Containers](https://trescout.com/dictionary/containers/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/userspace/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

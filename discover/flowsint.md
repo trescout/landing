@@ -38,7 +38,7 @@ make dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Flowsint aracını kurmak istiyorum. Docker ve Make yüklü bir sistemde git clone https://github.com/reconurge/flowsint.git, cd flowsint ve make prod komutlarını sırasıyla çalıştırarak kurulumu tamamlamama yardımcı ol. Kurulum sonrası http://localhost:5173/register adresinden hesap oluşturmam gerektiğini biliyorum, bu süreçte karşılaşabileceğim temel adımları açıkla.
 
@@ -61,4 +61,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flowsint/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

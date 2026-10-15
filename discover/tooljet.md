@@ -35,7 +35,7 @@ docker run \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 ToolJet üzerinde 60'tan fazla hazır bileşeni kullanarak veritabanı bağlantılı, sürükle bırak yöntemiyle çalışan bir iç operasyon paneli oluşturmama yardımcı ol. JavaScript ve Python kullanarak özelleştirebileceğim, verileri görselleştiren ve ekip içi iş akışlarını otomatize eden bir uygulama mimarisi tasarla.
 
@@ -55,4 +55,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tooljet/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

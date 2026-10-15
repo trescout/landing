@@ -1,6 +1,6 @@
 # Was ist Dossier?
 
-*Glossar · Data · Zuletzt aktualisiert: 11. Juni 2026*
+*Data · Zuletzt aktualisiert: 11. Juni 2026*
 
 Es handelt sich um ein organisiertes Dateisystem, in dem alle Dokumente und Informationen zu einem bestimmten Thema oder einer bestimmten Person zusammengeführt werden.
 

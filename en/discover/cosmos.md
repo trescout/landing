@@ -38,7 +38,7 @@ curl -sS -X POST http://localhost:8000/v1/videos/sync \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop physical artificial intelligence applications using the NVIDIA Cosmos platform. Explain in technical detail the capabilities offered by the Cosmos 3 model family, especially the differences in the use of 'Reasoner' and 'Generator' surfaces, and how these models can be configured in scenarios such as mission planning or world simulation in robotic and autonomous systems. Also, summarize the process of working with the 'uv' tool and the 'vllm-omni' library during the installation phase, step by step, taking into account the CUDA driver requirements.
 

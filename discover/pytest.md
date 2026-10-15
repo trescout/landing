@@ -36,7 +36,7 @@ pytest
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Python projemde birim testleri yazmak istiyorum. Pytest kullanarak basit bir test dosyasını nasıl oluşturabilirim ve yazdığım testleri terminal üzerinden nasıl çalıştırabilirim? Lütfen test fonksiyonlarını tanımlarken kullanmam gereken assert yapısı ve testlerin otomatik keşfedilmesi için dosya isimlendirme kuralları hakkında bilgi ver.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pytest/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

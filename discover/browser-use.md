@@ -35,7 +35,7 @@ uv run agent.py
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Tarayıcı tabanlı işlemleri otomatize etmek için uv add browser-use komutuyla kütüphaneyi kurun, OpenAI API anahtarınızı .env dosyasına ekleyin ve uv run agent.py komutuyla tarayıcı ajanını çalıştırın.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/browser-use/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

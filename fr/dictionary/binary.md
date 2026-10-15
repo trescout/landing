@@ -1,6 +1,6 @@
 # Qu'est-ce que Binary ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Le binaire (Binary en anglais) est un langage machine qui fonctionne avec des 0 et des 1.
 

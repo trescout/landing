@@ -35,7 +35,7 @@ npm install -g @openai/codex
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Iniciar una revisión de mi código existente utilizando el complemento Codex dentro de Claude Code e informar los hallazgos. Si hay una tarea compleja, delégala en Codex con el comando /codex:rescue y ejecútela en segundo plano, lo que me permitirá realizar un seguimiento del progreso con /codex:status.
 

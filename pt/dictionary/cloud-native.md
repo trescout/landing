@@ -1,6 +1,6 @@
 # O que é Cloud Native?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Cloud native (em português, nativo da nuvem), é uma abordagem de design de aplicações que aproveita ao máximo a flexibilidade e escalabilidade da nuvem.
 

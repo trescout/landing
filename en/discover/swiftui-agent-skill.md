@@ -32,7 +32,7 @@ npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 If the software runtime environment Node is not installed on my computer, install it using the 'brew install node' command. Then, to give my coding assistant SwiftUI expertise, run the command 'npx skills add https://github.com/twostraws/swiftui-agent-skill --skill swiftui-pro' and make this skill ready for use in my projects.
 

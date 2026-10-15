@@ -1,6 +1,6 @@
 # ¿Qué es Optical Character Recognition?
 
-*Glosario · Data · Última actualización: 5 de junio de 2026*
+*Data · Última actualización: 5 de junio de 2026*
 
 > OCR
 

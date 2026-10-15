@@ -36,7 +36,7 @@ npm init @logto
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Logto kullanarak uygulamam için güvenli bir kimlik doğrulama sistemi kurmak istiyorum. OIDC ve OAuth 2.1 protokollerini temel alan bu yapıda, çoklu kiracılık ve rol tabanlı erişim denetimi özelliklerini nasıl yapılandırabilirim? SaaS projemde kullanıcı giriş akışlarını ve kurumsal SSO entegrasyonunu yönetmek için izlemem gereken temel adımları açıklar mısın?
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/logto/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

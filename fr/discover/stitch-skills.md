@@ -42,7 +42,7 @@ npx skills --help
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Analysez mon code d'interface existant à l'aide de la bibliothèque Stitch Skills et importez-le dans un projet Stitch. Créez ensuite des composants React à l'aide de ce système de conception et vérifiez que le projet est conforme aux normes de conception.
 

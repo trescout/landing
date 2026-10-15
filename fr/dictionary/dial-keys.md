@@ -1,6 +1,6 @@
 # Qu'est-ce que Dial Keys ?
 
-*Glossaire · Dev · Dernière mise à jour : 18 juin 2026*
+*Dev · Dernière mise à jour : 18 juin 2026*
 
 Il s'agit d'un clavier mécanique rotatif utilisé pour composer des numéros sur les anciens téléphones.
 

@@ -1,6 +1,6 @@
 # Deterministic Pipelines nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 22 Eylül 2026*
+*Geliştirme · Son güncelleme: 22 Eylül 2026*
 
 Deterministic pipeline (Türkçe karşılığıyla **belirlenimci işlem hattı**), aynı girdiyle her çalışmada aynı çıktıyı üreten işlem hattıdır.
 
@@ -67,8 +67,8 @@ Kilit dosyası bakımı, sabit ortam ve ek test düzeni ister. Kritik sistemlerd
 - [Data Pipeline](https://trescout.com/dictionary/data-pipeline/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/deterministic-pipelines/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

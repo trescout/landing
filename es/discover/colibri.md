@@ -42,7 +42,7 @@ python ./coli chat --model /path/to/DeepSeek-V4-Flash --ram 32
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero ejecutar modelos de inteligencia artificial a gran escala en mi computadora local utilizando el motor Colibri. Ayúdame a configurarlo para utilizar mis recursos de hardware (VRAM, RAM y disco NVMe) de la manera más eficiente posible. Explica paso a paso cómo puedo optimizar y ejecutar modelos como GLM o DeepSeek según la capacidad de memoria de mi sistema.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Transcription ?
 
-*Glossaire · AI · Dernière mise à jour : 22 septembre 2026*
+*AI · Dernière mise à jour : 22 septembre 2026*
 
 La transcription est le processus de transcription de l'enregistrement audio en texte écrit.
 

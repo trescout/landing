@@ -30,7 +30,7 @@ git clone https://github.com/cursor-plugins/cursor-plugins.git
 
 ## Como usá-lo com IA?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Ajude-me a instalar os plug-ins oficiais do Cursor deste repositório (por exemplo, plug-ins que fazem revisão de código ou verificações de segurança) do mercado de plug-ins Cursor para o projeto em que estou trabalhando no editor Cursor e explique passo a passo como usá-los.
 

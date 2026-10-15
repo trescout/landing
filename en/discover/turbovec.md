@@ -34,7 +34,7 @@ cargo add turbovec
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to use the turbovec library to speed up vector-based search operations in my Python or Rust projects. Help me set up a RAG system or vector database structure using the basic indexing, data appending and searching functions of this tool built on the TurboQuant algorithm. Explain with example code how to configure 4-bit wide indexes, which specifically saves memory, and how to apply filtering features during search.
 

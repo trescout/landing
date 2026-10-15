@@ -1,6 +1,6 @@
 # Was ist Productivity?
 
-*Glossar · AI · Zuletzt aktualisiert: 19. September 2026*
+*AI · Zuletzt aktualisiert: 19. September 2026*
 
 Produktivität (entspricht im Türkischen üretkenlik oder verimlilik) ist die fundamentale Erfolgsmetrik, die das Verhältnis zwischen den eingesetzten Ressourcen (Zeit, Energie, Arbeit oder Kapital) und dem erzieltenqualitativen Ergebnis ausdrückt.
 

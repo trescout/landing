@@ -1,6 +1,6 @@
 # ¿Qué es AI Coding Clients?
 
-*Glosario · Dev · Última actualización: 6 de agosto de 2026*
+*Dev · Última actualización: 6 de agosto de 2026*
 
 Son software apoyado en inteligencia artificial que acompaña al desarrollador en tareas de codificación, depuración y finalización de proyectos durante el proceso de desarrollo de software.
 

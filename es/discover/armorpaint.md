@@ -35,7 +35,7 @@ cd armorpaint/paint
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Ayúdame en mis procesos de modelado 3D y texturizado. Permíteme preparar acabados realistas para mis modelos utilizando técnicas de renderizado basado en física (PBR). Guíame paso a paso cuando tenga problemas técnicos o me quede atascado en la fase de creación de texturas.
 

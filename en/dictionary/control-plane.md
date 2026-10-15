@@ -1,6 +1,6 @@
 # What is Control Plane?
 
-*Dictionary · Dev · Last updated: August 31, 2026*
+*Dev · Last updated: August 31, 2026*
 
 It is the central management layer that governs how a system operates, controlling traffic and settings.
 

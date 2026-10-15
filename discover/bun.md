@@ -49,7 +49,7 @@ bun run index.tsx
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bun kullanarak JavaScript veya TypeScript tabanlı bir projeyi nasıl daha hızlı çalıştırabilirim ve Node.js projelerimi Bun'a taşırken nelere dikkat etmeliyim? Bun'ın sunduğu paket yöneticisi ve test aracı özelliklerini projeme nasıl entegre edebileceğimi adım adım açıkla.
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bun/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

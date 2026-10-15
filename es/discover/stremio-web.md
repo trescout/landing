@@ -37,7 +37,7 @@ docker run -p 8080:8080 stremio-web
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo personalizar mi experiencia de ver series y películas usando la interfaz de Stremio Web? Guíame sobre cómo gestionar los complementos (addons), cómo sincronizar mi lista de seguimiento y cómo controlar el reproductor de manera más eficiente usando atajos de teclado.
 

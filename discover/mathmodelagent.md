@@ -43,7 +43,7 @@ claude: /1start-mathmodel 完成这个数学建模任务
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir matematiksel modelleme uzmanısın. MathModelAgent kullanarak verdiğim karmaşık problemi analiz et, gerekli matematiksel modelleri kur, Python kodlarını yazarak verileri analiz et ve sonuçları akademik bir makale formatında raporla. Çalışma boyunca Typst şablonlarını kullan, hata kontrollerini yap ve her aşamada profesyonel akademik standartlara bağlı kal.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mathmodelagent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

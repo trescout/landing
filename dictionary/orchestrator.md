@@ -1,6 +1,6 @@
 # Orchestrator nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 27 Eylül 2026*
+*Geliştirme · Son güncelleme: 27 Eylül 2026*
 
 Farklı yazılım bileşenlerinin veya yapay zekâ araçlarının birbiriyle uyumlu çalışmasını yöneten merkezî yönetim sistemidir.
 
@@ -39,8 +39,8 @@ Yapay zekâ destekli yöneticiler, dinamik durumlara göre hangi aracın çağr�
 - [Multi-agent](https://trescout.com/dictionary/multi-agent/)
 - [Agentic System](https://trescout.com/dictionary/agentic-system/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/orchestrator/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Fine-tuning nedir, ne demek?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 20 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 20 Eylül 2026*
 
 Fine-Tuning (ince ayar), önceden eğitilmiş genel amaçlı bir yapay zekâ temel modelinin belirli bir uzmanlık alanı, görev, üslup veya kurumsal veri kümesi üzerinde ağırlıklarının optimize edilerek özelleştirilmesi sürecidir.
 
@@ -72,8 +72,8 @@ LIMA prensibine göre doğru seçilmiş, tutarlı ve yüksek kaliteli 500 ila 2.
 - [Ktransformers](https://trescout.com/discover/ktransformers/)
 - [Soup](https://trescout.com/discover/soup/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/fine-tuning/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

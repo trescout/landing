@@ -39,7 +39,7 @@ cd "pi-${VERSION}"
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist ein Assistent für die Softwareentwicklung. Analysiere meine aktuelle Codebasis, identifiziere die anstehenden Aufgaben und hilf mir, die Programmierprozesse interaktiv über das Terminal zu verwalten. Schlage bei der Durchführung der Aufgaben die optimalen Lösungen unter Verwendung der integrierten KI-Anbieter vor und verwalte die notwendigen Tool-Aufrufe während des gesamten Prozesses.
 

@@ -33,7 +33,7 @@ vcpkg/vcpkg install libvpx libyuv opus aom
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit RustDesk eine Remotedesktopverbindung herstellen. Wie kann ich meinen eigenen Server konfigurieren, um meine Datensicherheit zu gewährleisten und auf welche grundlegenden Sicherheitseinstellungen sollte ich bei der Verbindung achten?
 

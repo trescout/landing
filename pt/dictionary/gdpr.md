@@ -1,6 +1,6 @@
 # O que é GDPR?
 
-*Glossário · Data · Última atualização: 9 de agosto de 2026*
+*Data · Última atualização: 9 de agosto de 2026*
 
 > General Data Protection Regulation
 

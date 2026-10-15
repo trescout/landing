@@ -44,7 +44,7 @@ http://localhost:8899
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to download video links from the internet to my local device in MP4 or MP3 format using the Reclip tool. To start the download process, I need to paste the links into the input box, select the format, click the Fetch button to load the video information, and then use the Download button. During this process, I can perform bulk downloads and adjust the video resolution according to my preferences.
 

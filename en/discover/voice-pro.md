@@ -27,7 +27,7 @@ git clone https://github.com/abus-aikorea/voice-pro.git
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I quickly translate and dub a YouTube video into a different language using the Voice-Pro tool? Explain step by step what I need to do and what I should pay attention to when using the voice transcription feature.
 

@@ -1,6 +1,6 @@
 # What is End-to-End Testing?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 > E2E Testing
 

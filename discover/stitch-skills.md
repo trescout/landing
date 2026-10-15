@@ -42,7 +42,7 @@ npx skills --help
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Stitch Skills kütüphanesini kullanarak mevcut arayüz kodumu analiz et ve bunu bir Stitch projesine aktar. Ardından, bu tasarım sistemini kullanarak React bileşenleri oluştur ve projenin tasarım standartlarına uygunluğunu doğrula.
 
@@ -66,4 +66,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stitch-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

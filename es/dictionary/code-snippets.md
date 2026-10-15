@@ -1,6 +1,6 @@
 # Code Snippets: Plantillas de IDE, expansión paramétrica y estándares de equipo
 
-*Glosario · Dev · Última actualización: 19 de septiembre de 2026*
+*Dev · Última actualización: 19 de septiembre de 2026*
 
 Un code snippet (fragmento de código o plantilla reutilizable) es un bloque predefinido de código fuente que se inserta de forma rápida en un editor de texto para evitar código repetitivo y acelerar el desarrollo.
 

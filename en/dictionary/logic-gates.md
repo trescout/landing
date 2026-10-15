@@ -1,6 +1,6 @@
 # What is Logic Gates?
 
-*Dictionary · Dev · Last updated: October 11, 2026*
+*Dev · Last updated: October 11, 2026*
 
 They are fundamental electronic circuit units that produce binary (0 or 1) output by applying logical rules to input signals.
 

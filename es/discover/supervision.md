@@ -44,7 +44,7 @@ annotated_frame = box_annotator.annotate(scene=image.copy(), detections=detectio
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instalé la biblioteca con el comando de supervisión pip install en un entorno Python 3.9 o superior. Quiero visualizar los resultados de la detección de objetos y administrar mi conjunto de datos en mi proyecto de visión por computadora. ¿Cómo puedo marcar los resultados de la detección de objetos en una imagen usando la biblioteca de Supervisión y cómo puedo cargar y convertir conjuntos de datos en diferentes formatos (COCO, YOLO, etc.)? Ayúdenme a crear un flujo de trabajo de muestra utilizando el anotador y las herramientas auxiliares de conjunto de datos proporcionadas por la biblioteca.
 

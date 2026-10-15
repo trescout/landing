@@ -1,6 +1,6 @@
 # Agent Fleets nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 27 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 27 Ağustos 2026*
 
 Karmaşık görevleri tamamlamak için birbirleriyle uyum içinde çalışan çok sayıda yapay zekâ yazılımının oluşturduğu grup.
 
@@ -34,8 +34,8 @@ Belirlenmiş ortak bir protokol veya mesajlaşma dili üzerinden haberleşirler.
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
 - [Swarm Intelligence](https://trescout.com/dictionary/swarm-intelligence/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agent-fleets/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

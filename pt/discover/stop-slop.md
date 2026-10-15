@@ -28,7 +28,7 @@ Os textos produzidos com inteligência artificial muitas vezes contêm expressõ
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Baixe este repositório (https://github.com/hardikpandya/stop-slop) e adicione a habilidade stop-slop como uma habilidade ao Claude Code; Em seguida, use essa habilidade para limpar clichês específicos de IA dos textos que escrevo.
 

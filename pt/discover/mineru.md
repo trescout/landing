@@ -39,7 +39,7 @@ uv pip install -e .[all]
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero converter os complexos documentos PDF e Office que possuo em um formato que meu agente de inteligência artificial possa entender. Preciso converter esses arquivos para o formato markdown ou JSON usando a ferramenta MinerU. Como posso iniciar esse processo de transformação e usar os resultados de forma mais eficiente em meus fluxos de trabalho baseados em agentes?
 

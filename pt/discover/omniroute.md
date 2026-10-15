@@ -45,7 +45,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ## Prompt de IA para não programadores
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Prepare uma configuração de roteamento usando o gateway de IA OmniRoute que inclua modelos da OpenAI, Anthropic e Ollama local. Crie uma regra de fallback que mude automaticamente para o segundo modelo caso o modelo principal não responda e liste os passos para executar com Docker Compose.
 

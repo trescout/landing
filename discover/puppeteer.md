@@ -38,7 +38,7 @@ npm install puppeteer
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir web otomasyon uzmanısın. Puppeteer kütüphanesini kullanarak bir web sayfasını açan, belirli bir alana metin yazan ve sonuçları ekrana yazdıran basit bir JavaScript betiği hazırla. Tarayıcıyı başlatan, yeni bir sayfa oluşturan, bir URL adresine giden ve sayfa başlığını konsola yazdıran adımları içeren bir kod örneği sun.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/puppeteer/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

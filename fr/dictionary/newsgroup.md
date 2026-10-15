@@ -1,6 +1,6 @@
 # Qu'est-ce que Newsgroup ?
 
-*Glossaire · Dev · Dernière mise à jour : 12 septembre 2026*
+*Dev · Dernière mise à jour : 12 septembre 2026*
 
 Une plateforme de messagerie et de discussion autour de sujets spécifiques, populaire aux débuts de l'Internet.
 

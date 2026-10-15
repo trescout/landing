@@ -1,6 +1,6 @@
 # Agentic System nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 21 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 21 Haziran 2026*
 
 İnsan müdahalesi olmadan hedeflere ulaşmak için kendi başına karar alıp aksiyon geliştiren otonom yapılar.
 
@@ -43,8 +43,8 @@ Evet, çoğu agentic sistem, deneyimlerinden ders çıkararak bir sonraki görev
 
 - [OpenMontage](https://trescout.com/discover/openmontage/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agentic-system/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

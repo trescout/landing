@@ -1,6 +1,6 @@
 # What is Batch Processing?
 
-*Dictionary · Dev · Last updated: June 10, 2026*
+*Dev · Last updated: June 10, 2026*
 
 It is the automatic execution of many operations in the background as a group, rather than one by one.
 

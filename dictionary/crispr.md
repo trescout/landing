@@ -1,6 +1,6 @@
 # CRISPR nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 13 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 13 Haziran 2026*
 
 > Clustered Regularly Interspaced Short Palindromic Repeats
 
@@ -36,8 +36,8 @@ Oldukça hassas bir araçtır ancak etik tartışmalar ve hata payı nedeniyle �
 - [Computer Science](https://trescout.com/dictionary/computer-science/)
 - [AI Models](https://trescout.com/dictionary/ai-models/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/crispr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

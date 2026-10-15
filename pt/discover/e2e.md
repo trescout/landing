@@ -29,7 +29,7 @@ npx e2e init
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Configure testes automatizados com etapas escritas em linguagem natural para meu aplicativo web ou móvel usando a ferramenta de teste e crie o arquivo de configuração.
 

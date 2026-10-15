@@ -42,7 +42,7 @@ pnpm --dir apps/desktop tauri build
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero reunir os modelos de prompt e as configurações de provedor que preparei para meu assistente de codificação de IA usando o Codex-X em uma única interface visual. Ajude-me a instalar e iniciar o aplicativo em meu ambiente local para configurar minhas chaves de API e sincronizar meu histórico de sessões.
 

@@ -34,7 +34,7 @@ python3 -m http.server 8000
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Usando la interfaz G0DM0D3, active el motor ULTRAPLINIAN, que ejecuta múltiples modelos a través de los proveedores de modelos que especifique (OpenRouter, Venice o servidor local). Aplicar técnicas de mezcla de entradas en lengua pársel para las investigaciones de mi equipo rojo y configurar automáticamente los parámetros de muestreo que mejor se adapten al contexto de la consulta con la función AutoTune.
 

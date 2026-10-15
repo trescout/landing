@@ -35,7 +35,7 @@ This is not an end-user application. Knowledge of programming and physics simula
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Run ZOZO's ppf-contact-solver physics contact solver with Docker (NVIDIA GPU required): run the following docker command, then open http://localhost:8080 in the browser and try the ready-made JupyterLab examples.
 

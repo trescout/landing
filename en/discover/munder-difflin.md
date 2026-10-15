@@ -41,7 +41,7 @@ npm run preview    # preview the production build
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Give my agents working on Munder Difflin the following task: Create a team using existing terminal-based artificial intelligence tools, distribute tasks through a manager agent named Michael, and complete all processes autonomously by storing them in a common memory layer.
 

@@ -1,6 +1,6 @@
 # O que é Multimodal Model?
 
-*Glossário · AI · Última atualização: 2 de agosto de 2026*
+*AI · Última atualização: 2 de agosto de 2026*
 
 É um modelo de inteligência artificial que pode processar simultaneamente não só texto, mas também diversos tipos de dados como imagens, áudio e vídeo.
 

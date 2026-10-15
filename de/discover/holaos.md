@@ -36,7 +36,7 @@ npm run desktop:dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Du bist mein KI-Assistent. Ich möchte, dass Sie in meinem holaOS-Arbeitsbereich an meinen Dateien, Tools und Apps arbeiten. Erinnern Sie sich mithilfe des Shared Memory an den Kontext meiner vergangenen Projekte und führen Sie meine Aufgaben durch die Integration von Agenten wie Claude Code oder Codex aus. Verwalten Sie meine Arbeitsabläufe, erstellen Sie Berichte und speichern Sie sie als tatsächliche Dateien (.xlsx, .pptx, .docx), indem Sie Daten aus meinen verbundenen Konten wie Notion, Gmail und Slack verwenden.
 

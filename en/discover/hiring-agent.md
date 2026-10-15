@@ -43,7 +43,7 @@ python score.py /path/to/resume.pdf
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Act as a recruiter and analyze provided resume data and technical contributions on GitHub. Score the candidate's projects, technical skills and work experience according to objective criteria. When scoring, consider the candidate's code quality on GitHub, frequency of contributions, and relevance of their projects to real-world applications. Ultimately, create a transparent and fair evaluation report that highlights the candidate's strengths and weaknesses.
 

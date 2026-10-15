@@ -51,7 +51,7 @@ python run_skill.py --input bulus_taslagi.txt --output patent_disclosure.md
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite préparer un texte officiel de déclaration d'invention pour un algorithme de mise en cache de base de données distribuée que j'ai développé, en utilisant la compétence de divulgation de brevet (patent disclosure skill). Pourriez-vous m'expliquer étape par étape comment générer les revendications indépendantes, le domaine technique de l'invention et les différences par rapport à l'état de la technique en fournissant le flux de l'algorithme en entrée ?
 

@@ -1,6 +1,6 @@
 # What is a CMS?
 
-*Dictionary · Dev · Last updated: October 7, 2026*
+*Dev · Last updated: October 7, 2026*
 
 > Content Management System
 

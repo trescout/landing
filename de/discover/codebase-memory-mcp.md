@@ -29,7 +29,7 @@ npm install -g codebase-memory-mcp
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Indizieren Sie dieses Projekt, um Ihnen bei der Analyse meiner Codebasis und der effizienteren Beantwortung strukturierter Abfragen zu helfen. Nach der Indizierung des Projekts möchte ich, dass Sie detaillierte Informationen zu meiner Codebasis bereitstellen, indem Sie Beziehungen zwischen Funktionen, Klassen und Aufrufketten verwenden.
 

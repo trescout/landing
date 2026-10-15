@@ -1,6 +1,6 @@
 # What is Clone?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Clone is the process of creating a local copy of a remote Git repository along with its entire history.
 

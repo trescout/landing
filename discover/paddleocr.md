@@ -29,7 +29,7 @@ pip install paddleocr
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki PDF ve görsel belgeleri, yapay zekâ modellerinin işleyebileceği yapılandırılmış verilere dönüştürmek istiyorum. PaddleOCR'ın sunduğu PP-OCRv6 veya HPD-Parsing gibi modelleri kullanarak, belgelerimdeki metinleri, tabloları ve formülleri en yüksek doğrulukla nasıl Markdown veya JSON formatına çevirebilirim? Bu süreçte yüksek verimlilik ve hız için hangi yapılandırma ayarlarını tercih etmeliyim?
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/paddleocr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

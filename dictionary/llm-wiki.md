@@ -1,6 +1,6 @@
 # LLM-Wiki nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 4 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 4 Ağustos 2026*
 
 Yapay zekâ modellerinin daha doğru ve güncel yanıtlar verebilmesi için dış kaynaklardan beslendiği yapılandırılmış bilgi kütüphanesidir.
 
@@ -39,8 +39,8 @@ Evet, kendi belgelerinizi veya veritabanınızı bir araya getirerek yapay zekâ
 - [LLM](https://trescout.com/dictionary/llm/)
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/llm-wiki/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

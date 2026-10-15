@@ -40,7 +40,7 @@ python main.py
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sequoia-X aracını kullanarak Çin borsasındaki hisse senetlerini teknik analiz yöntemleriyle taramak istiyorum. Python ortamımda gerekli kurulumları yaptıktan sonra, önce geçmiş verileri yüklemek için backfill modunu, ardından günlük piyasa kapanışından sonra otomatik tarama ve bildirim almak için günlük çalışma modunu kullanacağım. Bu süreçte verilerin yerel SQLite veritabanında saklanmasını ve sonuçların Feishu üzerinden gönderilmesini sağlamak istiyorum.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sequoia-x/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

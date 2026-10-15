@@ -30,7 +30,7 @@ docker compose up -d
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to initiate an autonomous penetration test on the target system using the PentAGI system. How can I configure the necessary workflow for this artificial intelligence agent running in the Docker environment to detect security vulnerabilities, scan using tools such as nmap and sqlmap, and present the findings in a detailed report?
 

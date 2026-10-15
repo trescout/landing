@@ -1,6 +1,6 @@
 # Qu'est-ce que Swarm Intelligence Engine ?
 
-*Glossaire · AI · Dernière mise à jour : 6 juin 2026*
+*AI · Dernière mise à jour : 6 juin 2026*
 
 Il s’agit d’un mécanisme de gestion qui permet à de nombreuses petites unités de se regrouper et d’agir comme un seul système intelligent.
 

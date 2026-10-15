@@ -1,6 +1,6 @@
 # Notebooks nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 20 Haziran 2026*
+*Geliştirme · Son güncelleme: 20 Haziran 2026*
 
 Kod yazarken notlar alıp sonuçları anında görebileceğiniz etkileşimli çalışma ortamlarıdır.
 
@@ -45,8 +45,8 @@ Jupyter Notebooks en yaygın kullanılanıdır.
 - [Awesome Generative AI Guide](https://trescout.com/discover/awesome-generative-ai-guide/)
 - [GeoLibre](https://trescout.com/discover/geolibre/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/notebooks/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

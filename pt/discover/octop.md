@@ -37,7 +37,7 @@ octop init
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero configurar um ambiente de trabalho multiusuário e multiagente na plataforma Octop. Defina agentes com diferentes especialidades para meu assistente pessoal, membros da família ou pequenos colegas de equipe, permitindo que esses agentes trabalhem com segurança em meus dados locais e colaborem comigo através da interface web ou canais de mensagens. Configure as características de personalidade MBTI dos agentes, permita que eles gerem respostas a partir de meus documentos privados com RAG (Retrieval-Augmented Generation - tecnologia que recupera informações significativas de documentos) e automatize minhas tarefas.
 

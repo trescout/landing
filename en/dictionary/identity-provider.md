@@ -1,6 +1,6 @@
 # What is Identity Provider?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 An identity provider is a centralized service that authenticates logins.
 

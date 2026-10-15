@@ -1,6 +1,6 @@
 # Machine Learning nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 3 Haziran 2026*
 
 Bilgisayarların verilerden ders çıkararak kendi kendine öğrenmesini sağlayan teknolojidir.
 
@@ -48,8 +48,8 @@ Sadece elindeki verilerle ilgili kalıpları öğrenebilir, veride olmayan bir �
 - [Higgsfield](https://trescout.com/discover/higgsfield/)
 - [Bonsai-demo](https://trescout.com/discover/bonsai-demo/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/machine-learning/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

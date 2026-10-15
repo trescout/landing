@@ -29,7 +29,7 @@ conda activate ml4t
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I use machine learning models in data analysis and strategy development processes in financial markets? Based on the case studies in this tool, explain step by step the workflow of a trading strategy from data source to live processing and the role of AI agents in this process.
 

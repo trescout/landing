@@ -1,6 +1,6 @@
 # Was ist Systems Programming?
 
-*Glossar · Dev · Zuletzt aktualisiert: 28. September 2026*
+*Dev · Zuletzt aktualisiert: 28. September 2026*
 
 Dabei handelt es sich um den Prozess der Entwicklung grundlegender Software wie Betriebssysteme und Treiber, die direkt mit der Hardware kommunizieren.
 

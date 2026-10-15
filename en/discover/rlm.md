@@ -42,7 +42,7 @@ make quickstart
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using the RLM library, build a structure that allows the language model to break down input, analyze it, and make recursive calls within itself. When instantiating the RLM class, define the configuration of the model you use as the backend and allow the model to interact with the code environment to solve complex tasks.
 

@@ -1,6 +1,6 @@
 # ¿Qué es SBOM?
 
-*Glosario · Dev · Última actualización: 4 de junio de 2026*
+*Dev · Última actualización: 4 de junio de 2026*
 
 > Software Bill of Materials
 

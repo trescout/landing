@@ -1,6 +1,6 @@
 # What is Productivity?
 
-*Dictionary · AI · Last updated: September 19, 2026*
+*AI · Last updated: September 19, 2026*
 
 Productivity is the basic success metric that expresses the ratio between the resources spent (time, energy, labor or capital) and the quality output produced.
 

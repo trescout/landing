@@ -51,7 +51,7 @@ tailcat hedef-node 8080
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to set up an encrypted file transfer tunnel between two different servers over the Tailscale mesh network using the Tailcat tool. Can you explain how to start the listener on the server side, how to stream the tar archive from standard output on the client side, and how to manage tsnet authentication?
 

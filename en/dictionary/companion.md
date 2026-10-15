@@ -1,6 +1,6 @@
 # What is Companion?
 
-*Dictionary · AI · Last updated: July 16, 2026*
+*AI · Last updated: July 16, 2026*
 
 It is a digital assistant that chats with the user, helps him or her in daily tasks.
 

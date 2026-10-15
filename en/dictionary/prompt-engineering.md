@@ -1,6 +1,6 @@
 # What is Prompt Engineering?
 
-*Dictionary · AI · Last updated: June 3, 2026*
+*AI · Last updated: June 3, 2026*
 
 It is the art of optimizing the commands given to get the best results from artificial intelligence.
 

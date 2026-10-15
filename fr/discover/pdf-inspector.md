@@ -36,7 +36,7 @@ npm install @firecrawl/pdf-inspector
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je dois analyser le fichier PDF que j'ai. Classez ce fichier pour voir s’il s’agit d’un document textuel ou numérisé. S'il est basé sur du texte, convertissez-le dans un format Markdown propre, en préservant le texte, les tableaux et les titres. Déterminez correctement l'ordre de lecture en utilisant la structure et les informations de police du fichier, sans utiliser l'OCR.
 

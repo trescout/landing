@@ -35,7 +35,7 @@ ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-desig
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Diga a Claude Code ou qualquer assistente de IA que você usa para analisar a arquitetura ou fluxo de trabalho do meu projeto atual. Em seguida, peça para ele criar um diagrama HTML e SVG limpo, escolhendo aquele que melhor se adapta ao tópico que estou explicando entre os 27 tipos visuais diferentes na biblioteca de design de diagramas. Especifique que o design faça referência ao meu site para que seja compatível com as cores e a linguagem visual da minha marca.
 

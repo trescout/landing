@@ -1,6 +1,6 @@
 # Was ist Foundation Models?
 
-*Glossar · AI · Zuletzt aktualisiert: 27. August 2026*
+*AI · Zuletzt aktualisiert: 27. August 2026*
 
 Dabei handelt es sich um umfassende Modelle der künstlichen Intelligenz, die die Grundlage für unterschiedliche Aufgaben bilden.
 

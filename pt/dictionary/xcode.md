@@ -1,6 +1,6 @@
 # O que é Xcode?
 
-*Glossário · Dev · Última atualização: 14 de julho de 2026*
+*Dev · Última atualização: 14 de julho de 2026*
 
 É o ambiente oficial de desenvolvimento de software utilizado para desenvolver aplicativos para dispositivos Apple (iPhone, Mac, iPad).
 

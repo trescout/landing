@@ -29,7 +29,7 @@ npx skills add mvanhorn/last30days-skill -g
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un agent d'intelligence artificielle. Use the last30days-skill tool to scan Reddit, X, YouTube, Hacker News and Polymarket data about [SEARCH TOPIC OR PERSON] for the last 30 days. Synthétisez les interactions, les données en temps réel et les informations de la communauté à partir de ces sources pour me fournir un résumé concis, concret et vérifiable.
 

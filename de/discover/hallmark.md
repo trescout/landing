@@ -29,7 +29,7 @@ npx skills add nutlope/hallmark
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie mithilfe der Hallmark-Stildatei ein einzigartiges Interface-Design, das nicht so aussieht, als wäre es von KI erstellt worden. Vermeiden Sie beim Design Standardvorlagen, wählen Sie aus zwanzig verschiedenen Themen das Passende aus und schaffen Sie eine einzigartige Struktur, die 57 Qualitätstests besteht.
 

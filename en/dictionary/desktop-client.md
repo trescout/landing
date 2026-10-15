@@ -1,6 +1,6 @@
 # What is Desktop Client?
 
-*Dictionary · Dev · Last updated: July 20, 2026*
+*Dev · Last updated: July 20, 2026*
 
 It is a software application that you install on your computer and run directly in the desktop environment.
 

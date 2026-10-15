@@ -29,7 +29,7 @@ INSTATIC_IMAGE=ghcr.io/corebunch/instatic:latest docker compose -f compose.prod.
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sayfa düzenleme arayüzünde yapay zekâ ajanını kullanarak belirtilen tasarım kriterlerine uygun, semantik HTML yapısına sahip ve CSS ile biçimlendirilmiş düzenlenebilir düğümler oluştur. Ajanın Claude, OpenAI veya OpenRouter gibi modellerle entegre çalışmasını sağlayarak sayfa yapısını ve içerik bileşenlerini otomatik olarak inşa etmesini sağla.
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/instatic/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

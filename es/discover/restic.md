@@ -41,7 +41,7 @@ restic init --repo /path/to/repo
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero hacer una copia de seguridad de mis datos de forma segura usando Restic. ¿Cómo puedo exportar una carpeta local o un directorio específico a un almacenamiento de respaldo cifrado? ¿Puede explicar paso a paso cómo crear el repositorio de respaldo e iniciar el proceso de respaldo inicial para que mis datos estén cifrados?
 

@@ -40,7 +40,7 @@ npx -y @modelcontextprotocol/server-memory
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero conectar mi modelo de inteligencia artificial a fuentes de datos externas utilizando los servidores de referencia del Protocolo de Contexto de Modelo (MCP). Primero, guíeme para iniciar el servidor de memoria con el comando npx -y @modelcontextprotocol/server-memory y configurar la configuración del cliente de escritorio. Explique también los pasos para habilitar el acceso a los repositorios de código usando el comando uvx mcp-server-git.
 

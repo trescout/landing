@@ -1,6 +1,6 @@
 # Qu'est-ce que Native ?
 
-*Glossaire · Dev · Dernière mise à jour : 11 septembre 2026*
+*Dev · Dernière mise à jour : 11 septembre 2026*
 
 Il s'agit d'un logiciel spécifiquement conçu pour le système d'exploitation de l'appareil sur lequel il fonctionne, afin d'offrir les meilleures performances possibles.
 

@@ -1,6 +1,6 @@
 # ¿Qué es Service Mesh?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Service mesh es la capa de infraestructura invisible que gestiona el tráfico de los microservicios.
 

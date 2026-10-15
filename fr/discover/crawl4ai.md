@@ -38,7 +38,7 @@ crawl4ai-download
 
 ## Installation (commande unique)
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à installer le robot d'exploration Web open source appelé Crawl4AI ; Essayons-le en l'installant avec 'pip install -U crawl4ai', puis en exécutant 'crawl4ai-setup' et en convertissant une page Web en Markdown compatible LLM avec la commande 'crwl https://www.nbcnews.com/business -o markdown'.
 

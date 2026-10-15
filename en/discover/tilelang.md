@@ -32,7 +32,7 @@ python -c "import tilelang; print(tilelang.__version__)"
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop a high-performance GPU kernel using Tilelang. Could you create a basic template for me to optimize operations like matrix multiplication or attention mechanisms using this Python-based structure? Could you explain the methods to increase efficiency, considering hardware optimizations and the TVM infrastructure?
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Image Generators ?
 
-*Glossaire · AI · Dernière mise à jour : 27 septembre 2026*
+*AI · Dernière mise à jour : 27 septembre 2026*
 
 Ce sont des systèmes qui prennent des instructions écrites pour créer des images ou des photos à partir de zéro.
 

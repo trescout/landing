@@ -1,6 +1,6 @@
 # ¿Qué es Containers?
 
-*Glosario · Dev · Última actualización: 12 de junio de 2026*
+*Dev · Última actualización: 12 de junio de 2026*
 
 Son paquetes livianos que contienen todo lo necesario para que un software se ejecute y se pueden mover a diferentes entornos sin ningún problema.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que End-to-End Encryption ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 > E2EE
 

@@ -59,7 +59,7 @@ curl http://127.0.0.1:8420/health
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Configure la memoria a largo plazo de mi agente de IA usando TencentDB Agent Memory. En lugar de una pila de datos vectoriales plana, utilice gráficos de sirena simbólicos para tareas a corto plazo y una pirámide de memoria en capas L0-L3 para experiencias a largo plazo. Permita que el agente almacene conversaciones pasadas, hechos atómicos y preferencias del usuario en esta estructura jerárquica y recupérelos cuando sea necesario con total trazabilidad a través de node_id.
 

@@ -35,7 +35,7 @@ docker compose -f docker/docker-compose.yml up -d
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die komplexen Dokumente und unstrukturierten Daten, die ich habe, in eine hochwertige Informationsquelle umwandeln, die Modelle der künstlichen Intelligenz verstehen können. Wie kann ich meine Daten mit RAGFlow verarbeiten, Dokumentfragmentierungsvorlagen konfigurieren und mithilfe dieser Daten einen fehlerfreien, quellenreferenzierenden KI-Agenten erstellen?
 

@@ -31,7 +31,7 @@ make prepare  # prepare the development environment
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want you to work as a development agent within the terminal. While performing my software development duties, I read and edit my code files, run the necessary shell commands, and plan processes autonomously by searching the internet when I need them.
 

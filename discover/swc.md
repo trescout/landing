@@ -46,7 +46,7 @@ swc index.ts -o index.js
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim bir web geliştirme projem var ve derleme süreçlerimi hızlandırmak istiyorum. Rust diliyle yazılmış olan SWC (Speedy Web Compiler) aracını kullanarak JavaScript ve TypeScript dosyalarımı nasıl daha verimli işleyebilirim? Projemin ihtiyaçlarına göre bu aracı nasıl yapılandırabilirim ve Babel gibi diğer araçlardan geçiş yaparken nelere dikkat etmeliyim?
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swc/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -50,7 +50,7 @@ iroh node id
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Iroh kütüphanesini kullanarak anahtar tabanlı bir ağ bağlantısı kurmak istiyorum. Rust dilinde bir uç nokta oluşturup, başka bir uç noktaya genel anahtar üzerinden nasıl bağlanabileceğimi ve QUIC protokolü ile güvenli veri akışını nasıl başlatabileceğimi gösteren temel bir örnek kod yapısı oluşturur musun?
 
@@ -72,4 +72,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iroh/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

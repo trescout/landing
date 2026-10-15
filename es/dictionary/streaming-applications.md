@@ -1,6 +1,6 @@
 # ¿Qué es Streaming Applications?
 
-*Glosario · Dev · Última actualización: 17 de junio de 2026*
+*Dev · Última actualización: 17 de junio de 2026*
 
 Se trata de aplicaciones que ofrecen visualización o escucha instantánea al extraer archivos de gran tamaño pieza por pieza a través de Internet, sin tener que descargarlos por completo.
 

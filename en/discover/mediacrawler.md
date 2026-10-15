@@ -58,7 +58,7 @@ uv run main.py --help
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to pull data from specified social media platform using MediaCrawler tool. Please let me check the settings in the config/base_config.py file and explain step by step how I should configure the uv run main.py command to collect post and comment information by doing keyword search for the xhs platform.
 

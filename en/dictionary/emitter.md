@@ -1,6 +1,6 @@
 # What is Emitter?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Emitter is a critical term that appears in two basic areas in software engineering: The mechanism that announces state changes to listeners in event-driven architectures (Event Emitter) and the code generation module (Code Emitter) that converts the analyzed code into the target machine language or bytecode in compiler technology (Compiler).
 

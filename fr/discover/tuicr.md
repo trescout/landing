@@ -58,7 +58,7 @@ tuicr pr 125
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Passez en revue cette révision de code et préparez une liste structurée de tous les bogues ou suggestions d'amélioration que vous trouvez, chaque commentaire étant identifié par le chemin du fichier et le numéro de ligne. Lors de la révision, fournissez des suggestions concrètes qui augmenteront la lisibilité et les performances du code, sur la base des données au format markdown que j'ai copiées depuis tuicr.
 

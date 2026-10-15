@@ -36,7 +36,7 @@ openclaude
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 OpenClaude üzerinde çalışırken terminal tabanlı iş akışımı optimize etmek istiyorum. Kodlama görevlerimde dosya araçlarını, grep arama özelliğini ve MCP (Model Context Protocol) entegrasyonunu kullanarak verimliliğimi artıracak bir çalışma planı oluştur. Ayrıca `/provider` komutuyla sağlayıcı ayarlarımı nasıl yapılandıracağımı ve GitHub modellerini nasıl dahil edeceğimi adım adım açıkla.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openclaude/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

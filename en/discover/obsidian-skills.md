@@ -31,7 +31,7 @@ git clone https://github.com/kepano/obsidian-skills.git ~/.opencode/skills/obsid
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use the Obsidian-skills tool to manage my Obsidian notes. Please use this skill set to edit Markdown files in my notes, update JSON Canvas contents, or perform necessary actions via the Obsidian CLI command line interface. I want you to create an efficient information management flow, especially by preserving the complex structures, connections and features in my notes.
 

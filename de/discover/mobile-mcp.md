@@ -43,7 +43,7 @@ npx @mobilenext/mobile-mcp@latest
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Verwende den Model-Kontext-Protokoll-Server (Model Context Protocol), der mit den mobilen Entwicklungstools auf meinem Computer kommuniziert, um die Apps auf den verbundenen Mobilgeräten aufzulisten und die Elemente auf dem Bildschirm zu scannen.
 

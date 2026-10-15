@@ -37,7 +37,7 @@ unsloth start claude
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to train an AI model on my local computer using Unsloth. Can you explain step by step the optimal configuration settings that will allow me to use my hardware resources in the most efficient way, optimize memory usage and speed up the fine-tuning process?
 

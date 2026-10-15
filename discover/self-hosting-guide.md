@@ -40,7 +40,7 @@ npm run dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kendi sunucumu kurmak istiyorum. Self-Hosting-Guide rehberindeki bilgiler ışığında, yerel ağımda bir medya sunucusu veya bulut depolama alanı oluşturmak için izlemem gereken temel adımlar nelerdir? Hangi donanım ve yazılım araçlarını öncelikli olarak değerlendirmeliyim?
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/self-hosting-guide/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

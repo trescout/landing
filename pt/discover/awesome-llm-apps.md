@@ -21,7 +21,7 @@ O repositório awesome-llm-apps oferece mais de 100 agentes de IA diretamente ex
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero desenvolver meus próprios projetos utilizando os templates de agentes de inteligência artificial desta ferramenta. Dos mais de 100 exemplos disponíveis, você pode explicar passo a passo as etapas básicas que preciso seguir para construir um aplicativo RAG baseado em Python ou sistema multiagente e como personalizar esses modelos?
 

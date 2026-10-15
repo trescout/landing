@@ -1,6 +1,6 @@
 # ¿Qué es Distillation?
 
-*Glosario · AI · Última actualización: 3 de junio de 2026*
+*AI · Última actualización: 3 de junio de 2026*
 
 Es el proceso de transferir la información de un modelo de inteligencia artificial grande y complejo a un modelo más pequeño.
 

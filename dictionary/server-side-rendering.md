@@ -1,6 +1,6 @@
 # Server-side Rendering nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 6 Ağustos 2026*
+*Geliştirme · Son güncelleme: 6 Ağustos 2026*
 
 > SSR
 
@@ -40,8 +40,8 @@ Sunucu yükünü artırır ve kurulumu daha karmaşıktır; her proje için gere
 - [Next.js](https://trescout.com/discover/next-js/)
 - [Nuxt](https://trescout.com/discover/nuxt/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/server-side-rendering/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -29,7 +29,7 @@ brew install AIEraDev/tap/clypra
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite réaliser un montage professionnel à l'aide de l'éditeur vidéo Clypra. Comment puis-je effectuer des opérations telles que le sous-titrage automatique et le recadrage intelligent sur mes vidéos de la manière la plus efficace possible, en utilisant le traitement accéléré par le matériel et les fonctionnalités prises en charge par l'intelligence artificielle offertes par l'application ? Pouvez-vous recommander un flux de travail étape par étape ?
 

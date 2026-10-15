@@ -1,6 +1,6 @@
 # Was ist Data Layer?
 
-*Glossar · Dev · Zuletzt aktualisiert: 17. Juli 2026*
+*Dev · Zuletzt aktualisiert: 17. Juli 2026*
 
 Es handelt sich um die mittlere Schicht, die es Ihrer Anwendung ermöglicht, mit der Datenbank zu kommunizieren und die Daten zu organisieren.
 

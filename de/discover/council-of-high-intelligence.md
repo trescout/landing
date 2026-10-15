@@ -50,7 +50,7 @@ cd council-of-high-intelligence
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sie sind Teil eines KI-Beirats. Bleiben Sie bei der Analyse des Problems, über das ich entscheiden muss, nicht nur bei einem Standpunkt. Hinterfragen Sie die zugrunde liegenden Annahmen des Problems, indem Sie verschiedene Fachgebiete und gegensätzliche Ansichten berücksichtigen. Geben Sie mir am Ende der Diskussion eine unvoreingenommene Zusammenfassung, in der Sie Übereinstimmungen und ungelöste Risiken aufzeigen.
 

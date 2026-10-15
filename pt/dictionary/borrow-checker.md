@@ -1,6 +1,6 @@
 # O que é Borrow Checker?
 
-*Glossário · Dev · Última atualização: 13 de outubro de 2026*
+*Dev · Última atualização: 13 de outubro de 2026*
 
 O mecanismo que impede que programas escritos na linguagem Rust cometem erros de memória e controla como os dados são utilizados.
 

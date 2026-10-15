@@ -46,7 +46,7 @@ node src/cli/index.js <command>
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes connecté à mon application de bureau TradingView. Désormais, lorsque je souhaite que vous effectuiez une analyse technique sur le graphique, révisiez les codes Pine Script ou modifiiez les paramètres du graphique, je souhaite que vous interveniez dans l'interface TradingView à l'aide de cet outil. Veuillez exécuter les commandes nécessaires pour lire les données du graphique, analyser les valeurs des indicateurs ou ajouter de nouveaux tracés.
 

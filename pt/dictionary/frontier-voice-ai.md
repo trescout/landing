@@ -1,6 +1,6 @@
 # O que é Frontier Voice AI?
 
-*Glossário · AI · Última atualização: 30 de julho de 2026*
+*AI · Última atualização: 30 de julho de 2026*
 
 As mais avançadas tecnologias de inteligência artificial de voz que podem reagir naturalmente, emocionalmente e em tempo real como um ser humano.
 

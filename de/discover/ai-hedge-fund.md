@@ -44,7 +44,7 @@ poetry run python src/main.py --ticker AAPL,MSFT,NVDA
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Dieses Tool verwendet autonome Agenten, die die Strategien berühmter Investoren wie Warren Buffett, Peter Lynch und Michael Burry nachahmen, um Finanzmärkte zu analysieren. Indem Sie KI-Agenten bestimmte Aktiensymbole (z. B. AAPL, MSFT) zuweisen, können Sie untersuchen, wie diese Agenten Marktdaten, Fundamentalindikatoren und technische Analysen auswerten und Entscheidungen mit der Logik eines Investmentfonds treffen.
 

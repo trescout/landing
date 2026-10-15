@@ -48,7 +48,7 @@ openship deploy
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to publish a project using Openship. While in the project directory, is it enough to connect the directory to the project with the openship init command and then run the openship deploy command? Can you explain step by step how the database and SSL configuration are automatically managed in this process?
 

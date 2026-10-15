@@ -1,6 +1,6 @@
 # What is NAS?
 
-*Dictionary · Data · Last updated: June 14, 2026*
+*Data · Last updated: June 14, 2026*
 
 > Network Attached Storage
 

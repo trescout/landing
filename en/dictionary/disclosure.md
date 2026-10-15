@@ -1,6 +1,6 @@
 # What is Disclosure?
 
-*Dictionary · Dev · Last updated: September 1, 2026*
+*Dev · Last updated: September 1, 2026*
 
 The process of disclosing a security vulnerability or confidential information in software to relevant parties.
 

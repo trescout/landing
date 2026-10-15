@@ -32,7 +32,7 @@ python -c "import tilelang; print(tilelang.__version__)"
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Tilelang kullanarak yüksek performanslı bir GPU çekirdeği geliştirmek istiyorum. Python tabanlı bu yapıyı kullanarak matris çarpımı veya dikkat mekanizması gibi işlemleri optimize etmem için temel bir şablon oluşturur musun? Donanım optimizasyonlarını ve TVM altyapısını göz önünde bulundurarak verimliliği artıracak yöntemleri açıklar mısın?
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tilelang/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

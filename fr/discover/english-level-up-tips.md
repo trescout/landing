@@ -23,7 +23,7 @@ Vous pouvez adapter le plan recommandé en fonction de vos besoins en consultant
 
 ## Comment l'utiliser avec l'IA ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je vais vous donner un guide complet intitulé « Conseils pour améliorer le niveau d'anglais », qui explique le vocabulaire, l'écoute, la lecture, l'expression orale, l'écriture et les méthodes d'étude basées sur l'intelligence artificielle pour apprendre l'anglais à un niveau avancé. Examinez ce guide et créez un plan d'étude personnel et une feuille de route en fonction de votre niveau et de votre objectif. Mon niveau : [ex. milieu]. Mon objectif : [par ex. parler couramment].
 

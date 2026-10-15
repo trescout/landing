@@ -48,7 +48,7 @@ npx ui-skills get baseline-ui
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir tasarım mühendisi olarak arayüz geliştirme becerilerimi geliştirmek istiyorum. UI Skills aracını kullanarak motion kategorisindeki teknik yetkinlikleri listele ve baseline-ui becerisini edinmem için gerekli adımları açıkla.
 
@@ -68,4 +68,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ui-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

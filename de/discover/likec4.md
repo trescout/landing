@@ -28,7 +28,7 @@ npx likec4 start
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meine Softwarearchitektur visualisieren. Welche grundlegenden Schritte muss ich befolgen, um mit LikeC4 Live-Diagramme aus meiner Codebasis zu erstellen, und worauf sollte ich beim Definieren meines eigenen Architekturmodells achten?
 

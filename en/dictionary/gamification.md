@@ -1,6 +1,6 @@
 # What is Gamification?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Gamification is the use of game elements such as points, badges and levels to increase motivation in non-game tasks.
 

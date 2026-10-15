@@ -1,6 +1,6 @@
 # Continual Learning nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 8 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 8 Haziran 2026*
 
 Yapay zekânın yeni bilgiler öğrenirken eski bilgilerini unutmadan sürekli güncel kalma yeteneğidir.
 
@@ -37,8 +37,8 @@ Hayır, özel bir mimari ve sürekli veri akışı gerektirir.
 - [Continuous Learning](https://trescout.com/dictionary/continuous-learning/)
 - [Machine Learning](https://trescout.com/dictionary/machine-learning/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/continual-learning/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

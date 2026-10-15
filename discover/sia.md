@@ -50,7 +50,7 @@ sia web
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 SIA çerçevesini kullanarak bir yapay zekâ ajanının performansını artırmak istiyorum. Kurulumu tamamladıktan sonra, mevcut görevlerden birini seçerek (örneğin gpqa) öz-iyileştirme döngüsünü başlatmak için hangi komutu kullanmalıyım ve süreç sonunda oluşan çıktıları (target_agent.py, agent_execution.json, improvement.md) nasıl yorumlamalıyım? Ayrıca, kendi özel görev dizinimi sisteme nasıl dahil edebilirim?
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sia/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

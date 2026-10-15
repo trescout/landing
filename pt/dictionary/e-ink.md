@@ -1,6 +1,6 @@
 # O que é E-ink?
 
-*Glossário · Dev · Última atualização: 16 de setembro de 2026*
+*Dev · Última atualização: 16 de setembro de 2026*
 
 > Electronic Ink
 

@@ -182,10 +182,10 @@ ${full ? `<p class="dict-en">${full}</p>` : ''}
 <div class="dict-analogy"><strong>Analogy:</strong> Think of <strong>${enTitle}</strong> as a core building block in modern AI and software architectures that helps teams move faster with higher precision.</div>
 <section class="disc-sec"><h2>How It Works</h2><p>Modern software systems leverage ${enTitle} to streamline data flow, reduce latency, and provide predictable results across production workloads.</p></section>
 <section class="disc-sec"><h2>Use Cases</h2><p>Widely adopted in production AI applications, developer tools, cloud infrastructure, and autonomous agent frameworks to improve scalability and reliability.</p></section>
-<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why is ${enTitle} important in modern tech stacks?</p><p class="dict-faq-a">It provides clear boundaries, enhances modularity, and enables developers to build maintainable, high-performance systems.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does TreScout track ${enTitle}?</p><p class="dict-faq-a">TreScout continuously scans open-source repositories on GitHub, research papers on HuggingFace, and engineering discussions on Hacker News.</p></div></div></section>
+<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why is ${enTitle} important in modern tech stacks?</p><p class="dict-faq-a">It provides clear boundaries, enhances modularity, and enables developers to build maintainable, high-performance systems.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does TreScout track ${enTitle}?</p><p class="dict-faq-a">TreScout continuously scans open-source repositories on GitHub, research papers on Hugging Face, and engineering discussions on Hacker News.</p></div></div></section>
 <section class="disc-sec"><h2>Related Terms</h2><div class="dict-related"><a href="/en/dictionary/rag/">RAG</a><a href="/en/dictionary/llm/">LLM</a><a href="/en/dictionary/vector-database/">Vector Database</a><a href="/en/dictionary/embedding/">Embedding</a><a href="/en/dictionary/agent/">Agent</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Daily reports are public. You can join the early access list for launch announcements.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join Early Access</button></div>${rizaBlok('en')}<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
-<p class="disc-disclaimer">This guide was prepared in plain language for TreScout · If you spot any typo or missing information, let us know at <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout scans GitHub, Hacker News, and HuggingFace daily.</p>
+<p class="disc-disclaimer">This guide was prepared in plain language for TreScout · If you spot any typo or missing information, let us know at <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout scans GitHub, Hacker News, and Hugging Face daily.</p>
 </article>
 </main>
 ${richEnFooter}
@@ -277,7 +277,7 @@ ${JSON.stringify({
 <h1 class="disc-title">${title}</h1>
 <p class="disc-lead">${tagline}</p>
 <section class="disc-sec"><h2>Project Stats</h2><p>Stars: ${c.stars || 0}${c.date ? ` · Date: ${c.date}` : ''}</p></section>
-<aside class="disc-cta"><p><strong>Daily AI-Filtered Tech Radar.</strong> TreScout scans GitHub, Hacker News, and HuggingFace daily to bring you curated insights.</p><a class="btn btn-primary" href="/en/#top">Join Early Access</a></aside>
+<aside class="disc-cta"><p><strong>Daily AI-Filtered Tech Radar.</strong> TreScout scans GitHub, Hacker News, and Hugging Face daily to bring you curated insights.</p><a class="btn btn-primary" href="/en/#top">Join Early Access</a></aside>
 </article>
 </main>
 ${richEnFooter}

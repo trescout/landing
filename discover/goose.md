@@ -29,7 +29,7 @@ curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Goose aracını kullanarak yazılım geliştirme süreçlerimi nasıl otomatize edebilirim? Hangi yapay zekâ sağlayıcılarını bağlayabileceğimi ve Model Context Protocol üzerinden eklentileri nasıl yapılandıracağımı adım adım açıkla.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/goose/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

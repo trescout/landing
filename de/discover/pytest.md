@@ -34,7 +34,7 @@ pytest
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Unit-Tests in meinem Python-Projekt schreiben. Wie kann ich mit Pytest eine einfache Testdatei erstellen und die von mir geschriebenen Tests über das Terminal ausführen? Bitte informieren Sie mich über die Assert-Struktur, die ich beim Definieren von Testfunktionen verwenden sollte, und über die Dateinamenskonventionen für die automatische Erkennung von Tests.
 

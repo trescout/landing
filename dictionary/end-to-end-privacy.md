@@ -1,6 +1,6 @@
 # End-to-End Privacy nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 28 Haziran 2026*
+*Geliştirme · Son güncelleme: 28 Haziran 2026*
 
 Verilerin sadece gönderen ve alıcı tarafından okunabildiği, aradaki kimsenin erişemediği bir güvenlik yöntemidir.
 
@@ -38,8 +38,8 @@ Verilerinize erişiminiz tamamen kaybolabilir, çünkü veriyi çözecek başka 
 - [Secrets](https://trescout.com/dictionary/secrets/)
 - [VPN](https://trescout.com/dictionary/vpn/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/end-to-end-privacy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

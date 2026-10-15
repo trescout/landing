@@ -36,7 +36,7 @@ npm run desktop:dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen benim yapay zekâ asistanımsın. holaOS çalışma alanımı kullanarak dosyalarım, araçlarım ve uygulamalarım üzerinde çalışmanı istiyorum. Ortak hafızayı kullanarak geçmiş projelerimdeki bağlamı hatırla ve Claude Code veya Codex gibi ajanları entegre ederek görevlerimi gerçekleştir. Notion, Gmail ve Slack gibi bağlı hesaplarımdaki verileri kullanarak iş akışlarımı yönet, raporlar oluştur ve gerçek dosyalar (.xlsx, .pptx, .docx) halinde kaydet.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/holaos/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

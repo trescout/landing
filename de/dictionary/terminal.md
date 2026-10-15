@@ -1,6 +1,6 @@
 # Was ist Terminal?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Das Terminal ist die Schnittstelle, über die man per Textbefehlen mit dem Computer kommuniziert.
 

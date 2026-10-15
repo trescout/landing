@@ -72,7 +72,7 @@ El modo RSSI-only de un portátil está pensado para detectar de forma aproximad
 
 ## Primer prompt
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo evaluar un escenario sencillo de detección de movimiento con datos CSI simulados de WiFi?
 

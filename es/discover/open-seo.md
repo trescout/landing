@@ -36,7 +36,7 @@ docker compose up -d
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Realizar una investigación detallada de palabras clave para mi sitio web utilizando las capacidades de OpenSEO y analizar mis datos de clasificación actuales para brindar sugerencias de mejora.
 

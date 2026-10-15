@@ -29,7 +29,7 @@ npm install -g chrome-devtools-mcp
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Stellen Sie über den Chrome DevTools MCP-Server eine Verbindung zu meiner aktiven Browsersitzung her und analysieren Sie Leistungsdaten meiner Webanwendung. Überprüfen Sie Netzwerkanfragen, untersuchen Sie Konsolenfehler und führen Sie die erforderlichen Debugging-Schritte durch, um etwaige Probleme zu beheben.
 

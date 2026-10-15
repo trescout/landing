@@ -1,6 +1,6 @@
 # Was ist Skill?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Skill (auf Türkisch „yetenek“) ist eine definierte Einheit, die es einem KI-Assistenten ermöglicht, Aufgaben mithilfe eines externen Tools auszuführen.
 

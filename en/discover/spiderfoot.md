@@ -50,7 +50,7 @@ python3 ./sf.py -l 127.0.0.1:5001
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to initiate an OSINT scan on a target using the SpiderFoot tool. My target is a domain/IP address. What steps should I follow to use this tool to analyze how visible my digital assets are on the internet and what vulnerabilities they may have? Please explain how the 200+ modules work and how I should interpret the results.
 

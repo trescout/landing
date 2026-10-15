@@ -43,7 +43,7 @@ Você pode instalá-lo como um complemento ao seu assistente de IA e, em seguida
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Se você estiver trabalhando no Claude Code, instale o plugin Compound Engineering executando estes dois comandos em sequência: '/plugin marketplace add EveryInc/compound-engineering-plugin' seguido por '/plugin install compound-engineering'; Terminada a instalação, prepare o ambiente executando o comando '/ce-setup' em qualquer projeto.
 

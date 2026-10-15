@@ -1,6 +1,6 @@
 # ¿Qué es LoRA?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 > Low-Rank Adaptation
 

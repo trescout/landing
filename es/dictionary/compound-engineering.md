@@ -1,6 +1,6 @@
 # ¿Qué es Compound Engineering?
 
-*Glosario · Dev · Última actualización: 3 de junio de 2026*
+*Dev · Última actualización: 3 de junio de 2026*
 
 Es un enfoque de trabajo respaldado por IA en el que cada paso de ingeniería se acumula para facilitar el siguiente.
 

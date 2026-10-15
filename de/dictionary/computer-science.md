@@ -1,6 +1,6 @@
 # Was ist Computer Science?
 
-*Glossar · Dev · Zuletzt aktualisiert: 5. Juni 2026*
+*Dev · Zuletzt aktualisiert: 5. Juni 2026*
 
 Der Wissenschaftszweig, der die Funktionsprinzipien von Computern, Softwareentwicklung und Datenverarbeitungsmethoden untersucht.
 

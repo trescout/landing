@@ -1,6 +1,6 @@
 # Was ist AI Models?
 
-*Glossar · AI · Zuletzt aktualisiert: 10. Juni 2026*
+*AI · Zuletzt aktualisiert: 10. Juni 2026*
 
 Dabei handelt es sich um mathematische Strukturen, die durch das Training mit großen Datenmengen die Fähigkeit erlangen, Vorhersagen zu treffen oder Inhalte zu produzieren.
 

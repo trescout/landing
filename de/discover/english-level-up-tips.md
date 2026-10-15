@@ -23,7 +23,7 @@ Sie können den empfohlenen Plan an Ihre Bedürfnisse anpassen, indem Sie den Le
 
 ## Wie nutzt man es mit KI?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich werde Ihnen einen umfassenden Leitfaden mit dem Titel „Tipps zum Englisch-Level-Up“ geben, der Wortschatz, Hörverständnis, Lesen, Sprechen, Schreiben und durch künstliche Intelligenz unterstützte Lernmethoden erklärt, um Englisch auf einem fortgeschrittenen Niveau zu lernen. Sehen Sie sich diesen Leitfaden an und erstellen Sie einen persönlichen Lernplan und eine Roadmap entsprechend Ihrem Niveau und Ziel. Mein Niveau: [zB. Mitte]. Mein Ziel: [zB. fließend sprechen].
 

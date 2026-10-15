@@ -27,7 +27,7 @@ git clone -b v1.2 https://github.com/zeux/meshoptimizer.git
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki üç boyutlu ağ verisini optimize etmek istiyorum. Meshoptimizer kütüphanesini kullanarak vertex ve index verilerimi nasıl daha verimli hale getirebilirim? Özellikle vertex cache optimizasyonu ve index buffer düzenleme süreçlerinde izlemem gereken temel adımları, kütüphanenin sunduğu fonksiyonları kullanarak açıkla.
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/meshoptimizer/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

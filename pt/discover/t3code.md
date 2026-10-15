@@ -37,7 +37,7 @@ npx t3@latest
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Usando a ferramenta T3 Code, configure um dos provedores Codex, Claude, Cursor ou OpenCode e inicie a interface do agente de codificação. Após concluir o processo de autenticação do provedor escolhido, execute a ferramenta e comece a receber suporte de codificação em seus projetos.
 

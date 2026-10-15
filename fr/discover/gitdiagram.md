@@ -53,7 +53,7 @@ bun run dev
 
 ## Si vous ne savez pas coder : invite de l'agent IA
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Créez le diagramme système du référentiel GitHub que j'ai examiné sur la base de l'architecture Gitdiagram. Identifiez les principaux composants, les directions de flux de données, les points d'entrée et les dépendances externes dans le référentiel. Dessinez l'architecture sous forme d'organigramme au format Mermaid.js et décrivez la fonction de chaque composant en deux phrases.
 

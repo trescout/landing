@@ -43,7 +43,7 @@ Il s'agit d'un modèle de recherche ; Il ne s’agit pas d’un conseil en inve
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Installez le modèle de prévisions financières Kronos : téléchargez le référentiel et exécutez "pip install -r Requirements.txt", puis exécutez le script "python examples/prediction_example.py" pour générer une prévision de prix sur les données de la ligne K (graphique en bougies) et représenter graphiquement le résultat.
 

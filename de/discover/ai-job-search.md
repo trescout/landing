@@ -47,7 +47,7 @@ cd .agents/skills/linkedin-search/cli && bun install && cd ../../../..
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie Ihr Profil mit dem Befehl /setup in Claude Code. Listen Sie dann mit dem Befehl /scrape die passenden Stellenausschreibungen auf und erstellen Sie mit dem Befehl /apply einen Entwurf Ihres Lebenslaufs und Anschreibens für die von Ihnen ausgewählte Stellenausschreibung. Bitten Sie während des Prozesses die künstliche Intelligenz, ihre Kompatibilität mit der Anzeige zu bewerten und Feedback für die Interviewvorbereitung zu geben.
 

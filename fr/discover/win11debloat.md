@@ -46,7 +46,7 @@ Set-Location .\Win11Debloat\Win11Debloat-master
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite désinstaller les applications inutiles sur mon système d'exploitation Windows 11, désactiver les données de télémétrie et désactiver des fonctionnalités telles que Copilot alimenté par l'IA. Comment puis-je rendre mon système plus léger et plus axé sur la confidentialité à l'aide de l'outil Win11Debloat ? Veuillez expliquer étape par étape ce à quoi je dois faire attention pour maintenir la stabilité du système lors de l'utilisation de cet outil et comment je peux le personnaliser en toute sécurité.
 

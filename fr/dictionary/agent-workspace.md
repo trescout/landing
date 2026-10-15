@@ -1,6 +1,6 @@
 # Qu'est-ce que Agent Workspace ?
 
-*Glossaire · AI · Dernière mise à jour : 4 octobre 2026*
+*AI · Dernière mise à jour : 4 octobre 2026*
 
 Il s'agit d'un espace de travail numérique sécurisé où les agents d'intelligence artificielle peuvent créer et modifier des fichiers et exécuter des outils afin d'accomplir les tâches qui leur sont confiées.
 

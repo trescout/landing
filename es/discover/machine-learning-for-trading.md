@@ -29,7 +29,7 @@ conda activate ml4t
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo utilizar modelos de aprendizaje automático en procesos de análisis de datos y desarrollo de estrategias en los mercados financieros? Con base en los estudios de caso de esta herramienta, explique paso a paso el flujo de trabajo de una estrategia comercial desde la fuente de datos hasta el procesamiento en vivo y el papel de los agentes de IA en este proceso.
 

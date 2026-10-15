@@ -49,7 +49,7 @@ bun run index.tsx
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich mit Bun ein JavaScript- oder TypeScript-basiertes Projekt schneller ausführen und worauf sollte ich bei der Portierung meiner Node.js-Projekte nach Bun achten? Erklären Sie Schritt für Schritt, wie ich die von Bun angebotenen Funktionen des Paketmanagers und des Testtools in mein Projekt integrieren kann.
 

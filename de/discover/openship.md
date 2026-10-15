@@ -48,7 +48,7 @@ openship deploy
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein Projekt mit Openship veröffentlichen. Reicht es im Projektverzeichnis aus, das Verzeichnis mit dem Befehl „openship init“ mit dem Projekt zu verbinden und dann den Befehl „openshipploy“ auszuführen? Können Sie Schritt für Schritt erklären, wie die Datenbank und die SSL-Konfiguration dabei automatisch verwaltet werden?
 

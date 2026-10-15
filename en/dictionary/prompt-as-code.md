@@ -1,6 +1,6 @@
 # What is Prompt as Code?
 
-*Dictionary · Dev · Last updated: August 24, 2026*
+*Dev · Last updated: August 24, 2026*
 
 It is the management, versioning and testing of artificial intelligence commands like software code.
 

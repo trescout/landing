@@ -1,6 +1,6 @@
 # ¿Qué es Database Client?
 
-*Glosario · Dev · Última actualización: 29 de septiembre de 2026*
+*Dev · Última actualización: 29 de septiembre de 2026*
 
 Un programa intermediario que le permite acceder y administrar información en la base de datos.
 

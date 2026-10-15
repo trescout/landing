@@ -44,7 +44,7 @@ python -m tools.cookie_fetcher --config config.yml
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Videos, Fotoalben und Musik von der Douyin-Plattform ohne Wasserzeichen auf meinen Computer herunterladen. Wie sollte ich meine Konfigurationsdatei vorbereiten, um mit diesem Tool Massen-Downloads durchzuführen, doppelte Einträge mithilfe der SQLite-Datenbank zu verhindern und die Browser-Backup-Funktion zu aktivieren? Erklären Sie Schritt für Schritt, welche Befehle ich verwenden muss, um die Download-Vorgänge zu starten.
 

@@ -1,6 +1,6 @@
 # What is VPN?
 
-*Dictionary · Dev · Last updated: June 11, 2026*
+*Dev · Last updated: June 11, 2026*
 
 > Virtual Private Network
 

@@ -1,6 +1,6 @@
 # Was ist Download Manager?
 
-*Glossar · Dev · Zuletzt aktualisiert: 18. August 2026*
+*Dev · Zuletzt aktualisiert: 18. August 2026*
 
 Dabei handelt es sich um ein Hilfstool, das das Herunterladen von Dateien aus dem Internet beschleunigt und unterbrochene Downloads dort fortsetzt, wo sie unterbrochen wurden.
 

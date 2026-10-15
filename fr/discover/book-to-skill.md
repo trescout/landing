@@ -39,7 +39,7 @@ book-to-skill --check                          # report which extractors are ins
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 J'utilise cette ressource technique comme un ensemble de compétences. Veuillez vous en tenir uniquement aux sections converties et aux fichiers structurés lors de l'analyse du contenu. Lorsque je pose une question, répondez en faisant référence à la section concernée et utilisez uniquement les informations techniques contenues dans le document, en évitant les hallucinations.
 

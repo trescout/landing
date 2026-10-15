@@ -43,7 +43,7 @@ holehe test@gmail.com
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Utilizando a ferramenta Holehe, verifique em quais plataformas o endereço [E-MAIL_ADRESI] está cadastrado e apresente os resultados em uma lista.
 

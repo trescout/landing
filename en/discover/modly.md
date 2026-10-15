@@ -51,7 +51,7 @@ launch.bat
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to convert an image into a 3D model using the Modly application. Help me set up the 'Image -> Generate Mesh -> Add to Scene' flow by going to the 'Workflows' tab in the application. Then let me start the 3D model generation by selecting the relevant workflow from the 'Generate' tab. If I get an error, how can I analyze the problem in the 'Settings/Logs/Errors' section?
 

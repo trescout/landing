@@ -50,7 +50,7 @@ docker compose up -d
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Beantworten Sie Fragen, indem Sie sich als Kundendienstmitarbeiter ausgeben. Lösen Sie als Captain AI-Assistent auf Chatwoot automatisch häufig gestellte Fragen und leiten Sie komplexe Probleme an relevante Teamkollegen weiter. Verbessern Sie die Erfahrung des Kundensupports, indem Sie stets höfliche, schnelle und genaue Informationen bereitstellen.
 

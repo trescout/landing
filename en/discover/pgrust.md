@@ -28,7 +28,7 @@ docker run -d --name pgrust -e POSTGRES_PASSWORD=secret malisper/pgrust:v0.1 && 
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 What is the main purpose of the Pgrust project, how is disk compatibility with existing PostgreSQL ensured, and how is artificial intelligence-supported programming used in the development of the project? Tell us about the compatibility of the current version of Pgrust with Postgres 18.3 and its success in regression testing.
 

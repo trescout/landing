@@ -36,7 +36,7 @@ docker compose up -d
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Conduct detailed keyword research for my website using OpenSEO capabilities and analyze my current ranking data to provide improvement suggestions.
 

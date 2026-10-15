@@ -36,7 +36,7 @@ cp ai-berkshire/skills/*.md ~/.claude/commands/
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir yatırım analisti olarak, Warren Buffett, Charlie Munger, Duan Yongping ve Li Lu'nun metodolojilerini kullanarak seçtiğim şirketi analiz et. Analizinde sadece finansal verileri değil, iş modelinin sürdürülebilirliğini, rekabet avantajlarını (hendek), yönetim kalitesini ve olası riskleri dört farklı perspektiften değerlendir. Bilgileri doğrulamak için bağımsız kaynaklar kullan, belirsiz durumlarda 'bilmiyorum' demeyi tercih et ve yatırım kararı için net bir fiyat aralığı ile stratejik öneri sun.
 
@@ -58,4 +58,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-berkshire/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

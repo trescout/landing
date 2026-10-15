@@ -1,6 +1,6 @@
 # Qu'est-ce que Lightweight Virtual Machines ?
 
-*Glossaire · Dev · Dernière mise à jour : 14 juin 2026*
+*Dev · Dernière mise à jour : 14 juin 2026*
 
 De petits ordinateurs virtuels qui fonctionnent rapidement en utilisant uniquement les ressources nécessaires et occupent très peu de place.
 

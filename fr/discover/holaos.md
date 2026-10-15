@@ -36,7 +36,7 @@ npm run desktop:dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes mon assistant IA. Je veux que vous travailliez sur mes fichiers, outils et applications en utilisant mon espace de travail holaOS. Mémoriser le contexte de mes projets passés en utilisant la mémoire partagée et effectuer mes tâches en intégrant des agents comme Claude Code ou Codex. Gérez mes flux de travail, créez des rapports et enregistrez sous forme de fichiers réels (.xlsx, .pptx, .docx) en utilisant les données de mes comptes connectés comme Notion, Gmail et Slack.
 

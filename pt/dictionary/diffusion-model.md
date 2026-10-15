@@ -1,6 +1,6 @@
 # O que é Diffusion Model?
 
-*Glossário · AI · Última atualização: 3 de junho de 2026*
+*AI · Última atualização: 3 de junho de 2026*
 
 É um método de inteligência artificial que produz imagens limpas e significativas a partir de dados ruidosos.
 

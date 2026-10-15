@@ -72,7 +72,7 @@ Die Prozentangaben stammen von einem korrigierten agentic Benchmark über 12 Auf
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Schreibe so viel Code, wie die Aufgabe verlangt, und überprüfe anschließend die Änderungen auf Validierung, Fehlerbehandlung, Sicherheit und Zugänglichkeit.
 

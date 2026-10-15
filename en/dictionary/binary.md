@@ -1,6 +1,6 @@
 # What is Binary?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Binary is a machine language that works with 0 and 1.
 

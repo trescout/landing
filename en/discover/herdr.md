@@ -30,7 +30,7 @@ herdr
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to manage all my artificial intelligence agents running on the terminal from a single center and instantly see the working status (waiting, running, completed) of each of them. Use Herdr to help me configure these agents to separate them into different workspaces and tabs so that the processes continue in the background even if I close the terminal.
 

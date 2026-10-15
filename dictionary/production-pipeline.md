@@ -1,6 +1,6 @@
 # Production Pipeline nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Production pipeline (üretim boru hattı), yazılım geliştiricilerin yazdığı kaynak kodların otomatik olarak derlenmesi, test edilmesi, güvenlik taramalarından geçirilmesi, paketlenmesi ve canlı (production) ortama sıfır kesintiyle dağıtılmasını sağlayan entegre mühendislik süreçleri zinciridir.
 
@@ -75,8 +75,8 @@ Sürüm kontrolünde GitHub ve GitLab; orkestrasyonda GitHub Actions, Jenkins ve
 - [Git Push](https://trescout.com/dictionary/git-push/)
 - [Runtime](https://trescout.com/dictionary/runtime/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/production-pipeline/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

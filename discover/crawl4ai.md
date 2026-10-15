@@ -46,7 +46,7 @@ crawl4ai-download
 
 ## Kurulum (tek komut)
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Crawl4AI adlı açık kaynaklı web tarayıcısını kurmama yardım et; 'pip install -U crawl4ai' ile yükle, ardından 'crawl4ai-setup' çalıştır ve 'crwl https://www.nbcnews.com/business -o markdown' komutuyla bir web sayfasını LLM dostu Markdown'a dönüştürerek deneyelim.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/crawl4ai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

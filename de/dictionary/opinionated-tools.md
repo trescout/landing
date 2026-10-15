@@ -1,6 +1,6 @@
 # Was ist Opinionated Tools?
 
-*Glossar · Dev · Zuletzt aktualisiert: 28. Juni 2026*
+*Dev · Zuletzt aktualisiert: 28. Juni 2026*
 
 Es handelt sich um Softwaretools, die die beste Arbeitsweise vorgeben und vorgeben, anstatt dem Benutzer zu viele Optionen zu bieten.
 

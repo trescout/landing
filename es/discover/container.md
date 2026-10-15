@@ -37,7 +37,7 @@ container system start
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 ¿Cómo puedo administrar contenedores de Linux compatibles con OCI utilizando la herramienta de contenedores en mi Mac con un procesador Apple Silicon? Después de usar el comando de inicio del sistema de contenedores para asegurarme de que el sistema se esté ejecutando correctamente, ¿puede explicar qué pasos básicos debo seguir para extraer y ejecutar una imagen de contenedor?
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que l'Open Weight ?
 
-*Glossaire · AI · Dernière mise à jour : 22 septembre 2026*
+*AI · Dernière mise à jour : 22 septembre 2026*
 
 > Poids de Modèle en Accès Public
 

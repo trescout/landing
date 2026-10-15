@@ -1,6 +1,6 @@
 # O que é Bindings?
 
-*Glossário · Dev · Última atualização: 8 de junho de 2026*
+*Dev · Última atualização: 8 de junho de 2026*
 
 São pontes que permitem que diferentes linguagens de programação utilizem as bibliotecas umas das outras.
 

@@ -40,7 +40,7 @@ npm run dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich persönlich möchte ein modernes Webprojekt starten. Wie richte ich meine Entwicklungsumgebung mit Vite ein und welche Schritte sollte ich befolgen, um mein Projekt für die Veröffentlichung vorzubereiten? Erläutern Sie grundlegende Konfigurationsempfehlungen für eine schnelle Entwicklung und optimierte Build-Prozesse.
 

@@ -38,7 +38,7 @@ npm run dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Entwickeln Sie für mich einen GenLayer-Smart-Vertrag. Dieser Vertrag sollte in der Lage sein, aktuelle Daten aus dem Internet abzurufen und logische Entscheidungen zu treffen, indem er diese Daten mit Modellen der künstlichen Intelligenz verarbeitet. Stellen Sie sicher, dass der Code den Linter-Regeln entspricht, um fehlerfrei zu sein, und erstellen Sie Testfälle, die direkt im Speicher ausgeführt werden, um während des Entwicklungsprozesses schnelles Feedback zu erhalten.
 

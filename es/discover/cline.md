@@ -43,7 +43,7 @@ cline --team-name auth-sprint "Plan and implement user authentication with tests
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Analiza la estructura de archivos de mi proyecto y lleva a cabo la tarea que he definido, teniendo en cuenta los estándares de código actuales y las reglas del archivo .clinerules. Al realizar cambios en el código, verifica errores, ejecuta los comandos necesarios en la terminal y avanza obteniendo mi aprobación en cada paso.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Guardrails ?
 
-*Glossaire · AI · Dernière mise à jour : 9 octobre 2026*
+*AI · Dernière mise à jour : 9 octobre 2026*
 
 Il s'agit de limites de sécurité et de contrôle qui empêchent les modèles d'intelligence artificielle de produire des résultats nuisibles, trompeurs ou non conformes aux règles établies.
 

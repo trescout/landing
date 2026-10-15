@@ -1,6 +1,6 @@
 # What is Plugin Specification?
 
-*Dictionary · Dev · Last updated: August 15, 2026*
+*Dev · Last updated: August 15, 2026*
 
 It is a set of technical rules that must be followed to develop external add-ons for a software.
 

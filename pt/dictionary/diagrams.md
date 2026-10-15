@@ -1,6 +1,6 @@
 # O que é Diagrams?
 
-*Glossário · Dev · Última atualização: 23 de julho de 2026*
+*Dev · Última atualização: 23 de julho de 2026*
 
 São diagramas visualmente simplificados de sistemas, processos ou estruturas complexas.
 

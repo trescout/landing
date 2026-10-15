@@ -44,7 +44,7 @@ tursodb
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero administrar una base de datos en proceso compatible con SQLite con la base de datos Turso. Guíeme a través del proceso de creación de tablas de bases de datos, inserción de datos y consultas a través de mi configuración actual. Específicamente, proporcione ejemplos de cómo interactuar con la sintaxis de SQLite y administrar datos.
 

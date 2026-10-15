@@ -40,7 +40,7 @@ SELECT df.start(
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero criar um fluxo de trabalho usando o plugin pg_durable no PostgreSQL. Como devo configurar a função df.start() para gerenciar um processo persistente e tolerante a falhas dentro do banco de dados? Como posso criar uma estrutura que processe dados e possa continuar de onde parou em caso de erro, usando os operadores ~> e |=> que conectam as etapas do SQL? Explique este processo com exemplos usando comandos SQL.
 

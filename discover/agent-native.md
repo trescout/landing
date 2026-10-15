@@ -38,7 +38,7 @@ npx @agent-native/core@latest skills add visual-plan
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Agent-Native çerçevesini kullanarak uygulamam için bir aksiyon tanımlamak istiyorum. defineAction fonksiyonunu kullanarak, gelen veriyi veritabanına işleyecek ve hem kullanıcı arayüzü hem de yapay zekâ ajanı tarafından erişilebilir olacak bir yapı kurmama yardımcı ol.
 
@@ -61,4 +61,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-native/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

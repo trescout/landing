@@ -40,7 +40,7 @@ celld --bucket s3://my-cells-bucket --listen 0.0.0.0:8080 \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit Celld ein verteiltes System aufbauen. Nachdem Sie einen S3-kompatiblen Speicherplatz erstellt haben, erklären Sie Schritt für Schritt, wie die Knoten diesen Speicherplatz nutzen und wie Wrangler-Pakete verteilt werden. Fassen Sie die technischen Details in einfacher Sprache zusammen, insbesondere darüber, wie Knoten sich gegenseitig erkennen und die Datenkonsistenz über S3 sicherstellen.
 

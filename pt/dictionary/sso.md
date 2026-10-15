@@ -1,6 +1,6 @@
 # O que é SSO?
 
-*Glossário · Dev · Última atualização: 26 de junho de 2026*
+*Dev · Última atualização: 26 de junho de 2026*
 
 > Single Sign-On
 

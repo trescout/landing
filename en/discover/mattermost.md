@@ -38,7 +38,7 @@ http://localhost:8065
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I make my software development team's communication processes more efficient by using the Mattermost platform? What steps should I follow to strengthen team collaboration using features such as workflow automation, voice calling and screen sharing offered by the platform?
 

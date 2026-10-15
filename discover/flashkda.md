@@ -39,7 +39,7 @@ pip install -U flash-linear-attention
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 FlashKDA aracını kullanarak Kimi Delta Attention hesaplamalarını hızlandırmak istiyorum. Flash-linear-attention kütüphanesi ile entegre bir şekilde, torch.inference_mode() altında chunk_kda fonksiyonunu kullanarak modelimin dikkat mekanizmasını nasıl optimize edebilirim? Lütfen gerekli parametreleri ve dikkat etmem gereken donanım gereksinimlerini göz önünde bulundurarak bir uygulama örneği oluştur.
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flashkda/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

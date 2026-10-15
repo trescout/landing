@@ -1,6 +1,6 @@
 # ¿Qué es SEO?
 
-*Glosario · Dev · Última actualización: 26 de junio de 2026*
+*Dev · Última actualización: 26 de junio de 2026*
 
 > Search Engine Optimization
 

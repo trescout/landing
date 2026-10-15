@@ -1,6 +1,6 @@
 # Digital Privacy nedir, ne demek?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
+*Veri & Altyapı · Son güncelleme: 19 Eylül 2026*
 
 Digital Privacy (dijital gizlilik veya sayısal mahremiyet), bireylerin internette, akıllı cihazlarda ve dijital servislerde ürettiği kişisel verilerin kimler tarafından toplanabileceğini, saklanabileceğini ve işlenebileceğini denetleme ve sınırlama hakkıdır.
 
@@ -69,8 +69,8 @@ Diferansiyel gizlilik, veri analizlerinde bireysel kimlikleri matematiksel gür�
 - [Regulatory Restriction](https://trescout.com/dictionary/regulatory-restriction/)
 - [Home Automation](https://trescout.com/dictionary/home-automation/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/digital-privacy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist Sandbox?
 
-*Glossar · Dev · Zuletzt aktualisiert: 16. Juni 2026*
+*Dev · Zuletzt aktualisiert: 16. Juni 2026*
 
 Es handelt sich um einen isolierten Arbeitsbereich, in dem neue Software oder Codes sicher getestet werden können, ohne das Hauptsystem zu beschädigen.
 

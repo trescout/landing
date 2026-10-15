@@ -43,7 +43,7 @@ LocalSend arbeitet ohne Internetverbindung oder Server eines Drittanbieters im l
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich ein Foto von meinem Computer an mein Telefon im selben lokalen Netzwerk senden?
 

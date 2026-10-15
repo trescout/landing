@@ -50,7 +50,7 @@ python3 ./sf.py -l 127.0.0.1:5001
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 SpiderFoot aracını kullanarak bir hedef üzerinde OSINT taraması başlatmak istiyorum. Hedefim bir alan adı/IP adresi. Bu aracı kullanarak dijital varlıklarımın internet üzerinde ne kadar görünür olduğunu ve hangi güvenlik açıklarına sahip olabileceğini analiz etmek için hangi adımları izlemeliyim? Lütfen 200'den fazla modülün nasıl çalıştığını ve sonuçları nasıl yorumlamam gerektiğini açıkla.
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/spiderfoot/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

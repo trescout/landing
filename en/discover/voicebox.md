@@ -33,7 +33,7 @@ just dev     # starts backend + desktop app
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I manage the voice transcription and dubbing processes on Voicebox. Help me determine the most appropriate TTS engine for my chosen voice profile, show me how to add emotional emphasis within text, and explain step-by-step how to configure the voicebox.speak car call needed for my local AI agent to respond with voice.
 

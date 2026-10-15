@@ -36,7 +36,7 @@ npx impeccable skills install
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero melhorar a qualidade do design e a consistência visual do meu projeto. Gostaria que você revisasse minha interface atual usando a ferramenta Impeccable e a melhorasse de acordo com os padrões da linguagem de design. Utilize comandos /impeccable para verificar erros visuais em meu projeto, identificar deficiências e fazer ajustes para melhorar a experiência do usuário.
 

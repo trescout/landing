@@ -37,7 +37,7 @@ git clone https://github.com/SnailSploit/claude-red ~/.claude/skills/claude-red
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 From now on, I want you to act like a penetration testing expert. Analyze vulnerabilities using the methodologies in the skill files I share, evaluate attack surfaces, and guide me in my cybersecurity research.
 

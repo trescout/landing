@@ -33,7 +33,7 @@ docker compose up -d
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Fitness-Tracking-Software openGym auf der Docker-Container-Verwaltungsplattform installieren. Könnten Sie mir Schritt für Schritt die Installationsschritte erklären, die mit dem Befehl 'git clone https://github.com/DuarteSantos8/openGym' beginnen, wie die Umgebungsvariablendatei '.env' konfiguriert wird und wie ich nach Abschluss der Installation über den Browser auf die Anwendung zugreifen kann?
 

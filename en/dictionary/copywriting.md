@@ -1,6 +1,6 @@
 # What is Copywriting?
 
-*Dictionary · Dev · Last updated: September 7, 2026*
+*Dev · Last updated: September 7, 2026*
 
 It is persuasive copywriting prepared with the aim of convincing people to take a specific action or purchase a product.
 

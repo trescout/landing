@@ -1,6 +1,6 @@
 # What is Generative UI?
 
-*Dictionary · AI · Last updated: June 6, 2026*
+*AI · Last updated: June 6, 2026*
 
 It is a screen design created instantly by artificial intelligence according to the user's current needs.
 

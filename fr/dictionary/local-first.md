@@ -1,6 +1,6 @@
 # Qu'est-ce que Local-first ?
 
-*Glossaire · Dev · Dernière mise à jour : 19 juillet 2026*
+*Dev · Dernière mise à jour : 19 juillet 2026*
 
 Il s'agit d'une approche logicielle basée sur la conservation et le traitement des données sur l'appareil sans dépendre d'une connexion Internet.
 

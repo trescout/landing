@@ -1,6 +1,6 @@
 # Was ist Utilities?
 
-*Glossar · Dev · Zuletzt aktualisiert: 19. September 2026*
+*Dev · Zuletzt aktualisiert: 19. September 2026*
 
 Utilities sind unabhängige, praktische und zweckgebundene Modulpakete, die die Wartung und Verwaltung von Betriebssystemen übernehmen und häufig wiederkehrende Routineaufgaben in Softwareprojekten übernehmen.
 

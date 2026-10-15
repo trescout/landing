@@ -1,6 +1,6 @@
 # ¿Qué es SQL Client?
 
-*Glosario · Data · Última actualización: 22 de septiembre de 2026*
+*Data · Última actualización: 22 de septiembre de 2026*
 
 Un cliente SQL es una aplicación que le permite conectarse a bases de datos relacionales y ejecutar consultas SQL.
 

@@ -38,7 +38,7 @@ npm run dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Desarrolle un contrato inteligente GenLayer para mí. Este contrato debería poder extraer datos actualizados de Internet y tomar decisiones lógicas procesando estos datos con modelos de inteligencia artificial. Asegúrese de que el código cumpla con las reglas de linter para estar libre de errores y cree casos de prueba que se ejecuten directamente en la memoria para obtener comentarios rápidos durante el proceso de desarrollo.
 

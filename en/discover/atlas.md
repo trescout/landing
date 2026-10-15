@@ -38,7 +38,7 @@ bun run dev:app
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a software development assistant. Record all code changes you make using Atlas, along with the decisions you take and the tools you use, together with the session history. If you need to switch between different agents like Claude Code or Codex while working, read the plans and architectural notes from the previous session via the shared memory. Maintain context by referencing files, folders, or past sessions in the codebase using the '@' symbol, and document the reason for every change you make along with the rationale of the relevant session.
 

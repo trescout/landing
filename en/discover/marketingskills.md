@@ -35,7 +35,7 @@ npx skills add coreyhaines31/marketingskills --skill cro copywriting
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are now an assistant specializing in marketing. Using the capabilities in the marketingskills library we added to our project, I want you to develop strategies suitable for the target audience of our product, produce SEO-compatible content and offer optimization suggestions that will increase conversion rates. First, examine your product-marketing skills to understand the positioning of our product and then carry out the marketing tasks we have determined professionally according to this framework.
 

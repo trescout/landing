@@ -1,6 +1,6 @@
 # What is Algorithmic Trading?
 
-*Dictionary · Data · Last updated: June 3, 2026*
+*Data · Last updated: June 3, 2026*
 
 Buying and selling transactions in the stock market and financial markets are carried out automatically by software within the framework of predetermined rules.
 

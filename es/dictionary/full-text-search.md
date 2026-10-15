@@ -1,6 +1,6 @@
 # ¿Qué es Full Text Search?
 
-*Glosario · Data · Última actualización: 22 de septiembre de 2026*
+*Data · Última actualización: 22 de septiembre de 2026*
 
 La búsqueda de texto completo (tam metin arama en su equivalente turco) es un método de búsqueda que encuentra palabras que aparecen en todo el contenido de los documentos.
 

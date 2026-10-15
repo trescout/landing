@@ -45,7 +45,7 @@ PLFM RADAR ist ein Open-Source-Phased-Array-Radarsystem, das bei 10,5 GHz (X-Ban
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich würde gerne die 10,5-GHz-Phased-Array-Hardwareschaltpläne und FPGA-Signalverarbeitungsblöcke des PLFM RADAR-Projekts überprüfen. Können Sie ein Simulations-Python-Skript erstellen, das die FMCW-Chirp-Signalerzeugung, die Range-Doppler-2D-FFT-Berechnung und die Datenübertragung an die Python-basierte PPI-Radaranzeige beschreibt? Können Sie Schritt für Schritt den Algorithmus zur Entfernungs- und Geschwindigkeitserkennung für ein künstliches Ziel zeigen?
 

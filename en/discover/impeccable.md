@@ -36,7 +36,7 @@ npx impeccable skills install
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to improve the design quality and visual consistency of my project. I would like you to review my current interface using the Impeccable tool and improve it according to design language standards. Please use /impeccable commands to check visual errors in my project, identify deficiencies and make adjustments to improve the user experience.
 

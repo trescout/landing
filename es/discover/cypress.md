@@ -37,7 +37,7 @@ npx cypress open
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero crear casos de prueba de un extremo a otro para mi aplicación web usando Cypress. ¿Cómo puedo configurar mis pruebas basadas en navegador, crear y ejecutar un archivo de prueba básico, usando esta herramienta que he incluido en mi proyecto con los comandos npm install cypress --save-dev o Yarn add cypress --dev?
 

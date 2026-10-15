@@ -31,7 +31,7 @@ pnpm dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Para ejecutar el proyecto Univer en el entorno local, clona el repositorio en la terminal con el comando git clone https://github.com/dream-num/univer.git, luego entra con cd univer, instala las dependencias usando pnpm install y finalmente ejecuta el comando pnpm dev.
 

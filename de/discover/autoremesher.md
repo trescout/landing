@@ -55,7 +55,7 @@ make -j$(sysctl -n hw.logicalcpu)
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die 3D-Modelldatei, die ich habe, in eine rechteckige Netzstruktur konvertieren. Wie kann ich meine Eingabedatei mit der angegebenen Zielanzahl an Vierecken, Kantenskalierung und scharfen Kanteneinstellungen mit dem Autoremesher-Tool verarbeiten? Bitte erstellen Sie eine Beispielkonfiguration, die ich über die Befehlszeile verwenden kann.
 

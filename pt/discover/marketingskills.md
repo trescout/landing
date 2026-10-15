@@ -35,7 +35,7 @@ npx skills add coreyhaines31/marketingskills --skill cro copywriting
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você agora é um assistente especializado em marketing. Utilizando os recursos da biblioteca de habilidades de marketing que adicionamos ao nosso projeto, quero que você desenvolva estratégias adequadas ao público-alvo do nosso produto, produza conteúdo compatível com SEO e ofereça sugestões de otimização que aumentarão as taxas de conversão. Primeiro, examine suas habilidades de marketing de produto para compreender o posicionamento de nosso produto e, em seguida, execute as tarefas de marketing que determinamos profissionalmente de acordo com esta estrutura.
 

@@ -1,6 +1,6 @@
 # What is AI Agent Skill?
 
-*Dictionary · AI · Last updated: June 6, 2026*
+*AI · Last updated: June 6, 2026*
 
 They are specific skills that an AI agent can use to complete a job, such as searching the internet or organizing a file.
 

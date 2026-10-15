@@ -1,6 +1,6 @@
 # Self-Hosted: Homelabs, Cloud-Repatriierung und eigene Server
 
-*Glossar · Dev · Zuletzt aktualisiert: 19. September 2026*
+*Dev · Zuletzt aktualisiert: 19. September 2026*
 
 Self-Hosted (Selbst-Hosten) bezeichnet den Betrieb, die Konfiguration und die Administration von Softwareanwendungen auf eigener physischer Hardware oder gemieteten Root-Servern anstelle der Nutzung proprietärer SaaS-Dienste.
 

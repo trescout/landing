@@ -35,7 +35,7 @@ pip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/si
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich muss eine deterministische Handelsstrategie entwerfen, die auf dem Rust-Kern mit Multi-Exchange-Unterstützung unter Verwendung der NautilusTrader-Handels-Engine läuft. Wie kann ich mithilfe der Python-Steuerungsebene Strategielogik konstruieren und welche modularen Strukturen sollte ich verwenden, um die Codekonsistenz beim Übergang von der Forschungsumgebung zur Live-Umgebung sicherzustellen?
 

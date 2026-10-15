@@ -1,6 +1,6 @@
 # What is Frontier AI?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 Frontier AI refers to the most capable current models.
 

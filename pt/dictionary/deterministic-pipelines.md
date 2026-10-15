@@ -1,6 +1,6 @@
 # O que é Deterministic Pipelines?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Pipeline determinístico é um pipeline que produz a mesma saída em cada execução com a mesma entrada.
 

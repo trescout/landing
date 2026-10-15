@@ -1,6 +1,6 @@
 # Qu'est-ce que Cookbooks ?
 
-*Glossaire · Dev · Dernière mise à jour : 10 juillet 2026*
+*Dev · Dernière mise à jour : 10 juillet 2026*
 
 Il s'agit de guides techniques qui proposent des solutions pratiques et toutes faites aux problèmes courants rencontrés lors de l'utilisation d'une technologie particulière.
 

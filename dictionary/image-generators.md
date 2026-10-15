@@ -1,6 +1,6 @@
 # Image Generators nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 27 Eylül 2026*
 
 Yazılı komutları alarak sıfırdan resim veya fotoğraf oluşturan sistemlerdir.
 
@@ -34,8 +34,8 @@ Genellikle harikadırlar ancak elleri, metinleri ve bazı karmaşık detayları 
 - [Diffusion Model](https://trescout.com/dictionary/diffusion-model/)
 - [Multimodal](https://trescout.com/dictionary/multimodal/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/image-generators/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

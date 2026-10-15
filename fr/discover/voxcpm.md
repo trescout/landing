@@ -41,7 +41,7 @@ Comprend le clonage vocal. Se faire passer pour la voix d'une personne sans auto
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Exécutez 'pip install voxcpm' pour installer l'outil de synthèse vocale VoxCPM, puis générez un fichier audio avec la commande 'voxcpm design --text "Hello world" --output out.wav' ; Si je le souhaite, clonez ce son en utilisant 'voxcpm clone' avec un fichier son de référence.
 

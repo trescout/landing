@@ -1,6 +1,6 @@
 # Qu'est-ce que Full Text Search ?
 
-*Glossaire · Data · Dernière mise à jour : 22 septembre 2026*
+*Data · Dernière mise à jour : 22 septembre 2026*
 
 La recherche textuelle complète (ou recherche en texte intégral en turc) est une méthode de recherche qui trouve les mots présents dans l'ensemble du contenu des documents.
 

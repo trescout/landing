@@ -40,7 +40,7 @@ npm run dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meinen eigenen Server einrichten. Welche grundlegenden Schritte sollte ich basierend auf den Informationen im Self-Hosting-Guide befolgen, um einen Medienserver oder Cloud-Speicher in meinem lokalen Netzwerk zu erstellen? Welche Hardware- und Softwaretools sollte ich zuerst in Betracht ziehen?
 

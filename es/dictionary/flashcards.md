@@ -1,6 +1,6 @@
 # ¿Qué es Flashcards?
 
-*Glosario · AI · Última actualización: 22 de septiembre de 2026*
+*AI · Última actualización: 22 de septiembre de 2026*
 
 Las flashcards (conocidas en español como tarjetas de memoria o tarjetas de estudio) son pequeñas tarjetas de aprendizaje que contienen una pregunta en el anverso y la respuesta en el reverso.
 

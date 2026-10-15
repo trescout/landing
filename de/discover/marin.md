@@ -70,7 +70,7 @@ Der CPU-Smoketest dient nur der ersten Validierung. CPU-, GPU- und TPU-Abhängig
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Führe zur ersten Validierung den TinyStories-Offline-Workflow aus, um auf CPU ein kleines Modell zu trainieren.
 

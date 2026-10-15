@@ -1,6 +1,6 @@
 # Was ist Output?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Output (Türkçe karşılığıyla çıktı), işlem sonucu üretilen veridir.
 

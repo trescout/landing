@@ -35,7 +35,7 @@ cd armorpaint/paint
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Üç boyutlu modelleme ve doku boyama süreçlerimde bana yardımcı ol. Fizik tabanlı işleme tekniklerini kullanarak modellerim için gerçekçi kaplamalar hazırlamamı sağla. Teknik sorunlar yaşadığımda veya doku oluşturma aşamasında takıldığımda bana adım adım rehberlik et.
 
@@ -53,4 +53,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/armorpaint/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

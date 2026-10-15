@@ -87,7 +87,7 @@ ELLE KALAN İKİ ŞEY · unutulursa guard yakalamaz:
     bozuyor). 2026-08-15 denetimi: fr/pt/es sayfalarında RAG → "chiffon/pano/
     trapo" (bez), MCP → "PCM", fine-tuning → "réglage fin", Lobste.rs →
     "Homard.rs", hello@ → "bonjour@/olá@/hola@". Yeni dilde metni ELLE yazın ·
-    özel adlar (GitHub · Hacker News · HuggingFace · Lobste.rs · RAG · MCP ·
+    özel adlar (GitHub · Hacker News · Hugging Face · Lobste.rs · RAG · MCP ·
     fine-tuning · CLI · TreScout) ve e-posta adresi çevrilmez.
   · Karşılaştırma sayfasındaki "rapor şu dillerde" satırı · beş sayfada birden
     güncellenmeli. 2026-08-15'e kadar Türkçesi hâlâ "Türkçe ve İngilizce"
@@ -140,7 +140,7 @@ DILLER = {
         "kopyala_komut": "Copy command",
         "kopyala_istem": "Copy prompt",
         "kopyala": "Copy",
-        "ajan_istem": "🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)",
+        "ajan_istem": "Paste this into your AI agent (Claude Code · Codex · Antigravity)",
         "guncellemeler": "Updates",
         "yildiz": "Stars",
         "son_surum": "latest release",
@@ -150,7 +150,7 @@ DILLER = {
         "lisans": "License",
         "bugun": "today",
         "cta_baslik": "Get similar discoveries in the daily report.",
-        "cta_metin": "TreScout scouts GitHub, Hacker News and HuggingFace trends daily and publishes curated summaries.",
+        "cta_metin": "TreScout scouts GitHub, Hacker News and Hugging Face trends daily and publishes curated summaries.",
         "sorumluluk": ("TreScout did not build this tool · we found it in GitHub trends and wrote it up. "
                        "This page describes the repository as of {date}: The star count and our text belong "
                        "to that day, the repository may have changed since. Check the repository link for "
@@ -244,10 +244,10 @@ DILLER = {
                 "geri": "All Reports",
                 "baslik": "Daily Technology Reports",
                 "intro": ("Daily AI-curated summaries of GitHub Trending, Hacker News and "
-                          "HuggingFace. Read online in English or download the English PDF."),
+                          "Hugging Face. Read online in English or download the English PDF."),
                 "dizin_baslik": "Daily Technology Reports Archive · TreScout",
                 "dizin_aciklama": ("TreScout daily technology reports archive · Curated AI summaries of "
-                                   "GitHub, Hacker News, and HuggingFace trends every day."),
+                                   "GitHub, Hacker News, and Hugging Face trends every day."),
             },
             "fresh": {
                 "geri": "Fresh Only",
@@ -329,7 +329,7 @@ DILLER = {
         "kopyala_komut": "Copier la commande",
         "kopyala_istem": "Copier l'invite",
         "kopyala": "Copier",
-        "ajan_istem": "🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)",
+        "ajan_istem": "Collez ceci dans votre agent (Claude Code · Codex · Antigravity)",
         "guncellemeler": "Mises à jour",
         "yildiz": "Étoiles",
         "son_surum": "dernière version",
@@ -339,7 +339,7 @@ DILLER = {
         "lisans": "Licence",
         "bugun": "aujourd'hui",
         "cta_baslik": "Recevez des découvertes similaires dans le rapport quotidien.",
-        "cta_metin": "TreScout repère des outils comme celui-ci chaque jour sur GitHub, Hacker News et HuggingFace.",
+        "cta_metin": "TreScout repère des outils comme celui-ci chaque jour sur GitHub, Hacker News et Hugging Face.",
         "sorumluluk": ("TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub "
                        "et présenté. Cette page décrit le dépôt tel qu'il était le {date} : Le nombre d'étoiles "
                        "et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du "
@@ -426,10 +426,10 @@ DILLER = {
                 "geri": "Tous les rapports",
                 "baslik": "Rapports technologiques quotidiens",
                 "intro": ("Chaque jour, un résumé des tendances de GitHub Trending, Hacker News "
-                          "et HuggingFace. À lire en ligne ou en PDF."),
+                          "et Hugging Face. À lire en ligne ou en PDF."),
                 "dizin_baslik": "Archive des rapports quotidiens · TreScout",
                 "dizin_aciklama": ("L'archive des rapports technologiques quotidiens de TreScout · les "
-                                   "tendances de GitHub, Hacker News et HuggingFace, résumées chaque jour."),
+                                   "tendances de GitHub, Hacker News et Hugging Face, résumées chaque jour."),
             },
             "fresh": {
                 "geri": "Nouveautés",
@@ -475,7 +475,7 @@ DILLER = {
         "modal_kapat": "Fermer",
         "modal_onayla": "Enregistrer et fermer",
         "ana_h1": "TreScout analyse, résume et publie. Vous n'avez qu'à lire.",
-        "ana_lead": ("Chaque jour, TreScout parcourt GitHub, Hacker News et HuggingFace, "
+        "ana_lead": ("Chaque jour, TreScout parcourt GitHub, Hacker News et Hugging Face, "
                      "retient ce qui compte et le rassemble dans un seul rapport."),
         "ana_bolum": "Ce que vous trouverez ici",
         "ana_kartlar": [
@@ -523,7 +523,7 @@ DILLER = {
         "kopyala_komut": "Copiar comando",
         "kopyala_istem": "Copiar prompt",
         "kopyala": "Copiar",
-        "ajan_istem": "🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)",
+        "ajan_istem": "Cole isto no seu agente (Claude Code · Codex · Antigravity)",
         "guncellemeler": "Atualizações",
         "yildiz": "Estrelas",
         "son_surum": "versão mais recente",
@@ -533,7 +533,7 @@ DILLER = {
         "lisans": "Licença",
         "bugun": "hoje",
         "cta_baslik": "Receba descobertas semelhantes no relatório diário.",
-        "cta_metin": "A TreScout vasculha o GitHub, Hacker News e HuggingFace todos os dias e resume o essencial.",
+        "cta_metin": "A TreScout vasculha o GitHub, Hacker News e Hugging Face todos os dias e resume o essencial.",
         "sorumluluk": ("A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do "
                        "GitHub e a apresentamos. Esta página descreve o repositório em {date}: A contagem "
                        "de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde "
@@ -651,10 +651,10 @@ DILLER = {
                 "geri": "Todos os relatórios",
                 "baslik": "Relatórios diários de tecnologia",
                 "intro": ("Todos os dias, um resumo das tendências do GitHub Trending, Hacker News "
-                          "e HuggingFace. Leia online ou baixe o PDF."),
+                          "e Hugging Face. Leia online ou baixe o PDF."),
                 "dizin_baslik": "Arquivo de relatórios diários · TreScout",
                 "dizin_aciklama": ("O arquivo de relatórios diários de tecnologia da TreScout · as tendências "
-                                   "do GitHub, Hacker News e HuggingFace, resumidas todos os dias."),
+                                   "do GitHub, Hacker News e Hugging Face, resumidas todos os dias."),
             },
             "fresh": {
                 "geri": "Somente novidades",
@@ -669,7 +669,7 @@ DILLER = {
         "modal_kapat": "Fechar",
         "modal_onayla": "Salvar e fechar",
         "ana_h1": "Acompanhar tecnologia não é mais um fardo.",
-        "ana_lead": ("Todos os dias, a TreScout percorre GitHub, Hacker News e HuggingFace, "
+        "ana_lead": ("Todos os dias, a TreScout percorre GitHub, Hacker News e Hugging Face, "
                      "retém o que importa e reúne tudo em um único relatório."),
         "ana_bolum": "O que você encontra aqui",
         "ana_kartlar": [
@@ -717,7 +717,7 @@ DILLER = {
         "kopyala_komut": "Copiar comando",
         "kopyala_istem": "Copiar instrucción",
         "kopyala": "Copiar",
-        "ajan_istem": "🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)",
+        "ajan_istem": "Pegue esto en su agente (Claude Code · Codex · Antigravity)",
         "guncellemeler": "Actualizaciones",
         "yildiz": "Estrellas",
         "son_surum": "última versión",
@@ -727,7 +727,7 @@ DILLER = {
         "lisans": "Licencia",
         "bugun": "hoy",
         "cta_baslik": "Reciba descubrimientos similares en el informe diario.",
-        "cta_metin": "TreScout rastrea GitHub, Hacker News y HuggingFace cada día y le resume lo esencial.",
+        "cta_metin": "TreScout rastrea GitHub, Hacker News y Hugging Face cada día y le resume lo esencial.",
         "sorumluluk": ("TreScout no desarrolló esta herramienta · la encontramos en las tendencias de "
                        "GitHub y la presentamos. Esta página describe el repositorio tal como estaba el "
                        "{date}: El número de estrellas y nuestro texto son de ese día, el repositorio "
@@ -848,10 +848,10 @@ DILLER = {
                 "geri": "Todos los informes",
                 "baslik": "Informes diarios de tecnología",
                 "intro": ("Cada día, un resumen de las tendencias de GitHub Trending, Hacker News "
-                          "y HuggingFace. Léalo en línea o descargue el PDF."),
+                          "y Hugging Face. Léalo en línea o descargue el PDF."),
                 "dizin_baslik": "Archivo de informes diarios · TreScout",
                 "dizin_aciklama": ("El archivo de informes diarios de tecnología de TreScout · las "
-                                   "tendencias de GitHub, Hacker News y HuggingFace, resumidas cada día."),
+                                   "tendencias de GitHub, Hacker News y Hugging Face, resumidas cada día."),
             },
             "fresh": {
                 "geri": "Solo novedades",
@@ -866,7 +866,7 @@ DILLER = {
         "modal_kapat": "Cerrar",
         "modal_onayla": "Guardar y cerrar",
         "ana_h1": "Seguir la tecnología ya no es una carga.",
-        "ana_lead": ("Cada día, TreScout recorre GitHub, Hacker News y HuggingFace, se queda "
+        "ana_lead": ("Cada día, TreScout recorre GitHub, Hacker News y Hugging Face, se queda "
                      "con lo que importa y lo reúne en un solo informe."),
         "ana_bolum": "Lo que encontrará aquí",
         "ana_kartlar": [
@@ -914,7 +914,7 @@ DILLER = {
         "kopyala_komut": "Befehl kopieren",
         "kopyala_istem": "Anweisung kopieren",
         "kopyala": "Kopieren",
-        "ajan_istem": "🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)",
+        "ajan_istem": "Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)",
         "guncellemeler": "Aktualisierungen",
         "yildiz": "Sterne",
         "son_surum": "neueste Version",
@@ -924,7 +924,7 @@ DILLER = {
         "lisans": "Lizenz",
         "bugun": "heute",
         "cta_baslik": "Erhalten Sie ähnliche Entdeckungen im täglichen Bericht.",
-        "cta_metin": "TreScout durchsucht täglich GitHub, Hacker News und HuggingFace und fasst das Wesentliche zusammen.",
+        "cta_metin": "TreScout durchsucht täglich GitHub, Hacker News und Hugging Face und fasst das Wesentliche zusammen.",
         "sorumluluk": ("TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends "
                        "gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am "
                        "{date} war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das "
@@ -1045,10 +1045,10 @@ DILLER = {
                 "geri": "Alle Berichte",
                 "baslik": "Technik-Tagesberichte",
                 "intro": ("Jeden Tag eine Zusammenfassung der Trends von GitHub Trending, Hacker News "
-                          "und HuggingFace. Online lesen oder als PDF herunterladen."),
+                          "und Hugging Face. Online lesen oder als PDF herunterladen."),
                 "dizin_baslik": "Archiv der Tagesberichte · TreScout",
                 "dizin_aciklama": ("Das Archiv der Technik-Tagesberichte von TreScout · die Trends von "
-                                   "GitHub, Hacker News und HuggingFace, jeden Tag zusammengefasst."),
+                                   "GitHub, Hacker News und Hugging Face, jeden Tag zusammengefasst."),
             },
             "fresh": {
                 "geri": "Nur Neues",
@@ -1063,7 +1063,7 @@ DILLER = {
         "modal_kapat": "Schließen",
         "modal_onayla": "Speichern und schließen",
         "ana_h1": "Technik zu verfolgen ist keine Last mehr.",
-        "ana_lead": ("Jeden Tag durchsucht TreScout GitHub, Hacker News und HuggingFace, behält "
+        "ana_lead": ("Jeden Tag durchsucht TreScout GitHub, Hacker News und Hugging Face, behält "
                      "das Wesentliche und fasst es in einem einzigen Bericht zusammen."),
         "ana_bolum": "Was Sie hier finden",
         "ana_kartlar": [

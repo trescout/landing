@@ -29,7 +29,7 @@ pip install -U pageindex
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero indexar um documento no modo local usando a biblioteca Python do PageIndex e pesquisar no documento com um modelo de IA. Após concluir a instalação, você pode executar o código Python de exemplo que me permite definir minha chave de API da OpenAI, carregar o documento no sistema e fazer perguntas?
 

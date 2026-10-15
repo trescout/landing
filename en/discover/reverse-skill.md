@@ -29,7 +29,7 @@ git clone https://github.com/zhaoxuya520/reverse-skill.git
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Use this project as a guide in a penetration testing or reverse engineering task. Before performing your task, review the instructions in the README_AI.md file, comply with the routing rules in the RULES.md file, and start the workflow by determining the correct methodology through MASTER-ROUTING.md.
 

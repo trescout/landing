@@ -1,6 +1,6 @@
 # ¿Qué es Phased Array Radar?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 El radar de barrido electrónico en fase (phased array radar) es un sistema de radar estático que dirige el haz electrónicamente.
 

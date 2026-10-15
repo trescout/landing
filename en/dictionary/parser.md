@@ -1,6 +1,6 @@
 # What is Parser?
 
-*Dictionary · Dev · Last updated: July 11, 2026*
+*Dev · Last updated: July 11, 2026*
 
 It is a parser that breaks complex data or code into meaningful pieces that the computer can process step by step.
 

@@ -39,7 +39,7 @@ npm run dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte, dass Sie ein Flussdiagramm erstellen. Visualisieren Sie den Benutzerauthentifizierungsprozess, einschließlich Anmeldung, Multi-Faktor-Authentifizierung und Sitzungsverwaltung.
 

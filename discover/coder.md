@@ -37,7 +37,7 @@ coder server
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Coder platformunu kullanarak bulut tabanlı bir geliştirme ortamı kurmak istiyorum. Terraform ile tanımlanmış çalışma alanlarımı nasıl yapılandırabilirim ve altyapım üzerinde çalışan yapay zekâ ajanlarını merkezi olarak nasıl yönetebilirim? Güvenli bir bağlantı için Wireguard tünelini nasıl kuracağımı ve kaynak maliyetlerini düşürmek için boşta kalan kaynakları otomatik kapatma özelliğini nasıl aktif edeceğimi adım adım açıklar mısın?
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/coder/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

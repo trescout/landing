@@ -42,7 +42,7 @@ Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanları
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Agency Agents projesindeki uzman yapay zekâ ajanlarını kullanarak çalışma süreçlerimi nasıl daha verimli hale getirebilirim? Hangi ajanların benim için uygun olduğunu belirlemek ve kurulumu gerçekleştirmek için izlemem gereken adımları açıklar mısın?
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agency-agents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -21,7 +21,7 @@ The awesome-llm-apps repository offers more than 100 directly executable AI agen
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop my own projects using the artificial intelligence agent templates in this tool. From the 100+ examples available, can you please explain step by step the basic steps I need to follow to build a Python-based RAG application or multi-agent system and how to customize these templates?
 

@@ -1,6 +1,6 @@
 # ¿Qué es Web Interface?
 
-*Glosario · Dev · Última actualización: 3 de junio de 2026*
+*Dev · Última actualización: 3 de junio de 2026*
 
 Es una interfaz visual que le permite administrar fácilmente software complejo o modelos de inteligencia artificial a través de su navegador de Internet.
 

@@ -1,6 +1,6 @@
 # Session Replay nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 17 Temmuz 2026*
+*Geliştirme · Son güncelleme: 17 Temmuz 2026*
 
 Kullanıcının web sitenizdeki tüm hareketlerini bir film gibi kaydedip izlemenizi sağlayan teknolojidir.
 
@@ -42,8 +42,8 @@ Modern sistemler sadece hareket verilerini kaydettiği için oldukça hafiftir.
 
 - [Posthog](https://trescout.com/discover/posthog/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/session-replay/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

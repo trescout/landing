@@ -49,7 +49,7 @@ Unciv, klasik 4X türünün temel taşlarını kusursuz bir ritimle sunar: *eXpl
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Unciv oyunu için geçerli bir JSON mod yapısı hazırlamak istiyorum. Lider yeteneği olarak bilim ve kültür üretimine bonus veren, özel bir süvari birimi ve özel bir kütüphane binası içeren örnek bir Unciv mod şablonu oluşturur musun? Hangi JSON dosyalarını hangi klasör yapısında kaydetmem gerektiğini ve oyun içi Mod Manager arayüzünden bunu nasıl test edebileceğimi adım adım açıklar mısın?
 
@@ -79,4 +79,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/unciv/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

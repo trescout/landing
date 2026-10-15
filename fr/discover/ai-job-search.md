@@ -47,7 +47,7 @@ cd .agents/skills/linkedin-search/cli && bun install && cd ../../../..
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Créez votre profil à l'aide de la commande /setup dans Claude Code. Ensuite, répertoriez les offres d'emploi appropriées avec la commande /scrape et utilisez la commande /apply pour créer un brouillon de votre CV et de votre lettre de motivation pour l'offre d'emploi que vous avez sélectionnée. Au cours du processus, demandez à l'intelligence artificielle d'évaluer sa compatibilité avec l'annonce et de donner son avis pour la préparation de l'entretien.
 

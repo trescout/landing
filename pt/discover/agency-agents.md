@@ -42,7 +42,7 @@ O projeto Agência-agentes cria uma estrutura de agência digital ao reunir agen
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso tornar meus processos de trabalho mais eficientes utilizando agentes especializados em inteligência artificial no projeto Agency Agents? Você pode explicar as etapas que preciso seguir para determinar quais agentes são adequados para mim e fazer a configuração?
 

@@ -1,6 +1,6 @@
 # City-building Game nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 11 Ekim 2026*
+*Geliştirme · Son güncelleme: 11 Ekim 2026*
 
 Oyuncuların sıfırdan bir kenti inşa ettiği, altyapıyı ve kaynakları yöneterek büyüttüğü strateji simülasyonu oyun türüdür.
 
@@ -40,8 +40,8 @@ Aynı anda binlerce bağımsız aracın, insan hareketinin ve ekonomik değişke
 - [Mesh](https://trescout.com/dictionary/mesh/)
 - [Spatial Reasoning](https://trescout.com/dictionary/spatial-reasoning/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/city-building-game/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

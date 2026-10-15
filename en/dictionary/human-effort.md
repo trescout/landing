@@ -1,6 +1,6 @@
 # What is Human Effort?
 
-*Dictionary · Dev · Last updated: June 13, 2026*
+*Dev · Last updated: June 13, 2026*
 
 It is the totality of mental and physical effort made by people to complete a project or task.
 

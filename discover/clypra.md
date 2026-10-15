@@ -29,7 +29,7 @@ brew install AIEraDev/tap/clypra
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Clypra video düzenleyicisini kullanarak profesyonel bir kurgu yapmak istiyorum. Uygulamanın sunduğu donanım hızlandırmalı işleme ve yapay zekâ destekli özellikleri kullanarak, videolarımda otomatik altyazı oluşturma ve akıllı yeniden çerçeveleme gibi işlemleri nasıl en verimli şekilde gerçekleştirebilirim? Adım adım bir iş akışı önerir misin?
 
@@ -51,4 +51,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/clypra/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

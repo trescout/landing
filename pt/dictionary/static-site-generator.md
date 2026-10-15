@@ -1,6 +1,6 @@
 # O que é Static Site Generator?
 
-*Glossário · Dev · Última atualização: 3 de agosto de 2026*
+*Dev · Última atualização: 3 de agosto de 2026*
 
 Uma ferramenta que pega conteúdos e templates prontos e os transforma em páginas fixas prontas para serem apresentadas ao usuário.
 

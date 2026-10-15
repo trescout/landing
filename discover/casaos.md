@@ -54,7 +54,7 @@ Eski bir bilgisayarı veya mini PC'yi tam teşekküllü bir kişisel buluta dön
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kişisel ev sunucumda CasaOS kurulu. Evimdeki tüm cihazlar için AdGuard Home (reklam engelleyici), Jellyfin (medya yayını) ve Tailscale (ev dışından güvenli erişim) servislerini kurup yapılandırmak istiyorum. CasaOS web panelinden özel Docker Compose veya uygulama mağazası üzerinden bu servisleri nasıl kuracağımı, disk paylaşımını nasıl ayarlayacağımı adım adım açıklar mısın?
 
@@ -87,4 +87,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/casaos/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

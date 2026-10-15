@@ -29,7 +29,7 @@ brew install xcodegen   # project generation
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso configurar meu iPhone ou iPad como um segundo monitor para meu Mac usando o OpenDisplay? Quais são as permissões de rede e os requisitos de tipo de cabo que devo observar ao conectar meu dispositivo via conexão com ou sem fio?
 

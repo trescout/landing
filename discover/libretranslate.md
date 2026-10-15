@@ -48,7 +48,7 @@ libretranslate --port 5000
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 LibreTranslate aracını kendi sunucumda barındırmak istiyorum. Argos Translate kütüphanesini temel alan bu açık kaynaklı çeviri motorunu sistemime kurmak ve çevrim dışı kullanıma hazır hale getirmek için izlemem gereken adımları, teknik detaylara boğulmadan, adım adım bir rehber şeklinde açıklar mısın?
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/libretranslate/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

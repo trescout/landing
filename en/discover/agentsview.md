@@ -49,7 +49,7 @@ agentsview usage daily
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to analyze the session history and cost data of my AI coding agents using the Agentsview tool. What commands should I use to discover the sessions of agents installed on my computer, see my daily cost summary, and review token usage details with a specific agent filter? Please explain me step by step how to use the agentsview usage daily and agentsview session usage \<id> commands and how to interpret the results.
 

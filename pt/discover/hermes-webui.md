@@ -39,7 +39,7 @@ python3 bootstrap.py
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o Hermes WebUI: baixe com 'git clone https://github.com/nesquena/hermes-webui.git hermes-webui', entre no diretório e execute 'python3 bootstrap.py'; Em seguida, use o agente Hermes na interface do navegador aberto.
 

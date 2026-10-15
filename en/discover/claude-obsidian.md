@@ -78,7 +78,7 @@ The system is not a source of truth. Use backups and source control for data; re
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Start a local Obsidian wiki workflow by associating sources with the source and claims ledgers.
 

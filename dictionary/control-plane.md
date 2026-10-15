@@ -1,6 +1,6 @@
 # Control Plane nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 31 Ağustos 2026*
+*Geliştirme · Son güncelleme: 31 Ağustos 2026*
 
 Bir sistemin nasıl çalışacağını yöneten, trafiği ve ayarları kontrol eden merkezi yönetim katmanıdır.
 
@@ -34,8 +34,8 @@ Sistem yeni komut alamaz veya trafiği yönetemez hale gelir, bu nedenle genelli
 - [Network Stack](https://trescout.com/dictionary/network-stack/)
 - [Cloud Native](https://trescout.com/dictionary/cloud-native/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/control-plane/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

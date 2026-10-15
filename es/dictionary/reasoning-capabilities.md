@@ -1,6 +1,6 @@
 # ¿Qué es Reasoning Capabilities?
 
-*Glosario · AI · Última actualización: 27 de septiembre de 2026*
+*AI · Última actualización: 27 de septiembre de 2026*
 
 La capacidad de una inteligencia artificial para resolver problemas complejos razonando y pensando paso a paso.
 

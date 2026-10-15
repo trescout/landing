@@ -31,7 +31,7 @@ git clone https://github.com/kepano/obsidian-skills.git ~/.opencode/skills/obsid
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Utilizo la herramienta Obsidian-skills para gestionar mis notas de Obsidian. Utilice este conjunto de habilidades para editar archivos Markdown en mis notas, actualizar el contenido de JSON Canvas o realizar las acciones necesarias a través de la interfaz de línea de comandos de Obsidian CLI. Quiero que crees un flujo de gestión de información eficiente, especialmente preservando las estructuras, conexiones y características complejas de mis notas.
 

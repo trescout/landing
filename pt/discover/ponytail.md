@@ -72,7 +72,7 @@ As porcentagens são médias do benchmark agentic corrigido em 12 tarefas de um 
 
 ## Primeiro prompt
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Escreva apenas o código necessário para a tarefa, então revise as alterações quanto à verificação, tratamento de erros, segurança e acessibilidade.
 

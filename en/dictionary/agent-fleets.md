@@ -1,6 +1,6 @@
 # What is Agent Fleets?
 
-*Dictionary · AI · Last updated: August 27, 2026*
+*AI · Last updated: August 27, 2026*
 
 A group of multiple artificial intelligence software that work in harmony with each other to complete complex tasks.
 

@@ -28,7 +28,7 @@ npm install @github/copilot-sdk
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a custom AI workflow in my application using the GitHub Copilot SDK. How can I configure the agent runtime provided by the SDK and integrate scheduling and ride-hailing features with my own application logic? Can you please explain the steps I should follow in connecting with different LLM providers, especially using the BYOK (bring your own key) method?
 

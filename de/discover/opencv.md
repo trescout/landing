@@ -27,7 +27,7 @@ pip install opencv-python
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Bildverarbeitungsprojekte mit der OpenCV-Bibliothek entwickeln. Wie kann ich grundlegende Bildverarbeitungstechniken, Objekterkennung oder maschinelle Lernprozesse in meine Computer-Vision-Anwendungen implementieren? Informieren Sie mich über die grundlegenden Funktionen, die ich in meinen Projekten verwenden kann, und darüber, wie ich von der Standardinfrastruktur dieser Bibliothek profitieren kann.
 

@@ -1,6 +1,6 @@
 # Was ist Guardrails?
 
-*Glossar · AI · Zuletzt aktualisiert: 9. Oktober 2026*
+*AI · Zuletzt aktualisiert: 9. Oktober 2026*
 
 Sicherheits- und Kontrollgrenzen, die verhindern, dass KI-Modelle schädliche, irreführende oder gegen festgelegte Regeln verstoßende Ausgaben erzeugen.
 

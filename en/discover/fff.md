@@ -42,7 +42,7 @@ For any file search or grep in the current git-indexed directory, use fff tools.
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Use fff tools for all file searching and content crawling (grep) operations in my project. These tools will return more efficient results thanks to their frequency-based sorting and fast indexing features.
 

@@ -52,7 +52,7 @@ python 5-eval.py
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to train a 64M parameter language model from scratch with PyTorch using the MiniMind repository. Could you explain step-by-step how to prepare the tokenizer based on my own Turkish text dataset, how to run the 1-pretrain.py script, and then how to fine-tune it with LoRA?
 

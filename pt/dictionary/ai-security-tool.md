@@ -1,6 +1,6 @@
 # O que é AI Security Tool?
 
-*Glossário · AI · Última atualização: 29 de junho de 2026*
+*AI · Última atualização: 29 de junho de 2026*
 
 Software que protege modelos de IA contra ataques cibernéticos, vazamentos de dados e manipulação maliciosa.
 

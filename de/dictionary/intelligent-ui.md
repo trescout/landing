@@ -1,6 +1,6 @@
 # Was ist Intelligent UI?
 
-*Glossar · AI · Zuletzt aktualisiert: 8. Oktober 2026*
+*AI · Zuletzt aktualisiert: 8. Oktober 2026*
 
 Eine intelligente Benutzeroberfläche, die durch das Erlernen der Nutzergewohnheiten ihre Form anpasst und Aufgaben erleichtert.
 

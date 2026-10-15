@@ -1,6 +1,6 @@
 # Data Layer nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 17 Temmuz 2026*
+*Geliştirme · Son güncelleme: 17 Temmuz 2026*
 
 Uygulamanızın veritabanı ile konuşmasını sağlayan, veriyi düzenleyen orta katmandır.
 
@@ -38,8 +38,8 @@ Doğru tasarlandığında performansı artırır, çünkü veriyi önbelleğe al
 - [API](https://trescout.com/dictionary/api/)
 - [Tech Stack](https://trescout.com/dictionary/tech-stack/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/data-layer/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Preprints?
 
-*Dictionary · AI · Last updated: October 8, 2026*
+*AI · Last updated: October 8, 2026*
 
 Draft studies that have not yet undergone scientific peer review, which researchers publish to share their results quickly.
 

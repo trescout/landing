@@ -35,7 +35,7 @@ dotnet run --project src/OpenClaw.Cli -- --help
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich verwende das OpenClaw Windows Node-Tool. Ich möchte meine lokalen Gateway-Verbindungen für diesen Assistenten für künstliche Intelligenz verwalten, auf den ich über die Taskleiste zugreife, und Vorgänge wie das Senden von Nachrichten über WebSocket überprüfen. Wie kann ich mithilfe der verfügbaren CLI-Tools meinen Verbindungsstatus überprüfen und Knotenberechtigungen auf dem System konfigurieren?
 

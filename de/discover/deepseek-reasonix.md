@@ -49,7 +49,7 @@ reasonix run "implement the TODOs in main.go"
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Während ich mit diesem künstlichen Intelligenz-Codierungsagenten arbeite, der auf dem Terminal läuft, entwickle ich Codevorschläge unter Berücksichtigung der aktuellen Struktur und Ziele meines Projekts. Konzentrieren Sie sich auf die Erstellung konsistenter, kostengünstiger Antworten über unsere langen Sitzungen hinweg mithilfe der Präfix-Cache-Stabilität. Stellen Sie beim Schreiben oder Debuggen von Code modulare und saubere Lösungen bereit, die den Anforderungen des Projekts entsprechen.
 

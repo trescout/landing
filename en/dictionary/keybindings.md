@@ -1,6 +1,6 @@
 # What is Keybindings?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Keybind (or keybinding) is the assignment of a keyboard key or key combination (e.g. Ctrl+C, Cmd+K) to instantly trigger a specific command, action, or macro within the software.
 

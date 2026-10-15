@@ -58,7 +58,7 @@ uv run main.py --help
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite extraire des données d'une plate-forme de médias sociaux spécifiée à l'aide de l'outil MediaCrawler. Veuillez me permettre de vérifier les paramètres dans le fichier config/base_config.py et d'expliquer étape par étape comment configurer la commande uv run main.py pour collecter des informations sur les publications et les commentaires en effectuant une recherche par mot clé pour la plate-forme xhs.
 

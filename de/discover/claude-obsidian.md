@@ -78,7 +78,7 @@ Dieses System ist keine einzige Quelle der Wahrheit. Verwenden Sie zusätzliche 
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Starte einen lokalen Obsidian-Wiki-Workflow, wobei Quellen mit Quellen- und Anspruchsregistern verknüpft werden.
 

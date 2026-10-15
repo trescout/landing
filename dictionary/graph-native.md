@@ -1,6 +1,6 @@
 # Graph-native nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 11 Ağustos 2026*
+*Veri & Altyapı · Son güncelleme: 11 Ağustos 2026*
 
 Verilerin birbirine düğümlerle bağlı olduğu bir yapıyı temel alan sistem tasarımıdır.
 
@@ -38,8 +38,8 @@ Verileriniz arasındaki ilişkiler, verinin kendisi kadar önemliyse bu yöntem 
 
 - [Semantica](https://trescout.com/discover/semantica/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/graph-native/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

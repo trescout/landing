@@ -28,7 +28,7 @@ npx likec4 start
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite visualiser mon architecture logicielle. Quelles sont les étapes de base que je dois suivre pour créer des diagrammes dynamiques à partir de ma base de code à l'aide de LikeC4, et à quoi dois-je faire attention lors de la définition de mon propre modèle architectural ?
 

@@ -1,6 +1,6 @@
 # Was ist PoC?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 > Proof of Concept
 

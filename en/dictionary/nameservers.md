@@ -1,6 +1,6 @@
 # What is Nameservers?
 
-*Dictionary · Dev · Last updated: August 17, 2026*
+*Dev · Last updated: August 17, 2026*
 
 It is a phone book that converts website names used by people into numerical addresses that computers understand.
 

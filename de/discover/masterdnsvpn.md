@@ -39,7 +39,7 @@ docker run -d \
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Tool MasterDnsVPN eine sichere Verbindung über DNS-Tunneling in einem zensierten Netzwerk herstellen. Wie kann ich die Serverseite mithilfe des gemeinsam genutzten Autoinstallationsskripts konfigurieren und welche grundlegenden Schritte sollte ich befolgen, um die Verbindung auf der Clientseite sicherzustellen? Bitte erläutern Sie die Netzwerkanforderungen, auf die ich während des Installationsvorgangs achten sollte, und die Methode zur Ausführung über Docker.
 

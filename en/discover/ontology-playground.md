@@ -33,7 +33,7 @@ npm run dev
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to design an ontology using Ontology-Playground. Load the starter template by selecting a field such as Retail, Healthcare, or Finance. Then, add new entity types to this template, define the relationships between them, and show me the steps I need to export this model I created in RDF/XML format.
 

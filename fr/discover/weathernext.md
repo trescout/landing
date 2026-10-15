@@ -26,7 +26,7 @@ pip install git+https://github.com/google-deepmind/weathernext.git@v0.3.0
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je dois faire une prévision météo à moyen terme pour une région spécifique à l'aide du modèle WeatherNext. Comment puis-je charger les pondérations du modèle via Google Cloud Bucket et démarrer le cycle de prévision en traitant les données météorologiques (telles que la température, la vitesse du vent) ? Pouvez-vous expliquer spécifiquement les étapes requises pour le suivi des ouragans ?
 

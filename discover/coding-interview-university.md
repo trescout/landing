@@ -15,7 +15,7 @@ Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisa
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Coding Interview University müfredatını kullanarak bir yazılım mühendisliği mülakatına hazırlanıyorum. Bu kaynakta yer alan veri yapıları, algoritmalar ve bilgisayar bilimleri konularını öğrenmek için bana günlük bir çalışma planı oluştur. Öğrenmem gereken temel konuları, hangi sırayla çalışmam gerektiğini ve pratik yapabileceğim kaynakları içeren, başlangıç seviyesinden ileri seviyeye doğru ilerleyen bir yol haritası hazırlar mısın?
 
@@ -35,4 +35,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/coding-interview-university/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

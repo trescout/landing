@@ -53,7 +53,7 @@ pnpm tauri dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich meine Markdown-basierte Wissensdatenbank mithilfe der Tolaria-Desktopanwendung strukturieren? Erklären Sie Schritt für Schritt, wie ich meine Notizen organisieren, meine Standard-Markdown-Dateien verwalten und mit der tastaturorientierten Befehlspalette produktiv werden kann, indem ich die Git-basierte Struktur der Anwendung, das Offline-Arbeitsprinzip und die mit KI-Agenten kompatiblen Funktionen verwende.
 

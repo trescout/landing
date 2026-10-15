@@ -40,7 +40,7 @@ npm run dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer une application Web en utilisant la bibliothèque Svelte. Configurez une structure de projet de base pour créer une interface Web simple en utilisant l'approche de compilation et la structure basée sur les composants de Svelte, qui diffèrent des frameworks traditionnels. Expliquez à quoi je dois faire attention pour que le code s'exécute efficacement dans le navigateur.
 

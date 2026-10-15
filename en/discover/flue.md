@@ -45,7 +45,7 @@ flue run hello --target node \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to develop an artificial intelligence agent using the Flue framework. How can I define a workflow using TypeScript in my project? Specifically, how can I configure the model with the createAgent function and interact with my agent with session.prompt? Using a simple 'hello-world' example, can you explain step by step how I can start an agent at runtime and get results?
 

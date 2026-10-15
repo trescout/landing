@@ -44,7 +44,7 @@ soup train
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite entraîner un modèle d'intelligence artificielle avec 8 milliards de paramètres à l'aide de la bibliothèque Soup sur mon ordinateur doté de 4 Go de mémoire graphique. Aidez-moi à créer un fichier de configuration YAML qui permet le streaming de couches et utilise la quantification 4 bits. Préparez le contenu du fichier soupe.yaml requis pour démarrer le processus de formation, puis expliquez étape par étape comment démarrer la formation à l'aide de ce fichier.
 

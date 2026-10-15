@@ -29,7 +29,7 @@ npm run dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstelle unter Verwendung der Liste der Open-Source-Tools des NoSignups-Projekts eine Aufstellung datenschutzorientierter digitaler Dienste, die vom Benutzer keine Registrierung oder E-Mail-Adresse verlangen. Erkläre, wie diese Tools in Kategorien wie Design, Entwicklung, Produktivität und Datenanalyse gruppiert sind. Biete insbesondere eine Anleitung zum Finden von Alternativen, die keine Kontoerstellung erfordern.
 

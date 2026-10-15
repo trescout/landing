@@ -47,9 +47,9 @@ BONSAI_MODEL=4B ./scripts/start_llama_server.sh
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
-Quero executar modelos de IA em meu dispositivo local usando o projeto bonsai-demo. Depois de clonar o repositório git necessário para instalação, preciso definir as informações do meu token HuggingFace e baixar as dependências e modelos com o comando ./setup.sh. Então, usando o comando ./scripts/start_llama_server.sh, posso levantar o servidor local e interagir com a IA através da porta 8080 através do meu navegador.
+Quero executar modelos de IA em meu dispositivo local usando o projeto bonsai-demo. Depois de clonar o repositório git necessário para instalação, preciso definir as informações do meu token Hugging Face e baixar as dependências e modelos com o comando ./setup.sh. Então, usando o comando ./scripts/start_llama_server.sh, posso levantar o servidor local e interagir com a IA através da porta 8080 através do meu navegador.
 
 ## Termos relacionados do glossário
 

@@ -23,7 +23,7 @@ Node.js bietet eine Laufzeitumgebung, die die Ausführung von JavaScript-Code au
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte eine JavaScript-basierte Serveranwendung mithilfe der Node.js-Umgebung entwickeln. Können Sie die grundlegenden Laufzeitfunktionen erläutern, die diese Plattform bietet, und die Strukturelemente, auf die ich beim Erstellen skalierbarer Netzwerkanwendungen achten sollte?
 

@@ -39,7 +39,7 @@ cargo run --bin quiche-server -- --cert apps/src/bin/cert.crt --key apps/src/bin
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Rust programlama dilinde yazilmis olan bu kutuphaneyi kullanarak QUIC paketlerini islemek ve ag baglanti durumlarini yonetmek istiyorum. Projeyi klonladiktan sonra istemciyi ve sunucuyu calistirmak icin hangi adimlari izlemeliyim?
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/quiche/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

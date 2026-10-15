@@ -52,7 +52,7 @@ python -m microduck_rl.enjoy --checkpoint checkpoint.pt
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite former une politique de marche pour le robot Microduck à l'aide de la bibliothèque microduck_rl de Pollen Robotics. Pouvez-vous expliquer les étapes à suivre pour configurer l'environnement MuJoCo, initialiser la commande d'entraînement avec l'algorithme PPO et transférer la politique de contrôle résultante au robot physique ?
 

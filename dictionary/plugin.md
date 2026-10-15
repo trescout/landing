@@ -1,6 +1,6 @@
 # Plugin nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Plugin (eklenti), bir yazılımın çekirdek kodunu değiştirmeden veya yeniden derlemeye gerek kalmadan sisteme yeni yetenekler, araçlar ve işlevler kazandıran bağımsız modüler yazılım bileşenidir.
 
@@ -84,8 +84,8 @@ MCP, yapay zeka modellerinin harici araçlar, veritabanları ve servislerle konu
 - [Codex Plugin Cc](https://trescout.com/discover/codex-plugin-cc/)
 - [Knowledge Work Plugins](https://trescout.com/discover/knowledge-work-plugins/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/plugin/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

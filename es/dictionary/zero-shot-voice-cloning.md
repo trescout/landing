@@ -1,6 +1,6 @@
 # ¿Qué es Zero-shot Voice Cloning?
 
-*Glosario · AI · Última actualización: 2 de agosto de 2026*
+*AI · Última actualización: 2 de agosto de 2026*
 
 Es la tecnología de transcribir la voz de una persona utilizando sólo una muestra muy corta, sin ningún entrenamiento especial previo.
 

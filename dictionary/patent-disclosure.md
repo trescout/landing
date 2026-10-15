@@ -1,6 +1,6 @@
 # Patent disclosure nedir, ne demek?
 
-*Sözlük · Geliştirme · Son güncelleme: 20 Eylül 2026*
+*Geliştirme · Son güncelleme: 20 Eylül 2026*
 
 Patent disclosure (patent açıklaması veya buluş bildirimi), bir buluşun patent koruması alabilmesi için teknik çalışma prensiplerinin, yenilikçi iddialarının ve uygulama yöntemlerinin yasal şartnamede kamuya açıkça beyan edilmesidir.
 
@@ -66,8 +66,8 @@ Açık kaynak lisansları (Apache 2.0 vb.) kullanıcılara patent hakkı da tan�
 
 - [Patent Disclosure Skill](https://trescout.com/discover/patent-disclosure-skill/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/patent-disclosure/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

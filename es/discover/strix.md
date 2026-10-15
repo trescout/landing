@@ -37,7 +37,7 @@ strix --target ./app-directory
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Realice un análisis de seguridad completo en el objetivo que especifiqué utilizando la herramienta Strix. Configure mis claves API requeridas al iniciar el escaneo e informe los hallazgos con evidencia verificable. Analice las vulnerabilidades en el directorio de mi aplicación o en la URL que especifique y proporcione un informe detallado que contenga hallazgos y sugerencias de soluciones.
 

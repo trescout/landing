@@ -41,7 +41,7 @@ wxc-exec.exe config.json
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter un extrait de code non fiable dans un conteneur isolé à l'aide de l'outil MXC développé par Microsoft. Selon la documentation du référentiel GitHub du projet, je dois préparer un fichier de configuration basé sur JSON et utiliser le binaire approprié à ma plateforme. Pouvez-vous créer un exemple de fichier de configuration JSON pour moi qui me permettra d'exécuter un script Python avec un système de fichiers et un accès réseau restreints, et expliquer étape par étape comment exécuter cette configuration avec wxc-exec.exe ?
 

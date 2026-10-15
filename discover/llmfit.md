@@ -43,7 +43,7 @@ llmfit
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sistemimin donanım özelliklerini analiz et ve mevcut RAM, CPU ve GPU kapasiteme göre çalıştırabileceğim en iyi yapay zekâ modellerini öner. Modelleri performans, bellek kullanımı ve kalite kriterlerine göre sıralayarak bana en uygun olanları listele.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/llmfit/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

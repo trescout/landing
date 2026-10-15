@@ -71,7 +71,7 @@ docker compose --profile full up -d
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero automatizar mis procesos de mensajería vía WhatsApp usando la herramienta OpenWA. Guíeme a través de los pasos de configuración básicos necesarios para crear una nueva sesión, enviar mensajes y escuchar los mensajes entrantes a través de un webhook utilizando puntos finales de API REST. Dígame a qué debo prestar atención, especialmente con respecto a la administración de sesiones múltiples y la seguridad de las claves API.
 

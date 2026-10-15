@@ -49,7 +49,7 @@ chmod +x ~/.claude/hooks/*.sh
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Claude Code kullanıyorum ve bu rehberdeki şablonları kullanarak iş akışımı optimize etmek istiyorum. Claude Code içerisinde /self-assessment komutunu çalıştırarak mevcut seviyemi belirlememe yardımcı ol ve ardından 01-slash-commands modülünden başlayarak bana özelleştirilmiş bir öğrenme yolu oluştur.
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-howto/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Was ist RLHF?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 > Reinforcement Learning from Human Feedback
 

@@ -40,7 +40,7 @@ python -m cli.main
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 TradingAgents aracını kullanarak finansal piyasa verilerini analiz etmek istiyorum. Kurulumu tamamladım ve gerekli API anahtarlarımı yapılandırdım. Ajanların piyasa koşullarını değerlendirmesi, teknik ve temel analiz yapması için sistemi nasıl başlatabilirim? Hangi komutla otonom ticaret ajanlarını devreye alıp strateji oluşturma sürecini başlatabilirim?
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tradingagents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -43,7 +43,7 @@ npx @mobilenext/mobile-mcp@latest
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Enumera las aplicaciones en los dispositivos móviles conectados y escanea los elementos en pantalla utilizando el servidor del Protocolo de Contexto de Modelo (Model Context Protocol) que se comunica con las herramientas de desarrollo móvil en mi computadora.
 

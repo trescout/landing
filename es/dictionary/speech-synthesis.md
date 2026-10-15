@@ -1,6 +1,6 @@
 # ¿Qué es Speech Synthesis?
 
-*Glosario · AI · Última actualización: 3 de junio de 2026*
+*AI · Última actualización: 3 de junio de 2026*
 
 Es la tecnología de la inteligencia artificial para convertir textos escritos en voces humanas.
 

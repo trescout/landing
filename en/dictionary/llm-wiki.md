@@ -1,6 +1,6 @@
 # What is LLM-Wiki?
 
-*Dictionary · AI · Last updated: August 4, 2026*
+*AI · Last updated: August 4, 2026*
 
 It is a structured information library where artificial intelligence models are fed from external sources to provide more accurate and up-to-date answers.
 

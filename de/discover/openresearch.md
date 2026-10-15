@@ -37,7 +37,7 @@ orx up
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte ein Forschungsprojekt auf OpenResearch starten. Ich möchte, dass du einen KI-Agenten wie Claude Code oder OpenCode verwendest, um eine Literaturrecherche durchzuführen, Hypothesen zu entwickeln und Experimente zum Testen dieser Hypothesen zu entwerfen. Verwalte den Prozess autonom, indem du alle während der Arbeit gewonnenen Erkenntnisse, Experimentergebnisse und Codeänderungen im lokalen Arbeitsbereich von OpenResearch protokollierst.
 

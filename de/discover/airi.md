@@ -33,7 +33,7 @@ Sie können es ganz einfach auf Ihrem eigenen System installieren, indem Sie der
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie die virtuelle Zeichenanwendung für künstliche Intelligenz namens AIRI auf meinem Computer: Wenn ich macOS verwende, führen Sie den Befehl „brew install --cask airi“ aus. Wenn ich Windows verwende, führen Sie den Befehl „winget install MoeruAI.AIRI“ aus und öffnen Sie die Anwendung.
 

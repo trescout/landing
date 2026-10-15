@@ -44,7 +44,7 @@ curl -fsSL https://hindsight.vectorize.io/get-cli | bash          # CLI
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero que mi agente de inteligencia artificial aprenda de las interacciones pasadas, no solo recordando el historial de conversación, sino tomando decisiones más coherentes con el tiempo. Ayúdame a configurar la instalación del servidor y las conexiones de cliente necesarias para integrar esta capa de memoria en mi proyecto.
 

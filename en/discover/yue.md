@@ -44,7 +44,7 @@ python examples/generate.py --request examples/song.json \
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a song using YuE2. Please prepare an editable melody and chord plan based on the lyrics and the music style I want. Then, use this plan to produce a full song recording including vocals and instrumental accompaniment. If I have a notation file, allow me to make edits using this file.
 

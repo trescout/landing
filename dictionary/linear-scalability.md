@@ -1,6 +1,6 @@
 # Linear Scalability nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 28 Temmuz 2026*
+*Veri & Altyapı · Son güncelleme: 28 Temmuz 2026*
 
 Sisteme eklenen kaynak miktarı arttıkça, performansın da aynı oranda düzenli bir şekilde artması durumu.
 
@@ -38,8 +38,8 @@ Sadece 'hızlı olmak' değildir, kaynak artışıyla performans artışının o
 
 - [Cassandra](https://trescout.com/discover/cassandra/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/linear-scalability/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

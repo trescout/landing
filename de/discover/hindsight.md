@@ -44,7 +44,7 @@ curl -fsSL https://hindsight.vectorize.io/get-cli | bash          # CLI
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte, dass mein KI-Agent aus vergangenen Interaktionen lernt und nicht nur den Gesprächsverlauf im Gedächtnis behält, sondern im Laufe der Zeit konsistentere Entscheidungen trifft. Hilf mir, das notwendige Server-Setup und die Client-Verbindungen zu konfigurieren, um diese Speicherebene in mein Projekt zu integrieren.
 

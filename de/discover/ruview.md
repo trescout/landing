@@ -72,7 +72,7 @@ Der RSSI-only-Modus auf einem Laptop ist für die grobe Erkennung von Anwesenhei
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich ein einfaches Szenario zur Bewegungserkennung mit simulierten WiFi-CSI-Daten bewerten?
 

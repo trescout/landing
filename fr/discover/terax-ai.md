@@ -27,7 +27,7 @@ pnpm tauri dev          # development
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Créer des invites système spécifiques à mon projet à l'aide du panneau d'intelligence artificielle de Terax et gérer la mémoire du projet via le fichier TERAX.md. Acceptez ou rejetez les différences basées sur l'IA pour les modifications de code et effectuez des tâches en plusieurs étapes avec approbation à l'aide du mode plan.
 

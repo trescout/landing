@@ -43,7 +43,7 @@ cognee-cli -ui
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Mit Cognee möchte ich meine Daten in einer Knowledge-Graph-Struktur speichern und meinem Agenten ermöglichen, diese Daten abzurufen, indem er sie in seinem Langzeitgedächtnis speichert. Bitte erstellen Sie einen Workflow, der es mir ermöglicht, mir Daten mit der Funktion cognee.remember() zu merken und auf der Grundlage dieser Daten mit cognee.recall() aussagekräftige Antworten zu generieren.
 

@@ -30,7 +30,7 @@ open http://localhost:31337
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Pour moi, je souhaite créer un système d'exploitation de vie personnelle en utilisant le système Personal AI Infrastructure (PAI). Pouvez-vous m'aider à préparer le système à l'aide de la commande d'installation existante, puis à configurer mon assistant numérique en réalisant mon premier entretien via le lifeboard sur localhost:31337 ?
 

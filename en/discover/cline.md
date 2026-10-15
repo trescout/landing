@@ -43,7 +43,7 @@ cline --team-name auth-sprint "Plan and implement user authentication with tests
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Analyze the file structure of my project and perform the assigned task by taking into account the existing code standards and the rules in the .clinerules file. Perform error checking while making code changes, run the necessary commands in the terminal, and proceed by getting my approval at each step.
 

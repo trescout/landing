@@ -19,7 +19,7 @@ stabiles Weltmodell; Es handelt sich um eine Plattform, die sicherstellt, dass d
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie Stable-Worldmodel in meiner Python-Umgebung mit dem Befehl „pip install Stable-Worldmodel[all]“ und helfen Sie mir bei der Vorbereitung eines kleinen Skripts, das Daten in einer Beispiel-PushT-Umgebung sammelt und ein Weltmodell trainiert und auswertet.
 

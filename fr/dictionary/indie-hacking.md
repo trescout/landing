@@ -1,6 +1,6 @@
 # Qu'est-ce que Indie Hacking ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 L'indie hacking (ou entrepreneuriat indépendant en français) est la culture consistant à développer des produits seul ou en petite équipe pour générer des revenus.
 

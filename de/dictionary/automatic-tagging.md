@@ -1,6 +1,6 @@
 # Was ist Automatic Tagging?
 
-*Glossar · Data · Zuletzt aktualisiert: 22. September 2026*
+*Data · Zuletzt aktualisiert: 22. September 2026*
 
 Automatisches Tagging (auf Türkisch Otomatik Etiketleme) ist der Prozess, bei dem Inhalte gelesen und mit Tags versehen werden.
 

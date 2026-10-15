@@ -48,7 +48,7 @@ docker compose down
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Grok2API kurulumunu tamamladım ve yönetici paneline giriş yaptım. Şimdi Grok Build, Web veya Console hesaplarımı sisteme nasıl tanımlayabilirim, model eşleştirmelerini nasıl yaparım ve dışarıdan kullanmak için API anahtarını hangi adımları izleyerek oluşturabilirim? Lütfen bu süreci adım adım açıkla.
 
@@ -70,4 +70,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grok2api/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

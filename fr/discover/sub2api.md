@@ -49,7 +49,7 @@ docker compose -f docker-compose.local.yml logs sub2api | grep "admin password"
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Comment puis-je configurer différents services d'IA tels que Claude, OpenAI, Gemini et Grok via une seule passerelle API à l'aide de la plateforme Sub2API ? Expliquez les étapes de base que je dois suivre pour allouer efficacement mes quotas d'abonnement et les intégrer à mes outils logiciels existants. Résumez également les problèmes juridiques et techniques auxquels je dois prêter attention afin de respecter les conditions de service de fournisseurs tels qu'Anthropic lors de l'utilisation de cette plateforme.
 

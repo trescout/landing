@@ -1,6 +1,6 @@
 # ¿Qué es Cognitive Operating System?
 
-*Glosario · AI · Última actualización: 27 de junio de 2026*
+*AI · Última actualización: 27 de junio de 2026*
 
 Es una arquitectura de software avanzada que procesa información y gestiona los procesos de toma de decisiones imitando los principios de funcionamiento de la mente humana.
 

@@ -36,7 +36,7 @@ npm install puppeteer
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Vous êtes un expert en automatisation Web. À l'aide de la bibliothèque Puppeteer, créez un simple script JavaScript qui ouvre une page Web, écrit du texte dans un champ spécifié et imprime les résultats à l'écran. Fournissez un exemple de code qui inclut les étapes permettant de lancer le navigateur, de créer une nouvelle page, d'accéder à une URL et d'imprimer le titre de la page sur la console.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce qu'OpenExecutive ?
 
-*Glossaire · AI · Dernière mise à jour : 22 septembre 2026*
+*AI · Dernière mise à jour : 22 septembre 2026*
 
 > Couche d'Exécution Organisationnelle Autonome
 

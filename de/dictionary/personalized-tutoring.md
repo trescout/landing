@@ -1,6 +1,6 @@
 # Was ist Personalized Tutoring?
 
-*Glossar · AI · Zuletzt aktualisiert: 16. Juli 2026*
+*AI · Zuletzt aktualisiert: 16. Juli 2026*
 
 Künstliche Intelligenz unterstützte Sonderpädagogik angepasst an die Verständnisgeschwindigkeit und Defizite des Schülers.
 

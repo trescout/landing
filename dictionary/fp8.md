@@ -1,6 +1,6 @@
 # FP8 nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 15 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 15 Ağustos 2026*
 
 > 8-bit Floating Point
 
@@ -40,8 +40,8 @@ Eski donanımlar bu formatı desteklemiyordu, yeni nesil çiplerle yaygınlaşt�
 - [Inference](https://trescout.com/dictionary/inference/)
 - [AI Models](https://trescout.com/dictionary/ai-models/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/fp8/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

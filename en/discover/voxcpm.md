@@ -41,7 +41,7 @@ Includes voice cloning. Impersonating a person's voice without permission create
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Run 'pip install voxcpm' to install the VoxCPM text-to-speech tool, then generate an audio file with the command 'voxcpm design --text "Hello world" --output out.wav'; If I want, clone that sound using 'voxcpm clone' with a reference sound file.
 

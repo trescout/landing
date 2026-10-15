@@ -1,6 +1,6 @@
 # O que é Subagents?
 
-*Glossário · AI · Última atualização: 24 de junho de 2026*
+*AI · Última atualização: 24 de junho de 2026*
 
 São unidades auxiliares que realizam tarefas menores e especializadas sob a gestão de um sistema principal de inteligência artificial.
 

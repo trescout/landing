@@ -1,6 +1,6 @@
 # Incremental Backup nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 12 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 12 Haziran 2026*
 
 Sadece en son yedeklemeden sonra değişen dosyaları kaydederek zamandan ve alandan tasarruf eden yedekleme yöntemidir.
 
@@ -41,8 +41,8 @@ Veri değişim hızınıza bağlı olarak günlük veya saatlik yapılabilir.
 
 - [Restic](https://trescout.com/discover/restic/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/incremental-backup/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

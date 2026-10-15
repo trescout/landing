@@ -1,6 +1,6 @@
 # ¿Qué es Mesh?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Mesh (su equivalente en español, red en malla) es una estructura de red en la que los dispositivos o servicios se conectan y transmiten datos entre sí sin depender de un servidor central.
 

@@ -43,7 +43,7 @@ fcc-codex
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Agissez en tant qu'agent de codage pour moi. A l'aide du fournisseur que j'ai configuré via Free Claude Code, effectuez les tâches logicielles que je vous confie, analysez des fragments de code et faites des suggestions. Lors de l'exécution d'opérations, basez les paramètres du modèle sur le panneau de gestion local et produisez des solutions efficaces en utilisant les capacités de Claude Code ou du Codex pendant le processus de codage.
 

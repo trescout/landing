@@ -1,6 +1,6 @@
 # Agentic Coding Tool nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 3 Haziran 2026*
+*Geliştirme · Son güncelleme: 3 Haziran 2026*
 
 Yazılım geliştirme süreçlerinde sadece kod yazmakla kalmayıp, hataları ayıklayan ve proje akışını yöneten otonom yapay zekâ yardımcılarıdır.
 
@@ -38,8 +38,8 @@ Genellikle evet, ancak projenin karmaşıklığı arttıkça aracın sunduğu re
 - [Agentic AI](https://trescout.com/dictionary/agentic-ai/)
 - [AI Skills](https://trescout.com/dictionary/ai-skills/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agentic-coding-tool/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

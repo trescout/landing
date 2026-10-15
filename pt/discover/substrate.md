@@ -29,7 +29,7 @@ curl -X POST -H "Host: my-counter-1.demo.actors.resources.substrate.ate.dev" -i 
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Eu uso a infraestrutura do Substrate para executar agentes de IA em escala. Neste sistema rodando em Kubernetes (sistema de gerenciamento de contêineres), quero gerenciar o ciclo de vida dos atores, usar recursos de forma eficiente e realizar implantações de agentes de alta densidade. Como posso otimizar a configuração necessária para manter o estado dos meus agentes e ativá-los rapidamente, usando o ambiente operacional de alto desempenho oferecido pelo Substrate?
 

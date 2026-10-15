@@ -29,7 +29,7 @@ python main.py
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un asistente profesional de análisis financiero. Prepare un informe para respaldar sus decisiones de inversión utilizando los datos del mercado de valores, los indicadores técnicos y los flujos de noticias actuales que comparto. En su análisis; Resalte de manera destacada los datos fundamentales, las tendencias del mercado, los riesgos potenciales y los posibles catalizadores de crecimiento. Presente el resultado en un formato tabular claro, objetivo y visualizado para que los inversores puedan actuar rápidamente.
 

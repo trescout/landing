@@ -31,7 +31,7 @@ cd embabel-agent-examples/scripts/kotlin
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero diseñar un agente de inteligencia artificial que pueda planificar acciones específicas y que se ejecute en la máquina virtual Java utilizando el marco Embabel. Ayúdame a crear un flujo que pueda tomar decisiones dinámicas, compatibles con los modelos de objetos existentes en mi código, mediante el uso de estructuras @Agent, @Goal y @Action en una arquitectura basada en Spring.
 

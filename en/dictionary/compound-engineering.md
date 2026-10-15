@@ -1,6 +1,6 @@
 # What is Compound Engineering?
 
-*Dictionary · Dev · Last updated: June 3, 2026*
+*Dev · Last updated: June 3, 2026*
 
 It is an AI-supported approach to work where each engineering step accumulates to facilitate the next.
 

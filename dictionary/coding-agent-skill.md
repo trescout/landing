@@ -1,6 +1,6 @@
 # Coding Agent Skill nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 7 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 7 Ekim 2026*
 
 Yapay zekâ tabanlı yazılım ajanlarının kod yazma, hata bulma, test etme ve projeyi yayına alma gibi yazılım geliştirme adımlarında uzmanlaştığı yetenek tanımlarıdır.
 
@@ -40,8 +40,8 @@ Geliştiriciler ajanın kullandığı araç tanımlarını ve sistem talimatlar�
 - [Agentic Skills](https://trescout.com/dictionary/agentic-skills/)
 - [AI Agent Skill](https://trescout.com/dictionary/ai-agent-skill/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/coding-agent-skill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

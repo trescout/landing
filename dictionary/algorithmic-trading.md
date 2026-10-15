@@ -1,6 +1,6 @@
 # Algorithmic Trading nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 3 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 3 Haziran 2026*
 
 Borsa ve finansal piyasalardaki alım-satım işlemlerinin, önceden belirlenmiş kurallar çerçevesinde yazılımlar tarafından otomatik yapılmasıdır.
 
@@ -41,8 +41,8 @@ Hayır, strateji hatalıysa çok hızlı zarar da ettirebilir.
 
 - [Awesome Systematic Trading](https://trescout.com/discover/awesome-systematic-trading/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/algorithmic-trading/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

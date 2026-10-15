@@ -29,7 +29,7 @@ curl -fsSL https://setup.agpt.co/install.sh -o install.sh && bash install.sh
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Belirlediğim hedefe ulaşmak için internette arama yapma, dosya yönetimi ve iş akışı planlama yeteneklerini kullanarak otonom bir ajan oluştur. İşin sonucunu net bir şekilde tanımlamamı bekle ve bu süreçte gerekli tüm adımları otomatik olarak yürüt.
 
@@ -47,4 +47,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autogpt/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

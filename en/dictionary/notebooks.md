@@ -1,6 +1,6 @@
 # What is Notebooks?
 
-*Dictionary · Dev · Last updated: June 20, 2026*
+*Dev · Last updated: June 20, 2026*
 
 They are interactive work environments where you can take notes while writing code and see the results instantly.
 

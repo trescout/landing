@@ -46,7 +46,7 @@ python demo/vibevoice_asr_inference_from_file.py --model_path microsoft/VibeVoic
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 VibeVoice modelini kullanarak elimdeki 60 dakikalık ses kaydını çözümlemek istiyorum. Konuşmacıların kim olduğunu, ne zaman konuştuklarını ve söyledikleri içeriği yapılandırılmış bir metin dosyası olarak almam gerekiyor. Ayrıca modelin teknik terimleri daha doğru tanıması için özel anahtar kelimeler eklemek istiyorum, bu süreci nasıl yapılandırabilirim?
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vibevoice/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

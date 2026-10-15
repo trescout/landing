@@ -45,7 +45,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ## Prompt d'intelligence artificielle pour les non-programmeurs
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Préparez une configuration de routage incluant OpenAI, Anthropic et les modèles Ollama locaux en utilisant la passerelle d'intelligence artificielle OmniRoute. Créez une règle de secours (fallback) qui bascule automatiquement vers le second modèle si le modèle principal ne répond pas, et listez les étapes d'exécution avec Docker Compose.
 

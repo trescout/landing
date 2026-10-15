@@ -1,6 +1,6 @@
 # O que é Exercises Dataset?
 
-*Glossário · Data · Última atualização: 1 de julho de 2026*
+*Data · Última atualização: 1 de julho de 2026*
 
 É um conjunto de dados práticos organizados que permite praticar enquanto aprende um assunto.
 

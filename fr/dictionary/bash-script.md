@@ -1,6 +1,6 @@
 # Qu'est-ce que Bash Script ?
 
-*Glossaire · Dev · Dernière mise à jour : 12 août 2026*
+*Dev · Dernière mise à jour : 12 août 2026*
 
 Il s'agit d'une séquence de commandes qui automatise les opérations en plusieurs étapes qui doivent être effectuées sur l'ordinateur en les rassemblant dans un seul fichier.
 

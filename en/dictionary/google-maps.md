@@ -1,6 +1,6 @@
 # What is Google Maps?
 
-*Dictionary · Data · Last updated: September 29, 2026*
+*Data · Last updated: September 29, 2026*
 
 It is a web-based digital map platform offering location, satellite imagery, live traffic information, and route planning.
 

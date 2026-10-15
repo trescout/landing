@@ -32,7 +32,7 @@ O upload automático pode estar sujeito aos termos de utilização das plataform
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o repositório social-auto-upload (github.com/dreammis/social-auto-upload) e use sua ferramenta de linha de comando 'sau' para primeiro fazer login em minha conta com 'sau douyin login' e, em seguida, faça upload automático de um vídeo com título e descrição com o comando 'sau douyin upload-video'.
 

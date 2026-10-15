@@ -37,7 +37,7 @@ npx skills add bradautomates/claude-video -g
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero que você analise o vídeo que compartilhei usando a ferramenta Claude Video. Responda o conteúdo do vídeo, seus momentos importantes e as perguntas que faço, com base nos enquadramentos visuais do vídeo e na transcrição do áudio. Caso não haja legenda no vídeo, converta o áudio em texto usando Whisper API e analise examinando os detalhes visuais (frames).
 

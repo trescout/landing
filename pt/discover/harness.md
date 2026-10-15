@@ -25,7 +25,7 @@ Adicionado como habilidade ao Claude Code; Depois, você pode pedir que eles est
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Instale o plugin Harness executando os comandos '/plugin marketplace add revfactory/harness' e depois '/plugin install chicote@harness-marketplace' no Claude Code, depois peça para configurar uma equipe de agentes de inteligência artificial adequada para o meu projeto dizendo "Criar um chicote para este projeto".
 

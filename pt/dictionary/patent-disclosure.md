@@ -1,6 +1,6 @@
 # Patent Disclosure: Divulgação técnica, estado da arte e propriedade intelectual
 
-*Glossário · Dev · Última atualização: 20 de setembro de 2026*
+*Dev · Última atualização: 20 de setembro de 2026*
 
 Patent disclosure (divulgação de patente ou suficiência descritiva) é o princípio jurídico que exige que o inventor revele publicamente sua criação técnica com clareza suficiente para que qualquer técnico no assunto possa reproduzi-la.
 

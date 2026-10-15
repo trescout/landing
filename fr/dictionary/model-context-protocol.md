@@ -1,6 +1,6 @@
 # Qu'est-ce que Model Context Protocol ?
 
-*Glossaire · AI · Dernière mise à jour : 20 juillet 2026*
+*AI · Dernière mise à jour : 20 juillet 2026*
 
 > MCP
 

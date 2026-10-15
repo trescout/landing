@@ -70,7 +70,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Apple Silicon Mac bilgisayarımda Omlx sunucusunu kullanarak yerel bir büyük dil modelini çalıştırmak istiyorum. Homebrew ile kurulumu tamamladıktan sonra sunucuyu arka planda çalıştıracak, menü çubuğundan model seçimini yönetecek ve Cursor kod editörü veya Python openai kütüphanesi üzerinden bu yerel modele nasıl bağlanacağımı adım adım açıklar mısın?
 
@@ -103,4 +103,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/omlx/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

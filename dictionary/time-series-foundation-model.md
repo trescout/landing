@@ -1,6 +1,6 @@
 # Time Series Foundation Model nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 18 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 18 Haziran 2026*
 
 Zamana bağlı verilerdeki değişimleri analiz edip gelecekteki durumları tahmin edebilen gelişmiş yapay zekâ modelidir.
 
@@ -38,8 +38,8 @@ Zamana bağlı bir düzeni olan her veride başarılıdır ancak tamamen rastgel
 
 - [Timesfm](https://trescout.com/discover/timesfm/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/time-series-foundation-model/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

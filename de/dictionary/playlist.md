@@ -1,6 +1,6 @@
 # Was ist Playlist?
 
-*Glossar · Data · Zuletzt aktualisiert: 19. September 2026*
+*Data · Zuletzt aktualisiert: 19. September 2026*
 
 Eine Playlist (auf Deutsch Wiedergabeliste genannt) ist eine geordnete Sammlung digitaler Audio-, Video- oder Dateninhalte, die zusammengestellt wurden, um nacheinander nach einer bestimmten Reihenfolge, einem Thema oder einer algorithmischen Logik abgespielt zu werden.
 

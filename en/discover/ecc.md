@@ -44,7 +44,7 @@ You can install it as an npm package (ecc-universal) or as a GitHub application.
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install the ECC operator system by running the commands '/plugin marketplace add https://github.com/affaan-m/ECC' and then '/plugin install ecc@ecc' in Claude Code; then use the /security-scan command to run a security scan on my project.
 

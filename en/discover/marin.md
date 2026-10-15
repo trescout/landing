@@ -70,7 +70,7 @@ The CPU smoke test is only for initial validation. CPU, GPU, and TPU dependencie
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Run training of a small model on CPU with the offline TinyStories flow as an initial validation.
 

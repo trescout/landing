@@ -38,7 +38,7 @@ curl https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/refs/heads/main/do
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I detect vulnerabilities in my artificial intelligence infrastructure using the AI-Infra-Guard platform? Explain the steps I need to follow to initiate the skill scanning and jailbreak evaluation processes, especially in agent-based systems.
 

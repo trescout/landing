@@ -43,7 +43,7 @@ Academic Research Skills est une bibliothèque Python développée pour Claude C
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite utiliser l'extension Academic Research Skills pour gérer mon processus de recherche académique. Engage un dialogue socratique pour créer le plan structurel de mon article et aide-moi à gérer le processus en déterminant à quelle étape de ma recherche je me trouve.
 

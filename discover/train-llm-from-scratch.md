@@ -26,7 +26,7 @@
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu depo (FareedKhan-dev/train-llm-from-scratch), PyTorch ile sıfırdan bir transformer/LLM eğitmeyi anlatan bir öğreticidir. README'yi incele ve bana Türkçe, adım adım bir uygulama planı çıkar: gereken donanım (GPU), veri indirme ve ön işleme, model yapılandırması, eğitim ve metin üretme aşamalarını sırayla açıkla.
 
@@ -62,4 +62,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/train-llm-from-scratch/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # What is Really Simple Syndication?
 
-*Dictionary · Data · Last updated: August 2, 2026*
+*Data · Last updated: August 2, 2026*
 
 > RSS
 

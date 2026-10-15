@@ -43,7 +43,7 @@ holehe test@gmail.com
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Überprüfen Sie mit dem Holehe-Tool, auf welchen Plattformen die [E-MAIL_ADRESI]-Adresse registriert ist, und präsentieren Sie die Ergebnisse in einer Liste.
 

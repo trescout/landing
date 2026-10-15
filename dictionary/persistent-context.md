@@ -1,6 +1,6 @@
 # Persistent Context nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 4 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 4 Ekim 2026*
 
 Yapay zekâ modellerinin sizinle yaptığı geçmiş konuşmaları ve önemli bilgileri, oturum kapansa bile unutmayıp aklında tutabilme yeteneğidir.
 
@@ -39,8 +39,8 @@ Kalıcı bağlam verileri şifreli veri tabanlarında saklanır; TreScout üzeri
 - [Long-term Memory](https://trescout.com/dictionary/long-term-memory/)
 - [Vector Database](https://trescout.com/dictionary/vector-database/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/persistent-context/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

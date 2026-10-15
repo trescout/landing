@@ -43,7 +43,7 @@ npx @mobilenext/mobile-mcp@latest
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Répertoriez les applications sur les appareils mobiles connectés et analysez les éléments à l'écran à l'aide du serveur Model Context Protocol qui communique avec les outils de développement mobile sur mon ordinateur.
 

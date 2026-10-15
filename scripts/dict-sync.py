@@ -174,6 +174,7 @@ SYS=("Sen TreScout için Türkçe teknoloji sözlüğü editörüsün; kod bilme
  "Niyet aynıysa KOYMA. Niyet gerçekten farklıysa (ör. tekil = kavram, çoğul = ekosistem/kategori/araç ailesi) EKLE ve "
  "'tanim' ile 'karistirilan' alanlarında ikizinden farkını açıkça yaz; iki sayfa birbirinin kopyası gibi okunmamalı. "
  "KURALLAR: 'siz' dili; em dash (—) YASAK; UYDURMA (emin değilsen genel-doğru); jargon yığma; marka TreScout. "
+ "Türkçe metinde 'AI' yazma, 'yapay zekâ' yaz (proje ve terim adları hariç: 'AI Hedge Fund' kalır); 'HuggingFace' değil 'Hugging Face'; noktalı virgül yalnız ögeleri arasında zaten virgül bulunan sıralı cümleleri ayırır, başka yerde nokta ya da virgül kullan; 'ama', 'ancak', 'fakat' öncesine virgül koyma; cümleye rakamla başlama. "
  "'AI' ve 'yapay zeka' YAZMA: her zaman 'yapay zekâ' (şapkalı â, küçük harf). İngilizce terimi parantezde verebilirsin. "
  "İki noktadan (:) sonra cümle geliyorsa BÜYÜK harfle başlat. "
  'Her YENİ terim için JSON: {"slug"(ingilizce-kucuk-tireli),"en"(görünen ingilizce ad),"full"(akronim açılımı veya ""),'
@@ -270,15 +271,15 @@ def render_page(e, en_map):
       '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')
     body=('<body>\n<a class="skip-link" href="#main">Ana içeriğe atla</a>\n'+NAV+'\n<main id="main">\n<article class="disc">\n'
       '<a class="disc-back" href="/dictionary/">← Sözlük</a>\n'
-      f'<div class="disc-top"><span class="disc-eyebrow">Sözlük · {esc(cattr)}</span><time class="dict-time" datetime="{TODAY_ISO}">Son güncelleme: {TODAY_TR}</time></div>\n'
+      f'<div class="disc-top"><span class="disc-eyebrow">{esc(cattr)}</span><time class="dict-time" datetime="{TODAY_ISO}">Son güncelleme: {TODAY_TR}</time></div>\n'
       f'<h1 class="disc-title">{esc(en)} <span class="disc-accent">nedir?</span></h1>\n{enline}\n<p class="disc-lead">{esc(kisa)}</p>\n{secs}\n'
       '<aside class="disc-cta"><p><strong>İlgili araçları ve günlük raporları keşfedin.</strong> Günlük raporlar herkese açık. Açılış duyuruları için erken erişim listesine katılabilirsiniz.</p>'
       +make_dict_form(slug)+'<a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>\n'
-      '<p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>\n'
+      '<p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve Hugging Face\'te öne çıkanları Türkçe özetler.</p>\n'
       '</article>\n</main>\n'+FOOTER+'\n<script src="/assets/subscribe.js" defer></script>\n<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>\n<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/provider-consent.js" defer></script>\n<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
     os.makedirs(os.path.join(DICT,slug),exist_ok=True)
     open(os.path.join(DICT,slug,"index.html"),"w",encoding="utf-8").write(head+body)
-    md=md_dosyasi(head+body,f"Kaynak: TreScout Teknoloji Sözlüğü · {canon}\nTreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.")
+    md=md_dosyasi(head+body,f"Kaynak: TreScout Teknoloji Sözlüğü · {canon}\nTreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.")
     open(os.path.join(DICT,slug+".md"),"w",encoding="utf-8").write(md)
 
 def render_index(manifest):

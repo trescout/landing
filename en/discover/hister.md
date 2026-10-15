@@ -66,7 +66,7 @@ The browser extension sends indexed page content to the configured Hister server
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Open the local interface, index selected pages with the browser extension, and verify searches using query filters.
 

@@ -41,7 +41,7 @@ npx skills list
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite améliorer mes processus de développement Web et de préparation de présentations en utilisant la collection Garden Skills. Pouvez-vous m'aider à intégrer des packages de compétences appropriés dans mon projet ?
 

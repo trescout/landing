@@ -55,7 +55,7 @@ make -j$(sysctl -n hw.logicalcpu)
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite convertir le fichier de modèle 3D dont je dispose en une structure maillée rectangulaire. Comment puis-je traiter mon fichier d'entrée avec un nombre cible spécifié de quadrilatères, une mise à l'échelle des bords et des paramètres d'arêtes vives à l'aide de l'outil Autoremesher ? Veuillez créer un exemple de configuration que je peux utiliser via la ligne de commande.
 

@@ -1,6 +1,6 @@
 # What is Cybersecurity Skills?
 
-*Dictionary · Dev · Last updated: June 24, 2026*
+*Dev · Last updated: June 24, 2026*
 
 It is the set of technical knowledge and competencies required to protect digital systems and data against cyber threats.
 

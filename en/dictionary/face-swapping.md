@@ -1,6 +1,6 @@
 # What is Face Swapping?
 
-*Dictionary · AI · Last updated: September 22, 2026*
+*AI · Last updated: September 22, 2026*
 
 Face swapping is the process of transferring the expression from one face to another face in a video.
 

@@ -43,7 +43,7 @@ uv run python -m ltx_pipelines.distilled --distilled-checkpoint-path models/ltx-
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Bitte erstellen Sie ein Video mit dem LTX-2-Modell, das die gewünschte Szene detailliert beschreibt und eine Audio- und Videosynchronisierung umfasst. Lassen Sie das Modell eine Ausgabe erstellen, indem Sie Szenendetails, das Aussehen der Figur, den Kamerawinkel und den Sprachtext angeben.
 

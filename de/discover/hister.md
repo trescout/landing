@@ -66,7 +66,7 @@ Die Browser-Erweiterung sendet Seiteninhalte (abgesehen von Favicon-Downloads) a
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Öffne die lokale Oberfläche, indiziere mit der Browser-Erweiterung ausgewählte Seiten und verifiziere Suchen mit Abfragefiltern.
 

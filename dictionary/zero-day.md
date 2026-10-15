@@ -1,6 +1,6 @@
 # Zero-day Exploit nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 3 Haziran 2026*
+*Geliştirme · Son güncelleme: 3 Haziran 2026*
 
 Henüz çözümü bulunmamış, yeni keşfedilen güvenlik açığıdır.
 
@@ -38,8 +38,8 @@ Yazılımlarınızı her zaman güncel tutarak ve şüpheli bağlantılardan ka�
 - [Open Source](https://trescout.com/dictionary/open-source/)
 - [Self-hosting](https://trescout.com/dictionary/self-hosting/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/zero-day/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

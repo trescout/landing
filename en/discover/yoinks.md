@@ -47,7 +47,7 @@ yoinks
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to download videos from platforms like YouTube, X, Instagram, or TikTok. Using this terminal-based tool, configure it to save the provided video link directly to my local download folder and offer resolution options. Ensure a clean download process that contains no ads or redirects during the operation.
 

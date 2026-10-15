@@ -20,7 +20,7 @@ Developer Portfolios es una colección ordenada de ejemplos de portafolios donde
 
 ## ¿Cómo usarlo con IA?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Le daré una lista de enlaces a sitios inspiradores de carteras personales de desarrolladores de software llamados 'carteras de desarrolladores'. Examine la lista y elija los portafolios más adecuados que pueda tomar como ejemplo según mi profesión, y obtendrá una hoja de ruta sobre cómo configurar mi propio sitio de portafolios. Mi dominio: [ej. desarrollador frontend]. Mi objetivo: [ej. Impresionante cartera para solicitud de empleo].
 

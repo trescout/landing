@@ -40,7 +40,7 @@ celld --bucket s3://my-cells-bucket --listen 0.0.0.0:8080 \
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero construir um sistema distribuído usando Celld. Após criar um espaço de armazenamento compatível com S3, explique passo a passo como os nós usarão esse espaço e como distribuir pacotes Wrangler. Resuma os detalhes técnicos em linguagem simples, especialmente sobre como os nós se descobrem e garantem a consistência dos dados no S3.
 

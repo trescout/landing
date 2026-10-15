@@ -38,11 +38,11 @@ pip install airllm
 
 ## Exemple d'utilisation de Python
 
-AirLLM a une syntaxe Python très simple, très similaire à l'API HuggingFace AutoModel :
+AirLLM a une syntaxe Python très simple, très similaire à l'API Hugging Face AutoModel :
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite exécuter un modèle avec 70 milliards de paramètres (par exemple méta-llama/Llama-3-70B-Instruct) en utilisant la bibliothèque AirLLM sur ma carte graphique locale avec une capacité VRAM de 4 Go. J'ai utilisé la commande pip install airllm pour l'installation. Pouvez-vous s'il vous plaît expliquer le code Python nécessaire pour charger mon modèle, générer une saisie de texte et éviter un débordement de mémoire ? Je sais que je dois m'assurer de disposer de suffisamment d'espace disque pendant le processus, pouvez-vous détailler les étapes à suivre ?
 
@@ -65,7 +65,7 @@ Je souhaite exécuter un modèle avec 70 milliards de paramètres (par exemple m
 - **Pour qui:** Il s'adresse aux chercheurs disposant de ressources matérielles limitées qui souhaitent tester, extraire des données et évaluer localement les modèles 70B et 405B haute capacité.
 - **Licence:** Apache-2.0 (Geniş özgürlük sunan açık kaynak lisansı)
 - **Besoin:** GPU VRAM minimum de 4 Go et espace disque SSD NVMe haute vitesse
-- **Écosystème:** Transformateurs Python, PyTorch et HuggingFace
+- **Écosystème:** Transformateurs Python, PyTorch et Hugging Face
 
 ## Liens
 

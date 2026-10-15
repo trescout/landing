@@ -1,6 +1,6 @@
 # What is Coding Agent?
 
-*Dictionary · AI · Last updated: June 18, 2026*
+*AI · Last updated: June 18, 2026*
 
 It is an artificial intelligence system that automates software development processes and can write code independently.
 

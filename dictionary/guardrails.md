@@ -1,6 +1,6 @@
 # Guardrails nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 9 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 9 Ekim 2026*
 
 Yapay zekâ modellerinin zararlı, yanıltıcı veya belirlenen kuralların dışına çıkan çıktılar üretmesini önleyen güvenlik ve denetim sınırlarıdır.
 
@@ -44,8 +44,8 @@ Tek başına sihirli bir çözüm değildir fakat bilinen açıkların ve komut 
 
 - [Litellm](https://trescout.com/discover/litellm/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/guardrails/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

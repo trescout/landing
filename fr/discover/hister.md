@@ -66,7 +66,7 @@ L'extension du navigateur envoie le contenu des pages indexées au serveur Histe
 
 ## Premier prompt
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Ouvrez l'interface locale, indexez les pages sélectionnées via l'extension du navigateur et vérifiez la recherche en utilisant les filtres de requête.
 

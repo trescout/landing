@@ -29,7 +29,7 @@ pip install -U pageindex
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PageIndex Python kütüphanesini kullanarak yerel modda bir belgeyi indekslemek ve yapay zekâ modeli ile belge üzerinde arama yapmak istiyorum. Kurulumu tamamladıktan sonra, OpenAI API anahtarımı tanımlayarak belgeyi sisteme yükleyip soru sormamı sağlayan örnek Python kodunu çalıştırabilir misin?
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pageindex/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Qu'est-ce que Home Automation ?
 
-*Glossaire · AI · Dernière mise à jour : 19 septembre 2026*
+*AI · Dernière mise à jour : 19 septembre 2026*
 
 L'domotique (Home Automation) est la gestion automatique de l'éclairage, de la climatisation, de la sécurité et des systèmes énergétiques au sein d'un logement, sans nécessiter d'intervention humaine, grâce à des capteurs, des protocoles réseau et des règles logicielles.
 

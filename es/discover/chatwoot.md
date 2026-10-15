@@ -50,7 +50,7 @@ docker compose up -d
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Responda preguntas haciéndose pasar por un representante de atención al cliente. Como asistente del Capitán AI en Chatwoot, resuelve automáticamente las preguntas más frecuentes y dirige los problemas complejos a los compañeros de equipo relevantes. Mejore la experiencia de atención al cliente brindando siempre información cortés, rápida y precisa.
 

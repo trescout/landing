@@ -36,7 +36,7 @@ npm run dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 MiroFish aracını kullanarak bir simülasyon başlatmak istiyorum. Öncelikle .env dosyamı yapılandırmam gerekiyor; LLM API anahtarımı ve Zep Cloud bilgilerimi bu dosyaya nasıl doğru şekilde eklerim? Ardından, elimdeki veri setini veya hikaye metnini sisteme yükleyerek ajanların etkileşime geçeceği bir dijital dünya oluşturmak için hangi adımları izlemeliyim? Simülasyonun sonuçlarını ve tahmin raporunu en verimli şekilde nasıl alabilirim?
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mirofish/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

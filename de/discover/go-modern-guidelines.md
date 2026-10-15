@@ -40,7 +40,7 @@ Die von JetBrains veröffentlichten go-modern-guidelines unterstützen KI-Codier
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Nutzen Sie ab sofort beim Schreiben von Code moderne Go-Standards. Berücksichtigen Sie die Version von Go in der Datei go.mod des Projekts und entscheiden Sie sich für die neuesten Sprachfunktionen und Standardbibliothekserweiterungen von Version 1.0 bis 1.27. Verwenden Sie Funktionen wie „max(a, b)“ anstelle von „if-else“-Blöcken, moderne Methoden wie „slices.Contains“ anstelle manueller Schleifen und aktuelle Muster wie „cmp.Or“ anstelle von Nullprüfungen.
 

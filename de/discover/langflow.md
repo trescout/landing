@@ -39,7 +39,7 @@ langflow run
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit Langflow einen Agenten für künstliche Intelligenz erstellen. Leiten Sie mich beim Entwerfen eines grundlegenden Sprachmodellflusses mithilfe der visuellen Schnittstelle. Erklären Sie Schritt für Schritt, welche Komponenten ich ziehen muss, wie ich diese Komponenten miteinander verbinde und wie ich den von mir erstellten Flow als API exportieren kann.
 

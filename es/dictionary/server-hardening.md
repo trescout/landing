@@ -1,6 +1,6 @@
 # ¿Qué es Server Hardening?
 
-*Glosario · Dev · Última actualización: 10 de julio de 2026*
+*Dev · Última actualización: 10 de julio de 2026*
 
 Es el proceso de reducir el riesgo de ataque desactivando funciones innecesarias en un servidor y reforzando la configuración de seguridad.
 

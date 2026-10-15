@@ -36,7 +36,7 @@ pi-web
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte meine Arbeit mit dem Pi-Codierungsagenten visualisieren und meine Sitzungen effizienter verwalten. Wie kann ich meine lokalen Sitzungsdateien über den Browser anzeigen, meinen Chat-Verlauf bearbeiten und über die Benutzeroberfläche mit dem Pi Web-Tool eine Vorschau meiner Projektdateien anzeigen? Erklären Sie Schritt für Schritt, wie ich die Modellkonfiguration und das Talentmanagement vereinfachen kann, indem ich den nach der Installation im Browser geöffneten Arbeitsbereich verwende.
 

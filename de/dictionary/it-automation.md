@@ -1,6 +1,6 @@
 # Was ist IT Automation?
 
-*Glossar · Dev · Zuletzt aktualisiert: 31. Juli 2026*
+*Dev · Zuletzt aktualisiert: 31. Juli 2026*
 
 Routinemäßige und sich wiederholende Aufgaben in Computersystemen werden durch Software ausgeführt, ohne dass Menschen dazu erforderlich sind.
 

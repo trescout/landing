@@ -46,7 +46,7 @@ jcode --provider ollama --model llama3.2 run 'hello'
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero probar el rendimiento y la capacidad de gestión de sesiones múltiples de mi agente de IA centrado en la codificación. Permítame optimizar el uso de recursos de mi agente y configurar un entorno de prueba estándar utilizando el marco jcode.
 

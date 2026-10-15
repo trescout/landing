@@ -1,6 +1,6 @@
 # Session Intelligence nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 14 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 14 Haziran 2026*
 
 Kullanıcıların etkileşimlerini analiz ederek davranışlarını anlayan ve daha iyi deneyim sunmayı hedefleyen sistem.
 
@@ -38,8 +38,8 @@ Kullanıcının uygulamada daha az çaba harcayarak istediğine ulaşmasını sa
 - [AI Agent](https://trescout.com/dictionary/ai-agent/)
 - [Generative UI](https://trescout.com/dictionary/generative-ui/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/session-intelligence/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

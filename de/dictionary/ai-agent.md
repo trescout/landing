@@ -1,6 +1,6 @@
 # Was ist AI Agent?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 Ein KI-Agent (auf Türkisch: Agent der künstlichen Intelligenz) ist eine autonome Software, die Werkzeuge nutzt und Entscheidungen trifft, um das Ziel zu erreichen.
 

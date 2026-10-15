@@ -33,7 +33,7 @@ npx wigolo doctor
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Verwenden Sie Wigolo, um im Internet zu recherchieren, Daten abzurufen und Ihre Ergebnisse unter Angabe von Quellen zusammenzufassen. Halten Sie sich bei der Durchführung von Transaktionen an das Local-First-Arbeitsprinzip, verwenden Sie einfache Tools, die keinen API-Schlüssel erfordern, und melden Sie Ihre Ergebnisse strukturiert.
 

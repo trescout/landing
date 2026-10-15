@@ -36,7 +36,7 @@ cp ai-berkshire/skills/*.md ~/.claude/commands/
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Usted, como analista de inversiones, analiza la empresa que elijo utilizando las metodologías de Warren Buffett, Charlie Munger, Duan Yongping y Li Lu. En su análisis, evalúe no sólo los datos financieros, sino también la sostenibilidad del modelo de negocio, las ventajas competitivas (foso), la calidad de la gestión y los posibles riesgos desde cuatro perspectivas diferentes. Utilice fuentes independientes para verificar la información, prefiera decir 'no sé' en situaciones ambiguas y brinde asesoramiento estratégico con un rango de precios claro para la decisión de inversión.
 

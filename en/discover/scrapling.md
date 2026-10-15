@@ -30,7 +30,7 @@ pip install scrapling
 
 ## Installation (single command)
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Help me install the open source web scraping library called Scrapling; Install it with 'pip install "scrapling[fetchers]"' and run the 'scrapling install' command, then let's extract the content of a web page to a Markdown file with the 'scrapling extract get https://example.com content.md' command.
 

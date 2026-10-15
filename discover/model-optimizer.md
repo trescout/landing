@@ -25,7 +25,7 @@ pip install -U nvidia-modelopt[all]
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 NVIDIA Model Optimizer kutuphanesini kullanarak derin ogrenme modellerini sikistirmak ve optimize etmek istiyorum. Bu aracin nasil kurulacagini ve modelleri hizlandirmak icin hangi adimlari izlemem gerektigini bana aciklar misin?
 
@@ -48,4 +48,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/model-optimizer/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

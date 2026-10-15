@@ -27,7 +27,7 @@ brew install just
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Wie kann ich mit der von der Bitchat-Anwendung angebotenen Hybridstruktur aus Bluetooth Mesh und Nostr-Protokoll sicher Nachrichten an meinen engsten Kreis senden, wenn kein Internet verfügbar ist? Führen Sie mich Schritt für Schritt durch die Anleitung zum Starten eines lokalen Community-Chats mithilfe der IRC-ähnlichen Befehle und standortbasierten Kanalfunktionen, die die App bietet.
 

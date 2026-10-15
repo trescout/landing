@@ -1,6 +1,6 @@
 # O que é Reasoning?
 
-*Glossário · AI · Última atualização: 30 de setembro de 2026*
+*AI · Última atualização: 30 de setembro de 2026*
 
 É a capacidade da inteligência artificial de processar as informações fornecidas não apenas com base na memorização, mas passando-as por um filtro lógico para chegar a conclusões passo a passo.
 

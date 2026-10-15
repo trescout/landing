@@ -29,7 +29,7 @@ brew install xcodegen   # project generation
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I configure my iPhone or iPad as a second monitor for my Mac using OpenDisplay? What are the network permissions and cable type requirements I should pay attention to when connecting my device via wired or wireless connection?
 

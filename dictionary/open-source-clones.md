@@ -1,6 +1,6 @@
 # Open-Source Clones nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 15 Haziran 2026*
+*Geliştirme · Son güncelleme: 15 Haziran 2026*
 
 Popüler yazılımların kaynak kodlarının herkesin erişimine açık şekilde kopyalanarak oluşturulan benzerleridir.
 
@@ -38,8 +38,8 @@ Genellikle daha uygun maliyetli oldukları, kendi ihtiyaçlarınıza göre deği
 - [Clone](https://trescout.com/dictionary/clone/)
 - [Clones](https://trescout.com/dictionary/clone/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/open-source-clones/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

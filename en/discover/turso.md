@@ -44,7 +44,7 @@ tursodb
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to manage a SQLite compatible in-process database with Turso database. Walk me through the process of creating database tables, inserting data, and querying through my current setup. Specifically, provide examples of how to interact with SQLite syntax and manage data.
 

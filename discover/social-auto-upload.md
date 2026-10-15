@@ -40,7 +40,7 @@ Otomatik yükleme, platformların **kullanım şartlarına** takılabilir (spam/
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 social-auto-upload deposunu (github.com/dreammis/social-auto-upload) kur ve onun 'sau' komut satırı aracını kullanarak önce 'sau douyin login' ile hesabıma giriş yap, sonra 'sau douyin upload-video' komutuyla bir videoyu başlık ve açıklamayla otomatik yükle.
 
@@ -59,4 +59,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/social-auto-upload/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

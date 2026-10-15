@@ -31,8 +31,8 @@ const REPORTS_DIR = path.join(ROOT, 'reports');
 const sourceTitleMap = {
   'github': 'GitHub Trending',
   'hackernews': 'Hacker News',
-  'huggingface': 'HuggingFace Daily Models',
-  'hfpapers': 'HuggingFace Daily Papers',
+  'huggingface': 'Hugging Face Daily Models',
+  'hfpapers': 'Hugging Face Daily Papers',
   'lobsters': 'Lobsters Tech Discussions'
 };
 
@@ -141,7 +141,7 @@ targetDates.forEach(dateStr => {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${enDateFormatted} · TreScout Full Daily Technology Intelligence</title>
 <link rel="icon" type="image/x-icon" sizes="16x16 32x32 48x48" href="/favicon.ico"> <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<meta name="description" content="TreScout Daily Technology Intelligence Report for ${enDateFormatted}. Featuring ${totalItems} top highlights across GitHub, Hacker News, and HuggingFace.">
+<meta name="description" content="TreScout Daily Technology Intelligence Report for ${enDateFormatted}. Featuring ${totalItems} top highlights across GitHub, Hacker News, and Hugging Face.">
 <link rel="canonical" href="https://trescout.com/en/reports/${dateStr}/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/reports/${dateStr}/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/reports/${dateStr}/">
@@ -168,7 +168,7 @@ targetDates.forEach(dateStr => {
       
       <div style="margin: 24px 0; padding: 18px; background: rgba(95, 168, 211, .08); border-left: 4px solid var(--accent); border-radius: 0 12px 12px 0;">
         <p style="margin: 0; font-size: 16.5px; line-height: 1.6; color: var(--ink);">
-          Daily technology intelligence compilation for ${enDateFormatted}. Covering featured developer tools, open-source repositories, and AI research papers across GitHub, Hacker News, and HuggingFace.
+          Daily technology intelligence compilation for ${enDateFormatted}. Covering featured developer tools, open-source repositories, and AI research papers across GitHub, Hacker News, and Hugging Face.
         </p>
       </div>
 

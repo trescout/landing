@@ -49,7 +49,7 @@ kilo run --auto "run tests and fix any failures"
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 As a software development agent, I need you to manage my natural language code generation, debugging, or architecture planning processes in my current project directory. I want you to choose the one that best suits my task among the more than 500 models offered by Kilo, review the codes you have written with your own self-audit mechanism, and deliver them in accordance with performance and security standards.
 

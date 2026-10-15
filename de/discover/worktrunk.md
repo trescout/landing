@@ -49,7 +49,7 @@ wt switch -c -x claude feat
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Worktrunk verwenden, um einen neuen Arbeitsbaum in meinem bestehenden Git-Projekt zu erstellen und eine parallele Aufgabe in diesem Bereich zu starten. Wie sollte ich die wt-Befehle verwenden, um Arbeitsbäume so einfach wie Branches zu verwalten, und wie kann ich Hooks nutzen, um meinen Workflow zu automatisieren?
 

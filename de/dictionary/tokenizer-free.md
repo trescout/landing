@@ -1,6 +1,6 @@
 # Was ist Tokenizer-free?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Architektur der künstlichen Intelligenz, die Rohdaten direkt verarbeitet, ohne die Texte in kleine Stücke zu zerlegen.
 

@@ -37,7 +37,7 @@ hivemind status
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a common memory layer between my AI agents using the Hivemind tool. After completing the installation with the command npm install -g @deeplake/hivemind && hivemind install, explain step by step how my agents can share historical session data more efficiently and how to automatically convert this data into skill files.
 

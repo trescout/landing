@@ -43,7 +43,7 @@ docker compose up -d
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to automate my content production processes using the AiToEarn platform. First of all, I created an account on aitoearn.ai or aitoearn.cn and received my API Key. How can I complete the integration into tools like Claude, Cursor or OpenClaw using this key? Also, can you explain the basic steps I need to follow to publish my content on multiple social media platforms simultaneously and activate monetization models (CPS, CPE, CPM)?
 

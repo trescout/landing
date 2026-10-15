@@ -49,7 +49,7 @@ omp completions fish > ~/.config/fish/completions/omp.fish
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I started using the Oh My Pi tool on my terminal. How can I optimize my workflow by using advanced features such as LSP support, debugging, and subagent management in my projects with this AI coding agent? Explain step by step how to use the built-in tools this tool offers in the most efficient way, especially in code editing, file reading and debugging.
 

@@ -1,6 +1,6 @@
 # Agentic Skills Framework nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 11 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 11 Haziran 2026*
 
 Yapay zekâların bağımsız hareket etme ve araç kullanma yeteneklerini geliştirmek için kullanılan kurallar bütünüdür.
 
@@ -38,8 +38,8 @@ Evet, agent'ın görevine göre yetenek çerçevesi özelleştirilir.
 - [Agentic AI](https://trescout.com/dictionary/agentic-ai/)
 - [AI Agent Skill](https://trescout.com/dictionary/ai-agent-skill/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agentic-skills-framework/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

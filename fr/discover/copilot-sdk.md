@@ -28,7 +28,7 @@ npm install @github/copilot-sdk
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer un workflow d'IA personnalisé dans mon application à l'aide du SDK GitHub Copilot. Comment puis-je configurer le runtime de l'agent fourni par le SDK et intégrer les fonctionnalités de planification et de covoiturage à ma propre logique d'application ? Pouvez-vous s'il vous plaît expliquer les étapes que je dois suivre pour me connecter avec différents fournisseurs de LLM, notamment en utilisant la méthode BYOK (apportez votre propre clé) ?
 

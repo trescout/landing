@@ -22,7 +22,7 @@ Project N.O.M.A.D; It is a self-sufficient, offline computer building project th
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 On a Debian-based system (Ubuntu recommended), paste and run the installation command below into the terminal, then open http://localhost:8080 from the browser to help me use the offline information server.
 

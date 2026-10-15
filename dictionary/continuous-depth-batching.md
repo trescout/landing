@@ -1,6 +1,6 @@
 # Continuous Depth Batching nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 29 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 29 Eylül 2026*
 
 Yapay zekâ modellerinin aynı anda gelen çok sayıda isteği beklemeden, sürekli ve hızlı bir şekilde işlemesini sağlayan yöntem.
 
@@ -35,8 +35,8 @@ Evet, aynı donanım üzerinde daha fazla kullanıcıya aynı anda hizmet vermey
 - [GPU](https://trescout.com/dictionary/gpu/)
 - [LLM Inference](https://trescout.com/dictionary/llm-inference/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/continuous-depth-batching/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

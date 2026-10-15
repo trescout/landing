@@ -1,6 +1,6 @@
 # Qu'est-ce que Bloatware ?
 
-*Glossaire · Dev · Dernière mise à jour : 18 juin 2026*
+*Dev · Dernière mise à jour : 18 juin 2026*
 
 Il s'agit de logiciels préinstallés sur l'ordinateur ou le téléphone, qui occupent généralement de l'espace inutile et ralentissent le système.
 

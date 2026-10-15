@@ -44,7 +44,7 @@ poetry run python src/main.py --ticker AAPL,MSFT,NVDA
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 This tool uses autonomous agents that mimic the strategies of famous investors such as Warren Buffett, Peter Lynch, and Michael Burry to analyze financial markets. By giving certain stock symbols (e.g. AAPL, MSFT) to AI agents, you can examine how these agents evaluate market data, fundamental indicators and technical analysis and make decisions with the logic of a mutual fund.
 

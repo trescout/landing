@@ -1,6 +1,6 @@
 # Qu'est-ce que Traces ?
 
-*Glossaire · Dev · Dernière mise à jour : 27 juin 2026*
+*Dev · Dernière mise à jour : 27 juin 2026*
 
 Il s'agit d'enregistrements de surveillance qui montrent étape par étape par quelles étapes passe une transaction dans le système.
 

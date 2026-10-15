@@ -34,7 +34,7 @@ obliteratus ui
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Analysez les comportements de rejet dans un modèle d'IA et supprimez chirurgicalement les structures internes qui déclenchent ces comportements sans nuire aux capacités linguistiques générales du modèle. Pendant le processus, utilisez des techniques telles que la décomposition SVD pour identifier les contraintes et garantir que le modèle répond sans obstacles artificiels.
 

@@ -39,7 +39,7 @@ go version
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Go programlama dili ile basit, güvenilir ve verimli yazılımlar geliştirmek istiyorum. Bu dilin temel sözdizimi yapısını, eşzamanlılık yönetimini ve modern bulut bilişim projelerinde nasıl kullanıldığını başlangıç seviyesinde bir yazılımcı için açıkla.
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/go/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

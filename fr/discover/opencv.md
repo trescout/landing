@@ -27,7 +27,7 @@ pip install opencv-python
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite développer des projets de traitement d'images en utilisant la bibliothèque OpenCV. Comment puis-je mettre en œuvre des techniques de base de traitement d’images, des processus de détection d’objets ou d’apprentissage automatique dans mes applications de vision par ordinateur ? Guidez-moi sur les fonctions de base que je peux utiliser dans mes projets et comment je peux bénéficier de l'infrastructure standard offerte par cette bibliothèque.
 

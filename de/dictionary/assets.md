@@ -1,6 +1,6 @@
 # Assets: Web-Ressourcen, 3D-Pipelines, ITAM und DAM-Systeme
 
-*Glossar · Dev · Zuletzt aktualisiert: 19. September 2026*
+*Dev · Zuletzt aktualisiert: 19. September 2026*
 
 Assets (digitale Ressourcen oder Vermögenswerte) bezeichnen in der Informationstechnik nicht-ausführbare Hilfsdateien wie Grafiken, Webfonts, 3D-Modelle, inventarisierte IT-Unternehmensgüter und multimediale Markendaten.
 

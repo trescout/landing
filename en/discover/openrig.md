@@ -30,7 +30,7 @@ rig setup --dry-run
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to coordinate Claude Code and Codex agents in a single system using OpenRig. After checking the Node.js and tmux requirements, help me review the installation plan with the npm install -g @openrig/cli and rig setup --dry-run commands, and guide me through the steps to launch the team.
 

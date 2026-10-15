@@ -1,6 +1,6 @@
 # Inference Engine nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 3 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 3 Ağustos 2026*
 
 Eğitilmiş bir yapay zekâ modelini kullanarak, ona verilen yeni girdilere karşı tahmin veya sonuç üreten yazılım motoru.
 
@@ -42,8 +42,8 @@ Evet, iyi bir inference engine modelin daha hızlı yanıt vermesini sağlar.
 
 - [Ds4](https://trescout.com/discover/ds4/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/inference-engine/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

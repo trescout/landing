@@ -1,6 +1,6 @@
 # Qu'est-ce que Compiler ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Un compilateur est le programme qui convertit le code que vous écrivez en langage machine compréhensible par l'ordinateur.
 

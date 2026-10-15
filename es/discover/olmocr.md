@@ -34,7 +34,7 @@ conda activate olmocr
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero convertir los documentos PDF que tengo a un formato Markdown limpio que los modelos de inteligencia artificial puedan leer fácilmente. ¿Puedes explicarme paso a paso los pasos de instalación necesarios para este proceso y el método para ejecutarlo en la GPU local?
 

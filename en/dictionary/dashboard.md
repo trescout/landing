@@ -1,6 +1,6 @@
 # What is Dashboard?
 
-*Dictionary · Dev · Last updated: June 22, 2026*
+*Dev · Last updated: June 22, 2026*
 
 A panel that allows you to visually track complex data and statistics on a single screen.
 

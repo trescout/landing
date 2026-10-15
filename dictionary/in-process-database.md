@@ -1,6 +1,6 @@
 # In-process Database nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 23 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 23 Haziran 2026*
 
 Ayrı bir sunucuya ihtiyaç duymadan doğrudan uygulamanın içinde çalışan hafif veri depolama sistemidir.
 
@@ -38,8 +38,8 @@ Hayır, genellikle sadece bir kütüphane dosyası ekleyerek hemen kullanmaya ba
 - [Database](https://trescout.com/dictionary/database/)
 - [Vector Database](https://trescout.com/dictionary/vector-database/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/in-process-database/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

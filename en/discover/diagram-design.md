@@ -35,7 +35,7 @@ ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-desig
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Tell Claude Code or whatever AI assistant you use to analyze the architecture or workflow of my current project. Then, ask it to create a clean HTML and SVG diagram by choosing the one that best suits the topic I'm explaining from the 27 different visual types in the diagram-design library. Specify that the design reference my website so that it is compatible with the colors and visual language of my brand.
 

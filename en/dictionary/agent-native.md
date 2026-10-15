@@ -1,6 +1,6 @@
 # What is Agent-native?
 
-*Dictionary · AI · Last updated: August 16, 2026*
+*AI · Last updated: August 16, 2026*
 
 Systems are designed to make autonomous decisions without waiting for human commands.
 

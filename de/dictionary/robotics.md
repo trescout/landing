@@ -1,6 +1,6 @@
 # Was ist Robotics?
 
-*Glossar · AI · Zuletzt aktualisiert: 14. Oktober 2026*
+*AI · Zuletzt aktualisiert: 14. Oktober 2026*
 
 Technologiebereich, der sich mit dem Design, der Herstellung und der Ausführung von Aufgaben in der physischen Welt durch Roboter beschäftigt.
 

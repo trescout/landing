@@ -1,6 +1,6 @@
 # What is Collaborative Design Tool?
 
-*Dictionary · Dev · Last updated: September 28, 2026*
+*Dev · Last updated: September 28, 2026*
 
 They are digital tools that enable designers and developers to work together simultaneously on the same interface design via a web browser.
 

@@ -19,7 +19,7 @@ Data Engineering Zoomcamp is a free nine-week course offered by DataTalksClub th
 
 ## How to use it with AI?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I will give you the content of a free 9-week course called 'Data Engineering Zoomcamp' that teaches data engineering with tools like Docker, Terraform, BigQuery, dbt, Spark and Kafka. Examine the curriculum and determine which module I should start with based on my knowledge level, and create a weekly study plan for me. My level: [eg. beginner]. My goal: [eg. becoming a data engineer].
 

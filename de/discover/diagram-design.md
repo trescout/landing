@@ -35,7 +35,7 @@ ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-desig
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Sagen Sie Claude Code oder einem anderen KI-Assistenten, den Sie verwenden, um die Architektur oder den Arbeitsablauf meines aktuellen Projekts zu analysieren. Bitten Sie es dann, ein sauberes HTML- und SVG-Diagramm zu erstellen, indem Sie aus den 27 verschiedenen visuellen Typen in der Diagrammdesign-Bibliothek dasjenige auswählen, das am besten zu dem von mir erläuterten Thema passt. Geben Sie an, dass sich das Design auf meine Website bezieht, sodass es mit den Farben und der visuellen Sprache meiner Marke kompatibel ist.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Hooks ?
 
-*Glossaire · Dev · Dernière mise à jour : 6 septembre 2026*
+*Dev · Dernière mise à jour : 6 septembre 2026*
 
 Ce sont des points de connexion qui vous permettent d'intervenir à des moments précis du processus d'exécution d'un logiciel pour effectuer des opérations personnalisées.
 

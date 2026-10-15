@@ -1,6 +1,6 @@
 # Vibe Coding nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 19 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 19 Haziran 2026*
 
 Teknik ayrıntılara girmeden, sadece ne istediğinizi tarif ederek yapay zekâ ile kod yazma yaklaşımıdır.
 
@@ -43,8 +43,8 @@ Teknik zorluklardan ziyade, geliştiricinin projenin akışına ve hissiyatına 
 - [Claude Code Best Practice](https://trescout.com/discover/claude-code-best-practice/)
 - [GLM 5](https://trescout.com/discover/glm-5/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/vibe-coding/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

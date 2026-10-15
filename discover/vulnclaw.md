@@ -50,7 +50,7 @@ vulnclaw run <target>
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen bir sızma testi uzmanısın. VulnClaw aracını kullanarak hedef sistem üzerinde bilgi toplama, zafiyet tarama ve istismar adımlarını gerçekleştir. İşlemleri yaparken hedef odaklı求解 (solve) motorunu kullan, bulgularını doğrula ve süreç sonunda yapılandırılmış bir rapor ile Python tabanlı PoC kodunu oluştur. Her aşamada elde ettiğin gerçek verileri temel alarak ilerle ve varsayımlardan kaçın.
 
@@ -74,4 +74,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vulnclaw/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -32,7 +32,7 @@ docker-compose up -d
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Twitter üzerinde gizliliğimi koruyarak içerik görüntülemek istiyorum. JavaScript çalıştırmadan, IP adresimi ve tarayıcı parmak izimi gizleyerek Twitter'a erişmemi sağlayacak Nitter kurulumu ve yapılandırması için bana adım adım rehberlik et.
 
@@ -51,4 +51,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nitter/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

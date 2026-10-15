@@ -1,6 +1,6 @@
 # O que é Localhost?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Localhost é o nome de rede especial que endereça o próprio computador. O equivalente a ele é o endereço 127.0.0.1.
 

@@ -1,6 +1,6 @@
 # What is AI Team Operations?
 
-*Dictionary · AI · Last updated: July 17, 2026*
+*AI · Last updated: July 17, 2026*
 
 It is the discipline of efficiently managing the workflows of teams developing artificial intelligence projects.
 

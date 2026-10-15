@@ -1,6 +1,6 @@
 # What is Lifelong Learning?
 
-*Dictionary · AI · Last updated: July 16, 2026*
+*AI · Last updated: July 16, 2026*
 
 Artificial intelligence's ability to continuously learn with new data without losing old information.
 

@@ -1,6 +1,6 @@
 # O que é Policies?
 
-*Glossário · Dev · Última atualização: 14 de outubro de 2026*
+*Dev · Última atualização: 14 de outubro de 2026*
 
 O conjunto de regras aplicadas ao sistema que determinam os padrões de segurança e uso das instituições.
 

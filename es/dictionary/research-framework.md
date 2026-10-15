@@ -1,6 +1,6 @@
 # ¿Qué es Research Framework?
 
-*Glosario · AI · Última actualización: 26 de junio de 2026*
+*AI · Última actualización: 26 de junio de 2026*
 
 Es un conjunto de métodos y herramientas estándar que se utilizan para llevar a cabo un proceso de investigación paso a paso.
 

@@ -27,7 +27,7 @@ brew install just
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Como posso enviar mensagens com segurança ao meu círculo próximo quando não há internet, usando a malha Bluetooth e a estrutura híbrida do protocolo Nostr oferecida pelo aplicativo Bitchat? Explique passo a passo como iniciar um bate-papo na comunidade local usando os comandos no estilo IRC e os recursos de canal baseados em localização que o aplicativo oferece.
 

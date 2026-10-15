@@ -1,6 +1,6 @@
 # Agents Directory nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 11 Ekim 2026*
+*Yapay Zekâ · Son güncelleme: 11 Ekim 2026*
 
 Yazılım projelerinde yapay zekâ ajanlarının davranışlarını, araçlarını ve kurallarını bir arada tutan özel klasör yapısıdır.
 
@@ -40,8 +40,8 @@ Kurabilir: Çoklu ajan mimarisine sahip sistemler bu dizindeki ajanları listele
 - [Prompt as Code](https://trescout.com/dictionary/prompt-as-code/)
 - [System Prompts](https://trescout.com/dictionary/system-prompts/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/agents-directory/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

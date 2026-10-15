@@ -1,6 +1,6 @@
 # Was ist A-share?
 
-*Glossar · Data · Zuletzt aktualisiert: 27. September 2026*
+*Data · Zuletzt aktualisiert: 27. September 2026*
 
 Eine Aktienart, die an chinesischen Börsen gehandelt wird und lokalen Anlegern vorbehalten ist.
 

@@ -41,7 +41,7 @@ npx skills list
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to improve my web development and presentation preparation processes by using the Garden Skills collection. Can you help me integrate the skill packages suitable for my project?
 

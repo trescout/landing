@@ -1,6 +1,6 @@
 # ¿Qué es Time Series Foundation Model?
 
-*Glosario · AI · Última actualización: 18 de junio de 2026*
+*AI · Última actualización: 18 de junio de 2026*
 
 Es un modelo de inteligencia artificial avanzado que puede analizar cambios en datos dependientes del tiempo y predecir situaciones futuras.
 

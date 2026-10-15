@@ -1,6 +1,6 @@
 # O que é Frontier AI?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 > Inteligência Artificial de Fronteira
 

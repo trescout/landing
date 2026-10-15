@@ -35,7 +35,7 @@ dotnet run --project src/OpenClaw.Cli -- --help
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use the OpenClaw Windows Node tool. I want to manage my local gateway connections for this artificial intelligence assistant, which I access via the system tray, and verify operations such as sending messages via WebSocket. How can I check my connection status and configure node permissions on the system using available CLI tools?
 

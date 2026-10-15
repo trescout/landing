@@ -1,6 +1,6 @@
 # What is Meta-skill?
 
-*Dictionary · AI · Last updated: June 3, 2026*
+*AI · Last updated: June 3, 2026*
 
 High-level ability that enables learning new skills or using existing skills more effectively.
 

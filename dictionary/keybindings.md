@@ -1,6 +1,6 @@
 # Keybind ne demek, nedir?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Keybind (veya keybinding / tuş ataması), bir klavye tuşuna veya tuş kombinasyonuna (örneğin Ctrl+C, Cmd+K) yazılım içinde belirli bir komutu, eylemi veya makroyu anında tetikleme görevi atanmasıdır.
 
@@ -53,8 +53,8 @@ Ctrl + K Ctrl + S tuşlarına basılarak Klavye Kısayolları arayüzünden veya
 - [Terminal](https://trescout.com/dictionary/terminal/)
 - [User Interface](https://trescout.com/dictionary/user-interface/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/keybindings/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # Computer Vision Library nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 8 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 8 Haziran 2026*
 
 Bilgisayarların görsel verileri işlemesini ve anlamlandırmasını sağlayan hazır yazılım araçlarıdır.
 
@@ -41,8 +41,8 @@ Kütüphaneler karmaşık matematiği gizlediği için temel düzeyde kod bilgis
 
 - [Opencv](https://trescout.com/discover/opencv/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/computer-vision-library/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

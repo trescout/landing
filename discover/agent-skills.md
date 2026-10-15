@@ -30,7 +30,7 @@ claude --plugin-dir /path/to/agent-skills
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Senin bir yazılım mühendisi gibi çalışmanı istiyorum. Agent Skills kütüphanesini kullanarak /spec, /plan, /build, /test, /review, /code-simplify ve /ship komutlarını yazılım geliştirme sürecimin her aşamasında standartlara uygun şekilde uygula. İş akışlarını, kalite kontrol noktalarını ve en iyi mühendislik uygulamalarını takip ederek kod üret.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-skills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

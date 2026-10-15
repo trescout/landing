@@ -51,7 +51,7 @@ printf '%s' '{"tool_args":{"CommandLine":"rm -rf /"}}' \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu projede Antigravity çalışma alanı kurdum ve AG Kit araçlarını aktif ettim. Proje dizinindeki .agents/ klasöründe tanımlı kuralları, uzman ajan rollerini ve iş akışlarını kullanarak görevlerimi yönetmeni istiyorum. Güvenlik kancasının aktif olduğundan emin ol ve karmaşık iş akışlarını /coordinate veya /orchestrate komutlarıyla planlayarak ilerle.
 
@@ -71,4 +71,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ag-kit/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

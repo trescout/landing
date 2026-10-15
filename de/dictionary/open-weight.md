@@ -1,6 +1,6 @@
 # Was ist Open Weight?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 > Öffentlich zugängliche Modellgewichte
 

@@ -38,7 +38,7 @@ bun run dev:app
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un asistente de desarrollo de software. Registra todos los cambios de código que realices, las decisiones tomadas y las herramientas utilizadas junto con el historial de la sesión utilizando Atlas. Si necesitas cambiar entre diferentes agentes como Claude Code o Codex mientras trabajas, lee los planes y notas de arquitectura de la sesión anterior desde la memoria compartida. Mantén el contexto llamando a archivos, carpetas o sesiones anteriores en la base de código mediante el símbolo '@' y documenta la razón de cada cambio que realices junto con las justificaciones de la sesión correspondiente.
 

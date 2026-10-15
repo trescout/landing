@@ -44,7 +44,7 @@ python -m tools.cookie_fetcher --config config.yml
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero descargar vídeos, álbumes de fotos y música de la plataforma Douyin a mi computadora sin marcas de agua. ¿Cómo debo preparar mi archivo de configuración para usar esta herramienta, realizar descargas masivas, evitar registros duplicados con la base de datos SQLite y activar la función de copia de seguridad del navegador? Explica paso a paso qué comandos debo usar para iniciar las descargas.
 

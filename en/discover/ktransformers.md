@@ -29,7 +29,7 @@ pip install .
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I run large language models heterogeneously on CPU and GPU using ktransformers. How can I integrate the kt-kernel library into my system to use my hardware resources efficiently and optimize model inference performance, and what are the optimal configuration settings for MoE models?
 

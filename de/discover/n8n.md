@@ -60,7 +60,7 @@ n8n ist unter der Sustainable Use License mit einsehbarem Quellcode verfügbar. 
 
 ## Erster Prompt
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Helfen Sie mir, auf der visuellen Arbeitsfläche einen Workflow zu entwerfen, der eine Eingabe annimmt, sie mit einem KI-Modell verarbeitet und das Ergebnis an den nächsten Schritt weitergibt.
 

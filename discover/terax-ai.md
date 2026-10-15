@@ -27,7 +27,7 @@ pnpm tauri dev          # development
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terax içerisindeki yapay zekâ panelini kullanarak projeme özel sistem istemleri oluştur ve TERAX.md dosyası üzerinden proje hafızasını yönet. Kod düzenlemeleri için yapay zekâ destekli farkları kabul et veya reddet, plan modunu kullanarak çok adımlı görevleri onay alarak gerçekleştir.
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/terax-ai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

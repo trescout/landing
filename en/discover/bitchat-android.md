@@ -28,7 +28,7 @@ git clone https://github.com/permissionlesstech/bitchat-android.git
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use Bitchat Android app. How can I safely message other users around me via Bluetooth? How do I join a channel and send a private message using commands such as /j, /m and /w within the application? Please explain simply the functions of these commands and the working logic of the mesh network.
 

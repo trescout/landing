@@ -58,7 +58,7 @@ Güvenlik uzmanları ve adli bilişim araştırmacıları için User-Scanner kri
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir güvenlik denetiminde User-Scanner aracını kullanarak tek bir kullanıcı adı üzerinden 465'ten fazla platformda nasıl tarama yapabileceğimi, elde edilen bulguları JSON formatında dışa aktarıp şüpheli profilleri nasıl listeleyeceğimi adım adım açıklar mısın?
 
@@ -89,4 +89,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/user-scanner/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

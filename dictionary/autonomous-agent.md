@@ -1,6 +1,6 @@
 # Autonomous Agent nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 4 Haziran 2026*
+*Yapay Zekâ · Son güncelleme: 4 Haziran 2026*
 
 İnsan müdahalesi olmadan kendi başına hedefler belirleyip bu hedeflere ulaşmak için gerekli adımları atan yazılımdır.
 
@@ -42,8 +42,8 @@ Genellikle gelişmiş muhakeme yeteneğine sahip LLM'ler temel alınır.
 
 - [Hermes Agent](https://trescout.com/discover/hermes-agent/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/autonomous-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

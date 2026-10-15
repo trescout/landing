@@ -1,6 +1,6 @@
 # ¿Qué es Persistent Ads?
 
-*Glosario · Dev · Última actualización: 27 de septiembre de 2026*
+*Dev · Última actualización: 27 de septiembre de 2026*
 
 Se trata de anuncios que aparecen o permanecen fijos constantemente en una esquina de la pantalla mientras se navega por páginas de Internet.
 

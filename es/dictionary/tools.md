@@ -1,6 +1,6 @@
 # Tools: Herramientas de desarrollo, Function Calling y MCP
 
-*Glosario · Dev · Última actualización: 19 de septiembre de 2026*
+*Dev · Última actualización: 19 de septiembre de 2026*
 
 Tools (herramientas) engloba dos conceptos esenciales en tecnología: las utilidades que potencian el trabajo de los desarrolladores y las interfaces que facultan a la inteligencia artificial para ejecutar acciones y consultar APIs.
 

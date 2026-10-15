@@ -1,6 +1,6 @@
 # Was ist Meta-framework?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Meta-Framework ist eine Struktur, die Bibliotheken in einem einheitlichen System zusammenführt.
 

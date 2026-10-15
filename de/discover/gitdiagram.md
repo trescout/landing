@@ -53,7 +53,7 @@ bun run dev
 
 ## Wenn Sie nicht wissen, wie man programmiert: AI-Agent-Eingabeaufforderung
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Erstellen Sie das Systemdiagramm des GitHub-Repositorys, das ich überprüft habe, basierend auf der Gitdiagram-Architektur. Identifizieren Sie die Hauptkomponenten, Datenflussrichtungen, Einstiegspunkte und externen Abhängigkeiten im Repository. Zeichnen Sie die Architektur als Flussdiagramm im Mermaid.js-Format und beschreiben Sie die Funktion jeder Komponente in zwei Sätzen.
 

@@ -57,7 +57,7 @@ ODS, kurumsal veri gizliliğini koruyarak güçlü yapay zekâ entegrasyonları 
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Kişisel bilgisayarımda ODS sunucusunu kurarak şirketimin PDF belgelerini yerel vektör veritabanına nasıl aktaracağımı, ardından yerel bir Llama 3 modeli üzerinden bu belgelere dayalı RAG soru-cevap sorguları nasıl yapacağımı kod ve terminal adımlarıyla açıklar mısın?
 
@@ -69,7 +69,7 @@ Kişisel bilgisayarımda ODS sunucusunu kurarak şirketimin PDF belgelerini yere
 ## Sıkça sorulan sorular
 
 - **İnternet bağlantısı olmadan tamamen çevrimdışı çalışır mı?** Evet. Gerekli model ağırlıkları indirildikten sonra ODS hiçbir ağ bağlantısına ihtiyaç duymadan tamamen çevrimdışı (air-gapped) ortamlarda çalışabilir.
-- **Hangi model formatlarını destekliyor?** GGUF formatındaki tüm açık modelleri (Llama 3, Mistral, Qwen, DeepSeek) ve saf HuggingFace ağırlıklarını destekler.
+- **Hangi model formatlarını destekliyor?** GGUF formatındaki tüm açık modelleri (Llama 3, Mistral, Qwen, DeepSeek) ve saf Hugging Face ağırlıklarını destekler.
 - **Web arayüzü mevcut mu?** Evet. ODS yerleşik bir web paneli ile gelir; modelleri yönetebilir, dosya yükleyebilir ve sohbet oturumları açabilirsiniz.
 - **GPU olmadan yalnızca CPU ile çalışır mı?** Evet. llama.cpp çekirdeği sayesinde AVX2/AVX-512 komut setlerini kullanarak saf CPU üzerinde de yüksek verimle çalışabilir.
 
@@ -90,4 +90,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ods/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

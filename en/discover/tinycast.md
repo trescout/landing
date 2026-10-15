@@ -30,7 +30,7 @@ brew tap abue-ammar/tinycast
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 To activate AI features in Tinycast, define your own API key or installed AI account credentials via the Settings menu. After this process, you can start chats directly from the palette and perform quick operations such as grammar correction, summarization, or translation on selected text.
 

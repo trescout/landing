@@ -59,7 +59,7 @@ vibe-trading alpha bench --zoo gtja191 --universe csi300 --period 2018-2025 --to
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to trade in the financial markets with the Vibe-Trading agent. Please help me analyze current market data, backtest the strategies I have identified, and manage my brokerage connections securely. Explain step by step how I can configure automated trading processes, specifically determining my trading mandates and risk limits.
 

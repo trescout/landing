@@ -1,6 +1,6 @@
 # Was ist Marketing Skills?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 Marketingfähigkeiten sind die Fähigkeiten, das Produkt der richtigen Zielgruppe zu präsentieren.
 

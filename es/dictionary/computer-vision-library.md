@@ -1,6 +1,6 @@
 # ¿Qué es Computer Vision Library?
 
-*Glosario · AI · Última actualización: 8 de junio de 2026*
+*AI · Última actualización: 8 de junio de 2026*
 
 Son herramientas de software listas para usar que permiten a las computadoras procesar y dar sentido a los datos visuales.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Agentic AI ?
 
-*Glossaire · AI · Dernière mise à jour : 3 juin 2026*
+*AI · Dernière mise à jour : 3 juin 2026*
 
 Cela signifie que l’intelligence artificielle prend l’initiative d’atteindre ses objectifs au lieu de simplement produire du texte.
 

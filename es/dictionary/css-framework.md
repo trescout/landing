@@ -1,6 +1,6 @@
 # ¿Qué es CSS Framework?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 Un framework CSS es un conjunto de herramientas que ofrece estilos predefinidos.
 

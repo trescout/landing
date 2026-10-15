@@ -29,7 +29,7 @@ brew install AIEraDev/tap/clypra
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero hacer una edición profesional usando el editor de video Clypra. ¿Cómo puedo realizar operaciones como subtítulos automáticos y reencuadre inteligente en mis videos de la manera más eficiente, utilizando el procesamiento acelerado por hardware y las funciones respaldadas por inteligencia artificial que ofrece la aplicación? ¿Puede recomendar un flujo de trabajo paso a paso?
 

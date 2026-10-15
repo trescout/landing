@@ -39,7 +39,7 @@ npx skills add blader/humanizer --global
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Transformez le texte ci-dessous en une narration plus naturelle et humaine en le débarrassant des expressions qui semblent écrites par une IA, du langage de vente excessif et des mots de remplissage inutiles. Sans modifier les informations techniques, les données numériques et les noms propres de l'original, rendez simplement la structure des phrases et le style plus fluides.
 

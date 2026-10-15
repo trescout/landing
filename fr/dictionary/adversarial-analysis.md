@@ -1,6 +1,6 @@
 # Qu'est-ce que Adversarial Analysis ?
 
-*Glossaire · Dev · Dernière mise à jour : 28 juin 2026*
+*Dev · Dernière mise à jour : 28 juin 2026*
 
 Il s'agit de tests de sécurité effectués en imitant des attaques malveillantes pour trouver les points faibles d'un système.
 

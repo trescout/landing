@@ -45,7 +45,7 @@ flue run hello --target node \
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Flue framework'ünü kullanarak bir yapay zekâ ajanı geliştirmek istiyorum. Projemde TypeScript kullanarak nasıl bir iş akışı (workflow) tanımlayabilirim? Özellikle createAgent fonksiyonu ile model yapılandırmasını nasıl yaparım ve session.prompt ile ajanımı nasıl etkileşime sokabilirim? Basit bir 'hello-world' örneği üzerinden, çalışma zamanında (runtime) bir ajanı nasıl başlatıp sonuç alabileceğimi adım adım açıklar mısın?
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flue/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

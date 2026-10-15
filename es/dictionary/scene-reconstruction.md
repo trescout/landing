@@ -1,6 +1,6 @@
 # ¿Qué es Scene Reconstruction?
 
-*Glosario · AI · Última actualización: 19 de julio de 2026*
+*AI · Última actualización: 19 de julio de 2026*
 
 Es el proceso de creación de modelos digitales tridimensionales de entornos físicos basados en imágenes.
 

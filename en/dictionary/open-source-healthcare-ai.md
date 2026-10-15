@@ -1,6 +1,6 @@
 # What is Open Source Healthcare AI?
 
-*Dictionary · AI · Last updated: June 11, 2026*
+*AI · Last updated: June 11, 2026*
 
 They are artificial intelligence software that is shared so that everyone can examine and improve it in the field of healthcare.
 

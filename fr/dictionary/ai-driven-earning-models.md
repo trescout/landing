@@ -1,6 +1,6 @@
 # Qu'est-ce que AI-driven Earning Models ?
 
-*Glossaire · AI · Dernière mise à jour : 8 juin 2026*
+*AI · Dernière mise à jour : 8 juin 2026*
 
 Ce sont des méthodes permettant de créer de la valeur commerciale et de générer des revenus en utilisant les capacités de l’intelligence artificielle.
 

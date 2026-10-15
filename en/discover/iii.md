@@ -27,7 +27,7 @@ To get started and access documentation, you can visit iii.dev.
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 To try iii, first create a project with 'iii project init myapp', do 'cd myapp' and start the engine with the 'iii' command, then add capabilities with commands like 'iii worker add queue' and connect them all in the same live system; If SDK is required, install 'npm install iii-sdk'.
 

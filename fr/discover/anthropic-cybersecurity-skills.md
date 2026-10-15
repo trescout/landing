@@ -35,7 +35,7 @@ Emballé dans la norme agentskills.io ; Vous pouvez l'ajouter en tant que comp�
 
 ## Comment installer, comment utiliser ?
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Ajoutez cette bibliothèque communautaire de compétences en cybersécurité à Claude Code en exécutant « npx skills add mukul975/Anthropic-Cybersecurity-Skills » dans le terminal (notez qu'il ne s'agit pas du projet officiel d'Anthropic), puis indiquez-moi quelles compétences de sécurité sont prêtes à être utilisées.
 

@@ -40,7 +40,7 @@ python main.py
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to scan stocks in the Chinese market using technical analysis methods with the Sequoia-X tool. After completing the necessary installations in my Python environment, I will use the backfill mode to load historical data first, and then the daily operation mode for automatic scanning and receiving notifications after the daily market close. In this process, I want to ensure that the data is stored in a local SQLite database and the results are sent via Feishu.
 

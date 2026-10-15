@@ -37,7 +37,7 @@ openspec init
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite démarrer un processus de développement en utilisant OpenSpec. Veuillez examiner la structure actuelle de mon code, faire des suggestions et m'aider à créer un plan comprenant les exigences techniques, les détails de conception et les tâches de mise en œuvre pour une nouvelle fonctionnalité avec la commande `/opsx:propose`.
 

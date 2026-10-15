@@ -32,7 +32,7 @@ winget install Microsoft.PowerToys
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Windows işletim sisteminde verimliliğimi artırmak için PowerToys yardımcı yazılım koleksiyonunu kullanıyorum. Hangi araçların iş akışımı nasıl optimize edebileceği konusunda bana rehberlik et ve belirli görevleri yerine getirmek için hangi yardımcı programı kullanmam gerektiğini açıkla.
 
@@ -51,4 +51,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/powertoys/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

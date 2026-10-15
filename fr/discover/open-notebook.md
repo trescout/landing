@@ -36,7 +36,7 @@ docker compose up -d
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite installer l'outil Open Notebook. Docker Desktop est installé. Tout d'abord, je dois télécharger le fichier docker-compose.yml avec la commande curl, puis modifier la section OPEN_NOTEBOOK_ENCRYPTION_KEY dans le fichier avec un mot de passe unique. À la dernière étape, je dois terminer l'installation en exécutant la commande docker compose up -d. Y a-t-il d'autres paramètres ou étapes auxquels je devrais prêter attention dans ce processus ?
 

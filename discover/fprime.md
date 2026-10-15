@@ -37,7 +37,7 @@ fprime-bootstrap project
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 NASA tarafından geliştirilen F' çerçevesini kullanarak bir gömülü sistem projesi geliştirmek istiyorum. Projemin mimarisini oluştururken bileşen tabanlı yapıyı nasıl kurabilirim, arayüzleri nasıl tanımlayabilirim ve bu çerçeve ile mesaj kuyrukları ile iş parçacıklarını nasıl yönetebilirim? Lütfen F' çerçevesinin sunduğu modelleme araçlarını kullanarak bir geliştirme akışı öner.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fprime/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

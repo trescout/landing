@@ -1,6 +1,6 @@
 # What is Intelligent UI?
 
-*Dictionary · AI · Last updated: October 8, 2026*
+*AI · Last updated: October 8, 2026*
 
 An intelligent interface that learns the user's habits, adapts accordingly, and simplifies tasks.
 

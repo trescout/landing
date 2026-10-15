@@ -1,6 +1,6 @@
 # O que é AI Agent?
 
-*Glossário · AI · Última atualização: 22 de setembro de 2026*
+*AI · Última atualização: 22 de setembro de 2026*
 
 Agente de IA (em turco, agente de inteligência artificial) é um software autônomo que utiliza ferramentas e toma decisões para atingir o objetivo.
 

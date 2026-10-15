@@ -26,7 +26,7 @@ pip install agent-governance-toolkit[full]
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich entwickle einen Agenten für künstliche Intelligenz und möchte die Verwendung von Tools durch diesen Agenten einschränken. Können Sie mir bitte eine Beispielcodestruktur zum Erstellen einer YAML-Richtliniendatei mit agent-governance-toolkit vorbereiten und zeigen, wie ich die Toolfunktionen in meinem Python-Code gemäß dieser Richtlinie sichern kann?
 

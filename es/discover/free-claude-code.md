@@ -43,7 +43,7 @@ fcc-codex
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Actúa como agente codificador para mí. Utilizando el proveedor que configuré a través de Free Claude Code, realiza las tareas de software que te indico, analiza fragmentos de código y haz sugerencias. Al realizar operaciones, base la configuración del modelo en el panel de administración local y produzca soluciones eficientes utilizando las capacidades de Claude Code o Codex durante el proceso de codificación.
 

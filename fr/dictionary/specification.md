@@ -1,6 +1,6 @@
 # Qu'est-ce que Specification ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 La spécification (spec en abrégé, spécification en turc) est un document technique qui écrit ce que fera le produit et ses règles.
 

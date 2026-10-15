@@ -1,6 +1,6 @@
 # Was ist Memory Engine?
 
-*Glossar · AI · Zuletzt aktualisiert: 3. Juni 2026*
+*AI · Zuletzt aktualisiert: 3. Juni 2026*
 
 Ein System, das es künstlicher Intelligenz ermöglicht, sich an vergangene Interaktionen zu erinnern und diese Informationen zu nutzen, um konsistentere Antworten zu geben.
 

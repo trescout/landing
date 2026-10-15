@@ -45,7 +45,7 @@ curl http://localhost:4000/health
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim için bir yapay zekâ trafik yönlendiricisi olarak hareket et. Switchyard kullanarak Claude Code veya Codex gibi kodlama ajanlarımın isteklerini farklı modeller arasında dağıtmanı, OpenAI ve Anthropic API formatları arasında otomatik çeviri yapmanı ve tüm operasyonel metrikleri izlemeni istiyorum. Gelen istekleri yapılandırılmış yönlendirme algoritmalarıyla yönet ve gerektiğinde farklı modeller arasında A/B testi veya yük dengeleme yap.
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/switchyard/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

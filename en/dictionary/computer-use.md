@@ -1,6 +1,6 @@
 # What is Computer Use?
 
-*Dictionary · AI · Last updated: July 18, 2026*
+*AI · Last updated: July 18, 2026*
 
 It is the ability of artificial intelligence to see the screen and manage the computer using a mouse and keyboard, just like a human.
 

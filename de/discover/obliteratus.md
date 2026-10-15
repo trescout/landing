@@ -34,7 +34,7 @@ obliteratus ui
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Analysieren Sie Ablehnungsverhalten in einem KI-Modell und entfernen Sie chirurgisch die internen Strukturen, die dieses Verhalten auslösen, ohne die allgemeinen Sprachfähigkeiten des Modells zu beeinträchtigen. Nutzen Sie während des Prozesses Techniken wie die SVD-Zerlegung, um Einschränkungen zu identifizieren und sicherzustellen, dass das Modell ohne künstliche Hindernisse reagiert.
 

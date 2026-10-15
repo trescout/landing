@@ -22,7 +22,7 @@ pi-subagents is a TypeScript library developed to manage asynchronous subagent d
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Install this package with the command 'pi install npm:pi-subagents', then run a code review with '/run reviewer' or run multiple expert sub-agents (e.g. reviewer, scheduler) simultaneously with '/parallel' and distribute the work to them.
 

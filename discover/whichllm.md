@@ -51,7 +51,7 @@ whichllm run "qwen 2.5 1.5b gguf"
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Whichllm aracını kullanarak donanım özelliklerime en uygun yerel büyük dil modellerini listelemek ve bu modellerin performans tahminlerini görmek istiyorum. Sistemimdeki GPU veya CPU kapasitesine göre en yüksek benchmark puanına sahip modelleri nasıl filtreleyebilirim, ayrıca belirli bir model için gerekli olan donanım planlamasını nasıl yapabilirim?
 
@@ -74,4 +74,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/whichllm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

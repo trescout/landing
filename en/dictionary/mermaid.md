@@ -1,6 +1,6 @@
 # What is Mermaid?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Mermaid is an open-source JavaScript library that draws diagrams by writing text.
 

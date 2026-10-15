@@ -48,7 +48,7 @@ Set-Location .\Win11Debloat\Win11Debloat-master
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Windows 11 işletim sistemimdeki gereksiz uygulamaları kaldırmak, telemetri verilerini kapatmak ve yapay zekâ destekli Copilot gibi özellikleri devre dışı bırakmak istiyorum. Win11Debloat aracını kullanarak sistemimi nasıl daha hafif ve gizlilik odaklı hale getirebilirim? Lütfen bu aracı kullanırken sistem kararlılığını korumak için dikkat etmem gerekenleri ve güvenli bir şekilde nasıl özelleştirme yapabileceğimi adım adım açıkla.
 
@@ -67,4 +67,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/win11debloat/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

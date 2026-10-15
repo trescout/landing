@@ -1,6 +1,6 @@
 # Append-Only Log: Immutability, Write-Ahead Logs, and distributed storage
 
-*Dictionary · Data & Infra · Last updated: September 20, 2026*
+*Data & Infra · Last updated: September 20, 2026*
 
 An append-only log is a fundamental data storage paradigm where new records can only be sequentially appended to the end of the file; existing data is strictly immutable and can never be modified or overwritten in place.
 

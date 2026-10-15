@@ -1,6 +1,6 @@
 # Qu'est-ce que Gateway ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Une passerelle (gateway en anglais) est un point de connexion qui gère le trafic entre différents réseaux.
 

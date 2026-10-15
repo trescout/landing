@@ -32,7 +32,7 @@ docker-compose up -d
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte Inhalte auf Twitter ansehen und dabei meine Privatsphäre schützen. Führen Sie mich Schritt für Schritt durch die Installation und Konfiguration von Nitter, mit dem ich auf Twitter zugreifen kann, ohne JavaScript auszuführen und dabei meine IP-Adresse und meinen Browser-Fingerabdruck zu verbergen.
 

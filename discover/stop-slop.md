@@ -16,7 +16,7 @@ Yapay zekâ ile üretilen metinler genellikle tahmin edilebilir ifadeler, ritiml
 - **19 Ağustos 2026:** Yıldız 14.843 → 15.870.
 - **1 Ağustos 2026:** Yıldız 4.876 → 14.843.
 
-- **Kimin için:** AI ile yazı yazan herkes (blog, e-posta, içerik)
+- **Kimin için:** Yapay zekâ ile yazı yazan herkes (blog, e-posta, içerik)
 - **Zorluk:** Başlangıç dostu
 - **Format:** Beceri dosyası (SKILL.md)
 - **Çalışır:** Claude ve diğer LLM'ler
@@ -30,13 +30,13 @@ Yapay zekâ ile üretilen metinler genellikle tahmin edilebilir ifadeler, ritiml
 
 ## Nasıl kullanılır?
 
-SKILL.md'yi AI asistanınıza beceri olarak verirsiniz, sonra metni bu kurallardan geçirirsiniz:
+SKILL.md'yi yapay zekâ asistanınıza beceri olarak verirsiniz, sonra metni bu kurallardan geçirirsiniz:
 
 - Bu metni Stop Slop kurallarına göre düzelt, AI kalıplarını temizle.
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bu depoyu (https://github.com/hardikpandya/stop-slop) indirip stop-slop becerisini Claude Code'a beceri olarak ekle; sonra yazdığım metinlerden yapay zekâya özgü klişe kalıpları temizlemek için bu beceriyi kullan.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stop-slop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

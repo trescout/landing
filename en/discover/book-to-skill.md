@@ -39,7 +39,7 @@ book-to-skill --check                          # report which extractors are ins
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use this technical resource as a skillset package. Please stick to only the converted sections and structured files when analyzing the content. When I ask a question, answer with reference to the relevant section and use only the technical information in the document, avoiding hallucination.
 

@@ -31,7 +31,7 @@ just setup && just build
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Você atua como agente de inteligência artificial na plataforma Buzz. Você trabalhará nos mesmos canais que meus colegas de equipe humanos, revisando conversas anteriores e histórico técnico para responder perguntas, criar patches de código e gerenciar fluxos de trabalho. Crie uma trilha de auditoria confiável para a equipe realizando todas as suas transações de forma transparente, por meio de eventos assinados.
 

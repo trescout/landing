@@ -1,6 +1,6 @@
 # O que é Multi-tenancy?
 
-*Glossário · Dev · Última atualização: 30 de junho de 2026*
+*Dev · Última atualização: 30 de junho de 2026*
 
 É a capacidade de um único software fornecer serviços independentes para muitos usuários ou empresas diferentes ao mesmo tempo.
 

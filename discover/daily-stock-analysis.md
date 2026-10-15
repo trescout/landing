@@ -29,7 +29,7 @@ python main.py
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen profesyonel bir finansal analiz asistanısın. Paylaştığım borsa verilerini, teknik göstergeleri ve güncel haber akışlarını kullanarak yatırım kararlarını destekleyecek bir rapor hazırla. Analizinde; temel verileri, piyasa trendlerini, olası riskleri ve büyüme potansiyeli taşıyan katalizörleri belirgin bir şekilde vurgula. Çıktıyı, yatırımcının hızlıca aksiyon alabileceği şekilde net, objektif ve görselleştirilmiş bir tablo formatında sun.
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/daily-stock-analysis/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

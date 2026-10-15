@@ -22,7 +22,7 @@ Projekt N.O.M.A.D; Es handelt sich um ein autarkes Offline-Computerbauprojekt, d
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Auf einem Debian-basierten System (Ubuntu empfohlen) fügen Sie den folgenden Installationsbefehl in das Terminal ein und führen ihn aus. Öffnen Sie dann http://localhost:8080 im Browser, um mir bei der Verwendung des Offline-Informationsservers zu helfen.
 

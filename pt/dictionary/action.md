@@ -1,6 +1,6 @@
 # O que é Action?
 
-*Glossário · AI · Última atualização: 4 de julho de 2026*
+*AI · Última atualização: 4 de julho de 2026*
 
 É a ação concreta que uma inteligência artificial ou software realiza no mundo exterior ou dentro do sistema mediante comando que lhe é dado.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Structured Latent ?
 
-*Glossaire · AI · Dernière mise à jour : 2 août 2026*
+*AI · Dernière mise à jour : 2 août 2026*
 
 Il s’agit de la transformation de données complexes en une forme mathématique régulière et significative que l’intelligence artificielle peut comprendre plus facilement.
 

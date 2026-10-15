@@ -33,7 +33,7 @@ vcpkg/vcpkg install libvpx libyuv opus aom
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to establish a remote desktop connection using RustDesk. How can I configure my own server to ensure my data security and what are the basic security settings I should pay attention to during connection?
 

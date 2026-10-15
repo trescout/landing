@@ -1,6 +1,6 @@
 # Qu'est-ce que Development Framework ?
 
-*Glossaire · Dev · Dernière mise à jour : 20 juillet 2026*
+*Dev · Dernière mise à jour : 20 juillet 2026*
 
 Il s'agit d'un cadre de travail qui accélère le processus de développement logiciel et propose des structures et des règles prêtes à l'emploi.
 

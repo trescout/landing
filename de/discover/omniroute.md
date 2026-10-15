@@ -45,7 +45,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ## Aufforderung zur künstlichen Intelligenz für diejenigen, die nicht programmieren können
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Bereiten Sie mithilfe des OmniRoute AI-Gateways eine Routing-Konfiguration vor, die OpenAI-, Anthropic- und native Ollama-Modelle umfasst. Erstellen Sie eine Fallback-Regel, die automatisch zum zweiten Modell wechselt, wenn das Hauptmodell nicht antwortet, und listen Sie die Schritte auf, um sie mit Docker Compose auszuführen.
 

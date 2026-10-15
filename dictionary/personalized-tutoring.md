@@ -1,6 +1,6 @@
 # Personalized Tutoring nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 16 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 16 Temmuz 2026*
 
 Öğrencinin anlama hızına ve eksiklerine göre uyarlanan yapay zekâ destekli özel eğitim.
 
@@ -34,8 +34,8 @@ Genellikle hayır; daha çok öğretmenin işini kolaylaştıran ve öğrencinin
 
 - [DeepTutor](https://trescout.com/discover/deeptutor/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/personalized-tutoring/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

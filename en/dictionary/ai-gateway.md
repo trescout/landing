@@ -1,6 +1,6 @@
 # What is AI Gateway?
 
-*Dictionary · AI · Last updated: July 2, 2026*
+*AI · Last updated: July 2, 2026*
 
 It is a gateway software that manages and controls traffic to artificial intelligence models.
 

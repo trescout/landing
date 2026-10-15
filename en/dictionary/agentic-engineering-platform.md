@@ -1,6 +1,6 @@
 # What is Agentic Engineering Platform?
 
-*Dictionary · AI · Last updated: June 19, 2026*
+*AI · Last updated: June 19, 2026*
 
 It is a comprehensive development environment used to create, manage and test autonomous artificial intelligence agents.
 

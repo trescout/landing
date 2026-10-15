@@ -44,7 +44,7 @@ Sie können es als npm-Paket (ecc-universal) oder als GitHub-Anwendung installie
 
 ## Wie installiere ich, wie verwende ich?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Installieren Sie das ECC-Betreibersystem, indem Sie die Befehle „/plugin marketplace add https://github.com/affaan-m/ECC“ und dann „/plugin install ecc@ecc“ in Claude Code ausführen. Verwenden Sie dann den Befehl /security-scan, um einen Sicherheitsscan für mein Projekt durchzuführen.
 

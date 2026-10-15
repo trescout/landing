@@ -36,7 +36,7 @@ deploy/build.sh
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I set up a secure VPN network on my own server using Amnezia VPN? Please explain step by step the installation process, the SSH information required to connect to the server, and how to configure protocols such as OpenVPN, WireGuard, or XRay.
 

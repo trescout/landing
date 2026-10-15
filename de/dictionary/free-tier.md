@@ -1,6 +1,6 @@
 # Was ist Free Tier?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Free Tier ist die eingeschränkte kostenlose Version eines Dienstes.
 

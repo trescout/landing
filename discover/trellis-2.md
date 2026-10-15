@@ -33,7 +33,7 @@ git clone -b main https://github.com/microsoft/TRELLIS.2.git --recursive
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Elimdeki 2D görseli 3D bir modele dönüştürmek istiyorum. TRELLIS.2 modelini kullanarak, yüksek kaliteli dokulara ve fizik tabanlı materyal özelliklerine sahip, karmaşık topolojileri koruyan bir 3D varlık oluşturmam için gerekli olan temel işlem adımlarını ve örnek Python kod yapısını açıkla.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trellis-2/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

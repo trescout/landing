@@ -35,7 +35,7 @@ You define the relevant skill as a skill to Claude (e.g. Claude Code or Cowork);
 
 ## How to install, how to use?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 While in Claude Code, add Anthropic's skills repository as a marketplace with the command '/plugin marketplace add anthropics/skills', then install document skills with '/plugin install document-skills@anthropic-agent-skills'; Then ask him to use the relevant skill to extract form fields from a PDF, for example.
 

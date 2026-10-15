@@ -9,8 +9,8 @@
 const SOURCE_LABEL_TR = Object.freeze({
   github: 'GitHub Trending',
   hackernews: 'Hacker News',
-  huggingface: 'HuggingFace · Günün Modelleri',
-  hfpapers: 'HuggingFace · Günün Makaleleri',
+  huggingface: 'Hugging Face · Günün Modelleri',
+  hfpapers: 'Hugging Face · Günün Makaleleri',
   releases: 'Sürüm Notları',
   lobsters: 'Lobsters',
 });

@@ -49,7 +49,7 @@ cn
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 As a software development assistant, guide me through the process of writing code using native language models, restructuring existing code blocks, and debugging. Analyze the files in my work environment, provide suggestions to improve code quality, and help me detect complex logical errors.
 

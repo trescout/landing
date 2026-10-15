@@ -48,7 +48,7 @@ dotnet run
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 ASP.NET Core çerçevesini kullanarak modern, bulut tabanlı ve ölçeklenebilir bir web uygulaması geliştirmek istiyorum. Projemi Windows, macOS veya Linux üzerinde çalıştırmayı planlıyorum. Bu platformun modüler yapısını kullanarak nasıl bir mimari kurmalıyım ve uygulama geliştirme sürecinde verimliliği artırmak için hangi temel bileşenlere odaklanmalıyım?
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/aspnetcore/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

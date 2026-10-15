@@ -1,6 +1,6 @@
 # Was ist Ad Blocker?
 
-*Glossar · Dev · Zuletzt aktualisiert: 2. September 2026*
+*Dev · Zuletzt aktualisiert: 2. September 2026*
 
 Ein Software-Tool, das Werbeinhalte auf Internetseiten stoppt, bevor sie geladen werden.
 

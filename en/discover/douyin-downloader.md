@@ -44,7 +44,7 @@ python -m tools.cookie_fetcher --config config.yml
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to download videos, photo albums, and music from the Douyin platform to my computer without watermarks. How should I prepare my configuration file to enable batch downloading, prevent duplicate records using the SQLite database, and activate the browser backup feature using this tool? Explain step-by-step which commands I should use to start the download process.
 

@@ -1,6 +1,6 @@
 # Was ist Dementia?
 
-*Glossar · AI · Zuletzt aktualisiert: 16. August 2026*
+*AI · Zuletzt aktualisiert: 16. August 2026*
 
 Es handelt sich um eine Erkrankung, bei der das Gedächtnis, das Denken und die Alltagsfähigkeiten aufgrund einer Schädigung der Nervenzellen im Gehirn stark geschwächt sind.
 

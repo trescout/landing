@@ -15,7 +15,7 @@ Die Coding-Interview-University bietet einen umfassenden Studienplan mit den Gru
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich bereite mich auf ein Vorstellungsgespräch im Bereich Software-Engineering vor und nutze dazu den Lehrplan der Coding Interview University. Erstellen Sie einen täglichen Lernplan, damit ich die in dieser Ressource behandelten Datenstrukturen, Algorithmen und Informatikthemen erlernen kann. Können Sie eine Roadmap vom Anfänger- bis zum Fortgeschrittenenniveau erstellen, die die Grundfächer, die ich lernen muss, die Reihenfolge, in der ich sie lernen sollte, und die Ressourcen enthält, mit denen ich üben kann?
 

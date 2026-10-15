@@ -48,7 +48,7 @@ iroh node id
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero configurar una conexión de red basada en conmutador utilizando la biblioteca Iroh. ¿Puede crear una estructura de código de ejemplo básica que muestre cómo puedo crear un punto final en Rust, conectarme a otro punto final mediante una clave pública e iniciar un flujo de datos seguro con el protocolo QUIC?
 

@@ -1,6 +1,6 @@
 # Was ist Cloud Native?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Cloud Native ist ein Ansatz zur Anwendungsentwicklung, der die Flexibilität und Skalierbarkeit der Cloud voll ausschöpft.
 

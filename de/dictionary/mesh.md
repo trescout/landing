@@ -1,6 +1,6 @@
 # Was ist Mesh?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Ein Mesh-Netzwerk ist eine Netzwerkstruktur, bei der Geräte oder Dienste ohne die Abhängigkeit von einem zentralen Server miteinander verbunden sind und Daten übertragen.
 

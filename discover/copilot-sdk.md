@@ -30,7 +30,7 @@ npm install @github/copilot-sdk
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 GitHub Copilot SDK kullanarak uygulamamda özel bir yapay zekâ iş akışı oluşturmak istiyorum. SDK'nın sunduğu ajan çalışma zamanını nasıl yapılandırabilirim, planlama ve araç çağırma özelliklerini kendi uygulama mantığımla nasıl entegre edebilirim? Özellikle BYOK (kendi anahtarını getir) yöntemini kullanarak farklı LLM sağlayıcılarıyla bağlantı kurma konusunda izlemem gereken adımları açıklar mısın?
 
@@ -52,4 +52,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/copilot-sdk/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

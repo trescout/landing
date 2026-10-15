@@ -33,7 +33,7 @@ npm install @zvec/zvec
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Preciso criar uma coleção usando a biblioteca Zvec. Você pode criar um código de exemplo em Python que me permita definir um esquema, adicionar dados vetoriais apropriados a esse esquema e, em seguida, pesquisar com uma consulta vetorial específica? Use uma estrutura que especifique o caminho do arquivo para que os dados sejam persistentes.
 

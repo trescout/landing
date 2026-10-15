@@ -37,7 +37,7 @@ container system start
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Apple silikon işlemcili Mac bilgisayarımda container aracını kullanarak OCI uyumlu Linux kapsayıcılarını nasıl yönetebilirim? Sistemin düzgün çalıştığından emin olmak için container system start komutunu kullandıktan sonra, bir kapsayıcı imajını çekip çalıştırmak için hangi temel adımları izlemem gerektiğini açıklar mısın?
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/container/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

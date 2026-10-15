@@ -33,7 +33,7 @@ choco install photogimp
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 How can I apply the PhotoGIMP patch required to convert the GIMP program to the Photoshop interface and shortcuts? What are the backup steps I should pay attention to while placing the settings files suitable for my operating system into the GIMP folder?
 

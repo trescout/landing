@@ -43,7 +43,7 @@ python -c "from openmed import extract_pii; print([(e.label, e.text) for e in ex
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero analisar textos médicos usando a biblioteca OpenMed. Tenho o Python instalado no meu dispositivo. Em primeiro lugar, concluí a instalação com o comando pip install “openmed[hf]”. Agora, quais funções devo chamar em meu código Python para analisar minhas notas clínicas e detectar termos médicos ou dados pessoais (PII) nelas? Por favor, crie-me um bloco de código de amostra simples na seleção do modelo e na impressão dos resultados.
 

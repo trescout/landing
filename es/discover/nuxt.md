@@ -29,7 +29,7 @@ npm create nuxt@latest <my-project>
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero usar el marco Nuxt para mis proyectos basados en Vue.js. ¿Puede explicarme los pasos básicos que debo seguir para iniciar mi proyecto y desarrollar una aplicación web completa utilizando funciones de renderizado del lado del servidor, la estructura de los componentes y las herramientas que puedo usar para la optimización SEO?
 

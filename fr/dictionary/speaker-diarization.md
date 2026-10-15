@@ -1,6 +1,6 @@
 # Qu'est-ce que Speaker Diarization ?
 
-*Glossaire · AI · Dernière mise à jour : 19 septembre 2026*
+*AI · Dernière mise à jour : 19 septembre 2026*
 
 La diarisation des haut-parleurs (séparation ou enregistrement des haut-parleurs) analyse les ondes sonores dans un enregistrement audio à plusieurs participants pour savoir « qui a parlé quand ? Il s'agit d'une technologie d'intelligence artificielle qui répond à la question et étiquette les segments de parole en fonction de l'identité des locuteurs.
 

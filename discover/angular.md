@@ -44,7 +44,7 @@ ng serve
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Angular kullanarak modern bir web uygulaması geliştirmek istiyorum. Proje kurulumu, temel bileşen yapısı ve uygulama geliştirme süreçlerinde izlemem gereken adımları, Angular CLI araçlarını kullanarak bana adım adım açıkla.
 
@@ -65,4 +65,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/angular/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

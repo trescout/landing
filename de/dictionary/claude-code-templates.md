@@ -1,6 +1,6 @@
 # Was ist Claude Code Templates?
 
-*Glossar · AI · Zuletzt aktualisiert: 22. September 2026*
+*AI · Zuletzt aktualisiert: 22. September 2026*
 
 Claude Code-Templates sind vorgefertigte Dateigerüste, die den Projektstart mit Claude Code beschleunigen.
 

@@ -1,6 +1,6 @@
 # Qu'est-ce que Plugin Specification ?
 
-*Glossaire · Dev · Dernière mise à jour : 15 août 2026*
+*Dev · Dernière mise à jour : 15 août 2026*
 
 Il s'agit d'un ensemble de règles techniques qui doivent être suivies pour développer des modules complémentaires externes pour un logiciel.
 

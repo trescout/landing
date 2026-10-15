@@ -1,6 +1,6 @@
 # PDF Parser nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 4 Haziran 2026*
+*Veri & Altyapı · Son güncelleme: 4 Haziran 2026*
 
 PDF dosyalarındaki karmaşık verileri okuyup bilgisayarın işleyebileceği düzenli bir formata dönüştüren araçtır.
 
@@ -42,8 +42,8 @@ Hayır, bazıları sadece düz metin alırken bazıları tabloları ve karmaşı
 
 - [Opendataloader PDF](https://trescout.com/discover/opendataloader-pdf/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/pdf-parser/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

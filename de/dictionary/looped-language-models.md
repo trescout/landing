@@ -1,6 +1,6 @@
 # Was ist Looped Language Models?
 
-*Glossar · AI · Zuletzt aktualisiert: 28. September 2026*
+*AI · Zuletzt aktualisiert: 28. September 2026*
 
 Dabei handelt es sich um zirkuläre Modelle der künstlichen Intelligenz, die Schritt-für-Schritt-Schlussfolgerungen ziehen, indem sie die Ergebnisse, die sie erzeugen, wieder als Eingabe verwenden.
 

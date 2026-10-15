@@ -1,6 +1,6 @@
 # What is Intentional Crafting Engine?
 
-*Dictionary · AI · Last updated: October 9, 2026*
+*AI · Last updated: October 9, 2026*
 
 It is a purposeful generation engine that produces content, code, or digital products by focusing on the user's intent and goals.
 

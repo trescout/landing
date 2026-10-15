@@ -54,7 +54,7 @@ free-for-dev listesini kullanarak sıfır maliyetli modern bir web uygulaması k
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yeni bir web girişimi için tamamen ücretsiz servislerden oluşan modern bir bulut altyapısı kurmak istiyorum. free-for-dev listesindeki en popüler ücretsiz sağlayıcıları (barındırma, veritabanı, kimlik doğrulama ve e-posta servisi) birleştiren, kota sınırlarını aşmayacak sıfır maliyetli bir mimari planı ve kurulum adımlarını açıklar mısın?
 
@@ -87,4 +87,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/free-for-dev/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

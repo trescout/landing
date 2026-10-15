@@ -1,6 +1,6 @@
 # Was ist Kernels?
 
-*Glossar · Dev · Zuletzt aktualisiert: 30. Juli 2026*
+*Dev · Zuletzt aktualisiert: 30. Juli 2026*
 
 Der grundlegendste Teil des Betriebssystems, der die Kommunikation zwischen der Hardware und Software des Computers verwaltet.
 

@@ -20,7 +20,7 @@ Developer Portfolios ist eine übersichtliche Sammlung von Portfolio-Beispielen,
 
 ## Wie nutzt man es mit KI?
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich gebe Ihnen eine Liste mit Links zu inspirierenden persönlichen Portfolioseiten von Softwareentwicklern, die „Entwicklerportfolios“ genannt werden. Sehen Sie sich die Liste an und wählen Sie die am besten geeigneten Portfolios aus, die ich als Beispiel für meinen Beruf nehmen kann, und Sie erhalten eine Roadmap für die Einrichtung meiner eigenen Portfolio-Site. Meine Domain: [zB. Frontend-Entwickler]. Mein Ziel: [zB. beeindruckendes Portfolio für die Bewerbung.
 

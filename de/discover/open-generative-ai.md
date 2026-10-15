@@ -29,7 +29,7 @@ npm run electron:dev
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Mit der Open-Generative-AI-Plattform möchte ich qualitativ hochwertige Bilder und Videos erstellen, ohne in Inhaltsfiltern hängen zu bleiben. Wie kann ich aus den über 200 auf der Plattform angebotenen Modellen die für meine kreativen Projekte am besten geeigneten auswählen und mit den kostenlosen Produktionsmöglichkeiten dieser Modelle einen professionellen Workflow in meinem eigenen lokalen System aufbauen?
 

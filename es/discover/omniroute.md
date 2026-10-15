@@ -45,7 +45,7 @@ curl http://localhost:8000/v1/chat/completions \
 
 ## Mensaje de inteligencia artificial para aquellos que no saben codificar
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Prepare una configuración de enrutamiento que incluya modelos OpenAI, Anthropic y Ollama nativos utilizando la puerta de enlace OmniRoute AI. Cree una regla alternativa que cambie automáticamente al segundo modelo si el modelo principal no responde y enumere los pasos para ejecutarlo con Docker Compose.
 

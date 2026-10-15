@@ -1,6 +1,6 @@
 # What is Video Editing Software?
 
-*Dictionary · Dev · Last updated: September 27, 2026*
+*Dev · Last updated: September 27, 2026*
 
 Digital editing programs used to cut and trim footage, add effects, and edit audio.
 

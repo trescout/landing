@@ -42,7 +42,7 @@ nvm install 24
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bilgisayarımda birden fazla Node.js sürümünü yönetmek istiyorum. NVM aracını kullanarak 24 numaralı Node.js sürümünü nasıl kurarım ve farklı sürümler arasında nasıl geçiş yapabilirim? Komut satırında sürüm değiştirme işlemini adım adım açıklar mısın?
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/nvm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

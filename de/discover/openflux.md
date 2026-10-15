@@ -45,7 +45,7 @@ export ANDROID_NDK_HOME=<your Android NDK path>
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem OpenFlux-Tool einen TCP-Tunnel erstellen. Erkläre Schritt für Schritt die notwendigen Kompilierungsschritte, um den Client auf meinem Desktop-Computer auszuführen, und wie ich anschließend die SOCKS5-Proxy-Einstellungen im Browser konfiguriere. Erläutere zudem technisch, warum es beim Einrichten eines Exit-Nodes auf einem Linux-Server notwendig ist, RST-Pakete mit iptables zu blockieren, und welche Auswirkungen dieser Vorgang auf die Netzwerksicherheit hat.
 

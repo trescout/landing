@@ -1,6 +1,6 @@
 # Multimodal AI nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 19 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 19 Ağustos 2026*
 
 Yapay zekânın sadece metinle değil; görüntü, ses ve video gibi farklı veri türlerini aynı anda işleyebilme yeteneğidir.
 
@@ -42,8 +42,8 @@ Dünyayı insanlar gibi daha kapsamlı ve bağlantılı bir şekilde anlamamız�
 
 - [UI-TARS-desktop](https://trescout.com/discover/ui-tars-desktop/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/multimodal-ai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

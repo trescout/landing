@@ -39,7 +39,7 @@ npm run dev
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero que você crie um fluxograma. Visualize o processo de autenticação do usuário, incluindo login, autenticação multifator e gerenciamento de sessão.
 

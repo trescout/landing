@@ -29,7 +29,7 @@ brew install --cask fluidvoice
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mein Sprachdiktiererlebnis mit der FluidVoice-App optimieren. Wie kann ich die native KI-gestützte Textbearbeitung, die kontextsensitive Großschreibung und die intelligenten Formatierungsfunktionen, die die Anwendung bietet, am effizientesten konfigurieren? Wie kann ich außerdem meine Diktierleistung verbessern, indem ich benutzerdefinierte Eingabeaufforderungssätze für verschiedene Anwendungen erstelle?
 

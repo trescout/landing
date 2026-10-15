@@ -37,7 +37,7 @@ bun dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Pascal Editor kullanarak mimari bir sahne oluşturmak istiyorum. Proje mimarisinde yer alan @pascal-app/core ve @pascal-app/viewer paketlerini kullanarak temel bir 3 boyutlu yapı kurmama yardımcı ol. Sahne durumunu yönetmek için useScene ve useViewer kancalarını nasıl yapılandıracağımı, düğüm hiyerarşisini (Site, Building, Level) nasıl tanımlayacağımı ve bir NodeRenderer bileşenini sahneye nasıl entegre edeceğimi adım adım açıkla.
 
@@ -57,4 +57,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/editor/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

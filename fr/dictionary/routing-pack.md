@@ -1,6 +1,6 @@
 # Qu'est-ce que Routing Pack ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Un paquet de routage (Routing Pack) est un paquet de données utilisé par les périphériques réseau pour transférer des informations de routage entre eux.
 

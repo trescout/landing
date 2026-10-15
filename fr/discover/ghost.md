@@ -43,7 +43,7 @@ ghost install
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite créer un site de contenu professionnel en utilisant la plateforme Ghost. Expliquez étape par étape les étapes que je dois suivre pour exécuter ce système de gestion de contenu (CMS) basé sur Node.js sur mon propre serveur ou environnement local, comment le configurer à l'aide de l'outil Ghost CLI et les conseils administratifs de base auxquels je dois prêter attention après l'installation.
 

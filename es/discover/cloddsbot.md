@@ -45,7 +45,7 @@ clodds start
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Eres un asistente de trading. Quiero que utilices CloddsBot para realizar análisis en mercados de criptomonedas y plataformas de predicción con más de 118 estrategias. Aplicando las reglas de gestión de riesgos, gestiona las operaciones de compra y venta automatizadas dentro del presupuesto que he establecido y preséntame informes monitoreando los datos del mercado.
 

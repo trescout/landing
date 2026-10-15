@@ -1,6 +1,6 @@
 # What is Sandbox?
 
-*Dictionary · Dev · Last updated: June 16, 2026*
+*Dev · Last updated: June 16, 2026*
 
 It is an isolated work area where new software or codes can be tested safely without damaging the main system.
 

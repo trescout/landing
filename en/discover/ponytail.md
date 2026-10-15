@@ -72,7 +72,7 @@ Percentages are the adjusted agentic benchmark averages on 12 tasks in a real Fa
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Write only the code required by the task, then review changes for validation, error handling, security, and accessibility.
 

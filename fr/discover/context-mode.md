@@ -43,7 +43,7 @@ Context-mode est une bibliothèque TypeScript qui permet l'optimisation de la fe
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Mon agent d'intelligence artificielle, à partir de maintenant, au lieu d'effectuer directement les tâches de traitement de données, je veux que tu écrives et exécutes le code qui analysera ces données. Utilise les outils de context-mode pour minimiser la taille des données, conserve mon historique de session sur SQLite et ne me rapporte que les résultats nécessaires. Évite les explications inutiles et concentre-toi uniquement sur la génération de code et la gestion efficace du contexte.
 

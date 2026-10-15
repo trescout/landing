@@ -18,7 +18,7 @@
 
 - **Kimin için:** Terminalde çalışan geliştiriciler
 - **Zorluk:** Orta · terminal + Anthropic hesabı
-- **Ne sunar:** Kod tabanını anlayan AI ajan
+- **Ne sunar:** Kod tabanını anlayan yapay zekâ ajan
 - **Durum:** Anthropic'in ürünü · açık kaynak DEĞİL
 - **Ücret:** Kullanım Anthropic plan/hesabına bağlı
 
@@ -48,7 +48,7 @@ claude
 
 ## Nasıl kurulur, nasıl kullanılır?
 
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Terminalime 'curl -fsSL https://claude.ai/install.sh | bash' komutuyla Anthropic'in resmi Claude Code aracını kur, sonra proje klasörüme gidip 'claude' yazarak başlat ve kod yazmama yardım etmesini sağla.
 
@@ -69,4 +69,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

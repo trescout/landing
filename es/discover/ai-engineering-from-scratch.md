@@ -27,7 +27,7 @@ Cada lección sigue el mismo ciclo: analizar el problema, hacer los cálculos, e
 
 ## ¿Cómo usarlo con IA?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Le daré el contenido de un plan de estudios de código abierto de 20 fases y más de 500 lecciones llamado 'ingeniería de IA desde cero' que enseña ingeniería de IA desde cero. Reviso el README y la hoja de ruta y me da un plan de estudio personal, en turco, dividido en semanas: ¿desde qué fase debo empezar, cuáles son los requisitos previos y en qué orden debo proceder? Mi nivel: [ej. principiante].
 

@@ -1,6 +1,6 @@
 # What is Ternary?
 
-*Dictionary · AI · Last updated: September 28, 2026*
+*AI · Last updated: September 28, 2026*
 
 It is a system that operates not just on two, but on three different states or values.
 

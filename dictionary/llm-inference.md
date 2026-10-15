@@ -1,6 +1,6 @@
 # LLM Inference nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 1 Eylül 2026*
+*Yapay Zekâ · Son güncelleme: 1 Eylül 2026*
 
 Eğitilmiş bir yapay zekâ modelinin kendisine verilen bir soruya yanıt üretme süreci.
 
@@ -38,8 +38,8 @@ Uygulamaların hızı ve maliyeti, inference sürecinin ne kadar verimli çalı�
 - [Inference](https://trescout.com/dictionary/inference/)
 - [Generative AI](https://trescout.com/dictionary/generative-ai/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/llm-inference/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

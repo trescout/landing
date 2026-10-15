@@ -47,7 +47,7 @@ npx hyperframes render       # render to MP4
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Using /hyperframes, create a 10-second product intro with a fade-in title, a background video, and subtle background music.
 

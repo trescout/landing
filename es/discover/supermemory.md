@@ -38,7 +38,7 @@ npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth
 
 ## ¿Cómo instalar, cómo utilizar?
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Instale supermemoria para agregar memoria persistente a mi asistente de IA: conecte el servidor MCP a Claude con el comando 'npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes' y verifique que esté funcionando.
 

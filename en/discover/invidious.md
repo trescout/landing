@@ -66,7 +66,7 @@ Use the project in accordance with applicable regulations. The official liabilit
 
 ## First task prompt
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 What are the differences between using a public Invidious instance and hosting my own instance?
 

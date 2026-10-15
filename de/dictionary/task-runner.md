@@ -1,6 +1,6 @@
 # Was ist Task Runner?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Task Runner ist ein Tool, das sich wiederholende Aufgaben nacheinander ausführt.
 

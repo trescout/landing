@@ -51,14 +51,14 @@ python -m ods.server --port 8000
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Could you explain with code and terminal steps how to set up the ODS server on my personal computer to import my company's PDF documents into a local vector database, and then perform RAG Q&A queries based on these documents using a local Llama 3 model?
 
 ## Frequently asked questions
 
 - Does it work completely offline without an internet connection? Yes. Once the necessary model weights are downloaded, ODS can operate entirely offline in air-gapped environments without requiring any network connection.
-- Which model formats does it support? It supports all open models in GGUF format (Llama 3, Mistral, Qwen, DeepSeek) and raw HuggingFace weights.
+- Which model formats does it support? It supports all open models in GGUF format (Llama 3, Mistral, Qwen, DeepSeek) and raw Hugging Face weights.
 - Is there a web interface? Yes. ODS comes with a built-in web panel where you can manage models, upload files, and start chat sessions.
 - Does it work with just the CPU without a GPU? Yes. Thanks to the llama.cpp core, it can run with high efficiency purely on the CPU using AVX2/AVX-512 instruction sets.
 

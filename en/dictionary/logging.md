@@ -1,6 +1,6 @@
 # What is Logging?
 
-*Dictionary · Dev · Last updated: September 22, 2026*
+*Dev · Last updated: September 22, 2026*
 
 Logging means writing down the program's events chronologically.
 

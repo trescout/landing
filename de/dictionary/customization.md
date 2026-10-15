@@ -1,6 +1,6 @@
 # Was ist Customization?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Customization (auf Türkisch Özelleştirme) bedeutet, ein Standardprodukt an Ihre eigenen Bedürfnisse anzupassen.
 

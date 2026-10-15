@@ -1,6 +1,6 @@
 # Code Snippets: IDE-Vorlagen, parametrische Expansion und Team-Governance
 
-*Glossar · Dev · Zuletzt aktualisiert: 19. September 2026*
+*Dev · Zuletzt aktualisiert: 19. September 2026*
 
 Code Snippets (Code-Auszüge oder Textbausteine) sind wiederverwendbare, parametrierbare Quelltext-Vorlagen, die Entwickler über Tastaturkürzel in Code-Editoren einfügen, um Boilerplate-Code zu vermeiden und Schreibarbeit zu sparen.
 

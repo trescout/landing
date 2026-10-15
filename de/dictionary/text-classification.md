@@ -1,6 +1,6 @@
 # Was ist Text Classification?
 
-*Glossar · AI · Zuletzt aktualisiert: 28. September 2026*
+*AI · Zuletzt aktualisiert: 28. September 2026*
 
 Dabei handelt es sich um den Prozess der Analyse des Themas oder Inhalts eines geschriebenen Textes und der Einteilung in vorgegebene Kategorien.
 

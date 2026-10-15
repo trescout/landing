@@ -26,7 +26,7 @@ pip install agent-governance-toolkit[full]
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Bir yapay zekâ ajanı geliştiriyorum ve bu ajanın araç kullanımını kısıtlamak istiyorum. agent-governance-toolkit kullanarak bir YAML politika dosyası oluşturmama ve Python kodumdaki araç fonksiyonlarını bu politikaya göre nasıl güvenli hale getireceğime dair bir örnek kod yapısı hazırlar mısın?
 
@@ -50,4 +50,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-governance-toolkit/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

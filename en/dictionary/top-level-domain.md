@@ -1,6 +1,6 @@
 # What is Top-level Domain?
 
-*Dictionary · Dev · Last updated: September 4, 2026*
+*Dev · Last updated: September 4, 2026*
 
 > TLD
 

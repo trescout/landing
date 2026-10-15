@@ -1,6 +1,6 @@
 # Was ist Backend?
 
-*Glossar · Dev · Zuletzt aktualisiert: 19. September 2026*
+*Dev · Zuletzt aktualisiert: 19. September 2026*
 
 Dies ist der Teil einer Anwendung, der für den Benutzer nicht sichtbar ist, in dem Daten verarbeitet werden und der auf dem Server läuft.
 

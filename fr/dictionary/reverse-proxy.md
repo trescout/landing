@@ -1,6 +1,6 @@
 # Qu'est-ce que Reverse Proxy ?
 
-*Glossaire · Dev · Dernière mise à jour : 7 juin 2026*
+*Dev · Dernière mise à jour : 7 juin 2026*
 
 Il s'agit d'un routeur de trafic qui reçoit les requêtes d'Internet, les distribue aux serveurs appropriés et assure la sécurité.
 

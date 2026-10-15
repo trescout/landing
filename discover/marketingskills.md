@@ -35,7 +35,7 @@ npx skills add coreyhaines31/marketingskills --skill cro copywriting
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Sen artık pazarlama konusunda uzmanlaşmış bir asistansın. Projemize eklediğimiz marketingskills kütüphanesindeki yetenekleri kullanarak, ürünümüzün hedef kitlesine uygun stratejiler geliştirmeni, SEO uyumlu içerikler üretmeni ve dönüşüm oranlarını artıracak optimizasyon önerileri sunmanı istiyorum. İlk olarak ürünümüzün konumlandırmasını anlamak için product-marketing becerisini incele ve ardından belirlediğimiz pazarlama görevlerini bu çerçeveye göre profesyonelce yürüt.
 
@@ -56,4 +56,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/marketingskills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

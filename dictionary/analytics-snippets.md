@@ -1,6 +1,6 @@
 # Analytics Snippets nedir?
 
-*Sözlük · Veri & Altyapı · Son güncelleme: 17 Ağustos 2026*
+*Veri & Altyapı · Son güncelleme: 17 Ağustos 2026*
 
 Web sitelerinin ziyaretçi davranışlarını takip etmek için sayfalarına eklediği küçük kod parçalarıdır.
 
@@ -38,8 +38,8 @@ Site sahipleri, kullanıcıların neyi sevip neyi sevmediğini ölçerek daha iy
 - [User Identifiers](https://trescout.com/dictionary/user-identifiers/)
 - [Logs](https://trescout.com/dictionary/logs/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/analytics-snippets/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

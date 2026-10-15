@@ -29,7 +29,7 @@ export PATH="${BSK_INSTALL_DIR:-$HOME/.local/bin}:$PATH"
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Senin bir tarayıcı otomasyon aracı olan BrowserSkill ile bağlantın var. Artık mevcut tarayıcı oturumlarımı kullanarak internet üzerindeki görevleri benim yerime gerçekleştirebilirsin. Bir işlem yaparken tarayıcıdaki açık sekmelerimi ödünç al, işin bitince geri bırak ve diğer sekmelerime dokunma. Eğer bir doğrulama kodu, giriş ekranı veya onay penceresiyle karşılaşırsan işlemi durdur ve benden yardım iste.
 
@@ -48,4 +48,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/browserskill/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

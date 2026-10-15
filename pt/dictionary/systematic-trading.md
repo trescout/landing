@@ -1,6 +1,6 @@
 # O que é Systematic Trading?
 
-*Glossário · Data · Última atualização: 29 de julho de 2026*
+*Data · Última atualização: 29 de julho de 2026*
 
 As decisões de investimento são tomadas sem emoções, no âmbito de regras pré-determinadas e de um plano disciplinado.
 

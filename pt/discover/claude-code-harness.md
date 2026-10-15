@@ -34,7 +34,7 @@ Integrado ao Claude Code com instalação no repositório; em seguida, implement
 
 ## Como instalar, como usar?
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Configure este fluxo de trabalho disciplinado no Claude Code executando '/plugin marketplace add Chachamaru127/claude-code-harness', depois '/plugin install claude-code-harness@claude-code-harness-marketplace' e '/harness-setup', depois comece com '/harness-plan'.
 

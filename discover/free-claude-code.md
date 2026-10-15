@@ -43,7 +43,7 @@ fcc-codex
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Benim için bir kodlama ajanı olarak hareket et. Free Claude Code üzerinden yapılandırdığım sağlayıcıyı kullanarak verdiğim yazılım görevlerini yerine getir, kod parçalarını analiz et ve önerilerde bulun. İşlemleri gerçekleştirirken yerel yönetim panelindeki model ayarlarını baz al ve kodlama sürecinde Claude Code veya Codex yeteneklerini kullanarak verimli çözümler üret.
 
@@ -64,4 +64,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/free-claude-code/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

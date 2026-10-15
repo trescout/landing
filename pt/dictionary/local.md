@@ -1,6 +1,6 @@
 # Local: Localhost, escopo de variáveis, Local-First e IA local
 
-*Glossário · Dev · Última atualização: 19 de setembro de 2026*
+*Dev · Última atualização: 19 de setembro de 2026*
 
 Local na computação descreve os recursos de hardware, ambientes de execução, interfaces de rede e discos que operam fisicamente na própria máquina do usuário, em contraste com serviços hospedados na nuvem.
 

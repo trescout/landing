@@ -1,6 +1,6 @@
 # Qu'est-ce que Computer Science ?
 
-*Glossaire · Dev · Dernière mise à jour : 5 juin 2026*
+*Dev · Dernière mise à jour : 5 juin 2026*
 
 Branche scientifique qui étudie les principes de fonctionnement des ordinateurs, le développement de logiciels et les méthodes de traitement des données.
 

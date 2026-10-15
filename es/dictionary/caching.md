@@ -1,6 +1,6 @@
 # ¿Qué es Caching?
 
-*Glosario · Data · Última actualización: 22 de septiembre de 2026*
+*Data · Última actualización: 22 de septiembre de 2026*
 
 El almacenamiento en caché (caching) es la copia de datos frecuentes en una capa rápida.
 

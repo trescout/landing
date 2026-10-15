@@ -36,7 +36,7 @@ npx skills add Canner/WrenAI            # auto-detects Claude Code, Cursor, Clin
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Configurez ma connexion à la base de données à l'aide de WrenAI, créez le squelette du projet et exécutez ma première requête. Enrichissez ensuite le contexte en incluant les données de logique métier du dossier brut dans mon projet.
 

@@ -35,7 +35,7 @@ npm install -g ruflo@latest
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are in an integrated work environment with Ruflo. Optimize your workflow by using Ruflo's tools, memory features, and agent swarms to perform tasks. Self-improve next steps by learning from successful patterns and coordinate with other agents to manage complex tasks.
 

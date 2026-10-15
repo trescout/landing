@@ -1,6 +1,6 @@
 # O que é Resolver Load Balancing?
 
-*Glossário · Dev · Última atualização: 11 de junho de 2026*
+*Dev · Última atualização: 11 de junho de 2026*
 
 É o processo de prevenção da sobrecarga do sistema, distribuindo consultas de endereços da Internet para vários servidores.
 

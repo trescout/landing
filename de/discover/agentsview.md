@@ -49,7 +49,7 @@ agentsview usage daily
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte den Sitzungsverlauf und die Kostendaten meiner AI-Coding-Agenten mit dem Agentsview-Tool analysieren. Welche Befehle sollte ich verwenden, um die Sitzungen der auf meinem Computer installierten Agenten zu untersuchen, meine tägliche Kostenübersicht anzuzeigen und Details zur Token-Nutzung mit einem bestimmten Agentenfilter zu überprüfen? Erklären Sie mir bitte Schritt für Schritt, wie die Befehle „agentsview Usage Daily“ und „agentsview Session Usage \<id>“ verwendet werden und wie die Ergebnisse zu interpretieren sind.
 

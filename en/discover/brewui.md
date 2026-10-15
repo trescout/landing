@@ -29,7 +29,7 @@ brew install --cask homebrew-app
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I am using the BrewUI application to manage Homebrew packages. I want to safely discover, install, update, and manage packages within the application. Using this interface, which allows me to transparently see the operations Homebrew performs in the background, how can I optimize the package configuration on my system and how can I define custom variables via the brew.env file?
 

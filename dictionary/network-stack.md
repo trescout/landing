@@ -1,6 +1,6 @@
 # Network Stack nedir, ne demek ve nasıl çalışır?
 
-*Sözlük · Geliştirme · Son güncelleme: 19 Eylül 2026*
+*Geliştirme · Son güncelleme: 19 Eylül 2026*
 
 Network Stack (ağ yığını), bir işletim sisteminin veya donanımın ağ üzerinden veri paketlerini iletmesini, yönlendirmesini ve almasını sağlayan donanım sürücüsü, çekirdek (kernel) ve kullanıcı alanı protokol katmanları bütünüdür.
 
@@ -75,8 +75,8 @@ Bir ağ arayüzünün parçalanma (fragmentation) olmadan tek bir çerçevede ta
 
 - [OpenFlux](https://trescout.com/discover/openflux/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/network-stack/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

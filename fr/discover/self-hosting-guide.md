@@ -40,7 +40,7 @@ npm run dev
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite configurer mon propre serveur. Sur la base des informations contenues dans le guide d'auto-hébergement, quelles sont les étapes de base que je dois suivre pour créer un serveur multimédia ou un stockage cloud sur mon réseau local ? Quels outils matériels et logiciels dois-je considérer en premier ?
 

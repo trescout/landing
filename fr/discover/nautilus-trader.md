@@ -35,7 +35,7 @@ pip install -U nautilus_trader --index-url=https://packages.nautechsystems.io/si
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je dois concevoir une stratégie de trading déterministe fonctionnant sur le noyau Rust avec un support multi-échanges à l'aide du moteur de trading NautilusTrader. Comment puis-je construire une logique stratégique à l'aide du plan de contrôle Python et quelles structures modulaires dois-je utiliser pour garantir la cohérence du code lors du passage de l'environnement de recherche à l'environnement réel ?
 

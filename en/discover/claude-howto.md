@@ -49,7 +49,7 @@ chmod +x ~/.claude/hooks/*.sh
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I use Claude Code and want to optimize my workflow using the templates in this guide. Help me determine my current level by running the /self-assessment command in Claude Code and then create a customized learning path for me, starting with the 01-slash-commands module.
 

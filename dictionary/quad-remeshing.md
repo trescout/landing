@@ -1,6 +1,6 @@
 # Quad Remeshing nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 10 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 10 Temmuz 2026*
 
 Üçgenlerden oluşan karmaşık bir 3D modelin yüzeyini, daha düzenli ve dörtgen parçalara (quads) dönüştürme işlemidir.
 
@@ -38,8 +38,8 @@ Dörtgen yapılar animasyon sırasında bükülme ve deformasyonlarda çok daha 
 
 - [Autoremesher](https://trescout.com/discover/autoremesher/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/quad-remeshing/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

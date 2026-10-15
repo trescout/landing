@@ -1,6 +1,6 @@
 # O que é Live Transcription?
 
-*Glossário · AI · Última atualização: 6 de julho de 2026*
+*AI · Última atualização: 6 de julho de 2026*
 
 É o processo de conversão instantânea de áudio falado em texto e exibição simultânea na tela.
 

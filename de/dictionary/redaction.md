@@ -1,6 +1,6 @@
 # Was ist Redaction?
 
-*Glossar · Data · Zuletzt aktualisiert: 5. Oktober 2026*
+*Data · Zuletzt aktualisiert: 5. Oktober 2026*
 
 Es ist der Prozess der dauerhaften Unkenntlichmachung oder Löschung sensibler oder vertraulicher Informationen aus Dokumenten.
 

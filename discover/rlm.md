@@ -42,7 +42,7 @@ make quickstart
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 RLM kütüphanesini kullanarak dil modelinin girdiyi parçalara ayırmasını, analiz etmesini ve kendi içinde özyinelemeli çağrılar yapmasını sağlayan bir yapı kur. RLM sınıfını başlatırken backend olarak kullandığın modelin yapılandırmasını tanımla ve karmaşık görevlerin çözümünde modelin kod ortamıyla etkileşime geçmesine izin ver.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/rlm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # ¿Qué es Deployment Platform?
 
-*Glosario · Dev · Última actualización: 29 de septiembre de 2026*
+*Dev · Última actualización: 29 de septiembre de 2026*
 
 Un servicio que te permite subir a Internet el software que has preparado y ponerlo a disposición de todos.
 

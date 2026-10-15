@@ -49,7 +49,7 @@ cgr start --repo-path /path/to/repo --update-graph
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Analysieren Sie mein Code-Repository mit dem Code-Graph-RAG-Tool. Beantworten Sie meine Fragen mithilfe der Beziehungen zwischen Funktionen, Klassen und Modulen in Ihrer Codebasis. Schlagen Sie Änderungen oder Optimierungen vor, die ich mithilfe der vom Tool bereitgestellten Strukturanalysefunktionen am Code vornehmen sollte.
 

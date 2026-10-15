@@ -29,7 +29,7 @@ brew install --cask fluidvoice
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 FluidVoice uygulamasını kullanarak sesli dikte deneyimimi optimize etmek istiyorum. Uygulamanın sunduğu yerel yapay zekâ destekli metin düzenleme, bağlama duyarlı büyük harf kullanımı ve akıllı biçimlendirme özelliklerini en verimli şekilde nasıl yapılandırabilirim? Ayrıca, farklı uygulamalar için özelleştirilmiş istem setleri oluşturarak dikte performansımı nasıl artırabilirim?
 
@@ -49,4 +49,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fluidvoice/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

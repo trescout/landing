@@ -35,7 +35,7 @@ motrix add https://example.com/file.iso --save-dir ~/Downloads
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Aidez-moi à gérer les tâches de téléchargement à l'aide de l'interface de ligne de commande Motrix. Utilisez « motrix list » pour afficher la liste de téléchargement, « motrix add [URL] --save-dir [DIRECTORY] » pour ajouter un nouveau fichier et « motrix watch --stats » pour suivre la progression du téléchargement en direct. Si j'ai besoin de me connecter à un serveur distant, activez la commande 'motrix pair'.
 

@@ -1,6 +1,6 @@
 # Was ist Gamification?
 
-*Glossar · Dev · Zuletzt aktualisiert: 22. September 2026*
+*Dev · Zuletzt aktualisiert: 22. September 2026*
 
 Gamification (auf Deutsch Spielifizierung) ist die Anwendung von Spielelementen wie Punkten, Abzeichen und Levels, um die Motivation bei nicht spielbezogenen Aufgaben zu steigern.
 

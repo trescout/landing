@@ -43,7 +43,7 @@ irm https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.ps1 | i
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 A partir de agora, dê suas respostas no modo Caveman. Remova palavras de preenchimento desnecessárias, mantenha apenas informações concisas e detalhes técnicos. Redija suas respostas em frases curtas, concisas e fragmentadas; mas continue a transmitir blocos de código, comandos e mensagens de erro completos e precisos.
 

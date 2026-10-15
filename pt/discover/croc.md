@@ -49,7 +49,7 @@ croc code-phrase
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Quero transferir arquivos com segurança entre dois computadores usando a ferramenta Croc. Como posso combinar a expressão de código fornecida a mim quando executo o comando 'croc send [file_name]' no lado do remetente com o comando 'croc [code_expression]' no lado do recebimento e inicio a transferência? Há alguma configuração especial à qual devo prestar atenção para garantir que a criptografia de ponta a ponta seja fornecida durante a transferência e que o processo seja seguro?
 

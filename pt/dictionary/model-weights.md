@@ -1,6 +1,6 @@
 # O que é Model Weights?
 
-*Glossário · AI · Última atualização: 29 de setembro de 2026*
+*AI · Última atualização: 29 de setembro de 2026*
 
 Valores numéricos que armazenam as informações que a inteligência artificial aprendeu durante o treinamento e que determinam suas decisões.
 

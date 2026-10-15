@@ -42,7 +42,7 @@ pnpm --dir apps/desktop tauri build
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to gather the prompt templates and provider settings I prepared for my AI coding assistant using Codex-X into a single visual interface. Help me install and launch the application in my local environment to configure my API keys and synchronize my session history.
 

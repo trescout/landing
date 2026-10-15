@@ -1,6 +1,6 @@
 # What is Computer Science?
 
-*Dictionary · Dev · Last updated: June 5, 2026*
+*Dev · Last updated: June 5, 2026*
 
 The branch of science that studies the working principles of computers, software development and data processing methods.
 

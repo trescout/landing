@@ -1,6 +1,6 @@
 # Qu'est-ce que le Checkout ? E-Commerce et Git
 
-*Glossaire · Dev · Dernière mise à jour : 19 septembre 2026*
+*Dev · Dernière mise à jour : 19 septembre 2026*
 
 > Anglais : Checkout · Étymologie : anglais check (vérifier) + out (achèvement, sortie)
 

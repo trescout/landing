@@ -50,7 +50,7 @@ sia web
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Leistung eines KI-Agenten mithilfe des SIA-Frameworks verbessern. Welchen Befehl soll ich nach Abschluss der Installation verwenden, um den Selbstverbesserungszyklus zu starten, indem ich eine der verfügbaren Aufgaben (z. B. gpqa) auswähle, und wie soll ich die Ausgaben am Ende des Prozesses interpretieren (target_agent.py, agent_execution.json, Improvement.md)? Wie kann ich außerdem mein eigenes benutzerdefiniertes Aufgabenverzeichnis in das System einbinden?
 

@@ -1,6 +1,6 @@
 # ¿Qué es Browser State?
 
-*Glosario · Dev · Última actualización: 26 de julio de 2026*
+*Dev · Última actualización: 26 de julio de 2026*
 
 Es el estado en el que se guardan todos los datos y configuraciones activos en la sesión actual de su navegador de Internet.
 

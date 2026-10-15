@@ -45,7 +45,7 @@ export ANDROID_NDK_HOME=<your Android NDK path>
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create a TCP tunnel using the OpenFlux tool. Explain step-by-step the build steps required to run the client on my desktop computer and how to configure SOCKS5 proxy settings in the browser. Additionally, explain with technical details why it is necessary to block RST packets using iptables when setting up an exit node on a Linux server, and the impact of this process on network security.
 

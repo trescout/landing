@@ -29,7 +29,7 @@ git clone --recurse-submodules <this repo>
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero instalar y ejecutar el proyecto Madeira. Como alguien sin conocimientos de programación, ¿podrías explicarme paso a paso cómo configurar esta capa de compatibilidad en mi dispositivo iPhone sin jailbreak? Explícame cómo realizar los pasos necesarios del depurador y del sideloading.
 

@@ -42,7 +42,7 @@ portless myapp next dev
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Yerel geliştirme ortamımda çalışan servislerimin port numaraları yerine .localhost uzantılı kalıcı adresler kullanmasını istiyorum. Portless aracını kullanarak projemi çalıştır ve servislerime https://myapp.localhost gibi tanımlanabilir adresler üzerinden erişebilmemi sağla.
 
@@ -63,4 +63,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/portless/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

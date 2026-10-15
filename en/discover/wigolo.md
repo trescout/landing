@@ -33,7 +33,7 @@ npx wigolo doctor
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 Use Wigolo to research the web, pull data, and synthesize your findings by citing sources. When performing transactions, stick to the local-first working principle, use basic tools that do not require an API key, and report your results in a structured way.
 

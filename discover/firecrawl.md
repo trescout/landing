@@ -33,7 +33,7 @@ npm install @mendable/firecrawl-js
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Firecrawl kullanarak belirttiğim web sitesindeki verileri tara ve yapay zekâ modellerinin kolayca işleyebileceği temiz bir Markdown formatına dönüştür. Sayfa içeriğini çekerken karmaşık yapıları temizle ve yalnızca anlamlı metinleri, yapılandırılmış verileri veya gerekli görsel bilgilerini ayıkla.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/firecrawl/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -1,6 +1,6 @@
 # O que é Gateway?
 
-*Glossário · Dev · Última atualização: 22 de setembro de 2026*
+*Dev · Última atualização: 22 de setembro de 2026*
 
 Gateway (em português, porta de entrada), é o ponto de conexão que gerencia o tráfego entre diferentes redes.
 

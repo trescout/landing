@@ -1,6 +1,6 @@
 # ¿Qué es Headless Browser?
 
-*Glosario · Dev · Última actualización: 22 de septiembre de 2026*
+*Dev · Última actualización: 22 de septiembre de 2026*
 
 El navegador sin interfaz (headless browser) es un navegador completo que funciona sin pantalla.
 

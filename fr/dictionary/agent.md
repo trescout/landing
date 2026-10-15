@@ -1,6 +1,6 @@
 # Qu'est-ce que Agent ?
 
-*Glossaire · AI · Dernière mise à jour : 9 juillet 2026*
+*AI · Dernière mise à jour : 9 juillet 2026*
 
 Une unité logicielle intelligente capable de prendre elle-même des décisions et d'utiliser des outils pour effectuer la tâche ciblée.
 

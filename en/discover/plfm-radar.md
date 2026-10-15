@@ -45,7 +45,7 @@ PLFM RADAR is an open-source phased array radar system operating at a 10.5 GHz (
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I would like to examine the 10.5 GHz phased array hardware schematics and FPGA signal processing blocks of the PLFM RADAR project. Could you prepare a simulation Python script that explains FMCW chirp signal generation, Range-Doppler 2D FFT calculation, and data transmission to a Python-based PPI radar display? Could you show the distance and velocity detection algorithm for an artificial target step-by-step?
 

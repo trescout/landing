@@ -51,7 +51,7 @@ tailcat hedef-node 8080
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte mit dem Tailcat-Tool einen verschlüsselten Dateiübertragungstunnel zwischen zwei verschiedenen Servern über das Tailscale-Mesh-Netzwerk einrichten. Können Sie erklären, wie man den Listener auf der Serverseite startet, wie man das TAR-Archiv von der Standardausgabe auf der Clientseite streamt und wie man die tsnet-Authentifizierung verwaltet?
 

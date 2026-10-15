@@ -31,7 +31,7 @@ cd embabel-agent-examples/scripts/kotlin
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Embabel çerçevesini kullanarak Java Sanal Makinesi üzerinde çalışan, hedefe yönelik aksiyon planlayabilen bir yapay zekâ ajanı tasarlamak istiyorum. Spring tabanlı bir mimaride @Agent, @Goal ve @Action yapılarını kullanarak, kodumdaki mevcut nesne modelleriyle uyumlu, dinamik kararlar alabilen bir akış oluşturmama yardımcı ol.
 
@@ -54,4 +54,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/embabel-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

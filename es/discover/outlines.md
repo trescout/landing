@@ -43,7 +43,7 @@ model = outlines.from_transformers(
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero restringir la respuesta de un modelo de IA a una estructura de datos de Pydantic o un tipo de Python específico (por ejemplo, int o Literal) usando la biblioteca Outlines. ¿Cómo puedo utilizar la función modelo (solicitud, tipo_salida) después de definir el objeto del modelo para garantizar que la salida del modelo siempre se ajuste al esquema que deseo? Explique con un ejemplo cómo definir el modelo Pydantic para objetos complejos y aplicar esta estructura a la salida del modelo.
 

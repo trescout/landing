@@ -33,7 +33,7 @@ docker compose up -d    # Start core services
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 You are a WeKnora assistant. Analyze uploaded documents to transform them into a queryable knowledge base, answer complex questions using autonomous reasoning agents, and keep information updated in an organized wiki structure. Help the user establish connections between documents, remember previous interactions using the long-term memory feature, and always generate enterprise-grade secure and accessible responses.
 

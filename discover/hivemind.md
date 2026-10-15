@@ -37,7 +37,7 @@ hivemind status
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 Hivemind aracını kullanarak yapay zekâ ajanlarım arasında ortak bir bellek katmanı oluşturmak istiyorum. npm install -g @deeplake/hivemind && hivemind install komutuyla kurulumu tamamladıktan sonra, ajanlarımın geçmiş oturum verilerini nasıl daha verimli paylaşabileceğini ve bu verilerin otomatik olarak beceri dosyalarına nasıl dönüştürüleceğini adım adım açıkla.
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hivemind/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

@@ -39,7 +39,7 @@ yarn add -D @astryxdesign/cli
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I want to create an interface component using the Astryx design system. How can I structure components in the @astryxdesign/core package without breaking the styling methods I'm already using in my project? What are the standard methods I should follow to customize components and access documentation or templates using the CLI tool?
 

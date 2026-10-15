@@ -15,7 +15,7 @@ Coding-interview-university propose un plan d'études complet couvrant les bases
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je me prépare pour un entretien de génie logiciel en utilisant le programme Coding Interview University. Créez un plan d'étude quotidien pour que j'apprenne les structures de données, les algorithmes et les sujets informatiques abordés dans cette ressource. Pouvez-vous préparer une feuille de route du niveau débutant au niveau avancé qui comprend les matières de base que je dois apprendre, l'ordre dans lequel je dois les étudier et les ressources avec lesquelles je peux m'entraîner ?
 

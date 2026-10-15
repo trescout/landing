@@ -34,7 +34,7 @@ obliteratus ui
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Analice los comportamientos de rechazo en un modelo de IA y elimine quirúrgicamente las estructuras internas que desencadenan estos comportamientos sin dañar las capacidades lingüísticas generales del modelo. Durante el proceso, utilice técnicas como la descomposición SVD para identificar restricciones y garantizar que el modelo responda sin obstáculos artificiales.
 

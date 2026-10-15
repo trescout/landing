@@ -38,7 +38,7 @@ graphify install               # register the skill with your AI assistant
 
 ## If you don't write code
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 I converted this project directory into a knowledge graph using Graphify. Now, using this structure, I want you to analyze the relationships between concepts in the project, explain how complex code blocks are connected to each other, and detail the role of master nodes such as 'APIRouter' in the system. Please distinguish between information coming directly from the source code and inferred connections by taking into account the 'EXTRACTED' and 'INFERRED' tags when performing your analysis.
 

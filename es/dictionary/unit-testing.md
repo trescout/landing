@@ -1,6 +1,6 @@
 # ¿Qué es Unit Testing?
 
-*Glosario · Dev · Última actualización: 14 de junio de 2026*
+*Dev · Última actualización: 14 de junio de 2026*
 
 Es un método de prueba que verifica si las partes más pequeñas del software funcionan correctamente por sí solas.
 

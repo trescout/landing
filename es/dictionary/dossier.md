@@ -1,6 +1,6 @@
 # ¿Qué es Dossier?
 
-*Glosario · Data · Última actualización: 11 de junio de 2026*
+*Data · Última actualización: 11 de junio de 2026*
 
 Es un sistema de archivos organizado en el que se reúnen todos los documentos e información sobre un tema o persona en particular.
 

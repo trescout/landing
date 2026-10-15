@@ -1,6 +1,6 @@
 # Qu'est-ce que Infotainment Systems ?
 
-*Glossaire · Dev · Dernière mise à jour : 22 septembre 2026*
+*Dev · Dernière mise à jour : 22 septembre 2026*
 
 Les systèmes d'infodivertissement sont des écrans tactiles intégrés aux véhicules qui regroupent la navigation, la musique et les réglages de la voiture.
 

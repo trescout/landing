@@ -1,6 +1,6 @@
 # Dementia nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 16 Ağustos 2026*
+*Yapay Zekâ · Son güncelleme: 16 Ağustos 2026*
 
 Beyindeki sinir hücrelerinin hasar görmesiyle hafıza, düşünme ve günlük yaşam becerilerinin ciddi şekilde zayıfladığı bir durumdur.
 
@@ -38,8 +38,8 @@ Evet, erken teşhis için verileri analiz edebilir veya hastaların günlük ya�
 - [Working Memory](https://trescout.com/dictionary/working-memory/)
 - [Long-term Memory](https://trescout.com/dictionary/long-term-memory/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/dementia/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

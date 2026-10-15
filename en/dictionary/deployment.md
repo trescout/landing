@@ -1,6 +1,6 @@
 # What is Deployment?
 
-*Dictionary · Dev · Last updated: September 19, 2026*
+*Dev · Last updated: September 19, 2026*
 
 Deployment (software deployment / going live) is the process of compiling and installing a software component, which has been developed and tested in a local environment, onto target servers or cloud infrastructure, and making it available to end users.
 

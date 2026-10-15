@@ -36,7 +36,7 @@ npx skills add Canner/WrenAI            # auto-detects Claude Code, Cursor, Clin
 
 ## Se você não programa
 
-🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)
+Cole isto no seu agente (Claude Code · Codex · Antigravity)
 
 Configure minha conexão com o banco de dados usando WrenAI, crie o esqueleto do projeto e execute minha primeira consulta. Em seguida, enriqueça o contexto incluindo os dados da lógica de negócios na pasta bruta em meu projeto.
 

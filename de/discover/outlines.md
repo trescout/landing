@@ -43,7 +43,7 @@ model = outlines.from_transformers(
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte die Antwort eines KI-Modells mithilfe der Outlines-Bibliothek auf eine bestimmte Pydantic-Datenstruktur oder einen bestimmten Python-Typ (z. B. int oder Literal) beschränken. Wie kann ich nach der Definition des Modellobjekts die Funktion model(request, output_type) verwenden, um sicherzustellen, dass die Ausgabe des Modells immer dem gewünschten Schema entspricht? Bitte erläutern Sie anhand eines Beispiels, wie Sie das Pydantic-Modell für komplexe Objekte definieren und diese Struktur auf die Modellausgabe anwenden.
 

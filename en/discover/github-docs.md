@@ -19,7 +19,7 @@ GitHub Docs is an open source repository containing the source code of documenta
 
 ## How to use it with AI?
 
-🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)
+Paste this into your AI agent (Claude Code · Codex · Antigravity)
 
 This repository (github/docs) is the source repository for GitHub's official open source documentation. Examine the content structure and contribution guide and it gives me a road map in Turkish: how can I contribute to this documentation, where to find the content files and what steps I need to follow for my first contribution.
 

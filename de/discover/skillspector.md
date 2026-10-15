@@ -59,7 +59,7 @@ skillspector scan https://github.com/user/my-skill
 
 ## Wenn Sie nicht programmieren
 
-🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
+Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)
 
 Ich möchte einen KI-Agenten-Skill mit dem SkillSpector-Tool einer Sicherheitsüberprüfung unterziehen. Wie verwende ich den Befehl „skillspector scan ./my-skill/“, um in einem lokalen Verzeichnis nach Talenten zu suchen, und welche Parameter sollte ich dem Befehl hinzufügen, um die Scanergebnisse in „report.json“ im JSON-Format zu speichern?
 

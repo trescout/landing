@@ -1,6 +1,6 @@
 # O que é Protocol Buffers?
 
-*Glossário · Dev · Última atualização: 18 de julho de 2026*
+*Dev · Última atualização: 18 de julho de 2026*
 
 > Protobuf
 

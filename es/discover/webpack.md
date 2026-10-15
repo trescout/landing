@@ -35,7 +35,7 @@ yarn add webpack --dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Como desarrollador web, quiero empaquetar de manera eficiente archivos JavaScript y otros activos estáticos en mis proyectos. ¿Cómo puedo administrar mis módulos, configurar la división de código y definir cargadores adecuados para mi proyecto usando Webpack? Ayúdame a crear un ejemplo de archivo de configuración para principiantes.
 

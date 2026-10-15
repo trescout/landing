@@ -332,6 +332,7 @@ ENRICH_SYS=("Sen TreScout için Türkçe içerik editörüsün; kod bilmeyene bi
  "Sana README ve ondan AYIKLANMIŞ gerçek komut blokları verilecek (boş da olabilir). "
  "MUTLAK KURALLAR: UYDURMA, sadece README'de geçeni kullan. Komutu SADECE verilen bloklardan BİREBİR al (tek karakter bile değiştirme/ekleme yok); emin değilsen boş bırak. "
  "'siz' dili; em dash (—) YASAK; pazarlama/abartı yok; TreScout bu aracı geliştirmedi, yalnızca tanıtıyor. "
+ "Türkçe metinde 'AI' yazma, 'yapay zekâ' yaz (proje ve terim adları hariç: 'AI Hedge Fund' kalır); 'HuggingFace' değil 'Hugging Face'; noktalı virgül yalnız ögeleri arasında zaten virgül bulunan sıralı cümleleri ayırır, başka yerde nokta ya da virgül kullan; 'ama', 'ancak', 'fakat' öncesine virgül koyma; cümleye rakamla başlama. "
  "OKUR YAZILIMCI OLMAYABİLİR: bir ürün, servis ya da teknoloji adı geçiriyorsan (Zendesk, Docker, Redis, Slack gibi) "
  "yanına 2-4 kelimeyle ne olduğunu ekle ('destek yazılımı Zendesk', 'veriyi saklayan PostgreSQL'). Kısaltmayı ilk "
  "geçtiği yerde aç. Bunu yan cümleyle yap, madde sayısını ve cümle sayısını artırma; metni uzatmak değil anlaşılır kılmak amaç. "
@@ -420,7 +421,7 @@ def rich_sections(g, cmds=None):
     komut_var=bool(g.get("kurulum") or g.get("calistirma") or (cmds and (cmds.get("kurulum") or cmds.get("calistirma"))))
     if komut_var and g.get("ai_prompt"):  # elle eklenen komutlar da bu bölümü açar (README'den komut çıkmasa bile)
         s+=('<section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head">'
-            '<span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span>'
+            '<span>Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span>'
             '<button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div>'
             '<p class="disc-ai-text">'+esc(g["ai_prompt"])+'</p></div></section>\n      ')
     facts=""
@@ -456,6 +457,13 @@ def editorial_sections(editorial):
     return s
 
 
+def repo_yolu(url, yedek):
+    """Üst etikette deponun GERÇEK yazımı (BerriAI/litellm) · başlıktan türetilen ad
+    büyük/küçük harfi bozuyordu ("Litellm"). 2026-10-15."""
+    m = re.match(r"https?://github\.com/([^/?#]+/[^/?#]+)", url or "")
+    return m.group(1) if m else yedek
+
+
 def source_links(e, url):
     """GitHub ve katalogda doğrulanmış resmî kaynaklar."""
     items = []
@@ -474,7 +482,8 @@ def build_page(e, rich=None):
     # Detay sayfası H1 · Gemini'nin yazdığı editöryel başlık (varsa); yoksa repo adı.
     # Keşif LİSTESİ (kartlar) repo adını kullanır · burası yalnız tek-tek açılan sayfa.
     headline=(rich.get("baslik") if rich else None) or e.get("headline") or title
-    eyebrow_repo=f" · {esc(title)}" if headline.strip().lower()!=title.strip().lower() else ""
+    # Üst etiket: "Keşif" geri bağlantıda zaten var, tekrarlanmıyor (2026-10-15)
+    eyebrow_repo=esc(repo_yolu(url, title))
     lang=e["lang"];stars=e["stars"];momentum=e["momentum"];date=e["date"]
     canon=f"https://trescout.com/discover/{slug}/";ogimg=f"https://trescout.com/assets/discover/og/{slug}.webp"
     ld=json.dumps({"@context":"https://schema.org","@type":"Article","headline":headline,"inLanguage":"tr",
@@ -510,12 +519,12 @@ def build_page(e, rich=None):
       '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n</head>\n')
     body=('<body>\n<a class="skip-link" href="#main">Ana içeriğe atla</a>\n'+NAV+'\n<main id="main">\n<article class="disc">\n'
       '<a class="disc-back" href="/discover/">← Keşif</a>\n'
-      f'<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub{eyebrow_repo}</span>{mom}</div>\n'
+      f'<div class="disc-top"><span class="disc-eyebrow">GitHub · {eyebrow_repo}</span>{mom}</div>\n'
       f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
       f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{guncelleme_html}{shot_html}{editorial_html}{rich_html}{relsec}\n'
       f'{source_links(e, url)}\n'
       f'<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun {date} tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>\n'
-      f'<aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporlarda bulun.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p>'
+      f'<aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporlarda bulun.</strong> TreScout her gün GitHub, Hacker News ve Hugging Face\'i tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p>'
       +make_form(slug)+f'<a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>\n'
       '</article>\n</main>\n'+FOOTER+'\n'+('<script src="/assets/discover.js" defer></script>\n' if rich else '')+'<script src="/assets/subscribe.js" defer></script>\n'+VERCEL+'<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
     return head+body
@@ -629,8 +638,6 @@ def _set_page_headline(c, headline):
     if not os.path.exists(p): return
     html=open(p,encoding="utf-8").read()
     html=re.sub(r'<h1 class="disc-title">.*?</h1>', f'<h1 class="disc-title">{esc(headline)}</h1>', html, count=1, flags=re.S)
-    if f'GitHub · {esc(c["title"])}' not in html:  # eyebrow'a repo adı ekle (yoksa)
-        html=re.sub(r'(<span class="disc-eyebrow">Keşif · GitHub)(</span>)', rf'\1 · {esc(c["title"])}\2', html, count=1)
     open(p,"w",encoding="utf-8").write(html)
 
 def audit_headlines(cat, key, limit):

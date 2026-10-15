@@ -33,7 +33,7 @@ npm run dev
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero diseñar una ontología usando Ontology-Playground. Cargue la plantilla inicial seleccionando un campo como Comercio minorista, Atención médica o Finanzas. Luego, agregue nuevos tipos de entidades a esta plantilla, defina las relaciones entre ellos y muéstreme los pasos que necesito para exportar este modelo que creé en formato RDF/XML.
 

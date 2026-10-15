@@ -1,6 +1,6 @@
 # What is Web Interface?
 
-*Dictionary · Dev · Last updated: June 3, 2026*
+*Dev · Last updated: June 3, 2026*
 
 It is a visual interface that allows you to easily manage complex software or artificial intelligence models via your internet browser.
 

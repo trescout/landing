@@ -35,7 +35,7 @@ spf
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero administrar las operaciones de mis archivos de manera más visual y eficiente en la terminal. He instalado la herramienta Superfile y quiero empezar a utilizarla. ¿Puede guiarme sobre los comandos básicos de administración de archivos, los atajos y cómo puedo usar la interfaz de manera más eficiente?
 

@@ -34,7 +34,7 @@ npm install @strands-agents/harness
 
 ## Si vous ne codez pas
 
-🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
+Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 
 Je souhaite démarrer et tester la boucle de l'agent AI en installant le package strands-harness dans mon environnement Python ou TypeScript. Après avoir installé la bibliothèque nécessaire, pouvez-vous écrire le code qui me permettra de créer un agent simple et de donner un exemple de tâche ?
 

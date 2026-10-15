@@ -1,6 +1,6 @@
 # What is Structured Latent?
 
-*Dictionary · AI · Last updated: August 2, 2026*
+*AI · Last updated: August 2, 2026*
 
 It is the transformation of complex data into a regular and meaningful mathematical form that artificial intelligence can understand more easily.
 

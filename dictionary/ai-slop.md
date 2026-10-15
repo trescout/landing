@@ -1,6 +1,6 @@
 # AI-slop nedir?
 
-*Sözlük · Yapay Zekâ · Son güncelleme: 14 Temmuz 2026*
+*Yapay Zekâ · Son güncelleme: 14 Temmuz 2026*
 
 Yapay zekâ tarafından hızlıca üretilmiş, düşük kaliteli ve genellikle bir değer katmayan içerik yığınıdır.
 
@@ -33,8 +33,8 @@ Yapay zekâ tarafından üretilen her şey slop değildir; sadece özensiz ve de
 - [Generative AI](https://trescout.com/dictionary/generative-ai/)
 - [Hallucination](https://trescout.com/dictionary/hallucination/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ai-slop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.

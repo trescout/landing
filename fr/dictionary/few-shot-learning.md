@@ -1,6 +1,6 @@
 # Qu'est-ce que Few-shot Learning ?
 
-*Glossaire · AI · Dernière mise à jour : 3 juin 2026*
+*AI · Dernière mise à jour : 3 juin 2026*
 
 C’est la capacité de l’intelligence artificielle à apprendre une nouvelle tâche avec très peu d’exemples.
 

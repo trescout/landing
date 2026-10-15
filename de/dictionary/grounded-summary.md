@@ -1,6 +1,6 @@
 # Was ist Grounded Summary?
 
-*Glossar · AI · Zuletzt aktualisiert: 9. Juni 2026*
+*AI · Zuletzt aktualisiert: 9. Juni 2026*
 
 Es handelt sich um eine zusammenfassende Methode, die keine Erfindung beinhaltet und durch künstliche Intelligenz erstellt wird, indem nur die bereitgestellten Quelldokumente berücksichtigt werden.
 

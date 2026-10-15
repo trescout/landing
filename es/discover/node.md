@@ -23,7 +23,7 @@ Node.js ofrece un entorno de ejecución que permite ejecutar código JavaScript 
 
 ## Si no programa
 
-🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)
+Pegue esto en su agente (Claude Code · Codex · Antigravity)
 
 Quiero desarrollar una aplicación de servidor basada en JavaScript utilizando el entorno Node.js. ¿Puede explicar las características básicas de ejecución que ofrece esta plataforma y los elementos estructurales a los que debo prestar atención al crear aplicaciones de red escalables?
 

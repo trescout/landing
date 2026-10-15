@@ -40,7 +40,7 @@ SELECT df.start(
 
 ## Kod bilmiyorsanız
 
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
+Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın
 
 PostgreSQL üzerinde pg_durable eklentisini kullanarak bir iş akışı oluşturmak istiyorum. Veritabanı içinde hata toleranslı ve kalıcı bir süreç yönetmek için df.start() fonksiyonunu nasıl yapılandırmalıyım? SQL adımlarını birbirine bağlayan ~> ve |=> operatörlerini kullanarak, verileri işleyen ve hata durumunda kaldığı yerden devam edebilen bir yapıyı nasıl kurabilirim? Lütfen bu süreci SQL komutları ile örneklendirerek açıkla.
 
@@ -60,4 +60,4 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pg-durable/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
