@@ -1,4 +1,4 @@
-# Temel Model Araştırması İçin Açık Geliştirme Platformu
+# Temel model araştırması için açık geliştirme platformu
 
 Temel modellerin araştırılması ve geliştirilmesi için bir araştırma programı, yazılım platformu ve topluluktur. Veri işlemeden ön eğitim, son eğitim ve değerlendirmeye uzanan kapsamı belgeler.
 

@@ -1,4 +1,4 @@
-# Kodlama Ajanları için Karpathy Yönergeleri
+# Kodlama ajanları için Karpathy yönergeleri
 
 Andrej Karpathy’nin LLM’lerin kodlama hatalarına ilişkin gözlemlerinden türetildiği belirtilen bu yönerge paketi, kodlama ajanlarının çalışma biçimine rehberlik eder. Claude Code plugin’i, proje başına CLAUDE.md ve Cursor kuralları için seçenekler sunar.
 

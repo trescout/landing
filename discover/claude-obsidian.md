@@ -1,4 +1,4 @@
-# Claude Code İçin Yerel Bilgi Sistemi
+# Claude Code için yerel bilgi sistemi
 
 Claude Code ve uyumlu Agent Skills sunucuları için yerel öncelikli bir bilgi sistemidir. Kaynak materyallerini kaynak gösteren, bağlantılı Obsidian sayfalarına dönüştürür.
 

@@ -1,4 +1,4 @@
-# Projeleriniz İçin Ücretsiz Veri Kaynakları
+# Projeleriniz için ücretsiz veri kaynakları
 
 Public-apis, uygulama geliştiricilerin projelerinde kullanabileceği ücretsiz uygulama programlama arayüzlerini (API) kategorize edilmiş bir şekilde sunan kapsamlı bir liste. Yazılım geliştirme süreçlerinde ihtiyaç duyulan harici veri kaynaklarına erişimi kolaylaştıran merkezi bir referans noktası görevi görüyor.
 

@@ -1,4 +1,4 @@
-# Kendi Teknolojilerinizi Sıfırdan İnşa Edin
+# Kendi teknolojilerinizi sıfırdan inşa edin
 
 **Build Your Own X**; veritabanı, işletim sistemi, Git, Docker ve programlama dili gibi en sevdiğiniz teknolojileri **sıfırdan yeniden yazmanızı** sağlayan adım adım rehberlerin derlemesidir. Feynman'ın 'Yaratamadığım şeyi anlayamam' felsefesiyle, yaparak öğrenme deneyimi sunar.
 

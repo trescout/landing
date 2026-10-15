@@ -1,4 +1,4 @@
-# Kişisel Sayfa ve Dosyalar İçin Özel Arama Motoru
+# Kişisel sayfa ve dosyalar için özel arama motoru
 
 Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.
 

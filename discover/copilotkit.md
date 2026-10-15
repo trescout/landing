@@ -1,4 +1,4 @@
-# Uygulamalarınız İçin yapay zekâ Arayüzleri
+# Uygulamalarınız için yapay zekâ arayüzleri
 
 CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.
 

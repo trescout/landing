@@ -1,4 +1,4 @@
-# Servislerinizi Gerçek Zamanlı Yönetin
+# Servislerinizi gerçek zamanlı yönetin
 
 **iii**, backend yığınınızdaki tüm servisleri (kuyruk, cron, HTTP, state, gözlemlenebilirlik, ajanlar, sandbox) **gerçek zamanlı oluşturma, genişletme ve izleme** yöntemidir. Normalde ayrı entegrasyon zorlukları çıkaran parçaları tek bir noktadan yönetilebilir kılar.
 

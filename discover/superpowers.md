@@ -1,4 +1,4 @@
-# Kodlama Ajanları İçin Gelişmiş Metodoloji
+# Kodlama ajanları için gelişmiş metodoloji
 
 **Superpowers**, kodlama ajanlarınız için **bileşik becerilerden** oluşan kapsamlı bir yazılım geliştirme metodolojisidir. Ajan tabanlı iş akışlarını standartlaştırır. Claude Code, Codex CLI, Gemini CLI ve daha fazlasıyla birlikte çalışır.
 

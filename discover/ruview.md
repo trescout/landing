@@ -1,4 +1,4 @@
-# WiFi Sinyalleriyle Kablosuz Algılama Platformu
+# Wi-Fi sinyalleriyle kablosuz algılama platformu
 
 WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.
 

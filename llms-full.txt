@@ -42879,7 +42879,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 # KEŞİF (TAM İÇERİK)
 
-# Kendi Teknolojilerinizi Sıfırdan İnşa Edin
+# Kendi teknolojilerinizi sıfırdan inşa edin
 
 **Build Your Own X**; veritabanı, işletim sistemi, Git, Docker ve programlama dili gibi en sevdiğiniz teknolojileri **sıfırdan yeniden yazmanızı** sağlayan adım adım rehberlerin derlemesidir. Feynman'ın 'Yaratamadığım şeyi anlayamam' felsefesiyle, yaparak öğrenme deneyimi sunar.
 
@@ -42974,7 +42974,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Projeleriniz İçin Ücretsiz Veri Kaynakları
+# Projeleriniz için ücretsiz veri kaynakları
 
 Public-apis, uygulama geliştiricilerin projelerinde kullanabileceği ücretsiz uygulama programlama arayüzlerini (API) kategorize edilmiş bir şekilde sunan kapsamlı bir liste. Yazılım geliştirme süreçlerinde ihtiyaç duyulan harici veri kaynaklarına erişimi kolaylaştıran merkezi bir referans noktası görevi görüyor.
 
@@ -43158,7 +43158,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yazılım Mülakatlarına Hazırlık Rehberi
+# Yazılım mülakatlarına hazırlık rehberi
 
 Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisayar bilimleri (computer science) temellerini kapsayan kapsamlı bir çalışma planı sunuyor. Bu kaynak, teknik mülakatlara hazırlık sürecinde ihtiyaç duyulan teorik ve pratik bilgileri yapılandırılmış bir müfredatla birleştiriyor.
 
@@ -43200,7 +43200,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kodlama Ajanları İçin Gelişmiş Metodoloji
+# Kodlama ajanları için gelişmiş metodoloji
 
 **Superpowers**, kodlama ajanlarınız için **bileşik becerilerden** oluşan kapsamlı bir yazılım geliştirme metodolojisidir. Ajan tabanlı iş akışlarını standartlaştırır. Claude Code, Codex CLI, Gemini CLI ve daha fazlasıyla birlikte çalışır.
 
@@ -43308,7 +43308,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yapay zekâ Ajanlarınıza Güç Katın
+# Yapay zekâ ajanlarınıza güç katın
 
 ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçlarına **beceriler, içgüdüler, hafıza optimizasyonu ve güvenlik taraması** kazandıran kapsamlı bir sistemdir. Tekil konfigürasyon dosyaları yerine, ajanın daha tutarlı, güvenli ve önce-araştır mantığıyla çalışmasını sağlayan hazır bir katman sunar.
 
@@ -43390,7 +43390,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kullanıcı Etkileşimleriyle Gelişen yapay zekâ
+# Kullanıcı etkileşimleriyle gelişen yapay zekâ
 
 NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan (autonomous agent) altyapısı sunuyor. Python tabanlı bu sistem, kişiselleştirilmiş iş akışları oluşturmak için sürekli öğrenen bir yapı (continuous learning) kullanıyor.
 
@@ -43533,7 +43533,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kodlama Ajanları için Karpathy Yönergeleri
+# Kodlama ajanları için Karpathy yönergeleri
 
 Andrej Karpathy’nin LLM’lerin kodlama hatalarına ilişkin gözlemlerinden türetildiği belirtilen bu yönerge paketi, kodlama ajanlarının çalışma biçimine rehberlik eder. Claude Code plugin’i, proje başına CLAUDE.md ve Cursor kuralları için seçenekler sunar.
 
@@ -43665,7 +43665,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Görsel İş Akışları ve AI Otomasyonu
+# Görsel iş akışları ve yapay zekâ otomasyonu
 
 n8n, görsel canvas, özel kod, yapay zekâ ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 
@@ -43867,7 +43867,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Ücretsiz Alan Adı Alın
+# Ücretsiz alan adı alın
 
 **FreeDomain**, herkesin dijital bir kimliğe sahip olabilmesi için **ücretsiz alan adı** hizmeti sunar. Benzersiz bir adres kaydedebilir ve Cloudflare gibi dilediğiniz DNS sağlayıcısıyla yönetebilirsiniz. Web'de var olmanın maliyetini sıfıra indirin.
 
@@ -44027,7 +44027,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Belgelerinizi yapay zekâya Hazırlayın
+# Belgelerinizi yapay zekâya hazırlayın
 
 **MarkItDown** (Microsoft); Word, PDF, PowerPoint, Excel ve daha fazlasını büyük dil modellerinin kolayca okuyabileceği **temiz Markdown** metnine çeviren hafif bir Python aracıdır. Belge içindeki başlıkları, listeleri ve tabloları koruyarak dönüştürür.
 
@@ -44448,7 +44448,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yapay Zekâ Kodlama Aracıları İçin Kural Seti
+# Yapay zekâ kodlama araçları için kural seti
 
 Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti sistemidir. Amaç, görev için gereken kodu yazarken doğrulama, hata yönetimi, güvenlik ve erişilebilirliği korumaktır.
 
@@ -44752,7 +44752,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Terminalde yapay zekâ Destekli Kodlama
+# Terminalde yapay zekâ destekli kodlama
 
 **Claude Code**; terminalinizde yaşayan ve **kod tabanınızı derinlemesine anlayan** ajan tabanlı bir kodlama aracıdır. Doğal dil komutlarıyla dosyaları okur, değişiklik yapar ve testleri çalıştırarak geliştirme sürecinizi hızlandırır. (Bu sayfadaki birçok aracı onunla birlikte kullanabilirsiniz.)
 
@@ -47102,7 +47102,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yapay zekâ Ajanınıza Kalıcı Hafıza Kazandırın
+# Yapay zekâ ajanınıza kalıcı hafıza kazandırın
 
 **claude-mem**, yapay zekâ ajanlarınızın **oturumlar arası hatırlama** yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, yapay zekâ ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 
@@ -47181,7 +47181,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# WiFi Sinyalleriyle Kablosuz Algılama Platformu
+# Wi-Fi sinyalleriyle kablosuz algılama platformu
 
 WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.
 
@@ -47422,7 +47422,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yapay zekâ Tasarımlarını Profesyonelleştirin
+# Yapay zekâ tasarımlarını profesyonelleştirin
 
 Yapay zekâ ajanları arayüz üretirken çoğu zaman şablon odaklı sonuçlar verir. **Taste Skill**, ajanlara daha etkili **yerleşim, tipografi, hareket ve boşluk** kullanımı öğreten taşınabilir bir beceri setidir. Bu sayede yapay zekâ ile oluşturulan arayüzler çok daha özgün ve profesyonel görünür.
 
@@ -47709,7 +47709,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Açıklayıcı Matematik Animasyonlarını Programlayın
+# Açıklayıcı matematik animasyonlarını programlayın
 
 Matematik videoları için kesin ve programatik animasyonlar üretmenize yardımcı olan bir animasyon motorudur. Animasyonları Python ile tanımlayabilir ve örnek sahneler üzerinden başlayabilirsiniz.
 
@@ -47958,7 +47958,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yerel Ağda Dosya ve Mesaj Paylaşımı
+# Yerel ağda dosya ve mesaj paylaşımı
 
 Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.
 
@@ -48597,7 +48597,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Web Verilerini yapay zekâya Hazırlayın
+# Web verilerini yapay zekâya hazırlayın
 
 **Crawl4AI**; büyük dil modelleri için optimize edilmiş, açık kaynak bir **web tarayıcı ve kazıyıcıdır**. Web sayfalarını, yapay zekâ modellerinin kolayca işleyebileceği temiz ve yapılandırılmış formatlara (Markdown vb.) dönüştürür.
 
@@ -49627,7 +49627,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kodlarınızı yapay zekâyla Sorgulayın
+# Kodlarınızı yapay zekâyla sorgulayın
 
 Karşınızda tanımadığınız 200.000 satırlık bir kod tabanı veya devasa bir doküman arşivi mi var? **Understand Anything**, tüm bu içeriği içine girip **soru sorabileceğiniz** bir haritaya dönüştürür. Claude Code, Codex, Antigravity ve Gemini CLI ile uyumlu çalışır.
 
@@ -50910,7 +50910,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Sıfırdan yapay zekâ Mühendisliği Eğitimi
+# Sıfırdan yapay zekâ mühendisliği eğitimi
 
 Yapay zekâ mühendisliğine sıfırdan giriş: **485 ders, 20 faz ve yaklaşık 320 saatlik içerik.** Lineer cebirden otonom ajanlara kadar her algoritmayı önce matematiğiyle, ardından **elle kod yazarak** öğretir. Python, TypeScript, Rust ve Julia dillerini kapsayan bu kurs tamamen ücretsiz ve açık kaynaklıdır.
 
@@ -51221,7 +51221,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Bağımsız Web Tarayıcısı ve Motoru Projesi
+# Bağımsız web tarayıcısı ve motoru projesi
 
 Ladybird, web standartlarını temel alan bağımsız bir web tarayıcısı ve tarayıcı motoru geliştirme projesidir. Resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir. Çok süreçli mimarisinde ağ bağlantıları ve görüntü çözme ayrı süreçlerde yürütülür; sekme renderer süreçleri sandbox içinde çalışır.
 
@@ -51364,7 +51364,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Son 30 Günün yapay zekâ Destekli Özeti
+# Son 30 günün yapay zekâ destekli özeti
 
 Last30days-skill, Reddit, X, YouTube, Hacker News ve Polymarket gibi platformlarda araştırma yaparak güncel verileri sentezleyen bir yapay zekâ yeteneği (AI agent skill) sunuyor. Python tabanlı bu araç, farklı kaynaklardan elde edilen bilgileri birleştirerek kullanıcılar için doğrulanabilir özetler oluşturuyor.
 
@@ -52278,7 +52278,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Windows Sistemini Gereksizlerden Arındırın
+# Windows sistemini gereksizlerden arındırın
 
 Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre dışı bırakmayı sağlayan bir PowerShell betiğidir. Kullanıcıların sistemlerini özelleştirmelerine ve gereksiz bileşenlerden arındırarak sistem hafifletme (debloat) işlemi yapmalarına olanak tanır.
 
@@ -52352,7 +52352,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Modern ve Açık Kaynaklı CRM
+# Modern ve açık kaynaklı CRM
 
 **Twenty**, teknik ekiplere iş süreçlerine göre özelleştirilebilir modern bir CRM kurma imkânı veren açık kaynaklı bir **Salesforce alternatifidir**. Yapay zekâ destekli iş akışlarına odaklanan bu sistemi kendi sunucunuzda barındırabilirsiniz.
 
@@ -52451,7 +52451,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kendi Medya Sunucunuzu Kurun
+# Kendi medya sunucunuzu kurun
 
 **Jellyfin**, kendi film, dizi ve müzik koleksiyonunuzu yönetip **tüm cihazlarınıza yayınlamanızı** sağlayan özgür bir medya sunucusudur. Plex ve Emby'ye alternatif olan bu platformda premium kilitler, reklamlar veya gizli ücretler bulunmaz.
 
@@ -52529,7 +52529,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Görüntülerde Yüz Değiştirme Rehberi
+# Görüntülerde yüz değiştirme rehberi
 
 Python tabanlı Faceswap, derin sahte (deepfake) teknolojisini kullanarak görüntülerdeki yüzleri değiştirmeye olanak tanıyan açık kaynaklı bir yazılımdır. Kullanıcıların video ve görseller üzerinde yüz dönüştürme (face swapping) işlemleri gerçekleştirmesine imkân sağlar.
 
@@ -52640,7 +52640,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# İngilizcenizi İleri Seviyeye Taşıyın
+# İngilizcenizi ileri seviyeye taşıyın
 
 **English Level Up Tips**, ileri seviye İngilizce için stratejik çalışma planları, seçilmiş kaynaklar ve yöntemler sunan kapsamlı bir rehberdir. Dil becerilerini gerçekten geliştirmek isteyenler için derli toplu bir kaynak niteliğindedir.
 
@@ -54258,7 +54258,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kendi Sesli yapay zekâ Karakterinizi Oluşturun
+# Kendi sesli yapay zekâ karakterinizi oluşturun
 
 **AIRI**, kendi sunucunuzda barındırabileceğiniz, **gerçek zamanlı sesli sohbet** yapabilen ve Minecraft veya Factorio gibi oyunları oynayabilen yapay zekâ tabanlı bir sanal karakter platformudur. Neuro-sama tarzı etkileşimli dijital varlıkları masaüstü ve web ortamına taşır.
 
@@ -54953,7 +54953,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Veri Mühendisliğinde Uzmanlaşın
+# Veri mühendisliğinde uzmanlaşın
 
 **Data Engineering Zoomcamp**, üretime hazır **veri hatları (data pipelines)** oluşturmayı kapsayan, DataTalksClub tarafından sunulan dokuz haftalık ücretsiz bir eğitimdir. Uygulamalı ve projeye dayalı bir müfredat sunar.
 
@@ -56297,7 +56297,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Finansal Piyasaları Analiz Eden Model
+# Finansal piyasaları analiz eden model
 
 **Kronos**, finansal piyasaların kendine has örüntülerini çözümlemek için tasarlanmış bir **temel modeldir (foundation model)**. Piyasa verilerinin karmaşık yapısını analiz etmeye odaklanır ve kantitatif finans ile makine öğrenmesi çalışmalarında kullanılır.
 
@@ -56512,7 +56512,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# İnternetsiz Hayatta Kalma Bilgisayarı
+# İnternetsiz hayatta kalma bilgisayarı
 
 **Project N.O.M.A.D**; internet bağlantısı gerektirmeyen, kritik araçlar, bilgi kaynakları ve yapay zekâ ile donatılmış **kendi kendine yeten, çevrimdışı bir bilgisayar** kurma projesidir. Acil durumlar ve internetin olmadığı senaryolar için özel olarak tasarlanmıştır.
 
@@ -56789,7 +56789,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Belirteçsiz Çok Dilli Ses Tasarımı
+# Belirteçsiz çok dilli ses tasarımı
 
 **VoxCPM**; çok dilli konuşma üretimi, yaratıcı **ses tasarımı** ve gerçekçi **ses kopyalama (voice cloning)** işlemleri için geliştirilmiş, belirteçsiz (tokenizer-free) açık kaynak bir TTS modelidir.
 
@@ -56909,7 +56909,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Uygulamalarınız İçin yapay zekâ Arayüzleri
+# Uygulamalarınız için yapay zekâ arayüzleri
 
 CopilotKit, yapay zekâ ajanları ve üretken arayüzler (generative UI) geliştirmek için React ve Angular tabanlı bir ön yüz yığını (frontend stack) sunuyor. AG-UI protokolü üzerinden uygulamalara akıllı yetenekler entegre edilmesini sağlayan bir altyapı sağlıyor.
 
@@ -58122,7 +58122,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Popüler Platformların Açık Kaynak Kopyaları
+# Popüler platformların açık kaynak kopyaları
 
 Clone-Wars, Airbnb, Instagram ve Netflix gibi popüler platformların 100'den fazla açık kaynaklı kopyasını (clone) tek bir çatı altında topluyor. Geliştiriciler, projelerin kaynak kodlarına, teknoloji yığınlarına (tech stack) ve canlı demo bağlantılarına erişerek uygulama mimarilerini inceleyebiliyor.
 
@@ -58819,7 +58819,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Dil Modellerinde Güvenlik Sınırlarını Aşın
+# Dil modellerinde güvenlik sınırlarını aşın
 
 **Heretic**, transformer tabanlı dil modellerinden **güvenlik hizalaması (safety alignment)** kısıtlarını, pahalı yeniden eğitim süreçlerine gerek kalmadan kaldıran teknik bir araçtır. 'Abliteration' tekniğini kullanan bu çözüm, ileri düzey ve araştırma odaklı bir yapıdadır.
 
@@ -60443,7 +60443,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yüksek Performanslı Algoritmik İşlem Platformu
+# Yüksek performanslı algoritmik işlem platformu
 
 Nautilus Trader, Rust diliyle geliştirilmiş, deterministik olay güdümlü mimariye (event-driven architecture) sahip bir alım satım motorudur (trading engine). Yüksek performanslı finansal sistemler için üretim seviyesinde (production-grade) altyapı çözümleri sunar.
 
@@ -60869,7 +60869,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Claude ile Uzman Asistan Deneyimi
+# Claude ile uzman asistan deneyimi
 
 Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için **beceriler, bağlayıcılar, slash komutları ve alt-ajanları** bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, **Claude Cowork** için tasarlanmış 11 hazır eklenti içerir.
 
@@ -61144,7 +61144,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# MacOS İçin Akıllı Terminal ve Otomasyon
+# macOS için akıllı terminal ve otomasyon
 
 Ghostty tabanlı bir macOS terminali olan cmux, dikey sekmeler ve yapay zekâ kodlama ajanları için bildirim desteği sunuyor. Çoklu görev yönetimi ve programlanabilirlik odaklı bu araç, geliştiricilerin çalışma ortamlarını düzenlemelerine yardımcı oluyor.
 
@@ -61736,7 +61736,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# İlham Veren Geliştirici Portfolyoları
+# İlham veren geliştirici portfolyoları
 
 **Developer Portfolios**, yazılımcıların kişisel projelerini ve yetkinliklerini sergilediği **portfolyo örneklerinden** oluşan derli toplu bir koleksiyondur. Kendi sitenizi tasarlarken ilham almak için idealdir.
 
@@ -62380,7 +62380,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Yapay zekâ Destekli Mühendislik Süreçleri
+# Yapay zekâ destekli mühendislik süreçleri
 
 **Compound Engineering**; Claude Code, Codex ve Cursor için geliştirilmiş resmi bir eklentidir. Temel felsefesi nettir: **her mühendislik işi bir sonrakini zorlaştırmamalı, aksine kolaylaştırmalıdır.** Bu amaçla, geliştirme sürecini iyileştiren yapay zekâ becerileri ve ajanları sunar.
 
@@ -62616,7 +62616,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# YouTube için Açık Kaynaklı Alternatif Arayüz
+# YouTube için açık kaynaklı alternatif arayüz
 
 Invidious, YouTube için açık kaynaklı alternatif bir arayüzdür. Resmî README; reklam ve takip olmadan kullanım, JavaScript gerektirmeme, Google’dan bağımsız abonelikler ile veri içe ve dışa aktarma özelliklerini listeler.
 
@@ -62784,7 +62784,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kubernetes Dağıtımlarını Otomatize Edin
+# Kubernetes dağıtımlarını otomatikleştirin
 
 Argo CD, Kubernetes ortamları için bildirimsel sürekli dağıtım (declarative continuous deployment) süreçlerini yöneten bir araçtır. Uygulama durumlarını Git depolarıyla senkronize ederek altyapı üzerinde otomatik güncellemeler sağlar.
 
@@ -64521,7 +64521,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Hızlı ve Yerel PDF Metin İşleme
+# Hızlı ve yerel PDF metin işleme
 
 Firecrawl tarafından geliştirilen PDF Inspector, PDF dosyalarını incelemek, sınıflandırmak ve metinlerini ayıklamak için tasarlanmış hızlı bir Rust kütüphanesidir. Taranmış belgeler ile metin tabanlı dosyaları ayırt ederek veri işleme süreçlerinde akıllı yönlendirme kararları alınmasını sağlar.
 
@@ -64587,7 +64587,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Borsa Verilerini Ücretsiz Takip Edin
+# Borsa verilerini ücretsiz takip edin
 
 **OpenStock**, pahalı borsa platformlarına karşı geliştirilmiş açık kaynaklı bir alternatiftir. Gerçek zamanlı fiyat takibi, **kişiselleştirilmiş uyarılar** ve şirket analizleri sunar. Herkes için erişilebilir ve sonsuza dek ücretsizdir.
 
@@ -64792,7 +64792,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Servislerinizi Gerçek Zamanlı Yönetin
+# Servislerinizi gerçek zamanlı yönetin
 
 **iii**, backend yığınınızdaki tüm servisleri (kuyruk, cron, HTTP, state, gözlemlenebilirlik, ajanlar, sandbox) **gerçek zamanlı oluşturma, genişletme ve izleme** yöntemidir. Normalde ayrı entegrasyon zorlukları çıkaran parçaları tek bir noktadan yönetilebilir kılar.
 
@@ -67019,7 +67019,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Videolarınızı Tüm Platformlara Otomatik Yükleyin
+# Videolarınızı tüm platformlara otomatik yükleyin
 
 **social-auto-upload**, videolarınızı **TikTok, YouTube, Bilibili, Douyin ve Xiaohongshu** gibi sosyal medya platformlarına otomatik olarak yükleyen bir Python aracıdır. Çok platformlu içerik dağıtım süreçlerinizi kolaylaştırır.
 
@@ -67085,7 +67085,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Claude Code İçin Yerel Bilgi Sistemi
+# Claude Code için yerel bilgi sistemi
 
 Claude Code ve uyumlu Agent Skills sunucuları için yerel öncelikli bir bilgi sistemidir. Kaynak materyallerini kaynak gösteren, bağlantılı Obsidian sayfalarına dönüştürür.
 
@@ -70169,7 +70169,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Sıfırdan Kendi LLM Modelini Eğit
+# Sıfırdan kendi LLM modelinizi eğitin
 
 **train-llm-from-scratch**, veri setini indirme aşamasından metin üretimine kadar bir **büyük dil modelini sıfırdan eğitmenin** sade ve adım adım yöntemini sunar. Öğrenme süreciniz için pratik bir kaynaktır.
 
@@ -70429,7 +70429,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Cursor Editörünü Eklentilerle Özelleştirin
+# Cursor editörünü eklentilerle özelleştirin
 
 **Cursor Plugins**; Cursor kod editörü için hazırlanan **resmi eklenti spesifikasyonu** ve hazır resmi eklentileri içerir. Geliştiricilerin kendi eklentilerini oluşturmalarına olanak tanır.
 
@@ -74813,7 +74813,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# En İyi Ücretsiz Uygulama Seçkisi
+# En iyi ücretsiz uygulama seçkisi
 
 **Awesome Free Apps**, bilgisayar ve telefonunuz için seçilmiş **ücretsiz uygulamaların** kategorize edilmiş bir rehberidir. Windows, macOS, Linux, Android ve iOS filtreleri ile 'açık kaynak' ve 'önerilen' işaretlerini kullanarak aradığınız araca hızla ulaşabilirsiniz.
 
@@ -75577,7 +75577,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Donanımınıza En Uygun yapay zekâ Modelini Bulun
+# Donanımınıza en uygun yapay zekâ modelini bulun
 
 Whichllm, donanımınız üzerinde en yüksek performansı gösteren yerel büyük dil modellerini (large language models) belirlemenizi sağlayan bir araçtır. Parametre sayısından ziyade güncel kıyaslama testlerine (benchmarks) odaklanan bu Python tabanlı yazılım, tek komutla en uygun modeli seçmenize olanak tanır.
 
@@ -76728,7 +76728,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kişisel Sayfa ve Dosyalar İçin Özel Arama Motoru
+# Kişisel sayfa ve dosyalar için özel arama motoru
 
 Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.
 
@@ -76883,7 +76883,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Sağlıkta Açık Kaynak yapay zekâ
+# Sağlıkta açık kaynak yapay zekâ
 
 OpenMed, sağlık hizmetleri alanında kullanılan açık kaynaklı yapay zekâ (artificial intelligence) modellerini ve veri setlerini bir araya getiren bir platformdur. Tıp odaklı uygulamalar için geliştirilen bu Python tabanlı kütüphane, sağlık verilerinin işlenmesi süreçlerini standartlaştırmayı amaçlar.
 
@@ -78246,7 +78246,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Fizik Simülasyonlarında Temasları Yönetin
+# Fizik simülasyonlarında temasları yönetin
 
 **PPF Contact Solver**, ZOZO'nun fizik motoru olarak fizik tabanlı simülasyonlarda **kumaş, katı ve ip** arasındaki temasları çözümlemek için tasarlanmıştır. Farklı geometrilerin etkileşimini hesaplayarak simülasyonlarda fiziksel tutarlılığı artırır. Blender eklentisi sayesinde uzaktan da çalıştırılabilir.
 
@@ -78749,7 +78749,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Doğal ve Akıcı Sesler Üretin
+# Doğal ve akıcı sesler üretin
 
 **MOSS-TTS** (MOSI.AI ve OpenMOSS); yüksek sadakatli **konuşma ve ses üretimi** sağlayan açık kaynak bir model ailesidir. Uzun metinli konuşma sentezi, çoklu konuşmacı desteği ve gerçek zamanlı akış gibi senaryolar için çözümler sunar.
 
@@ -79495,7 +79495,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Otonom Robotik Dünyasına Giriş Yapın
+# Otonom robotik dünyasına giriş yapın
 
 Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sistemlerin temel prensiplerini ve algoritmik yapılarını akademik bir yaklaşımla sunuyor. TeX dilinde hazırlanan bu kaynak, otonom hareket ve sistem tasarımı konularında teknik bir rehberlik sağlıyor.
 
@@ -79877,7 +79877,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Claude Code ile Disiplinli Geliştirme
+# Claude Code ile disiplinli geliştirme
 
 **Claude Code Harness**, ham ajan çalışmasının dağılma eğilimini frenleyerek **planla, yap, gözden geçir ve teslim et** disiplinini sunar. Planların sohbette kaybolmasını önler, testleri sınırlandırır ve daha tutarlı kod üretimi sağlar. Claude Code merkezli olsa da Codex ve OpenCode için de entegrasyon yolları sunar.
 
@@ -79948,7 +79948,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Temel Model Araştırması İçin Açık Geliştirme Platformu
+# Temel model araştırması için açık geliştirme platformu
 
 Temel modellerin araştırılması ve geliştirilmesi için bir araştırma programı, yazılım platformu ve topluluktur. Veri işlemeden ön eğitim, son eğitim ve değerlendirmeye uzanan kapsamı belgeler.
 
@@ -80047,7 +80047,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Kurumsal Ölçekte yapay zekâ Eğitimi
+# Kurumsal ölçekte yapay zekâ eğitimi
 
 Miles, büyük dil modelleri (LLM) ve görsel dil modelleri (VLM) için pekiştirmeli öğrenme (reinforcement learning) süreçlerini yöneten kurumsal odaklı bir çerçeve. Eğitim sonrası süreçleri (post-training) optimize etmek amacıyla geliştirilen bu Python tabanlı araç, slime projesiyle eş zamanlı olarak evrimleşiyor.
 
@@ -81148,7 +81148,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# Dünya Modeli Araştırmalarını Hızlandırın
+# Dünya modeli araştırmalarını hızlandırın
 
 **stable-worldmodel**; 'dünya modelleri' (world models) üzerine yapılan araştırmaların **tekrarlanabilir** ve karşılaştırılabilir olmasını sağlayan bir platformdur. Özellikle araştırma ve değerlendirme süreçlerine odaklanır.
 
@@ -81370,7 +81370,7 @@ TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türk
 
 ---
 
-# İphone Cihazlarda Windows Oyunları Çalıştırın
+# iPhone'da Windows oyunları çalıştırın
 
 Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı projesi. Yazılım, işlemci emülasyonu yapan FEX-Emu, Windows uygulama katmanı Wine ve grafik dönüştürücü DXMT araçlarını birleştirerek çalışıyor.
 

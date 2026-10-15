@@ -1,4 +1,4 @@
-# Yazılım Mülakatlarına Hazırlık Rehberi
+# Yazılım mülakatlarına hazırlık rehberi
 
 Coding-interview-university, yazılım mühendisi olmak isteyenler için bilgisayar bilimleri (computer science) temellerini kapsayan kapsamlı bir çalışma planı sunuyor. Bu kaynak, teknik mülakatlara hazırlık sürecinde ihtiyaç duyulan teorik ve pratik bilgileri yapılandırılmış bir müfredatla birleştiriyor.
 

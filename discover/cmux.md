@@ -1,4 +1,4 @@
-# MacOS İçin Akıllı Terminal ve Otomasyon
+# macOS için akıllı terminal ve otomasyon
 
 Ghostty tabanlı bir macOS terminali olan cmux, dikey sekmeler ve yapay zekâ kodlama ajanları için bildirim desteği sunuyor. Çoklu görev yönetimi ve programlanabilirlik odaklı bu araç, geliştiricilerin çalışma ortamlarını düzenlemelerine yardımcı oluyor.
 

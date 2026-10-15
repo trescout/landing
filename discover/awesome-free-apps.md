@@ -1,4 +1,4 @@
-# En İyi Ücretsiz Uygulama Seçkisi
+# En iyi ücretsiz uygulama seçkisi
 
 **Awesome Free Apps**, bilgisayar ve telefonunuz için seçilmiş **ücretsiz uygulamaların** kategorize edilmiş bir rehberidir. Windows, macOS, Linux, Android ve iOS filtreleri ile 'açık kaynak' ve 'önerilen' işaretlerini kullanarak aradığınız araca hızla ulaşabilirsiniz.
 

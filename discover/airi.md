@@ -1,4 +1,4 @@
-# Kendi Sesli yapay zekâ Karakterinizi Oluşturun
+# Kendi sesli yapay zekâ karakterinizi oluşturun
 
 **AIRI**, kendi sunucunuzda barındırabileceğiniz, **gerçek zamanlı sesli sohbet** yapabilen ve Minecraft veya Factorio gibi oyunları oynayabilen yapay zekâ tabanlı bir sanal karakter platformudur. Neuro-sama tarzı etkileşimli dijital varlıkları masaüstü ve web ortamına taşır.
 

@@ -1,4 +1,4 @@
-# Bağımsız Web Tarayıcısı ve Motoru Projesi
+# Bağımsız web tarayıcısı ve motoru projesi
 
 Ladybird, web standartlarını temel alan bağımsız bir web tarayıcısı ve tarayıcı motoru geliştirme projesidir. Resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir. Çok süreçli mimarisinde ağ bağlantıları ve görüntü çözme ayrı süreçlerde yürütülür; sekme renderer süreçleri sandbox içinde çalışır.
 

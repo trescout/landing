@@ -1,4 +1,4 @@
-# Otonom Robotik Dünyasına Giriş Yapın
+# Otonom robotik dünyasına giriş yapın
 
 Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sistemlerin temel prensiplerini ve algoritmik yapılarını akademik bir yaklaşımla sunuyor. TeX dilinde hazırlanan bu kaynak, otonom hareket ve sistem tasarımı konularında teknik bir rehberlik sağlıyor.
 

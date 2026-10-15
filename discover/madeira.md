@@ -1,4 +1,4 @@
-# İphone Cihazlarda Windows Oyunları Çalıştırın
+# iPhone'da Windows oyunları çalıştırın
 
 Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı projesi. Yazılım, işlemci emülasyonu yapan FEX-Emu, Windows uygulama katmanı Wine ve grafik dönüştürücü DXMT araçlarını birleştirerek çalışıyor.
 

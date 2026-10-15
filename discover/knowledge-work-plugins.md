@@ -1,4 +1,4 @@
-# Claude ile Uzman Asistan Deneyimi
+# Claude ile uzman asistan deneyimi
 
 Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyonu için **beceriler, bağlayıcılar, slash komutları ve alt-ajanları** bir araya getirir. Claude'un o işin uzmanı gibi davranmasını sağlayan bu çözüm, **Claude Cowork** için tasarlanmış 11 hazır eklenti içerir.
 

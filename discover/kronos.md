@@ -1,4 +1,4 @@
-# Finansal Piyasaları Analiz Eden Model
+# Finansal piyasaları analiz eden model
 
 **Kronos**, finansal piyasaların kendine has örüntülerini çözümlemek için tasarlanmış bir **temel modeldir (foundation model)**. Piyasa verilerinin karmaşık yapısını analiz etmeye odaklanır ve kantitatif finans ile makine öğrenmesi çalışmalarında kullanılır.
 
