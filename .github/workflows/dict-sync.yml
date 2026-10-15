@@ -245,7 +245,20 @@ jobs:
       # eksik kalıyordu. Artık liste diller.py'den geliyor (--liste).
       - name: Dil listesi
         id: diller
-        run: echo "kodlar=$(python3 scripts/diller.py --liste)" >> "$GITHUB_OUTPUT"
+        run: |
+          # Çeviri önceliği arama trafiğine göre (Search Console 2026-07/10 tıklama payı:
+          # en %36, fr %19, es %11, de %5, pt %4). Kota biterse (2026-10-15'te iki Gemini
+          # projesi de tükendi) yarım kalan düşük trafikli diller olsun. Listede olmayan
+          # (yeni eklenen) dil ikinci dalgaya düşer.
+          ONCELIK="en fr es"
+          hepsi=" $(python3 scripts/diller.py --liste) "
+          dalga1=""; dalga2=""
+          for d in $ONCELIK; do case "$hepsi" in *" $d "*) dalga1="$dalga1 $d";; esac; done
+          for d in $hepsi; do case " $ONCELIK " in *" $d "*) ;; *) dalga2="$dalga2 $d";; esac; done
+          echo "kodlar=$(echo $dalga1 $dalga2)" >> "$GITHUB_OUTPUT"
+          echo "dalga1=$(echo $dalga1)" >> "$GITHUB_OUTPUT"
+          echo "dalga2=$(echo $dalga2)" >> "$GITHUB_OUTPUT"
+          echo "çeviri sırası:$dalga1 |$dalga2"
 
       - name: Tanıtım metinleri (tagline_XX · kisa_XX)
         id: tanitim_xx
@@ -354,19 +367,25 @@ jobs:
             # dilinin dosyalarına yazıyor (sayfa, .md, XX-cache.json); istek
             # aralığı gemini_zinciri'nde süreçler arası ortak (RPM aşılmaz).
             # Log satırları [dil] önekiyle.
-            pids=()
-            for d in ${{ steps.diller.outputs.kodlar }}; do
-              (
-                set -o pipefail
-                {
-                  k=0; python3 scripts/discover-en.py --lang=$d $LIMIT_ARG || k=1
-                  python3 scripts/dictionary-en.py --lang=$d $LIMIT_ARG || k=1
-                  exit $k
-                } 2>&1 | sed -u "s/^/[$d] /"
-              ) &
-              pids+=($!)
-            done
-            for p in "${pids[@]}"; do wait "$p" || hata=1; done
+            # İKİ DALGA (2026-10-15): önce yüksek trafikli diller paralel, bitince
+            # diğerleri. Kota ya da süre biterse eksik kalan ikinci dalga olur.
+            dalga() {
+              local pids=()
+              for d in "$@"; do
+                (
+                  set -o pipefail
+                  {
+                    k=0; python3 scripts/discover-en.py --lang=$d $LIMIT_ARG || k=1
+                    python3 scripts/dictionary-en.py --lang=$d $LIMIT_ARG || k=1
+                    exit $k
+                  } 2>&1 | sed -u "s/^/[$d] /"
+                ) &
+                pids+=($!)
+              done
+              for p in "${pids[@]}"; do wait "$p" || hata=1; done
+            }
+            dalga ${{ steps.diller.outputs.dalga1 }}
+            dalga ${{ steps.diller.outputs.dalga2 }}
           fi
           exit $hata
 
