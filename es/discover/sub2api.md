@@ -2,16 +2,16 @@
 
 Sub2API es un servicio intermediario de código abierto que proporciona acceso de punto único y costos compartidos a las suscripciones de Claude, OpenAI, Gemini y Grok.
 
-- ★ 43.885
+- ★ 44.184
 - Go
 - GitHub Trending · 2026-08-23
 
 ## Actualizaciones
 
+- **16 de octubre de 2026:** Estrellas 43,885 → 44,184, última versión v0.2.17 (16 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 43,558 → 43,885, última versión v0.2.16 (13 de octubre de 2026).
 - **9 de octubre de 2026:** Estrellas 43,391 → 43,558, última versión v0.2.15 (9 de octubre de 2026).
 - **7 de octubre de 2026:** Estrellas 43,206 → 43,391, última versión v0.2.14 (7 de octubre de 2026).
-- **2 de octubre de 2026:** Estrellas 43,199 → 43,206, última versión v0.2.13 (2 de octubre de 2026).
 
 ## Qué aporta
 

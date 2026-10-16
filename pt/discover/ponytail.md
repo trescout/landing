@@ -2,16 +2,16 @@
 
 Conjunto de regras e sistema de plugins com licença MIT para agentes de codificação por IA. Destina-se a preservar verificação, tratamento de erros, segurança e acessibilidade enquanto os agentes escrevem código necessário.
 
-- ★ 162.432
+- ★ 164.759
 - JavaScript
 - GitHub Trending · 2026-08-25
 
 ## Atualizações
 
+- **16 de outubro de 2026:** Estrelas 162,432 → 164,759, versão mais recente v5.3.0 (16 de outubro de 2026).
 - **13 de outubro de 2026:** Estrelas 158,247 → 162,432, versão mais recente v5.2.0 (13 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 158,137 → 158,247, versão mais recente v5.1.0 (8 de outubro de 2026).
 - **8 de outubro de 2026:** Estrelas 156,385 → 158,137, versão mais recente v5.0.0 (8 de outubro de 2026).
-- **6 de outubro de 2026:** Estrelas 155,501 → 156,385, versão mais recente v4.13.0 (5 de outubro de 2026).
 
 ## Instalação
 

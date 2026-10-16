@@ -41,7 +41,6 @@ Framework projenizin temel iskeletini kurarken, toolkit daha çok yardımcı ara
 ## İlgili araçlar
 
 - [MVT](https://trescout.com/discover/mvt/)
-- [Agent Native](https://trescout.com/discover/agent-native/)
 - [Agent Governance Toolkit](https://trescout.com/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/discover/agent-toolkit-for-aws/)
 

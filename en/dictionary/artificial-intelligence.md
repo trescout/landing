@@ -47,8 +47,8 @@ Artificial intelligence will change the way many jobs are done, but will general
 - [Openclaw](https://trescout.com/en/discover/openclaw/)
 - [Coding Interview University](https://trescout.com/en/discover/coding-interview-university/)
 - [Superpowers](https://trescout.com/en/discover/superpowers/)
-- [ECC](https://trescout.com/en/discover/ecc/)
 - [REA](https://trescout.com/en/discover/rea/)
+- [ECC](https://trescout.com/en/discover/ecc/)
 - [Hermes Agent](https://trescout.com/en/discover/hermes-agent/)
 - [Opencode](https://trescout.com/en/discover/opencode/)
 

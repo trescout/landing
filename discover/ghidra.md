@@ -2,16 +2,16 @@
 
 Ghidra, Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen ve açık kaynak olarak paylaşılan kapsamlı bir yazılım tersine mühendislik (SRE) çerçevesidir. Java ve C++ çekirdeğiyle geliştirilen platform; derlenmiş ikili (binary) dosyaları kaynak koda dönüştürür, güvenlik araştırmacılarına gelişmiş dekompiler, simbolik analiz ve çoklu mimari desteği sunar.
 
-- ★ 84.292
+- ★ 89.183
 - Java
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 84.292 → 89.183, son sürüm Ghidra_12.1.4_build (21 Eylül 2026).
 - **12 Ekim 2026:** Yıldız 79.733 → 84.292, son sürüm Ghidra_12.1.4_build (21 Eylül 2026).
 - **27 Eylül 2026:** Yıldız 78.142 → 79.733, son sürüm Ghidra_12.1.4_build (21 Eylül 2026).
 - **17 Eylül 2026:** Yıldız 74.145 → 78.142, son sürüm Ghidra_12.1.3_build (18 Ağustos 2026).
-- **31 Ağustos 2026:** Yıldız 73.203 → 74.145, son sürüm Ghidra_12.1.3_build (18 Ağustos 2026).
 
 ## Ne kazandırır?
 

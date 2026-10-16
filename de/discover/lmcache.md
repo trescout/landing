@@ -36,8 +36,8 @@ Wie kann ich die KV-Cache-Verwaltung für große Sprachmodelle mithilfe der LMCa
 ## Verwandte Begriffe aus dem Glossar
 
 - [KV Cache](https://trescout.com/de/dictionary/kv-cache/)
-- [Token](https://trescout.com/de/dictionary/token/)
 - [Large Language Models](https://trescout.com/de/dictionary/large-language-models/)
+- [Token](https://trescout.com/de/dictionary/token/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 

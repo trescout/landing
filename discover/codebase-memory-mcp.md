@@ -2,16 +2,16 @@
 
 Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi grafiğine (knowledge graph) dönüştürerek yüksek performanslı kod istihbaratı sunuyor. C diliyle geliştirilen araç, 158 programlama dilini desteklerken sorgu sürelerini milisaniyenin altına indiriyor ve jeton (token) kullanımını azaltıyor.
 
-- ★ 45.659
+- ★ 46.686
 - C
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 45.659 → 46.686, son sürüm v0.12.0 (15 Ekim 2026).
 - **2 Ekim 2026:** Yıldız 43.473 → 45.659, son sürüm v0.11.0 (15 Eylül 2026).
 - **16 Eylül 2026:** Yıldız 41.472 → 43.473, son sürüm v0.11.0 (15 Eylül 2026).
 - **31 Ağustos 2026:** Yıldız 39.459 → 41.472, son sürüm v0.10.8 (19 Ağustos 2026).
-- **19 Ağustos 2026:** Yıldız 39.354 → 39.459, son sürüm v0.10.8 (19 Ağustos 2026).
 
 ## Ne kazandırır?
 

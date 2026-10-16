@@ -45,8 +45,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 ## İlgili sözlük terimleri
 
 - [KV Cache](https://trescout.com/dictionary/kv-cache/)
-- [Token](https://trescout.com/dictionary/token/)
 - [Large Language Models](https://trescout.com/dictionary/large-language-models/)
+- [Token](https://trescout.com/dictionary/token/)
 - [LLM](https://trescout.com/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 

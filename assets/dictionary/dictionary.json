@@ -9358,5 +9358,18 @@
     "kisa_pt": "Conjunto de regras aplicadas no sistema, que estabelece os padrões de segurança e uso para as organizações.",
     "kisa_es": "Un conjunto de reglas aplicadas en el sistema que establecen los estándares de seguridad y uso para las organizaciones.",
     "kisa_de": "Ein Regelwerk, das Sicherheits- und Nutzungsstandards von Institutionen festlegt und auf das System angewendet wird."
+  },
+  {
+    "slug": "autoindex",
+    "en": "Autoindex",
+    "full": "Automatic Indexing",
+    "cat": "data",
+    "kisa": "Verilerin hızlıca bulunabilmesi için sistem tarafından kendiliğinden oluşturulan ve yönetilen dizinleme yapısıdır.",
+    "date": "2026-10-16",
+    "kisa_en": "It is an indexing structure automatically created and managed by the system to allow data to be found quickly.",
+    "kisa_fr": "Il s'agit d'une structure d'indexation créée et gérée automatiquement par le système afin de retrouver rapidement les données.",
+    "kisa_es": "Es una estructura de indexación creada y gestionada automáticamente por el sistema para que los datos puedan encontrarse rápidamente.",
+    "kisa_pt": "É uma estrutura de indexação criada e gerada automaticamente pelo sistema para que os dados possam ser encontrados rapidamente.",
+    "kisa_de": "Es handelt sich um eine vom System automatisch erstellte und verwaltete Indexierungsstruktur, damit Daten schnell gefunden werden können."
   }
 ]

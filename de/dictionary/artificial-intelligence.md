@@ -47,8 +47,8 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 - [Openclaw](https://trescout.com/de/discover/openclaw/)
 - [Coding Interview University](https://trescout.com/de/discover/coding-interview-university/)
 - [Superpowers](https://trescout.com/de/discover/superpowers/)
-- [ECC](https://trescout.com/de/discover/ecc/)
 - [REA](https://trescout.com/de/discover/rea/)
+- [ECC](https://trescout.com/de/discover/ecc/)
 - [Hermes Agent](https://trescout.com/de/discover/hermes-agent/)
 - [Opencode](https://trescout.com/de/discover/opencode/)
 

@@ -2,15 +2,15 @@
 
 Harness SDK is an open-source development kit that provides end-to-end control and management for AI agents. Compatible with Python and TypeScript, this tool allows for the standardization of production-grade agents running on different models and cloud infrastructures.
 
-- ★ 8,821
+- ★ 8,836
 - GitHub Trending · 2026-09-24
 
 ## Updates
 
+- **October 16, 2026:** Stars 8,821 → 8,836, latest release python/v1.61.1 (October 15, 2026).
 - **October 15, 2026:** Stars 8,784 → 8,821, latest release python/v1.61.0 (October 14, 2026).
 - **October 12, 2026:** Stars 8,738 → 8,784, latest release python/v1.60.0 (October 12, 2026).
 - **October 8, 2026:** Stars 8,713 → 8,738, latest release harness-cli/v0.2.0 (October 8, 2026).
-- **October 7, 2026:** Stars 8,685 → 8,713, latest release python/v1.58.1 (October 6, 2026).
 
 ## What you get
 

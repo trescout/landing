@@ -2,16 +2,16 @@
 
 Desarrollado por BuilderIO, agent-native es un marco TypeScript centrado en la creación de aplicaciones nativas para agentes de inteligencia artificial. Permite a los desarrolladores integrar flujos de trabajo basados ​​en agentes directamente en la arquitectura de la aplicación.
 
-- ★ 7.259
+- ★ 7.370
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Actualizaciones
 
+- **16 de octubre de 2026:** Estrellas 7,259 → 7,370, última versión v0.1.282 (15 de octubre de 2026).
 - **15 de octubre de 2026:** Estrellas 7,155 → 7,259, última versión v0.1.281 (14 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 7,130 → 7,155, última versión v0.1.280 (13 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 7,121 → 7,130, última versión v0.1.279 (12 de octubre de 2026).
-- **12 de octubre de 2026:** Estrellas 7,109 → 7,121, última versión @agent-native/toolkit@0.207.0 (11 de octubre de 2026).
 
 ## Qué aporta
 
@@ -46,10 +46,10 @@ Quiero definir una acción para mi aplicación utilizando el marco Agent-Native.
 
 - [Agent-native Applications](https://trescout.com/es/dictionary/agent-native-applications/)
 - [Agent-native](https://trescout.com/es/dictionary/agent-native/)
-- [Toolkit](https://trescout.com/es/dictionary/toolkit/)
 - [Framework](https://trescout.com/es/dictionary/framework/)
 - [CLI](https://trescout.com/es/dictionary/cli/)
 - [API](https://trescout.com/es/dictionary/api/)
+- [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Para desarrolladores que desean sacar a los agentes de IA de la ventana de chat e integrarlos directamente en la arquitectura de la aplicación.
 

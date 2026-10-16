@@ -36,8 +36,8 @@ Como posso otimizar o gerenciamento de cache KV para modelos de linguagem grande
 ## Termos relacionados do glossário
 
 - [KV Cache](https://trescout.com/pt/dictionary/kv-cache/)
-- [Token](https://trescout.com/pt/dictionary/token/)
 - [Large Language Models](https://trescout.com/pt/dictionary/large-language-models/)
+- [Token](https://trescout.com/pt/dictionary/token/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 

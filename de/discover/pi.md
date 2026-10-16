@@ -2,16 +2,16 @@
 
 Pi ist ein KI-Agenten-Toolkit, das eine einheitliche Schnittstelle für große Sprachmodelle (Large Language Models) bietet und Softwareentwicklungsprozesse automatisiert. Es erleichtert Programmieraufgaben durch die Verwaltung von Agentenschleifen über eine terminalbasierte Benutzeroberfläche (TUI) und ein Befehlszeilentool (CLI).
 
-- ★ 114.829
+- ★ 115.607
 - TypeScript
 - GitHub Trending · 2026-09-16
 
 ## Aktualisierungen
 
+- **16. Oktober 2026:** Sterne 114,829 → 115,607, neueste Version v1.3.0 (15. Oktober 2026).
 - **13. Oktober 2026:** Sterne 113,434 → 114,829, neueste Version v1.2.0 (12. Oktober 2026).
 - **8. Oktober 2026:** Sterne 112,852 → 113,434, neueste Version v1.1.0 (7. Oktober 2026).
 - **6. Oktober 2026:** Sterne 112,575 → 112,852, neueste Version v1.0.4 (5. Oktober 2026).
-- **5. Oktober 2026:** Sterne 112,309 → 112,575, neueste Version v1.0.3 (5. Oktober 2026).
 
 ## Was es bringt
 

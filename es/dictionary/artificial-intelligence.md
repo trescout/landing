@@ -47,8 +47,8 @@ La inteligencia artificial cambiará la forma en que se realizan muchos trabajos
 - [Openclaw](https://trescout.com/es/discover/openclaw/)
 - [Coding Interview University](https://trescout.com/es/discover/coding-interview-university/)
 - [Superpowers](https://trescout.com/es/discover/superpowers/)
-- [ECC](https://trescout.com/es/discover/ecc/)
 - [REA](https://trescout.com/es/discover/rea/)
+- [ECC](https://trescout.com/es/discover/ecc/)
 - [Hermes Agent](https://trescout.com/es/discover/hermes-agent/)
 - [Opencode](https://trescout.com/es/discover/opencode/)
 

@@ -2,15 +2,15 @@
 
 Codex CLI es un agente de programación que se ejecuta en la terminal de su computadora local. Puede revisar código, realizar cambios en archivos y ejecutar comandos.
 
-- ★ 128.492
+- ★ 129.477
 - GitHub Trending · 2026-08-23
 
 ## Actualizaciones
 
+- **16 de octubre de 2026:** Estrellas 128,492 → 129,477, última versión rust-v0.163.0 (15 de octubre de 2026).
 - **10 de octubre de 2026:** Estrellas 128,208 → 128,492, última versión rust-v0.162.1 (9 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 128,352 → 128,208, última versión rust-v0.162.0 (8 de octubre de 2026).
 - **8 de octubre de 2026:** Estrellas 128,007 → 128,352, última versión rust-v0.161.0 (7 de octubre de 2026).
-- **6 de octubre de 2026:** Estrellas 127,591 → 128,007, última versión rust-v0.160.1 (5 de octubre de 2026).
 
 ## Instalación
 

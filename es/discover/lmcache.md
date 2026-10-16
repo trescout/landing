@@ -36,8 +36,8 @@ Pegue esto en su agente (Claude Code · Codex · Antigravity)
 ## Términos relacionados del glosario
 
 - [KV Cache](https://trescout.com/es/dictionary/kv-cache/)
-- [Token](https://trescout.com/es/dictionary/token/)
 - [Large Language Models](https://trescout.com/es/dictionary/large-language-models/)
+- [Token](https://trescout.com/es/dictionary/token/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 

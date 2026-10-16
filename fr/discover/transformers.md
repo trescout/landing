@@ -2,16 +2,16 @@
 
 Développé par Hugging Face, Transformers est une bibliothèque utilisée pour former et exécuter des modèles d'apprentissage automatique de pointe sur différents types de données tels que le texte, les images et l'audio. Il permet aux développeurs d'accéder à des modèles d'intelligence artificielle populaires et de les affiner.
 
-- ★ 167 017
+- ★ 167 756
 - Python
 - GitHub Trending · 2026-08-12
 
 ## Mises à jour
 
+- **16 octobre 2026:** Étoiles 167,017 → 167,756, dernière version v5.20.0 (15 octobre 2026).
 - **7 octobre 2026:** Étoiles 166,876 → 167,017, dernière version v5.19.0 (6 octobre 2026).
 - **1 octobre 2026:** Étoiles 165,067 → 166,876, dernière version v5.18.0 (30 septembre 2026).
 - **10 septembre 2026:** Étoiles 164,497 → 165,067, dernière version v5.17.0 (9 septembre 2026).
-- **27 août 2026:** Étoiles 164,253 → 164,497, dernière version v5.16.1 (26 août 2026).
 
 ## Ce que ça vous apporte
 

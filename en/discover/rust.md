@@ -2,12 +2,13 @@
 
 Rust stands out as a systems programming language aimed at developing reliable and efficient software. Adopted by a broad user base, this language provides an infrastructure for performance-focused applications.
 
-- ★ 120,232
+- ★ 120,404
 - Rust
 - GitHub Trending · 2026-10-15
 
 ## Updates
 
+- **October 16, 2026:** Stars 120,232 → 120,404, latest release 1.99.1 (October 16, 2026).
 - **October 15, 2026:** Stars 120,224 → 120,232, latest release 1.99.0 (October 1, 2026).
 
 ## What you get

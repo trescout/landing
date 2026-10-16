@@ -2,16 +2,16 @@
 
 DeskcommCRM ist eine Open-Source-Plattform für das Kundenbeziehungsmanagement (CRM), die für Unternehmen entwickelt wurde, die ihre Verkäufe über Chats abwickeln. Mit WhatsApp-Integration und integrierten KI-Agenten bietet es eine selbst gehostete Alternative zu kommerzieller Software mit ähnlichen Funktionen (Kommo, Octadesk, Intercom).
 
-- ★ 4.599
+- ★ 4.627
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Aktualisierungen
 
+- **16. Oktober 2026:** Sterne 4,599 → 4,627, neueste Version v1.83.0 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 4,530 → 4,599, neueste Version v1.81.0 (15. Oktober 2026).
 - **11. Oktober 2026:** Sterne 4,513 → 4,530, neueste Version v1.80.0 (11. Oktober 2026).
 - **10. Oktober 2026:** Sterne 4,497 → 4,513, neueste Version v1.79.0 (10. Oktober 2026).
-- **9. Oktober 2026:** Sterne 4,487 → 4,497, neueste Version v1.78.0 (8. Oktober 2026).
 
 ## Was es bringt
 

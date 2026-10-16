@@ -2,16 +2,16 @@
 
 Webpack é um empacotador que agrupa JavaScript e outros ativos da web para serem executados no navegador. Ele permite que aplicativos sejam carregados quando necessário, graças ao recurso de divisão de código que divide os módulos em partes gerenciáveis.
 
-- ★ 65.943
+- ★ 65.976
 - JavaScript
 - GitHub Trending · 2026-08-05
 
 ## Atualizações
 
+- **16 de outubro de 2026:** Estrelas 65,943 → 65,976, versão mais recente v5.112.0 (15 de outubro de 2026).
 - **19 de setembro de 2026:** Estrelas 65,949 → 65,943, versão mais recente v5.111.1 (18 de setembro de 2026).
 - **14 de setembro de 2026:** Estrelas 65,959 → 65,949, versão mais recente v5.111.0 (14 de setembro de 2026).
 - **2 de setembro de 2026:** Estrelas 65,962 → 65,959, versão mais recente v5.110.3 (1 de setembro de 2026).
-- **31 de agosto de 2026:** Estrelas 65,966 → 65,962, versão mais recente v5.110.2 (30 de agosto de 2026).
 
 ## O que você ganha
 

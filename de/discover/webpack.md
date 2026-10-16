@@ -2,16 +2,16 @@
 
 Webpack ist ein Bundler, der JavaScript und andere Web-Assets für die Ausführung im Browser bündelt. Dank der Code-Splitting-Funktion, die Module in verwaltbare Teile unterteilt, können Anwendungen bei Bedarf geladen werden.
 
-- ★ 65.943
+- ★ 65.976
 - JavaScript
 - GitHub Trending · 2026-08-05
 
 ## Aktualisierungen
 
+- **16. Oktober 2026:** Sterne 65,943 → 65,976, neueste Version v5.112.0 (15. Oktober 2026).
 - **19. September 2026:** Sterne 65,949 → 65,943, neueste Version v5.111.1 (18. September 2026).
 - **14. September 2026:** Sterne 65,959 → 65,949, neueste Version v5.111.0 (14. September 2026).
 - **2. September 2026:** Sterne 65,962 → 65,959, neueste Version v5.110.3 (1. September 2026).
-- **31. August 2026:** Sterne 65,966 → 65,962, neueste Version v5.110.2 (30. August 2026).
 
 ## Was es bringt
 

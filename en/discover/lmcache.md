@@ -36,8 +36,8 @@ How can I optimize KV cache management for large language models using the LMCac
 ## Related dictionary terms
 
 - [KV Cache](https://trescout.com/en/dictionary/kv-cache/)
-- [Token](https://trescout.com/en/dictionary/token/)
 - [Large Language Models](https://trescout.com/en/dictionary/large-language-models/)
+- [Token](https://trescout.com/en/dictionary/token/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 

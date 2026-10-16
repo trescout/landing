@@ -2,16 +2,16 @@
 
 GitHub Actions Runner Images enthalten die Umgebungen für virtuelle Maschinen, die von der GitHub Actions-Plattform zur Automatisierung von Softwareentwicklungsprozessen verwendet werden. Diese Images stellen die vorkonfigurierten Betriebssysteme und Toolsets bereit, die für Softwaretest- und -bereitstellungsprozesse erforderlich sind.
 
-- ★ 13.457
+- ★ 13.480
 - PowerShell
 - GitHub Trending · 2026-09-27
 
 ## Aktualisierungen
 
+- **16. Oktober 2026:** Sterne 13,457 → 13,480, neueste Version ubuntu-slim/20261012.23 (13. Oktober 2026).
 - **10. Oktober 2026:** Sterne 13,448 → 13,457, neueste Version win25/20261004.281 (7. Oktober 2026).
 - **9. Oktober 2026:** Sterne 13,445 → 13,448, neueste Version ubuntu-slim/20261005.17 (6. Oktober 2026).
 - **9. Oktober 2026:** Sterne 13,414 → 13,445, neueste Version win22/20261004.326 (5. Oktober 2026).
-- **2. Oktober 2026:** Sterne 13,393 → 13,414, neueste Version win11-vs2026-arm64/20260924.168 (29. September 2026).
 
 ## Was es bringt
 
