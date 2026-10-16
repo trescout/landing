@@ -22,7 +22,7 @@ Event payload’larına e-posta, isim, serbest metin, dış origin URL’si, ref
 |---|---|---|
 | **Keşif ilgisi** | `discovery_view` event sayısı | Kullanıcı tekilleştirmesi yapılmadığı için aggregate event hacmidir |
 | **Rapor okuma ilgisi** | `beta_report_open / report_preview_open` | Aynı sayfa veya aynı ziyaret için tekrarlar olabilir |
-| **Rapor değeri** | `report_time_saved_yes / (report_time_saved_yes + report_time_saved_no)` | Ürünün vaadini (zaman kazandırma) doğrudan soran tek sinyal; yanıt sayısı küçükken oran değil sayı okunur |
+| **Rapor değeri** | `report_time_saved_yes / (report_time_saved_yes + report_time_saved_no)` | Ürünün vaadini (zaman kazandırma) doğrudan soran tek sinyal; yanıt sayısı küçükken oran değil sayı okunur. Hedef değil gösterge: soruyu öne çıkarmak, yönlendirici söz ya da yalnız "Evet"i belirginleştirmek oranı şişirir (Goodhart); söz veya yer değişirse önceki dönemle karşılaştırılmaz |
 | **Form başlatma oranı** | `early_access_start / report_preview_open` | Form görünürlüğü ve trafik kaynağı ayrıca izlenmelidir |
 | **Form tamamlanma oranı** | `early_access_submit / early_access_start` | Submit event’i yalnız API başarılı yanıtından sonra üretilmelidir |
 | **Tekrar dönüş sinyali** | `beta_return_week_2` teslim edilen event sayısı | `firstSeen` yalnız consent sonrası tutulur; kullanıcı kimliği yoktur |
