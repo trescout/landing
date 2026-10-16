@@ -2,12 +2,13 @@
 
 Terax-ai fällt als terminalorientierte lokale Entwicklungsumgebung für künstliche Intelligenz (AI-native Dev Workspace) durch seine geringe Größenstruktur von 7 Megabyte auf. Dieses mit TypeScript entwickelte Tool bietet Entwicklern die Möglichkeit, direkt über das Terminal mit künstlicher Intelligenz zu programmieren.
 
-- ★ 8.790
+- ★ 9.324
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Aktualisierungen
 
+- **16. Oktober 2026:** Sterne 8,790 → 9,324, neueste Version v0.9.0 (16. Oktober 2026).
 - **2. August 2026:** Sterne 8,121 → 8,790, neueste Version v0.8.6 (27. Juli 2026).
 
 ## Was es bringt

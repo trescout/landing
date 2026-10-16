@@ -2,12 +2,13 @@
 
 CLI-Anything, komut satırı arayüzlerini (CLI) yapay zekâ ajanlarının doğrudan kullanabileceği bir formata dönüştüren bir çerçeve (framework). Yazılım araçlarını ajan uyumlu (agent-native) hâle getirerek, yapay zekâ modellerinin karmaşık sistem komutlarını daha etkili bir şekilde yönetmesini sağlıyor.
 
-- ★ 50.644
+- ★ 53.215
 - Python
 - GitHub Trending · 2026-08-16
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 50.644 → 53.215, son sürüm v0.4.0 (25 Haziran 2026).
 - **27 Eylül 2026:** Yıldız 47.443 → 50.644, son sürüm v0.4.0 (25 Haziran 2026).
 - **16 Ağustos 2026:** Yıldız 47.429 → 47.443, son sürüm v0.4.0 (25 Haziran 2026).
 

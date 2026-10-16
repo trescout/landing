@@ -2,12 +2,13 @@
 
 Terax-ai, en tant qu'environnement de développement local d'intelligence artificielle orienté terminal (espace de travail de développement natif IA), attire l'attention par sa structure de petite taille de 7 mégaoctets. Développé avec TypeScript, cet outil offre aux développeurs la possibilité de coder avec l'intelligence artificielle directement via le terminal.
 
-- ★ 8 790
+- ★ 9 324
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Mises à jour
 
+- **16 octobre 2026:** Étoiles 8,790 → 9,324, dernière version v0.9.0 (16 octobre 2026).
 - **2 août 2026:** Étoiles 8,121 → 8,790, dernière version v0.8.6 (27 juillet 2026).
 
 ## Ce que ça vous apporte

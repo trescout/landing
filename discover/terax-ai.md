@@ -2,12 +2,13 @@
 
 Terax-ai, terminal odaklı yapay zekâ yerel geliştirme ortamı (AI-native dev workspace) olarak 7 megabaytlık düşük boyutlu yapısıyla dikkat çekiyor. TypeScript ile geliştirilen bu araç, geliştiricilere terminal üzerinden doğrudan yapay zekâ destekli kodlama imkânı sunuyor.
 
-- ★ 8.790
+- ★ 9.324
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 8.790 → 9.324, son sürüm v0.9.0 (16 Ekim 2026).
 - **2 Ağustos 2026:** Yıldız 8.121 → 8.790, son sürüm v0.8.6 (27 Temmuz 2026).
 
 ## Ne kazandırır?

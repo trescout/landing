@@ -32,6 +32,7 @@ Use the XERJ tool to index the source code of this project and start coding by s
 
 ## Related dictionary terms
 
+- [Autoindex](https://trescout.com/en/dictionary/autoindex/)
 - [RAG](https://trescout.com/en/dictionary/rag/)
 - [Token](https://trescout.com/en/dictionary/token/)
 - [Rust](https://trescout.com/en/dictionary/rust/)

@@ -610,14 +610,14 @@
     "slug": "twenty",
     "title": "Twenty",
     "tagline": "Salesforce'a açık kaynaklı, yapay zekâ odaklı ve modern bir alternatif.",
-    "meta": "★ 58.367 · Lisans: özel",
+    "meta": "★ 58.411 · Lisans: özel",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Üretkenlik",
       "Geliştirici aracı"
     ],
-    "stars": 58367,
+    "stars": 58411,
     "image": "/assets/discover/og/twenty.webp",
     "headline": "Modern ve açık kaynaklı CRM",
     "last_review": "2026-10-16",
@@ -733,6 +733,13 @@
         "onceki_yildiz": 58241,
         "surum": "twenty/v2.47.0",
         "surum_tarihi": "2026-10-15"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 58411,
+        "onceki_yildiz": 58367,
+        "surum": "sdk/v2.48.0",
+        "surum_tarihi": "2026-10-16"
       }
     ],
     "tagline_en": "An open source, AI-driven and modern alternative to Salesforce.",
@@ -827,10 +834,10 @@
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "Yapay zekâ ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 100.574 · Apache-2.0",
+    "meta": "★ 101.166 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 100574,
+    "stars": 101166,
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
@@ -1027,6 +1034,13 @@
         "onceki_yildiz": 100384,
         "surum": "v13.39.0",
         "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 101166,
+        "onceki_yildiz": 100574,
+        "surum": "v13.40.0",
+        "surum_tarihi": "2026-10-16"
       }
     ],
     "tagline_en": "Persistent memory for your AI agent: Remembers cross-session context and is set up with a single command.",
@@ -16635,7 +16649,7 @@
     "slug": "opencode",
     "title": "Opencode",
     "tagline": "OpenCode, yazılım geliştirme süreçlerini otomatikleştirmek için tasarlanmış açık kaynaklı bir kodlama ajanıdır (coding agent).",
-    "meta": "★ 214.103 · TypeScript",
+    "meta": "★ 214.176 · TypeScript",
     "image": "/assets/discover/og/opencode.webp",
     "source": "GitHub",
     "date": "2026-06-28",
@@ -16643,7 +16657,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 214103,
+    "stars": 214176,
     "lite": false,
     "headline": "Açık kaynaklı yapay zekâ kodlama ajanı",
     "last_review": "2026-10-16",
@@ -16793,6 +16807,13 @@
         "yildiz": 214103,
         "onceki_yildiz": 212636,
         "surum": "v1.19.2",
+        "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 214176,
+        "onceki_yildiz": 214103,
+        "surum": "v1.19.3",
         "surum_tarihi": "2026-10-16"
       }
     ],
@@ -18547,7 +18568,7 @@
     "slug": "agentskills",
     "title": "Agentskills",
     "tagline": "Agent Skills, yapay zekâ ajanlarının görevlerini yerine getirirken kullandığı yetenekleri (skills) standartlaştıran bir teknik…",
-    "meta": "★ 24.952 · Python",
+    "meta": "★ 26.203 · Python",
     "image": "/assets/discover/og/agentskills.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -18555,7 +18576,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 24952,
+    "stars": 26203,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına standart yetenekler kazandırın",
     "last_review": "2026-10-16",
@@ -18569,6 +18590,11 @@
         "tarih": "2026-09-02",
         "yildiz": 24952,
         "onceki_yildiz": 23755
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 26203,
+        "onceki_yildiz": 24952
       }
     ],
     "tagline_en": "Agent Skills is a technique that standardizes the skills that artificial intelligence agents use while performing their duties.",
@@ -19703,7 +19729,7 @@
     "slug": "terax-ai",
     "title": "Terax AI",
     "tagline": "Terax-ai, terminal odaklı yapay zekâ yerel geliştirme ortamı (AI-native dev workspace) olarak 7 megabaytlık düşük boyutlu…",
-    "meta": "★ 8.790 · TypeScript",
+    "meta": "★ 9.324 · TypeScript",
     "image": "/assets/discover/og/terax-ai.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -19711,7 +19737,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8790,
+    "stars": 9324,
     "lite": false,
     "headline": "Terminal odaklı yapay zekâ geliştirme ortamı",
     "last_review": "2026-10-16",
@@ -19722,6 +19748,13 @@
         "onceki_yildiz": 8121,
         "surum": "v0.8.6",
         "surum_tarihi": "2026-07-27"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 9324,
+        "onceki_yildiz": 8790,
+        "surum": "v0.9.0",
+        "surum_tarihi": "2026-10-16"
       }
     ],
     "tagline_en": "Terax-ai is a 7-megabyte low-size, terminal-oriented artificial intelligence native development environment (AI-native dev workspace).",
@@ -34296,7 +34329,7 @@
     "slug": "ragflow",
     "title": "Ragflow",
     "tagline": "RAGFlow, büyük dil modelleri (LLM) için bağlam katmanı oluşturan açık kaynaklı bir getirme temelli üretim (RAG) motoru.",
-    "meta": "★ 91.477 · Go",
+    "meta": "★ 92.317 · Go",
     "image": "/assets/discover/og/ragflow.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -34304,7 +34337,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 91477,
+    "stars": 92317,
     "lite": false,
     "headline": "Veri odaklı yapay zekâ motoru",
     "tagline_en": "RAGFlow is an open source fetch-based generation (RAG) engine that creates a context layer for large language models (LLM).",
@@ -34348,6 +34381,13 @@
         "onceki_yildiz": 90512,
         "surum": "v1.0.0-rc1",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 92317,
+        "onceki_yildiz": 91477,
+        "surum": "v1.0.0-rc2",
+        "surum_tarihi": "2026-10-16"
       }
     ],
     "last_seen": "2026-08-15"
@@ -35530,7 +35570,7 @@
     "slug": "cli-anything",
     "title": "CLI-Anything",
     "tagline": "CLI-Anything, komut satırı arayüzlerini (CLI) yapay zekâ ajanlarının doğrudan kullanabileceği bir formata dönüştüren bir…",
-    "meta": "★ 50.644 · Python",
+    "meta": "★ 53.215 · Python",
     "image": "/assets/discover/og/cli-anything.webp",
     "source": "GitHub",
     "date": "2026-08-16",
@@ -35538,7 +35578,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 50644,
+    "stars": 53215,
     "lite": false,
     "headline": "Yazılımları yapay zekâ ajanına uyumlu yapın",
     "tagline_en": "CLI-Anything is a tool that converts command line interfaces (CLI) into a format that artificial intelligence agents can use directly.",
@@ -35559,6 +35599,13 @@
         "tarih": "2026-09-27",
         "yildiz": 50644,
         "onceki_yildiz": 47443,
+        "surum": "v0.4.0",
+        "surum_tarihi": "2026-06-25"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 53215,
+        "onceki_yildiz": 50644,
         "surum": "v0.4.0",
         "surum_tarihi": "2026-06-25"
       }
@@ -43578,14 +43625,14 @@
     "slug": "openflux",
     "title": "OpenFlux",
     "tagline": "Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır.",
-    "meta": "★ 2.120 · Go",
+    "meta": "★ 2.184 · Go",
     "image": "/assets/discover/og/openflux.webp",
     "source": "GitHub",
     "date": "2026-09-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2120,
+    "stars": 2184,
     "summary": "Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır. Eklenebilir taşıma protokolleri (pluggable transports) desteği sayesinde ağ trafiği üzerinde esnek analiz ve yönetim imkânı sunar.",
     "lite": false,
     "headline": "Ağ trafiği için TCP tünelleme",
@@ -43702,6 +43749,13 @@
         "onceki_yildiz": 2107,
         "surum": "v0.7.3",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 2184,
+        "onceki_yildiz": 2120,
+        "surum": "v0.13.0",
+        "surum_tarihi": "2026-10-16"
       }
     ],
     "tagline_en": "Developed in the Go language, OpenFlux is a TCP tunneling tool designed for network stack research.",
@@ -46375,14 +46429,14 @@
     "slug": "runner-images",
     "title": "Runner Images",
     "tagline": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun…",
-    "meta": "★ 13.480 · PowerShell",
+    "meta": "★ 13.481 · PowerShell",
     "image": "/assets/discover/og/runner-images.webp",
     "source": "GitHub",
     "date": "2026-09-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 13480,
+    "stars": 13481,
     "last_seen": "2026-09-27",
     "summary": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.",
     "lite": false,
@@ -46439,6 +46493,13 @@
         "onceki_yildiz": 13457,
         "surum": "ubuntu-slim/20261012.23",
         "surum_tarihi": "2026-10-13"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 13481,
+        "onceki_yildiz": 13480,
+        "surum": "win25/20261013.288",
+        "surum_tarihi": "2026-10-14"
       }
     ],
     "tagline_en": "GitHub Actions runner images are part of the GitHub Actions platform, which automates software development processes...",
@@ -48260,14 +48321,14 @@
     "slug": "artcraft",
     "title": "Artcraft",
     "tagline": "ArtCraft, sanatçılar ve tasarımcılar için geliştirilmiş bir içerik üretim motoru (crafting engine).",
-    "meta": "★ 28.441 · Rust",
+    "meta": "★ 29.932 · Rust",
     "image": "/assets/discover/og/artcraft.webp",
     "source": "GitHub",
     "date": "2026-10-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 28441,
+    "stars": 29932,
     "last_seen": "2026-10-14",
     "summary": "ArtCraft, sanatçılar ve tasarımcılar için geliştirilmiş bir içerik üretim motoru (crafting engine). Rust diliyle yazılan bu araç, yaratıcı süreçlerdeki karmaşık iş akışlarını otomatize ederek görsel üretim süreçlerini standartlaştırıyor.",
     "lite": false,
@@ -48357,6 +48418,13 @@
         "tarih": "2026-10-15",
         "yildiz": 28441,
         "onceki_yildiz": 26817,
+        "surum": "artcraft-v0.41.0",
+        "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 29932,
+        "onceki_yildiz": 28441,
         "surum": "artcraft-v0.41.0",
         "surum_tarihi": "2026-09-26"
       }
@@ -48458,7 +48526,7 @@
     "slug": "open-webui",
     "title": "Open Webui",
     "tagline": "open-webui, Ollama ve OpenAI API gibi yapay zekâ modelleriyle etkileşime geçmeyi sağlayan kullanıcı dostu bir arayüzdür.",
-    "meta": "★ 155.750 · Python",
+    "meta": "★ 155.883 · Python",
     "image": "/assets/discover/og/open-webui.webp",
     "source": "GitHub",
     "date": "2026-10-12",
@@ -48466,7 +48534,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 155750,
+    "stars": 155883,
     "last_seen": "2026-10-12",
     "summary": "open-webui, Ollama ve OpenAI API gibi yapay zekâ modelleriyle etkileşime geçmeyi sağlayan kullanıcı dostu bir arayüzdür. Yerel veya bulut tabanlı dil modellerini yönetmek için geliştirilmiş web tabanlı bir arayüz (interface) sunar.",
     "lite": false,
@@ -48486,6 +48554,13 @@
         "onceki_yildiz": 154432,
         "surum": "v0.12.2",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-16",
+        "yildiz": 155883,
+        "onceki_yildiz": 155750,
+        "surum": "v0.12.3",
+        "surum_tarihi": "2026-10-16"
       }
     ],
     "tagline_en": "open-webui is a user-friendly interface that enables interaction with artificial intelligence models such as Ollama and the OpenAI API.",

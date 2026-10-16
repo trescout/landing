@@ -2,12 +2,13 @@
 
 Agent Skills ist ein technisches Spezifikations- und Dokumentationsprojekt, das die Fähigkeiten standardisiert, die Agenten der künstlichen Intelligenz bei der Ausführung ihrer Aufgaben verwenden. Diese Python-basierte Struktur zielt darauf ab, die gemeinsame Nutzung von Fähigkeiten und die Interoperabilität zwischen verschiedenen Agentensystemen zu erleichtern.
 
-- ★ 24.952
+- ★ 26.203
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Aktualisierungen
 
+- **16. Oktober 2026:** Sterne 24,952 → 26,203.
 - **2. September 2026:** Sterne 23,755 → 24,952.
 - **2. August 2026:** Sterne 21,721 → 23,755.
 

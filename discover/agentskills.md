@@ -2,12 +2,13 @@
 
 Agent Skills, yapay zekâ ajanlarının görevlerini yerine getirirken kullandığı yetenekleri (skills) standartlaştıran bir teknik şartname ve dokümantasyon projesidir. Python tabanlı bu yapı, farklı ajan sistemleri arasında yetenek paylaşımını ve birlikte çalışabilirliği (interoperability) kolaylaştırmayı amaçlar.
 
-- ★ 24.952
+- ★ 26.203
 - Python
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
 
+- **16 Ekim 2026:** Yıldız 24.952 → 26.203.
 - **2 Eylül 2026:** Yıldız 23.755 → 24.952.
 - **2 Ağustos 2026:** Yıldız 21.721 → 23.755.
 

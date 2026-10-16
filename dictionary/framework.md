@@ -46,8 +46,8 @@ Hayır, çok küçük ve basit projelerde bazen sadece temel kodlar yeterli olab
 - [Tailwindcss](https://trescout.com/discover/tailwindcss/)
 - [Hyperframes](https://trescout.com/discover/hyperframes/)
 - [Nuxt](https://trescout.com/discover/nuxt/)
-- [Cypress](https://trescout.com/discover/cypress/)
 - [CLI-Anything](https://trescout.com/discover/cli-anything/)
+- [Cypress](https://trescout.com/discover/cypress/)
 
 Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 

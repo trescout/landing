@@ -32,6 +32,7 @@ Utilisez l'outil XERJ pour indexer le code source de ce projet et commencez à c
 
 ## Termes liés du glossaire
 
+- [Autoindex](https://trescout.com/fr/dictionary/autoindex/)
 - [RAG](https://trescout.com/fr/dictionary/rag/)
 - [Token](https://trescout.com/fr/dictionary/token/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
