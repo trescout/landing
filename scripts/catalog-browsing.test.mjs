@@ -11,7 +11,8 @@ function environment(kind, lang) {
     setAttribute(k, v) { this.attrs[k] = v; }
     getAttribute(k) { return this.attrs[k]; }
     addEventListener(k, f) { this.events[k] = f; }
-    append(...children) { this.children.push(...children); }
+    // DOM gibi: zaten çocuksa yerinden alınıp sona taşınır (çoğaltılmaz)
+    append(...children) { for (const c of children) { const i = this.children.indexOf(c); if (i >= 0) this.children.splice(i, 1); this.children.push(c); } }
     before() {}
     after() {}
     focus() { focused = this; }
@@ -93,4 +94,34 @@ test('all locale indexes retain complete static lists when JavaScript is unavail
       assert.ok((html.match(kind === 'dictionary' ? /class="dict-card"/g : /class="disc-card"/g) || []).length > 24);
     }
   }
+});
+
+// Arama sıralaması (R4) · iki dosyada aynı puan fonksiyonu; gerçek sözlük verisiyle sıra.
+function aramaPuaniKaynak(dosya) {
+  const src = readFileSync(new URL(`../assets/${dosya}`, import.meta.url), 'utf8');
+  return src.match(/  function aramaPuani[\s\S]*?\n  }\n/)?.[0];
+}
+const katla = (s) => String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ı/g, 'i');
+
+test('arama puanı sözlükte ve keşifte birebir aynı (kopya ayrışmasın)', () => {
+  assert.ok(aramaPuaniKaynak('dictionary.js'));
+  assert.equal(aramaPuaniKaynak('discover.js'), aramaPuaniKaynak('dictionary.js'));
+});
+
+test('sözlük araması: adı sorguyla başlayan terim kelime içi eşleşmenin önüne geçer (gerçek veri)', () => {
+  const aramaPuani = new Function(`${aramaPuaniKaynak('dictionary.js')}; return aramaPuani;`)();
+  const html = readFileSync(new URL('../dictionary/index.html', import.meta.url), 'utf8');
+  const kartlar = [...html.matchAll(/data-search="([^"]*)"[^>]*><h2 class="dict-card-term">([^<]*)/g)]
+    .map(([, metin, ad], sira) => ({ metin: katla(metin), ad: katla(ad), sira }));
+  assert.ok(kartlar.length > 500);
+  const ilk = (q) => kartlar.map((k) => ({ ...k, p: aramaPuani(k.ad, k.metin, katla(q)) }))
+    .filter((k) => k.p > 0).sort((x, y) => y.p - x.p || x.sira - y.sira)[0];
+  for (const q of ['RAG', 'API', 'model', 'token', 'LLM']) {
+    assert.ok(ilk(q).ad.startsWith(katla(q)), `${q} → ${ilk(q).ad}`);
+  }
+  // Kelime içi eşleşme kaybolmaz, yalnız sona kalır: "rag" storage içinde
+  const storage = kartlar.find((k) => k.ad.startsWith('object storage'));
+  if (storage) assert.equal(aramaPuani(storage.ad, storage.metin, 'rag'), 0.5);
+  // Çok kelimeli ve sırası farklı sorgu da bulur
+  assert.ok(aramaPuani('fine-tuning', 'fine-tuning hazir bir modeli', 'tuning fine') > 0);
 });
