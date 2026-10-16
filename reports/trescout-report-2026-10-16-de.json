@@ -1,0 +1,912 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-16",
+  "capturedAt": "2026-10-16T09:02:45.191Z",
+  "editorial": "Heute konzentriert sich die Interaktion zwischen Entwicklertools und KI-Modellen insbesondere auf Embedding-Technologien und Beschleunigungstechniken im Bereich der Videogenerierung. Plugin-Strukturen auf GitHub und die neue Generation von Datenverarbeitungsmodellen auf der Hugging Face-Plattform deuten auf einen technischen Trend zur Steigerung der Systemeffizienz hin.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "summary": "morluto/rea ist ein Tool, das KI-Agenten einsetzt, um alles von Anwendungsverhalten bis hin zu nativen Binärdateien mittels Reverse Engineering zu analysieren. Dieses in TypeScript entwickelte Projekt zielt darauf ab, den Prozess der Analyse komplexer Softwarestrukturen zu automatisieren.",
+          "meta": "TypeScript · ★ 280.036 · +32.314 heute",
+          "snapshot": {
+            "sourceId": "morluto/rea",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 280036,
+              "engagementCount": 32314,
+              "rank": 1,
+              "extra": {
+                "starsToday": 32314
+              }
+            },
+            "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+          }
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "claude-plugins-official, verwaltet von Anthropic, ist ein offizielles Verzeichnis für hochwertige Claude Code-Plugins. Dieses in Python entwickelte Repository bündelt Tools, die Benutzer mit Claude Code verwenden können.",
+          "meta": "Python · ★ 39.611 · +307 heute",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-official",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 39611,
+              "engagementCount": 307,
+              "rank": 2,
+              "extra": {
+                "starsToday": 307
+              }
+            },
+            "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "K-Dense-AI/scientific-agent-skills ist eine Bibliothek mit 177 verifizierten Fähigkeiten (Skills) und über 100 wissenschaftlichen Datenbanken, die KI-Agenten an wissenschaftliche Forschungsprozesse anpasst. Dieses Tool, das in Bereichen wie Biologie, Chemie und Medizin eingesetzt wird, ist mit Plattformen wie dem Code-Editor Cursor, dem KI-gestützten Claude Code und ähnlichen kompatibel.",
+          "meta": "Python · ★ 50.934 · +1.091 heute",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50934,
+              "engagementCount": 1091,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1091
+              }
+            },
+            "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+          }
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "JuliusBrussee/caveman ist ein Proxy-Server und Skill-Paket, das darauf abzielt, die von KI-Coding-Agenten verwendete Token-Anzahl um 65 Prozent zu reduzieren. Die Software zielt darauf ab, Kosten und Ressourcen zu sparen, indem sie die Ausgaben von KI-Modellen vereinfacht, sodass sie wie ein Höhlenmensch sprechen.",
+          "meta": "Go · ★ 112.881 · +433 heute",
+          "snapshot": {
+            "sourceId": "JuliusBrussee/caveman",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 112881,
+              "engagementCount": 433,
+              "rank": 4,
+              "extra": {
+                "starsToday": 433
+              }
+            },
+            "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio ist ein Open-Source-Tool zur Audioverarbeitung, das Aufgaben wie Stimmenklonen und Videosynchronisation lokal ausführt. Als Alternative zu kostenpflichtigen Diensten wie ElevenLabs entwickelt, bietet diese Software zahlreiche Funktionen wie die Erstellung von Hörbüchern in 646 Sprachen und Transkription.",
+          "meta": "Python · ★ 69.826 · +3.024 heute",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 69826,
+              "engagementCount": 3024,
+              "rank": 5,
+              "extra": {
+                "starsToday": 3024
+              }
+            },
+            "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers ist ein für KI-Agenten entwickeltes Framework für agentische Fähigkeiten (agentic skills framework) sowie eine Methodik für die Softwareentwicklung. Das Projekt bietet eine strukturierte Methode zum Erstellen und Verwalten von agentenbasierten Arbeitsabläufen.",
+          "meta": "Shell · ★ 300.250 · +582 heute",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 300250,
+              "engagementCount": 582,
+              "rank": 6,
+              "extra": {
+                "starsToday": 582
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works."
+          }
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Das mit TypeScript entwickelte ruflo ist eine Agenten-Infrastruktur, die darauf ausgelegt ist, autonome Arbeitsabläufe zu koordinieren und KI-Schwärme (swarms) für mehrere Akteure zu erstellen. Das System bietet adaptives Gedächtnis, Selbstlernfähigkeit und eine vektorbasierte RAG-Integration (Retrieval-Augmented Generation), die den Abruf von Daten aus aktuellen Quellen ermöglicht.",
+          "meta": "TypeScript · ★ 75.345 · +147 heute",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 75345,
+              "engagementCount": 147,
+              "rank": 7,
+              "extra": {
+                "starsToday": 147
+              }
+            },
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode ist ein TypeScript-Tool, das das Kontextfenster (context window) für KI-Coding-Agenten optimiert. Durch die Begrenzung der Tool-Ausgaben reduziert es den Speicherverbrauch und ermöglicht das Routing über das Model Context Protocol (MCP) auf siebzehn verschiedenen Plattformen.",
+          "meta": "TypeScript · ★ 29.951 · +904 heute",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 29951,
+              "engagementCount": 904,
+              "rank": 8,
+              "extra": {
+                "starsToday": 904
+              }
+            },
+            "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+          }
+        },
+        {
+          "title": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "summary": "Ghidra, entwickelt von der National Security Agency (NSA), ist ein umfassendes Framework für Software-Reverse-Engineering-Prozesse. Dieses in Java geschriebene Tool bietet Funktionen zur Analyse von Binärdateien, um die Struktur des Quellcodes zu verstehen.",
+          "meta": "Java · ★ 89.152 · +1.369 heute",
+          "snapshot": {
+            "sourceId": "NationalSecurityAgency/ghidra",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 89152,
+              "engagementCount": 1369,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1369
+              }
+            },
+            "description": "Ghidra is a software reverse engineering (SRE) framework"
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "affaan-m/ECC bietet eine Infrastruktur mit Fokus auf Fähigkeiten, Gedächtnis und Sicherheit, um die Leistung von KI-Agenten zu optimieren. Es handelt sich um ein System, das für den Einsatz auf verschiedenen Plattformen wie Claude Code, Codex, Opencode und dem Code-Editor Cursor entwickelt wurde.",
+          "meta": "JavaScript · ★ 280.740 · +1.013 heute",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 280740,
+              "engagementCount": 1013,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1013
+              }
+            },
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+          }
+        },
+        {
+          "title": "lightseekorg/tokenspeed",
+          "url": "https://github.com/lightseekorg/tokenspeed",
+          "summary": "lightseekorg/tokenspeed ist eine Hochleistungs-Inferenz-Engine, die für große Sprachmodelle (LLMs) entwickelt wurde. Dieses in Python geschriebene Projekt zielt darauf ab, die Vorhersageprozesse von KI-Modellen zu beschleunigen.",
+          "meta": "Python · ★ 2.608 · +30 heute",
+          "snapshot": {
+            "sourceId": "lightseekorg/tokenspeed",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2608,
+              "engagementCount": 30,
+              "rank": 11,
+              "extra": {
+                "starsToday": 30
+              }
+            },
+            "description": "TokenSpeed is a speed-of-light LLM inference engine."
+          }
+        },
+        {
+          "title": "xerj-org/xerj",
+          "url": "https://github.com/xerj-org/xerj",
+          "summary": "Das in Rust entwickelte xerj bietet eine automatische Indizierungsfunktion (Autoindex), die es KI-Systemen ermöglicht, Daten zu durchsuchen. Durch die Verarbeitung von Code-, Dokument- und Protokolldateien mit geringerem Token-Verbrauch unterstützt es Suchvorgänge, Sicherheitsüberprüfungen und RAG-Prozesse (Retrieval-Augmented Generation), die es der KI ermöglichen, Antworten auf Basis aktueller Daten zu generieren.",
+          "meta": "Rust · ★ 6.128 · +715 heute",
+          "snapshot": {
+            "sourceId": "xerj-org/xerj",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 6128,
+              "engagementCount": 715,
+              "rank": 12,
+              "extra": {
+                "starsToday": 715
+              }
+            },
+            "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
+          }
+        },
+        {
+          "title": "LibreSpark/LibreTV",
+          "url": "https://github.com/LibreSpark/LibreTV",
+          "summary": "LibreSpark/LibreTV ist ein TypeScript-basiertes Softwareprojekt, mit dem Sie innerhalb einer Minute Film- und Serien-Websites mittels Methoden wie Docker einrichten können. Es bietet eine Infrastruktur, die es Benutzern ermöglicht, schnell ihre eigenen Content-Plattformen zu erstellen.",
+          "meta": "TypeScript · ★ 18.500 · +978 heute",
+          "snapshot": {
+            "sourceId": "LibreSpark/LibreTV",
+            "capturedAt": "2026-10-16T09:02:46.661Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18500,
+              "engagementCount": 978,
+              "rank": 13,
+              "extra": {
+                "starsToday": 978
+              }
+            },
+            "description": "一分钟搭建影视站，支持Docker等部署方式"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Muse Spark Open",
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "summary": "Das von Meta veröffentlichte Muse Spark Open zeichnet sich als Open-Source-KI-Modell für Forscher und Entwickler aus. Dieses über Hugging Face zugängliche Modell zielt darauf ab, groß angelegte Sprachverarbeitungsfähigkeiten zugänglich zu machen.",
+          "meta": "798 Punkte · 399 Kommentare",
+          "snapshot": {
+            "sourceId": "50107379",
+            "capturedAt": "2026-10-16T09:02:45.485Z",
+            "metadata": {
+              "popularity": 798,
+              "engagementCount": 399,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50107379",
+                  "popularity": 798,
+                  "engagementCount": 399
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-15T17:47:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50107379"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-ope...https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Spark-Open-816B-A42Bhttps:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;10&#x2F;15&#x2F;meta-launches-new-muse-spark-..."
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50107379",
+              "popularity": 798,
+              "engagementCount": 399
+            }
+          ]
+        },
+        {
+          "title": "Neural networks are clean",
+          "url": "https://already-clean.goodfire.com/",
+          "summary": "Neural networks are clean ist eine Arbeit, die darauf abzielt, die internen Funktionsprinzipien und konzeptionellen Strukturen von KI-Modellen zu visualisieren. Diese Plattform präsentiert auf verständliche Weise, mit welchen Daten komplexe neuronale Netze (neural networks) Entscheidungen treffen.",
+          "meta": "673 Punkte · 248 Kommentare",
+          "snapshot": {
+            "sourceId": "50105647",
+            "capturedAt": "2026-10-16T09:02:45.485Z",
+            "metadata": {
+              "popularity": 673,
+              "engagementCount": 248,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50105647",
+                  "popularity": 673,
+                  "engagementCount": 248
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-15T16:04:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50105647"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;twitter.com&#x2F;nickcammarata&#x2F;status&#x2F;2110757819427574056"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50105647",
+              "popularity": 673,
+              "engagementCount": 248
+            }
+          ]
+        },
+        {
+          "title": "Wayland desktop for Linux with skeuomorphic design",
+          "url": "https://github.com/fyzugx/DEsk",
+          "summary": "DEsk, entwickelt für Linux, ist eine Desktop-Umgebung, die auf dem Wayland-Display-Server läuft und ein skeuomorphes Design auf Basis realistischer Objektdarstellungen aufweist. Das Projekt zielt darauf ab, die traditionelle Ästhetik der Benutzeroberfläche in modernen Linux-Systemen wiederzubeleben.",
+          "meta": "601 Punkte · 236 Kommentare",
+          "snapshot": {
+            "sourceId": "50103338",
+            "capturedAt": "2026-10-16T09:02:45.485Z",
+            "metadata": {
+              "popularity": 601,
+              "engagementCount": 236,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50103338",
+                  "popularity": 601,
+                  "engagementCount": 236
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-15T13:23:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50103338"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50103338",
+              "popularity": 601,
+              "engagementCount": 236
+            }
+          ]
+        },
+        {
+          "title": "What I self-host",
+          "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+          "summary": "What I self-host ist ein Erfahrungsbericht über das Selbst-Hosting (Self-Hosting) von persönlichen Daten und digitalen Diensten auf individuellen Servern anstelle von Drittanbieterplattformen. Es thematisiert, wie der Benutzer durch die Verwaltung seiner eigenen Infrastruktur digitale Unabhängigkeit erlangt und welche Software-Tools er bevorzugt.",
+          "meta": "466 Punkte · 295 Kommentare",
+          "snapshot": {
+            "sourceId": "50109715",
+            "capturedAt": "2026-10-16T09:02:45.485Z",
+            "metadata": {
+              "popularity": 466,
+              "engagementCount": 295,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50109715",
+                  "popularity": 466,
+                  "engagementCount": 295
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-15T20:23:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50109715"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50109715",
+              "popularity": 466,
+              "engagementCount": 295
+            }
+          ]
+        },
+        {
+          "title": "Jev meets the Trolley Problem",
+          "url": "https://zachlandes.com/trolley-problem/",
+          "summary": "Jev kombiniert das Trolley-Problem, ein klassisches Gedankenexperiment zur Untersuchung ethischer Dilemmata, mit KI-Entscheidungsmechanismen. Diese Arbeit hinterfragt, wie autonome Systeme gegenüber moralischen Entscheidungen agieren.",
+          "meta": "444 Punkte · 190 Kommentare",
+          "snapshot": {
+            "sourceId": "50106023",
+            "capturedAt": "2026-10-16T09:02:45.485Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 190,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50106023",
+                  "popularity": 444,
+                  "engagementCount": 190
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-15T16:24:52Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50106023"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50106023",
+              "popularity": 444,
+              "engagementCount": 190
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "Das von Google entwickelte embeddinggemma-2 ist ein Modell zur Merkmalsextraktion (feature extraction), das Texte in numerische Vektoren umwandelt. Dieses auf der Hugging Face-Plattform verfügbare Modell wird zur Interpretation von Daten in KI-Anwendungen verwendet.",
+          "meta": "♥ 2.444 · 144.280 Downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-16T09:02:45.339Z",
+            "metadata": {
+              "popularity": 2444,
+              "engagementCount": 144280,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 983,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "feature-extraction model"
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "Das auf Hugging Face geteilte jialinyyzz/humanizer ist ein KI-Modell zur Textgenerierung (text-generation). Dieses Modell, das Benutzer bei der Texterstellung verwenden können, hat einen Beliebtheitswert von 1776 auf der Plattform.",
+          "meta": "♥ 1.776 · 75.253 Downloads",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-16T09:02:45.339Z",
+            "metadata": {
+              "popularity": 1776,
+              "engagementCount": 75253,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 861,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            },
+            "description": "text-generation model"
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "summary": "Das auf Hugging Face geteilte Qwen-Image-2.1-Turbo ist ein KI-Modell mit der Fähigkeit zur Text-zu-Bild-Generierung (text-to-image). Es bietet Benutzern die Möglichkeit, visuelle Inhalte durch schriftliche Befehle zu erstellen.",
+          "meta": "♥ 902 · 15.315 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1-Turbo",
+            "capturedAt": "2026-10-16T09:02:45.339Z",
+            "metadata": {
+              "popularity": 902,
+              "engagementCount": 15315,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 773,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:finetune:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-image model"
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "Das auf Hugging Face geteilte openbmb/MiniCPM-V-4.7-35B-A3B ist ein KI-Modell, das Bild- und Textdaten verarbeitet und Textausgaben generiert. Dieses Modell bietet die Fähigkeit, Bilder zu analysieren und textbasierte Antworten zu erstellen.",
+          "meta": "♥ 809 · 9.278 Downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-16T09:02:45.339Z",
+            "metadata": {
+              "popularity": 809,
+              "engagementCount": 9278,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 661,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "url": "https://huggingface.co/fishaudio/drama-3",
+          "summary": "Das auf Hugging Face geteilte fishaudio/drama-3 ist ein Text-zu-Sprache-Modell (text-to-speech), das Text in Sprache umwandelt. Es bietet eine Technologie, die es Benutzern ermöglicht, schriftliche Inhalte in Audioausgaben umzuwandeln.",
+          "meta": "♥ 503 · 4.048 Downloads",
+          "snapshot": {
+            "sourceId": "fishaudio/drama-3",
+            "capturedAt": "2026-10-16T09:02:45.339Z",
+            "metadata": {
+              "popularity": 503,
+              "engagementCount": 4048,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 488,
+                "pipelineTag": "text-to-speech",
+                "tags": [
+                  "safetensors",
+                  "fish_omni",
+                  "fish-audio",
+                  "text-to-speech",
+                  "multi-speaker",
+                  "audio-editing",
+                  "emotional-speech-generation",
+                  "zh",
+                  "en",
+                  "ja",
+                  "ko",
+                  "es",
+                  "pt",
+                  "ar",
+                  "ru",
+                  "fr",
+                  "de",
+                  "sv",
+                  "it",
+                  "tr",
+                  "no",
+                  "nl",
+                  "cy",
+                  "eu",
+                  "ca",
+                  "da",
+                  "gl",
+                  "ta",
+                  "hu",
+                  "fi",
+                  "pl",
+                  "et",
+                  "hi",
+                  "la",
+                  "ur",
+                  "th",
+                  "vi",
+                  "jw",
+                  "bn",
+                  "yo",
+                  "sl",
+                  "cs",
+                  "sw",
+                  "nn",
+                  "he",
+                  "ms",
+                  "uk",
+                  "id",
+                  "kk",
+                  "bg",
+                  "lv",
+                  "my",
+                  "tl",
+                  "sk",
+                  "ne",
+                  "fa",
+                  "af",
+                  "el",
+                  "bo",
+                  "hr",
+                  "ro",
+                  "sn",
+                  "mi",
+                  "yi",
+                  "am",
+                  "be",
+                  "km",
+                  "is",
+                  "az",
+                  "sd",
+                  "br",
+                  "sq",
+                  "ps",
+                  "mn",
+                  "ht",
+                  "ml",
+                  "sr",
+                  "sa",
+                  "te",
+                  "ka",
+                  "bs",
+                  "pa",
+                  "lt",
+                  "kn",
+                  "si",
+                  "hy",
+                  "mr",
+                  "as",
+                  "gu",
+                  "fo",
+                  "arxiv:2610.18010",
+                  "license:other",
+                  "bsgemm-moe",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-speech model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FDE-Gym: The Last Mile of AI Delivery",
+          "url": "https://huggingface.co/papers/2610.22350",
+          "summary": "FDE-Gym, bereitgestellt von Hugging Face, ist ein Benchmark-Tool, das KI-Agenten anhand unsicherer Anforderungen und komplexer Einschränkungen in realen Lieferprozessen bewertet. Mit 95 End-to-End-Aufgaben, die auf realen Projektszenarien aus achtzehn verschiedenen Branchen basieren, zielt es darauf ab, die Leistung der Agenten in Live-Systemen zu messen.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.22350",
+            "capturedAt": "2026-10-16T09:02:45.353Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22350",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/deeplethe/fde-gym"
+              }
+            },
+            "description": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must clarify ambiguous requirements, work in live systems, and uncover unstated constraints. We introduce FDE-Gym, a benchmark of 95 end-to-end delivery tasks from 20 customer scenarios across 18 sectors, each adapted by industry experts from real-world delivery projects. In simulated cu"
+          }
+        },
+        {
+          "title": "ForcingBooster: Adaptive Patch-wise Denoising for Fast Autoregressive Video Diffusion",
+          "url": "https://huggingface.co/papers/2610.12625",
+          "summary": "ForcingBooster bietet eine Methode, die die Rechenleistung in autoregressiven Videodiffusionsmodellen an die Komplexität des Bildinhalts anpasst. Dieser Ansatz zielt darauf ab, den Videogenerierungsprozess zu beschleunigen, indem Denoising-Operationen in statischen oder einfachen Bereichen optimiert werden.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.12625",
+            "capturedAt": "2026-10-16T09:02:45.353Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.12625",
+                "publishedAt": "2026-10-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/IGL-HKUST/ForcingBooster"
+              }
+            },
+            "description": "Autoregressive video diffusion models have become a leading approach to real-time interactive video generation and video world modeling. However, existing methods typically allocate computation uniformly across space when generating the next video chunk, updating all patches with the same denoising schedule and number of function evaluations. This ignores the spatial heterogeneity of video content: static, simple, or recurring regions are often easier to denoise, while other regions require furt"
+          }
+        },
+        {
+          "title": "Data World: Scaling Data Environments from Scratch",
+          "url": "https://huggingface.co/papers/2610.21656",
+          "summary": "Data World, geteilt von Hugging Face, ist eine Multi-Agenten-Engine, die entwickelt wurde, um ökologische Einschränkungen und Validierungsschwierigkeiten während des Trainingsprozesses von Datenagenten zu überwinden. Das System definiert die Welt, die den Dateien zugrunde liegt, bevor es diese erstellt, und synthetisiert Analyseprozesse und Aufgaben über Mechanismen.",
+          "meta": "10 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.21656",
+            "capturedAt": "2026-10-16T09:02:45.353Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21656",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/Zhanli-Li/Data-World"
+              }
+            },
+            "description": "Data agents use code to process heterogeneous files and derive analytical insights. Scaling their training faces costly environment curation, privacy and intellectual-property restrictions, and difficulty verifying open-ended findings without known generative truth. Our core insight is to specify the world behind the files before generating the files themselves. We introduce Data World, a multi-agent engine that synthesizes environments, tasks, and rubrics from explicit mechanisms. Independent a"
+          }
+        },
+        {
+          "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+          "url": "https://huggingface.co/papers/2610.22355",
+          "summary": "OmniVerifier-C1, veröffentlicht auf Hugging Face, ist ein Modell zur Validierung komplexer visueller Inhalte. Im Gegensatz zu herkömmlichen binären Urteilen fungiert es als visueller Verifizierer (Visual Verifier), der komplexe Regeln in Teile zerlegt und eine detailliertere und kontinuierliche Bewertung bietet.",
+          "meta": "21 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.22355",
+            "capturedAt": "2026-10-16T09:02:45.353Z",
+            "metadata": {
+              "popularity": 21,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22355",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond conventional binary verifiers that produce only True/False discrete judgments and introduce a verifier that automatically decomposes complex prompts or environmental rules into fine-grained components and assigns pointwise scores to provide a continuous and more informative critique"
+          }
+        },
+        {
+          "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+          "url": "https://huggingface.co/papers/2610.20939",
+          "summary": "MAI-Gym ist eine Open-Source-Plattform, die für die Bewertung, Datenerfassung und das Training durch bestärkendes Lernen (Reinforcement Learning) von GUI-Agenten in mobilen, Computer- und Webumgebungen entwickelt wurde. Es zielt darauf ab, Herausforderungen wie die Kosten interaktiver Umgebungen und den Mangel an realistischen Aufgaben durch eine gemeinsame Pipeline zu lösen.",
+          "meta": "27 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2610.20939",
+            "capturedAt": "2026-10-16T09:02:45.353Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20939",
+                "publishedAt": "2026-10-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/Tongyi-MAI/MAI-Gym",
+                "githubStars": 6
+              }
+            },
+            "description": "Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high cost of interactive environments and the scarcity of realistic training tasks. We introduce MAI-Gym, an open all-in-one platform that unifies GUI agent evaluation, data collection, and online RL training across mobile, computer, and web environments. Through a shared rollout pipeline, MAI-Gym ensures "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "native binaries",
+      "explanation": "Kompilierte Maschinencode-Dateien, die direkt vom Prozessor des Computers ausgeführt werden können."
+    },
+    {
+      "term": "reverse engineering",
+      "explanation": "Der Prozess der Rückwärtsanalyse des Codes oder der Struktur einer Software, um zu verstehen, wie sie funktioniert."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Kleine Programmteile, die hinzugefügt werden, um die bestehenden Funktionen einer Software zu erweitern oder ihr neue Funktionalitäten zu verleihen."
+    },
+    {
+      "term": "skills",
+      "explanation": "Eine Sammlung spezialisierter Befehle oder Fähigkeiten, die es KI-Agenten ermöglichen, bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "token",
+      "explanation": "Die kleinste Dateneinheit, die KI-Modellen bei der Verarbeitung von Texten entspricht und Wort- oder Zeichenfragmenten zugeordnet ist."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Eine Vermittlersoftware, die als Brücke zwischen dem Benutzer und dem Internet oder einem anderen Server fungiert und den Datenverkehr verwaltet."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Die Softwareinfrastruktur, die verwendet wird, um die Fähigkeiten von KI-Agenten regelmäßig und systematisch zu verbessern."
+    },
+    {
+      "term": "swarms",
+      "explanation": "Eine Gruppe zahlreicher KI-Agenten, die miteinander kommunizieren und zusammenarbeiten, um komplexe Aufgaben zu lösen."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "Eine Methode, die es der künstlichen Intelligenz ermöglicht, bei der Generierung von Antworten aktuelle externe Daten zu durchsuchen und zu nutzen, um präzisere Informationen bereitzustellen."
+    },
+    {
+      "term": "context window",
+      "explanation": "Die Grenze der Text- oder Datenmenge, die eine künstliche Intelligenz auf einmal verarbeiten und in ihrem Gedächtnis behalten kann."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Ein Protokoll, das es Modellen der künstlichen Intelligenz ermöglicht, standardisiert mit verschiedenen Datenquellen und Werkzeugen zu kommunizieren."
+    },
+    {
+      "term": "NSA",
+      "explanation": "Die für Signalaufklärung und Cybersicherheit zuständige Regierungsbehörde der Vereinigten Staaten von Amerika."
+    },
+    {
+      "term": "software reverse engineering",
+      "explanation": "Der Prozess der Analyse und Dekonstruktion der Arbeitsweise und internen Struktur einer Software, ohne den Quellcode zu benötigen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Künstliche-Intelligenz-Modelle, die menschliche Sprache verstehen und Texte generieren können und mit sehr großen Datenmengen trainiert wurden."
+    },
+    {
+      "term": "inference",
+      "explanation": "Der Prozess, bei dem ein trainiertes KI-Modell mit neuen Daten, die ihm bereitgestellt werden, Vorhersagen oder Ergebnisse generiert."
+    },
+    {
+      "term": "autoindex",
+      "explanation": "Eine vom System automatisch erstellte regelmäßige Indexierungsstruktur, damit Daten schnell gefunden werden können."
+    }
+  ]
+}
