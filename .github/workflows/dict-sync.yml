@@ -115,6 +115,11 @@ jobs:
       # çeviriler yayın girdisine dönüşmeden kanonik kaldırma listesiyle temizle.
       - name: Geri yüklenen önbellekten kaldırılan içerikleri temizle
         run: python3 scripts/kaldirilan.py --uygula
+      # Sözlük ikiz birleşmeleri (assets/dictionary/birlesmis.json): gidenin sayfaları silinir,
+      # bağlantılar kalana çevrilir, damgalar yenilenir. İş kalmadıysa dokunmaz. Sonraki adımlar
+      # dizinleri, yönlendirmeleri, .md'leri, sitemap'i yeniden üretir; guard sonda sıkı denetler.
+      - name: Sözlük ikiz birleşmelerini uygula
+        run: python3 scripts/sozluk-birlestir.py --uygula
 
       # Generator syntax hatası varsa API/LLM çağrıları ve içerik yazımı başlamadan
       # önce fail etsin. Özellikle üretilen Python stringlerinde yarım kalmış

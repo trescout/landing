@@ -122,7 +122,7 @@ jobs:
       # Birleştirilmiş sözlük ikizleri geri açılmasın · günlük hat terimi
       # yeniden yaratırsa 301 zinciri kırılır.
       - name: Birleştirilmiş terimler kontrolü
-        run: python3 scripts/check-birlesmis-terimler.py
+        run: python3 scripts/check-birlesmis-terimler.py --gecis
 
       # Çok dilli her sayfa diğer dillerdeki sürümünü bildirmeli ·
       # düzeltmesi: python3 scripts/hreflang-normalize.py
