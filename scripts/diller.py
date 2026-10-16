@@ -225,6 +225,11 @@ DILLER = {
         "rapor_dil_adi": "English",
         # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
         "rapor_yz": 'The summaries and translations in this report are prepared with AI. Before making important decisions, please check the source through the link provided with each item.',
+        # Rapor sayfası tek soru (report.js · report_time_saved_yes/no, docs/BETA-MEASUREMENT.md)
+        "rapor_soru": 'Did this report save you time?',
+        "rapor_evet": 'Yes',
+        "rapor_hayir": 'No',
+        "rapor_tesekkur": 'Thank you.',
         "rapor_not": ("Full report PDF: every item with its summary, source links and the glossary of "
                       "terms. Translated from the original Turkish edition."),
         "rapor_cta": "<strong>Early access list.</strong> You can join the list for early access invitations and launch announcements.",
@@ -408,6 +413,11 @@ DILLER = {
         "rapor_dil_adi": "français",
         # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
         "rapor_yz": "Les résumés et traductions de ce rapport sont rédigés à l'aide de l'intelligence artificielle. Avant toute décision importante, nous vous recommandons de vérifier la source via le lien indiqué pour chaque élément.",
+        # Rapor sayfası tek soru (report.js · report_time_saved_yes/no, docs/BETA-MEASUREMENT.md)
+        "rapor_soru": 'Ce rapport vous a-t-il fait gagner du temps ?',
+        "rapor_evet": 'Oui',
+        "rapor_hayir": 'Non',
+        "rapor_tesekkur": 'Merci.',
         "rapor_not": ("Le PDF complet : chaque élément avec son résumé, ses liens sources et le glossaire "
                       "des termes. Traduit de l'édition turque originale."),
         "rapor_cta": "<strong>Liste d'accès anticipé.</strong> Vous pouvez rejoindre la liste pour recevoir des invitations d'accès anticipé et des annonces de lancement.",
@@ -633,6 +643,11 @@ DILLER = {
         "rapor_dil_adi": "português",
         # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
         "rapor_yz": 'Os resumos e as traduções deste relatório são preparados com inteligência artificial. Antes de tomar decisões importantes, recomendamos conferir a fonte pelo link indicado em cada item.',
+        # Rapor sayfası tek soru (report.js · report_time_saved_yes/no, docs/BETA-MEASUREMENT.md)
+        "rapor_soru": 'Este relatório economizou seu tempo?',
+        "rapor_evet": 'Sim',
+        "rapor_hayir": 'Não',
+        "rapor_tesekkur": 'Agradecemos.',
         "rapor_not": ("PDF completo: cada item com seu resumo, os links das fontes e o glossário de termos. "
                       "Traduzido da edição original em turco."),
         "rapor_cta": "<strong>Lista de acesso antecipado.</strong> Você pode entrar na lista para convites de acesso antecipado e anúncios de lançamento.",
@@ -829,6 +844,11 @@ DILLER = {
         "rapor_dil_adi": "español",
         # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
         "rapor_yz": 'Los resúmenes y las traducciones de este informe se preparan con inteligencia artificial. Antes de tomar decisiones importantes, le recomendamos verificar la fuente mediante el enlace que acompaña a cada elemento.',
+        # Rapor sayfası tek soru (report.js · report_time_saved_yes/no, docs/BETA-MEASUREMENT.md)
+        "rapor_soru": '¿Le ahorró tiempo este informe?',
+        "rapor_evet": 'Sí',
+        "rapor_hayir": 'No',
+        "rapor_tesekkur": 'Gracias.',
         "rapor_not": ("PDF completo: cada elemento con su resumen, los enlaces de las fuentes y el glosario "
                       "de términos. Traducido de la edición original en turco."),
         "rapor_cta": "<strong>Lista de acceso anticipado.</strong> Puede unirse a la lista para recibir invitaciones de acceso anticipado y anuncios de lanzamiento.",
@@ -1026,6 +1046,11 @@ DILLER = {
         "rapor_dil_adi": "Deutsch",
         # YZ şeffaflık beyanı · AB YZ Yasası m.50 (app template.ts yzBeyan ile aynı)
         "rapor_yz": 'Die Zusammenfassungen und Übersetzungen in diesem Bericht werden mit künstlicher Intelligenz erstellt. Bevor Sie wichtige Entscheidungen treffen, empfehlen wir, die Quelle über den Link bei jedem Eintrag zu prüfen.',
+        # Rapor sayfası tek soru (report.js · report_time_saved_yes/no, docs/BETA-MEASUREMENT.md)
+        "rapor_soru": 'Hat Ihnen dieser Bericht Zeit gespart?',
+        "rapor_evet": 'Ja',
+        "rapor_hayir": 'Nein',
+        "rapor_tesekkur": 'Vielen Dank.',
         "rapor_not": ("Vollständiges PDF: jeder Eintrag mit Zusammenfassung, die Links zu den Quellen und "
                       "das Glossar der Begriffe. Übersetzt aus der türkischen Originalausgabe."),
         "rapor_cta": "<strong>Vorabzugangsliste.</strong> Sie können sich für Einladungen zum Vorabzugang und Startankündigungen in die Liste eintragen.",

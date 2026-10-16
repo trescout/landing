@@ -256,6 +256,7 @@ function buildVariant(V) {
 </script>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/report-cover.css">
+<script src="/assets/report.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">${D.atla}</a>
@@ -276,6 +277,12 @@ ${cekim ? `      <p class="rep-captured" title="${esc(D.rapor_cekim_not)}">${esc
 ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
       <p class="rep-note">${D.rapor_not}</p>
       <p class="rep-captured rep-ai-note">${esc(D.rapor_yz)}</p>
+      <div class="rep-feedback" role="group" aria-label="${esc(D.rapor_soru)}">
+        <span class="rep-feedback-q">${esc(D.rapor_soru)}</span>
+        <button type="button" class="rep-feedback-btn" data-cevap="evet">${esc(D.rapor_evet)}</button>
+        <button type="button" class="rep-feedback-btn" data-cevap="hayir">${esc(D.rapor_hayir)}</button>
+        <span class="rep-feedback-tesekkur" hidden>${esc(D.rapor_tesekkur)}</span>
+      </div>
       <aside class="signup-cta">
         <p>${D.rapor_cta}</p>
         <a class="btn btn-primary" href="${PRE}/#top">${D.rapor_cta_dugme}</a>
