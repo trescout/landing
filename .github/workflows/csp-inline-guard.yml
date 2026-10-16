@@ -78,6 +78,9 @@ jobs:
       # Gemini model zinciri tek yerde · yeni betik tek modele bağlanmasın.
       - name: Gemini model zinciri kontrolü
         run: python3 scripts/check-gemini-zinciri.py
+      # Rapor bekçisinin eşikleri (boş kaynak, özetsiz, kayan özet uzunluğu) sahte raporlarla sınanır.
+      - name: Rapor bekçisi öz testi
+        run: python3 scripts/rapor-bekcisi.py --oz-test
       # Dizin kartı / menü dil düğmesi / ana sayfa bağlantısı var olmayan sayfaya bağlanmasın.
       - name: Var olmayan sayfaya bağlantı kontrolü
         run: python3 scripts/check-dizin-baglantilari.py
