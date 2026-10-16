@@ -126,6 +126,14 @@ jobs:
           cp api/subscribe.js "$RUNNER_TEMP/subscribe-check.mjs"
           node --check "$RUNNER_TEMP/subscribe-check.mjs"
 
+      # Sözlük ikiz birleşmeleri (assets/dictionary/birlesmis.json): gidenin sayfaları silinir,
+      # bağlantılar kalana çevrilir, damgalar yenilenir. İş kalmadıysa dokunmaz. Sonraki adımlar
+      # dizinleri, yönlendirmeleri, .md'leri, sitemap'i yeniden üretir; guard sonda sıkı denetler.
+      # Sözdizimi denetiminden sonra; landing#340'ın hitap temizliğiyle aynı noktaya eklenmesin
+      # diye kaldırma adımının hemen arkasında değil (iki PR hangi sırayla birleşirse birleşsin).
+      - name: Sözlük ikiz birleşmelerini uygula
+        run: python3 scripts/sozluk-birlestir.py --uygula
+
       # PDF yedeği için pdftotext + keşif lite kartları için Pillow
       - name: Bağımlılıklar
         run: |

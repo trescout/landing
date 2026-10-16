@@ -834,6 +834,96 @@
       "permanent": true
     },
     {
+      "source": "/dictionary/apache-bench-ab",
+      "destination": "/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/apache-bench-ab/",
+      "destination": "/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/apache-bench-ab.md",
+      "destination": "/dictionary/ab.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/apache-bench-ab",
+      "destination": "/en/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/apache-bench-ab/",
+      "destination": "/en/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/apache-bench-ab.md",
+      "destination": "/en/dictionary/ab.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/apache-bench-ab",
+      "destination": "/fr/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/apache-bench-ab/",
+      "destination": "/fr/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/apache-bench-ab.md",
+      "destination": "/fr/dictionary/ab.md",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/apache-bench-ab",
+      "destination": "/pt/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/apache-bench-ab/",
+      "destination": "/pt/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/apache-bench-ab.md",
+      "destination": "/pt/dictionary/ab.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/apache-bench-ab",
+      "destination": "/es/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/apache-bench-ab/",
+      "destination": "/es/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/apache-bench-ab.md",
+      "destination": "/es/dictionary/ab.md",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/apache-bench-ab",
+      "destination": "/de/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/apache-bench-ab/",
+      "destination": "/de/dictionary/ab/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/apache-bench-ab.md",
+      "destination": "/de/dictionary/ab.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/autonomous-ai-agents",
       "destination": "/dictionary/autonomous-ai-agent/",
       "permanent": true
@@ -1191,6 +1281,96 @@
     {
       "source": "/de/dictionary/coding-agents.md",
       "destination": "/de/dictionary/coding-agent.md",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/cv",
+      "destination": "/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/cv/",
+      "destination": "/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/cv.md",
+      "destination": "/dictionary/computer-vision.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/cv",
+      "destination": "/en/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/cv/",
+      "destination": "/en/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/cv.md",
+      "destination": "/en/dictionary/computer-vision.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/cv",
+      "destination": "/fr/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/cv/",
+      "destination": "/fr/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/cv.md",
+      "destination": "/fr/dictionary/computer-vision.md",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/cv",
+      "destination": "/pt/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/cv/",
+      "destination": "/pt/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/cv.md",
+      "destination": "/pt/dictionary/computer-vision.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/cv",
+      "destination": "/es/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/cv/",
+      "destination": "/es/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/cv.md",
+      "destination": "/es/dictionary/computer-vision.md",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/cv",
+      "destination": "/de/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/cv/",
+      "destination": "/de/dictionary/computer-vision/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/cv.md",
+      "destination": "/de/dictionary/computer-vision.md",
       "permanent": true
     },
     {
@@ -1554,6 +1734,186 @@
       "permanent": true
     },
     {
+      "source": "/dictionary/model-context-protocol",
+      "destination": "/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/model-context-protocol/",
+      "destination": "/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/model-context-protocol.md",
+      "destination": "/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/model-context-protocol",
+      "destination": "/en/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/model-context-protocol/",
+      "destination": "/en/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/model-context-protocol.md",
+      "destination": "/en/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/model-context-protocol",
+      "destination": "/fr/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/model-context-protocol/",
+      "destination": "/fr/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/model-context-protocol.md",
+      "destination": "/fr/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/model-context-protocol",
+      "destination": "/pt/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/model-context-protocol/",
+      "destination": "/pt/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/model-context-protocol.md",
+      "destination": "/pt/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/model-context-protocol",
+      "destination": "/es/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/model-context-protocol/",
+      "destination": "/es/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/model-context-protocol.md",
+      "destination": "/es/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/model-context-protocol",
+      "destination": "/de/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/model-context-protocol/",
+      "destination": "/de/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/model-context-protocol.md",
+      "destination": "/de/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/model-context-protocol-mcp",
+      "destination": "/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/model-context-protocol-mcp/",
+      "destination": "/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/model-context-protocol-mcp.md",
+      "destination": "/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/model-context-protocol-mcp",
+      "destination": "/en/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/model-context-protocol-mcp/",
+      "destination": "/en/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/model-context-protocol-mcp.md",
+      "destination": "/en/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/model-context-protocol-mcp",
+      "destination": "/fr/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/model-context-protocol-mcp/",
+      "destination": "/fr/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/model-context-protocol-mcp.md",
+      "destination": "/fr/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/model-context-protocol-mcp",
+      "destination": "/pt/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/model-context-protocol-mcp/",
+      "destination": "/pt/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/model-context-protocol-mcp.md",
+      "destination": "/pt/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/model-context-protocol-mcp",
+      "destination": "/es/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/model-context-protocol-mcp/",
+      "destination": "/es/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/model-context-protocol-mcp.md",
+      "destination": "/es/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/model-context-protocol-mcp",
+      "destination": "/de/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/model-context-protocol-mcp/",
+      "destination": "/de/dictionary/mcp/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/model-context-protocol-mcp.md",
+      "destination": "/de/dictionary/mcp.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/networking-stack",
       "destination": "/dictionary/network-stack/",
       "permanent": true
@@ -1731,6 +2091,96 @@
     {
       "source": "/de/dictionary/pipelines.md",
       "destination": "/de/dictionary/pipeline.md",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/pkm",
+      "destination": "/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/pkm/",
+      "destination": "/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/pkm.md",
+      "destination": "/dictionary/personal-knowledge-management.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/pkm",
+      "destination": "/en/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/pkm/",
+      "destination": "/en/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/pkm.md",
+      "destination": "/en/dictionary/personal-knowledge-management.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/pkm",
+      "destination": "/fr/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/pkm/",
+      "destination": "/fr/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/pkm.md",
+      "destination": "/fr/dictionary/personal-knowledge-management.md",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/pkm",
+      "destination": "/pt/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/pkm/",
+      "destination": "/pt/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/pkm.md",
+      "destination": "/pt/dictionary/personal-knowledge-management.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/pkm",
+      "destination": "/es/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/pkm/",
+      "destination": "/es/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/pkm.md",
+      "destination": "/es/dictionary/personal-knowledge-management.md",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/pkm",
+      "destination": "/de/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/pkm/",
+      "destination": "/de/dictionary/personal-knowledge-management/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/pkm.md",
+      "destination": "/de/dictionary/personal-knowledge-management.md",
       "permanent": true
     },
     {
@@ -2091,6 +2541,96 @@
     {
       "source": "/de/dictionary/specifications.md",
       "destination": "/de/dictionary/specification.md",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/stt",
+      "destination": "/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/stt/",
+      "destination": "/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/stt.md",
+      "destination": "/dictionary/speech-to-text.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/stt",
+      "destination": "/en/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/stt/",
+      "destination": "/en/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/stt.md",
+      "destination": "/en/dictionary/speech-to-text.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/stt",
+      "destination": "/fr/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/stt/",
+      "destination": "/fr/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/stt.md",
+      "destination": "/fr/dictionary/speech-to-text.md",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/stt",
+      "destination": "/pt/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/stt/",
+      "destination": "/pt/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/stt.md",
+      "destination": "/pt/dictionary/speech-to-text.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/stt",
+      "destination": "/es/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/stt/",
+      "destination": "/es/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/stt.md",
+      "destination": "/es/dictionary/speech-to-text.md",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/stt",
+      "destination": "/de/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/stt/",
+      "destination": "/de/dictionary/speech-to-text/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/stt.md",
+      "destination": "/de/dictionary/speech-to-text.md",
       "permanent": true
     },
     {
