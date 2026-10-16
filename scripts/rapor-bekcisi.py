@@ -74,6 +74,8 @@ def olcumler(rapor: dict) -> dict:
         "acilis": len(editorial.strip()),
         "sozluk": len(rapor.get("glossary") or []),
         "yildiz_enfazla": max(gunluk, default=(0, "")),
+        # app scripts/report.ts hata veren kaynağı buraya yazar ve okura not düşer (app#126)
+        "eksik": set(rapor.get("eksikKaynaklar") or []),
     }
 
 
@@ -88,7 +90,9 @@ def denetle(tarih: str, raporlar: dict[str, dict]) -> tuple[list[str], list[str]
         return hatalar, [f"karşılaştırma için yeterli geçmiş yok ({len(onceki)} rapor)"]
 
     for kaynak, n in bugun["kaynak"].items():
-        if n == 0 and all(o["kaynak"].get(kaynak, 0) > 0 for o in onceki[-3:]):
+        if n == 0 and kaynak in bugun["eksik"]:
+            hatalar.append(f"{kaynak} çekilemedi (kaynak hata verdi; rapor yayınlandı, okura not düşüldü) · bağlayıcıya bakın")
+        elif n == 0 and all(o["kaynak"].get(kaynak, 0) > 0 for o in onceki[-3:]):
             hatalar.append(f"{kaynak} bölümü boş (son 3 raporda vardı) · kaynak sustu ya da bozuldu; bilerek durdurulduysa yok sayın")
     medyan = statistics.median(o["madde"] for o in onceki)
     if bugun["madde"] < medyan / 2:
@@ -142,6 +146,8 @@ def oz_test() -> None:
     h, _ = denetle("2026-10-15", {**gecmis, "2026-10-15": rapor(hn=0)})
     assert any(x.startswith("hackernews bölümü boş") for x in h), h
     assert not any("lobsters" in x for x in h), h  # zaten boş olan kaynak susar
+    h, _ = denetle("2026-10-15", {**gecmis, "2026-10-15": {**rapor(hn=0), "eksikKaynaklar": ["hackernews"]}})
+    assert any(x.startswith("hackernews çekilemedi") for x in h), h
     h, _ = denetle("2026-10-15", {**gecmis, "2026-10-15": rapor(gh=3, hn=2)})
     assert any(x.startswith("madde sayısı") for x in h), h
     h, _ = denetle("2026-10-15", {**gecmis, "2026-10-15": rapor(hn=5, ozetsiz=5, gh=10)})
