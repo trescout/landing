@@ -46,15 +46,46 @@
     return String(s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ı/g, 'i');
   }
 
+  // Arama puanı (2026-10-16): kelime başı eşleşmesi + ad alanı ağırlığı. Önce düz alt dize vardı
+  // ve sonuç sıralanmıyordu: "RAG" ilk sırada "Object Storage" (sto-rag-e) getiriyordu, "API"
+  // teriminin kendisi 65 eşleşmenin 50.'siydi (ilk 16 görünür). Kelime içi eşleşme düşük puanla
+  // sona kalır, kaybolmaz. DeepLearning.AI "Retrieval Augmented Generation" · R4. Sözlük ve keşif
+  // aynı fonksiyonu taşır; scripts/catalog-browsing.test.mjs ikisinin aynı kaldığını sınar.
+  function aramaPuani(ad, metin, q) {
+    var bol = function (s) { return ' ' + s.replace(/[^0-9a-z\u00c0-\uffff]+/g, ' ').trim() + ' '; };
+    var a = bol(ad), m = bol(metin), qq = bol(q).trim(), p = 0;
+    var sozcukler = qq.split(' ');
+    for (var i = 0; i < sozcukler.length; i++) {
+      var w = ' ' + sozcukler[i];
+      if (a.indexOf(w) >= 0) p += 3;
+      else if (m.indexOf(w) >= 0) p += 1;
+      else return metin.indexOf(q) >= 0 ? 0.5 : 0;
+    }
+    if (a.trim() === qq) p += 10;
+    else if (a.trim().indexOf(qq) === 0) p += 5;
+    return p;
+  }
+
+  // Aranan alanlar bir kez katlanır; ad (kart başlığı) ayrıca tutulur, puanda ağır basar.
+  cards.forEach(function (c, i) {
+    var t = c.querySelector ? c.querySelector('.dict-card-term') : null;
+    c._sira = i;
+    c._metin = katla(c.getAttribute('data-search'));
+    c._ad = t ? katla(t.textContent) : c._metin;
+  });
+  var sirali = false;
+
   function apply() {
     var q = katla(state.q).trim();
     var shown = 0;
     matches = cards.filter(function (c) {
-      var okCat = !state.cat || c.getAttribute('data-cat') === state.cat;
-      var hay = katla(c.getAttribute('data-search'));
-      var okQ = !q || hay.indexOf(q) >= 0;
-      return okCat && okQ;
+      if (state.cat && c.getAttribute('data-cat') !== state.cat) return false;
+      c._puan = q ? aramaPuani(c._ad, c._metin, q) : 1;
+      return c._puan > 0;
     });
+    // Aramada en alakalı önce; görünen sıra DOM sırası olsun (klavye odağı da aynı sırayı izler).
+    if (q) matches.sort(function (x, y) { return y._puan - x._puan || x._sira - y._sira; });
+    if (q || sirali) { grid.append.apply(grid, q ? matches : cards); sirali = !!q; }
     var visible = matches.slice(0, state.limit);
     cards.forEach(function (c) {
       var show = visible.indexOf(c) !== -1;
