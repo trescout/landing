@@ -278,7 +278,7 @@ def render_page(e, en_map):
       f'<h1 class="disc-title">{esc(en)} <span class="disc-accent">nedir?</span></h1>\n{enline}\n<p class="disc-lead">{esc(kisa)}</p>\n{secs}\n'
       '<aside class="disc-cta"><p><strong>İlgili araçları ve günlük raporları keşfedin.</strong> Günlük raporlar herkese açık. Açılış duyuruları için erken erişim listesine katılabilirsiniz.</p>'
       +make_dict_form(slug)+'<a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>\n'
-      '<p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve Hugging Face\'te öne çıkanları Türkçe özetler.</p>\n'
+      '<p class="disc-disclaimer">Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve Hugging Face\'te öne çıkanları Türkçe özetler.</p>\n'
       '</article>\n</main>\n'+FOOTER+'\n<script src="/assets/subscribe.js" defer></script>\n<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>\n<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/provider-consent.js" defer></script>\n<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
     os.makedirs(os.path.join(DICT,slug),exist_ok=True)
     open(os.path.join(DICT,slug,"index.html"),"w",encoding="utf-8").write(head+body)
