@@ -115,6 +115,9 @@ jobs:
       # Kayıt formu bilgilendirme + onay bloğu tek kaynaktan (KVKK 2026/347, #210).
       - name: Rıza formu kanonik blok kontrolü
         run: python3 scripts/riza_formu.py --check
+      # "Kod bilmiyorsanız" istemi: sabit satırlar ya var ya da içerik hattı ekleyebilir.
+      - name: Ajan istemi satırları
+        run: python3 scripts/ajan_istemi.py --gecis
 
       # Elle bakılan sayfalar (ana sayfa · karşılaştırma) üç dilde aynı yapıyı
       # taşımalı · biri değişip diğerleri geride kalmasın.
