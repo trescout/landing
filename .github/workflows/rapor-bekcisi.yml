@@ -1,0 +1,46 @@
+name: Rapor bekçisi
+
+# Günün raporunu son iki haftayla karşılaştırır (scripts/rapor-bekcisi.py): boşalan kaynak
+# bölümü, düşen madde sayısı, özetsiz maddeler, özet uzunluğu kayması, eksik açılış notu.
+# Yazılım tarafı zaten izleniyor (deploy-health, app'te Token Bekçisi); bu iş raporun içeriğini
+# izler. Eşik aşılırsa iş başarısız olur ve GitHub e-posta gönderir; uyarılar koşu özetinde.
+# DeepLearning.AI "Machine Learning in Production" (izleme) · ders listesi M1.
+on:
+  push:
+    branches: [main]
+    paths: ['reports/trescout-rapor-2*.json']
+  schedule:
+    - cron: '0 14 * * *'   # 17:00 TR · rapor olağan 12:00-13:00 TR arası yayınlanır
+  workflow_dispatch:
+    inputs:
+      tarih:
+        description: 'YYYY-MM-DD (boş: en son rapor)'
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  bekci:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # Depo büyük (~860 MB); yalnız rapor JSON'ları ve betik çekilir.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            reports/trescout-rapor-2*.json
+            scripts/rapor-bekcisi.py
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Bugünün raporu yayında mı (zamanlanmış koşu)
+        if: ${{ github.event_name == 'schedule' }}
+        run: python3 scripts/rapor-bekcisi.py --varlik
+      - name: İçerik son iki haftayla karşılaştırılır
+        env:
+          TARIH: ${{ inputs.tarih }}
+        run: python3 scripts/rapor-bekcisi.py ${TARIH:+--tarih=$TARIH}
