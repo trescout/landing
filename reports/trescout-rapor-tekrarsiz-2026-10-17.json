@@ -1,0 +1,400 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-17",
+  "capturedAt": "2026-10-17T08:34:34.709Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "android/skills",
+          "url": "https://github.com/android/skills",
+          "summary": "Android ekibi tarafından geliştirilen android/skills, Kotlin diliyle yazılmış ve uygulama geliştirme süreçlerinde kullanılan yetenekleri (skills) içeren bir kütüphane. Yazılım geliştiricilerin projelerinde standart işlevleri uygulamasına yardımcı olan açık kaynaklı bir araç seti sunuyor.",
+          "meta": "Kotlin · ★ 8.182 · +36 bugün",
+          "snapshot": {
+            "sourceId": "android/skills",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Kotlin",
+              "popularity": 8182,
+              "engagementCount": 36,
+              "rank": 7,
+              "extra": {
+                "starsToday": 36
+              }
+            }
+          }
+        },
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "MadsLorentzen/ai-job-search, yerel bilgisayarınızda çalışan ve Claude Code üzerinde geliştirilmiş bir iş arama çerçevesi (framework). İlanları değerlendirme, öz geçmişleri kişiselleştirme, ön yazı yazma ve mülakat hazırlığı yapma süreçlerini yapay zekâ yardımıyla otomatikleştiriyor.",
+          "meta": "Python · ★ 48.952 · +898 bugün",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 48952,
+              "engagementCount": 898,
+              "rank": 11,
+              "extra": {
+                "starsToday": 898
+              }
+            },
+            "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+          },
+          "returning": true
+        },
+        {
+          "title": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "summary": "LinkSwift, JavaScript tabanlı bir altyapı kullanarak çeşitli bulut depolama servislerinden doğrudan dosya indirme bağlantıları elde etmeye yarayan bir araçtır. Yazılım; Baidu Netdisk, Alibaba Cloud Drive, China Mobile Cloud ve Quark Drive gibi sekiz farklı popüler bulut platformunu destekler.",
+          "meta": "JavaScript · ★ 24.106 · +538 bugün",
+          "snapshot": {
+            "sourceId": "hmjz100/LinkSwift",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 24106,
+              "engagementCount": 538,
+              "rank": 12,
+              "extra": {
+                "starsToday": 538
+              }
+            },
+            "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tesla Roadster",
+          "url": "https://www.tesla.com/roadster",
+          "summary": "Tesla Roadster, elektrikli araç üreticisi Tesla tarafından geliştirilen yüksek performanslı bir spor otomobil modelidir. Araç, markanın elektrikli ulaşım teknolojilerini hız ve tasarım odaklı bir platformda sunmayı amaçlıyor.",
+          "meta": "1.403 oy · 2.452 yorum",
+          "snapshot": {
+            "sourceId": "50112657",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 1403,
+              "engagementCount": 2452,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50112657",
+                  "popularity": 1403,
+                  "engagementCount": 2452
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-16T01:32:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50112657"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qghttps:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50112657",
+              "popularity": 1403,
+              "engagementCount": 2452
+            }
+          ]
+        },
+        {
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "summary": "Anthropic, kriptografik standartlarda kullanılan ECDSA eğrilerinin kökenlerini ve oluşturulma süreçlerini detaylandıran bir araştırma yayımladı. Bu çalışma, söz konusu eğrilerin rastgele seçilmediğini ve belirli tohum değerleri (seeds) üzerinden nasıl türetildiğini açıklıyor.",
+          "meta": "852 oy · 317 yorum",
+          "snapshot": {
+            "sourceId": "50122800",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 852,
+              "engagementCount": 317,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122800",
+                  "popularity": 852,
+                  "engagementCount": 317
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-16T18:55:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122800"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122800",
+              "popularity": 852,
+              "engagementCount": 317
+            }
+          ]
+        },
+        {
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+          "summary": "Amerika Birleşik Devletleri'ndeki çalışma saatlerinin yüzde 90'ı, mevcut yapay zekâ kıyaslama testlerinin (AI benchmarks) kapsamı dışında kalan görevlerden oluşuyor. Mercor tarafından yayımlanan araştırma, yapay zekâ performans ölçütlerinin gerçek iş gücü ihtiyaçlarını yansıtmakta yetersiz kaldığını ortaya koyuyor.",
+          "meta": "491 oy · 413 yorum",
+          "snapshot": {
+            "sourceId": "50121179",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 413,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50121179",
+                  "popularity": 491,
+                  "engagementCount": 413
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-16T17:08:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50121179"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50121179",
+              "popularity": 491,
+              "engagementCount": 413
+            }
+          ]
+        },
+        {
+          "title": "How the Claude Code team does code review",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+          "summary": "Anthropic bünyesindeki Claude Code ekibi, yazılım geliştirme süreçlerinde kod inceleme (code review) aşamasını yönetmek için geliştirdiği yöntemleri paylaşıyor. Ekip, üretken yapay zekâ (generative AI) araçlarını kullanarak kod kalitesini artırmayı ve inceleme süreçlerini hızlandırmayı hedefliyor.",
+          "meta": "332 oy · 308 yorum",
+          "snapshot": {
+            "sourceId": "50122951",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 332,
+              "engagementCount": 308,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122951",
+                  "popularity": 332,
+                  "engagementCount": 308
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-16T19:04:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122951"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122951",
+              "popularity": 332,
+              "engagementCount": 308
+            }
+          ]
+        },
+        {
+          "title": "I love software rendering",
+          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+          "summary": "Yazılım tabanlı görüntü işleme (software rendering) yöntemlerine duyulan ilgi, modern donanım hızlandırma teknikleri yerine işlemci gücüne dayalı grafik oluşturmanın temel prensiplerini yeniden gündeme getiriyor. Bu yaklaşım, grafiklerin nasıl işlendiğine dair teknik süreçleri anlamak isteyenler için alternatif bir perspektif sunuyor.",
+          "meta": "318 oy · 202 yorum",
+          "snapshot": {
+            "sourceId": "50117746",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 318,
+              "engagementCount": 202,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50117746",
+                  "popularity": 318,
+                  "engagementCount": 202
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-16T12:52:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50117746"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50117746",
+              "popularity": 318,
+              "engagementCount": 202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+          "url": "https://huggingface.co/papers/2610.21185",
+          "summary": "Mine, Sample, Render (MSR), üretken yapay zekâ (generative AI) modellerinin çeşitlilik sağlama konusundaki eksikliklerini gidermek için geliştirilen bir test zamanı (test-time) yaklaşımıdır. Yöntem, gerçek verilerden elde edilen istatistikleri kullanarak örnekleme sürecini dışsallaştıran ve daha çeşitli çıktılar üretmeyi hedefleyen bir iş akışı sunar.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.21185",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21185",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity into an explicit, corpus-derived sampling procedure. Our pipeline (i) mines an interpretable categorical schema from a corpus of real artifacts and supplies statistics for sampling; (ii) samples attribute configurations from the corpus-derived statistics; (iii) uses "
+          }
+        },
+        {
+          "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+          "url": "https://huggingface.co/papers/2610.21261",
+          "summary": "Hugging Face tarafından paylaşılan makale, seyrek otomatik kodlayıcıların (sparse autoencoders) model aktivasyonlarını temsil etme biçimini ve bu özelliklerin davranışsal etkilerinin toplanabilirliğini inceliyor. Çalışma, etkileşim düzeylerini ölçmek için SAE Additivity Residuals (SAR) adlı yeni bir yöntem sunarak özelliklerin birleşimindeki sapmaları analiz ediyor.",
+          "meta": "104 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.21261",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 104,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21261",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/OpenSAE/SAE-Behavioral-Compositionality",
+                "githubStars": 3
+              }
+            },
+            "description": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Residuals (SAR), which measure the behavioral variation left unexplained above a chosen interaction order. Under independent feature subset sampling, population SAR is exactly the normalized energy of interactions above that order and bounds coalition ordering error for the optimal low order approximat"
+          }
+        },
+        {
+          "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+          "url": "https://huggingface.co/papers/2610.20680",
+          "summary": "Seyrek öz kodlayıcılar (sparse autoencoders) için gereken aktivasyon verisi miktarı, modelin işlevsel performansı ile öğrenilen özelliklerin (features) yeniden üretilebilirliği üzerinden inceleniyor. Çalışma, bu modellerin eğitiminde kullanılan veri ölçeğinin gerekliliğini farklı dil modelleri ve veri bütçeleriyle test ediyor.",
+          "meta": "1 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.20680",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20680",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            },
+            "description": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data SAEs need by training four SAE architectures on three language models with budgets ranging from 5M tokens to a 500M-token reference. We measure two notions of convergence: functional behavior on standard evaluations and one-to-one reproducibility of learned features. Functional data requirements ar"
+          }
+        },
+        {
+          "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+          "url": "https://huggingface.co/papers/2610.22280",
+          "summary": "LEASH, bilgisayar kullanımı (computer-use) odaklı yapay zekâ ajanlarının karmaşık görevlerde düşük maliyetli ve güçlü modeller arasında geçiş yapmasını sağlayan bir yöntemdir. Belirsizlik farkındalığı (uncertainty-aware) mekanizması sayesinde sistem, zayıf modelin yetersiz kaldığı durumlarda kontrolü otomatik olarak daha güçlü bir modele devreder.",
+          "meta": "6 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2610.22280",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22280",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak agent acts by default and hands control to a strong one only when needed. The core challenge is deciding when to escalate, which requires an uncertainty signal cheap enough to check at every step. However, even after handoff, the strong agent can still get lost, but a bl"
+          }
+        },
+        {
+          "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
+          "url": "https://huggingface.co/papers/2610.15924",
+          "summary": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments, büyük dil modellerinin (LLM) eğitiminde kullanılan programatik doğrulayıcıların (verifiers) manipüle edilmesine karşı bir çözüm öneriyor. Çalışma, ajan ortamlarındaki karmaşık görevlerde hatalı ödüllendirmeyi engellemek adına ölçeklenebilir ve otomatik bir güçlendirme yöntemi geliştirilmesini hedefliyor.",
+          "meta": "3 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2610.15924",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.15924",
+                "publishedAt": "2026-10-11T00:00:00.000Z"
+              }
+            },
+            "description": "Agent environments are essential for large language model (LLM) development. They use programmatic verifiers to turn complex outcomes into rewards. Verifiers can be attacked into awarding full credit to cheating agents without completing the intended task, causing inaccurate evaluation and misalignment in training. As agent environments scale in numbers and difficulty, so must the repairing of exploitable verifiers. To this end, we ask whether today's model with scaled compute can automatically "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Yazılım geliştirme süreçlerinde belirli bir görevi yerine getirmek için kullanılan hazır işlevler veya yetenekler bütünü."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken temel yapıyı oluşturan, işleri kolaylaştıran hazır kurallar ve araçlar bütünü."
+    },
+    {
+      "term": "seeds",
+      "explanation": "Rastgele görünen sonuçların belirli bir başlangıç değerine göre tutarlı ve tekrarlanabilir şekilde üretilmesini sağlayan sayısal anahtar."
+    },
+    {
+      "term": "AI benchmarks",
+      "explanation": "Yapay zekâ sistemlerinin yeteneklerini, hızını ve doğruluğunu ölçmek için kullanılan standart performans testleri."
+    },
+    {
+      "term": "code review",
+      "explanation": "Yazılımın kalitesini artırmak ve hataları bulmak amacıyla yazılan kodların başka bir kişi veya araç tarafından gözden geçirilmesi süreci."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Kullanıcıdan aldığı komutlarla yeni metin, görüntü veya kod gibi içerikler oluşturabilen yapay zekâ teknolojisi."
+    }
+  ]
+}

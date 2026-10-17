@@ -61,6 +61,7 @@
 </script>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/report-cover.css">
+<script src="/assets/report.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to main content</a>
@@ -81,6 +82,12 @@
 
       <p class="rep-note">Full report PDF: every item with its summary, source links and the glossary of terms. Translated from the original Turkish edition.</p>
       <p class="rep-captured rep-ai-note">The summaries and translations in this report are prepared with AI. Before making important decisions, please check the source through the link provided with each item.</p>
+      <div class="rep-feedback" role="group" aria-label="Did this report save you time?">
+        <span class="rep-feedback-q">Did this report save you time?</span>
+        <button type="button" class="rep-feedback-btn" data-cevap="evet">Yes</button>
+        <button type="button" class="rep-feedback-btn" data-cevap="hayir">No</button>
+        <span class="rep-feedback-tesekkur" hidden>Thank you.</span>
+      </div>
       <aside class="signup-cta">
         <p><strong>Early access list.</strong> You can join the list for early access invitations and launch announcements.</p>
         <a class="btn btn-primary" href="/en/#top">Join Early Access List →</a>

@@ -1,0 +1,926 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-10-17",
+  "capturedAt": "2026-10-17T08:34:34.709Z",
+  "editorial": "Na agenda tecnológica de hoje, há um foco intenso em agentes científicos (scientific agents) que expandem os conjuntos de habilidades de modelos de inteligência artificial e em aprendizado de representação (representation learning). Os novos modelos de embedding apresentados pelo Google e as análises criptográficas no Claude revelam claramente a busca dos desenvolvedores pela otimização de suas arquiteturas de sistema.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "O claude-plugins-official, gerenciado pela Anthropic, é um diretório oficial que contém plugins de alta qualidade para o Claude Code. Desenvolvido na linguagem Python, este repositório permite que os usuários expandam suas ferramentas de codificação assistidas por inteligência artificial.",
+          "meta": "Python · ★ 40.972 · +1.552 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-official",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 40972,
+              "engagementCount": 1552,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1552
+              }
+            },
+            "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "K-Dense-AI/scientific-agent-skills é uma biblioteca de habilidades que transforma agentes de inteligência artificial em cientistas capazes de realizar pesquisas científicas. Oferecendo 177 habilidades verificadas e mais de 100 bancos de dados em áreas como biologia, química e medicina, ela funciona de forma compatível com o editor de código Cursor, o assistente de codificação Claude Code e outras ferramentas de IA.",
+          "meta": "Python · ★ 51.791 · +1.158 hoje",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 51791,
+              "engagementCount": 1158,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1158
+              }
+            },
+            "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard."
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "affaan-m/ECC oferece um sistema de melhoria de desempenho focado em habilidades, memória e segurança para ferramentas de codificação de IA (como Claude Code, Codex, Opencode, Cursor). Desenvolvida em JavaScript, esta infraestrutura visa otimizar fluxos de trabalho agentivos com uma abordagem focada em pesquisa.",
+          "meta": "JavaScript · ★ 281.790 · +1.057 hoje",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 281790,
+              "engagementCount": 1057,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1057
+              }
+            },
+            "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything é um projeto de interface de linha de comando (CLI) que visa tornar as ferramentas de software compatíveis com agentes de inteligência artificial. Ele oferece uma infraestrutura padrão para que todos os softwares possam operar de forma nativa para agentes (agent-native).",
+          "meta": "Python · ★ 53.680 · +281 hoje",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 53680,
+              "engagementCount": 281,
+              "rank": 4,
+              "extra": {
+                "starsToday": 281
+              }
+            },
+            "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/"
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "mksglu/context-mode é uma ferramenta que otimiza a janela de contexto (context window) para agentes de codificação de IA. O projeto, que reduz o uso de memória ao limitar as saídas das ferramentas, oferece suporte de roteamento para 17 plataformas diferentes através do Protocolo de Contexto de Modelo (MCP).",
+          "meta": "TypeScript · ★ 30.354 · +449 hoje",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 30354,
+              "engagementCount": 449,
+              "rank": 5,
+              "extra": {
+                "starsToday": 449
+              }
+            },
+            "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks."
+          }
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Desenvolvido com TypeScript, o ruflo é uma infraestrutura de agentes projetada para coordenar fluxos de trabalho autônomos e criar enxames (swarms) de IA multijogador. O sistema oferece recursos como memória adaptativa, capacidade de autoaprendizado e integração com RAG (geração aumentada por recuperação) que permite a extração de dados de fontes atualizadas.",
+          "meta": "TypeScript · ★ 75.763 · +672 hoje",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 75763,
+              "engagementCount": 672,
+              "rank": 6,
+              "extra": {
+                "starsToday": 672
+              }
+            },
+            "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated"
+          }
+        },
+        {
+          "title": "android/skills",
+          "url": "https://github.com/android/skills",
+          "summary": "Desenvolvido pela equipe do Android, o android/skills é uma biblioteca escrita na linguagem Kotlin que contém habilidades (skills) utilizadas em processos de desenvolvimento de aplicativos. Ela oferece um conjunto de ferramentas de código aberto que ajuda os desenvolvedores de software a implementar funcionalidades padrão em seus projetos.",
+          "meta": "Kotlin · ★ 8.182 · +36 hoje",
+          "snapshot": {
+            "sourceId": "android/skills",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Kotlin",
+              "popularity": 8182,
+              "engagementCount": 36,
+              "rank": 7,
+              "extra": {
+                "starsToday": 36
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "obra/superpowers é uma estrutura de habilidades agentivas (agentic skills framework) e metodologia de desenvolvimento de software desenvolvida para agentes de inteligência artificial. O projeto oferece uma abordagem estruturada para a criação de sistemas baseados em agentes e o gerenciamento de fluxos de trabalho.",
+          "meta": "Shell · ★ 300.878 · +973 hoje",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 300878,
+              "engagementCount": 973,
+              "rank": 8,
+              "extra": {
+                "starsToday": 973
+              }
+            },
+            "description": "An agentic skills framework & software development methodology that works."
+          }
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "O Cursor oferece um repositório que contém os padrões técnicos e os plugins oficiais desenvolvidos para a ferramenta de edição de código Cursor. Preparado com TypeScript, este recurso inclui as regras e exemplos necessários para que os desenvolvedores criem plugins específicos para a plataforma.",
+          "meta": "TypeScript · ★ 12.111 · +278 hoje",
+          "snapshot": {
+            "sourceId": "cursor/plugins",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 12111,
+              "engagementCount": 278,
+              "rank": 9,
+              "extra": {
+                "starsToday": 278
+              }
+            },
+            "description": "Cursor plugin specification and official plugins"
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio é uma plataforma de processamento de voz de código aberto que realiza operações como clonagem de voz, design de som e dublagem de vídeo de forma totalmente local. Ela constitui uma alternativa ao serviço ElevenLabs, oferecendo tecnologias de voz com recursos como criação de audiolivros e transcrição em 646 idiomas.",
+          "meta": "Python · ★ 71.860 · +2.301 hoje",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 71860,
+              "engagementCount": 2301,
+              "rank": 10,
+              "extra": {
+                "starsToday": 2301
+              }
+            },
+            "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages."
+          }
+        },
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "MadsLorentzen/ai-job-search é uma estrutura (framework) de busca de emprego que roda no seu computador local e foi desenvolvida sobre o Claude Code. Ela automatiza, com a ajuda de inteligência artificial, os processos de avaliação de anúncios, personalização de currículos, redação de cartas de apresentação e preparação para entrevistas.",
+          "meta": "Python · ★ 48.952 · +898 hoje",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 48952,
+              "engagementCount": 898,
+              "rank": 11,
+              "extra": {
+                "starsToday": 898
+              }
+            },
+            "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it."
+          }
+        },
+        {
+          "title": "hmjz100/LinkSwift",
+          "url": "https://github.com/hmjz100/LinkSwift",
+          "summary": "LinkSwift é uma ferramenta que utiliza uma infraestrutura baseada em JavaScript para obter links de download direto de arquivos de vários serviços de armazenamento em nuvem. O software suporta oito plataformas de nuvem populares, como Baidu Netdisk, Alibaba Cloud Drive, China Mobile Cloud e Quark Drive.",
+          "meta": "JavaScript · ★ 24.106 · +538 hoje",
+          "snapshot": {
+            "sourceId": "hmjz100/LinkSwift",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 24106,
+              "engagementCount": 538,
+              "rank": 12,
+              "extra": {
+                "starsToday": 538
+              }
+            },
+            "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘"
+          }
+        },
+        {
+          "title": "xerj-org/xerj",
+          "url": "https://github.com/xerj-org/xerj",
+          "summary": "XERJ é uma ferramenta de indexação que permite que agentes de inteligência artificial escaneiem dados, como código, documentos e arquivos de log, usando menos tokens. Compatível com Elasticsearch, este sistema oferece um acesso a dados mais eficiente em processos como geração aumentada por recuperação (RAG) e auditorias de segurança.",
+          "meta": "Rust · ★ 7.224 · +1.648 hoje",
+          "snapshot": {
+            "sourceId": "xerj-org/xerj",
+            "capturedAt": "2026-10-17T08:34:35.856Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7224,
+              "engagementCount": 1648,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1648
+              }
+            },
+            "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work."
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Tesla Roadster",
+          "url": "https://www.tesla.com/roadster",
+          "summary": "O Tesla Roadster é um modelo de carro esportivo de alto desempenho desenvolvido pela fabricante de veículos elétricos Tesla. O veículo visa apresentar as tecnologias de transporte elétrico da marca em uma plataforma focada em velocidade e design.",
+          "meta": "1.403 pontos · 2.452 comentários",
+          "snapshot": {
+            "sourceId": "50112657",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 1403,
+              "engagementCount": 2452,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50112657",
+                  "popularity": 1403,
+                  "engagementCount": 2452
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "createdAt": "2026-10-16T01:32:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50112657"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qghttps:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50112657",
+              "popularity": 1403,
+              "engagementCount": 2452
+            }
+          ]
+        },
+        {
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "summary": "A Anthropic publicou uma pesquisa detalhando as origens e os processos de criação das curvas ECDSA usadas em padrões criptográficos. Este estudo explica que as referidas curvas não foram escolhidas aleatoriamente e como foram derivadas a partir de valores de semente (seeds) específicos.",
+          "meta": "852 pontos · 317 comentários",
+          "snapshot": {
+            "sourceId": "50122800",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 852,
+              "engagementCount": 317,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122800",
+                  "popularity": 852,
+                  "engagementCount": 317
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "createdAt": "2026-10-16T18:55:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122800"
+              }
+            },
+            "description": "https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;"
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122800",
+              "popularity": 852,
+              "engagementCount": 317
+            }
+          ]
+        },
+        {
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+          "summary": "Noventa por cento das horas de trabalho nos Estados Unidos consistem em tarefas que estão fora do escopo dos testes de referência de inteligência artificial (AI benchmarks) atuais. A pesquisa publicada pela Mercor revela que as métricas de desempenho de IA são insuficientes para refletir as necessidades reais da força de trabalho.",
+          "meta": "491 pontos · 413 comentários",
+          "snapshot": {
+            "sourceId": "50121179",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 413,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50121179",
+                  "popularity": 491,
+                  "engagementCount": 413
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "createdAt": "2026-10-16T17:08:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50121179"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50121179",
+              "popularity": 491,
+              "engagementCount": 413
+            }
+          ]
+        },
+        {
+          "title": "How the Claude Code team does code review",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+          "summary": "A equipe Claude Code da Anthropic compartilha os métodos que desenvolveu para gerenciar a fase de revisão de código (code review) nos processos de desenvolvimento de software. A equipe visa aumentar a qualidade do código e acelerar os processos de revisão usando ferramentas de inteligência artificial generativa (generative AI).",
+          "meta": "332 pontos · 308 comentários",
+          "snapshot": {
+            "sourceId": "50122951",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 332,
+              "engagementCount": 308,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50122951",
+                  "popularity": 332,
+                  "engagementCount": 308
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "createdAt": "2026-10-16T19:04:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50122951"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50122951",
+              "popularity": 332,
+              "engagementCount": 308
+            }
+          ]
+        },
+        {
+          "title": "I love software rendering",
+          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+          "summary": "O interesse em métodos de processamento de imagem baseados em software (software rendering) traz de volta à pauta os princípios fundamentais da criação de gráficos baseada no poder do processador, em vez de técnicas modernas de aceleração de hardware. Essa abordagem oferece uma perspectiva alternativa para aqueles que desejam entender os processos técnicos de como os gráficos são processados.",
+          "meta": "318 pontos · 202 comentários",
+          "snapshot": {
+            "sourceId": "50117746",
+            "capturedAt": "2026-10-17T08:34:34.995Z",
+            "metadata": {
+              "popularity": 318,
+              "engagementCount": 202,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=50117746",
+                  "popularity": 318,
+                  "engagementCount": 202
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "createdAt": "2026-10-16T12:52:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=50117746"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=50117746",
+              "popularity": 318,
+              "engagementCount": 202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "google/embeddinggemma-2",
+          "url": "https://huggingface.co/google/embeddinggemma-2",
+          "summary": "O embeddinggemma-2, desenvolvido pelo Google, é um modelo de extração de características (feature-extraction) que converte textos em vetores numéricos. Hospedado no Hugging Face, este modelo é usado para colocar dados em um formato que aplicativos de inteligência artificial possam processar.",
+          "meta": "♥ 2.534 · 151.258 downloads",
+          "snapshot": {
+            "sourceId": "google/embeddinggemma-2",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 2534,
+              "engagementCount": 151258,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 922,
+                "pipelineTag": "feature-extraction",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "embedding_gemma2",
+                  "feature-extraction",
+                  "embedding",
+                  "sentence-transformers",
+                  "multimodal-embedding",
+                  "multimodal",
+                  "vision",
+                  "audio",
+                  "video",
+                  "image-feature-extraction",
+                  "audio-feature-extraction",
+                  "video-feature-extraction",
+                  "sentence-similarity",
+                  "multilingual",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "feature-extraction model"
+          }
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "url": "https://huggingface.co/jialinyyzz/humanizer",
+          "summary": "O jialinyyzz/humanizer, disponível no Hugging Face, é um modelo de inteligência artificial que realiza geração de texto (text-generation). Este modelo foi projetado para realizar tarefas de processamento de linguagem que os usuários precisam em seus processos de criação de texto.",
+          "meta": "♥ 1.847 · 85.612 downloads",
+          "snapshot": {
+            "sourceId": "jialinyyzz/humanizer",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 1847,
+              "engagementCount": 85612,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 822,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "gguf",
+                  "safetensors",
+                  "gemma4_unified",
+                  "image-text-to-text",
+                  "humanizer",
+                  "transformers",
+                  "text-rewriting",
+                  "rewriting",
+                  "paraphrase",
+                  "style-transfer",
+                  "llama.cpp",
+                  "gemma4",
+                  "text-generation",
+                  "en",
+                  "zh",
+                  "base_model:google/gemma-4-12B",
+                  "base_model:finetune:google/gemma-4-12B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            },
+            "description": "text-generation model"
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "summary": "O openbmb/MiniCPM-V-4.7-35B-A3B, compartilhado no Hugging Face, é um modelo de inteligência artificial que processa entradas visuais e de texto para produzir saídas de texto. Este modelo é usado em processos de geração de texto baseados em imagem com suas capacidades de processamento de dados multimodais (multimodal).",
+          "meta": "♥ 861 · 17.553 downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM-V-4.7-35B-A3B",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 861,
+              "engagementCount": 17553,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 697,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "minicpmv4_7",
+                  "image-text-to-text",
+                  "minicpm-v",
+                  "multimodal",
+                  "On-Device Model",
+                  "lightweight",
+                  "moe",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-text-to-text model"
+          }
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "url": "https://huggingface.co/fishaudio/drama-3",
+          "summary": "O fishaudio/drama-3, compartilhado no Hugging Face, é um modelo de conversão de texto em fala (text-to-speech) que transforma texto em fala. Este modelo foi desenvolvido com o objetivo de converter conteúdos escritos em vozes naturais.",
+          "meta": "♥ 571 · 6.158 downloads",
+          "snapshot": {
+            "sourceId": "fishaudio/drama-3",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 571,
+              "engagementCount": 6158,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 551,
+                "pipelineTag": "text-to-speech",
+                "tags": [
+                  "safetensors",
+                  "fish_omni",
+                  "fish-audio",
+                  "text-to-speech",
+                  "multi-speaker",
+                  "audio-editing",
+                  "emotional-speech-generation",
+                  "zh",
+                  "en",
+                  "ja",
+                  "ko",
+                  "es",
+                  "pt",
+                  "ar",
+                  "ru",
+                  "fr",
+                  "de",
+                  "sv",
+                  "it",
+                  "tr",
+                  "no",
+                  "nl",
+                  "cy",
+                  "eu",
+                  "ca",
+                  "da",
+                  "gl",
+                  "ta",
+                  "hu",
+                  "fi",
+                  "pl",
+                  "et",
+                  "hi",
+                  "la",
+                  "ur",
+                  "th",
+                  "vi",
+                  "jw",
+                  "bn",
+                  "yo",
+                  "sl",
+                  "cs",
+                  "sw",
+                  "nn",
+                  "he",
+                  "ms",
+                  "uk",
+                  "id",
+                  "kk",
+                  "bg",
+                  "lv",
+                  "my",
+                  "tl",
+                  "sk",
+                  "ne",
+                  "fa",
+                  "af",
+                  "el",
+                  "bo",
+                  "hr",
+                  "ro",
+                  "sn",
+                  "mi",
+                  "yi",
+                  "am",
+                  "be",
+                  "km",
+                  "is",
+                  "az",
+                  "sd",
+                  "br",
+                  "sq",
+                  "ps",
+                  "mn",
+                  "ht",
+                  "ml",
+                  "sr",
+                  "sa",
+                  "te",
+                  "ka",
+                  "bs",
+                  "pa",
+                  "lt",
+                  "kn",
+                  "si",
+                  "hy",
+                  "mr",
+                  "as",
+                  "gu",
+                  "fo",
+                  "arxiv:2610.18010",
+                  "license:other",
+                  "bsgemm-moe",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "text-to-speech model"
+          }
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "url": "https://huggingface.co/Lightricks/LTX-2.5",
+          "summary": "O LTX-2.5, desenvolvido pela Lightricks, é um modelo de inteligência artificial capaz de criar vídeos a partir de imagens (image-to-video model). Esta ferramenta, compartilhada na plataforma Hugging Face, foi projetada para transformar imagens estáticas em conteúdo animado.",
+          "meta": "♥ 8.120 · 1.920.611 downloads",
+          "snapshot": {
+            "sourceId": "Lightricks/LTX-2.5",
+            "capturedAt": "2026-10-17T08:34:34.831Z",
+            "metadata": {
+              "popularity": 8120,
+              "engagementCount": 1920611,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 455,
+                "pipelineTag": "image-to-video",
+                "tags": [
+                  "diffusion-single-file",
+                  "image-to-video",
+                  "text-to-video",
+                  "video-to-video",
+                  "image-text-to-video",
+                  "audio-to-video",
+                  "text-to-audio",
+                  "video-to-audio",
+                  "audio-to-audio",
+                  "text-to-audio-video",
+                  "image-to-audio-video",
+                  "image-text-to-audio-video",
+                  "ltx-video",
+                  "lightricks",
+                  "comfyui",
+                  "ltx-2.5",
+                  "ltx",
+                  "en",
+                  "de",
+                  "es",
+                  "fr",
+                  "ja",
+                  "ko",
+                  "zh",
+                  "it",
+                  "pt",
+                  "arxiv:2601.03233",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            },
+            "description": "image-to-video model"
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+          "url": "https://huggingface.co/papers/2610.21185",
+          "summary": "Mine, Sample, Render (MSR) é uma abordagem de tempo de teste (test-time) desenvolvida para resolver as deficiências dos modelos de inteligência artificial generativa (generative AI) em fornecer diversidade. O método oferece um fluxo de trabalho que utiliza estatísticas obtidas de dados reais para externalizar o processo de amostragem e visa produzir resultados mais diversos.",
+          "meta": "5 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.21185",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21185",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Modern generative models produce high-quality individual outputs but struggle to sample diversely, even when explicitly instructed to do so. We introduce MINE-SAMPLE-RENDER (MSR), a test-time approach that externalizes the diversity into an explicit, corpus-derived sampling procedure. Our pipeline (i) mines an interpretable categorical schema from a corpus of real artifacts and supplies statistics for sampling; (ii) samples attribute configurations from the corpus-derived statistics; (iii) uses "
+          }
+        },
+        {
+          "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+          "url": "https://huggingface.co/papers/2610.21261",
+          "summary": "O artigo compartilhado pela Hugging Face examina a maneira como os codificadores automáticos esparsos (sparse autoencoders) representam as ativações do modelo e a aditividade dos efeitos comportamentais dessas características. O estudo apresenta um novo método chamado SAE Additivity Residuals (SAR) para medir os níveis de interação e analisar os desvios na combinação de características.",
+          "meta": "104 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2610.21261",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 104,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.21261",
+                "publishedAt": "2026-10-15T00:00:00.000Z",
+                "githubRepo": "https://github.com/OpenSAE/SAE-Behavioral-Compositionality",
+                "githubStars": 3
+              }
+            },
+            "description": "Sparse autoencoders (SAEs) represent model activations with sparse, linearly decoded features, but the downstream effects of those features need not compose additively. We introduce SAE Additivity Residuals (SAR), which measure the behavioral variation left unexplained above a chosen interaction order. Under independent feature subset sampling, population SAR is exactly the normalized energy of interactions above that order and bounds coalition ordering error for the optimal low order approximat"
+          }
+        },
+        {
+          "title": "Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility",
+          "url": "https://huggingface.co/papers/2610.20680",
+          "summary": "A quantidade de dados de ativação necessária para codificadores automáticos esparsos (sparse autoencoders) é examinada através do desempenho funcional do modelo e da reprodutibilidade das características aprendidas (features). O estudo testa a necessidade da escala de dados utilizada no treinamento desses modelos com diferentes modelos de linguagem e orçamentos de dados.",
+          "meta": "1 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2610.20680",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.20680",
+                "publishedAt": "2026-10-14T00:00:00.000Z"
+              }
+            },
+            "description": "Sparse autoencoders (SAEs) are typically trained on hundreds of millions to billions of activation tokens, yet little work has tested whether this scale is necessary. We study how much activation data SAEs need by training four SAE architectures on three language models with budgets ranging from 5M tokens to a 500M-token reference. We measure two notions of convergence: functional behavior on standard evaluations and one-to-one reproducibility of learned features. Functional data requirements ar"
+          }
+        },
+        {
+          "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+          "url": "https://huggingface.co/papers/2610.22280",
+          "summary": "LEASH é um método que permite que agentes de inteligência artificial focados no uso de computador (computer-use) alternem entre modelos de baixo custo e modelos poderosos em tarefas complexas. Graças ao mecanismo de consciência de incerteza (uncertainty-aware), o sistema transfere automaticamente o controle para um modelo mais forte nos casos em que o modelo mais fraco é insuficiente.",
+          "meta": "6 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2610.22280",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.22280",
+                "publishedAt": "2026-10-15T00:00:00.000Z"
+              }
+            },
+            "description": "Computer-use agents increasingly tackle long-horizon tasks, where running a frontier model at every step is expensive and a small open-weight model alone often fails. Weak-to-strong escalation offers a middle ground where a weak agent acts by default and hands control to a strong one only when needed. The core challenge is deciding when to escalate, which requires an uncertainty signal cheap enough to check at every step. However, even after handoff, the strong agent can still get lost, but a bl"
+          }
+        },
+        {
+          "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
+          "url": "https://huggingface.co/papers/2610.15924",
+          "summary": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments propõe uma solução contra a manipulação de verificadores programáticos (verifiers) usados no treinamento de grandes modelos de linguagem (LLM). O estudo visa desenvolver um método de fortalecimento escalável e automático para evitar recompensas incorretas em tarefas complexas em ambientes de agentes.",
+          "meta": "3 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2610.15924",
+            "capturedAt": "2026-10-17T08:34:34.839Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2610.15924",
+                "publishedAt": "2026-10-11T00:00:00.000Z"
+              }
+            },
+            "description": "Agent environments are essential for large language model (LLM) development. They use programmatic verifiers to turn complex outcomes into rewards. Verifiers can be attacked into awarding full credit to cheating agents without completing the intended task, causing inaccurate evaluation and misalignment in training. As agent environments scale in numbers and difficulty, so must the repairing of exploitable verifiers. To this end, we ask whether today's model with scaled compute can automatically "
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": []
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerenciar programas de computador apenas inserindo comandos escritos, sem usar o mouse."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Um software projetado especificamente para ser usado e gerenciado diretamente por agentes de inteligência artificial."
+    },
+    {
+      "term": "context window",
+      "explanation": "O limite da quantidade de informação ou do comprimento do texto que a inteligência artificial consegue processar e lembrar de uma só vez."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Protocolo de conexão que permite que modelos de inteligência artificial se comuniquem de forma padronizada com diferentes fontes de dados e ferramentas."
+    },
+    {
+      "term": "swarms",
+      "explanation": "Grupo composto por vários agentes de inteligência artificial que trabalham em colaboração entre si para realizar tarefas complexas."
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "explanation": "Método que permite à inteligência artificial enriquecer suas informações encontrando e trazendo dados atualizados de fontes externas ao gerar respostas."
+    },
+    {
+      "term": "skills",
+      "explanation": "Conjunto de funções ou capacidades prontas usadas para realizar uma tarefa específica nos processos de desenvolvimento de software."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Infraestrutura de desenvolvimento de software que permite que agentes de inteligência artificial adquiram novas habilidades e as utilizem em uma estrutura organizada."
+    },
+    {
+      "term": "plugin",
+      "explanation": "Pequeno programa de extensão usado para expandir os recursos de um software existente ou adicionar novas funcionalidades a ele."
+    },
+    {
+      "term": "framework",
+      "explanation": "Conjunto de regras e ferramentas prontas que formam a estrutura básica e facilitam o trabalho durante o desenvolvimento de software."
+    },
+    {
+      "term": "token",
+      "explanation": "A menor unidade de dados, correspondente a partes de palavras ou caracteres, que os modelos de inteligência artificial utilizam ao processar textos."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Tecnologia que permite à inteligência artificial extrair informações de bancos de dados externos para gerar respostas mais precisas e atualizadas."
+    },
+    {
+      "term": "seeds",
+      "explanation": "Chave numérica que permite que resultados aparentemente aleatórios sejam gerados de forma consistente e repetível com base em um valor inicial específico."
+    },
+    {
+      "term": "AI benchmarks",
+      "explanation": "Testes de desempenho padrão usados para medir as capacidades, a velocidade e a precisão dos sistemas de inteligência artificial."
+    },
+    {
+      "term": "code review",
+      "explanation": "Processo em que o código escrito é revisado por outra pessoa ou ferramenta com o objetivo de melhorar a qualidade do software e encontrar erros."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial capaz de criar novos conteúdos, como textos, imagens ou códigos, a partir de comandos recebidos do usuário."
+    }
+  ]
+}
