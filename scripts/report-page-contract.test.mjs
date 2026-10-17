@@ -57,5 +57,12 @@ test('report detail pages have one canonical analytics/runtime block', async () 
       `${relativePath}: expected Insights, Speed Insights, telemetry order`,
     );
     assert.doesNotMatch(text, /KVKK uyumlu|GDPR compliant|GDPR uyumludur|SOC 2 uyumlu/i);
+    // Tek soru kutusu (TR: app publish-report.ts, diğer diller: build-reports-en.js) iki üreticide
+    // aynı yapıda kalsın; davranışı report.js taşır.
+    if (text.includes('class="rep-feedback"')) {
+      assert.equal(text.split('/assets/report.js').length - 1, 1, `${relativePath}: soru kutusu var ama report.js yok ya da birden çok`);
+      assert.equal((text.match(/class="rep-feedback-btn" data-cevap="(evet|hayir)"/g) || []).length, 2, `${relativePath}: evet/hayir düğmeleri eksik`);
+      assert.match(text, /class="rep-feedback-tesekkur" hidden>/, `${relativePath}: teşekkür satırı gizli başlamalı`);
+    }
   }
 });
