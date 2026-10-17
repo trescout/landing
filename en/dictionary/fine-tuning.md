@@ -1,36 +1,54 @@
 # What is Fine-tuning?
 
-*Artificial Intelligence · Last updated: June 3, 2026*
+*Artificial Intelligence · Last updated: September 20, 2026*
 
-It is the process of specifically training a ready-made artificial intelligence model for a specific task or area of ​​expertise.
+Fine-tuning is the process of customizing a pre-trained general-purpose AI base model by optimizing its weights on a specific area of ​​expertise, task, style or corporate data set.
 
-## Overview
+## Etymology and Philosophy of Transfer Learning
 
-Fine-tuning is the retraining of a general-purpose trained artificial intelligence with a small data set to perform a particular style, area of ​​expertise or task better. This process preserves the general capabilities of the model while specializing it in a specific subject.
+The concept of Fine-Tuning is based on the philosophy of 'Transfer Learning' in the discipline of deep learning and machine learning. Pre-training a modern foundation model with billions of parameters from scratch is a process that takes months on thousands of advanced GPU clusters and requires huge budgets of millions of dollars. This cost would make it nearly impossible for companies to develop their own custom AI models.
 
-***Analogy:** It is like a doctor who has received general medicine training and becomes a surgeon or cardiologist after receiving specialized training for a certain period of time.*
+Tweak architecture eliminates this obstacle. The basic model is taken, which has already learned the basic language and logic patterns of the world with internet-scale public data; It undergoes additional training on a much smaller, selected and high-quality dataset of the target domain (e.g. medicine, law, finance or internal corporate correspondence). In this process, while the general comprehension ability of the model is preserved, the specific terminology, style and output format of the target task are permanently processed into the neural network weights of the model.
 
-## How it works
+***Analogy:** Imagine a young physician who graduated from medical school with honors. This physician has complete knowledge of basic biology, human anatomy, pharmacology and general medical knowledge; In other words, he has successfully completed his pre-training. However, you cannot expect this doctor to directly undergo heart transplant surgery. A physician does not need to go to medical school from scratch to become a surgeon; instead, he specializes exclusively in a cardiac surgery clinic for several years. Fine-Tuning is exactly this specialization; It equips a model with basic language knowledge with the terminology and reflexes of a specific branch.*
 
-First, a basic model is selected and a data set specific to this model is displayed. The model undergoes light training on this data and adjusts its internal connections according to its new target.
+## Technical Depth and Training Methods
 
-## Where it is used
+- Full Fine-Tuning: Updating all parameters of the model; requires high resources and carries the risk of catastrophic forgetting.
+- Parameter-Efficient Fine-Tuning (PEFT & LoRA): Original weights are frozen and small adapter matrices are trained; with QLoRA, 4-bit quantized models can be trained on consumer GPUs.
+- Supervised Fine-Tuning (SFT) and DPO: Instruction-following capability is reinforced with question-answering datasets; model safety is enhanced through direct preference optimization.
+- Data Quality (LIMA Hypothesis): Model performance is maximized with 1,000 carefully filtered high-quality examples instead of countless mediocre data.
+- Adapter Merging: Trained LoRA adapters are merged with the base weights to run with zero latency during inference.
 
-It is used in very specific areas, such as legal copywriting, medical diagnostic support, or mimicking your company's private correspondence language.
+## Sociological Dimension: Data Sovereignty and Cultural Adaptation
 
-## Commonly confused with
+Fine-tuning is the most powerful lever that enables open source AI models to gain independence and data sovereignty in the corporate world. It's a legal and strategic imperative for companies to be able to train models running on their local servers, without having to send customer secrets, business contracts, or patient records to closed cloud APIs.
 
-It is frequently confused with RAG; RAG brings in information from outside, while fine-tuning permanently changes the behavior or expertise of the model.
+In addition, fine-tuning represents cultural and linguistic justice. Although global models are trained mainly in English and Western culture, local institutions and communities can produce national and institutional models that are fully compatible with languages ​​such as Turkish and local values, thanks to fine-tuning.
 
-## Frequently asked questions
+## Common Mistakes and Misconceptions
 
-**Is fine-tuning too expensive?**
+Choosing Fine-Tuning Over RAG: Fine-tuning is not performed for transferring up-to-date information; RAG is applied for information, and fine-tuning is applied for behavior and style.
+- Training on Garbage Data: Low-quality or inconsistent datasets dull the model's logical reasoning ability.
+- Overfitting: Training a model with excessive iterations on a small dataset leads to rote memorization and destroys its generalization power.
 
-It has become much more accessible than before, but it still requires serious processing power and a quality data set.
+## Frequently Asked Questions
 
-**Should I fine-tune the model every day?**
+**What is the main difference between Fine-Tuning and RAG?**
 
-No, fine-tuning is a permanent process; It makes much more sense to use RAG for up-to-date information.
+Fine-Tuning adds style, format and reflexes by permanently changing the weights of the model; RAG, on the other hand, instantly injects current documents into the context window of the model without touching the weights.
+
+**How do LoRA and QLoRA techniques reduce costs?**
+
+By freezing the main weights of the model and adding 0.1 percent small adapter matrices, it reduces the need for memory (VRAM) many times; It allows giant models to be trained on a single graphics card.
+
+**What is catastrophic forgetting?**
+
+It is a situation where the model forgets the general language and logic rules that he/she already knew while learning a new field of expertise; This risk is largely prevented with adapter methods such as LoRA.
+
+**How many data samples are required to perform Fine-Tuning?**
+
+According to the LIMA principle, 500 to 2,000 correctly selected, consistent and high-quality samples give much more successful results than hundreds of thousands of mediocre data; quality is more important than quantity.
 
 ## Related terms
 
@@ -38,6 +56,8 @@ No, fine-tuning is a permanent process; It makes much more sense to use RAG for 
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [RLHF](https://trescout.com/en/dictionary/rlhf/)
 - [Distillation](https://trescout.com/en/dictionary/distillation/)
+- [Quantization](https://trescout.com/en/dictionary/quantization/)
+- [RAG](https://trescout.com/en/dictionary/rag/)
 
 ## Related tools
 

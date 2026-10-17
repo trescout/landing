@@ -2,16 +2,16 @@
 
 PPT-Master est un outil basé sur l'IA qui convertit les documents directement en fichiers de présentation modifiables (PPTX). Le système traduit le texte en présentations personnalisables avec des figures natives, des animations et des notes audio du présentateur.
 
-- ★ 61 580
+- ★ 62 941
 - Python
 - GitHub Trending · 2026-06-28
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 61,580 → 62,941, dernière version v6.7.1 (16 octobre 2026).
 - **13 octobre 2026:** Étoiles 58,238 → 61,580, dernière version v6.7.0 (8 octobre 2026).
 - **8 octobre 2026:** Étoiles 58,045 → 58,238, dernière version v6.7.0 (8 octobre 2026).
 - **7 octobre 2026:** Étoiles 55,250 → 58,045, dernière version v6.6.0 (19 septembre 2026).
-- **19 septembre 2026:** Étoiles 54,929 → 55,250, dernière version v6.6.0 (19 septembre 2026).
 
 ## Ce que ça vous apporte
 

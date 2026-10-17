@@ -1,67 +1,71 @@
-# Self-Hosted: Homelabs, cloud repatriation, and private infrastructure
+# What is Self-hosted?
 
 *Development · Last updated: September 19, 2026*
 
-Self-hosted describes the software architecture and operational practice of deploying, configuring, and maintaining web services and applications on personally owned physical hardware or private servers rather than paying third-party SaaS vendors.
+Self-hosted (self-hosting or local hosting) is an architecture for running and managing software, a database, or a digital service on a physical server, local hardware (homelab), or a virtual private server (VPS) entirely under your own control, without depending on a third-party cloud company (SaaS).
 
-## Etymology and Core Definition
+## Etymology and Turkish Equivalent
 
-The compound term *self-hosted* combines reflexive autonomy with server hosting. In software engineering, self-hosting embodies technical sovereignty: retaining total ownership of data pipelines, operating systems, and server runtimes without external vendor lock-in.
+Formed by combining the English words self and host, the term is referred to in Turkish as öz barındırma, kendi sunucusunda barındırma, or yerel barındırma.
+
+In the traditional SaaS (Software as a Service) model, users are merely tenants; data and infrastructure are locked in the data centers of foreign companies. In the self-hosted approach, you are the direct system administrator and owner: the database, storage disks, network rules, and encryption keys are entirely your physical or logical property.
 
 ## 1. From SaaS Fatigue to Cloud Repatriation
 
-The initial migration to public cloud and SaaS promised frictionless scaling, but led to compounding subscription fatigue, uncontrollable cloud egress fees, and arbitrary licensing price hikes. Pioneered by companies like Basecamp/37signals, **cloud repatriation** has inspired organizations and developers to bring predictable workloads back to owned bare-metal infrastructure, saving millions in operating expenses.
+In the last decade, the shift of every software to a monthly recurring subscription model has created significant subscription fatigue among individuals and organizations:
+
+- The Cost Trap: SaaS tools costing $10–$50 per user per month escalate into hundreds of thousands of dollars in uncontrolled costs as teams grow. Indeed, the move by global tech leaders like 37signals (Basecamp) to leave the cloud and return to their own hardware (Cloud Repatriation) has proven the economic rationality of the self-hosted approach.
+- Data Sovereignty and Privacy: Self-hosting is the strongest shield against the risk of companies unilaterally changing terms of use, using data to train AI models, or suddenly closing accounts. Keeping sensitive customer data within your own borders in accordance with KVKK and GDPR standards also ensures legal compliance.
 
 ## 2. Hardware Architecture and the Homelab Ecosystem
 
-Self-hosting practitioners utilize diverse computational hardware tiers:
+The self-hosted world has moved from expensive enterprise server racks to living rooms and home laboratories (Homelab):
 
-- **Single-Board Computers:** Energy-efficient Raspberry Pi and mini-PCs (Intel N100) running lightweight services with 10W power draw.
-- **Repurposed Enterprise Servers:** Used rackmount hardware (Dell PowerEdge, HP ProLiant) providing ECC memory and SAS storage pools for heavy virtualization.
-- **Hypervisor Foundation:** Proxmox VE or TrueNAS Scale managing virtual machines and LXC containers directly on bare metal.
+- Low-Power Hardware: Intel N100-based mini PCs, Raspberry Pi 5, or older laptops can run 24/7 uninterrupted with an electricity consumption of only a few hundred liras per year.
+- Storage and Data Security (ZFS & RAID): RAID arrays where multiple hard drives are mirrored and the ZFS file system make data loss impossible, even if a drive physically burns out. Operating systems like TrueNAS and unRAID turn this hardware into professional storage pools.
+- Cloud VPS Alternative: For those who do not want to host hardware at home, cheap virtual private servers (VPS) rented from providers like Hetzner or OVH combine self-hosted freedom with cloud reliability.
 
-## 3. The Modern Self-Hosted Software Stack
+## 3. Modern Self-Hosted Software Stack
 
-Deploying self-hosted applications has been revolutionized by containerization:
+Gone are the days when it was necessary to manually compile PHP and MySQL on Linux. Modern architecture is built on three pillars:
 
-- **Container Orchestration:** Docker and Docker Compose defining multi-service networks declaratively in simple YAML files.
-- **Reverse Proxies & SSL:** Traefik, Caddy, or Nginx Proxy Manager automatically negotiating Let's Encrypt TLS certificates.
-- **Secure Remote Access:** WireGuard, Tailscale, or Cloudflare Tunnels exposing home services safely without opening vulnerable router firewall ports.
+- Containerization (Docker & Docker Compose): Each service (Nextcloud, Vaultwarden, Jellyfin) runs inside an isolated Docker container with its own libraries. Thanks to the docker-compose.yml file, dozens of services can be spun up with a single command.
+- Reverse Proxy: Nginx, Traefik, or Caddy handles incoming web requests, routes domain names to the correct container, and automatically renews free SSL/TLS certificates via Let's Encrypt.
+- Secure Network Tunnels (Zero-Trust & Mesh VPN): Opening ports to the outside on a home router invites cyberattacks. Modern self-hosted users safely run their systems in an internal network (Mesh VPN) closed to the outside world and open only to authorized devices by using Tailscale, WireGuard, or Cloudflare Tunnels.
 
-## 4. Popular Open-Source Self-Hosted Solutions
+## 4. Popular Self-Hosted Solutions
 
-Thriving open-source ecosystems replace virtually every proprietary SaaS product:
+- Personal Cloud and Photos: Nextcloud instead of Google Drive, Immich with AI face recognition instead of Google Photos.
+- Password Management: Open-source and lightweight Vaultwarden (Bitwarden compatible) instead of 1Password.
+- Media Streaming: Jellyfin and Plex, where you manage your own archive instead of Netflix and Spotify.
+- Local AI: Ollama and Open WebUI running on your own graphics card instead of a ChatGPT subscription.
+- Smart Home: Home Assistant, which runs entirely locally instead of cloud-dependent manufacturers.
 
-- **Data Storage & Cloud Sync:** Nextcloud for documents, Immich for Google Photos replacement, and Vaultwarden for Bitwarden password management.
-- **Media Streaming:** Jellyfin or Plex for personal audio and video streaming.
-- **Home Automation:** Home Assistant coordinating smart home sensors locally without cloud dependencies.
+## 5. Responsibilities: The 3-2-1 Backup Rule
 
-## 5. Critical Operational Responsibilities: The 3-2-1 Backup Rule
+Freedom brings responsibility. There is no cloud company behind you to open a support ticket with in the event of a hardware failure. Therefore, the 3-2-1 Backup Rule is mandatory:
 
-Taking control of your infrastructure means assuming full responsibility for disaster recovery:
+- Keep at least 3 copies of your data.
+Store these copies in 2 different physical media (for example, internal disk and external USB).
+- Host at least 1 of the copies in a different physical location (encrypted remote server or external storage) against fire and theft.
 
-- **The 3-2-1 Rule:** Maintain at least **3** copies of your data on **2** different media types, with **1** copy kept off-site (e.g., encrypted cloud storage or a remote server).
-- **Testing Restores:** An untested backup is not a backup; scheduled automated disaster recovery drills are vital.
+## Frequently Asked Questions
 
-*Using SaaS is like renting an apartment where the landlord can raise the rent, change the locks, or enter whenever they want; self-hosting is like owning your own house: you are responsible for fixing the roof and plumbing, but you hold complete freedom and equity.*
+**What is self-hosted and what does it mean in Turkish?**
 
-## Frequently asked questions
+It is a concept of English origin that means 'self-hosting' or 'hosting on one's own server' in Turkish. It refers to running software on the user's own hardware or server instead of third-party cloud providers.
 
-**What does self-hosted mean in computing?**
+**Is advanced coding knowledge required to set up self-hosted?**
 
-It refers to running software applications on your own private hardware or virtual servers instead of using vendor-managed SaaS platforms.
+No, you do not need to write code. Basic knowledge of the Linux command line and an understanding of Docker logic are sufficient. Furthermore, modern systems like CasaOS and Umbrel offer one-click installation capabilities similar to an app store.
 
-**What is the difference between Local and Self-Hosted?**
+**Is it safe to run self-hosted services on a home server (homelab)?**
 
-Local runs directly on your personal computer for immediate use; self-hosted runs on a dedicated server (like a homelab) accessible across your network 24/7.
+When configured correctly, it is more secure than commercial clouds because your data is not shared with companies. However, it is essential to use VPN tunnels like Tailscale instead of opening ports directly on the modem and to keep up with security updates.
 
-**How do you access self-hosted services safely outside your home network?**
+**Why is the 3-2-1 backup rule vital?**
 
-Using secure mesh VPNs like Tailscale or WireGuard, or reverse proxy tunnels that avoid opening public router ports.
-
-**What is the 3-2-1 backup rule?**
-
-A disaster recovery strategy of keeping 3 copies of data across 2 different storage media types with 1 copy stored in an off-site location.
+In self-hosted systems, there is no customer service to recover data when hardware fails. The 3-2-1 backup rule·3 copies, 2 different media, and 1 off-site location·prevents data loss in the event of hardware fires or malfunctions.
 
 ## Related terms
 
@@ -73,13 +77,13 @@ A disaster recovery strategy of keeping 3 copies of data across 2 different stor
 ## Related tools
 
 - [Immich](https://trescout.com/en/discover/immich/)
+- [CasaOS](https://trescout.com/en/discover/casaos/)
 - [Chatwoot](https://trescout.com/en/discover/chatwoot/)
 - [Open-Generative-AI](https://trescout.com/en/discover/open-generative-ai/)
 - [OpenWA](https://trescout.com/en/discover/openwa/)
 - [Openship](https://trescout.com/en/discover/openship/)
 - [Instatic](https://trescout.com/en/discover/instatic/)
 - [TREK](https://trescout.com/en/discover/trek/)
-- [Celld](https://trescout.com/en/discover/celld/)
 
 This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/self-hosted/)
 

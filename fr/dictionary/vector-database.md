@@ -1,48 +1,68 @@
 # Qu'est-ce que Vector Database ?
 
-*Données et infra · Dernière mise à jour : 3 juin 2026*
+*Données et infra · Dernière mise à jour : 20 septembre 2026*
 
-Il s’agit d’un type particulier de base de données dans laquelle l’intelligence artificielle stocke les données afin de pouvoir les retrouver rapidement en fonction de leur signification.
+Une base de données vectorielle (Vector Database) est une architecture de base de données spécialement conçue pour stocker, indexer et interroger des vecteurs numériques de haute dimension (embeddings) et leurs distances de similarité sémantique en quelques millisecondes.
 
-## Définition
+## Étymologie et espace sémantique multidimensionnel
 
-Une base de données vectorielle est un système de stockage spécial qui stocke les données sous forme de vecteurs numériques représentant leur signification, plutôt que de lignes et de colonnes traditionnelles. Cette structure permet à l’intelligence artificielle de trouver les données les plus pertinentes parmi des millions de données en quelques millisecondes.
+La base de données vectorielle (Vector Database) est le composant le plus critique de la couche de stockage des données de l'écosystème moderne de l'intelligence artificielle et de l'apprentissage profond. Les bases de données relationnelles traditionnelles (RDBMS) et les systèmes NoSQL sont optimisés pour interroger les données via des correspondances exactes (par exemple `WHERE id = 5` ou `name LIKE '%Ali%'`) et des hiérarchies strictes. Cependant, la grande majorité des données rencontrées à l'ère de l'intelligence artificielle (textes, photos, sons, vidéos) est de nature non structurée (unstructured).
 
-***Analogie :** Une base de données traditionnelle est comme un catalogue alphabétique dans une bibliothèque. La base de données vectorielles est comme une carte conceptuelle dans l'esprit d'une personne ; Cela fonctionne comme lorsque vous pensez à une idée, tous vos souvenirs qui y sont associés vous viennent à l'esprit en même temps.*
+Pour donner un sens à ces données non structurées, les modèles d'apprentissage profond les convertissent en séquences de vecteurs numériques composées de centaines ou de milliers de dimensions, appelées « embeddings ». Les bases de données vectorielles calculent les distances géométriques entre des millions, voire des milliards de points de données dans cet immense espace multidimensionnel. Cela permet de récupérer les données « les plus proches sémantiquement les unes des autres » (Nearest Neighbor Search) à des vitesses que les méthodes de recherche traditionnelles jugent impossibles.
 
-## Comment ça marche
+***Analogie :** Une bibliothèque où des millions de livres sont classés uniquement par nom d'auteur par ordre alphabétique représente une base de données SQL classique. Si vous demandez : « Apporte-moi des romans de style Dostoïevski qui évoquent un sentiment de solitude et portent la mélancolie de l'automne », le catalogue classique se bloque, car ces mots ne figurent pas nécessairement sur les couvertures. Une base de données vectorielles revient quant à elle à positionner les livres dans une galaxie gigantesque. Les livres mélancoliques se regroupent dans un amas d'étoiles particulier, tandis que les aventures de science-fiction se trouvent dans un autre bras. Lorsque vous arrivez avec une émotion, le système trouve les étoiles voisines les plus proches dans la galaxie en quelques millisecondes.*
 
-Tout d’abord, les données sont converties en vecteurs numériques à l’aide de la méthode d’intégration. Lorsqu'une requête est effectuée, la base de données mesure la distance entre le vecteur de la requête et les vecteurs des données. Ceux dont la distance est la plus courte, c'est-à-dire ceux dont la signification est la plus proche, sont renvoyés comme résultats.
+## Profondeur technique et architecture d'indexation
 
-## Où est-ce utilisé
+- Métriques de distance : La similarité entre deux embeddings est calculée à l'aide des formules de Similarité Cosinus (angle), de Distance Euclidienne (distance directe) ou de Produit Scalaire.
+- Voisins les plus proches approximatifs (ANN) et HNSW : Au lieu d'une recherche par force brute parmi des millions de vecteurs, des résultats sont obtenus en millisecondes grâce aux graphiques de petits mondes hiérarchiques (HNSW) et aux index IVF.
+- Recherche Hybride et Filtrage des Métadonnées : Non seulement les vecteurs, mais combinés avec des métadonnées structurées telles que la date, l'utilisateur et la catégorie, un pré-filtrage est appliqué.
+- Quantification et recherche multimodale : La consommation de RAM est réduite de 75 % grâce à la quantification scalaire et par produit ; avec des modèles de type CLIP, les images et le texte peuvent être recherchés dans le même espace vectoriel.
 
-Il est utilisé dans les systèmes de recherche intelligents, les moteurs de recommandation et les systèmes RAG où l'intelligence artificielle crée une mémoire à long terme.
+## Dimension sociologique : la mémoire à long terme de l'intelligence artificielle
 
-## Souvent confondu avec
+Les bases de données vectorielles constituent la mémoire numérique à long terme qui résout le problème de la "perte de mémoire" (amnésie) des modèles d'intelligence artificielle. Les grands modèles de langage sont à eux seuls des systèmes statiques et oublieux ; chaque fois qu'une session se ferme, ils perdent leurs expériences passées.
 
-Il est confondu avec les bases de données classiques telles que SQL, mais les bases de données classiques recherchent des correspondances exactes tandis que les bases de données vectorielles recherchent des similitudes.
+La base de données vectorielles confère à ces modèles une mémoire associative similaire à l'esprit humain. La correspondance décennale d'une entreprise, l'historique de milliers de patients d'un médecin ou l'ensemble des archives d'un chercheur sont stockés dans une base vectorielle et mis à la disposition de l'intelligence artificielle. Cette technologie transforme les silos de données en un réseau d'intelligence sémantique, modifiant de manière permanente le paradigme d'accès de l'humanité à l'information.
 
-## Questions fréquentes
+## Erreurs et idées fausses courantes
 
-**Est-ce plus lent que les bases de données classiques ?**
+- Incompatibilité de modèles : Faire concourir des vecteurs produits par différents modèles d'embedding dans la même collection produit des résultats absurdes.
+- Oublier le filtre de métadonnées : La similarité vectorielle pure peut omettre le contexte temporel ou catégoriel ; elle doit être complétée par des filtres.
+- Ne pas anticiper le coût de la mémoire : Conserver des vecteurs de grande dimension en RAM sans compression entraîne une explosion des coûts ; une quantification doit être appliquée.
 
-Non, c’est beaucoup plus rapide que les méthodes classiques pour les recherches de similarité dans de très grands ensembles de données.
+## Foire aux questions
 
-**Quelles données peuvent être stockées ?**
+**Les bases de données relationnelles classiques (PostgreSQL, etc.) peuvent-elles être utilisées comme bases de données vectorielles ?**
 
-Toutes les données dont la signification peut être convertie en vecteur, telles que du texte, une image, de l'audio ou de la vidéo, peuvent être stockées.
+Oui ; grâce à des extensions open source comme pgvector, des bases de données relationnelles puissantes telles que PostgreSQL peuvent exécuter avec succès des recherches de similarité vectorielle en créant des index HNSW.
+
+**Quelle est la différence entre une base de données vectorielle et une recherche en texte intégral (Full-Text) traditionnelle ?**
+
+La recherche en texte intégral (Elasticsearch, etc.) se concentre sur la correspondance exacte des mots (lexicale), tandis que la base de données vectorielle trouve les synonymes, les relations conceptuelles et la similarité sémantique.
+
+**Que signifie la dimension des embeddings (dimensions) ?**
+
+Elle indique par combien de coordonnées numériques une donnée est représentée ; par exemple, un embedding à 1536 dimensions est la coordonnée ponctuelle de cette donnée dans un espace multidimensionnel à 1536 axes.
+
+**Comment la quantification permet-elle de réaliser des économies dans les bases de données vectorielles ?**
+
+En convertissant les nombres à virgule flottante 32 bits (float32) en entiers 8 bits ou 1 bit, elle réduit la consommation de mémoire (RAM) jusqu'à 75 % et multiplie la vitesse de recherche.
 
 ## Termes liés
 
 - [Embedding](https://trescout.com/fr/dictionary/embedding/)
 - [RAG](https://trescout.com/fr/dictionary/rag/)
+- [LLM](https://trescout.com/fr/dictionary/llm/)
+- [Context Window](https://trescout.com/fr/dictionary/context-window/)
 - [Knowledge Graph](https://trescout.com/fr/dictionary/knowledge-graph/)
-- [Memory Engine](https://trescout.com/fr/dictionary/memory-engine/)
+- [Memory Management](https://trescout.com/fr/dictionary/memory-management/)
 
 ## Outils liés
 
 - [Turbovec](https://trescout.com/fr/discover/turbovec/)
 - [Zvec](https://trescout.com/fr/discover/zvec/)
+- [ODS](https://trescout.com/fr/discover/ods/)
 
 Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/vector-database/)
 

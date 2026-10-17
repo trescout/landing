@@ -2,12 +2,13 @@
 
 Worldmonitor offers a real-time global intelligence dashboard that combines AI-powered news compilation and geopolitical monitoring features in a single interface. This tool, which provides infrastructure monitoring and situational awareness, facilitates analysis processes by visualizing complex data flows.
 
-- ★ 85,879
+- ★ 88,584
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Updates
 
+- **October 17, 2026:** Stars 85,879 → 88,584, latest release v2.11.0 (October 16, 2026).
 - **September 9, 2026:** Stars 82,117 → 85,879, latest release v2.10.0 (September 8, 2026).
 - **August 15, 2026:** Stars 78,032 → 82,117, latest release v2.5.23 (March 1, 2026).
 - **August 2, 2026:** Stars 57,469 → 78,032, latest release v2.5.23 (March 1, 2026).

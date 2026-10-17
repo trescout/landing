@@ -2,12 +2,13 @@
 
 Agency-agents projesi, farklı uzmanlık alanlarına sahip yapay zekâ ajanlarını bir araya getirerek dijital bir ajans yapısı oluşturuyor. Yazılım geliştirme, içerik üretimi ve veri doğrulama gibi süreçleri özelleşmiş karakterler ve iş akışları üzerinden yönetmeyi sağlıyor.
 
-- ★ 153.026
+- ★ 160.692
 - Shell
 - GitHub Trending · 2026-06-12
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 153.026 → 160.692.
 - **17 Eylül 2026:** Yıldız 145.612 → 153.026.
 - **15 Ağustos 2026:** Yıldız 138.170 → 145.612.
 - **2 Ağustos 2026:** Yıldız 111.887 → 138.170.

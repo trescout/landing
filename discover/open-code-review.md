@@ -2,16 +2,16 @@
 
 Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli (LLM) ajanlarını hibrit bir yapıda birleştiriyor. Yazılım güvenliği kuralları ve satır bazlı yorumlama yetenekleriyle donatılan araç, Go diliyle yazılmış olup OpenAI ve Anthropic uyumlu bir altyapı sunuyor.
 
-- ★ 46.806
+- ★ 47.516
 - Go
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 46.806 → 47.516, son sürüm v1.13.1 (17 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 44.479 → 46.806, son sürüm v1.13.0 (13 Ekim 2026).
 - **8 Ekim 2026:** Yıldız 43.798 → 44.479, son sürüm v1.12.13 (8 Ekim 2026).
 - **5 Ekim 2026:** Yıldız 42.587 → 43.798, son sürüm v1.12.12 (5 Ekim 2026).
-- **29 Eylül 2026:** Yıldız 42.110 → 42.587, son sürüm v1.12.11 (29 Eylül 2026).
 
 ## Ne kazandırır?
 

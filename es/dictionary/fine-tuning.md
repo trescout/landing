@@ -1,36 +1,54 @@
 # ¿Qué es Fine-tuning?
 
-*Inteligencia artificial · Última actualización: 3 de junio de 2026*
+*Inteligencia artificial · Última actualización: 20 de septiembre de 2026*
 
-Es el proceso de entrenar específicamente un modelo de inteligencia artificial ya preparado para una tarea o área de especialización específica.
+El ajuste es el proceso de personalizar un modelo base de IA de propósito general previamente entrenado optimizando sus ponderaciones en un área específica de especialización, tarea, estilo o conjunto de datos corporativos.
 
-## Definición
+## Etimología y Filosofía del Aprendizaje por Transferencia
 
-El ajuste es el reentrenamiento de una inteligencia artificial entrenada de propósito general con un pequeño conjunto de datos para realizar mejor un estilo, área de especialización o tarea en particular. Este proceso preserva las capacidades generales del modelo mientras lo especializa en un tema específico.
+El concepto de Fine-Tuning se basa en la filosofía de 'Transfer Learning' en la disciplina del aprendizaje profundo y el aprendizaje automático. El entrenamiento previo de un modelo básico moderno con miles de millones de parámetros desde cero es un proceso que lleva meses en miles de clústeres de GPU avanzados y requiere enormes presupuestos de millones de dólares. Este costo haría casi imposible que las empresas desarrollaran sus propios modelos de IA personalizados.
 
-***Analogía:** Es como un médico que ha recibido formación en medicina general y se convierte en cirujano o cardiólogo después de recibir formación especializada durante un determinado período de tiempo.*
+La arquitectura modificada elimina este obstáculo. Se toma el modelo básico, que ya ha aprendido el lenguaje básico y los patrones lógicos del mundo con datos públicos a escala de Internet; Recibe capacitación adicional sobre un conjunto de datos mucho más pequeño, seleccionado y de alta calidad del dominio de destino (por ejemplo, medicina, derecho, finanzas o correspondencia corporativa interna). En este proceso, si bien se preserva la capacidad de comprensión general del modelo, la terminología, el estilo y el formato de salida específicos de la tarea objetivo se procesan permanentemente en los pesos de la red neuronal del modelo.
 
-## Cómo funciona
+***Analogía:** Imagínese un médico joven que se graduó con honores en la facultad de medicina. Este médico tiene conocimientos completos de biología básica, anatomía humana, farmacología y conocimientos médicos generales; En otras palabras, ha completado con éxito su formación previa. Sin embargo, no se puede esperar que este médico se someta directamente a una cirugía de trasplante de corazón. Un médico no necesita ir a la escuela de medicina desde cero para convertirse en cirujano; en cambio, se especializa exclusivamente en una clínica de cirugía cardíaca durante varios años. Fine-Tuning es exactamente esta especialización; Dota a un modelo de conocimientos básicos del lenguaje con la terminología y los reflejos de una rama específica.*
 
-Primero, se selecciona un modelo básico y se muestra un conjunto de datos específico para este modelo. El modelo se somete a un entrenamiento ligero con estos datos y ajusta sus conexiones internas de acuerdo con su nuevo objetivo.
+## Profundidad técnica y métodos de entrenamiento
 
-## Dónde se usa
+- Ajuste fino completo (Full Fine-Tuning): Es la actualización de todos los parámetros del modelo; requiere muchos recursos y conlleva el riesgo de olvido catastrófico (catastrophic forgetting).
+- Ajuste Fino Eficiente en Parámetros (PEFT y LoRA): Los pesos originales se congelan y se entrenan matrices adaptadoras pequeñas; con QLoRA, los modelos cuantizados de 4 bits se pueden entrenar en GPU de consumo.
+- Ajuste Fino Supervisado (SFT) y DPO: Se refuerza la capacidad de seguimiento de instrucciones con conjuntos de datos de preguntas y respuestas; la seguridad del modelo se incrementa mediante la optimización directa de preferencias.
+- Calidad de Datos (Hipótesis LIMA): En lugar de innumerables datos mediocres, el éxito del modelo se lleva a su punto máximo con 1.000 ejemplos filtrados cuidadosamente y de alta calidad.
+- Fusión de adaptadores (Merging): Los adaptadores LoRA entrenados se fusionan con los pesos principales para ejecutarse con latencia cero durante la inferencia.
 
-Se utiliza en áreas muy específicas, como redacción legal, soporte de diagnóstico médico o imitación del lenguaje de correspondencia privada de su empresa.
+## Dimensión sociológica: soberanía de los datos y adaptación cultural
 
-## Suele confundirse con
+El ajuste es la palanca más poderosa que permite que los modelos de IA de código abierto obtengan independencia y soberanía de los datos en el mundo empresarial. Es un imperativo legal y estratégico para las empresas poder entrenar modelos que se ejecuten en sus servidores locales, sin tener que enviar secretos de clientes, contratos comerciales o registros de pacientes a API de nube cerrada.
 
-Frecuentemente se confunde con RAG; RAG trae información del exterior, mientras que el ajuste cambia permanentemente el comportamiento o la experiencia del modelo.
+Además, el ajuste representa justicia cultural y lingüística. Aunque los modelos globales se forman principalmente en inglés y en la cultura occidental, las instituciones y comunidades locales pueden producir modelos nacionales e institucionales que sean totalmente compatibles con idiomas como el turco y los valores locales, gracias al ajuste.
+
+## Errores y conceptos erróneos comunes
+
+Elegir Fine-Tuning en lugar de RAG: El fine-tuning no se realiza para la transferencia de información actualizada; se aplica RAG para la información, y fine-tuning para el comportamiento y el estilo.
+- Entrenar con datos basura: Los conjuntos de datos de baja calidad o inconsistentes atrofian la capacidad de razonamiento lógico del modelo.
+- Sobreajuste (Overfitting): Entrenar el modelo en un conjunto de datos pequeño con iteraciones excesivas conduce al aprendizaje memorístico y destruye el poder de generalización.
 
 ## Preguntas frecuentes
 
-**¿Es demasiado caro el ajuste fino?**
+**¿Cuál es la principal diferencia entre ajuste fino y RAG?**
 
-Se ha vuelto mucho más accesible que antes, pero aún requiere una gran potencia de procesamiento y un conjunto de datos de calidad.
+Fine-Tuning agrega estilo, formato y reflejos al cambiar permanentemente los pesos del modelo; RAG, por otro lado, inyecta instantáneamente los documentos actuales en la ventana contextual del modelo sin tocar los pesos.
 
-**¿Debo ajustar el modelo todos los días?**
+**¿Cómo reducen los costes las técnicas LoRA y QLoRA?**
 
-No, el ajuste es un proceso permanente; Tiene mucho más sentido utilizar RAG para obtener información actualizada.
+Al congelar los pesos principales del modelo y agregar un 0,1 por ciento de matrices de adaptadores pequeños, se reduce muchas veces la necesidad de memoria (VRAM); Permite entrenar modelos gigantes en una sola tarjeta gráfica.
+
+**¿Qué es el olvido catastrófico?**
+
+Es una situación en la que el modelo olvida el lenguaje general y las reglas lógicas que ya conocía mientras aprendía un nuevo campo de especialización; Este riesgo se evita en gran medida con métodos de adaptador como LoRA.
+
+**¿Cuántas muestras de datos se requieren para realizar el ajuste fino?**
+
+Según el principio LIMA, entre 500 y 2000 muestras correctamente seleccionadas, consistentes y de alta calidad dan resultados mucho más exitosos que cientos de miles de datos mediocres; La calidad es más importante que la cantidad.
 
 ## Términos relacionados
 
@@ -38,6 +56,8 @@ No, el ajuste es un proceso permanente; Tiene mucho más sentido utilizar RAG pa
 - [LLM](https://trescout.com/es/dictionary/llm/)
 - [RLHF](https://trescout.com/es/dictionary/rlhf/)
 - [Distillation](https://trescout.com/es/dictionary/distillation/)
+- [Quantization](https://trescout.com/es/dictionary/quantization/)
+- [RAG](https://trescout.com/es/dictionary/rag/)
 
 ## Herramientas relacionadas
 

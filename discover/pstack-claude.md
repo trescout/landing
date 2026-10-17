@@ -2,16 +2,16 @@
 
 Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.
 
-- ★ 2.562
+- ★ 2.711
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 2.562 → 2.711, son sürüm v0.9.90 (16 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 1.926 → 2.562, son sürüm v0.9.86 (15 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 1.917 → 1.926, son sürüm v0.9.84 (13 Ekim 2026).
 - **13 Ekim 2026:** Yıldız 1.825 → 1.917, son sürüm v0.9.83 (13 Ekim 2026).
-- **12 Ekim 2026:** Yıldız 1.711 → 1.825, son sürüm v0.9.82 (11 Ekim 2026).
 
 ## Ne kazandırır?
 

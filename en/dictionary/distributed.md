@@ -1,76 +1,74 @@
-# Distributed Systems: Fallacies, CAP theorem, consensus, and sagas
+# What is Distributed?
 
 *Development · Last updated: September 19, 2026*
 
-A distributed system is a computing architecture where multiple independent machines (nodes) communicate and coordinate over a network, appearing to end users as a unified, coherent system.
+Distributed, in the world of computing, is the sharing of hardware, data and calculation processes across many independent servers (nodes) connected to each other over the network, instead of a single central machine, and this system serves the end user as if it were a single whole computer.
 
 ## Etymology and the Nature of Distributed Systems
 
-The term *distributed* comes from Latin *distribuere* (to divide, allocate, or apportion). As Leslie Lamport famously quipped: *"A distributed system is one in which the failure of a computer you did not even know existed can render your own computer unusable."* Unlike centralized mainframes, distributed networks trade simplicity for infinite horizontal scalability and geographic fault tolerance.
+The word "distributed" translates to "dağıtık" in Turkish. Leslie Lamport, one of the pioneers of computer science, defined distributed systems with this famous quote: "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable."
 
-## The 8 Fallacies of Distributed Computing
+In centralized (monolithic) architectures, all operations occur on a single main memory and processor. In distributed systems, hundreds of nodes physically spread across data centers on different continents of the world serve a common purpose by communicating over unreliable network cables.
 
-Formulated by L. Peter Deutsch and Sun Microsystems engineers, these eight false assumptions lead to brittle architectures if ignored:
+## 8 Fallacies of Distributed Computing
 
-1. The network is reliable.
-2. Latency is zero.
-3. Bandwidth is infinite.
-4. The network is secure.
-5. Topology doesn't change.
-6. There is one administrator.
-7. Transport cost is zero.
-8. The network is homogeneous.
+In the 1990s, Sun Microsystems engineers L. Peter Deutsch and James Gosling listed the "8 Deadly Mistakes" made by software developers developing distributed systems. All defense lines of modern cloud and microservice architectures are built according to these misconceptions:
 
-## The CAP Theorem and PACELC Model
+1. The network is reliable: In reality, packets are lost, fiber lines break, and routers crash.
+2. Latency is zero: The speed of light and network switching delay between two machines are always present.
+3. Bandwidth is infinite: As data volume increases, network pipes become congested.
+4. The network is secure: All distributed communication passes through open lines and requires cryptographic protection.
+5. Topology doesn't change: Servers are constantly coming online and offline, IP addresses change.
+6. There is only one system administrator: Multiple teams and cloud providers are involved.
+7. Transport cost is zero: Serialization and CPU packaging costs cannot be ignored.
+8. The network is homogeneous: Linux, Windows, ARM, x86, and different protocols work together in the system.
 
-Eric Brewer's **CAP Theorem** dictates that a distributed data store can guarantee at most two of three properties under network partitions:
+## CAP Theorem and PACELC Model
 
-- **Consistency (C):** Every read receives the most recent write or an error.
-- **Availability (A):** Every non-failing node returns a non-error response without guarantee of recent state.
-- **Partition Tolerance (P):** The system continues to operate despite arbitrary message drops. Since network partitions cannot be avoided in real networks, systems must choose between CP (e.g., ZooKeeper, Google Spanner) or AP (e.g., Cassandra, DynamoDB).
+The CAP Theorem, proposed by Eric Brewer, outlines the fundamental limitations of distributed data management. When a network partition (P) occurs, the system must choose between one of two options:
 
-Daniel Abadi's **PACELC model** refines this: *If there is a Partition (P), trade off Availability (A) and Consistency (C); Else (E), trade off Latency (L) and Consistency (C).*
+- CP (Consistency + Partition Tolerance): The system chooses consistency. Nodes with outdated data refuse to respond; availability is sacrificed (e.g., finance and banking transactions).
+- AP (Availability + Partition Tolerance): The system prioritizes availability. Nodes continue to respond, but some users may see stale data from a few seconds prior (e.g., social media feeds).
+
+Modern systems use Daniel Abadi's PACELC model: If there is a partition (P), does the system prioritize Availability (A) or Consistency (C); and else (E), when the system is running normally, is the goal Latency (L) or Consistency (C)?
 
 ## Consensus Protocols: Raft and Paxos
 
-To agree on a single source of truth across untrusted networks, systems employ consensus algorithms:
+Consensus algorithms have been developed so that independent servers, which do not trust each other and can crash at any time, can agree on a single truth:
 
-- **Paxos:** Leslie Lamport's mathematically proven algorithm based on proposer, acceptor, and learner roles; notoriously difficult to implement in real software.
-- **Raft:** Designed by Ongaro and Ousterhout for understandability, Raft decomposes consensus into explicit Leader Election, Log Replication, and Safety invariants, powering systems like etcd and HashiCorp Consul.
+Paxos: A consensus algorithm developed by Leslie Lamport that is mathematically proven but extremely complex to implement in practice.
+- Raft: A human-intelligent consensus protocol developed by Diego Ongaro and John Ousterhout to solve the complexity of Paxos. Leader Election is based on Log Replication and Safety state machines (it works at the heart of giant systems such as Etcd, Kubernetes, Consul).
+Byzantine Fault Tolerance (BFT): The foundation of blockchain protocols that achieve consensus even in environments where some nodes intentionally propagate erroneous or malicious information.
 
-## The Problem of Time in Distributed Systems and Solutions
+## Time Problem and Solutions in Distributed Systems
 
-Without a single shared physical quartz clock, ordering events across machines is physically impossible due to clock drift (relativistic network delays):
+In a centralized computer, the hardware clock represents a single fact. In distributed systems, server clocks show physical clock drift and NTP (Network Time Protocol) is insufficient for millisecond precision:
 
-- **Lamport Timestamps & Vector Clocks:** Logical counters establishing causal relationships ("happened-before") without relying on physical time.
-- **Google TrueTime:** Hardware architecture integrating atomic clocks and GPS receivers into data centers, bounding clock uncertainty within small milliseconds intervals (used in Spanner).
+Lamport Timestamps: Defines the "order of events" instead of physical time.
+Vector Clocks: Detects data conflicts by determining which piece of data is the cause or result of another.
+Google TrueTime: A combination of atomic clocks and GPS antennas used in the Google Spanner distributed database. It enables ACID transactions on a global scale by reducing the margin of uncertainty to a few milliseconds.
 
-## Distributed Data and Transaction Management: The Saga Pattern
+## Distributed Data and Transaction Management: Saga Pattern
 
-Classic two-phase commit (2PC) locks database rows and fails under high scale. Modern microservice architectures utilize the **Saga Pattern**:
+In monolithic systems, database operations (ACID transactions) are replaced by the Saga Pattern in microservices. Instead of locking long-running distributed steps with Two-Phase Commit (2PC), event-driven architectures are used, where each service performs its local transaction and Compensating Transactions are triggered in the event of an error.
 
-- A series of local transactions coordinated either through an orchestrator (central state machine) or choreography (event-driven pub/sub).
-- If any step fails, the system executes explicit compensating transactions backwards to reverse completed actions safely without global locking.
+## Frequently Asked Questions
 
-*A centralized system is like a solitary chef cooking orders in a small food truck; a distributed system is like a global restaurant chain operating across five continents where hundreds of kitchens must fulfill matching recipes while handling phone disconnects and shipping delays.*
+**What does Distributed mean (Turkish meaning)?**
 
-## Frequently asked questions
+In IT terminology, it means 'distributed'. It is the sharing of computing power, memory space, or database among many independent machines communicating over a network, rather than a single server.
 
-**What is a distributed system in computer science?**
+**What does the CAP Theorem mean in practice?**
 
-It is an architecture where multiple independent computers connected by a network coordinate state and tasks to act as a single system.
+It means that when there is a break or delay (split) in the network connection, the system must either guarantee the most up-to-date data and hold some requests (Consistency), or respond to every request immediately at the expense of providing stale data (Availability).
 
-**Why can a distributed database not have both C and A during a network split?**
+**Why is the Raft consensus algorithm used in distributed systems?**
 
-Because if nodes cannot communicate, you must either accept writes and risk divergence (favoring Availability) or reject writes to maintain consistency (favoring Consistency).
+Even if a few of the servers in the network go down, the remaining majority is used to ensure that the nodes (Quorum) elect a new leader from among them and the database logs are synchronized losslessly across the entire cluster.
 
-**What is the difference between Raft and Paxos?**
+**Why is Saga pattern preferred over Two-Phase Commitment (2PC)?**
 
-Both achieve distributed consensus, but Raft was designed specifically to be easier for human engineers to understand and implement reliably.
-
-**How does the Saga pattern replace distributed transactions?**
-
-By executing a chain of independent local transactions and triggering backward compensating actions if any intermediate step fails.
+2PC (Two-Phase Commit) locks database resources on distributed nodes and locks down the entire system when one machine becomes unresponsive. The Saga pattern, on the other hand, maintains the high availability of the system by using asynchronous events and compensation steps.
 
 ## Related terms
 

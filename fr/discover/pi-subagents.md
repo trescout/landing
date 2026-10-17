@@ -2,17 +2,17 @@
 
 pi-subagents est une bibliothèque TypeScript développée pour gérer les processus de délégation de sous-agents asynchrones sur la plateforme Pi. Il facilite la distribution de charges de travail complexes aux sous-agents.
 
-- ★ 3 919
+- ★ 3 942
 - TypeScript
 - Lisans: yok
 - GitHub Trending · 1 Haziran 2026
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 3,919 → 3,942, dernière version v0.79.0 (17 octobre 2026).
 - **13 octobre 2026:** Étoiles 3,893 → 3,919, dernière version v0.78.0 (13 octobre 2026).
 - **10 octobre 2026:** Étoiles 3,862 → 3,893, dernière version v0.77.0 (10 octobre 2026).
 - **6 octobre 2026:** Étoiles 3,850 → 3,862, dernière version v0.76.1 (6 octobre 2026).
-- **5 octobre 2026:** Étoiles 3,825 → 3,850, dernière version v0.76.0 (4 octobre 2026).
 
 ## Ce que ça vous apporte
 

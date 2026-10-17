@@ -9371,5 +9371,31 @@
     "kisa_es": "Es una estructura de indexación creada y gestionada automáticamente por el sistema para que los datos puedan encontrarse rápidamente.",
     "kisa_pt": "É uma estrutura de indexação criada e gerada automaticamente pelo sistema para que os dados possam ser encontrados rapidamente.",
     "kisa_de": "Es handelt sich um eine vom System automatisch erstellte und verwaltete Indexierungsstruktur, damit Daten schnell gefunden werden können."
+  },
+  {
+    "slug": "seeds",
+    "en": "Seeds",
+    "full": "Random Seeds",
+    "cat": "data",
+    "kisa": "Rastgele görünen sonuçların belirli bir başlangıç değerine göre tutarlı ve tekrarlanabilir şekilde üretilmesini sağlayan sayısal anahtardır.",
+    "date": "2026-10-17",
+    "kisa_en": "It is a numerical key that allows seemingly random results to be generated consistently and repeatably based on a specific initial value.",
+    "kisa_fr": "Il s'agit d'une clé numérique qui permet de générer des résultats en apparence aléatoires de manière cohérente et reproductible en fonction d'une valeur initiale définie.",
+    "kisa_es": "Es la clave numérica que permite generar resultados aparentemente aleatorios de manera consistente y reproducible a partir de un valor inicial determinado.",
+    "kisa_pt": "É a chave numérica que permite que resultados aparentemente aleatórios sejam gerados de forma consistente e reproduzível com base em um determinado valor inicial.",
+    "kisa_de": "Ein numerischer Schlüssel, der die konsistente und reproduzierbare Erzeugung scheinbar zufälliger Ergebnisse auf der Grundlage eines bestimmten Startwerts ermöglicht."
+  },
+  {
+    "slug": "ai-benchmarks",
+    "en": "AI Benchmarks",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ sistemlerinin akıl yürütme, hız ve doğruluk yeteneklerini standart ölçeklerle ölçen performans testleridir.",
+    "date": "2026-10-17",
+    "kisa_en": "They are performance tests that measure the reasoning, speed, and accuracy capabilities of artificial intelligence systems using standard scales.",
+    "kisa_fr": "Ce sont des tests de performance qui mesurent les capacités de raisonnement, de vitesse et de précision des systèmes d'intelligence artificielle à l'aide d'échelles standardisées.",
+    "kisa_es": "Son pruebas de rendimiento que miden las capacidades de razonamiento, velocidad y precisión de los sistemas de inteligencia artificial mediante escalas estandarizadas.",
+    "kisa_pt": "São testes de desempenho que medem as capacidades de raciocínio, velocidade e precisão de sistemas de inteligência artificial por meio de escalas padronizadas.",
+    "kisa_de": "Leistungstests, die das logische Denken, die Geschwindigkeit und die Genauigkeit von Systemen der künstlichen Intelligenz anhand standardisierter Maßstäbe messen."
   }
 ]

@@ -2,16 +2,16 @@
 
 VoiceStudio ist eine Open-Source-Plattform zur Audioverarbeitung, die Aufgaben wie Stimmklonung, Synchronisation und Transkription ohne Internetverbindung ausführt. Sie bietet eine lokal ausführbare Alternative zum Sprachsynthesedienst ElevenLabs und unterstützt 646 Sprachen.
 
-- ★ 67.557
+- ★ 71.875
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 67,557 → 71,875, neueste Version v0.5.6 (23. September 2026).
 - **15. Oktober 2026:** Sterne 61,990 → 67,557, neueste Version v0.5.6 (23. September 2026).
 - **13. Oktober 2026:** Sterne 57,903 → 61,990, neueste Version v0.5.6 (23. September 2026).
 - **11. Oktober 2026:** Sterne 54,979 → 57,903, neueste Version v0.5.6 (23. September 2026).
-- **8. Oktober 2026:** Sterne 52,161 → 54,979, neueste Version v0.5.6 (23. September 2026).
 
 ## Was es bringt
 

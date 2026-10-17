@@ -2,16 +2,16 @@
 
 El conjunto de datos de ejercicios (conjunto de datos de ejercicios) compartido por Hasaneyldrm ofrece 433 movimientos físicos diferentes con nombres, grupos de músculos objetivo, equipos e instrucciones visuales. Este recurso integral proporciona una infraestructura de datos estructurada para quienes desarrollan aplicaciones de tecnología deportiva.
 
-- ★ 21.796
+- ★ 22.899
 - HTML
 - GitHub Trending · 2026-07-01
 
 ## Actualizaciones
 
+- **17 de octubre de 2026:** Estrellas 21,796 → 22,899.
 - **13 de septiembre de 2026:** Estrellas 20,717 → 21,796.
 - **24 de agosto de 2026:** Estrellas 19,692 → 20,717.
 - **15 de agosto de 2026:** Estrellas 18,515 → 19,692.
-- **2 de agosto de 2026:** Estrellas 7,552 → 18,515.
 
 ## Qué aporta
 
