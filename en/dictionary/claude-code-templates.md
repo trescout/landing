@@ -65,7 +65,7 @@ Yes. The team skeleton is the most valuable, it is born again.
 - [Coding Agents](https://trescout.com/en/dictionary/coding-agent/)
 - [Tech Stack](https://trescout.com/en/dictionary/tech-stack/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/claude-code-templates/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/claude-code-templates/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/claude-code-templates/

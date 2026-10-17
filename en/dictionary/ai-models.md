@@ -43,7 +43,7 @@ Depending on the size of the model and the size of the data, it may take days or
 - [System Prompts and Models of AI Tools](https://trescout.com/en/discover/system-prompts-and-models-of-ai-tools/)
 - [UI-TARS-desktop](https://trescout.com/en/discover/ui-tars-desktop/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-models/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-models/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-models/

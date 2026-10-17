@@ -83,7 +83,7 @@ Os desenvolvedores escrevem, as plataformas distribuem na loja. Escrever uma boa
 - [OfficeCLI](https://trescout.com/pt/discover/officecli/)
 - [Security Audit Skill](https://trescout.com/pt/discover/security-audit-skill/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/skill/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/skill/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/skill/

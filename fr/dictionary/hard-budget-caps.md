@@ -39,7 +39,7 @@ Lorsque les agents d'IA autonomes entrent dans un cercle vicieux logique, ils pe
 - [Cloud Computing](https://trescout.com/fr/dictionary/cloud-computing/)
 - [Agentic AI](https://trescout.com/fr/dictionary/agentic-ai/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/hard-budget-caps/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/hard-budget-caps/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/hard-budget-caps/

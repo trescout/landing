@@ -35,7 +35,7 @@ Bei großen Projekten ist es unmöglich, die Schritte manuell zu befolgen, diese
 - [Agentic Workflows](https://trescout.com/de/dictionary/agentic-workflows/)
 - [Control Plane](https://trescout.com/de/dictionary/control-plane/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/orchestration-runtime/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/orchestration-runtime/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/orchestration-runtime/

@@ -42,7 +42,7 @@ Não, a natureza de cada projeto é diferente; então você precisa customizar s
 
 - [AI Berkshire](https://trescout.com/pt/discover/ai-berkshire/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/research-framework/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/research-framework/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/research-framework/

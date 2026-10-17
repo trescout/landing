@@ -42,7 +42,7 @@ They communicate by sending messages to each other using predefined commands and
 
 - [TradingAgents](https://trescout.com/en/discover/tradingagents/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multi-agent-llm/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multi-agent-llm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/multi-agent-llm/

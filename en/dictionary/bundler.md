@@ -20,14 +20,20 @@ Bundlers enable developers to write their codes by dividing them into small, mai
 
 The operation of a modern packager basically consists of three stages:
 
+### 1. Analysis and Creating a Dependency Graph
+
 The process starts from one or more entry points (e.g. src/main.ts):
 
 - The packager reads this file and scans it for import, export or require statements.
 - It finds the location of the called files on the disk in accordance with the Node module resolution or package.json definitions.
 - It creates a Directed Acyclic Graph (DAG) in which it models each source file as a node and import relationships as edges.
 
+### 2. Conversion and AST Parsing
+
 - Each module is transferred to a compiler (such as Babel, SWC, esbuild) and converted into an Abstract Syntax Tree (AST).
 - TypeScript codes are converted to JavaScript, JSX syntax is compiled, CSS modules are parsed, and modern ECMAScript features are made compatible with targeted browser versions.
+
+### 3. Packaging, Wood Shaking and Output Production (Packaging & Emit)
 
 - Tree-Shaking (Dead Code Elimination): By utilizing the static syntax of ECMAScript Modules (ESM), dead codes imported from libraries but never called in the project are eliminated via AST.
 - Minification and Obfuscation: Variable names are shortened (mangling), spaces and comment lines are deleted and the file size is minimized.
@@ -41,6 +47,14 @@ The process starts from one or more entry points (e.g. src/main.ts):
 ## Comparison of Packager Ecosystem
 
 Prominent tools that respond to different needs in the web ecosystem are:
+
+| Vehicle | Written Language | Development Experience | Production Engine | Strength |
+|---|---|---|---|---|
+| webpack | JavaScript / Node.js | Bundled (In-memory packaging) | webpack | Massive plugin ecosystem, enterprise maturity |
+| gear | JS + Go (esbuild) | Unbundled (Local ESM) | Rollup/Rolldown | Instant dev server start, high developer comfort |
+| Rollup | JavaScript / Node.js | Bundled | Rollup | Seamless tree-shaking in library/SDK packaging |
+| esbuild | Go | Bundled | esbuild | Incredible raw build speed (10-100x faster than Node.js tools) |
+| Turbopack / Rspack | rust | Bundled / Hybrid | Rust engine | Performance for massive projects, compatible with the Webpack ecosystem |
 
 ## Frequently asked questions
 
@@ -75,7 +89,7 @@ It allows application code to be split into fragmented files instead of a single
 
 - [Webpack](https://trescout.com/en/discover/webpack/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bundler/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bundler/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/bundler/

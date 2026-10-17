@@ -2,16 +2,16 @@
 
 Utilizando la infraestructura de Claude Code, ai-job-search ofrece un marco que automatiza el proceso de búsqueda de empleo. La herramienta analiza el perfil del usuario y realiza tareas como edición de currículum, redacción de cartas de presentación y preparación de entrevistas con el apoyo de inteligencia artificial.
 
-- ★ 46.736
+- ★ 49.169
 - TypeScript
 - GitHub Trending · 2026-07-08
 
 ## Actualizaciones
 
+- **17 de octubre de 2026:** Estrellas 46,736 → 49,169, última versión v1.7.2 (29 de septiembre de 2026).
 - **14 de octubre de 2026:** Estrellas 44,486 → 46,736, última versión v1.7.2 (29 de septiembre de 2026).
 - **29 de septiembre de 2026:** Estrellas 43,175 → 44,486, última versión v1.7.2 (29 de septiembre de 2026).
 - **17 de septiembre de 2026:** Estrellas 41,119 → 43,175, última versión v1.7.1 (6 de septiembre de 2026).
-- **7 de septiembre de 2026:** Estrellas 40,964 → 41,119, última versión v1.7.1 (6 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -64,7 +64,7 @@ Cree su perfil usando el comando /setup mientras está en Claude Code. Luego, en
 - [Repositorio en GitHub →](https://github.com/MadsLorentzen/ai-job-search)
 - [Leer en turco →](https://trescout.com/discover/ai-job-search/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-08: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-08: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/ai-job-search/

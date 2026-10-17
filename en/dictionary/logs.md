@@ -72,7 +72,7 @@ No. Passwords and identities are not recorded; they are masked.
 - [Grafana](https://trescout.com/en/discover/grafana/)
 - [Modly](https://trescout.com/en/discover/modly/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/logs/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/logs/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/logs/

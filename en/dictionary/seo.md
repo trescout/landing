@@ -46,7 +46,7 @@ No, content quality and technical performance of the site are now much more impo
 - [Marketingskills](https://trescout.com/en/discover/marketingskills/)
 - [Open Seo](https://trescout.com/en/discover/open-seo/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/seo/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/seo/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/seo/

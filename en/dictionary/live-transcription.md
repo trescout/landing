@@ -38,7 +38,7 @@ It depends on the language support in which the model is trained, current system
 - [Transcription](https://trescout.com/en/dictionary/transcription/)
 - [AI-powered Note Analysis](https://trescout.com/en/dictionary/ai-powered-note-analysis/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/live-transcription/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/live-transcription/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/live-transcription/

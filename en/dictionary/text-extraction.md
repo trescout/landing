@@ -34,7 +34,7 @@ With modern models, yes, but the readability of the text directly affects the qu
 - [Document Parsing](https://trescout.com/en/dictionary/document-parsing/)
 - [PDF Parser](https://trescout.com/en/dictionary/pdf-parser/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-extraction/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-extraction/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/text-extraction/

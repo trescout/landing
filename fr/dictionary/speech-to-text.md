@@ -70,7 +70,7 @@ Avec un service cloud, l'audio est envoyé à l'extérieur. Pour les réunions s
 
 - [Transcribe.cpp](https://trescout.com/fr/discover/transcribe-cpp/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/speech-to-text/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/speech-to-text/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/speech-to-text/

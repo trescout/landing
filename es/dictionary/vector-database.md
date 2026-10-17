@@ -64,7 +64,7 @@ Al convertir números de punto flotante de 32 bits (float32) en números enteros
 - [Zvec](https://trescout.com/es/discover/zvec/)
 - [ODS](https://trescout.com/es/discover/ods/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/vector-database/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/vector-database/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vector-database/

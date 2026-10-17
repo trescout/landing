@@ -38,7 +38,7 @@ No, artificial intelligence can sometimes produce false information (hallucinati
 - [Prompt Engineering](https://trescout.com/en/dictionary/prompt-engineering/)
 - [Hallucination](https://trescout.com/en/dictionary/hallucination/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-generated-content/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-generated-content/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-generated-content/

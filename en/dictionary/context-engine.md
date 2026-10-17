@@ -34,7 +34,7 @@ It ensures fewer hallucinations and helps it respond with accurate, personalized
 - [Context Window](https://trescout.com/en/dictionary/context-window/)
 - [Memory System](https://trescout.com/en/dictionary/memory-system/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-engine/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-engine/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/context-engine/

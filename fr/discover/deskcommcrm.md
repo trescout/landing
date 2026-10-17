@@ -8,10 +8,10 @@ DeskcommCRM est une plateforme de gestion de la relation client (CRM) open sourc
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 4,651 → 4,651, dernière version v1.85.0 (17 octobre 2026).
 - **17 octobre 2026:** Étoiles 4,627 → 4,651, dernière version v1.84.0 (16 octobre 2026).
 - **16 octobre 2026:** Étoiles 4,599 → 4,627, dernière version v1.83.0 (16 octobre 2026).
 - **15 octobre 2026:** Étoiles 4,530 → 4,599, dernière version v1.81.0 (15 octobre 2026).
-- **11 octobre 2026:** Étoiles 4,513 → 4,530, dernière version v1.80.0 (11 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -56,7 +56,7 @@ J'ai effectué l'installation de DeskcommCRM. Aidez-moi à configurer un agent d
 - [Dépôt GitHub →](https://github.com/melgarafael/DeskcommCRM)
 - [Lire en turc →](https://trescout.com/discover/deskcommcrm/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-12 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/deskcommcrm/

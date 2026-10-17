@@ -76,7 +76,7 @@ Criando e versionando arquivos de configuração no diretório `.vscode/*.code-s
 - [Screenshot to Code](https://trescout.com/pt/discover/screenshot-to-code/)
 - [Abseil Cpp](https://trescout.com/pt/discover/abseil-cpp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-snippets/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/code-snippets/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/code-snippets/

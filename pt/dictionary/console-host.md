@@ -38,7 +38,7 @@ Para velocidade e automação; Ele permite realizar operações complexas que as
 
 - [Terminal](https://trescout.com/pt/discover/terminal/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/console-host/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/console-host/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/console-host/

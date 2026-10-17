@@ -38,7 +38,7 @@ Não, geralmente é projetado para dados de pequeno e médio porte que precisam 
 
 - [Zvec](https://trescout.com/pt/discover/zvec/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/in-process-vector-database/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/in-process-vector-database/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/in-process-vector-database/

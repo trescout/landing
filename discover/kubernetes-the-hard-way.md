@@ -9,7 +9,7 @@ Kelsey Hightower tarafından hazırlanan Kubernetes the Hard Way, konteyner yön
 
 - [GitHub deposu →](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/kubernetes-the-hard-way/

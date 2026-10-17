@@ -35,7 +35,7 @@ Keeping your data on your device is a huge security advantage, especially if you
 - [Coding Agents](https://trescout.com/en/dictionary/coding-agent/)
 - [Local](https://trescout.com/en/dictionary/local/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/local-first-code-intelligence/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/local-first-code-intelligence/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/local-first-code-intelligence/

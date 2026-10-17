@@ -2,16 +2,16 @@
 
 Développé par Heygen, Hyperframes propose un framework qui convertit les codes HTML directement en vidéo. Conçu pour permettre aux agents d'intelligence artificielle de produire plus facilement du contenu visuel, cet outil convertit les interfaces Web au format vidéo.
 
-- ★ 65 519
+- ★ 65 605
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 65,519 → 65,605, dernière version v0.8.168 (17 octobre 2026).
 - **17 octobre 2026:** Étoiles 64,870 → 65,519, dernière version v0.8.167 (17 octobre 2026).
 - **16 octobre 2026:** Étoiles 64,164 → 64,870, dernière version v0.8.164 (16 octobre 2026).
 - **15 octobre 2026:** Étoiles 64,018 → 64,164, dernière version v0.8.162 (15 octobre 2026).
-- **15 octobre 2026:** Étoiles 63,171 → 64,018, dernière version v0.8.161 (15 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -65,7 +65,7 @@ Collez ceci dans votre agent (Claude Code · Codex · Antigravity)
 - [Dépôt GitHub →](https://github.com/heygen-com/hyperframes)
 - [Lire en turc →](https://trescout.com/discover/hyperframes/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-06-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/hyperframes/

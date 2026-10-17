@@ -40,7 +40,7 @@ O hardware antigo não suportava esse formato, ele se difundiu com os chips de n
 - [Inference](https://trescout.com/pt/dictionary/inference/)
 - [AI Models](https://trescout.com/pt/dictionary/ai-models/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/fp8/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/fp8/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/fp8/

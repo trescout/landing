@@ -36,7 +36,7 @@ Não é necessário ser engenheiro para aprender os conceitos básicos, mas é r
 - [Physical AI](https://trescout.com/pt/dictionary/physical-ai/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/operating-system-for-robotics/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/operating-system-for-robotics/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/operating-system-for-robotics/

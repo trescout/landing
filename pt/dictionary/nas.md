@@ -44,7 +44,7 @@ Se você está trabalhando apenas na rede local, não há necessidade de interne
 
 - [Jellyfin](https://trescout.com/pt/discover/jellyfin/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/nas/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/nas/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/nas/

@@ -37,7 +37,7 @@ Une fois que vous aurez mémorisé les commandes de base, vous vous rendrez comp
 - [Shell](https://trescout.com/fr/dictionary/shell/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/cli-tool/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/cli-tool/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/cli-tool/

@@ -34,7 +34,7 @@ Sí, estos números se pueden actualizar mediante ajustes o procesos de capacita
 - [Fine-tuning](https://trescout.com/es/dictionary/fine-tuning/)
 - [Open Weights](https://trescout.com/es/dictionary/open-weights/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/model-weights/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/model-weights/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/model-weights/

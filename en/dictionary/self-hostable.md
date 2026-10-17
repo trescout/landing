@@ -43,7 +43,7 @@ Yes, installation and maintenance processes may require basic server administrat
 
 - [Karakeep](https://trescout.com/en/discover/karakeep/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/self-hostable/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/self-hostable/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/self-hostable/

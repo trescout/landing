@@ -2,16 +2,16 @@
 
 Utilisant l'infrastructure Claude Code, ai-job-search offre un cadre qui automatise le processus de recherche d'emploi. L'outil analyse le profil de l'utilisateur et effectue des tâches telles que la rédaction de CV, la rédaction de lettres de motivation et la préparation d'entretiens avec le soutien de l'intelligence artificielle.
 
-- ★ 46 736
+- ★ 49 169
 - TypeScript
 - GitHub Trending · 2026-07-08
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 46,736 → 49,169, dernière version v1.7.2 (29 septembre 2026).
 - **14 octobre 2026:** Étoiles 44,486 → 46,736, dernière version v1.7.2 (29 septembre 2026).
 - **29 septembre 2026:** Étoiles 43,175 → 44,486, dernière version v1.7.2 (29 septembre 2026).
 - **17 septembre 2026:** Étoiles 41,119 → 43,175, dernière version v1.7.1 (6 septembre 2026).
-- **7 septembre 2026:** Étoiles 40,964 → 41,119, dernière version v1.7.1 (6 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -64,7 +64,7 @@ Créez votre profil à l'aide de la commande /setup dans Claude Code. Ensuite, r
 - [Dépôt GitHub →](https://github.com/MadsLorentzen/ai-job-search)
 - [Lire en turc →](https://trescout.com/discover/ai-job-search/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-08 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/ai-job-search/

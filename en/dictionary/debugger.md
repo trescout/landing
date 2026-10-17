@@ -43,7 +43,7 @@ It is a marker you place on the line where you want the code to pause while runn
 
 - [Raddebugger](https://trescout.com/en/discover/raddebugger/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/debugger/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/debugger/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/debugger/

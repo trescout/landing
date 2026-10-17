@@ -40,7 +40,7 @@ Les développeurs peuvent améliorer ces compétences en mettant à jour les dé
 - [Agentic Skills](https://trescout.com/fr/dictionary/agentic-skills/)
 - [AI Agent Skill](https://trescout.com/fr/dictionary/ai-agent-skill/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/coding-agent-skill/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/coding-agent-skill/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/coding-agent-skill/

@@ -46,7 +46,7 @@ It is primarily used in Swift and C/C++ based mixed projects.
 
 - [Firebase Ios SDK](https://trescout.com/en/discover/firebase-ios-sdk/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/swiftpm/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/swiftpm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/swiftpm/

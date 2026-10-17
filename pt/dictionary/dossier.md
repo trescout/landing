@@ -42,7 +42,7 @@ Ele pode ser facilmente gerenciado com aplicativos de anotações ou bancos de d
 
 - [Maigret](https://trescout.com/pt/discover/maigret/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/dossier/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/dossier/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/dossier/

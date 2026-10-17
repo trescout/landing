@@ -38,7 +38,7 @@ Não, normalmente você pode começar a usá-lo imediatamente, apenas adicionand
 - [Database](https://trescout.com/pt/dictionary/database/)
 - [Vector Database](https://trescout.com/pt/dictionary/vector-database/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/in-process-database/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/in-process-database/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/in-process-database/

@@ -38,7 +38,7 @@ Modelos como GPT-4o ou Claude 3.5 são modelos líderes com capacidades multimod
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Generative AI](https://trescout.com/pt/dictionary/generative-ai/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multimodal-model/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multimodal-model/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/multimodal-model/

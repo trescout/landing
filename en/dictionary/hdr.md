@@ -41,7 +41,7 @@ No, to view HDR content, specially manufactured HDR-compatible screens are requi
 - [Sonarr](https://trescout.com/en/discover/sonarr/)
 - [Renodx](https://trescout.com/en/discover/renodx/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hdr/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/hdr/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/hdr/

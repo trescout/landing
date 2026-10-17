@@ -75,7 +75,7 @@ There are limited tier and trial credits. The limit is followed.
 - [Weathernext](https://trescout.com/en/discover/weathernext/)
 - [Agents CLI](https://trescout.com/en/discover/agents-cli/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/google-cloud/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/google-cloud/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/google-cloud/

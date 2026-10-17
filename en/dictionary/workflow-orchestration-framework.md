@@ -71,7 +71,7 @@ Based on ecosystem and team knowledge. Lightweight, large and even fully equippe
 
 - [Prefect](https://trescout.com/en/discover/prefect/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/workflow-orchestration-framework/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/workflow-orchestration-framework/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/workflow-orchestration-framework/

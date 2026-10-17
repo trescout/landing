@@ -39,7 +39,7 @@ Although LiDAR or depth cameras speed up the process, instant reconstruction can
 - [Spatial Intelligence](https://trescout.com/en/dictionary/spatial-intelligence/)
 - [Physical AI](https://trescout.com/en/dictionary/physical-ai/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/streaming-3d-reconstruction/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/streaming-3d-reconstruction/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/streaming-3d-reconstruction/

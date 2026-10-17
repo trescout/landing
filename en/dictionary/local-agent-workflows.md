@@ -34,7 +34,7 @@ It depends on the complexity of the job, but modern local models now work quite 
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 - [Self-hosting](https://trescout.com/en/dictionary/self-hosting/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/local-agent-workflows/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/local-agent-workflows/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/local-agent-workflows/

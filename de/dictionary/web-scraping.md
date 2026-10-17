@@ -47,7 +47,7 @@ Für einfache Websites ist dies recht einfach, für moderne und sichere Websites
 - [Camofox Browser](https://trescout.com/de/discover/camofox-browser/)
 - [Mobile MCP](https://trescout.com/de/discover/mobile-mcp/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/web-scraping/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/web-scraping/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/web-scraping/

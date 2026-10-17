@@ -39,7 +39,7 @@ You should pay attention to whether your code is sent to the cloud; It is safer 
 - [Coding Assistant](https://trescout.com/en/dictionary/coding-assistant/)
 - [AI Engineering](https://trescout.com/en/dictionary/ai-engineering/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-coding-clients/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-coding-clients/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-coding-clients/

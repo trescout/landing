@@ -39,7 +39,7 @@ It is only inspired by it; it is not biologically identical.
 - [Tensorflow](https://trescout.com/en/discover/tensorflow/)
 - [Pytorch](https://trescout.com/en/discover/pytorch/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/neural-networks/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/neural-networks/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/neural-networks/

@@ -38,7 +38,7 @@ Admiten formatos de vídeo comunes como MP4, MOV, AVI, así como formatos de cá
 - [AI Video Editing](https://trescout.com/es/dictionary/ai-video-editing/)
 - [Application](https://trescout.com/es/dictionary/application/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/video-editing-software/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/video-editing-software/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/video-editing-software/

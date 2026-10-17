@@ -73,7 +73,7 @@ Em 1984, Benjamin Bloom mostrou que um aluno que recebia aulas particulares supe
 
 - [DeepTutor](https://trescout.com/pt/discover/deeptutor/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tutoring/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tutoring/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/tutoring/

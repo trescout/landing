@@ -42,7 +42,7 @@ Because it is necessary to ensure the security of data and to perform complex ca
 - [Firebase Ios SDK](https://trescout.com/en/discover/firebase-ios-sdk/)
 - [RLM](https://trescout.com/en/discover/rlm/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/backend/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/backend/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/backend/

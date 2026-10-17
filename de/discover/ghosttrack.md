@@ -2,15 +2,15 @@
 
 GhostTrack auf Python-Basis ist ein Tool, das die Standortverfolgung über Mobiltelefonnummern ermöglicht. Diese Open-Source-Software wurde entwickelt, um die geografischen Daten der Zielnummer zu ermitteln.
 
-- ★ 18.151
+- ★ 19.157
 - GitHub Trending · 2026-06-08
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 18,151 → 19,157.
 - **11. Oktober 2026:** Sterne 17,093 → 18,151.
 - **5. Oktober 2026:** Sterne 16,035 → 17,093.
 - **1. Oktober 2026:** Sterne 14,877 → 16,035.
-- **20. August 2026:** Sterne 13,874 → 14,877.
 
 ## Was es bringt
 
@@ -53,7 +53,7 @@ Wie kann ich mit dem GhostTrack-Tool Informationen zu einer Zielnummer oder eine
 - [GitHub-Repository →](https://github.com/HunxByts/GhostTrack)
 - [Auf Türkisch lesen →](https://trescout.com/discover/ghosttrack/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-08 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-08 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/ghosttrack/

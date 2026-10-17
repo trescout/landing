@@ -39,7 +39,7 @@ Yes, the process is triggered automatically as data arrives and flows without hu
 - [RAG](https://trescout.com/en/dictionary/rag/)
 - [Embedding](https://trescout.com/en/dictionary/embedding/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/data-pipeline/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/data-pipeline/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/data-pipeline/

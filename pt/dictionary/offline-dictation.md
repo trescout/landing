@@ -34,7 +34,7 @@ Ele não precisa de internet porque existe um pequeno modelo otimizado e pré-tr
 - [SLM](https://trescout.com/pt/dictionary/slm/)
 - [Offline](https://trescout.com/pt/dictionary/offline/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/offline-dictation/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/offline-dictation/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/offline-dictation/

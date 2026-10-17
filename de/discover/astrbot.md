@@ -2,16 +2,16 @@
 
 AstrBot ist ein Framework zur Entwicklung von Agenten für künstliche Intelligenz, das sich in verschiedene Instant-Messaging-Plattformen, große Sprachmodelle und Plug-Ins integrieren lässt. Dieses Python-basierte Tool ermöglicht die Erstellung anpassbarer KI-Assistenten als Open-Source-Alternative.
 
-- ★ 41.866
+- ★ 42.041
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 41,866 → 42,041, neueste Version v4.29.1 (17. Oktober 2026).
 - **14. Oktober 2026:** Sterne 41,705 → 41,866, neueste Version v4.29.0 (14. Oktober 2026).
 - **11. Oktober 2026:** Sterne 41,267 → 41,705, neueste Version v4.29.0-beta.2 (10. Oktober 2026).
 - **1. Oktober 2026:** Sterne 41,143 → 41,267, neueste Version v4.29.0-beta.1 (1. Oktober 2026).
-- **28. September 2026:** Sterne 40,523 → 41,143, neueste Version v4.28.2 (27. September 2026).
 
 ## Was es bringt
 
@@ -57,7 +57,7 @@ Ich möchte mit AstrBot einen anpassbaren Assistenten für künstliche Intellige
 - [GitHub-Repository →](https://github.com/AstrBotDevs/AstrBot)
 - [Auf Türkisch lesen →](https://trescout.com/discover/astrbot/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-20 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/astrbot/

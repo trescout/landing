@@ -81,7 +81,7 @@ Manter 3 cópias dos dados importantes em 2 mídias diferentes, guardando 1 cóp
 - [TREK](https://trescout.com/pt/discover/trek/)
 - [Celld](https://trescout.com/pt/discover/celld/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/self-hosted/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/self-hosted/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/self-hosted/

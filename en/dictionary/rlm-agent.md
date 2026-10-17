@@ -40,7 +40,7 @@ Human intervention is often required initially to determine reward criteria.
 - [Autonomous Agent](https://trescout.com/en/dictionary/autonomous-agent/)
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rlm-agent/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rlm-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rlm-agent/

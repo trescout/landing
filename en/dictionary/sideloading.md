@@ -41,7 +41,7 @@ It is preferred to access applications not available in official stores or to by
 - [Ipatool](https://trescout.com/en/discover/ipatool/)
 - [Madeira](https://trescout.com/en/discover/madeira/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/sideloading/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/sideloading/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sideloading/

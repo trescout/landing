@@ -48,7 +48,7 @@ Porque puede realizar tareas complejas en segundos, utilizando datos que la gent
 - [Higgsfield](https://trescout.com/es/discover/higgsfield/)
 - [Bonsai-demo](https://trescout.com/es/discover/bonsai-demo/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/machine-learning/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/machine-learning/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/machine-learning/

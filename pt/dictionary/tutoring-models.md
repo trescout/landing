@@ -34,7 +34,7 @@ Sim, mas ele se sai muito melhor, principalmente em disciplinas estruturadas com
 - [Tutoring](https://trescout.com/pt/dictionary/tutoring/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tutoring-models/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tutoring-models/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/tutoring-models/

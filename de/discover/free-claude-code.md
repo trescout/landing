@@ -2,16 +2,16 @@
 
 Free-claude-code wurde von Alishahryar1 entwickelt und bietet kostenlosen Zugriff auf Modelle der künstlichen Intelligenz wie Claude Code und Codex über Terminal, Anwendung oder Entwicklungsumgebung (IDE). Dieses Open-Source-Tool lässt sich in Plattformen integrieren, die Sprachbefehlsunterstützung bieten, wie z. B. OpenClaw, und ermöglicht es Benutzern, Funktionen der künstlichen Intelligenz auf verschiedenen Geräten zu nutzen.
 
-- ★ 61.103
+- ★ 61.131
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 61,103 → 61,131, neueste Version v6.16.11 (17. Oktober 2026).
 - **17. Oktober 2026:** Sterne 60,872 → 61,103, neueste Version v6.16.10 (17. Oktober 2026).
 - **16. Oktober 2026:** Sterne 60,624 → 60,872, neueste Version v6.16.9 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 60,387 → 60,624, neueste Version v6.16.7 (15. Oktober 2026).
-- **14. Oktober 2026:** Sterne 59,985 → 60,387, neueste Version v6.16.6 (14. Oktober 2026).
 
 ## Was es bringt
 
@@ -61,7 +61,7 @@ Fungieren Sie als Kodierungsagent für mich. Führen Sie mit dem Anbieter, den i
 - [GitHub-Repository →](https://github.com/Alishahryar1/free-claude-code)
 - [Auf Türkisch lesen →](https://trescout.com/discover/free-claude-code/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-08-04 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/free-claude-code/

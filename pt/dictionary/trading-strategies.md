@@ -38,7 +38,7 @@ Normalmente, os analistas de dados ou modelos de inteligência artificial criam 
 - [Trading Agent](https://trescout.com/pt/dictionary/trading-agent/)
 - [Data Pipeline](https://trescout.com/pt/dictionary/data-pipeline/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/trading-strategies/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/trading-strategies/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/trading-strategies/

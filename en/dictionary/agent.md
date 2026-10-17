@@ -50,7 +50,7 @@ Yes, they can manage your files or run your applications if you give them the ne
 - [Agent Skills](https://trescout.com/en/discover/agent-skills/)
 - [Taste Skill](https://trescout.com/en/discover/taste-skill/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agent/

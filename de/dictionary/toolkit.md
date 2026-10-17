@@ -44,7 +44,7 @@ Während Framework das Grundgerüst Ihres Projekts festlegt, handelt es sich bei
 - [Agent Governance Toolkit](https://trescout.com/de/discover/agent-governance-toolkit/)
 - [Agent Toolkit for Aws](https://trescout.com/de/discover/agent-toolkit-for-aws/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/toolkit/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/toolkit/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/toolkit/

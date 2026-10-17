@@ -43,7 +43,7 @@ Ensuring that the parts work together requires serious planning and engineering.
 
 - [Compound Engineering](https://trescout.com/en/discover/compound-engineering-plugin/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/compound-engineering/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/compound-engineering/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/compound-engineering/

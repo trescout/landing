@@ -2,15 +2,15 @@
 
 Univer est une plateforme open source qui réunit des outils bureautiques tels que des feuilles de calcul, des documents et des présentations dans un seul environnement d'exécution (runtime). Elle offre une structure modulaire conçue pour faciliter l'interaction des agents d'IA (AI agents) avec les logiciels bureautiques.
 
-- ★ 22 527
+- ★ 22 650
 - GitHub Trending · 2026-09-23
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 22,527 → 22,650, dernière version v1.1.0 (17 octobre 2026).
 - **10 octobre 2026:** Étoiles 21,590 → 22,527, dernière version v1.0.4 (10 octobre 2026).
 - **29 septembre 2026:** Étoiles 21,050 → 21,590, dernière version v1.0.3 (29 septembre 2026).
 - **28 septembre 2026:** Étoiles 19,922 → 21,050, dernière version v1.0.2 (24 septembre 2026).
-- **27 septembre 2026:** Étoiles 18,873 → 19,922, dernière version v1.0.2 (24 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -49,7 +49,7 @@ Pour exécuter le projet Univer dans un environnement local, clonez le dépôt d
 - [Dépôt GitHub →](https://github.com/dream-num/univer)
 - [Lire en turc →](https://trescout.com/discover/univer/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-09-23 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/univer/

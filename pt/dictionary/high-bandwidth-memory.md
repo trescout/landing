@@ -41,7 +41,7 @@ Os modelos de inteligência artificial têm de ler milhares de milhões de parâ
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
 - [Apple Silicon](https://trescout.com/pt/dictionary/apple-silicon/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/high-bandwidth-memory/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/high-bandwidth-memory/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/high-bandwidth-memory/

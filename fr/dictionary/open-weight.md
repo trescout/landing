@@ -67,7 +67,7 @@ Cela dépend du modèle. Les petits modèles tournent sur ordinateur portable, l
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [SLM](https://trescout.com/fr/dictionary/slm/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/open-weight/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/open-weight/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/open-weight/

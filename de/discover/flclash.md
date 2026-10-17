@@ -2,17 +2,17 @@
 
 FlClash; Es handelt sich um einen Multiplattform-Proxy-Client, der auf ClashMeta basiert. Es wurde mit Dart entwickelt und verfügt über eine werbefreie, benutzerfreundliche und Open-Source-Struktur.
 
-- ★ 55.669
+- ★ 56.245
 - Dart
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 55,669 → 56,245, neueste Version v0.9.1 (17. Oktober 2026).
 - **14. Oktober 2026:** Sterne 54,202 → 55,669, neueste Version v0.9.0 (14. Oktober 2026).
 - **3. Oktober 2026:** Sterne 52,097 → 54,202, neueste Version v0.8.99 (3. Oktober 2026).
 - **14. September 2026:** Sterne 51,594 → 52,097, neueste Version v0.8.98 (14. September 2026).
-- **10. September 2026:** Sterne 49,138 → 51,594, neueste Version v0.8.97 (10. September 2026).
 
 *Görsel: FlClash (proje deposundan)*
 
@@ -51,7 +51,7 @@ Ich möchte einen plattformübergreifenden Open-Source-Proxy-Client namens FlCla
 - [GitHub-Repository →](https://github.com/chen08209/FlClash)
 - [Auf Türkisch lesen →](https://trescout.com/discover/flclash/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-30 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-05-30 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/flclash/

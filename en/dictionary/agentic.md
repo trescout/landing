@@ -49,7 +49,7 @@ No, most AIs are passive systems that just wait for your command.
 - [Personal_AI_Infrastructure](https://trescout.com/en/discover/personal-ai-infrastructure/)
 - [Production Agentic RAG Course](https://trescout.com/en/discover/production-agentic-rag-course/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agentic/

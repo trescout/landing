@@ -68,7 +68,7 @@ Lo determina el equipo. El camino crítico se mantiene alto y los casos secundar
 
 - [Pytest](https://trescout.com/es/discover/pytest/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/testing-framework/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/testing-framework/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/testing-framework/

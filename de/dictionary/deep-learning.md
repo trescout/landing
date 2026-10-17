@@ -34,7 +34,7 @@ Dieser Name wurde vergeben, weil neuronale Netze mit vielen Schichten verwendet 
 - [AI Models](https://trescout.com/de/dictionary/ai-models/)
 - [Transformer](https://trescout.com/de/dictionary/transformer/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/deep-learning/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/deep-learning/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/deep-learning/

@@ -34,7 +34,7 @@ They are usually amazing, but they can sometimes make strange mistakes when draw
 - [Diffusion Model](https://trescout.com/en/dictionary/diffusion-model/)
 - [Multimodal](https://trescout.com/en/dictionary/multimodal/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/image-generators/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/image-generators/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/image-generators/

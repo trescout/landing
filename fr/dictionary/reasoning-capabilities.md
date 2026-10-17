@@ -38,7 +38,7 @@ Non, alors que les modèles de base prédisent uniquement les mots, les modèles
 - [Spatial Reasoning](https://trescout.com/fr/dictionary/spatial-reasoning/)
 - [AI Capabilities](https://trescout.com/fr/dictionary/ai-capabilities/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/reasoning-capabilities/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/reasoning-capabilities/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/reasoning-capabilities/

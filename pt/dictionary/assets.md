@@ -71,7 +71,7 @@ Descobrir ativos não mapeados na rede local para eliminar vulnerabilidades de s
 - [Website-downloader](https://trescout.com/pt/discover/website-downloader/)
 - [U3 SDK](https://trescout.com/pt/discover/u3-sdk/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/assets/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/assets/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/assets/

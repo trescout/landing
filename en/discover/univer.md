@@ -2,15 +2,15 @@
 
 Univer is an open source platform that combines office tools such as spreadsheets, documents and presentations in a single runtime. It offers a modular structure designed to facilitate the interaction of artificial intelligence agents (AI agents) with office software.
 
-- ★ 22,527
+- ★ 22,650
 - GitHub Trending · 2026-09-23
 
 ## Updates
 
+- **October 17, 2026:** Stars 22,527 → 22,650, latest release v1.1.0 (October 17, 2026).
 - **October 10, 2026:** Stars 21,590 → 22,527, latest release v1.0.4 (October 10, 2026).
 - **September 29, 2026:** Stars 21,050 → 21,590, latest release v1.0.3 (September 29, 2026).
 - **September 28, 2026:** Stars 19,922 → 21,050, latest release v1.0.2 (September 24, 2026).
-- **September 27, 2026:** Stars 18,873 → 19,922, latest release v1.0.2 (September 24, 2026).
 
 ## What you get
 
@@ -49,7 +49,7 @@ To run the Univer project locally, clone the repository with the git clone https
 - [GitHub repository →](https://github.com/dream-num/univer)
 - [Read in Turkish →](https://trescout.com/discover/univer/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-23: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/univer/

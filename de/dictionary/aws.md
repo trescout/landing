@@ -76,7 +76,7 @@ Mit Budgetwarnungen, Bereinigung ungenutzter Ressourcen und der richtigen Dimens
 - [IaaS](https://trescout.com/de/dictionary/iaas/)
 - [PaaS](https://trescout.com/de/dictionary/paas/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/aws/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/aws/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/aws/

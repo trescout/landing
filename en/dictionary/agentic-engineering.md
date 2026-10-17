@@ -44,7 +44,7 @@ They can make mistakes, so traceability and security of the system is the most i
 - [Kilocode](https://trescout.com/en/discover/kilocode/)
 - [GLM 5](https://trescout.com/en/discover/glm-5/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic-engineering/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agentic-engineering/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agentic-engineering/

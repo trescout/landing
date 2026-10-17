@@ -41,7 +41,7 @@ Você pode desenvolver qualquer coisa, desde simples jogos de quebra-cabeça at�
 
 - [Godot](https://trescout.com/pt/discover/godot/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/godot-engine/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/godot-engine/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/godot-engine/

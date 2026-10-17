@@ -38,7 +38,7 @@ Da es auf Japanisch so viele Wörter gibt, die gleich klingen, aber unterschiedl
 
 - [Karukan](https://trescout.com/de/discover/karukan/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/neural-kana-kanji-conversion-engine/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/neural-kana-kanji-conversion-engine/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/neural-kana-kanji-conversion-engine/

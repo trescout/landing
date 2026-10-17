@@ -58,7 +58,7 @@ Sí contra contraseña débil. Una política fuerte niega la lista.
 
 - [Cupp](https://trescout.com/es/discover/cupp/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/wordlists/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/wordlists/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/wordlists/

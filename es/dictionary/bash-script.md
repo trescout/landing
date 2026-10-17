@@ -35,7 +35,7 @@ Reduce el margen de error y le permite realizar la misma operación a la misma v
 - [NVM](https://trescout.com/es/discover/nvm/)
 - [Meshery](https://trescout.com/es/discover/meshery/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/bash-script/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/bash-script/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bash-script/

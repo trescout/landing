@@ -67,7 +67,7 @@ Oui, il existe des options open source. La discipline des correctifs et des sauv
 - [OIDC](https://trescout.com/fr/dictionary/oidc/)
 - [RBAC](https://trescout.com/fr/dictionary/rbac/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/identity-provider/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/identity-provider/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/identity-provider/

@@ -40,7 +40,7 @@ These logical gaps in the rules are closed by updating the language's compiler.
 - [Vulnerability Scanning](https://trescout.com/en/dictionary/vulnerability-scanning/)
 - [Static Type Checking](https://trescout.com/en/dictionary/static-type-checking/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/unsoundness/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/unsoundness/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/unsoundness/

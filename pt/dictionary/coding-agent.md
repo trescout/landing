@@ -48,7 +48,7 @@ Ele executa bem a maioria das tarefas padrão, mas ainda requer controle humano 
 - [Continue](https://trescout.com/pt/discover/continue/)
 - [Kilocode](https://trescout.com/pt/discover/kilocode/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/coding-agent/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/coding-agent/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/coding-agent/

@@ -38,7 +38,7 @@ It can produce text in many languages ​​of the world, depending on the data 
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 - [Prompt](https://trescout.com/en/dictionary/prompt/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-generation-model/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/text-generation-model/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/text-generation-model/

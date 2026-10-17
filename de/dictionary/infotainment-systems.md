@@ -63,7 +63,7 @@ Mit universellen Multimedia-Einheiten teilweise ja. Die Kompatibilität mit Lenk
 
 - [Headunit Revived](https://trescout.com/de/discover/headunit-revived/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/infotainment-systems/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/infotainment-systems/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/infotainment-systems/

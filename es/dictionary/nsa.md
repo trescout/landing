@@ -44,7 +44,7 @@ Está en el centro del mundo de la ciberseguridad debido a su influencia en la v
 
 - [Ghidra](https://trescout.com/es/discover/ghidra/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/nsa/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/nsa/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/nsa/

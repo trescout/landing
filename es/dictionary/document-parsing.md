@@ -39,7 +39,7 @@ Las computadoras no comprenden los archivos PDF sin formato; convertirlos en dat
 - [RAG](https://trescout.com/es/dictionary/rag/)
 - [NLP](https://trescout.com/es/dictionary/nlp/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/document-parsing/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/document-parsing/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/document-parsing/

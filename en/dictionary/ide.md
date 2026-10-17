@@ -49,7 +49,7 @@ Some IDEs are focused on specific languages, while others can work in almost any
 - [Continue](https://trescout.com/en/discover/continue/)
 - [Checkstyle](https://trescout.com/en/discover/checkstyle/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ide/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ide/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ide/

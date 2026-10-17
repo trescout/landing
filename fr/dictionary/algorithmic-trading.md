@@ -41,7 +41,7 @@ Les transactions ne sont généralement pas affectées puisqu’elles sont effec
 
 - [Awesome Systematic Trading](https://trescout.com/fr/discover/awesome-systematic-trading/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/algorithmic-trading/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/algorithmic-trading/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/algorithmic-trading/

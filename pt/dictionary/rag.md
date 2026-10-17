@@ -53,7 +53,7 @@ Não, se seus documentos estiverem armazenados em seu próprio computador ou ser
 - [OpenViking](https://trescout.com/pt/discover/openviking/)
 - [Opendataloader PDF](https://trescout.com/pt/discover/opendataloader-pdf/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/rag/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/rag/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/rag/

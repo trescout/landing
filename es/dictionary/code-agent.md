@@ -38,7 +38,7 @@ Los agentes pueden cometer errores, por lo que siempre se requiere una auditorí
 - [Autonomous Agent](https://trescout.com/es/dictionary/autonomous-agent/)
 - [Coding Agents](https://trescout.com/es/dictionary/coding-agent/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/code-agent/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/code-agent/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/code-agent/

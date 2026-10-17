@@ -49,7 +49,7 @@ No, the model only makes predictions using the available information it has.
 - [Model-Optimizer](https://trescout.com/en/discover/model-optimizer/)
 - [SIE](https://trescout.com/en/discover/sie/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/inference/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/inference/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/inference/

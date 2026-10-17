@@ -40,7 +40,7 @@ Sim, mas você deve fazer isso com ferramentas confiáveis ​​e em seus próp
 
 - [Cupp](https://trescout.com/pt/discover/cupp/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/common-user-passwords-profiler/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/common-user-passwords-profiler/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/common-user-passwords-profiler/

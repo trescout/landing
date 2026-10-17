@@ -44,7 +44,7 @@ On the contrary, it is faster because only the relevant parts are activated.
 
 - [Colibri](https://trescout.com/en/discover/colibri/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mixture-of-experts/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/mixture-of-experts/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mixture-of-experts/

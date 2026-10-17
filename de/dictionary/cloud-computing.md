@@ -82,7 +82,7 @@ Durch die Verwendung von Open-Source-Standards (Docker-Container, Kubernetes), u
 
 - [DevOps-Interview-Guide](https://trescout.com/de/discover/devops-interview-guide/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/cloud-computing/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/cloud-computing/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cloud-computing/

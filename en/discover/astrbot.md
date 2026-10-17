@@ -2,16 +2,16 @@
 
 AstrBot is an artificial intelligence agent development framework that integrates with various instant messaging platforms, large language models and plug-ins. This Python-based tool allows creating customizable AI assistants as an open-source alternative.
 
-- ★ 41,866
+- ★ 42,041
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Updates
 
+- **October 17, 2026:** Stars 41,866 → 42,041, latest release v4.29.1 (October 17, 2026).
 - **October 14, 2026:** Stars 41,705 → 41,866, latest release v4.29.0 (October 14, 2026).
 - **October 11, 2026:** Stars 41,267 → 41,705, latest release v4.29.0-beta.2 (October 10, 2026).
 - **October 1, 2026:** Stars 41,143 → 41,267, latest release v4.29.0-beta.1 (October 1, 2026).
-- **September 28, 2026:** Stars 40,523 → 41,143, latest release v4.28.2 (September 27, 2026).
 
 ## What you get
 
@@ -57,7 +57,7 @@ I want to create a customizable artificial intelligence assistant on my messagin
 - [GitHub repository →](https://github.com/AstrBotDevs/AstrBot)
 - [Read in Turkish →](https://trescout.com/discover/astrbot/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-20: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/astrbot/

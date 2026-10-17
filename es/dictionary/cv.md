@@ -76,7 +76,7 @@ Una CPU es suficiente para hacer pruebas. Se necesita una GPU para el entrenamie
 - [Opencv](https://trescout.com/es/discover/opencv/)
 - [Supervision](https://trescout.com/es/discover/supervision/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/cv/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/cv/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cv/

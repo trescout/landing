@@ -38,7 +38,7 @@ Puisque vos données se trouvent sur le serveur, cela dépend des mesures de sé
 - [SaaS](https://trescout.com/fr/dictionary/saas/)
 - [Web Interface](https://trescout.com/fr/dictionary/web-interface/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/web-based-solutions/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/web-based-solutions/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/web-based-solutions/

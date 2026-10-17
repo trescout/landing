@@ -39,7 +39,7 @@ MMLU for reasoning, HumanEval for coding, and SWE-bench for the ability to solve
 - [LLM](https://trescout.com/en/dictionary/llm/)
 - [Reasoning](https://trescout.com/en/dictionary/reasoning/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-benchmarks/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-benchmarks/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-benchmarks/

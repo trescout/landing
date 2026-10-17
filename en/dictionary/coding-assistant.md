@@ -39,7 +39,7 @@ It depends on the privacy policy of the tool you are sharing your code with, you
 - [AI Coding Assistants](https://trescout.com/en/dictionary/ai-coding-assistants/)
 - [IDE](https://trescout.com/en/dictionary/ide/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/coding-assistant/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/coding-assistant/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/coding-assistant/

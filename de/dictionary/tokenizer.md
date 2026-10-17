@@ -72,7 +72,7 @@ Ja; die in letzter Zeit entwickelten neuronalen Netzwerkarchitekturen der neuen 
 - [AI Engineering from Scratch](https://trescout.com/de/discover/ai-engineering-from-scratch/)
 - [Minimind](https://trescout.com/de/discover/minimind/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/tokenizer/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/tokenizer/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tokenizer/

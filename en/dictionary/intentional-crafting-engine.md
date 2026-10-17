@@ -39,7 +39,7 @@ Instead of just writing isolated code blocks, it creates complementary functiona
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 - [Vibe Coding](https://trescout.com/en/dictionary/vibe-coding/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/intentional-crafting-engine/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/intentional-crafting-engine/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/intentional-crafting-engine/

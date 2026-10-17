@@ -62,7 +62,7 @@ If there is a board of directors, there is also a chairman. In small companies w
 - [Project Management](https://trescout.com/en/dictionary/project-management/)
 - [AI Team Operations](https://trescout.com/en/dictionary/ai-team-operations/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/chair/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/chair/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/chair/

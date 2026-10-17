@@ -39,7 +39,7 @@ Yes, in open-weights models, these numerical values are made publicly available 
 - [Fine-tuning](https://trescout.com/en/dictionary/fine-tuning/)
 - [GGUF](https://trescout.com/en/dictionary/gguf/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/weights/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/weights/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/weights/

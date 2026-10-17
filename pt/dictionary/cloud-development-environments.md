@@ -35,7 +35,7 @@ Nada acontece, porque seus códigos já estão armazenados com segurança nos se
 - [IDE](https://trescout.com/pt/dictionary/ide/)
 - [Cloud Computing](https://trescout.com/pt/dictionary/cloud-computing/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cloud-development-environments/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cloud-development-environments/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cloud-development-environments/

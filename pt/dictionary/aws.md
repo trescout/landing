@@ -76,7 +76,7 @@ Com alertas de orçamento, limpeza de recursos não utilizados e dimensionamento
 - [IaaS](https://trescout.com/pt/dictionary/iaas/)
 - [PaaS](https://trescout.com/pt/dictionary/paas/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/aws/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/aws/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/aws/

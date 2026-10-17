@@ -52,7 +52,7 @@ Die wesentlichen Namenskonventionen und Strukturprinzipien bilden nach wie vor d
 - [QA](https://trescout.com/de/dictionary/qa/)
 - [Syntax](https://trescout.com/de/dictionary/syntax/)
 
-Diese Erklärung wurde in einfacher Sprache für TreScout verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/sun-code-conventions/)
+Diese Erklärung wurde in einfacher Sprache für TreScout mit KI verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/sun-code-conventions/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sun-code-conventions/

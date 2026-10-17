@@ -39,7 +39,7 @@ Because the word 'mode' represents the data channel here; It gets this name beca
 - [Foundation Model](https://trescout.com/en/dictionary/foundation-model/)
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multimodal-large-language-model/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multimodal-large-language-model/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/multimodal-large-language-model/

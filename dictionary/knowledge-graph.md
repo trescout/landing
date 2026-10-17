@@ -48,7 +48,7 @@ Matematiksel olarak noktalar ve çizgilerden oluşan bir ağ yapısı olduğu i�
 - [Codebase Memory MCP](https://trescout.com/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/discover/cognee/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/knowledge-graph/

@@ -68,7 +68,7 @@ Each plugin imposes some load. When you use few and well-maintained plug-ins, th
 - [API](https://trescout.com/en/dictionary/api/)
 - [Framework](https://trescout.com/en/dictionary/framework/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/extensibility/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/extensibility/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/extensibility/

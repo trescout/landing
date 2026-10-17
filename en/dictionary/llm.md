@@ -71,7 +71,7 @@ They demand high hardware resources because billions of parameters must be kept 
 - [Deer Flow](https://trescout.com/en/discover/deer-flow/)
 - [Unsloth](https://trescout.com/en/discover/unsloth/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/llm/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/llm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/llm/

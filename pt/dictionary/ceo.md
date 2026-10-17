@@ -68,7 +68,7 @@ O CEO gerencia a execução, o presidente do conselho gerencia o conselho. Ambos
 
 - [Gstack](https://trescout.com/pt/discover/gstack/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ceo/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ceo/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ceo/

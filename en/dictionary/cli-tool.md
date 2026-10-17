@@ -37,7 +37,7 @@ Once you memorize the basic commands, you will find it quite fast and practical.
 - [Shell](https://trescout.com/en/dictionary/shell/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cli-tool/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cli-tool/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cli-tool/

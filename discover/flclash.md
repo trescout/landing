@@ -4,17 +4,17 @@
 
 *Görsel: FlClash (proje deposundan)*
 
-- ★ 55.669
+- ★ 56.245
 - Dart
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 55.669 → 56.245, son sürüm v0.9.1 (17 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 54.202 → 55.669, son sürüm v0.9.0 (14 Ekim 2026).
 - **3 Ekim 2026:** Yıldız 52.097 → 54.202, son sürüm v0.8.99 (3 Ekim 2026).
 - **14 Eylül 2026:** Yıldız 51.594 → 52.097, son sürüm v0.8.98 (14 Eylül 2026).
-- **10 Eylül 2026:** Yıldız 49.138 → 51.594, son sürüm v0.8.97 (10 Eylül 2026).
 
 - **Kimin için:** Proxy/vekil sunucu istemcisi arayanlar
 - **Zorluk:** Kolay-orta · uygulama
@@ -44,7 +44,7 @@ FlClash adlı çok platformlu açık kaynaklı proxy istemcisini kullanmak istiy
 
 - [GitHub deposu →](https://github.com/chen08209/FlClash)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

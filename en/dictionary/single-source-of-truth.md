@@ -44,7 +44,7 @@ It leads to wrong decisions and loss of time within the organization.
 
 - [Ossie](https://trescout.com/en/discover/ossie/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/single-source-of-truth/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/single-source-of-truth/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/single-source-of-truth/

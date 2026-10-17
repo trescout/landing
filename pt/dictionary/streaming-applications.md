@@ -33,7 +33,7 @@ O aplicativo reduz a qualidade da imagem ou faz pequenas pausas para evitar a in
 - [Data Pipeline](https://trescout.com/pt/dictionary/data-pipeline/)
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/streaming-applications/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/streaming-applications/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/streaming-applications/

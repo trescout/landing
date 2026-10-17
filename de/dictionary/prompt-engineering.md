@@ -43,7 +43,7 @@ Nein, im Gegenteil, es wird zu einer wichtigeren Fähigkeit für die Verwaltung 
 
 - [Awesome Gpt Image 2](https://trescout.com/de/discover/awesome-gpt-image-2/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/prompt-engineering/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/prompt-engineering/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/prompt-engineering/

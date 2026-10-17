@@ -62,7 +62,7 @@ Se houver um conselho de administração, haverá também um presidente. Em pequ
 - [Project Management](https://trescout.com/pt/dictionary/project-management/)
 - [AI Team Operations](https://trescout.com/pt/dictionary/ai-team-operations/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/chair/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/chair/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/chair/

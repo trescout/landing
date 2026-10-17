@@ -39,7 +39,7 @@ Usually you only need to set the target initially, the system handles the rest.
 - [Data Pipeline](https://trescout.com/en/dictionary/data-pipeline/)
 - [MCP](https://trescout.com/en/dictionary/mcp/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/self-orchestration/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/self-orchestration/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/self-orchestration/

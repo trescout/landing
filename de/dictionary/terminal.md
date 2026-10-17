@@ -78,7 +78,7 @@ Lesende Befehle tun das nicht. Bei löschenden und schreibenden Befehlen werden 
 - [Openinterpreter](https://trescout.com/de/discover/openinterpreter/)
 - [Free Claude Code](https://trescout.com/de/discover/free-claude-code/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/terminal/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/terminal/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/terminal/

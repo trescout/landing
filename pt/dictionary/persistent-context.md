@@ -39,7 +39,7 @@ Os dados de contexto persistente são armazenados em bancos de dados criptografa
 - [Long-term Memory](https://trescout.com/pt/dictionary/long-term-memory/)
 - [Vector Database](https://trescout.com/pt/dictionary/vector-database/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/persistent-context/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/persistent-context/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/persistent-context/

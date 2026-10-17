@@ -2,16 +2,16 @@
 
 AstrBot es un marco de desarrollo de agentes de inteligencia artificial que se integra con varias plataformas de mensajería instantánea, modelos de lenguaje grandes y complementos. Esta herramienta basada en Python permite crear asistentes de IA personalizables como una alternativa de código abierto.
 
-- ★ 41.866
+- ★ 42.041
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Actualizaciones
 
+- **17 de octubre de 2026:** Estrellas 41,866 → 42,041, última versión v4.29.1 (17 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 41,705 → 41,866, última versión v4.29.0 (14 de octubre de 2026).
 - **11 de octubre de 2026:** Estrellas 41,267 → 41,705, última versión v4.29.0-beta.2 (10 de octubre de 2026).
 - **1 de octubre de 2026:** Estrellas 41,143 → 41,267, última versión v4.29.0-beta.1 (1 de octubre de 2026).
-- **28 de septiembre de 2026:** Estrellas 40,523 → 41,143, última versión v4.28.2 (27 de septiembre de 2026).
 
 ## Qué aporta
 
@@ -57,7 +57,7 @@ Quiero crear un asistente de inteligencia artificial personalizable en mis plata
 - [Repositorio en GitHub →](https://github.com/AstrBotDevs/AstrBot)
 - [Leer en turco →](https://trescout.com/discover/astrbot/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-20: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-20: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/astrbot/

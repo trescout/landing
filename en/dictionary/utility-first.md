@@ -38,7 +38,7 @@ It may seem so at first, but it is a great advantage to be able to see the entir
 
 - [Tailwindcss](https://trescout.com/en/discover/tailwindcss/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/utility-first/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/utility-first/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/utility-first/

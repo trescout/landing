@@ -38,7 +38,7 @@ Modern systems have security protocols that constantly monitor themselves to min
 
 - [Apollo-11](https://trescout.com/en/discover/apollo-11/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/guidance-computer/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/guidance-computer/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/guidance-computer/

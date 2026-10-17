@@ -42,7 +42,7 @@ Not only does the cost increase, but the model may get lost in too much informat
 
 - [Headroom](https://trescout.com/en/discover/headroom/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rag-chunks/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/rag-chunks/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rag-chunks/

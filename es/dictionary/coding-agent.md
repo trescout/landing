@@ -48,7 +48,7 @@ Realiza bien la mayoría de las tareas estándar, pero aún requiere control hum
 - [Continue](https://trescout.com/es/discover/continue/)
 - [Kilocode](https://trescout.com/es/discover/kilocode/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/coding-agent/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/coding-agent/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/coding-agent/

@@ -72,7 +72,7 @@ Compress images, link (do not embed) video, and purge unused originals. Saving i
 - [Ppt Master](https://trescout.com/en/discover/ppt-master/)
 - [OfficeCLI](https://trescout.com/en/discover/officecli/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/powerpoint/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/powerpoint/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/powerpoint/

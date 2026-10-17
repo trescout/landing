@@ -38,7 +38,7 @@ Oui, les modèles avancés peuvent refléter les émotions contenues dans le tex
 - [Voice Cloning](https://trescout.com/fr/dictionary/voice-cloning/)
 - [NLP](https://trescout.com/fr/dictionary/nlp/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/speech-synthesis/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/speech-synthesis/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/speech-synthesis/

@@ -39,7 +39,7 @@ Yes, there are transaction fees (gas fees) paid to miners or validators on the n
 - [Smart Contracts](https://trescout.com/en/dictionary/smart-contracts/)
 - [dApps](https://trescout.com/en/dictionary/dapps/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dexs/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/dexs/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/dexs/

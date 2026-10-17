@@ -2,15 +2,15 @@
 
 Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır. Açık kaynaklı bu yazılım, hedef numaranın coğrafi verilerini tespit etmek amacıyla geliştirilmiştir.
 
-- ★ 18.151
+- ★ 19.157
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 18.151 → 19.157.
 - **11 Ekim 2026:** Yıldız 17.093 → 18.151.
 - **5 Ekim 2026:** Yıldız 16.035 → 17.093.
 - **1 Ekim 2026:** Yıldız 14.877 → 16.035.
-- **20 Ağustos 2026:** Yıldız 13.874 → 14.877.
 
 ## Ne kazandırır?
 
@@ -48,7 +48,7 @@ GhostTrack aracını kullanarak bir hedef numara veya kullanıcı adı üzerinde
 
 - [GitHub deposu →](https://github.com/HunxByts/GhostTrack)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

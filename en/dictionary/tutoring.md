@@ -73,7 +73,7 @@ In 1984, Benjamin Bloom showed that a student receiving one-on-one tutoring outp
 
 - [DeepTutor](https://trescout.com/en/discover/deeptutor/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tutoring/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tutoring/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/tutoring/

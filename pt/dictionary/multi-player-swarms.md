@@ -38,7 +38,7 @@ Eles compartilham dados por meio de protocolos de comunicação e interfaces de 
 - [Multi-agent](https://trescout.com/pt/dictionary/multi-agent/)
 - [Agentic System](https://trescout.com/pt/dictionary/agentic-system/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multi-player-swarms/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multi-player-swarms/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/multi-player-swarms/

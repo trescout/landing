@@ -40,7 +40,7 @@ No; abarca sitios web, aplicaciones móviles y todos los tipos de suscripción d
 - [CRO](https://trescout.com/es/dictionary/cro/)
 - [GDPR](https://trescout.com/es/dictionary/gdpr/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/click-to-cancel/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/click-to-cancel/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/click-to-cancel/

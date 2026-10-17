@@ -40,7 +40,7 @@ No, it is a completely open and free standard.
 - [Data Pipeline](https://trescout.com/en/dictionary/data-pipeline/)
 - [API](https://trescout.com/en/dictionary/api/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/really-simple-syndication/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/really-simple-syndication/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/really-simple-syndication/

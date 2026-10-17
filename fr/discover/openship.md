@@ -2,16 +2,16 @@
 
 OpenShip propose une plateforme de distribution d'applications que les utilisateurs peuvent héberger sur leurs propres serveurs. Cet outil, développé avec le langage TypeScript, facilite les processus d'auto-hébergement comme alternative aux services d'infrastructure basés sur le cloud.
 
-- ★ 14 772
+- ★ 14 787
 - TypeScript
 - GitHub Trending · 2026-07-21
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 14,772 → 14,787, dernière version v0.9.3 (17 octobre 2026).
 - **16 octobre 2026:** Étoiles 14,714 → 14,772, dernière version v0.9.2 (16 octobre 2026).
 - **13 octobre 2026:** Étoiles 14,701 → 14,714, dernière version v0.9.1 (13 octobre 2026).
 - **12 octobre 2026:** Étoiles 14,584 → 14,701, dernière version v0.9.0 (12 octobre 2026).
-- **7 octobre 2026:** Étoiles 14,558 → 14,584, dernière version v0.8.2 (6 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -69,7 +69,7 @@ Je souhaite publier un projet en utilisant Openship. Dans le répertoire du proj
 - [Dépôt GitHub →](https://github.com/oblien/openship)
 - [Lire en turc →](https://trescout.com/discover/openship/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-21 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-21 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/openship/

@@ -44,7 +44,7 @@ Quaisquer dados cujo significado possa ser convertido em vetor, como texto, imag
 - [Turbovec](https://trescout.com/pt/discover/turbovec/)
 - [Zvec](https://trescout.com/pt/discover/zvec/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vector-database/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vector-database/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vector-database/

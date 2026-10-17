@@ -42,7 +42,7 @@ Da Ihr Code an die Cloud gesendet wird, sollten Sie darauf achten, Ihre privaten
 
 - [Graphify](https://trescout.com/de/discover/graphify/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/coding-assistants/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/coding-assistants/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/coding-assistants/

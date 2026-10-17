@@ -48,7 +48,7 @@ Generally no, they can generate revenue from your data.
 - [Tailcat](https://trescout.com/en/discover/tailcat/)
 - [MasterDnsVPN](https://trescout.com/en/discover/masterdnsvpn/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/vpn/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/vpn/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/vpn/

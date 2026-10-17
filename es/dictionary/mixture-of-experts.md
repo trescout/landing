@@ -44,7 +44,7 @@ Al contrario, es más rápido porque solo se ejecutan las partes relevantes.
 
 - [Colibri](https://trescout.com/es/discover/colibri/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/mixture-of-experts/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/mixture-of-experts/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/mixture-of-experts/

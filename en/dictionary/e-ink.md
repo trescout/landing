@@ -34,7 +34,7 @@ Its technology is fundamentally based on black and white particles; although col
 
 Because the particles need to physically displace, it is not suitable for rapid changes such as playing video.
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/e-ink/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/e-ink/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/e-ink/

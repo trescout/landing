@@ -76,7 +76,7 @@ A CPU is sufficient for testing. A GPU is required for training and heavy live m
 - [Opencv](https://trescout.com/en/discover/opencv/)
 - [Supervision](https://trescout.com/en/discover/supervision/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cv/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cv/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cv/

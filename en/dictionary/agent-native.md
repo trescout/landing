@@ -39,7 +39,7 @@ Because they are autonomous, they have a margin of error, so they often operate 
 - [CLI-Anything](https://trescout.com/en/discover/cli-anything/)
 - [Agent Native](https://trescout.com/en/discover/agent-native/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent-native/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent-native/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agent-native/

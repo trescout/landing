@@ -40,7 +40,7 @@ They can: Systems with a multi-agent architecture list the agents in this direct
 - [Prompt as Code](https://trescout.com/en/dictionary/prompt-as-code/)
 - [System Prompts](https://trescout.com/en/dictionary/system-prompts/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agents-directory/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agents-directory/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agents-directory/

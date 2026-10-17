@@ -40,7 +40,7 @@ Es bindet weltweit alle Unternehmen, die mit EU-Bürgern Geschäfte machen.
 - [End-to-End Privacy](https://trescout.com/de/dictionary/end-to-end-privacy/)
 - [Security Scanner](https://trescout.com/de/dictionary/security-scanner/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/gdpr/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/gdpr/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/gdpr/

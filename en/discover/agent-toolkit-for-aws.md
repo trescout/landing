@@ -47,7 +47,7 @@ Help me develop, deploy and manage applications on AWS. Interact with AWS servic
 - [GitHub repository →](https://github.com/aws/agent-toolkit-for-aws)
 - [Read in Turkish →](https://trescout.com/discover/agent-toolkit-for-aws/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-06-26: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/agent-toolkit-for-aws/

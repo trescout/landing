@@ -38,7 +38,7 @@ You may lose access to your data completely because there is no other copy avail
 - [Secrets](https://trescout.com/en/dictionary/secrets/)
 - [VPN](https://trescout.com/en/dictionary/vpn/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/end-to-end-privacy/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/end-to-end-privacy/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/end-to-end-privacy/

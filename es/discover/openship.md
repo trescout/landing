@@ -2,16 +2,16 @@
 
 OpenShip ofrece una plataforma de distribución de aplicaciones que los usuarios pueden alojar en sus propios servidores. Esta herramienta, desarrollada con el lenguaje TypeScript, facilita procesos de autohospedaje como alternativa a los servicios de infraestructura basados ​​en la nube.
 
-- ★ 14.772
+- ★ 14.787
 - TypeScript
 - GitHub Trending · 2026-07-21
 
 ## Actualizaciones
 
+- **17 de octubre de 2026:** Estrellas 14,772 → 14,787, última versión v0.9.3 (17 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 14,714 → 14,772, última versión v0.9.2 (16 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 14,701 → 14,714, última versión v0.9.1 (13 de octubre de 2026).
 - **12 de octubre de 2026:** Estrellas 14,584 → 14,701, última versión v0.9.0 (12 de octubre de 2026).
-- **7 de octubre de 2026:** Estrellas 14,558 → 14,584, última versión v0.8.2 (6 de octubre de 2026).
 
 ## Qué aporta
 
@@ -69,7 +69,7 @@ Quiero publicar un proyecto usando Openship. Mientras está en el directorio del
 - [Repositorio en GitHub →](https://github.com/oblien/openship)
 - [Leer en turco →](https://trescout.com/discover/openship/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-21: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-21: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/openship/

@@ -52,7 +52,7 @@ O sistema geralmente apresenta erros, mas também existem comandos críticos que
 - [TradingAgents](https://trescout.com/pt/discover/tradingagents/)
 - [Angular](https://trescout.com/pt/discover/angular/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cli/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cli/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cli/

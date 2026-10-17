@@ -42,7 +42,7 @@ Although there is usually a slight performance loss, the convenience it provides
 
 - [Turbovec](https://trescout.com/en/discover/turbovec/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bindings/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bindings/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/bindings/

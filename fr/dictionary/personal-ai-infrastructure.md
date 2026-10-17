@@ -42,7 +42,7 @@ Vos données ne disparaissent pas, elles restent entièrement sous votre contrô
 
 - [Personal_AI_Infrastructure](https://trescout.com/fr/discover/personal-ai-infrastructure/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/personal-ai-infrastructure/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/personal-ai-infrastructure/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/personal-ai-infrastructure/

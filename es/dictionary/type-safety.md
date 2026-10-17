@@ -38,7 +38,7 @@ Algunos lenguajes no requieren esto por motivos de flexibilidad, pero definitiva
 
 - [T3code](https://trescout.com/es/discover/t3code/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/type-safety/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/type-safety/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/type-safety/

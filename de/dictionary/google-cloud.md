@@ -75,7 +75,7 @@ Es gibt begrenzte Stufen- und Testguthaben. Der Grenzwert wird eingehalten.
 - [Weathernext](https://trescout.com/de/discover/weathernext/)
 - [Agents CLI](https://trescout.com/de/discover/agents-cli/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/google-cloud/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/google-cloud/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/google-cloud/

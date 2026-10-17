@@ -38,7 +38,7 @@ Ja, das System benötigt keine Internetverbindung, da es komplett lokal arbeitet
 - [Local-first](https://trescout.com/de/dictionary/local-first/)
 - [AI Coding Agent](https://trescout.com/de/dictionary/ai-coding-agent/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/local-first-code-intelligence-graph/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/local-first-code-intelligence-graph/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/local-first-code-intelligence-graph/

@@ -2965,14 +2965,14 @@
     "slug": "flclash",
     "title": "FlClash",
     "tagline": "ClashMeta tabanlı, çok platformlu, reklamsız ve açık kaynak proxy istemcisi.",
-    "meta": "★ 55.669 · GPL-3.0",
+    "meta": "★ 56.245 · GPL-3.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Üretkenlik",
       "Kod bilmeyenler için"
     ],
-    "stars": 55669,
+    "stars": 56245,
     "image": "/assets/discover/og/flclash.webp",
     "headline": "Açık kaynaklı modern proxy istemcisi",
     "last_review": "2026-10-17",
@@ -3025,6 +3025,13 @@
         "onceki_yildiz": 54202,
         "surum": "v0.9.0",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 56245,
+        "onceki_yildiz": 55669,
+        "surum": "v0.9.1",
+        "surum_tarihi": "2026-10-17"
       }
     ],
     "tagline_en": "Multi-platform, ad-free and open source proxy client based on ClashMeta.",
@@ -8235,14 +8242,14 @@
     "slug": "ghosttrack",
     "title": "GhostTrack",
     "tagline": "Python tabanlı GhostTrack, mobil numaralar üzerinden konum takibi yapılmasına olanak tanıyan bir araçtır.",
-    "meta": "★ 18.151",
+    "meta": "★ 19.157",
     "image": "/assets/discover/og/ghosttrack.webp",
     "source": "GitHub",
     "date": "2026-06-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 18151,
+    "stars": 19157,
     "lite": false,
     "headline": "Mobil numaralar ve kullanıcı adları üzerinden konum takibi",
     "cmds": {
@@ -8287,6 +8294,11 @@
         "tarih": "2026-10-11",
         "yildiz": 18151,
         "onceki_yildiz": 17093
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 19157,
+        "onceki_yildiz": 18151
       }
     ]
   },
@@ -14520,7 +14532,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 65.519 · TypeScript",
+    "meta": "★ 65.605 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -14528,7 +14540,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 65519,
+    "stars": 65605,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-10-17",
@@ -15014,6 +15026,13 @@
         "yildiz": 65519,
         "onceki_yildiz": 64870,
         "surum": "v0.8.167",
+        "surum_tarihi": "2026-10-17"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 65605,
+        "onceki_yildiz": 65519,
+        "surum": "v0.8.168",
         "surum_tarihi": "2026-10-17"
       }
     ],
@@ -20603,7 +20622,7 @@
     "slug": "ai-job-search",
     "title": "AI Job Search",
     "tagline": "Claude Code altyapısını kullanan ai-job-search, iş arama sürecini otomatikleştiren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 46.736 · TypeScript",
+    "meta": "★ 49.169 · TypeScript",
     "image": "/assets/discover/og/ai-job-search.webp",
     "source": "GitHub",
     "date": "2026-07-08",
@@ -20611,7 +20630,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 46736,
+    "stars": 49169,
     "lite": false,
     "headline": "Claude Code ile otomatik iş başvurusu",
     "last_review": "2026-10-17",
@@ -20697,6 +20716,13 @@
         "tarih": "2026-10-14",
         "yildiz": 46736,
         "onceki_yildiz": 44486,
+        "surum": "v1.7.2",
+        "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 49169,
+        "onceki_yildiz": 46736,
         "surum": "v1.7.2",
         "surum_tarihi": "2026-09-29"
       }
@@ -25551,7 +25577,7 @@
     "slug": "astrbot",
     "title": "AstrBot",
     "tagline": "AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan…",
-    "meta": "★ 41.866 · Python",
+    "meta": "★ 42.041 · Python",
     "image": "/assets/discover/og/astrbot.webp",
     "source": "GitHub",
     "date": "2026-07-20",
@@ -25559,7 +25585,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 41866,
+    "stars": 42041,
     "lite": false,
     "headline": "Mesajlaşma uygulamaları için yapay zekâ ajanı",
     "last_review": "2026-10-17",
@@ -25647,6 +25673,13 @@
         "onceki_yildiz": 41705,
         "surum": "v4.29.0",
         "surum_tarihi": "2026-10-14"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 42041,
+        "onceki_yildiz": 41866,
+        "surum": "v4.29.1",
+        "surum_tarihi": "2026-10-17"
       }
     ],
     "tagline_en": "AstrBot works integrated with various instant messaging platforms, large language models and plug-ins.",
@@ -26012,7 +26045,7 @@
     "slug": "openship",
     "title": "Openship",
     "tagline": "OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor.",
-    "meta": "★ 14.772 · TypeScript",
+    "meta": "★ 14.787 · TypeScript",
     "image": "/assets/discover/og/openship.webp",
     "source": "GitHub",
     "date": "2026-07-21",
@@ -26020,7 +26053,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 14772,
+    "stars": 14787,
     "lite": false,
     "headline": "Kendi sunucunuzda uygulama dağıtımı",
     "last_review": "2026-10-17",
@@ -26136,6 +26169,13 @@
         "onceki_yildiz": 14714,
         "surum": "v0.9.2",
         "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 14787,
+        "onceki_yildiz": 14772,
+        "surum": "v0.9.3",
+        "surum_tarihi": "2026-10-17"
       }
     ],
     "tagline_en": "OpenShip offers an application distribution platform that users can host on their own servers.",
@@ -31184,7 +31224,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 61.103 · Python",
+    "meta": "★ 61.131 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -31192,7 +31232,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 61103,
+    "stars": 61131,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-10-17",
@@ -31377,6 +31417,13 @@
         "yildiz": 61103,
         "onceki_yildiz": 60872,
         "surum": "v6.16.10",
+        "surum_tarihi": "2026-10-17"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 61131,
+        "onceki_yildiz": 61103,
+        "surum": "v6.16.11",
         "surum_tarihi": "2026-10-17"
       }
     ]
@@ -43789,6 +43836,13 @@
         "onceki_yildiz": 4627,
         "surum": "v1.84.0",
         "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 4651,
+        "onceki_yildiz": 4651,
+        "surum": "v1.85.0",
+        "surum_tarihi": "2026-10-17"
       }
     ],
     "tagline_en": "DeskcommCRM is an open-source customer relationship management (CRM) system developed for businesses that sell via chat...",
@@ -46027,7 +46081,7 @@
     "slug": "univer",
     "title": "Univer",
     "tagline": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı…",
-    "meta": "★ 22.527",
+    "meta": "★ 22.650",
     "image": "/assets/discover/og/univer.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -46035,7 +46089,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 22527,
+    "stars": 22650,
     "summary": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının (AI agents) ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış modüler bir yapı sunar.",
     "lite": false,
     "headline": "Açık kaynaklı ofis araçları seti",
@@ -46072,6 +46126,13 @@
         "onceki_yildiz": 21590,
         "surum": "v1.0.4",
         "surum_tarihi": "2026-10-10"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 22650,
+        "onceki_yildiz": 22527,
+        "surum": "v1.1.0",
+        "surum_tarihi": "2026-10-17"
       }
     ],
     "last_review": "2026-10-17",
@@ -46136,7 +46197,7 @@
     "slug": "treg",
     "title": "Treg",
     "tagline": "Treg, yapay zekâ ajanları için geliştirilen araçları (agent tools) tek bir arayüz üzerinden yönetmeyi sağlayan bir yönlendirme…",
-    "meta": "★ 4.625",
+    "meta": "★ 5.646",
     "image": "/assets/discover/og/treg.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -46144,7 +46205,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4625,
+    "stars": 5646,
     "summary": "Treg, yapay zekâ ajanları için geliştirilen araçları (agent tools) tek bir arayüz üzerinden yönetmeyi sağlayan bir yönlendirme katmanı (routing layer). Farklı dil modelleri ve araçlar arasında standart bir köprü kurarak geliştiricilerin ajan tabanlı iş akışlarını OpenRouter üzerinden kolayca entegre etmesine imkân tanıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanı araçlarını yönetme katmanı",
@@ -46162,6 +46223,11 @@
         "tarih": "2026-10-07",
         "yildiz": 4625,
         "onceki_yildiz": 3272
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 5646,
+        "onceki_yildiz": 4625
       }
     ]
   },
@@ -48005,7 +48071,7 @@
     "slug": "pstack-claude",
     "title": "Pstack Claude",
     "tagline": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan…",
-    "meta": "★ 2.711 · JavaScript",
+    "meta": "★ 2.721 · JavaScript",
     "image": "/assets/discover/og/pstack-claude.webp",
     "source": "GitHub",
     "date": "2026-10-05",
@@ -48013,7 +48079,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 2711,
+    "stars": 2721,
     "last_seen": "2026-10-05",
     "summary": "Pstack-claude, yazılım geliştirme aracı Cursor'ın temel işlevlerini farklı yapay zekâ modelleri ve platformlar için uyarlayan bir otomasyon kütüphanesi. Geliştiricilerin karmaşık yapay zekâ ajan iş akışlarını (agentic workflows) çeşitli çalışma ortamlarında standart bir şekilde çalıştırmasına olanak tanıyor.",
     "lite": false,
@@ -48105,6 +48171,13 @@
         "onceki_yildiz": 2562,
         "surum": "v0.9.90",
         "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-17",
+        "yildiz": 2721,
+        "onceki_yildiz": 2711,
+        "surum": "v0.9.92",
+        "surum_tarihi": "2026-10-17"
       }
     ],
     "tagline_en": "Pstack-claude, which adapts the core functions of the software development tool Cursor for different artificial intelligence models and platforms...",

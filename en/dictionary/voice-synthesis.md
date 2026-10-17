@@ -34,7 +34,7 @@ Yes, technically they express the same concept; one defines the general process,
 - [Voice Cloning](https://trescout.com/en/dictionary/voice-cloning/)
 - [Speech Synthesis](https://trescout.com/en/dictionary/speech-synthesis/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/voice-synthesis/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/voice-synthesis/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/voice-synthesis/

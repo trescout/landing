@@ -72,7 +72,7 @@ Man kann es machen, aber es ist nicht praktisch. Die richtige Arbeit wird mit de
 
 - [GO](https://trescout.com/de/discover/go/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/system-programming-language/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/system-programming-language/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/system-programming-language/

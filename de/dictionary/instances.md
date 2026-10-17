@@ -34,7 +34,7 @@ Es wird verwendet, um die Last zu verteilen, die Sicherheit zu erhöhen oder die
 - [Virtual Machines](https://trescout.com/de/dictionary/virtual-machines/)
 - [Runtime](https://trescout.com/de/dictionary/runtime/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/instances/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/instances/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/instances/

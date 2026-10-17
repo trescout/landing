@@ -34,7 +34,7 @@ It does not need the internet because there is a pre-trained, optimized small mo
 - [SLM](https://trescout.com/en/dictionary/slm/)
 - [Offline](https://trescout.com/en/dictionary/offline/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/offline-dictation/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/offline-dictation/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/offline-dictation/

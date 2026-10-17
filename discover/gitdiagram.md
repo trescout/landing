@@ -100,7 +100,7 @@ Evet, arayüz üzerinden tek tıkla şemanın yüksek çözünürlüklü PNG vey
 - [GitHub deposu (ahmedkhaleel2004/gitdiagram) →](https://github.com/ahmedkhaleel2004/gitdiagram)
 - [Gitdiagram Canlı Web Uygulaması →](https://gitdiagram.com)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun güncel teknik mimarisini ve açık kaynak topluluğundaki kullanım pratiklerini özetler. Detaylar için resmi depoya bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun güncel teknik mimarisini ve açık kaynak topluluğundaki kullanım pratiklerini özetler. Detaylar için resmi depoya bakın.
 
 ## İlgili sözlük terimleri
 

@@ -44,7 +44,7 @@ It is at the center of the cybersecurity world due to its impact on digital surv
 
 - [Ghidra](https://trescout.com/en/discover/ghidra/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/nsa/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/nsa/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/nsa/

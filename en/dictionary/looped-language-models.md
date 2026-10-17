@@ -39,7 +39,7 @@ No. A maximum loop limit is set in the systems to prevent resource consumption.
 - [Looped Transformer](https://trescout.com/en/dictionary/looped-transformer/)
 - [Inference](https://trescout.com/en/dictionary/inference/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/looped-language-models/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/looped-language-models/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/looped-language-models/

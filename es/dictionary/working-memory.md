@@ -61,7 +61,7 @@ Sí. Es un espacio temporal, no se espera persistencia. La información permanen
 - [Context Window](https://trescout.com/es/dictionary/context-window/)
 - [Long-term Memory](https://trescout.com/es/dictionary/long-term-memory/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/working-memory/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/working-memory/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/working-memory/

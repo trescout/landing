@@ -46,7 +46,7 @@ Quando as tarefas se tornam muito complexas, modelos especializados menores se c
 - [AI Berkshire](https://trescout.com/pt/discover/ai-berkshire/)
 - [Openrig](https://trescout.com/pt/discover/openrig/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multi-agent/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/multi-agent/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/multi-agent/

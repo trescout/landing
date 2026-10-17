@@ -39,7 +39,7 @@ No, solo se comparte una confirmación digital de que su identidad ha sido verif
 
 - [Logto](https://trescout.com/es/discover/logto/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/oidc/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/oidc/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/oidc/

@@ -44,7 +44,7 @@ No, se requiere un mantenimiento y actualizaciones constantes para que el softwa
 - [Modern Software Dev Assignments](https://trescout.com/es/discover/modern-software-dev-assignments/)
 - [U3 SDK](https://trescout.com/es/discover/u3-sdk/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/software-development/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/software-development/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/software-development/

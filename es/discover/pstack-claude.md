@@ -2,16 +2,16 @@
 
 Pstack-claude es una biblioteca de automatización que adapta las funciones principales de la herramienta de desarrollo de software Cursor para diferentes modelos y plataformas de inteligencia artificial. Permite a los desarrolladores ejecutar flujos de trabajo de agentes de inteligencia artificial complejos de manera estándar en varios entornos de ejecución.
 
-- ★ 2.711
+- ★ 2.721
 - JavaScript
 - GitHub Trending · 2026-10-05
 
 ## Actualizaciones
 
+- **17 de octubre de 2026:** Estrellas 2,711 → 2,721, última versión v0.9.92 (17 de octubre de 2026).
 - **17 de octubre de 2026:** Estrellas 2,562 → 2,711, última versión v0.9.90 (16 de octubre de 2026).
 - **16 de octubre de 2026:** Estrellas 1,926 → 2,562, última versión v0.9.86 (15 de octubre de 2026).
 - **13 de octubre de 2026:** Estrellas 1,917 → 1,926, última versión v0.9.84 (13 de octubre de 2026).
-- **13 de octubre de 2026:** Estrellas 1,825 → 1,917, última versión v0.9.83 (13 de octubre de 2026).
 
 ## Qué aporta
 
@@ -38,7 +38,7 @@ Puedes comenzar ejecutando los comandos de complemento correspondientes a travé
 - [Repositorio en GitHub →](https://github.com/michael-denyer/pstack-claude)
 - [Leer en turco →](https://trescout.com/discover/pstack-claude/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-10-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/pstack-claude/

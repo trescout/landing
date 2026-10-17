@@ -75,7 +75,7 @@ En su forma más simple, sí. Incluso un solo informe de hoja de cálculo es un 
 - [WrenAI](https://trescout.com/es/discover/wrenai/)
 - [Ossie](https://trescout.com/es/discover/ossie/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/bi/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/bi/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/bi/

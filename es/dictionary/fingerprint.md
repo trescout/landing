@@ -42,7 +42,7 @@ Se considera legal con fines de seguridad y prevención de fraudes; sin embargo,
 - [Web Scraping](https://trescout.com/es/dictionary/web-scraping/)
 - [Stealth Headless Browser](https://trescout.com/es/dictionary/stealth-headless-browser/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/fingerprint/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/fingerprint/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/fingerprint/

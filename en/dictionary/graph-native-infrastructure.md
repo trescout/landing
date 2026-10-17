@@ -38,7 +38,7 @@ This structure is much faster if you need to query deep and complex relationship
 
 - [Semantica](https://trescout.com/en/discover/semantica/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/graph-native-infrastructure/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/graph-native-infrastructure/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/graph-native-infrastructure/

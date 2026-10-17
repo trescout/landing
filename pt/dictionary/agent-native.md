@@ -39,7 +39,7 @@ Por serem autônomos, possuem uma margem de erro, por isso muitas vezes operam s
 - [CLI-Anything](https://trescout.com/pt/discover/cli-anything/)
 - [Agent Native](https://trescout.com/pt/discover/agent-native/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-native/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-native/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent-native/

@@ -38,7 +38,7 @@ Como existem tantas palavras em japonês que têm o mesmo som, mas têm signific
 
 - [Karukan](https://trescout.com/pt/discover/karukan/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/neural-kana-kanji-conversion-engine/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/neural-kana-kanji-conversion-engine/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/neural-kana-kanji-conversion-engine/

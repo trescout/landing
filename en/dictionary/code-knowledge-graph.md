@@ -39,7 +39,7 @@ It prevents the AI from making incomplete or erroneous inferences about the code
 - [Code Intelligence Graph](https://trescout.com/en/dictionary/code-intelligence-graph/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-knowledge-graph/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/code-knowledge-graph/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/code-knowledge-graph/

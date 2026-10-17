@@ -38,7 +38,7 @@ Construir a imagem passo a passo requer intenso poder de processamento, pois req
 - [Multimodal](https://trescout.com/pt/dictionary/multimodal/)
 - [Text-to-Speech](https://trescout.com/pt/dictionary/text-to-speech/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/diffusion-model/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/diffusion-model/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/diffusion-model/

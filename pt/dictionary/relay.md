@@ -38,7 +38,7 @@ O relé evita que a conexão seja perdida quando a distância é muito grande ou
 
 - [Croc](https://trescout.com/pt/discover/croc/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/relay/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/relay/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/relay/

@@ -41,7 +41,7 @@ O sistema percebe que você definiu o estado errado e geralmente volta ao antigo
 
 - [Argo Cd](https://trescout.com/pt/discover/argo-cd/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/declarative-continuous-deployment/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/declarative-continuous-deployment/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/declarative-continuous-deployment/

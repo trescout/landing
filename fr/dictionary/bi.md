@@ -75,7 +75,7 @@ Dans sa forme simple, oui. Même un seul rapport sur tableur est un début de BI
 - [WrenAI](https://trescout.com/fr/discover/wrenai/)
 - [Ossie](https://trescout.com/fr/discover/ossie/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/bi/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/bi/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/bi/

@@ -38,7 +38,7 @@ Des modèles tels que GPT-4o ou Claude 3.5 sont des modèles phares dotés de ca
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [Generative AI](https://trescout.com/fr/dictionary/generative-ai/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/multimodal-model/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/multimodal-model/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/multimodal-model/

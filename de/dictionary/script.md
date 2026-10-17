@@ -77,7 +77,7 @@ Skripte mit bekannter Herkunft ja. Ein aus dem Internet heruntergeladenes Skript
 - [Meshery](https://trescout.com/de/discover/meshery/)
 - [Tradingview MCP](https://trescout.com/de/discover/tradingview-mcp/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/script/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/script/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/script/

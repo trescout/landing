@@ -82,7 +82,7 @@ Même si quelques serveurs du réseau tombent en panne, la majorité restante es
 - [Elasticsearch](https://trescout.com/fr/discover/elasticsearch/)
 - [Cassandra](https://trescout.com/fr/discover/cassandra/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/distributed/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/distributed/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/distributed/

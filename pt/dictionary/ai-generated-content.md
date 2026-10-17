@@ -38,7 +38,7 @@ Não, a inteligência artificial às vezes pode produzir informações falsas (a
 - [Prompt Engineering](https://trescout.com/pt/dictionary/prompt-engineering/)
 - [Hallucination](https://trescout.com/pt/dictionary/hallucination/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-generated-content/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-generated-content/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-generated-content/

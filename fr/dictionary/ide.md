@@ -49,7 +49,7 @@ Certains IDE se concentrent sur des langages spécifiques, tandis que d'autres p
 - [Continue](https://trescout.com/fr/discover/continue/)
 - [Checkstyle](https://trescout.com/fr/discover/checkstyle/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/ide/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/ide/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/ide/

@@ -39,7 +39,7 @@ Sim, em modelos de pesos abertos (open weights), esses valores numéricos são d
 - [Fine-tuning](https://trescout.com/pt/dictionary/fine-tuning/)
 - [GGUF](https://trescout.com/pt/dictionary/gguf/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/weights/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/weights/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/weights/

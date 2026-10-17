@@ -69,7 +69,7 @@ Práctico para distribución, no obligatorio. La distribución web y empresarial
 - [GUI](https://trescout.com/es/dictionary/gui/)
 - [Runtime](https://trescout.com/es/dictionary/runtime/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/application/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/application/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/application/

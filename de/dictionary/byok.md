@@ -73,7 +73,7 @@ Es fallen Kassen- und Verwaltungsgebühren an. Bei kritischen Daten zahlt es sic
 - [holaOS](https://trescout.com/de/discover/holaos/)
 - [Copilot SDK](https://trescout.com/de/discover/copilot-sdk/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/byok/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/byok/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/byok/

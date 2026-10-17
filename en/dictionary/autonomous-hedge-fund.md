@@ -42,7 +42,7 @@ They generally define the operating rules of the system, set risk limits, and mo
 
 - [AutoHedge](https://trescout.com/en/discover/autohedge/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/autonomous-hedge-fund/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/autonomous-hedge-fund/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/autonomous-hedge-fund/

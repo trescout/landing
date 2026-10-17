@@ -60,7 +60,7 @@ Oui. Il y a des frais de transfert et de stockage des données. C'est pourquoi, 
 - [Observability](https://trescout.com/fr/dictionary/observability/)
 - [Traces](https://trescout.com/fr/dictionary/traces/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/telemetry/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/telemetry/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/telemetry/

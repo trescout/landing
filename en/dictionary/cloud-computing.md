@@ -82,7 +82,7 @@ By using open-source standards (Docker containers, Kubernetes), independent data
 
 - [DevOps-Interview-Guide](https://trescout.com/en/discover/devops-interview-guide/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cloud-computing/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cloud-computing/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cloud-computing/

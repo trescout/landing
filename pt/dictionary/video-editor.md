@@ -43,7 +43,7 @@ Ele pode cortar, excluir automaticamente o ruído de fundo ou recomendar música
 - [Palmier Pro](https://trescout.com/pt/discover/palmier-pro/)
 - [Clypra](https://trescout.com/pt/discover/clypra/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/video-editor/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/video-editor/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/video-editor/

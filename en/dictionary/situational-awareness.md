@@ -42,7 +42,7 @@ Humans are intuitive, while AIs rely entirely on mathematical calculations and s
 
 - [Worldmonitor](https://trescout.com/en/discover/worldmonitor/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/situational-awareness/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/situational-awareness/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/situational-awareness/

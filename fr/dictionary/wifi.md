@@ -44,7 +44,7 @@ C'est assez sécurisé si vous utilisez un cryptage fort (comme WPA3).
 
 - [RuView](https://trescout.com/fr/discover/ruview/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/wifi/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/wifi/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/wifi/

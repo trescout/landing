@@ -50,7 +50,7 @@ Sim, eles podem gerenciar seus arquivos ou executar seus aplicativos se você co
 - [Agent Skills](https://trescout.com/pt/discover/agent-skills/)
 - [Taste Skill](https://trescout.com/pt/discover/taste-skill/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent/

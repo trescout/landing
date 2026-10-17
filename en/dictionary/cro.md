@@ -40,7 +40,7 @@ It is a process that requires patience as there are testing processes and data c
 
 - [Marketingskills](https://trescout.com/en/discover/marketingskills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cro/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/cro/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cro/

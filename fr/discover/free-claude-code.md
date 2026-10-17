@@ -2,16 +2,16 @@
 
 Développé par Alishahryar1, free-claude-code offre un accès gratuit aux modèles d'intelligence artificielle tels que Claude Code et Codex via un terminal, une application ou un environnement de développement (IDE). Cet outil open source s'intègre aux plates-formes offrant une prise en charge des commandes vocales, telles qu'OpenClaw, permettant aux utilisateurs d'utiliser les capacités d'intelligence artificielle sur différents appareils.
 
-- ★ 61 103
+- ★ 61 131
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 61,103 → 61,131, dernière version v6.16.11 (17 octobre 2026).
 - **17 octobre 2026:** Étoiles 60,872 → 61,103, dernière version v6.16.10 (17 octobre 2026).
 - **16 octobre 2026:** Étoiles 60,624 → 60,872, dernière version v6.16.9 (16 octobre 2026).
 - **15 octobre 2026:** Étoiles 60,387 → 60,624, dernière version v6.16.7 (15 octobre 2026).
-- **14 octobre 2026:** Étoiles 59,985 → 60,387, dernière version v6.16.6 (14 octobre 2026).
 
 ## Ce que ça vous apporte
 
@@ -61,7 +61,7 @@ Agissez en tant qu'agent de codage pour moi. A l'aide du fournisseur que j'ai co
 - [Dépôt GitHub →](https://github.com/Alishahryar1/free-claude-code)
 - [Lire en turc →](https://trescout.com/discover/free-claude-code/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-04 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/free-claude-code/

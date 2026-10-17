@@ -65,7 +65,7 @@ O modelo avalia a intenção da pergunta contra os esquemas e descrições semâ
 - [System Prompts and Models of AI Tools](https://trescout.com/pt/discover/system-prompts-and-models-of-ai-tools/)
 - [Claude Plugins Official](https://trescout.com/pt/discover/claude-plugins-official/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tools/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tools/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/tools/

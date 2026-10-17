@@ -38,7 +38,7 @@ No, Xcode only runs on Apple's macOS operating system.
 - [Ipatool](https://trescout.com/en/discover/ipatool/)
 - [Xtool](https://trescout.com/en/discover/xtool/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/xcode/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/xcode/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/xcode/

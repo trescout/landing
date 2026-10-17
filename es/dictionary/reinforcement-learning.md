@@ -40,7 +40,7 @@ Porque para que el sistema encuentre la verdad, necesita hacer muchos intentos y
 - [Miles](https://trescout.com/es/discover/miles/)
 - [Microduck Rl](https://trescout.com/es/discover/microduck-rl/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/reinforcement-learning/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/reinforcement-learning/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/reinforcement-learning/

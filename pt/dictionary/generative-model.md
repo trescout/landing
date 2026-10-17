@@ -38,7 +38,7 @@ Não, eles apenas fazem previsões baseadas em probabilidades matemáticas.
 - [LLM](https://trescout.com/pt/dictionary/llm/)
 - [Diffusion Model](https://trescout.com/pt/dictionary/diffusion-model/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/generative-model/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/generative-model/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/generative-model/

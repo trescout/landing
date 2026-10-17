@@ -40,7 +40,7 @@ It binds all companies worldwide that do business with EU citizens.
 - [End-to-End Privacy](https://trescout.com/en/dictionary/end-to-end-privacy/)
 - [Security Scanner](https://trescout.com/en/dictionary/security-scanner/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gdpr/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/gdpr/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/gdpr/

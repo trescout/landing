@@ -40,7 +40,7 @@ No; it covers websites, mobile applications, and all types of digital subscripti
 - [CRO](https://trescout.com/en/dictionary/cro/)
 - [GDPR](https://trescout.com/en/dictionary/gdpr/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/click-to-cancel/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/click-to-cancel/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/click-to-cancel/

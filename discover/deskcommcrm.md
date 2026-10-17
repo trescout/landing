@@ -8,10 +8,10 @@ DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş a
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 4.651 → 4.651, son sürüm v1.85.0 (17 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 4.627 → 4.651, son sürüm v1.84.0 (16 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 4.599 → 4.627, son sürüm v1.83.0 (16 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 4.530 → 4.599, son sürüm v1.81.0 (15 Ekim 2026).
-- **11 Ekim 2026:** Yıldız 4.513 → 4.530, son sürüm v1.80.0 (11 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -48,7 +48,7 @@ DeskcommCRM kurulumunu gerçekleştirdim. WhatsApp üzerinden gelen mesajları k
 
 - [GitHub deposu →](https://github.com/melgarafael/DeskcommCRM)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

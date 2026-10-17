@@ -49,7 +49,7 @@ You can open it with any text editor, but you can read it formatted more easily 
 - [UP](https://trescout.com/en/discover/up/)
 - [Obsidian Skills](https://trescout.com/en/discover/obsidian-skills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/markdown/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/markdown/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/markdown/

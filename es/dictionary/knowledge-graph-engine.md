@@ -42,7 +42,7 @@ Requiere experiencia para configurarlo y administrarlo, pero la información que
 
 - [Cognee](https://trescout.com/es/discover/cognee/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/knowledge-graph-engine/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/knowledge-graph-engine/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/knowledge-graph-engine/

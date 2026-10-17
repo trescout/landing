@@ -44,7 +44,7 @@ It is preferred because it is fast, light and very easy to install.
 - [Bitchat](https://trescout.com/en/discover/bitchat/)
 - [Bitchat Android](https://trescout.com/en/discover/bitchat-android/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/irc/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/irc/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/irc/

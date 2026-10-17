@@ -70,7 +70,7 @@ El entorno del sistema sobrescribe el archivo. El valor en vivo proviene del sis
 
 - [Mise](https://trescout.com/es/discover/mise/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/environment-variables/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/environment-variables/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/environment-variables/

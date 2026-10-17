@@ -65,7 +65,7 @@ Não. O Style Guide é o documento descritivo de regras; o Checkstyle é o anali
 - [Production Pipeline](https://trescout.com/pt/dictionary/production-pipeline/)
 - [TDD](https://trescout.com/pt/dictionary/tdd/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e traduzida do original em turco · a versão em turco prevalece. [Ler em turco →](https://trescout.com/dictionary/google-java-style-guide/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e traduzida do original em turco · a versão em turco prevalece. [Ler em turco →](https://trescout.com/dictionary/google-java-style-guide/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/google-java-style-guide/

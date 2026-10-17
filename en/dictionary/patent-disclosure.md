@@ -61,7 +61,7 @@ Open-source licenses (such as Apache 2.0) also grant patent rights to users; fur
 
 - [Patent Disclosure Skill](https://trescout.com/en/discover/patent-disclosure-skill/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/patent-disclosure/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/patent-disclosure/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/patent-disclosure/

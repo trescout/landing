@@ -70,7 +70,7 @@ Serrures profondément encastrées. S'il est conservé à la frontière, il sera
 
 - [Cordis](https://trescout.com/fr/discover/cordis/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/meta-framework/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/meta-framework/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/meta-framework/

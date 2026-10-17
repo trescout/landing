@@ -38,7 +38,7 @@ It is the most important visual stage that ensures models look realistic and con
 - [Rendering](https://trescout.com/en/dictionary/rendering/)
 - [Assets](https://trescout.com/en/dictionary/assets/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/texture-painting/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/texture-painting/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/texture-painting/

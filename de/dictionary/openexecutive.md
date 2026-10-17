@@ -68,7 +68,7 @@ Es ist die Freiheit zu kontrollieren und anzupassen. Sie sind für das Hosting v
 - [Enterprise Resource Planning](https://trescout.com/de/dictionary/enterprise-resource-planning/)
 - [Agentic System](https://trescout.com/de/dictionary/agentic-system/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/openexecutive/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/openexecutive/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/openexecutive/

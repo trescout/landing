@@ -73,7 +73,7 @@ Parce que grâce à l'Architecture de Mémoire Unifiée, d'immenses pools de mé
 - [Palmier Pro](https://trescout.com/fr/discover/palmier-pro/)
 - [Openmed](https://trescout.com/fr/discover/openmed/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/apple-silicon/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/apple-silicon/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/apple-silicon/

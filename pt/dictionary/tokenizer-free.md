@@ -43,7 +43,7 @@ Os sistemas baseados em tokens possuem atualmente uma infraestrutura muito mais 
 
 - [VoxCPM](https://trescout.com/pt/discover/voxcpm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tokenizer-free/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/tokenizer-free/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/tokenizer-free/

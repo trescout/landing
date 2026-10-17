@@ -38,7 +38,7 @@ Ele pode produzir texto em vários idiomas do mundo, dependendo dos dados nos qu
 - [Generative AI](https://trescout.com/pt/dictionary/generative-ai/)
 - [Prompt](https://trescout.com/pt/dictionary/prompt/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-generation-model/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/text-generation-model/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/text-generation-model/

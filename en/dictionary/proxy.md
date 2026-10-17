@@ -76,7 +76,7 @@ On cached content yes, on encrypted and remote traffic it generally slows it dow
 - [User Scanner](https://trescout.com/en/discover/user-scanner/)
 - [OpenFlux](https://trescout.com/en/discover/openflux/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/proxy/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/proxy/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/proxy/

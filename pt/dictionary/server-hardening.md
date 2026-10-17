@@ -38,7 +38,7 @@ Deve ser constantemente revisado quando forem feitas atualizações do sistema e
 
 - [How-To-Secure-A-Linux-Server](https://trescout.com/pt/discover/how-to-secure-a-linux-server/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/server-hardening/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/server-hardening/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/server-hardening/

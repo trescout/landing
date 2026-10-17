@@ -33,7 +33,7 @@ Não, também é usado na ciência da computação para corresponder objetos, co
 - [Data Processing](https://trescout.com/pt/dictionary/data-processing/)
 - [Computer Science](https://trescout.com/pt/dictionary/computer-science/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/stable-marriage-algorithm/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/stable-marriage-algorithm/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/stable-marriage-algorithm/

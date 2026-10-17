@@ -66,7 +66,7 @@ No; Today, images (Vision Transformer), audio files (Whisper), video production 
 - [Heretic](https://trescout.com/en/discover/heretic/)
 - [Train LLM from Scratch](https://trescout.com/en/discover/train-llm-from-scratch/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/transformer/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/transformer/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/transformer/

@@ -49,7 +49,7 @@ Sim, mas a inclusão de alterações no projeto principal geralmente depende da 
 - [claude-mem](https://trescout.com/pt/discover/claude-mem/)
 - [Opencv](https://trescout.com/pt/discover/opencv/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-source/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/open-source/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/open-source/

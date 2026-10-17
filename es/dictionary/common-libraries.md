@@ -38,7 +38,7 @@ Sí, puedes empaquetar los códigos que usas con frecuencia y reutilizarlos en t
 - [Framework](https://trescout.com/es/dictionary/framework/)
 - [Tools](https://trescout.com/es/dictionary/tools/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/common-libraries/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/common-libraries/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/common-libraries/

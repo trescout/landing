@@ -43,7 +43,7 @@ It is usually very successful, but it is always recommended to have it reviewed 
 
 - [Oh My Pi](https://trescout.com/en/discover/oh-my-pi/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-coding-agent/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-coding-agent/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-coding-agent/

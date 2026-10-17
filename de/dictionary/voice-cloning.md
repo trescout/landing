@@ -44,7 +44,7 @@ Moderne Modelle können bereits mit wenigen Sekunden sauberer Aufnahme sehr gute
 - [VoxCPM](https://trescout.com/de/discover/voxcpm/)
 - [Voice Pro](https://trescout.com/de/discover/voice-pro/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/voice-cloning/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/voice-cloning/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/voice-cloning/

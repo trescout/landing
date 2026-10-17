@@ -40,7 +40,7 @@ Por lo general, se ofrece una cuota de uso gratuito determinada. Sin embargo, pa
 - [AI Agent](https://trescout.com/es/dictionary/ai-agent/)
 - [Knowledge Graph](https://trescout.com/es/dictionary/knowledge-graph/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/web-search-api/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/web-search-api/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/web-search-api/

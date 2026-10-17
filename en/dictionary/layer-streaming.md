@@ -70,7 +70,7 @@ With First Contentful Paint and Time to Interactive. Not the total download.
 
 - [Soup](https://trescout.com/en/discover/soup/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/layer-streaming/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/layer-streaming/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/layer-streaming/

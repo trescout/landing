@@ -78,7 +78,7 @@ Comandos de leitura não causam. Nos comandos que excluem e escrevem, o caminho 
 - [Openinterpreter](https://trescout.com/pt/discover/openinterpreter/)
 - [Free Claude Code](https://trescout.com/pt/discover/free-claude-code/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/terminal/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/terminal/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/terminal/

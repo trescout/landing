@@ -71,7 +71,7 @@ The startup keeps the tour short and flexible, adding a layer of corporate appro
 - [AI Engineering](https://trescout.com/en/dictionary/ai-engineering/)
 - [Engineering Skills](https://trescout.com/en/dictionary/engineering-skills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/product-development-cycle/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/product-development-cycle/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/product-development-cycle/

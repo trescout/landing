@@ -41,7 +41,7 @@ Graças às ferramentas de visualização, qualquer pessoa que entenda de lógic
 
 - [Flowsint](https://trescout.com/pt/discover/flowsint/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/graph-based-investigation/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/graph-based-investigation/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/graph-based-investigation/

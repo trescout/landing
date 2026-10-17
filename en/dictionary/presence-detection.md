@@ -37,7 +37,7 @@ Various methods can be used, such as infrared, camera, Bluetooth or Wi-Fi signal
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 - [Physical AI](https://trescout.com/en/dictionary/physical-ai/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/presence-detection/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/presence-detection/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/presence-detection/

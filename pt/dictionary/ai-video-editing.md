@@ -38,7 +38,7 @@ Ele é visto mais como um copiloto que facilita seu trabalho.
 - [Generative AI](https://trescout.com/pt/dictionary/generative-ai/)
 - [Multimodal](https://trescout.com/pt/dictionary/multimodal/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-video-editing/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-video-editing/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-video-editing/

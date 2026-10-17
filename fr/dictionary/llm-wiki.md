@@ -39,7 +39,7 @@ Oui, vous pouvez spécialiser votre IA en créant vos propres documents ou bases
 - [LLM](https://trescout.com/fr/dictionary/llm/)
 - [AI Agent](https://trescout.com/fr/dictionary/ai-agent/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/llm-wiki/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/llm-wiki/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/llm-wiki/

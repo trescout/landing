@@ -43,7 +43,7 @@ Ja, es wird normalerweise vom Entwickler mithilfe von Testtools automatisiert.
 - [Catch2](https://trescout.com/de/discover/catch2/)
 - [Pytest](https://trescout.com/de/discover/pytest/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/unit-testing/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/unit-testing/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/unit-testing/

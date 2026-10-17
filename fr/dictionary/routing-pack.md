@@ -67,7 +67,7 @@ Dans les réseaux d'entreprise, les protocoles sont protégés par l'authentific
 
 - [Reverse Skill](https://trescout.com/fr/discover/reverse-skill/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/routing-pack/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/routing-pack/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/routing-pack/

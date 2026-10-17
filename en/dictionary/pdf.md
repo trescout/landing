@@ -50,7 +50,7 @@ It reads the PDF by converting it into text with special tools (parsers) that pa
 - [MinerU](https://trescout.com/en/discover/mineru/)
 - [ChinaTextbook](https://trescout.com/en/discover/chinatextbook/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/pdf/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/pdf/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/pdf/

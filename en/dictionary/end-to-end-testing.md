@@ -76,7 +76,7 @@ It breaks when the interface changes. It is written selectively and durable.
 - [Cypress](https://trescout.com/en/discover/cypress/)
 - [E2e](https://trescout.com/en/discover/e2e/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/end-to-end-testing/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/end-to-end-testing/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/end-to-end-testing/

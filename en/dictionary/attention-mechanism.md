@@ -34,7 +34,7 @@ Because it prevents artificial intelligence from missing the context of the sent
 - [Attention](https://trescout.com/en/dictionary/attention/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/attention-mechanism/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/attention-mechanism/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/attention-mechanism/

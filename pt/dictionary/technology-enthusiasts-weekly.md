@@ -38,7 +38,7 @@ Como a tecnologia muda tão rapidamente, economiza muito tempo ao fornecer um re
 - [AI Engineering](https://trescout.com/pt/dictionary/ai-engineering/)
 - [Best Practices](https://trescout.com/pt/dictionary/best-practices/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/technology-enthusiasts-weekly/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/technology-enthusiasts-weekly/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/technology-enthusiasts-weekly/

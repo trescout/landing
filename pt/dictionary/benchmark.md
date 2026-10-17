@@ -75,7 +75,7 @@ Depende da tarefa: Acurácia, velocidade e custo são analisados em conjunto. Um
 - [SIA](https://trescout.com/pt/discover/sia/)
 - [Harvey Labs](https://trescout.com/pt/discover/harvey-labs/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/benchmark/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/benchmark/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/benchmark/

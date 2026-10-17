@@ -84,7 +84,7 @@ Es unterteilt Geschäftsprozesse in lokale Transaktionen und führt bei Fehlern 
 - [Elasticsearch](https://trescout.com/de/discover/elasticsearch/)
 - [Cassandra](https://trescout.com/de/discover/cassandra/)
 
-Diese Erklärung wurde in einfacher Sprache für TreScout verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/distributed/)
+Diese Erklärung wurde in einfacher Sprache für TreScout mit KI verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/distributed/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/distributed/

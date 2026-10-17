@@ -44,7 +44,7 @@ Modern models can produce very successful results with even a few seconds of cle
 - [VoxCPM](https://trescout.com/en/discover/voxcpm/)
 - [Voice Pro](https://trescout.com/en/discover/voice-pro/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/voice-cloning/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/voice-cloning/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/voice-cloning/

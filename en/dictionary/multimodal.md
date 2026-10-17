@@ -46,7 +46,7 @@ Yes, they can understand what is in the content by analyzing videos frame by fra
 - [Patent Disclosure Skill](https://trescout.com/en/discover/patent-disclosure-skill/)
 - [ODS](https://trescout.com/en/discover/ods/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multimodal/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multimodal/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/multimodal/

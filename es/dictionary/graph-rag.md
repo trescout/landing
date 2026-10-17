@@ -40,7 +40,7 @@ Graph RAG funciona mucho mejor si tiene jerarquías complejas o múltiples conex
 
 - [GitNexus](https://trescout.com/es/discover/gitnexus/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/graph-rag/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/graph-rag/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/graph-rag/

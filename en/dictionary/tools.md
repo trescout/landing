@@ -78,7 +78,7 @@ A tool is generally a simple function call serving a single purpose (e.g., query
 - [Claude Plugins Official](https://trescout.com/en/discover/claude-plugins-official/)
 - [Treg](https://trescout.com/en/discover/treg/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tools/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tools/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/tools/

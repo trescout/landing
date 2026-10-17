@@ -37,7 +37,7 @@ Vous pouvez vous en débarrasser en désactivant l'application dans le menu des 
 
 - [optimizerDuck](https://trescout.com/fr/discover/optimizerduck/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/bloatware/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/bloatware/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/bloatware/

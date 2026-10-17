@@ -48,7 +48,7 @@ Permite que los códigos escritos por diferentes equipos se integren sin problem
 - [Page Agent](https://trescout.com/es/discover/page-agent/)
 - [Tuicr](https://trescout.com/es/discover/tuicr/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/interface/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/interface/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/interface/

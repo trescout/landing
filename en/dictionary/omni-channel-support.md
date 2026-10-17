@@ -38,7 +38,7 @@ A strong central database and integrated software infrastructure that feeds all 
 - [Omni-channel Desk](https://trescout.com/en/dictionary/omni-channel-desk/)
 - [Enterprise Resource Planning](https://trescout.com/en/dictionary/enterprise-resource-planning/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/omni-channel-support/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/omni-channel-support/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/omni-channel-support/

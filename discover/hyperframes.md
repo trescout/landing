@@ -2,16 +2,16 @@
 
 Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.
 
-- ★ 65.519
+- ★ 65.605
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 65.519 → 65.605, son sürüm v0.8.168 (17 Ekim 2026).
 - **17 Ekim 2026:** Yıldız 64.870 → 65.519, son sürüm v0.8.167 (17 Ekim 2026).
 - **16 Ekim 2026:** Yıldız 64.164 → 64.870, son sürüm v0.8.164 (16 Ekim 2026).
 - **15 Ekim 2026:** Yıldız 64.018 → 64.164, son sürüm v0.8.162 (15 Ekim 2026).
-- **15 Ekim 2026:** Yıldız 63.171 → 64.018, son sürüm v0.8.161 (15 Ekim 2026).
 
 ## Ne kazandırır?
 
@@ -58,7 +58,7 @@ Using /hyperframes, create a 10-second product intro with a fade-in title, a bac
 
 - [GitHub deposu →](https://github.com/heygen-com/hyperframes)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-06-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

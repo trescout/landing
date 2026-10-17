@@ -42,7 +42,7 @@ Although it may seem like it slows down at first, it saves time overall as it re
 - [Everything Claude Code](https://trescout.com/en/discover/everything-claude-code/)
 - [Babysitter](https://trescout.com/en/discover/babysitter/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tdd/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tdd/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/tdd/

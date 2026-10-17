@@ -38,7 +38,7 @@ It is to enable the user to achieve what he wants with less effort in the applic
 - [AI Agent](https://trescout.com/en/dictionary/ai-agent/)
 - [Generative UI](https://trescout.com/en/dictionary/generative-ui/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/session-intelligence/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/session-intelligence/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/session-intelligence/

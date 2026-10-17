@@ -38,7 +38,7 @@ Este método es la forma más eficaz si las relaciones entre los datos son tan i
 
 - [Semantica](https://trescout.com/es/discover/semantica/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/graph-native/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/graph-native/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/graph-native/

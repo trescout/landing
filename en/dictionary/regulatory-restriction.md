@@ -52,7 +52,7 @@ Under GDPR, fines of up to 4% of annual global turnover, complete bans of the pr
 - [AI Models](https://trescout.com/en/dictionary/ai-models/)
 - [Secrets](https://trescout.com/en/dictionary/secrets/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/regulatory-restriction/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/regulatory-restriction/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/regulatory-restriction/

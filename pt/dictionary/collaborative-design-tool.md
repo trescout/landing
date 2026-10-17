@@ -39,7 +39,7 @@ Como a maioria é baseada na nuvem, eles exigem uma conexão ativa com a Interne
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
 - [User Experience](https://trescout.com/pt/dictionary/user-experience/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/collaborative-design-tool/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/collaborative-design-tool/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/collaborative-design-tool/

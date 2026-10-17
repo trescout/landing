@@ -82,7 +82,7 @@ Even if a few of the servers in the network go down, the remaining majority is u
 - [Elasticsearch](https://trescout.com/en/discover/elasticsearch/)
 - [Cassandra](https://trescout.com/en/discover/cassandra/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/distributed/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/distributed/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/distributed/

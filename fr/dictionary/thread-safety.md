@@ -69,7 +69,7 @@ C'est difficile à détecter, car l'erreur dépend du timing. On utilise des tes
 - [Concurrency](https://trescout.com/fr/dictionary/concurrency/)
 - [System Programming Language](https://trescout.com/fr/dictionary/system-programming-language/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/thread-safety/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/thread-safety/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/thread-safety/

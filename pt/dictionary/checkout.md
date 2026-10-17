@@ -52,7 +52,7 @@ Garante que mesmo que a conexão caia e a requisição seja reenviada pelo clien
 
 - [Checkout](https://trescout.com/pt/discover/checkout/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/checkout/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/checkout/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/checkout/

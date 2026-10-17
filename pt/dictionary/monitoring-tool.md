@@ -34,7 +34,7 @@ Para que você perceba e corrija antes que seus usuários notem que o site está
 - [Dashboard](https://trescout.com/pt/dictionary/dashboard/)
 - [Logs](https://trescout.com/pt/dictionary/logs/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/monitoring-tool/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/monitoring-tool/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/monitoring-tool/

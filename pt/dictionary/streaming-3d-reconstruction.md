@@ -39,7 +39,7 @@ Embora o LiDAR ou câmeras de profundidade acelerem o processo, graças a algori
 - [Spatial Intelligence](https://trescout.com/pt/dictionary/spatial-intelligence/)
 - [Physical AI](https://trescout.com/pt/dictionary/physical-ai/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/streaming-3d-reconstruction/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/streaming-3d-reconstruction/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/streaming-3d-reconstruction/

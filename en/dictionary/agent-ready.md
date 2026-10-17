@@ -42,7 +42,7 @@ Yes, but since the system has autonomous powers, it is important to determine th
 
 - [Astryx](https://trescout.com/en/discover/astryx/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent-ready/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/agent-ready/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agent-ready/

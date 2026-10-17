@@ -34,7 +34,7 @@ Eles se comunicam por meio de um protocolo comum ou linguagem de mensagens.
 - [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
 - [Swarm Intelligence](https://trescout.com/pt/dictionary/swarm-intelligence/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-fleets/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-fleets/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent-fleets/

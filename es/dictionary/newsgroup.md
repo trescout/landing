@@ -37,7 +37,7 @@ Requiere software cliente especial que funcione a través del protocolo NNTP.
 - [Communications Operating System](https://trescout.com/es/dictionary/communications-operating-system/)
 - [IRC](https://trescout.com/es/dictionary/irc/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/newsgroup/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/newsgroup/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/newsgroup/

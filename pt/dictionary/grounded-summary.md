@@ -38,7 +38,7 @@ Se o texto fonte for impreciso, o resumo também será impreciso, mas minimiza a
 - [RAG](https://trescout.com/pt/dictionary/rag/)
 - [Document Parsing](https://trescout.com/pt/dictionary/document-parsing/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/grounded-summary/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/grounded-summary/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/grounded-summary/

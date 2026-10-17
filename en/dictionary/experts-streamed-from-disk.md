@@ -38,7 +38,7 @@ The model must be designed with this architecture; that is, it must have a fragm
 - [RAM](https://trescout.com/en/dictionary/ram/)
 - [Inference Engine](https://trescout.com/en/dictionary/inference-engine/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/experts-streamed-from-disk/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/experts-streamed-from-disk/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/experts-streamed-from-disk/

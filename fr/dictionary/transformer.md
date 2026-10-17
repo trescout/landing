@@ -66,7 +66,7 @@ Non ; aujourd'hui, les images (Vision Transformer), les fichiers audio (Whisper)
 - [Heretic](https://trescout.com/fr/discover/heretic/)
 - [Train LLM from Scratch](https://trescout.com/fr/discover/train-llm-from-scratch/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/transformer/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/transformer/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/transformer/

@@ -33,7 +33,7 @@ The application reduces the image quality or makes short pauses to prevent the f
 - [Data Pipeline](https://trescout.com/en/dictionary/data-pipeline/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/streaming-applications/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/streaming-applications/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/streaming-applications/

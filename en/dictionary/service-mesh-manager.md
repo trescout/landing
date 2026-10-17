@@ -66,7 +66,7 @@ There is a resource and learning cost. It pays off when complexity grows.
 - [Cloud Native](https://trescout.com/en/dictionary/cloud-native/)
 - [Observability](https://trescout.com/en/dictionary/observability/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/service-mesh-manager/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/service-mesh-manager/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/service-mesh-manager/

@@ -38,7 +38,7 @@ It generally supports all popular programming languages.
 - [IDE](https://trescout.com/en/dictionary/ide/)
 - [Coding Assistant](https://trescout.com/en/dictionary/coding-assistant/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-code-editor/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/ai-code-editor/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-code-editor/

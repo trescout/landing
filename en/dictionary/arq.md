@@ -36,7 +36,7 @@ Yes, resending faulty packages can slow down the process a bit.
 - [DNS Tunneling](https://trescout.com/en/dictionary/dns-tunneling/)
 - [Computer Science](https://trescout.com/en/dictionary/computer-science/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/arq/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/arq/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/arq/

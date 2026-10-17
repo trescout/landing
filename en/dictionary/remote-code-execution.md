@@ -36,7 +36,7 @@ The best way to protect yourself is to always keep your software up to date and 
 - [Vulnerability Scanning](https://trescout.com/en/dictionary/vulnerability-scanning/)
 - [Cybersecurity Skills](https://trescout.com/en/dictionary/cybersecurity-skills/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/remote-code-execution/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/remote-code-execution/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/remote-code-execution/

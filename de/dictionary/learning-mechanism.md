@@ -34,7 +34,7 @@ Ja, wenn das System entsprechend ausgelegt ist, ansonsten funktioniert es nur w�
 - [Deep Learning](https://trescout.com/de/dictionary/deep-learning/)
 - [Continuous Learning](https://trescout.com/de/dictionary/continuous-learning/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/learning-mechanism/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/learning-mechanism/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/learning-mechanism/

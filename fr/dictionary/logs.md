@@ -72,7 +72,7 @@ Non. Les mots de passe et les identifiants ne sont pas enregistrés, ils sont ma
 - [Grafana](https://trescout.com/fr/discover/grafana/)
 - [Modly](https://trescout.com/fr/discover/modly/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/logs/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/logs/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/logs/

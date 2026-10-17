@@ -42,7 +42,7 @@ Não, diferentes combinações de ferramentas são selecionadas dependendo do ta
 
 - [CopilotKit](https://trescout.com/pt/discover/copilotkit/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/frontend-stack/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/frontend-stack/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/frontend-stack/

@@ -67,7 +67,7 @@ Comece colocando a aplicação em um contêiner. Depois, adicione verificação 
 
 - [Meshery](https://trescout.com/pt/discover/meshery/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cloud-native/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cloud-native/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cloud-native/

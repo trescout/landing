@@ -41,7 +41,7 @@ Em caso de erro, iniciar todo o processo do zero é perda de tempo e dinheiro.
 
 - [Pg Durable](https://trescout.com/pt/discover/pg-durable/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/durable-execution/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/durable-execution/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/durable-execution/

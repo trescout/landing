@@ -40,7 +40,7 @@ Nein; sie umfasst Websites, mobile Anwendungen und alle Arten von digitalen Abon
 - [CRO](https://trescout.com/de/dictionary/cro/)
 - [GDPR](https://trescout.com/de/dictionary/gdpr/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/click-to-cancel/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/click-to-cancel/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/click-to-cancel/

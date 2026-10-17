@@ -38,7 +38,7 @@ Er blockiert die meisten Werbeanzeigen, aber einige Websites können Werbeblocke
 - [Browser State](https://trescout.com/de/dictionary/browser-state/)
 - [User Experience](https://trescout.com/de/dictionary/user-experience/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ad-blocker/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/ad-blocker/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ad-blocker/

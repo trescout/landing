@@ -52,7 +52,7 @@ Porque es un estándar abierto en texto plano que no caduca y permite consultar 
 - [Digital Privacy](https://trescout.com/es/dictionary/digital-privacy/)
 - [Context](https://trescout.com/es/dictionary/context/)
 
-Esta explicación se redactó en lenguaje llano para TreScout y se **tradujo automáticamente** a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/personal-knowledge-management/)
+Esta explicación se redactó en lenguaje llano para TreScout con IA y se **tradujo automáticamente** a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/personal-knowledge-management/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/personal-knowledge-management/

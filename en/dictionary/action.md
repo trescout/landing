@@ -43,7 +43,7 @@ Prompt is a request, action is the concrete action that takes place as a result 
 - [Claude Code Action](https://trescout.com/en/discover/claude-code-action/)
 - [Embabel Agent](https://trescout.com/en/discover/embabel-agent/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/action/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/action/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/action/

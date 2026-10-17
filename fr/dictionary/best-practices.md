@@ -68,7 +68,7 @@ En période d'accélération, on choisit le minimum : discipline de version, sau
 
 - [Claude Code Best Practice](https://trescout.com/fr/discover/claude-code-best-practice/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/best-practices/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/best-practices/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/best-practices/

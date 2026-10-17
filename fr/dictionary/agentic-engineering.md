@@ -44,7 +44,7 @@ Ils peuvent commettre des erreurs, c'est pourquoi la traçabilité et la sécuri
 - [Kilocode](https://trescout.com/fr/discover/kilocode/)
 - [GLM 5](https://trescout.com/fr/discover/glm-5/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agentic-engineering/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/agentic-engineering/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/agentic-engineering/

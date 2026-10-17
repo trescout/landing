@@ -38,7 +38,7 @@ Não, cada software possui seus próprios padrões específicos.
 - [Framework](https://trescout.com/pt/dictionary/framework/)
 - [API](https://trescout.com/pt/dictionary/api/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/plugin-specification/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/plugin-specification/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/plugin-specification/

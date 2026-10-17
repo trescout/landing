@@ -2,16 +2,16 @@
 
 Hyperframes wurde von Heygen entwickelt und bietet ein Framework, das HTML-Codes direkt in Videos umwandelt. Dieses Tool wurde entwickelt, um Agenten der künstlichen Intelligenz die Erstellung visueller Inhalte zu erleichtern, und konvertiert webbasierte Schnittstellen in ein Videoformat.
 
-- ★ 65.519
+- ★ 65.605
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 65,519 → 65,605, neueste Version v0.8.168 (17. Oktober 2026).
 - **17. Oktober 2026:** Sterne 64,870 → 65,519, neueste Version v0.8.167 (17. Oktober 2026).
 - **16. Oktober 2026:** Sterne 64,164 → 64,870, neueste Version v0.8.164 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 64,018 → 64,164, neueste Version v0.8.162 (15. Oktober 2026).
-- **15. Oktober 2026:** Sterne 63,171 → 64,018, neueste Version v0.8.161 (15. Oktober 2026).
 
 ## Was es bringt
 
@@ -65,7 +65,7 @@ Erstellen Sie mit /hyperframes eine 10-sekündige Produkteinführung mit einem E
 - [GitHub-Repository →](https://github.com/heygen-com/hyperframes)
 - [Auf Türkisch lesen →](https://trescout.com/discover/hyperframes/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-23 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-06-23 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/hyperframes/

@@ -39,7 +39,7 @@ Não, este software é necessário porque é impossível inserir milhares de car
 
 - [Karukan](https://trescout.com/pt/discover/karukan/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/japanese-input-method-system/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/japanese-input-method-system/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/japanese-input-method-system/

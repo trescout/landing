@@ -84,7 +84,7 @@ Executando passos locais sucessivos com rotinas de compensação para desfazer e
 - [Elasticsearch](https://trescout.com/pt/discover/elasticsearch/)
 - [Cassandra](https://trescout.com/pt/discover/cassandra/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/distributed/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/distributed/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/distributed/

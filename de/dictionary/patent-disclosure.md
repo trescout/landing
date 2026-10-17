@@ -51,7 +51,7 @@ Ein Betriebsgeheimnis wird streng verborgen gehalten, bietet aber keinen Schutz 
 - [SBOM](https://trescout.com/de/dictionary/sbom/)
 - [Security Scanner](https://trescout.com/de/dictionary/security-scanner/)
 
-Diese Erklärung wurde in einfacher Sprache für TreScout verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/patent-disclosure/)
+Diese Erklärung wurde in einfacher Sprache für TreScout mit KI verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/patent-disclosure/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/patent-disclosure/

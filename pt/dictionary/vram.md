@@ -42,7 +42,7 @@ O modelo de IA fica muito lento ou para de funcionar com um erro de ‘falta de 
 - [Colibri](https://trescout.com/pt/discover/colibri/)
 - [Airllm](https://trescout.com/pt/discover/airllm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vram/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vram/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vram/

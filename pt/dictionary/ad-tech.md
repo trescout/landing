@@ -40,7 +40,7 @@ Sim, algoritmos de inteligência artificial são usados intensivamente para enco
 - [Data Processing](https://trescout.com/pt/dictionary/data-processing/)
 - [SEO](https://trescout.com/pt/dictionary/seo/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ad-tech/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ad-tech/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ad-tech/

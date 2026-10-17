@@ -43,7 +43,7 @@ Oui, puisqu'il n'y a pas de temps pour récupérer des données sur le réseau, 
 - [Turso](https://trescout.com/fr/discover/turso/)
 - [Zvec](https://trescout.com/fr/discover/zvec/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/in-process/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/in-process/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/in-process/

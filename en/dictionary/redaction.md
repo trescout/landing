@@ -39,7 +39,7 @@ It accelerates the redaction process by automatically recognizing and tagging se
 - [GDPR](https://trescout.com/en/dictionary/gdpr/)
 - [Data Residency](https://trescout.com/en/dictionary/data-residency/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/redaction/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/redaction/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/redaction/

@@ -41,7 +41,7 @@ No, para visualizar contenido HDR se necesitan pantallas compatibles con HDR fab
 - [Sonarr](https://trescout.com/es/discover/sonarr/)
 - [Renodx](https://trescout.com/es/discover/renodx/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/hdr/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/hdr/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/hdr/

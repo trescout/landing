@@ -42,7 +42,7 @@ Sim, mas como o sistema tem poderes autónomos, é importante determinar os limi
 
 - [Astryx](https://trescout.com/pt/discover/astryx/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-ready/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/agent-ready/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent-ready/

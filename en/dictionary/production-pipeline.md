@@ -75,7 +75,7 @@ In a well-designed production pipeline, Blue-Green or Canary deployment methods 
 - [Git Push](https://trescout.com/en/dictionary/git-push/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/production-pipeline/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/production-pipeline/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/production-pipeline/

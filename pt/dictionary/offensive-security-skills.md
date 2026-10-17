@@ -42,7 +42,7 @@ Os métodos são semelhantes, mas o objetivo não é causar danos, e sim tornar 
 
 - [Claude-Red](https://trescout.com/pt/discover/claude-red/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/offensive-security-skills/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/offensive-security-skills/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/offensive-security-skills/

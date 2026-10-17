@@ -34,7 +34,7 @@ Depende de la complejidad del trabajo, pero los modelos locales modernos ahora f
 - [AI Agent](https://trescout.com/es/dictionary/ai-agent/)
 - [Self-hosting](https://trescout.com/es/dictionary/self-hosting/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/local-agent-workflows/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/local-agent-workflows/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/local-agent-workflows/

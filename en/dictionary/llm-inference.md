@@ -38,7 +38,7 @@ The speed and cost of applications depend on how efficiently the inference proce
 - [Inference](https://trescout.com/en/dictionary/inference/)
 - [Generative AI](https://trescout.com/en/dictionary/generative-ai/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/llm-inference/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/llm-inference/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/llm-inference/

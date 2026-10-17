@@ -38,7 +38,7 @@ Il peut être confondu avec le fichier README.md ; Alors que README vous indiqu
 - [Awesome Design Md](https://trescout.com/fr/discover/awesome-design-md/)
 - [Design.md](https://trescout.com/fr/discover/design-md/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/design-md/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/design-md/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/design-md/

@@ -38,7 +38,7 @@ If an error occurs within a group, the system usually reports which data gave th
 - [Inference](https://trescout.com/en/dictionary/inference/)
 - [Runtime](https://trescout.com/en/dictionary/runtime/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/batch-processing/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/batch-processing/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/batch-processing/

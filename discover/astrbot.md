@@ -2,16 +2,16 @@
 
 AstrBot, çeşitli anlık mesajlaşma platformları, büyük dil modelleri (large language models) ve eklentilerle entegre çalışan bir yapay zekâ ajanı geliştirme çerçevesidir (development framework). Python tabanlı bu araç, açık kaynaklı bir alternatif olarak özelleştirilebilir yapay zekâ asistanları oluşturulmasına olanak tanır.
 
-- ★ 41.866
+- ★ 42.041
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
 
+- **17 Ekim 2026:** Yıldız 41.866 → 42.041, son sürüm v4.29.1 (17 Ekim 2026).
 - **14 Ekim 2026:** Yıldız 41.705 → 41.866, son sürüm v4.29.0 (14 Ekim 2026).
 - **11 Ekim 2026:** Yıldız 41.267 → 41.705, son sürüm v4.29.0-beta.2 (10 Ekim 2026).
 - **1 Ekim 2026:** Yıldız 41.143 → 41.267, son sürüm v4.29.0-beta.1 (1 Ekim 2026).
-- **28 Eylül 2026:** Yıldız 40.523 → 41.143, son sürüm v4.28.2 (27 Eylül 2026).
 
 ## Ne kazandırır?
 
@@ -49,7 +49,7 @@ AstrBot kullanarak mesajlaşma platformlarımda özelleştirilebilir bir yapay z
 
 - [GitHub deposu →](https://github.com/AstrBotDevs/AstrBot)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

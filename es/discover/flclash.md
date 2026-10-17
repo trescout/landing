@@ -2,17 +2,17 @@
 
 Choque Fl; Es un cliente proxy multiplataforma basado en ClashMeta. Fue desarrollado con Dart y tiene una estructura de código abierto, fácil de usar y sin publicidad.
 
-- ★ 55.669
+- ★ 56.245
 - Dart
 - GPL-3.0
 - GitHub Trending · 30 May 2026
 
 ## Actualizaciones
 
+- **17 de octubre de 2026:** Estrellas 55,669 → 56,245, última versión v0.9.1 (17 de octubre de 2026).
 - **14 de octubre de 2026:** Estrellas 54,202 → 55,669, última versión v0.9.0 (14 de octubre de 2026).
 - **3 de octubre de 2026:** Estrellas 52,097 → 54,202, última versión v0.8.99 (3 de octubre de 2026).
 - **14 de septiembre de 2026:** Estrellas 51,594 → 52,097, última versión v0.8.98 (14 de septiembre de 2026).
-- **10 de septiembre de 2026:** Estrellas 49,138 → 51,594, última versión v0.8.97 (10 de septiembre de 2026).
 
 *Görsel: FlClash (proje deposundan)*
 
@@ -51,7 +51,7 @@ Quiero utilizar un cliente proxy multiplataforma de código abierto llamado FlCl
 - [Repositorio en GitHub →](https://github.com/chen08209/FlClash)
 - [Leer en turco →](https://trescout.com/discover/flclash/)
 
-TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-30: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
+TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-30: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. El texto de presentación se preparó con IA a partir de la propia documentación del repositorio y esta página se **tradujo automáticamente** del original en turco · prevalece la versión turca.
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/flclash/

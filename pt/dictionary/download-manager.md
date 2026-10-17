@@ -41,7 +41,7 @@ Existem muitas opções gratuitas e de código aberto disponíveis.
 
 - [Motrix](https://trescout.com/pt/discover/motrix/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/download-manager/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/download-manager/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/download-manager/

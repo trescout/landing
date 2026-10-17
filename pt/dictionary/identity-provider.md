@@ -67,7 +67,7 @@ Sim, existem opções de código aberto. A disciplina de patches e backups é de
 - [OIDC](https://trescout.com/pt/dictionary/oidc/)
 - [RBAC](https://trescout.com/pt/dictionary/rbac/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/identity-provider/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/identity-provider/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/identity-provider/

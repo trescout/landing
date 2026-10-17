@@ -42,7 +42,7 @@ Ja, wenn zwei Jobs gleichzeitig miteinander in Konflikt geraten, kann es zu Fehl
 
 - [GO](https://trescout.com/de/discover/go/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/concurrency/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/concurrency/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/concurrency/

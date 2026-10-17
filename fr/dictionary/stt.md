@@ -70,7 +70,7 @@ Oui; Grâce à des moteurs optimisés tels que Whisper.cpp ou Faster-Whisper, vo
 - [Speech to Speech](https://trescout.com/fr/discover/speech-to-speech/)
 - [Transcribe.cpp](https://trescout.com/fr/discover/transcribe-cpp/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/stt/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/stt/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/stt/

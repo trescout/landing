@@ -39,7 +39,7 @@ Oui, il existe des frais de transaction (frais de gaz) payés aux mineurs ou aux
 - [Smart Contracts](https://trescout.com/fr/dictionary/smart-contracts/)
 - [dApps](https://trescout.com/fr/dictionary/dapps/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/dexs/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/dexs/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/dexs/

@@ -40,7 +40,7 @@ Não, os dados não podem ser lidos diretamente por humanos, pois estão em form
 
 - [Protobuf](https://trescout.com/pt/discover/protobuf/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/protocol-buffers/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/protocol-buffers/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/protocol-buffers/

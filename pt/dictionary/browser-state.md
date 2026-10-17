@@ -38,7 +38,7 @@ Ao ler o status do navegador, um agente web pode entender o que o usuário está
 - [Web Interface](https://trescout.com/pt/dictionary/web-interface/)
 - [Local-first](https://trescout.com/pt/dictionary/local-first/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/browser-state/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/browser-state/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/browser-state/

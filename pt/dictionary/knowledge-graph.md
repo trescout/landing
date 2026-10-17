@@ -48,7 +48,7 @@ Ao pesquisar documentos RAG, o gráfico de conhecimento mapeia as relações ló
 - [Codebase Memory MCP](https://trescout.com/pt/discover/codebase-memory-mcp/)
 - [Cognee](https://trescout.com/pt/discover/cognee/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/knowledge-graph/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/knowledge-graph/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/knowledge-graph/

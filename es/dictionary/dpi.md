@@ -67,7 +67,7 @@ La regla general es un valor de 300 DPI. En trabajos que se verán desde la dist
 
 - [OpenLogi](https://trescout.com/es/discover/openlogi/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/dpi/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/dpi/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/dpi/

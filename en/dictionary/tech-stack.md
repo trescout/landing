@@ -79,7 +79,7 @@ It includes React/Next.js in the frontend, Python (FastAPI) or vLLM in the model
 
 - [Clone-Wars](https://trescout.com/en/discover/clone-wars/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tech-stack/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tech-stack/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/tech-stack/

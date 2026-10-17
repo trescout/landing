@@ -34,7 +34,7 @@ Wird oft mit logischen Fehlern verwechselt; während ein Syntaxfehler die Ausfü
 - [Script](https://trescout.com/de/dictionary/script/)
 - [Clean Code](https://trescout.com/de/dictionary/clean-code/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/syntax/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/syntax/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/syntax/

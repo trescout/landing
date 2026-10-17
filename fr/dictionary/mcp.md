@@ -92,7 +92,7 @@ Sa conception est basée sur les autorisations, mais vous devez garder la porté
 - [Chrome Devtools MCP](https://trescout.com/fr/discover/chrome-devtools-mcp/)
 - [Claude Howto](https://trescout.com/fr/discover/claude-howto/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/mcp/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/mcp/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/mcp/

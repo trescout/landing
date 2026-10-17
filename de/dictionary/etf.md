@@ -44,7 +44,7 @@ Sie haben im Allgemeinen niedrige Verwaltungsgebühren, aber Sie zahlen beim Han
 
 - [Free Stockdb](https://trescout.com/de/discover/free-stockdb/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/etf/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/etf/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/etf/

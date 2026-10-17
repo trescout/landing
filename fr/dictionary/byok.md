@@ -73,7 +73,7 @@ Il y a des frais en espèces et de gestion. Cela s’avère payant dans le domai
 - [holaOS](https://trescout.com/fr/discover/holaos/)
 - [Copilot SDK](https://trescout.com/fr/discover/copilot-sdk/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/byok/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/byok/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/byok/

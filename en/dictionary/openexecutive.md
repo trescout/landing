@@ -68,7 +68,7 @@ It is the freedom of auditing and customization. The responsibility for hosting 
 - [Enterprise Resource Planning](https://trescout.com/en/dictionary/enterprise-resource-planning/)
 - [Agentic System](https://trescout.com/en/dictionary/agentic-system/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/openexecutive/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/openexecutive/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/openexecutive/

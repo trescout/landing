@@ -42,7 +42,7 @@ Les humains sont intuitifs, tandis que les IA s’appuient entièrement sur des 
 
 - [Worldmonitor](https://trescout.com/fr/discover/worldmonitor/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/situational-awareness/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/situational-awareness/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/situational-awareness/

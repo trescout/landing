@@ -44,7 +44,7 @@ Por ser autónomo, é importante que os seus poderes sejam limitados e monitoriz
 - [Hermes Agent](https://trescout.com/pt/discover/hermes-agent/)
 - [Oh My Hermes](https://trescout.com/pt/discover/oh-my-hermes/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hermes-agent/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hermes-agent/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/hermes-agent/

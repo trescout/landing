@@ -66,7 +66,7 @@ Según el principio LIMA, entre 500 y 2000 muestras correctamente seleccionadas,
 - [Ktransformers](https://trescout.com/es/discover/ktransformers/)
 - [Soup](https://trescout.com/es/discover/soup/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/fine-tuning/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/fine-tuning/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/fine-tuning/

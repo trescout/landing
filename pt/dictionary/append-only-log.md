@@ -52,7 +52,7 @@ Aplicando técnicas de compactação de log e salvando snapshots consolidados qu
 - [Runtime](https://trescout.com/pt/dictionary/runtime/)
 - [Memory Management](https://trescout.com/pt/dictionary/memory-management/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/append-only-log/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/append-only-log/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/append-only-log/

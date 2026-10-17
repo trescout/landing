@@ -76,7 +76,7 @@ Varía según su licencia. La mayoría de los motores abiertos están disponible
 - [Pocket TTS](https://trescout.com/es/discover/pocket-tts/)
 - [MOSS-TTS](https://trescout.com/es/discover/moss-tts/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/text-to-speech/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/text-to-speech/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/text-to-speech/

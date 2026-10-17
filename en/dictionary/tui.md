@@ -79,7 +79,7 @@ Ratatui in the Rust ecosystem, bubbletea and lipgloss in Go, and Textual and ric
 - [Witr](https://trescout.com/en/discover/witr/)
 - [Hister](https://trescout.com/en/discover/hister/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tui/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/tui/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/tui/

@@ -2,16 +2,16 @@
 
 AstrBot est un framework de développement d'agents d'intelligence artificielle qui s'intègre à diverses plateformes de messagerie instantanée, de grands modèles de langage et des plug-ins. Cet outil basé sur Python permet de créer des assistants IA personnalisables comme alternative open source.
 
-- ★ 41 866
+- ★ 42 041
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Mises à jour
 
+- **17 octobre 2026:** Étoiles 41,866 → 42,041, dernière version v4.29.1 (17 octobre 2026).
 - **14 octobre 2026:** Étoiles 41,705 → 41,866, dernière version v4.29.0 (14 octobre 2026).
 - **11 octobre 2026:** Étoiles 41,267 → 41,705, dernière version v4.29.0-beta.2 (10 octobre 2026).
 - **1 octobre 2026:** Étoiles 41,143 → 41,267, dernière version v4.29.0-beta.1 (1 octobre 2026).
-- **28 septembre 2026:** Étoiles 40,523 → 41,143, dernière version v4.28.2 (27 septembre 2026).
 
 ## Ce que ça vous apporte
 
@@ -57,7 +57,7 @@ Je souhaite créer un assistant d'intelligence artificielle personnalisable sur 
 - [Dépôt GitHub →](https://github.com/AstrBotDevs/AstrBot)
 - [Lire en turc →](https://trescout.com/discover/astrbot/)
 
-TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-20 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
+TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-20 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Le texte de présentation a été préparé avec l’IA à partir de la propre documentation du dépôt et cette page a été **traduite automatiquement** depuis l’original turc · la version turque fait foi.
 
 ---
 Source : TreScout Découvrir · https://trescout.com/fr/discover/astrbot/

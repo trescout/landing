@@ -43,7 +43,7 @@ Não, a interface pode mudar completamente para cada usuário e cada tarefa dife
 - [CopilotKit](https://trescout.com/pt/discover/copilotkit/)
 - [JSON Render](https://trescout.com/pt/discover/json-render/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/generative-ui/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/generative-ui/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/generative-ui/

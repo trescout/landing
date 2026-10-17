@@ -41,7 +41,7 @@ You can develop anything from simple puzzle games to complex 3D adventure games.
 
 - [Godot](https://trescout.com/en/discover/godot/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/godot-engine/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/godot-engine/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/godot-engine/

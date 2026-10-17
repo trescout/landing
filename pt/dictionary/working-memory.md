@@ -61,7 +61,7 @@ Sim. É uma área temporária, não se espera persistência. Informações persi
 - [Context Window](https://trescout.com/pt/dictionary/context-window/)
 - [Long-term Memory](https://trescout.com/pt/dictionary/long-term-memory/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/working-memory/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/working-memory/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/working-memory/

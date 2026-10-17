@@ -68,7 +68,7 @@ Une liste unique, un objectif hebdomadaire et une courte revue suffisent. Garder
 
 - [Kaneo](https://trescout.com/fr/discover/kaneo/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/project-management/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/project-management/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/project-management/

@@ -2,16 +2,16 @@
 
 OpenShip bietet eine Anwendungsverteilungsplattform, die Benutzer auf ihren eigenen Servern hosten können. Dieses mit der TypeScript-Sprache entwickelte Tool ermöglicht Self-Hosting-Prozesse als Alternative zu cloudbasierten Infrastrukturdiensten.
 
-- ★ 14.772
+- ★ 14.787
 - TypeScript
 - GitHub Trending · 2026-07-21
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 14,772 → 14,787, neueste Version v0.9.3 (17. Oktober 2026).
 - **16. Oktober 2026:** Sterne 14,714 → 14,772, neueste Version v0.9.2 (16. Oktober 2026).
 - **13. Oktober 2026:** Sterne 14,701 → 14,714, neueste Version v0.9.1 (13. Oktober 2026).
 - **12. Oktober 2026:** Sterne 14,584 → 14,701, neueste Version v0.9.0 (12. Oktober 2026).
-- **7. Oktober 2026:** Sterne 14,558 → 14,584, neueste Version v0.8.2 (6. Oktober 2026).
 
 ## Was es bringt
 
@@ -69,7 +69,7 @@ Ich möchte ein Projekt mit Openship veröffentlichen. Reicht es im Projektverze
 - [GitHub-Repository →](https://github.com/oblien/openship)
 - [Auf Türkisch lesen →](https://trescout.com/discover/openship/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-21 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-21 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/openship/

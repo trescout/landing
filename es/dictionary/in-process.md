@@ -43,7 +43,7 @@ Sí, dado que no hay tiempo para recuperar datos a través de la red, las operac
 - [Turso](https://trescout.com/es/discover/turso/)
 - [Zvec](https://trescout.com/es/discover/zvec/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/in-process/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/in-process/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/in-process/

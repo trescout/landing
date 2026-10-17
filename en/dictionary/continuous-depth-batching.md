@@ -35,7 +35,7 @@ Yes, it optimizes costs by enabling more users to be served simultaneously on th
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 - [LLM Inference](https://trescout.com/en/dictionary/llm-inference/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/continuous-depth-batching/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/continuous-depth-batching/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/continuous-depth-batching/

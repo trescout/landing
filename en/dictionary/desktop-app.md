@@ -38,7 +38,7 @@ No, many desktop applications can run without an internet connection.
 - [Offline](https://trescout.com/en/dictionary/offline/)
 - [Web Interface](https://trescout.com/en/dictionary/web-interface/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/desktop-app/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/desktop-app/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/desktop-app/

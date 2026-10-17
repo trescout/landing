@@ -42,7 +42,7 @@ Modern models support most languages, but the success rate is lower in languages
 
 - [FluidVoice](https://trescout.com/en/discover/fluidvoice/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/voice-to-text/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/voice-to-text/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/voice-to-text/

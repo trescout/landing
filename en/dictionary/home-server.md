@@ -68,7 +68,7 @@ Yes, with updates and password discipline. Externally open ports are monitored.
 - [Personal Cloud](https://trescout.com/en/dictionary/personal-cloud/)
 - [Backup Program](https://trescout.com/en/dictionary/backup-program/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/home-server/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/home-server/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/home-server/

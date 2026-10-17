@@ -52,7 +52,7 @@ Sim, novos recursos podem ser adicionados a um modelo com infraestrutura apropri
 - [Awesome Claude Code](https://trescout.com/pt/discover/awesome-claude-code/)
 - [Academic Research Skills](https://trescout.com/pt/discover/academic-research-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-skills/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-skills/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-skills/

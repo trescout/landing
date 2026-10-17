@@ -2,16 +2,16 @@
 
 Developed by Alishahryar1, free-claude-code provides free access to artificial intelligence models such as Claude Code and Codex via terminal, application or development environment (IDE). This open source tool integrates with platforms that offer voice command support, such as OpenClaw, allowing users to use artificial intelligence capabilities on different devices.
 
-- ★ 61,103
+- ★ 61,131
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Updates
 
+- **October 17, 2026:** Stars 61,103 → 61,131, latest release v6.16.11 (October 17, 2026).
 - **October 17, 2026:** Stars 60,872 → 61,103, latest release v6.16.10 (October 17, 2026).
 - **October 16, 2026:** Stars 60,624 → 60,872, latest release v6.16.9 (October 16, 2026).
 - **October 15, 2026:** Stars 60,387 → 60,624, latest release v6.16.7 (October 15, 2026).
-- **October 14, 2026:** Stars 59,985 → 60,387, latest release v6.16.6 (October 14, 2026).
 
 ## What you get
 
@@ -61,7 +61,7 @@ Act as a coding agent for me. Using the provider I configured through Free Claud
 - [GitHub repository →](https://github.com/Alishahryar1/free-claude-code)
 - [Read in Turkish →](https://trescout.com/discover/free-claude-code/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-04: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/free-claude-code/

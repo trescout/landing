@@ -72,7 +72,7 @@ Compacte imagens, vincule (não incorpore) vídeos e elimine originais não util
 - [Ppt Master](https://trescout.com/pt/discover/ppt-master/)
 - [OfficeCLI](https://trescout.com/pt/discover/officecli/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/powerpoint/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/powerpoint/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/powerpoint/

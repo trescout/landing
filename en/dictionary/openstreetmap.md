@@ -67,7 +67,7 @@ Yes, but as required by ODbL, you must visibly provide OpenStreetMap attribution
 - [OSINT](https://trescout.com/en/dictionary/osint/)
 - [Graph-based Investigation](https://trescout.com/en/dictionary/graph-based-investigation/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/openstreetmap/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/openstreetmap/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/openstreetmap/

@@ -2,11 +2,12 @@
 
 Treg ist eine Routing-Schicht, mit der für KI-Agenten entwickelte Tools (Agent Tools) über eine einzige Benutzeroberfläche verwaltet werden können. Durch den Aufbau einer Standardbrücke zwischen verschiedenen Sprachmodellen und Tools ermöglicht es Entwicklern, agentenbasierte Arbeitsabläufe ganz einfach über OpenRouter zu integrieren.
 
-- ★ 4.625
+- ★ 5.646
 - GitHub Trending · 2026-09-23
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 4,625 → 5,646.
 - **7. Oktober 2026:** Sterne 3,272 → 4,625.
 
 ## Was es bringt
@@ -30,7 +31,7 @@ Treg ist eine Routing-Schicht, mit der für KI-Agenten entwickelte Tools (Agent 
 - [GitHub-Repository →](https://github.com/superdesigndev/treg)
 - [Auf Türkisch lesen →](https://trescout.com/discover/treg/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-23 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-23 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/treg/

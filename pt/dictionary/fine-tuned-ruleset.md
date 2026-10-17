@@ -34,7 +34,7 @@ Para evitar que o modelo divague e garantir que ele sempre atenda aos padrões q
 - [System Prompts](https://trescout.com/pt/dictionary/system-prompts/)
 - [AI Skills](https://trescout.com/pt/dictionary/ai-skills/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/fine-tuned-ruleset/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/fine-tuned-ruleset/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/fine-tuned-ruleset/

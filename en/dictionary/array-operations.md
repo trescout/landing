@@ -34,7 +34,7 @@ Because batch processing uses the computer's processor much more efficiently and
 - [Machine Learning](https://trescout.com/en/dictionary/machine-learning/)
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/array-operations/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/array-operations/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/array-operations/

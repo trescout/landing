@@ -70,7 +70,7 @@ Ja, in schlanker Form. User Stories mit Akzeptanzkriterien und API-Verträge fun
 - [Framework](https://trescout.com/de/dictionary/framework/)
 - [Tech Stack](https://trescout.com/de/dictionary/tech-stack/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/specification/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/specification/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/specification/

@@ -20,14 +20,20 @@ Les bundlers permettent aux développeurs d'écrire leurs codes en les divisant 
 
 Le fonctionnement d’un emballeur moderne se compose essentiellement de trois étapes :
 
+### 1. Analyse et création d'un graphique de dépendance
+
 Le processus démarre à partir d'un ou plusieurs points d'entrée (par exemple src/main.ts) :
 
 - Le conditionneur lit ce fichier et l'analyse pour les instructions d'importation, d'exportation ou require.
 - Il trouve l'emplacement des fichiers appelés sur le disque conformément à la résolution du module Node ou aux définitions du package.json.
 - Il crée un graphique acyclique dirigé (DAG) dans lequel il modélise chaque fichier source en tant que nœud et importe les relations sous forme d'arêtes.
 
+### 2. Conversion et analyse AST
+
 - Chaque module est transféré vers un compilateur (tel que Babel, SWC, esbuild) et converti en un arbre de syntaxe abstraite (AST).
 - Les codes TypeScript sont convertis en JavaScript, la syntaxe JSX est compilée, les modules CSS sont analysés et les fonctionnalités ECMAScript modernes sont rendues compatibles avec les versions de navigateur ciblées.
+
+### 3. Emballage, secouage du bois et production de produits (emballage et émission)
 
 - Tree-Shaking : en utilisant la syntaxe statique des modules ECMAScript (ESM), les codes morts importés des bibliothèques mais jamais appelés dans le projet sont éliminés via AST.
 - Minification et obfuscation : les noms de variables sont raccourcis (modification), les espaces et les lignes de commentaires sont supprimés et la taille du fichier est minimisée.
@@ -41,6 +47,14 @@ Le processus démarre à partir d'un ou plusieurs points d'entrée (par exemple 
 ## Comparaison de l'écosystème des emballeurs
 
 Les principaux outils qui répondent aux différents besoins de l'écosystème Web sont :
+
+| Véhicule | Langue écrite | Expérience de développement | Moteur de production | Force |
+|---|---|---|---|---|
+| pack Web | JavaScript/Node.js | Bundle (emballage en mémoire) | pack Web | Écosystème de plugins massif, maturité d'entreprise |
+| engrenage | JS + Go (esbuild) | Dégroupé (ESM local) | Cumul/Déroulement | Démarrage instantané du serveur de développement, grand confort du développeur |
+| Cumul | JavaScript/Node.js | Regroupé | Cumul | Tree-shaking transparent sur l'empaquetage bibliothèque/SDK |
+| esconstruire | Allez | Regroupé | esconstruire | Vitesse de construction brute incroyable (10 à 100 fois plus rapide que les outils Node.js) |
+| Turbopack / RSpack | rouille | Bundle / Hybride | Moteur rouillé | Performance pour les projets massifs, compatible avec l'écosystème Webpack |
 
 ## Questions fréquentes
 
@@ -75,7 +89,7 @@ Il permet de diviser le code de l'application en fichiers fragmentés au lieu d'
 
 - [Webpack](https://trescout.com/fr/discover/webpack/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/bundler/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/bundler/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/bundler/

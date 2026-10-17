@@ -75,7 +75,7 @@ Einfach gesagt: Ja. Selbst ein einzelner Tabellenbericht ist ein Anfang für BI.
 - [WrenAI](https://trescout.com/de/discover/wrenai/)
 - [Ossie](https://trescout.com/de/discover/ossie/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/bi/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/bi/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/bi/

@@ -73,7 +73,7 @@ Há uma taxa em dinheiro e de administração. Vale a pena em dados críticos.
 - [holaOS](https://trescout.com/pt/discover/holaos/)
 - [Copilot SDK](https://trescout.com/pt/discover/copilot-sdk/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/byok/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/byok/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/byok/

@@ -41,7 +41,7 @@ Como a inteligência artificial está em constante evolução, os modelos de neg
 
 - [AiToEarn](https://trescout.com/pt/discover/aitoearn/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-driven-earning-models/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-driven-earning-models/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-driven-earning-models/

@@ -8,10 +8,10 @@ DeskcommCRM ist eine Open-Source-Plattform für das Kundenbeziehungsmanagement (
 
 ## Aktualisierungen
 
+- **17. Oktober 2026:** Sterne 4,651 → 4,651, neueste Version v1.85.0 (17. Oktober 2026).
 - **17. Oktober 2026:** Sterne 4,627 → 4,651, neueste Version v1.84.0 (16. Oktober 2026).
 - **16. Oktober 2026:** Sterne 4,599 → 4,627, neueste Version v1.83.0 (16. Oktober 2026).
 - **15. Oktober 2026:** Sterne 4,530 → 4,599, neueste Version v1.81.0 (15. Oktober 2026).
-- **11. Oktober 2026:** Sterne 4,513 → 4,530, neueste Version v1.80.0 (11. Oktober 2026).
 
 ## Was es bringt
 
@@ -56,7 +56,7 @@ Ich habe die DeskcommCRM-Installation durchgeführt. Hilf mir dabei, einen KI-Ag
 - [GitHub-Repository →](https://github.com/melgarafael/DeskcommCRM)
 - [Auf Türkisch lesen →](https://trescout.com/discover/deskcommcrm/)
 
-TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
+TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Der Präsentationstext wurde mit KI aus der eigenen Dokumentation des Repositories erstellt und diese Seite wurde **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung.
 
 ---
 Quelle: TreScout Entdecken · https://trescout.com/de/discover/deskcommcrm/

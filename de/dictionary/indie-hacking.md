@@ -67,7 +67,7 @@ Sie ist hoch, die meisten Versuche schlagen fehl. Klein anzufangen und schnell a
 
 - [Chinese Independent Developer](https://trescout.com/de/discover/chinese-independent-developer/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/indie-hacking/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/indie-hacking/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/indie-hacking/

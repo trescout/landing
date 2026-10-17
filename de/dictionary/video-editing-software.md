@@ -38,7 +38,7 @@ Sie unterstützen gängige Videoformate wie MP4, MOV, AVI sowie Raw-Kameraformat
 - [AI Video Editing](https://trescout.com/de/dictionary/ai-video-editing/)
 - [Application](https://trescout.com/de/dictionary/application/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/video-editing-software/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/video-editing-software/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/video-editing-software/

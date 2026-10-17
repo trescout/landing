@@ -43,7 +43,7 @@ Ils sont généralement créés et gérés à l'aide d'outils tels que Docker.
 - [Container](https://trescout.com/fr/discover/container/)
 - [Keycloak](https://trescout.com/fr/discover/keycloak/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/containers/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/containers/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/containers/

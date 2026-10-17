@@ -35,7 +35,7 @@ Ils prennent généralement en charge les tâches dangereuses, fatigantes et ré
 - [Physical AI](https://trescout.com/fr/dictionary/physical-ai/)
 - [Operating System for Robotics](https://trescout.com/fr/dictionary/operating-system-for-robotics/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/factory-droid/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/factory-droid/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/factory-droid/

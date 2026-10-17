@@ -43,7 +43,7 @@ Significa 'tiro zero' em inglês; ou seja, o modelo não recebeu nenhuma tentati
 - [Voice Pro](https://trescout.com/pt/discover/voice-pro/)
 - [YuE](https://trescout.com/pt/discover/yue/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/zero-shot/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/zero-shot/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/zero-shot/

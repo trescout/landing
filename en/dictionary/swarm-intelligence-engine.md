@@ -42,7 +42,7 @@ Yes, they often learn from each other's success and become more efficient over t
 
 - [MiroFish](https://trescout.com/en/discover/mirofish/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/swarm-intelligence-engine/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/swarm-intelligence-engine/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/swarm-intelligence-engine/

@@ -40,7 +40,7 @@ O compilador da linguagem é atualizado para fechar essas lacunas lógicas nas r
 - [Vulnerability Scanning](https://trescout.com/pt/dictionary/vulnerability-scanning/)
 - [Static Type Checking](https://trescout.com/pt/dictionary/static-type-checking/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/unsoundness/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/unsoundness/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/unsoundness/

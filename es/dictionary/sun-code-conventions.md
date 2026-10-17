@@ -61,7 +61,7 @@ Sun Microsystems introdujo el estándar de nombres de dominio invertidos, como '
 
 - [Checkstyle](https://trescout.com/es/discover/checkstyle/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/sun-code-conventions/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/sun-code-conventions/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sun-code-conventions/

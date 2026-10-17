@@ -39,7 +39,7 @@ No, la mayor ventaja de estos sistemas es que las unidades se respaldan entre s�
 - [MiroFish](https://trescout.com/es/discover/mirofish/)
 - [AutoHedge](https://trescout.com/es/discover/autohedge/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/swarm-intelligence/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/swarm-intelligence/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/swarm-intelligence/

@@ -43,7 +43,7 @@ Si está examinando una máquina física, los conocimientos mecánicos son sufic
 
 - [REA](https://trescout.com/es/discover/rea/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/reverse-engineering/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/reverse-engineering/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/reverse-engineering/

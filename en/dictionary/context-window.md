@@ -44,7 +44,7 @@ Yes, but it may increase transaction cost and response time.
 - [Context Mode](https://trescout.com/en/discover/context-mode/)
 - [Omlx](https://trescout.com/en/discover/omlx/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-window/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/context-window/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/context-window/

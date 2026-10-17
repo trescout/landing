@@ -38,7 +38,7 @@ Não, alguns modelos são melhores em criatividade, outros em análise lógica o
 - [AI Models](https://trescout.com/pt/dictionary/ai-models/)
 - [Foundation Model](https://trescout.com/pt/dictionary/foundation-model/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-capabilities/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-capabilities/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-capabilities/

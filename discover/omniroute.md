@@ -80,7 +80,7 @@ Veri gizliliği sizin kontrolünüzdedir; günlükleme (logging) seviyesini ve v
 
 - [GitHub deposu (danielfrg/omniroute) →](https://github.com/danielfrg/omniroute)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Tanıtım metni deponun kendi belgelerinden yapay zekâ ile hazırlandı. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 

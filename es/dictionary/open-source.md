@@ -69,7 +69,7 @@ Las empresas establecen modelos de negocio sostenibles ofreciendo soporte técni
 - [MoneyPrinterTurbo](https://trescout.com/es/discover/moneyprinterturbo/)
 - [claude-mem](https://trescout.com/es/discover/claude-mem/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/open-source/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/open-source/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/open-source/

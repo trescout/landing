@@ -51,7 +51,7 @@ Sí, pero los que se utilizan para IA suelen ser modelos profesionales equipados
 - [Omlx](https://trescout.com/es/discover/omlx/)
 - [Ktransformers](https://trescout.com/es/discover/ktransformers/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/gpu/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/gpu/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/gpu/

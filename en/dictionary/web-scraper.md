@@ -38,7 +38,7 @@ This is generally an acceptable method as long as it complies with the site's te
 - [Data Pipeline](https://trescout.com/en/dictionary/data-pipeline/)
 - [Document Parsing](https://trescout.com/en/dictionary/document-parsing/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-scraper/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/web-scraper/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/web-scraper/

@@ -76,7 +76,7 @@ Para testes, a CPU é suficiente. Para treinamento e modelos pesados em tempo re
 - [Opencv](https://trescout.com/pt/discover/opencv/)
 - [Supervision](https://trescout.com/pt/discover/supervision/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cv/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/cv/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cv/

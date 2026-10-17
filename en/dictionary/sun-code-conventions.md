@@ -61,7 +61,7 @@ Sun Microsystems introduced the reverse domain name standard, such as 'com.sun' 
 
 - [Checkstyle](https://trescout.com/en/discover/checkstyle/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/sun-code-conventions/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/sun-code-conventions/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sun-code-conventions/

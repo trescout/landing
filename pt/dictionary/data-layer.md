@@ -38,7 +38,7 @@ Quando projetado corretamente, melhora o desempenho porque pode armazenar dados 
 - [API](https://trescout.com/pt/dictionary/api/)
 - [Tech Stack](https://trescout.com/pt/dictionary/tech-stack/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/data-layer/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/data-layer/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/data-layer/

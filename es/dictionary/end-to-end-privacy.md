@@ -38,7 +38,7 @@ Es posible que pierda el acceso a sus datos por completo porque no hay otra copi
 - [Secrets](https://trescout.com/es/dictionary/secrets/)
 - [VPN](https://trescout.com/es/dictionary/vpn/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/end-to-end-privacy/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/end-to-end-privacy/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/end-to-end-privacy/

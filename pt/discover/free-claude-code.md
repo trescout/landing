@@ -2,16 +2,16 @@
 
 Desenvolvido por Alishahryar1, o free-claude-code fornece acesso gratuito a modelos de inteligência artificial como Claude Code e Codex via terminal, aplicativo ou ambiente de desenvolvimento (IDE). Esta ferramenta de código aberto se integra a plataformas que oferecem suporte a comandos de voz, como OpenClaw, permitindo aos usuários utilizar recursos de inteligência artificial em diferentes dispositivos.
 
-- ★ 61.103
+- ★ 61.131
 - Python
 - GitHub Trending · 2026-08-04
 
 ## Atualizações
 
+- **17 de outubro de 2026:** Estrelas 61,103 → 61,131, versão mais recente v6.16.11 (17 de outubro de 2026).
 - **17 de outubro de 2026:** Estrelas 60,872 → 61,103, versão mais recente v6.16.10 (17 de outubro de 2026).
 - **16 de outubro de 2026:** Estrelas 60,624 → 60,872, versão mais recente v6.16.9 (16 de outubro de 2026).
 - **15 de outubro de 2026:** Estrelas 60,387 → 60,624, versão mais recente v6.16.7 (15 de outubro de 2026).
-- **14 de outubro de 2026:** Estrelas 59,985 → 60,387, versão mais recente v6.16.6 (14 de outubro de 2026).
 
 ## O que você ganha
 
@@ -61,7 +61,7 @@ Atue como um agente de codificação para mim. Utilizando o provedor que configu
 - [Repositório no GitHub →](https://github.com/Alishahryar1/free-claude-code)
 - [Ler em turco →](https://trescout.com/discover/free-claude-code/)
 
-A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-04: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
+A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-04: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. O texto de apresentação foi preparado com IA a partir da própria documentação do repositório e esta página foi **traduzida automaticamente** do original em turco · a versão turca é a que vale.
 
 ---
 Fonte: TreScout Descobrir · https://trescout.com/pt/discover/free-claude-code/

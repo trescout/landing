@@ -70,7 +70,7 @@ Der beste Ansatz besteht darin, die Zellausgaben zu löschen (Alle Ausgaben lös
 - [Cosmos](https://trescout.com/de/discover/cosmos/)
 - [Train LLM from Scratch](https://trescout.com/de/discover/train-llm-from-scratch/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/jupyter-notebooks/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/jupyter-notebooks/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/jupyter-notebooks/

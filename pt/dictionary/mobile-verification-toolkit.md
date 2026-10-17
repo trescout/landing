@@ -40,7 +40,7 @@ Sim, é de código aberto, mas requer conhecimento técnico e uso de linha de co
 
 - [MVT](https://trescout.com/pt/discover/mvt/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/mobile-verification-toolkit/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/mobile-verification-toolkit/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/mobile-verification-toolkit/

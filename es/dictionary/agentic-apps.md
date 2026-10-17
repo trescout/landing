@@ -41,7 +41,7 @@ Mientras que en las aplicaciones normales debes gestionar cada paso haciendo cli
 - [Autonomous Agent](https://trescout.com/es/dictionary/autonomous-agent/)
 - [Agent-native Applications](https://trescout.com/es/dictionary/agent-native-applications/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/agentic-apps/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/agentic-apps/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic-apps/

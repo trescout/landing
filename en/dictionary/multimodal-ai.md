@@ -42,7 +42,7 @@ It allows us to understand the world in a more comprehensive and connected way a
 
 - [UI-TARS-desktop](https://trescout.com/en/discover/ui-tars-desktop/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multimodal-ai/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/multimodal-ai/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/multimodal-ai/

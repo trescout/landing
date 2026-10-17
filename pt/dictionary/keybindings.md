@@ -53,7 +53,7 @@ Novas atribuições de teclas podem ser feitas pressionando as teclas Ctrl + K C
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
 - [User Interface](https://trescout.com/pt/dictionary/user-interface/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/keybindings/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/keybindings/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/keybindings/

@@ -35,7 +35,7 @@ Porque en las operaciones manuales, un pequeño ajuste olvidado puede causar gra
 
 - [Terraform](https://trescout.com/es/discover/terraform/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/infrastructure-as-code/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/infrastructure-as-code/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/infrastructure-as-code/

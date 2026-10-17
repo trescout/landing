@@ -34,7 +34,7 @@ Ce nom a été donné parce que des réseaux de neurones comportant de nombreuse
 - [AI Models](https://trescout.com/fr/dictionary/ai-models/)
 - [Transformer](https://trescout.com/fr/dictionary/transformer/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/deep-learning/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/deep-learning/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/deep-learning/

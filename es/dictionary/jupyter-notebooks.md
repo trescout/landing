@@ -70,7 +70,7 @@ El mejor enfoque es borrar las salidas de las celdas (Borrar todas las salidas) 
 - [Cosmos](https://trescout.com/es/discover/cosmos/)
 - [Train LLM from Scratch](https://trescout.com/es/discover/train-llm-from-scratch/)
 
-Esta explicación se redactó en lenguaje sencillo para TreScout y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/jupyter-notebooks/)
+Esta explicación se redactó en lenguaje sencillo para TreScout con IA y se **tradujo automáticamente** del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a [hello@trescout.com](mailto:hello@trescout.com). [Leer en turco →](https://trescout.com/dictionary/jupyter-notebooks/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/jupyter-notebooks/

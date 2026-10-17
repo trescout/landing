@@ -69,7 +69,7 @@ Zor yakalanır, çünkü hata zamanlamaya bağlıdır. Yük testi ve özel yarı
 - [Concurrency](https://trescout.com/dictionary/concurrency/)
 - [System Programming Language](https://trescout.com/dictionary/system-programming-language/)
 
-Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
+Bu açıklama TreScout için yapay zekâ ile sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa [hello@trescout.com](mailto:hello@trescout.com). TreScout her gün GitHub, Hacker News ve Hugging Face'te öne çıkanları Türkçe özetler.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/thread-safety/

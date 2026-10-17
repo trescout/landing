@@ -38,7 +38,7 @@ Oui, mais comme cela prend de la place en mémoire, il faut le gérer en fonctio
 - [Context Window](https://trescout.com/fr/dictionary/context-window/)
 - [Inference](https://trescout.com/fr/dictionary/inference/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/prefix-cache/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/prefix-cache/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/prefix-cache/

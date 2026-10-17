@@ -42,7 +42,7 @@ Voice data is often anonymised, but it's always important to check your privacy 
 
 - [Speech to Speech](https://trescout.com/en/discover/speech-to-speech/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/voice-agents/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/voice-agents/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/voice-agents/

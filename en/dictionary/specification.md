@@ -70,7 +70,7 @@ Yes, they are lighter. User stories and API contracts with acceptance criteria s
 - [Framework](https://trescout.com/en/dictionary/framework/)
 - [Tech Stack](https://trescout.com/en/dictionary/tech-stack/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/specification/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/specification/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/specification/

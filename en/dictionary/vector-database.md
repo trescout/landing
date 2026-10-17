@@ -64,7 +64,7 @@ By converting 32-bit floating point (float32) numbers to 8-bit or 1-bit integers
 - [Zvec](https://trescout.com/en/discover/zvec/)
 - [ODS](https://trescout.com/en/discover/ods/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/vector-database/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/vector-database/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/vector-database/

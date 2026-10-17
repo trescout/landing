@@ -8,10 +8,10 @@ DeskcommCRM is an open-source customer relationship management (CRM) platform de
 
 ## Updates
 
+- **October 17, 2026:** Stars 4,651 → 4,651, latest release v1.85.0 (October 17, 2026).
 - **October 17, 2026:** Stars 4,627 → 4,651, latest release v1.84.0 (October 16, 2026).
 - **October 16, 2026:** Stars 4,599 → 4,627, latest release v1.83.0 (October 16, 2026).
 - **October 15, 2026:** Stars 4,530 → 4,599, latest release v1.81.0 (October 15, 2026).
-- **October 11, 2026:** Stars 4,513 → 4,530, latest release v1.80.0 (October 11, 2026).
 
 ## What you get
 
@@ -56,7 +56,7 @@ I have completed the DeskcommCRM installation. Help me configure an AI agent tha
 - [GitHub repository →](https://github.com/melgarafael/DeskcommCRM)
 - [Read in Turkish →](https://trescout.com/discover/deskcommcrm/)
 
-TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was **machine-translated** from the Turkish original · the Turkish version prevails.
+TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-09-12: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. The introductory text was prepared with AI from the repository's own documentation, and this page was **machine-translated** from the Turkish original · the Turkish version prevails.
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/deskcommcrm/

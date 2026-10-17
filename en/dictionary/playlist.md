@@ -59,7 +59,7 @@ It is a plain text-based index file containing internet addresses (URLs) of medi
 - [Batch Processing](https://trescout.com/en/dictionary/batch-processing/)
 - [AI Models](https://trescout.com/en/dictionary/ai-models/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/playlist/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/playlist/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/playlist/

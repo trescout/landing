@@ -42,7 +42,7 @@ Sim, este recurso é suportado em todas as versões modernas do Git.
 
 - [Worktrunk](https://trescout.com/pt/discover/worktrunk/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/worktree/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/worktree/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/worktree/

@@ -40,7 +40,7 @@ Da es keinen Vermittler gibt, haben Sie die Kontrolle über Ihre Vermögenswerte
 - [dApps](https://trescout.com/de/dictionary/dapps/)
 - [Digital Privacy](https://trescout.com/de/dictionary/digital-privacy/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/dex/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/dex/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/dex/

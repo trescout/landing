@@ -43,7 +43,7 @@ It can be done, but each change requires updating the document.
 - [Spec Kit](https://trescout.com/en/discover/spec-kit/)
 - [OpenSpec](https://trescout.com/en/discover/openspec/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/spec-driven-development/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/spec-driven-development/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/spec-driven-development/

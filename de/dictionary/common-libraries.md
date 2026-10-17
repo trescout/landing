@@ -38,7 +38,7 @@ Ja, Sie können die Codes, die Sie häufig verwenden, verpacken und in Ihren and
 - [Framework](https://trescout.com/de/dictionary/framework/)
 - [Tools](https://trescout.com/de/dictionary/tools/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/common-libraries/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/common-libraries/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/common-libraries/

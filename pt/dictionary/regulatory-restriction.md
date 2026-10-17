@@ -52,7 +52,7 @@ De acordo com o GDPR, podem ocorrer multas de até 4% do faturamento global anua
 - [AI Models](https://trescout.com/pt/dictionary/ai-models/)
 - [Secrets](https://trescout.com/pt/dictionary/secrets/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/regulatory-restriction/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/regulatory-restriction/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/regulatory-restriction/

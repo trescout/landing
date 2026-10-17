@@ -34,7 +34,7 @@ Como se concentra apenas em pequenos passos em frente, não consegue aceitar a d
 - [Algorithmic Trading](https://trescout.com/pt/dictionary/algorithmic-trading/)
 - [Agentic Workflows](https://trescout.com/pt/dictionary/agentic-workflows/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hill-climbing/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/hill-climbing/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/hill-climbing/

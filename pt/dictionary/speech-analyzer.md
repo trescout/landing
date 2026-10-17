@@ -34,7 +34,7 @@ Estas ferramentas são frequentemente utilizadas para melhorar os processos empr
 - [Transcription](https://trescout.com/pt/dictionary/transcription/)
 - [Speaker Diarization](https://trescout.com/pt/dictionary/speaker-diarization/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/speech-analyzer/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/speech-analyzer/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/speech-analyzer/

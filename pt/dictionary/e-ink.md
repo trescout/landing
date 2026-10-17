@@ -34,7 +34,7 @@ Sua tecnologia é baseada fundamentalmente em partículas pretas e brancas; embo
 
 Como as partículas precisam se deslocar fisicamente, ela não é adequada para mudanças rápidas, como a reprodução de vídeos.
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/e-ink/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/e-ink/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/e-ink/

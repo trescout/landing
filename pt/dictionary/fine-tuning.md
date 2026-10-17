@@ -46,7 +46,7 @@ Não, o ajuste fino é um processo permanente; Faz muito mais sentido usar o RAG
 - [Ktransformers](https://trescout.com/pt/discover/ktransformers/)
 - [Soup](https://trescout.com/pt/discover/soup/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/fine-tuning/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/fine-tuning/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/fine-tuning/

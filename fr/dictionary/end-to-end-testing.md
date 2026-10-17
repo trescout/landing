@@ -76,7 +76,7 @@ Il se brise lorsque l'interface change. Il est écrit de manière sélective et 
 - [Cypress](https://trescout.com/fr/discover/cypress/)
 - [E2e](https://trescout.com/fr/discover/e2e/)
 
-Cette explication a été rédigée en langage clair pour TreScout puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/end-to-end-testing/)
+Cette explication a été rédigée en langage clair pour TreScout avec l’IA puis **traduite automatiquement** depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à [hello@trescout.com](mailto:hello@trescout.com). [Lire en turc →](https://trescout.com/dictionary/end-to-end-testing/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/end-to-end-testing/

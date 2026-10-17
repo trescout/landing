@@ -65,7 +65,7 @@ Es vergleicht die Anforderungen der Nutzeranfrage mit den semantischen Beschreib
 - [System Prompts and Models of AI Tools](https://trescout.com/de/discover/system-prompts-and-models-of-ai-tools/)
 - [Claude Plugins Official](https://trescout.com/de/discover/claude-plugins-official/)
 
-Diese Erklärung wurde in einfacher Sprache für TreScout verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/tools/)
+Diese Erklärung wurde in einfacher Sprache für TreScout mit KI verfasst und aus dem türkischen Original **automatisch übersetzt** · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/tools/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tools/

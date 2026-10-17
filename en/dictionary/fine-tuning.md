@@ -66,7 +66,7 @@ According to the LIMA principle, 500 to 2,000 correctly selected, consistent and
 - [Ktransformers](https://trescout.com/en/discover/ktransformers/)
 - [Soup](https://trescout.com/en/discover/soup/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fine-tuning/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/fine-tuning/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/fine-tuning/

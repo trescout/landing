@@ -51,7 +51,7 @@ O segredo depende de confidencialidade interna permanente ; a patente revela a t
 - [SBOM](https://trescout.com/pt/dictionary/sbom/)
 - [Security Scanner](https://trescout.com/pt/dictionary/security-scanner/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/patent-disclosure/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/patent-disclosure/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/patent-disclosure/

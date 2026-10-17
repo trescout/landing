@@ -43,7 +43,7 @@ Para consultas muito complexas, o SQL manual às vezes pode ser mais rápido, ma
 
 - [Prisma](https://trescout.com/pt/discover/prisma/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/orm/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/orm/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/orm/

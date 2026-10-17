@@ -39,7 +39,7 @@ Permite que o robô faça um planejamento de movimento seguro, interpretando cor
 - [World Model](https://trescout.com/pt/dictionary/world-model/)
 - [Multimodal](https://trescout.com/pt/dictionary/multimodal/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/geometric-context-transformer/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/geometric-context-transformer/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/geometric-context-transformer/

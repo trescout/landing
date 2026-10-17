@@ -42,7 +42,7 @@ Because autonomous agents can make mistakes, and you don't want these mistakes t
 
 - [Flue](https://trescout.com/en/discover/flue/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/sandbox-agent-framework/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/sandbox-agent-framework/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sandbox-agent-framework/

@@ -37,7 +37,7 @@ Manual testing is slow and prone to human error; CI, on the other hand, works wi
 - [Jenkins](https://trescout.com/en/discover/jenkins/)
 - [Checkout](https://trescout.com/en/discover/checkout/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/continuous-integration/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/continuous-integration/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/continuous-integration/

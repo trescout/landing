@@ -35,7 +35,7 @@ It reduces the margin of error and allows you to perform the same operation at t
 - [NVM](https://trescout.com/en/discover/nvm/)
 - [Meshery](https://trescout.com/en/discover/meshery/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bash-script/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/bash-script/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/bash-script/

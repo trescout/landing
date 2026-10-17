@@ -38,7 +38,7 @@ Usually, data analysts or artificial intelligence models create the most efficie
 - [Trading Agent](https://trescout.com/en/dictionary/trading-agent/)
 - [Data Pipeline](https://trescout.com/en/dictionary/data-pipeline/)
 
-This explanation was written in plain language for TreScout and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/trading-strategies/)
+This explanation was written in plain language for TreScout with AI and **machine-translated** from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to [hello@trescout.com](mailto:hello@trescout.com). [Read in Turkish →](https://trescout.com/dictionary/trading-strategies/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/trading-strategies/

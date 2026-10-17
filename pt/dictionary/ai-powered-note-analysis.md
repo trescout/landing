@@ -42,7 +42,7 @@ Quando combinado com a tecnologia OCR, sim, pode.
 
 - [Open Notebook](https://trescout.com/pt/discover/open-notebook/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-powered-note-analysis/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/ai-powered-note-analysis/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-powered-note-analysis/

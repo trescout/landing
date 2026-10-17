@@ -38,7 +38,7 @@ Ao treinar com dados de maior qualidade e mais diversificados, a capacidade do m
 - [Machine Learning](https://trescout.com/pt/dictionary/machine-learning/)
 - [AI Agent](https://trescout.com/pt/dictionary/ai-agent/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/instincts/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/instincts/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/instincts/

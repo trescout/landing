@@ -39,7 +39,7 @@ Ja, alle wichtigen probabilistischen Sprachmodelle bergen dieses Risiko bis zu e
 - [Hallucination](https://trescout.com/de/dictionary/hallucination/)
 - [AI Agent](https://trescout.com/de/dictionary/ai-agent/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/hallucination/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/hallucination/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/hallucination/

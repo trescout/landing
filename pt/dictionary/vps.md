@@ -74,7 +74,7 @@ O recurso de instantâneo do provedor mais a regra de backup externo são recome
 
 - [DeskcommCRM](https://trescout.com/pt/discover/deskcommcrm/)
 
-Esta explicação foi escrita em linguagem simples para a TreScout e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vps/)
+Esta explicação foi escrita em linguagem simples para a TreScout com IA e **traduzida automaticamente** do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para [hello@trescout.com](mailto:hello@trescout.com). [Ler em turco →](https://trescout.com/dictionary/vps/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vps/

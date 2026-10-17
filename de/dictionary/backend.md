@@ -42,7 +42,7 @@ Weil es notwendig ist, die Sicherheit der Daten zu gewährleisten und komplexe B
 - [Firebase Ios SDK](https://trescout.com/de/discover/firebase-ios-sdk/)
 - [RLM](https://trescout.com/de/discover/rlm/)
 
-Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/backend/)
+Diese Erklärung wurde für TreScout mit KI in einfacher Sprache verfasst und **maschinell übersetzt** aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an [hello@trescout.com](mailto:hello@trescout.com). [Auf Türkisch lesen →](https://trescout.com/dictionary/backend/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/backend/
