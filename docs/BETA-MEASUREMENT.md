@@ -13,6 +13,8 @@ Bu belge, TreScout’un canlı rapor arşivinden erken erişim listesine uzanan 
 | `early_access_start` | Erken erişim formundaki e-posta alanına ilk odaklanma | `pageType`, `contentSlug`, `placement`, `path`, `locale` |
 | `early_access_submit` | Form submit işlemi başarıyla sonuçlandı | `pageType`, `contentSlug`, `placement`, `isDuplicate`, `path`, `locale` |
 | `beta_return_week_2` | Consent sonrası ilk görülmeden 7–30 gün aralığında geri dönüş sinyali | `pageType`, `contentSlug`, `placement`, `daysSinceFirstSeen`, `path`, `locale` |
+| `agent_prompt_copy` | Keşif sayfasında "Kod bilmiyorsanız" ajan istemi kopyalandı | `pageType`, `contentSlug`, `placement`, `path`, `locale` |
+| `command_copy` | Keşif sayfasında kurulum veya çalıştırma komutu kopyalandı | `pageType`, `contentSlug`, `placement`, `path`, `locale` |
 
 Event payload’larına e-posta, isim, serbest metin, dış origin URL’si, referrer, UUID veya ham query parametreleri eklenmez. UTM değerleri yalnızca kısa identifier token’ları olarak kabul edilir. Consent verilmeden önce ne event gönderilir ne de retention amacıyla `localStorage` yazılır.
 
@@ -27,6 +29,7 @@ Event payload’larına e-posta, isim, serbest metin, dış origin URL’si, ref
 | **Form tamamlanma oranı** | `early_access_submit / early_access_start` | Submit event’i yalnız API başarılı yanıtından sonra üretilmelidir |
 | **Tekrar dönüş sinyali** | `beta_return_week_2` teslim edilen event sayısı | `firstSeen` yalnız consent sonrası tutulur; kullanıcı kimliği yoktur |
 | **Duplicate submit oranı** | `early_access_submit` içinde `isDuplicate=true` payı | Liste kalitesi ve tekrar denemeleri anlamak için kullanılır |
+| **İstem kopyalama oranı** | `agent_prompt_copy / discovery_view` | İstem kalıbı değişikliklerinin (ajan istemi açılış, ön koşul, hata satırları) önce/sonra karşılaştırması için; kopyalanan metnin kullanıldığını göstermez |
 
 Mevcut sıfır-PII modelde **unique user, session, retention cohort veya gerçek dönüşüm oranı** iddiası yapılmamalıdır. Vercel Custom Events’in production panelinde gerçekten alındığı ve aggregation semantiği doğrulanmadan bu KPI’lar yalnızca yön gösteren aggregate sinyaller olarak kullanılmalıdır.
 

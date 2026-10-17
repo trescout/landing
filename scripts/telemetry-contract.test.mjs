@@ -48,6 +48,7 @@ function harness({ consent = null, va = null, pathname = '/discover/example/', s
     keys: () => [...values.keys()].sort(),
     calls,
     dispatchStorage: (event) => listeners.get('window:storage')?.(event),
+    click: (target) => listeners.get('click')?.({ target }),
   };
 }
 
@@ -109,4 +110,26 @@ test('cross-tab denial clears local retention state and pending events', () => {
   assert.equal(app.api.getPendingCount(), 0);
   // The storage event changes this runtime immediately; the other tab owns the
   // consent key, so this harness keeps its original storage value.
+});
+
+test('copy buttons on discover pages emit separate prompt and command events', () => {
+  const app = harness({ consent: 'granted', va: true });
+  const box = (cls) => ({ closest: (sel) => (sel === cls ? {} : null) });
+  const button = (inside) => ({
+    closest: (sel) => (sel === '.disc-copy' ? { closest: (s) => (s === inside ? {} : null) } : null),
+  });
+  app.click(button('.disc-ai'));
+  assert.equal(app.calls.at(-1)[1].name, 'agent_prompt_copy');
+  assert.equal(app.calls.at(-1)[1].data.placement, 'agent_prompt');
+  app.click(button('.disc-cmd'));
+  assert.equal(app.calls.at(-1)[1].name, 'command_copy');
+  const before = app.calls.length;
+  app.click(box('.other'));
+  assert.equal(app.calls.length, before);
+});
+
+test('copy events are not sent without consent', () => {
+  const app = harness({ va: true });
+  app.click({ closest: (sel) => (sel === '.disc-copy' ? { closest: () => ({}) } : null) });
+  assert.equal(app.calls.length, 0);
 });
