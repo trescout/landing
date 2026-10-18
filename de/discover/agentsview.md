@@ -68,6 +68,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [CCUsage](https://trescout.com/de/dictionary/ccusage/)
 - [Local-first](https://trescout.com/de/dictionary/local-first/)
 - [Token](https://trescout.com/de/dictionary/token/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es richtet sich an Softwareentwickler, die mehr als einen Codierungsagenten für künstliche Intelligenz verwenden und die von diesen Tools ausgegebenen Token und Kosten lokal verfolgen möchten.

@@ -77,8 +77,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Reinforcement Learning](https://trescout.com/de/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/de/dictionary/cpu/)
 - [GPU](https://trescout.com/de/dictionary/gpu/)
-- [API](https://trescout.com/de/dictionary/api/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [API](https://trescout.com/de/dictionary/api/)
 
 - **Für wen es gedacht ist:** Robotikforscher, Mechatroniker, Experten für Reinforcement Learning und Bastler.
 - **Lizenz:** Apache-2.0 (Açık kaynak lisansı)

@@ -66,6 +66,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Machine Learning](https://trescout.com/pt/dictionary/machine-learning/)
 - [Shell](https://trescout.com/pt/dictionary/shell/)
 - [Token](https://trescout.com/pt/dictionary/token/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores que desejam executar modelos de IA de alto rendimento em seu hardware nativo.

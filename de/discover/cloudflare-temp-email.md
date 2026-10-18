@@ -79,8 +79,8 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [CLI](https://trescout.com/de/dictionary/cli/)
 - [Rust](https://trescout.com/de/dictionary/rust/)
-- [API](https://trescout.com/de/dictionary/api/)
 - [Open Source](https://trescout.com/de/dictionary/open-source/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Entwickler, Testteams und datenschutzorientierte Benutzer, die einen kostenlosen, sicheren und uneingeschränkten temporären E-Mail-Dienst unter ihrer eigenen Domain hosten möchten.

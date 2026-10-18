@@ -79,8 +79,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [GPU](https://trescout.com/en/dictionary/gpu/)
 - [PDF](https://trescout.com/en/dictionary/pdf/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
-- [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Educators, AI researchers, edtech entrepreneurs, and students.
 - **License:** Apache-2.0 (Açık kaynak lisansı)

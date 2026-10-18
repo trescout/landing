@@ -60,8 +60,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
-- [API](https://trescout.com/es/dictionary/api/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Es adecuado para usuarios que se preocupan por la privacidad de los datos y desean administrar de forma independiente su propia infraestructura de traducción.

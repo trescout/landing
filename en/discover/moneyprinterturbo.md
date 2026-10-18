@@ -66,8 +66,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [LLM API](https://trescout.com/en/dictionary/llm-api/)
 - [Clone](https://trescout.com/en/dictionary/clone/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
-- [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Short video / content producers

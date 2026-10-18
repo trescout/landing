@@ -77,6 +77,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [CCUsage](https://trescout.com/dictionary/ccusage/)
 - [Local-first](https://trescout.com/dictionary/local-first/)
 - [Token](https://trescout.com/dictionary/token/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

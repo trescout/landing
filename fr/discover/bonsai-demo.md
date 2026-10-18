@@ -66,6 +66,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Machine Learning](https://trescout.com/fr/dictionary/machine-learning/)
 - [Shell](https://trescout.com/fr/dictionary/shell/)
 - [Token](https://trescout.com/fr/dictionary/token/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs qui souhaitent exécuter des modèles d’IA à haut débit sur leur matériel natif.

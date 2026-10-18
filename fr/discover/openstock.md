@@ -64,6 +64,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Self-hosting](https://trescout.com/fr/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
 - [Clone](https://trescout.com/fr/dictionary/clone/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Ceux qui veulent suivre la bourse/les actions

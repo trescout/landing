@@ -48,6 +48,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 ## Términos relacionados del glosario
 
+- [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Las personas que deseen configurar su propia plataforma de películas, series y televisión en vivo pueden utilizar esta herramienta.

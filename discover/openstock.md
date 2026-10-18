@@ -81,6 +81,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Self-hosting](https://trescout.com/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/dictionary/localhost/)
 - [Clone](https://trescout.com/dictionary/clone/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

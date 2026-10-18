@@ -47,6 +47,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [GUI](https://trescout.com/es/dictionary/gui/)
 - [Terminal](https://trescout.com/es/dictionary/terminal/)
+- [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Para usuarios que prefieren una interfaz gráfica en lugar de la pantalla de terminal y desean gestionar paquetes de software en macOS.

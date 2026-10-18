@@ -89,7 +89,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Decompiler](https://trescout.com/pt/dictionary/decompiler/)
 - [IoT](https://trescout.com/pt/dictionary/iot/)
 - [Binary](https://trescout.com/pt/dictionary/binary/)
-- [API](https://trescout.com/pt/dictionary/api/)
+- [Open Source](https://trescout.com/pt/dictionary/open-source/)
 
 - **Para quem é:** Pesquisadores de malware, caçadores de vulnerabilidades, especialistas em engenharia reversa e desenvolvedores de sistemas embarcados.
 - **Licença:** Apache-2.0 (Açık kaynak lisansı)

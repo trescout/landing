@@ -47,6 +47,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [GUI](https://trescout.com/pt/dictionary/gui/)
 - [Terminal](https://trescout.com/pt/dictionary/terminal/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a usuários que preferem uma interface gráfica em vez da tela do terminal e desejam gerenciar pacotes de software no macOS.

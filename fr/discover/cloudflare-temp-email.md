@@ -79,8 +79,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [CLI](https://trescout.com/fr/dictionary/cli/)
 - [Rust](https://trescout.com/fr/dictionary/rust/)
-- [API](https://trescout.com/fr/dictionary/api/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs, aux équipes de test et aux utilisateurs soucieux de la confidentialité qui souhaitent héberger un service de messagerie temporaire gratuit, sécurisé et débloqué avec leur propre nom de domaine.

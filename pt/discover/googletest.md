@@ -79,8 +79,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Fork](https://trescout.com/pt/dictionary/fork/)
 - [Parser](https://trescout.com/pt/dictionary/parser/)
 - [CI/CD](https://trescout.com/pt/dictionary/ci-cd/)
-- [API](https://trescout.com/pt/dictionary/api/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Engenheiros de software C++, desenvolvedores de sistemas embarcados e arquitetos de sistemas.

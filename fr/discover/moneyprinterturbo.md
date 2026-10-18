@@ -66,8 +66,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [LLM API](https://trescout.com/fr/dictionary/llm-api/)
 - [Clone](https://trescout.com/fr/dictionary/clone/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
-- [API](https://trescout.com/fr/dictionary/api/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Producteurs de courtes vidéos/contenus

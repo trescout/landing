@@ -47,6 +47,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 - [GUI](https://trescout.com/fr/dictionary/gui/)
 - [Terminal](https://trescout.com/fr/dictionary/terminal/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Destiné aux utilisateurs qui préfèrent une interface graphique à l'écran du terminal et qui souhaitent gérer des paquets logiciels sur macOS.

@@ -77,8 +77,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Reinforcement Learning](https://trescout.com/es/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/es/dictionary/cpu/)
 - [GPU](https://trescout.com/es/dictionary/gpu/)
-- [API](https://trescout.com/es/dictionary/api/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [API](https://trescout.com/es/dictionary/api/)
 
 - **Para quién es:** Investigadores de robótica, ingenieros de mecatrónica, expertos en aprendizaje por refuerzo y aficionados.
 - **Licencia:** Apache-2.0 (Açık kaynak lisansı)

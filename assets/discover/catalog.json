@@ -33547,7 +33547,7 @@
     "slug": "code-graph-rag",
     "title": "Code Graph RAG",
     "tagline": "Code-graph-rag, büyük kod depolarındaki (monorepo) karmaşık yapıları anlamak ve sorgulamak için bilgi grafikleri (knowledge…",
-    "meta": "★ 5.259 · Python",
+    "meta": "★ 5.264 · Python",
     "image": "/assets/discover/og/code-graph-rag.webp",
     "source": "GitHub",
     "date": "2026-08-10",
@@ -33555,7 +33555,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5259,
+    "stars": 5264,
     "lite": false,
     "headline": "Kod deponuzu yapay zekâ ile sorgulayın",
     "tagline_en": "Code-graph-rag uses knowledge graphs to understand and query complex structures in large code repositories (monorepos).",
@@ -33645,6 +33645,13 @@
         "onceki_yildiz": 5189,
         "surum": "v0.2.0",
         "surum_tarihi": "2026-10-15"
+      },
+      {
+        "tarih": "2026-10-18",
+        "yildiz": 5264,
+        "onceki_yildiz": 5259,
+        "surum": "v0.2.10",
+        "surum_tarihi": "2026-10-18"
       }
     ],
     "tagline_pt": "Code-graph-rag usa gráficos de conhecimento para compreender e consultar estruturas complexas em grandes repositórios de código (monorepos).",
@@ -42274,7 +42281,7 @@
     "slug": "humanizer",
     "title": "Humanizer",
     "tagline": "Humanizer, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik kalıpları silerek içeriği daha doğal bir anlatıma…",
-    "meta": "★ 55.180 · Python",
+    "meta": "★ 57.962 · Python",
     "image": "/assets/discover/og/humanizer.webp",
     "source": "GitHub",
     "date": "2026-09-03",
@@ -42282,7 +42289,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 55180,
+    "stars": 57962,
     "summary": "Humanizer, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik kalıpları silerek içeriği daha doğal bir anlatıma dönüştüren bir Python kütüphanesidir. Yazılı metinlerin insan elinden çıkmış gibi görünmesini sağlayan bu araç, otomatik içerik üretimi yapan sistemlerin tespit edilmesini zorlaştırmayı hedefler.",
     "lite": false,
     "headline": "Yapay zekâ metinlerini insanileştirin",
@@ -42341,6 +42348,13 @@
         "tarih": "2026-10-09",
         "yildiz": 55180,
         "onceki_yildiz": 52508,
+        "surum": "v3.1.0",
+        "surum_tarihi": "2026-09-28"
+      },
+      {
+        "tarih": "2026-10-18",
+        "yildiz": 57962,
+        "onceki_yildiz": 55180,
         "surum": "v3.1.0",
         "surum_tarihi": "2026-09-28"
       }
@@ -44069,14 +44083,14 @@
     "slug": "sonarr",
     "title": "Sonarr",
     "tagline": "Sonarr, haber grupları (newsgroup) ve bittorrent kullanıcıları için geliştirilmiş akıllı bir kişisel video kaydedici (PVR).",
-    "meta": "★ 16.274 · C#",
+    "meta": "★ 17.274 · C#",
     "image": "/assets/discover/og/sonarr.webp",
     "source": "GitHub",
     "date": "2026-09-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 16274,
+    "stars": 17274,
     "summary": "Sonarr, haber grupları (newsgroup) ve bittorrent kullanıcıları için geliştirilmiş akıllı bir kişisel video kaydedici (PVR). Kullanıcıların dizi içeriklerini otomatik olarak takip etmesini, indirmesini ve düzenlemesini sağlayan açık kaynaklı bir medya yönetim aracıdır.",
     "lite": false,
     "headline": "Dizi arşivinizi otomatik yönetin",
@@ -44095,6 +44109,13 @@
         "tarih": "2026-09-17",
         "yildiz": 16274,
         "onceki_yildiz": 15798,
+        "surum": "v4.0.20.3014",
+        "surum_tarihi": "2026-09-16"
+      },
+      {
+        "tarih": "2026-10-18",
+        "yildiz": 17274,
+        "onceki_yildiz": 16274,
         "surum": "v4.0.20.3014",
         "surum_tarihi": "2026-09-16"
       }
@@ -47612,14 +47633,14 @@
     "slug": "pageindex",
     "title": "PageIndex",
     "tagline": "PageIndex, vektör tabanlı arama yöntemlerine ihtiyaç duymadan akıl yürütme yeteneğiyle çalışan bir belge indeksleme aracıdır.",
-    "meta": "★ 39.153 · Python",
+    "meta": "★ 39.253 · Python",
     "image": "/assets/discover/og/pageindex.webp",
     "source": "GitHub",
     "date": "2026-09-29",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 39153,
+    "stars": 39253,
     "last_seen": "2026-10-01",
     "summary": "PageIndex, vektör tabanlı arama yöntemlerine ihtiyaç duymadan akıl yürütme yeteneğiyle çalışan bir belge indeksleme aracıdır. Geleneksel vektör veritabanları (Vector Databases) yerine metin tabanlı mantıksal çıkarım kullanarak RAG (Geri Getirme Destekli Üretim) süreçlerini optimize eder.",
     "lite": false,
@@ -47660,6 +47681,13 @@
         "onceki_yildiz": 39080,
         "surum": "v0.4.1",
         "surum_tarihi": "2026-10-16"
+      },
+      {
+        "tarih": "2026-10-18",
+        "yildiz": 39253,
+        "onceki_yildiz": 39153,
+        "surum": "v0.4.2",
+        "surum_tarihi": "2026-10-18"
       }
     ],
     "tagline_en": "PageIndex is a document indexing tool that operates with reasoning capabilities without the need for vector-based search methods.",

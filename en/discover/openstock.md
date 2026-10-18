@@ -64,6 +64,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Self-hosting](https://trescout.com/en/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
 - [Clone](https://trescout.com/en/dictionary/clone/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Those who want to follow the stock market/shares

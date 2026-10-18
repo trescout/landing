@@ -68,6 +68,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [CCUsage](https://trescout.com/en/dictionary/ccusage/)
 - [Local-first](https://trescout.com/en/dictionary/local-first/)
 - [Token](https://trescout.com/en/dictionary/token/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for software developers who use more than one artificial intelligence coding agent and want to locally track the tokens and costs spent by these tools.

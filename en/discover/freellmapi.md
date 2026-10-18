@@ -83,7 +83,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Localhost](https://trescout.com/en/dictionary/localhost/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
-- [API](https://trescout.com/en/dictionary/api/)
+- [Open Source](https://trescout.com/en/dictionary/open-source/)
 
 - **Who it is for:** AI developers, open-source researchers, full-stack engineers, and prototype developers.
 - **License:** MIT (Özgür açık kaynak lisansı)

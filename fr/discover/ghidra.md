@@ -89,7 +89,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Decompiler](https://trescout.com/fr/dictionary/decompiler/)
 - [IoT](https://trescout.com/fr/dictionary/iot/)
 - [Binary](https://trescout.com/fr/dictionary/binary/)
-- [API](https://trescout.com/fr/dictionary/api/)
+- [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Chercheurs en logiciels malveillants, chasseurs de vulnérabilités, experts en ingénierie inverse et développeurs de systèmes embarqués.
 - **Licence:** Apache-2.0 (Açık kaynak lisansı)

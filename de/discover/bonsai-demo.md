@@ -66,6 +66,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Machine Learning](https://trescout.com/de/dictionary/machine-learning/)
 - [Shell](https://trescout.com/de/dictionary/shell/)
 - [Token](https://trescout.com/de/dictionary/token/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Entwickler, die KI-Modelle mit hohem Durchsatz auf ihrer nativen Hardware ausführen möchten.

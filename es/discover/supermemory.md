@@ -53,8 +53,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [MCP](https://trescout.com/es/dictionary/mcp/)
-- [API](https://trescout.com/es/dictionary/api/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Equipos que desarrollan aplicaciones de IA

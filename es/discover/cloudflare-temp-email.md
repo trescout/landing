@@ -79,8 +79,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 
 - [CLI](https://trescout.com/es/dictionary/cli/)
 - [Rust](https://trescout.com/es/dictionary/rust/)
-- [API](https://trescout.com/es/dictionary/api/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está destinado a desarrolladores, equipos de prueba y usuarios centrados en la privacidad que deseen alojar un servicio de correo electrónico temporal gratuito, seguro y sin restricciones con su propio dominio.

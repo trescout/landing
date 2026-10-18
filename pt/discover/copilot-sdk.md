@@ -47,6 +47,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [BYOK](https://trescout.com/pt/dictionary/byok/)
 - [SDK](https://trescout.com/pt/dictionary/sdk/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para desenvolvedores que desejam incorporar os recursos e fluxos de trabalho baseados em agente do GitHub Copilot em seus próprios projetos de software.

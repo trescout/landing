@@ -64,6 +64,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Project Management](https://trescout.com/de/dictionary/project-management/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Teams, denen komplexe Projektmanagement-Tools langweilig sind und die eine schnelle, einfache Lösung auf dem eigenen Server suchen.

@@ -68,6 +68,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [CCUsage](https://trescout.com/fr/dictionary/ccusage/)
 - [Local-first](https://trescout.com/fr/dictionary/local-first/)
 - [Token](https://trescout.com/fr/dictionary/token/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il s'adresse aux développeurs de logiciels qui utilisent plusieurs agents de codage d'intelligence artificielle et souhaitent suivre localement les jetons et les coûts dépensés par ces outils.

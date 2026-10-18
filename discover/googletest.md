@@ -96,8 +96,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Fork](https://trescout.com/dictionary/fork/)
 - [Parser](https://trescout.com/dictionary/parser/)
 - [CI/CD](https://trescout.com/dictionary/ci-cd/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

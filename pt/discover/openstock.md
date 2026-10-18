@@ -64,6 +64,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Self-hosting](https://trescout.com/pt/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/pt/dictionary/localhost/)
 - [Clone](https://trescout.com/pt/dictionary/clone/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Aqueles que querem acompanhar o mercado de ações/ações

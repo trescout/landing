@@ -48,6 +48,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 
 ## Termes liés du glossaire
 
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Les personnes qui souhaitent créer leur propre plateforme de films, de séries et de télévision en direct peuvent utiliser cet outil.

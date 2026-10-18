@@ -64,6 +64,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Project Management](https://trescout.com/fr/dictionary/project-management/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux équipes qui en ont assez des outils de gestion de projet complexes et qui recherchent une solution simple et rapide sur leur propre serveur.

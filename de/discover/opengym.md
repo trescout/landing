@@ -50,6 +50,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 ## Verwandte Begriffe aus dem Glossar
 
 - [Clone](https://trescout.com/de/dictionary/clone/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es ist für Fitnessbegeisterte gedacht, die Wert auf den Datenschutz ihrer Trainingsdaten legen und ihre Studio-Routinen kostenlos auf ihrem eigenen Server verfolgen möchten.

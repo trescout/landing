@@ -79,8 +79,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
 - [PDF](https://trescout.com/fr/dictionary/pdf/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
-- [API](https://trescout.com/fr/dictionary/api/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Éducateurs, chercheurs en intelligence artificielle, entrepreneurs EdTech et étudiants.
 - **Licence:** Apache-2.0 (Açık kaynak lisansı)

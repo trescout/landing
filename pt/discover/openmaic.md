@@ -79,8 +79,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
 - [PDF](https://trescout.com/pt/dictionary/pdf/)
 - [LLM](https://trescout.com/pt/dictionary/llm/)
-- [API](https://trescout.com/pt/dictionary/api/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [API](https://trescout.com/pt/dictionary/api/)
 
 - **Para quem é:** Educadores, pesquisadores de IA, empreendedores de edtech e estudantes.
 - **Licença:** Apache-2.0 (Açık kaynak lisansı)

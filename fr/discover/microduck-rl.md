@@ -77,8 +77,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Reinforcement Learning](https://trescout.com/fr/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/fr/dictionary/cpu/)
 - [GPU](https://trescout.com/fr/dictionary/gpu/)
-- [API](https://trescout.com/fr/dictionary/api/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [API](https://trescout.com/fr/dictionary/api/)
 
 - **Pour qui:** Chercheurs en robotique, ingénieurs en mécatronique, experts en apprentissage par renforcement et amateurs.
 - **Licence:** Apache-2.0 (Açık kaynak lisansı)

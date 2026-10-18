@@ -58,6 +58,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [BYOK](https://trescout.com/dictionary/byok/)
 - [SDK](https://trescout.com/dictionary/sdk/)
 - [LLM](https://trescout.com/dictionary/llm/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

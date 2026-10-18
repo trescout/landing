@@ -79,8 +79,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [GPU](https://trescout.com/es/dictionary/gpu/)
 - [PDF](https://trescout.com/es/dictionary/pdf/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
-- [API](https://trescout.com/es/dictionary/api/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [API](https://trescout.com/es/dictionary/api/)
 
 - **Para quién es:** Educadores, investigadores de IA, emprendedores de tecnología educativa y estudiantes.
 - **Licencia:** Apache-2.0 (Açık kaynak lisansı)

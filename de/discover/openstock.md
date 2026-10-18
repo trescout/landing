@@ -64,6 +64,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Self-hosting](https://trescout.com/de/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/de/dictionary/localhost/)
 - [Clone](https://trescout.com/de/dictionary/clone/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Diejenigen, die die Börse/Aktien verfolgen wollen

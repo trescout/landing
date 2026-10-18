@@ -47,6 +47,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [BYOK](https://trescout.com/en/dictionary/byok/)
 - [SDK](https://trescout.com/en/dictionary/sdk/)
 - [LLM](https://trescout.com/en/dictionary/llm/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for developers who want to incorporate GitHub Copilot's capabilities and agent-based workflows into their own software projects.

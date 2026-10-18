@@ -66,8 +66,8 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [LLM API](https://trescout.com/es/dictionary/llm-api/)
 - [Clone](https://trescout.com/es/dictionary/clone/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
-- [API](https://trescout.com/es/dictionary/api/)
 - [Open Source](https://trescout.com/es/dictionary/open-source/)
+- [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Productores de vídeos cortos/contenidos

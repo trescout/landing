@@ -64,6 +64,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Project Management](https://trescout.com/pt/dictionary/project-management/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** É adequado para equipes que estão entediadas com ferramentas complexas de gerenciamento de projetos e procuram uma solução rápida e simples em seu próprio servidor.

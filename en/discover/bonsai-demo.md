@@ -66,6 +66,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [Machine Learning](https://trescout.com/en/dictionary/machine-learning/)
 - [Shell](https://trescout.com/en/dictionary/shell/)
 - [Token](https://trescout.com/en/dictionary/token/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for developers who want to run high-throughput AI models on their native hardware.

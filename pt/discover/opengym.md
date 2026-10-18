@@ -50,6 +50,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 ## Termos relacionados do glossário
 
 - [Clone](https://trescout.com/pt/dictionary/clone/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a entusiastas do desporto que valorizam a privacidade dos dados de treino e querem acompanhar gratuitamente as suas rotinas de ginásio no seu próprio servidor.

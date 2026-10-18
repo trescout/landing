@@ -47,6 +47,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [BYOK](https://trescout.com/fr/dictionary/byok/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Il convient aux développeurs qui souhaitent intégrer les capacités et les flux de travail basés sur des agents de GitHub Copilot dans leurs propres projets logiciels.

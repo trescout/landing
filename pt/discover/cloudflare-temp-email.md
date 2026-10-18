@@ -79,8 +79,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 
 - [CLI](https://trescout.com/pt/dictionary/cli/)
 - [Rust](https://trescout.com/pt/dictionary/rust/)
-- [API](https://trescout.com/pt/dictionary/api/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destinado a desenvolvedores, equipes de teste e usuários focados em privacidade que desejam hospedar um serviço de e-mail temporário gratuito, seguro e sem restrições com seu próprio domínio.

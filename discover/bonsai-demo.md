@@ -75,6 +75,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Machine Learning](https://trescout.com/dictionary/machine-learning/)
 - [Shell](https://trescout.com/dictionary/shell/)
 - [Token](https://trescout.com/dictionary/token/)
+- [API](https://trescout.com/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/dictionary/artificial-intelligence/)
 
 ---

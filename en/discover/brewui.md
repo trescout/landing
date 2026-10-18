@@ -47,6 +47,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 
 - [GUI](https://trescout.com/en/dictionary/gui/)
 - [Terminal](https://trescout.com/en/dictionary/terminal/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** Intended for users who prefer a graphical interface over a terminal screen and want to manage software packages on macOS.

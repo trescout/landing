@@ -53,8 +53,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [MCP](https://trescout.com/fr/dictionary/mcp/)
-- [API](https://trescout.com/fr/dictionary/api/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Équipes développant des applications d’IA

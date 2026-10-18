@@ -50,6 +50,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 ## Termes liés du glossaire
 
 - [Clone](https://trescout.com/fr/dictionary/clone/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Destiné aux passionnés de sport qui accordent de l'importance à la confidentialité de leurs données d'entraînement et qui souhaitent suivre gratuitement leurs routines de salle de sport sur leur propre serveur.

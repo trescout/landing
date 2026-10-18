@@ -64,6 +64,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Project Management](https://trescout.com/en/dictionary/project-management/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is suitable for teams that are bored with complex project management tools and looking for a fast, simple solution on their own server.

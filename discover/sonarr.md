@@ -2,13 +2,15 @@
 
 Sonarr, Usenet (haber grupları) ve BitTorrent kullanıcıları için geliştirilmiş açık kaynaklı, akıllı bir kişisel video kaydedici (PVR) ve medya otomasyon yöneticisidir. C# ve .NET altyapısıyla geliştirilen platform; yeni yayınlanan bölümleri takip eder, indirme istemcileriyle iletişim kurar, dosyaları yeniden adlandırıp Plex ve Jellyfin kütüphanelerine düzenli şekilde aktarır.
 
-- ★ 16.274
+- ★ 17.274
 - C#
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
 
-- **17 Eylül 2026:** Yıldız 16.274, son kararlı sürüm v4.0.20.3014 (.NET 8 çalışma zamanı optimizasyonları ve özel biçim puanlama güncellemeleri).
+- **18 Ekim 2026:** Yıldız 16.274 → 17.274, son sürüm v4.0.20.3014 (16 Eylül 2026).
+- **17 Eylül 2026:** Yıldız 15.798 → 16.274, son sürüm v4.0.20.3014 (16 Eylül 2026).
+- **12 Eylül 2026:** Yıldız 15.796 → 15.798, son sürüm v4.0.19.2979 (26 Haziran 2026).
 
 ## Ne kazandırır?
 
@@ -108,8 +110,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [HDR](https://trescout.com/dictionary/hdr/)
 - [VPN](https://trescout.com/dictionary/vpn/)
 - [Pipeline](https://trescout.com/dictionary/pipeline/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/sonarr/

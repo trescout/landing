@@ -47,6 +47,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 
 - [GUI](https://trescout.com/de/dictionary/gui/)
 - [Terminal](https://trescout.com/de/dictionary/terminal/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Für Benutzer, die eine grafische Benutzeroberfläche anstelle des Terminals bevorzugen und Softwarepakete unter macOS verwalten möchten.

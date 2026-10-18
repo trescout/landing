@@ -83,7 +83,7 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Localhost](https://trescout.com/fr/dictionary/localhost/)
 - [SDK](https://trescout.com/fr/dictionary/sdk/)
 - [LLM](https://trescout.com/fr/dictionary/llm/)
-- [API](https://trescout.com/fr/dictionary/api/)
+- [Open Source](https://trescout.com/fr/dictionary/open-source/)
 
 - **Pour qui:** Développeurs d'intelligence artificielle, chercheurs open source, ingénieurs full-stack et développeurs de prototypes.
 - **Licence:** MIT (Özgür açık kaynak lisansı)

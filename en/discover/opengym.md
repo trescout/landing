@@ -50,6 +50,7 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 ## Related dictionary terms
 
 - [Clone](https://trescout.com/en/dictionary/clone/)
+- [API](https://trescout.com/en/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/en/dictionary/artificial-intelligence/)
 
 - **Who it is for:** It is for fitness enthusiasts who care about the privacy of their workout data and want to track their gym routines on their own server for free.

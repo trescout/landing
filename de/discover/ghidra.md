@@ -89,7 +89,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [Decompiler](https://trescout.com/de/dictionary/decompiler/)
 - [IoT](https://trescout.com/de/dictionary/iot/)
 - [Binary](https://trescout.com/de/dictionary/binary/)
-- [API](https://trescout.com/de/dictionary/api/)
+- [Open Source](https://trescout.com/de/dictionary/open-source/)
 
 - **Für wen es gedacht ist:** Malware-Forscher, Schwachstellenjäger, Reverse-Engineering-Experten und Entwickler eingebetteter Systeme.
 - **Lizenz:** Apache-2.0 (Açık kaynak lisansı)

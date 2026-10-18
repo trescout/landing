@@ -68,6 +68,7 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [CCUsage](https://trescout.com/pt/dictionary/ccusage/)
 - [Local-first](https://trescout.com/pt/dictionary/local-first/)
 - [Token](https://trescout.com/pt/dictionary/token/)
+- [API](https://trescout.com/pt/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/pt/dictionary/artificial-intelligence/)
 
 - **Para quem é:** Destina-se a desenvolvedores de software que usam mais de um agente de codificação de inteligência artificial e desejam rastrear localmente os tokens e os custos gastos por essas ferramentas.

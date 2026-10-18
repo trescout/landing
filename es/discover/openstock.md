@@ -64,6 +64,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Self-hosting](https://trescout.com/es/dictionary/self-hosting/)
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
 - [Clone](https://trescout.com/es/dictionary/clone/)
+- [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Aquellos que quieran seguir el mercado de valores/acciones.

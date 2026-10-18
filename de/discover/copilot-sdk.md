@@ -47,6 +47,7 @@ Sag mir, was ich am Ende jedes Schrittes auf dem Bildschirm sehen sollte. Wenn e
 - [BYOK](https://trescout.com/de/dictionary/byok/)
 - [SDK](https://trescout.com/de/dictionary/sdk/)
 - [LLM](https://trescout.com/de/dictionary/llm/)
+- [API](https://trescout.com/de/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/de/dictionary/artificial-intelligence/)
 
 - **Für wen es gedacht ist:** Es eignet sich für Entwickler, die die Funktionen und agentenbasierten Workflows von GitHub Copilot in ihre eigenen Softwareprojekte integrieren möchten.

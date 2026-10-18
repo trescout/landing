@@ -50,6 +50,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 ## Términos relacionados del glosario
 
 - [Clone](https://trescout.com/es/dictionary/clone/)
+- [API](https://trescout.com/es/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/es/dictionary/artificial-intelligence/)
 
 - **Para quién es:** Está dirigido a entusiastas del deporte que valoran la privacidad de sus datos de entrenamiento y desean realizar un seguimiento gratuito de sus rutinas de gimnasio en su propio servidor.

@@ -100,7 +100,7 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Localhost](https://trescout.com/dictionary/localhost/)
 - [SDK](https://trescout.com/dictionary/sdk/)
 - [LLM](https://trescout.com/dictionary/llm/)
-- [API](https://trescout.com/dictionary/api/)
+- [Open Source](https://trescout.com/dictionary/open-source/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/freellmapi/

@@ -79,8 +79,8 @@ Dis-moi ce que je devrais voir à l'écran à la fin de chaque étape. Si une er
 - [Fork](https://trescout.com/fr/dictionary/fork/)
 - [Parser](https://trescout.com/fr/dictionary/parser/)
 - [CI/CD](https://trescout.com/fr/dictionary/ci-cd/)
-- [API](https://trescout.com/fr/dictionary/api/)
 - [Open Source](https://trescout.com/fr/dictionary/open-source/)
+- [API](https://trescout.com/fr/dictionary/api/)
 - [Artificial Intelligence](https://trescout.com/fr/dictionary/artificial-intelligence/)
 
 - **Pour qui:** Ingénieurs logiciels C++, développeurs de systèmes embarqués et architectes système.

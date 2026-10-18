@@ -77,8 +77,8 @@ Diga-me o que devo ver na tela ao final de cada etapa. Se ocorrer um erro, colar
 - [Reinforcement Learning](https://trescout.com/pt/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/pt/dictionary/cpu/)
 - [GPU](https://trescout.com/pt/dictionary/gpu/)
-- [API](https://trescout.com/pt/dictionary/api/)
 - [Open Source](https://trescout.com/pt/dictionary/open-source/)
+- [API](https://trescout.com/pt/dictionary/api/)
 
 - **Para quem é:** Pesquisadores de robótica, engenheiros mecatrônicos, especialistas em aprendizado por reforço e entusiastas.
 - **Licença:** Apache-2.0 (Açık kaynak lisansı)

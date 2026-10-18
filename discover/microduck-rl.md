@@ -94,8 +94,8 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 - [Reinforcement Learning](https://trescout.com/dictionary/reinforcement-learning/)
 - [CPU](https://trescout.com/dictionary/cpu/)
 - [GPU](https://trescout.com/dictionary/gpu/)
-- [API](https://trescout.com/dictionary/api/)
 - [Open Source](https://trescout.com/dictionary/open-source/)
+- [API](https://trescout.com/dictionary/api/)
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/microduck-rl/

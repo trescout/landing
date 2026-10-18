@@ -83,7 +83,7 @@ Dime qué debería ver en la pantalla al final de cada paso. Si ocurre un error,
 - [Localhost](https://trescout.com/es/dictionary/localhost/)
 - [SDK](https://trescout.com/es/dictionary/sdk/)
 - [LLM](https://trescout.com/es/dictionary/llm/)
-- [API](https://trescout.com/es/dictionary/api/)
+- [Open Source](https://trescout.com/es/dictionary/open-source/)
 
 - **Para quién es:** Desarrolladores de inteligencia artificial, investigadores de código abierto, ingenieros completos y desarrolladores de prototipos.
 - **Licencia:** MIT (Özgür açık kaynak lisansı)

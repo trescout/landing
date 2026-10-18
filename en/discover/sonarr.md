@@ -2,12 +2,13 @@
 
 Sonarr is an open source, intelligent personal video recorder (PVR) and media automation manager developed for Usenet (newsgroups) and BitTorrent users. Platform developed with C# and .NET infrastructure; keeps track of newly released episodes, communicates with download clients, renames and transfers files to Plex and Jellyfin libraries on a regular basis.
 
-- ★ 16,274
+- ★ 17,274
 - C#
 - GitHub Trending · 2026-09-12
 
 ## Updates
 
+- **October 18, 2026:** Stars 16,274 → 17,274, latest release v4.0.20.3014 (September 16, 2026).
 - **September 17, 2026:** Stars 15,798 → 16,274, latest release v4.0.20.3014 (September 16, 2026).
 - **September 12, 2026:** Stars 15,796 → 15,798, latest release v4.0.19.2979 (June 26, 2026).
 
@@ -94,8 +95,8 @@ Tell me what I should see on the screen at the end of each step. If an error occ
 - [HDR](https://trescout.com/en/dictionary/hdr/)
 - [VPN](https://trescout.com/en/dictionary/vpn/)
 - [Pipeline](https://trescout.com/en/dictionary/pipeline/)
-- [API](https://trescout.com/en/dictionary/api/)
 - [Open Source](https://trescout.com/en/dictionary/open-source/)
+- [API](https://trescout.com/en/dictionary/api/)
 
 - **Who it is for:** Home server (Homelab) owners, media enthusiasts and those who want to manage their series archives effortlessly.
 - **License:** GPL-3.0 (Açık kaynak lisansı)
